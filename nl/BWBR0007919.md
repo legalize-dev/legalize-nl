@@ -4,7 +4,7 @@ identifier: "BWBR0007919"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007919"
 soort: "wet"
@@ -46,43 +46,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken.
+In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Economische Zaken en Klimaat onderscheidenlijk Onze Minister van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het betreft het beleidsterrein waarvoor hij verantwoordelijk is, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2&z=2019-01-01&g=2019-01-01) onderscheidenlijk [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 2
 
-1. Onze Minister kan subsidies verstrekken voor activiteiten die passen in het beleid inzake:
+1. Onze Minister van Economische Zaken en Klimaat kan subsidies verstrekken voor activiteiten die passen in het beleid inzake:
 
-- a. bosbouw;
+- a. energie en duurzaamheid;
 
-- b. dierenwelzijn;
+- b. innovatie;
 
-- c. energie en duurzaamheid;
+- c. mededinging;
 
-- d. innovatie;
+- d. ondernemerschap;
 
-- e. landbouw en landbouwonderwijs;
+- e. post;
 
-- f. mededinging;
+- f. regionale economische ontwikkeling;
 
-- g. natuur;
+- g. telecommunicatie;
 
-- h. ondernemerschap;
+- h. klimaat.
 
-- i. openluchtrecreatie;
-
-- j. post;
-
-- k. regionale ontwikkeling;
-
-- l. telecommunicatie;
-
-- m. visserij;
-
-- n. voedselveiligheid.
-
-2. Onze Minister kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen, die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Economische Zaken voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.
-
-3. Het eerste lid is niet van toepassing op landbouwonderwijs voor zover Onze Minister subsidie voor landbouwonderwijs en onderzoek op één van de terreinen, genoemd in het eerste lid, kan verstrekken bij of krachtens een andere wet.
+2. Onze Minister van Economische Zaken en Klimaat kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Economische Zaken en Klimaat voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.
 
 ##### Artikel 3
 
@@ -114,7 +100,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2019-01-01&g=2019-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -122,11 +108,11 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 ##### Artikel 5
 
-Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01), bedoelde regels bepalen dat de subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is deze wet voor die subsidie aldaar van toepassing.
+Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde regels bepalen dat de subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is deze wet voor die subsidie aldaar van toepassing.
 
 ##### Artikel 6
 
-1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
+1. Onze Minister kan met betrekking tot een subsidie, die niet op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2019-01-01&g=2019-01-01) wordt verstrekt, bij de subsidieverlening of, indien geen beschikking tot subsidieverlening is gegeven, bij de subsidievaststelling bepalen, dat een subsidie-ontvanger een vergoeding voor vermogensvorming verschuldigd is overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41).
 
 2. De wijze waarop de hoogte van de vergoeding wordt bepaald wordt vermeld in de beschikking tot subsidieverlening of subsidievaststelling, bedoeld in het eerste lid.
 
@@ -162,11 +148,11 @@ Vervallen
 
 1. De Kaderwet verstrekking financiële middelen EZ en de Kaderwet specifieke uitkeringen EZ worden ingetrokken, met dien verstande dat zij van toepassing blijven op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+2. Na de inwerkingtreding van deze wet berusten de op grond van artikel 2 van de Kaderwet verstrekking financiële middelen EZ en artikel 2 van de Kaderwet specifieke uitkeringen EZ berustende algemene maatregelen van bestuur en ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2019-01-01&g=2019-01-01) van deze wet.
 
 ##### Artikel 11
 
-1. Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van [artikel 4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4) vastgestelde ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2018-07-01&g=2018-07-01) van deze wet.
+1. Na de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) berusten de op grond van [artikel 4 van de Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=4) vastgestelde ministeriële regelingen op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3&z=2019-01-01&g=2019-01-01) van deze wet.
 
 2. Het bij of krachtens de [Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die voor de inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482) zijn verstrekt.
 
@@ -176,6 +162,30 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 13
 
-Deze wet wordt aangehaald als: Kaderwet EZ-subsidies.
+Deze wet wordt aangehaald als: Kaderwet EZK- en LNV-subsidies.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+1. Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan subsidies verstrekken voor activiteiten die passen in het beleid inzake:
+
+- a. bosbouw;
+
+- b. dierenwelzijn;
+
+- c. landbouw;
+
+- d. natuur;
+
+- e. groen onderzoek;
+
+- f. regionale economische ontwikkeling;
+
+- g. visserij;
+
+- h. voedselkwaliteit.
+
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen die genoemd zijn in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begroting van uitgaven en ontvangsten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit voor het desbetreffende jaar, of voor een voorafgaand jaar voor zover daarin een beschikking tot subsidieverlening is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
