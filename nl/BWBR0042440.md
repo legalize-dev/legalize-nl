@@ -109,19 +109,3 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
-
-#### § 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7
-
-1. Het [Organisatie-, mandaat- en volmachtbesluit directie Kinderopvang 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0035041) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.
