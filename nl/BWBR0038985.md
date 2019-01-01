@@ -4,7 +4,7 @@ identifier: "BWBR0038985"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2016-12-31"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038985"
 soort: "wet"
@@ -67,7 +67,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel IVa
 
-Onze Minister van Economische Zaken zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet bewijsvermoeden gaswinning Groningen](onbekend) in de praktijk.
+Onze Minister van Economische Zaken en Klimaat zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet bewijsvermoeden gaswinning Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0038963) in de praktijk.
 
 ##### Artikel V
 
