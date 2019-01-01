@@ -4,7 +4,7 @@ identifier: "BWBR0035310"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035310"
 soort: "wet-BES"
@@ -49,17 +49,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken;
+- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
 - b. **meetinstrument:** apparaat of systeem met een meetfunctie;
 
-- c. **ijk:** keuring van een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
+- c. **ijk:** keuring van een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
 
-- d. **herijk:** herhaalde keuring van een in gebruik genomen meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
+- d. **herijk:** herhaalde keuring van een in gebruik genomen meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) door de bevoegde instantie aan de bij of krachtens artikel 3 gestelde eisen;
 
 - e. **in gebruik nemen:** eerste gebruik van een voor een eindgebruiker bestemd meetinstrument voor het doel waarvoor het is bestemd;
 
-- f. **bevoegde instantie:** op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=5&artikel=11&z=2017-01-01&g=2017-01-01) aangewezen instantie.
+- f. **bevoegde instantie:** op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=5&artikel=11&z=2019-01-01&g=2019-01-01) aangewezen instantie.
 
 ### Hoofdstuk 2. Meeteenheden en standaarden
 
@@ -97,7 +97,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 ##### Artikel 4
 
-1. Een meetinstrument ondergaat een herijk op grond van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) voor dat meetinstrument voorgeschreven eisen:
+1. Een meetinstrument ondergaat een herijk op grond van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) voor dat meetinstrument voorgeschreven eisen:
 
 - a. voordat het meetinstrument weer wordt gebruikt na een reparatie of een verandering die van invloed kan zijn op de meetfunctie,
 
@@ -105,11 +105,11 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 - c. op verzoek van de eigenaar of gebruiker.
 
-2. Bij ministeriële regeling kan voor een meetinstrument als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01), een termijn worden vastgesteld waarbinnen het herijkt moet worden.
+2. Bij ministeriële regeling kan voor een meetinstrument als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01), een termijn worden vastgesteld waarbinnen het herijkt moet worden.
 
 ##### Artikel 5
 
-1. Meetinstrumenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) worden voorzien van een ijkmerk.
+1. Meetinstrumenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) worden voorzien van een ijkmerk.
 
 2. De ijkmerken, bedoeld in het eerste lid, worden onderscheiden in:
 
@@ -133,21 +133,21 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 1. Het is verboden:
 
-- a. een grootheid uit te drukken in een andere meeteenheid dan de meeteenheid die krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01) voor die grootheid is vastgesteld;
+- a. een grootheid uit te drukken in een andere meeteenheid dan de meeteenheid die krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01) voor die grootheid is vastgesteld;
 
-- b. voor een grootheid een benaming te bezigen in strijd met de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01) gestelde regels.
+- b. voor een grootheid een benaming te bezigen in strijd met de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01) gestelde regels.
 
 2. Bij ministeriële regeling kunnen gevallen of omstandigheden worden bepaald waarin het verbod, bedoeld in het eerste lid, niet geldt.
 
 ##### Artikel 8
 
-1. Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) in gebruik te nemen of te gebruiken wanneer deze voldoet aan de voor dit meetinstrument vastgestelde eisen en is voorzien van een goedkeuringsmerk of vergezeld gaat van een voor dit meetinstrument afgegeven schriftelijke verklaring als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=6&z=2017-01-01&g=2017-01-01).
+1. Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) in gebruik te nemen of te gebruiken wanneer deze voldoet aan de voor dit meetinstrument vastgestelde eisen en is voorzien van een goedkeuringsmerk of vergezeld gaat van een voor dit meetinstrument afgegeven schriftelijke verklaring als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01).
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen of omstandigheden een vrijstelling geldt van het gebod, bedoeld in het eerste lid.
 
 ##### Artikel 9
 
-Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) te gebruiken indien het meetinstrument:
+Het is enkel toegestaan een meetinstrument als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) te gebruiken indien het meetinstrument:
 
 - a. in een goede staat van onderhoud verkeert,
 
@@ -167,7 +167,7 @@ Meetinstrumenten welke worden gebruikt voor de verkoop aan particulieren van goe
 
 1. Het bestuurscollege wijst één instantie aan die tot taak heeft met inachtneming van het bij of krachtens deze wet bepaalde:
 
-- a. ten aanzien van meetinstrumenten, waarvoor bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) voorschriften zijn gegeven, de ijk en herijk te verrichten;
+- a. ten aanzien van meetinstrumenten, waarvoor bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) voorschriften zijn gegeven, de ijk en herijk te verrichten;
 
 - b. zorg te dragen voor de uitoefening van het toezicht op de naleving van hetgeen bij of krachtens deze wet is bepaald.
 
@@ -189,7 +189,7 @@ Meetinstrumenten welke worden gebruikt voor de verkoop aan particulieren van goe
 
 - b. inzage te verlangen van alle boeken, bescheiden en andere informatiedragers en daarvan afschrift te nemen of deze daartoe tijdelijk mee te nemen;
 
-- c. meetinstrumenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01) te allen tijde te onderzoeken en deze daartoe tijdelijk mee te nemen en, indien zij niet voldoen aan de bij of krachtens deze wet voor herijk gestelde eisen, van een afkeuringsmerk te voorzien;
+- c. meetinstrumenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=3&artikel=3&z=2019-01-01&g=2019-01-01) te allen tijde te onderzoeken en deze daartoe tijdelijk mee te nemen en, indien zij niet voldoen aan de bij of krachtens deze wet voor herijk gestelde eisen, van een afkeuringsmerk te voorzien;
 
 - d. met medeneming van de benodigde apparatuur elke plaats te betreden met uitzondering van een woning zonder toestemming van de bewoner waarbij zij bevoegd zijn zich te doen vergezellen door personen die daartoe door hen zijn aangewezen.
 
@@ -207,11 +207,11 @@ In beslag genomen meetinstrumenten worden niet aan de rechthebbende teruggegeven
 
 ##### Artikel 15
 
-Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die handelt in strijd met dan wel niet voldoet aan de vereisten gesteld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=7&z=2017-01-01&g=2017-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=8&z=2017-01-01&g=2017-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=9&z=2017-01-01&g=2017-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=10&z=2017-01-01&g=2017-01-01).
+Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die handelt in strijd met dan wel niet voldoet aan de vereisten gesteld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=7&z=2019-01-01&g=2019-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=8&z=2019-01-01&g=2019-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=9&z=2019-01-01&g=2019-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=4&artikel=10&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 16
 
-De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=6&artikel=15&z=2017-01-01&g=2017-01-01) strafbaar gestelde feiten worden beschouwd als overtreding.
+De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&hoofdstuk=6&artikel=15&z=2019-01-01&g=2019-01-01) strafbaar gestelde feiten worden beschouwd als overtreding.
 
 ### Hoofdstuk 7. Overige bepalingen
 
