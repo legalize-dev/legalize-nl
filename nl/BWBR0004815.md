@@ -4,7 +4,7 @@ identifier: "BWBR0004815"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004815"
 soort: "wet"
@@ -310,11 +310,11 @@ Vervallen
 
 ##### Artikel 48
 
-1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2017-01-01&g=2017-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
+1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2019-01-01&g=2019-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
 
 - a. om niet;
 
-- b. door gemeenten, gemeentelijke kredietbanken of andere door gemeenten gehouden instellingen, die zich krachtens hun doelstelling met schuldbemiddeling bezighouden;
+- b. door gemeenten, gemeentelijke kredietbanken of instellingen, die zich in opdracht en voor rekening van gemeenten met schuldbemiddeling bezighouden;
 
 - c. door advocaten, curatoren en bewindvoerders ingevolge de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) of ingevolge [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), dan wel [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), notarissen, deurwaarders, registeraccountants en accountants-administratieconsulenten;
 
