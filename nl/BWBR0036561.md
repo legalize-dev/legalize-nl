@@ -4,7 +4,7 @@ identifier: "BWBR0036561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036561"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I van de wet van
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscategorie T.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036561&artikel=1&z=2018-01-01&g=2018-01-01) van de Regeling eisen theorie-examen rijbewijscategorie T
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036561&artikel=1&z=2019-01-01&g=2019-01-01) van de Regeling eisen theorie-examen rijbewijscategorie T
 
-### Eind- en toetstermen voor het theorie-examen voor de rijbewijscategorie T
+### Toetsmatrijs Theorie-examen Rijbewijs voor categorie T
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -81,3 +81,7 @@ P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 In deze toetsmatrijs staat wat u moet kunnen en kennen. De toetsmatrijs vormt daarom de basis van de opleiding en het examen.
+
+In deze toetsmatrijs staat wat u moet kunnen en kennen. De toetsmatrijs vormt daarom de basis van de opleiding en het examen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
