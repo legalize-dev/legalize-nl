@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 | Bezoldigingsklasse | Maximale bezoldiging |
 | --- | --- |
-| A | 87.000 |
-| B | 98.000 |
-| C | 110.000 |
-| D | 118.000 |
-| E | 137.000 |
-| F | 156.000 |
-| G | 176.000 |
+| A | 91.000 |
+| B | 102.000 |
+| C | 114.000 |
+| D | 123.000 |
+| E | 142.000 |
+| F | 162.000 |
+| G | 183.000 |
 | H | De maximale bezoldiging, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
@@ -85,7 +85,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2014.
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014.
+Deze regeling wordt aangehaald als: Regeling normering topinkomens toegelaten instellingen volkshuisvesting.
 
 ## Bijlage
 
@@ -105,10 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2018-01-01&g=2018-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2019-01-01&g=2019-01-01), van toepassing zijn. Indien een fusie heeft plaatsgevonden tussen toegelaten instellingen, wordt voor de bepaling van het aantal verhuureenheden het aantal verhuureenheden dat de gefuseerde toegelaten instellingen in eigendom of beheer hadden op de peildatum bij elkaar opgeteld. De klasse wordt op de fusiedatum opnieuw vastgesteld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2018-01-01&g=2018-01-01), van toepassing zijn.
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2019-01-01&g=2019-01-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
