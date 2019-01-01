@@ -4,7 +4,7 @@ identifier: "BWBR0039974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2018-11-15"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039974"
 soort: "ministeriele-regeling"
@@ -351,7 +351,7 @@ De militair met een Nederlands militair parachutistenbrevet, of in opleiding daa
 
 - e. een gedeelte van een etmaal aangemerkt als een vol etmaal.
 
-5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2018-11-15&g=2018-11-15).
+5. De wijze van berekenen van de toelage, bedoeld in het tweede lid, voor de tijd, bedoeld in het vierde lid, onder b, heeft geen invloed op de aanspraak van de militair op de duiktoelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=15&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 17. Toelage verblijf recompressietoestel
 
@@ -683,15 +683,15 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 36a. Garantievliegtoelage
 
-1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2018-11-15&g=2018-11-15), zoals dat artikel luidde voor genoemde datum.
+1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2019-01-01&g=2019-01-01), zoals dat artikel luidde voor genoemde datum.
 
-2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2018-11-15&g=2018-11-15) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
+2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2019-01-01&g=2019-01-01) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
 
-3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2018-11-15&g=2018-11-15) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2018-11-15&g=2018-11-15), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
+3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2019-01-01&g=2019-01-01) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2019-01-01&g=2019-01-01), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
 
 ##### Artikel 37. Herstructurering vliegtoelage/garantievliegtoelage
 
-1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2018-11-15&g=2018-11-15), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
+1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van tabel 21. Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2019-01-01&g=2019-01-01), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
 
 2. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een garantievliegtoelage als bedoeld in artikel 3, tweede lid, of artikel 5, vierde lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 48, tweede lid, of artikel 80, vierde lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, is bij beëindiging van de in genoemde bepalingen bedoelde tijdelijke onderbreking voor het vaststellen van de waarderingsfactor het eerste lid van overeenkomstige toepassing.
 
@@ -757,7 +757,133 @@ Deze regeling wordt aangehaald als: Inkomstenregeling militairen.
 
 (vervallen)
 
+### Tabel 1
+
 ### Tabel 2. Vliegtoelage
+
+(vervallen)
+
+### Tabel 3
+
+(vervallen)
+
+### Tabel 4
+
+(vervallen)
+
+### Tabel 5. Toelage Huis van Z.M. de Koning
+
+per 30 april 2013
+
+### Tabel 6
+
+(vervallen)
+
+### Tabel 7. Bindingspremie jachtvlieger
+
+per 1 januari 2002
+
+### Tabel 8a. Toelage officieren-medisch specialist
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 8b. Toelage officieren-arts, -tandarts en -apotheker
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 8c
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 9. Overige toelagen
+
+Bedragen met ingang van **1 januari 2016** (in euro’s)
+
+### Tabel 10. Brevettoelage
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 11. Vliegtoelage
+
+### Tabel 12. Vliegtoelage (waarderingsfactoren)
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 13. Vlieggeld
+
+Overzicht categorieën personeel dat bij aanstelling in 2019 in aanmerking komt voor een aanstellingspremie ([artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=13a&z=2019-01-01&g=2019-01-01) IRM)
+
+Overzicht categorieën VeVa die bij start VeVa-opleiding in 2019 in aanmerking komen voor een aanstellingspremie (na daadwerkelijke instroom en afronding initiële opleiding bij Defensie) ([artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=13a&z=2019-01-01&g=2019-01-01) IRM)
+
+1 De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
+
+### Tabel 13b
+
+### Tabel 13b
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 14. Duiktoelage
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 15. Toelage verblijf onderwaterlaboratorium
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 16. Toelage verblijf recompressietoestel
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 17. Toelage verblijf decompressietoestel
+
+### Tabel 18. Tegemoetkoming in de kosten van representatie
+
+### Tabel 19. Tegemoetkoming in de kosten van recepties
+
+Bedragen met ingang van 1 januari 2004 (in euro’s)
+
+### Tabel 20. Havenvergoeding
+
+### Tabel 21. Herstructurering vliegtoelage (waarderingsfactoren)
+
+(vervallen)
+
+### Tabel 22
+
+(vervallen)
+
+### Tabel 23
+
+(vervallen)
+
+### Tabel 24
+
+(vervallen)
+
+### Tabel 25. Toelage meerdaagse dienstreis
+
+Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
+
+##### Artikel 3a. Garantietoelage minimumloon
+
+De bedragen van het militair-specifiek minimumloon, bedoeld in [artikel 10 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=10), zijn opgenomen in tabel 1.
+
+### Hoofdstuk 3. Toelagen voor risico’s, inconveniënten en functiegebonden werkzaamheden
+
+### Hoofdstuk 4. Kostentegemoetkomingen
+
+### Hoofdstuk 5. Uitkeringen
+
+### Hoofdstuk 6. Overgangsbepalingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage
+
+### Tabel 1
+
+(vervallen)
 
 ### Tabel 3
 
@@ -803,21 +929,13 @@ Bedragen met ingang van **1 januari 2016**
 
 Bedragen met ingang van **1 januari 2016**
 
-### Tabel 12. Vliegtoelage (waarderingsfactoren)
-
 ### Tabel 13. Vlieggeld
 
 Bedragen met ingang van **1 januari 2016**
 
 ### Tabel 13a
 
-* Niet van toepassing op CLSK kandidaten die instromen via het leerovereenkomstentraject m.u.v. OO vliegtuigonderhoud (Bl en B2). Bij CLSK officieren die Instromen middels een leerovereenkomst wordt de verkregen vergoeding in mindering gebracht op de aanstellingspremie.
-
-** Bij CZSK kandidaten officieren ADBTD KOO en kandidaten onderofficieren KPLTD die instromen via het leerovereenkomstentraject wordt de verkregen vergoeding voor de leerovereenkomst in mindering gebracht op de aanstellingspremie.
-
-*** De aanstellingspremie zal worden toegekend bij de daadwerkelijk aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij toekenning van deze aanstellingspremie bestaat geen recht op een andere aanstellingspremie.
-
-### Tabel 13b
+1 De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
 
 ### Tabel 14. Duiktoelage
 
@@ -835,15 +953,9 @@ Bedragen met ingang van **1 januari 2016**
 
 Bedragen met ingang van **1 januari 2016**
 
-### Tabel 18. Tegemoetkoming in de kosten van representatie
-
-### Tabel 19. Tegemoetkoming in de kosten van recepties
-
 ### Tabel 20. Havenvergoeding
 
 Bedragen met ingang van 1 januari 2004 (in euro’s)
-
-### Tabel 21. Herstructurering vliegtoelage (waarderingsfactoren)
 
 ### Tabel 22
 
@@ -858,6 +970,140 @@ Bedragen met ingang van 1 januari 2004 (in euro’s)
 (vervallen)
 
 ### Tabel 25. Toelage meerdaagse dienstreis
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 26. Vakgebieden waarbinnen een klinisch medisch specialist werkzaam is
+
+Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
+
+##### Artikel 6a. Maatregel in verband met verminderd pensioenvooruitzicht
+
+1. In dit artikel wordt verstaan onder:
+
+- –. **actuariële factor:** de actuariële factor, zoals vermeld in de lijst van actuariële factoren in tabel 27, die geldt voor de militair op basis van zijn actuele leeftijd op het berekeningsmoment;
+
+- –. **berekeningsgrondslag eindloon:** het pensioengevend inkomen eindloon verminderd met de overhevelingstoeslag ingevolge artikel 17.3.1 van het pensioenreglement militairen 2018 en tot het maximum pensioengevend salaris;
+
+- –. **berekeningsgrondslag middelloon:** het pensioengevend inkomen middelloon tot het maximum pensioengevend salaris;
+
+- –. **berekeningsmoment:** het transitiemoment op 1 januari 2019 en de momenten van de eerste en tweede bevordering;
+
+- –. **bevordering:** de bevordering zoals bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24a) en [24b van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b), waarbij een tijdelijke bevordering als bedoeld in artikel 24, vijfde lid, en artikel 24b, tweede lid buiten beschouwing wordt gelaten;
+
+- –. **compensatiebedrag:** het berekende bedrag van het nadelig pensioenvooruitzicht vermenigvuldigd met het werkgeversdeel van 70 procent en vermenigvuldigd met de actuariële factor;
+
+- –. **franchise eindloon:** de franchise in de eindloonregeling per 1 januari 2019 van € 20.100;
+
+- –. **franchise middelloon:** de op basis van het pensioengevende inkomen van de militair geldende franchise in de middelloonregeling conform de pensioenregeling militairen 2019;
+
+- –. **geprognosticeerde AOW-leeftijd:** de door het SVB geprognosticeerde AOW-leeftijd die van toepassing is op het moment van keuze voor de maatregel 4=4;
+
+- –. **maatregel 4=4:** het leeftijdsontslag als bedoeld in [artikel 39a, vijfde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), waarbij de voor de militair geldende UGM-ingangsdatum wordt gehanteerd en een pensioeningangsdatum op de geprognosticeerde AOW-leeftijd;
+
+- –. **maximum pensioengevend salaris:** de aftoppingsgrens van het pensioengevend inkomen op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) in 2019 (€ 107.593);
+
+- –. **maximum pensioenopbouwbedrag eindloon:** het bedrag van € 1.449,76 zijnde het product van het pensioenopbouwpercentage eindloon (1,657%) en het verschil van het maximum pensioengevend salaris (€ 107.593) en de franchise eindloon (€ 20.100);
+
+- –. **maximum pensioenopbouwbedrag middelloon:** het bedrag van € 1.758,62 zijnde het product van het pensioenopbouwpercentage middelloon (1,875%) en het verschil van het maximum pensioengevend salaris (€ 107.593) en de franchise middelloon (€ 13.800);
+
+- –. **nadelig pensioenvooruitzicht:** het berekende bedrag dat het uitzichtpensioen op basis van de eindloonregeling hoger is dan het uitzichtpensioen op basis van de middelloonregeling;
+
+- –. **niet reguliere wijziging van een vaste toelage:** de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2023-08-31&g=2019-01-01) van de Inkomstenregeling militairen;
+
+- –. **nieuwe diensteinderegeling:** het leeftijdsontslag als bedoeld in [artikel 39, tweede lid, onder a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), waarbij in dit artikel wordt uitgegaan van een UGM-ingangsdatum op de leeftijd van 63 jaar en een pensioeningangsdatum op de leeftijd van 68 jaar;
+
+- –. **opbouwpercentage eindloon:** het opbouwpercentage in de eindloonregeling van 1,657%;
+
+- –. **opbouwpercentage middelloon:** het op basis van het pensioengevende inkomen van de militair geldende opbouwpercentage in de middelloonregeling conform de pensioenregeling militairen 2019;
+
+- –. **oude diensteinderegeling:** het leeftijdsontslag als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), waarbij de voor de militair geldende UGM-ingangsdatum wordt gehanteerd en een pensioeningangsdatum op de leeftijd van 65 jaar;
+
+- –. **overhevelingstoeslag:** de verhoging van het inkomen ingevolge [artikel 3 van de Wet brutering overhevelingstoeslag lonen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=3), welk bedrag voor militairen tot 1 januari 2019 was bepaald in [artikel 3b van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=3b);
+
+- –. **overhevelingstoeslagcorrectie:** het bedrag dat gevonden wordt door de berekening (1 – 1,02−N) x 761,52 x 1,657%; waarbij N gelijk is aan het aantal gehele jaren tussen 1 januari 2019 en de pensioeningangsdatum;
+
+- –. **pensioenjaren eindloon op pensioendatum:** het aantal ABP-pensioenjaren in de eindloonregeling op de pensioendatum, waarbij in voorkomend geval voor de militair rekening wordt gehouden met een pensioenknip en waarbij de diensttijd tijdens uitzendingen vanaf 1 januari 2020 wordt vermenigvuldigd met een factor 1,44;
+
+- –. **pensioenknip:** een correctie op de pensioenjaren in de eindloonregeling ingevolge artikel 17.5.7 van het pensioenreglement militairen 2018;
+
+- –. **partner:** de partner van de militair die ingevolge het ABP pensioenreglement in aanmerking komt van partnerpensioen;
+
+- –. **pensioengevend inkomen eindloon:** de bezoldiging van de militair in zijn (nieuwe) rang als eindrang, dat wordt bepaald uitgaande van de voor hem geldende weddetabel per 1 januari 2019 vermeerderd met de vaste pensioengevende toelagen in de eindloonregeling zoals vermeld in [artikel 23a, eerste lid van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a) en conform de bedragen zoals opgenomen in de Inkomstenregeling militairen per 1 januari 2019;
+
+- –. **pensioengevend inkomen middelloon:** de bezoldiging van de militair in zijn (nieuwe) rang als eindrang, dat wordt bepaald uitgaande van de voor hem geldende weddetabel per 1 januari 2019 vermeerderd met de vaste pensioengevende toelagen in de middelloonregeling conform [artikel 23a, eerste lid en tweede lid onder a van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a), met uitzondering van de tijdelijke toelage loongebouw bedoeld in tabel b, onder e, en conform de bedragen zoals opgenomen in de Inkomstenregeling militairen per 1 januari 2019.
+
+2. Het pensioenopbouwbedrag eindloon wordt berekend door de berekeningsgrondslag eindloon te verminderen met de franchise eindloon en vervolgens te vermenigvuldigen met het opbouwpercentage eindloon. Vervolgens wordt het pensioenopbouwbedrag eindloon vermeerderd met de overhevelingstoeslagcorrectie.
+
+Indien de berekeningsgrondslag eindloon kleiner is dan € 31.158, dan wordt het in de vorige volzin bepaalde pensioenopbouwbedrag eindloon verhoogd met € 45. Het pensioenopbouwbedrag eindloon is maximaal gelijk aan het maximum pensioenopbouwbedrag eindloon (€ 1.449,76).
+
+3. Het pensioenopbouwbedrag middelloon wordt berekend door de berekeningsgrondslag middelloon te verminderen met de franchise middelloon en vervolgens te vermenigvuldigen met het opbouwpercentage middelloon. Het pensioenopbouwbedrag middelloon is maximaal gelijk aan het maximum pensioenopbouwbedrag middelloon (€ 1.758,62).
+
+4. Het uitzichtpensioen in de eindloonregeling op pensioendatum wordt berekend door het pensioenopbouwbedrag eindloon op de UGM-ingangsdatum te vermenigvuldigen met het aantal pensioenjaren eindloon op de pensioeningangsdatum, waarbij vanaf de UGM-ingangsdatum tot aan de pensioendatum voor 50% pensioentijd wordt opgebouwd.
+
+5. Het uitzichtpensioen in de middelloonregeling wordt berekend door het opgebouwde pensioen in de eindloonregeling per 1 januari 2019 en de jaarlijkse berekende pensioenopbouwbedragen middelloon vanaf 1 januari 2019 tot aan de pensioeningangsdatum, waarbij vanaf de UGM-ingangsdatum op grond van de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) tot aan de pensioendatum voor 50% pensioen wordt opgebouwd.
+
+6. Bij de bepaling van de pensioenopbouwbedragen, als bedoeld in het vierde en vijfde lid, wordt rekening gehouden met toekomstige reguliere salarisstijgingen (periodieken) in de rang en met de toekomstige reguliere wijzigingen van de vaste toelagen zoals vastgelegd in de tabellen van de Inkomstenregeling militairen per 1 januari 2019.
+
+7. Op het berekeningsmoment wordt voor de militair uitgaande van zijn (nieuwe) rang als eindrang en uitgaande van de nieuwe diensteinderegeling een vergelijking gemaakt van zijn uitzichtpensioen in de eindloonregeling en zijn uitzichtpensioen in de middelloonregeling. Indien de vergelijking leidt tot een negatief pensioenvooruitzicht, dan wordt het compensatiebedrag in de periode van tien jaar na het berekeningsmoment uitgekeerd als een gelijkblijvende maandelijkse uitkering.
+
+8. Bij een volgend berekeningsmoment wordt een lopende uitkering beëindigd en wordt uitgaande van de nieuwe rang, opnieuw een vergelijking gemaakt van het uitzichtpensioen in de eindloonregeling en het uitzichtpensioen in de middelloonregeling. Indien de vergelijking leidt tot een negatief pensioenvooruitzicht, wordt het nieuwe compensatiebedrag verminderd met reeds toegekende compensaties en uitgekeerd in een nieuwe periode van tien jaar als een gelijkblijvende maandelijkse uitkering.
+
+9. Indien op een berekeningsmoment de UGM-ingangsdatum binnen de periode van tien jaar ligt, wordt het compensatiebedrag in maandelijks gelijke bedragen uitgekeerd over de periode tot aan de UGM-ingangsdatum.
+
+10. Een herberekening van de vergelijking van het pensioenvooruitzicht op de berekeningsmomenten, als bedoeld in het zevende en achtste lid, vindt gedurende de uitkeringsperiode van tien jaar plaats indien:
+
+- a. het deeltijdpercentage van de militair wijzigt, waarbij voor de bepaling van het uitzichtpensioen op het herberekeningsmoment wordt uitgegaan van de werkelijke pensioenjaren voor het verleden en voor de toekomst wordt uitgegaan van pensioenjaren rekening houdend met het gewijzigde deeltijdpercentage;
+
+- b. de diensteinderegeling voor de militair wijzigt door de keuze voor de maatregel 4=4 of voor de oude diensteinderegeling;
+
+- c. een militair wordt uitgezonden;
+
+- d. sprake is van toekenning, niet reguliere wijziging of beëindiging van een vaste toelage.
+
+11. Indien na een herberekening, als bedoeld in het voorgaande lid, aanspraak bestaat op een compensatiebedrag, wordt onder aftrek van de reeds uitbetaalde compensatiebedragen een restant compensatiebedrag over de resterende maanden van de uitkeringsperiode uitbetaald.
+
+12. Indien een militair voorafgaand aan zijn UGM-ingangsdatum gebruik maakt van inverdientijd op grond van [artikel 39c van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39c), wordt het restant aan maandelijkse uitkeringen waarop de militair nog aanspraak heeft bij zijn ontslag als een bedrag ineens uitgekeerd.
+
+13. Indien een militair binnen een uitkeringsperiode van tien jaar met ontslag gaat:
+
+- a. op een grond van [artikel 39, tweede lid, onder c of d, onder e, ten tweede, onder f, g, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39) (onbekwaam of ongeschikt en niet verwijtbaar niet herplaatsbaar) of op grond van artikel 39 achtste lid van het Algemeen militair ambtenarenreglement, wordt het restant aan maandelijkse uitkeringen, waarop de militair nog aanspraak heeft bij zijn ontslag, als een bedrag ineens uitgekeerd;
+
+- b. op een grond van [artikel 39, eerste lid en tweede lid, onder e, ten eerste, of onder h, of onder j (onbekwaam of ongeschikt en verwijtbaar niet herplaatsbaar), of onder k, l, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39) of op grond van [artikel 53 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=53), stopt de maandelijkse uitkering.
+
+14. Indien een militair binnen een jaar na ontslag weer als militair in dienst treedt of na ontslag weer als militair in dienst treedt en zijn verblijf buiten Defensie gedurende de periode van zijn ontslag en herintreding voortkomt uit een vooraf vastgelegde schriftelijke overeenkomst tussen Defensie en de militair, bestaat weer aanspraak op de maatregel als bedoeld in dit artikel.
+
+15. Indien een herintredende militair, als bedoeld in het voorgaande lid, voor zijn uitdiensttreding aanspraak had op een compensatiebedrag, wordt op het moment van herintreding een herberekening van de uitzichtpensioenen gemaakt uitgaande van de op moment van herintreding van toepassing zijnde pensioenjaren eindloon en het opgebouwde middelloonpensioen. Indien:
+
+- a. na herberekening aanspraak bestaat op een compensatiebedrag, wordt onder aftrek van de reeds uitbetaalde compensatiebedragen een restant compensatiebedrag over de resterende maanden van de uitkeringsperiode uitbetaald;
+
+- b. bij herintreding sprake is van een hogere rang, wordt een compensatiebedrag bepaald uitgaande van maximaal twee rangen direct boven de rang op transitiemoment.
+
+16. Indien een militair binnen een uitkeringsperiode van tien jaar overlijdt, wordt 70 procent van het restant aan maandelijkse uitkeringen waarop de militair nog aanspraak zou hebben gehad ineens uitgekeerd aan de partner.
+
+### Hoofdstuk 3. Toelagen voor risico’s, inconveniënten en functiegebonden werkzaamheden
+
+### Hoofdstuk 4. Kostentegemoetkomingen
+
+### Hoofdstuk 5. Uitkeringen
+
+### Hoofdstuk 6. Overgangsbepalingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage
+
+(vervallen)
+
+Bedragen met ingang van **1 januari 2016**
+
+### Tabel 13a
+
+1 De aanstellingspremie wordt toegekend bij daadwerkelijke aanstelling bij dit functiecluster na succesvolle afronding van de initiële opleiding. Bij aanstelling in werkelijke dienst wordt de definitieve aanstellingspremie vastgesteld. De hoogste geldende premie op dat moment is van toepassing.
+
+Bedragen met ingang van **1 januari 2016**
+
+Bedragen met ingang van 1 januari 2004 (in euro’s)
 
 Bedragen met ingang van **1 januari 2016**
 
