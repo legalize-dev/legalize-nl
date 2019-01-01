@@ -4,7 +4,7 @@ identifier: "BWBR0008808"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2007-06-22"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008808"
 soort: "wet"
@@ -101,5 +101,15 @@ Deze wet treedt in werking met ingang van 1 januari 1997. Indien het **Staatsbla
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Wet adviesstelsel Justitie.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3a
+
+1. Er is een commissie insolventierecht.
+
+2. De commissie bestaat, met inbegrip van de voorzitter, uit ten minste zes en ten hoogste tien leden.
+
+3. De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het insolventierecht.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
