@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-11-09"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -85,7 +85,7 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27) zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2018-11-09&g=2018-11-09) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27) zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2019-01-01&g=2019-01-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -96,6 +96,8 @@ Het is verboden te handelen in strijd met de artikelen 2, 3, en 4, eerste lid, v
 1. Een melding bij Onze Minister als bedoeld in [artikel 10, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=10) wordt gedaan op een door Onze Minister aangegeven wijze.
 
 2. Een melding bij de bevoegde autoriteit als bedoeld in [artikel 10, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=10), of [13, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=13) wordt gedaan op een door de bevoegde autoriteit aangegeven wijze.
+
+3. Een melding bij het CSIRT voor digitale diensten als bedoeld in [artikel 13, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=13) wordt gedaan op een door het CSIRT voor digitale diensten aangegeven wijze.
 
 ##### Artikel 7. (intrekking [Besluit meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0040368))
 
