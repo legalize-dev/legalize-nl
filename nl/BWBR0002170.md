@@ -4,7 +4,7 @@ identifier: "BWBR0002170"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2013-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002170"
 soort: "wet"
@@ -68,7 +68,7 @@ Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op de Centrale Raad van Beroep, met dien verstande dat:
 
-- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2013-01-01&g=2013-01-01), zijn;
+- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2019-01-01&g=2019-01-01), zijn;
 
 - b. de voorzitter onderscheidenlijk het andere rechterlijk lid gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van zijn salaris overeenkomstig het bepaalde bij en krachtens [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid ontvangt, en dat daarop de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13), [17, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17), en [18 tot en met 19 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=18) van overeenkomstige toepassing zijn;
 
@@ -98,7 +98,7 @@ Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.
 
 - f. het bestuur de werkzaamheden van de leden met rechtspraak belast verdeelt; en
 
-- g. het lid met rechtspraak belast, dat tevens president is van de Centrale Raad van Beroep, ten aanzien van hen bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke waarschuwing, het verrichten van de beoordeling, bedoeld in [artikel 44, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en het doen van een verzoek aan de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o).
+- g. het lid met rechtspraak belast, dat tevens president is van de Centrale Raad van Beroep, ten aanzien van hen bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke berisping, het verrichten van de beoordeling, bedoeld in [artikel 44, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en het doen van een verzoek aan de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o).
 
 2. Op de senior-gerechtsauditeurs en gerechtsauditeurs is de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voor zover betrekking hebbend op gerechtsauditeurs, met uitzondering van [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b), van overeenkomstige toepassing, met dien verstande dat:
 
