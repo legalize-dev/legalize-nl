@@ -4,7 +4,7 @@ identifier: "BWBR0032775"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-23"
-last_updated: "2014-01-25"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032775"
 soort: "wet"
@@ -63,11 +63,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **internationale verplichtingen:** verplichtingen tot het aanhouden van een voorraad aardolieproducten, voortvloeiend uit de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47) en uit [richtlijn 2009/119/EG](32009L0119);
 
-- –. **marktdeelnemer:** vergunninghouder als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2014-01-25&g=2014-01-25);
+- –. **marktdeelnemer:** vergunninghouder als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01);
 
 - –. **olievoorraden:** voorraden ruwe aardolie of andere aardolieproducten, gedefinieerd in bijlage C, punt 3.1, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304);
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken;
+- –. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
 - –. **referentiejaar:** kalenderjaar dat voorafgaat aan het voorraadjaar;
 
@@ -141,7 +141,7 @@ De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende
 
 ##### Artikel 5
 
-1. De vaststelling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2014-01-25&g=2014-01-25), geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van [richtlijn 2009/119/EG](32009L0119) en wel zodanig dat:
+1. De vaststelling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van [richtlijn 2009/119/EG](32009L0119) en wel zodanig dat:
 
 - a. ten minste 1/3 van de wettelijke voorraad wordt aangehouden in de vorm van de volgende aardolieproducten: motorbenzine, gasolie/dieselolie (aardoliedistillaat) en reactiemotorbrandstof van het kerosinetype;
 
@@ -151,13 +151,13 @@ De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende
 
 2. De hoeveelheid aardolieproducten die wordt aangehouden door een marktdeelnemer wordt bepaald door:
 
-- a. de drempel, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2014-01-25&g=2014-01-25), te verdelen over de diverse categorieën aardolieproducten naar rato van de uitslag van elke categorie in het referentiejaar;
+- a. de drempel, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), te verdelen over de diverse categorieën aardolieproducten naar rato van de uitslag van elke categorie in het referentiejaar;
 
 - b. per categorie aardolieproducten de in het referentiejaar uitgeslagen hoeveelheid te verminderen met de hoeveelheid die is berekend met toepassing van onderdeel a en
 
 - c. de met toepassing van onderdeel b berekende hoeveelheid te vermenigvuldigen met een bij algemene maatregel van bestuur vast te stellen percentage.
 
-3. Ten minste de helft van de aldus voor een marktdeelnemer vastgestelde verplicht aan te houden voorraad wordt aangehouden in de vorm van aardolieproducten, bedoeld in [artikel 2, onderdelen b, e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=1&artikel=2&z=2014-01-25&g=2014-01-25). Het overige deel mag worden aangehouden met de aardolieproducten, bedoeld in artikel 2, onderdelen a tot en met i.
+3. Ten minste de helft van de aldus voor een marktdeelnemer vastgestelde verplicht aan te houden voorraad wordt aangehouden in de vorm van aardolieproducten, bedoeld in [artikel 2, onderdelen b, e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01). Het overige deel mag worden aangehouden met de aardolieproducten, bedoeld in artikel 2, onderdelen a tot en met i.
 
 4. De totale hoeveelheid aardolieproducten die COVA moet aanhouden, wordt bepaald door de wettelijke voorraad te verminderen met de totale hoeveelheid aardolieproducten die marktdeelnemers aan moeten houden. Voor zover met de voorraadplicht van de marktdeelnemers tezamen niet wordt voldaan aan het eerste lid, onderdeel a, wordt het resterende deel van de bedoelde aardolieproducten door COVA aangehouden.
 
@@ -181,7 +181,7 @@ Onze Minister kan met het oog op een dreigende oliecrisis bepalen dat het voor C
 
 1. Een product wordt slechts tot de wettelijke voorraad gerekend, indien het zich bevindt in een lidstaat van de Europese Unie.
 
-2. Als het product zich niet in Nederland bevindt, wordt het slechts tot de wettelijke voorraad gerekend indien is voldaan aan het gestelde bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=2&artikel=10&z=2014-01-25&g=2014-01-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=12&z=2014-01-25&g=2014-01-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2014-01-25&g=2014-01-25) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=15&z=2014-01-25&g=2014-01-25).
+2. Als het product zich niet in Nederland bevindt, wordt het slechts tot de wettelijke voorraad gerekend indien is voldaan aan het gestelde bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=2&artikel=10&z=2019-01-01&g=2019-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=12&z=2019-01-01&g=2019-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2019-01-01&g=2019-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=15&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 9
 
@@ -283,13 +283,13 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen worden gesteld aan het buiten Nederland aanhouden van een voorraad aardolieproducten als onderdeel van de wettelijke voorraad.
 
-2. Onze Minister kan nadere regels stellen met betrekking tot de melding van overdrachten als bedoeld in de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=11&z=2014-01-25&g=2014-01-25), en [14, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2014-01-25&g=2014-01-25).
+2. Onze Minister kan nadere regels stellen met betrekking tot de melding van overdrachten als bedoeld in de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01), en [14, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2019-01-01&g=2019-01-01).
 
 #### § 4. Informatie- en administratieverplichtingen
 
 ##### Artikel 16
 
-1. Onze Minister houdt, onder verwijzing naar de categorieën genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=1&artikel=2&z=2014-01-25&g=2014-01-25), een register in stand van de wettelijke voorraad. Dit register bevat de in het tweede en derde lid bedoelde informatie.
+1. Onze Minister houdt, onder verwijzing naar de categorieën genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), een register in stand van de wettelijke voorraad. Dit register bevat de in het tweede en derde lid bedoelde informatie.
 
 2. De voorraadplichtige verstrekt aan Onze Minister gegevens omtrent de omvang en samenstelling van de in voorraad aangehouden aardolieproducten, de plaats waar deze producten worden aangehouden, zijn rechtsbetrekking daartoe, alsmede, indien er sprake is van overdracht van de verplichting om voorraden aardolieproducten aan te houden, omtrent de in dit verband gehanteerde financiële vergoeding, als bij ministeriële regeling bepaald.
 
@@ -317,11 +317,11 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 ##### Artikel 19
 
-1. Onze Minister kan op verzoek van een voorraadplichtige ontheffing verlenen van de [artikelen 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2014-01-25&g=2014-01-25), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2014-01-25&g=2014-01-25), indien de voorraadplicht voor de voorraadplichtige leidt tot een onevenredig zware financiële belasting doordat hij
+1. Onze Minister kan op verzoek van een voorraadplichtige ontheffing verlenen van de [artikelen 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01), indien de voorraadplicht voor de voorraadplichtige leidt tot een onevenredig zware financiële belasting doordat hij
 
 - a. niet of slechts voor een zeer gering deel de in voorraad te houden aardolieproducten in eigendom heeft en niet of slechts in geringe mate beschikt over opslagcapaciteit voor de aardolieproducten of
 
-- b. in omstandigheden als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2014-01-25&g=2014-01-25), verkeert of dreigt te gaan verkeren of getroffen wordt of dreigt te worden getroffen door de daar bedoelde maatregelen.
+- b. in omstandigheden als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01), verkeert of dreigt te gaan verkeren of getroffen wordt of dreigt te worden getroffen door de daar bedoelde maatregelen.
 
 2. De ontheffing kan betrekking hebben op een deel van de verplichting of een bepaalde categorie aardolieproducten.
 
@@ -389,7 +389,7 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 ##### Artikel 26
 
-1. Onder de naam voorraadheffing wordt een heffing geheven van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=3&artikel=27&z=2014-01-25&g=2014-01-25) bedoelde producten. De voorraadheffing strekt tot financiering van de exploitatiekosten van COVA.
+1. Onder de naam voorraadheffing wordt een heffing geheven van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=3&artikel=27&z=2019-01-01&g=2019-01-01) bedoelde producten. De voorraadheffing strekt tot financiering van de exploitatiekosten van COVA.
 
 2. De voorraadheffing wordt vanwege Onze Minister van Financiën door de rijksbelastingdienst geheven en ingevorderd als ware het accijns.
 
@@ -417,13 +417,13 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 2. Onze Minister kan een aanvraag tot het mogen aanhouden van voorraad slechts weigeren indien:
 
-- a. instemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met [richtlijn 2009/119/EG](32009L0119) onderscheidenlijk met de krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=3&artikel=30&z=2014-01-25&g=2014-01-25) gestelde regels of
+- a. instemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met [richtlijn 2009/119/EG](32009L0119) onderscheidenlijk met de krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=3&artikel=30&z=2019-01-01&g=2019-01-01) gestelde regels of
 
 - b. weigering naar zijn oordeel anderszins noodzakelijk is met het oog op de naleving van voor Nederland geldende internationale verplichtingen.
 
 ##### Artikel 29
 
-De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2014-01-25&g=2014-01-25) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=18&z=2014-01-25&g=2014-01-25)zijn van overeenkomstige toepassing op degene die in Nederland een voorraad aardolieproducten aanhoudt ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.
+De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=18&z=2019-01-01&g=2019-01-01)zijn van overeenkomstige toepassing op degene die in Nederland een voorraad aardolieproducten aanhoudt ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.
 
 ##### Artikel 30
 
@@ -457,7 +457,7 @@ Wijzigt deze wet en de Algemene wet bestuursrecht.
 
 2. De bepalingen van de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van voorraadheffing of tot de voldoening van voorraadheffing, die hebben plaatsgevonden voor 1 april 2013 en met betrekking tot strafbare feiten die hebben plaatsgevonden voor die datum.
 
-3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2014-01-25&g=2014-01-25), stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van [richtlijn 2009/119/EG](32009L0119).
+3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van [richtlijn 2009/119/EG](32009L0119).
 
 ##### Artikel 37
 
