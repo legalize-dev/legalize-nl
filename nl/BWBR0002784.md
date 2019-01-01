@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2018-04-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
@@ -155,7 +155,7 @@ Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/
 
 ##### Artikel 2d
 
-Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) sprake indien:
+Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) in ieder geval sprake indien:
 
 - a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de belastingplichtige woont of feitelijk is gevestigd in de staat waarin de belastingplichtige is gevestigd;
 
@@ -169,7 +169,7 @@ Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen 
 
 - f. in de staat, bedoeld in onderdeel a, de boekhouding van de belastingplichtige wordt gevoerd;
 
-- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden ten behoeve van het leggen van de relatie, bedoeld in de aanhef, en dat gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd, en
+- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden ten behoeve van het leggen van de relatie, bedoeld in de aanhef, en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd, en
 
 - h. de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
 
@@ -192,6 +192,54 @@ De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.
 | Ierland | 100% |
 | IJsland | 100% |
 | Italië | 100% |
+| Kroatië | 60% |
+| Letland | 70% |
+| Liechtenstein | 100% |
+| Litouwen | 60% |
+| Luxemburg | 100% |
+| Malta | 80% |
+| Noorwegen | 100% |
+| Oostenrijk | 100% |
+| Polen | 60% |
+| Portugal | 80% |
+| Roemenië | 50% |
+| Slovenië | 80% |
+| Slowakije | 70% |
+| Spanje | 90% |
+| Tsjechië | 60% |
+| Verenigd Koninkrijk | 100% |
+| Zweden | 100% |
+| Zwitserland | 100% |
+
+Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die is opgenomen in de Regeling woonlandbeginsel in de sociale zekerheid 2012](onbekend).
+
+##### Artikel 2e
+
+Met overeenkomstige toepassing van [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2019-01-01&g=2019-01-01) wordt bepaald onder welke omstandigheden in ieder geval sprake is van een door een gecontroleerd lichaam uitgeoefende wezenlijke economische activiteit als bedoeld in [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab). Daarbij wordt gelezen voor:
+
+- a. de belastingplichtige: het gecontroleerde lichaam of de vaste inrichting;
+
+- b. de werkzaamheden ten behoeve van het leggen van een relatie tussen activiteiten van lichamen binnen een keten: de werkzaamheden van het gecontroleerde lichaam of de vaste inrichting.
+
+## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
+
+De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2019-01-01&g=2019-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+
+| Staat | Woonlandfactor |
+| --- | --- |
+| België | 100% |
+| Bulgarije | 50% |
+| Cyprus | 80% |
+| Denemarken | 100% |
+| Duitsland | 100% |
+| Estland | 70% |
+| Finland | 100% |
+| Frankrijk | 100% |
+| Griekenland | 80% |
+| Hongarije | 60% |
+| Ierland | 100% |
+| IJsland | 100% |
+| Italië | 90% |
 | Kroatië | 60% |
 | Letland | 70% |
 | Liechtenstein | 100% |
