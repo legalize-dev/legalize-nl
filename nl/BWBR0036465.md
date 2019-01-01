@@ -4,7 +4,7 @@ identifier: "BWBR0036465"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2018-06-26"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036465"
 soort: "ministeriele-regeling-BES"
@@ -38,9 +38,9 @@ entry_into_force: "2016-12-20"
 
 ##### Artikel 1. Bezoldigingschalen
 
-1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2018 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2018-06-26&g=2018-06-26) van deze regeling is vermeld.
+1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2018 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2019-01-01&g=2019-01-01) van deze regeling is vermeld.
 
-2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2019 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2018-06-26&g=2018-06-26) van deze regeling is vermeld.
+2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2019 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2019-01-01&g=2019-01-01) van deze regeling is vermeld.
 
 ##### Artikel 2. Garantietreden
 
@@ -62,13 +62,13 @@ Vervallen
 
 ##### Artikel 5. Bezoldiging geestelijke
 
-1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2018-06-26&g=2018-06-26) van deze regeling is vermeld.
+1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2019-01-01&g=2019-01-01) van deze regeling is vermeld.
 
-2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2018-06-26&g=2018-06-26) van deze regeling is vermeld.
+2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2019-01-01&g=2019-01-01) van deze regeling is vermeld.
 
 ##### Artikel 6. Extra toelage IBTers etc
 
-Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële Inrichtingen BES, aan de ambtenaar in dienst van de staat die is aangesteld voor de uitvoering van de politietaak en aan de aspirant wordt, indien hij volgens dienstrooster beschikbaar is om bij calamiteiten op afroep werkzaamheden te verrichten die niet tot zijn normale werkzaamheden behoren, bij het daadwerkelijk verrichten van die werkzaamheden een toeslag toegekend van USD 5,26 per uur.
+Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële Inrichtingen BES, aan de ambtenaar in dienst van de staat die is aangesteld voor de uitvoering van de politietaak en aan de aspirant wordt, indien hij volgens dienstrooster beschikbaar is om bij calamiteiten op afroep werkzaamheden te verrichten die niet tot zijn normale werkzaamheden behoren, bij het daadwerkelijk verrichten van die werkzaamheden een toeslag toegekend van USD 5,36 per uur.
 
 ##### Artikel 7. Bovenwindentoelage
 
@@ -102,11 +102,11 @@ De vergoeding, bedoeld in [artikel 23b van het Besluit rechtspositie korps polit
 
 1. Deze regeling treedt in werking met ingang van 1 april 2015.
 
-2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2018-06-26&g=2018-06-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2018-06-26&g=2018-06-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2018-06-26&g=2018-06-26), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2018-06-26&g=2018-06-26), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2018-06-26&g=2018-06-26) werken terug tot en met 1 juli 2013.
+2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2019-01-01&g=2019-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2019-01-01&g=2019-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2019-01-01&g=2019-01-01) werken terug tot en met 1 juli 2013.
 
-3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2018-06-26&g=2018-06-26), werken terug tot en met 1 januari 2014.
+3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2019-01-01&g=2019-01-01), werken terug tot en met 1 januari 2014.
 
-4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2018-06-26&g=2018-06-26) werkt terug tot en met 1 januari 2015.
+4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2019-01-01&g=2019-01-01) werkt terug tot en met 1 januari 2015.
 
 ##### Artikel 13
 
@@ -118,29 +118,29 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES.
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
-## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
-## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -300,7 +300,7 @@ Gelet op de [artikelen 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 Besluit:
 
-## Bijlage 1. behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 1. behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 |   | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -369,27 +369,27 @@ Besluit:
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 ### Bezoldiging Geestelijken BES per 1 januari 2013
 
-## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 ### Bezoldiging Geestelijken BES per 1 januari 2014
 
-## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -479,7 +479,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 |   | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -544,7 +544,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES, zoals dat tot die datum luidde, die voorzien was van de aanduiding -G.T.-, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2018-06-26&g=2018-06-26), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2019-01-01&g=2019-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
