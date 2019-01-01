@@ -4,7 +4,7 @@ identifier: "BWBR0041697"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-01-01"
-last_updated: "2018-12-19"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041697"
 soort: "AMvB"
@@ -48,21 +48,19 @@ Wijzigt het Besluit tarieven in strafzaken 2003.
 
 Wijzigt het Besluit tarieven in strafzaken 2003.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-1. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2018-12-19&g=2018-12-19) vastgestelde maximumaantallen uren die voor vergoeding in aanmerking komen, gelden voor opdrachten die zijn verstrekt op of na 1 september 2017.
+1. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2019-01-01&g=2019-01-01) vastgestelde maximumaantallen uren die voor vergoeding in aanmerking komen, gelden voor opdrachten die zijn verstrekt op of na 1 september 2017.
 
-2. De in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2018-12-19&g=2018-12-19) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt in de periode van 1 januari 2018 tot en met 31 december 2018.
+2. De in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2019-01-01&g=2019-01-01) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt in de periode van 1 januari 2018 tot en met 31 december 2018.
 
 ##### Artikel V
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel III, dat in werking treedt met ingang van 1 januari 2019.
 
-2. Dit besluit werkt ten aanzien van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2018-12-19&g=2018-12-19) en [IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=IV&z=2018-12-19&g=2018-12-19), terug tot en met 1 september 2017.
+2. Dit besluit werkt ten aanzien van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=I&z=2019-01-01&g=2019-01-01) en [IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=IV&z=2019-01-01&g=2019-01-01), terug tot en met 1 september 2017.
 
-3. Dit besluit werkt ten aanzien van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2018-12-19&g=2018-12-19) en [IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=IV&z=2018-12-19&g=2018-12-19), terug tot en met 1 januari 2018.
+3. Dit besluit werkt ten aanzien van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=II&z=2019-01-01&g=2019-01-01) en [IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041697&artikel=IV&z=2019-01-01&g=2019-01-01), terug tot en met 1 januari 2018.
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 8 november 2018, directie Wetgeving en Juridische Zaken, nr. 2405220;
 
