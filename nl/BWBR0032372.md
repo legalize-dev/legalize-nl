@@ -4,7 +4,7 @@ identifier: "BWBR0032372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-17"
-last_updated: "2013-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032372"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 Deze regeling wordt aangehaald als: Regeling accountantscontrole IFV.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032372&artikel=2&z=2013-01-01&g=2013-01-01) van de Regeling accountantscontrole IFV
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032372&artikel=2&z=2019-04-17&g=2019-01-01) van de Regeling accountantscontrole IFV
 
 ### Controleprotocol voor de jaarrekening van het IFV
 
