@@ -4,7 +4,7 @@ identifier: "BWBR0023563"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2019-01-01"
+last_updated: "2019-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023563"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energi
 
 2. De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname jaarlijks over de voortgang van de realisatie van het op grond van [artikel 56, vierde lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) in de aanvraag opgenomen tijdschema.
 
-3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49) en [55a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55a) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2019-01-01&g=2019-01-01).
+3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49) en [55a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55a) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2019-02-19&g=2019-01-02).
 
 4. Het eerste lid is niet van toepassing op de ontvanger van subsidie voor een productie-installatie voor de productie van hernieuwbare elektriciteit door middel van windenergie op zee.
 
@@ -206,7 +206,7 @@ Vervallen
 
 ##### Artikel 10
 
-Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2019-01-01&g=2019-01-01).
+Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2019-02-19&g=2019-01-02).
 
 #### § 5. Subsidievaststelling
 
@@ -360,11 +360,11 @@ De accountantsverklaring moet worden opgestuurd naar Rijksdienst voor Ondernemen
 
 Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2017-01-03&g=2017-01-03), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer aan de subsidie-ontvanger op grond van het Besluit stimulering duurzame energieproductie een subsidie is verstrekt van meer dan € 125.000,–.
 
-Bijlage 1 behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+Bijlage 1 behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### Toelichting
 
-Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer aan de subsidie-ontvanger op grond van het Besluit stimulering duurzame energieproductie een subsidie is verstrekt van meer dan € 125.000,–.
+Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer aan de subsidie-ontvanger op grond van het Besluit stimulering duurzame energieproductie een subsidie is verstrekt van meer dan € 125.000,–.
 
 De accountantsverklaring moet worden opgestuurd naar Rijksdienst voor Ondernemend Nederland binnen een jaar na ingebruikname van de productie-installatie voor hernieuwbare energie.
 
@@ -470,7 +470,7 @@ De duurzaamheidseisen behorende bij de categorieën **bestaande capaciteit voor 
 
 Uitsluitend biomassa categorieën die onderscheiden worden in tabel 1 en die voldoen aan de daarin gestelde eisen worden toegepast. De eindgebruiker voldoet aan de relevante eisen voor de chain of custody in hoofdstuk 6. Voor de eindgebruiker geldt de volgende eis ten aanzien van de broeikasgasbalans:
 
-Bijlage 5 behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2019-01-01&g=2019-01-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+Bijlage 5 behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2019-02-19&g=2019-01-02) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 C1.1 De berekende reductie van CO2eq uitstoot is gemiddeld over een jaar minimaal 70% ten opzichte van de EU referentiewaarde. De gemiddelde uitstoot van CO2eq bedraagt maximaal 56 g CO2eq/MJ voor elektriciteit en 24 g CO2eq/MJ voor warmte. Geen enkele levering van biomassa heeft een uitstoot boven de waarde van 74 g CO2eq/MJ voor elektriciteit en 32 g CO2eq/MJ warmte.
 
@@ -866,7 +866,7 @@ De private conformiteitsbeoordelingsverklaring, bedoeld in [artikel 63a, eerste 
 
 ##### Artikel 7b
 
-1. De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt of een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 5 MW, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01) voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
+1. De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt of een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 5 MW, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-02-19&g=2019-01-02) voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
 2. De verklaring, bedoeld in het eerste lid, wordt opgesteld overeenkomstig paragraaf 2.6 van het verificatieprotocol door een erkende conformiteitsbeoordelingsinstantie als bedoeld in [artikel 1 van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=1).
 
@@ -1354,7 +1354,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8a
 
-1. De productie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2019-01-01&g=2019-01-01), in verband met een beschikking op een aanvraag die op of na 1 december 2015 is ingediend, wordt verminderd met het aantal kWh dat is ingevoed op een elektriciteitsnet gedurende elke periode waarin de prijs van elektriciteit negatief is, tenzij desbetreffende periode korter dan zes uur duurt.
+1. De productie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2019-02-19&g=2019-01-02), in verband met een beschikking op een aanvraag die op of na 1 december 2015 is ingediend, wordt verminderd met het aantal kWh dat is ingevoed op een elektriciteitsnet gedurende elke periode waarin de prijs van elektriciteit negatief is, tenzij desbetreffende periode korter dan zes uur duurt.
 
 2. Het eerste lid is niet van toepassing ten aanzien van een subsidieontvanger van wie het nominaal geïnstalleerd vermogen voor elektriciteitsproductie per aansluiting op het elektriciteitsnet minder dan 500 kW bedraagt of, indien het de productie van elektriciteit uit windenergie betreft, minder dan 3 MW bedraagt.
 
@@ -1364,7 +1364,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 14c
 
-De vermindering van de productie die op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8a&z=2019-01-01&g=2019-01-01) wordt toegepast, wordt tevens toegepast op het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) en [artikel 55 eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55).
+De vermindering van de productie die op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8a&z=2019-02-19&g=2019-01-02) wordt toegepast, wordt tevens toegepast op het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) en [artikel 55 eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55).
 
 #### § 7. Slotbepalingen
 
@@ -1470,7 +1470,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 14d
 
-Op een aanvraag om subsidie als bedoeld in [artikel 2 van de Regeling windenergie op zee 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&artikel=2) blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01) van deze regeling van toepassing zoals dat luidde op het tijdstip van indienen van die aanvraag.
+Op een aanvraag om subsidie als bedoeld in [artikel 2 van de Regeling windenergie op zee 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&artikel=2) blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2019-02-19&g=2019-01-02) van deze regeling van toepassing zoals dat luidde op het tijdstip van indienen van die aanvraag.
 
 ##### Artikel 14d
 
@@ -1560,7 +1560,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 2b
 
-1. In aanvulling op [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2a&z=2019-01-01&g=2019-01-01), bevat de haalbaarheidsstudie tevens:
+1. In aanvulling op [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2a&z=2019-02-19&g=2019-01-02), bevat de haalbaarheidsstudie tevens:
 
 - a. indien de aanvraag betrekking heeft op een productie-installatie voor de productie van hernieuwbare elektriciteit uit waterkracht of hernieuwbare energie uit biomassa een energieopbrengstberekening;
 
@@ -1620,21 +1620,21 @@ Indien de aanvraag betrekking heeft op een productie-installatie voor de product
 
 #### § 7. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### Opdracht
 
 ### Toelichtende paragraaf
 
-## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Vervallen
 
-## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Vervallen
 
-## Bijlage 4. , behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 4. , behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-02-19&g=2019-01-02) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Vervallen
 
@@ -1662,15 +1662,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
 
-## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2019-01-01&g=2019-01-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2019-02-19&g=2019-01-02) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### 4. Rekeninggegevens
 
-## Bijlage 6. behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2019-01-01&g=2019-01-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 6. behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2019-02-19&g=2019-01-02) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Vervallen
 
-## Bijlage 7. behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 7. behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2019-02-19&g=2019-01-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Vervallen
 
