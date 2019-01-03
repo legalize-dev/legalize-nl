@@ -4,7 +4,7 @@ identifier: "BWBR0041797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-03"
-last_updated: "2019-01-01"
+last_updated: "2019-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041797"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041797&artikel=2&z=2019-01-03&g=2019-01-01);
+- **commissie:** commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041797&artikel=2&z=2019-01-03&g=2019-01-03);
 
 - **Minister:** Minister van Financiën.
 
