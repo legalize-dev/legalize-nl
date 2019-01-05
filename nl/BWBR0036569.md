@@ -4,7 +4,7 @@ identifier: "BWBR0036569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-05"
-last_updated: "2017-08-22"
+last_updated: "2019-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036569"
 soort: "ministeriele-regeling"
@@ -58,13 +58,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vijf andere leden.
+1. De commissie bestaat uit een voorzitter en ten minste twee en ten hoogste vijf andere leden.
 
 2. De leden worden door de minister benoemd en kunnen door de minister worden geschorst en ontslagen. Een van de leden wordt op voordracht van de convenantspartijen als bedoeld in artikel 4, vierde lid, van het convenant benoemd.
 
 3. De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
 4. Het voorgedragen lid, bedoeld in het tweede lid, wordt benoemd voor de periode benodigd voor het beantwoorden van de onderzoeksvraag waarvoor hij is voorgedragen.
+
+5. De minister kan gastdeskundigen benoemen.
 
 ##### Artikel 4
 
@@ -80,9 +82,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,2.
+1. De voorzitter van de commissie ontvangt een vergoeding per vergadering van € 373,–.
 
-2. De andere leden van de commissie ontvangen een vergoeding per vergadering van € 275,–.
+2. De andere leden van de commissie en de gastdeskundigen ontvangen een vergoeding per vergadering van € 287,–.
 
 ##### Artikel 6
 
