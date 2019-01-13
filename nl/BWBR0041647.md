@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2019-01-01"
+last_updated: "2019-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -46,13 +46,15 @@ BESLUITEN:
 
 In deze regeling wordt verstaan onder:
 
+- **Bpr:** [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
+
 - **Wft:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
 - **Wta:** [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468).
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -62,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -70,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-01-13&g=2019-01-13).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -322,6 +324,7 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 | Wft.D7.01 | van een elektronischgeldinstelling, wisselinstelling of vrijgestelde onderlinge waarborgmaatschappij, van wie de geschiktheid op grond van [artikel 3:8 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8)dient te worden vastgesteld | € 800 |
 | Wft.D7.02 | anders dan bedoeld onder Wft.D7.01, van wie de geschiktheid op grond van artikel 3:8 van de Wft dient te worden vastgesteld | € 2.000 |
 | Wft.D7.03 | Van wie de betrouwbaarheid op grond van [artikel 3:9 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) dient te worden vastgesteld | € 1.100 |
+| Wft.D7.04 | van een premiepensioeninstelling, van wie de betrouwbaarheid op grond van [artikel 5, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=5) dient te worden vastgesteld | € 1.100 |
 | **Onderdeel PW.D1** | **Behandeling aanvraag vergunning Pensioenwet** |   |
 | PW.D1.01 | [artikel 112a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=112a) (uitoefening van het bedrijf van algemeen pensioenfonds) | € 26.000 |
 | **Onderdeel Wtt.D1:** | **Behandeling aanvraag vergunning trustkantoor als bedoeld in** |   |
