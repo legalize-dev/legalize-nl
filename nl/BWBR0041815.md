@@ -4,7 +4,7 @@ identifier: "BWBR0041815"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-16"
-last_updated: "2018-04-26"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041815"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het Ministerie van Economische Zaken en Klimaat en van het Minister
 
 ##### Artikel 3
 
-De organisatorische, personele, en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041815&artikel=1&z=2019-01-16&g=2018-04-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041815&artikel=2&z=2019-01-16&g=2018-04-26) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele, en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041815&artikel=1&z=2019-01-16&g=2019-01-16) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041815&artikel=2&z=2019-01-16&g=2019-01-16) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken en Klimaat, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
