@@ -4,7 +4,7 @@ identifier: "BWBV0003169"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-01-16"
-last_updated: "2009-03-10"
+last_updated: "2019-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003169"
 soort: "verdrag"
@@ -110,7 +110,7 @@ Het bedrag aan inningskosten dat door de lidstaat van de vergunningverlenende do
 
 ##### Artikel 5
 
-1. Het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=II&artikel=4&z=2009-03-10&g=2009-03-10) bedoelde bedrag wordt betaald in de maand waarin het bedrag van de vastgestelde eigen middelen overeenkomstig de artikelen 9 en 10 van de verordening wordt gecrediteerd.
+1. Het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=II&artikel=4&z=2019-01-16&g=2019-01-16) bedoelde bedrag wordt betaald in de maand waarin het bedrag van de vastgestelde eigen middelen overeenkomstig de artikelen 9 en 10 van de verordening wordt gecrediteerd.
 
 2. Over het in lid 1 bedoelde bedrag wordt moratoire rente in rekening gebracht vanaf de datum waarop de gestelde termijn afloopt tot de datum waarop het bedrag is voldaan.
 
@@ -138,15 +138,15 @@ Elk geschil dat tussen de overeenkomstsluitende partijen ontstaat in verband met
 
 ##### Artikel 8
 
-1. Elke partij kan, met name indien zij door de toepassing van de overeenkomst grote budgettaire verliezen lijdt, wijzigingen voorstellen. Elke voorgestelde wijziging wordt toegezonden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2009-03-10&g=2009-03-10) bedoelde depositaris, die ze aan de overeenkomstsluitende partijen doet toekomen.
+1. Elke partij kan, met name indien zij door de toepassing van de overeenkomst grote budgettaire verliezen lijdt, wijzigingen voorstellen. Elke voorgestelde wijziging wordt toegezonden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2019-01-16&g=2019-01-16) bedoelde depositaris, die ze aan de overeenkomstsluitende partijen doet toekomen.
 
 2. Wijzigingen worden door de overeenkomstsluitende partijen in onderlinge overeenstemming aangenomen.
 
-3. De overeenkomstig lid 2 aangenomen wijzigingen treden in werking overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2009-03-10&g=2009-03-10).
+3. De overeenkomstig lid 2 aangenomen wijzigingen treden in werking overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=7&z=2019-01-16&g=2019-01-16).
 
 ##### Artikel 9
 
-Deze overeenkomst wordt uiterlijk drie jaar na de datum waarop het gemoderniseerde douanewetboek van toepassing wordt aan herziening onderworpen, en kan indien nodig ingevolge die herziening overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=8&z=2009-03-10&g=2009-03-10) worden gewijzigd.
+Deze overeenkomst wordt uiterlijk drie jaar na de datum waarop het gemoderniseerde douanewetboek van toepassing wordt aan herziening onderworpen, en kan indien nodig ingevolge die herziening overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003169&hoofdstuk=IV&artikel=8&z=2019-01-16&g=2019-01-16) worden gewijzigd.
 
 ##### Artikel 10
 
