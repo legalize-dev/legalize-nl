@@ -4,7 +4,7 @@ identifier: "BWBR0037382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-22"
-last_updated: "2018-10-01"
+last_updated: "2019-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037382"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. **de Staatssecretaris:** de Staatssecretaris van Infrastructuur en Waterstaat;
 
 - b. **organisaties:**
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het Formule E-Team heeft tot taak:
 
-- a. de minister te adviseren over de uitvoering van het beleid inzake elektrisch vervoer;
+- a. de Staatssecretaris te adviseren over de uitvoering van het beleid inzake elektrisch vervoer;
 
 - b. het bevorderen van elektrisch vervoer, waaronder kennisontwikkeling, kennisdeling, informatieverstrekking, en het bevorderen van de uitrol van elektrisch vervoer, voertuigen, oplaadinfrastructuur en inpassing in het elektriciteitsnet;
 
@@ -76,15 +76,15 @@ In dit besluit wordt verstaan onder:
 
 1. Het Formule E-Team bestaat uit een voorzitter en ten hoogste vierentwintig andere leden.
 
-2. De voorzitter wordt door de minister benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de minister worden geschorst en ontslagen.
+2. De voorzitter wordt door de Staatssecretaris benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de Staatssecretaris worden geschorst en ontslagen.
 
-3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2019-01-17&g=2018-10-01), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2019-01-17&g=2019-01-17), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
 
-4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de minister. Na instemming van de minister wijst de betrokken organisatie het andere lid aan.
+4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de Staatssecretaris. Na instemming van de Staatssecretaris wijst de betrokken organisatie het andere lid aan.
 
-5. De instemming van de minister geldt voor een periode van drie jaar. De minister kan de instemming intrekken na de betreffende organisatie te hebben gehoord.
+5. De instemming van de Staatssecretaris geldt voor een periode van drie jaar. De Staatssecretaris kan de instemming intrekken na de betreffende organisatie te hebben gehoord.
 
-6. De minister wijst een medewerker van het Ministerie van Economische Zaken als waarnemer aan, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
+6. De Staatssecretaris wijst een medewerker van het Ministerie van Infrastructuur en Waterstaat als waarnemer aan, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
 
 7. Andere ministers kunnen, ieder voor zich, een waarnemer aanwijzen, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
 
@@ -92,15 +92,15 @@ In dit besluit wordt verstaan onder:
 
 1. Het Formule E-Team stelt haar eigen werkwijze schriftelijk vast.
 
-2. De minister voorziet in het secretariaat van het Formule E-Team.
+2. De Staatssecretaris voorziet in het secretariaat van het Formule E-Team.
 
-3. Het beheer van de bescheiden betreffende de werkzaamheden van het Formule E-Team geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van het Formule E-Team bewaard in het archief van dat ministerie.
+3. Het beheer van de bescheiden betreffende de werkzaamheden van het Formule E-Team geschiedt op overeenkomstige wijze als bij het Ministerie van Infrastructuur en Waterstaat. De bescheiden worden na beëindiging van de werkzaamheden van het Formule E-Team bewaard in het archief van dat ministerie.
 
-4. Het formule E-Team verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+4. Het formule E-Team verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
 ##### Artikel 5
 
-Te rekenen vanaf 1 oktober 2015 wordt voor een periode van drie jaar tot lid, tevens voorzitter, van het Formule E-Team benoemd: de heer drs. B.J. Klerk, te Den Haag.
+Te rekenen vanaf 1 oktober 2018 wordt de heer drs. B.J. Klerk, woonachtig te Den Haag, benoemd tot lid, tevens voorzitter, van het Formule E-Team, voor een periode tot 1 juli 2019 of zoveel eerder als overeengekomen tussen partijen.
 
 ##### Artikel 6
 
