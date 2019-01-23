@@ -4,7 +4,7 @@ identifier: "BWBR0037455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2015-12-30"
+last_updated: "2019-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037455"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Het hoofd van het taakveld Eigenaarschap zbo’s is verantwoordelijk voor de vol
 
 - c. het onderhouden van de sturingsrelatie met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, waaronder de sturing op ICT en de (prestatie)afspraken die met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank gemaakt worden;
 
-- d. het zorgdragen voor het coördineren van en het ondersteunen van de secretaris-generaal in de rol van eigenaar van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
+- d. het zorgdragen voor het coördineren van en het ondersteunen van de secretaris-generaal in de rol van eigenaar van het Uitvoeringsinstituut werknemersverzekeringen en de plaatsvervangend secretaris-generaal in de rol van eigenaar van de Sociale verzekeringsbank;
 
 - e. het vervullen van een accountfunctie voor de Algemene Rekenkamer;
 
