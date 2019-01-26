@@ -4,7 +4,7 @@ identifier: "BWBR0036189"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-25"
-last_updated: "2019-01-01"
+last_updated: "2019-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036189"
 soort: "zbo"
@@ -68,103 +68,89 @@ Deze regeling is van toepassing op fondsen en op collectiviteitkringen.
 
 ##### Artikel 2.1. Modellen
 
-1. Voor een fonds, niet zijnde een algemeen pensioenfonds, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen a tot en met i, k tot en met m, en p tot en met s, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-01):
+1. Voor een fonds, niet zijnde een algemeen pensioenfonds, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdeel a, onder 1 t/m 5 en onder 7 t/m 10, onderdelen b tot en met i, k tot en met m, en p tot en met s, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in bijlage 1:
 
-- a. in het model van staten J101 tot en met J104: het fonds en zijn organisatie, als bedoeld in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), respectievelijk [artikel 33, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33);
+- a. in het model van staten J101-1 tot en met J102-3: het fonds en zijn organisatie, als bedoeld in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), respectievelijk [artikel 33, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33);
 
-- b. in het model van staat J201: een bestuursverslag, als bedoeld in [artikel 30, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- b. als bijlage bij model J101-1 tot en met J102-3 een bestuursverslag als bedoeld in [artikel 30, eerste lid onderdeel b van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- c. in het model van staten J301 en J302: de enkelvoudige balans en, indien van toepassing, de geconsolideerde balans, als bedoeld in [artikel 30, eerste lid, onderdeel c, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- c. in het model van staten J301-1 tot en met J302-12: de enkelvoudige balans en, indien van toepassing, de geconsolideerde balans alsmede een toelichting daarop als bedoeld in [artikel 30, eerste lid, onderdeel c, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), een specificatie van de activa, als bedoeld in artikel 30, eerste lid, onderdeel c, onder 1°., van het Besluit, en een specificatie van de passiva, als bedoeld in artikel 30, eerste lid, onderdeel c, onder 2°., van het Besluit;
 
-- d. in het model van staten J303 tot en met J304: een specificatie van de activa, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 1°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- d. in het model van staat J307: informatie over ontvangen en gestelde zekerheden en garanties, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 3°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- e. in het model van staat J305: de z-score indien sprake is van een verplicht gesteld bedrijfstakpensioenfonds, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 5°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- e. in het model van staat J309-1 tot en met J309-2: de financiële relaties en transacties van het fonds, als bedoeld in [artikel 30, eerste lid, onderdeel d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- f. in het model van staat J306A en J306B: een specificatie van de passiva, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 2°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- f. in het model van staten J311 en J312-1 en J312-2: informatie over grote posten binnen de beleggingen, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 4°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- g. in het model van staat J307: informatie over ontvangen en gestelde zekerheden en garanties, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 3°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- g. in het model van staten J401 en J402-1 t/m J402-5: een rekening van baten en lasten met specificatie van de posten, als bedoeld in [artikel 30, eerste lid, onderdeel e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- h. in het model van staat J308: een toelichting op de balans, als bedoeld in [artikel 30, eerste lid, onderdeel c, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- h. in het model van staat J403-1 tot en met J403-6: specificatie van premiegegevens over het verslagjaar, als bedoeld in [artikel 30, eerste lid, onderdeel k, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- i. in het model van staten J309 en J310: de financiële relaties en transacties, waaronder achtergestelde leningen van het fonds, als bedoeld in [artikel 30, eerste lid, onderdeel d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- i. in het model van staten J501 tot en met J503: de dekkingsgraad, beleidsdekkingsgraad en de reële dekkingsgraad en de toetsing van het eigen vermogen als bedoeld in [artikel 30, eerste lid, onderdelen f en g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- j. in het model van staten J311 en J312: informatie over grote posten binnen de beleggingen, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 4°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- j. in het model van staten J601-1 tot en met J603 en staten J605-1 en J605-2: actuariële staten, als bedoeld in [artikel 30, eerste lid, onderdeel h, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- k. in het model van staat J314: specificatie van de beleggingen voor een risicofonds na consolidatie, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 5°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- k. in het model van staat J604A en J604B: informatie over toeslagverlening en informatie over vermindering van pensioenaanspraken en pensioenrechten, als bedoeld in [artikel 30, eerste lid, onderdeel p en q, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- l. in het model van staten J401 en J402: een rekening van baten en lasten met specificatie van de posten, als bedoeld in [artikel 30, eerste lid, onderdeel e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- l. in het model van staat J701-1 tot en met J701-3: het deelnemersbestand, als bedoeld in [artikel 30, eerste lid, onderdeel i, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- m. in het model van staat J403: specificatie van premiegegevens over het verslagjaar, als bedoeld in [artikel 30, eerste lid, onderdeel k, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- m. in het model van staten J801 en J802: verzekering, als bedoeld in [artikel 30, eerste lid, onderdeel l, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- n. in het model van staten J501 tot en met J503: de dekkingsgraad, beleidsdekkingsgraad en de reële dekkingsgraad en de toetsing van het eigen vermogen als bedoeld in [artikel 30, eerste lid, onderdelen f en g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- n. in het model van staat J901-1 en J901-2: verplichtingen van het fonds voor risico van de deelnemers, als bedoeld in [artikel 30, eerste lid, onderdeel m, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- o. in het model van staten J601 tot en met J603 en staten J605 en J606: actuariële staten, als bedoeld in [artikel 30, eerste lid, onderdeel h, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- o. in het model van staat J902: uitvoering van een VUT-regeling, als bedoeld in [artikel 30, eerste lid, onderdeel r, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- p. in het model van staat J604A en J604B: informatie over toeslagverlening en informatie over vermindering van pensioenaanspraken en pensioenrechten, als bedoeld in [artikel 30, eerste lid, onderdeel p en q, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- p. in het model van staat J903: uitvoering van een inkoopregeling, als bedoeld in [artikel 30, eerste lid, onderdeel s, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- q. in het model van staat J701: het deelnemersbestand, als bedoeld in [artikel 30, eerste lid, onderdeel i, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
-
-- r. in het model van staten J801 en J802: verzekering, als bedoeld in [artikel 30, eerste lid, onderdeel l, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
-
-- s. in het model van staat J901: verplichtingen van het fonds voor risico van de deelnemers, als bedoeld in [artikel 30, eerste lid, onderdeel m, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
-
-- t. in het model van staat J902: uitvoering van een VUT-regeling, als bedoeld in [artikel 30, eerste lid, onderdeel r, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
-
-- u. in het model van staat J903: uitvoering van een inkoopregeling, als bedoeld in [artikel 30, eerste lid, onderdeel s, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
+- q. in het model van staat J904: de z-score indien sprake is van een verplicht gesteld bedrijfstakpensioenfonds, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 5°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
 
 2. Behoudens onderdeel b is het eerste lid van overeenkomstige toepassing op een collectiviteitkring.
 
-3. De gegevens voor een algemeen pensioenfonds, bedoeld in [artikel 30, eerste lid, onderdelen a tot en met c, e en g van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30) worden aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-01):
+3. De gegevens voor een algemeen pensioenfonds, bedoeld in [artikel 30, eerste lid, onderdeel a, onder 1 t/m 5 en onder 7 t/m 10, onderdelen b, c, e en g van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30) worden aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26):
 
-- a. in het model van staat JS001 en JS005: het algemeen pensioenfonds en zijn organisaties, als bedoeld in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- a. in het model van staat APF001-1, APF001-2 en APF006-1 tot en met APF006-7: het algemeen pensioenfonds en zijn organisaties, als bedoeld in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- b. in het model van staat JS002: de enkelvoudige balans en, indien van toepassing, de geconsolideerde balans, als bedoeld in [artikel 30, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- b. in het model van staat APF002: de enkelvoudige balans en, indien van toepassing, de geconsolideerde balans, als bedoeld in [artikel 30, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- c. in het model van staat JS003: een rekening van baten en lasten met specificatie van de posten, als bedoeld in [artikel 30, eerste lid, onderdeel e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- c. in het model van staat APF003: een rekening van baten en lasten met specificatie van de posten, als bedoeld in [artikel 30, eerste lid, onderdeel e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- d. in het model van staat JS004: informatie inzake het vereist eigen vermogen als bedoeld in [artikel 30, eerste lid, onderdelen g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- d. in het model van staat APF004: informatie inzake het vereist eigen vermogen als bedoeld in [artikel 30, eerste lid, onderdelen g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- e. in het model van staat JS008: een bestuursverslag, als bedoeld in [artikel 30, eerste lid onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
+- e. in het model van staat APF005: toelichtingen inzake de balans, de rekening van baten en lasten en de organisatie;
+
+- f. als bijlage bij model APF005 een bestuursverslag, als bedoeld in [artikel 30, eerste lid onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
 
 ##### Artikel 2.2. Eisen aan de gegevensverstrekking
 
-1. De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de jaarstaten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-01) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de jaarstaten, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-01), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=4&z=2019-01-26&g=2019-01-01).
+1. De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de jaarstaten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de jaarstaten, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-26), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-26).
 
-2. De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), geschiedt door het, door de accountant, toezenden aan DNB van een afschrift van de ingevulde staat J103, voorzien van een handgeschreven handtekening van die accountant.
-
-3. In afwijking van het tweede lid geschiedt voor een algemeen pensioenfonds de schriftelijk verzending van de controleverklaring, bedoeld in [artikel 33, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), door het, door de accountant, toezenden aan DNB van een afschrift van de ingevulde staat JS006, voorzien van een handgeschreven handtekening van die accountant.
-
-4. De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), geschiedt door het, door de actuaris, toezenden aan DNB van een afschrift van de ingevulde staat J606, voorzien van een handgeschreven handtekening van die actuaris.
-
-5. De schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), geschiedt door het, door het bestuur, toezenden aan DNB van een afschrift van de ingevulde staat J104, voorzien van de handgeschreven handtekeningen van de daartoe bevoegde leden van het bestuur.
-
-6. In afwijking van het vijfde lid geschiedt voor een algemeen pensioenfonds de schriftelijke verzending van de controleverklaring, bedoeld in [artikel 33, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), door het, door het bestuur, toezenden aan DNB van een afschrift van de ingevulde staat JS007, voorzien van de handgeschreven handtekening van de daartoe bevoegde leden van het bestuur.
+2. Het fonds stuurt de controleverklaringen, bedoeld in [artikel 33, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33), voorzien van de daarbij behorende handtekening van onderscheidenlijk de actuaris en de accountant, aan DNB middels het daartoe door DNB aangewezen elektronische rapportagesysteem.
 
 ##### Artikel 2.3. Indieningstermijn en -frequentie
 
-1. De in [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.2&z=2019-01-26&g=2019-01-01) bedoelde gegevens worden eenmaal per kalenderjaar aan DNB verstrekt.
+1. De in [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-26) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.2&z=2019-01-26&g=2019-01-26) bedoelde gegevens worden eenmaal per kalenderjaar aan DNB verstrekt.
 
-2. Het fonds waarborgt dat de in [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.2&z=2019-01-26&g=2019-01-01) bedoelde gegevens uiterlijk 30 juni, na afloop van het kalenderjaar waarop de rapportage betrekking heeft, in het bezit van DNB zijn.
+2. Het fonds waarborgt dat de in [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.1&z=2019-01-26&g=2019-01-26) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=2&artikel=2.2&z=2019-01-26&g=2019-01-26) bedoelde gegevens uiterlijk 30 juni, na afloop van het kalenderjaar waarop de rapportage betrekking heeft, in het bezit van DNB zijn.
 
 ### Hoofdstuk 3. Kwartaalstaten
 
 ##### Artikel 3.1. Modellen
 
-1. Voor fondsen, niet zijnde algemeen pensioenfondsen, en voor collectiviteitkringen, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen c, aanhef en onder 5°., f, g, j, onder 1°., k, n tot en met q, en t, en tweede lid, onderdelen a en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-01):
+1. Voor fondsen, niet zijnde algemeen pensioenfondsen, en voor collectiviteitkringen, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen c, aanhef en onder 5°., f, g, j, onder 1°., k, n tot en met q, en t, en tweede lid, onderdelen a en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26):
 
 - a. in het model van staat K101: de balans, de dekkingsgraad en de beleidsdekkingsgraad, en toetsing van het eigen vermogen, als bedoeld in [artikel 30, eerste lid, onderdelen c, aanhef, f en g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
 - b. in het model van staten K201 tot en met K205: specificatie van de beleggingen met betrekking tot de valuta, de risicoklassen, derivatenposities en beleggingsrendementen, als bedoeld in [artikel 30, eerste lid, onderdeel c, onder 5°., van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- c. in het model van staat K401 en K402: specificatie van premiegegevens over het nieuwe jaar, als bedoeld in [artikel 30, eerste lid, onderdeel k, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- c. in het model van staat K401-1 tot en met K401-6 en K402 en K402: specificatie van premiegegevens over het nieuwe jaar, als bedoeld in [artikel 30, eerste lid, onderdeel k, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
-- d. in het model van staat K501 en K502: informatie over een herstelplan, als bedoeld in [artikel 30, eerste lid, onderdeel n, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
+- d. in het model van staat K501-1 tot en met K502-2: informatie over een herstelplan, als bedoeld in [artikel 30, eerste lid, onderdeel n, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
 - e. in het model van staat K602: de kenmerken van de door het fonds uitgevoerde pensioenregeling of pensioenregelingen, informatie over toeslagverlening, informatie over vermindering van pensioenaanspraken en pensioenrechten en een besluit tot wijziging van een pensioenregeling in de verslagperiode met betrekking tot de kenmerken van de pensioenregeling, als bedoeld in [artikel 30, eerste lid, onderdelen j, onder 1°., p, q en t](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), alsmede, in geval van wijzigingen, informatie over de door het fonds uitgevoerde pensioenregelingen en de kenmerken van de pensioenregelingen, als bedoeld in artikel 30, tweede lid, onderdelen a en c, van het Besluit;
 
 - f. in het model van staat K702: informatie over de haalbaarheidstoets, als bedoeld in [artikel 30, eerste lid, onderdeel o, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
 
-2. Voor een algemeen pensioenfonds worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen c, e en g van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-01):
+2. Voor een algemeen pensioenfonds worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen c, e en g van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30), aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26):
 
 - a. in het model van staat KW002: informatie over de enkelvoudige balans en, indien van toepassing, de geconsolideerde balans, als bedoeld in [artikel 30, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30);
 
@@ -174,7 +160,7 @@ Deze regeling is van toepassing op fondsen en op collectiviteitkringen.
 
 ##### Artikel 3.2. Eisen aan de gegevensverstrekking
 
-De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de kwartaalstaten opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-01) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de kwartaalstaten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=4&z=2019-01-26&g=2019-01-01).
+De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de kwartaalstaten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de kwartaalstaten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-26), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-26).
 
 ##### Artikel 3.3. Indieningstermijn en -frequentie
 
@@ -192,31 +178,31 @@ De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a,
 
 - f. informatie over de haalbaarheidstoets: elk eerste kalenderkwartaal.
 
-2. Het fonds waarborgt dat de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01) bedoelde gegevens uiterlijk dertig werkdagen na afloop van het toepasselijke kalenderkwartaal in het bezit van DNB zijn.
+2. Het fonds waarborgt dat de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-26) bedoelde gegevens uiterlijk dertig werkdagen na afloop van het toepasselijke kalenderkwartaal in het bezit van DNB zijn.
 
-3. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01), bedoelde gegevens in het bezit van DNB zijn binnen de termijn zoals bedoeld in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=138), en [artikel 139, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=139), onderscheidenlijk [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=133), en [artikel 134, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=134).
+3. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-26), bedoelde gegevens in het bezit van DNB zijn binnen de termijn zoals bedoeld in [artikel 138, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=138), en [artikel 139, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=139), onderscheidenlijk [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=133), en [artikel 134, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=134).
 
-4. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01), bedoelde gegevens uiterlijk 1 april van het betreffende kalenderjaar in het bezit van DNB zijn.
+4. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-26), bedoelde gegevens uiterlijk 1 april van het betreffende kalenderjaar in het bezit van DNB zijn.
 
-5. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01), bedoelde gegevens uiterlijk 30 juni van het betreffende kalenderjaar in het bezit van DNB zijn.
+5. In afwijking van het tweede lid waarborgt het fonds dat de in [artikel 3.1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-26), bedoelde gegevens uiterlijk 30 juni van het betreffende kalenderjaar in het bezit van DNB zijn.
 
 ### Hoofdstuk 4. Maandstaten
 
 ##### Artikel 4.1. Modellen
 
-Voor fondsen, niet zijnde algemeen pensioenfondsen, en voor collectiviteitkringen, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen f, g, en h, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30) aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=3&z=2019-01-26&g=2019-01-01):
+Voor fondsen, niet zijnde algemeen pensioenfondsen, en voor collectiviteitkringen, worden de gegevens, bedoeld in [artikel 30, eerste lid, onderdelen f, g, en h, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30) aan DNB verstrekt door middel van de volgende modellen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26):
 
 - a. in het model van staat M101: de dekkingsgraad, de beleidsdekkingsgraad, de technische voorzieningen en het aanwezig eigen vermogen, als bedoeld in [artikel 30, eerste lid, onderdelen f, g, onder 1°, en h, onder 1°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=30).
 
 ##### Artikel 4.2. Eisen aan de gegevensverstrekking
 
-De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de maandstaten opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=3&z=2019-01-26&g=2019-01-01) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de maandstaten, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-01), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=4&z=2019-01-26&g=2019-01-01).
+De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=32), zijn voor wat betreft de maandstaten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26) en de daarbij behorende toelichting. De regels met betrekking tot de staten, bedoeld in artikel 32, aanhef en onderdelen b tot en met e, van het Besluit, zijn opgenomen in de modellen van de maandstaten, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-26), en in de Aanwijzingen verslagstaten pensioenfondsen, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-26).
 
 ##### Artikel 4.3. Indieningstermijn en -frequentie
 
-1. De in [artikel 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-01) bedoelde gegevens worden elke kalendermaand aan DNB verstrekt.
+1. De in [artikel 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-26) bedoelde gegevens worden elke kalendermaand aan DNB verstrekt.
 
-2. Het fonds waarborgt dat de in [artikel 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-01) bedoelde gegevens uiterlijk tien werkdagen na afloop van de toepasselijke kalendermaand in het bezit van DNB zijn.
+2. Het fonds waarborgt dat de in [artikel 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4&artikel=4.1&z=2019-01-26&g=2019-01-26) bedoelde gegevens uiterlijk tien werkdagen na afloop van de toepasselijke kalendermaand in het bezit van DNB zijn.
 
 ### Hoofdstuk 5. Waardering van de posten
 
@@ -234,8 +220,6 @@ De modellen van de verslagstaten, bedoeld in [artikel 32, aanhef en onderdeel a,
 
 2. In afwijking van het eerste lid wordt de beleidsdekkingsgraad per einde van het boekjaar 2014 verstrekt met inachtneming van het bepaalde in [artikel 35, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=35) (Overgangsrecht beleidsdekkingsgraad).
 
-3. In afwijking van [artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.3&z=2019-01-26&g=2019-01-01), waarborgt het fonds in 2015 dat de in [artikel 3.1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=3&artikel=3.1&z=2019-01-26&g=2019-01-01), bedoelde gegevens uiterlijk 1 oktober van dat kalenderjaar in het bezit van DNB zijn.
-
 ##### Artikel 6.2. Intrekking van de [Regeling informatieverstrekking pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0021659)
 
 [De Regeling informatieverstrekking pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0021659) (Stcrt. 2007, 69; zoals nadien gewijzigd) wordt ingetrokken. Deze regeling blijft van toepassing op de verstrekking van gegevens over het boekjaar 2014 of over eerdere boekjaren, voor zover in de onderhavige regeling niet anders is bepaald.
@@ -248,20 +232,20 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Regeling verslagstaten pensioenfondsen 2015.
 
-## Bijlage 1. Modellen van de jaarstaten
+## Bijlage 1. Modellen van de jaarstaten, de kwartaalstaten en de maandstaten
 
-[Gepubliceerd op http://www.dnb.nl/statistiek/eline-dnb/pensioenfondsen/]
+[Gepubliceerd op https://www.dnb.nl/statistiek/digitaal-loket-rapportages/toezicht-rapportages/040_Pensioenfondsen/index.jsp]
 
-## Bijlage 2. Modellen van de kwartaalstaten
+## Bijlage 2. Aanwijzingen verslagstaten pensioenfondsen
 
-[Gepubliceerd op http://www.dnb.nl/statistiek/eline-dnb/pensioenfondsen/]
+[Gepubliceerd op https://www.dnb.nl/statistiek/digitaal-loket-rapportages/toezicht-rapportages/040_Pensioenfondsen/index.jsp]
 
 ## Bijlage 3. Modellen van de maandstaten
 
-[Gepubliceerd op http://www.dnb.nl/statistiek/eline-dnb/pensioenfondsen/]
+Vervallen
 
 ## Bijlage 4. Aanwijzingen verslagstaten pensioenfondsen
 
-[Gepubliceerd op http://www.dnb.nl/statistiek/eline-dnb/pensioenfondsen/]
+Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-01), die worden gepubliceerd op de website http://www.dnb.nl/statistiek/eline-dnb/pensioenfondsen/.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=1&z=2019-01-26&g=2019-01-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&bijlage=2&z=2019-01-26&g=2019-01-26), die worden gepubliceerd op de website https://www.dnb.nl/statistiek/digitaal-loket-rapportages/toezicht-rapportages/040_Pensioenfondsen/index.jsp.
