@@ -4,7 +4,7 @@ identifier: "BWBR0030068"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-09-19"
+last_updated: "2019-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030068"
 soort: "wet"
@@ -153,7 +153,7 @@ Een persoon die de nationaliteit van meer dan een staat bezit, kan de ambtenaar 
 
 1. In geval van verandering van nationaliteit is het recht van de staat van de nieuwe nationaliteit van toepassing, daaronder begrepen de regels van dat recht betreffende de gevolgen van de nationaliteitsverandering voor de naam.
 
-2. De verkrijging van de Nederlandse nationaliteit door een vreemdeling brengt geen wijziging in diens geslachtsnaam en voornamen, behoudens [artikel 25, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=2&artikel=25&z=2018-09-19&g=2018-09-19), van dit Boek en de [artikelen 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [12 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12).
+2. De verkrijging van de Nederlandse nationaliteit door een vreemdeling brengt geen wijziging in diens geslachtsnaam en voornamen, behoudens [artikel 25, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=2&artikel=25&z=2019-01-29&g=2019-01-29), van dit Boek en de [artikelen 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [12 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12).
 
 ##### Artikel 23
 
@@ -165,7 +165,7 @@ Een persoon die de nationaliteit van meer dan een staat bezit, kan de ambtenaar 
 
 1. Indien de geslachtsnaam of de voornamen van een persoon ter gelegenheid van de geboorte buiten Nederland zijn vastgelegd of als gevolg van een buiten Nederland tot stand gekomen wijziging in de persoonlijke staat zijn gewijzigd en zijn neergelegd in een overeenkomstig de plaatselijke voorschriften door een bevoegde instantie opgemaakte akte, worden de aldus vastgelegde of gewijzigde geslachtsnaam of voornamen in Nederland erkend. De erkenning kan niet wegens onverenigbaarheid met de openbare orde worden geweigerd op de enkele grond dat een ander recht is toegepast dan uit de bepalingen van deze wet zou zijn gevolgd.
 
-2. Lid 1 laat onverlet de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=2&artikel=25&z=2018-09-19&g=2018-09-19) van dit Boek.
+2. Lid 1 laat onverlet de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=2&artikel=25&z=2019-01-29&g=2019-01-29) van dit Boek.
 
 ##### Artikel 25
 
@@ -223,7 +223,7 @@ Wat de vorm betreft kan een huwelijk in Nederland slechts worden voltrokken ten 
 
 ##### Artikel 32
 
-Ongeacht [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2018-09-19&g=2018-09-19) van dit Boek wordt aan een buiten Nederland gesloten huwelijk erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde en in ieder geval indien een der echtgenoten op het tijdstip van de sluiting van dat huwelijk:
+Ongeacht [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2019-01-29&g=2019-01-29) van dit Boek wordt aan een buiten Nederland gesloten huwelijk erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde en in ieder geval indien een der echtgenoten op het tijdstip van de sluiting van dat huwelijk:
 
 - a. reeds gehuwd was of een geregistreerd partnerschap had gesloten met een persoon die de Nederlandse nationaliteit bezat of zelf de Nederlandse nationaliteit bezat of in Nederland zijn gewone verblijfplaats had, tenzij het eerder gesloten huwelijk of geregistreerd partnerschap is ontbonden of nietig verklaard;
 
@@ -237,21 +237,21 @@ Ongeacht [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&ti
 
 ##### Artikel 33
 
-De [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2018-09-19&g=2018-09-19) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=32&z=2018-09-19&g=2018-09-19) van dit Boek zijn van toepassing ongeacht of over de erkenning van de rechtsgeldigheid van een huwelijk als hoofdvraag, dan wel als voorvraag in verband met een andere vraag wordt beslist.
+De [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2019-01-29&g=2019-01-29) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=32&z=2019-01-29&g=2019-01-29) van dit Boek zijn van toepassing ongeacht of over de erkenning van de rechtsgeldigheid van een huwelijk als hoofdvraag, dan wel als voorvraag in verband met een andere vraag wordt beslist.
 
 ##### Artikel 34
 
 1. Deze afdeling is niet van toepassing op de erkenning van de geldigheid van huwelijken die zijn voltrokken voor 1 januari 1990.
 
-2. Huwelijken die na 1 januari 1990 en voor 15 januari 1999 ten overstaan van buitenlandse diplomatieke en consulaire ambtenaren in overeenstemming met het recht van de door hen vertegenwoordigde staat zijn voltrokken worden, onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=1&artikel=6&z=2018-09-19&g=2018-09-19) van dit Boek, als geldig aangemerkt indien de ene partij uitsluitend of mede de Nederlandse nationaliteit bezit en de andere partij uitsluitend of mede de nationaliteit van de door de diplomatieke of consulaire ambtenaar vertegenwoordigde staat.
+2. Huwelijken die na 1 januari 1990 en voor 15 januari 1999 ten overstaan van buitenlandse diplomatieke en consulaire ambtenaren in overeenstemming met het recht van de door hen vertegenwoordigde staat zijn voltrokken worden, onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=1&artikel=6&z=2019-01-29&g=2019-01-29) van dit Boek, als geldig aangemerkt indien de ene partij uitsluitend of mede de Nederlandse nationaliteit bezit en de andere partij uitsluitend of mede de nationaliteit van de door de diplomatieke of consulaire ambtenaar vertegenwoordigde staat.
 
-3. [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=30&z=2018-09-19&g=2018-09-19) van dit Boek is van toepassing op huwelijken die na 15 januari 1999 ten overstaan van buitenlandse diplomatieke en consulaire ambtenaren zijn voltrokken.
+3. [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=30&z=2019-01-29&g=2019-01-29) van dit Boek is van toepassing op huwelijken die na 15 januari 1999 ten overstaan van buitenlandse diplomatieke en consulaire ambtenaren zijn voltrokken.
 
 ### Afdeling 2. Rechtsbetrekkingen tussen de echtgenoten
 
 ##### Artikel 35
 
-1. De persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling worden beheerst door het recht dat de echtgenoten voor of tijdens het huwelijk, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
+1. De persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1103, worden beheerst door het recht dat de echtgenoten voor of tijdens het huwelijk, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
 
 2. De echtgenoten kunnen slechts een van de volgende rechtsstelsels aanwijzen:
 
@@ -263,7 +263,7 @@ De [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeld
 
 ##### Artikel 36
 
-Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling beheerst:
+Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1103 beheerst:
 
 - a. door het recht van de staat van de gemeenschappelijke nationaliteit van de echtgenoten, of bij gebreke daarvan
 
@@ -273,37 +273,39 @@ Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijk
 
 ##### Artikel 37
 
-Indien de echtgenoten een nationaliteit gemeenschappelijk hebben, geldt voor de toepassing van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=36&z=2018-09-19&g=2018-09-19) van dit Boek als hun gemeenschappelijke nationale recht het recht van die nationaliteit, ongeacht of zij beiden of een hunner nog een andere nationaliteit bezitten. Bezitten de echtgenoten meer dan een gemeenschappelijke nationaliteit, dan worden zij geacht geen gemeenschappelijke nationaliteit te bezitten.
+Indien de echtgenoten een nationaliteit gemeenschappelijk hebben, geldt voor de toepassing van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=36&z=2019-01-29&g=2019-01-29) van dit Boek als hun gemeenschappelijke nationale recht het recht van die nationaliteit, ongeacht of zij beiden of een hunner nog een andere nationaliteit bezitten. Bezitten de echtgenoten meer dan een gemeenschappelijke nationaliteit, dan worden zij geacht geen gemeenschappelijke nationaliteit te bezitten.
 
 ##### Artikel 38
 
-Indien een aanwijzing als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=35&z=2018-09-19&g=2018-09-19) van dit Boek of een wijziging in de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=36&z=2018-09-19&g=2018-09-19) van dit Boek genoemde omstandigheden leidt tot toepasselijkheid van een ander recht dan het voorheen toepasselijke, is dat andere recht toepasselijk vanaf het tijdstip van die aanwijzing of wijziging.
+Indien een aanwijzing als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=35&z=2019-01-29&g=2019-01-29) van dit Boek of een wijziging in de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=36&z=2019-01-29&g=2019-01-29) van dit Boek genoemde omstandigheden leidt tot toepasselijkheid van een ander recht dan het voorheen toepasselijke, is dat andere recht toepasselijk vanaf het tijdstip van die aanwijzing of wijziging.
 
 ##### Artikel 39
 
-De vraag in hoeverre een echtgenoot aansprakelijk is voor verbintenissen ten behoeve van de gewone gang van de huishouding, welke door de andere echtgenoot zijn aangegaan wordt, indien die andere echtgenoot en de wederpartij ten tijde van het aangaan van de verbintenis elk hun gewone verblijfplaats hadden in dezelfde staat, beheerst door het recht van die staat en bij gebreke daarvan door het recht dat op die verbintenis toepasselijk is.
+Vervallen
 
 ##### Artikel 40
 
-De vraag of een echtgenoot voor een rechtshandeling de toestemming van de andere echtgenoot behoeft, en zo ja, in welke vorm deze toestemming moet worden verleend, of zij kan worden vervangen door een beslissing van de rechter of een andere autoriteit, alsmede welke de gevolgen zijn van het ontbreken van deze toestemming, wordt beheerst door het recht van de staat waar de andere echtgenoot ten tijde van het verrichten van die rechtshandeling zijn gewone verblijfplaats heeft.
+Vervallen
 
 ##### Artikel 41
 
-De [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=39&z=2018-09-19&g=2018-09-19) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=2&artikel=40&z=2018-09-19&g=2018-09-19) van dit Boek gelden ongeacht het recht dat het huwelijksvermogensregime van de echtgenoten beheerst, en ongeacht het recht dat van toepassing is op de persoonlijke rechtsbetrekkingen tussen de echtgenoten.
+Vervallen
 
 ### Afdeling 3. Het huwelijksvermogensregime
 
 ##### Artikel 42
 
-Voor de toepassing van deze afdeling wordt verstaan onder het Haags Huwelijksvermogensverdrag 1978: het op 14 maart 1978 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat van toepassing is op het huwelijksvermogensregime (Trb. 1988, 130).
+1. In deze afdeling wordt onder de Verordening (EU) nr. 2016/1103 verstaan: de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels
+
+2. In aanvulling op de Verordening (EU) nr. 2016/1103 zijn de bepalingen van deze afdeling van toepassing.
 
 ##### Artikel 43
 
-Bij het ontbreken van een aanwijzing van het toepasselijke recht overeenkomstig het Haags Huwelijksvermogensverdrag 1978 wordt, behoudens in het geval van artikel 5 lid 2 of artikel 7 lid 2 van dit verdrag, het huwelijksvermogensregime van echtgenoten die beiden ten tijde van de sluiting van het huwelijk de Nederlandse nationaliteit bezitten beheerst door Nederlands recht, ongeacht of zij beiden of een hunner nog een andere nationaliteit bezitten. Bezitten de echtgenoten meer dan een gemeenschappelijke nationaliteit, dan worden zij geacht geen gemeenschappelijke nationaliteit te bezitten.
+Vervallen
 
 ##### Artikel 44
 
-De gevolgen van het huwelijksvermogensregime ten aanzien van een rechtsbetrekking tussen een echtgenoot en een derde worden beheerst door het recht dat op het huwelijksvermogensregime toepasselijk is.
+Vervallen
 
 ##### Artikel 45
 
@@ -311,21 +313,15 @@ Een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht k
 
 ##### Artikel 46
 
-1. Een derde die tijdens het huwelijk een rechtshandeling heeft verricht met een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht, kan, indien zowel hij als de beide echtgenoten ten tijde van die rechtshandeling hun gewone verblijfplaats in Nederland hadden, voor de uit die rechtshandeling voortvloeiende schuld ook na de ontbinding van het huwelijk verhaal nemen op de echtgenoten alsof tussen hen naar Nederlands recht algehele gemeenschap van goederen bestond.
-
-2. Lid 1 geldt niet indien de derde ten tijde van de rechtshandeling wist of behoorde te weten dat het huwelijksvermogensregime van de echtgenoten werd beheerst door vreemd recht. Zulks wordt geacht het geval te zijn indien de rechtshandeling werd verricht na verloop van veertien dagen nadat een akte als bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=3&artikel=45&z=2018-09-19&g=2018-09-19) van dit Boek was ingeschreven in het aldaar bedoelde register.
+Vervallen
 
 ##### Artikel 47
 
-Heeft een der echtgenoten door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van dit Boek aangewezen recht zou zijn toegepast, dan kan de andere echtgenoot daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het huwelijksvermogensregime plaatsvindende afrekening.
+Heeft een der echtgenoten door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van de Verordening (EU) nr. 2016/1103 aangewezen recht zou zijn toegepast, dan kan de andere echtgenoot daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het huwelijksvermogensregime plaatsvindende afrekening.
 
 ##### Artikel 48
 
-[Artikel 92 lid 3 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=92) is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op
-
-- a. een echtgenoot wiens huwelijksvermogensregime wordt beheerst door Nederlands recht, of
-
-- b. een echtgenoot op wie ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=3&artikel=46&z=2018-09-19&g=2018-09-19) van dit Boek verhaal mogelijk is.
+Vervallen
 
 ##### Artikel 49
 
@@ -333,19 +329,17 @@ Vervallen
 
 ##### Artikel 50
 
-[Artikel 131 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=131) is ook van toepassing indien het huwelijksvermogensregime van de echtgenoten door een vreemd recht wordt beheerst.
+Vervallen
 
 ##### Artikel 51
 
-Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens [artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=1).
+1. Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens [artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=1).
+
+2. Het voorgaande lid is van toepassing op de verevening van pensioenrechten van echtgenoten die na 1 maart 2001 van tafel en bed zijn gescheiden of wier huwelijk na 1 maart 2001 is ontbonden.
 
 ##### Artikel 52
 
-1. Deze afdeling is van toepassing op het huwelijksvermogensregime van echtgenoten die na 1 september 1992 in het huwelijk zijn getreden.
-
-2. In afwijking van lid 1 is [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=3&artikel=51&z=2018-09-19&g=2018-09-19) van dit Boek van toepassing op de verevening van pensioenrechten van echtgenoten die na 1 maart 2001 van tafel en bed zijn gescheiden of wier huwelijk na 1 maart 2001 is ontbonden.
-
-3. De bepalingen van deze afdeling betreffende de aanwijzing van het toepasselijke recht zijn van toepassing op het huwelijksvermogensregime van echtgenoten die voor 1 september 1992 in het huwelijk zijn getreden en die na dat tijdstip het daarop toepasselijke recht hebben aangewezen.
+Vervallen
 
 ##### Artikel 53
 
@@ -395,7 +389,7 @@ Een ontbinding van het huwelijk in het buitenland die uitsluitend door een eenzi
 
 ##### Artikel 59
 
-Ongeacht de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=4&artikel=57&z=2018-09-19&g=2018-09-19) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=4&artikel=58&z=2018-09-19&g=2018-09-19) van dit Boek wordt aan een in het buitenland tot stand gekomen ontbinding van het huwelijk erkenning onthouden indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
+Ongeacht de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=4&artikel=57&z=2019-01-29&g=2019-01-29) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=4&artikel=58&z=2019-01-29&g=2019-01-29) van dit Boek wordt aan een in het buitenland tot stand gekomen ontbinding van het huwelijk erkenning onthouden indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
 
 ## Titel 4. Het geregistreerd partnerschap
 
@@ -431,17 +425,17 @@ Ongeacht de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=
 
 ##### Artikel 62
 
-Ongeacht [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=61&z=2018-09-19&g=2018-09-19) van dit Boek wordt aan een buiten Nederland aangegaan geregistreerd partnerschap erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
+Ongeacht [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=61&z=2019-01-29&g=2019-01-29) van dit Boek wordt aan een buiten Nederland aangegaan geregistreerd partnerschap erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
 
 ##### Artikel 63
 
-De [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=61&z=2018-09-19&g=2018-09-19) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=62&z=2018-09-19&g=2018-09-19) van dit Boek zijn van toepassing, ongeacht of over de erkenning van de rechtsgeldigheid van een geregistreerd partnerschap als hoofdvraag, dan wel als voorvraag in verband met een andere vraag wordt beslist.
+De [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=61&z=2019-01-29&g=2019-01-29) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=2&artikel=62&z=2019-01-29&g=2019-01-29) van dit Boek zijn van toepassing, ongeacht of over de erkenning van de rechtsgeldigheid van een geregistreerd partnerschap als hoofdvraag, dan wel als voorvraag in verband met een andere vraag wordt beslist.
 
 ### Afdeling 3. Rechtsbetrekkingen tussen de geregistreerde partners
 
 ##### Artikel 64
 
-1. De persoonlijke rechtsbetrekkingen tussen de partners onderling worden beheerst door het recht dat de partners voor of tijdens het geregistreerd partnerschap, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
+1. De persoonlijke rechtsbetrekkingen tussen de partners onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1104, worden beheerst door het recht dat de partners voor of tijdens het geregistreerd partnerschap, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
 
 2. De partners kunnen slechts een rechtsstelsel aanwijzen dat het instituut van het geregistreerd partnerschap kent.
 
@@ -449,69 +443,63 @@ De [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeld
 
 ##### Artikel 65
 
-Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen partners die in Nederland een geregistreerd partnerschap zijn aangegaan, beheerst door het Nederlandse recht. Zijn de partners buiten Nederland een geregistreerd partnerschap aangegaan, dan worden de persoonlijke rechtsbetrekkingen tussen hen beheerst door het recht, met inbegrip van het internationaal privaarecht, van de staat waar het geregistreerd partnerschap is aangegaan.
+Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen die niet worden begrepen onder de Verordening (EU) nr. 2016/1104 tussen partners die in Nederland een geregistreerd partnerschap zijn aangegaan, beheerst door het Nederlandse recht. Zijn de partners buiten Nederland een geregistreerd partnerschap aangegaan, dan worden deze persoonlijke rechtsbetrekkingen tussen hen beheerst door het recht, met inbegrip van het internationaal privaarecht, van de staat waar het geregistreerd partnerschap is aangegaan.
 
 ##### Artikel 66
 
-Indien een aanwijzing als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=3&artikel=64&z=2018-09-19&g=2018-09-19) leidt tot toepasselijkheid van een ander recht dan het voorheen toepasselijke, is dat andere recht toepasselijk vanaf het tijdstip van die aanwijzing.
+Indien een aanwijzing als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=3&artikel=64&z=2019-01-29&g=2019-01-29) leidt tot toepasselijkheid van een ander recht dan het voorheen toepasselijke, is dat andere recht toepasselijk vanaf het tijdstip van die aanwijzing.
 
 ##### Artikel 67
 
-De vraag in hoeverre een partner aansprakelijk is voor verbintenissen ten behoeve van de gewone gang van het huishouden welke door de andere partner zijn aangegaan, wordt, indien die andere partner en de wederpartij ten tijde van het aangaan van de verbintenis hun gewone verblijfplaats hadden in Nederland, beheerst door het Nederlandse recht.
+Vervallen
 
 ##### Artikel 68
 
-De vraag of een partner voor een rechtshandeling de toestemming van de andere partner behoeft, en zo ja, in welke vorm deze toestemming moet worden verleend, of zij kan worden vervangen door een beslissing van de rechter of een andere autoriteit, alsmede welke de gevolgen zijn van het ontbreken van deze toestemming, wordt beheerst door het Nederlandse recht indien de andere partner ten tijde van het verrichten van die rechtshandeling zijn gewone verblijfplaats heeft in Nederland.
+Vervallen
 
 ##### Artikel 69
 
-De [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=3&artikel=67&z=2018-09-19&g=2018-09-19) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=3&artikel=68&z=2018-09-19&g=2018-09-19) van dit Boek gelden ongeacht het recht dat het partnerschapsvermogensregime van de partners beheerst en ongeacht het recht dat van toepassing is op de persoonlijke rechtsbetrekkingen tussen de partners.
+Vervallen
 
 ### Afdeling 4. Het partnerschapsvermogensregime
 
 ##### Artikel 70
 
-1. Op het vermogensregime van een geregistreerd partnerschap is van toepassing het recht dat de partners vóór het aangaan daarvan hebben aangewezen.
+1. In deze afdeling wordt onder de Verordening (EU) nr. 2016/1104 verstaan: de Verordening (EU) nr. 2016/1104 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van de vermogensrechtelijke gevolgen van geregistreerde partnerschappen.
 
-2. Het aldus aangewezen recht is van toepassing op hun gehele vermogen. De partners kunnen echter, ongeacht of zij tot de aanwijzing, bedoeld in lid 1, zijn overgegaan, met betrekking tot het geheel of een gedeelte van de onroerende zaken, alsmede met betrekking tot onroerende zaken die later worden verkregen, het recht aanwijzen van de plaats waar die zaken zijn gelegen.
-
-3. In alle gevallen kunnen de partners uitsluitend een rechtsstelsel aanwijzen dat het instituut van het geregistreerd partnerschap kent.
+2. In aanvulling op de Verordening (EU) nr. 2016/1104 zijn de bepalingen van deze afdeling van toepassing.
 
 ##### Artikel 71
 
-1. Indien het geregistreerd partnerschap in Nederland is aangegaan en de partners vóór het aangaan daarvan het toepasselijke recht niet hebben aangewezen, wordt hun vermogensregime beheerst door het Nederlandse recht.
-
-2. Indien het geregistreerd partnerschap buiten Nederland is aangegaan en de partners vóór het aangaan daarvan het toepasselijke recht niet hebben aangewezen, wordt hun vermogensregime beheerst door het recht, met inbegrip van het internationaal privaatrecht, van de staat waar het geregistreerd partnerschap is aangegaan.
+Vervallen
 
 ##### Artikel 72
 
-1. Tijdens het geregistreerd partnerschap kunnen de partners hun partnerschapsvermogensregime onderwerpen aan een ander intern recht dan het recht dat tot dusver van toepassing was.
-
-2. De [leden 2 en 3 van artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=4&artikel=70&z=2018-09-19&g=2018-09-19) van dit Boek zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 73
 
-Het recht dat op grond van de bepalingen van deze afdeling van toepassing is op het partnerschapsvermogensregime of dat de partners rechtsgeldig als toepasselijk hebben aangewezen, blijft van toepassing zolang zij geen ander toepasselijk recht hebben aangewezen, zelfs in geval van wijziging van hun nationaliteit of gewone verblijfplaats.
+Vervallen
 
 ##### Artikel 74
 
-De voorwaarden voor de wilsovereenstemming van de partners inzake het recht dat zij als toepasselijk aanwijzen op hun partnerschapsvermogensregime, worden door dat recht bepaald.
+Vervallen
 
 ##### Artikel 75
 
-De aanwijzing van het toepasselijke recht op het partnerschapsvermogensregime moet uitdrukkelijk zijn overeengekomen of anderszins ondubbelzinnig voortvloeien uit partnerschapsvoorwaarden.
+Vervallen
 
 ##### Artikel 76
 
-Partnerschapsvoorwaarden zijn, wat de vorm betreft, geldig indien zij in overeenstemming zijn, hetzij met het interne recht dat van toepassing is op het partnerschapsvermogensregime, hetzij met het interne recht van de plaats waar zij zijn aangegaan. Zij worden in elk geval neergelegd in een gedagtekend en door beide partners ondertekend schriftelijk stuk.
+Vervallen
 
 ##### Artikel 77
 
-Een uitdrukkelijk overeengekomen aanwijzing van het op het partnerschapsvermogensregime toepasselijke recht geschiedt in de vorm welke voor partnerschapsvoorwaarden is voorgeschreven, hetzij door het aangewezen interne recht, hetzij door het interne recht van de plaats waar die aanwijzing geschiedt. De aanwijzing wordt in elk geval neergelegd in een gedagtekend en door beide partners ondertekend schriftelijk stuk.
+Vervallen
 
 ##### Artikel 78
 
-De gevolgen van het partnerschapsvermogensregime ten aanzien van een rechtsbetrekking tussen een partner en een derde worden beheerst door het recht dat op het partnerschapsvermogensregime toepasselijk is.
+Vervallen
 
 ##### Artikel 79
 
@@ -519,21 +507,15 @@ Een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht,
 
 ##### Artikel 80
 
-1. Een derde die tijdens het geregistreerd partnerschap een rechtshandeling heeft verricht met een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht kan, indien zowel hij als de beide partners ten tijde van die rechtshandeling hun gewone verblijfplaats in Nederland hadden, voor de uit die rechtshandeling voortvloeiende schuld ook na de beëindiging van het geregistreerd partnerschap verhaal nemen alsof tussen de partners naar Nederlands recht algehele gemeenschap van goederen bestond.
-
-2. Lid 1 geldt niet indien de derde ten tijde van de rechtshandeling wist of behoorde te weten dat het partnerschapsvermogensregime van de partners werd beheerst door vreemd recht. Zulks wordt geacht het geval te zijn indien de rechtshandeling werd verricht na verloop van veertien dagen nadat een akte als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=4&artikel=79&z=2018-09-19&g=2018-09-19) van dit Boek was ingeschreven in het aldaar bedoelde register.
+Vervallen
 
 ##### Artikel 81
 
-Heeft een der partners, door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht, ten opzichte van de andere partner een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van deze wet aangewezen recht zou zijn toegepast, dan kan die andere partner daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het partnerschapsvermogensregime tussen de partners plaatsvindende afrekening.
+Heeft een der partners, door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht, ten opzichte van de andere partner een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van de Verordening (EU) nr. 2016/1104 aangewezen recht zou zijn toegepast, dan kan die andere partner daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het partnerschapsvermogensregime tussen de partners plaatsvindende afrekening.
 
 ##### Artikel 82
 
-[Artikel 92 lid 3 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=92) is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op:
-
-- a. een partner wiens partnerschapsvermogensregime wordt beheerst door het Nederlandse recht, of
-
-- b. een partner op wie ingevolge [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=4&artikel=80&z=2018-09-19&g=2018-09-19) van dit Boek verhaal mogelijk is.
+Vervallen
 
 ##### Artikel 83
 
@@ -541,7 +523,7 @@ Vervallen
 
 ##### Artikel 84
 
-[Artikel 131 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=131) is ook van toepassing indien het partnerschapsvermogensregime van de partners door een vreemd recht wordt beheerst.
+Vervallen
 
 ##### Artikel 85
 
@@ -579,7 +561,7 @@ Of een in Nederland aangegaan geregistreerd partnerschap in Nederland kan worden
 
 ##### Artikel 89
 
-Ongeacht [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=6&artikel=88&z=2018-09-19&g=2018-09-19) van dit Boek wordt aan een in het buitenland tot stand gekomen beëindiging van het geregistreerd partnerschap erkenning onthouden indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
+Ongeacht [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=6&artikel=88&z=2019-01-29&g=2019-01-29) van dit Boek wordt aan een in het buitenland tot stand gekomen beëindiging van het geregistreerd partnerschap erkenning onthouden indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
 
 ### Afdeling 7. Levensonderhoud
 
@@ -597,7 +579,7 @@ Het recht dat van toepassing is op verplichtingen tot levensonderhoud gedurende 
 
 1. Deze titel is niet van toepassing op geregistreerde partnerschappen die voor 1 januari 2005 zijn aangegaan.
 
-2. In afwijking van lid 1 is [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=4&artikel=85&z=2018-09-19&g=2018-09-19) van dit Boek van toepassing op de verevening van pensioenrechten ingeval het geregistreerde partnerschap na 1 januari 2005 is beëindigd.
+2. In afwijking van lid 1 is [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=4&afdeling=4&artikel=85&z=2019-01-29&g=2019-01-29) van dit Boek van toepassing op de verevening van pensioenrechten ingeval het geregistreerde partnerschap na 1 januari 2005 is beëindigd.
 
 ## Titel 5. Afstamming
 
@@ -613,13 +595,13 @@ Het recht dat van toepassing is op verplichtingen tot levensonderhoud gedurende 
 
 ##### Artikel 93
 
-1. Of familierechtelijke betrekkingen als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2018-09-19&g=2018-09-19) van dit Boek in een gerechtelijke procedure tot gegrondverklaring van een ontkenning kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge dat artikel op het bestaan van die betrekkingen toepasselijk is.
+1. Of familierechtelijke betrekkingen als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2019-01-29&g=2019-01-29) van dit Boek in een gerechtelijke procedure tot gegrondverklaring van een ontkenning kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge dat artikel op het bestaan van die betrekkingen toepasselijk is.
 
-2. Is volgens het in lid 1 bedoelde recht ontkenning niet of niet meer mogelijk, dan kan de rechter, indien zulks in het belang is van het kind en de ouders en het kind een daartoe strekkend gezamenlijk verzoek doen, een ander in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2018-09-19&g=2018-09-19) van dit Boek genoemd recht toepassen, dan wel het recht toepassen van de staat van de gewone verblijfplaats van het kind ten tijde van de ontkenning of het Nederlandse recht.
+2. Is volgens het in lid 1 bedoelde recht ontkenning niet of niet meer mogelijk, dan kan de rechter, indien zulks in het belang is van het kind en de ouders en het kind een daartoe strekkend gezamenlijk verzoek doen, een ander in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2019-01-29&g=2019-01-29) van dit Boek genoemd recht toepassen, dan wel het recht toepassen van de staat van de gewone verblijfplaats van het kind ten tijde van de ontkenning of het Nederlandse recht.
 
 3. Ongeacht het ingevolge lid 1 of lid 2 toepasselijke recht is in de daar bedoelde gerechtelijke procedure [artikel 212 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=212) van toepassing.
 
-4. Of familierechtelijke betrekkingen tussen een kind en de met zijn moeder gehuwd of gehuwd geweest zijnde persoon of de persoon met wie zijn moeder door een geregistreerd partnerschap is verbonden of verbonden is geweest door een verklaring houdende ontkenning door de moeder ten overstaan van de ambtenaar van de burgerlijke stand kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2018-09-19&g=2018-09-19) van dit Boek op het bestaan van die betrekkingen toepasselijk is. Onverminderd de leden 1 en 2 kan een zodanige verklaring slechts worden afgelegd indien de met de moeder gehuwde of gehuwd geweest zijnde nog levende persoon respectievelijk de persoon met wie de moeder door een geregistreerd partnerschap is verbonden of de nog in levende zijn persoon met wie zij door een partnerschap verbonden is geweest erin toestemt en indien tegelijkertijd familierechtelijke betrekkingen tussen het kind en een andere persoon ontstaan of worden gevestigd.
+4. Of familierechtelijke betrekkingen tussen een kind en de met zijn moeder gehuwd of gehuwd geweest zijnde persoon of de persoon met wie zijn moeder door een geregistreerd partnerschap is verbonden of verbonden is geweest door een verklaring houdende ontkenning door de moeder ten overstaan van de ambtenaar van de burgerlijke stand kunnen worden tenietgedaan, wordt bepaald door het recht dat ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=1&artikel=92&z=2019-01-29&g=2019-01-29) van dit Boek op het bestaan van die betrekkingen toepasselijk is. Onverminderd de leden 1 en 2 kan een zodanige verklaring slechts worden afgelegd indien de met de moeder gehuwde of gehuwd geweest zijnde nog levende persoon respectievelijk de persoon met wie de moeder door een geregistreerd partnerschap is verbonden of de nog in levende zijn persoon met wie zij door een partnerschap verbonden is geweest erin toestemt en indien tegelijkertijd familierechtelijke betrekkingen tussen het kind en een andere persoon ontstaan of worden gevestigd.
 
 ##### Artikel 94
 
@@ -643,7 +625,7 @@ Het recht dat van toepassing is op verplichtingen tot levensonderhoud gedurende 
 
 ##### Artikel 96
 
-Of en op welke wijze een erkenning kan worden tenietgedaan, wordt, wat betreft de bevoegdheid van de persoon die het kind heeft erkend en de voorwaarden voor de erkenning, bepaald door het ingevolge [artikel 95 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=2&artikel=95&z=2018-09-19&g=2018-09-19) van dit Boek toegepaste recht, en wat betreft de toestemming van de moeder, onderscheidenlijk het kind, door het recht dat ingevolge artikel 95 lid 3 van dit Boek toepasselijk is.
+Of en op welke wijze een erkenning kan worden tenietgedaan, wordt, wat betreft de bevoegdheid van de persoon die het kind heeft erkend en de voorwaarden voor de erkenning, bepaald door het ingevolge [artikel 95 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=2&artikel=95&z=2019-01-29&g=2019-01-29) van dit Boek toegepaste recht, en wat betreft de toestemming van de moeder, onderscheidenlijk het kind, door het recht dat ingevolge artikel 95 lid 3 van dit Boek toepasselijk is.
 
 ##### Artikel 97
 
@@ -661,7 +643,7 @@ Of en op welke wijze een erkenning kan worden tenietgedaan, wordt, wat betreft d
 
 2. Indien toepassing van lid 1 niet leidt tot de wettiging, kunnen familierechtelijke betrekkingen door wettiging worden gevestigd volgens het recht van de staat van de gewone verblijfplaats van het kind.
 
-3. De leden 1 en 2 gelden niet indien een van de ouders de Nederlandse nationaliteit bezit en het huwelijk niet geldig is voltrokken in overeenstemming met de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=30&z=2018-09-19&g=2018-09-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2018-09-19&g=2018-09-19) van dit Boek.
+3. De leden 1 en 2 gelden niet indien een van de ouders de Nederlandse nationaliteit bezit en het huwelijk niet geldig is voltrokken in overeenstemming met de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=30&z=2019-01-29&g=2019-01-29) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=3&afdeling=1&artikel=31&z=2019-01-29&g=2019-01-29) van dit Boek.
 
 4. Voor de toepassing van de voorgaande leden is bepalend het tijdstip van het huwelijk van de ouders, dan wel, bij de totstandkoming van de familierechtelijke betrekkingen door de beslissing van een rechterlijke of andere bevoegde autoriteit, het tijdstip van de indiening van het verzoek of de vordering.
 
@@ -691,21 +673,21 @@ Of en op welke wijze een erkenning kan worden tenietgedaan, wordt, wat betreft d
 
 3. De beslissing is niet vatbaar voor erkenning indien zij onverenigbaar is met een onherroepelijk geworden beslissing van de Nederlandse rechter inzake de vaststelling of wijziging van dezelfde familierechtelijke betrekkingen.
 
-4. De voorgaande leden laten de toepassing van de in [artikel 98lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=3&artikel=98&z=2018-09-19&g=2018-09-19) van dit Boek bedoelde overeenkomst onverlet.
+4. De voorgaande leden laten de toepassing van de in [artikel 98lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=3&artikel=98&z=2019-01-29&g=2019-01-29) van dit Boek bedoelde overeenkomst onverlet.
 
 ##### Artikel 101
 
-1. [Artikel 100 leden 1, onder b en c, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=5&artikel=100&z=2018-09-19&g=2018-09-19) van dit Boek is van overeenkomstige toepassing op buitenslands tot stand gekomen rechtsfeiten of rechtshandelingen waarbij familierechtelijke betrekkingen zijn vastgesteld of gewijzigd, welke zijn neergelegd in een door een bevoegde instantie overeenkomstig de plaatselijke voorschriften opgemaakte akte.
+1. [Artikel 100 leden 1, onder b en c, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=5&artikel=100&z=2019-01-29&g=2019-01-29) van dit Boek is van overeenkomstige toepassing op buitenslands tot stand gekomen rechtsfeiten of rechtshandelingen waarbij familierechtelijke betrekkingen zijn vastgesteld of gewijzigd, welke zijn neergelegd in een door een bevoegde instantie overeenkomstig de plaatselijke voorschriften opgemaakte akte.
 
-2. De weigeringsgrond, bedoeld in [artikel 100 lid 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=5&artikel=100&z=2018-09-19&g=2018-09-19), van dit Boek doet zich met betrekking tot de erkenning in elk geval voor
+2. De weigeringsgrond, bedoeld in [artikel 100 lid 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=5&artikel=100&z=2019-01-29&g=2019-01-29), van dit Boek doet zich met betrekking tot de erkenning in elk geval voor
 
 - a. indien deze is verricht door een Nederlander die naar Nederlands recht niet bevoegd zou zijn het kind te erkennen;
 
-- b. indien, wat de toestemming van de moeder of het kind betreft, niet is voldaan aan de vereisten van het recht dat ingevolge [artikel 95 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=2&artikel=95&z=2018-09-19&g=2018-09-19), van dit Boek toepasselijk is, of
+- b. indien, wat de toestemming van de moeder of het kind betreft, niet is voldaan aan de vereisten van het recht dat ingevolge [artikel 95 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=2&artikel=95&z=2019-01-29&g=2019-01-29), van dit Boek toepasselijk is, of
 
 - c. indien de akte kennelijk op een schijnhandeling betrekking heeft.
 
-3. De voorgaande leden laten de toepassing van de in [artikel 98 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=3&artikel=98&z=2018-09-19&g=2018-09-19), van dit Boek genoemde Overeenkomst onverlet.
+3. De voorgaande leden laten de toepassing van de in [artikel 98 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=5&afdeling=3&artikel=98&z=2019-01-29&g=2019-01-29), van dit Boek genoemde Overeenkomst onverlet.
 
 ### Afdeling 6. Overgangsrecht
 
@@ -775,7 +757,7 @@ Deze afdeling heeft betrekking op adopties waarop het Haags Adoptieverdrag 1993 
 
 - b. de erkenning van de adoptie in het kennelijk belang van het kind is, en
 
-- c. erkenning niet op een grond, bedoeld in [artikel 108 lid 2 of lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=108&z=2018-09-19&g=2018-09-19) van dit Boek, zou worden onthouden.
+- c. erkenning niet op een grond, bedoeld in [artikel 108 lid 2 of lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=108&z=2019-01-29&g=2019-01-29) van dit Boek, zou worden onthouden.
 
 2. Een adoptie als bedoeld in lid 1 wordt slechts erkend indien de rechter heeft vastgesteld dat aan de in dat lid genoemde voorwaarden voor erkenning is voldaan. Toepasselijk is de procedure van [artikel 26 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=26) .
 
@@ -783,7 +765,7 @@ Deze afdeling heeft betrekking op adopties waarop het Haags Adoptieverdrag 1993 
 
 ##### Artikel 110
 
-1. De erkenning, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=108&z=2018-09-19&g=2018-09-19) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=109&z=2018-09-19&g=2018-09-19) van dit Boek, houdt tevens in de erkenning van:
+1. De erkenning, bedoeld in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=108&z=2019-01-29&g=2019-01-29) en [109](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=109&z=2019-01-29&g=2019-01-29) van dit Boek, houdt tevens in de erkenning van:
 
 - a. de familierechtelijke betrekkingen tussen het kind en zijn adoptiefouders en, in voorkomend geval, de bloedverwanten van zijn adoptiefouders;
 
@@ -795,7 +777,7 @@ Deze afdeling heeft betrekking op adopties waarop het Haags Adoptieverdrag 1993 
 
 ##### Artikel 111
 
-In het in [artikel 110 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=110&z=2018-09-19&g=2018-09-19) van dit Boek bedoelde geval kan, indien het kind in Nederland gewone verblijfplaats heeft en daar voor permanent verblijf bij de adoptiefouders is toegelaten, een verzoek tot omzetting in een adoptie naar Nederlands recht worden ingediend. [Artikel 11 lid 2 van de Wet tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0009614&artikel=11), is van overeenkomstige toepassing. [Artikel 105 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=2&artikel=105&z=2018-09-19&g=2018-09-19) van dit Boek is van overeenkomstige toepassing op de toestemming van de ouders wier toestemming tot de adoptie vereist was.
+In het in [artikel 110 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=3&artikel=110&z=2019-01-29&g=2019-01-29) van dit Boek bedoelde geval kan, indien het kind in Nederland gewone verblijfplaats heeft en daar voor permanent verblijf bij de adoptiefouders is toegelaten, een verzoek tot omzetting in een adoptie naar Nederlands recht worden ingediend. [Artikel 11 lid 2 van de Wet tot uitvoering van het op 29 mei 1993 te ’s-Gravenhage tot stand gekomen Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0009614&artikel=11), is van overeenkomstige toepassing. [Artikel 105 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=6&afdeling=2&artikel=105&z=2019-01-29&g=2019-01-29) van dit Boek is van overeenkomstige toepassing op de toestemming van de ouders wier toestemming tot de adoptie vereist was.
 
 ### Afdeling 4. Overgangsrecht
 
@@ -827,7 +809,7 @@ Op internationale ontvoering van kinderen zijn van toepassing:
 
 - b. het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139),
 
-- c. de in [artikel 113, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=7&afdeling=1&artikel=113&z=2018-09-19&g=2018-09-19), van dit Boek genoemde verordening, en
+- c. de in [artikel 113, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=7&afdeling=1&artikel=113&z=2019-01-29&g=2019-01-29), van dit Boek genoemde verordening, en
 
 - d. de [Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) (Stb. 1990, 202).
 
@@ -877,11 +859,11 @@ Het op een corporatie toepasselijke recht beheerst naast de oprichting in het bi
 
 ##### Artikel 120
 
-Indien een rechtspersoonlijkheid bezittende corporatie haar statutaire zetel verplaatst naar een ander land en het recht van de staat van de oorspronkelijke zetel en dat van de staat van de nieuwe zetel op het tijdstip van de zetelverplaatsing het voortbestaan van de corporatie als rechtspersoon erkennen, wordt haar voortbestaan als rechtspersoon ook naar Nederlands recht erkend. Vanaf de zetelverplaatsing beheerst het recht van de staat van de nieuwe zetel de in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=119&z=2018-09-19&g=2018-09-19) van dit Boek bedoelde onderwerpen, behoudens indien ingevolge dat recht daarop het recht van de staat van de oorspronkelijke zetel van toepassing blijft.
+Indien een rechtspersoonlijkheid bezittende corporatie haar statutaire zetel verplaatst naar een ander land en het recht van de staat van de oorspronkelijke zetel en dat van de staat van de nieuwe zetel op het tijdstip van de zetelverplaatsing het voortbestaan van de corporatie als rechtspersoon erkennen, wordt haar voortbestaan als rechtspersoon ook naar Nederlands recht erkend. Vanaf de zetelverplaatsing beheerst het recht van de staat van de nieuwe zetel de in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=119&z=2019-01-29&g=2019-01-29) van dit Boek bedoelde onderwerpen, behoudens indien ingevolge dat recht daarop het recht van de staat van de oorspronkelijke zetel van toepassing blijft.
 
 ##### Artikel 121
 
-1. In afwijking van de [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=118&z=2018-09-19&g=2018-09-19) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=119&z=2018-09-19&g=2018-09-19) van dit Boek zijn de [artikelen 138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138) en [149 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149) van toepassing dan wel van overeenkomstige toepassing op de aansprakelijkheid van bestuurders en commissarissen van een ingevolge artikel 118 of [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=120&z=2018-09-19&g=2018-09-19) van dit Boek door buitenlands recht beheerste corporatie die in Nederland aan de heffing van vennootschapsbelasting onderworpen is, indien de corporatie in Nederland failliet wordt verklaard. Als bestuurders zijn eveneens aansprakelijk degenen die met de leiding van de in Nederland verrichte werkzaamheden zijn belast.
+1. In afwijking van de [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=118&z=2019-01-29&g=2019-01-29) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=119&z=2019-01-29&g=2019-01-29) van dit Boek zijn de [artikelen 138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138) en [149 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149) van toepassing dan wel van overeenkomstige toepassing op de aansprakelijkheid van bestuurders en commissarissen van een ingevolge artikel 118 of [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=8&artikel=120&z=2019-01-29&g=2019-01-29) van dit Boek door buitenlands recht beheerste corporatie die in Nederland aan de heffing van vennootschapsbelasting onderworpen is, indien de corporatie in Nederland failliet wordt verklaard. Als bestuurders zijn eveneens aansprakelijk degenen die met de leiding van de in Nederland verrichte werkzaamheden zijn belast.
 
 2. De rechtbank die het faillissement heeft uitgesproken is bevoegd tot de kennisneming van alle vorderingen uit hoofde van lid 1.
 
@@ -917,7 +899,7 @@ Deze titel laat onverlet hetgeen bepaald is bij de [Wet op de formeel buitenland
 
 ##### Artikel 126
 
-1. Deze titel laat onverlet het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141), alsmede [titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=11&z=2018-09-19&g=2018-09-19) van dit Boek. Onverminderd hetgeen voortvloeit uit dat verdrag en die titel, is een rechtshandeling die strekt tot een door Nederlands recht beheerste overdracht aan de trustee van een trust als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=11&artikel=142&z=2018-09-19&g=2018-09-19) van dit Boek welke wordt beheerst door buitenlands recht, niet een ongeldige titel op de enkele grond dat die rechtshandeling tot doel heeft dat goed over te dragen tot zekerheid of de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen.
+1. Deze titel laat onverlet het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141), alsmede [titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=11&z=2019-01-29&g=2019-01-29) van dit Boek. Onverminderd hetgeen voortvloeit uit dat verdrag en die titel, is een rechtshandeling die strekt tot een door Nederlands recht beheerste overdracht aan de trustee van een trust als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=11&artikel=142&z=2019-01-29&g=2019-01-29) van dit Boek welke wordt beheerst door buitenlands recht, niet een ongeldige titel op de enkele grond dat die rechtshandeling tot doel heeft dat goed over te dragen tot zekerheid of de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen.
 
 2. Deze titel laat onverlet Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159) alsmede de bepalingen ter implementatie van deze richtlijn in het Burgerlijk Wetboek, [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659).
 
@@ -927,7 +909,7 @@ Deze titel laat onverlet hetgeen bepaald is bij de [Wet op de formeel buitenland
 
 1. Behoudens voor zover in de leden 2 en 3 anders is bepaald, wordt het goederenrechtelijke regime met betrekking tot een zaak beheerst door het recht van de staat op welks grondgebied de zaak zich bevindt.
 
-2. Behoudens [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=15&artikel=160&z=2018-09-19&g=2018-09-19) van dit Boek wordt het goederenrechtelijke regime met betrekking tot teboekstaande schepen beheerst door het recht van de staat waar het schip teboekstaat.
+2. Behoudens [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=15&artikel=160&z=2019-01-29&g=2019-01-29) van dit Boek wordt het goederenrechtelijke regime met betrekking tot teboekstaande schepen beheerst door het recht van de staat waar het schip teboekstaat.
 
 3. Het goederenrechtelijke regime met betrekking tot teboekstaande luchtvaartuigen en luchtvaartuigen die uitsluitend staan ingeschreven in een nationaliteitsregister als bedoeld in artikel 17 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, Stb. 1947, H 165, wordt beheerst door het recht van de staat waar het luchtvaartuig teboekstaat of in het nationaliteitsregister is ingeschreven.
 
@@ -959,7 +941,7 @@ Deze titel laat onverlet hetgeen bepaald is bij de [Wet op de formeel buitenland
 
 ##### Artikel 129
 
-Onverminderd [artikel 163, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=15&artikel=163&z=2018-09-19&g=2018-09-19), van dit Boek worden het ontstaan en de inhoud van een recht van retentie bepaald door het recht dat de daaraan ten grondslag liggende rechtsverhouding beheerst. Een recht van retentie kan slechts geldend worden gemaakt voor zover het recht van de staat op welks grondgebied de zaak zich bevindt, zulks toelaat.
+Onverminderd [artikel 163, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=15&artikel=163&z=2019-01-29&g=2019-01-29), van dit Boek worden het ontstaan en de inhoud van een recht van retentie bepaald door het recht dat de daaraan ten grondslag liggende rechtsverhouding beheerst. Een recht van retentie kan slechts geldend worden gemaakt voor zover het recht van de staat op welks grondgebied de zaak zich bevindt, zulks toelaat.
 
 ##### Artikel 130
 
@@ -1005,11 +987,11 @@ Indien een vordering belichaamd is in een stuk, bepaalt het recht van de staat o
 
 ##### Artikel 136
 
-1. Het goederenrechtelijke regime met betrekking tot een vordering aan toonder wordt beheerst door het recht van de staat op welks grondgebied het toonderstuk zich bevindt. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2018-09-19&g=2018-09-19) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
+1. Het goederenrechtelijke regime met betrekking tot een vordering aan toonder wordt beheerst door het recht van de staat op welks grondgebied het toonderstuk zich bevindt. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2019-01-29&g=2019-01-29) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
 
 2. De betrekkingen tussen de verkrijger en de schuldenaar, de voorwaarden waaronder de overdracht van de vordering dan wel de vestiging daarop van een recht aan de schuldenaar kan worden tegengeworpen, alsmede de vraag of de schuldenaar door betaling is bevrijd, worden beheerst door het recht dat op de vordering van toepassing is.
 
-3. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=130&z=2018-09-19&g=2018-09-19) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=131&z=2018-09-19&g=2018-09-19) van dit Boek zijn van overeenkomstige toepassing op vorderingen aan toonder.
+3. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=130&z=2019-01-29&g=2019-01-29) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=131&z=2019-01-29&g=2019-01-29) van dit Boek zijn van overeenkomstige toepassing op vorderingen aan toonder.
 
 ### Afdeling 4. Het goederenrechtelijke regime met betrekking tot aandelen
 
@@ -1019,7 +1001,7 @@ Indien een stuk een aandeelbewijs is volgens het recht dat van toepassing is op 
 
 ##### Artikel 138
 
-1. Het goederenrechtelijke regime met betrekking tot een aandeel op naam wordt beheerst door het recht dat van toepassing is op de vennootschap die het aandeel uitgeeft dan wel heeft uitgegeven. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2018-09-19&g=2018-09-19) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
+1. Het goederenrechtelijke regime met betrekking tot een aandeel op naam wordt beheerst door het recht dat van toepassing is op de vennootschap die het aandeel uitgeeft dan wel heeft uitgegeven. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2019-01-29&g=2019-01-29) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
 
 2. In afwijking van lid 1 kan met betrekking tot aandelen op naam in een Nederlandse naamloze vennootschap waaraan, ter bevordering van de verhandelbaarheid aan een gereglementeerde buitenlandse effectenbeurs een in de staat van vestiging van de beurs gebruikelijke vorm is gegeven, door de uitgevende vennootschap worden bepaald dat het goederenrechtelijke regime wordt beheerst door het recht van de staat van vestiging van de betrokken beurs dan wel het recht van de staat waarin met instemming van de betrokken beurs leveringen en andere goederenrechtelijke rechtshandelingen betreffende de aandelen kunnen of moeten worden verricht.
 
@@ -1029,17 +1011,17 @@ Indien een stuk een aandeelbewijs is volgens het recht dat van toepassing is op 
 
 ##### Artikel 139
 
-1. Het goederenrechtelijke regime met betrekking tot een aandeel aan toonder wordt beheerst door het recht van de staat waar het toonderstuk zich bevindt. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2018-09-19&g=2018-09-19) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
+1. Het goederenrechtelijke regime met betrekking tot een aandeel aan toonder wordt beheerst door het recht van de staat waar het toonderstuk zich bevindt. [Artikel 135 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=3&artikel=135&z=2019-01-29&g=2019-01-29) van dit Boek is van overeenkomstige toepassing op de vraag welke onderwerpen door dat recht worden beheerst.
 
 2. De betrekkingen tussen de aandeelhouder, onderscheidenlijk de gerechtigde, en de vennootschap, alsmede de voorwaarden waaronder de overdracht dan wel de vestiging van een recht aan de vennootschap kan worden tegengeworpen, worden beheerst door het recht dat van toepassing is op de vennootschap.
 
-3. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=130&z=2018-09-19&g=2018-09-19) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=131&z=2018-09-19&g=2018-09-19) van dit Boek zijn van overeenkomstige toepassing op aandelen aan toonder.
+3. De [artikelen 130](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=130&z=2019-01-29&g=2019-01-29) en [131](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=2&artikel=131&z=2019-01-29&g=2019-01-29) van dit Boek zijn van overeenkomstige toepassing op aandelen aan toonder.
 
 ### Afdeling 5. Het goederenrechtelijke regime met betrekking tot giraal overdraagbare effecten
 
 ##### Artikel 140
 
-Indien een aandeel behoort tot een verzameling van effecten die giraal overdraagbaar zijn, is op het goederenrechtelijke regime met betrekking tot dat aandeel [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=4&z=2018-09-19&g=2018-09-19) niet van toepassing voor zover de bepalingen daarvan afwijken van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=5&artikel=141&z=2018-09-19&g=2018-09-19) van dit Boek.
+Indien een aandeel behoort tot een verzameling van effecten die giraal overdraagbaar zijn, is op het goederenrechtelijke regime met betrekking tot dat aandeel [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=4&z=2019-01-29&g=2019-01-29) niet van toepassing voor zover de bepalingen daarvan afwijken van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=10&afdeling=5&artikel=141&z=2019-01-29&g=2019-01-29) van dit Boek.
 
 ##### Artikel 141
 
@@ -1119,7 +1101,7 @@ De herroeping door de erflater van alle eerder door hem gemaakte uiterste wilsbe
 
 ##### Artikel 152
 
-1. De [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=147&z=2018-09-19&g=2018-09-19) en [148](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=148&z=2018-09-19&g=2018-09-19) zijn van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 heeft plaatsgevonden. Op de erfopvolging van personen wier overlijden op of na 17 augustus 2015 heeft plaatsgevonden is artikel 147 alleen van toepassing als het vermogensbestanddeel waarop de verrekening betrekking heeft, ligt in een staat die niet gebonden is door de verordening erfrecht.
+1. De [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=147&z=2019-01-29&g=2019-01-29) en [148](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=148&z=2019-01-29&g=2019-01-29) zijn van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 heeft plaatsgevonden. Op de erfopvolging van personen wier overlijden op of na 17 augustus 2015 heeft plaatsgevonden is artikel 147 alleen van toepassing als het vermogensbestanddeel waarop de verrekening betrekking heeft, ligt in een staat die niet gebonden is door de verordening erfrecht.
 
 2. Indien de erflater voor 1 oktober 1996 het op zijn erfopvolging toepasselijke recht heeft aangewezen, wordt die aanwijzing als geldig beschouwd indien zij voldoet aan de vereisten van artikel 5 van het Haags Erfrechtverdrag 1989.
 
@@ -1127,7 +1109,7 @@ De herroeping door de erflater van alle eerder door hem gemaakte uiterste wilsbe
 
 4. Onverminderd de voorgaande leden kan een aanwijzing door de erflater van het op de vererving van zijn nalatenschap toepasselijke recht of de wijziging van een zodanige aanwijzing, welke is geschied voor 1 oktober 1996, niet als ongeldig worden beschouwd op de enkele grond dat de wet een zodanige aanwijzing toen niet regelde.
 
-5. De [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=149&z=2018-09-19&g=2018-09-19) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=150&z=2018-09-19&g=2018-09-19) zijn uitsluitend van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 en vóór 17 augustus 2015 heeft plaatsgevonden.
+5. De [artikelen 149](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=149&z=2019-01-29&g=2019-01-29) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=12&artikel=150&z=2019-01-29&g=2019-01-29) zijn uitsluitend van toepassing op de erfopvolging van personen wier overlijden na 1 oktober 1996 en vóór 17 augustus 2015 heeft plaatsgevonden.
 
 ## Titel 13. Verbintenissen uit overeenkomst
 
@@ -1211,7 +1193,7 @@ Voor zover de aansprakelijkheid ter zake van een aanvaring in volle zee niet wor
 
 ##### Artikel 166
 
-In afwijking van [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=13&artikel=154&z=2018-09-19&g=2018-09-19) is een overeenkomst tot arbitrage materieel geldig als zij geldig is naar het recht dat partijen hebben gekozen of naar het recht van de plaats van arbitrage of, indien partijen geen rechtskeuze hebben gedaan, naar het recht dat van toepassing is op de rechtsbetrekking waarop de arbitrageovereenkomst betrekking heeft.
+In afwijking van [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&boek=10&titeldeel=13&artikel=154&z=2019-01-29&g=2019-01-29) is een overeenkomst tot arbitrage materieel geldig als zij geldig is naar het recht dat partijen hebben gekozen of naar het recht van de plaats van arbitrage of, indien partijen geen rechtskeuze hebben gedaan, naar het recht dat van toepassing is op de rechtsbetrekking waarop de arbitrageovereenkomst betrekking heeft.
 
 ##### Artikel 167
 
@@ -1219,9 +1201,9 @@ Indien een Staat, andere publiekrechtelijke rechtspersoon of staatsonderneming p
 
 ##### Artikel 34a
 
-Dit onderdeel is nog niet inwerking getreden
+In deze afdeling wordt onder «de Verordening (EU) nr. 2016/1103» verstaan: de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels (PbEU 2016, L 183).
 
-### Afdeling 3. Het huwelijksvermogensregime
+### Afdeling 3. Enkele bepalingen inzake het huwelijksvermogensregime
 
 ### Afdeling 4. Ontbinding van het huwelijk en scheiding van tafel en bed
 
@@ -1235,9 +1217,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 63a
 
-Dit onderdeel is nog niet inwerking getreden
+In deze afdeling wordt onder «de Verordening (EU) nr. 2016/1104» verstaan de Verordening (EU) nr. 2016/1104 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van de vermogensrechtelijke gevolgen van geregistreerde partnerschappen.
 
-### Afdeling 4. Het partnerschapsvermogensregime
+### Afdeling 4. Enkele bepalingen inzake het partnerschapsvermogensregime
 
 ### Afdeling 5. Beëindiging in Nederland van een geregistreerd partnerschap
 
