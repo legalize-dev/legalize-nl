@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2019-01-01"
+last_updated: "2019-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2018-08-01&g=2019-01-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-01-30&g=2019-01-30) bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -224,7 +224,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 - 47. Fiscale werkzaamheden in de praktijk (K0430)
 
-- 48. Bouwmarkt basis (K0972)
+- 48. Bouwmarkt basis (K0792)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
@@ -266,13 +266,13 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 - 1. Industriële robotica (K0989)
 
-- 2. Installatie, service en onderhoud aan melkwinningsinstallaties (K0992)
+- 2. Installatie, service en onderhoud aan melkwinningsinstallaties (K0991)
 
 - 3. Verdieping palliatieve zorg (K1006)
 
 - 4. Gerontopsychiatrie (K0988)
 
-- 5. Scheepsbetimmeringen exterieur (K0791)
+- 5. Scheepsbetimmeringen exterieur (K0971)
 
 - 6. Teakdek en aansluitingen (K0972)
 
