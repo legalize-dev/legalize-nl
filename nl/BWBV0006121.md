@@ -4,7 +4,7 @@ identifier: "BWBV0006121"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-02-01"
-last_updated: "2013-01-25"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006121"
 soort: "verdrag"
@@ -48,19 +48,19 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Bevoegde autoriteiten
 
-1. De voor de uitvoering van de Overeenkomst bevoegde autoriteiten staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2013-01-25&g=2013-01-25) bij dit Protocol vermeld.
+1. De voor de uitvoering van de Overeenkomst bevoegde autoriteiten staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2019-02-01&g=2019-02-01) bij dit Protocol vermeld.
 
 2. De bevoegde autoriteiten communiceren per e-mail, per fax of via andere technische middelen.
 
-3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2013-01-25&g=2013-01-25) bij dit Protocol vermelde bevoegde autoriteiten.
+3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde bevoegde autoriteiten.
 
 ##### Artikel 2. Grensovergangen
 
-1. De voor de toepassing van de Overeenkomst te gebruiken grensovergangen staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2013-01-25&g=2013-01-25) bij dit Protocol vermeld.
+1. De voor de toepassing van de Overeenkomst te gebruiken grensovergangen staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2019-02-01&g=2019-02-01) bij dit Protocol vermeld.
 
 2. De bevoegde autoriteiten kunnen van geval tot geval overeenkomen gebruik te maken van andere grensovergangen voor de overname.
 
-3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2013-01-25&g=2013-01-25) bij dit Protocol vermelde grensovergangen.
+3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde grensovergangen.
 
 ##### Artikel 3. Procedure voor de overname van onderdanen van de Partijen
 
@@ -74,13 +74,13 @@ Zijn het volgende overeengekomen:
 
 5. In alle andere gevallen is een overnameverzoek vereist. Afschriften van de in Bijlage 1 en 2 bij de Overeenkomst vermelde documenten dienen bij het verzoek te worden gevoegd, ook al is de geldigheid ervan verstreken.
 
-6. Het antwoord op het overnameverzoek bevat de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=3&z=2013-01-25&g=2013-01-25) van dit Protocol vermelde gegevens.
+6. Het antwoord op het overnameverzoek bevat de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=3&z=2019-02-01&g=2019-02-01) van dit Protocol vermelde gegevens.
 
 7. Het antwoord op het overnameverzoek wordt ter kennis gebracht van de bevoegde autoriteiten van de verzoekende Partij. Een positief antwoord wordt tegelijkertijd ter kennis gebracht van de diplomatieke consulaire vertegenwoordiging van de aangezochte Partij, waarna het reisdocument wordt afgegeven. Een verzoek hoeft niet door de over te nemen persoon te worden ondertekend. In geval van een negatief antwoord doen de bevoegde autoriteiten van de aangezochte Partij tevens opgave van de redenen waarom het overnameverzoek is afgewezen.
 
 8. Indien de geldigheid van een voor de overname van een persoon afgegeven reisdocument om de in artikel 10, lid 5, van de Overeenkomst genoemde redenen is verstreken, wordt een nieuw reisdocument afgegeven, overeenkomstig artikel 2, lid 4, en artikel 4, lid 4, van de Overeenkomst.
 
-9. Indien de geldigheid van het nieuwe document als bedoeld in [artikel 3, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&artikel=3&z=2013-01-25&g=2013-01-25), van dit Protocol verstrijkt, kan de verzoekende Partij het overnameverzoek via elektronische middelen opnieuw indienen, waarbij enkel naam en geboortedatum worden medegedeeld. De aangezochte Partij antwoordt binnen één werkdag. In geval van een positief antwoord wordt onverwijld een nieuw reisdocument afgegeven.
+9. Indien de geldigheid van het nieuwe document als bedoeld in [artikel 3, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&artikel=3&z=2019-02-01&g=2019-02-01), van dit Protocol verstrijkt, kan de verzoekende Partij het overnameverzoek via elektronische middelen opnieuw indienen, waarbij enkel naam en geboortedatum worden medegedeeld. De aangezochte Partij antwoordt binnen één werkdag. In geval van een positief antwoord wordt onverwijld een nieuw reisdocument afgegeven.
 
 10. Na ontvangst van het positieve antwoord op het overnameverzoek stellen de bevoegde autoriteiten van de verzoekende Partij de bevoegde autoriteiten van de aangezochte Partij, in kennis van de overdracht overeenkomstig Bijlage 4 bij dit Protocol en zoals bepaald in artikel 11, lid 1, van de Overeenkomst.
 
@@ -106,9 +106,9 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 4. De gegevens en documenten, aan de hand waarvan de verplichtingen tot overname van onderdanen van derde landen en staatloze personen op het grondgebied van de aangezochte Partij overeenkomstig artikel 3, lid 1 en 3, artikel 5, lid 1 en 3, en artikel 9, lid 2 en 5, van de Overeenkomst aannemelijk kunnen worden gemaakt, staan in Bijlage 4 en 5 bij de Overeenkomst vermeld.
 
-5. Het antwoord op het overnameverzoek bevat de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=3&z=2013-01-25&g=2013-01-25) bij dit Protocol vermelde gegevens.
+5. Het antwoord op het overnameverzoek bevat de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=3&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde gegevens.
 
-6. Na ontvangst van het positieve antwoord op het overnameverzoek geven de bevoegde autoriteiten van de verzoekende Partij een reisdocument overeenkomstig artikel 3, lid 4, en artikel 5, lid 4, van de Overeenkomt af en stellen zij de bevoegde autoriteiten van de aangezochte Partij in kennis van de mededeling inzake de overdracht, overeenkomstig [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=4&z=2013-01-25&g=2013-01-25) bij dit Protocol en zoals bepaald in artikel 11, lid 1, van de Overeenkomst.
+6. Na ontvangst van het positieve antwoord op het overnameverzoek geven de bevoegde autoriteiten van de verzoekende Partij een reisdocument overeenkomstig artikel 3, lid 4, en artikel 5, lid 4, van de Overeenkomt af en stellen zij de bevoegde autoriteiten van de aangezochte Partij in kennis van de mededeling inzake de overdracht, overeenkomstig [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=4&z=2019-02-01&g=2019-02-01) bij dit Protocol en zoals bepaald in artikel 11, lid 1, van de Overeenkomst.
 
 ##### Artikel 7. Procedure voor doorgeleiding van onderdanen van derde landen en staatloze personen
 
@@ -116,9 +116,9 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 2. Het verzoek wordt bij voorkeur binnen zeven kalenderdagen voorafgaand aan de doorgeleiding, verzonden. De aangezochte Partij antwoordt onverwijld en uiterlijk binnen vijf kalenderdagen.
 
-3. Het antwoord op het doorgeleidingsverzoek bevat de in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=5&z=2013-01-25&g=2013-01-25) bij dit Protocol vermelde gegevens.
+3. Het antwoord op het doorgeleidingsverzoek bevat de in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=5&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde gegevens.
 
-4. De doorgeleiding van onderdanen van derde landen of staatloze personen vindt via de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2013-01-25&g=2013-01-25) bij dit Protocol vermelde grensovergangen plaats.
+4. De doorgeleiding van onderdanen van derde landen of staatloze personen vindt via de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde grensovergangen plaats.
 
 5. In geval van een verandering van datum of van andere praktische aspecten van de doorgeleiding die voorafgaand is meegedeeld aan en is toegestaan door de aangezochte Partij, dienen de bevoegde autoriteiten van de verzoekende Partij de aangezochte Partij daarvan naar behoren in kennis te stellen. Is zulks aanvaardbaar, dan zal de aangezochte Partij de doorgeleiding dienovereenkomstig toestaan.
 
@@ -164,7 +164,7 @@ De Bijlagen 1 tot en met 5 vormen een integrerend onderdeeldeel van het Uitvoeri
 
 1. Dit Protocol en zijn bijlagen kunnen in onderlinge overeenstemming tussen de Partijen worden gewijzigd.
 
-2. Wijzigingen van het Protocol treden in werking in overeenstemming met de procedure vervat in [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&artikel=17&z=2013-01-25&g=2013-01-25).
+2. Wijzigingen van het Protocol treden in werking in overeenstemming met de procedure vervat in [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&artikel=17&z=2019-02-01&g=2019-02-01).
 
 3. Wijzigingen van de Bijlagen treden in werking op een door de partijen te bepalen datum.
 
