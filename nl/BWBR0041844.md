@@ -81,15 +81,3 @@ Deze regeling treedt in werking met ingang van 1 februari 2019.
 ### Wijziging Gastouderopvang
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=1&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
-
-## Bijlage 5. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2021-07-01&g=2021-07-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-## Bijlage 4. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041844&artikel=2&z=2022-01-01&g=2022-01-01) van de Regeling van de Staatssecretaris van Sociale Zaken van 21 januari 2019 tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019 (Stcrt. 2019, 3951)
-
-Wijziging kinderdagverblijf of buitenschoolse opvang
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
