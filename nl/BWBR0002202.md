@@ -4,7 +4,7 @@ identifier: "BWBR0002202"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2018-08-01"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002202"
 soort: "wet"
@@ -49,11 +49,13 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 - a. "Onze Minister": Onze Minister, belast met de zaken betreffende de volksgezondheid;
 
-- b. "inspecteur-generaal": de inspecteur-generaal, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2018-08-01&g=2018-08-01);
+- b. "inspecteur-generaal": de inspecteur-generaal, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2019-02-01&g=2019-02-01);
 
 - c. "Provinciale Raad": de Provinciale Raad voor de Volksgezondheid;
 
-- d. "provinciale kruisverenigingen": de provinciale verenigingen met volledige rechtsbevoegdheid, die uitsluitend het behartigen of doen behartigen van wijkverpleging en andere sociaal-hygiënische zorg beogen en bij een nationale vereniging met gelijke doelstelling zijn aangesloten.
+- d. "provinciale kruisverenigingen": de provinciale verenigingen met volledige rechtsbevoegdheid, die uitsluitend het behartigen of doen behartigen van wijkverpleging en andere sociaal-hygiënische zorg beogen en bij een nationale vereniging met gelijke doelstelling zijn aangesloten;
+
+- e. "persoonsgegevens": persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming.
 
 ### Hoofdstuk II. De Nationale Raad voor de Volksgezondheid
 
@@ -185,7 +187,7 @@ In afwijking van [artikel 19, tweede lid, van de Kaderwet adviescolleges](https:
 
 ##### Artikel 26
 
-In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) en [20, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2018-08-01&g=2018-08-01) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2018-08-01&g=2018-08-01) uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) van overeenkomstige toepassing.
+In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) en [20, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2019-02-01&g=2019-02-01) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2019-02-01&g=2019-02-01) uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) van overeenkomstige toepassing.
 
 ##### Artikel 26a
 
@@ -251,9 +253,9 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een inspecteur-gene
 
 ##### Artikel 38
 
-1. De [artikelen 36, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2018-08-01&g=2018-08-01), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2018-08-01&g=2018-08-01) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+1. De [artikelen 36, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2019-02-01&g=2019-02-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2019-02-01&g=2019-02-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01) en [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2019-02-01&g=2019-02-01) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. Bij algemene maatregel van bestuur kan bij de aanwijzing van regelgeving als bedoeld in artikel 44, eerste lid, worden bepaald dat informatie betreffende het toezicht en de uitvoering van die regelgeving niet op basis van dat lid openbaar zal worden gemaakt, indien de informatie betrekking heeft op het toezicht en de uitvoering in die openbare lichamen.
 
-2. Het Staatstoezicht op de Volksgezondheid is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd tot de uitoefening van de in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2018-08-01&g=2018-08-01), genoemde taken, voor zover het gaat om de voorschriften bij of krachtens de:
+2. Het Staatstoezicht op de Volksgezondheid is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd tot de uitoefening van de in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2019-02-01&g=2019-02-01), genoemde taken, voor zover het gaat om de voorschriften bij of krachtens de:
 
 - a. Wet toezicht op krankzinnigen BES;
 
@@ -275,7 +277,7 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een inspecteur-gene
 
 ##### Artikel 39
 
-1. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2018-08-01&g=2018-08-01), bedoelde taak:
+1. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2019-02-01&g=2019-02-01), bedoelde taak:
 
 - a. zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
 
@@ -303,7 +305,61 @@ Vervallen
 
 ##### Artikel 44
 
-Vervallen
+1. Het Staatstoezicht op de volksgezondheid maakt, na een daartoe strekkend besluit van een bij algemene maatregel van bestuur aan te wijzen bestuursorgaan, de bij die maatregel aan te wijzen onder hem berustende informatie openbaar inzake het toezicht op of de uitvoering van bij algemene maatregel van bestuur aan te wijzen regelgeving, teneinde de naleving van die regelgeving te bevorderen, het publiek inzicht te geven in de wijze waarop dat toezicht en die uitvoering worden verricht en wat de resultaten van die verrichtingen zijn. Bij algemene maatregel van bestuur kunnen anderen die met het toezicht op de naleving of met de uitvoering van de op grond van de eerste volzin aangewezen regelgeving zijn belast, dan wel de organisatie waarvoor zij werkzaam zijn, in plaats van het Staatstoezicht worden belast met openbaarmaking als bedoeld in de eerste volzin.
+
+2. Bij algemene maatregel van bestuur kunnen anderen dan het Staatstoezicht op de volksgezondheid, die belast zijn met het toezicht op de naleving of met de uitvoering van de op grond van het eerste lid aangewezen regelgeving worden verplicht onder hen berustende informatie ter openbaarmaking te verstrekken aan degene die met de openbaarmaking daarvan is belast, bij welke verstrekking de informatie wordt ontdaan van de gegevens, bedoeld in het vijfde lid.
+
+3. Op grond van het eerste of tweede lid kan voor openbaarmaking worden aangewezen, informatie betreffende:
+
+- a. uitkomsten van controle en onderzoek en de daaraan ten grondslag liggende gegevens;
+
+- b. de indeling van ondertoezichtgestelden in nalevingcategorieën;
+
+- c. informatie, die door ondertoezichtgestelden is verstrekt aan het Staatstoezicht op de volksgezondheid dan wel aan degene die op grond van het eerste lid, tweede volzin, is aangewezen;
+
+- d. kennisgevingen van het Staatstoezicht op de volksgezondheid of van een ander met toezicht op de naleving belast, die op grond van het eerste lid, tweede volzin of tweede lid, is aangewezen, waarin de betrokkene wordt medegedeeld dat tot intensivering van het toezicht is overgegaan, dat die intensivering wordt beëindigd, dan wel dat de betrokkene met onmiddellijke ingang of op zeer korte termijn verbeteringen in zijn organisatie of werkwijze moet aanbrengen;
+
+- e. adviezen aan bestuursorganen over het toezicht of de uitvoering van de op grond van het eerste lid aangewezen regelgeving;
+
+- f. informatie van derden, anders dan informatie aangewezen op grond van het tweede lid, voor zover die informatie ten grondslag ligt aan het toezichts- en uitvoeringsbeleid betreffende de aangewezen regelgeving;
+
+- g. waarschuwingen;
+
+- h. besluiten, inhoudende:
+
+- 1°. bevel of de verlenging van een bevel als bedoeld in [artikel 27, vierde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27);
+
+- 2°. een aanwijzing als bedoeld in [artikel 27, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27);
+
+- 3°. een bevel als bedoeld in [artikel 115 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=115);
+
+- 4°. een bevel als bedoeld in [artikel 12a van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a);
+
+- 5°. de buitengebruikstelling van technische voortbrengselen als bedoeld in [artikel 30 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=30);
+
+- i. besluiten tot het opleggen van een bestuurlijke sanctie als bedoeld in [artikel 5:2 in de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2);
+
+- j. besluiten tot verlening van een vergunning, een erkenning, een goedkeuring, een ontheffing of andere besluiten tot begunstiging;
+
+- k. de uitvoering, wijziging, beëindiging, schorsing en intrekking van besluiten als bedoeld in dit lid.
+
+4. Indien de informatie betrekking heeft op een besluit als bedoeld in het derde lid, onder h of i, wordt bij de openbaarmaking aangegeven of een rechtsmiddel tegen dat besluit is of kan worden ingesteld.
+
+5. Het Staatstoezicht op de volksgezondheid dan wel degene die op grond van het eerste lid, tweede volzin, is aangewezen, draagt er zorg voor dat de informatie die op grond van het eerste lid openbaar wordt gemaakt, door hem bij de openbaarmaking is ontdaan van:
+
+- a. informatie die bedrijfs- of fabricagegegevens bevat, die door natuurlijke personen of rechtspersonen aan hem vertrouwelijk is meegedeeld;
+
+- b. persoonsgegevens, voor zover de openbaarmaking daarvan op grond van het zesde lid niet is toegestaan; en
+
+- c. informatie, waarvoor de verstrekker van die informatie uit hoofde van zijn beroep tot geheimhouding is verplicht, doch waarvan de met het toezicht belaste ambtenaren van het Staatstoezicht op de volksgezondheid voor de vervulling van hun taak kennis hebben genomen.
+
+6. De openbaar te maken informatie mag slechts persoonsgegevens bevatten, voor zover die persoonsgegevens:
+
+- a. gerelateerd zijn aan het beroeps- of bedrijfsmatig functioneren of handelen van de personen die onderwerp zijn van het toezicht of op wie de uitvoering betrekking heeft;
+
+- b. gerelateerd zijn aan de taakvervulling van de personen die met het toezicht op de naleving of met de uitvoering van de aangewezen regelgeving zijn belast; of
+
+- c. door de persoon ten aanzien van wie de openbaarmaking plaatsvindt, duidelijk openbaar zijn gemaakt.
 
 ### Hoofdstuk V. De Provinciale Raden voor de Volksgezondheid
 
@@ -365,11 +421,11 @@ De inspecteur-generaal wordt uitgenodigd de vergaderingen van de Raad zomede van
 
 1. De Provinciale Raad doet zich bijstaan door commissies van advies en bijstand, welke deskundig zijn op een bijzonder gebied van de volksgezondheid.
 
-2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=2018-08-01&g=2018-08-01) van overeenkomstige toepassing.
+2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=2019-02-01&g=2019-02-01) van overeenkomstige toepassing.
 
 3. De Raad regelt de samenstelling, bevoegdheid en werkwijze van deze commissies en benoemt de leden.
 
-#### § 4. Van het bureau
+#### § 1. Van de zetel en de taak
 
 ##### Artikel 51
 
@@ -389,7 +445,7 @@ De inspecteur-generaal wordt uitgenodigd de vergaderingen van de Raad zomede van
 
 De Provinciale Raad stelt voor de directeur een instructie vast.
 
-#### § 5. Van de werkwijze
+#### § 2. Van de samenstelling
 
 ##### Artikel 54
 
@@ -469,7 +525,7 @@ Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezond
 
 ##### Artikel 69a
 
-1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2018-08-01&g=2018-08-01).
+1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2019-02-01&g=2019-02-01).
 
 2. Ten aanzien van de in [artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=145) genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994).
 
@@ -494,6 +550,82 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 #### § 1. Van de zetel en de taak
 
 #### § 3. Van de commissies
+
+#### § 4. Van het bureau
+
+#### § 3. Van de commissies
+
+### Hoofdstuk VI. Geschillen
+
+### Hoofdstuk VII. Overgangs- en slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IV a. Openbaarmaking van informatie inzake het toezicht en de uitvoering van regelgeving
+
+##### Artikel 44a
+
+1. De openbaarmaking, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), vindt niet plaats binnen twee weken na het tijdstip waarop het in artikel 44, eerste lid, bedoelde besluit bekend is gemaakt. Bij dat besluit wordt de betrokkene van de openbaar te maken informatie op de hoogte gesteld, voor zover hij van die informatie nog geen kennis heeft kunnen nemen en wordt de betrokkene in de gelegenheid gesteld zijn reactie op het besluit kenbaar te maken.
+
+2. Indien de betrokkene zijn reactie kenbaar heeft gemaakt, wordt deze door het met openbaarmaking belaste bestuursorgaan eveneens openbaar gemaakt.
+
+3. Op de besluiten tot openbaarmaking, bedoeld in het eerste lid, is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
+
+4. Het derde lid blijft buiten toepassing indien het besluit tot openbaarmaking is gericht op de openbaarmaking van informatie over een besluit waarbij een belanghebbende op grond van [artikel 4:8 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) tot het naar voren brengen van een zienswijze in de gelegenheid dient te worden gesteld.
+
+5. Indien een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) wordt gedaan tegen een besluit als bedoeld in het eerste lid, wordt de werking van het besluit opgeschort totdat de voorzieningenrechter op dat verzoek uitspraak heeft gedaan.
+
+6. De termijn van twee weken, bedoeld in het eerste lid, is niet van toepassing bij de openbaarmaking van informatie over:
+
+- a. bevelen als bedoeld in:
+
+- 1°. [artikel 27, vierde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27), indien dat bevel inhoudt dat aan de betrokkene een beperkende maatregel is opgelegd, alsmede informatie over de verlenging van een dergelijk bevel;
+
+- 2°. [artikel 115 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=115);
+
+- 3°. [artikel 12a van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a);
+
+- b. aanwijzingen als bedoeld in [artikel 27, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27), indien die aanwijzing inhoudt dat aan de betrokkene een beperkende maatregel is opgelegd;
+
+- c. lasten op grond van:
+
+- 1°. [artikel 29 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=29), voor zover die dienen tot handhaving van een bevel, een verlengd bevel, beide als bedoeld onder a, onderdeel 1°, of een aanwijzing als bedoeld onder b;
+
+- 2°. [artikel 114 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=114) tot handhaving van een bevel als bedoeld onder a, onderdeel 2°;
+
+- 3°. [artikel 12 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12) tot handhaving van een bevel als bedoeld onder a, onderdeel 3°;
+
+- 4°. [artikel 8.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.5), voor zover de last dient ter handhaving van een volksgezondheid belang;
+
+- 5°. [artikel 32 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32);
+
+- d. besluiten als bedoeld in [artikel 30 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=30);
+
+- e. kennisgevingen van het Staatstoezicht op de volksgezondheid of van degene met toezicht belast, die is aangewezen op grond van [artikel 44, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), waarin de betrokkene wordt medegedeeld dat tot intensivering van het toezicht is overgegaan dan wel dat de betrokkene met onmiddellijke ingang of op zeer korte termijn verbeteringen in zijn organisatie of werkwijze moet aanbrengen.
+
+7. Indien openbaarmaking plaatsvindt via het internet worden bij algemene maatregel van bestuur regels gesteld over de periode gedurende welke het Staatstoezicht, dan wel degene die op grond van [artikel 44, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), is aangewezen, de informatie beschikbaar stelt.
+
+8. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor een goede uitvoering van het eerste en tweede lid en [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01).
+
+9. Indien de openbaarmaking, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), in strijd is of zou kunnen komen met het doel van de wet in het kader waarvan de openbaarmaking plaatsvindt, blijft openbaarmaking achterwege.
+
+##### Artikel 44b
+
+De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01) en [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2019-02-01&g=2019-02-01) wordt gedaan door Onze Minister. De voordracht wordt gedaan mede namens Onze Minister van Economische Zaken, indien de maatregel betrekking heeft op het toezicht en de uitvoering van regelgeving waarvoor die Minister tevens verantwoordelijk is. Indien de maatregel betrekking heeft op het toezicht en uitvoering van regelgeving waarvoor uitsluitend Onze Minister van Economische Zaken verantwoordelijk is, wordt de voordracht gedaan door die Minister.
+
+##### Artikel 44c
+
+Ten aanzien van geschillen over besluiten als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), die strekken tot openbaarmaking van een besluit, is bevoegd de rechter die bevoegd is te oordelen ten aanzien van geschillen over het te openbaren besluit.
+
+##### Artikel 44d
+
+Bij of krachtens algemene maatregel van bestuur wordt bepaald dat het Staatstoezicht op de volksgezondheid en anderen die zijn belast met het toezicht op de naleving van de regelgeving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01), beleidsregels vaststellen over herinspecties na een negatieve uitkomst van controle en onderzoek bij een betrokkene. Bij of krachtens algemene maatregel van bestuur kan worden bepaald wat wordt verstaan onder een negatieve uitkomst. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de beleidsregels aan bij of krachtens de algemene maatregel van bestuur te bepalen voorwaarden moeten voldoen.
+
+##### Artikel 44e
+
+De voordracht voor een algemene maatregel van bestuur waarbij voor de eerste maal toepassing wordt gegeven aan [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2019-02-01&g=2019-02-01) of [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2019-02-01&g=2019-02-01), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+### Hoofdstuk V. De Provinciale Raden voor de Volksgezondheid
 
 #### § 4. Van het bureau
 
