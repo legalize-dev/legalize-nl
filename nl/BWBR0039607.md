@@ -4,7 +4,7 @@ identifier: "BWBR0039607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-01"
-last_updated: "2017-06-03"
+last_updated: "2019-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039607"
 soort: "ministeriele-regeling"
@@ -92,9 +92,11 @@ De directeur van de Stichting Nuffic is bevoegd om namens de minister besluiten 
 
 - 3. studentenstages: onderwijskundige stages met een onderzoekscomponent in het buitenland van studenten, niet zijnde extranei, die een lerarenopleiding volgen aan een instelling voor hoger onderwijs.
 
-##### Artikel 4. Subsidieplafonds
+##### Artikel 4. Subsidieplafond
 
-Het subsidieplafond bedraagt voor het schooljaar 2017–2018 € 1.710.000 en voor de schooljaren 2018–2019 en 2019–2020 telkens € 832.000.
+1. Het subsidieplafond bedraagt voor het schooljaar 2017–2018 € 1.710.000, voor het schooljaar 2018–2019 € 1.012.000 en voor het schooljaar 2019–2020 € 832.000.
+
+2. Indien het bedrag dat voor subsidieverstrekking voor enig schooljaar beschikbaar is, niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het bedrag dat voor subsidieverstrekking voor het daarop volgende schooljaar beschikbaar is.
 
 ##### Artikel 5. Subsidieaanvraag en verdeelcriterium
 
