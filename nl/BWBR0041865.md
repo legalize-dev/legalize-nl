@@ -4,7 +4,7 @@ identifier: "BWBR0041865"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-02-02"
-last_updated: "2018-06-04"
+last_updated: "2019-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041865"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Op een rijbewijs dat een functionaliteit voor een publiek identificatiemiddel bevat wordt op de achterzijde een aanduiding van dat publieke identificatiemiddel geplaatst volgens het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041865&bijlage=I&z=2019-02-02&g=2018-06-04) van dit besluit opgenomen model.
+Op een rijbewijs dat een functionaliteit voor een publiek identificatiemiddel bevat wordt op de achterzijde een aanduiding van dat publieke identificatiemiddel geplaatst volgens het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041865&bijlage=I&z=2019-02-02&g=2019-02-02) van dit besluit opgenomen model.
 
 ##### Artikel 2
 
