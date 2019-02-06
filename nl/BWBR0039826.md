@@ -4,7 +4,7 @@ identifier: "BWBR0039826"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2017-07-22"
+last_updated: "2019-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039826"
 soort: "zbo"
@@ -74,11 +74,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - j. **Vertegenwoordiger:** een persoon die bevoegd is om namens de depositohouder de handeling te verrichten bedoeld in [artikel 29.07, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07);
 
-- k. **Individueel klantbeeld:** een overzicht van alle deposito’s van een depositohouder bij een bank waarin alle gegevens conform het datamodel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22) zijn opgenomen;
+- k. **Individueel klantbeeld:** een overzicht van alle deposito’s van een depositohouder bij een bank waarin alle gegevens conform het datamodel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06) zijn opgenomen;
 
 - l. **IKB:** individueel klantbeeld;
 
-- m. **IKB-bestand:** een gegevensverzameling die voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22) beschreven opbouw, teneinde een overzicht te bieden van alle individuele klantbeelden van een bank;
+- m. **IKB-bestand:** een gegevensverzameling die voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06) beschreven opbouw, teneinde een overzicht te bieden van alle individuele klantbeelden van een bank;
 
 - n. **IKB-systeem:** het geheel van procedures en maatregelen waarmee een bank het IKB-bestand kan samenstellen, in aanmerking komende en gegarandeerde bedragen kan berekenen en eventuele handelingen kan verrichten ten behoeve van de afwikkelingstaak, op een door DNB bepaalde wijze en binnen een door DNB gestelde termijn;
 
@@ -98,15 +98,15 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. Een unieke identificerende sleutel voor elke depositohouder;
 
-- b. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- b. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
-- c. Markeringen als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- c. Markeringen als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
-- d. Klantcategorie als bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2017-07-22&g=2017-07-22);
+- d. Klantcategorie als bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2019-02-06&g=2019-02-06);
 
 - e. Bij natuurlijke personen:
 
-- 1. De voorletters, geboortenaam, geboortedatum;
+- 1. Voorletters, of voornamen zoals geregistreerd in het identiteitsbewijs, de geboortenaam en de geboortedatum;
 
 - 2. De adresgegevens inclusief het land;
 
@@ -146,7 +146,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. Een unieke identificerende sleutel voor elk deposito;
 
-- b. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- b. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
 - c. Het rekeningnummer zoals dat bij de depositohouder bekend is;
 
@@ -154,13 +154,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. Een productnaam of -omschrijving van het deposito zoals bij de depositohouder bekend;
 
-- f. Een categorisering van het soort deposito als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22);
+- f. Een categorisering van het soort deposito als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06);
 
-- g. Markeringen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22);
+- g. Markeringen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06);
 
-- h. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- h. Markeringen als bedoeld in [artikel 6, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
-- i. Markeringen als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- i. Markeringen als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
 - j. De valuta waarin het deposito wordt aangehouden;
 
@@ -170,15 +170,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - m. Het land waarin het deposito wordt aangehouden;
 
-- n. Het aantal depositohouders van het deposito en bij meer dan één depositohouder per depositohouder het percentage van de aanspraak wanneer deze niet evenredig is.
+- n. Het aantal depositohouders van het deposito en bij meer dan één depositohouder per depositohouder het percentage van de aanspraak wanneer deze niet evenredig is;
+
+- o. Indien dat het geval is, het feit dat het deposito vanuit een andere lidstaat wordt aangehouden zonder dat in die lidstaat bijkantoren gevestigd zijn, alsmede de betreffende lidstaat en de taal die door de depositohouder bij de opening van de rekening is gekozen.
 
 ##### Artikel 3
 
-Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), neemt een bank het volgende in acht:
+Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), neemt een bank het volgende in acht:
 
 - 1. Een bank waarborgt dat de gerapporteerde saldi van alle deposito’s geen uitgaande betalingen bevatten die op het moment van het genereren van het individueel klantbeeld reeds zijn gedebiteerd van een depositotegoed, ongeacht de daadwerkelijke verwerking van de betaling door de bank zelf.
 
-- 2. Een bank waarborgt dat binnen de termijn als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2017-07-22&g=2017-07-22), de gerapporteerde saldi van alle deposito’s zo veel mogelijk de inkomende betalingen bevatten die voortvloeien uit [artikel 212b van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212b) en samenhangen met de deelname van een bank aan een systeem als bedoeld in [artikel 212a, onderdeel b van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212a).
+- 2. Een bank waarborgt dat binnen de termijn als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2019-02-06&g=2019-02-06), de gerapporteerde saldi van alle deposito’s zo veel mogelijk de inkomende betalingen bevatten die voortvloeien uit [artikel 212b van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212b) en samenhangen met de deelname van een bank aan een systeem als bedoeld in [artikel 212a, onderdeel b van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212a).
 
 - 3. Een bank brengt bij het opstellen van het individueel klantbeeld geen markering aan van de aanvullende garantie tot een bedrag van EUR 500.000 per depositohouder gedurende drie maanden na storting van een deposito voor zover dat deposito direct verband houdt met de nakoming van een koopovereenkomst die betrekking heeft op een eigen woning, in de zin van [artikel 29.02 van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02).
 
@@ -192,19 +194,33 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 2. Bij het berekenen van de gegevens zoals gevraagd in het eerste lid, neemt een bank het volgende in acht:
 
-- a. Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22), [artikel 6, eerste lid, onderdeel b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22) en artikel 6, vierde lid, wordt beschouwd als niet-gegarandeerd bedrag;
+- a. Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06), [artikel 6, eerste lid, onderdeel b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06) en artikel 6, vierde lid, wordt beschouwd als niet-gegarandeerd bedrag;
 
-- b. Depositohouders die zijn overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), en depositohouders als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22), worden beschouwd als niet in aanmerking komende depositohouders.
+- b. Depositohouders die zijn overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), en depositohouders als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06), worden beschouwd als niet in aanmerking komende depositohouders.
 
 3. In afwijking van het tweede lid, neemt een bank bij de berekening van de gegevens ter bepaling van de depositobasis als bedoeld in [artikel 29.16, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.16) het volgende in acht:
 
-- a. Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22), en deposito’s als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22), wordt beschouwd als gegarandeerd bedrag;
+- a. Een inschatting van het bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06), gebaseerd op een door de bank gekozen wijze als bedoeld in artikel 4, derde lid, onderdeel e, en deposito’s als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06), wordt beschouwd als gegarandeerd bedrag;
 
-- b. Deposito's als bedoeld in [artikel 6, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22) worden beschouwd als in aanmerking komende deposito's, met inachtneming van het maximum gegarandeerde bedrag per depositohouder.
+- b. Deposito's als bedoeld in [artikel 6, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06) worden beschouwd als in aanmerking komende deposito's, met inachtneming van het maximum gegarandeerde bedrag per depositohouder.
 
-- c. Depositohouders die zijn overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), en depositohouders als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22), worden beschouwd als in aanmerking komende depositohouders;
+- c. Depositohouders die zijn overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), en depositohouders als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06), worden beschouwd als in aanmerking komende depositohouders;
 
-- d. Het volledige bedrag aan deposito’s geadministreerd als bedoeld in [artikel 6, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22), wordt beschouwd als niet-gegarandeerd bedrag.
+- d. Het volledige bedrag aan deposito’s geadministreerd als bedoeld in [artikel 6, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06), wordt beschouwd als niet-gegarandeerd bedrag;
+
+- e. Bij de inschatting van het bedrag aan deposito’s gemarkeerd als bedoeld in het derde lid, onderdeel a, kiest een bank uit een van de vier volgende berekeningswijzen:
+
+- i). Het volledige bedrag aan deposito’s gemarkeerd als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06);
+
+- ii). Het aantal derden als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06), vermenigvuldigd met het maximale gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02);
+
+- iii). De som van het gegarandeerde bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06), rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), waarbij niet wordt vereist dat rekening wordt gehouden met andere rekeningen die de derden bij de bank aanhouden.
+
+- iv). Het verwerken van het in aanmerking komende bedrag van iedere derde afzonderlijk van het deposito als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06), in de gegarandeerde deposito’s, rekening houdend met het maximaal gegarandeerde bedrag als bedoeld in [artikel 29.02, eerste lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02).
+
+- f. Een bank is in staat per derdenrekening aan te tonen welke methode zoals bedoeld in onderdeel e is gehanteerd bij de berekening van het bedrag zoals bedoeld in het eerste lid.
+
+4. Een bank kan bij de berekening van de in aanmerking komende en gegarandeerde bedragen, als bedoeld in het eerste lid, gebruik maken van wisselkoersen gepubliceerd door koersinformatieleveranciers.
 
 ### Afdeling 2.3. Identificatie deposito’s en depositohouders
 
@@ -228,7 +244,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - d. Deposito’s die onderwerp zijn van beperkende maatregelen die zijn opgelegd door nationale regeringen of internationale organen als bedoeld in artikel 8, vijfde lid, onderdeel b van de richtlijn depositogarantiestelsels;
 
-- e. Deposito’s die zijn verpand aan een derde partij;
+- e. Deposito’s die zijn verpand aan een derde partij en waarbij uitsluitend de pandhouder inningsbevoegd is;
 
 - f. Deposito’s waar beslag op is gelegd;
 
@@ -236,7 +252,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - h. Bankspaardeposito’s eigen woning als bedoeld in [artikel 29.01, tweede lid, sub e van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01).
 
-2. Een bank markeert depositohouders waarvan de identiteit niet met een hoge mate van betrouwbaarheid kan worden vastgesteld als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22).
+2. Een bank markeert depositohouders waarvan de identiteit niet met een hoge mate van betrouwbaarheid kan worden vastgesteld als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06).
 
 3. Een bank markeert depositohouders waarvan de markeringen, als bedoeld in het eerste lid, onderdeel a, niet met een hoge mate van betrouwbaarheid zijn aan te brengen.
 
@@ -250,9 +266,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 2. Ten behoeve van de gedetailleerde omschrijving als bedoeld in het eerste lid:
 
-- a. Markeert een bank, in aanvulling op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22), in aanmerking komende deposito’s welke worden aangehouden door natuurlijke personen en door kleine, middelgrote en micro-ondernemingen op een dusdanige manier dat deze onmiddellijk te identificeren zijn;
+- a. Markeert een bank, in aanvulling op [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06), in aanmerking komende deposito’s welke worden aangehouden door natuurlijke personen en door kleine, middelgrote en micro-ondernemingen op een dusdanige manier dat deze onmiddellijk te identificeren zijn;
 
-- b. Is een bank in staat een overzicht samen te stellen van deposito’s als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-07-22&g=2017-07-22).
+- b. Is een bank in staat een overzicht samen te stellen van deposito’s als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=3&z=2019-02-06&g=2019-02-06).
 
 ##### Artikel 8
 
@@ -262,9 +278,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - b. Deposito’s te kunnen bevriezen:
 
-- 1. Die worden aangehouden door niet in aanmerking komende depositohouders of van wie de depositohouder is overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), of een markering heeft als bedoeld in [artikel 6, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22);
+- 1. Die worden aangehouden door niet in aanmerking komende depositohouders of van wie de depositohouder is overleden blijkend uit [artikel 2, tweede lid, onderdeel e, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), of een markering heeft als bedoeld in [artikel 6, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06);
 
-- 2. Die een markering hebben als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22) of [artikel 6, eerste lid, onderdeel b tot en met h of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22).
+- 2. Die een markering hebben als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06) of [artikel 6, eerste lid, onderdeel b tot en met h of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06).
 
 2. Een bank rondt de handelingen als bedoeld in het eerste lid af voor middernacht aan het eind van de werkdag volgend op de bekendmaking dat een afwikkelingsmaatregel is genomen.
 
@@ -278,9 +294,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - b. DNB hiertoe een specifiek verzoek heeft gedaan.
 
-2. Op verzoek van DNB levert een bank DNB de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2017-07-22&g=2017-07-22) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2017-07-22&g=2017-07-22) genoemde gegevens binnen drie werkdagen aan.
+2. Op verzoek van DNB levert een bank DNB de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2019-02-06&g=2019-02-06) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2019-02-06&g=2019-02-06) genoemde gegevens binnen drie werkdagen aan.
 
-3. Een bank mag het overzicht als bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2017-07-22&g=2017-07-22), separaat aanleveren van het IKB-bestand.
+3. Een bank mag het overzicht als bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2019-02-06&g=2019-02-06), separaat aanleveren van het IKB-bestand.
 
 4. In afwijking van het eerste en tweede lid, kan DNB een ruimere aanlevertermijn dan drie werkdagen vaststellen bij een verzoek conform [artikel 26a van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26a).
 
@@ -296,15 +312,15 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 1. Het IKB-systeem van een bank waarborgt de juistheid en volledigheid van de volgende gegevens op een zodanige manier dat DNB met een hoge betrouwbaarheid tot een uitkering aan depositohouders zou kunnen overgaan:
 
-- a. De gegevens als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), met inachtneming van de uitgangspunten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=3&z=2017-07-22&g=2017-07-22) en de termijnen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2017-07-22&g=2017-07-22);
+- a. De gegevens als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), met inachtneming van de uitgangspunten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=3&z=2019-02-06&g=2019-02-06) en de termijnen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2019-02-06&g=2019-02-06);
 
-- b. De administratie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2017-07-22&g=2017-07-22);
+- b. De administratie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=5&z=2019-02-06&g=2019-02-06);
 
-- c. De markeringen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2017-07-22&g=2017-07-22).
+- c. De markeringen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.3&artikel=6&z=2019-02-06&g=2019-02-06).
 
-2. Het IKB-systeem van een bank waarborgt een betrouwbare berekening en aanlevering van de bedragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2017-07-22&g=2017-07-22).
+2. Het IKB-systeem van een bank waarborgt een betrouwbare berekening en aanlevering van de bedragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2019-02-06&g=2019-02-06).
 
-3. Een bank waarborgt dat de gegevens in het IKB-bestand als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), de bedragen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2017-07-22&g=2017-07-22), en de berekening van de depositobasis als bedoeld in artikel 4, derde lid aansluiten op de rapportages aan de toezichthoudende autoriteit die gebaseerd zijn op uitvoeringsverordening (EU) 680/2014.
+3. Een bank waarborgt dat de gegevens in het IKB-bestand als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), de bedragen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2019-02-06&g=2019-02-06), en de berekening van de depositobasis als bedoeld in artikel 4, derde lid aansluiten op de rapportages aan de toezichthoudende autoriteit die gebaseerd zijn op uitvoeringsverordening (EU) 680/2014.
 
 ##### Artikel 11
 
@@ -314,7 +330,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - b. Documentatie waarin het geheel aan procedures en maatregelen is beschreven die samenhangen met de vereisten uit deze beleidsregel;
 
-- c. Een zodanige vastlegging van de uitvoering van een proces van totstandkoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2017-07-22&g=2017-07-22) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2017-07-22&g=2017-07-22) bedoelde gegevens, die het mogelijk maakt de procedures en de werking van de beheersmaatregelen achteraf te beoordelen;
+- c. Een zodanige vastlegging van de uitvoering van een proces van totstandkoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2019-02-06&g=2019-02-06) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=3&artikel=7&z=2019-02-06&g=2019-02-06) bedoelde gegevens, die het mogelijk maakt de procedures en de werking van de beheersmaatregelen achteraf te beoordelen;
 
 - d. Jaarlijkse oordeelsvorming ten aanzien van de naleving van de voorschriften uit deze beleidsregel door de interne accountantsdienst binnen een bank.
 
@@ -342,11 +358,11 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 1. Indien een bank tot het DGS toetreedt na inwerkingtreding van deze beleidsregel, verstrekt een bank aan DNB:
 
-- a. Het IKB-bestand als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2017-07-22&g=2017-07-22), binnen zes maanden na toetreding;
+- a. Het IKB-bestand als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2019-02-06&g=2019-02-06), binnen zes maanden na toetreding;
 
-- b. Een rapport van de interne accountantsdienst als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.1&artikel=11&z=2017-07-22&g=2017-07-22), zo snel mogelijk na afloop van het eerste verslagjaar;
+- b. Een rapport van de interne accountantsdienst als bedoeld in [artikel 11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.1&artikel=11&z=2019-02-06&g=2019-02-06), zo snel mogelijk na afloop van het eerste verslagjaar;
 
-- c. Een rapport als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2017-07-22&g=2017-07-22), binnen vijf maanden na afloop van het eerste verslagjaar;
+- c. Een rapport als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2019-02-06&g=2019-02-06), binnen vijf maanden na afloop van het eerste verslagjaar;
 
 - d. De opdracht voor de toetsing over het eerste verslagjaar, gebaseerd op ISAE 3402 type 1.
 
@@ -358,9 +374,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 2. Indien de beoordeling hiertoe aanleiding geeft, kan DNB een aanwijzing geven aan de bank om maatregelen door te voeren ter verbetering van de kwaliteit of beheersing.
 
-3. Voor de beoordeling van het IKB-bestand kan DNB op elk moment een verzoek doen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2017-07-22&g=2017-07-22), waarbij het IKB-bestand alle individuele klantbeelden bevat op basis van actuele gegevens van de bank.
+3. Voor de beoordeling van het IKB-bestand kan DNB op elk moment een verzoek doen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=4&artikel=9&z=2019-02-06&g=2019-02-06), waarbij het IKB-bestand alle individuele klantbeelden bevat op basis van actuele gegevens van de bank.
 
-4. Voor de beoordeling van de beheersing van het IKB-systeem maakt DNB gebruik van de periodieke oordeelsvorming door de interne accountantsdienst van een bank als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.1&artikel=11&z=2017-07-22&g=2017-07-22), en het rapport van de externe accountant als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2017-07-22&g=2017-07-22).
+4. Voor de beoordeling van de beheersing van het IKB-systeem maakt DNB gebruik van de periodieke oordeelsvorming door de interne accountantsdienst van een bank als bedoeld in [artikel 11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.1&artikel=11&z=2019-02-06&g=2019-02-06), en het rapport van de externe accountant als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2019-02-06&g=2019-02-06).
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -372,7 +388,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - a. De methode waarbij een bank de gegevens per rekening aanlevert en DNB het IKB opbouwt conform het daartoe door DNB voorgeschreven datamodel;
 
-- b. De methode zoals vastgelegd in [hoofdstuk 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=1&z=2017-07-22&g=2017-07-22) van deze beleidsregel, waarbij een bank het IKB opbouwt en aanlevert conform het daartoe door DNB voorgeschreven datamodel.
+- b. De methode zoals vastgelegd in [hoofdstuk 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=1&z=2019-02-06&g=2019-02-06) van deze beleidsregel, waarbij een bank het IKB opbouwt en aanlevert conform het daartoe door DNB voorgeschreven datamodel.
 
 3. Tot 1 januari 2019 is een bank in staat om de depositogegevens aan te leveren conform de methode als bedoeld in lid 2, onderdeel a, ongeacht of een bank in staat is om de depositogegevens aan te leveren conform de methode als bedoeld in lid 2, onderdeel b.
 
@@ -380,9 +396,9 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 5. Een bank verstrekt aan DNB:
 
-- a. Over het verslagjaar 2018 een rapport van de externe accountant als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2017-07-22&g=2017-07-22), gebaseerd op ISAE 3402 type 1;
+- a. Over het verslagjaar 2018 een rapport van de externe accountant als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2019-02-06&g=2019-02-06), gebaseerd op ISAE 3402 type 1;
 
-- b. Vanaf verslagjaar 2019 een rapport van de externe accountant als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2017-07-22&g=2017-07-22), gebaseerd op ISAE 3402 type 2.
+- b. Vanaf verslagjaar 2019 een rapport van de externe accountant als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=5&afdeling=5.2&artikel=12&z=2019-02-06&g=2019-02-06), gebaseerd op ISAE 3402 type 2.
 
 ##### Artikel 17
 
