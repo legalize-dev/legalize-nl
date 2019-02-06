@@ -4,7 +4,7 @@ identifier: "BWBR0039820"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2017-07-22"
+last_updated: "2019-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039820"
 soort: "zbo"
@@ -50,6 +50,8 @@ In deze beleidsregel wordt verstaan onder:
 
 - 1. **DNB:** De Nederlandsche Bank N.V.;
 
+- 1. **Tijdelijk hoog deposito:** een deposito als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02);
+
 - 2. **Besluit:** [Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414);
 
 - 3. **De Wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (Wft);
@@ -92,7 +94,7 @@ DNB kent vergoedingen uit hoofde van het DGS aan een derde toe indien aangetoond
 
 - a. bij het vergoeden van gegarandeerde deposito’s nadat besloten is tot toepassing van het depositogarantiestelsel als bedoeld in [artikel 3:260, eerste lid van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260); en
 
-- b. wanneer de handelingen als bedoeld in [artikel 8 van de Beleidsregel Individueel Klantbeeld](onbekend) moeten worden uitgevoerd als gevolg van het vaststellen van een afwikkelingsregeling als bedoeld in artikel 18, SRMR of [artikel 3a:18, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:18).
+- b. wanneer de handelingen als bedoeld in [artikel 8 van de Beleidsregel Individueel Klantbeeld](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&artikel=8) moeten worden uitgevoerd als gevolg van het vaststellen van een afwikkelingsregeling als bedoeld in artikel 18, SRMR of [artikel 3a:18, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:18).
 
 2. In het geval een depositohouder over meerdere deposito’s bij een bank beschikt en het in aanmerking komende bedrag het dekkingsniveau overschrijdt, bepaalt de rangorde in welke volgorde in aanmerking komende deposito’s worden uitgekeerd of beschermd bij de toepassing van een afwikkelingsregeling als bedoeld in het eerste lid.
 
@@ -106,6 +108,10 @@ DNB kent vergoedingen uit hoofde van het DGS aan een derde toe indien aangetoond
 
 - d. Bijzondere rekeningen
 
+- e. Rekeningen waarvan DNB niet op grond van door de betreffende bank aangeleverde gegevens het in aanmerking komende bedrag kan vaststellen.
+
+4. In het geval een depositohouder over meerdere deposito’s beschikt binnen één categorie uit de rangorde in het derde lid, en het in aanmerking komende bedrag het dekkingsniveau overschrijdt, bepaalt de hoogte van de verschillende in aanmerking komende deposito’s in welke volgorde deze worden uitgekeerd of beschermd bij de toepassing van een afwikkelingsregeling als bedoeld in het eerste lid. Het kleinste in aanmerking komende deposito wordt als eerste vergoed respectievelijk beschermd.
+
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 4.1
@@ -115,5 +121,55 @@ Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan 
 ##### Artikel 4.2
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel.
+
+De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.2
+
+In het geval van deposito’s die worden aangehouden in een vreemde valuta waarvoor de Europese Centrale Bank geen referentiekoers bepaalt, stelt DNB de referentiekoers vast die gold op de datum bedoeld in het tweede lid van [artikel 29.06 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), aan de hand van:
+
+- 1. De door de centrale bank behorende bij de valuta waarin de deposito’s worden aangehouden gepubliceerde referentiekoers die behoort bij de valuta waarin de deposito’s worden aangehouden, of als een dergelijke referentiekoers ontbreekt:
+
+- 2. Het berekenen van een middenkoers, in het geval de betreffende centrale bank geen referentiekoers publiceert maar wel aankoopkoersen en verkoopkoersen; dan wel
+
+- 3. Valutakoersen zoals gepubliceerd door een koersinformatieleverancier, in het geval het niet mogelijk is om een referentiekoers vast te stellen aan de hand van de mogelijkheden in het eerste of tweede lid.
+
+##### Artikel 3.3
+
+Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), worden verplichtingen van de depositohouder jegens de bank als volgt buiten beschouwing gelaten:
+
+- a. indien sprake is van een negatief rekeningsaldo, veronderstelt DNB bij het vaststellen van de vergoeding het saldo als nihil;
+
+- b. indien het bedrag aan aangegroeide maar nog niet gecrediteerde rente negatief is, veronderstelt DNB bij de bepaling van de vergoeding het te crediteren rentebedrag als nihil.
+
+##### Artikel 3.4
+
+1. Bij toepassing van het depositogarantiestelsel dient een depositohouder DNB op de hoogte te stellen van de aanwezigheid van een tijdelijk hoog deposito. DNB stelt daartoe een formulier beschikbaar.
+
+2. In het geval een depositohouder aanspraak maakt op aanvullende bescherming als bedoeld in het eerste lid, stelt DNB de aanvullende bescherming per depositohouder per bank gelijk aan de hoogte van de oorspronkelijke storting waarbij geldt dat:
+
+- a. de aanvullende bescherming per depositohouder per bank niet hoger kan zijn dan 500.000 euro;
+
+- b. het totale gegarandeerde bedrag per depositohouder niet hoger kan zijn dan het totale saldo van de tegoeden die de depositohouder bij de bank aanhoudt.
+
+3. In het geval van doorstorting van een deposito als bedoeld in het eerste lid naar een andere rekening, vangt de beschermingstermijn van drie maanden, als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), aan op de datum van storting op de oorspronkelijke rekening.
+
+4. Ten behoeve van het onderzoek naar het bestaan van een tijdelijk hoog deposito, kan DNB een depositohouder verzoeken om aanvullende informatie te verstrekken die samenhangt met het tijdelijk hoog deposito.
+
+##### Artikel 3.5
+
+1. In het geval een depositohouder over één of meerdere rekeningen beschikt bij een bank in Nederland en tevens over één of meerdere rekeningen beschikt bij een bijkantoor van dezelfde bank in een andere lidstaat, keert DNB het toegekende bedrag aan de deposant uit en geschiedt de uitkering niet via het DGS van de lidstaat waar het bijkantoor is gevestigd.
+
+2. In het geval een depositohouder over rekeningen beschikt bij bijkantoren van dezelfde bank in verschillende andere lidstaten dan Nederland, keert DNB het gedekte bedrag aan de deposant uit en geschiedt de uitkering niet via één van de DGS-autoriteiten van de lidstaat waar het bijkantoor is gevestigd.
+
+##### Artikel 3.6
+
+De berekening van aangegroeide rente, zoals vastgelegd in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), wordt als volgt toegepast in het geval sprake is van een gestructureerd deposito als bedoeld in artikel 4, eerste lid, onderdeel 43, van de richtlijn markten voor financiële instrumenten 2014:
+
+- a. voor zover de hoogte van nog niet gecrediteerde rente op de datum, bedoeld in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), niet meer afhankelijk is van externe (markt)factoren, kwalificeert deze als te zijn aangegroeid als bedoeld in 29.06, tweede lid, van het Besluit;
+
+- b. voor zover de hoogte van nog niet gecrediteerde rente of premie op de datum, bedoeld in [artikel 29.06, tweede lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.06), nog onderhevig is aan externe (markt)factoren, kwalificeert deze niet als te zijn aangegroeid als bedoeld in 29.06, tweede lid, van het Besluit.
+
+### Hoofdstuk 4. Slotbepalingen
 
 De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
