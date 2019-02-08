@@ -4,7 +4,7 @@ identifier: "BWBR0014172"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2019-02-08"
-last_updated: "2015-06-27"
+last_updated: "2019-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014172"
 soort: "beleidsregel"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - c. geprivilegieerden: leden van diplomatieke zendingen en van consulaire posten, de leden van het administratieve en technische personeel van diplomatieke zendingen en van consulaire posten, de inwonende gezinsleden van de hiervoor bedoelde personen en andere personen die krachtens internationaal recht een bijzondere verblijfsrechtelijke status hebben, niet zijnde Nederlanders, en Nederlanders dan wel personen die op grond van de Vreemdelingenwet in Nederland verblijf hebben en werkzaam zijn bij internationale organisaties of diplomatieke vertegenwoordigingen;
 
-- d. DKP: de Directie Kabinet en Protocol van het ministerie van Buitenlandse Zaken;
+- d. DPG: de Directie Protocol en Gastlandzaken van het Ministerie van Buitenlandse Zaken;
 
 - e. afnemer: een bestuursorgaan;
 
@@ -72,9 +72,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. PROBAS
 
-1. De Minister is ten aanzien van PROBAS de verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
+1. De Minister is ten aanzien van PROBAS de verwerkingsverantwoordelijke in de zin van artikel 4, onder 7, van de Algemene verordening gegevensbescherming.
 
-2. DKP is ten aanzien van PROBAS de beheerder aan wie het feitelijk beheer en de bevoegdheden van de Minister ten aanzien van de verwerkingen van persoonsgegevens van geprivilegieerden zijn gemandateerd.
+2. DPG is ten aanzien van PROBAS de beheerder aan wie het feitelijk beheer en de bevoegdheden van de Minister ten aanzien van de verwerkingen van persoonsgegevens van geprivilegieerden zijn gemandateerd.
 
 ##### Artikel 3. Doel
 
@@ -82,7 +82,7 @@ PROBAS heeft tot doel:
 
 - a. de naleving te bevorderen van de verdragsverplichtingen en de verplichtingen uit internationale overeenkomsten daaronder begrepen de rechten en plichten van geprivilegieerden, en
 
-- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2015-06-27&g=2015-06-27), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
+- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2019-02-08&g=2019-02-08), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
 
 ##### Artikel 4. Soorten opgenomen persoonsgegevens
 
@@ -118,7 +118,7 @@ Vervallen
 
 ##### Artikel 7. Verstrekking aan afnemers
 
-1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2015-06-27&g=2015-06-27), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
+1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2019-02-08&g=2019-02-08), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
 
 2. Een verzoek, bedoeld in het eerste lid, is niet nodig ten aanzien van een verstrekking aan de volgende afnemers:
 
@@ -152,23 +152,23 @@ Vervallen
 
 ##### Artikel 8. Rechtstreekse toegang, beheer en veiligheid
 
-1. Rechtstreekse toegang tot PROBAS, dan wel onderdelen daarvan, hebben personen die daartoe door DKP zijn geautoriseerd. De autorisatie geeft aan voor welk doel de rechtstreekse toegang is verleend.
+1. Rechtstreekse toegang tot PROBAS, dan wel onderdelen daarvan, hebben personen die daartoe door DPG zijn geautoriseerd. De autorisatie geeft aan voor welk doel de rechtstreekse toegang is verleend.
 
-2. Bij de uitvoering van de werkzaamheden verbonden aan PROBAS worden procedures gevolgd die zoveel mogelijk waarborgen dat de persoonsgegevens in PROBAS juist en volledig zijn. DKP stelt hiervoor een schriftelijke instructie vast.
+2. Bij de uitvoering van de werkzaamheden verbonden aan PROBAS worden procedures gevolgd die zoveel mogelijk waarborgen dat de persoonsgegevens in PROBAS juist en volledig zijn. DPG stelt hiervoor een schriftelijke instructie vast.
 
-3. Indien aan DKP, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2015-06-27&g=2015-06-27) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DKP zo spoedig mogelijk zorg voor verbetering van die gegevens.
+3. Indien aan DPG, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2019-02-08&g=2019-02-08) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DPG zo spoedig mogelijk zorg voor verbetering van die gegevens.
 
 ##### Artikel 9. Kennisgeving
 
-1. Indien de persoonsgegevens bij de geprivilegieerde worden verkregen, deelt DKP vóór het moment van verkrijging mee welke gegevens zullen worden opgenomen in PROBAS. Tevens wordt mededeling gedaan van het doel van PROBAS alsmede het beleid omtrent het verstrekken van persoonsgegevens uit PROBAS.
+1. Indien de persoonsgegevens bij de geprivilegieerde worden verkregen, deelt DPG vóór het moment van verkrijging mee welke gegevens zullen worden opgenomen in PROBAS. Tevens wordt mededeling gedaan van het doel van PROBAS alsmede het beleid omtrent het verstrekken van persoonsgegevens uit PROBAS.
 
-2. Indien de persoonsgegevens worden verkregen op een andere wijze dan bedoeld in het eerste lid, deelt DKP de geprivilegieerde mee welke persoonsgegevens zijn opgenomen in PROBAS. Tevens wordt mededeling gedaan van het doel van PROBAS alsmede het beleid omtrent het verstrekken van persoonsgegevens uit PROBAS.
+2. Indien de persoonsgegevens worden verkregen op een andere wijze dan bedoeld in het eerste lid, deelt DPG de geprivilegieerde mee welke persoonsgegevens zijn opgenomen in PROBAS. Tevens wordt mededeling gedaan van het doel van PROBAS alsmede het beleid omtrent het verstrekken van persoonsgegevens uit PROBAS.
 
-3. De mededelingen, bedoeld in het eerste en tweede lid, kunnen achterwege blijven indien de geprivilegieerde reeds van deze informatie op de hoogte is. De mededeling blijft tevens achterwege indien mededeling van de informatie onmogelijk blijkt of een onevenredige inspanning kost. In dat geval legt DKP de herkomst van de gegevens vast.
+3. De mededelingen, bedoeld in het eerste en tweede lid, kunnen achterwege blijven indien de geprivilegieerde reeds van deze informatie op de hoogte is. De mededeling blijft tevens achterwege indien mededeling van de informatie onmogelijk blijkt of een onevenredige inspanning kost. In dat geval legt DPG de herkomst van de gegevens vast.
 
 ##### Artikel 10. Recht van kennisneming
 
-1. DKP deelt op verzoek van een geprivilegieerde aan hem mee:
+1. DPG deelt op verzoek van een geprivilegieerde aan hem mee:
 
 - a. of hij in PROBAS voorkomt;
 
@@ -176,7 +176,7 @@ Vervallen
 
 - c. aan wie of aan welke instanties persoonsgegevens over hem zijn verstrekt.
 
-2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DKP.
+2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DPG.
 
 3. Een verzoek, bedoeld in het eerste lid, kan, onder overlegging van een bijzondere daartoe strekkende schriftelijke machtiging, namens de geprivilegieerde worden gedaan door diens gemachtigde.
 
@@ -184,9 +184,9 @@ Vervallen
 
 ##### Artikel 11. Recht van verbetering en afscherming
 
-1. Een geprivilegieerde kan DKP verzoeken bepaalde persoonsgegevens over hem te verbeteren, aan te vullen, te verwijderen of af te schermen.
+1. Een geprivilegieerde kan DPG verzoeken bepaalde persoonsgegevens over hem te verbeteren, aan te vullen, te verwijderen of af te schermen.
 
-2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DKP. Het verzoek bevat de gewenste verbetering, aanvulling, wijzigingen of afscherming.
+2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DPG. Het verzoek bevat de gewenste verbetering, aanvulling, wijzigingen of afscherming.
 
 3. Een verzoek, bedoeld in het eerste lid, kan, onder overlegging van een bijzondere daartoe strekkende schriftelijke machtiging, namens de geprivilegieerde worden gedaan door diens gemachtigde.
 
