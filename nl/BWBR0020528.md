@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2019-01-01"
+last_updated: "2019-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6), en [2:8, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:8) worden aangewezen: Australië, België, Canada, Denemarken, Duitsland, Finland, Frankrijk, Hongarije, Italië, Japan, Portugal, Spanje, het Verenigd Koninkrijk, de Verenigde Staten van Amerika, Zweden en Zwitserland, met dien verstande dat, wanneer in een staat een beleggingsonderneming bevoegd is het bedrijf van clearinginstelling uit te oefenen en uit dien hoofde toezicht wordt uitgeoefend op het uitoefenen van het bedrijf van clearinginstelling door die beleggingsonderneming, de aanwijzing van die staat slechts geldt voor zover de beleggingsonderneming een vergunning heeft die het verrichten van de werkzaamheden, bedoeld in de onderdelen c, d of f in de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), omvat.
+Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6), en [2:8, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:8) worden aangewezen: Australië, België, Canada, Denemarken, Duitsland, Finland, Frankrijk, Hongarije, Italië, Japan, Portugal, Spanje, het Verenigd Koninkrijk, de Verenigde Staten van Amerika, Zweden en Zwitserland, met dien verstande dat, wanneer in een staat een beleggingsonderneming bevoegd is het bedrijf van clearinginstelling uit te oefenen en uit dien hoofde toezicht wordt uitgeoefend op het uitoefenen van het bedrijf van clearinginstelling door die beleggingsonderneming, de aanwijzing van die staat slechts geldt voor zover de beleggingsonderneming een vergunning heeft die het verrichten van de werkzaamheden, bedoeld in onderdeel a van de definitie van verrichten van een beleggingsactiviteit in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), omvat.
 
 ##### Artikel 2
 
@@ -73,5 +73,11 @@ Dit besluit wordt aangehaald als: Besluit aangewezen staten Wft.
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2007.
+
+Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
