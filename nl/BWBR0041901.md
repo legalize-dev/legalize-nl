@@ -4,7 +4,7 @@ identifier: "BWBR0041901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-13"
-last_updated: "2018-11-01"
+last_updated: "2019-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041901"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **bewindspersonen:** de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Rechtsbescherming;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041901&artikel=2&z=2019-02-13&g=2018-11-01);
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041901&artikel=2&z=2019-02-13&g=2019-02-13);
 
 - d. **programma:** het programma Geweld hoort nergens thuis.
 
