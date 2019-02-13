@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2013-04-01"
+last_updated: "2019-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. minister: de Minister van Economische Zaken;
+- a. minister: de Minister van Economische Zaken en Klimaat;
 
-- b. Agentschap Telecom: het Agentschap Telecom van het Ministerie van Economische Zaken.
+- b. Agentschap Telecom: het Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
 
 ### Hoofdstuk 2. De aanvraag van een vergunning
 
@@ -70,7 +70,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2013-04-01&g=2013-04-01).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2019-02-13&g=2019-02-13).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -102,17 +102,17 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 2. Een vergunning als bedoeld in het eerste lid wordt slechts verleend als de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
-#### § 3. Radiozendamateurs
+#### § 3. Laagvermogen middengolfomroep
 
 ##### Artikel 6
 
-Vervallen
+Deze paragraaf is van toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte die is bestemd voor laagvermogen middengolfomroep.
 
 #### § 4. Overig gebruik
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2013-04-01&g=2013-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&artikel=5&z=2013-04-01&g=2013-04-01) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2019-02-13&g=2019-02-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&artikel=5&z=2019-02-13&g=2019-02-13) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -127,6 +127,54 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.
+
+## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+Voor de bepaling van de volgorde van binnenkomst geldt het tijdstip waarop de aanvraag voldoet aan de wettelijke voorschriften.
+
+##### Artikel 6b
+
+Indien twee of meer aanvragen op hetzelfde tijdstip voldoen aan de wettelijke voorschriften, terwijl de hoeveelheid beschikbare frequentieruimte onvoldoende is om voor deze aanvragen vergunningen te verlenen, wordt de onderlinge volgorde bepaald door loting.
+
+##### Artikel 6c
+
+1. Aanvragen worden uitsluitend ingediend door middel van persoonlijke overhandiging of langs elektronische weg.
+
+2. De persoonlijke overhandiging, bedoeld in het eerste lid, vindt plaats op werkdagen tussen 10.00 en 12.00 uur of tussen 14.00 en 16.00 uur op het volgende adres:
+
+Agentschap Telecom
+
+Ter attentie van: Projectteam laagvermogen middengolfvergunningen
+
+Emmasingel 1
+
+9726 AH Groningen
+
+##### Artikel 6d
+
+Een vergunning wordt slechts verleend aan de aanvrager die beschikt over de toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
+
+#### § 4. Overig gebruik
+
+### Hoofdstuk 3a. Tijdelijke aanvullende toelatingscriteria voor de verdeling van frequentieruimte voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019
+
+##### Artikel 7a
+
+1. Een aanvraag voor de verlening van een vergunning voor het gebruik van frequentieruimte die is bestemd voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019 kan worden ingediend vanaf een door de minister te bepalen tijdstip.
+
+2. Voor aanvragen die worden ingediend binnen 4 weken vanaf het tijdstip, bedoeld in het eerste lid, wordt ten hoogste één vergunning verleend per natuurlijk persoon of rechtspersoon.
+
+### Hoofdstuk 4. Slotbepalingen
+
+##### Artikel 9a
+
+[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2019-02-13&g=2019-02-13) vervalt met ingang van 1 januari 2020.
 
 ## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
