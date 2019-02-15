@@ -4,7 +4,7 @@ identifier: "BWBR0041573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2019-01-01"
+last_updated: "2019-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041573"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **besluit:** [Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522);
 
-- b. **openbaar vervoer:** voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.
+- b. **openbaar vervoer:** voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.
 
 ##### Artikel 1.2. Wijze van declareren
 
@@ -92,11 +92,11 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in de [artikelen 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-01-01&g=2019-01-01), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-02-15&g=2019-02-15), vergoed.
 
 ##### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
 
-1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in de [artikelen 3.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder.
+1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 3.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder.
 
 2. Onder de gemaakte kosten van huisvesting, bedoeld in het eerste lid, worden verstaan:
 
@@ -104,9 +104,9 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. de rente van schulden ter verwerving van de woning in de gemeente waar betrokkene is benoemd, vermeerderd met de kosten voor energie en water;
 
-- c. de bijdrage voor het bewonen van een ter beschikking gestelde woning, bedoeld in [artikel 3.2.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8), in de gemeente waar betrokkene is benoemd.
+- c. de bijdrage voor het bewonen van een ter beschikking gestelde woning, bedoeld in [artikel 3.2.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8), in de gemeente waar betrokkene is benoemd, vermeerderd met de kosten voor energie en water.
 
-3. De tegemoetkoming, bedoeld in het eerste lid, gaat in op de eerste dag van de maand waarop de dubbele woonlasten ontstaan en eindigt met ingang van de eerste dag van de maand waarin de woning waar betrokkene ten tijde van zijn benoeming woonde, is verkocht, of na afloop van de in [3.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7)genoemde termijn van drie jaar. De datum van verkoop wordt bepaald op de dag dat de akte betreffende de overdracht van de woning bij de notaris is gepasseerd.
+3. De tegemoetkoming, bedoeld in het eerste lid, gaat in op de eerste dag van de maand waarop de dubbele woonlasten ontstaan en eindigt met ingang van de eerste dag van de maand waarin de woning waar betrokkene ten tijde van zijn benoeming woonde, is verkocht, of na afloop van de in [artikel 3.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7)genoemde termijn van drie jaar. De datum van verkoop wordt bepaald op de dag dat de akte betreffende de overdracht van de woning bij de notaris is gepasseerd.
 
 4. De tegemoetkoming, bedoeld in het eerste lid, wordt slechts verleend indien:
 
@@ -114,7 +114,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-01-01&g=2019-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-02-15&g=2019-02-15), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
 
@@ -146,11 +146,11 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. indien hij nog niet in de basisregistratie personen is ingeschreven op een woonadres binnen de gemeente, waarin hij is benoemd, voor zolang hem ontheffing is verleend van de verplichting om zijn werkelijke woonplaats in de gemeente te hebben.
 
-7. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de burgemeester of de wethouder maakt in verband met reizen binnen de gemeente voor de uitoefening van het ambt worden aan hem vergoed.
+7. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de burgemeester of de wethouder maakt in verband met reizen voor de uitoefening van het ambt worden aan hem vergoed.
 
 ##### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
 
-1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-01-01&g=2019-01-01), een vaste vergoeding worden toegekend.
+1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-02-15&g=2019-02-15), een vaste vergoeding worden toegekend.
 
 2. De vaste vergoeding, bedoeld in het eerste lid, bedraagt per maand:
 
@@ -168,9 +168,9 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 1. De eigen bijdrage per maand voor het gebruik, anders dan voor zakelijke of bestuurlijke doeleinden, van een aan de burgemeester of de wethouder ter beschikking gestelde auto, bedoeld in [artikel 3.2.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10), wordt, voor zover nodig op basis van nacalculatie, berekend volgens de formule (a/b)p/12, waarbij:
 
-- a. ‘a’ staat voor het totaal in het kalenderjaar in de ter beschikking gestelde auto anders dan voor zakelijke of bestuurlijke doeleinden gereden kilometers;
+- a. ‘a’ staat voor het totaal in het kalenderjaar door betrokkene in de ter beschikking gestelde auto anders dan voor zakelijke of bestuurlijke doeleinden gereden kilometers;
 
-- b. ‘b’ staat voor het totaal in het kalenderjaar door betrokkene in de ter beschikking gestelde auto anders dan voor zakelijke of bestuurlijke doeleinden gereden kilometers;
+- b. ‘b’ staat voor het totaal in het kalenderjaar door betrokkene in de ter beschikking gestelde auto gereden kilometers;
 
 - c. ‘p’ staat voor het totaal bedrag van de kosten van de auto dat in het kalenderjaar ten laste van de gemeente komt, daaronder in ieder geval de kosten van afschrijving, onderhoud, brandstof en verzekering.
 
@@ -208,7 +208,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2019-01-01&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2019-01-01&g=2019-01-01) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2019-01-01&g=2019-01-01), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2019-01-01&g=2019-01-01), in werking met ingang van 28 maart 2019.
+2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2019-02-15&g=2019-02-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2019-02-15&g=2019-02-15) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2019-02-15&g=2019-02-15), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2019-02-15&g=2019-02-15), in werking met ingang van 28 maart 2019.
 
 ##### Artikel 5.4. Citeertitel
 
