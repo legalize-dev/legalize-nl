@@ -4,7 +4,7 @@ identifier: "BWBR0041910"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041910"
 soort: "AMvB"
@@ -110,15 +110,15 @@ Onze Minister die belast is met de leiding van een ministerie draagt er zorg voo
 
 ##### Artikel 5. Reikwijdte toezicht
 
-Het toezicht, bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2018-01-01), is gericht op de naleving van:
+Het toezicht, bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2019-02-16), is gericht op de naleving van:
 
 de voorschriften, bedoeld in de [artikelen 3.1 tot en met 3.10, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.1).
 
 ##### Artikel 6. Bevoegdheden
 
-1. Nadat overleg met de secretaris-generaal van het betrokken ministerie is gevoerd kan de directeur FEZ Onze Minister die het aangaat rechtstreeks informeren, indien de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2018-01-01), daartoe aanleiding geven.
+1. Nadat overleg met de secretaris-generaal van het betrokken ministerie is gevoerd kan de directeur FEZ Onze Minister die het aangaat rechtstreeks informeren, indien de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2019-02-16), daartoe aanleiding geven.
 
-2. De dienstonderdelen van het betrokken ministerie verstrekken de directeur FEZ op zijn verzoek de informatie die naar zijn oordeel noodzakelijk voor de uitoefening van zijn taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2018-01-01).
+2. De dienstonderdelen van het betrokken ministerie verstrekken de directeur FEZ op zijn verzoek de informatie die naar zijn oordeel noodzakelijk voor de uitoefening van zijn taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041910&paragraaf=3&artikel=4&z=2019-02-16&g=2019-02-16).
 
 #### § 4. Slotbepalingen
 
