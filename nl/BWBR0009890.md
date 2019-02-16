@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2016-09-18"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.1
 
-1. In dit besluit wordt verstaan onder kwikhoudend product: product of onderdeel daarvan, waarin kwik of een kwikverbinding is toegepast of waaraan kwik of een kwikverbinding is toegevoegd.
+1. In dit besluit wordt verstaan onder «kwikverordening»: Verordening (EU) nr. 2017/852 van het Europees Parlement en de Raad van 17 mei 2017 betreffende kwik, en tot intrekking van Verordening (EG) nr. 1102/2008 (PbEU 2017, L 137).
 
-2. Onder kwikhoudend product wordt niet verstaan een stof of een preparaat als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+2. In dit besluit wordt verstaan onder «kwik», «kwikverbinding», «mengsel», «kwikhoudend product» en «kwikafval» hetgeen hieronder wordt verstaan in artikel 2 van de kwikverordening.
 
 ##### Artikel 1.2
 
@@ -62,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10).
 
-3. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in de [Regeling verpakking en verpakkingsafval](https://wetten.overheid.nl/jci1.3:c:BWBR0008775) regels zijn gesteld.
+3. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het [Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139) regels zijn gesteld.
 
 4. Dit besluit geldt voorts niet met betrekking tot een stof als bedoeld in [artikel 1, onderdeel a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), die kwik bevat.
 
@@ -90,7 +90,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.2
 
-Vervallen
+1. Het is verboden met kwikhoudende producten te handelen in strijd met de volgende bepalingen van de kwikverordening:
+
+- a. artikel 5, eerste lid, tenzij het product is uitgezonderd op grond van artikel 5, tweede lid, van de kwikverordening;
+
+- b. artikel 8, eerste lid, eerste alinea, tenzij sprake is van apparatuur of een situatie als bedoeld in artikel 8, eerste lid, tweede alinea.
+
+2. Bij ministeriële regeling kunnen andere kwikhoudende producten dan bedoeld in bijlage II bij de kwikverordening worden aangewezen waarvan de uitvoer, invoer en productie wordt verboden, indien een redelijk vermoeden is gerezen dat door handelingen met deze producten ongewenste effecten voor de gezondheid van de mens of voor het milieu zullen ontstaan.
 
 ##### Artikel 2.3
 
@@ -100,7 +106,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-09-18&g=2016-09-18), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-09-18&g=2016-09-18), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -134,7 +140,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-09-18&g=2016-09-18), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-09-18&g=2016-09-18), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
 
@@ -154,31 +160,75 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.6
 
-1. Het is met ingang van 15 maart 2011 verboden te handelen in strijd met de volgende bepalingen van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75):
+Het is verboden met kwik, kwikverbindingen en kwikmengsels, met inbegrip van kwikafval, te handelen in strijd met de volgende bepalingen van de kwikverordening:
 
-- a. artikel 1, eerste lid;
+- a. artikel 3, eerste en vierde lid;
 
-- b. artikel 1, derde lid;
+- b. artikel 3, tweede lid, tenzij uitvoer van kwikverbindingen is toegestaan op grond van artikel 3, derde lid, van de kwikverordening;
 
-- c. artikel 2.
+- c. artikel 4, eerste lid, eerste alinea, tenzij de invoer van kwik en kwikmengsels is toegestaan op basis van artikel 4, eerste lid, tweede alinea, van de kwikverordening;
 
-2. Het is verboden te handelen in strijd met artikel 5, derde lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75).
+- d. artikel 4, tweede en derde lid;
 
-3. Het is verboden te handelen in strijd met artikel 6, eerste tot en met derde lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75).
+- e. artikel 6, eerste volzin;
 
-4. Als bevoegde autoriteit, bedoeld in de artikelen 5, derde lid, en 6, eerste en tweede lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75), wordt aangewezen: Onze Minister. De ingevolge voornoemde artikelen te verstrekken gegevens worden gezonden aan Agentschap NL, postbus 93144, 2509 AC Den Haag, dan wel in plaats daarvan aan een door Onze Minister in de Staatscourant bekendgemaakt ander adres.
+- f. artikel 7, eerste tot en met derde lid, eerste alinea;
 
-#### § 3. Slotbepalingen
+- g. artikel 8, tweede lid, eerste alinea, tenzij sprake is van een situatie als bedoeld in artikel 8, tweede lid, tweede alinea;
+
+- h. artikel 9, eerste lid.
+
+#### § 2a. Handelingen met kwik, kwikverbindingen, kwikmengsels en kwikafval
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1.1a
 
-[Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2a&artikel=2.6&z=2016-09-18&g=2016-09-18) is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
+Dit besluit is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
 
 #### § 2. Handelingen met kwikhoudende producten
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
+
+#### § 3. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.5a
+
+1. Met ingang van 31 december 2018 is [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=1&artikel=1.2&z=2019-02-16&g=2019-02-16), niet van toepassing op kwikhoudende producten genoemd in bijlage II, Deel A, punt 3 tot en met 6, van de kwikverordening.
+
+2. Met ingang van 31 december 2018 zijn de verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), niet van toepassing op kwikhoudende producten bedoeld in bijlage II, deel A, punt 3 tot en met 6, van de kwikverordening.
+
+3. De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), zijn niet van toepassing indien toestemming is gekregen om een nieuw kwikhoudend product te produceren of in de handel te brengen, door middel van een besluit van de Europese Commissie op grond van artikel 8, zesde lid, van de kwikverordening.
+
+##### Artikel 2.7
+
+Het is verboden met kwikafval te handelen in strijd met de volgende bepalingen van de kwikverordening:
+
+- a. artikel 11;
+
+- b. artikel 12, eerste en tweede lid, tenzij sprake is van de situatie bedoeld in artikel 12, derde lid;
+
+- c. artikel 13, derde lid;
+
+- d. artikel 14.
+
+#### § 2b. Handelingen met tandheelkundig amalgaam
+
+##### Artikel 2.8
+
+Het is verboden met tandheelkundig amalgaam, met inbegrip van het afval daarvan, te handelen in strijd met artikel 10, eerste, tweede, vierde en zesde lid van de kwikverordening.
+
+#### § 2c. Bevoegde autoriteit
+
+##### Artikel 2.9
+
+1. Als bevoegde autoriteit, bedoeld in de artikelen 8, derde lid, 12, eerste lid, 14, vierde lid, en 17 van de kwikverordening, wordt aangewezen: Onze Minister.
+
+2. De ingevolge artikel 12 en 14 van de kwikverordening te verstrekken documenten en gegevens worden gezonden aan het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Infrastructuur en Waterstaat.
+
+3. Burgemeester en wethouders zijn, in plaats van Onze Minister, met de bestuursrechtelijke handhaving van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2b&artikel=2.8&z=2019-02-16&g=2019-02-16) belast, voor zover het handelen betreft als bedoeld in artikel 10, vierde en zesde lid, van de kwikverordening.
 
 #### § 3. Slotbepalingen
 
