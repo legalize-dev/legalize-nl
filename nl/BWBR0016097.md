@@ -4,7 +4,7 @@ identifier: "BWBR0016097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-08"
-last_updated: "2019-01-01"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016097"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - i. het bemiddelen bij het oplossen van financiële en andere de belanghebbende betreffende problemen die verband houden met het verblijf in het buitenland: € 50,–;
 
-- j. vervallen;
+- j. het verstrekken van een meertalig modelformulier € 23;
 
 - k. het bemiddelen bij een onderzoek naar het welzijn van een persoon, daaronder begrepen een onderzoek in geval van vermissing: € 120,– per uur;
 
@@ -193,9 +193,9 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ##### Artikel 3
 
-1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2019-01-01&g=2019-01-01), is in de Democratische Republiek Congo en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
+1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2019-02-16&g=2019-02-16), is in de Democratische Republiek Congo en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname en in Iran is verschuldigd in euro’s.
 
-2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
+2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
 ##### Artikel 4
 
@@ -209,7 +209,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
+1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
 
 - a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
@@ -223,9 +223,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8).
 
-2. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
+2. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
 
-3. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01), is niet verschuldigd door:
+3. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16), is niet verschuldigd door:
 
 - a. de vreemdeling die in aanmerking komt voor verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder k, van het Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2);
 
@@ -241,13 +241,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. de vreemdeling met het oog op gezinshereniging van een minderjarig biologisch of juridisch kind met een slachtoffer-aangever of een getuige-aangever van mensenhandel.
 
-Het tweede lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 3°’.
+Het tweede lid is van toepassing met dien verstande dat voor ‘[artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16)’ moet worden gelezen ‘artikel 1, onderdeel s, onder 3°’.
 
 4. In aanvulling op het tweede lid kan de Minister van Justitie en Veiligheid in overleg met de Minister van Buitenlandse Zaken bepalen dat de vastgestelde leges niet zijn verschuldigd in het belang van de internationale betrekkingen.
 
 ##### Artikel 3b
 
-Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-01-01&g=2019-01-01), niet verschuldigd indien de belanghebbende:
+Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2019-02-16&g=2019-02-16), niet verschuldigd indien de belanghebbende:
 
 - a. een, ter beoordeling van de Minister van Justitie en Veiligheid, gerechtvaardigd beroep op artikel 8 van het Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden (Trb. 1951, 154) doet;
 
