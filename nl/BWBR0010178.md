@@ -4,7 +4,7 @@ identifier: "BWBR0010178"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-01-01"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010178"
 soort: "wet"
@@ -98,6 +98,26 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 - j. overige onderwerpen die betrekking hebben op de uitvoering van deze wet.
 
+3. In aanvulling op het bepaalde krachtens het eerste en tweede lid kan de verstrekking van subsidie afhankelijk worden gesteld van het voldoen aan beoordelingsmaatstaven, niet strekkende tot verwezenlijking van het doel van de subsidie, met betrekking tot:
+
+- a. het beloningsbeleid van de subsidieaanvrager,
+
+- b. het integriteitsbeleid van de subsidieaanvrager,
+
+- c. de naleving van algemeen gangbare normen van maatschappelijk verantwoord ondernemen door de subsidieaanvrager,
+
+- d. de naleving van internationaal aanvaarde humanitaire principes door de subsidieaanvrager,
+
+- e. de positie van vrouwen,
+
+- f. de gevolgen voor het milieu,
+
+- g. de gevolgen voor internationaal erkende burger-, politieke, economische, sociale en culturele rechten van mensen en
+
+- h. overige uit oogpunt van algemeen belang bij algemene maatregel van bestuur geregelde beoordelingsmaatstaven.
+
+4. Aan de subsidie kunnen verplichtingen worden verbonden met betrekking tot de bij of krachtens deze wet geregelde beoordelingsmaatstaven.
+
 ##### Artikel 4
 
 1. Deze wet is niet van toepassing op subsidies waarvan de verstrekking bij afzonderlijke wet is geregeld.
@@ -110,9 +130,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 2. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.
 
-3. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
-
-4. Onze Minister kan in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
+3. Onze Minister kan in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
 
 ##### Artikel 6
 
@@ -136,8 +154,8 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6a
 
-1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01), van deze wet.
+1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2019-02-16&g=2019-02-16) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2019-02-16&g=2019-02-16), van deze wet.
 
-2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
+2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2019-02-16&g=2019-02-16) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
