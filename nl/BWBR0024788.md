@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2019-02-15"
+last_updated: "2019-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -67,7 +67,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de sector Rijk een ambtsjubileumgratificatie, een vakantie-uitkering en een eindejaarsuitkering.
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de sector Rijk een vakantie-uitkering, een eenmalige uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -78,6 +78,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 3. In de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.
 
 4. Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.
+
+5. De vice-president van de Raad van State, de president van de algemene Rekenkamer, de leden van de Raad van State en de staatsraden en de overige leden in gewone dienst van de Algemene Rekenkamer ontvangen een ambtsjubileumgratificatie op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de Sector Rijk.
 
 ##### Artikel 4
 
