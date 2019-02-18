@@ -4,7 +4,7 @@ identifier: "BWBR0041987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-18"
-last_updated: "2019-01-01"
+last_updated: "2019-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041987"
 soort: "ministeriele-regeling"
@@ -115,7 +115,7 @@ Wijzigt de Voorlopige Voorziening Uitvoeringsregeling AMAR.
 
 ##### Artikel 14
 
-Dit onderdeel is nog niet inwerking getreden
+Een aanvraag als bedoeld in [artikel 39a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), wordt vastgesteld op een door Onze Minister te bepalen datum.
 
 ### Hoofdstuk 4. Slotbepalingen
 
