@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2019-01-13"
+last_updated: "2019-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-02-19&g=2019-02-19) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-02-19&g=2019-02-19), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-01-13&g=2019-01-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-01-13&g=2019-01-13).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-02-19&g=2019-02-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-02-19&g=2019-02-19).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -313,9 +313,15 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 | Wft.D4.12 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
 | Wft.D4.13 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
 | Wft.D4.14 | artikel 3:95, eerste lid, aanhef en onderdeel g, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30 500 |
-| Wft.D4.15 | [artikel 3:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96), indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
-| Wft.D4.16 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
-| Wft.D4.17 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
+| Wft.D4.15 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
+| Wft.D4.16 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
+| Wft.D4.17 | artikel 3:95, eerste lid, aanhef en onderdeel h, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
+| Wft.D4.18 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
+| Wft.D4.19 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
+| Wft.D4.20 | artikel 3:95, eerste lid, aanhef en onderdeel i, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
+| Wft.D4.21 | [artikel 3:96, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96), indien DNB voor de behandeling van de aanvraag niet meer dan 15 uur nodig heeft | € 1.600 |
+| Wft.D4.22 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 15 uur en niet meer dan 150 uur nodig heeft | € 5.000 |
+| Wft.D4.23 | artikel 3:96, eerste lid, van de Wft, indien DNB voor de behandeling van de aanvraag meer dan 150 uur nodig heeft | € 30.500 |
 | **Onderdeel Wft.D5:** | **behandeling van een aanvraag tot verlening van een verklaring van ondertoezichtstelling als bedoeld in** |   |
 | Wft.D5.01 | [artikel 3:110, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) | € 44.300 |
 | **Onderdeel Wft.D6:** | **Inschrijving als bedoeld in** |   |
