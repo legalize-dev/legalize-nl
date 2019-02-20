@@ -4,7 +4,7 @@ identifier: "BWBR0039270"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-20"
-last_updated: "2017-04-01"
+last_updated: "2019-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039270"
 soort: "ministeriele-regeling"
@@ -48,19 +48,27 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Financiën;
+- a. **het ministerie:** het Ministerie van Financiën;
 
-- b. **het ministerie:** het ministerie van Financiën exclusief de Belastingdienst;
+- b. **het kernministerie:** het Ministerie van Financiën exclusief de Belastingdienst;
 
-- c. **medewerker:** degene die op basis van een ambtelijke aanstelling werkzaamheden verricht of heeft verricht bij het ministerie van Financiën;
+- c. **de Minister:** de Minister van Financiën;
 
-- d. **bezwaar:** een bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
+- d. **de medewerker:** degene die op basis van een ambtelijke aanstelling werkzaamheden verricht of heeft verricht bij het Ministerie van Financiën;
 
-- e. **de Commissie BZK:** de bezwarencommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties als bedoeld in het [Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK](https://wetten.overheid.nl/jci1.3:c:BWBR0026519) .
+- e. **het Organisatie- en mandaatbesluit:** het [Organisatie- en mandaatbesluit Ministerie van Financiën 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037135);
+
+- f. **bezwaar:** een bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
+
+- g. **de Commissie BZK:** de bezwarencommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties als bedoeld in het [besluit instelling bezwarenadviescommissie personele aangelegenheden BZK](https://wetten.overheid.nl/jci1.3:c:BWBR0026519).Stcrt. 2009, 15597.
 
 ##### Artikel 2
 
-De Commissie BZK adviseert de minister over de te nemen beslissing op een bezwaar van een medewerker.
+De commissie BZK adviseert de Minister over de te nemen beslissing:
+
+- 1. op een bezwaar van een medewerker van het kernministerie; en
+
+- 2. op een bezwaar van een medewerker van het ministerie tegen besluiten die ingevolge het [Organisatie- en mandaatbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037135) zijn voorbehouden aan de plaatsvervangend secretaris-generaal respectievelijk de secretaris-generaal van Financiën.
 
 ##### Artikel 3
 
