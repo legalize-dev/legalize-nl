@@ -4,7 +4,7 @@ identifier: "BWBR0029361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-14"
-last_updated: "2018-07-06"
+last_updated: "2019-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029361"
 soort: "ministeriele-regeling"
@@ -64,7 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - i. **verlofplan:** een beschrijving van de doelstellingen van het verlof van een ter beschikking gestelde of anderszins verpleegde, de plaats van het verlof binnen de behandeling, de voorwaarden waaronder het verlof plaats kan vinden alsmede de wijze waarop de risicofactoren onder controle worden gehouden;
 
-- j. **AVt:** Adviescollege Verloftoetsing tbs.
+- j. **AVt:** Adviescollege Verloftoetsing tbs;
+
+- k. **vervolgvoorziening:** een instelling waar de behandeling van de ter beschikking gestelde of anderszins verpleegde kan worden gecontinueerd of hem een langdurig verblijf met passend toezicht en begeleiding kan worden geboden;
+
+- l. **uitstroomplan:** een op de persoon toegesneden volgtijdelijk overzicht van resocialisatiestappen gericht op plaatsing in een vervolgvoorziening.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -106,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - d. indien een levenslange gevangenisstraf wordt ondergaan, tenzij de verpleegde activiteiten worden aangeboden als bedoeld in [artikel 1, onderdeel f, van het Besluit Adviescollege levenslanggestraften](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=1) en aan de overige voorwaarden voor het verlenen van verlof wordt voldaan.
 
-7. De risicotaxatie bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06), is niet ouder dan een jaar, gerekend vanaf de datum van de verlofaanvraag.
+7. De risicotaxatie bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23), is niet ouder dan een jaar, gerekend vanaf de datum van de verlofaanvraag.
 
 ##### Artikel 3
 
@@ -114,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het verzoek bevat die informatie die relevant is voor de gevraagde wijziging. De wijziging van het verlofplan past binnen de bestaande machtiging.
 
-3. Het verzoek voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06).
+3. Het verzoek voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23).
 
 ##### Artikel 4
 
@@ -132,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 1. Met het oog op een nieuwe machtiging wordt door het hoofd FPC een evaluatie opgesteld, die ten hoogste vier maanden en uiterlijk twee maanden voordat de machtiging verloopt, wordt ingediend.
 
-2. De evaluatie voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met vierde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06).
+2. De evaluatie voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met vierde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23).
 
 ##### Artikel 6
 
@@ -184,19 +188,23 @@ In deze regeling wordt verstaan onder:
 
 2. De machtiging proefverlof kan alleen worden verleend indien de voorgaande fasen van begeleid, onbegeleid en transmuraal verlof goed zijn verlopen of gemotiveerd zijn overgeslagen.
 
-### Hoofdstuk 4. Begeleid verlof in geval van long stay
+### Hoofdstuk 4. Verlof in geval van langdurige forensische en psychiatrische zorg
 
 ##### Artikel 12
 
-1. Voor de ter beschikking gestelde die geplaatst is in een longstay-voorziening wordt geen machtiging voor verlof verleend, behoudens het bepaalde in het tweede lid en het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2018-07-06&g=2018-07-06) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2018-07-06&g=2018-07-06).
+1. Voor de ter beschikking gestelde die geplaatst is in een longstay-voorziening wordt geen machtiging voor verlof verleend, behoudens het bepaalde in het tweede en vijfde lid en het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2019-02-23&g=2019-02-23) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2019-02-23&g=2019-02-23).
 
 2. Het hoofd FPC kan voor de ter beschikking gestelde, die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, een machtiging begeleid verlof aanvragen.
 
-3. De aanvraag voor een machtiging begeleid verlof voor een ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, bevat naast het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=3&artikel=8&z=2018-07-06&g=2018-07-06), informatie omtrent de aanvaarding door de ter beschikking gestelde van zijn verblijf in een longstay-voorziening.
+3. De aanvraag voor een machtiging begeleid verlof voor een ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23), informatie omtrent de aanvaarding door de ter beschikking gestelde van zijn verblijf in een longstay-voorziening.
 
 4. Het hoofd FPC kan de ter beschikking gestelde die geplaatst is in een longstay-voorziening en voor wie een laag beveiligingsniveau is vastgesteld, en voor wie een machtiging is verleend, begeleid verlof in groepsverband verlenen na toestemming van de Minister. De Minister geeft slechts toestemming voor bedoeld verlof, indien groepssamenstelling en groepsgrootte geen veiligheidsrisico’s voor de samenleving opleveren. De aanvraag voor begeleid groepsverlof bevat de informatie op basis waarvan bedoelde veiligheidsrisico’s kunnen worden afgewogen.
 
-5. De Minister kan aan de in het vorige lid bedoelde verlofverlening aanvullende voorwaarden verbinden.
+5. Het hoofd FPC kan voor de ter beschikking gestelde, die geplaatst is in een voorziening voor langdurige forensische en psychiatrische zorg en voor wie een laag beveiligingsniveau is vastgesteld, maximaal twee maal een machtiging onbegeleid verlof aanvragen indien bedoeld verlof noodzakelijk is voor de plaatsing in een vervolgvoorziening.
+
+6. De aanvraag als bedoeld in het vijfde lid bevat naast het bepaalde in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23), een uitstroomplan waarin de noodzaak van bedoeld verlof gemotiveerd wordt toegelicht.
+
+7. De Minister kan aan de in dit artikel bedoelde verlofverlening aanvullende voorwaarden verbinden.
 
 ### Hoofdstuk 5. Incidenteel verlof en de machtiging eenmalig begeleid verlof
 
@@ -204,7 +212,7 @@ In deze regeling wordt verstaan onder:
 
 1. De aanvraag voor een machtiging tot incidenteel verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn in de persoonlijke levenssfeer van de ter beschikking gestelde of anderszins verpleegde, die zijn aanwezigheid op een plaats buiten het FPC, om redenen van humanitaire aard, noodzakelijk maakt.
 
-2. Op een aanvraag voor een machtiging tot incidenteel verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06), niet van toepassing.
+2. Op een aanvraag voor een machtiging tot incidenteel verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23), niet van toepassing.
 
 3. In de aanvraag voor een machtiging tot incidenteel verlof geeft het hoofd FPC aan welke beveiliging en begeleiding hij noodzakelijk acht.
 
@@ -214,7 +222,7 @@ In deze regeling wordt verstaan onder:
 
 1. De aanvraag voor een machtiging voor eenmalig begeleid verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn, die de aanwezigheid van de ter beschikking gestelde of anderszins verpleegde op een plaats buiten het FPC noodzakelijk maakt, om redenen die voortvloeien uit de resocialisatie.
 
-2. Op een aanvraag voor een machtiging eenmalig begeleid verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06), niet van toepassing.
+2. Op een aanvraag voor een machtiging eenmalig begeleid verlof is [artikel 2, met uitzondering van het zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23), niet van toepassing.
 
 3. In de aanvraag voor een machtiging eenmalig begeleid verlof geeft het hoofd van het FPC aan welke beveiliging en/of begeleiding hij noodzakelijk acht.
 
@@ -250,7 +258,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 17
 
-1. Indien een machtiging is vervallen doordat de ter beschikking gestelde of anderszins verpleegde ten behoeve van wie de machtiging was verleend een strafbaar feit heeft gepleegd waarvoor voorlopige hechtenis is toegelaten wordt gedurende tenminste één jaar geen nieuwe machtiging verleend.
+1. Indien een machtiging is vervallen doordat de ter beschikking gestelde of anderszins verpleegde, ten behoeve van wie de machtiging was verleend, door het openbaar ministerie is aangemerkt als verdachte van een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, wordt gedurende tenminste één jaar geen nieuwe machtiging verleend. In afwijking van het voorgaande kan wel een nieuwe machtiging worden verleend indien de zaak is afgedaan door middel van sepot, een transactie of een strafbeschikking of de ter beschikking gestelde of anderszins verpleegde van dit feit wordt vrijgesproken, vanaf het moment dat de uitspraak onherroepelijk is.
 
 2. Indien een machtiging begeleid verlof of onbegeleid verlof zonder overnachtingen is vervallen doordat de ter beschikking gestelde of anderszins verpleegde, ten behoeve van wie de machtiging was verleend, tijdens het verlof langer dan 24 uur ongeoorloofd afwezig is geweest, wordt gedurende tenminste één jaar geen nieuwe machtiging verleend.
 
@@ -260,9 +268,9 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de Minister de machtiging heeft ingetrokken naar aanleiding van een ongeoorloofde afwezigheid korter dan 24 uur door een ter beschikking gestelde of anderszins verpleegde tijdens onbegeleid verlof, transmuraal verlof of proefverlof, wordt gedurende tenminste één jaar geen nieuwe machtiging verleend, tenzij zwaarwegende persoonlijke omstandigheden zich hiertegen verzetten.
 
-6. Indien in de gevallen vermeld in het vierde en vijfde lid binnen één jaar een nieuwe machtiging wordt aangevraagd, voldoet deze verlofaanvraag aan de vereisten van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2018-07-06&g=2018-07-06). De verlofaanvraag bevat daarnaast een nieuwe risicotaxatie, specifieke informatie over de ongeoorloofde afwezigheid en motiveert waarom sprake is van genoemde zwaarwegende persoonlijke omstandigheden.
+6. Indien in de gevallen vermeld in het vierde en vijfde lid binnen één jaar een nieuwe machtiging wordt aangevraagd, voldoet deze verlofaanvraag aan de vereisten van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2019-02-23&g=2019-02-23). De verlofaanvraag bevat daarnaast een nieuwe risicotaxatie, specifieke informatie over de ongeoorloofde afwezigheid en motiveert waarom sprake is van genoemde zwaarwegende persoonlijke omstandigheden.
 
-7. Het eerste tot en met vijfde lid zijn niet van toepassing in die gevallen dat een machtiging wordt aangevraagd op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2018-07-06&g=2018-07-06) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2018-07-06&g=2018-07-06).
+7. Het eerste tot en met vijfde lid zijn niet van toepassing in die gevallen dat een machtiging wordt aangevraagd op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2019-02-23&g=2019-02-23) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2019-02-23&g=2019-02-23).
 
 ### Hoofdstuk 7. Overgangsbepaling
 
