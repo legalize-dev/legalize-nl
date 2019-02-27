@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2019-01-01"
+last_updated: "2019-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -56,21 +56,23 @@ In dit besluit wordt verstaan onder:
 
 - e. **de Chief Analyst:** de Chief Analyst van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- **f. de programmamanager DTC:** de programmamanager Digital Trust Center van het Ministerie van Economische Zaken en Klimaat;
+- f. **de programmamanager DTC:** de programmamanager Digital Trust Center van het Ministerie van Economische Zaken en Klimaat;
 
-- g. **de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland:** de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland van het Ministerie van Economische Zaken en Klimaat;
+- g. **de programmamanager CSIRT-DSP:** de programmamanager van het Computer Security Incident Response Team voor Digital Service Providers (CSIRT-DSP) van het Ministerie van Economische Zaken en Klimaat;
 
-- h. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- h. **de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland:** de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- i. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
+- i. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- j. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- j. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
 
-- k. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- k. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- l. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- l. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- m. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- m. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+
+- n. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
