@@ -4,7 +4,7 @@ identifier: "BWBR0041945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-27"
-last_updated: "2019-01-01"
+last_updated: "2019-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041945"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister voor Medische Zorg;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041945&artikel=2&z=2019-02-27&g=2019-01-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041945&artikel=2&z=2019-02-27&g=2019-02-27).
 
 ##### Artikel 2. Instelling en taak
 
@@ -132,7 +132,7 @@ De commissie wordt opgeheven vier weken nadat het eindrapport is uitgebracht.
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. Het Ministerie van Volksgezondheid, Welzijn en Sport verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041945&artikel=6&z=2019-02-27&g=2019-01-01) bedoelde protocol.
+2. Het Ministerie van Volksgezondheid, Welzijn en Sport verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041945&artikel=6&z=2019-02-27&g=2019-02-27) bedoelde protocol.
 
 3. Ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
