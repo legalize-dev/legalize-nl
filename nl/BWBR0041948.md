@@ -4,7 +4,7 @@ identifier: "BWBR0041948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-02-28"
-last_updated: "2018-01-01"
+last_updated: "2019-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041948"
 soort: "ministeriele-regeling"
@@ -76,9 +76,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Het Audit Committee komt bijeen in de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2018-01-01) genoemde samenstelling.
+1. Het Audit Committee komt bijeen in de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2019-02-28) genoemde samenstelling.
 
-2. Daarnaast kunnen vergaderingen worden gepland met andere personen dan de leden genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2018-01-01).
+2. Daarnaast kunnen vergaderingen worden gepland met andere personen dan de leden genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2019-02-28).
 
 ##### Artikel 5
 
@@ -86,7 +86,7 @@ De zittingsduur van de externe leden is maximaal vier jaar. De zittingsduur kan 
 
 ##### Artikel 6
 
-Aan het externe lid, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2018-01-01), wordt een vaste vergoeding per maand toegekend. De toepasselijke salarisschaal is schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van 0,025.
+Aan het externe lid, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041948&artikel=3&z=2019-02-28&g=2019-02-28), wordt een vaste vergoeding per maand toegekend. De toepasselijke salarisschaal is schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van 0,025.
 
 ##### Artikel 7
 
