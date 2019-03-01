@@ -4,7 +4,7 @@ identifier: "BWBR0041347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-12"
-last_updated: "2018-09-18"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041347"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister van Infrastructuur en Waterstaat;
 
-- **project:** experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2018-09-18&g=2018-09-18) voldoet;
+- **project:** experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2019-04-19&g=2019-03-01) voldoet;
 
 - **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -166,7 +166,7 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 3. De aanvraag voor 2019 wordt uiterlijk 1 maart 2019 ingediend bij de uitvoeringsinstantie.
 
-4. De aanvraag bevat de in [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens en wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&bijlage=1&z=2018-09-18&g=2018-09-18) van deze subsidieregeling.
+4. De aanvraag bevat de in [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens en wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&bijlage=1&z=2019-04-19&g=2019-03-01) van deze subsidieregeling.
 
 ##### Artikel 11. Subsidieverstrekking en -vaststelling
 
@@ -190,7 +190,7 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019.
 
-## Bijlage 1. als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=9&z=2018-09-18&g=2018-09-18), van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
+## Bijlage 1. als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=9&z=2019-04-19&g=2019-03-01), van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
 
 ### Aanvraagformulier Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
 
