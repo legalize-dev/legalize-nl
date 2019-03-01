@@ -4,7 +4,7 @@ identifier: "BWBR0026924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-01"
-last_updated: "2014-01-01"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026924"
 soort: "ministeriele-regeling"
@@ -44,15 +44,7 @@ Besluit:
 
 ##### Artikel 1. Beeld van de uitvoering
 
-1. Het beeld van de uitvoering, bedoeld in [artikel 5, vierde lid, van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=5), wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de Minister van Sociale Zaken en Werkgelegenheid ontvangen.
-
-2. Het beeld van de uitvoering wordt ingediend onder gebruikmaking van een formulier dat door de Minister van Sociale Zaken en Werkgelegenheid elektronisch beschikbaar wordt gesteld.
-
-3. Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de Minister van Sociale Zaken en Werkgelegenheid de betaling van het participatiebudget voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de Minister van Sociale Zaken en Werkgelegenheid aan het college in geval van overmacht uitstel is verleend.
-
-4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de Minister van Sociale Zaken en Werkgelegenheid.
-
-5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de Minister van Sociale Zaken en Werkgelegenheid vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de wet.
+Vervallen
 
 ##### Artikel 2. Peiljaren en gewichten voor verdeelmaatstaven
 
