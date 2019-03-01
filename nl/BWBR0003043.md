@@ -4,7 +4,7 @@ identifier: "BWBR0003043"
 country: "nl"
 rank: "wet"
 publication_date: "2019-03-01"
-last_updated: "1998-01-21"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003043"
 soort: "wet"
@@ -66,9 +66,11 @@ De Raad heeft tot taak:
 
 2. Wij benoemen op voordracht van Onze Minister-President, Minister van Algemene Zaken, gedaan in overeenstemming met het gevoelen van de Raad van Ministers, de voorzitter en de overige leden van de Raad.
 
-3. De voorzitter en de overige leden worden, behoudens door Ons tussentijds verleend ontslag, benoemd voor vijf jaren. Zij zijn eenmaal terstond wederbenoembaar.
+3. De voorzitter en de overige leden worden, behoudens door Ons tussentijds verleend ontslag, benoemd voor vijf jaren. Zij zijn eenmaal terstond opnieuw benoembaar.
 
 4. Hij die is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op hetzelfde tijdstip waarop degene in wiens plaats hij is benoemd, zou moeten aftreden.
+
+5. In afwijking van het derde lid, tweede volzin, en het vierde lid, is de voorzitter tweemaal terstond opnieuw benoembaar indien deze is benoemd ter vervulling van een plaats die tussentijds is opengevallen binnen een jaar voorafgaand aan het tijdstip waarop degene in wiens plaats de voorzitter is benoemd, zou moeten aftreden.
 
 ##### Artikel 4
 
