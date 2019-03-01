@@ -4,7 +4,7 @@ identifier: "BWBR0036359"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-14"
-last_updated: "2018-06-02"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036359"
 soort: "zbo"
@@ -72,11 +72,11 @@ Besluit:
 
 - b. algemene regels, op grond van deze regeling;
 
-- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2018-06-02&g=2018-06-02) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2018-06-02&g=2018-06-02) van deze regeling;
+- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2019-03-01&g=2019-03-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2019-03-01&g=2019-03-01) van deze regeling;
 
 - d. een beoordelingsmodel bij iedere toets.
 
-2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2018-06-02&g=2018-06-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2018-06-02&g=2018-06-02) en 3.
+2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2019-03-01&g=2019-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2019-03-01&g=2019-03-01) en 3.
 
 3. De directeur stelt na de afname van een toets het correctievoorschrift aan de examinator ter beschikking.
 
@@ -120,7 +120,7 @@ Besluit:
 
 ##### Artikel 6. Vakspecifieke regels en beoordelingsmodel
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2018-06-02&g=2018-06-02), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02), en maken na bekendmaking deel uit van die bijlage.
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2019-03-01&g=2019-03-01), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01), en maken na bekendmaking deel uit van die bijlage.
 
 ##### Artikel 7. Vermeende fouten
 
@@ -128,7 +128,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 2. Degene die in de toets of het beoordelingsmodel een fout of onvolkomenheid meent te hebben geconstateerd kan deze fout aan het College voor Toetsen en Examens meedelen.
 
-3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2018-06-02&g=2018-06-02) te nemen.
+3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2019-03-01&g=2019-03-01) te nemen.
 
 4. Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel 2, tweede lid onder e, van de wet College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), rekening gehouden.
 
@@ -164,7 +164,7 @@ Het College voor Toetsen en Examens kan op voorstel van een vakcommissie besliss
 
 ##### Artikel 13. Aanpassing
 
-De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02) op onderdelen aan te passen.
+De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01) op onderdelen aan te passen.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -174,7 +174,7 @@ Deze regeling treedt in werking op 1 april 2015.
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2018-06-02&g=2018-06-02) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02) onder 2 opgenomen wijze.
+2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2019-03-01&g=2019-03-01) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01) onder 2 opgenomen wijze.
 
 ##### Artikel 16. Intrekking
 
@@ -206,13 +206,13 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 ### 3. Vakspecifieke regel(s)
 
-In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02).
+In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01).
 
 ### 4. Beoordelingsmodel
 
 (antwoorden en scores per vraag).
 
-Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02).
+Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01).
 
 ## Bijlage 2. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen, van 9 februari 2015, nummer CvTE-15.00617
 
@@ -236,7 +236,7 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 Voor het centraal schriftelijk en praktisch examen kunnen vakspecifieke regels worden vastgesteld.
 
-Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2018-06-02&g=2018-06-02).
+Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2019-03-01&g=2019-03-01).
 
 ### 4. Beoordelingsmodel
 
@@ -254,7 +254,644 @@ De examinator en de tweede examinator stellen in onderling overleg de score vast
 
 De directeur stelt het cijfer voor het cspe vast op basis van de regels voor omzetting van score naar cijfer.
 
-## Bijlage 3. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015, van 9 februari 2015, nummer CvTE-15.00617
+## Bijlage 3. bij de wijziging Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015, van 4 februari 2019, nummer CvTE-19.00004
+
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2019-03-01&g=2019-03-01), van de Regeling beoordelingsnormen en bijbehorende scores centraal examen vo worden door het College voor Toetsen en Examens voor het examenjaar 2019 vastgesteld voor elk van de vakken zoals vermeld in deze bijlage en maken na bekendmaking deel uit van die bijlage.
+
+**Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores.**
+
+**Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking**
+
+- a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt op Examenblad.nl. Dit gebeurt, behoudens vakken met testcorrectie, uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de vaststelling Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2019, voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.
+
+- b. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 1c, 1d, 2c, 2d, 3c, 3d, 4c 4d, 5c, 5d en 6 worden niet bekendgemaakt voordat het College voor Toetsen en Examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een centrale toets of centraal examen zullen uitmaken.
+
+- c. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 4e en 5e worden bekendgemaakt door de examinator toegang te geven tot de server waarop deze beoordelingsnormen worden bewaard.
+
+- d. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij tabellen 1e en 3e zijn tijdig per koerier verzonden t.a.v. de secretaris van het eindexamen. Via de Activiteitenplanning bij de Septembermededeling is de secretaris over de datum geïnformeerd.
+
+- e. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 3f, 4f en 5f worden tijdig per koerier verzonden t.a.v. de secretaris van het eindexamen. Via de Activiteitenplanning bij de Septembermededeling is de secretaris over de datum geïnformeerd.
+
+**Tabel 1**
+
+**Vakspecifieke regels, beoordelingsnormen en scores voorbereidend wetenschappelijk onderwijs**
+
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2019 worden vastgesteld voor wat betreft:
+
+- a. het eerste tijdvak conform tabel 1a;
+
+- b. het tweede tijdvak conform tabel 1b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 1c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. het derde tijdvak conform tabel 1d;
+
+- e. de centraal praktische examens tekenen, handvaardigheid en textiele vormgeving conform tabel 1e.
+
+| Nederlands |
+| --- |
+| Fries |
+| Latijn |
+| Grieks |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| Russisch |
+| Turks |
+| Arabisch |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| wiskunde C |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| muziek |
+| tekenen, handvaardigheid en textiele vormgeving |
+| filosofie |
+| maatschappijwetenschappen |
+| maatschappijwetenschappen (pilot) |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+
+| Nederlands |
+| --- |
+| Grieks |
+| Latijn |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| wiskunde C |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| filosofie |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+| maatschappijwetenschappen |
+| maatschappijwetenschappen (pilot) |
+
+| Fries |
+| --- |
+| Russisch |
+| Turks |
+| Arabisch |
+| muziek |
+| tekenen, handvaardigheid en textiele vormgeving |
+
+| Nederlands |
+| --- |
+| Fries |
+| Latijn |
+| Grieks |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| Russisch |
+| Turks |
+| Arabisch |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| wiskunde C |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| muziek |
+| tekenen, handvaardigheid en textiele vormgeving |
+| filosofie |
+| maatschappijwetenschappen |
+| maatschappijwetenschappen (pilot) |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+
+| tekenen |
+| --- |
+| handvaardigheid |
+| textiele vormgeving |
+
+**Tabel 2**
+
+**Vakspecifieke regels, beoordelingsnormen en scores hoger algemeen voortgezet onderwijs**
+
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2019 worden vastgesteld voor wat betreft
+
+- a. het eerste tijdvak conform tabel 2a;
+
+- b. het tweede tijdvak conform tabel 2b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 2c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. het derde tijdvak conform tabel 2d.
+
+| Nederlands |
+| --- |
+| Fries |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| Russisch |
+| Turks |
+| Arabisch |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| muziek |
+| tekenen, handvaardigheid en textiele vormgeving |
+| filosofie |
+| maatschappijwetenschappen |
+| Maatschappijwetenschappen-bezem |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| maatschappijwetenschappen |
+| filosofie |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+| tekenen, handvaardigheid en textiele vormgeving |
+
+| Fries |
+| --- |
+| Russisch |
+| Turks |
+| Arabisch |
+| muziek |
+| Maatschappijwetenschappen-bezem |
+
+| Nederlands |
+| --- |
+| Fries |
+| Frans |
+| Duits |
+| Engels |
+| Spaans |
+| Russisch |
+| Turks |
+| Arabisch |
+| geschiedenis |
+| aardrijkskunde |
+| wiskunde A |
+| wiskunde B |
+| natuurkunde |
+| scheikunde |
+| biologie |
+| economie |
+| management & organisatie |
+| muziek |
+| tekenen, handvaardigheid en textiele vormgeving |
+| filosofie |
+| maatschappijwetenschappen |
+| Maatschappijwetenschappen-bezem |
+| kunst (beeldende vormgeving / dans / drama / muziek / algemeen) |
+
+**Tabel 3**
+
+**Vakspecifieke regels, beoordelingsnormen en scores theoretische leerweg**
+
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg 2019 worden vastgesteld voor wat betreft:
+
+- a. het eerste tijdvak conform tabel 3a;
+
+- b. het tweede tijdvak conform tabel 3b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 3c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. het derde tijdvak conform tabel 3d;
+
+- e. de centraal praktische examens beeldende vakken conform tabel 3e.
+
+**Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg**
+
+- 1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg 2019 worden vastgesteld voor wat betreft de algemene vakken en de beroepsgerichte programma's met een centraal schriftelijke eindexamen voor wat betreft:
+
+- a. het eerste tijdvak conform tabel 3a;
+
+- b. het tweede tijdvak conform tabel 3b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 3c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. het derde tijdvak conform tabel 3d;
+
+- e. de centraal praktische examens beeldende vakken conform tabel 3e.
+
+- 2. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens gemengde leerweg 2019 worden vastgesteld voor wat betreft de beroepsgerichte programma's met een centraal schriftelijk en praktisch examen conform tabel 3f.
+
+| **algemene vakken** |
+| --- |
+| Nederlands |
+| Fries |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| natuur- en scheikunde II |
+| biologie |
+| beeldende vakken |
+| muziek |
+| dans |
+| drama |
+|   |
+| **gemengde leerweg, beroepsgerichte programma’s** |
+| transport en logistiek |
+| voertuigentechniek |
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| natuur- en scheikunde II |
+| biologie |
+| beeldende vakken |
+
+| **algemene vakken** |
+| --- |
+| Fries |
+| Arabisch |
+| Turks |
+| Spaans |
+| muziek |
+| dans |
+| drama |
+|   |
+| **gemengde leerweg, beroepsgerichte programma’s** |
+| transport en logistiek |
+| voertuigentechniek |
+
+| **algemene vakken** |
+| --- |
+| Nederlands |
+| Fries |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| natuur- en scheikunde II |
+| biologie |
+| beeldende vakken |
+| muziek |
+| dans |
+| drama |
+|   |
+| **gemengde leerweg, beroepsgerichte programma’s** |
+| transport en logistiek |
+| voertuigentechniek |
+
+| tekenen |
+| --- |
+| handenarbeid |
+| textiele werkvormen |
+| audiovisuele vormgeving |
+
+| grafimedia |
+| --- |
+| technologie in de gemengde leerweg , intersectoraal, ict-route |
+| bouw-breed, bouwtechniek-timmeren, bouwtechniek-schilderen, bouwtechniek-metselen, bouwtechniek-fijnhoutbewerken |
+| metaaltechniek, elektrotechniek, installatietechniek, metalektro, instalektro, techniek-breed |
+| consumptief |
+| handel en administratie, handel en verkoop, administratie, mode en commercie |
+| zorg-en-welzijn-breed, verzorging, uiterlijke verzorging |
+| landbouw |
+| bouwen, wonen en interieur |
+| produceren, installeren en energie |
+| mobiliteit en transport |
+| zorg en welzijn |
+| economie en ondernemen |
+| horeca, bakkerij en recreatie |
+| media, vormgeving en ict |
+| groen |
+| dienstverlening en producten |
+
+**Tabel 4**
+
+**Vakspecifieke regels, beoordelingsnormen en scores kaderberoepsgerichte leerweg**
+
+- 1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg 2019 worden vastgesteld voor de algemene vakken voor wat betreft:
+
+- a. het eerste tijdvak conform tabel 4a;
+
+- b. het tweede tijdvak conform tabel 4b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 4c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. d het derde tijdvak conform tabel 4d.
+
+- 2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg 2019 voor wat betreft de algemene vakken vastgesteld conform tabel 4e voor zover deze vakken digitaal flexibel worden afgenomen.
+
+- 3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens kaderberoepsgerichte leerweg 2019 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 4f.
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+**Tabel 4b**
+
+**kaderberoepsgerichte leerweg 2019, tweede tijdvak (openbaar)**
+
+Alle vakken worden afgenomen als aangewezen vak, zie tabel 4c.
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| Nederlands |
+| --- |
+| Duits |
+| Engels |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| bouwtechniek-timmeren |
+| --- |
+| bouwtechniek-fijnhoutbewerken |
+| bouwtechniek-metselen |
+| bouwtechniek-schilderen |
+| bouw-breed |
+| elektrotechniek |
+| grafimedia |
+| installatietechniek |
+| metaaltechniek |
+| transport en logistiek |
+| voertuigentechniek |
+| metalektro |
+| instalektro |
+| techniek-breed |
+| ICT-route |
+| uiterlijke verzorging |
+| verzorging |
+| zorg-en-welzijn-breed |
+| sport, dienstverlening en veiligheid |
+| intersectoraal technologie en commercie |
+| intersectoraal technologie en dienstverlening |
+| intersectoraal dienstverlening en commercie |
+| administratie |
+| consumptief-horeca |
+| consumptief-bakken |
+| handel en verkoop |
+| mode en commercie |
+| handel en administratie |
+| consumptief-breed |
+| plantenteelt open teelten |
+| plantenteelt gesloten teelten |
+| groene ruimte |
+| bloembinden en -schikken |
+| dierhouderij & verzorging productiedieren |
+| dierhouderij & verzorging gezelschapsdieren |
+| verwerking agrarische producten |
+| agrarische bedrijfseconomie |
+| agrarische techniek |
+| landbouw-breed |
+| bouwen, wonen en interieur |
+| produceren, installeren en energie |
+| mobiliteit en transport |
+| zorg en welzijn |
+| economie en ondernemen |
+| horeca, bakkerij en recreatie |
+| media, vormgeving en ict |
+| groen |
+| dienstverlening en producten |
+
+**Tabel 5**
+
+**Vakspecifieke regels, beoordelingsnormen en scores basisberoepsgerichte leerweg**
+
+- 1. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg 2019 worden vastgesteld voor de algemene vakken voor wat betreft:
+
+- a. het eerste tijdvak conform tabel 5a;
+
+- b. het tweede tijdvak conform tabel 5b, behoudens de vakken die met geheimhouding worden afgenomen;
+
+- c. het tweede tijdvak conform tabel 5c voor wat betreft de vakken die met geheimhouding worden afgenomen;
+
+- d. het derde tijdvak conform tabel 5d.
+
+- 2. In afwijking van het vermelde onder 1 worden de vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg 2019 voor wat betreft de algemene vakken vastgesteld conform tabel 5e voor zover deze vakken digitaal flexibel worden afgenomen.
+
+- 3. De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens basisberoepsgerichte leerweg 2019 worden vastgesteld voor wat betreft de beroepsgerichte programma's conform tabel 5f.
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+**Tabel 5b**
+
+**basisberoepsgerichte leerweg 2019, tweede tijdvak (openbaar)**
+
+Alle vakken worden afgenomen als aangewezen vak, zie tabel 5c.
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| Nederlands |
+| --- |
+| Frans |
+| Duits |
+| Engels |
+| Arabisch |
+| Turks |
+| Spaans |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| Nederlands |
+| --- |
+| Duits |
+| Engels |
+| economie |
+| maatschappijkunde |
+| aardrijkskunde |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+| natuur- en scheikunde I |
+| biologie |
+
+| bouwtechniek-timmeren |
+| --- |
+| bouwtechniek-fijnhoutbewerken |
+| bouwtechniek-metselen |
+| bouwtechniek-schilderen |
+| bouw-breed |
+| elektrotechniek |
+| grafimedia |
+| installatietechniek |
+| metaaltechniek |
+| transport en logistiek |
+| voertuigentechniek |
+| metalektro |
+| instalektro |
+| techniek-breed |
+| ICT-route |
+| uiterlijke verzorging |
+| verzorging |
+| zorg-en-welzijn-breed |
+| sport, dienstverlening en veiligheid |
+| intersectoraal technologie en commercie |
+| intersectoraal technologie en dienstverlening |
+| intersectoraal dienstverlening en commercie |
+| administratie |
+| consumptief-horeca |
+| consumptief-bakken |
+| handel en verkoop |
+| mode en commercie |
+| handel en administratie |
+| consumptief-breed |
+| plantenteelt open teelten |
+| plantenteelt gesloten teelten |
+| groene ruimte |
+| bloembinden en -schikken |
+| dierhouderij & verzorging productiedieren |
+| dierhouderij & verzorging gezelschapsdieren |
+| verwerking agrarische producten |
+| landbouw-breed |
+| bouwen, wonen en interieur |
+| produceren, installeren en energie |
+| mobiliteit en transport |
+| zorg en welzijn |
+| economie en ondernemen |
+| horeca, bakkerij en recreatie |
+| media, vormgeving en ict |
+| groen |
+| dienstverlening en producten |
+
+| rekentoets 3F |
+| --- |
+| rekentoets 2F |
+| rekentoets 3ER |
+| rekentoets 2ER |
+| rekentoets 2A (pilot) |
+| rekentoets 2A-ER (pilot) |
+| rekentoets 3S (pilot) |
+
+De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden ([artikel 46 lid 6 Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=46)).
 
 De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2018-06-02&g=2018-06-02), van de Regeling beoordelingsnormen en bijbehorende scores centraal examen vo worden door het College voor Toetsen en Examens voor het examenjaar 2018 vastgesteld voor elk van de vakken zoals vermeld in deze bijlage en maken na bekendmaking deel uit van die bijlage.
 
