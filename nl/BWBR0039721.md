@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2017-12-20"
+last_updated: "2019-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -78,7 +78,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Voor subsidieverstrekking op grond van deze regeling is in 2017 een bedrag van € 5.100.000 beschikbaar.
 
-2. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
+2. Voor subsidieverstrekking op grond van deze regeling is voor 2019 een bedrag van € 16.342.750,– beschikbaar.
+
+3. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
@@ -110,11 +112,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. het zet in op ouderbetrokkenheid,
 
-- e. het bevat ten minste twee van de volgende drie inhoudelijke lijnen:
+- e. het bevat ten minste twee van de volgende drie inhoudelijke lijnen, waarvan lijn iii. altijd aanwezig is:
 
 - i. het versterken van cognitieve vaardigheden,
 
-- ii. het versterken van metacognitieve vaardigheden, of
+- ii. het versterken van metacognitieve vaardigheden,
 
 - iii. het inzetten op omgevingsfactoren en de thuissituatie.
 
@@ -129,6 +131,8 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 3. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
 4. De aanvraag bevat een door alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen getekende verklaring, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
+
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2019-03-01&g=2019-03-01).
 
 ##### Artikel 8. Subsidieaanvraag
 
@@ -174,6 +178,8 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De bij de doorstroomprogramma’s betrokken bevoegd gezagen nemendeel aan de monitor en stellen de daarvoor benodigde gegevens beschikbaar aan daartoe door de minister aangewezen onderzoeksinstellingen.
 
+3. De bij de doorstroomprogramma’s betrokken bevoegd gezagen hebben een inspanningsverplichting om toestemming te verkrijgen van de ouders van leerlingen van deelnemende scholen om de leerlingen te volgen voor het effectonderzoek.
+
 ##### Artikel 14. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
@@ -182,6 +188,6 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 15. Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo.
+Deze regeling wordt aangehaald als: Subsidieregeling doorstroomprogramma’s po-vo voor gelijke kansen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
