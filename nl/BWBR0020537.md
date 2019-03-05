@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2019-01-01"
+last_updated: "2019-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -198,45 +198,19 @@ De posten waarin de begroting, bedoeld in [artikel 1:30 van de wet](https://wett
 
 ##### Artikel 11
 
-1. De leden van de vertrouwenscommissie, bedoeld in [artikel 3:150, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:150), worden voor ten hoogste vijf jaren op gezamenlijke voordracht van de Nederlandsche Bank en de vertegenwoordigende organisaties van levensverzekeraars benoemd. De Nederlandsche Bank en de vertegenwoordigende organisaties dragen voor iedere vacature in de vertrouwenscommissie ten minste een kandidaat voor. Herbenoeming van een lid is mogelijk.
-
-2. De Minister van Financiën benoemt op gezamenlijke voordracht van de Nederlandsche Bank en de vertegenwoordigende organisaties van levensverzekeraars een van de leden als voorzitter.
-
-3. Indien geen overeenstemming wordt bereikt over een gezamenlijke voordracht doet de directie van de Nederlandsche Bank hiervan mededeling aan de Minister van Financiën. Deze neemt in dat geval zonder voordracht een besluit omtrent benoeming of aanwijzing.
+Vervallen
 
 ##### Artikel 12
 
-1. De Minister van Financiën besluit binnen drie maanden na ingang van de schorsing, bedoeld in [artikel 3:150, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:150), tot opheffing of verlenging van de schorsing of tot ontslag.
-
-2. De schorsing wordt slechts eenmaal verlengd, voor ten hoogste drie maanden.
-
-3. De schorsing vervalt indien:
-
-- a. na ingang van de schorsing niet binnen drie maanden is besloten tot opheffing of verlenging van de schorsing of tot ontslag; of
-
-- b. na een besluit tot verlenging niet binnen drie maanden is besloten tot opheffing van de schorsing of tot ontslag.
+Vervallen
 
 ##### Artikel 13
 
-1. De Minister van Financiën ontslaat een lid van de vertrouwenscommissie:
-
-- a. ambtshalve; of
-
-- b. op verzoek van het betreffende lid.
-
-2. De Minister van Financiën ontslaat een lid van de vertrouwenscommissie in ieder geval ambtshalve indien het betreffende lid in staat van faillissement wordt verklaard, onder curatele of onder bewind wordt gesteld of op andere wijze de vrije beschikking over zijn vermogen verliest.
+Vervallen
 
 ##### Artikel 14
 
-1. De vertrouwenscommissie kan haar taken in gezamenlijk overleg verdelen.
-
-2. De vertrouwenscommissie vergadert op verzoek van de Nederlandsche Bank of indien zij dit noodzakelijk acht voor de uitoefening van haar taken.
-
-3. De vertrouwenscommissie beslist bij meerderheid van stemmen in een vergadering waarin ten minste de helft van het aantal in functie zijnde leden en de voorzitter aanwezig is. De vertrouwenscommissie beslist alleen buiten een vergadering, indien een voorstel tot het besluit aan alle in functie zijnde leden is voorgelegd en geen van de leden zich tegen de besluitvorming heeft verzet.
-
-4. De vertrouwenscommissie beslist onverwijld en in elk geval binnen een maand op een verzoek om advies of bijstand van de Nederlandsche Bank als bedoeld in [artikel 3:150, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:150).
-
-5. Indien de vertrouwenscommissie niet binnen een maand beslist nadat de Nederlandsche Bank hierom heeft verzocht, kan de Nederlandsche Bank haar besluitvorming voortzetten zonder advies of bijstand van de vertrouwenscommissie.
+Vervallen
 
 ### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
 
@@ -248,17 +222,17 @@ De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkba
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2019-03-05&g=2019-01-01).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2019-03-05&g=2019-03-05).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2019-03-05&g=2019-01-01).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2019-03-05&g=2019-03-05).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-01-01).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-03-05) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-03-05).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-01-01).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-03-05) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-03-05).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -348,7 +322,7 @@ Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzeker
 
 ### **Ondervolmacht**
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2019-03-05&g=2019-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2019-03-05&g=2019-03-05) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
@@ -390,7 +364,7 @@ Een bank die een verzoek doet als bedoeld in [artikel 3:33a, eerste lid, van de 
 
 - d. de overeenkomst of overeenkomsten van de rechtspersoon die rechthebbende is van de dekkingsactiva met zijn bestuurder;
 
-- e. de overeenkomst met een externe accountant voor de controle van de dekkingsactiva, bedoeld in [artikel 20f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20f&z=2019-03-05&g=2019-01-01);
+- e. de overeenkomst met een externe accountant voor de controle van de dekkingsactiva, bedoeld in [artikel 20f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20f&z=2019-03-05&g=2019-03-05);
 
 - f. een schriftelijke verklaring van een bestuurder van de bank die het verzoek doet, inhoudende dat de obligaties voldoen aan de [artikelen 40d tot en met 40h van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d); en
 
@@ -720,9 +694,9 @@ De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkba
 
 ### Hoofdstuk 12. Slotbepalingen
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-01-01)
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2019-03-05&g=2019-03-05)
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-01-01)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2019-03-05&g=2019-03-05)
 
 ### **Toepasselijk recht**
 
