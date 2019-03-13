@@ -4,7 +4,7 @@ identifier: "BWBR0041989"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-07-22"
-last_updated: "2019-01-01"
+last_updated: "2019-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041989"
 soort: "zbo"
@@ -105,9 +105,9 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 6
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-01-01) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 7
 
@@ -127,7 +127,7 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 ##### Artikel 8
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=7&z=2019-03-13&g=2019-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=7&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 9
 
@@ -163,9 +163,9 @@ Bij de nadere vaststelling verdeelt het Zorginstituut het bedrag voor de zorgkan
 
 ##### Artikel 14
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-01-01) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 15
 
@@ -185,7 +185,7 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 ##### Artikel 16
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=15&z=2019-03-13&g=2019-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=15&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 17
 
@@ -217,9 +217,9 @@ Bij de definitieve vaststelling verdeelt het Zorginstituut het bedrag voor de zo
 
 ##### Artikel 21
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-01-01) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-01-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 22
 
@@ -241,7 +241,7 @@ bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overhe
 
 ##### Artikel 23
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=22&z=2019-03-13&g=2019-01-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=22&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 24
 
