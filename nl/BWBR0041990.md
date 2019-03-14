@@ -4,7 +4,7 @@ identifier: "BWBR0041990"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-08"
-last_updated: "2019-03-01"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041990"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Er is een Muntadviescommissie, die tot taak heeft de Staatssecretaris van Financ
 
 ##### Artikel 5. Benoeming eerste leden
 
-Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2019-03-14&g=2019-03-01), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
+Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2019-03-14&g=2019-03-14), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
 
 - a. de heer mr. M. Bloemendal (numismaat);
 
