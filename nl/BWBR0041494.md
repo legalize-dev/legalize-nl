@@ -4,7 +4,7 @@ identifier: "BWBR0041494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-14"
-last_updated: "2018-11-01"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041494"
 soort: "ministeriele-regeling"
@@ -50,13 +50,11 @@ Besluit:
 
 1. De Minister merkt een organisatie op aanvraag voor een periode van maximaal vijf jaar aan als Gratis VOG-organisatie, indien is voldaan aan de volgende voorwaarden:
 
-- a. de organisatie is een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon die krachtens publiekrecht is ingesteld;
+- a. binnen de organisatie werken vrijwilligers met kwetsbare personen;
 
-- b. binnen de organisatie werken vrijwilligers met kwetsbare personen;
+- b. de voor de organisatie werkzame vrijwilligers zijn niet reeds op grond van wet- of regelgeving gehouden om een verklaring omtrent het gedrag aan te vragen;
 
-- c. de voor de organisatie werkzame vrijwilligers zijn niet reeds op grond van wet- of regelgeving gehouden om een verklaring omtrent het gedrag aan te vragen;
-
-- d. de organisatie hanteert een actief en gedegen preventie- en integriteitsbeleid.
+- c. de organisatie hanteert een actief en gedegen preventie- en integriteitsbeleid.
 
 2. Als kwetsbare personen, als bedoeld in het eerste lid, onder b, worden in ieder geval aangemerkt:
 
@@ -82,11 +80,11 @@ Besluit:
 
 ##### Artikel 4
 
-1. Een als Gratis VOG-organisatie aangemerkte organisatie toont op verzoek van de Minister aan dat zij voldoet aan de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041494&artikel=2&z=2018-11-01&g=2018-11-01).
+1. Een als Gratis VOG-organisatie aangemerkte organisatie toont op verzoek van de Minister aan dat zij voldoet aan de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041494&artikel=2&z=2019-03-14&g=2019-03-14).
 
 2. De Minister kan de aanmerking van de organisatie als Gratis VOG-organisatie stopzetten, indien:
 
-- a. de organisatie niet voldoet aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041494&artikel=2&z=2018-11-01&g=2018-11-01), genoemde voorwaarden;
+- a. de organisatie niet voldoet aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041494&artikel=2&z=2019-03-14&g=2019-03-14), genoemde voorwaarden;
 
 - b. de organisatie oneigenlijk gebruik maakt van haar aanmerking als Gratis VOG-organisatie, of;
 
