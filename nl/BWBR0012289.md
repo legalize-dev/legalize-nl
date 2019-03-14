@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2019-02-12"
+last_updated: "2019-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -5507,27 +5507,27 @@ Als het afhankelijke gezinslid van de ex-geprivilegieerde niet zelfstandig en du
 
 De vreemdeling:
 
-### 10.2.1. Begrippen
+### 1. Inleiding
 
-Bij deze belangenafweging worden de volgende factoren betrokken:
+Vanwege de voorgenomen terugtrekking van het Verenigd Koninkrijk (VK) uit de Europese Unie (EU) is voorzienbaar dat onderdanen van het Verenigd Koninkrijk (hierna: VK-onderdanen) per 29 maart 2019 geen burgers van de Unie meer zijn. Het (declaratoire) verblijfsrecht van VK-onderdanen en hun (derdelands) familieleden (verder te noemen: familieleden) die hun recht op vrij verkeer in Nederland uitoefenen zal dan per 29 maart 2019 komen te vervallen.
 
-Het economisch welzijn van Nederland is een van de gronden waarop inmenging in het familie- of gezinsleven, bedoeld in artikel 8 EVRM, kan worden gerechtvaardigd. Bij de belangenafweging die toetsing aan artikel 8 EVRM meebrengt, komt aan het feit dat er sprake is van vrijwillige of verwijtbare werkloosheid en van een beroep op de publieke middelen een zodanig zwaar gewicht toe, dat verblijfsbeëindiging veelal een gerechtvaardigde inmenging zal betekenen.
+In dit hoofdstuk is de Terugtrekkingsregeling verblijfsrecht VK-onderdanen en familieleden (verder: de Terugtrekkingsregeling) opgenomen. De Terugtrekkingsregeling bevat beleidsregels om het verblijfsrecht van VK-onderdanen en hun familieleden na de de terugtrekking van het VK uit de EU per 29 maart 2019 te regelen indien hierover geen akkoord wordt gesloten tussen het VK en de EU. Wanneer de terugtrekking van het VK uit de EU niet per 29 maart 2019 plaatsvindt of niet op de wijze zoals in de Terugtrekkingsregeling bedoeld, wordt deze Terugtrekkingsregeling onverwijld ingetrokken.
 
-Gelet op het voorgaande wordt behoudens de vrijstellingsgronden van [artikel 3.85 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.85) (zie hieronder) de aanvraag om verlenging van de geldigheidsduur, bij een beroep op de publieke middelen, in ieder geval afgewezen indien de hoofdpersoon tijdens de geldigheid van de verblijfsvergunning vrijwillig of door eigen toedoen werkloos is geworden.
+De Terugtrekkingsregeling bevat een overgangsregeling en een definitieve regeling. Deze regelingen gelden voor VK-onderdanen en hun familieleden, die op 29 maart 2019 rechtmatig verblijf in Nederland hebben op grond van de regels voor het recht op vrij verkeer en verblijf ([richtlijn 2004/38/EG](32004L0038)).
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de voorwaarden genoemd in [artikel 3.92, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92).
+De IND verleent ambtshalve, gedurende een nationale overgangsperiode, een verblijfsvergunning aan VK-onderdanen en hun familieleden die op 29 maart 2019 in Nederland rechtmatig verblijf hebben, onder de in paragraaf B13/2.1 Vc genoemde voorwaarden.
 
-Het enkele feit dat iemand werkloos is na het einde van een arbeidsovereenkomst voor bepaalde duur, is onvoldoende om aan te nemen dat sprake is van vrijwillige werkloosheid. Vrijwillige werkloosheid kan wel worden aangenomen indien er andere feiten en omstandigheden zijn waaruit kan worden afgeleid dat het einde van het dienstverband een niet-onvrijwillig karakter heeft of dat na einde dienstverband de werkloosheid alsnog een niet-onvrijwillig karakter heeft gekregen, hetgeen onder meer kan blijken uit uitsluiting van of strafkorting op de uitkering.
+Deze overgangsperiode start op 29 maart 2019 en eindigt op 1 juli 2020. Omwille van een ordentelijke afhandeling start de IND reeds vóór 29 maart 2019 met het ambtshalve beoordelen en versturen van deze verblijfsvergunningen.
 
-De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de vreemdeling als bedoeld in [artikel 3.93, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en met inachtneming van artikel 3.93, tweede, derde en vierde lid, Vb.
+Voor zover de situatie zich voordoet dat de terugtrekking niet doorgaat dan wel niet op de wijze zoals in de Terugtrekkingsregeling beschreven, en de Terugtrekkingsregeling om die reden wordt ingetrokken, geldt het volgende. In dat geval is duidelijk dat reeds verleende verblijfsvergunningen hun betekenis hebben verloren. De VK-onderdaan en zijn familieleden hebben de aan hen verleende verblijfsvergunning in dat geval ook niet nodig om te voorzien in hun verblijfsrecht. In dat geval wordt rechtstreeks verblijfsrecht ontleent aan [richtlijn 2004/38/EG](32004L0038).
 
-De IND verleent een verblijfsvergunning voor onbepaalde tijd aan het afhankelijk gezinslid van een ex-geprivilegieerde als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en wordt voldaan aan [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), artikel 3.93, derde lid, Vb en [artikel 3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93).
+Tijdens de nationale overgangsperiode nodigt de IND deze VK-onderdanen en hun familieleden uit om een aanvraag om een verblijfsvergunning op grond van de definitieve regeling in te dienen. De IND beoordeelt of deze VK-onderdanen en hun familieleden in aanmerking komen voor een verblijfsvergunning regulier voor bepaalde tijd of onbepaalde tijd als bedoeld in paragraaf B13/3.1 en B13/4.1 Vc.
 
 ### 8.5.3. Afwijking van het middelenvereiste
 
-Ingevolge [artikel 3.85 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.85) wordt de aanvraag tot het verlengen niet afgewezen wegens het ontbreken van voldoende middelen van bestaan indien de hoofdpersoon 65 jaar of ouder is of naar het oordeel van de Minister blijvend en volledig arbeidsongeschikt is.
+VK-onderdanen die niet op 29 maart 2019 rechtmatig in Nederland verblijven kunnen geen aanspraak maken op de voorwaarden voor verblijf van zowel de overgangsregeling als de definitieve regeling. Er is bij deze VK-onderdanen geen sprake van opgebouwde rechten in Nederland op grond van de regels van het recht op vrij verkeer en verblijf ([richtlijn 2004/38/EG](32004L0038)). Zij zijn derdelanders op wie het algemene reguliere beleid van hoofdstuk B1 Vc van toepassing is.
 
-IND trekt de verblijfsvergunning regulier voor onbepaalde tijd in als zich een omstandigheid voordoet als genoemd in [artikel 22, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) en als de [artikelen 3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.97) en [3.98 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98) hierop geen uitzondering maken.
+De IND verstaat onder familieleden van de VK-onderdaan: familieleden als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), ongeacht hun nationaliteit, tenzij anders vermeld.
 
 Indien er sprake is van inmenging, wordt beoordeeld of die inmenging gerechtvaardigd is op grond van artikel 8, tweede lid, EVRM. Die beoordeling bestaat uit drie stappen.
 
@@ -5535,43 +5535,43 @@ Paragraaf B9/18.1 Vc is van toepassing.
 
 ### 10.2.3. Belangenafweging
 
-De IND beschouwt een verklaring van het Ministerie van BuZa waaruit blijkt dat de vreemdeling tien aaneengesloten jaren in Nederland heeft verbleven als afhankelijk gezinslid van een vreemdeling die gedurende deze periode in Nederland heeft verbleven op grond van een geprivilegieerde status als bewijsmiddel dat de vreemdeling voldoet aan de voorwaarde als bedoeld in [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93).
+De IND gaat er ook van uit dat op 29 maart 2019 aan deze voorwaarden wordt voldaan, indien:
 
 ### 9.2.3. Belangenafweging
 
-Als het afhankelijke gezinslid van de ex-geprivilegieerde niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan, dan beschouwt de IND een verklaring van de ex-geprivilegieerde waaruit blijkt dat het afhankelijke gezinslid kan beschikken over het inkomen als bewijsmiddel dat het afhankelijke gezinslid zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.
+De VK-onderdaan en zijn familielid kunnen hun verblijfsrecht enkel aantonen door deze verblijfsvergunning te gebruiken in combinatie met een geldig document voor grensoverschrijding. Het familielid dat niet de EU nationaliteit heeft moet daarnaast, in combinatie met een geldig document voor grensoverschrijding, het (verlopen) EU verblijfsdocument tonen dat eerder als bewijs van EU toetsing voor verblijf bij EU burger is afgegeven om zijn verblijfsrecht aan te tonen.
 
 ### 3.2. Verblijfsrechtelijke positie na remigratie
 
 ### 2.2.3. De bepalingen van B3 zijn van toepassing op de aanvraag
 
-In de volgende gevallen kan eveneens sprake zijn van familie- of gezinsleven als bedoeld in artikel 8 EVRM:
+Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 29 maart 2019 wonen. Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
 
 ### 9.2.3.1. De af te wegen belangen in specifieke situaties
 
-Het gezinsleven tussen ouders en kinderen eindigt slechts in zeer uitzonderlijke situaties. Ook indien men niet samenwoont of maar heel kort heeft samengewoond, of indien er in een periode weinig of geheel geen contact is geweest, zijn er andere zwaarwegende feiten nodig om het gezinsleven als beëindigd te kunnen aanmerken. De enkele ondertoezichtstelling of uithuisplaatsing van het kind beëindigt bijvoorbeeld niet het gezinsleven.
+Familieleden die na de overgangsperiode een aanvraag voor een verblijfsvergunning voor gezinshereniging indienen moeten voldoen aan de voorwaarden van het nationale gezinshereningsbeleid van hoofdstuk B7 Vc.
 
 In de zaak Bensaid van 6 februari 2001, nr 44599/98, heeft het EHRM het begrip privé-leven als volgt gedefinieerd: ‘Privé-leven is een ruim begrip en leent zich niet voor een uitputtende definitie. Het Hof heeft inmiddels bepaald dat elementen als vereenzelviging met een bepaald geslacht (gender identification), naam, seksuele oriëntatie en seksueel leven belangrijke elementen zijn van de persoonlijke sfeer die door artikel 8 EVRM beschermd worden. Geestelijke gezondheid moet ook gezien worden als een essentieel deel van privé-leven in het kader van het aspect morele integriteit. Artikel 8 EVRM beschermt het recht op een identiteit, persoonlijke ontwikkeling en het recht om relaties aan te gaan en te ontwikkelen met andere mensen en de buitenwereld. Het behoud van een geestelijke stabiliteit is in deze context een onontbeerlijke voorwaarde om het recht op respect voor het privé-leven effectief te genieten’.
 
-In de (latere) uitspraak in de zaak Üner, van 18 oktober 2006, nr 46410/99, heeft het EHRM overwogen: ‘Artikel 8 EVRM beschermt echter ook het recht om relaties met andere mensen te stichten en te ontwikkelen en kan onder omstandigheden aspecten van iemands sociale identiteit omvatten’. Het EHRM overweegt verder dat in dat licht het totaal aan sociale banden van ingeburgerde vreemdelingen en de samenleving waarin zij leven onderdeel kan zijn van het begrip privé-leven.
+De IND verleent geen verblijfsvergunning als bedoeld in paragraaf B13/2.1 Vc als bij de VK-onderdaan of een familielid sprake is van één van de volgende contra-indicaties:
 
-In geval van gezinsleven met in Nederland gevestigde kinderen dienen in ieder geval (tevens) de volgende belangen in de afweging betrokken te worden:
+Ad a.
 
-Het familie- of gezinsleven tussen (geregistreerde en huwelijks)partners eindigt met de feitelijke verbreking van de (huwelijkse) relatie.
+Het openbare orde criterium van paragraaf B10/2.3 Vc is hier van toepassing, tenzij een misdrijf is gepleegd na 29 maart 2019. Ten aanzien van de na 29 maart 2019 gepleegde misdrijf, gelden de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
 
-Het gezinsleven tussen ouders en kinderen eindigt slechts in zeer uitzonderlijke situaties. Ook indien men niet samenwoont of maar heel kort heeft samengewoond, of indien er in een periode weinig of geheel geen contact is geweest, zijn er andere zwaarwegende feiten nodig om het gezinsleven als beëindigd te kunnen aanmerken. De enkele ondertoezichtstelling of uithuisplaatsing van het kind beëindigt bijvoorbeeld niet het gezinsleven.
+Er wordt alleen aan de bepalingen inzake eerste toelating getoetst als niet aan de in [artikel 3.82 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.82) bedoelde termijn wordt voldaan.
 
 ### 9.2.2. Inmenging
 
 ### 2.4. Mvv
 
-In het algemeen vormt de afwijzing van een aanvraag tot het verlenen van een verblijfsvergunning van een vreemdeling die niet eerder een verblijfsvergunning in Nederland had, geen inmenging in het recht op respect voor het gezinsleven of privé-leven, ook niet indien de vreemdeling feitelijk al enige tijd in Nederland verblijft en hier feitelijk gezins- dan wel privé-leven onderhoudt. Indien de vreemdeling tijdens de vrije termijn of in afwachting van een beslissing, gezinsleven is gaan uitoefenen, doet hij dat als het ware op eigen risico en in de wetenschap dat hij Nederland na de vrije termijn, dan wel een negatieve beslissing op de lopende aanvraag, weer zal dienen te verlaten. In dergelijke gevallen heeft de Nederlandse overheid niet door de verlening van een verblijfsvergunning nadrukkelijk ingestemd met het bestendige verblijf van die vreemdeling in Nederland en hem in de gelegenheid gesteld dat gezinsleven uit te oefenen. Evenmin is sprake van inmenging in het geval een verblijfsvergunning is verleend op grond van door de vreemdeling verstrekte onjuiste gegevens of door de vreemdeling achtergehouden gegevens die tot afwijzing van de verblijfsvergunning zouden hebben geleid.
+In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan, noch aan het familielid een verblijfsvergunning. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsvergunning verleend.
 
-Echter, indien de vreemdeling eerder rechtmatig verblijf heeft gehad en de redelijke termijn voor voortzetting van verblijf is overschreden, is wel sprake van inmenging. In dit geval zal het eerder rechtmatig verblijf, de duur en de reden van de termijnoverschrijding in de belangenafweging betrokken dienen te worden.
+Ad b.
 
 ### 2.5.1. Aanmelding
 
-Indien er sprake is van inmenging, wordt beoordeeld of die inmenging gerechtvaardigd is op grond van artikel 8, tweede lid, EVRM. Die beoordeling bestaat uit drie stappen.
+Ad c.
 
 ### 2.5.2. Plaats van indiening van de aanvraag
 
@@ -5581,19 +5581,19 @@ Verder is van belang dat het economisch welzijn meer omvat dan slechts de besche
 
 ### 9.2.3. Belangenafweging
 
-Zowel bij eerste toelating als bij inmenging dient altijd een volledige belangenafweging plaats te vinden. Het verschil tussen de belangenafwegingen bij eerste toelating en de belangenafweging bij inmenging is gelegen in het gewicht van de belangen. Een belang van de vreemdeling heeft indien sprake is van inmenging een zwaarder gewicht dan hetzelfde belang heeft indien sprake is van eerste toelating. Het omgekeerde geldt ten aanzien van een belang van de samenleving.
+Tegen deze beschikking en ook tegen de ontvangst van de verblijfsvergunning kan bezwaar worden gemaakt.
 
-Welke belangen bij de belangenafweging moeten worden betrokken, hangt af van de concrete individuele casus. Van belang is dat het altijd gaat om de feitelijke situatie in het individuele geval, die per casus zal verschillen. De wegingsfactoren kunnen dan ook niet limitatief worden opgesomd. Wel kan in een aantal nader omschreven gevallen worden aangegeven welke belangen in ieder geval gewogen dienen te worden.
+De IND verleent de verblijfsvergunning onder de beperking ‘cf. beschikking Staatssecretaris’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’.
 
 ### 1. Inleiding
 
-Om de omvang van de verplichtingen van de overheid te bepalen, moeten alle relevante feiten en omstandigheden van het geval in ogenschouw worden genomen en uiteindelijk moet een eerlijk evenwicht worden bereikt tussen de algemene belangen die zijn gediend met het voeren van een restrictief toelatingsbeleid en de weigering van de verblijfsvergunning enerzijds, en de persoonlijke belangen die zijn gediend met het in Nederland uitoefenen van het gezinsleven anderzijds. Aangezien het gaat om de beoordeling en afweging van diverse belangen van verschillende aard, komt in beide gevallen aan de overheid een zekere beoordelingsvrijheid (a certain margin of appreciation) toe. Bij de weigering van eerste toelating van vreemdelingen tot het Nederlandse grondgebied is die groter dan bij de weigering van voortgezet verblijf.
+Het rechtmatig verblijf op grond van de verblijfsvergunning als bedoeld in paragraaf B13/2.1 Vc betreft een niet-tijdelijk verblijfsrecht als bedoeld in [artikel 3.5, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
 Als richtsnoer wordt voor de duur van de redelijke termijn een termijn van drie jaren gehanteerd. Van belang is dat die termijn korter of langer kan zijn naar gelang de overige feiten en omstandigheden van het individuele geval.
 
 ### 10.2.3.3. Openbare orde aspecten en belangenafweging
 
-Ingeval van gezinshereniging van kinderen met hun ouders dienen, gelet op de uitspraak van het EHRM inzake Sen (12 december 2001, nr 3144565/96) in de belangenafweging in ieder geval betrokken te worden:
+Indien na de verlening van de verblijfsvergunning zich nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing.
 
 ### 9.3. Ambtshalve wijziging
 
@@ -5605,25 +5605,25 @@ Indien openbare orde aspecten een rol spelen in de weigering (verder) verblijf t
 
 ### 3.2. Voorwaarden voor verlening van de verblijfsvergunning
 
-In de belangenafweging dient in ieder geval te worden betrokken het totaal van de in het gastland aangegane sociale banden en de intensiteit daarvan, de verblijfsduur in het gastland en de onzekerheid van de verblijfsstatus.
+De IND verleent een verblijfsvergunning indien de VK-onderdaan en zijn familielid voldoen aan de voorwaarden van de overgangsregeling en daarnaast bij de beoordeling voldoen aan de beleidsregels van paragraaf B10/2 Vc en de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10) (afgezien van de bepalingen die zien op duurzaam verblijfsrecht).
 
-Daarnaast volgt uit de uitspraak inzake Üner, dat de Boultif-criteria ook toegepast kunnen worden op alle zaken waar het gaat om verblijfsbeëindiging van ingeburgerde vreemdelingen, waarbij geen sprake is van gezinsleven, na een strafrechtelijke veroordeling. Daarbij zullen, gelet op het ontbreken van het gezinsleven, alleen de eerste drie Boultif-criteria en de uit de uitspraak van Üner volgende hechtheid van de sociale en culturele banden van de vreemdeling met het gastland en zijn land van herkomst, van belang zijn.
+Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 29 maart 2019 wonen. Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
 
-Indien ongewenstverklaring aan de orde is dient gelet op de uitspaak van het EHRM van 31 januari 2006, inzake Sezen (nr 50252/99), naast de hiervoor genoemde belangen, in ieder geval in de belangenafweging betrokken te worden of en hoe lang de vreemdeling na invrijheidstelling in Nederland gezinsleven kon opbouwen, voordat tot ongewenstverklaring is overgegaan. Daarnaast dient in geval van ongewenstverklaring in de belangenafweging betrokken te worden dat, met ongewenstverklaring, het gedurende een aantal jaren voor de vreemdeling onmogelijk is zijn of haar gezin in Nederland te bezoeken.
+**Ad d.**
 
-Bij de beoordeling van de belangen vindt een afweging plaats van de belangen van de vreemdeling alsmede zijn gezinsleden tegen de algemene belangen. In dat kader wordt in ieder geval betrokken of:
+De bepalingen van paragraaf B1/4.2 Vc zijn hier van toepassing.
 
-Dit hoofdstuk bevat de bijzondere voorwaarden inzake de verlening van een verblijfsvergunning aan buitenlandse adoptiekinderen, alsmede aan buitenlandse kinderen voor wie opname in een pleeggezin in Nederland wordt beoogd. Het gaat om gezinsuitbreiding met kinderen, anders dan door geboorte.
+Tijdens de overgangsperiode komen familieleden van VK-onderdanen in aanmerking voor een verblijfsvergunning voor bepaalde tijd indien zij voldoen aan de voorwaarden zoals opgenomen in paragraaf B13/2.1 Vc, onder het kopje **Gezinshereniging.**
 
 Objectieve belemmeringen zien op belemmeringen om het gezinsleven tussen de verblijfsgerechtigde hoofdpersoon en de gezinsleden buiten Nederland uit te oefenen. Bij de beoordeling van de vraag of daarvan sprake is, zal veelal moeten worden beoordeeld of het gezinsleven in het land van herkomst kan worden uitgeoefend. In het zich daartoe lenende geval zal echter ook moeten worden beoordeeld of het gezinsleven in een derde land kan worden uitgeoefend. Daarbij maakt het niet uit of de verblijfsgerechtigde hoofdpersoon Nederlander of vreemdeling is. Nederlanders kunnen zich in het algemeen ook in andere landen vestigen. In iedere zaak zal beoordeeld moet worden of er op dit moment sprake is van een objectieve belemmering. In het algemeen gelden daarbij de volgende uitgangspunten:
 
-Van een objectieve belemmering om het privé-leven in het land van herkomst uit te oefenen, zal gelet op de uitspraak van het EHRM van 22 juni 2004 inzake F versus UK (nr 17341/03) geen sprake zijn.
+De IND verleent geen verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc als bij de VK-onderdaan of een familielid sprake is van een van de volgende contra-indicaties:
 
 ### 2.2. Reikwijdte van het onderhavige hoofdstuk
 
 ### 2.2.1. Inleiding
 
-Uitgangspunt is dat de hoofdpersoon bij wie verblijf wordt beoogd, zijn of haar eigen verantwoordelijkheden draagt, ook voor wat betreft de kosten van zijn of haar levensonderhoud en dat van de gezinsleden die hij of zij wenst te laten overkomen. Daarom wordt van de hoofdpersoon verwacht dat hij of zij gedurende een langere termijn alles op alles heeft gezet om werk te krijgen en zodoende duurzaam te gaan beschikken over voldoende zelfstandige bestaansmiddelen. Daarbij wordt van hem of haar een actieve houding verwacht.
+Er wordt alleen aan de bepalingen inzake eerste toelating getoetst als niet aan de in [artikel 3.82 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.82) bedoelde termijn wordt voldaan.
 
 ### 2.1. Inleiding
 
@@ -5631,85 +5631,85 @@ Uitgangspunt is dat de hoofdpersoon bij wie verblijf wordt beoogd, zijn of haar 
 
 ### 2.1. Inleiding
 
-Als richtsnoer wordt voor de duur van de redelijke termijn een termijn van drie jaren gehanteerd. Van belang is dat die termijn korter of langer kan zijn naar gelang de overige feiten en omstandigheden van het individuele geval.
+**Ad b.**
 
-Indien sprake is van gezinsvorming, en er dus niet reeds in het land van herkomst sprake was van gezinsleven tussen de toegelaten hoofdpersoon en het gezinslid, maar het gezinsleven eerst is aangegaan nadat de hoofdpersoon zich in Nederland heeft gevestigd, wordt slechts onder zeer uitzonderlijke omstandigheden een schending van artikel 8 EVRM aangenomen. In het algemeen zal daarvan slechts sprake zijn, indien duidelijk is dat nimmer aan de voorwaarden voor de verlening van een verblijfsvergunning zal kunnen worden voldaan.
-
-### 2.2. Reikwijdte van het onderhavige hoofdstuk
-
-Aangezien de opneming in het belang moet zijn van het kind speelt met name de geschiktheid van de toekomstige ouders een belangrijke rol. Zowel de Nederlandse autoriteiten als de vergunninghoudende bemiddelende organisaties als ook de buitenlandse betrokken instanties spelen een rol bij de beoordeling of opneming in het belang van het kind is.
+Houders van een verblijfsvergunning regulier of asiel voor onbepaalde tijd hebben rechtmatig verblijf in Nederland voor onbepaalde tijd. Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning voor bepaalde tijd te verlenen op grond van de definitieve regeling van de Terugtrekkingsregeling. Deze contra-indicatie geldt uitsluitend voor de houder van deze verblijfsvergunning.
 
 ### 2.2. Reikwijdte van het onderhavige hoofdstuk
 
-Dit betekent niet dat bij elke reguliere verblijfsbeëindiging ambtshalve zal worden beoordeeld of sprake is van artikel 8 EVRM. Een dergelijke beoordeling vind slechts plaats in de gevallen waarin expliciet een beroep op dit artikel wordt gedaan, dan wel waar een vreemdeling zelf feiten en omstandigheden naar voren brengt waaruit dit kan worden opgemaakt.
+VK-onderdanen of hun familieleden blijven in dit geval als EU/EER-onderdaan verblijfsrecht ontlenen aan [richtlijn 2004/38/EG](32004L0038). Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning voor bepaalde tijd te verlenen op grond van de definitieve regeling van de Terugtrekkingsregeling.
+
+### 3.3. Procedurele bepalingen
+
+De IND stuurt tijdens de overgangsperiode een uitnodigingsbrief aan de VK-onderdaan en zijn familielid die voldoen aan de voorwaarden van paragraaf B13/2.1 Vc en aan wie ambtshalve een verblijfsvergunning is verstrekt. In deze brief nodigt de IND de VK-onderdaan en zijn familielid uit om een aanvraag in te dienen voor een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc.
 
 ### 9.4. Beperking en arbeidsmarktaantekening
 
-Indien het recht op eerbiediging van het familie- of gezinsleven noopt tot aanvaarding van (voortgezet) verblijf, wordt een verblijfsvergunning regulier voor bepaalde tijd verleend onder de beperking ‘uitoefenen van het gezinsleven conform artikel 8 EVRM bij (naam hoofdpersoon met wie het gezinsleven moet worden toegestaan)’.
+De IND verleent de verblijfsvergunning onder de beperking ‘cf. beschikking Staatssecretaris’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’. Op het verblijfsdocument wordt vermeld: ‘verblijf onder beperking cf. beschikking Staatssecretaris, ivm artikel 50 VEU’. Arbeid vrij toegestaan. TWV niet vereist’. Een beroep op algemene middelen kan gevolgen hebben voor uw verblijfsrecht’.
 
 ### 2.2.2. Erkenning van een buitenlandse adoptiebeslissing
 
-Afhankelijk van de positie op de arbeidsmarkt van de hoofdpersoon, wordt de beperking aangevuld met één van de arbeidsmarktaantekeningen genoemd in B1/2.3.1.
+Het rechtmatig verblijf op grond van de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc betreft een niet-tijdelijk verblijfsrecht als bedoeld in [artikel 3.5, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
-### 4.3. Voorschrift
+### 3.4. Intrekking van de verblijfsvergunning
 
-Dit is slechts anders indien verblijf dient te worden verleend op grond van de pogingen van de vreemdeling om aan het gezinsleven met zijn kind invulling te gaan geven. In dat geval is het verblijfsrecht, ongeacht de aard van het verblijfsrecht van de persoon bij wie de vreemdeling wil verblijven, altijd tijdelijk.
+De IND trekt de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van de verblijfsvergunning, zoals omschreven in paragraaf B10/2.3 Vc.
 
-Als de procedure ingevolge de Wobka niet is gevolgd door adoptanten die hun woon- of verblijfplaats in Nederland hebben, kan aan het kind desondanks een verblijfsvergunning worden verleend op grond van het bepaalde in B2. Hiertoe is dan in ieder geval wel vereist dat bij een niet meer voor hogere voorziening vatbare beslissing van een Nederlandse rechter is bepaald dat de in het buitenland uitgesproken adoptie rechtsgeldig is.
+Indien zich na de verlening van de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór 29 maart 2019 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf na 29 maart 2019 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
 
 Het is echter mogelijk dat in Nederland (alsnog) in de adoptie moeten worden voorzien middels een adoptie naar Nederland recht. Hiervan kan sprake zijn indien het kind afkomstig is uit een land waarvan het nationale recht niet vereist dat de adoptiebeslissing ter plekke wordt uitgesproken. Er is dan wel voldaan aan de vereisten voor adoptie in het gezin in Nederland, maar er is nog geen adoptiebeslissing genomen. De adoptie vindt pas plaats nadat het kind gedurende een proefperiode (bijvoorbeeld een jaar) in het gezin van de aspirant-adoptiefouders is opgenomen geweest. Indien aan de vereisten voor adoptie is voldaan, neemt de buitenlandse autoriteit een besluit tot opname van het buitenlandse kind in het gezin van de aspirant-adoptiefouder(s) ter adoptie. Alsdan wordt ten behoeve van het kind een verblijfsvergunning verleend, in afwachting van de adoptie (zie B3/2.3 en verder). Ook in de situatie waarin de in het buitenland uitgesproken adoptie noch op grond van het Haags Adoptieverdrag, noch op grond van [artikel 10:103 t/m artikel 10:112 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=103) kan worden erkend, wordt de beslissing op de aanvraag beheerst door de bepalingen van het onderhavige hoofdstuk. De bepalingen van onderhavig hoofdstuk zijn eveneens van toepassing op de aanvraag van een kind ten aanzien waarvan de bepalingen van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) door de in Nederland woonachtige aspirant-adoptiefouders niet in acht zijn genomen en niet bij een niet meer voor hogere voorziening vatbare beslissing van een Nederlandse rechter is bepaald dat die in het buitenland uitgesproken adoptie rechtsgeldig is.
 
-### 2.3. Voorwaarden voor verlening van de verblijfsvergunning
+### 4.1. Voorwaarden voor verlening van een verblijfsvergunning voor onbepaalde tijd
 
-Met ‘ten laste komen van de vreemdeling’ wordt bedoeld dat de vreemdeling de feitelijke zorg heeft voor het kind, dan wel de feitelijke zorg op zich zal nemen.
+De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de VK-onderdaan en zijn familielid:
 
 ### 2.3. Voorwaarden voor verlening van de verblijfsvergunning
 
 ### 2.5.2. Plaats van indiening van de aanvraag
 
-De aanvraag wordt niet afgewezen indien de vreemdeling niet beschikt over een geldige machtiging tot voorlopig verblijf.
+De IND verleent een verblijfsvergunning indien de VK-onderdaan en zijn familielid voldoen aan de voorwaarden van de overgangsregeling en daarnaast bij de beoordeling voldoen aan de beleidsregels van paragraaf B10/2 Vc en de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10).
 
 ### 10.2. Beperkingen, arbeidsmarktaantekeningen en voorschrift
 
-De verblijfsvergunning wordt verleend onder de beperking ‘verblijf bij (naam kind)’. De beperking wordt aangevuld met de tekst: ‘Arbeid vrij toegestaan. TWV niet vereist’.
+Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 29 maart 2019 wonen. Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
 
 ### 2.4. Mvv
 
-### 3. Adoptiekinderen en pleegkinderen
+### 4.2. Contra-indicaties
 
-Dat is anders indien ten onrechte is geconcludeerd dat het kind door de adoptie de Nederlandse nationaliteit heeft verkregen. In die gevallen is tevens ten onrechte een Nederlands paspoort afgegeven. Deze gevallen leiden dan ook tot weigering van de inschrijving als Nederlander in de GBA. Omdat het kind in kwestie hierdoor vreemdeling is gebleven, moet dus na inreis in Nederland alsnog een aanvraag om verlening van een verblijfsvergunning regulier worden ingediend.
-
-### 2.5.1. Aanmelding
-
-De voorwaarden die zien op het verblijf verband houdend met verblijf ter adoptie en verblijf als pleegkind zijn opgenomen in respectievelijk de [artikelen 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.26) en [3.28 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28).
+De IND verleent geen vergunning als bedoeld in paragraaf B13/4.1 Vc aan de VK-onderdaan of zijn familielid als sprake is van een van de volgende contra-indicaties:
 
 ### 2.5.1. Aanmelding
 
-Naast de beleidsregels die in dit hoofdstuk zijn opgenomen, zijn tevens de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en B1/4 van toepassing, tenzij anders is aangegeven.
+Het openbare orde criterium van B10/2.3 Vc en [artikel 8.18, sub b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18) is hier van toepassing tenzij sprake is van een misdrijf gepleegd na 29 maart 2019. In dat geval is ten aanzien van dat misdrijf het nationale openbare orde criterium van paragraaf B12/2.4 Vc van toepassing.
+
+### 2.5.1. Aanmelding
+
+De IND verleent evenmin een verblijfsvergunning indien er concrete aanwijzingen zijn dat de VK-onderdaan of het familielid een gevaar vormen voor de nationale veiligheid. De beleidsregels van paragraaf B1/4.4 Vc zijn van toepassing.
 
 ### 2.5.2. Plaats van indiening van de aanvraag
 
-Ter indiening van een aanvraag tot verlening van een verblijfsvergunning regulier voor bepaalde tijd dient het kind zich te vervoegen bij de IND. Deze stelt de aspirant-adoptiefouder in de gelegenheid ten behoeve van het kind een aanvraag tot verlening van een verblijfsvergunning regulier voor bepaalde tijd in te dienen. De aspirant-adoptiefouder toont de originele beginseltoestemming van de Staatssecretaris van V&J voor opneming bij de burgemeester. Dit lijdt slechts uitzondering indien het originele document door de daarvoor bevoegde autoriteiten in het land van herkomst van het kind is ingenomen. In deze gevallen kan genoegen worden genomen met een kopie van de beginseltoestemming. In geval van twijfel kan contact worden opgenomen met de Centrale Autoriteit interlandelijke adoptie van het Ministerie van V&J. De IND retourneert de beginseltoestemming – voor zover deze in origineel is overgelegd – aan de vreemdeling.
+**Ad b.**
 
-Het komt veelvuldig voor dat een kind als direct gevolg van een in het buitenland uitgesproken adoptie de Nederlandse nationaliteit verkrijgt en dus als Nederlander met een Nederlands paspoort Nederland inreist en als Nederlander wordt opgenomen in de GBA. In een dergelijk geval is het toelatingsbeleid vanzelfsprekend niet van toepassing.
+VK-burgers of hun familieleden blijven in dit geval als EU/EER-onderdaan verblijfsrecht ontlenen aan [richtlijn 2004/38/EG](32004L0038). Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning voor onbepaalde tijd te verlenen op grond van de definitieve regeling van de Terugtrekkingsregeling.
 
 ### 2.6. Het kind wordt niet als Nederlander in de GBA opgenomen
 
 ### 2.2.2. Buiten Nederland geboren meerderjarige oud-Nederlanders
 
-### 3.2. Voorwaarden voor verlening van de verblijfsvergunning
+### 4.3. Duurzaam verblijf
 
-Aangezien de opneming in het belang moet zijn van het kind speelt met name de geschiktheid van de toekomstige ouders een belangrijke rol. Zowel de Nederlandse autoriteiten als de vergunninghoudende bemiddelende organisaties als ook de buitenlandse betrokken instanties spelen een rol bij de beoordeling of opneming in het belang van het kind is.
+De IND neemt aan dat wordt voldaan aan de voorwaarden voor een verblijfsvergunning regulier voor onbepaalde tijd als bedoeld in paragraaf B13/4.1 Vc indien de VK-onderdaan of zijn familielid op 29 maart 2019 in het bezit zijn van een geldig verblijfsdocument voor duurzaam verblijf. De IND verleent in dat geval, nadat de VK-onderdaan of zijn familielid hiertoe een aanvraag hebben ingediend tijdens de overgangsperiode, zonder leges te heffen een verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc, tenzij sprake is van een contra-indicatie als genoemd in paragraaf B13/4.2 Vc.
 
-### 2.2. Reikwijdte van het onderhavige hoofdstuk
+### 4.4. Procedurele bepalingen
 
-De inkomensnorm geldt als een referentiebedrag en niet als minimuminkomen waaronder geen gezinshereniging wordt toegestaan zonder enige concrete beoordeling van de situatie van de aanvrager.
+De IND stuurt tijdens de overgangsperiode een uitnodigingsbrief aan de VK-onderdaan en zijn familielid die voldoen aan de voorwaarden van paragraaf B13/2.1 Vc. In deze brief worden de VK-onderdaan en zijn familielid uitgenodigd om een aanvraag in te dienen voor een verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc.
 
 ### 2. Oud-Nederlanders
 
 ### 2.6.2. Aanvraag vaststelling van het Nederlanderschap
 
-Tevens staat het de adoptie(f)ouders vrij om op grond van [artikel 3.49 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.49) ten behoeve van het adoptie(f)kind een aanvraag verblijfsvergunning regulier van tijdelijke aard in te dienen onder een beperking verband houdend met het afwachten van een bij de rechtbank ingediend verzoek als bedoeld in [artikel 17 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17) tot vaststelling van het Nederlanderschap. Voor de te volgen procedure wordt verwezen naar B4/11 en verder.
+De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als aan de voorwaarden van paragraaf B13/4.1 Vc wordt voldaan. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist’. Op het verblijfsdocument wordt vermeld: ‘Arbeid vrij toegestaan. TWV niet vereist’.
 
 ### 3. Buitenlandse pleegkinderen
 
@@ -5717,27 +5717,27 @@ Een adoptie die conform het verdrag tot stand is gekomen en is uitgesproken in e
 
 ### 4. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-Als de procedure ingevolge de Wobka niet is gevolgd door adoptanten die hun woon- of verblijfplaats in Nederland hebben, kan aan het kind desondanks een verblijfsvergunning worden verleend op grond van het bepaalde in B2. Hiertoe is dan in ieder geval wel vereist dat bij een niet meer voor hogere voorziening vatbare beslissing van een Nederlandse rechter is bepaald dat de in het buitenland uitgesproken adoptie rechtsgeldig is.
+Indien na de verlening van de verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc zich nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B12/2.8 Vc van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór 29 maart 2019 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf na 29 maart 2019 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B12/2.8 Vc.
 
-### 2.2.3. De bepalingen van B3 zijn van toepassing op de aanvraag
+### 5. Grensarbeiders
 
-Veelal zal de in het buitenland uitgesproken adoptie in Nederland kunnen worden erkend, hetzij op grond van het Haags Adoptieverdrag, hetzij op grond van [10:103 t/m artikel 10:112 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=103).
+De IND verstrekt de sticker ‘Verblijfsaantekening algemeen’ aan de VK-onderdaan of zijn familielid:
 
 ### 2.2.4. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-Indien de hoofdpersoon (het familielid bij wie de vreemdeling verblijf beoogt) een naar Nederlands internationaal privaatrecht geldig huwelijk of een in Nederland geregistreerd partnerschap is aangegaan, dan wel een relatie onderhoudt in de zin van [artikel 3.14, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.14) met een persoon die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan wel Nederlander is, kan het duurzame, zelfstandig verworven inkomen van die persoon worden meegeteld bij de berekening van de bestaansmiddelen. In deze gevallen zijn de middelen van bestaan voldoende, indien het gezamenlijke inkomen ten minste gelijk is aan het normbedrag als bedoeld in [artikel 3.74, eerste lid onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74). Als aanvullende voorwaarde geldt dan dat ondertekening van de garantverklaring, bedoeld in [artikel 3.28, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.28) geschiedt door de hoofdpersoon en bedoelde partner. Opgemerkt zij nog, dat de omstandigheid dat de hoofdpersoon in gezinsverband leeft met een (geregistreerde of huwelijks-)partner, niet afdoet aan de omstandigheid dat de hoofdpersoon mogelijk aanspraak kan maken op de vrijstellingen bedoeld in artikel 3.28, vierde lid, Vb, dan wel de onder c vermelde vrijstelling.
+Deze regeling is alleen van toepassing voor de VK-onderdaan of zijn familielid die op 29 maart 2019 als grensarbeider werkzaam zijn in Nederland en hun hoofdverblijf in het VK hebben. Familieleden van een Britse grensarbeider die zelf geen grensarbeid verrichten, komen niet in aanmerking voor deze regeling. De IND verstrekt geen sticker ‘Verblijfsaantekening algemeen’ aan de VK-onderdaan of zijn familielid die eerst na 29 maart 2019 als grensarbeider in Nederland willen gaan werken. Voor deze categorie is de Terugtrekkingsregeling niet van toepassing en geldt het reguliere beleidskader onverkort.
 
 ### 3.3. Procedure betreffende de verlening van de verblijfsvergunning
 
-Het buitenlandse kind mag op het tijdstip van binnenkomst in Nederland de leeftijd van zes jaren niet bereikt hebben, behoudens de bevoegdheid van de Staatssecretaris van V&J om in bijzondere gevallen, op schriftelijk verzoek van de aspirant-adoptiefouders, een afwijking van deze leeftijdsgrens toe te staan. Ook mag er niet meer dan 40 jaar leeftijdsverschil zijn tussen het kind en de aspirant-adoptiefouders, behoudens de bevoegdheid van de Staatssecretaris van V&J om in bijzondere gevallen een afwijking van toe te staan, in dat geval kan de Minister eisen stellen aan de leeftijd van het kind.
+Gedurende de overgangsperiode zijn de grensarbeiders uit het VK of zijn familielid vrijgesteld van het TWV-vereiste.
 
 ### 3.3. Procedure betreffende de verlening van de verblijfsvergunning
 
-Door de aspirant-adoptiefouders dient gebruik te zijn gemaakt van een bemiddelende, vergunninghoudende instantie, bedoeld in [hoofdstuk 5 Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5). Indien niet van een zodanige instantie doch van andere contacten gebruik is gemaakt, dient de daartoe ex [artikel 7a Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=7a) benodigde toestemming van de Staatssecretaris van V&J te zijn verleend; De afstand door ouder(s) en de instemming van de autoriteiten uit het land van herkomst van het kind is verkregen ([artikel 8 onder d en e Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8)) Door de aspirant-adoptiefouders dient op bevredigende wijze door middel van officiële gelegaliseerde bescheiden (zie B2/8) te worden aangetoond dat de afstand door de ouder(s) van het buitenlandse kind naar behoren is geregeld. Op gelijke wijze dienen de aspirant-adoptiefouders aan te tonen dat de autoriteiten van het land van herkomst instemmen met de opneming, door hen, van het kind.
+Met een sticker ‘Verblijfsaantekening algemeen’ in het paspoort is deze categorie herkenbaar als grensarbeider die onder de voorwaarden van deze paragraaf valt.
 
 ### 4.3. Voorschrift
 
-Als niet voldaan wordt aan een of meer van bovengenoemde voorwaarden die ontleend zijn aan de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) en het kind verblijft reeds illegaal hier te lande, maakt de IND melding van deze vermoedelijk illegale adoptie bij de Raad van de Kinderbescherming, die, zonodig, aangifte doet bij de politie.
+De IND verstrekt de sticker ‘Verblijfsaantekening algemeen’ als aan de voorwaarden van deze paragraaf wordt voldaan. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist’. Op de sticker wordt vermeld: grensarbeider VK, ‘Arbeid vrij toegestaan. TWV niet vereist’. De IND verstrekt de sticker ‘Verblijfsaantekening algemeen’ voor de duur van de overgangsperiode.
 
 ### 2.4. Mvv
 
@@ -9993,15 +9993,15 @@ Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c
 
 ### 2.8. Intrekking verblijfsvergunning regulier voor onbepaalde tijd
 
-### 3. Bewijsmiddelen
+### 2. Overgangsregeling
 
 ### 9.2. Toetsingskader
 
-De IND beschouwt als bewijsmiddel waaruit een familierechtelijke relatie moet blijken:
+Met deze verblijfsvergunning hebben de VK-onderdaan en zijn familielid rechtmatig verblijf in Nederland gedurende de overgangsperiode.
 
 ### 9.2.1. Begrippen
 
-Het begrip familie- of gezinsleven in artikel 8 EVRM heeft een andere betekenis dan (nationale) begrippen als feitelijke gezinsband en familierechtelijke relatie. In veel gevallen waarin de feitelijke gezinsband is verbroken, zal er toch gezinsleven in de zin van artikel 8 EVRM bestaan.
+Op deze wijze is het in het maatschappelijk verkeer en in het kader van grenstoezicht duidelijk dat het hier een familielid van een (voormalig) EU burger betreft.
 
 ### 10.2.3.1. De af te wegen belangen in specifieke situaties
 
@@ -10009,49 +10009,49 @@ Het begrip familie- of gezinsleven in artikel 8 EVRM heeft een andere betekenis 
 
 ### 10.2.3.2. Het bestaan van een objectieve belemmering
 
-Inmenging op het familie- en gezinsleven, dan wel het privé-leven wordt aangenomen, indien de vreemdeling:
+De IND verleent evenmin een verblijfsvergunning indien er concrete aanwijzingen zijn dat de VK-onderdaan of het familielid een gevaar vormen voor de nationale veiligheid. De beleidsregels van paragraaf B1/4.4 Vc zijn in dat geval van toepassing.
 
 ### 10.2.5. Beperking en arbeidsmarktaantekening
 
 ### 2.5. Procedure betreffende de verlening van de verblijfsvergunning
 
-Ook indien geen sprake is van inmenging dient een belangenafweging tussen de belangen van de Staat en die van de vreemdeling plaats te vinden. De omstandigheid dat nooit sprake is geweest van rechtmatig verblijf zal ten nadele van de vreemdeling worden betrokken bij deze belangenafweging. Bij illegaal verblijf zal slechts in zeer uitzonderlijke situaties sprake zijn van een schending van artikel 8 EVRM (zie de uitspraak van het EHRM inzake Rodrigues da Silva van 31 januari 2006, nr. 50435/99).
+Houders van een verblijfsvergunning regulier of asiel voor onbepaalde tijd hebben rechtmatig verblijf in Nederland voor onbepaalde tijd. Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning te verlenen op grond van de overgangsregeling van de Terugtrekkingsregeling. Deze contra-indicatie geldt uitsluitend voor de houder van deze verblijfsvergunning.
 
 ### 9.2.3.2. Het bestaan van een objectieve belemmering
 
-Het feit dat de afwijzende beslissing (a) is gebaseerd op de regelgeving en (b) in het belang is van een of meer van de gronden genoemd in het tweede lid van artikel 8 EVRM, vormt op zichzelf niet zonder meer voldoende rechtvaardiging. De inmenging moet ook noodzakelijk zijn in een democratische samenleving. De beoordeling vergt een belangenafweging en komt neer op een evenredigheidstoetsing. Daarbij is de betreffende (afwijzings)grond slechts een van de meerdere wegingsfactoren. Het enkele beroep op de algemene middelen of de enkele inbreuk op de openbare orde hoeft op zichzelf dus niet doorslaggevend te zijn om de inmenging (met een beroep op het economisch welzijn van Nederland, respectievelijk het voorkomen van wanordelijkheden en strafbare feiten) te rechtvaardigen. Er zal telkens een op de concrete zaak toegespitste afweging dienen plaats te vinden van de algemene belangen van de samenleving enerzijds en de individuele belangen van de vreemdeling en – indien daarvan sprake is – zijn gezinsleden anderzijds.
+VK-onderdanen of hun familieleden blijven in dit geval als EU/EER-onderdaan verblijfsrecht ontlenen aan [richtlijn 2004/38/EG](32004L0038). Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning te verlenen op grond van de overgangsregeling van de Terugtrekkingsregeling.
 
-### 10.2.3.2. Het bestaan van een objectieve belemmering
+### 2.3. Procedurele bepalingen
 
-Tenslotte is van belang dat zowel bij eerste toelating als bij inmenging een volledige belangenafweging dient plaats te vinden, waarbij het gewicht dat aan de verschillende belangen toekomt mede bepaald wordt door de omstandigheid of sprake is van eerste toelating of van inmenging.
+De IND verstuurt de verblijfsvergunning in de vorm van een schriftelijke verklaring naar het adres waar de VK-onderdaan en zijn familielid in de BRP staan ingeschreven.
 
 ### 10.3. Ambtshalve wijziging
 
-Van belang zijn in ieder geval de intensiteit van het gezinsleven of, indien het gaat om privé-leven, het gewicht van de aangegane sociale banden, het gewicht dat aan de feitelijke weigeringsgrond in de individuele zaak kan worden toegekend, en de banden die de vreemdeling met Nederland en met het land van herkomst heeft. Indien er sprake is van gezinsleven met (jonge) kinderen die in Nederland zullen achterblijven, moeten ook de belangen van die kinderen worden bezien.
+De IND verleent de verblijfsvergunning met ingang van de datum waarop de overgangsregeling van kracht is geworden en tot het einde van de overgangsperiode, zijnde van 29 maart 2019 tot 1 juli 2020.
 
 ### 10.4. Beperking en arbeidsmarktaantekening
 
-### 10.3. Ambtshalve wijziging
+### 3.1. Voorwaarden voor verlening van een verblijfsvergunning voor bepaalde tijd
 
-Blijkens de uitspraak van het EHRM inzake Üner, van 18 oktober 2006, nr 46410/99 dient, naast deze criteria tevens gekeken te worden naar:
+De IND verleent een verblijfsvergunning voor bepaalde tijd op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) aan de VK-onderdaan en zijn familielid:
 
 ### 3. Adoptiekinderen en pleegkinderen
 
 ### 3.3. Procedure betreffende de verlening van de verblijfsvergunning
 
-De objectieve belemmering vormt een van de factoren die in de belangenafweging moeten worden betrokken. Indien er, in geval van eerste toelating, geen sprake is van een objectieve belemmering, zal er in beginsel niet snel sprake zijn van een schending van artikel 8 EVRM. Dit laat onverlet dat bij afwezigheid van een objectieve belemmering een volledige belangenafweging dient plaats te vinden.
+**Ad a.**
 
-Van de hoofdpersoon wordt in ieder geval verwacht dat hij actief naar werk zoekt. De hoofdpersoon moet zeer duidelijk en gedocumenteerd kunnen aangeven wat hij allemaal heeft ondernomen om aan de toelatingsvoorwaarden te gaan voldoen.
+De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
 
-Dat uitgangspunt lijdt slechts dan uitzondering indien de overheid de hoofdpersoon onevenredig lang heeft afgehouden van de verblijfsvergunning en daarmee van toegang tot de arbeidsmarkt.
+In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan noch aan het familielid een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsvergunning verleend.
 
 ### 3. Buitenlandse pleegkinderen
 
-Om te kunnen bepalen door welke regels – die van B2 inzake gezinsvorming of gezinshereniging óf die van het onderhavige hoofdstuk – de aanvraag tot verlening van een verblijfsvergunning regulier van een (buitenlands) kind worden beheerst, is het van belang vast te stellen of de aanvraag betrekking heeft op een adoptiekind of een adoptiefkind.
+De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc. De VK-onderdaan geeft bij het indienen van de aanvraag aan wie er feitelijk tot zijn familie behoort. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van de uitnodigingsbrief van de IND.
 
 ### 4.2. Arbeidsmarktaantekening
 
-Indien het recht op eerbiediging van het privé-leven noopt tot aanvaarding van (voortgezet) verblijf, wordt een verblijfsvergunning regulier voor bepaalde tijd verleend op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), onder de beperking voor het uitoefenen van privé-leven conform artikel 8 EVRM.
+De IND verleent op grond van [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc met ingang van de datum waarop de aanvraag is ontvangen of zoveel later wanneer is aangetoond dat aan de voorwaarden wordt voldaan. De IND verleent de verblijfsvergunning voor de duur van 5 jaar.
 
 ### 3.2. Verblijfsrechtelijke positie na remigratie
 
@@ -10059,51 +10059,51 @@ Afhankelijk van de aard van het verblijfsrecht van de persoon bij wie de vreemde
 
 ### 2.2.3. De bepalingen van B3 zijn van toepassing op de aanvraag
 
-### 10.1. Eerste verblijfsaanvaarding
+### 4. Definitieve regeling voor onbepaalde tijd
 
 Indien de vreemdeling niet in aanmerking komt voor verblijf op grond van één van de in [artikel 3.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) genoemde verblijfsdoelen (inclusief artikel 8 EVRM), dan wel verblijf op grond van [paragraaf 2 van afdeling 2 van hoofdstuk 8 van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&paragraaf=2), wordt aan hem op aanvraag op grond van [artikel 3.13, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13) de verblijfsvergunning regulier voor bepaalde tijd verleend indien:
 
-Het kind hoeft de vreemdeling niet te volgen en het grondgebied van de Europese Unie niet te verlaten indien er een andere ouder is die rechtmatig verblijf heeft op grond van [artikel 8, aanhef en onder a t/m e, dan wel l, van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of de Nederlandse nationaliteit heeft, tenzij de andere ouder feitelijk niet voor het kind kan zorgen. Onder ‘andere ouder’ worden geen andere familieleden of kennissen verstaan – ook niet indien zij feitelijk voor het kind zorgen of hebben gezorgd.
+Dit beleid laat de aanspraken op een verblijfsvergunning regulier voor onbepaalde tijd op grond van hoofdstuk B12 Vc of een EU-verblijfsvergunning voor langdurig ingezetenen onverlet.
 
-Er is geen sprake van een feitelijke onmogelijkheid voor de andere ouder om voor het kind te zorgen indien verlangd kan worden dat gebruik wordt gemaakt van hulp en ondersteuning bij zorg en opvoeding die van overheidswege en door maatschappelijke instellingen worden geboden. Hieronder wordt ook de verstrekking verstaan van een uitkering uit de openbare kas waar Nederlanders in Nederland in beginsel aanspraak op kunnen maken.
+**Ad a, b en c.**
 
 ### 2.5.2. Plaats van indiening van de aanvraag
 
-Aan de verblijfsvergunning wordt het voorschrift verbonden van het sluiten van een voldoende ziektekostenverzekering, met inbegrip van de kosten die zijn verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
+Tijdens de overgangsperiode komen familieleden van VK-onderdanen in aanmerking voor een verblijfsvergunning voor bepaalde tijd indien zij voldoen aan de voorwaarden zoals opgenomen in paragraaf B13/2.1 Vc, onder het kopje **Gezinshereniging.**
 
 Als niet voldaan wordt aan een of meer van bovengenoemde voorwaarden die ontleend zijn aan de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) en het kind verblijft reeds illegaal hier te lande, maakt de IND melding van deze vermoedelijk illegale adoptie bij de Raad van de Kinderbescherming, die, zonodig, aangifte doet bij de politie.
 
-Dit hoofdstuk bevat de bijzondere voorwaarden inzake de verlening van een verblijfsvergunning aan buitenlandse adoptiekinderen, alsmede aan buitenlandse kinderen voor wie opname in een pleeggezin in Nederland wordt beoogd. Het gaat om gezinsuitbreiding met kinderen, anders dan door geboorte.
+**Ad a.**
 
-Deze artikelen geven geen verplichting, maar een bevoegdheid om een verblijfsvergunning te verlenen. In dit hoofdstuk wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning kan worden verleend. Deze voorwaarden hebben het karakter van beleidsregels.
+De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
 
 ### 2.2. Vergunning regulier bepaalde tijd wedertoelating
 
-Vooropgesteld dient te worden dat de overkomst van de kinderen waarop het onderhavige hoofdstuk betrekking heeft, op verantwoorde wijze dient te zijn geregeld. Het kind dient derhalve in het bezit van een geldige mvv Nederland in te reizen, uiteraard voor zover deze voor Nederland is vereist (zie B1/4.1).
+In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan noch aan het familielid een verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsvergunning verleend.
 
-De opneming van buitenlandse kinderen ter adoptie is geregeld in de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447). Deze wet strekt mede tot uitvoering van het per 1 oktober 1998 voor Nederland in werking getreden Haags adoptieverdrag.
+**Ad c.**
 
-Buitenlandse adoptiekinderen in de zin van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) zijn buiten Nederland geboren, de Nederlandse nationaliteit niet bezittende minderjarigen in de zin van de Nederlandse wet, die in Nederland met het oog op adoptie in een ander gezin dan het ouderlijke worden of zullen worden verzorgd en opgevoed in zodanige omstandigheden dat de verzorgers de plaats van de ouders innemen. De vreemdelingrechtelijke voorschriften en voorwaarden alsook de van toepassing zijnde voorschriften voortvloeiend uit de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) voor deze categorie zijn vermeld onder B3/2.3.
+De uitwerking van [richtlijn 2004/38/EG](32004L0038) in [artikel 8.18, sub a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18) is hier van toepassing.
 
 De [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) is van toepassing op alle personen die hun gewone verblijf in Nederland hebben en een buitenlands kind willen adopteren. Al deze personen zijn gehouden de procedures te volgen zoals voorgeschreven door de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447). Aan de procedure van de wet moet derhalve zijn voldaan bij binnenkomst van het kind in Nederland.
 
 Indien het een adoptie betreft die zonder meer in Nederland kan worden erkend (zie B2/5.2.1), wordt de aanvraag van het kind getoetst aan de voorwaarden inzake gezinsvorming en gezinshereniging (zie B2/5). Is er bij de adoptie van het buitenlandse kind door in Nederland woonachtige aspirant-adoptiefouders nog geen declaratoir van de Nederlandse rechter verkregen over de geldigheid van de in het buitenland uitgesproken adoptie, dan wordt het kind toegelaten voor verblijf ter adoptie volgens de bepalingen van het onderhavige hoofdstuk.
 
-Om te kunnen bepalen door welke regels – die van B2 inzake gezinsvorming of gezinshereniging óf die van het onderhavige hoofdstuk – de aanvraag tot verlening van een verblijfsvergunning regulier van een (buitenlands) kind worden beheerst, is het van belang vast te stellen of de aanvraag betrekking heeft op een adoptiekind of een adoptiefkind.
+De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc. De VK-onderdaan geeft bij het indienen van de aanvraag aan wie er feitelijk tot zijn familie behoort. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van een uitnodigingsbrief van de IND.
 
-In de situatie waarin de adoptie wél in het buitenland is uitgesproken, maar het land niet is aangesloten bij het Haags Adoptieverdrag, is geen sprake van erkenning van rechtswege. Erkenning dient dan te geschieden door de Nederlandse rechter. In [artikel 10:103 t/m artikel 10:112 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=103) is vastgelegd onder welke voorwaarden tot erkenning kan worden overgegaan (zie B2/5.2.1.2). Eén van de voorwaarden is dat de bepalingen van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) in acht zijn genomen. B2 is in dit geval alleen van toepassing indien (bij inreis van het kind) de erkenning van de buitenlandse adoptiebeslissing door de Nederlandse rechter reeds voor handen is.
+De IND trekt de verblijfsvergunning als bedoeld in paragraaf B13/4.1 Vc met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt, terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van de verblijfsvergunning, zoals omschreven in paragraaf B10/2.3 Vc.
 
 Voor al deze kinderen geldt als voorwaarde dat naar het oordeel van de Minister voor het kind geen aanvaardbare toekomst is weggelegd in het land van herkomst doordat er ten aanzien van het kind sprake is van zodanige omstandigheden, dat het niet of bezwaarlijk door in het land van herkomst wonende naaste bloed- of aanverwanten kan worden verzorgd. Zulks wordt in het algemeen niet aangenomen van een kind dat bij zijn ouders verblijft in minder welvarende omstandigheden, voorzover die omstandigheden overigens ter plaatse als normaal zijn te beschouwen. Daarom zal het een in Nederland verblijvend gezin van een rechtmatig hier te lande verblijvende vreemdeling of Nederlander niet zijn toegestaan om bijvoorbeeld een jonger broertje of zusje van één der ouders, of neefje of nichtje op te nemen uitsluitend op grond van de opvatting dat het kind hier te lande in ruimere materiële welstand kan verkeren.
 
-Het is echter mogelijk dat in Nederland (alsnog) in de adoptie moeten worden voorzien middels een adoptie naar Nederland recht. Hiervan kan sprake zijn indien het kind afkomstig is uit een land waarvan het nationale recht niet vereist dat de adoptiebeslissing ter plekke wordt uitgesproken. Er is dan wel voldaan aan de vereisten voor adoptie in het gezin in Nederland, maar er is nog geen adoptiebeslissing genomen. De adoptie vindt pas plaats nadat het kind gedurende een proefperiode (bijvoorbeeld een jaar) in het gezin van de aspirant-adoptiefouders is opgenomen geweest. Indien aan de vereisten voor adoptie is voldaan, neemt de buitenlandse autoriteit een besluit tot opname van het buitenlandse kind in het gezin van de aspirant-adoptiefouder(s) ter adoptie. Alsdan wordt ten behoeve van het kind een verblijfsvergunning verleend, in afwachting van de adoptie (zie B3/2.3 en verder). Ook in de situatie waarin de in het buitenland uitgesproken adoptie noch op grond van het Haags Adoptieverdrag, noch op grond van [artikel 10:103 t/m artikel 10:112 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=103) kan worden erkend, wordt de beslissing op de aanvraag beheerst door de bepalingen van het onderhavige hoofdstuk. De bepalingen van onderhavig hoofdstuk zijn eveneens van toepassing op de aanvraag van een kind ten aanzien waarvan de bepalingen van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) door de in Nederland woonachtige aspirant-adoptiefouders niet in acht zijn genomen en niet bij een niet meer voor hogere voorziening vatbare beslissing van een Nederlandse rechter is bepaald dat die in het buitenland uitgesproken adoptie rechtsgeldig is.
+**Ad a.**
 
-In aanvulling op de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor de verlening van een verblijfsvergunning voor bepaalde tijd als genoemd in B1/4, gelden voor de verlening van een verblijfsvergunning voor bepaalde tijd in het kader van verblijf ter adoptie de volgende cumulatieve voorwaarden:
+**Ad b.**
 
 ### 3.3.1. Aanmelding en plaats van indiening van de aanvraag
 
-Door de aspirant-adoptiefouders dient een in het land van herkomst recent afgegeven (niet langer dan zes maanden geleden) medische verklaring met betrekking tot het buitenlandse kind te worden overgelegd, waaruit blijkt dat in redelijkheid niet valt aan te nemen dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind niet zou kunnen worden opgenomen. Indien uit de medische verklaring niet blijkt dat op TBC is getest, dient het kind (hier te lande) alsnog een onderzoek ter zake te ondergaan. Indien daaraan of aan de behandeling van TBC aan de ademhalingsorganen niet wordt meegewerkt, wordt de aanvraag met toepassing van [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79) afgewezen (zie ook B1/4.5). Het vorenstaande is uiteraard niet van toepassing indien het kind op grond van zijn nationaliteit is vrijgesteld van het vereiste van het ondergaan van een onderzoek naar en/of behandeling van TBC aan de ademhalingsorganen.
+**Ad c en d**.
 
-Ingevolge de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) zijn de aspirant-adoptiefouders vanaf het tijdstip van vertrek van het buitenlandse kind naar Nederland verplicht te voorzien in de kosten van verzorging en opvoeding van dat kind als ware het hun eigen kind. De kosten van een eventuele terugkeer naar het land van herkomst van het kind komen te hunnen laste. In het kader van het onderzoek met het oog op het afgeven van de beginseltoestemming, wordt door de Staatssecretaris van V&J bezien of de aspirant-adoptiefouders duurzaam over voldoende zelfstandige middelen van bestaan beschikken.
+De VK-onderdaan of zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een sticker als bedoeld in deze paragraaf. Het aanvragen van een sticker kan alleen op afspraak. Deze afspraak dient online via www.ind.nl gemaakt te worden.
 
 Ingevolge [artikel 5 Pleegkinderenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002084&artikel=5) is het hoofd van het pleeggezin verplicht van de opneming van een pleegkind binnen één week schriftelijk kennis te geven aan burgemeester en wethouders van de gemeente van verblijf.
 
@@ -11909,7 +11909,7 @@ De IND beschouwt een verklaring van het Ministerie van BuZa waaruit blijkt dat d
 
 ### 2.7.1.1. Algemene beleidsregels
 
-### 8.5.2. Belangenafweging en vrijwillige werkloosheid
+### B13. Terugtrekkingsregeling verblijfsrecht VK-onderdanen en familieleden
 
 De IND wijst deze aanvraag niet af als de vreemdeling:
 
@@ -11919,27 +11919,27 @@ De IND wijst deze aanvraag niet af als de vreemdeling:
 
 ### 9. Artikel 8 EVRM
 
-### 10.2.2.2. Aanvragen om voortzetting van verblijf
+### 2.1. Voorwaarden voor verblijf
 
-De IND beschouwt als bewijsmiddel dat de ex-geprivilegieerde tien aaneengesloten jaren in Nederland heeft verbleven:
+De IND verleent ambtshalve een verblijfsvergunning op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), in de vorm van een schriftelijke verklaring als bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) (hier verder te noemen: verblijfsvergunning) aan de VK-onderdaan en zijn familielid:
 
-Het familie- of gezinsleven tussen (geregistreerde en huwelijks)partners eindigt met de feitelijke verbreking van de (huwelijkse) relatie.
+Tijdens de overgangsperiode komen familieleden van VK-onderdanen in aanmerking voor een verblijfsvergunning als bedoeld in deze paragraaf en paragraaf B13/3.1 Vc:
 
 ### 10.2.3.2. Het bestaan van een objectieve belemmering
 
-Om onder de reikwijdte van artikel 8 EVRM te vallen dient sprake te zijn van een substantieel gewicht van de aangegane sociale banden. Dit betekent dat voor het aannemen van schending van het privé-leven sprake dient te zijn van een zeer langdurige verblijfsduur (circa dertig jaar, zie de uitspraken van het EHRM inzake Sisojeva van 16 juni 2005, nr 14492/03, Shevanova van 15 juni 2006, nr 58822/00 en Slivenko van 9 oktober 2003, nr 48321/99) eventueel in combinatie met onzekerheid over de verblijfsstatus (zie uitspraak van het EHRM inzake Mendizabal van 17 januari 2006, nr 51431/99).
+De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
 
-De belangenafweging valt, indien sprake is van een objectieve belemmering, alleen dan op voorhand al in het voordeel van de vreemdeling uit, indien er sprake is van een uitzichtloze situatie waarin van tevoren al volstrekt duidelijk is dat nimmer aan de voorwaarden voor verlening van een verblijfsvergunning zal kunnen worden voldaan en waarin het vragen van inspanningen om alsnog aan de voorwaarden te gaan voldoen, zinloos is. Dat wordt slechts aangenomen indien:
+De VK-onderdaan en zijn familielid die geen verblijfsvergunning van de IND hebben ontvangen maar van mening zijn dat zij hier wel recht op hebben, kunnen dit binnen de overgangsperiode schriftelijk melden bij de IND. Op basis van deze schriftelijke melding komen deze VK-onderdaan en zijn familielid alsnog in aanmerking voor ambtshalve beoordeling. De IND verleent een verblijfsvergunning, indien aan de voorwaarden genoemd in paragraaf B13/2.1 Vc wordt voldaan. Als niet aan deze voorwaarden wordt voldaan stuurt de IND ambtshalve een beschikking waarin gemotiveerd wordt aangegeven aan welke voorwaarde(n) niet wordt voldaan.
 
 ### 10.2.5. Beperking en arbeidsmarktaantekening
 
-Bij gezinshereniging dan wel -vorming zal in ieder geval in de belangenafweging betrokken dienen te worden of:
+De IND trekt de verblijfsvergunning met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt, terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van de verblijfsvergunning, zoals omschreven in paragraaf B10/2.3 Vc.
 
-Bij de beoordeling van het familie- of gezinsleven van meerderjarige kinderen en hun ouders dient in ieder geval in de belangenafweging betrokken te worden of sprake is van meer dan gebruikelijke afhankelijkheid en emotionele binding. Indien de banden zodanig bijzonder zijn dat aangenomen moet worden dat van een de normale emotionele banden tussen ouders en meerderjarige kinderen overstijgende, bijzondere afhankelijkheid sprake is, leidt dit op zichzelf nog niet tot de conclusie dat tevens sprake is van een verplichting om de vreemdeling verblijf toe te staan. Die omstandigheid vormt één van de aspecten die in de belangenafweging betrokken dient te worden. Hieraan komt op zichzelf geen doorslaggevende betekenis toe.
+In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór 29 maart 2019 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf na 29 maart 2019 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
 
 ### 9.2.3.2. Het bestaan van een objectieve belemmering
 
-De belangenafweging valt, indien sprake is van een objectieve belemmering, alleen dan op voorhand al in het voordeel van de vreemdeling uit, indien er sprake is van een uitzichtloze situatie waarin van tevoren al volstrekt duidelijk is dat nimmer aan de voorwaarden voor verlening van een verblijfsvergunning zal kunnen worden voldaan en waarin het vragen van inspanningen om alsnog aan de voorwaarden te gaan voldoen, zinloos is. Dat wordt slechts aangenomen indien:
+Het openbare orde criterium van paragraaf B10/2.3 Vc is hier van toepassing, tenzij een misdrijf is gepleegd na 29 maart 2019. Ten aanzien van de na 29 maart 2019 gepleegde misdrijf, gelden de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
 
 ### 9.3. Ambtshalve wijziging
 
@@ -11957,9 +11957,9 @@ De belangenafweging valt, indien sprake is van een objectieve belemmering, allee
 
 ### 2.2.1. Inleiding
 
-Erkenning van een buitenlandse adoptiebeslissing kan van rechtswege geschieden of door tussenkomst van de Nederlandse rechter. In de drie hieronder beschreven situaties zijn de bepalingen van B2 op de aanvraag van toepassing in plaats van de bepalingen van het onderhavige hoofdstuk, uiteraard voor zover het kind ten gevolge van de in het buitenland uitgesproken adoptie niet de Nederlandse nationaliteit heeft verkregen.
+De IND verleent op grond van [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) de verblijfsvergunning voor onbepaalde tijd als bedoeld in paragraaf B13/4.1 Vc met ingang van de datum waarop de aanvraag is ontvangen of zoveel later wanneer is aangetoond dat aan de voorwaarden wordt voldaan.
 
-### 3.1. Inleiding
+### 4.5. Intrekking van de verblijfsvergunning
 
 De aspirant-pleegouders verstrekken bij de ten behoeve van het kind in te dienen aanvraag de gegevens en bescheiden behorende bij de voorwaarden als vermeld onder B3/3.1. Het betreft:
 
@@ -12727,29 +12727,29 @@ Bewijsmiddelen bij een investering in een participatiefonds:
 
 ### 10.2.3.1. De af te wegen belangen in specifieke situaties
 
-Ten aanzien van de in [artikel 3.93, eerste lid, aanhef en onder b, sub 2, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) genoemde vreemdelingen geldt het volgende:
+Kinderen van VK-onderdanen of familieleden die tijdens de overgangsregeling in Nederland worden geboren komen voor een verblijfsvergunning als bedoeld in paragraaf B13/2.1 en B13/3.1 Vc in aanmerking, mits één van de ouders in het bezit is van een verblijfsvergunning op grond van de Terugtrekkingsregeling.
 
-In de volgende gevallen is in ieder geval sprake van familie- of gezinsleven als bedoeld in artikel 8 EVRM:
+**Ad a.**
 
 ### 10.2.2.1. Aanvragen om eerste verblijfsaanvaarding
 
-### 1. Inleiding
+### 2.2. Contra-indicaties
 
-### 9.2.3.1. De af te wegen belangen in specifieke situaties
+### 2.4. Intrekking van de verblijfsvergunning
 
 ### 10.2.3.4. Objectieve belemmering
 
-Om onder de reikwijdte van artikel 8 EVRM te vallen dient sprake te zijn van een substantieel gewicht van de aangegane sociale banden. Dit betekent dat voor het aannemen van schending van het privé-leven sprake dient te zijn van een zeer langdurige verblijfsduur (circa dertig jaar, zie de uitspraken van het EHRM inzake Sisojeva van 16 juni 2005, nr 14492/03, Shevanova van 15 juni 2006, nr 58822/00 en Slivenko van 9 oktober 2003, nr 48321/99) eventueel in combinatie met onzekerheid over de verblijfsstatus (zie uitspraak van het EHRM inzake Mendizabal van 17 januari 2006, nr 51431/99).
+**Ad a, b, c.**
 
 ### 10.4. Beperking en arbeidsmarktaantekening
 
-In veel zaken waarin sprake is van een Nederlands kind, wordt een beroep gedaan op artikel 3 van het Vierde Protocol bij het EVRM. Dat artikel ziet niet op het verlenen van een verblijfstitel aan een niet-Nederlandse ouder van een Nederlands kind, maar op aanspraken die een onderdaan van een betreffende staat jegens die staat geldend kan maken in het kader van feitelijke toelating tot het grondgebied van de staat en het bestendig verblijf aldaar. Nu uitzetting van een Nederlands kind in verblijfsprocedures van zijn ouders strikt genomen niet aan de orde is, komt aan artikel 3 van het Vierde Protocol van het EVRM in dit verband geen beslissende betekenis toe. Dit neemt niet weg dat, zoals hiervoor in deze paragraaf reeds is aangegeven, de belangen van het kind in de belangenafweging binnen artikel 8 EVRM worden betrokken.
+**Ad c.**
 
-Door de aspirant-adoptiefouders dient een in het land van herkomst recent afgegeven (niet langer dan zes maanden geleden) medische verklaring met betrekking tot het buitenlandse kind te worden overgelegd, waaruit blijkt dat in redelijkheid niet valt aan te nemen dat het kind lijdt aan een gevaarlijke besmettelijke of langdurige lichamelijke of geestelijke ziekte. Dit vereiste zal er echter niet toe leiden dat een gehandicapt kind niet zou kunnen worden opgenomen. Indien uit de medische verklaring niet blijkt dat op TBC is getest, dient het kind (hier te lande) alsnog een onderzoek ter zake te ondergaan. Indien daaraan of aan de behandeling van TBC aan de ademhalingsorganen niet wordt meegewerkt, wordt de aanvraag met toepassing van [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79) afgewezen (zie ook B1/4.5). Het vorenstaande is uiteraard niet van toepassing indien het kind op grond van zijn nationaliteit is vrijgesteld van het vereiste van het ondergaan van een onderzoek naar en/of behandeling van TBC aan de ademhalingsorganen.
+De IND houdt bij de beoordeling of sprake is van een ononderbroken periode van van vijf jaar rechtmatig verblijf rekening met de periode van het rechtmatig verblijf op grond van [richtlijn 2004/38/EG](32004L0038) tot 29 maart 2019 en met opgebouwd verblijfsrecht op grond van deze terugtrekkingsregeling.
 
 ### 1. Inleiding
 
-Onder adoptiefkind wordt uitsluitend verstaan een kind dat – als gevolg van een erkende buitenlandse adoptiebeslissing – naar de regels van Nederlands internationaal privaatrecht geldt als kind van de adoptanten. De beslissing op de aanvraag tot verlening van een verblijfsvergunning van een adoptiefkind wordt beheerst door de bepalingen van B2, uiteraard voor zover het kind ten gevolge van de erkende buitenlandse adoptiebeslissing niet de Nederlandse nationaliteit heeft verkregen.
+Indien de VK-onderdaan of zijn familielid niet voldoen aan de voorwaarde van paragraaf B13/4.1 onder c Vc toetst de IND, na afwijzing van de aanvraag, ambtshalve of wordt voldaan aan de voorwaarden voor verlening van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in paragraaf B13/3.1 Vc.
 
 ### 3.2. Voorwaarden voor verlening van de verblijfsvergunning
 
@@ -13339,15 +13339,15 @@ Bewijsmiddelen bij een investering in een contractueel samenwerkingsverband dat 
 
 ### 3. Bewijsmiddelen
 
-### 10.2.5. Beperking en arbeidsmarktaantekening
+### 3. Definitieve regeling voor bepaalde tijd
 
 ### 2. Buitenlandse adoptiekinderen
 
 ### 1. Inleiding
 
-### 1. Inleiding
+### 3.2. Contra-indicaties
 
-De redelijke termijn vangt in beginsel aan op de datum van dagtekening van de beschikking, waarbij de hoofdpersoon is toegelaten en waarmee hij toegang tot de arbeidsmarkt heeft verkregen. Dat is dus niet de (eerdere) ingangsdatum van het verblijfsrecht dat met terugwerkende kracht wordt verleend.
+De IND verleent evenmin een verblijfsvergunning indien er concrete aanwijzingen zijn dat de VK-onderdaan en/of het familielid een gevaar vormen voor de nationale veiligheid. De beleidsregels van paragraaf B1/4.4 Vc zijn in dat geval van toepassing.
 
 ### 3.3.3. Kennisgeving aan de gemeente
 
