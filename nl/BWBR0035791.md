@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2017-02-01"
+last_updated: "2019-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -186,7 +186,7 @@ Frequentiegebruik door overheidsorganisaties dat niet betrekking heeft op een pu
 
 In [artikel 3.1, tweede lid van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1) is bepaald dat in het NFP frequentiebanden worden aangewezen ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), kort gezegd: publieke omroep17De definitie in de Mediawet is maatgevend voor de interpretatie van dit begrip in het NFP. Voor een precieze definitie van ‘ publieke mediadienst’: zie Mediawet 2008.; voor deze categorie blijft het regime van vergunningverlening bij voorrang gehandhaafd.
 
-In [art 3.6 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6) is bepaald dat op aanvraag vergunningen worden verleend aan de Stichting Nederlandse Publieke Omroep indien het landelijke publieke omroep betreft, en aan regionale en lokale omroepen indien het regionale of lokale publieke omroep betreft. Vergunningen kunnen alleen worden verleend als in het NFP frequentieruimte is aangewezen voor dit doel. Verder gelden voor deze vergunningverlening de beperkingen genoemd in [artikel 3.7 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
+In [artikel 3.1, tweede lid van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1) is bepaald dat in het NFP frequentiebanden worden aangewezen ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), kort gezegd: publieke omroep17De definitie in de Mediawet is maatgevend voor de interpretatie van dit begrip in het NFP. Voor een precieze definitie van ‘ publieke mediadienst’: zie Mediawet 2008.; voor deze categorie blijft het regime van vergunningverlening bij voorrang gehandhaafd.
 
 ### 5.3. Zonder vergunning, onder voorwaarden
 
@@ -204,23 +204,23 @@ Voor de aanwijzing in het NFP van frequentiebanden welke via een veiling of een 
 
 Met de wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in maart 2013 is een nieuw verdeelinstrument geïntroduceerd, namelijk de ‘Verdeling op Afroep’ (VoA). Dit verdeelinstrument kan worden ingezet als het op voorhand onduidelijk is of er al dan niet schaarste te verwachten is bij frequentieruimte die men voornemens is te verdelen. Het belangrijkste kenmerk van deze verdelingswijze is dat niet de overheid, maar de markt de verdeling initieert. Deze verdeelwijze begint ermee dat, indien bepaalde frequentiebanden daarvoor geschikt worden geacht, het Ministerie van EZ in het frequentieplan die band voor VoA aanwijst. Vervolgens wordt gewacht tot de eerste belangstellende zich meldt voor die band. Die melding c.q. aanvraag wordt dan officieel bekendgemaakt.18Op https://www.officielebekendmakingen.nl, voorheen in de Staatscourant. Indien er geen andere belangstellenden zijn krijgt die eerste aanvrager die frequentieruimte om niet. In het geval er meerdere belangstellenden zijn wordt overgegaan tot een (eenvoudige) veilingprocedure.
 
-In dit NFP 2014 worden nog geen VoA-banden aangewezen. Na publicatie van het NFP 2014 zullen via een tussentijdse NFP-wijziging de eerste VoA-banden worden aangewezen.
+Met de wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in maart 2013 is een nieuw verdeelinstrument geïntroduceerd, namelijk de ‘Verdeling op Afroep’ (VoA). Dit verdeelinstrument kan worden ingezet als het op voorhand onduidelijk is of er al dan niet schaarste te verwachten is bij frequentieruimte die men voornemens is te verdelen. Het belangrijkste kenmerk van deze verdelingswijze is dat niet de overheid, maar de markt de verdeling initieert. Deze verdeelwijze begint ermee dat, indien bepaalde frequentiebanden daarvoor geschikt worden geacht, het Ministerie van EZ in het frequentieplan die band voor VoA aanwijst. Vervolgens wordt gewacht tot de eerste belangstellende zich meldt voor die band. Die melding c.q. aanvraag wordt dan officieel bekendgemaakt.18Op https://www.officielebekendmakingen.nl, voorheen in de Staatscourant. Indien er geen andere belangstellenden zijn krijgt die eerste aanvrager die frequentieruimte om niet. In het geval er meerdere belangstellenden zijn wordt overgegaan tot een (eenvoudige) veilingprocedure.
 
 ### 5.7. Vergunningverlening op volgorde van binnenkomst van de aanvraag
 
 Deze verdeelwijze wordt toegepast voor banden waarvoor geen schaarste aan de orde is.
 
-De voorwaarden waaronder de frequentieband kan worden gebruikt worden vastgelegd in een vergunning.
+Deze verdeelwijze wordt toegepast voor banden waarvoor geen schaarste aan de orde is.
 
-Een variant hiervan is: ‘Beperkt vergunningverlening op volgorde van binnenkomst van de aanvraag.’ Dit komt voor bij medegebruiksituaties, bijvoorbeeld wanneer er verschillende gebruikers in een band zijn, beide met in principe dezelfde status, maar waarbij het ene gebruik voorrang heeft op het andere gebruik. ‘Beperkt’ houdt hierbij in dat het gebruik met deze vermelding nauw wordt afgestemd met de andere primaire gebruiker in deze band, en dat deze laatste zijn toestemming moet geven voor het medegebruik.
+De voorwaarden waaronder de frequentieband kan worden gebruikt worden vastgelegd in een vergunning.
 
 ### 5.8. Beschermd voor passief gebruik
 
 Een frequentieband kan worden aangewezen voor uitsluitend de ontvangst van radiosignalen; hierin mag dus niet worden uitgezonden. Het gaat hierbij bijvoorbeeld om frequentieruimte die wordt gebruikt voor wetenschappelijk gebruik zoals radio-astronomie. Deze aanwijzing is mogelijk op grond van [art 3.1, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1).
 
-Een dergelijke bestemming is soms niet voor heel Nederland nodig; in dat geval zal een dergelijke aanwijzing een bepaald c.q. beperkt geografisch gebied van Nederland betreffen.
+Een frequentieband kan worden aangewezen voor uitsluitend de ontvangst van radiosignalen; hierin mag dus niet worden uitgezonden. Het gaat hierbij bijvoorbeeld om frequentieruimte die wordt gebruikt voor wetenschappelijk gebruik zoals radio-astronomie. Deze aanwijzing is mogelijk op grond van [art 3.1, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1).
 
-In diezelfde frequentieband kunnen meer primaire bestemmingen voorkomen, anders dan passieve, die wel radiosignalen mogen uitzenden. Het passieve gebruik in dezelfde frequentieband is mogelijk naast het actieve gebruik omdat ze zich in verschillende gebieden bevinden. In de vergunning van de primaire actieve frequentiegebruiker wordt dan aangegeven welke voorwaarden en beperkingen aan de orde zijn, die in dit geval met name op te beschermen ontvangst betrekking hebben (i.v.m. de rechten aldaar van de primaire passieve gebruiker).
+Een dergelijke bestemming is soms niet voor heel Nederland nodig; in dat geval zal een dergelijke aanwijzing een bepaald c.q. beperkt geografisch gebied van Nederland betreffen.
 
 ### 5.9. Vergunningverlening is niet van toepassing
 
@@ -234,13 +234,15 @@ Er zijn frequentiebanden die qua beschikbaarstelling tot nader order worden aang
 
 In aanvulling op dit NFP wordt er een Nationaal FrequentieRegister (NFR) bijgehouden. Het NFP verhoudt zich tot het NFR zoals een bestemmingsplan zich verhoudt tot het kadaster.
 
-Het Nationaal FrequentieRegister is een online applicatie waarmee men door middel van een zoekscherm informatie van een aangegeven spectrumzone kan opzoeken. Daarin is onderscheid gemaakt in het verdeelmechanisme. Voor schaarse frequentieruimte kan men detailinformatie vinden over de daarin uitgegeven vergunningen en zijn ook de vergunningbescheiden opgenomen. Voor niet-schaarse frequentieruimte is het aantal uitgegeven vergunningen opgenomen. Het NFR geeft per band de geldende bindende technische voorwaarden (radio-interfaces20dwz de te gebruiken standaarden zoals kanaalbreedte, modulatie en toegestaan vermogen. Een elektronisch woordenboek met begrippen en afkortingen treft u bijvoorbeeld op http://www.telecomabc.nl/) voor zowel vergunningplichtige als vergunningvrije frequentieruimte en verwijzingen naar eventuele betreffende ITU voetnoten en nationale voetnoten. Het NFR wordt onderhouden door Agentschap Telecom en is bereikbaar via de website van het agentschap21Zie het Nationaal Frequentieregister, http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister.
+In aanvulling op dit NFP wordt er een Nationaal FrequentieRegister (NFR) bijgehouden. Het NFP verhoudt zich tot het NFR zoals een bestemmingsplan zich verhoudt tot het kadaster.
 
 ### 7. Wat is er nieuw in dit NFP2014?
 
 Dit Nationaal FrequentiePlan-2014 is, ten opzichte van het NFP2005, op een omvangrijk aantal punten gewijzigd. Het betreft de punten zoals in de inleiding in hoofdstuk 1 opgesomd. In dit nieuwe plan worden geen inhoudelijke wijzigingen doorgevoerd indien deze expliciete voorafgaande onderzoek en beleidsafwegingen vereisen. Inhoudelijke wijzigingen worden de komende periode bekeken, en indien aanpassing van het NFP opportuun is, worden deze als tussentijdse wijzigingsbesluiten behandeld; in de voorbereiding zullen ze dan geconsulteerd worden.
 
-De belangrijkste veranderingen worden in de volgende vijf paragrafen opgesomd en omschreven.
+Dit Nationaal FrequentiePlan-2014 is, ten opzichte van het NFP2005, op een omvangrijk aantal punten gewijzigd. Het betreft de punten zoals in de inleiding in hoofdstuk 1 opgesomd. In dit nieuwe plan worden geen inhoudelijke wijzigingen doorgevoerd indien deze expliciete voorafgaande onderzoek en beleidsafwegingen vereisen. Inhoudelijke wijzigingen worden de komende periode bekeken, en indien aanpassing van het NFP opportuun is, worden deze als tussentijdse wijzigingsbesluiten behandeld; in de voorbereiding zullen ze dan geconsulteerd worden.
+
+### 7.1. De veranderingen in de frequentietabel en notatie
 
 ### 7.1. De veranderingen in de frequentietabel en notatie
 
@@ -252,27 +254,25 @@ De belangrijkste veranderingen worden in de volgende vijf paragrafen opgesomd en
 
 ### 7.5. Wijzigingen in inleidende teksthoofdstukken en bijlagen:
 
-### 7.6. Veranderingen in de NFP-wijzigingsprocedure
-
 De procedure voor wijziging van een NFP is door middel van de wijziging van [hoofdstuk 3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) vereenvoudigd c.q. verkort. Het Nationaal Frequentie Plan en NFP-wijzigingen wordt niet langer ‘in overeenstemming met het gevoelen van de ministerraad’ vastgesteld, doch door de minister van EZ met de betrokken ministeries bilateraal en direct voorbereid, waarna de minister van EZ het NFP-wijzigingsbesluit direct kan vaststellen. Op deze wijze hoeft niet meer de hele ministerraadprocedure voor de veelal technische wijzigingen te worden doorlopen. Door deze verandering kunnen nieuwe mogelijkheden sneller voor de markt beschikbaar worden gemaakt, wat innovatieve diensten en toepassingen faciliteert.
 
 ### 7.7. De gevolgde wijzigingsprocedureen consultatie van dit NFP2014
 
 Bij de totstandkoming van het besluit zijn belanghebbenden betrokken via de openbare voorbereidingsprocedure als bedoeld in [afdeling 3.4. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) (zie [artikel 3.3, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3)). Hieraan is invulling gegeven door de publicatie van een ontwerpbesluit NFP van 1 augustus 2014 tot en met 12 september 2014. Hierop zijn vijf reacties ontvangen.
 
-De naar aanleiding van de terinzagelegging ingediende reacties hebben er toe geleid dat het ontwerpbesluit op de volgende punten is aangepast:
+Bij de totstandkoming van het besluit zijn belanghebbenden betrokken via de openbare voorbereidingsprocedure als bedoeld in [afdeling 3.4. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) (zie [artikel 3.3, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3)). Hieraan is invulling gegeven door de publicatie van een ontwerpbesluit NFP van 1 augustus 2014 tot en met 12 september 2014. Hierop zijn vijf reacties ontvangen.
 
 ### 8. Frequentiegebruik afwijkend van de tabel
 
 De frequentietabel geeft per frequentieband uitputtend aan voor welke dienst of diensten deze is bestemd, op basis van de internationale afspraken, en van eventuele nadere nationale invulling.
 
-Er bestaan echter omstandigheden waaronder frequentiegebruik afwijkend van de tabel is toegestaan. Wettelijke regeling is hieronder bij enkele categorieën vermeld en voor de overige categorieën wordt dit binnen afzienbare tijd in de wet geregeld (par. 8.4 en 8.5 hieronder). Vooruitlopend op de wetswijziging wordt in dit hoofdstuk een overzicht gegeven van categorieën waarvoor vergunningen dan wel toewijzingen kunnen worden afgegeven in afwijking van hetgeen is bepaald in de frequentietabel in hoofdstuk 10. Het betreft de volgende categorieën:
+De frequentietabel geeft per frequentieband uitputtend aan voor welke dienst of diensten deze is bestemd, op basis van de internationale afspraken, en van eventuele nadere nationale invulling.
 
 ### 8.1. Experimenten
 
 In afwijking van de tabel is het mogelijk om voor een beperkte duur en, in het algemeen, voor een beperkt geografisch gebied een vergunning aan te vragen voor het doen van technische experimenten. Dit is geregeld is [art. 3.12 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.12).
 
-Een dergelijke vergunning is niet bedoeld voor het ontplooien van commerciële activiteiten.
+In afwijking van de tabel is het mogelijk om voor een beperkte duur en, in het algemeen, voor een beperkt geografisch gebied een vergunning aan te vragen voor het doen van technische experimenten. Dit is geregeld is [art. 3.12 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.12).
 
 ### 8.2. ‘Ultra Wideband’ (UWB) toepassingen
 
@@ -286,17 +286,17 @@ In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en 
 
 Evenementen zijn gebeurtenissen als bezoeken van buitenlandse staatshoofden, (inter)nationale happenings zoals wieler- en voetbalwedstrijden en grote popconcerten. Gebruikelijk bij deze evenementen is dat buitenlandse delegaties, journalisten, reportageploegen en beveiligers vaak gebruik maken van radio-apparatuur waarvoor een Nederlandse vergunning noodzakelijk is. Afwijken van het NFP kan dan aan de orde zijn. Dergelijk gebruik wordt afgestemd met de rechthebbenden.
 
+Evenementen zijn gebeurtenissen als bezoeken van buitenlandse staatshoofden, (inter)nationale happenings zoals wieler- en voetbalwedstrijden en grote popconcerten. Gebruikelijk bij deze evenementen is dat buitenlandse delegaties, journalisten, reportageploegen en beveiligers vaak gebruik maken van radio-apparatuur waarvoor een Nederlandse vergunning noodzakelijk is. Afwijken van het NFP kan dan aan de orde zijn. Dergelijk gebruik wordt afgestemd met de rechthebbenden.
+
 Een evenement is in principe kortdurend en vindt doorgaans lokaal plaats. Hierbij wel de kanttekening dat bijvoorbeeld een kampioenschap meerdere weken kan duren, en een wielerwedstrijd meer dan lokaal kan zijn.
 
 Een vergunning wordt verleend voor maximaal de duur van het evenement in ruime zin. (Hieronder valt ook het opbouwen en testen voorafgaand aan het evenement en eventueel nawerk).
-
-Evenementenomroep (in de FM band) is geregeld door middel van voetnoot HOL003.
 
 ### 8.5. Testinstellingen
 
 Apparatuur, voordat deze op de markt wordt gebracht, moet worden getest om te bezien of ze bestand is tegen elektromagnetische velden. Daartoe wordt de apparatuur blootgesteld aan signalen over een breed radiospectrum.
 
-Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([richtlijn 2004/108/EG](32004L0108) van het Europees parlement en de Raad van 15 december 2004 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit en tot intrekking van [Richtlijn 89/336/EEG](31989L0336), Pb EU L 390/24)24Op 26 februari 2014 is een nieuwe EMC-richtlijn aangenomen (2014/30/EU) die in werking treedt op 20 april 2016. of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
+Apparatuur, voordat deze op de markt wordt gebracht, moet worden getest om te bezien of ze bestand is tegen elektromagnetische velden. Daartoe wordt de apparatuur blootgesteld aan signalen over een breed radiospectrum.
 
 ### 8.6. Buitengewone omstandigheden
 
@@ -314,11 +314,13 @@ Onder deze kop staat de frequentiebandindeling zoals van toepassing in Nederland
 
 Onder deze kop staat de ITU-radiodienst (afkorting) waarvoor Nederland de betreffende frequentieband heeft bestemd. Annex 1 geeft de volledige lijst betekenissen van deze afkortingen.
 
+Onder deze kop staat de ITU-radiodienst (afkorting) waarvoor Nederland de betreffende frequentieband heeft bestemd. Annex 1 geeft de volledige lijst betekenissen van deze afkortingen.
+
 In deze kolom wordt een primaire status aangegeven in hoofdletters als [RADIODIENST]. Een secundaire status wordt aangegeven met kleine letters dus als [radiodienst].
 
-Non Interference -bestemming wordt aangegeven in kleine letters tussen schuine strepen, dus [/radiodienst/]
-
 ### Bestemming
+
+Deze kolom vermeldt voor welke radiodienst de frequentieband in Nederland is bestemd Dat kan een simpele en algemene bestemming zijn, bijvoorbeeld [Maritiemmobiele communicatie].
 
 Deze kolom vermeldt voor welke radiodienst de frequentieband in Nederland is bestemd Dat kan een simpele en algemene bestemming zijn, bijvoorbeeld [Maritiemmobiele communicatie].
 
@@ -334,19 +336,19 @@ Achter de (tekstuele) bestemmingen staan soms nummers vermeld. Dat zijn ITU-voet
 
 Aanduidingen die beginnen met ‘ HOLxxx’ zijn nationale voetnoten waarvan de betekenis staat vermeld in Annex 3.
 
-Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
-
 ### Verdeelmechanisme
 
 ‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
 
-‘Aangewezen voor’ houdt in dat de band in de eerste plaats beschikbaar is voor een publieke taak. Hoofdstuk 5 geeft de uitgebreide toelichting bij de verschillende soorten verdeelwijzen.
+‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
+
+### 10. De frequentietabel
 
 ### 10. De frequentietabel
 
 ### Bijlagen
 
-### Annex 1, Lijst van ITU radiodiensten
+Lijst van de voor Nederland relevante ITU-radiodiensten.
 
 Lijst van de voor Nederland relevante ITU-radiodiensten.
 
@@ -426,9 +428,9 @@ A radiocommunication service in which space craft or other objects in space are 
 
 The downlinks for a passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
 
-A passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
-
 ### Annex 2, Betekenis ITU voetnoten
+
+Hieronder treft u de lijst van ITU voetnoten voor zover vermeld in de NFP-frequentietabel, met daarbij de betekenis uit de ITU Radio Regulations. Tussen haakjes staat steeds na elke voetnoot vermeld in welke WRC deze is aangenomen.
 
 Hieronder treft u de lijst van ITU voetnoten voor zover vermeld in de NFP-frequentietabel, met daarbij de betekenis uit de ITU Radio Regulations. Tussen haakjes staat steeds na elke voetnoot vermeld in welke WRC deze is aangenomen.
 
@@ -1152,9 +1154,9 @@ Other radio astronomy stations notified after these dates may seek an agreement 
 
 The use of the range 275-1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275-1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275-1 000 GHz frequency range.
 
-All frequencies in the range 1000-3 000 GHz may be used by both active and passive services. (WRC-12)
-
 ### Annex 3, De nationale voetnoten
+
+Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
 Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
@@ -1204,9 +1206,9 @@ Onverminderd de vorige alinea, is deze band in elk geval bestemd voor het uitzen
 
 Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte van het frequentieblok 11C bestemd voor landelijke commerciële omroepen die zowel een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C als een FM-vergunning voor landelijke commerciële radio-omroep houden of gaan houden.
 
-Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
 
 medegebruik toestaan aan het ministerie van Veiligheid en Justitie. Deze nationale
 
@@ -1218,7 +1220,7 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-**ECA-tabel** – The European Table of Frequency Allocations and Applications in the frequency range 8.3 kHz to 3000 GHz (ECA Table)
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1231,6 +1233,10 @@ Systeem dat automatisch op regelmatige tijden de identiteit van een schip, de po
 **Besloten (smalbandig) net – Private Mobile Network**
 
 Radiocommunicatienet voor communicatie binnen een bedrijf. Een dergelijk net kan in eigen beheer of door een derde partij worden geëxploiteerd. (Smalbandigheid houdt in dat de radiokanalen maximaal 25 kHz zijn).
+
+**Bijzonder gebruik maritieme frequenties**
+
+Het gebruik van maritieme frequenties ten behoeve van maritieme veiligheid of maritieme werkzaamheden waarbij de gebruikte radioapparatuur niet gebonden is aan een schip. Voorbeelden hiervan zijn roeiers/vastmakers in de havens, onderhoudspersoneel op installaties op zee en wadloopgidsen. Het bezit van een maritiem bedieningscertificaat is verplicht.
 
 **BOP –**behoefte-onderbouwingsplan – Spectrum Needs Plan
 
@@ -1271,6 +1277,10 @@ Het vrijwillige samenwerkingsverband tussen Europese overheden op het gebied van
 **ENG/OB** – **Electronic News Gathering/Outside Broadcasting** / Omroep-gerelateerde activiteiten voor programmavervaardiging op locatie.
 
 **EPIRB** – **Emergency Position Indicating Radio Beacon** / Apparaat aan boord van schepen die als radiobaken blijven drijven op de plek waar een vaartuig in nood verkeert dan wel gezonken bij contact met het zeewater automatisch locatiegegevens uitzendt.
+
+**ESOMP - Earth Stations On Mobile Platform**
+
+Satellietgrondstation en bijbehorende systeem op een mobiele platform voor het zenden naar satellieten in geostationaire dan wel non-geostationaire banen. Voorbeelden van mobiele platforms zijn treinen, schepen, vliegtuigen, voertuigen enz. ESOMPs werken met kleine richtantennes waarmee breedband communicatieverbindingen met satellieten worden gerealiseerd.
 
 **ESV** – **Earth Stations on board Vessels** / Satellietstations aan boord van schepen.
 
@@ -1336,6 +1346,10 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Mobiele communicatie** – Een radiocommunicatiedienst tussen mobiele stations en landstations, of tussen mobiele stations onderling. / Mobile communication -radiocommunication service between mobile and land stations, or between mobile stations.
 
+**Mobile station / Mobiel station**
+
+**A station in the mobile service intended to be used while in motion or during halts at unspecified points.** / Een station dat behoort tot de mobiele radiocommunicatiedienst en gebruikt mag worden indien in beweging of vast op ongespecificeerde locaties.
+
 **MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
 
 **NDB** – **Non Directional Beacon**/ Navigatiebaken.
@@ -1343,6 +1357,10 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 **NFR** – Nationaal Frequentie Register, zie http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister
 
 **NIB** Non Interferentie Basis / Non Interferentie Base / Radiodienst die op basis van het NIB-principe gebruik mag maken van een frequentieband betekent dat deze dienst geen storing mag veroorzaken aan de radiodiensten met een primaire of secundaire status en bovendien storing moet accepteren.
+
+**Niet-gecoördineerde satellietgrondstations**
+
+Voor niet-gecoördineerde satellietgrondstations geldt dat het gebruik van frequentieruimte niet internationaal is afgestemd door toepassing van de coördinatie procedure van artikel 9 van de Radio Regulations. De gebruiker kan om die reden geen ongestoord frequentiegebruik claimen. Ook geldt voor deze grondstations dat zij geen verstoring mogen veroorzaken aan andere primaire gebruikers in de band of aan satellietgrondstations waarvoor wèl de internationale coördinatieprocedure (art. 9 RR) is doorlopen. Niet-gecoördineerde grondstations staan onder controle van een satellietnetwerk. Voorbeelden van niet-gecoördineerde satellietgrondstations zijn VSAT terminals, Low en High e.i.r.p. Satellite terminals (LEST & HEST) en satellietgrondstations op mobiele platforms (bijvoorbeeld aan boord van schepen en vliegtuigen, ESOMPs)
 
 **Omroepdienst:** mediadienst die betrekking heeft op het verzorgen van media-aanbod dat op basis van een chronologisch schema dat is vastgesteld door de instelling die verantwoordelijk is voor het media-aanbod, al dan niet gecodeerd door middel van een omroepzender of een omroepnetwerk wordt verspreid voor gelijktijdige ontvangst door het algemene publiek of een deel daarvan ([Artikel 1.1. Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1)).
 
@@ -1354,7 +1372,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **PMR** – 446 – **Personal Mobile Radio** / Systeem voor korteafstand-spraakcommunicatie in de 446 MHz band.
 
-**Radio-interfaces** -Voorwaarden aan apparatuur die in een frequentieband mag worden gebruikt. Deze voorwaarden hebben betrekking op de bandbreedte, kanaalindeling, het uitgezonden vermogen en de bezettingsgraad.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **RLAN** – **Radio Local Area Network** / Draadloos netwerk van computers en randapparatuur.
 
@@ -1372,7 +1390,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Standaardfrequentie en tijdsignaal**. De frequentietabel bevat op verschillende plaatsen ‘standaardfrequentie en tijdsignaal’ als bestemming. In dergelijke banden kunnen zendstations een signaal uitzenden om bijvoorbeeld klokken te synchroniseren. Nederland heeft dergelijke stations zelf niet, wel maken veel Nederlandse uurwerken gebruik van stations in het buitenland. Om die reden wordt in NL hiervoor toch bescherming geboden.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**STM-1** – **Synchronous Transport Module, level 1** / Vaste verbindingen, die een onderdeel vormen van een infrasructuurnetwerk hebben veelal een transportcapaciteit van 155 Mbit/sec volgens STM-1 formaat.
 
 **Supplemental downlink oftewel SDL**: een ongepaarde frequentieband die gecombineerd is met een gepaarde frequentieband in een mobiel communicatienetwerk met als functie de downlink capaciteit te verhogen. Hiermee kan een mobiele operator zijn netwerkcapaciteit beter laten aansluiten op het meest voorkomende, doorgaans asymmetrische mobiele verkeerspatroon, dat wil zeggen meer downlink verkeer dan uplink verkeer.
 
@@ -1388,9 +1406,13 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
+**VSAT**
+
+**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
+
 **WRC –** **World Radio Conference**
 
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
+For more information please consult the names and addresses in the colophon.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1418,13 +1440,37 @@ For more information please consult the names and addresses in the colophon.
 
 **Colofon**
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**Radio-interfaces** -Voorwaarden aan apparatuur die in een frequentieband mag worden gebruikt. Deze voorwaarden hebben betrekking op de bandbreedte, kanaalindeling, het uitgezonden vermogen en de bezettingsgraad.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Dit is een uitgave van Ministerie van Economische Zaken
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Redactie
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 A.H.W. Zwiers; ton.zwiers(a)agentschaptelecom.nl
 
 Drs. T. Deinum; t.deinum(a)minez.nl
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Agentschap Telecom
 
@@ -1434,43 +1480,141 @@ Emmasingel 1
 
 Postbus 450
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 9700 AL Groningen
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+Wat betreft benaming van de departementen in de NFP-tabel kunnen enigszins verschillende varianten daarvan voorkomen. Bijvoorbeeld ‘Ministerie van Veiligheid en Justitie’ versus ‘Ministerie van Justitie en Veiligheid’, naast andere voorbeelden. Dit is veroorzaakt door reorganisaties die sommige kabinetten hebben ingezet. Verschillende departementsbenamingen in de NFP-tabel veranderen niet iets aan inhoud en status van de aan- en toewijzingen van de publieke taken.
+
+### 5.2. Vergunningverlening aan publieke mediadienstenop aanvraag
+
+In [art 3.6 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6) is bepaald dat op aanvraag vergunningen worden verleend aan de Stichting Nederlandse Publieke Omroep indien het landelijke publieke omroep betreft, en aan regionale en lokale omroepen indien het regionale of lokale publieke omroep betreft. Vergunningen kunnen alleen worden verleend als in het NFP frequentieruimte is aangewezen voor dit doel. Verder gelden voor deze vergunningverlening de beperkingen genoemd in [artikel 3.7 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
+
+### 5.3. Zonder vergunning, onder voorwaarden
+
+Deze formulering houdt in dat deze ruimte vrij beschikbaar is om te gebruiken, dat wil zeggen, deze banden zijn niet aan een bepaalde gebruikersgroep aangewezen en er is geen verdeling of vergunningverlening aan de orde. Dit verdeelmechanisme wordt doorgaans gebruikt in geval van banden bestemd voor toepassingen met een laag of zeer laag vermogen (en dus minder kans om anderen te storen), bijvoorbeeld short range devices (SRD’s, korteafstandtoepassingen), Ultra Wideband-toepassingen of voor eindapparatuur. ‘Zonder vergunning’ is niet hetzelfde als ‘zonder regels of beperkingen’. De verplichte radio-interfaces voor deze banden zijn gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) wat in de tabel wordt aangeduid met ‘Zonder vergunning, onder voorwaarden’. Ditzelfde is ook eenvoudig na te zoeken in het frequentieregister.
+
+### 5.4. Zonder vergunning, onder voorwaarden met meldingsplicht
+
+Voor deze vorm is gekozen wanneer er beperkt risico op interferentie is doch waarbij enige waarborgen zijn vereist. Interferentierisico’s kunnen worden beperkt door van de gebruikers bekwaamheid in het gebruik van radiotechniek te eisen. Radiozendamateurs en marifoon-gebruikers vallen in deze categorie. Deze groepen moeten een examen met goed gevolg hebben afgelegd. Ook kan als eis worden opgelegd dat alvorens men bepaalde frequentiebanden mag gebruiken, men zich moet laten registreren. Ook voor de in deze paragraaf besproken categorieën zijn de betreffende voorschriften gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553).
+
+### 5.5. Vergunningverlening via veiling of vergelijkende toets
+
+Voor de aanwijzing in het NFP van frequentiebanden welke via een veiling of een vergelijkende toets worden verdeeld is gekozen omdat, mede op basis van gegevens uit het verleden, redelijkerwijs te verwachten is dat de voor de verdeling beschikbare frequentieruimte niet voldoende is om aan de vraag te voldoen en de frequenties in deze banden dus schaars zijn. De keuze voor een van de verdelingsinstrumenten, te weten veiling of een vergelijkende toets, is een discretionaire bevoegdheid van de minister.’
+
+### 5.6. Verdeling op Afroep (VoA)
+
+In dit NFP 2014 worden nog geen VoA-banden aangewezen. Na publicatie van het NFP 2014 zullen via een tussentijdse NFP-wijziging de eerste VoA-banden worden aangewezen.
+
+### 5.7. Vergunningverlening op volgorde van binnenkomst van de aanvraag
+
+Een variant hiervan is: ‘Beperkt vergunningverlening op volgorde van binnenkomst van de aanvraag.’ Dit komt voor bij medegebruiksituaties, bijvoorbeeld wanneer er verschillende gebruikers in een band zijn, beide met in principe dezelfde status, maar waarbij het ene gebruik voorrang heeft op het andere gebruik. ‘Beperkt’ houdt hierbij in dat het gebruik met deze vermelding nauw wordt afgestemd met de andere primaire gebruiker in deze band, en dat deze laatste zijn toestemming moet geven voor het medegebruik.
+
+### 5.8. Beschermd voor passief gebruik
+
+In diezelfde frequentieband kunnen meer primaire bestemmingen voorkomen, anders dan passieve, die wel radiosignalen mogen uitzenden. Het passieve gebruik in dezelfde frequentieband is mogelijk naast het actieve gebruik omdat ze zich in verschillende gebieden bevinden. In de vergunning van de primaire actieve frequentiegebruiker wordt dan aangegeven welke voorwaarden en beperkingen aan de orde zijn, die in dit geval met name op te beschermen ontvangst betrekking hebben (i.v.m. de rechten aldaar van de primaire passieve gebruiker).
+
+### 5.9. Vergunningverlening is niet van toepassing
+
+Banden met deze vermelding vallen in verschillende rubrieken. Bijvoorbeeld betreft dit de categorie banden die zijn bestemd om signalen vanuit ruimtesatellieten naar de aarde te zenden19Voor ontvangst van signalen geeft de Nederlandse administratie geen vergunningen uit. De satellieten die het betreft kunnen in allerlei landen geregistreerd staan, en zenden vaak over een heel continent tegelijk uit, zodat het niet in de rede ligt dat Nederland voor betreffende satelliet-zendactiviteiten vergunningen uitgeeft. Echter dienen ook in Nederland deze banden gereserveerd te blijven voor ontvangst van betreffende signalen. Voor zover het satellietverbindingen betreft (up & down) worden er door de Nederlandse administratie voor de uplink wel vergunningen verstrekt, op volgorde van binnenkomst van de aanvraag, immers voor dat deel betreft het aards frequentiegebruik. of om op aarde naar verschijnselen te luisteren zoals meteowaarneming van onweer. Anderzijds kan het gaan om communicatie, observatie en navigatie; ten aanzien van de categorie communicatie zijn de varianten: ontvangstbanden voor vaste satellietverbindingen, ontvangstbanden voor mobiele satellietcommunicatie en banden voor satellietomroep. En een nog weer andere rubriek is die van de zogenaamde guard bands, dat wil zeggen stukjes frequentieruimte die leeg worden gehouden om verstoring tussen banden onderling te vermijden.
+
+### 5.10. Verdeling is aangehouden
+
+Er zijn frequentiebanden die qua beschikbaarstelling tot nader order worden aangehouden. Dat kan zijn omdat er nog een studie plaatsvindt ten aanzien van geschikte toekomstige diensten/bestemmingen in deze frequentieband en/of ten aanzien van passende parameters voor bescherming van andere diensten, en/of men het bestaand gebruik in die band wil uitfaseren. De vermelding ‘Geen nieuwe vergunningen voor [...]’ heeft betrekking op deze laatste categorie.
+
+### 6. Het Nationaal FrequentieRegister (NFR)
+
+Het Nationaal FrequentieRegister is een online applicatie waarmee men door middel van een zoekscherm informatie van een aangegeven spectrumzone kan opzoeken. Daarin is onderscheid gemaakt in het verdeelmechanisme. Voor schaarse frequentieruimte kan men detailinformatie vinden over de daarin uitgegeven vergunningen en zijn ook de vergunningbescheiden opgenomen. Voor niet-schaarse frequentieruimte is het aantal uitgegeven vergunningen opgenomen. Het NFR geeft per band de geldende bindende technische voorwaarden (radio-interfaces20dwz de te gebruiken standaarden zoals kanaalbreedte, modulatie en toegestaan vermogen. Een elektronisch woordenboek met begrippen en afkortingen treft u bijvoorbeeld op http://www.telecomabc.nl/) voor zowel vergunningplichtige als vergunningvrije frequentieruimte en verwijzingen naar eventuele betreffende ITU voetnoten en nationale voetnoten. Het NFR wordt onderhouden door Agentschap Telecom en is bereikbaar via de website van het agentschap21Zie het Nationaal Frequentieregister, http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister.
+
+### 7. Wat is er nieuw in dit NFP2014?
+
+De belangrijkste veranderingen worden in de volgende vijf paragrafen opgesomd en omschreven.
+
+### 7.6. Veranderingen in de NFP-wijzigingsprocedure
+
+De procedure voor wijziging van een NFP is door middel van de wijziging van [hoofdstuk 3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) vereenvoudigd c.q. verkort. Het Nationaal Frequentie Plan en NFP-wijzigingen wordt niet langer ‘in overeenstemming met het gevoelen van de ministerraad’ vastgesteld, doch door de minister van EZ met de betrokken ministeries bilateraal en direct voorbereid, waarna de minister van EZ het NFP-wijzigingsbesluit direct kan vaststellen. Op deze wijze hoeft niet meer de hele ministerraadprocedure voor de veelal technische wijzigingen te worden doorlopen. Door deze verandering kunnen nieuwe mogelijkheden sneller voor de markt beschikbaar worden gemaakt, wat innovatieve diensten en toepassingen faciliteert.
+
+### 7.7. De gevolgde wijzigingsprocedureen consultatie van dit NFP2014
+
+De naar aanleiding van de terinzagelegging ingediende reacties hebben er toe geleid dat het ontwerpbesluit op de volgende punten is aangepast:
+
+### 8. Frequentiegebruik afwijkend van de tabel
+
+Er bestaan echter omstandigheden waaronder frequentiegebruik afwijkend van de tabel is toegestaan. Wettelijke regeling is hieronder bij enkele categorieën vermeld en voor de overige categorieën wordt dit binnen afzienbare tijd in de wet geregeld (par. 8.4 en 8.5 hieronder). Vooruitlopend op de wetswijziging wordt in dit hoofdstuk een overzicht gegeven van categorieën waarvoor vergunningen dan wel toewijzingen kunnen worden afgegeven in afwijking van hetgeen is bepaald in de frequentietabel in hoofdstuk 10. Het betreft de volgende categorieën:
+
+### 8.1. Experimenten
+
+Een dergelijke vergunning is niet bedoeld voor het ontplooien van commerciële activiteiten.
+
+### 8.2. ‘Ultra Wideband’ (UWB) toepassingen
+
+Ultra Wideband-toepassingen voor radiocommunicatie worden vergunningvrij toegelaten op interferentievrije en onbeschermde basis, zgn. non-interference basis (NIB), voor zover ze voldoen aan de uitgestraalde vermogenslimieten en andere voorwaarden genoemd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553).
+
+### 8.3. Frequenties voor bezoekende strijdkrachten volgens NJFA
+
+In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en in coördinatie met de rechthebbende(n), voor bezoekende strijdkrachten, conform afspraken in het vigerend NJFA (NATO Joint Civil/Military Frequency Agreement), op verzoek van de minister van Defensie en voor de duur van het bezoek, door Agentschap Telecom frequenties beschikbaar worden gesteld.
+
+### 8.4. Evenementen
+
+Evenementenomroep (in de FM band) is geregeld door middel van voetnoot HOL003.
+
+### 8.5. Testinstellingen
+
+Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([richtlijn 2004/108/EG](32004L0108) van het Europees parlement en de Raad van 15 december 2004 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit en tot intrekking van [Richtlijn 89/336/EEG](31989L0336), Pb EU L 390/24)24Op 26 februari 2014 is een nieuwe EMC-richtlijn aangenomen (2014/30/EU) die in werking treedt op 20 april 2016. of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
+
+### 8.6. Buitengewone omstandigheden
+
+In buitengewone omstandigheden – dat wil zeggen bij grote rampen, in tijden van oorlog of in andere crisissituaties waarin een (beperkte of algemene) noodtoestand is afgekondigd – kan de minister aanwijzingen geven aan gebruikers van frequentieruimte ten aanzien van beperking of beëindiging hiervan. Andere gebruikers kunnen juist meer frequentieruimte toegewezen krijgen. In [hst 14 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14) zijn de regels hiervoor beschreven. Het Agentschap Telecom ziet toe op de naleving hiervan.
+
+### 9. korte handleiding voor interpretatie van de frequentietabel
+
+Dit hoofdstuk bevat een beknopte handleiding en syntaxis voor interpretatie van de hierop volgende frequentietabel. In voorgaande hoofdstukken zijn de ins en outs van spectrumordening en spectrumverdeelbeleid uitgebreid behandeld.
+
+### Bandgrens
+
+Onder deze kop staat de frequentiebandindeling zoals van toepassing in Nederland. Wanneer de bandgrens vet is aangegeven komt deze overeen met een ITU-bandgrens op dit punt. Indien niet vet betreft het een ingevoegde Nederlandse bandgrens.
+
+### Itu-radiodienst
+
+Non Interference -bestemming wordt aangegeven in kleine letters tussen schuine strepen, dus [/radiodienst/]
+
+### Bestemming
+
+Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
+
+### Verdeelmechanisme
+
+‘Aangewezen voor’ houdt in dat de band in de eerste plaats beschikbaar is voor een publieke taak. Hoofdstuk 5 geeft de uitgebreide toelichting bij de verschillende soorten verdeelwijzen.
+
+### Annex 1, Lijst van ITU radiodiensten
+
+A passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
+
+### Annex 2, Betekenis ITU voetnoten
+
+All frequencies in the range 1000-3 000 GHz may be used by both active and passive services. (WRC-12)
+
+### Annex 3, De nationale voetnoten
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Telefoon (050) 587 74 44
 
 Internet: www.agentschaptelecom.nl
 
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-**STM-1** – **Synchronous Transport Module, level 1** / Vaste verbindingen, die een onderdeel vormen van een infrasructuurnetwerk hebben veelal een transportcapaciteit van 155 Mbit/sec volgens STM-1 formaat.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
 Email:info@agentschaptelecom.nl
 
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
 Directoraat-Generaal Energie, Telecom en Mededinging
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Bezuidenhoutseweg 73
 
 2594 AV Den Haag,
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Postbus 20401
 
@@ -1479,10 +1623,6 @@ Postbus 20401
 Telefoon (070) 379 89 11
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
 
