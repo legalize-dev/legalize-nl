@@ -4,7 +4,7 @@ identifier: "BWBR0033794"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2019-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033794"
 soort: "pbo"
@@ -40,13 +40,11 @@ Stelt de volgende verordening vast:
 
 ##### Artikel 1
 
-Bij de samenstelling van het bestuur wordt gestreefd naar de volgende verhouding:
+Bij het doen van een aanbeveling als bedoeld in [artikel 5, eerste lid van de Verordening op de ledenvergadering](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&artikel=5) streeft het bestuur naar een samenstelling van het bestuur waarin:
 
-|   | Openbaar accountants | Intern en overheidsaccountants | Accountants in business | Totaal |
-| --- | --- | --- | --- | --- |
-| AA | 4 | – | 1 | 5 |
-| RA | 4 | 1 | 3 | 8 |
-| Totaal | 8 | 1 | 4 | 13 |
+- a. de meerderheid van de leden van het bestuur die accountant zijn, bestaat uit openbaar accountants; en
+
+- b. de belangen van verschillende categorieën leden en accountantspraktijken naar de aard van hun werkzaamheden worden meegenomen in de afwegingen van het bestuur.
 
 ##### Artikel 2
 
@@ -109,67 +107,3 @@ De [Verordening op het bestuur 2012](https://wetten.overheid.nl/jci1.3:c:BWBR003
 1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening op het bestuur.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 2a
-
-1. Het bestuur draagt zorg voor een adequate informatieverschaffing en voorlichting aan de ledenvergadering.
-
-2. In het geval het bestuur zich met een beroep op een zwaarwegend belang niet alle door de ledenvergadering verlangde informatie verstrekt, dan motiveert het bestuur dit beroep.
-
-##### Artikel 2b
-
-1. Het bestuur evalueert jaarlijks het eigen functioneren alsmede dat van de afzonderlijke leden van het bestuur.
-
-2. Het bestuur laat eens in de twee jaren het eigen functioneren alsmede dat van de afzonderlijke leden van het bestuur evalueren in welk geval het eerste lid buiten toepassing blijft.
-
-3. Bij de evaluaties bedoeld in het eerste en tweede lid, wordt eveneens de samenwerking met de directie en het bureau betrokken.
-
-##### Artikel 2c
-
-1. Het bestuur stelt een audit- en riskcommissie in, waarvan de leden worden gevormd door twee of meer leden van het bestuur.
-
-2. Het lidmaatschap van de audit- en riskcommissie wordt niet vervuld door de voorzitter van het bestuur.
-
-3. De audit- en riskcommissie heeft in elk geval tot taak de besluitvorming van het bestuur voor te bereiden over het toezicht op de integriteit en kwaliteit van de financiële verslaggeving van de beroepsorganisatie en het stelsel van risicobeheersing.
-
-##### Artikel 2d
-
-1. Het bestuur stelt een selectie- en remuneratiecommissie in, waarvan de leden worden gevormd door twee of meer leden van het bestuur.
-
-2. Het voorzitterschap van de selectie- en remuneratiecommissie wordt niet vervuld door de voorzitter van het bestuur.
-
-3. De selectie- en remuneratiecommissie heeft in elk geval tot taak de besluitvorming van het bestuur voor te bereiden ten aanzien van kandidaten welke het bestuur aan de ledenvergadering voordraagt voor benoeming tot lid van het bestuur.
-
-##### Artikel 2e
-
-1. Het bestuur stelt commissie regelgeving in, waarvan de leden worden gevormd door twee of meer leden van het bestuur.
-
-2. Het lidmaatschap van de commissie regelgeving wordt niet vervuld door de voorzitter van het bestuur.
-
-3. De commissie regelgeving heeft in elk geval tot taak de besluitvorming van het bestuur voor te bereiden ten aanzien van vast te stellen regelgeving dan voorstellen tot vaststelling van regelgeving.
-
-##### Artikel 2f
-
-1. Het bestuur stelt een juridische commissie in, waarvan de leden worden gevormd door twee of meer leden van het bestuur.
-
-2. Het lidmaatschap van de juridische commissie wordt niet vervuld door de voorzitter van het bestuur.
-
-3. De juridische commissie heeft in elk geval tot taak de besluitvorming van het bestuur voor te bereiden ten aanzien van voorstellen tot beslissingen op bezwaarschriften en klachten alsmede voorstellen tot indiening van tuchtklachten door de beroepsorganisatie.
-
-##### Artikel 2g
-
-1. Het bestuur stelt een benoemingscommissie in, waarvan de leden worden gevormd door twee of meer leden van het bestuur.
-
-2. De benoemingscommissie heeft in elk geval tot taak ter voorbereiding van de besluitvorming van het bestuur ten aanzien van benoemingen door het bestuur, toe te zien op de naleving van door het bestuur vastgesteld beleid ten aanzien van benoemingen.
-
-##### Artikel 2h
-
-Het bestuur legt aan de ledenvergadering een verordening ter vaststelling voor met betrekking tot vergoedingen voor leden van het bestuur of wijzigingen van die vergoedingen.
-
-##### Artikel 2i
-
-Het bestuur voert een diversiteitsbeleid waarin concrete doelstellingen worden opgenomen ten aanzien van een evenwichtige afspiegeling naar nationaliteit, leeftijd, geslacht en achtergrond inzake opleiding en beroepservaring in het bestuur en de hoogste leidinggevende organen van het bureau.
