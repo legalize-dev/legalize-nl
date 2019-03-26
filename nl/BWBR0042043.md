@@ -4,7 +4,7 @@ identifier: "BWBR0042043"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-03-26"
-last_updated: "2018-01-01"
+last_updated: "2019-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042043"
 soort: "zbo"
@@ -91,7 +91,7 @@ In de bestuurlijke verantwoording worden ook overzichten opgenomen inclusief toe
 
 Het CAK neemt in de bestuurlijke verantwoording in het hoofdstuk waarin de verantwoording plaatsvindt over het financiële overzicht van activa en passiva van de wettelijke taken op basis van het toerekeningsbeginsel (in de bestuurlijke verantwoording 2017 was dit hoofdstuk 8) een cijfermatige en tekstuele toelichting op over de opvolging van het foutherstel zoals vermeld in hoofdstuk 8 ‘Financieel overzicht activa en passiva wettelijke taken op basis van toerekeningsbeginsel’ van de ‘Bestuurlijke verantwoording 2016 en 2017’ van het CAK.
 
-De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2018-01-01) ‘Waarderingsgrondslagen’ van dit model.
+De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2019-03-26) ‘Waarderingsgrondslagen’ van dit model.
 
 In de bestuurlijke verantwoording wordt gebruik gemaakt van de matrix bestuurlijke verantwoording VWS en NZa (zie paragraaf 4.2.4). In deze matrix legt het CAK verantwoording af over de financiële stromen:
 
@@ -151,7 +151,7 @@ Bij de rechtmatige uitvoering van taken kan voor de daarbij gebruikte gegevens o
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, die een externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=4&z=2019-03-26&g=2018-01-01) ‘Juridisch kader’ van dit model is een verwijzing opgenomen naar de circulaires en de regelgeving die de basis vormen voor de uitwerking van het rechtmatigheidsbegrip.
+In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=4&z=2019-03-26&g=2019-03-26) ‘Juridisch kader’ van dit model is een verwijzing opgenomen naar de circulaires en de regelgeving die de basis vormen voor de uitwerking van het rechtmatigheidsbegrip.
 
 Als aan de genoemde randvoorwaarden is voldaan kan, rekening houdend met de invulling van het begrip rechtmatigheid in dit hoofdstuk, een externe accountant een rechtmatigheidsoordeel geven en kan hij in zijn verslag een uitspraak doen over de rechtmatige uitvoering van de [Wtcg](https://wetten.overheid.nl/jci1.3:c:BWBR0025003), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) (ouderbijdragen), de afgifte van Schengen- en Engelstalige verklaringen, de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de CER. Het protocol werkt de richtlijnen voor het onderzoek uit van een externe accountant.
 
@@ -167,9 +167,9 @@ Bij de verantwoording over de borging van de rechtmatigheid geeft het CAK aan op
 
 In de bestuurlijke verantwoording worden ook overzichten inclusief toelichtingen opgenomen van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar (inclusief vergelijkende cijfers) op kasbasis en op basis van het toerekeningsbeginsel. Van deze activa en passiva worden ook verloopoverzichten en toelichtingen opgenomen van vorderingen en schulden (minimaal verloopoverzichten van de rekening-courantposities en de openstaande vorderingen inclusief een uitsplitsing van deze openstaande vorderingen naar ouderdom voor de posten die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)).
 
-De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2018-01-01) ‘Waarderingsgrondslagen’ van dit model.
+De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2019-03-26) ‘Waarderingsgrondslagen’ van dit model.
 
-In de bestuurlijke verantwoording wordt gebruik gemaakt van de matrices bestuurlijke verantwoording VWS en NZa (zie paragraaf 4.2.4, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=2&z=2019-03-26&g=2018-01-01) ‘Model matrix bestuurlijke verantwoording VWS’ en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=3&z=2019-03-26&g=2018-01-01) ‘Model matrix bestuurlijke verantwoording NZa’). In deze matrices legt het CAK verantwoording af over de financiële stromen op kasbasis.
+In de bestuurlijke verantwoording wordt gebruik gemaakt van de matrices bestuurlijke verantwoording VWS en NZa (zie paragraaf 4.2.4, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=2&z=2019-03-26&g=2019-03-26) ‘Model matrix bestuurlijke verantwoording VWS’ en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=3&z=2019-03-26&g=2019-03-26) ‘Model matrix bestuurlijke verantwoording NZa’). In deze matrices legt het CAK verantwoording af over de financiële stromen op kasbasis.
 
 ### 4.2. De borging van de rechtmatigheid van de financiële stromen
 
@@ -237,7 +237,7 @@ In het kader van de afwikkeling van de ouderbijdragen [Jeugdwet](https://wetten.
 
 Daarnaast moet het CAK zich in de rekening-courantpositie 'Eigen bijdragen Ouderbijdrage Jeugdwet', die is opgenomen in de bestuurlijke verantwoording, verantwoorden over de afgeboekte bedragen.
 
-Het CAK verantwoordt zich over deze financiële stromen en de uitvoering van de ObJw in de bestuurlijke verantwoording. In de bestuurlijke verantwoording wordt vermeld hoeveel bijdrageplichtigen er zijn voor de ouderbijdrage en hoeveel bijdrage er is geïnd. De kengetallen voor de ObJw staan vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=5&z=2019-03-26&g=2018-01-01) 'Definities kengetallen en prestatie-indicatoren'.
+Het CAK verantwoordt zich over deze financiële stromen en de uitvoering van de ObJw in de bestuurlijke verantwoording. In de bestuurlijke verantwoording wordt vermeld hoeveel bijdrageplichtigen er zijn voor de ouderbijdrage en hoeveel bijdrage er is geïnd. De kengetallen voor de ObJw staan vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=5&z=2019-03-26&g=2019-03-26) 'Definities kengetallen en prestatie-indicatoren'.
 
 Door de bijzondere context waarbinnen het CAK zijn taak rond de vaststelling en inning van de ObJw heeft moeten invullen, heeft VWS ermee ingestemd dat het CAK zich niet via een Third Party Mededeling (TPM) aan de gemeenten over deze taak hoeft te verantwoorden. Dit maakt onderdeel uit van de tussen het Ministerie van VWS en het CAK gemaakte afspraken.
 
@@ -525,7 +525,7 @@ Het CAK neemt in het ‘Financieel overzicht activa en passiva van de financiël
 
 Bij de verantwoording over de borging van de rechtmatigheid van de financiële stromen maakt het CAK gebruik van de matrix bestuurlijke verantwoording. De matrix geeft aan bij welke financiële stromen13De verantwoording van financiële stromen vindt plaats op kasbasis. het CAK is betrokken, wat de omvang is van deze financiële stromen, welke taken en verantwoordelijkheden het CAK heeft ten aanzien van deze financiële stromen en welke voorbehouden gelden in verband met de opdrachtverstrekking en gegevensaanlevering door derden. In de kolom bestuurlijke verantwoording geeft het CAK aan hoe en in hoeverre de rechtmatigheid van de financiële stromen door het CAK is gewaarborgd.
 
-De matrix voor VWS is uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=2&z=2019-03-26&g=2018-01-01) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitwerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=3&z=2019-03-26&g=2018-01-01) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices geven de volgende financiële stromen weer, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK:
+De matrix voor VWS is uitgewerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=2&z=2019-03-26&g=2019-03-26) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitwerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=3&z=2019-03-26&g=2019-03-26) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices geven de volgende financiële stromen weer, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK:
 
 Inzake VWS:
 
@@ -533,7 +533,7 @@ Inzake VWS:
 
 ### 4.3. Kengetallen en prestatie-indicatoren
 
-Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2018-01-01) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
+Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042043&bijlage=1&z=2019-03-26&g=2019-03-26) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
 
 Met het oog op eventuele controles achteraf legt het CAK duidelijk intern vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
 
