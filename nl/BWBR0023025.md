@@ -4,7 +4,7 @@ identifier: "BWBR0023025"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2019-02-15"
+last_updated: "2019-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023025"
 soort: "AMvB"
@@ -574,195 +574,93 @@ Vervallen
 
 ##### Artikel 3.1
 
-1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
-
-**bezoldiging**: bedrag per maand waarop een voorzitter of een lid van het dagelijks bestuur aanspraak kan maken;
-
-**FPU-uitkering**: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van [artikel 2 van de Wet kaderregeling vut overheidspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0007792&artikel=2) en onder het Pensioenreglement van de Stichting pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4);
-
-**lid van het algemeen bestuur**: lid van het algemeen bestuur van een waterschap, dat niet tevens lid van het dagelijks bestuur van dat waterschap is;
-
-**lid van het dagelijks bestuur**: lid van het dagelijks bestuur van een waterschap, dat niet tevens voorzitter is van dat waterschap;
-
-**plaatsvervangend voorzitter**: het lid van het dagelijks bestuur dat tot plaatsvervanger van de voorzitter is aangewezen;
-
-**salarisschaal**: een als zodanig in [bijlage B van Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) vermelde reeks van genummerde salarissen;
-
-**tijdsbestedingsnorm**: het deel van de werkweek dat de voorzitter en het lid van het dagelijks bestuur in staat dienen te worden gesteld aan hun ambt te besteden, uitgedrukt in een percentage van een voltijdsfunctie;
-
-**tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur**: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen C 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=C_4), [artikel X 7a, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7a), juncto [artikel 33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=33) en de [artikelen 20, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=20);
-
-**tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur**: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in [artikel 41, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=41);
-
-**vergoeding**: maandelijkse vergoeding voor de werkzaamheden verbonden aan het lidmaatschap van het algemeen bestuur.
-
-2. In dit hoofdstuk wordt onder het provinciaal bestuur onderscheidenlijk (het college van) gedeputeerde staten verstaan het provinciaal bestuur onderscheidenlijk (het college of de colleges van) gedeputeerde staten van de provincie of de provincies waarin het waterschap is gelegen.
+Vervallen
 
 #### § 21. Overige bepalingen
 
 ##### Artikel 3.2
 
-1. Aan een lid van het algemeen bestuur wordt een vergoeding toegekend van € 492,68.
-
-2. Het bedrag van de vergoeding wordt per 1 januari van elk jaar bij ministeriële regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september van het voorafgaande kalenderjaar vastgestelde indexcijfer CAO lonen overheid, inclusief bijzondere beloningen.
+Vervallen
 
 ##### Artikel 3.3
 
-1. Naast de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2019-02-15&g=2019-02-15), ontvangen fractievoorzitters voor de duur van hun voorzitterschap per jaar een toelage gelijk aan 1,2% van de vergoeding op jaarbasis en een toelage gelijk aan 0,4% van de vergoeding op jaarbasis voor elk lid dat de fractie buiten de fractievoorzitter telt. De toelagen tezamen bedragen ten hoogste 6,4% van de vergoeding op jaarbasis.
-
-2. Voor de toepassing van het eerste lid stelt de voorzitter vast:
-
-- a. hoeveel leden een fractie telt;
-
-- b. de duur van het fractievoorzitterschap.
+Vervallen
 
 ##### Artikel 3.4
 
-Het algemeen bestuur kan bij verordening bepalen dat ten hoogste 50% van de vergoeding wordt uitgekeerd, berekend naar rato van het aantal gehouden vergaderingen. In dat geval geschiedt de uitkering aan het lid van het algemeen bestuur op basis van het aantal bijgewoonde vergaderingen.
+Vervallen
 
 ##### Artikel 3.5
 
-1. De vergoeding gaat in op de dag van de beëdiging.
-
-2. De vergoeding eindigt op het tijdstip van de beëindiging van het lidmaatschap van het algemeen bestuur.
+Vervallen
 
 ##### Artikel 3.6
 
-Op de leden van het algemeen bestuur zijn van overeenkomstige toepassing de regelingen ten behoeve van ambtenaren van het waterschap ten aanzien van reis- en verblijfkosten en vergoeding van telefoonkosten.
+Vervallen
 
 ##### Artikel 3.7
 
-Het algemeen bestuur kan nadere regels stellen over het ter beschikking stellen van computerapparatuur, over een tegemoetkoming voor de belastingheffing als gevolg hiervan, en over een vergoeding voor de aanleg- en abonnementskosten voor de internetverbinding voor deze apparatuur.
+Vervallen
 
 ##### Artikel 3.8
 
-1. Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 107,10 per jaar.
-
-2. Het in het eerste lid genoemde bedrag wordt bij ministeriële regeling gewijzigd overeenkomstig de wijzigingen die de bezoldiging van het personeel in de sector Rijk ondergaat.
+Vervallen
 
 ##### Artikel 3.9
 
-1. Een lid van het algemeen bestuur ontvangt een onkostenvergoeding voor de aan de uitoefening van de functie verbonden kosten van € 173,40 per maand.
-
-2. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van lid van het algemeen bestuur komen ten laste van het waterschap.
-
-3. Het algemeen bestuur kan over de in het tweede lid bedoelde scholing nadere regels stellen.
-
-4. Indien een lid van het algemeen bestuur in verband met de uitoefening van de functie lid is van een beroepsvereniging vergoedt het waterschap de contributie van die beroepsvereniging.
-
-5. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
+Vervallen
 
 ##### Artikel 3.10
 
-1. De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2019-02-15&g=2019-02-15), dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.
-
-2. Een tijdelijk ontslag als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) of [X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2019-02-15&g=2019-02-15).
+Vervallen
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
 ##### Artikel 3.11
 
-1. De bezoldiging van een lid van het dagelijks bestuur bedraagt € 1.562,37 per maand bij een tijdsbestedingsnorm van 20%.
-
-2. Het totaal van de bezoldiging van de leden van het dagelijks bestuur, met uitzondering van de voorzitter, is gesteld op ten hoogste 300% van een voltijds bezoldigingsbedrag.
-
-3. Als de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag overeenkomstig gewijzigd.
+Vervallen
 
 ##### Artikel 3.12
 
-De aanspraak op de bezoldiging door het lid van het dagelijks bestuur begint op de dag van de benoeming en eindigt op het tijdstip van de beëindiging van het lidmaatschap van het dagelijks bestuur.
+Vervallen
 
 ##### Artikel 3.13
 
-1. Het lid van het dagelijks bestuur heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de regels die te dien aanzien voor het personeel in de sector Rijk zijn vastgesteld.
-
-2. Indien aan het personeel in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangt het lid van het dagelijks bestuur een uitkering op gelijke voet.
+Vervallen
 
 ##### Artikel 3.14
 
-Op het lid van het dagelijks bestuur zijn van overeenkomstige toepassing de regelingen ten behoeve van de ambtenaren van het waterschap ten aanzien van verhuiskosten, reis- en verblijfkosten en telefoonkosten.
+Vervallen
 
 ##### Artikel 3.15
 
-1. Op aanvraag wordt ten laste van het waterschap aan het lid van het dagelijks bestuur voor de uitoefening van het ambt, een computer, bijbehorende apparatuur, software en communicatieapparatuur in bruikleen ter beschikking gesteld.
-
-2. Indien geen computer, bijbehorende apparatuur, software en communicatieapparatuur ter beschikking is gesteld wordt door het algemeen bestuur aan het lid van het dagelijks bestuur op aanvraag, voor de uitoefening van het ambt, een tegemoetkoming verleend voor aanschaf van een computer, bijbehorende apparatuur, software en communicatieapparatuur.
-
-3. Op aanvraag wordt door het algemeen bestuur een vergoeding aan het lid van het dagelijks bestuur verleend voor de aanleg- en de abonnementskosten voor de internetverbinding voor de in het eerste of het tweede lid genoemde computerapparatuur.
-
-4. Het algemeen bestuur kan bij verordening nadere regels stellen over het ter beschikking stellen van computer- en communicatieapparatuur en de tegemoetkoming, bedoeld in het eerste en tweede lid en de vergoeding, bedoeld in het derde lid.
+Vervallen
 
 ##### Artikel 3.16
 
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- a. **een ziekte:** een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;
-
-- b. **een dienstongeval:** een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.
-
-2. Een lid van het dagelijks bestuur ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval:
-
-- a. voor zover deze kosten ten laste van het lid van het dagelijks bestuur blijven en
-
-- b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.
-
-3. In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.
-
-4. Onder overige schade valt niet het gederfde inkomen.
-
-5. Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op het gewezen lid van het dagelijks bestuur.
+Vervallen
 
 ##### Artikel 3.17
 
-De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2019-02-15&g=2019-02-15), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2019-02-15&g=2019-02-15), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2019-02-15&g=2019-02-15), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2019-02-15&g=2019-02-15) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.40&z=2019-02-15&g=2019-02-15) zijn van overeenkomstige toepassing op een lid van het dagelijks bestuur, met dien verstande dat voor een lid van het algemeen bestuur respectievelijk de voorzitter wordt gelezen: het lid van het dagelijks bestuur.
+Vervallen
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
 ##### Artikel 3.18
 
-De voorzitter kan op verzoek van het waterschapsbestuur of van het college van gedeputeerde staten bij koninklijk besluit worden geschorst in het belang van een goede uitoefening van het ambt. Het schorsingsbesluit bevat in ieder geval:
-
-- a. het tijdstip waarop de schorsing ingaat;
-
-- b. een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
+Vervallen
 
 ##### Artikel 3.19
 
-1. De voorzitter wordt op zijn aanvraag ontslagen of wordt op zijn verzoek na afloop van de benoemingstermijn niet herbenoemd.
-
-2. Aan de voorzitter die ontslag vraagt met het oog op een FPU-uitkering, wordt ontslag verleend, indien het bestuur van de Stichting fonds vrijwillig uittreden overheidspersoneel en het bestuur van de Stichting pensioenfonds ABP op grond van een desbetreffende aanvraag hebben vastgesteld dat na het ontslag recht bestaat op de FPU-uitkering. Het ontslag gaat niet eerder in dan met ingang van de dag waarop het recht op de FPU-uitkering ontstaat. Met een aanvraag tot ontslag wordt gelijkgesteld een verzoek om niet te worden herbenoemd.
-
-3. Het ontslag op grond van dit artikel wordt eervol verleend, tenzij naar het oordeel van Onze Minister zwaarwichtige redenen zich daartegen verzetten.
+Vervallen
 
 ##### Artikel 3.20
 
-Aan de voorzitter wordt bij koninklijk besluit met ingang van de eerste dag van de maand, volgende op die waarin hij de leeftijd van zeventig jaar heeft bereikt, eervol ontslag verleend.
+Vervallen
 
 ##### Artikel 3.21
 
-1. Anders dan op eigen aanvraag kan aan de voorzitter ontslag worden verleend op grond van:
-
-- a. ongeschiktheid tot het uitoefenen van zijn ambt wegens ziekte;
-
-- b. onbekwaamheid of ongeschiktheid voor het door hem beklede ambt, anders dan uit hoofde van ziekte;
-
-- c. opheffing van het waterschap;
-
-- d. een aanbeveling van het algemeen bestuur tot ontslag wegens een verstoorde verhouding tussen de voorzitter en het algemeen bestuur;
-
-- e. andere gronden.
-
-2. Een ontslag als bedoeld in het eerste lid, onderdeel a, kan slechts plaatsvinden indien:
-
-- a. er sprake is van ongeschiktheid tot het uitoefenen van zijn ambt wegens ziekte gedurende een ononderbroken periode van zes maanden,
-
-- b. herstel van zijn ziekte niet binnen een periode van zes maanden na de in onderdeel a genoemde termijn van zes maanden te verwachten is, en
-
-- c. na een zorgvuldig onderzoek het niet mogelijk is gebleken om de voorzitter binnen het gezagsbereik van Onze Minister andere arbeid aan te bieden, dan wel indien de voorzitter geweigerd heeft deze arbeid te aanvaarden.
-
-3. Het ontslag op grond van het eerste lid, onderdelen a, b en c, van dit artikel wordt eervol verleend. Het ontslag op grond van het eerste lid, onderdelen d en e, van dit artikel wordt eervol verleend, tenzij naar het oordeel van Onze Minister zwaarwichtige redenen zich daartegen verzetten.
-
-4. Bij de beoordeling of er sprake is van een situatie, als bedoeld in het tweede lid, onderdeel b, wordt een medisch onderzoek ingesteld door een of meer door Onze Minister aangewezen geneeskundigen, en indien de voorzitter dit wenst een door de voorzitter aangewezen geneeskundige. De voorzitter is verplicht medewerking te verlenen aan het onderzoek en wordt schriftelijk in kennis gesteld van het starten van het onderzoek en de in de vorige zin bedoelde mogelijkheid. Indien de voorzitter geen medewerking verleent, zijn de in het tweede lid, onder b en c, genoemde voorwaarden niet van toepassing.
+Vervallen
 
 ##### Artikel 3.22
 
@@ -774,41 +672,27 @@ Vervallen
 
 ##### Artikel 3.24
 
-1. De bezoldiging van de voorzitter bedraagt € 9.566,36 per maand, naar een evenredigheid van de vastgestelde tijdsbestedingsnorm.
-
-2. Op verzoek van het algemeen bestuur kan Onze Minister, gedeputeerde staten gehoord, een tijdsbestedingsnorm vaststellen.
-
-3. Als de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag overeenkomstig gewijzigd.
+Vervallen
 
 ##### Artikel 3.25
 
-De aanspraak op de bezoldiging begint op de dag dat de benoeming ingaat en eindigt met ingang van de dag waarop het ontslag ingaat of met ingang van de dag, volgende op die van het overlijden.
+Vervallen
 
 ##### Artikel 3.26
 
-1. De voorzitter ontvangt een ambtstoelage van € 394,74 per maand, naar evenredigheid van de vastgestelde tijdsbestedingnorm.
-
-2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
+Vervallen
 
 ##### Artikel 3.27
 
-1. Een voorzitter die wegens geoorloofde afwezigheid verhinderd is zijn ambt te vervullen, behoudt gedurende deze verhindering zijn bezoldiging.
-
-2. Wanneer een voorzitter buitengewoon verlof verzoekt en de duur daarvan een aaneengesloten periode van zes weken te boven gaat, kan het algemeen bestuur bij het verlenen van het verlof bepalen, dat gedurende die langere periode de bezoldiging en de ambtstoelage geheel of gedeeltelijk wordt ingehouden.
+Vervallen
 
 ##### Artikel 3.28
 
-Een voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging.
+Vervallen
 
 ##### Artikel 3.29
 
-Bij de toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
-
-- a. verstrekt het dagelijks bestuur op aanvraag een vergoeding voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2019-02-15&g=2019-02-15);
-
-- b. wordt het bedrag, genoemd in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2019-02-15&g=2019-02-15), [3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2019-02-15&g=2019-02-15), [3.11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2019-02-15&g=2019-02-15), en [3.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2019-02-15&g=2019-02-15), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10); en
-
-- c. blijven de [artikelen 3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2019-02-15&g=2019-02-15), [3.11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.11a&z=2019-02-15&g=2019-02-15), en [3.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26a&z=2019-02-15&g=2019-02-15) buiten toepassing.
+Vervallen
 
 ##### Artikel 3.30
 
@@ -816,7 +700,7 @@ Vervallen
 
 ##### Artikel 3.31
 
-Indien een voorzitter langer dan acht dagen wegens ziekte zijn ambt niet kan uitoefenen geeft hij daarvan kennis aan het dagelijks bestuur van het waterschap.
+Vervallen
 
 ##### Artikel 3.32
 
@@ -824,31 +708,15 @@ Vervallen
 
 ##### Artikel 3.33
 
-De voorzitter geniet bedrijfsgeneeskundige begeleiding overeenkomstig de voor het waterschapspersoneel geldende voorschriften.
+Vervallen
 
 ##### Artikel 3.34
 
-Degene die op grond van [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a), gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast geweest, geniet voor die tijd, ten laste van het waterschap, een vergoeding ten bedrage van de voor dat ambt vastgestelde bezoldiging. Indien de waarneming geschiedt door een lid van het dagelijks bestuur wordt de vergoeding verminderd met hetgeen als lid van het dagelijks bestuur aan bezoldiging wordt ontvangen.
+Vervallen
 
 ##### Artikel 3.35
 
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- a. **een ziekte:** een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;
-
-- b. **een dienstongeval:** een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.
-
-2. De voorzitter ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval:
-
-- a. voor zover deze kosten ten laste van de voorzitter blijven en
-
-- b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.
-
-3. In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.
-
-4. Onder overige schade valt niet het gederfde inkomen.
-
-5. Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op de gewezen voorzitter.
+Vervallen
 
 ##### Artikel 3.36
 
@@ -856,11 +724,7 @@ Vervallen
 
 ##### Artikel 3.37
 
-1. Indien een voorzitter die in het buitenland verblijft, overweegt om wegens dringende redenen van dienstbelang terug te keren naar zijn waterschap, legt hij dit voor aan commissaris van de Koning.
-
-2. Indien de commissaris het in het eerste lid genoemde voornemen redelijk acht, wordt aan de voorzitter ten laste van het waterschap een schadeloosstelling toegekend.
-
-3. De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de voorzitter en in voorkomend geval die van zijn meereizende gezinsleden. Het dagelijks bestuur stelt de hoogte van de schadeloosstelling vast.
+Vervallen
 
 ##### Artikel 3.38
 
@@ -872,13 +736,11 @@ Vervallen
 
 ##### Artikel 3.40
 
-1. Zo spoedig mogelijk na het overlijden van de voorzitter wordt aan de weduwe of weduwnaar van wie de overleden voorzitter niet duurzaam gescheiden leefde ten laste van het waterschap een bedrag uitgekeerd, gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. Indien de overledene geen weduwe of weduwnaar van wie de overleden voorzitter niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of gedeeltelijk afhankelijk waren van de bezoldiging van de voorzitter.
-
-2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden voorzitter ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
+Vervallen
 
 ##### Artikel 3.41
 
-De [artikelen 3.9, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2019-02-15&g=2019-02-15), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9a&z=2019-02-15&g=2019-02-15), [3.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10b&z=2019-02-15&g=2019-02-15), [3.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.10c&z=2019-02-15&g=2019-02-15), [3.12a tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2019-02-15&g=2019-02-15) zijn van overeenkomstige toepassing op de voorzitter, met dien verstande dat voor een lid van het algemeen respectievelijk een lid van het dagelijks bestuur, wordt gelezen: de voorzitter.
+Vervallen
 
 ### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
 
@@ -940,13 +802,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onderdelen van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie die krachtens dit besluit worden onderscheiden, maar die voor een waterschap niet van toepassing zijn, kunnen worden weggelaten.
 
-4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2019-02-15&g=2019-02-15) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2019-02-15&g=2019-02-15) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
+4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2019-03-28&g=2019-03-28) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2019-03-28&g=2019-03-28) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
 
 ##### Artikel 4.5
 
 1. Verbonden partijen worden niet geconsolideerd in de begroting en jaarverslaggeving.
 
-2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2019-02-15&g=2019-02-15), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
+2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2019-03-28&g=2019-03-28), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
 
 #### § 2. De meerjarenraming en de toelichting
 
@@ -976,7 +838,7 @@ In de toelichting op de meerjarenraming wordt ten minste afzonderlijke aandacht 
 
 - e. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen;
 
-- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-02-15&g=2019-02-15).
+- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-03-28&g=2019-03-28).
 
 ##### Artikel 4.8
 
@@ -1072,13 +934,13 @@ De paragraaf betreffende de incidentele baten en lasten bevat een overzicht van 
 
 In de paragraaf betreffende de kostentoerekening wordt ingegaan op de principes die zijn gehanteerd bij de toerekening van kosten aan de kostendragers. Deze paragraaf bevat in ieder geval:
 
-- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2019-02-15&g=2019-02-15), bedoelde eis;
+- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2019-03-28&g=2019-03-28), bedoelde eis;
 
 - b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd.
 
 ##### Artikel 4.16
 
-In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-02-15&g=2019-02-15), wordt gedaan.
+In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-03-28&g=2019-03-28), wordt gedaan.
 
 ##### Artikel 4.17
 
@@ -1088,7 +950,7 @@ De paragraaf betreffende de waterschapsbelastingen bevat ten minste:
 
 - b. een beschrijving van het kwijtscheldingsbeleid;
 
-- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-02-15&g=2019-02-15);
+- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2019-03-28&g=2019-03-28);
 
 - d. de geraamde opbrengsten;
 
@@ -1202,7 +1064,7 @@ In een besluit tot wijziging van de begroting wordt in ieder geval aandacht best
 
 ##### Artikel 4.28
 
-De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2019-02-15&g=2019-02-15) bedoelde inzicht.
+De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2019-03-28&g=2019-03-28) bedoelde inzicht.
 
 ##### Artikel 4.29
 
@@ -1222,9 +1084,9 @@ De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de f
 
 ##### Artikel 4.30
 
-1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2019-02-15&g=2019-02-15), in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2019-03-28&g=2019-03-28), in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
 
-2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2019-02-15&g=2019-02-15) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
+2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2019-03-28&g=2019-03-28) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
 
 3. In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de [artikelen 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), en [4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2).
 
@@ -1256,7 +1118,7 @@ De exploitatierekening naar programma’s bevat een overzicht van de gerealiseer
 
 ##### Artikel 4.33
 
-De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2019-02-15&g=2019-02-15), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
+De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2019-03-28&g=2019-03-28), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
 
 ##### Artikel 4.34
 
@@ -1688,7 +1550,7 @@ Onder de vlottende passiva worden afzonderlijk opgenomen de netto-vlottende schu
 
 ##### Artikel 4.61
 
-De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2019-02-15&g=2019-02-15), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2019-02-15&g=2019-02-15), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2019-02-15&g=2019-02-15), worden in de toelichting op de balans opgenomen.
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2019-03-28&g=2019-03-28), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2019-03-28&g=2019-03-28), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2019-03-28&g=2019-03-28), worden in de toelichting op de balans opgenomen.
 
 ##### Artikel 4.62
 
@@ -1726,7 +1588,7 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 ##### Artikel 4.66
 
-1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2019-02-15&g=2019-02-15).
+1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2019-03-28&g=2019-03-28).
 
 2. De verkrijgingsprijs omvat de inkoopprijs en de bijkomende kosten.
 
@@ -1750,11 +1612,11 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 3. Op vaste activa met een beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
 
-4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-02-15&g=2019-02-15), maximaal gelijk aan de looptijd van de lening.
+4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-03-28&g=2019-03-28), maximaal gelijk aan de looptijd van de lening.
 
-5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-02-15&g=2019-02-15), ten hoogste vijf jaar.
+5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-03-28&g=2019-03-28), ten hoogste vijf jaar.
 
-6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-02-15&g=2019-02-15), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
+6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2019-03-28&g=2019-03-28), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
 
 ##### Artikel 4.68
 
@@ -1836,7 +1698,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ##### Artikel 4.75
 
-Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2019-02-15&g=2019-02-15) van het waterschap vragen.
+Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2019-03-28&g=2019-03-28) van het waterschap vragen.
 
 ### Hoofdstuk 5. De accountantscontrole
 
@@ -1874,9 +1736,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 5.4
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2019-02-15&g=2019-02-15) bij dit besluit.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2019-03-28&g=2019-03-28) bij dit besluit.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2019-02-15&g=2019-02-15) bij dit besluit.
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2019-03-28&g=2019-03-28) bij dit besluit.
 
 ##### Artikel 5.5
 
@@ -1926,9 +1788,9 @@ De waarde van de ongebouwde onroerende zaken, niet zijnde natuurterreinen, is de
 
 ##### Artikel 6.4
 
-1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-02-15&g=2019-02-15), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
+1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-03-28&g=2019-03-28), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
 
-2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-02-15&g=2019-02-15), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
+2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-03-28&g=2019-03-28), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
 
 - a. autosnelwegen;
 
@@ -1948,9 +1810,9 @@ inclusief kunstwerken, binnen het gebied van het waterschap.
 
 ##### Artikel 6.6
 
-1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-02-15&g=2019-02-15), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
+1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-03-28&g=2019-03-28), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
 
-2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-02-15&g=2019-02-15), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2019-02-15&g=2019-02-15), wordt gesteld op 75% van de vervangingswaarde.
+2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-03-28&g=2019-03-28), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2019-03-28&g=2019-03-28), wordt gesteld op 75% van de vervangingswaarde.
 
 ##### Artikel 6.7
 
@@ -1958,7 +1820,7 @@ De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de 
 
 ##### Artikel 6.8
 
-De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-02-15&g=2019-02-15), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
+De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2019-03-28&g=2019-03-28), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
 
 ##### Artikel 6.9
 
@@ -2008,7 +1870,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. de heffingplichtige op wie [artikel 122k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) of [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met dat artikel van toepassing is.
 
-- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2019-02-15&g=2019-02-15), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
+- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2019-03-28&g=2019-03-28), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
 
 2. De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.
 
@@ -2016,7 +1878,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 6.15
 
-De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2019-02-15&g=2019-02-15), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2019-02-15&g=2019-02-15) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
+De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2019-03-28&g=2019-03-28), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2019-03-28&g=2019-03-28) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
 
 ##### Artikel 6.16
 
@@ -2068,9 +1930,9 @@ Het [Besluit administratieve verplichtingen waterschapsbelastingen](https://wett
 
 ##### Artikel 7.6
 
-1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2019-02-15&g=2019-02-15), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
+1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2019-03-28&g=2019-03-28), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
 
-2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2019-02-15&g=2019-02-15), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
+2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2019-03-28&g=2019-03-28), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2465,7 +2327,7 @@ Vervallen
 
 Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
-Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-02-15&g=2019-02-15) van het Waterschapsbesluit.
+Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-03-28&g=2019-03-28) van het Waterschapsbesluit.
 
 Deze houdt onder meer in dat de jaarrekening zowel de baten en lasten als de activa en passiva getrouw dient weer te geven en dat de in de jaarrekening verantwoorde baten, lasten en balansmutaties rechtmatig tot stand zijn gekomen. Rechtmatige totstandkoming betekent in overeenstemming met de begroting en met de van toepassing zijnde wettelijke regelingen waaronder verordeningen van het waterschap zelf.
 
@@ -2486,35 +2348,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.12a
 
-1. Zo spoedig mogelijk na afloop van het kalenderjaar, verstrekt een lid van het dagelijks bestuur aan Onze Minister dan wel aan een door hem aangewezen instantie:
-
-- a. een opgave van de neveninkomsten welke hij over dat kalenderjaar of over een gedeelte daarvan heeft genoten, dan wel
-
-- b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij het ambt van lid van het dagelijks bestuur vervulde gedurende een gedeelte van het kalenderjaar, een evenredig deel daarvan, dan wel
-
-- c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.
-
-2. In afwijking van het eerste lid, vermindert het dagelijks bestuur op verzoek van het lid zijn bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee hij verwacht dat zijn bezoldiging zal worden verrekend vanwege zijn neveninkomsten.
-
-3. Onze Minister, dan wel een door hem aangewezen instantie, deelt het dagelijks bestuur het bedrag van de bezoldiging dat teruggevorderd dient te worden mede en verstrekt een afschrift daarvan aan het lid van het dagelijks bestuur.
-
-4. Het dagelijks bestuur vordert, indien Onze Minister dan wel een door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van het lid van het dagelijks bestuur.
-
-5. Indien het lid van het dagelijks bestuur geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister, dan wel aan een door hem aangewezen instantie. Het lid van het dagelijks bestuur meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.
-
-6. In het geval genoemd in het eerste lid, onderdeel c, alsmede indien het lid van het dagelijks bestuur binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring, als bedoeld in het eerste lid, heeft ingezonden, of niet heeft voldaan aan het vijfde lid, stelt het dagelijks bestuur de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij het uit anderen hoofde kan vaststellen tot welk bedrag er verrekend zou moeten worden.
-
-7. Op verzoek van het lid van het dagelijks bestuur kan het dagelijks bestuur besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
+Vervallen
 
 #### § 4. Rechtspositie voorzitters waterschappen
 
 ##### Artikel 3.26a
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
-
-- a. de verstrekkingen, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2019-02-15&g=2019-02-15);
-
-- b. de ambtstoelage, bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.26&z=2019-02-15&g=2019-02-15).
+Vervallen
 
 ### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
 
@@ -2540,9 +2380,9 @@ Vervallen
 
 ##### Artikel 7.6b
 
-1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2019-02-15&g=2019-02-15), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2019-02-15&g=2019-02-15) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2019-02-15&g=2019-02-15), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2019-02-15&g=2019-02-15) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
+1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2019-03-28&g=2019-03-28), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2019-03-28&g=2019-03-28) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2019-03-28&g=2019-03-28), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2019-03-28&g=2019-03-28) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
 
-2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2019-02-15&g=2019-02-15) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2019-02-15&g=2019-02-15), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
+2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2019-03-28&g=2019-03-28) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2019-03-28&g=2019-03-28), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2558,7 +2398,7 @@ Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand 
 
 Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-02-15&g=2019-02-15) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-03-28&g=2019-03-28) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
 
@@ -2579,9 +2419,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.9a
 
-1. Het dagelijks bestuur kent een lid van het algemeen bestuur dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van het waterschap op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
-
-2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.
+Vervallen
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -2636,47 +2474,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.8a
 
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- a. **een ziekte:** een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan de functie verbonden werkzaamheden;
-
-- b. **een dienstongeval:** een ongeval dat plaatsvindt tijdens de uitoefening van de aan de functie verbonden werkzaamheden.
-
-2. Een lid van het algemeen bestuur ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval:
-
-- a. voor zover deze kosten ten laste van een lid van het algemeen bestuur blijven en
-
-- b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.
-
-3. In bijzondere gevallen kan het dagelijks bestuur bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid en gehoord de vergadering van de fractievoorzitters van alle partijen in het algemeen bestuur.
-
-4. Onder overige schade valt niet het gederfde inkomen.
-
-5. Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn functie en voortduurt na zijn aftreden is dit artikel van overeenkomstige toepassing op het gewezen lid van het algemeen bestuur.
+Vervallen
 
 ##### Artikel 3.10a
 
-1. In het geval een lid van het algemeen bestuur een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) ontvangt en de na toepassing van [artikel 20 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2019-02-15&g=2019-02-15), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
-
-2. In het geval dat een lid van het algemeen bestuur een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006445) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006445&artikel=6) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2019-02-15&g=2019-02-15), wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.
-
-3. In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2019-02-15&g=2019-02-15), op verzoek van het desbetreffende lid worden verlaagd.
+Vervallen
 
 ##### Artikel 3.10b
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen de vergoedingen, bedoeld in de [artikelen 3.9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2019-02-15&g=2019-02-15).
+Vervallen
 
 ##### Artikel 3.10c
 
-Indien het dagelijks bestuur ten behoeve van een veilige woon- en werkplek van een lid van het algemeen bestuur kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het waterschap.
+Vervallen
 
 ##### Artikel 3.11a
 
-1. Een lid van het dagelijks bestuur ontvangt een onkostenvergoeding ten bedrage van € 355,80 per maand, naar evenredigheid van de vastgestelde tijdsbestedingsnorm.
-
-2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.
-
-3. De vergoeding, bedoeld in het eerste lid, wordt als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) aangewezen.
+Vervallen
 
 #### § 4. Rechtspositie voorzitters waterschappen
 
@@ -2716,7 +2530,7 @@ Indien het dagelijks bestuur ten behoeve van een veilige woon- en werkplek van e
 
 Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
 
-Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-02-15&g=2019-02-15) van het Waterschapsbesluit.
+Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-03-28&g=2019-03-28) van het Waterschapsbesluit.
 
 Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
 
@@ -2739,7 +2553,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.8aa
 
-Ten aanzien van individuele gevallen kan het dagelijks bestuur [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2019-02-15&g=2019-02-15), buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het [Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0035749) (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard.
+Vervallen
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -2818,7 +2632,7 @@ In de toelichting op de balans wordt vermeld:
 
 #### § 3. Slotbepalingen
 
-## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-02-15&g=2019-02-15), van het Waterschapsbesluit
+## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-03-28&g=2019-03-28), van het Waterschapsbesluit
 
 ### **Verantwoordelijkheid van de accountant**
 
@@ -2830,7 +2644,7 @@ Naam accountantsorganisatie
 
 Naam externe accountant en ondertekening met die naam
 
-## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-02-15&g=2019-02-15), van het Waterschapsbesluit
+## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-03-28&g=2019-03-28), van het Waterschapsbesluit
 
 Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
 
@@ -2841,6 +2655,6 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 | Fouten in de jaarrekening (% van bruto-lasten) | ≤ 1% | > 1% < 3% | – | ≥ 3% |
 | Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
 
-Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2019-02-15&g=2019-02-15) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2019-03-28&g=2019-03-28) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
