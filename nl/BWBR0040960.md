@@ -4,7 +4,7 @@ identifier: "BWBR0040960"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-03-29"
-last_updated: "2018-06-02"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040960"
 soort: "zbo"
@@ -58,7 +58,9 @@ Deze beleidsregels verstaan onder:
 
 - f. **het Zorginstituut:** Zorginstituut Nederland;
 
-- g. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0035987).
+- g. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0035987);
+
+- h. **Nadere aanwijzing:** [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041530).
 
 ##### Artikel 2
 
@@ -88,11 +90,11 @@ Het Zorginstituut verdeelt het bedrag dat in [artikel 2 van de Aanwijzing](https
 
 ##### Artikel 5
 
-Ter voorlopige vaststelling van het beheerskostenbudget per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=2&artikel=4&z=2018-06-02&g=2018-06-02) berekende bedragen. Het Zorginstituut rondt het voorlopige beheerskostenbudget af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
+Ter voorlopige vaststelling van het beheerskostenbudget per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=2&artikel=4&z=2019-03-29&g=2019-03-29) berekende bedragen. Het Zorginstituut rondt het voorlopige beheerskostenbudget af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
 
 ##### Artikel 6
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 4, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=2&artikel=4&z=2018-06-02&g=2018-06-02), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2017 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz voor de Wlz-uitvoerder 2017. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 4, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=2&artikel=4&z=2019-03-29&g=2019-03-29), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2017 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz voor de Wlz-uitvoerder 2017. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 7
 
@@ -106,7 +108,7 @@ Voor een nieuwe Wlz-uitvoerder, die geen rechtsopvolger is van een of meer besta
 
 ##### Artikel 9
 
-Uiterlijk op de eerste werkdag van mei 2019 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2018 nader vast. Het Zorginstituut verdeelt daarbij het bedrag dat in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040273) beschikbaar is gesteld voor de overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt over de Wlz-uitvoerders:
+Uiterlijk op de eerste werkdag van mei 2019 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2018 nader vast. Het Zorginstituut verdeelt daarbij het bedrag dat in de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041530) beschikbaar is gesteld voor de overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt over de Wlz-uitvoerders:
 
 - a. een bedrag van € 1.471.000 op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2018 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
@@ -118,27 +120,27 @@ Uiterlijk op de eerste werkdag van mei 2019 stelt het Zorginstituut het beheersk
 
 - e. een bedrag van € 0,169 miljoen voor de Wlz-uitvoerder die de Minister van VWS heeft aangewezen voor het uitvoeren van het project ‘Leven zoals je wilt’;
 
-- f. een bedrag van € 72,600 miljoen op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2018 vijfenzestig jaar of ouder zijn, dubbel tellen.
+- f. een bedrag van € 75,416 miljoen op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2018 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
 ##### Artikel 10
 
-1. Ter nadere vaststelling van de beheerskostenbudgetten per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=3&artikel=9&z=2018-06-02&g=2018-06-02) berekende bedragen. Het Zorginstituut rondt de beheerskostenbudgetten af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
+1. Ter nadere vaststelling van de beheerskostenbudgetten per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=3&artikel=9&z=2019-03-29&g=2019-03-29) berekende bedragen. Het Zorginstituut rondt de beheerskostenbudgetten af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
 
 2. Het Zorginstituut betaalt het verschil tussen het bedrag van het nader vastgestelde en het voorlopig vastgestelde beheerskostenbudget in geval van een positief saldo voor de Wlz-uitvoerder uit. Indien het verschil tot een negatief saldo voor de Wlz-uitvoerder leidt, vordert het Zorginstituut het verschil terug.
 
 ##### Artikel 11
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 9, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=3&artikel=9&z=2018-06-02&g=2018-06-02), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 9, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=3&artikel=9&z=2019-03-29&g=2019-03-29), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 12
 
-Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,6243610 als vergoeding in de beheerskosten.
+Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,7338484 als vergoeding in de beheerskosten.
 
 #### § 4. Definitieve vaststelling beheerskostenbudget 2018
 
 ##### Artikel 13
 
-Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2018 definitief vast. Het Zorginstituut verdeelt daarbij het bedrag dat in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040273) beschikbaar is gesteld voor de overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt over de Wlz-uitvoerders:
+Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2018 definitief vast. Het Zorginstituut verdeelt daarbij het bedrag dat in de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041530) beschikbaar is gesteld voor de overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt over de Wlz-uitvoerders:
 
 - a. een bedrag van € 1.471.000 op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2018 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
@@ -150,11 +152,11 @@ Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 
 
 - e. een bedrag van € 0,169 miljoen voor de Wlz-uitvoerder die de Minister heeft aangewezen voor het uitvoeren van het project ‘Leven zoals je wilt’;
 
-- f. een bedrag van € 72,600 miljoen op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2018 vijfenzestig jaar of ouder zijn, dubbel tellen.
+- f. een bedrag van € 75,416 miljoen op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2018 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
 ##### Artikel 14
 
-1. Ter definitieve vaststelling van het beheerskostenbudget per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=4&artikel=13&z=2018-06-02&g=2018-06-02) berekende bedragen. Het Zorginstituut rondt het definitieve beheerskostenbudget af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
+1. Ter definitieve vaststelling van het beheerskostenbudget per Wlz-uitvoerder sommeert het Zorginstituut per Wlz-uitvoerder de ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040960&paragraaf=4&artikel=13&z=2019-03-29&g=2019-03-29) berekende bedragen. Het Zorginstituut rondt het definitieve beheerskostenbudget af op hele euro’s, waarbij het Zorginstituut bedragen van een halve euro en hoger naar boven afrondt en overige bedragen naar beneden.
 
 2. Het Zorginstituut betaalt het verschil tussen het bedrag van het definitief vastgestelde en het nader vastgestelde beheerskostenbudget in geval van een positief saldo voor de Wlz-uitvoerder uit. Indien het verschil tot een negatief saldo voor de Wlz-uitvoerder leidt, vordert het Zorginstituut het verschil terug.
 
@@ -164,7 +166,7 @@ Voor de bepaling van het aantal verzekerden, bedoeld in artikel 3, onderdeel a e
 
 ##### Artikel 16
 
-Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,6243610 als vergoeding in de beheerskosten.
+Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,7338484 als vergoeding in de beheerskosten.
 
 #### § 5. Slot
 
