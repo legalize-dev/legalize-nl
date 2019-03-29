@@ -4,7 +4,7 @@ identifier: "BWBR0039687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2018-08-08"
+last_updated: "2019-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039687"
 soort: "ministeriele-regeling"
@@ -138,19 +138,19 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 ##### Artikel 7
 
-1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2018-08-08&g=2018-08-08) bij deze regeling.
+1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2019-03-29&g=2019-03-29) bij deze regeling.
 
-2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2018-08-08&g=2018-08-08) bij deze regeling.
+2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2019-03-29&g=2019-03-29) bij deze regeling.
 
 ##### Artikel 8
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 62 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 81 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2018-08-08&g=2018-08-08) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2019-03-29&g=2019-03-29) opgenomen kosten verschuldigd.
 
 ##### Artikel 9
 
-De [Regeling bloed- en urineonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0018724), de [Regeling voorlopig ademonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008803), de [Regeling ademanalyse](https://wetten.overheid.nl/jci1.3:c:BWBR0008799), de [Regeling type-aanwijzing ademanalysepparaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008801), de [Regeling typeaanwijzing ademanalyseapparaat 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030622), alsmede de aanwijzingen van de ademtestapparaten en ademtestbuisjes worden ingetrokken met dien verstande dat voor de keuringen en herkeuringen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=3&z=2018-08-08&g=2018-08-08), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=5&z=2018-08-08&g=2018-08-08), bedoelde ademtesters en ademanalyseapparaten de eisen van toepassing blijven zoals ze zijn gesteld bij of krachtens deze regelingen.
+De [Regeling bloed- en urineonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0018724), de [Regeling voorlopig ademonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0008803), de [Regeling ademanalyse](https://wetten.overheid.nl/jci1.3:c:BWBR0008799), de [Regeling type-aanwijzing ademanalysepparaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008801), de [Regeling typeaanwijzing ademanalyseapparaat 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030622), alsmede de aanwijzingen van de ademtestapparaten en ademtestbuisjes worden ingetrokken met dien verstande dat voor de keuringen en herkeuringen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=3&z=2019-03-29&g=2019-03-29), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=5&z=2019-03-29&g=2019-03-29), bedoelde ademtesters en ademanalyseapparaten de eisen van toepassing blijven zoals ze zijn gesteld bij of krachtens deze regelingen.
 
 ##### Artikel 10
 
@@ -220,13 +220,13 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Het rapport van het tegenonderzoek licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
 
-## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2018-08-08&g=2018-08-08)
+## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2019-03-29&g=2019-03-29)
 
 **De eisen aan de methode met behulp waarvan bloedonderzoek als bedoeld in artikel 1, onder b, van het Besluit wordt verricht:**
 
 - •. Zo spoedig mogelijk na ontvangst door het laboratorium worden de twee buisjes bloed bevroren bewaard of, als dat niet mogelijk is, in de koelkast.1Een bewaartemperatuur bij ongeveer –20°C heeft de voorkeur. Het bloedblok wordt liggend op het grootste oppervlak in de vriezer geplaatst om de kans op breuk van de bloedbuizen te minimaliseren.
 
-- •. In geval van een tegenonderzoek op alcohol wordt het buisje bloed gekoeld getransporteerd. In geval van een tegenonderzoek op andere stoffen, al dan niet in combinatie met tegenonderzoek op alcohol, wordt het buisje bloed op droogijs getransporteerd.
+- •. In geval van een tegenonderzoek op alcohol wordt het buisje bloed gekoeld getransporteerd. In geval van een tegenonderzoek op andere stoffen, al dan niet in combinatie met tegenonderzoek op alcohol, wordt het buisje bloed op droogijs of in een vriezer van ongeveer -20°C getransporteerd.
 
 - •. Het gehalte van alcohol of een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3)genoemde stoffen wordt minimaal in tweevoud (duplo) bepaald.
 
@@ -238,9 +238,9 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Ter bevestiging van het gebruik van cocaïne en ter verificatie van het resultaat van het onderzoek naar het gehalte van cocaïne, wordt ook de aanwezigheid van benzoylecgonine bepaald. Cocaïne wordt alleen gerapporteerd als benzoylecgonine aanwezig is. De aanwezigheid van benzoylecgonine wordt niet in de eindrapportage opgenomen.
 
-- •. Van THC-COOH en benzoylecgonine wordt minimaal de LOI vastgesteld bij validatie.
+- •. Van THC-COOH en benzoylecgonine wordt minimaal de ‘limit of identification’ (LOI) vastgesteld bij validatie. Deze dient voor beide stoffen l 5 microgram per liter te zijn.
 
-- •. De ‘limit of identification’ (LOI) is gedefinieerd als 2x de ‘limit of detection’3http://depa.fquim.unam.mx/amyd/archivero/Limite_deteccion_4836.pdf en mag niet boven de ondergrens van de kwantitatieve bepaling (‘lower limit of quantification’, LLOQ) liggen.
+- •. De LOI is gedefinieerd als 2x de ‘limit of detection’3http://depa.fquim.unam.mx/amyd/archivero/Limite_deteccion_4836.pdf en mag niet boven de ondergrens van de kwantitatieve bepaling (‘lower limit of quantification’, LLOQ) liggen.
 
 - •. De ‘uitgebreide meetonzekerheid’ voor een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen, is maximaal 30% en wordt berekend uit de afwijking van de juiste waarde (‘bias’), de spreiding in de juistheidsmetingen en de reproduceerbaarheid binnen het laboratorium (‘intermediate precision’).
 
@@ -248,17 +248,21 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. De LLOQ is gedefinieerd als de laagste concentratie van de component in het analysemonster, waarvan de meetwaarde nog met een bepaalde juistheid en precisie, conform de vigerende richtlijnen, kan worden vastgesteld.
 
-- •. De LLOQ is ten hoogste de helft van de voorgestelde grenswaarde indien enkelvoudig gebruikt voor amfetamine, methamfetamine, MDMA, MDEA, MDA. De LLOQ is ten hoogste de voorgestelde grenswaarde indien enkelvoudig gebruikt voor THC, cocaïne, morfine, GHB en ethanol.
+- •. De LLOQ is ten hoogste 12 microgram per liter voor amfetamine, methamfetamine, MDMA, MDEA, MDA. De LLOQ is ten hoogste de grenswaarde indien in combinatie gebruikt voor THC, cocaïne, morfine, GHB en ethanol.
 
-- •. Voor amfetamine, methamfetamine, MDMA, MDEA en MDA is de grenswaarde van 50 microgram per liter van toepassing op de som van de concentraties in geval van aanwezigheid van uitsluitend deze stoffen. De LLOQ vanaf welke de concentraties amfetamine, methamfetamine, MDMA, MDEA en MDA worden meegeteld is 12 μg/l.
+- •. Voor amfetamine, methamfetamine, MDMA, MDEA en MDA is de grenswaarde van 50 microgram per liter van toepassing op de som van de concentraties in geval van aanwezigheid van uitsluitend deze stoffen. De concentraties amfetamine, methamfetamine, MDMA, MDEA en MDA vanaf waar deze worden meegeteld is 12 microgram per literl.
 
 - •. Het resultaat van de meting wordt bij een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen uitgedrukt in microgram per liter; bij GHB in milligram per liter en bij alcohol in milligram per milliliter.
 
 - •. Resultaten en tussenberekeningen van het onderzoek worden niet afgerond. Het resultaat van de metingen van het gehalte van alcohol of een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen wordt gemiddeld. Op dat gemiddelde vindt een correctie-aftrek plaats van 30% bij de meetbare stoffen van de in artikel 3 van het Besluit genoemde stoffen, en van 6% bij alcohol.
 
-- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen. Bij alcohol wordt het eindresultaat gerapporteerd met 2 decimalen.4Uit praktische overwegingen is gekozen om het eindresultaat van het alcoholonderzoek met 2 decimalen te rapporteren zoals gebruikelijk in de periode voorafgaand aan de Wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994.
+- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3) genoemde stoffen. Bij alcohol wordt het eindresultaat gerapporteerd met 2 decimalen.4Uit praktische overwegingen is gekozen om het eindresultaat van het alcoholonderzoek met 2 decimalen te rapporteren zoals gebruikelijk in de periode voorafgaand aan de Wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994.5Om praktische redenen wordt een uitzondering gemaakt voor waarden vanaf 100, waarbij het eindresultaat wordt afgerond op drie significante cijfers en voor waarden vanaf 1.000, waarbij het eindresultaat wordt afgerond op vier significante cijfers.
 
-- •. De bloedgehaltes worden in tabelvorm in het rapport opgenomen zoals in het hierna getoonde voorbeeld. **Het eindresultaat van de analyse bedraagt, na aftrek van de wettelijk voorgeschreven correctie:** **# Het resultaat van het ademonderzoek naar alcohol, indien door politie uitgevoerd, is niet in deze tabel opgenomen. Volgens de ons bekende informatie is er [wel/geen] ademonderzoek naar alcohol verricht. Het resultaat bedroeg [resultaat] microgram per liter uitgeademde lucht volgens vermelding op het aanvraagformulier.** **@ Wegenverkeerswet 1994, art 8, tweede en derde lid.** *** De aanwezigheid van een **combinatie** van amfetamine, methamfetamine, MDMA, MDEA of MDA wordt aangemerkt als **enkelvoudig gebruik** (voor de groep van deze amfetamine-achtige stoffen) wanneer de concentratie van elk van deze stoffen kleiner is dan 50 microgram per liter, maar de som van de stoffen groter is dan 50 microgram per liter. Wanneer amfetamine, methamfetamine, MDMA, MDEA of MDA zijn aangetoond in combinatie met andere stoffen dan amfetamine, methamfetamine, MDMA, MDEA of MDA, geldt de grenswaarden van 25 microgram per liter voor de afzonderlijke stoffen.**
+- •. De bloedgehaltes worden in tabelvorm in het rapport opgenomen zoals in het hierna getoonde voorbeeld. **Het eindresultaat van de analyse bedraagt, na aftrek van de wettelijk voorgeschreven correctie:** **# Het resultaat van het ademonderzoek naar alcohol, indien door politie uitgevoerd, is niet in deze tabel opgenomen. Volgens de ons bekende informatie is er [wel/geen] ademonderzoek naar alcohol verricht. Het resultaat bedroeg [resultaat] microgram per liter uitgeademde lucht volgens vermelding op het aanvraagformulier.** **@ Wegenverkeerswet 1994, art 8, tweede en derde lid.** Toelichting bij combinaties met amfetamine-achtige stoffen:
+
+- a. Een combinatie van uitsluitend amfetamine, methamfetamine, MDMA, MDEA of MDA wordt volgens het Besluit alcohol, drugs en geneesmiddelen in het verkeer (Staatsblad 2016,529) aangemerkt als enkelvoudig gebruik voor de som van amfetamine-achtige stoffen. Bij deze stoffen kunnen de concentraties worden opgeteld, omdat de werking van deze stoffen goed vergelijkbaar is. De grenswaarde bij combinatiegebruik van amfetamine-achtigen geldt daarom voor de amfetamine-achtige stoffen afzonderlijk maar ook voor de som van de afzonderlijke amfetamine-achtige stoffen.
+
+- b. Wanneer amfetamine, methamfetamine, MDMA, MDEA of MDA zijn aangetoond in combinatie met andere stoffen dan amfetamine, methamfetamine, MDMA, MDEA of MDA, geldt de grenswaarde bij gecombineerd gebruik (25 microgram per liter) voor de afzonderlijke stoffen.
 
 | Aangewezen stof | Meetbare stof | Grenswaarde indien enkelvoudig gebruikt | Grenswaarde indien in combinatie gebruikt | Eindresultaat in bloed [Sporen Identificatie Nummer] | Rapportage eenheid |
 | --- | --- | --- | --- | --- | --- |
@@ -278,9 +282,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Er wordt bij het rapporteren van het eindresultaat geen rekening gehouden met medicinaal gebruik van de aangewezen stoffen, bedoeld in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2).
 
-- •. Het rapport van het tegenonderzoek licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
-
-## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2018-08-08&g=2018-08-08)
+## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2019-03-29&g=2019-03-29)
 
 **De eisen aan de methode met behulp waarvan een aanvullend bloedonderzoek als bedoeld in artikel 1, onder c, van het Besluit wordt verricht:**
 
@@ -306,7 +308,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Als ambtenaren als bedoeld in [artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6) worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
 
-## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2018-08-08&g=2018-08-08)
+## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2019-03-29&g=2019-03-29)
 
 ### Verzending naar een laboratorium buiten Nederland
 
