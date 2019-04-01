@@ -4,7 +4,7 @@ identifier: "BWBR0010256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-27"
-last_updated: "2016-10-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010256"
 soort: "ministeriele-regeling"
@@ -95,7 +95,7 @@ Een beveiligingsorganisatie of recherchebureau treft maatregelen om te voorkomen
 
 2. De verplichting in het eerste lid geldt niet voor een periode van maximaal 12 maanden, te rekenen van af de dag dat de betrokkene voor het eerst bij een particuliere beveiligingsorganisatie met beveiligingswerkzaamheden wordt belast, indien betrokkene door middel van een verklaring van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties kan aantonen dat hij de praktijkopleiding voor het diploma Beveiliger volgt.
 
-3. Op de uitvoering van de praktijkopleiding wordt toezicht uitgeoefend door de Stichting eX:plain. Leerbedrijven zijn aan de Stichting eX:plain een bedrag verschuldigd voor de uitoefening van dit toezicht. De hoogte van dit bedrag wordt jaarlijks door de Stichting Opleidingsfonds Beveiligingsbranche (SOBB) vastgesteld, na overleg met de Stichting eX:plain.
+3. Op de uitvoering van de praktijkopleiding wordt toezicht uitgeoefend door de Stichting eX:plain. Leerbedrijven zijn aan de Stichting eX:plain een bedrag verschuldigd voor de uitoefening van dit toezicht. De hoogte van dit bedrag wordt jaarlijks door de Sociaal Fonds Particuliere Beveiliging (SFPB) vastgesteld, na overleg met de Stichting eX:plain.
 
 4. De in het tweede lid genoemde periode van maximaal 12 maanden wordt niet onderbroken of verlengd. In afwijking hiervan kan de korpschef de periode van 12 maanden
 
@@ -133,15 +133,15 @@ Aan de onderbreking of verlenging kunnen voorwaarden worden verbonden.
 
 ##### Artikel 6. (bestuursorganen)
 
-[Artikel 5, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, is van overeenkomstige toepassing op personen in dienst van een bestuursorgaan, die in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+[Artikel 5, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, is van overeenkomstige toepassing op personen in dienst van een bestuursorgaan, die in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
 ##### Artikel 7. (horecaportiers)
 
-In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten ten behoeve van een horecabedrijf, indien deze in het bezit is van een op naam gesteld diploma horecaportier van de Stichting Vakbekwaamheid Horeca of van het Horeca Branche Instituut, dan wel van de Stichting Nationaal Onderwijscentrum van de Bedrijfstak Horeca, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als horecaportier.
+In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten ten behoeve van een horecabedrijf, indien deze in het bezit is van een op naam gesteld diploma horecaportier van de Stichting Vakbekwaamheid Horeca of van het Horeca Branche Instituut, dan wel van de Stichting Nationaal Onderwijscentrum van de Bedrijfstak Horeca, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als horecaportier.
 
 ##### Artikel 8. (voetbalorganisaties)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het betaald voetbal als aan de volgende voorwaarden is voldaan:
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het betaald voetbal als aan de volgende voorwaarden is voldaan:
 
 - a. hij is aangesteld bij een vereniging in het betaald voetbal;
 
@@ -149,7 +149,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. het betreft beveiligingswerkzaamheden kort voor, tijdens of kort na de wedstrijd van de voetbalorganisatie, in en rond het stadion waar de wedstrijden, bedoeld in de aanhef, plaatsvinden.
 
-2. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het amateurvoetbal als aan de volgende voorwaarden is voldaan:
+2. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het amateurvoetbal als aan de volgende voorwaarden is voldaan:
 
 - a. hij is aangesteld bij een vereniging in de top- of hoofdklasse van het amateurvoetbal;
 
@@ -159,11 +159,11 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 9. (ongeuniformeerden)
 
-1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld certificaat persoonsbeveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties (SVPB) dan wel het diploma Beveiligingsmedewerker, differentiatie persoonsbeveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd persoonsbeveiliger.
+1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld certificaat persoonsbeveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties (SVPB) dan wel het diploma Beveiligingsmedewerker, differentiatie persoonsbeveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd persoonsbeveiliger.
 
 2. Het eerste lid is niet van toepassing op personen belast met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven.
 
-3. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven, indien deze in het bezit is van een op zijn naam gesteld certificaat winkelsurveillance van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een diploma Beveiligingsmedewerker, differentiatie winkelsurveillant van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd winkelsurveillant.
+3. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven, indien deze in het bezit is van een op zijn naam gesteld certificaat winkelsurveillance van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een diploma Beveiligingsmedewerker, differentiatie winkelsurveillant van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd winkelsurveillant.
 
 4. Als gelijkwaardig aan het diploma in het eerste lid en het derde lid wordt erkend het Vakdiploma Beveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
@@ -203,7 +203,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13. (model legitimatiebewijs)
 
-1. Het legitimatiebewijs, bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), komt overeen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2&z=2016-10-01&g=2016-10-01) bij deze regeling vastgestelde model en de in die bijlage aangeduide kleur. Indien het legitimatiebewijs wordt afgegeven door de commandant, wordt de in het model vervatte aanduiding van de korpschef als afgever van het legitimatiebewijs overeenkomstig aangepast.
+1. Het legitimatiebewijs, bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), komt overeen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2&z=2019-04-01&g=2019-04-01) bij deze regeling vastgestelde model en de in die bijlage aangeduide kleur. Indien het legitimatiebewijs wordt afgegeven door de commandant, wordt de in het model vervatte aanduiding van de korpschef als afgever van het legitimatiebewijs overeenkomstig aangepast.
 
 2. Het legitimatiebewijs bevat een verklaring waaruit de toestemming van de korpschef, de commandant of de minister, bedoeld in [artikel 7, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), blijkt.
 
@@ -233,7 +233,7 @@ Vervallen
 
 Vervallen
 
-#### 6. Verslaglegging
+#### 5. Instructie van en controle op het personeel
 
 ##### Artikel 16. (jaarlijks verslag)
 
@@ -285,7 +285,7 @@ Vervallen
 
 1. Een beveiligingsorganisatie draagt zorg voor een goede afstemming van de beveiligingswerkzaamheden met de politie of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, met de commandant.
 
-2. Een beveiligingsorganisatie stelt voordat de beveiligingswerkzaamheden worden verricht de korpschef of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, de commandant door middel van een aanmeldingsformulier, overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=4&z=2016-10-01&g=2016-10-01) bij deze regeling vastgestelde model, op de hoogte van de aard, omvang en duur van de werkzaamheden.
+2. Een beveiligingsorganisatie stelt voordat de beveiligingswerkzaamheden worden verricht de korpschef of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, de commandant door middel van een aanmeldingsformulier, overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=4&z=2019-04-01&g=2019-04-01) bij deze regeling vastgestelde model, op de hoogte van de aard, omvang en duur van de werkzaamheden.
 
 3. Het tweede lid is niet van toepassing op beveiligingsorganisaties die werkzaamheden verrichten als bedoeld in [artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3).
 
@@ -301,11 +301,11 @@ Vervallen
 
 - b. een schema dat de normenreeks EN 50518 en de volgende normen bevat:
 
-- i. dat een klachtenregeling is vastgesteld als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2016-10-01&g=2016-10-01);
+- i. dat een klachtenregeling is vastgesteld als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2019-04-01&g=2019-04-01);
 
-- ii. dat wordt voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2016-10-01&g=2016-10-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2016-10-01&g=2016-10-01) gestelde eisen aan de opleiding en de kwalificaties van de alarminstallateurs en alarmcentralisten;
+- ii. dat wordt voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2019-04-01&g=2019-04-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2019-04-01&g=2019-04-01) gestelde eisen aan de opleiding en de kwalificaties van de alarminstallateurs en alarmcentralisten;
 
-- iii. dat is voorzien in de randvoorwaarden om te kunnen voldoen aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2016-10-01&g=2016-10-01) gestelde eisen aan de afstemming met de politie;
+- iii. dat is voorzien in de randvoorwaarden om te kunnen voldoen aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2019-04-01&g=2019-04-01) gestelde eisen aan de afstemming met de politie;
 
 - iv. dat het databeheer en de ruimte van het databeheer voldoet aan de toepasselijke onderdelen van de managementsysteemstandaarden ISO 27001; en
 
@@ -355,7 +355,7 @@ Deze kosten worden voldaan aan de minister.
 
 de afgifte van een legitimatiebewijs: € 26,–.
 
-Deze kosten worden voldaan aan de korpschef of de commandant, die op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2016-10-01&g=2016-10-01), van deze regeling bevoegd is tot het afgeven van het legitimatiebewijs.
+Deze kosten worden voldaan aan de korpschef of de commandant, die op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2019-04-01&g=2019-04-01), van deze regeling bevoegd is tot het afgeven van het legitimatiebewijs.
 
 3. De vergoeding van kosten, bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), bedraagt voor:
 
@@ -373,7 +373,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 25. (overgangsregeling opleidingseis bestuursorganen)
 
-1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2016-10-01&g=2016-10-01) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2019-04-01&g=2019-04-01) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
 2. Vervallen.
 
@@ -381,7 +381,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 26. (particulier rechercheur)
 
-1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2016-10-01&g=2016-10-01) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2019-04-01&g=2019-04-01) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
 
 2. Vervallen.
 
@@ -389,7 +389,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 27. (alarminstallateur)
 
-1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2016-10-01&g=2016-10-01), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
+1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2019-04-01&g=2019-04-01), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
 
 2. Vervallen.
 
@@ -477,19 +477,7 @@ Het volle vlak van het embleem, alsmede de letters in het embleem, zijn zilverkl
 
 ## Bijlage 1A. Embleem uniform (art. 12 RPB)
 
-## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2008-01-01&g=2008-01-01) RPB)
-
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01).
-
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01).
-
-- Blauw legitimatiebewijs, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperkte vergunning.
-
-- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2008-01-01&g=2008-01-01).
-
-- Legitimatiebewijs voor buitengewoon opsporingsambtenaren, zoals vastgesteld door de minister op grond van het [Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013), bestemd voor een buitengewoon opsporingsambtenaar die behoort tot een particuliere beveiligingsorganisatie, dan wel een onderdeel daarvan, die door de minister is aangewezen als een categorie of eenheid als bedoeld in [art. 142, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) ([art. 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5))
-
-- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2008-01-01&g=2008-01-01).
+## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2019-04-01&g=2019-04-01) RPB)
 
 ## Bijlage 2A. Grijs legitimatiebewijs voor- en achterzijde
 
@@ -503,7 +491,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 23a. Vaststellen (privacy)gedragscode
 
-Een recherchebureau stelt een (privacy)gedragscode vast, identiek aan het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=6&z=2016-10-01&g=2016-10-01) bij deze regeling vastgestelde model, en leeft de code na.
+Een recherchebureau stelt een (privacy)gedragscode vast, identiek aan het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=6&z=2019-04-01&g=2019-04-01) bij deze regeling vastgestelde model, en leeft de code na.
 
 #### 11b. Bijzondere bepalingen voor erkenning EU-beroepskwalificaties
 
@@ -583,21 +571,21 @@ De omvang van de werkzaamheden is:
 
 [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2008-01-01&g=2008-01-01) wordt niet gepubliceerd.
 
-### **Borduurwerk**
+### **Uitvoering**
+
+Het embleem is vervaardigd uit metaal of is door middel van borduurwerk op het uniform aangebracht, met inachtneming van de volgende voorschriften.
+
+Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkleurig, zijn zilverkleurig. Het kunststof tussen de letters is uitgevoerd in de kleur PMS 432 (grijs). Het embleem wordt aangebracht door middel van hitte en druk. (Niet aan te brengen met een strijkijzer).
 
 Voor het volle vlak van het embleem, alsmede voor de letters in het embleem, is zilverdraad gebruikt.
 
-Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkleurig, zijn zilverkleurig. Het kunststof tussen de letters is uitgevoerd in de kleur PMS 432 (grijs). Het embleem wordt aangebracht door middel van hitte en druk. (Niet aan te brengen met een strijkijzer).
+Het metaal tussen de leeters is uitgevoerd in de kleur PMS 432 (grijs).
 
 Het volle vlak van het embleem, alsmede de letters in het embleem, zijn zilverkleurig.
 
 Het metaal tussen de leeters is uitgevoerd in de kleur PMS 432 (grijs).
 
 De voorzijde van het metalen embleem is voorzien van blanke lak.
-
-Particuliere onderzoeksbureaus verwerken in het kader van hun bedrijfsvoering persoonsgegevens en vinden het belangrijk dat met die persoonsgegevens zorgvuldig wordt omgegaan en dat deze persoonsgegevens vertrouwelijk worden behandeld;
-
-Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkleurig, zijn zilverkleurig. Het kunststof tussen de letters is uitgevoerd in de kleur PMS 432 (grijs). Het embleem wordt aangebracht door middel van hitte en druk. (Niet aan te brengen met een strijkijzer).
 
 1.6. De WBP bepaalt dat de verantwoordelijke zijn geheel of gedeeltelijk geautomatiseerde verwerking van persoonsgegevens moet melden bij het College Bescherming Persoonsgegevens (hierna te noemen: CBP). Indien sprake is van heimelijke waarneming stelt het CBP op basis van de melding een voorafgaand onderzoek in. Particuliere onderzoeksbureaus verwerken als verantwoordelijke als regel persoonsgegevens van onderzochte personen op grond van eigen waarneming zonder dat deze daarvan noodzakelijkerwijs voorafgaand aan de verwerking op de hoogte zijn gesteld. Deze meldingsplicht gevolgd door een voorafgaand onderzoek geldt eveneens voor een niet geautomatiseerde verwerking van persoonsgegevens (bestand) indien van dergelijke heimelijke waarneming sprake is;
 
@@ -629,6 +617,10 @@ De gedragscode:
 
 Op basis van [artikel 25 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=25) heeft de Nederlandse Veiligheidsbranche aan de Autoriteit Persoonsgegevens gevraagd te beoordelen of deze gedragscode een juiste uitwerking van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en/of andere wettelijke bepalingen vormt, voor wat betreft de verwerking van persoonsgegevens door particuliere onderzoeksbureaus.
 
+De gedragscode:
+
+Op basis van [artikel 25 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=25) heeft de Nederlandse Veiligheidsbranche aan de Autoriteit Persoonsgegevens gevraagd te beoordelen of deze gedragscode een juiste uitwerking van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) en/of andere wettelijke bepalingen vormt, voor wat betreft de verwerking van persoonsgegevens door particuliere onderzoeksbureaus.
+
 De Nederlandse Veiligheidsbranche is een representatieve werkgeversorganisatie, waarin bedrijven zijn aangesloten die vallen onder de werkingssfeer van de [Wpbr](https://wetten.overheid.nl/jci1.3:c:BWBR0008973). Onder de Wpbr vallen beveiligingsbedrijven, bedrijfsbeveiligingsdiensten, particuliere alarmcentrales, geld- en waardetransportbedrijven en particuliere onderzoeksbureaus.
 
 De Nederlandse Veiligheidsbranche is een voortzetting in ruimer verband van de in 1939 opgerichte vereniging van nachtveiligheidsdiensten en bewakingsbedrijven. De Nederlandse Veiligheidsbranche is de representant in alle overheids- en bedrijfsorganen die met beveiliging te maken hebben. De leden zijn, afhankelijk van hun bedrijfsactiviteiten, onderverdeeld in de volgende secties:
@@ -639,7 +631,7 @@ Voor de privacygedragscode geldt als uitgangspunt dat zij van toepassing is op d
 
 De eerste versie van de privacygedragscode is door de Autoriteit Persoonsgegevens voor een periode van vier jaar goedgekeurd op 13 januari 2004. Daarna heeft de Autoriteit Persoonsgegevens voor de periode van 21 oktober 2009 – 21 oktober 2014 geoordeeld dat de in de privacygedragscode opgenomen regels, gelet op de bijzondere kenmerken van de sector particuliere onderzoeksbureaus, een juiste uitwerking vormen van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) of van andere wettelijke bepalingen betreffende de verwerking van persoonsgegevens.1**In bijlage 1 zijn de wijzigingen weergegeven van de privacygedragscode 2016 – 2021 ten opzichte van de privacygedragscode 2009 – 2014.**
 
-Door een besluit van de Minister van Veiligheid en Justitie bindt de privacygedragscode niet alleen de bij de Nederlandse Veiligheidsbranche aangesloten particuliere onderzoeksbureaus. De Minister van Veiligheid en Justitie heeft op 1 juni 2004 in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2016-10-01&g=2016-10-01) van de Regeling Particulie-re beveiligingsorganisaties en recherchebureaus bepaald dat recherchebureaus die geen lid zijn van de Nederlandse Veiligheidsbranche een privacygedragscode moeten hebben die identiek is aan die van de Nederlandse Veiligheidsbranche en deze code na moeten leven. De privacyge-dragscode is daarmee algemeen verbindend verklaard voor alle particulier onderzoeksbureaus die een vergunning behoeven als bedoeld in de [Wet particuliere beveiligingsorganisaties en recher-chebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
+Door een besluit van de Minister van Veiligheid en Justitie bindt de privacygedragscode niet alleen de bij de Nederlandse Veiligheidsbranche aangesloten particuliere onderzoeksbureaus. De Minister van Veiligheid en Justitie heeft op 1 juni 2004 in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2019-04-01&g=2019-04-01) van de Regeling Particulie-re beveiligingsorganisaties en recherchebureaus bepaald dat recherchebureaus die geen lid zijn van de Nederlandse Veiligheidsbranche een privacygedragscode moeten hebben die identiek is aan die van de Nederlandse Veiligheidsbranche en deze code na moeten leven. De privacyge-dragscode is daarmee algemeen verbindend verklaard voor alle particulier onderzoeksbureaus die een vergunning behoeven als bedoeld in de [Wet particuliere beveiligingsorganisaties en recher-chebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
 
 Ook buiten recherchebureaus worden recherchewerkzaamheden verricht door andere personen en organisaties. Daarbij kan gedacht worden aan bedrijfsrecherche- cq. onderzoeksafdelingen van bedrijven, overheidsinstellingen (bureaus interne veiligheid of integriteit) en zelfstandige bestuursorganen. Voor de recherchewerkzaamheden van deze interne onderzoeksafdelingen kan de privacygedragscode een adequate normering bieden. Er worden immers (abstracte) bepalingen uit de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) geconcretiseerd, waardoor duidelijker wordt hoe deze organisaties zich dienen te gedragen. Het geeft deze organisaties een hoge mate van zekerheid over wetconform handelen.
 
@@ -647,25 +639,25 @@ Met het oog op het afgeven van een nieuwe goedkeurende verklaring door de Autori
 
 De gedragscode geldt van 9 maart 2016 tot uiterlijk 9 maart 2021.
 
-In deze gedragscode wordt verstaan onder:
-
-In deze gedragscode wordt verstaan onder:
-
 Het onderzoeksrapport wordt schriftelijk (en onder vermelding van ‘persoonlijk’ en/of ‘vertrouwelijk’) aan de opdrachtgever verstrekt, tenzij anders is/wordt overeengekomen. Er worden in de regel geen onderzoeksrapporten uitgebracht, voordat alle onderzoekswerkzaamheden zijn afgerond. Dit om te voorkomen dat aan het voorlopige onderzoeksrapport een andere betekenis wordt toegekend dan aan het eindrapport. Het onderzoeksdossier (waar een afschrift van het onderzoeksrapport deel van uitmaakt) wordt door het particulier onderzoeksbureau bewaard voor het geval de opdrachtgever of anderen (bijvoorbeeld de justitiële autoriteiten of de rechterlijke macht) na verloop van tijd nog een beroep doen op de in het dossier opgenomen gegevens.
 
 ### 4.1. De sector particuliere onderzoeksbureaus
 
-### **4.1. De sector particuliere onderzoeksbureaus**
+### 4. Omschrijving van de sector
+
+Een niet limitatieve opsomming van recherchewerkzaamheden waarbij persoonsgegevens worden verwerkt zijn:
+
+De sector particuliere onderzoeksbureaus in de zin van deze gedragscode bestaat uit organisaties die als recherchebureau in de zin van [art. 1 lid 1 onder f van de Wpbr](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1) worden aangemerkt èn die lid zijn van de Nederlandse Veiligheidsbranche. Zij verrichten in opdracht recherchewerkzaamheden in de zin van artikel 1 lid 1 onder e van de Wpbr. Het uitvoeren van recherchewerkzaamheden bestaat veelal uit feitenonderzoek. Als ‘verlengstuk van de opdrachtgever’ verwerkt een particulier onderzoeksbureau onder eigen verantwoordelijkheid en op onpartijdige basis persoonsgegevens.
 
 Een niet limitatieve opsomming van recherchewerkzaamheden waarbij persoonsgegevens worden verwerkt zijn:
 
 De gegevens die een particulier onderzoeksbureau verkrijgt in verband met het aanvaarden van een onderzoeksopdracht worden verwerkt in een onderzoeksdossier. Hierin worden onder andere opgeslagen:
 
-Na analyse van de gegevens wordt ten behoeve van de opdrachtgever een onderzoeksrapport opgesteld.
+### 4.2. Opdrachtgevers van de sector particuliere onderzoeksbureaus
 
 Het onderzoeksrapport wordt schriftelijk (en onder vermelding van ‘persoonlijk’ en/of ‘vertrouwelijk’) aan de opdrachtgever verstrekt, tenzij anders is/wordt overeengekomen. Er worden in de regel geen onderzoeksrapporten uitgebracht, voordat alle onderzoeks- werkzaamheden zijn afgerond. Dit om te voorkomen dat aan het voorlopige onderzoeksrapport een andere betekenis wordt toegekend dan aan het eindrapport. Het onderzoeksdossier (waar een afschrift van het onderzoeksrapport deel van uitmaakt) wordt door het particulier onderzoeksbureau bewaard voor het geval de opdrachtgever of anderen (bijvoorbeeld de justitiële autoriteiten of de rechterlijke macht) na verloop van tijd nog een beroep doen op de in het dossier opgenomen gegevens.
 
-### 4.2. Opdrachtgevers van de sector particuliere onderzoeksbureaus
+In veel organisaties (ondernemingen en overheidsinstellingen) worden ordevoorschriften, -regels en/of gedragsregels gegeven, waar personeelsleden, personeel van derden en bezoekers zich aan dienen te houden. Daarbij kan gedacht worden aan regels voor het gebruik van e-mail, internet, interne voorschriften over vergoedingen en de wijze van declareren, voorschriften over ziekteverzuim, nevenfuncties, anti-concurrentiebepalingen en voorschriften over het buiten de organisatie brengen van bedrijfseigendommen. Voor personeelsleden vloeit de bevoegdheid van de werkgever om ordevoorschriften te geven bijvoorbeeld voort uit [artikel 7:660 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=7) (hierna te noemen: BW).
 
 De sector particuliere onderzoeksbureaus verricht vanuit een eigen commercieel belang recherchewerkzaamheden voor verschillende soorten opdrachtgevers. Daarbij valt te denken aan verzekeraars, privaatrechtelijke en publiekrechtelijke rechtspersonen (al dan niet in de hoedanigheid van werkgever) en aan particulieren. Voor wat betreft de mogelijkheden om onderzoek te doen treedt een particulier onderzoeksbureau op als verlengstuk van de opdrachtgever en gebruikt in feite die onderzoeksmogelijkheden waarover de opdrachtgever beschikt. Hieronder wordt beschreven waarom opdrachtgevers een gerechtvaardigd belang kunnen hebben om recherchewerkzaamheden te laten uitvoeren door de sector particuliere onderzoeksbureaus.
 
@@ -677,27 +669,23 @@ In het verlengde van regelstelling ligt de bevoegdheid en soms de verplichting v
 
 In toenemende mate worden binnen organisaties over deze vormen van werkgeverstoezicht afspraken gemaakt met de ondernemingsraad of de personeelsvertegenwoordiging. In een aantal gevallen is het instemmingsrecht van de ondernemingsraad vereist op grond van [artikel 27 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747). Hoewel de ondernemer respectievelijk de rechthebbende dit onderzoek zelf in beginsel kan uitvoeren, wordt de sector particuliere onderzoeksbureaus in toenemende mate ingeschakeld om dit soort feitenonderzoek te doen.
 
-Een andere rechtvaardiging om onderzoek in te (doen) stellen naar vermeende onregelmatigheden vormen de klokkenluiderregelingen. Zowel binnen de overheid als binnen het bedrijfsleven worden in toenemende mate – al dan niet verplicht door wetgeving – klokkenluiderregelingen ingevoerd, opdat werknemers beschermd worden als zij op vertrouwelijke wijze misstanden aan de orde willen stellen. Een melding noopt veelal tot het instellen van onderzoek om vast te stellen of de aantijgingen juist zijn.
+### Opdrachten- c.q. voorvallenregistratie en de toepasselijkheid van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
 
 Ook bij verzekeringsmaatschappijen is er sprake van een contractuele verhouding tussen de verzekeraar en de verzekerde. Beiden zijn gehouden zich te houden aan de verzekerings- overeenkomst en de overige eisen die de wet aan de verzekering en de bij de verzekering betrokken partijen stelt. In geval van het vermoeden van onregelmatigheden (bij het aangaan van de verzekeringsovereenkomst of bij het indienen van claims) van de zijde van de verzekerde of een derde heeft de verzekeraar binnen zekere grenzen de bevoegdheid om onderzoek te doen naar het handelen of nalaten van de bij de uitvoering van de verzekeringsovereenkomst betrokken personen. Ook verzekeraars maken in toenemende mate gebruik van de expertise van de sector particuliere onderzoeksbureaus.
 
-### Opdrachten- c.q. voorvallenregistratie en de toepasselijkheid van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
+Tenslotte wordt de sector particuliere onderzoeksbureaus ingeschakeld door (rechts)personen die slachtoffer (menen te) zijn van een strafbaar feit en op grond van [artikel 161 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=161) (hierna te noemen: WvSv) bevoegd zijn om daarvan aangifte te doen bij een opsporingsambtenaar. Het is gewenst dat zo’n aangifte goed gedocumenteerd is. Hoewel de aangever zelf bevoegd is om personen te interviewen, onderzoek op de plaats van het misdrijf in te stellen, is er een categorie aangevers die dit (voor)onderzoek en het daadwerkelijk doen van aangifte om redenen van efficiency en effectiviteit overlaat aan de sector particuliere onderzoeksbureaus.
 
-Bij een groot aantal particuliere onderzoeksbureaus zijn de onderzoeksdossiers een integraal onderdeel van een geautomatiseerde opdrachten- c.q. voorvallenregistratie met zoek- en combinatiemogelijkheden. Op een dergelijk geheel of gedeeltelijk geautomatiseerde verwerking van onderzoeksopdrachten is de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing.
+Er zijn ook particuliere onderzoeksbureaus die niet over een dergelijke geautomatiseerde opdrachten- c.q. voorvallenregistratie beschikken. Onderzoeksdossiers worden dan doorgaans alfabetisch of anderszins opgeslagen, maar vaak wel zodanig dat de in de onderzoeksdossiers opgenomen persoonsgegevens volgens bepaalde criteria toegankelijk zijn. Volgens de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is dan sprake van een ‘bestand’ en van een opdrachten- c.q. voorvallenregistratie als bedoeld in deze gedragscode.
 
 Bij een groot aantal particuliere onderzoeksbureaus zijn de onderzoeksdossiers een integraal onderdeel van een geautomatiseerde opdrachten- c.q. voorvallenregistratie met zoek- en combinatiemogelijkheden. Op een dergelijk geheel of gedeeltelijk geautomatiseerde verwerking van onderzoeksopdrachten is de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing.
 
 Er zijn ook particuliere onderzoeksbureaus die niet over een dergelijke geautomatiseerde opdrachten- c.q. voorvallenregistratie beschikken. Onderzoeksdossiers worden dan doorgaans alfabetisch of anderszins opgeslagen, maar vaak wel zodanig dat de in de onderzoeksdossiers opgenomen persoonsgegevens volgens bepaalde criteria toegankelijk zijn. Volgens de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is dan sprake van een ‘bestand’ en van een opdrachten- c.q. voorvallenregistratie als bedoeld in deze gedragscode.
 
-Ook indien een bescheiden kaartsysteem of een geautomatiseerd systeem verwijst naar de verschillende dossiers, de opgenomen personen of de vindplaats, is er sprake van een bestand en is de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) ook van toepassing. Ook deze vorm van vastlegging is een opdrachten- c.q. voorvallenregistratie als bedoeld in deze gedragscode.
+### Algemene principes van gegevensverwerking
 
 Een particulier onderzoeksbureau is verplicht de opdrachten- c.q. voorvallenregistratie aan te melden bij de Autoriteit Persoonsgegevens. Op basis van de aanmelding stelt de Autoriteit Persoonsgegevens een voorafgaand onderzoek in ter bepaling of een nader onderzoek ex [artikel 32 lid 3 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=32) moet worden ingesteld. Dat betekent dat een particulier onderzoeksbureau pas een aanvang mag nemen met de verwerking van persoonsgegevens nadat de Autoriteit Persoonsgegevens een verklaring omtrent rechtmatigheid heeft afgegeven ex artikel 32 lid 5 van de WBP, dan wel heeft aangegeven dat niet tot een nader onderzoek zal worden overgegaan. Indien melding gedaan is bij de Autoriteit Persoonsgegevens is dit raadpleegbaar op de website van de Autoriteit Persoonsgegevens (www.autoriteitpersoonsgegevens.nl) in het register meldingen
 
-### Algemene principes van gegevensverwerking
-
-**Indien een derde gegevens (bewijsmateriaal) aan een particulier onderzoeker overhandigt, dat door deze derde op onrechtmatige wijze is verkregen, hoeft dat derhalve niet te betekenen dat deze gegevens niet door het particulier onderzoeksbureau mogen worden verwerkt. Dit is echter anders indien deze derde met medeweten of op aandringen van het particulier onderzoeksbureau bij de gegevens- c.q. bewijsvergaring onrechtmatig heeft gehandeld, (bijvoorbeeld door op verzoek van het particulier onderzoeksbureau gegevens te verstrekken in strijd met een wettelijke geheimhoudingsbepaling). Een deugdelijke vastlegging van de wijze waarop gegevens zijn verkregen en van wie is derhalve van belang (zie hiervoor paragraaf 7.9).**
-
-In veel organisaties (ondernemingen en overheidsinstellingen) worden ordevoorschriften, -regels en/of gedragsregels gegeven, waar personeelsleden, personeel van derden en bezoekers zich aan dienen te houden. Daarbij kan gedacht worden aan regels voor het gebruik van e-⁠mail, internet, interne voorschriften over vergoedingen en de wijze van declareren, voorschriften over ziekteverzuim, nevenfuncties, anti-concurrentiebepalingen en voorschriften over het buiten de organisatie brengen van bedrijfseigendommen. Voor personeelsleden vloeit de bevoegdheid van de werkgever om ordevoorschriften te geven bijvoorbeeld voort uit artikel 7:660 van het Burgerlijk Wetboek (hierna te noemen: BW).
+De opdrachten- c.q. voorvallenregistratie wordt niet alleen gebruikt voor de verwerking van onderzoeksrapporten. De opdrachten- c.q. voorvallenregistratie wordt veelal ook gebruikt als toetsbron bij achtergrondonderzoeken, bijvoorbeeld in het kader van pre employment- onderzoeken. Het gebruik van de gegevens uit de opdrachten- c.q. voorvallenregistratie bij achtergrondonderzoeken is aan strikte voorwaarden gebonden (zie hiervoor paragraaf 5.4). Ook bij nieuwe aangemelde onderzoeken wordt (veelal) getoetst of de onderzochte perso(o)n(en) reeds eerder subject van onderzoek is/zijn geweest.
 
 [Artikel 6 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6) bepaalt dat persoonsgegevens alleen worden verwerkt in overeenstemming met de wet en op behoorlijke en zorgvuldige wijze.
 
@@ -707,13 +695,17 @@ In veel organisaties (ondernemingen en overheidsinstellingen) worden ordevoorsch
 
 ### **5.1. In overeenstemming met de wet (uitwerking artikel 6 WBP)**
 
-In het kader van de aanmelding van de opdrachten- c.q. voorvallenregistratie bij het CBP door de sector particuliere onderzoeksbureaus ex [artikel 27 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) wordt als doel van de verwerking van persoonsgegevens aangegeven dat de verwerking van persoonsgegevens plaatsvindt in het kader van een efficiënte en effectieve bedrijfsvoering en dat deze in het bijzonder gericht is op de volgende activiteiten:
+**Voor particuliere onderzoeksbureaus betekent de norm van artikel 6 van de WBP dat zij geen gegevens mogen verwerken, indien zij deze gegevens verkregen hebben door middel van illegale onderzoeksmethoden en -middelen. Zo zijn in het Wetboek van Strafrecht (hierna te noemen: WvSr) bepalingen opgenomen die het onopgemerkt afluisteren en opnemen van gesprekken of het onopgemerkt maken van afbeeldingen verbieden (zie de artikelen 139a – 139f WvSr). De norm heeft betrekking op het eigen handelen of nalaten van een particulier onderzoeksbureau. Het mag niet zelf verwijtbaar betrokken zijn bij onrechtmatige gegevensvergaring.**
 
-[Artikel 7 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=7) bepaalt dat persoonsgegevens voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld.
+**Indien een derde gegevens (bewijsmateriaal) aan een particulier onderzoeker overhandigt, dat door deze derde op onrechtmatige wijze is verkregen, hoeft dat derhalve niet te betekenen dat deze gegevens niet door het particulier onderzoeksbureau mogen worden verwerkt. Dit is echter anders indien deze derde met medeweten of op aandringen van het particulier onderzoeksbureau bij de gegevens- c.q. bewijsvergaring onrechtmatig heeft gehandeld, (bijvoorbeeld door op verzoek van het particulier onderzoeksbureau gegevens te verstrekken in strijd met een wettelijke geheimhoudingsbepaling). Een deugdelijke vastlegging van de wijze waarop gegevens zijn verkregen en van wie is derhalve van belang (zie hiervoor paragraaf 7.9).**
 
 Aanmelding opdrachten- en voorvallenregistratie bij de Autoriteit Persoonsgegevens:
 
 ### Sectornormering
+
+Aanmelding opdrachten- en voorvallenregistratie bij de Autoriteit Persoonsgegevens:
+
+In het kader van de aanmelding van de opdrachten- c.q. voorvallenregistratie bij de Autoriteit Persoonsgegevens door de sector particuliere onderzoeksbureaus ex [artikel 27 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) wordt als doel van de verwerking van persoonsgegevens aangegeven dat de verwerking van persoonsgegevens plaatsvindt in het kader van een efficiënte en effectieve bedrijfsvoering en dat deze in het bijzonder gericht is op de volgende activiteiten:
 
 Vaststellen doeleinden bij aanvaarding van (nieuwe) opdrachten:
 
@@ -739,11 +731,11 @@ Bij het aanvaarden van (nieuwe) opdrachten wordt allereerst beoordeeld of de wen
 
 **De activiteit onder d brengt tot uitdrukking dat het particulier onderzoeksbureau in voorkomende gevallen namens de opdrachtgever aangifte doet bij justitiële autoriteiten en in dat geval ook gegevens uit de opdrachten c.q. voorvallenregistratie verstrekt.**
 
-**De activiteit onder d brengt tot uitdrukking dat het particulier onderzoeksbureau in voorkomende gevallen namens de opdrachtgever aangifte doet bij justitiële autoriteiten en in dat geval ook gegevens uit de opdrachten c.q. voorvallenregistratie verstrekt.**
+### 5.3. Grondslag voor de gegevensverwerking (uitwerking [artikel 8 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8))
 
 Een gegevensverwerking is slechts gerechtvaardigd indien één van de in [artikel 8 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) genoemde verwerkingsgrondslagen van toepassing is.
 
-### Wettelijk kader
+Voor de sector particuliere onderzoeksbureaus zijn de volgende verwerkingsgrondslagen het meest relevant:
 
 **Toelichting:**
 
@@ -761,11 +753,11 @@ Een gegevensverwerking is slechts gerechtvaardigd indien één van de in [artike
 
 **De verwerkingsgrondslag onder d speelt met name een rol bij onderzoeksopdrachten om vermiste personen op te sporen. Het aanvaarden van zo’n opdracht is op zich legitiem. Deze legitimiteit is groter als deze personen vanwege een persoonlijkheidsstoornis of een andere persoonlijke omstandigheid (zoals een ondercuratelestelling of een ontvoering) niet in staat zijn hun eigen belangen te behartigen. De vereisten van proportionaliteit en subsidiariteit – die tot uitdrukking komen in het woord ‘noodzakelijk’ – vergen echter dat het belang van de vermiste persoon in geen geval in strijd mag zijn met het belang van de opdrachtgever. In specifieke situaties kan dat bijvoorbeeld betekenen dat het particulier onderzoeksbureau afziet van het doorgeven van de verblijfplaats van de vermiste persoon aan de opdrachtgever.**
 
-**Bij de verwerkingsgrondslag die onder c genoemd is, heeft de particulier onderzoeker in feite geen keuze om de gegevens wel of niet te verwerken. De naleving van een wettelijke plicht is ook niet afhankelijk van de toestemming van de opdrachtgever. Het niet meewerken aan een wettelijke plicht kan immers betekenen dat de particulier onderzoeker een strafbaar feit pleegt. Bij het nakomen van wettelijke verplichtingen kan gedacht worden aan een op wettelijke grondslag gebaseerde vordering van een opsporingsinstantie om bepaalde gegevens en/of voorwerpen uit de opdrachten- c.q. voorvallenregistratie ter beschikking te stellen respectievelijk uit te leveren (denk aan de artikelen 96a,126a en 126nd van het WvSv). De verwerking wordt ook uitgevoerd wanneer een particulier onderzoeker wordt opgeroepen om te getuigen in rechte. In het Wetboek van Burgerlijke Rechtsvordering (artikel 165) en het WvSv zijn bepalingen opgenomen, die degene die op wettige wijze is opgeroepen in een gerechtelijke procedure verplichten een getuigenis af te leggen. De verwerking geschiedt eveneens in die gevallen dat artikel 160 WvSv een ieder verplicht (dus ook de particuliere onderzoeker) om aangifte te doen bij een opsporingsambtenaar, indien hij kennis draagt van bepaalde misdrijven. Daarbij kan gedacht worden aan misdrijven zoals moord, doodslag, verkrachting, mensenroof en misdrijven tegen de veiligheid van de staat.**
-
-**De verwerkingsgrondslag onder d speelt met name een rol bij onderzoeksopdrachten om vermiste personen op te sporen. Het aanvaarden van zo’n opdracht is op zich legitiem. Deze legitimiteit is groter als deze personen vanwege een persoonlijkheidsstoornis of een andere persoonlijke omstandigheid (zoals een ondercuratelestelling of een ontvoering) niet in staat zijn hun eigen belangen te behartigen. De vereisten van proportionaliteit en subsidiariteit – die tot uitdrukking komen in het woord ‘noodzakelijk’ – vergen echter dat het belang van de vermiste persoon in geen geval in strijd mag zijn met het belang van de opdrachtgever. In specifieke situaties kan dat bijvoorbeeld betekenen dat het particulier onderzoeksbureau afziet van het doorgeven van de verblijfplaats van de vermiste persoon aan de opdrachtgever.**
-
 ### Sectornormering
+
+Bij de beoordeling of een verwerking (on)verenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verkregen houdt de sector particuliere onderzoeksbureaus in elk geval rekening met:
+
+[Artikel 9 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9) bepaalt dat persoonsgegevens niet verder worden verwerkt op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
 
 Bij de beoordeling of een verwerking (on)verenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verkregen houdt de sector particuliere onderzoeksbureaus in elk geval rekening met:
 
@@ -779,11 +771,11 @@ De aard van de gegevens (gegevens over laakbaar en soms zelfs strafbaar gedrag) 
 
 **De voorwaarde onder drie brengt tot uiting dat de risico’s voor de opdrachtgever de mate bepalen waarin antecedenten relevant zijn voor de opdrachtgever. Alleen die antecedenten mogen worden verstrekt die gevaar opleveren voor de functie of de contractuele relatie. Indien de onderzochte persoon vergelijkbare gedragingen als waarvoor hij reeds gedocumenteerd is in die functie of binnen de contractuele relatie zou herhalen, schaadt dat de belangen van de opdrachtgever. Bij een antecedentenonderzoek dient het particulier onderzoeksbureau van de opdrachtgever derhalve te verlangen dat deze aangeeft wat de taken en bevoegdheden van de te onderzoeken persoon zijn en welke risico’s dat met zich meebrengt voor de opdrachtgever.**
 
-**Antecedenten worden slechts verstrekt mits is vastgesteld dat de onderzochte persoon strafbare feiten en/of laakbare handelingen heeft gepleegd en/of pogingen daartoe heeft ondernomen. Vage vermoedens zijn niet voldoende om te kunnen spreken van antecedenten. De verweten gedraging moet bijvoorbeeld blijken uit video- en of geluidsopnamen, een bekentenis van de onderzochte persoon of betrouwbare verklaringen van collega’s die gezien hebben dat de onderzochte persoon de verweten gedraging beging (dus geen meningen of veronderstellingen of verklaringen van horen zeggen). Wanneer gevraagd wordt naar de antecedenten van meneer X geboren op 13 april 1969 te Heemskerk, worden, voor zover deze gegevens relevant zijn voor de functie of de contractuele relatie die de opdrachtgever voornemens is aan te bieden respectievelijk aan te gaan, de volgende gegevens verstrekt:**
+### 5.5. Bewaartermijn (uitwerking [artikel 10 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=10))
 
 **‘Er is vastgesteld dat meneer X in september 2013 ontslagen is wegens herhaalde diefstallen door hem gepleegd in de periode van 1 mei 2013 tot 4 augustus 2013. Hij heeft het feit bekend en is door de politierechter te Oost-Nederland voor deze feiten veroordeeld’.**
 
-### 5.5. Bewaartermijn (uitwerking [artikel 10 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=10))
+Gegevens uit de opdrachten- c.q. voorvallenregistratie blijven minimaal één jaar bewaard nadat het onderzoeksrapport is aangeboden aan de opdrachtgever en worden verwijderd binnen een periode van maximaal vijf jaar na het moment van eerste vastlegging.
 
 [Artikel 10 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=10) bepaalt dat persoonsgegevens niet langer worden bewaard in een vorm die het mogelijk maakt de betrokkene te identificeren dan noodzakelijk is voor de verwerkelijking van de doeleinden waarvoor zij worden verzameld of vervolgens worden verwerkt.
 
@@ -799,21 +791,21 @@ In afwijking van de hiervoor genoemde bewaartermijnen blijft het onderzoeksdossi
 
 **Persoonsgegevens worden om meerdere redenen bewaard nadat het onderzoeksrapport aan de opdrachtgever is aangeboden. Allereerst worden persoonsgegevens bewaard ten behoeve van opdrachtgevers in het kader van de behandeling van juridische procedures of geschillen waarbij de opdrachtgever partij is. Daarbij kan gedacht worden aan een nog lopende ontslagprocedure van de onderzochte persoon of een lopende strafzaak indien van het voorval aangifte is gedaan bij de politie.**
 
-**Verder worden de gegevens bewaard voor het behandelen van klachten die worden ingediend tegen het particulier onderzoeksbureau zelf op grond van artikel 18 van de Regeling particuliere beveiligingsorganisaties en recherchebureaus, het voldoen aan wettelijke plichten (zoals het getuigen in rechte) en voor vervolgopdrachten van de primaire opdrachtgever.**
+### **5.6. Niet meer dan nodig (uitwerking artikel 11 WBP)**
 
 **Tenslotte worden de gegevens bewaard voor opdrachtgevers van de tweede categorie (als bedoeld in paragraaf 5.4). Het gebruik van de gegevens uit eerdere opdrachten voor deze categorieopdrachtgevers is beperkt tot achtergrondonderzoeken.**
 
-### **5.6. Niet meer dan nodig (uitwerking artikel 11 WBP)**
+**De bewaarduur van vijf jaar is van belang aangezien opdrachtgevers met enige regelmaat gegevens uit het dossier nog in willen zien en/of gegevens uit het dossier nodig hebben. Vaak blijkt pas geruime tijd na afsluiting van het particulier rechercheonderzoek dat juridische procedures lopen. Met enige regelmaat worden particulier onderzoekers opgeroepen om te getuigen. Vaak wil de rechter weten of er inhoudelijke verschillen zijn tussen de aan de opdrachtgever aangeboden rapport en eerdere kladversies. De bewaartermijn van vijf jaar sluit ook aan bij de verjaringstermijn voor rechtsvorderingen (artikel 3:310 BW). Zowel de onderzochte persoon als de opdrachtgever kunnen het particulier onderzoeksbureau in voorkomende gevallen aanspreken tot vergoeding van schade wegens onrechtmatige daad respectievelijk wanprestatie. In dat geval dient het particulier onderzoeksbureau in staat te zijn zich gemotiveerd te verdedigen door overlegging van stukken uit het onderzoeksdossier.**
 
 **De minimale bewaarduur van één jaar nadat het onderzoeksrapport is aangeboden aan de opdrachtgever is van belang in het kader van toezicht en transparantie, maar ook voor mogelijke**
 
 **juridische procedures tegen het particulier onderzoeksbureau en klachtenbehandeling. Als het dossier onmiddellijk of kort na uitvoering van het onderzoek wordt vernietigd, zijn er onvoldoende mogelijkheden om de uitvoering van het onderzoek te toetsen aan de privacygedragscode.**
 
-**Tenslotte worden de gegevens bewaard voor opdrachtgevers van de tweede categorie (als bedoeld in paragraaf 5.4). Het gebruik van de gegevens uit eerdere opdrachten voor deze categorieopdrachtgevers is beperkt tot achtergrondonderzoeken.**
+### 5.6. Niet meer dan nodig (uitwerking [artikel 11 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=11))
 
 [Artikel 11 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=11) bepaalt dat persoonsgegevens slechts worden verwerkt voor zover zij gelet op de doeleinden waarvoor zij worden verzameld of vervolgens worden verwerkt, toereikend, terzake dienend en niet bovenmatig zijn.
 
-### **5.7. Geheimhoudingsplicht (uitwerking artikel 12 WBP)**
+Er worden niet meer gegevens vastgelegd of in beheer genomen dan uiteindelijk nodig zijn voor het opstellen van een onderzoeksrapport voor de opdrachtgever. Niet relevante gegevens dienen derhalve direct na vaststelling daarvan te worden vernietigd of teruggegeven om te voorkomen dat deze in het dossier belanden en bewaard blijven.
 
 **Toelichting:**
 
@@ -821,21 +813,21 @@ In afwijking van de hiervoor genoemde bewaartermijnen blijft het onderzoeksdossi
 
 **Voorts zijn er opdrachtgevers die na het aanvaarden van de opdracht grote hoeveelheden voorwerpen, en administratie aan het particulier onderzoeksbureau beschikbaar stellen ten behoeve van het onderzoek. Er zijn opdrachtgevers die er op aandringen dat de particulier onderzoeker respectievelijk het particulier onderzoeksbureau deze zaken voor hen bewaart met het oog op eventuele toekomstige geschillen met de onderzochte persoon, ook al houden deze zaken niet direct verband met hetgeen in het uiteindelijke onderzoeksrapport verwoord is. Dit wordt onwenselijk geacht.**
 
-In afwijking van de hiervoor genoemde bewaartermijnen blijft het onderzoeksdossier bewaard zolang dat geboden is in verband met de behandeling van lopende procedures en zaken die nog onder de rechter zijn en waarbij de mogelijkheid bestaat dat hetzij de opdrachtgever, hetzij het particulier onderzoeksbureau in rechte wordt opgeroepen.
+### 5.7. Geheimhoudingsplicht (uitwerking [artikel 12 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=12))
 
 [Artikel 12 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=12) bepaalt dat een ieder die handelt onder het gezag van de verantwoordelijke de persoonsgegevens slechts verwerkt in opdracht van de verantwoordelijke.
 
-### **5.8. Beveiligingsplicht (uitwerking artikel 13 WBP)**
+Deze personen zijn vervolgens verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen. De geheimhoudingsverplichting geldt niet indien enig wettelijk voorschrift hen tot mededeling verplicht of indien uit hun taak de noodzaak tot mededeling voortvloeit.
 
 Alle in de opdrachten- c.q. voorvallenregistratie opgenomen gegevens worden als strikt vertrouwelijk behandeld. Een particulier onderzoeksbureau is verplicht tot geheimhouding van al hetgeen bij de aanvaarding en de uitvoering van de opdracht bekend is geworden en legt deze verplichting tevens op aan de bij de opdracht ingeschakelde personen. Een particulier onderzoeksbureau treft voorzieningen die waarborgen dat medewerkers onder een geheimhoudingsplicht vallen die zich zowel tijdens de duur van de dienstbetrekking als na afloop daarvan uitstrekt.
 
 **Toelichting:**
 
-**Artikel 12 WBP is van toepassing op personen die onder het gezag van de verantwoordelijke werkzaam zijn. Personeel in dienst van de sector particuliere onderzoeksbureaus valt reeds uit hoofde van artikel 13 van de Wpbr onder een geheimhoudingsverplichting. Voor personen die niet onder het gezag van de verantwoordelijke vallen dient contractueel te worden vastgelegd dat de geheimhoudingsbepaling op hen van toepassing is.**
+### 5.8. Beveiligingsplicht (uitwerking [artikel 13 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13))
 
 **De geheimhoudingsverplichting geldt niet indien enig wettelijk voorschrift hen tot mededeling verplicht of indien uit hun taak de noodzaak tot mededeling voortvloeit. Voor de gevallen die hieronder vallen wordt verwezen naar paragraaf 5.3 onder b.**
 
-### 5.8. Beveiligingsplicht (uitwerking [artikel 13 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13))
+Rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging dienen deze maatregelen te voorzien in een passend beveiligingsniveau, gelet op de risico’s die de verwerking en de aard van de te beschermen gegevens met zich meebrengen. De maatregelen zijn er mede op gericht onnodige verzameling en verdere verwerking van persoonsgegevens te voorkomen.
 
 [Artikel 13 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13) bepaalt dat de verantwoordelijke passende technische en organisatorische maatregelen neemt om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking.
 
@@ -845,13 +837,13 @@ Een particulier onderzoeksbureau neemt passende technische en organisatorische m
 
 Voor de concrete invulling van de beveiligingsnormen die specifiek voor de sector gelden wordt verwezen naar Bijlage 1 bij deze privacygedragscode.
 
-**Toelichting:**
+### Bijzondere persoonsgegevens
 
 **Artikel 13 van de WBP spreekt over technische en organisatorische maatregelen. Technische maatregelen zijn de logistieke en fysieke maatregelen in en rondom de informatiesystemen (zoals toegangscontroles, vastlegging van gebruik en back up). Organisatorische maatregelen zijn maatregelen voor de inrichting van de organisatie en voor het verwerken van persoonsgegevens (zoals de toekenning van verantwoordelijkheden en bevoegdheden).**
 
-### Bijzondere persoonsgegevens
+**Gelet op het feit dat door particuliere onderzoeksbureaus bijzondere persoonsgegevens, zoals strafrechtelijke persoonsgegevens worden verwerkt, en gelet op het feit dat persoonsgegevens kunnen worden verzameld teneinde een beeld van iemands persoonlijke leven te verkrijgen, betekent dit dat aan de sector zwaardere eisen mogen worden gesteld ten aanzien van de beveiliging van persoonsgegevens.**
 
-Rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging dienen deze maatregelen te voorzien in een passend beveiligingsniveau, gelet op de risico’s die de verwerking en de aard van de te beschermen gegevens met zich meebrengen. De maatregelen zijn er mede op gericht onnodige verzameling en verdere verwerking van persoonsgegevens te voorkomen.
+De aard van de werkzaamheden van de sector particuliere onderzoeksbureaus brengt in het algemeen met zich mee dat particuliere onderzoeksbureaus in aanraking komen met strafrechtelijke gegevens en andere bijzondere persoonsgegevens, zoals die over iemands ras (etniciteit), seksuele leven en gezondheid.
 
 In [artikel 16 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) is een algemene verbodsbepaling opgenomen voor de verwerking van bijzondere persoonsgegevens. In de [artikelen 17 tot en met 23 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=17) zijn uitzonderingen op het verbod genoemd.
 
@@ -865,41 +857,41 @@ Tenslotte mogen bijzondere persoonsgegevens verwerkt worden, indien dit noodzake
 
 **Bijzondere persoonsgegevens mogen worden verwerkt voor zover dat noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens. Daarbij kan gedacht worden aan het verwerken van gegevens omtrent iemands seksuele leven in het geval van een onderzoek naar ongewenste intimiteiten op het werk. Voorts kan gedacht worden aan het vastleggen van strafbare gedragingen door middel van camera’s. Het is inherent aan deze vorm van observatie dat gegevens over iemands ras (etniciteit) en/of gezondheid bekend worden en worden verwerkt. Op het beeldmateriaal is immers iemands huidskleur of lichamelijke handicap zichtbaar. Voorts is het verwerken van iemands persoonsgegevens betreffende iemands ras met het oog op de identificatie van iemand bij andere methoden van gegevensvergaring, zoals het interviewen van personen veelal eveneens onvermijdelijk.**
 
-**Verder houdt het verwerken van bijzondere persoonsgegevens soms direct verband met de opdracht. Zo worden persoonsgegevens betreffende iemands gezondheid verwerkt indien in opdracht van een werkgever moet worden vastgesteld of er sprake is van een geveinsde ziekte of indien in opdracht van een verzekeraar moet worden vastgesteld of iemand al dan niet terecht aanspraak kan maken op een periodieke uitkering op basis van een arbeidsongeschiktheids-**
-
-**verzekering. Ervan uitgaande dat de opdrachtgever in beide gevallen zelf bevoegd is om gezondheidsgegevens te verwerken** 2 **Hierbij wordt opgemerkt dat een werkgever geen gegevens mag verwerken over de aard en oorzaak van de ziekte. Een werkgever mag wel gegevens verwerken over functiemogelijkheden en/of -onmogelijkheden Voorbeeld: Een werkgever mag niet vastleggen dat een medewerker rugklachten heeft als gevolg van een hernia; wel dat de werknemer door diens ziekte niet kan autorijden of tillen.** **, komt deze bevoegdheid ook toe aan het particulier onderzoeksbureau indien deze in diens opdracht handelt. Ook kunnen in het kader van een alimentatieonderzoek gegevens over iemands ontrouw en/of een (buitenechtelijke) relatie worden vastgesteld. Dat daarbij gegevens over iemands seksuele leven worden verwerkt is onvermijdelijk.**
-
 ### 7. Methoden van gegevensvergaring
 
-Het staat particulieren en bedrijven vrij gedragingen van anderen te onderzoeken, indien hun belangen door deze gedragingen zijn of kunnen worden geschaad. Particulier onderzoek is niet expliciet bij wet genormeerd. Indien een particulier onderzoeksbureau wordt ingeschakeld, wordt het particulier onderzoek evenwel op indirecte wijze genormeerd door [artikel 6 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6). Gegevens die immers in strijd met deze bepaling zijn verkregen, mogen niet verwerkt worden in de opdrachten- c.q. voorvallenregistratie.
+**verzekering. Ervan uitgaande dat de opdrachtgever in beide gevallen zelf bevoegd is om gezondheidsgegevens te verwerken** 2 **Hierbij wordt opgemerkt dat een werkgever geen gegevens mag verwerken over de aard en oorzaak van de ziekte. Een werkgever mag wel gegevens verwerken over functiemogelijkheden en/of -onmogelijkheden Voorbeeld: Een werkgever mag niet vastleggen dat een medewerker rugklachten heeft als gevolg van een hernia; wel dat de werknemer door diens ziekte niet kan autorijden of tillen.** **, komt deze bevoegdheid ook toe aan het particulier onderzoeksbureau indien deze in diens opdracht handelt. Ook kunnen in het kader van een alimentatieonderzoek gegevens over iemands ontrouw en/of een (buitenechtelijke) relatie worden vastgesteld. Dat daarbij gegevens over iemands seksuele leven worden verwerkt is onvermijdelijk.**
 
 In het kader van de opdracht maakt de sector particuliere onderzoeksbureaus gebruik van diverse onderzoeksmethoden en -middelen. Daarbij kan gedacht worden aan het vergaren van gegevens uit open bronnen (zoals het internet en de openbare registers), het interviewen van personen, het observeren van personen, al dan niet met behulp van technische hulpmiddelen, het afluisteren en/of opnemen van (vertrouwelijke) communicatie, het onderzoeken van gegevens die zijn opgeslagen in geautomatiseerde voorzieningen, het doen van proefaankopen en het doorzoeken van huisvuil dat aan de straat gezet is.
 
 ### **7.2. Betreden van niet openbare (besloten) plaatsen**
 
+In het kader van de opdracht maakt de sector particuliere onderzoeksbureaus gebruik van diverse onderzoeksmethoden en -middelen. Daarbij kan gedacht worden aan het vergaren van gegevens uit open bronnen (zoals het internet en de openbare registers), het interviewen van personen, het observeren van personen, al dan niet met behulp van technische hulpmiddelen, het afluisteren en/of opnemen van (vertrouwelijke) communicatie, het onderzoeken van gegevens die zijn opgeslagen in geautomatiseerde voorzieningen, het doen van proefaankopen en het doorzoeken van huisvuil dat aan de straat gezet is.
+
+In het kader van deze gedragscode wordt het gebruik van begrippen die in het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) vermeld worden vermeden om te voorkomen dat privaat onderzoek verward wordt met de opsporing van strafbare feiten door opsporingsinstanties. Privaat onderzoek vindt immers niet plaats onder het gezag en de verantwoordelijkheid van het Openbaar Ministerie en bovendien voor andere doeleinden.
+
 Veel onderzoeksmethoden en -middelen die de sector particuliere onderzoeksbureaus hanteert zijn afgeleid van de onderzoeksmogelijkheden waarover de opdrachtgever zelf al beschikt uit hoofde van de contractuele relatie die de opdrachtgever heeft met de onderzochte persoon of omdat de opdrachtgever als rechthebbende wordt aangemerkt in de zin van het BW en uit dien hoofde onderzoek kan instellen in geval van onregelmatigheden. De opdrachtgever heeft bepaalde belangen en die kunnen rechtvaardigen dat hij onderzoek instelt.
 
-Het gebruik maken van particuliere onderzoeksmethoden- en middelen betekent in voorkomende gevallen dat inbreuk wordt gemaakt op de privacy van de onderzochte persoon. Om die reden is normering van onderzoeksmethoden en -middelen noodzakelijk.
+### **7.3. Interviewen van personen**
 
 Voor deze gedragscode geldt als eerste basisregel dat de rechten en plichten die gelden voor iedere burger, ook gelden voor particuliere onderzoeksbureaus. Hierbij geldt evenwel dat van particuliere onderzoeksbureaus een grotere mate van zorgvuldigheid mag worden verwacht in het kader van hun beroepsuitoefening. Bij bevoegdheden van iedere burger kan gedacht worden aan het raadplegen van openbare registers (zoals de registers van de Kamer van Koophandel en de registers van het Kadaster) en openbare bronnen (zoals het internet en toepassingen als Facebook of LinkedIn). Net zo min als een burger is het de particulier onderzoeker toegestaan om wetten te overtreden om gegevens te vergaren. Indien een particulier onderzoeker in geval van een observatieopdracht incidenteel te hard rijdt of een rood verkeerslicht negeert, zal dat doorgaans geen invloed hebben op de beoordeling of er wel of niet gehandeld is in overeenstemming met [artikel 6 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6). Hij kan bekeurd worden net als iedere andere burger. Het (bij herhaling) handelen of nalaten van (medewerkers van) een particulier onderzoeksbureau in strijd met wettelijke bepalingen, kan voor de Minister van Veiligheid en Justitie evenwel aanleiding zijn om de vergunning in te trekken. Zodra echter strafbare feiten worden gepleegd die in het WvSr worden genoemd en die specifiek geschreven zijn om bepaalde belangen te beschermen (zoals de bescherming van de eigendom, de vrijheid om met anderen te communiceren of de persoonlijke levenssfeer), kan sprake zijn van handelen in strijd met artikel 6 WBP, waardoor een wetmatige gegevensverwerking geblokkeerd wordt.
 
-### **7.3. Interviewen van personen**
+Of dat zo is kan niet in algemene zin beantwoord worden. Dat hangt onder meer af van het antwoord op de vraag of het belang dat de strafrechtelijke norm tracht te beschermen (mede) bedoeld is om het belang van de onderzochte persoon te beschermen (‘de zogenaamde Schutznorm’). Voor de sector particuliere onderzoeksbureaus gaat het hierbij in het bijzonder om de strafbepalingen die het gebruik van technische hulpmiddelen verbieden, waarmee heimelijk gegevens (kunnen) worden vergaard.
 
 Als tweede basisregel geldt dat de onderzoeksmogelijkheden van opdrachtgevers mutatis mutandis ook toekomen aan de sector particuliere onderzoeksbureaus, indien zij door die opdrachtgevers worden ingeschakeld in het doen van onderzoek. Om die reden is in paragraaf 5.2 opgenomen dat het doel van de onderzoeksopdracht in de opdrachtbevestiging zo nauwkeurig mogelijk moet worden opgenomen. De onderzoeksopdracht legitimeert het particulier onderzoeksbureau tot het aanwenden van de bevoegdheden van de opdrachtgever.
 
 Tenslotte geldt als derde basisregel dat bij het bepalen van de aard van de onderzoeksmethoden en -middelen de beginselen van proportionaliteit (evenredigheid van doel en middelen) en subsidiariteit (gematigdheid bij de inzet van middelen en methoden) in acht worden genomen. Deze basisregel vloeit voort uit [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6) en [artikel 8 aanhef en onder f WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) (zie paragraaf 5.3).
 
-Voor deze gedragscode geldt als eerste basisregel dat de rechten en plichten die gelden voor iedere burger, ook gelden voor particuliere onderzoeksbureaus. Hierbij geldt evenwel dat van particuliere onderzoeksbureaus een grotere mate van zorgvuldigheid mag worden verwacht in het kader van hun beroepsuitoefening. Bij bevoegdheden van iedere burger kan gedacht worden aan het raadplegen van openbare registers (zoals de registers van de Kamer van Koophandel en Fabrieken en de registers van het Kadaster) en openbare bronnen (zoals het internet). Net zo min als een burger is het de particulier onderzoeker toegestaan om wetten te overtreden om gegevens te vergaren. Indien een particulier onderzoeker in geval van een observatieopdracht incidenteel te hard rijdt of een rood verkeerslicht negeert, zal dat doorgaans geen invloed hebben op de beoordeling of er wel of niet gehandeld is in overeenstemming met [artikel 6 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6). Hij kan bekeurd worden net als iedere andere burger. Het (bij herhaling) handelen of nalaten van (medewerkers van) een particulier onderzoeksbureau in strijd met wettelijke bepalingen, kan voor de Minister van Veiligheid en Justitie evenwel aanleiding zijn om de vergunning in te trekken. Zodra echter strafbare feiten worden gepleegd die in het [WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) worden genoemd en die specifiek geschreven zijn om bepaalde belangen te beschermen (zoals de bescherming van de eigendom, de vrijheid om met anderen te communiceren of de persoonlijke levenssfeer), kan sprake zijn van handelen in strijd met artikel 6 WBP, waardoor een wetmatige gegevensverwerking geblokkeerd wordt.
+**Toelichting:**
 
 Op basis van wet- en regelgeving, de drie basisregels, rechterlijke uitspraken, achtergrondstudies en verkenningen van de Autoriteit Persoonsgegevens worden in de paragrafen 7.2 tot en met 7.8 normen gegeven voor de meest voorkomende onderzoeksmethoden en -middelen. Dit normatief kader heeft de Autoriteit Persoonsgegevens ook gehanteerd bij het beoordelen van de rechtmatigheid van bepaalde verwerkingen van persoonsgegevens door de sector particuliere onderzoeksbureaus in het kader van voorafgaande onderzoeken ([artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=31) en [32 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=32)). Indien overeenkomstig deze normen wordt gehandeld is (verdere) gegevensverwerking in beginsel rechtmatig. Tenzij de rechter in een concrete situatie anders oordeelt wordt dan voldaan aan de criteria van [artikel 6 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6). Naast de normen die in de paragrafen 7.1 tot en met 7.8 zijn opgenomen voor de daar omschreven onderzoeksmethoden en -middelen, neemt de sector particuliere onderzoeksbureaus bij de uitvoering van haar werkzaamheden de normen in acht die in deze paragraaf zijn opgenomen. Deze algemene normen gelden ook voor die onderzoeksmethoden en -middelen die niet uitdrukkelijk in deze gedragscode zijn genormeerd omdat het meer voor de hand liggende onderzoeksmethoden en -middelen zijn die de sector particuliere onderzoeksbureaus hanteert, alsmede onderzoeksmethoden en -middelen die slechts sporadisch worden gebruikt.
 
 **Toelichting:**
 
-**Dit algemene gedragsartikel geldt voor alle onderzoeksmethoden en -middelen die in deze gedragscode uitdrukkelijk genormeerd zijn. De normering geldt ook voor meer of minder voor de hand liggende onderzoeksmethoden en -middelen, zoals het raadplegen van openbare registers en openbare bronnen (zoals het internet), het analyseren van door de opdrachtgever opgevraagde gespecificeerde nota’s bij telecommunicatiebedrijven en het veiligstellen van sporen op de onderzoekslocatie. Verder is deze normering van belang voor onderzoeksmethoden en -middelen die nu nog niet of niet vaak gehanteerd worden, maar in de nabije toekomst wellicht wel (bijvoorbeeld door nieuwe technieken). Een voorbeeld van een onderzoeksmethode dat niet vaak gehanteerd wordt is de inzet van een particulier onderzoeker als pseudowerknemer. Deze onderzoeksmethode kan bijvoorbeeld ingezet worden als een groep werknemers verdacht wordt van het stelselmatig wegnemen van bedrijfseigendommen en er een grote mate van samenspanning vermoed wordt, terwijl het niet mogelijk is om op andere wijze informatie te krijgen over de diefstallen, de daarbij betrokkenen en de onderlinge rolverdeling. In overleg met de opdrachtgever kan er dan voor gekozen worden om een particulier onderzoeker enige tijd ‘werkzaam’ te laten zijn op de afdeling.**
-
-De eerste norm is een uitwerking van artikel 33 van de WBP: indien gegevens worden verkregen van een ander, moet de verantwoordelijke zijn identiteit bekend maken en de ander nog vóór het moment dat deze gegevens worden verstrekt informeren over het doel waarvoor de gegevens zijn bestemd.
-
 ### Algemeen
+
+**Toelichting:**
+
+Het betreden van plaatsen kan noodzakelijk zijn om het doel van de opdracht te kunnen realiseren. Daarbij kan gedacht worden aan het zoeken naar sporen die in relatie staan tot de onderzochte gedraging, het inzien van bescheiden, het observeren van personen, het kopiëren van bescheiden en het interviewen van personen. Bij het betreden van niet-openbare (besloten) plaatsen dient de particulier onderzoeker rekening te houden met de belangen en rechten van anderen, onder wie de rechthebbende. In deze paragraaf worden normen gesteld om te voorkomen dat een particulier onderzoeker een niet-openbare plaats betreedt en daar een tijdlang onopgemerkt vertoeft of een pand binnendringt zonder medeweten van de rechthebbende. De gedachte dat geen sprake is van ‘wederrechtelijk binnendringen’ omdat de particulier onderzoeker bij het betreden van de niet openbare (besloten) plaats (nog) geen weigering of hindering heeft ondervonden is niet juist.
 
 **Toelichting:**
 
@@ -907,17 +899,17 @@ De eerste norm is een uitwerking van artikel 33 van de WBP: indien gegevens word
 
 **Artikel 138 van het WvSr verbiedt het wederrechtelijk binnendringen in woningen, lokalen en erven die bij een ander in gebruik zijn. Om die reden is in de eerste norm opgenomen dat voor het betreden toestemming van de rechthebbende vereist is. Er zijn situaties denkbaar dat de particulier onderzoeker zich begeeft op een plaats zonder dat de rechthebbende hiervan noodzakelijkerwijs op de hoogte is. Zo kan het bij een woningbrand gebeuren dat een eigenaar-bewoner onbereikbaar op vakantie is, terwijl de verzekeraar van het pand aan een particulier onderzoeksbureau opdracht geeft om een toedrachtonderzoek in te stellen. Het betreden van de plaats is dan toch mogelijk indien de zaakwaarnemende buurman toestemming verleent of de verzekeringsvoorwaarden een beding bevatten dat het ontbreken van toestemming opvult.**
 
-**Artikel 138 van het WvSr verbiedt het wederrechtelijk binnendringen in woningen, lokalen en erven die bij een ander in gebruik zijn. Om die reden is in de eerste norm opgenomen dat voor het betreden toestemming van de rechthebbende vereist is. Er zijn situaties denkbaar dat de particulier onderzoeker zich begeeft op een plaats zonder dat de rechthebbende hiervan noodzakelijkerwijs op de hoogte is. Zo kan het bij een woningbrand gebeuren dat een eigenaar-bewoner onbereikbaar op vakantie is, terwijl de verzekeraar van het pand aan een particulier onderzoeksbureau opdracht geeft om een toedrachtonderzoek in te stellen. Het betreden van de plaats is dan toch mogelijk indien de zaakwaarnemende buurman toestemming verleent of de verzekeringsvoorwaarden een beding bevatten dat het ontbreken van toestemming opvult.**
+**Toelichting:**
 
 Een interview is een gesprek van een of meer particulier onderzoekers met een persoon met het doel om aanwijzingen te vergaren over de al dan niet vermeende betrokkenheid van deze persoon of een derde bij een te onderzoeken gedraging of om informatie te vergaren over iemand in het kader van achtergrondonderzoeken. Als basisregel voor het interviewen geldt dat de medewerking aan een onderzoek te allen tijde gebaseerd is op vrijwilligheid. Voorafgaand aan het interview zal de particulier onderzoeker deze vrijwilligheid benadrukken. Tevens zal voor aanvang van elk interview de reden van het onderzoek kenbaar worden gemaakt.
 
 **Toelichting:**
 
-**De begripsomschrijving van ‘interview’ moet worden bezien tegen de achtergrond van het type onderzoeken waarmee particulier onderzoekers belast worden. Enerzijds zijn er onderzoeken waarbij getracht wordt om vast te stellen of iemand al dan niet verwijtbaar betrokken is of is geweest bij een bepaalde gedraging, anderzijds zijn er onderzoeken waarbij iemands achtergrond nagetrokken wordt. Zodra er een min of meer officieel gesprek plaatsvindt over de al dan niet vermeende betrokkenheid van iemand bij een onrechtmatige handeling of een gearrangeerd gesprek plaatsvindt in het kader van een achtergrondonderzoek, is sprake van een interview.**
+### **7.5. Heimelijke observatie door middel van camera’s**
 
 **Van meet af aan moet dan voor anderen duidelijk zijn dat een particulier onderzoeker als particulier onderzoeker optreedt. Een particulier onderzoeker mag daarover geen misverstand laten bestaan. Het initiatief om te zeggen wie hij is en waarvoor hij komt dient bij de particulier onderzoeker zelf te liggen. Op grond van de Wpbr dient de particulier onderzoeker zijn legitimatiebewijs op verzoek te tonen Het komt de transparantie ten goede als de particulier onderzoeker bij de aanvang van het interview het legitimatiebewijs toont en (eventueel) een visitekaartje waarop diens naam is vermeld alsmede de naam en de contactgegevens van het recherchebureau namens wie hij/zij optreedt.**
 
-### **7.5. Heimelijke observatie door middel van camera’s**
+**Algemene vragen (zoals: ‘Kunt u mij vertellen op welk huisnummer de heer X woont’ of het inwinnen van inlichtingen bij openbare bronnen (zoals het informeren naar iemands telefoonnummer bij KPN via 0900 8008) vallen niet onder het begrip ‘interview’. Dit soort algemene vragen wordt aangemerkt als sturingsinformatie, informatie die nodig is om richting te geven aan het onderzoek.**
 
 **Voor de sector particuliere onderzoeksbureaus gelden nauwelijks wettelijke bepalingen die het interviewen normeren. De verplichting voor opsporingsambtenaren om voorafgaand aan een verhoor aan een verdachte de cautie te geven (artikel 29 van het WvSv) geldt niet voor particulier onderzoekers. Het zwijgrecht voor verdachten is bedoeld als waarborg tegen ongeoorloofde druk van justitiële autoriteiten en tegen methoden om bewijs onder dwang en tegen de wil van de verdachte te verkrijgen. De bepaling in de Wpbr, waarin gesteld wordt dat van een beveiligingsorganisatie of particulier onderzoeksbureau mag worden verlangd ‘dat zal worden gehandeld in overeenstemming met hetgeen van een goede beveiligingsorganisatie of van een goed particulier onderzoeksbureau in het maatschappelijk verkeer mag worden verwacht’ is te vaag om daaruit een interviewstandaard af te leiden.**
 
@@ -933,41 +925,41 @@ Een interview is een gesprek van een of meer particulier onderzoekers met een pe
 
 **de vijfde norm voor anderen dan de onderzochte persoon benadrukt dat zorgvuldig wordt omgegaan met de belangen van anderen. Als slechts een samenvatting gemaakt wordt van een interview met een ander dan de onderzochte persoon en als deze samenvatting wordt opgenomen in de rapportage, verdient het aanbeveling die samenvatting inhoudelijk af te stemmen met degene met wie gesproken is. Praktisch kan dit door de samenvatting per email toe te sturen en aan de bevraagde persoon te vragen in een reply aan te geven dat hij/zij akkoord is met de samenvatting.**
 
-**Voor de sector particuliere onderzoeksbureaus gelden nauwelijks wettelijke bepalingen die het interviewen normeren. De verplichting voor opsporingsambtenaren om voorafgaand aan een verhoor aan een verdachte de cautie te geven (artikel 29 van het WvSv) geldt niet voor particulier onderzoekers. Het zwijgrecht voor verdachten is bedoeld als waarborg tegen ongeoorloofde druk van justitiële autoriteiten en tegen methoden om bewijs onder dwang en tegen de wil van de verdachte te verkrijgen. De bepaling in de Wpbr, waarin gesteld wordt dat van een beveiligingsorganisatie of particulier onderzoeksbureau mag worden verlangd ‘dat zal worden gehandeld in overeenstemming met hetgeen van een goede beveiligingsorganisatie of van een goed particulier onderzoeksbureau in het maatschappelijk verkeer mag worden verwacht’ is te vaag om daaruit een interviewstandaard af te leiden.**
+**Toelichting:**
 
 Observatie vindt plaats indien gedragingen van iemand of hetgeen bekend moet worden om onderzoekstactische redenen niet rechtstreeks aan de onderzochte persoon of een derde gevraagd kan worden. Observatie kan ondersteund worden met technische hulpmiddelen (zoals camera’s, zie paragraaf 7.5) of plaatsbepalingsapparatuur (zoals GPS-apparatuur bij het volgen van voertuigen).
 
 **Toelichting:**
 
-**Observatie is een belangrijke onderzoeksmethode als er duidelijke aanwijzingen zijn dat iemand zich schuldig maakt of zal maken aan laakbaar en/of strafbaar handelen of indien er gerede twijfel is omtrent de juistheid en volledigheid van de feiten op grond waarvan een uitkering worden wordt verlangd of verleend. Er kan onderscheid gemaakt worden tussen statische observatie en dynamische observatie (volgen). In het eerste geval wordt uitgegaan van het gadeslaan van (een) perso(o)n(en), goederen en/of situaties vanuit een bepaalde positie (bijvoorbeeld een vast observatiepunt met doorkijkspiegel). Bij dynamische observatie gaat het om het volgen van de activiteiten van een bepaalde perso(o)n(en), goederen en/of situaties. Observatie kan met gewone zintuiglijke waarnemingen geschieden (directe observatie), maar ook door gebruik te maken van video- en fotocamera's (indirecte observatie). In de regel zal observatie heimelijk zijn. Dit betekent dat personen worden gadegeslagen zonder dat zij hiervan op de hoogte zijn.**
+### **7.6. Onderzoek in geautomatiseerde voorzieningen**
 
 **Uit verschillende rechterlijke uitspraken kan worden geconcludeerd dat een inbreuk op de privacy niet snel wordt aangenomen wanneer de observatie betrekking heeft op gedragingen die in het openbaar plaatsvinden. Personen die zich in het voor het publiek toegankelijke domein bevinden, dienen er rekening mee te houden dat anderen (iedere willekeurige buitenstaander) hen kunnen waarnemen. Het begrip ‘openbaar’ is ruimer dan de openbare weg.**
 
-### **7.6. Onderzoek in geautomatiseerde voorzieningen**
+**Ook voor het publiek toegankelijke plaatsen vallen daar onder. Zo is de lounge van een hotel en een winkel gedurende openingstijden een voor publiek toegankelijke ruimte. De onder één genoemde norm is op deze jurisprudentie gebaseerd.**
 
 **De onder twee genoemde norm ziet onder meer op observatie waarbij gebruik gemaakt wordt van zintuigversterkende hulpmiddelen zoals een verrekijker of de telelens van een camera. Het gebruik van deze technische hulpmiddelen, is toegestaan. Het gebruik van andere technische hulpmiddelen, zoals een GPS-baken (Global Position System), is slechts in beperkte mate toegestaan, indien dit ondersteunend is aan de observatie. Het plaatsen van een GPS-baken op een te volgen voertuig maakt het mogelijk dit voertuig op afstand te volgen en daarmee de observatie professioneler te doen verlopen.**
 
-**Daarmee kan tevens worden voorkomen dat halsbrekende toeren in het verkeer moeten worden uitgehaald om te voorkomen dat de geobserveerde uit het zicht geraakt. De inzet van dit middel is beperkt tot bedrijfsvoertuigen en privé-voertuigen die bedrijfsmatig gebruikt worden door de onderzochte persoon en is verder beperkt tot die tijden die relevant zijn voor de onderzoeksopdracht. Het aanbrengen van een technisch hulpmiddel in iemands persoonlijke eigendommen zodat op elk moment een exact en volledig inzicht wordt verkregen van de plaatsen waar de geobserveerde is of is geweest, maakt een te grote inbreuk op de privacy en vindt doorgaans geen rechtvaardiging in de aard van de opdracht. Ook de duur van de observatie in combinatie met de frequentie kan er toe leiden dat een min of meer volledig beeld wordt verkregen van bepaalde aspecten van iemands leven, waardoor een niet toegestane inbreuk op de privacy gemaakt wordt.**
+### Sectornormering
 
 **Bij de onder drie genoemde norm wordt gesproken over situaties waarbij geobserveerde personen er aanspraak op moeten kunnen maken onbevangen zichzelf te zijn. In dit kader kan gedacht worden aan woningen, hotelkamers, badhokjes in zwembaden, paskamers in winkels, relaxinrichtingen en toiletruimten. Daarbij wordt opgemerkt dat het gedurende enkele momenten met het blote oog vanaf de openbare weg gadeslaan van iemand die zich in een woning bevindt, terwijl de ramen niet zijn afgeschermd, niet onder de beperking van de norm valt.**
 
-### Sectornormering
+### **7.7. Vertrouwelijke communicatie**
 
 **Uitspraken waarbij de normering uit privacygedragscode getoetst wordt zijn belangrijk voor de praktijk van het particulier onderzoek. In twee situaties heeft de rechter getoetst of de particulier onderzoeker zich gehouden heeft aan de onder twee genoemde norm in combinatie met de onder drie genoemde norm.**
 
-### **7.7. Vertrouwelijke communicatie**
-
-**‘Gezien de duur en frequentie van de observaties, alsmede de gedetailleerde inhoud van rapportages, moet er naar het voorlopig oordeel van de voorzieningenrechter sprake zijn geweest van méér dan ‘enkele momenten met het blote oog vanaf de openbare weg gadeslaan’ als bedoeld in de toelichting bij de gedragscode, hetgeen in casu een niet toelaatbare inbreuk op de persoonlijke levenssfeer van ([A] en) [eiser] oplevert. Daarbij is mede van belang dat een aanzienlijk deel van de observaties situaties betreffen waarin [eiser] er aanspraak op moet kunnen maken onbevangen zichzelf te kunnen zijn.’ De particulier onderzoeker werd veroordeeld tot vergoeding van immateriële schade vanwege schending van de persoonlijke levenssfeer.**
-
-**In de casus de beschreven wordt in ECLI:NL:RBZUT:2007:BB1491 (arbeidsongeschiktheid) was de klager vanaf de openbare weg geobserveerd in diens woning, doordat de onderzoeker eenmaal in de drie uur langs de woning is gereden en verslag had gedaan van diens waarnemingen. Telkens zat de onderzochte persoon in een werkhouding achter zijn bureau, hetgeen hij niet zou moeten kunnen in verband met door hem zelf aangegeven beperkingen. In deze casus was de rechter van mening dat het incidentele observeren vanaf de openbare weg in de woning geen inbreuk op de persoonlijke levenssfeer vormde. De rechter oordeelde dat de duur en de intensiteit van de observatie dermate beperkt zijn gebleven dat daaruit niet volgt dat de onderzoeker een inbreuk op de privacy heeft gemaakt. De vordering tot vergoeding van schade wegens vermeende schending van de persoonlijke levenssfeer werd afgewezen.**
+**De rechter oordeelde in ECLI:NL:RBHAA:2009:BJ3060 (alimentatiekwestie):**
 
 ### 7.5. Heimelijke observatie door middel van camera’s
 
-Verborgen camera’s worden in voorkomende gevallen ingezet indien gedragingen van (een) onderzochte perso(o)n(en) moeten worden vastgelegd en/of om duidelijkheid te verkrijgen omtrent de identiteit van de vermoedelijke dader(s)/perso(o)n(en) die onrechtmatig handel(t)(en), om zodoende jegens de onderzochte perso(o)n(en) maatregelen te doen nemen door de opdrachtgever van de sector particuliere onderzoeksbureaus.
+**In de casus de beschreven wordt in ECLI:NL:RBZUT:2007:BB1491 (arbeidsongeschiktheid) was de klager vanaf de openbare weg geobserveerd in diens woning, doordat de onderzoeker eenmaal in de drie uur langs de woning is gereden en verslag had gedaan van diens waarnemingen. Telkens zat de onderzochte persoon in een werkhouding achter zijn bureau, hetgeen hij niet zou moeten kunnen in verband met door hem zelf aangegeven beperkingen. In deze casus was de rechter van mening dat het incidentele observeren vanaf de openbare weg in de woning geen inbreuk op de persoonlijke levenssfeer vormde. De rechter oordeelde dat de duur en de intensiteit van de observatie dermate beperkt zijn gebleven dat daaruit niet volgt dat de onderzoeker een inbreuk op de privacy heeft gemaakt. De vordering tot vergoeding van schade wegens vermeende schending van de persoonlijke levenssfeer werd afgewezen.**
 
 Indien een verborgen camera wordt ingezet is extra zorgvuldigheid geboden omdat een verborgen camera al snel inbreuk kan maken op de persoonlijke levenssfeer. Dit is ook door de wetgever onderkend. Een tweetal verbodsbepalingen in het WvSr heeft specifiek betrekking op het heimelijk observeren van personen met camera’s (artikel 139f en artikel 441b). Beide bepalingen verbieden het vervaardigen van afbeeldingen van iemand met een technisch hulpmiddel, indien dat heimelijk geschiedt én indien dat wederrechtelijk is. Bij de totstandkoming van deze artikelen is onderkend dat verborgen camera’s in voorkomende gevallen ingezet kunnen worden als particulier onderzoeksmiddel. Als algemene voorwaarde geldt dat de geobserveerde (werknemers of verzekerden) vooraf in algemene zin over het bestaan van deze mogelijkheid in kennis is gesteld. Voor werknemers kan dit in kennis stellen bijvoorbeeld geschieden door middel van een circulaire aan het personeel, waarin is omschreven onder welke omstandigheden de werkgever zich de mogelijkheid voorbehoudt om heimelijke opnamen te maken. In dat geval is geen sprake van een strafbaar feit omdat aan het kenbaarheidsvereiste wordt voldaan. In situaties waarin het heimelijk cameratoezicht niet kenbaar wordt gemaakt, is het aan de rechter om te beoordelen of er al dan niet sprake is van wederrechtelijkheid. Voor particulier onderzoekers betekent dit dat zij zich bij de opdrachtgever moeten vergewissen of de mogelijkheid tot de inzet van heimelijke camera’s bekend gemaakt is en hoe. In alle gevallen dient onderstaande normering in acht te worden genomen.
 
 ### Heimelijke observatie door middel van camera’s
+
+Indien een verborgen camera wordt ingezet is extra zorgvuldigheid geboden omdat een verborgen camera al snel inbreuk kan maken op de persoonlijke levenssfeer. Dit is ook door de wetgever onderkend. Een tweetal verbodsbepalingen in het WvSr heeft specifiek betrekking op het heimelijk observeren van personen met camera’s (artikel 139f en artikel 441b). Beide bepalingen verbieden het vervaardigen van afbeeldingen van iemand met een technisch hulpmiddel, indien dat heimelijk geschiedt én indien dat wederrechtelijk is. Bij de totstandkoming van deze artikelen is onderkend dat verborgen camera’s in voorkomende gevallen ingezet kunnen worden als particulier onderzoeksmiddel. Als algemene voorwaarde geldt dat de geobserveerde (werknemers of verzekerden) vooraf in algemene zin over het bestaan van deze mogelijkheid in kennis is gesteld. Voor werknemers kan dit in kennis stellen bijvoorbeeld geschieden door middel van een circulaire aan het personeel, waarin is omschreven onder welke omstandigheden de werkgever zich de mogelijkheid voorbehoudt om heimelijke opnamen te maken. In dat geval is geen sprake van een strafbaar feit omdat aan het kenbaarheidsvereiste wordt voldaan. In situaties waarin het heimelijk cameratoezicht niet kenbaar wordt gemaakt, is het aan de rechter om te beoordelen of er al dan niet sprake is van wederrechtelijkheid. Voor particulier onderzoekers betekent dit dat zij zich bij de opdrachtgever moeten vergewissen of de mogelijkheid tot de inzet van heimelijke camera’s bekend gemaakt is en hoe. In alle gevallen dient onderstaande normering in acht te worden genomen.
+
+**Toelichting:**
 
 **Door het opnemen van het bestanddeel ‘wederrechtelijk’ in beide strafbepalingen wordt ruimte geschapen voor een afweging in concrete situaties, waarbij sprake is van conflicterende (grond)rechten. Iemand die met een verborgen camera betrapt wordt terwijl hij zijn werkgever besteelt, zou kunnen stellen dat zijn privacy geschonden is, omdat de aanwezigheid van de camera niet kenbaar is gemaakt. De werkgever daarentegen zal stellen dat de visueel geobserveerde inbreuk heeft gemaakt op diens eigendomsrechten en dat hij deze diefstal op geen andere wijze had kunnen vaststellen dan door een verborgen camera te plaatsen.**
 
@@ -979,31 +971,31 @@ Indien een verborgen camera wordt ingezet is extra zorgvuldigheid geboden omdat 
 
 **Om die reden zijn van de vermoedelijke afzender heimelijk foto’s gemaakt toen deze in zijn auto stapte. Deze foto’s zijn getoond aan het personeel van het postkantoor, met positieve herkenning als gevolg. Betrokkene is op zijn huisadres aangeschreven met het dringende verzoek zijn handelingen te staken. Vanaf die dag is er geen ongewenste post meer ontvangen.**
 
-**In een bedrijf wordt vastgesteld dat een bepaalde gebruiker (user-id en password zijn bekend) de bedrijfscomputer gebruikt om hackerssoftware te downloaden van internet, met enorme risico’s voor de technische infrastructuur als gevolg. Ook wordt vastgesteld dat het internet met dit password altijd vanuit één vaste werkplek benaderd wordt (iedere internetcomputer kent een IP-adres).**
+### 7.7.1. Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
 
 **Ervaring heeft geleerd dat degene aan wie het password is afgegeven en die normaliter gebruik maakt van die werkplek niet perse degene hoeft te zijn die de bedrijfsregels schendt. Ondanks gedragsregels die dat verbieden kan niet worden voorkomen dat passwords gedeeld worden. In dit geval biedt alleen de verborgen camera uitkomst. Door een camerapositie met zicht op de werkplek kon worden vastgelegd wie daadwerkelijk het vertrouwen schond.**
 
-### 7.7.1. Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
+**In een tweetal hierna opgenomen situaties is er wel sprake van strafbaar handelen en heeft de rechter zich concreet uitgesproken over het gebruik van de heimelijke camera.**
 
 **In Hoge Raad 27 april 2001, Rechtspraak van de Week 2001, nr. 97 oordeelde de rechter over het bewijs dat met een verborgen camera was verkregen. In deze casus had de werkgever het vermoeden dat kassier T bij herhaling verduistering pleegde. Een particulier recherchebureau plaatste gedurende een periode van vier weken een verborgen camera, gericht op de kassa. Aangezien op de kassa meerdere medewerkers werkzaam waren, zijn ook de gedragingen van caissière L vastgelegd. Uit de vastgelegde afbeeldingen bleek dat L bij herhaling verduistering pleegde. De rechter oordeelde dat het er niet toe deed dat de verdenking alleen tegen T bestond en dat het in feite op toeval berustte dat ook L werd betrapt. Er is geen inbreuk op de privacy gemaakt, omdat er reeds een concreet vermoeden van verduistering bestond (door T) en de gedragingen niet op een andere manier dan met behulp van de camera konden worden vastgelegd.**
 
 **Een ander voorbeeld van de Kantonrechter Schiedam van 8 juli 1997, JAR 1997, 189, betreft een bedrijf dat al geruime tijd geplaagd werd door diefstal van pakken koffie en limonade uit de kantine. Via een informatiebulletin werd het personeel gewaarschuwd dat diefstal niet getolereerd werd. Met behulp van een verborgen camera werd aangetoond dat een werknemer meermalen spullen wegnam. Hij werd op staande voet ontslagen. Het beroep van de werknemer op onrechtmatig verkregen bewijs werd door de rechter verworpen. De werkgever heeft een gerechtvaardigd belang om te achterhalen wie van haar werknemers het in hem gestelde vertrouwen schond, aldus de rechter.**
 
-**Ervaring heeft geleerd dat degene aan wie het password is afgegeven en die normaliter gebruik maakt van die werkplek niet perse degene hoeft te zijn die de bedrijfsregels schendt. Ondanks gedragsregels die dat verbieden kan niet worden voorkomen dat passwords gedeeld worden. In dit geval biedt alleen de verborgen camera uitkomst. Door een camerapositie met zicht op de werkplek kon worden vastgelegd wie daadwerkelijk het vertrouwen schond.**
+### 7.6. Onderzoek in geautomatiseerde voorzieningen
 
 Veel bedrijven beschikken over geautomatiseerde voorzieningen, zoals een computernetwerk. In zo'n netwerk heeft iedere werknemer door middel van een personal computer toegang tot zijn eigen werkgebied waarop hij kan inloggen door middel van de user-id en zijn wachtwoord. Daarnaast beschikken veel werknemers over bedrijfsmiddelen, zoals laptops en mobiele telefoons. De rechthebbende van het computernetwerk respectievelijk de aan de werknemer beschikbaar gestelde bedrijfsmiddelen moet in staat zijn om na te gaan op welke wijze er gebruik wordt gemaakt van deze bedrijfsvoorzieningen, ter controle op de naleving op de gedragsregels op het gebruik daarvan of ter voorkoming van risico’s (voor de technische infrastructuur). Om die reden worden handelingen van werknemers op computers, op computernetwerken en/of het gebruik van computerdiensten (zoals internet) veelal vastgelegd (‘gelogd’). Een werkgever is verplicht zijn personeel hierover te informeren op grond van [artikel 34 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34). Voorts is de werkgever verplicht om over dit vastleggen van gegevens van personeelsleden en het gebruik daarvan te overleggen met de ondernemingsraad op grond van [artikel 27 van de Wet op de Ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) een en ander voor zover op personeel betrekking hebbende gegevens op structurele basis worden vastgelegd. Zie voor onderzoek in e-mailberichten paragraaf 7.7.3.
-
-### Sectornormering
-
-**Indien de sector particuliere onderzoeksbureaus optreedt in het verlengde van de rechthebbende van een geautomatiseerde voorziening (zoals het computernetwerk van een bedrijf of een door het bedrijf aan een medewerker beschikbaar gestelde personal computer), is onderzoek, waarbij de op de bedrijfsserver of de harde schijf opgeslagen data benaderd worden geoorloofd. Er is dan geen sprake van ‘wederrechtelijk binnendringen’ in de zin van artikel 138ab van het WvSr. In dat geval is ook geen sprake van gekwalificeerde computer- vredebreuk (art. 138ab lid 2 WvSr), indien het inkijken in de gegevens gevolgd wordt door het overnemen van de gegevens en deze voor zichzelf of een ander wordt vastgelegd (ontvreemden van gegevens).**
 
 ### Onderzoek in geautomatiseerde voorzieningen
 
 ### 7.7. Vertrouwelijke communicatie
 
+**Het is de verantwoordelijkheid van de opdrachtgever om de gebruikers van het geautomatiseerde systeem in algemene zin te informeren dat handelingen op computers, op computernetwerken en/of het gebruik van computerdiensten worden vastgelegd en onder welke omstandigheden de vastgelegde gegevens in de geautomatiseerde voorzieningen kunnen worden onderzocht.**
+
 Vertrouwelijke communicatie kan plaatsvinden door het gesproken of geschreven woord of door de overdracht van signalen via de ether of de kabel. Onder vertrouwelijke communicatie valt bijvoorbeeld een in beslotenheid gevoerd gesprek, een niet openbaar e-mailbericht of het niet voor derden bestemde berichtenverkeer via de telecommunicatie-infrastructuur. In de hierna opgenomen paragrafen is telkens opgenomen dat, indien er minder ingrijpende onderzoeks-mogelijkheden zijn om het verweten gedrag aan het licht te brengen of om bewijs te vergaren voor een verweten gedraging, deze de voorkeur hebben. Voor onderzoeken waarbij communicatie een rol speelt betekent dit, dat het in het algemeen minder ingrijpend is de uiterlijke vorm van communicatie te onderzoeken (identificerende gegevens en verkeersgegevens) dan het doen van onderzoek naar de inhoud van de communicatie (wat er gezegd is of wat er geschreven is).
 
 Vertrouwelijke communicatie kan plaatsvinden door het gesproken of geschreven woord of door de overdracht van signalen via de ether of de kabel. Onder vertrouwelijke communicatie valt bijvoorbeeld een in beslotenheid gevoerd gesprek, een niet openbaar e-mailbericht of het niet voor derden bestemde berichtenverkeer via de telecommunicatie-infrastructuur. In de hierna opgenomen paragrafen is telkens opgenomen dat, indien er minder ingrijpende onderzoeks-mogelijkheden zijn om het verweten gedrag aan het licht te brengen of om bewijs te vergaren voor een verweten gedraging, deze de voorkeur hebben. Voor onderzoeken waarbij communicatie een rol speelt betekent dit, dat het in het algemeen minder ingrijpend is de uiterlijke vorm van communicatie te onderzoeken (identificerende gegevens en verkeersgegevens) dan het doen van onderzoek naar de inhoud van de communicatie (wat er gezegd is of wat er geschreven is).
+
+**De sector particuliere onderzoeksbureaus werkt regelmatig in opdracht van personen die (telefoon)gesprekken die zij zelf met een ander voeren willen vastleggen, zonder dat de ander daarvan op de hoogte is. In dat geval worden hulpmiddelen gebruikt die in feite als technisch geheugen van de opdrachtgever fungeren. Een bandopname van een (telefoon)gesprek wordt vaak in een juridische procedure overhandigd als ondersteuning van een getuigenverklaring van gelijke strekking. Meermalen hebben rechters overwogen dat gesprekspartners er vanuit moeten gaan dat hun (telefoon)gesprekken worden meegeluisterd, dan wel opgenomen. Bij hulpmiddelen kan gedacht worden aan het beschikbaar stellen van een bandrecordertje aan de gespreksdeelnemer of aan het installeren van een kabelmicrofoon in de ruimte waar het gesprek plaatsvindt. Indien gebruik gemaakt wordt van een zendertje moet rekening worden gehouden met de bepalingen van de Telecommunicatiewet. Daarin is vastgelegd dat de aanleg en het gebruik van een zender slechts is geoorloofd, indien voor het gebruik ervan aan de houder van het apparaat een vergunning is verleend voor het gebruik van frequentieruimte (artikel 10.16 van de Telecommunicatiewet).**
 
 **Toelichting:**
 
@@ -1011,7 +1003,7 @@ Vertrouwelijke communicatie kan plaatsvinden door het gesproken of geschreven wo
 
 **Volledigheidshalve wordt hier vermeld dat de artikelen 139a en 139b van het WvSr het afluisteren van gesprekken met een technisch hulpmiddel, anders dan in opdracht van een deelnemer van het gesprek, verbieden, alsmede het opnemen van een gesprek zonder deelnemer aan dat gesprek te zijn en anders dan in opdracht van een deelnemer strafbaar stellen.**
 
-**Volledigheidshalve wordt hier vermeld dat de artikelen 139a en 139b van het WvSr het afluisteren van gesprekken met een technisch hulpmiddel, anders dan in opdracht van een deelnemer van het gesprek, verbieden, alsmede het opnemen van een gesprek zonder deelnemer aan dat gesprek te zijn en anders dan in opdracht van een deelnemer strafbaar stellen.**
+**In artikel 139c van het WvSr is vastgelegd dat het aftappen of opnemen met een technisch hulpmiddel van gegevens die worden overgedragen via de telecommunicatie-infrastructuur of door middel van daarop aangesloten randapparatuur in beginsel strafbaar is. Deze verbodsbepaling is onder meer van toepassing op telefoongesprekken. Voor de gerechtigde tot de voor telecommunicatie gebezigde aansluiting heeft de wetgever een uitzondering gecreëerd. De Memorie van Toelichting noemt het voorbeeld van een werknemer die een gesprek voert met de telefoon van zijn werkgever. Dit zal minder als een inbreuk op de privacy worden ervaren, althans eerder worden geaccepteerd, omdat gebruik gemaakt is van bedrijfsfaciliteiten en omdat de werkgever in staat moet zijn om na te gaan welk gebruik er van de aansluiting wordt gemaakt.**
 
 **Toelichting:**
 
@@ -1019,17 +1011,17 @@ Vertrouwelijke communicatie kan plaatsvinden door het gesproken of geschreven wo
 
 **De grens van hetgeen toegestaan is komt in de strafbepaling tot uitdrukking door aan te duiden dat de uitzondering niet geldt als er sprake is van ‘kennelijk misbruik’. Het aftappen en/of opnemen van telefoongesprekken is niet strafbaar indien de normering in acht genomen wordt.**
 
-**De sector particuliere onderzoeksbureaus werkt regelmatig in opdracht van personen die (telefoon)gesprekken die zij zelf met een ander voeren willen vastleggen, zonder dat de ander daarvan op de hoogte is. In dat geval worden hulpmiddelen gebruikt die in feite als technisch geheugen van de opdrachtgever fungeren. Een bandopname van een (telefoon)gesprek wordt vaak in een juridische procedure overhandigd als ondersteuning van een getuigenverklaring van gelijke strekking. Meermalen hebben rechters overwogen dat gesprekspartners er vanuit moeten gaan dat hun (telefoon)gesprekken worden meegeluisterd, dan wel opgenomen. Bij hulpmiddelen kan gedacht worden aan het beschikbaar stellen van een bandrecordertje aan de gespreksdeelnemer of aan het installeren van een kabelmicrofoon in de ruimte waar het gesprek plaatsvindt. Indien gebruik gemaakt wordt van een zendertje moet rekening worden gehouden met de bepalingen van de Telecommunicatiewet. Daarin is vastgelegd dat de aanleg en het gebruik van een zender slechts is geoorloofd, indien voor het gebruik ervan aan de houder van het apparaat een vergunning is verleend voor het gebruik van frequentieruimte (artikel 10.16 van de Telecommunicatiewet).**
-
-**Toelichting:**
-
 **Onderzoek van de e-mailbox houdt in het aftappen en/of inzien van e-mailberichten en/of berichten die zijn opgeslagen in de e-mailbox.**
 
-**In het WvSr is een aantal strafbepalingen opgenomen die betrekking hebben op het aftappen en/of inzien van e-mail.**
+**Toelichting:**
 
 ### **8.1. Informatieverstrekking aan de onderzochte persoon (uitwerking artikel 33, 34 en 43 WBP)**
 
 ### **9.1. Mededelingen uit de opdrachten- c.q voorvallenregistratie (uitwerking artikel 35 en 43 WBP)**
+
+**Artikel 139c van het WvSr verbiedt het aftappen of opnemen met een technisch hulpmiddel van gegevens die worden overgedragen via de telecommunicatie-infrastructuur of door middel van daarop aangesloten randapparatuur. Deze verbodsbepaling is eveneens van toepassing op het aftappen van e-mailberichten die worden verzonden en/of worden ontvangen.**
+
+**Artikel 138ab van het WvSr verbiedt het opzettelijk en wederrechtelijk binnendringen in iemands e-mailbestanden alsmede het overnemen van gegevens.**
 
 **Bovenvermelde strafbepalingen worden in beginsel niet overtreden, indien deze normering in acht genomen wordt.**
 
@@ -1039,7 +1031,7 @@ Vertrouwelijke communicatie kan plaatsvinden door het gesproken of geschreven wo
 
 **e-mailberichtenverkeer afgetapt en/of ingezien kan worden.**
 
-**Artikel 139a van het WvSr verbiedt het opzettelijk en zonder daartoe gerechtigd te zijn met een technisch hulpmiddel heimelijk aftappen of opnemen van gegevens die in een woning, besloten lokaal of erf door middel van een geautomatiseerd werk worden verwerkt of opgeslagen. Deze strafbepaling heeft onder andere betrekking op het verzenden van berichten via een besloten bedrijfsnetwerk.**
+**Toelichting:**
 
 Een proefaankoop is een handeling waarbij het particulier onderzoeksbureau iets afneemt van een ander met de bedoeling gegevens te verzamelen over de wijze van afhandeling van de transactie, dan wel om specifieke gegevens van de verkopende partij en/of het te koop aangebodene te verkrijgen. In het geval van een pseudoklant doet de particulier onderzoeker zich voor als (potentiële) klant om gedragingen van de dienstverlener waar te nemen als deze zijn dienst aanbiedt of uitvoert. Bij beide activiteiten maakt de particulier onderzoeker diens ware identiteit of reden van de proefaankoop of het verzoek om een dienst te verlenen niet bekend.
 
@@ -1053,15 +1045,11 @@ Een proefaankoop is een handeling waarbij het particulier onderzoeksbureau iets 
 
 **De normering voor proefaankopen is met name geschreven voor de soort van proefaankopen anders dan mystery guesting. Bij deze proefaankopen is het risico aanwezig dat de verkoper wordt uitgelokt tot het plegen van strafbare feiten, hetgeen tot gevolg heeft dat ook de particulier onderzoeker zich schuldig maakt aan een strafbaar feit. Voorkomen moet worden dat een particulier onderzoeksbureau (strafrechtelijk) verwijtbaar betrokken raakt bij het plegen van strafbare feiten door anderen, die voorheen niet de intentie hadden om strafbare feiten te plegen. Om die reden dient de verkoper steeds het initiatief te nemen om goederen en/of diensten aan te bieden. De particulier onderzoeker moet zich steeds afvragen of de verkoop van de goederen of het verrichten van de dienst ook zou zijn geschied als hij zich niet had gemeld als gegadigde.**
 
-**Hij moet de overtuiging hebben dat de verkoper zich zou hebben ingespannen om een andere gegadigde te zoeken om vervolgens aan deze de goederen te verkopen of de dienst aan te bieden. Ook mogen geen hogere bedragen worden geboden dan de gangbare bedragen.**
-
-Bij de mededeling van het doel of de doeleinden van de gegevensverwerking kan aansluiting worden gevonden bij de opdrachtomschrijving zoals deze is opgenomen in de opdrachtbevestiging tussen het particulier onderzoeksbureau en de opdrachtgever. Een particulier recherchebureau kan overwegen om deze schriftelijke mededeling aangetekend te versturen naar het door de verzoeker opgegeven adres.
-
 ### **9.1. Mededelingen uit de opdrachten- c.q voorvallenregistratie (uitwerking artikel 35 en 43 WBP)**
 
 **Bij het optreden als pseudoklant kan gedacht worden aan situaties dat de particulier onderzoeker zich meldt als (potentiële) klant voor een dienst die door de onderzochte persoon wordt aangeboden, zoals een knipbeurt of een medische behandeling. Het afnemen van deze dienst kan geboden zijn als er concrete aanwijzingen zijn dat de onderzochte persoon een degelijke dienst aanbiedt en uitvoert en daarmee het vermoeden bestaat dat hij ten onrechte een uitkering geniet (bijvoorbeeld een periodieke uitkering op basis van een inkomstenverzekering tegen geheel of gedeeltelijke arbeidsongeschiktheid). De onderzoeksmethode kan ook worden ingezet om concurrerende – niet toegestane – werkzaamheden vast te stellen. In het eerste geval is het doel van het afnemen van de dienst het aanschouwen van de lichamelijke en/of mentale (on)mogelijkheden teneinde deze te vergelijken met wat van betrokkene bekend is uit het (verzekerings) dossier. In het tweede geval is het doel om vast te stellen of iemand zich aan zijn afspraken houdt (concurrentiebeding). Door op deze wijze gegevens te vergaren is feitelijk sprake van observatie en gelden tevens de daarop van toepassing zijnde normen (zie hiervoor par. 7.4).**
 
-**De normering voor proefaankopen is met name geschreven voor de soort van proefaankopen anders dan mystery guesting. Bij deze proefaankopen is het risico aanwezig dat de verkoper wordt uitgelokt tot het plegen van strafbare feiten, hetgeen tot gevolg heeft dat ook de particulier onderzoeker zich schuldig maakt aan een strafbaar feit. Voorkomen moet worden dat een particulier onderzoeksbureau (strafrechtelijk) verwijtbaar betrokken raakt bij het plegen van strafbare feiten door anderen, die voorheen niet de intentie hadden om strafbare feiten te plegen. Om die reden dient de verkoper steeds het initiatief te nemen om goederen en/of diensten aan te bieden. De particulier onderzoeker moet zich steeds afvragen of de verkoop van de goederen of het verrichten van de dienst ook zou zijn geschied als hij zich niet had gemeld als gegadigde.**
+Indien een particulier onderzoeksbureau één van de in de paragrafen 7.1 tot en met 7.8 genoemde onderzoeksmethoden of -middelen heeft toegepast wordt hiervan een verslag opgemaakt, onder vermelding van de gronden die tot de toepassing van de gehanteerde onderzoeksmethode c.q. -middel hebben geleid. Het verslag maakt deel uit van het dossier en zodoende van de opdrachten- c.q. voorvallenregistratie, maar vormt geen onderdeel van het onderzoeksrapport, tenzij met de opdrachtgever anders is overeengekomen. Door middel van deze verslaglegging is achteraf toetsing mogelijk op de juiste toepassing van onderzoeksmethoden- en middelen. Dat is van belang voor de beoordeling van klachten ex-[artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2019-04-01&g=2019-04-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus en voor de beoordeling door de Autoriteit Persoonsgegevens van een verzoek ex-[artikel 47 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=47), alsmede voor de geschillenregeling van de gedragscode. De reikwijdte van het recht tot inzage in het onderzoeksdossier door de onderzochte persoon als vastgelegd in paragraaf 9.1 van deze gedragscode omvat – onder de daar gestelde voorwaarden en beperkingen – ook de verslaglegging van gehanteerde onderzoeksmethoden en onderzoeksmiddelen.
 
 Een belangrijk uitgangspunt van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is dat de verantwoordelijke verplicht is een betrokkene op enig moment te informeren over de verwerking van diens persoonsgegevens.
 
@@ -1069,17 +1057,21 @@ Indien persoonsgegevens rechtstreeks van de onderzochte persoon worden verkregen
 
 ### **9.3. Recht van verzet (uitwerking van artikel 40 WBP)**
 
+Indien persoonsgegevens rechtstreeks van de onderzochte persoon worden verkregen, bepaalt [artikel 33 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=33) dat de verantwoordelijke vóór het moment van verkrijging aan deze mededeelt wat diens identiteit is, alsmede wat de doeleinden van de verwerking zijn.
+
+Indien persoonsgegevens worden verkregen op een andere wijze dan rechtstreeks van de onderzochte persoon, bepaalt [artikel 34 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34) dat de verantwoordelijke de hiervoor genoemde informatie aan de onderzochte persoon mededeelt:
+
 De informatieverstrekking kan achterwege blijven indien de verantwoordelijke op goede gronden mag aannemen dat de onderzochte persoon daarvan reeds op de hoogte is.
 
 De verantwoordelijke kan het informeren van de onderzochte persoon tevens achterwege laten voor zover dit noodzakelijk is in het belang van:
 
 In het onderzoeksdossier dient duidelijk kenbaar te zijn dat onderzochte persoon is geïnformeerd door middel van een brief of, in het geval een (confronterend) gesprek (door het particulier onderzoeksbureau) met de onderzochte persoon is gevoerd, door een gespreksverslag waaruit blijkt dat de onderzochte persoon (door het particulier onderzoeksbureau) is geïnformeerd. Het niet informeren van de onderzochte persoon met een beroep op [artikel 43 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) is alleen mogelijk in uitzonderlijke gevallen. De toepassing van de uitzonderingsgronden zijn onderworpen aan het noodzaakcriterium.
 
-In de chronologie van een particulier rechercheonderzoek en in de verhouding tussen de opdrachtgever en het particulier onderzoeksbureau geschiedt de informatieverstrekking aan de onderzochte persoon als volgt:
+### 10. Gegevensverkeer met landen buiten de Europese Unie
 
 Voorafgaand aan het onderzoek:
 
-### 10. Gegevensverkeer met landen buiten de Europese Unie
+Na aanvang van het onderzoek:
 
 Indien de onderzochte persoon niet voorafgaand aan het onderzoek op de hoogte is gesteld, wordt hij tijdens het onderzoek geïnformeerd. Daarbij wordt als volgt gehandeld:
 
@@ -1089,19 +1081,19 @@ Na afronding van het onderzoek:
 
 **De artikelen 33 en 34 WBP bepalen dat het particulier onderzoeksbureau verplicht is diens identiteit op eigen initiatief bekend te maken aan de onderzochte persoon en deze te informeren over de doeleinden van de verwerking van persoonsgegevens. De verplichting om dit op eigen initiatief te doen is een belangrijk instrument om het vastleggen van persoonsgegevens door het particulier onderzoeksbureau transparant te maken opdat de onderzochte persoon de rechten kan uitoefenen die in paragraaf 9 zijn opgenomen. Door de vastlegging van persoonsgegevens door een particulier onderzoeksbureau, vooral in die gevallen dat de vermeende misdraging niet kon worden aangetoond, bestaat het risico dat de onderzochte persoon geen weet heeft van de gegevensverwerking, terwijl de gegevens in de toekomst mogelijk wel gebruikt worden om hem te beoordelen. Het feit dat onderzoek is gedaan naar mogelijke misdragingen van betrokkene kan immers aanleiding zijn hem te beschouwen als iemand met een verhoogd risico op fraude die extra aandacht verdient. Een onderzochte persoon heeft het recht om te weten waaraan hij deze aandacht te danken heeft.**
 
-**De WBP onderscheidt twee vormen van informatieverstrekking. Als gegevens rechtstreeks bij een ander verkregen worden – bijvoorbeeld door deze te interviewen – dient deze op de hoogte te worden gesteld op het moment van vergaring van gegevens. Dit is voor het interviewen van personen uitgewerkt in paragraaf 7.3. Indien gegevens buiten de betrokkene om worden verkregen, hetzij bij derden, hetzij door middel van eigen onderzoek, dient de betrokkene geïnformeerd te worden, ofwel op het moment van vastlegging van die gegevens, ofwel wanneer de gegevens bestemd zijn om aan een derde te worden verstrekt, uiterlijk op het moment van de eerste verstrekking aan die derde.**
+### 11. Geschillenbeslechting respectievelijk verzoeken bij het CBP en de rechter
 
 **Over de wijze waarop de informatie wordt verstrekt, wordt geen normering voorgeschreven, omdat dit per geval verschillend kan zijn. De informatieverstrekking kan mondeling in een rechtstreeks contact tussen (medewerkers van) het particulier onderzoeksbureau en de onderzochte persoon geschieden, maar kan ook schriftelijk gedaan worden. Bij de mededeling van het doel van de gegevensverwerking kan aansluiting worden gevonden bij de opdrachtomschrijving zoals deze is opgenomen in de opdrachtbevestiging tussen het particulier onderzoeksbureau en de opdrachtgever.**
 
-### 11. Geschillenbeslechting respectievelijk verzoeken bij het CBP en de rechter
+**Van de mededelingsplicht kan in twee gevallen worden afgezien. In het eerste geval blijft de mededeling (tijdelijk) achterwege omdat opsporingsbelangen dat noodzakelijk maken (artikel 43 aanhef en onder b WBP). Indien namens de opdrachtgever aangifte gedaan wordt, betekent dat niet automatisch dat de politie direct een aanvang neemt met opsporingsactiviteiten. In dat geval is het risico aanwezig is dat de onderzochte persoon de mededeling zal aangrijpen om maatregelen te nemen om de waarheidsvinding door de politie te belemmeren, bijvoorbeeld door bewijsmateriaal zoek te maken of door mededaders te informeren. De aanwezigheid van een opsporingsbelang moet door een opsporingsambtenaar kenbaar zijn gemaakt.**
 
 **Voorts kan het op de hoogte stellen van de onderzochte persoon (tijdelijk) achterwege blijven, indien dat noodzakelijk is ter bescherming van de rechten en vrijheden van anderen, zoals de opdrachtgever (artikel 43 aanhef en onder e WBP). Indien de mededeling bijvoorbeeld direct na het aanvaarden van de opdracht gedaan wordt is ook hier het risico aanwezig dat de onderzochte persoon de mededeling zal aangrijpen om maatregelen te nemen om de waarheidsvinding te belemmeren. Het noodzaakcriterium vergt een belangenafweging aan de hand van de omstandigheden van het concrete geval. Het particulier onderzoeksbureau zal per geval aannemelijk moeten kunnen maken dat het niet informeren van betrokkene noodzakelijk is. De gemaakte belangenafweging moet in het onderzoeksdossier zijn vastgelegd. Een algemeen argument dat de vertrouwensrelatie kan worden verstoord is – zonder concrete onderbouwing – onvoldoende grondslag voor een beroep op de uitzonderingsbepaling van artikel 43 aanhef en onder e WBP.**
 
 **Het komt voor – met name bij onderzoeken naar mogelijke fraude met uitkeringen – dat geen verwijtbaat gedrag is geconstateerd, terwijl het vermoeden van fraude blijft bestaan. Het is dan onwenselijk betrokkene direct na afloop van het onderzoek te informeren. Op basis van nieuwe signalen moet het mogelijk zijn op redelijke termijn na afloop van het onderzoek een nieuw onderzoek plaats te doen vinden. Indien de onderzochte persoon direct na afloop van het onderzoek op de hoogte zou worden gesteld van de gegevensvastlegging is niet ondenkbaar dat hij zijn gedrag gedurende langere tijd aanpast. Vervolgonderzoek is dan zinloos, met als gevolg dat hij ten onrechte gebruik blijft maken of heeft gemaakt van de uitkering. Voor dit soort situaties is opgenomen dat overdracht van de informatieplicht aan de opdrachtgever toegestaan is. Deze zal de informatieplicht opschorten. Het opschorten is gebaseerd op art. 43 aanhef en onder e WBP. Om te voorkomen dat van uitstel afstel komt wordt van het particulier onderzoeksbureau verwacht dat het zich actief inspant om te bewerkstelligen dat de opdrachtgever betrokkene informeert zodra het dossier is gesloten.**
 
-**De artikelen 33 en 34 WBP bepalen dat het particulier onderzoeksbureau verplicht is diens identiteit op eigen initiatief bekend te maken aan de onderzochte persoon en deze te informeren over de doeleinden van de verwerking van persoonsgegevens. De verplichting om dit op eigen initiatief te doen is een belangrijk instrument om het vastleggen van persoongegevens door het particulier onderzoeksbureau transparant te maken opdat de onderzochte persoon de rechten kan uitoefenen die in paragraaf 9 zijn opgenomen. Door de vastlegging van persoonsgegevens door een particulier onderzoeksbureau, vooral in die gevallen dat de vermeende misdraging niet kon worden aangetoond, bestaat het risico dat de onderzochte persoon geen weet heeft van de gegevensverwerking, terwijl de gegevens in de toekomst mogelijk wel gebruikt worden om hem te beoordelen. Het feit dat onderzoek is gedaan naar mogelijke misdragingen van betrokkene kan immers aanleiding zijn hem te beschouwen als iemand met een verhoogd risico op fraude die extra aandacht verdient. Een onderzochte persoon heeft het recht om te weten waaraan hij deze aandacht te danken heeft.**
+[Artikel 35 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) bepaalt dat een ieder het recht heeft zich vrijelijk en met redelijke tussenpozen tot de verantwoordelijke te wenden met het verzoek hem mede te delen of hem betreffende persoonsgegevens worden verwerkt.
 
-**De WBP onderscheidt twee vormen van informatieverstrekking. Als gegevens rechtstreeks bij een ander verkregen worden – bijvoorbeeld door deze te interviewen – dient deze op de hoogte te worden gesteld op het moment van vergaring van gegevens. Dit is voor het interviewen van personen uitgewerkt in paragraaf 7.3. Indien gegevens buiten de betrokkene om worden verkregen, hetzij bij derden, hetzij door eigen waarneming, dient de betrokkene geïnformeerd te worden, ofwel op het moment van vastlegging van die gegevens, ofwel wanneer de gegevens bestemd zijn om aan een derde te worden verstrekt, uiterlijk op het moment van de eerste verstrekking aan die derde.**
+[Artikel 35 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) kan op grond van [artikel 43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) buiten beschouwing worden gelaten voor zover dit noodzakelijk is in het belang van:
 
 [Artikel 35 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) bepaalt dat een ieder het recht heeft zich vrijelijk en met redelijke tussenpozen tot de verantwoordelijke te wenden met het verzoek hem mede te delen of hem betreffende persoonsgegevens worden verwerkt.
 
@@ -1115,27 +1107,23 @@ Binnen vier weken wordt de onderzochte persoon op het door hem opgegeven adres s
 
 Indien zodanige gegevens worden verwerkt, bevat de mededeling een volledig overzicht daarvan in begrijpelijke vorm, een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsmede de beschikbare informatie over de herkomst van de gegevens.
 
-De onderzochte persoon heeft het recht het op hem betrekking hebbende onderzoeksdossier in te zien, indien de schriftelijke mededeling hem of haar daartoe aanleiding geeft.
-
-De schriftelijke mededeling of de inzage blijft achterwege, indien opsporings- en vervolgingsbelangen dan wel particuliere onderzoeksbelangen, het belang van bronbescherming of de bescherming van de rechten en vrijheden van anderen dan de onderzochte persoon, de verantwoordelijke en de opdrachtgever daaronder begrepen, het noodzakelijk maken dat een dergelijke mededeling achterwege blijft ([artikel 43 aanhef en onder b en e WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43)). Dit wordt van geval tot geval bepaald. De noodzaak om de mededeling achterwege te laten wegens opsporings- en vervolgingsbelangen moet door een opsporingsambtenaar kenbaar zijn gemaakt.
-
 ### 12. Openbaarheid gedragscode
 
-**Een verzoek van iemand met de vraag of diens persoonsgegevens worden verwerkt, is vormvrij. Dat betekent dat zo’n verzoek mondeling (ook telefonisch) en schriftelijk (ook per e-mail) gedaan kan worden. Indien iemand echter telefonisch informeert kan niet geverifieerd worden of de verzoeker daadwerkelijk degene is voor wie hij of zij zich uitgeeft. In dat geval is het risico aanwezig dat persoonsgegevens in verkeerde handen komen, waardoor het belang van de onderzochte persoon geschaad kan worden. Om die reden is opgenomen dat het particulier onderzoeksbureau zich dient te overtuigen van de juistheid van de identiteit van de verzoeker door overlegging door deze van een identiteitsbewijs.**
+De schriftelijke mededeling of de inzage blijft achterwege, indien opsporings- en vervolgingsbelangen dan wel particuliere onderzoeksbelangen, het belang van bronbescherming of de bescherming van de rechten en vrijheden van anderen dan de onderzochte persoon, de verantwoordelijke en de opdrachtgever daaronder begrepen, het noodzakelijk maken dat een dergelijke mededeling achterwege blijft ([artikel 43 aanhef en onder b en e WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43)). Dit wordt van geval tot geval bepaald. De noodzaak om de mededeling achterwege te laten wegens opsporings- en vervolgingsbelangen moet door een opsporingsambtenaar kenbaar zijn gemaakt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
 ##### Artikel 7a. (evenementenbeveiliging)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, kan een beveiligingsorganisatie een persoon belasten met beveiligingswerkzaamheden bij een evenement indien deze in het bezit is van het certificaat Event Security Officer van de Stichting Vakexamens voor de Particuliere beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als evenementenbeveiliger.
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, kan een beveiligingsorganisatie een persoon belasten met beveiligingswerkzaamheden bij een evenement indien deze in het bezit is van het certificaat Event Security Officer van de Stichting Vakexamens voor de Particuliere beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als evenementenbeveiliger.
 
-2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, is van overeenkomstige toepassing.
 
 ##### Artikel 11a. (alarmcentralisten)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, kan een beveiligingsorganisatie als bedoeld in[artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarmcentralist.
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, kan een beveiligingsorganisatie als bedoeld in[artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarmcentralist.
 
-2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van deze regeling, is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van deze regeling, is van overeenkomstige toepassing.
 
 #### 5. Instructie van en controle op het personeel
 
@@ -1159,9 +1147,9 @@ Voorzover het tunieken, colberts en soortgelijke kledingstukken betreft, is het 
 
 ## Bijlage 6. Privacygedragscode particuliere onderzoeksbureaus
 
-### **Metaal**
+### **Borduurwerk**
 
-1.7 In het kader van hun opdracht maken particuliere onderzoeksbureaus gebruik van diverse onderzoeksmethoden en -⁠middelen. Aan de algemeen geldende wetten, de bestaande jurisprudentie en achtergrondstudies van het CBP kunnen normen worden ontleend over wat wel of niet is toegestaan. Hoewel deze normen richtinggevend zijn voor wat wel of niet is toegestaan, zijn deze normen over het algemeen onvoldoende specifiek voor de sector particuliere onderzoeksbureaus;
+Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkleurig, zijn zilverkleurig. Het kunststof tussen de letters is uitgevoerd in de kleur PMS 432 (grijs). Het embleem wordt aangebracht door middel van hitte en druk. (Niet aan te brengen met een strijkijzer).
 
 ### 2. Doel gedragscode
 
@@ -1169,35 +1157,35 @@ De gedragscode is opgesteld door de Vereniging van Particuliere Beveiligingsorga
 
 ### Doel en werkingssfeer gedragscode
 
-De sector particuliere onderzoeksbureaus in de zin van deze gedragscode bestaat uit organisaties die als recherchebureau in de zin van [art. 1 lid 1 onder f van de Wpbr](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1) worden aangemerkt èn die lid zijn van de VPB. Zij verrichten in opdracht recherchewerkzaamheden in de zin van artikel 1 lid 1 onder e van de Wpbr. Het uitvoeren van recherchewerkzaamheden bestaat veelal uit feitenonderzoek. Als ‘verlengstuk van de opdrachtgever’ verwerkt een particulier onderzoeksbureau onder eigen verantwoordelijkheid en op onpartijdige basis persoonsgegevens.
+In deze gedragscode wordt verstaan onder:
 
 De sector particuliere onderzoeksbureaus in de zin van deze gedragscode bestaat uit organisaties die als recherchebureau in de zin van [art. 1 lid 1 onder f van de Wpbr](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1) worden aangemerkt èn die lid zijn van de Nederlandse Veiligheidsbranche. Zij verrichten in opdracht recherchewerkzaamheden in de zin van artikel 1 lid 1 onder e van de Wpbr. Het uitvoeren van recherchewerkzaamheden bestaat veelal uit feitenonderzoek. Als ‘verlengstuk van de opdrachtgever’ verwerkt een particulier onderzoeksbureau onder eigen verantwoordelijkheid en op onpartijdige basis persoonsgegevens.
 
-### 4. Omschrijving van de sector en uitbreiding van de werkingsfeer van de gedragscode
+### 4.1. De sector particuliere onderzoeksbureaus
 
 ### **4.1. De sector particuliere onderzoeksbureaus**
 
-De sector particuliere onderzoeksbureaus verricht vanuit een eigen commercieel belang recherchewerkzaamheden voor verschillende soorten opdrachtgevers. Daarbij valt te denken aan verzekeraars, privaatrechtelijke en publiekrechtelijke rechtspersonen (al dan niet in de hoedanigheid van werkgever) en aan particulieren. Voor wat betreft de mogelijkheden om onderzoek te doen treedt een particulier onderzoeksbureau op als verlengstuk van de opdrachtgever en gebruikt in feite die onderzoeksmogelijkheden waarover de opdrachtgever beschikt. Hieronder wordt beschreven waarom opdrachtgevers een gerechtvaardigd belang kunnen hebben om recherchewerkzaamheden te laten uitvoeren door de sector particuliere onderzoeksbureaus.
+Na analyse van de gegevens wordt ten behoeve van de opdrachtgever een onderzoeksrapport opgesteld.
 
-### **4.2. Opdrachtgevers van de sector particuliere onderzoeksbureaus**
+### 4.2. Opdrachtgevers van de sector particuliere onderzoeksbureaus
 
-Tenslotte wordt de sector particuliere onderzoeksbureaus ingeschakeld door (rechts)personen die slachtoffer (menen te) zijn van een strafbaar feit en op grond van [artikel 161 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=161) (hierna te noemen: WvSv) bevoegd zijn om daarvan aangifte te doen bij een opsporingsambtenaar. Het is gewenst dat zo’n aangifte goed gedocumenteerd is. Hoewel de aangever zelf bevoegd is om personen te interviewen, onderzoek op de plaats van het misdrijf in te stellen, is er een categorie aangevers die dit (voor)onderzoek en het daadwerkelijk doen van aangifte om redenen van efficiency en effectiviteit overlaat aan de sector particuliere onderzoeksbureaus.
+Een andere rechtvaardiging om onderzoek in te (doen) stellen naar vermeende onregelmatigheden vormen de klokkenluiderregelingen. Zowel binnen de overheid als binnen het bedrijfsleven worden in toenemende mate – al dan niet verplicht door wetgeving – klokkenluiderregelingen ingevoerd, opdat werknemers beschermd worden als zij op vertrouwelijke wijze misstanden aan de orde willen stellen. Een melding noopt veelal tot het instellen van onderzoek om vast te stellen of de aantijgingen juist zijn.
 
 ### In overeenstemming met de wet (uitwerking [artikel 6 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6))
 
-De opdrachten- c.q. voorvallenregistratie wordt niet alleen gebruikt voor de verwerking van onderzoeksrapporten. De opdrachten- c.q. voorvallenregistratie wordt veelal ook gebruikt als toetsbron bij achtergrondonderzoeken, bijvoorbeeld in het kader van pre employment- onderzoeken. Het gebruik van de gegevens uit de opdrachten- c.q. voorvallenregistratie bij achtergrondonderzoeken is aan strikte voorwaarden gebonden (zie hiervoor paragraaf 5.4). Ook bij nieuwe aangemelde onderzoeken wordt (veelal) getoetst of de onderzochte perso(o)n(en) reeds eerder subject van onderzoek is/zijn geweest.
+Ook indien een bescheiden kaartsysteem of een geautomatiseerd systeem verwijst naar de verschillende dossiers, de opgenomen personen of de vindplaats, is er sprake van een bestand en is de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) ook van toepassing. Ook deze vorm van vastlegging is een opdrachten- c.q. voorvallenregistratie als bedoeld in deze gedragscode.
 
 ### 5.1. In overeenstemming met de wet (uitwerking [artikel 6 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6))
 
-**Voor particuliere onderzoeksbureaus betekent de norm van artikel 6 van de WBP dat zij geen gegevens mogen verwerken, indien zij deze gegevens verkregen hebben door middel van illegale onderzoeksmethoden en -middelen. Zo zijn in het Wetboek van Strafrecht (hierna te noemen: WvSr) bepalingen opgenomen die het onopgemerkt afluisteren en opnemen van gesprekken of het onopgemerkt maken van afbeeldingen verbieden (zie de artikelen 139a – 139f WvSr). De norm heeft betrekking op het eigen handelen of nalaten van een particulier onderzoeksbureau. Het mag niet zelf verwijtbaar betrokken zijn bij onrechtmatige gegevensvergaring.**
+[Artikel 6 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6) bepaalt dat persoonsgegevens alleen worden verwerkt in overeenstemming met de wet en op behoorlijke en zorgvuldige wijze.
 
-**Indien een derde gegevens (bewijsmateriaal) aan een particulier onderzoeker overhandigt, dat door deze derde op onrechtmatige wijze is verkregen, hoeft dat derhalve niet te betekenen dat deze gegevens niet door het particulier onderzoeksbureau mogen worden verwerkt. Dit is echter anders indien deze derde met medeweten of op aandringen van het particulier onderzoeksbureau bij de gegevens- c.q. bewijsvergaring onrechtmatig heeft gehandeld, (bijvoorbeeld door op verzoek van het particulier onderzoeksbureau gegevens te verstrekken in strijd met een wettelijke geheimhoudingsbepaling). Een deugdelijke vastlegging van de wijze waarop gegevens zijn verkregen en van wie is derhalve van belang (zie hiervoor paragraaf 7.9).**
+**Toelichting:**
 
 ### 5.2. Doeleinden van verwerking van persoonsgegevens (uitwerking [artikel 7 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=7))
 
 ### Wettelijk kader
 
-In het kader van de aanmelding van de opdrachten- c.q. voorvallenregistratie bij de Autoriteit Persoonsgegevens door de sector particuliere onderzoeksbureaus ex [artikel 27 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) wordt als doel van de verwerking van persoonsgegevens aangegeven dat de verwerking van persoonsgegevens plaatsvindt in het kader van een efficiënte en effectieve bedrijfsvoering en dat deze in het bijzonder gericht is op de volgende activiteiten:
+[Artikel 7 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=7) bepaalt dat persoonsgegevens voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld.
 
 ### **5.2. Doeleinden van verwerking van persoonsgegevens (uitwerking artikel 7 WBP)**
 
@@ -1205,15 +1193,15 @@ Voor de sector particuliere onderzoeksbureaus zijn de volgende verwerkingsgronds
 
 ### **5.3. Grondslag voor de gegevensverwerking (uitwerking artikel 8 WBP)**
 
-[Artikel 9 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9) bepaalt dat persoonsgegevens niet verder worden verwerkt op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
+**Bij de verwerkingsgrondslag die onder c genoemd is, heeft de particulier onderzoeker in feite geen keuze om de gegevens wel of niet te verwerken. De naleving van een wettelijke plicht is ook niet afhankelijk van de toestemming van de opdrachtgever. Het niet meewerken aan een wettelijke plicht kan immers betekenen dat de particulier onderzoeker een strafbaar feit pleegt. Bij het nakomen van wettelijke verplichtingen kan gedacht worden aan een op wettelijke grondslag gebaseerde vordering van een opsporingsinstantie om bepaalde gegevens en/of voorwerpen uit de opdrachten- c.q. voorvallenregistratie ter beschikking te stellen respectievelijk uit te leveren (denk aan de artikelen 96a,126a en 126nd van het WvSv). De verwerking wordt ook uitgevoerd wanneer een particulier onderzoeker wordt opgeroepen om te getuigen in rechte. In het Wetboek van Burgerlijke Rechtsvordering (artikel 165) en het WvSv zijn bepalingen opgenomen, die degene die op wettige wijze is opgeroepen in een gerechtelijke procedure verplichten een getuigenis af te leggen. De verwerking geschiedt eveneens in die gevallen dat artikel 160 WvSv een ieder verplicht (dus ook de particuliere onderzoeker) om aangifte te doen bij een opsporingsambtenaar, indien hij kennis draagt van bepaalde misdrijven. Daarbij kan gedacht worden aan misdrijven zoals moord, doodslag, verkrachting, mensenroof en misdrijven tegen de veiligheid van de staat.**
 
 ### Wettelijk kader
 
-**De voorwaarde onder drie brengt tot uiting dat de risico’s voor de opdrachtgever de mate bepalen waarin antecedenten relevant zijn voor de opdrachtgever. Alleen die antecedenten mogen worden verstrekt die gevaar opleveren voor de functie of de contractuele relatie. Indien de onderzochte persoon vergelijkbare gedragingen als waarvoor hij reeds gedocumenteerd is in die functie of binnen de contractuele relatie zou herhalen, schaadt dat de belangen van de opdrachtgever. Bij een antecedentenonderzoek dient het particulier onderzoeksbureau van de opdrachtgever derhalve te verlangen dat deze aangeeft wat de taken en bevoegdheden van de te onderzoeken persoon zijn en welke risico’s dat met zich meebrengt voor de opdrachtgever.**
+**Antecedenten worden slechts verstrekt mits is vastgesteld dat de onderzochte persoon strafbare feiten en/of laakbare handelingen heeft gepleegd en/of pogingen daartoe heeft ondernomen. Vage vermoedens zijn niet voldoende om te kunnen spreken van antecedenten. De verweten gedraging moet bijvoorbeeld blijken uit video- en of geluidsopnamen, een bekentenis van de onderzochte persoon of betrouwbare verklaringen van collega’s die gezien hebben dat de onderzochte persoon de verweten gedraging beging (dus geen meningen of veronderstellingen of verklaringen van horen zeggen). Wanneer gevraagd wordt naar de antecedenten van meneer X geboren op 13 april 1969 te Heemskerk, worden, voor zover deze gegevens relevant zijn voor de functie of de contractuele relatie die de opdrachtgever voornemens is aan te bieden respectievelijk aan te gaan, de volgende gegevens verstrekt:**
 
-### **5.5. Bewaartermijn (uitwerking artikel 10 WBP)**
+### 5.5. Bewaartermijn (uitwerking [artikel 10 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=10))
 
-**De bewaarduur van vijf jaar is van belang aangezien opdrachtgevers met enige regelmaat gegevens uit het dossier nog in willen zien en/of gegevens uit het dossier nodig hebben. Vaak blijkt pas geruime tijd na afsluiting van het particulier rechercheonderzoek dat juridische procedures lopen. Met enige regelmaat worden particulier onderzoekers opgeroepen om te getuigen. Vaak wil de rechter weten of er inhoudelijke verschillen zijn tussen de aan de opdrachtgever aangeboden rapport en eerdere kladversies. De bewaartermijn van vijf jaar sluit ook aan bij de verjaringstermijn voor rechtsvorderingen (artikel 3:310 BW). Zowel de onderzochte persoon als de opdrachtgever kunnen het particulier onderzoeksbureau in voorkomende gevallen aanspreken tot vergoeding van schade wegens onrechtmatige daad respectievelijk wanprestatie. In dat geval dient het particulier onderzoeksbureau in staat te zijn zich gemotiveerd te verdedigen door overlegging van stukken uit het onderzoeksdossier.**
+**Verder worden de gegevens bewaard voor het behandelen van klachten die worden ingediend tegen het particulier onderzoeksbureau zelf op grond van artikel 18 van de Regeling particuliere beveiligingsorganisaties en recherchebureaus, het voldoen aan wettelijke plichten (zoals het getuigen in rechte) en voor vervolgopdrachten van de primaire opdrachtgever.**
 
 ### Wettelijk kader
 
@@ -1225,91 +1213,91 @@ Deze personen zijn vervolgens verplicht tot geheimhouding van de persoonsgegeven
 
 ### Geheimhoudingsplicht (uitwerking [artikel 12 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=12))
 
-Deze personen zijn vervolgens verplicht tot geheimhouding van de persoonsgegevens waarvan zij kennis nemen. De geheimhoudingsverplichting geldt niet indien enig wettelijk voorschrift hen tot mededeling verplicht of indien uit hun taak de noodzaak tot mededeling voortvloeit.
+**Artikel 12 WBP is van toepassing op personen die onder het gezag van de verantwoordelijke werkzaam zijn. Personeel in dienst van de sector particuliere onderzoeksbureaus valt reeds uit hoofde van artikel 13 van de Wpbr onder een geheimhoudingsverplichting. Voor personen die niet onder het gezag van de verantwoordelijke vallen dient contractueel te worden vastgelegd dat de geheimhoudingsbepaling op hen van toepassing is.**
 
-### 6. Bijzondere persoonsgegevens
-
-**Gelet op het feit dat door particuliere onderzoeksbureaus bijzondere persoonsgegevens, zoals strafrechtelijke persoonsgegevens worden verwerkt, en gelet op het feit dat persoonsgegevens kunnen worden verzameld teneinde een beeld van iemands persoonlijke leven te verkrijgen, betekent dit dat aan de sector zwaardere eisen mogen worden gesteld ten aanzien van de beveiliging van persoonsgegevens.**
-
-### Sectornormering
-
-Het verbod om strafrechtelijke gegevens te verwerken is op grond van [22 lid 4 aanhef en onder a WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=22) niet van toepassing wanneer de gegevens door een particulier onderzoeksbureau ten behoeve van derde(n) worden verwerkt krachtens een vergunning op grond van de [Wpbr](https://wetten.overheid.nl/jci1.3:c:BWBR0008973). Het verwerken van strafrechtelijke gegevens is veelal inherent aan het onderzochte gedrag en wordt gedekt door de vergunning die de Minister van Veiligheid en Justitie heeft afgegeven. De overige bijzondere persoonsgegevens mogen worden verwerkt voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt ([artikel 22 lid 5 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=22)). Voorts is het verbod om persoonsgegevens betreffende iemands ras te verwerken niet van toepassing, indien de verwerking geschiedt met het oog op de identificatie van iemand indien dit voor dat doel onvermijdelijk is.
-
-### **7.1. Algemene normering onderzoeksmethoden en -⁠middelen**
-
-In het kader van deze gedragscode wordt het gebruik van begrippen die in het [WvSv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) vermeld worden vermeden om te voorkomen dat privaat onderzoek verward wordt met de opsporing van strafbare feiten door opsporingsinstanties. Privaat onderzoek vindt immers niet plaats onder het gezag en de verantwoordelijkheid van het Openbaar Ministerie en bovendien voor andere doeleinden.
-
-### **7.2. Betreden van niet openbare (besloten) plaatsen**
-
-Of dat zo is kan niet in algemene zin beantwoord worden. Dat hangt onder meer af van het antwoord op de vraag of het belang dat de strafrechtelijke norm tracht te beschermen (mede) bedoeld is om het belang van de onderzochte persoon te beschermen (‘de zogenaamde Schutznorm’). Voor de sector particuliere onderzoeksbureaus gaat het hierbij in het bijzonder om de strafbepalingen die het gebruik van technische hulpmiddelen verbieden, waarmee heimelijk gegevens (kunnen) worden vergaard.
-
-### Algemene normering onderzoeksmethoden en -middelen
-
-Het betreden van plaatsen kan noodzakelijk zijn om het doel van de opdracht te kunnen realiseren. Daarbij kan gedacht worden aan het zoeken naar sporen die in relatie staan tot de onderzochte gedraging, het inzien van bescheiden, het observeren van personen, het kopiëren van bescheiden en het interviewen van personen. Bij het betreden van niet-openbare (besloten) plaatsen dient de particulier onderzoeker rekening te houden met de belangen en rechten van anderen, onder wie de rechthebbende. In deze paragraaf worden normen gesteld om te voorkomen dat een particulier onderzoeker een niet-openbare plaats betreedt en daar een tijdlang onopgemerkt vertoeft of een pand binnendringt zonder medeweten van de rechthebbende. De gedachte dat geen sprake is van ‘wederrechtelijk binnendringen’ omdat de particulier onderzoeker bij het betreden van de niet openbare (besloten) plaats (nog) geen weigering of hindering heeft ondervonden is niet juist.
-
-### Sectornormering
-
-**Algemene vragen (zoals: ‘Kunt u mij vertellen op welk huisnummer de heer X woont’ of het inwinnen van inlichtingen bij openbare bronnen (zoals het informeren naar iemands telefoonnummer bij KPN via 0900 8008) vallen niet onder het begrip ‘interview’. Dit soort algemene vragen wordt aangemerkt als sturingsinformatie, informatie die nodig is om richting te geven aan het onderzoek.**
-
-### Algemeen
-
-**Ook voor het publiek toegankelijke plaatsen vallen daar onder. Zo is de lounge van een hotel en een winkel gedurende openingstijden een voor publiek toegankelijke ruimte. De onder één genoemde norm is op deze jurisprudentie gebaseerd.**
-
-### Algemeen
-
-**De vierde norm brengt tot uiting dat observatie nauwgezet gerelateerd dient te zijn aan de onderzoeksopdracht. Indien bijvoorbeeld vermoedt wordt dat een uitkeringsgerechtigde van een arbeidsongeschiktheidsverzekering rugletsel veinst, dient de observatie zich te beperken tot gedragingen als het tillen of het slepen van zware voorwerpen. Vooraf moet worden bepaald tot welk resultaat de observatie moet kunnen leiden, bijvoorbeeld het vaststellen dat iemand een ongeoorloofde nevenactiviteit verricht of het vaststellen dat iemand bijklust tijdens ziekte.**
-
-### Algemeen
-
-**Daarmee kan tevens worden voorkomen dat halsbrekende toeren in het verkeer moeten worden uitgehaald om te voorkomen dat de geobserveerde uit het zicht geraakt. De inzet van dit middel is beperkt tot bedrijfsvoertuigen en privé-voertuigen die bedrijfsmatig gebruikt worden door de onderzochte persoon en is verder beperkt tot die tijden die relevant zijn voor de onderzoeksopdracht. Het aanbrengen van een technisch hulpmiddel in iemands persoonlijke eigendommen zodat op elk moment een exact en volledig inzicht wordt verkregen van de plaatsen waar de geobserveerde is of is geweest, maakt een te grote inbreuk op de privacy en vindt geen rechtvaardiging in de aard van de opdracht. Ook de duur van de observatie in combinatie met de frequentie kan er toe leiden dat een min of meer volledig beeld wordt verkregen van bepaalde aspecten van iemands leven, waardoor een niet toegestane inbreuk op de privacy gemaakt wordt.**
-
-### Sectornormering
+### 5.8. Beveiligingsplicht (uitwerking [artikel 13 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13))
 
 **Toelichting:**
 
+### Sectornormering
+
+**Verder houdt het verwerken van bijzondere persoonsgegevens soms direct verband met de opdracht. Zo worden persoonsgegevens betreffende iemands gezondheid verwerkt indien in opdracht van een werkgever moet worden vastgesteld of er sprake is van een geveinsde ziekte of indien in opdracht van een verzekeraar moet worden vastgesteld of iemand al dan niet terecht aanspraak kan maken op een periodieke uitkering op basis van een arbeidsongeschiktheids-**
+
+### 7. Methoden van gegevensvergaring
+
+Het staat particulieren en bedrijven vrij gedragingen van anderen te onderzoeken, indien hun belangen door deze gedragingen zijn of kunnen worden geschaad. Particulier onderzoek is niet expliciet bij wet genormeerd. Indien een particulier onderzoeksbureau wordt ingeschakeld, wordt het particulier onderzoek evenwel op indirecte wijze genormeerd door [artikel 6 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6). Gegevens die immers in strijd met deze bepaling zijn verkregen, mogen niet verwerkt worden in de opdrachten- c.q. voorvallenregistratie.
+
+### **7.2. Betreden van niet openbare (besloten) plaatsen**
+
+Het gebruik maken van particuliere onderzoeksmethoden- en middelen betekent in voorkomende gevallen dat inbreuk wordt gemaakt op de privacy van de onderzochte persoon. Om die reden is normering van onderzoeksmethoden en -middelen noodzakelijk.
+
+### Algemene normering onderzoeksmethoden en -middelen
+
+**Dit algemene gedragsartikel geldt voor alle onderzoeksmethoden en -middelen die in deze gedragscode uitdrukkelijk genormeerd zijn. De normering geldt ook voor meer of minder voor de hand liggende onderzoeksmethoden en -middelen, zoals het raadplegen van openbare registers en openbare bronnen (zoals het internet), het analyseren van door de opdrachtgever opgevraagde gespecificeerde nota’s bij telecommunicatiebedrijven en het veiligstellen van sporen op de onderzoekslocatie. Verder is deze normering van belang voor onderzoeksmethoden en -middelen die nu nog niet of niet vaak gehanteerd worden, maar in de nabije toekomst wellicht wel (bijvoorbeeld door nieuwe technieken). Een voorbeeld van een onderzoeksmethode dat niet vaak gehanteerd wordt is de inzet van een particulier onderzoeker als pseudowerknemer. Deze onderzoeksmethode kan bijvoorbeeld ingezet worden als een groep werknemers verdacht wordt van het stelselmatig wegnemen van bedrijfseigendommen en er een grote mate van samenspanning vermoed wordt, terwijl het niet mogelijk is om op andere wijze informatie te krijgen over de diefstallen, de daarbij betrokkenen en de onderlinge rolverdeling. In overleg met de opdrachtgever kan er dan voor gekozen worden om een particulier onderzoeker enige tijd ‘werkzaam’ te laten zijn op de afdeling.**
+
+### Sectornormering
+
+**De begripsomschrijving van ‘interview’ moet worden bezien tegen de achtergrond van het type onderzoeken waarmee particulier onderzoekers belast worden. Enerzijds zijn er onderzoeken waarbij getracht wordt om vast te stellen of iemand al dan niet verwijtbaar betrokken is of is geweest bij een bepaalde gedraging, anderzijds zijn er onderzoeken waarbij iemands achtergrond nagetrokken wordt. Zodra er een min of meer officieel gesprek plaatsvindt over de al dan niet vermeende betrokkenheid van iemand bij een onrechtmatige handeling of een gearrangeerd gesprek plaatsvindt in het kader van een achtergrondonderzoek, is sprake van een interview.**
+
+### Algemeen
+
+**Observatie is een belangrijke onderzoeksmethode als er duidelijke aanwijzingen zijn dat iemand zich schuldig maakt of zal maken aan laakbaar en/of strafbaar handelen of indien er gerede twijfel is omtrent de juistheid en volledigheid van de feiten op grond waarvan een uitkering worden wordt verlangd of verleend. Er kan onderscheid gemaakt worden tussen statische observatie en dynamische observatie (volgen). In het eerste geval wordt uitgegaan van het gadeslaan van (een) perso(o)n(en), goederen en/of situaties vanuit een bepaalde positie (bijvoorbeeld een vast observatiepunt met doorkijkspiegel). Bij dynamische observatie gaat het om het volgen van de activiteiten van een bepaalde perso(o)n(en), goederen en/of situaties. Observatie kan met gewone zintuiglijke waarnemingen geschieden (directe observatie), maar ook door gebruik te maken van video- en fotocamera's (indirecte observatie). In de regel zal observatie heimelijk zijn. Dit betekent dat personen worden gadegeslagen zonder dat zij hiervan op de hoogte zijn.**
+
+### Algemeen
+
+**Daarmee kan tevens worden voorkomen dat halsbrekende toeren in het verkeer moeten worden uitgehaald om te voorkomen dat de geobserveerde uit het zicht geraakt. De inzet van dit middel is beperkt tot bedrijfsvoertuigen en privé-voertuigen die bedrijfsmatig gebruikt worden door de onderzochte persoon en is verder beperkt tot die tijden die relevant zijn voor de onderzoeksopdracht. Het aanbrengen van een technisch hulpmiddel in iemands persoonlijke eigendommen zodat op elk moment een exact en volledig inzicht wordt verkregen van de plaatsen waar de geobserveerde is of is geweest, maakt een te grote inbreuk op de privacy en vindt doorgaans geen rechtvaardiging in de aard van de opdracht. Ook de duur van de observatie in combinatie met de frequentie kan er toe leiden dat een min of meer volledig beeld wordt verkregen van bepaalde aspecten van iemands leven, waardoor een niet toegestane inbreuk op de privacy gemaakt wordt.**
+
+### Algemeen
+
+**‘Gezien de duur en frequentie van de observaties, alsmede de gedetailleerde inhoud van rapportages, moet er naar het voorlopig oordeel van de voorzieningenrechter sprake zijn geweest van méér dan ‘enkele momenten met het blote oog vanaf de openbare weg gadeslaan’ als bedoeld in de toelichting bij de gedragscode, hetgeen in casu een niet toelaatbare inbreuk op de persoonlijke levenssfeer van ([A] en) [eiser] oplevert. Daarbij is mede van belang dat een aanzienlijk deel van de observaties situaties betreffen waarin [eiser] er aanspraak op moet kunnen maken onbevangen zichzelf te kunnen zijn.’ De particulier onderzoeker werd veroordeeld tot vergoeding van immateriële schade vanwege schending van de persoonlijke levenssfeer.**
+
+### 7.5. Heimelijke observatie door middel van camera’s
+
+Verborgen camera’s worden in voorkomende gevallen ingezet indien gedragingen van (een) onderzochte perso(o)n(en) moeten worden vastgelegd en/of om duidelijkheid te verkrijgen omtrent de identiteit van de vermoedelijke dader(s)/perso(o)n(en) die onrechtmatig handel(t)(en), om zodoende jegens de onderzochte perso(o)n(en) maatregelen te doen nemen door de opdrachtgever van de sector particuliere onderzoeksbureaus.
+
 ### **7.6. Onderzoek in geautomatiseerde voorzieningen**
 
-**In een tweetal hierna opgenomen situaties is er wel sprake van strafbaar handelen en heeft de rechter zich concreet uitgesproken over het gebruik van de heimelijke camera.**
+**In een bedrijf wordt vastgesteld dat een bepaalde gebruiker (user-id en password zijn bekend) de bedrijfscomputer gebruikt om hackerssoftware te downloaden van internet, met enorme risico’s voor de technische infrastructuur als gevolg. Ook wordt vastgesteld dat het internet met dit password altijd vanuit één vaste werkplek benaderd wordt (iedere internetcomputer kent een IP-adres).**
 
 ### Onderzoek in geautomatiseerde voorzieningen
 
 **Toelichting:**
 
-In het WvSr is een aantal strafbepalingen opgenomen die betrekking hebben op het aftappen en/of inzien van e-⁠mail.
+**Indien de sector particuliere onderzoeksbureaus optreedt in het verlengde van de rechthebbende van een geautomatiseerde voorziening (zoals het computernetwerk van een bedrijf of een door het bedrijf aan een medewerker beschikbaar gestelde personal computer), is onderzoek, waarbij de op de bedrijfsserver of de harde schijf opgeslagen data benaderd worden geoorloofd. Er is dan geen sprake van ‘wederrechtelijk binnendringen’ in de zin van artikel 138ab van het WvSr. In dat geval is ook geen sprake van gekwalificeerde computer- vredebreuk (art. 138ab lid 2 WvSr), indien het inkijken in de gegevens gevolgd wordt door het overnemen van de gegevens en deze voor zichzelf of een ander wordt vastgelegd (ontvreemden van gegevens).**
 
 ### Algemeen
 
-### 7.7.1. Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
+### 7.7. Vertrouwelijke communicatie
 
-**Artikel 139c van het WvSr verbiedt het aftappen of opnemen met een technisch hulpmiddel van gegevens die worden overgedragen via de telecommunicatie-infrastructuur of door middel van daarop aangesloten randapparatuur. Deze verbodsbepaling is eveneens van toepassing op het aftappen van e-mailberichten die worden verzonden en/of worden ontvangen.**
+**Onderzoek van de e-mailbox houdt in het aftappen en/of inzien van e-mailberichten en/of berichten die zijn opgeslagen in de e-mailbox.**
 
-**Artikel 138ab van het WvSr verbiedt het opzettelijk en wederrechtelijk binnendringen in iemands e-mailbestanden alsmede het overnemen van gegevens.**
+**In het WvSr is een aantal strafbepalingen opgenomen die betrekking hebben op het aftappen en/of inzien van e-mail.**
 
 ### Onderzoek van e-mailberichtenverkeer
 
 ### **Sectornormering**
 
-Indien een particulier onderzoeksbureau één van de in de paragrafen 7.1 tot en met 7.8 genoemde onderzoeksmethoden of -middelen heeft toegepast wordt hiervan een verslag opgemaakt, onder vermelding van de gronden die tot de toepassing van de gehanteerde onderzoeksmethode c.q. -middel hebben geleid. Het verslag maakt deel uit van het dossier en zodoende van de opdrachten- c.q. voorvallenregistratie, maar vormt geen onderdeel van het onderzoeksrapport, tenzij met de opdrachtgever anders is overeengekomen. Door middel van deze verslaglegging is achteraf toetsing mogelijk op de juiste toepassing van onderzoeksmethoden- en middelen. Dat is van belang voor de beoordeling van klachten ex-[artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2016-10-01&g=2016-10-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus en voor de beoordeling door de Autoriteit Persoonsgegevens van een verzoek ex-[artikel 47 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=47), alsmede voor de geschillenregeling van de gedragscode. De reikwijdte van het recht tot inzage in het onderzoeksdossier door de onderzochte persoon als vastgelegd in paragraaf 9.1 van deze gedragscode omvat – onder de daar gestelde voorwaarden en beperkingen – ook de verslaglegging van gehanteerde onderzoeksmethoden en onderzoeksmiddelen.
+**Hij moet de overtuiging hebben dat de verkoper zich zou hebben ingespannen om een andere gegadigde te zoeken om vervolgens aan deze de goederen te verkopen of de dienst aan te bieden. Ook mogen geen hogere bedragen worden geboden dan de gangbare bedragen.**
 
 ### 8.1. Informatieverstrekking aan de onderzochte persoon (uitwerking [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
 
-Indien persoonsgegevens worden verkregen op een andere wijze dan rechtstreeks van de onderzochte persoon, bepaalt [artikel 34 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34) dat de verantwoordelijke de hiervoor genoemde informatie aan de onderzochte persoon mededeelt:
+Een belangrijk uitgangspunt van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is dat de verantwoordelijke verplicht is een betrokkene op enig moment te informeren over de verwerking van diens persoonsgegevens.
 
 ### Informatieverstrekking aan de onderzochte persoon (uitwerking [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
 
-Na aanvang van het onderzoek:
+In de chronologie van een particulier rechercheonderzoek en in de verhouding tussen de opdrachtgever en het particulier onderzoeksbureau geschiedt de informatieverstrekking aan de onderzochte persoon als volgt:
 
 ### 10. Gegevensverkeer met landen buiten de Europese Unie
 
-**Van de mededelingsplicht kan in twee gevallen worden afgezien. In het eerste geval blijft de mededeling (tijdelijk) achterwege omdat opsporingsbelangen dat noodzakelijk maken (artikel 43 aanhef en onder b WBP). Indien namens de opdrachtgever aangifte gedaan wordt, betekent dat niet automatisch dat de politie direct een aanvang neemt met opsporingsactiviteiten. In dat geval is het risico aanwezig is dat de onderzochte persoon de mededeling zal aangrijpen om maatregelen te nemen om de waarheidsvinding door de politie te belemmeren, bijvoorbeeld door bewijsmateriaal zoek te maken of door mededaders te informeren. De aanwezigheid van een opsporingsbelang moet door een opsporingsambtenaar kenbaar zijn gemaakt.**
+**De WBP onderscheidt twee vormen van informatieverstrekking. Als gegevens rechtstreeks bij een ander verkregen worden – bijvoorbeeld door deze te interviewen – dient deze op de hoogte te worden gesteld op het moment van vergaring van gegevens. Dit is voor het interviewen van personen uitgewerkt in paragraaf 7.3. Indien gegevens buiten de betrokkene om worden verkregen, hetzij bij derden, hetzij door middel van eigen onderzoek, dient de betrokkene geïnformeerd te worden, ofwel op het moment van vastlegging van die gegevens, ofwel wanneer de gegevens bestemd zijn om aan een derde te worden verstrekt, uiterlijk op het moment van de eerste verstrekking aan die derde.**
 
 ### 11. Geschillenbeslechting respectievelijk verzoeken bij het CBP en de rechter
 
-**Toelichting:**
+De onderzochte persoon heeft het recht het op hem betrekking hebbende onderzoeksdossier in te zien, indien de schriftelijke mededeling hem of haar daartoe aanleiding geeft.
 
 ### 12. Openbaarheid gedragscode
 
-**Bij de mededeling van het doel of de doeleinden van de gegevensverwerking kan aansluiting worden gevonden bij de opdrachtomschrijving zoals deze is opgenomen in de opdrachtbevestiging tussen het particulier onderzoeksbureau en de opdrachtgever. Een particulier recherchebureau kan overwegen om deze schriftelijke mededeling aangetekend te versturen naar het door de verzoeker opgegeven adres.**
+**Een verzoek van iemand met de vraag of diens persoonsgegevens worden verwerkt, is vormvrij. Dat betekent dat zo’n verzoek mondeling (ook telefonisch) en schriftelijk (ook per e-mail) gedaan kan worden. Indien iemand echter telefonisch informeert kan niet geverifieerd worden of de verzoeker daadwerkelijk degene is voor wie hij of zij zich uitgeeft. In dat geval is het risico aanwezig dat persoonsgegevens in verkeerde handen komen, waardoor het belang van de onderzochte persoon geschaad kan worden. Om die reden is opgenomen dat het particulier onderzoeksbureau zich dient te overtuigen van de juistheid van de identiteit van de verzoeker door overlegging door deze van een identiteitsbewijs.**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
@@ -1327,11 +1315,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 - d. een verklaring omtrent gedrag afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst, of een met die verklaring overeenkomend document als bedoeld in [artikel 14, tweede lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), met dien verstande dat de verklaring of het document ten tijde van de indiening van de aanvraag niet ouder is dan drie maanden.
 
-3. Indien de Minister een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2016-10-01&g=2016-10-01), heeft gedaan, gaat de aanvraag tevens vergezeld van:
+3. Indien de Minister een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2019-04-01&g=2019-04-01), heeft gedaan, gaat de aanvraag tevens vergezeld van:
 
-- a. een verklaring, bedoeld in [artikel 23h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23h&z=2016-10-01&g=2016-10-01), of
+- a. een verklaring, bedoeld in [artikel 23h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23h&z=2019-04-01&g=2019-04-01), of
 
-- b. een verklaring, bedoeld in [artikel 23i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23i&z=2016-10-01&g=2016-10-01).
+- b. een verklaring, bedoeld in [artikel 23i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23i&z=2019-04-01&g=2019-04-01).
 
 4. De Minister kan verlangen dat de aanvrager nadere informatie verstrekt over:
 
@@ -1345,13 +1333,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 1. Justis deelt de aanvrager zo spoedig mogelijk, maar uiterlijk een maand na ontvangst, schriftelijk mee dat de aanvraag is ontvangen.
 
-2. Indien niet is voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2016-10-01&g=2016-10-01), wordt de aanvrager in de gelegenheid gesteld om de aanvraag binnen een maand aan te vullen. De Minister kan deze termijn verlengen.
+2. Indien niet is voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2019-04-01&g=2019-04-01), wordt de aanvrager in de gelegenheid gesteld om de aanvraag binnen een maand aan te vullen. De Minister kan deze termijn verlengen.
 
 3. De mededeling, bedoeld in het tweede lid, wordt zo mogelijk gedaan in de ontvangstbevestiging, bedoeld in het eerste lid.
 
 4. De Minister beslist op de aanvraag:
 
-- a. binnen drie maanden nadat de aanvrager heeft voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2016-10-01&g=2016-10-01), of
+- a. binnen drie maanden nadat de aanvrager heeft voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2019-04-01&g=2019-04-01), of
 
 - b. onverwijld na het ongebruikt verstrijken van de termijn die is gesteld voor het aanvullen van de aanvraag.
 
@@ -1395,7 +1383,7 @@ De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artike
 
 ##### Artikel 23h. (aanpassingsstage)
 
-1. Het bedrijf, bedoeld in [artikel 23e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23e&z=2016-10-01&g=2016-10-01), kan een stagiair met werkzaamheden belasten zonder dat deze in het bezit is van een in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&z=2016-10-01&g=2016-10-01) genoemd diploma of een erkenning van EU-beroepskwalificaties, indien de stagiair beschikt over een mededeling, bedoeld in [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2016-10-01&g=2016-10-01), met vermelding van het betrokken bedrijf.
+1. Het bedrijf, bedoeld in [artikel 23e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23e&z=2019-04-01&g=2019-04-01), kan een stagiair met werkzaamheden belasten zonder dat deze in het bezit is van een in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&z=2019-04-01&g=2019-04-01) genoemd diploma of een erkenning van EU-beroepskwalificaties, indien de stagiair beschikt over een mededeling, bedoeld in [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2019-04-01&g=2019-04-01), met vermelding van het betrokken bedrijf.
 
 2. De duur van de aanpassingsstage bedraagt ten hoogste twaalf maanden.
 
@@ -1427,7 +1415,7 @@ Een dienstverrichter worden geen beperkingen wegens beroepskwalificaties opgeleg
 
 ##### Artikel 23k. (verklaring vooraf door tijdelijke en incidentele dienstverrichter)
 
-1. De verklaring, genoemd in [artikel 23j](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11c&artikel=23j&z=2016-10-01&g=2016-10-01), kan met alle middelen worden aangeleverd en wordt steeds na een jaar opnieuw afgegeven door de dienstverrichter indien hij voornemens is om gedurende het opvolgende jaar in Nederland tijdelijk en incidenteel diensten te verrichten.
+1. De verklaring, genoemd in [artikel 23j](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11c&artikel=23j&z=2019-04-01&g=2019-04-01), kan met alle middelen worden aangeleverd en wordt steeds na een jaar opnieuw afgegeven door de dienstverrichter indien hij voornemens is om gedurende het opvolgende jaar in Nederland tijdelijk en incidenteel diensten te verrichten.
 
 2. De verklaring gaat vergezeld van de volgende documenten, afgegeven door de terzake bevoegde autoriteit van de betrokken staat:
 
@@ -1455,19 +1443,19 @@ Voorzover het kledingstukken betreft die niet van revens zijn voorzien, zoals bl
 
 [Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2016-10-01&g=2016-10-01) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2016-10-01&g=2016-10-01), bedoelde embleem.
 
+### **Model en afmetingen**
+
+[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2019-04-01&g=2019-04-01) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2019-04-01&g=2019-04-01), bedoelde embleem.
+
 ### **Plaats op het uniform**
 
 Het uniform is te allen tijden en onder alle omstandigheden duidelijk zichtbare wijze van het embleem voorzien.
 
-### **Borduurwerk**
+### **Metaal**
 
 Voorzover het kledingstukken betreft die niet van revens zijn voorzien, zoals blousons, jacks, truien, overhemden en blouses, is het embleem aangebracht op de plaats die overeenkomt met de voor tunieken en colberts voorgeschreven plaats.
 
-### **Metaal**
-
-Het volle vlak van het embleem, alsmede de letters in het embleem, zijn zilverkleurig.
-
-Het embleem is vervaardigd uit metaal of is door middel van borduurwerk op het uniform aangebracht, met inachtneming van de volgende voorschriften.
+Het uniform vertoont, noch ten aanzien van uitvoerng, noch ten aanzien van kleurstelling, meer dan noodzakelijke overeenkomst met uniformen zoals die worden gebruikt door de politie en de krijgsmacht.
 
 De voorzijde van het metalen embleem is voorzien van blanke lak.
 
@@ -1511,21 +1499,29 @@ De voorzijde van het metalen embleem is voorzien van blanke lak.
 
 - Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01).
 
+## Bijlage 1A. Embleem uniform (art. 12 RPB)
+
+## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2019-04-01&g=2019-04-01) RPB)
+
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01).
+
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01).
+
+- Blauw legitimatiebewijs, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperkte vergunning.
+
+- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2019-04-01&g=2019-04-01).
+
+- Legitimatiebewijs voor buitengewoon opsporingsambtenaren, zoals vastgesteld door de minister op grond van het [Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013), bestemd voor een buitengewoon opsporingsambtenaar die behoort tot een particuliere beveiligingsorganisatie, dan wel een onderdeel daarvan, die door de minister is aangewezen als een categorie of eenheid als bedoeld in [art. 142, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) ([art. 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5))
+
+- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01).
+
 ## Bijlage 2A
 
-Legitimatiebewijs met grijze bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
+Legitimatiebewijs met grijze bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ## Bijlage 2B
 
-Legitimatiebewijs met groene bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2016-10-01&g=2016-10-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
-
-## Bijlage 2C
-
-Legitimatiebewijs met blauwe bovenbalk, voor en achterzijde, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperking.
-
-## Bijlage 2D
-
-Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2016-10-01&g=2016-10-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
+Legitimatiebewijs met groene bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ### Overwegingen
 
@@ -1559,13 +1555,13 @@ Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een pers
 
 ### 7.2. Betreden van niet openbare (besloten) plaatsen
 
-### Algemeen
+### 7.3. Interviewen van personen
 
 ### **7.4. Observatie**
 
 ### Observatie
 
-**De rechter oordeelde in ECLI:NL:RBHAA:2009:BJ3060 (alimentatiekwestie):**
+**De vierde norm brengt tot uiting dat observatie nauwgezet gerelateerd dient te zijn aan de onderzoeksopdracht. Indien bijvoorbeeld vermoedt wordt dat een uitkeringsgerechtigde van een arbeidsongeschiktheidsverzekering rugletsel veinst, dient de observatie zich te beperken tot gedragingen als het tillen of het slepen van zware voorwerpen. Vooraf moet worden bepaald tot welk resultaat de observatie moet kunnen leiden, bijvoorbeeld het vaststellen dat iemand een ongeoorloofde nevenactiviteit verricht of het vaststellen dat iemand bijklust tijdens ziekte.**
 
 ### **7.7. Vertrouwelijke communicatie**
 
@@ -1573,7 +1569,7 @@ Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een pers
 
 ### 7.7.3. Onderzoek van e-mailberichtenverkeer
 
-**Het is de verantwoordelijkheid van de opdrachtgever om de gebruikers van het geautomatiseerde systeem in algemene zin te informeren dat handelingen op computers, op computernetwerken en/of het gebruik van computerdiensten worden vastgelegd en onder welke omstandigheden de vastgelegde gegevens in de geautomatiseerde voorzieningen kunnen worden onderzocht.**
+**Toelichting:**
 
 ### 7.7.2. Aftappen en/of opnemen van telefoongesprekken
 
@@ -1591,13 +1587,17 @@ Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een pers
 
 ### Sectornormering
 
+**Toelichting:**
+
 **In eerste instantie wordt de verzoeker schriftelijk geïnformeerd dat op hem of haar betrekking hebbende persoonsgegevens worden verwerkt, onder vermelding van een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsmede de beschikbare informatie over de herkomst van de gegevens.**
+
+**Bij de mededeling van het doel of de doeleinden van de gegevensverwerking kan aansluiting worden gevonden bij de opdrachtomschrijving zoals deze is opgenomen in de opdrachtbevestiging tussen het particulier onderzoeksbureau en de opdrachtgever. Een particulier recherchebureau kan overwegen om deze schriftelijke mededeling aangetekend te versturen naar het door de verzoeker opgegeven adres.**
 
 **Als een onderzochte persoon vervolgens expliciet vraagt om inzage in de gegevens die over hem worden verwerkt, kan deze inzage gegeven worden. Verschillende mogelijkheden zijn denkbaar: het laten inzien van het onderzoeksdossier of het opsturen van een fotokopie (van een deel van het onderzoeksdossier).**
 
 **In artikel 43 WBP zijn uitzonderingen genoemd op grond waarvan het noodzakelijk is dat het verstrekken van mededelingen of het doen inzien van stukken achterwege dient te blijven. Dit is maatwerk en geen kwestie van ‘alles of niets’. Per vastgelegd gegeven of categorie van gegevens moet getoetst worden of een weigeringsgrond van toepassing is. De noodzaak om te weigeren kan aanwezig zijn indien sprake is van nog lopende onderzoeken, waarbij het risico aanwezig is dat de onderzochte persoon de mededeling zal aangrijpen om maatregelen te nemen om de waarheidsvinding te belemmeren. Voorts kan door inzage in het onderzoeksdossier de situatie ontstaan dat de rechten van anderen geschonden worden. Daarbij kan gedacht worden aan tipgevers of aan personen die ten nadele van de onderzochte persoon verklaringen hebben afgelegd. Indien belangen van anderen geschaad worden door inzage of afgifte van kopieën van bescheiden kunnen passages waar mogelijk geanonimiseerd of verwijderd worden, indien de bescherming van die belangen noodzakelijk is.**
 
-De onderzochte persoon heeft het recht het op hem betrekking hebbende onderzoeksdossier in te zien, indien de schriftelijke mededeling hem of haar daartoe aanleiding geeft.
+De verantwoordelijke bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of dan wel in hoeverre hij daaraan voldoet. Een weigering is met redenen omkleed.
 
 [Artikel 36 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36) bepaalt dat degene aan wie overeenkomstig [artikel 35 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) kennis is gegeven dat op hem betreffende persoonsgegevens zijn opgenomen in de opdrachten- c.q. voorvallenregistratie, de verantwoordelijke kan verzoeken deze te verbeteren, aan te vullen, te verwijderen, of af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn, dan wel anderszins in strijd met een wettelijke voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -1607,15 +1607,11 @@ De verantwoordelijke draagt zorg dat een beslissing tot verbetering, aanvulling,
 
 Indien het verzoek wordt geweigerd wordt verwezen naar de geschillenregeling van hoofdstuk 11 van deze gedragscode.
 
-**Als een onderzochte persoon vervolgens expliciet vraagt om inzage in de gegevens die over hem worden verwerkt, kan deze inzage gegeven worden. Verschillende mogelijkheden zijn denkbaar: het laten inzien van het onderzoeksdossier of het opsturen van een fotokopie (van een deel van het onderzoeksdossier).**
-
-[Artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40) bepaalt dat iemand te allen tijde verzet kan aantekenen bij het particulier onderzoeksbureau in verband met zijn bijzondere persoonlijke omstandigheden, indien gegevens worden verwerkt op grond van [artikel 8 aanhef en onder f WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8).
-
 Het particulier recherchebureau beoordeelt binnen vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien het verzet gerechtvaardigd is, beëindigt het particulier recherchebureau terstond de verwerking. Indien het verzet niet ingewilligd wordt, wordt verwezen naar de geschillenregeling van hoofdstuk 11 van deze gedragscode.
 
 ### Wettelijk kader
 
-**Verzet is mogelijk tegen verwerkingen die gebaseerd zijn op artikel 8 aanhef en onder f WBP. In paragraaf 5.3 van deze gedragscode is vastgelegd dat dit artikel de verwerkingsgrondslag is voor alle soorten van onderzoeken waarvoor een particulier onderzoeksbureau wordt ingeschakeld. In paragraaf 5.3 is vastgelegd dat het particulier onderzoeksbureau bij de aanvaarding én de uitvoering van opdrachten telkens een belangenafweging moet maken tussen de gerechtvaardigde belangen van de opdrachtgever en de belangen van de onderzochte persoon. Ondanks deze belangenafweging blijft de mogelijkheid bestaan – hoe zorgvuldig en nauwkeurig deze afweging ook heeft plaatsgevonden – dat in een individueel geval een belangenafweging anders had moeten uitvallen. De oorzaak kan liggen in een omstandigheid die het particulier onderzoeksbureau niet bekend was en niet bekend had kunnen zijn. Het aantekenen van verzet door de onderzochte persoon betekent dat het particulier onderzoeksbureau een hernieuwde afweging moet maken in het concrete geval. Het is aan de onderzochte persoon om de bijzondere persoonlijke omstandigheden aan het particulier onderzoeksbureau ter kennis te brengen. Het aantekenen van verzet is vormvrij en kan derhalve ook mondeling gedaan worden.**
+Het particulier recherchebureau beoordeelt binnen vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien het verzet gerechtvaardigd is, beëindigt het particulier recherchebureau terstond de verwerking. Indien het verzet niet ingewilligd wordt, wordt verwezen naar de geschillenregeling van hoofdstuk 11 van deze gedragscode.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
@@ -1627,11 +1623,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Opdrachten- c.q. voorvallenregistratie en de toepasselijkheid van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
 
-### Wettelijk kader
+### 4.3. Opdrachten- c.q. voorvallenregistratie en de toepasselijkheid van de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
 
 ### Sectornormering
 
-### Wettelijk kader
+### 5. Algemene principes van gegevensverwerking
 
 ### 5.3. Grondslag voor de gegevensverwerking (uitwerking [artikel 8 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8))
 
@@ -1659,13 +1655,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### 6. Bijzondere persoonsgegevens
 
-### **Gevolgen voor de sector**
+### 6. Bijzondere persoonsgegevens
 
 ### Methoden van gegevensvergaring
 
 ### 7.1. Algemene normering onderzoeksmethoden en -middelen
 
-### Sectornormering
+### 7.1. Algemene normering onderzoeksmethoden en -middelen
 
 ### Algemeen
 
@@ -1673,7 +1669,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Observatie
 
-### Algemeen
+### 7.4. Observatie
 
 ### Sectornormering
 
@@ -1681,13 +1677,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
 
-### Sectornormering
+### 7.7.1. Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
 
 ### Aftappen en/of opnemen van telefoongesprekken
 
-### Meeluisteren en opnemen van gesprekken in besloten en niet besloten ruimten
+### 7.7.2. Aftappen en/of opnemen van telefoongesprekken
 
-### Aftappen en/of opnemen van telefoongesprekken
+### 7.7.3. Onderzoek van e-mailberichtenverkeer
 
 ### 7.8. Proefaankoop en pseudoklant
 
@@ -1695,65 +1691,69 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Sectornormering
 
-### 8. Informatieverstrekking aan de onderzochte perso(o)n(en)
+### 7.9. Vastlegging van gehanteerde onderzoeksmethoden en -middelen
 
-### Wettelijk kader
+### 8. Informatieverstrekking aan de onderzochte perso(o)n(en)
 
 ### Sectornormering
 
 ### 9.1. Mededelingen uit de opdrachten- c.q voorvallenregistratie (uitwerking [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
 
-### Mededelingen uit de opdrachten- c.q voorvallenregistratie (uitwerking [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
+### 9. Rechten van de onderzochte perso(o)n(en)
 
-### Wettelijk kader
+### 9.1. Mededelingen uit de opdrachten- c.q voorvallenregistratie (uitwerking [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
 
 ### Rechten van de onderzochte perso(o)n(en)
 
-### Correctie en verwijdering (uitwerking [artikel 36 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36))
+### 9.2. Correctie en verwijdering (uitwerking [artikel 36 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36))
 
 ### Wettelijk kader
 
 ### 9.3. Recht van verzet (uitwerking van [artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40))
 
-**Toelichting**
+[Artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40) bepaalt dat iemand te allen tijde verzet kan aantekenen bij het particulier onderzoeksbureau in verband met zijn bijzondere persoonlijke omstandigheden, indien gegevens worden verwerkt op grond van [artikel 8 aanhef en onder f WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8).
 
 ### Recht van verzet (uitwerking van [artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40))
 
 ### Sectornormering
 
-**Het particulier onderzoeksbureau is niet verplicht de aangevochten verwerking (bijvoorbeeld een voorgenomen verstrekking of een voorgenomen onderzoekshandeling) op te schorten nadat verzet is aangetekend. Indien degene die verzet aantekent een dringend belang heeft bij het onmiddellijk staken van de verwerking dan dient hij een voorlopige voorziening te vragen bij de rechter (bijvoorbeeld via een kort geding).**
+**Verzet is mogelijk tegen verwerkingen die gebaseerd zijn op artikel 8 aanhef en onder f WBP. In paragraaf 5.3 van deze gedragscode is vastgelegd dat dit artikel de verwerkingsgrondslag is voor alle soorten van onderzoeken waarvoor een particulier onderzoeksbureau wordt ingeschakeld. In paragraaf 5.3 is vastgelegd dat het particulier onderzoeksbureau bij de aanvaarding én de uitvoering van opdrachten telkens een belangenafweging moet maken tussen de gerechtvaardigde belangen van de opdrachtgever en de belangen van de onderzochte persoon. Ondanks deze belangenafweging blijft de mogelijkheid bestaan – hoe zorgvuldig en nauwkeurig deze afweging ook heeft plaatsgevonden – dat in een individueel geval een belangenafweging anders had moeten uitvallen. De oorzaak kan liggen in een omstandigheid die het particulier onderzoeksbureau niet bekend was en niet bekend had kunnen zijn. Het aantekenen van verzet door de onderzochte persoon betekent dat het particulier onderzoeksbureau een hernieuwde afweging moet maken in het concrete geval. Het is aan de onderzochte persoon om de bijzondere persoonlijke omstandigheden aan het particulier onderzoeksbureau ter kennis te brengen. Het aantekenen van verzet is vormvrij en kan derhalve ook mondeling gedaan worden.**
 
 ### 10. Gegevensverkeer met landen buiten de Europese Unie
+
+**Het particulier onderzoeksbureau is niet verplicht de aangevochten verwerking (bijvoorbeeld een voorgenomen verstrekking of een voorgenomen onderzoekshandeling) op te schorten nadat verzet is aangetekend. Indien degene die verzet aantekent een dringend belang heeft bij het onmiddellijk staken van de verwerking dan dient hij een voorlopige voorziening te vragen bij de rechter (bijvoorbeeld via een kort geding).**
+
+[Artikel 76 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=76) bepaalt dat doorgifte van persoonsgegevens naar landen buiten de Europese Unie slechts mogelijk is, indien in het betreffende land een passend beschermingsniveau ten aanzien van de doorgegeven persoonsgegevens gewaarborgd is.
 
 De sector particuliere onderzoeksbureaus wisselt regelmatig persoonsgegevens (al dan niet in de vorm van onderzoeksrapporten) uit met opdrachtgevers in het buitenland op basis van (in Nederland) uitgevoerd particulier onderzoek.
 
 [Artikel 76 van de WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=76) bepaalt dat doorgifte van persoonsgegevens naar landen buiten de Europese Unie slechts mogelijk is, indien in het betreffende land een passend beschermingsniveau ten aanzien van de doorgegeven persoonsgegevens gewaarborgd is.
 
-In afwijking van deze bepaling kunnen persoonsgegevens worden doorgegeven indien:
-
-**Toelichting:**
-
 ### Sectornormering
 
 ### **Algemeen**
 
-**Een aantal van deze grondslagen uit artikel 76 WBP is hiervoor weergegeven aangezien die het meest van belang zijn voor de sector particuliere onderzoeksbureaus. De grondslagen zijn voor een groot deel dezelfde als aangegeven in paragraaf 5.3. Voor voorbeelden wordt volledigheidshalve daarnaar verwezen. In aanvulling daarop geldt voor de grondslag onder één**
+**De WBP vloeit voort uit Richtlijn nr. 95/46/EG, PbEG L281 van het Europees Parlement en de Raad van de Europese Unie van 23 november 1995. De ontwikkeling van een vrije interne markt binnen de Europese Unie vereist dat de uitwisseling van persoonsgegevens niet belemmerd wordt door nationale grenzen. Om die reden is grensoverschrijdend gegevensverkeer tussen de lidstaten van de Europese Unie door de sector particuliere onderzoeksbureaus toegestaan, een en ander met inachtneming van de WBP en de bepalingen van deze gedragscode. Paragraaf 10 heeft om die reden betrekking op het gegevensverkeer met landen van buiten de Europese Unie.**
 
 ### **Wettelijk kader**
 
-**Het particulier onderzoeksbureau is niet verplicht de aangevochten verwerking (bijvoorbeeld een voorgenomen verstrekking of een voorgenomen onderzoekshandeling) op te schorten nadat verzet is aangetekend. Indien degene die verzet aantekent een dringend belang heeft bij het onmiddellijk staken van de verwerking dan dient hij een voorlopige voorziening te vragen bij de rechter (bijvoorbeeld via een kort geding).**
+**Een aantal van deze grondslagen uit artikel 76 WBP is hiervoor weergegeven aangezien die het meest van belang zijn voor de sector particuliere onderzoeksbureaus. De grondslagen zijn voor een groot deel dezelfde als aangegeven in paragraaf 5.3. Voor voorbeelden wordt volledigheidshalve daarnaar verwezen. In aanvulling daarop geldt voor de grondslag onder één**
 
 ### Gegevensverkeer met landen buiten de Europese Unie
 
 De directeur van het particulier onderzoeksbureau beslist binnen zes weken na de ontvangst van het klaagschrift. De beslissing op de klacht wordt schriftelijk aan de klager medegedeeld.
 
+Indien een onderzochte persoon van menig is dat een particulier onderzoeker respectievelijk particulier onderzoeksbureau heeft gehandeld in strijd met deze gedragscode dan wel anderszins in strijd met de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), dient hij zich in eerste instantie te wenden tot de directeur van het particulier onderzoeksbureau.
+
+De directeur van het particulier onderzoeksbureau beslist binnen zes weken na de ontvangst van het klaagschrift. De beslissing op de klacht wordt schriftelijk aan de klager medegedeeld.
+
 Binnen zes weken na de ontvangst van de beslissing van de directeur van het particulier onderzoeksbureau kan een beroepsschrift worden ingediend bij de Beroepscommissie van de NVB, indien het particulier onderzoeksbureau lid is van de Nederlandse Veiligheidsbranche.
 
-De Beroepscommissie van de Nederlandse Veiligheidsbranche bestaat uit drie door het bestuur van de Nederlandse Veiligheidsbranche aangewezen onafhankelijke leden. De algemeen secretaris van de Nederlandse Veiligheidsbranche vervult het secretariaat van de Beroepscommissie. De uitspraak van de Beroepscommissie is bindend.
+### **Sectornormering**
 
 Onderzochte perso(o)n(en) kan/kunnen zich ook wenden tot de Autoriteit Persoonsgegevens met het verzoek om te bemiddelen of te adviseren in het geschil met het particulier onderzoeksbureau. Het verzoek daartoe moet worden ingediend binnen zes weken na ontvangst van het antwoord van de directeur van het particulier onderzoeksbureau dan wel binnen zes weken na het verstrijken van de termijn van vier weken zoals genoemd in de paragrafen 9.1 en 9.2.
 
-### **Sectornormering**
+Een verzoek aan de Beroepscommissie van de Nederlandse Veiligheidsbranche of aan de Autoriteit Persoonsgegevens laat onverlet dat onderzochte perso(o)n(en) zich ook rechtstreeks kan/kunnen wenden tot de rechtbank in het arrondissement waarin het particulier onderzoeksbureau is gevestigd, indien hij/zij van mening is/zijn dat een particulier onderzoeker respectievelijk particulier onderzoeksbureau heeft gehandeld in strijd met deze gedragscode of anderszins in strijd met de wet of het recht.
 
 Indien een verzoek bij de rechter betrekking heeft op inzage, verbetering, aanvulling, afscherming of verwijdering van gegevens als bedoeld in de paragrafen 9.1 en 9.2 gelden voor de indiening de volgende termijnen. Het verzoek moet bij de rechtbank in het arrondissement waarin het particulier onderzoeksbureau is gevestigd worden ingediend binnen zes weken na ontvangst van het antwoord van het particulier onderzoeksbureau dan wel binnen zes weken na het verstrijken van de termijn van vier weken zoals genoemd in de paragrafen 9.1 en 9.2.
 
@@ -1769,29 +1769,25 @@ Indien bemiddeling of advies gevraagd is bij de Autoriteit Persoonsgegevens of e
 
 **Voor wat betreft de termijnen waarin de onderzochte persoon zijn grieven kenbaar moet maken moet onderscheid gemaakt worden tussen verzoeken om inzage, verbetering, aanvulling, afscherming of verwijdering van gegevens als bedoeld in de paragrafen 9.1 en 9.2 van deze gedragscode en overige rechtsvorderingen. Voor verzoeken als bedoeld in de paragrafen 9.1 en 9.2 van deze gedragscode gelden de termijnen genoemd in de artikelen 46 en 47 WBP. Voor het aanhangig maken van overige rechtsvorderingen gelden de termijnen die genoemd zijn in het Burgerlijk Wetboek.**
 
-Binnen zes weken na de ontvangst van de beslissing van de directeur van het particulier onderzoeksbureau kan een beroepsschrift worden ingediend bij de Beroepscommissie van de VPB, indien het particulier onderzoeksbureau lid is van de VPB.
+In het kader van (extern) toezicht op de naleving van de privacygedragscode dient de omvang van de werkzaamheden eenvoudig te kunnen worden vastgesteld. Om die reden dienen de onderzoeksdossiers in de opdrachten- en voorvallenregistratie doorlopend te zijn genummerd of dient een andersoortige inzichtelijke nummering van onderzoeksdossiers te worden aangehouden.
 
 De bepalingen van de privacygedragscode dienen door de leden van de sectie particuliere onderzoeksbureaus van de Nederlandse Veiligheidsbranche te worden vertaald in een systeem van administratieve organisatie en interne controle. De Nederlandse Veiligheidsbranche heeft een praktijkhandleiding (‘toolkit’) voor haar leden ontwikkeld die de leden kunnen gebruiken zodat zij in staat gesteld worden op adequate wijze invulling te geven aan de bepalingen van de privacygedragscode. De praktijkhandleiding bestaat uit:
 
 In het kader van (extern) toezicht op de naleving van de privacygedragscode dient de omvang van de werkzaamheden eenvoudig te kunnen worden vastgesteld. Om die reden dienen de onderzoeksdossiers in de opdrachten- en voorvallenregistratie doorlopend te zijn genummerd of dient een andersoortige inzichtelijke nummering van onderzoeksdossiers te worden aangehouden.
 
-**Toelichting:**
+### 13. Openbaarheid gedragscode
 
 **De zelfevaluatie kan door het management van het particulier onderzoeksbureau zelf uitgevoerd worden. De uitkomsten van de zelfevaluatie geven een duidelijk beeld over de huidige situatie en de noodzakelijke verbeterpunten. De zelfevaluatie bestaat uit een set aan vaststellingen, waarvan het van belang is dat iedere vaststelling door het management van het particulier onderzoeksbureau wordt ‘afgefinkt’ als blijk van bevestiging dat daadwerkelijk is vastgesteld dat wordt voldaan aan de eisen die uit de WBP en uit de privacygedragscode voortvloeien. De opbouw van de vaststellingen is – naast het algemene deel en het beveiligingsdeel – zodanig dat de chronologische volgorde van een doorsnee onderzoek gevolgd wordt. Per vaststelling wordt aangegeven wat de vindplaats in de privacygedragscode of in andere relevante documenten is. Door de invoering van het Keurmerk Particuliere Onderzoeksbureaus wordt onafhankelijk toezicht op de administratie organisatie en interne controle verder gewaarborgd.**
 
-### 13. Openbaarheid gedragscode
+**Op grond van de standaard klachtenregeling die als bijlage 4 is opgenomen bij de Circulaire particuliere beveiligingsorganisaties en recherchebureaus van de Minister van Veiligheid en Justitie is de termijn voor het indienen van een klaagschrift bepaald op zes weken, te rekenen vanaf de datum waarop de gedraging waarover geklaagd wordt heeft plaatsgevonden. Het is de eigen verantwoordelijkheid van de klager om bij het particulier onderzoeksbureau over wiens gedraging(en) geklaagd wordt te verifiëren of dat particulier recherchebureau eveneens deze termijn heeft opgenomen in hun specifieke klachtenregeling.**
 
 Deze gedragscode is gepubliceerd op de website van de Nederlandse Veiligheidsbranche, http://www.veiligheidsbranche.nl. Informatie over de privacygedragscode kan worden verkregen via het emailadres: info@veiligheidsbranche.nl of telefoonnummer: 0183-646670.
 
-**Op grond van de standaard klachtenregeling die als bijlage 4 is opgenomen bij de Circulaire particuliere beveiligingsorganisaties en recherchebureaus van de Minister van Veiligheid en Justitie is de termijn voor het indienen van een klaagschrift bepaald op zes weken, te rekenen vanaf de datum waarop de gedraging waarover geklaagd wordt heeft plaatsgevonden. Het is de eigen verantwoordelijkheid van de klager om bij het particulier onderzoeksbureau over wiens gedraging(en) geklaagd wordt te verifiëren of dat particulier recherchebureau eveneens deze termijn heeft opgenomen in hun specifieke klachtenregeling.**
+### 14. Wijzigingen gedragscode
 
 Het bestuur van de Nederlandse Veiligheidsbranche kan besluiten tot een aanpassing of een wijziging van deze gedragscode. Een dergelijk besluit wordt genomen nadat de aanpassingen of wijzigingen zijn goedgekeurd door de Autoriteit Persoonsgegevens. Aanpassingen of wijzigingen van deze gedragscode zijn bindend voor de sector particuliere onderzoeksbureaus.
 
 ### Bijlage 1
-
-Deze gedragscode is openbaar en opvraagbaar bij de VPB, Stephensonweg 14, 4207 HB te Gorinchem of Postbus 693, 4200 AR te Gorinchem. Het telefoonnummer van de VPB is 0183-646670, het faxnummer van de VPB is 0183-6196617.
-
-### Wijzigingen gedragscode
 
 In het kader van (extern) toezicht op de naleving van de privacygedragscode dient de omvang van de werkzaamheden eenvoudig te kunnen worden vastgesteld. Om die reden dienen de onderzoeksdossiers in de opdrachten- en voorvallenregistratie doorlopend te zijn genummerd of dient een andersoortige inzichtelijke nummering van onderzoeksdossiers te worden aangehouden.
 
@@ -1811,7 +1807,7 @@ De eisen die gelden voor het medisch attest, bedoeld in [artikel 6a van de wet](
 
 - 3. De leden, bedoeld in het eerste lid, voldoen aan de in [artikel 2 van de Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362&artikel=2) bedoelde eisen van lichamelijke en geestelijke gesteldheid, voor zover deze betrekking hebben op de in [artikel 1, aanhef en onder b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011362&artikel=1) genoemde categorieën van rijbewijzen.
 
-- 4. De vragen die tijdens de medische keuring ten aanzien van de gezondheid mogen worden gesteld, alsmede de medische onderzoeken die mogen worden verricht, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=7&z=2016-10-01&g=2016-10-01) bij deze regeling.
+- 4. De vragen die tijdens de medische keuring ten aanzien van de gezondheid mogen worden gesteld, alsmede de medische onderzoeken die mogen worden verricht, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=7&z=2019-04-01&g=2019-04-01) bij deze regeling.
 
 ##### Artikel 23n. (aanwijzing autoriteit artikel 12, tweede lid, verordening)
 
@@ -1831,11 +1827,19 @@ De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.over
 
 Voorzover het tunieken, colberts en soortgelijke kledingstukken betreft, is het embleem aangebracht aan de linker- of rechtervoorzijde, op de revers.
 
-Het uniform vertoont, noch ten aanzien van uitvoerng, noch ten aanzien van kleurstelling, meer dan noodzakelijke overeenkomst met uniformen zoals die worden gebruikt door de politie en de krijgsmacht.
+Voorzover het tunieken, colberts en soortgelijke kledingstukken betreft, is het embleem aangebracht aan de linker- of rechtervoorzijde, op de revers.
 
 ### **Uitvoering**
 
 ### **Het seal embleem**
+
+## Bijlage 2C
+
+Legitimatiebewijs met blauwe bovenbalk, voor en achterzijde, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperking.
+
+## Bijlage 2D
+
+Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2019-04-01&g=2019-04-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ## Bijlage 2E
 
@@ -1845,7 +1849,7 @@ Model met oranje bovenbalk, voor en achterzijde, bestemd voor voetbalstewards in
 
 Vervallen
 
-## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2016-10-01&g=2016-10-01) RPB).
+## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2019-04-01&g=2019-04-01) RPB).
 
 Naam + adres beveiligingsorganisatie:
 
@@ -1899,13 +1903,7 @@ De omvang van de werkzaamheden is:
 
 ...........................
 
-[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2016-10-01&g=2016-10-01) wordt niet gepubliceerd.
-
-## Bijlage 5
-
-Ligt ter inzage bij het Ministerie van Veiligheid en Justitie.
-
-## Bijlage 6. Privacycode sector particuliere onderzoeksbureaus van de vereniging van particuliere beveiligingsorganisaties ([artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2016-10-01&g=2016-10-01))
+[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2019-04-01&g=2019-04-01) wordt niet gepubliceerd.
 
 ### 1. Overwegingen
 
@@ -1915,17 +1913,17 @@ Ligt ter inzage bij het Ministerie van Veiligheid en Justitie.
 
 ### Omschrijving van de sector
 
-### 4. Omschrijving van de sector
+### 3. Begripsbepalingen
 
 ### Opdrachtgevers van de sector particuliere onderzoeksbureaus
 
 ### 5. Algemene principes van gegevensverwerking
 
-### Sectornormering
+### 5.1. In overeenstemming met de wet (uitwerking [artikel 6 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6))
 
 ### Sectornormering
 
-### Verenigbaarheid (uitwerking [artikel 9 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9))
+### 5.4. Verenigbaarheid (uitwerking [artikel 9 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9))
 
 ### Sectornormering
 
@@ -1967,7 +1965,7 @@ Ligt ter inzage bij het Ministerie van Veiligheid en Justitie.
 
 ### Algemeen
 
-### Vastlegging van gehanteerde onderzoeksmethoden en -middelen
+### 8.1. Informatieverstrekking aan de onderzochte persoon (uitwerking [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34) en [43 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43))
 
 ### Informatieverstrekking aan de onderzochte perso(o)n(en)
 
@@ -1977,25 +1975,25 @@ Ligt ter inzage bij het Ministerie van Veiligheid en Justitie.
 
 ### Wettelijk kader
 
-### Correctie en verwijdering (uitwerking [artikel 36 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36))
+### 9.3. Recht van verzet (uitwerking van [artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40))
 
-De verantwoordelijke draagt zorg dat een beslissing tot verbetering, aanvulling, verwijdering of afscherming zo spoedig mogelijk wordt uitgevoerd.
+**Een onderzochte persoon zou bijvoorbeeld belang kunnen hebben bij het recht van verzet indien hij na de aanvang van het onderzoek – en nog voordat het onderzoeksrapport wordt aangeboden aan de opdrachtgever – overeenkomstig paragraaf 8.1 van deze gedragscode geïnformeerd wordt over het ingestelde onderzoek en de voorgenomen verstrekking van gegevens aan de opdrachtgever. Hij kan er belang bij hebben, dat bepaalde gegevens niet bekend worden aan de opdrachtgever wegens bijzondere persoonlijke omstandigheden. Zo zou de onderzochte persoon ook verzet aan kunnen tekenen indien hij na afronding van een onderzoek van het particulier onderzoeksbureau overeenkomstig paragraaf 8.1 van deze gedragscode verneemt dat antecedenten gedurende een periode van vijf jaar bewaard worden en dat deze verstrekt kunnen worden in het kader van achtergrondonderzoeken.**
 
-### Recht van verzet (uitwerking van [artikel 40 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40))
+### 10. Gegevensverkeer met landen buiten de Europese Unie
 
 ### Wettelijk kader
 
+**Toelichting:**
+
 **In artikel 77 van de WBP is aangegeven wanneer doorgifte van gegevens naar landen buiten de Europese Unie kan plaatsvinden, indien het ‘derde’-land geen passend beschermingsniveau biedt. Een actuele lijst met landen buiten de EU waarvoor wel een passend beschermingsniveau geldt is te bevragen bij het Ministerie van Veiligheid en Justitie en is te vinden op de website van de Autoriteit Persoonsgegevens (** **www.autoriteitpersoonsgegevens.nl** **).**
 
-**dat opdrachtgevers hun rechten in een rechterlijke procedure niet kunnen effectueren, indien zij niet beschikken over bepaalde gegevens van hun wederpartij.**
-
-### **Algemeen**
+### 11. Geschillenbeslechting respectievelijk verzoeken bij de Autoriteit Persoonsgegevens en de rechter
 
 ### **Wettelijk kader**
 
 ### Geschillenbeslechting respectievelijk verzoeken bij het CBP en de rechter
 
-Indien bemiddeling of advies gevraagd is bij het CBP of een beroepsschrift is ingediend bij de Beroepscommissie van de VPB, kan het verzoek dat betrekking heeft op inzage, verbetering, aanvulling, afscherming of verwijdering van gegevens als bedoeld in de paragrafen 9.1 en 9.2 bij de arrondissementsrechtbank aanhangig worden gemaakt tot uiterlijk zes weken nadat bericht van de Beroepscommissie of het CBP is ontvangen dat de behandeling van de zaak beëindigd is.
+**Toelichting:**
 
 **Voor wat betreft de termijnen waarin de onderzochte persoon zijn grieven kenbaar moet maken moet onderscheid gemaakt worden tussen verzoeken om inzage, verbetering, aanvulling, afscherming of verwijdering van gegevens als bedoeld in de paragrafen 9.1 en 9.2 van deze gedragscode en overige rechtsvorderingen. Voor verzoeken als bedoeld in de paragrafen 9.1 en 9.2 van deze gedragscode gelden de termijnen genoemd in de artikelen 46 en 47 WBP. Voor het aanhangig maken van overige rechtsvorderingen gelden de termijnen die genoemd zijn in het Burgerlijk Wetboek.**
 
@@ -2055,19 +2053,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### 9.2. Correctie en verwijdering (uitwerking [artikel 36 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36))
 
-**Een onderzochte persoon zou bijvoorbeeld belang kunnen hebben bij het recht van verzet indien hij na de aanvang van het onderzoek – en nog voordat het onderzoeksrapport wordt aangeboden aan de opdrachtgever – overeenkomstig paragraaf 8.1 van deze gedragscode geïnformeerd wordt over het ingestelde onderzoek en de voorgenomen verstrekking van gegevens aan de opdrachtgever. Hij kan er belang bij hebben, dat bepaalde gegevens niet bekend worden aan de opdrachtgever wegens bijzondere persoonlijke omstandigheden. Zo zou de onderzochte persoon ook verzet aan kunnen tekenen indien hij na afronding van een onderzoek van het particulier onderzoeksbureau overeenkomstig paragraaf 8.1 van deze gedragscode verneemt dat antecedenten gedurende een periode van vijf jaar bewaard worden en dat deze verstrekt kunnen worden in het kader van achtergrondonderzoeken.**
+**Toelichting**
 
-**De WBP vloeit voort uit Richtlijn nr. 95/46/EG, PbEG L281 van het Europees Parlement en de Raad van de Europese Unie van 23 november 1995. De ontwikkeling van een vrije interne markt binnen de Europese Unie vereist dat de uitwisseling van persoonsgegevens niet belemmerd wordt door nationale grenzen. Om die reden is grensoverschrijdend gegevensverkeer tussen de lidstaten van de Europese Unie door de sector particuliere onderzoeksbureaus toegestaan, een en ander met inachtneming van de WBP en de bepalingen van deze gedragscode. Paragraaf 10 heeft om die reden betrekking op het gegevensverkeer met landen van buiten de Europese Unie.**
+In afwijking van deze bepaling kunnen persoonsgegevens worden doorgegeven indien:
 
 ### 11. Geschillenbeslechting respectievelijk verzoeken bij de Autoriteit Persoonsgegevens en de rechter
 
-Indien een onderzochte persoon van menig is dat een particulier onderzoeker respectievelijk particulier onderzoeksbureau heeft gehandeld in strijd met deze gedragscode dan wel anderszins in strijd met de [WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), dient hij zich in eerste instantie te wenden tot de directeur van het particulier onderzoeksbureau.
+**dat opdrachtgevers hun rechten in een rechterlijke procedure niet kunnen effectueren, indien zij niet beschikken over bepaalde gegevens van hun wederpartij.**
 
-Een verzoek aan de Beroepscommissie van de Nederlandse Veiligheidsbranche of aan de Autoriteit Persoonsgegevens laat onverlet dat onderzochte perso(o)n(en) zich ook rechtstreeks kan/kunnen wenden tot de rechtbank in het arrondissement waarin het particulier onderzoeksbureau is gevestigd, indien hij/zij van mening is/zijn dat een particulier onderzoeker respectievelijk particulier onderzoeksbureau heeft gehandeld in strijd met deze gedragscode of anderszins in strijd met de wet of het recht.
+De Beroepscommissie van de Nederlandse Veiligheidsbranche bestaat uit drie door het bestuur van de Nederlandse Veiligheidsbranche aangewezen onafhankelijke leden. De algemeen secretaris van de Nederlandse Veiligheidsbranche vervult het secretariaat van de Beroepscommissie. De uitspraak van de Beroepscommissie is bindend.
 
 ### 12. Naleving gedragscode
 
-### 14. Wijzigingen gedragscode
+### 13. Openbaarheid gedragscode
 
 ## Bijlage 7. bij Regeling particuliere beveiligingsorganisaties en recherchebureaus
 
@@ -2096,3 +2094,111 @@ Een verzoek aan de Beroepscommissie van de Nederlandse Veiligheidsbranche of aan
 Het onderzoek bestaat uit een gesprek over de algemene gezondheid, oogonderzoek, bloeddruk- en polsmeting, urine- of bloedsuikertest, alsmede een oriënterend lichamelijk/psychisch onderzoek.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
+
+##### Artikel 11b. (videotoezichtcentrales)
+
+1. Een beveiligingsorganisatie als bedoeld in [artikel 3, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) laat, indien het een organisatie betreft die in de uitoefening van beroep of bedrijf ten behoeve van derden in een centraal meldpunt, de door videoapparatuur verzonden beelden ontvangt en beoordeelt en zo nodig assistentie vraagt aan de politie, andere overheidsinstanties of particulieren, het plan voor de installatie, de installatie en het onderhoud van de videoapparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door installateurs en personen die aan installateurs assistentie verlenen, die in het bezit zijn van een diploma dat de instemming heeft van de minister.
+
+2. Instemming als bedoeld in het eerste lid hebben:
+
+- a. het diploma Projecteringsdeskundige CCTV/VSS;
+
+- b. het diploma Installatiedeskundige CCTV/VSS;
+
+- c. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarminstallateur.
+
+3. Het bepaalde in de [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2019-04-01&g=2019-04-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2019-04-01&g=2019-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=22&z=2019-04-01&g=2019-04-01) is van overeenkomstige toepassing op een beveiligingsorganisatie als bedoeld in het eerste lid.
+
+4. De minister kan besluiten de eis van het overleggen van een certificaat als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2019-04-01&g=2019-04-01), eenmalig voor een periode van ten hoogste acht maanden buiten toepassing te laten.
+
+5. Een beveiligingsorganisatie als bedoeld in het eerste lid laat het plan voor installatie, de installatie en het onderhoud van de apparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door installateurs en personen die aan installateurs assistentie verlenen, die beschikken over een verklaring van betrouwbaarheid. Zij verleent uitsluitend diensten aan derden die deze werkzaamheden eveneens slechts laten verrichten door installateurs die aan de genoemde voorwaarden voldoen.
+
+6. Een beveiligingsorganisatie als bedoeld in het eerste lid maakt van videoapparatuur die behoort tot een categorie waarvoor Onze Minister regels heeft gesteld, uitsluitend gebruik indien deze overeenkomstig die regels is goedgekeurd. Zij verleent alleen diensten aan derden die eveneens aan deze voorwaarde voldoen.
+
+7. Een beveiligingsorganisatie als bedoeld in het eerste lid draagt zorg dat zij over documenten beschikt betreffende de door haar en derden gebruikte apparatuur, waarmee aangetoond kan worden dat zij aan het eerste, vijfde en zesde lid voldoet.
+
+8. De verklaring van betrouwbaarheid, bedoeld in het vijfde lid, wordt afgegeven door de korpschef, dan wel, indien de desbetreffende persoon niet woonachtig is in Nederland, de korpschef, de commandant van de Koninklijke marechaussee of Onze Minister, die ingevolge [artikel 7, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7) aan een beveiligingsorganisatie waarvoor de installateur gaat werken toestemming kan geven.
+
+9. De verklaring van betrouwbaarheid, bedoeld in het vijfde lid, kan worden ingetrokken indien zich omstandigheden voordoen of feiten bekend worden op grond waarvan de verklaring niet zou zijn afgegeven, indien deze zich hadden voorgedaan of bekend waren geweest op het tijdstip waarop de verklaring werd afgegeven.
+
+10. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een verklaring van betrouwbaarheid als bedoeld in het vijfde lid.
+
+#### 3. Uniformen
+
+#### 4. Legitimatiebewijzen
+
+#### 6. Verslaglegging
+
+#### 7. Uitrusting
+
+#### 8. Behandeling van klachten
+
+#### 9. Afstemming met politie
+
+#### 10. Bijzondere bepalingen voor particuliere alarmcentrales
+
+#### 11. Bijzondere bepalingen voor geld- en waardetransporten
+
+#### § 11a. Bijzondere bepalingen voor recherchebureaus
+
+#### 11b. Bijzondere bepalingen voor erkenning EU-beroepskwalificaties
+
+#### 11c. Bijzondere bepalingen voor tijdelijke en incidentele dienstverrichters
+
+#### 11d. Bijzondere bepalingen voor grensoverschrijdend transport van eurocontanten
+
+#### 12. Vergoeding van kosten
+
+#### 13. Overgangs- en slotbepalingen
+
+##### Artikel 29a. Grondslag
+
+Deze regeling is mede gebaseerd [artikel 33 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33).
+
+### **Metaal**
+
+### **Het seal embleem**
+
+## Bijlage 5
+
+Ligt ter inzage bij het Ministerie van Veiligheid en Justitie.
+
+## Bijlage 6. Privacycode sector particuliere onderzoeksbureaus van de vereniging van particuliere beveiligingsorganisaties ([artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2019-04-01&g=2019-04-01))
+
+### 1. Overwegingen
+
+### 2. Doel en werkingssfeer gedragscode
+
+### 5.2. Doeleinden van verwerking van persoonsgegevens (uitwerking [artikel 7 WBP](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=7))
+
+### 7.2. Betreden van niet openbare (besloten) plaatsen
+
+### 7.8. Proefaankoop en pseudoklant
+
+### 12. Naleving gedragscode
+
+## Bijlage 7. bij Regeling particuliere beveiligingsorganisaties en recherchebureaus
+
+- 1. Hebt u last van of last gehad van de epileptische aanvallen, flauwvallen, aanvallen van abnormale slaperigheid overdag of andere bewustzijnsstoornissen?
+
+- 2. Hebt u last van of last gehad van evenwichtsstoornissen of ernstige duizelingen?
+
+- 3. Bent u onder behandeling of onder behandeling geweest voor een psychiatrische stoornis, een hersenziekte – zoals een beroerte – of een ziekte van het zenuwstelsel?
+
+- 4. Maakt u misbruik van of hebt u misbruik gemaakt van alcohol, geneesmiddelen, drugs of andere geestverruimende of bedwelmende middelen of bent u daarvoor ooit medisch onderzocht of onder behandeling geweest?
+
+- 5. Wordt of werd u behandeld voor inwendige ziekten als suikerziekte, hart- en vaatziekten, verhoogde bloeddruk, nierziekte of longziekte? Of hebt u een hart- of vaatoperatie ondergaan?
+
+- 6. Kunt u een arm, een hand of uw vingers niet of slechts beperkt gebruiken?
+
+- 7. Kunt u een been of voet niet of slechts beperkt gebruiken?
+
+- 8. Ziet u minder goed met één of beide ogen, zelfs als u gebruik maakt van een bril of contactlenzen?
+
+- 9. Wordt of werd u behandeld door een oogarts? Of hebt u een oogoperatie of een laserbehandeling van de ogen ondergaan?
+
+- 10. Gebruikt u medicijnen die volgens de bijsluiter de rijvaardigheid kunnen beïnvloeden, zoals slaapmiddelen, kalmeringsmiddelen, antidepressieve middelen, antipsychotische middelen of opwekmiddelen?
+
+- 11. Hebt u nog andere aandoeningen, ziekten of functiebeperkingen die het besturen van motorrijtuigen moeilijker maken?
+
+Het onderzoek bestaat uit een gesprek over de algemene gezondheid, oogonderzoek, bloeddruk- en polsmeting, urine- of bloedsuikertest, alsmede een oriënterend lichamelijk/psychisch onderzoek.
