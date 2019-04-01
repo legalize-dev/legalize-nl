@@ -4,7 +4,7 @@ identifier: "BWBR0026608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2012-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026608"
 soort: "ministeriele-regeling"
@@ -58,7 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - 4. een wrakingverzoek wordt afgehandeld, of
 
-- 5. wordt beslist op een verzoek tot herziening op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=52).
+- 5. wordt beslist op een verzoek tot herziening op grond van [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=52);
+
+- 6. wordt beslist op een ingesteld verzet als bedoeld in [artikel 73b, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73b);
+
+- 7. een beslissing wordt genomen op een voordracht als bedoeld in [artikel 79, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=79).
 
 ##### Artikel 2
 
@@ -88,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 - d. voor de plaatsvervangende secretarissen: € 90,–.
 
-6. Indien het centrale tuchtcollege toepassing heeft gegeven aan [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74), bedraagt het vacatiegeld voor de personen, bedoeld in het tweede lid, onder a tot en met d, € 50,–.
+6. Indien het centrale tuchtcollege toepassing heeft gegeven aan [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74), dan wel indien door de voorzitter of diens plaatsvervanger toepassing is gegeven aan [artikel 67a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67a), bedraagt het vacatiegeld voor de personen, bedoeld in het tweede lid, onder a tot en met d, onderscheidenlijk voor de voorzitter of diens plaatsvervanger, € 50,–.
 
 7. Indien een bij een tuchtcollege aanhangig gemaakte zaak vijf werkdagen of minder voorafgaand aan de terechtzitting wordt ingetrokken, wordt aan de personen als bedoeld in het eerste lid een vacatiegeld toegekend volgens de tarieven genoemd in onderscheidenlijk het vijfde en tiende lid, tenzij de behandeling wordt voortgezet volgens [artikel 65, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65). Bij voortzetting van de behandeling ter terechtzitting is het tweede lid van toepassing.
 
@@ -128,7 +132,7 @@ Reis- en verblijfkosten van leden, plaatsvervangende leden en plaatsvervangende 
 
 1. Deze regeling is niet van toepassing op leden van tuchtcolleges, secretarissen en plaatsvervangend secretarissen die op grond van enige benoeming bij een tuchtcollege, daarvoor uit andere hoofde dan deze regeling een bezoldiging of tegemoetkoming ontvangen.
 
-2. Onverminderd [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5a&z=2012-01-01&g=2012-01-01) en in afwijking van het eerste lid hebben leden van tuchtcolleges, secretarissen en plaatsvervangend secretarissen die buiten het kader van hun benoeming werkzaamheden verrichten bij een ander tuchtcollege dan het tuchtcollege bedoeld in het eerste lid en aan wie voor 1 december 2011 vacatiegelden voor dergelijke werkzaamheden zijn toegekend, aanspraak op vacatiegeld op basis van deze regeling, voor zover het werkzaamheden betreft:
+2. Onverminderd [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5a&z=2019-04-01&g=2019-04-01) en in afwijking van het eerste lid hebben leden van tuchtcolleges, secretarissen en plaatsvervangend secretarissen die buiten het kader van hun benoeming werkzaamheden verrichten bij een ander tuchtcollege dan het tuchtcollege bedoeld in het eerste lid en aan wie voor 1 december 2011 vacatiegelden voor dergelijke werkzaamheden zijn toegekend, aanspraak op vacatiegeld op basis van deze regeling, voor zover het werkzaamheden betreft:
 
 - a. die zijn verricht voor 1 januari 2014, en
 
@@ -142,7 +146,7 @@ De volgende regelingen worden ingetrokken: de [Regeling vergoedingen leden-beroe
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=7&z=2012-01-01&g=2012-01-01) werkt terug tot en met 1 januari 2008
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=7&z=2019-04-01&g=2019-04-01) werkt terug tot en met 1 januari 2008
 
 ##### Artikel 10
 
@@ -154,11 +158,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Degene die in aanmerking komt voor vacatiegeld op grond van deze regeling, dient daarvoor een declaratie in binnen zes maanden na de datum van de eindbeslissing of het advies als, bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
 
-2. Bij wijziging van de samenstelling van het tuchtcollege als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot wijziging.
+2. Bij wijziging van de samenstelling van het tuchtcollege als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2019-04-01&g=2019-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot wijziging.
 
-3. Bij staking van de behandeling als bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot staking.
+3. Bij staking van de behandeling als bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2019-04-01&g=2019-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot staking.
 
-4. Bij een wrakingverzoek als bedoeld in [artikel 2, achtste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2012-01-01&g=2012-01-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing op het wrakingverzoek.
+4. Bij een wrakingverzoek als bedoeld in [artikel 2, achtste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2019-04-01&g=2019-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing op het wrakingverzoek.
 
 5. Declaraties die niet binnen de termijnen, bedoeld in het eerste, tweede, derde of vierde lid zijn ingediend, worden niet in behandeling genomen.
 
