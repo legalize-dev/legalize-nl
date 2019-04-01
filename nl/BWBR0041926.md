@@ -51,7 +51,3 @@ In dit besluit wordt verstaan onder:
 ### 3. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit ontheffing gecertificeerde pabo-gediplomeerden voor de onderbouw vmbo basis- en kader.
-
-### 3. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit ontheffing gecertificeerde pabo-gediplomeerden voor de onderbouw vmbo basis- en kader.
