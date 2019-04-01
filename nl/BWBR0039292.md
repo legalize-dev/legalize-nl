@@ -4,7 +4,7 @@ identifier: "BWBR0039292"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2019-04-01"
-last_updated: "2017-03-09"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039292"
 soort: "beleidsregel"
@@ -141,7 +141,7 @@ Dit protocol beoogt echter geen onderzoeksaanpak voor te schrijven, en is evenmi
 
 ### 5.1. Doel en reikwijdte van het accountantsonderzoek
 
-Het object van het accountantsonderzoek is de verantwoording van de Aanvraag. In het voorgeschreven Format frictiekosten is dit opgenomen in blok 1 ‘Aanvraag frictiekosten’ (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039292&bijlage=2&z=2017-03-09&g=2017-03-09) bij de Frictiekostenregeling regionale publieke media-instellingen 2016–2019, Format Frictiekostenregeling publieke media-instellingen 2016–2019).
+Het object van het accountantsonderzoek is de verantwoording van de Aanvraag. In het voorgeschreven Format frictiekosten is dit opgenomen in blok 1 ‘Aanvraag frictiekosten’ (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039292&bijlage=2&z=2019-04-01&g=2019-04-01) bij de Frictiekostenregeling regionale publieke media-instellingen 2016–2019, Format Frictiekostenregeling publieke media-instellingen 2016–2019).
 
 Het doel van het accountantsonderzoek is het vaststellen dat de aangevraagde vergoeding voor frictiekosten is bepaald in overeenstemming met de voorwaarden zoals genoemd in de paragrafen 2 en 3 van de Frictiekostenregeling regionale publieke media-instellingen 2016–2019. Bij de uitvoering van de werkzaamheden handelt de accountant conform de vereisten uit dit protocol en de relevante ‘Nadere Voorschriften Controle- en Overige Standaarden’ (NV COS).
 
@@ -167,7 +167,7 @@ Indien de accountant tijdens het uitvoeren van het onderzoek enige aanwijzing kr
 
 ### 6.1. Doel en reikwijdte van de accountantscontrole
 
-Het object van controle is de verantwoording van de reeds gerealiseerde frictiekosten zoals opgenomen in de Verantwoording. In het voorgeschreven Format frictiekosten is dit opgenomen in blok 2 ‘Verantwoording gerealiseerde frictiekosten’ (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039292&bijlage=2&z=2017-03-09&g=2017-03-09) bij Frictiekostenregeling regionale publieke media-instellingen 2016–2019, Format Frictiekostenregeling regionale publieke media-instellingen 2016–2019).
+Het object van controle is de verantwoording van de reeds gerealiseerde frictiekosten zoals opgenomen in de Verantwoording. In het voorgeschreven Format frictiekosten is dit opgenomen in blok 2 ‘Verantwoording gerealiseerde frictiekosten’ (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039292&bijlage=2&z=2019-04-01&g=2019-04-01) bij Frictiekostenregeling regionale publieke media-instellingen 2016–2019, Format Frictiekostenregeling regionale publieke media-instellingen 2016–2019).
 
 Het doel van de accountantscontrole is het vaststellen dat de gedeclareerde kosten juist zijn en op rechtmatige wijze zijn besteed, in overeenstemming met de voorwaarden zoals genoemd in de Frictiekostenregeling regionale publieke media-instellingen 2016–2019. Bij de uitvoering van de werkzaamheden handelt de accountant conform de vereisten uit dit protocol en de relevante ‘Nadere Voorschriften Controle- en Overige Standaarden’ (NV COS).
 
