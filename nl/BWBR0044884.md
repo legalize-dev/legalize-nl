@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2019-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -80,6 +80,42 @@ Wijzigt de Voorlopige Voorziening Uitvoeringsregeling AMAR.
 ##### Artikel 2.5
 
 Wijzigt het Voorzieningenstelsel buitenland defensiepersoneel.
+
+### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
+
+### Hoofdstuk 4. Wijzigingen met ingang van 1 juli 2019
+
+##### Artikel 3.1
+
+Wijzigt de Inkomstenregeling burgerlijke ambtenaren defensie.
+
+##### Artikel 3.2
+
+Wijzigt de Inkomstenregeling militairen.
+
+##### Artikel 3.3
+
+Wijzigt de Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel.
+
+##### Artikel 3.4
+
+Wijzigt de Regeling Toelage Bijzondere Bijstands Eenheden.
+
+##### Artikel 3.5
+
+Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+##### Artikel 3.6
+
+Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
+
+### Hoofdstuk 5. Wijzigingen met ingang van 1 augustus 2019
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
 
