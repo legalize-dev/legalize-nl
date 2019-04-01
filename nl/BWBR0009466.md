@@ -4,7 +4,7 @@ identifier: "BWBR0009466"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-10-06"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009466"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot psychotherapeut heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=6&z=2016-10-06&g=2016-10-06), aangewezen opleidingsinstelling.
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot psychotherapeut heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=6&z=2019-04-01&g=2019-04-01), aangewezen opleidingsinstelling.
 
 #### § 2. Opleidingseisen
 
@@ -94,7 +94,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4
 
-1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), omvat ten minste:
+1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), omvat ten minste:
 
 - a. 400 uren cursorisch onderwijs;
 
@@ -130,7 +130,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - l. kwaliteit van de praktijkvoering en de beroepsuitoefening.
 
-3. De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), bestaat voorts uit ten minste één vervolgcursus over de toepassing van behandelingsmethoden in een door de aspirant-psychotherapeut te kiezen psychotherapeutisch referentiekader.
+3. De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), bestaat voorts uit ten minste twee vervolgcursussen over de toepassing van behandelingsmethoden in twee verschillende door de aspirant-psychotherapeut te kiezen psychotherapeutische referentiekaders.
 
 ##### Artikel 5
 
@@ -164,9 +164,9 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 6
 
-1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot psychotherapeut verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06).
+1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot psychotherapeut verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01).
 
-2. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2016-10-06&g=2016-10-06).
+2. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2019-04-01&g=2019-04-01).
 
 3. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
@@ -174,7 +174,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkheid mag worden verwacht dat zij:
 
-- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=5&z=2016-10-06&g=2016-10-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=8&z=2016-10-06&g=2016-10-06), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=9&z=2016-10-06&g=2016-10-06) en 10 zullen naleven;
+- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=8&z=2019-04-01&g=2019-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=9&z=2019-04-01&g=2019-04-01) en 10 zullen naleven;
 
 - b. zorg dragen voor een evenwichtige verhouding tussen het theoretische en praktische gedeelte van de opleiding enerzijds en de psychotherapeutische werkervaring anderzijds;
 
@@ -182,7 +182,7 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 ##### Artikel 8
 
-1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06) omschreven opleidingsonderdelen nader zijn uitgewerkt.
+1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01) omschreven opleidingsonderdelen nader zijn uitgewerkt.
 
 2. Belanghebbenden kunnen het opleidingsplan, desgevraagd, inzien en daarvan afschrift verlangen.
 
