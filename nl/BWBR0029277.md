@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2017-07-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -62,9 +62,7 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. [artikel 27, derde en vierde lid, van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=27);
 
-- –. [artikel 94, vijfde lid, van het Besluit zeevarenden handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=94);
-
-- –. [artikel 50, vijfde lid, van het Besluit zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=50);
+- –. [artikel 94, vijfde lid, van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=94);
 
 - –. de [artikelen 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=43), en [85, eerste lid en vijfde lid, van het Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=85);
 
