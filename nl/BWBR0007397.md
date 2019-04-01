@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-09-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2018-09-01&g=2018-09-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2019-04-01&g=2019-04-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -126,7 +126,13 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 - f. bewijsstukken van eventuele beroepservaring.
 
-2. De bescheiden, bedoeld onder **c** tot en met **g**, zijn gesteld, dan wel door een beëdigd vertaler vertaald, in het Nederlands, Engels, Frans of Duits. De fotokopieën zijn gewaarmerkt.
+2. De bescheiden, bedoeld in het eerste lid, onder c tot en met f, zijn gesteld, dan wel door een beëdigd vertaler vertaald, in het Nederlands of Engels.
+
+3. De fotokopie, bedoeld in het eerste lid, onder b, dient te zijn gewaarmerkt door de uitgevende instantie of een in Nederland gevestigde notaris.
+
+4. Van de bescheiden, bedoeld in het eerste lid, onder c tot en met e, wordt een origineel verstrekt, dan wel een fotokopie die is gewaarmerkt door de instelling die het document heeft afgegeven of een in Nederland gevestigde notaris. Van de bescheiden als bedoeld in het eerste lid, onder f, wordt een originele verklaring door de werkgever verstrekt, een fotokopie die is gewaarmerkt door een in Nederland gevestigde notaris, danwel, indien geen sprake is van een dienstverband, enig ander document op grond waarvan aannemelijk kan worden gemaakt dat de beroepservaring is opgedaan.
+
+5. De minister kan ter vaststelling van de getrouwheid van een fotokopie van een getuigschrift, verzoeken om het originele getuigschrift als bedoeld in artikel 7, eerste lid, onderdeel c.
 
 ##### Artikel 8
 
@@ -148,10 +154,30 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2018-09-01&g=2018-09-01).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2019-04-01&g=2019-04-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
 3. De in het eerste lid bedoelde buitenslands gediplomeerde voldoet voor het afleggen van de kennis- en vaardighedentoets het in het tweede lid genoemde tarief.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 6a
+
+1. Bij een aanvraag om erkenning van een getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), worden de volgende bescheiden overgelegd:
+
+- a. een door Onze Minister beschikbaar te stellen formulier, dat door de aanvrager is ingevuld;
+
+- b. het in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) bedoelde getuigschrift;
+
+- c. een bewijs van zijn nationaliteit alsmede:
+
+- 1°. indien de aanvrager een onder 2° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [Richtlijn 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L 16), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
+
+- 2°. indien de aanvrager een onder 3° aangewezen migrerende beroepsbeoefenaar is, als bedoeld in [artikel 1, Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU 2004, L 158 en L 229).
+
+2. Van een getuigschrift als bedoeld in het eerste lid, onderdeel b, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door een in Nederland gevestigde notaris, de instelling die het betreffende getuigschrift heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.
+
+3. Het getuigschrift, bedoeld in [artikel 41, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), is gesteld, dan wel door een beëdigd vertaler vertaald in de taal waarin de getuigschriften in bijlage V van [richtlijn nr. 2005/36/EG](32005L0036) van de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PBEU 2005 L 255) onderscheidenlijk in [bijlagen 1 tot en met 5 van de Regeling aanwijzing buitenlandse diploma’s volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=1) zijn weergegeven.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
