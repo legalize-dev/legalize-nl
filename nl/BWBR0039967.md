@@ -4,7 +4,7 @@ identifier: "BWBR0039967"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-19"
-last_updated: "2017-07-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039967"
 soort: "ministeriele-regeling"
@@ -143,5 +143,141 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Verantwoordelijkheden vakgroephoofd P&P
+
+Het vakgroephoofd P&P is verantwoordelijk voor de volgende algemene taken:
+
+- a. het leiding geven aan de eigen vakgroep, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen vakgroep;
+
+- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen vakgroep aan de uitvoering van het jaarplan van de inspectie;
+
+- c. het doen van voorstellen aan de directeur Toezicht met betrekking tot het aantrekken en ontslaan van personeel;
+
+- d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+
+- e. het in het kader van het proces van programmeren en alloceren zorg dragen voor een goede vertaalslag van strategische en tactische allocatie naar de feitelijke bemensing van programma’s en projecten;
+
+- f. het zijn van aanspreekpunt voor vakgroepbrede allocatievraagstukken en knelpunten gedurende de uitvoering van projecten en programma’s;
+
+- g. het managen van vakinhoudelijke processen en het actief zoeken naar samenwerking en afstemming met overige betrokkenen;
+
+- h. het zorg dragen voor de borging van vakgroepbrede vakkennis en van kwaliteit en innovatie van werkprocessen;
+
+- i. het bijdragen aan de ontwikkeling van de strategische personeelsplanning en zorg dragen voor de uitvoering daarvan binnen zijn vakgroep;
+
+- j. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op zijn vakgebied;
+
+- k. het vervullen van het proceseigenaarschap van het proces Programmatisch- en projectmatig werken, het als tactisch manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+
+##### Artikel 3b. Verantwoordelijkheden teammanagers
+
+De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. de aansturing van uitvoerende of ondersteunende medewerkers;
+
+- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vorm geven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
+
+- 1°. het bevorderen van de persoonlijke ontwikkeling;
+
+- 2°. het begeleiden van ziekteverzuim;
+
+- 3°. het voeren van functionerings- en personeelsgesprekken.
+
+- c. het in het allocatieproces op dagelijkse basis leveren van de afgesproken kwantitatieve en kwalitatieve capaciteit aan programma’s en projecten en het oplossen van knelpunten rond de inzet van medewerkers;
+
+- d. het zicht houden op de voortgang van de realisatie van teamdoelen en zo nodig bijsturen;
+
+- e. het gestructureerd voeren van werkoverleg en behalen van afgesproken resultaten en het opleveren van producten en diensten conform de geldende kaders;
+
+- f. het zorg dragen voor de borging van kennis en kwaliteit binnen zijn team;
+
+- g. het rapporteren aan het vakgroephoofd en collega teammanagers met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
+
+- h. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en leveren van input voor richtlijnen en procedures;
+
+- i. het verzamelen van input op hoofdprocessen vanuit het team;
+
+- j. het actief vorm geven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
+
+- k. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
+
+- 1°. start-, functionerings- en personeelsgesprekken;
+
+- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+
+- l. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en dit vertalen naar nieuwe vakinhoudelijke producten en diensten;
+
+- m. de borging van regionale netwerken, voor zover deze programmaoverstijgend zijn;
+
+- n. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+
+##### Artikel 3c. Taken en verantwoordelijkheden vakgroep P&P
+
+1. De vakgroep P&P draagt ten behoeve van het aansturen of ondersteunen van programma’s en projecten zorg voor het voorzien in vakbekwame programmamanagers, projectleiders of programma- en projectsecretarissen.
+
+2. Van de taak, bedoeld in het eerste lid, zijn uitgezonderd de programmamanagers op tactisch niveau, die rechtstreeks ressorteren onder de directeur Toezicht.
+
+3. De programmamanagers op operationeel niveau zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. het opdrachtnemerschap van een of meerdere programma’s;
+
+- b. de ontwikkeling van het programmaplan en ontwikkeling of doorontwikkeling van de doelenboom en interventiemix;
+
+- c. het aansturen op de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld en capaciteit, in het vastgestelde programmaplan;
+
+- d. het oog houden voor de bijdrage van het programma aan inspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
+
+- e. het functioneel aansturen van de medewerkers die onderdeel zijn van het programmateam, waaronder de projectleiders;
+
+- f. het in de P&C-cyclus op programmaniveau aan de opdrachtgever uitbrengen van rapporten waarin de output is gekoppeld aan doelstellingen en beoogde maatschappelijke effecten;
+
+- g. het samen met de projectleiders uitvoeren van de personeelszorg en het optreden als referent voor de personeelsgesprekken;
+
+- h. het zorg dragen voor programmaspecifieke kennisontwikkeling en het actief afstemmen met de betreffende vakgroep(en);
+
+- i. het onderhouden van de relevante externe contacten met samenwerkingspartners op operationeel niveau;
+
+- j. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+
+4. De projectleiders zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. het opdrachtnemerschap van een of meerdere projecten;
+
+- b. het sturen op de realisatie van de projectdoelen; indien het project onderdeel is van een programma, rapporteert de projectleider aan de programmamanager dan wel aan de opdrachtgever;
+
+- c. het functioneel aansturen van de medewerkers die onderdeel zijn van het projectteam en het vorm geven aan de personele zorg voor zover passend binnen het project; de projectleider is referent voor de personeelsgesprekken van medewerkers die hij functioneel aanstuurt;
+
+- d. het opstellen van het projectplan, het uitvoeren van het projectplan, het opstellen van projectrapportages en het behalen van resultaten op operationeel niveau, de handhavingscorrespondentie en het zorg dragen voor de bij het project behorende communicatie;
+
+- e. het aansturen op een optimale bijdrage van het project aan de programmadoelen en het daartoe leggen van verbinding met andere projecten;
+
+- f. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+
+#### § 4. Bevoegdheden
+
+##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
+
+1. Aan het vakgroephoofd P&P en de teammanagers wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+
+- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+
+- b. het houden van personeelsgesprekken;
+
+- c. het beslissen over verlof van medewerkers;
+
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
+
+2. In aanvulling op het eerste lid wordt in het geval een teammanager de beoordeling van een medewerker opmaakt, aan het vakgroephoofd dat boven de teammanager ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
+
+##### Artikel 7a. Volmacht teammanagers
+
+De teammanagers zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen vakteam binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
