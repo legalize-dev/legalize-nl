@@ -4,7 +4,7 @@ identifier: "BWBR0037392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037392"
 soort: "ministeriele-regeling"
@@ -44,6 +44,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **besluit:** [Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711);
+
 - **distributeur:** degene die beroepsmatig een plastic draagtas voor het eerst levert aan een eindgebruiker;
 
 - **draagtas:** tas, met of zonder handgreep;
@@ -74,13 +76,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&artikel=2&z=2016-01-01&g=2016-01-01) van deze regeling is van overeenkomstige toepassing op een distributeur.
+Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&paragraaf=2&artikel=2&z=2019-04-01&g=2019-04-01) van deze regeling is van overeenkomstige toepassing op een distributeur.
 
 ##### Artikel 4
 
-Deze regeling kan worden aangehaald als: Regeling beheer verpakkingen.
+Als norm, bedoeld in [artikel 3, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3), worden aangewezen de geharmoniseerde normen NEN-EN 13427, NEN-EN 13428, NEN-EN 13429, NEN-EN 13430; NEN-EN-13431 en NEN-EN-13432 zoals deze in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
 
 ##### Artikel 5
+
+De gegevens, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=10), alsmede gegevens over de herkomst van de ingezamelde bedrijfsafvalstoffen voor zover het verpakkingen betreft, worden elektronisch ingediend via de website www.nedvang.nl van de Stichting Nedvang.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 1. Begripsbepalingen
+
+#### § 2. Plastic draagtassen
+
+#### § 3. Essentiële eisen
+
+#### § 4. Gegevensverstrekking door inzamelaars en verwerkers van afvalstoffen
+
+#### § 5. Slotbepalingen
+
+##### Artikel 6
+
+Deze regeling kan worden aangehaald als: Regeling beheer verpakkingen.
+
+##### Artikel 7
 
 Deze regeling treedt in werking op 1 januari 2016.
 
