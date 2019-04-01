@@ -4,7 +4,7 @@ identifier: "BWBR0024841"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-03-01"
-last_updated: "2016-05-25"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024841"
 soort: "AMvB"
@@ -76,15 +76,15 @@ In dit besluit wordt verstaan onder:
 
 - h. het register van gezondheidszorgpsychologen.
 
-2. De inschrijving in een register als bedoeld in het eerste lid, wordt doorgehaald indien na de desbetreffende in [artikel 8, tweede lid, onderdeel b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde datum een periode van vijf jaren is verstreken.
+2. De inschrijving in een register als bedoeld in het eerste lid, wordt doorgehaald indien na de desbetreffende in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde datum een periode van vijf jaren is verstreken.
 
-3. Uiterlijk zes maanden voor het verstrijken van de periode, genoemd in het tweede lid, stelt Onze Minister de geregistreerde schriftelijk op de hoogte van het naderen van het einde van deze periode. Hierbij wordt de geregistreerde erop attent gemaakt dat diens registratie in het register zal worden doorgehaald, indien voor het verstrijken van de periode, genoemd in het tweede lid, in het register geen aantekening wordt gemaakt als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8).
+3. Uiterlijk zes maanden voor het verstrijken van de periode, genoemd in het tweede lid, stelt Onze Minister de geregistreerde schriftelijk op de hoogte van het naderen van het einde van deze periode. Hierbij wordt de geregistreerde erop attent gemaakt dat diens registratie in het register zal worden doorgehaald, tenzij voor het verstrijken van de periode, genoemd in het tweede lid, een aanvraag tot herregistratie is ingediend waarop nog niet is beslist.
 
-4. Personen van wie de registratie in het register is doorgehaald vanwege het niet voldoen aan de eisen, genoemd in [artikel 8, tweede lid, onderdelen b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) en die daaruit niet zijn verwijderd op grond van de [artikelen 7, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), of [42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) en die niet zijn geschorst op grond van [artikel 48, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) mogen hun gewezen titel onder de toevoeging van «niet praktiserend» blijven gebruiken.
+4. Personen van wie de registratie in het register is doorgehaald vanwege het niet voldoen aan de eisen, genoemd in [artikel 8, tweede lid, onderdelen b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) en die niet zijn doorgehaald op grond van de de [artikelen 7, onderdelen c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), of [42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42), aan wie geen ontzegging van het recht wederom in het register te worden ingeschreven als bedoeld in [artikel 48, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) is opgelegd en die niet zijn geschorst op grond van artikel 48, eerste lid, onderdeel d, van de wet mogen hun gewezen titel onder de toevoeging van «niet praktiserend» blijven gebruiken.
 
 ##### Artikel 3
 
-1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2016-05-25&g=2016-05-25) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
+1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2019-04-01&g=2019-04-01) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld inzake de werkzaamheden die meetellen bij de berekening van het aantal uren waarbinnen werkzaamheden zijn verricht op het terrein van het desbetreffende beroep.
 
@@ -140,11 +140,11 @@ In dit besluit wordt verstaan onder:
 
 - b. partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland, voor zover het een beroep betreft waarop het systeem van automatische erkenning, bedoeld in [richtlijn nr. 2005/36/EG](32005L0036) betreffende erkenning van beroepskwalificaties (PbEG L 255) niet van toepassing is,
 
-gaat het formulier vergezeld van bewijsstukken van aard, omvang, duur, en spreiding van de verrichte werkzaamheden. In alle andere gevallen wordt het formulier onderbouwd met onderliggende bewijsstukken indien Onze Minister daartoe verzoekt.
+gaat het formulier vergezeld van bewijsstukken van aard, omvang, duur, en spreiding van de verrichte werkzaamheden. De bewijsstukken omvatten in ieder geval een verklaring, afgegeven door de bevoegde autoriteit in het buitenland, niet ouder dan drie maanden, waaruit blijkt dat de aanvrager volledig bevoegd was werkzaamheden in het betreffende land te verrichten en dat ten aanzien van hem geen bevoegdheidsbeperkingen in het betreffende land van kracht zijn. Indien een dergelijke verklaring niet beschikbaar is, kunnen ook andere bescheiden worden overlegd, op grond waarvan voldoende aannemelijk wordt gemaakt dat de werkzaamheden in het betreffende land bevoegd zijn verricht. In alle andere gevallen wordt het formulier onderbouwd met onderliggende bewijsstukken indien Onze Minister daartoe verzoekt.
 
 4. Indien de aanvrager op verzoek van Onze Minister de aanvraag, bedoeld in het tweede lid, niet tijdig onderbouwt met de onderliggende bewijsstukken, wordt de aanvraag niet in behandeling genomen.
 
-5. De bewijsstukken, bedoeld in het derde lid, zijn in het Nederlands, Engels, Frans of Duits gesteld, danwel door een beëdigd vertaler in een van de genoemde talen vertaald. Overgelegde fotokopieën zijn gewaarmerkt door de instelling of werkgever die het desbetreffende bewijsstuk heeft afgegeven, of door een in Nederland gevestigde notaris.
+5. De bewijsstukken, bedoeld in het derde lid, zijn in het Nederlands of Engels gesteld, danwel door een beëdigd vertaler in een van de genoemde talen vertaald. Overgelegde fotokopieën zijn gewaarmerkt door de instelling of werkgever die het desbetreffende bewijsstuk heeft afgegeven, of door een in Nederland gevestigde notaris.
 
 ##### Artikel 6
 
@@ -152,21 +152,21 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang, duur, en spreid
 
 2. De ingeschrevene is voor het ingeschreven zijn in het register per periode van vijf jaar of een deel daarvan een bedrag van € 20,-- verschuldigd.
 
-3. De beide in het eerste en tweede lid genoemde bedragen worden voldaan binnen één maand na het indienen van de aanvraag. Indien de verschuldigde bedragen niet zijn voldaan, wordt de aanvraag niet in behandeling genomen.
+3. De beide in het eerste en tweede lid genoemde bedragen worden voldaan binnen vier weken na het indienen van de aanvraag. Indien de verschuldigde bedragen niet zijn voldaan, wordt de aanvraag niet in behandeling genomen.
 
 4. Indien na de beoordeling van de aanvraag de gevraagde aantekening niet wordt opgenomen in het register, wordt het bedrag, genoemd in tweede lid, gerestitueerd.
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2016-05-25&g=2016-05-25), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
+1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2019-04-01&g=2019-04-01), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
 
-2. Voor artsen voor wie een periode is vastgesteld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2016-05-25&g=2016-05-25) uitgegaan van een periode van vijf aansluitende jaren, die aanvangt op:
+2. Voor artsen voor wie een periode is vastgesteld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2019-04-01&g=2019-04-01) uitgegaan van een periode van vijf aansluitende jaren, die aanvangt op:
 
 - a. de aangetekende datum, of
 
 - b. 1 januari 2013.
 
-3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2016-05-25&g=2016-05-25), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
+3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2019-04-01&g=2019-04-01), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
 
 ##### Artikel 8
 
