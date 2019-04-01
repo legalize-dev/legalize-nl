@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2018-06-30"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -239,5 +239,49 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Verantwoordelijkheden teamleiders
+
+De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. de aansturing van uitvoerende of ondersteunende medewerkers;
+
+- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
+
+- 1°. het bevorderen van de persoonlijke ontwikkeling;
+
+- 2°. het begeleiden van ziekteverzuim;
+
+- 3°. het voeren van functionerings- en personeelsgesprekken;
+
+- c. het zicht houden op de voortgang van de realisatie van teamdoelen en het zo nodig bijsturen;
+
+- d. het gestructureerd voeren van werkoverleg en behalen van afgesproken resultaten en het opleveren van producten en diensten conform de geldende kaders;
+
+- e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
+
+- f. het rapporteren aan het afdelingshoofd en collega teamleiders met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
+
+- g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
+
+- h. het verzamelen van input op hoofdprocessen vanuit het team;
+
+- i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
+
+- j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
+
+- 1°. start-, functionerings- en personeelsgesprekken;
+
+- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+
+- k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
+
+- l. het als operationeel manager participeren in het ontwikkelen en implementeren van inspectiebrede plannen.
+
+#### § 4. Bevoegdheden
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
