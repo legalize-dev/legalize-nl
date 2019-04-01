@@ -4,7 +4,7 @@ identifier: "BWBR0040429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2017-12-23"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040429"
 soort: "ministeriele-regeling"
@@ -70,6 +70,8 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap of Minister voor Basis- en Voortgezet Onderwijs en Media;
 
+- **peildatum:** één van de peildata, genoemd in de [Regeling aanvullende bekostiging eerste opvang nieuwkomers VO](https://wetten.overheid.nl/jci1.3:c:BWBR0038995);
+
 - **persoonsgebonden nummer:** persoonsgebonden nummer als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
 - **profiel-examendeel:** één van de volgende examenonderdelen waaruit het profiel is opgebouwd:
@@ -108,7 +110,7 @@ Deze paragraaf berust op de [artikelen 58, achtste lid](https://wetten.overheid.
 
 ##### Artikel 4. Wijze van verstrekking
 
-Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=2&artikel=3&z=2017-12-23&g=2017-12-23), wordt het persoonsgebonden nummer voor de Minister en de inspectie elk afzonderlijk vervangen door een ander nummer of een code op een zodanige wijze dat de leerling of de voormalige leerling niet geïdentificeerd of identificeerbaar is, en wordt de geboortedatum vervangen als volgt:
+Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), wordt het persoonsgebonden nummer voor de Minister en de inspectie elk afzonderlijk vervangen door een ander nummer of een code op een zodanige wijze dat de leerling of de voormalige leerling niet geïdentificeerd of identificeerbaar is, en wordt de geboortedatum vervangen als volgt:
 
 - a. voor de levering aan de Minister door de leeftijd van de leerling op de voor de bekostiging van belang zijnde peildata en
 
@@ -116,11 +118,19 @@ Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
-1. De verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=2&artikel=3&z=2017-12-23&g=2017-12-23), gebeurt op de volgende tijdstippen:
+1. De verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), gebeurt op de volgende tijdstippen:
 
 - a. op 16 oktober, 13 december en 4 januari van ieder schooljaar de voorlopige gegevens van de scholen naar de stand van zaken op 1 oktober van het desbetreffende schooljaar en op 16 oktober van ieder schooljaar de gegevens omtrent de examens en de voorlopige gegevens omtrent de in- en uitschrijvingen gedurende één jaar, voorafgaand aan de genoemde datum van 1 oktober;
 
-- b. op 21 juli en op 15 september van ieder schooljaar de gegevens van de scholen na accountantscontrole naar de stand van zaken op 1 oktober van het desbetreffende schooljaar, alsmede de gegevens omtrent de examens en de gegevens na accountantscontrole omtrent de in- en uitschrijvingen gedurende één jaar, voorafgaand aan de genoemde datum van 1 oktober.
+- b. op 16 juli van ieder jaar:
+
+- 1°. de gegevens, inclusief nieuwkomers, van de scholen, na accountantscontrole naar de stand van zaken op 1 oktober van het desbetreffende schooljaar;
+
+- 2°. de gegevens van de scholen na accountantscontrole omtrent de examens en de in- en uitschrijvingen gedurende één jaar, voorafgaand aan de genoemde datum van 1 oktober; en
+
+- 3°. de gegevens van de scholen na accountantscontrole op 1 januari, 1 april en 1 juli van het voorafgaande kalenderjaar, voor zover het nieuwkomers betreft;
+
+- c. op 16 januari, 16 april, 16 juli en 16 oktober van ieder kalenderjaar omtrent de bekostiging op basis van de voorlopige telgegevens voor de eerste opvang, bedoeld in [artikel 3 eerste lid, van de Regeling aanvullende bekostiging eerste opvang nieuwkomers vo](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3).
 
 2. De gegevens, bedoeld in het eerste lid, kunnen op een latere datum worden verstrekt voor zover zij op de voorgeschreven datum nog niet beschikbaar zijn.
 
@@ -136,7 +146,7 @@ Deze paragraaf berust op de [artikelen 58, achtste lid](https://wetten.overheid.
 
 ##### Artikel 7. Specificatie van inschrijvingsgegevens
 
-De inschrijvingsgegevens worden in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=1&z=2017-12-23&g=2017-12-23) gespecificeerd en als volgt nader gedefinieerd:
+De inschrijvingsgegevens worden in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=1&z=2019-04-01&g=2019-04-01) gespecificeerd en als volgt nader gedefinieerd:
 
 - a. **postcode van de woonplaats van de leerling:** de Nederlandse postcodering, bestaande uit een numerieke woonplaatscode en een alfabetische lettercode;
 
@@ -154,17 +164,15 @@ De inschrijvingsgegevens worden in [bijlage 1](https://wetten.overheid.nl/jci1.3
 
 - h. **leerjaar:** leerjaar waarin de leerling op de teldatum onderwijs volgt, dan wel wat betreft het praktijkonderwijs het aantal jaren dat de leerling is ingeschreven in het praktijkonderwijs;
 
-- i. **nieuwkomer VO:** leerling die vreemdeling is als bedoeld in [artikel 1, onder m, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;
+- i. **datum binnenkomst in Nederland volgens het bevoegd gezag:** de datum waarop de leerling volgens het bevoegd gezag in Nederland is binnen gekomen;
 
-- j. **verblijfsduur:** verblijfsduur in Nederland van de nieuwkomer VO op de teldatum korter dan één jaar dan wel van één tot twee jaar;
+- j. **registratienummer:** nummer van de school volgens BRIN;
 
-- k. **registratienummer:** nummer van de school volgens BRIN;
-
-- l. **nevenvestiging:** het bij een registratienummer behorende volgnummer van de vestiging, niet zijnde de hoofdvestiging, behorende bij een school, volgens BRIN.
+- k. **nevenvestiging:** het bij een registratienummer behorende volgnummer van de vestiging, niet zijnde de hoofdvestiging, behorende bij een school, volgens BRIN.
 
 ##### Artikel 8. Specificatie van examengegevens
 
-De examengegevens, worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=2&z=2017-12-23&g=2017-12-23) gespecificeerd en als volgt nader gedefinieerd:
+De examengegevens, worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=2&z=2019-04-01&g=2019-04-01) gespecificeerd en als volgt nader gedefinieerd:
 
 - a. **postcode van de woonplaats van de leerling:** de Nederlandse postcodering, bestaande uit een numerieke woonplaatscode en een alfabetische lettercode;
 
@@ -202,19 +210,17 @@ De examengegevens, worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het bevoegd gezag levert de inschrijvingsgegevens van een bij de school ingeschreven leerling en de examengegevens van een leerling die bij de school staat ingeschreven en die deelneemt aan een examen of een deel daarvan, voor zover het bevoegd gezag van de school de uitslag bepaalt, tezamen met het persoonsgebonden nummer op elektronische wijze aan de Minister.
 
-2. De inschrijvingsgegevens en examengegevens worden verstrekt overeenkomstig de specificatie, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=1&z=2017-12-23&g=2017-12-23) respectievelijk [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=2&z=2017-12-23&g=2017-12-23) en de uitgebreide technische specificaties.
+2. De inschrijvingsgegevens en examengegevens worden verstrekt overeenkomstig de specificatie, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=1&z=2019-04-01&g=2019-04-01) respectievelijk [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=2&z=2019-04-01&g=2019-04-01) en de uitgebreide technische specificaties.
 
 3. Indien het bevoegd gezag na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens op de in het eerste lid genoemde wijze te leveren, bepaalt de Minister na overleg met het bevoegd gezag op welke wijze de levering plaatsvindt.
 
 ##### Artikel 10. Melding inschrijvingsgegevens
 
-1. Het bevoegd gezag draagt er zorg voor dat alle op de teldatum betrekking hebbende inschrijvingsgegevens uiterlijk op 15 oktober van het schooljaar aan de Minister zijn gemeld.
+1. Het bevoegd gezag draagt er zorg voor dat alle op de teldatum of peildatum betrekking hebbende inschrijvingsgegevens uiterlijk op de 15e van de maand volgend op de teldatum of peildatum aan de Minister zijn gemeld.
 
-2. In afwijking van het eerste lid, draagt het bevoegd gezag er zorg voor dat het inschrijvingsgegeven ‘datum van in- en uitschrijving’, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2017-12-23&g=2017-12-23), binnen zeven dagen aan de Minister is gemeld.
+2. In afwijking van het eerste lid, draagt het bevoegd gezag er zorg voor dat het inschrijvingsgegeven ‘datum van in- en uitschrijving’, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2019-04-01&g=2019-04-01), binnen zeven dagen aan de Minister is gemeld.
 
-3. Vanaf 1 juni volgend op de teldatum kunnen geen wijzigingen van de inschrijvingsgegevens worden aangeleverd die betrekking hebben op de teldatum, zonder een verklaring van een accountant omtrent de juistheid van de gegevens. Het bevoegd gezag van een school kan ervoor kiezen vanaf een eerdere datum, tussen de teldatum en 1 juni volgend op de teldatum, geen wijzigingen van de inschrijvingsgegevens aan te leveren die betrekking hebben op de teldatum, zonder een verklaring van een accountant omtrent de juistheid van de gegevens.
-
-4. Het tweede lid is niet van toepassing op scholen die zijn aangewezen op grond van [artikel 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56).
+3. Het tweede lid is niet van toepassing op scholen die zijn aangewezen op grond van [artikel 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=56).
 
 ##### Artikel 11. Melding examengegevens
 
@@ -244,7 +250,7 @@ De examengegevens, worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13. Terugmelding examengegevens
 
-1. De Minister meldt de geverifieerde examengegevens, inclusief de uitkomsten van de controles bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=12&z=2017-12-23&g=2017-12-23), per omgaande aan het bevoegd gezag.
+1. De Minister meldt de geverifieerde examengegevens, inclusief de uitkomsten van de controles bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=12&z=2019-04-01&g=2019-04-01), per omgaande aan het bevoegd gezag.
 
 2. Op 16 oktober, of 13 december dan wel op 4 januari volgend op de teldatum meldt de Minister aan het bevoegd gezag de in het basisregister onderwijs opgenomen examengegevens betrekking hebbende op het voorafgaande schooljaar.
 
@@ -254,7 +260,7 @@ De examengegevens, worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 14. Technische specificaties
 
-De technische specificaties ten behoeve van de uitvoering van deze regeling zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=3&z=2017-12-23&g=2017-12-23).
+De technische specificaties ten behoeve van de uitvoering van deze regeling zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=3&z=2019-04-01&g=2019-04-01).
 
 #### § 4. Levering organisatie- en personeelsgegevens en gegevens voor het lerarenregister en registervoorportaal
 
@@ -264,11 +270,11 @@ Deze paragraaf berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 16. Gegevens
 
-De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=2) en [4e van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4e) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23).
+De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=2) en [4e van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4e) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 17. Wijze van beschikbaarstelling van de gegevens
 
-Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2017-12-23&g=2017-12-23), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2017-12-23&g=2017-12-23).
+Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2019-04-01&g=2019-04-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2019-04-01&g=2019-04-01).
 
 #### § 5. Slotbepalingen
 
@@ -288,21 +294,21 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening WVO.
 
-## Bijlage 1. , behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2017-12-23&g=2017-12-23) van de Regeling informatievoorziening WVO
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2019-04-01&g=2019-04-01) van de Regeling informatievoorziening WVO
 
 ### Specificatie inschrijvingsgegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2017-12-23&g=2017-12-23) van de Regeling informatievoorziening WVO
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2019-04-01&g=2019-04-01) van de Regeling informatievoorziening WVO
 
 ### Specificatie examengegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2017-12-23&g=2017-12-23) van de Regeling informatievoorziening WVO
+## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2019-04-01&g=2019-04-01) van de Regeling informatievoorziening WVO
 
 De technische specificaties van de gegevenslevering zijn beschreven in het Programma van Eisen (PvE). Hierin wordt zowel de systematiek van de huidige profielen, als de systematiek van de afdelingen en sectoren beschreven. Het PvE volgens de systematiek van profielen is te vinden op de website van DUO via de volgende link:
 
 https://www.duo.nl/zakelijk/voortgezet-onderwijs/softwareleveranciers/index.jsp
 
-## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2017-12-23&g=2017-12-23) van de Regeling informatievoorziening WVO
+## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2019-04-01&g=2019-04-01) van de Regeling informatievoorziening WVO
 
 ### Ordening van de gegevens
 
@@ -472,7 +478,7 @@ Het ondersteunend personeel exclusief het managementpersoneel dat niet direct be
 
 In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zaken opgesomd dat deel uitmaakt van het bruto-netto systeem (werknemerskant) en de werkgeverslasten. Een aantal specifieke toelagen wordt genoemd, zoals de toelage arbeidsmarkt en de functioneringstoelage. Naast deze specifieke toelagen bestaan ook andere toelagen, zoals de toelage onregelmatige dienst en de toelage onkostenvergoeding. Al deze toelagen kunnen worden ondergebracht bij: toelagen overig.
 
-## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2017-12-23&g=2017-12-23) van de Regeling informatievoorziening WVO
+## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2019-04-01&g=2019-04-01) van de Regeling informatievoorziening WVO
 
 ### Wijze van beschikbaarstelling van gegevens
 
@@ -480,7 +486,7 @@ In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarste
 
 ### Toelichting
 
-Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
+Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
 
 De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken.
 
@@ -504,17 +510,17 @@ Achtereenvolgens zal in worden gegaan op de termijn voor aanlevering van de pers
 
 ### 2.1. Termijn voor aanlevering van gegevens
 
-De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23):
+De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01):
 
 dienen vier maal per jaar aan DUO te worden aangeleverd:
 
 In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt.
 
-Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23)
+Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01)
 
 dienen één keer per jaar geleverd te worden en wel uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
 
-De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
+De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
 
 ### 2.2. Wijze van aanlevering
 
@@ -542,11 +548,11 @@ Een toename van administratieve lasten zal worden meegenomen in de overweging om
 
 ### 2.4. Lerarenregister en registervoorportaal
 
-Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
+Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
 
 Gegevens die op grond van [artikel 41n, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41n), of [artikel 41s, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41s) en [artikel 4c, tweede lid, van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4c) aan het bevoegd gezag worden verstrekt, betreffen alleen de gegevens die op grond van [artikel 41g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41g), of [artikel 41q, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41q) en [artikel 4a, eerste of tweede lid, van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4a) door het bevoegd gezag zijn verstrekt en niet zijn verkregen uit de basisregistratie personen.
 
-Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2017-12-23&g=2017-12-23) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
+Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2019-04-01&g=2019-04-01) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
 
 Gegevens die een leraar op grond van [artikel 41g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=41g) verstrekt, worden door de betreffende leraar aan de Minister verstrekt, waarbij hij het bewijsstuk als bedoeld in de [artikelen 33, eerste lid, onderdeel b, onderdelen 1 en 2, lid 1a, lid 1b, tweede of zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33a) of [33b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33b) digitaal aanlevert in de vorm van een gewaarmerkte kopie.
 
