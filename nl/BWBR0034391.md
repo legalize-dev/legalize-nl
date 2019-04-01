@@ -4,7 +4,7 @@ identifier: "BWBR0034391"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2016-05-26"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034391"
 soort: "ministeriele-regeling"
@@ -92,19 +92,21 @@ Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om name
 
 - o. het servicedesk voor exameninstituten in te richten en uit te voeren;
 
-- p. de afstemming met en informatieoverdracht aan gebruikers vorm te geven.
+- p. de afstemming met en informatieoverdracht aan gebruikers vorm te geven;
+
+- q. een proeve van bekwaamheid af te nemen.
 
 ##### Artikel 3
 
-Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om gerechtelijke procedures te voeren en klachten te behandelen, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26).
+Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om gerechtelijke procedures te voeren en klachten te behandelen, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 4
 
-De Directeur-Generaal kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2016-05-26&g=2016-05-26), ondermandaat, volmacht en machtiging verlenen in een door hem te bepalen omvang, aan onder hem ressorterende functionarissen.
+De Directeur-Generaal kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2019-04-01&g=2019-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2019-04-01&g=2019-04-01), ondermandaat, volmacht en machtiging verlenen in een door hem te bepalen omvang, aan onder hem ressorterende functionarissen.
 
 ##### Artikel 5
 
-Indien uitvoering wordt gegeven aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2016-05-26&g=2016-05-26) van dit besluit, luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2019-04-01&g=2019-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2019-04-01&g=2019-04-01) van dit besluit, luidt de ondertekening:
 
 De Minister van Financiën,
 
