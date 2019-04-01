@@ -4,7 +4,7 @@ identifier: "BWBR0030006"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-12-17"
-last_updated: "2018-07-28"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030006"
 soort: "AMvB"
@@ -88,7 +88,11 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 4. De wagencontroleur is bevoegd tot het controleren op kenbare gebreken van goederenwagens en de belading daarvan.
 
-5. De treindienstleider met volledige bevoegdheid is bevoegd tot het ter beschikking stellen van veilige rijwegen en het treffen van veiligheidsmaatregelen bij storingen en bij werkzaamheden aan of in de nabijheid van hoofdspoorwegen.
+5. De treindienstleider met volledige bevoegdheid is bevoegd tot:
+
+- a. het ter beschikking stellen van veilige rijwegen; en
+
+- b. het treffen van veiligheidsmaatregelen bij storingen en werkzaamheden aan hoofdspoorwegen of in de nabijheid daarvan.
 
 6. De treindienstleider met minimale bevoegdheid is bevoegd tot:
 
@@ -98,9 +102,9 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 4
 
-1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2018-07-28&g=2018-07-28).
+1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2019-04-01&g=2019-04-01).
 
-2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2018-07-28&g=2018-07-28).
+2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 5
 
@@ -108,37 +112,41 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 2. De persoon die een veiligheidsfunctie uitoefent beheerst de Nederlandse taal of een door de beheerder voorgeschreven taal zodanig dat hij de voor de uitoefening van de betrokken functie gebruikelijke procescommunicatie kan voeren en begrijpen.
 
+3. In afwijking van het tweede lid kunnen bij regeling van Onze Minister baanvakken voor grensoverschrijdende treindiensten worden aangewezen waar, op aanvraag van een spoorwegonderneming en met inachtneming van de in punt 8, derde lid, van bijlage VI bij [richtlijn 2007/59/EG](32007L0059) genoemde procedure, machinisten door de beheerder kunnen worden vrijgesteld van de taaleis, bedoeld in punt 8, eerste en tweede lid, van die bijlage.
+
 ##### Artikel 6
 
-1. Onze Minister stelt voor de veiligheidsfunctie van machinist met volledige bevoegdheid en machinist met beperkte bevoegdheid een examenprogramma vast dat voldoet aan de:
+1. Onze Minister stelt ten behoeve van een beoordeling als bedoeld in [artikel 50, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), een examenprogramma vast dat voldoet aan de in bijlage IV van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake algemene kennis en vaardigheden.
 
-- a. in bijlage IV van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake algemene kennis en vaardigheden;
+2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, stelt ten behoeve van de beoordeling, bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), een examenprogramma vast dat voldoet aan de in bijlage V en VI van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake specifieke vakkennis inzake spoorvoertuigen en hoofdspoorweginfrastructuur.
 
-- b. in bijlagen V en VI van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake specifieke vakkennis inzake spoorvoertuigen en hoofdspoorweginfrastructuur.
-
-2. Onze Minister stelt voor de veiligheidsfunctie van rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid en treindienstleider met minimale bevoegdheid een examenprogramma vast dat voldoet aan de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding inzake algemene kennis, bekwaamheid en ervaring.
+3. Onze Minister stelt voor de veiligheidsfunctie van rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid en treindienstleider met minimale bevoegdheid een examenprogramma vast dat voldoet aan de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding inzake algemene kennis, bekwaamheid en ervaring.
 
 ##### Artikel 7
 
-1. Onze Minister geeft een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), en [51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2018-07-28&g=2018-07-28) in het examenprogramma vastgestelde eisen.
+1. Onze Minister geeft een beoordeling als bedoeld in [artikel 50, eerste lid, onder a, en tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2019-04-01&g=2019-04-01), in het examenprogramma vastgestelde eisen.
 
-2. Het onderzoek, bedoeld in het eerste lid, omvat een theoriegedeelte en een praktijkgedeelte en kan tevens een onderzoek in een simulator omvatten.
+2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend geeft een beoordeling als bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), aan degene die bij een door hem afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2019-04-01&g=2019-04-01), in het examenprogramma vastgestelde eisen.
 
-3. Bij de beoordeling maakt Onze Minister gebruik van een door Onze Minister erkende examinator.
+3. Een persoon wordt ten aanzien van de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid toegelaten tot de onderzoeken, bedoeld in het eerste en tweede lid, indien hij een opleiding voor de betrokken veiligheidsfunctie heeft gevolgd bij een krachtens [artikel 51b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b), door Onze Minister erkend opleidingsinstituut.
 
-4. Onze Minister erkent examinatoren overeenkomstig het bepaalde in de hoofdstukken 1 en 3 van het Besluit 2011/765/EU en de artikelen 26 tot en met 48 van de Aanbeveling 2011/766/EU. Van de erkenningen wordt door Onze Minister een register bijgehouden.
+4. Het onderzoek ten behoeve van een beoordeling, bedoeld in [artikel 50, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), omvat een theoriegedeelte en een gedeelte waarbij gebruik wordt gemaakt van een simulator.
 
-5. De beoordeling bevat ten minste de volgende gegevens:
+5. Het onderzoek ten behoeve van een beoordeling, bedoeld in [artikel 50, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), en [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), omvat een theoriegedeelte en een praktijkgedeelte en kan tevens onderzoeken omvatten waarbij gebruik wordt gemaakt van een simulator.
 
-- a. de datum van het onderzoek;
+6. Bij de beoordelingen, bedoeld in het eerste en tweede lid, wordt gebruik gemaakt van door Onze Minister erkende examinatoren.
 
-- b. naam en geboortedatum van de onderzochte persoon, en
+7. De beoordelingen bevatten ten minste de volgende gegevens:
 
-- c. de veiligheidsfunctie waarop de beoordeling betrekking heeft.
+- a. datum van het onderzoek;
 
-6. Een persoon wordt ten aanzien van de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid toegelaten tot het onderzoek, bedoeld in het eerste lid, indien hij een opleiding voor de betrokken veiligheidsfunctie heeft gevolgd bij een krachtens [artikel 51b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b), door Onze Minister erkend opleidingsinstituut.
+- b. naam en geboortedatum van de onderzochte persoon;
 
-7. Een beoordeling als bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), en [51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), is voor onbepaalde tijd geldig.
+- c. de veiligheidsfunctie waarop de beoordeling betrekking heeft, en
+
+- d. de examenuitslag, uitgedrukt in voldoende dan wel onvoldoende.
+
+8. De beoordelingen zijn voor onbepaalde tijd geldig.
 
 ##### Artikel 8
 
@@ -150,27 +158,27 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. kennis van lokale voorschriften;
 
-- c. kennis van de voertuigen die hij begeleidt;
+- c. kennis van de spoorvoertuigen die hij begeleidt;
 
 - d. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.
 
 3. De voor de veiligheidsfunctie van wagencontroleur vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51), betreft:
 
-- a. kennis van wagentypen en ladingen die hij controleert;
+- a. kennis van wagentypen en beladingen die hij controleert;
 
 - b. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.
 
 4. De voor de veiligheidsfunctie van treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51), betreft:
 
-- a. kennis van de inrichting van de gedeelten van het spoorwegnet waarvoor hij als treindienstleider dienst doet;
+- a. kennis van de inrichting van de gedeelten van het hoofdspoorwegnet waarvoor hij als treindienstleider dienst doet;
 
 - b. kennis van lokale voorschriften;
 
 - c. kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem;
 
-- d. kennis van de digitale en mondelinge communicatie als bedoeld in de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding.
+- d. kennis van de schriftelijke, digitale en mondelinge communicatie als bedoeld in de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding.
 
-5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2018-07-28&g=2018-07-28).
+5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 9
 
@@ -190,7 +198,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - a. heeft plaatsgevonden volgens een door Onze Minister goedgekeurd keuringsreglement, en
 
-- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2018-07-28&g=2018-07-28) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
+- b. doet blijken dat de aanvrager voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2019-04-01&g=2019-04-01) voor de betrokken veiligheidsfunctie vastgestelde eisen inzake medische en psychologische geschiktheid.
 
 2. Het keuringsreglement, bedoeld in het eerste lid, onderdeel a, voorziet in de mogelijkheid van een herkeuring indien de aanvrager bezwaar heeft tegen de uitslag van de keuring in eerste instantie.
 
@@ -218,7 +226,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. onbepaalde tijd indien die is afgegeven aan een rangeerder, een treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid.
 
-4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2018-07-28&g=2018-07-28) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
+4. De verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid verliest haar geldigheid indien bij een tussentijdse keuring door een keuringsinstituut als bedoeld in [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), blijkt dat de betrokkene niet langer voldoet aan de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9&z=2019-04-01&g=2019-04-01) voor de uitoefening van de betrokken veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
 5. Een tussentijdse keuring als bedoeld in het vierde lid vindt plaats indien bij degene onder wiens gezag de veiligheidsfunctie wordt uitgeoefend of bij de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), het vermoeden bestaat dat de betrokkene niet langer voldoet aan de voor de uitoefening van die veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
@@ -248,13 +256,15 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 5. De bevoegdheid als rangeerder of wagencontroleur kan bij machinisten met volledige of beperkte bevoegdheid worden aangetekend op het bevoegdheidsbewijs.
 
-6. Het bevoegdheidsbewijs is voor onbepaalde tijd geldig.
+6. Indien een vrijstelling als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=5&z=2019-04-01&g=2019-04-01), is verleend, wordt dit vermeld op het bevoegdheidsbewijs.
 
-7. Het bevoegdheidsbewijs verliest zijn geldigheid indien betrokkene de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid niet meer uitoefent onder het gezag van degene die het bevoegdheidsbewijs heeft verstrekt of door schorsing of intrekking van het bevoegdheidsbewijs door degene die het bevoegdheidsbewijs heeft verstrekt.
+7. Het bevoegdheidsbewijs is voor onbepaalde tijd geldig.
 
-8. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt bij de beëindiging van het dienstverband aan de betrokken machinist een gewaarmerkte kopie van alle documenten waaruit zijn opleiding, zijn kwalificaties, zijn ervaring en zijn vakbekwaamheden blijken.
+8. Het bevoegdheidsbewijs verliest zijn geldigheid indien betrokkene de veiligheidsfunctie van machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid niet meer uitoefent onder het gezag van degene die het bevoegdheidsbewijs heeft verstrekt of door schorsing of intrekking van het bevoegdheidsbewijs door degene die het bevoegdheidsbewijs heeft verstrekt.
 
-9. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, voorziet in een geschillenregeling omtrent de verstrekking, schorsing en intrekking van een bevoegdheidsbewijs.
+9. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt bij de beëindiging van het dienstverband aan de betrokken machinist een gewaarmerkte kopie van alle documenten waaruit zijn opleiding, zijn kwalificaties, zijn ervaring en zijn vakbekwaamheden blijken.
+
+10. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, voorziet in een geschillenregeling omtrent de verstrekking, schorsing en intrekking van een bevoegdheidsbewijs, overeenkomstig artikel 15 van [richtlijn 2007/59/EG](32007L0059).
 
 ##### Artikel 14
 
@@ -304,7 +314,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 17
 
-Degene die personen met een veiligheidsfunctie beschikbaar stelt, niet zijnde een spoorwegonderneming die houder is van een veiligheidscertificaat of een beheerder die houder is van een veiligheidsvergunning, past een systeem van personeelsbeheer toe dat voldoet aan [artikel 16a, derde lid, onderdeel e, van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&artikel=16a) en dat is goedgekeurd door Onze Minister.
+Vervallen
 
 ##### Artikel 18
 
@@ -320,6 +330,8 @@ Degene die personen met een veiligheidsfunctie beschikbaar stelt, niet zijnde ee
 
 3. Onze Minister kan een erkenning schorsen of intrekken indien het keuringsinstituut niet meer voldoet aan de voor de erkenning gestelde eisen.
 
+4. Bij regeling van Onze Minister kunnen nadere eisen worden gesteld met betrekking tot de onafhankelijke organisatie en expertise van een keuringsinstituut.
+
 ##### Artikel 20
 
 1. Onze Minster erkent op aanvraag een opleidingsinstituut als bedoeld in [artikel 51b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b), overeenkomstig het bepaalde in de hoofdstukken 1 en 2 van het Besluit 2011/765/EU en de artikelen 2 tot en met 25 van de Aanbeveling 2011/766/EU. Van de erkenningen wordt door Onze Minister een register bijgehouden.
@@ -332,23 +344,19 @@ Degene die personen met een veiligheidsfunctie beschikbaar stelt, niet zijnde ee
 
 1. Verklaringen van medische geschiktheid, verklaringen van psychologische geschiktheid en certificaten van bekwaamheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een machinist met volledige bevoegdheid of een machinist met beperkte bevoegdheid zijn afgegeven, blijven geldig voor de duur dat deze zijn afgegeven.
 
-2. Machinisten met minimale bevoegdheid als bedoeld in [artikel 3, eerste lid onderdeel c, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=3), blijven bevoegd tot het uitoefenen van hun functie overeenkomstig het bepaalde bij of krachtens het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) tot 1 juli 2014.
+2. Certificaten van bekwaamheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid, wagencontroleur, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid zijn afgegeven, worden gelijkgesteld met beoordelingen van Onze Minister waaruit blijkt dat de rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid voldoet aan de krachtens [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), vastgestelde eisen inzake algemene kennis, bekwaamheid en ervaring.
 
-3. Certificaten van bekwaamheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid, wagencontroleur, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid zijn afgegeven, worden gelijkgesteld met beoordelingen van Onze Minister waaruit blijkt dat de rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid voldoet aan de krachtens [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), vastgestelde eisen inzake algemene kennis, bekwaamheid en ervaring.
-
-4. Verklaringen van medische geschiktheid en verklaringen van psychologische geschiktheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid zijn afgegeven:
+3. Verklaringen van medische geschiktheid en verklaringen van psychologische geschiktheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid zijn afgegeven:
 
 - a. worden gelijkgesteld met verklaringen van medische geschiktheid en verklaringen van psychologische geschiktheid afgegeven aan een rangeerder, treindienstleider met volledige bevoegdheid of treindienstleider met minimale bevoegdheid op basis van dit besluit;
 
 - b. blijven geldig voor de duur waarvoor deze zijn afgegeven.
 
-5. Een bedrijfspas die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid of een wagencontroleur is afgegeven, wordt gelijkgesteld met een bedrijfspas afgegeven aan een rangeerder of wagencontroleur op basis van dit besluit.
-
-6. Werktreinbegeleiders, aan wie tevens de bevoegdheid is verleend tot uitoefening van de veiligheidsfunctie van rangeerder als bedoeld in [artikel 11, derde lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=11), blijven bevoegd tot het uitoefenen van hun functie als rangeerder overeenkomstig het bepaalde bij of krachtens het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) tot 1 juli 2014.
+4. Een bedrijfspas die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid of een wagencontroleur is afgegeven, wordt gelijkgesteld met een bedrijfspas afgegeven aan een rangeerder of wagencontroleur op basis van dit besluit.
 
 ##### Artikel 22
 
-Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2018-07-28&g=2018-07-28) van dit besluit.
+Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2019-04-01&g=2019-04-01) van dit besluit.
 
 ##### Artikel 23
 
@@ -375,5 +383,21 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit spoorwegpersoneel 2011.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+1. Onze Minister erkent een persoon als examinator indien deze persoon:
+
+- a. in het bezit is van een beoordeling waaruit blijkt dat de kandidaat voldoet aan het bepaalde in hoofdstuk 3 van het Besluit 2011/765/EU; of
+
+- b. in het bezit is van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5).
+
+2. Bij de aanvraag, verlening, schorsing of intrekking van een erkenning, alsmede de registratie van examinatoren, wordt gehandeld overeenkomstig de aanbevelingen 26 tot en met 39 en 41 tot en met 48 van Aanbeveling 2011/766/EU.
+
+3. Bij regeling van Onze Minister kunnen aanvullende eisen worden gesteld als bedoeld in artikel 8, vierde lid, van Besluit 2011/765/EU.
+
+4. Onze Minister houdt een register van examinatoren bij. Gegevens van examinatoren als bedoeld in aanwijzing 38 van Aanbeveling 2011/766/EU worden op verzoek verstrekt aan personen die hier redelijkerwijs belang bij hebben.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
