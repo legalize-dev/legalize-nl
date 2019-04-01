@@ -4,7 +4,7 @@ identifier: "BWBR0034996"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034996"
 soort: "circulaire"
@@ -128,3 +128,11 @@ De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, V
 ### 2.6. Intrekking EU-verblijfsvergunning voor langdurig ingezetenen
 
 Voor het aannemen van frauduleuze verkrijging als bedoeld in [artikel 45d, derde lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45d) en [artikel 3.127, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.127) is als regel opzet vereist. Hierbij is niet van belang of de gegevens door de aanvrager persoonlijk zijn verstrekt.
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens verblijf buiten het grondgebied van de EU dan wel buiten Nederland als is voldaan aan het gestelde in artikel 45d, eerste lid, onder a, Vw tenzij artikel 3.127, eerste lid, Vb hierop een uitzondering maakt.
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens gevaar voor de openbare orde dan wel de nationale veiligheid als is voldaan aan het gestelde in artikel 45d, eerste lid onder b, Vw en artikel 3.127, derde lid, Vb.
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens handelen in strijd met artikel 1, onder F, van het Vluchtelingenverdrag als is voldaan aan het gestelde in artikel 45d, tweede lid, onder a, Vw.
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens het verkeerd weergeven of achterhouden van feiten dan wel het gebruik van valse documenten als is voldaan aan het gestelde in [artikel 45, tweede lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45d).
