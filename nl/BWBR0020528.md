@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2019-02-13"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -78,6 +78,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Als staat in de zin van [artikel 2:26d, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26d) wordt aangewezen: de Verenigde Staten van Amerika.
+
+2. Het eerste lid is slechts van toepassing met betrekking tot herverzekeraars met zetel in de Verenigde Staten van Amerika die voldoen aan de eisen, bedoeld in artikel 3, vierde lid, van de bilaterale overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake prudentiële maatregelen betreffende verzekering en herverzekering (PbEU 2017, L 258).
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
