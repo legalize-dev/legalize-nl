@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2019-01-30"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,15 +44,87 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-01-30&g=2019-01-30) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-05-01&g=2019-04-01) bij deze regeling.
 
-##### Artikel 2. Inwerkingtreding
+##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Deze regeling treedt in werking met ingang van 1 oktober 2016.
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-05-01&g=2019-04-01).
 
 ##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling certificaten aantal keuzedelen beroepsonderwijs.
+
+## Bijlage 1. Certificaten vanaf 1 oktober 2016
+
+Er is een certificaat verbonden aan de volgende keuzedelen:
+
+- 1. Art&Design (K0354)
+
+- 2. Car- en interiorwrapping (K0266)
+
+- 3. Digitaal produceren 3D object (K0355)
+
+- 4. Digitale vaardigheden basis (K0022)
+
+- 5. Digitale vaardigheden gevorderd (K0023)
+
+- 6. DJ-ing (K0302)
+
+- 7. Inleiding geo-informatie (K0356)
+
+- 8. Interieurvormgeving (K0054)
+
+- 9. Lichtplan voor woon/werkruimte (K0357)
+
+- 10. Live beeld (K0358)
+
+- 11. Livetechniek (K0359)
+
+- 12. Oriëntatie op digitaal forensisch onderzoek (K0360)
+
+- 13. Oriëntatie op interieurbouw (K0079)
+
+- 14. Productvormgeving (K0296)
+
+- 15. Security in systemen en netwerken 1 (K0400)
+
+- 16. Security in systemen en netwerken 2 (K0444)
+
+- 17. Specialisatie media- en entertainmentsector (K0402)
+
+- 18. Verdieping colormanagement (K0113)
+
+- 19. Verdieping Mediaproductie (K0361)
+
+- 20. Verdieping Visual Merchandising (K0117)
+
+- 21. Mensen met niet-aangeboren hersenletsel (K0067)
+
+- 22. Ernstig meervoudige beperkingen (K0233)
+
+- 23. Ouder wordende mensen met een verstandelijke beperking (K0082)
+
+- 24. Mensen met licht verstandelijke beperking met moeilijk verstaanbaar gedrag (K0066)
+
+- 25. Ervaringsdeskundigheid (K0432)
+
+- 26. Zorg in instabiele en acute zorgsituaties (K0618)
+
+- 27. Bereiden en aseptisch handelen (K0009)
+
+- 28. Gekwalificeerd nanny (K0314)
+
+- 29. Pedicurebehandelingen uitvoeren (K0511)
+
+- 30. Ondernemerschap mbo (K0165)
+
+- 31. Leidinggeven (K0061)
+
+- 32. Supermarkt (geschikt voor niveau 2 (K0243)
+
+- 33. Supermarkt (geschikt voor niveau 3 en 4) (K0244)
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. Certificaten vanaf 1 oktober 2016
 
@@ -307,6 +379,10 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 - 21. Duits B1/B2 in het beroepsonderwijs (K0961)
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
 ## Bijlage 6. Certificaten vanaf 1 januari 2019
 
