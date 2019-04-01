@@ -4,7 +4,7 @@ identifier: "BWBR0039319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2018-05-29"
+last_updated: "2019-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039319"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2018-05-29&g=2018-05-29);
+- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2019-04-01&g=2019-04-01);
 
-- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2018-05-29&g=2018-05-29);
+- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2019-04-01&g=2019-04-01);
 
 - –. **zorgcoördinator:** degene met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs.
 
@@ -124,6 +124,8 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 2. Voor het studiejaar 2018–2019 is een bedrag van € 94.300.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
 
+3. Voor het studiejaar 2019–2020 is een bedrag van € 82.060.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
+
 ##### Artikel 5. Begrotingsvoorwaarde
 
 In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.4), worden op grond van deze regeling verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.
@@ -154,7 +156,17 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 
 - d. € 16.125.000 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
 
-5. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
+5. De verdeling van het beschikbare bedrag voor het studiejaar 2019–2020 over de verschillende doelgroepen geschiedt als volgt:
+
+- a. € 33.125.000 is beschikbaar voor opleidingen van leraren werkzaam in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs;
+
+- b. € 29.283.700 is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs;
+
+- c. € 11.212.500 is beschikbaar voor opleidingen van leraren werkzaam in het beroepsonderwijs en educatie; en
+
+- d. € 8.438.800 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
+
+6. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
 
 ##### Artikel 7. Subsidieaanvraag studiekosten
 
@@ -178,7 +190,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2018-05-29&g=2018-05-29).
+De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 12. Betaling
 
@@ -228,7 +240,7 @@ De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
 
 ##### Artikel 16. Terugvordering collegegeld
 
-Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2018-05-29&g=2018-05-29).
+Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2019-04-01&g=2019-04-01).
 
 ##### Artikel 17. Subsidieverplichting
 
@@ -300,6 +312,18 @@ Voor subsidiëring komt per jaar voor een voltijdsaanstelling, of voor een deelt
 
 - e. hoger beroepsonderwijs: € 48,00.
 
+3. De subsidiebedragen voor het studiejaar 2019–2020 voor een studieverlofuur zijn voor een subsidieontvanger in de sector:
+
+- a. basisonderwijs: € 37,79;
+
+- b. speciaal onderwijs of voortgezet speciaal onderwijs: € 39,58;
+
+- c. voortgezet onderwijs: € 42,86;
+
+- d. beroepsonderwijs en educatie: € 44,07; en
+
+- e. hoger beroepsonderwijs: € 48,00.
+
 ##### Artikel 23. Subsidieverplichting
 
 1. Het bevoegd gezag verleent studieverlof aan de leraar.
@@ -332,7 +356,7 @@ De [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/j
 
 ##### Artikel 29. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2018-05-29&g=2018-05-29), dat in werking treedt met ingang van 1 juli 2017.
+1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2019-04-01&g=2019-04-01), dat in werking treedt met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 april 2022.
 
