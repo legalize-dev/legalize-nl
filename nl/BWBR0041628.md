@@ -4,7 +4,7 @@ identifier: "BWBR0041628"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-03"
-last_updated: "2019-01-01"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041628"
 soort: "ministeriele-regeling"
@@ -95,6 +95,8 @@ Besluit:
 - –. Stichting Dental Health International Nederland (DHIN);
 
 - –. Stichting Kinderhulp Mondiaal (Kimon);
+
+- –. Stichting MAF Nederland;
 
 - –. Theatre Embassy;
 
