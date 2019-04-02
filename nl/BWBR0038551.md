@@ -4,7 +4,7 @@ identifier: "BWBR0038551"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-02"
-last_updated: "2017-04-29"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038551"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Voor het verkrijgen van een erkenning als bedoeld in [artikel 9 van de wet](http
 
 ##### Artikel 2.2. Aanwijzing
 
-1. Voor het verkrijgen van een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7):
+1. Voor het verkrijgen van een aanwijzing als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7):
 
 - a. verstrekt een instelling die tevens importerende weefselinstelling is de informatie en documentatie, bedoeld in bijlage I bij de EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen;
 
