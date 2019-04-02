@@ -4,7 +4,7 @@ identifier: "BWBR0042080"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-02"
-last_updated: "2019-01-01"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042080"
 soort: "ministeriele-regeling"
@@ -48,15 +48,15 @@ Aan de directeur van Kiwa CBS B.V. wordt mandaat, volmacht en machtiging verleen
 
 ##### Artikel 2
 
-Aan de directeur van Kiwa CBS B.V. wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen die verband houden met het verzenden van facturen voor de werkzaamheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-01-01), die zijn gebaseerd op door de Minister van Landbouw, Natuur en Voedselkwaliteit vastgestelde tarieven als bedoeld in [artikel 2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=2:20) en [3:23a van de Regeling marktordening vlees](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=3:23a).
+Aan de directeur van Kiwa CBS B.V. wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen die verband houden met het verzenden van facturen voor de werkzaamheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-04-02), die zijn gebaseerd op door de Minister van Landbouw, Natuur en Voedselkwaliteit vastgestelde tarieven als bedoeld in [artikel 2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=2:20) en [3:23a van de Regeling marktordening vlees](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=3:23a).
 
 ##### Artikel 3
 
-Aan de directeur van Kiwa CBS B.V. wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=2&z=2019-04-02&g=2019-01-01) waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures.
+Aan de directeur van Kiwa CBS B.V. wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-04-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=2&z=2019-04-02&g=2019-04-02) waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures.
 
 ##### Artikel 4
 
-1. De directeur van Kiwa CBS B.V. kan voor de in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De directeur van Kiwa CBS B.V. kan voor de in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042080&artikel=1&z=2019-04-02&g=2019-04-02) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
