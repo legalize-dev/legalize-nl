@@ -4,7 +4,7 @@ identifier: "BWBR0042082"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-02"
-last_updated: "2019-01-01"
+last_updated: "2019-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042082"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aan de classificateurs van Kiwa CBS B.V. wordt, ieder voor zich, ondermandaat, v
 
 ##### Artikel 2
 
-Aan de sectormanager en de juridisch medewerkers wordt ondermandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042082&artikel=1&z=2019-04-02&g=2019-01-01), waaronder het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures.
+Aan de sectormanager en de juridisch medewerkers wordt ondermandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042082&artikel=1&z=2019-04-02&g=2019-04-02), waaronder het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures.
 
 ##### Artikel 3
 
