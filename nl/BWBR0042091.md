@@ -4,7 +4,7 @@ identifier: "BWBR0042091"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-23"
-last_updated: "2019-01-01"
+last_updated: "2019-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042091"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- •. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-04-03&g=2019-01-01);
+- •. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-04-03&g=2019-04-03);
 
 - •. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
