@@ -4,7 +4,7 @@ identifier: "BWBR0042093"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-04-05"
-last_updated: "2019-02-02"
+last_updated: "2019-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042093"
 soort: "zbo"
@@ -137,7 +137,7 @@ De voorzitter wordt bij zijn afwezigheid of ontstentenis vervangen door de plaat
 
 3. Indien de in het tweede lid beschreven situatie zich voordoet worden de afdelingshoofden door de raad in de gelegenheid gesteld een advies uit te brengen ten aanzien van de ongevraagde verschoning van het bestuurslid. Dit advies is bindend voor de raad.
 
-4. Indien de in het eerste of tweede lid beschreven situatie zich voordoet, neemt het desbetreffende bestuurslid geen deel aan de behandeling van en de besluitvorming overde desbetreffende aangelegenheid. Daarvan wordt mededeling gedaan in het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042093&artikel=5&z=2019-04-05&g=2019-02-02) bedoelde verslag.
+4. Indien de in het eerste of tweede lid beschreven situatie zich voordoet, neemt het desbetreffende bestuurslid geen deel aan de behandeling van en de besluitvorming overde desbetreffende aangelegenheid. Daarvan wordt mededeling gedaan in het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042093&artikel=5&z=2019-04-05&g=2019-04-05) bedoelde verslag.
 
 ##### Artikel 8. Overleg met de personeelsvertegenwoordiging
 
