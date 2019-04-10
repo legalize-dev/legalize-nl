@@ -4,7 +4,7 @@ identifier: "BWBR0041573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2019-03-28"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041573"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien een raads- of commissielid een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen binnen de gemeente, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien een raads- of commissielid een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen binnen de gemeente, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een raads- of commissielid maakt in verband met reizen binnen de gemeente voor de uitoefening van de functie, worden ten laste van de gemeente vergoed.
 
@@ -92,7 +92,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-03-28&g=2019-03-28), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), vergoed.
 
 ##### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
 
@@ -114,7 +114,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-03-28&g=2019-03-28), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
 
@@ -138,7 +138,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien de burgemeester of de wethouder een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien de burgemeester of de wethouder een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. Aan de burgemeester of de wethouder wordt vergoeding van kosten voor woon-werkverkeer uitsluitend toegekend:
 
@@ -150,7 +150,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ##### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
 
-1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-03-28&g=2019-03-28), een vaste vergoeding worden toegekend.
+1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2019-04-10&g=2019-04-10), een vaste vergoeding worden toegekend.
 
 2. De vaste vergoeding, bedoeld in het eerste lid, bedraagt per maand:
 
@@ -210,11 +210,11 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2019-03-28&g=2019-03-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2019-03-28&g=2019-03-28) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2019-03-28&g=2019-03-28), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2019-03-28&g=2019-03-28), in werking met ingang van 28 maart 2019.
+2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2019-04-10&g=2019-04-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2019-04-10&g=2019-04-10) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2019-04-10&g=2019-04-10), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2019-04-10&g=2019-04-10), in werking met ingang van 28 maart 2019.
 
 ##### Artikel 5.4. Citeertitel
 
-Deze regeling wordt aangehaald als: Rechtspositieregeling decentrale politieke ambtsdragers.
+Deze regeling wordt aangehaald als: Regeling rechtspositie decentrale politieke ambtsdragers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -232,7 +232,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien een staten- of commissielid een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien een staten- of commissielid een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een staten- of commissielid maakt in verband met reizen voor de uitoefening van de functie, worden ten laste van de provincie vergoed.
 
@@ -252,7 +252,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in de [artikelen 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-03-28&g=2019-03-28), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in de [artikelen 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-04-10&g=2019-04-10), vergoed.
 
 ##### Artikel 2.4. Tegemoetkoming kosten dubbele woonlasten commissaris en gedeputeerden
 
@@ -274,7 +274,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-03-28&g=2019-03-28), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2019-04-10&g=2019-04-10), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 2.5. Ter beschikking gestelde woning commissaris en gedeputeerden
 
@@ -298,7 +298,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien de commissaris of de gedeputeerde een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien de commissaris of de gedeputeerde een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. Aan de commissaris en gedeputeerde wordt vergoeding van kosten voor woon-werkverkeer uitsluitend toegekend:
 
@@ -346,7 +346,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien een lid van het algemeen bestuur of een commissielid een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien een lid van het algemeen bestuur of een commissielid een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van de functie, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een lid van het algemeen bestuur maakt in verband met reizen voor de uitoefening van de functie, worden ten laste van het waterschap vergoed.
 
@@ -386,7 +386,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Boetes en naheffingsaanslagen voor parkeren worden niet vergoed.
 
-5. Indien de voorzitter of het lid van het dagelijks bestuur een tijdelijke functionele beperking heeft, kan voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
+5. Indien de voorzitter of het lid van het dagelijks bestuur een functionele beperking heeft, kan incidenteel voor reizen voor woon- werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, een voor de beperking geschikte vervoersvoorziening worden vergoed of ter beschikking gesteld.
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de voorzitter of het lid van het dagelijks bestuur maakt in verband met reizen voor de uitoefening van het ambt worden aan hem vergoed.
 
