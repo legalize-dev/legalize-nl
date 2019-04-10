@@ -4,7 +4,7 @@ identifier: "BWBR0040678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-10"
-last_updated: "2018-10-13"
+last_updated: "2019-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040678"
 soort: "ministeriele-regeling"
@@ -52,6 +52,6 @@ De subsidieplafonds voor het kalenderjaar 2018, bedoeld in [artikel 4, derde lid
 
 € 3.920.000 voor zij-instromers in het voortgezet onderwijs; en
 
-€ 6.120.000 voor zij-instromers in het middelbaar beroepsonderwijs.
+€ 7.220.000,– voor zij-instromers in het middelbaar beroepsonderwijs.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
