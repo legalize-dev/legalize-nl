@@ -4,7 +4,7 @@ identifier: "BWBR0039787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2019-03-26"
+last_updated: "2019-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039787"
 soort: "ministeriele-regeling"
@@ -91,9 +91,9 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 5. Indeling in reisklassen
 
-- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2019-03-26&g=2019-03-26), Klasse-indeling bij dienstreizen Defensie.
+- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2019-04-11&g=2019-04-11), Klasse-indeling bij dienstreizen Defensie.
 
-- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2019-03-26&g=2019-03-26) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
+- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2019-04-11&g=2019-04-11) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
 
 - 3. De commandant kan, in voorkomend geval, het reizen met het vliegtuig in een hogere klasse toestaan, indien in de voor de dienstreiziger geldende klasse door plaatsgebrek geen passage kan worden besproken en de reis niet kan worden uitgesteld.
 
@@ -121,7 +121,7 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 7. Vergoeding gebruik eigen motorrijtuig
 
-De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2019-03-26&g=2019-03-26), tabel 1.
+De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2019-04-11&g=2019-04-11), tabel 1.
 
 ##### Artikel 8. Kilometeromslagpunt en inbegrepen kosten
 
@@ -149,7 +149,7 @@ Vervallen
 
 ##### Artikel 11. Vergoeding van fietsgebruik
 
-- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2019-03-26&g=2019-03-26), tabel 2.
+- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2019-04-11&g=2019-04-11), tabel 2.
 
 - 2. De noodzakelijke kosten voor stalling van een voor de dienstreis gebruikte fiets en de noodzakelijk gemaakte andere kosten van het gebruik voor de dienstreis van een fiets worden vergoed.
 
@@ -191,15 +191,15 @@ Vervallen
 
 - d. de omgekeerde lunchcomponent, indien mede is voldaan aan de voorwaarden dat de tijd tussen 00.00 uur en 03.00 uur geheel in de dienstreis valt en gedurende die tijd geen logies wordt genoten.
 
-- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-03-26&g=2019-03-26), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
+- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-04-11&g=2019-04-11), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
 
 - 5. Indien de dienstreiziger bij een dienstreis kosten heeft gemaakt voor een maaltijd van overheidswege, bestaat geen aanspraak op enige maaltijdcomponent. De commandant bepaalt op welke plaatsen sprake is van maaltijden of logies van overheidswege.
 
 - 6. Indien de dienstreiziger kosten heeft gemaakt voor logies worden:
 
-- a. voor de binnenlandse dienstreis de kosten gemaakt in de horeca vergoed door toekenning van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-03-26&g=2019-03-26), kolom Logiescomponent.
+- a. voor de binnenlandse dienstreis de kosten gemaakt in de horeca vergoed door toekenning van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-04-11&g=2019-04-11), kolom Logiescomponent.
 
-- b. voor de buitenlandse dienstreis de werkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-03-26&g=2019-03-26), kolom Maximumvergoeding logieskosten.
+- b. voor de buitenlandse dienstreis de werkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-04-11&g=2019-04-11), kolom Maximumvergoeding logieskosten.
 
 - 7. Indien bij een buitenlandse dienstreis een bewijsstuk van de kosten voor logies en ontbijt wordt overgelegd waaruit niet blijkt welk deel van de kosten voor logies en welk deel van de kosten voor ontbijt zijn gemaakt, worden de op het bewijsstuk vermelde kosten vergoed tot ten hoogste het bedrag van de som van de ontbijt- en logiescomponent.
 
@@ -231,9 +231,9 @@ Vervallen
 
 - e. een reisverzekering met dezelfde of nagenoeg dezelfde dekking als die welke geldt indien de reis vanuit Nederland door de commandant bij de hem daarvoor aangewezen reisorganisatie zou zijn geboekt, doch alleen indien de kosten daarvan niet in de prijs van het reisbiljet zijn begrepen en voor die gevallen waarin bedoelde boeking wegens bijzondere omstandigheden niet kon plaatsvinden.
 
-- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2019-03-26&g=2019-03-26) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,94.
+- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2019-04-11&g=2019-04-11) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,94.
 
-- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2019-03-26&g=2019-03-26), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
+- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2019-04-11&g=2019-04-11), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
 
 - 4. De tegemoetkoming, bedoeld in het tweede lid, wordt niet verstrekt indien:
 
@@ -287,7 +287,7 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. Voor de toepassing van het eerste lid, wordt in de daar genoemde algemeen verbindende voorschriften verstaan onder:
 
-- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2019-03-26&g=2019-03-26), van de Regeling dienstreizen Defensie;
+- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2019-04-11&g=2019-04-11), van de Regeling dienstreizen Defensie;
 
 - b. **‘datum van verplaatsing, de detachering of van de indiensttreding’:** de datum van de detachering, bedoeld in [artikel 14, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14).
 
@@ -319,13 +319,13 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. De bijdrage, bedoeld in het eerste lid, onderdeel b, en het tweede lid wordt voor een periode korter dan een maand naar tijdsgelang berekend, waarbij een maand wordt gesteld op dertig dagen.
 
-- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2019-03-26&g=2019-03-26), is bij een detachering in Nederland van overeenkomstige toepassing.
+- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2019-04-11&g=2019-04-11), is bij een detachering in Nederland van overeenkomstige toepassing.
 
-- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2019-03-26&g=2019-03-26), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2019-03-26&g=2019-03-26), worden gehalveerd.
+- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2019-04-11&g=2019-04-11), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2019-04-11&g=2019-04-11), worden gehalveerd.
 
 ##### Artikel 16a. Detachering Koninklijke Marechaussee
 
-Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2019-03-26&g=2019-03-26) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2019-03-26&g=2019-03-26), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
+Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2019-04-11&g=2019-04-11) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2019-04-11&g=2019-04-11), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
 
 #### Paragraaf 5. Diverse bepalingen; slotbepalingen
 
@@ -349,11 +349,11 @@ De commandant kan voor de in deze regeling bedoelde vergoedingen een voorschot v
 
 - d. van logies in een gebied buiten Nederland; en
 
-- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2019-03-26&g=2019-03-26).
+- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2019-04-11&g=2019-04-11).
 
 ##### Artikel 19. Rekenregels
 
-Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-03-26&g=2019-03-26) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
+Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2019-04-11&g=2019-04-11) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
 
 ##### Artikel 20. Afbouwregeling militairen en burgerambtenaren
 
@@ -400,22 +400,26 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 
 ## Bijlage C. bij de Regeling dienstreizen defensie
 
-| Reisgebiedsdelen | Reisgebiedsdelen | Reisgebiedsdelen | Reisgebiedsdelen | Reisgebiedsdelen | bedragen | bedragen lunch | bedragen diner | bedragen component | bedragen component |
+| Reisgebiedsdelen | Reisgebiedsdelen |   |   |   | bedragen ontbijt | bedragen lunch | bedragen diner | bedragen component | bedragen component |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   | Ingangsdatum tarief | Val code | bedrag logies | horeca | horeca | horeca | klein | groot |
+| Reisgebiedsdelen | Reisgebiedsdelen | Ingangsdatum tarief | Val code | bedrag | bedrag | bedrag | bedrag | bedrag | bedrag |
+| Reisgebiedsdelen | Reisgebiedsdelen | Ingangsdatum tarief | Val code | logies | horeca | horeca | horeca | klein | groot |
+| **17** | **NEDERLAND** |   |   |   |   |   |   |   |   |
+| 1 | VAN BUITENLAND NAAR NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
+| 2 | BINNEN NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
 | **194** | **AFGHANISTAN** |   |   |   |   |   |   |   |   |
-| 1 | KABUL | 1-1-2019 | AFN | 8.540,00 | 404,05 | 673,45 | 1.077, | 50,50 |   |
+| 1 | KABUL | 1-1-2019 | AFN | 8.540,00 | 404,05 | 673,45 | 1.077,00 | 50,50 |   |
 | 4 | ELDERS | 1-1-2019 | AFN | 5.061,00 | 239,45 | 399,10 | 638,55 | 29,95 |   |
 | **134** | **ALBANIE** |   |   |   |   |   |   |   |   |
-| 1 | TIRANA | 1-1-2019 | ALL | 9.858,00 | 667,05 | 1.111,75 | 1.778, | 83,40 |   |
-| 2 | ELDERS | 1-1-2019 | ALL | 4.433,00 | 416,95 | 694,90 | 1.111, | 52,10 |   |
-| 4 | TIRANA SHERATON | 1-1-2019 | ALL | 10.692,00 | 1.005,50 | 1.675,85 | 2.681, | 125,70 |   |
-| 4 | TIRANA INTERNATIONAL | 1-1-2019 | ALL | 10.692,00 | 1.005,50 | 1.675,85 | 2.681, | 125,70 |   |
+| 1 | TIRANA | 1-1-2019 | ALL | 9.858,00 | 667,05 | 1.111,75 | 1.778,00 | 83,40 |   |
+| 2 | ELDERS | 1-1-2019 | ALL | 4.433,00 | 416,95 | 694,90 | 1.111,00 | 52,10 |   |
+| 4 | TIRANA SHERATON | 1-1-2019 | ALL | 10.692,00 | 1.005,50 | 1.675,85 | 2.681,00 | 125,70 |   |
+| 4 | TIRANA INTERNATIONAL | 1-1-2019 | ALL | 10.692,00 | 1.005,50 | 1.675,85 | 2.681,00 | 125,70 |   |
 | **155** | **ALGERIJE** |   |   |   |   |   |   |   |   |
 | 2 | ELDERS | 1-1-2019 | USD | 56,00 | 5,90 | 9,85 | 15,70 | 0,75 |   |
 | **91** | **ANGOLA** |   |   |   |   |   |   |   |   |
-| 1 | LUANDA | 1-1-2019 | AOA | 38.369,00 | 2.708,20 | 4.513,70 | 7.221, | 338,55 |   |
-| 3 | ELDERS | 1-1-2019 | AOA | 18.370,00 | 1.659,30 | 2.765,50 | 4.424, | 207,40 |   |
+| 1 | LUANDA | 1-1-2019 | AOA | 38.369,00 | 2.708,20 | 4.513,70 | 7.221,00 | 338,55 |   |
+| 3 | ELDERS | 1-1-2019 | AOA | 18.370,00 | 1.659,30 | 2.765,50 | 4.424,00 | 207,40 |   |
 | **217** | **ANGUILLA** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | USD | 403,00 | 22,90 | 38,15 | 61,05 | 2,85 |   |
 | 1 | ALLE GEBIEDEN | 15-4-2019 | USD | 243,00 | 20,20 | 33,70 | 53,95 | 2,55 |   |
@@ -429,8 +433,8 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 1 | YEREVAN | 1-1-2019 | USD | 92,00 | 7,35 | 12,20 | 19,55 | 0,90 |   |
 | 2 | ELDERS | 1-1-2019 | USD | 75,00 | 5,75 | 9,60 | 15,35 | 0,70 |   |
 | **92** | **ARUBA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-1-2019 | AW | 433,00 | 30,55 | 50,95 | 81,50 | 3,80 |   |
-| 1 | ALLE GEBIEDEN | 15-4-2019 | AW | 302,00 | 28,45 | 47,40 | 75,85 | 3,55 |   |
+| 1 | ALLE GEBIEDEN | 1-1-2019 | AWG | 433,00 | 30,55 | 50,95 | 81,50 | 3,80 |   |
+| 1 | ALLE GEBIEDEN | 15-4-2019 | AWG | 302,00 | 28,45 | 47,40 | 75,85 | 3,55 |   |
 | **66** | **AUSTRALIE** |   |   |   |   |   |   |   |   |
 | 1 | SYDNEY,CANBERRA EN MELBOURNE | 1-1-2019 | AUD | 263,00 | 21,00 | 35,00 | 56,00 | 2,65 |   |
 | 2 | ELDERS | 1-1-2019 | AUD | 176,00 | 14,10 | 23,50 | 37,60 | 1,75 |   |
@@ -448,8 +452,8 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 1 | ALLE GEBIEDEN | 1-1-2019 | BBD | 589,00 | 39,85 | 66,40 | 106,30 | 5,00 |   |
 | 1 | ALLE GEBIEDEN | 16-4-2019 | BBD | 442,00 | 45,05 | 75,05 | 120,10 | 5,65 |   |
 | **13** | **BELGIE** |   |   |   |   |   |   |   |   |
-| 1 | BRUSSEL | 1-1-2019 | EUR | 183,00 | 14,60 | 24,35 | 38,95 | 1,85 |   |
-| 2 | ELDERS | 1-1-2019 | EUR | 183,00 | 14,60 | 24,35 | 38,95 | 1,85 |   |
+| 1 | BRUSSEL | 2-1-2019 | EUR | 173,00 | 13,80 | 23,05 | 36,85 | 1,75 |   |
+| 2 | ELDERS | 2-1-2019 | EUR | 161,00 | 12,90 | 21,50 | 34,35 | 1,60 |   |
 | **170** | **BELIZE** |   |   |   |   |   |   |   |   |
 | 1 | BELIZE CITY | 1-1-2019 | USD | 172,00 | 9,75 | 16,25 | 26,00 | 1,20 |   |
 | 2 | ELDERS | 1-1-2019 | USD | 122,00 | 10,15 | 16,95 | 27,10 | 1,25 |   |
@@ -541,9 +545,9 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | **22** | **DENEMARKEN** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | DKK | 1.112,00 | 150,00 | 249,95 | 399,95 | 18,75 |   |
 | **87** | **DJIBOUTI** |   |   |   |   |   |   |   |   |
-| 1 | DJIBOUTI (HOTEL SHERATON) | 1-1-2019 | DJF | 32.240,00 | 2.182,00 | 3.636,00 | 5.817, | 273,00 |   |
-| 2 | DJIBOUTI | 1-1-2019 | DJF | 17.874,00 | 1.681,00 | 2.802,00 | 4.483, | 210,00 |   |
-| 4 | ELDERS | 1-1-2019 | DJF | 11.424,00 | 991,00 | 1.652,00 | 2.643, | 124,00 |   |
+| 1 | DJIBOUTI (HOTEL SHERATON) | 1-1-2019 | DJF | 32.240,00 | 2.182,00 | 3.636,00 | 5.817,00 | 273,00 |   |
+| 2 | DJIBOUTI | 1-1-2019 | DJF | 17.874,00 | 1.681,00 | 2.802,00 | 4.483,00 | 210,00 |   |
+| 4 | ELDERS | 1-1-2019 | DJF | 11.424,00 | 991,00 | 1.652,00 | 2.643,00 | 124,00 |   |
 | **206** | **DOMINICA** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | USD | 216,00 | 19,50 | 32,55 | 52,05 | 2,45 |   |
 | **85** | **DOMINICAANSE REP.** |   |   |   |   |   |   |   |   |
@@ -569,7 +573,7 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 1 | TALLINN | 1-1-2019 | EUR | 128,00 | 14,75 | 24,60 | 39,35 | 1,85 |   |
 | 4 | ELDERS | 1-1-2019 | EUR | 106,00 | 13,20 | 22,05 | 35,25 | 1,65 |   |
 | **81** | **ETHIOPIE** |   |   |   |   |   |   |   |   |
-| 1 | ADDIS ABEBA (HILTON) | 1-1-2019 | ETB | 6.784,00 | 421,30 | 702,15 | 1.123, | 52,65 |   |
+| 1 | ADDIS ABEBA (HILTON) | 1-1-2019 | ETB | 6.784,00 | 421,30 | 702,15 | 1.123,00 | 52,65 |   |
 | 3 | ELDERS | 1-1-2019 | ETB | 1.362,00 | 100,25 | 167,05 | 267,30 | 12,55 |   |
 | 4 | ADDIS ABEBA | 1-1-2019 | ETB | 3.041,00 | 263,75 | 439,60 | 703,40 | 32,95 |   |
 | **147** | **FILIPPIJNEN** |   |   |   |   |   |   |   |   |
@@ -619,19 +623,19 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | **72** | **HONG KONG** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | HKD | 1.775,00 | 125,30 | 208,80 | 334,10 | 15,65 |   |
 | **93** | **HONGARIJE** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-1-2019 | HUF | 27.324,00 | 1.355,25 | 2.258,80 | 3.614, | 169,40 |   |
-| 1 | ELDERS | 1-1-2019 | HUF | 27.324,00 | 1.355,25 | 2.258,80 | 3.614, | 169,40 |   |
-| 2 | BUDAPEST | 1-1-2019 | HUF | 47.554,00 | 3.217,70 | 5.362,85 | 8.580, | 402,20 |   |
-| 3 | BALATON | 1-1-2019 | HUF | 39.168,00 | 2.034,90 | 3.391,50 | 5.426, | 254,35 |   |
+| 1 | ALLE GEBIEDEN | 1-1-2019 | HUF | 27.324,00 | 1.355,25 | 2.258,80 | 3.614,00 | 169,40 |   |
+| 1 | ELDERS | 1-1-2019 | HUF | 27.324,00 | 1.355,25 | 2.258,80 | 3.614,00 | 169,40 |   |
+| 2 | BUDAPEST | 1-1-2019 | HUF | 47.554,00 | 3.217,70 | 5.362,85 | 8.580,00 | 402,20 |   |
+| 3 | BALATON | 1-1-2019 | HUF | 39.168,00 | 2.034,90 | 3.391,50 | 5.426,00 | 254,35 |   |
 | **2** | **IERLAND** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | EUR | 158,00 | 11,60 | 19,35 | 30,95 | 1,45 |   |
 | **24** | **IJSLAND** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-1-2019 | ISK | 19.544,00 | 1.695,30 | 2.825,50 | 4.520, | 211,90 |   |
-| 1 | ALLE GEBIEDEN | 1-5-2019 | ISK | 28.098,00 | 1.821,80 | 3.036,35 | 4.858, | 227,75 |   |
+| 1 | ALLE GEBIEDEN | 1-1-2019 | ISK | 19.544,00 | 1.695,30 | 2.825,50 | 4.520,00 | 211,90 |   |
+| 1 | ALLE GEBIEDEN | 1-5-2019 | ISK | 28.098,00 | 1.821,80 | 3.036,35 | 4.858,00 | 227,75 |   |
 | **52** | **INDIA** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-1-2019 | INR | 7.320,00 | 516,65 | 861,10 | 1.377, | 64,60 |   |
-| 5 | NEW DELHI | 1-1-2019 | INR | 9.240,00 | 801,50 | 1.335,85 | 2.137, | 100,20 |   |
-| 5 | NEW DELHI | 1-4-2019 | INR | 7.395,00 | 784,40 | 1.307,30 | 2.091, | 98,05 |   |
+| 4 | ELDERS | 1-1-2019 | INR | 7.320,00 | 516,65 | 861,10 | 1.377,00 | 64,60 |   |
+| 5 | NEW DELHI | 1-1-2019 | INR | 9.240,00 | 801,50 | 1.335,85 | 2.137,00 | 100,20 |   |
+| 5 | NEW DELHI | 1-4-2019 | INR | 7.395,00 | 784,40 | 1.307,30 | 2.091,00 | 98,05 |   |
 | **37** | **INDONESIE** |   |   |   |   |   |   |   |   |
 | 1 | JAKARTA | 1-1-2019 | USD | 112,00 | 10,50 | 17,50 | 28,05 | 1,30 |   |
 | 3 | JAKARTA (SPECIAL HOTELS) | 1-1-2019 | USD | 210,00 | 11,40 | 19,00 | 30,40 | 1,45 |   |
@@ -662,8 +666,8 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 3 | ELDERS | 1-1-2019 | USD | 228,00 | 10,75 | 17,95 | 28,70 | 1,35 |   |
 | 3 | ELDERS | 16-4-2019 | USD | 216,00 | 10,20 | 17,00 | 27,20 | 1,30 |   |
 | **10** | **JAPAN** |   |   |   |   |   |   |   |   |
-| 1 | TOKYO | 1-1-2019 | JPY | 20.416,00 | 1.632,00 | 2.720,00 | 4.352, | 204,00 |   |
-| 16 | ELDERS | 1-1-2019 | JPY | 12.996,00 | 1.082,00 | 1.804,00 | 2.886, | 135,00 |   |
+| 1 | TOKYO | 1-1-2019 | JPY | 20.416,00 | 1.632,00 | 2.720,00 | 4.352,00 | 204,00 |   |
+| 16 | ELDERS | 1-1-2019 | JPY | 12.996,00 | 1.082,00 | 1.804,00 | 2.886,00 | 135,00 |   |
 | **180** | **JEMEN** |   |   |   |   |   |   |   |   |
 | 8 | ELDERS | 1-1-2019 | USD | 51,00 | 5,40 | 9,00 | 14,45 | 0,70 |   |
 | **30** | **JORDANIE** |   |   |   |   |   |   |   |   |
@@ -679,9 +683,9 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 2 | ALMA ATA | 1-1-2019 | USD | 78,00 | 10,55 | 17,60 | 28,15 | 1,30 |   |
 | 3 | ELDERS | 1-1-2019 | USD | 59,00 | 6,30 | 10,45 | 16,75 | 0,80 |   |
 | **11** | **KENIA** |   |   |   |   |   |   |   |   |
-| 1 | NAIROBI | 1-1-2019 | KES | 17.955,00 | 1.164,15 | 1.940,30 | 3.104, | 145,50 |   |
-| 2 | MOMBASA | 1-1-2019 | KES | 11.115,00 | 660,75 | 1.101,25 | 1.762, | 82,60 |   |
-| 3 | ELDERS | 1-1-2019 | KES | 6.042,00 | 391,75 | 652,90 | 1.044, | 48,95 |   |
+| 1 | NAIROBI | 1-1-2019 | KES | 17.955,00 | 1.164,15 | 1.940,30 | 3.104,00 | 145,50 |   |
+| 2 | MOMBASA | 1-1-2019 | KES | 11.115,00 | 660,75 | 1.101,25 | 1.762,00 | 82,60 |   |
+| 3 | ELDERS | 1-1-2019 | KES | 6.042,00 | 391,75 | 652,90 | 1.044,00 | 48,95 |   |
 | **109** | **KOEWEIT** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | KWD | 81,00 | 4,85 | 8,05 | 12,90 | 0,60 |   |
 | **49** | **KOREA (ZUID)** |   |   |   |   |   |   |   |   |
@@ -782,9 +786,9 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | **130** | **NIGER** |   |   |   |   |   |   |   |   |
 | 5 | ELDERS | 1-1-2019 | USD | 69,00 | 9,65 | 16,05 | 25,70 | 1,20 |   |
 | **140** | **NIGERIA** |   |   |   |   |   |   |   |   |
-| 2 | LAGOS(EKO,FED.PALACE) | 1-1-2019 | NGN | 47.190,00 | 2.805,25 | 4.675,45 | 7.480, | 350,65 |   |
-| 3 | LAGOS | 1-1-2019 | NGN | 33.410,00 | 1.986,10 | 3.310,15 | 5.296, | 248,25 |   |
-| 6 | ELDERS | 1-1-2019 | NGN | 14.884,00 | 1.050,55 | 1.750,95 | 2.801, | 131,30 |   |
+| 2 | LAGOS(EKO,FED.PALACE) | 1-1-2019 | NGN | 47.190,00 | 2.805,25 | 4.675,45 | 7.480,00 | 350,65 |   |
+| 3 | LAGOS | 1-1-2019 | NGN | 33.410,00 | 1.986,10 | 3.310,15 | 5.296,00 | 248,25 |   |
+| 6 | ELDERS | 1-1-2019 | NGN | 14.884,00 | 1.050,55 | 1.750,95 | 2.801,00 | 131,30 |   |
 | **25** | **NOORWEGEN** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | NOK | 1.214,00 | 128,75 | 214,60 | 343,35 | 16,10 |   |
 | **103** | **OEGANDA** |   |   |   |   |   |   |   |   |
@@ -796,13 +800,13 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | **105** | **OEZBEKISTAN** |   |   |   |   |   |   |   |   |
 | 4 | ELDERS | 1-1-2019 | USD | 49,00 | 2,45 | 4,05 | 6,50 | 0,30 |   |
 | **55** | **OMAN** |   |   |   |   |   |   |   |   |
-| 2 | MUSCAT | 1-1-2019 | OM | 63,00 | 4,85 | 8,05 | 12,90 | 0,60 |   |
-| 4 | ELDERS | 1-1-2019 | OM | 62,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
+| 2 | MUSCAT | 1-1-2019 | OMR | 63,00 | 4,85 | 8,05 | 12,90 | 0,60 |   |
+| 4 | ELDERS | 1-1-2019 | OMR | 62,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
 | **6** | **OOSTENRIJK** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | EUR | 107,00 | 15,65 | 26,10 | 41,80 | 1,95 |   |
 | **18** | **PAKISTAN** |   |   |   |   |   |   |   |   |
-| 9 | ISLAMABAD,RAWALPINDI | 1-1-2019 | PKR | 13.530,00 | 769,50 | 1.282,50 | 2.051, | 96,20 |   |
-| 14 | ELDERS | 1-1-2019 | PKR | 6.000,00 | 441,60 | 736,00 | 1.177, | 55,20 |   |
+| 9 | ISLAMABAD,RAWALPINDI | 1-1-2019 | PKR | 13.530,00 | 769,50 | 1.282,50 | 2.051,00 | 96,20 |   |
+| 14 | ELDERS | 1-1-2019 | PKR | 6.000,00 | 441,60 | 736,00 | 1.177,00 | 55,20 |   |
 | **121** | **PANAMA** |   |   |   |   |   |   |   |   |
 | 2 | PANAMA STAD | 1-1-2019 | PAB | 147,00 | 12,80 | 21,30 | 34,05 | 1,60 |   |
 | 4 | ELDERS | 1-1-2019 | PAB | 113,00 | 8,00 | 13,35 | 21,35 | 1,00 |   |
@@ -824,9 +828,9 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 1 | BOEKAREST | 1-1-2019 | RON | 624,00 | 37,10 | 61,80 | 98,90 | 4,65 |   |
 | 4 | ELDERS | 1-1-2019 | RON | 319,00 | 27,70 | 46,15 | 73,85 | 3,45 |   |
 | **78** | **RUSLAND** |   |   |   |   |   |   |   |   |
-| 1 | MOSKOU | 1-1-2019 | RUB | 16.590,00 | 784,95 | 1.308,25 | 2.093, | 98,10 |   |
-| 2 | SINT PETERSBURG | 1-1-2019 | RUB | 16.132,00 | 625,75 | 1.042,90 | 1.668, | 78,20 |   |
-| 4 | ELDERS | 1-1-2019 | RUB | 5.121,00 | 392,90 | 654,80 | 1.047, | 49,10 |   |
+| 1 | MOSKOU | 1-1-2019 | RUB | 16.590,00 | 784,95 | 1.308,25 | 2.093,00 | 98,10 |   |
+| 2 | SINT PETERSBURG | 1-1-2019 | RUB | 16.132,00 | 625,75 | 1.042,90 | 1.668,00 | 78,20 |   |
+| 4 | ELDERS | 1-1-2019 | RUB | 5.121,00 | 392,90 | 654,80 | 1.047,00 | 49,10 |   |
 | **106** | **RWANDA** |   |   |   |   |   |   |   |   |
 | 1 | KIGALI | 1-1-2019 | USD | 111,00 | 8,15 | 13,60 | 21,80 | 1,00 |   |
 | 5 | ELDERS | 1-1-2019 | USD | 52,00 | 3,40 | 5,65 | 9,05 | 0,40 |   |
@@ -865,8 +869,8 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 2 | BARCELONA | 1-1-2019 | EUR | 126,00 | 11,40 | 18,95 | 30,35 | 1,40 |   |
 | 4 | ELDERS | 1-1-2019 | EUR | 96,00 | 9,40 | 15,65 | 25,05 | 1,15 |   |
 | **51** | **SRI LANKA** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-1-2019 | LKR | 12.214,00 | 826,45 | 1.377,40 | 2.203, | 103,30 |   |
-| 3 | KANDY | 1-1-2019 | LKR | 16.524,00 | 858,45 | 1.430,80 | 2.289, | 107,30 |   |
+| 2 | ELDERS | 1-1-2019 | LKR | 12.214,00 | 826,45 | 1.377,40 | 2.203,00 | 103,30 |   |
+| 3 | KANDY | 1-1-2019 | LKR | 16.524,00 | 858,45 | 1.430,80 | 2.289,00 | 107,30 |   |
 | **213** | **ST. KITTS AND NEVIS** |   |   |   |   |   |   |   |   |
 | 1 | ALLE GEBIEDEN | 1-1-2019 | USD | 269,00 | 20,65 | 34,40 | 55,05 | 2,60 |   |
 | 1 | ALLE GEBIEDEN | 15-4-2019 | USD | 202,00 | 19,00 | 31,65 | 50,65 | 2,35 |   |
@@ -883,8 +887,8 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 1 | ELDERS | 1-1-2019 | SRD | 482,00 | 27,40 | 45,65 | 73,05 | 3,45 |   |
 | 2 | PARAMARIBO | 1-1-2019 | SRD | 851,00 | 46,25 | 77,10 | 123,40 | 5,80 |   |
 | **43** | **SYRIE** |   |   |   |   |   |   |   |   |
-| 1 | DAMASCUS | 1-1-2019 | SYP | 51.535,00 | 4.655,00 | 7.758,35 | 12.413 | 581,90 |   |
-| 2 | ELDERS | 1-1-2019 | SYP | 30.580,00 | 2.762,20 | 4.603,70 | 7.365, | 345,30 |   |
+| 1 | DAMASCUS | 1-1-2019 | SYP | 51.535,00 | 4.655,00 | 7.758,35 | 12.413.00 | 581,90 |   |
+| 2 | ELDERS | 1-1-2019 | SYP | 30.580,00 | 2.762,20 | 4.603,70 | 7.365,00 | 345,30 |   |
 | **77** | **TAIWAN** |   |   |   |   |   |   |   |   |
 | 1 | TAIPEH | 1-1-2019 | USD | 58,00 | 4,25 | 7,05 | 11,30 | 0,55 |   |
 | 2 | ELDERS | 1-1-2019 | USD | 58,00 | 4,25 | 7,05 | 11,30 | 0,55 |   |
@@ -920,6 +924,12 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 | 6 | IZMIR | 1-1-2019 | TRY | 644,00 | 55,85 | 93,10 | 148,95 | 7,00 |   |
 | **146** | **TURKMENISTAN** |   |   |   |   |   |   |   |   |
 | 3 | ELDERS | 1-1-2019 | USD | 62,00 | 5,60 | 9,35 | 14,95 | 0,70 |   |
+| **223** | **TURKS & CAICOS ISL.** |   |   |   |   |   |   |   |   |
+| 1 | GRAND TURK | 1-1-2019 | USD | 246,00 | 15,25 | 25,45 | 40,70 | 1,90 |   |
+| 2 | PROVIDENCIALES | 1-1-2019 | USD | 378,00 | 17,90 | 29,80 | 47,70 | 2,25 |   |
+| **223** | **TURKS CAICOS ISL.** |   |   |   |   |   |   |   |   |
+| 1 | GRAND TURK | 1-1-2019 | USD | 246,00 | 15,25 | 25,45 | 40,70 | 1,90 |   |
+| 2 | PROVIDENCIALES | 1-1-2019 | USD | 378,00 | 17,90 | 29,80 | 47,70 | 2,25 |   |
 | **179** | **URUGUAY** |   |   |   |   |   |   |   |   |
 | 3 | ELDERS | 1-1-2019 | USD | 88,00 | 8,95 | 14,95 | 23,90 | 1,10 |   |
 | **82** | **VENEZUELA** |   |   |   |   |   |   |   |   |
