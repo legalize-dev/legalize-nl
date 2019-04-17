@@ -4,7 +4,7 @@ identifier: "BWBR0042117"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-17"
-last_updated: "2019-01-01"
+last_updated: "2019-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042117"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 ##### Artikel 3
 
-Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=1&z=2019-04-17&g=2019-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=2&z=2019-04-17&g=2019-01-01), waaronder het nemen van beslissingen op bezwaarschriften, het instellen van beroep, hoger beroep en voorlopige voorzieningen procedures.
+Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=1&z=2019-04-17&g=2019-04-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=2&z=2019-04-17&g=2019-04-17), waaronder het nemen van beslissingen op bezwaarschriften, het instellen van beroep, hoger beroep en voorlopige voorzieningen procedures.
 
 ##### Artikel 4
 
@@ -82,13 +82,13 @@ Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economisch
 
 ##### Artikel 5
 
-1. De secretaris-generaal kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=1&z=2019-04-17&g=2019-01-01) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de directeur Transitie en aansturing bedrijfsvoering.
+1. De secretaris-generaal kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=1&z=2019-04-17&g=2019-04-17) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de directeur Transitie en aansturing bedrijfsvoering.
 
-2. De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=3&z=2019-04-17&g=2019-01-01) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende medewerkers.
+2. De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=3&z=2019-04-17&g=2019-04-17) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende medewerkers.
 
-3. De directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat kan voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=4&z=2019-04-17&g=2019-01-01) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende medewerkers.
+3. De directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat kan voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=4&z=2019-04-17&g=2019-04-17) genoemde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende medewerkers.
 
-4. De ondermandaatbesluiten van de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat zijn van overeenkomstige toepassing op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=3&z=2019-04-17&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=4&z=2019-04-17&g=2019-01-01) genoemde aangelegenheden die worden verricht voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+4. De ondermandaatbesluiten van de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat zijn van overeenkomstige toepassing op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=3&z=2019-04-17&g=2019-04-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042117&artikel=4&z=2019-04-17&g=2019-04-17) genoemde aangelegenheden die worden verricht voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 5. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
