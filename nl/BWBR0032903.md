@@ -4,7 +4,7 @@ identifier: "BWBR0032903"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-18"
-last_updated: "2017-03-10"
+last_updated: "2019-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032903"
 soort: "AMvB"
@@ -54,7 +54,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **eidas-verordening:** verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257);
 
-- **wet:** de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203).
+- **Europese lijst van syntaxen:** lijst van syntaxen waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+
+- **Europese norm voor elektronische facturering:** Europese norm als bedoeld in artikel 2, eerste lid, onderdeel b, van verordening (EU) nr. 1025/2012 voor elektronische facturering waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+
+- **syntax:** machineleesbare taal of taalvariant die wordt gebruikt om de in een elektronische factuur vervatte gegevenselementen weer te geven;
+
+- **verordening (EU) nr. 1025/2012:** Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de [Richtlijnen 89/686/EEG](31989L0686) en [93/15/EEG](31993L0015) van de Raad alsmede de Richtlijnen [94/4/EG](31994L0004), [94/25/EG](31994L0025), [95/16/EG](31995L0016), [97/23/EG](31997L0023), [98/34/EG](31998L0034), [2004/22/EG](32004L0022), [2007/23/EG](32007L0023), [2009/23/EG](32009L0023) en [2009/105/EG](32009L0105) van het Europees Parlement en de Raad en tot intrekking van Beschikking [87/95/EEG](31987L0095) van de Raad en Besluit nr. [1673/2006/EG](33573L2006) van het Europees Parlement en de Raad (PbEU 2012, L 316);
+
+- **wet:** [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
 
 ### Hoofdstuk 2. Eigen verklaring
 
@@ -78,7 +86,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ##### Artikel 3
 
-1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de inschrijvers en gegadigden mede of de mededelingen en uitwisselingen van informatie worden gedaan door middel van de post of de fax, langs elektronische weg overeenkomstig het vijfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2017-03-10&g=2017-03-10), per telefoon, of door middel van een combinatie van deze middelen, tenzij het een bericht betreft waarvoor in de wet de wijze van verzending is voorgeschreven.
+1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de inschrijvers en gegadigden mede of de mededelingen en uitwisselingen van informatie worden gedaan door middel van de post of de fax, langs elektronische weg overeenkomstig het vijfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2019-04-18&g=2019-04-18), per telefoon, of door middel van een combinatie van deze middelen, tenzij het een bericht betreft waarvoor in de wet de wijze van verzending is voorgeschreven.
 
 2. Een aanbestedende dienst of speciale-sectorbedrijf maakt gebruik van communicatiemiddelen die algemeen beschikbaar zijn en waardoor de toegang van de ondernemers tot de aanbestedingsprocedure niet wordt beperkt.
 
@@ -124,7 +132,13 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ##### Artikel 6
 
-Vervallen
+1. Aanbestedende diensten en speciale-sectorbedrijven ontvangen en verwerken elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032898) van toepassing is en die voldoen aan de Europese norm voor elektronische facturering en aan syntaxen die zijn opgenomen in de Europese lijst van syntaxen.
+
+2. Het eerste lid is niet van toepassing op elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarvan het plaatsen van de opdracht en het uitvoeren van de overeenkomst geheim zijn verklaard of overeenkomstig de geldende wettelijke en bestuursrechtelijke bepalingen met speciale veiligheidsmaatregelen gepaard moet gaan en mits de lidstaat heeft bepaald dat de betrokken wezenlijke belangen niet met minder ingrijpende maatregelen kunnen worden gewaarborgd.
+
+3. Een actualisatie of herziening van de Europese norm voor elektronische facturering of de Europese lijst van syntaxen als bedoeld in artikel 5 van [richtlijn 2014/55](32014L0055)/EU gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken actualisatie of herziening uitvoering moet zijn gegeven.
+
+4. Onze Minister doet mededeling in de Staatscourant van een actualisatie of herziening als bedoeld in het derde lid.
 
 ### Hoofdstuk 4. Slotbepalingen
 
