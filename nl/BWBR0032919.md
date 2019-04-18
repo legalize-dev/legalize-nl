@@ -4,7 +4,7 @@ identifier: "BWBR0032919"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2017-03-10"
+last_updated: "2019-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032919"
 soort: "AMvB"
@@ -56,7 +56,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **elektronische handtekening:** elektronische handtekening als bedoeld in artikel 3, onderdeel 10, van de eidas-verordening;
 
+- **Europese lijst van syntaxen:** lijst van syntaxen waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+
+- **Europese norm voor elektronische facturering:** Europese norm als bedoeld in artikel 2, eerste lid, onderdeel b, van verordening (EU) nr. 1025/2012 voor elektronische facturering waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+
 - **geavanceerde elektronische handtekening:** elektronische handtekening als bedoeld in artikel 3, onderdeel 11, van de eidas-verordening;
+
+- **syntax:** machineleesbare taal of taalvariant die wordt gebruikt om de in een elektronische factuur vervatte gegevenselementen weer te geven;
+
+- **verordening (EU) nr. 1025/2012:** Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de [Richtlijnen 89/686/EEG](31989L0686) en [93/15/EEG](31993L0015) van de Raad alsmede de Richtlijnen [94/4/EG](31994L0004), [94/25/EG](31994L0025), [95/16/EG](31995L0016), [97/23/EG](31997L0023), [98/34/EG](31998L0034), [2004/22/EG](32004L0022), [2007/23/EG](32007L0023), [2009/23/EG](32009L0023) en [2009/105/EG](32009L0105) van het Europees Parlement en de Raad en tot intrekking van Beschikking [87/95/EEG](31987L0095) van de Raad en Besluit nr. [1673/2006/EG](33573L2006) van het Europees Parlement en de Raad (PbEU 2012, L 316);
 
 - **wet:** de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203).
 
@@ -142,7 +150,11 @@ Vervallen
 
 ##### Artikel 6
 
-Vervallen
+1. Aanbestedende diensten en speciale-sectorbedrijven ontvangen en verwerken elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarop [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2), [deel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=2a) of [deel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&deel=3) van toepassing is en die voldoen aan de Europese norm voor elektronische facturering en aan syntaxen die zijn opgenomen in de Europese lijst van syntaxen.
+
+2. Een actualisatie of herziening van de Europese norm voor elektronische facturering of de Europese lijst van syntaxen als bedoeld in artikel 5 van [richtlijn 2014/55](32014L0055)/EU gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken actualisatie of herziening uitvoering moet zijn gegeven.
+
+3. Onze Minister doet mededeling in de Staatscourant van een actualisatie of herziening als bedoeld in het tweede lid.
 
 ##### Artikel 7
 
@@ -216,7 +228,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2017-03-10&g=2017-03-10), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
+1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2019-04-18&g=2019-04-18), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf biedt een passend alternatief toegangsmiddel aan in een geval waarin zij:
 
