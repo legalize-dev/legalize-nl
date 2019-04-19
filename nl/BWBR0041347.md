@@ -4,7 +4,7 @@ identifier: "BWBR0041347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-12"
-last_updated: "2019-03-01"
+last_updated: "2019-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041347"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister van Infrastructuur en Waterstaat;
 
-- **project:** experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2019-04-19&g=2019-03-01) voldoet;
+- **project:** experimenteel ontwikkelingsproject, haalbaarheidsproject gericht op experimentele ontwikkeling, haalbaarheidsproject gericht op industrieel onderzoek, industrieel onderzoeksproject, innovatiecluster- exploitatieproject of innovatiecluster- investeringsproject dat aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=2&z=2019-04-19&g=2019-04-19) voldoet;
 
 - **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -96,7 +96,7 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 - a. € 1.250.000,– in 2018;
 
-- b. € 200.000,– in 2019.
+- b. € 1.000.000,– in 2019.
 
 ##### Artikel 6. Subsidiemaximum en subsidiabele kosten
 
@@ -144,7 +144,9 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 - 4°. huurkosten van machines en apparatuur naar rato van het gebruik voor het project gedurende de projectperiode;
 
-- 5°. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten.4. Indien geen loonkosten als bedoeld in het tweede lid, onderdeel b, subonderdeel 1°, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,–. Het bepaalde in subonderdeel 2°, is op dit tarief niet van toepassing.
+- 5°. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten. Indien geen loonkosten als bedoeld in het tweede lid, onderdeel b, subonderdeel 1°, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,–.
+
+5. Indien geen loonkosten als bedoeld in het tweede lid, onderdeel b, subonderdeel 1°, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,–. Het bepaalde in subonderdeel 2°, is op dit tarief niet van toepassing.
 
 ##### Artikel 7. Cumulatie
 
@@ -164,9 +166,9 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 2. De aanvraag voor 2018 wordt uiterlijk 1 november 2018 ingediend bij de uitvoeringsinstantie.
 
-3. De aanvraag voor 2019 wordt uiterlijk 1 maart 2019 ingediend bij de uitvoeringsinstantie.
+3. De aanvraag voor 2019 wordt uiterlijk 1 augustus 2019 ingediend bij de uitvoeringsinstantie.
 
-4. De aanvraag bevat de in [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens en wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&bijlage=1&z=2019-04-19&g=2019-03-01) van deze subsidieregeling.
+4. De aanvraag bevat de in [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens en wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&bijlage=1&z=2019-04-19&g=2019-04-19) van deze subsidieregeling.
 
 ##### Artikel 11. Subsidieverstrekking en -vaststelling
 
@@ -190,7 +192,7 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019.
 
-## Bijlage 1. als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=9&z=2019-04-19&g=2019-03-01), van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
+## Bijlage 1. als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&artikel=9&z=2019-04-19&g=2019-04-19), van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
 
 ### Aanvraagformulier Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018
 
