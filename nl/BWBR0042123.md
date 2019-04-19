@@ -4,7 +4,7 @@ identifier: "BWBR0042123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-19"
-last_updated: "2018-10-15"
+last_updated: "2019-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042123"
 soort: "ministeriele-regeling"
@@ -87,9 +87,9 @@ De Inspecteur-Generaal wijst inspecteurs aan, belast met toezichtactiviteiten en
 
 ##### Artikel 6
 
-De Inspecteur-Generaal en de door hem als inspecteur aangewezen ambtenaren hebben in het kader van hun taak en op vertoon van hun in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=5&z=2019-04-19&g=2018-10-15) genoemde legitimatiebewijs onbelemmerd toegang tot alle locaties in beheer bij het Ministerie van Defensie. Zij zijn in het kader van hun taak bevoegd om:
+De Inspecteur-Generaal en de door hem als inspecteur aangewezen ambtenaren hebben in het kader van hun taak en op vertoon van hun in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=5&z=2019-04-19&g=2019-04-19) genoemde legitimatiebewijs onbelemmerd toegang tot alle locaties in beheer bij het Ministerie van Defensie. Zij zijn in het kader van hun taak bevoegd om:
 
-- a. inlichtingen en inzage in gegevens en bescheiden te vorderen en daarvan kopieën te maken, voor zover nodig in het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=2&z=2019-04-19&g=2018-10-15) genoemde taken;
+- a. inlichtingen en inzage in gegevens en bescheiden te vorderen en daarvan kopieën te maken, voor zover nodig in het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=2&z=2019-04-19&g=2019-04-19) genoemde taken;
 
 - b. te vorderen dat bij het voorval betrokken materieel ter beschikking van de inspectie blijft voor de duur van het onderzoek of zolang als de inspectie dit noodzakelijk acht;
 
@@ -139,7 +139,7 @@ De Minister stelt de inspectie in een vroegtijdig stadium in de gelegenheid een 
 
 2. Tevens kan de Inspecteur-Generaal andere inspectiediensten binnen het Rijk verzoeken om medewerking en personele ondersteuning. De Inspecteur-Generaal behoudt in die gevallen de leiding van het onderzoek.
 
-3. In gevallen waarin de Onderzoeksraad voor Veiligheid een onderzoek instelt naar een voorval als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=2&z=2019-04-19&g=2018-10-15), doet de Inspecteur-Generaal, indien hij onderzoek instelt naar dit zelfde voorval, voorafgaand aan zijn onderzoek hiervan mededeling aan de voorzitter van de onderzoeksraad.
+3. In gevallen waarin de Onderzoeksraad voor Veiligheid een onderzoek instelt naar een voorval als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=2&z=2019-04-19&g=2019-04-19), doet de Inspecteur-Generaal, indien hij onderzoek instelt naar dit zelfde voorval, voorafgaand aan zijn onderzoek hiervan mededeling aan de voorzitter van de onderzoeksraad.
 
 4. In geval van een onderzoek naar een voorval waarbij tevens sprake is van betrokkenheid van materieel, personeel of voorzieningen van één of meer andere staten, aangesloten bij de Noord-Atlantische Verdragsorganisatie, stelt de inspectie vertegenwoordigers van die staat of staten in de gelegenheid aan het onderzoek deel te nemen.
 
@@ -161,7 +161,7 @@ Indien bij de uitoefening van hun taken medewerkers van de inspectie de beschikk
 
 ##### Artikel 13
 
-Onverminderd het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=12&z=2019-04-19&g=2018-10-15) informeert de Inspecteur-Generaal zo nodig de beleidsinhoudelijk verantwoordelijke ministers rechtstreeks over zijn bevindingen, oordelen, adviezen en andere relevante gegevens.
+Onverminderd het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042123&artikel=12&z=2019-04-19&g=2019-04-19) informeert de Inspecteur-Generaal zo nodig de beleidsinhoudelijk verantwoordelijke ministers rechtstreeks over zijn bevindingen, oordelen, adviezen en andere relevante gegevens.
 
 ##### Artikel 14
 
