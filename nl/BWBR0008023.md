@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2019-04-01"
+last_updated: "2019-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2019-04-01&g=2019-04-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2019-04-20&g=2019-04-20) van de Regeling maximumprijzen geneesmiddelen
 
 | Productgroep |   | Maximumprijs |
 | --- | --- | --- |
@@ -4673,7 +4673,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 22303 | Fluorouracil sandoz infvlst conc 50mg/ml fl 20ml |   |
 | 22303 | Fluorouracil sandoz infvlst conc 50mg/ml fl 100ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUOXETINE-20-MG-BRUISTABLET | FLUOXETINE-20-MG-BRUISTABLET | 0.33418000 per stuk |
+| FLUOXETINE-20-MG-BRUISTABLET | FLUOXETINE-20-MG-BRUISTABLET | 0,34607100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 122876//19429 | Prozac disp tablet 20mg |   |
 | 19429 | Prozac disp tablet 20mg |   |
@@ -7226,7 +7226,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/09/529/003 | Victoza injvlst 6mg/ml wwsp 3ml |   |
 | EU/1/15/992/003 | Saxenda injvlst 6mg/ml pen 3ml |   |
 | Productgroep |   | Maximumprijs |
-| LISINOPRIL-10-MG-TABLET | LISINOPRIL-10-MG-TABLET | 0.10580000 per stuk |
+| LISINOPRIL-10-MG-TABLET | LISINOPRIL-10-MG-TABLET | 0,11033300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12561 | Zestril tablet 10mg |   |
 | 26332 | Lisinopril teva tablet 10mg |   |
@@ -7866,7 +7866,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 12149 | Selokeen zoc 100 tablet mga 95mg |   |
 | 32378 | Metoprololsuccinaat sandoz ret 100 tabl mga 95mg |   |
 | Productgroep |   | Maximumprijs |
-| METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.18600000 per stuk |
+| METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0,19033300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12150 | Selokeen zoc 200 tablet mga 190mg |   |
 | 16553 | Metoprololtartraat cf retard tablet mga 200mg |   |
@@ -8719,7 +8719,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/05/319/005 | Xolair 75 injectievloeistof 150mg/ml wwsp 0,5ml |   |
 | EU/1/05/319/008 | Xolair 150 injectievloeistof 150mg/ml wwsp 1ml |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | 0.24966700 per stuk |
+| OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | 0,25035700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104959 | Omeprazol sandoz mut tablet msr 10mg |   |
 | 119908//21683 | Losec mups tablet msr 10mg |   |
@@ -11662,7 +11662,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 113358//25837 | Topamax sprinkle capsule 25mg |   |
 | 25837 | Topamax sprinkle capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-25-MG-TABLET | TOPIRAMATE-25-MG-TABLET | 0.15254100 per stuk |
+| TOPIRAMATE-25-MG-TABLET | TOPIRAMATE-25-MG-TABLET | 0,15816700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101527 | Topiramaat pch tablet filmomhuld 25mg |   |
 | 119269//24165 | Topamax tablet omhuld 25mg |   |
