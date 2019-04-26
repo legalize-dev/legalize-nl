@@ -4,7 +4,7 @@ identifier: "BWBR0040102"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-20"
-last_updated: "2017-10-26"
+last_updated: "2019-04-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040102"
 soort: "AMvB"
@@ -62,17 +62,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1
 
-In het jaar 2015 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=1&z=2017-10-26&g=2017-10-26) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2015 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=1&z=2019-04-26&g=2019-04-26) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
 ##### Artikel 2
 
-In het jaar 2015 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=2&z=2017-10-26&g=2017-10-26) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2015 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=2&z=2019-04-26&g=2019-04-26) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
 ##### Artikel 3
 
-In het jaar 2015 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=3&z=2017-10-26&g=2017-10-26) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
+In het jaar 2015 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=3&z=2019-04-26&g=2019-04-26) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
 #### § 3. Wijziging van het [Besluit decentralisatie- en integratie-uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0027383)
 
@@ -2231,21 +2231,21 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2017-10-26&g=2017-10-26) werken terug tot en met 1 januari 2015.
+2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2019-04-26&g=2019-04-26) werken terug tot en met 1 januari 2015.
 
-3. [Artikel 4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2017-10-26&g=2017-10-26), werkt terug tot en met 1 januari 2012.
+3. [Artikel 4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2019-04-26&g=2019-04-26), werkt terug tot en met 1 januari 2012.
 
-4. [Artikel 4, onderdelen C, D, E en K](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2017-10-26&g=2017-10-26), werken terug tot en met 1 januari 2013.
+4. [Artikel 4, onderdelen C, D, E en K](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2019-04-26&g=2019-04-26), werken terug tot en met 1 januari 2013.
 
-5. [Artikel 4, onderdelen F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2017-10-26&g=2017-10-26), werken terug tot en met 1 januari 2014.
+5. [Artikel 4, onderdelen F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2019-04-26&g=2019-04-26), werken terug tot en met 1 januari 2014.
 
-6. [Artikel 4, onderdelen A en J](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2017-10-26&g=2017-10-26), werken terug tot en met 1 januari 2015.
+6. [Artikel 4, onderdelen A en J](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2019-04-26&g=2019-04-26), werken terug tot en met 1 januari 2015.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2017-10-26&g=2017-10-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=1&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 | **Gemeente** | **Uitkering 2015** |
 | --- | --- |
@@ -3490,15 +3490,15 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 
 | **Gemeente** | **Uitkering 2015** |
 | --- | --- |
-| Amsterdam | € 325.000 |
+| Amsterdam | € 175.000 |
 | Breda | € 10.000 |
 | Goes | € 10.000 |
 | Hengelo O | € 10.000 |
 | Lelystad | € 10.000 |
 | Maastricht | € 10.000 |
-| Rotterdam | € 25.000 |
-| ’s-Gravenhage | € 25.000 |
-| Utrecht | € 25.000 |
+| Rotterdam | € 75.000 |
+| ’s-Gravenhage | € 75.000 |
+| Utrecht | € 75.000 |
 | Venlo | € 10.000 |
 | Vlissingen | € 10.000 |
 | Zaanstad | € 10.000 |
@@ -4106,7 +4106,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | ’s-Gravenhage | € 150.000 |
 | **Totaal** | **€ 150.000** |
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=2&z=2017-10-26&g=2017-10-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=1&artikel=2&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 | **Provincie** | **Uitkering 2015** |
 | --- | --- |
@@ -4372,7 +4372,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | Zuid-Holland | € 179.941 |
 | **Totaal** | **€ 1.200.000** |
 
-## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=2&artikel=3&z=2017-10-26&g=2017-10-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
+## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=2&artikel=3&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 ### Bijlage 27j, genoemd in artikel 27. Uitvoering Wet maatschappelijke ondersteuning
 
