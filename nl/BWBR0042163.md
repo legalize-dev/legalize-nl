@@ -4,7 +4,7 @@ identifier: "BWBR0042163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-30"
-last_updated: "2017-01-01"
+last_updated: "2019-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042163"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Indien voor een maatstaf gegevens aan de topografische kaart worden ontleend, wo
 
 #### Paragraaf 2. Maatstaven provinciefonds
 
-#### Paragraaf 3. Maatstaven gemeentefonds
+#### Paragraaf 2. Maatstaven provinciefonds
 
 ##### Artikel 8
 
@@ -74,7 +74,7 @@ Voor het gewogen gemiddelde aandeel van de verschillende grondsoorten, bedoeld i
 
 ##### Artikel 9
 
-De aandelen van de gemeenten in de tegemoetkoming, bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18), worden vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=1&z=2019-04-30&g=2017-01-01) bij deze regeling.
+De aandelen van de gemeenten in de tegemoetkoming, bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18), worden vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=1&z=2019-04-30&g=2019-04-30) bij deze regeling.
 
 ##### Artikel 10
 
@@ -110,7 +110,7 @@ waarbij Ak de aantrekkingskracht weergeeft, I het gecorrigeerde aantal inwoners 
 
 ##### Artikel 12
 
-Voor de berekening van het aantal potentiële regionale klanten van een woonkern, bedoeld in maatstaf 14 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=11&z=2019-04-30&g=2017-01-01) van overeenkomstige toepassing, met dien verstande dat:
+Voor de berekening van het aantal potentiële regionale klanten van een woonkern, bedoeld in maatstaf 14 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=11&z=2019-04-30&g=2019-04-30) van overeenkomstige toepassing, met dien verstande dat:
 
 - 1. voor ‘20 kilometer’ wordt gelezen ‘60 kilometer’.
 
@@ -170,11 +170,11 @@ Indien de gemiddelde hoogwaterlijn van een gemeente per topografische kaart ster
 
 ##### Artikel 19
 
-Het aantal hectaren historische kernen, bedoeld in maatstaf 27 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), en het aantal meters historische waterweg, bedoeld in maatstaf 28 van bijlage 2 bij het besluit, wordt vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2017-01-01) bij deze regeling.
+Het aantal hectaren historische kernen, bedoeld in maatstaf 27 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), en het aantal meters historische waterweg, bedoeld in maatstaf 28 van bijlage 2 bij het besluit, wordt vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2019-04-30) bij deze regeling.
 
 ##### Artikel 20
 
-De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden, bedoeld in de maatstaven 29 en 30 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), wordt vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=3&z=2019-04-30&g=2017-01-01) bij deze regeling.
+De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden, bedoeld in de maatstaven 29 en 30 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), wordt vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=3&z=2019-04-30&g=2019-04-30) bij deze regeling.
 
 ##### Artkel 21
 
@@ -196,11 +196,15 @@ De [Regeling meet- en rekenregels verdeelmaatstaven provinciefonds en gemeentefo
 
 ##### Artikel 24
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. [Paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=1&z=2019-04-30&g=2019-04-30), [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&z=2019-04-30&g=2019-04-30), [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=4&artikel=22&z=2019-04-30&g=2019-04-30) en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=1&z=2019-04-30&g=2019-04-30), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2019-04-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2019-04-30) werken terug tot en met 1 januari 2016.
+
+3. [Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=2&z=2019-04-30&g=2019-04-30) en [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=4&artikel=23&z=2019-04-30&g=2019-04-30) werken terug tot en met 1 januari 2017.
 
 ##### Artikel 25
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds.
 
 ## Bijlage 1. Maatstaf Investeringsbudget Stedelijke Vernieuwing (ISV) (bijlage bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=9&z=2019-04-30&g=2016-01-01) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
 
@@ -1594,7 +1598,405 @@ Het aantal inwoners landelijk gebied, bedoeld in maatstaf 9 van [bijlage 1 bij h
 | Zwijndrecht | 0,000374533 | 0,002142928 |
 | Zwolle | 0,005786191 | 0,007038150 |
 
-## Bijlage 2. De historische kernen en het historische water (bijlage bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=19&z=2019-04-30&g=2017-01-01) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
+## Bijlage 1. Maatstaf Investeringsbudget Stedelijke Vernieuwing (ISV) (bijlage bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=9&z=2019-04-30&g=2019-04-30) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
+
+| Gemeente per 1-1-2016 | Maatstaf ISV | Maatstaf ISV |
+| --- | --- | --- |
+|   | Vanaf 2016 | Vanaf 2016 |
+|   | ISV (a) | ISV (b) |
+|   | stadsvernieuwing | herstructurering |
+| Aa en Hunze | 0,000720063 | 0,000180125 |
+| Aalburg | 0,000097768 | 0,000032773 |
+| Aalsmeer | 0,000222553 | 0,000125499 |
+| Aalten | 0,000648353 | 0,000198341 |
+| Achtkarspelen | 0,000727425 | 0,000324515 |
+| Alblasserdam | 0,000212132 | 0,000587444 |
+| Albrandswaard | 0,000069414 | 0,000187360 |
+| Alkmaar | 0,005915748 | 0,006691647 |
+| Almelo | 0,004393678 | 0,006510569 |
+| Almere | 0,000000000 | 0,000260088 |
+| Alphen aan den Rijn | 0,001119960 | 0,002371161 |
+| Alphen-Chaam | 0,000072245 | 0,000027604 |
+| Ameland | 0,000241883 | 0,000024517 |
+| Amersfoort | 0,003205409 | 0,004501294 |
+| Amstelveen | 0,000715569 | 0,003213704 |
+| Amsterdam | 0,211339828 | 0,140531959 |
+| Apeldoorn | 0,003582399 | 0,004782473 |
+| Appingedam | 0,000901217 | 0,001089753 |
+| Arnhem | 0,016613726 | 0,020141675 |
+| Assen | 0,001164566 | 0,003104489 |
+| Asten | 0,000122176 | 0,000075828 |
+| Baarle-Nassau | 0,000097893 | 0,000031458 |
+| Baarn | 0,000539313 | 0,000388629 |
+| Barendrecht | 0,000107892 | 0,000145402 |
+| Barneveld | 0,000405593 | 0,000198170 |
+| Bedum | 0,000488208 | 0,000179573 |
+| Beek | 0,000392440 | 0,000515333 |
+| Beemster | 0,000175750 | 0,000041353 |
+| Beesel | 0,000245151 | 0,000135447 |
+| Bellingwedde | 0,000813447 | 0,000133462 |
+| Berg en Dal | 0,000385129 | 0,000269329 |
+| Bergeijk | 0,000126280 | 0,000062058 |
+| Bergen L | 0,000192966 | 0,000129309 |
+| Bergen NH | 0,000614427 | 0,000363477 |
+| Bergen op Zoom | 0,001541239 | 0,001714713 |
+| Berkelland | 0,000794704 | 0,000269938 |
+| Bernheze | 0,000139025 | 0,000092204 |
+| Best | 0,000076762 | 0,000215054 |
+| Beuningen | 0,000141142 | 0,000086934 |
+| Beverwijk | 0,001089345 | 0,001974339 |
+| Binnenmaas | 0,000347104 | 0,000237159 |
+| Bladel | 0,000109221 | 0,000079597 |
+| Blaricum | 0,000112701 | 0,000051777 |
+| Bloemendaal | 0,000464624 | 0,000153929 |
+| Bodegraven-Reeuwijk | 0,000385923 | 0,000236700 |
+| Boekel | 0,000053584 | 0,000027067 |
+| Borger-Odoorn | 0,000834062 | 0,000250331 |
+| Borne | 0,000321571 | 0,000169671 |
+| Borsele | 0,000657707 | 0,000203131 |
+| Boxmeer | 0,000239181 | 0,000138631 |
+| Boxtel | 0,000361020 | 0,000391364 |
+| Breda | 0,005660131 | 0,007361253 |
+| Brielle | 0,000347867 | 0,000150634 |
+| Bronckhorst | 0,000680644 | 0,000156943 |
+| Brummen | 0,000357963 | 0,000111223 |
+| Brunssum | 0,001477587 | 0,002226761 |
+| Bunnik | 0,000045543 | 0,000046033 |
+| Bunschoten | 0,000075710 | 0,000044686 |
+| Buren | 0,000377073 | 0,000082724 |
+| Capelle aan den IJssel | 0,000251812 | 0,003132810 |
+| Castricum | 0,000269113 | 0,000225453 |
+| Coevorden | 0,001014834 | 0,000542570 |
+| Cranendonck | 0,000161375 | 0,000104024 |
+| Cromstrijen | 0,000181879 | 0,000078555 |
+| Cuijk | 0,000169141 | 0,000194110 |
+| Culemborg | 0,000432459 | 0,000397497 |
+| Dalfsen | 0,000361667 | 0,000135525 |
+| Dantumadiel | 0,000624789 | 0,000184948 |
+| De Bilt | 0,000588288 | 0,000808944 |
+| De Fryske Marren | 0,001789657 | 0,000537336 |
+| De Marne | 0,001079966 | 0,000205766 |
+| De Ronde Venen | 0,000226416 | 0,000169680 |
+| De Wolden | 0,000662551 | 0,000152104 |
+| Delft | 0,006998074 | 0,009539340 |
+| Delfzijl | 0,001546952 | 0,001963059 |
+| Den Helder | 0,001566914 | 0,002496490 |
+| Deurne | 0,000233100 | 0,000151934 |
+| Deventer | 0,005569131 | 0,006747480 |
+| Diemen | 0,000103104 | 0,000580701 |
+| Dinkelland | 0,000284380 | 0,000146774 |
+| Doesburg | 0,000311462 | 0,000187267 |
+| Doetinchem | 0,000753153 | 0,001098312 |
+| Dongen | 0,000252466 | 0,000201939 |
+| Dongeradeel | 0,001612333 | 0,000421287 |
+| Dordrecht | 0,012629937 | 0,015432448 |
+| Drechterland | 0,000170642 | 0,000055639 |
+| Drimmelen | 0,000252314 | 0,000109680 |
+| Dronten | 0,000000000 | 0,000180539 |
+| Druten | 0,000155963 | 0,000082059 |
+| Duiven | 0,000066382 | 0,000049980 |
+| Echt-Susteren | 0,000769290 | 0,000448133 |
+| Edam-Volendam | 0,000374189 | 0,000152849 |
+| Ede | 0,001106171 | 0,001896316 |
+| Eemnes | 0,000034081 | 0,000015819 |
+| Eemsmond | 0,001514889 | 0,000288879 |
+| Eersel | 0,000094083 | 0,000056078 |
+| Eijsden-Margraten | 0,000660934 | 0,000208381 |
+| Eindhoven | 0,009543371 | 0,015647070 |
+| Elburg | 0,000338237 | 0,000112794 |
+| Emmen | 0,003316802 | 0,003415297 |
+| Enkhuizen | 0,000845857 | 0,000270256 |
+| Enschede | 0,010740938 | 0,018027844 |
+| Epe | 0,000544745 | 0,000388252 |
+| Ermelo | 0,000227306 | 0,000170265 |
+| Etten-Leur | 0,000168302 | 0,000228271 |
+| Ferwerderadiel | 0,000531951 | 0,000078041 |
+| Franekeradeel | 0,001535997 | 0,000370905 |
+| Geertruidenberg | 0,000300823 | 0,000162822 |
+| Geldermalsen | 0,000348843 | 0,000108716 |
+| Geldrop-Mierlo | 0,000289596 | 0,000552081 |
+| Gemert-Bakel | 0,000226079 | 0,000118987 |
+| Gennep | 0,000302600 | 0,000245649 |
+| Giessenlanden | 0,000150777 | 0,000072859 |
+| Gilze en Rijen | 0,000198715 | 0,000115251 |
+| Goeree-Overflakkee | 0,001100306 | 0,000338997 |
+| Goes | 0,001723544 | 0,001845454 |
+| Goirle | 0,000116285 | 0,000100254 |
+| Gooise Meren | 0,001912084 | 0,001170002 |
+| Gorinchem | 0,001142520 | 0,002256041 |
+| Gouda | 0,002767439 | 0,002890717 |
+| Grave | 0,000154979 | 0,000081524 |
+| Groningen | 0,042077968 | 0,050673797 |
+| Grootegast | 0,000465410 | 0,000092924 |
+| Gulpen-Wittem | 0,000571905 | 0,000184925 |
+| Haaksbergen | 0,000338042 | 0,000245240 |
+| Haaren | 0,000113755 | 0,000038545 |
+| Haarlem | 0,020210842 | 0,012515850 |
+| Haarlemmerliede en Spaarnwoude | 0,000064271 | 0,000052156 |
+| Haarlemmermeer | 0,000642470 | 0,000731235 |
+| Halderberge | 0,000296501 | 0,000168970 |
+| Hardenberg | 0,001019977 | 0,000516332 |
+| Harderwijk | 0,000424198 | 0,000569647 |
+| Hardinxveld-Giessendam | 0,000322488 | 0,000246567 |
+| Haren | 0,000837768 | 0,000592754 |
+| Harlingen | 0,001659235 | 0,000730008 |
+| Hattem | 0,000259323 | 0,000118373 |
+| Heemskerk | 0,000088506 | 0,001029331 |
+| Heemstede | 0,000736768 | 0,000317762 |
+| Heerde | 0,000313064 | 0,000107690 |
+| Heerenveen | 0,002049850 | 0,001658480 |
+| Heerhugowaard | 0,000143218 | 0,000190291 |
+| Heerlen | 0,009276664 | 0,018246697 |
+| Heeze-Leende | 0,000099849 | 0,000050761 |
+| Heiloo | 0,000229972 | 0,000146411 |
+| Hellendoorn | 0,000638901 | 0,000271890 |
+| Hellevoetsluis | 0,000290615 | 0,000411578 |
+| Helmond | 0,001211785 | 0,001999514 |
+| Hendrik-Ido-Ambacht | 0,000087234 | 0,000268715 |
+| Hengelo | 0,004488334 | 0,007109521 |
+| Het Bildt | 0,000650292 | 0,000101690 |
+| Heumen | 0,000087251 | 0,000044721 |
+| Heusden | 0,000379641 | 0,000202820 |
+| Hillegom | 0,000478849 | 0,000379163 |
+| Hilvarenbeek | 0,000125099 | 0,000041677 |
+| Hilversum | 0,004610702 | 0,003890148 |
+| Hof van Twente | 0,000775733 | 0,000333830 |
+| Hollands Kroon | 0,000569079 | 0,000233618 |
+| Hoogeveen | 0,000980674 | 0,001751443 |
+| Hoogezand-Sappemeer | 0,002166327 | 0,002946510 |
+| Hoorn | 0,001072820 | 0,000900265 |
+| Horst aan de Maas | 0,000500997 | 0,000290540 |
+| Houten | 0,000074673 | 0,000029285 |
+| Huizen | 0,000367773 | 0,000227016 |
+| Hulst | 0,001272037 | 0,000339271 |
+| IJsselstein | 0,000129636 | 0,000348844 |
+| Kaag en Braassem | 0,000172021 | 0,000110513 |
+| Kampen | 0,002556683 | 0,002163202 |
+| Kapelle | 0,000280527 | 0,000088934 |
+| Katwijk | 0,000800055 | 0,001928201 |
+| Kerkrade | 0,003016567 | 0,004743351 |
+| Koggenland | 0,000179027 | 0,000059730 |
+| Kollumerland en Nieuwkruisland | 0,000509209 | 0,000146398 |
+| Korendijk | 0,000141296 | 0,000044226 |
+| Krimpen aan den IJssel | 0,000205242 | 0,000620732 |
+| Krimpenerwaard | 0,001099844 | 0,000648700 |
+| Laarbeek | 0,000167570 | 0,000085953 |
+| Landerd | 0,000106744 | 0,000046297 |
+| Landgraaf | 0,001262243 | 0,001655636 |
+| Landsmeer | 0,000062770 | 0,000065521 |
+| Langedijk | 0,000251779 | 0,000094746 |
+| Lansingerland | 0,000167963 | 0,000150531 |
+| Laren | 0,000278484 | 0,000087148 |
+| Leek | 0,000575596 | 0,000227671 |
+| Leerdam | 0,000471032 | 0,000407279 |
+| Leeuwarden | 0,017678449 | 0,021719808 |
+| Leeuwarderadeel | 0,000228132 | 0,000059341 |
+| Leiden | 0,011120166 | 0,010416431 |
+| Leiderdorp | 0,000146037 | 0,000690471 |
+| Leidschendam-Voorburg | 0,003629217 | 0,006412912 |
+| Lelystad | 0,000016395 | 0,000818167 |
+| Leudal | 0,000585124 | 0,000262296 |
+| Leusden | 0,000067462 | 0,000066708 |
+| Lingewaal | 0,000150254 | 0,000051310 |
+| Lingewaard | 0,000256154 | 0,000240226 |
+| Lisse | 0,000296250 | 0,000425455 |
+| Littenseradiel | 0,000563784 | 0,000064249 |
+| Lochem | 0,000586225 | 0,000180632 |
+| Loon op Zand | 0,000193668 | 0,000116977 |
+| Lopik | 0,000095358 | 0,000024828 |
+| Loppersum | 0,000972933 | 0,000124117 |
+| Losser | 0,000350660 | 0,000222866 |
+| Maasdriel | 0,000239800 | 0,000103810 |
+| Maasgouw | 0,000577624 | 0,000226973 |
+| Maassluis | 0,000496862 | 0,002250578 |
+| Maastricht | 0,008721052 | 0,010494013 |
+| Marum | 0,000367667 | 0,000083695 |
+| Medemblik | 0,000598369 | 0,000158083 |
+| Meerssen | 0,000499462 | 0,000299142 |
+| Menameradiel | 0,000555257 | 0,000115028 |
+| Menterwolde | 0,000511794 | 0,000138852 |
+| Meppel | 0,001105413 | 0,001318653 |
+| Middelburg | 0,003897189 | 0,002364775 |
+| Midden-Drenthe | 0,000720216 | 0,000266429 |
+| Midden-Delfland | 0,000169980 | 0,000069238 |
+| Mill en Sint Hubert | 0,000111849 | 0,000044675 |
+| Moerdijk | 0,000481592 | 0,000194336 |
+| Molenwaard | 0,000356926 | 0,000102353 |
+| Montferland | 0,000440748 | 0,000236735 |
+| Montfoort | 0,000082126 | 0,000028126 |
+| Mook en Middelaar | 0,000042025 | 0,000059988 |
+| Neder-Betuwe | 0,000163664 | 0,000083810 |
+| Nederweert | 0,000195902 | 0,000101286 |
+| Neerijnen | 0,000180315 | 0,000042337 |
+| Nieuwegein | 0,000152911 | 0,000580199 |
+| Nieuwkoop | 0,000156211 | 0,000129013 |
+| Nijkerk | 0,000365294 | 0,000292116 |
+| Nijmegen | 0,011320648 | 0,014075006 |
+| Nissewaard | 0,000310354 | 0,002021770 |
+| Noord-Beveland | 0,000530192 | 0,000103369 |
+| Noordenveld | 0,000655228 | 0,000333660 |
+| Noordoostpolder | 0,000034314 | 0,000875901 |
+| Noordwijk | 0,000433729 | 0,000532399 |
+| Noordwijkerhout | 0,000196497 | 0,000164245 |
+| Nuenen c.a. | 0,000081249 | 0,000067951 |
+| Nunspeet | 0,000219574 | 0,000162865 |
+| Nuth | 0,000464241 | 0,000277248 |
+| Oegstgeest | 0,000258991 | 0,000343630 |
+| Oirschot | 0,000183255 | 0,000055822 |
+| Oisterwijk | 0,000237082 | 0,000136087 |
+| Oldambt | 0,003321686 | 0,001662234 |
+| Oldebroek | 0,000197823 | 0,000099682 |
+| Oldenzaal | 0,000639142 | 0,000760828 |
+| Olst-Wijhe | 0,000376353 | 0,000162230 |
+| Ommen | 0,000275067 | 0,000170062 |
+| Onderbanken | 0,000218320 | 0,000114094 |
+| Oost Gelre | 0,000366759 | 0,000167921 |
+| Oosterhout | 0,000402929 | 0,000842616 |
+| Ooststellingwerf | 0,000874270 | 0,000301920 |
+| Oostzaan | 0,000107664 | 0,000061732 |
+| Opmeer | 0,000106526 | 0,000037903 |
+| Opsterland | 0,000978593 | 0,000328583 |
+| Oss | 0,000736877 | 0,001037073 |
+| Oud-Beijerland | 0,000226672 | 0,000115675 |
+| Oude IJsselstreek | 0,000782567 | 0,000298989 |
+| Ouder-Amstel | 0,000139801 | 0,000235890 |
+| Oudewater | 0,000183189 | 0,000047943 |
+| Overbetuwe | 0,000316699 | 0,000211056 |
+| Papendrecht | 0,000107910 | 0,000634960 |
+| Peel en Maas | 0,000414444 | 0,000253005 |
+| Pekela | 0,000921818 | 0,000351580 |
+| Pijnacker-Nootdorp | 0,000173879 | 0,000201779 |
+| Purmerend | 0,000334615 | 0,001609871 |
+| Putten | 0,000236725 | 0,000125003 |
+| Raalte | 0,000422568 | 0,000224311 |
+| Reimerswaal | 0,000644470 | 0,000253528 |
+| Renkum | 0,000711169 | 0,000840664 |
+| Renswoude | 0,000023407 | 0,000007395 |
+| Reusel-De Mierden | 0,000080007 | 0,000041190 |
+| Rheden | 0,001308678 | 0,001044392 |
+| Rhenen | 0,000170556 | 0,000232999 |
+| Ridderkerk | 0,000721093 | 0,002511381 |
+| Rijnwaarden | 0,000173975 | 0,000060814 |
+| Rijssen-Holten | 0,000426606 | 0,000266956 |
+| Rijswijk | 0,002498930 | 0,007041121 |
+| Roerdalen | 0,000261706 | 0,000198238 |
+| Roermond | 0,002935696 | 0,003154253 |
+| Roosendaal | 0,001117552 | 0,001606383 |
+| Rotterdam | 0,176639105 | 0,187058286 |
+| Rozendaal | 0,000007513 | 0,000004241 |
+| Rucphen | 0,000146635 | 0,000107153 |
+| Schagen | 0,000460759 | 0,000180697 |
+| Scherpenzeel | 0,000078215 | 0,000035215 |
+| Schiedam | 0,013840837 | 0,019156579 |
+| Schiermonnikoog | 0,000132942 | 0,000018851 |
+| Schijndel | 0,000135798 | 0,000112122 |
+| Schinnen | 0,000290925 | 0,000128403 |
+| Schouwen-Duiveland | 0,002099431 | 0,000540600 |
+| 's-Gravenhage | 0,112852552 | 0,103920039 |
+| 's-Hertogenbosch | 0,003484332 | 0,005391031 |
+| Simpelveld | 0,000318182 | 0,000320734 |
+| Sint-Anthonis | 0,000109211 | 0,000041092 |
+| Sint-Michielsgestel | 0,000195210 | 0,000106859 |
+| Sint-Oedenrode | 0,000119788 | 0,000067674 |
+| Sittard-Geleen | 0,004452420 | 0,007412157 |
+| Sliedrecht | 0,000699311 | 0,001142985 |
+| Slochteren | 0,000803809 | 0,000119346 |
+| Sluis | 0,001305850 | 0,000579562 |
+| Smallingerland | 0,001342850 | 0,002346925 |
+| Soest | 0,000548983 | 0,000911447 |
+| Someren | 0,000124921 | 0,000070666 |
+| Son en Breugel | 0,000039898 | 0,000053607 |
+| Stadskanaal | 0,002190892 | 0,001600237 |
+| Staphorst | 0,000361418 | 0,000045343 |
+| Stede Broec | 0,000157169 | 0,000081998 |
+| Steenbergen | 0,000329561 | 0,000127284 |
+| Steenwijkerland | 0,001421810 | 0,000830776 |
+| Stein | 0,000566729 | 0,000629730 |
+| Stichtse Vecht | 0,000499292 | 0,000581786 |
+| Strijen | 0,000158209 | 0,000075306 |
+| Súdwest-Fryslân | 0,004940515 | 0,003150860 |
+| Ten Boer | 0,000303381 | 0,000056809 |
+| Terneuzen | 0,002600366 | 0,001723370 |
+| Terschelling | 0,000286456 | 0,000053303 |
+| Texel | 0,000402265 | 0,000092827 |
+| Teylingen | 0,000336957 | 0,000385055 |
+| Tholen | 0,000979331 | 0,000224778 |
+| Tiel | 0,000815964 | 0,000729842 |
+| Tilburg | 0,008600694 | 0,011799999 |
+| Tubbergen | 0,000132812 | 0,000064518 |
+| Twenterand | 0,000506266 | 0,000215927 |
+| Tynaarlo | 0,000698872 | 0,000302849 |
+| Tytsjerksteradiel | 0,000918969 | 0,000320879 |
+| Uden | 0,000191068 | 0,000351933 |
+| Uitgeest | 0,000076899 | 0,000056538 |
+| Uithoorn | 0,000058717 | 0,000351991 |
+| Urk | 0,000113870 | 0,000048016 |
+| Utrecht | 0,029825601 | 0,028403813 |
+| Utrechtse Heuvelrug | 0,000593208 | 0,000405653 |
+| Vaals | 0,000861271 | 0,000762058 |
+| Valkenburg aan de Geul | 0,000913978 | 0,000576618 |
+| Valkenswaard | 0,000368478 | 0,000500108 |
+| Veendam | 0,001837976 | 0,001366882 |
+| Veenendaal | 0,000552790 | 0,001407947 |
+| Veere | 0,000703326 | 0,000257014 |
+| Veghel | 0,000223055 | 0,000178594 |
+| Veldhoven | 0,000182018 | 0,000381904 |
+| Velsen | 0,001594151 | 0,002803868 |
+| Venlo | 0,003790555 | 0,005917811 |
+| Venray | 0,000448226 | 0,000730568 |
+| Vianen | 0,000162348 | 0,000156930 |
+| Vlaardingen | 0,003186456 | 0,011512477 |
+| Vlagtwedde | 0,001321358 | 0,000363198 |
+| Vlieland | 0,000106192 | 0,000017237 |
+| Vlissingen | 0,003673599 | 0,005583076 |
+| Voerendaal | 0,000301011 | 0,000122887 |
+| Voorschoten | 0,000269614 | 0,000593760 |
+| Voorst | 0,000446391 | 0,000130762 |
+| Vught | 0,000347614 | 0,000202037 |
+| Waalre | 0,000111010 | 0,000092661 |
+| Waalwijk | 0,000623025 | 0,000660225 |
+| Waddinxveen | 0,000185271 | 0,000707277 |
+| Wageningen | 0,000549112 | 0,001378742 |
+| Wassenaar | 0,000730218 | 0,000436250 |
+| Waterland | 0,000312418 | 0,000111740 |
+| Weert | 0,000837363 | 0,001361324 |
+| Weesp | 0,000604777 | 0,000911763 |
+| Werkendam | 0,000269607 | 0,000106383 |
+| West Maas en Waal | 0,000287903 | 0,000073732 |
+| Westerveld | 0,000523422 | 0,000123351 |
+| Westervoort | 0,000058205 | 0,000053436 |
+| Westland | 0,001104473 | 0,001041060 |
+| Weststellingwerf | 0,001203270 | 0,000417123 |
+| Westvoorne | 0,000192802 | 0,000068749 |
+| Wierden | 0,000253959 | 0,000117432 |
+| Wijchen | 0,000263255 | 0,000206080 |
+| Wijdemeren | 0,000274101 | 0,000114014 |
+| Wijk bij Duurstede | 0,000131788 | 0,000108250 |
+| Winsum | 0,000707526 | 0,000144079 |
+| Winterswijk | 0,001009533 | 0,000387291 |
+| Woensdrecht | 0,000185316 | 0,000119698 |
+| Woerden | 0,000346795 | 0,000302834 |
+| Wormerland | 0,000180609 | 0,000192396 |
+| Woudenberg | 0,000050539 | 0,000025940 |
+| Woudrichem | 0,000155925 | 0,000056756 |
+| Zaanstad | 0,006047364 | 0,009549549 |
+| Zaltbommel | 0,000417907 | 0,000165071 |
+| Zandvoort | 0,000487364 | 0,000774585 |
+| Zederik | 0,000263042 | 0,000068799 |
+| Zeewolde | 0,000000000 | 0,000001659 |
+| Zeist | 0,001323157 | 0,002016091 |
+| Zevenaar | 0,000251224 | 0,000394142 |
+| Zoetermeer | 0,000210132 | 0,002973529 |
+| Zoeterwoude | 0,000097363 | 0,000043391 |
+| Zuidhorn | 0,000658972 | 0,000164975 |
+| Zuidplas | 0,000254547 | 0,000417693 |
+| Zundert | 0,000213118 | 0,000096387 |
+| Zutphen | 0,001947075 | 0,001461220 |
+| Zwartewaterland | 0,000407159 | 0,000164220 |
+| Zwijndrecht | 0,000374533 | 0,002142928 |
+| Zwolle | 0,005786191 | 0,007038150 |
+
+## Bijlage 2. De historische kernen en het historische water (bijlage bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=19&z=2019-04-30&g=2019-04-30) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
 
 | Gemeente per 1-1-2016 | Historische kern | Oppervlakte van de kern in hectaren | Lengte van de waterwegen in meters |
 | --- | --- | --- | --- |
@@ -1761,7 +2163,17 @@ Het aantal inwoners landelijk gebied, bedoeld in maatstaf 9 van [bijlage 1 bij h
 | Zwartewaterland | Zwartsluis | 23 | 4.550 |
 | Zwolle | Zwolle | 41 | 4.550 |
 
-## Bijlage 3. De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden (bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=20&z=2019-04-30&g=2017-01-01) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
+Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=4), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=17) en [18, tweede lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18);
+
+Besluiten:
+
+#### Paragraaf 1. Algemeen
+
+#### Paragraaf 3. Maatstaven gemeentefonds
+
+#### Paragraaf 4. Overige bepalingen
+
+## Bijlage 3. De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden (bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=20&z=2019-04-30&g=2019-04-30) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
 
 | Gemeente per 1-1-2016 | Bewoond oord 1930 (soms verdeeld over twee gemeenten) | Historische kern gelegen in het bewoonde oord 1930 | Woningen 1930 in het bewoonde oord 1930 | Woningen 1930 in een bewoond oord tevens historische kern |
 | --- | --- | --- | --- | --- |
@@ -2161,3 +2573,5 @@ Het aantal inwoners landelijk gebied, bedoeld in maatstaf 9 van [bijlage 1 bij h
 | Zwartewaterland | Zwartsluis | Zwartsluis | 1.380 | 1.380 |
 | Zwijndrecht | Zwijndrecht | – | 2.450 | 0 |
 | Zwolle | Zwolle | Zwolle | 9.313 | 9.313 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
