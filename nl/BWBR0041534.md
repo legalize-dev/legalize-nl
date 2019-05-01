@@ -4,7 +4,7 @@ identifier: "BWBR0041534"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-06-21"
-last_updated: "2019-04-03"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041534"
 soort: "zbo"
@@ -64,9 +64,9 @@ Dit reglement treedt in werking op 1 januari 2019.
 
 - 9. **Extern personeel:** al het personeel dat niet werkzaam is bij een bevoegd gezag op basis van een akte van aanstelling of een akte van benoeming.
 
-- 10. **Financiële variant:** één van de financiële vereveningsvarianten als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=6&z=2019-04-03&g=2019-04-03) van het reglement waarvan eigenrisicodragers gebruik van kunnen maken.
+- 10. **Financiële variant:** één van de financiële vereveningsvarianten als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=6&z=2019-05-01&g=2019-05-01) van het reglement waarvan eigenrisicodragers gebruik van kunnen maken.
 
-- 11. **Informatieprotocol:** de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=6&z=2019-04-03&g=2019-04-03) bij dit reglement waarin de wijze van aanlevering van gegevens voor wat betreft de vorm en inhoud, die door een bevoegd gezag moet worden aangeleverd wordt beschreven.
+- 11. **Informatieprotocol:** de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=6&z=2019-05-01&g=2019-05-01) bij dit reglement waarin de wijze van aanlevering van gegevens voor wat betreft de vorm en inhoud, die door een bevoegd gezag moet worden aangeleverd wordt beschreven.
 
 - 12. **Ketenvervanger:** de vervanger van een personeelslid met een dienstverband bij het bevoegd gezag die een ander personeelslid, dat afwezig is in verband met het vervangen van een wegens ziekte of schorsing afwezig ander personeelslid, met een dienstverband bij hetzelfde bevoegd gezag vervangt.
 
@@ -118,7 +118,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ##### Artikel 4. Vrijwillige aanmelding van personeel
 
-1. Personeel genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=2&artikel=3&z=2019-04-03&g=2019-04-03) kan vrijwillig worden aangemeld door het bevoegd gezag waar dit personeel een dienstverband heeft.
+1. Personeel genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=2&artikel=3&z=2019-05-01&g=2019-05-01) kan vrijwillig worden aangemeld door het bevoegd gezag waar dit personeel een dienstverband heeft.
 
 2. Vervanging van vrijwillig aangemeld personeel komt voor bekostiging door het Vervangingsfonds in aanmerking.
 
@@ -164,7 +164,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 2. De premiegrondslag is het bruto salaris van het personeel waarvoor premie is verschuldigd, rekening houdend met de deeltijdfactor, exclusief toelages, toeslagen en werkgeverslasten, en vermeerderd met 8 procent vakantie-uitkering.
 
-3. Het personeel waarvoor premie is verschuldigd als bedoeld in het eerste lid, staat omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=1&z=2019-04-03&g=2019-04-03), ‘Premie’, van dit reglement.
+3. Het personeel waarvoor premie is verschuldigd als bedoeld in het eerste lid, staat omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=1&z=2019-05-01&g=2019-05-01), ‘Premie’, van dit reglement.
 
 ##### Artikel 8. Premiepercentages
 
@@ -184,7 +184,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 3. Bij het berekenen van de bonus-malus verhouding, vormen de gegevens van het door het bevoegd gezag op 31 januari in stand gehouden scholen van het volgende kalenderjaar de basis.
 
-4. Het Vervangingsfonds berekent de bonus-malus afrekening conform de ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-04-03&g=2019-04-03) in dit reglement.
+4. Het Vervangingsfonds berekent de bonus-malus afrekening conform de ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-05-01&g=2019-05-01) in dit reglement.
 
 5. Het Vervangingsfonds maakt de beslissing over de bonus-malus afrekening over het voorgaande kalenderjaar jaarlijks bekend voor 15 oktober. Deze termijn kan met uiterlijk 6 weken worden verlengd, mits dit door het Vervangingsfonds voor 8 oktober bekend wordt gemaakt.
 
@@ -198,9 +198,9 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ##### Artikel 11. Maximering malus
 
-1. Indien een bevoegd gezag met een personele bekostiging regulier lager dan 2,5 miljoen euro een bonus-malus verhouding heeft van meer dan 1,5 is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-04-03&g=2019-04-03) in dit reglement.
+1. Indien een bevoegd gezag met een personele bekostiging regulier lager dan 2,5 miljoen euro een bonus-malus verhouding heeft van meer dan 1,5 is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-05-01&g=2019-05-01) in dit reglement.
 
-2. Indien een bevoegd gezag met een personele bekostiging regulier van 2,5 miljoen of meer een bonus-malus verhouding heeft van meer dan 2, is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-04-03&g=2019-04-03) in dit reglement
+2. Indien een bevoegd gezag met een personele bekostiging regulier van 2,5 miljoen of meer een bonus-malus verhouding heeft van meer dan 2, is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=2&z=2019-05-01&g=2019-05-01) in dit reglement
 
 ### Hoofdstuk 4. Bekostiging
 
@@ -212,7 +212,7 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - 2. Het bevoegd gezag is premie verschuldigd voor het afwezige personeelslid.
 
-- 3. Het afwezige personeelslid is niet geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-04-03&g=2019-04-03) van dit reglement.
+- 3. Het afwezige personeelslid is niet geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-05-01&g=2019-05-01) van dit reglement.
 
 - 4. Het personeelslid dat wordt vervangen is afwezig wegens:
 
@@ -226,7 +226,7 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - 7. De vervanging heeft tot extra kosten geleid voor het bevoegd gezag, die niet gemaakt zouden zijn als de vervanging niet had plaatsgevonden. Deze voorwaarde geldt niet, indien sprake is van vervanging door een personeelslid met een akte van aanstelling of een akte van benoeming en dat:
 
-- a. is geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-04-03&g=2019-04-03) van dit reglement;
+- a. is geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-05-01&g=2019-05-01) van dit reglement;
 
 - b. werkzaam is in een functie die is geplaatst in het RDDF;
 
@@ -236,7 +236,7 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - e. werkzaam is op basis van een dienstverband voor kennelijk tijdelijk werk als bedoeld in artikel 3.1 van de cao po.
 
-- 8. De vervanger van een leraar voldoet aan de bevoegdheidseisen voor leraar, genoemd in [artikel 3 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) dan wel [artikel 3 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3).
+- 8. De vervanger van een leraar voldoet aan de bevoegdheidseisen voor leraar, genoemd in [artikel 3 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) dan wel [artikel 3 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3). Deze voorwaarde geldt niet voor de eerste dag afwezigheid wegens ziekte van een leraar.
 
 - 9. Bij vervanging door extern personeel anders dan uitzendpersoneel of personeel werkzaam bij een payroll onderneming, heeft plaatsgevonden ten behoeve van vervanging van een directielid of onderwijsondersteunend personeel. Vervanging van leraren door dit extern personeel wordt niet door het Vervangingsfonds bekostigd.
 
@@ -268,7 +268,7 @@ Vervanging kan plaatsvinden op basis van:
 
 ##### Artikel 14. Bekostiging
 
-Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-04-03&g=2019-04-03) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-04-03&g=2019-04-03), dan vindt bekostiging plaats met inachtneming van dit artikel.
+Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-05-01&g=2019-05-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-05-01&g=2019-05-01), dan vindt bekostiging plaats met inachtneming van dit artikel.
 
 - 1. Het aantal uren vervanging wordt bekostigd tot maximaal het aantal uren afwezigheid, waarbij het aantal uren afwezigheid wordt gebaseerd op het aantal werkzame uren van de afwezige per week op basis van de akte van aanstelling dan wel benoeming, vermenigvuldigd met het aantal weken in de betreffende maand.
 
@@ -280,7 +280,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 - 5. Bij ketenvervanging wordt uitsluitend de vervanging door de ketenvervanger bekostigd op basis van de uren zoals bepaald in het eerste lid van dit artikel.
 
-- 6. De hoogte van de bekostiging wordt berekend door het normbedrag per uur te vermenigvuldigen met het aantal uren dat de afwezige is vervangen, tot maximaal de uren afwezigheid. Het normbedrag wordt bepaald aan de hand van de inschaling van de afwezige. De verdere werking van de normbekostiging is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=3&z=2019-04-03&g=2019-04-03), ‘Werkwijze normbekostiging’, van dit reglement
+- 6. De hoogte van de bekostiging wordt berekend door het normbedrag per uur te vermenigvuldigen met het aantal uren dat de afwezige is vervangen, tot maximaal de uren afwezigheid. Het normbedrag wordt bepaald aan de hand van de inschaling van de afwezige. De verdere werking van de normbekostiging is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=3&z=2019-05-01&g=2019-05-01), ‘Werkwijze normbekostiging’, van dit reglement
 
 ### Hoofdstuk 5. Vervangingspools
 
@@ -300,7 +300,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 ##### Artikel 16. Bekostiging en inzetpercentage vervangingspool
 
-1. De bekostiging en berekening van het inzetpercentage van de in de vervangingspool geplaatste personeelsleden vindt plaats volgens [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=4&z=2019-04-03&g=2019-04-03), ‘Werkwijze vervangingspools’, van dit reglement.
+1. De bekostiging en berekening van het inzetpercentage van de in de vervangingspool geplaatste personeelsleden vindt plaats volgens [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=4&z=2019-05-01&g=2019-05-01), ‘Werkwijze vervangingspools’, van dit reglement.
 
 2. De hoogte van de bekostiging wordt berekend door het aantal uren van het dienstverband per week te delen door 7, het resultaat hiervan te vermenigvuldigen met 365, het resultaat daarvan te delen door 12 en het resultaat daarvan te vermenigvuldigen met het van toepassing zijnde normbedrag.
 
@@ -358,15 +358,17 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00415
 
 4. De aanmelding voor een financiële variant geldt voor al het personeel van het bevoegd gezag.
 
-5. De bekostiging van de financiële varianten vindt plaats conform [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=5&z=2019-04-03&g=2019-04-03), ‘Werkwijze financiële varianten’, van dit reglement.
+5. De bekostiging van de financiële varianten vindt plaats conform [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&bijlage=5&z=2019-05-01&g=2019-05-01), ‘Werkwijze financiële varianten’, van dit reglement.
 
 ##### Artikel 20. Algemene voorwaarden voor bekostiging financiële varianten
 
-Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-04-03&g=2019-04-03), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-04-03&g=2019-04-03) en aan de voorwaarden van dit artikel.
+Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-05-01&g=2019-05-01), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=13&z=2019-05-01&g=2019-05-01) en aan de voorwaarden van dit artikel.
 
 - 1. De vervanging heeft voor het bevoegd gezag geleid tot extra kosten die niet gemaakt zouden zijn als de vervanging niet had plaatsgevonden.
 
 - 2. Personeel dat binnen de eigen betrekkingsomvang voor vervanging wordt ingezet, komt slechts voor bekostigde vervanging in aanmerking indien dit personeelslid is geplaatst in een eigen, door het bevoegd gezag bekostigde vervangingspool. Het bevoegd gezag stelt het Vervangingsfonds in kennis welke personeelsleden er in deze pool zijn geplaatst.
+
+- 3. [Artikel 12, lid 8, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=4&artikel=12&z=2019-05-01&g=2019-05-01), is niet van toepassing op financiële varianten.
 
 ##### Artikel 21. Wijziging of opzegging
 
@@ -513,11 +515,11 @@ De bekostiging van de wegens ziekte afwezige vervanger wordt dan door het Vervan
 
 ## Bijlage 4. Werkwijze vervangingspools
 
-Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-04-03&g=2019-04-03) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
+Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&z=2019-05-01&g=2019-05-01) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
 
 ### Bekostiging vervangingspools
 
-Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor pooldeclaraties die tijdig door het Vervangingsfonds zijn ontvangen en waarvoor een (pool)verantwoording door het bevoegd gezag is ingediend, wordt een vergoeding uitgekeerd. Deze vergoeding wordt maandelijks berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&artikel=16&z=2019-04-03&g=2019-04-03). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige.
+Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor pooldeclaraties die tijdig door het Vervangingsfonds zijn ontvangen en waarvoor een (pool)verantwoording door het bevoegd gezag is ingediend, wordt een vergoeding uitgekeerd. Deze vergoeding wordt maandelijks berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=5&artikel=16&z=2019-05-01&g=2019-05-01). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige.
 
 ### Inzetpercentage
 
@@ -533,7 +535,7 @@ Terugvordering: 98% – 80% = 18% x € 80.000 = € 14.400.
 
 ## Bijlage 5. Werkwijze financiële varianten
 
-Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=6&z=2019-04-03&g=2019-04-03) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
+Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041534&hoofdstuk=6&z=2019-05-01&g=2019-05-01) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
 
 Hieronder worden deze varianten nader omschreven en wordt bepaald hoe de bekostiging voor elk van de vier financiële varianten plaatsvindt.
 
