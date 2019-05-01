@@ -4,7 +4,7 @@ identifier: "BWBV0001210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-25"
-last_updated: "2014-05-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001210"
 soort: "verdrag"
@@ -37,7 +37,7 @@ entry_into_force: "1996-01-01"
 
 De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden
 
-op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, zoals laatst gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006,
+op grond van Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, ter vervanging van Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, zoals laatst gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011,
 
 op grond van de gemeenschappelijke verklaring van de Belgische, de Deense, de Duitse, de Luxemburgse en de Nederlandse delegatie inzake een gemeenschappelijk stelsel van gebruiksrechten, afgelegd tijdens de 1.668e zitting van de Raad van de Europese Gemeenschappen op 7, 8 en 19 juni 1993 te Luxemburg,
 
@@ -51,17 +51,17 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 2. Begripsbepalingen
 
-1°. De begripsbepalingen van artikel 2, punten a), c), e) en f) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006, zijn van toepassing op dit verdrag.
+1°. De begripsbepalingen van artikel 2, punten a), c), e) en f) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals laatst gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011, zijn van toepassing op dit verdrag.
 
-2°. Overigens wordt voor de toepassing van dit verdrag verstaan onder:
+2°. In dit Verdrag hebben de onderstaande begrippen de volgende betekenis:
 
-„grondgebied van de verdragsluitende partijen”: het onderscheiden Europese grondgebied van het Koninkrijk België, van het Koninkrijk Denemarken, van het Groothertogdom Luxemburg, van het Koninkrijk der Nederlanden en van het Koninkrijk Zweden;
+„grondgebied van de verdragsluitende partijen”: het onderscheiden Europese grondgebied van het Koninkrijk Denemarken, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden;
 
-„voertuig”: een motorvoertuig of een samenstel van voertuigen bedoeld of uitsluitend gebruikt voor het vervoer over de weg van goederen en waarvan het maximaal toegestaan totaalgewicht minstens 12 ton bedraagt, overeenkomstig artikel 2, punt (d) en artikel 7, tweede lid, punt (a) van de Richtlijn, zoals gewijzigd bij Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006.
+„voertuig”: een motorvoertuig of een samenstel van voertuigen bedoeld of gebruikt voor het vervoer over de weg van goederen en waarvan het maximaal toegestane totaalgewicht minimaal 12 ton bedraagt, overeenkomstig artikel 2, punt d, en artikel 7, vijfde lid, van de Richtlijn zoals gewijzigd bij [Richtlijn 2011/76](32011L0076)/EU van het Europees Parlement en de Raad van 27 september 2011.
 
 ##### Artikel 3. Verplichting tot het betalen van het gebruiksrecht
 
-1. Overeenkomstig de bepalingen van dit verdrag heffen de verdragsluitende partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van het trans-Europees wegennet door voertuigen in de zin van artikel 2, punt (d), van de Richtlijn maar met een maximaal toegestaan totaalgewicht van minstens 12 ton, overeenkomstig artikel 7, tweede lid, punt (a), van diezelfde Richtlijn.
+1. Overeenkomstig de bepalingen van dit verdrag heffen de verdragsluitende partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van het trans-Europees wegennet door voertuigen in de zin van artikel 2, punt (d), van de Richtlijn maar met een maximaal toegestaan totaalgewicht van minstens 12 ton, overeenkomstig artikel 7, vijfde lid, van diezelfde Richtlijn.
 
 2. Elk der Verdragsluitende Partijen kan de heffing van het gemeenschappelijke gebruiksrecht overeenkomstig artikel 7, eerste lid, van de richtlijn eveneens toepassen voor het gebruik van andere wegen.
 
@@ -71,11 +71,11 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
-1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in artikel 3 bedoelde gebruiksrecht.
+1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-05-01&g=2019-05-01) bedoelde gebruiksrecht.
 
-2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in artikel 3 bedoelde gebruiksrecht.
+2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-05-01&g=2019-05-01) bedoelde gebruiksrecht.
 
-3. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Commissie van de Europese Gemeenschappen mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
+3. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
 
 4. In het geval van samengestelde voertuigen (combinaties) is het motorvoertuig doorslaggevend voor de vrijstelling van de combinatie.
 
@@ -93,7 +93,7 @@ Meerdere betalingsplichtigen zijn hoofdelijk aansprakelijk.
 
 ##### Artikel 6. Heffing van het gebruiksrecht
 
-De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk niveau geregeld in overleg tussen de Verdragsluitende Partijen, waarbij de Commissie van de Europese Gemeenschappen als waarnemer wordt betrokken overeenkomstig artikel 8, eerste lid, van de richtlijn.
+De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk niveau geregeld in overleg tussen de Verdragsluitende Partijen, waarbij de Europese Commissie als waarnemer wordt betrokken overeenkomstig artikel 8, eerste lid, van de richtlijn.
 
 ##### Artikel 7. Betalingstijdvak
 
@@ -193,7 +193,7 @@ Tegelijk met de betaling van het gebruiksrecht voorziet het systeem in een bewij
 
 1. Elke Verdragsluitende Partij ziet op eigen verantwoordelijkheid toe op de naleving van de voorschriften inzake de betaling van het gebruiksrecht; zij wijst de voor het toezicht verantwoordelijke autoriteiten aan respectievelijk stelt deze in.
 
-2. Zij deelt de overige Verdragsluitende Partijen alsmede de Commissie van de Europese Gemeenschappen de hiertoe door haar uitgevaardigde wettelijke en bestuursrechtelijke voorschriften mede, en deelt hun ook mede welke autoriteiten en organisaties binnen haar onderscheiden grondgebied verantwoordelijk zijn voor het toezicht op de naleving van de voorschriften inzake de betaling van het gebruiksrecht.
+2. Zij deelt de overige Verdragsluitende Partijen alsmede de Europese Commissie de hiertoe door haar uitgevaardigde wettelijke en bestuursrechtelijke voorschriften mede, en deelt hun ook mede welke autoriteiten en organisaties binnen haar onderscheiden grondgebied verantwoordelijk zijn voor het toezicht op de naleving van de voorschriften inzake de betaling van het gebruiksrecht.
 
 3. De Verdragsluitende Partijen en de door hen aangewezen autoriteiten en organisaties werken ten behoeve van het toezicht samen.
 
@@ -233,15 +233,13 @@ Deze Verdragsluitende Partijen controleren gezamenlijk de opgestelde mededelinge
 
 De aldus vastgestelde inkomsten uit het gebruiksrecht worden als volgt onder de verdragsluitende partijen verdeeld:
 
-- –. Het Koninkrijk België ontvangt 39,92 % van deze inkomsten;
+- –. Het Koninkrijk Denemarken ontvangt 20,456 % van de inkomsten.
 
-- –. Het Koninkrijk Denemarken ontvangt 12,29 % van deze inkomsten;
+- –. Het Groothertogdom Luxemburg ontvangt 5,226 % van de inkomsten.
 
-- –. Het Groothertogdom Luxemburg ontvangt 3,14 % van deze inkomsten;
+- –. Het Koninkrijk der Nederlanden ontvangt 45,989 % van de inkomsten.
 
-- –. Het Koninkrijk der Nederlanden ontvangt 27,63 % van deze inkomsten;
-
-- –. Het Koninkrijk Zweden ontvangt 17,02 % van deze inkomsten.
+- –. Het Koninkrijk Zweden ontvangt 28,329 % van de inkomsten.
 
 Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages worden veranderd op basis van statistische gegevens waaruit blijkt in hoeverre de desbetreffende vervoersondernemingen gebruik hebben gemaakt van de infrastructuur van iedere Verdragsluitende Partij die het gemeenschappelijk stelsel van gebruiksrechten toepast. In dat geval verstrekken de Verdragsluitende Partijen elkaar hiertoe de vereiste statistische gegevens.
 
@@ -261,11 +259,11 @@ Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages wor
 
 3. De coördinatiecommissie houdt ten minste eens per jaar zitting op uitnodiging van een Verdragsluitende Partij. Op verzoek van een Verdragsluitende Partij dient de coördinatiecommissie te worden bijeengeroepen.
 
-4. De Commissie van de Europese Gemeenschappen wordt uitgenodigd bij alle zittingen van de coördinatiecommissie.
+4. De Europese Commissie wordt uitgenodigd bij alle zittingen van de coördinatiecommissie.
 
 ##### Artikel 15. Arbitrageprocedure
 
-Ieder geschil dat tussen de Verdragsluitende Partijen ontstaat betreffende de uitlegging of toepassing van dit Verdrag en de hiertoe gemaakte aanvullende afspraken, en dat niet door rechtstreekse onderhandelingen binnen het kader van de coördinatiecommissie kan worden beslecht, wordt op verzoek van een der Verdragsluitende Partijen overeenkomstig artikel 182 van het Verdrag tot oprichting van de Europese Gemeenschap voorgelegd aan het Hof van Justitie van de Europese Gemeenschappen.
+Ieder geschil dat tussen de Verdragsluitende Partijen ontstaat betreffende de uitlegging of toepassing van dit Verdrag en de hiertoe gemaakte aanvullende afspraken, en dat niet door rechtstreekse onderhandelingen binnen het kader van de coördinatiecommissie kan worden beslecht, wordt op verzoek van een der Verdragsluitende Partijen overeenkomstig [artikel 273 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273) voorgelegd aan het Hof van Justitie van de Europese Unie.
 
 ##### Artikel 16. Toetreding
 
@@ -299,6 +297,6 @@ De Verdragsluitende Partij die gebruik maakt van haar opzeggingsrecht, mag geen 
 
 ##### Artikel 20. Geldigheidsduur
 
-Dit Verdrag geldt tot 31 december 2019. Het kan worden verlengd indien twee of meer Verdragsluitende Partijen zulks overeenkomen.
+Dit Verdrag geldt tot 31 december 2029. Het kan worden verlengd indien twee of meer Verdragsluitende Partijen zulks overeenkomen.
 
 GEDAAN te Brussel op 9 februari 1994 in de Deense, de Duitse, de Franse en de Nederlandse taal, zijnde alle teksten gelijkelijk authentiek, in één oorspronkelijk exemplaar, dat wordt nedergelegd en bewaard in het archief van de Commissie van de Europese Gemeenschappen; deze doet iedere Verdragsluitende Partij een voor eensluidend gewaarmerkt afschrift toekomen.
