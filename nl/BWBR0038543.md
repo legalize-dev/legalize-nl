@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2019-04-01"
+last_updated: "2019-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,87 +44,15 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-05-01&g=2019-04-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-05-01&g=2019-05-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-05-01&g=2019-04-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-05-01&g=2019-05-01).
 
-##### Artikel 3. Citeertitel
+##### Artikel 3. Inwerkingtreding
 
-Deze regeling wordt aangehaald als: Regeling certificaten aantal keuzedelen beroepsonderwijs.
-
-## Bijlage 1. Certificaten vanaf 1 oktober 2016
-
-Er is een certificaat verbonden aan de volgende keuzedelen:
-
-- 1. Art&Design (K0354)
-
-- 2. Car- en interiorwrapping (K0266)
-
-- 3. Digitaal produceren 3D object (K0355)
-
-- 4. Digitale vaardigheden basis (K0022)
-
-- 5. Digitale vaardigheden gevorderd (K0023)
-
-- 6. DJ-ing (K0302)
-
-- 7. Inleiding geo-informatie (K0356)
-
-- 8. Interieurvormgeving (K0054)
-
-- 9. Lichtplan voor woon/werkruimte (K0357)
-
-- 10. Live beeld (K0358)
-
-- 11. Livetechniek (K0359)
-
-- 12. Oriëntatie op digitaal forensisch onderzoek (K0360)
-
-- 13. Oriëntatie op interieurbouw (K0079)
-
-- 14. Productvormgeving (K0296)
-
-- 15. Security in systemen en netwerken 1 (K0400)
-
-- 16. Security in systemen en netwerken 2 (K0444)
-
-- 17. Specialisatie media- en entertainmentsector (K0402)
-
-- 18. Verdieping colormanagement (K0113)
-
-- 19. Verdieping Mediaproductie (K0361)
-
-- 20. Verdieping Visual Merchandising (K0117)
-
-- 21. Mensen met niet-aangeboren hersenletsel (K0067)
-
-- 22. Ernstig meervoudige beperkingen (K0233)
-
-- 23. Ouder wordende mensen met een verstandelijke beperking (K0082)
-
-- 24. Mensen met licht verstandelijke beperking met moeilijk verstaanbaar gedrag (K0066)
-
-- 25. Ervaringsdeskundigheid (K0432)
-
-- 26. Zorg in instabiele en acute zorgsituaties (K0618)
-
-- 27. Bereiden en aseptisch handelen (K0009)
-
-- 28. Gekwalificeerd nanny (K0314)
-
-- 29. Pedicurebehandelingen uitvoeren (K0511)
-
-- 30. Ondernemerschap mbo (K0165)
-
-- 31. Leidinggeven (K0061)
-
-- 32. Supermarkt (geschikt voor niveau 2 (K0243)
-
-- 33. Supermarkt (geschikt voor niveau 3 en 4) (K0244)
-
-Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
 ## Bijlage 1. Certificaten vanaf 1 oktober 2016
 
@@ -198,185 +126,191 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. Certificaten vanaf 1 augustus 2017
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2019-05-01&g=2019-05-01)
 
-Er is een certificaat verbonden aan de volgende keuzedelen:
+| k-code | naam keuzedeel |
+| --- | --- |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 oktober 2016** | **Certificaten voor keuzedelen vanaf 1 oktober 2016** |
+| K0354 | Art&Design |
+| K0266 | Car-en interiorwrapping |
+| K0355 | Digitaal produceren 3D object |
+| K0022 | Digitale vaardigheden basis |
+| K0023 | Digitale vaardigheden gevorderd |
+| K0302 | DJ-ing |
+| K0356 | Inleiding geo-informatie |
+| K0054 | Interieurvormgeving |
+| K0357 | Lichtplan voor woon/werkruimte |
+| K0358 | Live beeld |
+| K0359 | Livetechniek |
+| K0360 | Oriëntatie op digitaal forensisch onderzoek |
+| K0079 | Oriëntatie op interieurbouw |
+| K0296 | Productvormgeving |
+| K0400 | Security in systemen en netwerken 1 |
+| K0444 | Security in systemen en netwerken 2 |
+| K0402 | Specialisatie media- en entertainmentsector |
+| K0113 | Verdieping colormanagement |
+| K0361 | Verdieping Mediaproductie |
+| K0117 | Verdieping Visual Merchandising |
+| K0067 | Mensen met niet-aangeboren hersenletsel |
+| K0233 | Ernstig meervoudige beperkingen |
+| K0082 | Ouder wordende mensen met een verstandelijke beperking |
+| K0066 | Mensen met licht verstandelijke beperking met moeilijk verstaanbaar gedrag |
+| K0432 | Ervaringsdeskundigheid |
+| K0618 | Zorg in instabiele en acute zorgsituaties |
+| K0009 | Bereiden en aseptisch handelen |
+| K0314 | Gekwalificeerd nanny |
+| K0511 | Pedicurebehandelingen uitvoeren |
+| K0165 | Ondernemerschap mbo |
+| K0061 | Leidinggeven |
+| K0243 | Supermarkt (geschikt voor niveau 2) |
+| K0244 | Supermarkt (geschikt voor niveau 3 en 4) |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 augustus 2017** | **Certificaten voor keuzedelen vanaf 1 augustus 2017** |
+| K0249 | Hout, plaat- en bouwmaterialen |
+| K0259 | Introductie QRM, industrieel produceren met hout |
+| K0637 | Procesoptimalisatie industrieel produceren met hout |
+| K0331 | Programmeren online aansturing bewerkingscentrum |
+| K0375 | Van Afval Naar Grondstof |
+| K0638 | Procesoptimalisatie meubelindustrie |
+| K0672 | Detectiemethodes gas |
+| K0673 | Detectiemethodes warmte |
+| K0684 | Interactief ontwerpen met BIM |
+| K0685 | Kabel leggen |
+| K0686 | Meten en beproeven in middenspanningsdistributienetten |
+| K0689 | Middenspanning schakelen |
+| K0693 | Openbare verlichtingsinstallaties (OVL) |
+| K0699 | Spuien en desinfecteren van waterdistributienetten |
+| K0703 | Veiligstellen van middenspanningskabels |
+| K0704 | Verkeersregelinstallaties (VRI) |
+| K0095 | Schadecalculatie in de carrosseriebranche |
+| K0560 | Inrichten van bedrijfswagens |
+| K0561 | Kunststoffen in de maritieme techniek |
+| K0655 | Garantieproces in een dealerbedrijf |
+| K0118 | Verzorgende en verpleegtechnische handelingen |
+| K0119 | Verplegende en verpleegtechnische handelingen |
+| K0157 | Intra- en transmurale zorg |
+| K0159 | Jeugd- en opvoedhulp |
+| K0167 | Orthodontieassistent |
+| K0616 | Verpleegkundige zorg voor kwetsbare ouderen in een kortdurende (acute) opnamesituatie |
+| K0228 | Mode (geschikt voor niveau 2) |
+| K0518 | Mode, geschikt voor niveau 3 en 4 |
+| K0497 | Mobile application development |
+| K0498 | Oriëntatie op Applicatieontwikkeling |
+| K0519 | Online marketing en het toepassen van e-commerce |
+| K0525 | Filmen met de DSLR camera |
+| K0526 | Gepersonaliseerd publiceren |
+| K0530 | Journalistiek in de AV |
+| K0532 | Mediasystemengineering |
+| K0542 | Special Input – Output |
+| K0717 | Agile game productie |
+| K0719 | Basis programmeren |
+| K0720 | Basis scripting & databases |
+| K0721 | Basis Webdevelopment |
+| K0722 | Frontend development |
+| K0730 | Programmeren van microcontrollers |
+| K0761 | Camjo |
+| K0762 | Cloud en datacenter engineering |
+| K0767 | Grafisch ontwerp voor webdevelopment |
+| K0781 | Virtual en augmented reality |
+| K0430 | Fiscale werkzaamheden in de praktijk |
+| K0792 | Bouwmarkt basis |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 januari 2018** | **Certificaten voor keuzedelen vanaf 1 januari 2018** |
+| K0905 | Helpende Plus |
+| K0902 | Geriatrische revalidatiezorg |
+| K0879 | Specialist leesbevordering 0-12 jaar |
+| K0136 | Zorg en technologie toepassen |
+| K0137 | Zorg en technologie |
+| K0138 | Zorg-innovaties en technologie |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 april 2018** | **Certificaten voor keuzedelen vanaf 1 april 2018** |
+| K0506 | Toepassing natuurlijke koudemiddelen in de praktijk |
+| K0669 | Benutten en toepassen van restwarmte |
+| K0710 | Warmtepompen en warmteterugwinningsinstallaties |
+| K0308 | Verdieping montage componenten koude- en klimaatsystemen |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 juli 2018** | **Certificaten voor keuzedelen vanaf 1 juli 2018** |
+| K0989 | Industriële robotica |
+| K0991 | Installatie, service en onderhoud aan melkwinningsinstallaties |
+| K1006 | Verdieping palliatieve zorg |
+| K0988 | Gerontopsychiatrie |
+| K0971 | Scheepsbetimmeringen exterieur |
+| K0972 | Teakdek en aansluitingen |
+| K0840 | Voertuig reconditionering |
+| K0745 | Assisteren bij zorg en welzijn |
+| K0290 | Werken met baby’s |
+| K0611 | BSO 8-12 jaar |
+| K0790 | Belevingsgericht werken |
+| K0984 | Engels A1/A2 in het beroepsonderwijs |
+| K0985 | Frans A1/A2 in het beroepsonderwijs |
+| K0986 | Frans A2/B1 in het beroepsonderwijs |
+| K0987 | Frans B1/B2 in het beroepsonderwijs |
+| K0999 | Spaans A1/A2 in het beroepsonderwijs |
+| K1000 | Spaans A2/B1 in het beroepsonderwijs |
+| K1001 | Spaans B1/B2 in het beroepsonderwijs |
+| K0959 | Duits A1/A2 in het beroepsonderwijs |
+| K0960 | Duits A2/B1 in het beroepsonderwijs |
+| K0961 | Duits B1/B2 in het beroepsonderwijs |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 januari 2019** | **Certificaten voor keuzedelen vanaf 1 januari 2019** |
+| K1062 | Mensen met een verstandelijke en visuele beperking |
+| K1063 | Mode Retail, geschikt voor niveau 3 en 4 |
+| K1064 | Mode Retail, geschikt voor niveau 2 |
+| K0786 | Basis composieten |
+| K0350 | Onderhoud aan windturbines |
+|   |   |
+| **Certificaten voor keuzedelen vanaf 1 april 2019** | **Certificaten voor keuzedelen vanaf 1 april 2019** |
+| K0869 | Koerier bestelauto |
+| K0368 | Basisvaardigheden metaalbewerken |
+| K1013 | Basis textiel voor operators |
+| K1025 | Textiel voor mechanisch/chemisch operator A |
+| K1026 | Textiel voor mechanisch/chemisch operator B |
+| K1050 | Werken met een industriële robot |
+| K0004 | Artwork en dessins |
+| K0461 | Digitaal patroontekenen 1 (basis) |
+| K0462 | Digitaal patroontekenen 2 (graderen) |
 
-- 1. Hout, plaat- en bouwmaterialen (K0249)
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-- 2. Introductie QRM, industrieel produceren met hout (K0259)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2019-05-01&g=2019-05-01)
 
-- 3. Procesoptimalisatie industrieel produceren met hout (K0637)
-
-- 4. Programmeren online aansturing bewerkingscentrum (K0331)
-
-- 5. Van Afval Naar Grondstof (K0375)
-
-- 6. Procesoptimalisatie meubelindustrie (K0638)
-
-- 7. Detectiemethodes gas (K0672)
-
-- 8. Detectiemethodes warmte (K0673)
-
-- 9. Interactief ontwerpen met BIM (K0684)
-
-- 10. Kabel leggen (K0685)
-
-- 11. Meten en beproeven in middenspanningsdistributienetten (K0686)
-
-- 12. Middenspanning schakelen (K0689)
-
-- 13. Openbare verlichtingsinstallaties (OVL) (K0693)
-
-- 14. Spuien en desinfecteren van waterdistributienetten (K0699)
-
-- 15. Veiligstellen van middenspanningskabels (K0703)
-
-- 16. Verkeersregelinstallaties (VRI) (K0704)
-
-- 17. Schadecalculatie in de carrosseriebranche (K0095)
-
-- 18. Inrichten van bedrijfswagens (K0560)
-
-- 19. Kunststoffen in de maritieme techniek (K0561)
-
-- 20. Garantieproces in een dealerbedrijf (K0655)
-
-- 21. Verzorgende en verpleegtechnische handelingen (K0118)
-
-- 22. Verplegende en verpleegtechnische handelingen (K0119)
-
-- 23. Intra- en transmurale zorg (K0157)
-
-- 24. Jeugd- en opvoedhulp (K0159)
-
-- 25. Orthodontieassistent (K0167)
-
-- 26. Verpleegkundige zorg voor kwetsbare ouderen in een kortdurende (acute) opnamesituatie (K0616)
-
-- 27. Mode (geschikt voor niveau 2) (K0228)
-
-- 28. Mode, geschikt voor niveau 3 en 4 (K0518)
-
-- 29. Mobile application development (K0497)
-
-- 30. Oriëntatie op Applicatieontwikkeling (K0498)
-
-- 31. Online marketing en het toepassen van e-commerce (K0519)
-
-- 32. Filmen met de DSLR camera (K0525)
-
-- 33. Gepersonaliseerd publiceren (K0526)
-
-- 34. Journalistiek in de AV (K0530)
-
-- 35. Mediasystemengineering (K0532)
-
-- 36. Special Input - Output (K0542)
-
-- 37. Agile game productie (K0717)
-
-- 38. Basis programmeren (K0719)
-
-- 39. Basis scripting & databases (K0720)
-
-- 40. Basis Webdevelopment (K0721)
-
-- 41. Frontend development (K0722)
-
-- 42. Programmeren van microcontrollers (K0730)
-
-- 43. Camjo (K0761)
-
-- 44. Cloud en datacenter engineering (K0762)
-
-- 45. Grafisch ontwerp voor webdevelopment (K0767)
-
-- 46. Virtual en augmented reality (K0781)
-
-- 47. Fiscale werkzaamheden in de praktijk (K0430)
-
-- 48. Bouwmarkt basis (K0792)
+| c-code | Naam certificaat | crebocode | naam kwalificatie |
+| --- | --- | --- | --- |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** |
+| C0017 | Adviseren over energiebesparende maatregelen | 25296 | Commercieel technicus engineering |
+| C0018 | Basis voor deskundige zorg | 23187 | Verzorgende IG |
+| C0019 | Basisonderhoud aan toestellen werktuigkundige installaties | 25308 | Monteur service en onderhoud installaties en systemen |
+| C0020 | Industriële productie en planning | 25338 | Procesoperator B |
+| C0021 | Koken in de horeca | 25180 | Kok |
+| C0022 | Lokaliseren en inspecteren van storingen in elektrotechnische installaties | 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie |
+| C0023 | Meewerken in de productie | 25335 | Mechanisch operator A |
+| C0024 | Ondersteuning thuis | 25498 | Helpende Zorg en Welzijn |
+| C0025 | Opsluiten en voormonteren van standaard houten kozijnen en ramen | 25008 | Montagemedewerker industrieel produceren met hout |
+| C0026 | Optimaliseren van werktuigkundige installaties | 25307 | Eerste monteur service en onderhoud werktuigkundige installaties |
+| C0027 | Regievoering en vakontwikkeling in de zorg | 25491 | Verzorgende IG |
+| C0028 | Restauratieschildertechnieken | 25036 | Decoratie- en restauratieschilder |
+| C0029 | Technisch adviseren vastgoedonderhoud | 25013 | Projectmanager vastgoedonderhoud |
+| C0030 | Verzorgen van varkens | 25537 | Vakbekwaam medewerker veehouderij |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 3. Certificaten vanaf 1 januari 2018
 
-Er is een certificaat verbonden aan de volgende keuzedelen:
-
-- 1. Helpende Plus (K0905)
-
-- 2. Geriatrische revalidatiezorg (K0902)
-
-- 3. Specialist leesbevordering 0-12 jaar (K0879)
-
-- 4. Zorg en technologie toepassen (K0136)
-
-- 5. Zorg en technologie (K0137)
-
-- 6. Zorg-innovaties en technologie (K0138)
+Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 4. Certificaten vanaf 1 april 2018
 
-Er is een certificaat verbonden aan de volgende keuzedelen:
-
-- 1. Toepassing natuurlijke koudemiddelen in de praktijk (K0506)
-
-- 2. Benutten en toepassen van restwarmte (K0669)
-
-- 3. Warmtepompen en warmteterugwinningsinstallaties (K0710)
-
-- 4. Verdieping montage componenten koude- en klimaatsystemen (K0308)
+Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 5. Certificaten vanaf 1 juli 2018
 
-Er is een certificaat verbonden aan de volgende keuzedelen:
-
-- 1. Industriële robotica (K0989)
-
-- 2. Installatie, service en onderhoud aan melkwinningsinstallaties (K0991)
-
-- 3. Verdieping palliatieve zorg (K1006)
-
-- 4. Gerontopsychiatrie (K0988)
-
-- 5. Scheepsbetimmeringen exterieur (K0971)
-
-- 6. Teakdek en aansluitingen (K0972)
-
-- 7. Voertuig reconditionering (K0840)
-
-- 8. Assisteren bij zorg en welzijn (K0745)
-
-- 9. Werken met baby’s (K0290)
-
-- 10. BSO 8–12 jaar (K0611)
-
-- 11. Belevingsgericht werken (K0790)
-
-- 12. Engels A1/A2 in het beroepsonderwijs (K0984)
-
-- 13. Frans A1/A2 in het beroepsonderwijs (K0985)
-
-- 14. Frans A2/B1 in het beroepsonderwijs (K0986)
-
-- 15. Frans B1/B2 in het beroepsonderwijs (K0987)
-
-- 16. Spaans A1/A2 in het beroepsonderwijs (K0999)
-
-- 17. Spaans A2/B1 in het beroepsonderwijs (K1000)
-
-- 18. Spaans B1/B2 in het beroepsonderwijs (K1001)
-
-- 19. Duits A1/A2 in het beroepsonderwijs (K0959)
-
-- 20. Duits A2/B1 in het beroepsonderwijs (K0960)
-
-- 21. Duits B1/B2 in het beroepsonderwijs (K0961)
+Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
@@ -386,16 +320,10 @@ Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
 ## Bijlage 6. Certificaten vanaf 1 januari 2019
 
-Er is een certificaat verbonden aan de volgende keuzedelen:
-
-- 1. Mensen met een verstandelijke en visuele beperking (K1062)
-
-- 2. Mode Retail, geschikt voor niveau 3 en 4 ((K1063)
-
-- 3. Mode Retail, geschikt voor niveau 2 (K1064)
-
-- 4. Basis composieten (K0786)
-
-- 5. Onderhoud aan windturbines (K0350)
+Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4. Citeertitel
+
+Deze regeling wordt aangehaald als: ‘Regeling certificaten middelbaar beroepsonderwijs’.
