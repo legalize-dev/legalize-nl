@@ -4,7 +4,7 @@ identifier: "BWBR0025866"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2015-07-01"
+last_updated: "2019-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025866"
 soort: "AMvB"
@@ -150,9 +150,9 @@ De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9,
 
 ##### Artikel 6
 
-1. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) voor de categorie B voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01) genoemde eisen.
+1. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) voor de categorie B voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
 
-2. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=II&artikel=2&z=2015-07-01&g=2015-07-01), onderdeel a, c, d, e en f, genoemde rijbewijscategorieën, voldoet de aanvrager aan de in [artikel 5, aanhef en onderdeel 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01) genoemde eisen.
+2. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=II&artikel=2&z=2019-05-02&g=2019-05-02), onderdeel a, c, d, e en f, genoemde rijbewijscategorieën, voldoet de aanvrager aan de in [artikel 5, aanhef en onderdeel 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
 
 3. Voor de toepassing van het eerste en het tweede lid voldoet de aanvrager wat de daar bedoelde eisen betreft in het bijzonder aan de eisen voor zover die eisen betrekking hebben op de categorie motorrijtuigen waarvoor afgifte van een certificaat wordt gevraagd.
 
@@ -198,7 +198,7 @@ Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wet
 
 ##### Artikel 11
 
-Onverminderd [artikel 12b, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2015-07-01&g=2015-07-01).
+Onverminderd [artikel 12b, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2019-05-02&g=2019-05-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2019-05-02&g=2019-05-02).
 
 ##### Artikel 12
 
@@ -216,13 +216,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 1. Het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), bestaat voor het verkrijgen van een certificaat, bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13):
 
-- a. voor het rijonderricht in de rijbewijscategorie B uit de fasen 1 en 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01);
+- a. voor het rijonderricht in de rijbewijscategorie B uit de fasen 1 en 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02);
 
-- b. voor het rijonderricht in de rijbewijscategorie T uit de fasen 1 en 2 voor de categorie T, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), als de aanvrager uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13) voor de rijbewijscategorie T;
+- b. voor het rijonderricht in de rijbewijscategorie T uit de fasen 1 en 2 voor de categorie T, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), als de aanvrager uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13) voor de rijbewijscategorie T;
 
-- c. voor het rijonderricht in de rijbewijscategorie A uit fase 1 voor de categorie A en fase 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), als de rijinstructeur uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat voor het rijonderricht in de rijbewijscategorie A;
+- c. voor het rijonderricht in de rijbewijscategorie A uit fase 1 voor de categorie A en fase 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), als de rijinstructeur uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat voor het rijonderricht in de rijbewijscategorie A;
 
-- d. voor het rijonderricht in de overige rijbewijscategorieën uit de praktische toets uit fase 1 voor de betrokken categorie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), en het bezit van een geldig certificaat voor de rijbewijscategorie B.
+- d. voor het rijonderricht in de overige rijbewijscategorieën uit de praktische toets uit fase 1 voor de betrokken categorie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), en het bezit van een geldig certificaat voor de rijbewijscategorie B.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
@@ -234,11 +234,11 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 ##### Artikel 14
 
-De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), waarvan het bezit van een geldig diploma is vereist voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel en scholing alcoholslotprogramma is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak.
+De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), waarvan het bezit van een geldig diploma is vereist voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak.
 
 ##### Artikel 15
 
-De voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel en scholing alcoholslotprogramma vereiste beroepservaring als bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), bedraagt ten minste twee jaren.
+De voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel vereiste beroepservaring als bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), bedraagt ten minste twee jaren.
 
 ##### Artikel 16
 
@@ -258,11 +258,11 @@ De aanvullende eisen van bekwaamheid voor het geven van scholing educatieve maat
 
 1. De verplichting tot het afleggen van een toets, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), en [artikel 23, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=23), wordt aan een houder van een certificaat opgelegd indien:
 
-- a. bij het besluit, bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), dat geen onderzoek is vereist, blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01) gestelde eisen van bekwaamheid;
+- a. bij het besluit, bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), dat geen onderzoek is vereist, blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) gestelde eisen van bekwaamheid;
 
-- b. uit de uitslag van het onderzoek, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01) gestelde eisen van bekwaamheid.
+- b. uit de uitslag van het onderzoek, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) gestelde eisen van bekwaamheid.
 
-2. Bij het opleggen van de verplichting tot het afleggen van een toets geeft het instituut aan op welk onderdeel of welke onderdelen van de vakbekwaamheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), de toets betrekking dient te hebben.
+2. Bij het opleggen van de verplichting tot het afleggen van een toets geeft het instituut aan op welk onderdeel of welke onderdelen van de vakbekwaamheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), de toets betrekking dient te hebben.
 
 ##### Artikel 18
 
@@ -298,7 +298,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16a
 
-Op de aanvullende eisen van bekwaamheid voor het geven van scholing in het kader van het alcoholslotprogramma, bedoeld in [artikel 17, vierde lid, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17) is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=IV&artikel=16&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
+Vervallen
 
 ### Hoofdstuk V. Maatregelen vakbekwaamheid
 
@@ -308,27 +308,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-1. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager niet beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), voor de categorie B, voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01) genoemde eisen.
+1. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager niet beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), voor de categorie B, voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
 
-2. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7) voor de rijbewijscategorie B, maar niet over het certificaat voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), genoemde eisen.
+2. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7) voor de rijbewijscategorie B, maar niet over het certificaat voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), genoemde eisen.
 
-3. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), en de aanvrager mede beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet, voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), genoemde eisen.
+3. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), en de aanvrager mede beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet, voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), genoemde eisen.
 
 ##### Artikel 6b
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02).
 
 #### Paragraaf 3. Stage
 
 ##### Artikel 7a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing op het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) ten behoeve van de categorie T, alsmede ten behoeve van [9a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a).
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2019-05-02&g=2019-05-02) is van overeenkomstige toepassing op het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) ten behoeve van de categorie T, alsmede ten behoeve van [9a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a).
 
 #### Paragraaf 4. Bijscholing
 
 #### Paragraaf 5. Herintreding
 
-### Hoofdstuk IV. Scholing educatieve maatregel en scholing alcoholslotprogramma
+### Hoofdstuk IV. Scholing educatieve maatregel
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
