@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-05-20"
+last_updated: "2019-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -147,7 +147,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG in de hoedanigheid van nationaal contactpunt met andere lidstaten uitwisselen van gegevens over veroordelingen en sancties met betrekking tot ondernemingen en vervoersmanagers in het wegvervoer en de status van geschiktheid van vervoermanagers;
 
-- w. het beoordelen op zijn technische kenmerken van een voertuig in het kader van de procedure tot aanwijzing voor toelating tot de weg van een motorrijtuig als bedoeld in [artikel 20b, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b);
+- w. het beoordelen van een voertuig en de daarbij aangeleverde documentatie in het kader van de procedure tot aanwijzing voor toelating tot het verkeer op de weg van een motorrijtuig als bedoeld in [artikel 20b, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) en het houden van toezicht op de conformiteit van de productie van die motorrijtuigen;
 
 - x. het ter uitvoering van richtlijn 2004/52/EG beoordelen van aanvragen voor registratie als aanbieder van een elektronisch heffingssysteem, het registreren daarvan conform het bepaalde in artikel 3 van de beschikking 2009/750/EG, het bijhouden en publiceren van een elektronisch register met de in Nederland geregistreerde aanbieders, het uitvoeren van artikel 19, eerste lid, onderdeel b, van de beschikking 2009/750/EG en indien die uitvoering hiertoe aanleiding geeft, het intrekken van de registratie;
 
@@ -169,9 +169,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2018-05-20&g=2018-05-20), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2019-05-02&g=2019-05-02), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2018-05-20&g=2018-05-20) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2019-05-02&g=2019-05-02) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
