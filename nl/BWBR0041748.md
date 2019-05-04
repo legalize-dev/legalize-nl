@@ -4,7 +4,7 @@ identifier: "BWBR0041748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-25"
-last_updated: "2019-01-01"
+last_updated: "2019-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041748"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Tot het afgeven van de volgende Nationale Algemene Vergunning.
 
 #### § 1. Goederen
 
-#### § 2. Bestemmingen
+#### § 2. Geldigheid, toepassingsbereik
 
 #### § 3. Uitsluitingsgronden
 
