@@ -4,7 +4,7 @@ identifier: "BWBR0042194"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-07"
-last_updated: "2019-01-02"
+last_updated: "2019-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042194"
 soort: "zbo"
@@ -124,7 +124,7 @@ Het Bestuursreglement ZON, NWO-MW en ZonMw d.d. 7 maart 2013 komt op het moment 
 
 5. Het bestuur kan een dagelijks bestuur instellen.
 
-6. Het bestuur neemt besluiten bij meerderheid van stemmen, behoudens het gestelde in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=1.6&z=2019-05-07&g=2019-01-02). Bij het staken van de stemmen beslist de stem van de voorzitter.
+6. Het bestuur neemt besluiten bij meerderheid van stemmen, behoudens het gestelde in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=1.6&z=2019-05-07&g=2019-05-07). Bij het staken van de stemmen beslist de stem van de voorzitter.
 
 7. Besluiten kunnen slechts genomen worden indien tenminste de helft van het aantal leden aan de stemming heeft deelgenomen.
 
@@ -314,7 +314,7 @@ Een commissie heeft in opdracht en onder eindverantwoordelijkheid van het bestuu
 
 1. Ter ondersteuning of ter overneming van een gedeelte van haar taak kan een commissie met goedkeuring van de directeur een of meer werkgroepen instellen.
 
-2. De commissie verstrekt de werkgroep een schriftelijke opdracht, waarbij in ieder geval verwezen wordt naar de opdracht van de commissie als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.2&z=2019-05-07&g=2019-01-02).
+2. De commissie verstrekt de werkgroep een schriftelijke opdracht, waarbij in ieder geval verwezen wordt naar de opdracht van de commissie als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.2&z=2019-05-07&g=2019-05-07).
 
 3. De samenstelling en de bepaling van de instellingstermijn van een werkgroep geschiedt door de commissie na overleg met de directeur. De instellingstermijn is begrensd door de instellingsduur van de commissie.
 
