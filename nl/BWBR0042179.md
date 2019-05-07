@@ -4,7 +4,7 @@ identifier: "BWBR0042179"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-07"
-last_updated: "2019-01-01"
+last_updated: "2019-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042179"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - c. welke onderhoudswerkzaamheden in 2019 zijn uitgevoerd.
 
-5. Indien de aanvraag geheel of ten dele betrekking heeft op werkzaamheden als bedoeld in [artikel 3, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=3&z=2019-05-07&g=2019-01-01), voegt de aanvrager bij zijn aanvraag ook bescheiden toe waaruit het moment van betaling blijkt. Indien de aanvraag uitsluitend op dergelijke werkzaamheden betrekking heeft, is het vierde lid, onderdeel c, niet van toepassing.
+5. Indien de aanvraag geheel of ten dele betrekking heeft op werkzaamheden als bedoeld in [artikel 3, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=3&z=2019-05-07&g=2019-05-07), voegt de aanvrager bij zijn aanvraag ook bescheiden toe waaruit het moment van betaling blijkt. Indien de aanvraag uitsluitend op dergelijke werkzaamheden betrekking heeft, is het vierde lid, onderdeel c, niet van toepassing.
 
 ##### Artikel 5. Weigeringsgrond
 
@@ -102,7 +102,7 @@ De subsidieverstrekking kan worden geweigerd voor zover voor de kosten waarvoor 
 
 ##### Artikel 6. Vaststelling en betaling subsidie
 
-1. De minister beslist op een aanvraag binnen 13 weken na sluiting van de aanvraagperiode, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=4&z=2019-05-07&g=2019-01-01).
+1. De minister beslist op een aanvraag binnen 13 weken na sluiting van de aanvraagperiode, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=4&z=2019-05-07&g=2019-05-07).
 
 2. De minister stelt de subsidie direct vast en betaalt het subsidiebedrag ineens.
 
