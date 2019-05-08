@@ -4,7 +4,7 @@ identifier: "BWBR0033132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2019-01-01"
+last_updated: "2019-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033132"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. **de minister:** de Minister van Economische Zaken en Klimaat;
 
 - b. **de ACM:** de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
@@ -64,9 +64,9 @@ In dit besluit wordt verstaan onder:
 
 1. Aan de ACM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
-- a. de [artikelen 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=4a), voor zover het de netwerkcapaciteit betreft en onderdeel d, [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=68), [78, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78), [85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=85), [95d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95d), [95e](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95e) en [95f, eerste lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95f);
+- a. de [artikelen 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=4a), voor zover het de netwerkcapaciteit betreft en onderdeel d, [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=68), [78, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78), [85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=85), [95d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95d), [95e](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95e) en [95f, eerste lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95f);
 
-- b. de [artikelen 1h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1h), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=40), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=46), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=47), [52a, eerste lid, onderdelen d](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52a), voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, f en i, [64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=64), en [83 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=83);
+- b. de [artikelen 1c, vierde en vijfde lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1c), voor zover het de handhaving betreft van de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=8a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=11) en [51 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=51) ten aanzien van onderwerpen die geen betrekking hebben op veiligheid in verband met gas, [1h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1h), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=40), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=46), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=47), [52a, eerste lid, onderdelen d](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52a), voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, f en i, [54](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=56), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=64), en [83 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=83);
 
 - c. [artikel 3, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016605&artikel=3);
 
@@ -86,7 +86,7 @@ Aan de ACM wordt op het werkterrein van de ACM volmacht en machtiging verleend v
 
 ##### Artikel 5
 
-Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2015-10-28&g=2019-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6
 
@@ -120,25 +120,25 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 ##### Artikel 7
 
-1. De ACM kan voor de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2015-10-28&g=2019-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
+1. De ACM kan voor de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
 
-2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2015-10-28&g=2019-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
+2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
 
-3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2015-10-28&g=2019-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
+3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
 
-4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2015-10-28&g=2019-01-01) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
+4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2019-05-08&g=2019-05-08) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
 
 ##### Artikel 8
 
-1. Het verlenen van ondermandaat, volmacht of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
+1. Het verlenen van ondermandaat, volmacht of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht of machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens dit besluit ondermandaat is verleend.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht of machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens dit besluit ondermandaat is verleend.
 
 ##### Artikel 9
 
 Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
-De Minister van Economische Zaken,
+De Minister van Economische Zaken en Klimaat,
 
 namens deze:
 
