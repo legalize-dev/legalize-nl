@@ -4,7 +4,7 @@ identifier: "BWBR0042188"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-09"
-last_updated: "2019-01-02"
+last_updated: "2019-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042188"
 soort: "zbo"
@@ -53,11 +53,11 @@ In deze regeling wordt verstaan onder:
 
 - d. **klantenaangelegenheden:** alle onderwerpen die de vorming, de uitvoering, de controle en de evaluatie van de taken van de SVB betreffen daaronder begrepen een beleidsbesluit in de zin van het vierde lid van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele klanten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
 
-- e. **Klantenadviesraad SVB:** de Klantenadviesraad bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=1&artikel=2&z=2019-05-09&g=2019-01-02).
+- e. **Klantenadviesraad SVB:** de Klantenadviesraad bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=1&artikel=2&z=2019-05-09&g=2019-05-09).
 
 ##### Artikel 2. Instelling cliëntenparticipatie
 
-1. De Raad van bestuur voorziet in de instelling van een Klantenadviesraad met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&z=2019-05-09&g=2019-01-02) genoemde taken en bevoegdheden. De samenstelling van de Klantenadviesraad en de benoeming van zijn leden vinden plaats overeenkomstig de bepalingen van deze regeling.
+1. De Raad van bestuur voorziet in de instelling van een Klantenadviesraad met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&z=2019-05-09&g=2019-05-09) genoemde taken en bevoegdheden. De samenstelling van de Klantenadviesraad en de benoeming van zijn leden vinden plaats overeenkomstig de bepalingen van deze regeling.
 
 2. Op de wijze waarop de Klantenadviesraad zijn taken en bevoegdheden uitoefent alsmede de wijze waarop de Klantenadviesraad wordt voorzien van al hetgeen redelijkerwijs nodig is voor de vervulling van zijn taken, is deze regeling van toepassing.
 
@@ -79,7 +79,7 @@ De Klantenadviesraad SVB bestaat uit een door de Raad van bestuur te benoemen on
 
 4. Ten hoogste één lid wordt benoemd op voordracht van het Netwerk van Organisaties van Oudere Migranten (NOOM).
 
-5. De Raad van bestuur verzoekt de in het tweede tot en met het vierde lid genoemde organisaties binnen een daartoe gestelde termijn om een voordracht te maken voor benoeming van een vertegenwoordiger, die bij voorkeur gerechtigd is tot een pensioen of uitkering van de SVB. Deze voordracht vindt plaats met inachtneming van het negende lid en is bindend tenzij door de benoeming niet kan worden voldaan aan het bepaalde in de laatste volzin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=3&z=2019-05-09&g=2019-01-02) in welk geval de Raad van bestuur bepaalt welke van de organisaties een nieuwe voordracht dient te maken.
+5. De Raad van bestuur verzoekt de in het tweede tot en met het vierde lid genoemde organisaties binnen een daartoe gestelde termijn om een voordracht te maken voor benoeming van een vertegenwoordiger, die bij voorkeur gerechtigd is tot een pensioen of uitkering van de SVB. Deze voordracht vindt plaats met inachtneming van het negende lid en is bindend tenzij door de benoeming niet kan worden voldaan aan het bepaalde in de laatste volzin van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=3&z=2019-05-09&g=2019-05-09) in welk geval de Raad van bestuur bepaalt welke van de organisaties een nieuwe voordracht dient te maken.
 
 6. De Raad van bestuur besluit in samenspraak met de Klantenadviesraad SVB welke andere maatschappelijke organisaties verzocht zal worden een vertegenwoordiger voor te dragen indien:
 
@@ -99,11 +99,11 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 ##### Artikel 5. Herbenoeming
 
-1. Behoudens het bepaalde in het tweede lid en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=6&z=2019-05-09&g=2019-01-02), is herbenoeming door de Raad van bestuur van de voorzitter of een lid van de Klantenadviesraad eenmalig mogelijk. Het bepaalde in het [tweede tot en met vijfde alsmede het zevende lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-01-02) is van overeenkomstige toepassing.
+1. Behoudens het bepaalde in het tweede lid en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=6&z=2019-05-09&g=2019-05-09), is herbenoeming door de Raad van bestuur van de voorzitter of een lid van de Klantenadviesraad eenmalig mogelijk. Het bepaalde in het [tweede tot en met vijfde alsmede het zevende lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-05-09) is van overeenkomstige toepassing.
 
-2. Een lid van de Klantenadviesraad, bedoeld in het [zevende lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-01-02), komt niet voor herbenoeming in aanmerking indien hij bij aanvang van de periode, waarop de herbenoeming betrekking heeft, niet langer gerechtigd is tot een pensioen of uitkering van de SVB.
+2. Een lid van de Klantenadviesraad, bedoeld in het [zevende lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-05-09), komt niet voor herbenoeming in aanmerking indien hij bij aanvang van de periode, waarop de herbenoeming betrekking heeft, niet langer gerechtigd is tot een pensioen of uitkering van de SVB.
 
-3. Behoudens het bepaalde in het derde lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=6&z=2019-05-09&g=2019-01-02) geldt een herbenoeming voor een termijn van vier jaar.
+3. Behoudens het bepaalde in het derde lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=6&z=2019-05-09&g=2019-05-09) geldt een herbenoeming voor een termijn van vier jaar.
 
 ##### Artikel 6. Vervanging
 
@@ -115,7 +115,7 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 - c. als naar het oordeel van de meerderheid, dan wel bij het staken van de stemmen naar het oordeel van de voorzitter van de Klantenadviesraad SVB, de goede gang van zaken bij de werkzaamheden van de Klantenadviesraad SVB door toedoen of verwijtbaar nalaten van het lid wordt belemmerd; of
 
-- d. op een met reden omkleed verzoek van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-01-02) genoemde organisatie die het lid voor benoeming had voorgedragen.
+- d. op een met reden omkleed verzoek van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-05-09) genoemde organisatie die het lid voor benoeming had voorgedragen.
 
 2. De voorzitter van de Klantenadviesraad SVB wordt tussentijds vervangen:
 
@@ -125,7 +125,7 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 - c. op verzoek van de meerderheid van de Klantenadviesraad SVB op grond van het oordeel dat de goede gang van zaken bij de werkzaamheden van de Klantenadviesraad SVB door toedoen of verwijtbaar nalaten van de voorzitter wordt belemmerd.
 
-3. Benoeming wegens een tussentijdse vervanging vindt plaats met inachtneming van de bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=3&z=2019-05-09&g=2019-01-02) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-01-02). De eerste zittingstermijn van het tussentijds benoemde lid bedraagt even lang als het restant van de zittingsduur van het vervangen lid. In afwijking tot het [eerste en derde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=5&z=2019-05-09&g=2019-01-02) komt het tussentijds benoemde lid desgewenst voor een tweede herbenoeming in aanmerking tot uiterlijk 8 jaar na de datum waarop de tussentijdse benoeming inging.
+3. Benoeming wegens een tussentijdse vervanging vindt plaats met inachtneming van de bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=3&z=2019-05-09&g=2019-05-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=4&z=2019-05-09&g=2019-05-09). De eerste zittingstermijn van het tussentijds benoemde lid bedraagt even lang als het restant van de zittingsduur van het vervangen lid. In afwijking tot het [eerste en derde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=2&artikel=5&z=2019-05-09&g=2019-05-09) komt het tussentijds benoemde lid desgewenst voor een tweede herbenoeming in aanmerking tot uiterlijk 8 jaar na de datum waarop de tussentijdse benoeming inging.
 
 4. Vervanging vanwege de in de onderdelen c van het eerste en het tweede lid genoemde redenen vindt niet plaats dan na hoor en wederhoor door of namens de Raad van bestuur. Deze reden kan ook worden gevormd door een al dan niet door overmacht veroorzaakt verzuim van de helft of meer van de vergaderingen van de Klantenadviesraad SVB.
 
@@ -165,7 +165,7 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 ##### Artikel 9. Informatieverstrekking
 
-1. De SVB verstrekt de Klantenadviesraad SVB tijdig, spontaan en op verzoek alle in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-01-02) genoemde stukken en alle andere informatie die de Klantenadviesraad SVB nodig heeft voor de uitoefening van zijn taken, tenzij enig wettelijk voorschrift deze verstrekking in de weg staat.
+1. De SVB verstrekt de Klantenadviesraad SVB tijdig, spontaan en op verzoek alle in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-05-09) genoemde stukken en alle andere informatie die de Klantenadviesraad SVB nodig heeft voor de uitoefening van zijn taken, tenzij enig wettelijk voorschrift deze verstrekking in de weg staat.
 
 2. De SVB informeert de Klantenadviesraad SVB spontaan over de resultaten van klachtenrapportages, onderzoeken naar klanttevredenheid en andere klantenaangelegenheden.
 
@@ -185,7 +185,7 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 1. De voorzitter en de leden van de Klantenadviesraad SVB hebben recht op een door de Raad van bestuur vast te stellen onkostenvergoeding en een vergoeding voor reiskosten. De hoogte van deze vergoedingen stelt de Raad van bestuur vast in een nadere regeling. Behoudens de in het tweede lid bedoelde kosten worden alle kosten die het lidmaatschap met zich meebrengt, geacht door deze onkostenvergoeding te zijn gedekt.
 
-2. Voor de activiteiten van de Klantenadviesraad SVB, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=4&artikel=10&z=2019-05-09&g=2019-01-02), stelt de SVB een budget ter beschikking. Deze kosten worden zoveel mogelijk begroot in het activiteitenplan. De Raad van bestuur stelt de hoogte van het budget vast. Als het vastgestelde budget niet of niet toereikend voorziet in de kosten van de in artikel 10 bedoelde activiteiten, treedt de Klantenadviesraad SVB met de Raad van bestuur in overleg over de financiering van die kosten.
+2. Voor de activiteiten van de Klantenadviesraad SVB, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=4&artikel=10&z=2019-05-09&g=2019-05-09), stelt de SVB een budget ter beschikking. Deze kosten worden zoveel mogelijk begroot in het activiteitenplan. De Raad van bestuur stelt de hoogte van het budget vast. Als het vastgestelde budget niet of niet toereikend voorziet in de kosten van de in artikel 10 bedoelde activiteiten, treedt de Klantenadviesraad SVB met de Raad van bestuur in overleg over de financiering van die kosten.
 
 ### Hoofdstuk 5. Advisering en overleg
 
@@ -193,7 +193,7 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 1. De Klantenadviesraad SVB kan tot een uit te brengen advies slechts besluiten in een vergadering waarin ten minste de helft van het aantal leden aanwezig is. De voorzitter heeft geen stemrecht tenzij de stemmen staken.
 
-2. Behoudens het bepaalde in het tweede lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=5&artikel=14&z=2019-05-09&g=2019-01-02) adviseert de Klantenadviesraad SVB binnen vier weken na dagtekening van het verzoek daartoe tenzij met de Raad van bestuur een andere termijn is afgesproken.
+2. Behoudens het bepaalde in het tweede lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=5&artikel=14&z=2019-05-09&g=2019-05-09) adviseert de Klantenadviesraad SVB binnen vier weken na dagtekening van het verzoek daartoe tenzij met de Raad van bestuur een andere termijn is afgesproken.
 
 3. De Klantenadviesraad SVB kan uit haar midden werkgroepen of commissies benoemen die een advies voorbereiden.
 
@@ -205,9 +205,9 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 ##### Artikel 14. Overleg Klantenadviesraad SVB met de Raad van bestuur
 
-1. Het overleg, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-01-02), vindt ten minste vier keer per jaar in een vergadering plaats. Leden worden geacht om dit overleg met de Raad van bestuur bij te wonen. De agenda wordt door of namens de Raad van bestuur in onderling overleg opgesteld met de voorzitter of plaatsvervangend voorzitter van de Klantenadviesraad.
+1. Het overleg, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-05-09), vindt ten minste vier keer per jaar in een vergadering plaats. Leden worden geacht om dit overleg met de Raad van bestuur bij te wonen. De agenda wordt door of namens de Raad van bestuur in onderling overleg opgesteld met de voorzitter of plaatsvervangend voorzitter van de Klantenadviesraad.
 
-2. Bij spoedeisende adviezen over belangrijke besluiten bedoeld in het [derde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-01-02) vinden tussentijds overleg en advisering plaats. De voorzitter van de Klantenadviesraad en de Raad van bestuur bepalen in onderling overleg de termijn waarbinnen een dergelijk tussentijds overleg plaatsvindt.
+2. Bij spoedeisende adviezen over belangrijke besluiten bedoeld in het [derde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-05-09) vinden tussentijds overleg en advisering plaats. De voorzitter van de Klantenadviesraad en de Raad van bestuur bepalen in onderling overleg de termijn waarbinnen een dergelijk tussentijds overleg plaatsvindt.
 
 3. De oproeping tot een vergadering geschiedt door middel van een uitnodiging op schrift of per e-mail namens de voorzitter. De uitnodiging bevat plaats en tijdstip van de vergadering en gaat vergezeld van een vergaderagenda en de daarop betrekking hebbende stukken. Toezending vindt plaats ten minste één week voor de vergadering.
 
@@ -217,9 +217,9 @@ Een en ander met dien verstande, dat alle organisaties tezamen door niet meer da
 
 6. Indien de in het derde lid bedoelde stukken ingebracht worden door een lid, een werkgroep of commissie dan wel door de voorzitter, dan vindt uiterlijk twee weken voor de vergadering toezending daarvan plaats aan de ambtelijk secretaris.
 
-7. De vergaderingen worden geleid door de voorzitter. Bij afwezigheid van de voorzitter kiezen de leden uit hun midden een vervangende voorzitter. De tweede volzin van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=5&artikel=13&z=2019-05-09&g=2019-01-02), is van overeenkomstige toepassing.
+7. De vergaderingen worden geleid door de voorzitter. Bij afwezigheid van de voorzitter kiezen de leden uit hun midden een vervangende voorzitter. De tweede volzin van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=5&artikel=13&z=2019-05-09&g=2019-05-09), is van overeenkomstige toepassing.
 
-8. De vergaderingen worden bijgewoond door een lid van de Raad van bestuur, bij voorkeur de voorzitter en, tenzij de Klantenadviesraad SVB anders beslist, zo nodig door een of meer deskundigen van de SVB. De ter advisering aan de Cliëntenraad voorgelegde besluiten, bedoeld in het [derde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-01-02), worden ter vergadering zo nodig maar in elk geval op verzoek toegelicht door of namens de Directeur die verantwoordelijk is voor de juridische aangelegenheden van de SVB.
+8. De vergaderingen worden bijgewoond door een lid van de Raad van bestuur, bij voorkeur de voorzitter en, tenzij de Klantenadviesraad SVB anders beslist, zo nodig door een of meer deskundigen van de SVB. De ter advisering aan de Cliëntenraad voorgelegde besluiten, bedoeld in het [derde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042188&hoofdstuk=3&artikel=7&z=2019-05-09&g=2019-05-09), worden ter vergadering zo nodig maar in elk geval op verzoek toegelicht door of namens de Directeur die verantwoordelijk is voor de juridische aangelegenheden van de SVB.
 
 9. Van de vergadering wordt door de ambtelijk secretaris een schriftelijk verslag gemaakt. Dit verslag wordt in de eerstvolgende vergadering besproken en ter goedkeuring voorgelegd.
 
