@@ -4,7 +4,7 @@ identifier: "BWBR0039390"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-10"
-last_updated: "2017-12-15"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039390"
 soort: "zbo"
@@ -148,7 +148,9 @@ Subsidie wordt uitsluitend verstrekt ten behoeve van in Nederland gevestigde, do
 
 - a. voor de schooljaren 2017–2018, 2018–2019, 2019–2020: van 3 juli 2017 tot en met 31 augustus 2017;
 
-- b. voor de schooljaren 2018–2019, 2019–2020, 2020–2021: van 8 januari 2018 tot en met 29 maart 2018.
+- b. voor de schooljaren 2018–2019, 2019–2020, 2020–2021: van 8 januari 2018 tot en met 29 maart 2018;
+
+- c. voor de schooljaren 2019–2020, 2020–2021, 2021–2022: van 29 april 2019 tot en met 24 mei 2019.
 
 2. Buiten deze termijnen worden geen aanvragen in behandeling genomen.
 
@@ -214,7 +216,7 @@ Voor zover deze regeling daar niet in voorziet zijn de bepalingen uit het [Algem
 
 1. Deze regeling treedt in werking op de dag nadat deze in de Staatscourant is gepubliceerd.
 
-2. Deze regeling vervalt op 1 januari 2023. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond blijft het bepaalde in deze regeling van toepassing.
+2. Deze regeling vervalt op 1 januari 2024. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond blijft het bepaalde in deze regeling van toepassing.
 
 ##### Artikel 19. Citeertitel
 
