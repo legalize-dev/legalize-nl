@@ -4,7 +4,7 @@ identifier: "BWBR0042201"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-10"
-last_updated: "2019-01-01"
+last_updated: "2019-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042201"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **de begeleidingscommissie:** de begeleidingscommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-01-01).
+- b. **de begeleidingscommissie:** de begeleidingscommissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-05-10).
 
 ##### Artikel 2. Instelling en taak
 
@@ -82,7 +82,7 @@ De begeleidingscommissie verstrekt aan de Minister desgevraagd de door hem gewen
 
 ##### Artikel 6. Nota
 
-1. De begeleidingscommissie stelt uiterlijk november 2020 een nota op voor de Minister met een oordeel over de gevolgde aanpak en methodologie van de onderzoeken bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-01-01).
+1. De begeleidingscommissie stelt uiterlijk november 2020 een nota op voor de Minister met een oordeel over de gevolgde aanpak en methodologie van de onderzoeken bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042201&artikel=2&z=2019-05-10&g=2019-05-10).
 
 2. Na het uitbrengen van de nota is de commissie opgeheven.
 
