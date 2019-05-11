@@ -4,7 +4,7 @@ identifier: "BWBR0038657"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-18"
-last_updated: "2017-07-01"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038657"
 soort: "ministeriele-regeling"
@@ -48,15 +48,13 @@ De volgende vergunningen worden, op grond van [artikel 3.17, tweede lid, onder b
 
 - b. vergunningen die bestemd zijn voor het gebruik van frequentieruimte voor een bedrijfsondersteunende dienst met een zendbereik dat beperkt is tot de locatie waarop het bedrijf zijn activiteiten uitoefent;
 
-- c. vergunningen die bestemd zijn voor laagvermogen middengolfomroep;
+- c. vergunningen als bedoeld in [artikel 3.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.12);
 
-- d. vergunningen als bedoeld in [artikel 3.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.12);
+- d. vergunningen die bestemd zijn voor onbemand frequentiegebruik door radiozendamateurs;
 
-- e. vergunningen die bestemd zijn voor onbemand frequentiegebruik door radiozendamateurs;
+- e. vergunningen voor het gebruik van frequentieruimte door radiozendamateurs die tijdelijk zijn verleend aan niet-ingezetenen en
 
-- f. vergunningen voor het gebruik van frequentieruimte door radiozendamateurs die tijdelijk zijn verleend aan niet-ingezetenen en
-
-- g. vergunningen voor VHF en UHF-radiotelefonen voor vast opgestelde hijs- en torenkranen die ten behoeve van de communicatie op een bouwplaats zijn verleend.
+- f. vergunningen voor VHF en UHF-radiotelefonen voor vast opgestelde hijs- en torenkranen die ten behoeve van de communicatie op een bouwplaats zijn verleend.
 
 ##### Artikel 2
 
@@ -88,7 +86,7 @@ Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel 8, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038657&artikel=8&z=2017-07-01&g=2017-07-01), dat in werking treedt met ingang van 1 juli 2017.
+Deze regeling treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel 8, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038657&artikel=8&z=2019-05-11&g=2019-05-11), dat in werking treedt met ingang van 1 juli 2017.
 
 ##### Artikel 10
 
