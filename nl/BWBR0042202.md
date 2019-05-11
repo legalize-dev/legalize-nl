@@ -4,7 +4,7 @@ identifier: "BWBR0042202"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-11"
-last_updated: "2019-01-01"
+last_updated: "2019-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042202"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Bij afwezigheid of verhindering van de voorzitter wordt, voor de duur van de afw
 
 ##### Artikel 5. Secretaris
 
-1. De voorzitter kan voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042202&artikel=2&z=2019-05-11&g=2019-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042202&artikel=3&z=2019-05-11&g=2019-01-01) bedoelde aangelegenheden volmacht en machtiging verlenen aan de secretaris en plaatsvervangend secretaris van de commissie.
+1. De voorzitter kan voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042202&artikel=2&z=2019-05-11&g=2019-05-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042202&artikel=3&z=2019-05-11&g=2019-05-11) bedoelde aangelegenheden volmacht en machtiging verlenen aan de secretaris en plaatsvervangend secretaris van de commissie.
 
 2. Het verlenen van volmacht en machtiging geschiedt schriftelijk.
 
