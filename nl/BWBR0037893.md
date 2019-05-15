@@ -4,7 +4,7 @@ identifier: "BWBR0037893"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-14"
-last_updated: "2016-05-01"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037893"
 soort: "ministeriele-regeling"
@@ -54,7 +54,11 @@ In dit besluit wordt verstaan onder:
 
 1. Er is een Commissie bijzondere situaties.
 
-2. De commissie heeft tot taak: het geven van adviezen over hulp aan benadeelden in schrijnende situaties, naar aanleiding van schade als gevolg van aardbevingen door gaswinning in de provincie Groningen.
+2. De commissie heeft tot taak het geven van adviezen over hulp aan benadeelden in schrijnende situaties:
+
+- a. naar aanleiding van schade als gevolg van aardbevingen door gaswinning in de provincie Groningen;
+
+- b. als gevolg van versterkingsmaatregelen.
 
 ##### Artikel 3
 
