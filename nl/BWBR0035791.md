@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2019-03-16"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ In hoofdstuk 9 staat gegeven op welke manier de drie statusniveaus in de tabel q
 
 Een nationale bestemming in een NFP-band is in principe één of meerdere van in de ITU-tabel (regio1) vermelde radiodiensten van die band. In sommige banden is in het NFP één op één sec een ITU-radiodienst vermeld (bijv. ‘omroep’, ‘vaste verbindingen’, ‘mobiele communicatie’, ‘landmobiel’, ‘radioplaatsbepaling’ enz). Soms is de NFP-bestemming verder verbijzonderd, met een systeem of een toepassing bijvoorbeeld ‘Omroep, DVB-T’ of ‘Mobiele communicatie, korteafstandstoepassingen’.
 
-Het is mogelijk dat bepaalde frequentiebanden in Nederland specifiek worden bestemd voor een bepaalde toepassing of categorie randapparaten en radio-apparaten.
+Het is mogelijk dat bepaalde frequentiebanden in Nederland specifiek worden bestemd voor een bepaalde toepassing of categorie eindapparaten en radio-apparaten.
 
 In zijn algemeenheid wordt in het Nederlandse frequentiebeleid en in het NFP naar algemene bestemmingen gestreefd, dat wil zeggen waar mogelijk bestemmingen die techniek-, merken- en dienstenneutraal zijn. Het voordeel hiervan is dat marktpartijen zelf bepalen welke techniek ze toepassen of dienst ze aanbieden, en dus ook of en wanneer ze overstappen naar modernere technieken. Daarbij moet er wel voldoende duidelijkheid zijn over de gebruiksmogelijkheden en beperkingen van een bepaalde frequentieband.
 
@@ -284,19 +284,23 @@ In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en 
 
 ### 8.4. Evenementen
 
+Deviating from the frequency table (NFP2014) the Radiocommunication Agency can, at the request of the Minister of Defense and for the duration of the visit, make frequencies available for visiting forces in accordance with agreements in the prevailing NJFA (NATO Joint Civil / Military Frequency Agreement), under the condition that these frequencies are available and that coordination with the entitled party/parties is enacted and is concluded feasible.
+
 Evenementen zijn gebeurtenissen als bezoeken van buitenlandse staatshoofden, (inter)nationale happenings zoals wieler- en voetbalwedstrijden en grote popconcerten. Gebruikelijk bij deze evenementen is dat buitenlandse delegaties, journalisten, reportageploegen en beveiligers vaak gebruik maken van radio-apparatuur waarvoor een Nederlandse vergunning noodzakelijk is. Afwijken van het NFP kan dan aan de orde zijn. Dergelijk gebruik wordt afgestemd met de rechthebbenden.
 
 Evenementen zijn gebeurtenissen als bezoeken van buitenlandse staatshoofden, (inter)nationale happenings zoals wieler- en voetbalwedstrijden en grote popconcerten. Gebruikelijk bij deze evenementen is dat buitenlandse delegaties, journalisten, reportageploegen en beveiligers vaak gebruik maken van radio-apparatuur waarvoor een Nederlandse vergunning noodzakelijk is. Afwijken van het NFP kan dan aan de orde zijn. Dergelijk gebruik wordt afgestemd met de rechthebbenden.
 
 Een evenement is in principe kortdurend en vindt doorgaans lokaal plaats. Hierbij wel de kanttekening dat bijvoorbeeld een kampioenschap meerdere weken kan duren, en een wielerwedstrijd meer dan lokaal kan zijn.
 
-Een vergunning wordt verleend voor maximaal de duur van het evenement in ruime zin. (Hieronder valt ook het opbouwen en testen voorafgaand aan het evenement en eventueel nawerk).
-
 ### 8.5. Testinstellingen
 
-Apparatuur, voordat deze op de markt wordt gebracht, moet worden getest om te bezien of ze bestand is tegen elektromagnetische velden. Daartoe wordt de apparatuur blootgesteld aan signalen over een breed radiospectrum.
+Evenementenomroep (in de FM band) is geregeld door middel van voetnoot HOL003.
 
 Apparatuur, voordat deze op de markt wordt gebracht, moet worden getest om te bezien of ze bestand is tegen elektromagnetische velden. Daartoe wordt de apparatuur blootgesteld aan signalen over een breed radiospectrum.
+
+### 8.6. Buitengewone omstandigheden
+
+Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([richtlijn 2004/108/EG](32004L0108) van het Europees parlement en de Raad van 15 december 2004 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit en tot intrekking van [Richtlijn 89/336/EEG](31989L0336), Pb EU L 390/24)24Op 26 februari 2014 is een nieuwe EMC-richtlijn aangenomen (2014/30/EU) die in werking treedt op 20 april 2016. of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
 
 ### 8.6. Buitengewone omstandigheden
 
@@ -310,15 +314,13 @@ Dit hoofdstuk bevat een beknopte handleiding en syntaxis voor interpretatie van 
 
 Onder deze kop staat de frequentiebandindeling zoals van toepassing in Nederland. Wanneer de bandgrens vet is aangegeven komt deze overeen met een ITU-bandgrens op dit punt. Indien niet vet betreft het een ingevoegde Nederlandse bandgrens.
 
-### Itu-radiodienst
-
 Onder deze kop staat de ITU-radiodienst (afkorting) waarvoor Nederland de betreffende frequentieband heeft bestemd. Annex 1 geeft de volledige lijst betekenissen van deze afkortingen.
 
 Onder deze kop staat de ITU-radiodienst (afkorting) waarvoor Nederland de betreffende frequentieband heeft bestemd. Annex 1 geeft de volledige lijst betekenissen van deze afkortingen.
-
-In deze kolom wordt een primaire status aangegeven in hoofdletters als [RADIODIENST]. Een secundaire status wordt aangegeven met kleine letters dus als [radiodienst].
 
 ### Bestemming
+
+Non Interference -bestemming wordt aangegeven in kleine letters tussen schuine strepen, dus [/radiodienst/]
 
 Deze kolom vermeldt voor welke radiodienst de frequentieband in Nederland is bestemd Dat kan een simpele en algemene bestemming zijn, bijvoorbeeld [Maritiemmobiele communicatie].
 
@@ -334,11 +336,9 @@ Haakjes worden gebruikt voor nadere aanduiding of informatie over die bestemming
 
 Achter de (tekstuele) bestemmingen staan soms nummers vermeld. Dat zijn ITU-voetnoten (meestal een viercijferig getal beginnend met een ‘5.’, bijvoorbeeld 5.372)). In Annex 2, wordt de betekenis van de ITU-voetnoten gegeven.
 
-Aanduidingen die beginnen met ‘ HOLxxx’ zijn nationale voetnoten waarvan de betekenis staat vermeld in Annex 3.
-
 ### Verdeelmechanisme
 
-‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
+Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
 
 ‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
 
@@ -346,7 +346,9 @@ Aanduidingen die beginnen met ‘ HOLxxx’ zijn nationale voetnoten waarvan de 
 
 ### 10. De frequentietabel
 
-### Bijlagen
+### 10. De frequentietabel
+
+Lijst van de voor Nederland relevante ITU-radiodiensten.
 
 Lijst van de voor Nederland relevante ITU-radiodiensten.
 
@@ -426,9 +428,9 @@ A radiocommunication service in which space craft or other objects in space are 
 
 A radiocommunication service in which space craft or other objects in space are used for scientific or technological purposes.
 
-The downlinks for a passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
-
 ### Annex 2, Betekenis ITU voetnoten
+
+A passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
 
 Hieronder treft u de lijst van ITU voetnoten voor zover vermeld in de NFP-frequentietabel, met daarbij de betekenis uit de ITU Radio Regulations. Tussen haakjes staat steeds na elke voetnoot vermeld in welke WRC deze is aangenomen.
 
@@ -440,723 +442,737 @@ Bij een NFP-bestemming is in een band een ITU voetnoot vermeld indien:
 
 Aanvullende informatie hierover is te vinden op de ITU site (http://www.itu.int/pub/R-REG-RR/en)
 
-5.53 Administrations authorizing the use of frequencies below 8.3 kHz shall ensure that no harmful interference is caused to services to which the bands above 8.3 kHz are allocated. (WRC-12)
+**5.53**Administrations authorizing the use of frequencies below 8.3 kHz shall ensure that no harmful interference is caused to services to which the bands above 8.3 kHz are allocated. (WRC-12)
 
-5.54 Administrations conducting scientific research using frequencies below 8.3 kHz are urged to advise other administrations that may be concerned in order that such research may be afforded all practicable protection from harmful interference. (WRC-12)
+**5.54**Administrations conducting scientific research using frequencies below 8.3 kHz are urged to advise other administrations that may be concerned in order that such research may be afforded all practicable protection from harmful interference. (WRC-12)
 
-5.54A Use of the 8.3-11.3 kHz frequency band by stations in the meteorological aids service is limited to passive use only. In the band 9-11.3 kHz, meteorological aids stations shall not claim protection from stations of the radionavigation service submitted for notification to the Bureau prior to 1 January 2013. For sharing between stations of the meteorological aids service and stations in the radionavigation service submitted for notification after this date, the most recent version of Recommendation ITU-R RS.1881 should be applied. (WRC-12)
+**5.54A**Use of the 8.3–11.3 kHz frequency band by stations in the meteorological aids service is limited to passive use only. In the band 9–11.3 kHz, meteorological aids stations shall not claim protection from stations of the radionavigation service submitted for notification to the Bureau prior to 1 January 2013. For sharing between stations of the meteorological aids service and stations in the radionavigation service submitted for notification after this date, the most recent version of Recommendation ITU-R RS.1881 should be applied. (WRC-12)
 
-5.56 The stations of services to which the bands 14-19.95 kHz and 20.05-70 kHz and in Region 1 also the bands 72-84 kHz and 86-90 kHz are allocated may transmit standard frequency and time signals. Such stations shall be afforded protection from harmful interference. In Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan, the frequencies 25 kHz and 50 kHz will be used for this purpose under the same conditions. (WRC-12)
+**5.56**The stations of services to which the bands 14–19.95 kHz and 20.05–70 kHz and in Region 1 also the bands 72–84 kHz and 86–90 kHz are allocated may transmit standard frequency and time signals. Such stations shall be afforded protection from harmful interference. In Armenia, Azerbaijan, Belarus, the Russian Federation, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan, the frequencies 25 kHz and 50 kHz will be used for this purpose under the same conditions. (WRC-12)
 
-5.60 In the bands 70-90 kHz (70-86 kHz in Region 1) and 110-130 kHz (112-130 kHz in Region 1), pulsed radionavigation systems may be used on condition that they do not cause harmful interference to other services to which these bands are allocated.
+**5.60**In the bands 70–90 kHz (70–86 kHz in Region 1) and 110–130 kHz (112–130 kHz in Region 1), pulsed radionavigation systems may be used on condition that they do not cause harmful interference to other services to which these bands are allocated.
 
-5.64 Only classes A1A or F1B, A2C, A3C, F1C or F3C emissions are authorized for stations of the fixed service in the bands allocated to this service between 90 kHz and 160 kHz (148.5 kHz in Region 1) and for stations of the maritime mobile service in the bands allocated to this service between 110 kHz and 160 kHz (148.5 kHz in Region 1). Exceptionally, class J2B or J7B emissions are also authorized in the bands between 110 kHz and 160 kHz (148.5 kHz in Region 1) for stations of the maritime mobile service.
+**5.64**Only classes A1A or F1B, A2C, A3C, F1C or F3C emissions are authorized for stations of the fixed service in the bands allocated to this service between 90 kHz and 160 kHz (148.5 kHz in Region 1) and for stations of the maritime mobile service in the bands allocated to this service between 110 kHz and 160 kHz (148.5 kHz in Region 1).
 
-5.66 Different category of service: in Germany, the allocation of the band 115-117.6 kHz to the fixed and maritime mobile services is on a primary basis (see No. 5.33) and to the radionavigation service on a secondary basis (see No. 5.32).
+Exceptionally, class J2B or J7B emissions are also authorized in the bands between 110 kHz and 160 kHz (148.5 kHz in Region 1) for stations of the maritime mobile service.
 
-5.67A Stations in the amateur service using frequencies in the band 135.7-137.8 kHz shall not exceed a maximum radiated power of 1 W (e.i.r.p.) and shall not cause harmful interference to stations of the radionavigation service operating in countries listed in No. 5.67. (WRC-07)
+**5.66** **Different category of service:**in Germany, the allocation of the band 115–117.6 kHz to the fixed and maritime mobile services is on a primary basis (see No. **5.33**) and to the radionavigation service on a secondary basis (see No. **5.32**).
 
-5.73 The band 285-325 kHz (283.5-325 kHz in Region 1) in the maritime radionavigation service may be used to transmit supplementary navigational information using narrow-band techniques, on condition that no harmful interference is caused to radiobeacon stations operating in the radionavigation service. (WRC-97)
+**5.67A**Stations in the amateur service using frequencies in the band 135.7–137.8 kHz shall not exceed a maximum radiated power of 1 W (e.i.r.p.) and shall not cause harmful interference to stations of the radionavigation service operating in countries listed in No. **5.67**. (WRC-07)
 
-5.74 Additional Allocation: in Region 1, the frequency band 285.3-285.7 kHz is also allocated to the maritime radionavigation service (other than radiobeacons) on a primary basis.
+**5.73**The band 285–325 kHz (283.5–325 kHz in Region 1) in the maritime radionavigation service may be used to transmit supplementary navigational information using narrow-band techniques, on condition that no harmful interference is caused to radiobeacon stations operating in the radionavigation service. (WRC-97)
 
-5.76 The frequency 410 kHz is designated for radio direction-finding in the maritime radionavigation service. The other radionavigation services to which the band 405-415 kHz is allocated shall not cause harmful interference to radio direction-finding in the band 406.5-413.5 kHz.
+**5.74** **Additional Allocation:**in Region 1, the frequency band 285.3–285.7 kHz is also allocated to the maritime radionavigation service (other than radiobeacons) on a primary basis.
 
-5.79 The use of the bands 415-495 kHz and 505-526.5 kHz (505-510 kHz in Region 2) by the maritime mobile service is limited to radiotelegraphy.
+**5.76**The frequency 410 kHz is designated for radio direction-finding in the maritime radionavigation service. The other radionavigation services to which the band 405–415 kHz is allocated shall not cause harmful interference to radio direction-finding in the band 406.5–413.5 kHz.
 
-5.79A When establishing coast stations in the NAVTEX service on the frequencies 490 kHz, 518 kHz and 4209.5 kHz, administrations are strongly recommended to coordinate the operating characteristics in accordance with the procedures of the International Maritime Organization (IMO) (see Resolution 339 (Rev.WRC-07)). (WRC-07)
+**5.79**The use of the bands 415–495 kHz and 505–526.5 kHz (505–510 kHz in Region 2) by the maritime mobile service is limited to radiotelegraphy.
 
-5.80A The maximum equivalent isotropically radiated power (e.i.r.p.) of stations in the amateur service using frequencies in the band 472-479 kHz shall not exceed 1 W. Administrations may increase this limit of e.i.r.p. to 5 W in portions of their territory which are at a distance of over 800 km from the borders of Algeria, Saudi Arabia, Azerbaijan, Bahrain, Belarus, China, Comoros, Djibouti, Egypt, United Arab Emirates, the Russian Federation, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kuwait, Lebanon, Libya, Morocco, Mauritania, Oman, Uzbekistan, Qatar, Syrian Arab Republic, Kyrgyzstan, Somalia, Sudan, Tunisia, Ukraine and Yemen. In this frequency band, stations in the amateur service shall not cause harmful interference to, or claim protection from, stations of the aeronautical radionavigation service. (WRC-12)
+**5.79A**When establishing coast stations in the NAVTEX service on the frequencies 490 kHz, 518 kHz and 4209.5 kHz, administrations are strongly recommended to coordinate the operating characteristics in accordance with the procedures of the International Maritime Organization (IMO) (see Resolution **339 (Rev.WRC-07)**). (WRC-07)
 
-5.82 In the maritime mobile service, the frequency 490 kHz is to be used exclusively for the transmission by coast stations of navigational and meteorological warnings and urgent information to ships, by means of narrow-band direct-printing telegraphy. The conditions for use of the frequency 490 kHz are prescribed in Articles 31 and 52. In using the frequency band 415-495 kHz for the aeronautical radionavigation service, administrations are requested to ensure that no harmful interference is caused to the frequency 490 kHz. In using the frequency band 472-479 kHz for the amateur service, administrations shall ensure that no harmful interference is caused to the frequency 490 kHz. (WRC-12)
+**5.80A**The maximum equivalent isotropically radiated power (e.i.r.p.) of stations in the amateur service using frequencies in the band 472–479 kHz shall not exceed 1 W. Administrations may increase this limit of e.i.r.p. to 5 W in portions of their territory which are at a distance of over 800 km from the borders of Algeria, Saudi Arabia, Azerbaijan, Bahrain, Belarus, China, Comoros, Djibouti, Egypt, United Arab Emirates, the Russian Federation, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kuwait, Lebanon, Libya, Morocco, Mauritania, Oman, Uzbekistan, Qatar, Syrian Arab Republic, Kyrgyzstan, Somalia, Sudan, Tunisia, Ukraine and Yemen. In this frequency band, stations in the amateur service shall not cause harmful interference to, or claim protection from, stations of the aeronautical radionavigation service. (WRC-12)
 
-5.84 The conditions for the use of the frequency 518 kHz by the maritime mobile service are prescribed in Articles 31 and 52. (WRC-07)
+**5.82**In the maritime mobile service, the frequency 490 kHz is to be used exclusively for the transmission by coast stations of navigational and meteorological warnings and urgent information to ships, by means of narrow-band direct-printing telegraphy. The conditions for use of the frequency 490 kHz are prescribed in Articles **31**and **52**. In using the frequency band 415–495 kHz for the aeronautical radionavigation service, administrations are requested to ensure that no harmful interference is caused to the frequency 490 kHz. In using the frequency band 472–479 kHz for the amateur service, administrations shall ensure that no harmful interference is caused to the frequency 490 kHz. (WRC-12)
 
-5.92 Some countries of Region 1 use radiodetermination systems in the bands 1606.5-1 625 kHz, 1635-1 800 kHz, 1850-2 160 kHz, 2194-2 300 kHz, 2502-2 850 kHz and 3500-3 800 kHz, subject to agreement obtained under No. 9.21. The radiated mean power of these stations shall not exceed 50 W.
+**5.84**The conditions for the use of the frequency 518 kHz by the maritime mobile service are prescribed in Articles **31**and **52**. (WRC-07)
 
-5.98 Alternative allocation: in Angola, Armenia, Azerbaijan, Belarus, Belgium, Cameroon, Congo (Rep. of the), Denmark, Egypt, Eritrea, Spain, Ethiopia, the Russian Federation, Georgia, Greece, Italy, Kazakhstan, Lebanon, Lithuania, the Syrian Arab Republic, Kyrgyzstan, Somalia, Tajikistan, Tunisia, Turkmenistan, Turkey and Ukraine, the band 1810-1 830 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12).
+**5.92**Some countries of Region 1 use radiodetermination systems in the bands 1606.5–1625 kHz, 1635–1800 kHz, 1850–2160 kHz, 2194–2300 kHz, 2502–2850 kHz and 3500–3800 kHz, subject to agreement obtained under No. **9.21**. The radiated mean power of these stations shall not exceed 50 W.
 
-5.99 Additional allocation: in Saudi Arabia, Austria, Iraq, Libya, Uzbekistan, Slovakia, Romania, Slovenia, Chad, and Togo, the band 1810-1 830 kHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12).
+**5.98** **Alternative allocation**: in Armenia, Azerbaijan, Belarus, Belgium, Cameroon, Congo (Rep. of the), Denmark, Egypt, Eritrea, Spain, Ethiopia, the Russian Federation, Georgia, Greece, Italy, Kazakhstan, Lebanon, Lithuania, the Syrian Arab Republic, Kyrgyzstan, Somalia, Tajikistan, Tunisia, Turkmenistan and Turkey, the frequency band 1810–1830 kHz is allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-15)
 
-5.100 In Region 1, the authorization to use the band 1810-1 830 kHz by the amateur service in countries situated totally or partially north of 40° N shall be given only after consultation with the countries mentioned in Nos. 5.98 and 5.99 to define the necessary steps to be taken to prevent harmful interference between amateur stations and stations of other services operating in accordance with Nos. 5.98 and 5.99.
+**5.99** **Additional allocation:**in Saudi Arabia, Austria, Iraq, Libya, Uzbekistan, Slovakia, Romania, Slovenia, Chad, and Togo, the band 1810–1830 kHz is also allocated to the fixed and mobile, except aeronautical mobile, services on a primary basis. (WRC-12)
 
-5.103 In Region 1, in making assignments to stations in the fixed and mobile services in the bands 1850-2 045 kHz, 2194-2 498 kHz, 2502-2 625 kHz and 2650-2 850 kHz, administrations should bear in mind the special requirements of the maritime mobile service.
+**5.100**In Region 1, the authorization to use the band 1810–1830 kHz by the amateur service in countries situated totally or partially north of 40° N shall be given only after consultation with the countries mentioned in Nos. **5.98**and **5.99**to define the necessary steps to be taken to prevent harmful interference between amateur stations and stations of other services operating in accordance with Nos. **5.98**and **5.99**.
 
-5.104 In Region 1, the use of the band 2025-2 045 kHz by the meteorological aids service is limited to oceanographic buoy stations.
+**5.103**In Region 1, in making assignments to stations in the fixed and mobile services in the bands 1850–2045 kHz, 2194–2498 kHz, 2502–2625 kHz and 2650–2850 kHz, administrations should bear in mind the special requirements of the maritime mobile service.
 
-5.108 The carrier frequency 2182 kHz is an international distress and calling frequency for radiotelephony. The conditions for the use of the band 2173.5-2 190.5 kHz are prescribed in Articles 31 and 52. (WRC-07)
+**5.104**In Region 1, the use of the band 2025–2045 kHz by the meteorological aids service is limited to oceanographic buoy stations.
 
-5.109 The frequencies 2187.5 kHz, 4207.5 kHz, 6312 kHz, 8414.5 kHz, 12577 kHz and 16804.5 kHz are international distress frequencies for digital selective calling. The conditions for the use of these frequencies are prescribed in Article 31.
+**5.108**The carrier frequency 2182 kHz is an international distress and calling frequency for radiotelephony. The conditions for the use of the band 2173.5–2190.5 kHz are prescribed in Articles **31**and **52**. (WRC-07)
 
-5.110 The frequencies 2174.5 kHz, 4177.5 kHz, 6268 kHz, 8376.5 kHz, 12520 kHz and 16695 kHz are international distress frequencies for narrow-band direct-printing telegraphy. The conditions for the use of these frequencies are prescribed in Article 31.
+**5.109**The frequencies 2187.5 kHz, 4207.5 kHz, 6312 kHz, 8414.5 kHz, 12577 kHz and 16804.5 kHz are international distress frequencies for digital selective calling. The conditions for the use of these frequencies are prescribed in Article **31**.
 
-5.111 The carrier frequencies 2182 kHz, 3023 kHz, 5680 kHz, 8364 kHz and the frequencies 121.5 MHz, 156.525 MHz, 156.8 MHz and 243 MHz may also be used, in accordance with the procedures in force for terrestrial radiocommunication services, for search and rescue operations concerning manned space vehicles. The conditions for the use of the frequencies are prescribed in Article 31.
+**5.110**The frequencies 2174.5 kHz, 4177.5 kHz, 6268 kHz, 8376.5 kHz, 12520 kHz and 16695 kHz are international distress frequencies for narrow-band direct-printing telegraphy. The conditions for the use of these frequencies are prescribed in Article **31**.
 
-The same applies to the frequencies 10003 kHz, 14993 kHz and 19993 kHz, but in each of these cases emissions must be confined in a band of ±3 kHz about the frequency. (WRC-07)
+**5.111**The carrier frequencies 2182 kHz, 3023 kHz, 5680 kHz, 8364 kHz and the frequencies 121.5 MHz, 156.525 MHz, 156.8 MHz and 243 MHz may also be used, in accordance with the procedures in force for terrestrial radiocommunication services, for search and rescue operations concerning manned space vehicles. The conditions for the use of the frequencies are prescribed in Article **31**.
 
-5.115 The carrier (reference) frequencies 3023 kHz and 5680 kHz may also be used, in accordance with Article 31, by stations of the maritime mobile service engaged in coordinated search and rescue operations. (WRC-07)
+The same applies to the frequencies 10003 kHz, 14993 kHz and 19993 kHz, but in each of these cases emissions must be confined in a band of 3 kHz about the frequency. (WRC-07)
 
-5.132 The frequencies 4210 kHz, 6314 kHz, 8416.5 kHz, 12579 kHz, 16806.5 kHz, 19680.5 kHz, 22376 kHz and 26100.5 kHz are the international frequencies for the transmission of maritime safety information (MSI) (see Appendix 17).
+**5.115**The carrier (reference) frequencies 3023 kHz and 5680 kHz may also be used, in accordance with Article **31**, by stations of the maritime mobile service engaged in coordinated search and rescue operations. (WRC-07)
 
-5.132A Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed or mobile services. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution 612 (Rev.WRC-12). (WRC-12)
+**5.132**The frequencies 4210 kHz, 6314 kHz, 8416.5 kHz, 12579 kHz, 16806.5 kHz, 19680.5 kHz, 22376 kHz and 26100.5 kHz are the international frequencies for the transmission of maritime safety information (MSI) (see Appendix **17**).
 
-5.134 The use of the bands 5900-5 950 kHz, 7300-7 350 kHz, 9400-9 500 kHz, 11600-11 650 kHz, 12050-12 100 kHz, 13570-13 600 kHz, 13800-13 870 kHz, 15600-15 800 kHz, 17480-17 550 kHz and 18900-19 020 kHz by the broadcasting service is subject to the application of the procedure of Article 12. Administrations are encouraged to use these bands to facilitate the introduction of digitally modulated emissions in accordance with the provisions of Resolution 517 (Rev.WRC-07). (WRC-07)
+**5.132A**Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed or mobile services. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution **612 (Rev.WRC-12)**. (WRC-12)
 
-5.136 Additional allocation: frequencies in the band 5900-5 950 kHz may be used by stations in the following services, communicating only within the boundary of the country in which they are located: fixed service (in all three Regions), land mobile service (in Region 1), mobile except aeronautical mobile (R) service (in Regions 2 and 3), on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)
+**5.133B**Stations in the amateur service using the frequency band 5351.5–5366.5 kHz shall not exceed a maximum radiated power of 15 W (e.i.r.p.). However, in Region 2 in Mexico, stations in the amateur service using the frequency band 5351.5–5366.5 kHz shall not exceed a maximum radiated power of 20 W (e.i.r.p.). In the following Region 2 countries: Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Dominica, El Salvador, Ecuador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Nicaragua, Panama, Paraguay, Peru, Saint Lucia, Saint Kitts and Nevis, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Uruguay, Venezuela, as well as the overseas territories of the Netherlands in Region 2, stations in the amateur service using the frequency band 5351.5–5366.5 kHz shall not exceed a maximum radiated power of 25 W (e.i.r.p.). (WRC-15)
 
-5.138 The following bands:
+**5.134**The use of the bands 5900–5950 kHz, 7300–7350 kHz, 9400–9500 kHz, 11600–11650 kHz, 12050–12100 kHz, 13570–13600 kHz, 13800–13870 kHz, 15600–15800 kHz, 17480–17550 kHz and 18900–19020 kHz by the broadcasting service is subject to the application of the procedure of Article **12**.
 
-6 765-6 795 kHz (centre frequency 6780 kHz),
+Administrations are encouraged to use these bands to facilitate the introduction of digitally modulated emissions in accordance with the provisions of Resolution **517 (Rev.WRC-07)***. (WRC-07)
 
-433.05-434.79 MHz (centre frequency 433.92 MHz) in Region 1
+**5.136** **Additional allocation:**frequencies in the band 5900–5950 kHz may be used by stations in the following services, communicating only within the boundary of the country in which they are located: fixed service (in all three Regions), land mobile service (in Region 1), mobile except aeronautical mobile (R) service (in Regions 2 and 3), on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)
 
-except in the countries mentioned in No. 5.280,
+**5.138**The following bands:
 
-61-61.5 GHz (centre frequency 61.25 GHz),
+6765–6795 kHz (centre frequency 6780 kHz),
 
-122-123 GHz (centre frequency 122.5 GHz), and
+433.05–434.79 MHz (centre frequency 433.92 MHz) in Region 1 except in the countries mentioned in No. **5.280**,
 
-244-246 GHz (centre frequency 245 GHz)
+61–61.5 GHz (centre frequency 61.25 GHz),
+
+122–123 GHz (centre frequency 122.5 GHz), and
+
+244–246 GHz (centre frequency 245 GHz)
 
 are designated for industrial, scientific and medical (ISM) applications. The use of these frequency bands for ISM applications shall be subject to special authorization by the administration concerned, in agreement with other administrations whose radiocommunication services might be affected. In applying this provision, administrations shall have due regard to the latest relevant ITU-R Recommendations.
 
-5.138A (SUP-WRC-12)
+**5.138A**(SUP - WRC-12)
 
-5.141C (SUP – WRC-12)
+**5.141C**(SUP - WRC-12)
 
-5.143 Additional allocation: frequencies in the band 7300-7 350 kHz may be used by stations in the fixed service and in the land mobile service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies for these services, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)
+**5.143B**In Region 1, frequencies in the band 7350–7450 kHz may be used by stations in the fixed and land mobile services communicating only within the boundary of the country in which they are located on condition that harmful interference is not caused to the broadcasting service. The total radiated power of each station shall not exceed 24 dBW. (WRC-12)
 
-5.143B In Region 1, frequencies in the band 7350-7 450 kHz may be used by stations in the fixed and land mobile services communicating only within the boundary of the country in which they are located on condition that harmful interference is not caused to the broadcasting service. The total radiated power of each station shall not exceed 24 dBW. (WRC-12)
+**5.143E**(SUP - WRC-12)
 
-5.143E (SUP – WRC-12)
+**5.145**The conditions for the use of the carrier frequencies 8291 kHz, 12290 kHz and 16420 kHz are prescribed in Articles **31**and **52**. (WRC-07)
 
-5.145 The conditions for the use of the carrier frequencies 8291 kHz, 12290 kHz and 16420 kHz are prescribed in Articles 31 and 52. (WRC-07)
+**5.145A**Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed service. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution **612 (Rev.WRC-12)**. (WRC-12)
 
-5.145A Stations in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the fixed service. Applications of the radiolocation service are limited to oceanographic radars operating in accordance with Resolution 612 (Rev.WRC-12). (WRC-12)
+**5.146** **Additional allocation:**frequencies in the bands 9400–9500 kHz, 11600–11650 kHz, 12050–12100 kHz, 15600–15800 kHz, 17480–17550 kHz and 18900–19020 kHz may be used by stations in the fixed service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies in the fixed service, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)
 
-5.146 Additional allocation: frequencies in the bands 9400-9 500 kHz, 11600-11 650 kHz, 12050-12 100 kHz, 15600-15 800 kHz, 17480-17 550 kHz and 18900-19 020 kHz may be used by stations in the fixed service, communicating only within the boundary of the country in which they are located, on condition that harmful interference is not caused to the broadcasting service. When using frequencies in the fixed service, administrations are urged to use the minimum power required and to take account of the seasonal use of frequencies by the broadcasting service published in accordance with the Radio Regulations. (WRC-07)
+**5.149**In making assignments to stations of other services to which the bands:
 
-5.149 In making assignments to stations of other services to which the bands:
+13360–13410 kHz,
 
-13 360-13 410 kHz,
+25550–25670 kHz,
 
-25 550-25 670 kHz,
+37.5–38.25 MHz,
 
-37.5-38.25 MHz,
+73–74.6 MHz in Regions 1 and 3,
 
-73-74.6 MHz in Regions 1 and 3,
+150.05–153 MHz in Region 1,
 
-150.05-153 MHz in Region 1,
+322–328.6 MHz,
 
-322-328.6 MHz,
+406.1–410 MHz,
 
-406.1-410 MHz,
+608–614 MHz in Regions 1 and 3,
 
-608-614 MHz in Regions 1 and 3,
+1330–1400 MHz,
 
-1 330-1 400 MHz,
+1610.6–1613.8 MHz,
 
-1 610.6-1 613.8 MHz,
+1660–1670 MHz,
 
-1 660-1 670 MHz,
+1718.8–1722.2 MHz,
 
-1 718.8-1 722.2 MHz,
+2655–2690 MHz,
 
-2 655-2 690 MHz,
+3260–3267 MHz,
 
-3 260-3 267 MHz,
+3332–3339 MHz,
 
-3 332-3 339 MHz,
+3345.8–3352.5 MHz,
 
-3 345.8-3 352.5 MHz,
+4825–4835 MHz,
 
-4 825-4 835 MHz,4 950-4 990 MHz,
+4950–4990 MHz,
 
-4 990-5 000 MHz,
+4990–5000 MHz,
 
-6 650-6 675.2 MHz,
+6650–6675.2 MHz,
 
-10.6-10.68 GHz,
+10.6–10.68 GHz,
 
-14.47-14.5 GHz,
+14.47–14.5 GHz,
 
-22.01-22.21 GHz,
+22.01–22.21 GHz,
 
-22.21-22.5 GHz,
+22.21–22.5 GHz,
 
-22.81-22.86 GHz,
+22.81–22.86 GHz,
 
-23.07-23.12 GHz,
+23.07–23.12 GHz,
 
-31.2-31.3 GHz,
+31.2–31.3 GHz,
 
-31.5-31.8 GHz in Regions 1 and 3,
+31.5–31.8 GHz in Regions 1 and 3,
 
-36.43-36.5 GHz,
+36.43–36.5 GHz,
 
-42.5-43.5 GHz,
+42.5–43.5 GHz,
 
-48.94-49.04 GHz,
+48.94–49.04 GHz,
 
-76-86 GHz,
+76–86 GHz,
 
-92-94 GHz,
+92–94 GHz,
 
-94.1-100 GHz,102-109.5 GHz,
+94.1–100 GHz,
 
-111.8-114.25 GHz,
+102–109.5 GHz,
 
-128.33-128.59 GHz,
+111.8–114.25 GHz,
 
-129.23-129.49 GHz,
+128.33–128.59 GHz,
 
-130-134 GHz,
+129.23–129.49 GHz,
 
-136-148.5 GHz,
+130–134 GHz,
 
-151.5-158.5 GHz,
+136–148.5 GHz,
 
-168.59-168.93 GHz,
+151.5–158.5 GHz,
 
-171.11-171.45 GHz,
+168.59–168.93 GHz,
 
-172.31-172.65 GHz,
+171.11–171.45 GHz,
 
-173.52-173.85 GHz,
+172.31–172.65 GHz,
 
-195.75-196.15 GHz,
+173.52–173.85 GHz,
 
-209-226 GHz,
+195.75–196.15 GHz,
 
-241-250 GHz,
+209–226 GHz,
 
-252-275 GHzare allocated, administrations are urged to take all practicable steps to protect the radio astronomy service from harmful interference. Emissions from spaceborne or airborne stations can be particularly serious sources of interference to the radio astronomy service (see Nos. 4.5 and 4.6 and Article 29). (WRC-07)
+241–250 GHz,
 
-5.150 The following bands:
+252–275 GHz
 
-13 553-13 567 kHz (centre frequency 13560 kHz),
+are allocated, administrations are urged to take all practicable steps to protect the radio astronomy service from harmful interference. Emissions from spaceborne or airborne stations can be particularly serious sources of interference to the radio astronomy service (see Nos. **4.5**and **4.6**and Article **29**). (WRC-07)
 
-26 957-27 283 kHz (centre frequency 27120 kHz),
+**5.150**The following bands:
 
-40.66-40.70 MHz (centre frequency 40.68 MHz),
+13553–13567 kHz (centre frequency 13560 kHz),
 
-902-928 MHz in Region 2 (centre frequency 915 MHz),
+26957–27283 kHz (centre frequency 27120 kHz),
 
-2 400-2 500 MHz (centre frequency 2450 MHz),
+40.66–40.70 MHz (centre frequency 40.68 MHz),
 
-5 725-5 875 MHz (centre frequency 5800 MHz), and
+902–928 MHz in Region 2 (centre frequency 915 MHz),
 
-24-24.25 GHz (centre frequency 24.125 GHz)
+2400–2500 MHz (centre frequency 2450 MHz),
 
-are also designated for industrial, scientific and medical (ISM) applications. Radiocommunication services operating within these bands must accept harmful interference which may be caused by these applications. ISM equipment operating in these bands is subject to the provisions of No. 15.13.
+5725–5875 MHz (centre frequency 5800 MHz), and
 
-5.155B The band 21870-21 924 kHz is used by the fixed service for provision of services related to aircraft flight safety.
+24–24.25 GHz (centre frequency 24.125 GHz)
 
-5.156A The use of the band 23200-23 350 kHz by the fixed service is limited to provision of services related to aircraft flight safety.
+are also designated for industrial, scientific and medical (ISM) applications. Radiocommunication services operating within these bands must accept harmful interference which may be caused by these applications. ISM equipment operating in these bands is subject to the provisions of No. **15.13**.
 
-5.161B Alternative allocation: in Albania, Germany, Armenia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Cyprus, Vatican, Croatia, Denmark, Spain, Estonia, Finland, France, Greece, Hungary, Ireland, Iceland, Italy, Latvia, The Former Yugoslav Rep. of Macedonia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Norway, Uzbekistan, Netherlands, Poland, Portugal, Kyrgyzstan, Slovakia, Czech Rep., Romania, United Kingdom, San Marino, Slovenia, Sweden, Switzerland, Turkey and Ukraine, the frequency band 42-42.5 MHz is allocated to the fixed and mobile services on a primary basis. (WRC-12)
+**5.155B**The band 21870–21924 kHz is used by the fixed service for provision of services related to aircraft flight safety.
 
-5.162A Additional allocation: in Germany, Austria, Belgium, Bosnia and Herzegovina, China, Vatican, Denmark, Spain, Estonia, the Russian Federation, Finland, France, Ireland, Iceland, Italy, Latvia, The Former Yugoslav Republic of Macedonia, Liechtenstein, Lithuania, Luxembourg, Monaco, Montenegro, Norway, the Netherlands, Poland, Portugal, the Czech Rep., the United Kingdom, Serbia, Slovenia, Sweden and Switzerland the band 46-68 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution 217 (WRC-97). (WRC-12)
+**5.156A**The use of the band 23200–23350 kHz by the fixed service is limited to provision of services related to aircraft flight safety.
 
-5.164 Additional allocation: in Albania, Algeria, Germany, Austria, Belgium, Bosnia and Herzegovina, Botswana, Bulgaria, Côte d'Ivoire, Denmark, Spain, Estonia, Finland, France, Gabon, Greece, Ireland, Israel, Italy, Jordan, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Malta, Morocco, Mauritania, Monaco, Montenegro, Nigeria, Norway, the Netherlands, Poland, Syrian Arab Republic, Slovakia, Czech Rep., Romania, the United Kingdom, Serbia, Slovenia, Sweden, Switzerland, Swaziland, Chad, Togo, Tunisia and Turkey, the band 47-68 MHz, in South Africa the band 47-50 MHz, and in Latvia the band 48.5-56.5 MHz, are also allocated to the land mobile service on a primary basis. However, stations of the land mobile service in the countries mentioned in connection with each band referred to in this footnote shall not cause harmful interference to, or claim protection from, existing or planned broadcasting stations of countries other than those mentioned in connection with the band. (WRC-12)
+**5.161B** **Alternative allocation:**in Albania, Germany, Armenia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Cyprus, Vatican, Croatia, Denmark, Spain, Estonia, Finland, France, Greece, Hungary, Ireland, Iceland, Italy, Latvia, The Former Yugoslav Rep. of Macedonia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Norway, Uzbekistan, Netherlands, Portugal, Kyrgyzstan, Slovakia, Czech Rep., Romania, United Kingdom, San Marino, Slovenia, Sweden, Switzerland, Turkey and Ukraine, the frequency band 42–42.5 MHz is allocated to the fixed and mobile services on a primary basis. (WRC-15)
 
-5.180 The frequency 75 MHz is assigned to marker beacons. Administrations shall refrain from assigning frequencies close to the limits of the guardband to stations of other services which, because of their power or geographical position, might cause harmful interference or otherwise place a constraint on marker beacons.
+**5.162A** **Additional allocation:**in Germany, Austria, Belgium, Bosnia and Herzegovina, China, Vatican, Denmark, Spain, Estonia, the Russian Federation, Finland, France, Ireland, Iceland, Italy, Latvia, The Former Yugoslav Republic of Macedonia, Liechtenstein, Lithuania, Luxembourg, Monaco, Montenegro, Norway, the Netherlands, Poland, Portugal, the Czech Rep., the United Kingdom, Serbia, Slovenia, Sweden and Switzerland the band 46–68 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution **217 (WRC-97)**. (WRC-12)
 
-Every effort should be made to improve further the characteristics of airborne receivers and to limit the power of transmitting stations close to the limits 74.8 MHz and 75.2 MHz.
+**5.164** **Additional allocation:**in Albania, Algeria, Germany, Austria, Belgium, Bosnia and Herzegovina, Botswana, Bulgaria, Côte d'Ivoire, Croatia, Denmark, Spain, Estonia, Finland, France, Gabon, Greece, Ireland, Israel, Italy, Jordan, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Malta, Morocco, Mauritania, Monaco, Montenegro, Nigeria, Norway, the Netherlands, Poland, Syrian Arab Republic, Slovakia, Czech Rep., Romania, the United Kingdom, Serbia, Slovenia, Sweden, Switzerland, Swaziland, Chad, Togo, Tunisia and Turkey, the frequency band 47–68 MHz, in South Africa the frequency band 47–50 MHz, and in Latvia the frequency band 48.5–56.5 MHz, are also allocated to the land mobile service on a primary basis. However, stations of the land mobile service in the countries mentioned in connection with each frequency band referred to in this footnote shall not cause harmful interference to, or claim protection from, existing or planned broadcasting stations of countries other than those mentioned in connection with the frequency band. (WRC-15)
 
-5.197A Additional allocation: the band 108-117.975 MHz is also allocated on a primary basis to the aeronautical mobile (R) service, limited to systems operating in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution 413 (Rev.WRC-07). The use of the band 108-112 MHz by the aeronautical mobile (R) service shall be limited to systems composed of ground-based transmitters and associated receivers that provide navigational information in support of air navigation functions in accordance with recognized international aeronautical standards. (WRC-07)
+**5.180**The frequency 75 MHz is assigned to marker beacons. Administrations shall refrain from assigning frequencies close to the limits of the guardband to stations of other services which, because of their power or geographical position, might cause harmful interference or otherwise place a constraint on marker beacons. Every effort should be made to improve further the characteristics of airborne receivers and to limit the power of transmitting stations close to the limits 74.8 MHz and 75.2 MHz.
 
-5.200 In the band 117.975-137 MHz, the frequency 121.5 MHz is the aeronautical emergency frequency and, where required, the frequency 123.1 MHz is the aeronautical frequency auxiliary to 121.5 MHz. Mobile stations of the maritime mobile service may communicate on these frequencies under the conditions laid down in Article 31 for distress and safety purposes with stations of the aeronautical mobile service. (WRC-07)
+**5.197A** **Additional allocation:**the band 108–117.975 MHz is also allocated on a primary basis to the aeronautical mobile (R) service, limited to systems operating in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution **413 (Rev.WRC-07)***. The use of the band 108–112 MHz by the aeronautical mobile (R) service shall be limited to systems composed of ground-based transmitters and associated receivers that provide navigational information in support of air navigation functions in accordance with recognized international aeronautical standards. (WRC-07)
 
-5.208 The use of the band 137-138 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. (WRC-97)
+**5.200**In the band 117.975–137 MHz, the frequency 121.5 MHz is the aeronautical emergency frequency and, where required, the frequency 123.1 MHz is the aeronautical frequency auxiliary to 121.5 MHz. Mobile stations of the maritime mobile service may communicate on these frequencies under the conditions laid down in Article **31**for distress and safety purposes with stations of the aeronautical mobile service. (WRC-07)
 
-5.208A In making assignments to space stations in the mobile-satellite service in the bands 137-138 MHz, 387-390 MHz and 400.15-401 MHz, administrations shall take all practicable steps to protect the radio astronomy service in the bands 150.05-153 MHz, 322-328.6 MHz, 406.1-410 MHz and 608-614 MHz from harmful interference from unwanted emissions. The threshold levels of interference detrimental to the radio astronomy service are shown in the relevant ITU-R Recommendation. (WRC-07)
+**5.208**The use of the band 137–138 MHz by the mobile-satellite service is subject to coordination under No. **9.11A**. (WRC-97)
 
-5.208B In the bands:
+**5.208A**In making assignments to space stations in the mobile-satellite service in the bands 137–138 MHz, 387–390 MHz and 400.15–401 MHz, administrations shall take all practicable steps to protect the radio astronomy service in the bands 150.05–153 MHz, 322–328.6 MHz, 406.1–410 MHz and 608–614 MHz from harmful interference from unwanted emissions. The threshold levels of interference detrimental to the radio astronomy service are shown in the relevant ITU-R Recommendation. (WRC-07)
 
-137-138 MHz,
+**5.208B*** In the frequency bands:
 
-387-390 MHz,
+137–138 MHz,
 
-400.15-401 MHz,
+387–390 MHz,
 
-1 452-1 492 MHz,
+400.15–401 MHz,
 
-1 525-1 610 MHz,
+1452–1492 MHz,
 
-1 613.8-1 626.5 MHz,
+1525–1610 MHz,
 
-2 655-2 690 MHz,
+1613.8–1626.5 MHz,
 
-21.4-22 GHz,
+2655–2690 MHz,
 
-Resolution 739 (Rev.WRC-07) applies. (WRC-07)
+21.4–22 GHz,
 
-5.209 The use of the bands 137-138 MHz, 148-150.05 MHz, 399.9-400.05 MHz, 400.15-401 MHz, 454-456 MHz and 459-460 MHz by the mobile-satellite service is limited to non-geostationary-satellite systems. (WRC-97)
+Resolution **739 (Rev.WRC-15)**applies. (WRC-15)
 
-5.211 Additional allocation: in Germany, Saudi Arabia, Austria, Bahrain, Belgium, Denmark, the United Arab Emirates, Spain, Finland, Greece, Ireland, Israel, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lebanon, Liechtenstein, Luxembourg, Mali, Malta, Montenegro, Norway, the Netherlands, Qatar, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sweden, Switzerland, Tanzania, Tunisia and Turkey, the band 138-144 MHz is also allocated to the maritime mobile and land mobile services on a primary basis. (WRC-12)
+* This provision was previously numbered as No. **5.347A**. It was renumbered to preserve the sequential order
 
-5.219 The use of the band 148-149.9 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. The mobile-satellite service shall not constrain the development and use of the fixed, mobile and space operation services in the band 148-149.9 MHz.
+**5.209**The use of the bands 137–138 MHz, 148–150.05 MHz, 399.9–400.05 MHz, 400.15–401 MHz, 454–456 MHz and 459–460 MHz by the mobile-satellite service is limited to non-geostationary-satellite systems. (WRC-97)
 
-5.220 The use of the bands 149.9-150.05 MHz and 399.9-400.05 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. The mobile-satellite service shall not constrain the development and use of the radionavigation-satellite service in the bands 149.9-150.05 MHz and 399.9-400.05 MHz. (WRC-97)
+**5.211** **Additional allocation:**in Germany, Saudi Arabia, Austria, Bahrain, Belgium, Denmark, the United Arab Emirates, Spain, Finland, Greece, Guinea, Ireland, Israel, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lebanon, Liechtenstein, Luxembourg, Mali, Malta, Montenegro, Norway, the Netherlands, Qatar, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sweden, Switzerland, Tanzania, Tunisia and Turkey, the frequency band 138–144 MHz is also allocated to the maritime mobile and land mobile services on a primary basis. (WRC-15)
 
-5.221 Stations of the mobile-satellite service in the band 148-149.9 MHz shall not cause harmful interference to, or claim protection from, stations of the fixed or mobile services operating in accordance with the Table of Frequency Allocations in the following countries: Albania, Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Brunei Darussalam, Bulgaria, Cameroon, China, Cyprus, Congo (Rep. of the), Korea (Rep. of), Côte d'Ivoire, Croatia, Cuba, Denmark, Djibouti, Egypt, the United Arab Emirates, Eritrea, Spain, Estonia, Ethiopia, the Russian Federation, Finland, France, Gabon, Ghana, Greece, Guinea, Guinea Bissau, Hungary, India, Iran (Islamic Republic of), Ireland, Iceland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lesotho, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Malaysia, Mali, Malta, Mauritania, Moldova, Mongolia, Montenegro, Mozambique, Namibia, Norway, New Zealand, Oman, Uganda, Uzbekistan, Pakistan, Panama, Papua New Guinea, Paraguay, the Netherlands, the Philippines, Poland, Portugal, Qatar, the Syrian Arab Republic, Kyrgyzstan, Dem. People’s Rep. of Korea, Slovakia, Romania, the United Kingdom, Senegal, Serbia, Sierra Leone, Singapore, Slovenia, Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Swaziland, Tanzania, Chad, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Ukraine, Viet Nam, Yemen, Zambia and Zimbabwe. (WRC-12)
+**5.219**The use of the band 148–149.9 MHz by the mobile-satellite service is subject to coordination under No. **9.11A**. The mobile-satellite service shall not constrain the development and use of the fixed, mobile and space operation services in the band 148–149.9 MHz.
 
-5.223 Recognizing that the use of the band 149.9-150.05 MHz by the fixed and mobile services may cause harmful interference to the radionavigation-satellite service, administrations are urged not to authorize such use in application of No. 4.4.
+**5.220**The use of the frequency bands 149.9–150.05 MHz and 399.9–400.05 MHz by the mobile-satellite service is subject to coordination under No. **9.11A**. (WRC-15)
 
-5.224A The use of the bands 149.9-150.05 MHz and 399.9-400.05 MHz by the mobile-satellite service (Earth-to-space) is limited to the land mobile-satellite service (Earth-to-space) until 1 January 2015. (WRC-97)
+**5.221**Stations of the mobile-satellite service in the frequency band 148–149.9 MHz shall not cause harmful interference to, or claim protection from, stations of the fixed or mobile services operating in accordance with the Table of Frequency Allocations in the following countries: Albania, Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Brunei Darussalam, Bulgaria, Cameroon, China, Cyprus, Congo (Rep. of the), Korea (Rep. of), Côte d'Ivoire, Croatia, Cuba, Denmark, Djibouti, Egypt, the United Arab Emirates, Eritrea, Spain, Estonia, Ethiopia, the Russian Federation, Finland, France, Gabon, Georgia, Ghana, Greece, Guinea, Guinea Bissau, Hungary, India, Iran (Islamic Republic of), Ireland, Iceland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lesotho, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Malaysia, Mali, Malta, Mauritania, Moldova, Mongolia, Montenegro, Mozambique, Namibia, Norway, New Zealand, Oman, Uganda, Uzbekistan, Pakistan, Panama, Papua New Guinea, Paraguay, the Netherlands, the Philippines, Poland, Portugal, Qatar, the Syrian Arab Republic, Kyrgyzstan, Dem. People’s Rep. of Korea, Slovakia, Romania, the United Kingdom, Senegal, Serbia, Sierra Leone, Singapore, Slovenia, Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Swaziland, Tanzania, Chad, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Ukraine, Viet Nam, Yemen, Zambia and Zimbabwe. (WRC-15)
 
-5.226 The frequency 156.525 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service using digital selective calling (DSC). The conditions for the use of this frequency and the band 156.4875-156.5625 MHz are contained in Articles 31 and 52, and in Appendix 18.
+**5.223**(SUP - WRC-15)
 
-The frequency 156.8 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service. The conditions for the use of this frequency and the band 156.7625-156.8375 MHz are contained in Article 31 and Appendix 18.
+**5.224A**(SUP - WRC-15)
 
-In the bands 156-156.4875 MHz, 156.5625-156.7625 MHz, 156.8375-157.45 MHz, 160.6-160.975 MHz and 161.475-162.05 MHz, each administration shall give priority to the maritime mobile service on only such frequencies as are assigned to stations of the maritime mobile service by the administration (see Articles 31 and 52, and Appendix 18).
+**5.226**The frequency 156.525 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service using digital selective calling (DSC). The conditions for the use of this frequency and the band 156.4875–156.5625 MHz are contained in Articles **31**and **52**, and in Appendix **18**. The frequency 156.8 MHz is the international distress, safety and calling frequency for the maritime mobile VHF radiotelephone service. The conditions for the use of this frequency and the band 156.7625–156.8375 MHz are contained in Article **31**and Appendix **18**. In the bands 156–156.4875 MHz, 156.5625–156.7625 MHz, 156.8375–157.45 MHz, 160.6–160.975 MHz and 161.475–162.05 MHz, each administration shall give priority to the maritime mobile service on only such frequencies as are assigned to stations of the maritime mobile service by the administration (see Articles **31**and **52**, and Appendix **18**).
 
 Any use of frequencies in these bands by stations of other services to which they are allocated should be avoided in areas where such use might cause harmful interference to the maritime mobile VHF radiocommunication service.
 
 However, the frequencies 156.8 MHz and 156.525 MHz and the frequency bands in which priority is given to the maritime mobile service may be used for radiocommunications on inland waterways subject to agreement between interested and affected administrations and taking into account current frequency usage and existing agreements. (WRC-07)
 
-5.227 Additional allocation: the bands 156.4875-156.5125 MHz and 156.5375-156.5625 MHz are also allocated to the fixed and land mobile services on a primary basis. The use of these bands by the fixed and land mobile services shall not cause harmful interference to nor claim protection from the maritime mobile VHF radiocommunication service. (WRC-07)
+**5.227** **Additional allocation:**the bands 156.4875–156.5125 MHz and 156.5375–156.5625 MHz are also allocated to the fixed and land mobile services on a primary basis. The use of these bands by the fixed and land mobile services shall not cause harmful interference to nor claim protection from the maritime mobile VHF radiocommunication service. (WRC-07)
 
-5.228 The use of the frequency bands 156.7625-156.7875 MHz and 156.8125-156.8375 MHz by the mobile-satellite service (Earth-to-space) is limited to the reception of automatic identification system (AIS) emissions of long-range AIS broadcast messages (Message 27, see the most recent version of Recommendation ITU-R M.1371). With the exception of AIS emissions, emissions in these frequency bands by systems operating in the maritime mobile service for communications shall not exceed 1 W. (WRC-12)
+**5.228AA**The use of the frequency bands 161.9375–161.9625 MHz and 161.9875–162.0125 MHz by the maritime mobile-satellite (Earth-to-space) service is limited to the systems which operate in accordance with Appendix **18**. (WRC-15)
 
-5.228A The frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz may be used by aircraft stations for the purpose of search and rescue operations and other safety-related communications. (WRC-12)
+**5.228B**The use of the frequency bands 161.9625–161.9875 MHz and 162.0125–162.0375 MHz by the fixed and land mobile services shall not cause harmful interference to, or claim protection from, the maritime mobile service. (WRC-12)
 
-5.228B The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the fixed and land mobile services shall not cause harmful interference to, or claim protection from, the maritime mobile service. (WRC-12)
+**5.228E**The use of the automatic identification system in the frequency bands 161.9625–161.9875 MHz and 162.0125–162.0375 MHz by the aeronautical mobile (OR) service is limited to aircraft stations for the purpose of search and rescue operations and other safety-related communications. (WRC-12)
 
-5.228C The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the maritime mobile service and the mobile-satellite (Earth-to-space) service is limited to the automatic identification system (AIS). The use of these frequency bands by the aeronautical mobile (OR) service is limited to AIS emissions from search and rescue aircraft operations. The AIS operations in these frequency bands shall not constrain the development and use of the fixed and mobile services operating in the adjacent frequency bands. (WRC-12)
+**5.228F**The use of the frequency bands 161.9625–161.9875 MHz and 162.0125–162.0375 MHz by the mobilesatellite service (Earth-to-space) is limited to the reception of automatic identification system emissions from stations operating in the maritime mobile service. (WRC-12)
 
-5.228E The use of the automatic identification system in the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the aeronautical mobile (OR) service is limited to aircraft stations for the purpose of search and rescue operations and other safety-related communications. (WRC-12)
+**5.235** **Additional allocation:**in Germany, Austria, Belgium, Denmark, Spain, Finland, France, Israel, Italy, Liechtenstein, Malta, Monaco, Norway, the Netherlands, the United Kingdom, Sweden and Switzerland, the band 174–223 MHz is also allocated to the land mobile service on a primary basis. However, the stations of the land mobile service shall not cause harmful interference to, or claim protection from, broadcasting stations, existing or planned, in countries other than those listed in this footnote.
 
-5.228F The use of the frequency bands 161.9625-161.9875 MHz and 162.0125-162.0375 MHz by the mobile-satellite service (Earth-to-space) is limited to the reception of automatic identification system emissions from stations operating in the maritime mobile service. (WRC-12)
+**5.254**The bands 235–322 MHz and 335.4–399.9 MHz may be used by the mobile-satellite service, subject to agreement obtained under No. **9.21**, on condition that stations in this service do not cause harmful interference to those of other services operating or planned to be operated in accordance with the Table of Frequency Allocations except for the additional allocation made in footnote No. **5.256A**. (WRC-03)
 
-5.235 Additional allocation: in Germany, Austria, Belgium, Denmark, Spain, Finland, France, Israel, Italy, Liechtenstein, Malta, Monaco, Norway, the Netherlands, the United Kingdom, Sweden and Switzerland, the band 174-223 MHz is also allocated to the land mobile service on a primary basis. However, the stations of the land mobile service shall not cause harmful interference to, or claim protection from, broadcasting stations, existing or planned, in countries other than those listed in this footnote.
+**5.256**The frequency 243 MHz is the frequency in this band for use by survival craft stations and equipment used for survival purposes. (WRC-07)
 
-5.254 The bands 235-322 MHz and 335.4-399.9 MHz may be used by the mobile-satellite service, subject to agreement obtained under No. 9.21, on condition that stations in this service do not cause harmful interference to those of other services operating or planned to be operated in accordance with the Table of Frequency Allocations except for the additional allocation made in footnote 5.256A. (WRC-03)
+**5.258**The use of the band 328.6–335.4 MHz by the aeronautical radionavigation service is limited to Instrument Landing Systems (glide path).
 
-5.256 The frequency 243 MHz is the frequency in this band for use by survival craft stations and equipment used for survival purposes. (WRC-07)
+**5.261**Emissions shall be confined in a band of 25 kHz about the standard frequency 400.1 MHz.
 
-5.258 The use of the band 328.6-335.4 MHz by the aeronautical radionavigation service is limited to Instrument Landing Systems (glide path).
+**5.264**The use of the band 400.15–401 MHz by the mobile-satellite service is subject to coordination under No. **9.11A**. The power flux-density limit indicated in Annex 1 of Appendix **5**shall apply until such time as a competent world radiocommunication conference revises it.
 
-5.261 Emissions shall be confined in a band of ±25 kHz about the standard frequency 400.1 MHz.
+**5.265**In the frequency band 403–410 MHz, Resolution **205 (Rev.WRC-15)**applies. (WRC-15)
 
-5.264 The use of the band 400.15-401 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. The power flux-density limit indicated in Annex 1 of Appendix 5 shall apply until such time as a competent world radiocommunication conference revises it.
+**5.266**The use of the band 406–406.1 MHz by the mobile-satellite service is limited to low power satellite emergency position-indicating radiobeacons (see also Article **31**). (WRC-07)
 
-5.266 The use of the band 406-406.1 MHz by the mobile-satellite service is limited to low power satellite emergency position-indicating radiobeacons (see also Article 31). (WRC-07)
+**5.267**Any emission capable of causing harmful interference to the authorized uses of the band 406–406.1 MHz is prohibited.
 
-5.267 Any emission capable of causing harmful interference to the authorized uses of the band 406-406.1 MHz is prohibited.
+**5.279A**The use of the frequency band 432–438 MHz by sensors in the Earth exploration-satellite service (active) shall be in accordance with Recommendation ITU-R RS.1260-1. Additionally, the Earth exploration-satellite service (active) in the frequency band 432–438 MHz shall not cause harmful interference to the aeronautical radionavigation service in China. The provisions of this footnote in no way diminish the obligation of the Earth exploration-satellite service (active) to operate as a secondary service in accordance with Nos. **5.29**and **5.30**. (WRC-15)
 
-5.279A The use of this band by sensors in the Earth exploration-satellite service (active) shall be in accordance with Recommendation ITU-R RS.1260-1. Additionally, the Earth exploration-satellite service (active) in the band 432-438 MHz shall not cause harmful interference to the aeronautical radionavigation service in China. The provisions of this footnote in no way diminish the obligation of the Earth exploration-satellite service (active) to operate as a secondary service in accordance with Nos. 5.29 and 5.30. (WRC-03)
+**5.282**In the bands 435–438 MHz, 1260–1270 MHz, 2400–2450 MHz, 3400–3410 MHz (in Regions 2 and 3 only) and 5650–5670 MHz, the amateur-satellite service may operate subject to not causing harmful interference to other services operating in accordance with the Table (see No. **5.43**). Administrations authorizing such use shall ensure that any harmful interference caused by emissions from a station in the amateur-satellite service is immediately eliminated in accordance with the provisions of No. **25.11**. The use of the bands 1260–1270 MHz and 5650–5670 MHz by the amateur-satellite service is limited to the Earth-to-space direction.
 
-5.282 In the bands 435-438 MHz, 1260-1 270 MHz, 2400-2 450 MHz, 3400-3 410 MHz (in Regions 2 and 3 only) and 5650-5 670 MHz, the amateur-satellite service may operate subject to not causing harmful interference to other services operating in accordance with the Table (see No. 5.43). Administrations authorizing such use shall ensure that any harmful interference caused by emissions from a station in the amateur-satellite service is immediately eliminated in accordance with the provisions of No. 25.11. The use of the bands 1260-1 270 MHz and 5650-5 670 MHz by the amateur-satellite service is limited to the Earth-to-space direction.
+**5.287**Use of the frequency bands 457.5125–457.5875 MHz and 467.5125–467.5875 MHz by the maritime mobile service is limited to on-board communication stations. The characteristics of the equipment and the channelling arrangement shall be in accordance with Recommendation ITU-R M.1174-3. The use of these frequency bands in territorial waters is subject to the national regulations of the administration concerned. (WRC-15)
 
-5.287 In the maritime mobile service, the frequencies 457.525 MHz, 457.550 MHz, 457.575 MHz, 467.525 MHz, 467.550 MHz and 467.575 MHz may be used by on-board communication stations. Where needed, equipment designed for 12.5 kHz channel spacing using also the additional frequencies 457.5375 MHz, 457.5625 MHz, 467.5375 MHz and 467.5625 MHz may be introduced for on-board communications. The use of these frequencies in territorial waters may be subject to the national regulations of the administration concerned. The characteristics of the equipment used shall conform to those specified in Recommendation ITU-R M.1174-2. (WRC-07)
+**5.291A** **Additional allocation:**in Germany, Austria, Denmark, Estonia, Liechtenstein, the Czech Rep., Serbia and Switzerland, the frequency band 470–494 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution **217 (WRC-97)**. (WRC-15)
 
-5.291A Additional allocation: in Germany, Austria, Denmark, Estonia, Finland, Liechtenstein, Norway, Netherlands, the Czech Rep. and Switzerland, the band 470-494 MHz is also allocated to the radiolocation service on a secondary basis. This use is limited to the operation of wind profiler radars in accordance with Resolution 217 (WRC-97). (WRC-97)
+**5.296** **Additional allocation:**in Albania, Germany, Angola, Saudi Arabia, Austria, Bahrain, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bulgaria, Burkina Faso, Burundi, Cameroon, Vatican, Congo (Rep. of the), Côte d'Ivoire, Croatia, Denmark, Djibouti, Egypt, United Arab Emirates, Spain, Estonia, Finland, France, Gabon, Georgia, Ghana, Hungary, Iraq, Ireland, Iceland, Israel, Italy, Jordan, Kenya, Kuwait, Lesotho, Latvia, The Former Yugoslav Republic of Macedonia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Malawi, Mali, Malta, Morocco, Mauritius, Mauritania, Moldova, Monaco, Mozambique, Namibia, Niger, Nigeria, Norway, Oman, Uganda, the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Slovakia, the Czech Republic, the United Kingdom, Rwanda, San Marino, Serbia, Sudan, South Africa, Sweden, Switzerland, Swaziland, Tanzania, Chad, Togo, Tunisia, Turkey, Ukraine, Zambia and Zimbabwe, the frequency band 470–694 MHz is also allocated on a secondary basis to the land mobile service, intended for applications ancillary to broadcasting and programme-making. Stations of the land mobile service in the countries listed in this footnote shall not cause harmful interference to existing or planned stations operating in accordance with the Table in countries other than those listed in this footnote. (WRC-15)
 
-5.296 Additional allocation: in Albania, Germany, Saudi Arabia, Austria, Bahrain, Belgium, Benin, Bosnia and Herzegovina, Burkina Faso, Cameroon, Congo (Rep. of the), Côte d'Ivoire, Croatia, Denmark, Djibouti, Egypt, United Arab Emirates, Spain, Estonia, Finland, France, Gabon, Ghana, Iraq, Ireland, Iceland, Israel, Italy, Jordan, Kuwait, Latvia, The Former Yugoslav Republic of Macedonia, Libya, Liechtenstein, Lithuania, Luxembourg, Mali, Malta, Morocco, Moldova, Monaco, Niger, Norway, Oman, the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Slovakia, the Czech Republic, the United Kingdom, Sudan, Sweden, Switzerland, Swaziland, Chad, Togo, Tunisia and Turkey, the band 470-790 MHz, and in Angola, Botswana, Lesotho, Malawi, Mauritius, Mozambique, Namibia, Nigeria, South Africa, Tanzania, Zambia and Zimbabwe, the band 470-698 MHz are also allocated on a secondary basis to the land mobile service, intended for applications ancillary to broadcasting. Stations of the land mobile service in the countries listed in this footnote shall not cause harmful interference to existing or planned stations operating in accordance with the Table in countries other than those listed in this footnote. (WRC-12)
+**5.316**(SUP - WRC-15)
 
-5.316 Additional allocation: in Germany, Saudi Arabia, Bosnia and Herzegovina, Burkina Faso, Cameroon, Côte d'Ivoire, Croatia, Denmark, Egypt, Finland, Greece, Israel, Jordan, Kenya, Libya, The Former Yugoslav Republic of Macedonia, Liechtenstein, Mali, Monaco, Montenegro, Norway, the Netherlands, Portugal, the United Kingdom, the Syrian Arab Republic, Serbia, Sweden and Switzerland, the band 790-830 MHz, and in these same countries and in Spain, France, Gabon and Malta, the band 830-862 MHz, are also allocated to the mobile, except aeronautical mobile, service on a primary basis. However, stations of the mobile service in the countries mentioned in connection with each band referred to in this footnote shall not cause harmful interference to, or claim protection from, stations of services operating in accordance with the Table in countries other than those mentioned in connection with the band. This allocation is effective until 16 June 2015. (WRC-07)
+**5.316B**In Region 1, the allocation to the mobile, except aeronautical mobile, service in the frequency band 790–862 MHz is subject to agreement obtained under No. **9.21**with respect to the aeronautical radionavigation service in countries mentioned in No. **5.312**. For countries party to the GE06 Agreement, the use of stations of the mobile service is also subject to the successful application of the procedures of that Agreement. Resolutions **224 (Rev.WRC-15)**and **749 (Rev.WRC-15)**shall apply, as appropriate. (WRC-15)
 
-5.316B In Region 1, the allocation to the mobile, except aeronautical mobile, service on a primary basis in the frequency band 790-862 MHz shall come into effect from 17 June 2015 and shall be subject to agreement obtained under No. 9.21 with respect to the aeronautical radionavigation service in countries mentioned in No. 5.312. For countries party to the GE06 Agreement, the use of stations of the mobile service is also subject to the successful application of the procedures of that Agreement. Resolutions 224 (Rev.WRC-12) and 749 (Rev.WRC-12) shall apply, as appropriate. (WRC-12)
+**5.327A**The use of the frequency band 960–1164 MHz by the aeronautical mobile (R) service is limited to systems that operate in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution **417 (Rev.WRC-15)**. (WRC-15)
 
-5.327A The use of the frequency band 960-1 164 MHz by the aeronautical mobile (R) service is limited to systems that operate in accordance with recognized international aeronautical standards. Such use shall be in accordance with Resolution 417 (Rev.WRC-12). (WRC-12)
+**5.328**The use of the band 960–1215 MHz by the aeronautical radionavigation service is reserved on a worldwide basis for the operation and development of airborne electronic aids to air navigation and any directly associated groundbased facilities. (WRC-2000)
 
-5.328 The use of the band 960-1 215 MHz by the aeronautical radionavigation service is reserved on a worldwide basis for the operation and development of airborne electronic aids to air navigation and any directly associated ground-based facilities. (WRC-2000)
+**5.328A**Stations in the radionavigation-satellite service in the band 1164–1215 MHz shall operate in accordance with the provisions of Resolution **609 (Rev.WRC-07)**and shall not claim protection from stations in the aeronautical radionavigation service in the band 960–1215 MHz. No. **5.43A**does not apply. The provisions of No. **21.18**shall apply. (WRC-07)
 
-5.328A Stations in the radionavigation-satellite service in the band 1164-1 215 MHz shall operate in accordance with the provisions of Resolution 609 (Rev.WRC-07) and shall not claim protection from stations in the aeronautical radionavigation service in the band 960-1 215 MHz. No. 5.43A does not apply. The provisions of No. 21.18 shall apply. (WRC-07)
+**5.328AA**The frequency band 1087.7–1092.3 MHz is also allocated to the aeronautical mobile-satellite (R) service (Earth-to-space) on a primary basis, limited to the space station reception of Automatic Dependent Surveillance-Broadcast (ADS-B) emissions from aircraft transmitters that operate in accordance with recognized international aeronautical standards. Stations operating in the aeronautical mobile-satellite (R) service shall not claim protection from stations operating in the aeronautical radionavigation service. Resolution **425 (WRC-15)**shall apply. (WRC-15)
 
-5.328B The use of the bands 1164-1 300 MHz, 1559-1 610 MHz and 5010-5 030 MHz by systems and networks in the radionavigation-satellite service for which complete coordination or notification information, as appropriate, is received by the Radiocommunication Bureau after 1 January 2005 is subject to the application of the provisions of Nos. 9.12, 9.12A and 9.13. Resolution 610 (WRC-03) shall also apply; however, in the case of radionavigation-satellite service (space-to-space) networks and systems, Resolution 610 (WRC-03) shall only apply to transmitting space stations. In accordance with No. 5.329A, for systems and networks in the radionavigation-satellite service (space-to-space) in the bands 1215-1 300 MHz and 1559-1 610 MHz, the provisions of Nos. 9.7, 9.12, 9.12A and 9.13 shall only apply with respect to other systems and networks in the radionavigation-satellite service (space-to-space). (WRC-07)
+**5.328B**The use of the bands 1164–1300 MHz, 1559–1610 MHz and 5010–5030 MHz by systems and networks in the radionavigation-satellite service for which complete coordination or notification information, as appropriate, is received by the Radiocommunication Bureau after 1 January 2005 is subject to the application of the provisions of Nos. **9.12**, **9.12A**and **9.13**. Resolution **610 (WRC-03)**shall also apply; however, in the case of radionavigation-satellite service (space-to-space) networks and systems, Resolution **610 (WRC-03)**shall only apply to transmitting space stations. In accordance with No. **5.329A**, for systems and networks in the radionavigation-satellite service (space-to-space) in the bands 1215–1300 MHz and 1559–1610 MHz, the provisions of Nos. **9.7**, **9.12**, **9.12A**and **9.13**shall only apply with respect to other systems and networks in the radionavigation-satellite service (space-to-space). (WRC-07)
 
-5.329 Use of the radionavigation-satellite service in the band 1215-1 300 MHz shall be subject to the condition that no harmful interference is caused to, and no protection is claimed from, the radionavigation service authorized under No. 5.331. Furthermore, the use of the radionavigation-satellite service in the band 1215-1 300 MHz shall be subject to the condition that no harmful interference is caused to the radiolocation service. No. 5.43 shall not apply in respect of the radiolocation service. Resolution 608 (WRC-03) shall apply. (WRC-03)
+**5.329**Use of the radionavigation-satellite service in the band 1215–1300 MHz shall be subject to the condition that no harmful interference is caused to, and no protection is claimed from, the radionavigation service authorized under No. **5.331**. Furthermore, the use of the radionavigation-satellite service in the band 1215–1300 MHz shall be subject to the condition that no harmful interference is caused to the radiolocation service. No. **5.43**shall not apply in respect of the radiolocation service. Resolution **608 (WRC-03)*** shall apply. (WRC-03)
 
-5.329A Use of systems in the radionavigation-satellite service (space-to-space) operating in the bands 1215-1 300 MHz and 1559-1 610 MHz is not intended to provide safety service applications, and shall not impose any additional constraints on radionavigation-satellite service (space-to-Earth) systems or on other services operating in accordance with the Table of Frequency Allocations. (WRC-07)
+**5.329A**Use of systems in the radionavigation-satellite service (space-to-space) operating in the bands 1215–1300 MHz and 1559–1610 MHz is not intended to provide safety service applications, and shall not impose any additional constraints on radionavigation-satellite service (space-to-Earth) systems or on other services operating in accordance with the Table of Frequency Allocations. (WRC-07)
 
-5.331 Additional allocation: in Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Brazil, Burkina Faso, Burundi, Cameroon, China, Korea (Rep. of), Croatia, Denmark, Egypt, the United Arab Emirates, Estonia, the Russian Federation, Finland, France, Ghana, Greece, Guinea, Equatorial Guinea, Hungary, India, Indonesia, Iran (Islamic Republic of), Iraq, Ireland, Israel, Jordan, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lesotho, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Mauritania, Montenegro, Nigeria, Norway, Oman, Pakistan, the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Dem. People’s Rep. of Korea, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sudan, South Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Thailand, Togo, Turkey, Venezuela and Viet Nam, the band 1215-1 300 MHz is also allocated to the radionavigation service on a primary basis. In Canada and the United States, the band 1240-1 300 MHz is also allocated to the radionavigation service, and use of the radionavigation service shall be limited to the aeronautical radionavigation service. (WRC-12)
+**5.331** **Additional allocation:**in Algeria, Germany, Saudi Arabia, Australia, Austria, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Brazil, Burkina Faso, Burundi, Cameroon, China, Korea (Rep. of), Croatia, Denmark, Egypt, the United Arab Emirates, Estonia, the Russian Federation, Finland, France, Ghana, Greece, Guinea, Equatorial Guinea, Hungary, India, Indonesia, Iran (Islamic Republic of), Iraq, Ireland, Israel, Jordan, Kenya, Kuwait, The Former Yugoslav Republic of Macedonia, Lesotho, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Mauritania, Montenegro, Nigeria, Norway, Oman, Pakistan, the Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, Dem. People’s Rep. of Korea, Slovakia, the United Kingdom, Serbia, Slovenia, Somalia, Sudan, South Sudan, Sri Lanka, South Africa, Sweden, Switzerland, Thailand, Togo, Turkey, Venezuela and Viet Nam, the band 1215–1300 MHz is also allocated to the radionavigation service on a primary basis. In Canada and the United States, the band 1240–1300 MHz is also allocated to the radionavigation service, and use of the radionavigation service shall be limited to the aeronautical radionavigation service. (WRC-12)
 
-5.337 The use of the bands 1300-1 350 MHz, 2700-2 900 MHz and 9000-9 200 MHz by the aeronautical radionavigation service is restricted to ground-based radars and to associated airborne transponders which transmit only on frequencies in these bands and only when actuated by radars operating in the same band.
+**5.337**The use of the bands 1300–1350 MHz, 2700–2900 MHz and 9000–9200 MHz by the aeronautical radionavigation service is restricted to ground-based radars and to associated airborne transponders which transmit only on frequencies in these bands and only when actuated by radars operating in the same band.
 
-5.337A The use of the band 1300-1 350 MHz by earth stations in the radionavigation-satellite service and by stations in the radiolocation service shall not cause harmful interference to, nor constrain the operation and development of, the aeronautical-radionavigation service. (WRC-2000)
+**5.337A**The use of the band 1300–1350 MHz by earth stations in the radionavigation-satellite service and by stations in the radiolocation service shall not cause harmful interference to, nor constrain the operation and development of, the aeronautical-radionavigation service. (WRC-2000)
 
-5.338A In the bands 1350-1 400 MHz, 1427-1 452 MHz, 22.55-23.55 GHz, 30-31.3 GHz, 49.7-50.2 GHz, 50.4-50.9 GHz, 51.4-52.6 GHz, 81-86 GHz and 92-94 GHz, Resolution 750 (Rev.WRC-12) applies. (WRC-12)
+**5.338A**In the frequency bands 1350–1400 MHz, 1427–1452 MHz, 22.55–23.55 GHz, 30–31.3 GHz, 49.7–50.2 GHz, 50.4–50.9 GHz, 51.4–52.6 GHz, 81–86 GHz and 92–94 GHz, Resolution **750 (Rev.WRC-15)**applies. (WRC-15)
 
-5.339 The bands 1370-1 400 MHz, 2640-2 655 MHz, 4950-4 990 MHz and 15.20-15.35 GHz are also allocated to the space research (passive) and Earth exploration-satellite (passive) services on a secondary basis.
+**5.339**The bands 1370–1400 MHz, 2640–2655 MHz, 4950–4990 MHz and 15.20–15.35 GHz are also allocated to the space research (passive) and Earth exploration-satellite (passive) services on a secondary basis.
 
-5.339A (SUP – WRC-07)
+**5.339A**(SUP - WRC-07)
 
-5.340 All emissions are prohibited in the following bands:
+**5.340**All emissions are prohibited in the following bands:
 
-1 400-1 427 MHz,
+1400–1427 MHz,
 
-2 690-2 700 MHz, except those provided for by No. 5.422,
+2690–2700 MHz, except those provided for by No. **5.422**,
 
-10.68-10.7 GHz, except those provided for by No. 5.483,
+10.68–10.7 GHz, except those provided for by No. **5.483**,
 
-15.35-15.4 GHz, except those provided for by No. 5.511,
+15.35–15.4 GHz, except those provided for by No. **5.511**,
 
-23.6-24 GHz,
+23.6–24 GHz,
 
-31.3-31.5 GHz,
+31.3–31.5 GHz,
 
-31.5-31.8 GHz, in Region 2,
+31.5–31.8 GHz, in Region 2,
 
-48.94-49.04 GHz, from airborne stations
+48.94–49.04 GHz, from airborne stations
 
-50.2-50.4 GHz1,
+50.2–50.4 GHz2,
 
-52.6-54.25 GHz,
+52.6–54.25 GHz,
 
-86-92 GHz,
+86–92 GHz,
 
-100-102 GHz,
+100–102 GHz,
 
-109.5-111.8 GHz,
+109.5–111.8 GHz,
 
-114.25-116 GHz,
+114.25–116 GHz,
 
-148.5-151.5 GHz,
+148.5–151.5 GHz,
 
-164-167 GHz,
+164–167 GHz,
 
-182-185 GHz,
+182–185 GHz,
 
-190-191.8 GHz,
+190–191.8 GHz,
 
-200-209 GHz,
+200–209 GHz,
 
-226-231.5 GHz,
+226–231.5 GHz,
 
-250-252 GHz. (WRC-03)
+250–252 GHz. (WRC-03)
 
-1 5.340.1 The allocation to the Earth exploration-satellite service (passive) and the space research service (passive) in the band 50.2-50.4 GHz should not impose undue constraints on the use of the adjacent bands by the primary allocated services in those bands. (WRC-97)
+2 **5.340.1**The allocation to the Earth exploration-satellite service (passive) and the space research service (passive) in the band 50.2–50.4 GHz should not impose undue constraints on the use of the adjacent bands by the primary allocated services in those bands. (WRC-97)
 
-5.341 In the bands 1400-1 727 MHz, 101-120 GHz and 197-220 GHz, passive research is being conducted by some countries in a programme for the search for intentional emissions of extraterrestrial origin.
+**5.341**In the bands 1400–1727 MHz, 101–120 GHz and 197–220 GHz, passive research is being conducted by some countries in a programme for the search for intentional emissions of extraterrestrial origin.
 
-5.345 Use of the band 1452-1 492 MHz by the broadcasting-satellite service, and by the broadcasting service, is limited to digital audio broadcasting and is subject to the provisions of Resolution 528 (WARC-92).
+**5.341A**In Region 1, the frequency bands 1427–1452 MHz and 1492–1518 MHz are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution **223 (Rev.WRC-15)**. This identification does not preclude the use of these frequency bands by any other application of the services to which it is allocated and does not establish priority in the Radio Regulations. The use of IMT stations is subject to agreement obtained under No. **9.21**with respect to the aeronautical mobile service used for aeronautical telemetry in accordance with No. **5.342**. (WRC-15)
 
-5.348C (SUP – WRC-07)
+**5.341B**In Region 2, the frequency band 1427–1518 MHz is identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution **223 (Rev.WRC-15)**. This identification does not preclude the use of this frequency band by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-15)
 
-5.351 The bands 1525-1 544 MHz, 1545-1 559 MHz, 1626.5-1 645.5 MHz and 1646.5-1 660.5 MHz shall not be used for feeder links of any service. In exceptional circumstances, however, an earth station at a specified fixed point in any of the mobile-satellite services may be authorized by an administration to communicate via space stations using these bands.
+**5.341C**The frequency bands 1427–1452 MHz and 1492–1518 MHz are identified for use by administrations in Region 3 wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution **223 (Rev.WRC-15)**. The use of these frequency bands by the above administrations for the implementation of IMT in the frequency bands 1429–1452 MHz and 1492–1518 MHz is subject to agreement obtained under No. **9.21**from countries using stations of the aeronautical mobile service. This identification does not preclude the use of these frequency bands by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. (WRC-15)
 
-5.351A For the use of the bands 1518-1 544 MHz, 1545-1 559 MHz, 1610-1 645.5 MHz, 1646.5-1 660.5 MHz, 1668-1 675 MHz, 1980-2 010 MHz, 2170-2 200 MHz, 2483.5-2 520 MHz and 2670-2 690 MHz by the mobile-satellite service, see Resolutions 212 (Rev.WRC-07) and 225 (Rev.WRC-07). (WRC-07)
+**5.345**Use of the band 1452–1492 MHz by the broadcasting-satellite service, and by the broadcasting service, is limited to digital audio broadcasting and is subject to the provisions of Resolution **528 (WARC-92)***.
 
-5.353A In applying the procedures of Section II of Article 9 to the mobile-satellite service in the bands 1530-1 544 MHz and 1626.5-1 645.5 MHz, priority shall be given to accommodating the spectrum requirements for distress, urgency and safety communications of the Global Maritime Distress and Safety System (GMDSS). Maritime mobile-satellite distress, urgency and safety communications shall have priority access and immediate availability over all other mobile satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, distress, urgency and safety communications of the GMDSS. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution 222 (WRC-2000) shall apply.) (WRC-2000)
+**5.348C**(SUP - WRC-07)
 
-5.354 The use of the bands 1525-1 559 MHz and 1626.5-1 660.5 MHz by the mobile-satellite services is subject to coordination under No. 9.11A.
+**5.351**The bands 1525–1544 MHz, 1545–1559 MHz, 1626.5–1645.5 MHz and 1646.5–1660.5 MHz shall not be used for feeder links of any service. In exceptional circumstances, however, an earth station at a specified fixed point in any of the mobile-satellite services may be authorized by an administration to communicate via space stations using these bands.
 
-5.356 The use of the band 1544-1 545 MHz by the mobile-satellite service (space-to-Earth) is limited to distress and safety communications (see Article 31).
+**5.351A**For the use of the bands 1518–1544 MHz, 1545–1559 MHz, 1610–1645.5 MHz, 1646.5–1660.5 MHz, 1668–1675 MHz, 1980–2010 MHz, 2170–2200 MHz, 2483.5–2520 MHz and 2670–2690 MHz by the mobilesatellite service, see Resolutions **212 (Rev.WRC-07)*** and **225 (Rev.WRC-07)****. (WRC-07)
 
-5.357 Transmissions in the band 1545-1 555 MHz from terrestrial aeronautical stations directly to aircraft stations, or between aircraft stations, in the aeronautical mobile (R) service are also authorized when such transmissions are used to extend or supplement the satellite-to-aircraft links.
+**5.353A**In applying the procedures of Section II of Article **9**to the mobile-satellite service in the bands 1530–1544 MHz and 1626.5–1645.5 MHz, priority shall be given to accommodating the spectrum requirements for distress, urgency and safety communications of the Global Maritime Distress and Safety System (GMDSS). Maritime mobile-satellite distress, urgency and safety communications shall have priority access and immediate availability over all other mobile satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, distress, urgency and safety communications of the GMDSS. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution **222 (WRC-2000)*** shall apply.) (WRC-2000)
 
-5.357A In applying the procedures of Section II of Article 9 to the mobile-satellite service in the frequency bands 1545-1 555 MHz and 1646.5-1 656.5 MHz, priority shall be given to accommodating the spectrum requirements of the aeronautical mobile-satellite (R) service providing transmission of messages with priority 1 to 6 in Article 44. Aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article 44 shall have priority access and immediate availability, by pre-emption if necessary, over all other mobile-satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article 44. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution 222 (Rev.WRC-12) shall apply.) (WRC-12)
+**5.354**The use of the bands 1525–1559 MHz and 1626.5–1660.5 MHz by the mobile-satellite services is subject to coordination under No. **9.11A**.
 
-5.359 Additional allocation: in Germany, Saudi Arabia, Armenia, Austria, Azerbaijan, Belarus, Benin, Cameroon, the Russian Federation, France, Georgia, Greece, Guinea, Guinea-Bissau, Jordan, Kazakhstan, Kuwait, Lithuania, Mauritania, Uganda, Uzbekistan, Pakistan, Poland, the Syrian Arab Republic, Kyrgyzstan, the Dem. People’s Rep. of Korea, Romania, Tajikistan, Tanzania, Tunisia, Turkmenistan and Ukraine, the bands 1550-1 559 MHz, 1610-1 645.5 MHz and 1646.5-1 660 MHz are also allocated to the fixed service on a primary basis. Administrations are urged to make all practicable efforts to avoid the implementation of new fixed-service stations in these bands. (WRC-12)
+**5.356**The use of the band 1544–1545 MHz by the mobile-satellite service (space-to-Earth) is limited to distress and safety communications (see Article **31**).
 
-5.365 The use of the band 1613.8-1 626.5 MHz by the mobile-satellite service (space-to-Earth) is subject to coordination under No. 9.11A.
+**5.357**Transmissions in the band 1545–1555 MHz from terrestrial aeronautical stations directly to aircraft stations, or between aircraft stations, in the aeronautical mobile (R) service are also authorized when such transmissions are used to extend or supplement the satellite-to-aircraft links.
 
-5.366 The band 1610-1 626.5 MHz is reserved on a worldwide basis for the use and development of airborne electronic aids to air navigation and any directly associated ground-based or satellite-borne facilities. Such satellite use is subject to agreement obtained under No. 9.21.
+**5.357A**In applying the procedures of Section II of Article **9**to the mobile-satellite service in the frequency bands 1545–1555 MHz and 1646.5–1656.5 MHz, priority shall be given to accommodating the spectrum requirements of the aeronautical mobile-satellite (R) service providing transmission of messages with priority 1 to 6 in Article **44**. Aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article **44**shall have priority access and immediate availability, by pre-emption if necessary, over all other mobile-satellite communications operating within a network. Mobile-satellite systems shall not cause unacceptable interference to, or claim protection from, aeronautical mobile-satellite (R) service communications with priority 1 to 6 in Article **44**. Account shall be taken of the priority of safety-related communications in the other mobile-satellite services. (The provisions of Resolution **222 (Rev.WRC-12)*** shall apply.) (WRC-12)
 
-5.367 Additional allocation: The frequency band 1610-1 626.5 MHz is also allocated to the aeronautical mobile-satellite (R) service on a primary basis, subject to agreement obtained under No. 9.21. (WRC-12)
+**5.359** **Additional allocation:**in Germany, Saudi Arabia, Armenia, Azerbaijan, Belarus, Benin, Cameroon, the Russian Federation, France, Georgia, Guinea, Guinea-Bissau, Jordan, Kazakhstan, Kuwait, Lithuania, Mauritania, Uganda, Uzbekistan, Pakistan, Poland, the Syrian Arab Republic, Kyrgyzstan, the Dem. People’s Rep. of Korea, Romania, Tajikistan, Tunisia, Turkmenistan and Ukraine, the frequency bands 1550–1559 MHz, 1610–1645.5 MHz and 1646.5–1660 MHz are also allocated to the fixed service on a primary basis. Administrations are urged to make all practicable efforts to avoid the implementation of new fixed-service stations in these frequency bands. (WRC-15)
 
-5.368 With respect to the radiodetermination-satellite and mobile-satellite services the provisions of No. 4.10 do not apply in the band 1610-1 626.5 MHz, with the exception of the aeronautical radionavigation-satellite service.
+**5.365**The use of the band 1613.8–1626.5 MHz by the mobile-satellite service (space-to-Earth) is subject to coordination under No. **9.11A**.
 
-5.372 Harmful interference shall not be caused to stations of the radio astronomy service using the band 1610.6-1 613.8 MHz by stations of the radiodetermination-satellite and mobile-satellite services (No. 29.13 applies).
+**5.366**The band 1610–1626.5 MHz is reserved on a worldwide basis for the use and development of airborne electronic aids to air navigation and any directly associated ground-based or satellite-borne facilities. Such satellite use is subject to agreement obtained under No. **9.21**.
 
-5.374 Mobile earth stations in the mobile-satellite service operating in the bands 1631.5-1 634.5 MHz and 1656.5-1 660 MHz shall not cause harmful interference to stations in the fixed service operating in the countries listed in No. 5.359. (WRC-97)
+**5.367** **Additional allocation**: The frequency band 1610–1626.5 MHz is also allocated to the aeronautical mobilesatellite (R) service on a primary basis, subject to agreement obtained under No. **9.21**. (WRC-12)
 
-5.375 The use of the band 1645.5-1 646.5 MHz by the mobile-satellite service (Earth-to-space) and for inter-satellite links is limited to distress and safety communications (see Article 31).
+**5.368**With respect to the radiodetermination-satellite and mobile-satellite services the provisions of No. **4.10**do not apply in the band 1610–1626.5 MHz, with the exception of the aeronautical radionavigation-satellite service.
 
-5.376 Transmissions in the band 1646.5-1 656.5 MHz from aircraft stations in the aeronautical mobile (R) service directly to terrestrial aeronautical stations, or between aircraft stations, are also authorized when such transmissions are used to extend or supplement the aircraft-to-satellite links.
+**5.372**Harmful interference shall not be caused to stations of the radio astronomy service using the band 1610.6–1613.8 MHz by stations of the radiodetermination-satellite and mobile-satellite services (No. **29.13**applies).
 
-5.376A Mobile earth stations operating in the band 1660-1 660.5 MHz shall not cause harmful interference to stations in the radio astronomy service. (WRC-97)
+**5.374**Mobile earth stations in the mobile-satellite service operating in the bands 1631.5–1634.5 MHz and 1656.5–1660 MHz shall not cause harmful interference to stations in the fixed service operating in the countries listed in No. **5.359**. (WRC-97)
 
-5.379B The use of the band 1668-1 675 MHz by the mobile-satellite service is subject to coordination under No. 9.11A. In the band 1668-1 668.4 MHz, Resolution 904 (WRC-07) shall apply. (WRC-07)
+**5.375**The use of the band 1645.5–1646.5 MHz by the mobile-satellite service (Earth-to-space) and for intersatellite links is limited to distress and safety communications (see Article **31**).
 
-5.379C In order to protect the radio astronomy service in the band 1668-1 670 MHz, the aggregate power flux-density values produced by mobile earth stations in a network of the mobile-satellite service operating in this band shall not exceed -181 dB(W/m2) in 10 MHz and -194 dB(W/m2) in any 20 kHz at any radio astronomy station recorded in the Master International Frequency Register, for more than 2% of integration periods of 2000 s. (WRC-03)
+**5.376**Transmissions in the band 1646.5–1656.5 MHz from aircraft stations in the aeronautical mobile (R) service directly to terrestrial aeronautical stations, or between aircraft stations, are also authorized when such transmissions are used to extend or supplement the aircraft-to-satellite links.
 
-5.384A The bands, or portions of the bands, 1710-1 885 MHz, 2300-2 400 MHz and 2500-2 690 MHz, are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution 223 (Rev.WRC-07). This identification does not preclude the use of these bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-07)
+**5.376A**Mobile earth stations operating in the band 1660–1660.5 MHz shall not cause harmful interference to stations in the radio astronomy service. (WRC-97)
 
-5.385 Additional allocation: the band 1718.8-1 722.2 MHz is also allocated to the radio astronomy service on a secondary basis for spectral line observations. (WRC-2000)
+**5.379B**The use of the band 1668–1675 MHz by the mobile-satellite service is subject to coordination under No. **9.11A**. In the band 1668–1668.4 MHz, Resolution **904 (WRC-07)**shall apply. (WRC-07)
 
-5.391 In making assignments to the mobile service in the bands 2025-2 110 MHz and 2200-2 290 MHz, administrations shall not introduce high-density mobile systems, as described in Recommendation ITU-R SA.1154, and shall take that Recommendation into account for the introduction of any other type of mobile system. (WRC-97)
+**5.379C**In order to protect the radio astronomy service in the band 1668–1670 MHz, the aggregate power fluxdensity values produced by mobile earth stations in a network of the mobile-satellite service operating in this band shall not exceed –181 dB(W/m2) in 10 MHz and 194 dB(W/m2) in any 20 kHz at any radio astronomy station recorded in the Master International Frequency Register, for more than 2% of integration periods of 2000 s. (WRC-03)
 
-5.402 The use of the band 2483.5-2 500 MHz by the mobile-satellite and the radiodetermination-satellite services is subject to the coordination under No. 9.11A. Administrations are urged to take all practicable steps to prevent harmful interference to the radio astronomy service from emissions in the 2483.5-2 500 MHz band, especially those caused by second-harmonic radiation that would fall into the 4990-5 000 MHz band allocated to the radio astronomy service worldwide.
+**5.384A**The frequency bands 1710–1885 MHz, 2300–2400 MHz and 2500–2690 MHz, or portions thereof, are identified for use by administrations wishing to implement International Mobile Telecommunications (IMT) in accordance with Resolution **223 (Rev.WRC-15)**. This identification does not preclude the use of these frequency bands by any application of the services to which they are allocated and does not establish priority in the Radio Regulations. (WRC-15)
 
-5.413 In the design of systems in the broadcasting-satellite service in the bands between 2500 MHz and 2690 MHz, administrations are urged to take all necessary steps to protect the radio astronomy service in the band 2690-2 700 MHz.
+**5.385** **Additional allocation:**the band 1718.8–1722.2 MHz is also allocated to the radio astronomy service on a secondary basis for spectral line observations. (WRC-2000)
 
-5.424A In the band 2900-3 100 MHz, stations in the radiolocation service shall not cause harmful interference to, nor claim protection from, radar systems in the radionavigation service. (WRC-03)
+**5.391**In making assignments to the mobile service in the frequency bands 2025–2110 MHz and 2200–2290 MHz, administrations shall not introduce high-density mobile systems, as described in Recommendation ITU-R SA.1154-0, and shall take that Recommendation into account for the introduction of any other type of mobile system. (WRC-15)
 
-5.426 The use of the band 2900-3 100 MHz by the aeronautical radionavigation service is limited to ground-based radars.
+**5.402**The use of the band 2483.5–2500 MHz by the mobile-satellite and the radiodetermination-satellite services is subject to the coordination under No. **9.11A**. Administrations are urged to take all practicable steps to prevent harmful interference to the radio astronomy service from emissions in the 2483.5–2500 MHz band, especially those caused by second-harmonic radiation that would fall into the 4990–5000 MHz band allocated to the radio astronomy service worldwide.
 
-5.430A Different category of service: in Albania, Algeria, Germany, Andorra, Saudi Arabia, Austria, Azerbaijan, Bahrain, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bulgaria, Burkina Faso, Cameroon, Cyprus, Vatican, Congo (Rep. of the), Côte d'Ivoire, Croatia, Denmark, Egypt, Spain, Estonia, Finland, France and French overseas departments and communities in Region 1, Gabon, Georgia, Greece, Guinea, Hungary, Ireland, Iceland, Israel, Italy, Jordan, Kuwait, Lesotho, Latvia, The Former Yugoslav Republic of Macedonia, Liechtenstein, Lithuania, Malawi, Mali, Malta, Morocco, Mauritania, Moldova, Monaco, Mongolia, Montenegro, Mozambique, Namibia, Niger, Norway, Oman, Netherlands, Poland, Portugal, Qatar, the Syrian Arab Republic, the Dem. Rep. of the Congo, Slovakia, Czech Rep., Romania, United Kingdom, San Marino, Senegal, Serbia, Sierra Leone, Slovenia, South Africa, Sweden, Switzerland, Swaziland, Chad, Togo, Tunisia, Turkey, Ukraine, Zambia and Zimbabwe, the band 3400-3 600 MHz is allocated to the mobile, except aeronautical mobile, service on a primary basis subject to agreement obtained under No. 9.21 with other administrations and is identified for International Mobile Telecommunications (IMT). This identification does not preclude the use of this band by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. At the stage of coordination the provisions of Nos. 9.17 and 9.18 also apply. Before an administration brings into use a (base or mobile) station of the mobile service in this band, it shall ensure that the power flux-density (pfd) produced at 3 m above ground does not exceed -154.5 dB(W/(m2 / 4 kHz)) for more than 20% of time at the border of the territory of any other administration. This limit may be exceeded on the territory of any country whose administration has so agreed. In order to ensure that the pfd limit at the border of the territory of any other administration is met, the calculations and verification shall be made, taking into account all relevant information, with the mutual agreement of both administrations (the administration responsible for the terrestrial station and the administration responsible for the earth station), with the assistance of the Bureau if so
+**5.413**In the design of systems in the broadcasting-satellite service in the bands between 2500 MHz and 2690 MHz, administrations are urged to take all necessary steps to protect the radio astronomy service in the band 2690–2700 MHz.
 
-requested. In case of disagreement, the calculation and verification of the pfd shall be made by the Bureau, taking into account the information referred to above. Stations of the mobile service in the band 3400-3 600 MHz shall not claim more protection from space stations than that provided in Table 21-4 of the Radio Regulations (Edition of 2004). This allocation is effective from 7 November 2010. (WRC-12)
+**5.424A**In the band 2900–3100 MHz, stations in the radiolocation service shall not cause harmful interference to, nor claim protection from, radar systems in the radionavigation service. (WRC-03)
 
-5.438 Use of the band 4200-4 400 MHz by the aeronautical radionavigation service is reserved exclusively for radio altimeters installed on board aircraft and for the associated transponders on the ground. However, passive sensing in the Earth exploration-satellite and space research services may be authorized in this band on a secondary basis (no protection is provided by the radio altimeters).
+**5.425**In the band 2900–3100 MHz, the use of the shipborne interrogator-transponder (SIT) system shall be confined to the sub-band 2930 - 2950 MHz.
 
-5.441 The use of the bands 4500-4 800 MHz (space-to-Earth), 6725-7 025 MHz (Earth-to-space) by the fixed-satellite service shall be in accordance with the provisions of Appendix 30B. The use of the bands 10.7-10.95 GHz (space-to-Earth), 11.2-11.45 GHz (space-to-Earth) and 12.75-13.25 GHz (Earth-to-space) by geostationary-satellite systems in the fixed-satellite service shall be in accordance with the provisions of Appendix 30B. The use of the bands 10.7-10.95 GHz (space-to-Earth), 11.2-11.45 GHz (space-to-Earth) and 12.75-13.25 GHz (Earth-to-space) by a non-geostationary-satellite system in the fixed-satellite service is subject to application of the provisions of No. 9.12 for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixed-satellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. 5.43A does not apply. Non-geostationary-satellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
+**5.426**The use of the band 2900–3100 MHz by the aeronautical radionavigation service is limited to groundbased Radars
 
-5.443AA In the frequency bands 5000-5 030 MHz and 5091-5 150 MHz, the aeronautical mobile-satellite (R) service is subject to agreement obtained under No. 9.21. The use of these bands by the aeronautical mobile-satellite (R) service is limited to internationally standardized aeronautical systems. (WRC-12)
+**5.430A**The allocation of the frequency band 3400–3600 MHz to the mobile, except aeronautical mobile, service is subject to agreement obtained under No. **9.21**. This frequency band is identified for International Mobile Telecommunications (IMT). This identification does not preclude the use of this frequency band by any application of the services to which it is allocated and does not establish priority in the Radio Regulations. The provisions of Nos. **9.17**and **9.18**shall also apply in the coordination phase. Before an administration brings into use a (base or mobile) station of the mobile service in this frequency band, it shall ensure that the power flux-density (pfd) produced at 3 m above ground does not exceed −154.5 dB(W/(m2 4 kHz)) for more than 20% of time at the border of the territory of any other administration. This limit may be exceeded on the territory of any country whose administration has so agreed. In order to ensure that the pfd limit at the border of the territory of any other administration is met, the calculations and verification shall be made, taking into account all relevant information, with the mutual agreement of both administrations (the administration responsible for the terrestrial station and the administration responsible for the earth station) and with the assistance of the Bureau if so requested. In case of disagreement, calculation and verification of the pfd shall be made by the Bureau, taking into account the information referred to above. Stations of the mobile service in the frequency band 3400–3600 MHz shall not claim more protection from space stations than that provided in Table **21-4**of the Radio Regulations (Edition of 2004). (WRC-15)
 
-5.443B In order not to cause harmful interference to the microwave landing system operating above 5030 MHz, the aggregate power flux-density produced at the Earth’s surface in the band 5030-5 150 MHz by all the space stations within any radionavigation-satellite service system (space-to-Earth) operating in the band 5010-5 030 MHz shall not exceed -124.5 dB(W/m2) in a 150 kHz band. In order not to cause harmful interference to the radio astronomy service in the band 4990-5 000 MHz, radionavigation-satellite service systems operating in the band 5010-5 030 MHz shall comply with the limits in the band 4990-5 000 MHz defined in Resolution 741 (Rev.WRC-12). (WRC-12)
+**5.437**Passive sensing in the Earth exploration-satellite and space research services may be authorized in the frequency band 4200–4400 MHz on a secondary basis. (WRC-15)
 
-5.443C The use of the frequency band 5030-5 091 MHz by the aeronautical mobile (R) service is limited to internationally standardized aeronautical systems. Unwanted emissions from the aeronautical mobile (R) service in the frequency band 5030-5 091 MHz shall be limited to protect RNSS system downlinks in the adjacent 5010-5 030 MHz band. Until such time that an appropriate value is established in a relevant ITU-R Recommendation, the e.i.r.p. density limit of -75 dBW/MHz in the frequency band 5010-5 030 MHz for any AM(R)S station unwanted emission should be used. (WRC-12)
+**5.441**The use of the bands 4500–4800 MHz (space-to-Earth), 6725–7025 MHz (Earth-to-space) by the fixedsatellite service shall be in accordance with the provisions of Appendix **30B**. The use of the bands 10.7–10.95 GHz (space-to-Earth), 11.2–11.45 GHz (space-to-Earth) and 12.75–13.25 GHz (Earth-to-space) by geostationary-satellite systems in the fixed-satellite service shall be in accordance with the provisions of Appendix **30B**. The use of the bands 10.7–10.95 GHz (space-to-Earth), 11.2–11.45 GHz (space-to-Earth) and 12.75–13.25 GHz (Earth-to-space) by a non-geostationary-satellite system in the fixed-satellite service is subject to application of the provisions of No. **9.12**for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixedsatellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. **5.43A**does not apply. Non-geostationary-satellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
 
-5.443D In the frequency band 5030-5 091 MHz, the aeronautical mobile-satellite (R) service is subject to coordination under No. 9.11A. The use of this frequency band by the aeronautical mobile-satellite (R) service is limited to internationally standardized aeronautical systems. (WRC-12)
+**5.443AA**In the frequency bands 5000–5030 MHz and 5091–5150 MHz, the aeronautical mobile-satellite (R) service is subject to agreement obtained under No. **9.21**. The use of these bands by the aeronautical mobile-satellite (R) service is limited to internationally standardized aeronautical systems. (WRC-12)
 
-5.444 The frequency band 5030-5 150 MHz is to be used for the operation of the international standard system (microwave landing system) for precision approach and landing. In the frequency band 5030-5 091 MHz, the requirements of this system shall have priority over other uses of this band. For the use of the frequency band 5091-5 150 MHz, No. 5.444A and Resolution 114 (Rev.WRC-12) apply. (WRC-12)
+**5.443B**In order not to cause harmful interference to the microwave landing system operating above 5030 MHz, the aggregate power flux-density produced at the Earth’s surface in the frequency band 5030–5150 MHz by all the space stations within any radionavigation-satellite service system (space-to-Earth) operating in the frequency band 5010–5030 MHz shall not exceed −124.5 dB(W/m2) in a 150 kHz band. In order not to cause harmful interference to the radio astronomy service in the frequency band 4990–5000 MHz, radionavigation-satellite service systems operating in the frequency band 5010–5030 MHz shall comply with the limits in the frequency band 4990–5000 MHz defined in Resolution **741 (Rev.WRC-15)**. (WRC-15)
 
-5.444A Additional allocation: the band 5091-5 150 MHz is also allocated to the fixed-satellite service (Earth-to-space) on a primary basis. This allocation is limited to feeder links of non-geostationary satellite systems in the mobile-satellite service and is subject to coordination under No. 9.11A.
+**5.443C**The use of the frequency band 5030–5091 MHz by the aeronautical mobile (R) service is limited to internationally standardized aeronautical systems. Unwanted emissions from the aeronautical mobile (R) service in the frequency band 5030–5091 MHz shall be limited to protect RNSS system downlinks in the adjacent 5010–5030 MHz band. Until such time that an appropriate value is established in a relevant ITU-R Recommendation, the e.i.r.p. density limit of −75 dBW/MHz in the frequency band 5010–5030 MHz for any AM(R)S station unwanted emission should be used. (WRC-12)
 
-In the band 5091-5 150 MHz, the following conditions also apply:
+**5.443D**In the frequency band 5030–5091 MHz, the aeronautical mobile-satellite (R) service is subject to coordination under No. **9.11A**. The use of this frequency band by the aeronautical mobile-satellite (R) service is limited to internationally standardized aeronautical systems. (WRC-12)
 
-5.444B The use of the frequency band 5091-5 150 MHz by the aeronautical mobile service is limited to:
+**5.444**The frequency band 5030–5150 MHz is to be used for the operation of the international standard system (microwave landing system) for precision approach and landing. In the frequency band 5030–5091 MHz, the requirements of this system shall have priority over other uses of this frequency band. For the use of the frequency band 5091–5150 MHz, No. **5.444A**and Resolution **114 (Rev.WRC-15)**apply. (WRC-15)
 
-5.446A The use of the bands 5150-5 350 MHz and 5470-5 725 MHz by the stations in the mobile, except aeronautical mobile, service shall be in accordance with Resolution 229 (Rev.WRC-12). (WRC-12)
+**5.444A**The use of the allocation to the fixed-satellite service (Earth-to-space) in the frequency band 5091–5150 MHz is limited to feeder links of non-geostationary satellite systems in the mobile-satellite service and is subject to coordination under No. **9.11A**. The use of the frequency band 5091–5150 MHz by feeder links of non-geostationary satellite systems in the mobile-satellite service shall be subject to application of Resolution **114 (Rev.WRC-15)**. Moreover, to ensure that the aeronautical radionavigation service is protected from harmful interference, coordination is required for feeder-link earth stations of the non-geostationary satellite systems in the mobile-satellite service which are separated by less than 450 km from the territory of an administration operating ground stations in the aeronautical radionavigation service. (WRC-15)
 
-5.446B In the band 5150-5 250 MHz, stations in the mobile service shall not claim protection from earth stations in the fixed-satellite service. No. 5.43A does not apply to the mobile service with respect to fixed-satellite service earth stations. (WRC-03)
+**5.444B**The use of the frequency band 5091–5150 MHz by the aeronautical mobile service is limited to:
 
-5.446C Additional allocation: in Region 1 (except in Algeria, Saudi Arabia, Bahrain, Egypt, United Arab Emirates, Jordan, Kuwait, Lebanon, Morocco, Oman, Qatar, Syrian Arab Republic, Sudan, South Sudan and Tunisia) and in Brazil, the band 5150-5 250 MHz is also allocated to the aeronautical mobile service on a primary basis, limited to aeronautical telemetry transmissions from aircraft stations (see No. 1.83), in accordance with Resolution 418 (Rev.WRC-12). These stations shall not claim protection from other stations operating in accordance with Article 5. No. 5.43A does not apply. (WRC-12)
+**5.446B**In the band 5150–5250 MHz, stations in the mobile service shall not claim protection from earth stations in the fixed-satellite service. No. **5.43A**does not apply to the mobile service with respect to fixed-satellite service earth stations. (WRC-03)
 
-5.447A The allocation to the fixed-satellite service (Earth-to-space) in the band 5150-5 250 MHz is limited to feeder links of non-geostationary-satellite systems in the mobile-satellite service and is subject to coordination under No. 9.11A.
+**5.446C** **Additional allocation:**in Region 1 (except in Algeria, Saudi Arabia, Bahrain, Egypt, United Arab Emirates, Jordan, Kuwait, Lebanon, Morocco, Oman, Qatar, Syrian Arab Republic, Sudan, South Sudan and Tunisia) and in Brazil, the band 5150–5250 MHz is also allocated to the aeronautical mobile service on a primary basis, limited to aeronautical telemetry transmissions from aircraft stations (see No. **1.83**), in accordance with Resolution **418 (Rev.WRC-12)***. These stations shall not claim protection from other stations operating in accordance with Article **5**. No. **5.43A**does not apply. (WRC-12)
 
-5.447B Additional allocation: the band 5150-5 216 MHz is also allocated to the fixed-satellite service (space-to-Earth) on a primary basis. This allocation is limited to feeder links of non-geostationary-satellite systems in the mobile-satellite service and is subject to provisions of No. 9.11A. The power flux-density at the Earth’s surface produced by space stations of the fixed-satellite service operating in the space-to-Earth direction in the band 5150-5 216 MHz shall in no case exceed -164 dB(W/m2) in any 4 kHz band for all angles of arrival.
+**5.447A**The allocation to the fixed-satellite service (Earth-to-space) in the band 5150–5250 MHz is limited to feeder links of non-geostationary-satellite systems in the mobile-satellite service and is subject to coordination under No. **9.11A**.
 
-5.447C Administrations responsible for fixed-satellite service networks in the band 5150-5 250 MHz operated under Nos. 5.447A and 5.447B shall coordinate on an equal basis in accordance with No. 9.11A with administrations responsible for non-geostationary-satellite networks operated under No.
+**5.447B** **Additional allocation**: the band 5150–5216 MHz is also allocated to the fixed-satellite service (space-to-Earth) on a primary basis. This allocation is limited to feeder links of non-geostationary-satellite systems in the mobilesatellite service and is subject to provisions of No. **9.11A**. The power flux-density at the Earth’s surface produced by space stations of the fixed-satellite service operating in the space-to-Earth direction in the band 5150–5216 MHz shall in no case exceed –164 dB(W/m2) in any 4 kHz band for all angles of arrival.
 
-5.446 and brought into use prior to 17 November 1995. Satellite networks operated under No. 5.446 brought into use after 17 November 1995 shall not claim protection from, and shall not cause harmful interference to, stations of the fixed-satellite service operated under Nos. 5.447A and 5.447B.
+**5.447C**Administrations responsible for fixed-satellite service networks in the band 5150–5250 MHz operated under Nos. **5.447A**and **5.447B**shall coordinate on an equal basis in accordance with No. **9.11A**with administrations responsible for non-geostationary-satellite networks operated under No. **5.446**and brought into use prior to 17 November 1995. Satellite networks operated under No. **5.446**brought into use after 17 November 1995 shall not claim protection from, and shall not cause harmful interference to, stations of the fixed-satellite service operated under Nos. **5.447A**and **5.447B**.
 
-5.447D The allocation of the band 5250-5 255 MHz to the space research service on a primary basis is limited to active spaceborne sensors. Other uses of the band by the space research service are on a secondary basis. (WRC-97)
+**5.447D**The allocation of the band 5250–5255 MHz to the space research service on a primary basis is limited to active spaceborne sensors. Other uses of the band by the space research service are on a secondary basis. (WRC-97)
 
-5.447F In the band 5250-5 350 MHz, stations in the mobile service shall not claim protection from the radiolocation service, the Earth exploration-satellite service (active) and the space research service (active). These services shall not impose on the mobile service more stringent protection criteria, based on system characteristics and interference criteria, than those stated in Recommendations ITU-R M.1638 and ITU-R RS.1632. (WRC-03)
+**5.447F**In the frequency band 5250–5350 MHz, stations in the mobile service shall not claim protection from the radiolocation service, the Earth exploration-satellite service (active) and the space research service (active). These services shall not impose on the mobile service more stringent protection criteria, based on system characteristics and interference criteria, than those stated in Recommendations ITU-R M.1638-0 and ITU-R RS.1632-0. (WRC-15)
 
-5.448A The Earth exploration-satellite (active) and space research (active) services in the frequency band 5250-5 350 MHz shall not claim protection from the radiolocation service. No. 5.43A does not apply. (WRC-03)
+**5.448A**The Earth exploration-satellite (active) and space research (active) services in the frequency band 5250–5350 MHz shall not claim protection from the radiolocation service. No. **5.43A**does not apply. (WRC-03)
 
-5.448D In the frequency band 5350-5 470 MHz, stations in the radiolocation service shall not cause harmful interference to, nor claim protection from, radar systems in the aeronautical radionavigation service operating in accordance with No. 5.449. (WRC-03)
+**5.448D**In the frequency band 5350–5470 MHz, stations in the radiolocation service shall not cause harmful interference to, nor claim protection from, radar systems in the aeronautical radionavigation service operating in accordance with No. **5.449**. (WRC-03)
 
-5.449 The use of the band 5350-5 470 MHz by the aeronautical radionavigation service is limited to airborne radars and associated airborne beacons.
+**5.449**The use of the band 5350–5470 MHz by the aeronautical radionavigation service is limited to airborne radars and associated airborne beacons.
 
-5.450A In the band 5470-5 725 MHz, stations in the mobile service shall not claim protection from radiodetermination services. Radiodetermination services shall not impose on the mobile service more stringent protection criteria, based on system characteristics and interference criteria, than those stated in Recommendation ITU-R M.1638. (WRC-03)
+**5.450A**In the frequency band 5470–5725 MHz, stations in the mobile service shall not claim protection from radiodetermination services. Radiodetermination services shall not impose on the mobile service more stringent protection criteria, based on system characteristics and interference criteria, than those stated in Recommendation ITU-R M.1638-0. (WRC-15)
 
-5.450B In the frequency band 5470-5 650 MHz, stations in the radiolocation service, except ground-based radars used for meteorological purposes in the band 5600-5 650 MHz, shall not cause harmful interference to, nor claim protection from, radar systems in the maritime radionavigation service. (WRC-03)
+**5.450B**In the frequency band 5470–5650 MHz, stations in the radiolocation service, except ground-based radars used for meteorological purposes in the band 5600–5650 MHz, shall not cause harmful interference to, nor claim protection from, radar systems in the maritime radionavigation service. (WRC-03)
 
-5.452 Between 5600 MHz and 5650 MHz, ground-based radars used for meteorological purposes are authorized to operate on a basis of equality with stations of the maritime radionavigation service.
+**5.452**Between 5600 MHz and 5650 MHz, ground-based radars used for meteorological purposes are authorized to operate on a basis of equality with stations of the maritime radionavigation service.
 
-5.457A In the bands 5925-6 425 MHz and 14-14.5 GHz, earth stations located on board vessels may communicate with space stations of the fixed-satellite service. Such use shall be in accordance with Resolution 902 (WRC-03). (WRC-03)
+**5.457A**In the frequency bands 5925–6425 MHz and 14–14.5 GHz, earth stations located on board vessels may communicate with space stations of the fixed-satellite service. Such use shall be in accordance with Resolution **902 (WRC-03)**. In the frequency band 5925–6425 MHz, earth stations located on board vessels and communicating with space stations of the fixed-satellite service may employ transmit antennas with minimum diameter of 1.2 m and operate without prior agreement of any administration if located at least 330 km away from the low-water mark as officially recognized by the coastal State. All other provisions of Resolution **902 (WRC-03)**shall apply. (WRC-15)
 
-5.458 In the band 6425-7 075 MHz, passive microwave sensor measurements are carried out over the oceans. In the band 7075-7 250 MHz, passive microwave sensor measurements are carried out. Administrations should bear in mind the needs of the Earth exploration-satellite (passive) and space research (passive) services in their future planning of the bands 6425-7 075 MHz and 7075-7 250 MHz.
+**5.458**In the band 6425–7075 MHz, passive microwave sensor measurements are carried out over the oceans. In the band 7075–7250 MHz, passive microwave sensor measurements are carried out. Administrations should bear in mind the needs of the Earth exploration-satellite (passive) and space research (passive) services in their future planning of the bands 6425–7075 MHz and 7075–7250 MHz.
 
-5.458A In making assignments in the band 6700-7 075 MHz to space stations of the fixed-satellite service, administrations are urged to take all practicable steps to protect spectral line observations of the radio astronomy service in the band 6650-6 675.2 MHz from harmful interference from unwanted emissions.
+**5.458A**In making assignments in the band 6700–7075 MHz to space stations of the fixed-satellite service, administrations are urged to take all practicable steps to protect spectral line observations of the radio astronomy service in the band 6650–6675.2 MHz from harmful interference from unwanted emissions.
 
-5.458C Administrations making submissions in the band 7025-7 075 MHz (Earth-to-space) for geostationary-satellite systems in the fixed-satellite service after 17 November 1995 shall consult on the basis of relevant ITU-R Recommendations with the administrations that have notified and brought into use non-geostationary-satellite systems in this frequency band before 18 November 1995 upon request of the latter administrations. This consultation shall be with a view to facilitating shared operation of both geostationary-satellite systems in the fixed-satellite service and non-geostationary-satellite systems in this band.
+**5.458C**(SUP - WRC-15)
 
-5.461 Additional allocation: the bands 7250-7 375 MHz (space-to-Earth) and 7900-8 025 MHz (Earth-to-space) are also allocated to the mobile-satellite service on a primary basis, subject to agreement obtained under No. 9.21.
+**5.461** **Additional allocation:**the bands 7250–7375 MHz (space-to-Earth) and 7900–8025 MHz (Earth-tospace) are also allocated to the mobile-satellite service on a primary basis, subject to agreement obtained under No. **9.21**.
 
-5.461A The use of the band 7450-7 550 MHz by the meteorological-satellite service (space-to-Earth) is limited to geostationary-satellite systems. Non-geostationary meteorological-satellite systems in this band notified before 30 November 1997 may continue to operate on a primary basis until the end of their lifetime. (WRC-97)
+**5.461A**The use of the band 7450–7550 MHz by the meteorological-satellite service (space-to-Earth) is limited to geostationary-satellite systems. Non-geostationary meteorological-satellite systems in this band notified before 30 November 1997 may continue to operate on a primary basis until the end of their lifetime. (WRC-97)
 
-5.469A In the band 8550-8 650 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, or constrain the use and development of, stations of the radiolocation service. (WRC-97)
+**5.461B**The use of the band 7750–7900 MHz by the meteorological-satellite service (space-to-Earth) is limited to non-geostationary satellite systems. (WRC-12)
 
-5.470 The use of the band 8750-8 850 MHz by the aeronautical radionavigation service is limited to airborne Doppler navigation aids on a centre frequency of 8800 MHz.
+**5.461AA**The use of the frequency band 7375–7750 MHz by the maritime mobile-satellite service is limited to geostationary-satellite networks. (WRC-15)
 
-5.471 Additional allocation: in Algeria, Germany, Bahrain, Belgium, China, Egypt, the United Arab Emirates, France, Greece, Indonesia, Iran (Islamic Republic of), Libya, the Netherlands, Qatar, Sudan and South Sudan, the bands 8825-8 850 MHz and 9000-9 200 MHz are also allocated to the maritime radionavigation service, on a primary basis, for use by shore-based radars only. (WRC-12)
+**5.461AB**In the frequency band 7375–7750 MHz, earth stations in the maritime mobile-satellite service shall not claim protection from, nor constrain the use and development of, stations in the fixed and mobile, except aeronautical mobile, services. No. **5.43A**does not apply. (WRC-15)
 
-5.473A In the band 9000-9 200 MHz, stations operating in the radiolocation service shall not cause harmful interference to, nor claim protection from, systems identified in No. 5.337 operating in the aeronautical radionavigation service, or radar systems in the maritime radionavigation service operating in this band on a primary basis in the countries listed in No. 5.471. (WRC-07)
+**5.469A**In the band 8550–8650 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, or constrain the use and development of, stations of the radiolocation service. (WRC-97)
 
-5.474 In the band 9200-9 500 MHz, search and rescue transponders (SART) may be used, having due regard to the appropriate ITU-R Recommendation (see also Article 31).
+**5.470**The use of the band 8750–8850 MHz by the aeronautical radionavigation service is limited to airborne Doppler navigation aids on a centre frequency of 8800 MHz.
 
-5.475 The use of the band 9300-9 500 MHz by the aeronautical radionavigation service is limited to airborne weather radars and ground-based radars. In addition, ground-based radar beacons in the aeronautical radionavigation service are permitted in the band 9300-9 320 MHz on condition that harmful interference is not caused to the maritime radionavigation service. (WRC-07)
+**5.471** **Additional allocation:**in Algeria, Germany, Bahrain, Belgium, China, Egypt, the United Arab Emirates, France, Greece, Indonesia, Iran (Islamic Republic of), Libya, the Netherlands, Qatar and Sudan, the frequency bands 8825–8850 MHz and 9000–9200 MHz are also allocated to the maritime radionavigation service, on a primary basis, for use by shore-based radars only. (WRC-15)
 
-5.475A The use of the band 9300-9 500 MHz by the Earth exploration-satellite service (active) and the space research service (active) is limited to systems requiring necessary bandwidth greater than 300 MHz that cannot be fully accommodated within the 9500-9 800 MHz band. (WRC-07)
+**5.473A**In the band 9000–9200 MHz, stations operating in the radiolocation service shall not cause harmful interference to, nor claim protection from, systems identified in No. **5.337**operating in the aeronautical radionavigation service, or radar systems in the maritime radionavigation service operating in this band on a primary basis in the countries listed in No. **5.471**. (WRC-07)
 
-5.475B In the band 9300-9 500 MHz, stations operating in the radiolocation service shall not cause harmful interference to, nor claim protection from, radars operating in the radionavigation service in conformity with the Radio Regulations. Ground-based radars used for meteorological purposes have priority over other radiolocation uses. (WRC-07)
+**5.474**In the band 9200–9500 MHz, search and rescue transponders (SART) may be used, having due regard to the appropriate ITU-R Recommendation (see also Article **31**).
 
-5.476A In the band 9300-9 800 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, nor claim protection from, stations of the radionavigation and radiolocation services. (WRC-07)
+**5.474A**The use of the frequency bands 9200–9300 MHz and 9900–10400 MHz by the Earth exploration-satellite service (active) is limited to systems requiring necessary bandwidth greater than 600 MHz that cannot be fully accommodated within the frequency band 9300–9900 MHz. Such use is subject to agreement to be obtained under No. **9.21**from Algeria, Saudi Arabia, Bahrain, Egypt, Indonesia, Iran (Islamic Republic of), Lebanon and Tunisia. An administration that has not replied under No. **9.52**is considered as not having agreed to the coordination request. In this case, the notifying administration of the satellite system operating in the Earth exploration-satellite service (active) may request the assistance of the Bureau under Sub-Section IID of Article **9**. (WRC-15)
 
-5.478A The use of the band 9800-9 900 MHz by the Earth exploration-satellite service (active) and the space research service (active) is limited to systems requiring necessary bandwidth greater than 500 MHz that cannot be fully accommodated within the 9300-9 800 MHz band. (WRC-07)
+**5.474B**Stations operating in the Earth exploration-satellite (active) service shall comply with Recommendation ITU-R RS.2066-0. (WRC-15)
 
-5.478B In the band 9800-9 900 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, nor claim protection from stations of the fixed service to which this band is allocated on a secondary basis. (WRC-07)
+**5.474C**Stations operating in the Earth exploration-satellite (active) service shall comply with Recommendation ITU-R RS.2065–0. (WRC-15)
 
-5.482 In the band 10.6-10.68 GHz, the power delivered to the antenna of stations of the fixed and mobile, except aeronautical mobile, services shall not exceed -3 dBW. This limit may be exceeded, subject to agreement obtained under No. 9.21. However, in Algeria, Saudi Arabia, Armenia, Azerbaijan, Bahrain, Bangladesh, Belarus, Egypt, United Arab Emirates, Georgia, India, Indonesia, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kuwait, Lebanon, Libya, Morocco, Mauritania, Moldova, Nigeria, Oman, Uzbekistan, Pakistan, Philippines, Qatar, Syrian Arab Republic, Kyrgyzstan, Singapore, Tajikistan, Tunisia, Turkmenistan and Viet Nam, this restriction on the fixed and mobile, except aeronautical mobile, services is not applicable. (WRC-07)
+**5.475**The use of the band 9300–9500 MHz by the aeronautical radionavigation service is limited to airborne weather radars and ground-based radars. In addition, ground-based radar beacons in the aeronautical radionavigation service are permitted in the band 9300–9320 MHz on condition that harmful interference is not caused to the maritime radionavigation service. (WRC-07)
 
-5.482A For sharing of the band 10.6-10.68 GHz between the Earth exploration-satellite (passive) service and the fixed and mobile, except aeronautical mobile, services, Resolution 751 (WRC-07) applies. (WRC-07)
+**5.475A**The use of the band 9300–9500 MHz by the Earth exploration-satellite service (active) and the space research service (active) is limited to systems requiring necessary bandwidth greater than 300 MHz that cannot be fully accommodated within the 9500–9800 MHz band. (WRC-07)
 
-5.484 In Region 1, the use of the band 10.7-11.7 GHz by the fixed-satellite service (Earth-to-space) is limited to feeder links for the broadcasting-satellite service.
+**5.475B**In the band 9300–9500 MHz, stations operating in the radiolocation service shall not cause harmful interference to, nor claim protection from, radars operating in the radionavigation service in conformity with the Radio Regulations. Ground-based radars used for meteorological purposes have priority over other radiolocation uses. (WRC-07)
 
-5.484A The use of the bands 10.95-11.2 GHz (space-to-Earth), 11.45-11.7 GHz (space-to-Earth), 11.7-12.2 GHz (space-to-Earth) in Region 2, 12.2-12.75 GHz (space-to-Earth) in Region 3, 12.5-12.75 GHz (space-to-Earth) in Region 1, 13.75-14.5 GHz (Earth-to-space), 17.8-18.6 GHz (space-to-Earth), 19.7-20.2 GHz (space-to-Earth), 27.5-28.6 GHz (Earth-to-space), 29.5-30 GHz (Earth-to-space) by a non-geostationary-satellite system in the fixed-satellite service is subject to application of the provisions of No. 9.12 for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixed-satellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. 5.43A does not apply. Non-geostationary-satellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
+**5.476A**In the band 9300–9800 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, nor claim protection from, stations of the radionavigation and radiolocation services. (WRC-07)
 
-5.497 The use of the band 13.25-13.4 GHz by the aeronautical radionavigation service is limited to Doppler navigation aids.
+**5.478A**The use of the band 9800–9900 MHz by the Earth exploration-satellite service (active) and the space research service (active) is limited to systems requiring necessary bandwidth greater than 500 MHz that cannot be fully accommodated within the 9300–9800 MHz band. (WRC-07)
 
-5.502 In the band 13.75-14 GHz, an earth station of a geostationary fixed-satellite service network shall have a minimum antenna diameter of 1.2 m and an earth station of a non-geostationary fixed-satellite service system shall have a minimum antenna diameter of 4.5 m. In addition, the e.i.r.p., averaged over one second, radiated by a station in the radiolocation or radionavigation services shall not exceed 59 dBW for elevation angles above 2° and 65 dBW at lower angles. Before an administration brings into use an earth station in a geostationary-satellite network in the fixed-satellite service in this band with an antenna diameter smaller than 4.5 m, it shall ensure that the power flux-density produced by this earth station does not exceed:
+**5.478B**In the band 9800–9900 MHz, stations in the Earth exploration-satellite service (active) and space research service (active) shall not cause harmful interference to, nor claim protection from stations of the fixed service to which this band is allocated on a secondary basis. (WRC-07)
+
+**5.482**In the band 10.6–10.68 GHz, the power delivered to the antenna of stations of the fixed and mobile, except aeronautical mobile, services shall not exceed −3 dBW. This limit may be exceeded, subject to agreement obtained under No. **9.21**. However, in Algeria, Saudi Arabia, Armenia, Azerbaijan, Bahrain, Bangladesh, Belarus, Egypt, United Arab Emirates, Georgia, India, Indonesia, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kuwait, Lebanon, Libya, Morocco, Mauritania, Moldova, Nigeria, Oman, Uzbekistan, Pakistan, Philippines, Qatar, Syrian Arab Republic, Kyrgyzstan, Singapore, Tajikistan, Tunisia, Turkmenistan and Viet Nam, this restriction on the fixed and mobile, except aeronautical mobile, services is not applicable. (WRC-07)
+
+**5.482A**For sharing of the band 10.6–10.68 GHz between the Earth exploration-satellite (passive) service and the fixed and mobile, except aeronautical mobile, services, Resolution **751 (WRC-07)**applies. (WRC-07)
+
+**5.484**In Region 1, the use of the band 10.7–11.7 GHz by the fixed-satellite service (Earth-to-space) is limited to feeder links for the broadcasting-satellite service.
+
+**5.484A**The use of the bands 10.95–11.2 GHz (space-to-Earth), 11.45–11.7 GHz (space-to-Earth), 11.7–12.2 GHz (space-to-Earth) in Region 2, 12.2–12.75 GHz (space-to-Earth) in Region 3, 12.5–12.75 GHz (space-to-Earth) in Region 1, 13.75–14.5 GHz (Earth-to-space), 17.8–18.6 GHz (space-to-Earth), 19.7–20.2 GHz (space-to-Earth), 27.5–28.6 GHz (Earth-to-space), 29.5–30 GHz (Earth-to-space) by a non-geostationary-satellite system in the fixed-satellite service is subject to application of the provisions of No. **9.12**for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixed-satellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. **5.43A**does not apply. Non-geostationarysatellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
+
+**5.484B**Resolution **155 (WRC-15)**shall apply. (WRC-15)
+
+**5.497**The use of the band 13.25–13.4 GHz by the aeronautical radionavigation service is limited to Doppler navigation aids.
+
+**5.502**In the band 13.75–14 GHz, an earth station of a geostationary fixed-satellite service network shall have a minimum antenna diameter of 1.2 m and an earth station of a non-geostationary fixed-satellite service system shall have a minimum antenna diameter of 4.5 m. In addition, the e.i.r.p., averaged over one second, radiated by a station in the radiolocation or radionavigation services shall not exceed 59 dBW for elevation angles above 2° and 65 dBW at lower angles. Before an administration brings into use an earth station in a geostationary-satellite network in the fixed-satellite service in this band with an antenna diameter smaller than 4.5 m, it shall ensure that the power flux-density produced by this earth station does not exceed:
 
 For earth stations within the fixed-satellite service having an antenna diameter greater than or equal to 4.5 m, the e.i.r.p. of any emission should be at least 68 dBW and should not exceed 85 dBW. (WRC-03)
 
-5.504A In the band 14-14.5 GHz, aircraft earth stations in the secondary aeronautical mobile-satellite service may also communicate with space stations in the fixed-satellite service. The provisions of Nos. 5.29, 5.30 and 5.31 apply. (WRC-03)
+**5.504A**In the band 14–14.5 GHz, aircraft earth stations in the secondary aeronautical mobile-satellite service may also communicate with space stations in the fixed-satellite service. The provisions of Nos. **5.29**, **5.30**and **5.31**apply. (WRC-03)
 
-5.504B Aircraft earth stations operating in the aeronautical mobile-satellite service in the band 14-14.5 GHz shall comply with the provisions of Annex 1, Part C of Recommendation ITU-R M.1643, with respect to any radio astronomy station performing observations in the 14.47-14.5 GHz band located on the territory of Spain, France, India, Italy, the United Kingdom and South Africa. (WRC-03)
+**5.504B**Aircraft earth stations operating in the aeronautical mobile-satellite service in the frequency band 14–14.5 GHz shall comply with the provisions of Annex 1, Part C of Recommendation ITU-R M.1643-0, with respect to any radio astronomy station performing observations in the 14.47–14.5 GHz frequency band located on the territory of Spain, France, India, Italy, the United Kingdom and South Africa. (WRC-15)
 
-5.504C In the band 14-14.25 GHz, the power flux-density produced on the territory of the countries of Saudi Arabia, Botswana, Côte d’Ivoire, Egypt, Guinea, India, Iran (Islamic Republic of), Kuwait, Nigeria, Oman, the Syrian Arab Republic and Tunisia by any aircraft earth station in the aeronautical mobile-satellite service shall not exceed the limits given in Annex 1, Part B of Recommendation ITU-R M.1643, unless otherwise specifically agreed by the affected administration(s). The provisions of this footnote in no way derogate the obligations of the aeronautical mobile-satellite service to operate as a secondary service in accordance with No. 5.29. (WRC-12)
+**5.504C**In the frequency band 14–14.25 GHz, the power flux-density produced on the territory of the countries of Saudi Arabia, Bahrain, Botswana, Côte d’Ivoire, Egypt, Guinea, India, Iran (Islamic Republic of), Kuwait, Nigeria, Oman, the Syrian Arab Republic and Tunisia by any aircraft earth station in the aeronautical mobile-satellite service shall not exceed the limits given in Annex 1, Part B of Recommendation ITU-R M.1643-0, unless otherwise specifically agreed by the affected administration(s). The provisions of this footnote in no way derogate the obligations of the aeronautical mobile-satellite service to operate as a secondary service in accordance with No. **5.29**. (WRC-15)
 
-5.506A In the band 14-14.5 GHz, ship earth stations with an e.i.r.p. greater than 21 dBW shall operate under the same conditions as earth stations located on board vessels, as provided in Resolution 902 (WRC-03). This footnote shall not apply to ship earth stations for which the complete Appendix 4 information has been received by the Bureau prior to 5 July 2003. (WRC-03)
+**5.506A**In the band 14–14.5 GHz, ship earth stations with an e.i.r.p. greater than 21 dBW shall operate under the same conditions as earth stations located on board vessels, as provided in Resolution **902 (WRC-03)**. This footnote shall not apply to ship earth stations for which the complete Appendix **4**information has been received by the Bureau prior to 5 July 2003. (WRC-03)
 
-5.506B Earth stations located on board vessels communicating with space stations in the fixed-satellite service may operate in the frequency band 14-14.5 GHz without the need for prior agreement from Cyprus, Greece and Malta, within the minimum distance given in Resolution 902 (WRC-03) from these countries. (WRC-03)
+**5.506B**Earth stations located on board vessels communicating with space stations in the fixed-satellite service may operate in the frequency band 14–14.5 GHz without the need for prior agreement from Cyprus and Malta, within the minimum distance given in Resolution **902 (WRC-03)**from these countries. (WRC-15)
 
-5.508A In the band 14.25-14.3 GHz, the power flux-density produced on the territory of the countries of Saudi Arabia, Botswana, China, Côte d’Ivoire, Egypt, France, Guinea, India, Iran (Islamic Republic of), Italy, Kuwait, Nigeria, Oman, the Syrian Arab Republic, the United Kingdom and Tunisia by any aircraft earth station in the aeronautical mobile-satellite service shall not exceed the limits given in Annex 1, Part B of Recommendation ITU-R M.1643, unless otherwise specifically agreed by the affected administration(s). The provisions of this footnote in no way derogate the obligations of the aeronautical mobile-satellite service to operate as a secondary service in accordance with No. 5.29. (WRC-12)
+**5.508A**In the frequency band 14.25–14.3 GHz, the power flux-density produced on the territory of the countries of Saudi Arabia, Bahrain, Botswana, China, Côte d’Ivoire, Egypt, France, Guinea, India, Iran (Islamic Republic of), Italy, Kuwait, Nigeria, Oman, the Syrian Arab Republic, the United Kingdom and Tunisia by any aircraft earth station in the aeronautical mobile-satellite service shall not exceed the limits given in Annex 1, Part B of Recommendation ITU-R M.1643-0, unless otherwise specifically agreed by the affected administration(s). The provisions of this footnote in no way derogate the obligations of the aeronautical mobile-satellite service to operate as a secondary service in accordance with No. **5.29**. (WRC-15)
 
-5.511C Stations operating in the aeronautical radionavigation service shall limit the effective e.i.r.p. in accordance with Recommendation ITU-R S.1340. The minimum coordination distance required to protect the aeronautical radionavigation stations (No. 4.10 applies) from harmful interference from feeder-link earth stations and the maximum e.i.r.p. transmitted towards the local horizontal plane by a feeder-link earth station shall be in accordance with Recommendation ITU-R S.1340. (WRC-97)
+**5.511C**Stations operating in the aeronautical radionavigation service shall limit the effective e.i.r.p. in accordance with Recommendation ITU-R S.1340-0. The minimum coordination distance required to protect the aeronautical radionavigation stations (No. **4.10**applies) from harmful interference from feeder-link earth stations and the maximum e.i.r.p. transmitted towards the local horizontal plane by a feeder-link earth station shall be in accordance with Recommendation ITU-R S.1340-0. (WRC-15)
 
-5.511E In the frequency band 15.4-15.7 GHz, stations operating in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the aeronautical radionavigation service. (WRC-12)
+**5.511E**In the frequency band 15.4–15.7 GHz, stations operating in the radiolocation service shall not cause harmful interference to, or claim protection from, stations operating in the aeronautical radionavigation service. (WRC-12)
 
-5.511F In order to protect the radio astronomy service in the frequency band 15.35-15.4 GHz, radiolocation stations operating in the frequency band 15.4-15.7 GHz shall not exceed the power flux-density level of -156 dB(W/m2) in a 50 MHz bandwidth in the frequency band 15.35-15.4 GHz, at any radio astronomy observatory site for more than 2 per cent of the time. (WRC-12)
+**5.511F**In order to protect the radio astronomy service in the frequency band 15.35–15.4 GHz, radiolocation stations operating in the frequency band 15.4–15.7 GHz shall not exceed the power flux-density level of −156 dB(W/m2) in a 50 MHz bandwidth in the frequency band 15.35–15.4 GHz, at any radio astronomy observatory site for more than 2 per cent of the time. (WRC-12)
 
-5.516 The use of the band 17.3-18.1 GHz by geostationary-satellite systems in the fixed-satellite service (Earth-to-space) is limited to feeder links for the broadcasting-satellite service. The use of the band 17.3-17.8 GHz in Region 2 by systems in the fixed-satellite service (Earth-to-space) is limited to geostationary satellites. For the use of the band 17.3-17.8 GHz in Region 2 by feeder links for the broadcasting-satellite service in the band 12.2-12.7 GHz, see Article 11. The use of the bands 17.3-18.1 GHz (Earth-to-space) in Regions 1 and 3 and 17.8-18.1 GHz (Earth-to-space) in Region 2 by non-geostationary-satellite systems in the fixed-satellite service is subject to application of the provisions of No. 9.12 for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixed-satellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. 5.43A does not apply. Non-geostationary-satellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
+**5.516**The use of the band 17.3–18.1 GHz by geostationary-satellite systems in the fixed-satellite service (Earth-to- space) is limited to feeder links for the broadcasting-satellite service. The use of the band 17.3–17.8 GHz in Region 2 by systems in the fixed-satellite service (Earth-to-space) is limited to geostationary satellites. For the use of the band 17.3–17.8 GHz in Region 2 by feeder links for the broadcasting-satellite service in the band 12.2–12.7 GHz, see Article **11**.
 
-5.516A In the band 17.3-17.7 GHz, earth stations of the fixed-satellite service (space-to-Earth) in Region 1 shall not claim protection from the broadcasting-satellite service feeder-link earth stations operating under Appendix 30A, nor put any limitations or restrictions on the locations of the broadcasting-satellite service feeder-link earth stations anywhere within the service area of the feeder link. (WRC-03)
+The use of the bands 17.3–18.1 GHz (Earth-to-space) in Regions 1 and 3 and 17.8–18.1 GHz (Earth-to-space) in Region 2 by non-geostationary-satellite systems in the fixed-satellite service is subject to application of the provisions of No. **9.12**for coordination with other non-geostationary-satellite systems in the fixed-satellite service. Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from geostationary-satellite networks in the fixed-satellite service operating in accordance with the Radio Regulations, irrespective of the dates of receipt by the Bureau of the complete coordination or notification information, as appropriate, for the non-geostationary-satellite systems in the fixedsatellite service and of the complete coordination or notification information, as appropriate, for the geostationary-satellite networks, and No. **5.43A**does not apply. Non-geostationary-satellite systems in the fixed-satellite service in the above bands shall be operated in such a way that any unacceptable interference that may occur during their operation shall be rapidly eliminated. (WRC-2000)
 
-5.516B The following bands are identified for use by high-density applications in the fixed-satellite service:
+**5.516A**In the band 17.3–17.7 GHz, earth stations of the fixed-satellite service (space-to-Earth) in Region 1 shall not claim protection from the broadcasting-satellite service feeder-link earth stations operating under Appendix **30A**, nor put any limitations or restrictions on the locations of the broadcasting-satellite service feeder-link earth stations anywhere within the service area of the feeder link. (WRC-03)
 
-17.3-17.7 GHz (space-to-Earth) in Region 1,
+**5.516B**The following bands are identified for use by high-density applications in the fixed-satellite service:
 
-18.3-19.3 GHz (space-to-Earth) in Region 2,
+17.3–17.7 GHz (space-to-Earth) in Region 1,
 
-19.7-20.2 GHz (space-to-Earth) in all Regions,
+18.3–19.3 GHz (space-to-Earth) in Region 2,
 
-39.5-40 GHz (space-to-Earth) in Region 1,
+19.7–20.2 GHz (space-to-Earth) in all Regions,
 
-40-40.5 GHz (space-to-Earth) in all Regions,
+39.5–40 GHz (space-to-Earth) in Region 1,
 
-40.5-42 GHz (space-to-Earth) in Region 2,
+40–40.5 GHz (space-to-Earth) in all Regions,
 
-47.5-47.9 GHz (space-to-Earth) in Region 1,
+40.5–42 GHz (space-to-Earth) in Region 2,
 
-48.2-48.54 GHz (space-to-Earth) in Region 1,
+47.5–47.9 GHz (space-to-Earth) in Region 1,
 
-49.44-50.2 GHz (space-to-Earth) in Region 1,
+48.2–48.54 GHz (space-to-Earth) in Region 1,
 
-and
+49.44–50.2 GHz (space-to-Earth) in Region 1, and
 
-27.5-27.82 GHz (Earth-to-space) in Region 1,
+27.5–27.82 GHz (Earth-to-space) in Region 1,
 
-28.35-28.45 GHz (Earth-to-space) in Region 2,
+28.35–28.45 GHz (Earth-to-space) in Region 2,
 
-28.45-28.94 GHz (Earth-to-space) in all Regions,
+28.45–28.94 GHz (Earth-to-space) in all Regions,
 
-28.94-29.1 GHz (Earth-to-space) in Region 2 and 3,
+28.94–29.1 GHz (Earth-to-space) in Region 2 and 3,
 
-29.25-29.46 GHz (Earth-to-space) in Region 2,
+29.25–29.46 GHz (Earth-to-space) in Region 2,
 
-29.46-30 GHz (Earth-to-space) in all Regions,
+29.46–30 GHz (Earth-to-space) in all Regions,
 
-48.2-50.2 GHz (Earth-to-space) in Region 2.
+48.2–50.2 GHz (Earth-to-space) in Region 2.
 
-This identification does not preclude the use of these bands by other fixed-satellite service applications or by other services to which these bands are allocated on a co-primary basis and does not establish priority in these Radio Regulations among users of the bands. Administrations should take this into account when considering regulatory provisions in relation to these bands. See Resolution 143 (WRC-03). (WRC-03)
+This identification does not preclude the use of these bands by other fixed-satellite service applications or by other services to which these bands are allocated on a co-primary basis and does not establish priority in these Radio Regulations among users of the bands. Administrations should take this into account when considering regulatory provisions in relation to these bands. See Resolution **143 (WRC-03)***. (WRC-03)
 
-5.519 Additional allocation: the bands 18-18.3 GHz in Region 2 and 18.1-18.4 GHz in Regions 1 and 3 are also allocated to the meteorological-satellite service (space-to-Earth) on a primary basis. Their use is limited to geostationary satellites. (WRC-07)
+**5.519** **Additional allocation:**the bands 18–18.3 GHz in Region 2 and 18.1–18.4 GHz in Regions 1 and 3 are also allocated to the meteorological-satellite service (space-to-Earth) on a primary basis. Their use is limited to geostationary satellites. (WRC-07)
 
-5.520 The use of the band 18.1-18.4 GHz by the fixed-satellite service (Earth-to-space) is limited to feeder links of geostationary-satellite systems in the broadcasting-satellite service. (WRC-2000)
+**5.520**The use of the band 18.1–18.4 GHz by the fixed-satellite service (Earth-to-space) is limited to feeder links of geostationary-satellite systems in the broadcasting-satellite service. (WRC-2000)
 
-5.522A The emissions of the fixed service and the fixed-satellite service in the band 18.6-18.8 GHz are limited to the values given in Nos. 21.5A and 21.16.2, respectively. (WRC-2000)
+**5.522A**The emissions of the fixed service and the fixed-satellite service in the band 18.6–18.8 GHz are limited to the values given in Nos. **21.5A**and **21.16.2**, respectively. (WRC-2000)
 
-5.525 In order to facilitate interregional coordination between networks in the mobile-satellite and fixed-satellite services, carriers in the mobile-satellite service that are most susceptible to interference shall, to the extent practicable, be located in the higher parts of the bands 19.7-20.2 GHz and 29.5-30 GHz.
+**5.525**In order to facilitate interregional coordination between networks in the mobile-satellite and fixed-satellite services, carriers in the mobile-satellite service that are most susceptible to interference shall, to the extent practicable, be located in the higher parts of the bands 19.7–20.2 GHz and 29.5–30 GHz.
 
-5.530B In the band 21.4-22 GHz, in order to facilitate the development of the broadcasting-satellite service, administrations in Regions 1 and 3 are encouraged not to deploy stations in the mobile service and are encouraged to limit the deployment of stations in the fixed service to point-to-point links. (WRC-12)
+**5.527A**The operation of earth stations in motion communicating with the FSS is subject to Resolution **156 (WRC-15)**. (WRC-15)
 
-5.530C The use of the band 21.4-22 GHz is subject to the provisions of Resolution 755 (WRC-12). (WRC-12)
+**5.530B**In the band 21.4–22 GHz, in order to facilitate the development of the broadcasting-satellite service, administrations in Regions 1 and 3 are encouraged not to deploy stations in the mobile service and are encouraged to limit the deployment of stations in the fixed service to point-to-point links. (WRC-12)
 
-5.530D See Resolution 555 (WRC-12). (WRC-12)
+**5.530C**(SUP - WRC-15)
 
-5.535A The use of the band 29.1-29.5 GHz (Earth-to-space) by the fixed-satellite service is limited to geostationary-satellite systems and feeder links to non-geostationary-satellite systems in the mobile-satellite service. Such use is subject to the application of the provisions of No. 9.11A, but not subject to the provisions of No. 22.2, except as indicated in Nos. 5.523C and 5.523E where such use is not subject to the provisions of No. 9.11A and shall continue to be subject to Articles 9 (except No. 9.11A) and 11 procedures, and to the provisions of No. 22.2. (WRC-97)
+**5.530D**See Resolution **555 (WRC-12)***. (WRC-12)
 
-5.536A Administrations operating earth stations in the Earth exploration-satellite service or the space research service shall not claim protection from stations in the fixed and mobile services operated by other administrations. In addition, earth stations in the Earth exploration-satellite service or in the space research service should be operated taking into account the most recent version of Recommendation ITU-R SA.1862. (WRC-12)
+**5.535A**The use of the band 29.1–29.5 GHz (Earth-to-space) by the fixed-satellite service is limited to geostationarysatellite systems and feeder links to non-geostationary-satellite systems in the mobile-satellite service. Such use is subject to the application of the provisions of No. **9.11A**, but not subject to the provisions of No. **22.2**, except as indicated in Nos. **5.523C**and **5.523E**where such use is not subject to the provisions of No. **9.11A**and shall continue to be subject to Articles **9**(except No. **9.11A**) and **11**procedures, and to the provisions of No. **22.2**. (WRC-97)
 
-5.538 Additional allocation: the bands 27.500-27.501 GHz and 29.999-30.000 GHz are also allocated to the fixed-satellite service (space-to-Earth) on a primary basis for the beacon transmissions intended for up-link power control. Such space-to-Earth transmissions shall not exceed an equivalent isotropically radiated power (e.i.r.p.) of +10 dBW in the direction of adjacent satellites on the geostationary-satellite orbit. (WRC-07)
+**5.536A**Administrations operating earth stations in the Earth exploration-satellite service or the space research service shall not claim protection from stations in the fixed and mobile services operated by other administrations. In addition, earth stations in the Earth exploration-satellite service or in the space research service should be operated taking into account the most recent version of Recommendation ITU-R SA.1862. (WRC-12)
 
-5.539 The band 27.5-30 GHz may be used by the fixed-satellite service (Earth-to-space) for the provision of feeder links for the broadcasting-satellite service.
+**5.538** **Additional allocation:**the bands 27.500–27.501 GHz and 29.999–30.000 GHz are also allocated to the fixed-satellite service (space-to-Earth) on a primary basis for the beacon transmissions intended for up-link power control. Such space-to-Earth transmissions shall not exceed an equivalent isotropically radiated power (e.i.r.p.) of 10 dBW in the direction of adjacent satellites on the geostationary-satellite orbit. (WRC-07)
 
-5.540 Additional allocation: the band 27.501-29.999 GHz is also allocated to the fixed-satellite service (space-to-Earth) on a secondary basis for beacon transmissions intended for up-link power control.
+**5.539**The band 27.5–30 GHz may be used by the fixed-satellite service (Earth-to-space) for the provision of feeder links for the broadcasting-satellite service.
 
-5.541A Feeder links of non-geostationary networks in the mobile-satellite service and geostationary networks in the fixed-satellite service operating in the band 29.1-29.5 GHz (Earth-to-space) shall employ uplink adaptive power control or other methods of fade compensation, such that the earth station transmissions shall be conducted at the power level required to meet the desired link performance while reducing the level of mutual interference between both networks. These methods shall apply to networks for which Appendix 4 coordination information is considered as having been received by the Bureau after 17 May 1996 and until they are changed by a future competent world radiocommunication conference. Administrations submitting Appendix 4 information for coordination before this date are encouraged to utilize these techniques to the extent practicable. (WRC-2000)
+**5.540** **Additional allocation:**the band 27.501–29.999 GHz is also allocated to the fixed-satellite service (space-to-Earth) on a secondary basis for beacon transmissions intended for up-link power control.
 
-5.547 The bands 31.8-33.4 GHz, 37-40 GHz, 40.5-43.5 GHz, 51.4-52.6 GHz, 55.78-59 GHz and 64-66 GHz are available for high-density applications in the fixed service (see Resolution 75 (WRC-2000)). Administrations should take this into account when considering regulatory provisions in relation to these bands. Because of the potential deployment of high-density applications in the fixed-satellite service in the bands 39.5-40 GHz and 40.5-42 GHz (see No. 5.516B), administrations should further take into account potential constraints to high-density applications in the fixed service, as appropriate. (WRC-07)
+**5.541A**Feeder links of non-geostationary networks in the mobile-satellite service and geostationary networks in the fixed-satellite service operating in the band 29.1–29.5 GHz (Earth-to-space) shall employ uplink adaptive power control or other methods of fade compensation, such that the earth station transmissions shall be conducted at the power level required to meet the desired link performance while reducing the level of mutual interference between both networks. These methods shall apply to networks for which Appendix **4**coordination information is considered as having been received by the Bureau after 17 May 1996 and until they are changed by a future competent world radiocommunication conference. Administrations submitting Appendix **4**information for coordination before this date are encouraged to utilize these techniques to the extent practicable. (WRC-2000)
 
-5.547A Administrations should take practical measures to minimize the potential interference between stations in the fixed service and airborne stations in the radionavigation service in the 31.8-33.4 GHz band, taking into account the operational needs of the airborne radar systems. (WRC-2000)
+**5.547**The bands 31.8–33.4 GHz, 37–40 GHz, 40.5–43.5 GHz, 51.4–52.6 GHz, 55.78–59 GHz and 64–66 GHz are available for high-density applications in the fixed service (see Resolution **75 (WRC-2000)***). Administrations should take this into account when considering regulatory provisions in relation to these bands. Because of the potential deployment of high-density applications in the fixed-satellite service in the bands 39.5–40 GHz and 40.5–42 GHz (see No. **5.516B**), administrations should further take into account potential constraints to high-density applications in the fixed service, as appropriate. (WRC-07)
 
-5.548 In designing systems for the inter-satellite service in the band 32.3-33 GHz, for the radionavigation service in the band 32-33 GHz, and for the space research service (deep space) in the band 31.8-32.3 GHz, administrations shall take all necessary measures to prevent harmful interference between these services, bearing in mind the safety aspects of the radionavigation service (see Recommendation 707). (WRC-03)
+**5.547A**Administrations should take practical measures to minimize the potential interference between stations in the fixed service and airborne stations in the radionavigation service in the 31.8–33.4 GHz band, taking into account the operational needs of the airborne radar systems. (WRC-2000)
 
-5.550A For sharing of the band 36-37 GHz between the Earth exploration-satellite (passive) service and the fixed and mobile services, Resolution 752 (WRC-07) shall apply. (WRC-07)
+**5.548**In designing systems for the inter-satellite service in the band 32.3–33 GHz, for the radionavigation service in the band 32–33 GHz, and for the space research service (deep space) in the band 31.8–32.3 GHz, administrations shall take all necessary measures to prevent harmful interference between these services, bearing in mind the safety aspects of the radionavigation service (see Recommendation **707**). (WRC-03)
 
-5.551F Different category of service: in Japan, the allocation of the band 41.5-42.5 GHz to the mobile service is on a primary basis (see No. 5.33). (WRC-97)
+**5.550A**For sharing of the band 36–37 GHz between the Earth exploration-satellite (passive) service and the fixed and mobile services, Resolution **752 (WRC-07)**shall apply. (WRC-07)
 
-5.551H The equivalent power flux-density (epfd) produced in the band 42.5-43.5 GHz by all space stations in any non-geostationary-satellite system in the fixed-satellite service (space-to-Earth), or in the broadcasting-satellite service operating in the 42-42.5 GHz band, shall not exceed the following values at the site of any radio astronomy station for more than 2% of the time:
+**5.551F** **Different category of service**: in Japan, the allocation of the band 41.5–42.5 GHz to the mobile service is on a primary basis (see No. **5.33**). (WRC-97)
 
-These epfd values shall be evaluated using the methodology given in Recommendation ITU-R S.1586-1 and the reference antenna pattern and the maximum gain of an antenna in the radio astronomy service given in Recommendation ITU-R RA.1631 and shall apply over the whole sky and for elevation angles higher than the minimum operating angle θmin of the radiotelescope (for which a default value of 5° should be adopted in the absence of notified information).
+**5.551H**The equivalent power flux-density (epfd) produced in the frequency band 42.5–43.5 GHz by all space stations in any non-geostationary-satellite system in the fixed-satellite service (space-to-Earth), or in the broadcastingsatellite service operating in the frequency band 42–42.5 GHz, shall not exceed the following values at the site of any radio astronomy station for more than 2% of the time:
+
+These epfd values shall be evaluated using the methodology given in Recommendation ITU-R S.1586-1 and the reference antenna pattern and the maximum gain of an antenna in the radio astronomy service given in Recommendation ITU-R RA.1631-0 and shall apply over the whole sky and for elevation angles higher than the minimum operating angle θ**min**of the radiotelescope (for which a default value of 5° should be adopted in the absence of notified information).
 
 These values shall apply at any radio astronomy station that either:
 
-Other radio astronomy stations notified after these dates may seek an agreement with administrations that have authorized the space stations. In Region 2, Resolution 743 (WRC-03) shall apply. The limits in this footnote may be exceeded at the site of a radio astronomy station of any country whose administration so agreed. (WRC-07)
+Other radio astronomy stations notified after these dates may seek an agreement with administrations that have authorized the space stations. In Region 2, Resolution **743 (WRC-03)**shall apply. The limits in this footnote may be exceeded at the site of a radio astronomy station of any country whose administration so agreed. (WRC-15)
 
-5.551I The power flux-density in the band 42.5-43.5 GHz produced by any geostationary space station in the fixed-satellite service (space-to-Earth), or the broadcasting-satellite service operating in the 42-42.5 GHz band, shall not exceed the following values at the site of any radio astronomy station:
+**5.551I**The power flux-density in the band 42.5–43.5 GHz produced by any geostationary space station in the fixedsatellite service (space-to-Earth), or the broadcasting-satellite service operating in the 42–42.5 GHz band, shall not exceed the following values at the site of any radio astronomy station:
 
 These values shall apply at the site of any radio astronomy station that either:
 
-Other radio astronomy stations notified after these dates may seek an agreement with administrations that have authorized the space stations. In Region 2, Resolution 743 (WRC-03) shall apply. The limits in this footnote may be exceeded at the site of a radio astronomy station of any country whose administration so agreed. (WRC-03)
+or
 
-5.552 The allocation of the spectrum for the fixed-satellite service in the bands 42.5-43.5 GHz and 47.2-50.2 GHz for Earth-to-space transmission is greater than that in the band 37.5-39.5 GHz for space-to-Earth transmission in order to accommodate feeder links to broadcasting satellites. Administrations are urged to take all practicable steps to reserve the band 47.2-49.2 GHz for feeder links for the broadcasting-satellite service operating in the band 40.5-42.5 GHz.
+Other radio astronomy stations notified after these dates may seek an agreement with administrations that have authorized the space stations. In Region 2, Resolution **743 (WRC-03)**shall apply. The limits in this footnote may be exceeded at the site of a radio astronomy station of any country whose administration so agreed. (WRC-03)
 
-5.553 In the bands 43.5-47 GHz and 66-71 GHz, stations in the land mobile service may be operated subject to not causing harmful interference to the space radiocommunication services to which these bands are allocated (see No. 5.43). (WRC-2000)
+**5.552**The allocation of the spectrum for the fixed-satellite service in the bands 42.5–43.5 GHz and 47.2–50.2 GHz for Earth-to-space transmission is greater than that in the band 37.5–39.5 GHz for space-to-Earth transmission in order to accommodate feeder links to broadcasting satellites. Administrations are urged to take all practicable steps to reserve the band 47.2–49.2 GHz for feeder links for the broadcasting-satellite service operating in the band 40.5–42.5 GHz.
 
-5.554 In the bands 43.5-47 GHz, 66-71 GHz, 95-100 GHz, 123-130 GHz, 191.8-200 GHz and 252-265 GHz, satellite links connecting land stations at specified fixed points are also authorized when used in conjunction with the mobile-satellite service or the radionavigation-satellite service. (WRC-2000)
+**5.553**In the bands 43.5–47 GHz and 66–71 GHz, stations in the land mobile service may be operated subject to not causing harmful interference to the space radiocommunication services to which these bands are allocated (see No. **5.43**). (WRC-2000)
 
-5.556 In the bands 51.4-54.25 GHz, 58.2-59 GHz and 64-65 GHz, radio astronomy observations may be carried out under national arrangements. (WRC-2000)
+**5.554**In the bands 43.5–47 GHz, 66–71 GHz, 95–100 GHz, 123–130 GHz, 191.8–200 GHz and 252–265 GHz, satellite links connecting land stations at specified fixed points are also authorized when used in conjunction with the mobile-satellite service or the radionavigation-satellite service. (WRC-2000)
 
-5.557A In the band 55.78-56.26 GHz, in order to protect stations in the Earth exploration-satellite service (passive), the maximum power density delivered by a transmitter to the antenna of a fixed service station is limited to -26 dB(W/MHz). (WRC-2000)
+**5.556**In the bands 51.4–54.25 GHz, 58.2–59 GHz and 64–65 GHz, radio astronomy observations may be carried out under national arrangements. (WRC-2000)
 
-5.558 In the bands 55.78-58.2 GHz, 59-64 GHz, 66-71 GHz, 122.25-123 GHz, 130-134 GHz, 167-174.8 GHz and 191.8-200 GHz, stations in the aeronautical mobile service may be operated subject to not causing harmful interference to the inter-satellite service (see No. 5.43). (WRC-2000)
+**5.557A**In the band 55.78–56.26 GHz, in order to protect stations in the Earth exploration-satellite service (passive), the maximum power density delivered by a transmitter to the antenna of a fixed service station is limited to –26 dB(W/MHz). (WRC-2000)
 
-5.559A (SUP – WRC-07)
+**5.558**In the bands 55.78–58.2 GHz, 59–64 GHz, 66–71 GHz, 12 2.25–123 GHz, 130–134 GHz, 167–174.8 GHz and 191.8–200 GHz, stations in the aeronautical mobile service may be operated subject to not causing harmful interference to the inter-satellite service (see No. **5.43**). (WRC-2000)
 
-5.560 In the band 78-79 GHz radars located on space stations may be operated on a primary basis in the Earth exploration-satellite service and in the space research service.
+**5.559A**(SUP - WRC-07)
 
-5.561 In the band 74-76 GHz, stations in the fixed, mobile and broadcasting services shall not cause harmful interference to stations of the fixed-satellite service or stations of the broadcasting-satellite service operating in accordance with the decisions of the appropriate frequency assignment planning conference for the broadcasting-satellite service. (WRC-2000)
+**5.560**In the band 78–79 GHz radars located on space stations may be operated on a primary basis in the Earth exploration-satellite service and in the space research service.
 
-5.561A The 81-81.5 GHz band is also allocated to the amateur and amateur-satellite services on a secondary basis. (WRC-2000)
+**5.561**In the band 74–76 GHz, stations in the fixed, mobile and broadcasting services shall not cause harmful interference to stations of the fixed-satellite service or stations of the broadcasting-satellite service operating in accordance with the decisions of the appropriate frequency assignment planning conference for the broadcasting-satellite service. (WRC-2000)
 
-5.561B In Japan, use of the band 84-86 GHz, by the fixed-satellite service (Earth-to-space) is limited to feeder links in the broadcasting-satellite service using the geostationary-satellite orbit. (WRC-2000)
+**5.561A**The 81–81.5 GHz band is also allocated to the amateur and amateur-satellite services on a secondary basis. (WRC-2000)
 
-) and space research (active) services is limited to spaceborne cloud radars. (WRC-97)
+**5.561B**In Japan, use of the band 84–86 GHz, by the fixed-satellite service (Earth-to-space) is limited to feeder links in the broadcasting-satellite service using the geostationary-satellite orbit. (WRC-2000)
 
-5.562A In the bands 94-94.1 GHz and 130-134 GHz, transmissions from space stations of the Earth exploration-satellite service (active) that are directed into the main beam of a radio astronomy antenna have the potential to damage some radio astronomy receivers. Space agencies operating the transmitters and the radio astronomy stations concerned should mutually plan their operations so as to avoid such occurrences to the maximum extent possible. (WRC-2000)
+**5.562A**In the bands 94–94.1 GHz and 130–134 GHz, transmissions from space stations of the Earth explorationsatellite service (active) that are directed into the main beam of a radio astronomy antenna have the potential to damage some radio astronomy receivers. Space agencies operating the transmitters and the radio astronomy stations concerned should mutually plan their operations so as to avoid such occurrences to the maximum extent possible. (WRC-2000)
 
-5.562B In the bands 105-109.5 GHz, 111.8-114.25 GHz, 155.5-158.5 GHz and 217-226 GHz, the use of this allocation is limited to space-based radio astronomy only. (WRC-2000)
+**5.562B**In the bands 105–109.5 GHz, 111.8–114.25 GHz, 155.5–158.5 GHz and 217–226 GHz, the use of this allocation is limited to space-based radio astronomy only. (WRC-2000)
 
-5.562C Use of the band 116-122.25 GHz by the inter-satellite service is limited to satellites in the geostationary-satellite orbit. The single-entry power flux-density produced by a station in the inter-satellite service, for all conditions and for all methods of modulation, at all altitudes from 0 km to 1000 km above the Earth’s surface and in the vicinity of all geostationary orbital positions occupied by passive sensors, shall not exceed -148 dB(W/(m2 / MHz)) for all angles of arrival. (WRC-2000)
+**5.562C**Use of the band 116–122.25 GHz by the inter-satellite service is limited to satellites in the geostationarysatellite orbit. The single-entry power flux-density produced by a station in the inter-satellite service, for all conditions and for all methods of modulation, at all altitudes from 0 km to 1 000 km above the Earth’s surface and in the vicinity of all geostationary orbital positions occupied by passive sensors, shall not exceed –148 dB(W/(m2 MHz)) for all angles of arrival. (WRC-2000)
 
-5.562E The allocation to the Earth exploration-satellite service (active) is limited to the band 133.5-134 GHz. (WRC-2000)
-
-5.562F In the band 155.5-158.5 GHz, the allocation to the Earth exploration-satellite (passive) and space research (passive) services shall terminate on 1 January 2018. (WRC-2000)
-
-5.562G The date of entry into force of the allocation to the fixed and mobile services in the band 155.5-158.5 GHz shall be 1 January 2018. (WRC-2000)
-
-5.562H Use of the bands 174.8-182 GHz and 185-190 GHz by the inter-satellite service is limited to satellites in the geostationary-satellite orbit. The single-entry power flux-density produced by a station in the inter-satellite service, for all conditions and for all methods of modulation, at all altitudes from 0 to 1000 km above the Earth’s surface and in the vicinity of all geostationary orbital positions occupied by passive sensors, shall not exceed -144 dB(W/(m2 / MHz)) for all angles of arrival. (WRC-2000)
-
-5.563A In the bands 200-209 GHz, 235-238 GHz, 250-252 GHz and 265-275 GHz, ground-based passive atmospheric sensing is carried out to monitor atmospheric constituents. (WRC-2000)
-
-5.563B The band 237.9-238 GHz is also allocated to the Earth exploration-satellite service (active) and the space research service (active) for spaceborne cloud radars only. (WRC-2000)
-
-5.565 The following frequency bands in the range 275-1 000 GHz are identified for use by administrations for passive service applications:
-
-416-434 GHz, 439-467 GHz, 477-502 GHz, 523-527 GHz, 538-581 GHz, 611-630 GHz,
-
-634-654 GHz, 657-692 GHz, 713-718 GHz, 729-733 GHz, 750-754 GHz, 771-776 GHz,
-
-823-846 GHz, 850-854 GHz, 857-862 GHz, 866-882 GHz, 905-928 GHz, 951-956 GHz,
-
-968-973 GHz and 985-990 GHz.
-
-The use of the range 275-1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275-1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275-1 000 GHz frequency range.
+**5.562E**The allocation to the Earth exploration-satellite service (active) is limited to the band 133.5–134 GHz. (WRC-2000)
 
 ### Annex 3, De nationale voetnoten
 
-Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
+**5.562G**The date of entry into force of the allocation to the fixed and mobile services in the band 155.5–158.5 GHz shall be 1 January 2018. (WRC-2000)
+
+**5.562H**Use of the bands 174.8–182 GHz and 185–190 GHz by the inter-satellite service is limited to satellites in the geostationary-satellite orbit. The single-entry power flux-density produced by a station in the inter-satellite service, for all conditions and for all methods of modulation, at all altitudes from 0 to 1 000 km above the Earth’s surface and in the vicinity of all geostationary orbital positions occupied by passive sensors, shall not exceed 144 dB(W/(m2 MHz))
+
+for all angles of arrival. (WRC-2000)
+
+**5.563A**In the bands 200–209 GHz, 235–238 GHz, 250–252 GHz and 265–275 GHz, ground-based passive atmospheric sensing is carried out to monitor atmospheric constituents. (WRC-2000)
+
+**5.563B**The band 237.9–238 GHz is also allocated to the Earth exploration-satellite service (active) and the space research service (active) for spaceborne cloud radars only. (WRC-2000)
+
+**5.565**The following frequency bands in the range 275–1000 GHz are identified for use by administrations for passive service applications:
+
+The use of the range 275–1000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1000 GHz frequency range.
+
+All frequencies in the range 1000–3000 GHz may be used by both active and passive services. (WRC-12)
+
+Vanaf 1 september 2011 tot 1 september 2017 is deze frequentieband, voor zover zij nader is bestemd voor commerciële radio-omroep, gekoppeld met de bovenregionale frequentiebanden 182.792 – 184.504 MHz; 188 – 189.784 MHz; 195 – 196.792 MHz; 207.208 – 209MHz. Ingevolge deze nadere bestemming en koppeling is het desbetreffende deel van deze frequentieband alleen bestemd voor commerciële omroepen die tevens houder zijn of worden van een vergunning voor het gebruik van frequentieruimte gelegen in de eerder genoemde bovenregionale frequentiebanden.
 
 Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
@@ -1190,7 +1206,7 @@ Vanaf 1 september 2017 tot 1 september 20221Voor vergunningen voor niet-landelij
 
 Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gelegerde buitenlandse strijdkrachten.
 
-Tot 1 september 2017 zijn de frequentiebanden 182.792 – 184.504 MHz; 188 – 189.784 MHz; 195 – 196.792 MHz; 207.208 – 209MHz, voor zover betrekking hebbend op de allotments 6B, 7A, 8A en 9D, gekoppeld met de frequentiebanden 87.5 MHz tot 104.9 MHz en 526.5 kHz tot en met 1606.5 kHz en zijn deze banden bestemd voor:
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 De in de eerste alinea bedoelde allotments hebben de volgende geografische beperkingen:
 
@@ -1206,7 +1222,7 @@ Onverminderd de vorige alinea, is deze band in elk geval bestemd voor het uitzen
 
 Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte van het frequentieblok 11C bestemd voor landelijke commerciële omroepen die zowel een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C als een FM-vergunning voor landelijke commerciële radio-omroep houden of gaan houden.
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
 Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
 
@@ -1220,7 +1236,7 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
+Het gebruik van maritieme frequenties ten behoeve van maritieme veiligheid of maritieme werkzaamheden waarbij de gebruikte radioapparatuur niet gebonden is aan een schip. Voorbeelden hiervan zijn roeiers/vastmakers in de havens, onderhoudspersoneel op installaties op zee en wadloopgidsen. Het bezit van een maritiem bedieningscertificaat is verplicht.
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1250,7 +1266,7 @@ Het vrijwillige samenwerkingsverband tussen Europese overheden op het gebied van
 
 **CGC** **Complementary ground component / Aardse steunzender voor een satelliet netwerk.**
 
-**Koordloze telefoons** – Randapparaten die bestemd zijn voor aansluiting op een vast openbaar telefoonnetwerk / Cordless phones
+**Koordloze telefoons** – Eindapparaten die bestemd zijn voor aansluiting op een vast openbaar telefoonnetwerk / Cordless phones
 
 **DAB** – **Digital Audio Broadcasting**
 
@@ -1272,11 +1288,15 @@ Het vrijwillige samenwerkingsverband tussen Europese overheden op het gebied van
 
 **ECC** – Electronic Communications Committee (onderdeel van CEPT)
 
+**Eindapparaten** - Radioapparaten die via elektromagnetische golven direct of indirect zijn aangesloten op de netwerkaansluitpunten van een openbaar telecommunicatienetwerk ten behoeve van overbrenging, verwerking of ontvangst van informatie; een aansluiting is indirect wanneer een radioapparaat geplaatst is tussen het eindapparaat en het netwerkaansluitpunt van een openbaar telecommunicatienetwerk.
+
 **ELT** – **Emergency Locator Transmitter** / Apparaat aan boord van vliegtuigen dat in geval van nood een alarmering kan uitzenden en het opsporen van het toestel vereenvoudigt.
 
 **ENG/OB** – **Electronic News Gathering/Outside Broadcasting** / Omroep-gerelateerde activiteiten voor programmavervaardiging op locatie.
 
 **EPIRB** – **Emergency Position Indicating Radio Beacon** / Apparaat aan boord van schepen die als radiobaken blijven drijven op de plek waar een vaartuig in nood verkeert dan wel gezonken bij contact met het zeewater automatisch locatiegegevens uitzendt.
+
+**ESIM** - Earth Station In-Motion, Satelliet grondstation op een rijdend voertuig werkend onder de frequentieallocatie FSS-ES.
 
 **ESOMP - Earth Stations On Mobile Platform**
 
@@ -1352,7 +1372,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
 
-**NDB** – **Non Directional Beacon**/ Navigatiebaken.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **NFR** – Nationaal Frequentie Register, zie http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister
 
@@ -1372,9 +1392,11 @@ Voor niet-gecoördineerde satellietgrondstations geldt dat het gebruik van frequ
 
 **PMR** – 446 – **Personal Mobile Radio** / Systeem voor korteafstand-spraakcommunicatie in de 446 MHz band.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**Radio-interfaces** -Voorwaarden aan apparatuur die in een frequentieband mag worden gebruikt. Deze voorwaarden hebben betrekking op de bandbreedte, kanaalindeling, het uitgezonden vermogen en de bezettingsgraad.
 
-**RLAN** – **Radio Local Area Network** / Draadloos netwerk van computers en randapparatuur.
+**RED** - Radio Equipment Directive. Europese richtlijn voor radioapparatuur (2014/53/EU), die per 2014 de voorheen geldende richtlijn voor radioapparatuur en telecommunicatie-eindapparatuur R&TTE (1999/5/EG) heeft opgevolgd.
+
+**RLAN** – **Radio Local Area Network** / Draadloos netwerk van computers en eindapparatuur.
 
 **RTTT** – **Road Transport and Traffic Telematics** / Radiozendapparaten en/of systemen bedoeld voor wegtransport en verkeerstelematica, zoals onder andere voertuigradars en tolsystemen.
 
@@ -1418,13 +1440,37 @@ This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree docu
 
 The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**NDB** – **Non Directional Beacon**/ Navigatiebaken.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+Tot 1 september 2017 zijn de frequentiebanden 182.792 – 184.504 MHz; 188 – 189.784 MHz; 195 – 196.792 MHz; 207.208 – 209MHz, voor zover betrekking hebbend op de allotments 6B, 7A, 8A en 9D, gekoppeld met de frequentiebanden 87.5 MHz tot 104.9 MHz en 526.5 kHz tot en met 1606.5 kHz en zijn deze banden bestemd voor:
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 This frequency plan mentions, where possible, the English terms and abbreviations so as to make it also accessible to the non-Dutch reader. However, Dutch regulation requires this decree to be published in Dutch. (Should there be any possible difference in interpretation, the Dutch text shall prevail).
 
 An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
 
@@ -1434,57 +1480,11 @@ In addition to this Frequency plan, a Frequency Register is also available and l
 
 The procedure for changing this decree has a duration of approximately five months. A public consultation of six weeks is standard in this procedure. Following the publication of this document, this frequency table will be periodically adapted i.e. updated with the latest EC-Decisions, ECC Decisions etc. The consolidated decree version of this frequency plan is permanently available at: http://www.rijksoverheid.nl/onderwerpen/frequentiebeleid/nationaal-frequentieplan-nfp
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 For more information please consult the names and addresses in the colophon.
-
-**Lijst met belangrijke links:**
-
-**Colofon**
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-**Radio-interfaces** -Voorwaarden aan apparatuur die in een frequentieband mag worden gebruikt. Deze voorwaarden hebben betrekking op de bandbreedte, kanaalindeling, het uitgezonden vermogen en de bezettingsgraad.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-Dit is een uitgave van Ministerie van Economische Zaken
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-Redactie
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-A.H.W. Zwiers; ton.zwiers(a)agentschaptelecom.nl
-
-Drs. T. Deinum; t.deinum(a)minez.nl
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-Agentschap Telecom
-
-Emmasingel 1
-
-9726 AH Groningen
-
-Postbus 450
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
-9700 AL Groningen
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1560,11 +1560,11 @@ In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en 
 
 ### 8.4. Evenementen
 
-Evenementenomroep (in de FM band) is geregeld door middel van voetnoot HOL003.
+Een vergunning wordt verleend voor maximaal de duur van het evenement in ruime zin. (Hieronder valt ook het opbouwen en testen voorafgaand aan het evenement en eventueel nawerk).
 
 ### 8.5. Testinstellingen
 
-Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([richtlijn 2004/108/EG](32004L0108) van het Europees parlement en de Raad van 15 december 2004 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit en tot intrekking van [Richtlijn 89/336/EEG](31989L0336), Pb EU L 390/24)24Op 26 februari 2014 is een nieuwe EMC-richtlijn aangenomen (2014/30/EU) die in werking treedt op 20 april 2016. of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
+Apparatuur, voordat deze op de markt wordt gebracht, moet worden getest om te bezien of ze bestand is tegen elektromagnetische velden. Daartoe wordt de apparatuur blootgesteld aan signalen over een breed radiospectrum.
 
 ### 8.6. Buitengewone omstandigheden
 
@@ -1580,11 +1580,61 @@ Onder deze kop staat de frequentiebandindeling zoals van toepassing in Nederland
 
 ### Itu-radiodienst
 
-Non Interference -bestemming wordt aangegeven in kleine letters tussen schuine strepen, dus [/radiodienst/]
+In deze kolom wordt een primaire status aangegeven in hoofdletters als [RADIODIENST]. Een secundaire status wordt aangegeven met kleine letters dus als [radiodienst].
 
 ### Bestemming
 
-Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
+Aanduidingen die beginnen met ‘ HOLxxx’ zijn nationale voetnoten waarvan de betekenis staat vermeld in Annex 3.
+
+### Verdeelmechanisme
+
+‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
+
+### Bijlagen
+
+The downlinks for a passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
+
+### Annex 2, Betekenis ITU voetnoten
+
+**5.562F**In the band 155.5–158.5 GHz, the allocation to the Earth exploration-satellite (passive) and space research (passive) services shall terminate on 1 January 2018. (WRC-2000)
+
+### Annex 3, De nationale voetnoten
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
+**Lijst met belangrijke links:**
+
+**Colofon**
+
+Dit is een uitgave van Ministerie van Economische Zaken
+
+Redactie
+
+A.H.W. Zwiers; ton.zwiers(a)agentschaptelecom.nl
+
+Drs. T. Deinum; t.deinum(a)minez.nl
+
+Agentschap Telecom
+
+Emmasingel 1
+
+9726 AH Groningen
+
+Postbus 450
+
+9700 AL Groningen
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### 8.4. Evenementen
+
+### 8.5. Testinstellingen
+
+### Itu-radiodienst
+
+### Bestemming
 
 ### Verdeelmechanisme
 
@@ -1592,11 +1642,7 @@ Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
 
 ### Annex 1, Lijst van ITU radiodiensten
 
-A passive radiocommunication service in which space crafts or other objects in space are used for scientific or technological purposes.
-
 ### Annex 2, Betekenis ITU voetnoten
-
-All frequencies in the range 1000-3 000 GHz may be used by both active and passive services. (WRC-12)
 
 ### Annex 3, De nationale voetnoten
 
