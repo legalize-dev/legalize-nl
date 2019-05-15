@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2019-02-27"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -192,7 +192,7 @@ Aan de Compensatieadviseurs Militaire Productie word, ieder voor zich, ondermand
 
 ##### Artikel 12
 
-Aan de Compensatieadministrateurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst ingediende claim die een bedrag van € 2.500.000 niet te boven gaan.
+Aan de Compensatieadministrateurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst ingediende claim die een bedrag van € 250.000 niet te boven gaan.
 
 #### § 3. Vervanging
 
