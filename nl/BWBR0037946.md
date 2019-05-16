@@ -4,7 +4,7 @@ identifier: "BWBR0037946"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-01"
-last_updated: "2019-02-01"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037946"
 soort: "zbo"
@@ -46,11 +46,11 @@ Besluit:
 
 ##### 1.1.1
 
-Deze code bevat de voorwaarden zoals bedoeld in [artikel 31, eerste lid, onderdeel b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31).
+Deze code bevat de voorwaarden zoals bedoeld in [artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31).
 
 ##### 1.1.2
 
-In deze code wordt verstaan onder ‘de Wet’: de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755).
+Vervallen
 
 ##### 1.1.3
 
@@ -76,7 +76,7 @@ De meterbeheerder participeert in het door de toezichthouder op de [Metrologiewe
 
 ##### 1.2.2.1
 
-Het deel van de op afstand uitleesbare kleinverbruikmeetinrichting dat geplaatst moet worden bij de aansluiting, wordt geplaatst door een meterplaatser die is erkend conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2019-02-01&g=2019-02-01), of door de netbeheerder.
+Het deel van de op afstand uitleesbare kleinverbruikmeetinrichting dat geplaatst moet worden bij de aansluiting, wordt geplaatst door een meterplaatser die is erkend conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2019-05-16&g=2019-05-16), of door de netbeheerder.
 
 ##### 1.2.2.2
 
@@ -86,29 +86,29 @@ De netbeheerder verstrekt aan de meterplaatser op diens verzoek:
 
 - –. het recht om verzegelingen die door of vanwege de netbeheerder zijn aangebracht te schenden of verbreken indien dit noodzakelijk is voor het uitvoeren van werkzaamheden aan of in de onmiddellijke nabijheid van de aansluiting, die verband houden met de plaatsing van meetinrichtingen.
 
-- –. het recht om namens de netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&z=2019-02-01&g=2019-02-01) genoemde voorwaarden.
+- –. het recht om namens de netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&z=2019-05-16&g=2019-05-16) genoemde voorwaarden.
 
 #### 1.2.3. Het overdragen van meetverantwoordelijkheid
 
 ##### 1.2.3.1
 
-Tot het uitoefenen van meetverantwoordelijkheid voor een grootverbruikaansluiting zijn slechts personen toegelaten die hiervoor conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2019-02-01&g=2019-02-01) zijn erkend.
+Tot het uitoefenen van meetverantwoordelijkheid voor een grootverbruikaansluiting zijn slechts personen toegelaten die hiervoor conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2019-05-16&g=2019-05-16) zijn erkend.
 
 ##### 1.2.3.2
 
-Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-02-01&g=2019-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-02-01&g=2019-02-01) voortvloeiende werkzaamheden.
+Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-05-16&g=2019-05-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-05-16&g=2019-05-16) voortvloeiende werkzaamheden.
 
 ##### 1.2.3.3
 
-Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-02-01&g=2019-02-01) tevens gebruikt wordt ten behoeve van de uitvoering van de [Regeling kooldioxide-index warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015948), kan, in afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2019-02-01&g=2019-02-01), voor deze meetinrichting een andere meetverantwoordelijke, hierna te noemen het MEP-meetbedrijf, worden aangewezen dan de meetverantwoordelijke die op grond van 1.2.3.2 als meetverantwoordelijke voor de grootverbruikaansluiting van de desbetreffende aangeslotene in het aansluitingenregister van de netbeheerder staat geregistreerd, onder voorwaarde dat:
+Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-05-16&g=2019-05-16) tevens gebruikt wordt ten behoeve van de uitvoering van de [Regeling kooldioxide-index warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015948), kan, in afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2019-05-16&g=2019-05-16), voor deze meetinrichting een andere meetverantwoordelijke, hierna te noemen het MEP-meetbedrijf, worden aangewezen dan de meetverantwoordelijke die op grond van 1.2.3.2 als meetverantwoordelijke voor de grootverbruikaansluiting van de desbetreffende aangeslotene in het aansluitingenregister van de netbeheerder staat geregistreerd, onder voorwaarde dat:
 
 - a. het MEP-meetbedrijf hetzelfde is als het meetbedrijf dat verantwoordelijk is voor de niet-elektrische metingen ten behoeve van de kooldioxideindexbepaling;
 
 - b. er achter een grootverbruikaansluiting slechts één MEP-meetbedrijf actief is;
 
-- c. het MEP-meetbedrijf de verantwoordelijkheid op zich neemt voor alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-02-01&g=2019-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-02-01&g=2019-02-01) ten aanzien van de in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-02-01&g=2019-02-01) bedoelde meetinrichting nodig zijn, met dien verstande dat hij de technische gegevens van de desbetreffende meetinrichting alsmede de meetgegevens van de desbetreffende meetinrichting ter beschikking stelt aan de op de desbetreffende grootverbruikaansluiting acterende meetverantwoordelijke in plaats van aan de netbeheerder;
+- c. het MEP-meetbedrijf de verantwoordelijkheid op zich neemt voor alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-05-16&g=2019-05-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-05-16&g=2019-05-16) ten aanzien van de in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-05-16&g=2019-05-16) bedoelde meetinrichting nodig zijn, met dien verstande dat hij de technische gegevens van de desbetreffende meetinrichting alsmede de meetgegevens van de desbetreffende meetinrichting ter beschikking stelt aan de op de desbetreffende grootverbruikaansluiting acterende meetverantwoordelijke in plaats van aan de netbeheerder;
 
-- d. de meetverantwoordelijke op de desbetreffende aansluiting verantwoordelijk blijft voor de alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-02-01&g=2019-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-02-01&g=2019-02-01) ten aanzien van de in [2.1.1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-02-01&g=2019-02-01) bedoelde meetinrichting nodig zijn, met dien verstande dat hij daarnaast de in het voorgaande lid bedoelde technische gegevens vastlegt in zijn meterregister en de meetgegevens afkomstig van de meetinrichting, bedoeld in 2.1.1 sub c van het MEP-meetbedrijf accepteert en ongewijzigd doorgeeft aan de netbeheerder;
+- d. de meetverantwoordelijke op de desbetreffende aansluiting verantwoordelijk blijft voor de alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-05-16&g=2019-05-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-05-16&g=2019-05-16) ten aanzien van de in [2.1.1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-05-16&g=2019-05-16) bedoelde meetinrichting nodig zijn, met dien verstande dat hij daarnaast de in het voorgaande lid bedoelde technische gegevens vastlegt in zijn meterregister en de meetgegevens afkomstig van de meetinrichting, bedoeld in 2.1.1 sub c van het MEP-meetbedrijf accepteert en ongewijzigd doorgeeft aan de netbeheerder;
 
 - e. de meetverantwoordelijke geeft de meetgegevens, bedoeld in [artikel 3, lid 1 van de Regeling certificaten warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015182&artikel=3) door aan de netbeheerder;
 
@@ -116,11 +116,11 @@ Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jc
 
 ##### 1.2.3.4
 
-In afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2019-02-01&g=2019-02-01) is er voor grootverbruikaansluitingen waarbij op grond van [artikel 2.30, eerste lid van de Netcode elektriciteit](onbekend) geen comptabele meetinrichting aanwezig is, geen meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-02-01&g=2019-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-02-01&g=2019-02-01) voortvloeiende werkzaamheden. In dat geval is de netbeheerder op grond van artikel 2.30, eerste lid van de Netcode elektriciteit in combinatie met [artikel 6.3.5.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.3.5.2) verantwoordelijk voor de vaststelling van de hoeveelheid getransporteerde energie op het overdrachtspunt van de desbetreffende grootverbruikaansluiting.
+In afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2019-05-16&g=2019-05-16) is er voor grootverbruikaansluitingen waarbij op grond van [artikel 2.30, eerste lid van de Netcode elektriciteit](onbekend) geen comptabele meetinrichting aanwezig is, geen meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-05-16&g=2019-05-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2019-05-16&g=2019-05-16) voortvloeiende werkzaamheden. In dat geval is de netbeheerder op grond van artikel 2.30, eerste lid van de Netcode elektriciteit in combinatie met [artikel 6.3.5.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.3.5.2) verantwoordelijk voor de vaststelling van de hoeveelheid getransporteerde energie op het overdrachtspunt van de desbetreffende grootverbruikaansluiting.
 
 ##### 1.2.3.5
 
-Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2019-02-01&g=2019-02-01) bedoelde persoon.
+Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2019-05-16&g=2019-05-16) bedoelde persoon.
 
 ##### 1.2.3.6
 
@@ -142,7 +142,7 @@ Ingeval tussen de aangeslotene en een andere meetverantwoordelijke binnen tien w
 
 ##### 1.2.4.3
 
-Indien niet voldaan wordt aan het gestelde in [1.2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.4&artikel=1.2.4.2&z=2019-02-01&g=2019-02-01) wordt de grootverbruikaansluiting door de netbeheerder gedeactiveerd.
+Indien niet voldaan wordt aan het gestelde in [1.2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.4&artikel=1.2.4.2&z=2019-05-16&g=2019-05-16) wordt de grootverbruikaansluiting door de netbeheerder gedeactiveerd.
 
 #### 1.2.5. Vangnetregeling meetverantwoordelijkheid
 
@@ -156,7 +156,7 @@ Aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW hebben ti
 
 ##### 1.2.5.3
 
-Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-02-01&g=2019-02-01) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
+Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-05-16&g=2019-05-16) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
 
 ##### 1.2.5.4
 
@@ -168,9 +168,9 @@ Onverwijld nadat hij bericht heeft ontvangen van de intrekking van de erkenning 
 
 - c. de aangeslotene verplicht is er alles aan te doen om te voorkomen dat zolang de vangnetregeling van toepassing is, de meetinrichting en de eventueel daarbij behorende communicatiemiddelen worden verwijderd of gewijzigd of niet meer functioneren of kunnen functioneren;
 
-- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-02-01&g=2019-02-01) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
+- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-05-16&g=2019-05-16) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
 
-- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-02-01&g=2019-02-01) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
+- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2019-05-16&g=2019-05-16) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
 
 ##### 1.2.5.5
 
@@ -178,15 +178,15 @@ Zolang de vangnetregeling van toepassing is, worden de meetgegevens ten behoeve 
 
 ##### 1.2.5.6
 
-Voor aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW wordt het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2019-02-01&g=2019-02-01) bedoelde profiel na overleg met de aangeslotene door de netbeheerder vastgesteld op basis van historische meetgegevens.
+Voor aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW wordt het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2019-05-16&g=2019-05-16) bedoelde profiel na overleg met de aangeslotene door de netbeheerder vastgesteld op basis van historische meetgegevens.
 
 ##### 1.2.5.7
 
-Voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan of gelijk aan 1 MW en een grootverbruikaansluiting met een telemetriegrootverbruikmeetinrichting, wordt voor het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2019-02-01&g=2019-02-01) bedoelde profiel gebruik gemaakt van een door de gezamenlijke netbeheerders en de BRP’s vooraf vastgesteld noodprofiel.
+Voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan of gelijk aan 1 MW en een grootverbruikaansluiting met een telemetriegrootverbruikmeetinrichting, wordt voor het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2019-05-16&g=2019-05-16) bedoelde profiel gebruik gemaakt van een door de gezamenlijke netbeheerders en de BRP’s vooraf vastgesteld noodprofiel.
 
 ##### 1.2.5.8
 
-In afwijking van [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2019-02-01&g=2019-02-01) en [1.2.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.7&z=2019-02-01&g=2019-02-01) treft de netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&z=2019-02-01&g=2019-02-01), en de overdracht van meetgegevens, zoals bedoeld in [6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende BRP om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
+In afwijking van [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2019-05-16&g=2019-05-16) en [1.2.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.7&z=2019-05-16&g=2019-05-16) treft de netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&z=2019-05-16&g=2019-05-16), en de overdracht van meetgegevens, zoals bedoeld in [6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende BRP om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
 
 ##### 1.2.5.9
 
@@ -194,7 +194,7 @@ Zolang de vangnetregeling van toepassing is, is de meetverantwoordelijke wiens e
 
 ##### 1.2.5.10
 
-In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de netbeheerder van het landelijk hoogspanningsnet de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2019-02-01&g=2019-02-01). Zo nodig stelt de netbeheerder van het landelijk hoogspanningsnet zich garant voor eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
+In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de netbeheerder van het landelijk hoogspanningsnet de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2019-05-16&g=2019-05-16). Zo nodig stelt de netbeheerder van het landelijk hoogspanningsnet zich garant voor eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
 
 ##### 1.2.5.11
 
@@ -206,7 +206,7 @@ Indien er sprake is van een telemetriegrootverbruikmeetinrichting, stelt de nieu
 
 ##### 1.2.5.13
 
-Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbruikmeetinrichting en indien de verzameling van meetgegevens als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) of [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2019-02-01&g=2019-02-01) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze verzameling van meetgegevens opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
+Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbruikmeetinrichting en indien de verzameling van meetgegevens als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) of [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2019-05-16&g=2019-05-16) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze verzameling van meetgegevens opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
 
 ### 2. Keuze van meetinrichting en aanwijzing meetbeheerder
 
@@ -214,7 +214,7 @@ Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbr
 
 ##### 2.1.1
 
-De bepalingen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&z=2019-02-01&g=2019-02-01) zijn van toepassing op comptabele meetinrichtingen:
+De bepalingen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&z=2019-05-16&g=2019-05-16) zijn van toepassing op comptabele meetinrichtingen:
 
 - a. in het (de) overdrachtspunt(en) van een aansluiting tussen twee elektriciteitsnetten;
 
@@ -230,7 +230,7 @@ In het (de) overdrachtspunt(en) van een aansluiting tussen twee netten is een te
 
 ##### 2.2.2
 
-Aan een telemetriegrootverbruikmeetinrichting op een overdrachtspunt van een aansluiting tussen een net en het landelijk hoogspanningsnet, zoals bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2019-02-01&g=2019-02-01), wordt voor een overdrachtspunt van een dergelijke aansluiting, zoals bedoeld in [artikel 15.2, eerste lid, van de Netcode elektriciteit](onbekend), gelijk gesteld een comptabele meetinrichting die gebruik maakt van niet voor comptabele doeleinden geïnstalleerde meettransformatoren aan de hoogspanningszijde waarbij de nauwkeurigheid met inachtneming van [artikel 4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2019-02-01&g=2019-02-01) wordt verbeterd door toepassing van digitale foutcorrectie en digitale plaatscorrectie.
+Aan een telemetriegrootverbruikmeetinrichting op een overdrachtspunt van een aansluiting tussen een net en het landelijk hoogspanningsnet, zoals bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2019-05-16&g=2019-05-16), wordt voor een overdrachtspunt van een dergelijke aansluiting, zoals bedoeld in [artikel 15.2, eerste lid, van de Netcode elektriciteit](onbekend), gelijk gesteld een comptabele meetinrichting die gebruik maakt van niet voor comptabele doeleinden geïnstalleerde meettransformatoren aan de hoogspanningszijde waarbij de nauwkeurigheid met inachtneming van [artikel 4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2019-05-16&g=2019-05-16) wordt verbeterd door toepassing van digitale foutcorrectie en digitale plaatscorrectie.
 
 #### 2.3. Meetinrichting in het (de) overdrachtspunt(en) van een aansluiting kleiner dan of gelijk aan 3x80A
 
@@ -246,7 +246,7 @@ In het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A is een tele
 
 ##### 2.4.2
 
-In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2019-02-01&g=2019-02-01) is in het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A met een gecontracteerd vermogen minder dan 0,1 MW, een profielgrootverbruikmeetinrichting aanwezig, tenzij de aangeslotene kiest voor een telemetriegrootverbruikmeetinrichting.
+In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2019-05-16&g=2019-05-16) is in het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A met een gecontracteerd vermogen minder dan 0,1 MW, een profielgrootverbruikmeetinrichting aanwezig, tenzij de aangeslotene kiest voor een telemetriegrootverbruikmeetinrichting.
 
 ##### 2.4.3
 
@@ -294,7 +294,7 @@ Er is sprake van een prioriteitsplaatsing indien de aangeslotene op zijn verzoek
 
 ##### 3.1.2
 
-Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&z=2019-02-01&g=2019-02-01) van toepassing.
+Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&z=2019-05-16&g=2019-05-16) van toepassing.
 
 ##### 3.1.3
 
@@ -302,11 +302,11 @@ Er is sprake van een plaatsing door derden van een op afstand uitleesbare kleinv
 
 ##### 3.1.4
 
-Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&z=2019-02-01&g=2019-02-01) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&z=2019-05-16&g=2019-05-16) van toepassing.
 
 ##### 3.1.5
 
-Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een niet door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&z=2019-02-01&g=2019-02-01) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een niet door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&z=2019-05-16&g=2019-05-16) van toepassing.
 
 #### 3.2. Procedure prioriteitsplaatsing
 
@@ -338,15 +338,15 @@ De netbeheerder controleert of:
 
 ##### 3.2.3
 
-Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2019-02-01&g=2019-02-01) genoemde vaststelling wordt binnen 5 werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2019-02-01&g=2019-02-01) bedoelde aanvraag meegedeeld aan de aangeslotene. Indien niet aan alle in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2019-02-01&g=2019-02-01) genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
+Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2019-05-16&g=2019-05-16) genoemde vaststelling wordt binnen 5 werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2019-05-16&g=2019-05-16) bedoelde aanvraag meegedeeld aan de aangeslotene. Indien niet aan alle in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2019-05-16&g=2019-05-16) genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
 
 ##### 3.2.4
 
-De netbeheerder neemt binnen 3 maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2019-02-01&g=2019-02-01) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
+De netbeheerder neemt binnen 3 maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2019-05-16&g=2019-05-16) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
 
 ##### 3.2.5
 
-De in 3.2.4 genoemde verplichting van de netbeheerder vervalt indien het niet lukt om in de in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2019-02-01&g=2019-02-01) genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
+De in 3.2.4 genoemde verplichting van de netbeheerder vervalt indien het niet lukt om in de in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2019-05-16&g=2019-05-16) genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
 
 ##### 3.2.6
 
@@ -382,15 +382,15 @@ De netbeheerder controleert of:
 
 ##### 3.3.3
 
-Het resultaat van de in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2019-02-01&g=2019-02-01) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2019-02-01&g=2019-02-01) bedoelde melding door de netbeheerder meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in artikel 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de netbeheerder geleverde meetinrichting gestopt door de netbeheerder.
+Het resultaat van de in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2019-05-16&g=2019-05-16) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2019-05-16&g=2019-05-16) bedoelde melding door de netbeheerder meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in artikel 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de netbeheerder geleverde meetinrichting gestopt door de netbeheerder.
 
 ##### 3.3.4
 
-De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2019-02-01&g=2019-02-01) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
+De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2019-05-16&g=2019-05-16) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
 
 ##### 3.3.5
 
-De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2019-02-01&g=2019-02-01) geplande plaatsing:
+De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2019-05-16&g=2019-05-16) geplande plaatsing:
 
 - a. de te plaatsen op afstand uitleesbare kleinverbruikmeetinrichting met de daarbij behorende gebruiks-, montage- en transportinstructies
 
@@ -402,7 +402,7 @@ De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https
 
 ##### 3.3.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2019-02-01&g=2019-02-01) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt. Indien dat niet het geval is, neemt de meterplaatser contact op met de netbeheerder.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2019-05-16&g=2019-05-16) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt. Indien dat niet het geval is, neemt de meterplaatser contact op met de netbeheerder.
 
 ##### 3.3.7
 
@@ -430,7 +430,7 @@ De meterplaatser verzendt de in 3.3.8 genoemde gegevens binnen één werkdag na 
 
 ##### 3.3.11
 
-De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2019-02-01&g=2019-02-01) genoemde afspraken af bij de netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2019-05-16&g=2019-05-16) genoemde afspraken af bij de netbeheerder.
 
 ##### 3.3.12
 
@@ -442,11 +442,11 @@ Nadat geconstateerd is dat de nieuwe meetinrichting gedurende vijf aaneengeslote
 
 ##### 3.3.14
 
-De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare kleinverbruikmeetinrichting in beheer en betaalt de bij of krachtens de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) daartoe vastgestelde vergoeding.
+De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare kleinverbruikmeetinrichting in beheer en betaalt de bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) daartoe vastgestelde vergoeding.
 
 ##### 3.3.15
 
-De netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2019-02-01&g=2019-02-01) ontvangen gegevens tenminste twee jaar.
+De netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2019-05-16&g=2019-05-16) ontvangen gegevens tenminste twee jaar.
 
 #### 3.4. Procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting
 
@@ -482,17 +482,17 @@ De netbeheerder controleert of:
 
 ##### 3.4.3
 
-Het resultaat van de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2019-02-01&g=2019-02-01) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2019-02-01&g=2019-02-01) bedoelde melding meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting.
+Het resultaat van de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2019-05-16&g=2019-05-16) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2019-05-16&g=2019-05-16) bedoelde melding meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting.
 
-Indien niet aan alle in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2019-02-01&g=2019-02-01) genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting gestopt.
+Indien niet aan alle in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2019-05-16&g=2019-05-16) genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting gestopt.
 
 ##### 3.4.4
 
-De meterplaatser neemt binnen 15 werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2019-02-01&g=2019-02-01) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
+De meterplaatser neemt binnen 15 werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2019-05-16&g=2019-05-16) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
 
 ##### 3.4.5
 
-De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2019-02-01&g=2019-02-01) geplande plaatsing de meterwisselgegevens:
+De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2019-05-16&g=2019-05-16) geplande plaatsing de meterwisselgegevens:
 
 - –. het meternummer van de huidige meetinrichting;
 
@@ -500,7 +500,7 @@ De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://
 
 ##### 3.4.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2019-02-01&g=2019-02-01) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2019-05-16&g=2019-05-16) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
 
 ##### 3.4.7
 
@@ -548,11 +548,11 @@ De meterplaatser verzamelt de gegevens omtrent het type meetinrichting en de wij
 
 ##### 3.4.12
 
-De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2019-02-01&g=2019-02-01), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2019-02-01&g=2019-02-01) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2019-02-01&g=2019-02-01) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de netbeheerder.
+De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2019-05-16&g=2019-05-16), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2019-05-16&g=2019-05-16) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2019-05-16&g=2019-05-16) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de netbeheerder.
 
 ##### 3.4.13
 
-De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2019-02-01&g=2019-02-01) genoemde afspraken af bij de netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2019-05-16&g=2019-05-16) genoemde afspraken af bij de netbeheerder.
 
 ##### 3.4.14
 
@@ -564,11 +564,11 @@ Nadat geconstateerd is dat de nieuwe meetinrichting gedurende vijf aaneengeslote
 
 ##### 3.4.16
 
-De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare kleinverbruikmeetinrichting in beheer en betaalt de bij of krachtens de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) daartoe vastgestelde vergoeding.
+De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare kleinverbruikmeetinrichting in beheer en betaalt de bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) daartoe vastgestelde vergoeding.
 
 ##### 3.4.17
 
-De netbeheerder bewaart de op grond van [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2019-02-01&g=2019-02-01) ontvangen gegevens tenminste twee jaar.
+De netbeheerder bewaart de op grond van [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2019-05-16&g=2019-05-16) ontvangen gegevens tenminste twee jaar.
 
 ### 4. Eisen aan meetinrichtingen
 
@@ -616,7 +616,7 @@ De niet op afstand uitleesbare kleinverbruikmeetinrichting geeft de tellerstande
 
 ##### 4.2.1.2
 
-Indien bij een aansluiting kleiner dan of gelijk aan 3x80A op laagspanningsniveau op het moment van inwerkingtreding van deze bepaling een Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische éénrichtingmeter aanwezig is, en er op de desbetreffende aansluiting op enig moment sprake is van zowel levering als teruglevering van elektriciteit, is het, in afwijking van [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2019-02-01&g=2019-02-01), toegestaan deze Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische meetinrichting geschikt voor één richting toe te passen tot het moment dat de desbetreffende meetinrichting vervangen wordt.
+Indien bij een aansluiting kleiner dan of gelijk aan 3x80A op laagspanningsniveau op het moment van inwerkingtreding van deze bepaling een Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische éénrichtingmeter aanwezig is, en er op de desbetreffende aansluiting op enig moment sprake is van zowel levering als teruglevering van elektriciteit, is het, in afwijking van [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2019-05-16&g=2019-05-16), toegestaan deze Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische meetinrichting geschikt voor één richting toe te passen tot het moment dat de desbetreffende meetinrichting vervangen wordt.
 
 #### 4.2.2. Eisen aan op afstand uitleesbare kleinverbruikmeetinrichtingen
 
@@ -624,7 +624,7 @@ Indien bij een aansluiting kleiner dan of gelijk aan 3x80A op laagspanningsnivea
 
 De op afstand uitleesbare kleinverbruikmeetinrichting voldoet aan de op het moment van plaatsing geldende versie van het [Besluit op afstand uitleesbare meetinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0030605).
 
-#### 4.2.3. Storingen in de kleinverbruikmeetinrichting
+#### 4.2.2. Eisen aan op afstand uitleesbare kleinverbruikmeetinrichtingen
 
 ##### 4.2.3.1
 
@@ -660,11 +660,11 @@ Indien de meetinrichting zich niet op het overdrachtspunt van de aansluiting bev
 
 ##### 4.3.2.1
 
-Bij nieuw aan te leggen aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-02-01&g=2019-02-01).
+Bij nieuw aan te leggen aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-05-16&g=2019-05-16).
 
 ##### 4.3.2.2
 
-Bij bestaande aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-02-01&g=2019-02-01), tenzij tussen de netbeheerder en de aangeslotene en/of de meetverantwoordelijke anders is overeengekomen.
+Bij bestaande aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-05-16&g=2019-05-16), tenzij tussen de netbeheerder en de aangeslotene en/of de meetverantwoordelijke anders is overeengekomen.
 
 ##### 4.3.2.3
 
@@ -722,7 +722,7 @@ De beheerder van het primaire deel van de meetinrichting meldt de aangeslotene e
 
 ##### 4.3.2.9
 
-Tussen de in [4.3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.8&z=2019-02-01&g=2019-02-01) bedoelde melding en de daadwerkelijke verwisseling verstrijkt ten minste een periode van tien werkdagen. De meetverantwoordelijke gaat na of de voorgenomen verwisseling een aanpassing van de meetinrichting noodzakelijk maakt. Mocht dit het geval zijn, dan spreekt de meetverantwoordelijke, uiterlijk de vijfde werkdag na de in 4.3.2.8 bedoelde melding, zo nodig een latere datum af waarop de meettransformatoren worden verwisseld en tegelijkertijd de meetinrichting wordt aangepast.
+Tussen de in [4.3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.8&z=2019-05-16&g=2019-05-16) bedoelde melding en de daadwerkelijke verwisseling verstrijkt ten minste een periode van tien werkdagen. De meetverantwoordelijke gaat na of de voorgenomen verwisseling een aanpassing van de meetinrichting noodzakelijk maakt. Mocht dit het geval zijn, dan spreekt de meetverantwoordelijke, uiterlijk de vijfde werkdag na de in 4.3.2.8 bedoelde melding, zo nodig een latere datum af waarop de meettransformatoren worden verwisseld en tegelijkertijd de meetinrichting wordt aangepast.
 
 ##### 4.3.2.10
 
@@ -804,21 +804,21 @@ De meetverantwoordelijke legt, voor zover van toepassing, de volgende gegevens v
 
 - r. de gegevens met betrekking tot het ontwerp en de structuur van de meetinrichting;
 
-- s. de wijze waarop de systematische (steekproefsgewijze) periodieke controle van in gebruik zijnde meters conform [1.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.1&artikel=1.2.1.1&z=2019-02-01&g=2019-02-01) wordt uitgevoerd;
+- s. de wijze waarop de systematische (steekproefsgewijze) periodieke controle van in gebruik zijnde meters conform [1.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.1&artikel=1.2.1.1&z=2019-05-16&g=2019-05-16) wordt uitgevoerd;
 
 - t. de naam van de aangeslotene met wie de aansluit- en transportovereenkomst is gesloten, alsmede de adresgegevens, zijnde straatnaam, huisnummer met eventuele toevoegingen, postcode en plaatsnaam of eventuele alternatieve locatieaanduidingen, behorend bij het overdrachtspunt van de aansluiting.
 
 ##### 4.3.3.2
 
-De meetverantwoordelijke verstrekt de netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-02-01&g=2019-02-01) sub a tot en met c genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de netbeheerder in rekening te brengen tarieven.
+De meetverantwoordelijke verstrekt de netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-05-16&g=2019-05-16) sub a tot en met c genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de netbeheerder in rekening te brengen tarieven.
 
 ##### 4.3.3.3
 
-De in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-02-01&g=2019-02-01) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door de netbeheerder van het landelijk hoogspanningsnet.
+De in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-05-16&g=2019-05-16) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door de netbeheerder van het landelijk hoogspanningsnet.
 
 ##### 4.3.3.4
 
-Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-02-01&g=2019-02-01) nog ten minste drie jaar.
+Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-05-16&g=2019-05-16) nog ten minste drie jaar.
 
 #### 4.3.4. Eisen aan profielgrootverbruikmeetinrichtingen en productiemeetinrichtingen
 
@@ -828,13 +828,13 @@ De profielgrootverbruikmeetinrichting registreert:
 
 - a. de tellerstanden voor één of twee telwerken (normaaltelwerk en laagtelwerk of in geval van een meetinrichting met één telwerk: enkeltelwerk) per energierichting met bijbehorende vermenigvuldigingsfactoren;
 
-- b. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2019-02-01&g=2019-02-01) van toepassing is, de kWmax binnen de gespecificeerde periode (kW).
+- b. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2019-05-16&g=2019-05-16) van toepassing is, de kWmax binnen de gespecificeerde periode (kW).
 
 ##### 4.3.4.2
 
 De productiemeetinrichting registreert de tellerstanden voor één of twee telwerken (normaaltelwerk en laagtelwerk of in geval van een meetinrichting met één telwerk: enkeltelwerk) met bijbehorende vermenigvuldigingsfactoren.
 
-#### 4.3.5. Eisen aan telemetriegrootverbruikmeetinrichtingen
+#### 4.3.4. Eisen aan profielgrootverbruikmeetinrichtingen en productiemeetinrichtingen
 
 ##### 4.3.5.1
 
@@ -844,13 +844,13 @@ Een telemetriegrootverbruikmeetinrichting registreert:
 
 - b. de totale hoeveelheid met het net uitgewisselde energie op één of twee telwerk(en) (enkeltarief respectievelijk normaaltarief en laagtarief) met bijbehorende vermenigvuldigingsfactoren;
 
-- c. indien dit volgens [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2019-02-01&g=2019-02-01) en [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2019-02-01&g=2019-02-01) van toepassing is, het aantal kvarh per maand.
+- c. indien dit volgens [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2019-05-16&g=2019-05-16) en [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2019-05-16&g=2019-05-16) van toepassing is, het aantal kvarh per maand.
 
-- d. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2019-02-01&g=2019-02-01) van toepassing is, de kWmax.
+- d. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2019-05-16&g=2019-05-16) van toepassing is, de kWmax.
 
 ##### 4.3.5.2
 
-Bij de registratie van de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-02-01&g=2019-02-01) genoemde uitgewisselde energie wordt onderscheid gemaakt naar de energie die de aangeslotene ontvangt en naar de energie die de aangeslotene levert.
+Bij de registratie van de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-05-16&g=2019-05-16) genoemde uitgewisselde energie wordt onderscheid gemaakt naar de energie die de aangeslotene ontvangt en naar de energie die de aangeslotene levert.
 
 ##### 4.3.5.3
 
@@ -862,65 +862,65 @@ De afwijking van de starttijden en stoptijden van de meetperiode is niet groter 
 
 ##### 4.3.5.5
 
-In afwijking van [4.3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.4&z=2019-02-01&g=2019-02-01) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
+In afwijking van [4.3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.4&z=2019-05-16&g=2019-05-16) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
 
 ##### 4.3.5.6
 
-De energie, de blindenergie, het vermogen en het blindvermogen van de meetinrichting worden vastgesteld overeenkomstig de formules genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-02-01&g=2019-02-01).
+De energie, de blindenergie, het vermogen en het blindvermogen van de meetinrichting worden vastgesteld overeenkomstig de formules genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-05-16&g=2019-05-16).
 
 ##### 4.3.5.7
 
-Bij de registratie van de in [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2019-02-01&g=2019-02-01) genoemde blindenergie wordt uitsluitend onderscheid gemaakt tussen het in de zin van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-02-01&g=2019-02-01) leveren en ontvangen van blindenergie.
+Bij de registratie van de in [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2019-05-16&g=2019-05-16) genoemde blindenergie wordt uitsluitend onderscheid gemaakt tussen het in de zin van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-05-16&g=2019-05-16) leveren en ontvangen van blindenergie.
 
 ##### 4.3.5.8
 
-Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-02-01&g=2019-02-01) gedefinieerde voorwaarden.
+Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2019-05-16&g=2019-05-16) gedefinieerde voorwaarden.
 
 #### 4.3.6. Nauwkeurigheidseisen aan meetinrichtingen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen
 
 ##### 4.3.6.1
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting, de in [B1.1 en B1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting, de in [B1.1 en B1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
 
 ##### 4.3.6.2
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.3
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting aangesloten via stroomstransformatoren de in [B1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting aangesloten via stroomstransformatoren de in [B1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.4
 
-Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting niet de in [B1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting niet de in [B1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.5
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.6
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting, de in [B1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) en [B1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting, de in [B1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) en [B1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
 
 ##### 4.3.6.7
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.8
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting die is aangesloten via stroomstransformatoren de in [B1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting die is aangesloten via stroomstransformatoren de in [B1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.9
 
-Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting de in [B1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting de in [B1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.10
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.11
 
-De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking gelden onder de volgende omstandigheden:
+De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking gelden onder de volgende omstandigheden:
 
 - a. de temperatuur in de ruimte waarin de kWh-meter(s) en eventuele kvarh-meter(s) zich bevinden is niet lager dan -10 °C en niet hoger dan 45 °C;
 
@@ -930,37 +930,37 @@ De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037
 
 ##### 4.3.6.12
 
-Bij aansluitingen op laagspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-02-01&g=2019-02-01) genoemde nominale waarde van de netspanning 230 V.
+Bij aansluitingen op laagspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-05-16&g=2019-05-16) genoemde nominale waarde van de netspanning 230 V.
 
 ##### 4.3.6.13
 
-Bij aansluitingen op hoogspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.11&z=2019-02-01&g=2019-02-01) genoemde nominale waarde van de netspanning de door de netbeheerder toegekende spanning Uc.
+Bij aansluitingen op hoogspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.11&z=2019-05-16&g=2019-05-16) genoemde nominale waarde van de netspanning de door de netbeheerder toegekende spanning Uc.
 
 ##### 4.3.6.14
 
-Op verzoek van de netbeheerder van het landelijk hoogspanningsnet toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt met dien verstande dat:
+Op verzoek van de netbeheerder van het landelijk hoogspanningsnet toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt met dien verstande dat:
 
-- a. aan het bepaalde in [4.3.6.1 tot en met 4.3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-02-01&g=2019-02-01) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-02-01&g=2019-02-01);
+- a. aan het bepaalde in [4.3.6.1 tot en met 4.3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-05-16&g=2019-05-16) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-05-16&g=2019-05-16);
 
-- b. aan het bepaalde in [4.3.6.6 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.6&z=2019-02-01&g=2019-02-01) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-02-01&g=2019-02-01).
+- b. aan het bepaalde in [4.3.6.6 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.6&z=2019-05-16&g=2019-05-16) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2019-05-16&g=2019-05-16).
 
 ##### 4.3.6.15
 
-In andere dan de in [4.3.6.14, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.14&z=2019-02-01&g=2019-02-01), genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-02-01&g=2019-02-01) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt.
+In andere dan de in [4.3.6.14, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.14&z=2019-05-16&g=2019-05-16), genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2019-05-16&g=2019-05-16) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt.
 
 #### 4.3.7. Storingen in de grootverbruikmeetinrichting
 
 ##### 4.3.7.1
 
-Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-02-01&g=2019-02-01) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt, verholpen te zijn.
+Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2019-05-16&g=2019-05-16) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt, verholpen te zijn.
 
 ##### 4.3.7.2
 
-Een storing als bedoeld in [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2019-02-01&g=2019-02-01) bij uitval van hetzij de hoofdmeting hetzij de controlemeting in een meetinrichting die geheel of gedeeltelijk dubbel is uitgevoerd dient zo spoedig mogelijk, doch binnen drie werkdagen nadat zij is opgemerkt, verholpen te zijn.
+Een storing als bedoeld in [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2019-05-16&g=2019-05-16) bij uitval van hetzij de hoofdmeting hetzij de controlemeting in een meetinrichting die geheel of gedeeltelijk dubbel is uitgevoerd dient zo spoedig mogelijk, doch binnen drie werkdagen nadat zij is opgemerkt, verholpen te zijn.
 
 ##### 4.3.7.3
 
-Indien, in afwijking van [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2019-02-01&g=2019-02-01) en [4.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.2&z=2019-02-01&g=2019-02-01), een oplossing binnen de in 4.3.7.1 respectievelijk 4.3.7.2 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
+Indien, in afwijking van [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2019-05-16&g=2019-05-16) en [4.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.2&z=2019-05-16&g=2019-05-16), een oplossing binnen de in 4.3.7.1 respectievelijk 4.3.7.2 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
 
 ##### 4.3.7.4
 
@@ -972,7 +972,7 @@ Storingen in het primaire deel van de meetinrichting worden door de meetverantwo
 
 ##### 4.3.7.6
 
-Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2019-02-01&g=2019-02-01), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
+Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2019-05-16&g=2019-05-16), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
 
 ### 5. Meetgegevensverzameling
 
@@ -980,59 +980,59 @@ Indien het voor het verhelpen van een storing nodig is dat een medewerker van de
 
 ##### 5.1.1
 
-Ten minste eenmaal in de 36 maanden bepaalt de netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen alsmede bij op afstand uitleesbare meetinrichtingen die administratief uitstaan de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
+Ten minste eenmaal in de 36 maanden bepaalt de netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen alsmede bij op afstand uitleesbare meetinrichtingen die administratief uitstaan de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
 
 ##### 5.1.2
 
-De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
-#### 5.2. Meetgegevensverzameling bij profielgrootverbruikmeetinrichtingen en bij productiemeetinrichtingen
+#### 5.1. Meetgegevensverzameling bij kleinverbruikmeetinrichtingen
 
 ##### 5.2.1
 
-Tenminste eenmaal per maand, tussen de vijfde werkdag voor en de vijfde werkdag na de maandwisseling bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde groter dan 3x80A en bij productiemeetinrichtingen de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+Tenminste eenmaal per maand, tussen de vijfde werkdag voor en de vijfde werkdag na de maandwisseling bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde groter dan 3x80A en bij productiemeetinrichtingen de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.2
 
-Ten minste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.5 onderdeel b, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.5) is opgenomen in het aansluitingenregister, bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde kleiner dan of gelijk aan 3x80A de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+Ten minste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.5 onderdeel b, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.5) is opgenomen in het aansluitingenregister, bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde kleiner dan of gelijk aan 3x80A de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.3
 
-Indien een aangeslotene met een aansluiting groter dan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichtingen zoals bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-02-01&g=2019-02-01), zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk van de Regeling certificaten warmtekrachtkoppeling uiterlijk de eerste werkdag van de maand, waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
+Indien een aangeslotene met een aansluiting groter dan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichtingen zoals bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-05-16&g=2019-05-16), zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk van de Regeling certificaten warmtekrachtkoppeling uiterlijk de eerste werkdag van de maand, waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
 
 ##### 5.2.4
 
-Indien een aangeslotene met een aansluiting kleiner dan of gelijk aan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichting(en) bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-02-01&g=2019-02-01) zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk de Regeling certificaten warmtekrachtkoppeling voor zover van toepassing tegelijk met de jaarlijkse bepaling van de meterstand zoals bedoeld in [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2019-02-01&g=2019-02-01), waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
+Indien een aangeslotene met een aansluiting kleiner dan of gelijk aan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichting(en) bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2019-05-16&g=2019-05-16) zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk de Regeling certificaten warmtekrachtkoppeling voor zover van toepassing tegelijk met de jaarlijkse bepaling van de meterstand zoals bedoeld in [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2019-05-16&g=2019-05-16), waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
 
 ##### 5.2.5
 
-De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
+De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
 
 ##### 5.2.6
 
-Indien de meetverantwoordelijke redelijkerwijs niet in staat is de tellerstand van de meetinrichting uit of af te lezen of de aangeslotene niet heeft voldaan aan het verlangen van de meetverantwoordelijke, zoals beschreven in [5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.5&z=2019-02-01&g=2019-02-01), maakt de meetverantwoordelijke een schatting van de tellerstand(en).
+Indien de meetverantwoordelijke redelijkerwijs niet in staat is de tellerstand van de meetinrichting uit of af te lezen of de aangeslotene niet heeft voldaan aan het verlangen van de meetverantwoordelijke, zoals beschreven in [5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.5&z=2019-05-16&g=2019-05-16), maakt de meetverantwoordelijke een schatting van de tellerstand(en).
 
 ##### 5.2.7
 
-Ten minste eenmaal in de 36 maanden bepaalt de meetverantwoordelijke de meetgegevens genoemd in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) door aflezing op de meetinrichting bij de aangeslotene en slaat deze op in niet-vluchtige databuffers.
+Ten minste eenmaal in de 36 maanden bepaalt de meetverantwoordelijke de meetgegevens genoemd in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) door aflezing op de meetinrichting bij de aangeslotene en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.8
 
-Kennisneming van de in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.2.9
 
-De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.2.10
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-02-01&g=2019-02-01) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-02-01&g=2019-02-01) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2019-05-16&g=2019-05-16) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2019-05-16&g=2019-05-16) gedurende een periode van drie jaar.
 
 #### 5.3. Meetgegevensverzameling bij telemetriegrootverbruikmeetinrichtingen
 
 ##### 5.3.1
 
-De meetverantwoordelijke verzamelt de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-02-01&g=2019-02-01) genoemde meetgegevens op elektronische wijze op een zodanige wijze dat de resolutie van de meetgegevens daardoor niet wordt beïnvloed en slaat deze op in niet-vluchtige databuffers.
+De meetverantwoordelijke verzamelt de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-05-16&g=2019-05-16) genoemde meetgegevens op elektronische wijze op een zodanige wijze dat de resolutie van de meetgegevens daardoor niet wordt beïnvloed en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.3.2
 
@@ -1040,23 +1040,23 @@ In geval van een aansluiting met een aansluitcapaciteit groter dan 1 MVA, neemt 
 
 ##### 5.3.3
 
-In afwijking van [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01) worden, indien sprake is van overdracht van meetgegevens met behulp van pulsen, de maandelijkse tellerstanden door de meetverantwoordelijke berekend op basis van deze pulsen.
+In afwijking van [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16) worden, indien sprake is van overdracht van meetgegevens met behulp van pulsen, de maandelijkse tellerstanden door de meetverantwoordelijke berekend op basis van deze pulsen.
 
 ##### 5.3.4
 
-Indien [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-02-01&g=2019-02-01) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke en worden de berekende tellerstanden gecorrigeerd op basis van de uit- of afgelezen tellerstanden.
+Indien [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-05-16&g=2019-05-16) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke en worden de berekende tellerstanden gecorrigeerd op basis van de uit- of afgelezen tellerstanden.
 
 ##### 5.3.5
 
-Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-02-01&g=2019-02-01) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-05-16&g=2019-05-16) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.3.6
 
-De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-02-01&g=2019-02-01) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-02-01&g=2019-02-01) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-05-16&g=2019-05-16) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-05-16&g=2019-05-16) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.3.7
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-02-01&g=2019-02-01) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-02-01&g=2019-02-01) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2019-05-16&g=2019-05-16) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2019-05-16&g=2019-05-16) gedurende een periode van drie jaar.
 
 #### 5.4. Storingen in de gegevensverwerking bij telemetriegrootverbruikmeetinrichtingen
 
@@ -1076,7 +1076,7 @@ Een storing in de afstanduitlezing van de databuffers van een telemetriegrootver
 
 Wanneer afstanduitlezing van de databuffers niet mogelijk is, leest de meetverantwoordelijke de databuffers van de telemetriegrootverbruikmeetinrichting ter plaatse uit. Het ter plaatse uitlezen van de databuffers geschiedt binnen twee werkdagen na constatering van desbetreffende storing in de afstanduitlezing, waarbij de meetverantwoordelijke rekening houdt met de opslagcapaciteit van de databuffers. De meetverantwoordelijke verstrekt de gevalideerde meetgegevens conform [6.2.2.3 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.2.2.3) aan de netbeheerder.
 
-#### 5.4.3. Reparatie en schatting van meetgegevens bij telemetriegrootverbruikmeetinrichtingen
+#### 5.4.2. Verplichtingen van de meetverantwoordelijke bij het op afstand uitlezen van telemetriegrootverbruikmeetinrichtingen
 
 ##### 5.4.3.1
 
@@ -1096,15 +1096,15 @@ Reparatie van meetgegevens over perioden langer dan een dag zal bij meetinrichti
 
 ##### 5.4.3.5
 
-De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2019-02-01&g=2019-02-01) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
+De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2019-05-16&g=2019-05-16) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
 
 ##### 5.4.3.6
 
-Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder punt [5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.5&z=2019-02-01&g=2019-02-01) genoemde reparaties.
+Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder punt [5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.5&z=2019-05-16&g=2019-05-16) genoemde reparaties.
 
 ##### 5.4.3.7
 
-Indien bij de in [5.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.2&artikel=5.4.2.2&z=2019-02-01&g=2019-02-01) bedoelde uitlezing ter plaatse van de databuffer geen meetgegevens beschikbaar komen, dient de meetverantwoordelijke de meetgegevens te schatten overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=5&z=2019-02-01&g=2019-02-01). De geschatte meetgegevens worden tijdig overeenkomstig [paragraaf 6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2) aangeboden aan de netbeheerder.
+Indien bij de in [5.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.2&artikel=5.4.2.2&z=2019-05-16&g=2019-05-16) bedoelde uitlezing ter plaatse van de databuffer geen meetgegevens beschikbaar komen, dient de meetverantwoordelijke de meetgegevens te schatten overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=5&z=2019-05-16&g=2019-05-16). De geschatte meetgegevens worden tijdig overeenkomstig [paragraaf 6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2) aangeboden aan de netbeheerder.
 
 #### 5.5. Afhandeling van herzieningsverzoeken van netbeheerders
 
@@ -1114,7 +1114,7 @@ De meetverantwoordelijke handelt een conform [6.3.2.2](https://wetten.overheid.n
 
 ### 6. Bijzondere bepalingen
 
-#### 6.1. Verwisseling of wijziging van het deel van de meetinrichting bij de aansluiting
+#### 5.5. Afhandeling van herzieningsverzoeken van netbeheerders
 
 ##### 6.1.1
 
@@ -1186,11 +1186,11 @@ Indien er zich situaties voordoen die niet zijn voorzien in de bepalingen van de
 
 ##### 6.3.1
 
-De netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande meetinrichting die voor de inwerkingtreding van deze code is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld en als het wijzigen van het secundaire gedeelte van de meetinrichting teneinde aan de eisen genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-02-01&g=2019-02-01) te voldoen alleen economisch zinvol of technisch mogelijk is in combinatie met de aanpassing van het primaire deel van de meetinrichting, dient het secundaire gedeelte uiterlijk tegelijk met het primaire gedeelte te worden aangepast.
+De netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande meetinrichting die voor de inwerkingtreding van deze code is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld en als het wijzigen van het secundaire gedeelte van de meetinrichting teneinde aan de eisen genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2019-05-16&g=2019-05-16) te voldoen alleen economisch zinvol of technisch mogelijk is in combinatie met de aanpassing van het primaire deel van de meetinrichting, dient het secundaire gedeelte uiterlijk tegelijk met het primaire gedeelte te worden aangepast.
 
 ##### 6.3.2
 
-In afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-02-01&g=2019-02-01) is een meetperiode van 30 minuten toegestaan indien de meetinrichting geplaatst is tussen 12 april 2000 en 1 maart 2004 bij een aansluiting met een gecontracteerd transportvermogen van 0,1 tot 1 MW. In dit geval herleidt de meetverantwoordelijke de meetgegevens zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01) naar 15 minutenwaarden door voor elke betreffende aangeslotene per meetperiode van 30 minuten de 15 minutenwaarden voor de twee 15 minutenperioden binnen die 30 minuten uit te rekenen door te delen door 2.
+In afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2019-05-16&g=2019-05-16) is een meetperiode van 30 minuten toegestaan indien de meetinrichting geplaatst is tussen 12 april 2000 en 1 maart 2004 bij een aansluiting met een gecontracteerd transportvermogen van 0,1 tot 1 MW. In dit geval herleidt de meetverantwoordelijke de meetgegevens zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16) naar 15 minutenwaarden door voor elke betreffende aangeslotene per meetperiode van 30 minuten de 15 minutenwaarden voor de twee 15 minutenperioden binnen die 30 minuten uit te rekenen door te delen door 2.
 
 ##### 6.3.3
 
@@ -1500,6 +1500,8 @@ Hierin is:
 
 Voor de begrippen "te meten energie" c.q. "te meten vermogen" wordt uitgegaan van de internationaal aanvaarde fysische definities voor de grootheden elektrische energie (W) en elektrisch vermogen (P), vastgelegd door de volgende formules:
 
+Voor de begrippen "te meten energie" c.q. "te meten vermogen" wordt uitgegaan van de internationaal aanvaarde fysische definities voor de grootheden elektrische energie (W) en elektrisch vermogen (P), vastgelegd door de volgende formules:
+
 Hierin is:
 
 u de momentane waarde van de wisselspanning
@@ -1512,13 +1514,13 @@ t2 het einde van de periode gedurende welke de elektrische energie wordt gemeten
 
 T de periodetijd van de wisselspanning en stroom
 
-Na splitsing van spanning en stroom in het frequentiedomein door middel van Fourieranalyse (waardoor deze grootheden worden ontbonden in harmonische componenten), kan voor P worden geschreven:
-
 ### Blindenergie en blindvermogen
+
+met n = het ranggetal van de te onderscheiden harmonische componenten.
 
 In het geval het gemiddelde vermogen over een bepaalde periode lopende van de tijdstippen τ1 tot τ 2 dient te worden gemeten (waarbij τ2 – τ1 bijvoorbeeld 15 minuten is), dan geldt hiervoor:
 
-Hierin is:
+Met betrekking tot de te hanteren definities van de begrip blindenergie en -vermogen geldt het volgende. Het blindvermogen (Q) wordt in het algemene geval van een niet-sinusvormige wisselspanning en -stroom met een periodetijd T gedefinieerd als:
 
 Met betrekking tot de te hanteren definities van de begrip blindenergie en -vermogen geldt het volgende. Het blindvermogen (Q) wordt in het algemene geval van een niet-sinusvormige wisselspanning en -stroom met een periodetijd T gedefinieerd als:
 
@@ -1554,19 +1556,17 @@ de aangeslotene levert energie aan het elektriciteitsnet, waarbij de grondharmon
 
 blindenergie leveren door aangeslotene:
 
-de aangeslotene ontvangt energie vanuit het elektriciteitsnet, waarbij de grondharmonische in de stroom voorijlt op de grondharmonische in de spanning
-
 ### Bepaling van volumes voor blindenergie
+
+de aangeslotene levert energie aan het elektriciteitsnet, waarbij de grondharmonische in de stroom naijlt op de grondharmonische in de spanning.
 
 In bovenstaand figuur is uitgegaan van het gezichtspunt van de aangeslotene. Dus Pontvangen is het door de aangeslotene ontvangen werkzame vermogen
 
-De grenzen aan de per maand toegestane kosteloos met het net uit te wisselen blindenergie worden bepaald op basis van de toegestane arbeidsfactor en de in deze maand vanuit het net ontvangen en/of aan het net geleverde energie.
+Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met in achtneming van de volgende voorwaarden:
 
 Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met in achtneming van de volgende voorwaarden:
 
 De grenzen aan de per maand toegestane kosteloos met het net uit te wisselen blindenergie worden bepaald op basis van de toegestane arbeidsfactor en de in deze maand vanuit het net ontvangen en/of aan het net geleverde energie.
-
-De blindenergie die kosteloos van het net kan worden afgenomen tijdens het ontvangen van werkzame energie uit het net en de blindenergie die kosteloos van het net kan worden afgenomen tijdens het leveren van werkzame energie aan het net worden opgeteld.
 
 ## Bijlage 3. Voorschrift voor het ontwerpen, installeren en controleren van comptabele meetinrichtingen voor elektrische energie en blindenergie
 
@@ -1577,6 +1577,8 @@ De blindenergie die kosteloos van het net kan worden afgenomen tijdens het ontva
 B3.1.1.1
 
 Voor meetinrichtingen aangesloten op hoogspanningsniveau geldt: Het nominale meetvermogen van een meetinrichting is het schijnbaar vermogen te berekenen uit de nominale primaire spanning van de spanningstransformatoren en de nominale primaire stroom van de stroomtransformatoren. Voor spanningstransformatoren in Yy0-schakeling geldt:
+
+B3.1.1.1
 
 B3.1.1.1
 
@@ -1594,25 +1596,25 @@ Deze definities gelden onder de volgende voorwaarden:
 
 Indien in andere gevallen dan onder b aangegeven stroomtransformatoren zijn toegepast die tot meer dan 120% van hun nominale stroom voldoen aan de eisen van de norm genoemd in B3.2.1.1 sub d, wordt het nominale meetvermogen berekend op basis van de maximale stroom van deze stroomtransformatoren minus 20%.
 
-B3.1.1.3
-
 ### B3.2. Het ontwerpen en installeren van meetinrichtingen voor elektrische energie en blindenergie
 
 ### B3.2.1. Normen
 
-B3.2.1.1
+B3.1.1.4 De betekenis van de in B3.1.1.1 tot en met B3.1.1.3 gebruikte symbolen is:
 
 De volgende normen zijn van toepassing op het ontwerpen en het installeren van meetinrichtingen:
 
 B3.2.1.1
 
-De volgende normen zijn van toepassing op het ontwerpen en het installeren van meetinrichtingen:
+B3.2.1.1
 
 ### B3.2.2. De plaats van de meetinrichting
 
+B3.2.1.2
+
 Met de in artikel B3.2.1.1 bedoelde meetinrichting wordt gelijkgesteld een meetinrichting, die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of Turkije dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoet aan eisen die ten minste gelijkwaardig zijn aan de normen en wettelijke regelingen als genoemd in artikel B3.2.1.1.
 
-In het geval van een aansluiting op hoogspanningsniveau wordt de plaats van de meetinrichting in overleg tussen de aangeslotene en de netbeheerder bepaald.
+B3.2.2.1
 
 B3.2.2.1
 
@@ -1636,13 +1638,13 @@ Indien de situatie bedoeld in B3.2.2.4 zich voordoet en de koper- en ijzerverlie
 
 B3.2.2.6
 
-Indien van het gestelde in B3.2.2.2 wordt afgeweken bij aansluitingen op hoogspanningsniveau met meer dan één distributietransformator door de meetinrichting te installeren aan de secundaire zijde van de distributietransformatoren en indien er stroomsommatie van de meetstromen plaats vindt, dan gelden de bepalingen B3.2.5.20 tot en met B3.2.5.22.
-
 ### B3.2.3. Typekeuring van meetmiddelen
+
+B3.2.2.7
 
 Bij aansluitingen op laagspanningsniveau is het punt waarin de verbindingen tot stand zijn gebracht met de spanningscircuits van de comptabele kWh-meter per definitie het overdrachtspunt tussen het openbare elektriciteitsnet en de installatie van de aangeslotene.
 
-De meetmiddelen voldoen aan de typekeuringseisen vermeld in de in B3.2.1.1 genoemde normen voor zover deze van toepassing zijn.
+B3.2.3.1
 
 B3.2.3.1
 
@@ -1650,13 +1652,13 @@ De meetmiddelen voldoen aan de typekeuringseisen vermeld in de in B3.2.1.1 genoe
 
 B3.2.3.2
 
-Het voldoen aan de in B3.2.3.1 genoemde typekeuringseisen blijkt voor meetmiddelen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen, uit een rapport uitgebracht door een door de Raad voor Accreditatie geaccrediteerde instantie of door een gelijkwaardige buitenlandse accreditatie-instelling die is geaccrediteerd op basis van de norm NEN-EN-ISO/IEC 17025:2005 “Algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria”.
-
 ### B3.2.4. Spanningsmeetcircuits
+
+B3.2.3.3
 
 De kWh-meters die onder het regiem van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen, zijn qua model wettelijk toegelaten.
 
-De nominale primaire spanning van spanningstransformatoren (Usp- pr,nom) waarvan de primaire wikkelingen in ster zijn geschakeld, ligt tussen 52% en 63,5% van de nominale waarde die door de netbeheerder aan de lijnspanning van het net is toegekend (Unom.-verkl.). In formule:
+B3.2.4.1
 
 B3.2.4.1
 
@@ -1736,13 +1738,13 @@ De spanningsmeetcircuits van meetinrichtingen aangesloten op laagspanningsniveau
 
 B3.2.4.20
 
-In afwijking van B3.2.4.19 mogen de spanningsmeetcircuits van bestaande meetinrichtingen die via stroomtransformatoren zijn aangesloten op laagspanningsniveau beveiligd zijn met 6A smeltveiligheden.
-
 ### B3.2.5. Stroommeetcircuits
+
+B3.2.4.21
 
 Indien een spanningstransformator meer dan één overzetting heeft, is elke secundaire aftakking van die transformator op een goed bereikbaar klemmenbord aangesloten.
 
-De nominale primaire stroomsterkte van stroomtransformatoren in meetinrichtingen aangesloten op hoogspanningsniveau bedraagt ten minste 100% en ten hoogste 150% van de stroomsterkte af te leiden uit het gecontracteerd vermogen onder de voorwaarden genoemd in B3.2.5.2.
+B3.2.5.1
 
 B3.2.5.1
 
@@ -1826,13 +1828,13 @@ Bij aansluitingen via meer dan één distributietransformator waarbij de meetinr
 
 B3.2.5.21
 
-De nauwkeurigheidsklasse van de sommeerstroomtransformatoren is in het geval genoemd in B3.2.5.20 ten minste gelijk aan de in tabel B genoemde nauwkeurigheidsklasse van stroomtransformatoren toegepast in dezelfde meetinrichting.
-
 ### B3.2.6. De nauwkeurigheid van de meetinrichting
+
+B3.2.5.22
 
 De maximaal toelaatbare afwijking van de meetinrichting is in het geval genoemd in B3.2.5.20 ten hoogste gelijk aan de maximaal toelaatbare afwijking die volgens deze code maximaal is toegestaan voor de betreffende meetinrichting.
 
-De nauwkeurigheidsklassen als functie van het gecontracteerd vermogen van kWh-meters, kvarh-meters, alsmede van stroom- en spanningstransformatoren in meetinrichtingen bij aansluitingen op hoogspanningsniveau zijn vermeld in tabel B. De nauwkeurigheidsklassen zijn gedefinieerd in de in B3.2.1.1 sub a tot en met e genoemde normen.
+B3.2.6.1
 
 B3.2.6.1
 
@@ -1920,15 +1922,15 @@ Een meetinrichting bij driefasige aansluitingen is uitgevoerd als vierleidermeet
 
 B3.2.6.22
 
-De kWh-meters en in voorkomend geval de kvarh-meters zijn volgens de juiste configuratie aangesloten.
-
 ### B3.3. Controle van meetinrichtingen bij aansluitingen op hoogspanningsniveau
 
 ### B3.3.1. Controle voordat de meetinrichting wordt geïnstalleerd
 
-B3.3.1.1
+Het in B3.2.6.22 bepaalde betekent, dat de meetspanningen en meetstromen qua polariteit en fasevolgorde correct dienen te zijn aangesloten op de spannings- en stroomcircuits van de kWh-meters en in voorkomend geval de kvarh-meters.
 
 Voordat de meetinrichting bij een aansluiting op hoogspanningsniveau wordt geïnstalleerd, verricht de meetverantwoordelijke de controles genoemd in B3.3.1.2 tot en met B3.3.1.7.
+
+B3.3.1.1
 
 B3.3.1.1
 
@@ -1952,13 +1954,13 @@ Een kWh-meter of kvarh-meter die in een nieuwe meetinrichting wordt herplaatst e
 
 B3.3.1.6
 
-De meetverantwoordelijke controleert door middel van de in B3.3.1.2 genoemde kalibratie of de kWh-meters en kvarh-meters die langer dan 5 jaar geleden aan een controle zijn onderworpen, voldoen aan de nauwkeurigheidseisen welke gelden voor de nauwkeurigheidsklassen die op grond van B3.2.6.1 tot en met B3.2.6.4 van toepassing zijn, met dien verstande dat de waarden voor de maximaal toelaatbare afwijking maximaal 1,5 maal de waarden voor de maximaal toelaatbare afwijking mogen bedragen die volgens de normen genoemd in B3.2.1.1 sub a, b en e maximaal toelaatbaar zijn.
-
 ### B3.3.2. Controle nadat de meetinrichting is geïnstalleerd
+
+B3.3.1.7
 
 De meetverantwoordelijke controleert of de data foutloos in de databuffers worden opgeslagen. Indien de databuffers zodanig zijn aangepast dat rechtstreeks de verbruikte energie en in voorkomend geval de blindenergie worden vastgelegd, dan controleert de meetverantwoordelijke of deze aanpassing zodanig is dat de energie en blindenergie juist worden geregistreerd.
 
-Nadat de meetinrichting bij een aansluiting op hoogspanningsniveau is geïnstalleerd, verricht de meetverantwoordelijke binnen één maand de in de B3.3.2.3 tot en met B3.3.2.22 genoemde controles.
+B3.3.2.1
 
 B3.3.2.1
 
@@ -2010,15 +2012,15 @@ Indien de spanningstransformatoren of stroomtransformatoren meer dan één overz
 
 B3.3.2.13
 
-De meetverantwoordelijke controleert of de overzettingen van de spannings- en stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie genoemd in [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-02-01&g=2019-02-01) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
+De meetverantwoordelijke controleert of de overzettingen van de spannings- en stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie genoemd in [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-05-16&g=2019-05-16) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
 
 B3.3.2.14
 
-De meetverantwoordelijke controleert of de meetinrichting overeenkomstig [paragraaf 4.1.2.1 tot en met 4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2019-02-01&g=2019-02-01) van deze code is verzegeld.
+De meetverantwoordelijke controleert of de meetinrichting overeenkomstig [paragraaf 4.1.2.1 tot en met 4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2019-05-16&g=2019-05-16) van deze code is verzegeld.
 
 B3.3.2.15
 
-De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het bepaalde in [4.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.8&z=2019-02-01&g=2019-02-01) en [4.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.2&z=2019-02-01&g=2019-02-01) van deze code.
+De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het bepaalde in [4.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.8&z=2019-05-16&g=2019-05-16) en [4.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.2&z=2019-05-16&g=2019-05-16) van deze code.
 
 B3.3.2.16
 
@@ -2026,7 +2028,7 @@ De meetverantwoordelijke controleert of meettransformatoren zijn geaard overeenk
 
 B3.3.2.17
 
-De meetverantwoordelijke controleert of overeenkomstig B3.3.2.18 tot en met B3.3.2.20 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01) van deze code, foutloos geschiedt.
+De meetverantwoordelijke controleert of overeenkomstig B3.3.2.18 tot en met B3.3.2.20 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16) van deze code, foutloos geschiedt.
 
 B3.3.2.18
 
@@ -2042,13 +2044,13 @@ De overdracht van de data geschiedt foutloos, indien de in B3.3.2.19 genoemde ui
 
 B3.3.2.21
 
-In afwijking van B3.3.2.18 tot en met B3.3.2.20 kan gedurende een aantal opeenvolgende meetperioden een gedoseerde hoeveelheid energie aan de kWh-meters van de meetinrichting worden toegevoerd. De overdracht van data geschiedt dan foutloos indien de afwijking tussen enerzijds de gedoseerde hoeveelheid energie en anderzijds de daarop betrekking hebbende data vastgelegd in het datacollectiepunt niet groter is dan de afwijking welke overeenkomt met de nauwkeurigheid van de meters met inachtneming van de resolutie waarmee de data in de databuffers worden vastgelegd.
-
 ### B3.3.3. Controle van in gebruik zijnde meetinrichtingen
+
+B3.3.2.22
 
 Nadat werkzaamheden aan een meetinrichting zijn verricht, herhaalt de meetverantwoordelijke de in deze paragraaf genoemde controles indien redelijkerwijs kan worden verondersteld, dat de werkzaamheden van invloed zijn geweest op de werking van de meetinrichting.
 
-Bij een in gebruik zijnde meetinrichting bij een aansluiting op hoogspanningsniveau verricht de meetverantwoordelijke een keer per zes jaar de in B3.3.3.2 tot en met B3.3.3.10 genoemde controles.
+B3.3.3.1
 
 B3.3.3.1
 
@@ -2112,15 +2114,15 @@ De meetverantwoordelijke bepaalt in de gevallen genoemd in B3.3.3.13 en B3.3.3.1
 
 B3.3.3.16
 
-Indien de meetverantwoordelijke constateert, dat het verschil in registratie de in B3.3.3.13 of B3.3.3.14 bedoelde waarde overschrijdt, dan verricht de meetverantwoordelijke onverwijld de in B3.3.3.2 tot en met B3.3.3.7 genoemde controles.
-
 ### B3.4. Controle van meetinrichtingen bij aansluitingen op laagspanningsniveau
 
 ### B3.4.1. Controle voordat een meetinrichting wordt geïnstalleerd
 
-B3.4.1.1
+Naast de in deze paragraaf genoemde controles verricht de meetverantwoordelijke de in B3.3.2.4, B3.3.2.5 en B3.3.2.7 tot en met B3.3.2.21 genoemde controles.
 
 Voordat een meetinrichting bij een aansluiting op laagspanningsniveau wordt geïnstalleerd, verricht de meetverantwoordelijke de in B3.4.1.2 tot en met B3.4.1.7 genoemde controles.
+
+B3.4.1.1
 
 B3.4.1.1
 
@@ -2148,13 +2150,13 @@ De meetverantwoordelijke controleert door middel van de in B3.4.1.2 genoemde kal
 
 B3.4.1.7
 
-De meetverantwoordelijke kan de in B3.4.1.2 genoemde controle met betrekking tot de stroomtransformatoren steekproefsgewijs uitvoeren, indien sprake is van grotere aantallen en de fabrikant de kwaliteit van zijn productieproces voldoende beheerst. De steekproef is gebaseerd op de norm ISO 3951 waarbij AQL =1 en Inspection Level = IV.
-
 ### B3.4.2. Controle nadat de meetinrichting is geïnstalleerd
+
+B3.4.1.8
 
 Van in B3.4.1.7 genoemde voldoende beheersing is sprake, indien het productieproces van een fabrikant van stroomtransformatoren ten minste is gecertificeerd op basis van ISO 9001: 2000, tenzij uit de resultaten van de in B3.4.1.7 bedoelde steekproefsgewijze controle blijkt, dat de fabrikant het productieproces onvoldoende beheerst.
 
-Nadat de meetinrichting bij een aansluiting op laagspanningsniveau is geïnstalleerd, verricht de meetverantwoordelijke binnen één maand de in B3.4.2.3 tot en met B3.4.2.24 genoemde controles.
+B3.4.2.1
 
 B3.4.2.1
 
@@ -2218,7 +2220,7 @@ De meetverantwoordelijke controleert of aan het bepaalde in B3.2.5.11 is voldaan
 
 B3.4.2.16
 
-De meetverantwoordelijke controleert of de overzettingen van de stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie van [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-02-01&g=2019-02-01) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
+De meetverantwoordelijke controleert of de overzettingen van de stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie van [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2019-05-16&g=2019-05-16) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
 
 B3.4.2.17
 
@@ -2230,7 +2232,7 @@ De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het b
 
 B3.4.2.19
 
-De meetverantwoordelijke controleert voor zover van toepassing – of overeenkomstig B3.4.2.20 tot en met B3.4.2.22 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-02-01&g=2019-02-01) van deze code, foutloos geschiedt.
+De meetverantwoordelijke controleert voor zover van toepassing – of overeenkomstig B3.4.2.20 tot en met B3.4.2.22 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2019-05-16&g=2019-05-16) van deze code, foutloos geschiedt.
 
 B3.4.2.20
 
@@ -2246,13 +2248,13 @@ De overdracht van de data geschiedt foutloos, indien de in B3.4.2.21 genoemde ui
 
 B3.4.2.23
 
-In afwijking van B3.4.2.20 tot en met B3.4.2.22 kan gedurende een aantal opeenvolgende meetperioden een gedoseerde hoeveelheid energie aan de kWh-meters van de meetinrichting worden toegevoerd. De overdracht van data geschiedt dan foutloos indien de afwijking tussen enerzijds de gedoseerde hoeveelheid energie en anderzijds de daarop betrekking hebbende data vastgelegd in het datacollectiepunt niet groter is dan de afwijking welke overeenkomt met de nauwkeurigheid van de meters met inachtneming van de resolutie waarmee de data in de databuffers worden vastgelegd.
-
 ### B3.4.3. Controle van in gebruik zijnde meetinrichtingen
+
+B3.4.2.24
 
 Nadat werkzaamheden aan een meetinrichting zijn verricht, herhaalt de meetverantwoordelijke de in deze paragraaf genoemde controles indien redelijkerwijs kan worden verondersteld, dat de werkzaamheden van invloed zijn geweest op de werking van de meetinrichting.
 
-Bij een in gebruik zijnde meetinrichting bij een aansluiting op laagspanningsniveau verricht de meetverantwoordelijke een keer per zes jaar de in B3.4.3.2 tot en met B3.4.3.8 en B3.4.3.11 genoemde controles.
+B3.4.3.1
 
 B3.4.3.1
 
@@ -2292,13 +2294,11 @@ Indien de bedrading is verkleurd, onderzoekt de meetverantwoordelijke of dit ten
 
 B3.4.3.10
 
-In afwijking van het bepaalde in B3.4.3.1, controleert de netbeheerder steeds binnen 72 uur nadat de belasting is gewijzigd, of de belasting in overeenstemming is met het bepaalde in B3.2.6.12 tot en met B3.2.6.14.
-
 ### Tabellen
 
-Naast de in deze paragraaf genoemde controles verricht de meetverantwoordelijke de in B3.4.2.4 en B3.4.2.7 tot en met B3.4.2.23 genoemde controles.
+B3.4.3.11
 
-*) Indien de gemiddelde belasting groter is dan 20% van het nominale meetvermogen.
+Naast de in deze paragraaf genoemde controles verricht de meetverantwoordelijke de in B3.4.2.4 en B3.4.2.7 tot en met B3.4.2.23 genoemde controles.
 
 ## Bijlage 4. Erkenningsregelingen
 
@@ -2312,13 +2312,15 @@ De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers er
 
 B4.1.1.1
 
-De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers erkent voor zowel meterplaatsing van elektriciteitsmeters als meterplaatsing van gasmeters, hierna te noemen: de MP-erkenner.
+B4.1.1.1
 
 ### B4.1.2. Het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen en erkenning als meterplaatser
 
-De erkenning tot meterplaatser is noodzakelijk voor alle personen, behoudens de netbeheerders, die de activiteiten uitvoeren zoals beschreven in [1.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.2&artikel=1.2.2.1&z=2019-02-01&g=2019-02-01).
+B4.1.1.2
 
-De MP-erkenner kan aan een persoon een erkenning als meterplaatser verlenen.
+De erkenning tot meterplaatser is noodzakelijk voor alle personen, behoudens de netbeheerders, die de activiteiten uitvoeren zoals beschreven in [1.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.2&artikel=1.2.2.1&z=2019-05-16&g=2019-05-16).
+
+B4.1.2.1
 
 B4.1.2.1
 
@@ -2358,13 +2360,13 @@ De MP-erkenner kan een voorlopige erkenning verlenen voor de duur van zes maande
 
 B4.1.2.10
 
-Een meterplaatser is verplicht de MP-erkenner binnen tien werkdagen alle wijzigingen van gegevens die voor de erkenning van belang zijn, op te geven, daaronder begrepen het niet meer voldoen aan de in B4.1.2.5 genoemde voorwaarden.
-
 ### B4.1.3. Het MP-register
+
+B4.1.2.11
 
 Een erkenning geldt behoudens tussentijdse intrekking of beëindiging tot het einde van het desbetreffende kalenderjaar en wordt telkenmale voor de duur van een kalenderjaar verlengd, indien de meterplaatser vóór 1 december daaraan voorafgaand aan de MP-erkenner heeft aangetoond nog steeds aan de in artikel B4.1.2.5 genoemde eisen te voldoen.
 
-De MP-erkenner beheert een register, hierna te noemen het MP-register, waarin de namen, adressen, telefoon- en faxnummers alsmede de gegevens ten behoeve van elektronische gegevensuitwisseling zijn vermeld van de in B4.1.2.1 bedoelde personen.
+B4.1.3.1
 
 B4.1.3.1
 
@@ -2380,13 +2382,13 @@ Een meterplaatser heeft het recht het MP-register in te zien en hem betreffende 
 
 B4.1.3.4
 
-Wijzigingen in het MP-register geeft de MP-erkenner onverwijld door aan de netbeheerders en meterplaatsers.
-
 ### B4.1.4. Einde van erkenning als meterplaatser
+
+B4.1.3.5
 
 De MP-erkenner publiceert het MP-register op zijn website.
 
-De MP-erkenner kan de erkenning van een meterplaatser intrekken indien de meterplaatser niet meer aan alle in B4.1.2.5 genoemde erkenningsvoorwaarden voldoet.
+B4.1.4.1
 
 B4.1.4.1
 
@@ -2398,15 +2400,15 @@ Indien de MP-erkenner voornemens is de erkenning in te trekken doet hij de meter
 
 B4.1.4.3
 
-De MP-erkenner maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar op zijn website.
-
 ### B4.2. Erkenningsregeling voor meetverantwoordelijken
 
 ### B4.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
 
-B4.2.1.1
+De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meterplaatser en indien deze heeft opgehouden te bestaan.
 
 Tot het uitoefenen van meetverantwoordelijkheid voor een aansluiting laat de netbeheerder van het landelijk hoogspanningsnet slechts personen toe aan wie hij op de voet van B4.2.1.7 een erkenning als meetverantwoordelijke heeft verleend.
+
+B4.2.1.1
 
 B4.2.1.1
 
@@ -2450,13 +2452,13 @@ De netbeheerder van het landelijk hoogspanningsnet kan een voorlopige erkenning 
 
 B4.2.1.11
 
-Een meetverantwoordelijke is verplicht de netbeheerder van het landelijk hoogspanningsnet binnen tien werkdagen alle wijzigingen van gegevens die voor de erkenning van belang zijn, op te geven, daaronder begrepen vernieuwing of wijziging van de onder B4.2.1.7 bedoelde certificering.
-
 ### B4.2.2. Het MV-register
+
+B4.2.1.12
 
 Een erkenning geldt behoudens tussentijdse intrekking of beëindiging tot het einde van het desbetreffende kalenderjaar en wordt telkenmale voor de duur van een kalenderjaar verlengd, indien de meetverantwoordelijke vóór 1 december daaraan voorafgaand aan de netbeheerder van het landelijk hoogspanningsnet heeft aangetoond nog steeds aan de in B4.2.1.7 genoemde eisen te voldoen.
 
-De netbeheerder van het landelijk hoogspanningsnet beheert een register, hierna te noemen het MV-register, waarin de namen, adressen, telefoon- en faxnummers alsmede de gegevens ten behoeve van elektronische gegevensuitwisseling zijn vermeld van de in B4.2.1.1 bedoelde personen.
+B4.2.2.1
 
 B4.2.2.1
 
@@ -2472,13 +2474,13 @@ Een meetverantwoordelijke heeft het recht het MV-register in te zien en hem betr
 
 B4.2.2.4
 
-Wijzigingen in het MV-register geeft de netbeheerder van het landelijk hoogspanningsnet onverwijld door aan de netbeheerders en meetverantwoordelijken.
-
 ### B4.2.3. Einde van erkenning als meetverantwoordelijke
+
+B4.2.2.5
 
 De netbeheerder van het landelijk hoogspanningsnet publiceert het MV-register op zijn website.
 
-De netbeheerder van het landelijk hoogspanningsnet kan de erkenning van een meetverantwoordelijke intrekken indien de meetverantwoordelijke niet meer aan alle in B4.2.1.7 genoemde erkenningsvoorwaarden voldoet.
+B4.2.3.1
 
 B4.2.3.1
 
@@ -2494,13 +2496,11 @@ De netbeheerder van het landelijk hoogspanningsnet maakt door hem opgelegde intr
 
 B4.2.3.4
 
-De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meetverantwoordelijke en indien deze heeft opgehouden te bestaan.
-
 ### B4.2.4. Geheimhouding
 
-Indien de erkenning van een meetverantwoordelijke wordt ingetrokken, treedt de vangnetregeling, zoals omschreven in 1.3.5, in werking.
+B4.2.3.5
 
-De meetverantwoordelijke verstrekt, behoudens het bepaalde in de [Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934), geen meetgegevens van aangeslotenen aan derden, anders dan met schriftelijke toestemming van de desbetreffende aangeslotene.
+Indien de erkenning van een meetverantwoordelijke wordt ingetrokken, treedt de vangnetregeling, zoals omschreven in 1.3.5, in werking.
 
 ## Bijlage 5. Schatting van meetgegevens
 
@@ -2530,7 +2530,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 2.6.5
 
-Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend), wijst in afwijking van [artikel 2.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.4&z=2019-02-01&g=2019-02-01) de aangeslotene een beheerder aan voor het eventueel aanwezige primaire deel van de meetinrichting, als bedoeld in artikel 2.9, onderdeel g, van de Netcode elektriciteit. De aangeslotene draagt er zorg voor dat deze aangewezen beheerder jegens de meetverantwoordelijke voldoet aan de in [paragraaf 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&z=2019-02-01&g=2019-02-01) van de Meetcode elektriciteit genoemde verplichtingen.
+Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend), wijst in afwijking van [artikel 2.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.4&z=2019-05-16&g=2019-05-16) de aangeslotene een beheerder aan voor het eventueel aanwezige primaire deel van de meetinrichting, als bedoeld in artikel 2.9, onderdeel g, van de Netcode elektriciteit. De aangeslotene draagt er zorg voor dat deze aangewezen beheerder jegens de meetverantwoordelijke voldoet aan de in [paragraaf 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&z=2019-05-16&g=2019-05-16) van de Meetcode elektriciteit genoemde verplichtingen.
 
 ### 3. Uitrol van op afstand uitleesbare kleinverbruikmeetinrichtingen ten behoeve van kleinverbruikaansluitingen
 
@@ -2564,7 +2564,7 @@ Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond va
 
 ##### 4.3.1.4
 
-Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend) zorgt de op grond van [artikel 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.5&z=2019-02-01&g=2019-02-01) aangewezen beheerder ervoor dat de capaciteit, het ontwerp en de aanleg van de meetinrichting ten behoeve van het secundaire allocatiepunt, met inbegrip van het primaire deel van de meetinrichting, in overeenstemming zijn met de doorlaatwaarde van het betreffende allocatiepunt.
+Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend) zorgt de op grond van [artikel 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.5&z=2019-05-16&g=2019-05-16) aangewezen beheerder ervoor dat de capaciteit, het ontwerp en de aanleg van de meetinrichting ten behoeve van het secundaire allocatiepunt, met inbegrip van het primaire deel van de meetinrichting, in overeenstemming zijn met de doorlaatwaarde van het betreffende allocatiepunt.
 
 #### 4.3.2. Eisen aan het primaire deel van de meetinrichting
 
@@ -2866,89 +2866,353 @@ Iwkk = stroomsterkte berekend uit het maximale vermogen van de productie-install
 
 ind. = inductief
 
-## Bijlage 2. Definities van de begrippen energie, vermogen, blindenergie en blindvermogen, waarvan in deze code is uitgegaan
+## Bijlage 1. Maximaal toelaatbare afwijkingen
+
+B1.1
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische energie bij een aansluiting op HS-niveau als functie van het gecontracteerde vermogen.
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 1,5–7,5% Ic | 7,5–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic |
+| Gecontracteerd vermogen | PF=1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,8 cap. | 0,8 cap. | 0,8 cap. |
+| ≥ 2 MW en< 5 MW | 1,25**) | 0,85 | 1,75**) | 1,75 | 1,40 | 1,55**) | 1,55 | 1,25 |
+| ≥ 5 MW | 0,60**) | 0,40 | 1,20**) | 1,20 | 0,95 | 0,85**) | 0,85 | 0,65 |
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 3–7,5% Ic | 7,5–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic |
+| Gecontracteerd vermogen | PF=1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,8 cap. | 0,8 cap. | 0,8 cap. |
+| < 2 MW | 1,95**) | 1,50 |   | 3,25 | 2,45 |   | 2,45 | 1,95 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+PF = arbeidsfactor
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen (Pc) bij nominale netspanning (Unom).
+
+Er geldt: Ic = Pc /(1,73*Unom)
+
+ind. =inductief
+
+cap. = capacitief
+
+B1.2
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische blindenergie bij een aansluiting op HS- niveau als functie van het gecontracteerde vermogen.
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 3–7,5% Ic | 7,5–120% Ic | 7,5–15% Ic | 15–30% Ic | 30–120% Ic | 30–120% Ic |
+| Gecontracteerd vermogen | sin ϕ = 1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,25 ind. |
+| < 2 MW | 3,30**) | 2,90 |   | 4,25 | 4,00 | 8,90 |
+| ≥ 2 MW | 3,25**) | 2,85 | 4,05 | 3,70 | 3,70 | 8,25 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen (Pc) bij nominale netspanning (Unom).
+
+Er geldt: Ic = Pc /(1,73*Unom)
+
+ind. = inductief
+
+B1.3
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische energie geleverd door een productie- installatie bij een aansluiting op HS-niveau als functie van het maximale vermogen van de productie-installatie.
+
+| Maximaal vermogen van de productie-installatie | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- |
+| Maximaal vermogen van de productie-installatie | 10–120% Iwkk | 20–120% Iwkk |
+| Maximaal vermogen van de productie-installatie | PF = 1 | 0,5 ind. |
+| < 2MW | 2,70 | 4,70 |
+| ≥ 2 MW en < 5 MW | 2,00 | 4,35 |
+| ≥ 5 MW | 1,80 | 3,30 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+PF = arbeidsfactor
+
+Iwkk = stroomsterkte berekend uit het maximale vermogen van de productie-installatie (Pwkk,max) bij nominale netspanning (Unom). Er geldt: Iwkk = Pwkk,max/(1,73*Unom)
+
+ind. = inductief
+
+B1.4
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische energie bij een aansluiting op LS-niveau via stroomtransformatoren.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- |
+| 1,5–7,5% Ic | 7,5–120% Ic | 7,5–15% Ic | 15–120% Ic |
+| PF=1 | 1 | 0,5 ind. | 0,5 ind. |
+| 3,30**) | 2,90 | 5,25 | 4,30 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+PF = arbeidsfactor
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen (Pc) in het betreffende leverpunt bij nominale netspanning (Unom). Er geldt: Ic= Pc /(1,73*Unom)
+
+Ind. = inductief
+
+B1.5
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische energie bij een aansluiting op LS- niveau, bij een direct aangesloten kWh-meter die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) valt.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- |
+| 1–5% Ib | 5% Ib–Imax | 5–10% Ib | 10% Ib–Imax |
+| PF=1 | 1 | 0,5 ind. | 0,5 ind. |
+| 2,5*) | 2,0 | 2,5 | 2,0 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde afgenomen stroom kleiner is dan 20% van de basisstroom Ib.
+
+PF = arbeidsfactor
+
+Ib = de basisstroom van de kWh-meter, zoals die door de fabrikant op de meter is vermeld
+
+Imax = de maximale stroom van de kWh-meter, zoals die door de fabrikant op de meter is vermeld
+
+ind. = inductief
+
+B1.6
+
+Maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting voor elektrische energie geleverd door een productie- installatie bij een aansluiting op LS-niveau.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- |
+| 10–120% Iwkk | 20–120% Iwkk |
+| PF = 1 | 0,5 ind. |
+| 3,15 | 6,55 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+PF = arbeidsfactor
+
+Iwkk = stroomsterkte berekend uit het maximale vermogen van de productie-installatie (Pwkk,max) bij nominale netspanning (Unom). Er geldt: Iwkk=Pwkk,max/(1,73*Unom)
+
+ind. = inductief
+
+B1.7
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische energie bij een aansluiting op HS-niveau als functie van het gecontracteerde vermogen.
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 1,5–7,5% Ic | 7,5–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic |
+| Gecontracteerd vermogen | PF=1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,8 cap. | 0,8 cap. | 0,8 cap. |
+| ≥2MW en< 5MW | 2,15**) | 1,20 | 2,45**) | 2,45 | 1,75 | 2,30**) | 2,30 | 1,60 |
+| ≥ 5 MW | 0,90**) | 0,55 | 1,50**) | 1,50 | 1,05 | 1,20**) | 1,20 | 0,85 |
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 3–7,5% Ic | 7,5–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic | 3–7,5% Ic | 7,5–15% Ic | 15–120% Ic |
+| Gecontracteerd vermogen | PF=1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,8 cap. | 0,8 cap. | 0,8 cap. |
+| < 2 MW | 3,25**) | 2,30 |   | 4,15 | 3,00 |   | 3,55 | 2,60 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+PF = arbeidsfactor
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen(Pc) bij nominale netspanning (Unom).
+
+Er geldt: Ic = Pc /(1,73*Unom)
+
+ind. = inductief
+
+cap. = capacitief
+
+B1.8
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische blindenergie bij een aansluiting op HS-niveau als functie van het gecontracteerde vermogen.
+
+| Gecontracteerd vermogen | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en waarden van sin ϕ |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gecontracteerd vermogen | 3–7,5% Ic | 7,5–120% Ic | 7,5–15% Ic | 15–30% Ic | 30–120% Ic | 30–120% Ic |
+| Gecontracteerd vermogen | sin ϕ = 1 | 1 | 0,5 ind. | 0,5 ind. | 0,5 ind. | 0,25 ind. |
+| < 2 MW | 5,45**) | 4,50 |   | 6,10 | 5,30 | 15,05 |
+| ≥ 2 MW | 5,40**) | 4,50 | 5,90 | 5,05 | 5,05 | 14,65 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen (Pc) bij nominale netspanning (Unom).
+
+Er geldt: Ic= Pc /(1,73*Unom)
+
+ind. = inductief
+
+B1.9
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische energie geleverd door een productie-installatie bij een aansluiting op HS-niveau als functie van het maximale vermogen van de productie- installatie.
+
+| Maximale vermogen van de productie-installatie | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- |
+| Maximale vermogen van de productie-installatie | 10–120% Iwkk | 20–120% Iwkk |
+| Maximale vermogen van de productie-installatie | PF = 1 | 0,5 ind. |
+| < 2MW | 4,35 | 5,85 |
+| ≥ 2 MW en < 5 MW | 2,65 | 4,70 |
+| ≥ 5 MW | 2,50 | 3,75 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+PF = arbeidsfactor
+
+Iwkk= stroomsterkte berekend uit het maximale vermogen van de productie-installatie (Pwkk,max) bij nominale netspanning (Unom). Er geldt: Iwkk=Pwkk,max/(1,73*Unom)
+
+ind. = inductief
+
+B1.10
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische energie bij een aansluiting op LS-niveau via stroomtransformatoren.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- |
+| 1,5–7,5% Ic | 7,5–120% Ic | 7,5–15% Ic | 15–120% Ic |
+| PF=1 | 1 | 0,5 ind. | 0,5 ind. |
+| 5,45**) | 4,50 | 6,80 | 5,55 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde belasting kleiner is dan 30% van het gecontracteerde vermogen.
+
+PF = arbeidsfactor
+
+Ic = stroomsterkte berekend uit het gecontracteerde vermogen (Pc) in het betreffende leverpunt bij nominale netspanning (Unom). Er geldt: Ic= Pc /(1,73*Unom)
+
+ind. = inductief
+
+B1.11
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische energie bij een aansluiting op LS-niveau, bij een direct aangesloten kWh-meter die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) valt.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- | --- | --- |
+| 1–5% Ib | 5% Ib–Imax | 5–10% Ib | 10% Ib–Imax |
+| PF=1 | 1 | 0,5 ind. | 0,5 ind. |
+| 5,0**) | 4,0 | 5,0 | 4,0 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+**) Geldt alleen als de gemiddelde afgenomen stroom kleiner is dan 20% van de basisstroom Ib.
+
+PF = arbeidsfactor
+
+Ib = de basisstroom van de kWh-meter, zoals die door de fabrikant op de meter is vermeld
+
+Imax= de maximale stroom van de kWh-meter, zoals die door de fabrikant op de meter is vermeld
+
+ind. = inductief
+
+B1.12
+
+Maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting voor elektrische energie geleverd door een productie-installatie bij een aansluiting op LS-niveau.
+
+| Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren | Maximaal toelaatbare afwijking (in %) bij de volgende stromen en arbeidsfactoren |
+| --- | --- |
+| 10 – 120% Iwkk | 20 – 120% Iwkk |
+| PF = 1 | 0,5 ind. |
+| 4,70 | 7,40 |
+
+*) De 99%-betrouwbaarheidsgrenzen (±) zijn vermeld.
+
+PF = arbeidsfactor
+
+Iwkk = stroomsterkte berekend uit het maximale vermogen van de productie-installatie (Pwkk,max) bij nominale netspanning (Unom). Er geldt: Iwkk=Pwkk,max/(1,73*Unom)
+
+ind. = inductief
 
 ### Energie en vermogen
 
-met n = het ranggetal van de te onderscheiden harmonische componenten.
+Na splitsing van spanning en stroom in het frequentiedomein door middel van Fourieranalyse (waardoor deze grootheden worden ontbonden in harmonische componenten), kan voor P worden geschreven:
 
 ### Blindenergie en blindvermogen
 
-de aangeslotene levert energie aan het elektriciteitsnet, waarbij de grondharmonische in de stroom naijlt op de grondharmonische in de spanning.
+de aangeslotene ontvangt energie vanuit het elektriciteitsnet, waarbij de grondharmonische in de stroom voorijlt op de grondharmonische in de spanning
 
 ### Bepaling van volumes voor blindenergie
 
-Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager heeft slechts betrekking op de overschrijding van de hierboven bepaalde grenzen van de afname van blindenergie per maand.
+De blindenergie die kosteloos van het net kan worden afgenomen tijdens het ontvangen van werkzame energie uit het net en de blindenergie die kosteloos van het net kan worden afgenomen tijdens het leveren van werkzame energie aan het net worden opgeteld.
 
-De methodiek zoals door netbeheerders wordt gehanteerd bij vaststelling van de in rekening te brengen hoeveelheid, door aangeslotenen met het net uitgewisselde blindenergie, volgt de volgende stappen:
+Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager heeft slechts betrekking op de overschrijding van de hierboven bepaalde grenzen van de afname van blindenergie per maand.
 
 ## Bijlage 3. Voorschrift voor het ontwerpen, installeren en controleren van comptabele meetinrichtingen voor elektrische energie en blindenergie
 
 ### B3.1. Algemene bepalingen
 
-### B3.1.1. Definities
+### B3.1. Algemene bepalingen
+
+B3.1.1.3
 
 Voor meetinrichtingen aangesloten op laagspanningsniveau, niet via stroomtransformatoren geldt:
 
-B3.1.1.4 De betekenis van de in B3.1.1.1 tot en met B3.1.1.3 gebruikte symbolen is:
+### B3.2. Het ontwerpen en installeren van meetinrichtingen voor elektrische energie en blindenergie
 
 ### B3.2. Het ontwerpen en installeren van meetinrichtingen voor elektrische energie en blindenergie
 
-### B3.2.1. Normen
-
-B3.2.1.2
+De volgende normen zijn van toepassing op het ontwerpen en het installeren van meetinrichtingen:
 
 ### B3.2.2. De plaats van de meetinrichting
 
-B3.2.2.7
+Indien van het gestelde in B3.2.2.2 wordt afgeweken bij aansluitingen op hoogspanningsniveau met meer dan één distributietransformator door de meetinrichting te installeren aan de secundaire zijde van de distributietransformatoren en indien er stroomsommatie van de meetstromen plaats vindt, dan gelden de bepalingen B3.2.5.20 tot en met B3.2.5.22.
 
 ### B3.2.3. Typekeuring van meetmiddelen
 
-B3.2.3.3
+Het voldoen aan de in B3.2.3.1 genoemde typekeuringseisen blijkt voor meetmiddelen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen, uit een rapport uitgebracht door een door de Raad voor Accreditatie geaccrediteerde instantie of door een gelijkwaardige buitenlandse accreditatie-instelling die is geaccrediteerd op basis van de norm NEN-EN-ISO/IEC 17025:2005 “Algemene eisen voor de bekwaamheid van beproevings- en kalibratielaboratoria”.
 
 ### B3.2.4. Spanningsmeetcircuits
 
-B3.2.4.21
+In afwijking van B3.2.4.19 mogen de spanningsmeetcircuits van bestaande meetinrichtingen die via stroomtransformatoren zijn aangesloten op laagspanningsniveau beveiligd zijn met 6A smeltveiligheden.
 
 ### B3.2.5. Stroommeetcircuits
 
-B3.2.5.22
+De nauwkeurigheidsklasse van de sommeerstroomtransformatoren is in het geval genoemd in B3.2.5.20 ten minste gelijk aan de in tabel B genoemde nauwkeurigheidsklasse van stroomtransformatoren toegepast in dezelfde meetinrichting.
 
 ### B3.2.6. De nauwkeurigheid van de meetinrichting
 
-B3.2.6.23
+De kWh-meters en in voorkomend geval de kvarh-meters zijn volgens de juiste configuratie aangesloten.
 
-Het in B3.2.6.22 bepaalde betekent, dat de meetspanningen en meetstromen qua polariteit en fasevolgorde correct dienen te zijn aangesloten op de spannings- en stroomcircuits van de kWh-meters en in voorkomend geval de kvarh-meters.
+B3.2.6.23
 
 ### B3.3. Controle van meetinrichtingen bij aansluitingen op hoogspanningsniveau
 
-### B3.3.1. Controle voordat de meetinrichting wordt geïnstalleerd
+### B3.3. Controle van meetinrichtingen bij aansluitingen op hoogspanningsniveau
 
-B3.3.1.7
+De meetverantwoordelijke controleert door middel van de in B3.3.1.2 genoemde kalibratie of de kWh-meters en kvarh-meters die langer dan 5 jaar geleden aan een controle zijn onderworpen, voldoen aan de nauwkeurigheidseisen welke gelden voor de nauwkeurigheidsklassen die op grond van B3.2.6.1 tot en met B3.2.6.4 van toepassing zijn, met dien verstande dat de waarden voor de maximaal toelaatbare afwijking maximaal 1,5 maal de waarden voor de maximaal toelaatbare afwijking mogen bedragen die volgens de normen genoemd in B3.2.1.1 sub a, b en e maximaal toelaatbaar zijn.
 
 ### B3.3.2. Controle nadat de meetinrichting is geïnstalleerd
 
-B3.3.2.22
+In afwijking van B3.3.2.18 tot en met B3.3.2.20 kan gedurende een aantal opeenvolgende meetperioden een gedoseerde hoeveelheid energie aan de kWh-meters van de meetinrichting worden toegevoerd. De overdracht van data geschiedt dan foutloos indien de afwijking tussen enerzijds de gedoseerde hoeveelheid energie en anderzijds de daarop betrekking hebbende data vastgelegd in het datacollectiepunt niet groter is dan de afwijking welke overeenkomt met de nauwkeurigheid van de meters met inachtneming van de resolutie waarmee de data in de databuffers worden vastgelegd.
 
 ### B3.3.3. Controle van in gebruik zijnde meetinrichtingen
 
-B3.3.3.17
+Indien de meetverantwoordelijke constateert, dat het verschil in registratie de in B3.3.3.13 of B3.3.3.14 bedoelde waarde overschrijdt, dan verricht de meetverantwoordelijke onverwijld de in B3.3.3.2 tot en met B3.3.3.7 genoemde controles.
 
-Naast de in deze paragraaf genoemde controles verricht de meetverantwoordelijke de in B3.3.2.4, B3.3.2.5 en B3.3.2.7 tot en met B3.3.2.21 genoemde controles.
+B3.3.3.17
 
 ### B3.4. Controle van meetinrichtingen bij aansluitingen op laagspanningsniveau
 
-### B3.4.1. Controle voordat een meetinrichting wordt geïnstalleerd
+### B3.4. Controle van meetinrichtingen bij aansluitingen op laagspanningsniveau
 
-B3.4.1.8
+De meetverantwoordelijke kan de in B3.4.1.2 genoemde controle met betrekking tot de stroomtransformatoren steekproefsgewijs uitvoeren, indien sprake is van grotere aantallen en de fabrikant de kwaliteit van zijn productieproces voldoende beheerst. De steekproef is gebaseerd op de norm ISO 3951 waarbij AQL =1 en Inspection Level = IV.
 
 ### B3.4.2. Controle nadat de meetinrichting is geïnstalleerd
 
-B3.4.2.24
+In afwijking van B3.4.2.20 tot en met B3.4.2.22 kan gedurende een aantal opeenvolgende meetperioden een gedoseerde hoeveelheid energie aan de kWh-meters van de meetinrichting worden toegevoerd. De overdracht van data geschiedt dan foutloos indien de afwijking tussen enerzijds de gedoseerde hoeveelheid energie en anderzijds de daarop betrekking hebbende data vastgelegd in het datacollectiepunt niet groter is dan de afwijking welke overeenkomt met de nauwkeurigheid van de meters met inachtneming van de resolutie waarmee de data in de databuffers worden vastgelegd.
 
 ### B3.4.3. Controle van in gebruik zijnde meetinrichtingen
 
-B3.4.3.11
+In afwijking van het bepaalde in B3.4.3.1, controleert de netbeheerder steeds binnen 72 uur nadat de belasting is gewijzigd, of de belasting in overeenstemming is met het bepaalde in B3.2.6.12 tot en met B3.2.6.14.
 
 ### Tabellen
 
@@ -2960,41 +3224,209 @@ B3.4.3.11
 
 ### B4.1. Erkenningsregeling voor meterplaatsers
 
-### B4.1.1. Algemeen
+### B4.1. Erkenningsregeling voor meterplaatsers
 
-B4.1.1.2
+De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers erkent voor zowel meterplaatsing van elektriciteitsmeters als meterplaatsing van gasmeters, hierna te noemen: de MP-erkenner.
 
 ### B4.1.2. Het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen en erkenning als meterplaatser
 
-B4.1.2.11
+Een meterplaatser is verplicht de MP-erkenner binnen tien werkdagen alle wijzigingen van gegevens die voor de erkenning van belang zijn, op te geven, daaronder begrepen het niet meer voldoen aan de in B4.1.2.5 genoemde voorwaarden.
 
 ### B4.1.3. Het MP-register
 
-B4.1.3.5
+Wijzigingen in het MP-register geeft de MP-erkenner onverwijld door aan de netbeheerders en meterplaatsers.
 
 ### B4.1.4. Einde van erkenning als meterplaatser
 
-B4.1.4.4
+De MP-erkenner maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar op zijn website.
 
-De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meterplaatser en indien deze heeft opgehouden te bestaan.
+B4.1.4.4
 
 ### B4.2. Erkenningsregeling voor meetverantwoordelijken
 
-### B4.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
+### B4.2. Erkenningsregeling voor meetverantwoordelijken
 
-B4.2.1.12
+Een meetverantwoordelijke is verplicht de netbeheerder van het landelijk hoogspanningsnet binnen tien werkdagen alle wijzigingen van gegevens die voor de erkenning van belang zijn, op te geven, daaronder begrepen vernieuwing of wijziging van de onder B4.2.1.7 bedoelde certificering.
 
 ### B4.2.2. Het MV-register
 
-B4.2.2.5
+Wijzigingen in het MV-register geeft de netbeheerder van het landelijk hoogspanningsnet onverwijld door aan de netbeheerders en meetverantwoordelijken.
 
 ### B4.2.3. Einde van erkenning als meetverantwoordelijke
 
-B4.2.3.5
+De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meetverantwoordelijke en indien deze heeft opgehouden te bestaan.
 
 ### B4.2.4. Geheimhouding
 
 B4.2.4.1
+
+B4.2.4.1
+
+## Bijlage 5. Schatting van meetgegevens
+
+B5.1
+
+Indien een meetverantwoordelijke of een netbeheerder moet schatten, wordt rekening gehouden met de volgende uitgangspunten:
+
+- a. De geschatte meetgegevens zijn gegeven de beschikbare informatie en technieken een nauwkeurige benadering van de werkelijke met het net uitgewisselde hoeveelheid energie.
+
+- b. Onzekerheden in de geschatte meetgegevens komen ten laste van de aangeslotene.
+
+De meetverantwoordelijke of netbeheerder hanteert per onbalansverrekeningsperiode een van de volgende methoden om de geschatte meetgegevens te bepalen en communiceert de gehanteerde methode in het bericht met de meetgegevens:
+
+- A. Indien er sprake is van één of meer productie-installaties achter de aansluiting, wordt er voor de energieuitwisseling vanuit de installatie naar het net een nul geschat. Voor de energieuitwisseling vanuit het net naar de installatie wordt de onder B beschreven methode gehanteerd er van uitgaande dat de productie-installaties niet produceren, tenzij de meetverantwoordelijke na overleg met de aangeslotene andere informatie ontvangt, waarbij de meetverantwoordelijke met behulp van een indirecte methode een berekening kan maken van de geproduceerde elektriciteit, en de daaruit volgende energieuitwisseling met het net.
+
+- B. Indien er sprake is van uitsluitend energieuitwisseling vanuit het net naar de installatie:
+
+- a. De meetverantwoordelijke of netbeheerder schat op basis van het gemiddelde verbruik van dezelfde onbalansverrekeningsperiode van drie weken voor desbetreffende allocatiedag vermenigvuldigd met de in C genoemde onzekerheidsfactor fo,. Daarbij wordt rekening gehouden met in de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) genoemde feestdagen, waarbij een feestdag wordt geschat als een zondag. Voorbeeld per onbalansverrekeningsperiode (ISP) Schatting ISPn =((ISPn dag –3 weken + ISPn dag –2 weken + ISPn dag –1 week)/3). (1+ fo)
+
+- b. tenzij de meetverantwoordelijke na overleg met de aangeslotene andere informatie ontvangt, waarbij de meetverantwoordelijke met behulp van een indirecte methode een berekening kan maken van de aan het net onttrokken energie.
+
+- C. De onzekerheidsfactor fo is tenminste 1,0 procent.
+
+Jaarlijks stelt voor 1 november de netbeheerder van het landelijke hoogspanningsnet deze onzekerheidsfactor vast en publiceert deze op haar website. De netbeheerder van het landelijke hoogspanningsnet berekent op basis van de in 3.4.1 ontvangen informatie het procentuele verschil tussen de in de allocatie gebruikte meetgegevens en de maandelijks verstuurde verbruiksberichten voor aansluitingen waar verschillen zijn opgetreden en stelt de onzekerheidsfactor fo vast op basis van dit procentuele verschil, rekening houdend met de gestelde minimumgrens en de in de berekeningen opgenomen fo van het voorgaande jaar.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### 1.2.3.8
+
+In aanvulling op [artikel 1.2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.5&z=2019-05-16&g=2019-05-16) wijzen de aangeslotenen op een offshore-platform met een aansluiting op het net op zee, en de beheerder van het desbetreffende offshore-platform, gezamenlijk één meetverantwoordelijke aan voor alle aansluitingen op het desbetreffende offshore-platform.
+
+#### 1.2.4. Beëindiging van de beheerovereenkomst tussen de meetverantwoordelijke en de aangeslotene
+
+#### 1.2.5. Vangnetregeling meetverantwoordelijkheid
+
+### 2. Keuze van meetinrichting en aanwijzing meetbeheerder
+
+#### 2.1. Algemeen
+
+#### 2.2. Comptabele meetinrichting in het (de) overdrachtspunt(en) van een aansluiting tussen twee netten
+
+#### 2.3. Meetinrichting in het (de) overdrachtspunt(en) van een aansluiting kleiner dan of gelijk aan 3x80A
+
+#### 2.4. Meetinrichting in het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A
+
+#### 2.5. Meetinrichting ten behoeve van een productie-installatie
+
+#### 2.6. Aanwijzing meterbeheerder
+
+### 3. Uitrol van op afstand uitleesbare kleinverbruikmeetinrichtingen ten behoeve van kleinverbruikaansluitingen
+
+#### 3.1. Algemeen
+
+#### 3.2. Procedure prioriteitsplaatsing
+
+#### 3.3. Procedure plaatsing door derden van een door de netbeheerder geleverde meetinrichting
+
+#### 3.4. Procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting
+
+### 4. Eisen aan meetinrichtingen
+
+#### 4.1. Algemeen
+
+#### 4.1.1. Ontwerp, plaatsing en onderhoud
+
+#### 4.1.2. Verzegelingen
+
+#### 4.2. Eisen aan kleinverbruikmeetinrichtingen
+
+#### 4.2.1. Eisen aan niet op afstand uitleesbare kleinverbruikmeetinrichtingen
+
+#### 4.2.3. Storingen in de kleinverbruikmeetinrichting
+
+#### 4.3. Eisen aan grootverbruikmeetinrichtingen
+
+#### 4.3.1. Algemeen
+
+#### 4.3.2. Eisen aan het primaire deel van de meetinrichting
+
+#### 4.3.3. Administratie met betrekking tot de grootverbruikmeetinrichting
+
+#### 4.3.5. Eisen aan telemetriegrootverbruikmeetinrichtingen
+
+#### 4.3.6. Nauwkeurigheidseisen aan meetinrichtingen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen
+
+#### 4.3.7. Storingen in de grootverbruikmeetinrichting
+
+### 5. Meetgegevensverzameling
+
+#### 5.2. Meetgegevensverzameling bij profielgrootverbruikmeetinrichtingen en bij productiemeetinrichtingen
+
+#### 5.3. Meetgegevensverzameling bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4. Storingen in de gegevensverwerking bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4.1. Verschillen bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4.3. Reparatie en schatting van meetgegevens bij telemetriegrootverbruikmeetinrichtingen
+
+### 6. Bijzondere bepalingen
+
+#### 6.1. Verwisseling of wijziging van het deel van de meetinrichting bij de aansluiting
+
+#### 6.2. Onvoorzien
+
+#### 6.3. Overgangs- en slotbepalingen
+
+## Bijlage 2. Definities van de begrippen energie, vermogen, blindenergie en blindvermogen, waarvan in deze code is uitgegaan
+
+### Energie en vermogen
+
+### Blindenergie en blindvermogen
+
+### Bepaling van volumes voor blindenergie
+
+De methodiek zoals door netbeheerders wordt gehanteerd bij vaststelling van de in rekening te brengen hoeveelheid, door aangeslotenen met het net uitgewisselde blindenergie, volgt de volgende stappen:
+
+## Bijlage 3. Voorschrift voor het ontwerpen, installeren en controleren van comptabele meetinrichtingen voor elektrische energie en blindenergie
+
+### B3.1.1. Definities
+
+### B3.2.1. Normen
+
+### B3.2.2. De plaats van de meetinrichting
+
+### B3.2.3. Typekeuring van meetmiddelen
+
+### B3.2.4. Spanningsmeetcircuits
+
+### B3.2.5. Stroommeetcircuits
+
+### B3.2.6. De nauwkeurigheid van de meetinrichting
+
+### B3.3.1. Controle voordat de meetinrichting wordt geïnstalleerd
+
+### B3.3.2. Controle nadat de meetinrichting is geïnstalleerd
+
+### B3.3.3. Controle van in gebruik zijnde meetinrichtingen
+
+### B3.4.1. Controle voordat een meetinrichting wordt geïnstalleerd
+
+### B3.4.2. Controle nadat de meetinrichting is geïnstalleerd
+
+### B3.4.3. Controle van in gebruik zijnde meetinrichtingen
+
+### Tabellen
+
+*) Indien de gemiddelde belasting groter is dan 20% van het nominale meetvermogen.
+
+## Bijlage 4. Erkenningsregelingen
+
+### B4.1.1. Algemeen
+
+### B4.1.2. Het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen en erkenning als meterplaatser
+
+### B4.1.3. Het MP-register
+
+### B4.1.4. Einde van erkenning als meterplaatser
+
+### B4.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
+
+### B4.2.2. Het MV-register
+
+### B4.2.3. Einde van erkenning als meetverantwoordelijke
+
+### B4.2.4. Geheimhouding
 
 De meetverantwoordelijke verstrekt, behoudens het bepaalde in de [Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934), geen meetgegevens van aangeslotenen aan derden, anders dan met schriftelijke toestemming van de desbetreffende aangeslotene.
 
