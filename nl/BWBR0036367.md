@@ -4,7 +4,7 @@ identifier: "BWBR0036367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-12"
-last_updated: "2015-03-03"
+last_updated: "2019-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036367"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De directeur Milieu & Veiligheid, het hoofd van het Centrum Veiligheid Stoffen e
 
 Indien uitvoering wordt gegeven aan artikel 1, luidt de ondertekening:
 
-DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU,
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT
 
 voor deze:
 
