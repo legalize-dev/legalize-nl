@@ -4,7 +4,7 @@ identifier: "BWBR0039990"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-23"
-last_updated: "2017-09-01"
+last_updated: "2019-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039990"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - 4. **Hoofd defensieonderdeel:** zoals bedoeld in [artikel 1, eerste lid onderdeel i van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) respectievelijk [artikel 3, eerste lid onderdeel b van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=3);
 
-- 5. **Commandant:** voor de uitvoering van het [AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), [BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), het [IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [IBM](onbekend) en de [Verplaatsingskostenregeling defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039786) wordt onder commandant verstaan de commandant in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2017-09-01&g=2017-09-01) bij deze regeling, ieder voor de militairen en ambtenaren van zijn bevoegdhedenressort. In afwijking hiervan wordt onder commandant verstaan:
+- 5. **Commandant:** voor de uitvoering van het [AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), [BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), het [IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [IBM](onbekend) en de [Verplaatsingskostenregeling defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039786) wordt onder commandant verstaan de commandant in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2019-05-21&g=2019-05-21) bij deze regeling, ieder voor de militairen en ambtenaren van zijn bevoegdhedenressort. In afwijking hiervan wordt onder commandant verstaan:
 
 - •. de Commandant van het dienstencentrum Internationale Ondersteuning Defensie voor:
 
@@ -66,7 +66,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - 6. **Tweede beoordelaar:** de functionele chef van de eerste beoordelaar;
 
-- 7. **Functionele chef:** de functionaris die is geplaatst op een arbeidsplaats, zoals vastgelegd in het personeelsinformatie-systeem, waaraan leidinggevende bevoegdheden zijn verbonden. Wanneer deze bevoegdheden zelfstandig worden uitgeoefend door de functionele chef is dit, in de bijlagen als benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01), verwerkt in de kolom ‘Attributie’. Wanneer de functionele chef een handeling verricht in de selfservice namens de commandant is dit, in de bijlagen als benoemd in artikel 3, verwerkt in de kolom ‘Opmerkingen’.
+- 7. **Functionele chef:** de functionaris die is geplaatst op een arbeidsplaats, zoals vastgelegd in het personeelsinformatie-systeem, waaraan leidinggevende bevoegdheden zijn verbonden. Wanneer deze bevoegdheden zelfstandig worden uitgeoefend door de functionele chef is dit, in de bijlagen als benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21), verwerkt in de kolom ‘Attributie’. Wanneer de functionele chef een handeling verricht in de selfservice namens de commandant is dit, in de bijlagen als benoemd in artikel 3, verwerkt in de kolom ‘Opmerkingen’.
 
 - 8. **Defensiepersoneel:** de militair in werkelijke dienst als bedoeld in [artikel 1, eerste lid onderdeel c van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) en de ambtenaar als bedoeld in [artikel 1 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
@@ -82,7 +82,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 2. Aanwijzing commandant
 
-1. In de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2017-09-01&g=2017-09-01) zijn de commandanten aangewezen.
+1. In de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2019-05-21&g=2019-05-21) zijn de commandanten aangewezen.
 
 2. Een aangewezen commandant oefent een bevoegdheid slechts uit ten aanzien van onder hem ressorterend personeel voor zover dit personeel niet ressorteert onder een tevens in de betreffende bijlage opgenomen commandant.
 
@@ -90,23 +90,23 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 3. Mandaatverlening
 
-1. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen het Commando Zeestrijdkrachten in mandaat zijn verleend.
+1. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen het Commando Zeestrijdkrachten in mandaat zijn verleend.
 
-2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=2&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen het Commando Landstrijdkrachten in mandaat zijn verleend.
+2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=2&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen het Commando Landstrijdkrachten in mandaat zijn verleend.
 
-3. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=3&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen het Commando Luchtstrijdkrachten in mandaat zijn verleend.
+3. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=3&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen het Commando Luchtstrijdkrachten in mandaat zijn verleend.
 
-4. [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=4&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen de Koninklijke Marechaussee in mandaat zijn verleend.
+4. [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=4&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen de Koninklijke Marechaussee in mandaat zijn verleend.
 
-5. [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=5&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen de Defensie Materieel Organisatie in mandaat zijn verleend.
+5. [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=5&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen de Defensie Materieel Organisatie in mandaat zijn verleend.
 
-6. [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=6&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen het Commando Dienstencentra in mandaat zijn verleend.
+6. [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=6&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen het Commando Dienstencentra in mandaat zijn verleend.
 
-7. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=7&z=2017-09-01&g=2017-09-01) bevat een overzicht van de personele bevoegdheden die binnen de Bestuursstaf in mandaat zijn verleend.
+7. [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=7&z=2019-05-21&g=2019-05-21) bevat een overzicht van de personele bevoegdheden die binnen de Bestuursstaf in mandaat zijn verleend.
 
-##### Artikel 3a. Wijzigen [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2017-09-01&g=2017-09-01) en [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2017-09-01&g=2017-09-01)
+##### Artikel 3a. Wijzigen [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2019-05-21&g=2019-05-21) en [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2019-05-21&g=2019-05-21)
 
-Aan de Hoofddirecteur Personeel is het mandaat verleend om de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2017-09-01&g=2017-09-01) en de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2017-09-01&g=2017-09-01) te wijzigen.
+Aan de Hoofddirecteur Personeel is het mandaat verleend om de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2019-05-21&g=2019-05-21) en de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2019-05-21&g=2019-05-21) te wijzigen.
 
 ##### Artikel 4. Plaatsvervanging
 
@@ -114,7 +114,7 @@ Bij afwezigheid van de gemandateerde treedt diens plaatsvervanger voor de duur v
 
 ##### Artikel 5. Ondermandaat
 
-Ondermandaat van de bevoegdheden is enkel toegestaan voor zover dit volgt uit de bijlagen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01).
+Ondermandaat van de bevoegdheden is enkel toegestaan voor zover dit volgt uit de bijlagen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21).
 
 ##### Artikel 6. Bijzondere gevallen
 
@@ -126,7 +126,7 @@ De gemandateerde maakt geen gebruik van het aan hem verleende mandaat in de geva
 
 2. Aan de Hoofddirecteur Personeel wordt mandaat verleend met betrekking tot het beslissen op bezwaarschriften gericht tegen besluiten die in mandaat zijn genomen door hoofd defensieonderdeel of commandant operationeel commando.
 
-3. In besluiten die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) zijn genomen, dient de mogelijkheid van het maken van bezwaar als volgt te worden vermeld:
+3. In besluiten die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) zijn genomen, dient de mogelijkheid van het maken van bezwaar als volgt te worden vermeld:
 
 Indien u zich met het genomen besluit niet kunt verenigen, kunt u binnen 6 weken na de bekendmaking van het besluit (binnen 13 weken voor de militair die zich om dienstredenen in het buitenland bevindt) bij mij bezwaar maken. Het bezwaarschrift dient te worden gericht aan het Dienstencentrum Juridische Dienstverlening (JDV), MPC 55A, Postbus 90004, 3509 AA Utrecht. Het bezwaarschrift moet worden gedateerd en ondertekend en dient tenminste de volgende gegevens te bevatten: de aanduiding bezwaarschrift, naam en adres van de indiener, een omschrijving van het besluit waartegen het bezwaar zich richt en de gronden van het bezwaar. Het is wenselijk om een afschrift van het besluit en afschriften van andere relevante stukken mee te zenden en uw werknemer-ID te vermelden.
 
@@ -150,7 +150,7 @@ Naam van de gemandateerde
 
 ##### Artikel 10. Intrekking mandaatbesluiten
 
-Met dit mandaatbesluit zijn de mandaatbesluiten genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=H&z=2017-09-01&g=2017-09-01) vervallen, evenals de Regeling aanwijzing commandanten defensie en [Mandaatbesluit Personele Bevoegdheden Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038363).
+Met dit mandaatbesluit zijn de mandaatbesluiten genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=H&z=2019-05-21&g=2019-05-21) vervallen, evenals de Regeling aanwijzing commandanten defensie en [Mandaatbesluit Personele Bevoegdheden Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038363).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -160,7 +160,7 @@ Dit besluit treedt in werking met ingang van 1 september 2017.
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie 2017.
 
-## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | **Commandant** | **Bevoegdhedenressort** |
 | --- | --- |
@@ -207,7 +207,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | **Kustwachtcentrum Nederland** |   |
 | Directeur Kustwacht Nederland | Voor defensiepersoneel geplaatst bij de Kustwacht Nederland |
 
-## Bijlage B. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage B. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | **Commandant** | **Bevoegdhedenressort** |
 | --- | --- |
@@ -255,7 +255,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | Commandant Materieellogistiek Commando Land | Voor defensiepersoneel geplaatst bij het Materieellogistiek Commando Land |
 | Commandant Defensie Cyber Commando | Voor defensiepersoneel geplaatst bij het Defensie Cyber Commando |
 
-## Bijlage C. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage C. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -268,23 +268,17 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | Commandant Air Operations Control Station Nieuw Milligen | Voor defensiepersoneel geplaatst bij het Air Operations Control Station Nieuw Milligen en de Nationale Datalink Management Cel |
 | Commandant Koninklijke Militaire School Luchtmacht Vliegbasis Woensdrecht | Voor defensiepersoneel geplaatst bij de Koninklijke Militaire School Luchtmacht Vliegbasis Woensdrecht en de Joint Meteorologische Groep |
 | Commandant Logistiek Centrum Woensdrecht | Voor defensiepersoneel geplaatst bij het Logistiek Centrum Woensdrecht |
-| Commandant Centrum voor Mens en Luchtvaart | Voor defensiepersoneel geplaatst bij het Centrum voor Mens en Luchtvaart |
+| Commandant Luchtmachtreserve | Voor al het reservepersoneel van de Luchtmacht |
 
-## Bijlage D. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage D. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
 | Commandant Koninklijke Marechaussee | Voor defensiepersoneel geplaatst bij de Koninklijke Marechaussee |
-| Commandant Landelijk Tactisch Commando | Voor defensiepersoneel geplaatst bij het Landelijk Tactisch Commando, voor de Districtscommandant Schiphol, de Districtscommandant West, de Districtscommandant Noord-Oost, de Districtscommandant Zuid en de Commandant Landelijke en Buitenlandse Eenheden |
-| Commandant Staf Koninklijke Marechaussee | Voor defensiepersoneel geplaatst bij de staf van de Koninklijke Marechaussee |
-| Commandant District Schiphol | Voor defensiepersoneel geplaatst bij district Schiphol |
-| Commandant District West | Voor defensiepersoneel geplaatst bij district West |
-| Commandant District Noord-Oost | Voor defensiepersoneel geplaatst bij district Noord-Oost |
-| Commandant District Zuid | Voor defensiepersoneel geplaatst bij district Zuid |
-| Commandant District Landelijke en Buitenlandse Eenheden | Voor defensiepersoneel geplaatst bij district Landelijke en Buitenlandse Eenheden |
+| Commandant Landelijk Tactisch Commando | Voor defensiepersoneel geplaatst bij het Landelijk Tactisch Commando en voor defensiepersoneel geplaatst bij de Passagiersinformatie-eenheid (Pi-NL) |
 | Commandant Opleidings- en Trainingscentrum KMar | Voor defensiepersoneel geplaatst bij Opleidings- en Trainingscentrum KMar |
 
-## Bijlage E. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage E. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -312,7 +306,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | Hoofd afdeling Kennis, Innovatie, eXperimenten en Simulatie | Voor defensiepersoneel geplaatst bij de afdeling Kennis, Innovatie, eXperimenten en Simulatie |
 | Directeur Operations | Voor defensiepersoneel geplaatst bij de directie Operations |
 
-## Bijlage F. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage F. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -386,7 +380,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | Commandant Defensie Tandheelkundige Dienst | Voor defensiepersoneel geplaatst bij de Defensie Tandheelkundige Dienst |
 | Commandant Eerstelijns Gezondheidszorg Bedrijf | Voor defensiepersoneel geplaatst bij het Eerstelijns Gezondheidszorg Bedrijf |
 
-## Bijlage G. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage G. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2019-05-21&g=2019-05-21) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -397,7 +391,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Personele Bevoegdheden Defensie
 | Inspecteur-generaal der Krijgsmacht | Defensiepersoneel geplaatst bij de inspecteur-generaal der Krijgsmacht |
 | Chef van het militaire huis van Z.M. de Koning | Defensiepersoneel geplaatst bij het militaire huis van Z.M. de Koning |
 
-## Bijlage H. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=10&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage H. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=10&z=2019-05-21&g=2019-05-21) van dit besluit
 
 Ingetrokken mandaatbesluiten
 
@@ -585,32 +579,32 @@ Ingetrokken mandaatbesluiten
 
 - •. Subondermandaatbesluit DP&O uitvoerende bevoegdheden BARD
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 5. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 5. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 6. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 6. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
-## Bijlage 7. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2017-09-01&g=2017-09-01) van dit besluit
+## Bijlage 7. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2019-05-21&g=2019-05-21) van dit besluit
 
-De overzichten (matrices) van de personele bevoegdheden die per defensieonderdeel zijn verleend zijn vanwege hun omvang in afzonderlijke documenten opgenomen.
+Niet opgenomen.
 
 Dit besluit zal worden gepubliceerd in de serie Ministeriele Publicaties van het Ministerie van Defensie en met de toelichting in de Staatscourant worden geplaatst.
