@@ -4,7 +4,7 @@ identifier: "BWBR0042218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-21"
-last_updated: "2018-01-01"
+last_updated: "2019-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042218"
 soort: "ministeriele-regeling"
@@ -85,7 +85,7 @@ Voor de toepassing van deze regeling en de daarop berustende bepalingen wordt on
 
 ##### Artikel 5. Acceptatie mandaatverlening
 
-De directeur-generaal wordt geacht te hebben ingestemd met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042218&artikel=3&z=2019-05-21&g=2018-01-01) genoemde mandaatverlening, zodra hij van dit mandaat gebruik heeft gemaakt of ter zake ondermandaat heeft verleend aan een of meer onder hem ressorterende functionarissen.
+De directeur-generaal wordt geacht te hebben ingestemd met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042218&artikel=3&z=2019-05-21&g=2019-05-21) genoemde mandaatverlening, zodra hij van dit mandaat gebruik heeft gemaakt of ter zake ondermandaat heeft verleend aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 6. Notariële akten
 
