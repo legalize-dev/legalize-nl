@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2019-04-06"
+last_updated: "2019-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-05-23&g=2019-04-06), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-04-06) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-05-23&g=2019-05-23), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-05-23) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -160,7 +160,9 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - p. het invulling geven aan de eigenaarsrol van de Minister van Landbouw, Natuur en Voedselkwaliteit richting de Nederlandse Voedsel-en Warenautoriteit en de zelfstandige bestuursorganen;
 
-- q. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement.](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51)
+- q. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51);
+
+- r. het inschrijven van het kernministerie als bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten.
 
 2. Tot de aangelegenheden, bedoeld in het eerste lid, onderdeel i, behoren in ieder geval:
 
@@ -264,6 +266,14 @@ Aan de directeur Transitie en aansturing bedrijfsvoering wordt mandaat, volmacht
 
 9. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners op zijn werkterrein.
 
+10. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt tevens volmacht en machtiging verleend voor het inschrijven van zijn dienstonderdeel en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten, met inachtneming van door de secretaris-generaal gestelde regels;
+
+11. Aan de inspecteur-generaal van de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt mandaat, volmacht en machtiging verleend voor het verstrekken van subsidies voor de wettelijke onderzoekstaak ‘WOT voedselveiligheid’ op grond van [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&artikel=11), juncto [bijlage 1 van de Subsidieregeling instituten voor toegepast onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1), voor zover:
+
+- a. de te subsidiëren activiteiten gericht zijn op ondersteuning van de NVWA; en
+
+- b. het te verstrekken subsidiebedrag het subsidieplafond genoemd in [bijlage 3, paragraaf 2, van de Subsidieregeling instituten voor toegepast onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=3) voor de WOT voedselveiligheid gericht op de ondersteuning van de NVWA ten behoeve van het instituut Wageningen Research, niet te boven gaat.
+
 #### § 3. Instructies
 
 ##### Artikel 7
@@ -316,7 +326,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-04-06), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-05-23), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -346,7 +356,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-05-23&g=2019-04-06) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-05-23&g=2019-04-06) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-05-23&g=2019-05-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-05-23&g=2019-05-23) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
 
 #### § 5. Vervanging
 
@@ -490,7 +500,9 @@ Aan de Chief Economist van het Ministerie van Economische Zaken en Klimaat wordt
 
 - cc. het zorg dragen voor een actuele inschrijving van het Ministerie van Landbouw, Natuur en Voedselkwaliteit in het handelsregister bij de Kamer van Koophandel;
 
-- dd. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie.
+- dd. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
+
+- ee. het ondersteunen van de secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving van het kernministerie zoals bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten.
 
 2. Aan de directeur Bedrijfsvoering wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, betreffende:
 
@@ -590,7 +602,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 - c. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het Ministerie van Landbouw, Natuur en Voedselkwaliteit voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
 
-- d. het zorgdragen voor het crypto-beheer van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, waaronder het autoriseren van gebruikers van cryptomiddelen, het registreren van in gebruik zijnde cryptomiddelen en het implementeren van de cryptografische technieken conform vigerende wet- en regelgeving.
+- d. het zorgdragen voor het crypto-beheer van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, waaronder het autoriseren van gebruikers van cryptomiddelen, het registreren en beheren van in gebruik zijnde cryptomiddelen en het implementeren van de cryptografische technieken conform vigerende wet- en regelgeving.
 
 ##### Artikel 24
 
