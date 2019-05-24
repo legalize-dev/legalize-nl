@@ -4,7 +4,7 @@ identifier: "BWBR0040352"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-24"
-last_updated: "2019-01-01"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040352"
 soort: "zbo"
@@ -58,7 +58,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamens Nt2 2
 
 ## Bijlage
 
-behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040352&artikel=1&z=2019-01-01&g=2019-01-01)
+behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040352&artikel=1&z=2019-05-24&g=2019-05-24)
 
 ### Examenprogramma Staatsexamens Nederlands als tweede taal
 
@@ -74,9 +74,9 @@ Het Staatsexamen Nederlands als tweede taal kent, conform de [artikelen 7.3.2 va
 
 ### 2. Beoordeling
 
-Het College voor Toetsen en Examens stelt bij het vaststellen van de examens en de daarbij behorende beoordeling een cesuur vast. Deze kan, nadat het examenonderdeel is afgenomen en de gegevens bekend zijn, door het College eventueel bijgesteld worden. De kandidaat is geslaagd indien het resultaat voldoende is.
+Het College voor Toetsen en Examens stelt de cesuur vast op voordracht van de toetsconstructeurs. Deze kan, nadat het examenonderdeel is afgenomen en de gegevens bekend zijn, door het College eventueel bijgesteld worden. De kandidaat is geslaagd indien het resultaat voldoende is.
 
-Het examenwerk van de examenonderdelen Lezen en Luisteren wordt automatisch gescoord. Het examenwerk van de examenonderdelen Spreken en Schrijven wordt door onafhankelijke daartoe door het College voor Toetsen en Examens bevoegd verklaarde beoordelaars beoordeeld. Het examen van een kandidaat wordt ten behoeve van de beoordeling opgedeeld in losse opdrachten en elke opdracht wordt door tenminste twee beoordelaars beoordeeld. Gemiddeld zijn er 16 verschillende beoordelaars betrokken bij het beoordelen van een schrijfexamen en 13 bij een spreekexamen. Bij de beoordeling wordt afhankelijk van de aard van de opdrachten gebruik gemaakt van verschillende dichotome en meerpuntsschalen.
+Het examenwerk van de examenonderdelen Lezen en Luisteren wordt automatisch gescoord. Het examenwerk van de examenonderdelen Spreken en Schrijven wordt door onafhankelijke daartoe door het College voor Toetsen en Examens bevoegd verklaarde beoordelaars beoordeeld. Het examen van een kandidaat wordt ten behoeve van de beoordeling opgedeeld in losse opdrachten en elke opdracht wordt door tenminste twee beoordelaars beoordeeld. Gemiddeld zijn er 10-15 verschillende beoordelaars betrokken bij het beoordelen van een schrijfexamen en een spreekexamen. Bij de beoordeling wordt afhankelijk van de aard van de opdrachten gebruik gemaakt van verschillende dichotome en meerpuntsschalen.
 
 ### Nadere toelichting per examenonderdeel
 
@@ -88,49 +88,49 @@ Het examenonderdeel Lezen wordt afgenomen in één zitting. De kandidaat beantwo
 
 Bovenstaande handelingen kunnen verricht worden op teksten met de volgende kenmerken:
 
-### Condities
+### Onderscheid Programma I en Programma II
 
 ### Onderscheid Programma I en Programma II
 
-Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, de gekozen werk- en opleidingssituaties en het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
+Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
 
 Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
 
-De duur van het examen van Programma I is 110 minuten. De duur van het examen van Programma II is 100 minuten.
+Het examenonderdeel Luisteren wordt afgenomen in één zitting. De kandidaat beantwoordt een aantal meerkeuzevragen naar aanleiding van luisterteksten in de vorm van audio- en videofragmenten. Deze fragmenten worden samen met de meerkeuzevragen aangeboden via de computer.
 
 ### b. Luistervaardigheid
 
 Het examenonderdeel Luisteren wordt afgenomen in één zitting. De kandidaat beantwoordt een aantal meerkeuzevragen naar aanleiding van luisterteksten in de vorm van audio- en videofragmenten. Deze fragmenten worden samen met de meerkeuzevragen aangeboden via de computer.
 
-Uit het beantwoorden van de vragen moet blijken dat de kandidaat de volgende taalhandelingen beheerst.
-
-### Handelingen
-
 Bovenstaande handelingen kunnen verricht worden op teksten met de volgende kenmerken:
-
-### Condities
 
 ### Onderscheid Programma I en Programma II
 
 Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I. De informatiedichtheid in Programma I is gemiddeld, maar kan in Programma II hoger dan gemiddeld zijn. Er is in Programma I herhaling van informatie-eenheden mogelijk. In Programma II is de redundantie laag.
 
-Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
-
-De duur van het examen is circa 90 minuten.
-
-De duur van het examen kan per examen verschil uitmaken, omdat het opdrachten met luisterfragmenten betreft die qua lengte iets kunnen verschillen. En omdat er meerdere fragmenten zijn, kan vervolgens het totale luisterexamen iets langer en soms iets korter uitvallen.
+### Condities
 
 ### c. Schrijfvaardigheid
 
-Het examenonderdeel Schrijven wordt afgenomen in één zitting met twee delen. In Programma I worden zinnen, deelschrijftaken en korte schrijftaken onderscheiden. In Programma II worden zinnen, deelschrijftaken, korte schrijftaken en middellange schrijftaken onderscheiden. In het examenonderdeel schrijven wordt getoetst of de kandidaat de volgende taalhandelingen beheerst.
+Het examenonderdeel Schrijven wordt afgenomen in één zitting. In Programma I worden zinnen, deelschrijftaken en korte schrijftaken onderscheiden. In Programma II worden zinnen, korte schrijftaken en middellange schrijftaken onderscheiden. In het examenonderdeel schrijven wordt getoetst of de kandidaat de volgende taalhandelingen beheerst.
 
-### Handelingen
+Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
 
 Bovenstaande handelingen monden uit in teksten met de volgende kenmerken:
 
+De duur van het examen kan per examen verschil uitmaken, omdat het opdrachten met luisterfragmenten betreft die qua lengte iets kunnen verschillen. En omdat er meerdere fragmenten zijn, kan vervolgens het totale luisterexamen iets langer en soms iets korter uitvallen.
+
+### Onderscheid tussen Programma I en Programma II
+
+Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concreet, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
+
+### d. Spreekvaardigheid
+
+Het examenonderdeel Spreken wordt afgenomen in één zitting en kent verschillende typen opdrachten. In Programma I worden korte en middellange opdrachten onderscheiden, in Programma II korte, middellange en lange opdrachten. De opdrachten worden zowel mondeling als schriftelijk (op een beeldscherm) aangeboden.
+
 ### Kwaliteit van de uitvoering
 
-### Condities
+### Handelingen
 
 ### Onderscheid tussen Programma I en Programma II
 
@@ -159,5 +159,31 @@ Het onderscheid tussen Programma I en Programma II komt tot uitdrukking in de te
 De duur van het examen is ongeveer 30 minuten.
 
 De duur van het examen kan per examen verschillen, omdat het opdrachten met ingesproken teksten betreft die qua lengte iets kunnen verschillen. Omdat er meer opdrachten zijn, kan daarom het totale examen soms iets langer en soms iets korter uitvallen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Het onderscheid tussen beide programma’s komt tot uitdrukking in de tekstonderwerpen, de gekozen werk- en opleidingssituaties en het functioneringsniveau. De teksten in Programma I gaan over concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
+
+### b. Luistervaardigheid
+
+Uit het beantwoorden van de vragen moet blijken dat de kandidaat de volgende taalhandelingen beheerst.
+
+### Handelingen
+
+Voor Programma I geldt dat er in de vragen bij de opgaven geen woorden voorkomen die niet zijn opgenomen in het **Frequency dictionary of Dutch, list Core en list General,** (Tiberius & Schoonheim, 2004). Voor Programma II zijn er wat betreft het woordgebruik in de opgaven geen beperkingen.
+
+### Handelingen
+
+### Kwaliteit van de uitvoering
+
+Het examenonderdeel Spreken wordt afgenomen in een digitaal talenpracticum. In het examenonderdeel Spreken wordt getoetst of de kandidaat de volgende taalhandelingen beheerst.
+
+Bovenstaande handelingen monden uit in spreekopdrachten met de volgende kenmerken:
+
+### Kwaliteit van de uitvoering
+
+### Onderscheid Programma I en Programma II
+
+Het onderscheid tussen Programma I en Programma II komt tot uitdrukking in de tekstonderwerpen, in de gekozen werk- en opleidingssituaties en in het functioneringsniveau. De onderwerpen in Programma I zijn concrete onderwerpen, terwijl het abstractieniveau in Programma II hoger is. In Programma II spelen beschouwende en betogende teksten een belangrijkere rol dan in Programma I.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
