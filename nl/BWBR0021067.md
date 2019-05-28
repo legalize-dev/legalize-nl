@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2018-07-01"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en beroepsconsulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2018-07-01&g=2018-07-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
+2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2019-05-28&g=2019-05-28), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
 
 3. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
 
@@ -140,7 +140,9 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 - a. de verzoeker die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt;
 
-- b. de verzoeker die zich voor 1 januari 2015 bij de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap heeft aangemeld voor de naturalisatietoets of een onderdeel van die toets en van wie DUO voor 1 februari 2015 het verschuldigde examengeld heeft ontvangen.
+- b. de verzoeker die zich voor 1 januari 2015 bij de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap heeft aangemeld voor de naturalisatietoets of een onderdeel van die toets en van wie DUO voor 1 februari 2015 het verschuldigde examengeld heeft ontvangen;
+
+- c. de verzoeker die gedurende een periode van twaalf maanden voorafgaande aan het verzoek tot vrijstelling in tenminste zes maanden minimaal 48 uur per maand werkzaamheden in loondienst heeft verricht.
 
 9. Van het afleggen van het onderdeel van het inburgeringsexamen genaamd het participatieverklaringstraject, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), is vrijgesteld de verzoeker die niet op grond van de Wet inburgering inburgeringsplichtig is.
 
