@@ -4,7 +4,7 @@ identifier: "BWBR0042243"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-05-28"
-last_updated: "2019-01-01"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042243"
 soort: "zbo"
@@ -55,7 +55,7 @@ Hoofdstuk 2 geeft de uitgangspunten weer van het accountantsprotocol.
 
 Hoofdstuk 3 gaat in op de overeengekomen specifieke werkzaamheden.
 
-In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042243&bijlage=1&z=2019-05-28&g=2019-01-01) is een modeltekst opgenomen voor het rapport van feitelijke bevindingen.
+In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042243&bijlage=1&z=2019-05-28&g=2019-05-28) is een modeltekst opgenomen voor het rapport van feitelijke bevindingen.
 
 ### 2. Doelstelling en kader
 
@@ -85,7 +85,7 @@ Voor vragen op het gebied van controle kunt u terecht bij de helpdesk van de NZa
 
 De accountant voert werkzaamheden uit op het bestand gegevensvraag Wlz-gegevens (verder: bestand) volgens [NV COS 4400N](onbekend). Dit betekent dat de accountant geen zekerheid verschaft dan wel conclusies of oordelen geeft, maar alleen feitelijke onderzoeksbevindingen rapporteert. Dit protocol beschrijft de werkzaamheden voor het onderzoek. De gebruiker van het rapport moet zelf een oordeel vormen en zijn eigen conclusies trekken.
 
-De overeengekomen specifieke werkzaamheden zijn in de modeltekst van het rapport opgenomen, hiervoor wordt verwezen naar [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042243&bijlage=1&z=2019-05-28&g=2019-01-01) van dit accountantsprotocol. In het rapport vermeldt de accountant welke specifieke werkzaamheden hij in dit kader heeft verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn onderzoek heeft vastgesteld dat de verplichtingen niet zijn nageleefd maakt hij daarvan in elk geval melding in zijn rapport van feitelijke bevindingen.
+De overeengekomen specifieke werkzaamheden zijn in de modeltekst van het rapport opgenomen, hiervoor wordt verwezen naar [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042243&bijlage=1&z=2019-05-28&g=2019-05-28) van dit accountantsprotocol. In het rapport vermeldt de accountant welke specifieke werkzaamheden hij in dit kader heeft verricht en tot welke bevindingen dit heeft geleid. Voor zover de accountant bij zijn onderzoek heeft vastgesteld dat de verplichtingen niet zijn nageleefd maakt hij daarvan in elk geval melding in zijn rapport van feitelijke bevindingen.
 
 Het onderzoek op de zorgkantoorregio(s)/Wlz-uitvoerder bestaat uit vier onderdelen:
 
