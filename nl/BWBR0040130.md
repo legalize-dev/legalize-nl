@@ -4,7 +4,7 @@ identifier: "BWBR0040130"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-29"
-last_updated: "2017-11-01"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040130"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **leraar:** persoon die voldoet aan de bevoegdheidseisen en de bekwaamheidseisen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) en [32a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32a), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) en [32a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=32a) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3) en [35 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=35), dan wel in het bezit is van een bestaand bewijs van bekwaamheid of bestaand bewijs van bevoegdheden als bedoeld in [artikel XI van Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI);
 
-- –. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- –. **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
 - –. **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1).
 
@@ -68,7 +68,7 @@ De subsidie bedraagt € 2.500 per herintreder.
 
 ##### Artikel 5. Subsidieplafond
 
-Voor verstrekking van subsidies op grond van deze regeling is een bedrag van € 1.250.000 beschikbaar.
+Voor verstrekking van subsidies op grond van deze regeling is in het kalenderjaar 2019 een bedrag van € 300.000 en in 2020 een bedrag van € 250.000 beschikbaar.
 
 ##### Artikel 6. Wijze van verdeling beschikbare middelen
 
@@ -80,7 +80,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 8. Aanvraag subsidie
 
-1. Een aanvraag kan worden ingediend tot en met 31 december 2018. Aanvragen die worden ontvangen na deze datum worden afgewezen.
+1. Een aanvraag kan worden ingediend tot en met 31 oktober 2020. Aanvragen die worden ontvangen na deze datum worden afgewezen.
 
 2. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat bekend is gemaakt op de website www.dus-i.nl.
 
@@ -90,7 +90,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 De subsidie wordt uitsluitend verstrekt, indien:
 
-- a. de herintreder niet eerder dan met ingang van 1 augustus 2017 is benoemd of aangesteld;
+- a. de herintreder niet eerder dan met ingang van 1 augustus 2017 is benoemd of aangesteld en niet later dan 1 november 2020;
 
 - b. de duur van de aanstelling of benoeming ten minste 6 maanden is; en
 
@@ -118,7 +118,7 @@ De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomst
 
 1. Deze regeling treedt in werking met ingang van 1 november 2017.
 
-2. Deze regeling vervalt met ingang van 1 januari 2020.
+2. Deze regeling vervalt met ingang van 1 januari 2022.
 
 ##### Artikel 15. Citeertitel
 
