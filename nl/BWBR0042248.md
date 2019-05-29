@@ -4,7 +4,7 @@ identifier: "BWBR0042248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2018-12-01"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042248"
 soort: "ministeriele-regeling"
@@ -86,11 +86,11 @@ Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de
 
 ##### Artikel 5. Bedrag en wijze van bevoorschotting
 
-1. De hoogte van het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2018-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2018-12-01) wordt voorafgaand aan het boekjaar aan de hand van de door de stichting ingediende begroting vastgesteld.
+1. De hoogte van het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2019-05-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) wordt voorafgaand aan het boekjaar aan de hand van de door de stichting ingediende begroting vastgesteld.
 
-2. Het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2018-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2018-12-01) wordt in gelijke maandelijkse termijnen betaald.
+2. Het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2019-05-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) wordt in gelijke maandelijkse termijnen betaald.
 
-3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2018-12-01) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
+3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
 
 4. De berekening van de vergoeding van de kosten voor het jaar 2024 en volgende wordt aan het einde van de periode, bedoeld in het derde lid, nader bepaald.
 
@@ -104,7 +104,7 @@ Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de
 
 ##### Artikel 7. Controleverklaring
 
-Het overzicht van de daadwerkelijke kosten bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=6&z=2019-05-29&g=2018-12-01), is voorzien van een controleverklaring opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van het door de minister vastgestelde accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
+Het overzicht van de daadwerkelijke kosten bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=6&z=2019-05-29&g=2019-05-29), is voorzien van een controleverklaring opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van het door de minister vastgestelde accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
 
 ##### Artikel 8. Eindafrekening
 
