@@ -4,7 +4,7 @@ identifier: "BWBR0040211"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2018-07-14"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040211"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 4
 
-Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14).
+Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01).
 
 ##### Artikel 5
 
@@ -110,12 +110,12 @@ Deze regeling wordt aangehaald als: Sanctieregeling Noord-Korea 2017.
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14)
+## Bijlage. bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01)
 
 ### Toelichting
 
-Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid, van de Sanctieregeling Noord-Korea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14). De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2018-07-14&g=2018-07-14), van de regeling. De lijst heeft geen limitatief karakter.
+Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01), van de Sanctieregeling Noord-Korea 2017. De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs en wetenschappelijk onderzoek zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in artikel 3, eerste lid, van de regeling. De lijst heeft geen limitatief karakter. Voor een nadere duiding zij verwezen naar https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/waarom-heb-ik-een-ontheffing-nodig-voor-bepaalde-technische-nucleaire-studies
 
-Deze bijlage is met name van belang voor het hoger onderwijs en doet niet af aan het algemene verbod om kennis over te dragen die zou kunnen bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea. Dat algemene verbod geldt ook buiten het hoger onderwijs en buiten de hier vermelde kennisgebieden.
+Deze bijlage is met name van belang voor het hoger onderwijs en wetenschappelijk onderzoek en doet niet af aan het algemene verbod om kennis over te dragen die zou kunnen bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea. Dat algemene verbod geldt ook buiten het hoger onderwijs en buiten de hier vermelde kennisgebieden.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
