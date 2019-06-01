@@ -4,7 +4,7 @@ identifier: "BWBV0006744"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-06-01"
-last_updated: "2018-06-12"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006744"
 soort: "verdrag"
@@ -114,7 +114,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 4. Informatie voor de vaststelling van douanerechten
 
-1. Op verzoek verstrekt de aangezochte douaneadministratie, onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006744&hoofdstuk=VII&artikel=16&z=2018-06-12&g=2018-06-12), ten behoeve van een juiste toepassing van de douanewetgeving of ter voorkoming van douanefraude, informatie aan de verzoekende douaneadministratie die redenen heeft om te twijfelen aan de juistheid of echtheid van een aangifte.
+1. Op verzoek verstrekt de aangezochte douaneadministratie, onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006744&hoofdstuk=VII&artikel=16&z=2019-06-01&g=2019-06-01), ten behoeve van een juiste toepassing van de douanewetgeving of ter voorkoming van douanefraude, informatie aan de verzoekende douaneadministratie die redenen heeft om te twijfelen aan de juistheid of echtheid van een aangifte.
 
 2. In het verzoek staan de verificatieprocedures die de douaneadministratie heeft uitgevoerd of getracht heeft uit te voeren alsmede de specifieke informatie waarom wordt verzocht vermeld.
 
