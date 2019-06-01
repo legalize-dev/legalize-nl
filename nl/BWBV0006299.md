@@ -4,7 +4,7 @@ identifier: "BWBV0006299"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-06-01"
-last_updated: "2013-10-02"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006299"
 soort: "verdrag"
@@ -46,7 +46,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. Hoogste rechterlijke instanties van een Hoge Verdragsluitende Partij, zoals aangewezen in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2013-10-02&g=2013-10-02), kunnen het Hof verzoeken advies uit te brengen over principiële vragen inzake de uitlegging of toepassing van de rechten en vrijheden die zijn omschreven in het [Verdrag](onbekend) of de protocollen daarbij.
+1. Hoogste rechterlijke instanties van een Hoge Verdragsluitende Partij, zoals aangewezen in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2019-06-01&g=2019-06-01), kunnen het Hof verzoeken advies uit te brengen over principiële vragen inzake de uitlegging of toepassing van de rechten en vrijheden die zijn omschreven in het [Verdrag](onbekend) of de protocollen daarbij.
 
 2. De verzoekende rechterlijke instantie mag uitsluitend om advies verzoeken binnen de context van een bij haar aanhangige zaak.
 
@@ -54,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 2
 
-1. Een college van vijf rechters van de Grote Kamer beslist of het verzoek om advies al dan niet in behandeling wordt genomen, rekening houdend met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2013-10-02&g=2013-10-02). Een weigering een verzoek in behandeling te nemen wordt door het college met redenen omkleed.
+1. Een college van vijf rechters van de Grote Kamer beslist of het verzoek om advies al dan niet in behandeling wordt genomen, rekening houdend met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2019-06-01&g=2019-06-01). Een weigering een verzoek in behandeling te nemen wordt door het college met redenen omkleed.
 
 2. Indien het college het verzoek in behandeling neemt, brengt de Grote Kamer het advies uit.
 
@@ -94,9 +94,9 @@ Tussen de Hoge Verdragsluitende Partijen worden de artikelen 1 tot en met 5 van 
 
 ##### Artikel 8
 
-1. Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop tien Hoge Verdragsluitende Partijen bij het [Verdrag](onbekend) in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2013-10-02&g=2013-10-02) hun instemming door het Protocol te worden gebonden tot uitdrukking hebben gebracht.
+1. Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop tien Hoge Verdragsluitende Partijen bij het [Verdrag](onbekend) in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2019-06-01&g=2019-06-01) hun instemming door het Protocol te worden gebonden tot uitdrukking hebben gebracht.
 
-2. Ten aanzien van een Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) die later haar instemming door dit Protocol te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop deze haar instemming tot uitdrukking heeft gebracht door het Protocol te worden gebonden in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2013-10-02&g=2013-10-02).
+2. Ten aanzien van een Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) die later haar instemming door dit Protocol te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop deze haar instemming tot uitdrukking heeft gebracht door het Protocol te worden gebonden in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2019-06-01&g=2019-06-01).
 
 ##### Artikel 9
 
@@ -104,7 +104,7 @@ Ten aanzien van de bepalingen van dit Protocol kan krachtens [artikel 57 van het
 
 ##### Artikel 10
 
-Elke Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) geeft op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de rechterlijke instanties aan die zij aanwijst ten behoeve van de uitvoering van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2013-10-02&g=2013-10-02), van dit Protocol. Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
+Elke Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) geeft op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de rechterlijke instanties aan die zij aanwijst ten behoeve van de uitvoering van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2019-06-01&g=2019-06-01), van dit Protocol. Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
 
 ##### Artikel 11
 
@@ -114,9 +114,9 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
 
-- c. iedere datum van inwerkingtreding van dit Protocol in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=8&z=2013-10-02&g=2013-10-02);
+- c. iedere datum van inwerkingtreding van dit Protocol in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=8&z=2019-06-01&g=2019-06-01);
 
-- d. iedere verklaring afgelegd in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2013-10-02&g=2013-10-02); en
+- d. iedere verklaring afgelegd in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2019-06-01&g=2019-06-01); en
 
 - e. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
 
