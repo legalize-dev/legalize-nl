@@ -4,7 +4,7 @@ identifier: "BWBR0036078"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-01-01"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036078"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van de Raad voor volksgezondheid en samenleving ontvangt een vaste vergoeding per maand die wordt vastgesteld volgens het maximale salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met een arbeidsduurfactor van 30/36 per week.
+De voorzitter van de Raad voor volksgezondheid en samenleving ontvangt een vaste vergoeding per maand die wordt vastgesteld volgens het maximale salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met een arbeidsduurfactor van 18/36 per week.
 
 ##### Artikel 2
 
