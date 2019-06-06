@@ -4,7 +4,7 @@ identifier: "BWBR0042264"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-06"
-last_updated: "2018-05-25"
+last_updated: "2019-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042264"
 soort: "AMvB"
@@ -114,7 +114,13 @@ Zo spoedig mogelijk na het overlijden van de voorzitter of een ander lid wordt e
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+1. De voorzitter, de andere leden en de buitengewone leden melden financiële belangen, alsmede het bezit van en transacties met effecten die de belangen van de dienst voor zover deze in verband staan met hun functievervulling kunnen raken, aan een door de Autoriteit aangewezen functionaris, niet zijnde een van de leden van de Autoriteit.
+
+2. De Autoriteit voert een registratie van de op grond van het eerste lid gedane meldingen.
+
+3. De voorzitter, de andere leden en de buitengewone leden verstrekken nadere informatie of bescheiden met betrekking tot de financiële belangen of het bezit van of de transacties met effecten, indien daarvoor naar het oordeel van de aangewezen functionaris, bedoeld in het eerste lid, aanleiding bestaat op grond van de melding of van na de melding gebleken feiten of omstandigheden.
+
+4. Het is de voorzitter of een ander lid of een buitengewoon lid verboden financiële belangen te hebben, effecten te bezitten of effectentransacties te verrichten waardoor de goede vervulling van zijn functie of het goed functioneren van de openbare dienst, voor zover dit in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.
 
 #### § 3. Overgangs- en slotbepalingen
 
@@ -130,7 +136,7 @@ Het [Vaststellingsbesluit enkele algemene maatregelen van bestuur in verband met
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 25 mei 2018.
 
-2. In afwijking van het eerste lid, treedt [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042264&paragraaf=2&artikel=11&z=2019-06-06&g=2018-05-25) van dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+2. In afwijking van het eerste lid, treedt [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042264&paragraaf=2&artikel=11&z=2019-06-06&g=2019-06-06) van dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 15
 
