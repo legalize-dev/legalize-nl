@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2019-03-01"
+last_updated: "2019-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **directeur-generaal:** directeur-generaal van het Ministerie,
 
-- g. **hoofd van een inspectie:** inspecteur-generaal van het onderwijs of het hoofd van de Erfgoedinspectie,
+- g. **hoofd van een inspectie:** inspecteur-generaal van het onderwijs of de directeur van de Inspectie Overheidsinformatie en Erfgoed,
 
 - h. **directeur:** degene die aan het hoofd staat van een beleidsdirectie, een ondersteunende directie, of een ondersteunend bureau als bedoeld in de bijlage bij dit besluit,
 
@@ -164,7 +164,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1. De inspecteur-generaal van het onderwijs heeft, onverminderd de mandaatverlening aan de secretaris-generaal, met inachtneming van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) en binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
-2. De directeur van de Erfgoedinspectie heeft, onverminderd de mandaatverlening aan de secretaris-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+2. De directeur van de Inspectie Overheidsinformatie en Erfgoed heeft, onverminderd de mandaatverlening aan de secretaris-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 3. De hoofden van de inspecties, bedoeld in het eerste en tweede lid, zijn budgethouder voor de hun door de secretaris-generaal toegewezen budgetten.
 
@@ -186,7 +186,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2019-06-06&g=2019-03-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2019-06-06&g=2019-06-06), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -210,7 +210,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het verlenen van ondermandaat door een directeur is de goedkeuring vereist door de desbetreffende leidinggevende functionaris. Voor machtiging om op te treden in gerechtelijke procedures en ondermandaat inzake het passeren van notariële akten is de goedkeuring niet vereist.
 
-3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.
+3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging en plaatsing op het intranet en de internetsite van het Ministerie of het betreffende dienstonderdeel.
 
 4. De functionarissen genoemd in lid 3 houden een register bij van de handtekeningen van de functionarissen, waarvan het mandaat door hen bekend is gemaakt.
 
@@ -224,7 +224,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2019-06-06&g=2019-03-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2019-06-06&g=2019-06-06),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -246,7 +246,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2019-06-06&g=2019-03-01), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2019-06-06&g=2019-03-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2019-06-06&g=2019-06-06), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2019-06-06&g=2019-06-06).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -270,7 +270,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - 2°. die door een directeur-generaal of de inspecteur-generaal van het onderwijs aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een andere directeur-generaal of inspecteur-generaal van het onderwijs moeten worden behandeld;
 
-- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2019-06-06&g=2019-03-01).
+- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2019-06-06&g=2019-06-06).
 
 2. Onverminderd het eerste lid hebben de secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs mandaat ten aanzien van personele besluiten betreffende onder hen ressorterende medewerkers tenzij bij wettelijk voorschrift anders is of wordt bepaald.
 
@@ -278,7 +278,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden en besluiten die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2019-06-06&g=2019-03-01) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2019-06-06&g=2019-06-06) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -304,7 +304,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2019-06-06&g=2019-03-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2019-06-06&g=2019-06-06) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -1312,7 +1312,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 1e. Inspectie van het onderwijs (Ivho)
 
-- 2e. Erfgoedinspectie
+- 2e. Inspectie Overheidsinformatie en Erfgoed
 
 - 3.2. organisatieonderdelen die rechtstreeks ressorteren onder de DGPV:
 
@@ -1456,17 +1456,33 @@ Voor de uitvoering van de activiteiten beschikt DG DUO over een eigen bedrijfsvo
 
 De inspecties hebben de volgende taken en verantwoordelijkheden:
 
-De Erfgoedinspectie ziet toe op de naleving van:
+De Inspectie Overheidsinformatie en Erfgoed heeft als taak toe te zien op de naleving van:
 
-- –. wet- en regelgeving op het gebied van het behoud en beheer van de rijkscollectie en van beschermde cultuurgoederen;
+- a). Het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van het beheer van overheidsinformatie en archieven door overheidsorganen;
 
-- –. de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en andere regelgeving op het gebied van het archiefbeheer door overheidsorganen;
+- b). het bepaalde bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) ten aanzien van de zorg voor en het beheer van overheidsinformatie en archieven in Caribisch Nederland;
 
-- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en andere regelgeving op het gebied van archeologische monumenten, opgravingen en vondsten;
+- c). het bepaalde bij of krachtens de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521). Dit betreft onder meer:
 
-- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en Besluiten op het gebied van beheer en behoud van gebouwde monumenten en beschermde stads en dorpsgezichten.
+- •. het stelsel van de archeologische monumentenzorg, waaronder certificering, opgravingen, vondsten en archeologische rijksmonumenten, op land en op zee;
 
-Zij rapporteert via de secretaris-generaal aan de bewindspersoon over de bevindingen en doet daarbij aanbevelingen.
+- •. het stelsel van de gebouwde en groene monumentenzorg, waaronder de instandhouding van rijksmonumenten door professionele organisaties voor monumentenbehoud (POM’s);
+
+- •. behoud en beheer van de rijkscollectie;
+
+- •. beschermde cultuurgoederen en verzamelingen in particulier en kerkelijk bezit;
+
+- •. in- en uitvoer van wettelijk beschermde cultuurgoederen van Nederland, EU-lidstaten en partijen bij de UNESCO-verdragen van 1954 en 1970;
+
+- d). Het bepaalde bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) ([Sanctieregeling Irak 2004 II](https://wetten.overheid.nl/jci1.3:c:BWBR0016722) en [Sanctieregeling Syrië 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031305)).
+
+De Inspectie Overheidsinformatie en Erfgoed verleent vergunningen voor uitvoer van cultuurgoederen die uit de EU worden uitgevoerd (artikel 4.23 Erfgoedwet, [Verordening (EG) 116/2009](32009R0116)), en is aangewezen als centrale autoriteit in de zin van [Richtlijn 2014/60](32014L0060)/EU.
+
+De Inspectie Overheidsinformatie en Erfgoed beschikt over een aantal inspecteurs dat is aangewezen als buitengewoon opsporingsambtenaar. Zij zijn op grond van [artikel 8.4 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=8.4) belast met de opsporing van bepaalde strafbare feiten met betrekking tot cultureel erfgoed.
+
+De Inspectie Overheidsinformatie en Erfgoed voert haar toezichtstaken uit overeenkomstig de [Aanwijzingen inzake de rijksinspecties](onbekend). Zij informeert de beleidsonderdelen van het ministerie en uitvoeringsdiensten over de uitvoering van bestaande regels en de werking van beleid in de praktijk, en informeert de beleidsinhoudelijk verantwoordelijke minister, zo nodig rechtstreeks, over haar bevindingen, oordelen, adviezen en andere relevante gegevens.
+
+Op grond van genoemde Aanwijzingen en [artikel 25b, tweede lid, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25b) biedt de Inspectie Overheidsinformatie en Erfgoed jaarlijks een verslag aan over de wijze waarop toezicht is gehouden en over de resultaten van het toezicht.
 
 De inspectie heeft de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3). Voor alle onderwijssectoren geldt voorts dat de inspectie jaarlijks het verslag over de staat van het onderwijs, bedoeld in [artikel 23, achtste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=23), vaststelt.
 
