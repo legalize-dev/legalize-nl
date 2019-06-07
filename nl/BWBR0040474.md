@@ -4,7 +4,7 @@ identifier: "BWBR0040474"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-08-07"
-last_updated: "2018-01-01"
+last_updated: "2019-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040474"
 soort: "beleidsregel"
@@ -127,13 +127,33 @@ Tegen de uitspraak van Hof ’s Hertogenbosch is cassatie ingesteld.
 
 Gelet op de overgangsbepaling in [artikel V van de Wet afschaffing van de btw-landbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0040448&artikel=V) (zie noot 1) moet de landbouwer die op 31 december 2017 gebruik maakt van de landbouwregeling de herzienings-btw voor de resterende herzieningsperiode in één keer in aftrek brengen. Dit geldt voor zover deze goederen en diensten voor belaste handelingen zullen worden gebruikt gedurende de periode waarover herziening plaatsvindt. Hij moet dit doen op een aangifte over een door de landbouwer zelf te kiezen belastingtijdvak dat aanvangt in 2018. Met betrekking tot nog niet in gebruik genomen goederen en diensten moet de landbouwer de aangifte uiterlijk indienen in het belastingtijdvak waarin de landbouwer de goederen en diensten in gebruik neemt.
 
-### 4. Goedkeuringen bij handel in bloembollen
+### 3.2. Gebruiksvee-arresten van de Hoge Raad
+
+De Hoge Raad heeft in vijf arresten op 7 juni 20193HR 7 juni 2019, nrs. 17/05587, 17/05589 t/m 17/05592, ECLI:NL:HR:2019:863 t/m 867 (hierna: gebruiksvee-arresten) beslist dat de btw kan worden herzien4Artikel 15, vierde en zesde lid, van de Wet die in rekening is gebracht ter zake van de opfokkosten5Zoals bijvoorbeeld kosten voor voer, dierenarts, water en elektriciteit van kalveren (jongvee) tot melkkoeien. De gebruiksvee-arresten kunnen gevolgen hebben voor ondernemers voor wie op 1 januari 2018 de landbouwregeling verplicht eindigde en mogelijk ook voor ondernemers die vóór die datum de regeling vrijwillig hebben beëindigd. De betreffende ondernemers kunnen in bepaalde gevallen de btw op de hiervoor bedoelde opfokkosten alsnog herzien. Uit praktische overwegingen zijn hierna goedkeuringen opgenomen die het mogelijk maken om de btw in één keer te herzien door het indienen van een suppletieaangifte over 2019 en de herzienings-btw te berekenen op basis van forfaitaire percentages. Er wordt daarbij onderscheid gemaakt tussen de situatie waarin tijdig bezwaar/beroep is ingesteld en de situatie waarin dat niet is gebeurd.
+
+### 3.2.1. Goedkeuringen
+
+Omdat de omvang van de opfokkosten in veel gevallen niet voor elk dier afzonderlijk te bepalen is, keur ik het volgende goed met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule).
+
+Ik keur goed dat de ondernemer bij de berekening van de btw-herzieningsbedragen die het rechtstreekse gevolg zijn van de gebruiksvee-arresten, de hierna vermelde forfaitaire percentages hanteert.
+
+### 4.2. Goedkeuring afrekeningen leveringen bloembollen niet over de veiling
+
+Als de ondernemer niet tijdig bezwaar heeft gemaakt of beroep heeft aangetekend tegen de aangifte over het tijdvak waarin de herziening per 31 december 2017 ter zake van het jongvee en/of melkvee moe(s)t worden verwerkt, gelden de volgende uitgangspunten:
+
+De ondernemer kan de herzienings-btw als volgt berekenen.
+
+### 4.3. Goedkeuring nultarief leveringen bloembollen aan afnemers die bloembollen intracommunautair plegen te leveren of plegen uit te voeren naar niet EU-landen
+
+Ik keur goed dat de ondernemer de hiervóór bedoelde herziening die voortvloeit uit de gebruiksvee-arresten voor alle herzieningsjaren in één keer opneemt in een suppletieaangifte over het jaar 2019 voor zover deze btw nog niet in aftrek is gebracht.
+
+Voor deze goedkeuring gelden de volgende vijf voorwaarden:
 
 Om tegemoet te komen aan bezwaren die zijn verbonden aan een onverkorte toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) bij de handel in bloembollen, keur ik met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) goed dat bij de handel in bloembollen als volgt wordt gehandeld.
 
-### 4.1. Goedkeuring afrekeningen leveringen bloembollen over de veiling
+Voor door de veiling verrichte leveringen van bloembollen die niet vallen onder deze goedkeuring moet de veiling btw voldoen naar het verlaagde tarief. Het bij de goedkeuring in onderdeel 4.1 onder de punten 1 t/m 3 vermelde is op deze leveringen van toepassing.
 
-Ik keur onder voorwaarden het volgende goed.
+### 4.4. In- en verkoopbureaus van bloembollen
 
 Voor deze goedkeuring gelden de volgende vier voorwaarden:
 
@@ -149,13 +169,27 @@ Ik keur onder de volgende voorwaarden goed dat veilingen, kwekers van bloembolle
 
 Voor deze goedkeuring gelden de volgende vijf voorwaarden:
 
-Zij moeten de omzet totaliseren per hiervoor genoemde categorie en per tijdvak waarover aangifte moet worden gedaan.
+### 6. Ingetrokken regelingen
 
 Voor door de veiling verrichte leveringen van bloembollen die niet vallen onder deze goedkeuring moet de veiling btw voldoen naar het verlaagde tarief. Het bij de goedkeuring in onderdeel 4.1 onder de punten 1 t/m 3 vermelde is op deze leveringen van toepassing.
 
 ### 4.4. In- en verkoopbureaus van bloembollen
 
 In- en verkoopbureaus van bloembollen bemiddelen bij de totstandkoming van overeenkomsten tot levering van bloembollen. Er vindt in deze gevallen geen levering plaats aan en door het in- en verkoopbureau. Onderdeel 4.1 is daarom niet van toepassing op de prestaties van deze in- en verkoopbureaus. Over de bemiddelingsprestaties zijn zij btw verschuldigd naar het algemene tarief.
+
+Dit besluit wordt in de Staatscourant gepubliceerd.
+
+Als de ondernemer tijdig bezwaar heeft gemaakt of beroep heeft aangetekend tegen de aangifte over het tijdvak waarin de herziening per 31 december 2017 ter zake van het jongvee en/of de melkkoeien moe(s)t worden verwerkt, kan de ondernemer de herzienings-btw als volgt berekenen.
+
+Daarnaast keur ik uit praktische overwegingen het volgende goed met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule).
+
+### 4. Goedkeuringen bij handel in bloembollen
+
+### 4.1. Goedkeuring afrekeningen leveringen bloembollen over de veiling
+
+Ik keur onder voorwaarden het volgende goed.
+
+Zij moeten de omzet totaliseren per hiervoor genoemde categorie en per tijdvak waarover aangifte moet worden gedaan.
 
 ### 5. Handel in boomkwekerijproducten
 
