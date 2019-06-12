@@ -4,7 +4,7 @@ identifier: "BWBR0032405"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-01-02"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032405"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Besluit:
 
 - w. **medisch hulpmiddel voor in-vitrodiagnostiek:** medisch hulpmiddel voor in-vitrodiagnostiek in de zin van artikel 1, tweede lid, onder b, van [richtlijn 98/79/EG](31998L0079) van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitrodiagnostiek (PbEU 1998, L 331/1);
 
-- x. **niet voor de weg bestemde en uitsluitend voor het beroepsmatig gebruik beschikbaar gestelde mobiele machine:** machine met een interne krachtbron, waarvan de bediening ofwel mobiliteit vereist, ofwel permanente of semi- permanente verplaatsing tussen een reeks vaste werklocaties tijdens het werk, en die uitsluitend beschikbaar wordt gesteld voor beroepsmatig gebruik;
+- x. **niet voor de weg bestemde en uitsluitend voor het beroepsmatig gebruik beschikbaar gestelde mobiele machine:** machine met een interne krachtbron of met tractieaandrijving door een externe krachtbron, waarvan de bediening ofwel mobiliteit vereist, ofwel permanente of semi- permanente verplaatsing tussen een reeks vaste werklocaties tijdens het werk, en die uitsluitend beschikbaar wordt gesteld voor beroepsmatig gebruik;
 
 - y. **op de markt aanbieden:** in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van elektrische en elektronische apparatuur met het oog op distributie, consumptie of gebruik op de markt in de Europese Unie;
 
@@ -128,9 +128,11 @@ Besluit:
 
 - h. actieve, implanteerbare medische hulpmiddelen,
 
-- i. fotovoltaïsche panelen die bestemd zijn voor gebruik in een systeem dat door vakmensen is ontworpen, gemonteerd en geïnstalleerd voor permanent gebruik op een bepaalde plaats om energie uit zonlicht te produceren voor openbare, commerciële, industriële en residentiële toepassingen, en
+- i. fotovoltaïsche panelen die bestemd zijn voor gebruik in een systeem dat door vakmensen is ontworpen, gemonteerd en geïnstalleerd voor permanent gebruik op een bepaalde plaats om energie uit zonlicht te produceren voor openbare, commerciële, industriële en residentiële toepassingen,
 
-- j. apparatuur die (speciaal) is ontworpen uitsluitend voor doeleinden van onderzoek en ontwikkeling en die uitsluitend door een bedrijf aan een ander bedrijf ter beschikking wordt gesteld.
+- j. apparatuur die (speciaal) is ontworpen uitsluitend voor doeleinden van onderzoek en ontwikkeling en die uitsluitend door een bedrijf aan een ander bedrijf ter beschikking wordt gesteld, en
+
+- k. pijporgels.
 
 #### § 2. **Verbodsbepalingen**
 
@@ -142,9 +144,11 @@ Besluit:
 
 - a. vóór 22 juli 2014 in de handel gebrachte medische hulpmiddelen en meet- en regelapparatuur,
 
-- b. vóór 22 juli 2016 in de handel gebrachte medische hulpmiddelen voor in-vitrodiagnostiek, en
+- b. vóór 22 juli 2016 in de handel gebrachte medische hulpmiddelen voor in-vitrodiagnostiek,
 
-- c. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur.
+- c. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur, en
+
+- d. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was.
 
 3. Het eerste lid is niet van toepassing op kabels of reserveonderdelen voor reparatie, het hergebruik, het aanpassen van de functionele aspecten of het verbeteren van de capaciteit van:
 
@@ -154,13 +158,25 @@ Besluit:
 
 - c. vóór 22 juli 2016 in de handel gebrachte medische hulpmiddelen voor in-vitrodiagnostiek,
 
-- d. vóór 22 juli 2014 in de handel gebrachte meet- en regelapparatuur, en
+- d. vóór 22 juli 2014 in de handel gebrachte meet- en regelapparatuur,
 
-- e. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur.
+- e. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur,
 
-- f. elektrische en elektronische apparatuur waarvoor de Europese Commissie vrijstelling heeft verleend en die voor het tijdstip waarop de vrijstelling eindigt in de handel is gebracht, voor zover het die specifieke vrijstelling betreft.
+- f. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was, en
 
-4. Het eerste lid is niet van toepassing op hergebruikte reserveonderdelen die worden herwonnen uit elektrische en elektronische apparatuur die vóór 1 juli 2006 in de handel is gebracht, en gebruikt in apparatuur die vóór 1 juli 2016 in de handel is gebracht, mits het hergebruik plaatsvindt in controleerbare, gesloten business-to-business retoursystemen en de consument in kennis wordt gebracht van het hergebruik van reserveonderdelen.
+- g. elektrische en elektronische apparatuur waarvoor de Europese Commissie vrijstelling heeft verleend en die voor het tijdstip waarop de vrijstelling eindigt in de handel is gebracht, voor zover het die specifieke vrijstelling betreft.
+
+4. Het eerste lid is, mits het hergebruik plaatsvindt in controleerbare, gesloten business-to-business inruilsystemen en de consument in kennis wordt gesteld van het hergebruik van reserveonderdelen, niet van toepassing op hergebruikte reserveonderdelen:
+
+- a. die worden herwonnen uit elektrische en elektronische apparatuur die vóór 1 juli 2006 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 1 juli 2016 in de handel is gebracht,
+
+- b. die worden herwonnen uit medische hulpmiddelen of meet- en regelapparatuur die vóór 22 juli 2014 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2024 in de handel is gebracht,
+
+- c. die worden herwonnen uit medische hulpmiddelen voor in-vitrodiagnostiek die vóór 22 juli 2016 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2026 in de handel is gebracht,
+
+- d. die worden herwonnen uit industriële meet- en regelapparatuur die vóór 22 juli 2017 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2027 in de handel is gebracht, en
+
+- e. die worden herwonnen uit alle overige elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013 niet van toepassing was en die vóór 22 juli 2019 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2029 in de handel is gebracht.
 
 5. Het eerste lid is niet van toepassing op de in de bijlagen III en IV van [richtlijn nr. 2011/65](32011L0065)/EU genoemde toepassingen.
 
@@ -174,9 +190,9 @@ Besluit:
 
 - b. voeren de vastgestelde interne productiecontroles overeenkomstig module A van bijlage II bij besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218/101) uit of laten deze uitvoeren,
 
-- c. stellen een EU-conformiteitsverklaring op bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=4&artikel=10&z=2013-01-02&g=2013-01-02), wanneer met de onder b bedoelde procedures is aangetoond dat de elektrische en elektronische apparatuur voldoet aan de toepasselijke eisen en brengen de CE-markering aan op het eindproduct.
+- c. stellen een EU-conformiteitsverklaring op bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=4&artikel=10&z=2019-06-12&g=2019-06-12), wanneer met de onder b bedoelde procedures is aangetoond dat de elektrische en elektronische apparatuur voldoet aan de toepasselijke eisen en brengen de CE-markering aan op het eindproduct.
 
-2. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste zo streng is als de procedures bedoeld in het eerste lid, onder b, kan het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02), worden geleverd in die procedure en volstaat opstelling van één enkele technische documentatie.
+2. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste zo streng is als de procedures bedoeld in het eerste lid, onder b, kan het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12), worden geleverd in die procedure en volstaat opstelling van één enkele technische documentatie.
 
 3. Een fabrikant bewaart de technische documentatie en de EU-conformiteitsverklaring van elektrische en elektronische apparatuur tot ten minste 10 jaar nadat deze in de handel is gebracht;
 
@@ -204,13 +220,13 @@ Besluit:
 
 1. Een fabrikant kan met een schriftelijk mandaat een gemachtigde aanstellen die ten minste de volgende taken verricht:
 
-- a. het bewaren van de EU-conformiteitsverklaring en de technische documentatie tot ten minste 10 jaar na het in de handel brengen van elektrische en elektronische apparatuur bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02),
+- a. het bewaren van de EU-conformiteitsverklaring en de technische documentatie tot ten minste 10 jaar na het in de handel brengen van elektrische en elektronische apparatuur bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12),
 
-- b. het op een met redenen omkleed verzoek van het bevoegd gezag verstrekken van alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen als bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02), en
+- b. het op een met redenen omkleed verzoek van het bevoegd gezag verstrekken van alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen als bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12), en
 
-- c. het op verzoek van het bevoegd gezag verlenen van medewerking aan genomen maatregelen om te zorgen dat elektrische en elektronische apparatuur onder het mandaat voldoet aan deze regeling bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02).
+- c. het op verzoek van het bevoegd gezag verlenen van medewerking aan genomen maatregelen om te zorgen dat elektrische en elektronische apparatuur onder het mandaat voldoet aan deze regeling bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12).
 
-2. De verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02) en het opstellen van technische documentatie maken geen deel uit van het mandaat van de gemachtigde.
+2. De verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12) en het opstellen van technische documentatie maken geen deel uit van het mandaat van de gemachtigde.
 
 ##### Artikel 6. Verplichtingen van importeurs
 
@@ -222,9 +238,9 @@ Besluit:
 
 - c. de elektrische en elektronische apparatuur is voorzien van de vereiste CE-markering en vergezeld gaat van de vereiste documenten, en
 
-- d. de fabrikant aan [artikel 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02), heeft voldaan.
+- d. de fabrikant aan [artikel 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12), heeft voldaan.
 
-2. Indien een importeur van mening is dat of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
+2. Indien een importeur van mening is dat of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
 
 3. Een importeur vermeldt zijn naam, geregistreerde handelsnaam of geregistreerde merknaam en contactadres op de elektrische en elektronische apparatuur, of wanneer dit niet mogelijk is, op de verpakking of een bij de elektrische en elektronische apparatuur gevoegd document.
 
@@ -250,9 +266,9 @@ Besluit:
 
 - a. de nodige zorgvuldigheid in verband met de toepasselijke eisen is betracht, met name door het controleren of de elektrische en elektronische apparatuur voorzien is van de CE-markering en vergezeld gaat van de vereiste documenten in een taal die consumenten en andere eindgebruikers, kunnen begrijpen, en
 
-- b. de fabrikant of de importeur aan de [artikelen 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02), en [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=6&z=2013-01-02&g=2013-01-02), heeft voldaan.
+- b. de fabrikant of de importeur aan de [artikelen 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12), en [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=6&z=2019-06-12&g=2019-06-12), heeft voldaan.
 
-2. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
+2. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
 
 3. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde door hem in de handel gebrachte elektrische en elektronische apparatuur niet voldoet aan deze regeling:
 
@@ -268,7 +284,7 @@ Besluit:
 
 ##### Artikel 8. Gevallen waarin de verplichtingen van fabrikanten van toepassing zijn op importeurs en distributeurs
 
-Importeurs of distributeurs worden als fabrikant beschouwd en dienen te voldoen aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2013-01-02&g=2013-01-02) indien zij elektrische en elektronische apparatuur onder eigen naam of merknaam in de handel brengen of reeds in de handel gebrachte elektrische en elektronische apparatuur zodanig wijzigt dat overeenstemming met deze regeling niet meer vaststaat.
+Importeurs of distributeurs worden als fabrikant beschouwd en dienen te voldoen aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2019-06-12&g=2019-06-12) indien zij elektrische en elektronische apparatuur onder eigen naam of merknaam in de handel brengen of reeds in de handel gebrachte elektrische en elektronische apparatuur zodanig wijzigt dat overeenstemming met deze regeling niet meer vaststaat.
 
 ##### Artikel 9. Identificatie van marktdeelnemers
 
@@ -280,13 +296,13 @@ Marktdeelnemers verstrekken op verzoek van het bevoegd gezag gedurende een perio
 
 ##### Artikel 10. Eu-conformiteitsverklaring
 
-1. In de EU-conformiteitsverklaring bij elektrische en elektronische apparatuur wordt vermeld dat aangetoond is dat niet in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02) is gehandeld.
+1. In de EU-conformiteitsverklaring bij elektrische en elektronische apparatuur wordt vermeld dat aangetoond is dat niet in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12) is gehandeld.
 
 2. De structuur van de EU-conformiteitsverklaring komt overeen met het model in bijlage VI van [richtlijn nr. 2011/65](32011L0065)/EU, bevat de daarin vermelde elementen en wordt voortdurend bijgewerkt.
 
 3. Een EU-conformiteitsverklaring voor in Nederland in de handel brengen of op de markt aanbieden van elektrische en elektronische apparatuur is gesteld in het Nederlands of Engels.
 
-4. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste net zo streng is als deze regeling, kan voor het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02), worden volstaan met die procedure en de opstelling van één enkele technische documentatie.
+4. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste net zo streng is als deze regeling, kan voor het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12), worden volstaan met die procedure en de opstelling van één enkele technische documentatie.
 
 5. Door het opstellen van een EU-conformiteitsverklaring neemt de fabrikant de verantwoordelijkheid voor de conformiteit van de elektrische en elektronische apparatuur met deze regeling.
 
@@ -304,13 +320,13 @@ De CE-markering van elektrische en elektronische apparatuur voldoet aan de algem
 
 1. Indien het bewijs van het tegendeel ontbreekt, wordt door het bevoegd gezag verondersteld dat elektrische en elektronische apparatuur die van een CE-markering is voorzien, voldoet aan deze regeling.
 
-2. Materialen, componenten en elektrische en elektronische apparatuur die proeven en metingen hebben ondergaan waarbij is gebleken dat wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02), of die zijn beoordeeld overeenkomstig in EU-verband geharmoniseerde normen, waarvan de referenties zijn gepubliceerd in het Publicatieblad van de Europese Unie, gelden als in overeenstemming met deze regeling.
+2. Materialen, componenten en elektrische en elektronische apparatuur die proeven en metingen hebben ondergaan waarbij is gebleken dat wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2019-06-12&g=2019-06-12), of die zijn beoordeeld overeenkomstig in EU-verband geharmoniseerde normen, waarvan de referenties zijn gepubliceerd in het Publicatieblad van de Europese Unie, gelden als in overeenstemming met deze regeling.
 
 #### § 4*. **Overgangsrecht**
 
 ##### Artikel 14
 
-Onverminderd [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2&artikel=3&z=2013-01-02&g=2013-01-02), is deze regeling tot 22 juli 2019 niet van toepassing op elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde voor 2 januari 2013, niet van toepassing was.
+Vervallen
 
 #### § 5. **Slotbepalingen**
 
