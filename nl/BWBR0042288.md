@@ -4,7 +4,7 @@ identifier: "BWBR0042288"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-06-21"
-last_updated: "2008-02-13"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042288"
 soort: "beleidsregel"
@@ -39,8 +39,6 @@ entry_into_force: "2019-06-14"
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
-
-Deze beleidsregel werkt per arbocatalogus terug tot en met de in de bijlage bij deze beleidsregel vermelde datum van de brief met de uitkomsten van de toetsing van de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 1. Begripsbepaling
 
@@ -92,7 +90,7 @@ Een arbocatalogus kan op gezamenlijk verzoek van vertegenwoordigers van werkgeve
 
 - b. in het geval, bedoeld in het derde lid, na het verstrijken van de termijn, genoemd in de aanhef van het vierde lid.
 
-5. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=2&z=2019-06-14&g=2008-02-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=3&z=2019-06-14&g=2008-02-13) zijn ten aanzien van het hernieuwde verzoek om toetsing van overeenkomstige toepassing.
+5. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=2&z=2019-06-14&g=2019-06-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=3&z=2019-06-14&g=2019-06-14) zijn ten aanzien van het hernieuwde verzoek om toetsing van overeenkomstige toepassing.
 
 ##### Artikel 5. Aanvullende maatregelen op bedrijfsniveau
 
@@ -122,7 +120,7 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel arbocatalogi 2019.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=6&z=2019-06-14&g=2008-02-13) van de Beleidsregel arbocatalogi 2019
+## Bijlage. als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042288&artikel=6&z=2019-06-14&g=2019-06-14) van de Beleidsregel arbocatalogi 2019
 
 | Werkgebied (branche/sector/landelijk) | Voorschriften Arbeidsomstandighedenwetgeving | Risico’s op het gebied van arbeidsomstandigheden | Arbocatalogus/Datum toetsbrief ISZW |
 | --- | --- | --- | --- |
