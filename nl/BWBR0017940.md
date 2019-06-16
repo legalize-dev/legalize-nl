@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2015-05-13"
+last_updated: "2019-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -112,17 +112,19 @@ In deze regeling wordt verstaan onder:
 
 - n. exploitant van een luchtvaartuig: iedere natuurlijk persoon, iedere rechtspersoon met of zonder winstoogmerk of ieder overheidslichaam met of zonder rechtspersoonlijkheid dat een of meer luchtvaartuigen exploiteert of voornemens is te exploiteren;
 
-- o. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (‘Spoorwegveiligheidsrichtlijn’) (PbEG L 220);
+- o. spoorwegveiligheidsrichtlijn: richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138);
 
 - p. richtlijn 2009/18/EG: richtlijn nr. 2009/18/EG van het Europees Parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de scheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU 2009, L 131);
 
-- q. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794).
+- q. spoorweg: een spoorwegsysteem als bedoeld in de spoorwegveiligheidsrichtlijn, voor zover dat systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794);
+
+- r. Europees Spoorwegbureau: het Spoorwegbureau van de Europese Unie, bedoeld in Verordening (EU) 2016/796 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Spoorwegbureau van de Europese Unie en tot intrekking van [Verordening (EG) nr. 881/2004](32004R0881) (PbEU 2016, L 138).
 
 #### § 2. Toepasselijkheid
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2015-05-13&g=2015-05-13) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2019-06-16&g=2019-06-16) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -130,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2015-05-13&g=2015-05-13) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2019-06-16&g=2019-06-16) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -272,7 +274,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg of een vliegtuig met straalmotoren.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2019-06-16&g=2019-06-16), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -432,7 +434,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).
+1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau.
 
 2. De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.
 
@@ -444,15 +446,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17a
 
-1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zo veel mogelijk vastgesteld conform het model in bijlage V bij richtlijn 2004/49/EG.
+1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zoveel mogelijk vastgesteld conform de rapportagestructuur die bij uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn door de Europese Commissie worden vastgesteld.
 
-2. Een rapport als bedoeld in het eerste lid, wordt toegezonden aan het aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’)(PbEG L 164).
+2. Een wijziging van de uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-3. Het voor de veiligheid op het spoor aangewezen orgaan van de Europese Unie, bedoeld in het tweede lid, wordt jaarlijks tevens een exemplaar van het jaarverslag toegezonden.
+3. Een rapport als bedoeld in het eerste lid, wordt, met inbegrip van de veiligheidsaanbevelingen, toegezonden aan de in [artikel 11d, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11d) genoemde partijen, alsmede aan de betrokken organen en partijen in andere lidstaten.
+
+4. De raad zendt het Europees Spoorwegbureau jaarlijks een exemplaar van het jaarverslag toe.
 
 ##### Artikel 17b
 
-Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2015-05-13&g=2015-05-13), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+Vervallen
 
 #### § 10. Vergoedingen
 
@@ -462,7 +466,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a
 
-Indien de raad een onderzoek instelt naar een voorval, waar een spoorwegonderneming als bedoeld in artikel 3, onder c, van richtlijn 2004/49/EG met een vergunning van een andere lidstaat bij betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 21 van richtlijn 2004/49/EG, van die lidstaat uit deel te nemen aan het onderzoek.
+Indien de raad een onderzoek instelt naar een voorval, waarbij een spoorwegonderneming als bedoeld in artikel 3, aanhef en onder 3, van de spoorwegveiligheidsrichtlijn, met een vergunning van een andere lidstaat betrokken is of waarbij een in een andere lidstaat geregistreerd of onderhouden voertuig betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 22 van de spoorwegveiligheidsrichtlijn, van die lidstaat uit deel te nemen aan het onderzoek.
 
 #### § 9. Rapport
 
