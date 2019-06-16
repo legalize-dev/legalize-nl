@@ -473,21 +473,3 @@ Deze regeling treedt in werking met ingang van 16 juni 2019.
 Deze regeling wordt aangehaald als: Regeling interoperabiliteit en veiligheid spoorwegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 34a. Spoorvoertuig voor strikt historisch gebruik
-
-1. Ten aanzien van een spoorvoertuig voor strikt historisch gebruik dat hoofdzakelijk wordt gebruikt op infrastructuur als bedoeld in artikel 2, derde lid, onderdeel b, van de spoorwegveiligheidsrichtlijn, is aan de verplichting, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), voldaan als de met het onderhoud belaste entiteit een onderhoudssysteem heeft dat voldoet aan Bijlage III van de spoorwegveiligheidsrichtlijn.
-
-2. Onze Minister past het eerste lid toe overeenkomstig artikel 15, tweede lid, van spoorwegveiligheidsrichtlijn.
-
-### Hoofdstuk 4. Handhaving
-
-### Hoofdstuk 5. Wijziging van andere ministeriële regelingen
-
-#### § 1. Wijziging van de [Regeling indienststelling spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0031350)
-
-#### § 2. Wijziging van de [Regeling Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940)
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
