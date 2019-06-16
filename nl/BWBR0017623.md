@@ -4,7 +4,7 @@ identifier: "BWBR0017623"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-16"
-last_updated: "2016-07-01"
+last_updated: "2019-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017623"
 soort: "AMvB"
@@ -51,11 +51,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van Richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (Spoorwegveiligheidsrichtlijn) (PbEG L 164);
-
-- b. veiligheidszorgsysteem: veiligheidszorgsysteem als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32);
-
-- c. wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 ### Hoofdstuk 2. Bedrijfsvergunning
 
@@ -87,11 +83,11 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 ##### Artikel 4
 
-1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2016-07-01&g=2016-07-01) van overeenkomstige toepassing.
+1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2019-06-16&g=2019-06-16) van overeenkomstige toepassing.
 
 2. Indien natuurlijke personen dan wel rechtspersonen gezamenlijk als spoorwegonderneming optreden, voldoet ieder van de natuurlijke personen en ieder van de bestuurders van de rechtspersonen aan het vereiste van goede naam.
 
-3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2016-07-01&g=2016-07-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2016-07-01&g=2016-07-01) op die ander van overeenkomstige toepassing.
+3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2019-06-16&g=2019-06-16), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2019-06-16&g=2019-06-16) op die ander van overeenkomstige toepassing.
 
 #### § 3. Financiële draagkracht
 
@@ -137,7 +133,7 @@ Aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 28, eerste lid, van
 
 3. Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2019-06-16&g=2019-06-16), is van overeenkomstige toepassing.
 
 5. Het soort van gebruik van de hoofdspoorweg, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) waarvoor Onze Minister de vereisten van goede naam, financiële draagkracht en beroepsbekwaamheid alsmede de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht buiten toepassing kan laten is: alle taken, voortvloeiende uit de zorg voor beheer, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16), zoals uitgevoerd door een beheerder.
 
@@ -175,7 +171,7 @@ Voor de verlening van een bedrijfsvergunning maakt Onze Minister gebruik van een
 
 ##### Artikel 13
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2016-07-01&g=2016-07-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2019-06-16&g=2019-06-16), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28),
 
@@ -183,7 +179,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 - c. een bewijs van dekking van de uit wettelijke aansprakelijkheid voortvloeiende financiële risico’s, en
 
-- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2016-07-01&g=2016-07-01).
+- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2019-06-16&g=2019-06-16).
 
 #### § 10. Overig
 
@@ -191,7 +187,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de verlening, weigering, wijziging, schorsing of intrekking van een bedrijfsvergunning.
 
-### Hoofdstuk 3. Het veiligheidscertificaat
+### Hoofdstuk 3. Enkele vrijstellingen verplichting veiligheidscertificaat
 
 ##### Artikel 15
 
@@ -199,43 +195,25 @@ Vervallen
 
 ##### Artikel 16
 
-1. Een aanvraag voor een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) bevat ten minste de bij ministeriële regeling bepaalde gegevens en bescheiden.
-
-2. De houder van een veiligheidscertificaat draagt er zorg voor dat het veiligheidsbeheersysteem blijft beschikken over:
-
-- a. een geldig A-certificaat, bedoeld in [artikel 32, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) dan wel een geldig daarmee gelijkgesteld certificaat, bedoeld in artikel 32, tweede lid, van de wet; en
-
-- b. een geldig B-certificaat, bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
-
-3. Een B-certificaat als bedoeld in [artikel 32, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) is slechts geldig indien de spoorwegonderneming beschikt over een geldig A-certificaat als bedoeld in artikel 32, eerste lid, onderdeel a, van de wet.
-
-4. De houder van een veiligheidscertificaat maakt binnen een jaar na de afgifte daarvan gebruik van hoofdspoorwegen.
-
-5. De houder van een veiligheidscertificaat ten aanzien waarvan Onze Minister een A-certificaat als bedoeld in [artikel 32, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), heeft verleend, maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen in dat certificaat ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidscertificaat of voor de daaraan verbonden beperkingen en voorschriften.
+Vervallen
 
 ##### Artikel 17
 
-Onze Minister kan een proefcertificaat als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=34) verlenen, indien de spoorwegonderneming aannemelijk maakt dat zij gedurende de geldigheidsduur van het proefcertificaat op verantwoorde wijze gebruik kan maken van de hoofdspoorweg.
+Vervallen
 
 ##### Artikel 18
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van:
-
-- a. de wijziging of schorsing van het veiligheidscertificaat, en
-
-- b. de verlening, weigering, wijziging, schorsing of intrekking van het proefcertificaat.
+Vervallen
 
 ##### Artikel 19
 
-1. De houder van een veiligheidscertificaat ten aanzien waarvan [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
-
-2. Het jaarverslag bevat in elk geval de in artikel 9, vierde lid, onderdeel a tot en met d, van richtlijn 2004/49/EG bedoelde informatie.
+Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 20
 
-Een voor de inwerkingtreding van dit besluit door een onafhankelijke certificerende instantie opgestelde verklaring dat een onderneming voldoet aan de Veiligheid Gezondheid Milieu Checklist Aannemers met Branchegerichte Toelichting Railinfrastructuur, wordt tot een door de Minister te bepalen tijdstip aangemerkt als een proefcertificaat als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=34) met dien verstande dat dit proefcertificaat uitsluitend geldt voor het deelnemen aan het spoorverkeer met zelfrijdend gereedschap of een daarmee vergelijkbaar voertuig, om werkzaamheden aan of nabij de hoofdspoorweg uit te voeren, op een deel van de hoofdspoorweg dat buiten dienst is gesteld.
+Vervallen
 
 ##### Artikel 21
 
@@ -243,35 +221,21 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 ##### Artikel 22
 
-Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
+Dit besluit wordt aangehaald als: Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 16a
 
-1. De houder van een veiligheidscertificaat past een adequaat veiligheidsbeheersysteem toe, met behulp waarvan wordt gewaarborgd dat de spoorwegonderneming:
-
-- a. bij de normale bedrijfsvoering en bij voorzienbare afwijkingen daarvan geen schade berokkent en niemand onnodig hindert of in gevaar brengt en zorgt dat het spoorverkeer zo veel mogelijk zonder verstoringen kan worden afgewikkeld;
-
-- b. rekening houdt met de specifieke vereisten wanneer de normale bedrijfsvoering raakt aan die van andere gebruikers van de spoorweg of van de beheerder;
-
-- c. de aan de bedrijfsvoering verbonden risico's onderkent en passende maatregelen neemt om deze afdoende te beheersen en daarbij rekening houdt met de stand der techniek en de binnen de bedrijfstak aanwezige kennis en richtsnoeren voor een veilige bedrijfsvoering;
-
-- d. procedures vaststelt en hanteert voor het nemen van corrigerende maatregelen bij afwijkingen en incidenten, alsmede voor het voortdurend verbeteren van het veiligheidsniveau met het oog op zich wijzigende omstandigheden en op grond van opgedane ervaringen;
-
-- e. ervoor zorg draagt dat werknemers met een veiligheidsfunctie met het oog op het behouden van hun geschiktheid, kennis en bekwaamheid voor de desbetreffende functie de noodzakelijke oefening hebben en de noodzakelijke nadere of aanvullende scholing, opleiding en studie volgen.
-
-2. Het veiligheidsbeheersysteem is passend voor de aard en de omvang van de spoorwegonderneming.
-
-3. Een adequaat veiligheidsbeheersysteem als bedoeld in het eerste lid bevat ten minste de bij regeling van Onze Minister met inachtneming van bijlage III, van richtlijn 2004/49/EG vastgestelde bedrijfsprocessen.
+Vervallen
 
 ##### Artikel 17a
 
-Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidscertificaat als bedoeld in [artikel 33, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van dat certificaat niet meer voldoet aan [artikel 16, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01), en [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2016-07-01&g=2016-07-01).
+Vervallen
 
 ##### Artikel 19a
 
-Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2016-07-01&g=2016-07-01), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -285,54 +249,22 @@ Vrijgesteld van de verplichting te beschikken over een veiligheidscertificaat al
 
 - b. van de spoorwegen bedoeld in onderdeel a, enkel gebruik maakt met historische spoorvoertuigen;
 
-- c. een veiligheidsbeheersysteem toepast dat voldoet aan [artikel 16a, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2016-07-01&g=2016-07-01), en aan bij ministeriële regeling te stellen regels; en
+- c. een veiligheidsbeheersysteem als bedoeld in [artikel 32, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) toepast dat voldoet aan bij ministeriële regeling te stellen regels; en
 
 - d. aan Onze Minister heeft gemeld dat wordt voldaan aan de eisen, bedoeld in de onderdelen a, b en c.
 
 ##### Artikel 16c
 
-Vrijgesteld van de verplichting te beschikken over een veiligheidscertificaat als bedoeld in [artikel 27, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=27) is een spoorwegonderneming die:
-
-- a. enkel gebruik maakt van een hoofdspoorweg als bedoeld in [bijlage 2 behorende bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), voor zover die niet door lichtseinen is beveiligd, en enkel van het gedeelte van die hoofdspoorweg tot aan het eerste S-bord, gezien vanuit het terrein van het bedrijf dat is aangesloten op die hoofdspoorweg;
-
-- b. op de hoofdspoorwegen, bedoeld in onderdeel a, uitsluitend:
-
-- 1°. treinen splitst, opnieuw samenvoegt, aan- en afkoppelt, begeleidt, samenstelt, in een bepaalde volgorde manoeuvreert of een remproef uitvoert in het kader van het gereed maken voor vervoer of volgend op het vervoer door een spoorwegonderneming die beschikt over een geldig veiligheidscertificaat,
-
-- 2°. treinen opstelt voor het laden en lossen of in afwachting daarvan;
-
-- c. een veiligheidsbeheersysteem toepast dat voldoet aan [artikel 16a, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2016-07-01&g=2016-07-01), en aan bij ministeriële regeling te stellen regels; en
-
-- d. aan Onze Minister heeft gemeld dat wordt voldaan aan de eisen, bedoeld in de onderdelen a, b en c.
+Vervallen
 
 ##### Artikel 16d
 
-1. Als hoofdspoorwegen als bedoeld in [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) worden aangewezen:
-
-- a. Maastricht (Visé)- Belgische grens;
-
-- b. Roosendaal – Belgische grens;
-
-- c. Terneuzen – Belgische grens;
-
-- d. Bad Nieuweschans- Duitse grens;
-
-- e. Enschede – Duitse grens; en
-
-- f. Venlo – Duitse grens.
-
-2. Een gelijkstelling als bedoeld in [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), geldt voor een spoorwegonderneming:
-
-- a. die enkel gebruik maakt van hoofdspoorwegen als aangewezen in het eerste lid;
-
-- b. waarvan het veiligheidsbeheersysteem, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), het gebruik van een hoofdspoorweg als bedoeld in het eerste lid beschrijft; en
-
-- c. die aan Onze Minister heeft gemeld dat wordt voldaan aan eisen, bedoeld in de onderdelen a en b.
+Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 20a
 
-Na de inwerkingtreding van [artikel 20, onderdeel B, van het Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&artikel=20), berust de [Regeling veiligheidscertificaat hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017713) mede op de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01), [16b, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16b&z=2016-07-01&g=2016-07-01), en [16c, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16c&z=2016-07-01&g=2016-07-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=18&z=2016-07-01&g=2016-07-01) van het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
