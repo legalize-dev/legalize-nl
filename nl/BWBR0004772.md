@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2018-09-18"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
+1. Dit besluit geeft uitvoering aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=33a), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
 
 2. Dit besluit verstaat hierna onder wet: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
 
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2019-06-20&g=2018-09-18) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2019-06-20&g=2018-09-18), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2019-06-20&g=2019-06-20) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2019-06-20&g=2019-06-20), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2019-06-20&g=2018-09-18), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2019-06-20&g=2019-06-20), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2019-06-20&g=2018-09-18), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2019-06-20&g=2019-06-20), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
 ### Hoofdstuk IIIa. Overgangsbepaling
 
