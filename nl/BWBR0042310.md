@@ -4,7 +4,7 @@ identifier: "BWBR0042310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-06-22"
-last_updated: "2019-04-15"
+last_updated: "2019-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042310"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister voor Rechtsbescherming;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042310&artikel=2&z=2019-06-22&g=2019-04-15);
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042310&artikel=2&z=2019-06-22&g=2019-06-22);
 
 - c. **Ministerie:** Ministerie van Justitie en Veiligheid.
 
