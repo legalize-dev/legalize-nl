@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2018-09-29"
+last_updated: "2019-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemen
 
 ##### Artikel 3
 
-De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch ontwerp BSN, versie 1.4, dat als bijlage bij deze regeling is gevoegd, met dien verstande dat wordt verstaan onder:
+De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch ontwerp BSN, versie 1.5, dat als bijlage bij deze regeling is gevoegd, met dien verstande dat wordt verstaan onder:
 
 - a. **GBA:** de verzameling van gegevens over personen die als ingezetenen in de basisregistratie personen zijn ingeschreven en van wie de bijhouding plaatsvindt op grond van [afdeling 1 van hoofdstuk 2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&afdeling=1);
 
@@ -62,9 +62,7 @@ De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenumme
 
 - d. **RNI:** de verzameling van gegevens over personen die als niet-ingezetenen in de basisregistratie personen zijn ingeschreven en van wie de bijhouding plaatsvindt op grond van [afdeling 2 van hoofdstuk 2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&afdeling=2);
 
-- e. **RNI bij de Rijksdienst voor Identiteitsgegevens:** de centrale voorzieningen, bedoeld in [artikel 1.9 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9);
-
-- f. **sofinummer:** het sociaal-fiscaalnummer, bedoeld in [artikel 1, onderdeel g, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
+- e. **RNI bij de Rijksdienst voor Identiteitsgegevens:** de centrale voorzieningen, bedoeld in [artikel 1.9 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9).
 
 ##### Artikel 4
 
@@ -80,9 +78,9 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2019-06-22&g=2018-09-29)
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2019-06-22&g=2019-06-22)
 
-Ligt ter inzage bij de Rijksdienst voor Identiteitsgegevens (RvIG) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, Den Haag en gepubliceerd op www.rvig.nl.
+Deze bijlage wordt ter inzage gelegd en tevens via https://www.rvig.nl beschikbaar gesteld.
 
 ### Het Logisch Ontwerp BSN
 
