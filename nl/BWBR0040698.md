@@ -4,7 +4,7 @@ identifier: "BWBR0040698"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-11"
-last_updated: "2019-01-01"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040698"
 soort: "ministeriele-regeling-BES"
@@ -60,7 +60,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 3. (subsidiebedragen)
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2018-03-07&g=2019-01-01), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
 | Omschrijving | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -72,7 +72,8 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 | h. Extra subsidie op drinkwater Sint Eustatius | 212 | 212 |   |   |   |   |
 | i. Extra subsidie op drinkwater Bonaire (doorgeschoven uit 2017) | 1.200 |   |   |   |   |   |
 | j. Extra subsidie op drinkwater Sint Eustatius (doorgeschoven uit 2017) | 212 |   |   |   |   |   |
-| Totaal | 6.435 | 4.823 | 2.211 | 2.211 | 2.211 | 2.211 |
+| k. Extra subsidie op drinkwater Bonaire |   | 700 |   |   |   |   |
+| Totaal | 6.435 | 5.523 | 2.211 | 2.211 | 2.211 | 2.211 |
 
 ##### Artikel 4. (aanvraag)
 
@@ -80,7 +81,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2018-03-07&g=2019-01-01), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -100,7 +101,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 
 5. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2018-03-07&g=2019-01-01).
+6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25).
 
 ##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
@@ -140,11 +141,11 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2018-03-07&g=2019-01-01) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2019-06-25&g=2019-06-25) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2018-03-07&g=2019-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2018-03-07&g=2019-01-01) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2019-06-25&g=2019-06-25) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2019-06-25&g=2019-06-25) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
