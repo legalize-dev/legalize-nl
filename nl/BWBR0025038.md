@@ -4,7 +4,7 @@ identifier: "BWBR0025038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-06-26"
-last_updated: "2013-01-01"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025038"
 soort: "ministeriele-regeling"
@@ -154,7 +154,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de informatievoorziening en processen van verwerking van politiegegevens;
 
-- c. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) en de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+- c. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) en de Algemene verordening gegevensbescherming en [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940).
 
 3. De auditor is onafhankelijk ten opzichte van de auditee.
 
@@ -174,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de informatievoorziening en processen van verwerking van politiegegevens;
 
-- d. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) en de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+- d. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) en de Algemene verordening gegevensbescherming en [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940).
 
 3. De interne auditor stelt zich onafhankelijk op ten opzichte van de auditee.
 
