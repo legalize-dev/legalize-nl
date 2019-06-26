@@ -4,7 +4,7 @@ identifier: "BWBR0035372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2014-07-01"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035372"
 soort: "ministeriele-regeling"
@@ -232,7 +232,7 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 
 - d. bijzonderheden het voertuig betreffende;
 
-- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2014-07-01&g=2014-07-01);
+- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2019-07-16&g=2019-06-26);
 
 - f. conflict met medische behandelaar over de aanwezigheid van een transportgeleider bij een onderzoek;
 
@@ -257,5 +257,27 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 1. Deze regeling treedt in werking op 1 juli 2014.
 
 2. Deze regeling wordt aangehaald als: Regeling vervoer van justitiabelen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 6.11, eerste lid, onder b, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
+
+### Hoofdstuk 2. De transportuitvoering
+
+### Hoofdstuk 3. Algemene beveiliging
+
+### Hoofdstuk 4. Toezicht tijdens het transport
+
+### Hoofdstuk 5. Bagagedoos en preciosazak
+
+### Hoofdstuk 6. Voeding en verzorging van de justitiabele
+
+### Hoofdstuk 7. Bijzondere transporten
+
+### Hoofdstuk 8. Rapportageverplichtingen
+
+### Hoofdstuk 9. Slotbepaling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
