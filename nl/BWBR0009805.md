@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2018-08-01"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -1495,7 +1495,7 @@ De directeur wijst u in de mededeling op de mogelijkheid van het instellen van b
 
 **(op het navolgende onderwerp na aan de directeur)**
 
-(recht op inzage, verwijzing naar recht op kennisneming ingevolge [artikel 35 Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en weigeringsgronden uit [art. 43 Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43) )
+(recht op inzage, verwijzing naar recht op kennisneming ingevolge [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=18) en [artikel 51b van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51b) en weigeringsgronden uit [artikel 21 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=21) )
 
 **Nadere regelgeving**
 
@@ -1505,7 +1505,7 @@ De directeur wijst u in de mededeling op de mogelijkheid van het instellen van b
 
 - •.
 
-- [Wet bescherming persoonsgegevens; art. 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35), [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=43)
+- [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194); [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=18), [artikel 51b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51b) en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=21)
 
 **(Op de navolgende bepalingen en het onderwerp na, aan de directeur)**
 
