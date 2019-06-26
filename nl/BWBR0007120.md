@@ -4,7 +4,7 @@ identifier: "BWBR0007120"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-26"
-last_updated: "2017-07-01"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007120"
 soort: "AMvB"
@@ -52,13 +52,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. reclasseringsinstelling: een erkende instelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01);
+- b. reclasseringsinstelling: een erkende instelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2019-06-26&g=2019-06-26);
 
 - c. penitentiaire inrichting: een gevangenis, huis van bewaring of inrichting voor stelselmatige daders;
 
 - d. taakstraf: de taakstraf, bedoeld in [artikel 9, eerste lid, onderdeel a, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9);
 
-- e. klachtencommissie: de commissie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2017-07-01&g=2017-07-01).
+- e. klachtencommissie: de commissie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2019-06-26&g=2019-06-26).
 
 ##### Artikel 2
 
@@ -102,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01) kunnen onder verantwoordelijkheid van een reclasseringsinstelling bepaalde, door het bestuur van de reclasseringsinstelling vast te stellen, reclasseringswerkzaamheden worden verricht door:
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2019-06-26&g=2019-06-26) kunnen onder verantwoordelijkheid van een reclasseringsinstelling bepaalde, door het bestuur van de reclasseringsinstelling vast te stellen, reclasseringswerkzaamheden worden verricht door:
 
 - a. instellingen van maatschappelijke dienstverlening en
 
@@ -138,13 +138,13 @@ Reclasseringswerkers hebben voor de uitoefening van hun werkzaamheden vrije toeg
 
 - c. het voorbereiden en begeleiden van en het houden van toezicht op de uitvoering van de taakstraf en het voorbereiden en begeleiden van andere straffen of maatregelen, waarmee reclasseringsinstellingen bij of krachtens de wet zijn belast;
 
-- d. het opstellen van een indicatiestellingsadvies als bedoeld in [artikel 5, tweede lid, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=5) en de zorgtoeleiding namens Onze Minister, bedoeld in [artikel 6, eerste lid, tweede volzin, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=6).
+- d. het opstellen van een indicatiestelling als bedoeld in [artikel 1.1, eerste lid, onder e, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1) en de plaatsing namens Onze Minister, bedoeld in [artikel 6, eerste lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.1).
 
 2. Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten van advies omtrent onderwerpen die voor de reclassering van belang zijn.
 
 ##### Artikel 9
 
-Een reclasseringsinstelling kan uit eigen beweging of op verzoek van anderen, onder wie de betrokkene, voorlichting en advies als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=3&artikel=8&z=2017-07-01&g=2017-07-01), geven of doen geven.
+Een reclasseringsinstelling kan uit eigen beweging of op verzoek van anderen, onder wie de betrokkene, voorlichting en advies als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=3&artikel=8&z=2019-06-26&g=2019-06-26), geven of doen geven.
 
 ##### Artikel 10
 
@@ -250,7 +250,7 @@ De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te w
 
 ##### Artikel 24
 
-1. Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2017-07-01&g=2017-07-01) is vastgesteld, kan Onze Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
+1. Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2019-06-26&g=2019-06-26) is vastgesteld, kan Onze Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
 
 - a. de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
 
@@ -266,7 +266,7 @@ De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te w
 
 ##### Artikel 25
 
-Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2017-07-01&g=2017-07-01) is vastgesteld, kan Onze Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
+Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2019-06-26&g=2019-06-26) is vastgesteld, kan Onze Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
 - a. voor zover de subsidieverlening onjuist is; of
 
@@ -378,7 +378,7 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 38
 
-Indien een instelling erkend is op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2017-07-01&g=2017-07-01), van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt deze erkenning als erkenning op grond van artikel 4, eerste lid.
+Indien een instelling erkend is op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2019-06-26&g=2019-06-26), van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt deze erkenning als erkenning op grond van artikel 4, eerste lid.
 
 ##### Artikel 39
 
