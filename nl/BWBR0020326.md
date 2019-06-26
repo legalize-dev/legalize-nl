@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2018-12-15"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - d. de Stichting Beroepsopleiding tot Sportarts, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot sportarts.
 
-2. Als zorg in de zin van de wet worden tevens aangewezen werkzaamheden in het kader van de verlening van zorg die krachtens [artikel 3, vierde lid, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) bij ministeriële regeling als forensische zorg is aangemerkt.
+2. Als zorg in de zin van de wet wordt tevens aangewezen werkzaamheden in het kader van de verlening van zorg die krachtens [artikel 1.1, tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1) in of krachtens een algemene maatregel van bestuur als forensische zorg is aangemerkt.
 
 ##### Artikel 3
 
@@ -136,7 +136,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 ##### Artikel 6
 
-[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), [38, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) en [paragraaf 6.2 tot en met 6.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.2) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2) of in een krachtens [artikel 3, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) vastgestelde ministeriële regeling.
+[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), [38, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), en [40 tot en met 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 1.1, tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1) of forensische zorg als aangemerkt in of krachtens een algemene maatregel van bestuur».
 
 ##### Artikel 7
 
