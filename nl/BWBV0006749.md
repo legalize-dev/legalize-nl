@@ -4,7 +4,7 @@ identifier: "BWBV0006749"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-01-08"
-last_updated: "2016-11-15"
+last_updated: "2019-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006749"
 soort: "verdrag"
@@ -62,7 +62,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 ##### Artikel III. Programma's en overige activiteiten
 
-1. Een programma van de ISA bestaat uit een reeks acties, projecten en activiteiten die op gecoördineerde wijze door de leden, met bijstand van het Secretariaat, dienen te worden uitgevoerd ter bevordering van de in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=I&z=2016-11-15&g=2016-11-15) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=II&z=2016-11-15&g=2016-11-15) beschreven doelstellingen en richtsnoeren. De programma's zijn zo opgesteld dat een maximaal schaalvoordeel en deelname van een zo groot mogelijk aantal leden wordt bereikt. Ze omvatten eenvoudige, meetbare, mobiliserende doelstellingen.
+1. Een programma van de ISA bestaat uit een reeks acties, projecten en activiteiten die op gecoördineerde wijze door de leden, met bijstand van het Secretariaat, dienen te worden uitgevoerd ter bevordering van de in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=I&z=2019-06-27&g=2019-06-27) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=II&z=2019-06-27&g=2019-06-27) beschreven doelstellingen en richtsnoeren. De programma's zijn zo opgesteld dat een maximaal schaalvoordeel en deelname van een zo groot mogelijk aantal leden wordt bereikt. Ze omvatten eenvoudige, meetbare, mobiliserende doelstellingen.
 
 2. De programmavoorstellen worden opgesteld door middel van open overleg tussen alle nationale contactpunten, met bijstand van het Secretariaat, en zijn gebaseerd op informatie die door de leden wordt gedeeld. Een programma kan worden voorgesteld door twee leden of een groep leden, of door het Secretariaat. Het Secretariaat draagt zorg voor samenhang tussen alle ISA-programma's.
 
@@ -76,7 +76,7 @@ De partijen richten hierbij een International Solar Alliance (hierna „ISA” g
 
 1. De partijen richten hierbij een Vergadering op waarin elk lid vertegenwoordigd is, die besluiten neemt over de uitvoering van deze Overeenkomst en over gecoördineerde acties die dienen te worden ondernomen om de doelstelling ervan te verwezenlijken. De Vergadering komt jaarlijks op ministerieel niveau bijeen op de zetel van de ISA. De Vergadering kan ook onder bijzondere omstandigheden bijeenkomen.
 
-2. Break-outsessies van de Vergadering worden gehouden om op ministerieel niveau de balans op te maken van de programma's en besluiten te nemen over de verdere uitvoering ervan, in het verlengde van [artikel III.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=III&z=2016-11-15&g=2016-11-15).
+2. Break-outsessies van de Vergadering worden gehouden om op ministerieel niveau de balans op te maken van de programma's en besluiten te nemen over de verdere uitvoering ervan, in het verlengde van [artikel III.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=III&z=2019-06-27&g=2019-06-27).
 
 3. De Vergadering beoordeelt het totale effect van de programma's en andere activiteiten in het kader van de ISA, met name wat betreft de inzet van zonne-energie, prestaties, betrouwbaarheid, alsook kosten en omvang van de financiering. Op basis van deze beoordeling nemen de leden alle noodzakelijke besluiten met betrekking tot de verdere uitvoering van het doel van de ISA.
 
