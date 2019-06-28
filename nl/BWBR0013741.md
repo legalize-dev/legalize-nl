@@ -4,7 +4,7 @@ identifier: "BWBR0013741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-18"
-last_updated: "2012-06-22"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013741"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Als belast met het toezicht op de naleving van het bij of krachtens de [vijfde a
 
 - a. De Nederlandsche Bank N.V., voorzover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder a, c en e tot en met j, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10);
 
-- b. de Stichting Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder b en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10).
+- b. de Stichting Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder b, d en k van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10).
 
 ##### Artikel 2
 
