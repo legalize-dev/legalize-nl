@@ -4,7 +4,7 @@ identifier: "BWBV0006787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-06-28"
-last_updated: "2018-12-18"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006787"
 soort: "verdrag"
@@ -52,7 +52,7 @@ Zijn het volgende overeengekomen:
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „de Activiteit”: de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006787&artikel=2&z=2018-12-18&g=2018-12-18) bedoelde activiteiten;
+- a. „de Activiteit”: de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006787&artikel=2&z=2019-06-28&g=2019-06-28) bedoelde activiteiten;
 
 - b. „AFP”: de Australische Federale Politie;
 
@@ -114,7 +114,7 @@ Australisch overheidspersoneel heeft het recht om tijdens de uitoefening van de 
 
 ##### Artikel 10. Coördinatie
 
-Australië benoemt een Hoge vertegenwoordiger (hierna “de Australische Hoge vertegenwoordiger“ genoemd) die ter kennis van Nederland wordt gebracht. De Australische Hoge vertegenwoordiger is een lid van het Australisch overheidspersoneel, zoals gedefinieerd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0006787&artikel=1&z=2018-12-18&g=2018-12-18), van dit Verdrag. De Australische Hoge vertegenwoordiger, dan wel ander Australisch overheidspersoneel dat door de Australische Hoge vertegenwoordiger is gemachtigd, is in verband met de Activiteit het aanspreekpunt in Nederland voor alle relevante Nederlandse autoriteiten en het Australisch overheidspersoneel dat AFP-personeel is, of personeel dat door de AFP wordt gecoördineerd.
+Australië benoemt een Hoge vertegenwoordiger (hierna “de Australische Hoge vertegenwoordiger“ genoemd) die ter kennis van Nederland wordt gebracht. De Australische Hoge vertegenwoordiger is een lid van het Australisch overheidspersoneel, zoals gedefinieerd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0006787&artikel=1&z=2019-06-28&g=2019-06-28), van dit Verdrag. De Australische Hoge vertegenwoordiger, dan wel ander Australisch overheidspersoneel dat door de Australische Hoge vertegenwoordiger is gemachtigd, is in verband met de Activiteit het aanspreekpunt in Nederland voor alle relevante Nederlandse autoriteiten en het Australisch overheidspersoneel dat AFP-personeel is, of personeel dat door de AFP wordt gecoördineerd.
 
 ##### Artikel 11. Veiligheid en beveiliging van overheidspersoneel
 
