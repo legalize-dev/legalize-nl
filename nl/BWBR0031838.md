@@ -4,7 +4,7 @@ identifier: "BWBR0031838"
 country: "nl"
 rank: "pbo"
 publication_date: "2019-06-29"
-last_updated: "2018-10-24"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031838"
 soort: "pbo"
@@ -51,7 +51,7 @@ In deze verordening wordt verstaan onder:
 
 - b. dagelijks bestuur: het dagelijks bestuur van de Sociaal-Economische Raad;
 
-- c. commissie: de Commissie Klachtenbehandeling Aanstellingskeuringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031838&paragraaf=2&artikel=2&z=2018-10-24&g=2018-10-24).
+- c. commissie: de Commissie Klachtenbehandeling Aanstellingskeuringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031838&paragraaf=2&artikel=2&z=2019-06-29&g=2019-06-29).
 
 #### § 2. Instelling
 
@@ -97,15 +97,21 @@ De commissie stelt een regeling van werkzaamheden vast, waarin in ieder geval de
 
 ##### Artikel 7
 
-1. De voorzitter, de leden en de plaatsvervangende leden van de commissie ontvangen voor hun deelname aan vergaderingen en hoorzittingen een vacatievergoeding en een vergoeding voor reis- en verblijfkosten.
+1. De voorzitter, de leden en de plaatsvervangende leden van de commissie ontvangen voor hun deelname aan commissievergaderingen, vergaderingen van door de commissie ingestelde werkgroepen en hoorzittingen een vacatievergoeding en een vergoeding voor reis- en verblijfkosten.
 
-2. De vacatievergoeding en de vergoeding voor reis- en verblijfkosten zijn gelijk aan de vergoedingen die de leden van de Raad, het dagelijks bestuur en de commissies ontvangen op grond van de bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=9) gestelde regels.
+2. De vacatievergoeding als bedoeld in het eerste lid is gelijk aan de vergoeding die de leden van de Raad, het dagelijks bestuur en de commissies ontvangen op grond van de bij of krachtens de Verordening vergoedingen aan leden van de raad, het dagelijks bestuur en de commissies gestelde regels.
 
-3. De voorzitter, leden en plaatsvervangende leden van de CKA ontvangen als vergoeding voor representatiekosten:
+3. Indien de voorzitter, de leden en de plaatsvervangende leden van de commissie, in hun hoedanigheid van voorzitter, lid of plaatsvervangend lid van de commissie, deelnemen aan andere overleggen en bijeenkomsten dan in het eerste lid bedoeld, ontvangen zij voor die deelname een vaste vergoeding en een vergoeding voor reiskosten.
 
-- a. de voorzitter en de leden: maandelijks een vergoeding ter hoogte van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=9) ontvangen;
+4. De vaste vergoeding, bedoeld in het derde lid, bedraagt 50 procent van de standaardvacatievergoeding, zoals bedoeld in de Verordening vergoedingen aan leden van de raad, het dagelijks bestuur en de commissies, waarvan de hoogte is vastgesteld door het dagelijks bestuur.
 
-- b. de plaatsvervangende leden: maandelijks een vergoeding ter hoogte van de helft van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=9) ontvangen.
+5. De voorzitter, leden en plaatsvervangende leden kunnen voor hun actieve bijdrage aan de behandeling van een bij de commissie ingediende klacht, die zonder hoorzitting wordt afgehandeld, en voor hun actieve bijdrage aan de beantwoording van een aan de commissie voorgelegde vraag, die betrekking heeft op de toepassing van de [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819) en de daarop berustende bepalingen in relatie tot aanstellingskeuringen, een vaste vergoeding ontvangen.
+
+6. Er wordt geen vaste vergoeding, als bedoeld in het vijfde lid, ontvangen voor de actieve bijdrage aan de afhandeling van een klacht of de beantwoording van een vraag, indien deze bijdrage wordt geleverd gedurende vergaderingen, hoorzittingen, overleggen of bijeenkomsten als bedoeld in het eerste en derde lid.
+
+7. De vaste vergoeding, bedoeld in het vijfde lid, bedraagt per afgehandelde klacht of vraag 25 procent van de standaardvacatievergoeding, zoals bedoeld in de Verordening vergoedingen aan leden van de raad, het dagelijks bestuur en de commissies, waarvan de hoogte is vastgesteld door het dagelijks bestuur.
+
+8. De in dit artikel bedoelde reis- en verblijfkosten worden vastgesteld op grond van de bij of krachtens de Verordening vergoedingen aan leden van de raad, het dagelijks bestuur en de commissies gestelde regels.
 
 #### § 4. Slotbepalingen
 
