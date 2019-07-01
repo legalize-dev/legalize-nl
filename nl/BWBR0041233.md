@@ -4,7 +4,7 @@ identifier: "BWBR0041233"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-01"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041233"
 soort: "wet"
@@ -257,8 +257,6 @@ Wijzigt de Wet luchtvaart.
 
 Wijzigt de Wet milieubeheer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 6.9. [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470)
 
 Wijzigt de Wet personenvervoer 2000.
@@ -433,11 +431,11 @@ Bij regeling van Onze Minister voor Rechtsbescherming kunnen onderdelen van het 
 
 ##### Artikel 10.4
 
-Na de inwerkingtreding van [artikel 6.6, onderdelen K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.6&z=2019-01-01&g=2019-01-01), van deze wet berust het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) mede op de [artikelen 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en [127, tweede tot en met vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127).
+Na de inwerkingtreding van [artikel 6.6, onderdelen K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.6&z=2019-07-01&g=2019-07-01), van deze wet berust het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) mede op de [artikelen 126, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en [127, tweede tot en met vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127).
 
 ##### Artikel 10.5
 
-Na inwerkingtreding van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.7&z=2019-01-01&g=2019-01-01):
+Na inwerkingtreding van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041233&hoofdstuk=6&artikel=6.7&z=2019-07-01&g=2019-07-01):
 
 - a. onderdeel C, berust de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) mede op [artikel 41a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a);
 
