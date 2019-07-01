@@ -4,7 +4,7 @@ identifier: "BWBR0005727"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2002-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005727"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Bijdrage; doelgroep en hoogte
 
-1. Een visser die binnen de Nederlandse visserijzone – maar buiten een munitie-stortplaats of oefengebied van het Ministerie van Defensie – een explosief heeft opgevist, komt in aanmerking voor een bijdrage, indien hij overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005727&artikel=3&z=2002-01-01&g=2002-01-01) onmiddellijk gelegenheid geeft het explosief onschadelijk te maken.
+1. Een visser die binnen de Nederlandse visserijzone – maar buiten een munitie-stortplaats of oefengebied van het Ministerie van Defensie – een explosief heeft opgevist, komt in aanmerking voor een bijdrage, indien hij overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005727&artikel=3&z=2019-07-01&g=2019-07-01) onmiddellijk gelegenheid geeft het explosief onschadelijk te maken.
 
 2. De bijdrage voor een opgevist explosief bedraagt € 181,51 bruto met de volgende beperkingen:
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 Voor toekenning van de bijdrage wordt vereist dat de visser:
 
-- a. het opvissen van een explosief onmiddellijk aan het Kustwachtcentrum te IJmuiden meldt teneinde assistentie van de Koninklijke marine en de Kustwacht te verkrijgen;
+- a. het opvissen van een explosief onmiddellijk aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), meldt teneinde assistentie van het Ministerie van Defensie en de Kustwacht te verkrijgen;
 
 - b. bij de melding de volgende informatie geeft:
 
@@ -68,13 +68,13 @@ Voor toekenning van de bijdrage wordt vereist dat de visser:
 
 - 4. getroffen maatregelen:
 
-- c. aan de Koninklijke marine gelegenheid geeft het explosief op zee over te nemen of aan boord van het vissersvaartuig onschadelijk te maken; en
+- c. aan het Ministerie van Defensie gelegenheid geeft het explosief op zee over te nemen of aan boord van het vissersvaartuig onschadelijk te maken; en
 
-- d. eventuele aanwijzingen over de behandeling van het explosief van het Kustwachtcentrum of de Koninklijke Marine opvolgt.
+- d. eventuele aanwijzingen over de behandeling van het explosief van de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland,](onbekend) of het Ministerie van Defensie opvolgt.
 
 ##### Artikel 4. Aanvraag, toekenning en uitkering
 
-1. De melding door de visser aan het Kustwachtcentrum wordt tevens aangemerkt als een aanvraag van de visser om een bijdrage. Het Kustwachtcentrum geeft de aanvraag schriftelijk ter behandeling door aan de hoofdingenieur-directeur van de Rijkswaterstaat in de Directie Noordzee.
+1. De melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005727&artikel=3&z=2019-07-01&g=2019-07-01), wordt tevens aangemerkt als een aanvraag van de visser om een bijdrage. De Directeur Kustwacht bedoeld, in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), geeft de aanvraag schriftelijk ter behandeling door aan de hoofdingenieur-directeur van de directie Zee en Delta van Rijkswaterstaat.
 
 2. De hoofdingenieur-directeur deelt de visser binnen één maand na de aanvraag schriftelijk zijn beslissing mede.
 
@@ -86,7 +86,7 @@ Voor toekenning van de bijdrage wordt vereist dat de visser:
 
 1. Een visser heeft geen aanspraak meer op een bijdrage, wanneer het budget op het moment van zijn aanvraag is uitgeput. De aanvragen worden behandeld in volgorde van binnenkomst.
 
-2. Het budget is € 45.378,00 Indien voor volgende jaren een ander bedrag dan € 45.378,00 beschikbaar wordt gesteld, maakt de hoofdingenieur-directeur het afwijkende bedrag bekend door een Bericht aan zeevarenden en een Bekendmaking aan de Visserij, uit te geven door het Kustwachtcentrum.
+2. Het budget is € 45.378,00 Indien voor volgende jaren een ander bedrag dan € 45.378,00 beschikbaar wordt gesteld, maakt de hoofdingenieur-directeur het afwijkende bedrag bekend door een Bericht aan zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
 
 3. Zodra de hoofdingenieur-directeur kan verwachten dat het budget voor het einde van het betreffende jaar zal zijn uitgeput, maakt hij die verwachting bekend op de wijze van het tweede lid.
 
