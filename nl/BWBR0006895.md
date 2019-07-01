@@ -4,7 +4,7 @@ identifier: "BWBR0006895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2008-07-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006895"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Er is een Opsporings- en Reddingsdienst in Nederland, die wordt aangehaald als �
 
 ##### Artikel 2
 
-De SAR-dienst maakt deel uit van de Kustwacht, ingesteld bij overeenkomst van 26 februari 1987.
+De SAR-dienst maakt deel uit van de Kustwacht, bedoeld in [artikel 2 van de Regeling organisatie Kustwacht Nederland](onbekend).
 
 ##### Artikel 3
 
@@ -52,21 +52,21 @@ De SAR-dienst is belast met de opsporing en redding van in nood verkerende beman
 
 ##### Artikel 4
 
-De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=3&z=2008-07-01&g=2008-07-01) genoemde taak te allen tijde over:
+De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=3&z=2019-07-01&g=2019-07-01) genoemde taak te allen tijde over:
 
 - a. een gecombineerd aëronautisch en maritiem reddingscoördinatiecentrum (JRCC),
 
-- b. vliegende reddingseenheden, bestaande uit een vliegtuig van Rijkswaterstaat dienst Noordzee en een of meer helikopters van de Koninklijke Marine, en
+- b. vliegende reddingseenheden, bestaande uit vliegtuigen en helikopters ter beschikking gesteld door de ministers, en
 
 - c. reddingboten.
 
 ##### Artikel 5
 
-Het kustwachtcentrum in Den Helder fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2008-07-01&g=2008-07-01), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Luchtvaart en Maritieme Zaken is belast.
+Het kustwachtcentrum, bedoeld in [artikel 3 van de Regeling organisatie Kustwacht Nederland](onbekend), fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Luchtvaart en Maritieme Zaken is belast.
 
 ##### Artikel 6
 
-De directeur Kustwachtcentrum is, uit hoofde van zijn verantwoordelijkheid voor het functioneren van de SAR-dienst, belast met de coördinatie van de opsporing en redding. Hij stelt hiertoe na overleg met de betrokken diensten en partijen operationele procedures op en legt deze vast in een operationeel plan (OPPLAN-SAR).
+De Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), is, uit hoofde van zijn verantwoordelijkheid voor het functioneren van de SAR-dienst, belast met de coördinatie van de opsporing en redding. Hij stelt hiertoe na overleg met de betrokken diensten en partijen operationele procedures op en legt deze vast in een operationeel plan (OPPLAN-SAR).
 
 ##### Artikel 7
 
@@ -74,11 +74,11 @@ De ministers van Verkeer en Waterstaat en van Defensie stellen vliegende redding
 
 ##### Artikel 8
 
-De directeur Kustwachtcentrum verzekert zich van de beschikbaarheid van de in Nederland aanwezige benodigde reddingboten.
+De Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), verzekert zich van de beschikbaarheid van de in Nederland aanwezige benodigde reddingboten.
 
 ##### Artikel 9
 
-In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2008-07-01&g=2008-07-01) genoemde middelen kan de directeur Kustwachtcentrum zich verzekeren van de beschikbaarheid van andere middelen.
+In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01) genoemde middelen kan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), zich verzekeren van de beschikbaarheid van andere middelen.
 
 ##### Artikel 10
 
