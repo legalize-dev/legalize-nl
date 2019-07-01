@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2019-05-28"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -72,25 +72,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en beroepsconsulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
+1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2019-05-28&g=2019-05-28), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2019-07-01&g=2019-07-01), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
-3. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
+- a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
-4. Het in het eerste lid genoemde hoofd van de post neemt het centraal deel van het inburgeringsexamen overeenkomstig het in de bijlage van deze Regeling opgenomen examenreglement naturalisatietoets buitenland af.
+- b. voor wat betreft de examinering van de kennis van de Nederlandse samenleving het onderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.9, derde lid, onder a, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd.
 
-5. Aan de in het tweede lid genoemde verzoeker wordt het inburgeringsdiploma als bedoeld in [artikel 14, tweede lid van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals deze wet luidde op 31 december 2012 uitgereikt door het in het eerste lid genoemde hoofd van de post.
+3. Voor 1 juli 2019 behaalde examenonderdelen gelden als behaald voor de overeenkomstige onderdelen van de vanaf 1 juli 2019 afgenomen naturalisatietoets.
 
-6. Aan het afleggen van de naturalisatietoets op de Nederlandse diplomatieke en beroepsconsulaire vertegenwoordigingen in het buitenland zijn kosten verbonden die door de verzoeker voorafgaande aan de examinering voldaan dienen te worden.
+4. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
 
-7. Het examengeld, bedoeld in het zesde lid, bedraagt:
+5. Het in het eerste lid genoemde hoofd van de post neemt de naturalisatietoets overeenkomstig het in de bijlage van deze Regeling opgenomen examenreglement naturalisatietoets buitenland af.
 
-- a. € 105 voor het elektronisch praktijkexamen bedoeld in [artikel 3.9, eerste lid, onderdeel a, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012;
+6. Aan de in het tweede lid genoemde verzoeker wordt het inburgeringsdiploma, bedoeld in [artikel 8, eerste lid, onder g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), ten bewijze waarvan het inburgeringsexamen is behaald, uitgereikt door het in het eerste lid genoemde hoofd van de post.
 
-- b. € 140 voor de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012;
+7. Aan het afleggen van de naturalisatietoets op de Nederlandse diplomatieke en consulaire vertegenwoordigingen in het buitenland zijn kosten verbonden die door de verzoeker voorafgaande aan de examinering voldaan dienen te worden.
 
-- c. € 105 voor het examen in de kennis van de Nederlandse samenleving, bedoeld in [artikel 3.9, eerste lid, onderdeel c, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012.
+8. Het examengeld, bedoeld in het zevende lid, bedraagt voor de verzoeker, bedoeld in het tweede lid:
+
+- a. € 70,– voor elk van de examenonderdelen leesvaardigheid, luistervaardigheid en schrijfvaardigheid;
+
+- b. € 80,– voor het examenonderdeel spreekvaardigheid;
+
+- c. € 60,– voor het examenonderdeel kennis van de Nederlandse maatschappij.
 
 #### § 3. Gedeeltelijke vrijstellingen
 
@@ -202,11 +208,9 @@ Deze regeling treedt in werking met ingang van 1 april 2007.
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Nederland.
 
-## Bijlage
+## Bijlage. Examenreglement naturalisatietoets buitenland
 
 **Examenreglement naturalisatietoets buitenland**
-
-### **Artikel 1. Algemeen**
 
 ### **Artikel 2. Aanmelding voor de naturalisatietoets**
 
@@ -219,6 +223,18 @@ Deze regeling wordt aangehaald als: Regeling naturalisatietoets Nederland.
 ### **Artikel 6. Uitslag**
 
 ### **Artikel 7. Inwerkingtreding**
+
+### **Artikel 7. Inwerkingtreding**
+
+Dit reglement treedt in werking op 1 april 2007.
+
+### **Artikel 8**
+
+Dit reglement wordt aangehaald als: Examenreglement naturalisatietoets buitenland.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### **Artikel 1. Algemeen**
 
 Dit reglement treedt in werking op 1 april 2007.
 
