@@ -4,7 +4,7 @@ identifier: "BWBR0033862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2018-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033862"
 soort: "ministeriele-regeling"
@@ -44,13 +44,23 @@ Gelet op [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00337
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729);
+- –. **afleverset:** afleverset voor warmte als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=8);
 
-- b. **maximumprijs:** de prijs die de Autoriteit Consument en Markt op grond van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5) vaststelt.
+- –. **besluit:** [Warmtebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940);
 
-- c. **kwetsbare consument:** een verbruiker voor wie de beëindiging van de levering van warmte zeer ernstige gezondheidsrisico’s tot gevolg zou hebben of voor de huisgenoten van de verbruiker;
+- –. **kwetsbare consument:** een verbruiker voor wie de beëindiging van de levering van warmte zeer ernstige gezondheidsrisico’s tot gevolg zou hebben of voor de huisgenoten van de verbruiker;
 
-- d. **schuldhulpverlening:** de toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III) of ondersteuning van natuurlijke personen door een instantie als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) bij het vinden van een adequate oplossing voor schuldsituaties gericht op de aflossing van schulden.
+- –. **maximumprijs:** prijs die de Autoriteit Consument en Markt op grond van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5) vaststelt;
+
+- –. **primair warmtenet:** transportnet waarmee warmte vanuit de primaire warmtebron wordt getransporteerd naar een secundair warmtenet of, zonder tussenkomst van een secundair warmtenet, naar de verbruiker;
+
+- –. **schuldhulpverlening:** toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III) of ondersteuning van natuurlijke personen door een instantie als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48) bij het vinden van een adequate oplossing voor schuldsituaties gericht op de aflossing van schulden;
+
+- –. **secundair warmtenet:** van het primaire warmtenet door middel van een onderstation of warmteoverdracht station afgescheiden deel van het warmtenet ten behoeve van transport van warmte aan verbruikers;
+
+- –. **storing:** iedere onderbreking van de levering van warmte, met uitzondering van voorziene onderbrekingen als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=4) en contractueel overeengekomen onderbrekingen van de levering van warmte;
+
+- –. **wet:** [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
 
 #### § 2. Vaste kosten
 
@@ -82,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 2. Voor de in dit artikel genoemde bedragen geldt het jaar 2014 als referentiejaar en worden deze bedragen voor latere jaren gecorrigeerd voor de relatieve wijziging van de consumentenprijsindex.
 
-#### § 3. Variabele kosten
+#### § 3. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
 ##### Artikel 3
 
@@ -104,11 +114,37 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 ##### Artikel 4
 
-1. De verbruiker krijgt een financiële compensatie voor storingen die voor een periode langer dan 4 uren tot een onderbreking van de levering van warmte leiden, met uitzondering van voorziene onderbrekingen.
+1. Als ernstige storing als bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=3a) wordt aangemerkt een storing die langer duurt dan 8 uur.
 
-2. De hoogte van de financiële compensatie per aansluiting van een verbruiker bedraagt EUR 35,– bij een onderbreking van 4 tot 8 uur, vermeerderd met EUR 20,– voor elke volgende aaneengesloten periode van 4 uur.
+2. De hoogte van de financiële compensatie per aansluiting van een verbruiker bedraagt EUR 35,– bij een storing met een duur van 8 tot 12 uur, vermeerderd met EUR 20,– voor elke volgende aaneengesloten periode van 4 uur.
 
-3. De compensatie wordt door de leverancier binnen zes maanden na het herstel van de onderbreking betaald.
+3. Een storing:
+
+- a. in een primair warmtenet van een leverancier of netbeheerder vangt voor alle verbruikers die zijn aangesloten op het door de storing getroffen primaire warmtenet aan op het tijdstip van ontvangst van de eerste melding van een storing of, indien melding niet plaatsvindt of dit eerder is, het tijdstip van vaststelling van de storing door de leverancier of de netbeheerder;
+
+- b. in een secundair warmtenet van een leverancier of netbeheerder vangt voor alle verbruikers die zijn aangesloten op het door de storing getroffen secundaire warmtenet aan op het tijdstip van ontvangst van de eerste melding van een storing of, indien melding niet plaatsvindt of dit eerder is, het tijdstip van vaststelling van de storing door de leverancier of de netbeheerder;
+
+- c. in een inpandig leidingstelsel van een gebouweigenaar vangt voor alle verbruikers die zijn aangesloten op het door de storing getroffen inpandig leidingstelsel aan op het tijdstip van ontvangst van de eerste melding van een storing of, indien melding niet plaatsvindt of dit eerder is, het tijdstip van vaststelling van de storing door de leverancier, de netbeheerder of de gebouweigenaar, of
+
+- d. in een aansluiting of een afleverset die eigendom is van een leverancier of netbeheerder vangt voor de getroffen verbruiker aan op het tijdstip van de eerste melding van de storing of, indien melding niet plaatsvindt of dit eerder is, het tijdstip van vaststelling van de storing door de leverancier of de netbeheerder.
+
+4. De tijdsduur van de storing waarvoor compensatie moet worden uitgekeerd wordt voor de door de storing getroffen verbruikers bepaald als de tijdsduur tussen:
+
+- a. het tijdstip van aanvang van de storing, en
+
+- b. het tijdstip waarop, door middel van een controle door de leverancier of netbeheerder, is vastgesteld dat de storing is hersteld voor alle getroffen verbruikers.
+
+5. Voor het bepalen van het tijdstip waarop de storing is hersteld voor alle getroffen verbruikers kan onderscheid worden gemaakt tussen:
+
+- a. de verbruikers die zijn aangesloten op het door de storing getroffen primaire net;
+
+- b. de verbruikers die zijn aangesloten op het door de storing getroffen secundaire net;
+
+- c. de verbruikers die zijn aangesloten op het door de storing getroffen inpandig leidingstelsel van de gebouweigenaar, of
+
+- d. de verbruiker van de door de storing getroffen aansluiting of afleverset.
+
+6. De compensatie wordt door de leverancier binnen zes maanden na het herstel van de onderbreking betaald.
 
 ##### Artikel 5
 
@@ -122,7 +158,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 - b. biedt bij de herinnering aan met schriftelijke toestemming van de verbruiker de contactgegevens van de verbruiker, diens klantnummer, en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening te verstrekken, tenzij de verbruiker geen natuurlijk persoon is;
 
-- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2018-05-01&g=2018-05-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2018-05-01&g=2018-05-01), van toepassing zijn.
+- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2019-07-01&g=2019-07-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2019-07-01&g=2019-07-01), van toepassing zijn.
 
 4. De leverancier spant zich in om in persoonlijk contact te treden met de verbruiker teneinde deze te wijzen op mogelijkheden om betalingsachterstanden te voorkomen en te beëindigen.
 
@@ -146,7 +182,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 ##### Artikel 7
 
-1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2018-05-01&g=2018-05-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2018-05-01&g=2018-05-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
+1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2019-07-01&g=2019-07-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
 
 2. Een leverancier beëindigt de levering van warmte aan een kleinverbruiker niet, tenzij:
 
@@ -162,11 +198,11 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 3. Een leverancier kan de levering van warmte aan een verbruiker beëindigen wegens wanbetaling, tenzij:
 
-- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2018-05-01&g=2018-05-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
+- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
 
 - b. de vordering van de leverancier binnen een redelijke termijn betrokken wordt bij een lopend traject van schuldhulpverlening aan de verbruiker;
 
-- c. toepassing dient te worden gegeven aan het zesde lid en binnen een redelijke termijn nadat toepassing is gegeven aan dat lid de vordering van de leverancier is betrokken bij een traject van schuldhulpverlening.
+- c. toepassing dient te worden gegeven aan [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01), en binnen een redelijke termijn nadat toepassing is gegeven aan dat lid de vordering van de leverancier is betrokken bij een traject van schuldhulpverlening.
 
 4. Een leverancier draagt er zorg voor dat de levering van warmte aan een verbruiker die wegens wanbetaling is beëindigd, wordt hervat indien de verbruiker een bewijs overlegt:
 
@@ -189,5 +225,111 @@ Deze regeling treedt in werking met ingang van 1 januari 2014.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Warmteregeling.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3c
+
+De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedoeld in [artikel 5c, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), omvat in ieder geval informatie over:
+
+- a. de temperatuur van de geleverde warmte waarbij een onderscheid wordt gemaakt tussen warmte ten behoeve van:
+
+- i. ruimteverwarming, en
+
+- ii. verwarming van tapwater;
+
+- b. indien de minimale temperatuur van de geleverde warmte kan verschillen, wanneer de verbruiker welke temperatuur warmte geleverd krijgt;
+
+- c. indien warmte wordt geleverd van een temperatuur lager dan 70°C, wat de gevolgen zijn voor het comfortniveau voor de verbruiker, waaronder onder andere:
+
+- i. of de geleverde warmte op basis van de door de verbruiker opgegeven kenmerken van de woon-of bedrijfsruimte en de binneninstallatie direct geschikt is voor het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in [artikel 6.13, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=6.13), en
+
+- ii. indien de geleverde warmte niet direct geschikt is voor ruimteverwarming of het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in [artikel 6.13, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=6.13), een indicatie van de kosten die de verbruiker extra moet maken ten behoeve van ruimteverwarming of de verwarming van tapwater tot deze temperatuur;
+
+- d. de opwekkingsbron van de warmte die geleverd zal worden, wanneer dit bij de wijze van aanprijzing en de keuze die de verbruiker zou maken, van belang is, en
+
+- e. de diensten verbonden aan de levering van warmte.
+
+##### Artikel 3d
+
+1. De transparante informatie over de prijs waarvoor geleverd zal worden, bedoeld in [artikel 5c, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), omvat in ieder geval op duidelijke en begrijpelijke wijze informatie over:
+
+- a. de opbouw van het tarief, inclusief alle toeslagen en belastingen, waarin in ieder geval wordt weergegeven:
+
+- i. wat het gebruiksafhankelijk deel is;
+
+- ii. wat het gebruiksonafhankelijk deel is, en
+
+- iii. indien in de prijs kortingen zijn verwerkt:
+
+- 1°. voor ieder jaar van de looptijd van de overeenkomst op welke wijze de korting in het jaarbedrag tot uitdrukking komt;
+
+- 2°. wat er gebeurt met het jaarbedrag wanneer de kortingsactie afloopt, en
+
+- 3°. de voorwaarden waaronder van de korting gebruik kan worden gemaakt, en
+
+- b. het soort tarief, en
+
+- i. indien er sprake is van een vast tarief:
+
+- 1°. wat de looptijd is van het tarief, en
+
+- 2°. wat er gebeurt met het tarief na afloop van de looptijd van het vaste tarief, en
+
+- ii. indien er sprake is van een variabel tarief:
+
+- 1°. in welke gevallen het tarief kan worden aangepast;
+
+- 2°. hoe vaak een wijziging kan plaatsvinden gedurende de looptijd van de overeenkomst, en
+
+- 3°. wat de gevolgen van de prijswijziging, op basis van het persoonlijk verbruik van de verbruiker, zijn voor de het geschatte jaarbedrag en het te betalen voorschot.
+
+2. Indien een leverancier de prijs waarvoor geleverd wordt, bedoeld in [artikel 5c, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), wijzigt, informeert hij de verbruiker hier uiterlijk 1 maand voordat de tariefwijziging wordt geëffectueerd persoonlijk en schriftelijk over.
+
+##### Artikel 3e
+
+1. De transparante informatie over het opzeggen van de overeenkomst, bedoeld in [artikel 5c, derde lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), bevat in ieder geval:
+
+- a. de voorwaarden waaronder de overeenkomst door de verbruiker of leverancier kan worden beëindigd, en
+
+- b. indien er bij een tussentijdse opzegging van een overeenkomst voor bepaalde tijd een opzegvergoeding verschuldigd is, de hoogte van deze opzegvergoeding.
+
+2. Een leverancier informeert een verbruiker schriftelijk en uiterlijk 2 maanden voor het aflopen van de overeenkomst over het opzeggen van een overeenkomst of het aflopen van een overeenkomst voor bepaalde tijd.
+
+##### Artikel 3f
+
+1. De persoonlijke situatie van de verbruiker, bedoeld in [artikel 5c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), is gebaseerd op het meest recent beschikbare verbruik van de verbruiker.
+
+2. Indien de leverancier deze gegevens niet kan achterhalen en de verbruiker deze informatie niet kan of wil verstrekken maakt de leverancier een schatting op basis van door de verbruiker ingevulde kenmerken.
+
+#### § 4. Compensatie bij ernstige storingen en afsluitbeleid
+
+##### Artikel 4a
+
+Met een extreme situatie die niet aan de leverancier of netbeheerder kan worden toegerekend wordt bedoeld een niet te voorziene gebeurtenis of situatie die:
+
+- a. redelijkerwijs buiten de controle van een netbeheerder of leverancier ligt en niet te wijten is aan een fout van een netbeheerder of leverancier;
+
+- b. zo weinig voorkomt dat het oneconomisch zou zijn om daarmee rekening te houden in de reguleringssystematiek, en
+
+- c. niet beïnvloed kan worden door de netbeheerder of leverancier.
+
+##### Artikel 7b
+
+In het leveringsprofiel, bedoeld in [artikel 10a, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=10a), wordt in ieder geval vermeld:
+
+- a. hoeveel GJ warmte een producent maandelijks en jaarlijks verwacht te kunnen invoeden op een warmtenet;
+
+- b. een onderbouwing van het onder a bedoelde aantal GJ;
+
+- c. de temperatuur van de warmte die de producent verwacht te kunnen invoeden op een warmtenet;
+
+- d. indien de verwachte leveringstemperatuur varieert, wanneer welke temperatuur geleverd kan worden;
+
+- e. de warmtebron waarmee de te leveren warmte wordt opgewekt, en
+
+- f. de verwachte duurzaamheid van de warmtebron waarmee de te leveren warmte wordt opgewekt.
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
