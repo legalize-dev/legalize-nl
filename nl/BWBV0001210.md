@@ -4,7 +4,7 @@ identifier: "BWBV0001210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-25"
-last_updated: "2019-05-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001210"
 soort: "verdrag"
@@ -71,9 +71,9 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
-1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-05-01&g=2019-05-01) bedoelde gebruiksrecht.
+1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-07-01&g=2019-07-01) bedoelde gebruiksrecht.
 
-2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-05-01&g=2019-05-01) bedoelde gebruiksrecht.
+2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-07-01&g=2019-07-01) bedoelde gebruiksrecht.
 
 3. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
 
@@ -105,55 +105,145 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 
 ##### Artikel 8. Tarieven
 
-1. Het gebruiksrecht met inbegrip van administratiekosten bedraagt voor één jaar voor voertuigen:
+1. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één jaar voor voertuigen:
 
 - 1. met ten hoogste drie assen:
 
-| a. NIET- EURO: | 960 euro, |
+| a. NIET-EURO | 1.407 euro |
 | --- | --- |
-| b. EURO I: | 850 euro, |
-| c. EURO II en schoner: | 750 euro. |
+| b. EURO I | 1.223 euro |
+| c. EURO II | 1.065 euro |
+| d. EURO III | 926 euro |
+| e. EURO IV | 842 euro |
+| f. EURO V of schoner | 750 euro |
 
 - 2. met vier of meer assen:
 
-| a. NIET-EURO: | 1550 euro, |
+| a. NIET-EURO | 2.359 euro |
 | --- | --- |
-| b. EURO I: | 1400 euro, |
-| c. EURO II en schoner: | 1250 euro |
+| b. EURO I | 2.042 euro |
+| c. EURO II | 1.776 euro |
+| d. EURO III | 1.543 euro |
+| e. EURO IV | 1.404 euro |
+| f. EURO V of schoner | 1.250 euro |
 
-2. Het gebruiksrecht met inbegrip van administratiekosten bedraagt voor één maand voor voertuigen
+Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één jaar voor voertuigen:
 
 - 1. met ten hoogste drie assen:
 
-| a. NIET-EURO: | 96 euro, |
+| a. NIET-EURO | 1.407 euro |
 | --- | --- |
-| b. EURO I: | 85 euro, |
-| c. EURO II en schoner: | 75 euro. |
+| b. EURO I | 1.223 euro |
+| c. EURO II | 1.065 euro |
+| d. EURO III | 926 euro |
+| e. EURO IV | 842 euro |
+| f. EURO V | 796 euro |
+| g. EURO VI of schoner | 750 euro |
 
 - 2. met vier of meer assen:
 
-| a. NIET-EURO: | 155 euro, |
+| a. NIET-EURO | 2.359 euro |
 | --- | --- |
-| b. EURO I: | 140 euro, |
-| c. EURO II en schoner: | 125 euro |
+| b. EURO I | 2.042 euro |
+| c. EURO II | 1.776 euro |
+| d. EURO III | 1.543 euro |
+| e. EURO IV | 1.404 euro |
+| f. EURO V | 1.327 euro |
+| g. EURO VI of schoner | 1.250 euro |
 
-3. Het gebruiksrecht met inbegrip van administratiekosten bedraagt voor één week voor voertuigen
+2. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één maand voor voertuigen:
 
 - 1. met ten hoogste drie assen:
 
-| a. NIET-EURO: | 26 euro, |
+| a. NIET-EURO | 140 euro |
 | --- | --- |
-| b. EURO I: | 23 euro, |
-| c. EURO II en schoner: | 20 euro. |
+| b. EURO I | 122 euro |
+| c. EURO II | 106 euro |
+| d. EURO III | 92 euro |
+| e. EURO IV | 84 euro |
+| f. EURO V of schoner | 75 euro |
 
-- 2. met vier of meer assen
+- 2. met vier of meer assen:
 
-| a. NIET-EURO: | 41 euro, |
+| a. NIET-EURO | 235 euro |
 | --- | --- |
-| b. EURO I: | 37 euro, |
-| c. EURO II en schoner: | 33 euro. |
+| b. EURO I | 204 euro |
+| c. EURO II | 177 euro |
+| d. EURO III | 154 euro |
+| e. EURO IV | 140 euro |
+| f. EURO V of schoner | 125 euro |
 
-4. Het gebruiksrecht met inbegrip van administratiekosten voor één dag is gelijk voor alle voertuigklassen en bedraagt 8 euro.
+Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één maand voor voertuigen:
+
+- 1. met ten hoogste drie assen:
+
+| a. NIET-EURO | 140 euro |
+| --- | --- |
+| b. EURO I | 122 euro |
+| c. EURO II | 106 euro |
+| d. EURO III | 92 euro |
+| e. EURO IV | 84 euro |
+| f. EURO V | 79 euro |
+| g. EURO VI of schoner | 75 euro |
+
+- 2. met vier of meer assen:
+
+| a. NIET-EURO | 235 euro |
+| --- | --- |
+| b. EURO I | 204 euro |
+| c. EURO II | 177 euro |
+| d. EURO III | 154 euro |
+| e. EURO IV | 140 euro |
+| f. EURO V | 132 euro |
+| g. EURO VI of schoner | 125 euro |
+
+3. Tot en met 31 december 2019 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één week voor voertuigen:
+
+- 1. met ten hoogste drie assen:
+
+| a. NIET-EURO | 37 euro |
+| --- | --- |
+| b. EURO I | 32 euro |
+| c. EURO II | 28 euro |
+| d. EURO III | 24 euro |
+| e. EURO IV | 22 euro |
+| f. EURO V of schoner | 20 euro |
+
+- 2. met vier of meer assen:
+
+| a. NIET-EURO | 62 euro |
+| --- | --- |
+| b. EURO I | 54 euro |
+| c. EURO II | 47 euro |
+| d. EURO III | 41 euro |
+| e. EURO IV | 37 euro |
+| f. EURO V of schoner | 33 euro |
+
+Vanaf 1 januari 2020 bedraagt het gebruiksrecht met inbegrip van administratiekosten voor één week voor voertuigen:
+
+- 1. met ten hoogste drie assen:
+
+| a. NIET-EURO | 37 euro |
+| --- | --- |
+| b. EURO I | 32 euro |
+| c. EURO II | 28 euro |
+| d. EURO III | 24 euro |
+| e. EURO IV | 22 euro |
+| f. EURO V | 21 euro |
+| g. EURO VI of schoner | 20 euro |
+
+- 2. met vier of meer assen:
+
+| a. NIET-EURO | 62 euro |
+| --- | --- |
+| b. EURO I | 54 euro |
+| c. EURO II | 47 euro |
+| d. EURO III | 41 euro |
+| e. EURO IV | 37 euro |
+| f. EURO V | 35 euro |
+| g. EURO VI of schoner | 33 euro |
+
+4. Het gebruiksrecht met inbegrip van administratiekosten voor één dag is gelijk voor alle voertuigklassen en bedraagt 12 euro.
 
 5. Vervallen.
 
