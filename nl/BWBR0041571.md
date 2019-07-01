@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -201,7 +201,7 @@ Het recht op de remigratievoorzieningen van de remigrant die op grond van [artik
 
 ##### Artikel XXXVI. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=I&z=2019-01-01&g=2019-01-01), [VII, onderdeel C, onder 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=VII&z=2019-01-01&g=2019-01-01), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XIIa&z=2019-01-01&g=2019-01-01), [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XVII&z=2019-01-01&g=2019-01-01), en [XXX, onderdelen aA en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXX&z=2019-01-01&g=2019-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=I&z=2019-07-01&g=2019-07-01), [VII, onderdeel C, onder 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=VII&z=2019-07-01&g=2019-07-01), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XIIa&z=2019-07-01&g=2019-07-01), [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XVII&z=2019-07-01&g=2019-07-01), en [XXX, onderdelen aA en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXX&z=2019-07-01&g=2019-07-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVII. Citeertitel
 
