@@ -4,7 +4,7 @@ identifier: "BWBR0007122"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2002-05-08"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007122"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, 
 
 ##### Artikel 3
 
-Een gevaarlijke stof als bedoeld in artikel 1030, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (**Trb.** 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
+Een gevaarlijke stof als bedoeld in [artikel 1030, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1030), en [artikel 1060, zesde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1060) is een stof of voorwerp als bedoeld in hoofdstuk 3.2. van het Reglement behorend bij het Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN) (Trb. 2001, 67), daaronder begrepen de latere wijzigingen daarvan.
 
 ##### Artikel 4
 
