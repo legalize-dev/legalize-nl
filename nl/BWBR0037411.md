@@ -4,7 +4,7 @@ identifier: "BWBR0037411"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2016-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037411"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Handelend in overeenstemming met de Ministers van Defensie, Economische Zaken, V
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=5), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=17), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23) en [36, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=36) en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), en [10:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6);
 
-Gezien de instemming van de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2016-01-01&g=2016-01-01) van dit besluit gemandateerden;
+Gezien de instemming van de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2019-07-01&g=2019-07-01) van dit besluit gemandateerden;
 
 Besluit:
 
@@ -56,7 +56,7 @@ De bestrijding van gevaar in of vanuit de Noordzee, bedoeld in [artikel 23 van d
 
 ##### Artikel 3
 
-1. Ter uitvoering van het plan bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=2&z=2016-01-01&g=2016-01-01) worden de bevoegdheden van de Minister van Infrastructuur en Milieu, voortvloeiend uit de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=8), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=16) en [18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=18), gemandateerd aan de voorzitter en de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen.
+1. Ter uitvoering van het plan bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=2&z=2019-07-01&g=2019-07-01) worden de bevoegdheden van de Minister van Infrastructuur en Milieu, voortvloeiend uit de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=8), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=16) en [18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=18), gemandateerd aan de voorzitter en de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen.
 
 2. Aan de functionarissen, genoemd in het eerste lid, wordt tevens volmacht en machtiging verleend ten aanzien van de bevoegdheden in de wetsartikelen, genoemd in het eerste lid, alsmede ten aanzien van de bevoegdheden, genoemd in de [artikelen 19 en 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=19).
 
@@ -68,7 +68,7 @@ De bestrijding van gevaar in of vanuit de Noordzee, bedoeld in [artikel 23 van d
 
 en daaronder de vermelding ‘Rijkswaterstaat’
 
-2. Een document als bedoeld in het eerste lid, op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2016-01-01&g=2016-01-01), krachtens mandaat vastgesteld door de voorzitter van het Regionaal Beheersteam Noordzeerampen, vermeldt aan het slot:
+2. Een document als bedoeld in het eerste lid, op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2019-07-01&g=2019-07-01), krachtens mandaat vastgesteld door de voorzitter van het Regionaal Beheersteam Noordzeerampen, vermeldt aan het slot:
 
 ‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU,
 
@@ -78,7 +78,7 @@ DE VOORZITTER VAN HET REGIONAAL BEHEERSTEAM NOORD-ZEERAMPEN,’
 
 gevolgd door de handtekening en de naam van de voorzitter.
 
-3. Een document als bedoeld in het eerste lid, op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2016-01-01&g=2016-01-01), krachtens mandaat vastgesteld door de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen, vermeldt aan het slot:
+3. Een document als bedoeld in het eerste lid, op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037411&artikel=3&z=2019-07-01&g=2019-07-01), krachtens mandaat vastgesteld door de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen, vermeldt aan het slot:
 
 ‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU,
 
@@ -102,7 +102,7 @@ gevolgd door de handtekening en de naam van de gevolmachtigde of gemachtigde fun
 
 ##### Artikel 5
 
-Als ambtenaren die zijn belast met het toezicht op de naleving van maatregelen, gegeven krachtens de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=7), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=8), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=16) en [18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=18) en het uitvoeren van de maatregelen, genomen krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=13),16 en 18 van de wet, worden aangewezen de directeur van de Nederlandse Kustwacht en de ambtenaren van de in de Nederlandse Kustwacht samenwerkende diensten die door hem zijn belast met de incidentenbestrijding overeenkomstig het Incidentbestrijdingsplan Noordzee.
+Als ambtenaren die zijn belast met het toezicht op de naleving van maatregelen, gegeven krachtens de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=7), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=8), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=16) en [18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=18) en het uitvoeren van de maatregelen, genomen krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=13),16 en 18 van de wet, worden aangewezen de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), en de ambtenaren van de in de Kustwacht samenwerkende diensten die door hem zijn belast met de incidentenbestrijding overeenkomstig het Incidentbestrijdingsplan Noordzee.
 
 ##### Artikel 6
 
