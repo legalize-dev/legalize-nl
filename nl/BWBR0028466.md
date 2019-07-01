@@ -4,7 +4,7 @@ identifier: "BWBR0028466"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-07-01"
-last_updated: "2010-10-10"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028466"
 soort: "wet-BES"
@@ -109,7 +109,7 @@ Tenzij anders is bepaald, wordt een rechtshandeling die is verricht voordat de w
 
 ##### Artikel 9
 
-1. In afwijking van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10) kan een bevoegdheid die de wet toekent, niet meer worden uitgeoefend, indien de daarvoor bij de wet gestelde termijn reeds is verstreken vóór het tijdstip waarop zij van toepassing wordt, en een bevoegdheid van gelijke aard onder het tevoren geldende recht niet bestond. Evenwel kunnen rechtshandelingen die overeenkomstig [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=6&z=2010-10-10&g=2010-10-10), van deze wet vernietigbaar worden, nog gedurende een jaar na het tijdstip van het van toepassing worden der wet worden vernietigd, indien de door de wet gestelde termijn reeds op dat tijdstip was verstreken.
+1. In afwijking van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01) kan een bevoegdheid die de wet toekent, niet meer worden uitgeoefend, indien de daarvoor bij de wet gestelde termijn reeds is verstreken vóór het tijdstip waarop zij van toepassing wordt, en een bevoegdheid van gelijke aard onder het tevoren geldende recht niet bestond. Evenwel kunnen rechtshandelingen die overeenkomstig [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=6&z=2019-07-01&g=2019-07-01), van deze wet vernietigbaar worden, nog gedurende een jaar na het tijdstip van het van toepassing worden der wet worden vernietigd, indien de door de wet gestelde termijn reeds op dat tijdstip was verstreken.
 
 2. Was de termijn waarbinnen volgens het tevoren geldende recht een recht of bevoegdheid moest zijn uitgeoefend, reeds verstreken op het in het eerste lid bedoelde tijdstip, dan brengt de wet die een recht of bevoegdheid van gelijke aard toekent, in het rechtsgevolg van de verjaring of het verval geen verandering.
 
@@ -129,7 +129,7 @@ Is voor de al dan niet toepasselijkheid van de bepalingen der wet omtrent aanspr
 
 ##### Artikel 12
 
-De aansprakelijkheid voor schade die is ontstaan of, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=11&z=2010-10-10&g=2010-10-10), bekend geworden na het in werking treden van de wet, wordt, ook met betrekking tot haar omvang, naar het tevoren geldende recht beoordeeld, indien die schade voortspruit uit dezelfde gebeurtenis of vóór het in werking treden van de wet bestaan hebbende toestand als een eerdere door de benadeelde geleden schade waarop dat recht van toepassing was. Hetzelfde geldt voor de aansprakelijkheid wegens iemands overlijden na het tijdstip van het in werking treden van de wet als gevolg van letsel dat vóór dat tijdstip is ontstaan.
+De aansprakelijkheid voor schade die is ontstaan of, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=11&z=2019-07-01&g=2019-07-01), bekend geworden na het in werking treden van de wet, wordt, ook met betrekking tot haar omvang, naar het tevoren geldende recht beoordeeld, indien die schade voortspruit uit dezelfde gebeurtenis of vóór het in werking treden van de wet bestaan hebbende toestand als een eerdere door de benadeelde geleden schade waarop dat recht van toepassing was. Hetzelfde geldt voor de aansprakelijkheid wegens iemands overlijden na het tijdstip van het in werking treden van de wet als gevolg van letsel dat vóór dat tijdstip is ontstaan.
 
 ##### Artikel 13
 
@@ -171,7 +171,7 @@ Indien de aangifte van een huwelijk vóór het in werking treden van de wet is g
 
 ##### Artikel 20
 
-Onverminderd het bepaalde in [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10), van deze wet, kan een huwelijk dat vóór het tijdstip van het in werking treden van [titel 5, afdeling 4, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=3) is voltrokken, nadien slechts worden nietig verklaard, indien de [zesde afdeling van de vierde titel van het Eerste Boek van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=6), zoals deze vóór dat tijdstip gold, de mogelijkheid daartoe openstelde, en tevens [titel 5, afdeling 5, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=5) nietigverklaring toelaat.
+Onverminderd het bepaalde in [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01), van deze wet, kan een huwelijk dat vóór het tijdstip van het in werking treden van [titel 5, afdeling 4, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=3) is voltrokken, nadien slechts worden nietig verklaard, indien de [zesde afdeling van de vierde titel van het Eerste Boek van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=6), zoals deze vóór dat tijdstip gold, de mogelijkheid daartoe openstelde, en tevens [titel 5, afdeling 5, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&afdeling=5) nietigverklaring toelaat.
 
 ##### Artikel 21
 
@@ -265,7 +265,7 @@ Artikel 466 van het Burgerlijk Wetboek, zoals dat gold tot aan het tijdstip van 
 
 3. Een vóór het tijdstip van het in werking treden van de wet door de rechter getroffen regeling inzake het verschaffen van informatie betreffende de persoon van het kind of diens verzorging en opvoeding aan de niet met het gezag belaste ouder of, ingeval van gezamenlijke gezagsuitoefening, aan de ouder bij wie het kind zijn gewone verblijfplaats niet heeft, door de andere ouder dan wel door derden geldt met ingang van dat tijdstip als een regeling inzake het verschaffen van informatie als bedoeld in [artikel 377b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=377b), [onderscheidenlijk 377c](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=377c) dan wel [377h van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=377h).
 
-4. Indien in het geval, bedoel in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=2&artikel=32&z=2010-10-10&g=2010-10-10), van deze wet, de met het gezag belaste ouder binnen een maand na het tijdstip van het in werking treden van de wet een verzoek als bedoeld in [artikel 377b, tweede lid, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=377b) heeft gedaan, is artikel 377b, eerste lid, van Boek 1 in ieder geval niet van toepassing, zolang niet onherroepelijk op dat verzoek is beslist.
+4. Indien in het geval, bedoel in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=2&artikel=32&z=2019-07-01&g=2019-07-01), van deze wet, de met het gezag belaste ouder binnen een maand na het tijdstip van het in werking treden van de wet een verzoek als bedoeld in [artikel 377b, tweede lid, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=377b) heeft gedaan, is artikel 377b, eerste lid, van Boek 1 in ieder geval niet van toepassing, zolang niet onherroepelijk op dat verzoek is beslist.
 
 ##### Artikel 37
 
@@ -307,7 +307,7 @@ Ten aanzien van commissarissen die zijn benoemd of aangewezen voor het in werkin
 
 ##### Artikel 37i
 
-De [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=2&artikel=20&z=2010-10-10&g=2010-10-10) gelden niet voor een besluit van een orgaan van een rechtspersoon dat voor het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744) is genomen. Voor een dergelijk besluit blijft het toen geldende recht van toepassing.
+De [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=2&artikel=20&z=2019-07-01&g=2019-07-01) gelden niet voor een besluit van een orgaan van een rechtspersoon dat voor het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744) is genomen. Voor een dergelijk besluit blijft het toen geldende recht van toepassing.
 
 ##### Artikel 37j
 
@@ -323,11 +323,11 @@ Het bepaalde in [artikel 36, tweede lid, van Boek 2](https://wetten.overheid.nl/
 
 ##### Artikel 37m
 
-Het bepaalde in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=51&z=2010-10-10&g=2010-10-10), geldt voor de stichting particulier fonds die reeds bestaat bij het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744), eerst nadat twee jaren na dat tijdstip zijn verstreken.
+Het bepaalde in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=51&z=2019-07-01&g=2019-07-01), geldt voor de stichting particulier fonds die reeds bestaat bij het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744), eerst nadat twee jaren na dat tijdstip zijn verstreken.
 
 ##### Artikel 37n
 
-Bij de toepassing van [artikel 55, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=55&z=2010-10-10&g=2010-10-10), wordt slechts in aanmerking genomen het onbehoorlijk bestuur dat plaatsvond na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744).
+Bij de toepassing van [artikel 55, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=55&z=2019-07-01&g=2019-07-01), wordt slechts in aanmerking genomen het onbehoorlijk bestuur dat plaatsvond na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744).
 
 ##### Artikel 37o
 
@@ -355,11 +355,11 @@ Het bepaalde in [artikel 97 onder d van Boek 2](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 37t
 
-De [artikelen 116 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=5&artikel=116&z=2010-10-10&g=2010-10-10) gelden voor het eerste boekjaar dat aanvangt na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744). Tot dat tijdstip blijft voor de betrokken rechtspersoon het voordien geldende recht van toepassing.
+De [artikelen 116 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=5&artikel=116&z=2019-07-01&g=2019-07-01) gelden voor het eerste boekjaar dat aanvangt na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744). Tot dat tijdstip blijft voor de betrokken rechtspersoon het voordien geldende recht van toepassing.
 
 ##### Artikel 37u
 
-Bij de toepassing van [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=6&artikel=138&z=2010-10-10&g=2010-10-10) wordt slechts in aanmerking genomen het optreden als ware hij bestuurder en het bijdragen tot een instructie dat plaatsvond na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744), voor zover althans het aanmerken als bestuurder niet kon geschieden op grond van de voordien geldende regels.
+Bij de toepassing van [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=6&artikel=138&z=2019-07-01&g=2019-07-01) wordt slechts in aanmerking genomen het optreden als ware hij bestuurder en het bijdragen tot een instructie dat plaatsvond na het in werking treden van [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744), voor zover althans het aanmerken als bestuurder niet kon geschieden op grond van de voordien geldende regels.
 
 ##### Artikel 37v
 
@@ -523,11 +523,11 @@ De wet bepaalt van haar in werking treden af, of een retentierecht bestaat en we
 
 ##### Artikel 72
 
-De [artikelen 316 tot en met 318 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=316) zijn van toepassing, indien de handelingen die volgens die bepalingen stuiting teweegbrengen, zijn verricht na het tijdstip van het in werking treden der wet. Indien overeenkomstig het tevoren geldende recht na stuiting een verjaringstermijn is aangevangen die binnen een jaar na het in werking treden van de wet nog niet is voltooid, dan wordt na afloop van dat jaar, met inachtneming van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10), van deze wet, [artikel 319 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=319) van toepassing.
+De [artikelen 316 tot en met 318 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=316) zijn van toepassing, indien de handelingen die volgens die bepalingen stuiting teweegbrengen, zijn verricht na het tijdstip van het in werking treden der wet. Indien overeenkomstig het tevoren geldende recht na stuiting een verjaringstermijn is aangevangen die binnen een jaar na het in werking treden van de wet nog niet is voltooid, dan wordt na afloop van dat jaar, met inachtneming van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01), van deze wet, [artikel 319 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=319) van toepassing.
 
 ##### Artikel 73
 
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10) van deze wet worden aanvang en duur van een verjaringstermijn door de wet bepaald in de gevallen waarin de verjaring overeenkomstig [artikel 320 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=320) bij of binnen een jaar na het in werking treden van de wet wordt verlengd.
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01) van deze wet worden aanvang en duur van een verjaringstermijn door de wet bepaald in de gevallen waarin de verjaring overeenkomstig [artikel 320 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=320) bij of binnen een jaar na het in werking treden van de wet wordt verlengd.
 
 2. De artikelen 2005 tot en met 2011 van het Burgerlijk Wetboek, zoals die tot aan het in werking treden van de wet golden, blijven gedurende een jaar nadien van toepassing op de gevallen waarin zij totdien toepasselijk waren, tenzij er een grond tot verlenging der verjaring overeenkomstig [artikel 321 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=321) bestaat. Na afloop van dat jaar wordt de verjaring geacht nimmer geschorst te zijn geweest.
 
@@ -631,7 +631,7 @@ Een erfpacht die op het tijdstip van het in werking treden van de wet reeds best
 
 ##### Artikel 119
 
-De [artikelen 114 tot en met 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=5&artikel=114&z=2010-10-10&g=2010-10-10) van deze wet zijn van overeenkomstige toepassing op een recht van opstal in dezelfde gevallen waarin die artikelen op een recht van erfpacht van toepassing zijn en voor zover het opstalrecht aan de daar bedoelde regels voor erfpacht is onderworpen.
+De [artikelen 114 tot en met 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=5&artikel=114&z=2019-07-01&g=2019-07-01) van deze wet zijn van overeenkomstige toepassing op een recht van opstal in dezelfde gevallen waarin die artikelen op een recht van erfpacht van toepassing zijn en voor zover het opstalrecht aan de daar bedoelde regels voor erfpacht is onderworpen.
 
 ##### Artikel 120
 
@@ -733,7 +733,7 @@ Op de aansprakelijkheid van producenten als bedoeld in [artikel 187 van Boek 6](
 
 ##### Artikel 139
 
-[Artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=41&z=2010-10-10&g=2010-10-10), van deze wet geldt niet voor een beding als bedoeld in [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=252) dat op het tijdstip van het in werking treden van de wet uit de openbare registers kenbaar is; de rechtsgevolgen die artikel 252 van Boek 6 en [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2) aan inschrijving in de openbare registers verbinden, komen slechts toe aan inschrijving na dit tijdstip.
+[Artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=41&z=2019-07-01&g=2019-07-01), van deze wet geldt niet voor een beding als bedoeld in [artikel 252 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=252) dat op het tijdstip van het in werking treden van de wet uit de openbare registers kenbaar is; de rechtsgevolgen die artikel 252 van Boek 6 en [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2) aan inschrijving in de openbare registers verbinden, komen slechts toe aan inschrijving na dit tijdstip.
 
 ##### Artikel 140
 
@@ -797,7 +797,7 @@ Op zaken die als gevolg van het in werking treden van de [artikelen 1](https://w
 
 ##### Artikel 171
 
-1. Verhindert [artikel 3, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=3&z=2010-10-10&g=2010-10-10), van deze wet dat een voortbewegingswerktuig of machinerie op het tijdstip van het in werking treden van de wet door natrekking eigendom van de reder van een schip wordt, dan treedt dat gevolg in op het tijdstip waarop het overeenkomstig het tevoren geldende recht zou geschieden.
+1. Verhindert [artikel 3, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=3&z=2019-07-01&g=2019-07-01), van deze wet dat een voortbewegingswerktuig of machinerie op het tijdstip van het in werking treden van de wet door natrekking eigendom van de reder van een schip wordt, dan treedt dat gevolg in op het tijdstip waarop het overeenkomstig het tevoren geldende recht zou geschieden.
 
 2. [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) wordt eerst drie maanden na het tijdstip van het in werking treden van [artikel 1 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=1) van toepassing op een bestaand beding als bedoeld in het vijfde lid van dat artikel dat op dat tijdstip nog niet in de openbare registers is ingeschreven.
 
@@ -815,7 +815,7 @@ Op een aanvaring welke heeft plaats gehad vóór het in werking treden van [tite
 
 ##### Artikel 175
 
-Op een hulpverlening die vóór het in werking treden van [titel 6, afdeling 2, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&afdeling=2) is aangevangen, zijn de bepalingen van die afdeling niet van toepassing, met uitzondering van het bepaalde in [artikel 571 van dat Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=571); de in dit artikel genoemde termijn wordt alsdan bepaald met inachtneming van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=49&z=2010-10-10&g=2010-10-10) van deze wet.
+Op een hulpverlening die vóór het in werking treden van [titel 6, afdeling 2, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&afdeling=2) is aangevangen, zijn de bepalingen van die afdeling niet van toepassing, met uitzondering van het bepaalde in [artikel 571 van dat Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=571); de in dit artikel genoemde termijn wordt alsdan bepaald met inachtneming van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=49&z=2019-07-01&g=2019-07-01) van deze wet.
 
 ##### Artikel 176
 
