@@ -4,7 +4,7 @@ identifier: "BWBR0012825"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2001-09-21"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012825"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ De waarschuwingen worden bekend gemaakt door middel van
 
 ##### Artikel 4
 
-De bekendmaking van de waarschuwingen via radiocommunicatiemiddelen is opgedragen aan het Kustwachtcentrum. Daarnaast worden de bekendmakingen van de waarschuwingen door het K.N.M.I. zo breed mogelijk bekend gesteld.
+De bekendmaking van de waarschuwingen via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend). Daarnaast worden de bekendmakingen van de waarschuwingen door het K.N.M.I. zo breed mogelijk bekend gesteld.
 
 ##### Artikel 5
 
@@ -89,7 +89,7 @@ De berichten worden bekend gemaakt door middel van
 
 ##### Artikel 9
 
-De bekendmaking van de weerbulletins via radiocommunicatiemiddelen is opgedragen aan het Kustwachtcentrum.
+De bekendmaking van de weerbulletins via radiocommunicatiemiddelen is opgedragen aan de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
 
 Een zo breed mogelijke bekendmaking van de weerbulletins wordt door het K.N.M.I. nagestreefd.
 
