@@ -4,7 +4,7 @@ identifier: "BWBR0028910"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2015-06-20"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028910"
 soort: "AMvB"
@@ -102,17 +102,17 @@ In dit besluit wordt verstaan onder het regionale organisatieonderdeel: het regi
 
 - 13°. 52°57'.9 NB, 04°48'.1 OL;
 
-- e. de directeur Kustwacht voor de Nederlandse territoriale zee, behoudens de onder b, onderdeel 2°, de onder c, onderdeel 2°, en de onder d genoemde gebieden, voorzover die in de Noordzee zijn gelegen.
+- e. de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), voor de Nederlandse territoriale zee, behoudens de onder b, onderdeel 2°, de onder c, onderdeel 2°, en de onder d genoemde gebieden, voorzover die in de Noordzee zijn gelegen.
 
 2. Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2015-06-20&g=2015-06-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2015-06-20&g=2015-06-20) aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27) en [22 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2019-07-01&g=2019-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2019-07-01&g=2019-07-01) aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27) en [22 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
 
 ##### Artikel 5
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2015-06-20&g=2015-06-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2015-06-20&g=2015-06-20) aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=16) en [artikel 8 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2019-07-01&g=2019-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2019-07-01&g=2019-07-01) aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=16) en [artikel 8 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
 ##### Artikel 6
 
