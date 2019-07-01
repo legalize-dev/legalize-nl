@@ -4,7 +4,7 @@ identifier: "BWBR0042316"
 country: "nl"
 rank: "wet"
 publication_date: "2019-07-01"
-last_updated: "2018-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042316"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2019-07-01"
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
@@ -55,23 +53,31 @@ Wijzigt de Jeugdwet.
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet normering topinkomens.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Tolkvoorzieningen voor auditief beperkten, die, voor de inwerkingtreding van [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042316&artikel=II&z=2019-07-01&g=2019-07-01), jegens Onze Minister van Volksgezondheid, Welzijn en Sport tot gelding konden worden gebracht, maar nog niet tot gelding zijn gebracht, kunnen na dat tijdstip jegens het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), tot gelding worden gebracht met de daaraan verbonden rechten en plichten.
+
+2. Met betrekking tot de auditief beperkte ten aanzien van wie een besluit is genomen met betrekking tot de omvang van de tolkvoorziening, bedoeld in het eerste lid, waarop hij is aangewezen, verstrekt Onze Minister van Volksgezondheid, Welzijn en Sport zo spoedig mogelijk aan het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in het eerste lid, gegevens omtrent de inhoud van dat besluit, alsmede het burgerservicenummer.
+
+3. In wettelijke procedures en rechtsgedingen, waarbij Onze Minister van Volksgezondheid, Welzijn en Sport is betrokken, treedt op het tijdstip van inwerkingtreding van [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042316&artikel=II&z=2019-07-01&g=2019-07-01), van deze wet, het Uitvoeringsinstituut werknemersverzekeringen in de plaats van Onze Minister van Volksgezondheid, Welzijn en Sport.
+
+4. Archiefbescheiden en de daarmee samenhangende verplichtingen, bedoeld in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), met betrekking tot tolkvoorzieningen als bedoeld in het eerste lid waarvoor reeds een aanvraag is ingediend en waarover op het tijdstip van inwerkingtreding van dat artikel nog geen toekenning heeft plaatsgevonden, of waarover al een besluit tot toekenning van een tolkvoorziening is genomen, worden door Onze Minister van Volksgezondheid, Welzijn en Sport overgedragen aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen II, onderdelen A en B, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042316&artikel=II&z=2019-07-01&g=2019-07-01) voor zover het betreft het nieuwe [artikel 3a.1.2 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.2), en onderdeel E, [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042316&artikel=III&z=2019-07-01&g=2019-07-01) en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0042316&artikel=V&z=2019-07-01&g=2019-07-01) werken terug tot en met 1 januari 2018. In afwijking van de vorige zin werkt artikel II, onderdeel B, voor de colleges van burgemeester en wethouders van de gemeenten Amsterdam, Berkelland, ’s-Gravenhage, Lansingerland, Pijnacker-Nootdorp, Rotterdam, Utrecht en Zoetermeer terug tot en met 1 januari 2019.
+
+3. In afwijking van [artikel 3a.1.2 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.2) kan tot 1 januari 2019 voor een telefonisch gesprek als bedoeld in artikel 3a.1.2 van de Wmo 2015, een bijdrage per gespreksminuut worden gevraagd.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet centraliseren tolkvoorzieningen auditief beperkten, luisterlijnen en vertrouwenswerk jeugd.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
