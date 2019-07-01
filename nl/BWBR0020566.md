@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-05-18"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ Meetinstrumenten als bedoeld in [artikel 5 van het Besluit meetinstrumenten en m
 
 - c. zij worden uitsluitend gebruikt voor metingen overeenkomstig hun bestemming;
 
-- d. zij worden zodanig gejusteerd en gecorrigeerd dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen.
+- d. zij worden zodanig gejusteerd en gecorrigeerd dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen;
+
+- e. zij zijn zodanig opgesteld dat, indien zij aanwezig zijn op plaatsen van verkoop aan particulieren van goederen die bij de maat of het gewicht worden verkocht, de koper de aanwijzing van het betrokken meetinstrument of niet-automatisch weegwerktuig onbelemmerd kan waarnemen.
 
 ##### Artikel 3
 
@@ -82,7 +84,7 @@ Meetinstrumenten als bedoeld in [artikel 5 van het Besluit meetinstrumenten en m
 
 ##### Artikel 4
 
-1. Niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) voldoen na ingebruikneming aan de essentiële eisen van bijlage I van de richtlijn niet-automatische weegwerktuigen.
+1. Niet-automatische weegwerktuigen als bedoeld in [artikel 6 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) voldoen na ingebruikneming aan de essentiële eisen van bijlagen I en III van de richtlijn niet-automatische weegwerktuigen.
 
 2. [Artikel 6, tweede lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=6) is van toepassing.
 
@@ -316,7 +318,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Voordat een thermische energiemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de thermische energiemeter geschikt is voor een correcte meting van het te verwachten gebruik.
 
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2017-05-18&g=2017-05-18) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2019-07-01&g=2019-07-01) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
 
 #### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
 
