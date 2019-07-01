@@ -4,7 +4,7 @@ identifier: "BWBR0028744"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2020-07-08"
-last_updated: "2010-10-10"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028744"
 soort: "wet-BES"
@@ -43,7 +43,7 @@ entry_into_force: "2010-10-10"
 
 1. De bepalingen van deze titel gelden voor de in dit boek in afzonderlijke rechtsvormen geregelde rechtspersonen: de stichting, de stichting particulier fonds,de vereniging, de coöperatie, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=3&z=2010-10-10&g=2010-10-10) geldt ook voor andere rechtsvormen die als rechtspersoon hebben te gelden. Voor zover het tegendeel niet uit de wet voortvloeit en de aard van de rechtspersoon zich niet daartegen verzet kunnen de overige bepalingen van deze titel analogisch worden toegepast op die andere rechtspersonen.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=3&z=2019-07-01&g=2019-07-01) geldt ook voor andere rechtsvormen die als rechtspersoon hebben te gelden. Voor zover het tegendeel niet uit de wet voortvloeit en de aard van de rechtspersoon zich niet daartegen verzet kunnen de overige bepalingen van deze titel analogisch worden toegepast op die andere rechtspersonen.
 
 3. Van de bepalingen van dit boek kan slechts worden afgeweken voor zover dat uit de wet blijkt.
 
@@ -55,7 +55,7 @@ entry_into_force: "2010-10-10"
 
 3. Is ten name van een niet bestaande rechtspersoon een vermogen gevormd, dan verklaart de rechter op verzoek van een belanghebbende of het openbaar ministerie dat dit vermogen toebehoort aan een bij die beschikking in het leven geroepen rechtspersoon in de voorgewende rechtsvorm. Tenzij een andere oplossing de rechter geraden voorkomt ontbindt de rechter die rechtspersoon bij dezelfde beschikking.
 
-Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing. De andere oplossing kan bestaan in het alsnog vaststellen van statuten door de rechter en het aanwijzen van bestuurders, commissarissen, leden of aandeelhouders.
+Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing. De andere oplossing kan bestaan in het alsnog vaststellen van statuten door de rechter en het aanwijzen van bestuurders, commissarissen, leden of aandeelhouders.
 
 4. Is het niet ontstaan van de rechtspersoon geheel of gedeeltelijk te wijten aan de grove schuld of de grove nalatigheid van een of meer personen die voor de ontbinding hebben gefungeerd als oprichter, bestuurder, commissaris, lid of aandeelhouder, dan zijn deze jegens de ontbonden rechtspersoon hoofdelijk aansprakelijk voor een bij de vereffening blijkend tekort.
 
@@ -99,7 +99,7 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 ##### Artikel 8
 
-1. Met uitzondering van de in [artikel 239](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=239&z=2010-10-10&g=2010-10-10) bedoelde aandeelhouderbestuurde vennootschap heeft iedere rechtspersoon een bestuur.
+1. Met uitzondering van de in [artikel 239](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=239&z=2019-07-01&g=2019-07-01) bedoelde aandeelhouderbestuurde vennootschap heeft iedere rechtspersoon een bestuur.
 
 2. Behoudens wettelijke of statutaire beperkingen, daaronder begrepen beperkingen krachtens de statuten of door een krachtens de wet of de statuten vastgesteld reglement, is het bestuur belast met het besturen van de rechtspersoon. Individuele bestuurders oefenen hun bevoegdheden uit met inachtneming van de besluiten van het bestuur.
 
@@ -115,15 +115,15 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. De rechter in eerste aanleg van het openbaar lichaam waar de rechtspersoon zijn statutaire zetel of, bij gebreke daarvan, zijn centrum van activiteiten heeft, neemt kennis van alle rechtsvorderingen die krachtens dit boek of de statuten tegen een bestuurder of de rechtspersoon worden ingesteld, alsook van de rechtsvorderingen waartoe de overeenkomst tussen een bestuurder en de rechtspersoon aanleiding geeft. Hetzelfde geldt voor alle overige in dit boek geregelde procedures. Tenzij anders is overeengekomen geldt hetzelfde voor procedures die voortvloeien uit de aandeelhoudersovereenkomst bedoeld in het [tweede lid van de artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=127&z=2010-10-10&g=2010-10-10) en [227](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2010-10-10&g=2010-10-10) en [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=240&z=2010-10-10&g=2010-10-10).
+1. De rechter in eerste aanleg van het openbaar lichaam waar de rechtspersoon zijn statutaire zetel of, bij gebreke daarvan, zijn centrum van activiteiten heeft, neemt kennis van alle rechtsvorderingen die krachtens dit boek of de statuten tegen een bestuurder of de rechtspersoon worden ingesteld, alsook van de rechtsvorderingen waartoe de overeenkomst tussen een bestuurder en de rechtspersoon aanleiding geeft. Hetzelfde geldt voor alle overige in dit boek geregelde procedures. Tenzij anders is overeengekomen geldt hetzelfde voor procedures die voortvloeien uit de aandeelhoudersovereenkomst bedoeld in het [tweede lid van de artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=127&z=2019-07-01&g=2019-07-01) en [227](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2019-07-01&g=2019-07-01) en [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=240&z=2019-07-01&g=2019-07-01).
 
-2. De statuten kunnen bepalen dat alle of bepaalde geschillen tussen twee of meer van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde personen als zodanig worden beslist door arbitrage.
+2. De statuten kunnen bepalen dat alle of bepaalde geschillen tussen twee of meer van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01), bedoelde personen als zodanig worden beslist door arbitrage.
 
 ##### Artikel 10
 
 1. Behoudens beperkingen in de wet en de statuten is het bestuur bevoegd tot vertegenwoordiging van de rechtspersoon. Indien er meer bestuurders zijn is iedere bestuurder bevoegd, voor zover de statuten niet anders bepalen.
 
-2. Beperkingen van de bestuursbevoegdheid als bedoeld in het [tweede lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10) strekken mede tot beperking van de daarmee samenhangende vertegenwoordigingsbevoegdheid.
+2. Beperkingen van de bestuursbevoegdheid als bedoeld in het [tweede lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01) strekken mede tot beperking van de daarmee samenhangende vertegenwoordigingsbevoegdheid.
 
 3. Tenzij de statuten anders bepalen kan, onverminderd het bepaalde in de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503), een beperking van de vertegenwoordigingsbevoegdheid als bedoeld in het eerste en tweede lid, aan een wederpartij die de beperking kent of behoort te kennen worden tegengeworpen. [Artikel 61, tweede en derde lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=61), vindt overeenkomstige toepassing. Aan de wederpartij komt slechts toe een beroep op het bepaalde in het vierde lid van dit artikel.
 
@@ -185,7 +185,7 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 1. In geval van faillissement van de rechtspersoon is iedere bestuurder jegens de boedel hoofdelijk aansprakelijk voor het tekort, zijnde het bedrag van de schulden voor zover deze niet door vereffening van de overige baten kunnen worden voldaan, indien er sprake is geweest van kennelijk onbehoorlijk bestuur en aannemelijk is dat dit een belangrijke oorzaak is van het faillissement.
 
-2. Indien niet is voldaan aan de verplichtingen uit [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10) of de jaarrekening niet tijdig is opgemaakt, wordt vermoed dat er ook voor het overige sprake is geweest van kennelijk onbehoorlijk bestuur en dat onbehoorlijk bestuur een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de rechtspersoon volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit [artikel 15a van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=15a). Een onbelangrijk verzuim wordt niet in aanmerking genomen.
+2. Indien niet is voldaan aan de verplichtingen uit [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01) of de jaarrekening niet tijdig is opgemaakt, wordt vermoed dat er ook voor het overige sprake is geweest van kennelijk onbehoorlijk bestuur en dat onbehoorlijk bestuur een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de rechtspersoon volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit [artikel 15a van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=15a). Een onbelangrijk verzuim wordt niet in aanmerking genomen.
 
 3. Niet aansprakelijk is de bestuurder die bewijst dat het onbehoorlijk bestuur dat een belangrijke oorzaak is geweest van het faillissement, mede gelet op zijn werkkring en de periode gedurende welke hij in functie is geweest, niet aan hem te wijten is en dat hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen daarvan af te wenden.
 
@@ -197,29 +197,29 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 7. Op vordering van de curator of een aangesproken bestuurder kan de rechter bepalen dat bij de berekening van het tekort en de verdeling van de opbrengst uit hoofde van dit artikel via de uitdelingslijst de vordering van een schuldeiser geheel of gedeeltelijk buiten beschouwing blijft indien en voor zover analogische toepassing van [artikel 101, eerste lid, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=101) daartoe aanleiding geeft. De vordering wordt ingesteld tegen de daartoe in het geding geroepen schuldeiser.
 
-8. Bij de toepassing van het eerste lid wordt slechts in aanmerking genomen het onbehoorlijk bestuur in de periode van drie jaren voorafgaande aan het faillissement of de in de zin van [artikel 238 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=238) daaraan voorafgaande surséance van betaling. [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+8. Bij de toepassing van het eerste lid wordt slechts in aanmerking genomen het onbehoorlijk bestuur in de periode van drie jaren voorafgaande aan het faillissement of de in de zin van [artikel 238 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=238) daaraan voorafgaande surséance van betaling. [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
 
-9. Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die gedurende enig tijdvak binnen de in het achtste lid bedoelde periode het beleid van de rechtspersoon heeft bepaald of mede heeft bepaald, als ware hij bestuurder, dan wel als oprichter kennelijk onzorgvuldig heeft gehandeld. De vordering kan niet worden ingesteld tegen een door de rechter, anders dan ingevolge de laatste volzin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=2&z=2010-10-10&g=2010-10-10), benoemde functionaris.
+9. Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die gedurende enig tijdvak binnen de in het achtste lid bedoelde periode het beleid van de rechtspersoon heeft bepaald of mede heeft bepaald, als ware hij bestuurder, dan wel als oprichter kennelijk onzorgvuldig heeft gehandeld. De vordering kan niet worden ingesteld tegen een door de rechter, anders dan ingevolge de laatste volzin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=2&z=2019-07-01&g=2019-07-01), benoemde functionaris.
 
 10. De bovenstaande leden van dit artikel vinden toepassing bij de naamloze en de besloten vennootschap. Voor het overige vinden zij slechts toepassing bij de rechtspersoon aan welke gedurende enig tijdvak binnen de in het achtste lid bedoelde periode een onderneming in de zin van de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) toebehoorde, waarbij dan alleen onbehoorlijk bestuur gedurende dat tijdvak in aanmerking wordt genomen.
 
 11. De bovenstaande leden zijn van toepassing dan wel van overeenkomstige toepassing op de aansprakelijkheid van bestuurders van niet door het recht van de openbare lichamen Bonaire, Sint Eustatius en Saba beheerste rechtspersonen, indien deze in de openbare lichamen Bonaire, Sint Eustatius en Saba failliet worden verklaard. Als bestuurders zijn eveneens aansprakelijk degenen die met de leiding van de in de openbare lichamen Bonaire, Sint Eustatius en Saba verrichte werkzaamheden zijn belast. Bevoegd is de rechter die het faillissement heeft uitgesproken.
 
-12. Dit artikel laat onverlet de bevoegdheid van de curator tot het instellen van een vordering op grond van de overeenkomst met de bestuurder of op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10).
+12. Dit artikel laat onverlet de bevoegdheid van de curator tot het instellen van een vordering op grond van de overeenkomst met de bestuurder of op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 17
 
 1. De aansprakelijkheid van een rechtspersoon als bestuurder van een andere rechtspersoon rust tevens hoofdelijk op ieder die ten tijde van het ontstaan van de aansprakelijkheid van de rechtspersoon daarvan bestuurder is.
 
-2. Ten aanzien van de aan het slot van het eerste lid bedoelde bestuurder vinden [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10), en [artikel 16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2010-10-10&g=2010-10-10), overeenkomstige toepassing.
+2. Ten aanzien van de aan het slot van het eerste lid bedoelde bestuurder vinden [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01), en [artikel 16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2019-07-01&g=2019-07-01), overeenkomstige toepassing.
 
 ##### Artikel 18
 
 1. De statuten kunnen bepalen dat de bestuurstaken op de in dit artikel bepaalde wijze worden verdeeld over een algemeen bestuur en een uitvoerend bestuur.
 
-2. Behoudens beperkingen overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10), is het uitvoerend bestuur belast met het besturen van de rechtspersoon, voor zover dit betrekking heeft op de dagelijkse gang van zaken. Het uitvoerend bestuur is voorts belast met de overige taken die in dit boek aan het bestuur zijn toebedeeld.
+2. Behoudens beperkingen overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01), is het uitvoerend bestuur belast met het besturen van de rechtspersoon, voor zover dit betrekking heeft op de dagelijkse gang van zaken. Het uitvoerend bestuur is voorts belast met de overige taken die in dit boek aan het bestuur zijn toebedeeld.
 
-3. Behoudens beperkingen in de wet en de statuten is het uitvoerend bestuur bevoegd tot vertegenwoordiging van de rechtspersoon. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=10&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+3. Behoudens beperkingen in de wet en de statuten is het uitvoerend bestuur bevoegd tot vertegenwoordiging van de rechtspersoon. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=10&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing.
 
 4. Tot de taak van het algemeen bestuur behoort in elk geval: het als zodanig benoemen van uitvoerende bestuurders en het vaststellen van hun bezoldiging als zodanig, het beslissen over aangelegenheden die de dagelijkse gang van zaken te boven gaan en het houden van toezicht op het uitvoerend bestuur.
 
@@ -231,13 +231,13 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 8. Het algemeen bestuur is te allen tijde bevoegd een uitvoerend bestuurder als zodanig te ontslaan of voor een periode van maximaal twee maanden te schorsen.
 
-9. Voor de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2010-10-10&g=2010-10-10), heeft het algemeen bestuur als bestuur te gelden. Het uitvoerend bestuur oefent zijn bevoegdheden als zodanig uit met inachtneming van de besluiten van het algemeen bestuur. Binnen het uitvoerend bestuur oefenen individuele bestuurders hun bevoegdheden uit met inachtneming van de besluiten van het uitvoerend bestuur.
+9. Voor de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01), heeft het algemeen bestuur als bestuur te gelden. Het uitvoerend bestuur oefent zijn bevoegdheden als zodanig uit met inachtneming van de besluiten van het algemeen bestuur. Binnen het uitvoerend bestuur oefenen individuele bestuurders hun bevoegdheden uit met inachtneming van de besluiten van het uitvoerend bestuur.
 
 10. Onverminderd het bepaalde in het negende lid hebben voor de toepassing van de wet leden van het algemeen bestuur en van het uitvoerend bestuur gelijkelijk als bestuurder te gelden, voor zover het tegendeel niet uit de wet blijkt.
 
 ##### Artikel 19
 
-1. Tenzij toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10) kunnen de statuten bepalen dat er een raad van commissarissen is of kan zijn. Zij omschrijven dan de taak van de raad van commissarissen.
+1. Tenzij toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01) kunnen de statuten bepalen dat er een raad van commissarissen is of kan zijn. Zij omschrijven dan de taak van de raad van commissarissen.
 
 2. Tot de taak van de raad van commissarissen behoort in elk geval het houden van toezicht op het bestuur.
 
@@ -249,9 +249,9 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 6. Het bestuur verschaft de raad van commissarissen en de individuele commissarissen tijdig de voor de uitoefening van hun taak noodzakelijke of met het oog daarop door de betrokkene verlangde gegevens.
 
-7. Het bepaalde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing ten aanzien van commissarissen. Bij de vervulling van zijn taak richt de raad van commissarissen zich naar het belang van de rechtspersoon en, voor zover daarvan sprake is, de met deze verbonden onderneming. Tenzij de statuten anders bepalen, sluit dit niet uit dat een commissaris, met inachtneming van de vorige zin, in het bijzonder opkomt voor de belangen van degene die hem heeft benoemd of voorgedragen en deze belangen relatief zwaar laat wegen.
+7. Het bepaalde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2019-07-01&g=2019-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing ten aanzien van commissarissen. Bij de vervulling van zijn taak richt de raad van commissarissen zich naar het belang van de rechtspersoon en, voor zover daarvan sprake is, de met deze verbonden onderneming. Tenzij de statuten anders bepalen, sluit dit niet uit dat een commissaris, met inachtneming van de vorige zin, in het bijzonder opkomt voor de belangen van degene die hem heeft benoemd of voorgedragen en deze belangen relatief zwaar laat wegen.
 
-8. Op de benoeming, de schorsing en het ontslag van commissarissen zijn onderscheidenlijk de [artikelen 51, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=51&z=2010-10-10&g=2010-10-10), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2010-10-10&g=2010-10-10) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing. Bij de naamloze vennootschap is [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=6&artikel=136&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, behoudens het bepaalde in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2010-10-10&g=2010-10-10).
+8. Op de benoeming, de schorsing en het ontslag van commissarissen zijn onderscheidenlijk de [artikelen 51, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=51&z=2019-07-01&g=2019-07-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2019-07-01&g=2019-07-01) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing. Bij de naamloze vennootschap is [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=6&artikel=136&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing, behoudens het bepaalde in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 20
 
@@ -273,11 +273,11 @@ Het [zesde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl
 
 - a. onverminderd het bepaalde in het tweede lid van dit artikel, strijd met bepalingen van de wet of de statuten, die de tot standkoming van besluiten regelen;
 
-- b. strijd met de redelijkheid en billijkheid die door [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10) wordt geëist;
+- b. strijd met de redelijkheid en billijkheid die door [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01) wordt geëist;
 
 - c. strijd met een krachtens de statuten vastgesteld reglement;
 
-- d. strijd met een aandeelhoudersovereenkomst als bedoeld in het [tweede lid van de artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=127&z=2010-10-10&g=2010-10-10) en [227](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2010-10-10&g=2010-10-10), waarbij alle aandeelhouders en ook de vennootschap partij zijn.
+- d. strijd met een aandeelhoudersovereenkomst als bedoeld in het [tweede lid van de artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=127&z=2019-07-01&g=2019-07-01) en [227](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2019-07-01&g=2019-07-01), waarbij alle aandeelhouders en ook de vennootschap partij zijn.
 
 4. De bevoegdheid om vernietiging van een besluit te vorderen vervalt zes maanden na het einde van de dag, waarop hetzij aan het besluit voldoende bekendheid is gegeven, hetzij de belanghebbende van het besluit kennis heeft genomen of daarvan is verwittigd.
 
@@ -301,7 +301,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 - c. de statuten in strijd zijn met de wet;
 
-- d. in geval van ontstentenis van alle bestuurders, niet op de voet van de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=12&z=2010-10-10&g=2010-10-10), bedoelde voorschriften tijdelijk in het bestuur is voorzien;
+- d. in geval van ontstentenis van alle bestuurders, niet op de voet van de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=12&z=2019-07-01&g=2019-07-01), bedoelde voorschriften tijdelijk in het bestuur is voorzien;
 
 2. De rechter kan een vereniging, coöperatie of onderlinge waarborgmaatschappij ook ontbinden bij het geheel ontbreken van leden.
 
@@ -309,7 +309,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 - a. niet ten minste één aandeel met volledig stemrecht dat deelt in de winst, dan wel één aandeel met volledig stemrecht en één aandeel dat deelt in de winst, wordt gehouden door een ander dan de vennootschap zelf;
 
-- b. het verzoek tot ontbinding is gedaan binnen een jaar na de oprichting en de vennootschap niet kan aantonen dat de in [artikel 101, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=1&artikel=101&z=2010-10-10&g=2010-10-10), respectievelijk [201, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=1&artikel=201&z=2010-10-10&g=2010-10-10) bedoelde verklaring juist was dan wel de in artikel 101, tweede lid, respectievelijk 201, tweede lid bedoelde oprichtingsbalans bij waardering van de getoonde activa en passiva naar in het maatschappelijk verkeer aanvaardbare maatstaven de toen bestaande toestand juist weergaf.
+- b. het verzoek tot ontbinding is gedaan binnen een jaar na de oprichting en de vennootschap niet kan aantonen dat de in [artikel 101, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=1&artikel=101&z=2019-07-01&g=2019-07-01), respectievelijk [201, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=1&artikel=201&z=2019-07-01&g=2019-07-01) bedoelde verklaring juist was dan wel de in artikel 101, tweede lid, respectievelijk 201, tweede lid bedoelde oprichtingsbalans bij waardering van de getoonde activa en passiva naar in het maatschappelijk verkeer aanvaardbare maatstaven de toen bestaande toestand juist weergaf.
 
 4. Ontbinding kan worden verzocht door een belanghebbende of het openbaar ministerie. Van de indiening van het verzoek wordt door de indiener mededeling gedaan in de Staatscourant. Indien de rechtspersoon is ingeschreven in het handelsregister wordt van de indiening tevens opgave gedaan ten kantore van het handelsregister, ter inschrijving.
 
@@ -321,7 +321,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 8. Van de beschikking, waarbij de rechtspersoon ontbonden wordt verklaard, wordt door de curator mededeling gedaan in de Staatscourant. Indien de rechtspersoon is ingeschreven in het handelsregister wordt van de beschikking tevens opgave gedaan ten kantore van het handelsregister, ter inschrijving.
 
-9. Is de ontbindingsgrond geheel of gedeeltelijk te wijten aan de grove schuld of de grove nalatigheid van een of meer oprichters, huidige of voormalige bestuurders of commissarissen, dan wel huidige of voormalige leden of aandeelhouders, dan zijn deze jegens de ontbonden rechtspersoon hoofdelijk aansprakelijk voor een bij de vereffening blijkend tekort. [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing.
+9. Is de ontbindingsgrond geheel of gedeeltelijk te wijten aan de grove schuld of de grove nalatigheid van een of meer oprichters, huidige of voormalige bestuurders of commissarissen, dan wel huidige of voormalige leden of aandeelhouders, dan zijn deze jegens de ontbonden rechtspersoon hoofdelijk aansprakelijk voor een bij de vereffening blijkend tekort. [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing.
 
 ##### Artikel 25
 
@@ -341,11 +341,11 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 4. Verschijnt de rechtspersoon dan gaat de rechter niet tot ontbinding over alvorens hij de rechtspersoon in de gelegenheid heeft gesteld de gronden voor de ontbinding weg te nemen.
 
-5. Het [zesde tot en met het negende lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing. Indien de rechter de Kamer van Koophandel tot curator benoemt kan de Kamer de benoeming niet weigeren.
+5. Het [zesde tot en met het negende lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing. Indien de rechter de Kamer van Koophandel tot curator benoemt kan de Kamer de benoeming niet weigeren.
 
 ##### Artikel 26
 
-1. De rechter voor wie een verzoek tot ontbinding van een rechtspersoonaanhangig is, kan op verzoek van een belanghebbende of het openbaar ministerie een voorziening treffen als bedoeld in het [derde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2010-10-10&g=2010-10-10) indien het belang van de rechtspersoon of een andere in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde persoon, dan wel het belang van de crediteuren van de rechtspersoon dit eist. De overige bepalingen van artikel 255 vinden overeenkomstige toepassing.
+1. De rechter voor wie een verzoek tot ontbinding van een rechtspersoonaanhangig is, kan op verzoek van een belanghebbende of het openbaar ministerie een voorziening treffen als bedoeld in het [derde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2019-07-01&g=2019-07-01) indien het belang van de rechtspersoon of een andere in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01), bedoelde persoon, dan wel het belang van de crediteuren van de rechtspersoon dit eist. De overige bepalingen van artikel 255 vinden overeenkomstige toepassing.
 
 2. Zolang een verzoek tot ontbinding van een naamloze of besloten vennootschap aanhangig is, mogen de aandeelhouders hun aandelen niet vervreemden, verpanden of met vruchtgebruik belasten zonder toestemming van de rechter.
 
@@ -373,7 +373,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 1. Indien noch bij de statuten noch bij besluit van de algemene vergadering vereffenaars zijn aangewezen of benoemd, treedt het bestuur als zodanig op. De rechter is te allen tijde bevoegd om op verzoek van een belanghebbende of het openbaar ministerie een vereffenaar te ontslaan, een of meer andere vereffenaars aan te wijzen, deze van de nodige instructies te voorzien en een beslissing te nemen ten aanzien van de beloning van vereffenaars en de onderlinge verdeling van die beloning.
 
-2. Zijn er twee of meer vereffenaars, dan kan ieder van hen alle werkzaamheden tot vereffening verrichten, tenzij anders is bepaald. Bij verschil van mening tussen de vereffenaars beslist de rechter op de voet van het eerste lid, tweede zin. Voor het overige vinden de bepalingen omtrent de bevoegdheden, plichten en aansprakelijkheid van bestuurders ten aanzien van de vereffenaars zo veel mogelijk toepassing, onverminderd het bepaalde in het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=28&z=2010-10-10&g=2010-10-10).
+2. Zijn er twee of meer vereffenaars, dan kan ieder van hen alle werkzaamheden tot vereffening verrichten, tenzij anders is bepaald. Bij verschil van mening tussen de vereffenaars beslist de rechter op de voet van het eerste lid, tweede zin. Voor het overige vinden de bepalingen omtrent de bevoegdheden, plichten en aansprakelijkheid van bestuurders ten aanzien van de vereffenaars zo veel mogelijk toepassing, onverminderd het bepaalde in het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=28&z=2019-07-01&g=2019-07-01).
 
 3. Blijkt de vereffenaar dat de schulden de baten vermoedelijk zullen overtreffen dan doet hij aangifte tot faillietverklaring, tenzij alle bekende schuldeisers desgevraagd schriftelijk instemmen met voortzetting van de vereffening buiten faillissement.
 
@@ -381,7 +381,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 ##### Artikel 30
 
-1. De vereffenaar maakt de activa van de rechtspersoon te gelde, wikkelt de verhoudingen tot derden af en betaalt de schulden. Hetgeen na de voldoening van de schuldeisers overblijft wordt aan hen die krachtens de statuten daartoe zijn gerechtigd uitgekeerd, of anders aan de leden of aandeelhouders. Bij de naamloze en besloten vennootschap vindt het [derde lid van artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2010-10-10&g=2010-10-10), respectievelijk [artikel 218](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing. Heeft geen ander recht op het overschot dan keert de vereffenaar dit uit aan de Staat.
+1. De vereffenaar maakt de activa van de rechtspersoon te gelde, wikkelt de verhoudingen tot derden af en betaalt de schulden. Hetgeen na de voldoening van de schuldeisers overblijft wordt aan hen die krachtens de statuten daartoe zijn gerechtigd uitgekeerd, of anders aan de leden of aandeelhouders. Bij de naamloze en besloten vennootschap vindt het [derde lid van artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2019-07-01&g=2019-07-01), respectievelijk [artikel 218](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2019-07-01&g=2019-07-01) overeenkomstige toepassing. Heeft geen ander recht op het overschot dan keert de vereffenaar dit uit aan de Staat.
 
 2. De vereffenaar is bevoegd om, indien de staat van de boedel daartoe aanleiding geeft, uitkeringen bij voorbaat te doen.
 
@@ -489,7 +489,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 - e. de bestemming van het overschot na vereffening in geval van ontbinding van de stichting of de wijze waarop de bestemming zal worden vastgesteld.
 
-2. De statuten van de stichting kunnen door haar organen slechts worden gewijzigd, indien en voor zover de statuten daartoe de mogelijkheid openen, onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10).
+2. De statuten van de stichting kunnen door haar organen slechts worden gewijzigd, indien en voor zover de statuten daartoe de mogelijkheid openen, onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 52
 
@@ -505,7 +505,7 @@ Bij de vaststelling in hoeverre is voldaan aan een quorum of meerderheidseis, wo
 
 2. De rechter wijkt daarbij zo min mogelijk van de bestaande statuten af. Indien wijziging van het doel noodzakelijk is, wijst hij een doel aan dat aan het bestaande verwant is. Met inachtneming van het vorenstaande is de rechter bevoegd, zo nodig, de statuten op andere wijze te wijzigen dan is verzocht.
 
-3. Met overeenkomstige toepassing van het eerste en tweede lid kan de rechter de statuten wijzigen om ontbinding van de stichting op een grond als vermeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) of [artikel 57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=57&z=2010-10-10&g=2010-10-10), te voorkomen.
+3. Met overeenkomstige toepassing van het eerste en tweede lid kan de rechter de statuten wijzigen om ontbinding van de stichting op een grond als vermeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) of [artikel 57, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=57&z=2019-07-01&g=2019-07-01), te voorkomen.
 
 4. In een geding, waarin ontbinding van een stichting op een grond als in het derde lid vermeld wordt verzocht kan de rechter de in dit artikel bedoelde bevoegdheden ook ambtshalve uitoefenen.
 
@@ -523,9 +523,9 @@ De rechter is bevoegd te dier zake de hem geraden voorkomende bevelen te geven. 
 
 4. Op verzoek van de onderzoeker kan de rechter getuigen en deskundigen horen.
 
-Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkelijke verzoeker, de onderzoeker gehoord, voorzieningen treffen als bedoeld in het derde lid van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2010-10-10&g=2010-10-10).
+Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkelijke verzoeker, de onderzoeker gehoord, voorzieningen treffen als bedoeld in het derde lid van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2019-07-01&g=2019-07-01).
 
-5. De voorziening kan te allen tijde op verzoek van een belanghebbende worden ingetrokken, verlengd of gewijzigd. Zij vervalt op het door de rechter bepaalde tijdstip en in elk geval op het tijdstip dat twee maanden zijn verstreken nadat het rapport overeenkomstig het zesde lid ter griffie van het gerecht is neergelegd, tenzij voordien een verzoek is ingediend op de voet van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=55&z=2010-10-10&g=2010-10-10). De voorziening vervalt dan in elk geval wanneer het verzoek wordt afgewezen en die beslissing onherroepelijk is geworden. Wordt het verzoek geheel of gedeeltelijk toegewezen dan kan de rechter desgevraagd of ambtshalve de voorziening verlengen totdat overeenkomstig de statuten dan wel op de voet van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=56&z=2010-10-10&g=2010-10-10), in de vervulling van de ledige plaats is voorzien. Het [vierde en vijfde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+5. De voorziening kan te allen tijde op verzoek van een belanghebbende worden ingetrokken, verlengd of gewijzigd. Zij vervalt op het door de rechter bepaalde tijdstip en in elk geval op het tijdstip dat twee maanden zijn verstreken nadat het rapport overeenkomstig het zesde lid ter griffie van het gerecht is neergelegd, tenzij voordien een verzoek is ingediend op de voet van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=55&z=2019-07-01&g=2019-07-01). De voorziening vervalt dan in elk geval wanneer het verzoek wordt afgewezen en die beslissing onherroepelijk is geworden. Wordt het verzoek geheel of gedeeltelijk toegewezen dan kan de rechter desgevraagd of ambtshalve de voorziening verlengen totdat overeenkomstig de statuten dan wel op de voet van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=56&z=2019-07-01&g=2019-07-01), in de vervulling van de ledige plaats is voorzien. Het [vierde en vijfde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing.
 
 6. Het door de onderzoeker uitgebrachte rapport wordt ter griffie van het gerecht neergelegd en in afschrift verstrekt aan de stichting en de oorspronkelijke verzoeker. Uit het rapport moet blijken dat de inhoud daarvan aan het bestuur in concept is voorgelegd alsmede tot welke opmerkingen van het bestuur en bijstellingen van de inhoud deze opmerkingen aanleiding hebben gegeven.
 
@@ -541,7 +541,7 @@ Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkeli
 
 - a. hij iets doet of nalaat in strijd met de bepalingen van de wet of de statuten;
 
-- b. naar het oordeel van de rechter uit het in [artikel 54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=54&z=2010-10-10&g=2010-10-10), bedoelde rapport blijkt dat de bestuurder zich schuldig heeft gemaakt aan kennelijk onbehoorlijk bestuur of dat zijn optreden als zodanig aan een behoorlijk functioneren van het bestuur in de weg staat.
+- b. naar het oordeel van de rechter uit het in [artikel 54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=54&z=2019-07-01&g=2019-07-01), bedoelde rapport blijkt dat de bestuurder zich schuldig heeft gemaakt aan kennelijk onbehoorlijk bestuur of dat zijn optreden als zodanig aan een behoorlijk functioneren van het bestuur in de weg staat.
 
 2. De rechter kan bepalen dat een door hem ontslagen bestuurder gedurende vijf jaar nadat het ontslag onherroepelijk is geworden geen bestuurder van een stichting kan zijn.
 
@@ -551,7 +551,7 @@ Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkeli
 
 1. Telkens wanneer het door de statuten voorgeschreven bestuur geheel of gedeeltelijk ontbreekt en daarin niet overeenkomstig de statuten wordt voorzien, kan de rechter op verzoek van een belanghebbende of het openbaar ministerie in de vervulling van de ledige plaats voorzien. De rechter neemt daarbij zoveel mogelijk de statuten in acht.
 
-2. De rechter kan desverzocht of ambtshalve in de ledige plaats voorzien tegelijk met de toewijzing van een verzoek als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=55&z=2010-10-10&g=2010-10-10).
+2. De rechter kan desverzocht of ambtshalve in de ledige plaats voorzien tegelijk met de toewijzing van een verzoek als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=55&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 57
 
@@ -561,15 +561,15 @@ Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkeli
 
 - b. het doel der stichting is bereikt of niet meer kan worden bereikt en wijziging van het doel niet in aanmerking komt.
 
-2. De rechter kan desverzocht of ambtshalve de stichting ontbinden tegelijk met de afwijzing van een verzoek als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=53&z=2010-10-10&g=2010-10-10) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=56&z=2010-10-10&g=2010-10-10).
+2. De rechter kan desverzocht of ambtshalve de stichting ontbinden tegelijk met de afwijzing van een verzoek als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=53&z=2019-07-01&g=2019-07-01) of [56](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=2&artikel=56&z=2019-07-01&g=2019-07-01).
 
-3. Het [vierde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+3. Het [vierde tot en met het achtste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing.
 
 ## Titel 3. De vereniging
 
 ##### Artikel 70
 
-1. De vereniging is een rechtspersoon met leden die is gericht op een bepaald doel, anders dan een dat is omschreven in [artikel 90, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=90&z=2010-10-10&g=2010-10-10).
+1. De vereniging is een rechtspersoon met leden die is gericht op een bepaald doel, anders dan een dat is omschreven in [artikel 90, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=90&z=2019-07-01&g=2019-07-01).
 
 2. Een vereniging wordt bij meerzijdige rechtshandeling opgericht.
 
@@ -577,7 +577,7 @@ Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkeli
 
 ##### Artikel 71
 
-1. Wordt een vereniging opgericht bij een notariële akte dan moeten, onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10), de volgende bepalingen in acht worden genomen.
+1. Wordt een vereniging opgericht bij een notariële akte dan moeten, onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01), de volgende bepalingen in acht worden genomen.
 
 2. De statuten moeten inhouden:
 
@@ -595,9 +595,9 @@ Ook kan hij op verzoek van de onderzoeker dan wel op verzoek van de oorspronkeli
 
 ##### Artikel 72
 
-1. Een vereniging die niet overeenkomstig het [eerste lid van artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=71&z=2010-10-10&g=2010-10-10) is opgericht, kan geen regels kennen die als statuten in de zin van dit boek hebben te gelden, tenzij deze schriftelijk zijn vastgelegd in een daartoe bestemd document.
+1. Een vereniging die niet overeenkomstig het [eerste lid van artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=71&z=2019-07-01&g=2019-07-01) is opgericht, kan geen regels kennen die als statuten in de zin van dit boek hebben te gelden, tenzij deze schriftelijk zijn vastgelegd in een daartoe bestemd document.
 
-2. De algemene vergadering van een vereniging als in het eerste lid bedoeld kan besluiten de statuten te doen opnemen in een notariële akte. Alsdan is [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=71&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. De algemene vergadering van een vereniging als in het eerste lid bedoeld kan besluiten de statuten te doen opnemen in een notariële akte. Alsdan is [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=71&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 73
 
@@ -679,11 +679,11 @@ Verbintenissen kunnen slechts bij of krachtens de statuten aan het lidmaatschap 
 
 7. Tenzij de statuten anders bepalen, wijst het bestuur uit zijn midden een voorzitter, een secretaris en een penningmeester aan.
 
-8. Indien [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10) toepassing heeft gevonden geldt het in dit artikel bepaalde voor de benoeming van het algemeen bestuur.
+8. Indien [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01) toepassing heeft gevonden geldt het in dit artikel bepaalde voor de benoeming van het algemeen bestuur.
 
 ##### Artikel 81
 
-1. Behoudens het in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=82&z=2010-10-10&g=2010-10-10) bepaalde, hebben alle leden die niet geschorst zijn, toegang tot de algemene vergadering en hebben zij daar ieder één stem; een geschorst lid heeft toegang tot de vergadering waarin het besluit tot schorsing wordt behandeld, en is bevoegd daarover het woord te voeren. De statuten kunnen aan bepaalde leden meer dan één stem toekennen.
+1. Behoudens het in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=82&z=2019-07-01&g=2019-07-01) bepaalde, hebben alle leden die niet geschorst zijn, toegang tot de algemene vergadering en hebben zij daar ieder één stem; een geschorst lid heeft toegang tot de vergadering waarin het besluit tot schorsing wordt behandeld, en is bevoegd daarover het woord te voeren. De statuten kunnen aan bepaalde leden meer dan één stem toekennen.
 
 2. Tenzij de statuten anders bepalen, treden de voorzitter en de secretaris van het bestuur of hun vervangers, als zodanig ook op bij de algemene vergadering.
 
@@ -693,7 +693,7 @@ Verbintenissen kunnen slechts bij of krachtens de statuten aan het lidmaatschap 
 
 ##### Artikel 82
 
-1. De statuten kunnen bepalen dat de algemene vergadering zal bestaan uit afgevaardigden die door en uit de leden worden gekozen. De wijze van verkiezing en het aantal van de afgevaardigden worden door de statuten geregeld; elk lid moet middellijk of onmiddellijk aan de verkiezing kunnen deelnemen. Het [vierde en vijfde lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2010-10-10&g=2010-10-10) zijn bij de verkiezing van overeenkomstige toepassing. [Artikel 81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=81&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op personen die deel uitmaken van andere organen der vereniging en die geen afgevaardigde zijn.
+1. De statuten kunnen bepalen dat de algemene vergadering zal bestaan uit afgevaardigden die door en uit de leden worden gekozen. De wijze van verkiezing en het aantal van de afgevaardigden worden door de statuten geregeld; elk lid moet middellijk of onmiddellijk aan de verkiezing kunnen deelnemen. Het [vierde en vijfde lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2019-07-01&g=2019-07-01) zijn bij de verkiezing van overeenkomstige toepassing. [Artikel 81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=81&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing op personen die deel uitmaken van andere organen der vereniging en die geen afgevaardigde zijn.
 
 2. De statuten kunnen bepalen dat bepaalde besluiten van de algemene vergadering aan een referendum zullen worden onderworpen. De statuten regelen de gevallen waarin, de tijd waarbinnen, en de wijze waarop het referendum zal worden gehouden. Hangende de uitslag van het referendum wordt de uitvoering van het besluit geschorst.
 
@@ -717,17 +717,17 @@ De statuten kunnen deze bevoegdheid ook aan anderen dan het bestuur verlenen.
 
 ##### Artikel 85
 
-De [artikelen 80 tot en met 84](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op de afdelingen van een vereniging die geen rechtspersonen zijn en die een algemene vergadering en een bestuur hebben. Hetgeen in die artikelen omtrent de statuten is bepaald, kan in een afdelingsreglement worden neergelegd.
+De [artikelen 80 tot en met 84](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=80&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing op de afdelingen van een vereniging die geen rechtspersonen zijn en die een algemene vergadering en een bestuur hebben. Hetgeen in die artikelen omtrent de statuten is bepaald, kan in een afdelingsreglement worden neergelegd.
 
 ##### Artikel 86
 
-1. Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) kan in de statuten van de vereniging geen verandering worden gebracht dan door een besluit van een algemene vergadering, waartoe is opgeroepen met de mededeling dat aldaar wijziging van de statuten zal worden voorgesteld. De termijn voor oproeping tot een zodanige vergadering bedraagt ten minste zeven dagen, de dag van de oproeping en de dag van vergadering niet meegerekend.
+1. Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) kan in de statuten van de vereniging geen verandering worden gebracht dan door een besluit van een algemene vergadering, waartoe is opgeroepen met de mededeling dat aldaar wijziging van de statuten zal worden voorgesteld. De termijn voor oproeping tot een zodanige vergadering bedraagt ten minste zeven dagen, de dag van de oproeping en de dag van vergadering niet meegerekend.
 
 2. Zij die de oproeping tot de algemene vergadering ter behandeling van een voorstel tot statutenwijziging hebben gedaan, moeten ten minste vijf dagen vóór de vergadering een afschrift van dat voorstel, waarin de voorgedragen wijziging woordelijk is opgenomen, op een daartoe geschikte plaats voor de leden ter inzage leggen tot na afloop van de dag waarop de vergadering wordt gehouden. Aan de afdelingen waaruit de vereniging bestaat en aan afgevaardigden moet het voorstel ten minste veertien dagen vóór de vergadering ter kennis zijn gebracht; de vorige volzin is alsdan niet van toepassing.
 
 3. Het bepaalde in de eerste twee leden is niet van toepassing, indien in de algemene vergadering alle leden of afgevaardigden aanwezig of vertegenwoordigd zijn en het besluit tot statutenwijziging met algemene stemmen wordt genomen.
 
-4. Het in dit artikel en de eerste twee leden van het in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=87&z=2010-10-10&g=2010-10-10) bepaalde is van overeenkomstige toepassing op een besluit tot ontbinding.
+4. Het in dit artikel en de eerste twee leden van het in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=87&z=2019-07-01&g=2019-07-01) bepaalde is van overeenkomstige toepassing op een besluit tot ontbinding.
 
 ##### Artikel 87
 
@@ -747,7 +747,7 @@ De vereniging kan, voor zover uit de statuten niet het tegendeel voortvloeit, te
 
 1. Het bestuur brengt op een algemene vergadering binnen acht maanden na afloop van het boekjaar, behoudens verlenging van deze termijn door de algemene vergadering, een jaarverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt een jaarrekening, ten minste bestaande uit een balans, een staat van baten en lasten en een toelichting op deze stukken, ter goedkeuring aan de vergadering voor. De jaarrekening wordt ondertekend door de bestuurders en, zo die er zijn, de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid van de gezamenlijke bestuurders in rechte vorderen dat zij deze verplichtingen nakomen.
 
-2. Ontbreekt een raad van commissarissen en wordt omtrent de getrouwheid van de stukken aan de algemene vergadering niet overgelegd een verklaring afkomstig van een deskundige als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10), dan benoemt de algemene vergadering jaarlijks een commissie van ten minste twee leden die geen deel van het bestuur mogen uitmaken. De commissie onderzoekt de stukken bedoeld in de tweede volzin van het eerste lid en brengt aan de algemene vergadering verslag van haar bevindingen uit. Het bestuur is verplicht de commissie ten behoeve van haar onderzoek alle door haar gevraagde inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.
+2. Ontbreekt een raad van commissarissen en wordt omtrent de getrouwheid van de stukken aan de algemene vergadering niet overgelegd een verklaring afkomstig van een deskundige als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01), dan benoemt de algemene vergadering jaarlijks een commissie van ten minste twee leden die geen deel van het bestuur mogen uitmaken. De commissie onderzoekt de stukken bedoeld in de tweede volzin van het eerste lid en brengt aan de algemene vergadering verslag van haar bevindingen uit. Het bestuur is verplicht de commissie ten behoeve van haar onderzoek alle door haar gevraagde inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.
 
 ## Titel 4. De coöperatie en de onderlinge waarborgmaatschappij
 
@@ -757,7 +757,7 @@ De vereniging kan, voor zover uit de statuten niet het tegendeel voortvloeit, te
 
 2. De onderlinge waarborgmaatschappij is een bij notariële akte als onderlinge waarborgmaatschappij opgerichte rechtspersoon met leden. Zij moet zich blijkens de statuten ten doel stellen met haar leden verzekeringsovereenkomsten te sluiten of leden en mogelijk anderen in het kader van een wettelijke regeling verzekerd te houden, een en ander in het verzekeringsbedrijf dat zij te dien einde ten behoeve van haar leden uitoefent.
 
-3. De statuten van een coöperatie kunnen haar veroorloven overeenkomsten als die welke zij met haar leden sluit, ook met anderen aan te gaan. Hetzelfde geldt voor de statuten van een onderlinge waarborgmaatschappij die geen bepaling als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2010-10-10&g=2010-10-10) kennen.
+3. De statuten van een coöperatie kunnen haar veroorloven overeenkomsten als die welke zij met haar leden sluit, ook met anderen aan te gaan. Hetzelfde geldt voor de statuten van een onderlinge waarborgmaatschappij die geen bepaling als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2019-07-01&g=2019-07-01) kennen.
 
 4. Indien een coöperatie of een onderlinge waarborgmaatschappij de in het derde lid bedoelde bevoegdheid uitoefent, mag zij dat niet in een zodanige mate doen, dat de overeenkomsten met de leden slechts van ondergeschikte betekenis zijn.
 
@@ -765,7 +765,7 @@ De vereniging kan, voor zover uit de statuten niet het tegendeel voortvloeit, te
 
 ##### Artikel 91
 
-De bepalingen van [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&z=2010-10-10&g=2010-10-10) zijn, met uitzondering van [artikel 70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=70&z=2010-10-10&g=2010-10-10), op de coöperatie en de onderlinge waarborgmaatschappij van toepassing, voor zover daarvan in deze titel niet wordt afgeweken.
+De bepalingen van [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&z=2019-07-01&g=2019-07-01) zijn, met uitzondering van [artikel 70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=3&artikel=70&z=2019-07-01&g=2019-07-01), op de coöperatie en de onderlinge waarborgmaatschappij van toepassing, voor zover daarvan in deze titel niet wordt afgeweken.
 
 ##### Artikel 92
 
@@ -781,9 +781,9 @@ De bepalingen van [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek
 
 ##### Artikel 93
 
-1. Indien de statuten een regeling bevatten als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2010-10-10&g=2010-10-10) kunnen zij de verplichting van de leden of oud-leden om in een tekort bij te dragen, tot een maximum beperken.
+1. Indien de statuten een regeling bevatten als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2019-07-01&g=2019-07-01) kunnen zij de verplichting van de leden of oud-leden om in een tekort bij te dragen, tot een maximum beperken.
 
-2. Bevatten de statuten geen regeling als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2010-10-10&g=2010-10-10) dan zijn de leden of oud-leden niet gehouden om in een tekort bij te dragen.
+2. Bevatten de statuten geen regeling als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2019-07-01&g=2019-07-01) dan zijn de leden of oud-leden niet gehouden om in een tekort bij te dragen.
 
 ##### Artikel 94
 
@@ -795,9 +795,9 @@ De bepalingen van [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek
 
 4. De jaarrekening geeft volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat alsmede, voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de coöperatie of onderlinge waarborgmaatschappij.
 
-5. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing op de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
+5. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing op de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
 
-6. Het eerste tot en met het vijfde lid van dit artikel gelden niet voor de coöperatie of onderlinge waarborgmaatschappij die in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2010-10-10&g=2010-10-10) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing heeft verklaard. In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2010-10-10&g=2010-10-10) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+6. Het eerste tot en met het vijfde lid van dit artikel gelden niet voor de coöperatie of onderlinge waarborgmaatschappij die in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2019-07-01&g=2019-07-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2019-07-01&g=2019-07-01), van overeenkomstige toepassing heeft verklaard. In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2019-07-01&g=2019-07-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 95
 
@@ -811,7 +811,7 @@ Voor de coöperatie geldt voorts dat, met behoud der vrijheid van uittreding uit
 
 ##### Artikel 97
 
-Voor een coöperatie, die in haar statuten een regeling heeft opgenomen als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2010-10-10&g=2010-10-10), gelden bovendien de volgende bepalingen:
+Voor een coöperatie, die in haar statuten een regeling heeft opgenomen als bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=4&artikel=92&z=2019-07-01&g=2019-07-01), gelden bovendien de volgende bepalingen:
 
 - a. Het lidmaatschap wordt schriftelijk aangevraagd. Aan de aanvrager wordt eveneens schriftelijk bericht, dat hij als lid is toegelaten of geweigerd. Wanneer hij is toegelaten, wordt hem tevens medegedeeld onder welk nummer hij als lid in de administratie der coöperatie is ingeschreven. Niettemin behoeft, ten bewijze van de verkrijging van het lidmaatschap, van een schriftelijke aanvrage en een schriftelijk bericht als hiervoor bedoeld, niet te blijken.
 
@@ -849,7 +849,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 ##### Artikel 101
 
-1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10), bevat de akte van oprichting in elk geval:
+1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01), bevat de akte van oprichting in elk geval:
 
 - a. de aantallen en soorten van de bij de oprichting geplaatste aandelen, alsmede de namen en woonplaatsen van degenen die deze aandelen hebben genomen;
 
@@ -881,31 +881,37 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 3. De bepalingen van dit boek over aandelen en aandeelhouders vinden overeenkomstige toepassing op onderaandelen en houders daarvan voor zover uit die bepalingen niet anders blijkt.
 
-4. Tenzij de statuten anders bepalen gelden voor de toepassing van [artikel 129, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=129&z=2010-10-10&g=2010-10-10), en [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=132&z=2010-10-10&g=2010-10-10), onderaandelen die tezamen ten minste een of meer aandelen vertegenwoordigen als zoveel aandelen, ongeacht de gerechtigdheid tot de onderaandelen.
+4. Tenzij de statuten anders bepalen gelden voor de toepassing van [artikel 129, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=129&z=2019-07-01&g=2019-07-01), en [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=132&z=2019-07-01&g=2019-07-01), onderaandelen die tezamen ten minste een of meer aandelen vertegenwoordigen als zoveel aandelen, ongeacht de gerechtigdheid tot de onderaandelen.
 
 ##### Artikel 104
 
-1. De algemene vergadering van aandeelhouders of een daartoe in of krachtens de statuten aangewezen ander orgaan is bevoegd na de oprichting te besluiten tot uitgifte van nieuwe aandelen op naam. De daarop volgende uitgifte geschiedt bij een door de vennootschap en de nemer getekende akte. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op de akte.
+1. De algemene vergadering van aandeelhouders of een daartoe in of krachtens de statuten aangewezen ander orgaan is bevoegd na de oprichting te besluiten tot uitgifte van nieuwe aandelen op naam. De daarop volgende uitgifte geschiedt bij een door de vennootschap en de nemer getekende akte. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing op de akte.
 
-2. Aandelen aan toonder kunnen niet als zodanig worden uitgegeven. In de akte van oprichting kan echter ten aanzien van daarbij geplaatste aandelen worden bepaald dat op verzoek van de aandeelhouder een toonderbewijs wordt afgegeven, zulks tegen inlevering van het aandeelbewijs op naam, indien dit is afgegeven. Indien de statuten dat mogelijk maken kan dit ook worden bepaald in een latere akte van uitgifte. Vanaf de afgifte van het toonderbewijs geldt het betrokken aandeel als een aandeel aan toonder.
-
-3. Rust op de houder van het aandeel op naam een bijstortingsverplichting als bedoeld in [artikel 107, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=107&z=2010-10-10&g=2010-10-10), dan wordt het toonderbewijs niet afgegeven voordat daaraan is voldaan.
+2. Aandelen aan toonder kunnen niet als zodanig worden uitgegeven. Indien de statuten dat mogelijk maken kan dit ook worden bepaald in een latere akte van uitgifte. Vanaf de afgifte van het toonderbewijs geldt het betrokken aandeel als een aandeel aan toonder.
 
 ##### Artikel 105
 
-1. Aan de latere verkrijger te goeder trouw kan niet worden tegengeworpen dat een aandeel aan toonder niet rechtsgeldig in omloop is gebracht of dat niet aan de stortingsplicht of bijstortingsplicht is voldaan.
+1. Uiterlijk op 31 december 2019 stelt de vennootschap door een statutenwijziging aandelen aan toonder op naam. De verplichting wordt bekendgemaakt overeenkomstig [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2019-07-01&g=2019-07-01). Is de verplichting bekendgemaakt dan is [artikel 301, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=301&z=2019-07-01&g=2019-07-01), van overeenkomstige toepassing.
 
-2. De statuten kunnen bepalen dat een daarbij aangewezen orgaan bevoegd is houders van aandelen aan toonder van een bepaalde soort of serie, dan wel alle houders van aandelen aan toonder te verplichten hun aandelen aan toonder om te zetten in aandelen op naam. De verplichting wordt bekendgemaakt overeenkomstig [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2010-10-10&g=2010-10-10). Is de verplichting bekendgemaakt dan is [artikel 301, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=301&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
+2. Aandelen aan toonder die op 1 januari 2020 niet op naam zijn gesteld door de vennootschap luiden vanaf die datum van rechtswege op naam.
 
-3. Aandelen aan toonder worden op verzoek van de aandeelhouder, onder afgifte van het aandeelbewijs aan de vennootschap, door deze in aandelen op naam omgezet.
+3. Een aandeelbewijs dat na omzetting in een aandeel op naam niet uiterlijk op 31 december 2020 is ingeleverd bij de vennootschap wordt om niet verkregen door de vennootschap, ongeacht of de statuten de verkrijging van eigen aandelen toestaan. De vennootschap wordt geregistreerd als aandeelhouder in het register.
 
-4. De aandeelhouder die ten genoege van de vennootschap aannemelijk maakt dat zijn toonderbewijs is verloren of teniet is gegaan wordt op zijn verzoek, tot het tegendeel blijkt, door de vennootschap als aandeelhouder op naam aangemerkt. Tegenover de vennootschap en derden is hij aansprakelijk voor alle als gevolg hiervan te lijden schade.
+4. In het geval de verkrijging om niet ertoe leidt dat de vennootschap alle aandelen in de vennootschap houdt, gaat één door de vennootschap aan te wijzen aandeel over op de gezamenlijke bestuurders. De gezamenlijke bestuurders worden geregistreerd als aandeelhouder in het register.
+
+5. Een aandeelhouder die zich uiterlijk vijf jaar na de verkrijging van de aandelen door de vennootschap als bedoeld in lid 3 alsnog meldt bij de vennootschap met een aandeelbewijs heeft recht op een vervangend aandeel op naam van de vennootschap.
+
+6. De aandeelhouder die ten genoege van de vennootschap aannemelijk maakt dat zijn toonderbewijs is verloren of teniet gegaan wordt op zijn verzoek, tot het tegendeel blijkt, door de vennootschap als aandeelhouder op naam aangemerkt. Tegenover de vennootschap en derden is hij aansprakelijk voor alle als gevolg hiervan te lijden schade.
+
+7. Aan de latere verkrijger te goeder trouw kan niet worden tegengeworpen dat een aandeel aan toonder niet rechtsgeldig in omloop is gebracht of dat niet aan de stortingsplicht of bijstortingsplicht is voldaan.
+
+8. De vennootschap brengt bij de eerstvolgende statutenwijziging na inwerkingtreding van de [Wet omzetting aandelen aan toonder](https://wetten.overheid.nl/jci1.3:c:BWBR0041991) de statuten in overeenstemming met het bepaalde in dit artikel.
 
 ##### Artikel 106
 
 1. Tenzij de statuten ten aanzien van alle of bepaalde soorten aandelen anders bepalen heeft iedere aandeelhouder bij uitgifte van aandelen ten aanzien van iedere soort een voorkeursrecht in evenredigheid met het aantal door hem gehouden aandelen van die soort. De statuten kunnen bepalen dat een in de statuten aangewezen orgaan bij alle of bepaalde emissies over het al of niet bestaan van een voorkeursrecht en de modaliteiten daarvan beslist.
 
-2. Ten aanzien van de bekendmaking van het voorkeursrecht vindt [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2010-10-10&g=2010-10-10), overeenkomstige toepassing. Het voorkeursrecht kan worden uitgeoefend gedurende ten minste twee weken na de bekendmaking.
+2. Ten aanzien van de bekendmaking van het voorkeursrecht vindt [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2019-07-01&g=2019-07-01), overeenkomstige toepassing. Het voorkeursrecht kan worden uitgeoefend gedurende ten minste twee weken na de bekendmaking.
 
 ##### Artikel 107
 
@@ -917,7 +923,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 4. Als bijstortingsplicht wordt in de wet aangeduid iedere verplichting tot storting op een uitgegeven aandeel die niet onmiddellijk en onvoorwaardelijk opeisbaar is.
 
-5. Behoudens ontheffing van de bijstortingsplicht op de voet van [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=115&z=2010-10-10&g=2010-10-10) kan de houder van een aandeel niet worden ontheven van zijn verplichtingen uit hoofde van dit artikel. Bij vervreemding van een aandeel blijft de vervreemder nog gedurende een jaar naast de verkrijger hoofdelijk aansprakelijk voor uit dit artikel voortvloeiende verplichtingen.
+5. Behoudens ontheffing van de bijstortingsplicht op de voet van [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=115&z=2019-07-01&g=2019-07-01) kan de houder van een aandeel niet worden ontheven van zijn verplichtingen uit hoofde van dit artikel. Bij vervreemding van een aandeel blijft de vervreemder nog gedurende een jaar naast de verkrijger hoofdelijk aansprakelijk voor uit dit artikel voortvloeiende verplichtingen.
 
 6. Ten aanzien van een verplichting tot storting of bijstorting op een aandeel kan de wederpartij van de vennootschap zich nimmer op verrekening beroepen.
 
@@ -935,15 +941,15 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 ##### Artikel 110
 
-1. Aandelen zijn overdraagbaar, behoudens het in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=111&z=2010-10-10&g=2010-10-10) en elders in de wet bepaalde.
+1. Aandelen zijn overdraagbaar, behoudens het in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=111&z=2019-07-01&g=2019-07-01) en elders in de wet bepaalde.
 
 2. Levering van aandelen op naam geschiedt door een door partijen getekende akte van overdracht en hetzij betekening van die akte aan de vennootschap, hetzij erkenning van de overdracht door de vennootschap. Erkenning geschiedt door een ondertekende aantekening op de akte van overdracht of een aan de verkrijger gerichte schriftelijke verklaring van de vennootschap. Betreft het aandelen waarop een bijstortingsplicht rust, dan kan erkenning slechts geschieden wanneer de akte van overdracht een vaste dagtekening draagt.
 
 3. Indien een aandeelbewijs door de vennootschap is afgegeven kan dat stuk, voorzien van een door partijen ondertekende aantekening tot overdracht, als akte van overdracht gelden.
 
-4. De statuten kunnen bepalen dat, indien een aandeelbewijs door de vennootschap is afgegeven, als akte van overdracht uitsluitend kan gelden een stuk als bedoeld in het derde lid. Zij kunnen ook bepalen dat erkenning of betekening slechts kan geschieden na inlevering van het afgegeven aandeelbewijs, zulks onverminderd het recht van de opvolgend aandeelhouder op afgifte van een te zijnen name gesteld aandeelbewijs op de voet van [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=108&z=2010-10-10&g=2010-10-10). In beide gevallen lijdt de regel uitzondering wanneer de vervreemder ten genoege van de vennootschap aannemelijk maakt dat zijn aandeelbewijs verloren is gegaan. De vervreemder, die zich op deze bepaling beroept, is tegenover de vennootschap en derden aansprakelijk voor alle als gevolg hiervan te lijden schade.
+4. De statuten kunnen bepalen dat, indien een aandeelbewijs door de vennootschap is afgegeven, als akte van overdracht uitsluitend kan gelden een stuk als bedoeld in het derde lid. Zij kunnen ook bepalen dat erkenning of betekening slechts kan geschieden na inlevering van het afgegeven aandeelbewijs, zulks onverminderd het recht van de opvolgend aandeelhouder op afgifte van een te zijnen name gesteld aandeelbewijs op de voet van [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=108&z=2019-07-01&g=2019-07-01). In beide gevallen lijdt de regel uitzondering wanneer de vervreemder ten genoege van de vennootschap aannemelijk maakt dat zijn aandeelbewijs verloren is gegaan. De vervreemder, die zich op deze bepaling beroept, is tegenover de vennootschap en derden aansprakelijk voor alle als gevolg hiervan te lijden schade.
 
-5. De levering en de dag daarvan worden in het register, bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2010-10-10&g=2010-10-10), aangetekend.
+5. De levering en de dag daarvan worden in het register, bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2019-07-01&g=2019-07-01), aangetekend.
 
 6. Levering van beursgenoteerde aandelen kan ook geschieden overeenkomstig het bij die beurs gebruikelijke systeem.
 
@@ -953,7 +959,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 2. Een overdracht of toedeling die de instemming heeft van alle aandeelhouders is geldig.
 
-3. In geval van executoriaal beslag, faillissement, afgifte van een legaat of toedeling uit een gemeenschap kan de rechter bepalingen als bedoeld in het eerste lid geheel of gedeeltelijk buiten toepassing verklaren. Het verzoek daartoe kan worden gedaan door onderscheidenlijk de executant, de curator of een belanghebbende bij de afgifte van het legaat of de toedeling. De rechter wijst het verzoek slechts toe indien de belangen van de verzoeker dat bepaaldelijk vorderen. De rechter kan bepalen dat de vennootschap aan de executant of de curator inzage moet geven in het register bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2010-10-10&g=2010-10-10).
+3. In geval van executoriaal beslag, faillissement, afgifte van een legaat of toedeling uit een gemeenschap kan de rechter bepalingen als bedoeld in het eerste lid geheel of gedeeltelijk buiten toepassing verklaren. Het verzoek daartoe kan worden gedaan door onderscheidenlijk de executant, de curator of een belanghebbende bij de afgifte van het legaat of de toedeling. De rechter wijst het verzoek slechts toe indien de belangen van de verzoeker dat bepaaldelijk vorderen. De rechter kan bepalen dat de vennootschap aan de executant of de curator inzage moet geven in het register bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 112
 
@@ -967,9 +973,9 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 2. Tenzij de statuten anders bepalen kan bij de vestiging of in een aanvullende akte tussen aandeelhouder en pandhouder worden bepaald dat de aan de aandelen verbonden rechten, al dan niet voorwaardelijk, geheel of gedeeltelijk toekomen aan de pandhouder.
 
-3. Wordt pandrecht gevestigd met toepassing van het tweede lid van [artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) en vervolgens een voorziening als bedoeld in het tweede lid van dit artikel getroffen in een aanvullende akte, dan is voor de geldigheid van die akte vereist dat [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=110&z=2010-10-10&g=2010-10-10), overeenkomstige toepassing heeft gevonden. Ook artikel 110, derde, vierde en vijfde lid, vindt overeenkomstige toepassing.
+3. Wordt pandrecht gevestigd met toepassing van het tweede lid van [artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) en vervolgens een voorziening als bedoeld in het tweede lid van dit artikel getroffen in een aanvullende akte, dan is voor de geldigheid van die akte vereist dat [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=110&z=2019-07-01&g=2019-07-01), overeenkomstige toepassing heeft gevonden. Ook artikel 110, derde, vierde en vijfde lid, vindt overeenkomstige toepassing.
 
-4. In afwijking van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) kan pandrecht op aandelen op naam ook worden gevestigd zonder betekening of erkenning als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=110&z=2010-10-10&g=2010-10-10).
+4. In afwijking van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) kan pandrecht op aandelen op naam ook worden gevestigd zonder betekening of erkenning als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=110&z=2019-07-01&g=2019-07-01).
 
 [Artikel 239 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=239) vindt overeenkomstige toepassing.
 
@@ -979,13 +985,13 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 1. De vennootschap kan geen eigen aandelen nemen.
 
-2. Onverminderd het bepaalde in [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&z=2010-10-10&g=2010-10-10) kunnen de statuten de verkrijging door de vennootschap van eigen aandelen van derden uitsluiten, beperken of aan voorwaarden onderwerpen. Zolang de vennootschap direct of indirect eigen aandelen houdt, kunnen de daaraan verbonden rechten niet worden uitgeoefend. [Artikel 118, vijfde en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op verkrijging van eigen aandelen.
+2. Onverminderd het bepaalde in [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&z=2019-07-01&g=2019-07-01) kunnen de statuten de verkrijging door de vennootschap van eigen aandelen van derden uitsluiten, beperken of aan voorwaarden onderwerpen. Zolang de vennootschap direct of indirect eigen aandelen houdt, kunnen de daaraan verbonden rechten niet worden uitgeoefend. [Artikel 118, vijfde en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing op verkrijging van eigen aandelen.
 
 3. De vennootschap kan door een daarop gericht besluit van de algemene vergadering of een door de statuten aangewezen ander orgaan door de vennootschap gehouden eigen aandelen intrekken.
 
 ##### Artikel 115
 
-1. De statuten kunnen bepalen dat een orgaan per soort aandelen kan besluiten tot gehele of gedeeltelijke terugbetaling of ontheffing van een bijstortingsplicht als bedoeld in [artikel 107, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=107&z=2010-10-10&g=2010-10-10), mits het eigen vermogen van de vennootschap op het tijdstip van de terugbetaling of ontheffing ten minste nihil is en door de terugbetaling of ontheffing niet negatief wordt. Een besluit dat niet aan deze voorwaarde voldoet heeft geen enkele rechtskracht.
+1. De statuten kunnen bepalen dat een orgaan per soort aandelen kan besluiten tot gehele of gedeeltelijke terugbetaling of ontheffing van een bijstortingsplicht als bedoeld in [artikel 107, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=107&z=2019-07-01&g=2019-07-01), mits het eigen vermogen van de vennootschap op het tijdstip van de terugbetaling of ontheffing ten minste nihil is en door de terugbetaling of ontheffing niet negatief wordt. Een besluit dat niet aan deze voorwaarde voldoet heeft geen enkele rechtskracht.
 
 2. Heeft de vennootschap een nominaal kapitaal dan wordt bij de toepassing van het eerste lid het bedrag daarvan als ondergrens in aanmerking genomen.
 
@@ -999,7 +1005,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 4. De jaarrekening geeft volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat alsmede, voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de vennootschap.
 
-5. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing op de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
+5. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing op de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
 
 6. Iedere aandeelhouder en iedere houder van schuldbrieven aan toonder heeft gedurende twee jaren na het tijdstip van opmaken, onderscheidenlijk goedkeuren van de jaarrekening recht op inzage in de krachtens het vijfde lid bewaarde stukken.
 
@@ -1021,7 +1027,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 4. Het recht op uitkering vervalt door een tijdsverloop van drie jaren na het einde van de dag, waarop hetzij daaraan voldoende bekendheid is gegeven, hetzij de uitkeringsgerechtigde daarvan kennis heeft genomen of daarvan is verwittigd. Bij de statuten kan worden bepaald dat het recht op uitkering niet vervalt of een langere termijn worden gesteld.
 
-5. Uitkeringen aan aandeelhouders en andere uitkeringsgerechtigden mogen niet worden gedaan indien het eigen vermogen van de vennootschap negatief is of door die uitkering negatief zou worden. Een besluit tot het doen van een zodanige uitkering heeft geen enkele rechtskracht. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=22&z=2010-10-10&g=2010-10-10), vindt geen toepassing, tenzij de uitkering is gedaan aan de regelmatige opvolgend houder van een toonderbewijs, dan wel van een aandeel of daarmee verbonden recht dat op een beurs verhandeld wordt.
+5. Uitkeringen aan aandeelhouders en andere uitkeringsgerechtigden mogen niet worden gedaan indien het eigen vermogen van de vennootschap negatief is of door die uitkering negatief zou worden. Een besluit tot het doen van een zodanige uitkering heeft geen enkele rechtskracht. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=22&z=2019-07-01&g=2019-07-01), vindt geen toepassing, tenzij de uitkering is gedaan aan de regelmatige opvolgend houder van een toonderbewijs, dan wel van een aandeel of daarmee verbonden recht dat op een beurs verhandeld wordt.
 
 6. Een uitkering als bedoeld in dit artikel wordt vermoed te zijn gedaan in strijd met de eerste zin van het vijfde lid, indien de jaarrekening van het boekjaar ten laste waarvan de uitkering wordt gedaan, met inachtneming van die uitkering een eigen vermogen toont dat negatief is. Betreft het een uitkering als bedoeld in het eerste lid dan is het vermoeden onweerlegbaar.
 
@@ -1031,15 +1037,15 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 ##### Artikel 119
 
-1. Voor een vennootschap die voldoet aan elk van de in het tweede lid omschreven criteria gelden in plaats van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2010-10-10&g=2010-10-10) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2010-10-10&g=2010-10-10) de [artikelen 120 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10).
+1. Voor een vennootschap die voldoet aan elk van de in het tweede lid omschreven criteria gelden in plaats van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2019-07-01&g=2019-07-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2019-07-01&g=2019-07-01) de [artikelen 120 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01).
 
 2. De in het eerste lid bedoelde criteria zijn:
 
-- a. bij de vennootschap zijn in het openbaar lichaam Bonaire, Sint Eustatius of Saba of op Curaçao of Sint Maarten op enig tijdstip in de periode tussen één maand voor en één maand na de balansdatum ten minste twintig werknemers, tezamen volmakende ten minste twintig mandagen, werkzaam krachtens een arbeidsovereenkomst met de vennootschap, een groepsmaatschappij van de vennootschap, een uitzendbureau of een soortgelijke instelling; de waarde van de activa bedraagt, volgens een met inachtneming van het [derde lid van artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10) opgemaakte balans, meer dan USD 2,8 miljoen of het equivalent daarvan in andere valuta;
+- a. bij de vennootschap zijn in het openbaar lichaam Bonaire, Sint Eustatius of Saba of op Curaçao of Sint Maarten op enig tijdstip in de periode tussen één maand voor en één maand na de balansdatum ten minste twintig werknemers, tezamen volmakende ten minste twintig mandagen, werkzaam krachtens een arbeidsovereenkomst met de vennootschap, een groepsmaatschappij van de vennootschap, een uitzendbureau of een soortgelijke instelling; de waarde van de activa bedraagt, volgens een met inachtneming van het [derde lid van artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01) opgemaakte balans, meer dan USD 2,8 miljoen of het equivalent daarvan in andere valuta;
 
-- b. de netto-omzet gedurende het boekjaar, berekend met inachtneming van het [derde lid van artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10) opgemaakte jaarrekening, meer dan USD 5,6 miljoen of het equivalent daarvan in andere valuta.
+- b. de netto-omzet gedurende het boekjaar, berekend met inachtneming van het [derde lid van artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01) opgemaakte jaarrekening, meer dan USD 5,6 miljoen of het equivalent daarvan in andere valuta.
 
-3. Een vennootschap die niet voldoet aan elk van de in het tweede lid omschreven criteria kan in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10) van toepassing verklaren, al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2010-10-10&g=2010-10-10) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2010-10-10&g=2010-10-10). In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2010-10-10&g=2010-10-10) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2010-10-10&g=2010-10-10) van toepassing en gelden de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2010-10-10&g=2010-10-10) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2010-10-10&g=2010-10-10) niet.
+3. Een vennootschap die niet voldoet aan elk van de in het tweede lid omschreven criteria kan in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01) van toepassing verklaren, al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2019-07-01&g=2019-07-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2019-07-01&g=2019-07-01). In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2019-07-01&g=2019-07-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2019-07-01&g=2019-07-01) van toepassing en gelden de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2019-07-01&g=2019-07-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2019-07-01&g=2019-07-01) niet.
 
 4. De in het tweede lid genoemde bedragen kunnen worden bijgesteld bij algemene maatregel van bestuur telkens wanneer de prijsontwikkeling daartoe aanleiding geeft.
 
@@ -1057,7 +1063,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 6. Het jaarverslag wordt onverwijld na afloop van de in het eerste lid genoemde termijn aangeboden aan de algemene vergadering. Tegelijkertijd wordt de opgemaakte jaarrekening aan de algemene vergadering ter goedkeuring voorgelegd. De statuten kunnen bepalen dat de algemene vergadering de bevoegdheid heeft alle of bepaalde posten te wijzigen dan wel het bestuur op te dragen de jaarrekening te wijzigen volgens door de algemene vergadering of een commissie uit die vergadering te geven aanwijzingen.
 
-7. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing op het jaarverslag, de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
+7. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing op het jaarverslag, de opgemaakte en goedgekeurde jaarrekening en de daarbij behorende stukken.
 
 ##### Artikel 121
 
@@ -1065,7 +1071,7 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 2. Tot het verlenen van de opdracht is de algemene vergadering bevoegd. Gaat deze daartoe niet over dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur.
 
-3. De deskundige onderzoekt of de jaarrekening voldoet aan de in [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), gestelde vereisten. Hij gaat voorts na of het jaarverslag voor zover hij dat kan beoordelen, in overeenstemming met het in artikel 120, vijfde lid, bepaalde is opgesteld en met de jaarrekening verenigbaar is.
+3. De deskundige onderzoekt of de jaarrekening voldoet aan de in [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), gestelde vereisten. Hij gaat voorts na of het jaarverslag voor zover hij dat kan beoordelen, in overeenstemming met het in artikel 120, vijfde lid, bepaalde is opgesteld en met de jaarrekening verenigbaar is.
 
 4. De deskundige is gerechtigd tot inzage van alle boeken, bescheiden en andere gegevensdragers van de vennootschap waarvan de kennisneming tot richtige invulling van zijn taak nodig is. Het is hem verboden hetgeen hem nopens de zaken der vennootschap blijkt of medegedeeld wordt, verder bekend te maken dan zijn opdracht met zich brengt.
 
@@ -1079,11 +1085,11 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 1. De vennootschap is verplicht binnen acht dagen na goedkeuring van de jaarrekening en gedurende twee jaar daarna een volledig afschrift van de jaarrekening, waarop de dag van de goedkeuring is aangetekend, ten kantore van de vennootschap ter inzage te leggen voor belanghebbenden.
 
-2. Is de jaarrekening niet binnen twee maanden na afloop van de in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), voor het opmaken daarvan voorgeschreven termijn goedgekeurd, dan wordt de opgemaakte jaarrekening onverwijld ten kantore van de vennootschap ter inzage gelegd voor belanghebbenden.
+2. Is de jaarrekening niet binnen twee maanden na afloop van de in [artikel 120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), voor het opmaken daarvan voorgeschreven termijn goedgekeurd, dan wordt de opgemaakte jaarrekening onverwijld ten kantore van de vennootschap ter inzage gelegd voor belanghebbenden.
 
 3. Van de ter inzage legging als bedoeld in de het eerste en tweede lid wordt onverwijld mededeling gedaan ten kantore van het handelsregister, in het geval van het tweede lid met vermelding dat het een niet goedgekeurde jaarrekening betreft.
 
-4. De statuten kunnen bepalen dat een belanghebbende die inzage wil zich moet laten vertegenwoordigen door een persoon als bedoeld in [artikel 121, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10). Is dat het geval dan wordt daarvan melding gemaakt bij de mededeling ten kantore van het handelsregister als bedoeld in het derde lid.
+4. De statuten kunnen bepalen dat een belanghebbende die inzage wil zich moet laten vertegenwoordigen door een persoon als bedoeld in [artikel 121, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01). Is dat het geval dan wordt daarvan melding gemaakt bij de mededeling ten kantore van het handelsregister als bedoeld in het derde lid.
 
 5. Aan de tot inzage gerechtigde belanghebbende of vertegenwoordiger wordt desgevraagd tegen kostprijs een afschrift van de ter inzage gelegde stukken verschaft.
 
@@ -1091,25 +1097,25 @@ Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
 
 ##### Artikel 123
 
-De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2010-10-10&g=2010-10-10) gelden niet indien:
+De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2019-07-01&g=2019-07-01) gelden niet indien:
 
-- a. de financiële gegevens van de vennootschap over het betrokken boekjaar door een andere rechtspersoon of een contractuele vennootschap zijn geconsolideerd in een jaarrekening die voldoet aan de normen als gesteld in [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10); en
+- a. de financiële gegevens van de vennootschap over het betrokken boekjaar door een andere rechtspersoon of een contractuele vennootschap zijn geconsolideerd in een jaarrekening die voldoet aan de normen als gesteld in [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01); en
 
 - b. de onder a bedoelde andere rechtspersoon of contractuele vennootschap schriftelijk heeft verklaard zich hoofdelijk aansprakelijk te stellen voor de uit rechtshandelingen voortvloeiende schulden van de vennootschap die zijn ontstaan of zullen ontstaan binnen twee jaar na de afloop van het onder a bedoelde boekjaar, met vermelding van de datum van afloop van dat boekjaar; en
 
 - c. de verklaring als bedoeld onder b binnen zes maanden na afloop van het onder a bedoelde boekjaar is neergelegd ten kantore van het handelsregister waar de vennootschap is ingeschreven; en
 
-- d. binnen zes maanden na de balansdatum van de onder a bedoelde geconsolideerde jaarrekening, of op een later ingevolge [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2010-10-10&g=2010-10-10) geoorloofd tijdstip, die geconsolideerde jaarrekening is neergelegd ten kantore van de vennootschap of het onder c bedoelde handelsregister, een en ander met overeenkomstige toepassing van artikel 122.
+- d. binnen zes maanden na de balansdatum van de onder a bedoelde geconsolideerde jaarrekening, of op een later ingevolge [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2019-07-01&g=2019-07-01) geoorloofd tijdstip, die geconsolideerde jaarrekening is neergelegd ten kantore van de vennootschap of het onder c bedoelde handelsregister, een en ander met overeenkomstige toepassing van artikel 122.
 
 ##### Artikel 124
 
-1. De op een vennootschap rustende verplichtingen als vermeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10) gelden niet indien aan de voorwaarden van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2010-10-10&g=2010-10-10) is voldaan en bovendien alle aandeelhouders tijdens het boekjaar of binnen zes maanden na afloop daarvan schriftelijk hebben verklaard daarmee in te stemmen.
+1. De op een vennootschap rustende verplichtingen als vermeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01) gelden niet indien aan de voorwaarden van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2019-07-01&g=2019-07-01) is voldaan en bovendien alle aandeelhouders tijdens het boekjaar of binnen zes maanden na afloop daarvan schriftelijk hebben verklaard daarmee in te stemmen.
 
-2. In het geval bedoeld in het eerste lid hoeft ook geen jaarverslag te worden opgemaakt; voorts hoeft ook [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), niet te worden toegepast mits de jaarrekening bestaat uit ten minste een balans, een winst- en verliesrekening en een toelichting op deze stukken en zij een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat, alsmede, voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de vennootschap.
+2. In het geval bedoeld in het eerste lid hoeft ook geen jaarverslag te worden opgemaakt; voorts hoeft ook [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), niet te worden toegepast mits de jaarrekening bestaat uit ten minste een balans, een winst- en verliesrekening en een toelichting op deze stukken en zij een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat, alsmede, voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de vennootschap.
 
 ##### Artikel 125
 
-1. Indien door een jaarrekening of door tussentijdse cijfers, die de vennootschap overeenkomstig [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2010-10-10&g=2010-10-10) of anderszins openbaar heeft gemaakt, een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders en commissarissen tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder of commissaris die bewijst dat zulks niet aan een tekortkoming zijnerzijds is te wijten, is niet aansprakelijk.
+1. Indien door een jaarrekening of door tussentijdse cijfers, die de vennootschap overeenkomstig [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2019-07-01&g=2019-07-01) of anderszins openbaar heeft gemaakt, een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders en commissarissen tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder of commissaris die bewijst dat zulks niet aan een tekortkoming zijnerzijds is te wijten, is niet aansprakelijk.
 
 2. Het eerste lid is van overeenkomstige toepassing indien door het niet tijdig opmaken of openbaar maken van de jaarrekening schade is geleden.
 
@@ -1117,9 +1123,9 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 ##### Artikel 126
 
-1. Iedere belanghebbende kan van de vennootschap in rechte nakoming vorderen van de in [artikel 120, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10) en [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2010-10-10&g=2010-10-10) omschreven verplichtingen.
+1. Iedere belanghebbende kan van de vennootschap in rechte nakoming vorderen van de in [artikel 120, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01) en [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=122&z=2019-07-01&g=2019-07-01) omschreven verplichtingen.
 
-2. Iedere belanghebbende die van oordeel is dat de jaarrekening of het jaarverslag niet voldoet aan het bepaalde in [artikel 120, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), dan wel [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2010-10-10&g=2010-10-10), kan van de vennootschap in rechte vorderen deze stukken in te richten of aan te vullen overeenkomstig bij rechterlijk bevel te geven aanwijzing. De vordering kan ook betrekking hebben op een jaarrekening die nog niet is goedgekeurd. Zij kan ook worden ingesteld door het openbaar ministerie in algemeen belang.
+2. Iedere belanghebbende die van oordeel is dat de jaarrekening of het jaarverslag niet voldoet aan het bepaalde in [artikel 120, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), dan wel [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2019-07-01&g=2019-07-01), kan van de vennootschap in rechte vorderen deze stukken in te richten of aan te vullen overeenkomstig bij rechterlijk bevel te geven aanwijzing. De vordering kan ook betrekking hebben op een jaarrekening die nog niet is goedgekeurd. Zij kan ook worden ingesteld door het openbaar ministerie in algemeen belang.
 
 3. De in het tweede lid bedoelde vordering moet worden ingesteld binnen zes maanden nadat aan de verplichting tot openbaarmaking is voldaan. Zij kan ook worden ingesteld vóór de openbaarmaking. Het verzoekschrift vermeldt in welk opzicht de jaarrekening of het jaarverslag herziening behoeven. De rechter beslist niet dan nadat hij de deskundige die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de onderwerpen van de vordering.
 
@@ -1147,13 +1153,13 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 1. Aandeelhouders die alleen of samen met andere aandeelhouders ten minste tien procent van de stemmen ten aanzien van een bepaald onderwerp kunnen uitbrengen, kunnen het bestuur of de raad van commissarissen schriftelijk verzoeken om een algemene vergadering bijeen te roepen teneinde te beraadslagen en te besluiten over dat onderwerp, mits zij daarbij een redelijk belang hebben.
 
-2. Indien het bestuur of de raad van commissarissen niet binnen veertien dagen na de dag dat het verzoek de vennootschap of het betrokken orgaan heeft bereikt, gevolg geeft aan een zodanig verzoek, kunnen de verzoekers zelf tot bijeenroeping overgaan. Met het oog daarop geeft het bestuur de verzoekers inzage in het register, bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2010-10-10&g=2010-10-10).
+2. Indien het bestuur of de raad van commissarissen niet binnen veertien dagen na de dag dat het verzoek de vennootschap of het betrokken orgaan heeft bereikt, gevolg geeft aan een zodanig verzoek, kunnen de verzoekers zelf tot bijeenroeping overgaan. Met het oog daarop geeft het bestuur de verzoekers inzage in het register, bedoeld in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2019-07-01&g=2019-07-01).
 
 3. Bij de oproeping door de aandeelhouders worden geen andere dan de aanvankelijk aangegeven onderwerpen als te behandelen vermeld.
 
 4. De oproeping en de daarbij behorende stukken worden mede gezonden aan iedere bestuurder en iedere commissaris.
 
-5. Voor de toepassing van [artikel 130, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2010-10-10&g=2010-10-10), worden de in het eerste tot en met vierde lid bedoelde voorschriften mede in aanmerking genomen.
+5. Voor de toepassing van [artikel 130, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=130&z=2019-07-01&g=2019-07-01), worden de in het eerste tot en met vierde lid bedoelde voorschriften mede in aanmerking genomen.
 
 ##### Artikel 130
 
@@ -1163,7 +1169,7 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 3. De oproeping vermeldt de plaats van de vergadering en de te behandelen onderwerpen. Wordt een voorstel tot statutenwijziging gedaan dan wordt de letterlijke tekst van het voorstel meegezonden of ten kantore van de vennootschap voor de aandeelhouders ter inzage gelegd. Van de terinzagelegging wordt mededeling gedaan in de aankondiging bedoeld in het eerste lid, indien daarvan sprake is.
 
-4. Tenzij de statuten anders bepalen wordt een vergadering gehouden in het openbaar lichaam van de statutaire zetel. Voor een vennootschap als bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=119&z=2010-10-10&g=2010-10-10) geldt dat de vergadering moet worden gehouden in het openbaar lichaam van de statutaire zetel.
+4. Tenzij de statuten anders bepalen wordt een vergadering gehouden in het openbaar lichaam van de statutaire zetel. Voor een vennootschap als bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=119&z=2019-07-01&g=2019-07-01) geldt dat de vergadering moet worden gehouden in het openbaar lichaam van de statutaire zetel.
 
 5. Zijn de voorschriften bedoeld in het eerste tot en met het vierde lid niet in acht genomen, dan kunnen slechts geldige besluiten worden genomen in een vergadering waarin alle met betrekking tot dat onderwerp stemgerechtigde aandeelhouders aanwezig of vertegenwoordigd zijn. Ook dan kan over een onderwerp waarvan de behandeling niet met inachtneming van de statutaire oproepingstermijn is aangekondigd slechts rechtsgeldig worden besloten met algemene stemmen.
 
@@ -1179,7 +1185,7 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 2. Geen stem kan worden uitgebracht op een aandeel dat toebehoort aan de vennootschap zelf. Tenzij de statuten anders bepalen kan evenmin stem worden uitgebracht op een aandeel dat toebehoort aan een rechtspersoon waarin de vennootschap krachtens stemrecht, direct of indirect, doorslaggevende zeggenschap kan uitoefenen, ook indien alle stemgerechtigden stemmen.
 
-3. De statuten kunnen bepalen dat de in [artikel 131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=131&z=2010-10-10&g=2010-10-10), bedoelde rechten uitsluitend kunnen worden uitgeoefend door degenen die op een in de statuten vastgestelde dag, de registratiedag, die rechten hadden en als zodanig aan het bestuur van de vennootschap bekend waren. De registratie dag mag ten hoogste twintig dagen voor die der vergadering liggen. Worden de aandelen verhandeld op een effectenbeurs, dan kan de in dit lid bedoelde termijn ten hoogste zestig dagen zijn en kunnen de statuten het vaststellen van de registratiedag overlaten aan een orgaan van de vennootschap. Als nadere voorwaarde voor de uitoefening van de in artikel 131, eerste lid, bedoelde rechten kunnen de statuten dan ook voorschrijven dat de betrokkene op de registratiedag in een bij of krachtens de statuten aangewezen register als rechthebbende is ingeschreven. Indien de statuten een registratiedag bevatten of een registratiedag krachtens de statuten is vastgesteld, wordt deze bij de oproeping vermeld.
+3. De statuten kunnen bepalen dat de in [artikel 131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=131&z=2019-07-01&g=2019-07-01), bedoelde rechten uitsluitend kunnen worden uitgeoefend door degenen die op een in de statuten vastgestelde dag, de registratiedag, die rechten hadden en als zodanig aan het bestuur van de vennootschap bekend waren. De registratie dag mag ten hoogste twintig dagen voor die der vergadering liggen. Worden de aandelen verhandeld op een effectenbeurs, dan kan de in dit lid bedoelde termijn ten hoogste zestig dagen zijn en kunnen de statuten het vaststellen van de registratiedag overlaten aan een orgaan van de vennootschap. Als nadere voorwaarde voor de uitoefening van de in artikel 131, eerste lid, bedoelde rechten kunnen de statuten dan ook voorschrijven dat de betrokkene op de registratiedag in een bij of krachtens de statuten aangewezen register als rechthebbende is ingeschreven. Indien de statuten een registratiedag bevatten of een registratiedag krachtens de statuten is vastgesteld, wordt deze bij de oproeping vermeld.
 
 4. Tenzij de statuten anders bepalen hebben bestuurders en commissarissen als zodanig in de algemene vergadering en bij de besluitvorming van de algemene vergadering een raadgevende stem.
 
@@ -1195,23 +1201,23 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 5. Iedere aandeelhouder heeft recht op een afschrift van de notulen.
 
-6. Het eerste tot en met vierde lid van dit artikel vinden overeenkomstige toepassing bij besluiten van andere organen. Het vijfde lid vindt overeenkomstige toepassing wanneer een ander orgaan dan de algemene vergadering een besluit neemt als bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=104&z=2010-10-10&g=2010-10-10), [106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=106&z=2010-10-10&g=2010-10-10), [107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=107&z=2010-10-10&g=2010-10-10), [114, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=114&z=2010-10-10&g=2010-10-10), [115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=115&z=2010-10-10&g=2010-10-10), [117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2010-10-10&g=2010-10-10), [118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2010-10-10&g=2010-10-10), of [121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10).
+6. Het eerste tot en met vierde lid van dit artikel vinden overeenkomstige toepassing bij besluiten van andere organen. Het vijfde lid vindt overeenkomstige toepassing wanneer een ander orgaan dan de algemene vergadering een besluit neemt als bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=104&z=2019-07-01&g=2019-07-01), [106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=106&z=2019-07-01&g=2019-07-01), [107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=107&z=2019-07-01&g=2019-07-01), [114, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=114&z=2019-07-01&g=2019-07-01), [115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=115&z=2019-07-01&g=2019-07-01), [117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2019-07-01&g=2019-07-01), [118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=118&z=2019-07-01&g=2019-07-01), of [121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 134
 
-1. Behoudens beperkingen volgens de statuten en onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) is de algemene vergadering bevoegd de statuten te wijzigen. Een met algemene stemmen genomen besluit tot statutenwijziging waaraan alle stemgerechtigde personen hebben meegewerkt is geldig, ongeacht het daarover in de statuten bepaalde.
+1. Behoudens beperkingen volgens de statuten en onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) is de algemene vergadering bevoegd de statuten te wijzigen. Een met algemene stemmen genomen besluit tot statutenwijziging waaraan alle stemgerechtigde personen hebben meegewerkt is geldig, ongeacht het daarover in de statuten bepaalde.
 
 2. Een statutaire bepaling die in de gegeven situatie tot gevolg zou hebben dat er geen stemgerechtigde personen als bedoeld in het eerste lid zijn, wordt, zolang die situatie voortduurt, voor niet geschreven gehouden.
 
 3. Gedurende het faillissement van de vennootschap kunnen de statuten slechts worden gewijzigd met instemming van de curator.
 
-4. Een besluit tot wijziging van de statuten waardoor de rechtspositie van een krachtens de wet of de statuten bij de organisatie van de vennootschap betrokken persoon wordt aangetast, wordt op vordering van de betrokkene vernietigd, mits deze een zwaarwegend belang heeft bij de handhaving van die rechtspositie. [Artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=21&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing.
+4. Een besluit tot wijziging van de statuten waardoor de rechtspositie van een krachtens de wet of de statuten bij de organisatie van de vennootschap betrokken persoon wordt aangetast, wordt op vordering van de betrokkene vernietigd, mits deze een zwaarwegend belang heeft bij de handhaving van die rechtspositie. [Artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=21&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing.
 
 ##### Artikel 135
 
 1. Een besluit van de algemene vergadering kan ook tot stand komen door schriftelijke stemuitbrenging buiten vergadering, mits alle met betrekking tot dat onderwerp stemgerechtigde personen stem hebben uitgebracht. Alle aandeelhouders op naam, bestuurders en commissarissen ontvangen tijdig bericht van de voorgenomen besluitvorming buiten vergadering.
 
-2. Het [derde tot en met het vijfde lid van artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=133&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+2. Het [derde tot en met het vijfde lid van artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=5&artikel=133&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing.
 
 ### Afdeling 6. Het bestuur
 
@@ -1227,17 +1233,17 @@ De op een vennootschap rustende verplichtingen als vermeld in [artikel 122](http
 
 ##### Artikel 137
 
-[Artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=6&artikel=136&z=2010-10-10&g=2010-10-10) vindt geen toepassing ten aanzien van de uitvoerend bestuurders als zodanig indien in de statuten toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10).
+[Artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=6&artikel=136&z=2019-07-01&g=2019-07-01) vindt geen toepassing ten aanzien van de uitvoerend bestuurders als zodanig indien in de statuten toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01).
 
 ### Afdeling 7. De onafhankelijke raad van commissarissen
 
 ##### Artikel 139
 
-Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens bepalen dat deze onafhankelijk is in de zin van dit artikel. In dat geval gelden, in afwijking van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=19&z=2010-10-10&g=2010-10-10), de [artikelen 140 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=140&z=2010-10-10&g=2010-10-10).
+Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens bepalen dat deze onafhankelijk is in de zin van dit artikel. In dat geval gelden, in afwijking van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=19&z=2019-07-01&g=2019-07-01), de [artikelen 140 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=140&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 140
 
-1. De raad van commissarissen bestaat uit ten minste drie natuurlijke personen. Is het aantal commissarissen minder dan drie dan neemt het bestuur, of indien het bestuur dit nalaat, de raad van commissarissen onverwijld maatregelen tot aanvulling van zijn ledental door benoeming overeenkomstig [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=141&z=2010-10-10&g=2010-10-10). Commissarissen mogen direct noch indirect aandelen in de vennootschap of een groepsmaatschappij of daarvan afgeleide rechten hebben.
+1. De raad van commissarissen bestaat uit ten minste drie natuurlijke personen. Is het aantal commissarissen minder dan drie dan neemt het bestuur, of indien het bestuur dit nalaat, de raad van commissarissen onverwijld maatregelen tot aanvulling van zijn ledental door benoeming overeenkomstig [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=141&z=2019-07-01&g=2019-07-01). Commissarissen mogen direct noch indirect aandelen in de vennootschap of een groepsmaatschappij of daarvan afgeleide rechten hebben.
 
 2. Tot de taak van de raad van commissarissen behoort in elk geval het houden van toezicht op het bestuur. Bij de vervulling van zijn taak richt de raad zich op het belang van de vennootschap en de daarmee verbonden onderneming. De raad ziet er op toe dat de belangen van minderheidsaandeelhouders en werknemers niet onnodig of onevenredig worden geschaad.
 
@@ -1249,7 +1255,7 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 6. Het bestuur verschaft de raad van commissarissen en de individuele commissarissen tijdig de voor de uitoefening van hun taak noodzakelijke of met het oog daarop door de betrokkene verlangde gegevens.
 
-7. Het bepaalde bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing ten aanzien van commissarissen.
+7. Het bepaalde bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2019-07-01&g=2019-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=16&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing ten aanzien van commissarissen.
 
 ##### Artikel 141
 
@@ -1263,7 +1269,7 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 1. Een commissaris kan te allen tijde worden geschorst of ontslagen door de raad van commissarissen op een niet voor beperking vatbare voordracht van de algemene vergadering of het bestuur of een ander in de statuten aangewezen orgaan.
 
-2. Op verzoek van de algemene vergadering, het bestuur, de raad van commissarissen of een ander in de statuten aangewezen orgaan kan een commissaris worden geschorst of ontslagen door de rechter indien hij zijn taak kennelijk onbehoorlijk vervult of wegens andere gewichtige redenen. De rechter kan, hangende het onderzoek, voorzieningen treffen als bedoeld in het [derde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2010-10-10&g=2010-10-10). De overige bepalingen van artikel 255 vinden overeenkomstige toepassing.
+2. Op verzoek van de algemene vergadering, het bestuur, de raad van commissarissen of een ander in de statuten aangewezen orgaan kan een commissaris worden geschorst of ontslagen door de rechter indien hij zijn taak kennelijk onbehoorlijk vervult of wegens andere gewichtige redenen. De rechter kan, hangende het onderzoek, voorzieningen treffen als bedoeld in het [derde lid van artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=255&z=2019-07-01&g=2019-07-01). De overige bepalingen van artikel 255 vinden overeenkomstige toepassing.
 
 3. Een schorsing vervalt indien de betrokkene niet binnen twee maanden na de schorsing is ontslagen.
 
@@ -1271,13 +1277,13 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 1. Rechtshandelingen van de vennootschap met een bestuurder, commissaris of aandeelhouder, het prijsgeven van een recht daaronder begrepen, mogen niet worden verricht zonder de voorafgaande goedkeuring van de raad van commissarissen.
 
-2. Het eerste lid is van overeenkomstige toepassing op het aanspannen van een rechtsgeding tegen een bestuurder, commissaris of aandeelhouder, tenzij het betreft een geding als bedoeld in [artikel 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=142&z=2010-10-10&g=2010-10-10).
+2. Het eerste lid is van overeenkomstige toepassing op het aanspannen van een rechtsgeding tegen een bestuurder, commissaris of aandeelhouder, tenzij het betreft een geding als bedoeld in [artikel 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=142&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 144
 
-1. Voor de vennootschap gelden in plaats van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2010-10-10&g=2010-10-10) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2010-10-10&g=2010-10-10) de [artikelen 120 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), ongeacht of zij aan de criteria van [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=119&z=2010-10-10&g=2010-10-10), voldoet.
+1. Voor de vennootschap gelden in plaats van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=116&z=2019-07-01&g=2019-07-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=3&artikel=117&z=2019-07-01&g=2019-07-01) de [artikelen 120 tot en met 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), ongeacht of zij aan de criteria van [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=119&z=2019-07-01&g=2019-07-01), voldoet.
 
-2. De in [artikel 120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), bedoelde opgemaakte jaarrekening behoeft de instemming van de raad van commissarissen. De raad van commissarissen is bevoegd wijzigingen aan te brengen in de opgemaakte jaarrekening alvorens deze aan de algemene vergadering ter goedkeuring wordt voorgelegd. De wijzigingen worden schriftelijk toegelicht.
+2. De in [artikel 120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), bedoelde opgemaakte jaarrekening behoeft de instemming van de raad van commissarissen. De raad van commissarissen is bevoegd wijzigingen aan te brengen in de opgemaakte jaarrekening alvorens deze aan de algemene vergadering ter goedkeuring wordt voorgelegd. De wijzigingen worden schriftelijk toegelicht.
 
 ## Titel 6. De besloten vennootschap
 
@@ -1293,7 +1299,7 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 ##### Artikel 201
 
-1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10), bevat de akte van oprichting in elk geval:
+1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01), bevat de akte van oprichting in elk geval:
 
 - a. de aantallen en soorten van de bij de oprichting geplaatste aandelen, alsmede de namen en woonplaatsen van degenen die deze aandelen hebben genomen;
 
@@ -1315,13 +1321,13 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 4. Kennen de statuten aandelen met een nominale waarde dan bevatten zij bepalingen met betrekking tot de aan die aandelen en andere aandelen verbonden stem-, winst- en liquidatierechten.
 
-5. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=3&z=2010-10-10&g=2010-10-10), kunnen de statuten bepalen dat houders van aandelen of van een bepaald soort aandelen persoonlijk aansprakelijk zijn, al dan niet hoofdelijk, voor bepaalde of alle schulden van de vennootschap. In dat geval komt het in [artikel 209, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10), bedoelde inzagerecht toe aan iedere belanghebbende. Iedere belanghebbende kan voorts verlangen dat aan hem wordt afgegeven een door het bestuur van de vennootschap gewaarmerkt uittreksel uit het register waarop de voor hem van belang zijnde gegevens staan vermeld. Een besluit tot wijziging van de statuten, waardoor een zodanige persoonlijke aansprakelijkheid wordt ingevoerd, gewijzigd of afgeschaft, kan slechts tot stand komen met de uitdrukkelijke instemming van alle aandeelhouders.
+5. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=3&z=2019-07-01&g=2019-07-01), kunnen de statuten bepalen dat houders van aandelen of van een bepaald soort aandelen persoonlijk aansprakelijk zijn, al dan niet hoofdelijk, voor bepaalde of alle schulden van de vennootschap. In dat geval komt het in [artikel 209, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01), bedoelde inzagerecht toe aan iedere belanghebbende. Iedere belanghebbende kan voorts verlangen dat aan hem wordt afgegeven een door het bestuur van de vennootschap gewaarmerkt uittreksel uit het register waarop de voor hem van belang zijnde gegevens staan vermeld. Een besluit tot wijziging van de statuten, waardoor een zodanige persoonlijke aansprakelijkheid wordt ingevoerd, gewijzigd of afgeschaft, kan slechts tot stand komen met de uitdrukkelijke instemming van alle aandeelhouders.
 
-6. Wordt door statutenwijziging een aansprakelijkheidsregeling als bedoeld in het vijfde lid afgeschaft of gewijzigd, waardoor de aansprakelijkheid van een of meer aandeelhouders vervalt of vermindert, dan heeft die afschaffing of wijziging ook effect voor bestaande schulden, zulks slechts met dien verstande dat ten aanzien van die schulden het verval of de vermindering van de aansprakelijkheid eerst intreedt zes maanden na het tijdstip waarop, nadat de statutenwijziging heeft plaatsgevonden, ten aanzien van de betrokken aandeelhouder een daarop aansluitende aantekening in het register als bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10) is gedaan, alles onverminderd het bepaalde in de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503). De statuten kunnen deze termijn verlengen.
+6. Wordt door statutenwijziging een aansprakelijkheidsregeling als bedoeld in het vijfde lid afgeschaft of gewijzigd, waardoor de aansprakelijkheid van een of meer aandeelhouders vervalt of vermindert, dan heeft die afschaffing of wijziging ook effect voor bestaande schulden, zulks slechts met dien verstande dat ten aanzien van die schulden het verval of de vermindering van de aansprakelijkheid eerst intreedt zes maanden na het tijdstip waarop, nadat de statutenwijziging heeft plaatsgevonden, ten aanzien van de betrokken aandeelhouder een daarop aansluitende aantekening in het register als bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01) is gedaan, alles onverminderd het bepaalde in de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503). De statuten kunnen deze termijn verlengen.
 
-7. Houdt een aandeelhouder, op wie een aansprakelijkheid rust uit hoofde van een statutaire bepaling als bedoeld in het vijfde lid, op aandeelhouder te zijn, dan vervalt ook de aansprakelijkheid voor bestaande schulden, zulks echter met dien verstande dat ten aanzien van die schulden het verval van aansprakelijkheid eerst intreedt zes maanden na het tijdstip waarop, nadat zijn aandeelhouderschap is geëindigd, daarvan aantekening is gedaan in het register als bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10). De statuten kunnen deze termijn verlengen.
+7. Houdt een aandeelhouder, op wie een aansprakelijkheid rust uit hoofde van een statutaire bepaling als bedoeld in het vijfde lid, op aandeelhouder te zijn, dan vervalt ook de aansprakelijkheid voor bestaande schulden, zulks echter met dien verstande dat ten aanzien van die schulden het verval van aansprakelijkheid eerst intreedt zes maanden na het tijdstip waarop, nadat zijn aandeelhouderschap is geëindigd, daarvan aantekening is gedaan in het register als bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01). De statuten kunnen deze termijn verlengen.
 
-8. De statuten kunnen, naast het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=27&z=2010-10-10&g=2010-10-10), andere wijzen van ontbinding aangeven. Een ontbinding krachtens een statutaire bepaling treedt niet in alvorens daaraan bekendheid is gegeven door de vereffenaars overeenkomstig artikel 27, tweede lid. De statutaire bepaling verliest haar geldigheid indien de bekendmaking niet binnen zes maanden na het tijdstip waarop dat voor het eerst mogelijk was is geschied.
+8. De statuten kunnen, naast het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=27&z=2019-07-01&g=2019-07-01), andere wijzen van ontbinding aangeven. Een ontbinding krachtens een statutaire bepaling treedt niet in alvorens daaraan bekendheid is gegeven door de vereffenaars overeenkomstig artikel 27, tweede lid. De statutaire bepaling verliest haar geldigheid indien de bekendmaking niet binnen zes maanden na het tijdstip waarop dat voor het eerst mogelijk was is geschied.
 
 ### Afdeling 2. De aandelen
 
@@ -1333,11 +1339,11 @@ Bepalen de statuten dat er een raad van commissarissen is, dan kunnen zij tevens
 
 3. De bepalingen van dit boek, over aandelen en aandeelhouders vinden overeenkomstige toepassing op onderaandelen en houders daarvan voor zover uit die bepalingen niet anders blijkt.
 
-4. Tenzij de statuten anders bepalen gelden voor de toepassing van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=229&z=2010-10-10&g=2010-10-10), en [232, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=232&z=2010-10-10&g=2010-10-10), onderaandelen die tezamen ten minste een of meer aandelen vertegenwoordigen als zoveel aandelen, ongeacht de gerechtigdheid tot de onderaandelen.
+4. Tenzij de statuten anders bepalen gelden voor de toepassing van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=229&z=2019-07-01&g=2019-07-01), en [232, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=232&z=2019-07-01&g=2019-07-01), onderaandelen die tezamen ten minste een of meer aandelen vertegenwoordigen als zoveel aandelen, ongeacht de gerechtigdheid tot de onderaandelen.
 
 ##### Artikel 204
 
-De algemene vergadering van aandeelhouders of een daartoe in of krachtens de statuten aangewezen ander orgaan is bevoegd na de oprichting te besluiten tot uitgifte van nieuwe aandelen. De daarop volgende uitgifte geschiedt bij een door de vennootschap en de nemer getekende akte. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op de akte.
+De algemene vergadering van aandeelhouders of een daartoe in of krachtens de statuten aangewezen ander orgaan is bevoegd na de oprichting te besluiten tot uitgifte van nieuwe aandelen. De daarop volgende uitgifte geschiedt bij een door de vennootschap en de nemer getekende akte. [Artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing op de akte.
 
 ##### Artikel 205
 
@@ -1357,7 +1363,7 @@ De statuten kunnen bepalen dat, al dan niet krachtens besluit van een daartoe aa
 
 4. Als bijstortingsplicht wordt in de wet aangeduid iedere verplichting tot storting op een uitgegeven aandeel die niet onmiddellijk en onvoorwaardelijk opeisbaar is.
 
-5. Behoudens ontheffing van de bijstortingsplicht op de voet van [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=215&z=2010-10-10&g=2010-10-10) kan de houder van een aandeel niet worden ontheven van zijn verplichtingen uit hoofde van dit artikel. Bij vervreemding van een aandeel blijft de vervreemder nog gedurende een jaar naast de verkrijger hoofdelijk aansprakelijk voor uit dit artikel voortvloeiende verplichtingen.
+5. Behoudens ontheffing van de bijstortingsplicht op de voet van [artikel 215](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=215&z=2019-07-01&g=2019-07-01) kan de houder van een aandeel niet worden ontheven van zijn verplichtingen uit hoofde van dit artikel. Bij vervreemding van een aandeel blijft de vervreemder nog gedurende een jaar naast de verkrijger hoofdelijk aansprakelijk voor uit dit artikel voortvloeiende verplichtingen.
 
 6. Ten aanzien van een verplichting tot storting of bijstorting op een aandeel kan de wederpartij van de vennootschap zich nimmer op verrekening beroepen.
 
@@ -1369,21 +1375,21 @@ De statuten kunnen bepalen dat, al dan niet krachtens besluit van een daartoe aa
 
 ##### Artikel 209
 
-1. Het bestuur houdt een register bij, waarin de namen en adressen van alle houders van aandelen zijn opgenomen, met vermelding van de soort aandeel, daaraan verbonden stemrecht, het daarop gestorte of als gestort weergegeven bedrag, de eventuele bijstortingsverplichting, de dag van verkrijging, de eventuele aansprakelijkheid uit hoofde van [artikel 205, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=205&z=2010-10-10&g=2010-10-10), en het al of niet afgegeven zijn van een aandeelbewijs. Aangetekend worden ook de vestiging of overdracht van vruchtgebruik op de aandelen en de vestiging van pandrecht op de aandelen, alsmede een daarmee samenhangende overgang van stemrecht. Het register wordt regelmatig bijgehouden. Bij iedere mutatie wordt de dag waarop deze is aangebracht vermeld.
+1. Het bestuur houdt een register bij, waarin de namen en adressen van alle houders van aandelen zijn opgenomen, met vermelding van de soort aandeel, daaraan verbonden stemrecht, het daarop gestorte of als gestort weergegeven bedrag, de eventuele bijstortingsverplichting, de dag van verkrijging, de eventuele aansprakelijkheid uit hoofde van [artikel 205, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=205&z=2019-07-01&g=2019-07-01), en het al of niet afgegeven zijn van een aandeelbewijs. Aangetekend worden ook de vestiging of overdracht van vruchtgebruik op de aandelen en de vestiging van pandrecht op de aandelen, alsmede een daarmee samenhangende overgang van stemrecht. Het register wordt regelmatig bijgehouden. Bij iedere mutatie wordt de dag waarop deze is aangebracht vermeld.
 
 2. Iedere aandeelhouder heeft recht op inzage in het register. De statuten kunnen het inzagerecht aan anderen toekennen.
 
 ##### Artikel 210
 
-1. Aandelen zijn overdraagbaar, behoudens het in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=211&z=2010-10-10&g=2010-10-10) en elders in de wet bepaalde.
+1. Aandelen zijn overdraagbaar, behoudens het in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=211&z=2019-07-01&g=2019-07-01) en elders in de wet bepaalde.
 
 2. Levering van aandelen geschiedt door een door partijen getekende akte van overdracht en hetzij betekening van die akte aan de vennootschap, hetzij erkenning van de overdracht door de vennootschap. Erkenning geschiedt door een ondertekende aantekening op de akte van overdracht of een aan de verkrijger gerichte schriftelijke verklaring van de vennootschap. Betreft het aandelen waarop een bijstortingsplicht rust, dan kan erkenning slechts geschieden wanneer de akte van overdracht een vaste dagtekening draagt.
 
 3. Indien een aandeelbewijs door de vennootschap is afgegeven kan dat stuk, voorzien van een door partijen ondertekende aantekening tot overdracht, als akte van overdracht gelden.
 
-4. De statuten kunnen bepalen dat, indien een aandeelbewijs door de vennootschap is afgegeven, als akte van overdracht uitsluitend kan gelden een stuk als bedoeld in het derde lid. Zij kunnen ook bepalen dat erkenning of betekening slechts kan geschieden na inlevering van het afgegeven aandeelbewijs, zulks onverminderd het recht van de opvolgend aandeelhouder op afgifte van een te zijnen name gesteld aandeelbewijs op de voet van [artikel 208, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=208&z=2010-10-10&g=2010-10-10). In beide gevallen lijdt de regel uitzondering wanneer de vervreemder ten genoege van de vennootschap aannemelijk maakt dat zijn aandeelbewijs verloren is gegaan. De vervreemder, die zich op deze bepaling beroept, is tegenover de vennootschap en derden aansprakelijk voor alle als gevolg hiervan te lijden schade.
+4. De statuten kunnen bepalen dat, indien een aandeelbewijs door de vennootschap is afgegeven, als akte van overdracht uitsluitend kan gelden een stuk als bedoeld in het derde lid. Zij kunnen ook bepalen dat erkenning of betekening slechts kan geschieden na inlevering van het afgegeven aandeelbewijs, zulks onverminderd het recht van de opvolgend aandeelhouder op afgifte van een te zijnen name gesteld aandeelbewijs op de voet van [artikel 208, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=208&z=2019-07-01&g=2019-07-01). In beide gevallen lijdt de regel uitzondering wanneer de vervreemder ten genoege van de vennootschap aannemelijk maakt dat zijn aandeelbewijs verloren is gegaan. De vervreemder, die zich op deze bepaling beroept, is tegenover de vennootschap en derden aansprakelijk voor alle als gevolg hiervan te lijden schade.
 
-5. De levering en de dag daarvan worden in het register, bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10), aangetekend.
+5. De levering en de dag daarvan worden in het register, bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01), aangetekend.
 
 ##### Artikel 211
 
@@ -1391,7 +1397,7 @@ De statuten kunnen bepalen dat, al dan niet krachtens besluit van een daartoe aa
 
 2. Een overdracht of toedeling die de instemming heeft van alle aandeelhouders is geldig.
 
-3. In geval van executoriaal beslag, faillissement, afgifte van een legaat of toedeling uit een gemeenschap kan de rechter bepalingen als bedoeld in het eerste lid geheel of gedeeltelijk buiten toepassing verklaren. Het verzoek daartoe kan worden gedaan door onderscheidenlijk de executant, de curator of een belanghebbende bij de afgifte van het legaat of de toedeling. De rechter wijst het verzoek slechts toe indien de belangen van de verzoeker dat bepaaldelijk vorderen. De rechter kan bepalen dat de vennootschap aan de executant of de curator inzage moet geven in het register bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10).
+3. In geval van executoriaal beslag, faillissement, afgifte van een legaat of toedeling uit een gemeenschap kan de rechter bepalingen als bedoeld in het eerste lid geheel of gedeeltelijk buiten toepassing verklaren. Het verzoek daartoe kan worden gedaan door onderscheidenlijk de executant, de curator of een belanghebbende bij de afgifte van het legaat of de toedeling. De rechter wijst het verzoek slechts toe indien de belangen van de verzoeker dat bepaaldelijk vorderen. De rechter kan bepalen dat de vennootschap aan de executant of de curator inzage moet geven in het register bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 212
 
@@ -1405,9 +1411,9 @@ De statuten kunnen bepalen dat, al dan niet krachtens besluit van een daartoe aa
 
 2. Tenzij de statuten anders bepalen kan bij de vestiging of in een aanvullende akte tussen aandeelhouder en pandhouder worden bepaald dat de aan de aandelen verbonden rechten, al dan niet voorwaardelijk, geheel of gedeeltelijk toekomen aan de pandhouder.
 
-3. Wordt pandrecht gevestigd met toepassing van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) en vervolgens een voorziening als bedoeld in het tweede lid van dit artikel getroffen in een aanvullende akte, dan is voor de geldigheid van die akte vereist dat [artikel 210, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=210&z=2010-10-10&g=2010-10-10), overeenkomstige toepassing heeft gevonden. Ook artikel 210, derde, vierde en vijfde lid, vindt overeenkomstige toepassing.
+3. Wordt pandrecht gevestigd met toepassing van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) en vervolgens een voorziening als bedoeld in het tweede lid van dit artikel getroffen in een aanvullende akte, dan is voor de geldigheid van die akte vereist dat [artikel 210, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=210&z=2019-07-01&g=2019-07-01), overeenkomstige toepassing heeft gevonden. Ook artikel 210, derde, vierde en vijfde lid, vindt overeenkomstige toepassing.
 
-4. In afwijking van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) kan pandrecht op aandelen op naam ook worden gevestigd zonder betekening of erkenning als bedoeld in [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=210&z=2010-10-10&g=2010-10-10). [Artikel 239 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=239) vindt overeenkomstige toepassing.
+4. In afwijking van het [tweede lid van artikel 236 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=236) kan pandrecht op aandelen op naam ook worden gevestigd zonder betekening of erkenning als bedoeld in [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=210&z=2019-07-01&g=2019-07-01). [Artikel 239 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=239) vindt overeenkomstige toepassing.
 
 ### Afdeling 3. Het vermogen en de jaarrekening
 
@@ -1415,13 +1421,13 @@ De statuten kunnen bepalen dat, al dan niet krachtens besluit van een daartoe aa
 
 1. De vennootschap kan geen eigen aandelen nemen.
 
-2. Onverminderd het bepaalde in [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&z=2010-10-10&g=2010-10-10) kunnen de statuten de verkrijging door de vennootschap van eigen aandelen van derden uitsluiten, beperken of aan voorwaarden onderwerpen. Zolang de vennootschap direct of indirect eigen aandelen houdt, kunnen de daaraan verbonden rechten niet worden uitgeoefend. [Artikel 218, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op verkrijging van eigen aandelen.
+2. Onverminderd het bepaalde in [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&z=2019-07-01&g=2019-07-01) kunnen de statuten de verkrijging door de vennootschap van eigen aandelen van derden uitsluiten, beperken of aan voorwaarden onderwerpen. Zolang de vennootschap direct of indirect eigen aandelen houdt, kunnen de daaraan verbonden rechten niet worden uitgeoefend. [Artikel 218, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing op verkrijging van eigen aandelen.
 
 3. De vennootschap kan door een daarop gericht besluit van de algemene vergadering of een door de statuten aangewezen ander orgaan door de vennootschap gehouden eigen aandelen intrekken.
 
 ##### Artikel 215
 
-1. De statuten kunnen bepalen dat een orgaan per soort aandelen kan besluiten tot gehele of gedeeltelijke terugbetaling of ontheffing van een bijstortingsplicht als bedoeld in [artikel 207, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=207&z=2010-10-10&g=2010-10-10), mits het eigen vermogen van de vennootschap op het tijdstip van de terugbetaling of ontheffing ten minste nihil is en door de terugbetaling of ontheffing niet negatief wordt. Een besluit dat niet aan deze voorwaarde voldoet heeft geen enkele rechtskracht.
+1. De statuten kunnen bepalen dat een orgaan per soort aandelen kan besluiten tot gehele of gedeeltelijke terugbetaling of ontheffing van een bijstortingsplicht als bedoeld in [artikel 207, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=207&z=2019-07-01&g=2019-07-01), mits het eigen vermogen van de vennootschap op het tijdstip van de terugbetaling of ontheffing ten minste nihil is en door de terugbetaling of ontheffing niet negatief wordt. Een besluit dat niet aan deze voorwaarde voldoet heeft geen enkele rechtskracht.
 
 2. Heeft de vennootschap een nominaal kapitaal dan wordt bij de toepassing van het eerste lid het bedrag daarvan als ondergrens in aanmerking genomen.
 
@@ -1459,7 +1465,7 @@ De statuten kunnen de verdeling van uitkeringen geheel of gedeeltelijk overlaten
 
 4. Het recht op uitkering vervalt door een tijdsverloop van drie jaren na het einde van de dag, waarop hetzij daaraan voldoende bekendheid is gegeven, hetzij de uitkeringsgerechtigde daarvan kennis heeft genomen of daarvan is verwittigd. Bij de statuten kan worden bepaald dat het recht op uitkering niet vervalt of een langere termijn worden gesteld.
 
-5. Uitkeringen aan aandeelhouders en andere uitkeringsgerechtigden mogen niet worden gedaan indien het eigen vermogen van de vennootschap negatief is of door die uitkering negatief zou worden. Een besluit tot het doen van een zodanige uitkering heeft geen enkele rechtskracht. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=22&z=2010-10-10&g=2010-10-10), vindt geen toepassing.
+5. Uitkeringen aan aandeelhouders en andere uitkeringsgerechtigden mogen niet worden gedaan indien het eigen vermogen van de vennootschap negatief is of door die uitkering negatief zou worden. Een besluit tot het doen van een zodanige uitkering heeft geen enkele rechtskracht. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=22&z=2019-07-01&g=2019-07-01), vindt geen toepassing.
 
 6. Een uitkering als bedoeld in dit artikel wordt vermoed te zijn gedaan in strijd met de eerste zin van het vijfde lid, indien de jaarrekening van het boekjaar ten laste waarvan de uitkering wordt gedaan, met inachtneming van die uitkering een eigen vermogen toont dat negatief is. Betreft het een uitkering als bedoeld in het eerste lid dan is het vermoeden onweerlegbaar.
 
@@ -1467,11 +1473,11 @@ De statuten kunnen de verdeling van uitkeringen geheel of gedeeltelijk overlaten
 
 ##### Artikel 219
 
-1. De [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=216&z=2010-10-10&g=2010-10-10) en [217](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=217&z=2010-10-10&g=2010-10-10) gelden niet voor de vennootschap die in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2010-10-10&g=2010-10-10), al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2010-10-10&g=2010-10-10) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2010-10-10&g=2010-10-10), van toepassing heeft verklaard. In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2010-10-10&g=2010-10-10) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2010-10-10&g=2010-10-10) van toepassing.
+1. De [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=216&z=2019-07-01&g=2019-07-01) en [217](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=217&z=2019-07-01&g=2019-07-01) gelden niet voor de vennootschap die in haar statuten de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=120&z=2019-07-01&g=2019-07-01), al dan niet tezamen met de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=123&z=2019-07-01&g=2019-07-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=124&z=2019-07-01&g=2019-07-01), van toepassing heeft verklaard. In dat geval zijn ook de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=125&z=2019-07-01&g=2019-07-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=126&z=2019-07-01&g=2019-07-01) van toepassing.
 
 ### Afdeling 4
 
-### Afdeling 5. De algemene vergadering van aandeelhouders
+### Afdeling 4
 
 ##### Artikel 227
 
@@ -1489,13 +1495,13 @@ De statuten kunnen de verdeling van uitkeringen geheel of gedeeltelijk overlaten
 
 1. Iedere aandeelhouder met stemrecht kan het bestuur of de raad van commissarissen schriftelijk verzoeken om een algemene vergadering bijeen te roepen teneinde te beraadslagen en te besluiten over daarbij aangegeven onder dat stemrecht vallende onderwerpen, mits hij daarbij een redelijk belang heeft.
 
-2. Indien het bestuur of de raad van commissarissen niet binnen zeven dagen na de dag dat het verzoek de vennootschap of het betrokken orgaan heeft bereikt, gevolg geeft aan een zodanig verzoek, kan de verzoeker zelf tot bijeenroeping overgaan. Met het oog daarop geeft het bestuur de verzoeker inzage in het register, bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10).
+2. Indien het bestuur of de raad van commissarissen niet binnen zeven dagen na de dag dat het verzoek de vennootschap of het betrokken orgaan heeft bereikt, gevolg geeft aan een zodanig verzoek, kan de verzoeker zelf tot bijeenroeping overgaan. Met het oog daarop geeft het bestuur de verzoeker inzage in het register, bedoeld in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01).
 
 3. Bij de oproeping door de aandeelhouder worden geen andere dan de aanvankelijk aangegeven onderwerpen als te behandelen vermeld.
 
 4. De oproeping en de daarbij behorende stukken worden mede gezonden aan iedere bestuurder en iedere commissaris.
 
-5. Voor de toepassing van [artikel 230, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=230&z=2010-10-10&g=2010-10-10), worden de in het eerste tot en met vierde lid bedoelde voorschriften mede in aanmerking genomen.
+5. Voor de toepassing van [artikel 230, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=230&z=2019-07-01&g=2019-07-01), worden de in het eerste tot en met vierde lid bedoelde voorschriften mede in aanmerking genomen.
 
 ##### Artikel 230
 
@@ -1535,23 +1541,23 @@ De statuten kunnen de verdeling van uitkeringen geheel of gedeeltelijk overlaten
 
 5. Iedere aandeelhouder heeft recht op een afschrift van de notulen.
 
-6. Het eerste tot en met vierde lid vinden overeenkomstige toepassing bij besluiten van andere organen. Het vijfde lid vindt overeenkomstige toepassing wanneer een ander orgaan dan de algemene vergadering een besluit neemt als bedoeld in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=204&z=2010-10-10&g=2010-10-10), [207, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=207&z=2010-10-10&g=2010-10-10), [214, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=214&z=2010-10-10&g=2010-10-10), [215, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=215&z=2010-10-10&g=2010-10-10), [217, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=217&z=2010-10-10&g=2010-10-10), of [218, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2010-10-10&g=2010-10-10).
+6. Het eerste tot en met vierde lid vinden overeenkomstige toepassing bij besluiten van andere organen. Het vijfde lid vindt overeenkomstige toepassing wanneer een ander orgaan dan de algemene vergadering een besluit neemt als bedoeld in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=204&z=2019-07-01&g=2019-07-01), [207, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=207&z=2019-07-01&g=2019-07-01), [214, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=214&z=2019-07-01&g=2019-07-01), [215, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=215&z=2019-07-01&g=2019-07-01), [217, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=217&z=2019-07-01&g=2019-07-01), of [218, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=3&artikel=218&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 234
 
-1. Behoudens beperkingen volgens de statuten en onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) is de algemene vergadering bevoegd de statuten te wijzigen. Een met algemene stemmen genomen besluit tot statutenwijziging waaraan alle stemgerechtigde personen hebben meegewerkt is geldig, ongeacht het daarover in de statuten bepaalde.
+1. Behoudens beperkingen volgens de statuten en onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) is de algemene vergadering bevoegd de statuten te wijzigen. Een met algemene stemmen genomen besluit tot statutenwijziging waaraan alle stemgerechtigde personen hebben meegewerkt is geldig, ongeacht het daarover in de statuten bepaalde.
 
 2. Een statutaire bepaling die in de gegeven situatie tot gevolg zou hebben dat er geen stemgerechtigde personen als bedoeld in het eerste lid zijn, wordt, zolang die situatie voortduurt, voor niet geschreven gehouden.
 
 3. Gedurende het faillissement van de vennootschap kunnen de statuten slechts worden gewijzigd met instemming van de curator.
 
-4. Een besluit tot wijziging van de statuten waardoor de rechtspositie van een krachtens de wet of de statuten bij de organisatie van de vennootschap betrokken persoon wordt aangetast, wordt op vordering van de betrokkene vernietigd, mits deze een zwaarwegend belang heeft bij de handhaving van die rechtspositie. [Artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=21&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing.
+4. Een besluit tot wijziging van de statuten waardoor de rechtspositie van een krachtens de wet of de statuten bij de organisatie van de vennootschap betrokken persoon wordt aangetast, wordt op vordering van de betrokkene vernietigd, mits deze een zwaarwegend belang heeft bij de handhaving van die rechtspositie. [Artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=21&z=2019-07-01&g=2019-07-01), vindt overeenkomstige toepassing.
 
 ##### Artikel 235
 
 1. Een besluit van de algemene vergadering kan ook tot stand komen door schriftelijke stemuitbrenging buiten vergadering, mits alle met betrekking tot dat onderwerp stemgerechtigde personen stem hebben uitgebracht. Alle aandeelhouders, bestuurders en commissarissen ontvangen tijdig bericht van de voorgenomen besluitvorming buiten vergadering.
 
-2. Het [derde tot en met het vijfde lid van artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=233&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+2. Het [derde tot en met het vijfde lid van artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=233&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing.
 
 ### Afdeling 6. Het bestuur
 
@@ -1567,41 +1573,41 @@ De statuten kunnen de verdeling van uitkeringen geheel of gedeeltelijk overlaten
 
 ##### Artikel 237
 
-[Artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2010-10-10&g=2010-10-10) vindt geen toepassing ten aanzien van de dagelijkse bestuurders als zodanig indien in de statuten toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10).
+[Artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2019-07-01&g=2019-07-01) vindt geen toepassing ten aanzien van de dagelijkse bestuurders als zodanig indien in de statuten toepassing is gegeven aan [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 238
 
-Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zekere omstandigheden, al dan niet krachtens een bepaling van de statuten of van dit boek, het beleid van de vennootschap bepaalt of mede bepaalt als ware hij bestuurder, wordt ter zake van dat optreden, wat zijn verplichtingen ten opzichte van de vennootschap en van derden betreft, alsmede voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2010-10-10&g=2010-10-10) als bestuurder aangemerkt.
+Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zekere omstandigheden, al dan niet krachtens een bepaling van de statuten of van dit boek, het beleid van de vennootschap bepaalt of mede bepaalt als ware hij bestuurder, wordt ter zake van dat optreden, wat zijn verplichtingen ten opzichte van de vennootschap en van derden betreft, alsmede voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=9&z=2019-07-01&g=2019-07-01) als bestuurder aangemerkt.
 
 ### Afdeling 7. De aandeelhouder-bestuurde vennootschap
 
 ##### Artikel 239
 
-1. De statuten kunnen bepalen dat de vennootschap een aandeelhouderbestuurde vennootschap is. In dat geval wordt in de wet telkens in plaats van bestuurder gelezen: aandeelhouder, en in plaats van het bestuur: de algemene vergadering van aandeelhouders. Voor de aandeelhouder-bestuurde vennootschap gelden voorts de [artikelen 240 tot en met 242](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=240&z=2010-10-10&g=2010-10-10).
+1. De statuten kunnen bepalen dat de vennootschap een aandeelhouderbestuurde vennootschap is. In dat geval wordt in de wet telkens in plaats van bestuurder gelezen: aandeelhouder, en in plaats van het bestuur: de algemene vergadering van aandeelhouders. Voor de aandeelhouder-bestuurde vennootschap gelden voorts de [artikelen 240 tot en met 242](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=7&artikel=240&z=2019-07-01&g=2019-07-01).
 
 2. Een besluit tot wijziging van de statuten waardoor een bepaling als bedoeld in het eerste lid wordt ingevoerd of afgeschaft kan slechts tot stand komen met de uitdrukkelijke instemming van alle stemgerechtigde aandeelhouders.
 
 ##### Artikel 240
 
-1. De aandeelhouders kunnen de wijze waarop de vennootschap door hen zal worden bestuurd, de daarbij toepasselijke taakverdeling en beloning en de wijze van totstandkoming van beslissingen dienaangaande, nader vastleggen in een aandeelhoudersovereenkomst als bedoeld in [artikel 227, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2010-10-10&g=2010-10-10), mits alle aandeelhouders en ook de vennootschap daarbij partij zijn.
+1. De aandeelhouders kunnen de wijze waarop de vennootschap door hen zal worden bestuurd, de daarbij toepasselijke taakverdeling en beloning en de wijze van totstandkoming van beslissingen dienaangaande, nader vastleggen in een aandeelhoudersovereenkomst als bedoeld in [artikel 227, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=227&z=2019-07-01&g=2019-07-01), mits alle aandeelhouders en ook de vennootschap daarbij partij zijn.
 
 2. De aandeelhoudersovereenkomst wordt schriftelijk vastgelegd en door alle partijen getekend. Niet naleving van dit voorschrift heeft geen nietigheid ten gevolge.
 
 3. Tenzij de aandeelhoudersovereenkomst anders bepaalt worden alle beslissingen aangaande het bestuur genomen door de algemene vergadering van aandeelhouders met toepassing van de voor die vergadering geldende regels.
 
-4. Onverminderd het bepaalde in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=228&z=2010-10-10&g=2010-10-10) is iedere aandeelhouder steeds bevoegd tot het bijeenroepen van een algemene vergadering. [Artikel 229](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=229&z=2010-10-10&g=2010-10-10) vindt geen toepassing. In plaats van [artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=235&z=2010-10-10&g=2010-10-10) geldt dat een besluit van de algemene vergadering ook tot stand kan komen op een nader in de aandeelhouders-overeenkomst vast te stellen wijze, mits alle aandeelhouders in de gelegenheid zijn gesteld aan het overleg en de besluitvorming deel te nemen.
+4. Onverminderd het bepaalde in [artikel 228](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=228&z=2019-07-01&g=2019-07-01) is iedere aandeelhouder steeds bevoegd tot het bijeenroepen van een algemene vergadering. [Artikel 229](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=229&z=2019-07-01&g=2019-07-01) vindt geen toepassing. In plaats van [artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=235&z=2019-07-01&g=2019-07-01) geldt dat een besluit van de algemene vergadering ook tot stand kan komen op een nader in de aandeelhouders-overeenkomst vast te stellen wijze, mits alle aandeelhouders in de gelegenheid zijn gesteld aan het overleg en de besluitvorming deel te nemen.
 
-5. De statuten kunnen bepalen dat ook de wijze van totstandkoming van besluiten van de algemene vergadering wordt geregeld in de aandeelhoudersovereenkomst. In dat geval vinden ook de [artikelen 228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=228&z=2010-10-10&g=2010-10-10), [230](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=230&z=2010-10-10&g=2010-10-10), [232](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=232&z=2010-10-10&g=2010-10-10), [233](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=233&z=2010-10-10&g=2010-10-10) en [235](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=235&z=2010-10-10&g=2010-10-10) geen toepassing, voor zover het tegendeel niet uit de statuten of de aandeelhoudersovereenkomst blijkt.
+5. De statuten kunnen bepalen dat ook de wijze van totstandkoming van besluiten van de algemene vergadering wordt geregeld in de aandeelhoudersovereenkomst. In dat geval vinden ook de [artikelen 228, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=228&z=2019-07-01&g=2019-07-01), [230](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=230&z=2019-07-01&g=2019-07-01), [232](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=232&z=2019-07-01&g=2019-07-01), [233](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=233&z=2019-07-01&g=2019-07-01) en [235](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=5&artikel=235&z=2019-07-01&g=2019-07-01) geen toepassing, voor zover het tegendeel niet uit de statuten of de aandeelhoudersovereenkomst blijkt.
 
 ##### Artikel 241
 
 1. Behoudens beperkingen in de wet, de statuten of de aandeelhoudersovereenkomst, is iedere aandeelhouder bevoegd tot vertegenwoordiging van de vennootschap.
 
-2. Het [tweede tot en met het vijfde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=10&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+2. Het [tweede tot en met het vijfde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=10&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 242
 
-1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=12&z=2010-10-10&g=2010-10-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2010-10-10&g=2010-10-10) vinden geen toepassing. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=17&z=2010-10-10&g=2010-10-10) en [238](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=238&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing. [Artikel 14, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing, voor zover daarvan niet is afgeweken in de aandeelhoudersovereenkomst. In dat geval is alleen het vijfde lid van artikel 14 van overeenkomstige toepassing.
+1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=12&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=236&z=2019-07-01&g=2019-07-01) vinden geen toepassing. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=17&z=2019-07-01&g=2019-07-01) en [238](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=6&artikel=238&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing. [Artikel 14, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=14&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing, voor zover daarvan niet is afgeweken in de aandeelhoudersovereenkomst. In dat geval is alleen het vijfde lid van artikel 14 van overeenkomstige toepassing.
 
 2. Iedere aandeelhouder heeft recht op inzage in alle tot de administratie behorende boeken, bescheiden en andere gegevensdragers en het recht om daarvan, dan wel van de desbetreffende gegevens, op eigen kosten afschriften te maken of te laten maken.
 
@@ -1617,7 +1623,7 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 4. De rechter wijst de vordering tegen alle gedaagden af, indien een gedaagde ondanks de vergoeding ernstige stoffelijke schade zou lijden door de overdracht of een eiser jegens een gedaagde afstand heeft gedaan van zijn bevoegdheid de vordering in te stellen. Voor zover de statuten niet anders bepalen wijst de rechter de vordering tegen alle gedaagden ook af indien een gedaagde houder is van een aandeel waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden.
 
-5. Indien de rechter oordeelt dat het eerste tot en met vierde lid de toewijzing van de vordering niet belet, kan hij bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. Hij kan bepalen dat de eiser zekerheid moet stellen voor de met het deskundigenrapport gemoeide kosten. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. De rechter stelt de prijs vast die de over te dragen aandelen op een door hem te bepalen dag hebben. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, van die dag af tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
+5. Indien de rechter oordeelt dat het eerste tot en met vierde lid de toewijzing van de vordering niet belet, kan hij bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. Hij kan bepalen dat de eiser zekerheid moet stellen voor de met het deskundigenrapport gemoeide kosten. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing. De rechter stelt de prijs vast die de over te dragen aandelen op een door hem te bepalen dag hebben. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, van die dag af tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
 
 6. De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een gedaagde die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
 
@@ -1635,7 +1641,7 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 4. De bevoegdheid tot het instellen van de vordering vervalt indien de vennootschap of een medeaandeelhouder voor het aanhangig maken daarvan aan de aandeelhouder een schriftelijk, onvoorwaardelijk en onherroepelijk aanbod doet om zijn aandelen tegen contante betaling over te nemen. Bij aanvaarding wordt de koopprijs vastgesteld door een of meer door de rechter op verzoek van de meest gerede partij te benoemen deskundigen. Daarbij gaan de deskundigen uit van de waarde van de vennootschap op de dag van aanvaarding van het aanbod. Zij houden rekening met het eventueel door de eiser te lijden fiscaal nadeel. Over het aldus vastgestelde bedrag is wettelijke rente verschuldigd tot aan de dag van voldoening. De kosten van de deskundigen zijn voor rekening van degene die het aanbod heeft gedaan.
 
-5. Degene die het in het vierde lid bedoelde aanbod doet, moet daarbij een termijn voor schriftelijke aanvaarding stellen die niet korter mag zijn dan vier weken en verklaren dat hij onmiddellijk na de schriftelijke aanvaarding zekerheid zal stellen voor de kosten van de deskundigen en de uiteindelijk door hem te betalen bedragen. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+5. Degene die het in het vierde lid bedoelde aanbod doet, moet daarbij een termijn voor schriftelijke aanvaarding stellen die niet korter mag zijn dan vier weken en verklaren dat hij onmiddellijk na de schriftelijke aanvaarding zekerheid zal stellen voor de kosten van de deskundigen en de uiteindelijk door hem te betalen bedragen. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
 
 6. Op verzoek van de aandeelhouder, die het aanbod heeft aanvaard, kan de rechter bepalen dat de in het vierde lid bedoelde bevoegdheid gedurende een daarbij te bepalen periode herleeft indien de aangeboden zekerheid niet binnen zes dagen wordt gesteld of onvoldoende is, zulks onverminderd de rechten van de aandeelhouder uit het door hem aanvaarde aanbod.
 
@@ -1643,7 +1649,7 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 ##### Artikel 252
 
-1. Indien de in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) bedoelde vordering tot uittreding aanhangig wordt gemaakt en de rechter deze gegrond oordeelt wijst hij deze voorlopig toe. Daarbij benoemt hij één of meer deskundigen die schriftelijk bericht moeten uitbrengen binnen een door de rechter te bepalen termijn. In hun schriftelijk bericht laten de deskundigen zich uit over de prijs van de aandelen op het tijdstip van de voorlopige toewijzing, uitgaande van de waarde van de vennootschap op dat tijdstip, de fiscale gevolgen van de overdracht voor de eiser, de vennootschap en de medeaandeelhouders en de bedrijfseconomische gevolgen van de overdracht voor de vennootschap. Hij kan bepalen dat de eiser zekerheid moet stellen voor de met het deskundigenrapport gemoeide kosten. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+1. Indien de in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) bedoelde vordering tot uittreding aanhangig wordt gemaakt en de rechter deze gegrond oordeelt wijst hij deze voorlopig toe. Daarbij benoemt hij één of meer deskundigen die schriftelijk bericht moeten uitbrengen binnen een door de rechter te bepalen termijn. In hun schriftelijk bericht laten de deskundigen zich uit over de prijs van de aandelen op het tijdstip van de voorlopige toewijzing, uitgaande van de waarde van de vennootschap op dat tijdstip, de fiscale gevolgen van de overdracht voor de eiser, de vennootschap en de medeaandeelhouders en de bedrijfseconomische gevolgen van de overdracht voor de vennootschap. Hij kan bepalen dat de eiser zekerheid moet stellen voor de met het deskundigenrapport gemoeide kosten. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
 
 2. Nadat de deskundigen hun bericht hebben uitgebracht bepaalt de rechter het door de vennootschap te betalen bedrag. Daarin is begrepen een eventueel door de eiser te lijden fiscaal nadeel. Indien de eiser op onredelijke gronden weigert zijn aandelen vrijwillig over te dragen aan een alsnog binnen acht dagen bij incidentele conclusie door de vennootschap of een medeaandeelhouder aan te wijzen gegadigde op daarbij aan te geven voorwaarden, kan de rechter de vordering alsnog afwijzen.
 
@@ -1655,31 +1661,31 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 6. De vordering tot uittreding kan slechts met instemming van de wederpartij worden ingetrokken. Uitsluitend tegen een beslissing als bedoeld in het derde lid, of tot afwijzing van de vordering is een hogere voorziening toegelaten. Een vordering tot oproeping in vrijwaring, voeging of tussenkomst wordt niet toegelaten, onverminderd het bepaalde in het tweede lid, laatste volzin.
 
-7. De vordering tot uittreding kan ook worden ingesteld tegen een of meer van de medeaandeelhouders die zich alleen of samen met de vennootschap of andere medeaandeelhouders schuldig hebben gemaakt aan gedragingen als in het [eerste lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) omschreven. De vennootschap wordt in elk geval mede in het geding geroepen. Het tweede tot en met het vijfde lid van artikel 251 zijn van toepassing. Het tweede tot en met het zesde lid van het onderhavige artikel vinden overeenkomstige toepassing.
+7. De vordering tot uittreding kan ook worden ingesteld tegen een of meer van de medeaandeelhouders die zich alleen of samen met de vennootschap of andere medeaandeelhouders schuldig hebben gemaakt aan gedragingen als in het [eerste lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) omschreven. De vennootschap wordt in elk geval mede in het geding geroepen. Het tweede tot en met het vijfde lid van artikel 251 zijn van toepassing. Het tweede tot en met het zesde lid van het onderhavige artikel vinden overeenkomstige toepassing.
 
 ##### Artikel 253
 
-1. Indien in de algemene vergadering door handelingen of gebeurtenissen die een houder van aandelen op naam redelijkerwijs niet heeft kunnen verhinderen een zodanige meerderheid is ontstaan dat een medeaandeelhouder, alleen of samen met een groepsmaatschappij van de medeaandeelhouder of krachtens een overeenkomst met andere stemgerechtigden, meer dan de helft van de bestuurders, leden van het algemeen bestuur in de zin van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2010-10-10&g=2010-10-10) of commissarissen kan benoemen of ontslaan, ook indien alle stemgerechtigden stemmen, kan die houder van aandelen op naam tegen de vennootschap een vordering tot uittreding als omschreven in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) instellen. De vordering kan ook worden ingesteld tegen de medeaandeelhouder, de groepsmaatschappij of de andere in dit lid bedoelde stemgerechtigden. De vennootschap wordt in elk geval mede in het geding geroepen.
+1. Indien in de algemene vergadering door handelingen of gebeurtenissen die een houder van aandelen op naam redelijkerwijs niet heeft kunnen verhinderen een zodanige meerderheid is ontstaan dat een medeaandeelhouder, alleen of samen met een groepsmaatschappij van de medeaandeelhouder of krachtens een overeenkomst met andere stemgerechtigden, meer dan de helft van de bestuurders, leden van het algemeen bestuur in de zin van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=18&z=2019-07-01&g=2019-07-01) of commissarissen kan benoemen of ontslaan, ook indien alle stemgerechtigden stemmen, kan die houder van aandelen op naam tegen de vennootschap een vordering tot uittreding als omschreven in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) instellen. De vordering kan ook worden ingesteld tegen de medeaandeelhouder, de groepsmaatschappij of de andere in dit lid bedoelde stemgerechtigden. De vennootschap wordt in elk geval mede in het geding geroepen.
 
-2. Op de vordering als bedoeld in het eerste lid zijn het [tweede tot en met het vijfde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) en het [tweede tot en met het zesde lid van artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. Op de vordering als bedoeld in het eerste lid zijn het [tweede tot en met het vijfde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) en het [tweede tot en met het zesde lid van artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing.
 
-3. Tenzij het [vierde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing heeft gevonden, vervalt de bevoegdheid tot het instellen van de vordering zes maanden na het einde van de dag waarop de aandeelhouder kennis heeft genomen van het ontstaan van een meerderheid als bedoeld in het eerste lid of daarvan is verwittigd.
+3. Tenzij het [vierde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) overeenkomstige toepassing heeft gevonden, vervalt de bevoegdheid tot het instellen van de vordering zes maanden na het einde van de dag waarop de aandeelhouder kennis heeft genomen van het ontstaan van een meerderheid als bedoeld in het eerste lid of daarvan is verwittigd.
 
 ##### Artikel 254
 
-1. De in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) bedoelde vordering tot uittreding komt ook toe aan:
+1. De in [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) bedoelde vordering tot uittreding komt ook toe aan:
 
 - a. de aandeelhouder die als zodanig niet of niet langer voldoet aan in de statuten gestelde kwaliteitseisen en dientengevolge een of meer van de aan zijn aandeel verbonden rechten niet kan uitoefenen.
 
-- b. de aandeelhouder die aan de vennootschap en zijn medeaandeelhouders op naam schriftelijk heeft medegedeeld dat hij zijn aandelen wil vervreemden tegen daarbij genoemde voorwaarden en dat voornemen niet ten uitvoer kan leggen door de werking van een statutaire blokkeringsregeling in de zin van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=111&z=2010-10-10&g=2010-10-10) of [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=211&z=2010-10-10&g=2010-10-10) die de overdracht uitsluit of uiterst bezwaarlijk maakt.
+- b. de aandeelhouder die aan de vennootschap en zijn medeaandeelhouders op naam schriftelijk heeft medegedeeld dat hij zijn aandelen wil vervreemden tegen daarbij genoemde voorwaarden en dat voornemen niet ten uitvoer kan leggen door de werking van een statutaire blokkeringsregeling in de zin van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=111&z=2019-07-01&g=2019-07-01) of [211](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=211&z=2019-07-01&g=2019-07-01) die de overdracht uitsluit of uiterst bezwaarlijk maakt.
 
-2. In de gevallen bedoeld in het eerste lid vindt het [zevende lid van artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2010-10-10&g=2010-10-10) geen toepassing.
+2. In de gevallen bedoeld in het eerste lid vindt het [zevende lid van artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2019-07-01&g=2019-07-01) geen toepassing.
 
-3. Tenzij het [vierde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing heeft gevonden, vervalt de bevoegdheid tot het instellen van de vordering zes maanden na het einde van de dag waarop de aandeelhouder is komen te verkeren in een situatie als bedoeld in het eerste lid onder a of de in het eerste lid onder b bedoelde schriftelijke mededeling door de vennootschap is ontvangen.
+3. Tenzij het [vierde lid van artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) overeenkomstige toepassing heeft gevonden, vervalt de bevoegdheid tot het instellen van de vordering zes maanden na het einde van de dag waarop de aandeelhouder is komen te verkeren in een situatie als bedoeld in het eerste lid onder a of de in het eerste lid onder b bedoelde schriftelijke mededeling door de vennootschap is ontvangen.
 
 ##### Artikel 255
 
-1. In iedere stand van een geding op de voet van [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2010-10-10&g=2010-10-10) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=253&z=2010-10-10&g=2010-10-10), kan de rechter op verzoek van een belanghebbende een door deze gevraagde voorziening als bedoeld in het derde lid treffen, indien het belang van de vennootschap of een andere in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde persoon dit eist. Alvorens te beslissen kan de rechter desverzocht of ambtshalve getuigen en deskundigen horen.
+1. In iedere stand van een geding op de voet van [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=252&z=2019-07-01&g=2019-07-01) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=253&z=2019-07-01&g=2019-07-01), kan de rechter op verzoek van een belanghebbende een door deze gevraagde voorziening als bedoeld in het derde lid treffen, indien het belang van de vennootschap of een andere in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01), bedoelde persoon dit eist. Alvorens te beslissen kan de rechter desverzocht of ambtshalve getuigen en deskundigen horen.
 
 2. De voorziening kan te allen tijde op verzoek van een belanghebbende worden ingetrokken, verlengd of gewijzigd. Zij vervalt op het door de rechter bepaalde tijdstip en in elk geval op het tijdstip dat de beslissing op de vordering in het hoofdgeding onherroepelijk is geworden.
 
@@ -1697,7 +1703,7 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 - f. tijdelijke overgang van aandelen ten titel van beheer;
 
-- g. een tot de rechtspersoon of andere persoon als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2010-10-10&g=2010-10-10), gericht bevel om bepaalde handelingen te verrichten of na te laten.
+- g. een tot de rechtspersoon of andere persoon als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=7&z=2019-07-01&g=2019-07-01), gericht bevel om bepaalde handelingen te verrichten of na te laten.
 
 4. Een voorziening kan door derden te goeder trouw verworven rechten niet aantasten. Dreigt aantasting dan wordt de betrokken derde als belanghebbende in het geding geroepen. De rechter kan, gehoord de derde, bepalen dat de voorziening toch tegen die derde werkt, ongeacht de mate waarin deze te goeder trouw is, mits daarbij aan de derde een redelijke door de vennootschap te betalen schadevergoeding wordt toegekend, zulks onverminderd het verhaal door de vennootschap van het betaalde bedrag op degene die de schade heeft veroorzaakt, indien en voor zover daartoe gronden zijn.
 
@@ -1709,7 +1715,7 @@ Hij die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zek
 
 ##### Artikel 256
 
-Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2010-10-10&g=2010-10-10) kan niet worden ingesteld ter zake van aandelen die worden verhandeld op een beurs.
+Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=7&artikel=251&z=2019-07-01&g=2019-07-01) kan niet worden ingesteld ter zake van aandelen die worden verhandeld op een beurs.
 
 ##### Artikel 257
 
@@ -1719,7 +1725,7 @@ Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](ht
 
 3. Bij aanvaarding van het aanbod wordt de koopprijs vastgesteld door een of meer door de rechter op verzoek van de meest gerede partij te benoemen deskundigen. Daarbij gaan de deskundigen uit van de waarde van de vennootschap op de dag van aanvaarding van het aanbod. Zij houden rekening met het eventueel door de aandeelhouder te lijden fiscaal nadeel. Over het aldus vastgestelde bedrag is wettelijke rente verschuldigd tot aan de dag van voldoening. De kosten van de deskundigen zijn voor rekening van degene die het aanbod heeft gedaan.
 
-4. Degene die het in het tweede lid bedoelde aanbod doet, moet daarbij een termijn voor schriftelijke aanvaarding stellen die niet korter mag zijn dan vier weken en verklaren dat hij onmiddellijk na de schriftelijke aanvaarding zekerheid zal stellen voor de kosten van de deskundigen en de uiteindelijk door hem te betalen bedragen. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+4. Degene die het in het tweede lid bedoelde aanbod doet, moet daarbij een termijn voor schriftelijke aanvaarding stellen die niet korter mag zijn dan vier weken en verklaren dat hij onmiddellijk na de schriftelijke aanvaarding zekerheid zal stellen voor de kosten van de deskundigen en de uiteindelijk door hem te betalen bedragen. [Artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
 
 5. Wordt het onherroepelijk aanbod niet gedaan binnen zes weken nadat de aandeelhouder de vennootschap schriftelijk heeft doen weten dat hij bereid is zijn aandelen over te dragen, dan is de aandeelhouder van al zijn verplichtingen uit de statutaire bepaling bevrijd. Hetzelfde geldt indien de in het vierde lid bedoelde, aangeboden zekerheid niet binnen zes dagen wordt gesteld of onvoldoende is, zulks onverminderd de rechten van de aandeelhouder uit het door hem aanvaarde aanbod.
 
@@ -1739,19 +1745,19 @@ Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](ht
 
 5. In de gevallen waarin rechterlijke machtiging is vereist doet het bestuur van de om te zetten rechtspersoon mededeling van het voornemen tot omzetting en van de plaats en het tijdstip van de behandeling van het machtigingsverzoek in de Staatscourant en door aankondiging in een in het openbaar lichaam Bonaire, Sint Eustatius of Saba verschijnend nieuwsblad.
 
-6. Slechts de rechtspersoon kan machtiging tot omzetting verzoeken. Daarbij moet worden overgelegd een bewijs dat aan de verplichtingen uit het vijfde lid is voldaan en een notarieel ontwerp van de akte. De machtiging wordt geweigerd indien een vereist besluit nietig is of indien een vordering tot vernietiging daarvan aanhangig is. Zij wordt voorts geweigerd indien de omzetting leidt tot ongerechtvaardigde bevoordeling of benadeling van een of meer personen, alsmede indien de belangen van stemgerechtigden die niet hebben ingestemd of van anderen, van wie ten minste iemand zich tot de rechter heeft gewend, onvoldoende zijn ontzien. De rechter kan voorwaarden aan het verlenen van de machtiging verbinden. Een voorwaarde kan zijn dat aan een of meer aandeelhouders schadevergoeding wordt betaald op de voet van [artikel 302, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=302&z=2010-10-10&g=2010-10-10).
+6. Slechts de rechtspersoon kan machtiging tot omzetting verzoeken. Daarbij moet worden overgelegd een bewijs dat aan de verplichtingen uit het vijfde lid is voldaan en een notarieel ontwerp van de akte. De machtiging wordt geweigerd indien een vereist besluit nietig is of indien een vordering tot vernietiging daarvan aanhangig is. Zij wordt voorts geweigerd indien de omzetting leidt tot ongerechtvaardigde bevoordeling of benadeling van een of meer personen, alsmede indien de belangen van stemgerechtigden die niet hebben ingestemd of van anderen, van wie ten minste iemand zich tot de rechter heeft gewend, onvoldoende zijn ontzien. De rechter kan voorwaarden aan het verlenen van de machtiging verbinden. Een voorwaarde kan zijn dat aan een of meer aandeelhouders schadevergoeding wordt betaald op de voet van [artikel 302, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=302&z=2019-07-01&g=2019-07-01).
 
 7. Indien voor de omzetting machtiging van de rechter is vereist, verklaart de notaris aan de voet van de akte van omzetting dat de machtiging op het ontwerp van de akte is verleend en, voor zover toepasselijk, dat aan de daarbij gestelde voorwaarden is voldaan.
 
 8. Bij omzetting van een stichting moet uit de akte van omzetting blijken welk vermogen de stichting heeft en hoe dit is samengesteld. Na de omzetting moet uit de statuten blijken dat het netto vermogen dat zij bij de omzetting had, niet door uitkeringen aan aandeelhouders of leden mag verminderen en niet door uitkeringen aan derden mag verminderen zonder toestemming van de rechter.
 
-9. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) wordt telkens naast «oprichting», «oprichtingshandeling», en «oprichtingsbalans» ook gelezen: omzetting, omzettingshandeling en omzettingsbalans.
+9. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) vindt overeenkomstige toepassing. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) wordt telkens naast «oprichting», «oprichtingshandeling», en «oprichtingsbalans» ook gelezen: omzetting, omzettingshandeling en omzettingsbalans.
 
 10. Omzetting beëindigt het bestaan van de rechtspersoon niet.
 
 ##### Artikel 301
 
-1. Bij omzetting van een rechtspersoon in een naamloze vennootschap of besloten vennootschap gelden, naast [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10), de volgende leden.
+1. Bij omzetting van een rechtspersoon in een naamloze vennootschap of besloten vennootschap gelden, naast [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01), de volgende leden.
 
 2. Door de omzetting worden van rechtswege aandeelhouder de leden of aandeelhouders in verhouding tot ieders recht. Wordt een stichting omgezet, dan worden krachtens in de akte van omzetting geregelde uitgifte aandeelhouder de in die akte genoemde personen. De akte van omzetting wordt in persoon of bij schriftelijke volmacht door die personen getekend.
 
@@ -1759,21 +1765,21 @@ Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](ht
 
 4. De omzettingsbalans heeft betrekking op een tijdstip dat ten hoogste een maand voor de dag van de akte ligt. Zij wordt getekend door alle bestuurders en commissarissen.
 
-5. Na de omzetting kunnen aandeelhouders, vruchtgebruikers en pandhouders de aan een aandeel verbonden rechten niet uitoefenen, zolang zij niet zijn ingeschreven in het in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2010-10-10&g=2010-10-10) of [209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2010-10-10&g=2010-10-10) bedoelde register. Voor zover aandeelbewijzen aan toonder zijn uitgegeven vindt geen inschrijving plaats dan tegen afgifte van die aandeelbewijzen aan de vennootschap, dit behoudens toepassing van het [vierde lid van artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=105&z=2010-10-10&g=2010-10-10).
+5. Na de omzetting kunnen aandeelhouders, vruchtgebruikers en pandhouders de aan een aandeel verbonden rechten niet uitoefenen, zolang zij niet zijn ingeschreven in het in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=109&z=2019-07-01&g=2019-07-01) of [209](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=6&afdeling=2&artikel=209&z=2019-07-01&g=2019-07-01) bedoelde register. Voor zover aandeelbewijzen aan toonder zijn uitgegeven vindt geen inschrijving plaats dan tegen afgifte van die aandeelbewijzen aan de vennootschap, dit behoudens toepassing van het [vierde lid van artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=2&artikel=105&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 302
 
-1. Wanneer een naamloze of besloten vennootschap zich omzet in een vereniging, coöperatie of onderlinge waarborgmaatschappij, wordt iedere aandeelhouder lid, tenzij hij de schadevergoeding heeft gevraagd, bedoeld in het tweede lid. In de oproeping tot de vergadering waarin tot omzetting en statutenwijziging wordt besloten en de publicaties bedoeld in [artikel 300, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10), wordt op deze mogelijkheid gewezen.
+1. Wanneer een naamloze of besloten vennootschap zich omzet in een vereniging, coöperatie of onderlinge waarborgmaatschappij, wordt iedere aandeelhouder lid, tenzij hij de schadevergoeding heeft gevraagd, bedoeld in het tweede lid. In de oproeping tot de vergadering waarin tot omzetting en statutenwijziging wordt besloten en de publicaties bedoeld in [artikel 300, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01), wordt op deze mogelijkheid gewezen.
 
-2. Binnen twee weken nadat het besluit tot omzetting en statutenwijziging is genomen kan iedere aandeelhouder die niet met het besluit heeft ingestemd, de vennootschap schriftelijk schadevergoeding vragen voor het verlies van zijn aandelen. Deze bevoegdheid komt niet toe aan de aandeelhouder die zich al op de voet van [artikel 300, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10), tot de rechter heeft gewend en daarbij om schadevergoeding heeft gevraagd, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
+2. Binnen twee weken nadat het besluit tot omzetting en statutenwijziging is genomen kan iedere aandeelhouder die niet met het besluit heeft ingestemd, de vennootschap schriftelijk schadevergoeding vragen voor het verlies van zijn aandelen. Deze bevoegdheid komt niet toe aan de aandeelhouder die zich al op de voet van [artikel 300, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01), tot de rechter heeft gewend en daarbij om schadevergoeding heeft gevraagd, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
 
-3. Bij gebreke van overeenstemming wordt de schadevergoeding bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de rechter die over de in [artikel 300, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10), bedoelde machtiging beslist. De kosten van de deskundigen zijn voor rekening van de vennootschap.
+3. Bij gebreke van overeenstemming wordt de schadevergoeding bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de rechter die over de in [artikel 300, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01), bedoelde machtiging beslist. De kosten van de deskundigen zijn voor rekening van de vennootschap.
 
 ##### Artikel 303
 
-1. In plaats van een rechtspersoon in de zin van dit boek kan bij de toepassing van [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10) en [302](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=302&z=2010-10-10&g=2010-10-10) als zich omzettende rechtspersoon ook optreden een buitenlandse rechtspersoon, mits het recht dat die buitenlandse rechtspersoon beheerst zich niet tegen een zodanige omzetting verzet. Een verklaring van die strekking, afgelegd door een op dit rechtsgebied deskundige, wordt aan de akte van omzetting gehecht.
+1. In plaats van een rechtspersoon in de zin van dit boek kan bij de toepassing van [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01) en [302](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=302&z=2019-07-01&g=2019-07-01) als zich omzettende rechtspersoon ook optreden een buitenlandse rechtspersoon, mits het recht dat die buitenlandse rechtspersoon beheerst zich niet tegen een zodanige omzetting verzet. Een verklaring van die strekking, afgelegd door een op dit rechtsgebied deskundige, wordt aan de akte van omzetting gehecht.
 
-2. Voor de toepassing van [artikel 300, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10), en voor het tijdstip van totstandkoming geldt dat de voor een zodanige omzetting geldende buitenlandse regels mede in aanmerking worden genomen. Rechterlijke machtiging is alleen vereist bij omzetting in een stichting.
+2. Voor de toepassing van [artikel 300, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01), en voor het tijdstip van totstandkoming geldt dat de voor een zodanige omzetting geldende buitenlandse regels mede in aanmerking worden genomen. Rechterlijke machtiging is alleen vereist bij omzetting in een stichting.
 
 ##### Artikel 304
 
@@ -1785,11 +1791,11 @@ Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](ht
 
 - b. en verklaring dat, zodra alle formaliteiten zijn vervuld, ook aan de voorwaarde van het eerste lid zal zijn voldaan, welke verklaring moet zijn afgegeven en getekend door de onder a. bedoelde persoon of instantie of een andere deskundige op het rechtsgebied van de buitenlandse rechtspersoon;
 
-- c. en verklaring afgegeven en getekend door alle bestuurders die ten tijde van het omzettingsbesluit met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10) omschreven taken waren belast en alle stemgerechtigde aandeelhouders, die niet tegen het voorstel tot omzetting hebben gestemd, waarin de ondertekenaars zich hoofdelijk aansprakelijk stellen voor alle schulden van de vennootschap die bestaan op het tijdstip dat de omzetting onaantastbaar is; behoudens het geval van kwade trouw vervalt deze aansprakelijkheid drie maanden na dat tijdstip en in elk geval een jaar na de aanvang van het voortgezette bestaan van de vennootschap in de gekozen buitenlandse rechtsvorm.
+- c. en verklaring afgegeven en getekend door alle bestuurders die ten tijde van het omzettingsbesluit met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=15&z=2019-07-01&g=2019-07-01) omschreven taken waren belast en alle stemgerechtigde aandeelhouders, die niet tegen het voorstel tot omzetting hebben gestemd, waarin de ondertekenaars zich hoofdelijk aansprakelijk stellen voor alle schulden van de vennootschap die bestaan op het tijdstip dat de omzetting onaantastbaar is; behoudens het geval van kwade trouw vervalt deze aansprakelijkheid drie maanden na dat tijdstip en in elk geval een jaar na de aanvang van het voortgezette bestaan van de vennootschap in de gekozen buitenlandse rechtsvorm.
 
 - •. De in het tweede lid bedoelde notariële akte kan een opschortende voorwaarde voor het van kracht worden van de omzetting bevatten.
 
-- •. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. Van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing het eerste lid, de laatste volzin van het tweede lid en het derde lid, zulks met dien verstande dat in het eerste lid de woorden «ingeschreven in het handelsregister» worden gelezen als «uitgeschreven uit het handelsregister» en dat mededeling van de omzetting door de zorg van de notaris ook wordt gedaan in een veel gelezen lokaal nieuwsblad. Bevat de akte van omzetting een opschortende voorwaarde als bedoeld in het derde lid van dit artikel dan behoeft aan het gestelde in de tweede en derde volzin van artikel 5, eerste lid, niet eerder dan zo spoedig mogelijk na het vervuld zijn van die voorwaarde te worden voldaan. Een opschortende voorwaarde waaraan niet voor of door de uitschrijving uit het handelsregister is voldaan, wordt geacht door die uitschrijving in vervulling te zijn gegaan.
+- •. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing. Van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing het eerste lid, de laatste volzin van het tweede lid en het derde lid, zulks met dien verstande dat in het eerste lid de woorden «ingeschreven in het handelsregister» worden gelezen als «uitgeschreven uit het handelsregister» en dat mededeling van de omzetting door de zorg van de notaris ook wordt gedaan in een veel gelezen lokaal nieuwsblad. Bevat de akte van omzetting een opschortende voorwaarde als bedoeld in het derde lid van dit artikel dan behoeft aan het gestelde in de tweede en derde volzin van artikel 5, eerste lid, niet eerder dan zo spoedig mogelijk na het vervuld zijn van die voorwaarde te worden voldaan. Een opschortende voorwaarde waaraan niet voor of door de uitschrijving uit het handelsregister is voldaan, wordt geacht door die uitschrijving in vervulling te zijn gegaan.
 
 - •. De omzetting is onaantastbaar zodra de in het vierde lid bedoelde uitschrijving uit het handelsregister heeft plaatsgevonden. Mocht nadien blijken dat aan de voorwaarde van het eerste lid niet is voldaan dan wordt de omzetting geacht niet te hebben plaatsgevonden.
 
@@ -1797,9 +1803,9 @@ Een vordering tot uittreding als bedoeld in de [artikelen 251 tot en met 254](ht
 
 1. Een stichting kan zich omzetten in een buitenlandse rechtspersoon met inachtneming van de volgende leden.
 
-- •. Het derde tot en met het zevende lid en de eerste volzin van het achtste lid van [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+- •. Het derde tot en met het zevende lid en de eerste volzin van het achtste lid van [artikel 300](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=300&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing.
 
-- •. Voor de omzetting is vereist een daartoe strekkend eenstemmig besluit van het bestuur dat is genomen met inachtneming van ten minste de vereisten voor een besluit tot statutenwijziging. [Artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=304&z=2010-10-10&g=2010-10-10) is voor het overige van overeenkomstige toepassing met dien verstande dat een verklaring als bedoeld in het tweede lid, onder c, moet zijn afgegeven en getekend door alle bestuurders.
+- •. Voor de omzetting is vereist een daartoe strekkend eenstemmig besluit van het bestuur dat is genomen met inachtneming van ten minste de vereisten voor een besluit tot statutenwijziging. [Artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=1&artikel=304&z=2019-07-01&g=2019-07-01) is voor het overige van overeenkomstige toepassing met dien verstande dat een verklaring als bedoeld in het tweede lid, onder c, moet zijn afgegeven en getekend door alle bestuurders.
 
 ### Afdeling 2. Algemene bepalingen omtrent fusie
 
@@ -1825,7 +1831,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 1. Met uitzondering van de verkrijgende rechtspersoon houden de fuserende rechtspersonen door het van kracht worden van de fusie op te bestaan.
 
-2. De leden of aandeelhouders van de verdwijnende rechtspersonen worden door de fusie lid of aandeelhouder van de verkrijgende rechtspersoon, uitgezonderd in de gevallen van de [artikelen 310, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2010-10-10&g=2010-10-10), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=333&z=2010-10-10&g=2010-10-10) of [334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=334&z=2010-10-10&g=2010-10-10), of wanneer krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel.
+2. De leden of aandeelhouders van de verdwijnende rechtspersonen worden door de fusie lid of aandeelhouder van de verkrijgende rechtspersoon, uitgezonderd in de gevallen van de [artikelen 310, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2019-07-01&g=2019-07-01), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=333&z=2019-07-01&g=2019-07-01) of [334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=334&z=2019-07-01&g=2019-07-01), of wanneer krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel.
 
 ##### Artikel 312
 
@@ -1837,7 +1843,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 - b. de statuten van de verkrijgende rechtspersoon zoals die luiden en zoals zij na de fusie zullen luiden of, indien de verkrijgende rechtspersoon nieuw wordt opgericht, het ontwerp van de akte van oprichting;
 
-- c. welke rechten of vergoedingen ingevolge [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2010-10-10&g=2010-10-10) ten laste van de verkrijgende rechtspersoon worden toegekend aan degenen die anders dan als lid of aandeelhouder bijzondere rechten hebben jegens de verdwijnende rechtspersonen, zoals rechten op een uitkering van winst of tot het nemen van aandelen, en met ingang van welk tijdstip;
+- c. welke rechten of vergoedingen ingevolge [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2019-07-01&g=2019-07-01) ten laste van de verkrijgende rechtspersoon worden toegekend aan degenen die anders dan als lid of aandeelhouder bijzondere rechten hebben jegens de verdwijnende rechtspersonen, zoals rechten op een uitkering van winst of tot het nemen van aandelen, en met ingang van welk tijdstip;
 
 - d. welke voordelen in verband met de fusie worden toegekend aan een bestuur der of commissaris van een te fuseren rechtspersoon of aan een ander die bij de fusie is betrokken;
 
@@ -1853,7 +1859,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 3. Het voorstel tot fusie wordt ondertekend door de bestuurders van elke te fuseren rechtspersoon; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
-4. Indien een fuserende rechtspersoon een naamloze vennootschap is waarvan de statuten een bepaling bevatten als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2010-10-10&g=2010-10-10), moet het voorstel tot fusie zijn goedgekeurd door de raad van commissarissen van die vennootschap en wordt het door de commissarissen mede ondertekend; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt.
+4. Indien een fuserende rechtspersoon een naamloze vennootschap is waarvan de statuten een bepaling bevatten als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2019-07-01&g=2019-07-01), moet het voorstel tot fusie zijn goedgekeurd door de raad van commissarissen van die vennootschap en wordt het door de commissarissen mede ondertekend; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt.
 
 ##### Artikel 313
 
@@ -1861,7 +1867,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 2. Indien het laatste boekjaar van de rechtspersoon, waarover een jaarrekening of andere financiële verantwoording is vastgesteld, meer dan zes maanden voor de nederlegging van het voorstel tot fusie is verstreken, maakt het bestuur een jaarrekening of tussentijdse vermogensopstelling op. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin zij wordt neergelegd. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde jaarrekening of andere financiële verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de actuele waarde belangrijk afwijkt van de boekwaarde.
 
-3. In de gevallen van de [artikelen 310, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2010-10-10&g=2010-10-10), en [333](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=333&z=2010-10-10&g=2010-10-10) is geen toelichting vereist voor de verdwijnende rechtspersoon, tenzij anderen dan de verkrijgende rechtspersoon een bijzonder recht jegens de verdwijnende rechtspersoon hebben, zoals een recht op uitkering van winst of tot het nemen van aandelen.
+3. In de gevallen van de [artikelen 310, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2019-07-01&g=2019-07-01), en [333](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=333&z=2019-07-01&g=2019-07-01) is geen toelichting vereist voor de verdwijnende rechtspersoon, tenzij anderen dan de verkrijgende rechtspersoon een bijzonder recht jegens de verdwijnende rechtspersoon hebben, zoals een recht op uitkering van winst of tot het nemen van aandelen.
 
 ##### Artikel 314
 
@@ -1873,11 +1879,11 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 - c. de jaarverslagen van de te fuseren rechtspersonen over de laatste drie afgesloten jaren, voor zover deze ter inzage liggen of moeten liggen;
 
-- d. tussentijdse vermogensopstellingen of niet goedgekeurde jaarrekeningen, voor zover vereist ingevolge [artikel 313, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=313&z=2010-10-10&g=2010-10-10), en voor zover de jaar rekening van de rechtspersoon ter inzage moet liggen.
+- d. tussentijdse vermogensopstellingen of niet goedgekeurde jaarrekeningen, voor zover vereist ingevolge [artikel 313, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=313&z=2019-07-01&g=2019-07-01), en voor zover de jaar rekening van de rechtspersoon ter inzage moet liggen.
 
 2. Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage behoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder. De stukken liggen tot het tijdstip van de fusie, en op het adres van de verkrijgende rechtspersoon onderscheidenlijk van een bestuurder daarvan nog zes maanden nadien, ter inzage voor de leden of aandeelhouders, en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst, tot het nemen van aandelen of tot het bijwonen van vergaderingen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan krijgen.
 
-3. De te fuseren rechtspersonen kondigen in de Staatscourant en in een in het openbaar lichaam Bonaire, Sint Eustatius of Saba verschijnend nieuwsblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens het tweede lid ter inzage liggen. Indien het besluit tot fusie moet worden goedgekeurd op de voet van [artikel 317, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2010-10-10&g=2010-10-10), wordt mededeling gedaan van de plaats en het tijdstip van de behandeling van het goedkeuringsverzoek.
+3. De te fuseren rechtspersonen kondigen in de Staatscourant en in een in het openbaar lichaam Bonaire, Sint Eustatius of Saba verschijnend nieuwsblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens het tweede lid ter inzage liggen. Indien het besluit tot fusie moet worden goedgekeurd op de voet van [artikel 317, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2019-07-01&g=2019-07-01), wordt mededeling gedaan van de plaats en het tijdstip van de behandeling van het goedkeuringsverzoek.
 
 4. Indien de besturen van de te fuseren rechtspersonen het voorstel tot fusie wijzigen, zijn het eerste tot en met het derde lid van overeenkomstige toepassing.
 
@@ -1891,11 +1897,11 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 ##### Artikel 316
 
-1. Tot een maand nadat alle fuserende rechtspersonen de in het [derde lid van artikel 314](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=314&z=2010-10-10&g=2010-10-10) bedoelde aankondiging hebben gedaan kan iedere schuldeiser of contractuele wederpartij van een van de fuserende vennootschappen, alsmede iedere bijzonder rechthebbende in de zin van [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2010-10-10&g=2010-10-10), door een verzoekschrift bij de rechter in eerste aanleg van de statutaire zetel van een verdwijnende of verkrijgende vennootschap, tegen de aangekondigde fusie in verzet komen op de grond dat hij in zijn positie als crediteur, contractuele wederpartij of bijzonder rechthebbende wordt geschaad. Het verzoekschrift vermeldt welke zekerheid, waarborg, contractswijziging, ontbinding of schadevergoeding wordt verlangd.
+1. Tot een maand nadat alle fuserende rechtspersonen de in het [derde lid van artikel 314](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=314&z=2019-07-01&g=2019-07-01) bedoelde aankondiging hebben gedaan kan iedere schuldeiser of contractuele wederpartij van een van de fuserende vennootschappen, alsmede iedere bijzonder rechthebbende in de zin van [artikel 320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2019-07-01&g=2019-07-01), door een verzoekschrift bij de rechter in eerste aanleg van de statutaire zetel van een verdwijnende of verkrijgende vennootschap, tegen de aangekondigde fusie in verzet komen op de grond dat hij in zijn positie als crediteur, contractuele wederpartij of bijzonder rechthebbende wordt geschaad. Het verzoekschrift vermeldt welke zekerheid, waarborg, contractswijziging, ontbinding of schadevergoeding wordt verlangd.
 
 2. Indien de rechter het verzet gegrond oordeelt bepaalt hij de door de verkrijgende vennootschap of een derde te stellen zekerheid of waarborg of te betalen schadevergoeding, dan wel de contractswijziging of -ontbinding die zal gelden wanneer de fusie tot stand komt. Aan een contractswijziging of -ontbinding kan hij een per de datum van de fusie ingaande, op de verkrijgende vennootschap rustende verplichting tot schadevergoeding verbinden.
 
-3. De in [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10) bedoelde akte van fusie mag niet worden verleden voordat het verzet is ingetrokken, de beslissing waarbij het verzet ongegrond is verklaard uitvoerbaar is of, bij gegrondverklaring, de vastgestelde waarborg of zekerheid is gesteld.
+3. De in [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01) bedoelde akte van fusie mag niet worden verleden voordat het verzet is ingetrokken, de beslissing waarbij het verzet ongegrond is verklaard uitvoerbaar is of, bij gegrondverklaring, de vastgestelde waarborg of zekerheid is gesteld.
 
 4. Indien de akte van fusie al is verleden, kan de rechter op een ingesteld rechtsmiddel het stellen van een door hem omschreven waarborg bevelen en daaraan een dwangsom verbinden.
 
@@ -1913,11 +1919,11 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 ##### Artikel 318
 
-1. De fusie geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na het in het [derde lid van artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2010-10-10&g=2010-10-10) bedoelde tijdstip.
+1. De fusie geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na het in het [derde lid van artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2019-07-01&g=2019-07-01) bedoelde tijdstip.
 
 2. Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het totstandkomen van de fusie vereisen en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing met dien verstande dat de vereiste stukken worden aangeboden ten kantore van het handelsregister van de verkrijgende en van elke gefuseerde rechtspersoon. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) wordt telkens naast «oprichting», «oprichtingshandeling» en «oprichtingsbalans» ook gelezen: fusie, fusiehandeling en fusiebalans.
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing met dien verstande dat de vereiste stukken worden aangeboden ten kantore van het handelsregister van de verkrijgende en van elke gefuseerde rechtspersoon. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) wordt telkens naast «oprichting», «oprichtingshandeling» en «oprichtingsbalans» ook gelezen: fusie, fusiehandeling en fusiebalans.
 
 4. De verkrijgende rechtspersoon doet binnen een maand opgave van de fusie aan de beheerders van andere openbare registers waarin overgang van rechten of de fusie kan worden ingeschreven. Gaat door de fusie een registergoed op de verkrijgende rechtspersoon over, dan is deze verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [titel 1, afdeling 2 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2), de voor de inschrijving van de fusie vereiste stukken aan te bieden.
 
@@ -1929,11 +1935,11 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 ##### Artikel 320
 
-1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens een verdwijnende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet een gelijkwaardig recht in de verkrijgende rechtspersoon krijgen, of schadevergoeding. Schadevergoeding kan niet worden gevorderd door iemand die reeds op de voet van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2010-10-10&g=2010-10-10) schadevergoeding heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
+1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens een verdwijnende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet een gelijkwaardig recht in de verkrijgende rechtspersoon krijgen, of schadevergoeding. Schadevergoeding kan niet worden gevorderd door iemand die reeds op de voet van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2019-07-01&g=2019-07-01) schadevergoeding heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
 
 2. De schadevergoeding wordt bij gebreke van overeenstemming bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de rechter in eerste aanleg van de statutaire zetel van de verkrijgende rechtspersoon.
 
-3. [Artikel 319](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=319&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.
+3. [Artikel 319](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=319&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.
 
 ##### Artikel 321
 
@@ -1947,7 +1953,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 1. Indien ten gevolge van de fusie een overeenkomst van een fuserende rechtspersoon naar maatstaven van redelijkheid en billijkheid niet ongewijzigd in stand behoort te blijven, wijzigt of ontbindt de rechter de overeenkomst op vordering van een der partijen. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
 
-2. De bevoegdheid tot het instellen van de vordering vervalt door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10), bedoelde registers. De vordering kan niet worden ingesteld door iemand die reeds op de voet van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2010-10-10&g=2010-10-10) wijziging of ontbinding van de overeenkomst heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
+2. De bevoegdheid tot het instellen van de vordering vervalt door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01), bedoelde registers. De vordering kan niet worden ingesteld door iemand die reeds op de voet van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2019-07-01&g=2019-07-01) wijziging of ontbinding van de overeenkomst heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
 
 3. Indien uit de wijziging of ontbinding van de overeenkomst schade ontstaat voor de wederpartij, is de rechtspersoon gehouden tot vergoeding daarvan.
 
@@ -1957,15 +1963,15 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 - a. indien de door een notaris ondertekende akte van fusie geen authentiek geschrift is;
 
-- b. wegens het niet naleven van [artikel 310, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2010-10-10&g=2010-10-10), [artikel 316, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2010-10-10&g=2010-10-10), of [318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10);
+- b. wegens het niet naleven van [artikel 310, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2019-07-01&g=2019-07-01), [artikel 316, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2019-07-01&g=2019-07-01), of [318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01);
 
 - c. wegens nietigheid, het niet van kracht zijn of een grond tot vernietiging van een voor de fusie vereist besluit van de algemene vergadering of, in een stichting, van het bestuur;
 
-- d. wegens het niet naleven van [artikel 317, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2010-10-10&g=2010-10-10).
+- d. wegens het niet naleven van [artikel 317, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2019-07-01&g=2019-07-01).
 
 2. Vernietiging geschiedt op vordering tegen de verkrijgende rechtspersoon van een lid, aandeelhouder, bestuurder of andere belanghebbende. Een niet door de rechter vernietigde fusie is geldig.
 
-3. De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10), bedoelde registers.
+3. De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01), bedoelde registers.
 
 4. De fusie wordt niet vernietigd:
 
@@ -1975,7 +1981,7 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 5. Heeft de eiser tot vernietiging van de fusie schade geleden door een verzuim dat tot vernietiging had kunnen leiden, en vernietigt de rechter de fusie niet, dan kan de rechter de rechtspersoon veroordelen tot vergoeding van de schade. De rechtspersoon heeft daarvoor verhaal op de schuldigen aan het verzuim en, tot ten hoogste het genoten voordeel, op degenen die door het verzuim zijn bevoordeeld.
 
-6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in de registers waarin de fusie ingevolge [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10), moet zijn ingeschreven.
+6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in de registers waarin de fusie ingevolge [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01), moet zijn ingeschreven.
 
 7. De rechtspersonen zijn hoofdelijk aansprakelijk voor verbintenissen die, ten laste van de rechtspersoon waarin zij gefuseerd zijn geweest, zijn ontstaan na de fusie en voordat de vernietiging in de registers is ingeschreven.
 
@@ -1983,13 +1989,13 @@ Fusie is de rechtshandeling van twee of meer rechtspersonen waarbij een van deze
 
 ##### Artikel 323a
 
-1. Als verdwijnende rechtspersoon kan bij de toepassing van de [artikelen 309 tot en met 334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=309&z=2010-10-10&g=2010-10-10) ook optreden een buitenlandse rechtspersoon met een vergelijkbare rechtsvorm, mits het recht dat die buitenlandse rechtspersoon beheerst zich niet tegen de fusie en de wijze waarop deze tot stand komt verzet. Een verklaring met die strekking, afgelegd door een op dat rechtsgebied deskundige, wordt aan de akte van fusie gehecht.
+1. Als verdwijnende rechtspersoon kan bij de toepassing van de [artikelen 309 tot en met 334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=309&z=2019-07-01&g=2019-07-01) ook optreden een buitenlandse rechtspersoon met een vergelijkbare rechtsvorm, mits het recht dat die buitenlandse rechtspersoon beheerst zich niet tegen de fusie en de wijze waarop deze tot stand komt verzet. Een verklaring met die strekking, afgelegd door een op dat rechtsgebied deskundige, wordt aan de akte van fusie gehecht.
 
-2. [Artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=323&z=2010-10-10&g=2010-10-10) is van toepassing met dien verstande dat als vernietigingsgrond ook geldt dat het recht dat de buitenlandse rechtspersoon beheerst zich tegen een fusie als voltrokken verzet.
+2. [Artikel 323](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=323&z=2019-07-01&g=2019-07-01) is van toepassing met dien verstande dat als vernietigingsgrond ook geldt dat het recht dat de buitenlandse rechtspersoon beheerst zich tegen een fusie als voltrokken verzet.
 
-3. De [artikelen 310 tot en met 334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2010-10-10&g=2010-10-10) vinden uitsluitend toepassing ten aanzien van de verkrijgende rechtspersoon. Met betrekking tot de verdwijnende rechtspersoon worden de voor een zodanige fusie geldende regels zoveel mogelijk in acht genomen.
+3. De [artikelen 310 tot en met 334](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=310&z=2019-07-01&g=2019-07-01) vinden uitsluitend toepassing ten aanzien van de verkrijgende rechtspersoon. Met betrekking tot de verdwijnende rechtspersoon worden de voor een zodanige fusie geldende regels zoveel mogelijk in acht genomen.
 
-4. De in [artikel 318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10), bedoelde verklaring hoeft geen betrekking te hebben op de toepasselijke wettelijke en statutaire voorschriften.
+4. De in [artikel 318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01), bedoelde verklaring hoeft geen betrekking te hebben op de toepasselijke wettelijke en statutaire voorschriften.
 
 ### Afdeling 3. Bijzondere bepalingen voor fusies van naamloze en besloten vennootschappen
 
@@ -2009,17 +2015,17 @@ Deze afdeling is van toepassing, indien een naamloze of besloten vennootschap fu
 
 ##### Artikel 326
 
-1. Het voorstel tot fusie bevat naast de in [artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2010-10-10&g=2010-10-10) genoemde gegevens:
+1. Het voorstel tot fusie bevat naast de in [artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2019-07-01&g=2019-07-01) genoemde gegevens:
 
 - a. de ruilverhouding van de aandelen en eventueel de omvang van de betalingen krachtens de ruilverhouding;
 
 - b. met ingang van welk tijdstip en in welke mate de aandeelhouders van de verdwijnende vennootschappen zullen delen in de winst van de verkrijgende vennootschap;
 
-- c. hoeveel aandelen eventueel zullen worden ingetrokken met toepassing van [artikel 325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=325&z=2010-10-10&g=2010-10-10);
+- c. hoeveel aandelen eventueel zullen worden ingetrokken met toepassing van [artikel 325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=325&z=2019-07-01&g=2019-07-01);
 
 - d. een fusiebalans van de verkrijgende vennootschap.
 
-2. De fusiebalans van de verkrijgende vennootschap toont een eigen vermogen dat niet negatief is of, indien de verkrijgende vennootschap een nominaal kapitaal heeft, niet lager is dan dat nominaal kapitaal. Zij heeft betrekking op het vermoedelijke tijdstip van de fusie. Gegevens daarvoor mogen worden ontleend aan de in [artikel 313, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=313&z=2010-10-10&g=2010-10-10), bedoelde jaarrekeningen of vermogensopstellingen. Afwijkingen daarvan worden toegelicht.
+2. De fusiebalans van de verkrijgende vennootschap toont een eigen vermogen dat niet negatief is of, indien de verkrijgende vennootschap een nominaal kapitaal heeft, niet lager is dan dat nominaal kapitaal. Zij heeft betrekking op het vermoedelijke tijdstip van de fusie. Gegevens daarvoor mogen worden ontleend aan de in [artikel 313, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=313&z=2019-07-01&g=2019-07-01), bedoelde jaarrekeningen of vermogensopstellingen. Afwijkingen daarvan worden toegelicht.
 
 ##### Artikel 327
 
@@ -2037,13 +2043,13 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 ##### Artikel 328
 
-1. Een door het bestuur aangewezen externe deskundige als bedoeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10) moet het voorstel tot fusie onderzoeken en moet verklaren of de voorgestelde ruilverhouding van de aandelen, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is. Hij moet tevens een verslag opstellen, waarin hij zijn oordeel geeft over de fusiebalans van de verkrijgende vennootschap en de mededelingen, bedoeld in [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=327&z=2010-10-10&g=2010-10-10).
+1. Een door het bestuur aangewezen externe deskundige als bedoeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01) moet het voorstel tot fusie onderzoeken en moet verklaren of de voorgestelde ruilverhouding van de aandelen, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is. Hij moet tevens een verslag opstellen, waarin hij zijn oordeel geeft over de fusiebalans van de verkrijgende vennootschap en de mededelingen, bedoeld in [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=327&z=2019-07-01&g=2019-07-01).
 
 2. Indien een van de fuserende vennootschappen een naamloze vennootschap is, wordt bij deze slechts dezelfde persoon als bij een andere fuserende rechtspersoon als deskundige aangewezen, indien de algemene vergadering het besluit daartoe heeft goedgekeurd.
 
 3. De deskundigen zijn bij alle fuserende vennootschappen gelijkelijk tot onderzoek bevoegd.
 
-4. Op de verklaring van de deskundige is [artikel 314](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=314&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing en op zijn verslag het tweede en derde lid van artikel 314.
+4. Op de verklaring van de deskundige is [artikel 314](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=314&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing en op zijn verslag het tweede en derde lid van artikel 314.
 
 ##### Artikel 331
 
@@ -2051,15 +2057,15 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 2. Dit besluit kan slechts worden genomen, indien de vennootschap het voornemen hiertoe heeft vermeld in de aankondiging dat het voorstel tot fusie is neergelegd.
 
-3. Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een tiende van het eigen vermogen vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de fusie te besluiten. [Artikel 317](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2010-10-10&g=2010-10-10) is dan van toepassing.
+3. Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een tiende van het eigen vermogen vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de fusie te besluiten. [Artikel 317](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2019-07-01&g=2019-07-01) is dan van toepassing.
 
 ##### Artikel 333
 
-1. Indien de verkrijgende vennootschap fuseert met een vennootschap waarvan zij alle aandelen houdt of met een vereniging, coöperatie of onderlinge waarborgmaatschappij waarvan zij het enige lid is, zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2010-10-10&g=2010-10-10) niet van toepassing.
+1. Indien de verkrijgende vennootschap fuseert met een vennootschap waarvan zij alle aandelen houdt of met een vereniging, coöperatie of onderlinge waarborgmaatschappij waarvan zij het enige lid is, zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
-2. Indien iemand, of een ander voor zijn rekening, alle aandelen houdt van de te fuseren vennootschappen en de verkrijgende vennootschap geen aandelen toekent ingevolge de akte van fusie, zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2010-10-10&g=2010-10-10) niet van toepassing.
+2. Indien iemand, of een ander voor zijn rekening, alle aandelen houdt van de te fuseren vennootschappen en de verkrijgende vennootschap geen aandelen toekent ingevolge de akte van fusie, zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
-3. Indien alle stemgerechtigde personen hebben gestemd voor alle voor de fusie vereiste besluiten zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2010-10-10&g=2010-10-10) niet van toepassing.
+3. Indien alle stemgerechtigde personen hebben gestemd voor alle voor de fusie vereiste besluiten zijn de [artikelen 326 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
 4. Indien een verkrijgende vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting fuseert met een naamloze of besloten vennootschap waarvan zij alle aandelen houdt, zijn de bepalingen van deze afdeling niet van toepassing.
 
@@ -2067,9 +2073,9 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 1. De akte van fusie kan bepalen dat de aandeelhouders van de verdwijnende vennootschappen aandeelhouder worden van een groepsmaatschappij van de verkrijgende vennootschap. Zij worden dan geen aandeelhouder van de verkrijgende vennootschap.
 
-2. Zulk een fusie is slechts mogelijk, indien de groepsmaatschappij alleen of samen met een andere groepsmaatschappij alle aandelen van de verkrijgende vennootschap houdt. De [artikelen 317, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2010-10-10&g=2010-10-10), en [331](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=331&z=2010-10-10&g=2010-10-10) zijn op het besluit van de groepsmaatschappij van overeenkomstige toepassing.
+2. Zulk een fusie is slechts mogelijk, indien de groepsmaatschappij alleen of samen met een andere groepsmaatschappij alle aandelen van de verkrijgende vennootschap houdt. De [artikelen 317, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2019-07-01&g=2019-07-01), en [331](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=331&z=2019-07-01&g=2019-07-01) zijn op het besluit van de groepsmaatschappij van overeenkomstige toepassing.
 
-3. De groepsmaatschappij die de aandelen toekent geldt naast de verkrijgende vennootschap als fuserende rechtspersoon. Op haar rusten de verplichtingen die ingevolge de [artikelen 312 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2010-10-10&g=2010-10-10) op een verkrijgende vennootschap rusten, met uitzondering van de verplichtingen uit de [artikelen 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2010-10-10&g=2010-10-10), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2010-10-10&g=2010-10-10), [318, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2010-10-10&g=2010-10-10), [321, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=321&z=2010-10-10&g=2010-10-10), en [323, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=323&z=2010-10-10&g=2010-10-10); voor de toepassing van [artikel 328, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=328&z=2010-10-10&g=2010-10-10), blijft zij buiten beschouwing. De [artikelen 312, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2010-10-10&g=2010-10-10), [320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2010-10-10&g=2010-10-10), [325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=325&z=2010-10-10&g=2010-10-10), en [326, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2010-10-10&g=2010-10-10), gelden alsdan niet voor de verkrijgende vennootschap.
+3. De groepsmaatschappij die de aandelen toekent geldt naast de verkrijgende vennootschap als fuserende rechtspersoon. Op haar rusten de verplichtingen die ingevolge de [artikelen 312 tot en met 328](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2019-07-01&g=2019-07-01) op een verkrijgende vennootschap rusten, met uitzondering van de verplichtingen uit de [artikelen 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=316&z=2019-07-01&g=2019-07-01), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=317&z=2019-07-01&g=2019-07-01), [318, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=318&z=2019-07-01&g=2019-07-01), [321, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=321&z=2019-07-01&g=2019-07-01), en [323, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=323&z=2019-07-01&g=2019-07-01); voor de toepassing van [artikel 328, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=328&z=2019-07-01&g=2019-07-01), blijft zij buiten beschouwing. De [artikelen 312, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=312&z=2019-07-01&g=2019-07-01), [320](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=2&artikel=320&z=2019-07-01&g=2019-07-01), [325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=325&z=2019-07-01&g=2019-07-01), en [326, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=3&artikel=326&z=2019-07-01&g=2019-07-01), gelden alsdan niet voor de verkrijgende vennootschap.
 
 ### Afdeling 4. Algemene bepalingen omtrent splitsingen
 
@@ -2079,7 +2085,7 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 2. Zuivere splitsing is de rechtshandeling waarbij het vermogen van een rechtspersoon die bij de splitsing ophoudt te bestaan onder algemene titel overeenkomstig de aan de akte van splitsing gehechte beschrijving wordt verkregen door twee of meer andere rechtspersonen.
 
-3. Afsplitsing is de rechtshandeling waarbij het vermogen of een deel daarvan van een rechtspersoon die bij de splitsing niet ophoudt te bestaan onder algemene titel overeenkomstig de aan de akte van splitsing gehechte beschrijving wordt verkregen door een of meer andere rechtspersonen waarvan ten minste één overeenkomstig het bepaalde in deze afdeling of [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&z=2010-10-10&g=2010-10-10) lidmaatschapsrechten of aandelen toekent aan de leden of aan aandeelhouders van de splitsende rechtspersoon of waarvan ten minste één bij de splitsing door de splitsende rechtspersoon wordt opgericht.
+3. Afsplitsing is de rechtshandeling waarbij het vermogen of een deel daarvan van een rechtspersoon die bij de splitsing niet ophoudt te bestaan onder algemene titel overeenkomstig de aan de akte van splitsing gehechte beschrijving wordt verkregen door een of meer andere rechtspersonen waarvan ten minste één overeenkomstig het bepaalde in deze afdeling of [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&z=2019-07-01&g=2019-07-01) lidmaatschapsrechten of aandelen toekent aan de leden of aan aandeelhouders van de splitsende rechtspersoon of waarvan ten minste één bij de splitsing door de splitsende rechtspersoon wordt opgericht.
 
 4. Partij bij de splitsing is de splitsende rechtspersoon, alsmede elke verkrijgende rechtspersoon, met uitzondering van rechtspersonen die bij de splitsing worden opgericht.
 
@@ -2097,7 +2103,7 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 6. Een rechtspersoon mag niet partij zijn bij een splitsing gedurende faillissement of surséance van betaling.
 
-7. Een splitsende rechtspersoon mag in faillissement of surséance van betaling zijn, mits alle verkrijgende rechtspersonen bij de splitsing opgerichte naamloze of besloten vennootschappen zijn en de splitsende rechtspersoon daarvan bij de splitsing enig aandeelhouder wordt. Indien de splitsende rechtspersoon in faillissement is, kan de curator tot splitsing besluiten en rusten de verplichtingen die ingevolge deze en de volgende afdeling op het bestuur rusten, op de curator; indien de rechtspersoon in surséance van betaling is, behoeft het besluit tot splitsing de goedkeuring van de bewindvoerder. [Artikel 338, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=338&z=2010-10-10&g=2010-10-10), [artikel 340, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10), voor zover het betreft de waarde van het deel van het vermogen dat de splitsende rechtspersoon zal behouden, [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2010-10-10&g=2010-10-10), [artikel 343, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=343&z=2010-10-10&g=2010-10-10), en [artikel 361, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=361&z=2010-10-10&g=2010-10-10), gelden niet in faillissement; artikel 338, tweede lid, geldt niet in surséance.
+7. Een splitsende rechtspersoon mag in faillissement of surséance van betaling zijn, mits alle verkrijgende rechtspersonen bij de splitsing opgerichte naamloze of besloten vennootschappen zijn en de splitsende rechtspersoon daarvan bij de splitsing enig aandeelhouder wordt. Indien de splitsende rechtspersoon in faillissement is, kan de curator tot splitsing besluiten en rusten de verplichtingen die ingevolge deze en de volgende afdeling op het bestuur rusten, op de curator; indien de rechtspersoon in surséance van betaling is, behoeft het besluit tot splitsing de goedkeuring van de bewindvoerder. [Artikel 338, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=338&z=2019-07-01&g=2019-07-01), [artikel 340, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01), voor zover het betreft de waarde van het deel van het vermogen dat de splitsende rechtspersoon zal behouden, [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2019-07-01&g=2019-07-01), [artikel 343, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=343&z=2019-07-01&g=2019-07-01), en [artikel 361, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=361&z=2019-07-01&g=2019-07-01), gelden niet in faillissement; artikel 338, tweede lid, geldt niet in surséance.
 
 ##### Artikel 337
 
@@ -2121,7 +2127,7 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 - a. alle aandelen in de verkrijgende vennootschappen direct of indirect worden gehouden door of voor rekening van de splitsende vennootschap en de splitsende vennootschap niet ophoudt te bestaan;
 
-- b. ten aanzien van verkrijgende vennootschappen [artikel 360](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=360&z=2010-10-10&g=2010-10-10) of [artikel 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=363&z=2010-10-10&g=2010-10-10) wordt toegepast;
+- b. ten aanzien van verkrijgende vennootschappen [artikel 360](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=360&z=2019-07-01&g=2019-07-01) of [artikel 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=363&z=2019-07-01&g=2019-07-01) wordt toegepast;
 
 - c. krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel.
 
@@ -2139,9 +2145,9 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 - d. een beschrijving aan de hand waarvan nauwkeurig kan worden bepaald welke vermogensbestanddelen van de splitsende rechtspersoon zullen overgaan op elk van de verkrijgende rechtspersonen en, indien niet het gehele vermogen van de splitsende rechtspersoon zal overgaan, welke vermogensbestanddelen door hem zullen worden behouden, alsmede een pro forma winst- en verliesrekening dan wel exploitatierekening van de verkrijgende rechtspersonen en de voortbestaande splitsende rechtspersoon;
 
-- e. de waarde, bepaald naar de dag waarop de in [artikel 341, tweede, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2010-10-10&g=2010-10-10) bedoelde jaarrekening of tussentijdse vermogensopstelling van de splitsende rechtspersoon betrekking heeft en berekend met inachtneming van de derde volzin van die bepaling,van het deel van het vermogen dat elke verkrijgende rechtspersoon zal verkrijgen en van het deel dat de voortbestaande splitsende rechtspersoon zal behouden, alsmede de waarde van aandelen in het kapitaal van verkrijgende rechtspersonen en die de voorbestaande splitsende rechtspersoon bij de splitsing zal verkrijgen;
+- e. de waarde, bepaald naar de dag waarop de in [artikel 341, tweede, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2019-07-01&g=2019-07-01) bedoelde jaarrekening of tussentijdse vermogensopstelling van de splitsende rechtspersoon betrekking heeft en berekend met inachtneming van de derde volzin van die bepaling,van het deel van het vermogen dat elke verkrijgende rechtspersoon zal verkrijgen en van het deel dat de voortbestaande splitsende rechtspersoon zal behouden, alsmede de waarde van aandelen in het kapitaal van verkrijgende rechtspersonen en die de voorbestaande splitsende rechtspersoon bij de splitsing zal verkrijgen;
 
-- f. welke rechten of vergoedingen ingevolge [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=349&z=2010-10-10&g=2010-10-10) ten laste van de verkrijgende rechtspersonen worden toegekend aan degenen die anders dan als lid of aandeelhouder bijzondere rechten hebben jegens de splitsende rechtspersoon, zoals rechten op een uitkering van winst of tot het nemen van aandelen, en met ingang van welk tijdstip de toekenning geschiedt;
+- f. welke rechten of vergoedingen ingevolge [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=349&z=2019-07-01&g=2019-07-01) ten laste van de verkrijgende rechtspersonen worden toegekend aan degenen die anders dan als lid of aandeelhouder bijzondere rechten hebben jegens de splitsende rechtspersoon, zoals rechten op een uitkering van winst of tot het nemen van aandelen, en met ingang van welk tijdstip de toekenning geschiedt;
 
 - g. welke voordelen in verband met de splitsing worden toegekend aan een bestuurder of commissaris van een partij bij de splitsing of aan een ander die bij de splitsing is betrokken;
 
@@ -2157,7 +2163,7 @@ In de toelichting op het voorstel tot fusie moet het bestuur mededelen:
 
 3. Het voorstel tot splitsing wordt ondertekend door de bestuurders van elke partij bij de splitsing; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt.
 
-4. Indien een partij bij de splitsing een naamloze vennootschap is waarvan de statuten een bepaling bevatten als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2010-10-10&g=2010-10-10), moet het voorstel tot splitsing zijn goedgekeurd door de raad van commissarissen van die vennootschap en wordt het door de commissarissen mede ondertekend; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt.
+4. Indien een partij bij de splitsing een naamloze vennootschap is waarvan de statuten een bepaling bevatten als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=7&artikel=139&z=2019-07-01&g=2019-07-01), moet het voorstel tot splitsing zijn goedgekeurd door de raad van commissarissen van die vennootschap en wordt het door de commissarissen mede ondertekend; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt.
 
 ##### Artikel 341
 
@@ -2177,11 +2183,11 @@ De vermogendes opstelling wordt opgemaakt met inachtneming van de indeling en de
 
 - c. de jaarverslagen van de partijen bij de splitsing over de laatste drie afgesloten jaren, voor zover deze ter inzage liggen of moeten liggen;
 
-- d. tussentijdse vermogensopstellingen of niet goedgekeurde jaarrekeningen, voor zover vereist ingevolge [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2010-10-10&g=2010-10-10), en voor zover de jaarrekening van de rechtspersoon ter inzage moet liggen.
+- d. tussentijdse vermogensopstellingen of niet goedgekeurde jaarrekeningen, voor zover vereist ingevolge [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2019-07-01&g=2019-07-01), en voor zover de jaarrekening van de rechtspersoon ter inzage moet liggen.
 
 2. Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage hoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder. De stukken liggen tot het tijdstip van de splitsing op het adres van elke verkrijgende rechtspersoon en de voortbestaande gesplitste rechtspersoon, onderscheidenlijk op het adres van een bestuurder daarvan, nog zes maanden nadien ter inzage voor de leden of aandeelhouders en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst, tot het nemen van aandelen of tot het bijwonen van vergaderingen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan krijgen.
 
-3. De partijen bij de splitsing kondigen in de Staatscourant en in een in het openbaar lichaam Bonaire, Sint Eustatius of Saba verschijnend nieuwsblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens het tweede lid ter inzage liggen. Indien het besluit tot splitsing moet worden goedgekeurd op de voet van [artikel 346, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2010-10-10&g=2010-10-10), wordt mededeling gedaan van het tijdstip van behandeling van het goedkeuringsverzoek.
+3. De partijen bij de splitsing kondigen in de Staatscourant en in een in het openbaar lichaam Bonaire, Sint Eustatius of Saba verschijnend nieuwsblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens het tweede lid ter inzage liggen. Indien het besluit tot splitsing moet worden goedgekeurd op de voet van [artikel 346, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2019-07-01&g=2019-07-01), wordt mededeling gedaan van het tijdstip van behandeling van het goedkeuringsverzoek.
 
 4. Indien de besturen van de partijen bij de splitsing het voorstel tot splitsing wijzigen, is het eerste tot en met het derde lid van overeenkomstige toepassing.
 
@@ -2195,25 +2201,25 @@ De vermogendes opstelling wordt opgemaakt met inachtneming van de indeling en de
 
 ##### Artikel 344
 
-1. Een rechtsverhouding waarbij de splitsende rechtspersoon partij is mag, op straffe van gegrondverklaring van een verzet als bedoeld in [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10), slechts in haar geheel overgaan.
+1. Een rechtsverhouding waarbij de splitsende rechtspersoon partij is mag, op straffe van gegrondverklaring van een verzet als bedoeld in [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01), slechts in haar geheel overgaan.
 
 2. Is echter een rechtsverhouding verbonden met verschillende vermogensbestanddelen die op onderscheiden verkrijgende rechtspersonen overgaan, dan mag zij worden gesplitst in dier voege dat zij overgaat op alle betrokken verkrijgende rechtspersonen naar evenredigheid van het verband dat de rechtsverhouding heeft met de vermogensbestanddelen die elke rechtspersoon verkrijgt.
 
 3. Indien een rechtsverhouding mede verbonden is met vermogensbestanddelen die de voortbestaande splitsende rechtspersoon behoudt, is het tweede lid te zijnen aanzien van overeenkomstige toepassing.
 
-4. Het eerste tot en met derde lid laten de rechten die de wederpartij bij een rechtsverhouding kan ontlenen aan [artikel 351](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=351&z=2010-10-10&g=2010-10-10) onverlet.
+4. Het eerste tot en met derde lid laten de rechten die de wederpartij bij een rechtsverhouding kan ontlenen aan [artikel 351](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=351&z=2019-07-01&g=2019-07-01) onverlet.
 
 ##### Artikel 345
 
-1. Tot een maand nadat alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd kan iedere schuldeiser of contractuele wederpartij van zulk een partij, alsmede iedere bijzonder rechthebbende in de zin van [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=349&z=2010-10-10&g=2010-10-10), door een verzoekschrift bij de rechter in eerste aanleg van de statutaire zetel van zulk een partij tegen een aangekondigde splitsing in verzet komen op de grond dat het voorstel ten aanzien van zijn rechtsverhouding strijdt met [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2010-10-10&g=2010-10-10) of dat hij anderszins in zijn positie als crediteur, contractuele wederpartij of bijzonder rechthebbende wordt geschaad. In voorkomende gevallen vermeldt het verzoekschrift welke zekerheid, waarborg, contractswijziging, ontbinding of schadevergoeding wordt verlangd.
+1. Tot een maand nadat alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd kan iedere schuldeiser of contractuele wederpartij van zulk een partij, alsmede iedere bijzonder rechthebbende in de zin van [artikel 349](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=349&z=2019-07-01&g=2019-07-01), door een verzoekschrift bij de rechter in eerste aanleg van de statutaire zetel van zulk een partij tegen een aangekondigde splitsing in verzet komen op de grond dat het voorstel ten aanzien van zijn rechtsverhouding strijdt met [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2019-07-01&g=2019-07-01) of dat hij anderszins in zijn positie als crediteur, contractuele wederpartij of bijzonder rechthebbende wordt geschaad. In voorkomende gevallen vermeldt het verzoekschrift welke zekerheid, waarborg, contractswijziging, ontbinding of schadevergoeding wordt verlangd.
 
-2. Voordat de rechter beslist, kan hij de partijen bij de splitsing in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven wijziging in het voorstel tot splitsing aan te brengen en het gewijzigde voorstel overeenkomstig [artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2010-10-10&g=2010-10-10) openbaar te maken. Oordeelt hij dat het verzet om een andere aangevoerde reden gegrond is dan bepaalt hij de door een of meer bij de splitsing betrokken partijen of een derde te stellen zekerheid of waarborg of te betalen schadevergoeding, dan wel de contractswijziging of -ontbinding die zal gelden wanneer de splitsing tot stand komt. Aan een contractswijziging of -ontbinding kan hij een per de datum van de splitsing ingaande, op een of meer partijen rustende verplichting tot schadevergoeding verbinden.
+2. Voordat de rechter beslist, kan hij de partijen bij de splitsing in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven wijziging in het voorstel tot splitsing aan te brengen en het gewijzigde voorstel overeenkomstig [artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2019-07-01&g=2019-07-01) openbaar te maken. Oordeelt hij dat het verzet om een andere aangevoerde reden gegrond is dan bepaalt hij de door een of meer bij de splitsing betrokken partijen of een derde te stellen zekerheid of waarborg of te betalen schadevergoeding, dan wel de contractswijziging of -ontbinding die zal gelden wanneer de splitsing tot stand komt. Aan een contractswijziging of -ontbinding kan hij een per de datum van de splitsing ingaande, op een of meer partijen rustende verplichting tot schadevergoeding verbinden.
 
-3. De in [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2010-10-10&g=2010-10-10) bedoelde akte van splitsing mag niet worden verleden voordat het verzet is ingetrokken, de beslissing waarbij het verzet ongegrond is verklaard uitvoerbaar is of, bij gegrondverklaring om een andere reden dan schending van [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2010-10-10&g=2010-10-10), de vastgestelde zekerheid of waarborg is gesteld.
+3. De in [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2019-07-01&g=2019-07-01) bedoelde akte van splitsing mag niet worden verleden voordat het verzet is ingetrokken, de beslissing waarbij het verzet ongegrond is verklaard uitvoerbaar is of, bij gegrondverklaring om een andere reden dan schending van [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2019-07-01&g=2019-07-01), de vastgestelde zekerheid of waarborg is gesteld.
 
 4. Indien de akte van splitsing al is verleden, kan de rechter op een ingesteld rechtsmiddel:
 
-- a. bevelen dat een rechtsverhouding die in strijd met [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2010-10-10&g=2010-10-10) is overgegaan geheel of gedeeltelijk wordt overgedragen aan een of meer door hem aan te wijzen verkrijgende rechtspersonen of aan de voortbestaande gesplitste rechts- persoon, of bepalen dat twee of meer van deze rechtspersonen hoofdelijk tot nakoming van de uit de rechtsverhouding voortvloeiende verbintenissen verbonden zijn;
+- a. bevelen dat een rechtsverhouding die in strijd met [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=344&z=2019-07-01&g=2019-07-01) is overgegaan geheel of gedeeltelijk wordt overgedragen aan een of meer door hem aan te wijzen verkrijgende rechtspersonen of aan de voortbestaande gesplitste rechts- persoon, of bepalen dat twee of meer van deze rechtspersonen hoofdelijk tot nakoming van de uit de rechtsverhouding voortvloeiende verbintenissen verbonden zijn;
 
 - b. bevelen dat een door hem omschreven waarborg wordt gegeven.
 
@@ -2235,11 +2241,11 @@ De rechter kan aan een bevel als bedoeld een dwangsom verbinden.
 
 ##### Artikel 347
 
-1. De splitsing geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel tot splitsing of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na het in [artikel 345, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10) bedoelde tijdstip.
+1. De splitsing geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel tot splitsing of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na het in [artikel 345, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01) bedoelde tijdstip.
 
-2. Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het tot stand komen van de splitsing vereisen en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd. Aan de akte wordt de in [artikel 340, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10), bedoelde beschrijving gehecht.
+2. Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het tot stand komen van de splitsing vereisen en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd. Aan de akte wordt de in [artikel 340, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01), bedoelde beschrijving gehecht.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing met dien verstande dat de vereiste stukken worden aangeboden ten kantore van het handelsregister van elk van de partijen bij de splitsing. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2010-10-10&g=2010-10-10) wordt telkens naast «oprichting», «oprichtingshandeling» en «oprichtingsbalans» ook gelezen: splitsing, splitsingshandeling en splitsingsbalans.
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01) vinden overeenkomstige toepassing met dien verstande dat de vereiste stukken worden aangeboden ten kantore van het handelsregister van elk van de partijen bij de splitsing. Bij de toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=1&artikel=24&z=2019-07-01&g=2019-07-01) wordt telkens naast «oprichting», «oprichtingshandeling» en «oprichtingsbalans» ook gelezen: splitsing, splitsingshandeling en splitsingsbalans.
 
 4. De verkrijgende rechtspersonen, elk voor zover het goederen betreft die bij de splitsing op hen zijn overgegaan, doen binnen een maand na de splitsing opgave aan de beheerders van andere openbare registers waarin overgang van rechten of de splitsing kan worden ingeschreven. Gaat door de splitsing een registergoed op een verkrijgende vennootschap over, dan is de gesplitste rechtspersoon of, zo deze bij de splitsing is opgehouden te bestaan, elk van de verkrijgende rechtspersonen in zijn plaats verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [titel 1, afdeling 2 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2), de voor de inschrijving van de splitsing vereiste stukken aan te bieden.
 
@@ -2251,11 +2257,11 @@ De rechter kan aan een bevel als bedoeld een dwangsom verbinden.
 
 ##### Artikel 349
 
-1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens de splitsende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet hetzij zodanige rechten in verkrijgende rechtspersonen krijgen, dat deze, waar toepasselijk samen met het recht dat hij jegens de voortbestaande splitsende rechtspersoon heeft, gelijkwaardig zijn aan zijn recht voor de splitsing, hetzij schadevergoeding krijgen. Schadevergoeding kan niet worden gevorderd door iemand die reeds op de voet van [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10) schadevergoeding heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
+1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens de splitsende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet hetzij zodanige rechten in verkrijgende rechtspersonen krijgen, dat deze, waar toepasselijk samen met het recht dat hij jegens de voortbestaande splitsende rechtspersoon heeft, gelijkwaardig zijn aan zijn recht voor de splitsing, hetzij schadevergoeding krijgen. Schadevergoeding kan niet worden gevorderd door iemand die reeds op de voet van [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01) schadevergoeding heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
 
 2. De schadevergoeding wordt bij gebreke van overeenstemming bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de rechter in eerste aanleg van de statutaire zetel van de splitsende rechtspersoon.
 
-3. [Artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=348&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.
+3. [Artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=348&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.
 
 ##### Artikel 350
 
@@ -2269,7 +2275,7 @@ De rechter kan aan een bevel als bedoeld een dwangsom verbinden.
 
 1. Indien ten gevolge van de splitsing een overeenkomst van een partij bij de splitsing naar maatstaven van redelijkheid en billijkheid niet ongewijzigd in stand behoort te blijven, wijzigt of ontbindt de rechter de overeenkomst op vordering van een der partijen bij de overeenkomst. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
 
-2. De bevoegdheid tot het instellen van de vordering vervalt door verloop van zes maanden na de nederlegging van de akte van splitsing ten kantore van de in [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2010-10-10&g=2010-10-10), bedoelde registers. De vordering kan niet worden ingesteld door iemand die reeds op de voet van [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10) wijziging of ontbinding van de overeenkomst heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
+2. De bevoegdheid tot het instellen van de vordering vervalt door verloop van zes maanden na de nederlegging van de akte van splitsing ten kantore van de in [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2019-07-01&g=2019-07-01), bedoelde registers. De vordering kan niet worden ingesteld door iemand die reeds op de voet van [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01) wijziging of ontbinding van de overeenkomst heeft verzocht, tenzij de rechter in die procedure op dat verzoek niet heeft beslist.
 
 3. Indien uit de wijziging of ontbinding van de overeenkomst schade ontstaat voor de wederpartij, is de betrokken rechtspersoon gehouden tot vergoeding daarvan.
 
@@ -2301,15 +2307,15 @@ De rechter kan aan een bevel als bedoeld een dwangsom verbinden.
 
 - a. indien de door een notaris ondertekende akte van splitsing geen authentiek geschrift is;
 
-- b. wegens het niet naleven van [artikel 336, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=336&z=2010-10-10&g=2010-10-10), [artikel 345, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10), of de [eerste volzin van artikel 347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2010-10-10&g=2010-10-10);
+- b. wegens het niet naleven van [artikel 336, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=336&z=2019-07-01&g=2019-07-01), [artikel 345, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01), of de [eerste volzin van artikel 347, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2019-07-01&g=2019-07-01);
 
 - c. wegens nietigheid, het niet van kracht zijn of een grond tot vernietiging van een voor de splitsing vereist besluit van de algemene vergadering of, in een stichting, van het bestuur;
 
-- d. wegens het niet naleven van [artikel 346, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2010-10-10&g=2010-10-10).
+- d. wegens het niet naleven van [artikel 346, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2019-07-01&g=2019-07-01).
 
 2. Vernietiging geschiedt door een uitspraak van de rechter van de statutaire zetel van de gesplitste rechtspersoon op vordering tegen alle verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon van een lid, aandeelhouder, bestuurder of andere belanghebbende. Een niet door de rechter vernietigde splitsing is geldig.
 
-3. De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van splitsing ten kantore van de in [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2010-10-10&g=2010-10-10), bedoelde registers.
+3. De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt door herstel van het verzuim of door verloop van zes maanden na de nederlegging van de akte van splitsing ten kantore van de in [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2019-07-01&g=2019-07-01), bedoelde registers.
 
 4. De splitsing wordt niet vernietigd:
 
@@ -2319,7 +2325,7 @@ De rechter kan aan een bevel als bedoeld een dwangsom verbinden.
 
 5. Heeft de eiser tot vernietiging van de splitsing schade geleden door een verzuim dat tot vernietiging had kunnen leiden, en vernietigt de rechter de splitsing niet, dan kan de rechter de verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon veroordelen tot vergoeding van de schade. De rechtspersonen hebben daarvoor verhaal op de schuldigen aan het verzuim en, tot ten hoogste het genoten voordeel, op degenen die door het verzuim zijn bevoordeeld.
 
-6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in de registers waarin de splitsing ingevolge [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2010-10-10&g=2010-10-10), moet zijn ingeschreven.
+6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in de registers waarin de splitsing ingevolge [artikel 347, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=347&z=2019-07-01&g=2019-07-01), moet zijn ingeschreven.
 
 7. De gesplitste rechtspersoon is naast de betrokken verkrijgende rechtspersoon hoofdelijk verbonden tot nakoming van verbintenissen die ten laste van de verkrijgende rechtspersonen zijn ontstaan na de splitsing en voordat de vernietiging in de registers is ingeschreven.
 
@@ -2343,17 +2349,17 @@ Deze afdeling is van toepassing, indien bij een splitsing een naamloze of beslot
 
 ##### Artikel 357
 
-1. Het voorstel tot splitsing bevat naast de in [artikel 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10) genoemde gegevens:
+1. Het voorstel tot splitsing bevat naast de in [artikel 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01) genoemde gegevens:
 
 - a. de ruilverhouding van de aandelen en eventueel de omvang van de betalingen krachtens de ruilverhouding;
 
 - b. met ingang van welk tijdstip en in welke mate de aandeelhouders van de splitsende vennootschap zullen delen in de winst van de verkrijgende vennootschappen;
 
-- c. hoeveel aandelen eventueel zullen worden ingetrokken met toepassing van [artikel 356, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=356&z=2010-10-10&g=2010-10-10);
+- c. hoeveel aandelen eventueel zullen worden ingetrokken met toepassing van [artikel 356, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=356&z=2019-07-01&g=2019-07-01);
 
 - d. een splitsingsbalans van alle partijen bij de splitsing die naamloze of besloten vennootschap zijn en niet ophouden te bestaan.
 
-2. De in het eerste lid onder d bedoelde splitsingsbalans toont een eigen vermogen dat niet negatief is of, indien de betrokken vennootschap een nominaal kapitaal heeft, niet lager is dan dat nominaal kapitaal. Zij heeft betrekking op het vermoedelijke tijdstip van de splitsing. Gegevens daarvoor mogen worden ontleend aan de in [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2010-10-10&g=2010-10-10), bedoelde jaarrekeningen of vermogensopstellingen. Afwijkingen daarvan worden toegelicht.
+2. De in het eerste lid onder d bedoelde splitsingsbalans toont een eigen vermogen dat niet negatief is of, indien de betrokken vennootschap een nominaal kapitaal heeft, niet lager is dan dat nominaal kapitaal. Zij heeft betrekking op het vermoedelijke tijdstip van de splitsing. Gegevens daarvoor mogen worden ontleend aan de in [artikel 341, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=341&z=2019-07-01&g=2019-07-01), bedoelde jaarrekeningen of vermogensopstellingen. Afwijkingen daarvan worden toegelicht.
 
 ##### Artikel 358
 
@@ -2371,23 +2377,23 @@ In de toelichting op het voorstel tot splitsing moet het bestuur mededelen:
 
 ##### Artikel 359
 
-1. Een door het bestuur aangewezen externe deskundige als bedoeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2010-10-10&g=2010-10-10) moet het voorstel tot splitsing onderzoeken en moet verklaren of de voorgestelde ruilverhouding van de aandelen, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is. Hij moet tevens een verslag opstellen, waarin hij zijn oordeel geeft over de splitsingsbalansen bedoeld in [artikel 357, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2010-10-10&g=2010-10-10), en de mededelingen, bedoeld in [artikel 358](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=358&z=2010-10-10&g=2010-10-10).
+1. Een door het bestuur aangewezen externe deskundige als bedoeld in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=5&afdeling=4&artikel=121&z=2019-07-01&g=2019-07-01) moet het voorstel tot splitsing onderzoeken en moet verklaren of de voorgestelde ruilverhouding van de aandelen, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is. Hij moet tevens een verslag opstellen, waarin hij zijn oordeel geeft over de splitsingsbalansen bedoeld in [artikel 357, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2019-07-01&g=2019-07-01), en de mededelingen, bedoeld in [artikel 358](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=358&z=2019-07-01&g=2019-07-01).
 
 2. Indien twee of meer van de partijen bij de splitsing naamloze vennootschappen zijn, wordt slechts dezelfde persoon als deskundige aangewezen, indien de algemene vergaderingen het besluit daartoe hebben goedgekeurd.
 
 3. De deskundigen zijn bij alle partijen bij de splitsing gelijkelijk tot onderzoek bevoegd.
 
-4. Op de verklaring van de deskundige is [artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing en op zijn verslag het [tweede en derde lid van artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2010-10-10&g=2010-10-10).
+4. Op de verklaring van de deskundige is [artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing en op zijn verslag het [tweede en derde lid van artikel 342](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=342&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 360
 
 In het geval van een zuivere splitsing kan de akte van splitsing bepalen dat onderscheiden aandeelhouders van de splitsende rechtspersoon aandeelhouder worden van onderscheiden verkrijgende rechtspersonen. In dat geval:
 
-- a. vermeldt het voorstel tot splitsing naast de in de [artikelen 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10) en [357](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2010-10-10&g=2010-10-10) genoemde gegevens welke aandeelhouders van welke verkrijgende rechtspersonen aandeelhouder worden;
+- a. vermeldt het voorstel tot splitsing naast de in de [artikelen 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01) en [357](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2019-07-01&g=2019-07-01) genoemde gegevens welke aandeelhouders van welke verkrijgende rechtspersonen aandeelhouder worden;
 
 - b. deelt het bestuur in de toelichting op het voorstel tot splitsing mee volgens welke criteria deze verdeling is vastgesteld;
 
-- c. moet de deskundige bedoeld in [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=359&z=2010-10-10&g=2010-10-10) mede verklaren dat de voorgestelde verdeling, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is; en
+- c. moet de deskundige bedoeld in [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=359&z=2019-07-01&g=2019-07-01) mede verklaren dat de voorgestelde verdeling, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is; en
 
 - d. wordt het besluit tot splitsing door de algemene vergadering van de splitsende vennootschap genomen met een meerderheid van drie vierden van de uitgebrachte stemmen in een vergadering waarin 95% van het door de aandelen vertegenwoordigde vermogen is vertegenwoordigd.
 
@@ -2397,79 +2403,25 @@ In het geval van een zuivere splitsing kan de akte van splitsing bepalen dat ond
 
 2. Dit besluit kan slechts worden genomen, indien de vennootschap het voornemen hiertoe heeft vermeld in de aankondiging dat het voorstel tot splitsing is neergelegd.
 
-3. Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een tiende van het eigen vermogen vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de splitsing te besluiten. [Artikel 346](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2010-10-10&g=2010-10-10) is dan van toepassing.
+3. Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een tiende van het eigen vermogen vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de splitsing te besluiten. [Artikel 346](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2019-07-01&g=2019-07-01) is dan van toepassing.
 
 ##### Artikel 362
 
-1. Indien alle verkrijgende vennootschappen bij de splitsing worden opgericht en de splitsende rechtspersoon daarvan bij de splitsing direct of indirect enig aandeelhouder wordt, zijn de [artikelen 340, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10), en [357 tot en met 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2010-10-10&g=2010-10-10) niet van toepassing.
+1. Indien alle verkrijgende vennootschappen bij de splitsing worden opgericht en de splitsende rechtspersoon daarvan bij de splitsing direct of indirect enig aandeelhouder wordt, zijn de [artikelen 340, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01), en [357 tot en met 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
-2. Indien alle voor de splitsing vereiste besluiten worden genomen met de daarvoor uitgebrachte stemmen van alle stemgerechtigde personen zijn de [artikelen 357 tot en met 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2010-10-10&g=2010-10-10) niet van toepassing.
+2. Indien alle voor de splitsing vereiste besluiten worden genomen met de daarvoor uitgebrachte stemmen van alle stemgerechtigde personen zijn de [artikelen 357 tot en met 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
 ##### Artikel 363
 
 1. De akte van splitsing kan bepalen dat de aandeelhouders van de splitsende vennootschap aandeelhouder worden van een groepsmaatschappij van een verkrijgende vennootschap. Zij worden dan geen aandeelhouder van die verkrijgende vennootschap.
 
-2. Zulk een splitsing is slechts mogelijk, indien de groepsmaatschappij alleen of samen met een andere groepsmaatschappij alle aandelen van de verkrijgende vennootschap houdt. Het [eerste tot en met het vierde lid van artikel 346](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2010-10-10&g=2010-10-10) en [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=361&z=2010-10-10&g=2010-10-10) zijn op het besluit van de groepsmaatschappij van overeenkomstige toepassing.
+2. Zulk een splitsing is slechts mogelijk, indien de groepsmaatschappij alleen of samen met een andere groepsmaatschappij alle aandelen van de verkrijgende vennootschap houdt. Het [eerste tot en met het vierde lid van artikel 346](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=346&z=2019-07-01&g=2019-07-01) en [artikel 361](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=361&z=2019-07-01&g=2019-07-01) zijn op het besluit van de groepsmaatschappij van overeenkomstige toepassing.
 
-3. De groepsmaatschappij die de aandelen toekent geldt naast de verkrijgende vennootschap als partij bij de splitsing. Op haar rusten de verplichtingen die ingevolge de [artikelen 340 tot en met 360](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10) op een verkrijgende rechtspersoon rusten, met uitzondering van de verplichtingen uit de [artikelen 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2010-10-10&g=2010-10-10), 346 en het tweede en vierde lid van artikel 350; voor de toepassing van het vierde lid van artikel 359 blijft zij buiten beschouwing; de [artikelen 352](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=352&z=2010-10-10&g=2010-10-10), [353](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=353&z=2010-10-10&g=2010-10-10) en het [zevende lid van artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=354&z=2010-10-10&g=2010-10-10) gelden voor haar niet. Het [tweede lid, onder b, van artikel 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2010-10-10&g=2010-10-10), het [derde lid van artikel 356](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=356&z=2010-10-10&g=2010-10-10) en het [eerste lid, onder b, van artikel 357](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2010-10-10&g=2010-10-10) gelden alsdan niet voor de verkrijgende vennootschap.
+3. De groepsmaatschappij die de aandelen toekent geldt naast de verkrijgende vennootschap als partij bij de splitsing. Op haar rusten de verplichtingen die ingevolge de [artikelen 340 tot en met 360](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01) op een verkrijgende rechtspersoon rusten, met uitzondering van de verplichtingen uit de [artikelen 345](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=345&z=2019-07-01&g=2019-07-01), 346 en het tweede en vierde lid van artikel 350; voor de toepassing van het vierde lid van artikel 359 blijft zij buiten beschouwing; de [artikelen 352](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=352&z=2019-07-01&g=2019-07-01), [353](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=353&z=2019-07-01&g=2019-07-01) en het [zevende lid van artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=354&z=2019-07-01&g=2019-07-01) gelden voor haar niet. Het [tweede lid, onder b, van artikel 340](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=4&artikel=340&z=2019-07-01&g=2019-07-01), het [derde lid van artikel 356](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=356&z=2019-07-01&g=2019-07-01) en het [eerste lid, onder b, van artikel 357](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&boek=2&titeldeel=8&afdeling=5&artikel=357&z=2019-07-01&g=2019-07-01) gelden alsdan niet voor de verkrijgende vennootschap.
 
 ##### Artikel 114a
 
 Certificaten aan toonder van aandelen mogen niet worden uitgegeven. Zolang certificaten aan toonder uitstaan, kunnen de aan het aandeel verbonden rechten niet worden uitgeoefend.
-
-### Afdeling 4. De jaarrekening bij de grote vennootschap
-
-### Afdeling 5. De algemene vergadering van aandeelhouders
-
-### Afdeling 6. Het bestuur
-
-### Afdeling 7. De onafhankelijke raad van commissarissen
-
-## Titel 6. De besloten vennootschap
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. De aandelen
-
-### Afdeling 3. Het vermogen en de jaarrekening
-
-### Afdeling 5. De algemene vergadering van aandeelhouders
-
-### Afdeling 6. Het bestuur
-
-### Afdeling 7. De aandeelhouder-bestuurde vennootschap
-
-## Titel 7. Uitkoop, uittreding en gedwongen overdracht
-
-## Titel 8. Omzetting, fusie en splitsing
-
-### Afdeling 1. Omzetting
-
-### Afdeling 2. Algemene bepalingen omtrent fusie
-
-### Afdeling 3. Bijzondere bepalingen voor fusies van naamloze en besloten vennootschappen
-
-### Afdeling 4. Algemene bepalingen omtrent splitsingen
-
-### Afdeling 5. Bijzondere bepalingen voor splitsingen waarbij een naamloze of besloten vennootschap wordt gesplitst of opgericht
-
-##### Artikel 51a
-
-1. Het bestuur van een stichting houdt een register bij waarin de namen en adressen van alle personen worden opgenomen aan wie een uitkering is gedaan die niet meer bedraagt dan 25% van het voor uitkering vatbare bedrag in een bepaald boekjaar, alsmede het bedrag van de uitkering en de datum waarop deze uitkering is gedaan.
-
-2. Het register wordt regelmatig bijgehouden.
-
-## Titel 3. De vereniging
-
-## Titel 4. De coöperatie en de onderlinge waarborgmaatschappij
-
-## Titel 5. De naamloze vennootschap
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. De aandelen
-
-### Afdeling 3. Het vermogen en de jaarrekening
 
 ### Afdeling 4. De jaarrekening bij de grote vennootschap
 
