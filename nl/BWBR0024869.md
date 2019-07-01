@@ -4,7 +4,7 @@ identifier: "BWBR0024869"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-04"
-last_updated: "2015-11-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024869"
 soort: "AMvB"
@@ -130,7 +130,9 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 ##### Artikel 8. Intermediaire activiteiten voor personen met een auditieve handicap
 
-De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), vindt plaats door vergoeding van de kosten voor bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
+1. De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), vindt plaats door vergoeding van de kosten voor bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
+
+2. Een intermediaire activiteit, bedoeld in het eerste lid, worden verleend indien er een verklaring is van de huisarts of de behandelend medisch specialist, waaruit blijkt dat deze persoon op het gebruik van een intermediaire activiteit is aangewezen. Deze verklaring wordt eenmalig gevraagd, tenzij het UWV op grond van [artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a) deze al heeft verkregen voor de uitvoering van aan het UWV opgedragen taken. Bij de uitvoering van dit artikel is het UWV bevoegd de verklaring te gebruiken, die het UWV heeft verkregen voor de uitvoering van aanspraken op intermediaire activiteiten op grond van de [Wet arbeidsongeschiktheidsvoorzieningen jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 9. Overname van voorzieningen
 
@@ -160,13 +162,13 @@ De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweed
 
 4. Het UWV neemt in het gedeelte van het bestuursverslag met jaarrekening, bedoeld in het eerste lid, ten minste een verslag van de werkzaamheden en het gevoerde beleid met betrekking tot de voorzieningen, bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), op en tevens een toelichting op het gedeelte van de jaarrekening en de balans dat betrekking heeft op de uitvoering van dit besluit.
 
-5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2015-11-01&g=2015-11-01), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
+5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2019-07-01&g=2019-07-01), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
 
 ##### Artikel 12. Tijdstip, inhoud en inrichting aanvraag voorschot, vaststelling kosten
 
 1. Het UWV dient jaarlijks vóór 1 december van het jaar voorafgaand aan het begrotingsjaar waarin de kosten zullen worden gemaakt de aanvraag om een voorschot aan Onze Minister in.
 
-2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2015-11-01&g=2015-11-01).
+2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2019-07-01&g=2019-07-01), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2019-07-01&g=2019-07-01).
 
 3. Onze Minister stelt de hoogte van het voorschot vast en verstrekt met ingang van het begrotingsjaar waarop het voorschot betrekking heeft maandelijks voor de 11e van de maand een twaalfde deel van het vastgestelde voorschot.
 
@@ -176,7 +178,7 @@ De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweed
 
 ##### Artikel 13. Nadere regels
 
-Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2015-11-01&g=2015-11-01), worden ingericht en aangeboden.
+Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2019-07-01&g=2019-07-01), worden ingericht en aangeboden.
 
 ##### Artikel 14. Inwerkingtreding
 
