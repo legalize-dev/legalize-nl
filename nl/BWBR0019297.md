@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -212,7 +212,7 @@ Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](h
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-01-01&g=2019-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-07-01&g=2019-07-01).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
@@ -236,8 +236,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Overgangsbepaling
 
-1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=4&z=2019-01-01&g=2019-01-01) en [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2019-01-01&g=2019-01-01) zoals deze luidden op de dag voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 december 2018, 2018-0000144973 tot wijziging van enkele ministeriële regelingen in verband met enkele technische wijzigingen (Stcrt. 2018, nr. 69997) blijven van toepassing ten aanzien van personen aan wie op die dag reeds (leef)vervoersvoorzieningen of voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), en [15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) zijn toegekend.
-
-2. Dit artikel vervalt met ingang van 1 juli 2019.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
