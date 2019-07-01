@@ -4,7 +4,7 @@ identifier: "BWBR0038639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2017-05-18"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038639"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Meetinstrumenten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2017-05-18&g=2017-05-18), voldoen na ingebruikneming voorts aan de volgende eisen:
+Meetinstrumenten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2019-07-01&g=2019-07-01), voldoen na ingebruikneming voorts aan de volgende eisen:
 
 - a. zij verkeren in goede staat van onderhoud;
 
@@ -92,11 +92,11 @@ Meetinstrumenten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.
 
 ##### Artikel 4
 
-Indien een meetinstrument als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2017-05-18&g=2017-05-18), wordt aangesloten op onder de werking van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van deze regeling en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door het meetinstrument vastgestelde meetresultaat.
+Indien een meetinstrument als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2019-07-01&g=2019-07-01), wordt aangesloten op onder de werking van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van deze regeling en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door het meetinstrument vastgestelde meetresultaat.
 
 ##### Artikel 5
 
-1. Indien een elektromagnetische storing optreedt in een meetinstrument als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2017-05-18&g=2017-05-18), wordt de storing gedetecteerd, tenzij de veranderingswaarde in het meetresultaat niet groter is dan de kritische veranderingswaarde van het meetinstrument.
+1. Indien een elektromagnetische storing optreedt in een meetinstrument als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=2&artikel=2&z=2019-07-01&g=2019-07-01), wordt de storing gedetecteerd, tenzij de veranderingswaarde in het meetresultaat niet groter is dan de kritische veranderingswaarde van het meetinstrument.
 
 2. De meting waarbij een elektromagnetische storing wordt gedetecteerd, wordt slechts opgeslagen en verder verwerkt indien zij wordt voorzien van een melding dat de storing is opgetreden.
 
@@ -134,7 +134,7 @@ Het meetreservoir van de statische vloeistofhoeveelheidmeter is voorzien van de 
 
 - c. indien van toepassing, het serienummer van de toegepaste peilstok;
 
-- d. indien van toepassing, het nummer van het certificaat van meting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2017-05-18&g=2017-05-18); en
+- d. indien van toepassing, het nummer van het certificaat van meting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2019-07-01&g=2019-07-01); en
 
 - e. indien een meetreservoir is voorzien van meerdere meetopeningen, een aanduiding, door middel van het serienummer, welke meetwaardeopnemer bij welke meetopening hoort.
 
@@ -298,13 +298,11 @@ Het schaalinterval van de aanwijsinrichting van een vloeistofhoogtemeter is niet
 
 ##### Artikel 28
 
-1. De maximaal toelaatbare fout van de aanwijzing van de gemeten vloeistofhoogte bedraagt:
+De maximaal toelaatbare fout van de aanwijzing van de gemeten vloeistofhoogte bedraagt:
 
-- a. bij de eerste conformiteitsbeoordeling: plus of min 1 mm;
+- a. bij de eerste conformiteitsbeoordeling, voor installatie op de tank: plus of min 1 mm;
 
-- b. na ingebruikneming: plus of min 4 mm.
-
-2. De maximaal toelaatbare fout is van toepassing op de bepaling van de gemeten hoogte en het verschil tussen twee gemeten hoogten, waarbij vloeistof ofwel in ofwel uit het meetreservoir wordt verplaatst.
+- b. bij de eerste conformiteitsbeoordeling, na installatie op de tank, en na ingebruikneming: plus of min 4 mm.
 
 ##### Artikel 29
 
@@ -352,7 +350,7 @@ De maximaal toelaatbare fout van een massameter bedraagt onder normale bedrijfso
 
 ##### Artikel 37
 
-1. Voor de herleiding van massa naar volume onder meetcondities of referentiecondities wordt de maximaal toelaatbare fout, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=3&paragraaf=3.3&artikel=36&z=2017-05-18&g=2017-05-18), in plus of min verhoogd met de percentages in onderstaand tabel:
+1. Voor de herleiding van massa naar volume onder meetcondities of referentiecondities wordt de maximaal toelaatbare fout, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=3&paragraaf=3.3&artikel=36&z=2019-07-01&g=2019-07-01), in plus of min verhoogd met de percentages in onderstaand tabel:
 
 | Basis van herleiding | Maximaal toelaatbare fout op de herleiding |
 | --- | --- |
@@ -413,7 +411,7 @@ Een discontinue brandstofmeter is zodanig ingericht dat bij de levering geen luc
 
 ##### Artikel 46
 
-1. In afwijking van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=4&artikel=45&z=2017-05-18&g=2017-05-18) bedragen bij de eerste conformiteitsbeoordeling van discontinue brandstofmeters die uitsluitend zijn ingericht om na betaling vooraf een hoeveelheid vloeistof af te leveren en waarbij op de meting door een menselijke handeling geen invloed kan worden uitgeoefend, de maximaal toelaatbare fouten bij onderstaande hoeveelheden:
+1. In afwijking van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=4&artikel=45&z=2019-07-01&g=2019-07-01) bedragen bij de eerste conformiteitsbeoordeling van discontinue brandstofmeters die uitsluitend zijn ingericht om na betaling vooraf een hoeveelheid vloeistof af te leveren en waarbij op de meting door een menselijke handeling geen invloed kan worden uitgeoefend, de maximaal toelaatbare fouten bij onderstaande hoeveelheden:
 
 | Hoeveelheid in liters | Maximaal toelaatbare fouten | Maximaal toelaatbare fouten |
 | --- | --- | --- |
@@ -547,15 +545,17 @@ Bij rechtstreekse verkoop kan de hoeveelheid waarop de transactie is gebaseerd p
 
 ##### Artikel 62
 
-1. De kleinste afleveringshoeveelheid van een CG-dispenser is afhankelijk van de waarde van het debiet van de CG-pomp en niet groter dan de waarde weergegeven in onderstaand tabel:
+1. De kleinste afleveringshoeveelheid van een CG-dispenser, met uitzondering van een CG-dispenser voor waterstof, is afhankelijk van de waarde van het debiet van de CG-pomp en niet groter dan de waarde weergegeven in onderstaand tabel:
 
 | Maximale debiet CG-pomp (kg/min) | Qmax<4 | 4<Qmax<12 | 12<Qmax<30 | 30<Qmax<70 | Qmax>70 |
 | --- | --- | --- | --- | --- | --- |
 | Kleinste afleveringshoeveelheid (kg) | 0,5 | 1 | 2 | 5 | 10 |
 
-2. Bij toepassing van andere meeteenheden gelden overeenkomstige waarden.
+3. De kleinste afleveringshoeveelheid voor CG-dispensers voor waterstof is niet groter dan 1 kilogram.
 
-3. De ratio tussen het minimum en maximum debiet bedraagt tenminste 10.
+3. Bij toepassing van andere meeteenheden gelden overeenkomstige waarden.
+
+4. De ratio tussen het minimum en maximum debiet bedraagt tenminste 10.
 
 ##### Artikel 63
 
@@ -563,15 +563,18 @@ Het schaalinterval van een CG-dispenser is niet groter dan anderhalf maal de kle
 
 ##### Artikel 64
 
-1. De maximaal toelaatbare fout van de aanwijzing van de gemeten of herleide hoeveelheid van de CG-dispenser bedraagt:
+1. De maximaal toelaatbare fout van de aanwijzing van de gemeten of herleide hoeveelheid van de CG-dispenser is gelijk aan de waarde weergegeven in de onderstaande tabel:
 
-- a. bij de eerste conformiteitsbeoordeling:1,5%;
-
-- b. na ingebruikneming: 2%.
+| Nauwkeurigheidsklasse | Nauwkeurigheidsklasse | Maximaal toelaatbare fout (in % van de gemeten waarde) | Maximaal toelaatbare fout (in % van de gemeten waarde) |
+| --- | --- | --- | --- |
+| Nauwkeurigheidsklasse | Nauwkeurigheidsklasse | Bij de eerste conformiteitsbeoordeling | Na ingebruikneming |
+| Alle CG-dispensers met uitzondering van CG-dispensers voor waterstof | 1,5 | 1,5 | 2 |
+| Alleen CG-dispensers voor waterstof | 2 | 2 | 3 |
+| Alleen CG-dispensers voor waterstof | 4 | 4 | 5 |
 
 2. De maximaal toelaatbare fout van de kleinste afleveringshoeveelheid bedraagt tweemaal de maximaal toelaatbare fout, bedoeld in het eerste lid.
 
-3. Ingeval de voorziening, bedoeld in [artikel 51, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=5&artikel=51&z=2017-05-18&g=2017-05-18), wordt aangesproken, wordt de maximaal toelaatbare fout verhoogd met 5% van de kleinste afleveringshoeveelheid.
+3. Ingeval de voorziening, bedoeld in [artikel 51, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=5&artikel=51&z=2019-07-01&g=2019-07-01), wordt aangesproken, wordt de maximaal toelaatbare fout verhoogd met 5% van de kleinste afleveringshoeveelheid.
 
 ##### Artikel 65
 
@@ -605,7 +608,7 @@ Gedurende de opwarmtijd van een dynamische weegbrug kan er niet worden gemeten.
 
 Indien de spanning op een dynamische weegbrug die wordt gevoed door batterijen of een accu onder het gespecificeerde niveau komt, zal de weegbrug:
 
-- a. correct blijven functioneren waarbij een meetfout binnen de maximaal toelaatbare fout, bedoeld in [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=6&artikel=77&z=2017-05-18&g=2017-05-18), blijft; of
+- a. correct blijven functioneren waarbij een meetfout binnen de maximaal toelaatbare fout, bedoeld in [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=6&artikel=77&z=2019-07-01&g=2019-07-01), blijft; of
 
 - b. automatisch uitgeschakeld worden, waarna het niet meer mogelijk is om metingen te verrichten.
 
@@ -674,12 +677,12 @@ Een dynamische weegbrug met nauwkeurigheidsklasse 0,5 of nauwkeurigheidsklasse 1
 
 1. De relatie tussen de nauwkeurigheidsklasse, de waarde van het schaalinterval en het aantal schaalintervallen van een dynamische weegbrug is gelijk aan onderstaande tabel:
 
-| Nauwkeurigheids-klasse | Schaalinterval (d) | Aantal schaalintervallen (Max/d) | Aantal schaalintervallen (Max/d) |
+| Nauwkeurigheidsklasse | Schaalinterval (d) | Aantal schaalintervallen (Max/d) | Aantal schaalintervallen (Max/d) |
 | --- | --- | --- | --- |
-| Nauwkeurigheids-klasse | Schaalinterval (d) | Minimaal | Maximaal |
-| 0,2 | 0,2 ≤ 5 kg | 500 | 5.000 |
-| 0,5 | 0,5 ≤ 10 kg | 500 | 5.000 |
-| 1 | 1 ≤ 20 kg | 500 | 5.000 |
+| Nauwkeurigheidsklasse | Schaalinterval (d) | Minimaal | Maximaal |
+| 0,2 | ≤ 5 kg | 500 | 5.000 |
+| 0,5 | ≤ 10 kg | 500 | 5.000 |
+| 1 | ≤ 20 kg | 500 | 5.000 |
 
 2. De minimale capaciteit van een dynamische weegbrug is niet minder dan 50 schaalintervallen.
 
@@ -705,7 +708,7 @@ De kritische veranderingswaarde van een dynamische weegbrug is één schaalinter
 
 ##### Artikel 79
 
-Meetreservoirs, vloeistofhoogtemeters, discontinue brandstofmeters en peilstokken waarvoor voorafgaand aan de inwerkingtreding van deze regeling een verklaring van toelating als bedoeld in [artikel 34 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=34) is afgegeven worden beschouwd te voldoen aan de relevante eisen in deze regeling wanneer:
+Meetreservoirs, vloeistofhoogtemeters, discontinue brandstofmeters en peilstokken waarvoor voorafgaand aan de inwerkingtreding van deze regeling een verklaring van toelating als bedoeld in [artikel 34 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=34), dan wel een certificaat van overeenstemming als bedoeld in bijlage G van [Richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004, L 135) of een conformiteitscertificaat als bedoeld in bijlage I, module G, van de richtlijn meetinstrumenten, is afgegeven worden beschouwd te voldoen aan de relevante eisen in deze regeling wanneer:
 
 - a. deze in gebruik zijn genomen voorafgaand aan of binnen tien jaar na de inwerkingtreding van deze regeling, en
 
@@ -713,7 +716,7 @@ Meetreservoirs, vloeistofhoogtemeters, discontinue brandstofmeters en peilstokke
 
 ##### Artikel 80
 
-De in deze regeling gestelde eisen aan CG-dispensers zijn, met uitzondering van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=5&artikel=64&z=2017-05-18&g=2017-05-18) en de essentiële eis in artikel 7.1 uit bijlage 1 van de richtlijn meetinstrumenten, niet van toepassing op CG-dispensers die in gebruik zijn genomen voorafgaand aan de inwerkingtreding van deze regeling.
+De in deze regeling gestelde eisen aan CG-dispensers zijn, met uitzondering van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0038639&hoofdstuk=5&artikel=64&z=2019-07-01&g=2019-07-01) en de essentiële eis in artikel 7.1 uit bijlage 1 van de richtlijn meetinstrumenten, niet van toepassing op CG-dispensers die in gebruik zijn genomen voorafgaand aan de inwerkingtreding van deze regeling.
 
 ##### Artikel 81
 
