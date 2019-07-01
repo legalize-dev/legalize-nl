@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-07-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **JAR-OPS 3:** sectie 1 van het technisch voorschrift, vastgesteld door de Joint Aviation Authorities, betreffende uitvoering van een vlucht met een helikopter;
 
-- **kustwachtvlucht:** vlucht met een vliegtuig of helikopter door Kustwacht Nederland in het kader van de handhavingstaken, bedoeld in [artikel 4 van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=4);
+- **kustwachtvlucht:** vlucht met een vliegtuig of helikopter door de Kustwacht, bedoeld in de [Regeling organisatie Kustwacht Nederland](onbekend), in het kader van de handhavingstaken van de desbetreffende samenwerkende diensten, genoemd in [artikel 6 van de Regeling organisatie Kustwacht Nederland](onbekend);
 
 - **oefennadering:** met een vliegtuig uitvoeren van naderingsprocedures en procedures ter voorbereiding van een landing zonder dat deze procedures worden gevolgd door een landing waarbij de wielen het aardoppervlak raken, zulks in het kader van een vliegopleiding of het onderhoud van vliegvaardigheid;
 
@@ -104,7 +104,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2016-07-01&g=2016-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2019-07-01&g=2019-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -180,7 +180,7 @@ Het uitvoeren van een vlucht waarbij stoffen ter bevordering of ter bescherming 
 
 - f. het uitvoeren van milieucontroles;
 
-- g. surveillance door de Kustwacht.
+- g. surveillance door de op grond van [artikel 2, derde lid, van de Regeling organisatie Kustwacht Nederland](onbekend), in de Kustwacht samenwerkende diensten.
 
 2. Voor het uitvoeren van een vlucht als bedoeld in het eerste lid gelden de volgende voorschriften:
 
