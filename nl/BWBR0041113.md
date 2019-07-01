@@ -4,7 +4,7 @@ identifier: "BWBR0041113"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041113"
 soort: "AMvB"
@@ -54,8 +54,6 @@ Wijzigt het Besluit algemene rechtspositie politie.
 
 Wijzigt het Besluit bezoldiging politie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Dit besluit wordt aangehaald als: Besluit levensfase-uren politie.
@@ -64,6 +62,6 @@ Dit besluit wordt aangehaald als: Besluit levensfase-uren politie.
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2019.
 
-2. In afwijking van het eerste lid treedt van het [artikel I, onderdeel G, het artikel 30e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041113&artikel=I&z=2019-01-01&g=2019-01-01), in werking met ingang van 1 januari 2019.
+2. In afwijking van het eerste lid treedt van het [artikel I, onderdeel G, het artikel 30e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041113&artikel=I&z=2019-07-01&g=2019-07-01), in werking met ingang van 1 januari 2019.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
