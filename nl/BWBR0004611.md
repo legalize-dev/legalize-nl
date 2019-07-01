@@ -4,7 +4,7 @@ identifier: "BWBR0004611"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2002-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004611"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Ten aanzien van de toekenning en de hoogte van de premie geldt het volgende:
 
 - 1b. Aan de visser die op of na 1 januari 1990 een verpakte milieugevaarlijke stof opvist en aan land brengt of aan de visser op wiens aanwijzing een dergelijke stof op of na 1 januari 1990 wordt geborgen, kan een premie van € 760,08 (zegge: zevenhonderdzestig euro en 8 eurocent) bruto worden toegekend.
 
-- 2. Toekenning van een premie geschiedt op voorwaarde van onverwijlde melding aan het Kustwachtcentrum, overgave van de verpakte milieugevaarlijke stof (indien deze door de visser zelf is geborgen) en het verstrekken van geografische informatie over de vindplaats.
+- 2. Toekenning van een premie geschiedt op voorwaarde van onverwijlde melding aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), overgave van de verpakte milieugevaarlijke stof (indien deze door de visser zelf is geborgen) en het verstrekken van geografische informatie over de vindplaats.
 
 - 3. De regeling is van toepassing op alle Nederlandse vissersvaartuigen, alsmede alle vissersvaartuigen die staan geregistreerd in een der lidstaten van de EEG en die gerechtigd zijn in de Nederlandse visserijzone te vissen.
 
@@ -69,19 +69,11 @@ Ten aanzien van de toekenning en de hoogte van de premie geldt het volgende:
 
 ##### Artikel 3. Beoordeling
 
-Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt door het Rijk – Rijkswaterstaat – beoordeeld of voldaan is aan de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2002-01-01&g=2002-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2002-01-01&g=2002-01-01), juncto [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=8&z=2002-01-01&g=2002-01-01), gestelde voorwaarden om voor premiëring in aanmerking te komen.
+Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt door het Rijk – Rijkswaterstaat – beoordeeld of voldaan is aan de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2019-07-01&g=2019-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01), juncto [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=8&z=2019-07-01&g=2019-07-01), gestelde voorwaarden om voor premiëring in aanmerking te komen.
 
 ##### Artikel 4. Praktische uitvoering
 
-1. De melding, bedoeld in [artikel 2, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2002-01-01&g=2002-01-01), van een opgeviste milieugevaarlijke stof dient te geschieden aan het Kustwachtcentrum te IJmuiden. Dit centrum is bereikbaar via Scheveningen-Radio, VHF, kanaal 16 of Mf 2182 Khz, en voorts als volgt:
-
-- telefoonnummer: 02550-34344
-
-- telexnummer: 71088-KUSTW NL
-
-- telefaxnummer: 02550-23496
-
-- postadres: Postbus 303, 1970 AH IJmuiden.
+1. De melding, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01), van een opgeviste milieugevaarlijke stof wordt gedaan aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
 
 2. Bij de melding dient de volgende informatie te worden opgegeven:
 
@@ -97,7 +89,7 @@ Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt d
 
 - overige informatie die van belang kan zijn.
 
-3. Op basis van de bij melding verstrekte informatie zullen door of via het Kustwachtcentrum nadere aanwijzingenj gegeven worden over de te volgen handelwijze, zoals eventuele markering, berging, overgave en dergelijke.
+3. Op basis van de bij melding verstrekte informatie zullen door of via de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), nadere aanwijzingen gegeven worden over de te volgen handelwijze, zoals eventuele markering, berging, overgave en dergelijke.
 
 4. Aanmelding van een opgeviste stof wordt tevens beschouwd als een verzoek om toekenning van een premie, zodat geen aparte aanvraag behoeft te worden ingediend.
 
@@ -105,23 +97,23 @@ Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt d
 
 Uitbetaling geschiedt door tussenkomst van de Directie Noordzee van Rijkswaterstaat te Rijswijk.
 
-6. Voor toekenning van een extra vergoeding als genoemd in [artikel 2 onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2002-01-01&g=2002-01-01) van deze regeling dient door betrokkene een schriftelijk gemotiveerd verzoek te worden gericht aan de Directie Noordzee van Rijkswaterstaat, postbus 5807, 2280 HV Rijswijk.
+6. Voor toekenning van een extra vergoeding als genoemd in [artikel 2 onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01) van deze regeling dient door betrokkene een schriftelijk gemotiveerd verzoek te worden gericht aan de Directie Noordzee van Rijkswaterstaat, postbus 5807, 2280 HV Rijswijk.
 
 ##### Artikel 5. Informatie
 
-Vanaf 1 juli 1989 zal bij het Kustwachtcentrum en bij de in de Kustwacht samenwerkende diensten een nadere specificatie beschikbaar zijn van milieugevaarlijke stoffen die krachtens de in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2002-01-01&g=2002-01-01) genoemde IMDG-code voor premiëring in aanmerking komen.
+Vanaf 1 juli 1989 zal bij de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), en de op grond van [artikel 2 van de Regeling organisatie Kustwacht Nederland](onbekend), samenwerkende diensten een nadere specificatie beschikbaar zijn van milieugevaarlijke stoffen die krachtens de in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2019-07-01&g=2019-07-01) genoemde IMDG-code voor premiëring in aanmerking komen.
 
 ##### Artikel 6. Budget
 
-Voor toepassing van de regeling is een beperkt budget beschikbaar in de orde van f 200 000 voor de periode 1 september 1989 tot 1 januari 1990 en in de orde van € 136.134,00 per jaar voor 1990 en volgende jaren. Zodra in enig jaar het beschikbare budget is uitgeput zullen voor dat jaar geen rechten meer worden verkregen op de uitkering van een premie. Hiervan zal aan de visserijwereld zo spoedig mogelijk mededeling worden gedaan door een Bericht aan Zeevarenden en een Bekendmaking aan de Visserij, uit te geven door het Kustwachtcentrum.
+Voor toepassing van de regeling is een beperkt budget beschikbaar in de orde van f 200 000 voor de periode 1 september 1989 tot 1 januari 1990 en in de orde van € 136.134,00 per jaar voor 1990 en volgende jaren. Zodra in enig jaar het beschikbare budget is uitgeput zullen voor dat jaar geen rechten meer worden verkregen op de uitkering van een premie. Hiervan zal aan de visserijwereld zo spoedig mogelijk mededeling worden gedaan door een Bericht aan Zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
 
 ##### Artikel 7. Meldingen
 
-Meldingen van opgeviste stoffen zullen in volgorde van binnenkomst bij het Kustwachtcentrum in behandeling worden genomen.
+Meldingen van opgeviste stoffen zullen in volgorde van binnenkomst door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), in behandeling worden genomen.
 
 ##### Artikel 8
 
-De minister van Verkeer en Waterstaat kan van de voorwaarden gesteld in [artikel 1, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2002-01-01&g=2002-01-01), en [artikel 2, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2002-01-01&g=2002-01-01), afwijken mits het mariene milieu daarmee gediend is.
+De minister van Verkeer en Waterstaat kan van de voorwaarden gesteld in [artikel 1, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2019-07-01&g=2019-07-01), en [artikel 2, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01), afwijken mits het mariene milieu daarmee gediend is.
 
 ##### Artikel 9. Intrekking
 
