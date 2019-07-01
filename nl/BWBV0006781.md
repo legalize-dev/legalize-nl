@@ -4,7 +4,7 @@ identifier: "BWBV0006781"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-07-01"
-last_updated: "2018-12-12"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006781"
 soort: "verdrag"
@@ -53,7 +53,7 @@ Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing va
 
 ##### Artikel 4. Overgangsbepalingen
 
-1. Wanneer een persoon recht heeft op verstrekkingen op de dag voorafgaande aan de dag waarop dit Protocol uit hoofde van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006781&artikel=5&z=2018-12-12&g=2018-12-12), voorlopig wordt toegepast, of de dag voorafgaande aan de datum van inwerkingtreding van dit Protocol tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij, blijven de bepalingen van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), [het vijfde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14) en het [eerste lid van artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) zoals gelezen vóór wijziging van dit Protocol, van toepassing tot en met de datum waarop de geneeskundige behandeling tijdens dit verblijf eindigt, evenwel met een maximale duur van een jaar.
+1. Wanneer een persoon recht heeft op verstrekkingen op de dag voorafgaande aan de dag waarop dit Protocol uit hoofde van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006781&artikel=5&z=2019-07-01&g=2019-07-01), voorlopig wordt toegepast, of de dag voorafgaande aan de datum van inwerkingtreding van dit Protocol tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij, blijven de bepalingen van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), [het vijfde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14) en het [eerste lid van artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) zoals gelezen vóór wijziging van dit Protocol, van toepassing tot en met de datum waarop de geneeskundige behandeling tijdens dit verblijf eindigt, evenwel met een maximale duur van een jaar.
 
 2. De werkelijke bedragen van de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens het eerste lid, worden door de bevoegde organen vergoed aan de organen die bedoelde verstrekkingen hebben verleend en wel op grond van de boekhouding van de laatstgenoemde organen.
 
