@@ -4,7 +4,7 @@ identifier: "BWBR0009027"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2015-07-15"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009027"
 soort: "AMvB"
@@ -192,9 +192,11 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - e. het staand net.
 
-2. Het verbod geldt niet voor het vissen in de wateren van Walcheren, Schouwen-Duiveland, Tholen en Noord-Beveland, in het kanaal van Zuid-Beveland, in de Haven van Goes, in het Veerse Meer en het Grevelingenmeer en in de met die meren in open gemeenschap staande inhammen, kreken, spranken, killen en gaten.
+2. Het verbod, bedoeld in het eerste lid, geldt niet voor het vissen in de wateren van Walcheren, Schouwen-Duiveland, Tholen en Noord-Beveland, in het kanaal van Zuid-Beveland, in de Haven van Goes, in het Veerse Meer en het Grevelingenmeer en in de met die meren in open gemeenschap staande inhammen, kreken, spranken, killen en gaten.
 
-3. Onze Minister kan het vissen verbieden in een of meer door hem aan te wijzen wateren met één of meer door hem aan te wijzen vistuigen gedurende het gehele jaar dan wel gedurende een nader te bepalen gedeelte van het jaar. Daarbij kan worden afgeweken van het eerste lid.
+3. Het verbod, bedoeld in het eerste lid, onderdeel a, voor zover het kunstaas betreft, geldt niet voor het vissen in de Geul en haar zijbeken.
+
+4. Onze Minister kan het vissen verbieden in een of meer door hem aan te wijzen wateren met één of meer door hem aan te wijzen vistuigen gedurende het gehele jaar dan wel gedurende een nader te bepalen gedeelte van het jaar. Daarbij kan worden afgeweken van het eerste lid.
 
 ##### Artikel 7
 
@@ -220,13 +222,31 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 ##### Artikel 9
 
-Bij ministeriële regeling kan het vissen in daarbij aan te wijzen wateren binnen een daarbij te bepalen afstand van vispassages, stuwen, sluizen en gemalen worden verboden, waarbij kan worden bepaald dat het verbod slechts voor bij die regeling te bepalen vistuigen geldt.
+1. Bij ministeriële regeling kan het vissen bij vispassages, stuwen, sluizen of gemalen worden verboden.
+
+2. Bij de regeling, bedoeld in het eerste lid, wordt bepaald:
+
+- a. op welk water het verbod van toepassing is;
+
+- b. op welke vispassage, stuw, sluis of gemaal het verbod van toepassing is;
+
+- c. binnen welke afstand tot de vispassage, stuw, sluis of gemaal het verbod van toepassing is.
+
+3. Bij de regeling, bedoeld in het eerste lid, kan worden bepaald dat het verbod niet van toepassing is, indien aan bij die regeling te stellen voorwaarden wordt voldaan.
+
+4. De voorwaarden, bedoeld in het derde lid, kunnen betrekking hebben op:
+
+- a. de vistuigen waarmee wordt gevist;
+
+- b. de periode waarin wordt gevist;
+
+- c. het terugzetten van gevangen vis.
 
 ##### Artikel 10
 
 1. Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien:
 
-- a. het gebruik daarvan in het betrokken water bij of krachtens de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2015-07-15&g=2015-07-15) verboden is;
+- a. het gebruik daarvan in het betrokken water bij of krachtens de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2019-07-01&g=2019-07-01) verboden is;
 
 - b. men niet bevoegd is daarmee te vissen;
 
@@ -288,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2015-07-15&g=2015-07-15), tenzij dat vissen plaatsvindt in het IJsselmeer.
+1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2019-07-01&g=2019-07-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
 
 2. Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.
 
