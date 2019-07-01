@@ -4,7 +4,7 @@ identifier: "BWBR0033729"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033729"
 soort: "wet"
@@ -45,67 +45,117 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
-### Hoofdstuk 1. Begripsbepalingen
+### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- –. **aansluiting:** een individuele of centrale aansluiting;
 
-- b. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- –. **afleverset voor warmte:** installatie waarmee ten behoeve van warmtelevering aan een verbruiker energieoverdracht plaatsvindt tussen een warmtenet en een binneninstallatie of een inpandig leidingstelsel;
 
-- c. **warmtenet:** het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat gebouw of werk;
+- –. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- d. **warmte:** warm water of tapwater bestemd voor ruimteverwarming, sanitaire doeleinden en huishoudelijk gebruik;
+- –. **bindende gedragslijn:** een zelfstandige last die niet wegens een overtreding wordt opgelegd;
 
-- e. **levering van warmte:** de aflevering van warmte aan verbruikers;
+- –. **binneninstallatie:** leidingen, installaties en hulpmiddelen, niet zijnde de afleverset voor warmte of de meetinrichting, die zijn gelegen in een onroerende zaak als bedoeld in [artikel 16, onderdelen a en c tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) van een verbruiker en bestemd voor toe- en afvoer van warmte ten behoeve van die onroerende zaak, met uitzondering van leidingen, installaties en hulpmiddelen die strekken tot doorlevering van warmte naar een andere onroerende zaak, waarbij de binneninstallatie aan de zijde van het warmtenet of het inpandig leidingstelsel is afgegrensd door:
 
-- f. **ontwikkelaar:** een persoon die een bouwproject ontwikkelt in een gebied waar de gebouwverwarming door middel van een warmtenet verzorgd wordt of zal worden;
+- i. de hoofdafsluiters waar de individuele afleverset gekoppeld is aan het warmtenet of het inpandig leidingstelsel, of
 
-- g. **verbruiker:** een persoon die warmte afneemt van een warmtenet en een aansluiting heeft van maximaal 100 kilowatt;
+- ii. indien er geen hoofdafsluiters aanwezig zijn, een in de warmteleveringsovereenkomst overeen te komen fysiek aanwijsbaar punt;
 
-- h. **leverancier:** een persoon die zich bezighoudt met de levering van warmte;
+- –. **centrale aansluiting:** leidingen bestemd voor het transport van warmte bestemd voor verbruikers aangesloten op het inpandig leidingstelsel, gelegen tussen het warmtenet en het inpandig leidingstelsel, waarbij de centrale aansluiting:
 
-- i. **producent:** een persoon die zich bezighoudt met de productie van warmte;
+- i. aan de zijde van het inpandig leidingstelsel is afgegrensd door:
 
-- j. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-01-01&g=2019-01-01);
+- –. de hoofdafsluiters waaraan de collectieve afleverset voor warmte of het inpandig leidingstelsel gekoppeld is, of
 
-- k. **representatieve organisatie:** een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;
+- –. indien er geen hoofdafsluiters aanwezig zijn, een in de warmteleveringsovereenkomst overeen te komen fysiek aanwijsbaar punt, en
 
-- l. **verhuurder:** een toegelaten instelling als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;
+- ii. aan de zijde van het warmtenet is afgegrensd door:
 
-- m. **hernieuwbare energiebronnen:** hernieuwbare energiebronnen als bedoeld in artikel 2 van de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU 2009, L 140);
+- –. de aftakking van het warmtenet, waarna de leidingen en daaraan verbonden hulpmiddelen bestemd zijn voor het transport van warmte naar het inpandig leidingstelsel, of
 
-- n. **warmte uit hernieuwbare energiebronnen:** warmte die is opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen of is opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook gebruik maakt van fossiele energiebronnen;
+- –. indien er geen aftakking aanwezig is, een in de warmteleveringsovereenkomst overeen te komen fysiek aanwijsbaar punt.
 
-- o. **garantie van oorsprong voor warmte uit hernieuwbare energiebronnen:** gegevens op een rekening die betrekking hebben warmte uit hernieuwbare energiebronnen en waarmee wordt aangetoond dat een producent met zijn installatie een hoeveelheid warmte uit hernieuwbare energiebronnen heeft opgewekt;
+- –. **collectieve afleverset voor warmte:** een afleverset voor warmte waarmee ten behoeve van warmtelevering aan verbruikers energieoverdracht plaatsvindt tussen een warmtenet en een inpandig leidingstelsel;
 
-- p. **meetbedrijf:** een organisatorische eenheid die zich bezig houdt met het collecteren, valideren en vaststellen van productiemeetgegevens betreffende warmte;
+- –. **garantie van oorsprong voor warmte uit hernieuwbare energiebronnen:** gegevens op een rekening die betrekking hebben op warmte uit hernieuwbare energiebronnen en waarmee wordt aangetoond dat een producent met zijn installatie een hoeveelheid warmte uit hernieuwbare energiebronnen heeft opgewekt;
 
-- q. **productiemeetgegevens:** de gegevens betreffende de hoeveelheid warmte uit hernieuwbare energiebronnen die door een producent wordt ingevoed op een warmtenet;
+- –. **gebouweigenaar:** de eigenaar van een gebouw of, in het geval van gedeeld eigendom, de eigenaars verenigd in een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm;
 
-- r. **bindende gedragslijn:** een zelfstandige last die niet wegens een overtreding wordt opgelegd;
+- –. **hernieuwbare energiebronnen:** hernieuwbare energiebronnen als bedoeld in artikel 2 van de [richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (Pb EU 2009, L 140);
 
-- s. **zelfstandige last:** de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
+- –. **individuele aansluiting:** één of meer leidingen en daarmee verbonden hulpmiddelen bestemd voor transport van warmte tussen een binneninstallatie van een individuele verbruiker en een warmtenet of een inpandig leidingstelsel, waarbij de individuele aansluiting:
+
+- i. aan de zijde van de binneninstallatie is afgegrensd door:
+
+- –. de hoofdafsluiters waaraan de individuele afleverset voor warmte of de binneninstallatie gekoppeld is, of
+
+- –. indien er geen hoofdafsluiters aanwezig zijn, een of meerdere in de warmteleveringsovereenkomst overeen te komen fysiek aanwijsbare punten, en
+
+- ii. aan de zijde van het warmtenet of het inpandig leidingstelsel is afgegrensd door:
+
+- –. de aftakking van het warmtenet of het inpandig leidingstelsel, waarna de leidingen en daaraan verbonden hulpmiddelen bestemd zijn voor de warmtelevering aan de individuele verbruiker, of
+
+- –. indien er geen aftakking aanwezig is, een in de warmteleveringsovereenkomst overeen te komen fysiek aanwijsbaar punt.
+
+- –. **individuele afleverset voor warmte:** afleverset voor warmte waarmee ten behoeve van warmtelevering aan een verbruiker energieoverdracht plaatsvindt tussen een warmtenet en een binneninstallatie;
+
+- –. **inpandig leidingstelsel:** één of meer van een gebouw deel uitmakende leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van warmte tussen een centrale aansluiting van een gebouw op een warmtenet of een productie-installatie en de individuele aansluiting van een onroerende zaak als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16);
+
+- –. **meetbedrijf:** een organisatorische eenheid die zich bezig houdt met het collecteren, valideren en vaststellen van meetgegevens betreffende warmte;
+
+- –. **leverancier:** een persoon die zich bezighoudt met de levering van warmte;
+
+- –. **levering van warmte:** de aflevering van warmte aan verbruikers;
+
+- –. **netbeheerder:** degene die een warmtenet beheert;
+
+- –. **Onze Minister:** Onze Minister van Economische Zaken;
+
+- –. **producent:** een persoon die zich bezighoudt met de productie van warmte;
+
+- –. **representatieve organisatie:** een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;
+
+- –. **verbruiker:** een persoon die warmte afneemt van een warmtenet en een aansluiting heeft van maximaal 100 kilowatt;
+
+- –. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01);
+
+- –. **verhuurder:** een eigenaar van een voor verhuur bestemde woonruimte of bedrijfsruimte in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;
+
+- –. **warmte:** thermische energie die ten behoeve van ruimteverwarming of verwarming van tapwater wordt geleverd door middel van transport van water;
+
+- –. **warmtenet:** het geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van warmte, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een inpandig leidingstelsel, een binneninstallatie of een gebouw of werk van een producent en strekken tot toe- of afvoer van warmte ten behoeve van dat inpandig leidingstelsel, die binneninstallatie of dat gebouw of werk van een producent;
+
+- –. **warmte uit hernieuwbare energiebronnen:** warmte die is opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen of is opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook gebruik maakt van fossiele energiebronnen;
+
+- –. **zelfstandige last:** de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
+
+2. Bij algemene maatregel van bestuur kunnen soorten installaties worden aangewezen die niet worden aangemerkt als een «afleverset voor warmte».
 
 ### Hoofdstuk 2. Levering van warmte
 
-#### § 2.1. Algemene bepalingen ten aanzien van de levering van warmte
+#### § 1.2. Reikwijdte
 
 ##### Artikel 2
 
 1. Een leverancier draagt zorg voor een betrouwbare levering van warmte tegen redelijke voorwaarden en met inachtneming van een goede kwaliteit van dienstverlening.
 
-2. Een leverancier verstrekt de verbruikers aangesloten op zijn warmtenet ten minste eenmaal per jaar een volledige en voldoende gespecificeerde nota met betrekking tot de door hem geleverde diensten.
+2. Een leverancier verstrekt de verbruikers:
+
+- a. ten minste eenmaal per jaar een volledige en voldoende gespecificeerde nota met betrekking tot de door hem geleverde diensten, en
+
+- b. een volledige en voldoende gespecificeerde nota na beëindiging van de leveringsovereenkomst.
 
 3. Ten aanzien van de levering van warmte brengt de leverancier ten hoogste in rekening:
 
-- a. de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-01-01&g=2019-01-01),
+- a. de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01),
 
-- b. de redelijke kosten voor het ter beschikking stellen van de warmtewisselaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-01-01&g=2019-01-01), en
+- b. de redelijke kosten voor het ter beschikking stellen van de warmtewisselaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), en
 
-- c. het tarief voor de meting van het warmteverbruik, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-01-01&g=2019-01-01).
+- c. het tarief voor de meting van het warmteverbruik, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01).
 
 4. Een leverancier onthoudt zich van iedere vorm van ongerechtvaardigd onderscheid jegens zijn verbruikers.
 
@@ -119,21 +169,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Een overeenkomst tot levering van warmte wordt op schrift gesteld en bevat in ieder geval de volgende gegevens:
+1. Een in Nederland gevestigde leverancier verstrekt een verbruiker, in aanvulling op de gegevens bedoeld in [artikel 230m, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230m), voordat de verbruiker gebonden is aan een overeenkomst tot levering van warmte op duidelijke en begrijpelijke wijze de volgende informatie:
 
-- a. de personalia en het adres van de leverancier;
+- a. een duidelijke en volledige omschrijving van de te leveren goederen en diensten en de overeengekomen kwaliteitsniveaus daarvan, welke in ieder geval betrekking hebben op de minimum- en maximumtemperatuur van de te leveren warmte, alsmede de prijzen en voorwaarden waaronder deze goederen en diensten worden geleverd;
 
-- b. een duidelijke en volledige omschrijving van de te leveren goederen en diensten en de overeengekomen kwaliteitsniveaus daarvan, welke in ieder geval betrekking hebben op de minimum- en maximumtemperatuur van de te leveren warmte, alsmede de prijzen en voorwaarden waaronder deze goederen en diensten worden geleverd;
+- b. een omschrijving van de terugbetalingsregelingen als de geleverde goederen en diensten niet aan de overeengekomen kwaliteitsniveaus voldoen, en
 
-- c. de voorwaarden voor opschorting of beëindiging van de overeenkomst;
+- c. de eisen waar de binneninstallatie van een verbruiker aan moet voldoen om veilig gebruik te kunnen maken van de door de leverancier geleverde warmte.
 
-- d. een omschrijving van de toepasselijke vergoedingen, waaronder de uitkering van compensatie bij een ernstige storing in de levering van warmte, en terugbetalingsregelingen als de geleverde goederen en diensten niet aan de overeengekomen kwaliteitsniveaus voldoen.
+2. [Artikel 230m, eerste lid, van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230m) is van overeenkomstige toepassing op een overeenkomst tot levering van warmte tussen een leverancier een verbruiker die handelt in de uitoefening van een beroep of bedrijf.
 
-2. In een overeenkomst wordt in ieder geval bepaald dat, onverminderd de bevoegdheid van de burgerlijke rechter, verbruikers geschillen die voortvloeien uit de desbetreffende overeenkomst kunnen voorleggen aan een onafhankelijke geschillencommissie. De geschillenprocedure dient snel, transparant, eenvoudig en goedkoop te zijn. De overeenkomst vermeldt de wijze waarop geschillenprocedures aanhangig kunnen worden gemaakt.
-
-3. Op een overeenkomst tot levering van warmte is Nederlands recht van toepassing. Elk andersluidend beding is nietig.
-
-4. Bij ministeriële regeling wordt de hoogte vastgesteld van de compensatie bij een ernstige storing in de levering van warmte, bedoeld in het eerste lid, onder d, die voor storingen van verschillende tijdsduur verschillend kan worden vastgesteld.
+3. [Artikel 230v van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230v) is van overeenkomstige toepassing op de informatieverplichtingen voor leveranciers bedoeld in het eerste en het tweede lid.
 
 ##### Artikel 4
 
@@ -205,25 +251,31 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8a
 
-1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-01-01&g=2019-01-01), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-01-01&g=2019-01-01), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
+1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
 
-2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-01-01&g=2019-01-01), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
+2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
 
 3. De kostenverdeelsystematiek, bedoeld in het tweede lid, gaat uit van een binnen de technische en financiële mogelijkheden zo nauwkeurig mogelijke benadering van het werkelijke aandeel van het verbruik van de individuele verbruiker.
 
 4. In afwijking van het derde lid kunnen als onderdeel van de kostenverdeelsystematiek kosten van verbruik in het gemeenschappelijk belang en redelijke kosten voor uitvoering van de kostenverdeelsystematiek zelf aan individuele verbruikers worden toegerekend.
 
-5. De warmtekostenverdelers en andere technische voorzieningen voor benadering, meting of registratie van het aandeel van de individuele verbruiker in het totale verbruik, worden aan de hand van daarvoor gangbare technische normen geïnstalleerd en toegepast.
+5. Indien een onroerende zaak, die is gebouwd voor inwerkingtreding van dit lid, bestaat uit meerdere woon -of bedrijfsruimten kan de leverancier het individueel warmtegebruik van de verbruiker, zoals gemeten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01) of [artikel 8a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2019-07-01&g=2019-07-01), corrigeren aan de hand van correctiefactoren die door de leverancier zijn vastgesteld met inachtname van de daarvoor gangbare technische normen voor:
 
-6. Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier éénmalig door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige onderzoek uitvoeren naar de mate waarin de kostenverdeelsystematiek voor die verbruiker of verbruikers, voldoet aan het eerste tot en met vierde lid. De helft van de kosten van dit onderzoek komt voor rekening van de leverancier.
+- a. de ligging van woonruimten, en
 
-7. Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier de werking van de warmtekostenverdelers controleren door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige. De toedeling van de kosten van dit onderzoek tussen verbruikers en leverancier vindt plaats op basis van de conclusie van het onderzoek.
+- b. leidingverliezen voor transportleidingen.
 
-8. Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Autoriteit Consument en Markt worden gevraagd om deze aan te wijzen.
+6. De warmtekostenverdelers en andere technische voorzieningen voor benadering, meting of registratie van het aandeel van de individuele verbruiker in het totale verbruik, worden aan de hand van daarvoor gangbare technische normen geïnstalleerd en toegepast.
 
-9. De leverancier verleent aan het onderzoek de nodige medewerking.
+7. Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier éénmalig door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige onderzoek uitvoeren naar de mate waarin de kostenverdeelsystematiek voor die verbruiker of verbruikers, voldoet aan het eerste tot en met vierde lid. De helft van de kosten van dit onderzoek komt voor rekening van de leverancier.
 
-10. Indien bestaande technische voorzieningen als bedoeld in het vijfde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.
+8. Op daartoe strekkend verzoek van één of meer verbruikers laat de leverancier de werking van de warmtekostenverdelers controleren door een onafhankelijke, voor zowel verbruiker als leverancier aanvaardbare deskundige. De toedeling van de kosten van dit onderzoek tussen verbruikers en leverancier vindt plaats op basis van de conclusie van het onderzoek.
+
+9. Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Autoriteit Consument en Markt worden gevraagd om deze aan te wijzen.
+
+10. De leverancier verleent aan het onderzoek de nodige medewerking.
+
+11. Indien bestaande technische voorzieningen als bedoeld in het zesde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.
 
 #### § 2.2. Bijzondere bepalingen ten aanzien van vergunninghouders
 
@@ -265,7 +317,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de vergunninghouder de aan de vergunning verbonden voorschriften of opgelegde beperkingen niet nakomt;
 
-- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2019-01-01&g=2019-01-01), niet treft;
+- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2019-07-01&g=2019-07-01), niet treft;
 
 - d. de vergunninghouder bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;
 
@@ -287,7 +339,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De vergunninghouder publiceert een jaarrekening en een jaarverslag. Het jaarverslag bevat betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over de door de vergunninghouder bij verbruikers in rekening gebrachte prijs en omtrent de integrale kosten en opbrengsten die verband houden met de levering van warmte. De in het jaarverslag opgenomen informatie is voorzien van een accountantsverklaring.
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-01-01&g=2019-01-01).
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01).
 
 #### § 2.3. Noodvoorziening
 
@@ -311,7 +363,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Onze Minister kan een of meer vergunninghouders aanwijzen als noodleverancier om warmte te leveren aan door hem nader aangeduide verbruikers.
 
-2. De noodleverancier krijgt het beheer over het warmtenet en verricht correctieve onderhoudswerkzaamheden.
+2. Indien de leverancier tevens netbeheerder is, krijgt de noodleverancier het beheer over het warmtenet en verricht correctieve onderhoudswerkzaamheden.
 
 3. Onze Minister kan voorwaarden en beperkingen verbinden aan de aanwijzing, bedoeld in het eerste lid, en stelt bij de aanwijzing een redelijke vergoeding vast voor de uitvoering van de opgedragen taak.
 
@@ -347,7 +399,7 @@ Vervallen
 
 ##### Artikel 15
 
-De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet.
+De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet, met uitzondering van [artikel 3d, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3d&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 16
 
@@ -361,29 +413,45 @@ De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verban
 
 1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen.
 
-2. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-01-01&g=2019-01-01), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-01-01&g=2019-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2019-01-01&g=2019-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2019-01-01&g=2019-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2019-01-01&g=2019-01-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
+2. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2019-07-01&g=2019-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2019-07-01&g=2019-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2019-07-01&g=2019-07-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
 
 3. De bestuurlijke boete die ingevolge het tweede lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
 ##### Artikel 19
 
-1. De Autoriteit Consument en Markt stelt een handhavingsplan op. Het plan beschrijft de procedure en de wijze waarop de Autoriteit Consument en Markt haar in deze wet toegekende handhavingsbevoegdheden toepast. Het handhavingsplan gaat uit van een hoog niveau van bescherming van verbruikers.
-
-2. Het handhavingsplan behoeft goedkeuring van Onze Minister.
-
-3. Het besluit tot goedkeuring wordt bekendgemaakt in de Staatscourant.
+Vervallen
 
 ### Hoofdstuk 5. Bijdragen
 
 ##### Artikel 20
 
-1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-01-01&g=2019-01-01), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
+1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-07-01&g=2019-07-01), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
 
 2. Het verschuldigde bedrag kan worden ingevorderd bij dwangbevel.
 
 ##### Artikel 21
 
-Vervallen
+1. Een netbeheerder en een leverancier die van diens warmtenet gebruik maakt treden op verzoek van een producent in overleg met die producent over toegang tot het warmtenet ten behoeve van transport van warmte.
+
+2. Na ontvangst van een verzoek geeft de netbeheerder de verzoeker inzicht in:
+
+- a. de beschikbare transportcapaciteit op het net;
+
+- b. in voorkomend geval de tarieven die worden gehanteerd voor het transport van de warmte;
+
+- c. technische kenmerken van het net, waaronder de druk en het debiet, en
+
+- d. transportprofiel dat inzicht geeft in de benodigde transportcapaciteit op verschillende momenten.
+
+3. Na ontvangst van een verzoek geeft de leverancier de verzoeker inzicht in:
+
+- a. het afnameprofiel en de jaarlijkse afname op het betreffende warmtenet, en
+
+- b. de vraag naar warmte en de hoeveelheid daarvan waarvoor productiecapaciteit beschikbaar is.
+
+4. Een netbeheerder doet een verzoeker als bedoeld in het eerste lid uit eigener beweging of op diens verzoek een deugdelijk gemotiveerde schriftelijke beslissing toekomen over het verlenen van toegang tot het warmtenet.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de eisen waaraan een verzoek als bedoeld in het eerste lid ten minste moet voldoen, de termijn waarbinnen de informatie, bedoeld in het tweede en derde lid, moet zijn verschaft en de termijn waarbinnen het overleg, bedoeld in het eerste lid, wordt gestart.
 
 ### Hoofdstuk 6. Geschillenbeslechting
 
@@ -391,7 +459,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk 7. Beroep
+### Hoofdstuk 4. Handhaving
 
 ##### Artikel 23
 
@@ -399,7 +467,7 @@ Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluite
 
 ##### Artikel 24
 
-1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-01-01&g=2019-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2019-01-01&g=2019-01-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-01-01&g=2019-01-01) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
+1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2019-07-01&g=2019-07-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
 
 2. Op verzoek van een representatieve organisatie kan het College van Beroep voor het bedrijfsleven bevelen dat een inbreuk door de leverancier die de inbreuk maakt wordt gestaakt.
 
@@ -423,7 +491,7 @@ Vervallen
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2019-01-01&g=2019-01-01), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2019-07-01&g=2019-07-01), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 46
 
@@ -499,9 +567,9 @@ Een leverancier meldt zo spoedig mogelijk na inwerkingtreding van deze wet aan d
 
 ##### Artikel 42
 
-1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-01-01&g=2019-01-01) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-01-01&g=2019-01-01).
+1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-07-01&g=2019-07-01).
 
-2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2019-01-01&g=2019-01-01).
+2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2019-07-01&g=2019-07-01).
 
 ##### Artikel 43
 
@@ -531,13 +599,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor warmte uit hernieuwbare energiebronnen.
 
-2. Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening voor warmte uit hernieuwbare bronnen. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-01-01&g=2019-01-01).
+2. Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening voor warmte uit hernieuwbare bronnen. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01).
 
 3. Onze Minister boekt op aanvraag garanties van oorsprong voor warmte uit hernieuwbare energiebronnen op een daarbij aangegeven rekening voor hernieuwbare bronnen, indien een Nederland gevestigde producent bij deze aanvraag de productiemeetgegevens overlegt.
 
 ##### Artikel 26
 
-Onze Minister kan de taken, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=25&z=2019-01-01&g=2019-01-01), mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren.
+Onze Minister kan de taken, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=25&z=2019-07-01&g=2019-07-01), mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren.
 
 ##### Artikel 27
 
@@ -561,7 +629,7 @@ Een garantie van oorsprong voor warmte uit hernieuwbare energiebronnen toont bij
 
 - d. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong voor warmte uit hernieuwbare energiebronnen of deze kunnen verhandelen;
 
-- e. de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-01-01&g=2019-01-01).
+- e. de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01).
 
 ### Hoofdstuk 9. Wijziging van andere wetten
 
@@ -583,9 +651,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - e. het op verzoek van een afnemer toesturen van facturen, factureringsinformatie en energiekostenramingen, eventueel langs elektronische weg,
 
-- f. de kosten van toegang tot meetgegevens en van facturatie en
+- f. de kosten van toegang tot meetgegevens en van facturatie;
 
-- g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken.
+- g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken en
+
+- h. de termijn waarbinnen een nota als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), wordt verstrekt.
 
 #### § 2.2. Bijzondere bepalingen ten aanzien van vergunninghouders
 
@@ -611,6 +681,132 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 42a
 
+[Artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3c&z=2019-07-01&g=2019-07-01) is niet van toepassing op een overeenkomst die is gesloten is voor inwerkingtreding van dat artikel.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1.1. Begripsbepalingen
+
+##### Artikel 1a
+
+1. Deze wet is van toepassing op levering van warmte aan verbruikers, met uitzondering van levering van warmte door een leverancier die:
+
+- a. tevens optreedt als verhuurder voor de verbruiker aan wie hij warmte levert ten behoeve van de door hem aan de verbruiker verhuurde woon- of bedrijfsruimte;
+
+- b. tevens de vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm is waarbij:
+
+- i. de verbruiker aan wie warmte geleverd wordt als lid is aangesloten, of
+
+- ii. een verhuurder als bedoeld in onderdeel a als lid is aangesloten, of
+
+- c. tevens een vereniging van eigenaars is waarbij meerdere verenigingen van eigenaars of daarmee vergelijkbare rechtsvormen als bedoeld in onderdeel b zijn aangesloten
+
+2. In afwijking van het eerste lid zijn de [artikelen 8, tweede tot en met vierde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2019-07-01&g=2019-07-01) van toepassing op leveranciers als bedoeld in het eerste lid.
+
+#### § 1.3. Experimenten
+
+### Hoofdstuk 2. Levering van warmte
+
+#### § 2.1. Algemene bepalingen ten aanzien van de levering van warmte
+
+##### Artikel 3a
+
+1. De leverancier keert aan een verbruiker een compensatie uit bij een ernstige storing in de levering van warmte waarvan de oorzaak gelegen is in:
+
+- a. het warmtenet van de leverancier of de netbeheerder;
+
+- b. de afleverset voor warmte, indien deze het eigendom is van de leverancier;
+
+- c. de aansluiting, of
+
+- d. het inpandig leidingstelsel van de gebouweigenaar.
+
+2. De leverancier is niet verplicht tot het uitkeren van een compensatie als bedoeld in het eerste lid, indien de storing, bedoeld in dat lid:
+
+- a. het gevolg is van een extreme situatie die niet aan de leverancier of netbeheerder kan worden toegerekend, of
+
+- b. minder dan 24 uur duurt en in een periode van 12 maanden voorafgaand aan de storing zich geen storingen hebben voorgedaan in:
+
+- i. hetzelfde warmtenet van de leverancier of de netbeheerder,
+
+- ii. dezelfde afleverset voor warmte, indien deze het eigendom is van de leverancier;
+
+- iii. dezelfde aansluiting, of
+
+- iv. hetzelfde inpandig leidingstelsel van de gebouweigenaar.
+
+3. Bij ministeriële regeling worden regels gesteld over:
+
+- a. het bestaan van een ernstige storing als bedoeld in het eerste lid;
+
+- b. de hoogte van de compensatie bij een ernstige storing in de levering van warmte als bedoeld in het eerste lid, die voor storingen van verschillende tijdsduur verschillend kan worden vastgesteld;
+
+- c. het moment van aanvang en beëindiging van de verplichting tot het betalen van compensatie bij een ernstige storing in de levering van warmte als bedoeld in het eerste lid, en
+
+- d. het bestaan van een extreme situatie die niet aan de leverancier of verbruiker kan worden toegerekend als bedoeld in het tweede lid, onderdeel a.
+
+##### Artikel 3b
+
+1. Verbruikers kunnen geschillen die voortvloeien uit een overeenkomst tot levering van warmte, onverminderd de bevoegdheid van de burgerlijke rechter, voorleggen aan een onafhankelijke geschillencommissie.
+
+2. De procedure bij de geschillencommissie, bedoeld in het eerste lid, dient snel, transparant, eenvoudig en goedkoop te zijn.
+
+##### Artikel 3c
+
+1. Een overeenkomst tot levering van warmte kan door een verbruiker door middel van een opzegging worden ontbonden.
+
+2. Aan een opzegging hoeft door de leverancier geen gevolg te worden gegeven in gevallen waarin:
+
+- a. het technisch niet mogelijk is de levering van warmte aan die verbruiker geheel te beëindigen, of
+
+- b. beëindiging van de levering leidt tot aanzienlijk blijvend nadeel voor een andere verbruiker.
+
+3. Een leverancier reageert schriftelijk op een opzegging als bedoeld in het eerste lid, en motiveert daarin in voorkomend geval waarom de beëindiging niet kan plaatsvinden.
+
+##### Artikel 3d
+
+1. Een gebouweigenaar die eigenaar is van een inpandig leidingstelsel dat wordt gebruikt voor het leveren van warmte aan verbruikers is verplicht:
+
+- a. het inpandig leidingstelsel en de individuele aansluiting van de verbruiker op het inpandig leidingstelsel zodanig te onderhouden dat betrouwbare levering van warmte gewaarborgd is, tenzij de gebouweigenaar en de leverancier hierover andere afspraken maken, en
+
+- b. medewerking te verlenen aan het verzoek van een leverancier om een verbruiker die is aangesloten op zijn inpandig leidingstelsel af te sluiten van het inpandig leidingstelsel door:
+
+- i. zorg te dragen voor de afsluiting van de verbruiker van het inpandig leidingstelsel, of
+
+- ii. de leverancier toestemming te geven zorg te dragen voor de afsluiting van de verbruiker van het inpandig leidingstelsel.
+
+2. Wanneer zich een storing als bedoeld in [artikel 3a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2019-07-01&g=2019-07-01), voordoet in het inpandig leidingstelsel van de gebouweigenaar:
+
+- a. ontvangt de verbruiker een compensatie als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2019-07-01&g=2019-07-01), van de leverancier, en
+
+- b. vergoedt de gebouweigenaar de leverancier de kosten van de op grond van onderdeel a aan de verbruiker betaalde compensatie, tenzij de gebouweigenaar en de leverancier op grond van het eerste lid, onderdeel a, afspraken hebben gemaakt over het onderhoud van het inpandig leidingstelsel en de individuele aansluiting van de verbruiker daarop die tot gevolg hebben dat de leverancier verantwoordelijk is voor het onderhoud van het inpandig leidingstelsel en de individuele aansluiting van de verbruiker daarop.
+
+##### Artikel 4a
+
 Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5a
+
+1. In afwijking van [artikel 2, derde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), kunnen een leverancier en een verbruiker overeenkomen dat aan de verbruiker een prijs in rekening wordt gebracht voor de levering van warmte die afwijkt van de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01), indien de leverancier de verbruiker aantoonbaar een aanbod voor levering van warmte heeft gedaan dat in ieder geval de mogelijkheid bevat om warmte geleverd te krijgen tegen ten hoogste de maximumprijs, bedoeld in artikel 5, eerste lid.
+
+2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld waaraan het aanbod, bedoeld in het eerste lid, moet voldoen.
+
+#### § 2.2. Bijzondere bepalingen ten aanzien van vergunninghouders
+
+#### § 2.3. Noodvoorziening
+
+### Hoofdstuk 3. Informatieverstrekking
+
+### Hoofdstuk 5. Bijdragen
+
+### Hoofdstuk 6. Overleg over toegang voor producenten tot warmtenetten
+
+### Hoofdstuk 7. Beroep
+
+### Hoofdstuk 8. Garanties van oorsprong
+
+### Hoofdstuk 9. Wijziging van andere wetten
+
+### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
