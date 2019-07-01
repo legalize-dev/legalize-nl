@@ -4,7 +4,7 @@ identifier: "BWBV0005625"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-07-01"
-last_updated: "1997-04-01"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005625"
 soort: "verdrag"
@@ -46,11 +46,11 @@ Voor de toepassing van dit Akkoord worden als „verbindingsorganen” aangeweze
 
 - 1. van Nederlandse zijde:
 
-- a). voor de verstrekkingen in geval van ziekte en moederschap: de Ziekenfondsraad te Amstelveen;
+- a). voor de verstrekkingen in geval van ziekte en moederschap: het Zorginstituut te Diemen of zijn rechtsopvolger;
 
-- b). voor de ouderdomspensioenen en pensioenen aan nagelaten betrekkingen, alsmede voor de kinderbijslagen: de Sociale Verzekeringsbank te Amstelveen;
+- b). voor de ouderdomspensioenen en pensioenen aan nagelaten betrekkingen, alsmede voor de kinderbijslagen: de Sociale Verzekeringsbank te Amstelveen of zijn rechtsopvolger;
 
-- c). in alle overige gevallen: het Gemeenschappelijk Administratiekantoor te Amsterdam.
+- c). in alle overige gevallen: het UWV, Uitvoeringsinstituut werknemersverzekeringen, te Amsterdam of zijn rechtsopvolger.
 
 - 2. van Kaapverdische zijde: Instituto Nacional da Previdência Social (nationaal instituut voor sociale voorzieningen).
 
@@ -60,7 +60,7 @@ Voor de toepassing van dit Akkoord worden als „verbindingsorganen” aangeweze
 
 2. Dit bewijsstuk wordt opgemaakt:
 
-- -. in Nederland: door de Sociale Verzekeringsraad te Zoetermeer;
+- -. in Nederland: door de Sociale Verzekeringsbank te Amstelveen;
 
 - -. in Kaapverdië: door de Direcçåo Geral do Trabalho e Emprego (Directoraat-Generaal Arbeid en Werkgelegenheid).
 
@@ -72,7 +72,7 @@ Voor de toepassing van dit Akkoord worden als „verbindingsorganen” aangeweze
 
 2. Voor de toepassing van het vorige lid wordt aangewezen:
 
-- -. in Nederland: de Sociale Verzekeringsraad;
+- -. in Nederland: de Sociale Verzekeringsbank;
 
 - -. in Kaapverdië: de Direcção do Trabalho (Directoraat van de Arbeid).
 
@@ -84,15 +84,31 @@ Voor de toepassing van dit Akkoord worden als „verbindingsorganen” aangeweze
 
 ##### Artikel 5
 
-Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” en „orgaan van de verblijfplaats” verstaan:
+1. Voor de toepassing van dit hoofdstuk wordt onder de begripsomschrijving „orgaan van de woonplaats” verstaan:
 
 - a). in Nederland:
 
-- -. wat de verstrekkingen betreft: het voor de woonplaats bevoegde ziekenfonds en bij tijdelijk verblijf het ANOZ Gooi Apeldoorn Groep te Utrecht;
+- –. wat de verstrekkingen voor de woonplaats betreft: een door de minister van Volksgezondheid, Welzijn en Sport aan te wijzen zorgverzekeraar;
 
-- -. wat de uitkeringen betreft: de Nieuwe Algemene Bedrijfsvereniging te Amsterdam.
+- –. wat de uitkeringen betreft: het UWV, Uitvoeringsinstituut werknemersverzekeringen, te Amsterdam.”
 
-- b). in Kaapverdië: Instituto Nacional da Previdência Social (nationaal instituut voor sociale voorzieningen).
+- b). in Kaapverdië:
+
+- –. Instituto Nacional da Previdência Social (nationaal instituut voor sociale voorzieningen).
+
+2. Voor de toepassing van dit hoofdstuk wordt onder de begripsomschrijvingen „bevoegd orgaan” en „bevoegd orgaan voor toekenning van de zorgtoeslag” verstaan;
+
+in Nederland:
+
+- –. voor de zorgverzekering: voor werknemers: de zorgverzekeraar en voor de personen die in Kaapverdië wonen en ten laste van Nederland recht hebben op gezondheidszorg in de Republiek Kaapverdië: het Zorginstituut;
+
+- –. voor de toekenning van de zorgtoeslag: Belastingdienst/Toeslagen te Utrecht of zijn rechtsopvolger.
+
+3. Voor de toepassing van dit hoofdstuk wordt onder de begripsomschrijving „orgaan van de verblijfplaats” verstaan:
+
+- a). in Nederland, wat uitkeringen betreft: het UWV, Uitvoeringsinstituut werknemersverzekeringen, te Amsterdam;
+
+- b). in Kaapverdië: het Instituto Nacional da Previdência Social (nationaal instituut voor sociale voorzieningen).
 
 ##### Artikel 6
 
@@ -100,7 +116,7 @@ Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” 
 
 2. De verklaring wordt op verzoek van de werknemer verstrekt:
 
-- a). wat de in Nederland vervulde tijdvakken betreft, door de bedrijfsvereniging waarbij zijn laatste werkgever in Nederland is aangesloten. Indien de werknemer echter alleen ter zake van verstrekkingen verzekerd was, wordt de verklaring verstrekt door het ziekenfonds waarbij hij laatstelijk verzekerd was;
+- a). wat de in Nederland vervulde tijdvakken betreft, door de bedrijfsvereniging1)Kennelijk dient hier gelezen te worden: het UWV, Uitvoeringsinstituut werknemersverenigingen waarbij zijn laatste werkgever in Nederland is aangesloten.
 
 - b). wat de in Kaapverdië vervulde tijdvakken betreft door het Instituto Nacional da Previdência Social (nationaal instituut voor sociale voorzieningen).
 
@@ -138,15 +154,17 @@ Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” 
 
 ##### Artikel 9
 
-1. Bij opneming in een ziekenhuis in de gevallen bedoeld in [artikel 13, eerste en zesde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), geeft het orgaan van de verblijfplaats of de nieuwe woonplaats binnen drie dagen na de datum waarop het hiervan kennis heeft gekregen, aan het bevoegde orgaan bericht van de datum van opneming in een ziekenhuis of een andere geneeskundige inrichting, alsmede van de vermoedelijke duur van de opneming; bij vertrek uit het ziekenhuis of de andere geneeskundige inrichting geeft het orgaan van de verblijfplaats of de nieuwe woonplaats binnen dezelfde termijn het bevoegde orgaan bericht van de datum van vertrek.
+1. Om in aanmerking te blijven komen voor verstrekkingen in het nieuwe verblijfsland, dient de in het tweede lid van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) bedoelde werknemer, of het in artikel 13, zesde lid, van het Verdrag bedoelde gezinslid, aan het orgaan van de nieuwe woonplaats een verklaring te overleggen waarbij het bevoegde orgaan hem toestaat na de overbrenging van zijn woonplaats het recht op verstrekkingen te behouden. Bedoeld orgaan geeft in deze verklaring eventueel de maximumduur aan waarover volgens de door dit orgaan toegepaste wetgeving verstrekkingen en nature mogen worden verleend. Het bevoegde orgaan kan op verzoek van de werknemer of van het orgaan van de nieuwe woonplaats, de verklaring ook na de overbrenging van de woonplaats van de werknemer uitreiken, wanneer deze om gemotiveerde redenen niet tevoren kon worden opgesteld.
 
-2. Ter verkrijging van de machtiging waarvan het verlenen van de in [artikel 13, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) bedoelde verstrekkingen afhankelijk is, richt het orgaan van de verblijfplaats of de nieuwe woonplaats een verzoek aan het bevoegde orgaan. Laatstbedoeld orgaan kan hiertegen onder opgave van redenen binnen vijftien dagen, gerekend vanaf de verzending van dit verzoek, eventueel verzet aantekenen; indien na afloop van deze termijn bij het orgaan van de verblijfplaats of de nieuwe woonplaats geen verzet is aangetekend, kent het de verstrekkingen toe.
+2. Bij opneming in een ziekenhuis in de gevallen bedoeld in [artikel 13, tweede en zesde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), geeft het orgaan van de nieuwe woonplaats binnen drie dagen na de datum waarop het hiervan kennis heeft gekregen, aan het bevoegde orgaan bericht van de datum van opneming in een ziekenhuis of een andere geneeskundige inrichting, alsmede van de vermoedelijke duur van de opneming; bij vertrek uit het ziekenhuis of de andere geneeskundige inrichting geeft het orgaan van de nieuwe woonplaats binnen dezelfde termijn het bevoegde orgaan bericht van de datum van vertrek.
 
-3. Wanneer de in [artikel 13, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) bedoelde verstrekkingen in onmiskenbare spoedgevallen zonder machtiging van het bevoegde orgaan moeten worden verleend, stelt het orgaan van de verblijfplaats of de nieuwe woonplaats bedoeld orgaan hiervan onmiddellijk op de hoogte.
+3. Ter verkrijging van de machtiging waarvan het verlenen van de in het vierde lid van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) bedoelde verstrekkingen afhankelijk is, richt het orgaan van de nieuwe woonplaats een verzoek aan het bevoegde orgaan. Laatstbedoeld orgaan kan hiertegen onder opgave van redenen binnen vijftien dagen, gerekend vanaf de verzending van dit verzoek, eventueel verzet aantekenen; indien na afloop van deze termijn bij het orgaan van de nieuwe woonplaats geen verzet is aangetekend, kent het de verstrekkingen toe.
 
-4. De onmiskenbare spoedgevallen in de zin van [artikel 13, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) zijn die gevallen, waarin het verlenen van de verstrekking niet kan worden uitgesteld zonder het leven of de gezondheid van de betrokkene ernstig in gevaar te brengen. In het geval waarin een prothese of een kunstmiddel door een ongeval is gebroken of beschadigd, is het om de onmiskenbare spoed vast te stellen, voldoende de noodzaak van het herstel of de vernieuwing van het desbetreffende kunst- of hulpmiddel aan te tonen.
+4. Wanneer de in het vierde lid van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) bedoelde verstrekkingen in onmiskenbare spoedgevallen zonder machtiging van het bevoegde orgaan moeten worden verleend, stelt het orgaan van de nieuwe woonplaats bedoeld orgaan hiervan onmiddellijk op de hoogte.
 
-5. De bevoegde verbindingsorganen stellen de lijst van verstrekkingen samen, waarop [artikel 13, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) van toepassing is.
+5. De onmiskenbare spoedgevallen in de zin van het vierde lid van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) zijn die gevallen, waarin het verlenen van de verstrekking niet kan worden uitgesteld zonder het leven of de gezondheid van de betrokkene ernstig in gevaar te brengen. In het geval waarin een prothese of een kunstmiddel door een ongeval is gebroken of beschadigd, is het om de onmiskenbare spoed vast te stellen, voldoende de noodzaak van het herstel of de vernieuwing van het desbetreffende kunst- of hulpmiddel aan te tonen.
+
+6. De bevoegde verbindingsorganen stellen de lijst van verstrekkingen samen, waarop de bepalingen van het vierde lid van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) van toepassing zijn.
 
 ##### Artikel 10
 
@@ -190,47 +208,47 @@ Voor het verlenen van verstrekkingen aan pensioengerechtigden, alsmede aan hun g
 
 ##### Artikel 14
 
-1. Om in Kaapverdië in aanmerking te kunnen komen voor de uitkeringen krachtens de Nederlandse wetgeving, dient de werknemer die tijdens een tijdelijk verblijf in Kaapverdië arbeidsongeschikt wordt – onverminderd zijn verplichting om zijn werkgever onmiddellijk op de hoogte te stellen van zijn arbeidsongeschiktheid – persoonlijk een aanvraag in te dienen of – in geval van overmacht – deze door iemand anders te doen indienen bij het orgaan van de verblijfplaats, waarbij hij een door de behandelende arts afgegeven geneeskundige verklaring voegt. In zijn aanvraag vermeldt de werknemer de naam en het adres van zijn werkgever of voormalige werkgever, alsmede, indien mogelijk, de naam en het adres van de bevoegde bedrijfsvereniging.
+1. Om in Kaapverdië in aanmerking te kunnen komen voor de uitkeringen krachtens de Nederlandse wetgeving, dient de werknemer die tijdens een tijdelijk verblijf in Kaapverdië arbeidsongeschikt wordt – onverminderd zijn verplichting om zijn werkgever onmiddellijk op de hoogte te stellen van zijn arbeidsongeschiktheid – persoonlijk een aanvraag in te dienen of – in geval van overmacht – deze door iemand anders te doen indienen bij het orgaan van de verblijfplaats, waarbij hij een door de behandelende arts afgegeven geneeskundige verklaring voegt. In zijn aanvraag vermeldt de werknemer de naam en het adres van zijn werkgever of voormalige werkgever.
 
-2. Het orgaan van de verblijfplaats laat onverwijld door de eigen controlerend geneesheer een rapport opstellen over de gezondheidstoestand van de werknemer. Dit rapport en de in het eerste lid bedoelde aanvraag worden door dit orgaan aan de bevoegde bedrijfsvereniging toegezonden, of, indien deze vereniging niet bekend is, aan het Gemeenschappelijk Administratiekantoor (GAK) te Amsterdam. In een dergelijk geval zendt het GAK de ontvangen stukken onmiddellijk door naar de bedrijfsvereniging waarbij de bedoelde werknemer is aangesloten.
+2. Het orgaan van de verblijfplaats laat onverwijld door de eigen controlerend geneesheer een rapport opstellen over de gezondheidstoestand van de werknemer. Dit rapport en de in het eerste lid bedoelde aanvraag worden door dit orgaan toegezonden aan het UWV, Uitvoeringsinstituut werknemersverzekeringen, te Amsterdam.
 
-3. Het bevoegde Nederlandse orgaan is bevoegd een beslissing te nemen inzake de vaststelling van de arbeidsongeschiktheid en het recht op verstrekkingen, behoudens de bevoegdheid van de bevoegde Nederlandse rechter in geval van geschillen.
+3. Het bevoegde Nederlandse orgaan2)Kennelijk dient hier gelezen te worden: Het UWV, Uitvoeringsinstituut werknemersverenigingen is bevoegd een beslissing te nemen inzake de vaststelling van de arbeidsongeschiktheid en het recht op verstrekkingen, behoudens de bevoegdheid van de bevoegde Nederlandse rechter in geval van geschillen.
 
-Hiertoe kan de bedrijfsvereniging de werknemer oproepen om hem in Nederland een medisch onderzoek te doen ondergaan door de eigen verzekeringsarts. De werknemer dient onverwijld aan een dergelijke oproep gevolg te geven. De bedrijfsvereniging kan echter tevens de werknemer opdracht geven zich, binnen een door deze vereniging vast te stellen termijn, opnieuw bij het orgaan van de verblijfplaats te vervoegen, waar hij een medische verklaring dient over te leggen, afgegeven door de arts van de geneeskundige dienst. Met betrekking tot het overleggen van deze verklaring handelt het orgaan van de verblijfplaats overeenkomstig het in het tweede lid bepaalde.
+Hiertoe kan het UWV, Uitvoeringsinstituut werknemersverenigingen de werknemer oproepen om hem in Nederland een medisch onderzoek te doen ondergaan door de eigen verzekeringsarts. De werknemer dient onverwijld aan een dergelijke oproep gevolg te geven. Het UWV, Uitvoeringsinstituut werknemersverenigingen kan echter tevens de werknemer opdracht geven zich, binnen een door het UWV, Uitvoeringsinstituut werknemersverenigingen vast te stellen termijn, opnieuw bij het orgaan van de verblijfplaats te vervoegen, waar hij een medische verklaring dient over te leggen, afgegeven door de arts van de geneeskundige dienst. Met betrekking tot het overleggen van deze verklaring handelt het orgaan van de verblijfplaats overeenkomstig het in het tweede lid bepaalde.
 
-Eventuele extra reiskosten die in verband met de gezondheidstoestand van de werknemer worden gemaakt om aan bovenbedoelde oproep gevolg te geven, komen ten laste van de bedrijfsvereniging en zullen, op vertoon van de bewijsstukken, worden vergoed.
+Eventuele extra reiskosten die in verband met de gezondheidstoestand van de werknemer worden gemaakt om aan bovenbedoelde oproep gevolg te geven, komen ten laste van het UWV, Uitvoeringsinstituut werknemersverenigingen en zullen, op vertoon van de bewijsstukken, worden vergoed.
 
-4. Indien de werknemer zich niet in staat acht gevolg te geven aan de oproep van de bedrijfsvereniging om zich in Nederland bij de verzekeringsarts te vervoegen, dient hij zich onverwijld tot het orgaan van de verblijfplaats te wenden, waar hij een door de arts van de geneeskundige dienst afgegeven medische verklaring moet overleggen, alsmede de oproep van de bevoegde bedrijfsvereniging. Het orgaan van de verblijfplaats laat de werknemer onverwijld onderzoeken door de arts van de geneeskundige dienst.
+4. Indien de werknemer zich niet in staat acht gevolg te geven aan de oproep van het UWV, Uitvoeringsinstituut werknemersverenigingen om zich in Nederland bij de verzekeringsarts te vervoegen, dient hij zich onverwijld tot het orgaan van de verblijfplaats te wenden, waar hij een door de arts van de geneeskundige dienst afgegeven medische verklaring moet overleggen, alsmede de oproep van het UWV, Uitvoeringsinstituut werknemersverenigingen. Het orgaan van de verblijfplaats laat de werknemer onverwijld onderzoeken door de arts van de geneeskundige dienst.
 
-5. De arts van de geneeskundige dienst bepaalt of de werknemer op medische gronden verhinderd is gevolg te geven aan de oproep van de bedrijfsvereniging. Indien de werknemer naar de mening van de arts niet in staat was naar Nederland te reizen, geeft de genoemde arts in het rapport de redenen van verhindering aan, alsmede de datum waarop deze verhindering een einde zal nemen en stelt hij de werknemer hiervan onmiddellijk op de hoogte. De werknemer dient op het door de arts aangegeven tijdstip naar Nederland te reizen en de door de bevoegde bedrijfsvereniging aangewezen verzekeringsarts te bezoeken zodra hij in Nederland is aangekomen.
+5. De arts van de geneeskundige dienst bepaalt of de werknemer op medische gronden verhinderd is gevolg te geven aan de oproep van het UWV, Uitvoeringsinstituut werknemersverenigingen. Indien de werknemer naar de mening van de arts niet in staat was naar Nederland te reizen, geeft de genoemde arts in het rapport de redenen van verhindering aan, alsmede de datum waarop deze verhindering een einde zal nemen en stelt hij de werknemer hiervan onmiddellijk op de hoogte. De werknemer dient op het door de arts aangegeven tijdstip naar Nederland te reizen en de door het UWV, Uitvoeringsinstituut werknemersverenigingen aangewezen verzekeringsarts te bezoeken zodra hij in Nederland is aangekomen.
 
-Het orgaan van de verblijfplaats zendt het rapport van de arts van de geneeskundige dienst onverwijld door naar de bevoegde bedrijfsvereniging.
+Het orgaan van de verblijfplaats zendt het rapport van de arts van de geneeskundige dienst onverwijld door naar het UWV, Uitvoeringsinstituut werknemersverenigingen.
 
-6. Indien de arbeidsongeschiktheid voortduurt, dient de werknemer aan wie de bevoegde bedrijfsvereniging de in het derde lid bedoelde oproep nog niet heeft toegezonden, zich tot het orgaan van de verblijfplaats te wenden, waar hij een nieuwe aanvraag moet indienen, tezamen met een geneeskundige verklaring van de arts van de geneeskundige dienst, zulks telkens vóór het einde van de in de voorafgaande geneeskundige verklaring van de arts van de geneeskundige dienst genoemde rustperiode.
+6. Indien de arbeidsongeschiktheid voortduurt, dient de werknemer aan wie het UWV, Uitvoeringsinstituut werknemersverenigingen de in het derde lid bedoelde oproep nog niet heeft toegezonden, zich tot het orgaan van de verblijfplaats te wenden, waar hij een nieuwe aanvraag moet indienen, tezamen met een geneeskundige verklaring van de arts van de geneeskundige dienst, zulks telkens vóór het einde van de in de voorafgaande geneeskundige verklaring van de arts van de geneeskundige dienst genoemde rustperiode.
 
 In dergelijke gevallen handelt het orgaan van de verblijfplaats overeenkomstig het in het tweede lid bepaalde.
 
 ##### Artikel 15
 
-1. De werknemer die krachtens de Nederlandse wetgeving uitkeringen ontvangt en die van de bevoegde bedrijfsvereniging toestemming heeft om tijdelijk in Kaapverdië te verblijven, blijft onderworpen aan controle door de bevoegde bedrijfsvereniging. Voor de uitoefening van deze controle roept de bedrijfsvereniging de werknemer op om in Nederland een medisch onderzoek te doen ondergaan door de eigen verzekeringsarts. De werknemer dient onverwijld aan een dergelijke oproep gevolg te geven. Eventuele extra reiskosten die in verband met de gezondheidstoestand van de werknemer worden gemaakt om aan bovenbedoelde oproep gevolg te geven, komen ten laste van de bedrijfsvereniging en zullen, op vertoon van de bewijsstukken, worden vergoed.
+1. De werknemer die krachtens de Nederlandse wetgeving uitkeringen ontvangt en die van het UWV, Uitvoeringsinstituut werknemersverenigingen toestemming heeft om tijdelijk in Kaapverdië te verblijven, blijft onderworpen aan controle door het UWV, Uitvoeringsinstituut werknemersverenigingen. Voor de uitoefening van deze controle roept het UWV, Uitvoeringsinstituut werknemersverenigingen de werknemer op om in Nederland een medisch onderzoek te doen ondergaan door de eigen verzekeringsarts. De werknemer dient onverwijld aan een dergelijke oproep gevolg te geven. Eventuele extra reiskosten die in verband met de gezondheidstoestand van de werknemer worden gemaakt om aan bovenbedoelde oproep gevolg te geven, komen ten laste van het UWV, Uitvoeringsinstituut werknemersverenigingen en zullen, op vertoon van de bewijsstukken, worden vergoed.
 
-2. Indien de werknemer zich niet in staat acht aan een dergelijke oproep gevolg te geven, zijn [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=1997-04-01&g=1997-04-01), van toepassing.
+2. Indien de werknemer zich niet in staat acht aan een dergelijke oproep gevolg te geven, zijn [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=2019-07-01&g=2019-07-01), van toepassing.
 
 ##### Artikel 15a
 
-1. De werknemer die krachtens de Nederlandse wetgeving uitkeringen ontvangt en van de bevoegde bedrijfsvereniging toestemming heeft om deze verstrekkingen te blijven ontvangen na overbrenging van zijn woonplaats naar Kaapverdisch grondgebied, dient zich vóór de door de bedrijfsvereniging aangegeven datum tot het orgaan van de verblijfplaats te wenden, waar hij de bevestiging van de toestemming van de bedrijfsvereniging moet overleggen, alsmede een door de arts van de geneeskundige dienst afgegeven geneeskundige verklaring.
+1. De werknemer die krachtens de Nederlandse wetgeving uitkeringen ontvangt en van het UWV, Uitvoeringsinstituut werknemersverenigingen toestemming heeft om deze verstrekkingen te blijven ontvangen na overbrenging van zijn woonplaats naar Kaapverdisch grondgebied, dient zich vóór de door het UWV, Uitvoeringsinstituut werknemersverenigingen aangegeven datum tot het orgaan van de verblijfplaats te wenden, waar hij de bevestiging van de toestemming van het UWV, Uitvoeringsinstituut werknemersverenigingen moet overleggen, alsmede een door de arts van de geneeskundige dienst afgegeven geneeskundige verklaring.
 
-2. Het orgaan van de woonplaats laat door de arts van de geneeskundige dienst een rapport opstellen over de gezondheidstoestand van de werknemer. Het orgaan van de woonplaats zendt dit rapport onverwijld door naar de bevoegde bedrijfsvereniging.
+2. Het orgaan van de woonplaats laat door de arts van de geneeskundige dienst een rapport opstellen over de gezondheidstoestand van de werknemer. Het orgaan van de woonplaats zendt dit rapport onverwijld door naar het UWV, Uitvoeringsinstituut werknemersverenigingen.
 
-3. Met betrekking tot het vaststellen van de eventuele arbeidsongeschiktheid na de in het eerste lid bedoelde datum is het in [artikel 14, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=1997-04-01&g=1997-04-01), bepaalde van overeenkomstige toepassing.
+3. Met betrekking tot het vaststellen van de eventuele arbeidsongeschiktheid na de in het eerste lid bedoelde datum is het in [artikel 14, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=2019-07-01&g=2019-07-01), bepaalde van overeenkomstige toepassing.
 
-Eventuele reiskosten die worden gemaakt om gevolg te geven aan de in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=1997-04-01&g=1997-04-01), genoemde oproep komen ten laste van de bedrijfsvereniging en zullen, op vertoon van bewijsstukken, worden vergoed.
+Eventuele reiskosten die worden gemaakt om gevolg te geven aan de in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=14&z=2019-07-01&g=2019-07-01), genoemde oproep komen ten laste van het UWV, Uitvoeringsinstituut werknemersverenigingen en zullen, op vertoon van bewijsstukken, worden vergoed.
 
 ##### Artikel 16
 
-1. Om in Nederland de uitkeringen krachtens de Kaapverdische wetgeving te kunnen ontvangen, dient de werknemer die zich in dat land bevindt een aanvraag in te dienen bij de Nieuwe Algemene Bedrijfsvereniging onder vermelding van de naam en het adres van zijn werkgever. Dit orgaan doet de aanvraag onverwijld aan het nationaal instituut voor sociale voorzieningen toekomen, waarbij een geneeskundig rapport van de arts van de geneeskundige dienst wordt gevoegd.
+1. Om in Nederland de uitkeringen krachtens de Kaapverdische wetgeving te kunnen ontvangen, dient de werknemer die zich in dat land bevindt een aanvraag in te dienen bij het UWV, Uitvoeringsinstituut werknemersverenigingen onder vermelding van de naam en het adres van zijn werkgever. Dit orgaan doet de aanvraag onverwijld aan het nationaal instituut voor sociale voorzieningen toekomen, waarbij een geneeskundig rapport van de arts van de geneeskundige dienst wordt gevoegd.
 
-2. De Nieuwe Algemene Bedrijfsvereniging voert de medische en administratieve controle van de werknemer uit alsof deze een eigen verzekerde is en doet daartoe onverwijld aan het nationaal instituut voor sociale voorzieningen de hierover opgestelde rapporten toekomen. Dit orgaan behoudt echter de mogelijkheid om de werknemer door een arts van zijn keuze te laten keuren.
+2. Het UWV, Uitvoeringsinstituut werknemersverenigingen voert de medische en administratieve controle van de werknemer uit alsof deze een eigen verzekerde is en doet daartoe onverwijld aan het nationaal instituut voor sociale voorzieningen de hierover opgestelde rapporten toekomen. Dit orgaan behoudt echter de mogelijkheid om de werknemer door een arts van zijn keuze te laten keuren.
 
 3. Het nationaal instituut voor sociale voorzieningen is als enige bevoegd te beslissen over aanspraken op verstrekkingen, behoudens de bevoegdheid van de bevoegde Kaapverdische rechter in geval van geschillen.
 
@@ -242,7 +260,7 @@ Het bevoegde orgaan stelt de uitkeringen met behulp van daartoe aangewezen midde
 
 ##### Artikel 18
 
-1. Het werkelijke bedrag van de uitgaven ter zake van de krachtens de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=11), [13, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), en [14, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14) verleende verstrekkingen, wordt door de bevoegde organen welke bedoelde verstrekkingen hebben verleend, vergoed, zoals zij uit de boekhouding van laatstbedoelde organen blijken.
+1. Het werkelijke bedrag van de uitgaven ter zake van de krachtens de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=11), en [13, tweede en zesde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13) verleende verstrekkingen, wordt door de bevoegde organen welke bedoelde verstrekkingen hebben verleend, vergoed, zoals zij uit de boekhouding van laatstbedoelde organen blijken.
 
 2. Voor de vergoeding kunnen geen hogere tarieven in rekening worden gebracht dan die welke gelden voor de verstrekkingen, verleend aan werknemers die onderworpen zijn aan de wetgeving welke wordt toegepast door het orgaan dat de in het eerste lid van dit artikel bedoelde verstrekkingen heeft verleend.
 
@@ -264,15 +282,15 @@ Het bevoegde orgaan stelt de uitkeringen met behulp van daartoe aangewezen midde
 
 ##### Artikel 21
 
-De verbindingsorganen kunnen, met toestemming van de bevoegde autoriteiten, andere wijzen van vergoeding dan die welke zijn voorzien in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=18&z=1997-04-01&g=1997-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=1997-04-01&g=1997-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=1997-04-01&g=1997-04-01) overeenkomen voor alle verstrekkingen of voor een deel daarvan.
+De verbindingsorganen kunnen, met toestemming van de bevoegde autoriteiten, andere wijzen van vergoeding dan die welke zijn voorzien in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=18&z=2019-07-01&g=2019-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=2019-07-01&g=2019-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=2019-07-01&g=2019-07-01) overeenkomen voor alle verstrekkingen of voor een deel daarvan.
 
 ##### Artikel 22
 
 1. De in [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) bedoelde vergoedingen worden betaald door tussenkomst van de bevoegde verbindingsorganen.
 
-2. De in het voorgaande lid bedoelde organen kunnen overeenkomen dat de in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=1997-04-01&g=1997-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=1997-04-01&g=1997-04-01) bedoelde bedragen met een percentage voor administratiekosten worden verhoogd.
+2. De in het voorgaande lid bedoelde organen kunnen overeenkomen dat de in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=2019-07-01&g=2019-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=2019-07-01&g=2019-07-01) bedoelde bedragen met een percentage voor administratiekosten worden verhoogd.
 
-3. Voor de toepassing van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=1997-04-01&g=1997-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=1997-04-01&g=1997-04-01) kunnen de bevoegde verbindingsorganen overeenkomsten sluiten inzake de eventuele verlening van voorschotten.
+3. Voor de toepassing van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=19&z=2019-07-01&g=2019-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=1&artikel=20&z=2019-07-01&g=2019-07-01) kunnen de bevoegde verbindingsorganen overeenkomsten sluiten inzake de eventuele verlening van voorschotten.
 
 ### Hoofdstuk 2. Invaliditeit, ouderdom en overlijden (pensioenen)
 
@@ -282,7 +300,7 @@ De verbindingsorganen kunnen, met toestemming van de bevoegde autoriteiten, ande
 
 2. Wanneer de belanghebbende op het grondgebied van een derde Staat woont, dient hij zijn aanvraag te richten tot het bevoegde orgaan van het land krachtens de wetgeving waarvan de werknemer laatstelijk verzekerd is geweest.
 
-3. In het geval dat met toepassing van [artikel 16, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=16) recht op uitkeringen is ontstaan, wordt als Nederlands bevoegd orgaan voor de arbeidsongeschiktheidsuitkeringen aangewezen: „De Nieuwe Algemene Bedrijfsvereniging” te Amsterdam.
+3. In het geval dat met toepassing van [artikel 16, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=16) recht op uitkeringen is ontstaan, wordt als Nederlands bevoegd orgaan voor de arbeidsongeschiktheidsuitkeringen aangewezen: Het UWV, Uitvoeringsinstituut werknemersverenigingen te Amsterdam.
 
 4. De aanvragen worden ingediend door middel van de formulieren welke zijn voorzien bij de wetgeving van het land waarin de aanvraag volgens de voorgaande leden van dit artikel moet worden ingediend.
 
@@ -334,7 +352,7 @@ In gevallen waarin vertraging kan optreden, betaalt het bevoegde orgaan van het 
 
 2. In het geval dat de organen van beide landen het voorgaande lid kunnen toepassen, worden de voorlopige uitkeringen alleen betaald door het orgaan van de woonplaats. Dit orgaan stelt het orgaan van het andere land hiervan zo spoedig mogelijk in kennis.
 
-3. In het geval dat ingevolge de voorgaande leden voorlopige uitkeringen worden betaald, is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=2&artikel=26&z=1997-04-01&g=1997-04-01) niet van toepassing.
+3. In het geval dat ingevolge de voorgaande leden voorlopige uitkeringen worden betaald, is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005625&titeldeel=II&hoofdstuk=2&artikel=26&z=2019-07-01&g=2019-07-01) niet van toepassing.
 
 ##### Artikel 30
 
@@ -344,7 +362,7 @@ De door een orgaan van het ene land verschuldigde uitkeringen aan rechthebbenden
 
 ##### Artikel 31
 
-1. Om in aanmerking te komen voor toepassing van [artikel 26 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=26), legt de werkloze aan het Nederlandse bevoegde orgaan een verklaring over waarin zijn vermeld de tijdvakken van dienstbetrekking in Kaapverdië.
+1. Om in aanmerking te komen voor toepassing van [artikel 26 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=26), legt de werkloze aan het UWV, Uitvoeringsinstituut werknemersverenigingen een verklaring over waarin zijn vermeld de tijdvakken van dienstbetrekking in Kaapverdië.
 
 2. Deze verklaring wordt op verzoek van de belanghebbende uitgereikt door het Direcção do Trabalho (Directoraat van Arbeid); indien de belanghebbende de verklaring niet overlegt, richt het bevoegde orgaan zich tot het Direcção do Trabalho (Directoraat van Arbeid).
 
@@ -384,15 +402,15 @@ De gezinsbijslagen worden overeenkomstig de voorschriften van de toepasselijke w
 
 1. De administratieve en medische controle van in Nederland wonende rechthebbenden op uitkeringen krachtens de Kaapverdische wetgeving, wordt op verzoek van het bevoegde orgaan uitgeoefend door tussenkomst van:
 
-- a). de „Nieuwe Algemene Bedrijfsvereniging”, indien het uitkeringen bij ziekte, invaliditeit en arbeidsongevallen betreft;
+- a). het UWV, Uitvoeringsinstituut werknemersverenigingen, indien het uitkeringen bij ziekte, invaliditeit en arbeidsongevallen betreft;
 
 - b). de „Sociale Verzekeringsbank”, indien het andere uitkeringen betreft.
 
-- a. Wanneer de bedrijfsvereniging waarbij een in Kaapverdië wonende werknemer aanspraak kan maken op een arbeidsongeschiktheidsuitkering krachtens de Nederlandse wetgeving niet zelf de controle uitoefent, kan dit orgaan of de Gemeenschappelijke Medische Dienst het nationaal instituut voor sociale voorzieningen vragen een geneeskundig rapport op te maken met betrekking tot de gezondheidstoestand van de werknemer en de administratieve controle uit te oefenen. In dit verzoek van het Nederlands orgaan wordt de aard van het geneeskundig of medisch onderzoek vermeld.
+- a. Wanneer het UWV, Uitvoeringsinstituut werknemersverenigingen waarbij een in Kaapverdië wonende werknemer aanspraak kan maken op een arbeidsongeschiktheidsuitkering krachtens de Nederlandse wetgeving niet zelf de controle uitoefent, kan dit orgaan het nationaal instituut voor sociale voorzieningen vragen een geneeskundig rapport op te maken met betrekking tot de gezondheidstoestand van de werknemer en de administratieve controle uit te oefenen. In dit verzoek van het Nederlands orgaan wordt de aard van het geneeskundig of medisch onderzoek vermeld.
 
-- b. Indien de bedrijfsvereniging of de Gemeenschappelijke Medische Dienst zelf de controle uitoefent, kan dit orgaan de werknemer oproepen om naar Nederland te komen om de vereiste medische onderzoeken te ondergaan. Eventuele kosten van de onderzoeken, van de reis en het verblijf komen ten laste van de bedrijfsvereniging en zullen, op vertoon van bewijsstukken, worden vergoed.
+- b. Indien het UWV, Uitvoeringsinstituut werknemersverenigingen zelf de controle uitoefent, kan dit orgaan de werknemer oproepen om naar Nederland te komen om de vereiste medische onderzoeken te ondergaan. Eventuele kosten van de onderzoeken, van de reis en het verblijf komen ten laste van het UWV, Uitvoeringsinstituut werknemersverenigingen en zullen, op vertoon van bewijsstukken, worden vergoed.
 
-- c. Indien de rechthebbende zich om medische redenen niet in staat acht naar Nederland te reizen stelt hij onmiddellijk het betrokken Nederlandse orgaan daarvan op de hoogte via het orgaan van de woonplaats. Hij dient dan een door een arts van de geneeskundige dienst gewaarmerkte verklaring over te leggen. Deze bevat met name de medische reden waarom betrokkene niet naar Nederland kan reizen en vermeldt na welk tijdvak de medische gronden niet meer van toepassing zijn.
+- c. Indien de rechthebbende zich om medische redenen niet in staat acht naar Nederland te reizen stelt hij onmiddellijk het UWV, Uitvoeringsinstituut werknemersverenigingen daarvan op de hoogte via het orgaan van de woonplaats. Hij dient dan een door een arts van de geneeskundige dienst gewaarmerkte verklaring over te leggen. Deze bevat met name de medische reden waarom betrokkene niet naar Nederland kan reizen en vermeldt na welk tijdvak de medische gronden niet meer van toepassing zijn.
 
 3. Bij de aan de bevoegde organen gezonden inlichtingen en met name bij de medische rapporten wordt een vertaling in de Franse of Engelse taal gevoegd.
 
@@ -435,6 +453,32 @@ Alle geschillen met betrekking tot de toepassing van dit Akkoord zullen worden o
 ##### Artikel 45
 
 Dit Akkoord treedt op dezelfde dag in werking als het Verdrag en heeft dezelfde werkingsduur.
+
+FAIT en deux textes originaux en langue française à La Haye, le 18 novembre 1981.
+
+**Les autorités compétentes néerlandaises,**
+
+(s.) M.H.M.F. GARDENIERS-BERENDSEN
+
+(s.) C. I. DALES
+
+**L'autorité compétente capverdienne,**
+
+(s.) SILVINO MANUEL DA LUZ
+
+#### Uitkeringen
+
+#### Financiële bepalingen
+
+### Hoofdstuk 2. Invaliditeit, ouderdom en overlijden (pensioenen)
+
+#### Betaalbaarstelling van de uitkeringen
+
+### Hoofdstuk 3. Werkloosheid
+
+### Hoofdstuk 4. Gezinsbijslagen
+
+## TITEL III. Diverse bepalingen
 
 FAIT en deux textes originaux en langue française à La Haye, le 18 novembre 1981.
 
