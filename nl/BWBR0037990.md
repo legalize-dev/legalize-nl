@@ -4,7 +4,7 @@ identifier: "BWBR0037990"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2016-06-01"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037990"
 soort: "pbo"
@@ -46,7 +46,7 @@ In deze verordening wordt verstaan onder:
 
 - **bestuur:** het bestuur van de Nederlandse beroepsorganisatie van accountants;
 
-- **beroepseed:** de eed of de belofte, bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2016-06-01&g=2016-06-01);
+- **beroepseed:** de eed of de belofte, bedoeld in [artikel 2, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02);
 
 - **contributiegroep H, L, M of Z:** contributiegroep H, L, M of Z als bedoeld in [artikel 2 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=2);
 
@@ -104,15 +104,15 @@ So help me God/I promise/I declare.’
 
 ##### Artikel 3
 
-1. De accountant die na de inwerkingtreding van deze verordening is ingeschreven in het accountantsregister, legt de beroepseed af binnen drie maanden na zijn inschrijving in het accountantsregister op een door het bestuur aangeboden wijze.
+1. De accountant die na de inwerkingtreding van deze verordening is ingeschreven in het accountantsregister, legt de beroepseed af binnen zes maanden na zijn inschrijving in het accountantsregister op een door het bestuur aangeboden wijze.
 
-2. Degene op wie bij de inwerkingtreding van deze verordening de maatregel van tijdelijke doorhaling van kracht is, legt de beroepseed af binnen drie maanden nadat de maatregel is geëindigd.
+2. Degene op wie bij de inwerkingtreding van deze verordening de maatregel van tijdelijke doorhaling van kracht is, legt de beroepseed af binnen zes maanden nadat de maatregel is geëindigd.
 
-3. De accountant aan wie na de inwerkingtreding van deze verordening de maatregel van tijdelijke doorhaling wordt opgelegd voordat hij de beroepseed heeft afgelegd, legt de beroepseed af binnen drie maanden nadat dat de maatregel is geëindigd.
+3. De accountant aan wie na de inwerkingtreding van deze verordening de maatregel van tijdelijke doorhaling wordt opgelegd voordat hij de beroepseed heeft afgelegd, legt de beroepseed af binnen zes maanden nadat dat de maatregel is geëindigd.
 
-4. De accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z en nadien wordt ingedeeld in contributiegroep H, L of M, legt de beroepseed af binnen drie maanden na de indeling in contributiegroep H, L of M op een door het bestuur aangeboden wijze.
+4. De accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z en nadien wordt ingedeeld in contributiegroep H, L of M, legt de beroepseed af binnen zes maanden na de indeling in contributiegroep H, L of M op een door het bestuur aangeboden wijze.
 
-5. De accountant die na de inwerkingtreding van deze verordening wordt ingedeeld in contributiegroep Z voordat hij de beroepseed heeft afgelegd, legt de beroepseed af binnen drie maanden nadat hij wordt ingedeeld in contributiegroep H, L of M op een door het bestuur aangeboden wijze
+5. De accountant die na de inwerkingtreding van deze verordening wordt ingedeeld in contributiegroep Z voordat hij de beroepseed heeft afgelegd, legt de beroepseed af binnen zes maanden nadat hij wordt ingedeeld in contributiegroep H, L of M op een door het bestuur aangeboden wijze
 
 6. Op verzoek kan het bestuur uitstel verlenen van de termijnen, bedoeld in het eerste tot en met het vijfde lid.
 
@@ -124,13 +124,13 @@ So help me God/I promise/I declare.’
 
 ##### Artikel 5
 
-1. Een aspirant-ingeschrevene die de beroepseed heeft afgelegd bij de diploma-uitreiking is na zijn inschrijving in het accountantsregister ontheven van de verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2016-06-01&g=2016-06-01), mits hij voorafgaand aan de diploma-uitreiking of binnen zes maanden na de diploma-uitreiking een aanvraag als bedoeld in [artikel 38, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) heeft ingediend.
+1. Een aspirant-ingeschrevene die de beroepseed heeft afgelegd bij de diploma-uitreiking is na zijn inschrijving in het accountantsregister ontheven van de verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2019-07-02&g=2019-07-02), mits hij voorafgaand aan de diploma-uitreiking of binnen zes maanden na de diploma-uitreiking een aanvraag als bedoeld in [artikel 38, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) heeft ingediend.
 
-2. Een accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z is vrijgesteld van de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2016-06-01&g=2016-06-01).
+2. Een accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z is vrijgesteld van de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02).
 
 ##### Artikel 6
 
-Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschrevenen die overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2016-06-01&g=2016-06-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2016-06-01&g=2016-06-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=4&z=2016-06-01&g=2016-06-01) de beroepseed hebben afgelegd.
+Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschrevenen die overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2019-07-02&g=2019-07-02), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2019-07-02&g=2019-07-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=4&z=2019-07-02&g=2019-07-02) de beroepseed hebben afgelegd.
 
 ##### Artikel 7
 
