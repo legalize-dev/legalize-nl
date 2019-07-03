@@ -4,7 +4,7 @@ identifier: "BWBR0017236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-03-15"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017236"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Besluit:
 
 - **acceptatietest:** vaardigheidstest voor examinatoren als beschreven in FCL 1.020 van verordening (EU) nr. 1178/2011;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- **minister:** Minister van Infrastructuur en Waterstaat;
 
 - **praktijkexamen:** onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;
 
@@ -65,9 +65,11 @@ Besluit:
 
 - b. H: de categorie helikopters (Helicopters);
 
-- c. FB: de categorie vrije ballonnen (Free Balloons).
+- c. FB: de categorie vrije ballonnen (Free Balloons);
 
-3. Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Infrastructuur en Milieu.
+- d. GC: de categorie gyrokopters (Gyrocopters).
+
+3. Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 2. Geautoriseerde examinatoren
 
@@ -77,15 +79,19 @@ Besluit:
 
 1. Aan vliegers worden de volgende autorisaties afgegeven:
 
-- a. RFE(A) dan wel RFE(H), die de bevoegdheid geeft tot het afnemen van praktijkexamens en proeven van bekwaamheid voor de afgifte, verlenging en hernieuwde afgifte van een RPL(A) dan wel RPL(H) inclusief de daarbij behorende bijzondere bevoegdverklaringen, indien is voldaan aan de eis van ten minste 500 vlieguren op vliegtuigen, waaronder ten minste 100 uren vliegonderricht voor de afgifte van een RPL(A) dan wel RPL(H) in de desbetreffende bijzondere bevoegdverklaring;
+- a. RFE(A), RFE(H) dan wel RFE(GC), die de bevoegdheid geeft tot het afnemen van praktijkexamens en proeven van bekwaamheid voor de afgifte, verlenging en hernieuwde afgifte van een RPL(A), een RPL(H) dan wel een RPL(GC) inclusief de daarbij behorende bijzondere bevoegdverklaringen, indien is voldaan aan de eis van ten minste 500 vlieguren op vliegtuigen, helikopters dan wel gyrokopters, waaronder ten minste 100 uren vliegonderricht voor de afgifte van een RPL(A), RPL(H) dan wel RPL(GC) in de desbetreffende bijzondere bevoegdverklaring;
 
-- b. RFIE(A) dan wel RFIE(H), die de bevoegdheid geeft tot het afnemen van praktijkexamens en proeven van bekwaamheid voor de afgifte, verlenging en hernieuwde afgifte van een RFI(A) dan wel RFIE(H) voor de desbetreffende bijzondere bevoegdverklaring, indien is voldaan aan de eis van minimaal 50 uren vliegonderricht voor de afgifte van een RFI.
+- b. RFIE(A), RFIE(H) dan wel RFIE(GC), die de bevoegdheid geeft tot het afnemen van praktijkexamens en proeven van bekwaamheid voor de afgifte van een RFE(A), RFE(H) dan wel RFE(GC) voor de desbetreffende bijzondere bevoegdverklaring, indien is voldaan aan de eis van minimaal 50 uren vliegonderricht voor de afgifte van RFI.
 
-2. Voor ballonvaarders zijn voor het verkrijgen van de autorisatie tot FE(FB) de eisen, genoemd in onderdeel b van het eerste lid van overeenkomstige toepassing en wordt voldaan aan de eis van ten minste 500 vaaruren op een vrije ballon, waaronder ten minste 100 uren vaaronderricht voor de afgifte van een CPL(FB). Het tweede lid, onderdeel b, is met betrekking tot JAR-FCL 1.430 van overeenkomstige toepassing.
+2. De houders van een examinatorcertificaat FE(A) of FE(H) respectievelijk FIE(A) of FIE(H) afgegeven overeenkomstig verordening (EU) nr. 1178/2011 worden geacht te voldoen aan de eisen die gesteld worden aan de afgifte van een RFE(A) of RFE(H) respectievelijk RFIE(A) of RFIE(H) in onderdeel a respectievelijk onderdeel b van het eerste lid.
 
-3. In het geval van een aanvraag tot afgifte van een autorisatie tot RFE of RFIE vervult een senior-examinator bij de acceptatietest, de rol van kandidaat
+3. De houders van een examinatorcertificaat FE(A) of FE(H) respectievelijk FIE(A) of FIE(H) afgegeven overeenkomstig verordening (EU) nr. 1178/2011 worden geacht te voldoen aan de eisen die gesteld worden aan de afgifte van een RFE(GC) respectievelijk RFIE(GC) in onderdeel a respectievelijk onderdeel b van het eerste lid met betrekking tot het aantal vlieguren en uren vliegonderricht, indien zij in het bezit zijn van een geldig bewijs van bevoegdheid voor RPL(GC) en RFI(GC).
 
-4. De autorisaties, bedoeld in dit artikel, zijn beperkt tot het bewijs van bevoegdheid en de bevoegdverklaringen, waarvan de examinator houder is en waarvoor hij bevoegd is om instructie te geven.
+4. Voor ballonvaarders zijn voor het verkrijgen van de autorisatie tot FE(FB) de eisen, genoemd in onderdeel b van het eerste lid van overeenkomstige toepassing en wordt voldaan aan de eis van ten minste 500 vaaruren op een vrije ballon, waaronder ten minste 100 uren vaaronderricht voor de afgifte van een CPL(FB). Het tweede lid, onderdeel b, is met betrekking tot JAR-FCL 1.430 van overeenkomstige toepassing.
+
+5. In het geval van een aanvraag tot afgifte van een autorisatie tot RFE of RFIE vervult een senior-examinator bij de acceptatietest, de rol van kandidaat
+
+6. De autorisaties, bedoeld in dit artikel, zijn beperkt tot het bewijs van bevoegdheid en de bevoegdverklaringen, waarvan de examinator houder is en waarvoor hij bevoegd is om instructie te geven.
 
 ##### Artikel 3
 
@@ -109,7 +115,7 @@ Vervallen
 
 ##### Artikel 7
 
-Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-03-15&g=2014-03-15). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
+Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-03&g=2019-07-03). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
 
 #### § 2.3. Inhoudelijke eisen
 
@@ -131,11 +137,11 @@ Er kunnen senior-examinatoren benoemd worden.
 
 1. Een senior-examinator heeft de volgende taken:
 
-- a. het uitoefenen van supervisie met betrekking tot acceptatietesten, zoals uitgevoerd door een kandidaat-examinator ter verkrijging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-03-15&g=2014-03-15);
+- a. het uitoefenen van supervisie met betrekking tot acceptatietesten, zoals uitgevoerd door een kandidaat-examinator ter verkrijging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-03&g=2019-07-03);
 
 - b. tijdens het uitoefenen van supervisie met betrekking tot acceptatietesten als bedoeld in onderdeel a, uitoefenen van de bevoegdheden van een examinator ten opzichte van de examenkandidaat;
 
-- c. het beoordelen van het afnemen van praktijkexamens en proeven van bekwaamheid door een examinator, in het kader van een verlenging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-03-15&g=2014-03-15);
+- c. het beoordelen van het afnemen van praktijkexamens en proeven van bekwaamheid door een examinator, in het kader van een verlenging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-03&g=2019-07-03);
 
 - d. het leveren van een bijdrage aan de standaardisatie van praktijkexamens en proeven van bekwaamheid;
 
@@ -157,7 +163,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 ##### Artikel 14
 
-1. Een senior-examinator kan indien deze een taak uitoefent als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2014-03-15&g=2014-03-15) hiervoor een vergoeding declareren bij de minister.
+1. Een senior-examinator kan indien deze een taak uitoefent als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2019-07-03&g=2019-07-03) hiervoor een vergoeding declareren bij de minister.
 
 2. De vergoeding, bedoeld in het eerste lid, bestaat uit:
 
