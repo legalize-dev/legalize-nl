@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2018-10-03"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -45,9 +45,13 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
+- **ATO:** erkende opleidingsorganisatie (approved training organisation) als bedoeld in verordening (EU) 1178/2011;
+
 - **attest voor cabinebemanningsleden:** document als bedoeld in subdeel CCA van bijlage V van verordening (EU) nr. 1178/2011, waaruit blijkt dat een bemanningslid met goed gevolg het examen heeft afgelegd na voltooiing van de basisopleiding voor cabinebemanningslid;
 
 - **bevoegde autoriteit:** instantie als bedoeld in artikel CC.GEN.001 van bijlage V van verordening (EU) nr. 1178/2011;
+
+- **DTO:** verklaarde opleidingsorganisatie (declared training organisation) als bedoeld in verordening (EU) 1178/2011;
 
 - **erkende taalbeoordelingsinstantie:** door de minister met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening erkende opleidingsinstelling;
 
@@ -55,19 +59,19 @@ Besluit:
 
 - **goedgekeurde opleidingsinstelling:** door de minister goedgekeurde opleidingsorganisatie voor het verzorgen van de basisopleiding van cabinebemanningsleden;
 
-- **gyroplane:** helicopter als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
+- **gyrokopter:** gyrokopter als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- **minister:** Minister van Infrastructuur en Waterstaat;
 
 - **MLA (Micro Light Aeroplane):** vliegtuig als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922).
 
 2. In deze regeling wordt met de volgende toevoegingen bedoeld:
 
-- A:. de categorie vliegtuigen (Aircraft);
+- a. **A**: de categorie vliegtuigen (Aircraft);
 
-- H:. de categorie helikopters (Helicopters).
+- b. **GC**: de categorie gyrokopters (Gyrocopters);
 
-3. Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Infrastructuur en Milieu.
+- c. **H**: de categorie helikopters (Helicopters).
 
 ### Hoofdstuk 2. Procedureregels
 
@@ -81,15 +85,15 @@ De aanvraag tot registratie, erkenning of goedkeuring dan wel hernieuwde afgifte
 
 ##### Artikel 3
 
-1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H) gyroplane, RPA-L of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2018-10-03&g=2018-10-03).
+1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H)MLH, RPL(GC), RPA-L of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2019-07-03&g=2019-07-03).
 
-2. De Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2018-10-03&g=2018-10-03).
+2. De Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2019-07-03&g=2019-07-03).
 
-3. De minister keurt overeenkomstig artikel ARA.CC.200, onderdeel a, van bijlage VI van verordening (EU) nr. 1178/2011, een opleidingsorganisatie goed voor het verzorgen van de basisopleiding van cabinebemanningsleden, bedoeld in artikel CC.TRA.220, onderdelen a en b, van bijlage V van verordening (EU) nr. 1178/ 2011, indien de aanvrager voldoet aan de eisen bedoeld in hoofdstuk 1 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2018-10-03&g=2018-10-03). Het goedkeuringsbesluit bevat mede het opleidingsprogramma en de syllabus van de opleidingsorganisatie.
+3. De minister keurt overeenkomstig artikel ARA.CC.200, onderdeel a, van bijlage VI van verordening (EU) nr. 1178/2011, een opleidingsorganisatie goed voor het verzorgen van de basisopleiding van cabinebemanningsleden, bedoeld in artikel CC.TRA.220, onderdelen a en b, van bijlage V van verordening (EU) nr. 1178/ 2011, indien de aanvrager voldoet aan de eisen bedoeld in hoofdstuk 1 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2019-07-03&g=2019-07-03). Het goedkeuringsbesluit bevat mede het opleidingsprogramma en de syllabus van de opleidingsorganisatie.
 
 4. De minister kan een goedgekeurde opleidingsinstelling, als bedoeld in het derde lid, overeenkomstig artikel ARA.CC.200, onderdeel b, van bijlage VI van verordening (EU) nr. 1178/2011, mandaat verlenen om namens hem attesten voor cabinebemanningsleden af te geven indien die opleidingsinstelling:
 
-- a. voldoet aan de eisen, bedoeld in hoofdstuk 2 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2018-10-03&g=2018-10-03), en
+- a. voldoet aan de eisen, bedoeld in hoofdstuk 2 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2019-07-03&g=2019-07-03), en
 
 - b. gedocumenteerde procedures heeft ingevoerd voor de examinering en het afgeven van attesten overeenkomstig de artikelen CC.TRA.220, onderdeel c, van bijlage V en ARA.CC.200, onderdeel b, onder 2, van bijlage VI van verordening (EU) nr. 1178/2011.
 
@@ -99,9 +103,9 @@ De aanvraag tot registratie, erkenning of goedkeuring dan wel hernieuwde afgifte
 
 De aanvraag tot registratie of goedkeuring gaat vergezeld van:
 
-- a. voor de registratie van een opleidingsinstelling voor RPL(A)MLA of RPL(H) gyroplane:
+- a. voor de registratie van een opleidingsinstelling voor RPL(A)MLA of RPL(H)MLH of RPL(GC):
 
-- 1°. naam of model van het trainingshandboek dat wordt gebruikt;
+- 1°. het trainingshandboek dat wordt gebruikt;
 
 - 2°. verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat de training zal worden uitgevoerd in overeenstemming met deze regeling;
 
@@ -147,29 +151,27 @@ De aanvraag tot registratie of goedkeuring gaat vergezeld van:
 
 2. De geldigheidsduur van een eerste erkenning met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening is ten minste 6 maanden.
 
-3. In afwijking van het eerste lid wordt een registratie voor onbepaalde tijd verleend, indien de registratie enkel betrekking heeft op de module RT.
+3. In afwijking van het eerste lid wordt een registratie voor onbepaalde tijd verleend, indien de registratie enkel betrekking heeft op de module RT, of als de houder van de registratie een DTO dan wel een ATO is.
 
 4. De registratie van een opleidinginstelling voor RPA-L kan met terugwerkende kracht worden verleend.
 
 5. In afwijking van het eerste lid is de registratie van een opleidinginstelling voor RPA-L die met terugwerkende kracht is verleend geldig tot een jaar na de datum van deze registratie.
 
-6. De goedkeuring van een opleidingsinstelling voor het verzorgen van de basisopleiding van cabinebemanningsleden alsmede de machtiging, bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2018-10-03&g=2018-10-03), gelden voor onbepaalde tijd.
+6. De goedkeuring van een opleidingsinstelling voor het verzorgen van de basisopleiding van cabinebemanningsleden alsmede de machtiging, bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-07-03&g=2019-07-03), gelden voor onbepaalde tijd.
 
 #### § 2.3. Opnieuw afgeven
 
 ##### Artikel 6
 
-1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2018-10-03&g=2018-10-03).
+1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2019-07-03&g=2019-07-03).
 
-2. In afwijking van het eerste lid is opnieuw registreren met betrekking tot de opleidingen RPL(A)SE piston (land) en RPL(A)TMG mogelijk voor ten hoogste twee jaar tot uiterlijk 8 april 2018.
+2. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2019-07-03&g=2019-07-03).
 
-3. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2018-10-03&g=2018-10-03).
-
-4. De minister registreert op aanvraag een opleidingsinstelling voor RPA-L opnieuw voor de termijn van twee jaar, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2018-10-03&g=2018-10-03).
+3. De minister registreert op aanvraag een opleidingsinstelling voor RPA-L opnieuw voor de termijn van twee jaar, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2019-07-03&g=2019-07-03).
 
 ##### Artikel 7
 
-De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2018-10-03&g=2018-10-03), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
+De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2019-07-03&g=2019-07-03), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
 
 #### § 2.4. Wijziging
 
@@ -183,7 +185,7 @@ Een goedgekeurde opleidingsinstelling, geregistreerde opleidingsinstelling of er
 
 2. Het eerste lid is van overeenkomstige toepassing op erkende taalbeoordelingsinstanties.
 
-3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2018-10-03&g=2018-10-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2018-10-03&g=2018-10-03) van overeenkomstige toepassing.
+3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-07-03&g=2019-07-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2019-07-03&g=2019-07-03) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Inhoudelijke eisen voor registratie, kwalificatie en erkenning
 
@@ -191,11 +193,13 @@ Een goedgekeurde opleidingsinstelling, geregistreerde opleidingsinstelling of er
 
 1. Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2018-10-03&g=2018-10-03) bij deze regeling;
+- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2019-07-03&g=2019-07-03) bij deze regeling;
 
-- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2018-10-03&g=2018-10-03) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2018-10-03&g=2018-10-03) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2018-10-03&g=2018-10-03) bij deze regeling; 5°. voor RPA-L, de eis dat de opleidingsinstelling zorg draagt voor correct, volledig en passend lesmateriaal ten behoeve van een theorie- en praktijkopleiding en voor een procedure die waarborgt dat de examens op correcte en passende wijze worden afgenomen door examinatoren die niet de theorie- en praktijkopleiding hebben verzorgd van de kandidaat die de examens aflegt.
+- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in Deel FCL.725; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2019-07-03&g=2019-07-03) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2019-07-03&g=2019-07-03) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2019-07-03&g=2019-07-03) bij deze regeling; 5°. voor RPA-L, de eis dat de opleidingsinstelling zorg draagt voor correct, volledig en passend lesmateriaal ten behoeve van een theorie- en praktijkopleiding en voor een procedure die waarborgt dat de examens op correcte en passende wijze worden afgenomen door examinatoren die niet de theorie- en praktijkopleiding hebben verzorgd van de kandidaat die de examens aflegt.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op de registratie van een opleidingsinstelling met betrekking tot de module RT.
+
+3. Een DTO of ATO wordt geacht te voldoen aan de eisen bedoeld in het eerste lid, onderdeel a.
 
 ##### Artikel 11
 
@@ -205,11 +209,11 @@ Vervallen
 
 ##### Artikel 12
 
-Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2018-10-03&g=2018-10-03) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
+Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-07-03&g=2019-07-03) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
 
 ##### Artikel 13
 
-De bijlagen bij deze regeling, met uitzondering van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2018-10-03&g=2018-10-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2018-10-03&g=2018-10-03), liggen ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
+De bijlagen bij deze regeling, met uitzondering van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2019-07-03&g=2019-07-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2019-07-03&g=2019-07-03), liggen ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
 ##### Artikel 14
 
@@ -247,7 +251,7 @@ Voor de erkenning van een opleidingsinstelling met betrekking tot het aanbieden 
 
 ### Hoofdstuk 4. Slotbepalingen
 
-## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2018-10-03&g=2018-10-03)
+## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2019-07-03&g=2019-07-03)
 
 ### 1. De opleiding voor RPL(A)
 
@@ -255,7 +259,7 @@ De opleiding voor RPL(A)SE piston(land) wordt aangeboden door:
 
 De opleiding voor RPL(A)SE piston(land) wordt aangeboden door:
 
-De opleiding voor RPL(A)SE piston(land) wordt aangeboden door:
+De opleiding voor RPL(A)MLA wordt aangeboden door een geregistreerde opleiding met instructeurs die in het bezit zijn van geldige RFI in hun RPL(A)MLA of geldig FI in hun PPL(A), CPL(A) of ATPL(A) en de klassebevoegdverklaring waarvoor ze instructie geven.
 
 De opleiding voor RPL(A)TMG wordt aangeboden door:
 
@@ -269,7 +273,7 @@ De opleiding voor RPL(H) voor type bevoegdverklaringen voor eenmotorige helikopt
 
 De praktijkopleiding voor elke klasse binnen het RPL(A) omvat ten minste 30 uur, waarvan ten minste:
 
-De praktijkopleiding voor elke klasse binnen het RPL(A) omvat ten minste 30 uur, waarvan ten minste:
+op een vliegtuig uit een willekeurige klasse uit RPL(A):
 
 ### 4. De opleidingsvliegtuigen voor RPL(A)
 
@@ -281,23 +285,23 @@ De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(
 
 De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(A)/RPL(A), inclusief het theorie-gedeelte voor communicatie.
 
-De praktijkopleiding voor elk type eenmotorige helikopter of gyroplane of voor de klasse MLH binnen het RPL(H) omvat ten minste 30 uur, waarvan ten minste:
+De praktijkopleiding voor elk type eenmotorige helikopter of voor de klasse MLH binnen het RPL(H) omvat ten minste 30 uur op het gewenste type eenmotorige helikopter of de klasse MLH, waarvan ten minste:
 
-De praktijkopleiding voor elk type eenmotorige helikopter of gyroplane of voor de klasse MLH binnen het RPL(H) omvat ten minste 30 uur, waarvan ten minste:
+Het opleidingsplan voor de praktijkopleiding voor RPL(H) voor een type opleiding of voor de klasse opleiding eenmotorige helikopters omvat ten minste:
 
 op het gewenste type eenmotorige helikopter of gyroplane of de klasse MLH:
 
-bij een gyroplane kunnen (voor zowel het type als voor de klasse MLH) de DBO uren, gevlogen op een ongemotoriseerde gyroplane tot een maximum van 5 uren in mindering worden gebracht.
+De opleidingsinstelling zorgt voor een adequate vloot van opleidingshelikopters die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels.
 
 ### 7. De opleidingshelikopters of gyroplanes voor RPL(H)
 
 Het opleidingsplan voor de praktijkopleiding voor RPL(H) voor gyroplanes omvat ten minste:
 
-De opleidingsinstelling zorgt voor een adequate vloot van opleidingshelikopters of gyroplanes die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels.
+De theorieopleiding voor het theorie-examen PPL(H) wordt verzorgd door een daartoe gekwalificeerde ATO of DTO.
 
-### 8. De theorieopleiding voor RPL(H)
+### 9. De praktijkopleiding voor RPL(GC)
 
-Elke helikopter inclusief gyroplane is voorzien van een dubbel besturingssysteem dat onafhankelijk kan worden gebruikt door de instructeur en de leerling. Een overzwenkbare besturing is niet acceptabel.
+De praktijkopleiding elk type eenmotorige gyrokopter of voor de klasse gyrokopter binnen het RPL(GC) omvat ten minste 30 uur op het gewenste type eenmotorige gyrokopter of de klasse GC, waarvan ten minste:
 
 ## Bijlage 3
 
@@ -327,31 +331,31 @@ Deze regeling berust mede op [artikel 1.5 van de Wet luchtvaart](https://wetten.
 
 ### 1. De opleiding voor RPL(A)
 
-De opleiding voor RPL(A)MLA wordt aangeboden door:
+De opleiding voor RPL(H) voor klasse- of type bevoegdverklaringen voor eenmotorige helikopters wordt aangeboden door een geregistreerde opleidingsinstelling met instructeurs die in het bezit zijn van een geldige RFI(H) in hun RPL(H) of FI in hun PPL(H), CPL(H) of ATPL(H) en de klasse- of typebevoegdverklaring waarvoor ze instructie geven.
 
-### 2. De opleiding voor RPL(H)
+### 2a. De opleiding voor RPL(GC)
 
-De opleiding voor RPL(H) voor type bevoegdverklaringen voor eenmotorige helikopters of voor gyroplanes wordt aangeboden door:
+De opleiding voor RPL(GC) voor de klasse- of type bevoegdverklaringen voor eenmotorige gyrokopters wordt aangeboden door een geregistreerde opleidingsinstelling met instructeurs die in het bezit zijn van een geldige RFI(GC) in hun RPL(GC) dan wel geldig FI in hun PPL(A/H), CPL(A/H) of ATPL(A/H) alsmede de klasse- of typebevoegdverklaring waarvoor ze instructie geven en die met goed gevolg een praktijkexamen RFI(GC) hebben afgelegd.
 
 ### 3. De praktijkopleiding voor RPL(A)
 
-op een vliegtuig uit een willekeurige klasse uit RPL(A):
+Het opleidingsplan voor de praktijkopleiding voor RPL(A) omvat ten minste:
 
-### 4. De opleidingsvliegtuigen voor RPL(A)
+### 5. De theorieopleiding voor RPL(A)
 
-De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(A)/RPL(A), inclusief het theorie-gedeelte voor communicatie.
+De theorieopleiding voor het theorie-examen PPL(A) wordt verzorgd door een daartoe gekwalificeerde ATO of DTO.
 
 ### 6. De praktijkopleiding voor RPL(H)
 
-Het opleidingsplan voor de praktijkopleiding voor RPL(H) voor eenmotorige helikopters omvat ten minste:
+Elke helikopter is voorzien van een dubbel besturingssysteem dat onafhankelijk kan worden gebruikt door de instructeur en de leerling. Een overzwenkbare besturing is niet acceptabel.
 
-### 7. De opleidingshelikopters of gyroplanes voor RPL(H)
+### 8. De theorieopleiding voor RPL(H)
 
 De opleidingsinstelling zorgt voor een adequate vloot van opleidingshelikopters of gyroplanes die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels.
 
 ### 8. De theorieopleiding voor RPL(H)
 
-De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(H), inclusief het theorie-gedeelte voor communicatie.
+Het opleidingsplan voor de praktijkopleiding voor RPL(GC) omvat ten minste:
 
 ## Bijlage 3
 
@@ -359,7 +363,7 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
 ##### Artikel 11b
 
-1. De in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2018-10-03&g=2018-10-03), bedoelde opleidingsinstelling hanteert voor de afgifte respectievelijk de registratie van attesten voor cabinebemanningsleden procedures overeenkomstig de artikelen ARA.GEN.315 respectievelijk ARA.GEN.220 van bijlage VI van verordening (EU) nr. 1178/2011.
+1. De in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-07-03&g=2019-07-03), bedoelde opleidingsinstelling hanteert voor de afgifte respectievelijk de registratie van attesten voor cabinebemanningsleden procedures overeenkomstig de artikelen ARA.GEN.315 respectievelijk ARA.GEN.220 van bijlage VI van verordening (EU) nr. 1178/2011.
 
 2. De in het eerste lid bedoelde opleidingsinstelling verstrekt de bevoegde autoriteit de informatie en documentatie over de afgegeven attesten en de houders van deze attesten, voor zover de bevoegde autoriteit die nodig heeft om zijn gegevensbeheer-, toezichts- en handhavingstaken uit te voeren.
 
@@ -392,6 +396,42 @@ De minister kan een opleidingsinstelling goedkeuring verlenen voor het verzorgen
 ### Hoofdstuk 2. Bevoegdheid tot het afgeven van attesten voor Cabinebemanningsleden
 
 Een goedgekeurde opleidingsinstelling voor het verzorgen van de basisopleiding voor cabinebemanningsleden kan worden aangewezen om namens de minister attesten voor cabinebemanningsleden af te geven in overeenstemming met artikel CC.CCA.100 (b), onderdeel 2, van bijlage V van verordening (EU) nr. 1178/2011, indien de opleidingsinstelling de volgende onderdelen aan het handboek bedoeld in hoofdstuk 1 heeft toegevoegd:
+
+### Hoofdstuk 3. Attest voor Cabinebemanningsleden
+
+Het attest voldoet aan het model in appendix II van bijlage VI, deel ARA, van verordening (EU) nr. 1178/2011.
+
+Een goedgekeurde opleidingsinstelling voor het verzorgen van de basisopleiding voor cabinebemanningsleden kan worden aangewezen om namens de minister attesten voor cabinebemanningsleden af te geven in overeenstemming met artikel CC.CCA.100 (b), onderdeel 2, van bijlage V van verordening (EU) nr. 1178/2011, indien de opleidingsinstelling de volgende onderdelen aan het handboek bedoeld in hoofdstuk 1 heeft toegevoegd:
+
+De opleidingsinstelling neemt in het handboek bedoeld in hoofdstuk 1 een voorbeeldattest op met voor de opleidingsinstelling relevante informatie.
+
+### 2. De opleiding voor RPL(H)
+
+### 7. De opleidingshelikopters voor RPL(H)
+
+### 10. De opleidingsgyrokopters voor RPL(GC)
+
+De opleidingsinstelling zorgt voor een adequate vloot van opleidingsgyrokopters die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels. Elke gyrokopter is voorzien van een dubbel besturingssysteem dat onafhankelijk kan worden gebruikt door de instructeur en de leerling. Een overzwenkbare besturing is niet acceptabel.
+
+### 11. De theorieopleiding voor RPL(GC)
+
+De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen op het niveau van PPL. Het theoriegedeelte kan gebaseerd zijn op PPL(A) of PPL(H) met de additionele training die de relevante verschillen met het vliegen van een gyrokopter bevat. Het theoretisch gedeelte van de training zal worden afgesloten met een examen, Deel FCL 120 is van overeenkomstige toepassing.
+
+## Bijlage 3
+
+Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
+
+## Bijlage 4. bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2019-07-03&g=2019-07-03), van de Regeling opleidingsinstellingen voor luchtvarenden 2001
+
+Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
+
+## Bijlage 5. bedoeld in [artikel 3, derde lid en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2019-07-03&g=2019-07-03), van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
+
+### Hoofdstuk 1. Goedkeuring voor het verzorgen van de Basisopleiding voor cabinebemanningsleden
+
+De minister kan een opleidingsinstelling goedkeuring verlenen voor het verzorgen van de basisopleiding voor cabinebemanningsleden overeenkomstig CC.TRA.215 van verordening (EU) nr. 1178/2011, indien de aanvraag daartoe is ingediend met een aanvraagformulier van het model als hierachter opgenomen en is voldaan aan de volgende eisen:
+
+### Hoofdstuk 2. Bevoegdheid tot het afgeven van attesten voor Cabinebemanningsleden
 
 ### Hoofdstuk 3. Attest voor Cabinebemanningsleden
 
