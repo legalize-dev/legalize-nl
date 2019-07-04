@@ -4,7 +4,7 @@ identifier: "BWBR0017139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2018-07-01"
+last_updated: "2019-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017139"
 soort: "ministeriele-regeling"
@@ -60,9 +60,11 @@ Besluit:
 
 2. In afwijking van het eerste lid kan het UWV in individuele gevallen opleiding of scholing van een langere duur toestaan, doch niet langer dan twee jaar.
 
+3. In afwijking van het eerste en tweede lid kan het UWV in individuele gevallen opleiding of scholing van een langere duur toestaan, indien de opleiding of scholing wordt bekostigd uit het scholingsbudget, bedoeld in de [Regeling tijdelijk scholingsbudget UWV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042362).
+
 ##### Artikel 3. Uitzondering recht op uitkering
 
-Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2018-07-01&g=2018-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-07-01&g=2018-07-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
+Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2019-07-04&g=2019-07-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2019-07-04&g=2019-07-04) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
 
 ##### Artikel 4. Overgangsrecht
 
@@ -82,8 +84,10 @@ Deze regeling wordt aangehaald als: Scholingsregeling WW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2018-07-01&g=2018-07-01)
+##### Artikel 4a. Vervaldatum [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2019-07-04&g=2019-07-04)
 
-Vervallen
+1. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2019-07-04&g=2019-07-04), vervalt met ingang van 1 januari 2021.
+
+2. Dit artikel vervalt met ingang van 1 januari 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
