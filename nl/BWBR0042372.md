@@ -4,7 +4,7 @@ identifier: "BWBR0042372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-05"
-last_updated: "2019-07-03"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042372"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Commissie heeft tot taak te besluiten op verzoeken om vergoeding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), het nemen van beslissingen op bezwaren tegen die besluiten, het voeren van verweer in beroepsprocedures tegen de beslissingen op bezwaar en het voeren van hoger beroepsprocedures tegen uitspraken van de rechtbank.
+1. De Commissie heeft tot taak te besluiten op verzoeken om vergoeding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), het nemen van beslissingen op bezwaren tegen die besluiten, het voeren van verweer in beroepsprocedures tegen de beslissingen op bezwaar en het voeren van hoger beroepsprocedures tegen uitspraken van de rechtbank.
 
 2. Aan de leden van de Commissie wordt ieder voor zich mandaat, volmacht en machtiging verleend voor aangelegenheden die verband houden met de in het eerste lid bedoelde taak waaronder begrepen het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en overige handelingen op het gebied van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming, de [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en voor de afhandeling van interne klachten en verzoeken van de Nationale Ombudsman.
 
@@ -104,15 +104,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De Commissie verbindt aan een besluit op een aanvraag als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), de voorwaarde dat aanvrager desgevraagd medewerking verleent of laat verlenen aan het uitvoeren van een nulmeting aan het gebouw of werk waarop de aanvraag betrekking had.
+1. De Commissie verbindt aan een besluit op een aanvraag als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), de voorwaarde dat aanvrager desgevraagd medewerking verleent of laat verlenen aan het uitvoeren van een nulmeting aan het gebouw of werk waarop de aanvraag betrekking had.
 
-2. Uit de facturen, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), blijkt in voldoende mate dat de kosten zijn gemaakt ten behoeve van herstel van de schade waarop de aanvraag betrekking heeft.
+2. Uit de facturen, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), blijkt in voldoende mate dat de kosten zijn gemaakt ten behoeve van herstel van de schade waarop de aanvraag betrekking heeft.
 
-3. De Commissie kan aan haar besluit op een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), nadere voorwaarden stellen waaraan de facturen moeten voldoen. De Commissie publiceert deze voorwaarden ook op haar website.
+3. De Commissie kan aan haar besluit op een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), nadere voorwaarden stellen waaraan de facturen moeten voldoen. De Commissie publiceert deze voorwaarden ook op haar website.
 
 ##### Artikel 5
 
-1. Het verzoek tot wijziging van een aanvraag als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) in een aanvraag als bedoeld in[artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), wordt bij de Commissie ingediend door middel van een door de Commissie vastgesteld digitaal formulier.
+1. Het verzoek tot wijziging van een aanvraag als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) in een aanvraag als bedoeld in[artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), wordt bij de Commissie ingediend door middel van een door de Commissie vastgesteld digitaal formulier.
 
 2. Het verzoek bevat ten minste:
 
@@ -130,21 +130,21 @@ In deze regeling wordt verstaan onder:
 
 - b. waar als gevolg van een beving met een epicentrum in het Groningenveld of de Gasopslag Norg een trillingssterkte van 2 mm/s met een overschrijdingskans van 1% is opgetreden.
 
-4. De aanvrager is ten tijde van het besluit op de aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), rechthebbende tot de schadevergoeding voor de fysieke schade aan het gebouw of werk.
+4. De aanvrager is ten tijde van het besluit op de aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), rechthebbende tot de schadevergoeding voor de fysieke schade aan het gebouw of werk.
 
-5. Indien de aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), niet voldoet aan één van de in deze regeling bedoelde voorwaarden, wijst de Commissie de aanvraag af.
+5. Indien de aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), niet voldoet aan één van de in deze regeling bedoelde voorwaarden, wijst de Commissie de aanvraag af.
 
 6. De Commissie kan:
 
-- a. in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), een variabele vergoeding toekennen ten aanzien van een aanvraag waarvoor een rapport als bedoeld in [artikel 6, tweede lid, van Bijlage I bij het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1) is uitgebracht, en
+- a. in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), een variabele vergoeding toekennen ten aanzien van een aanvraag waarvoor een rapport als bedoeld in [artikel 6, tweede lid, van Bijlage I bij het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&bijlage=1) is uitgebracht, en
 
-- b. afwijken van [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), ten einde onbillijkheden van overwegende aard te voorkomen.
+- b. afwijken van [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), ten einde onbillijkheden van overwegende aard te voorkomen.
 
 ##### Artikel 6
 
-1. Een verzoek als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), wijzigt alle aanvragen die de aanvrager heeft ingediend op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) waarop ten tijde van het verzoek tot wijziging van de aanvraag nog geen besluit is genomen door de Commissie.
+1. Een verzoek als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), wijzigt alle aanvragen die de aanvrager heeft ingediend op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) waarop ten tijde van het verzoek tot wijziging van de aanvraag nog geen besluit is genomen door de Commissie.
 
-2. Indien de Commissie een aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-03), afwijst, herleeft de aanvraag op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) zodra het afwijzende besluit op grond van deze regeling onherroepelijk is geworden.
+2. Indien de Commissie een aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), afwijst, herleeft de aanvraag op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) zodra het afwijzende besluit op grond van deze regeling onherroepelijk is geworden.
 
 ##### Artikel 7
 
