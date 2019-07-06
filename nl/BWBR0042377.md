@@ -4,7 +4,7 @@ identifier: "BWBR0042377"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2019-06-18"
+last_updated: "2019-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042377"
 soort: "AMvB"
@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De doorgifte van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042377&artikel=2&z=2019-07-06&g=2019-06-18), bedoelde gegevens aan Europol geschiedt onder de voorwaarde dat deze gegevens slechts kunnen worden verwerkt voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven.
+De doorgifte van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042377&artikel=2&z=2019-07-06&g=2019-07-06), bedoelde gegevens aan Europol geschiedt onder de voorwaarde dat deze gegevens slechts kunnen worden verwerkt voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven.
 
 ##### Artikel 4
 
