@@ -4,7 +4,7 @@ identifier: "BWBR0039462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-09"
-last_updated: "2017-04-14"
+last_updated: "2019-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039462"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **lerarenteam:** samenwerkingsverband van ten minste twee leraren binnen een school dan wel binnen meer scholen onder een bevoegd gezag die samen een masteropleiding gaan volgen;
 
-- •. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of [artikel 7.3b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
+- •. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of [artikel 7.3b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
 
 - •. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
@@ -78,7 +78,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Subsidieplafond
 
-Het subsidieplafond voor de periode vanaf de datum van inwerkingtreding van deze regeling tot 1 september 2018 bedraagt € 11,7 miljoen.
+1. Het subsidieplafond voor de periode vanaf de datum van inwerkingtreding van deze regeling tot 1 september 2018 bedraagt € 11,7 miljoen.
+
+2. Het subsidieplafond voor nieuwe subsidieaanvragen in 2019 bedraagt €2.900.000
 
 ##### Artikel 3. Wijze van verdeling beschikbare middelen
 
@@ -132,13 +134,13 @@ De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op vol
 
 ##### Artikel 6. Verplichtingen
 
-1. Het lerarenteam start uiterlijk zes maanden na het verstrekken van de subsidie met het volgen van de masteropleiding. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14), vangen na het afronden van de studie aan.
+1. Het lerarenteam start uiterlijk zes maanden na het verstrekken van de subsidie met het volgen van de masteropleiding. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), vangen na het afronden van de masteropleiding aan.
 
 2. Het bevoegd gezag verleent studieverlof voor het volgen van een masteropleiding en stelt het lerarenteam in staat de opgedane kennis te benutten ten behoeve van schoolontwikkeling.
 
 ##### Artikel 7. Omvang subsidie
 
-1. Per aanvraag als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14), zijn de volgende maximale subsidiebedragen beschikbaar:
+1. Per aanvraag als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), zijn de volgende maximale subsidiebedragen beschikbaar:
 
 - a. per leraar de kosten van het verschuldigd collegegeld tot een maximum van € 7.000 per studiejaar;
 
@@ -150,31 +152,31 @@ De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op vol
 
 - e. per leraar ten hoogste 160 uren voor de implementatie van kennis door de masteropgeleide leraar;
 
-met dien verstande dat het subsidiebedrag voor een uur als bedoeld in het tweede lid, onderdelen d en e, € 37,79 bedraagt voor leraren uit het primair onderwijs en € 39,58 voor leraren uit het speciaal onderwijs en voortgezet speciaal onderwijs. Het bedrag wordt jaarlijks geïndexeerd en wordt bekendgemaakt in de Staatscourant.
+met dien verstande dat het subsidiebedrag voor een uur als bedoeld in onderdelen d en e, bedraagt € 40,89 voor leraren uit het primair onderwijs en € 43,02 voor leraren uit het speciaal onderwijs en voortgezet speciaal onderwijs.
 
-2. Per aanvraag als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14), is het volgende maximale subsidiebedrag beschikbaar:
+2. Per aanvraag als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), is het volgende maximale subsidiebedrag beschikbaar:
 
-- a. maximaal € 5.000 per school voor activiteiten als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14); of
+- a. maximaal € 5.000 per school voor activiteiten als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09); of
 
-- b. maximaal € 5.000 voor activiteiten als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14).
+- b. maximaal € 5.000 voor activiteiten als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09).
 
 ##### Artikel 8. Aanvraagprocedure
 
-1. In 2017 kan tussen 1 mei tot en met 15 oktober en in 2018 kan tussen 1 april tot en met 15 oktober subsidie worden aangevraagd.
+1. In 2017 kan tussen 1 mei tot en met 15 oktober en in 2018 kan tussen 1 april tot en met 15 oktober subsidie worden aangevraagd. In 2019 kan van 15 juli tot en met 15 oktober subsidie worden aangevraagd.
 
 2. De subsidie wordt aangevraagd door het bevoegd gezag van de school of scholen waar de leraren werkzaam zijn. Tevens ondertekenen de betrokken schoolleider of schoolleiders en leraren van het lerarenteam de aanvraag.
 
 3. Voor de aanvraag van subsidie wordt een door de minister vastgesteld modelformulier gebruikt dat is bekend gemaakt op de website www.dus-i.nl.
 
-4. De aanvrager verklaart in zijn aanvraag dat de leraren, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14), voor minimaal 20% van de werktijd zijn belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk zijn voor het onderwijs aan leerlingen, voor zover de leraren niet intern begeleider of remedial teacher zijn.
+4. De aanvrager verklaart in zijn aanvraag dat de leraren, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), voor minimaal 20% van de werktijd zijn belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk zijn voor het onderwijs aan leerlingen, voor zover de leraren niet intern begeleider of remedial teacher zijn.
 
-5. De aanvrager verklaart in zijn aanvraag dat de leraren, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14), niet reeds uit andere hoofde van de minister een tegemoetkoming in de studiekosten hebben ontvangen voor het volgen van de opleiding waarvoor subsidie wordt aangevraagd.
+5. De aanvrager verklaart in zijn aanvraag dat de leraren, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), niet reeds uit andere hoofde van de minister een tegemoetkoming in de studiekosten hebben ontvangen voor het volgen van de opleiding waarvoor subsidie wordt aangevraagd.
 
-6. Indien een aanvraag betrekking heeft op een masteropleiding die nog niet geaccrediteerd is, besluit de minister voor dat deel van de aanvraag niet eerder op de aanvraag dan nadat de Nederlands-Vlaamse Accreditatieorganisatie een besluit heeft genomen over de accreditatie van die opleiding, met een maximum van 10 maanden.
+6. Indien een aanvraag betrekking heeft op een masteropleiding die nog niet geaccrediteerd is, besluit de minister voor dat deel van de aanvraag niet eerder op de aanvraag dan nadat de Nederlands-Vlaamse Accreditatieorganisatie een besluit heeft genomen over de accreditatie van die opleiding. De uiterste datum waarop de minister beslist is 1 februari 2020.
 
 ##### Artikel 9. Weigeringsgronden
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister subsidie indien een leraar als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2017-04-14&g=2017-04-14):
+Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister subsidie indien een leraar als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09):
 
 - a. reeds een masteropleiding heeft gevolgd op basis waarvan het bevoegd gezag op grond van deze regeling subsidie heeft ontvangen; of
 
@@ -194,7 +196,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na ontvangst van de aanvraag.
 
-2. De minister bepaalt in de beschikking het betaalritme.
+2. De minister betaalt de subsidie ineens.
 
 3. Indien de activiteiten volledig zijn uitgevoerd en aan alle verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -290,7 +292,7 @@ Het bevoegd gezag toont op verzoek van de minister tot maximaal 1 jaar nadat de 
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2020.
+2. Deze regeling vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 22. Citeertitel
 
