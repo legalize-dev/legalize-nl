@@ -4,7 +4,7 @@ identifier: "BWBR0040810"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-03"
-last_updated: "2018-04-11"
+last_updated: "2019-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040810"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder Besluit: het [Besluit bewapening en uitrusti
 
 ##### Artikel 3
 
-Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2018-04-11&g=2018-04-11), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met munitie van het merk RUAG Ammotec GmbH, type Action, model NP, kaliber 9 millimeter maal 19 millimeter.
+Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2019-07-09&g=2019-07-09), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met munitie van het merk RUAG Ammotec GmbH, type Action, model NP, kaliber 9 millimeter maal 19 millimeter.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Als pepperspray, bedoeld in [artikel 1, onder g, van het Besluit](https://wetten
 
 ##### Artikel 7
 
-Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2018-04-11&g=2018-04-11) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
+Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2019-07-09&g=2019-07-09) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
 
 ##### Artikel 8
 
@@ -178,7 +178,9 @@ Als lange wapenstok bedoeld in de [artikelen 2, tweede lid](https://wetten.overh
 
 - e. Walther, opengewerkt pistool, type P99Q NL;
 
-- f. General Dynamics, pistool voor markeermunitie, type P99Q NL, kaliber 9 millimeter maal 19 millimeter.
+- f. General Dynamics, pistool voor markeermunitie, type P99Q NL, kaliber 9 millimeter maal 19 millimeter;
+
+- g. Umarex, airsoftapparaat, type Walther P99Q NL.
 
 2. Als trainingsmunitie, bedoeld in [artikel 19, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=19), worden goedgekeurd de trainingsmunitie van het merk:
 
