@@ -4,7 +4,7 @@ identifier: "BWBR0037229"
 country: "nl"
 rank: "wet"
 publication_date: "2019-07-10"
-last_updated: "2016-04-01"
+last_updated: "2019-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037229"
 soort: "wet"
@@ -103,15 +103,15 @@ Wijzigt de Wet beloningsbeleid financiële ondernemingen.
 
 ##### Artikel XIa
 
-1. Het verbod, bedoeld in [artikel 3:95, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) om een gekwalificeerde deelneming te houden, dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen zonder verkregen verklaring van geen bezwaar van de Nederlandsche Bank, geldt gedurende 3 maanden, gerekend vanaf het tijdstip van inwerkingtreding van [artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=I&z=2016-04-01&g=2016-04-01), niet voor personen die op dat tijdstip reeds een gekwalificeerde deelneming in een premiepensioeninstelling houden.
+1. Het verbod, bedoeld in [artikel 3:95, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) om een gekwalificeerde deelneming te houden, dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen zonder verkregen verklaring van geen bezwaar van de Nederlandsche Bank, geldt gedurende 3 maanden, gerekend vanaf het tijdstip van inwerkingtreding van [artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=I&z=2019-07-10&g=2019-07-10), niet voor personen die op dat tijdstip reeds een gekwalificeerde deelneming in een premiepensioeninstelling houden.
 
 2. De in het eerste lid bedoelde termijn wordt voor personen die binnen die termijn een aanvraag voor een verklaring van geen bezwaar voor het houden van een gekwalificeerde deelneming indienen, verlengd tot en met de dag na ontvangst van het besluit van de Nederlandsche Bank.
 
-3. [Artikel 3:104, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:104) is niet van toepassing op besluiten in een premiepensioeninstelling die zijn genomen voor het tijdstip van inwerkingtreding van [artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=I&z=2016-04-01&g=2016-04-01), van deze wet.
+3. [Artikel 3:104, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:104) is niet van toepassing op besluiten in een premiepensioeninstelling die zijn genomen voor het tijdstip van inwerkingtreding van [artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=I&z=2019-07-10&g=2019-07-10), van deze wet.
 
 ##### Artikel XIb
 
-Op wettelijke controles die betrekking hebben op een boekjaar dat reeds is aangevangen voor het tijdstip van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=X&z=2016-04-01&g=2016-04-01), blijft [artikel 24, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24) zoals dat luidde voor inwerkingtreding van artikel X, van toepassing.
+Op wettelijke controles die betrekking hebben op een boekjaar dat reeds is aangevangen voor het tijdstip van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0037229&artikel=X&z=2019-07-10&g=2019-07-10), blijft [artikel 24, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24) zoals dat luidde voor inwerkingtreding van artikel X, van toepassing.
 
 ##### Artikel XII
 
