@@ -4,7 +4,7 @@ identifier: "BWBR0042396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-12"
-last_updated: "2019-06-01"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042396"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Behandelen van bezwaarschriften en (hoger) beroep
 
-1. Aan de directeur Ambtenaar & Organisatie wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften tegen besluiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042396&artikel=2&z=2019-07-12&g=2019-06-01), waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover het besluit waartegen het bezwaar zich richt, niet door hem krachtens mandaat is genomen.
+1. Aan de directeur Ambtenaar & Organisatie wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften tegen besluiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042396&artikel=2&z=2019-07-12&g=2019-07-12), waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover het besluit waartegen het bezwaar zich richt, niet door hem krachtens mandaat is genomen.
 
 2. Aan de directeur Ambtenaar & Organisatie wordt tevens machtiging verleend voor het behandelen van beroepschriften en voor het voeren van verweer in de gevallen waarin (hoger) beroep is ingesteld tegen een beslissing op bezwaar als bedoeld in het eerste lid.
 
