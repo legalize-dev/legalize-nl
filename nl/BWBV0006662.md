@@ -4,7 +4,7 @@ identifier: "BWBV0006662"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-07-14"
-last_updated: "2016-10-25"
+last_updated: "2019-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006662"
 soort: "verdrag"
@@ -90,7 +90,7 @@ zijn het volgende overeengekomen:
 
 ##### Artikel 6. Criteria voor het opzetten van activiteiten
 
-1. Om de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=5&z=2016-10-25&g=2016-10-25) van deze overeenkomst bedoelde doelstellingen te verwezenlijken,
+1. Om de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=5&z=2019-07-14&g=2019-07-14) van deze overeenkomst bedoelde doelstellingen te verwezenlijken,
 
 - a. zijn de activiteiten van de EU-LAC-Stichting gebaseerd op de prioriteiten en thema's die aan de orde zijn gekomen op de topconferenties op het niveau van de staatshoofden en regeringsleiders en die zijn gericht op de vastgestelde behoeften ter bevordering van het biregionale partnerschap;
 
@@ -104,7 +104,7 @@ zijn het volgende overeengekomen:
 
 ##### Artikel 7. Activiteiten van de Stichting
 
-1. Om de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=5&z=2016-10-25&g=2016-10-25) bedoelde doelstellingen te bereiken, worden onder meer volgende activiteiten door de EU-LAC-Stichting ondernomen:
+1. Om de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=5&z=2019-07-14&g=2019-07-14) bedoelde doelstellingen te bereiken, worden onder meer volgende activiteiten door de EU-LAC-Stichting ondernomen:
 
 - a. een impuls geven aan het debat door middel van seminars, conferenties, workshops, discussiegroepen, opleidingen, tentoonstellingen, publicaties, presentaties, beroepsopleiding, uitwisselingen van beste praktijken en specifieke kennis;
 
@@ -180,7 +180,7 @@ De raad van bestuur van de EU-LAC-Stichting oefent de volgende bevoegdheden uit:
 
 - p. goedkeuring van het aangaan van strategische partnerschappen;
 
-- q. goedkeuring van de sluiting van een overeenkomst of rechtsinstrument waarover is onderhandeld overeenkomstig [artikel 15, lid 4, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=15&z=2016-10-25&g=2016-10-25).
+- q. goedkeuring van de sluiting van een overeenkomst of rechtsinstrument waarover is onderhandeld overeenkomstig [artikel 15, lid 4, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=15&z=2019-07-14&g=2019-07-14).
 
 ##### Artikel 12. Bijeenkomsten van de raad van bestuur
 
@@ -230,7 +230,7 @@ De raad van bestuur kan optreden bij aanwezigheid van meer dan de helft van zijn
 
 - d. indiening van periodieke en jaarlijkse activiteitenverslagen, alsook financiële rekeningen aan de raad van bestuur voor goedkeuring, handhaving van transparante procedures en correcte doorstroming van informatie betreffende alle activiteiten die door de Stichting zijn verricht of ondersteund, met inbegrip van een geactualiseerde lijst van de op nationale niveau vastgestelde instellingen en organisaties en die welke deelnemen aan de activiteiten van de Stichting;
 
-- e. indiening van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=18&z=2016-10-25&g=2016-10-25) bedoelde rapport;
+- e. indiening van het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=18&z=2019-07-14&g=2019-07-14) bedoelde rapport;
 
 - f. voorbereiding van de bijeenkomsten en ondersteuning van de raad van bestuur;
 
@@ -272,7 +272,7 @@ Vanaf de datum van de inwerkingtreding van deze overeenkomst stelt de uitvoerend
 
 ##### Artikel 20. Voorrechten en immuniteiten
 
-1. De aard en rechtspersoonlijkheid van de Stichting is bepaald in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=2&z=2016-10-25&g=2016-10-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=4&z=2016-10-25&g=2016-10-25).
+1. De aard en rechtspersoonlijkheid van de Stichting is bepaald in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=2&z=2019-07-14&g=2019-07-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006662&artikel=4&z=2019-07-14&g=2019-07-14).
 
 2. Voor de status, voorrechten en immuniteiten van de Stichting, de raad van bestuur, de voorzitter, de uitvoerend directeur, de personeelsleden en de vertegenwoordigers van de leden wanneer zij zich op het grondgebied van Bondsrepubliek Duitsland bevinden voor het uitoefenen van hun functies, geldt de zetelovereenkomst tussen de regering van de Bondsrepubliek Duitsland en de Stichting.
 
