@@ -4,7 +4,7 @@ identifier: "BWBR0042412"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-05"
-last_updated: "2019-06-26"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042412"
 soort: "ministeriele-regeling"
@@ -39,8 +39,6 @@ entry_into_force: "2019-07-16"
 Gelet op de [artikelen 1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), [2.7, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.7) en de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=1.2), [2.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=2.5), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.7), en [6.7 van het Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.7);
 
 Besluit:
-
-Werkt terug tot en met het tijdstip waarop het Besluit forensische zorg in werking is getreden (Stb. 2019/230).
 
 ## I
 
@@ -92,7 +90,7 @@ De beveiliging van de gegevensverwerking die voortvloeit uit de [wet](https://we
 
 ##### Artikel 5
 
-Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, bedoeld in [3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.2) wordt het model in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=1&z=2019-07-16&g=2019-06-26) bij deze regeling gebruikt.
+Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, bedoeld in [3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.2) wordt het model in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=1&z=2019-07-16&g=2019-07-16) bij deze regeling gebruikt.
 
 ##### Artikel 6
 
@@ -132,11 +130,11 @@ Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, be
 
 ##### Artikel 9
 
-Als model voor de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de ter beschikking gestelde die van overheidswege wordt verpleegd, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4) wordt vastgesteld het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=2&z=2019-07-16&g=2019-06-26) bij deze regeling.
+Als model voor de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de ter beschikking gestelde die van overheidswege wordt verpleegd, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4) wordt vastgesteld het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=2&z=2019-07-16&g=2019-07-16) bij deze regeling.
 
 ##### Artikel 10
 
-Als model voor de aantekeningen van de beslissing tot beperking van het recht op onaantastbaarheid van het lichaam, van afzondering of van separatie, bedoeld in [artikel 3.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), wordt vastgesteld het formulier in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=3&z=2019-07-16&g=2019-06-26) bij deze regeling.
+Als model voor de aantekeningen van de beslissing tot beperking van het recht op onaantastbaarheid van het lichaam, van afzondering of van separatie, bedoeld in [artikel 3.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), wordt vastgesteld het formulier in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=3&z=2019-07-16&g=2019-07-16) bij deze regeling.
 
 ### Hoofdstuk 5. Beheer rijksinstellingen
 
@@ -228,7 +226,7 @@ De plaatsende instantie of persoon, bedoeld in [artikel 6.1 van het besluit](htt
 
 ##### Artikel 15
 
-[Artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&deel=I&hoofdstuk=6&artikel=12&z=2019-07-16&g=2019-06-26) zijn van overeenkomstige toepassing bij de beslissing tot een overplaatsing of overbrenging, bedoeld in [artikel 6.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.3).
+[Artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&deel=I&hoofdstuk=6&artikel=12&z=2019-07-16&g=2019-07-16) zijn van overeenkomstige toepassing bij de beslissing tot een overplaatsing of overbrenging, bedoeld in [artikel 6.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.3).
 
 ## II
 
