@@ -4,7 +4,7 @@ identifier: "BWBR0035372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2019-06-26"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035372"
 soort: "ministeriele-regeling"
@@ -232,7 +232,7 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 
 - d. bijzonderheden het voertuig betreffende;
 
-- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2019-07-16&g=2019-06-26);
+- e. het onderbreken van het transport en de reden daartoe, waaronder in ieder geval een onderbreking als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035372&hoofdstuk=6&artikel=17&z=2019-07-16&g=2019-07-16);
 
 - f. conflict met medische behandelaar over de aanwezigheid van een transportgeleider bij een onderzoek;
 
