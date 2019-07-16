@@ -4,7 +4,7 @@ identifier: "BWBR0010963"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-16"
-last_updated: "2019-06-26"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010963"
 soort: "ministeriele-regeling"
@@ -73,9 +73,9 @@ In gevallen als bedoeld onder e) wordt het bijzonder voorval gemeld door het hoo
 
 - b). niet terugkeren van onbegeleid verlof door een verpleegde.
 
-3. Bijzondere voorvallen worden aansluitend aan de telefonische melding, per fax of elektronische post gemeld. Daarbij wordt gebruik gemaakt van het Protocol melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=1&z=2019-07-16&g=2019-06-26) bij deze regeling is gevoegd.
+3. Bijzondere voorvallen worden aansluitend aan de telefonische melding, per fax of elektronische post gemeld. Daarbij wordt gebruik gemaakt van het Protocol melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=1&z=2019-07-16&g=2019-07-16) bij deze regeling is gevoegd.
 
-4. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het Protocol afloop/afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=2&z=2019-07-16&g=2019-06-26) bij deze regeling is gevoegd.
+4. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het Protocol afloop/afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=2&z=2019-07-16&g=2019-07-16) bij deze regeling is gevoegd.
 
 ##### Artikel 3. Inwerkingtreding
 
