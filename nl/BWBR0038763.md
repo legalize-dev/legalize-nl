@@ -4,7 +4,7 @@ identifier: "BWBR0038763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-17"
-last_updated: "2018-06-19"
+last_updated: "2019-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038763"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=2&z=2018-06-19&g=2018-06-19).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=2&z=2019-07-17&g=2019-07-17).
 
 ##### Artikel 2
 
@@ -76,35 +76,29 @@ Op grond van dit besluit kunnen maximaal 180 personen als buitengewoon opsporing
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
-2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de Inspecteur-Generaal van de Nederlandse Voedsel- en Waren Autoriteit.
+2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
 ##### Artikel 6
 
-1. Maximaal 162 personen van de buitengewoon opsporingsambtenaren genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=4&z=2018-06-19&g=2018-06-19) zijn bevoegd bij de opsporing van strafbare feiten waarvoor zij zijn beëdigd, gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en daarbij gebruikmaken van handboeien en een (korte) wapenstok.
+1. Maximaal 179 personen van de buitengewoon opsporingsambtenaren genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=4&z=2019-07-17&g=2019-07-17) zijn bevoegd om bij de opsporing van strafbare feiten waarvoor zij zijn beëdigd, gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en daarbij gebruik te maken van handboeien, een wapenstok en pepperspray.
 
-2. Maximaal 17 personen van de buitengewoon opsporingsambtenaren genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=4&z=2018-06-19&g=2018-06-19) en die voorheen werkzaam waren bij Groenservice Zuid Holland, in de functie van Handhaver Natuur & Recreatie, niet zijnde de personen genoemd in dit artikel in het eerste lid, zijn bevoegd bij de opsporing van de strafbare feiten waarvoor zij zijn beëdigd, gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en daarbij gebruikmaken van handboeien, een (korte) wapenstok, pepperspray. Deze bevoegdheden mogen slechts worden uitgeoefend in het voormalig beheersgebied van Groenservice Zuid-Holland.
-
-De buitengewoon opsporingsambtenaar mag de aan hem toegekende geweldsmiddelen in aangrenzende gebieden dragen, tenzij de terreinbeheerder van het betreffende aangrenzende gebied zich daar uitdrukkelijk tegen verzet.
-
-3. Één buitengewoon opsporingsambtenaar genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=4&z=2018-06-19&g=2018-06-19) en die voorheen werkzaam was bij Groenservice Zuid Holland, in de functie van Handhaver Natuur & Recreatie, niet zijnde de persoon genoemd in dit artikel in het eerste lid, is bevoegd bij de opsporing van de strafbare feiten waarvoor hij is beëdigd, gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en daarbij gebruikmaken van handboeien, een (korte) wapenstok, pepperspray en een gecertificeerde diensthond. Deze bevoegdheden mogen slechts worden uitgeoefend in het voormalig beheersgebied van Groenservice Zuid-Holland.
-
-De buitengewoon opsporingsambtenaar mag de aan hem toegekende geweldsmiddelen in aangrenzende gebieden dragen, tenzij de terreinbeheerder van het betreffende aangrenzende gebied zich daar uitdrukkelijk tegen verzet.
+2. Één buitengewoon opsporingsambtenaar genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=4&z=2019-07-17&g=2019-07-17) en die voorheen werkzaam was bij Groenservice Zuid Holland, in de functie van Handhaver Natuur & Recreatie, niet zijnde de persoon genoemd in dit artikel in het eerste lid, is bevoegd om bij de opsporing van de strafbare feiten waarvoor hij is beëdigd, gebruik te maken van de bevoegdheden, bedoeld in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en daarbij gebruikmaken van handboeien, een (korte) wapenstok, pepperspray en een surveillancehond. Deze bevoegdheden mogen slechts worden uitgeoefend in het voormalig beheersgebied van Groenservice Zuid-Holland.
 
 ##### Artikel 7
 
 1. De directeur van Staatsbosbeheer brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=2&z=2018-06-19&g=2018-06-19) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=2&z=2019-07-17&g=2019-07-17) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=5&z=2018-06-19&g=2018-06-19) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=5&z=2019-07-17&g=2019-07-17) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=9&z=2018-06-19&g=2018-06-19) genoemde besluiten, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038763&artikel=9&z=2019-07-17&g=2019-07-17) genoemde besluiten, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
