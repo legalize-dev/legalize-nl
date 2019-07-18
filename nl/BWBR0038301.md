@@ -4,7 +4,7 @@ identifier: "BWBR0038301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-02"
-last_updated: "2016-07-01"
+last_updated: "2019-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038301"
 soort: "ministeriele-regeling"
@@ -56,7 +56,11 @@ In dit besluit wordt verstaan onder:
 
 1. Er is een commissie incompatibiliteiten Huis voor klokkenluiders.
 
-2. De commissie heeft tot taak om aan het Huis een bindend advies te geven over het aanvaarden of vervullen van nevenfuncties van de voorzitter en de leden van het Huis die ongewenst zijn met het oog op een goede vervulling van hun functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin.
+2. De commissie heeft tot taak:
+
+- a. de minister een advies te geven over het aanvaarden of vervullen door een kandidaat-voorzitter of een kandidaat-lid van het Huis van nevenfuncties die ongewenst zijn met het oog op een goede vervulling van hun voorziene functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin;
+
+- b. zittende leden van het Huis een bindend advies te geven over het aanvaarden of vervullen van nevenfuncties die ongewenst zijn met het oog op een goede vervulling van hun functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin - een afschrift van dit advies wordt aan de minister ter beschikking gesteld.
 
 3. De commissie komt bijeen zo vaak als nodig is voor de uitvoering van haar werkzaamheden.
 
