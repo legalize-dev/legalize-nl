@@ -4,7 +4,7 @@ identifier: "BWBR0028016"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2019-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028016"
 soort: "AMvB-BES"
@@ -52,15 +52,15 @@ Treedt in werking op het tijdstip waarop de Wet openbare lichamen Bonaire, Sint 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01), van dit besluit aanspraak kan maken.
+- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18), van dit besluit aanspraak kan maken.
 
 ##### Artikel 2. Bezoldiging en vergoeding voor ambtskosten
 
 1. De bezoldiging van de Rijksvertegenwoordiger bedraagt € 10.459,56.
 
-2. De Rijksvertegenwoordiger ontvangt een vergoeding ten bedrage van 386,74 per maand voor de aan zijn ambt verbonden kosten.
+2. De Rijksvertegenwoordiger ontvangt een vergoeding ten bedrage van € 394,09 per maand voor de aan zijn ambt verbonden kosten.
 
-3. Het bedrag genoemd in het tweede lid wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het tweede daaraan voorafgaande kalenderjaar.
+3. Het bedrag genoemd in het tweede lid wordt met ingang van 1 januari 2020 per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het tweede daaraan voorafgaande kalenderjaar.
 
 4. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van Rijksvertegenwoordiger komen ten laste van het Rijk.
 
@@ -76,13 +76,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Vakantie-uitkering en eindejaarsuitkering
 
-Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
+1. De Rijksvertegenwoordiger ontvangt een vakantie-uitkering van 8% van de door hem genoten bezoldiging. De vakantie-uitkering wordt eenmaal per jaar uitbetaald over de periode van twaalf maanden, die is aangevangen met de maand juni van het voorgaande kalenderjaar. Bij ontslag of overlijden van de Rijksvertegenwoordiger vindt betaling plaats over het tijdvak, gelegen tussen het einde van de laatst verstreken periode, waarover de vakantie-uitkering is betaald en de datum van het ontslag of overlijden.
+
+2. De Rijksvertegenwoordiger ontvangt een eindejaarsuitkering van 8,3% van de door hem genoten bezoldiging. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november en wordt berekend over de periode van twaalf maanden die is aangevangen met de maand december van het voorgaande kalenderjaar. Bij ontslag of overlijden van de Rijksvertegenwoordiger vindt betaling plaats over het tijdvak gelegen tussen het einde van de laatst verstreken periode waarover de eindejaarsuitkering is betaald en de datum van het ontslag of overlijden.
 
 ##### Artikel 4. Vergoeding bij waarneming
 
-1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2019-07-01&g=2019-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing.
+1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2019-07-18&g=2019-07-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-18&g=2019-07-18) zijn van overeenkomstige toepassing.
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18).
 
 ##### Artikel 5. Vergoeding tijdens sollicitatieprocedure
 
@@ -96,15 +98,17 @@ Aan een kandidaat voor het ambt van Rijksvertegenwoordiger worden de noodzakelij
 
 - b. een bedrag voor de kosten van vervoer van de bagage en van de inboedel van de betrokkene naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken en de verschuldigde invoerrechten;
 
-- c. een bedrag van tien procent van de jaarlijkse bezoldiging voor alle andere direct uit de verhuizing voortvloeiende kosten.
+- c. een vast bedrag ter hoogte van het maximumbedrag dat door een werkgever onbelast aan een werknemer kan worden verstrekt voor andere uit de verhuizing voortvloeiende kosten.
 
 2. Voor de toepassing van dit artikel wordt onder gezinsleden verstaan de echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3) en de kinderen, stief- en pleegkinderen van hemzelf en/of van zijn echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert, voor zover zij met hem samenwonen.
 
 3. Indien de Rijksvertegenwoordiger na benoeming de ambtswoning nog niet kan betrekken heeft hij aanspraak op een vergoeding voor tijdelijke huisvesting. Ook heeft hij dan aanspraak op een verhuiskostenvergoeding als bedoeld in het eerste lid.
 
-4. De Rijksvertegenwoordiger heeft ten laste van het Rijk, wegens niet herbenoeming of eervol ontslag, aanspraak op een verhuiskostenvergoeding als bedoeld in het eerste lid, met dien verstande dat het bedrag onder c, zes procent van de jaarlijkse bezoldiging bedraagt.
+4. Indien de Rijksvertegenwoordiger in verband met zijn benoeming is verhuisd, op zijn nieuwe adres is ingeschreven in een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2) en zijn verhuizing leidt tot dubbele woonlasten, heeft hij gedurende ten hoogste drie jaar na zijn benoeming aanspraak op een tegemoetkoming in de kosten van dubbele woonlasten.
 
-5. Bij ministeriële regeling worden regels gesteld over de hoogte van de bedragen, bedoeld in het eerste lid, onder a en b, en de vergoeding voor tijdelijke huisvesting, bedoeld in het derde lid, en de voorwaarden voor de aanspraak op deze bedragen en de vergoeding.
+5. De Rijksvertegenwoordiger heeft ten laste van het Rijk, wegens niet herbenoeming of eervol ontslag, aanspraak op een verhuiskostenvergoeding als bedoeld in het eerste lid, met dien verstande dat het bedrag onder c, zes procent van de jaarlijkse bezoldiging bedraagt.
+
+6. Bij ministeriële regeling worden regels gesteld over de hoogte van de bedragen, bedoeld in het eerste lid, onder a en b, de vergoeding voor tijdelijke huisvesting, bedoeld in het derde lid, en de tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in het vierde lid, en de voorwaarden voor de aanspraak op deze bedragen, de vergoeding en de tegemoetkoming.
 
 ##### Artikel 7. Reis- en verblijfkosten
 
@@ -128,7 +132,7 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 
 ##### Artikel 10. Voorzieningen in verband met ziekte
 
-In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01).
+In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18).
 
 ##### Artikel 11. Buitengewoon verlof
 
@@ -214,17 +218,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01);
+- a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18);
 
-- b. het bedrag, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01);
+- b. het bedrag, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18);
 
-- c. de vergoedingen, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-01&g=2019-07-01), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
+- c. de vergoedingen, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-18&g=2019-07-18), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
 
-- d. de vergoedingen, bedoeld in de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=6&z=2019-07-01&g=2019-07-01), [7a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7a&z=2019-07-01&g=2019-07-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8&z=2019-07-01&g=2019-07-01), en de vergoeding van de kosten, [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=12c&z=2019-07-01&g=2019-07-01);
+- d. de vergoedingen, bedoeld in de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=6&z=2019-07-18&g=2019-07-18), [7a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7a&z=2019-07-18&g=2019-07-18), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8&z=2019-07-18&g=2019-07-18), en de vergoeding van de kosten, [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=12c&z=2019-07-18&g=2019-07-18);
 
-- e. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=12b&z=2019-07-01&g=2019-07-01);
+- e. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=12b&z=2019-07-18&g=2019-07-18);
 
-- f. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=10a&z=2019-07-01&g=2019-07-01).
+- f. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=10a&z=2019-07-18&g=2019-07-18).
 
 ##### Artikel 16a
 
@@ -272,15 +276,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 8. De Rijksvertegenwoordiger betaalt voor het gebruik van de aan hem ter beschikking gestelde auto voor andere dan zakelijke of bestuurlijke doeleinden een maandelijkse bijdrage aan de Staat.
 
-9. Indien aan de Rijksvertegenwoordiger een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-01&g=2019-07-01) voor zover die kosten gemaakt worden in het openbaar lichaam waar de auto ter beschikking is gesteld.
+9. Indien aan de Rijksvertegenwoordiger een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-18&g=2019-07-18) voor zover die kosten gemaakt worden in het openbaar lichaam waar de auto ter beschikking is gesteld.
 
-10. Voor zover de Rijksvertegenwoordiger gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-01&g=2019-07-01).
+10. Voor zover de Rijksvertegenwoordiger gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2019-07-18&g=2019-07-18).
 
 11. Bij ministeriële regeling worden nadere regels gesteld over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan en de hoogte van de maandelijkse bijdrage, bedoeld in het achtste lid.
 
 ##### Artikel 10b. Voorzieningen in verband met bewaken en beveiligen
 
-Indien Onze Minister ten behoeve van een veilige woon- en werkplek van de Rijksvertegenwoordiger kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het Rijk.
+1. Indien Onze Minister ten behoeve van een veilige woon- en werkplek van de Rijksvertegenwoordiger kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het Rijk.
+
+2. Onze Minister kan regels stellen met betrekking tot het treffen van andere voorzieningen ten behoeve van een veilige woon- en werkplek van de Rijksvertegenwoordiger dan die, bedoeld in het eerste lid.
 
 ##### Artikel 10a
 
@@ -322,7 +328,7 @@ Onze Minister stelt ten laste van het Rijk aan de Rijksvertegenwoordiger voor de
 
 1. Een besluit tot schorsing als bedoeld in [artikel 190, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=190) bevat in ieder geval een aanduiding van het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
-2. De Rijksvertegenwoordiger die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in de [artikelen 2, eerste, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-01&g=2019-07-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2019-07-01&g=2019-07-01).
+2. De Rijksvertegenwoordiger die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in de [artikelen 2, eerste, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2019-07-18&g=2019-07-18), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2019-07-18&g=2019-07-18).
 
 3. Gedurende een schorsing is het de Rijksvertegenwoordiger als zodanig niet toegestaan de dienstgebouwen van het Rijk te betreden.
 
