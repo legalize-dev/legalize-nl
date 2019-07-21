@@ -4,7 +4,7 @@ identifier: "BWBR0023403"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-21"
-last_updated: "2012-07-01"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023403"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 - b. voor zover de algemene vergadering van aandeelhouders van de vennootschap waarin overwegende zeggenschap wordt verkregen op de wijze, bedoeld onder a, instemt met iedere volgende verkrijging van aandelen in die vennootschap door dezelfde verwerver of een van de personen met wie deze in onderling overleg handelt;
 
-- c. als gevolg van het in de uitoefening van beroep of bedrijf overnemen van effecten bij aanbieding ervan als bedoeld in [hoofdstuk 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1) met plaatsingsgarantie indien de verkrijger geen stemrechten op deze effecten uitoefent; of
+- c. als gevolg van het in de uitoefening van beroep of bedrijf overnemen van effecten bij aanbieding ervan als bedoeld in de prospectusverordening met plaatsingsgarantie indien de verkrijger geen stemrechten op deze effecten uitoefent; of
 
 - d. als gevolg van een onvoorwaardelijke overeenkomst tussen een rechthebbende op effecten en een bieder die voldoet aan de volgende vereisten:
 
