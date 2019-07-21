@@ -4,7 +4,7 @@ identifier: "BWBR0020616"
 country: "nl"
 rank: "wet"
 publication_date: "2019-07-21"
-last_updated: "2018-01-03"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020616"
 soort: "wet"
@@ -111,7 +111,7 @@ De kosten van werkzaamheden die de toezichthouder op grond van [artikel 1:40 van
 
 ##### Artikel 3
 
-De tweede volzin van [artikel 1:40, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) is van overeenkomstige toepassing op de kosten die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.1&artikel=2&z=2018-01-03&g=2018-01-03) in rekening worden gebracht.
+De tweede volzin van [artikel 1:40, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) is van overeenkomstige toepassing op de kosten die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.1&artikel=2&z=2019-07-21&g=2019-07-21) in rekening worden gebracht.
 
 ##### Artikel 4
 
@@ -277,7 +277,7 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 ##### Artikel 27
 
-Andere dan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.2&artikel=26&z=2018-01-03&g=2018-01-03) bedoelde ontheffingen die zijn verleend op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
+Andere dan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.2&artikel=26&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
 
 #### § 3.3. Verbod
 
@@ -307,7 +307,7 @@ Het is een financiële onderneming met zetel in een andere lidstaat, die op het 
 
 2. Een vergunning die is verleend op grond van [artikel 5 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=5) ten behoeve van een beleggingsmaatschappij die geen aparte beheerder heeft en geen beleggingsmaatschappij is als bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=6), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:68 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68).
 
-3. Een vergunning die is verleend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.3&artikel=5&z=2018-01-03&g=2018-01-03) ten behoeve van een beleggingsmaatschappij of beheerder als bedoeld in [artikel 6 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=6), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:69 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) en wordt geacht te zijn verleend aan de beheerder van die beleggingsmaatschappij.
+3. Een vergunning die is verleend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.3&artikel=5&z=2019-07-21&g=2019-07-21) ten behoeve van een beleggingsmaatschappij of beheerder als bedoeld in [artikel 6 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=6), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:69 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) en wordt geacht te zijn verleend aan de beheerder van die beleggingsmaatschappij.
 
 ##### Artikel 34
 
@@ -337,7 +337,7 @@ Een ontheffing die is verleend op grond van [artikel 14a, eerste lid, van de Wet
 
 ##### Artikel 38
 
-Andere dan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=4&paragraaf=4.2&artikel=37&z=2018-01-03&g=2018-01-03) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
+Andere dan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=4&paragraaf=4.2&artikel=37&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
 
 #### § 4.3. Verklaring van geen bezwaar
 
@@ -387,7 +387,7 @@ Een beschikking die is gegeven op grond van [artikel 21a van de Wet toezicht bel
 
 ##### Artikel 46
 
-Het verbod, bedoeld in [artikel 5:2 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:2), is vanaf het tijdstip van inwerkingtreding van die wet voor een periode van ten hoogste een jaar niet van toepassing op degenen aan wie een ontheffing is verleend op grond van [artikel 4, eerste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=4).
+Vervallen
 
 ##### Artikel 47
 
@@ -409,7 +409,7 @@ Een ontheffing die is verleend op grond van [artikel 25, eerste lid, van de Wet 
 
 ##### Artikel 49
 
-Andere dan de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=5&paragraaf=5.2&artikel=48&z=2018-01-03&g=2018-01-03) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in laatstgenoemde wet voor een periode van ten hoogste een jaar.
+Andere dan de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=5&paragraaf=5.2&artikel=48&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in laatstgenoemde wet voor een periode van ten hoogste een jaar.
 
 #### § 5.3. Verklaring van geen bezwaar
 
@@ -447,7 +447,7 @@ Indien voor het tijdstip van inwerkingtreding van de [Wet op het financieel toez
 
 ##### Artikel 54
 
-Een besluit tot goedkeuring van een prospectus op grond van [artikel 3, tweede of derde lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=3) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 5:9, eerste onderscheidenlijk tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:9).
+Vervallen
 
 #### § 5.6. Erkenning van een markt in financiële instrumenten
 
@@ -1231,7 +1231,7 @@ De [Wet van 6 december 1999, houdende bepalingen ter vrijwaring van kredietinste
 
 2. In het koninklijk besluit kan worden bepaald dat daarbij aan te geven artikelen of onderdelen daarvan op een later, bij koninklijk besluit te bepalen, tijdstip in werking treden.
 
-3. In het koninklijk besluit kan worden bepaald dat het bepaalde in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.5&artikel=31&z=2018-01-03&g=2018-01-03), van deze wet kan terugwerken tot en met 1 januari 2006.
+3. In het koninklijk besluit kan worden bepaald dat het bepaalde in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.5&artikel=31&z=2019-07-21&g=2019-07-21), van deze wet kan terugwerken tot en met 1 januari 2006.
 
 ##### Artikel 180
 
