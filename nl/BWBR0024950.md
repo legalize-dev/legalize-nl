@@ -4,7 +4,7 @@ identifier: "BWBR0024950"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-21"
-last_updated: "2017-07-12"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024950"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 13
 
-Het prospectus, bedoeld in [artikel 5:19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:19a), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+Het prospectus, bedoeld in [artikel 5:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
 ##### Artikel 14
 
@@ -142,7 +142,7 @@ Vervallen
 
 5. De uitgevende instelling doet de algemeenverkrijgbaarstelling van gereglementeerde informatie niet vergezellen van reclame-uitingen voor haar activiteiten, indien dit mogelijk misleidend is.
 
-6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2017-07-12&g=2017-07-12) bedoelde verplichtingen op die persoon.
+6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2019-07-21&g=2019-07-21) bedoelde verplichtingen op die persoon.
 
 ##### Artikel 6
 
@@ -228,7 +228,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2017-07-12&g=2017-07-12) werkt terug tot en met 1 januari 2008.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2019-07-21&g=2019-07-21) werkt terug tot en met 1 januari 2008.
 
 ##### Artikel 19
 
@@ -238,7 +238,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-Dit besluit berust mede op de [artikelen 5:19a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:19a) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c).
+Dit besluit berust mede op de [artikelen 5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c).
 
 ### Hoofdstuk III. Bepalingen over uitstel algemeenverkrijgbaarstelling koersgevoelige informatie
 
