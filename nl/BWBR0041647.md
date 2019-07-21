@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2019-06-14"
+last_updated: "2019-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-06-14&g=2019-06-14) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-07-21&g=2019-07-21) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-06-14&g=2019-06-14), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-07-21&g=2019-07-21), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-06-14&g=2019-06-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-06-14&g=2019-06-14).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2019-07-21&g=2019-07-21) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2019-07-21&g=2019-07-21).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -167,24 +167,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | Wft.A7.03 | De toetsing van de geschiktheid van een persoon als bedoeld in artikel 4:9 van de Wft van een persoon die het bedrijf van bewaarder uitoefent als bedoeld in artikel 2:3g een aanbieder van krediet als bedoeld in artikel 2:60, een aanbieder van rechten van deelneming in beleggingsinstellingen als bedoeld in artikel 2:65 of 2:69b van de Wft, een persoon die beleggingsdiensten verleent of beleggingsactiviteiten verricht als bedoeld in artikel 2:96 van de Wft, met uitzondering van een persoon van een beleggingsonderneming die ingevolge artikel 11, vierde lid, van de Vrijstellingsregeling Wft, is vrijgesteld van [artikel 2:99, eerste lid, onderdelen c, d en f tot en met j, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99) of een persoon die datarapporteringsdiensten als bedoeld in [artikel 2:103c van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:103c) verleent | € 2.900 |
 | Wft.A7.04 | De toetsing van de geschiktheid van een persoon als bedoeld in artikel 4:9 van de Wft die het dagelijks beleid bepaalt van een financiële dienstverlener als bedoeld in artikel 2:75, eerste lid, artikel 2:80, eerste lid, artikel 2:86, eerste lid en 2:92, eerste lid, van de Wft of van een persoon als bedoeld in [artikel 2a van het Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=2a) | € 1.000 |
 | Wft.A7.05 | De toetsing van de geschiktheid van een persoon als bedoeld in artikel 4:9 van de Wft van een beleggingsonderneming die ingevolge artikel 11, vierde lid, van de Vrijstellingsregeling Wft, is vrijgesteld van artikel 2:99, eerste lid, onderdelen c, d en f tot en met j, van de Wft | € 1.000 |
-| **Onderdeel Wft.A8:** | **Emissies: de behandeling van een aanvraag tot goedkeuring van:** |   |
-| Wft.A8.01 | een prospectus dat bestaat uit een enkel document als bedoeld in [artikel 5:15, eerste lid, onderdeel a, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:15) en dat betrekking heeft op effecten met een aandelenkarakter, niet zijnde effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 22.500 |
-| Wft.A8.02 | de behandeling van een aanvraag bedoeld onder Wft.A8.01, voor ondernemingen niet zijnde een mkb-onderneming | € 65.000 |
-| Wft.A8.03 | het registratiedocument van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 5:15, eerste lid, onderdeel b, van de Wft en dat betrekking heeft op effecten met een aandelenkarakter, niet zijnde effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 15.000 |
-| Wft.A8.04 | de behandeling van een aanvraag bedoeld onder Wft.A8.03, voor ondernemingen niet zijnde een mkb-onderneming | € 40.000 |
-| Wft.A8.05 | de verrichtingsnota en de samenvatting van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 5:15, eerste lid, onderdeel b, van de Wft en dat betrekking heeft op effecten met een aandelenkarakter, niet zijnde effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming | € 7.500 |
-| Wft.A8.06 | de behandeling van een aanvraag bedoeld onder Wft.A8.05, voor ondernemingen niet zijnde een mkb-onderneming | € 25.000 |
-| Wft.A8.07 | een prospectus dat bestaat uit een enkel document, bedoeld in artikel 5:15, eerste lid, onderdeel a, van de Wft en dat betrekking heeft op effecten zonder aandelenkarakter of effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming | € 7.500 |
-| Wft.A8.08 | de behandeling van een aanvraag bedoeld onder Wft.A8.07, voor ondernemingen niet zijnde een mkb-onderneming | € 15.000 |
-| Wft.A8.09 | het registratiedocument van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 5:15, eerste lid, onderdeel b, van de Wft en dat betrekking heeft op effecten zonder aandelenkarakter of effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming | € 5.000 |
-| Wft.A8.10 | de behandeling van een aanvraag bedoeld onder Wft.A8.09, voor ondernemingen niet zijnde een mkb-onderneming | € 10.000 |
-| Wft.A8.11 | van de verrichtingsnota en de samenvatting van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 5:15, eerste lid, onderdeel b, van de Wft en dat betrekking heeft op effecten zonder aandelenkarakter of effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 2.500 |
-| Wft.A8.12 | de behandeling van een aanvraag als Wft.A8.11, voor ondernemingen niet zijnde een mkb-onderneming | € 5.000 |
-| Wft.A8.13 | een prospectus dat betrekking heeft op effecten zonder een aandelenkarakter of effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald en waarvan het registratiedocument op grond van artikel 21, tweede lid, van de Prospectusverordening1 is opgesteld met inachtneming van Bijlage 1 van die verordening | € 15.000 |
-| Wft.A8.14 | een registratiedocument van een prospectus dat betrekking heeft op effecten zonder een aandelenkarakter of effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft, die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald en dat op grond van artikel 21, tweede lid, van de Prospectusverordening1 is opgesteld met inachtneming van Bijlage I van die verordening | € 10.000 |
-| Wft.A8.15 | een basisprospectus als bedoeld in [artikel 5:16 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:16) waarin op grond van artikel 26, vierde lid, van de Prospectusverordening1 wordt verwezen naar een eerder goedgekeurd registratiedocument, ingediend door een mkb-onderneming | € 7.500 |
-| Wft.A8.16 | de behandeling van een aanvraag bedoeld onder Wft.A8.15, voor ondernemingen niet zijnde een mkb-onderneming | € 15.000 |
-| Wft.A8.17 | een document ter aanvulling van een prospectus als bedoeld in [artikel 5:23 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:23) | € 2.500 |
+| **Onderdeel Wft.A8:** | Vervallen |   |
 | **Onderdeel Wft.A9:** | **openbare biedingen op effecten** |   |
 | Wft.A9.01 | De behandeling van een biedingsbericht als bedoeld in [artikel 5:77, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:77) | € 26.000 |
 | Wft.A9.02 | De behandeling van een aanvraag van een ontheffing als bedoeld in [artikel 5:81, derde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81) | € 5.800 |
@@ -260,6 +243,21 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | EU.A8.02 | Overeenkomstig artikel 59, vijfde lid, van verordening (EU) nr. 1031/2010 (veiling van broeikasgasemissierechten), van de geschiktheid van een persoon die het dagelijks beleid bepaalt van een bieder als bedoeld in artikel 18, tweede lid, van verordening (EU) nr. 1031/2010 (veiling van broeikasgasemissierechten) | € 2.900 |
 | EU.A8.03 | Van de betrouwbaarheid van een lid van een leidinggevend orgaan of directie als bedoeld in artikel 27, eerste en vierde lid, van verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen) | € 700 |
 | EU.A8.04 | Van de geschiktheid van een lid van een leidinggevend orgaan of directie als bedoeld in artikel 27, eerste en vierde lid, van verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen) | € 2.700 |
+| **Onderdeel EU.A9** | **Emissies: De behandeling van een aanvraag tot goedkeuring of deponering van:** |   |
+| EU.A9.01 | een prospectus dat bestaat uit een enkel document als bedoeld in artikel 6, derde lid, van de prospectusverordening en dat betrekking heeft op effecten met een aandelenkarakter, met inbegrip van effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 22.500 |
+| EU.A9.02 | de behandeling van een aanvraag bedoeld onder EU.A9.01, voor ondernemingen niet zijnde een mkb-onderneming | € 65.000 |
+| EU.A9.03 | een los (universeel) registratiedocument dat betrekking heeft op effecten met een aandelenkarakter, met inbegrip van effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 15.000 |
+| EU.A9.04 | de behandeling van een aanvraag bedoeld onder EU.A9.03, voor ondernemingen niet zijnde een mkb-onderneming | € 40.000 |
+| EU.A9.05 | de verrichtingsnota en de samenvatting van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 6, derde lid, van de prospectusverordening en dat betrekking heeft op effecten met een aandelenkarakter, met inbegrip van effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming | € 7.500 |
+| EU.A9.06 | de behandeling van een aanvraag bedoeld onder EU.A9.05, voor ondernemingen niet zijnde een mkb-onderneming | € 25.000 |
+| EU.A9.07 | een prospectus dat bestaat uit een enkel document, bedoeld in artikel 6, derde lid, van de prospectusverordening en dat betrekking heeft op effecten zonder aandelenkarakter, ingediend door een mkb-onderneming | € 7.500 |
+| EU.A9.08 | de behandeling van een aanvraag bedoeld onder EU.A9.07, voor ondernemingen niet zijnde een mkb-onderneming | € 15.000 |
+| EU.A9.09 | een los (universeel) registratiedocument dat betrekking heeft op effecten zonder een aandelenkarakter ingediend door een mkb-onderneming | € 5.000 |
+| EU.A9.10 | de behandeling van een aanvraag bedoeld onder EU.A9.09, voor ondernemingen niet zijnde een mkb-onderneming | € 10.000 |
+| EU.A9.11 | de verrichtingsnota en de samenvatting van een prospectus dat bestaat uit drie afzonderlijke documenten als bedoeld in artikel 6, derde lid, van de prospectusverordening en dat betrekking heeft op effecten zonder aandelenkarakter, ingediend door een mkb-onderneming | € 2.500 |
+| EU.A9.12 | de behandeling van een aanvraag als EU.A9.11, voor ondernemingen niet zijnde een mkb-onderneming | € 5.000 |
+| EU.A9.13 | een document ter aanvulling van een prospectus als bedoeld in artikel 23 van de prospectusverordening. | € 2.500 |
+| EU.A9.14 | een universeel registratiedocument, of een wijziging daarop, als bedoeld in artikel 9 van de prospectusverordening | € 2.500 |
 
 #### § 3. Eenmalige handelingen DNB
 
