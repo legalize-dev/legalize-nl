@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2017-11-07"
+last_updated: "2019-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -50,9 +50,9 @@ Besluit:
 
 - c. een overige overtreding (OO), oftewel een overtreding die in de bijlage als OO is aangemerkt en waarvoor eerst een waarschuwing of een kennisgeving van een eis tot naleving wordt gegeven, of een eis tot naleving wordt gesteld, en pas nadat dezelfde of een soortgelijke overtreding opnieuw wordt geconstateerd, wordt overgegaan tot boeteoplegging.
 
-2. Hiernaast geldt in deze beleidsregel als overtreding met directe boete de overtreding die de directe aanleiding is geweest voor een arbeidsongeval als bedoeld in artikel 9, eerste lid, van de Arbeidsomstandighedenwet.
+2. Hiernaast geldt in deze beleidsregel als overtreding met directe boete de overtreding die de directe aanleiding is geweest voor een arbeidsongeval als bedoeld in [artikel 9, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9).
 
-- a. Bij de berekening van een bestuurlijke boete als bedoeld in artikel 33, eerste en tweede lid, en artikel 34 van de Arbeidsomstandighedenwet worden zeven categorieën normbedragen onderscheiden, te weten:
+- a. Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33), en [artikel 34 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34) worden zeven categorieën normbedragen onderscheiden, te weten:
 
 - 1°. het 1e normbedrag € 340;
 
@@ -68,7 +68,7 @@ Besluit:
 
 - 7°. het 7e normbedrag € 13500;
 
-- b. In afwijking van onderdeel a wordt voor het door een werkgever niet onverwijld melden van een arbeidsongeval als bedoeld in artikel 9, eerste lid, van de Arbeidsomstandighedenwet en waarbij de toezichthouder geen onderzoek meer kan verrichten, een boetenormbedrag opgenomen van € 50000.
+- b. In afwijking van onderdeel a wordt voor het door een werkgever niet onverwijld melden van een arbeidsongeval als bedoeld in [artikel 9, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) en waarbij de toezichthouder geen onderzoek meer kan verrichten, een boetenormbedrag opgenomen van € 50000.
 
 4. Overtredingen die meermalen voorkomen, kunnen maximaal drie keer in de berekening van de op te leggen bestuurlijke boete worden meegenomen.
 
@@ -76,7 +76,7 @@ Besluit:
 
 6. De bestuurlijke boete die per boetebeschikking aan een werknemer kan worden opgelegd, bedraagt maximaal € 450.
 
-7. In de bijlage bij deze beleidsregel is per artikel, artikellid of onderdeel daarvan, dat is aangemerkt als overtreding waarvoor een bestuurlijke boete kan worden opgelegd bij of krachtens de Arbeidsomstandighedenwet, aangegeven welk categorie normbedrag zal worden opgelegd en om welk type overtreding het gaat.
+7. In de bijlage bij deze beleidsregel is per artikel, artikellid of onderdeel daarvan, dat is aangemerkt als overtreding waarvoor een bestuurlijke boete kan worden opgelegd bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), aangegeven welk categorie normbedrag zal worden opgelegd en om welk type overtreding het gaat.
 
 Tevens is in de bijlage aangegeven voor welke overtredingen een boete aan een werknemer kan worden opgelegd.
 
@@ -106,19 +106,35 @@ Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt
 
 - b. Voor een bestuurlijke boete die wordt opgelegd aan degene bij wie vrijwilligers werkzaam zijn wordt voor de bedrijfsgrootte uitgegaan van het aantal vrijwilligers dat ten tijde van de overtreding werkzaam was op de locatie waar de overtreding heeft plaatsgevonden. Indien bij degene bij wie vrijwilligers werkzaam zijn, ook werknemers werkzaam zijn, wordt voor de bedrijfsgrootte uitgegaan van het totaal aantal werknemers en vrijwilligers.
 
-10. Bij de berekening van de op te leggen bestuurlijke boete kunnen één of meer van de volgende factoren aan de orde zijn en leiden tot **verhoging** van het al dan niet op bedrijfsgrootte gecorrigeerde normbedrag:
+10. Bij de berekening van de op te leggen bestuurlijke boete kunnen één of meer van de volgende factoren aan de orde zijn en leiden tot verhoging van het al dan niet op bedrijfsgrootte gecorrigeerde boetenormbedrag:
 
-- a. bij een arbeidsongeval dat leidt tot de dood worden de boetenormbedragen van de daaraan ten grondslag liggende overtredingen vermenigvuldigd met vijf;
+- a. bij een arbeidsongeval dat leidt tot de dood of uitzonderlijk ernstig blijvend letsel worden de boetenormbedragen voor de daaraan ten grondslag liggende overtreding of overtredingen vermenigvuldigd met vijf;
 
-- b. bij een arbeidsongeval dat leidt tot een blijvend letsel of een ziekenhuisopname als bedoeld in artikel 9, eerste lid, van de Arbeidsomstandighedenwet worden de boetenormbedragen van de daaraan ten grondslag liggende overtredingen vermenigvuldigd met vier;
+- b. bij een arbeidsongeval dat leidt tot blijvend letsel worden de boetenormbedragen van de daaraan ten grondslag liggende overtredingen met het volgende getal vermenigvuldigd:
 
-- c. in het geval van **zware overtredingen** (ZO), wordt het normbedrag vermenigvuldigd met twee;
+- 1°. bij ernstig blijvend letsel met vier;
 
-- d. indien meer dan tien, respectievelijk meer dan vijftig werknemers aan een niet-administratieve overtreding zijn blootgesteld wordt het normbedrag vermenigvuldigd met anderhalf, respectievelijk twee.
+- 2°. bij matig blijvend letsel met drieënhalf;
+
+- 3°. bij licht blijvend letsel met drie;
+
+- c. bij een arbeidsongeval dat leidt tot een ziekenhuisopname worden de boetenormbedragen voor de daaraan ten grondslag liggende overtreding of overtredingen met het volgende getal vermenigvuldigd, waarbij onder het begrip ‘nacht’ wordt verstaan het tijdvak gelegen tussen 24.00 en 06.00 uur;
+
+- 1°. bij een ziekenhuisopname van zeven nachten en meer met vier;
+
+- 2°. bij een ziekenhuisopname van twee nachten en meer, maar minder dan zeven nachten, met drieënhalf;
+
+- 3°. bij een ziekenhuisopname van minder dan twee nachten met drie;
+
+- d. in aanvulling op de onderdelen b en c, wordt in het geval van een combinatie van de factoren ‘blijvend letsel’ en ‘ziekenhuisopname’ de hoogst toepasselijke vermenigvuldigingsfactor toegepast;
+
+- e. in het geval van een zware overtreding (ZO), wordt het boetenormbedrag vermenigvuldigd met twee;
+
+- f. indien meer dan tien, respectievelijk meer dan vijftig werknemers aan een niet-administratieve overtreding zijn blootgesteld wordt het boetenormbedrag vermenigvuldigd met anderhalf, respectievelijk twee.
 
 11. Indien de werkgever aantoont dat hij inspanningen heeft verricht, gericht op het voorkomen van de overtreding in het concrete geval, kan dit leiden tot matiging van het al dan niet op bedrijfsgrootte gecorrigeerde normbedrag. De volgende inspanningen kunnen leiden tot een matiging van 25% per onderdeel:
 
-- a. als de risico’s van de concrete werkzaamheden voldoende zijn geïnventariseerd en een veilige werkwijze is ontwikkeld die voldoet aan de vereisten van het bepaalde bij of krachtens de Arbeidsomstandighedenwet;
+- a. als de risico’s van de concrete werkzaamheden voldoende zijn geïnventariseerd en een veilige werkwijze is ontwikkeld die voldoet aan de vereisten van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
 - b. als de noodzakelijke randvoorwaarden zijn gecreëerd voor het toepassen van een veilige werkwijze;
 
@@ -133,6 +149,8 @@ Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt
 14. Indien rechtspersonen langer dan zes aaneengesloten maanden op dezelfde bouwlocatie werkzaamheden verrichten, wordt die bouwlocatie beschouwd als nevenvestiging als bedoeld in het dertiende.
 
 15. Het dertiende en veertiende lid zijn niet van toepassing op ernstige overtredingen, als bedoeld in [artikel 9.10a, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a).
+
+16. In aanvulling op of in afwijking van de leden drie tot en met vijf en zeven tot en met elf, kan het bedrag van de boete worden verhoogd of verlaagd totdat deze evenredig is en daarmee passend en geboden.
 
 ##### Artikel 2
 
@@ -153,6 +171,10 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging arbeidsomsta
 Leeswijzer:
 
 In de hieronder staande tabel wordt per beboetbaar artikel van de Arboregelgeving aangegeven welke categorie boetenormbedrag van toepassing is en of op grond van dit artikel tevens een werknemersboete kan worden opgelegd dan wel een boete aan de bedrijfsarts of de bedrijfsarts of de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), wordt opgelegd. In de laatste kolom staat ZO voor zware overtreding, ODB voor een overtreding waarvoor direct een boete volgt en OO voor een overige overtreding (OO). Een actuele versie van de regelgeving is te vinden op www.overheid.nl
+
+0a De ODB luidt: het niet hebben van een schriftelijke risico-inventarisatie- en evaluatie.
+
+0b De ODB luidt: het niet hebben van een plan van aanpak als onderdeel van de schriftelijke risico-inventarisatie- en evaluatie.
 
 1 De ODB luidt: het onvoldoende toezien op de naleving van instructies en voorschriften bij werkzaamheden waaraan risico’s voor werknemers zijn verbonden.
 
@@ -678,23 +700,23 @@ Ladders en trappen gebruiken zonder dat: a. wegglijden van de ladder- of trapvoe
 
 142 De ZO luiden: Het niet zodanig monteren van de vloeren van steigers dat hun onderdelen bij normaal gebruik niet kunnen bewegen.
 
-Tussen de onderdelen van de vloeren en de verticale inrichtingen van de collectieve valbeveiligingen komen gevaarlijke openingen voor.
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 143 De ZO luidt: Het werken aan één enkele lijn, waarbij geen sprake is van een afzonderlijk verankerde veiligheidslijn die als reservelijn fungeert en is uitgerust met een beweegbaar valbeveiligingsmechanisme dat de werknemer in zijn beweging volgt.
 
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+### Werknemersverplichtingen
 
 Werknemers zijn niet op de hoogte van de reddingsprocedures voor het werken aan lijnen.
 
-### Werknemersverplichtingen
+### Verschillende typen overtredingen
 
 Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een mobiel hijswerktuig waarbij de belasting van de volbelaste werkbak en het bijbehorend hijsgereedschap méér bedraagt dan één kwart van de maximaal toelaatbare werklast van het hijswerktuig in zijn meest ongunstige stand. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
-### Verschillende typen overtredingen
+### Zware Overtredingen (ZO)
 
 Het verblijf van werknemers in een werkbak waarbij de bedieningsplaats van het hijs- of hefwerktuig niet bezet is.([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 3, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
-### Zware Overtredingen (ZO)
+Horizontale verplaatsing van werknemers in een boven 0,2 meter geheven werkbak aan een mobiel hefwerktuig met grotere snelheid dan 2,5 km/uur. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 4, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
 Rijden met een mobiele hijskraan waaraan een bemande werkbak is bevestigd. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 5, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
@@ -702,51 +724,47 @@ Rijden over een kraanbaan met hogere snelheid dan 2,5 km/uur van een hijskraan m
 
 Ontbreken van doeltreffend(e) communicatie(middel(en)) bij vervoer en verblijf van werknemers in een werkbak aan een hijs- of hefwerktuig. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 6, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
-Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een hijs- of hefwerktuig zonder dat doeltreffende voorzieningen zijn getroffen om die werknemers bij gevaar te kunnen evacueren. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 6, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
+### Overtreding waarvoor Direct een Boete volgt (ODB)
 
 146 De ZO luidt: Het hijsen of heffen van luiken van schepen zonder dat deze daartoe geschikte bevestigingen hebben voor het vastmaken van hijsgereedschap.
 
-### Overtreding waarvoor Direct een Boete volgt (ODB)
+147 De ZO luidt: Het laden en lossen van schepen zonder dat luiken die niet afdoende tegen verplaatsing kunnen worden geborgd, verwijderd zijn.
 
 148 De ZO luidt: Het plaatsen of verwijderen van luiken op schepen terwijl in het ruim onder de luikopening wordt gewerkt.
 
-149 De ZO luidt: Het opnieuw gebruiken van voor eenmalig gebruik bestemde bind- of hijsmiddelen.
+### Overige Overtredingen (OO)
 
 150 De ZO luidt: Het niet aanwezig zijn van middelen zodat werknemers bij het aanbrengen of verwijderen van sjorringen van containers aan ernstig gevaar worden blootgesteld.
 
-### Overige Overtredingen (OO)
-
-152 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in [artikel 7.6 Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=7.6), door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
-
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+Tussen de onderdelen van de vloeren en de verticale inrichtingen van de collectieve valbeveiligingen komen gevaarlijke openingen voor.
 
 144 De ODB luiden: Het onvoldoende adequaat en specifiek opgeleid zijn van werknemers voor het werken aan lijnen, en
 
-145 De ZO luiden: Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een mobiel hefwerktuig waarbij de belasting van de volbelaste werkbak méér bedraagt dan de helft van de maximaal toegestane belasting van het hefwerktuig in zijn meest ongunstige stand. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
-
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een vast opgesteld of railrijdend hijswerktuig waarbij de belasting van de volbelaste werkbak en het bijbehorend hijsgereedschap méér bedraagt dan driekwart van de nominale belasting waarvoor het hijswerktuig is ontworpen. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
+145 De ZO luiden: Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een mobiel hefwerktuig waarbij de belasting van de volbelaste werkbak méér bedraagt dan de helft van de maximaal toegestane belasting van het hefwerktuig in zijn meest ongunstige stand. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
 ### Werknemersverplichtingen
 
-Horizontale verplaatsing van werknemers in een boven 0,2 meter geheven werkbak aan een mobiel hefwerktuig met grotere snelheid dan 2,5 km/uur. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 4, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
+Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een vast opgesteld of railrijdend hijswerktuig waarbij de belasting van de volbelaste werkbak en het bijbehorend hijsgereedschap méér bedraagt dan driekwart van de nominale belasting waarvoor het hijswerktuig is ontworpen. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
 ### Verschillende typen overtredingen
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-147 De ZO luidt: Het laden en lossen van schepen zonder dat luiken die niet afdoende tegen verplaatsing kunnen worden geborgd, verwijderd zijn.
+Het vervoeren van werknemers met behulp van een werkbak die is bevestigd aan een hijs- of hefwerktuig zonder dat doeltreffende voorzieningen zijn getroffen om die werknemers bij gevaar te kunnen evacueren. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 6, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d))
 
 ### Verschillende typen overtredingen
+
+149 De ZO luidt: Het opnieuw gebruiken van voor eenmalig gebruik bestemde bind- of hijsmiddelen.
 
 151 De ODB luidt: Het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen.
 
-153 De ZO luiden: Het werken op een overbelaste steiger. (lid 2), en
-
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-154 Het verrichten van trekkerarbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers zonder toezicht.
+153 De ZO luiden: Het werken op een overbelaste steiger. (lid 2), en
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -754,15 +772,29 @@ Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worde
 
 ### Werknemersverplichtingen
 
-Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
+152 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in [artikel 7.6 Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=7.6), door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
 
 ### Werknemersverplichtingen
 
+154 Het verrichten van trekkerarbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers zonder toezicht.
+
+155 De ZO luidt: Het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers.
+
 156 De ZO luidt: Het onvoldoende er voor zorgen dat werknemers aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers.
 
-Het gaat hierbij om feiten met betrekking tot:
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
 ### Werknemersverplichtingen
 
@@ -770,29 +802,27 @@ In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen he
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
-
-155 De ZO luidt: Het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers.
-
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
-
-Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van artikel 28 van de Arbeidsomstandighedenwet. De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
 ### Verplichtingen voor de bedrijfsarts en verplichtingen voor de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14)
 
 In deze bijlage zijn alle artikelen, artikelleden of onderdelen van artikelleden ten aanzien waarvan een bedrijfsarts of een bedrijfsarts en deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) verplicht zijn tot naleving gemarkeerd door middel van een dubbele asterisk (**) respectievelijk een driedubbele asterisk (***).
 
-Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
-
-### Verschillende typen overtredingen
+Het gaat hierbij om feiten met betrekking tot:
 
 In de bijlage zijn de verschillende typen overtredingen aangegeven.
 
-Het gaat hierbij om feiten met betrekking tot:
+### Zware Overtredingen (ZO)
 
 De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
+
+### Verschillende typen overtredingen
+
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
 ### Overige Overtredingen (OO)
 
@@ -800,15 +830,19 @@ Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de 
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
-
-### Zware Overtredingen (ZO)
-
 Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
+
+### Overtreding waarvoor Direct een Boete volgt (ODB)
+
+Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+
+Het gaat hierbij om feiten met betrekking tot:
+
+Er bestaat een aantal overtredingen in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen.
 
 ### Overige Overtredingen (OO)
 
-Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -816,11 +850,7 @@ Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden
 
 ### Overtreding waarvoor Direct een Boete volgt (ODB)
 
-Er bestaat een aantal overtredingen in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen.
-
 Het gaat hierbij om feiten met betrekking tot:
-
-Dergelijke overtredingen die enerzijds de onveiligheid van werknemers vergroten en anderzijds het werk van de Inspectie SZW ernstig belemmeren, leiden tot het direct corrigeren van werkgevers. In voorkomende gevallen wordt direct overgegaan tot het aanzeggen van een boete.
 
 ### Overige Overtredingen (OO)
 
