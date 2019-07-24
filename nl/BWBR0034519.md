@@ -4,7 +4,7 @@ identifier: "BWBR0034519"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-11-25"
-last_updated: "2014-01-01"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034519"
 soort: "beleidsregel"
@@ -42,11 +42,15 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-In deze beleidsregel wordt verstaan onder WSF 2000: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+In deze beleidsregel wordt verstaan onder:
+
+- **BSF 2000:** [Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545);
+
+- **WSF 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
 ##### Artikel 2. Reikwijdte en inhoud maatregel
 
-1. Voor de toepassing van [artikel 2.14, tweede lid, onderdeel c, WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14), wordt een Nederlander die ten minste 56 uur per maand werkt in Nederland en woont in een andere lidstaat van de Europese Unie, gelijkgesteld met een persoon die binnen de reikwijdte van artikel 45 van het Verdrag betreffende de werking van de Europese Unie valt.
+1. Voor de toepassing van [artikel 5a, eerste lid, onderdeel a, BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=5a), wordt een Nederlander die ten minste 56 uur per maand werkt in Nederland en woont in een andere lidstaat van de Europese Unie, gelijkgesteld met een persoon die binnen de reikwijdte van artikel 45 van het Verdrag betreffende de werking van de Europese Unie valt.
 
 2. Het vereiste om ten minste 3 van de 6 jaren voorafgaand aan de buitenlandse studie in Nederland te hebben gewoond, bedoeld in [artikel 2.14, tweede lid, onderdeel c, WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14), is niet van toepassing op een student die een kind of partner is van de persoon, bedoeld in het eerste lid.
 
