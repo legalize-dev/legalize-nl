@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2017-07-01"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Vervallen
 
 - 2°. verband houdend met tijdelijke humanitaire gronden of hiermee verband houdende niet-tijdelijke humanitaire gronden;
 
-- 3°. als bedoeld in [artikel 3.4, derde lid, Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of hiermee verband houdende niet-tijdelijke humanitaire gronden; of
+- 3°. als bedoeld in [artikel 3.4, vierde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of hiermee verband houdende niet-tijdelijke humanitaire gronden; of
 
 - 4°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) of hiermee verband houdende niet-tijdelijke humanitaire gronden.
 
@@ -172,7 +172,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2017-07-01&g=2017-07-01)
+##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2019-07-24&g=2019-07-24)
 
 Vervallen
 
