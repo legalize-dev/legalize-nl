@@ -4,7 +4,7 @@ identifier: "BWBR0039410"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-18"
-last_updated: "2018-03-26"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039410"
 soort: "zbo"
@@ -81,9 +81,9 @@ In deze regeling wordt verstaan onder:
 
 - l. **StiR keurmerk:** Stichting Registratie, kortweg StiR, is een onafhankelijke stichting die de beroepsregistraties en registers beheert van supervisoren, coaches en overige professioneel begeleiders. StiR is daarmee een onafhankelijk keurmerk voor professioneel begeleiders in Nederland.
 
-- m. **Schoolleidersregister PO:** Schoolleidersregister PO bouwt aan een nieuw beroepsregister voor schoolleiders in het PO. Met de ontwikkeling en instandhouding van het beroepsregister wil Schoolleidersregister PO de beroepsgroep versterken en verdere professionalisering stimuleren.
+- m. **Schoolleidersregister PO:** Met de ontwikkeling en instandhouding van het beroepsregister wil Schoolleidersregister PO de beroepsgroep versterken en verdere professionalisering stimuleren.
 
-- n. **Lerend netwerk:** De schoolleider kan kosteloos deelnemen aan een ‘lerend netwerk verzuim’ (intervisie). Onder begeleiding van een deskundige verdiept hij/zij zich samen met een aantal andere schoolleiders in het thema ‘verzuim’ en wisselen zij onderling ervaringen uit. Om te kunnen deelnemen aan een lerend netwerk, moet aan de schoolleider een subsidie Lerend Werken zijn toegekend.
+- n. **Lerend netwerk:** De schoolleider kan kosteloos deelnemen aan een ‘lerend netwerk verzuim’ (intervisie). Onder begeleiding van een deskundige verdiept hij/zij zich samen met een aantal andere schoolleiders in het thema ‘verzuim’ en wisselen zij onderling ervaringen uit.
 
 ##### Artikel 2. Subsidiabele activiteiten
 
@@ -135,21 +135,19 @@ Het Vervangingsfonds verleent een subsidie ten laste van een begroting, die nog 
 
 ##### Artikel 7. Criteria
 
-Een aanvraag voor subsidie voldoet in ieder geval aan alle volgende criteria:
-
 - •. de aanvrager is een werkgever,
 
 - •. de aanvraag is juist en volledig ingevuld,
 
-- •. de gecoachte is een schoolleider in dienst van de werkgever,
+- •. de gecoachte is een schoolleider in dienst van een werkgever,
 
-- •. het uurtarief van de coach bedraagt maximaal € 200,00 (excl. btw),
+- •. het uurtarief van de coach bedraagt maximaal € 200,00 (exclusief btw),
 
-- •. het traject coaching on the job start in 2016, 2017, 2018 of 2019,
+- •. het traject coaching on the job start na 1 september 2016,
 
 - •. het traject coaching on the job is binnen 2 maanden na verlening van de subsidie gestart, en
 
-- •. het traject coaching on the job is binnen 8 maanden na verlening van de subsidie afgerond, met als absolute einddatum 31 augustus 2019.
+- •. het traject coaching on the job is binnen 8 maanden na verlening van de subsidie afgerond, met als absolute einddatum 31 augustus 2022.
 
 ##### Artikel 8. Grondslag
 
@@ -199,13 +197,13 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 - •. de interventie(s) dient(en) gericht te zijn op het verbeteren van de verzuim aanpak,
 
-- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-03-26&g=2018-03-26) van deze subsidieregeling, en
+- •. de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2019-07-24&g=2019-07-24) van deze subsidieregeling, en
 
 - •. cofinanciering van de werkgever van tenminste 20% van de kosten.
 
 ##### Artikel 11. Keuze van de coach
 
-- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2018-03-26&g=2018-03-26)).
+- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2019-07-24&g=2019-07-24)).
 
 - b. De werkgever bepaalt in principe samen met de schoolleider welke coach zij inschakelen bij de aanpak van de aanwezige problematiek rondom verzuim op de school. Wel dienen werkgever en schoolleider zich te realiseren dat de keuze van de coach cruciaal is voor het uiteindelijke resultaat van de begeleiding. Bij de keuze van de coach zijn de volgende aspecten het meest van belang:
 
@@ -229,7 +227,7 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 ##### Artikel 13. Verantwoording van de subsidie Lerend Werken
 
-- a. De werkgever dient uiterlijk binnen 10 maanden na de datum van verlening van de subsidie Lerend Werken een verzoek tot vaststelling in via www.mijnvf.nl, met als uiterlijke indieningsdatum 1 oktober 2019.
+- a. De werkgever dient uiterlijk binnen 10 maanden na de datum van verlening van de subsidie Lerend Werken een verzoek tot vaststelling in via www.mijnvf.nl, met als uiterlijke indieningsdatum 1 oktober 2022.
 
 - b. Bij het verzoek tot vaststelling zendt de werkgever de volgende verantwoordingsstukken mee:
 
@@ -275,7 +273,7 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 ##### Artikel 16. Inwerkingtreding en duur regeling
 
-Deze regeling treedt in werking met ingang van 1 september 2016 en eindigt op 31 augustus 2019.
+Deze regeling treedt in werking met ingang van 1 september 2016 en eindigt op 31 december 2022.
 
 ##### Artikel 17. Kaderregeling
 
