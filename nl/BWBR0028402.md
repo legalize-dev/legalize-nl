@@ -4,7 +4,7 @@ identifier: "BWBR0028402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-11-26"
-last_updated: "2011-01-01"
+last_updated: "2019-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028402"
 soort: "beleidsregel"
@@ -88,7 +88,9 @@ Deze beleidsregel heeft betrekking op:
 
 - b. de naleving door de aanvrager van de wettelijke voorschriften inzake de kwaliteitszorg, de registratie, het onderwijs, de examens en de vooropleidingseisen in voldoende mate is gewaarborgd.
 
-2. Voor een positief oordeel als bedoeld in het eerste lid dient in ieder geval te worden voldaan aan de volgende eisen:
+2. De minister verleent, na advies van de commissie van advies, genoemd in [artikel 6.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11), geen toestemming indien de naleving van [artikel 1.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3), onvoldoende is gewaarborgd.
+
+3. Voor een positief oordeel als bedoeld in het eerste lid dient in ieder geval te worden voldaan aan de volgende eisen:
 
 - a. de aanvrager is een rechtspersoon met volledige rechtsbevoegdheid;
 
@@ -98,7 +100,7 @@ Deze beleidsregel heeft betrekking op:
 
 - d. studenten hebben de opleiding waarop de aanvraag betrekking heeft, recent afgerond.
 
-3. Het verzorgen van het volledige curriculum van de opleiding, bedoeld in het tweede lid, onder c, houdt in ieder geval het volgende in:
+4. Het verzorgen van het volledige curriculum van de opleiding, bedoeld in het tweede lid, onder c, houdt in ieder geval het volgende in:
 
 - a. elk studiejaar uit het curriculum van de opleiding is ten minste één maal verzorgd;
 
@@ -110,7 +112,7 @@ Deze beleidsregel heeft betrekking op:
 
 - e. de opleiding is geen gezamenlijke opleiding als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c).
 
-4. Bij overdracht zijn de voorwaarden, bedoeld in het tweede lid, onder b en c, niet van toepassing, indien de aanvrager een rechtspersoon is aan wie een andere rechtspersoon voor hoger onderwijs een geaccrediteerde opleiding wil overdragen.
+5. Bij overdracht zijn de voorwaarden, bedoeld in het tweede lid, onder b en c, niet van toepassing, indien de aanvrager een rechtspersoon is aan wie een andere rechtspersoon voor hoger onderwijs een geaccrediteerde opleiding wil overdragen.
 
 #### § 4. Benodigde gegevens en bescheiden
 
@@ -118,9 +120,9 @@ Deze beleidsregel heeft betrekking op:
 
 1. Voor een beslissing op de aanvraag zijn in ieder geval de volgende gegevens en bescheiden nodig:
 
-- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01);
+- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25);
 
-- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01), een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a);
+- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25), een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a);
 
 - c. de notariële oprichtingsakte van de rechtspersoon;
 
@@ -160,11 +162,13 @@ De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit.
 
 ##### Artikel 6
 
-De minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien:
+1. De minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien:
 
 - a. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen, of
 
-- b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de minister niet langer is gewaarborgd, waardoor onvoldoende waarborgen bestaan dat kan worden voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen.
+- b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de minister niet langer is gewaarborgd, waardoor onvoldoende waarborgen bestaan dat kan worden voldaan aan hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen.
+
+2. De minister kan, na advies van de commissie van advies, genoemd in [artikel 6.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11), besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien de naleving van [artikel 1.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3) niet of niet langer is gewaarborgd.
 
 #### § 7. Interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12)
 
@@ -176,7 +180,7 @@ Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste 
 
 ##### Artikel 8
 
-1. Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in [artikel 3, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01), met in achtneming van genoemd protocol.
+1. Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in [artikel 3, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25), met in achtneming van genoemd protocol.
 
 2. Indien de minister een positief besluit neemt ten aanzien van een aanvraag als bedoeld in het eerste lid, wordt de toestemming verleend onder de beperking dat binnen een bij dat besluit te bepalen termijn ten behoeve van nadere advisering van de minister door de inspectie zal worden onderzocht of voor dat deel van het curriculum dat eerder nog niet werd verzorgd wordt voldaan aan de eisen ten aanzien van de kwaliteitszorg, de registratie, het onderwijs en de examens, alsmede de vooropleidingseisen.
 
