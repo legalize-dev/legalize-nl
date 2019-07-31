@@ -4,7 +4,7 @@ identifier: "BWBR0042473"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-31"
-last_updated: "2018-01-01"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042473"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Reikwijdte
 
-1. Dit besluit is van toepassing op archiefbescheiden zoals bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042473&artikel=1&z=2019-07-31&g=2018-01-01) van dit besluit.
+1. Dit besluit is van toepassing op archiefbescheiden zoals bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042473&artikel=1&z=2019-07-31&g=2019-07-31) van dit besluit.
 
 2. Dit besluit is niet van toepassing op:
 
