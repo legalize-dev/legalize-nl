@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2019-07-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -138,6 +138,24 @@ Wijzigt de Inkomstenregeling militairen.
 ##### Artikel 4.3
 
 Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
+
+### Hoofdstuk 6. Wijzigingen met ingang van 1 januari 2020
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
+
+##### Artikel 5.1
+
+Wijzigt de Regeling dienstreizen defensie.
+
+##### Artikel 5.2
+
+Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+##### Artikel 5.3
+
+Wijzigt de Verplaatsingskostenregeling Defensie.
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
 
