@@ -4,7 +4,7 @@ identifier: "BWBR0044816"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-02-12"
-last_updated: "2019-07-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044816"
 soort: "AMvB"
@@ -104,10 +104,22 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 11. Wijzigingen met ingang van 1 juli 2020
 
-### Hoofdstuk 12. Overige wijzigingen
+### Hoofdstuk 10. Wijzigingen met ingang van 1 januari 2020
 
 ##### Artikel 8.1
 
 Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 11. Wijzigingen met ingang van 1 juli 2020
+
+##### Artikel 9.1
+
+Wijzigt het Inkomstenbesluit militairen.
+
+##### Artikel 9.2
+
+Wijzigt het Verplaatsingskostenbesluit defensie.
+
+### Hoofdstuk 12. Overige wijzigingen
 
 ### Hoofdstuk 13. Slotbepalingen
