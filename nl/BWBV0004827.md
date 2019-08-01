@@ -4,7 +4,7 @@ identifier: "BWBV0004827"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-08-01"
-last_updated: "1956-09-09"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004827"
 soort: "verdrag"
@@ -58,85 +58,51 @@ Die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben ov
 
 ##### Artikel 1
 
-Er wordt ingesteld een Raadgevende Interparlementaire Beneluxraad, hierna te noemen „Raad”.
-
-De Raad bestaat uit 49 leden, waarvan 21 worden gekozen uit en aangewezen door het Belgische Parlement, 21 gekozen uit en aangewezen door het Nederlandse Parlement en 7 gekozen uit en aangewezen door het Luxemburgse Parlement.
+Vervallen
 
 ##### Artikel 2
 
-De Raad komt eenmaal 's jaars bijeen.
-
-Hij komt bovendien binnen een redelijke termijn bijeen, op convocatie door de Voorzitter, telkens wanneer de Regeringen der drie Staten gezamenlijk de wens daartoe kenbaar maken.
-
-De Voorzitter roept de Raad eveneens bijeen telkens wanneer de meerderheid der leden de wens daartoe kenbaar maakt.
+Vervallen
 
 ##### Artikel 3
 
-De Raad is bevoegd te beraadslagen en adviezen uit te brengen aan de drie Regeringen onder meer in de vorm van een aanbeveling met betrekking tot vraagstukken, die rechtstreeks verband houden met:
-
-- de totstandkoming en de werking van een economische unie tussen de drie Staten;
-
-- de culturele toenadering tussen de drie Staten;
-
-- de samenwerking tussen de drie Staten op het gebied van het buitenlands beleid;
-
-- de eenmaking van het recht in de drie Staten.
-
-Met instemming van de drie Regeringen gezamenlijk kan de Raad beraadslagen en adviezen uitbrengen onder meer in de vorm van een aanbeveling over andere vraagstukken van gemeenschappelijk belang.
+Vervallen
 
 ##### Artikel 4
 
-Jaarlijks brengen de drie Regeringen aan de Raad een gezamenlijk verslag uit over de in artikel 3 genoemde vraagstukken. Dit verslag wordt openbaar gemaakt.
-
-De Regeringen zijn bevoegd gezamenlijk het advies van de Raad in te winnen:
-
-- 1). omtrent de ontwerpen van overeenkomsten tussen de drie Staten met betrekking tot de in artikel 3 genoemde vraagstukken voordat deze worden ondertekend;
-
-- 2). omtrent andere vraagstukken van gezamenlijk belang.
+Vervallen
 
 ##### Artikel 5
 
-Besluiten van de Raad, welke een advies inhouden onder meer in de vorm van een aanbeveling, worden genomen met een meerderheid van twee derden der uitgebrachte stemmen.
-
-Andere besluiten van de Raad worden genomen met meerderheid van stemmen.
+Vervallen
 
 ##### Artikel 6
 
-Binnen het raam van zijn bevoegdheden, omschreven in deze Overeenkomst, stelt de Raad zijn agenda vast.
+Vervallen
 
 ##### Artikel 7
 
-Leden der drie Regeringen en andere door één dier Regeringen aangewezen personen hebben toegang tot de vergaderingen van de Raad en worden indien zij daartoe de wens kenbaar maken, in de gelegenheid gesteld er het woord te voeren. Zij kunnen zich door ambtelijke of andere door hen aangewezen adviseurs doen bijstaan.
+Vervallen
 
 ##### Artikel 8
 
-De Raad beslist of de vergaderingen in het openbaar dan wel met gesloten deuren worden gehouden.
-
-Beraadslaging en stemming over een vraagstuk wordt met gesloten deuren gehouden, indien één der Regeringen de wens daartoe kenbaar maakt.
+Vervallen
 
 ##### Artikel 9
 
-De Raad stelt zijn reglement van orde vast. Dit geeft regelen over de plaats of plaatsen, waar de vergaderingen worden gehouden.
+Vervallen
 
 ##### Artikel 10
 
-De Raad wijst zijn voorzitter aan. Hij benoemt zijn griffier. Hij kan in zijn midden speciale commissies instellen.
-
-Het reglement van orde kan nadere regelen te dien einde vaststellen.
+Vervallen
 
 ##### Artikel 11
 
-De officiële talen van de Raad zijn het Nederlands en het Frans.
+Vervallen
 
 ##### Artikel 12
 
-Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen bij de Belgische Regering worden neergelegd.
-
-Zij zal in werking treden de dag na nederlegging van de derde akte van bekrachtiging.
-
-Zij wordt voor onbepaalde tijd gesloten, maar kan door één der drie Regeringen worden opgezegd twee jaar nadat zij in werking is getreden en nadien te allen tijde met inachtneming van een opzeggingstermijn van zes maanden.
-
-De toepassing van deze Overeenkomst is beperkt tot het grondgebied van elk der drie Staten in Europa.
+Vervallen
 
 Ten blijke waarvan de bovengenoemde gevolmachtigden deze Overeenkomst hebben ondertekend en van hun zegel hebben voorzien.
 
