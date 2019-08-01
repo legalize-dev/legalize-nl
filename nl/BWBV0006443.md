@@ -4,7 +4,7 @@ identifier: "BWBV0006443"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-08-01"
-last_updated: "2015-01-20"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006443"
 soort: "verdrag"
@@ -118,13 +118,13 @@ In dit Verdrag wordt onder de begrippen „Benelux Unie Verdrag”, „Benelux C
 
 ##### Artikel 4
 
-1. De Benelux Interparlementaire Assemblee is bevoegd te beraadslagen en adviezen uit te brengen, onder meer in de vorm van aanbevelingen, aan het Benelux Comité van Ministers over de onderwerpen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2015-01-20&g=2015-01-20), van dit Verdrag.
+1. De Benelux Interparlementaire Assemblee is bevoegd te beraadslagen en adviezen uit te brengen, onder meer in de vorm van aanbevelingen, aan het Benelux Comité van Ministers over de onderwerpen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2019-08-01&g=2019-08-01), van dit Verdrag.
 
 2. Adviezen kunnen eveneens worden uitgebracht aan de Regeringen van de Partijen die bij een bepaald onderwerp zijn betrokken, gezamenlijk.
 
 ##### Artikel 5
 
-1. De Benelux Interparlementaire Assemblee is bevoegd tot het stellen van schriftelijke vragen aan het Benelux Comité van Ministers, evenals aan de Regeringen van de Partijen die bij een bepaald onderwerp als vermeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2015-01-20&g=2015-01-20), van dit Verdrag zijn betrokken, gezamenlijk.
+1. De Benelux Interparlementaire Assemblee is bevoegd tot het stellen van schriftelijke vragen aan het Benelux Comité van Ministers, evenals aan de Regeringen van de Partijen die bij een bepaald onderwerp als vermeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2019-08-01&g=2019-08-01), van dit Verdrag zijn betrokken, gezamenlijk.
 
 2. Deze vragen worden binnen een redelijke termijn beantwoord.
 
@@ -132,7 +132,7 @@ In dit Verdrag wordt onder de begrippen „Benelux Unie Verdrag”, „Benelux C
 
 ##### Artikel 6
 
-Op voorstel van de Benelux Interparlementaire Assemblee, gedaan tijdens een bijeenkomst bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=4&artikel=9&z=2015-01-20&g=2015-01-20), van dit Verdrag, om een bespreking te wijden aan een bepaald onderwerp als vermeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2015-01-20&g=2015-01-20), van dit Verdrag, vaardigen de Regeringen van de Partijen die betrokken zijn bij dit onderwerp een vertegenwoordiger af op de eerstvolgende bijeenkomst.
+Op voorstel van de Benelux Interparlementaire Assemblee, gedaan tijdens een bijeenkomst bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=4&artikel=9&z=2019-08-01&g=2019-08-01), van dit Verdrag, om een bespreking te wijden aan een bepaald onderwerp als vermeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006443&deel=2&artikel=3&z=2019-08-01&g=2019-08-01), van dit Verdrag, vaardigen de Regeringen van de Partijen die betrokken zijn bij dit onderwerp een vertegenwoordiger af op de eerstvolgende bijeenkomst.
 
 ##### Artikel 7
 
