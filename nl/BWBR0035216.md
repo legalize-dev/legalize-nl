@@ -4,7 +4,7 @@ identifier: "BWBR0035216"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-01"
-last_updated: "2014-08-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035216"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - **schooljaar:** het schooljaar, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1),
 
-- **toetsaanbieder:** het College voor toetsen en examens of de rechtspersoon of natuurlijk persoon die een toets uitgeeft waarvan het gebruik op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2014-08-01&g=2014-08-01) is toegelaten.
+- **toetsaanbieder:** het College voor toetsen en examens of de rechtspersoon of natuurlijk persoon die een toets uitgeeft waarvan het gebruik op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2019-08-01&g=2019-08-01) is toegelaten.
 
 #### § 2. Centrale eindtoets en andere eindtoetsen
 
@@ -78,33 +78,33 @@ In dit besluit wordt verstaan onder:
 
 2. Het bevoegd gezag besluit welke eindtoets aan de school wordt afgenomen.
 
-3. Voor 1 januari van het kalenderjaar waarin de eindtoets wordt afgenomen, meldt het bevoegd gezag aan de betreffende toetsaanbieder het aantal leerlingen dat de eindtoets naar verwachting zal afleggen.
+3. Voor 1 februari van het kalenderjaar waarin de eindtoets wordt afgenomen, meldt het bevoegd gezag aan de betreffende toetsaanbieder het aantal leerlingen dat de eindtoets naar verwachting zal afleggen.
 
 ##### Artikel 3. Inhoud eindtoets
 
-Dit onderdeel is nog niet inwerking getreden
+De eindtoets meet welk eindniveau de leerling heeft behaald ten opzichte van de referentieniveaus, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel a en b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2). Daarbij worden ten minste de domeinen als bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1) en [Bijlage 2 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2), met uitzondering van de domeinen Mondelinge Taalvaardigheid en Schrijven, genoemd in Bijlage 1 van het Besluit referentieniveaus Nederlandse taal en rekenen, getoetst.
 
 ##### Artikel 4. Kenmerken eindtoets
 
 Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) of [artikel 18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), voldoet een eindtoets aan de volgende kenmerken:
 
-- a. het resultaat dat een leerling behaalt, leidt tot een eenduidig advies omtrent het te volgen vervolgonderwijs,
+- a. de eindtoets leidt, op basis van het door een leerling behaalde resultaat, tot een eenduidig advies omtrent het te volgen vervolgonderwijs en hanteert daarbij categorieën van schoolsoorten of leerwegen in het voortgezet onderwijs die gelijkluidend zijn aan de gehanteerde categorieën in andere eindtoetsen,
 
 - b. de toets is inhoudelijk valide, betrouwbaar en heeft een deugdelijke normering,
 
 - c. de inhoud is gebaseerd op het algemene deel in de toetswijzer, bedoeld in [artikel 2, zesde lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
-- d. de opgaven over Nederlandse taal en rekenen en wiskunde worden jaarlijks ververst,
+- d. de eindtoetsen bevatten een gezamenlijke set aan opgaven Nederlandse taal en rekenen en wiskunde, die zodanig van omvang is dat daarmee de onderlinge vergelijkbaarheid van de eindtoetsen is geborgd.
 
-- e. dit onderdeel is nog niet in werking getreden,
+- e. de opgaven over Nederlandse taal en rekenen en wiskunde worden jaarlijks ververst, behoudens dat deel van de gezamenlijke set aan opgaven, bedoeld in onderdeel d, dat noodzakelijk is om de resultaten van de eindtoetsen over de jaren heen te vergelijken,
 
-- f. de toets is geschikt voor alle leerlingen met uitzondering van de leerlingen bedoeld in [artikel 9b, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b),
+- f. het toetsresultaat geeft een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen,
 
-- g. de toets biedt de inspectie voldoende basis voor een oordeel over de leerresultaten, bedoeld in [artikel 10a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) of [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a),
+- g. de toets is geschikt voor alle leerlingen met uitzondering van de leerlingen bedoeld in [artikel 9b, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b),
 
-- h. het bij de eindtoets behorende toetsreglement bevat een regeling voor ten minste de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2014-08-01&g=2014-08-01) genoemde onderwerpen,
+- h. de toets biedt de inspectie voldoende basis voor een oordeel over de leerresultaten, bedoeld in [artikel 10a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) of [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a),
 
-- i. de resultaten van de toets zijn over meerdere jaren te vergelijken, en
+- i. het bij de eindtoets behorende toetsreglement bevat een regeling voor ten minste de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2019-08-01&g=2019-08-01) genoemde onderwerpen, en
 
 - j. de inhoud van de toets wordt verantwoord in een handleiding die een beschrijving van de gemaakte keuzes voor de te toetsen domeinen en de daarbij passende afnamevorm bevat.
 
@@ -142,7 +142,7 @@ Bij elke eindtoets wordt door de betreffende toetsaanbieder een toetsreglement v
 
 ##### Artikel 8. Leerlingrapport
 
-1. De toetsaanbieder stelt voor iedere leerling die de eindtoets aflegt een leerlingrapport op, waarin ten minste het resultaat van de eindtoets, het niveau waarop de toets is afgelegd, een advies omtrent het vervolgonderwijs en een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2014-08-01&g=2014-08-01) worden opgenomen.
+1. De toetsaanbieder stelt voor iedere leerling die de eindtoets aflegt een leerlingrapport op, waarin ten minste het resultaat van de eindtoets, het niveau waarop de toets is afgelegd, een advies omtrent het vervolgonderwijs en een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2019-08-01&g=2019-08-01) worden opgenomen.
 
 2. Het leerlingrapport maakt deel uit van het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42) of [artikel 43, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43).
 
@@ -150,17 +150,17 @@ Bij elke eindtoets wordt door de betreffende toetsaanbieder een toetsreglement v
 
 ##### Artikel 9. Procedure toelating andere eindtoetsen
 
-1. De aanvrager dient een aanvraag om toelating van een andere eindtoets voor 1 augustus van het schooljaar van eerste afname in bij Onze minister. Bij de aanvraag toont de aanvrager aan dat de andere eindtoets voldoet aan de kenmerken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2014-08-01&g=2014-08-01). De aanvraag vermeldt in ieder geval de wijze waarop de beheersing van de referentieniveaus wordt gemeten. De aanvraag gaat in ieder geval vergezeld van de handleiding, bedoeld in artikel 4, onderdeel j, een concept toetsreglement, de toetsopgaven en de normering van de toets.
+1. De aanvrager dient een aanvraag om toelating van een andere eindtoets voor 1 augustus van het schooljaar van eerste afname in bij Onze minister. Bij de aanvraag toont de aanvrager aan dat de andere eindtoets voldoet aan de kenmerken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2019-08-01&g=2019-08-01). De aanvraag vermeldt in ieder geval de wijze waarop de beheersing van de referentieniveaus wordt gemeten. De aanvraag gaat in ieder geval vergezeld van de handleiding, bedoeld in artikel 4, onderdeel j, een concept toetsreglement, de toetsopgaven en de normering van de toets.
 
 2. Onze minister besluit binnen dertien weken op de aanvraag. Een besluit tot toelating van een andere eindtoets wordt in de Staatscourant gepubliceerd. Een eindtoets wordt voor vier jaar toegelaten, tenzij het besluit tot toelating tussentijds wordt ingetrokken.
 
 3. Onze minister laat zich ten aanzien van de toelating adviseren door een onafhankelijke commissie.
 
-4. Indien Onze minister, op basis van een advies van de onafhankelijke commissie, vaststelt dat de andere eindtoets niet langer voldoet aan de kenmerken, genoemd in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2014-08-01&g=2014-08-01), dan trekt hij het besluit tot toelating in.
+4. Indien Onze minister, op basis van een advies van de onafhankelijke commissie, vaststelt dat de andere eindtoets niet langer voldoet aan de kenmerken, genoemd in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2019-08-01&g=2019-08-01), dan trekt hij het besluit tot toelating in.
 
 ##### Artikel 10. Subsidie toegelaten andere eindtoetsen
 
-1. Onze minister verstrekt subsidie aan de toetsaanbieder van een andere eindtoets die op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2014-08-01&g=2014-08-01) is toegelaten. De subsidie wordt jaarlijks verstrekt en bestaat uit een basisbedrag vermeerderd met een bedrag per leerling die de toets heeft afgelegd.
+1. Onze minister verstrekt subsidie aan de toetsaanbieder van een andere eindtoets die op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2019-08-01&g=2019-08-01) is toegelaten. De subsidie wordt jaarlijks verstrekt en bestaat uit een basisbedrag vermeerderd met een bedrag per leerling die de toets heeft afgelegd.
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van het subsidiebedrag.
 
@@ -170,7 +170,7 @@ Bij elke eindtoets wordt door de betreffende toetsaanbieder een toetsreglement v
 
 ##### Artikel 11. Kwaliteit toetsen
 
-1. Onze minister wijst de commissie die hem op grond van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2014-08-01&g=2014-08-01), adviseert, aan om het kwaliteitsoordeel over inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering, bedoeld in [artikel 8, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) of [artikel 11, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11) te geven.
+1. Onze minister wijst de commissie die hem op grond van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2019-08-01&g=2019-08-01), adviseert, aan om het kwaliteitsoordeel over inhoudelijke validiteit, betrouwbaarheid en deugdelijke normering, bedoeld in [artikel 8, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) of [artikel 11, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11) te geven.
 
 2. Het kwaliteitsoordeel wordt gegeven over een enkele toets of over een reeks van toetsen. De toetsen meten in ieder geval de kennis en vaardigheden van de leerling op het terrein van Nederlandse taal en rekenen en wiskunde. De toetsen kunnen de kennis en vaardigheden van de leerling op de overige terreinen, genoemd in [artikel 8, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) of [artikel 11, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11), meten.
 
@@ -204,7 +204,7 @@ Wijzigt dit besluit.
 
 2. Tot de datum waarop [artikel II van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=II) (Stb 2014, 13) in werking treedt, is dit besluit niet van toepassing op leerlingen van scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs.
 
-3. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=2&z=2014-08-01&g=2014-08-01), kan het bevoegd gezag besluiten om in het eerste schooljaar na inwerkingtreding van dit besluit in plaats van een eindtoets als bedoeld in dit besluit een toets als bedoeld in [Bijlage A bij de Regeling leerresultaten PO](https://wetten.overheid.nl/jci1.3:c:BWBR0027960&bijlage=A) zoals die luidde op de dag voor de inwerkingtreding van dit besluit, met uitzondering van de Eindtoets Basisonderwijs, inclusief de Niveautoets van Cito, en de Entreetoets van Cito, bij de leerlingen af te nemen.
+3. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=2&z=2019-08-01&g=2019-08-01), kan het bevoegd gezag besluiten om in het eerste schooljaar na inwerkingtreding van dit besluit in plaats van een eindtoets als bedoeld in dit besluit een toets als bedoeld in [Bijlage A bij de Regeling leerresultaten PO](https://wetten.overheid.nl/jci1.3:c:BWBR0027960&bijlage=A) zoals die luidde op de dag voor de inwerkingtreding van dit besluit, met uitzondering van de Eindtoets Basisonderwijs, inclusief de Niveautoets van Cito, en de Entreetoets van Cito, bij de leerlingen af te nemen.
 
 ##### Artikel 16. Inwerkingtreding
 
