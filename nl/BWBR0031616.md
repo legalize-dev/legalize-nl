@@ -4,7 +4,7 @@ identifier: "BWBR0031616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2018-08-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031616"
 soort: "ministeriele-regeling"
@@ -50,19 +50,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Modeldiploma
 
-1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2018-08-01&g=2018-08-01) bij deze regeling.
+1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
-2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2018-08-01&g=2018-08-01) bij deze regeling.
+2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
 ##### Artikel 3. Modelresultatenlijsten
 
-1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2018-08-01&g=2018-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2018-08-01&g=2018-08-01) bij deze regeling.
+1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2019-08-01&g=2019-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
-2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2018-08-01&g=2018-08-01) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2018-08-01&g=2018-08-01) bij deze regeling.
+2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2019-08-01&g=2019-08-01) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
 ##### Artikel 4. Regels voor het invullen van diploma’s en resultatenlijsten
 
-Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2018-08-01&g=2018-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2018-08-01&g=2018-08-01) bij deze regeling.
+Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
 ##### Artikel 5. Veiligheidseisen papier waardedocumenten
 
@@ -104,7 +104,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 1. behorende bij ‘[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2018-08-01&g=2018-08-01)’
+## Bijlage 1. behorende bij ‘[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01)’
 
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
@@ -118,7 +118,7 @@ Inwerkingtreding voorheen door Stcrt. 2012/10761 gesteld op 1 augustus 2012.
 
 ### Modeldiploma voor beroepsopleidingen waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
-## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01)
+## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01)
 
 ### Modelresultatenlijst voor de mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
@@ -140,9 +140,9 @@ Het niveau dat moet worden ingevuld, is het niveau van de kwalificatie, bijvoorb
 
 Voor iedere kwalificatie die een examenkandidaat (deelnemer of examendeelnemer) behaalt, wordt een apart diploma uitgegeven.
 
-### Regels voor het invullen van het modeldiploma
+### Kwalificatie
 
-De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermeld in het Crebo, conform [artikel 7.1.2, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.2). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van het betreffende kwalificatiedossier.
+De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs (hierna: Crebo), conform [artikel 7.1.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.2) (hierna: de WEB). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie.
 
 ### Niveau
 
@@ -156,7 +156,7 @@ De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermel
 
 Het niveau dat moet worden ingevuld, is het niveau van de kwalificatie, bijvoorbeeld mbo-3.
 
-Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het diploma door de examencommissie plaatsvindt te worden ingevuld.
+De te vermelden naam van een keuzedeel is de naam zoals vermeld in het Crebo.
 
 De te vermelden naam van een keuzedeel is de naam zoals vermeld in het Crebo.
 
@@ -166,13 +166,13 @@ Als code dient te worden vermeld de in het Crebo opgenomen (identificatie)code v
 
 ## Bijlage 5. behorende bij de Regeling modeldiploma mbo
 
-### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
+### Geboortedatum en -plaats
 
-De kwalificatie, het kwalificatiedossier, de Crebocode voor zowel de kwalificatie als het kwalificatiedossier, het niveau, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2015-11-25&g=2015-11-25).
+Achter ‘geboren’ wordt de geboortedatum vermeld en achter ‘te’ de geboorteplaats, zoals deze staan vermeld in de basisregistratie personen. Indien de geboorteplaats buiten Nederland ligt, wordt achter de geboorteplaats het geboorteland vermeld. Indien de geboorteplaats niet bekend is, wordt alleen het geboorteland vermeld.
 
-### Resultaten
+### Naamsvermelding instelling
 
-De eindwaardering voor een generiek of een specifiek examenonderdeel wordt conform [artikel 15 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15) bepaald. Voor de eindwaardering voor een generiek of een specifiek examenonderdeel, uitgezonderd het onderdeel loopbaan en burgerschap, geldt dat als het resultaat wordt uitgedrukt in een cijfer, dit geschreven wordt zowel in cijfers als in letters. Zo wordt bijvoorbeeld het cijfer 7 ook uitgeschreven als ‘zeven’. Als het resultaat wordt uitgedrukt in een woord, dan wordt het betreffende woord vermeld.
+Achter het woord ‘aan’ wordt steeds de naam van de instelling vermeld. De naam van de instelling is de naam zoals geregistreerd in de Basisregistratie Instellingen (BRIN). Ook wanneer het examen is uitbesteed aan een andere instelling of exameninstelling dient de naam van de onderwijsinstelling waaraan de examenkandidaat is ingeschreven te worden vermeld.
 
 Achter het woord ‘aan’ wordt steeds de naam van de instelling vermeld. De naam van de instelling is de naam zoals geregistreerd in de Basisregistratie Instellingen (BRIN). Ook wanneer het examen is uitbesteed aan een andere instelling of exameninstelling dient de naam van de onderwijsinstelling waaraan de examenkandidaat is ingeschreven te worden vermeld.
 
@@ -182,19 +182,19 @@ Indien op grond van een andere (wettelijke) regeling dan de [WEB](https://wetten
 
 ### Ondertekening
 
-De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten.
-
 Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het diploma door de examencommissie plaatsvindt te worden ingevuld.
 
 Indien de onderwijsinstelling aan een andere instelling of aan een exameninstelling de examinering heeft uitbesteed overeenkomstig [artikel 7.4.4a van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.4a), dan dient de examencommissie van de instelling waaraan is uitbesteed het diploma te ondertekenen.
 
-De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2016-08-01&g=2016-08-01).
+Indien de onderwijsinstelling aan een andere instelling of aan een exameninstelling de examinering heeft uitbesteed overeenkomstig [artikel 7.4.4a van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.4a), dan dient de examencommissie van de instelling waaraan is uitbesteed het diploma te ondertekenen.
+
+Instellingen hebben de mogelijkheid om extra informatie op het diploma te plaatsen. Hierbij kan worden gedacht aan de vermelding van bijvoorbeeld de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van diploma’s is het van belang terughoudend te zijn bij het opnemen van extra informatie. Extra informatie kan ook altijd in een bijlage worden opgenomen.
 
 ### Examenresultaat keuzedeel
 
-### Nederlandse taal en rekenen
+### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
 
-Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen.
+De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01).
 
 De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2018-08-01&g=2018-08-01).
 
@@ -202,15 +202,15 @@ De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificat
 
 Het examenresultaat van het keuzedeel in een cijfer en/of woorden. In het geval van het overnemen van het examenresultaat van een keuzedeel uit een eerdere opleiding (behaald of geëxamineerd maar niet behaald) dient eveneens het examenresultaat in een cijfer en/of woorden te worden opgenomen op de resultatenlijst.
 
-De kwalificatiestructuur kent geen deelkwalificaties, daarom zijn de kerntaken benoemd als specifieke examenonderdelen. Dat het beroepsgerichte examen in specifieke examenonderdelen is ingedeeld, betekent niet dat elke kerntaak afzonderlijk geëxamineerd moet worden. Zowel kerntaakoverstijgende als kerntaakdoorsnijdende toetsen zijn mogelijk. Afhankelijk van het aantal vereiste examenonderdelen op de resultatenlijst worden de in het model weergegeven regels voor de vermelding van de examenonderdelen ongeldig gemaakt voor zover ze niet worden gebruikt of hun aantal wordt aangepast aan het aantal vereiste examenonderdelen. De beoordeling moet wel zodanig zijn opgebouwd dat altijd een waardering per kerntaak wordt geleverd en geregistreerd.
-
 De eindwaardering voor een generiek of een specifiek examenonderdeel wordt conform [artikel 15 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15) bepaald. Voor de eindwaardering voor een generiek of een specifiek examenonderdeel, uitgezonderd het onderdeel loopbaan en burgerschap, geldt dat als het resultaat wordt uitgedrukt in een cijfer, dit geschreven wordt zowel in cijfers als in letters. Zo wordt bijvoorbeeld het cijfer 7 ook uitgeschreven als ‘zeven’. Als het resultaat wordt uitgedrukt in een woord, dan wordt het betreffende woord vermeld.
 
 In geval van een vrijstelling voor een specifiek examenonderdeel wordt het woord ‘vrijstelling’ vermeld op de resultatenlijst. Bij een vrijstelling voor het examenonderdeel Nederlandse taal, rekenen of Engels, op grond van [artikel 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3b), wordt het resultaat zowel in cijfers als in letters op de resultatenlijst geschreven en het woord ‘vrijstelling’ vermeld.
 
+Voorbeeld in geval van vrijstelling voor het examenonderdeel Nederlandse taal, rekenen of Engels:
+
 ### Resultatenlijst bij Nederlandse taal en rekenen bij hoger mbo-niveau en/of vrijstelling
 
-Een examenkandidaat volgt een opleiding op mbo-niveau 4, maar heeft op grond van het behalen van een havodiploma vrijstelling gekregen voor het examenonderdeel ‘Rekenen’. In dat geval wordt de rij bij het examenonderdeel ‘Rekenen’ in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ op onderstaande wijze ingevuld. Achter het generieke examenonderdeel ‘Rekenen’ in de eerste kolom is ‘havo (vrijstelling)’ ingevuld. De tabel ziet er in dat geval als volgt uit:
+Een ander voorbeeld betreft een specifiek examenonderdeel dat is behaald in het buitenland. Vanwege de territoriale werking van de Nederlandse wet- en regelgeving kunnen in het buitenland behaalde examenonderdelen niet zonder meer meetellen voor een diploma als bedoeld in [artikel 7.4.6, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6). De examencommissie dient in zo’n geval te beoordelen of het in het buitenland afgelegde examen voldoet aan de eisen die in de Nederlandse wet- en regelgeving zijn opgenomen en of de condities waaronder het examen is afgenomen de juiste waren. Indien dat het geval is, verleent de examencommissie vanwege het in het buitenland behaalde examen, een vrijstelling voor het specifieke examenonderdeel of een deel daarvan. Naast de vermelding van het woord ‘vrijstelling’ kan in een dergelijk geval ook het behaalde resultaat in het buitenland op de resultatenlijst worden vermeld. In dat laatste geval wordt dit op de resultatenlijst als volgt opgenomen:
 
 De te hanteren benamingen van de kerntaken en de bijbehorende werkprocessen staan vermeld in het kwalificatiedossier van de betreffende kwalificatie.
 
@@ -230,17 +230,17 @@ De eindwaardering voor het onderdeel loopbaan en burgerschap wordt conform [arti
 
 ### Nederlandse taal en rekenen
 
-Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen.
+Voor Nederlandse taal dient, behalve de eindwaardering, ook de waardering van het centraal examen en het instellingsexamen te worden vermeld. De waardering van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen.
 
 ### Examen van overige onderdelen
 
 Resultaten van examinering van onderdelen die in de vrije ruimte van een opleiding zijn gevolgd, maar die niet behoren bij de kwalificatie waarvan het betreffende diploma is behaald, mogen op de resultatenlijst worden vermeld. Deze keuze is aan de instelling. Indien de instelling kiest om deze informatie op de resultatenlijst te vermelden, wordt deze geplaatst in een aparte tabel met de titel ‘Examen van overige onderdelen’. Bovengenoemde resultaten worden niet in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ vermeld, omdat deze overige onderdelen geen deel uitmaken van de betreffende kwalificatie en de resultaten hiervan niet van invloed zijn op de uitslagbepaling van de voornoemde kwalificatie en het daarbij bijbehorende diploma.
 
-Op grond van de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3a) en [3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3b) kunnen examenkandidaten de examens van de examenonderdelen Nederlandse taal en/of rekenen afleggen die behoren bij een hoger mbo-niveau dan het mbo-niveau van de beroepsopleiding waarin hij examen doet. Op de resultatenlijst wordt achter de naam van het betreffende examenonderdeel vermeld op welk niveau het examen is afgelegd.
+Op grond van [artikel 3a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3a) kunnen examenkandidaten de examens van de examenonderdelen Nederlandse taal en/of rekenen afleggen die behoren bij een hoger mbo-niveau dan het mbo-niveau van de beroepsopleiding waarin hij examen doet. Op de resultatenlijst wordt achter de naam van het betreffende examenonderdeel vermeld op welk niveau het examen is afgelegd.
 
 ### Engels
 
-Op de resultatenlijst voor mbo-niveau 4 wordt onder generieke examenonderdelen ook het onderdeel Engels vermeld. Voor dit onderdeel dient behalve de eindwaardering ook het taalbeheersingsniveau volgens het Europees Referentiekader (ERK) te worden vermeld. Voorts dient ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden.
+Op de resultatenlijst voor mbo-niveau 4 wordt onder generieke examenonderdelen ook het onderdeel Engels vermeld. Voor dit onderdeel dient behalve de eindwaardering ook het taalbeheersingsniveau volgens het Europees Referentiekader (ERK) te worden vermeld. Voorts dient ook de waardering van het centraal examen en het instellingsexamen te worden vermeld. De waardering van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden.
 
 De tabel ‘Examen van overige onderdelen’ ziet er als volgt uit:
 
@@ -252,15 +252,15 @@ Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroep
 
 ##### Artikel 3a. Modelcertificaat
 
-1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2018-08-01&g=2018-08-01) bij deze regeling.
+1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
-2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2018-08-01&g=2018-08-01) bij deze regeling.
+2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
-3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2018-08-01&g=2018-08-01) bij deze regeling.
+3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2019-08-01&g=2019-08-01) bij deze regeling.
 
 ##### Artikel 6a. Vervallen van artikelen
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2018-08-01&g=2018-08-01), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2018-08-01&g=2018-08-01) bij deze regeling vervallen met ingang van 1 augustus 2022.
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2019-08-01&g=2019-08-01) bij deze regeling vervallen met ingang van 1 augustus 2022.
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
@@ -268,15 +268,15 @@ Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroep
 
 ## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
-## Bijlage 1a. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
+## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01)
 
 ## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2018-08-01&g=2018-08-01)
 
-## Bijlage 3a. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
+## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01)
 
 ## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01)
 
-### Kwalificatie
+### Modelresultatenlijst voor mbo-niveau 4, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016
 
 De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs (hierna: Crebo), conform [artikel 7.1.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.2) (hierna: de WEB). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie.
 
@@ -292,29 +292,29 @@ Achter ‘geboren’ wordt de geboortedatum vermeld en achter ‘te’ de geboor
 
 ### Naamsvermelding instelling
 
-Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het diploma door de examencommissie plaatsvindt te worden ingevuld.
+Indien op grond van een andere (wettelijke) regeling dan de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het diploma (en/of op de resultatenlijst), dan is de instelling verplicht om de desbetreffende informatie op het diploma te vermelden.
 
 ## Bijlage 5. behorende bij de Regeling modeldiploma mbo
 
-### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
+### Extra Informatie
 
 Het examenresultaat van het keuzedeel in een cijfer en/of woorden. In het geval van het overnemen van het examenresultaat van een keuzedeel uit een eerdere opleiding (behaald of geëxamineerd maar niet behaald) dient eveneens het examenresultaat in een cijfer en/of woorden te worden opgenomen op de resultatenlijst.
 
 ### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
 
-In geval van een vrijstelling voor een specifiek examenonderdeel wordt het woord ‘vrijstelling’ vermeld op de resultatenlijst. Bij een vrijstelling voor het examenonderdeel Nederlandse taal of rekenen, op grond van [artikel 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3b), wordt het resultaat zowel in cijfers als in letters op de resultatenlijst geschreven.
+Het examenresultaat van het keuzedeel in een cijfer en/of woorden. In het geval van het overnemen van het examenresultaat van een keuzedeel uit een eerdere opleiding (behaald of geëxamineerd maar niet behaald) dient eveneens het examenresultaat in een cijfer en/of woorden te worden opgenomen op de resultatenlijst.
 
-### Aanpassing aan aantal examenonderdelen
+### Resultaten
 
 ### Specifieke examenonderdelen
 
-Voorbeeld in geval van vrijstelling voor het examenonderdeel Nederlandse taal, rekenen of Engels:
+Een examenkandidaat volgt een opleiding op mbo-niveau 4, maar heeft op grond van het behalen van een havodiploma vrijstelling gekregen voor het examenonderdeel ‘Rekenen’. In dat geval wordt de rij bij het examenonderdeel ‘Rekenen’ in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ op onderstaande wijze ingevuld. Achter het generieke examenonderdeel ‘Rekenen’ in de eerste kolom is ‘havo (vrijstelling)’ ingevuld. De tabel ziet er in dat geval als volgt uit:
 
 ### Generieke examenonderdelen
 
 ### Specifieke examenonderdelen
 
-In [artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=17) is bepaald dat het examen van een beroepsopleiding met goed gevolg is afgelegd indien onder andere voor alle specifieke examenonderdelen van de betreffende beroepsopleiding een eindwaardering van ten minste het cijfer 6 of ten minste een voldoende is behaald, dan wel op grond van [artikel 14a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14a) vrijstelling is verleend.
+In [artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=17) is bepaald dat het examen van een beroepsopleiding met goed gevolg is afgelegd indien onder andere voor alle specifieke examenonderdelen van de betreffende beroepsopleiding een eindwaardering van ten minste het cijfer 6 of ten minste een voldoende is behaald, dan wel op grond van [artikel 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3b) vrijstelling is verleend.
 
 ### Resultatenlijst bij Nederlandse taal en rekenen bij hoger mbo-niveau en/of vrijstelling
 
@@ -356,7 +356,9 @@ Instellingen hebben de mogelijkheid om extra informatie op het certificaat te pl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01), van de Regeling modeldiploma mbo
+## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+
+**Modelresultatenlijst voor mbo-niveau 4, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016**
 
 ### Modelresultatenlijst voor mbo-niveau 4, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
@@ -366,7 +368,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Kwalificatie
 
-De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs (hierna: Crebo), conform [artikel 7.1.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.2) (hierna: de WEB). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie.
+Voor iedere kwalificatie die een examenkandidaat (deelnemer of examendeelnemer) behaalt, wordt een apart diploma uitgegeven.
 
 ### Extra Informatie
 
@@ -380,7 +382,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het diploma te plaats
 
 ### Loopbaan en burgerschap
 
-De eindwaardering voor het onderdeel loopbaan en burgerschap wordt conform [artikel 15, derde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15), uitgedrukt met de term ‘niet voldaan’ of ‘voldaan’ op de resultatenlijst. Het examen van een beroepsopleiding is namelijk alleen met goed gevolg afgelegd als voor het onderdeel loopbaan en burgerschap een eindwaardering ‘voldaan’ is behaald, zoals bepaald in [artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=17).
+De eindwaardering voor het onderdeel loopbaan en burgerschap wordt conform [artikel 15, derde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=15) uitgedrukt met de term ‘niet voldaan’ of ‘voldaan’. Aangezien het examen van een beroepsopleiding alleen met goed gevolg is afgelegd als voor het onderdeel loopbaan en burgerschap een eindwaardering ‘voldaan’ is behaald, zal bij het behalen van het diploma ‘voldaan’ op de resultatenlijst worden vermeld.
 
 ### Extra informatie
 
@@ -392,17 +394,17 @@ De tabel ‘Examen van overige onderdelen’ ziet er als volgt uit:
 
 De tekstpassage over de behaalde wettelijke beroepsvereisten wordt op het diploma vermeld direct voor de regel met de plaats en datum. Op de resultatenlijst worden deze vermeld direct na de tabel ‘Examenonderdelen behorend bij kwalificatie’ en (indien van toepassing) voor de tabel ‘Examen van extra onderdelen’. Tenzij anders is bepaald in een andere (wettelijke) regeling dan de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) luidt de te vermelden tekstpassage als volgt: ‘De kandidaat heeft voldaan aan de wettelijke beroepsvereisten vermeld in…’. Achter ‘vermeld in’ moet worden vermeld de (wettelijke) regeling waarin de wettelijke beroepsvereisten is bepaald.
 
-## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2018-08-01&g=2018-08-01), van de Regeling modeldiploma mbo
+## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
 
-## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2018-08-01&g=2018-08-01), van de Regeling modeldiploma mbo
+## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
 
 ### Modelcertificaat verbonden aan een keuzedeel
 
-## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2018-08-01&g=2018-08-01), van de Regeling modeldiploma mbo
+## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
 
 ### Regels bij het invullen van de modelcertificaten
 
-De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2018-08-01&g=2018-08-01).
+De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01).
 
 ### Onderdeel
 
@@ -410,6 +412,44 @@ De te vermelden naam van een onderdeel van een kwalificatie is de naam zoals ver
 
 ### Extra informatie
 
-Instellingen hebben de mogelijkheid om extra informatie op het certificaat te plaatsen. Hierbij kan worden gedacht aan het resultaat voor het onderdeel van de kwalificatie of het keuzedeel, de vermelding van bijvoorbeeld de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van certificaten is het van belang terughoudend te zijn bij het opnemen van extra informatie.
+Instellingen hebben de mogelijkheid om extra informatie op het certificaat te plaatsen. Hierbij kan worden gedacht aan de waardering voor het onderdeel van de kwalificatie of het keuzedeel, de vermelding van bijvoorbeeld de leerweg en de naam van het leerbedrijf. Omwille van de herkenbaarheid van certificaten is het van belang terughoudend te zijn bij het opnemen van extra informatie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Modeldiploma voor beroepsopleidingen waarvan het eerste studiejaar is gestart op of na 1 augustus 2016
+
+### Modelresultatenlijst voor mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016
+
+## Bijlage 3a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+
+## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2019-08-01&g=2019-08-01) van de regeling modeldiploma mbo
+
+### Regels voor het invullen van het modeldiploma
+
+### Kwalificatiedossier
+
+De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermeld in het Crebo, conform [artikel 7.1.2, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.2). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van het betreffende kwalificatiedossier.
+
+### Niveau
+
+Het niveau dat moet worden ingevuld, is het niveau van de kwalificatie, bijvoorbeeld mbo-3.
+
+### Naam keuzedeel
+
+### Crebo-code keuzedeel
+
+Als code dient te worden vermeld de in het Crebo opgenomen (identificatie)code van het betreffende keuzedeel.
+
+### Naam examenkandidaat
+
+Op het diploma wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ de officiële voornaam en de officiële achternaam van de examenkandidaat opgenomen, zoals deze staan vermeld in de basisregistratie personen. De officiële namen worden volledig uitgeschreven.
+
+### Eventuele wettelijke beroepsvereisten
+
+### Ondertekening
+
+De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten.
+
+## Bijlage 5. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2019-08-01&g=2019-08-01) de Regeling modeldiploma mbo
+
+### Examenresultaat keuzedeel
