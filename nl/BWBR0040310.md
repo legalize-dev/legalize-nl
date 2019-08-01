@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2017-12-06"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2017-12-06&g=2017-12-06), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2019-08-01&g=2019-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
@@ -126,6 +126,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25417 | Aankomend medewerker maritiem niveau 2 | Fysieke en psychische geschiktheid |
 | 25418 | Aankomend onderofficier grondoptreden niveau 3 | Fysieke en psychische geschiktheid |
 | 25419 | Aankomend onderofficier maritiem niveau 3 | Fysieke en psychische geschiktheid |
+| 25469 | Instructeur Paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25472 | Acteur niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
 | 25495 | Danser niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
 | 25496 | Musicalperformer niveau 4 | Technische en fysieke vermogen om kunstuiting te kunnen uitvoeren en creatieve en artistieke aanleg |
