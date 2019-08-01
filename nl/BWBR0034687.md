@@ -4,7 +4,7 @@ identifier: "BWBR0034687"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2017-08-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034687"
 soort: "wet"
@@ -79,11 +79,11 @@ Wijzigt de Leerplichtwet 1969.
 
 Voor de toepassing van [artikel 10a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) worden de leerresultaten over een periode van 3 schooljaren
 
-- a. in het eerste schooljaar na inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2017-08-01&g=2017-08-01), van deze wet, beoordeeld op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
+- a. in het eerste schooljaar na inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2019-08-01&g=2019-08-01), van deze wet, beoordeeld op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
 
-- b. in het tweede schooljaar na inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2017-08-01&g=2017-08-01), van deze wet, voor één schooljaar beoordeeld op basis van de centrale eindtoets of andere eindtoets, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en de daaraan voorafgaande 2 schooljaren op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
+- b. in het tweede schooljaar na inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2019-08-01&g=2019-08-01), van deze wet, voor één schooljaar beoordeeld op basis van de centrale eindtoets of andere eindtoets, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en de daaraan voorafgaande 2 schooljaren op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
 
-- c. in het derde schooljaar na inwerkingtreding van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2017-08-01&g=2017-08-01), van deze wet, voor twee schooljaren beoordeeld op basis van de centrale eindtoets of andere eindtoets, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b), en het daaraan voorafgaande schooljaar op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
+- c. in het derde schooljaar na inwerkingtreding van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2019-08-01&g=2019-08-01), van deze wet, voor twee schooljaren beoordeeld op basis van de centrale eindtoets of andere eindtoets, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b), en het daaraan voorafgaande schooljaar op basis van [artikel 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel E.
 
 ##### Artikel IX. Samenloop met het wetsvoorstel tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs
 
@@ -93,8 +93,8 @@ Wijzigt deze wet.
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat
 
-- a. [artikel I, onderdelen Da en Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2017-08-01&g=2017-08-01), drie jaar na de inwerkingtreding van artikel I, onderdeel C, in werking treden;
+- a. [artikel I, onderdelen Da en Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=I&z=2019-08-01&g=2019-08-01), drie jaar na de inwerkingtreding van artikel I, onderdeel C, in werking treden;
 
-- b. [artikel II, onderdelen Da en Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=II&z=2017-08-01&g=2017-08-01), [artikel III, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=III&z=2017-08-01&g=2017-08-01), en het in [artikel IX, vierde onderdeel, opgenomen onderdeel Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=IX&z=2017-08-01&g=2017-08-01) drie jaar na de inwerkingtreding van artikel II, onderdeel C, in werking treden.
+- b. [artikel II, onderdelen Da en Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=II&z=2019-08-01&g=2019-08-01), [artikel III, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=III&z=2019-08-01&g=2019-08-01), en het in [artikel IX, vierde onderdeel, opgenomen onderdeel Ha](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=IX&z=2019-08-01&g=2019-08-01) drie jaar na de inwerkingtreding van artikel II, onderdeel C, in werking treden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
