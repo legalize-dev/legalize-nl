@@ -1,0 +1,211 @@
+---
+title: "Regeling van het College voor Toetsen en Examens van 24 juni 2019, nummer CvTE-19.00779, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2021, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van de examenjaren 2020, tevens preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023 (Regeling syllabi centrale examens vo 2021)"
+identifier: "BWBR0042476"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2019-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042476"
+soort: "zbo"
+stam_id: "15136183"
+version_id: "25956782"
+internal_id: "C36973521"
+label_id: "15083964"
+dtd_version: "2.0"
+original_entry_into_force: "2019-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042476/2024-01-01/0"
+intitule_bron: "Stcrt.2019-42966"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-24"
+intitule_published: "2019-08-01"
+intitule_in_force: "2019-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-42966"
+original_signed_date: "2019-06-24"
+original_published_date: "2019-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-42966"
+entry_into_force_date: "2019-08-02"
+jci_1_3: "jci1.3:c:BWBR0042476&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0042476&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens vo 2021"
+signed_date: "2019-06-24"
+entry_into_force: "2019-08-02"
+---
+# Regeling van het College voor Toetsen en Examens van 24 juni 2019, nummer CvTE-19.00779, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2021, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van de examenjaren 2020, tevens preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023 (Regeling syllabi centrale examens vo 2021)
+
+Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
+
+Gezien de goedkeuring van de Minister voor Basis- en Voortgezet Onderwijs en Media, bedoeld in [artikel 2, achtste lid, van de Wet College voor Toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), gegeven op 10 juli 2019, kenmerk 10130689;
+
+Besluit:
+
+##### Artikel 1. Vaststelling syllabi ten behoeve van het examenjaar 2021
+
+De syllabi worden vastgesteld dan wel nader vastgesteld voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2021, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2019-08-02&g=2019-08-02), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1b&z=2019-08-02&g=2019-08-02) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1c&z=2019-08-02&g=2019-08-02) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+
+##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2020
+
+De syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2020 die bij eerdere [Regeling syllabi centrale examens vo](https://wetten.overheid.nl/jci1.3:c:BWBR0041196) zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2019-08-02&g=2019-08-02) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+
+##### Artikel 3. Preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023
+
+1. De syllabi worden vastgesteld voor de centrale examens in het vwo en havo ten behoeve van het examenjaar 2022 voor de vakken als vermeld in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2019-08-02&g=2019-08-02) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+
+2. Er wordt een syllabus vastgesteld voor de centrale examens in het vwo ten behoeve van het examenjaar 2023 voor het vak vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2019-08-02&g=2019-08-02) bij deze regeling, welk vak na bekendmaking deel uitmaakt van deze regeling.
+
+##### Artikel 4. Bekendmaking
+
+1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+2. De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2019-08-02&g=2019-08-02), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2019-08-02&g=2019-08-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2019-08-02&g=2019-08-02) worden bekendgemaakt op www.examenblad.nl.
+
+##### Artikel 5. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
+
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2019-08-02&g=2019-08-02) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2019-08-02&g=2019-08-02): per 1 januari 2022;
+
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2019-08-02&g=2019-08-02) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2019-08-02&g=2019-08-02): per 1 januari 2021;
+
+- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2019-08-02&g=2019-08-02) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2019-08-02&g=2019-08-02): per 1 januari 2023;
+
+- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2019-08-02&g=2019-08-02) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2019-08-02&g=2019-08-02): per 1 januari 2024.
+
+##### Artikel 6. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling syllabi centrale examens vo 2021.
+
+## Bijlage 1a. Syllabi vwo 2021
+
+**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
+
+Voor de centrale examens vwo 2021 worden syllabi voor de volgende vakken vastgesteld:
+
+| aardrijkskunde |
+| --- |
+| bedrijfseconomie (nadere vaststelling van de syllabus in 2016 vastgesteld) |
+| beeldende vakken |
+| biologie |
+| economie |
+| filosofie |
+| Fries |
+| geschiedenis |
+| Grieks |
+| kunst (beeldende vormgeving/dans/drama/muziek/algemeen) |
+| Latijn |
+| maatschappijwetenschappen |
+| moderne vreemde talen |
+| muziek |
+| natuurkunde |
+| Nederlands |
+| scheikunde |
+| wiskunde A, B en C |
+
+## Bijlage 1b. Syllabi havo 2021
+
+**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
+
+Voor de centrale examens havo 2021 worden syllabi voor de volgende vakken vastgesteld:
+
+| aardrijkskunde |
+| --- |
+| bedrijfseconomie |
+| beeldende vakken |
+| biologie |
+| economie |
+| filosofie |
+| Fries |
+| geschiedenis (nadere vaststelling van de syllabus die in 2018 is vastgesteld) |
+| kunst (beeldende vormgeving/dans/drama/muziek/algemeen) |
+| maatschappijwetenschappen |
+| moderne vreemde talen |
+| muziek |
+| natuurkunde |
+| Nederlands |
+| scheikunde |
+| wiskunde A en B |
+
+## Bijlage 1c. Syllabi vmbo 2021
+
+**(Bijlage als bedoeld in artikel 1 Regeling syllabi centrale examens vo 2021)**
+
+Voor de centrale examens vmbo 2021 worden syllabi voor de volgende vakken vastgesteld:
+
+| **algemene vakken:** |
+| --- |
+| aardrijkskunde |
+| beeldende vakken |
+| biologie |
+| dans |
+| drama |
+| economie |
+| fries |
+| geschiedenis en staatsinrichting |
+| maatschappijkunde |
+| moderne vreemde talen |
+| muziek |
+| natuur- en scheikunde I |
+| natuur- en scheikunde II |
+| Nederlands |
+| wiskunde |
+|   |
+| **profielvakken beroepsgericht:** |
+| bouwen, wonen en interieur |
+| produceren, installeren en energie |
+| mobiliteit en transport |
+| media, vormgeving en ict |
+| zorg en welzijn |
+| economie en ondernemen |
+| horeca, bakkerij en recreatie |
+| dienstverlening en producten |
+| groen |
+
+## Bijlage 2. Nadere vaststelling syllabi 2020
+
+**(Bijlage als bedoeld in artikel 2 Regeling syllabi centrale examens vo 2021)**
+
+| **vwo** |
+| --- |
+| De syllabi voor de centrale examens vwo 2020 die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken: |
+|   |
+| beeldende vakken |
+| filosofie |
+|   |
+| **havo** |
+| De syllabi voor de centrale examens havo 2020 die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken: |
+|   |
+| muziek |
+|   |
+| **vmbo** |
+| De syllabi voor de centrale examens vmbo 2020 die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken: |
+|   |
+| geschiedenis en staatsinrichting |
+| wiskunde |
+
+## Bijlage 3a. Preliminaire vaststelling syllabi 2022
+
+**(Bijlage als bedoeld in artikel 3 eerste lid Regeling syllabi centrale examens vo 2021)**
+
+| **vwo** |
+| --- |
+| Voor de centrale examens vwo 2022 worden syllabi voor de volgende vakken vastgesteld: |
+|   |
+| geschiedenis (nadere vaststelling van de syllabus die in 2018 is vastgesteld) |
+|   |
+| **havo** |
+| Voor de centrale examens havo 2022 worden syllabi voor de volgende vakken vastgesteld: |
+|   |
+| filosofie |
+
+## Bijlage 3b. Preliminaire vaststelling syllabus 2023
+
+**(Bijlage als bedoeld in artikel 3 tweede lid Regeling syllabi centrale examens vo 2021)**
+
+| **vwo** |
+| --- |
+| Voor de centrale examens vwo 2023 wordt een syllabus voor het volgende vak vastgesteld: |
+|   |
+| economie |
