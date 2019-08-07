@@ -4,7 +4,7 @@ identifier: "BWBR0038026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-07"
-last_updated: "2016-09-23"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038026"
 soort: "ministeriele-regeling"
@@ -50,11 +50,13 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=2&z=2016-09-23&g=2016-09-23).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=2&z=2019-08-07&g=2019-08-07).
 
 ##### Artikel 2
 
-De personen, werkzaam op de unit Handhaving in dienst van de Dienst Wegverkeer, zijn aangewezen als buitengewoon opsporingsambtenaar.
+1. De personen, werkzaam bij de unit Handhaving, in dienst van de Rijksdienst voor het Wegverkeer, zijn aangewezen als buitengewoon opsporingsambtenaar.
+
+2. Aan de buitengewoon opsporingsambtenaar, genoemd in het 1e lid wordt ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16), nader uitgewerkt in de [bijlage H, onder beperkte opsporingsbevoegdheid van de Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H). Aan deze personen wordt ontheffing verleend van het examenonderdeel Gespreks- en benaderingstechnieken.
 
 ##### Artikel 3
 
@@ -78,17 +80,17 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 1. De Dienst Wegverkeer brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=2&z=2016-09-23&g=2016-09-23) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=2&z=2019-08-07&g=2019-08-07) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=5&z=2016-09-23&g=2016-09-23) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=5&z=2019-08-07&g=2019-08-07) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=8&z=2016-09-23&g=2016-09-23) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030453), worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038026&artikel=8&z=2019-08-07&g=2019-08-07) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030453), worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
