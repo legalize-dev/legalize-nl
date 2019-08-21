@@ -4,7 +4,7 @@ identifier: "BWBR0011010"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-21"
-last_updated: "1999-12-26"
+last_updated: "2019-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011010"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Besluit:
 
 - d. de door de Stichting OVDB Landelijk Orgaan van het Beroepsonderwijs Zorg en Welzijn krachtens de Wet op het leerlingwezen respectievelijk de Wet op het cursorisch beroepsonderwijs afgegeven diploma’s van Gezinsverzorgende, Verzorgende bij instellingen voor gezinsverzorging, Bejaardenverzorgende, Verzorgende in verzorgingshuizen en Kraamverzorgende.
 
-2. Ten aanzien van de in het vorige lid, onder c en d, genoemde diploma’s geldt de aanwijzing slechts onder de voorwaarde dat de bezitter ervan tevens beschikt over het certificaat voor de deelkwalificatie 304 ’verplegende elementen’.
+2. Ten aanzien van de in het vorige lid, onder c en d, genoemde diploma’s geldt de aanwijzing slechts onder de voorwaarde dat de bezitter ervan tevens beschikt over het certificaat voor de deelkwalificatie 304 ’verplegende elementen’, het certificaat 22190, 95530 ‘Ondersteunen bij verpleegtechnische handelingen’ of de deelkwalificatie K0119, 480 ‘Verplegende en verpleegtechnische handelingen’.
 
 ##### Artikel 2
 
