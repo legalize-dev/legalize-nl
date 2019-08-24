@@ -4,7 +4,7 @@ identifier: "BWBR0037678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-08-01"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037678"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 3. Vaststelling kwalificatiedossiers
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2019-08-01&g=2019-08-01) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2019-08-24&g=2019-08-24) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
 - a. tot welk van de opleidingsdomeinen het kwalificatiedossier behoort, met uitzondering van de kwalificatiedossiers Entree; en
 
@@ -124,7 +124,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties, worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2019-08-01&g=2019-08-01) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties, worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2019-08-24&g=2019-08-24) behorende bij deze regeling.
 
 ##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
@@ -132,11 +132,11 @@ Vervallen
 
 ##### Artikel 6. Middenkaderopleidingen
 
-Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2019-08-01&g=2019-08-01) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
+Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2019-08-24&g=2019-08-24) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
 ##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2019-08-01&g=2019-08-01) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2019-08-24&g=2019-08-24) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -154,9 +154,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2019-08-01&g=2019-08-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2019-08-24&g=2019-08-24), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2019-08-01&g=2019-08-01) treedt in werking met ingang van 1 augustus 2016.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2019-08-24&g=2019-08-24) treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 10. Citeertitel
 
@@ -506,6 +506,11 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 | 23239 | 1,30 | Maritieme techniek | 25596 | Medewerker maritieme techniek | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 |   |   | Maritieme techniek | 25597 | Allround medewerker maritieme techniek | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Maritieme techniek | 25598 | Engineer maritieme techniek | 4 | 1,80 | middenkaderopleiding |   | BOL/BBL |
+| 23248 | 1,80 | Binnenvaart | 25610 | Matroos binnenvaart | 2 | 1,80 | basisberoepsopleiding | IenW | BOL/BBL |
+|   |   | Binnenvaart | 25611 | Schipper binnenvaart | 3 | 1,80 | vakopleiding | IenW | BOL/BBL |
+|   |   | Binnenvaart | 25612 | Kapitein binnenvaart | 4 | 1,80 | middenkaderopleiding | IenW | BOL/BBL |
+| 23249 | 1,30 | Railvervoer | 25613 | Machinist railvervoer | 3 | 1,30 | vakopleiding | IenW | BOL/BBL |
+|   |   |   |   |   |   |   |   |   |   |
 | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** | **Opleidingsdomein** **9. Handel en ondernemerschap 79080** |
 | 79080 |   |   |   |   |   | 1,00 |   |   |   |
 | 23070 | 1,10 | Advies en leiding in de verkoop | 25153 | Eerste verkoper | 3 | 1,10 | vakopleiding |   | BOL/BBL |
@@ -595,6 +600,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 | 23086 | 1,30 | Patisserie | 25183 | Patissier | 4 | 1,30 | specialistenopleiding |   | BOL/BBL |
 | 23247 | 1,30 | Facilitaire dienstverlening | 25608 | Facilitair leidinggevende | 4 | 1,30 | middenkaderopleiding |   | BOL/BBL |
 |   |   |   | 25609 | Allround medewerker facilitaire dienstverlening | 3 | 1,30 | vakopleiding |   | BOL/BBL |
+| 23250 | 1,30 | Boulangerie | 25614 | Boulanger | 4 | 1,30 | specialistenopleiding |   | BOL/BBL |
 | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** | **Opleidingsdomein** **14. Toerisme en recreatie 79130** |
 | 79130 |   |   |   |   |   | 1,00 |   |   |   |
 | 23134 | 1,30 | Travel, Leisure & Hospitality | 25351 | Leidinggevende leisure & hospitality | 4 | 1,30 | middenkaderopleiding |   | BOL/BBL |
@@ -681,6 +687,13 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Voeding | 25463 | Vakexpert voeding en technologie | 4 | 1,60 | Middenkaderopleiding |   | BOL/BBL |
 |   |   | Voeding | 25464 | Vakexpert voeding en voorlichting | 4 | 1,30 | Middenkaderopleiding |   | BOL/BBL |
 |   |   | Voeding | 25461 | Vakbekwaam medewerker voeding en technologie | 3 | 1,60 | Vakopleiding |   | BOL/BBL |
+| 23252 | 1,30 | Groene ruimte | 25616 | Medewerker groen en cultuurtechniek | 2 | 1,40 | basisberoepsopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25617 | Opzichter/uitvoerder groene ruimte | 4 | 1,30 | middenkaderopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25618 | Vakbekwaam hovenier | 3 | 1,40 | vakopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25619 | Vakbekwaam medewerker groen en cultuurtechniek | 3 | 1,40 | vakopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25620 | Vakbekwaam medewerker natuur, water en recreatie | 3 | 1,30 | vakopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25621 | Medewerker hovenier | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
+|   |   | Groene ruimte | 25622 | Medewerker natuur, water en recreatie | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 
 | Overzicht Entree kwalificatiedossier met ingang van 01-01- 2019 | Overzicht Entree kwalificatiedossier met ingang van 01-01- 2019 | Overzicht Entree kwalificatiedossier met ingang van 01-01- 2019 | Crebonummer | Kwalificatie | Niveau | Prijsfactor | Soort opleiding | Beroepsvereisten | Leerweg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -823,13 +836,13 @@ Stuurman alle schepen (25517)
 
 Stuurman waterbouw (25520)
 
-Kapitein binnenvaart (25511)
+Stuurman alle vissersschepen S4 (25523)
 
 ### 9. Handel en ondernemerschap
 
-Werktuigkundige alle vissersschepen W4 (25524)
-
 Engineer maritieme techniek (25598)
+
+Kapitein binnenvaart (25612)
 
 Interieuradviseur (25158)
 
@@ -939,7 +952,7 @@ Scheepswerktuigkundige waterbouw (25521)
 
 ### 9. Handel en ondernemerschap
 
-Stuurman alle vissersschepen S4 (25523)
+Werktuigkundige alle vissersschepen W4 (25524)
 
 ### 9. Handel en ondernemerschap
 
@@ -1211,6 +1224,6 @@ Vakexpert voeding en voorlichting (25464)
 
 Vakbekwaam medewerker voeding en technologie (25461)
 
-Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2019-08-01&g=2019-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2019-08-01&g=2019-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2019-08-01&g=2019-08-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2019-08-24&g=2019-08-24), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2019-08-24&g=2019-08-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2019-08-24&g=2019-08-24) alsmede de toelichting in de Staatscourant worden geplaatst.
 
-De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2019-08-01&g=2019-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2019-08-01&g=2019-08-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2019-08-24&g=2019-08-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2019-08-24&g=2019-08-24) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
