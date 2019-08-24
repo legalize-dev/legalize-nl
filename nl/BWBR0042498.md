@@ -4,7 +4,7 @@ identifier: "BWBR0042498"
 country: "nl"
 rank: "kb"
 publication_date: "2019-08-24"
-last_updated: "2019-06-21"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042498"
 soort: "KB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042498&artikel=1&z=2019-08-24&g=2019-06-21).
+De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042498&artikel=1&z=2019-08-24&g=2019-08-24).
 
 ##### Artikel 3
 
