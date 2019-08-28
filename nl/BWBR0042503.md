@@ -4,7 +4,7 @@ identifier: "BWBR0042503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-28"
-last_updated: "2019-07-23"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042503"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Onder de voorwaarden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042503&artikel=2&z=2019-08-28&g=2019-07-23) worden de schietverenigingen erkend als schietvereniging in de zin van [artikel 6b van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b), die
+Onder de voorwaarden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042503&artikel=2&z=2019-08-28&g=2019-08-28) worden de schietverenigingen erkend als schietvereniging in de zin van [artikel 6b van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b), die
 
 - a. schietsportdisciplines voor vuurwapens als bedoeld in categorie A, onderdelen 6 of 7, in bijlage I van de Richtlijn aanbieden, en
 
@@ -50,7 +50,7 @@ Onder de voorwaarden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 2
 
-1. De schietvereniging bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042503&artikel=1&z=2019-08-28&g=2019-07-23) overlegt binnen drie maanden na datum van inwerkingtreding van dit besluit aan Onze Minister:
+1. De schietvereniging bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042503&artikel=1&z=2019-08-28&g=2019-08-28) overlegt binnen drie maanden na datum van inwerkingtreding van dit besluit aan Onze Minister:
 
 - a. een afschrift van een geldig certificaat als bedoeld in [artikel 43b, eerste lid, van de Regeling wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&artikel=43b), en
 
