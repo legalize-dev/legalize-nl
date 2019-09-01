@@ -4,7 +4,7 @@ identifier: "BWBR0044143"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-07-01"
+last_updated: "2019-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044143"
 soort: "AMvB"
@@ -48,7 +48,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degenen die op 1 januari 2019 waren aangesteld als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangen een eenmalige uitkering van € 450.
+
+2. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, die is aangesteld of aangewezen voor een minder dan volledige arbeidsduur of voor wie de arbeidsduur op grond van [artikel 8b, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8b) is vastgesteld op meer dan gemiddeld 36 uren per week, ontvangt de in het eerste lid bedoelde uitkering vermenigvuldigd met de voor hem geldende arbeidsduurfactor, bedoeld in [artikel 1 van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=1).
+
+3. Geen eenmalige uitkering ontvangen de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding die op 1 januari 2019 in verband met buitengewoon verlof geen bezoldiging hebben ontvangen, tenzij het een buitengewoon verlof van maximaal zes weken betrof.
 
 ##### Artikel IV
 
