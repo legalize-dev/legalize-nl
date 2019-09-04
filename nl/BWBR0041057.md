@@ -4,7 +4,7 @@ identifier: "BWBR0041057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-21"
-last_updated: "2019-02-26"
+last_updated: "2019-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041057"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2018.
 
 ## Bijlage
 
-### Nationaliteiten, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-02-26&g=2019-02-26):
+### Nationaliteiten, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-09-04&g=2019-09-04):
 
 Albanië
 
@@ -118,7 +118,7 @@ Griekenland
 
 Guatemala
 
-Guyana (**vrijstelling geldt niet voor Sint Maarten**)
+Guyana (vrijstelling geldt niet voor Sint Maarten)
 
 Honduras
 
@@ -136,7 +136,7 @@ Israël
 
 Italië
 
-Jamaica (**vrijstelling geldt alleen voor Curaçao)**
+Jamaica (vrijstelling geldt alleen voor Curaçao)
 
 Japan
 
@@ -170,6 +170,8 @@ Monaco
 
 Montenegro
 
+Nederland
+
 Nicaragua
 
 Nieuw-Zeeland
@@ -182,7 +184,7 @@ Panama
 
 Paraguay
 
-Peru (**vrijstelling geldt niet voor Sint Maarten**)
+Peru (vrijstelling geldt niet voor Sint Maarten)
 
 Polen
 
@@ -232,8 +234,12 @@ Verenigde Staten van Amerika
 
 Zweden
 
+### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-02-26&g=2019-02-26)
+
+Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
+
 Zwitserland
 
-### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-02-26&g=2019-02-26)
+### Categorieën, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041057&artikel=1&z=2019-09-04&g=2019-09-04)
 
 Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
