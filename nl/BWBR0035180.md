@@ -4,7 +4,7 @@ identifier: "BWBR0035180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-26"
-last_updated: "2018-03-21"
+last_updated: "2019-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035180"
 soort: "ministeriele-regeling"
@@ -60,11 +60,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraag tot registratie:** een aanvraag tot registratie als bedoeld in artikel 94, eerste lid, van de basisverordening;
-
 - **basisverordening:** verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
-- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](32008R0555), verordening (EG) nr. 436/2009, verordening (EG) nr. 606/2009 en verordening (EG) nr. 607/2009;
+- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](32008R0555), [verordening (EG) nr. 606/2009](32009R0606), gedelegeerde verordening (EU) 2018/273, uitvoeringsverordening (EU) 2018/274, gedelegeerde [verordening 2019/33](31933R2019) en uitvoeringsverordening (EU) 2019/34;
 
 - **enig document:** enig document als bedoeld in artikel 94, eerste lid, onderdeel d, van de basisverordening;
 
@@ -76,27 +74,23 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **NVWA:** de Nederlandse Voedsel en Warenautoriteit;
-
 - **olijfolie:** olijfolie als bedoeld in artikel 1, tweede lid, onderdeel g, van de basisverordening;
 
 - **verordening (EG) nr. 555/2008:** Verordening (EG) nr. 555/2008 van de Commissie van 27 juni 2008 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad houdende een gemeenschappelijke ordening van de wijnmarkt, wat betreft de steunprogramma’s, de handel met derde landen, het productiepotentieel en de controles in de wijnsector (PbEU 2008, L 170);
 
-- **verordening (EG) nr. 436/2009:** Verordening (EG) nr. 436/2009 van de Commissie van 26 mei 2009 houdende uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad met betrekking tot het wijnbouwkadaster, de verplichte opgaven en de samenstelling van gegevens voor het volgen van de markt, de begeleidende documenten voor het vervoer van producten en de bij te houden registers in de wijnsector (PbEU 2009, L 128);
-
 - **verordening (EG) nr. 606/2009:** Verordening (EG) nr. 606/2009 van de Commissie van 10 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad, wat betreft de wijncategorieën, oenologische procédés en de daarvoor geldende beperkingen (PbEU 2009, L 193);
-
-- **verordening (EG) nr. 607/2009:** Verordening (EG) nr. 607/2009 van de Commissie van 14 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad wat betreft beschermde oorsprongsbenamingen en geografische aanduidingen, traditionele aanduidingen, etikettering en presentatie van bepaalde wijnbouwproducten (PbEU 2009, L 193);
 
 - **verordening (EU) nr. 1306/2013:** verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad (Pb EU 2013, L 347);
 
 - **verordening (EU) nr. 251/2014:** Verordening (EU) nr. 251/2014 van het Europees Parlement en de Raad van 26 februari 2014 inzake de definitie, de aanduiding, de aanbiedingsvorm, de etikettering en de bescherming van geografische aanduidingen van gearomatiseerde wijnbouwproducten en houdende intrekking van [Verordening (EEG) nr. 1601/91](31991R1601) van de Raad (Pb EU 2014, L 84);
 
-- **verzoek tot annulering:** een verzoek tot annulering van een registratie als bedoeld in artikel 106 van de basisverordening;
+- **gedelegeerde verordening (EU) 2018/273:** Gedelegeerde Verordening (EU) 2018/273 van de Commissie van 11 december 2017 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees .Parlement en de Raad wat betreft het vergunningenstelsel voor het aanplanten van wijnstokken, het wijnbouwkadaster, begeleidende documenten en certificering, het in- en uitslagregister, de verplichte opgaven, meldingen en de bekendmaking van meegedeelde informatie, tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft de toepasselijke controles en sancties, tot wijziging van de [Verordeningen (EG) nr. 555/2008](32008R0555), [(EG) nr. 606/2009](32009R0606) en [(EG) nr. 607/2009](32009R0607) van de Commissie en tot intrekking van [Verordening (EG) nr. 436/2009](32009R0436) van de Commissie en Gedelegeerde Verordening (EU) 2015/560 van de Commissie (Pb EU 2018, L58);
 
-- **verzoek tot niet-minimale wijziging:** een verzoek tot niet-minimale wijziging als bedoeld in artikel 20, derde lid, van verordening (EG) nr. 607/2009;
+- **uitvoeringsverordening (EU) 2018/274:** Uitvoeringsverordening (EU) 2018/274 van de Commissie van 11 december 2017 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft het vergunningenstelsel voor het aanplanten van wijnstokken, certificering, het in- en uitslagregister, verplichte opgaven en meldingen, en voor Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft de toepasselijke controles, en tot intrekking van Uitvoeringsverordening (EU) 2015/561 van de Commissie (Pb EU 2018, L58);
 
-- **verzoek tot wijziging:** een verzoek tot wijziging van het productdossier als bedoeld in artikel 105 van de basisverordening;
+- **gedelegeerde verordening (EU) 2019/33:** Gedelegeerde Verordening (EU) 2019/33 van de Commissie van 17 oktober 2018 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees ...Parlement en de Raad wat betreft aanvragen tot bescherming van oorsprongsbenamingen, geografische aanduidingen en traditionele aanduidingen in de wijnsector, de bezwaarprocedure, gebruiksbeperkingen, wijzigingen van productdossiers, de annulering van bescherming en de etikettering en presentatie (Pb EU 2019, L9);
+
+- **uitvoeringsverordening (EU) 2019/34:** Uitvoeringsverordening (EU) 2019/34 van de Commissie van 17 oktober 2018 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft aanvragen tot bescherming van oorsprongsbenamingen, geografische aanduidingen en traditionele aanduidingen in de wijnsector, de bezwaarprocedure, wijzigingen van productdossiers, het register van beschermde namen, de annulering van bescherming en het gebruik van symbolen, en voor Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft een adequaat controlesysteem (Pb EU 2019, L9);
 
 - **wijn:** de producten, genoemd in bijlage VII, deel II, van de basisverordening;
 
@@ -124,9 +118,9 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 ##### Artikel 4
 
-1. Indien in Nederland het vervoer van wijnbouwproducten begint, wordt het begeleidend document, bedoeld in artikel 23 van verordening (EG) nr. 436/2009, alsmede de kopieën daarvan, door de wijnhandelaar opgemaakt en afgegeven.
+1. Indien in Nederland het vervoer van wijnbouwproducten begint, wordt het begeleidend document, bedoeld in artikel 10 van gedelegeerde verordening (EU) 2018/273, alsmede de kopieën daarvan, door de wijnhandelaar opgemaakt en afgegeven.
 
-2. Het referentienummer, bedoeld in bijlage VI, onderdeel C, bij verordening (EG) nr. 436/2009 wordt aangevraagd bij de Rijksdienst voor Ondernemend Nederland.
+2. Het referentienummer, bedoeld in bijlage V, onderdeel A, bij gedelegeerde verordening (EU) 2018/273 wordt aangevraagd bij de minister.
 
 #### § 3. De bereiding
 
@@ -142,7 +136,7 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 - b. 13,5 procent voor rode wijn met een oorsprongsbenaming;
 
-- c. 13 procent voor witte, rosé en mousserende wijn met een oorsprongsbenaming.
+- c. 13 procent voor witte en rosé wijn met een oorsprongsbenaming.
 
 #### § 4. Administratieve verplichtingen
 
@@ -154,15 +148,17 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 ##### Artikel 7
 
-1. Degene die het alcoholvolumegehalte van wijnbouwproducten verhoogt, meldt deze bewerkingen telkens overeenkomstig de communautaire verordeningen schriftelijk aan bij de Rijksdienst voor Ondernemend Nederland.
+1. Indien de weersomstandigheden uitzonderlijk ongunstig zijn geweest, kan de minister op verzoek voor het betreffende oogstjaar besluiten:
 
-2. Indien wegens onvoorziene omstandigheden de bewerking tot verhoging van het alcoholpercentage geen doorgang vindt op het aan de Rijksdienst voor Ondernemend Nederland gemelde moment, wordt de bewerking opnieuw schriftelijk op de in de communautaire verordeningen vermelde wijze aangemeld bij de Rijksdienst voor Ondernemend Nederland.
+- a. het in bijlage VIII, deel I, afdeling A, punt 2, van de basisverordening genoemde maximale alcoholpercentage te verhogen met 0,5%;
 
-3. In afwijking van het eerste lid kan een melding die voor meerdere bewerkingen gedurende het lopende wijnoogstjaar geldt voorafgaand aan die periode aan de Rijksdienst voor Ondernemend Nederland worden gezonden.
+- b. toestemming te verlenen voor het aanzuren als bedoeld in Bijlage VIII, deel I, afdeling C, punt 6, van de basisverordening.
+
+2. Het in het eerste lid, onderdeel b, bedoelde verzoek tot toestemming wordt bij de minister ingediend met een door de minister ter beschikking gesteld middel.
 
 ##### Artikel 8
 
-Degene die wijnbouwproducten aanzuurt of ontzuurt meldt deze bewerkingen op de tweede dag na de eerste bewerking in een wijnoogstjaar overeenkomstig de communautaire verordeningen schriftelijk aan bij de Rijksdienst voor Ondernemend Nederland.
+Vervallen
 
 ##### Artikel 9
 
@@ -170,11 +166,11 @@ De wijnhandelaar of de wijnproducent:
 
 - a. houdt in het register aantekening van de hoeveelheid product, welke hij voor eigen gebruik aan zijn voorraad onttrekt, onder vermelding van de datum waarop dit is geschied;
 
-- b. vermeldt door een ongeluk veroorzaakte veranderingen van de hoeveelheid producten binnen 14 dagen na constatering apart in het register onder opgave van de reden.
+- b. vermeldt door een ongeluk veroorzaakte veranderingen van de hoeveelheid producten binnen 7 werkdagen na constatering apart in het register onder opgave van de reden.
 
 ##### Artikel 10
 
-1. Het maximumpercentage voor verlies als bedoeld in artikel 44, onderdeel b, van [verordening (EG) 436/2009](32009R0436) is:
+1. Het maximumpercentage voor verlies als bedoeld in artikel 19, eerste lid, van uitvoeringsverordening (EU) 2018/274 is:
 
 - a. voor verlies als gevolg van verdamping voor elke maand van opslag in:
 
@@ -186,27 +182,11 @@ De wijnhandelaar of de wijnproducent:
 
 - c. voor verlies als gevolg van diverse behandelingen en bottelen: 5%.
 
-2. De wijnhandelaar of de wijnproducent doet van een overschrijding van de in het eerste lid genoemde percentages of van de toleranties, bedoeld in artikel 44, onderdeel a, van verordening (EG) nr. 436/2009, binnen 14 dagen na constatering een melding bij de Rijksdienst voor Ondernemend Nederland.
+2. De wijnhandelaar of de wijnproducent doet van een overschrijding van de in het eerste lid genoemde percentages of van de toleranties, bedoeld in artikel 19, tweede lid, van uitvoeringsverordening (EU) 2018/274, binnen 7 werkdagen na constatering een melding bij de minister.
 
 ##### Artikel 11
 
-1. Producenten van voor wijnbereiding bestemde druiven dienen de oogstopgave, bedoeld in artikel 8 van verordening (EG) nr. 436/2009, in bij de Rijksdienst voor Ondernemend Nederland.
-
-2. De verplichting tot oogstopgave, bedoeld in het eerste lid, geldt niet voor:
-
-- a. producenten van voor wijnbereiding bestemde druiven die hun gehele druivenoogst zelf tot wijn verwerken of die dat voor hun rekening laten doen;
-
-- b. producenten van voor wijnbereiding bestemde druiven die lid zijn van een wijnbereidingscoöperatie of aangesloten zijn bij een groepering en die hun volledige oogst in de vorm van druiven of most bij deze wijnbereidingscoöperatie, respectievelijk groepering afleveren.
-
-3. Producenten van wijn dienen jaarlijks uiterlijk op 10 december bij de Rijksdienst voor Ondernemend Nederland de opgave in van de wijn die ze hebben geproduceerd van de oogst van het lopende wijnoogstjaar, overeenkomstig artikel 9, eerste lid, van verordening (EG) nr. 436/2009.
-
-4. Producenten van druivenmost en wijn dienen de opgave van hun voorraden druivenmost en wijn, bedoeld in artikel 11, eerste lid, van verordening (EG) nr. 436/2009, in bij de Rijksdienst voor Ondernemend Nederland. Uit derde landen ingevoerde druivenmost en wijn worden afzonderlijk vermeld.
-
-5. De in het derde en vierde lid bedoelde opgaven:
-
-- a. worden schriftelijk verstrekt middels een door de minister vastgesteld formulier, dat op aanvraag verkrijgbaar is bij de Rijksdienst voor Ondernemend Nederland en
-
-- b. bevatten alle gegevens, waarvan blijkens het formulier de verstrekking wordt verlangd.
+Producenten van wijn dienen jaarlijks uiterlijk op 15 januari bij de minister de opgave in, met een door de minister ter beschikking gesteld middel, van de wijn die ze hebben geproduceerd van de oogst van het lopende wijnoogstjaar, overeenkomstig artikel 31, derde lid, van gedelegeerde verordening (EU) 2018/273.
 
 #### § 5. Etikettering
 
@@ -220,9 +200,9 @@ Bij de etikettering en presentatie van wijnbouwproducten mag, in afwijking van a
 
 ##### Artikel 13
 
-1. De codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009 worden op aanvraag vastgesteld door de minister. Slechts die codenummers worden gebruikt die zijn vastgesteld door de minister.
+1. De codenummers, bedoeld in artikel 46, vijfde lid, van gedelegeerde verordening (EU) 2019/33 worden op aanvraag vastgesteld door de minister. Slechts die codenummers worden gebruikt die zijn vastgesteld door de minister.
 
-2. Aanvragen voor codenummers als bedoeld in het eerste lid worden ingediend bij de Rijksdienst voor Ondernemend Nederland.
+2. Aanvragen voor codenummers als bedoeld in het eerste lid worden ingediend bij de minister.
 
 ##### Artikel 14
 
@@ -242,11 +222,11 @@ In geval van directe export van wijn naar derde landen mogen op het etiket aandu
 
 ##### Artikel 16
 
-Een aanvraag tot registratie, een verzoek tot wijziging of een verzoek tot annulering wordt ingediend bij de Rijksdienst voor Ondernemend Nederland.
+Een aanvraag tot opname in het register van beschermde oorsprongsbenamingen en geografische aanduidingen, een verzoek tot wijziging of een verzoek tot annulering wordt ingediend bij de minister.
 
 ##### Artikel 17
 
-1. De nationale aanvragen tot registratie, de verzoeken tot niet-minimale wijziging en de verzoeken tot annulering worden door de minister bekendgemaakt in de Staatscourant.
+1. De nationale aanvragen tot registratie, de verzoeken tot wijziging en de verzoeken tot annulering worden door de minister bekendgemaakt in de Staatscourant.
 
 2. Door de Europese Commissie in het Publicatieblad van de Europese Unie bekendgemaakte voorgenomen registraties, voorgenomen wijzigingen van een productdossier of voorgenomen annuleringen van registraties worden door de minister bekendgemaakt in de Staatscourant.
 
@@ -254,15 +234,15 @@ Een aanvraag tot registratie, een verzoek tot wijziging of een verzoek tot annul
 
 ##### Artikel 18
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2018-03-21&g=2018-03-21), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2019-09-04&g=2019-09-04), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
-2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
+2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
 3. De minister betrekt de in het tweede lid bedoelde bedenkingen in zijn besluit om al dan niet bezwaar als bedoeld in artikel 98 van de basisverordening tegen de registratie aan te tekenen bij de Europese Commissie.
 
 ##### Artikel 19
 
-De kennisgeving, bedoeld in artikel 24 van verordening (EG) nr. 607/2009, wordt gedaan bij de NVWA.
+Vervallen
 
 ### Hoofdstuk 4. Overige bepalingen
 
@@ -272,11 +252,7 @@ De laboratoria Meron BCL en NVWA Laboratorium voeder- en voedselveiligheid zijn 
 
 ##### Artikel 21
 
-1. De referentienummers, bedoeld in [artikel 4, tweede lid van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21), en de codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009, die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling zijn vastgesteld door het Hoofdproductschap Akkerbouw, worden voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=6&artikel=15&z=2018-03-21&g=2018-03-21)beschouwd als door de minister vastgesteld.
-
-2. De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2018-03-21&g=2018-03-21), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=16&z=2018-03-21&g=2018-03-21), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2018-03-21&g=2018-03-21), worden met ingang van 1 juli 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
-
-3. Meldingen, opgaven en kennisgevingen gedaan ter voldoening aan verplichtingen bij of krachtens de [verordening HPA wijn 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026438), worden voor zover deze regeling tot het doen van die meldingen, opgaven of kennisgevingen verplicht, geacht te zijn gedaan op grond van deze regeling aan de daartoe aangewezen instantie.
+De codenummers, bedoeld in artikel 46, vijfde lid, van gedelegeerde verordening (EU) 2019/33, die voor 1 juli 2014 zijn vastgesteld door het Hoofdproductschap Akkerbouw behouden hun geldigheid.
 
 ##### Artikel 22
 
