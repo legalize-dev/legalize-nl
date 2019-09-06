@@ -4,7 +4,7 @@ identifier: "BWBR0042408"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2019-07-16"
+last_updated: "2019-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042408"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **gemeenten:** gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum en Midden-Groningen;
 
-- –. **project:** project, zoals omschreven in bijlagen van de Bestuursvergaderingen van het Nationaal Programma Groningen dd. 15 juni 2019 en 17 juni 2019;
+- –. **project:** project, zoals omschreven in bijlagen van de Bestuursvergaderingen van het Nationaal Programma Groningen dd. 15 mei 2019 en 17 juni 2019;
 
 - –. **nationaal programma Groningen:** nationaal programma Groningen zoals bedoeld in de Bestuursovereenkomst Nationaal Programma Groningen, Kamerstukken II, 33 529, nr. 587, bijlage 1;
 
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - 1°. 3,8 miljoen voor de uitvoering van het project Dorpsvernieuwing Ten Post, dorpshart;
 
-- 2°. 3,95 miljoen voor de uitvoering van het project Dorpsvernieuwing Ten Post, Nije Buurt;
+- 2°. 4,95 miljoen voor de uitvoering van het project Dorpsvernieuwing Ten Post, Nije Buurt;
 
 - 3°. 1,5 miljoen voor de uitvoering van het project Dorpsvernieuwing Ten Post, pilot verduurzaming;
 
@@ -124,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. 0,12 miljoen voor de uitvoering van het project Beleving en Verhaal van Overschild.
 
-3. De specifieke uitkering bedraagt voor de provincie Groningen 12,2661 miljoen, waarvan:
+3. De specifieke uitkering bedraagt voor de provincie Groningen € 12.341.615, waarvan:
 
 - a. 0,5 miljoen voor de uitvoering van het project Aanwending exansie-energie, chemiecluster Defzijl;
 
@@ -134,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 - d. 0,3 miljoen voor de uitvoering van het project Innovatiemotor Groene Energie en Chemie;
 
-- e. 0,25 miljoen voor de uitvoering van het project Digitale Top Groningen;
+- e. 0,025 miljoen voor de uitvoering van het project Digitale Top Groningen;
 
 - f. 1 miljoen voor de uitvoering van het project Warmtetransport Eemsdelta - Groningen;
 
@@ -144,11 +144,11 @@ In deze regeling wordt verstaan onder:
 
 - i. 0,15 miljoen voor de uitvoering van het project Inzet energiecoaches GrEK en Buurkracht;
 
-- j. 0,2 miljoen voor de uitvoering van het project Opleiden en omscholen installateurs;
+- j. 0,34 miljoen voor de uitvoering van het project Opleiden en omscholen installateurs;
 
 - k. 0,125 miljoen voor de uitvoering van het project Joint fact finding 'Wind op Zee';
 
-- l. 0,036 miljoen voor de uitvoering van het project Leergang Oriëntatie Offshore Wind;
+- l. 0,0306 miljoen voor de uitvoering van het project Leergang Oriëntatie Offshore Wind;
 
 - m. 0,5 miljoen voor de uitvoering van het project Pilot autonome ERTMS-trein;
 
@@ -160,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 - q. 0,484 miljoen voor de uitvoering van het project Verankering (NP)PL-resultaten in Groningen;
 
-- r. 0,3 miljoen voor de uitvoering van het project Pilot natuurinclusieve landbouw Midwolder Bouwten;
+- r. 0,15 miljoen voor de uitvoering van het project Pilot natuurinclusieve landbouw Midwolder Bouwten;
 
 - s. 0,0725 miljoen voor de uitvoering van het project Ontwikkelend landschap Middag Humsterland;
 
@@ -172,7 +172,7 @@ In deze regeling wordt verstaan onder:
 
 - w. 1,163 miljoen voor de uitvoering van het project Zorg Nabij;
 
-- x. 0,046 miljoen voor de uitvoering van het project Musical ‘Een brief aan NAM’;
+- x. € 46.515 voor de uitvoering van het project Musical ‘Een brief aan NAM’;
 
 - y. 0,039 miljoen voor de uitvoering van het project Energy Challenges.
 
@@ -184,7 +184,7 @@ De gemeenten en de provincie Groningen besteden de specifieke uitkering uitsluit
 
 1. De gemeenten en de provincie Groningen leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042408&artikel=2&z=2019-07-16&g=2019-07-16), niet volledig of onrechtmatig is besteed, wordt de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042408&artikel=2&z=2019-09-06&g=2019-09-06), niet volledig of onrechtmatig is besteed, wordt de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 ##### Artikel 5
 
