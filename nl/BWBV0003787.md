@@ -4,7 +4,7 @@ identifier: "BWBV0003787"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-02-18"
-last_updated: "2018-02-13"
+last_updated: "2019-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003787"
 soort: "verdrag"
@@ -252,7 +252,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (a). De middelen van het Fonds worden gebruikt ter verwezenlijking van het in artikel 2 aangegeven doel.
 
-- (b). Er worden door het Fonds alleen financiële middelen verstrekt aan ontwikkelingsstaten die Lid zijn van het Fonds of aan intergouvernementele organisaties waarin zulke Leden deelnemen. In het geval van een lening aan een intergouvernementele organisatie kan het Fonds passende gouvernementele of andere waarborgen eisen.
+- (b). Er worden door het Fonds alleen financiële middelen verstrekt ten behoeve van Lidstaten in ontwikkeling. Dergelijke financiële middelen kunnen rechtstreeks aan Lidstaten in ontwikkeling worden verstrekt of via intergouvernementele organisaties waarin zulke Leden deelnemen of aan, of via, organisaties en ondernemingen in de private sector. In het geval van een lening aan een intergouvernementele organisatie kan het Fonds passende gouvernementele of andere waarborgen eisen.
 
 - (c). Het Fonds treft maatregelen ter verzekering dat de financiële middelen alleen worden gebruikt voor de doeleinden waarvoor ze werden verstrekt, waarbij naar behoren rekening wordt gehouden met overwegingen van zuinigheid, doelmatigheid en sociale rechtvaardigheid.
 
@@ -264,7 +264,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (e). Onverminderd de bepalingen van deze Overeenkomst gelden voor de financiering door het Fonds algemene beleidslijnen, criteria en voorschriften die van tijd tot tijd door de Raad van Bestuur worden vastgesteld met een twee derde meerderheid van het totale aantal stemmen.
 
-- (a). Financiering door het Fonds geschiedt in de vorm van leningen, schenkingen en een mechanisme ten behoeve van houdbare schulden, die worden verstrekt op door het Fonds passend geachte voorwaarden, rekening houdend met de economische situatie en vooruitzichten van het Lid en met de aard en behoeften van de betrokken activiteit. Het Fonds kan tevens, d.m.v. een besluit van het College van Bewindvoerders, aanvullende financiële middelen verstrekken voor de opzet en uitvoering van projecten en programma’s, gefinancierd door het Fonds via leningen, schenkingen en een mechanisme ten behoeve van houdbare schulden.
+- (a). Financiering door het Fonds kan geschieden in de vorm van leningen, schenkingen, een mechanisme ten behoeve van houdbare schulden, eigen vermogen of andere middelen, die worden verstrekt op door het Fonds passend geachte voorwaarden, rekening houdend met de economische situatie en vooruitzichten van het Lid en met de aard en behoeften van de betrokken activiteit. Het Fonds kan tevens, door middel van een besluit van het College van Bewindvoerders, aanvullende financiële middelen verstrekken voor de opzet en uitvoering van projecten en programma's, gefinancierd door het Fonds via leningen, schenkingen, een mechanisme ten behoeve van houdbare schulden, eigen vermogen of andere middelen.
 
 - (b). Het deel van de middelen van het Fonds dat in een boekjaar kan worden vastgelegd voor financieringstransacties in elk van de in letter (a) bedoelde vormen wordt van tijd tot tijd door het College van Bewindvoerders bepaald, waarbij terdege rekening wordt gehouden met de levensvatbaarheid van het Fonds op de lange termijn en met de noodzaak van continuïteit in zijn verrichtingen. Het deel van de schenkingen mag normaal niet meer bedragen dan een achtste van de in een boekjaar vastgelegde middelen. Het College van Bewindvoerders stelt een mechanisme ten behoeve van houdbare schulden en de bijbehorende procedures en modaliteiten in; de uit hoofde daarvan verstrekte financiële middelen tellen niet mee voor het in het voorgaande bedoelde schenkingsplafond. Een groot deel van de leningen wordt verstrekt op zeer concessionele voorwaarden.
 
@@ -274,7 +274,7 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 - (e). Voor de beoordeling van aan het Fonds ter financiering voorgelegde projecten en programma’s maakt het Fonds in de regel gebruik van de diensten van internationale instellingen en het kan, waar passend, gebruik maken van de diensten van andere bevoegde op dit terrein gespecialiseerde organisaties. Deze instellingen en organisaties worden door het College van Bewindvoerders gekozen na overleg met de betrokken ontvangende partij en zijn bij het verrichten van de beoordeling rechtstreeks verantwoordelijk jegens het Fonds.
 
-- (f). De leningsovereenkomst wordt per geval gesloten door het Fonds en de ontvangende partij, die verantwoordelijk is voor de uitvoering van het betrokken project of programma.
+- (f). De leningsovereenkomst, of andere overeenkomsten waar relevant, worden per geval gesloten door het Fonds en de ontvangende partij, die verantwoordelijk is voor de uitvoering van het betrokken project of programma.
 
 - (g). Tenzij het College van Bewindsvoerders anders besluit, vertrouwt het Fonds het beheer van de leningen, wat de uitbetaling van de opbrengst van de lening en het toezicht op de uitvoering van het betrokken project of programma betreft, toe aan de bevoegde nationale, regionale of internationale of andere instellingen of entiteiten. Deze instellingen of entiteiten zijn van mondiale, regionale of nationale aard en worden per geval gekozen met de goedkeuring van de ontvangende partij. Voordat het Fonds de lening ter goedkeuring voorlegt aan het College van Bewindvoerders, overtuigt het zich ervan dat de instelling of entiteit waaraan het toezicht wordt toevertrouwd, instemt met de resultaten van de beoordeling van het betrokken project of programma. Dit wordt overeengekomen tussen het Fonds en de met de beoordeling belaste instelling of organisatie, alsmede met de instelling of entiteit waaraan het toezicht zal worden opgedragen.
 
