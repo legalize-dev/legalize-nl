@@ -4,7 +4,7 @@ identifier: "BWBR0042538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-09-13"
-last_updated: "2019-08-01"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042538"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Staatssecretaris:** de Staatssecretaris van Financiën;
 
-- c. **Adviescommissie:** de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042538&artikel=2&z=2019-09-13&g=2019-08-01).
+- c. **Adviescommissie:** de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042538&artikel=2&z=2019-09-13&g=2019-09-13).
 
 ##### Artikel 2. Instelling
 
