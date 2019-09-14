@@ -4,7 +4,7 @@ identifier: "BWBR0003460"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2019-09-14"
-last_updated: "2012-01-01"
+last_updated: "2019-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003460"
 soort: "rijksKB"
@@ -52,11 +52,11 @@ De hoofden van alle consulaire posten zijn bevoegd tot het overeenkomstig [artik
 
 De hoofden van de volgende consulaire posten zijn bevoegd geboorte- en overlijdensakten op te maken:
 
-Abu Dhabi
-
 Bagdad
 
 Damascus
+
+Dubai
 
 Islamabad
 
@@ -71,6 +71,8 @@ Riyadh
 Seoel
 
 Teheran
+
+Tel Aviv
 
 Tokio.
 
