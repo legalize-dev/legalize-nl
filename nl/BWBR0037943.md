@@ -4,7 +4,7 @@ identifier: "BWBR0037943"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2018-12-22"
+last_updated: "2019-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037943"
 soort: "zbo"
@@ -179,7 +179,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2. Wijziging van de Gebiedsindelingscode elektriciteit
 
-Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 31 december van voorgaand jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
+Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 1 januari van het desbetreffende jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
 
 ##### Artikel 3. Het landelijk hoogspanningsnet
 
@@ -203,7 +203,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - a. de provincies Gelderland en Noord-Holland;
 
-- b. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Boskoop, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten, Waddinxveen, Wassenaar en Zoeterwoude;
+- b. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Waddinxveen, Wassenaar en Zoeterwoude;
 
 - c. de voormalige Zuid-Hollandse gemeente Zevenhuizen-Moerkapelle zoals gedemarqueerd op 31 december 2009.
 
@@ -221,7 +221,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 2. Enduris B.V. beheert het midden- en laagspanningsnet in de provincie Zeeland.
 
-3. Enexis Netbeheer B.V. beheert het midden- en laagspanningsnet in de provincies Groningen, Drenthe, Noord-Brabant, Limburg en Overijssel met uitzondering van het midden- en laagspanningsnet in de gebieden genoemd in het eerste lid, het vierde lid, onderdelen b en c en het vijfde lid, onderdeel b.
+3. Enexis Netbeheer B.V. beheert het midden- en laagspanningsnet in de provincies Groningen, Drenthe, Noord-Brabant, Limburg en Overijssel met uitzondering van het midden- en laagspanningsnet in de gebieden genoemd in het eerste lid, het vierde lid, onderdelen b en c en het vijfde lid.
 
 4. Liander N.V. beheert het midden- en laagspanningsnet in:
 
@@ -237,7 +237,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - f. de provincie Noord-Holland met uitzondering van de gemeente Heemstede;
 
-- g. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten. Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude.
+- g. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten. Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude.
 
 5. N.V. RENDO beheert het midden- en laagspanningsnet in:
 
@@ -253,7 +253,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de provincie Zuid-Holland, met uitzondering van de gebieden genoemd in het vierde lid, onderdeel g en het zevende lid, onderdelen a tot en met f;
 
-- d. in de provincie Gelderland in de gemeente Lingewaal de kernen Heukelum, Spijk en Asperen.
+- d. in de provincie Gelderland in de gemeente West Betuwe de kernen Heukelum, Spijk en Asperen.
 
 7. Westland Infra Netbeheer B.V. beheert het midden- en laagspanningsnet in de provincie Zuid-Holland uitsluitend in:
 
