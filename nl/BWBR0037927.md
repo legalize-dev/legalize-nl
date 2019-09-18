@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2019-02-23"
+last_updated: "2019-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -37562,7 +37562,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2. Wijziging van de Gebiedsindelingscode gas
 
-Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 31 december van voorgaand jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
+Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 1 januari van het desbetreffende jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
 
 ##### Artikel 3. Het landelijk gastransportnet
 
@@ -37578,7 +37578,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - b. de Overijsselse gemeente Hardenberg met uitzondering van de voormalige gemeente Avereest;
 
-- c. de Overijsselse gemeente Hengelo, uitsluitend in het gebied ten noorden van rijksweg A1.
+- c. de Overijsselse gemeente Hengelo, uitsluitend in het gebied ten noorden van rijksweg A1;
 
 - d. de Gelderse gemeente Lochem, uitsluitend in het gebied Larense broek.
 
@@ -37588,11 +37588,11 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - a. de provincies Groningen, Noord-Brabant en Limburg;
 
-- b. de provincie Drenthe, met uitzondering van de gebieden genoemd in het vijfde lid, onderdelen a, b en c.
+- b. de provincie Drenthe, met uitzondering van de gebieden genoemd in het vijfde lid, onderdelen a, b en c.;
 
-- c. de provincie Overijssel met uitzondering van de gebieden genoemd in het eerste lid, onderdelen a, b en c, en het vijfde lid, onderdelen d tot en met h.
+- c. de provincie Overijsel met uitzondering van de gebieden genoemd in het eerste lid, onderdelen a, b en c, het vierde lid, onderdeel c, en het vijfde lid onderdelen d tot en met g;
 
-- d. de Gelderse gemeente Berkelland, uitsluitend in de kern Rietmolen
+- d. de Gelderse gemeente Berkelland, uitsluitend in de kern Rietmolen;
 
 - e. de Gelderse gemeente Oldebroek, uitsluitend in de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk);
 
@@ -37604,7 +37604,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de Overijsselse gemeente Deventer, uitsluitend het gebied ten zuiden van de rijksweg A1, ten westen van de spoorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21 -12-1999 van toepassing was;
 
-- d. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdelen a, b en c, het derde lid, onderdelen c en d, en het zesde lid, onderdeel b;
+- d. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdeel d, het derde lid, onderdelen d en e, en het zesde lid, onderdeel b;
 
 - e. de Utrechtse gemeente Amersfoort, uitsluitend in de wijken Vinkenhoef en Palestina;
 
@@ -37612,7 +37612,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - g. de provincie Noord-Holland, met uitzondering van het gebied genoemd in het zesde lid, onderdeel d;
 
-- h. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Wassenaar, Zoeterwoude;
+- h. de Zuid-Hollandse gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten, Wassenaar, Zoeterwoude;
 
 - i. de voormalige Zuid-Hollandse gemeente Zevenhuizen-Moerkapelle.
 
@@ -37626,23 +37626,21 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - d. de Overijsselse gemeente Zwartewaterland, uitsluitend in de kern Zwartsluis;
 
-- e. de Overijsselse gemeente Steenwijkerland, met uitzondering van de kernen Heetveld, St. Jansklooster en Vollenhove;
+- e. de Overijsselse gemeente Steenwijkerland, met uitzondering van de kernen St. Jansklooster en Vollenhove;
 
 - f. de Overijsselse gemeente Staphorst;
 
-- g. de Overijsselse gemeente Hardenberg, uitsluitend in de kernen Balkbrug en Dedemsvaart;
-
-- h. de Overijsselse gemeente Zwartewaterland, uitsluitend in de kern Zwartsluis.
+- g. de Overijsselse gemeente Hardenberg, uitsluitend in de kernen Balkbrug en Dedemsvaart.
 
 6. Stedin Netbeheer B.V. beheert het regionale gastransportnet in:
 
-- a. de Friese gemeenten Achtkarspelen, Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland en Nieuwkruisland, Schiermonnikoog en Tietjerksteradeel;
+- a. de Friese gemeenten Achtkarspelen, Ameland, Dantumadeel, Noardeast-Fryslân, Schiermonnikoog en Tietjerksteradeel;
 
-- b. de Gelderse gemeenten Lingewaal, uitsluitend in de kernen Heukelum, Spijk en Asperen;
+- b. de Gelderse gemeente West Betuwe, uitsluitend in de kernen Heukelum, Spijk en Asperen;
 
 - c. de provincie Utrecht, met uitzondering van de gebieden genoemd in het vierde lid, onderdelen e en f;
 
-- d. de Noord-Hollandse gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn en Zandvoort;
+- d. de Noord-Hollandse gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn en Zandvoort en de voormalige Noord-Hollandse gemeente Haarlemmerliede en Spaarnwoude;
 
 - e. de provincie Zuid-Holland, met uitzondering van de gebieden genoemd in het vierde lid, onderdeel h en het zevende lid onderdelen a tot en met f.
 
