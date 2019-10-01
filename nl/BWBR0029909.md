@@ -4,7 +4,7 @@ identifier: "BWBR0029909"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-07-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029909"
 soort: "AMvB"
@@ -65,6 +65,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - **diesel:** dieselbrandstof als bedoeld in artikel 2, onderdeel 2, van [richtlijn 98/70/EG](31998L0070);
 
 - **dieselolie voor de scheepvaart:** dieselolie voor de scheepvaart als bedoeld in artikel 2, onderdeel d, van richtlijn (EU) 2016/802;
+
+- **E10:** benzine met ten minste 8,5 volumeprocent biobrandstof, waarvan ten minste 7,5 volumeprocent bestaat uit ethanol of het equivalent van ethanol in ETBE (ethyl tert-butylether) of TAEE (tertamyl ethylether);
 
 - **gasolie voor mobiele machines:** gasolie voor niet voor de weg bestemde mobiele machines (met inbegrip van binnenschepen), landbouwtrekkers en bosbouwmachines, en pleziervaartuigen, als bedoeld in artikel 2, onderdeel 3, van [richtlijn 98/70/EG](31998L0070);
 
@@ -134,7 +136,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.7
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2018-07-01&g=2018-07-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2018-07-01&g=2018-07-01), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2018-07-01&g=2018-07-01), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2019-10-01&g=2019-10-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2019-10-01&g=2019-10-01), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2019-10-01&g=2019-10-01), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -150,7 +152,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 5. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2018-07-01&g=2018-07-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2018-07-01&g=2018-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2018-07-01&g=2018-07-01) zijn niet van toepassing op brandstof, waarvoor:
+6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2019-10-01&g=2019-10-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2019-10-01&g=2019-10-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2019-10-01&g=2019-10-01) zijn niet van toepassing op brandstof, waarvoor:
 
 - a. een ontheffing als bedoeld in dit artikel is verleend, of
 
@@ -158,13 +160,29 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.8
 
-De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2018-07-01&g=2018-07-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2018-07-01&g=2018-07-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2018-07-01&g=2018-07-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2018-07-01&g=2018-07-01) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
+De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2019-10-01&g=2019-10-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2019-10-01&g=2019-10-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2019-10-01&g=2019-10-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2019-10-01&g=2019-10-01) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 2.9
 
-Vervallen
+1. Op plaatsen waar vloeibare brandstof wordt afgeleverd die metaalhoudende additieven bevat, wordt op een label aangegeven hoeveel metaalhoudende additieven de desbetreffende brandstof bevat. Dit label bevat in elk geval de tekst «Bevat metaalhoudende additieven». Het wordt duidelijk zichtbaar bevestigd op de plaats waar de informatie over de brandstofsoort is aangegeven en is van zodanige afmetingen en van een zodanig lettertype dat het duidelijk zichtbaar en gemakkelijk leesbaar is.
 
-### Hoofdstuk 3. Uitvoering van [richtlijn 1999/32/EG](31999L0032) betreffende het zwavelgehalte van brandstoffen
+2. Als benzine biobrandstof bevat, informeert de brandstofleverancier de consument over:
+
+- a. de aanwezigheid van biobrandstof;
+
+- b. het percentage ethanol, waarbij in ieder geval wordt aangegeven of de benzine meer of minder dan 5% ethanol bevat, en
+
+- c. de risico’s bij gebruik van de diverse benzinemengsels, waarbij als de benzine meer dan 5% ethanol bevat, duidelijk wordt vermeld op of direct bij de afleverzuil, die bestemd is voor het afleveren van benzine ten behoeve van openbare verkoop aan motorvoertuigen voor het wegverkeer, dat niet alle voertuigen daarvoor geschikt zijn en waar informatie daarover beschikbaar is.
+
+3. Als diesel biobrandstof bevat, informeert de brandstofleverancier de consument over:
+
+- a. de aanwezigheid van biobrandstof;
+
+- b. het percentage methylvetzuur (FAME), waarbij in ieder geval wordt aangegeven of de diesel meer of minder dan 7% methylvetzuur (FAME) bevat, en
+
+- c. de risico’s bij gebruik van de diverse dieselmengsels, waarbij als de diesel meer dan 7% methylvetzuur (FAME) bevat, duidelijk wordt vermeld op of direct bij een afleverzuil, die bestemd is voor het afleveren van diesel ten behoeve van openbare verkoop aan motorvoertuigen voor het wegverkeer, dat niet alle voertuigen daarvoor geschikt zijn en waar informatie daarover beschikbaar is.
+
+### Hoofdstuk 2a. Aflevering E10
 
 ##### Artikel 3.1
 
@@ -210,7 +228,7 @@ Het is verboden als brandstof te gebruiken:
 
 ##### Artikel 3.5
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 12 van richtlijn (EU) 2016/802 een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.4, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2018-07-01&g=2018-07-01), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.4, eerste lid, onderdeel a of b.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 12 van richtlijn (EU) 2016/802 een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.4, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2019-10-01&g=2019-10-01), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.4, eerste lid, onderdeel a of b.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -236,11 +254,11 @@ Het is verboden als brandstof te gebruiken:
 
 ##### Artikel 4.2
 
-Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2018-07-01&g=2018-07-01), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
+Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2019-10-01&g=2019-10-01), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
 
 ##### Artikel 4.3
 
-Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een vergunning voor een inrichting een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2018-07-01&g=2018-07-01), opgenomen waarden, doch geen lagere waarde dan 0,3%.
+Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een vergunning voor een inrichting een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2019-10-01&g=2019-10-01), opgenomen waarden, doch geen lagere waarde dan 0,3%.
 
 ### Hoofdstuk 4. Regels betreffende het zwavelgehalte van overige brandstoffen
 
@@ -276,23 +294,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.9a
 
-Vervallen
+Een tankstation dat beschikt over de mogelijkheid van het afleveren van twee of meer soorten benzine ten behoeve van openbare verkoop aan motorvoertuigen voor het wegverkeer, beschikt ten minste voor de helft van de vulpistolen voor het afleveren van benzine over vulpistolen voor het afleveren van E10.
 
 ### Hoofdstuk 3. Uitvoering van [richtlijn 1999/32/EG](31999L0032) betreffende het zwavelgehalte van brandstoffen
 
 ### Hoofdstuk 4. Overige brandstoffen
 
-### Hoofdstuk 5. Overige en slotbepalingen
+### Hoofdstuk 4. Regels betreffende het zwavelgehalte van overige brandstoffen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 3.0
 
-1. [Paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2018-07-01&g=2018-07-01) is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart en scheepsbrandstof.
+1. [Paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2019-10-01&g=2019-10-01) is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart en scheepsbrandstof.
 
-2. [Paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2018-07-01&g=2018-07-01) is van toepassing op het zwavelgehalte van zware stookolie en gasolie als bedoeld in artikel 2, onderdeel b, van richtlijn (EU) 2016/802.
+2. [Paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2019-10-01&g=2019-10-01) is van toepassing op het zwavelgehalte van zware stookolie en gasolie als bedoeld in artikel 2, onderdeel b, van richtlijn (EU) 2016/802.
 
-3. In afwijking van het eerste en tweede lid zijn met uitzondering van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2018-07-01&g=2018-07-01) de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2018-07-01&g=2018-07-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2018-07-01&g=2018-07-01) niet van toepassing op brandstoffen die:
+3. In afwijking van het eerste en tweede lid zijn met uitzondering van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2019-10-01&g=2019-10-01) de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2019-10-01&g=2019-10-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2019-10-01&g=2019-10-01) niet van toepassing op brandstoffen die:
 
 - a. bestemd zijn voor onderzoek en testen;
 
@@ -303,6 +321,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 - d. bestemd zijn voor het gebruik door oorlogsschepen en andere vaartuigen die in militair verband worden gebruikt, of
 
 - e. vervaardigd zijn in een andere lidstaat van de Europese Unie, en waarvoor door de bevoegde instantie van die lidstaat de procedure van artikel 12 van richtlijn (EU) 2016/802 is toegepast en door de Europese Commissie hogere grenswaarden zijn toegestaan.
+
+#### Paragraaf 3.1. Uitvoering van richtlijn (EU) 2016/802 betreffende het zwavelgehalte van brandstoffen bestemd voor de zeescheepvaart
+
+#### Paragraaf 3.2. Uitvoering van richtlijn (EU) 2016/802 betreffende het zwavelgehalte van zware stookolie en gasolie
+
+### Hoofdstuk 5. Overige en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk 3. Uitvoering van [richtlijn 1999/32/EG](31999L0032) betreffende het zwavelgehalte van brandstoffen
 
 #### Paragraaf 3.1. Uitvoering van richtlijn (EU) 2016/802 betreffende het zwavelgehalte van brandstoffen bestemd voor de zeescheepvaart
 
