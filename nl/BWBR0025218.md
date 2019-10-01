@@ -4,7 +4,7 @@ identifier: "BWBR0025218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2015-07-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025218"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als b
 
 - a. door middel van publicatie op een door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,
 
-- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2015-07-01&g=2015-07-01) genoemde uitgiftepunt, of
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2019-10-01&g=2019-10-01) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.
 
@@ -87,5 +87,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 3a
 
 De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) in de Staatscourant ter hoogte van € 5 per uittreksel.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=2&z=2019-10-01&g=2019-10-01) kunnen onderdelen van publicaties in de Staatscourant worden uitgegeven en beschikbaar gehouden in het bestandsformaat GML-XML, voor zover het de geometrische begrenzing van gebieden betreft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
