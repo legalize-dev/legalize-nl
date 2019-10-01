@@ -4,7 +4,7 @@ identifier: "BWBR0041610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-01"
-last_updated: "2019-01-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041610"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 ##### Artikel 5. Subsidiabele kosten
 
-1. De kosten gemoeid met de activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=4&z=2019-01-01&g=2019-01-01), komen in aanmerking voor subsidie indien het een van de volgende kostencategorieën betreft:
+1. De kosten gemoeid met de activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=4&z=2019-10-01&g=2019-10-01), komen in aanmerking voor subsidie indien het een van de volgende kostencategorieën betreft:
 
 - a. personeelskosten van de opleiders, voor de uren dat de opleiders aan de opleidingsactiviteiten deelnemen;
 
@@ -186,9 +186,9 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 ##### Artikel 7. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de ziekenhuizen en de klinieken € 161.104.000.
+1. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de ziekenhuizen en de klinieken € 165.406.000.
 
-2. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de universitair medische centra € 39.416.000.
+2. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de universitair medische centra € 40.468.000.
 
 ##### Artikel 8. Verdeling in geval van overtekening ziekenhuizen en klinieken
 
@@ -216,27 +216,27 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast totdat het volledige subsidieplafond is bereikt.
 
-5. De minister kan afwijken van de Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-01-01&g=2019-01-01), voor zover toepassing zal leiden tot een onbillijkheid van overwegende aard, door voor de bedrijfsopbrengsten van het organisatorisch verband uit te gaan van het tweede jaar voorafgaand aan het subsidiejaar.
+5. De minister kan afwijken van de Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-10-01&g=2019-10-01), voor zover toepassing zal leiden tot een onbillijkheid van overwegende aard, door voor de bedrijfsopbrengsten van het organisatorisch verband uit te gaan van het tweede jaar voorafgaand aan het subsidiejaar.
 
 ##### Artikel 9. Verdeling in geval van overtekening universitair medische centra
 
-1. Het uit hoofde van het subsidieplafond beschikbare bedrag voor de universitair medische centra wordt op dezelfde wijze verdeeld als bedoeld in [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-01-01&g=2019-01-01).
+1. Het uit hoofde van het subsidieplafond beschikbare bedrag voor de universitair medische centra wordt op dezelfde wijze verdeeld als bedoeld in [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
 
-2. In afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-01-01&g=2019-01-01), wordt voor de universitair medische centra verstaan onder:
+2. In afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01), wordt voor de universitair medische centra verstaan onder:
 
 **A:** de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
 **B:** de som van de personeelskosten van alle organisatorische verbanden ten behoeve waarvan subsidie wordt verstrekt.
 
-3. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-01-01&g=2019-01-01), wordt voor de universitair medische centra verstaan onder:
+3. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01), wordt voor de universitair medische centra verstaan onder:
 
 **A:** de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-**E:** de som van de personeelskosten van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-01-01&g=2019-01-01).
+**E:** de som van de personeelskosten van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
 
 ##### Artikel 10. Verantwoording
 
-De minister kan afwijken van de definitie van activiteitenverslag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-01-01&g=2019-01-01), en besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd indien instemming met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is.
+De minister kan afwijken van de definitie van activiteitenverslag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-10-01&g=2019-10-01), en besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd indien instemming met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is.
 
 ##### Artikel 11. Meldingsplicht
 
