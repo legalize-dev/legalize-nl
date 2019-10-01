@@ -4,7 +4,7 @@ identifier: "BWBR0009035"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2009-11-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009035"
 soort: "AMvB"
@@ -50,17 +50,23 @@ Werkt terug tot en met 1 november 1997
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+1. In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. verordening: [verordening nr. 95/93](31993R0095) van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (**PbEG** L14);
+- **ATM-capaciteit:** het aantal vliegtuigbewegingen dat de verlener van de luchtverkeersleidingsdiensten kan verwerken en dat betrekking heeft op de luchtzijdige afhandeling van het vliegverkeer;
 
-- b. exploitant:
+- **coördinatiecomité:** coördinatiecomité als bedoeld in artikel 5 van de verordening;
 
-- 1°. de exploitant van een burgerluchthaven;
+- **coördinatieparameters:** parameters als bedoeld in artikel 6 van de verordening;
 
-- 2°. de burgerexploitant;
+- **exploitant:** de exploitant van een burgerluchthaven of de burgerexploitant van een militaire luchthaven;
 
-- c. Onze Minister: Onze Minister van Verkeer en Waterstaat.
+- **gecoördineerde luchthaven:** een luchthaven als bedoeld in artikel 2, onderdeel g, van de verordening;
+
+- **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
+
+- **verordening:** [verordening nr. 95/93](31993R0095) van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PBEG L 14).
+
+2. Een wijziging van de verordening gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
 ##### Artikel 2
 
@@ -74,11 +80,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien Onze Minister van zijn bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), gebruik maakt, wijst hij een luchthavencoördinator dan wel een bemiddelaar inzake de dienstregelingen aan voor een of meer luchthavens.
+1. Indien Onze Minister van zijn bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), gebruik maakt, wijst hij een luchthavencoördinator dan wel een bemiddelaar inzake de dienstregelingen aan voor een of meer luchthavens.
 
 2. De krachtens het eerste lid aangewezen luchthavencoördinator dan wel bemiddelaar oefent zijn taak uit overeenkomstig artikel 4 van de verordening.
 
-3. De exploitant stelt overeenkomstig [artikel 6, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=6&z=2009-11-01&g=2009-11-01), van de verordening coördinatieparameters vast welke ten grondslag liggen aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de exploitant adequate marges zijn opgenomen.
+3. De exploitant stelt overeenkomstig [artikel 6, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=6&z=2019-10-01&g=2019-10-01), van de verordening coördinatieparameters vast welke ten grondslag liggen aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de exploitant adequate marges zijn opgenomen.
 
 4. Aan een aanwijzing als bedoeld in het eerste lid kunnen voorschriften of beperkingen worden verbonden.
 
@@ -86,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen luchthavens.
+1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), aangewezen luchthavens.
 
 2. Indien sprake is van een situatie als bedoeld in artikel 10, negende lid, van de verordening, belegt Onze Minister een vergadering van het desbetreffende coördinatiecomité.
 
@@ -94,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
+De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van artikel 2, voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
 
 - a. op verzoek van Onze Minister, of
 
@@ -102,13 +108,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 In een geval als bedoeld onder b wordt de capaciteitsanalyse uitgevoerd binnen 6 maanden na indiening van het verzoek.
 
-2. De exploitant van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen burgerluchthaven of van het burgergedeelte van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen militaire luchthaven is gehouden coördinatieparameters als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2009-11-01&g=2009-11-01), twee maal per jaar vast te stellen ten behoeve van het burgerluchtverkeer.
-
-3. Ten aanzien van de luchthaven Schiphol rust de in het tweede lid bedoelde verplichting op de in [artikel 8.18 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) bedoelde betrokkenen.
-
 ##### Artikel 6
 
-Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2009-11-01&g=2009-11-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2009-11-01&g=2009-11-01) schorsen of intrekken:
+Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2019-10-01&g=2019-10-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2019-10-01&g=2019-10-01) schorsen of intrekken:
 
 - a. indien de aangewezen natuurlijke persoon of rechtspersoon daarom verzoekt;
 
@@ -120,7 +122,23 @@ Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [
 
 ##### Artikel 7
 
-Het is luchtvaartmaatschappijen verboden herhaaldelijk en opzettelijk luchtdiensten uit te voeren op tijden die wezenlijk verschillen van het toegewezen slot of een slot te gebruiken op een wezenlijk andere wijze dan was aangegeven ten tijde van de toewijzing van het slot, waardoor de luchthavenexploitatie of het luchtverkeer wordt geschaad.
+1. Het is luchtvaartmaatschappijen verboden op een gecoördineerde luchthaven:
+
+- a. herhaaldelijk en opzettelijk luchtdiensten uit te voeren op tijden die wezenlijk verschillen van het toegewezen slot;
+
+- b. herhaaldelijk en opzettelijk een slot te gebruiken op een wezenlijk andere wijze dan was aangegeven ten tijde van de toewijzing van het betreffende slot;
+
+- c. herhaaldelijk en opzettelijk een toegewezen slot niet te gebruiken;
+
+- d. een luchtdienst uit te voeren zonder dat een slot voor die luchtdienst is toegewezen.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. overheidsvluchten;
+
+- b. noodlandingen;
+
+- c. humanitaire vluchten.
 
 ##### Artikel 8
 
@@ -131,5 +149,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **
 ##### Artikel 1a
 
 Dit besluit berust op [artikel 8a.52 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.52).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 5a
+
+1. De exploitant van een gecoördineerde luchthaven:
+
+- a. stelt twee maal per jaar coördinatieparameters vast overeenkomstig artikel 6 van de verordening en met inachtneming van de door de verlener van de luchtverkeersleidingsdiensten vastgestelde ATM-capaciteit; en
+
+- b. deelt de vastgestelde coördinatieparameters tijdig vóór de eerste toewijzing van slots ter voorbereiding van de planningconferenties mee aan de luchthavencoördinator.
+
+2. Onze Minister kan de exploitant van een gecoördineerde luchthaven een aanwijzing geven met betrekking tot uitvoering van het eerste lid. De exploitant is verplicht de bindende aanwijzing uit te voeren binnen de termijn die daarin gesteld is. De aanwijzing kan worden gegeven met het oog op:
+
+- a. naleving van milieuvoorschriften;
+
+- b. waarborging van de veiligheid;
+
+- c. naleving van hetgeen bij of krachtens de slotverordening is bepaald.
+
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de coördinatieparameters.
+
+##### Artikel 5b
+
+1. De exploitant van de luchthaven Schiphol laat ten minste eenmaal in de drie jaar een onafhankelijk onderzoek uitvoeren waarin, rekening houdend met alle relevante landzijdige technische, operationele en milieubeperkingen, de beschikbare capaciteit op de luchthaven in beeld wordt gebracht.
+
+2. Onze Minister kan de exploitanten van de overige gecoördineerde luchthavens verzoeken een onderzoek als bedoeld in het eerste lid te laten uitvoeren.
+
+3. De resultaten van het onderzoek worden door de exploitant binnen zes maanden na het verzoek, bedoeld in het tweede lid, verzonden naar Onze Minister en het coördinatiecomité.
+
+4. De exploitant kan een onderzoek als bedoeld in dit artikel ook zelf uitvoeren indien het wordt getoetst door een onafhankelijke partij en de conclusies van die onafhankelijke partij gelijktijdig met het onderzoek worden verzonden naar Onze Minister en het coördinatiecomité.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
