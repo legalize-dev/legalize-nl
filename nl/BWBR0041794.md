@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2019-05-23"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-05-23&g=2019-05-23), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-05-23) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-05-23&g=2019-10-01), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-10-01) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -326,7 +326,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-05-23), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-05-23&g=2019-10-01), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -356,7 +356,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-05-23&g=2019-05-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-05-23&g=2019-05-23) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-05-23&g=2019-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-05-23&g=2019-10-01) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
 
 #### § 5. Vervanging
 
@@ -784,6 +784,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### I. Hoofdstructuur van de organisatie
 
+### I. Hoofdstructuur van de organisatie
+
 ### II. Algemene leiding
 
 ### III. Het directoraat-generaal Agro
@@ -805,6 +807,26 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 ### VI. De directie Communicatie
 
 ### VII. De directie Financieel-Economische Zaken
+
+Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 32a
+
+1. Mandaat, volmacht en machtiging voor aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01), worden in de periode van 1 oktober 2019 tot en met 15 december 2019 verleend aan:
+
+- a. De directeur-generaal Natuur, Visserij en Landelijk gebied voor de taken bedoeld in [artikel 5, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01) – voor zover het betreft de Raad voor de Kustwacht en de Stuurgroep Rijksrederij;
+
+- b. De directeur Financieel-Economische Zaken, voor de taken bedoeld in [artikel 5, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01) – voor zover het betreft het opdrachtgeverschap voor de directie Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, alsmede RVO en DICTU;
+
+- c. De directeur Bestuurlijke en Politieke Zaken, voor de taken bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01) – voor zover het betreft organisatieontwikkeling;
+
+- d. De plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, voor de taken bedoeld in [artikel 5, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01) – voor zover het betreft het voorzitterschap van de Databoard –, onder h – voor zover het betreft het opdrachtgeversoverleg met de Douane –, onder j – behoudens de Raad voor de Kustwacht en de Stuurgroep Rijksrederij –, onder o en n;
+
+- e. De directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, voor de taken bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-10-26&g=2019-10-01) – voor zover het betreft de inkoopaangelegenheden -, onder b en f – voor zover het betreft de interne CIO-taken –, en onder h – voor zover het betreft de BFI-gesprekken met de NVWA, het College voor de toelating van gewasbeschermingsmiddelen en biociden en Staatsbosbeheer.
+
+2. Mandaat, volmacht en machtiging voor andere dan de in het eerste lid genoemde taken en bevoegdheden van de plaatsvervangend secretaris-generaal worden in de periode van 1 oktober 2019 tot en met 15 december 2019 verleend aan de secretaris-generaal.
+
+## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 ### VIII. De Nederlandse Voedsel- en Warenautoriteit
 
