@@ -4,7 +4,7 @@ identifier: "BWBR0018055"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-30"
-last_updated: "2005-03-04"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018055"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. bezwarenadviescommissie: commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018055&paragraaf=2&artikel=11&z=2005-03-04&g=2005-03-04) van deze regeling;
+- a. bezwarenadviescommissie: commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018055&paragraaf=2&artikel=11&z=2020-05-30&g=2019-10-01) van deze regeling;
 
 - b. functie: functie als bedoeld in [artikel 36c, eerste lid, onderdeel a, van het Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c);
 
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - e. passende functie: functie als bedoeld in [artikel 36c, eerste lid onder d, van het Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c);
 
-- f. plaatsingsadviescommissie: commissie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018055&paragraaf=2&artikel=4&z=2005-03-04&g=2005-03-04) van deze regeling;
+- f. plaatsingsadviescommissie: commissie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018055&paragraaf=2&artikel=4&z=2020-05-30&g=2019-10-01) van deze regeling;
 
 - g. rechterlijk ambtenaar: rechterlijk ambtenaar die is aangesteld of aangewezen voor het vervullen van een volledige of gedeeltelijke taak en werkzaam is bij het openbaar ministerie;
 
