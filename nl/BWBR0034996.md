@@ -4,7 +4,7 @@ identifier: "BWBR0034996"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-01-01"
-last_updated: "2019-04-01"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034996"
 soort: "circulaire"
@@ -73,23 +73,23 @@ In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wett
 
 ### 2.5.1. Ontheffing vanwege een psychische of lichamelijke belemmering of verstandelijke handicap
 
-Op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) ontheft de IND de vreemdeling van de wettelijke verplichting het inburgeringsexamen te behalen als hij aantoont dat hij een zodanige psychische of lichamelijke belemmering of verstandelijke handicap heeft, dat hij binnen vijf jaren niet in staat is om het inburgeringsexamen te behalen.
+De IND verlangt niet dat de vreemdeling gedurende de acht jaren als bedoeld in artikel 3.96a, tweede lid, aanhef en onder b, Vb ononderbroken was ingeschreven als ingezetene in de BRP of rechtmatig in Nederland verbleef.
 
 ### 2.5.2. Ontheffing met een beroep op de hardheidsclausule
 
 Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) past de IND in ieder geval de hardheidsclausule toe als de vreemdeling ondanks aantoonbaar geleverde inspanning redelijkerwijs niet in staat kan worden geacht het inburgeringsexamen te behalen.
 
-Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) past de IND in ieder geval de hardheidsclausule toe als de vreemdeling ondanks aantoonbaar geleverde inspanning redelijkerwijs niet in staat kan worden geacht het inburgeringsexamen te behalen.
+De IND ontheft de vreemdeling op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) van het inburgeringsvereiste als deze aantoont vanwege zijn psychische of lichamelijke belemmering of verstandelijke handicap niet in staat te zijn om binnen vijf jaren het inburgeringsexamen te behalen. De procedure hiervoor is terug te vinden in [bijlage 4 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&bijlage=4).
 
-In dit verband wordt verwezen naar [paragraaf B9/8.1, ad 2 Vc](onbekend).
+(Zie [B12/2.6.1](onbekend))
 
-### 2.5.3. Bewijsmiddelen
+### 2.5.2. Onbillijkheid van overwegende aard (ook wel: hardheidsclausule)
 
-[Paragraaf B9/18.1 Vc](onbekend) is van toepassing.
+De IND ontheft de vreemdeling van het inburgeringsvereiste als sprake is van een onbillijkheid van overwegende aard als bedoeld in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) als de vreemdeling het inburgeringsexamen niet heeft behaald, maar:
 
 ### 2.6. Intrekking EU-verblijfsvergunning voor langdurig ingezetenen
 
-Voor het aannemen van frauduleuze verkrijging als bedoeld in [artikel 45d, derde lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45d) en [artikel 3.127, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.127) is als regel opzet vereist. Hierbij is niet van belang of de gegevens door de aanvrager persoonlijk zijn verstrekt.
+In tegenstelling tot voornoemde paragraaf past de IND de hardheidsclausule niet toe indien de vreemdeling tegen zijn of haar wil in het land van herkomst is achtergelaten en voldoet aan de voorwaarden van [artikel 3.51, eerste lid, aanhef en onder a, sub 1, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51).
 
 De IND gaat bij te vroeg of te laat ingediende aanvragen uit van de regels zoals die zijn opgenomen voor de behandeling van de aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd respectievelijk de aanvraag om een verblijfsvergunning regulier voor onbepaalde tijd (zie paragraaf [C2/10.1](onbekend) en [C5/2 Vc](onbekend)).
 
@@ -111,23 +111,35 @@ De IND maakt gebruik van de bevoegdheid om een aanvraag voor een EU-verblijfsver
 
 ### 2.5. Inburgeringsvereiste
 
-In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) geldt dat de IND niet verlangt dat de vreemdeling gedurende acht jaar **ononderbroken** was ingeschreven in de GBA of rechtmatig in Nederland verbleef.
+De vrijstellingen staan genoemd in [artikel 3.96a, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a).
 
 ### 2.5.1. Ontheffing vanwege een psychische of lichamelijke belemmering of verstandelijke handicap
 
-Op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) ontheft de IND de vreemdeling van de wettelijke verplichting het inburgeringsexamen te behalen als hij aantoont dat hij een zodanige psychische of lichamelijke belemmering of verstandelijke handicap heeft, dat hij binnen vijf jaren niet in staat is om het inburgeringsexamen te behalen.
+(Zie [B12/2.6](onbekend))
 
-### 2.5.2. Ontheffing met een beroep op de hardheidsclausule
+### 2.5.1. Medische ontheffing
 
 De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) gegeven bevoegdheid als de vreemdeling stelt dat hij:
 
 ### 2.5.3. Bewijsmiddelen
 
-[Paragraaf B9/18.1 Vc](onbekend) is van toepassing.
+In dit verband wordt verwezen naar [paragraaf B9/8.1.2.3 Vc](onbekend).
 
 ### 2.6. Intrekking EU-verblijfsvergunning voor langdurig ingezetenen
 
+(Zie [B12/2.6.2](onbekend).)
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens verblijf buiten het grondgebied van de EU dan wel buiten Nederland als is voldaan aan het gestelde in artikel 45d, eerste lid, onder a, Vw tenzij artikel 3.127, eerste lid, Vb hierop een uitzondering maakt.
+
+Paragraaf B9/20.1 Vc is van toepassing.
+
+De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens handelen in strijd met artikel 1, onder F, van het Vluchtelingenverdrag als is voldaan aan het gestelde in artikel 45d, tweede lid, onder a, Vw.
+
 Voor het aannemen van frauduleuze verkrijging als bedoeld in [artikel 45d, derde lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45d) en [artikel 3.127, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.127) is als regel opzet vereist. Hierbij is niet van belang of de gegevens door de aanvrager persoonlijk zijn verstrekt.
+
+### 2.5.3. Bewijsmiddelen
+
+### 2.6. Intrekking EU-verblijfsvergunning voor langdurig ingezetenen
 
 De IND trekt de EU-verblijfsvergunning voor langdurig ingezetenen in wegens verblijf buiten het grondgebied van de EU dan wel buiten Nederland als is voldaan aan het gestelde in artikel 45d, eerste lid, onder a, Vw tenzij artikel 3.127, eerste lid, Vb hierop een uitzondering maakt.
 
