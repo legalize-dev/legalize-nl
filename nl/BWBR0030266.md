@@ -4,7 +4,7 @@ identifier: "BWBR0030266"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2015-03-24"
+last_updated: "2019-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030266"
 soort: "ministeriele-regeling"
@@ -124,7 +124,9 @@ De ruimtes en materialen die je hebt gebruikt, moet je altijd schoon en opgeruim
 
 Je mag alleen persoonlijke bezittingen bij je houden waar de directeur toestemming voor heeft gegeven.
 
-In deze inrichting is het in ieder geval verboden de volgende zaken in je bezit te hebben:
+Het is verboden om de volgende voorwerpen in de inrichting in bezit te hebben:
+
+De directeur is bevoegd ontheffing te verlenen voor een gedetineerde dan wel voor een groep van gedetineerden.
 
 Het is geen recht, maar een gunst als je iets mag hebben en bij je mag houden. De directeur kan voorwaarden stellen aan het gebruik van voorwerpen die je in je bezit mag hebben. Het is verboden persoonlijke bezittingen met anderen te ruilen, aan anderen uit te lenen of op een andere manier van eigenaar te laten wisselen.
 
@@ -136,9 +138,9 @@ Goederen die je niet in je bezit mag hebben, worden op jouw naam geregistreerd e
 
 [**hier procedure van de inrichting voor de in- en uitvoer van goederen opnemen**]
 
-**Nadere regelgeving:**
-
 ### 5. Dagprogramma
+
+Het dagprogramma is vooral gericht op je opvoeding en om je zo goed mogelijk voor te bereiden op je terugkeer in de samenleving. Het dagprogramma omvat alles van de tijd van opstaan ’s morgens tot de tijd van het naar bed gaan ’s avonds. Het programma is er onder meer op gericht om je eigen mogelijkheden beter te leren kennen en je te helpen je verder te ontwikkelen.
 
 Het dagprogramma is vooral gericht op je opvoeding en om je zo goed mogelijk voor te bereiden op je terugkeer in de samenleving. Het dagprogramma omvat alles van de tijd van opstaan ’s morgens tot de tijd van het naar bed gaan ’s avonds. Het programma is er onder meer op gericht om je eigen mogelijkheden beter te leren kennen en je te helpen je verder te ontwikkelen.
 
@@ -152,45 +154,43 @@ In de inrichting zijn er ten minste 77 uur per week aan gemeenschappelijke activ
 
 Tijdens de eerste drie weken in de inrichting kunnen andere regels gelden (zie hoofdstuk 2).
 
-**Nadere regelgeving**
-
 ### 5.1. Verblijf in de buitenlucht
 
 Als je gezondheid het toelaat, mag je dagelijks in totaal ten minste één uur in de buitenlucht zijn. Dit uur hoeft niet aaneengesloten te zijn. Ook als je in afzondering bent geplaatst, mag je ten minste één uur per dag in de buitenlucht verblijven. Het verblijf in de buitenlucht kan dan ook in afzondering plaatsvinden.
 
-**Nadere regelgeving:**
+Als je gezondheid het toelaat, mag je dagelijks in totaal ten minste één uur in de buitenlucht zijn. Dit uur hoeft niet aaneengesloten te zijn. Ook als je in afzondering bent geplaatst, mag je ten minste één uur per dag in de buitenlucht verblijven. Het verblijf in de buitenlucht kan dan ook in afzondering plaatsvinden.
 
 ### 5.2. Onderwijs
 
 Je bent gedurende je verblijf in de inrichting verplicht om onderwijs of andere scholings- en vormingsactiviteiten te volgen. Indien mogelijk houden we bij de keuze van het onderwijs rekening met je wensen en die van je ouders of je voogd, stiefouder of pleegouders.
 
-[**hier opnemen welke onderwijsfaciliteiten in de inrichting geboden worden**]
+Je bent gedurende je verblijf in de inrichting verplicht om onderwijs of andere scholings- en vormingsactiviteiten te volgen. Indien mogelijk houden we bij de keuze van het onderwijs rekening met je wensen en die van je ouders of je voogd, stiefouder of pleegouders.
 
-**Nadere regelgeving:**
+[**hier opnemen welke onderwijsfaciliteiten in de inrichting geboden worden**]
 
 ### 5.3. Sport
 
 Je mag ten minste tweemaal per week drie kwartier sporten of een andere vorm van lichamelijke oefening uitvoeren, uitzonderingen daargelaten. De hiervoor bestemde tijden zijn opgenomen in het dagprogramma.
 
-[**hier eventueel nadere bepalingen over het gebruik van voorgeschreven sportkleding omschrijven, zoals het verbod op het dragen van sieraden, zwarte zolen etc.**]
+Je mag ten minste tweemaal per week drie kwartier sporten of een andere vorm van lichamelijke oefening uitvoeren, uitzonderingen daargelaten. De hiervoor bestemde tijden zijn opgenomen in het dagprogramma.
 
-**Nadere regelgeving:**
+[**hier eventueel nadere bepalingen over het gebruik van voorgeschreven sportkleding omschrijven, zoals het verbod op het dragen van sieraden, zwarte zolen etc.**]
 
 ### 5.4. Bibliotheek
 
 Je mag eenmaal per week gebruik maken van een bibliotheek.
 
-[**hier procedure beschrijven voor het gebruik van de bibliotheekvoorziening**]
+Je mag eenmaal per week gebruik maken van een bibliotheek.
 
-**Nadere regelgeving:**
+[**hier procedure beschrijven voor het gebruik van de bibliotheekvoorziening**]
 
 ### 5.5. Winkel of winkelbestellijst
 
 Je kunt eenmaal per week in de winkel van de inrichting of via een winkelbestellijst van je eigen geld dingen kopen, zoals snoepgoed, frisdrank, lectuur, postzegels, rookwaar of toiletartikelen. Zie ook paragraaf 12.1 van deze huisregels. Uiteraard kun je alleen dingen kopen die in de inrichting zijn toegestaan en waar jij toestemming voor hebt.
 
-[**hier procedure, frequentie en maximaal te besteden bedrag aangeven**]
+Je kunt eenmaal per week in de winkel van de inrichting of via een winkelbestellijst van je eigen geld dingen kopen, zoals snoepgoed, frisdrank, lectuur, postzegels, rookwaar of toiletartikelen. Zie ook paragraaf 12.1 van deze huisregels. Uiteraard kun je alleen dingen kopen die in de inrichting zijn toegestaan en waar jij toestemming voor hebt.
 
-**Nadere regelgeving:**
+[**hier procedure, frequentie en maximaal te besteden bedrag aangeven**]
 
 ### 5.6. Overige activiteiten
 
@@ -198,21 +198,23 @@ Je kunt eenmaal per week in de winkel van de inrichting of via een winkelbestell
 
 ### 6. Verzorging
 
-### 6.1. Voeding
+### 6. Verzorging
 
 In de inrichting worden op vaste tijden maaltijden verstrekt. De tijden staan vermeld in het dagprogramma. Zo mogelijk houden we bij het menu rekening met je godsdienst en levensovertuiging. Je kunt alleen een bepaald dieet of aangepaste voeding krijgen als dat volgens de medische dienst om medische redenen noodzakelijk is.
 
-**Nadere regelgeving:**
+In de inrichting worden op vaste tijden maaltijden verstrekt. De tijden staan vermeld in het dagprogramma. Zo mogelijk houden we bij het menu rekening met je godsdienst en levensovertuiging. Je kunt alleen een bepaald dieet of aangepaste voeding krijgen als dat volgens de medische dienst om medische redenen noodzakelijk is.
 
 ### 6.2. Gebruik en onderhoud van kleding
 
 Je mag in de inrichting je eigen kleding en schoeisel dragen, tenzij die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting of niet voldoen aan redelijk te stellen eisen. Je kunt verplicht worden tijdens bepaalde activiteiten of tijdens het sporten bepaalde voorgeschreven kleding of schoeisel te dragen.
 
+Je mag in de inrichting je eigen kleding en schoeisel dragen, tenzij die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting of niet voldoen aan redelijk te stellen eisen. Je kunt verplicht worden tijdens bepaalde activiteiten of tijdens het sporten bepaalde voorgeschreven kleding of schoeisel te dragen.
+
 [**hier aangeven welke regels in de inrichting gelden voor het gebruik en onderhoud van kleding en schoeisel. Tevens aangeven hoeveel kleding en schoeisel de jeugdige op zijn eigen kamer mag bewaren**]
 
-**Nadere regelgeving:**
-
 ### 6.3. Persoonlijke verzorging
+
+Je krijgt in de inrichting de gelegenheid om je uiterlijk en lichamelijke hygiëne naar behoren te verzorgen.
 
 Je krijgt in de inrichting de gelegenheid om je uiterlijk en lichamelijke hygiëne naar behoren te verzorgen.
 
@@ -220,9 +222,9 @@ Je krijgt in de inrichting de gelegenheid om je uiterlijk en lichamelijke hygië
 
 [**hier aangeven hoe vaak de jeugdige naar de kapper mag gaan en welke regels gelden voor de kosten van een bezoek aan de kapper**]
 
-**Nadere regelgeving:**
-
 ### 6.4. Medische verzorging
+
+Aan de inrichting is een medische dienst verbonden met een inrichtingsarts, tandarts en een verpleegkundige. Je kunt de leden van de medische dienst raadplegen volgens de in de inrichting geldende procedures. Daarnaast heb je het recht om een door jezelf uitgekozen arts te raadplegen. De kosten van dit consult worden echter niet door de inrichting betaald. De directeur stelt in overleg met de door jou gekozen arts de plaats en het tijdstip van de afspraak vast.
 
 Aan de inrichting is een medische dienst verbonden met een inrichtingsarts, tandarts en een verpleegkundige. Je kunt de leden van de medische dienst raadplegen volgens de in de inrichting geldende procedures. Daarnaast heb je het recht om een door jezelf uitgekozen arts te raadplegen. De kosten van dit consult worden echter niet door de inrichting betaald. De directeur stelt in overleg met de door jou gekozen arts de plaats en het tijdstip van de afspraak vast.
 
@@ -238,19 +240,19 @@ In het tweede geval stelt de Medisch Adviseur je zo nodig in de gelegenheid je k
 
 [**hier aangeven waar de jeugdige de regelgeving kan inzien en wie de jeugdige bij het indienen van het beroepsschrift kan ondersteunen**]
 
-**Nadere regelgeving:**
-
 ### 6.5. Geestelijke verzorging
+
+Je mag je godsdienst of levensovertuiging in de inrichting vrij belijden en beleven. Je kunt onder andere godsdienstige of levensbeschouwelijke bijeenkomsten bijwonen en persoonlijk en vertrouwelijk contact hebben met geestelijk verzorgers.
 
 Je mag je godsdienst of levensovertuiging in de inrichting vrij belijden en beleven. Je kunt onder andere godsdienstige of levensbeschouwelijke bijeenkomsten bijwonen en persoonlijk en vertrouwelijk contact hebben met geestelijk verzorgers.
 
 [**hier aangeven waar en wanneer de jeugdige contact kan onderhouden met de geestelijk verzorger van de godsdienst of levensovertuiging van zijn keuze, die al dan niet aan de inrichting is verbonden. Tevens aangeven waar en wanneer de jeugdige in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze kan bijwonen**]
 
-**Nadere regelgeving:**
+### 7. Contact met de buitenwereld
 
 ### 7. Contact met de buitenwereld
 
-### 7.1. Bezoek van relaties
+Je mag bezoek van je ouders of je voogd, stiefouder of pleegouders ontvangen. Daarnaast mag je ten minste één uur per week overig bezoek ontvangen. Minderjarige bezoekers kunnen alleen onder begeleiding van een meerderjarige op bezoek komen. Indien je ouders of je voogd, stiefouder of pleegouders niet op bezoek kunnen komen op de hieronder vastgestelde tijden dan kunnen ze op een ander moment komen in overleg met de inrichting.
 
 Je mag bezoek van je ouders of je voogd, stiefouder of pleegouders ontvangen. Daarnaast mag je ten minste één uur per week overig bezoek ontvangen. Minderjarige bezoekers kunnen alleen onder begeleiding van een meerderjarige op bezoek komen. Indien je ouders of je voogd, stiefouder of pleegouders niet op bezoek kunnen komen op de hieronder vastgestelde tijden dan kunnen ze op een ander moment komen in overleg met de inrichting.
 
@@ -270,9 +272,9 @@ Om dezelfde redenen als waarvoor bezoek geweigerd kan worden, kan de directeur o
 
 [**hier aangeven op welke wijze in de inrichting toezicht wordt uitgeoefend**]
 
-**Nadere regelgeving:**
-
 ### 7.2. ‘Geprivilegieerd’ bezoek
+
+Een aantal personen en instanties worden in de wet aangewezen als ‘geprivilegieerde’ oftewel bevoorrechte bezoekers. Voor deze personen en instanties gelden ruimere bezoekmogelijkheden en andere regels. Bij een bezoek van een geprivilegieerde bezoeker is geen toezicht aanwezig, tenzij de directeur toezicht noodzakelijk vindt omdat het anders te gevaarlijk zou worden voor de bezoeker. Als je je advocaat op bezoek hebt moet het toezicht zo zijn dat je nog wel vertrouwelijk met hem of haar kan praten.
 
 Een aantal personen en instanties worden in de wet aangewezen als ‘geprivilegieerde’ oftewel bevoorrechte bezoekers. Voor deze personen en instanties gelden ruimere bezoekmogelijkheden en andere regels. Bij een bezoek van een geprivilegieerde bezoeker is geen toezicht aanwezig, tenzij de directeur toezicht noodzakelijk vindt omdat het anders te gevaarlijk zou worden voor de bezoeker. Als je je advocaat op bezoek hebt moet het toezicht zo zijn dat je nog wel vertrouwelijk met hem of haar kan praten.
 
@@ -284,9 +286,9 @@ Een aantal andere geprivilegieerde personen kan jou alleen op vastgestelde tijde
 
 [**hier aangeven op welke wijze geprivilegieerd bezoek aangevraagd moet worden**]
 
-**Nadere regelgeving:**
-
 ### 7.3. Telefoneren met relaties
+
+Je mag ten minste tweemaal per week gedurende tien minuten één of meer telefoongesprekken voeren met personen buiten de inrichting. De kosten voor het telefoneren moet je zelf betalen, tenzij de directeur anders bepaalt.
 
 Je mag ten minste tweemaal per week gedurende tien minuten één of meer telefoongesprekken voeren met personen buiten de inrichting. De kosten voor het telefoneren moet je zelf betalen, tenzij de directeur anders bepaalt.
 
@@ -294,9 +296,9 @@ Je mag ten minste tweemaal per week gedurende tien minuten één of meer telefoo
 
 De directeur kan weigeren dat je met bepaalde personen telefoneert of bepalen dat het gesprek wordt beluisterd of een opgenomen telefoongesprek wordt uitgeluisterd. Hiervoor gelden dezelfde regels als voor het weigeren van bezoek en het houden van toezicht bij bezoek, zoals beschreven in paragraaf 7.1.
 
-[**hier aangeven hoe in de inrichting toezicht wordt uitgeoefend op telefoongesprekken**]
-
 ### 7.4. Telefoneren met geprivilegieerde contacten
+
+Als het noodzakelijk en mogelijk is, mag je telefoneren met de zogenaamde geprivilegieerde personen die in paragraaf 7.2 worden opgesomd. Ook hierbij zijn de kosten voor je eigen rekening, tenzij de directeur anders bepaalt. Het is aan jou om aannemelijk te maken dat het noodzakelijk is dat je de betreffende geprivilegieerde persoon telefonisch spreekt.
 
 Als het noodzakelijk en mogelijk is, mag je telefoneren met de zogenaamde geprivilegieerde personen die in paragraaf 7.2 worden opgesomd. Ook hierbij zijn de kosten voor je eigen rekening, tenzij de directeur anders bepaalt. Het is aan jou om aannemelijk te maken dat het noodzakelijk is dat je de betreffende geprivilegieerde persoon telefonisch spreekt.
 
@@ -304,9 +306,9 @@ Bij een telefoongesprek met een geprivilegieerde persoon wordt alleen meegeluist
 
 [**hier aangeven hoe een gesprek met een geprivilegieerd contact aangevraagd moet worden**]
 
-**Nadere regelgeving:**
-
 ### 7.5. Post van relaties
+
+Je mag brieven en stukken per post verzenden en ontvangen. De hieraan verbonden kosten komen voor je eigen rekening, tenzij de directeur anders bepaalt.
 
 Je mag brieven en stukken per post verzenden en ontvangen. De hieraan verbonden kosten komen voor je eigen rekening, tenzij de directeur anders bepaalt.
 
@@ -320,21 +322,21 @@ De directeur kan weigeren bepaalde brieven of andere poststukken die je wilt ver
 
 Niet uitgereikte brieven of poststukken worden:
 
-**Nadere regelgeving:**
-
 ### 7.6. Post van geprivilegieerde contacten
 
 Voor de verzending en ontvangst van post van geprivilegieerde contacten gelden andere regels. Indien een brief bestemd is voor een geprivilegieerd contact moet je dit duidelijk op de envelop vermelden. Er mag geen controle worden uitgeoefend op de inhoud van een brief of een ander poststuk van jou aan een geprivilegieerde persoon. Er mag ook geen controle plaatsvinden van een brief of een ander poststuk voor jou van een geprivilegieerde persoon. Wel kan in jouw aanwezigheid de brief worden geopend om te kijken of er geen voorwerpen worden meegezonden.
 
-**Nadere regelgeving:**
+Voor de verzending en ontvangst van post van geprivilegieerde contacten gelden andere regels. Indien een brief bestemd is voor een geprivilegieerd contact moet je dit duidelijk op de envelop vermelden. Er mag geen controle worden uitgeoefend op de inhoud van een brief of een ander poststuk van jou aan een geprivilegieerde persoon. Er mag ook geen controle plaatsvinden van een brief of een ander poststuk voor jou van een geprivilegieerde persoon. Wel kan in jouw aanwezigheid de brief worden geopend om te kijken of er geen voorwerpen worden meegezonden.
 
 ### 7.7. Perscontacten
 
 Je mag gesprekken voeren met vertegenwoordigers van de media – kranten, radio, tv etc. –, maar alleen met toestemming van de directeur. Hiervoor geldt een afzonderlijke procedure. Deze procedure wordt met je doorgenomen als je te kennen geeft te willen praten met iemand van de media.
 
-**Nadere regelgeving:**
+Je mag gesprekken voeren met vertegenwoordigers van de media – kranten, radio, tv etc. –, maar alleen met toestemming van de directeur. Hiervoor geldt een afzonderlijke procedure. Deze procedure wordt met je doorgenomen als je te kennen geeft te willen praten met iemand van de media.
 
 ### 8. Verlof
+
+Verlof betekent dat je voor een bepaalde tijd en onder vooraf vastgestelde voorwaarden de inrichting mag verlaten. Er zijn verschillende soorten verlof. Er kan incidenteel verlof worden verleend als er onverwacht iets belangrijks gebeurt waarbij je aanwezigheid nodig is; bijvoorbeeld een sterfgeval in het gezin of een ziek familielid. Ook kan incidenteel verlof worden verleend voor een examen dat je moet afleggen. Daarnaast is er planmatig verlof; dat is verlof in het kader van je perspectiefplan. Dit kan begeleid of onbegeleid verlof zijn. Of je in aanmerking komt voor verlof is afhankelijk van de aard van de straf of de maatregel waarvoor je in de inrichting bent geplaatst. Als je wilt weten of je voor verlof in aanmerking komt, kun je dit vragen aan
 
 Verlof betekent dat je voor een bepaalde tijd en onder vooraf vastgestelde voorwaarden de inrichting mag verlaten. Er zijn verschillende soorten verlof. Er kan incidenteel verlof worden verleend als er onverwacht iets belangrijks gebeurt waarbij je aanwezigheid nodig is; bijvoorbeeld een sterfgeval in het gezin of een ziek familielid. Ook kan incidenteel verlof worden verleend voor een examen dat je moet afleggen. Daarnaast is er planmatig verlof; dat is verlof in het kader van je perspectiefplan. Dit kan begeleid of onbegeleid verlof zijn. Of je in aanmerking komt voor verlof is afhankelijk van de aard van de straf of de maatregel waarvoor je in de inrichting bent geplaatst. Als je wilt weten of je voor verlof in aanmerking komt, kun je dit vragen aan
 
@@ -342,9 +344,9 @@ Verlof betekent dat je voor een bepaalde tijd en onder vooraf vastgestelde voorw
 
 Je gedrag in de inrichting speelt een rol bij de beoordeling van de vraag of je met verlof mag gaan. Je krijgt alleen toestemming voor verlof als we vinden dat het verantwoord is.
 
-**Nadere regelgeving:**
-
 ### 9. Scholings- en trainingsprogramma
+
+Wanneer je jeugddetentie hebt, met een reststraf van drie maanden, neem je in aansluiting op het verblijf in de inrichting deel aan het zogenaamde scholings- en trainingsprogramma (hierna STP genoemd). Ook in andere gevallen kun je voor deelname aan een STP in aanmerking komen. Als je daarvoor in aanmerking komt, wordt dat opgenomen in jouw perspectiefplan. Over de deelname beslist de directeur. De directeur heeft hiervoor een machtiging nodig van de Minister van Veiligheid en Justitie. Als je laat weten dat je een STP wilt, kan de directeur jou voordragen voor deelname daaraan. Als je aan een STP begint ben je verplicht dat programma voor de afgesproken periode te volgen. Het programma volg je voor tenminste 26 uur per week. Van elk STP is een schriftelijke omschrijving waarin staat wat het programma inhoudt.
 
 Wanneer je jeugddetentie hebt, met een reststraf van drie maanden, neem je in aansluiting op het verblijf in de inrichting deel aan het zogenaamde scholings- en trainingsprogramma (hierna STP genoemd). Ook in andere gevallen kun je voor deelname aan een STP in aanmerking komen. Als je daarvoor in aanmerking komt, wordt dat opgenomen in jouw perspectiefplan. Over de deelname beslist de directeur. De directeur heeft hiervoor een machtiging nodig van de Minister van Veiligheid en Justitie. Als je laat weten dat je een STP wilt, kan de directeur jou voordragen voor deelname daaraan. Als je aan een STP begint ben je verplicht dat programma voor de afgesproken periode te volgen. Het programma volg je voor tenminste 26 uur per week. Van elk STP is een schriftelijke omschrijving waarin staat wat het programma inhoudt.
 
@@ -358,11 +360,11 @@ Als je de voorwaarden van een STP overtreedt, kan de directeur het volgende doen
 
 De Minister van Veiligheid en Justitie kan in sommige gevallen de machtiging voor het STP intrekken. Wanneer dat gebeurt, moet de directeur het STP intrekken. In dat geval wordt je teruggeplaatst in de inrichting.
 
-**Nadere regelgeving:**
+### 10. Controle, ordemaatregelen en straffen
 
 ### 10. Controle, ordemaatregelen en straffen
 
-### 10.1. Urinecontrole
+Je kunt verplicht worden om urine af te staan om te onderzoeken of je gedragsbeïnvloedende middelen hebt gebruikt. Onder gedragsbeïnvloedende middelen verstaan we verboden middelen zoals drugs, maar ook middelen waarvan we het ongecontroleerde gebruik willen tegengaan, zoals alcohol en kalmerings- en slaapmiddelen.
 
 Je kunt verplicht worden om urine af te staan om te onderzoeken of je gedragsbeïnvloedende middelen hebt gebruikt. Onder gedragsbeïnvloedende middelen verstaan we verboden middelen zoals drugs, maar ook middelen waarvan we het ongecontroleerde gebruik willen tegengaan, zoals alcohol en kalmerings- en slaapmiddelen.
 
@@ -372,17 +374,17 @@ In je perspectiefplan kan worden opgenomen dat in het belang van je behandeling 
 
 De uitslag van een urinecontrole wordt zo snel mogelijk aan je meegedeeld. Je kunt als je het niet eens bent met de uitslag dezelfde urine nog eens laten controleren. Dat moet je dan wel zelf betalen, tenzij uit de uitslag van dit onderzoek blijkt dat er geen sprake is van ongeoorloofd gebruik van gedragsbeïnvloedende middelen.
 
-**Nadere regelgeving:**
-
 ### 10.2. Kamerinspectie
+
+De medewerkers van de inrichting mogen altijd je kamer betreden om je kamer te inspecteren. Bij een inspectie wordt gekeken of je voorwerpen in je kamer hebt die je niet in je bezit mag hebben.
 
 De medewerkers van de inrichting mogen altijd je kamer betreden om je kamer te inspecteren. Bij een inspectie wordt gekeken of je voorwerpen in je kamer hebt die je niet in je bezit mag hebben.
 
 Er kan een inspectie van je kamer worden gehouden:
 
-**Nadere regelgeving:**
-
 ### 10.3. Onderzoek aan lichaam en kleding
+
+Een onderzoek aan je lichaam wordt ook wel ‘visitatie’ genoemd. Een visitatie is een onderzoek waarbij je hele lichaam van buitenaf mag worden bekeken. Bij een onderzoek aan je lichaam mag ook in lichaamsholten, zoals je mond, je oren en je anus, worden gekeken. Bijvoorbeeld om te controleren of je daar geen verboden voorwerpen, zoals drugs, in hebt verstopt. Dit soort onderzoek wordt gedaan in een kamer waar niet zomaar iedereen naar binnen kan kijken. Als het mogelijk is, wordt het onderzoek bovendien gedaan door een medewerker van je eigen geslacht.
 
 Een onderzoek aan je lichaam wordt ook wel ‘visitatie’ genoemd. Een visitatie is een onderzoek waarbij je hele lichaam van buitenaf mag worden bekeken. Bij een onderzoek aan je lichaam mag ook in lichaamsholten, zoals je mond, je oren en je anus, worden gekeken. Bijvoorbeeld om te controleren of je daar geen verboden voorwerpen, zoals drugs, in hebt verstopt. Dit soort onderzoek wordt gedaan in een kamer waar niet zomaar iedereen naar binnen kan kijken. Als het mogelijk is, wordt het onderzoek bovendien gedaan door een medewerker van je eigen geslacht.
 
@@ -392,9 +394,9 @@ Een onderzoek aan je lichaam of aan je kleding kan plaatsvinden:
 
 Als er bij het onderzoek voorwerpen worden gevonden die niet in je bezit mogen zijn, mag de directeur deze voorwerpen in beslag nemen. De voorwerpen kunnen dan op jouw kosten worden bewaard, naar je ouders of je voogd, stiefouder of pleegouders worden gestuurd, met jouw toestemming worden vernietigd of aan een opsporingsambtenaar worden gegeven om strafbare feiten te voorkomen of op te sporen.
 
-**Nadere regelgeving:**
-
 ### 10.4. Onderzoek in het lichaam
+
+Bij een onderzoek in je lichaam moet je denken aan het maken van röntgenfoto’s of bijvoorbeeld een inwendig onderzoek van je slokdarm als we vermoeden dat je verdovende of gevaarlijke dingen hebt ingeslikt. Een onderzoek in je lichaam wordt altijd uitgevoerd door een arts of een verpleegkundige die in opdracht van een arts werkt.
 
 Bij een onderzoek in je lichaam moet je denken aan het maken van röntgenfoto’s of bijvoorbeeld een inwendig onderzoek van je slokdarm als we vermoeden dat je verdovende of gevaarlijke dingen hebt ingeslikt. Een onderzoek in je lichaam wordt altijd uitgevoerd door een arts of een verpleegkundige die in opdracht van een arts werkt.
 
@@ -402,15 +404,15 @@ De directeur kan bepalen dat je in je lichaam onderzocht moet worden als het noo
 
 Als er bij het onderzoek voorwerpen worden gevonden die niet in je bezit mogen zijn, mag de directeur deze voorwerpen in beslag nemen. De voorwerpen kunnen dan op jouw kosten worden bewaard, met jouw toestemming worden vernietigd of aan een opsporingsambtenaar worden gegeven om strafbare feiten te voorkomen of op te sporen.
 
-**Nadere regelgeving:**
-
 ### 10.5. Gedwongen geneeskundige behandeling
 
 De directeur kan je verplichten om een medische behandeling door een arts of verpleegkundige toe te laten. Hij of zij kan je die verplichting opleggen als er ernstig gevaar dreigt voor de veiligheid of gezondheid van jezelf of van anderen. Er kan je bijvoorbeeld dwangmedicatie worden gegeven als je zo agressief wordt dat je jezelf, andere bewoners of medewerkers dreigt te verwonden. In zo’n geval moet je toestaan dat je de medicijnen toegediend krijgt.
 
-**Nadere regelgeving:**
+De directeur kan je verplichten om een medische behandeling door een arts of verpleegkundige toe te laten. Hij of zij kan je die verplichting opleggen als er ernstig gevaar dreigt voor de veiligheid of gezondheid van jezelf of van anderen. Er kan je bijvoorbeeld dwangmedicatie worden gegeven als je zo agressief wordt dat je jezelf, andere bewoners of medewerkers dreigt te verwonden. In zo’n geval moet je toestaan dat je de medicijnen toegediend krijgt.
 
 ### 10.6. Gebruik mechanische middelen
+
+Als je in afzondering bent geplaatst kan de directeur bepalen dat je in je bewegingsvrijheid wordt beperkt door het gebruik van mechanische middelen. Je kunt daarbij bijvoorbeeld denken aan het gebruik van handboeien. Het in afzondering plaatsen wordt uitgelegd in paragraaf 10.9.
 
 Als je in afzondering bent geplaatst kan de directeur bepalen dat je in je bewegingsvrijheid wordt beperkt door het gebruik van mechanische middelen. Je kunt daarbij bijvoorbeeld denken aan het gebruik van handboeien. Het in afzondering plaatsen wordt uitgelegd in paragraaf 10.9.
 
@@ -418,9 +420,9 @@ Je mag met mechanische middelen in je bewegingsvrijheid worden beperkt als het e
 
 Bij acuut gevaar voor jezelf of voor anderen mag een medewerker van de inrichting ook besluiten mechanische middelen toe te passen. Dit mag echter voor maximaal vier uur. Bij dit gebruik van mechanische middelen stelt de directeur zo snel mogelijk de arts of diens vervanger en de commissie van toezicht op de hoogte.
 
-**Nadere regelgeving:**
-
 ### 10.7. Gebruik geweld en vrijheidsbeperkende middelen
+
+Het kan soms nodig zijn dat medewerkers van de inrichting met geweld de orde herstellen. Het gebruiken van geweld betekent in dit geval dat je door lichaamskracht of met een wapenstok wordt gedwongen om iets te doen of om iets juist niet te doen.
 
 Het kan soms nodig zijn dat medewerkers van de inrichting met geweld de orde herstellen. Het gebruiken van geweld betekent in dit geval dat je door lichaamskracht of met een wapenstok wordt gedwongen om iets te doen of om iets juist niet te doen.
 
@@ -430,17 +432,17 @@ Medewerkers mogen alleen gebruik maken van geweld in de volgende gevallen:
 
 We waarschuwen je eerst voordat er geweld wordt gebruikt, tenzij het noodzakelijk is om onmiddellijk in te grijpen.
 
-**Nadere regelgeving:**
-
 ### 10.8. Time-outmaatregel
+
+De directeur kan besluiten je een time-outmaatregel op te leggen. Dit is een maatregel die maximaal één uur mag duren en in totaal mogen time-outmaatregelen maximaal twee uur per dag opgelegd worden. Je kunt de maatregel vergelijken met het tijdelijk weggestuurd worden uit de klas of dat je thuis tijdelijk naar je kamer wordt gestuurd. De time-out is een korte en minimaal ingrijpende pedagogische maatregel waarbij je kort buiten de groep wordt geplaatst om daarmee je gedrag gunstig te beïnvloeden. Deze maatregel is een onderdeel van je opvoeding en leert dat bepaald gedrag gevolgen heeft.
 
 De directeur kan besluiten je een time-outmaatregel op te leggen. Dit is een maatregel die maximaal één uur mag duren en in totaal mogen time-outmaatregelen maximaal twee uur per dag opgelegd worden. Je kunt de maatregel vergelijken met het tijdelijk weggestuurd worden uit de klas of dat je thuis tijdelijk naar je kamer wordt gestuurd. De time-out is een korte en minimaal ingrijpende pedagogische maatregel waarbij je kort buiten de groep wordt geplaatst om daarmee je gedrag gunstig te beïnvloeden. Deze maatregel is een onderdeel van je opvoeding en leert dat bepaald gedrag gevolgen heeft.
 
 De maatregel houdt in dat je uitgesloten wordt van het verblijf in de groep of van deelname aan gemeenschappelijke activiteiten. Als je wordt uitgesloten van het verblijf in de groep, moet je in je kamer op de afdeling blijven.
 
-**Nadere regelgeving:**
-
 ### 10.9. Ordemaatregelen
+
+Het is mogelijk dat je een ordemaatregel wordt opgelegd als het noodzakelijk is voor de orde en de veiligheid in de inrichting of voor de bescherming van jezelf.
 
 Het is mogelijk dat je een ordemaatregel wordt opgelegd als het noodzakelijk is voor de orde en de veiligheid in de inrichting of voor de bescherming van jezelf.
 
@@ -472,9 +474,9 @@ De directeur kan alleen beslissen dat je tijdelijk in een andere inrichting word
 
 Een tijdelijke plaatsing kan maximaal veertien dagen duren. De directeur kan de maatregel met maximaal veertien dagen verlengen als na overleg met de directeur van de andere inrichting, een gedragsdeskundige en de selectiefunctionaris is gebleken dat de noodzaak nog steeds aanwezig is en er plaats is. De directeur stelt je ouders of je voogd, stiefouder of pleegouders of de gecertificeerde instelling onmiddellijk op de hoogte van de tijdelijke plaatsing en een eventuele verlenging.
 
-**Nadere regelgeving:**
-
 ### 10.10. Disciplinaire straffen
+
+Een disciplinaire straf is bedoeld als terechtwijzing oftewel een sanctie voor ontoelaatbaar gedrag waarvoor je persoonlijk verantwoordelijk bent. De duur van de straf is van tevoren bepaald.
 
 Een disciplinaire straf is bedoeld als terechtwijzing oftewel een sanctie voor ontoelaatbaar gedrag waarvoor je persoonlijk verantwoordelijk bent. De duur van de straf is van tevoren bepaald.
 
@@ -490,9 +492,9 @@ Deze straffen kunnen ook voorwaardelijk worden opgelegd met een proeftijd van ma
 
 Je ouders of je voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling worden van het opleggen van een disciplinaire straf en van de reden daarvan geïnformeerd. Indien je achttien jaar of ouder bent moet je hiermee instemmen.
 
-**Nadere regelgeving:**
-
 ### 10.11. Horen en schriftelijke mededeling
+
+Bij een aantal beslissingen over de beperking van je vrijheid en het opleggen van straffen of maatregelen moet je in de gelegenheid worden gesteld om ‘gehoord’ te worden, oftewel je eigen mening te geven. Het horen moet zoveel mogelijk plaatsvinden in een voor jou begrijpelijke taal.
 
 Bij een aantal beslissingen over de beperking van je vrijheid en het opleggen van straffen of maatregelen moet je in de gelegenheid worden gesteld om ‘gehoord’ te worden, oftewel je eigen mening te geven. Het horen moet zoveel mogelijk plaatsvinden in een voor jou begrijpelijke taal.
 
@@ -506,9 +508,9 @@ Bij de genoemde beslissingen over het STP, het onderbrengen van een kind in de i
 
 Bij de andere genoemde beslissingen hoef je niet altijd vooraf in de gelegenheid gesteld te worden om gehoord te worden en hoeft er geen schriftelijke mededeling over de beslissing aan je uitgereikt te worden. Hiervan kan sprake zijn wanneer:
 
-**Nadere regelgeving:**
-
 ### 11. Bemiddeling, beklag en beroep
+
+In dit hoofdstuk wordt uitgelegd hoe je officieel duidelijk kunt maken dat je het niet eens bent met een beslissing die door de inrichting is genomen en dat je een andere oplossing wilt voor eventuele problemen. Hoe je kunt klagen over medisch handelen door de huisarts, tandarts, psychiater of verpleegkundige van de inrichting en hoe je in beroep kunt gaan, vind je in paragraaf 6.4.
 
 In dit hoofdstuk wordt uitgelegd hoe je officieel duidelijk kunt maken dat je het niet eens bent met een beslissing die door de inrichting is genomen en dat je een andere oplossing wilt voor eventuele problemen. Hoe je kunt klagen over medisch handelen door de huisarts, tandarts, psychiater of verpleegkundige van de inrichting en hoe je in beroep kunt gaan, vind je in paragraaf 6.4.
 
@@ -528,9 +530,9 @@ De beklagcommissie bestaat uit drie leden van de commissie van toezicht, die wor
 
 De Raad voor Strafrechtstoepassing en Jeugdbescherming is een landelijke instantie die speciaal is ingesteld om de Minister van Veiligheid en Justitie te adviseren over zaken die spelen bij onder meer justitiële jeugdinrichtingen. Die Raad bezoekt af en toe ook de inrichtingen om te kijken hoe het er daar aan toe gaat.
 
-De Raad heeft een beroepscommissie die bestaat uit drie leden van de raad die worden bijgestaan door een secretaris. De beroepscommissie heeft de taak beroepszaken te behandelen. Hoe die procedure gaat kan je lezen in de paragrafen 11.3 tot en met 11.5.
-
 ### 11.1. Bemiddeling
+
+Bemiddeling betekent dat de maandcommissaris van de commissie van toezicht met jou en de inrichting gaat praten om een oplossing te zoeken voor een probleem waar je mee zit.
 
 Bemiddeling betekent dat de maandcommissaris van de commissie van toezicht met jou en de inrichting gaat praten om een oplossing te zoeken voor een probleem waar je mee zit.
 
@@ -550,9 +552,9 @@ Je ouders of je voogd, stiefouder of pleegouders kunnen ook bemiddeling door de 
 
 [**hier aangeven hoe de jeugdige en de ouders etc. in contact kunnen komen met de maandcommissaris**]
 
-**Nadere regelgeving:**
-
 ### 11.2. Beklag
+
+Je kunt een klacht indienen bij de beklagcommissie als je het niet eens bent met een door of namens de directeur genomen beslissing die jou persoonlijk aangaat, betreffende:
 
 Je kunt een klacht indienen bij de beklagcommissie als je het niet eens bent met een door of namens de directeur genomen beslissing die jou persoonlijk aangaat, betreffende:
 
@@ -578,17 +580,17 @@ De uitspraak kan zijn:
 
 Als je van de beklagcommissie gelijk hebt gekregen en de gevolgen van de beslissing waarom het ging niet meer teruggedraaid kunnen worden, kan de beklagcommissie een compensatie vaststellen. De compensatie kan bijvoorbeeld zijn dat je extra tijd krijgt om te telefoneren of om bezoek te ontvangen. In sommige gevallen kun je een compensatie in geld krijgen.
 
-**Nadere regelgeving:**
-
 ### 11.3. Beroep tegen de uitspraak van de beklagcommissie
+
+Zowel jij als de directeur kan schriftelijk in beroep gaan tegen de uitspraak van de beklagcommissie bij de beroepscommissie van de Raad voor Strafrechtstoepassing en Jeugdbescherming. Je moet je beroepschrift uiterlijk binnen zeven dagen na de dag dat je de uitspraak van de beklagcommissie hebt gehoord of gelezen indienen. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke uitspraak van de beklagcommissie het gaat. Zolang er nog geen uitspraak is gedaan door de beroepscommissie geldt wat de beklagcommissie heeft uitgesproken.
 
 Zowel jij als de directeur kan schriftelijk in beroep gaan tegen de uitspraak van de beklagcommissie bij de beroepscommissie van de Raad voor Strafrechtstoepassing en Jeugdbescherming. Je moet je beroepschrift uiterlijk binnen zeven dagen na de dag dat je de uitspraak van de beklagcommissie hebt gehoord of gelezen indienen. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke uitspraak van de beklagcommissie het gaat. Zolang er nog geen uitspraak is gedaan door de beroepscommissie geldt wat de beklagcommissie heeft uitgesproken.
 
 Als je dat wilt kun je aan de voorzitter van de beroepscommissie vragen om de tenuitvoerlegging van de uitspraak van de beklagcommissie geheel of gedeeltelijk te schorsen, zolang zij nog geen definitieve uitspraak hebben gedaan. Het is handig om dit gelijk te vragen in de brief waarin je uitlegt waartegen je in beroep gaat en waarom. Je kunt ook een aparte brief schrijven waarin je dezelfde gegevens vermeldt die je ook bij een klacht moet opnemen (zie paragraaf 11.2) en zo duidelijk mogelijk aangeeft welke uitspraak je geheel of gedeeltelijk wilt laten schorsen. Als de directeur in beroep is gegaan tegen de uitspraak van de beklagcommissie kan hij ook om schorsing vragen.
 
-**Nadere regelgeving:**
-
 ### 11.4. Bezwaar en beroep tegen een beslissing van de selectiefunctionaris
+
+Sommige beslissingen worden niet door de directeur, maar door de selectiefunctionaris genomen. Het gaat om de volgende beslissingen:
 
 Sommige beslissingen worden niet door de directeur, maar door de selectiefunctionaris genomen. Het gaat om de volgende beslissingen:
 
@@ -612,17 +614,17 @@ Ook kun je rechtstreeks beroep bij de beroepscommissie van de Raad voor Strafrec
 
 Je ouders of je voogd, stiefouder of pleegouders hebben ook het recht om namens jou een bezwaar- of verzoekschrift in te dienen bij de selectiefunctionaris en het recht om in beroep te gaan tegen een beslissing van de selectiefunctionaris. Dit recht vervalt als de selectiefunctionaris of de beroepscommissie vinden dat voor jou zwaarwegende belangen zich hiertegen verzetten.
 
-**Nadere regelgeving:**
-
 ### 11.5. Beroep tegen een beslissing van de Minister van Veiligheid en Justitie over strafonderbreking
 
 Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugdbescherming tegen een beslissing van de Minister van Veiligheid en Justitie over een onderbreking van je straf. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke beslissing van de Minister het gaat.
 
-**Nadere regelgeving:**
+Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugdbescherming tegen een beslissing van de Minister van Veiligheid en Justitie over een onderbreking van je straf. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke beslissing van de Minister het gaat.
 
 ### 12. Overige bepalingen
 
-### 12.1. Geld
+### 12. Overige bepalingen
+
+[**hier aangeven welke regels in de inrichting gelden met betrekking tot het bezit van contant geld en/of andere betaalmiddelen**]
 
 [**hier aangeven welke regels in de inrichting gelden met betrekking tot het bezit van contant geld en/of andere betaalmiddelen**]
 
@@ -630,15 +632,15 @@ Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugd
 
 [**hier aangeven hoeveel zakgeld wordt toegekend**]
 
-**Nadere regelgeving:**
-
 ### 12.2. Aansprakelijkheid
 
 Als je schade veroorzaakt, kunnen de kosten daarvan op jou worden verhaald. De directeur kan met jou of met je wettelijke vertegenwoordiger een regeling treffen voor de vergoeding van de schade. Bij overplaatsing naar een andere inrichting neemt de andere inrichting de uitvoering van de met jou of je wettelijke vertegenwoordiger getroffen schaderegeling over. Het is ook mogelijk dat de directeur de schade op je verhaalt via een civielrechtelijke procedure of een voeging in een strafrechtelijke procedure.
 
-**Nadere regelgeving:**
+Als je schade veroorzaakt, kunnen de kosten daarvan op jou worden verhaald. De directeur kan met jou of met je wettelijke vertegenwoordiger een regeling treffen voor de vergoeding van de schade. Bij overplaatsing naar een andere inrichting neemt de andere inrichting de uitvoering van de met jou of je wettelijke vertegenwoordiger getroffen schaderegeling over. Het is ook mogelijk dat de directeur de schade op je verhaalt via een civielrechtelijke procedure of een voeging in een strafrechtelijke procedure.
 
 ### 12.3. Dossiers
+
+Bepaalde gegevens over jou en je verblijf in onze inrichting worden in een dossier opgenomen. We noemen hier met name:
 
 Bepaalde gegevens over jou en je verblijf in onze inrichting worden in een dossier opgenomen. We noemen hier met name:
 
@@ -648,15 +650,185 @@ Bij een overplaatsing sturen we je dossier met je mee naar de andere justitiële
 
 [**hier aangeven hoe de jeugdige gebruik kan maken van het recht op inzage**]
 
-**Nadere regelgeving:**
-
 ### 12.4. Medezeggenschap en vertegenwoordiging
+
+De directeur zorgt ervoor dat er regelmatig overleg met een vertegenwoordiging van jullie plaatsvindt over zaken die jullie verblijf in de inrichting aangaan.
 
 De directeur zorgt ervoor dat er regelmatig overleg met een vertegenwoordiging van jullie plaatsvindt over zaken die jullie verblijf in de inrichting aangaan.
 
 [**hier aangeven hoe de jeugdigen in dit overleg vertegenwoordigd worden (door middel van bijvoorbeeld een bewonersraad of groepsvergaderingen per afdeling)**]
 
 [**hier aangeven waar en wanneer het overleg met de jeugdigen plaatsvindt**]
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+**Nadere regelgeving:**
+
+### 5. Dagprogramma
+
+**Nadere regelgeving**
+
+### 5.1. Verblijf in de buitenlucht
+
+**Nadere regelgeving:**
+
+### 5.2. Onderwijs
+
+**Nadere regelgeving:**
+
+### 5.3. Sport
+
+**Nadere regelgeving:**
+
+### 5.4. Bibliotheek
+
+**Nadere regelgeving:**
+
+### 5.5. Winkel of winkelbestellijst
+
+**Nadere regelgeving:**
+
+### 5.6. Overige activiteiten
+
+[**hier overige in de inrichting aangeboden activiteiten omschrijven**]
+
+### 6.1. Voeding
+
+**Nadere regelgeving:**
+
+### 6.2. Gebruik en onderhoud van kleding
+
+**Nadere regelgeving:**
+
+### 6.3. Persoonlijke verzorging
+
+**Nadere regelgeving:**
+
+### 6.4. Medische verzorging
+
+**Nadere regelgeving:**
+
+### 6.5. Geestelijke verzorging
+
+**Nadere regelgeving:**
+
+### 7.1. Bezoek van relaties
+
+**Nadere regelgeving:**
+
+### 7.2. ‘Geprivilegieerd’ bezoek
+
+**Nadere regelgeving:**
+
+### 7.3. Telefoneren met relaties
+
+[**hier aangeven hoe in de inrichting toezicht wordt uitgeoefend op telefoongesprekken**]
+
+### 7.4. Telefoneren met geprivilegieerde contacten
+
+**Nadere regelgeving:**
+
+### 7.5. Post van relaties
+
+**Nadere regelgeving:**
+
+### 7.6. Post van geprivilegieerde contacten
+
+**Nadere regelgeving:**
+
+### 7.7. Perscontacten
+
+**Nadere regelgeving:**
+
+### 8. Verlof
+
+**Nadere regelgeving:**
+
+### 9. Scholings- en trainingsprogramma
+
+**Nadere regelgeving:**
+
+### 10.1. Urinecontrole
+
+**Nadere regelgeving:**
+
+### 10.2. Kamerinspectie
+
+**Nadere regelgeving:**
+
+### 10.3. Onderzoek aan lichaam en kleding
+
+**Nadere regelgeving:**
+
+### 10.4. Onderzoek in het lichaam
+
+**Nadere regelgeving:**
+
+### 10.5. Gedwongen geneeskundige behandeling
+
+**Nadere regelgeving:**
+
+### 10.6. Gebruik mechanische middelen
+
+**Nadere regelgeving:**
+
+### 10.7. Gebruik geweld en vrijheidsbeperkende middelen
+
+**Nadere regelgeving:**
+
+### 10.8. Time-outmaatregel
+
+**Nadere regelgeving:**
+
+### 10.9. Ordemaatregelen
+
+**Nadere regelgeving:**
+
+### 10.10. Disciplinaire straffen
+
+**Nadere regelgeving:**
+
+### 10.11. Horen en schriftelijke mededeling
+
+**Nadere regelgeving:**
+
+### 11. Bemiddeling, beklag en beroep
+
+De Raad heeft een beroepscommissie die bestaat uit drie leden van de raad die worden bijgestaan door een secretaris. De beroepscommissie heeft de taak beroepszaken te behandelen. Hoe die procedure gaat kan je lezen in de paragrafen 11.3 tot en met 11.5.
+
+### 11.1. Bemiddeling
+
+**Nadere regelgeving:**
+
+### 11.2. Beklag
+
+**Nadere regelgeving:**
+
+### 11.3. Beroep tegen de uitspraak van de beklagcommissie
+
+**Nadere regelgeving:**
+
+### 11.4. Bezwaar en beroep tegen een beslissing van de selectiefunctionaris
+
+**Nadere regelgeving:**
+
+### 11.5. Beroep tegen een beslissing van de Minister van Veiligheid en Justitie over strafonderbreking
+
+**Nadere regelgeving:**
+
+### 12.1. Geld
+
+**Nadere regelgeving:**
+
+### 12.2. Aansprakelijkheid
+
+**Nadere regelgeving:**
+
+### 12.3. Dossiers
+
+**Nadere regelgeving:**
+
+### 12.4. Medezeggenschap en vertegenwoordiging
 
 **Nadere regelgeving:**
 
