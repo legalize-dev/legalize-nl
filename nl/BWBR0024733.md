@@ -4,7 +4,7 @@ identifier: "BWBR0024733"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2016-07-01"
+last_updated: "2019-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024733"
 soort: "ministeriele-regeling"
@@ -78,13 +78,13 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 ##### Artikel 4
 
-De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01).
+De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2019-10-05&g=2019-10-05).
 
 #### Paragraaf 2. De middelen
 
 ##### Artikel 5
 
-1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-07-01&g=2016-07-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
+1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2019-10-05&g=2019-10-05) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
 
 2. Niet tot de middelen van de asielzoeker worden gerekend:
 
@@ -92,15 +92,15 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - b. vergoedingen en tegemoetkomingen, waaronder begrepen de tegemoetkoming ontvangen op grond van het [Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555), voor, alsmede de vermindering of teruggave van loonbelasting of inkomensbelasting en van premies volksverzekeringen op grond van kosten die niet tot de algemeen noodzakelijke bestaanskosten behoren;
 
-- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2016-07-01&g=2016-07-01), niet in aanmerking genomen vermogen;
+- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2019-10-05&g=2019-10-05), niet in aanmerking genomen vermogen;
 
 - d. een uitkering in verband met geleden immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, uit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord is;
 
 - e. giften van instellingen en particulieren voor zover deze, gezien de bestemming en de hoogte van de giften, uit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord zijn.
 
-3. Onverminderd het bepaalde in het tweede lid worden niet tot de middelen van een asielzoeker, niet zijnde een vergunninghouder, gerekend inkomsten uit arbeid gedurende ten hoogste 24 weken binnen een periode van 52 weken tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand.
+3. Onverminderd het bepaalde in het tweede lid worden niet tot de middelen van een asielzoeker, niet zijnde een vergunninghouder, gerekend inkomsten uit arbeid gedurende ten hoogste 24 weken binnen een periode van 52 weken tot 25 procent van deze inkomsten, met een maximum van het bedrag, genoemd in [artikel 31, tweede lid, onderdeel n, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31), per maand.
 
-4. Onverminderd het bepaalde in het tweede lid worden tot de middelen van een vergunninghouder niet gerekend inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand.
+4. Onverminderd het bepaalde in het tweede lid worden tot de middelen van een vergunninghouder niet gerekend inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van het bedrag, genoemd in [artikel 31, tweede lid, onderdeel n, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31), per maand.
 
 5. De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van:
 
@@ -132,7 +132,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - a. de waarde van de bezittingen waarover de asielzoeker bij de aanvang van de opvang beschikt of redelijkerwijs kan beschikken, verminderd met de op dat tijdstip aanwezige schulden. De waarde van de bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering;
 
-- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2016-07-01&g=2016-07-01).
+- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2019-10-05&g=2019-10-05).
 
 2. Niet als vermogen wordt in aanmerking genomen:
 
