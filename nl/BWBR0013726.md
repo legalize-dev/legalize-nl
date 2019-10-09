@@ -4,7 +4,7 @@ identifier: "BWBR0013726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2004-04-01"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013726"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van de Commissie van advies inzake volkenrechtelijke vraagstukken ontvangt een vergoeding van € 255 per vergadering. De voorzitter van de Staatscommissie voor het internationaal privaatrecht ontvangt een vaste vergoeding per jaar, overeenkomend met een bedrag dat gelijk is aan tweemaal het maximum maandsalaris behorend bij schaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijkambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+De voorzitter van de Commissie van advies inzake volkenrechtelijke vraagstukken ontvangt een vergoeding van € 310 per vergadering. De voorzitter van de Staatscommissie voor het internationaal privaatrecht ontvangt een vaste vergoeding per jaar, overeenkomend met een bedrag dat gelijk is aan tweemaal het maximum maandsalaris behorend bij schaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijkambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 ##### Artikel 2
 
-De leden van de Commissie van advies inzake volkenrechtelijke vraagstukken en de leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 165 per vergadering.
+De leden van de Commissie van advies inzake volkenrechtelijke vraagstukken en de leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 235 per vergadering.
 
 ##### Artikel 3
 
