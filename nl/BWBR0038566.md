@@ -4,7 +4,7 @@ identifier: "BWBR0038566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-10"
-last_updated: "2018-12-15"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038566"
 soort: "ministeriele-regeling"
@@ -84,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
-De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4) en [6 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6) zijn niet van toepassing op subsidieverstrekking op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&z=2018-12-15&g=2018-12-15) van deze regeling.
+De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4) en [6 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6) zijn niet van toepassing op subsidieverstrekking op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&z=2019-10-10&g=2019-10-10) van deze regeling.
 
 ### Hoofdstuk 2. Het regionaal programma voortijdig schoolverlaten
 
 ##### Artikel 2.1. Te subsidiëren activiteiten
 
-1. De minister kan aan contactscholen als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.3&z=2018-12-15&g=2018-12-15), subsidie verstrekken voor de uitvoering van maatregelen uit het regionaal programma die tot doel hebben:
+1. De minister kan aan contactscholen als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.3&z=2019-10-10&g=2019-10-10), subsidie verstrekken voor de uitvoering van maatregelen uit het regionaal programma die tot doel hebben:
 
 - a. realisatie van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters, bedoeld in [artikel 1 van de Regeling resultaatafhankelijke bekostiging vsv mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0038562&artikel=1) en [artikel 1 van de Regeling resultaatafhankelijke bekostiging vsv vo](https://wetten.overheid.nl/jci1.3:c:BWBR0038484&artikel=1) tot maximaal 20.000 in het kalenderjaar 2021, of
 
@@ -108,7 +108,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 3. Het regionaal programma omvat ten minste één plusvoorziening.
 
-4. Het regionaal programma kan tevens maatregelen bevatten ten aanzien van de aansluiting op onderwijs of arbeidsmarkt van jongeren in een kwetsbare positie dan wel voortijdig schoolverlaters die in een eerder schooljaar het onderwijs hebben verlaten, bedoeld in [artikel 2.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.1&z=2018-12-15&g=2018-12-15).
+4. Het regionaal programma kan tevens maatregelen bevatten ten aanzien van de aansluiting op onderwijs of arbeidsmarkt van jongeren in een kwetsbare positie dan wel voortijdig schoolverlaters die in een eerder schooljaar het onderwijs hebben verlaten, bedoeld in [artikel 2.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.1&z=2019-10-10&g=2019-10-10).
 
 ##### Artikel 2.3. Regionale samenwerking en contactschool
 
@@ -126,7 +126,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 1. Voor het verstrekken van het vaste bedrag en het variabele bedrag op grond van deze paragraaf is jaarlijks maximaal € 30.400.000,– voor de studiejaren 2016–2017 tot en met 2019–2020 beschikbaar.
 
-2. Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.5&z=2018-12-15&g=2018-12-15), wordt overschreden, wordt de hoogte van het subsidiebedrag naar evenredigheid per contactschool en RMC-regio verlaagd.
+2. Indien het deel van het subsidieplafond dat is bestemd voor het vast bedrag respectievelijk het variabel bedrag, bedoeld in [artikel 2.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.5&z=2019-10-10&g=2019-10-10), wordt overschreden, wordt de hoogte van het subsidiebedrag naar evenredigheid per contactschool en RMC-regio verlaagd.
 
 ##### Artikel 2.5. Berekening subsidiebedrag
 
@@ -138,7 +138,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3)
 
 ##### Artikel 2.6. Subsidieaanvraag
 
-1. In afwijking van [artikel 3.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) wordt een aanvraag voor subsidie op grond van deze paragraaf per e-mail ingediend. De aanvraag voor subsidie omvat het regionaal programma en het volledig ingevulde aanvraagformulier dat als [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=A&z=2018-12-15&g=2018-12-15) bij deze regeling is opgenomen.
+1. In afwijking van [artikel 3.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) wordt een aanvraag voor subsidie op grond van deze paragraaf per e-mail ingediend. De aanvraag voor subsidie omvat het regionaal programma en het volledig ingevulde aanvraagformulier dat als [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=A&z=2019-10-10&g=2019-10-10) bij deze regeling is opgenomen.
 
 2. Het aanvraagformulier wordt door zowel de contactschool als de RMC-contactgemeente van de desbetreffende RMC-regio ondertekend.
 
@@ -194,13 +194,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 3.3. Voorschriften effectrapportage
 
-1. De inrichting van de effectrapportage geschiedt conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=B&z=2018-12-15&g=2018-12-15) bij deze regeling.
+1. De inrichting van de effectrapportage geschiedt conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=B&z=2019-10-10&g=2019-10-10) bij deze regeling.
 
 2. Burgemeester en wethouders van de desbetreffende RMC-contactgemeente dienen de effectrapportage uiterlijk op 1 december van het jaar volgend op het studiejaar waarop deze betrekking heeft, in bij de minister.
 
 ##### Artikel 3.4. Vaststelling RMC-regio’s, aanwijzing gemeenten
 
-De vastgestelde RMC-regio’s staan in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=C&z=2018-12-15&g=2018-12-15) bij deze regeling.
+De vastgestelde RMC-regio’s staan in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=C&z=2019-10-10&g=2019-10-10) bij deze regeling.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -550,7 +550,7 @@ Den Helder, Harenkarspel, Hollands Kroon, Schagen, Texel, Zijpe.
 
 Alkmaar, Bergen (NH), Castricum, Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk, Schermer, Uitgeest.
 
-### Regio 25. West-Kennemerland
+### Regio 25. Zuid-Kennemerland en IJmond
 
 Beverwijk, Bloemendaal, Haarlem, Heemskerk, Heemstede, Velsen, Zandvoort.
 
@@ -624,11 +624,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.12. Doel specifieke uitkering
 
-De minister verstrekt voor 2017 op grond van dit hoofdstuk een specifieke uitkering aan de RMC-contactgemeenten voor het uitvoeren van maatregelen uit het regionaal programma, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.2&z=2018-12-15&g=2018-12-15).
+De minister verstrekt voor 2017 op grond van dit hoofdstuk een specifieke uitkering aan de RMC-contactgemeenten voor het uitvoeren van maatregelen uit het regionaal programma, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.2&z=2019-10-10&g=2019-10-10).
 
 ##### Artikel 2.13. Bepalen hoogte specifieke uitkering
 
-De verdeling van de specifieke uitkering over de RMC-contactgemeenten is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=D&z=2018-12-15&g=2018-12-15) bij deze regeling.
+De verdeling van de specifieke uitkering over de RMC-contactgemeenten is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&bijlage=D&z=2019-10-10&g=2019-10-10) bij deze regeling.
 
 ##### Artikel 2.14. Betaling specifieke uitkering
 
@@ -640,13 +640,13 @@ Indien de uitkering niet of niet geheel is besteed in het jaar 2017 aan het doel
 
 ##### Artikel 2.16. Monitoring en evaluatie
 
-De RMC-contactgemeente draagt er zorg voor dat de gemeenten in de RMC-regio meewerken aan het onderzoek naar de effecten van het regionaal programma, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.11&z=2018-12-15&g=2018-12-15).
+De RMC-contactgemeente draagt er zorg voor dat de gemeenten in de RMC-regio meewerken aan het onderzoek naar de effecten van het regionaal programma, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.11&z=2019-10-10&g=2019-10-10).
 
 ### Hoofdstuk 3. Uitvoeringsvoorschriften inzake regionale meld- en coördinatiefunctie voortijdig schoolverlaten
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-## Bijlage A. behorende bij [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.6&z=2018-12-15&g=2018-12-15) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
+## Bijlage A. behorende bij [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2&artikel=2.6&z=2019-10-10&g=2019-10-10) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 
 ### Algemeen
 
@@ -682,13 +682,13 @@ Per maatregel waarvoor u subsidie aanvraagt, beantwoordt u de vragen A t/m C
 
 ### 5. Ondertekening
 
-## Bijlage B. behorende bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.3&z=2018-12-15&g=2018-12-15) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 (formulier en handleiding herziene RMC-effectrapportage)
+## Bijlage B. behorende bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.3&z=2019-10-10&g=2019-10-10) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 (formulier en handleiding herziene RMC-effectrapportage)
 
 ### Formulier en handleiding RMC-Effectrapportage
 
 ### Inleiding
 
-De Regionale VSV-Effectrapportage omvat de taakuitvoering omtrent het melden, registreren en coördineren van verzuim en vsv van alle jongeren in de regio van 12 tot 23 jaar, inclusief de doelgroep jongeren in een kwetsbare positie. Alleen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=4&z=2018-12-15&g=2018-12-15), waar het gaat om aantallen jongeren, hebben de gevraagde gegevens alleen betrekking op jongeren tussen 16 en 23. De reden hiervoor is dat Leerplicht jaarlijks al gegevens aanlevert over de groep 12-18 jaar. Hoewel de kwalificatieplicht niet onder de wettelijke verplichting van de RMC-regio valt, vraagt OCW om (naast de groep 18-23 jaar) in het kader van een preventieve vsv-aanpak voor de hele doelgroep, ook 16- en 17-jarigen in beeld te brengen en te houden om zo een sluitend vangnet voor deze groep te creëren. Let op: u wordt gevraagd om taakuitvoering voor 16- en 17-jarige jongeren alleen in de effectrapportage te registreren als RMC die daadwerkelijk heeft gedaan. Het is niet nodig om taakuitvoering door Leerplicht hier in te vullen.
+De Regionale VSV-Effectrapportage omvat de taakuitvoering omtrent het melden, registreren en coördineren van verzuim en vsv van alle jongeren in de regio van 12 tot 23 jaar, inclusief de doelgroep jongeren in een kwetsbare positie. Alleen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=4&z=2019-10-10&g=2019-10-10), waar het gaat om aantallen jongeren, hebben de gevraagde gegevens alleen betrekking op jongeren tussen 16 en 23. De reden hiervoor is dat Leerplicht jaarlijks al gegevens aanlevert over de groep 12-18 jaar. Hoewel de kwalificatieplicht niet onder de wettelijke verplichting van de RMC-regio valt, vraagt OCW om (naast de groep 18-23 jaar) in het kader van een preventieve vsv-aanpak voor de hele doelgroep, ook 16- en 17-jarigen in beeld te brengen en te houden om zo een sluitend vangnet voor deze groep te creëren. Let op: u wordt gevraagd om taakuitvoering voor 16- en 17-jarige jongeren alleen in de effectrapportage te registreren als RMC die daadwerkelijk heeft gedaan. Het is niet nodig om taakuitvoering door Leerplicht hier in te vullen.
 
 Jongeren die tot op heden geen onderwijs in Nederland hebben gevolgd, zoals vluchtelingen.
 
@@ -988,7 +988,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 In tabel 6 gaat het om gegevens over ‘kwetsbare overstappers’. De gegevens die ingevuld worden in de grijs gearceerde cellen zijn te vinden in de ‘Startset jongeren in kwetsbare positie’, die jaarlijks opgehaald kan worden door RMC in het Zakelijk Portaal van DUO. Let op: de Startset bevat alleen gegevens over jongeren in een kwetsbare positie die de overstap hebben gemaakt. U hoeft alleen deze gegevens te gebruiken om de tabel in te vullen. Om dat te doen, moet in de ‘Startset jongeren in kwetsbare positie’ eerst de leeftijdsgroep 16-23 geselecteerd worden. Vervolgens kan gefilterd worden op ‘Niveau’. In de witte cellen worden gegevens uit de eigen administratie van de RMC-regio gevraagd. Een voorbeeld: in november 2017 komt de Startset jongeren in een kwetsbare positie 2017-2018 beschikbaar. Deze kan in december 2018 gebruikt worden om de balans op te maken bij het invullen van de Regionale VSV-Effectrapportage 2017-2018.
 
-## Bijlage C. behorende bij [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.4&z=2018-12-15&g=2018-12-15) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 (vaststelling RMC-regio’s met ingang 1 januari 2019)
+## Bijlage C. behorende bij [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=3&artikel=3.4&z=2019-10-10&g=2019-10-10) van de Regeling regionale aanpak voortijdig schoolverlaten 2017 (vaststelling RMC-regio’s met ingang 1 januari 2019)
 
 ## Bijlage D. behorende bij [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2a&artikel=2.13&z=2018-09-22&g=2018-09-22) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 
@@ -1076,7 +1076,7 @@ Beesel, Bergen, Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nede
 
 Beek, Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
 
-## Bijlage D. behorende bij [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2a&artikel=2.13&z=2018-12-15&g=2018-12-15) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
+## Bijlage D. behorende bij [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0038566&hoofdstuk=2a&artikel=2.13&z=2019-10-10&g=2019-10-10) van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 
 | RMC-regio | Naam regio | RMC-contactgemeente | Bedrag per regio |
 | --- | --- | --- | --- |
