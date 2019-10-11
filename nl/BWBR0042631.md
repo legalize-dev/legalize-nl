@@ -4,7 +4,7 @@ identifier: "BWBR0042631"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-11"
-last_updated: "2019-09-02"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042631"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042631&artikel=2&z=2019-10-11&g=2019-09-02).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042631&artikel=2&z=2019-10-11&g=2019-10-11).
 
 ##### Artikel 2. Instelling en taak
 
@@ -92,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 16/36.
 
-2. Aan het lid genoemd in [artikel 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042631&artikel=3&z=2019-10-11&g=2019-09-02) wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 8/36.
+2. Aan het lid genoemd in [artikel 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042631&artikel=3&z=2019-10-11&g=2019-10-11) wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 8/36.
 
 ##### Artikel 7. Archiefbescheiden
 
