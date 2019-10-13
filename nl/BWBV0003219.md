@@ -4,7 +4,7 @@ identifier: "BWBV0003219"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-10-01"
-last_updated: "2004-02-13"
+last_updated: "2019-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003219"
 soort: "verdrag"
@@ -362,7 +362,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 Dit Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-### AFDELING A. - ALGEMENE BEPALINGEN
+### Afdeling A. – Algemene bepalingen
 
 ##### Voorschrift A-1. Begripsomschrijvingen
 
@@ -392,11 +392,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - .3. waarbij, naar het oordeel van de Administratie, beoogd wordt de levensduur met ten minste tien jaar te verlengen, of
 
-- .4. die leidt tot veranderingen in het ballastwatersysteem anders dan vervanging van onderdelen met soortgelijke onderdelen. Verbouwing van een schip teneinde te voldoen aan de bepalingen van voorschrift D-1 wordt voor de toepassing van deze Bijlage niet aangemerkt als een belangrijke verbouwing.
+- .4. die leidt tot veranderingen in het ballastwatersysteem anders dan vervanging van onderdelen met soortgelijke onderdelen. Verbouwing van een schip teneinde te voldoen aan de bepalingen van [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2019-10-13&g=2019-10-13) wordt voor de toepassing van deze Bijlage niet aangemerkt als een belangrijke verbouwing.
 
 - 6. „van het dichtstbijzijnde land”, van de basislijn van waaruit de territoriale zee van het betrokken gebied wordt bepaald overeenkomstig het internationale recht, behoudens dat, voor de toepassing van het Verdrag „van het dichtstbijzijnde land” onder de noordoostkust van Australië betekent: „van een lijn getrokken van een punt op de kust van Australië gelegen op: 11°00` zuiderbreedte en 142°08` oosterlengte naar een punt op 10°35` zuiderbreedte en 141°55` oosterlengte vandaar naar een punt op 10°00` zuiderbreedte en 142°00` oosterlengte vandaar naar een punt op 9°10` zuiderbreedte en 143°52` oosterlengte vandaar naar een punt op 9°00` zuiderbreedte en 144°30` oosterlengte vandaar naar een punt op 10°41` zuiderbreedte en 145°00` oosterlengte vandaar naar een punt op 13°00` zuiderbreedte en 145°00` oosterlengte vandaar naar een punt op 15°00` zuiderbreedte en 146°00` oosterlengte vandaar naar een punt op 17°30` zuiderbreedte en 147°00` oosterlengte vandaar naar een punt op 21°00` zuiderbreedte en 152°55` oosterlengte vandaar naar een punt op 24°30` zuiderbreedte en 154°00` oosterlengte vandaar naar een punt op de kust van Australië op 24°42` zuiderbreedte en 153°15` oosterlengte.
 
 - 7. „actieve stof”, een stof die of organisme, virussen of schimmels daaronder begrepen, dat een algemeen of specifiek effect heeft op schadelijke aquatische organismen en ziektekiemen.
+
+- 8. BWMS Code, de Code voor de goedkeuring van ballastwaterbeheersystemen, aangenomen bij resolutie MEPC.300(72), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden overeenkomstig het bepaalde in [artikel 19 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&artikel=19&z=2019-10-13&g=2019-10-13) betreffende de procedure voor wijziging die van toepassing is op deze Bijlage.
 
 ##### Voorschrift A-2. Algemene toepasbaarheid
 
@@ -442,7 +444,7 @@ De vereisten van voorschrift B-3 of maatregelen aangenomen door een Partij uit h
 
 Of een pleziervaartuig dat uitsluitend wordt gebruikt voor recreatie of wedstrijden of vaartuigen die primair worden gebruikt ten behoeve van opsporing en redding, met een totale lengte van ten hoogste 50 meter en een ballastwatercapaciteit van ten hoogste 8 m3 voldoet aan voorwaarden die gelijkwaardig zijn aan die in deze Bijlage, wordt vastgesteld door de Administratie, waarbij rekening wordt gehouden met door de Organisatie opgestelde richtlijnen.
 
-### AFDELING B. – VEREISTEN VOOR SCHEPEN TEN AANZIEN VAN BEHEER EN CONTROLE
+### Afdeling B. – Vereisten voor schepen ten aanzien van beheer en controle
 
 ##### Voorschrift B-1. Ballastwaterbeheersplan
 
@@ -482,23 +484,37 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 ##### Voorschrift B-3. Ballastwaterbeheer voor schepen
 
-- 1. Op schepen gebouwd voor 2009:
+- 1. Op schepen gebouwd vóór 2009:
 
-- .1. met een ballastwatercapaciteit van 1500 tot 5000 kubieke meter, dient het ballastwater tot 2014 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in voorschrift D-1 of in voorschrift D-2 en nadien ten minste aan de normen beschreven in voorschrift D-2;
+- .1. met een ballastwatercapaciteit van 1.500 tot en met 5.000 kubieke meter, dient het ballastwater tot de herkeuring omschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2019-10-13&g=2019-10-13) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13), en nadien ten minste aan de normen beschreven in voorschrift D-2;
 
-- .2. met een ballastwatercapaciteit van minder dan 1500 of meer dan 5000 kubieke meter, dient het ballastwater tot 2016 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in voorschrift D-1 of in voorschrift D-2 en nadien ten minste aan de normen beschreven in voorschrift D-2.
+- .2. met een ballastwatercapaciteit van minder dan 1.500 of meer dan 5.000 kubieke meter, dient het ballastwater tot de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2019-10-13&g=2019-10-13) of in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13) en nadien ten minste aan de normen beschreven in voorschrift D-2.
 
-- 2. Een schip waarop punt 1 van toepassing is dient uiterlijk op de datum van de eerste tussentijdse inspectie of herkeuring, naar gelang van wat het eerste is, na de verjaardatum van de oplevering van het schip in het jaar waarin aan de op het schip van toepassing zijnde norm moet worden voldaan, te voldoen aan punt 1.
+- 2. Op schepen gebouwd in of na 2009 en vóór 8 september 2017 met een ballastwatercapaciteit van minder dan 5.000 kubieke meter dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13).
 
-- 3. Op schepen gebouwd in of na 2009 met een ballastwatercapaciteit van minder dan 5000 kubieke meter dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in voorschrift D-2.
+- 3. Op schepen gebouwd in of na 2009, maar vóór 2012, met een ballastwatercapaciteit van 5.000 kubieke meter of meer dient het ballastwater te worden beheerd in overeenstemming met punt 1.2.
 
-- 4. Op schepen gebouwd in of na 2009, maar voor 2012, met een ballastwatercapaciteit van 5000 kubieke meter of meer dient het ballastwater te worden beheerd in overeenstemming met punt 1.2.
+- 4. Op schepen gebouwd in of na 2012 en vóór 8 september 2017 met een ballastwatercapaciteit van 5.000 kubieke meter of meer dient het ballastwater vanaf de datum van de herkeuring beschreven in punt 10 te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13).
 
-- 5. Op schepen gebouwd in of na 2012 met een ballastwatercapaciteit van 5000 kubieke meter of meer dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in voorschrift D-2.
+- 5. Op schepen gebouwd op of na 8 september 2017 dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13).
 
-- 6. De vereisten van dit voorschrift zijn niet van toepassing op schepen die ballastwater lozen bij een ontvangstinrichting die overeenkomstig de door de Organisatie voor dergelijke inrichtingen opgestelde richtlijnen zijn ontworpen.
+- 6. De vereisten van dit voorschrift zijn niet van toepassing op schepen die ballastwater lozen bij een ontvangstinrichting die overeenkomstig de door de Organisatie voor dergelijke inrichtingen opgestelde richtlijnen is ontworpen.
 
-- 7. Andere methoden voor ballastwaterbeheer kunnen worden aanvaard als alternatief voor de vereisten beschreven in de punten 1 tot en met 5, mits deze methoden ten minste dezelfde mate van bescherming van het milieu, de gezondheid van de mens, van goederen of hulpbronnen waarborgen en deze in beginsel zijn goedgekeurd door de Commissie.
+- 7. Andere methoden voor ballastwaterbeheer kunnen worden aanvaard als alternatief voor de vereisten beschreven in de punten 1 tot en met 5 en punt 8, mits deze methoden ten minste dezelfde mate van bescherming van het milieu, de gezondheid van de mens, van goederen of hulpbronnen waarborgen en deze in beginsel zijn goedgekeurd door de Commissie.
+
+- 8. Op schepen gebouwd vóór 8 september 2017 waarop de in punt 10 beschreven herkeuring niet van toepassing is, dient het ballastwater te worden beheerd op een wijze die ten minste voldoet aan de normen beschreven in [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13) vanaf de door de Administratie te bepalen datum, maar niet later dan 8 september 2024.
+
+- 9. Schepen waarop de punten 2, 4 of 8 van toepassing zijn dienen te voldoen aan hetzij [voorschrift D-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-1&z=2019-10-13&g=2019-10-13), hetzij [voorschrift D-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=D&artikel=D-2&z=2019-10-13&g=2019-10-13) tot het moment waarop zij dienen te voldoen aan voorschrift D-2.
+
+- 10. Niettegenstaande [voorschrift E-1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003219&afdeling=E&artikel=E-1&z=2019-10-13&g=2019-10-13) wordt onder de in de punten 1.1, 1.2, 2 en 4 bedoelde herkeuring verstaan:
+
+- .1. de eerste herkeuring, zoals bepaald door de Commissie, op of na 8 september 2017 indien:
+
+- .1. deze is voltooid op of na 8 september 2019; of
+
+- .2. een herkeuring is voltooid op of na 8 september 2014 maar vóór 8 september 2017;en
+
+- .2. de tweede herkeuring, zoals bepaald door de Commissie, op of na 8 september 2017 indien de eerste herkeuring op of na 8 september 2017 is voltooid vóór 8 september 2019, mits niet is voldaan aan de voorwaarden van punt 10.1.2.
 
 ##### Voorschrift B-4. Wisseling van ballastwater
 
@@ -572,7 +588,7 @@ Officieren en bemanning dienen vertrouwd te zijn met hun taken bij de implementa
 
 De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van de voorschriften C-1 en C-2 doorgegeven informatie beschikbaar.
 
-### AFDELING D. - NORMEN VOOR BALLASTWATERBEHEER
+### Afdeling D. – Normen voor ballastwaterbeheer
 
 ##### Voorschrift D-1. Norm voor de wisseling van ballastwater
 
@@ -594,7 +610,11 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 ##### Voorschrift D-3. Goedkeuringsvereisten voor ballastwaterbeheersystemen
 
-- 1. Behalve in het geval omschreven in punt 2, dienen ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag te worden goedgekeurd door de Administratie, rekening houdend met door de Organisatie opgestelde richtlijnen.
+- 1. Behalve in het geval omschreven in punt 2, worden ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag als volgt goedgekeurd door de Administratie:
+
+- .1. ballastwaterbeheersystemen die op of na 28 oktober 2020 worden geïnstalleerd worden goedgekeurd in overeenstemming met de BWMS-Code, eventueel zoals gewijzigd; en
+
+- .2. ballastwaterbeheersystemen die vóór 28 oktober 2020 zijn geïnstalleerd worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen of de BWMS-Code, eventueel als gewijzigd.
 
 - 2. Ballastwaterbeheersystemen waarbij gebruik wordt gemaakt van actieve substanties of preparaten die een of meer actieve substanties bevatten teneinde te voldoen aan dit Verdrag dienen op grond van een door de Organisatie opgestelde procedure te worden goedgekeurd door de Organisatie. In deze procedure wordt de goedkeuring en intrekking van de goedkeuring van actieve substanties beschreven alsmede de voorgestelde wijze van toepassing. Bij intrekking van de goedkeuring wordt het gebruik van de desbetreffende actieve substantie of substanties binnen een jaar na de datum van de intrekking verboden.
 
@@ -634,7 +654,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - 4. Indien de Partijen op basis van de in dit voorschrift beschreven herzieningen besluiten wijzigingen van deze Bijlage aan te nemen, worden zij aangenomen en treden zij in werking in overeenstemming met de in artikel 19 van dit Verdrag vervatte procedures.
 
-### AFDELING E. – ONDERZOEKS- EN CERTIFICATIEVEREISTEN VOOR BALLASTWATERBEHEER
+### Afdeling E. – Onderzoeks- en certificatievereisten voor ballastwaterbeheer
 
 ##### Voorschrift E-1. Onderzoeken
 
@@ -648,7 +668,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - .4. Een jaarlijks onderzoek binnen drie maanden voor of na iedere verjaardatum, met inbegrip van een algemeen onderzoek van de bouw, uitrusting, systemen, onderdelen, voorzieningen en materialen of processen die deel uitmaken van het op grond van voorschrift B-1 vereiste ballastwaterbeheersplan om te waarborgen dat zij in overeenstemming met punt 9 worden onderhouden en in goede staat blijven verkeren voor de dienst waarvoor het schip bedoeld is. Deze jaarlijkse onderzoeken worden aangetekend op het certificaat, afgegeven krachtens voorschrift E-2 of E-3.
 
-- .5. Een aanvullende algemene of deelinspectie, afhankelijk van hetgeen de omstandigheden vereisen, geschiedt na een wijziging, vervanging of ingrijpende reparatie van de bouw, uitrusting, systemen, onderdelen, voorzieningen en materialen die nodig is teneinde ten volle te kunnen voldoen aan dit Verdrag. De inspectie dient zodanig te zijn dat gewaarborgd wordt dat een dergelijke wijziging, vervanging of ingrijpende reparatie doeltreffend is geschied, zodat het schip voldoet aan de vereisten van dit Verdrag. Deze inspecties worden aangetekend op het certificaat, afgegeven krachtens voorschrift E-2 of E-3.
+- .5. Een aanvullende algemene of deelinspectie, afhankelijk van hetgeen de omstandigheden vereisen, geschiedt na een wijziging, vervanging of ingrijpende reparatie van de bouw, uitrusting, systemen, onderdelen, voorzieningen en materialen die nodig is teneinde ten volle te kunnen voldoen aan dit Verdrag. De inspectie dient zodanig te zijn dat gewaarborgd wordt dat een dergelijke wijziging, vervanging of ingrijpende reparatie doeltreffend is geschied, zodat het schip voldoet aan de vereisten van dit Verdrag.
 
 - 2. De Administratie stelt passende maatregelen vast voor schepen die niet onder de bepalingen van punt 1 vallen om te waarborgen dat voldaan wordt aan de toepasselijke bepalingen van dit Verdrag.
 
@@ -714,23 +734,21 @@ Het certificaat wordt opgesteld in de officiële taal van de Partij die het afge
 
 - 7. Onder bijzondere omstandigheden vast te stellen door de Administratie behoeft een nieuw certificaat niet te worden gedateerd vanaf de datum van verstrijken van het bestaande certificaat zoals bepaald in punt 2.2, 5 of 6 van dit voorschrift. Onder deze bijzondere omstandigheden is het nieuwe certificaat geldig tot een datum uiterlijk vijf jaar na de datum van afronding van de herkeuring.
 
-- 8. Indien een jaarlijks onderzoek wordt afgerond voorafgaand aan de termijn vermeld in voorschrift E-1:
+- 8. Indien een jaarlijks of tussentijds onderzoek wordt afgerond voorafgaand aan de termijn vermeld in voorschrift E-1:
 
 - .1. wordt de verjaardatum op het certificaat door middel van een aantekening gewijzigd in een datum uiterlijk drie maanden na de datum waarop hetonderzoek werd afgerond;
 
 - .2. wordt het volgende jaarlijkse of tussentijdse onderzoek vereist op grond van voorschrift E-1 verricht met de in dat voorschrift voorgeschreven tussenpozen uitgaande van de nieuwe verjaardatum;
 
-- .3. kan de datum van verstrijken ongewijzigd blijven, mits een of meer jaarlijkse onderzoeken, naar gelang hetgeen van toepassing is, zodanig worden verricht dat de maximumtermijnen tussen de onderzoeken als voorgeschreven in voorschrift E-1 niet worden overschreden.
+- .3. kan de datum van verstrijken ongewijzigd blijven, mits een of meer jaarlijkse of tussentijdse onderzoeken, naar gelang hetgeen van toepassing is, zodanig worden verricht dat de maximumtermijnen tussen de onderzoeken als voorgeschreven in voorschrift E-1 niet worden overschreden.
 
 - 9. Een certificaat afgegeven uit hoofde van voorschrift E-2 of E-3 is niet langer geldig in de volgende gevallen:
 
-- .1. indien de bouw, uitrusting, systemen, onderdelen, voorzieningen en materialen die nodig zijn om volledig te voldoen aan dit Verdrag worden gewijzigd, vervangen of een ingrijpende reparatie ondergaan en op het certificaat niet is aangetekend in overeenstemming met deze Bijlage;
+- .1. bij overdracht van het schip onder de vlag van een andere Staat. Een nieuw certificaat wordt uitsluitend afgegeven wanneer de Partij die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de vereisten van voorschrift E-1. In het geval van een overdracht tussen Partijen zendt de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
 
-- .2. bij overdracht van het schip onder de vlag van een andere Staat. Een nieuw certificaat wordt uitsluitend afgegeven wanneer de Partij die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de vereisten van voorschrift E-1. In het geval van een overdracht tussen Partijen zendt de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie van de andere Partij afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.
+- .2. indien de desbetreffende onderzoeken niet zijn afgerond binnen de termijnen vermeld in voorschrift E-1.1; of
 
-- .3. indien de desbetreffende onderzoeken niet zijn afgerond binnen de termijnen vermeld in voorschrift E-1.1; of
-
-- .4. indien het certificaat niet aangetekend is in overeenstemming met voorschrift E-1.1.
+- .3. indien het certificaat niet aangetekend is in overeenstemming met voorschrift E-1.1.
 
 DONE AT LONDON this thirteenth day of February, two thousand and four.
 
