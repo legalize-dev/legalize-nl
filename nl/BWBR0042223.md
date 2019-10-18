@@ -4,7 +4,7 @@ identifier: "BWBR0042223"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-18"
-last_updated: "2019-01-01"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042223"
 soort: "ministeriele-regeling"
@@ -44,17 +44,17 @@ Besluit:
 
 ##### Artikel 1. Geraamde kosten voor heffingskortingen
 
-De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), voor het jaar 2019 bedragen: € 44.861.200.000.
+De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), voor het jaar 2019 bedragen: € 45.127.300.000.
 
 ##### Artikel 2. Rijksbijdrage in de kosten van heffingskortingen per fonds
 
 Met de toepassing van de formule, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), bedraagt de rijksbijdrage in de kosten van de heffingskortingen per fonds voor het jaar 2019:
 
-- a. ten gunste van het Ouderdomsfonds: € 2.197.000.000;
+- a. ten gunste van het Ouderdomsfonds: € 2.209.900.000;
 
 - b. ten gunste van het Nabestaandenfonds: € 0;
 
-- c. ten gunste van het Fonds langdurige zorg: € 3.688.000.000.
+- c. ten gunste van het Fonds langdurige zorg: € 3.710.000.000.
 
 ##### Artikel 3. Inwerkingtreding
 
