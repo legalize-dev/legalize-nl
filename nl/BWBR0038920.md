@@ -4,7 +4,7 @@ identifier: "BWBR0038920"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-19"
-last_updated: "2018-06-30"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038920"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De beleidsregels voor het verstrekken van subsidies aan ziekenhuizen en de NVZ v
 
 ##### Artikel 2
 
-Dit besluit treedt in werking op 1 januari 2017 en vervalt met ingang van 1 januari 2020.
+Dit besluit treedt in werking op 1 januari 2017 en vervalt met ingang van 1 april 2020.
 
 ##### Artikel 3
 
@@ -84,7 +84,7 @@ Onder download wordt verstaan het digitaal, in een formaat leesbaar op een compu
 
 Of een ziekenhuis module A1 heeft gerealiseerd, wordt beoordeeld op basis van de criteria zoals beschreven in het Handboek VIPP toetsingsprocedure voor de onafhankelijke toetsing door een EDP/IT auditor (zie onderdeel H).
 
-**module A2**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 december 2019 beschikt over een beveiligd patiëntenportaal waarin de patiënt zijn gegevens kan raadplegen en in een gestructureerd formaat kan downloaden of een link naar een persoonlijke gezondheidsomgeving (PGO) waarin het ziekenhuis gestandaardiseerd medische gegevens voor de patiënt kan uploaden, die de patiënt desgewenst kan doorzetten naar een andere zorgverlener. Dit patiëntenportaal of de informatie die naar een PGO wordt geüpload, bevat in elk geval de volgende elementen, dan wel voldoet aan de volgende voorwaarden:
+**module A2**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 maart 2020 beschikt over een beveiligd patiëntenportaal waarin de patiënt zijn gegevens kan raadplegen en in een gestructureerd formaat kan downloaden of een link naar een persoonlijke gezondheidsomgeving (PGO) waarin het ziekenhuis gestandaardiseerd medische gegevens voor de patiënt kan uploaden, die de patiënt desgewenst kan doorzetten naar een andere zorgverlener. Dit patiëntenportaal of de informatie die naar een PGO wordt geüpload, bevat in elk geval de volgende elementen, dan wel voldoet aan de volgende voorwaarden:
 
 Met de implementatie van module A2 door het ziekenhuis wordt bereikt dat een patiënt via een patiëntenportaal of een link, digitaal de beschikking krijgt over zijn medische gegevens zodat hij deze eenvoudig kan gebruiken in zijn contacten met andere zorgverleners of ten behoeve van een goed overzicht van zijn eigen gezondheidssituatie. Om te zorgen dat de patiënt de benodigde gegevens ontvangt en kan gebruiken, wordt voorgeschreven welke gegevens het ziekenhuis moet verstrekken. Het gaat daarbij om gegevens die het ziekenhuis in het kader van het zorgproces heeft vastgelegd in het Elektronisch Patiënten Dossier (hierna: EPD). Ook moet de BGZ gestandaardiseerd worden verstrekt zodat de gegevens voor de patiënt en via de patiënt voor andere hulpverleners ook bruikbaar zijn. Verder dient het ziekenhuis de genoemde gegevens binnen zeven werkdagen nadat deze informatie beschikbaar is, aan de patiënt beschikbaar te stellen in het patiëntenportaal of via de link. De termijn van zeven werkdagen is een uiterste termijn. Daar waar het kan, is het streven om deze informatie realtime te verstrekken.
 
@@ -92,7 +92,7 @@ Een gestructureerde en uploadbare download van de medische gegevens betekent dat
 
 Of het ziekenhuis voornoemd resultaat heeft behaald, wordt beoordeeld basis van de criteria zoals beschreven in het Handboek VIPP toetsingsprocedure voor de onafhankelijke toetsing door een EDP/IT auditor (zie onderdeel H).
 
-**module A3**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 december 2019 tenminste drie van de vijf volgende subdoelstellingen bereikt:
+**module A3**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 maart 2020 tenminste drie van de vijf volgende subdoelstellingen bereikt:
 
 De ziekenhuizen die module A3 aanvragen, hebben in de regel module A1 al bereikt bij de publicatie van deze regeling. Met de subdoelstellingen van module A3 zet het ziekenhuis verdere stappen zodat de bij module A2 ontwikkelde functionaliteit breder kan worden toegepast en er meer gebruik kan worden gemaakt van de mogelijkheden van ICT om de kwaliteit van zorg te verbeteren. De bredere toepasbaarheid van de functionaliteit kan eruit bestaan dat de patiënt digitaal informatie kan geven aan het ziekenhuis dat de betreffende informatie inzet voor zorg aan deze patiënt of dat de patiënt de digitale informatie gebruikt voor aanpassing van de beschikbare informatie in het dossier (subdoelstellingen 1, 3 en 5). Die bredere toepasbaarheid kan ook worden bereikt door een verhoging van het percentage patiënten dat gebruik maakt van het patiëntenportaal of de link naar een PGO (subdoelstelling 2). Het gaat bij dit gebruik zowel om de klinische als de poliklinische patiënten. Omdat bij chronische patiënten het gebruik hoger zal liggen dan bij patiënten die een enkele keer op de poli komen, is gekozen voor een percentage van tenminste 25%. Bredere toepasbaarheid kan tot slot worden bereikt door de patiënt inzicht te geven welke behandelaren zijn EPD hebben geraadpleegd (subdoelstelling 4). Het verstrekken van een overzicht volstaat om deze subdoelstelling te halen. Er hoeft niet te worden aangetoond dat patiënten dit overzicht daadwerkelijk gebruiken. Door tenminste drie van deze subdoelstellingen te behalen, is gewaarborgd dat ziekenhuizen een substantiële stap zetten in de doorontwikkeling van de functionaliteit.
 
@@ -106,7 +106,7 @@ Dit programma bevat de volgende twee modules:
 
 Met module B1 wordt beoogd om het risico van niet beschikbare, onvolledige of gedateerde medicatie-informatie te voorkomen. Nu wordt door het ziekenhuis aan de patiënt zelf gevraagd om bij de openbare apotheek een actueel medicatieoverzicht op te vragen en mee te nemen naar het ziekenhuis. Vervolgens verifieert het ziekenhuis met de patiënt of het actueel overzicht van medicatie overeenkomt met de medicatieafspraken tussen arts en patiënt en het daadwerkelijk gebruik door de patiënt. Door deze medicatie-informatie digitaal beschikbaar te hebben, wordt het risico op onvolledige of gedateerde informatie verlaagd en vervalt de verplichting voor de patiënt om een recent actueel overzicht van medicatie bij de eigen openbare apotheek op te halen.
 
-**module B2**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 december 2019:
+**module B2**: activiteiten die ertoe leiden dat het ziekenhuis uiterlijk 31 maart 2020:
 
 Of het ziekenhuis voornoemde resultaten heeft behaald, wordt beoordeeld op basis van de criteria zoals beschreven in het Handboek VIPP toetsingsprocedure voor de onafhankelijke toetsing door een EDP/IT auditor (zie onderdeel H).
 
@@ -236,7 +236,7 @@ Bij de subsidie voor de koplopers kan een koploperziekenhuis dat over tenminste 
 
 ### 8. Slot
 
-Dit beleidskader treedt in werking met ingang 1 januari 2017 en vervalt met ingang van 1 januari 2020.
+Dit beleidskader treedt in werking met ingang 1 januari 2017 en vervalt met ingang van 1 april 2020.
 
 ### Bijlage 1. Uitgangspunten medmij inzake gegevensuitwisseling ziekenhuis en patiënt
 
