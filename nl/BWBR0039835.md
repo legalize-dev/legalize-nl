@@ -4,7 +4,7 @@ identifier: "BWBR0039835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-19"
-last_updated: "2018-12-04"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039835"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2020.
+2. Dit besluit vervalt met ingang van 1 april 2020.
 
 ##### Artikel 4
 
@@ -106,7 +106,7 @@ Onder download wordt verstaan het digitaal, in een formaat leesbaar op een compu
 
 Of een instelling module A1 heeft gerealiseerd, wordt beoordeeld op basis van de criteria zoals beschreven in het Handboek VIPP toetsingsprocedure voor de onafhankelijke toetsing door een EDP/IT auditor (zie onderdeel G).
 
-**module A2**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 december 2019 beschikt over een beveiligd patiëntenportaal waarin de patiënt zijn gegevens kan raadplegen en in een gestructureerd formaat kan downloaden of een link naar een persoonlijke gezondheidsomgeving (PGO) waarin de overige instelling voor medisch specialistische zorg gestandaardiseerd medische gegevens voor de patiënt kan uploaden, die de patiënt desgewenst kan doorzetten naar een andere zorgverlener. Dit patiëntenportaal of de informatie die naar een PGO wordt geüpload, bevat in elk geval de volgende elementen9De download bevat alleen de medische gegevens die onderdeel zijn van het zorgproces van de patiënt. Vanwege specialisatie van overige instellingen van medisch specialistische zorg kan het voorkomen dat niet alle opgesomde informatie van toepassing is., dan wel voldoet aan de volgende voorwaarden:
+**module A2**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 maart 2020 beschikt over een beveiligd patiëntenportaal waarin de patiënt zijn gegevens kan raadplegen en in een gestructureerd formaat kan downloaden of een link naar een persoonlijke gezondheidsomgeving (PGO) waarin de overige instelling voor medisch specialistische zorg gestandaardiseerd medische gegevens voor de patiënt kan uploaden, die de patiënt desgewenst kan doorzetten naar een andere zorgverlener. Dit patiëntenportaal of de informatie die naar een PGO wordt geüpload, bevat in elk geval de volgende elementen9De download bevat alleen de medische gegevens die onderdeel zijn van het zorgproces van de patiënt. Vanwege specialisatie van overige instellingen van medisch specialistische zorg kan het voorkomen dat niet alle opgesomde informatie van toepassing is., dan wel voldoet aan de volgende voorwaarden:
 
 Met de implementatie van module A2 door de overige instelling voor medisch specialistische zorg wordt bereikt dat een patiënt via een patiëntenportaal of een link, digitaal de beschikking krijgt over zijn medische gegevens zodat hij deze eenvoudig kan gebruiken in zijn contacten met andere zorgverleners of ten behoeve van een goed overzicht van zijn eigen gezondheidssituatie. Om te zorgen dat de patiënt de benodigde gegevens ontvangt en kan gebruiken, wordt voorgeschreven welke gegevens de overige instelling voor medisch specialistische zorg moet verstrekken. Het gaat daarbij om gegevens die de overige instelling voor medisch specialistische zorg in het kader van het zorgproces heeft vastgelegd in het Elektronisch Patiënten Dossier (hierna: EPD). Ook moet de BGZ gestandaardiseerd worden verstrekt zodat de gegevens voor de patiënt en via de patiënt voor andere hulpverleners ook bruikbaar zijn. Verder dient de overige instelling voor medisch specialistische zorg de genoemde gegevens binnen zeven werkdagen nadat deze informatie beschikbaar is, aan de patiënt beschikbaar te stellen in het patiëntenportaal of via de link. De termijn van zeven werkdagen is een uiterste termijn. Daar waar het kan, is het streven om deze informatie realtime te verstrekken.
 
@@ -114,7 +114,7 @@ Een gestructureerde en uploadbare download van de medische gegevens betekent dat
 
 Of een instelling voornoemd resultaat heeft behaald, wordt beoordeeld op basis van de criteria zoals beschreven in het Handboek VIPP toetsingsprocedure voor de onafhankelijke toetsing door een EDP/IT auditor (zie onderdeel G).
 
-**module A3**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 december 2019 tenminste drie van de vijf volgende subdoelstellingen bereikt:
+**module A3**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 maart 2020 tenminste drie van de vijf volgende subdoelstellingen bereikt:
 
 De instellingen die module A3 aanvragen, hebben in de regel module A1 al bereikt bij de publicatie van deze regeling. Met de subdoelstellingen van module A3 zet de overige instelling voor medisch specialistische zorg verdere stappen zodat de bij module A2 ontwikkelde functionaliteit breder kan worden toegepast en er meer gebruik kan worden gemaakt van de mogelijkheden van ICT om de kwaliteit van zorg te verbeteren. De bredere toepasbaarheid van de functionaliteit kan eruit bestaan dat de patiënt digitaal informatie kan geven aan de overige instelling voor medisch specialistische zorg dat de betreffende informatie inzet voor zorg aan deze patiënt of dat de patiënt de digitale informatie gebruikt voor aanpassing van de beschikbare informatie in het dossier (subdoelstellingen 1, 3 en 5). Die bredere toepasbaarheid kan ook worden bereikt door een verhoging van het percentage patiënten dat gebruik maakt van het patiëntenportaal of de link naar een PGO (subdoelstelling 2). Het gaat bij dit gebruik zowel om de klinische als de poliklinische patiënten. Omdat bij chronische patiënten het gebruik hoger zal liggen dan bij patiënten die een enkele keer op de poli komen, is gekozen voor een percentage van tenminste 25%. Bredere toepasbaarheid kan tot slot worden bereikt door de patiënt inzicht te geven welke behandelaren zijn EPD hebben geraadpleegd (subdoelstelling 4). Het verstrekken van een overzicht volstaat om deze subdoelstelling te halen. Er hoeft niet te worden aangetoond dat patiënten dit overzicht daadwerkelijk gebruiken. Door tenminste drie van deze subdoelstellingen te behalen, is gewaarborgd dat overige instellingen voor medisch specialistische zorg een substantiële stap zetten in de doorontwikkeling van de functionaliteit.
 
@@ -280,7 +280,7 @@ Of een instelling voldoet aan voornoemde subsidievoorwaarden voor module A3, wor
 
 ### B. Programma patiënt en medicatie.
 
-**module B2**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 december 2019:
+**module B2**: activiteiten die ertoe leiden dat de overige instelling voor medisch specialistische zorg uiterlijk 31 maart 2020:
 
 ### C. Aanvragen van een subsidie
 
@@ -318,7 +318,7 @@ Gelet op het feit dat het digitaal, gestandaardiseerd en tijdig ontsluiten van i
 
 Het aanvragen van een subsidie door overige instellingen voor medisch specialistische zorg (hoofdstuk 2) heeft gevolgen voor de administratieve lasten en nalevingskosten voor overige instellingen voor medisch specialistische zorg.
 
-Dit beleidskader treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2020.
+Dit beleidskader treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 april 2020.
 
 ### Bijlage 1. Uitgangspunten MedMij inzake gegevensuitwisseling ziekenhuis en patiënt
 
