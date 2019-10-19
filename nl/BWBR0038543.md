@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2019-05-01"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-05-01&g=2019-05-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-10-19&g=2019-10-19) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-05-01&g=2019-05-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-10-19&g=2019-10-19).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2019-05-01&g=2019-05-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2019-10-19&g=2019-10-19)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -270,10 +270,34 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K0004 | Artwork en dessins |
 | K0461 | Digitaal patroontekenen 1 (basis) |
 | K0462 | Digitaal patroontekenen 2 (graderen) |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2019** | **Certificaten voor keuzedelen vanaf oktober 2019** |
+| K0254 | Specialisatie milieustraat en afvalstromenkennis |
+| K1075 | Borrelshop |
+| K0460 | Commercieel technisch bouwadvies |
+| K0660 | Aanleggen van warmtetransportleidingen |
+| K0992 | Lijsten maken en inlijsten |
+| K0858 | Brede verbetermethoden en technieken |
+| K0682 | Inleiding in de levensmiddelentechnologie |
+| K0925 | Op- en overslag van vloeibare bulkproducten op een tankterminal, geschikt voor niveau 2 |
+| K0826 | Productielogistiek |
+| K0441 | Verbreding mechanisch operator in de chemische industrie (geschikt voor niveau 2 en 3) |
+| K0442 | Verbreding procesoperator in de productie-industrie, geschikt voor niveau 2 |
+| K0443 | Verbreding procesoperator in de productie-industrie geschikt voor niveau 3 en 4 |
+| K0417 | Verdieping meng- en scheidingstechnieken industriële processen geschikt voor niveau 2 |
+| K0418 | Verdieping meng- en scheidingstechnieken industriële processen geschikt voor niveau 3 |
+| K0421 | Verdieping productietechniek industriële processen geschikt voor niveau 3 |
+| K0651 | Voeding, industriële processen |
+| K0861 | Duurzame kunststoftechnologie |
+| K0280 | 3D-tekenen |
+| K0812 | Industriële automatisering |
+| K0180 | Verdieping techniek en materialenkennis |
+| K0645 | Verdieping hematologie |
+| K0647 | Verdieping in klinische chemie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2019-05-01&g=2019-05-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2019-10-19&g=2019-10-19)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
