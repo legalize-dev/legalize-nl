@@ -4,7 +4,7 @@ identifier: "BWBR0042420"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-07-19"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042420"
 soort: "wet"
@@ -58,19 +58,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op het accountantsberoep.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-1. Een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54) die is afgegeven voor de inwerkingtreding van [artikel III, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=III&z=2019-07-19&g=2019-07-19), wordt aangemerkt als een verklaring van vakbekwaamheid, afgegeven door de Nederlandse beroepsorganisatie van accountants.
-
-2. Een aanvraag om een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54), die voor de inwerking van [artikel III, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=III&z=2019-07-19&g=2019-07-19), is ingediend bij de Commissie eindtermen accountantsopleiding en waarop ten tijde van de inwerkingtreding van artikel III, onderdeel E, nog niet is beslist, wordt aangemerkt als een aanvraag die is ingediend bij de Nederlandse beroepsorganisatie van accountants.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-1. Deze wet treedt, met uitzondering van [artikel I, onderdelen A, E, G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=I&z=2019-07-19&g=2019-07-19), in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt, met uitzondering van [artikel I, onderdelen A, E, G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=I&z=2019-10-22&g=2019-10-22), in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdelen A, E, G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=I&z=2019-07-19&g=2019-07-19), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdelen A, E, G en I](https://wetten.overheid.nl/jci1.3:c:BWBR0042420&artikel=I&z=2019-10-22&g=2019-10-22), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel VI
 
