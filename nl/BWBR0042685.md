@@ -4,7 +4,7 @@ identifier: "BWBR0042685"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-22"
-last_updated: "2019-03-25"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042685"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=2&z=2019-10-22&g=2019-03-25);
+- a. **commissie:** commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=2&z=2019-10-22&g=2019-10-22);
 
 - b. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -148,7 +148,7 @@ De leden van de commissie zijn:
 
 1. Het archief van de onderzoekscommissie wordt na afloop van het onderzoek overgebracht naar het archief van het ministerie.
 
-2. Het beheer van het archief vindt plaats met inachtneming van het protocol, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=7&z=2019-10-22&g=2019-03-25).
+2. Het beheer van het archief vindt plaats met inachtneming van het protocol, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=7&z=2019-10-22&g=2019-10-22).
 
 ##### Artikel 12. Inwerkingtreding
 
