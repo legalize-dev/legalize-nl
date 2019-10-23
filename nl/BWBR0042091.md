@@ -4,7 +4,7 @@ identifier: "BWBR0042091"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-10-23"
-last_updated: "2019-04-03"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042091"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- •. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-04-03&g=2019-04-03);
+- •. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042091&artikel=2&z=2019-10-23&g=2019-10-23);
 
 - •. **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
@@ -104,13 +104,17 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 ##### Artikel 8. Vergoeding
 
-1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden. Twee of meer vergaderingen per dag worden als één vergadering beschouwd.
+1. De voorzitter en de andere leden ontvangen een vaste vergoeding per maand, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 13 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-2. De vergoeding per vergadering van de leden bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. Het aantal uren dat vergoed wordt bedraagt voor:
 
-3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.
+- a. de voorzitter 100 uur per maand
 
-4. De voorzitter van de commissie is verantwoordelijk voor het declareren van de vergoeding ten behoeve van alle leden. De voorzitter declareert de vergoeding in twee termijnen bij de directie Primair Onderwijs (po) van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+- b. mevrouw drs. M. Poelman 20 uur per maand
+
+- c. mevrouw dr. L. Hoogeveen 8 uur per maand
+
+- d. de heer D.J. van Hennik 60 uur per maand
 
 ##### Artikel 9. Kosten van de commissie
 
@@ -118,7 +122,7 @@ De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de m
 
 ##### Artikel 10. Verantwoording
 
-De commissie biedt de minister vóór 1 augustus een eindverslag aan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister vóór 1 augustus 2020 een eindverslag aan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 11. Openbaarmaking
 
