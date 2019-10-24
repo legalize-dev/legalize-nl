@@ -4,7 +4,7 @@ identifier: "BWBR0017779"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-06-20"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017779"
 soort: "AMvB"
@@ -72,7 +72,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
 
-- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
+- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24) zijn genoemd en die een emissie van een in die bijlage bij de betrokken activiteit aangeduid broeikasgas veroorzaken;
 
 - b. op grond van artikel 24 van de EG-richtlijn handel in broeikasgasemissierechten in het systeem van handel in broeikasgasemissierechten opgenomen: met ingang van de in de beschikking van de Europese Commissie tot goedkeuring van die opneming genoemde datum.
 
@@ -82,7 +82,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 2. De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten, indien:
 
-- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20), niet wordt overschreden;
+- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24), niet wordt overschreden;
 
 - b. de broeikasgasinstallatie waarin de activiteiten worden verricht, zich bevindt in een inrichting bestemd voor het verbranden van gevaarlijke of huishoudelijke afvalstoffen of bestemd voor onderzoek, ontwikkeling of beproeving van nieuwe processen of producten;
 
@@ -92,13 +92,15 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 - e. zich in de broeikasgasinstallatie waarin de activiteiten worden verricht, een reserve, achtervang of parallelle eenheid bevindt die niet gelijktijdig in werking kan zijn met andere eenheden en:
 
-- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
+- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
 
-- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20), op geen enkel moment kunnen worden overschreden;
+- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24), op geen enkel moment kunnen worden overschreden;
 
 - 3°. de technische restrictie, bedoeld onder 2°, gemeld is aan het bestuur van de emissieautoriteit, en
 
-- 4°. voldaan wordt aan de bij ministeriële regeling gestelde regels.
+- 4°. voldaan wordt aan de bij ministeriële regeling gestelde regels;
+
+- f. de broeikasgasinstallatie op grond van artikel 27bis van de EG-richtlijn handel in broeikasgasemissierechten op verzoek van de exploitant van de broeikasgasinstallatie is uitgesloten van het systeem van handel in broeikasgasemissierechten en minder dan 2500 ton CO2-equivalenten aan emissies heeft gerapporteerd aan het bestuur van de emissieautoriteit, uitgezonderd emissies van biomassa, in elk van de drie jaren voorafgaand aan het moment van aanmelding bij de Europese Commissie en voldaan wordt aan de bij ministeriële regeling gestelde regels.
 
 3. De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten binnen:
 
@@ -124,9 +126,9 @@ Vervallen
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen en met inachtneming van bij die regeling te stellen eisen:
 
-- a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
+- a. bij het bepalen van de jaarvracht van een inrichting tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
 
-- b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2015-06-20&g=2015-06-20) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
+- b. bij het bepalen van de jaarvracht van een inrichting geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de inrichting worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2019-10-24&g=2019-10-24) is genoemd, indien de bron van die emissies zich buiten de inrichting bevindt;
 
 ##### Artikel 6
 
@@ -154,9 +156,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. Het afgeven van een verklaring als bedoeld in [artikel 16.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.12) geschiedt door een verificateur die werkzaam is bij een verificatie-instelling die ter zake is geaccrediteerd door een accreditatie-instantie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin.
-
-2. In afwijking van het eerste lid kan een dergelijke verklaring tevens worden afgegeven door een verificatie-instelling ten aanzien waarvan de Raad voor Accreditatie het vooronderzoek heeft afgerond, en ten aanzien waarvan het accreditatieproces nog niet is geëindigd.
+Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -541,13 +541,13 @@ Vervallen
 
 ##### Artikel 12g
 
-Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2015-06-20&g=2015-06-20) van overeenkomstige toepassing.
+Op het afgeven van een verklaring, als bedoeld in de [artikelen 16.39f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39f), en [16.39j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.39j), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2019-10-24&g=2019-10-24) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ## Bijlage I. behorende bij het Besluit handel in emissierechten
 
-Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2015-06-20&g=2015-06-20):
+Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-10-24&g=2019-10-24):
 
 | **Activiteiten** | **Broeikasgassen** |
 | --- | --- |
