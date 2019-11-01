@@ -4,7 +4,7 @@ identifier: "BWBR0039393"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2017-05-10"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039393"
 soort: "wet"
@@ -96,8 +96,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de loonvorming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
@@ -138,7 +136,7 @@ De krachtens [artikel 125, eerste lid, onderdeel m, van de Ambtenarenwet](https:
 
 ##### Artikel XI
 
-1. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=X&z=2017-05-10&g=2017-05-10) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.1Op grond van artikel 8, tweede lid, van de Wet raadgevend referendum is de inwerkingtreding van deze wet opgeschort tot 10 mei 2017.
+1. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=X&z=2019-11-01&g=2019-11-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.1Op grond van artikel 8, tweede lid, van de Wet raadgevend referendum is de inwerkingtreding van deze wet opgeschort tot 10 mei 2017.
 
 2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
