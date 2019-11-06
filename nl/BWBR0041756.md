@@ -4,7 +4,7 @@ identifier: "BWBR0041756"
 country: "nl"
 rank: "wet"
 publication_date: "2019-11-06"
-last_updated: "2019-01-01"
+last_updated: "2019-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041756"
 soort: "wet"
@@ -60,11 +60,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 
-- a. [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=I&z=2019-01-01&g=2019-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2019;
+- a. [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=I&z=2019-11-06&g=2019-11-06) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2019;
 
-- b. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=II&z=2019-01-01&g=2019-01-01) voor het eerst toepassing vindt met betrekking tot belastingschulden waarvoor op of na 1 januari 2019 uitstel van betaling is verleend.
+- b. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=II&z=2019-11-06&g=2019-11-06) voor het eerst toepassing vindt met betrekking tot belastingschulden waarvoor op of na 1 januari 2019 uitstel van betaling is verleend.
 
-2. In afwijking van het eerste lid treedt [artikel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=IIa&z=2019-01-01&g=2019-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat artikel IIA terugwerkt tot en met 1 januari 2019.
+2. In afwijking van het eerste lid treedt [artikel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=IIa&z=2019-11-06&g=2019-11-06) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat artikel IIA terugwerkt tot en met 1 januari 2019.
 
 ##### Artikel IV
 
