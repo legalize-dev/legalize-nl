@@ -4,7 +4,7 @@ identifier: "BWBR0041799"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2019-01-01"
+last_updated: "2019-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041799"
 soort: "ministeriele-regeling"
@@ -214,37 +214,37 @@ De volgende regelingen worden ingetrokken:
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 
-- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=V&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 januari 2012;
+- a. [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=V&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 januari 2012;
 
-- b. [artikel IV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=IV&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 januari 2016;
+- b. [artikel IV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=IV&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 januari 2016;
 
-- c. [artikel X, onderdeel X, onder 3°, en onderdeel Y, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 mei 2016;
+- c. [artikel X, onderdeel X, onder 3°, en onderdeel Y, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 mei 2016;
 
-- d. [artikel X, onderdeel X, onder 1°, en onderdeel Y, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 september 2016;
+- d. [artikel X, onderdeel X, onder 1°, en onderdeel Y, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 september 2016;
 
-- e. [artikel IV, onderdeel D, onder 2, tweede zin, en onderdeel E, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=IV&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 januari 2017;
+- e. [artikel IV, onderdeel D, onder 2, tweede zin, en onderdeel E, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=IV&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 januari 2017;
 
-- f. [artikel X, onderdeel V, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 14 november 2017;
+- f. [artikel X, onderdeel V, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 14 november 2017;
 
-- g. de [artikelen XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIX&z=2019-01-01&g=2019-01-01), en [XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVIII&z=2019-01-01&g=2019-01-01) terugwerken tot en met 1 januari 2018;
+- g. de [artikelen XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIX&z=2019-11-06&g=2019-11-06), en [XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVIII&z=2019-11-06&g=2019-11-06) terugwerken tot en met 1 januari 2018;
 
-- h. [artikel XXVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVI&z=2019-01-01&g=2019-01-01), in de openbare lichamen Bonaire, Sint Eustatius en Saba terugwerkt tot en met 1 april 2018, 00:00 uur, en in het Europese deel van Nederland terugwerkt tot en met 1 april 2018, 06.00 uur.
+- h. [artikel XXVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVI&z=2019-11-06&g=2019-11-06), in de openbare lichamen Bonaire, Sint Eustatius en Saba terugwerkt tot en met 1 april 2018, 00:00 uur, en in het Europese deel van Nederland terugwerkt tot en met 1 april 2018, 06.00 uur.
 
-- i. [artikel X, onderdeel V, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 mei 2018;
+- i. [artikel X, onderdeel V, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 mei 2018;
 
-- j. [artikel X, onderdeel X, onder 5°, en onderdeel Y, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 juni 2018;
+- j. [artikel X, onderdeel X, onder 5°, en onderdeel Y, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 juni 2018;
 
-- k. [artikel X, onderdelen M, N en U](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-01-01&g=2019-01-01), terugwerkt tot en met 1 november 2018;
+- k. [artikel X, onderdelen M, N en U](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=X&z=2019-11-06&g=2019-11-06), terugwerkt tot en met 1 november 2018;
 
-- l. [artikel XIX, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIX&z=2019-01-01&g=2019-01-01), voor het eerst toepassing vindt met betrekking tot belastingschulden waarvoor op of na 1 januari 2019 uitstel van betaling is verleend.
+- l. [artikel XIX, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIX&z=2019-11-06&g=2019-11-06), voor het eerst toepassing vindt met betrekking tot belastingschulden waarvoor op of na 1 januari 2019 uitstel van betaling is verleend.
 
-2. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel B, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XVIII&z=2019-01-01&g=2019-01-01), in werking op het tijdstip waarop de Wet vereenvoudiging beslagvrije voet in werking treedt.
+2. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel B, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XVIII&z=2019-11-06&g=2019-11-06), in werking op het tijdstip waarop de Wet vereenvoudiging beslagvrije voet in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVII&z=2019-01-01&g=2019-01-01) in werking op het tijdstip waarop [artikel IIA van de Wet implementatie eerste EU-richtlijn antibelastingontwijking](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=IIa) in werking treedt. Indien wordt bepaald dat artikel IIA van de Wet implementatie eerste EU-richtlijn antibelastingontwijking terugwerkt tot en met 1 januari 2019, werkt ook artikel XXVII terug tot en met 1 januari 2019.
+3. In afwijking van het eerste lid treedt [artikel XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXVII&z=2019-11-06&g=2019-11-06) in werking op het tijdstip waarop [artikel IIA van de Wet implementatie eerste EU-richtlijn antibelastingontwijking](https://wetten.overheid.nl/jci1.3:c:BWBR0041756&artikel=IIa) in werking treedt. Indien wordt bepaald dat artikel IIA van de Wet implementatie eerste EU-richtlijn antibelastingontwijking terugwerkt tot en met 1 januari 2019, werkt ook artikel XXVII terug tot en met 1 januari 2019.
 
-4. In afwijking van het eerste lid treedt [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXV&z=2019-01-01&g=2019-01-01) in de openbare lichamen Bonaire, Sint Eustatius en Saba met ingang van 1 januari 2019, 0.00 uur, in werking en in het Europese deel van Nederland met ingang van 1 januari 2019, 05.00 uur.
+4. In afwijking van het eerste lid treedt [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XXV&z=2019-11-06&g=2019-11-06) in de openbare lichamen Bonaire, Sint Eustatius en Saba met ingang van 1 januari 2019, 0.00 uur, in werking en in het Europese deel van Nederland met ingang van 1 januari 2019, 05.00 uur.
 
-5. In afwijking van het eerste lid treedt [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIII&z=2019-01-01&g=2019-01-01) in werking met ingang van 1 januari 2020.
+5. In afwijking van het eerste lid treedt [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041799&artikel=XIII&z=2019-11-06&g=2019-11-06) in werking met ingang van 1 januari 2020.
 
 Handelende wat de [artikelen 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.36) en [3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) betreft in overeenstemming met de Minister van Economische Zaken en Klimaat;
 
