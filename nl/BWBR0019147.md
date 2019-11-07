@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2019-04-01"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012 en het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
 
 - a. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
 
@@ -76,7 +76,7 @@ Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012 en het [Beslu
 
 - j. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
 
-- k. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
+- k. vluchten zijn toegestaan in luchtruim met klasse C of D, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
 
 - l. de regels voor de bediening van boordapparatuur voor het beantwoorden van vragen door radargrondstations gelden niet;
 
