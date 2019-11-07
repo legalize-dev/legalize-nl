@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2014-12-12"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
 
-- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12);
+- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2019-11-07&g=2019-11-07);
 
 - k. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
 
@@ -160,7 +160,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2019-11-07&g=2019-11-07).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -172,7 +172,9 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 - d. de AIS-unit Maastricht;
 
-- e. de burger AIS-unit Eindhoven.
+- e. de burger AIS-unit Eindhoven;
+
+- f. de AIS-unit Lelystad.
 
 ##### Artikel 14
 
@@ -182,21 +184,21 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - a. Op de volgende luchthavens en luchtvaartterreinen worden de luchtvaartinlichtingen beschikbaar gesteld via een zelfbedieningsdienst:
 
-| Internationale luchthavens | Cat | Dekkingsgebied |
+| Internationale luchthavens | Cat. | Dekkingsgebied |
 | --- | --- | --- |
-| Amsterdam/Schiphol | A | Africa-Indian Ocean Region; Caribbean and South American Region; European and North Atlantic Region; Middle east and South East Asia region; North American Region |
+| Amsterdam/Schiphol | A | Africa-Indian Ocean Region; Caribbean and South American Region; European and North Atlantic Region; Middle East and South East Asia Region; North American Region |
 | Groningen/Eelde | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
 | Maastricht/Maastricht Aachen | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
-| Eindhoven/ Eindhoven | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
+| Eindhoven/Eindhoven | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
 | Rotterdam/Rotterdam | B | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
+| Lelystad/Lelystad | B | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland |
 
-| Internationale luchtvaartterreinen | Cat | Dekkingsgebied |
+| Internationale luchtvaartterreinen | Cat. | Dekkingsgebied |
 | --- | --- | --- |
 | Deventer/Teuge | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
 | Hilversum/Hilversum | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
 | Hoeven/Seppe | C | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
 | Hoogeveen/Hoogeveen | C | Nederland; Duitsland |
-| Lelystad/Lelystad | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland |
 | Middelburg/Midden-Zeeland | C | België/Luxemburg; Duitsland; Nederland; Verenigd Koninkrijk |
 | Texel/Texel | C | België/Luxemburg; Duitsland; Nederland |
 | Ameland/Ameland | D | Nederland |
@@ -263,7 +265,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2014-12-12&g=2014-12-12), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2019-11-07&g=2019-11-07), verstrekt aan:
 
 - a. luchtvarenden;
 
