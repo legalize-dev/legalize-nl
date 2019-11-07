@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-04-25"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 4. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
-5. Voor het naderen en vertrekken van de luchthaven Schiphol is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
+5. Voor het naderen en vertrekken van de luchthaven Schiphol of de luchthaven Lelystad is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol, en de naderingsgebieden van Lelystad te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen ten aanzien van RNAV 1, zoals opgenomen in Certification Specification CS-ACNS Issue 2 van EASA’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
 
 ##### Artikel 4
 
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2018-04-25&g=2018-04-25) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2019-11-07&g=2019-11-07) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -283,7 +283,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2018-04-25&g=2018-04-25), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2019-11-07&g=2019-11-07), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -339,7 +339,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2018-04-25&g=2018-04-25) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2019-11-07&g=2019-11-07) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
