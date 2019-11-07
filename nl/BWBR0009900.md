@@ -4,7 +4,7 @@ identifier: "BWBR0009900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2017-07-01"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009900"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Vliegplangegevens en de wijze van indienen van het vliegplan
 
-1. Voor het opgeven van de gegevens van een vliegplan wordt gebruik gemaakt van het vliegplan-formulier, en de daarbij behorende aanwijzingen, als aangegeven in de [bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A1&z=2017-07-01&g=2017-07-01) en [A2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A2&z=2017-07-01&g=2017-07-01) onder verwijzing naar de bladzijden in de luchtvaartgids, hoofdstuk ENR 1-10. Van wijzigingen in deze bladzijden van de luchtvaartgids wordt mededeling gedaan in de Staatscourant. [Bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A1&z=2017-07-01&g=2017-07-01) en [A2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A2&z=2017-07-01&g=2017-07-01) liggen ter inzage bij de Luchtverkeersleiding Nederland, FSC.
+1. Voor het opgeven van de gegevens van een vliegplan wordt gebruik gemaakt van het vliegplan-formulier, en de daarbij behorende aanwijzingen, als aangegeven in de [bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A1&z=2019-11-07&g=2019-11-07) en [A2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A2&z=2019-11-07&g=2019-11-07) onder verwijzing naar de bladzijden in de luchtvaartgids, hoofdstuk ENR 1-10. Van wijzigingen in deze bladzijden van de luchtvaartgids wordt mededeling gedaan in de Staatscourant. [Bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A1&z=2019-11-07&g=2019-11-07) en [A2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=A2&z=2019-11-07&g=2019-11-07) liggen ter inzage bij de Luchtverkeersleiding Nederland, FSC.
 
 2. Voor het opgeven van de gegevens van een vliegplan voor een VFR-vlucht waarvoor geen vliegplan is vereist, met het doel eventuele opsporing en redding te vergemakkelijken, volstaat een melding van de volgende gegevens:
 
@@ -130,13 +130,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Plaats en moment van indienen van het vliegplan
 
-1. Een vliegplan voor een GAT IFR-vlucht of een gedeelte daarvan wordt door middel van een vliegplanverzendsysteem vanaf de luchthaven van vertrek ingediend bij FSC. Indien op de luchthaven van vertrek geen vliegplanverzendsysteem beschikbaar is, wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2017-07-01&g=2017-07-01).
+1. Een vliegplan voor een GAT IFR-vlucht of een gedeelte daarvan wordt door middel van een vliegplanverzendsysteem vanaf de luchthaven van vertrek ingediend bij FSC. Indien op de luchthaven van vertrek geen vliegplanverzendsysteem beschikbaar is, wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2019-11-07&g=2019-11-07).
 
-2. Een vliegplan voor andere vluchten als bedoeld in het eerste lid, wordt ingediend bij een luchtverkeersmeldingspost op de luchthaven van vertrek. Indien op de luchthaven van vertrek geen luchtverkeersmeldingspost aanwezig is wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2017-07-01&g=2017-07-01).
+2. Een vliegplan voor andere vluchten als bedoeld in het eerste lid, wordt ingediend bij een luchtverkeersmeldingspost op de luchthaven van vertrek. Indien op de luchthaven van vertrek geen luchtverkeersmeldingspost aanwezig is wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2019-11-07&g=2019-11-07).
 
 3. Wanneer op de voorgenomen route maatregelen van kracht zijn met betrekking tot ATFM, wordt een vliegplan ten minste drie uur vóór de aanvang van de vlucht ingediend.
 
-4. In afwijking van het tweede lid, wordt een vliegplan als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2017-07-01&g=2017-07-01), voor de aanvang van de vlucht ingediend, bij de havendienst van de luchthaven van vertrek en bij de havendienst van de luchthaven van bestemming.
+4. In afwijking van het tweede lid, wordt een vliegplan als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2019-11-07&g=2019-11-07), voor de aanvang van de vlucht ingediend, bij de havendienst van de luchthaven van vertrek en bij de havendienst van de luchthaven van bestemming.
 
 ##### Artikel 5. Wijzigen en annuleren van het ingediende vliegplan
 
@@ -152,19 +152,19 @@ Onverminderd het bepaalde in paragraaf SERA.4015 van de verordening (EU) 923/201
 
 ##### Artikel 6. Afsluiten vliegplan en aankomstmelding
 
-Indien op de luchthaven van bestemming geen verlener van luchtverkeersdiensten is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de verlener van luchtverkeersdiensten als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2017-07-01&g=2017-07-01).
+Indien op de luchthaven van bestemming geen verlener van luchtverkeersdiensten is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de verlener van luchtverkeersdiensten als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2019-11-07&g=2019-11-07).
 
 #### Afwijkingen voor bepaalde vluchten
 
 ##### Artikel 7
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2017-07-01&g=2017-07-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2017-07-01&g=2017-07-01), zijn in het vluchtinformatiegebied Amsterdam niet van toepassing op een vlucht vertrekkend van een gecontroleerde luchthaven, indien de betrokken verlener van luchtverkeersdiensten anders heeft bepaald, met dien verstande dat geen afbreuk wordt gedaan aan de volledigheid en tijdige verzending van vliegplangegevens ten behoeve van andere verleners van luchtverkeersdiensten.
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2019-11-07&g=2019-11-07), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2019-11-07&g=2019-11-07), zijn in het vluchtinformatiegebied Amsterdam niet van toepassing op een vlucht vertrekkend van een gecontroleerde luchthaven, indien de betrokken verlener van luchtverkeersdiensten anders heeft bepaald, met dien verstande dat geen afbreuk wordt gedaan aan de volledigheid en tijdige verzending van vliegplangegevens ten behoeve van andere verleners van luchtverkeersdiensten.
 
 ##### Artikel 8
 
 1. Indien op de luchthaven van vertrek geen luchtverkeersmeldingspost aanwezig is dan wel gesloten is, wordt vóór de aanvang van de in [artikel 16, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=16) genoemde vlucht het vliegplan bij de havenmeester of de vliegcoördinator van de luchthaven van vertrek ingediend.
 
-2. De in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2017-07-01&g=2017-07-01), opgenomen vliegplangegevens worden vóór de aanvang van de in het eerste lid genoemde vlucht gemeld aan de havenmeester of de vliegcoördinator van de luchthaven van bestemming.
+2. De in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2019-11-07&g=2019-11-07), opgenomen vliegplangegevens worden vóór de aanvang van de in het eerste lid genoemde vlucht gemeld aan de havenmeester of de vliegcoördinator van de luchthaven van bestemming.
 
 3. De aankomstmelding wordt gedaan aan de havenmeester of de vliegcoördinator van de luchthaven van aankomst tenzij de landing plaatsvindt op een gecontroleerde militaire luchthaven tijdens de openstellingsuren van de plaatselijke verlener van luchtverkeersleidingsdiensten.
 
@@ -176,39 +176,37 @@ De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&art
 
 2. De havenmeester of de vliegcoördinator van de luchthaven van bestemming, vraagt, als de vlucht bij hem bekend is en de aankomstmelding van het luchtvaartuig niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst volgens het ingediende vliegplan, de actuele tijd van vertrek alsmede de van belang zijnde gegevens van het geldende vliegplan telefonisch op bij de havenmeester, de vliegcoördinator of de luchtverkeersmeldingspost van de luchthaven van vertrek.
 
-3. Indien de aankomstmelding niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst volgens het geldend vliegplan, waarschuwt de havenmeester, de vliegcoordinator of de luchtverkeersmeldingspost van de luchthaven van bestemming zo spoedig mogelijk de supervisor van AOCS Nieuw Milligen, of voor vluchten met bestemming de luchthaven Lelystad, de supervisor van Amsterdam ACC.
+3. Indien de aankomstmelding niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst volgens het geldend vliegplan, waarschuwt de havenmeester, de vliegcoordinator of de luchtverkeersmeldingspost van de luchthaven van bestemming zo spoedig mogelijk de supervisor van AOCS Nieuw Milligen.
 
 De supervisor stelt zo spoedig mogelijk de havenmeester of de vliegcoördinator, van de luchthaven van vertrek van de alarmering in kennis.
 
 4. Voor een vlucht met als bestemming een ongecontroleerde luchthaven buiten het vluchtinformatiegebied Amsterdam stelt de havenmeester, de vliegcoördinator of de luchtver-keersmeldingspost van de luchthaven van vertrek, wanneer een bericht als bedoeld in het derde lid, wordt ontvangen van een luchthaven buiten het vluchtinformatiegebied Amsterdam, zo spoedig mogelijk de supervisor van AOCS Nieuw Milligen van de alarmering in kennis.
 
-Voor vluchten die zijn vertrokken van de luchthaven Lelystad wordt de supervisor van Amsterdam ACC in kennis gesteld.
-
 ##### Artikel 10. Gebruik RPL
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2017-07-01&g=2017-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2017-07-01&g=2017-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=5&z=2017-07-01&g=2017-07-01) zijn niet van toepassing op een IFR-vlucht waarvoor een RPL is ingediend. Een RPL kan worden gebruikt voor een IFR-vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor ten minste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2019-11-07&g=2019-11-07), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2019-11-07&g=2019-11-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=5&z=2019-11-07&g=2019-11-07) zijn niet van toepassing op een IFR-vlucht waarvoor een RPL is ingediend. Een RPL kan worden gebruikt voor een IFR-vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor ten minste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.
 
 2. Een RPL wordt slechts gebruikt voor vluchten, die vanaf de luchthaven van vertrek tot de luchthaven van bestemming worden uitgevoerd.
 
 ##### Artikel 11. Het indienen van een RPL
 
-1. Een RPL wordt ingediend in de vorm van een lijst die de vereiste vliegplangegevens bevat, gebruik makend van het model in [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2017-07-01&g=2017-07-01), overeenkomstig de aanwijzigingen gegeven in [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C2&z=2017-07-01&g=2017-07-01) of in een andere overeengekomen vorm.
+1. Een RPL wordt ingediend in de vorm van een lijst die de vereiste vliegplangegevens bevat, gebruik makend van het model in [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2019-11-07&g=2019-11-07), overeenkomstig de aanwijzigingen gegeven in [bijlage C2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C2&z=2019-11-07&g=2019-11-07) of in een andere overeengekomen vorm.
 
 2. De lijst wordt ingediend bij het IFPS, welke instantie zorg draagt voor het doorgeven van de toepasselijke vliegplangegevens aan andere betrokken verleners van luchtverkeersdiensten in de desbetreffende vluchtinformatiegebieden.
 
 3. Een RPL wordt tijdig ingediend doch uiterlijk op een zodanig tijdstip dat de geadresseerde ten minste 21 dagen voorafgaand aan de datum van de eerste vlucht van de betrokken reeks vluchten wordt bereikt.
 
-4. De in [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2017-07-01&g=2017-07-01) genoemde vliegplangegevens worden verstrekt. Voor zover de betrokken verlener van luchtverkeersdiensten dit nodig acht, worden vliegplangegevens verstrekt inzake de berekende duur van de vlucht vanaf het opstijgen tot het passeren van de grens tussen bepaalde vluchtinformatiegebieden en de voornaamste uitwijkhaven.
+4. De in [bijlage C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2019-11-07&g=2019-11-07) genoemde vliegplangegevens worden verstrekt. Voor zover de betrokken verlener van luchtverkeersdiensten dit nodig acht, worden vliegplangegevens verstrekt inzake de berekende duur van de vlucht vanaf het opstijgen tot het passeren van de grens tussen bepaalde vluchtinformatiegebieden en de voornaamste uitwijkhaven.
 
 5. Vliegplangegevens die niet van repeterende aard zijn worden door of namens de gezagvoerder ten tijde van het vertrek van het luchtvaartuig verzonden naar het IFPS.
 
-6. De [bijlagen C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2017-07-01&g=2017-07-01) en [C2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C2&z=2017-07-01&g=2017-07-01) liggen ter inzage bij de Luchtverkeersleiding Nederland.
+6. De [bijlagen C1](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C1&z=2019-11-07&g=2019-11-07) en [C2](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=C2&z=2019-11-07&g=2019-11-07) liggen ter inzage bij de Luchtverkeersleiding Nederland.
 
 ##### Artikel 12. RPL-wijziging van duurzame aard
 
 1. RPL-wijzigingen van duurzame aard, betreffende het invoegen van nieuwe vluchten en het annuleren of wijzigen van bestaande vluchten, worden ingediend in de vorm van gewijzigde lijsten, die het IFPS ten minste twee weken voordat ze van kracht worden bereiken.
 
-2. RPL-wijzigingslijsten worden opgesteld overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=11&z=2017-07-01&g=2017-07-01).
+2. RPL-wijzigingslijsten worden opgesteld overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=11&z=2019-11-07&g=2019-11-07).
 
 ##### Artikel 13. RPL-wijziging van incidentele aard
 
@@ -248,7 +246,7 @@ Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
 
 Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
 
-## Bijlage B. behorende bij [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2017-07-01&g=2017-07-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=6&z=2017-07-01&g=2017-07-01)
+## Bijlage B. behorende bij [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2019-11-07&g=2019-11-07), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=6&z=2019-11-07&g=2019-11-07)
 
 | Luchthaven | Bevoegde luchtverkeersmeldingspost |
 | --- | --- |
@@ -257,7 +255,6 @@ Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
 | Drachten (EHDR) | luchtverkeersmeldingspost Schiphol |
 | Hilversum (EHHV) | luchtverkeersmeldingspost Schiphol |
 | Hoogeveen (EHHO) | luchtverkeersmeldingspost Schiphol |
-| Lelystad (EHLE) | luchtverkeersmeldingspost Schiphol |
 | Midden Zeeland (EHMZ) | luchtverkeersmeldingspost Schiphol |
 | Noordoostpolder (EHNP) | luchtverkeersmeldingspost Schiphol |
 | Seppe (EHSE) | luchtverkeersmeldingspost Schiphol |
