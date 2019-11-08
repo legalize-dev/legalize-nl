@@ -4,7 +4,7 @@ identifier: "BWBR0039881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2019-11-01"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039881"
 soort: "ministeriele-regeling"
@@ -79,9 +79,9 @@ Het pensioengevend inkomen bestaat uit:
 
 - h. de aanspraken op grond van [artikel 62 van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62), indien en voor zover de minister dit bepaalt;
 
-- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2019-08-16&g=2019-11-01) van deze regeling;
+- i. de toelage bezwarende arbeidsomstandigheden burgerpersoneel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=5&z=2019-11-08&g=2019-11-08) van deze regeling;
 
-- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2019-08-16&g=2019-11-01) van deze regeling;
+- j. de duiktoelage, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=2&artikel=6&z=2019-11-08&g=2019-11-08) van deze regeling;
 
 - k. de overgangstoelage personenchauffeur, bedoeld in [artikel 11 van het Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=11);
 
@@ -173,7 +173,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 ##### Artikel 6. Duiktoelage
 
-1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2019-08-16&g=2019-11-01).
+1. De ambtenaar die als duiker of leerling-duiker een dienstopdracht buiten een onderwaterlaboratorium in het water of onder water uitvoert, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 14 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2019-11-08&g=2019-11-08).
 
 2. Voor de toepassing van het eerste lid wordt:
 
@@ -187,7 +187,7 @@ Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in [artikel 
 
 1. In dit artikel wordt verstaan onder onderwaterlaboratorium: een in het water neergelaten toestel waarin de druk gelijk kan worden gemaakt aan de omgevende waterdruk en waarin zodanige voorzieningen zijn aangebracht dat één of meerdere personen daarin gedurende langere tijd en zonder gebruikmaking van ademhalingsapparatuur kunnen verblijven.
 
-2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2019-08-16&g=2019-11-01).
+2. De ambtenaar die in opdracht van de commandant voor het verrichten van duikopdrachten, voor het verrichten of ondergaan van een keuring of een medische behandeling of voor een proefneming moet verblijven in een onderwaterlaboratorium, heeft aanspraak op een toelage, waarvan het bedrag wordt vastgesteld met toepassing van [tabel 15 van de Inkomstenregeling militairen](onbekend) en de groepsindeling, zoals vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=1&artikel=1&z=2019-11-08&g=2019-11-08).
 
 3. De bedragen, bedoeld in het tweede lid, worden verdubbeld, indien wordt verbleven in een onverwarmd onderwaterlaboratorium binnen de poolcirkel of in het tijdvak van 1 oktober tot en met 30 april in de gematigde luchtstreken.
 
@@ -343,7 +343,7 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 - b. vijf jaar vóór de datum waarop hij aanspraak zou hebben gehad op een gratificatie wegens trouwe dienst bij het bereiken van een diensttijd van vijfentwintig, veertig of vijftig jaar.
 
-5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2019-08-16&g=2019-11-01), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
+5. De proportionele diensttijdgratificatie wordt vastgesteld op een evenredig deel van de gratificatie wegens trouwe dienst ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&hoofdstuk=3&artikel=8&z=2019-11-08&g=2019-11-08), gemeten naar de verhouding van de daadwerkelijke diensttijd in jaren en maanden en de in dat artikel genoemde diensttijd in jaren en maanden.
 
 6. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die in voorkomend geval zijn verschuldigd over een proportionele diensttijdgratificatie die is afgeleid van een diensttijdgratificatie wegens vijfentwintig of veertig jaar trouwe dienst, als bedoeld in het tweede lid, onderdeel b, en in het vierde lid, onderdeel b, komen voor rekening van Defensie.
 
@@ -355,21 +355,23 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 ##### Artikel 11. Tegemoetkoming in de kosten van representatie
 
-- 1. Voor de toepassing van dit artikel wordt verstaan onder representatie: het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de belangen van de Staat, het Ministerie van Defensie, een defensieonderdeel of een tot een defensieonderdeel behorende organisatie-eenheid te vertegenwoordigen.
+1. Voor de toepassing van dit artikel wordt verstaan onder representatie:
 
-- 2. De ambtenaar die een functie bekleedt waarvan voor de vervulling naar het oordeel van het hoofd defensieonderdeel voortdurende representatie is vereist, in verband waarmee hij is gehouden zelf het initiatief te nemen, heeft aanspraak op een maandelijkse tegemoetkoming in de daaraan verbonden kosten.
+het op formele wijze ontvangen en bezoeken van zakenrelaties met het oogmerk de belangen van de Staat, het Ministerie van Defensie, een defensieonderdeel of een tot een defensieonderdeel behorende organisatie-eenheid te vertegenwoordigen.
 
-- 3. De tegemoetkoming wordt toegekend door het hoofd defensieonderdeel en wordt gevonden door het in het zesde lid opgenomen basisbedrag te vermenigvuldigen met een door het hoofd defensieonderdeel toe te kennen aantal punten.
+2. De ambtenaar die een functie bekleedt waarvan voor de vervulling naar het oordeel van het hoofd defensieonderdeel voortdurende representatie is vereist, in verband waarmee hij is gehouden zelf het initiatief te nemen, heeft aanspraak op een maandelijkse tegemoetkoming in de daaraan verbonden kosten.
 
-- 4. Het toe te kennen aantal punten wordt bepaald door de mate waarin representatie is vereist en is voor functies in Nederland niet hoger dan 100 punten en voor functies buiten Nederland en bij internationale organisaties in Nederland niet hoger dan 250 punten.
+3. De tegemoetkoming wordt toegekend door het hoofd defensieonderdeel en wordt gevonden door het in het zesde lid opgenomen basisbedrag te vermenigvuldigen met een door het hoofd defensieonderdeel toe te kennen aantal punten.
 
-- 5. Het basisbedrag wordt afzonderlijk vastgesteld voor Nederland en voor de overige landen. Het basisbedrag voor de overige landen wordt verhoogd of verlaagd met een door de minister vast te stellen duurtecorrectie ter zake van het verschil in de kosten van levensonderhoud in het betreffende land ten opzichte van Nederland.
+4. Het toe te kennen aantal punten wordt bepaald door de mate waarin representatie is vereist en is voor functies in Nederland niet hoger dan 100 punten en voor functies buiten Nederland en bij internationale organisaties in Nederland niet hoger dan 250 punten.
 
-- 6. De basisbedragen zijn:
+5. Het basisbedrag wordt afzonderlijk vastgesteld voor Nederland en voor de overige landen. Het basisbedrag voor de overige landen wordt verhoogd of verlaagd met een door de minister vast te stellen duurtecorrectie ter zake van het verschil in de kosten van levensonderhoud in het betreffende land ten opzichte van Nederland.
+
+6. De basisbedragen zijn:
 
 - a. voor Nederland: € 3,04;
 
-- b. voor de overige landen: € 4,06.
+- b. voor de overige landen: € 4,11.
 
 ##### Artikel 12. Tegemoetkoming in de kosten van recepties
 
@@ -445,15 +447,15 @@ De berekeningsbasis als bedoeld in [artikel 61, eerste lid, van het IBBAD](https
 
 ##### Artikel 16. Kost en inwoning
 
-- 1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
+1. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van kost, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 165,34 per maand.
 
-- 2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 256,00 per maand.
+2. Het maximum van het verschuldigde bedrag voor het vanwege Defensie verstrekte gebruik van inwoning, bedoeld in [artikel 60, eerste lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 263,42 per maand.
 
-- 3. Het verschuldigde bedrag voor kost voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 143,52 per maand.
+3. Het verschuldigde bedrag voor kost voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 143,52 per maand.
 
-- 4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 174,60 per maand.
+4. Het verschuldigde bedrag voor inwoning voor de ambtenaar, bedoeld in [artikel 60, tweede lid, van het IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=60), wordt gesteld op € 179,66 per maand.
 
-- 5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
+5. Bij geoorloofde afwezigheid wordt het bedrag dat voor het genot van kost verschuldigd zou zijn voor elke dag dat dit emolument niet wordt genoten, verminderd met € 4,78 per dag.
 
 ##### Artikel 17. Gebruik van energie en water
 
