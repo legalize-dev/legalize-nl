@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2018-07-01"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -136,7 +136,13 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 12°. de United Nations Disengagement Observers Force ‘UNDOF’, voor zover deze deelname heeft plaatsgevonden op en rondom Camp Faouar in Syrië en op en rondom Camp Ziouani in Libanon, vanaf 25 september 2013;
 
-- 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 juli 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;
+- 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 juli 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013;
+
+- 14°. de United Nations Support Mission ‘UNSMIL’ in Libië, voor zover deze deelname heeft plaatsgehad in Libië vanaf 2017;
+
+- 15°. de United Nations Development Programme Somalië ‘UNDP Somalië’, voor zover deze deelname heeft plaatsgehad in Somalië vanaf 2018;
+
+- 16°. de United Nations Mine Action Service ‘UNMAS’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 2018: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -154,9 +160,13 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 7°. de operatie Nato Support to African Union ‘NS2AU’, voor zover deelname heeft plaatsgehad in Ethiopië, vanaf 1 september 2009;
 
-- 8°. de operatie Resolute Support Mission ‘RSM’, voor zover deelname heeft plaatsgehad in de Republiek Afghanistan, vanaf 1 januari 2015;
+- 8°. de operatie Regional Anti-Piracy Prosecution and Intelligence Coordination Centre ‘RAPPICC’, voor zover deelname heeft plaatsgehad vanaf 1 oktober 2013;
 
-- 9°. voor zover deze deelname heeft plaatsgehad door inzet van NATO E-3 AWACS vanaf de luchthaven Forward Operation Base Konya in Turkije boven Syrië en Irak vanaf 1 oktober 2016: NAVO OPERATIES;
+- 9°. de operatie Resolute Support Mission ‘RSM’, voor zover deelname heeft plaatsgehad in de Republiek Afghanistan, vanaf 1 januari 2015;
+
+- 10°. voor zover deze deelname heeft plaatsgehad door inzet van NATO E-3 AWACS vanaf de luchthaven Forward Operation Base Konya in Turkije boven Syrië en Irak vanaf 1 oktober 2016;
+
+- 11°. de operatie NATO Mission Iraq ‘NMI’, voor zover deelname heeft plaatsgehad in Irak vanaf 15 juni 2018: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
@@ -188,7 +198,7 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 14°. de EU missie ‘EUAM Ukraine’, voor zover deze deelname heeft plaatsgehad in Oekraïne vanaf 8 maart 2015;
 
-- 15°. de EU missie ‘EUPOL COPPS’ voor zover deze deelname heeft plaatsgehad in Palestijnse gebieden vanaf 1 januari 2006: EU-OPERATIES;
+- 15°. de EU missie ‘EUPOL COPPS’ voor zover deze deelname heeft plaatsgehad in Palestijnse gebieden vanaf 1 januari 2006;
 
 - 16°. de EU missie ‘EUNAV FORMED’ voor zover deze deelname heeft plaatsgehad in het Middellandse Zeegebied vanaf 18 mei 2015;
 
@@ -196,7 +206,13 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 18°. de EU missie ‘EUCAP SAHEL’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 2015;
 
-- 19°. de EU missie ‘EUPAT’ voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf 1 februari 2017: EU OPERATIES;
+- 19°. de EU missie ‘EUCAP Somalië’ voor zover deze deelname heeft plaatsgehad in Somalië vanaf 1 juni 2016;
+
+- 20°. de EU missie ‘EUPAT’ voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf 1 februari 2017;
+
+- 21°. de EU missie ‘EUSTAMS’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 augustus 2017;
+
+- 22°. de EU missie ‘EUCAP SAHEL NIGER’ voor zover deze deelname heeft plaatsgehad in Niger vanaf 1 september 2018: EU-OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
@@ -220,7 +236,7 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 6°. de operatie (NLD) Capacity Building Mission Iraq ‘CBMI’, voor zover deze deelname heeft plaatsgevonden in Irak en Koeweit, vanaf 25 september 2014;
 
-- 7°. de operatie Forward Support Element (FSE) Mirage vanaf 1 januari 2015 tot 1 december 2016 voor zover deze deelname heeft plaatsgevonden in de Verenigde Arabische Emiraten: MULTINATIONALE OPERATIES;
+- 7°. de operatie Forward Support Element (FSE) Mirage vanaf 1 januari 2015 voor zover deze deelname heeft plaatsgevonden in de Verenigde Arabische Emiraten: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
@@ -232,7 +248,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001 waarbij ten aanzien van de eerste inzet wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: SPECIALE OPERATIES;
 
-- kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME.
+- kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME;
+
+- mm. voor deelname aan Enhanced Forward Presence Baltics ‘EFP’ voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017; FORWARD PRESENCE BALTICS.
 
 ##### Artikel 2
 
