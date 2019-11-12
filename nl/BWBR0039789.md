@@ -4,7 +4,7 @@ identifier: "BWBR0039789"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-26"
-last_updated: "2019-10-08"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039789"
 soort: "ministeriele-regeling"
@@ -93,7 +93,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Samenloop
 
-Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2019-10-08&g=2019-10-08), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2019-10-08&g=2019-10-08) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2019-10-08&g=2019-10-08) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
+Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2019-11-12&g=2019-11-12), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2019-11-12&g=2019-11-12) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2019-11-12&g=2019-11-12) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
 
 #### Paragraaf 2. Financiële voorzieningen
 
@@ -125,11 +125,11 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. Op verzoek van de militair kan de Commandant der Strijdkrachten, indien de uitzendduur tenminste vier maanden bedraagt, toestaan dat de militair de recuperatie voor eigen rekening en risico elders doorbrengt. In dat geval bestaat daarvoor geen aanspraak op vergoeding van verblijfskosten. Voor de vaststelling van de duur van de recuperatie wordt per maand inzet 2,5 dag recuperatie opgebouwd.
 
-- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2019-10-08&g=2019-10-08), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
+- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2019-11-12&g=2019-11-12), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
 
 ##### Artikel 8. Recuperatiereis
 
-- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2019-10-08&g=2019-10-08), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
+- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2019-11-12&g=2019-11-12), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
 
 - 2. Voor het maken van de recuperatiereis dient gebruik te worden gemaakt van het door de Koninklijke Luchtmacht ingezette luchttransport. Indien een dergelijk transport ontbreekt dan wel niet beschikbaar is, kan bij uitzondering gebruik worden gemaakt van een commerciële retourvlucht voor rekening van Defensie.
 
@@ -143,9 +143,9 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 2. Vrijstelling van werkzaamheden in het kader van werk- en rusttijden, alsmede verlof verleend door of vanwege het orgaan, is geen verlof als bedoeld in [hoofdstuk 8 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8). Voor zover vorenbedoelde vrije tijd of verlof niet reeds is genoten, vervallen deze bij definitief vertrek uit het operatiegebied.
 
-- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2019-10-08&g=2019-10-08).
+- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2019-11-12&g=2019-11-12).
 
-- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2019-10-08&g=2019-10-08) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
+- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2019-11-12&g=2019-11-12) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
 
 - a. ernstige ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad;
 
@@ -218,14 +218,14 @@ Deze regeling wordt aangehaald als: ‘Regeling voorzieningen bij vredes- en hum
 
 Vervallen
 
-| A | Vredesoperaties | Afkorting | Datum aanvang | Datum einde |
+| **A** | **Vredesoperaties** | **Afkorting** | **Datum aanvang** | **Datum einde** |
 | --- | --- | --- | --- | --- |
-| 001 | United Nations Truce Supervision Organization | UNTSO | 15-07-1996* |   |
-| 002 | European Union Force in en rond voormalig Joegoslavië | EUFOR | 02-12-2004 |   |
+| 001 | United Nations Truce Supervision Organization | UNTSO | 15-07-19961 |   |
+| 002 | European Union Force in en rond voormalig Joegoslavië | EUFOR | 02-12-2004 | 31-12-2017 |
 | 003 | Kosovo Force | KFOR 2 | 11-06-1999 | 31-12-2018 |
 | 005 | International Security Assistance Force in Afghanistan | ISAF | 21-12-2001 | 01-01-2011 |
-| 006 | Nationale bijdrage aan ISAF incl. Airbase Minhad, VAE |   | 01-08-2010 |   |
-| 007 | Redeployment Taskforce (RDTF) ISAF, inclusief Fujaira VAE | RDTF ISAF | 01-04-2010 |   |
+| 006 | Nationale bijdrage aan ISAF incl. Airbase Minhad, VAE |   | 01-08-2010 | 31-12-2012 |
+| 007 | Redeployment Taskforce (RDTF) ISAF, inclusief Fujaira VAE | RDTF ISAF | 01-04-2010 | 31-12-2012 |
 | 008 | European Union Police Mission | EUPM | 21-05-2002 | 01-01-2012 |
 | 009 | NAVO Trainingsmissie in Irak | NTM-I | 20-02-2005 | 01-01-2012 |
 | 010 | European Union Border Assistance Mission Rafah in Israël | EU BAM | 25-01-2006 |   |
@@ -246,7 +246,7 @@ Vervallen
 | 026 | Unified Protector | OUP | 23-03-2011 | 15-12-2011 |
 | 027 | United Nations Assistance Mission in Afghanistan | UNAMA | 01-09-2011 | 31-12-2018 |
 | 028 | United Nations Mission In South Sudan in Soedan | UNMISS | 21-08-2011 | 31-12-2020 |
-| 029 | United Nations Mission In Syria te Syrië | UNSMIS | 16-05-2012 |   |
+| 029 | United Nations Mission In Syria te Syrië | UNSMIS | 16-05-2012 | 31-12-2013 |
 | 030 | Multinational Force and Observers te Egypte | MFO | 01-01-2013 | 31-12-2016 |
 | 032 | European Union Training Mission ten behoeve van Somalie | EUTM | 15-03-2013 | 31-12-2019 |
 | 033 | European Union Aviation Security Mission in South Sudan | EUAVSEC South Sudan | 01-06-2013 | 31-12-2014 |
@@ -264,8 +264,11 @@ Vervallen
 | 054 | United Nations Interim Force in Libanon | UNIFIL | 01-05-2017 |   |
 | 055 | United Nations Mine Action Service Iraq | UNMAS IRQ | 01-09-2017 | 31-12-2018 |
 | 056 | Operation Sea Guardian | OSG | 01-04-2018 |   |
+| 058 | European Union Capacity Building Mission in Niger | EUCAP Sahel Niger | 01-01-2019 |   |
 
-| B. | Overzicht van een andere door de Minister aangemerkte vormen van daadwerkelijke militaire inzet buiten Nederland | Afkorting | Datum aanvang | Datum einde |
+1 Betreft datum inwerkingtreding VVHO
+
+| **B.** | **Overzicht van een andere door de Minister aangemerkte vormen van daadwerkelijke militaire inzet buiten Nederland** | **Afkorting** | **Datum aanvang** | **Datum einde** |
 | --- | --- | --- | --- | --- |
 | 004 | Operatie Enduring Freedom in gebied van verantwoordelijkheid van USCENTCOM | OEF | 05-11-2001 | 31-12-2021 |
 | 014 | Operatie Active Endeavour (OAE) in het Middellandse Zeegebied | OAE | 22-04-2007 | 14-10-2010 |
@@ -281,8 +284,6 @@ Vervallen
 | 052 | Baltic Air Policing 2017 in Litouwen | BAP 2017 | 01-12-2016 |   |
 | 053 | Enhanced Forward Presence in Litouwen | eFP | 04-07-2016 |   |
 | 057 | NATO Mission in Iraq | NMI | 01-10-2018 |   |
-
-* Betreft datum inwerkingtreding VVHO
 
 |   | Inzet in het kader van de Nederlandse bijdrage aan de humanitaire operatie: | Datum aanvang | Datum einde |
 | --- | --- | --- | --- |
