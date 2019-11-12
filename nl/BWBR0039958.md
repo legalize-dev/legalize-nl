@@ -4,7 +4,7 @@ identifier: "BWBR0039958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-12"
-last_updated: "2018-01-02"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039958"
 soort: "ministeriele-regeling"
@@ -47,15 +47,15 @@ De militair die op of na 1 juli 2001 is geplaatst of tewerkgesteld op een nader 
 
 ##### Artikel 2
 
-- 1. De vaste vergoeding ter zake van extra werkdruk wordt toegekend voor zolang de militair is geplaatst of tewerkgesteld op een functie, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2018-01-02).
+- 1. De vaste vergoeding ter zake van extra werkdruk wordt toegekend voor zolang de militair is geplaatst of tewerkgesteld op een functie, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2019-11-12).
 
-- 2. In afwijking van [artikel 8 van de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&artikel=8) wordt een vaste vergoeding voor extra werkdruk in de vorm van een afkoopsom toegekend van 25 uren overwerk per maand waarbij de waarde van ieder uur wordt bepaald op basis van 1/165 van het voor de militair geldende maandsalaris.
+- 2. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&artikel=8) en [8a van de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900&artikel=8a) wordt een vaste vergoeding voor extra werkdruk in de vorm van een afkoopsom toegekend van 25 uren overwerk per maand waarbij de waarde van ieder uur wordt bepaald op basis van 1/165 van het voor de militair geldende maandsalaris.
 
 - 3. De vergoeding wordt opgeschort gedurende de periode dat op de militair de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789) dan wel [hoofdstuk 3 van het Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3) van toepassing is.
 
 ##### Artikel 3
 
-- 1. In afwijking van het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=2&z=2019-11-12&g=2018-01-02) heeft de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2018-01-02) die werkzaamheden in een gebied buiten Nederland verricht als persoonsbeveiliger, aanspraak op:
+- 1. In afwijking van het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=2&z=2019-11-12&g=2019-11-12) heeft de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2019-11-12) die werkzaamheden in een gebied buiten Nederland verricht als persoonsbeveiliger, aanspraak op:
 
 - a. een tegemoetkoming in de extra werkdruk die het gevolg is van de inzet als persoonsbeveiliger. De tegemoetkoming wordt toegekend in de vorm van een afkoop en bedraagt € 90,– per dag;
 
@@ -63,7 +63,7 @@ De militair die op of na 1 juli 2001 is geplaatst of tewerkgesteld op een nader 
 
 - c. een onbelaste tegemoetkoming in de onkosten verbonden aan de werkzaamheden als persoonsbeveiliger. De tegemoetkoming bedraagt € 23,– per dag.
 
-- 2. Aanspraak op de in het eerste lid bedoelde vergoeding en tegemoetkoming bestaat ook voor de militair van het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten of de Koninklijke Marechaussee die tezamen met een of meer militairen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2018-01-02), werkzaamheden als persoonsbeveiliger verricht.
+- 2. Aanspraak op de in het eerste lid bedoelde vergoeding en tegemoetkoming bestaat ook voor de militair van het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten of de Koninklijke Marechaussee die tezamen met een of meer militairen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039958&artikel=1&z=2019-11-12&g=2019-11-12), werkzaamheden als persoonsbeveiliger verricht.
 
 - 3. Aanspraak op de in het eerste lid bedoelde vergoedingen en tegemoetkoming bestaat niet gedurende de periode dat de op de militair de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789) dan wel [hoofdstuk 3 van het Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3) van toepassing is.
 
