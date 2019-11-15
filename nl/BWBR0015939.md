@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2017-09-08"
+last_updated: "2019-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -54,7 +54,15 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 
 - b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44);
 
-- c. het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44).
+- c. het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen (Trb. 2005, 44);
+
+- d. dit onderdeel is nog niet in werking getreden;
+
+- e. het op 7 juli 1995 te Londen tot stand gekomen Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen (Trb. 2013, 218);
+
+- f. het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (IAO-Verdrag nr. 188) (Trb. 2011, 152);
+
+- g. het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115).
 
 ##### Artikel 2
 
