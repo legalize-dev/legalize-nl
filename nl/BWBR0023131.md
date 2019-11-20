@@ -4,7 +4,7 @@ identifier: "BWBR0023131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-20"
-last_updated: "2010-04-14"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023131"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Voor de toepassing van het in deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 3
 
-De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van het bepaalde in [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2010-04-14&g=2010-04-14).
+De Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, kan, elk voor het gebied waartoe hun competentie zich uitstrekt, in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van het bepaalde in [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2019-11-20&g=2019-11-20).
 
 ##### Artikel 4
 
@@ -84,6 +84,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2010-04-14&g=2010-04-14), is niet van toepassing op personen en organisaties die zijn vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van de Europese Unie van 27 december 2001 (PbEG L 344) of in bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 (PbEG L 193) of waarop [Sanctieregeling terrorisme 2002-II](https://wetten.overheid.nl/jci1.3:c:BWBR0013904) van toepassing is.
+[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2019-11-20&g=2019-11-20), is niet van toepassing op personen en organisaties die zijn vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van de Europese Unie van 27 december 2001 (PbEG L 344) of in bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 (PbEG L 193) of waarop [Sanctieregeling terrorisme 2002-II](https://wetten.overheid.nl/jci1.3:c:BWBR0013904) van toepassing is.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
