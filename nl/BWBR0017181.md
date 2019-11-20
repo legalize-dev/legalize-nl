@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2017-05-03"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
 
 2. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in bijlage II bij [Verordening (EG) nr. 314/2004](32004R0314) van:
 
