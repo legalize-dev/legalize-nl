@@ -4,7 +4,7 @@ identifier: "BWBR0036201"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2015-07-14"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036201"
 soort: "ministeriele-regeling"
@@ -68,6 +68,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen, dan wel door of uit te voeren naar personen of entiteiten die door de Veiligheidsraad van de Verenigde Naties, of door het op grond van punt 19 van Resolutie 2140 (2014) ingestelde comité, zijn aangewezen alsmede naar de personen die namens hen of op hun aanwijzing handelen in Jemen ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, personen of entiteiten die door de Veiligheidsraad van de Verenigde Naties, of door het op grond van punt 19 van Resolutie 2140 (2014) ingestelde comité, zijn aangewezen alsmede naar de personen die namens hen of op hun aanwijzing handelen in Jemen ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
