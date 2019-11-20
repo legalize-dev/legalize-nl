@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2014-06-18"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Somalië of voor gebruik in Somalië, ongeacht het land van herkomst.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, entiteiten of personen in Somalië of voor gebruik in Somalië, ongeacht het land van herkomst.
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
 
