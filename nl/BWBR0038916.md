@@ -4,7 +4,7 @@ identifier: "BWBR0038916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2016-12-24"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038916"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen dan wel door of uit te voeren aan de natuurlijke of rechtspersonen, groepen of entiteiten die vermeld staan op de lijst, vastgesteld door het comité, bedoeld in paragraaf 6 van Resolutie 1267 van de Veiligheidsraad van de Verenigde Naties1http://www.un.org/sc/committees/1267/pdf/AQList.pdf, of zijn aangewezen door de Raad van de Europese Unie in de bijlage van Besluit (GBVB) 2016/1693, dan wel aan degenen die namens hen of op hun aanwijzing handelen.
+Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, dan wel over te dragen aan, daaronder begrepen over te brengen naar, de natuurlijke of rechtspersonen, groepen of entiteiten die vermeld staan op de lijst, vastgesteld door het comité, bedoeld in paragraaf 6 van Resolutie 1267 van de Veiligheidsraad van de Verenigde Naties1http://www.un.org/sc/committees/1267/pdf/AQList.pdf, of zijn aangewezen door de Raad van de Europese Unie in de bijlage van Besluit (GBVB) 2016/1693, dan wel aan degenen die namens hen of op hun aanwijzing handelen.
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ De artikelen 1, 2, 3 en 4, eerste lid, van [Verordening (EG) nr. 881/2002](32002
 
 ##### Artikel 4
 
-Overtreding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038916&artikel=3&z=2016-12-24&g=2016-12-24) van overeenkomstige toepassing verklaarde artikelen 2, 3 en 4, eerste lid, ten aanzien van de in artikel 3 bedoelde natuurlijke of rechtspersonen, groepen of entiteiten is verboden.
+Overtreding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038916&artikel=3&z=2019-11-20&g=2019-11-20) van overeenkomstige toepassing verklaarde artikelen 2, 3 en 4, eerste lid, ten aanzien van de in artikel 3 bedoelde natuurlijke of rechtspersonen, groepen of entiteiten is verboden.
 
 ##### Artikel 5
 
