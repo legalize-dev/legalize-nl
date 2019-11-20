@@ -4,7 +4,7 @@ identifier: "BWBR0021311"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-20"
-last_updated: "2012-06-22"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021311"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor de toepassing van het in deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 3
 
-De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021311&artikel=2&z=2012-06-22&g=2012-06-22) genoemde verboden.
+De Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, kan, elk voor het gebied waartoe hun competentie zich uitstrekt, in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021311&artikel=2&z=2019-11-20&g=2019-11-20) genoemde verboden.
 
 ##### Artikel 4
 
