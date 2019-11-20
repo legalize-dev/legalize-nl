@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2019-10-01"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1773,9 +1773,9 @@ Aan een alleenstaande vrouw uit Afghanistan verleent de IND in de regel een verb
 
 Bij de beoordeling of een vrouw in Afghanistan als alleenstaand wordt gezien en op die grond bescherming behoeft, wordt in ieder geval meegewogen dat:
 
-### 2.5.1. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 2.5.1. Binnenlands beschermingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt ten aanzien van Afghanistan een vlucht- of vestigingsalternatief aan in Kaboel. De IND beoordeelt individueel of dit vlucht- of vestigingsalternatief kan worden tegengeworpen.
+De IND neemt ten aanzien van Afghanistan een binnenlands beschermingsalternatief aan in Kaboel, Herat en Mazar-i-Sharif. De IND beoordeelt individueel of dit binnenlands beschermingsalternatief kan worden tegengeworpen.
 
 ### 2.5.1. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -1791,7 +1791,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 2.8. Bijzonderheden
 
-Verwesterde vrouwen
+**Verwesterde vrouwen**
 
 De hoofdregel is dat een enkele in Nederland ontwikkelde westerse levensstijl niet tot vluchtelingschap of subsidiaire bescherming kan leiden. Aanpassing aan de gebruiken van Afghanistan mag worden verlangd. Hierop zijn twee uitzonderingen mogelijk:
 
@@ -4269,7 +4269,7 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 Bij de beoordeling of een vrouw in Afghanistan als alleenstaand wordt gezien en op die grond bescherming behoeft, wordt in ieder geval meegewogen dat:
 
-De IND neemt in ieder geval aan dat geen vlucht- of vestigingsalternatief in Kaboel aanwezig is voor de volgende categorieën:
+De IND neemt in ieder geval aan dat geen binnenlands beschermingsalternatief in deze steden aanwezig is voor de volgende categorieën:
 
 Geen bijzonderheden.
 
