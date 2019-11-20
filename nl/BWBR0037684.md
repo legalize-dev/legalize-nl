@@ -4,7 +4,7 @@ identifier: "BWBR0037684"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2017-09-06"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037684"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Libië of voor gebruik in of ten behoeve van Libië, ongeacht het land van oorsprong.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, entiteiten of personen in Libië of voor gebruik in of ten behoeve van Libië, ongeacht het land van oorsprong.
 
 2. Het verbod, bedoeld in het eerste lid, geldt niet voor de levering, de verkoop, de overdracht of de door- of uitvoer van:
 
