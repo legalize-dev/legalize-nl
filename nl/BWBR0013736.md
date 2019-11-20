@@ -4,7 +4,7 @@ identifier: "BWBR0013736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-08"
-last_updated: "2002-06-07"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013736"
 soort: "ministeriele-regeling"
@@ -49,7 +49,9 @@ Besluit:
 
 2. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 2580/2001](32001R2580) is niet van toepassing in geval toepassing is gegeven aan de artikelen 5 of 6 van de verordening.
 
-3. De bevoegde autoriteit, bedoeld in de artikelen 3, 4, en 5 van [Verordening (EG) nr. 2580/2001](32001R2580), is de Minister van Financiën.
+3. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van [Verordening (EG) 2580/2001](32001R2580) is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+
+De bevoegde autoriteit, bedoeld in de artikelen 4 en 5 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën. De bevoegde autoriteit, bedoeld in artikel 6 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt.
 
 ##### Artikel 2
 
