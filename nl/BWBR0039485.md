@@ -4,7 +4,7 @@ identifier: "BWBR0039485"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-21"
-last_updated: "2017-04-22"
+last_updated: "2019-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039485"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Voor subsidieverlening op grond van [artikel 2.2, sub a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.2), [artikel 2.3, sub b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.3), en [artikel 2.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.4) in het kader van Matra 2017–2020 met het oog op de financiering van activiteiten ter bevordering van de capaciteitsversterking van (semi-)overheidsinstellingen in de Matra-doellanden: Albanië, Bosnië-Herzegovina, Kosovo, Macedonië, Montenegro, Servië, Turkije, Georgië, Moldavië en Oekraïne, en de versterking van de bilaterale betrekkingen met deze landen gelden de als bijlage bij dit besluit gevoegde beleidsregels.
+Voor subsidieverlening op grond van [artikel 2.2, sub a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.2), [artikel 2.3, sub b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.3), en [artikel 2.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.4) in het kader van Matra 2017–2020 met het oog op de financiering van activiteiten ter bevordering van de capaciteitsversterking van (semi-)overheidsinstellingen in de Matra-doellanden: Albanië, Bosnië-Herzegovina, Kosovo, Noord-Macedonië, Montenegro, Servië, Turkije, Georgië, Moldavië en Oekraïne, en de versterking van de bilaterale betrekkingen met deze landen gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
 ##### Artikel 2
 
@@ -72,7 +72,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ### 1.1. Relevantie voor het Nederlandse Veiligheid & Stabiliteitsbeleid
 
-Het Matra-programma (‘**ma**atschappelijke **tra**nsformatie’) is onderdeel van het overkoepelende kabinetsbeleid voor Veiligheid en Stabiliteit. Het kabinet stelt zich daarin ten doel de Nederlandse en internationale veiligheid en stabiliteit te bevorderen door doelgerichte bilaterale en multilaterale samenwerking en het bevorderen van democratische transitie in prioritaire gebieden. Het Matra-programma is samen met het Shiraka-programma onderdeel van het ‘Nederlands Fonds voor Regionale Partnerschappen’ (NFRP) dat zich richt op de ‘ring van instabiliteit’ rondom de Europese Unie. Het Matra-programma is daarbij gericht op de Europese Regio (specifiek: de pre-accessielanden en landen van het Oostelijk Partnerschap).3Pre-accessie: Westelijke Balkan (Albanië, Bosnië-Herzegovina, Kosovo, Macedonië, Montenegro, Servië) en Turkije en Oostelijk Partnerschap: Armenië, Azerbeidzjan, Georgië, Moldavië, Oekraïne, Wit-Rusland.
+Het Matra-programma (‘**ma**atschappelijke **tra**nsformatie’) is onderdeel van het overkoepelende kabinetsbeleid voor Veiligheid en Stabiliteit. Het kabinet stelt zich daarin ten doel de Nederlandse en internationale veiligheid en stabiliteit te bevorderen door doelgerichte bilaterale en multilaterale samenwerking en het bevorderen van democratische transitie in prioritaire gebieden. Het Matra-programma is samen met het Shiraka-programma onderdeel van het ‘Nederlands Fonds voor Regionale Partnerschappen’ (NFRP) dat zich richt op de ‘ring van instabiliteit’ rondom de Europese Unie. Het Matra-programma is daarbij gericht op de Europese Regio (specifiek: de pre-accessielanden en landen van het Oostelijk Partnerschap).3Pre-accessie: Westelijke Balkan (Albanië, Bosnië-Herzegovina, Kosovo, Noord-Macedonië, Montenegro, Servië) en Turkije en Oostelijk Partnerschap: Armenië, Azerbeidzjan, Georgië, Moldavië, Oekraïne, Wit-Rusland.
 
 Sleutelbegrippen van het NFRP zijn democratisering, rechtsstaatontwikkeling, maatschappelijke betrokkenheid en een gezonde verhouding tussen burger en overheid. Het Matra-programma is daarbij primair gericht op de capaciteitsopbouw en institutionele versterking van rechterlijke macht en publieke instituties, maatschappelijke organisaties en politieke partijen. Het Matra-programma loopt sinds 1993 onafgebroken en is daarmee één van de langstlopende programma’s die zich richten op deze aandachtsgebieden.
 
@@ -142,7 +142,7 @@ In lijn met de bovenstaande doelstelling van Matra 2017–2020 dienen de activit
 
 ### 3.1.2. Geografische afbakening
 
-Het projectvoorstel is gericht op de versterking van de capaciteit van (semi-) overheidsinstellingen in minimaal één van de volgende doellanden: Pre-accessie: Albanië, Bosnië-Herzegovina, Kosovo, Macedonië, Montenegro, Servië en Turkije en AA-landen: Georgië, Moldavië en Oekraïne.
+Het projectvoorstel is gericht op de versterking van de capaciteit van (semi-) overheidsinstellingen in minimaal één van de volgende doellanden: Pre-accessie: Albanië, Bosnië-Herzegovina, Kosovo, Noord-Macedonië, Montenegro, Servië en Turkije en AA-landen: Georgië, Moldavië en Oekraïne.
 
 ### 3.2.1. Voor wie is Matra 2017–2020 bedoeld?
 
@@ -236,7 +236,7 @@ De activiteiten starten niet eerder dan 15 mei 2017 en niet later dan 30 novembe
 
 ### Criterium D.7. – Landen van uitvoering
 
-De activiteiten waarvoor subsidie wordt gevraagd worden uitgevoerd in / Het projectvoorstel is gericht op de versterking van de capaciteit van (semi-) overheidsinstellingen in minimaal één van de volgende doellanden: Pre-accessie: Albanië, Bosnië-Herzegovina, Kosovo, Macedonië, Montenegro, Servië en Turkije en AA-landen: Georgië, Moldavië en Oekraïne.
+De activiteiten waarvoor subsidie wordt gevraagd worden uitgevoerd in / Het projectvoorstel is gericht op de versterking van de capaciteit van (semi-) overheidsinstellingen in minimaal één van de volgende doellanden: Pre-accessie: Albanië, Bosnië-Herzegovina, Kosovo, Noord-Macedonië, Montenegro, Servië en Turkije en AA-landen: Georgië, Moldavië en Oekraïne.
 
 ### Criterium D.8. – Aansluiting bij doelstelling Matra 2017–2020
 
