@@ -4,7 +4,7 @@ identifier: "BWBR0019741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2006-04-22"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019741"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Een bezoeker dient zich desgevraagd bij binnenkomst in een penitentiaire inricht
 
 ##### Artikel 4
 
-1. De individuele leden van een groep dienen zich afzonderlijk te identificeren overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019741&artikel=2&z=2006-04-22&g=2006-04-22).
+1. De individuele leden van een groep dienen zich afzonderlijk te identificeren overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019741&artikel=2&z=2019-11-22&g=2019-11-22).
 
 2. De individuele leden van een groep worden als groep in het daartoe bestemde register in- en uitgeschreven. De namen van de individuele leden van een groep worden afzonderlijk genoteerd en dienen hiertoe vooraf aan de inrichting bekend te worden gemaakt.
 
@@ -115,6 +115,56 @@ Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan w
 - –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
 
 - –. Medewerker van niet justitie gebonden organisaties: schriftelijke toestemming tot bezoek van de directeur van de inrichting overeenkomstig artikel 14 van de Regeling inzake de toelating van niet-justitiegebonden organisaties tot penitentiaire inrichtingen.
+
+- –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+1. Bij de aanvraag van een beroepspas voor een medewerker van niet-justitiegebonden organisaties als bedoeld in de bijlage bij deze regeling wordt aan de directeur verstrekt:
+
+- a. door vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie in het kader van ondersteuning van gedetineerden door de Minister voor Rechtsbescherming is verleend:
+
+- 1°. een afschrift van het subsidiebesluit voor het desbetreffende jaar;
+
+- 2°. het identiteitsbewijs van de vrijwilliger of medewerker;
+
+- 3°. een bewijs dat de vrijwilliger of medewerker meer dan drie maanden werkzaam is voor de organisatie, en
+
+- 4°. een verklaring omtrent gedrag of een beschrijving getoond gedrag van de desbetreffende vrijwilliger of medewerker.
+
+- b. door medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde: een afschrift van het identiteitsbewijs.
+
+- c. door medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde: een afschrift van het identiteitsbewijs.
+
+2. De directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring kan een beroepspas toekennen aan medewerkers van overige organisaties die door hem zijn goedgekeurd. Aan het toekennen van de beroepspas kan de directeur voorwaarden stellen.
+
+3. In de huisregels van de extra beveiligde inrichting en in de huisregels van de terroristenafdeling kunnen nadere voorwaarden worden gesteld voor bezoek met de beroepspas.
+
+## Bijlage
+
+Beroepspassen bezoekers die uit hoofde van ambt of beroep een gedetineerde dan wel de organisatie bezoeken:
+
+- –. Ambtenaren van het Ministerie van Justitie en Veiligheid: de rijkspas;
+
+- –. Reclasseringswerkers: bewijs verstrekt door de Stichting Reclassering Nederland;
+
+- –. Leden van de Raad voor Strafrechtstoepassing en Jeugdbescherming: een door de Dienst Justitiële Inrichtingen uitgegeven bewijs;
+
+- –. Leden van de Commissies van Toezicht: er bestaat geen specifieke pas voor leden van de Commissie van Toezicht. Zo gewenst kan door de desbetreffende inrichting een beroepspasje verstrekt worden;
+
+- –. Raadslieden: een Europees advocatenpaspoort uitgegeven door de Commission Consultative des Barreaux de la Commission Europeène;
+
+- –. Medewerker van niet-justitiegebonden organisaties: de instemmingsbrief van de directeur tot verstrekking van een beroepspas en daarmee tot toegang tot een gedetineerde. Personen die kunnen worden aangemerkt als medewerker van niet-justitiegebonden organisaties zijn:
+
+- ○. Vrijwilligers en medewerkers van een vrijwilligersorganisatie waaraan subsidie door de Minister voor Rechtsbescherming is verleend, in het kader van ondersteuning van gedetineerden;
+
+- ○. Medewerkers van een gemeente in het kader van de re-integratie van een gedetineerde;
+
+- ○. Medewerkers van een zorginstelling in het kader van een behandeling van een gedetineerde;
+
+- ○. Medewerkers van overige organisaties die zijn goedgekeurd door de directeur divisie Gevangeniswezen en Vreemdelingenbewaring.
 
 - –. Tolken/vertalers: een bewijs van inschrijving bij een erkend tolkenbureau conform de circulaire Tolkenpas Kwaliteitsregister Tolken en Vertalers van 19 juli 2005, kenmerk 5350112/05/DJI.
 
