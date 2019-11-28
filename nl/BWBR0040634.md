@@ -4,7 +4,7 @@ identifier: "BWBR0040634"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2019-01-01"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040634"
 soort: "wet"
@@ -65,7 +65,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - h. **Onze Ministers:** de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;
 
-- i. **private instelling:** een door Onze Minister aangewezen instelling bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.2&z=2019-01-01&g=2019-01-01), waarvan de verpleeg- en behandelkosten worden vergoed op basis van een contract dat de zorgaanbieder met Onze Minister heeft gesloten;
+- i. **private instelling:** een door Onze Minister aangewezen instelling bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.2&z=2019-11-28&g=2019-11-28), waarvan de verpleeg- en behandelkosten worden vergoed op basis van een contract dat de zorgaanbieder met Onze Minister heeft gesloten;
 
 - j. **rijksinstelling:** een door Onze Minister aangewezen instelling, onder beheer van Onze Minister;
 
@@ -133,7 +133,7 @@ Zes weken voor afloop van de justitiële titel treft de zorgaanbieder voorbereid
 
 1. Ten behoeve van de indicatiestelling, de plaatsing van forensische patiënten bij zorgaanbieders, de verlening van forensische zorg, de declaratie en de betaling van de forensische zorg en het toezicht op de forensische zorg zoals deze op grond van deze wet wordt verleend, worden persoonsgegevens van forensische patiënten, met inbegrip van bijzondere categorieën van persoonsgegevens als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) en van justitiële gegevens in de zin van de Wet justitiële en strafvorderlijke gegevens, verwerkt.
 
-2. Onze Minister, het orgaan, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-01-01&g=2019-01-01), de zorgaanbieder, de reclassering en het openbaar ministerie zijn verantwoordelijke voor de verwerking, bedoeld in het eerste lid.
+2. Onze Minister, het orgaan, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-11-28&g=2019-11-28), de zorgaanbieder, de reclassering en het openbaar ministerie zijn verantwoordelijke voor de verwerking, bedoeld in het eerste lid.
 
 3. Onze Minister verstrekt aan de zorgaanbieder ten behoeve van de plaatsing van de forensische patiënt bij die zorgaanbieder, de zorgverlening aan deze patiënt, de declaratie en de betaling van de forensische zorg, het strafrechtsketennummer van de forensische patiënt of bij het ontbreken van dit nummer, zijn bij algemene maatregel van bestuur aan te wijzen ander persoonsidentificerend nummer voor strafvorderlijke en penitentiaire doeleinden, alsmede de strafrechtelijke titel, de duur daarvan, de eventuele gestelde voorwaarden die betrekking hebben op de forensische zorg, de indicatiestelling en de wijze waarop het toezicht op de tenuitvoerlegging wordt vormgegeven.
 
@@ -147,9 +147,9 @@ Zes weken voor afloop van de justitiële titel treft de zorgaanbieder voorbereid
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
-- a. tot welke gegevens de verplichting, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.6&z=2019-01-01&g=2019-01-01), zich in ieder geval uitstrekt;
+- a. tot welke gegevens de verplichting, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.6&z=2019-11-28&g=2019-11-28), zich in ieder geval uitstrekt;
 
-- b. op welke wijze de gegevens, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.6&z=2019-01-01&g=2019-01-01), worden verstrekt en verder worden verwerkt;
+- b. op welke wijze de gegevens, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.6&z=2019-11-28&g=2019-11-28), worden verstrekt en verder worden verwerkt;
 
 - c. volgens welke technische standaarden gegevensverwerking plaatsvindt;
 
@@ -157,7 +157,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - e. de omvang van de gegevensverstrekking, de wijze waarop de reclasseringsinstelling en de zorgaanbieder forensische zorg gegevens van forensische patiënten verwerken en over de gegevensverwerking ten behoeve van statistiek en onderzoek;
 
-- f. het uit te oefenen toezicht, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.4&z=2019-01-01&g=2019-01-01).
+- f. het uit te oefenen toezicht, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=2&artikel=2.4&z=2019-11-28&g=2019-11-28).
 
 ### Hoofdstuk 3. Instellingen
 
@@ -185,7 +185,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 ##### Artikel 3.3
 
-1. Onze Minister kan in de aanwijzing, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.2&z=2019-01-01&g=2019-01-01), bepalen dat deze instelling in het bijzonder bestemd is als private instelling voor de verpleging van ter beschikking gestelden.
+1. Onze Minister kan in de aanwijzing, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.2&z=2019-11-28&g=2019-11-28), bepalen dat deze instelling in het bijzonder bestemd is als private instelling voor de verpleging van ter beschikking gestelden.
 
 2. In de private instelling bedoeld in het eerste lid is de Beginselenwet verpleging ter beschikking gestelden van toepassing, tenzij de wet anders bepaalt.
 
@@ -207,9 +207,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 ##### Artikel 3.4
 
-1. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-01-01&g=2019-01-01), stelt huisregels vast voor de instelling of een of meer afdelingen daarvan, met inachtneming van het dienaangaande door Onze Minister vast te stellen model.
+1. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-11-28&g=2019-11-28), stelt huisregels vast voor de instelling of een of meer afdelingen daarvan, met inachtneming van het dienaangaande door Onze Minister vast te stellen model.
 
-2. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-01-01&g=2019-01-01), is, voor zover dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de instellingen of een ongestoord verloop van de verpleging of behandeling, bevoegd aan de forensische patiënten aanwijzingen te geven. De forensische patiënten zijn verplicht deze aanwijzingen op te volgen.
+2. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-11-28&g=2019-11-28), is, voor zover dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de instellingen of een ongestoord verloop van de verpleging of behandeling, bevoegd aan de forensische patiënten aanwijzingen te geven. De forensische patiënten zijn verplicht deze aanwijzingen op te volgen.
 
 ##### Artikel 3.5
 
@@ -235,7 +235,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 ##### Artikel 4.2
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud van het contract, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=4&artikel=4.1&z=2019-01-01&g=2019-01-01).
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud van het contract, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=4&artikel=4.1&z=2019-11-28&g=2019-11-28).
 
 ### Hoofdstuk 5. Indicatiestelling
 
@@ -243,11 +243,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 1. Ten behoeve van de strafrechtelijke titel, de plaatsing, de zorgverlening en de declaratie daarvan, wordt een indicatiestelling opgemaakt.
 
-2. De rechter, de officier van justitie of Onze Minister beslist op basis van een indicatiestelling over de te verlenen forensische zorg. Indien de rechter, de officier van justitie, of Onze Minister afwijkt van de indicatiestelling wordt de indicatiestelling in overeenstemming gebracht met de strafrechtelijke titel door het orgaan, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-01-01&g=2019-01-01).
+2. De rechter, de officier van justitie of Onze Minister beslist op basis van een indicatiestelling over de te verlenen forensische zorg. Indien de rechter, de officier van justitie, of Onze Minister afwijkt van de indicatiestelling wordt de indicatiestelling in overeenstemming gebracht met de strafrechtelijke titel door het orgaan, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-11-28&g=2019-11-28).
 
-3. De indicatiestelling, bedoeld in het eerste lid, danwel in het geval toepassing is gegeven aan het tweede lid, de indicatiestelling, bedoeld in het tweede lid,wordt tevens toegezonden aan Onze Minister ten behoeve van het plaatsingsbesluit bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01).
+3. De indicatiestelling, bedoeld in het eerste lid, danwel in het geval toepassing is gegeven aan het tweede lid, de indicatiestelling, bedoeld in het tweede lid,wordt tevens toegezonden aan Onze Minister ten behoeve van het plaatsingsbesluit bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28).
 
-4. In het geval eerst ter zitting blijkt dat forensische zorg moet worden verleend en er geen indicatiestelling voorhanden is, kan de rechter in afwijking van het tweede lid beslissen dat forensische zorg wordt verleend. In dat geval gelast Onze Minister zo spoedig mogelijk na de beslissing van de rechter een indicatiestelling ten behoeve van het plaatsingsbesluit als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01).
+4. In het geval eerst ter zitting blijkt dat forensische zorg moet worden verleend en er geen indicatiestelling voorhanden is, kan de rechter in afwijking van het tweede lid beslissen dat forensische zorg wordt verleend. In dat geval gelast Onze Minister zo spoedig mogelijk na de beslissing van de rechter een indicatiestelling ten behoeve van het plaatsingsbesluit als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28).
 
 5. Onze Minister zendt de indicatiestelling die hij heeft ontvangen door aan de zorgaanbieder, waar de forensische patiënt is geplaatst, ten behoeve van de zorgverlening en de declaratie daarvan.
 
@@ -267,7 +267,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 2. Over de procedure met betrekking tot de indicatiestelling en de daarbij te gebruiken modellen kunnen bij ministeriële regeling nadere regels worden gesteld.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de totstandkoming van een indicatiestelling in de spoedeisende gevallen als bedoeld in [artikel 5.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-01-01&g=2019-01-01).
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de totstandkoming van een indicatiestelling in de spoedeisende gevallen als bedoeld in [artikel 5.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=5&artikel=5.2&z=2019-11-28&g=2019-11-28).
 
 ### Hoofdstuk 6. Plaatsing, overplaatsing en overbrenging
 
@@ -283,7 +283,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 ##### Artikel 6.2
 
-1. Bij de plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01), worden in ieder geval in de overwegingen betrokken:
+1. Bij de plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28), worden in ieder geval in de overwegingen betrokken:
 
 - a. de eisen die de bescherming van de maatschappij tegen de gevaarlijkheid van de forensische patiënt voor de veiligheid van anderen dan de forensische patiënt of de algemene veiligheid van personen of goederen stelt;
 
@@ -297,19 +297,19 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de in
 
 4. De officier van justitie geeft op verzoek van Onze Minister advies over het niveau van beveiliging dan wel over de te stellen voorwaarden, bedoeld in het derde lid.
 
-5. De gegevens welke zijn opgenomen in de indicatiestelling worden door Onze Minister slechts gebruikt ten behoeve van het besluit, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01) en voor het maken van prognoses.
+5. De gegevens welke zijn opgenomen in de indicatiestelling worden door Onze Minister slechts gebruikt ten behoeve van het besluit, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28) en voor het maken van prognoses.
 
 ##### Artikel 6.3
 
-1. De plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01), van een ter beschikking gestelde in een instelling geschiedt binnen een termijn van vier maanden na aanvang van de termijn van terbeschikkingstelling. Deze termijn kan telkens worden verlengd met vier maanden. Met een beslissing tot verlenging wordt gelijk gesteld een weigering om binnen de in de eerste volzin genoemde termijn te beslissen.
+1. De plaatsing, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28), van een ter beschikking gestelde in een instelling geschiedt binnen een termijn van vier maanden na aanvang van de termijn van terbeschikkingstelling. Deze termijn kan telkens worden verlengd met vier maanden. Met een beslissing tot verlenging wordt gelijk gesteld een weigering om binnen de in de eerste volzin genoemde termijn te beslissen.
 
 2. Zolang de opname van ter beschikking gestelden in een voor hen bestemde plaats niet mogelijk is, is Onze Minister bevoegd om hen, gedurende een termijn van maximaal één jaar, te plaatsen in een instelling die als organisatorisch verband deel uitmaakt van een penitentiaire inrichting.
 
 ##### Artikel 6.4
 
-1. Opneming van ter beschikking gestelden in een rijksinstelling of een private instelling met een aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-01-01&g=2019-01-01), aan wie door de rechter een voorwaarde is opgelegd op grond van [artikel 38, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), ter beschikking gestelden die op eigen verzoek opnieuw in een instelling willen worden opgenomen, personen aan wie door de rechter een voorwaarde is opgelegd op grond van de [artikelen 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c), [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38g) en [artikel 38p van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38p) en voortzetting van het verblijf van ter beschikking gestelden die opnieuw in een instelling opgenomen willen worden, geschiedt niet zonder machtiging van Onze Minister.
+1. Opneming van ter beschikking gestelden in een rijksinstelling of een private instelling met een aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-11-28&g=2019-11-28), aan wie door de rechter een voorwaarde is opgelegd op grond van [artikel 38, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), ter beschikking gestelden die op eigen verzoek opnieuw in een instelling willen worden opgenomen, personen aan wie door de rechter een voorwaarde is opgelegd op grond van de [artikelen 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c), [artikel 38g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38g) en [artikel 38p van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38p) en voortzetting van het verblijf van ter beschikking gestelden die opnieuw in een instelling opgenomen willen worden, geschiedt niet zonder machtiging van Onze Minister.
 
-2. Opneming van ter beschikking gestelden in een rijksinstelling of een private instelling met een aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-01-01&g=2019-01-01), die opnieuw in een instelling opgenomen willen worden en voorzetting van het verblijf van ter beschikking gestelden die hun verblijf in een instelling willen voorzetten, geschiedt slechts indien zij schriftelijk hiermee instemmen.
+2. Opneming van ter beschikking gestelden in een rijksinstelling of een private instelling met een aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-11-28&g=2019-11-28), die opnieuw in een instelling opgenomen willen worden en voorzetting van het verblijf van ter beschikking gestelden die hun verblijf in een instelling willen voorzetten, geschiedt slechts indien zij schriftelijk hiermee instemmen.
 
 3. Onze Minister kan aan het hoofd van de instelling een machtiging verlenen tot beëindiging van de behandeling en ontslag van de forensische patiënt uit de instelling, indien:
 
@@ -343,7 +343,7 @@ Forensische patiënten die hiervoor ingevolge [artikel 4, vijfde lid, van de Pen
 
 ##### Artikel 6.7
 
-Indien de aard van de bij de forensische patiënt geconstateerde psychische stoornis of verstandelijke beperking daartoe aanleiding geeft, kan Onze Minister bepalen dat de forensische patiënt naar een private instelling, niet zijnde een private instelling met een bijzondere aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-01-01&g=2019-01-01), zal worden overgebracht om daar zolang dat noodzakelijk is, te worden verpleegd. Voor deze overbrenging is een machtiging vereist op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700). Een machtiging als bedoeld in de vorige volzin kan achterwege blijven indien de forensische patiënt schriftelijk en vrijwillig met de overbrenging instemt.
+Indien de aard van de bij de forensische patiënt geconstateerde psychische stoornis of verstandelijke beperking daartoe aanleiding geeft, kan Onze Minister bepalen dat de forensische patiënt naar een private instelling, niet zijnde een private instelling met een bijzondere aanwijzing als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=3&artikel=3.3&z=2019-11-28&g=2019-11-28), zal worden overgebracht om daar zolang dat noodzakelijk is, te worden verpleegd. Voor deze overbrenging is een machtiging vereist op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700). Een machtiging als bedoeld in de vorige volzin kan achterwege blijven indien de forensische patiënt schriftelijk en vrijwillig met de overbrenging instemt.
 
 ##### Artikel 6.8
 
@@ -379,13 +379,13 @@ Onze Minister is bevoegd om een forensische patiënt over te brengen naar een in
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
-- a. de hoogte van de bestuurlijke boete, bedoeld in [artikel 6.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-01-01&g=2019-01-01). Deze bestuurlijke boete kan niet hoger zijn dan € 25.000 per niet nagekomen verplichting.
+- a. de hoogte van de bestuurlijke boete, bedoeld in [artikel 6.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.1&z=2019-11-28&g=2019-11-28). Deze bestuurlijke boete kan niet hoger zijn dan € 25.000 per niet nagekomen verplichting.
 
 - b. de plaatsing en de overplaatsing van forensische patiënten en de wijze waarop het vervoer plaatsvindt;
 
 - c. de overbrenging van forensische patiënten met het oog op de aanvang of voortzetting van de tenuitvoerlegging van de uitspraak of beslissing en de te volgen procedure bij ongeoorloofde afwezigheid van de forensische patiënt.
 
-2. Onze Minister kan nadere regels stellen omtrent de inhoud en wijze van melding bij ongeoorloofde afwezigheid van de forensische patiënt en andere bijzondere voorvallen, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.10&z=2019-01-01&g=2019-01-01).
+2. Onze Minister kan nadere regels stellen omtrent de inhoud en wijze van melding bij ongeoorloofde afwezigheid van de forensische patiënt en andere bijzondere voorvallen, bedoeld in [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&hoofdstuk=6&artikel=6.10&z=2019-11-28&g=2019-11-28).
 
 ### Hoofdstuk 7. Wijzigingen in andere wetten
 
@@ -408,8 +408,6 @@ wijzigt het Wetboek van Strafvordering.
 ##### Artikel 7.3a
 
 wijzigt de Wet op de rechterlijke organisatie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7.4
 
