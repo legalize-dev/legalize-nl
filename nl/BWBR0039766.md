@@ -4,7 +4,7 @@ identifier: "BWBR0039766"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-10-01"
-last_updated: "2018-10-26"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039766"
 soort: "beleidsregel"
@@ -76,7 +76,7 @@ Het toepassen van geweld met gebruik van een geweldsmiddel is een bevoegdheid di
 
 Elke aanvraag tot het toekennen van geweldsmiddelen wordt afzonderlijk beoordeeld aan de hand van de volgende criteria:
 
-Indien de beantwoording van bovenstaande vragen nog onvoldoende duidelijkheid geeft over de aanwezigheid van de noodzaak, kunnen aanvullende vragen naar de (on)mogelijkheid van politieassistentie en de aandacht bij de scholing van boa's voor het onderwerp sociale vaardigheden nog een nadere indicatie geven. Indien zich vaak situaties voordoen waarin het aanwenden van sociale vaardigheden en geweldsbeheersingstechnieken niet (meer) afdoende zijn, kan er aanleiding zijn voor het toekennen van geweldsmiddelen. De toekenning geldt voor het gehele opsporingsgebied van de boa. In [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=A&z=2018-10-26&g=2018-10-26) staan de politiebevoegdheden en de geweldsmiddelen nader omschreven inclusief aanvullende toekenningseisen per geweldsmiddel.
+Indien de beantwoording van bovenstaande vragen nog onvoldoende duidelijkheid geeft over de aanwezigheid van de noodzaak, kunnen aanvullende vragen naar de (on)mogelijkheid van politieassistentie en de aandacht bij de scholing van boa's voor het onderwerp sociale vaardigheden nog een nadere indicatie geven. Indien zich vaak situaties voordoen waarin het aanwenden van sociale vaardigheden en geweldsbeheersingstechnieken niet (meer) afdoende zijn, kan er aanleiding zijn voor het toekennen van geweldsmiddelen. De toekenning geldt voor het gehele opsporingsgebied van de boa. In [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=A&z=2019-11-30&g=2019-11-30) staan de politiebevoegdheden en de geweldsmiddelen nader omschreven inclusief aanvullende toekenningseisen per geweldsmiddel.
 
 Indien de beantwoording van bovenstaande vragen nog onvoldoende duidelijkheid geeft over de aanwezigheid van de noodzaak, kunnen aanvullende vragen naar de (on)mogelijkheid van politieassistentie en de aandacht bij de scholing van boa's voor het onderwerp sociale vaardigheden nog een nadere indicatie geven. Indien zich vaak situaties voordoen waarin het aanwenden van sociale vaardigheden en geweldsbeheersingstechnieken niet (meer) afdoende zijn, kan er aanleiding zijn voor het toekennen van geweldsmiddelen. De toekenning geldt voor het gehele opsporingsgebied van de boa. In [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=A&z=2017-09-12&g=2017-09-12) staan de politiebevoegdheden en de geweldsmiddelen nader omschreven inclusief aanvullende toekenningseisen per geweldsmiddel.
 
@@ -116,7 +116,7 @@ De boa dient de hem toegekende bevoegdheden binnen het opsporingsonderzoek juist
 
 Van de boa wordt verlangd dat hij opgespoorde strafbare feiten kan afhandelen middels het opmaken van een proces-verbaal dat kan leiden tot vervolging en behandeling ter terechtzitting. Kennis van de wettelijke eisen die aan het proces-verbaal worden gesteld, is onontbeerlijk. In dit verband dient een boa een verdachte adequaat te kunnen informeren over de mogelijke gevolgen van een proces-verbaal. Dit vergt voldoende vaardigheid in gespreks- en benaderingstechnieken en vereist enige kennis van de taken en de organisatie van de rechterlijke macht.
 
-In [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=C&z=2018-10-26&g=2018-10-26) is het Examenplan Basisbekwaamheid opgenomen.
+In [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=C&z=2019-11-30&g=2019-11-30) is het Examenplan Basisbekwaamheid opgenomen.
 
 Voor veel boa’s zal verdieping en verbreding van de hierboven geformuleerde eisen noodzakelijk zijn om binnen het eigen werkverband adequaat te kunnen functioneren. De Minister van Justitie en Veiligheid kan op grond van [artikel 16, tweede lid, BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16) aanvullende bekwaamheidseisen stellen aan boa’s. De boa-werkgever kan tevens aanvullende eisen van vakbekwaamheid stellen aan de eigen boa’s en hen daarop (doen) examineren.
 
@@ -134,7 +134,7 @@ De wijze waarop een buitengewoon opsporingsambtenaar binnen de eigen werkorganis
 
 Uitgangspunt is dat zowel bij een eerste aanvraag als bij een aanvraag tot verlenging van benoeming als boa aan de bekwaamheidseis moet worden voldaan. Ingevolge [artikel 16, derde lid, van het BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16) kan van de bekwaamheidseis ontheffing worden verleend, indien de bekwaamheid voor het uitoefenen van de opsporingsbevoegdheid op andere wijze blijkt. Voor alle ontheffingen geldt, dat boa’s hier niet automatisch ‘recht’ op hebben. De werkgever dient de ontheffing te allen tijde te ondersteunen en aan te vragen.
 
-De ontheffingsgronden staan beschreven in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H&z=2018-10-26&g=2018-10-26) van deze beleidsregels. Eventuele specifieke ontheffingsgronden voor aanvullende opleidingen staan beschreven in de betreffende domeinen.
+De ontheffingsgronden staan beschreven in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H&z=2019-11-30&g=2019-11-30) van deze beleidsregels. Eventuele specifieke ontheffingsgronden voor aanvullende opleidingen staan beschreven in de betreffende domeinen.
 
 Tijdens het uitoefenen van zijn opsporingsbevoegdheden is de boa gehouden aan de regels van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en het [BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013) en voor economische delicten (ook) aan de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063). Indien hem politiebevoegdheden dan wel geweldsmiddelen zijn toegekend, dient hij zich tevens te gedragen overeenkomstig de regels van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788), de [WWM](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) alsmede de [Ai](https://wetten.overheid.nl/jci1.3:c:BWBR0006589). [Artikel 4, onder b, Ai](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=4) bepaalt dat het gebruik van een geweldsmiddel slechts is toegestaan door een ambtenaar die in het gebruik van dat geweldsmiddel is geoefend. Voorts bepaalt [artikel 5 Rwm](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&artikel=5) dat de boa slechts met een wapen kan worden uitgerust indien de noodzaak van het dragen van dat wapen aannemelijk wordt gemaakt en de bekwaamheid van de boa met het wapen is aangetoond. Daarbij moet de boa die één of meer politiebevoegdheden heeft ofwel politiebevoegdheden en één of meer geweldsmiddelen, voldoen aan de eisen zoals gesteld in de [RTGB](https://wetten.overheid.nl/jci1.3:c:BWBR0021973). In de RTGB worden regels gesteld inzake de toetsing van boa’s met betrekking tot geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en de schietvaardigheid.8De regeling is te vinden op http://wetten.overheid.nl/BWBR0021973/2013-01-01. Voor inhoudelijke uitleg van de RTGB en het toetsingsschema wordt verwezen naar de toelichting op deze regeling.
 
@@ -160,7 +160,7 @@ Bij een lokale, regionale boa-werkgever, zonder landelijk werkterrein, is de hoo
 
 De korpschef van de politie en sommige hoofden van Rijksdiensten met boa's zijn belast met het direct toezicht op boa's. Het gaat hierbij om taken die losstaan van de ondersteunende en bijstandsverlenende rol van de politie die berust op de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788). De direct toezichthouder voor boa's draagt zorg voor een goede uitvoering van zijn adviestaak en de afspraken ter borging en verbetering van de kwaliteit van de opsporing door de boa's.
 
-Het [BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013) geeft taken en bevoegdheden aan de direct toezichthouder. Deze staan beschreven in [bijlage B (Taken direct toezichthouder)](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=B&z=2018-10-26&g=2018-10-26).
+Het [BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013) geeft taken en bevoegdheden aan de direct toezichthouder. Deze staan beschreven in [bijlage B (Taken direct toezichthouder)](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=B&z=2019-11-30&g=2019-11-30).
 
 Het [BBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007013) geeft taken en bevoegdheden aan de direct toezichthouder. Deze staan beschreven in [bijlage B (Taken direct toezichthouder)](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=B&z=2017-09-12&g=2017-09-12).
 
@@ -182,7 +182,7 @@ Dit geldt ook voor aanvragen voor toekenning van politiebevoegdheden en geweldsm
 
 Zo kan ervoor gekozen worden om, bij wijze van proef, voor een kortere periode bepaalde geweldsmiddelen toe te kennen.
 
-In [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=J&z=2018-10-26&g=2018-10-26) wordt de aanvraagprocedure uiteengezet.
+In [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=J&z=2019-11-30&g=2019-11-30) wordt de aanvraagprocedure uiteengezet.
 
 In [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=J&z=2017-09-12&g=2017-09-12) wordt de aanvraagprocedure uiteengezet.
 
@@ -228,7 +228,7 @@ De volgorde van de modules van een traject van permanente her- en bijscholing is
 
 De door de Stichting ExTH ingestelde examencommissie bewaakt de kwaliteit van de examens (zie examenplan).
 
-In [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=D&z=2018-10-26&g=2018-10-26) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-i/.
+In [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=D&z=2019-11-30&g=2019-11-30) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-i/.
 
 In [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=D&z=2017-09-12&g=2017-09-12) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-i/.
 
@@ -262,7 +262,7 @@ De volgorde van de modules van een traject van permanente her- en bijscholing is
 
 De door de Minister van Justitie en Veiligheid ingestelde examencommissie bewaakt de kwaliteit van de examens (zie examenplan).
 
-In [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=E&z=2018-10-26&g=2018-10-26) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie http://www.exth.nl/examens/phb-domein-ii-milieu/.
+In [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=E&z=2019-11-30&g=2019-11-30) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie http://www.exth.nl/examens/phb-domein-ii-milieu/.
 
 In [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=E&z=2017-09-12&g=2017-09-12) is een overzicht opgenomen van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie http://www.exth.nl/examens/phb-domein-ii-milieu/.
 
@@ -298,7 +298,7 @@ De volgorde van de modules van een traject van permanente her- en bijscholing is
 
 De door de Stichting ExTH ingestelde examencommissie Onderwijs bewaakt de kwaliteit van de examens (zie examenplan).
 
-In [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=F&z=2018-10-26&g=2018-10-26) is een overzicht van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-iii/.
+In [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=F&z=2019-11-30&g=2019-11-30) is een overzicht van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-iii/.
 
 In [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=F&z=2017-09-12&g=2017-09-12) is een overzicht van de examenonderdelen en bijbehorende onderwerpen. In de laatste kolom is aangeven of het betreffende examenonderdeel met een theorietoets (T) of een praktijktoets (P) geëxamineerd wordt. Voor verdere uitwerking van de examenonderdelen: zie www.exth.nl/examens/phb-domein-iii/.
 
@@ -322,7 +322,7 @@ Inhuur is in dit domein ook mogelijk voor de in paragraaf 3.1 bij de uitzonderin
 
 ### 9.3. Bekwaamheidseis Domein IV Openbaar Vervoer
 
-De BOA OV opleiding vormt een ‘boa-plus opleiding’ in vergelijking met de basis bekwaamheidseis (boa-getuigschrift) en is een op maat gesneden opleiding gericht op het openbaar vervoer. In [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=G&z=2018-10-26&g=2018-10-26) staan de gedragsspecifieke leerdoelen beschreven waaraan de boa openbaar vervoer moet voldoen.
+De BOA OV opleiding vormt een ‘boa-plus opleiding’ in vergelijking met de basis bekwaamheidseis (boa-getuigschrift) en is een op maat gesneden opleiding gericht op het openbaar vervoer. In [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=G&z=2019-11-30&g=2019-11-30) staan de gedragsspecifieke leerdoelen beschreven waaraan de boa openbaar vervoer moet voldoen.
 
 De bekwaamheid wordt verkregen of behouden door het afleggen van het boa Openbaar Vervoer examen dan wel het met voldoende resultaat doorlopen van vijf modules. In verband met de introductie van inhuur in het domein wordt de mogelijkheid ontwikkeld om in aanvulling op de basisbekwaamheid een aanvullende module te volgen waarmee ook wordt voldaan aan de bekwaamheidseisen voor domein IV Openbaar Vervoer.
 
@@ -346,7 +346,7 @@ Hieronder vallen onder andere alle regelingen die de gemeenten uitvoeren op het 
 
 ### 10.2. Bekwaamheidseis Domein V Werk, inkomen en zorg
 
-In overleg met boa-werkgevers, de direct toezichthouders, de toezichthouders en eventueel andere betrokken partners wordt nader bekeken in hoeverre aanvullende bekwaamheidseisen verplicht dienen te worden gesteld en wat die aanvullende bekwaamheidseisen precies moeten zijn. Tot die tijd is het de verantwoordelijkheid van de boa-werkgever om zijn boa’s werk, inkomen en zorg aanvullend op te leiden voor hun specifieke taak. Indien de boa-werkgever kan voorzien in een opleiding voor de boa die voldoet aan de eisen welke worden gesteld aan de semi-permanente ontheffing ([bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H&z=2018-10-26&g=2018-10-26)) kan de boa ontheffing krijgen voor de basisbekwaamheid.
+In overleg met boa-werkgevers, de direct toezichthouders, de toezichthouders en eventueel andere betrokken partners wordt nader bekeken in hoeverre aanvullende bekwaamheidseisen verplicht dienen te worden gesteld en wat die aanvullende bekwaamheidseisen precies moeten zijn. Tot die tijd is het de verantwoordelijkheid van de boa-werkgever om zijn boa’s werk, inkomen en zorg aanvullend op te leiden voor hun specifieke taak. Indien de boa-werkgever kan voorzien in een opleiding voor de boa die voldoet aan de eisen welke worden gesteld aan de semi-permanente ontheffing ([bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H&z=2019-11-30&g=2019-11-30)) kan de boa ontheffing krijgen voor de basisbekwaamheid.
 
 In overleg met boa-werkgevers, de direct toezichthouders, de toezichthouders en eventueel andere betrokken partners wordt nader bekeken in hoeverre aanvullende bekwaamheidseisen verplicht dienen te worden gesteld en wat die aanvullende bekwaamheidseisen precies moeten zijn. Tot die tijd is het de verantwoordelijkheid van de boa-werkgever om zijn boa’s werk, inkomen en zorg aanvullend op te leiden voor hun specifieke taak. Indien de boa-werkgever kan voorzien in een opleiding voor de boa die voldoet aan de eisen welke worden gesteld aan de semi-permanente ontheffing ([bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H&z=2017-09-12&g=2017-09-12)) kan de boa ontheffing krijgen voor de basisbekwaamheid.
 
@@ -878,9 +878,9 @@ Deze toerekening van de gedragingen van de boa in dienst bij een privaatrechteli
 
 ### Klachtenprocedure
 
-Indien de boa niet in dienst is van een bestuursorgaan, maar van een privaatrechtelijke organisatie (bijvoorbeeld de Stichting Landelijke Inspectie Dierenbescherming of de Vereniging Natuurmonumenten), dan rekent de Nationale ombudsman de gedragingen van de boa toe aan de Minister van Justitie en Veiligheid en derhalve acht hij zich bevoegd.
+Indien de boa niet in dienst is van een bestuursorgaan, maar van een privaatrechtelijke organisatie (bijvoorbeeld de Stichting Landelijke Inspectie Dierenbescherming of de Vereniging Natuurmonumenten), dan rekent de Nationale ombudsman de gedragingen van de boa toe aan de Minister van Justitie en Veiligheid en derhalve acht hij zich bevoegd. Dit geldt ook voor klachten over de wijze waarop de privaatrechtelijke organisatie de klacht heeft behandeld. Deze toerekening is bedoeld als grondslag voor het indienen van een klacht bij de Nationale ombudsman. Dit is immers formeel alleen mogelijk voor gedragingen van bestuursorganen. De Minister van Justitie en Veiligheid krijgt door de toerekening van de gedragingen geen (vertegenwoordigende) rol in de klachtprocedure. De Nationale ombudsman kan zich, na ontvangst van de klacht door de minister, rechtstreeks richten tot de particuliere organisatie waar de boa in dienst is. Deze organisatie blijft verantwoordelijk voor de klachtafhandeling.
 
-Deze toerekening van de gedragingen van de boa in dienst bij een privaatrechtelijke organisatie is bedoeld om een grondslag te scheppen voor het indienen van een klacht bij de Nationale ombudsman. Dit is immers in eerste instantie alleen mogelijk voor gedragingen van bestuursorganen. De Minister c.q. het Ministerie van Justitie en Veiligheid krijgt door de toerekening van de gedragingen geen (vertegenwoordigende) rol in de klachtprocedure. De Nationale ombudsman kan zich, na ontvangst van de klacht door de Minister c.q. het Ministerie van Justitie en Veiligheid, rechtstreeks richten tot de particuliere organisatie waar de boa in dienst is. Deze organisatie blijft verantwoordelijk voor de klachtafhandeling.
+Overigens zijn er ook andere instanties waar een klacht kan worden ingediend over de wijze waarop een privaatrechtelijke organisatie een klacht over haar boa heeft behandeld, bijvoorbeeld bij de OV-Ombudsman waar het gaat om boa’s van openbaarvervoerbedrijven.
 
 ### Klachtenprocedure
 
@@ -982,7 +982,7 @@ Geweld en agressie tegen boa’s worden niet getolereerd. In de praktijk beteken
 
 ### 4.2. Landelijke opsporingsbevoegdheid
 
-Boa’s zijn landelijk opsporingsbevoegd, hierdoor kunnen afspraken worden gemaakt over de inzet van boa's op regionaal niveau. Aan de mogelijkheid om landelijk te werken worden voorwaarden gesteld. De boa onthoudt zich - zoals een politiefunctionaris - in principe van optreden buiten zijn gebied van aanstelling.10Zie artikel 6, tweede lid, van de Politiewet 2012. Hij mag alleen dan optreden buiten zijn eigen gebied, indien dat gebeurt in overleg met het bevoegde gezag (de lokale driehoek) en - indien van toepassing - in overleg met het bevoegd gezag van een eventueel ander gebied dan het gebied van aanstelling. Het is de taak van de toezichthouder en direct toezichthouder om het bevoegd gezag van de betreffende gebieden te informeren. Deze afstemming dient te worden vastgelegd in een samenwerkingsovereenkomst. Hierin moet staan welke partijen met elkaar gaan samenwerken, hoe wordt omgegaan met het gebruik van politiebevoegdheden en geweldsmiddelen, wie de direct toezichthouder en toezichthouder zijn en of het bevoegd gezag is geïnformeerd. Het is aan de betreffende partijen welke afspraken zij nog meer willen vaststellen in de overeenkomst (bijvoorbeeld aantal boa's). [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=I&z=2018-10-26&g=2018-10-26) bevat een voorbeeld van een samenwerkingsovereenkomst die ten grondslag kan liggen aan een samenwerkingsverband.
+Boa’s zijn landelijk opsporingsbevoegd, hierdoor kunnen afspraken worden gemaakt over de inzet van boa's op regionaal niveau. Aan de mogelijkheid om landelijk te werken worden voorwaarden gesteld. De boa onthoudt zich - zoals een politiefunctionaris - in principe van optreden buiten zijn gebied van aanstelling.10Zie artikel 6, tweede lid, van de Politiewet 2012. Hij mag alleen dan optreden buiten zijn eigen gebied, indien dat gebeurt in overleg met het bevoegde gezag (de lokale driehoek) en - indien van toepassing - in overleg met het bevoegd gezag van een eventueel ander gebied dan het gebied van aanstelling. Het is de taak van de toezichthouder en direct toezichthouder om het bevoegd gezag van de betreffende gebieden te informeren. Deze afstemming dient te worden vastgelegd in een samenwerkingsovereenkomst. Hierin moet staan welke partijen met elkaar gaan samenwerken, hoe wordt omgegaan met het gebruik van politiebevoegdheden en geweldsmiddelen, wie de direct toezichthouder en toezichthouder zijn en of het bevoegd gezag is geïnformeerd. Het is aan de betreffende partijen welke afspraken zij nog meer willen vaststellen in de overeenkomst (bijvoorbeeld aantal boa's). [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=I&z=2019-11-30&g=2019-11-30) bevat een voorbeeld van een samenwerkingsovereenkomst die ten grondslag kan liggen aan een samenwerkingsverband.
 
 ### 4.3. Aanvraagprocedure
 
