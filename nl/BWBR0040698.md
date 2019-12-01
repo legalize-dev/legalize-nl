@@ -4,7 +4,7 @@ identifier: "BWBR0040698"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-11"
-last_updated: "2019-06-25"
+last_updated: "2019-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040698"
 soort: "ministeriele-regeling-BES"
@@ -58,9 +58,11 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 2. Aan het Water- en Energiebedrijf Bonaire NV kan op aanvraag over een of meer van de kalenderjaren 2018 tot en met 2022 subsidie worden verleend met als doel het dekken van de exploitatietekorten van de RWZI over de genoemde kalenderjaren.
 
+3. Aan Sint Eustatius Utility Company N.V. (STUCO) kan op aanvraag eenmalig subsidie worden verleend voor het vervangen van de transportleiding voor drinkwater op Sint Eustatius mits daarvoor voldoende middelen beschikbaar zijn op de begroting van het Ministerie van Infrastructuur en Waterstaat.
+
 ##### Artikel 3. (subsidiebedragen)
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+1. De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
 | Omschrijving | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -75,13 +77,15 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 | k. Extra subsidie op drinkwater Bonaire |   | 700 |   |   |   |   |
 | Totaal | 6.435 | 5.523 | 2.211 | 2.211 | 2.211 | 2.211 |
 
+2. De subsidie, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01), bedraagt ten hoogste € 880.000.
+
 ##### Artikel 4. (aanvraag)
 
 1. De aanvraag om subsidie kan op een of meer van de genoemde kalenderjaren betrekking hebben. Voor zover betrekking hebbend op een lopend kalenderjaar wordt deze zo spoedig mogelijk doch uiterlijk voor 1 september van dat jaar ingediend. Deze termijn kan door de minister worden verlengd tot een daarbij te bepalen datum.
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -91,7 +95,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 
 ##### Artikel 5. (verplichtingen subsidieontvanger)
 
-1. De voor enig jaar te subsidiëren activiteiten moeten uiterlijk 31 december van dat jaar zijn verricht.
+1. De voor enig jaar te subsidiëren activiteiten moeten uiterlijk 31 december van dat jaar zijn verricht. In afwijking van de eerste volzin worden de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01), verricht voor 1 januari 2022.
 
 2. De subsidieontvanger is verplicht onverwijld een schriftelijke melding aan de minister te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel vóór de in het eerste lid genoemde datum zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen uiterlijk op de in het eerste lid genoemde datum zal worden voldaan.
 
@@ -101,7 +105,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040
 
 5. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-06-25&g=2019-06-25).
+6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01).
 
 ##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
@@ -117,7 +121,7 @@ De minister kan een beschikking tot subsidieverlening of subsidievaststelling in
 
 ##### Artikel 7. (subsidievaststelling)
 
-1. De subsidieontvanger dient uiterlijk 1 mei na het laatste kalenderjaar van het tijdvak waarvoor subsidie is aangevraagd bij de minister een aanvraag tot subsidievaststelling in.
+1. De subsidieontvanger dient uiterlijk 1 mei na het laatste kalenderjaar van het tijdvak waarvoor subsidie is aangevraagd of het kalenderjaar waarin de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2019-12-01&g=2019-12-01), zijn voltooid, bij de minister een aanvraag tot subsidievaststelling in.
 
 2. De subsidieontvanger toont bij de aanvraag tot subsidievaststelling door middel van een financiële verantwoording aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -141,11 +145,11 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2019-06-25&g=2019-06-25) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2019-12-01&g=2019-12-01) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2019-06-25&g=2019-06-25) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2019-06-25&g=2019-06-25) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2019-12-01&g=2019-12-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2019-12-01&g=2019-12-01) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
