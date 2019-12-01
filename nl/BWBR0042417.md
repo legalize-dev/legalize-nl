@@ -4,7 +4,7 @@ identifier: "BWBR0042417"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-12-01"
-last_updated: "2019-07-18"
+last_updated: "2019-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042417"
 soort: "AMvB"
@@ -118,13 +118,13 @@ Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-07-18&g=2019-07-18), onderdelen G, H, I, onder 1 en 2, J, K, L, M, N, O, V, onder 1, 2 en 3, en W, tweede lid, en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=II&z=2019-07-18&g=2019-07-18) werken terug tot en met 1 januari 2019.
+2. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-12-01&g=2019-12-01), onderdelen G, H, I, onder 1 en 2, J, K, L, M, N, O, V, onder 1, 2 en 3, en W, tweede lid, en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=II&z=2019-12-01&g=2019-12-01) werken terug tot en met 1 januari 2019.
 
-3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-07-18&g=2019-07-18), onderdelen B, C, D, E, F, Q, R, S, T, U, V, onder 4 en 5, en W, eerste lid, werkt terug tot en met 28 maart 2019.
+3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-12-01&g=2019-12-01), onderdelen B, C, D, E, F, Q, R, S, T, U, V, onder 4 en 5, en W, eerste lid, werkt terug tot en met 28 maart 2019.
 
-4. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-07-18&g=2019-07-18), onderdelen, A, onder 1, I, onder 3, en P, onder 1, werkt terug tot en met 1 juni 2019.
+4. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-12-01&g=2019-12-01), onderdelen, A, onder 1, I, onder 3, en P, onder 1, werkt terug tot en met 1 juni 2019.
 
-5. In afwijking van het eerste lid, treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-07-18&g=2019-07-18), onderdelen, A, onder 2, I, onder 4, en P, onder 2, in werking met ingang van 1 december 2019.
+5. In afwijking van het eerste lid, treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0042417&artikel=I&z=2019-12-01&g=2019-12-01), onderdelen, A, onder 2, I, onder 4, en P, onder 2, in werking met ingang van 1 december 2019.
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 mei 2019, nr. 2019-20190000250244, gedaan in overeenstemming met de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
