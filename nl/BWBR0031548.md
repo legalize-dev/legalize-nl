@@ -4,7 +4,7 @@ identifier: "BWBR0031548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-28"
-last_updated: "2014-12-30"
+last_updated: "2019-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031548"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ##### Artikel 3
 
-1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2014-12-30&g=2014-12-30) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
+1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2014-12-30&g=2019-12-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
