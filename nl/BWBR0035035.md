@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2018-05-23"
+last_updated: "2019-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen, dan wel door of uit te voeren naar personen of entiteiten in de Centraal-Afrikaanse Republiek, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, dan wel over te dragen aan, daaronder begrepen over te brengen naar, personen of entiteiten in de Centraal-Afrikaanse Republiek, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop, uitvoer of overdracht betreft van:
 
@@ -62,7 +62,9 @@ Besluit:
 
 - c. beschermende kledij, waaronder kogelwerende vesten en militaire helmen, die door VN-personeel, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar de Centraal-Afrikaanse Republiek wordt uitgevoerd;
 
-- d. handvuurwapens en aanverwant materieel die uitsluitend bedoeld zijn voor gebruik in internationale patrouilles die de Sangha River Tri-national Protected Area beveiligen tegen stropen, de smokkel van ivoor of wapens, en andere activiteiten die in strijd zijn met de nationale wetten van de Centraal-Afrikaanse Republiek of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- d. handvuurwapens en aanverwante uitrusting, uitsluitend bedoeld voor gebruik in internationaal geleide patrouilles ten behoeve van de beveiliging in het Sangha River Tri–national Protected Area alsmede voor gebruik door gewapende wildopzichters van het Chinko Project of het nationaal park Bamingui-Bangoran ter bestrijding van stropen, smokkel van ivoor en wapens, en ter bestrijding van andere activiteiten die in strijd zijn met de nationale wetten of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
+
+- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, uitsluitend bedoeld ter ondersteuning van of voor gebruik in het kader van de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek en ten behoeve van de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
