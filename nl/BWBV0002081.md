@@ -4,7 +4,7 @@ identifier: "BWBV0002081"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "2003-11-20"
+last_updated: "2019-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002081"
 soort: "verdrag"
@@ -52,6 +52,8 @@ Erop wijzend dat Staten er zorg voor dienen te dragen dat de producent van het a
 Volledig erkennend dat iedere Staat het soevereine recht heeft de binnenkomst of verwijdering van gevaarlijke afvalstoffen en andere afvalstoffen uit het buitenland op zijn grondgebied te verbieden,
 
 Voorts het toenemend verlangen erkennend dat grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan in andere Staten, in het bijzonder in ontwikkelingslanden, worden verboden,
+
+Erkennende dat bij grensoverschrijdende overbrenging van gevaarlijke afvalstoffen, in het bijzonder naar ontwikkelingslanden, het risico groot is dat er geen sprake is van milieuhygiënisch verantwoord beheer van gevaarlijke afvalstoffen volgens de vereisten van dit Verdrag,
 
 Ervan overtuigd dat gevaarlijke afvalstoffen en andere afvalstoffen moeten worden verwijderd in de Staat waar zij zijn geproduceerd, voor zover verenigbaar met een milieuhygiënisch verantwoord en doelmatig beheer,
 
@@ -558,6 +560,70 @@ De Secretaris-Generaal van de Verenigde Naties is de Depositaris van dit Verdrag
 ##### Artikel 29. Authentieke teksten
 
 De originele teksten van dit Verdrag in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal zijn gelijkelijk authentiek.
+
+##### Artikel 1
+
+Tenzij anders overeengekomen, zoals bedoeld in artikel 20 van het Verdrag, wordt de arbitrageprocedure gevoerd in overeenstemming met de artikelen 2 tot en met 10 hieronder.
+
+##### Artikel 2
+
+De eisende partij deelt het Secretariaat mee dat de partijen zijn overeengekomen het geschil aan arbitrage te onderwerpen ingevolge het tweede of derde lid van artikel 20 en voegt, in het bijzonder, de artikelen van het Verdrag bij waarover onenigheid bestaat wat de uitlegging of de toepassing ervan betreft. Het Secretariaat zendt de aldus ontvangen gegevens aan alle Partijen bij het Verdrag.
+
+##### Artikel 3
+
+Het scheidsgerecht bestaat uit drie leden. Ieder van de partijen bij het geschil benoemt een scheidsman, en de twee aldus benoemde scheidsmannen wijzen in onderlinge overeenstemming de derde scheidsman aan, die de voorzitter van het scheidsgerecht zal zijn. De laatstbedoelde dient geen staatsburger te zijn van één van de partijen bij het geschil, noch zijn gewone verblijfplaats te hebben op het grondgebied van één van deze partijen, noch werknemer van één van hen te zijn, noch de aangelegenheid in een andere hoedanigheid te hebben behandeld.
+
+##### Artikel 4
+
+1. Indien de voorzitter van het scheidsgerecht niet binnen twee maanden na de benoeming van de tweede scheidsman is aangewezen, wijst de Secretaris-Generaal der Verenigde Naties deze op verzoek van één van beide partijen aan binnen een volgend tijdvak van twee maanden.
+
+2. Indien één van de partijen bij het geschil niet binnen twee maanden na ontvangst van het verzoek daartoe een scheidsman benoemt, kan de andere partij dit ter kennis brengen van de Secretaris-Generaal der Verenigde Naties, die binnen een volgend tijdvak van twee maanden de voorzitter van het scheidsgerecht aanwijst. Zodra hij is aangewezen, verzoekt de voorzitter van het scheidsgerecht de partij die geen scheidsman heeft benoemd, dit binnen twee maanden te doen. Na verloop van dat tijdvak stelt hij de Secretaris-Generaal der Verenigde Naties op de hoogte, die deze benoeming verricht binnen een volgend tijdvak van twee maanden.
+
+##### Artikel 5
+
+1. Het scheidsgerecht doet uitspraak in overeenstemming met het internationale recht en in overeenstemming met de bepalingen van dit Verdrag.
+
+2. Een scheidsgerecht gevormd krachtens de bepalingen van deze Bijdrage stelt zijn eigen procedureregels op.
+
+##### Artikel 6
+
+1. De beslissingen van het scheidsgerecht zowel aangaande de procedure als aangaande de zaak zelve, worden genomen met een meerderheid van de stemmen van zijn leden.
+
+2. Het scheidsgerecht kan alle passende maatregelen nemen teneinde de feiten vast te stellen. Het kan, op verzoek van één van de partijen, wezenlijke voorlopige maatregelen ter bescherming nemen.
+
+3. De partijen bij het geschil verschaffen alle faciliteiten die benodigd zijn voor een doeltreffende uitvoering van de procedure.
+
+4. De afwezigheid of het verzuim van een partij bij het geschil vormt geen belemmering voor de procedure.
+
+##### Artikel 7
+
+Het scheidsgerecht kan tegeneisen horen en vaststellen die rechtstreeks uit de materie van het geschil voortkomen.
+
+##### Artikel 8
+
+Tenzij het scheidsgerecht anders bepaalt gezien de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, daaronder begrepen de bezoldiging van zijn leden, in gelijke delen door de partijen bij het geschil gedragen. Het scheidsgerecht houdt aantekening van al zijn onkosten, en verstrekt de partijen daarvan een definitieve opgave.
+
+##### Artikel 9
+
+Iedere Partij die bij het onderwerp van het geschil een belang van juridische aard heeft dat door de beslissing in de zaak geschaad kan worden, kan zich voegen in de procedure indien het scheidsgerecht hiermee instemt.
+
+##### Artikel 10
+
+1. Het scheidsgerecht komt binnen vijf maanden na de datum waarop het is ingesteld tot een uitspraak, tenzij het het nodig acht de termijn te verlengen voor een tijdvak van niet langer dan vijf maanden.
+
+2. De uitspraak van het scheidsgerecht wordt met redenen omkleed. De uitspraak is definitief en bindend voor de partijen bij het geschil.
+
+3. Ieder geschil dat tussen de partijen kan ontstaan betreffende de uitlegging of de uitvoering van de uitspraak kan door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan, of, indien het niet voor dit scheidsgerecht aanhangig kan worden gemaakt, aan een ander scheidsgerecht dat voor dit doel wordt gevormd op dezelfde wijze als het eerste.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized to that effect, have signed this Convention.
+
+DONE at Basel on the 22nd day of March 1989
+
+##### Artikel 4A
+
+1. Iedere in Bijlage VII genoemde Partij verbiedt de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen naar andere Staten dan de in Bijlage VII genoemde, wanneer deze zijn bestemd om te worden verwijderd volgens handelingen als bedoeld in Bijlage IV A.
+
+2. Iedere in Bijlage VII genoemde Partij beëindigt tot 31 december 1997 geleidelijk de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen als bedoeld in artikel 1, eerste lid, letter a, van het Verdrag naar andere Staten dan de in de Bijlage VII genoemde, wanneer deze zijn bestemd om te worden verwijderd volgens handelingen als bedoeld in Bijlage IV B, en verbiedt deze met ingang van die datum. Een dergelijke grensoverschrijdende overbrenging wordt slechts verboden, wanneer de desbetreffende afvalstoffen in het Verdrag als gevaarlijk worden aangemerkt.
 
 ##### Artikel 1
 
