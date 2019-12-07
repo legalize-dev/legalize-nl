@@ -4,7 +4,7 @@ identifier: "BWBR0035180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-26"
-last_updated: "2019-09-04"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035180"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **basisverordening:** verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
-- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](32008R0555), [verordening (EG) nr. 606/2009](32009R0606), gedelegeerde verordening (EU) 2018/273, uitvoeringsverordening (EU) 2018/274, gedelegeerde [verordening 2019/33](31933R2019) en uitvoeringsverordening (EU) 2019/34;
+- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](32008R0555), gedelegeerde verordening (EU) 2018/273, uitvoeringsverordening (EU) 2018/274, gedelegeerde verordening (EU) 2019/33, uitvoeringsverordening (EU) 2019/34, gedelegeerde verordening (EU) 2019/934 en uitvoeringsverordening (EU) 2019/935;
 
 - **enig document:** enig document als bedoeld in artikel 94, eerste lid, onderdeel d, van de basisverordening;
 
@@ -78,8 +78,6 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EG) nr. 555/2008:** Verordening (EG) nr. 555/2008 van de Commissie van 27 juni 2008 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad houdende een gemeenschappelijke ordening van de wijnmarkt, wat betreft de steunprogramma’s, de handel met derde landen, het productiepotentieel en de controles in de wijnsector (PbEU 2008, L 170);
 
-- **verordening (EG) nr. 606/2009:** Verordening (EG) nr. 606/2009 van de Commissie van 10 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad, wat betreft de wijncategorieën, oenologische procédés en de daarvoor geldende beperkingen (PbEU 2009, L 193);
-
 - **verordening (EU) nr. 1306/2013:** verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad (Pb EU 2013, L 347);
 
 - **verordening (EU) nr. 251/2014:** Verordening (EU) nr. 251/2014 van het Europees Parlement en de Raad van 26 februari 2014 inzake de definitie, de aanduiding, de aanbiedingsvorm, de etikettering en de bescherming van geografische aanduidingen van gearomatiseerde wijnbouwproducten en houdende intrekking van [Verordening (EEG) nr. 1601/91](31991R1601) van de Raad (Pb EU 2014, L 84);
@@ -91,6 +89,10 @@ In deze regeling wordt verstaan onder:
 - **gedelegeerde verordening (EU) 2019/33:** Gedelegeerde Verordening (EU) 2019/33 van de Commissie van 17 oktober 2018 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees ...Parlement en de Raad wat betreft aanvragen tot bescherming van oorsprongsbenamingen, geografische aanduidingen en traditionele aanduidingen in de wijnsector, de bezwaarprocedure, gebruiksbeperkingen, wijzigingen van productdossiers, de annulering van bescherming en de etikettering en presentatie (Pb EU 2019, L9);
 
 - **uitvoeringsverordening (EU) 2019/34:** Uitvoeringsverordening (EU) 2019/34 van de Commissie van 17 oktober 2018 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft aanvragen tot bescherming van oorsprongsbenamingen, geografische aanduidingen en traditionele aanduidingen in de wijnsector, de bezwaarprocedure, wijzigingen van productdossiers, het register van beschermde namen, de annulering van bescherming en het gebruik van symbolen, en voor Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft een adequaat controlesysteem (Pb EU 2019, L9);
+
+- **gedelegeerde verordening (EU) 2019/934:** Gedelegeerde Verordening (EU) 2019/934 van de Commissie van 12 maart 2019 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de wijnbouwoppervlakten waar het alcoholgehalte mag worden verhoogd, de toegestane oenologische procedés en de beperkingen met betrekking tot de productie en de bewaring van wijnbouwproducten, het minimale alcoholpercentage voor bijproducten en de verwijdering van die producten, en de bekendmaking van OIV-dossiers (PbEU 2019, L149);
+
+- **uitvoeringsverordening (EU) 2019/935:** Uitvoeringsverordening (EU) 2019/935 van de Commissie van 16 april 2019 tot vaststelling van voorschriften voor de toepassing van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft analysemethoden om de fysische, chemische en organoleptische kenmerken van wijnbouwproducten te bepalen, en wat betreft meldingen van besluiten van de lidstaten betreffende de verhoging van het natuurlijke alcoholgehalte (PbEU 2019, L149;
 
 - **wijn:** de producten, genoemd in bijlage VII, deel II, van de basisverordening;
 
@@ -142,9 +144,7 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 ##### Artikel 6
 
-1. Degene die zich in zijn bedrijf regelmatig bezighoudt met het verzoeten van wijn verstrekt per kwartaal aan de Rijksdienst voor Ondernemend Nederland de opgave, bedoeld in bijlage ID, onderdeel 5, bij verordening (EG) nr. 606/2009.
-
-2. Degene die zich niet regelmatig bezighoudt met verzoeten van wijn dient de opgave overeenkomstig de in bijlage ID, onderdeel 5, bij verordening (EG) nr. 606/2009, vastgestelde wijze in bij de Rijksdienst voor Ondernemend Nederland.
+Het minimumpercentage alcoholvolume in bijproducten is 5% van het alcoholvolume in de geproduceerde wijn.
 
 ##### Artikel 7
 
@@ -234,7 +234,7 @@ Een aanvraag tot opname in het register van beschermde oorsprongsbenamingen en g
 
 ##### Artikel 18
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2019-09-04&g=2019-09-04), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2019-12-07&g=2019-12-07), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
 2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
@@ -326,7 +326,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 19c
 
-1. De minister kan toestemming verlenen voor het uitvoeren van een grootschalig experiment voor de toepassing van een oenologische behandeling of een oenologisch procedé als bedoeld in artikel 4 van [verordening (EG) nr. 606/2009](32009R0606).
+1. De minister kan voor drie jaar toestemming verlenen voor het uitvoeren van een grootschalig experiment voor de toepassing van een oenologische behandeling of een oenologisch procedé als bedoeld in artikel 4 van gedelegeerde verordening (EU) 2019/934.
 
 2. Voor het verlenen van toestemming wordt aan de volgende voorwaarden voldaan:
 
@@ -365,3 +365,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 ### Hoofdstuk 3. Overige bepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
+
+#### § 4. Administratieve verplichtingen
