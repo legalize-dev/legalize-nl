@@ -4,7 +4,7 @@ identifier: "BWBR0038425"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2018-12-08"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038425"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De toeslag voor de werkzaamheden van rechterlijke ambtenaren, bedoeld in [artike
 
 ##### Artikel 2
 
-1. Het normbedrag voor de berekening van de hoogte van de toeslag voor de werkzaamheden, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) bedraagt in het jaar 2018: € 30,77.
+1. Het normbedrag voor de berekening van de hoogte van de toeslag voor de werkzaamheden, bedoeld in [artikel 6h, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6h) bedraagt in het jaar 2019: € 31,23.
 
 2. De toeslag bedraagt per gewerkt uur een percentage van het normbedrag, namelijk:
 
