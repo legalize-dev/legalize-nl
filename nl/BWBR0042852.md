@@ -4,7 +4,7 @@ identifier: "BWBR0042852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-08"
-last_updated: "2019-11-01"
+last_updated: "2019-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042852"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De minister verstrekt uitsluitend een eenmalige specifieke uitkering aan een gem
 
 ##### Artikel 4. Aanvraag
 
-1. Zowel de gemeente als de hoofdaanvrager kunnen een aanvraag voor de eenmalige specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-11-01), indienen bij de minister.
+1. Zowel de gemeente als de hoofdaanvrager kunnen een aanvraag voor de eenmalige specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-12-08), indienen bij de minister.
 
 2. Een aanvraag bevat in ieder geval:
 
@@ -100,7 +100,7 @@ De minister verstrekt uitsluitend een eenmalige specifieke uitkering aan een gem
 
 ##### Artikel 5. Deskundigheidsbevordering
 
-De deskundigheidsbevordering bedoeld in [artikel 3, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=3&z=2019-12-08&g=2019-11-01), wordt aangeboden in de vorm van trainingen en intervisies van het Rijksopleidingsinstituut tegengaan Radicalisering, tenzij de minister toestemming geeft tot het afnemen van een training op het gebied van het tegengaan van radicalisering of extremisme van een andere organisatie.
+De deskundigheidsbevordering bedoeld in [artikel 3, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=3&z=2019-12-08&g=2019-12-08), wordt aangeboden in de vorm van trainingen en intervisies van het Rijksopleidingsinstituut tegengaan Radicalisering, tenzij de minister toestemming geeft tot het afnemen van een training op het gebied van het tegengaan van radicalisering of extremisme van een andere organisatie.
 
 ##### Artikel 6. Evaluatie
 
@@ -110,7 +110,7 @@ De deskundigheidsbevordering bedoeld in [artikel 3, onder d](https://wetten.over
 
 ##### Artikel 7. Hoogte specifieke uitkering
 
-1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-11-01) bedraagt maximaal € 7.000.000,00.
+1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-12-08) bedraagt maximaal € 7.000.000,00.
 
 2. Op de aanvraag wordt positief beslist indien uit het ingediende plan en de daarbij behorende begroting blijkt dat de aanpak van radicalisering, extremisme en terrorisme in de gemeente of de regio van de hoofdaanvrager noodzakelijk is.
 
@@ -132,7 +132,7 @@ De minister betaalt de gemeente of hoofdaanvrager een voorschot van 100% van de 
 
 - b. de verantwoording van de besteding van de specifieke uitkering met het oog op de vaststelling;
 
-- c. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=6&z=2019-12-08&g=2019-11-01).
+- c. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=6&z=2019-12-08&g=2019-12-08).
 
 2. Intrekking of wijziging van een verlening van een uitkering werkt terug tot en met het tijdstip waarop de uitkering is verleend, tenzij bij intrekking of wijziging anders is bepaald.
 
@@ -154,7 +154,7 @@ De minister betaalt de gemeente of hoofdaanvrager een voorschot van 100% van de 
 
 ##### Artikel 11. ambtshalve vaststelling
 
-In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=10&z=2019-12-08&g=2019-11-01), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente waaraan de uitkering is verleend wordt gewijzigd.
+In afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=10&z=2019-12-08&g=2019-12-08), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente waaraan de uitkering is verleend wordt gewijzigd.
 
 ##### Artikel 12. Onverschuldigde betaling
 
