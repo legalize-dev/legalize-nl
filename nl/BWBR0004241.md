@@ -4,7 +4,7 @@ identifier: "BWBR0004241"
 country: "nl"
 rank: "kb"
 publication_date: "2019-12-10"
-last_updated: "2006-04-22"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004241"
 soort: "KB"
@@ -52,15 +52,17 @@ Er is een Nationaal Comité 4 en 5 mei voor de nationale herdenking en viering b
 
 Het Nationaal Comité heeft tot doel en taak:
 
-- a. het geven van richting aan de zingeving van herdenken en vieren;
+- a. het geven van richting aan de zingeving van herdenken, vieren en het levend houden van de herinnering aan de Tweede Wereldoorlog;
 
-- b. de organisatie van de jaarlijkse nationale herdenking op 4 mei;
+- b. de organisatie van de jaarlijkse nationale herdenking op vier mei;
 
-- c. de organisatie van de jaarlijkse nationale viering van de bevrijding op 5 mei;
+- c. de organisatie van de jaarlijkse nationale viering van de bevrijding op vijf mei;
 
-- d. het voeren van een voorlichtingsbeleid dat tot doel heeft de betrokkenheid bij en participatie aan herdenken en vieren te vergroten;
+- d. het (doen) ontwikkelen en voeren van educatie, publiekscampagnes en een voorlichtingsbeleid/programma dat tot doel heeft de betrokkenheid bij en participatie aan herdenken, vieren en het levend houden van de herinnering te vergroten;
 
-- e. het bevorderen van de afstemming van landelijke en plaatselijke manifestaties.
+- e. het (doen) adviseren en ondersteunen van andere herdenkingen in het land en het bevorderen van de afstemming van landelijke en plaatselijke manifestaties;
+
+- f. en al hetgeen met vorenstaande verband houdt of daartoe bevorderlijk kan zijn, alles in de ruimste zin van het woord.
 
 ##### Artikel 3
 
@@ -84,7 +86,7 @@ De voorzitter van het Nationaal Comité is tevens voorzitter van het Dagelijks B
 
 ##### Artikel 7
 
-De Commissaris der Koningin in de provincie Zuid-Holland, de Chef Defensiestaf van het Ministerie van Defensie, de Secretaris-Generaal van het Ministerie van Onderwijs, Cultuur en Wetenschappen en de Secretaris- Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport zijn lid van het Nationaal Comité en kunnen de vergaderingen van het Dagelijks Bestuur bijwonen.
+De Commissaris van de Koning in de provincie Zuid-Holland en de Commandant der Strijdkrachten van het Ministerie van Defensie zijn lid van het Nationaal Comité en kunnen de vergaderingen van het Dagelijks Bestuur bijwonen.
 
 ##### Artikel 8
 
@@ -112,7 +114,7 @@ De leden van het Nationaal Comité ontvangen een vergoeding voor reis- en verbli
 
 ##### Artikel 12
 
-Aan het Nationaal Comité wordt door Onze Minister-President, Minister van Algemene Zaken, een ambtelijk adviseur toegevoegd.
+Aan het Nationaal Comité wordt door Onze Minister-President, Minister van Algemene Zaken, en de Minister van Volksgezondheid, Welzijn en Sport, elk een ambtelijk adviseur toegevoegd.
 
 Onze Minister-President, Minister van Algemene Zaken en Onze Minister van Welzijn, Volksgezondheid en Cultuur zijn belast met de uitvoering van dit besluit, dat zal worden geplaatst in de Nederlandse Staatscourant en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
 
