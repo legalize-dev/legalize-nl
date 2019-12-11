@@ -4,7 +4,7 @@ identifier: "BWBR0027093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2018-12-08"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027093"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De indexering van de onkostenvergoeding wordt met terugwerkende kracht tot en me
 
 ##### Artikel 3
 
-Het bedrag van de algemene onkostenvergoeding voor het jaar 2018 wordt met 1,5% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage genoemde bedrag.
+Het bedrag van de algemene onkostenvergoeding voor het jaar 2019 wordt met 1,47% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage genoemde bedrag.
 
 ##### Artikel 4
 
@@ -161,13 +161,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in artikel 3
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2019-12-11&g=2019-12-11)
 
 | Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- |
-| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | € 4.981 | € 944 | € 141 | € 3.896 |
-| niet-rechterlijk lid van de Raad voor de rechtspraak | € 4.885 | € 944 | € 141 | € 3.800 |
-| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het bedrijfsleven | € 2.872 | € 944 | € 141 | € 1.787 |
-| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het bedrijfsleven | € 1.916 | € 944 | € 141 | € 831 |
+| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | € 5.055 | € 958 | € 143 | € 3.954 |
+| niet-rechterlijk lid Raad voor de rechtspraak | € 4.957 | € 958 | € 143 | € 3.856 |
+| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | € 2.915 | € 958 | € 143 | € 1.814 |
+| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | € 1.945 | € 958 | € 143 | € 844 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
