@@ -4,7 +4,7 @@ identifier: "BWBR0028606"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2018-12-25"
+last_updated: "2019-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028606"
 soort: "AMvB-BES"
@@ -45,7 +45,7 @@ entry_into_force: "2010-10-10"
 
 1. Dit besluit is niet van toepassing op de ambtenaar van politie, bedoeld in [artikel 1, onderdeel c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1).
 
-2. Voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&z=2018-12-25&g=2018-12-25) van dit besluit worden niet als ambtenaar beschouwd:
+2. Voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&z=2019-12-12&g=2019-12-12) van dit besluit worden niet als ambtenaar beschouwd:
 
 - a. het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs. Onder onderwijzend personeel wordt mede begrepen de amanuensis werkzaam bij het van overheidswege gegeven openbaar onderwijs;
 
@@ -85,11 +85,11 @@ Voor de toepassing van dit besluit en de uit kracht daarvan gegeven voor schrift
 
 Voor het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs wordt mede als inkomen aangemerkt de aan dit personeel op grond van geldende wettelijke regelingen toegekende vaste toelagen.
 
-Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IV&z=2018-12-25&g=2018-12-25) wordt de compensatietoeslag hiervoor bedoeld niet als deel van het inkomen aangemerkt.
+Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IV&z=2019-12-12&g=2019-12-12) wordt de compensatietoeslag hiervoor bedoeld niet als deel van het inkomen aangemerkt.
 
 2. In dit besluit wordt onder echtgenoot of echtgenote mede verstaan de levenspartner met wie de niet gehuwde ambtenaar een gemeenschappelijke huishouding voert. Onder weduwe of weduwnaar wordt mede verstaan de achtergebleven levenspartner, bedoeld in de vorige volzin. Slechts één persoon kan als levenspartner worden aangemerkt.
 
-### Hoofdstuk II. Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in [Hoofdstuk IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa&z=2018-12-25&g=2018-12-25) alsmede die bedoeld in het [Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767)
+### Hoofdstuk II. Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in [Hoofdstuk IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa&z=2019-12-12&g=2019-12-12) alsmede die bedoeld in het [Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767)
 
 ##### Artikel 5
 
@@ -105,17 +105,17 @@ Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://w
 
 ##### Artikel 6
 
-1. Voorzover aan de ambtenaar in een kalenderjaar het hem volgens dit hoofdstuk toekomende aantal vakantieuren niet is verleend, wordt hem de niet genoten vakantie in het daaropvolgend kalenderjaar aaneengesloten verleend. De vakantie van het voorgaande jaar en de vakantie van het lopende jaar worden aaneengesloten genoten, tenzij de ambtenaar te kennen geeft laatstbedoelde vakantie in het daarop volgende kalenderjaar te willen opnemen. [Artikel 5 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2018-12-25&g=2018-12-25) blijft in dit laatste geval onverminderd van toepassing.
+1. Voorzover aan de ambtenaar in een kalenderjaar het hem volgens dit hoofdstuk toekomende aantal vakantieuren niet is verleend, wordt hem de niet genoten vakantie in het daaropvolgend kalenderjaar aaneengesloten verleend. De vakantie van het voorgaande jaar en de vakantie van het lopende jaar worden aaneengesloten genoten, tenzij de ambtenaar te kennen geeft laatstbedoelde vakantie in het daarop volgende kalenderjaar te willen opnemen. [Artikel 5 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2019-12-12&g=2019-12-12) blijft in dit laatste geval onverminderd van toepassing.
 
 Vakantie over meer dan twee kalenderjaren kan niet aaneengesloten worden verleend.
 
-2. Behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=7&z=2018-12-25&g=2018-12-25) verliest de ambtenaar zijn aanspraak op het door hem niet genoten aantal vakantieuren betrekking hebbende op het kalenderjaar voorafgaande aan het afgelopen kalenderjaar.
+2. Behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=7&z=2019-12-12&g=2019-12-12) verliest de ambtenaar zijn aanspraak op het door hem niet genoten aantal vakantieuren betrekking hebbende op het kalenderjaar voorafgaande aan het afgelopen kalenderjaar.
 
 ##### Artikel 7
 
 1. De in dit hoofdstuk bedoelde vakantie kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk worden geweigerd of ingetrokken bij gemotiveerde beschikking van het bevoegd gezag.
 
-2. Indien de vakantie krachtens het vorige lid geheel of gedeeltelijk is geweigerd of ingetrokken behoudt de ambtenaar zijn aanspraak op het aantal door hem niet genoten vakantieuren. Weigering of intrekking kan voor ten hoogste 12 maanden uitstel van de desbetreffende vakantie tot gevolg hebben. Behalve in het geval dat de dienstverhouding tot de overheid wegens ontslag eindigt, kan aan de ambtenaar in enig kalenderjaar nimmer een langere vakantie worden verleend dan tweemaal het hem volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) toekomende aantal vakantieuren.
+2. Indien de vakantie krachtens het vorige lid geheel of gedeeltelijk is geweigerd of ingetrokken behoudt de ambtenaar zijn aanspraak op het aantal door hem niet genoten vakantieuren. Weigering of intrekking kan voor ten hoogste 12 maanden uitstel van de desbetreffende vakantie tot gevolg hebben. Behalve in het geval dat de dienstverhouding tot de overheid wegens ontslag eindigt, kan aan de ambtenaar in enig kalenderjaar nimmer een langere vakantie worden verleend dan tweemaal het hem volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) toekomende aantal vakantieuren.
 
 3. In geval van intrekking van de vakantie zoals bedoeld in het voorgaande lid wordt, indien de ambtenaar als gevolg daarvan van de hem op een bepaalde dag toegekende vakantieuren er een deel niet heeft kunnen genieten, geen van de op die dag vallende vakantieuren als zodanig aangemerkt. Indien de ambtenaar tengevolge van de intrekking van vakantie geldelijke schade lijdt, wordt deze schade hem vergoed. In het geval de ambtenaar zijn vakantie doorbrengt buiten het eiland waar hij werkzaam is, wordt hem, indien hij op het tijdstip waarop hij zijn werkzaamheden hervat minder dan 3/4 gedeelte van het aantal vakantieuren dat hij buiten het eiland waar hij werkzaam is zou doorbrengen heeft genoten, bovendien vergoed de door hem voor zich en zijn gezin gemaakte reiskosten naar de plaats waar hij op het tijdstip van de intrekking met vakantie vertoeft, vermeerderd met een vergoeding van de door hem gemaakte kosten van een rechtstreekse reis van die plaats naar het eiland waar hij werkzaam is.
 
@@ -137,13 +137,13 @@ Vakantie over meer dan twee kalenderjaren kan niet aaneengesloten worden verleen
 
 ##### Artikel 9
 
-1. Indien een ambtenaar tijdens zijn vakantie blijkens een geneeskundige verklaring gedurende een of meer dagen arbeidsongeschikt is geweest, wordt het aantal hem verleende vakantieuren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt was, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2018-12-25&g=2018-12-25) vrijstelling van dienst wegens ziekte verleend.
+1. Indien een ambtenaar tijdens zijn vakantie blijkens een geneeskundige verklaring gedurende een of meer dagen arbeidsongeschikt is geweest, wordt het aantal hem verleende vakantieuren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt was, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2019-12-12&g=2019-12-12) vrijstelling van dienst wegens ziekte verleend.
 
 2. Voor het aantal werkuren volgens de voor de ambtenaar geldende werktijd, waarop hij in verband met de toepassing van het eerste lid geen vakantie heeft genoten, wordt hem opnieuw vakantie verleend met inachtneming van de bepalingen van dit hoofdstuk.
 
 ##### Artikel 10
 
-1. De aanspraken van de ambtenaar op vakantie worden in alle gevallen waarin de ambtenaar in een kalenderjaar dertig dagen of meer al dan niet aaneengesloten anders dan tengevolge van verleende vakantie, vrijstelling van dienst wegens ziekte, vrijstelling van dienst wegens bijzondere omstandigheden met behoud van vol inkomen of vergoeding in vrije tijd wegens verricht overwerk, geen werkelijke dienst doet, verminderd naar reden van 1/12 gedeelte van het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) toekomende aantal vakantieuren voor elk aantal van dertig dagen waarop hij geen werkelijke dienst heeft vervuld.
+1. De aanspraken van de ambtenaar op vakantie worden in alle gevallen waarin de ambtenaar in een kalenderjaar dertig dagen of meer al dan niet aaneengesloten anders dan tengevolge van verleende vakantie, vrijstelling van dienst wegens ziekte, vrijstelling van dienst wegens bijzondere omstandigheden met behoud van vol inkomen of vergoeding in vrije tijd wegens verricht overwerk, geen werkelijke dienst doet, verminderd naar reden van 1/12 gedeelte van het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) toekomende aantal vakantieuren voor elk aantal van dertig dagen waarop hij geen werkelijke dienst heeft vervuld.
 
 2. Indien de tijd, gedurende welke de ambtenaar geen werkelijke dienst doet, zich over meer dan één kalenderjaar uitstrekt, worden de aanspraken op vakantie bij toepassing van het vorige lid, over de desbetreffende kalenderjaren naar evenredigheid verminderd.
 
@@ -153,25 +153,25 @@ Vakantie over meer dan twee kalenderjaren kan niet aaneengesloten worden verleen
 
 ##### Artikel 11
 
-1. Onverminderd het bepaalde in de [leden 2, 3, 4 en 5 van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2018-12-25&g=2018-12-25) heeft de ambtenaar gedurende de eerste zes maanden na aanvaarding van zijn ambt slechts aanspraak op vakantie naar reden van 1/12 gedeelte van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) vastgestelde aantal vakantieuren en wel voor iedere volle kalendermaand, dat hij in genoemd tijdvak werkelijke dienst heeft vervuld.
+1. Onverminderd het bepaalde in de [leden 2, 3, 4 en 5 van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2019-12-12&g=2019-12-12) heeft de ambtenaar gedurende de eerste zes maanden na aanvaarding van zijn ambt slechts aanspraak op vakantie naar reden van 1/12 gedeelte van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) vastgestelde aantal vakantieuren en wel voor iedere volle kalendermaand, dat hij in genoemd tijdvak werkelijke dienst heeft vervuld.
 
 2. Het aantal uren, waarop ingevolge het voorgaande lid aanspraak op vakantie bestaat, wordt zo nodig naar beneden afgerond op hele uren.
 
 ##### Artikel 12
 
-1. Degene die onmiddellijk vóór zijn aanstelling tot ambtenaar in overheidsdienst werkzaam was, anders dan als ambtenaar behorende tot het onderwijzend personeel bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&z=2018-12-25&g=2018-12-25) of behorende tot het personeel van het gesubsidieerd bijzonder onderwijs, alsmede degene die bij een publiekrechtelijke instelling, dan wel bij een door de overheid in het leven geroepen privaatrechtelijke rechtspersoon werkzaam was, behoudt bij zijn aanstelling aanspraak op het aantal door hem niet genoten vakantieuren waarop hij tot en met ultimo december van het kalenderjaar voorafgaande aan het kalenderjaar waarin zijn aanstelling plaatsvindt aanspraak kon doen gelden overeenkomstig de voor hem vóór zijn aanstelling tot ambtenaar geldende voorschriften. De in de vorige zin bedoelde vakantie wordt hem verleend met inachtneming van de voorschriften van dit hoofdstuk.
+1. Degene die onmiddellijk vóór zijn aanstelling tot ambtenaar in overheidsdienst werkzaam was, anders dan als ambtenaar behorende tot het onderwijzend personeel bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&z=2019-12-12&g=2019-12-12) of behorende tot het personeel van het gesubsidieerd bijzonder onderwijs, alsmede degene die bij een publiekrechtelijke instelling, dan wel bij een door de overheid in het leven geroepen privaatrechtelijke rechtspersoon werkzaam was, behoudt bij zijn aanstelling aanspraak op het aantal door hem niet genoten vakantieuren waarop hij tot en met ultimo december van het kalenderjaar voorafgaande aan het kalenderjaar waarin zijn aanstelling plaatsvindt aanspraak kon doen gelden overeenkomstig de voor hem vóór zijn aanstelling tot ambtenaar geldende voorschriften. De in de vorige zin bedoelde vakantie wordt hem verleend met inachtneming van de voorschriften van dit hoofdstuk.
 
 2. Indien de aanstelling in het vorige lid bedoeld plaatsvindt in de loop van een kalenderjaar kan de ambtenaar over dat kalenderjaar voor elk aantal van dertig dagen dat hij werkelijke dienst vervult aanspraak maken op:
 
 - a. over het gedeelte van dat kalenderjaar voorafgaande aan zijn aanstelling: 1/12 gedeelte van het aantal vakantieuren dat hem overeenkomstig de voor hem vóór zijn aanstelling tot ambtenaar geldende voorschriften toekwam;
 
-- b. over het gedeelte van dat kalenderjaar vanaf zijn aanstelling: 1/12 gedeelte van het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) toekomende aantal vakantieuren. Indien de aanstelling plaatsvindt in de loop van een kalendermaand wordt deze voor de toepassing van het bepaalde onder b geacht te zijn ingegaan op de eerste van die maand. Het aantal uren, waarop de ambtenaar ingevolge de berekening bedoeld onder a en b aanspraak kan doen gelden op vakantie, wordt zo nodig naar boven afgerond op hele uren.
+- b. over het gedeelte van dat kalenderjaar vanaf zijn aanstelling: 1/12 gedeelte van het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) toekomende aantal vakantieuren. Indien de aanstelling plaatsvindt in de loop van een kalendermaand wordt deze voor de toepassing van het bepaalde onder b geacht te zijn ingegaan op de eerste van die maand. Het aantal uren, waarop de ambtenaar ingevolge de berekening bedoeld onder a en b aanspraak kan doen gelden op vakantie, wordt zo nodig naar boven afgerond op hele uren.
 
-De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) toekomende aantal vakantieuren aanspraak doen gelden.
+De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) toekomende aantal vakantieuren aanspraak doen gelden.
 
 ##### Artikel 13
 
-[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=12&z=2018-12-25&g=2018-12-25) is van overeenkomstige toepassing op:
+[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=12&z=2019-12-12&g=2019-12-12) is van overeenkomstige toepassing op:
 
 - a. de ambtenaar in dienst van de Staat die in dienst van een openbaar lichaam overgaat;
 
@@ -183,7 +183,7 @@ De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [a
 
 ##### Artikel 14
 
-1. Degene behorende tot het onderwijzend personeel bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&z=2018-12-25&g=2018-12-25) alsmede degene behorende tot het personeel bij het gesubsidieerd bijzonder onderwijs die tot ambtenaar wordt aangesteld kan in dat kalenderjaar voor elk aantal van dertig dagen dat hij in laatstbedoelde hoedanigheid werkelijke dienst vervult aanspraak doen gelden op 1/12 gedeelte van het aantal vakantieuren dat hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) toekomt. Indien de aanstelling plaatsvindt in de loop van een kalendermaand wordt deze voor de toepassing van het bepaalde in de vorige zin geacht te zijn ingegaan op de eerste van die maand. Het aantal uren, waarop de ambtenaar ingevolge de hiervoor bedoelde berekening aanspraak kan doen gelden op vakantie wordt zo nodig naar boven afgerond op hele uren.
+1. Degene behorende tot het onderwijzend personeel bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&z=2019-12-12&g=2019-12-12) alsmede degene behorende tot het personeel bij het gesubsidieerd bijzonder onderwijs die tot ambtenaar wordt aangesteld kan in dat kalenderjaar voor elk aantal van dertig dagen dat hij in laatstbedoelde hoedanigheid werkelijke dienst vervult aanspraak doen gelden op 1/12 gedeelte van het aantal vakantieuren dat hem ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) toekomt. Indien de aanstelling plaatsvindt in de loop van een kalendermaand wordt deze voor de toepassing van het bepaalde in de vorige zin geacht te zijn ingegaan op de eerste van die maand. Het aantal uren, waarop de ambtenaar ingevolge de hiervoor bedoelde berekening aanspraak kan doen gelden op vakantie wordt zo nodig naar boven afgerond op hele uren.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing op de adspirant-agent die geen leerling meer is, en de leerkracht wanneer zijn plaatsing aan de politieopleidingsschool eindigt.
 
@@ -191,13 +191,13 @@ De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [a
 
 1. Indien de ambtenaar in enig kalenderjaar meer vakantie heeft genoten dan hem ingevolge dit hoofdstuk toekomt, wordt dit meerdere verrekend met de hem over een of meer volgende kalenderjaren toekomende vakantie.
 
-2. Het bepaalde in het eerste lid geldt met dien verstande, dat uit dien hoofde in enig kalenderjaar de vakantie nimmer met meer dan een derde gedeelte van hetgeen de ambtenaar ingevolge het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2018-12-25&g=2018-12-25) over dat jaar toekomt, mag worden verminderd.
+2. Het bepaalde in het eerste lid geldt met dien verstande, dat uit dien hoofde in enig kalenderjaar de vakantie nimmer met meer dan een derde gedeelte van hetgeen de ambtenaar ingevolge het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8&z=2019-12-12&g=2019-12-12) over dat jaar toekomt, mag worden verminderd.
 
-3. Het bepaalde in het [vierde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=10&z=2018-12-25&g=2018-12-25) is van overeenkomstige toepassing.
+3. Het bepaalde in het [vierde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=10&z=2019-12-12&g=2019-12-12) is van overeenkomstige toepassing.
 
 ##### Artikel 16
 
-1. Ter compensatie van de door de ambtenaar bij zijn overlijden niet genoten of gedeeltelijk niet genoten vakantie, wordt door de overheid aan de weduwe of weduwnaar een geldsbedrag uitbetaald gelijk aan het bedrag dat aan de ambtenaar aan inkomen zou zijn uitgekeerd gedurende de vakantie, indien de vakantie zou zijn genoten. Bij de vaststelling van het aantal niet genoten vakantieuren vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=10&z=2018-12-25&g=2018-12-25) geen toepassing.
+1. Ter compensatie van de door de ambtenaar bij zijn overlijden niet genoten of gedeeltelijk niet genoten vakantie, wordt door de overheid aan de weduwe of weduwnaar een geldsbedrag uitbetaald gelijk aan het bedrag dat aan de ambtenaar aan inkomen zou zijn uitgekeerd gedurende de vakantie, indien de vakantie zou zijn genoten. Bij de vaststelling van het aantal niet genoten vakantieuren vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=10&z=2019-12-12&g=2019-12-12) geen toepassing.
 
 2. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitbetaling ten behoeve van de minderjarige kinderen. Onder kinderen worden in dit lid verstaan natuurlijke kinderen en kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt in dit lid verstaan de zorg voor het onderhoud en de opvoeding van een kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook kinderen, dan geschiedt de betaling van de vakantie-uitkering aan degenen die geheel of grotendeels afhankelijk waren van de bezoldiging van de overledene. Laat de overledene ook geen betrekkingen na als bedoeld in de vorige volzin, dan wordt de vakantie-uitkering geheel of ten dele aangewend voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, voor zover de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.
 
@@ -217,15 +217,15 @@ De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [a
 
 ##### Artikel 19
 
-1. Indien een lid van het onderwijzend personeel in de tijd dat hij vakantie geniet, blijkens een geneeskundige verklaring, gedurende een of meer dagen arbeidsongeschikt is geweest, wordt elk werkuur gedurende welke hij op een bepaalde dag arbeidsongeschikt was die wanneer de school niet gesloten zou zijn geweest een schooldag zou zijn, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2018-12-25&g=2018-12-25) vrijstelling van dienst wegens ziekte verleend. Voor het aantal werkuren gedurende welke het lid van het onderwijzend personeel in verband met de toepassing van het bepaalde in de vorige zin geen vakantie heeft genoten, worden hem op zijn verzoek bij beschikking van het bestuurscollege extra vrije uren aaneengesloten toegekend onmiddellijk voorafgaande aan of aansluitende op een volgende schoolvakantie. Het aantal extra vrije uren waarop belanghebbende na een ziekteperiode aanspraak kan doen gelden wordt bij beschikking van het bestuurscollege vastgesteld.
+1. Indien een lid van het onderwijzend personeel in de tijd dat hij vakantie geniet, blijkens een geneeskundige verklaring, gedurende een of meer dagen arbeidsongeschikt is geweest, wordt elk werkuur gedurende welke hij op een bepaalde dag arbeidsongeschikt was die wanneer de school niet gesloten zou zijn geweest een schooldag zou zijn, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2019-12-12&g=2019-12-12) vrijstelling van dienst wegens ziekte verleend. Voor het aantal werkuren gedurende welke het lid van het onderwijzend personeel in verband met de toepassing van het bepaalde in de vorige zin geen vakantie heeft genoten, worden hem op zijn verzoek bij beschikking van het bestuurscollege extra vrije uren aaneengesloten toegekend onmiddellijk voorafgaande aan of aansluitende op een volgende schoolvakantie. Het aantal extra vrije uren waarop belanghebbende na een ziekteperiode aanspraak kan doen gelden wordt bij beschikking van het bestuurscollege vastgesteld.
 
-2. Het verzoek bedoeld in het eerste lid kan in het belang van het onderwijs worden geweigerd. Het uitstel dat deze weigering tot gevolg heeft mag zich ten hoogste over twee achtereenvolgende schooljaren uitstrekken, met dien verstande dat bij de toekenning in enig schooljaar niet meer extra vrije uren kunnen worden toegekend dan het aantal werkuren dat belanghebbende op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=17&z=2018-12-25&g=2018-12-25) over twee achtereenvolgende schooljaren aan vakantie kan genieten.
+2. Het verzoek bedoeld in het eerste lid kan in het belang van het onderwijs worden geweigerd. Het uitstel dat deze weigering tot gevolg heeft mag zich ten hoogste over twee achtereenvolgende schooljaren uitstrekken, met dien verstande dat bij de toekenning in enig schooljaar niet meer extra vrije uren kunnen worden toegekend dan het aantal werkuren dat belanghebbende op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=17&z=2019-12-12&g=2019-12-12) over twee achtereenvolgende schooljaren aan vakantie kan genieten.
 
 3. De belanghebbende verliest zijn aanspraak op het aantal extra vrije uren bedoeld in de vorige leden voor de toekenning waarvan hij geen verzoek of nader verzoek tot toekenning heeft ingediend voor zover het betreft extra vrije uren welke in het schooljaar voorafgaande aan het afgelopen schooljaar konden worden aangevraagd.
 
 ##### Artikel 20
 
-1. Ter compensatie van het door het lid van het onderwijzend personeel bij zijn overlijden niet genoten aantal extra vrije uren bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=18&z=2018-12-25&g=2018-12-25) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=19&z=2018-12-25&g=2018-12-25), wordt door het openbaar lichaam aan de weduwe of weduwnaar een geldsbedrag uitbetaald gelijk aan het bedrag dat aan dat lid van het onderwijzend personeel aan inkomen zou zijn uitgekeerd indien deze extra vrije uren zouden zijn genoten. Indien een lid van het onderwijzend personeel overlijdt in een tijdvak waarin hij op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=17&z=2018-12-25&g=2018-12-25) vakantie geniet, is het bepaalde in de vorige zin van overeenkomstige toepassing met betrekking tot het aantal uren gedurende welke hij, ware hij niet overleden, in dat tijdvak vakantie zou hebben genoten
+1. Ter compensatie van het door het lid van het onderwijzend personeel bij zijn overlijden niet genoten aantal extra vrije uren bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=18&z=2019-12-12&g=2019-12-12) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=19&z=2019-12-12&g=2019-12-12), wordt door het openbaar lichaam aan de weduwe of weduwnaar een geldsbedrag uitbetaald gelijk aan het bedrag dat aan dat lid van het onderwijzend personeel aan inkomen zou zijn uitgekeerd indien deze extra vrije uren zouden zijn genoten. Indien een lid van het onderwijzend personeel overlijdt in een tijdvak waarin hij op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=17&z=2019-12-12&g=2019-12-12) vakantie geniet, is het bepaalde in de vorige zin van overeenkomstige toepassing met betrekking tot het aantal uren gedurende welke hij, ware hij niet overleden, in dat tijdvak vakantie zou hebben genoten
 
 2. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitbetaling ten behoeve van de kinderen tot wie de overledene in familierechtelijke betrekking stond die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn. Ontbreken ook zodanige kinderen, dan geschiedt de uitbetaling, indien de overledene kostwinner was van ouders, broeders, zusters, overige kinderen of stiefkinderen, ten behoeve van deze betrekkingen.
 
@@ -243,7 +243,7 @@ De ambtenaar kan over bedoeld kalenderjaar op niet meer dan het hem ingevolge [a
 
 ##### Artikel 20c
 
-1. De in [artikel 2 lid 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=I&artikel=2&z=2018-12-25&g=2018-12-25) bedoelde leerkracht geniet vakantie met behoud van vol inkomen op dezelfde dagen als waarop voor de leerling de vakanties zijn of zullen worden vastgesteld. Hij kan, indien hij dit wenst, in de tijdvakken waarin hij vakantie geniet in het buitenland verblijven.
+1. De in [artikel 2 lid 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=I&artikel=2&z=2019-12-12&g=2019-12-12) bedoelde leerkracht geniet vakantie met behoud van vol inkomen op dezelfde dagen als waarop voor de leerling de vakanties zijn of zullen worden vastgesteld. Hij kan, indien hij dit wenst, in de tijdvakken waarin hij vakantie geniet in het buitenland verblijven.
 
 2. Boven de in het vorige lid bedoelde vakantiedagen kan aan de leerkracht per kalenderjaar ten hoogste twee keer één werkdag gesplitst worden verleend als vakantiedag.
 
@@ -253,11 +253,11 @@ Degene die met een volledige dagtaak als leerkracht aan de politieopleidingsscho
 
 ##### Artikel 20e
 
-Indien een leerkracht in de tijd dat hij vakantie geniet, blijkens een geneeskundige verklaring gedurende één of meer dagen arbeidsongeschikt is geweest wordt elke werkdag gedurende welke hij arbeidsongeschikt was en die wanneer de school niet gesloten zou zijn geweest een schooldag zou zijn, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2018-12-25&g=2018-12-25) vrijstelling van dienst wegens ziekte verleend. Voor het aantal werkdagen dat de leerkracht in verband met de toepassing van het bepaalde in de vorige zin geen vakantie heeft genoten, wordt hem opnieuw vakantie verleend in de loop van hetzelfde of het daarop volgende kalenderjaar.
+Indien een leerkracht in de tijd dat hij vakantie geniet, blijkens een geneeskundige verklaring gedurende één of meer dagen arbeidsongeschikt is geweest wordt elke werkdag gedurende welke hij arbeidsongeschikt was en die wanneer de school niet gesloten zou zijn geweest een schooldag zou zijn, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2019-12-12&g=2019-12-12) vrijstelling van dienst wegens ziekte verleend. Voor het aantal werkdagen dat de leerkracht in verband met de toepassing van het bepaalde in de vorige zin geen vakantie heeft genoten, wordt hem opnieuw vakantie verleend in de loop van hetzelfde of het daarop volgende kalenderjaar.
 
 ##### Artikel 20f
 
-1. Wegens dringende redenen van dienstbelang kan bij met redenen omklede beschikking van de hoofdcommissaris van politie worden bepaald, dat de vakantie, bedoeld in [artikel 20c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa&artikel=20c&z=2018-12-25&g=2018-12-25), geheel of gedeeltelijk niet kan worden genoten danwel dat de vakantie geheel of gedeeltelijk wordt ingetrokken.
+1. Wegens dringende redenen van dienstbelang kan bij met redenen omklede beschikking van de hoofdcommissaris van politie worden bepaald, dat de vakantie, bedoeld in [artikel 20c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa&artikel=20c&z=2019-12-12&g=2019-12-12), geheel of gedeeltelijk niet kan worden genoten danwel dat de vakantie geheel of gedeeltelijk wordt ingetrokken.
 
 2. In de in het eerste lid bedoelde gevallen behoudt de leerkracht zijn aanspraak op het aantal door hem niet genoten vakantiedagen.
 
@@ -267,7 +267,7 @@ Indien een leerkracht in de tijd dat hij vakantie geniet, blijkens een geneeskun
 
 ##### Artikel 20g
 
-Het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=20&z=2018-12-25&g=2018-12-25) is van overeenkomstige toepassing op de nagelaten betrekkingen van een overleden leerkracht aan de politieopleidingsschool.
+Het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III&artikel=20&z=2019-12-12&g=2019-12-12) is van overeenkomstige toepassing op de nagelaten betrekkingen van een overleden leerkracht aan de politieopleidingsschool.
 
 ### Hoofdstuk IV. Vakantie-uitkering
 
@@ -315,7 +315,7 @@ Vervallen
 
 - h. op de dag van herdenking van het 25-, 40-, 50- en 60-jarig huwelijksjubileum van zijn ouders, stief-, schoon-, pleeg- of grootouders;
 
-- i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2018-12-25&g=2018-12-25) toepassing vinden;
+- i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2019-12-12&g=2019-12-12) toepassing vinden;
 
 - j. bij overlijden van echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: twee werkdagen;
 
@@ -405,7 +405,7 @@ Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15
 
 - II. voor een ambtenaar in tijdelijke dienst zijn vol inkomen.
 
-5. Ingeval de vrijstelling van dienst wegens ziekte langer duurt dan dertig dagen, worden voor de toepassing van het vierde lid, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=I&artikel=4&z=2018-12-25&g=2018-12-25), de bijzondere individuele vergoedingen welke strekken tot vergoeding van onkosten na die eerste dertig dagen niet langer tot het inkomen gerekend.
+5. Ingeval de vrijstelling van dienst wegens ziekte langer duurt dan dertig dagen, worden voor de toepassing van het vierde lid, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=I&artikel=4&z=2019-12-12&g=2019-12-12), de bijzondere individuele vergoedingen welke strekken tot vergoeding van onkosten na die eerste dertig dagen niet langer tot het inkomen gerekend.
 
 6. Gedurende een vrijstelling van dienst wegens ziekte heeft de ambtenaar gedurende de eerste dertig dagen voorts aanspraak op de vergoeding die hij ingevolge [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25a) of [25b van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25b) genoten zou hebben, indien hij niet door ziekte verhinderd zou zijn geweest zijn dienst te verrichten. Na die eerste dertig dagen heeft hij aanspraak op een vergoeding ter grootte van de gemiddeld over de voorgaande twaalf maanden genoten vergoeding ingevolge [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25a) of [25b van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25b).
 
@@ -435,9 +435,9 @@ Geen aanspraak op doorbetaling van inkomen bestaat:
 
 - c. zich zodanig gedraagt, dat zijn genezing wordt belemmerd of vertraagd;
 
-- d. tijdens de verhindering om dienst te verrichten voor zichzelf of voor derden arbeid verricht, tenzij dit door de geneeskundige of geneeskundigen, bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2018-12-25&g=2018-12-25), in het belang van zijn genezing wenselijk wordt geacht;
+- d. tijdens de verhindering om dienst te verrichten voor zichzelf of voor derden arbeid verricht, tenzij dit door de geneeskundige of geneeskundigen, bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2019-12-12&g=2019-12-12), in het belang van zijn genezing wenselijk wordt geacht;
 
-- e. in gebreke blijft op het door de geneeskundige of geneeskundigen, bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2018-12-25&g=2018-12-25), bepaalde tijdstip en in de door bedoelde geneeskundige(n) bepaalde mate zijn dienst te hervatten, tenzij hij daarvoor een inmiddels opgekomen, door bedoelde geneeskundige(n) als geldig erkende reden heeft opgegeven. De in dit lid bedoelde aanspraak vervalt met ingang van de dag waarop de reden daarvoor voor het eerst aanwezig was.
+- e. in gebreke blijft op het door de geneeskundige of geneeskundigen, bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2019-12-12&g=2019-12-12), bepaalde tijdstip en in de door bedoelde geneeskundige(n) bepaalde mate zijn dienst te hervatten, tenzij hij daarvoor een inmiddels opgekomen, door bedoelde geneeskundige(n) als geldig erkende reden heeft opgegeven. De in dit lid bedoelde aanspraak vervalt met ingang van de dag waarop de reden daarvoor voor het eerst aanwezig was.
 
 2. De doorbetaling van inkomen kan geheel of ten dele worden gestaakt, indien de ambtenaar de controle-voorschriften overtreedt, die zijn vastgesteld:
 
@@ -447,11 +447,11 @@ Geen aanspraak op doorbetaling van inkomen bestaat:
 
 ##### Artikel 31c
 
-In de gevallen bedoeld in de [artikelen 31A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31a&z=2018-12-25&g=2018-12-25) en [31B](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31b&z=2018-12-25&g=2018-12-25) kan het bevoegde gezag op grond van bijzondere omstandigheden bepalen, dat het bedrag van het ingehouden inkomen geheel of ten dele aan anderen dan aan de ambtenaar zal worden uitbetaald.
+In de gevallen bedoeld in de [artikelen 31A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31a&z=2019-12-12&g=2019-12-12) en [31B](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31b&z=2019-12-12&g=2019-12-12) kan het bevoegde gezag op grond van bijzondere omstandigheden bepalen, dat het bedrag van het ingehouden inkomen geheel of ten dele aan anderen dan aan de ambtenaar zal worden uitbetaald.
 
 ##### Artikel 32
 
-1. Vrijstelling van dienst wegens ziekte wordt door het bevoegd gezag verleend. Deze vrijstelling van dienst kan, onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=34&z=2018-12-25&g=2018-12-25), met schriftelijke toestemming van het bevoegde gezag geheel of gedeeltelijk in het buitenland worden doorgebracht.
+1. Vrijstelling van dienst wegens ziekte wordt door het bevoegd gezag verleend. Deze vrijstelling van dienst kan, onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=34&z=2019-12-12&g=2019-12-12), met schriftelijke toestemming van het bevoegde gezag geheel of gedeeltelijk in het buitenland worden doorgebracht.
 
 2. Indien de vrijstelling van dienst bedoeld in het eerste lid van dit artikel van langere duur is dan dertig dagen of voor verblijf in het buitenland wordt verleend, wordt deze bij beschikking van het bevoegde gezag verleend.
 
@@ -465,7 +465,7 @@ Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duu
 
 3. Ter verkrijging van een vrijstelling van dienst wegens ziekte van meer dan drie achtereenvolgende dagen, is overlegging van een geneeskundige verklaring door de ambtenaar verplicht.
 
-4. Vrijstelling van dienst wegens ziekte van meer dan dertig dagen of verlenging daarvan waardoor deze vrijstelling van dienst van langere duur wordt dan dertig dagen, wordt door het bevoegde gezag slechts verleend indien uit een schriftelijke verklaring, afgegeven door één of meerdere door de overheid aangewezen geneeskundigen, blijkt dat de betrokken ambtenaar wegens ziekte verhinderd is zijn dienst uit te oefenen. In de door deze geneeskundige afgegeven verklaring wordt, met inachtneming van het gestelde in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31&z=2018-12-25&g=2018-12-25), het tijdvak aangegeven waarin de ambtenaar vermoedelijk zijn dienst niet zal kunnen uitoefenen. Indien verblijf in het buitenland noodzakelijk blijkt, wordt tevens hiervan, met vermelding van de plaats van verblijf en de wijze waarop de reis moet worden volbracht, mededeling gedaan.
+4. Vrijstelling van dienst wegens ziekte van meer dan dertig dagen of verlenging daarvan waardoor deze vrijstelling van dienst van langere duur wordt dan dertig dagen, wordt door het bevoegde gezag slechts verleend indien uit een schriftelijke verklaring, afgegeven door één of meerdere door de overheid aangewezen geneeskundigen, blijkt dat de betrokken ambtenaar wegens ziekte verhinderd is zijn dienst uit te oefenen. In de door deze geneeskundige afgegeven verklaring wordt, met inachtneming van het gestelde in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31&z=2019-12-12&g=2019-12-12), het tijdvak aangegeven waarin de ambtenaar vermoedelijk zijn dienst niet zal kunnen uitoefenen. Indien verblijf in het buitenland noodzakelijk blijkt, wordt tevens hiervan, met vermelding van de plaats van verblijf en de wijze waarop de reis moet worden volbracht, mededeling gedaan.
 
 5. [vervallen]
 
@@ -477,7 +477,7 @@ Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duu
 
 ##### Artikel 35
 
-1. Van een uitspraak krachtens [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2018-12-25&g=2018-12-25) of krachtens [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=36&z=2018-12-25&g=2018-12-25), staat, binnen 30 dagen nadat de ambtenaar van de uitspraak schriftelijk in kennis is gesteld, beroep open bij een herkeuringscommissie, bestaande uit tenminste drie geneeskundigen. Een van deze geneeskundigen wordt aangewezen door de betrokken ambtenaar.
+1. Van een uitspraak krachtens [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2019-12-12&g=2019-12-12) of krachtens [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=36&z=2019-12-12&g=2019-12-12), staat, binnen 30 dagen nadat de ambtenaar van de uitspraak schriftelijk in kennis is gesteld, beroep open bij een herkeuringscommissie, bestaande uit tenminste drie geneeskundigen. Een van deze geneeskundigen wordt aangewezen door de betrokken ambtenaar.
 
 2. Het krachtens het eerste lid in te dienen beroepschrift wordt aangeboden aan het bevoegd gezag dat ingevolge het vierde lid de herkeuringscommissie moet benoemen. Het beroepschrift vermeldt tevens de naam en het adres van de geneeskundige die door de betrokken ambtenaar voor benoeming in de herkeuringscommissie is aangewezen.
 
@@ -497,7 +497,7 @@ Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duu
 
 - a. of er sprake is van verhindering tot dienstverrichting wegens ziekte;
 
-- b. of zich een omstandigheid voordoet, als bedoeld in [artikel 31A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31a&z=2018-12-25&g=2018-12-25) of in [artikel 31B eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31b&z=2018-12-25&g=2018-12-25);
+- b. of zich een omstandigheid voordoet, als bedoeld in [artikel 31A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31a&z=2019-12-12&g=2019-12-12) of in [artikel 31B eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31b&z=2019-12-12&g=2019-12-12);
 
 - c. of verdere maatregelen in het belang van het herstel nodig zijn;
 
@@ -507,17 +507,17 @@ Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duu
 
 ##### Artikel 35b
 
-1. De ambtenaar, die zich met het oordeel van de in [artikel 35A, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=35a&z=2018-12-25&g=2018-12-25), bedoelde geneeskundige, niet kan verenigen, kan hiervan, mits binnen de kortst mogelijke tijd, doch in ieder geval binnen 3 maal 24 uur nadat dit oordeel te zijner kennis is gebracht, onder opgave van redenen aan het gezag dat het onderzoek aanvroeg, schriftelijk mededeling doen. Hij kan ter ondersteuning van zijn bezwaar een verklaring overleggen van een geneeskundige, die alsdan door de in het tweede lid bedoelde commissie in de gelegenheid wordt gesteld tot het geven van een nadere mondelinge toelichting.
+1. De ambtenaar, die zich met het oordeel van de in [artikel 35A, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=35a&z=2019-12-12&g=2019-12-12), bedoelde geneeskundige, niet kan verenigen, kan hiervan, mits binnen de kortst mogelijke tijd, doch in ieder geval binnen 3 maal 24 uur nadat dit oordeel te zijner kennis is gebracht, onder opgave van redenen aan het gezag dat het onderzoek aanvroeg, schriftelijk mededeling doen. Hij kan ter ondersteuning van zijn bezwaar een verklaring overleggen van een geneeskundige, die alsdan door de in het tweede lid bedoelde commissie in de gelegenheid wordt gesteld tot het geven van een nadere mondelinge toelichting.
 
-2. Behalve indien, na overleg met de geneeskundige, bedoeld in het [tweede lid van artikel 35A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=35a&z=2018-12-25&g=2018-12-25), door het gezag dat het onderzoek aanvroeg, het bezwaar van de ambtenaar reeds aanstonds voldoende gegrond wordt geacht, wordt binnen 14 dagen na ontvangst van het bezwaarschrift door een commissie van geneeskundigen – waarin geen zitting zal mogen hebben de in artikel 35A, tweede lid, bedoelde geneeskundige – een hernieuwd onderzoek ingesteld. De commissie deelt haar oordeel zo spoedig mogelijk mede aan het bevoegde gezag, dat vervolgens de ambtenaar daarvan in kennis stelt.
+2. Behalve indien, na overleg met de geneeskundige, bedoeld in het [tweede lid van artikel 35A](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=35a&z=2019-12-12&g=2019-12-12), door het gezag dat het onderzoek aanvroeg, het bezwaar van de ambtenaar reeds aanstonds voldoende gegrond wordt geacht, wordt binnen 14 dagen na ontvangst van het bezwaarschrift door een commissie van geneeskundigen – waarin geen zitting zal mogen hebben de in artikel 35A, tweede lid, bedoelde geneeskundige – een hernieuwd onderzoek ingesteld. De commissie deelt haar oordeel zo spoedig mogelijk mede aan het bevoegde gezag, dat vervolgens de ambtenaar daarvan in kennis stelt.
 
 3. De kosten van het hernieuwde onderzoek komen voor rekening van de overheid.
 
 ##### Artikel 36
 
-1. De ambtenaar aan wie vrijstelling van dienst wegens ziekte is verleend van drie maanden of meer, mag de uitoefening van zijn dienst niet hervatten, dan nadat uit een verklaring van de geneeskundige(n), bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2018-12-25&g=2018-12-25), blijkt, dat de betrokken ambtenaar is onderzocht en in staat is bevonden tot hervatting van zijn dienstuitoefening.
+1. De ambtenaar aan wie vrijstelling van dienst wegens ziekte is verleend van drie maanden of meer, mag de uitoefening van zijn dienst niet hervatten, dan nadat uit een verklaring van de geneeskundige(n), bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=33&z=2019-12-12&g=2019-12-12), blijkt, dat de betrokken ambtenaar is onderzocht en in staat is bevonden tot hervatting van zijn dienstuitoefening.
 
-2. De ambtenaar die aan het einde van een tot de maximumduur genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31&z=2018-12-25&g=2018-12-25) verlengde vrijstelling van dienst wegens ziekte volgens een verklaring afgegeven door de geneeskundige(n), bedoeld in het eerste lid, niet geschikt is bevonden om zijn dienstuitoefening te hervatten, wordt, behoudens het bepaalde in het volgende lid, eervol ontslag uit de overheidsdienst verleend.
+2. De ambtenaar die aan het einde van een tot de maximumduur genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&artikel=31&z=2019-12-12&g=2019-12-12) verlengde vrijstelling van dienst wegens ziekte volgens een verklaring afgegeven door de geneeskundige(n), bedoeld in het eerste lid, niet geschikt is bevonden om zijn dienstuitoefening te hervatten, wordt, behoudens het bepaalde in het volgende lid, eervol ontslag uit de overheidsdienst verleend.
 
 3. Indien de geneeskundige(n), bedoeld in het eerste lid, van oordeel is dat hervatting van de dienstuitoefening door de betrokken ambtenaar niet mogelijk is wegens een opgekomen ziekte van voorbijgaande aard, wordt hem voor de duur van die ziekte vrijstelling van dienst wegens bijzondere omstandigheden met behoud van zeventig ten honderd van zijn vol inkomen verleend.
 
@@ -596,6 +596,8 @@ Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in [ar
 2. Het recht op het zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.
 
 3. Het recht op bevallingsverlof gaat in op de dag na de dag van de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.
+
+4. Het verlof, bedoeld in het tweede en derde lid, wordt voor de toepassing van dit besluit gelijkgesteld met verhindering tot dienstverrichting wegens ziekte.
 
 ### Hoofdstuk VII. Slot- en overgangsbepalingen
 
