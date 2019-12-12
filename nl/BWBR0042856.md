@@ -4,7 +4,7 @@ identifier: "BWBR0042856"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2019-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042856"
 soort: "AMvB-BES"
@@ -58,7 +58,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen I, onderdelen A tot en met O](https://wetten.overheid.nl/jci1.3:c:BWBR0042856&artikel=I&z=2019-12-12&g=2019-12-12), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042856&artikel=II&z=2019-12-12&g=2019-12-12), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0042856&artikel=III&z=2019-12-12&g=2019-12-12) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0042856&artikel=IV&z=2019-12-12&g=2019-12-12) treden in werking met ingang van 1 januari 2020.
+
+2. [Artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0042856&artikel=I&z=2019-12-12&g=2019-12-12), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2017.
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 3 oktober 2019, nr. 2019-0000486975;
 
