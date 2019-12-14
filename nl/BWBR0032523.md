@@ -4,7 +4,7 @@ identifier: "BWBR0032523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-11-27"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032523"
 soort: "ministeriele-regeling"
@@ -42,9 +42,19 @@ Besluit:
 
 ### Hoofdstuk 1. : De bestuurlijke boete
 
-##### Artikel 1.1. Definitiebepaling
+##### Artikel 1.1
 
-In deze regeling wordt verstaan onder besluit: [Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334).
+In deze regeling wordt onder:
+
+- **besluit:** Besluit handhaving en overige zaken Wet dieren;
+
+- **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoeder-wetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plant-gezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017 L 95);
+
+- **verordening (EU) nr. 2019/1013:** [verordening 2019/1013](32913R2019) (EU) van de Commissie van 16 april 2019 betreffende de voorafgaande kennisgeving van zendingen van bepaalde categorieën dieren en goederen die de Unie binnenkomen (PbEU 2019 L 165);
+
+- **gedelegeerde verordening (EU) 2019/1602:** gedelegeerde verordening (EU) 2019/1602 van de Commissie van 23 april 2019 tot aanvulling van Verordening (EU) 2017/625 van het Europees Parlement en de Raad betreffende het gemeenschappelijk gezondheidsdocument van binnenkomst dat zendingen van dieren en goederen tot hun bestemming vergezelt (PbEU L 250);
+
+- **gedelegeerde verordening (EU) 2019/1666:** gedelegeerde verordening (EU) 2019/1666 van de Commissie van 24 juni 2019 tot aanvulling van Verordening (EU) 2017/625 van het Europees Parlement en de Raad wat betreft de voorwaarden voor de monitoring van het vervoer en de aankomst van zendingen van bepaalde goederen van de grenscontrolepost van aankomst tot de inrichting op de plaats van bestemming in de Unie (PbEU L 255).
 
 ##### Artikel 1.2. Indeling categorieën bestuurlijke boete
 
@@ -94,7 +104,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Op het verzoek zijn de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4.14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14) van overeenkomstige toepassing.
 
-3. Indien niet langer wordt voldaan aan de voorwaarden bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.4&z=2019-11-27&g=2019-11-27), trekt de minister de beoordeling in en doet hij daarvan mededeling.
+3. Indien niet langer wordt voldaan aan de voorwaarden bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.4&z=2019-12-14&g=2019-12-14), trekt de minister de beoordeling in en doet hij daarvan mededeling.
 
 ##### Artikel 2.6
 
@@ -409,13 +419,13 @@ Deze paragraaf is van toepassing op de aanwijzing van een register, bedoeld in [
 
 2. Een aanvraag tot aanwijzing gaat vergezeld van:
 
-- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2019-11-27&g=2019-11-27) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2019-11-27&g=2019-11-27), en
+- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2019-12-14&g=2019-12-14) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2019-12-14&g=2019-12-14), en
 
 - b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst wordt gesloten, indien het register wordt aangewezen.
 
 ##### Artikel 1.6. Voorwaarden voor aanwijzing register
 
-Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-11-27&g=2019-11-27), vindt plaats, indien:
+Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-12-14&g=2019-12-14), vindt plaats, indien:
 
 - a. de beheerder van het register een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;
 
@@ -457,11 +467,11 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 1.9. Onvoorziene situatie
 
-De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2019-11-27&g=2019-11-27) stelt de minister daarvan onverwijld op de hoogte.
+De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2019-12-14&g=2019-12-14) stelt de minister daarvan onverwijld op de hoogte.
 
 ##### Artikel 1.10. Intrekking, schorsing of beëindiging aanwijzing
 
-1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-11-27&g=2019-11-27), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2019-11-27&g=2019-11-27).
+1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-12-14&g=2019-12-14), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2019-12-14&g=2019-12-14).
 
 2. Indien de aanwijzing van een register wordt ingetrokken, geschorst of anderzijds beëindigd:
 
@@ -471,11 +481,11 @@ De beheerder van een register die vanwege een onvoorziene situatie niet kan vold
 
 ##### Artikel 1.11. Aanvullende bepalingen melding diergeneesmiddelen
 
-1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-11-27&g=2019-11-27), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
+1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-12-14&g=2019-12-14), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
 
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-11-27&g=2019-11-27).
+2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-12-14&g=2019-12-14).
 
-3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-11-27&g=2019-11-27), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
+3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2019-12-14&g=2019-12-14), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
 
 4. De minister kan de termijn, bedoeld in het derde lid, eenmaal met zes weken verlengen.
 
@@ -493,7 +503,7 @@ Deze paragraaf is van toepassing op tarieven voor een vergoeding als bedoeld in 
 
 ##### Artikel 1.13. Goedkeuring tarieven registers
 
-1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2019-11-27&g=2019-11-27), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
+1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2019-12-14&g=2019-12-14), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
 
 2. De tarieven worden per kalenderjaar goedgekeurd.
 
@@ -1007,6 +1017,339 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 | [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=31) | 4 |
 | [Artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=32) | 4 |
 | [Artikel 32, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=32) | 2 |
+| [Artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=57) | 4 |
+| [Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=62) | 4 |
+| [Artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=63) | 2 |
+
+| [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) | Categorie |
+| --- | --- |
+| [Artikel 1.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.6) | 2 |
+| [Artikel 1.7, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.7) | 2 |
+| [Artikel 1.8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.8) | 2 |
+| [Artikel 1.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.13) | 2 |
+| [Artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.14) | 2 |
+| [Artikel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.17) | 2 |
+| [Artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.18) | 2 |
+| [Artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.22) | 3 |
+| [Artikel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.24) | 2 |
+| [Artikel 1.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) | 3 |
+| [Artikel 1.28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28) | 3 |
+| [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.3) | 2 |
+| [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.4) | 2 |
+| [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.5) | 2 |
+| [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.7) | 3 |
+| [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.8) | 3 |
+| [Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.9) | 3 |
+| [Artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10) | 3 |
+| [Artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.13) | 2 |
+| [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.14) | 2 |
+| [Artikel 2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.15) | 2 |
+| [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.16) | 2 |
+| [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.17) | 2 |
+| [Artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.18) | 2 |
+| [Artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.19) | 2 |
+| [Artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.20) | 2 |
+| [Artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.21) | 2 |
+| [Artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.22) | 2 |
+| [Artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.23) | 2 |
+| [Artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.24) | 2 |
+| [Artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.25) | 2 |
+| [Artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.26) | 2 |
+| [Artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.27) | 2 |
+| [Artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.31) | 2 |
+| [Artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.32) | 2 |
+| [Artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.33) | 2 |
+| [Artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.4) | 2 |
+| [Artikel 2.35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.35) | 2 |
+| [Artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.36) | 2 |
+| [Artikel 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.37) | 2 |
+| [Artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.38) | 2 |
+| [Artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.39) | 2 |
+| [Artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.40) | 2 |
+| [Artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.41) | 2 |
+| [Artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.42) | 2 |
+| [Artikel 2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.43) | 2 |
+| [Artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.44) | 2 |
+| [Artikel 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.45) | 2 |
+| [Artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.46) | 3 |
+| [Artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.50) | 2 |
+| [Artikel 2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.51) | 2 |
+| [Artikel 2.52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52) | 2 |
+| [Artikel 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.53) | 2 |
+| [Artikel 2.54, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.54) | 2 |
+| [Artikel 2.55, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.55) | 2 |
+| [Artikel 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.56) | 2 |
+| [Artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.57) | 2 |
+| [Artikel 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.58) | 2 |
+| [Artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.59) | 2 |
+| [Artikel 2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.61) | 2 |
+| [Artikel 2.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.62) | 2 |
+| [Artikel 2.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.63) | 2 |
+| [Artikel 2.64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.64) | 2 |
+| [Artikel 2.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.65) | 2 |
+| [Artikel 2.65c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.65c) | 2 |
+| [Artikel 2.65d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.65d) | 2 |
+| [Artikel 2.65e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.65e) | 2 |
+| [Artikel 2.65f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.65f) | 2 |
+| [Artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.68) | 2 |
+| [Artikel 2.69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.69) | 2 |
+| [Artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.70) | 2 |
+| [Artikel 2.71](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.71) | 2 |
+| [Artikel 2.72](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.72) | 2 |
+| [Artikel 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.73) | 2 |
+| [Artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.74) | 2 |
+| [Artikel 2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.75) | 2 |
+| [Artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76) | 2 |
+| [Artikel 2.76c](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76c) | 2 |
+| [Artikel 2.76d](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76d) | 2 |
+| [Artikel 2.76e](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76e) | 2 |
+| [Artikel 2.76f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76f), in samenhang met [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=6.1) | 2 |
+| [Artikel 2.76g](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76g) | 2 |
+| [Artikel 2.76h](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76h) | 2 |
+| [Artikel 2.76i](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76i) | 2 |
+| [Artikel 2.76l](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76l) | 2 |
+| [Artikel 2.76m](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76m) | 2 |
+| [Artikel 2.76n](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76n) | 2 |
+| [Artikel 2.76o](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76o), in samenhang met [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=6.2) | 2 |
+| [Artikel 2.76p](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76p) | 2 |
+| [Artikel 2.76q](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76q) | 2 |
+| [Artikel 2.76r](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76r) | 2 |
+| [Artikel 2.76u](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76u) | 2 |
+| [Artikel 2.76v](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76v) | 2 |
+| [Artikel 2.76w](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76w) | 2 |
+| [Artikel 2.76x](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76x) | 2 |
+| [Artikel 2.76v](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76v) | 2 |
+| [Artikel 2.76w](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76w) | 2 |
+| [Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.1) | 2 |
+| [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.2) | 2 |
+| [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.3) | 2 |
+| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) | 2 |
+| [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.6) | 2 |
+| [Artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.7) | 2 |
+| [Artikel 3.8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.8) | 1 |
+| [Artikel 3.8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.8) | 2 |
+| [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.9) | 1 |
+| [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.10) | 2 |
+| [Artikel 3.11, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.11) | 2 |
+| [Artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.12) | 2 |
+| [Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.13) | 2 |
+| [Artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.14) | 2 |
+| [Artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.14) | 3 |
+| [Artikel 3.14, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.14) | 2 |
+| [Artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.16) | 2 |
+| [Artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.17) | 2 |
+| [Artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.18) | 2 |
+| [Artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.19) | 2 |
+| [Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.20) | 2 |
+| [Artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.21) | 2 |
+| [Artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.22) | 2 |
+| [Artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.23) | 2 |
+| [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.6) | 2 |
+| [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.7) | 2 |
+| [Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.8) | 2 |
+| [Artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.9) | 3 |
+| [Artikel 4.9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.9) | 2 |
+| [Artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.10) | 2 |
+| [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.11) | 2 |
+| [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.12) | 2 |
+| [Artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.14) | 2 |
+| [Artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.3) | 2 |
+| [Artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.3) | 2 |
+| [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5) | 3 |
+| [Artikel 5.5f](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5f) | 3 |
+| [Artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.6) | 1 |
+| [Artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.7) | 3 |
+| [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.8) | 3 |
+| [Artikel 5.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.8a) | 3 |
+| [Artikel 5.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.8b) | 3 |
+| [Artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.9) | 3 |
+| [Artikel 5.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.9a) | 3 |
+
+| [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) |   |
+| --- | --- |
+| [Artikel 3.1, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.1) | 3 |
+| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.4) | 3 |
+| [Artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.5) | 3 |
+| [Artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.7) | 3 |
+| [Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=4.8), voor zover dat artikel betrekking heeft op de artikelen 3, 4, 5, 6, 7, 8, 9 en 12 alsmede Bijlagen I, II en IV, voor zover genoemd in de genoemde artikelen, van verordening (EG) nr. 1/2005 | 2 |
+| [Artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5.3) | 2 |
+| [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5.8) | 3 |
+| [Artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.2) | 2 |
+| [Artikel 6.3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.3) | 2 |
+| [Artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.5) | 3 |
+| [Artikel 6.5, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.5) | 2 |
+| [Artikel 6.6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.6) | 2 |
+| [Artikel 6.6, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.6) | 2 |
+| [Artikel 6.8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.8) | 3 |
+| [Artikel 6.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.8) | 2 |
+| [Artikel 6.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=6.9) | 2 |
+| [Artikel 8.3, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=8.3) | 2 |
+| [Artikel 8.4, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=8.4) | 2 |
+| [Artikel 8.5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=8.5) | 2 |
+| [Artikel 7a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7a.1) | 2 |
+| [Artikel 7a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7a.2) | 2 |
+| [Artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=9.2) | 3 |
+| [Artikel 9.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=9.4) | 1 |
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.14
+
+Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn:
+
+- a. de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid, en 69, eerste lid, van verordening (EU) 2017/625;
+
+- b. artikel 1, eerste lid, van uitvoeringsverordening (EU) 2019/2013;
+
+- c. de artikelen 4, onderdelen a en b, 5, eerste lid, onderdelen a, b, d en e, en tweede lid, onderdeel a en c, en 6, onderdelen a en b, van gedelegeerde verordening (EU) 2019/1602;
+
+- d. de artikelen 2, tweede lid, onderdeel b en c, en 3, eerste lid, van gedelegeerde verordening (EU) 2019/1666.
+
+### Hoofdstuk 2. : Gidsen voor goede praktijken
+
+### Hoofdstuk 3. : Overige bepalingen
+
+## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1&artikel=1.2&z=2019-12-14&g=2019-12-14) van de Regeling handhaving en overige zaken Wet dieren
+
+| [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) | Categorie |
+| --- | --- |
+| [Artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7) | 2 |
+| [Artikel 2.8, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) | 4 |
+| [Artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17) | 4 |
+| [Artikel 2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), voor zover dit artikellid betrekking heeft op het verrichten van een handeling die niet is toegestaan krachtens een vergunning. | 4 |
+| [Artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.4) | 3 |
+| [Artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.4) | 4 |
+| [Artikel 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10) | 4 |
+| [Artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.11) | 4 |
+| [Artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.12) | 4 |
+| [Artikel 5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.15) | 4 |
+| [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091) |   |
+| [Artikel 5.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=5.8) | 3 |
+| [Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238) |   |
+| [Artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11) | 3 |
+| [Artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.12) | 3 |
+| [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386) |   |
+| [Artikel 2.13, onderdelen a tot en met g en k](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=2.13) | 4 |
+| [Artikel 2.13, onderdelen h, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=2.13) | 3 |
+| [Artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=3.9) | 4 |
+| [Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=4.8) | 4 |
+| [Artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=4.20) | 2 |
+| [Artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=4.20) | 3 |
+| [Artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=4.22) | 4 |
+| [Artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=5.7) | 4 |
+| [Artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=6.2) | 4 |
+| [Artikel 6.3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=6.3), | 4 |
+| [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1), in samenhang met [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.2) | 4 |
+| [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1), in samenhang met [artikel 7.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.3) | 4 |
+| [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1), in samenhang met [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.4) | 4 |
+| [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1), in samenhang met [artikel 7.6, eerste lid, onderdelen a tot en met f, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.6) | 4 |
+| [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1), in samenhang met [artikel 7,6, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.6) | 3 |
+| [Artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.10) | 4 |
+| [Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626) |   |
+| [Artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.32) | 4 |
+| [Artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=2.39) | 4 |
+| [Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=3.11) | 3 |
+| [Artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.5) | 4 |
+| [Artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.6) | 3 |
+| [Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.8) | 3 |
+| [Artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.9) | 4 |
+| [Artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.10) | 3 |
+| [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.11) | 3 |
+| [Artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.13) | 3 |
+| [Artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.15) | 4 |
+| [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.16) | 4 |
+| [Artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.17) | 4 |
+| [Artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=4.22) | 3 |
+| [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.2) | 3 |
+| [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.3) | 3 |
+| [Artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.4) | 3 |
+| [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.5) | 3 |
+| [Artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.6) | 4 |
+| [Artikel 5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.7) | 3 |
+| [Artikel 5.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.8) | 3 |
+| [Artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.9), met uitzondering van het toepassen van diergeneesmiddelen | 3 |
+| [Artikel 5.10, aanhef en onderdelen, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.10), met uitzondering van het toepassen van diergeneesmiddelen | 3 |
+| [Artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.11) | 3 |
+| [Artikel 5.14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.14) | 3 |
+| [Artikel 5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.15) | 3 |
+| [Artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.16) | 2 |
+| [Artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=5.17) | 3 |
+| [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=6.1) | 4 |
+| [Artikel 6.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=6.2) | 3 |
+| [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=6.3) | 4 |
+| [Artikel 6.4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=6.4) | 4 |
+| [Artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=7.11), in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1) | 3 |
+| [Artikel 7.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=7.12), in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1) | 3 |
+| [Artikel 7.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=7.12), in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1) | 3 |
+| [Artikel 7.13, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=7.13), in samenhang met [artikel 7.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=7.1) | 3 |
+| [Artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.1) | 4 |
+| [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.2) | 4 |
+| [Artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.3) | 4 |
+| [Artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.4) | 4 |
+| [Artikel 8.5, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.5) | 4 |
+| [Artikel 8.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.8) | 4 |
+| [Artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) | 4 |
+| [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335) |   |
+| [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.2) | 3 |
+| [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.3) | 3 |
+| [Artikel 2.4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.4) | 3 |
+| [Artikel 2.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.4) | 2 |
+| [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462) |   |
+| [Artikel 2.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op artikel 8, derde lid, en bijlage V, punt 7, punt 8.1, onderdelen a tot en met e en punt 11.3, onderdeel b, van verordening (EG) nr. 999/2001 | 4 |
+| [Artikel 2.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op bijlage V, punt 8.1, onderdeel f, van verordening (EG) nr. 999/2001 | 3 |
+| [Artikel 2.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op bijlage V, punt 11.3, onderdelen a en c, van verordening (EG) nr. 999/2001 | 2 |
+| [Artikel 2.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4) | 3 |
+| [Artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op de artikelen 3, 4, eerste tot en met derde lid, 5, tweede lid, laatste alinea, en vierde lid, onderdelen a en b, en artikel 6, derde lid, van verordening (EG) nr. 852/2004 | 3 |
+| [Artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op artikel 5, eerste lid, van verordening (EG) nr. 852/2004 | 4 |
+| [Artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op de artikelen 5, vierde lid, onderdeel c, en 6, tweede lid, laatste alinea, van verordening (EG) nr. 852/2004 | 2 |
+| [Artikel 2.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4) | 3 |
+| [Artikel 2.4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4) | 3 |
+| [Artikel 2.4, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.4), voor zover dat onderdeel betrekking heeft op de artikelen 2 en 4 van verordening (EG) nr. 2075/2005 | 4 |
+| [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.5) | 3 |
+| [Artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.24) | 2 |
+| [Artikel 2.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.25a) | 2 |
+| [Artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.2) | 3 |
+| [Artikel 3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 4, eerste lid, 11, eerste lid, onderdeel c, 14, 21, eerste tot en met derde lid, 22, eerste en tweede lid, 23, eerste en tweede lid, 24, 25, 26, eerste en tweede lid, 28, 29, eerste tot en met derde lid, 31, eerste lid, 32, eerste lid, 35, 36, 41, eerste lid en tweede lid, onderdelen c en d, en 48, eerste, vierde en vijfde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 3 |
+| [Artikel 3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 6, eerste lid, 11, eerste lid, onderdelen a, b en d, 12, 13, 43, eerste tot en met derde lid, en 44, derde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 4 |
+| [Artikel 3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 3, 5, tweede lid, 6, derde, vierde en vijfde lid, 10, eerste lid, 11, tweede en derde lid, 12, tweede en derde lid, 13, 15, 17, 19, onderdelen b en c, 20, eerste en tweede lid, 22, eerste lid, 23, 24, 25, eerste en derde lid, 27, tweede en derde lid, 28, tweede en vierde lid, van verordening (EU) nr. 142/2011 | 3 |
+| [Artikel 3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 8, eerste lid, 9, 19, onderdeel c, en 21, eerste lid, van verordening (EU) nr. 142/2011 | 4 |
+| [Artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3) | 3 |
+| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.4) | 3 |
+| [Artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.18) | 3 |
+| [Artikel 3.22, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.22) | 2 |
+| [Artikel 3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.22) | 3 |
+| [Artikel 3.22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.22) | 1 |
+| [Artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.23) | 2 |
+| [Artikel 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.24) | 2 |
+| [Artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.25) | 2 |
+| [Artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.26) | 2 |
+| [Besluit diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0017065) |   |
+| [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=3.6) | 4 |
+| [Artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=3.7) | 4 |
+| [Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123) |   |
+| [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=6), voor zover dat artikel betrekking heeft op [artikel 8.9 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.9) | 4 |
+| [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=6), voor zover dat artikel betrekking heeft op [artikel 8.10 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) | 4 |
+| [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=6), voor zover dat artikel betrekking heeft op [artikel 8.12 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.12) | 3 |
+| [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=7) | 4 |
+| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=13), voor zover dat artikel betrekking heeft op artikel 24 van [verordening (EG) nr. 183/2005](32005R0183) | 2 |
+| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=13), voor zover dat artikel betrekking heeft op de artikelen 4, 5, eerste, tweede, derde, vijfde en zesde lid, en 9, eerste en tweede lid, van [verordening (EG) nr. 183/2005](32005R0183) | 3 |
+| [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=13), voor zover dat artikel betrekking heeft op de artikelen 6, eerste en derde lid, 7, eerste lid, 10 en 23, eerste lid, van [verordening (EG) nr. 183/2005](32005R0183) | 4 |
+| [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=14) | 4 |
+| [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=15) | 4 |
+| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=20), voor zover dat artikel betrekking heeft op artikel 16 van [verordening (EG) nr. 178/2002](32002R0178) | 3 |
+| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=20), voor zover dat artikel betrekking heeft op de artikelen 11, 12, 15, eerste lid, 17, eerste lid, 18 en 20 van [verordening (EG) nr. 178/2002](32002R0178) | 4 |
+| [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=21), voor zover dat artikel betrekking heeft op de artikelen 20, eerste lid, en 25, tweede en derde lid, van [verordening (EG) nr. 1829/2003](32003R1829) | 2 |
+| [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=21), voor zover dat artikel betrekking heeft op de artikelen 16, eerste en tweede lid, en 21, eerste en derde lid, van [verordening (EG) nr. 1829/2003](32003R1829) | 4 |
+| [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=22) | 3 |
+| [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=23), voor zover dat artikel betrekking heeft op artikel 16, eerste tot en met vijfde lid, van [verordening (EG) nr. 1831/2003](32003R1831) | 2 |
+| [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=23), voor zover dat artikel betrekking heeft op artikel 3, derde lid, van [verordening (EG) nr. 1831/2003](32003R1831) | 3 |
+| [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=23), voor zover dat artikel betrekking heeft op artikel 3, eerste en vierde lid, van [verordening (EG) nr. 1831/2003](32003R1831) | 4 |
+| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=24), voor zover dat artikel betrekking heeft op de artikelen 11, tweede tot en met vijfde lid, 14, eerste en tweede lid, 15, 16, 17, eerste en tweede lid, 18, 19, 22, eerste lid, 23, eerste lid, 24, vijfde lid, tweede volzin, en zesde lid, en 25, vierde lid, van [verordening (EG) nr. 767/2009](32009R0767) | 2 |
+| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=24), voor zover dat artikel betrekking heeft op de artikelen 5, eerste en tweede lid, 8, eerste lid, 9, 11, eerste lid, 13, eerste en tweede lid en 20, eerste lid, van [verordening (EG) nr. 767/2009](32009R0767) | 3 |
+| [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=24), voor zover dat artikel betrekking heeft op de artikelen 4, 6, eerste lid en 13, derde lid, van [verordening (EG) nr. 767/2009](32009R0767) | 4 |
+| [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=29) | 4 |
+| [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=30) | 2 |
+| [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=31) | 4 |
 | [Artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=57) | 4 |
 | [Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=62) | 4 |
 | [Artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=63) | 2 |
