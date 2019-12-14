@@ -4,7 +4,7 @@ identifier: "BWBR0018823"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-02-19"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018823"
 soort: "AMvB"
@@ -76,11 +76,9 @@ Hebben goedgevonden en verstaan:
 
 - d. **verordening (EG) 853/2004**: [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
 
-- e. **verordening (EG) 854/2004**: [verordening (EG) nr. 854/2004](32004R0854) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226);
+- e. **verordening (EU) 2017/625**: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
 
-- f. **verordening (EG) 882/2004**: [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191);
-
-- g. **verordening (EG) 2073/2005**: [verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).
+- f. **verordening (EG) 2073/2005**: [verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).
 
 2. Dit besluit is niet van toepassing op:
 
@@ -96,9 +94,9 @@ Hebben goedgevonden en verstaan:
 
 - 4°. vrij wild;
 
-- c. de officiële controles van vers vlees en daarmee verband houdende bepalingen, bedoeld in artikel 5 en bijlage I, van [verordening (EG) 854/2004](32004R0854); en
+- c. de officiële controles van vers vlees en daarmee verband houdende bepalingen, bedoeld in artikel 17 en 18, eerste tot en met vijfde lid, zevende lid, onderdelen a tot en met f, h tot en met k, achtste lid, onderdelen a, c, d en e, en negende lid, van verordening (EU) 2017/625; en
 
-- d. de officiële controles op de naleving van de wetgeving inzake diervoeders, diergezondheid en dierenwelzijn, bedoeld in [verordening (EG) 882/2004](32004R0882).
+- d. de officiële controles op de naleving van de wetgeving inzake diervoeders, diergezondheid en dierenwelzijn, bedoeld in verordening (EU) 2017/625.
 
 ##### Artikel 2
 
@@ -108,43 +106,15 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden te handelen in strijd met de artikelen 3, 4, 5, eerste, tweede en vierde lid, 6, eerste lid, 7, en 9, van [verordening (EG) 2073/2005](32005R2073).
 
-4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2016-02-19&g=2016-02-19), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2016-02-19&g=2016-02-19) vastgestelde regels.
+4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2019-12-14&g=2019-12-14), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2019-12-14&g=2019-12-14) vastgestelde regels.
 
-5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2016-02-19&g=2016-02-19).
+5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2019-12-14&g=2019-12-14).
 
 ##### Artikel 3
 
-1. Bevoegde autoriteit:
+1. Onze Minister is de bevoegde autoriteit, bedoeld in artikel 2, eerste lid, onderdeel d, van [verordening (EG) 852/2004](32004R0852).
 
-- a. bedoeld in artikel 2, eerste lid, onder d, van verordening (EG) 852/2004, en in artikel 2, eerste lid, onder c, van verordening (EG) 854/2004, is de Nederlandse Voedsel- en Warenautoriteit;
-
-- b. bedoeld in artikel 2, vierde lid, van [verordening (EG) 882/2004](32004R0882), zijn de diensten waarbij de krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) aangewezen ambtenaren, belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften, werkzaam zijn.
-
-2. In afwijking van het eerste lid is Onze Minister de bevoegde autoriteit:
-
-- a. inzake de verlening van erkenningen van inrichtingen als bedoeld in:
-
-- 1°. artikel 4 van verordening (EG) 853/2004;
-
-- 2°. artikel 3 van verordening (EG) 854/2004;
-
-- 3°. artikel 6, derde lid, onder c, van verordening (EG) nr. 852/2004;
-
-- b. inzake het bij niet-naleving van verordening (EG) 852/2004 of van verordening (EG)853/2004 indien nodig:
-
-- 1°. schorsen of intrekken van de erkenning van inrichtingen als bedoeld onder a;
-
-- 2°. beperken of verbieden van het op de markt brengen van bepaalde eet- en drinkwaren;
-
-- 3°. bevelen van de monitoring, het terugroepen, uit de handel nemen of vernietigen van eet- en drinkwaren;
-
-- 4°. machtiging verlenen om eet- en drinkwaren aan te wenden voor andere doeleinden dan waarvoor zij oorspronkelijk waren bedoeld; of
-
-- 5°. tijdelijk, geheel of gedeeltelijk, gelasten van de sluiting van het betrokken bedrijf;
-
-- c. bedoeld in bijlage II, hoofdstuk II, van verordening (EG) 854/2004.
-
-3. Bij regeling van Onze Minister worden procedures vastgesteld als bedoeld in artikel 11, vijfde lid, en artikel 31, eerste lid, onder a, en tweede lid, onder a, van [verordening (EG) 882/2004](32004R0882).
+2. Bij regeling van Onze Minister worden procedures vastgesteld als bedoeld in artikel 148 van verordening (EU) 2017/625.
 
 #### § 2. Hygiënecodes
 
@@ -184,13 +154,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19).
+1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14).
 
 2. De exploitant van een levensmiddelenbedrijf, die gebruik maakt van de hygiënecode, bedoeld in het eerste lid:
 
-- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
+- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
 
-- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
+- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het gebruik van:
 
@@ -224,7 +194,7 @@ geschiedt op zindelijke wijze en zodanig dat:
 
 - 2°. onder 1° bedoelde organismen zich niet zodanig kunnen vermeerderen of zodanige toxinen kunnen vormen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn of worden.
 
-2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2016-02-19&g=2016-02-19), van overeenkomstige toepassing.
+2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2019-12-14&g=2019-12-14), van overeenkomstige toepassing.
 
 #### § 5. Rauwe melk
 
@@ -268,7 +238,7 @@ De Nederlandse Voedsel- en Warenautoriteit is bevoegd de toestemming te verlenen
 
 ##### Artikel 10
 
-Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2016-02-19&g=2016-02-19), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 852/2004](32004R0852), [853/2004](32004R0853), [854/2004](32004R0854) of [882/2004](32004R0882) gestelde voorschriften.
+Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2019-12-14&g=2019-12-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen [(EG) 852/2004](32004R0852) of [853/2004](32004R0853) gestelde voorschriften.
 
 ##### Artikel 11
 
@@ -308,7 +278,7 @@ Wijzigt het Warenwetbesluit Uitvoer van waren.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2006.
 
-2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2016-02-19&g=2016-02-19) vervalt met ingang van 1 januari 2010.
+2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2019-12-14&g=2019-12-14) vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 20
 
