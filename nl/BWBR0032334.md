@@ -4,7 +4,7 @@ identifier: "BWBR0032334"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-07"
-last_updated: "2016-07-01"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032334"
 soort: "AMvB"
@@ -54,7 +54,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **Raad:** Raad voor dierenaangelegenheden, bedoeld in [artikel 10.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.8);
 
-- –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
+- –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
+
+- –. **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (Pb EU 2017 L 95).
 
 ### Hoofdstuk 2. De bestuurlijke boete
 
@@ -90,17 +92,17 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu:
 
-- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), gehalveerd;
+- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2019-12-14&g=2019-12-14), gehalveerd;
 
-- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), verdubbeld.
+- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2019-12-14&g=2019-12-14), verdubbeld.
 
 ##### Artikel 2.4. Overtreding door particulier
 
-Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2016-07-01&g=2016-07-01) op te leggen boetebedrag gehalveerd.
+Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2019-12-14&g=2019-12-14) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2019-12-14&g=2019-12-14) op te leggen boetebedrag gehalveerd.
 
 ##### Artikel 2.5. Recidive
 
-1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2016-07-01&g=2016-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2016-07-01&g=2016-07-01) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
+1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2019-12-14&g=2019-12-14), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2019-12-14&g=2019-12-14) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2019-12-14&g=2019-12-14) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
 
 2. Bij ministeriële regeling kunnen overtredingen worden aangewezen die soortgelijk zijn aan daarbij aangewezen andere overtredingen.
 
@@ -170,7 +172,7 @@ De Raad doet jaarlijks voor 1 april schriftelijk verslag van zijn werkzaamheden 
 
 ##### Artikel 4.1. Evaluatie bestuurlijke boete
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2016-07-01&g=2016-07-01) in de praktijk.
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2019-12-14&g=2019-12-14) in de praktijk.
 
 ##### Artikel 4.2. Evaluatie Raad voor dierenaangelegenheden
 
@@ -215,5 +217,23 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit handhaving en overige zaken Wet dieren.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.5. (tweede analyse)
+
+Onze Minister is bevoegd besluiten te nemen als bedoeld in artikel 35, derde lid, van verordening (EU) 2017/625.
+
+##### Artikel 4.6. (coördinerende instantie artikel 4, tweede lid, onder b, verordening (EU) nr. 2017/625)
+
+Onze Minister is de coördinerende instantie, bedoeld in artikel 4, tweede lid, onder b, verordening (EU) 2017/625.
+
+##### Artikel 4.7. (overgangsrecht bestuurlijke maatregel verordening (EU) nr. 882/2004)
+
+Op een besluit dat vanwege een geconstateerde niet-naleving is genomen en dat is gebaseerd of mede gebaseerd op artikel 19, eerste lid, of artikel 54, eerste en tweede lid, van verordening (EU) nr. 882/2004 van het Europees Parlement en de Raad van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU 2004, L 165), dat is genomen voor 14 december 2019 en waartegen bezwaar is gemaakt, of beroep is ingesteld, wordt besloten met toepassing van die verordening zoals die luidde voor 14 december 2019.
+
+### Hoofdstuk 5. Aanpassing andere regelgeving
+
+### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
