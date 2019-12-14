@@ -4,7 +4,7 @@ identifier: "BWBR0009675"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-02-19"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009675"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Hebben goedgevonden en verstaan:
 
 5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2016-02-19&g=2016-02-19).
+6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2019-12-14&g=2019-12-14).
 
 7. Het is verboden te handelen in strijd met artikel 11, eerste streepje, artikel 13, eerste, tweede en vijfde lid, artikel 14, of artikel 15, van [verordening (EG) 1760/2000](32000R1760), of met artikel 1, artikel 2, tweede lid, artikel 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
 
@@ -154,7 +154,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zi
 
 ##### Artikel 4
 
-1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2016-02-19&g=2016-02-19), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2016-02-19&g=2016-02-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2016-02-19&g=2016-02-19),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2016-02-19&g=2016-02-19) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2016-02-19&g=2016-02-19) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2019-12-14&g=2019-12-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2019-12-14&g=2019-12-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2019-12-14&g=2019-12-14),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2019-12-14&g=2019-12-14) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2019-12-14&g=2019-12-14) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -230,7 +230,7 @@ De vermelding **mager** of **magere** mag worden gebezigd bij:
 
 ##### Artikel 14
 
-De autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onder a, van [verordening (EG) 1825/2000](32000R1825), is de Nederlandse Voedsel- en Warenautoriteit.
+Onze Minister is de bevoegde autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onderdeel a, van [verordening (EG) 1825/2000](32000R1825).
 
 ##### Artikel 15
 
