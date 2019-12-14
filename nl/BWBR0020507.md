@@ -4,7 +4,7 @@ identifier: "BWBR0020507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-14"
-last_updated: "2012-01-19"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020507"
 soort: "ministeriele-regeling"
@@ -58,13 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Als aangewezen punten van invoer of controlepunten, bedoeld in een EU-noodmaatregel, worden wat betreft levensmiddelen aangewezen:
-
-- a. de haven van Rotterdam;
-
-- b. de haven van Amsterdam; en
-
-- c. de luchthaven Schiphol.
+1. Onze Minister wijst de aangewezen punten van invoer of controlepunten, bedoeld in een EU-noodmaatregel, aan.
 
 2. De Nederlandse Voedsel- en Warenautoriteit houdt een bijgewerkte lijst van aangewezen punten en de desbetreffende EU-noodmaatregelen bij en maakt deze openbaar op de eigen website.
 
@@ -75,5 +69,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Warenwetregeling noodmaatregelen invoer levensmiddelen uit derde landen ([verordening (EG) 178/2002](32002R0178)).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Deze regeling berust op [artikel 4, onderdeel b, van het Warenwetbesluit Invoer levensmiddelen uit derde landen](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
