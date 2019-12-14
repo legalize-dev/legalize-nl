@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2014-03-01"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. [verordening (EG) 853/2004](32004R0853): [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en 226);
 
-- g. [verordening (EG) 882/2004](32004R0882): [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191);
+- g. verordening (EU) 2017/625: verordening (EU) 2017/625 van het Europees parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), (EG) nr. [1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
 
 - h. NVWA: de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan artikel 2 voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01) bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
 
 - a. de Stichting Nationale en Internationale Wegvervoer Organisatie;
 
@@ -106,9 +106,9 @@ In deze regeling wordt verstaan onder:
 
 - e. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of
 
-- f. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken.
+- f. voor zover het een agrarische onderneming betreft, het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01) bedoelde informatie reeds in het bezit is van de NVWA.
+2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14) bedoelde informatie reeds in het bezit is van de NVWA.
 
 ##### Artikel 4
 
@@ -118,11 +118,11 @@ In deze regeling wordt verstaan onder:
 
 - b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van [verordening (EG) 853/2004](32004R0853), voorschriften bevat; of
 
-- c. het COKZ de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of
+- c. het COKZ of de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of
 
 - d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).
 
-2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van [verordening (EG) 882/2004](32004R0882).
+2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 148, tweede lid, van verordening (EU) 2017/625.
 
 ##### Artikel 5
 
@@ -135,5 +135,15 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 ## Bijlage
 
 Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+Deze regeling berust op [artikel 3, tweede lid, van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=3).
+
+## Bijlage
+
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
