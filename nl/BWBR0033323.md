@@ -4,7 +4,7 @@ identifier: "BWBR0033323"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-10-06"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033323"
 soort: "AMvB"
@@ -98,9 +98,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=3&z=2016-10-06&g=2016-10-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-10-06&g=2016-10-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6&z=2016-10-06&g=2016-10-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=7&z=2016-10-06&g=2016-10-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8&z=2016-10-06&g=2016-10-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=9&z=2016-10-06&g=2016-10-06).
+1. Het is verboden te handelen in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=3&z=2019-12-14&g=2019-12-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2019-12-14&g=2019-12-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6&z=2019-12-14&g=2019-12-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=7&z=2019-12-14&g=2019-12-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8&z=2019-12-14&g=2019-12-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=9&z=2019-12-14&g=2019-12-14).
 
-2. Het is verboden te handelen in strijd met de bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=10&z=2016-10-06&g=2016-10-06), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-10-06&g=2016-10-06), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=14&z=2016-10-06&g=2016-10-06) gestelde voorschriften.
+2. Het is verboden te handelen in strijd met de bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=10&z=2019-12-14&g=2019-12-14), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2019-12-14&g=2019-12-14), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=14&z=2019-12-14&g=2019-12-14) gestelde voorschriften.
 
 3. Het is verboden ten aanzien van levensmiddelen te handelen in strijd met artikel 16 van [verordening (EG) 178/2002](32002R0178).
 
@@ -140,7 +140,7 @@ van het betrokken levensmiddel.
 
 ##### Artikel 5
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-10-06&g=2016-10-06) is niet van toepassing:
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2019-12-14&g=2019-12-14) is niet van toepassing:
 
 - a. indien de datum van minimale houdbaarheid of de uiterste consumptiedatum in de etikettering voorkomt, op voorwaarde dat de vermelding van deze datum duidelijk en in de juiste volgorde ten minste de dag en de maand omvat;
 
@@ -178,7 +178,7 @@ van het betrokken levensmiddel.
 
 - a. de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011; en
 
-- b. de vermelding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-10-06&g=2016-10-06), inzake de vermelding die het mogelijk maakt de partij te identificeren waartoe een levensmiddel behoort.
+- b. de vermelding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2019-12-14&g=2019-12-14), inzake de vermelding die het mogelijk maakt de partij te identificeren waartoe een levensmiddel behoort.
 
 2. De in het eerste lid bedoelde vermeldingen zijn aangebracht:
 
@@ -268,11 +268,11 @@ Bij regeling van Onze Minister kunnen worden vastgesteld:
 
 ##### Artikel 12
 
-[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-10-06&g=2016-10-06) is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig [verordening (EG) 1924/2006](32006R1924) is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.
+[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2019-12-14&g=2019-12-14) is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig [verordening (EG) 1924/2006](32006R1924) is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.
 
 ##### Artikel 13
 
-De Nederlandse Voedsel- en Warenautoriteit is de bevoegde autoriteit, bedoeld in:
+Onze Minister is de bevoegde autoriteit, bedoeld in:
 
 - a. [verordening (EG) 1924/2006](32006R1924);
 
@@ -282,11 +282,11 @@ De Nederlandse Voedsel- en Warenautoriteit is de bevoegde autoriteit, bedoeld in
 
 Bij regeling van Onze Minister kunnen nadere regels worden vastgesteld:
 
-- a. inzake [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-10-06&g=2016-10-06), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 1924/2006](32006R1924) gestelde voorschriften;
+- a. inzake [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2019-12-14&g=2019-12-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 1924/2006](32006R1924) gestelde voorschriften;
 
-- b. inzake [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-10-06&g=2016-10-06), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 110/2008](32008R0110) gestelde voorschriften;
+- b. inzake [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2019-12-14&g=2019-12-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 110/2008](32008R0110) gestelde voorschriften;
 
-- c. inzake [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-10-06&g=2016-10-06), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EU) 1169/2011 gestelde voorschriften.
+- c. inzake [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2019-12-14&g=2019-12-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EU) 1169/2011 gestelde voorschriften.
 
 ##### Artikel 15
 
@@ -364,7 +364,7 @@ De volgende besluiten worden ingetrokken:
 
 1. Dit besluit treedt in werking met ingang van 13 december 2014.
 
-2. In afwijking van het eerste lid treden de [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-10-06&g=2016-10-06), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=18&z=2016-10-06&g=2016-10-06):
+2. In afwijking van het eerste lid treden de [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2019-12-14&g=2019-12-14), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=18&z=2019-12-14&g=2019-12-14):
 
 - a. in werking met ingang van 1 januari 2014, voor zover die artikelen betrekking hebben op bijlage VI, deel B, van verordening (EU) 1169/2011;
 
