@@ -75,9 +75,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Uitvoeringsregeling EU-verordening persistente organische verontreinigende stoffen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
