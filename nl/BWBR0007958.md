@@ -4,7 +4,7 @@ identifier: "BWBR0007958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-18"
-last_updated: "2011-03-03"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007958"
 soort: "ministeriele-regeling"
@@ -40,11 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als algemeen aanvaarde prijslijsten bij de vaststelling van maximumprijzen voor geneesmiddelen worden respectievelijk voor België, de Bondsrepubliek Duitsland, Frankrijk en het Verenigd Koninkrijk aangewezen:
+Als algemeen aanvaarde prijslijsten bij de vaststelling van maximumprijzen voor geneesmiddelen worden respectievelijk voor België, Noorwegen, Frankrijk en het Verenigd Koninkrijk aangewezen:
 
 - a. de prijslijst genaamd ‘Tarief voor Specialiteiten’, uitgegeven door de Algemene Pharmaceutische Bond (A.P.B.) te Brussel, en, wat ziekenhuisgeneesmiddelen betreft, de prijslijst genaamd ‘bijlage I van het K.B. van 21.12.2001’, uitgegeven door het Rijksinstituut voor ziekte- en invaliditeitsverzekering, te Brussel;
 
-- b. de prijslijst uitgegeven door de Informationsstelle für Artzneispezialitäten GmbH (IFA) te Frankfurt am Main;
+- b. de prijslijst genaamd ‘Price- and reimbursement list’, uitgegeven door de Norwegian Medicines Agency, te Oslo;
 
 - c. de prijslijst genaamd ‘DATASEMP’, uitgegeven door Vidal S.A., te Parijs;
 
