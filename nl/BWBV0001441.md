@@ -4,7 +4,7 @@ identifier: "BWBV0001441"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2019-12-01"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001441"
 soort: "verdrag"
@@ -415,11 +415,11 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 - d). de som van de geïnde verwijderingsbijdragen;
 
-- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2019-12-01&g=2019-12-01) bedoelde maatregelen.
+- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2019-12-18&g=2019-12-18) bedoelde maatregelen.
 
 De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.
 
-2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2019-12-01&g=2019-12-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
+2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2019-12-18&g=2019-12-18), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
@@ -427,7 +427,7 @@ De modaliteiten van deze procedure worden door het internationale verevenings- e
 
 1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
-2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2019-12-01&g=2019-12-01), te verrichten.
+2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2019-12-18&g=2019-12-18), te verrichten.
 
 ##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
@@ -590,13 +590,13 @@ In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandighed
 
 ##### Artikel 7.04. Oplevering van het schip
 
-1. Bij droge lading dient de ladingontvanger ervoor te zorgen dat na het lossen, overeenkomstig de losstandaarden en afgifte- en innamevoorschriften bedoeld in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2019-12-01&g=2019-12-01), het laadruim bezemschoon dan wel vacuümschoon ter beschikking wordt gesteld. Hij is verplicht aanwezige restlading alsmede overslagresten van het geloste schip in ontvangst te nemen.
+1. Bij droge lading dient de ladingontvanger ervoor te zorgen dat na het lossen, overeenkomstig de losstandaarden en afgifte- en innamevoorschriften bedoeld in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2019-12-18&g=2019-12-18), het laadruim bezemschoon dan wel vacuümschoon ter beschikking wordt gesteld. Hij is verplicht aanwezige restlading alsmede overslagresten van het geloste schip in ontvangst te nemen.
 
 Bij vloeibare lading dient de verlader ervoor te zorgen dat na het lossen de ladingtank nagelensd ter beschikking wordt gesteld. Het lossen met inbegrip van het nalossen met behulp van een nalenssysteem wordt door de schipper uitgevoerd, tenzij in de vervoersovereenkomst iets anders is overeengekomen. De leiding voor de inname van restlading dient van een aansluiting overeenkomstig model 1 van Aanhangsel II te zijn voorzien. Bij gebruik van het nalenssysteem aan boord van het schip mag vóór het moment van nalenzen de tegendruk in het buizenstelsel van de ladingontvanger 3 bar niet overschrijden. De exploitant van de overslaginstallatie is verplicht de restlading in ontvangst te nemen.
 
-2. Bij droge lading is de ladingontvanger, bij vloeibare lading is de verlader verplicht voor een wasschoon laadruim respectievelijk wasschone ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2019-12-01&g=2019-12-01) niet met het waswater in het water geloosd mogen worden.
+2. Bij droge lading is de ladingontvanger, bij vloeibare lading is de verlader verplicht voor een wasschoon laadruim respectievelijk wasschone ladingtank te zorgen, indien het schip goederen heeft vervoerd waarvan de ladingrestanten overeenkomstig de losstandaarden en afgifte- en innamevoorschriften van [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=III&z=2019-12-18&g=2019-12-18) niet met het waswater in het water geloosd mogen worden.
 
-Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een wasschoon laadruim respectievelijk wasschone ladingtank zorgen wanneer dit laadruim of deze ladingtank vóór de belading krachtens een overeenkomst zoals bedoeld in [artikel 7.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.02&z=2019-12-01&g=2019-12-01), gewassen was.
+Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een wasschoon laadruim respectievelijk wasschone ladingtank zorgen wanneer dit laadruim of deze ladingtank vóór de belading krachtens een overeenkomst zoals bedoeld in [artikel 7.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.02&z=2019-12-18&g=2019-12-18), gewassen was.
 
 - a). Het eerste en tweede lid zijn niet van toepassing op laadruimen en ladingtanks van schepen die eenheidstransporten uitvoeren. De vervoerder dient dit schriftelijk te kunnen aantonen.
 
@@ -608,7 +608,7 @@ Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een was
 
 Het bewijs van de verenigbare vervolglading dient tot en met het lossen van de verenigbare vervolglading aan boord aanwezig te zijn.
 
-4. Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van [artikel 7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2019-12-01&g=2019-12-01) aﬂevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.
+4. Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van [artikel 7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2019-12-18&g=2019-12-18) aﬂevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.
 
 ##### Artikel 7.05. Ladingrestanten en waswater
 
@@ -704,13 +704,13 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 ##### Artikel 9.03. Verzameling en behandeling aan boord, afgifte aan ontvangstinrichtingen
 
-1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-01&g=2019-12-01), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, overige her te gebruiken stoffen en overig afval te worden afgegeven.
+1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-18&g=2019-12-18), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, overige her te gebruiken stoffen en overig afval te worden afgegeven.
 
-2. Het is verboden het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-01&g=2019-12-01), genoemde afval aan boord te verbranden.
+2. Het is verboden het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-18&g=2019-12-18), genoemde afval aan boord te verbranden.
 
-3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2019-12-01&g=2019-12-01), dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
+3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2019-12-18&g=2019-12-18), dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
 
-4. De schipper van een passagiersschip dat krachtens [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-01&g=2019-12-01), onder het lozingsverbod voor huishoudelijk afvalwater valt, dient zeker te stellen dat het huishoudelijk afvalwater op een passende wijze aan boord van het schip wordt verzameld en overeenkomstig [artikel 8.02 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.02&z=2019-12-01&g=2019-12-01), bij een installatie of inzamelstation wordt afgegeven, voor zover het passagiersschip niet over een zuiveringsinstallatie overeenkomstig artikel 9.01, vierde lid, beschikt.
+4. De schipper van een passagiersschip dat krachtens [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2019-12-18&g=2019-12-18), onder het lozingsverbod voor huishoudelijk afvalwater valt, dient zeker te stellen dat het huishoudelijk afvalwater op een passende wijze aan boord van het schip wordt verzameld en overeenkomstig [artikel 8.02 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.02&z=2019-12-18&g=2019-12-18), bij een installatie of inzamelstation wordt afgegeven, voor zover het passagiersschip niet over een zuiveringsinstallatie overeenkomstig artikel 9.01, vierde lid, beschikt.
 
 ### HOOFDSTUK X. VERPLICHTINGEN VAN DE EXPLOITANT VAN DE ONTVANGSTINRICHTING
 
@@ -730,7 +730,7 @@ GEDAAN te Straatsburg, op 9 september 1996.
 
 2. Het transactiebewijs met betrekking tot de verwijderingsbijdrage dat door het SPE-CDNI wordt afgegeven, moet aan deze bunkerverklaring worden gehecht. De schipper ontvangt een afschrift van beide voornoemde documenten die hij ten minste twaalf maanden aan boord moet bewaren. Een ander afschrift van beide moet ten minste twaalf maanden bij het bunkerbedrijf worden bewaard.
 
-3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2019-12-01&g=2019-12-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
+3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2019-12-18&g=2019-12-18) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
 
 4. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de hoogte van de betaalde verwijderingsbijdragen wordt door het nationale instituut of de bevoegde autoriteit gecontroleerd aan de hand van de door de bunkerbedrijven te overleggen afschriften van de bunkerverklaringen.
 
