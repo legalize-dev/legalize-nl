@@ -4,7 +4,7 @@ identifier: "BWBR0042901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-18"
-last_updated: "2019-03-01"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042901"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=2&z=2019-12-18&g=2019-03-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=2&z=2019-12-18&g=2019-12-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -106,7 +106,7 @@ De commissie wordt opgeheven 4 weken nadat het eindrapport is uitgebracht.
 
 1. De commissie kan zich onder meer voor het inwinnen van inlichtingen rechtstreeks wenden tot alle instanties en personen die aan het uitvoeren van haar taak kunnen bijdragen.
 
-2. Het Ministerie van Justitie en Veiligheid, het openbaar ministerie, het Ministerie van Buitenlandse Zaken en op grond van [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die de commissie nodig acht met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=7&z=2019-12-18&g=2019-03-01) bedoelde protocol.
+2. Het Ministerie van Justitie en Veiligheid, het openbaar ministerie, het Ministerie van Buitenlandse Zaken en op grond van [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die de commissie nodig acht met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=7&z=2019-12-18&g=2019-12-18) bedoelde protocol.
 
 3. De onder de verantwoordelijkheid van het Ministerie van Justitie en Veiligheid en van het Ministerie van Buitenlandse Zaken vallende ambtenaren zijn verplicht om de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
