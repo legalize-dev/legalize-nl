@@ -4,7 +4,7 @@ identifier: "BWBR0038916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2019-11-20"
+last_updated: "2019-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038916"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 3
 
-De artikelen 1, 2, 3 en 4, eerste lid, van [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van beperkende maatregelen tegen sommige personen en entiteiten die banden hebben met het Al-Qa’ida-netwerk (Pb EG L 139) zijn van overeenkomstige toepassing jegens de natuurlijke of rechtspersonen, groepen of entiteiten die zijn vermeld op de lijst, vastgesteld door het comité, bedoeld in paragraaf 6 van Resolutie 1267 van de Veiligheidsraad van de Verenigde Naties, en die niet zijn vermeld in bijlage I van [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie.
+Vervallen
 
 ##### Artikel 4
 
-Overtreding van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038916&artikel=3&z=2019-11-20&g=2019-11-20) van overeenkomstige toepassing verklaarde artikelen 2, 3 en 4, eerste lid, ten aanzien van de in artikel 3 bedoelde natuurlijke of rechtspersonen, groepen of entiteiten is verboden.
+Vervallen
 
 ##### Artikel 5
 
