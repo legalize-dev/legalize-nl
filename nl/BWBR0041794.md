@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2019-11-11"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -62,19 +62,19 @@ In dit besluit wordt verstaan onder:
 
 - 2°. de directeur-generaal Natuur, Visserij en Landelijk Gebied;
 
-- 3°. de directeur Bestuurlijke en Politieke Zaken;
+- 3°. de programmadirecteur-generaal Stikstof;
 
-- 4°. de directeur Communicatie;
+- 4°. de directeur Bestuurlijke en Politieke Zaken;
 
-- 5°. de directeur Financieel-Economische Zaken;
+- 5°. de directeur Communicatie;
 
-- 6°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
+- 6°. de directeur Financieel-Economische Zaken;
+
+- 7°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
 - e. **de P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- f. **het BBRA:** het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
-
-- g. **het ARAR:** het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950).
+- f. **de CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
 
 ##### Artikel 2
 
@@ -92,7 +92,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-12-20&g=2019-11-11), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-12-20&g=2019-11-11) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2019-12-20&g=2019-12-20), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-12-20&g=2019-12-20) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -128,7 +128,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - b. het vaststellen van ministeriële regelingen als bedoeld in [artikel 31a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=31a), [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid;
 
-- c. het vaststellen van circulaires, met uitzondering van circulaires die naar het oordeel van de secretaris-generaal door een hoofd van dienst moeten worden vastgesteld;
+- c. het vaststellen van personeelsreglementen als bedoeld in paragraaf 1.1 van de CAO Rijk en circulaires, met uitzondering van circulaires en personeelsreglementen die naar het oordeel van de secretaris-generaal door een hoofd van dienst moeten worden vastgesteld;
 
 - d. het vaststellen van de werkterreinen van de hoofden van dienst;
 
@@ -160,7 +160,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - p. het invulling geven aan de eigenaarsrol van de Minister van Landbouw, Natuur en Voedselkwaliteit richting de Nederlandse Voedsel-en Warenautoriteit, Staatsbosbeheer en het College voor de toelating van gewasbeschermingsmiddelen en biociden;
 
-- q. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51);
+- q. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
 
 - r. het inschrijven van het kernministerie als bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten.
 
@@ -172,11 +172,13 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - 2°. het directoraat-generaal Natuur, Visserij en Landelijk Gebied;
 
-- 3°. de directie Bestuurlijke en Politieke Zaken;
+- 3°. het programmadirectoraat-generaal Stikstof;
 
-- 4°. de directie Communicatie;
+- 4°. de directie Bestuurlijke en Politieke Zaken;
 
-- 5°. de directie Financieel-Economische Zaken.
+- 5°. de directie Communicatie;
+
+- 6°. de directie Financieel-Economische Zaken.
 
 - b. het vaststellen van de apparaatskosten van de diensten;
 
@@ -186,29 +188,35 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - e. personeelsaangelegenheden met betrekking tot de hoofden van dienst;
 
-- f. het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, betreffende:
+- f. het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, betreffende:
 
-- 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste of tijdelijke aanstellingen;
+- 1°. het aanbieden van een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde of bepaalde tijd en het beëindigen van een arbeidsovereenkomst;
 
-- 2°. het bevorderen naar een hogere salarisschaal;
+- 2°. het toekennen van een hogere salarisschaal;
 
-- 3°. het verlenen van buitengewoon verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=34);
+- 3°. het verlenen van buitengewoon verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk;
 
-- 4°. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=57);
+- 4°. het opdragen van een andere functie;
 
-- 5°. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=58);
+- 5°. het opdragen van tijdelijke andere werkzaamheden;
 
 - 6°. het toekennen van een terugkeergarantie, al dan niet op grond van sociaal flankerend beleid;
 
 - 7°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- 8°. het toekennen van schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
+- 8°. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
-- 9°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81);
+- 9°. het opleggen van ordemaatregelen en straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- 10°. het schorsen op grond van [artikel 91 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=91);
+- 10°. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
 
-- 11°. het verminderen van bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=92).
+- 11°. het sluiten van tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
+
+- 12°. het opzeggen van een arbeidsovereenkomst om een dringende reden als bedoeld in [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
+
+- g. het aangaan van een arbeidsovereenkomst voor bepaalde tijd met en het inlenen op basis van een uitzendovereenkomst van een persoon die de AOW-leeftijd heeft bereikt;
+
+- h. het toepassen van de hardheidsclausules, genoemd in paragraaf 7.1 en 7.2 van het personeelsreglement LNV.
 
 ##### Artikel 5
 
@@ -242,9 +250,9 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 - n. het zorg dragen voor aangelegenheden op het gebied van de Algemene verordening gegevensbescherming, voor zover niet behorend tot het werkterrein van een hoofd van dienst of voor zover niet binnen een redelijke termijn te achterhalen is welk hoofd van dienst verantwoordelijke is;
 
-- o. het zorg dragen voor aangelegenheden op het gebied van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor zover niet behorend tot een hoofd van dienst, waaronder het voor het gehele ministerie vaststellen van beheersregels en selectielijsten als bedoeld in de [artikelen 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en [5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) en het stellen van beperkingen aan de openbaarheid van archiefbescheiden bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
+- o. het zorg dragen voor aangelegenheden op het gebied van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor zover niet behorend tot een hoofd van dienst of de directeur van het Agentschap CIBG, waaronder het voor het gehele ministerie vaststellen van beheersregels en selectielijsten als bedoeld in de [artikelen 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en [5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) en het stellen van beperkingen aan de openbaarheid van archiefbescheiden bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
-- p. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51);
+- p. het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
 
 - q. het invulling geven aan de eigenaarsrol van de Minister van Landbouw, Natuur en Voedselkwaliteit richting de zelfstandige bestuursorganen, met uitzondering, Staatsbosbeheer en het College voor de toelating van gewasbeschermingsmiddelen en biociden.
 
@@ -260,7 +268,7 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 5. Aan de directeur-generaal Natuur, Visserij en Landelijk Gebied wordt mandaat en machtiging verleend voor het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europees Visserijbeleid.
 
-6. Aan de directeur-generaal Agro en de directeur-generaal Natuur, Visserij en Landelijk Gebied wordt tevens, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51).
+6. Aan de directeur-generaal Agro en de directeur-generaal Natuur, Visserij en Landelijk Gebied wordt tevens, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
 7. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt op zijn werkterrein, mandaat en machtiging verleend voor het vaststellen van beleidsregels.
 
@@ -328,25 +336,25 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-12-20&g=2019-11-11), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2019-12-20&g=2019-12-20), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
-- a. het aanstellen in vaste of tijdelijke dienst of het beëindigen van vaste of tijdelijke aanstellingen;
+- a. het aanbieden en het beëindigen van een arbeidsovereenkomst voor onbepaalde of bepaalde tijd;
 
-- b. het verlenen van buitengewoon verlof op grond van [artikel 34 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=34);
+- b. het verlenen van buitengewoon verlof als bedoeld in paragraaf 4.6 van de CAO Rijk;
 
-- c. het opdragen van een andere functie op grond van [artikel 57 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=57);
+- c. het opdragen van een andere functie;
 
-- d. het opdragen van tijdelijke andere werkzaamheden op grond van [artikel 58 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=58);
+- d. het opdragen van tijdelijke andere werkzaamheden;
 
-- e. het bevorderen naar een hogere salarisschaal;
+- e. het toekennen van een hogere salarisschaal;
 
 - f. het toekennen van beloningen;
 
-- g. het toekennen van schadeloosstellingen op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
+- g. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen;
 
-- h. het schorsen op grond van [artikel 91 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=91);
+- h. het schorsen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
 - i. het toekennen van een terugkeergarantie;
 
@@ -358,7 +366,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-12-20&g=2019-11-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-12-20&g=2019-11-11) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2019-12-20&g=2019-12-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2019-12-20&g=2019-12-20) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de Auditdienst Rijk en de Algemene Rekenkamer.
 
 #### § 5. Vervanging
 
@@ -408,7 +416,7 @@ secretaris-generaal
 
 ##### Artikel 15
 
-Aan de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat en de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat wordt, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=51).
+Aan de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat en de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat wordt, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
 ##### Artikel 16
 
@@ -496,7 +504,7 @@ Aan de Chief Economist van het Ministerie van Economische Zaken en Klimaat wordt
 
 - z. de financiële controle op materiele budgetten en het bewaken van de kwaliteit van werkprocessen van de directie;
 
-- aa. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het directoraat-generaal Agro, het directoraat-generaal Natuur, Visserij en Landelijk Gebied, de directie Bestuurlijke en Politieke Zaken, de directie Communicatie en de directie Financieel-Economische Zaken, voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
+- aa. het in opdracht van een hoofd van dienst autoriseren van medewerkers van het directoraat-generaal Agro, het directoraat-generaal Natuur, Visserij en Landelijk Gebied het programmadirectoraat-generaal Stikstof, de directie Bestuurlijke en Politieke Zaken, de directie Communicatie en de directie Financieel-Economische Zaken, voor het afnemen van digitale overheidsdiensten door middel van het inkopen, uitgeven en beheren van digitale authenticatiemiddelen;
 
 - bb. het geven van sturing van ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
 
@@ -506,23 +514,25 @@ Aan de Chief Economist van het Ministerie van Economische Zaken en Klimaat wordt
 
 - ee. het ondersteunen van de secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving van het kernministerie zoals bedoeld in paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn machtigingenbeheerders in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten.
 
-2. Aan de directeur Bedrijfsvoering wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, betreffende:
+2. Aan de directeur Bedrijfsvoering wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, betreffende:
 
 - a. beslissingen op bezwaarschriften inzake personeelsaangelegenheden met uitzondering van de beslissingen op bezwaarschriften tegen besluiten die in mandaat zijn genomen door hem of door hem aangewezen ambtenaren;
 
-- b. het verlenen van buitengewoon verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=34);
+- b. het verlenen van buitengewoon verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie als bedoeld in paragraaf 4.6 van de CAO Rijk;
 
 - c. het toekennen van een terugkeergarantie op grond van sociaal flankerend beleid;
 
 - d. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- e. het toekennen van schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
+- e. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
-- f. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81);
+- f. het opleggen van ordemaatregelen en straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- g. het verminderen van bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=92);
+- g. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
 
-- h. het verlenen van ontslag op grond van [artikel 99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) en het verlenen van ontslag in combinatie met een financiële regeling.
+- h. het sluiten van tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
+
+- i. het opzeggen van een arbeidsovereenkomst om een dringende reden als bedoeld in [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
 
 ##### Artikel 19
 
@@ -804,32 +814,24 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### IV. Het directoraat-generaal Natuur, Visserij en Landelijk Gebied
 
-### V. De directie Bestuurlijke en Politieke Zaken
+### V. Het programmadirectoraat-generaal Stikstof
 
-### VI. De directie Communicatie
+### VI. De directie Bestuurlijke en Politieke Zaken
 
-### VII. De directie Financieel-Economische Zaken
+### VII. De directie Communicatie
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 ##### Artikel 32a
 
-1. Mandaat, volmacht en machtiging voor aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11), worden in de periode van 1 oktober 2019 tot en met 15 december 2019 verleend aan:
-
-- a. De directeur-generaal Natuur, Visserij en Landelijk gebied voor de taken bedoeld in [artikel 5, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11) – voor zover het betreft de Raad voor de Kustwacht en de Stuurgroep Rijksrederij;
-
-- b. De directeur Financieel-Economische Zaken, voor de taken bedoeld in [artikel 5, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11) – voor zover het betreft het opdrachtgeverschap voor de directie Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, alsmede RVO en DICTU;
-
-- c. De directeur Bestuurlijke en Politieke Zaken, voor de taken bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11) – voor zover het betreft organisatieontwikkeling;
-
-- d. De plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, voor de taken bedoeld in [artikel 5, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11) – voor zover het betreft het voorzitterschap van de Databoard –, onder h – voor zover het betreft het opdrachtgeversoverleg met de Douane –, onder j – behoudens de Raad voor de Kustwacht en de Stuurgroep Rijksrederij –, onder o en n;
-
-- e. De directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, voor de taken bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=5&z=2019-12-20&g=2019-11-11) – voor zover het betreft de inkoopaangelegenheden -, onder b en f – voor zover het betreft de interne CIO-taken –, en onder h – voor zover het betreft de BFI-gesprekken met de NVWA, het College voor de toelating van gewasbeschermingsmiddelen en biociden en Staatsbosbeheer.
-
-2. Mandaat, volmacht en machtiging voor andere dan de in het eerste lid genoemde taken en bevoegdheden van de plaatsvervangend secretaris-generaal worden in de periode van 1 oktober 2019 tot en met 15 december 2019 verleend aan de secretaris-generaal.
+Vervallen
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### VIII. De Nederlandse Voedsel- en Warenautoriteit
+### VIII. De directie Financieel-Economische Zaken
+
+Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### IX. De Nederlandse Voedsel- en Warenautoriteit
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
