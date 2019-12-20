@@ -4,7 +4,7 @@ identifier: "BWBR0031548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-28"
-last_updated: "2019-12-01"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031548"
 soort: "ministeriele-regeling"
@@ -50,11 +50,19 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 1. Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.
 
-2. Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346).
+2. Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346);
+
+3. Aan de directeur wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien aangelegenheden:
+
+- a. op het gebied van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), waaronder begrepen het nemen van beslissingen op bezwaarschriften voor zover deze vallen onder het werkterrein, en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures;
+
+- b. op het gebied van de Algemene verordening gegevensbescherming, waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover deze vallen onder het werkterrein, en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures;
+
+- c. op het gebied van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover deze vallen onder het werkterrein, en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
 
 ##### Artikel 3
 
-1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2014-12-30&g=2019-12-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
+1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2019-12-20&g=2019-12-20) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
