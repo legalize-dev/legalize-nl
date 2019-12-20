@@ -105,23 +105,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet wordt aangehaald als: Wet verbod op kolen bij elektriciteitsproductie.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. Er is een fonds waaruit uitkeringen kunnen worden gedaan aan werknemers van een productie-installatie alsmede investeringen in om- en bijscholing.
-
-2. Bij algemene maatregel van bestuur worden nadere regels gesteld over het fonds en de wijze waarop de uitkeringen worden verstrekt alsmede de wijze waarop investeringen worden gedaan in om- en bijscholing.
-
-3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-##### Artikel 5a
-
-In geval van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), in een kalenderjaar wordt het in dat lid bedoelde percentage voor de desbetreffende productie-installatie in het jaar van vaststelling van de overtreding van rechtswege verlaagd met het aantal procentpunten dat teveel is geproduceerd.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-[Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=4&z=2024-06-28&g=2024-06-28), en de daarop berustende bepalingen, zoals die luidden voor 21 juni 2022, blijven van toepassing op schade die is ontstaan in de periode van 1 januari 2022 tot en met 20 juni 2022 als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2024-06-28&g=2024-06-28), zoals dat luidde voor 21 juni 2022.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
