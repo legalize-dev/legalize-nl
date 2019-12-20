@@ -4,7 +4,7 @@ identifier: "BWBR0036034"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-20"
-last_updated: "2014-12-30"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036034"
 soort: "ministeriele-regeling"
@@ -52,11 +52,13 @@ Aan de directeur van het Agentschap Centraal Informatiepunt Beroepen Gezondheids
 
 - c. de toelating tot de uitoefening van de diergeneeskunde, bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.1), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.6), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=3.9) en [7.3 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=7.3);
 
-- d. de registratie en de doorhaling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.2), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.5). en [4.6 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.6).
+- d. de registratie en de doorhaling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.2), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.5). en [4.6 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=4.6);
+
+- e. het opmaken van een verklaring van de vernietiging, vervanging of vervreemding van archiefbescheiden als bedoeld in [artikel 8 Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8) voor zover deze betrekking hebben op de in de onderdelen a tot en met d genoemde taken.
 
 ##### Artikel 2
 
-1. De directeur van het Agentschap Centraal Informatiepunt Beroepen Gezondheidszorg kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036034&artikel=1&z=2014-12-30&g=2014-12-30) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De directeur van het Agentschap Centraal Informatiepunt Beroepen Gezondheidszorg kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036034&artikel=1&z=2019-12-20&g=2019-12-20) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
 
