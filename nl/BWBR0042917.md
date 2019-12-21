@@ -4,7 +4,7 @@ identifier: "BWBR0042917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-21"
-last_updated: "2019-12-01"
+last_updated: "2019-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042917"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Ter uitvoering van haar werkzaamheden stelt de toetsingscommissie een toetsingsr
 
 ##### Artikel 5
 
-Na de inwerkingtreding van dit besluit berust het Benoemingsbesluit 2016 Toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst van 2 juni 2016, nr. DGB 2016-30, op [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042917&artikel=2&z=2019-12-21&g=2019-12-01), van dit besluit.
+Na de inwerkingtreding van dit besluit berust het Benoemingsbesluit 2016 Toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst van 2 juni 2016, nr. DGB 2016-30, op [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042917&artikel=2&z=2019-12-21&g=2019-12-21), van dit besluit.
 
 ##### Artikel 6
 
