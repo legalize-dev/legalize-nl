@@ -4,7 +4,7 @@ identifier: "BWBR0004756"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "1990-07-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004756"
 soort: "KB"
@@ -40,7 +40,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De aanstelling, schorsing en het ontslag van de tot het bureau van de Nationale ombudsman behorende personen geschiedt indien zij plaatsvindt in vaste dienst en het salaris dan wel het aan hun functie verbonden maximumsalaris van de schaal welke voor die ambtenaren geldt, lager is dan het maximumsalaris van schaal 15 van bijlage B van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) (**Stb.** 1983, 571) of indien zij plaatsvindt in tijdelijke dienst, door de Nationale ombudsman.
+[Artikel 11, tweede lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=11) is niet van toepassing op:
+
+- a. het aangaan of beëindigen van een arbeidsovereenkomst voor onbepaalde tijd, indien het loon dan wel het aan de functie verbonden maximumsalaris van de schaal die voor de functie geldt, lager is dan het maximum van salarisschaal 15, zoals is opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn; en
+
+- b. het aangaan en beëindigen van arbeidsovereenkomsten voor bepaalde tijd.
 
 ##### Artikel 2
 
