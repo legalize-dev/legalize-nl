@@ -229,27 +229,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a.1
-
-1. Met een psychogeriatrische aandoening of een verstandelijke handicap worden gelijkgesteld:
-
-- a. het syndroom van Korsakov, indien dit syndroom bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap;
-
-- b. de ziekte van Huntington, indien deze ziekte bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap; en
-
-- c. niet-aangeboren hersenletsel, indien dit letsel bij de cliënt een neurocognitieve stoornis veroorzaakt met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap.
-
-2. Of sprake is van een syndroom, ziekte of letsel als bedoeld in het eerste lid, blijkt uit een verklaring van een ter zake kundige arts dan wel uit een indicatiebesluit als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
-
-### Hoofdstuk 2. Ambulante onvrijwillige zorg
-
-### Hoofdstuk 3. Eisen deskundigen
-
-### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
-
-### Hoofdstuk 6. Cliëntenvertrouwenspersoon
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
