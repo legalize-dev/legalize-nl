@@ -4,7 +4,7 @@ identifier: "BWBR0037590"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-03-09"
-last_updated: "2019-02-22"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037590"
 soort: "zbo"
@@ -44,21 +44,15 @@ Besluit:
 
 ##### Artikel 1. centrale examens VO
 
-De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2019-02-22&g=2019-02-22) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2020-01-01&g=2020-01-01) bij deze regeling vastgestelde wijze.
 
 ##### Artikel 2. rekentoets VO
 
-De omzetting van scores in cijfers bij de rekentoets VO, bedoeld in [artikel 2, lid 2a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=2&z=2019-02-22&g=2019-02-22) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij de rekentoets VO, bedoeld in [artikel 2, lid 2a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=2&z=2020-01-01&g=2020-01-01) bij deze regeling vastgestelde wijze.
 
 ##### Artikel 3. tijdelijke speelruimte centraal schriftelijk en praktisch examen
 
-1. Indien het bevoegd gezag daarvoor regels heeft gesteld, kan de directeur van een school per profielvak besluiten een hogere N-term te hanteren voor het centraal schriftelijk en praktisch examen dan de N-term die voortvloeit uit hoofde van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2019-02-22&g=2019-02-22).
-
-2. De speelruimte, bedoeld in het eerste lid, bedraagt maximaal 0,5 meer dan de N-term volgens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2019-02-22&g=2019-02-22).
-
-3. Indien toepassing wordt gegeven aan het eerste lid, dan meldt de directeur van de school de hogere N-term alsmede de reden van toepassing daarvan aan de Inspectie van het Onderwijs.
-
-4. Dit artikel vervalt met ingang van 1 januari 2020.
+Vervallen
 
 ##### Artikel 4. inwerkingtreding
 
@@ -72,7 +66,7 @@ De [Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2015]
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2019-02-22&g=2019-02-22) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2020-01-01&g=2020-01-01) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO
 
 ### De instructies die het CvTE toepast om tot de N-termen te komen
 
@@ -488,7 +482,7 @@ Deze verhoging voorkomt dat de onvolkomen vraag tot een te lage N-term zou leide
 
 ### Examens in het derde tijdvak
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=2&z=2019-02-22&g=2019-02-22) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=2&z=2020-01-01&g=2020-01-01) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
 ### Normering met een vaardigheidsschaal bij de centrale examens Nederlandse taal en rekenen in het mbo en de rekentoets vo (rvo)
 
@@ -520,7 +514,7 @@ Verhelst, N.D., Glas, C.A.W., & Verstralen, H.H.F.M. (1993). OPLM: One parameter
 
 Warm, T.A. (1989). Weighted likelihood estimation of ability in item response theory. **Psychometrika, 54**, 427–450.
 
-## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2019-02-22&g=2019-02-22) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2020-01-01&g=2020-01-01) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
 Vervallen
 
