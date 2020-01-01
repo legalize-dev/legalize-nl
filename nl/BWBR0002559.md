@@ -4,7 +4,7 @@ identifier: "BWBR0002559"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2017-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002559"
 soort: "wet"
@@ -71,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - **in Nederland:** in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-3. Onder officier van justitie, hulpofficier van justitie en opsporingsambtenaar wordt uitsluitend voor de toepassing van de [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2017-03-01&g=2017-03-01), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2017-03-01&g=2017-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=17&z=2017-03-01&g=2017-03-01) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2017-03-01&g=2017-03-01) en [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22a&z=2017-03-01&g=2017-03-01) en [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=50a&z=2017-03-01&g=2017-03-01) mede verstaan de officier van justitie van het openbaar ministerie van Bonaire, Sint Eustatius en Saba, de hulpofficier van justitie, bedoeld in artikel 191 van het Wetboek van Strafvordering BES, en de opsporingsambtenaar, bedoeld in artikel 184 van dat wetboek.
+3. Onder officier van justitie, hulpofficier van justitie en opsporingsambtenaar wordt uitsluitend voor de toepassing van de [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2020-01-01&g=2020-01-01), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2020-01-01&g=2020-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=17&z=2020-01-01&g=2020-01-01) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2020-01-01&g=2020-01-01) en [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22a&z=2020-01-01&g=2020-01-01) en [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=50a&z=2020-01-01&g=2020-01-01) mede verstaan de officier van justitie van het openbaar ministerie van Bonaire, Sint Eustatius en Saba, de hulpofficier van justitie, bedoeld in artikel 191 van het Wetboek van Strafvordering BES, en de opsporingsambtenaar, bedoeld in artikel 184 van dat wetboek.
 
 ### Hoofdstuk II. Voorwaarden voor uitlevering
 
@@ -103,9 +103,9 @@ Wanneer een van deze wet afwijkend verdrag aan de goedkeuring van de Staten-Gene
 
 ##### Artikel 6
 
-1. Het in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=5&z=2017-03-01&g=2017-03-01), gestelde minimum van een jaar is niet van toepassing op uitlevering naar lidstaten van de Europese Unie, voorzover een tussen Nederland en deze lidstaten geldend verdrag in een ander minimum voorziet.
+1. Het in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01), gestelde minimum van een jaar is niet van toepassing op uitlevering naar lidstaten van de Europese Unie, voorzover een tussen Nederland en deze lidstaten geldend verdrag in een ander minimum voorziet.
 
-2. Het in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=5&z=2017-03-01&g=2017-03-01), gestelde minimum van vier maanden is niet van toepassing op uitlevering naar België en Luxemburg.
+2. Het in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01), gestelde minimum van vier maanden is niet van toepassing op uitlevering naar België en Luxemburg.
 
 ##### Artikel 7
 
@@ -173,7 +173,7 @@ Indien, naar het recht van de verzoekende staat, de doodstraf is gesteld op het 
 
 - a. strafbare feiten waarvoor de opgeëiste persoon, krachtens het toepasselijke verdrag, aan de staat van wie het verzoek om toestemming is uitgegaan had kunnen worden uitgeleverd;
 
-- b. andere feiten, voor zover deze zowel naar het recht van de staat van wie het verzoek om toestemming is uitgegaan als naar dat van Nederland strafbaar zijn en de mogelijkheid van uitlevering daarvoor niet krachtens de [artikelen 8-11](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=8&z=2017-03-01&g=2017-03-01) van deze wet is uitgesloten.
+- b. andere feiten, voor zover deze zowel naar het recht van de staat van wie het verzoek om toestemming is uitgegaan als naar dat van Nederland strafbaar zijn en de mogelijkheid van uitlevering daarvoor niet krachtens de [artikelen 8-11](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=8&z=2020-01-01&g=2020-01-01) van deze wet is uitgesloten.
 
 3. Uitlevering wordt voorts niet toegestaan dan onder het algemene beding, dat de opgeëiste persoon alleen met uitdrukkelijke toestemming van Onze Minister ter beschikking zal worden gesteld van de autoriteiten van een derde staat, terzake van feiten die vóór het tijdstip van zijn uitlevering zijn begaan. De toestemming kan worden gegeven ten aanzien van strafbare feiten waarvoor de opgeëiste persoon door Nederland aan de derde staat had kunnen worden uitgeleverd.
 
@@ -195,7 +195,7 @@ Indien, naar het recht van de verzoekende staat, de doodstraf is gesteld op het 
 
 - a. in verband met een strafrechtelijk onderzoek ter zake van het vermoeden dat de voortvluchtige zich heeft schuldig gemaakt aan een feit waarvoor naar Nederlands recht voorlopige hechtenis mogelijk is;
 
-- b. met het oog op de tenuitvoerlegging van een vrijheidsstraf of van een maatregel als bedoeld in [artikel 7 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=7&z=2017-03-01&g=2017-03-01);
+- b. met het oog op de tenuitvoerlegging van een vrijheidsstraf of van een maatregel als bedoeld in [artikel 7 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=7&z=2020-01-01&g=2020-01-01);
 
 - c. in andere dan de onder **a** en **b** voorziene gevallen, indien de voortvluchtige geen vaste woon- of verblijfplaats in Nederland heeft.
 
@@ -209,11 +209,11 @@ op korte termijn vanwege een der in artikel 13, vijfde lid, van het Verdrag geno
 
 ##### Artikel 13a
 
-Een vreemdeling die op grond van [artikel 54, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=54) is aangehouden, kan op bevel van een officier of hulpofficier van justitie worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een verzoek om voorlopige aanhouding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2017-03-01&g=2017-03-01) zal worden gedaan. [Artikel 56a, eerste tot en met derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=56a) is van overeenkomstige toepassing.
+Een vreemdeling die op grond van [artikel 54, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=54) is aangehouden, kan op bevel van een officier of hulpofficier van justitie worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een verzoek om voorlopige aanhouding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2020-01-01&g=2020-01-01) zal worden gedaan. [Artikel 56a, eerste tot en met derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=56a) is van overeenkomstige toepassing.
 
 ##### Artikel 14
 
-1. Iedere officier en hulpofficier van justitie is bevoegd de voorlopige aanhouding van een voortvluchtige overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2017-03-01&g=2017-03-01) te bevelen.
+1. Iedere officier en hulpofficier van justitie is bevoegd de voorlopige aanhouding van een voortvluchtige overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2020-01-01&g=2020-01-01) te bevelen.
 
 2. Kan het optreden van de officier van justitie en de hulpofficier niet worden afgewacht, dan is elke opsporingsambtenaar bevoegd de voortvluchtige aan te houden, onder de verplichting zorg te dragen dat hij onverwijld voor de officier van justitie of de hulpofficieren wordt geleid.
 
@@ -225,13 +225,13 @@ Een vreemdeling die op grond van [artikel 54, vijfde lid, van het Wetboek van St
 
 ##### Artikel 15
 
-1. De rechter-commissaris, belast met de behandeling van strafzaken, in de rechtbank van het arrondissement waarin een voortvluchtige overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01) in verzekering is gesteld, kan, op vordering van de officier van justitie bij die rechtbank, de bewaring van de voortvluchtige bevelen.
+1. De rechter-commissaris, belast met de behandeling van strafzaken, in de rechtbank van het arrondissement waarin een voortvluchtige overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01) in verzekering is gesteld, kan, op vordering van de officier van justitie bij die rechtbank, de bewaring van de voortvluchtige bevelen.
 
 2. Alvorens een bevel ingevolge het vorige lid te geven, hoort de rechter-commissaris zo mogelijk de voortvluchtige.
 
 ##### Artikel 16
 
-1. Een voortvluchtige wiens bewaring overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) is bevolen, wordt - behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde - in vrijheid gesteld:
+1. Een voortvluchtige wiens bewaring overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) is bevolen, wordt - behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde - in vrijheid gesteld:
 
 - a. zodra zulks door de rechtbank, de rechter-commissaris of de officier van justitie, ambtshalve of op verzoek van de voortvluchtige of diens raadsman, wordt gelast;
 
@@ -239,11 +239,11 @@ Een vreemdeling die op grond van [artikel 54, vijfde lid, van het Wetboek van St
 
 - c. zodra de bewaring twintig dagen heeft geduurd.
 
-2. In gevallen waarin [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2017-03-01&g=2017-03-01), toepassing vindt, worden de in het vorige lid, onder **b** en **c,** genoemde tijdvakken, na afloop waarvan de voortvluchtige in vrijheid moet worden gesteld, met vier dagen verlengd.
+2. In gevallen waarin [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2020-01-01&g=2020-01-01), toepassing vindt, worden de in het vorige lid, onder **b** en **c,** genoemde tijdvakken, na afloop waarvan de voortvluchtige in vrijheid moet worden gesteld, met vier dagen verlengd.
 
 ##### Artikel 17
 
-Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 tot en met 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2017-03-01&g=2017-03-01), wordt onverwijld kennis gegeven aan Onze Minister.
+Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 tot en met 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=13&z=2020-01-01&g=2020-01-01), wordt onverwijld kennis gegeven aan Onze Minister.
 
 ### Afdeling B. Behandeling van het verzoek tot uitlevering
 
@@ -265,13 +265,13 @@ Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 t
 
 ##### Artikel 19
 
-1. Indien de overgelegde stukken naar het oordeel van Onze Minister niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2017-03-01&g=2017-03-01), of aan nadere vereisten gesteld in het toepasselijke verdrag, biedt hij de autoriteiten van de verzoekende staat gelegenheid tot aanvulling of verbetering, binnen een door hem te stellen redelijke termijn.
+1. Indien de overgelegde stukken naar het oordeel van Onze Minister niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2020-01-01&g=2020-01-01), of aan nadere vereisten gesteld in het toepasselijke verdrag, biedt hij de autoriteiten van de verzoekende staat gelegenheid tot aanvulling of verbetering, binnen een door hem te stellen redelijke termijn.
 
-2. In spoedeisende gevallen en voorzover een verdrag daarin voorziet kan de officier van justitie of de procureur-generaal bij de Hoge Raad, indien naar zijn oordeel, dat van de rechtbank of de Hoge Raad de overgelegde stukken niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2017-03-01&g=2017-03-01) of aan nadere vereisten gesteld in het toepasselijke verdrag welke ter beoordeling van de rechtbank of de Hoge Raad zijn, de door de verzoekende staat daartoe aangewezen autoriteiten gelegenheid bieden tot aanvulling of verbetering, binnen een door hem gestelde termijn.
+2. In spoedeisende gevallen en voorzover een verdrag daarin voorziet kan de officier van justitie of de procureur-generaal bij de Hoge Raad, indien naar zijn oordeel, dat van de rechtbank of de Hoge Raad de overgelegde stukken niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2020-01-01&g=2020-01-01) of aan nadere vereisten gesteld in het toepasselijke verdrag welke ter beoordeling van de rechtbank of de Hoge Raad zijn, de door de verzoekende staat daartoe aangewezen autoriteiten gelegenheid bieden tot aanvulling of verbetering, binnen een door hem gestelde termijn.
 
 ##### Artikel 20
 
-1. Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek tot uitlevering moet worden afgewezen, stelt hij het verzoek met de daarbij behorende stukken - voor zover nodig na gelegenheid te hebben geboden tot aanvulling of verbetering overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=19&z=2017-03-01&g=2017-03-01) - in handen van de officier van justitie bij de rechtbank van het arrondissement waarin de opgeëiste persoon zich bevindt. Bevindt de opgeëiste persoon zich in de openbare lichamen Bonaire, Sint Eustatius en Saba, dan stelt hij de stukken in handen van de officier van justitie bij het arrondissementsparket Amsterdam.
+1. Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek tot uitlevering moet worden afgewezen, stelt hij het verzoek met de daarbij behorende stukken - voor zover nodig na gelegenheid te hebben geboden tot aanvulling of verbetering overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=19&z=2020-01-01&g=2020-01-01) - in handen van de officier van justitie bij de rechtbank van het arrondissement waarin de opgeëiste persoon zich bevindt. Bevindt de opgeëiste persoon zich in de openbare lichamen Bonaire, Sint Eustatius en Saba, dan stelt hij de stukken in handen van de officier van justitie bij het arrondissementsparket Amsterdam.
 
 2. Wanneer een verzoek tot voorlopige aanhouding is voorafgegaan, worden de stukken toegezonden aan de officier van justitie die in verband met dat verzoek reeds bij de zaak betrokken is geweest. Indien dit verzoek een zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindende voortvluchtige betreft, is het eerste lid, tweede volzin, van overeenkomstige toepassing.
 
@@ -291,9 +291,9 @@ Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 t
 
 ##### Artikel 22
 
-1. Wanneer de opgeëiste persoon, op de dag waarop de officier van justitie het verzoek tot uitlevering ontvangt, reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01), onderscheidenlijk [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) in verzekering of in bewaring is gesteld, kan de vrijheidsbeneming - met afwijking van [artikel 14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01), onderscheidenlijk [artikel 16, aanhef en onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16&z=2017-03-01&g=2017-03-01) - op bevel van de officier van justitie worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
+1. Wanneer de opgeëiste persoon, op de dag waarop de officier van justitie het verzoek tot uitlevering ontvangt, reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) in verzekering of in bewaring is gesteld, kan de vrijheidsbeneming - met afwijking van [artikel 14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 16, aanhef en onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16&z=2020-01-01&g=2020-01-01) - op bevel van de officier van justitie worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
 
-2. Van zijn in het vorige lid bedoelde bevel geeft de officier van justitie onverwijld kennis aan de rechter-commissaris die de bewaring krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) heeft bevolen.
+2. Van zijn in het vorige lid bedoelde bevel geeft de officier van justitie onverwijld kennis aan de rechter-commissaris die de bewaring krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) heeft bevolen.
 
 ##### Artikel 23
 
@@ -305,7 +305,7 @@ Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 t
 
 ##### Artikel 24
 
-1. Dadelijk na de ontvangst van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01) bedoelde vordering bepaalt de voorzitter van de rechtbank, zoveel mogelijk bij voorrang, het tijdstip waarop de opgeëiste persoon door de rechtbank zal worden gehoord. Hij kan daarbij diens medebrenging bevelen.
+1. Dadelijk na de ontvangst van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01) bedoelde vordering bepaalt de voorzitter van de rechtbank, zoveel mogelijk bij voorrang, het tijdstip waarop de opgeëiste persoon door de rechtbank zal worden gehoord. Hij kan daarbij diens medebrenging bevelen.
 
 2. De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan de opgeëiste persoon mededeling van het voor het verhoor bepaalde tijdstip. Die mededeling - alsmede, zo een bevel tot medebrenging is gegeven, een afschrift van dat bevel - wordt aan de opgeëiste persoon betekend.
 
@@ -343,7 +343,7 @@ Van elke beslissing, genomen krachtens een der bepalingen van de [artikelen 13 t
 
 2. Bevindt de rechtbank
 
-hetzij dat de door de verzoekende staat overgelegde stukken niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2017-03-01&g=2017-03-01), of aan nadere vereisten gesteld in het toepasselijke verdrag,
+hetzij dat de door de verzoekende staat overgelegde stukken niet voldoen aan de vereisten omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=18&z=2020-01-01&g=2020-01-01), of aan nadere vereisten gesteld in het toepasselijke verdrag,
 
 hetzij dat het verzoek tot uitlevering niet voor inwilliging vatbaar is,
 
@@ -353,7 +353,7 @@ dan verklaart zij bij haar uitspraak de uitlevering ontoelaatbaar.
 
 3. In andere dan de in het vorige lid voorziene gevallen verklaart de rechtbank bij haar uitspraak de uitlevering toelaatbaar, zulks met vermelding van de toepasselijke wets- en verdragsbepalingen, alsmede van het feit of de feiten waarvoor de uitlevering kan worden toegestaan.
 
-4. Wordt de uitlevering toelaatbaar verklaard niettegenstaande een bewering van de opgeëiste persoon overeenkomstig [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=26&z=2017-03-01&g=2017-03-01), dan vermeldt de uitspraak hetgeen de rechtbank te dien aanzien heeft bevonden.
+4. Wordt de uitlevering toelaatbaar verklaard niettegenstaande een bewering van de opgeëiste persoon overeenkomstig [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=26&z=2020-01-01&g=2020-01-01), dan vermeldt de uitspraak hetgeen de rechtbank te dien aanzien heeft bevonden.
 
 ##### Artikel 29
 
@@ -395,7 +395,7 @@ Zodra de rechterlijke uitspraak betreffende het verzoek tot uitlevering in krach
 
 ##### Artikel 33
 
-1. Nadat Onze Minister de stukken overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=32&z=2017-03-01&g=2017-03-01) heeft terugontvangen, beslist hij zo spoedig mogelijk op het verzoek tot uitlevering.
+1. Nadat Onze Minister de stukken overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=32&z=2020-01-01&g=2020-01-01) heeft terugontvangen, beslist hij zo spoedig mogelijk op het verzoek tot uitlevering.
 
 2. Voorzover de uitlevering bij rechterlijk gewijsde ontoelaatbaar is verklaard, wordt op het verzoek afwijzend beschikt.
 
@@ -409,7 +409,7 @@ Zodra de rechterlijke uitspraak betreffende het verzoek tot uitlevering in krach
 
 ##### Artikel 34
 
-1. Wanneer Onze Minister binnen de daarvoor gestelde termijn nadere stukken ontvangt, kan hij het dossier van de zaak opnieuw toezenden aan de officier van justitie bij de rechtbank die het verzoek tot uitlevering heeft behandeld. Alsdan vinden de [artikelen 23-26](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=28&z=2017-03-01&g=2017-03-01)-[32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=32&z=2017-03-01&g=2017-03-01) en [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2017-03-01&g=2017-03-01), wederom toepassing. Indien de uitlevering door de Hoge Raad wegens ongenoegzaamheid der stukken ontoelaatbaar is verklaard kan Onze Minister het dossier met de nadere stukken ook rechtstreeks aan de Procureur-Generaal bij de Hoge Raad toezenden.
+1. Wanneer Onze Minister binnen de daarvoor gestelde termijn nadere stukken ontvangt, kan hij het dossier van de zaak opnieuw toezenden aan de officier van justitie bij de rechtbank die het verzoek tot uitlevering heeft behandeld. Alsdan vinden de [artikelen 23-26](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=28&z=2020-01-01&g=2020-01-01)-[32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=32&z=2020-01-01&g=2020-01-01) en [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2020-01-01&g=2020-01-01), wederom toepassing. Indien de uitlevering door de Hoge Raad wegens ongenoegzaamheid der stukken ontoelaatbaar is verklaard kan Onze Minister het dossier met de nadere stukken ook rechtstreeks aan de Procureur-Generaal bij de Hoge Raad toezenden.
 
 2. Voor zover de nadere stukken daartoe aanleiding geven, wordt de uitlevering alsnog door de rechter toelaatbaar verklaard.
 
@@ -431,13 +431,13 @@ Zodra de rechterlijke uitspraak betreffende het verzoek tot uitlevering in krach
 
 ##### Artikel 36
 
-Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding daarvan overeenkomstig [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2017-03-01&g=2017-03-01), geeft Onze Minister onverwijld kennis aan de officier van justitie bij de rechtbank die het verzoek heeft behandeld.
+Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding daarvan overeenkomstig [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2020-01-01&g=2020-01-01), geeft Onze Minister onverwijld kennis aan de officier van justitie bij de rechtbank die het verzoek heeft behandeld.
 
 ### Afdeling D. Voortgezette vrijheidsbeneming en verwijdering uit Nederland
 
 ##### Artikel 37
 
-1. Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=27&z=2017-03-01&g=2017-03-01) bevolen vrijheidsbeneming wordt - behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde - beëindigd, zodra:
+1. Een krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=27&z=2020-01-01&g=2020-01-01) bevolen vrijheidsbeneming wordt - behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde - beëindigd, zodra:
 
 - a. zulks door de rechtbank of door de officier van justitie, ambtshalve of op verzoek van de gedetineerde of diens raadsman, dan wel door de Hoge Raad bij zijn beslissing op een beroep in cassatie wordt gelast;
 
@@ -447,7 +447,7 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 ##### Artikel 38
 
-1. Verlenging van de in [artikel 37, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=37&z=2017-03-01&g=2017-03-01), bedoelde termijn kan telkens voor ten hoogste dertig dagen geschieden.
+1. Verlenging van de in [artikel 37, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=37&z=2020-01-01&g=2020-01-01), bedoelde termijn kan telkens voor ten hoogste dertig dagen geschieden.
 
 2. De gedetineerde wordt in de gelegenheid gesteld op de vordering tot verlenging te worden gehoord.
 
@@ -455,7 +455,7 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 - a. de rechterlijke uitspraak omtrent het verzoek tot uitlevering nog niet, of minder dan dertig dagen tevoren, in kracht van gewijsde is gegaan;
 
-- b. Onze Minister zijn beslissing overeenkomstig [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2017-03-01&g=2017-03-01), heeft aangehouden;
+- b. Onze Minister zijn beslissing overeenkomstig [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=33&z=2020-01-01&g=2020-01-01), heeft aangehouden;
 
 - c. de uitlevering mede door een derde staat is gevraagd, en Onze Minister nog niet op het verzoek van die staat heeft beschikt;
 
@@ -473,9 +473,9 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 ##### Artikel 40
 
-1. Indien zulks voor de toepassing van [artikel 39, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=39&z=2017-03-01&g=2017-03-01), noodzakelijk is, wordt de opgeëiste persoon op bevel van de daartoe door Onze Minister aangeschreven officier van justitie aangehouden voor ten hoogste drie dagen. Indien de uitlevering niet binnen de termijn van drie dagen heeft kunnen plaatsvinden, kan het bevel tot aanhouding door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
+1. Indien zulks voor de toepassing van [artikel 39, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=39&z=2020-01-01&g=2020-01-01), noodzakelijk is, wordt de opgeëiste persoon op bevel van de daartoe door Onze Minister aangeschreven officier van justitie aangehouden voor ten hoogste drie dagen. Indien de uitlevering niet binnen de termijn van drie dagen heeft kunnen plaatsvinden, kan het bevel tot aanhouding door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
 
-2. Na verlenging van de in het eerste lid bedoelde termijn door de officier van justitie, kan deze uitsluitend op vordering van de officier van justitie door de rechtbank worden verlengd. [Artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=38&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing.
+2. Na verlenging van de in het eerste lid bedoelde termijn door de officier van justitie, kan deze uitsluitend op vordering van de officier van justitie door de rechtbank worden verlengd. [Artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=38&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 3. Een verlenging als bedoeld in het tweede lid kan alleen geschieden wanneer de uitlevering door bijzondere omstandigheden niet binnen de termijn van 6 dagen heeft kunnen plaatshebben.
 
@@ -483,7 +483,7 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 ##### Artikel 41
 
-1. De voortvluchtige wiens voorlopige aanhouding of uitlevering vanwege een andere staat is verzocht, kan - uiterlijk op de dag voorafgaande aan die welke overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=24&z=2017-03-01&g=2017-03-01) is bepaald voor zijn verhoor door de rechtbank - verklaren dat hij instemt met onmiddellijke uitlevering.
+1. De voortvluchtige wiens voorlopige aanhouding of uitlevering vanwege een andere staat is verzocht, kan - uiterlijk op de dag voorafgaande aan die welke overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=24&z=2020-01-01&g=2020-01-01) is bepaald voor zijn verhoor door de rechtbank - verklaren dat hij instemt met onmiddellijke uitlevering.
 
 2. Voorzover bij verdrag niet anders is bepaald, kan een verklaring overeenkomstig het vorige lid alleen worden afgelegd ten overstaan van een rechter-commissaris, belast met de behandeling van strafzaken.
 
@@ -491,17 +491,17 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 4. De voortvluchtige kan zich bij het afleggen van de verklaring doen bijstaan door een raadsman. Hierop wordt, zo hij zonder raadsman verschijnt, zijn aandacht gevestigd door de autoriteit bevoegd tot het in ontvangst nemen van de verklaring.
 
-5. Voordat hij de verklaring aflegt, wordt de voortvluchtige op de mogelijke gevolgen daarvan opmerkzaam gemaakt. Van de verklaring wordt proces-verbaal opgemaakt. Indien ten aanzien van de voortvluchtige toepassing is gegeven aan [artikel 16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2017-03-01&g=2017-03-01), of [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22a&z=2017-03-01&g=2017-03-01), vindt toezending steeds plaats aan de officier van justitie bij het arrondissementsparket te Amsterdam.
+5. Voordat hij de verklaring aflegt, wordt de voortvluchtige op de mogelijke gevolgen daarvan opmerkzaam gemaakt. Van de verklaring wordt proces-verbaal opgemaakt. Indien ten aanzien van de voortvluchtige toepassing is gegeven aan [artikel 16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2020-01-01&g=2020-01-01), of [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22a&z=2020-01-01&g=2020-01-01), vindt toezending steeds plaats aan de officier van justitie bij het arrondissementsparket te Amsterdam.
 
 6. De autoriteit ten overstaan van wie de verklaring is afgelegd, zendt het proces-verbaal daarvan aan de officier van justitie die krachtens deze wet bij het verzoek tot voorlopige aanhouding, dan wel het verzoek tot uitlevering is betrokken.
 
 ##### Artikel 42
 
-1. Nadat een verklaring overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2017-03-01&g=2017-03-01) is afgelegd, kan de officier van justitie beslissen dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de staat waarvan het verzoek tot voorlopige aanhouding, of het verzoek tot uitlevering, is uitgegaan.
+1. Nadat een verklaring overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2020-01-01&g=2020-01-01) is afgelegd, kan de officier van justitie beslissen dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de staat waarvan het verzoek tot voorlopige aanhouding, of het verzoek tot uitlevering, is uitgegaan.
 
 2. Het vorige lid blijft buiten toepassing:
 
-- a. indien voor het feit of de feiten, in verband waarmede de voorlopige aanhouding of de uitlevering is gevraagd, ingevolge een der bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=2&z=2017-03-01&g=2017-03-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=9&z=2017-03-01&g=2017-03-01) geen uitlevering kan worden toegestaan;
+- a. indien voor het feit of de feiten, in verband waarmede de voorlopige aanhouding of de uitlevering is gevraagd, ingevolge een der bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=9&z=2020-01-01&g=2020-01-01) geen uitlevering kan worden toegestaan;
 
 - b. indien blijkt dat tegen de voortvluchtige in Nederland een strafrechtelijke vervolging gaande is, of dat tegen hem door een Nederlandse rechter een nog geheel of ten dele voor tenuitvoerlegging vatbaar strafvonnis is gewezen.
 
@@ -509,29 +509,29 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 ##### Artikel 43
 
-1. Indien de officier van justitie overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=42&z=2017-03-01&g=2017-03-01) heeft beslist, dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de andere staat, blijft [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01) buiten toepassing.
+1. Indien de officier van justitie overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=42&z=2020-01-01&g=2020-01-01) heeft beslist, dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de andere staat, blijft [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01) buiten toepassing.
 
-2. Is de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01) bedoelde vordering reeds bij de rechtbank ingediend, dan wordt deze onverwijld ingetrokken. De griffier van de rechtbank stelt alsdan het verzoek tot uitlevering, met de daarbij behorende stukken, weder in handen van de officier van justitie.
+2. Is de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01) bedoelde vordering reeds bij de rechtbank ingediend, dan wordt deze onverwijld ingetrokken. De griffier van de rechtbank stelt alsdan het verzoek tot uitlevering, met de daarbij behorende stukken, weder in handen van de officier van justitie.
 
 3. Van het intrekken van de vordering geeft de officier van justitie kennis aan de opgeëiste persoon.
 
 ##### Artikel 44
 
-1. Na de dag waarop hij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2017-03-01&g=2017-03-01) bedoelde verklaring heeft afgelegd, kan de voortvluchtige nog slechts gedurende ten hoogste twintig dagen in bewaring of in verzekering gesteld blijven.
+1. Na de dag waarop hij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2020-01-01&g=2020-01-01) bedoelde verklaring heeft afgelegd, kan de voortvluchtige nog slechts gedurende ten hoogste twintig dagen in bewaring of in verzekering gesteld blijven.
 
-2. Het vorige lid blijft buiten toepassing, indien de officier van justitie heeft beslist dat aan de verklaring geen gevolg zal worden gegeven en het verzoek tot uitlevering, met de daarbij behorende stukken, overeenkomstig [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01), aan de rechtbank is overgelegd.
+2. Het vorige lid blijft buiten toepassing, indien de officier van justitie heeft beslist dat aan de verklaring geen gevolg zal worden gegeven en het verzoek tot uitlevering, met de daarbij behorende stukken, overeenkomstig [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01), aan de rechtbank is overgelegd.
 
-3. De in het eerste lid van dit artikel gestelde termijn kan, op vordering van de officier van justitie, door de rechtbank worden verlengd.[Artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=38&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing.
+3. De in het eerste lid van dit artikel gestelde termijn kan, op vordering van de officier van justitie, door de rechtbank worden verlengd.[Artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=38&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 4. Verlenging kan alleen geschieden wanneer de uitlevering door bijzondere omstandigheden niet binnen de termijn van twintig dagen heeft kunnen plaats hebben.
 
 ##### Artikel 45
 
-1. In geval van toepassing van [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=42&z=2017-03-01&g=2017-03-01), bepaalt de officier van justitie, na overleg met de bevoegde buitenlandse autoriteiten, onverwijld de tijd en de plaats waarop de uitlevering zal geschieden.
+1. In geval van toepassing van [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=42&z=2020-01-01&g=2020-01-01), bepaalt de officier van justitie, na overleg met de bevoegde buitenlandse autoriteiten, onverwijld de tijd en de plaats waarop de uitlevering zal geschieden.
 
 2. De officier van justitie kan, zo nodig, met het oog op de uitlevering krachtens de bepalingen van deze afdeling, de aanhouding van de voortvluchtige bevelen. Artikel 40, tweede en derde lid, is van overeenkomstige toepassing.
 
-3. In geval van uitlevering krachtens de bepalingen van deze afdeling is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=12&z=2017-03-01&g=2017-03-01) niet van toepassing.
+3. In geval van uitlevering krachtens de bepalingen van deze afdeling is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=12&z=2020-01-01&g=2020-01-01) niet van toepassing.
 
 ### Hoofdstuk IV. Andere vormen van rechtshulp
 
@@ -539,7 +539,7 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 1. Voorwerpen, aangetroffen in het bezit van degene wiens uitlevering of voorlopige aanhouding krachtens een verdrag is gevraagd, kunnen op verzoek van de bevoegde buitenlandse autoriteiten in beslag worden genomen. De inbeslagneming geschiedt door of op last van de officier of hulpofficier van justitie, bevoegd tot het geven van een bevel tot aanhouding of voorlopige aanhouding.
 
-2. Bij de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01) bedoelde vordering legt de officier van justitie een lijst van de in beslag genomen voorwerpen aan de rechtbank voor.
+2. Bij de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01) bedoelde vordering legt de officier van justitie een lijst van de in beslag genomen voorwerpen aan de rechtbank voor.
 
 ##### Artikel 47
 
@@ -547,9 +547,9 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 2. Met het oog op mogelijke rechten van derden kan de rechtbank ten aanzien van bepaalde voorwerpen beslissen, dat afgifte aan de autoriteiten van de verzoekende staat slechts mag geschieden onder het beding, dat die voorwerpen onmiddellijk zullen worden teruggezonden nadat daarvan het voor de strafvordering nodige gebruik zal zijn gemaakt.
 
-3. Het bepaalde bij en krachtens de [artikelen 116 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116), [552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552c tot en met 552e van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c) is van overeenkomstige toepassing. In plaats van het volgens die bepalingen bevoegde gerecht treedt de rechtbank tot welke de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2017-03-01&g=2017-03-01), van deze wet bedoelde vordering is gericht, dan wel - zo die vordering niet is gedaan - de rechtbank van het arrondissement waarin de voorwerpen in beslag genomen zijn. Zijn de voorwerpen in de openbare lichamen Bonaire, Sint Eustatius en Saba in beslag genomen, dan is de rechtbank Amsterdam bij uitsluiting bevoegd.
+3. Het bepaalde bij en krachtens de [artikelen 116 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116), [552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552c tot en met 552e van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c) is van overeenkomstige toepassing. In plaats van het volgens die bepalingen bevoegde gerecht treedt de rechtbank tot welke de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=23&z=2020-01-01&g=2020-01-01), van deze wet bedoelde vordering is gericht, dan wel - zo die vordering niet is gedaan - de rechtbank van het arrondissement waarin de voorwerpen in beslag genomen zijn. Zijn de voorwerpen in de openbare lichamen Bonaire, Sint Eustatius en Saba in beslag genomen, dan is de rechtbank Amsterdam bij uitsluiting bevoegd.
 
-4. In geval van uitlevering overeenkomstig de bepalingen van [afdeling E van hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&z=2017-03-01&g=2017-03-01) beslist de officier van justitie over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen, behoudens de bevoegdheden van de rechtbank krachtens het vorige lid.
+4. In geval van uitlevering overeenkomstig de bepalingen van [afdeling E van hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&z=2020-01-01&g=2020-01-01) beslist de officier van justitie over de afgifte, dan wel de teruggave, van de in beslag genomen voorwerpen, behoudens de bevoegdheden van de rechtbank krachtens het vorige lid.
 
 ##### Artikel 48
 
@@ -559,23 +559,23 @@ Van zijn beslissing op het verzoek tot uitlevering, alsmede van de aanhouding da
 
 3. De toestemming van Onze Minister is niet vereist voor vervoer door de lucht waarbij geen landing op Nederlands gebied wordt gemaakt.
 
-4. In geval van een niet voorziene landing op Nederlands gebied kan de vreemdeling, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier of hulpofficier van justitie. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01) en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2017-03-01&g=2017-03-01), zijn van overeenkomstige toepassing.
+4. In geval van een niet voorziene landing op Nederlands gebied kan de vreemdeling, op verzoek van de hem begeleidende buitenlandse ambtenaren, voorlopig worden aangehouden krachtens een bevel van een ter plaatse bevoegde officier of hulpofficier van justitie. De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01) en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
 5. Het vervoer van de voorlopig aangehouden vreemdeling kan worden voortgezet, zodra Onze Minister daartoe alsnog toestemming verleent. Is de toestemming na afloop van de termijn van inverzekeringstelling nog niet verleend, of binnen die termijn geweigerd, dan wordt de vreemdeling terstond in vrijheid gesteld, behoudens de mogelijkheid van verdere vrijheidsbeneming uit anderen hoofde.
 
 ##### Artikel 49
 
-De ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=48&z=2017-03-01&g=2017-03-01) vereiste toestemming wordt niet gegeven in gevallen waarin, zo het een verzoek tot uitlevering betrof, dat verzoek zou moeten worden afgewezen op grond van het bepaalde in de [artikelen 8-10](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=8&z=2017-03-01&g=2017-03-01).
+De ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=48&z=2020-01-01&g=2020-01-01) vereiste toestemming wordt niet gegeven in gevallen waarin, zo het een verzoek tot uitlevering betrof, dat verzoek zou moeten worden afgewezen op grond van het bepaalde in de [artikelen 8-10](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 50
 
-1. Voor zover bij verdrag niet anders is bepaald, wordt bij vervoer te land, overeenkomstig [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=48&z=2017-03-01&g=2017-03-01), de bewaking van de vreemdeling opgedragen aan Nederlandse ambtenaren.
+1. Voor zover bij verdrag niet anders is bepaald, wordt bij vervoer te land, overeenkomstig [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=IV&artikel=48&z=2020-01-01&g=2020-01-01), de bewaking van de vreemdeling opgedragen aan Nederlandse ambtenaren.
 
 2. Indien het ten gevolge van bijzondere omstandigheden niet mogelijk is het vervoer door Nederland, Bonaire, Sint Eustatius of Saba zonder onderbreking voort te zetten, kan de vreemdeling, in afwachting van een passende gelegenheid tot vertrek naar elders, zo nodig worden opgenomen in een huis van bewaring, zulks op vertoon van een stuk waaruit blijkt van de door Onze Minister verleende toestemming tot het vervoer.
 
 ##### Artikel 50a
 
-1. In de gevallen dat een persoon, die in het buitenland rechtens van zijn vrijheid is beroofd, tijdelijk ter beschikking wordt gesteld van de Nederlandse justitie en die van Bonaire, Sint Eustatius en Saba voor het afleggen van een verklaring als getuige of voor confrontatie wordt hij gedurende zijn verblijf hier te lande op bevel van het bevoegde lid van het openbaar ministerie in verzekering gesteld. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=V&artikel=54&z=2017-03-01&g=2017-03-01) en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=V&artikel=56&z=2017-03-01&g=2017-03-01) zijn, voor zoveel nodig, van overeenkomstige toepassing.
+1. In de gevallen dat een persoon, die in het buitenland rechtens van zijn vrijheid is beroofd, tijdelijk ter beschikking wordt gesteld van de Nederlandse justitie en die van Bonaire, Sint Eustatius en Saba voor het afleggen van een verklaring als getuige of voor confrontatie wordt hij gedurende zijn verblijf hier te lande op bevel van het bevoegde lid van het openbaar ministerie in verzekering gesteld. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=V&artikel=54&z=2020-01-01&g=2020-01-01) en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=V&artikel=56&z=2020-01-01&g=2020-01-01) zijn, voor zoveel nodig, van overeenkomstige toepassing.
 
 2. De inverzekeringstelling wordt opgeheven zodra het bevoegde lid van het openbaar ministerie bericht ontvangt, dat de gronden voor vrijheidsberoving in het buitenland niet langer bestaan.
 
@@ -585,7 +585,7 @@ De ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofds
 
 2. Voor zover het verdrag niet anders bepaalt, is de instemming van de tijdelijk ter beschikking te stellen persoon vereist.
 
-3. Onze Minister staat de tijdelijke terbeschikkingstelling niet toe, indien deze is verzocht ten behoeve van een op het grondgebied van een andere staat ingesteld strafrechtelijk onderzoek, dat betrekking heeft op feiten, waarvoor krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=9&z=2017-03-01&g=2017-03-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=10&z=2017-03-01&g=2017-03-01) geen uitlevering mogelijk is.
+3. Onze Minister staat de tijdelijke terbeschikkingstelling niet toe, indien deze is verzocht ten behoeve van een op het grondgebied van een andere staat ingesteld strafrechtelijk onderzoek, dat betrekking heeft op feiten, waarvoor krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=9&z=2020-01-01&g=2020-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=II&artikel=10&z=2020-01-01&g=2020-01-01) geen uitlevering mogelijk is.
 
 4. Ondergaat de betrokkene in Nederland een vrijheidsstraf, dan komt de tijd gedurende welke hij ter beschikking van de autoriteiten van de andere staat is, in mindering op zijn straftijd.
 
@@ -601,7 +601,7 @@ De ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofds
 
 - –. de misdrijven, strafbaar gesteld in de [artikelen 10, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a), en [11, tweede en derde lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11), dan wel de misdrijven, strafbaar gesteld in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11), en [11a van de Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a), voorzover het feit valt onder de omschrijvingen van het eerste lid van artikel 36 van het Enkelvoudig Verdrag inzake verdovende middelen, 1961, zoals gewijzigd ingevolge artikel 14 van het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat Enkelvoudig Verdrag (Trb. 1980, 184);
 
-- –. de misdrijven van de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=92), [108–110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=108), [115–117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=115) en [285 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285) dan wel de misdrijven van de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=97), [114 tot en met 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=114), [123 tot en met 124c](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=123) en [298 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=298), voor zover het feit is gepleegd tegen een internationaal beschermd persoon of diens beschermde goederen en valt onder de omschrijvingen van het op 14 december 1973 te New York tot stand gekomen Verdrag inzake de voorkoming en bestraffing van misdrijven tegen internationaal beschermde personen, met inbegrip van diplomaten (Trb. 1981, 69);
+- –. de misdrijven van de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=92), [108–110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=108), [115–117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=115) en [285 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285) dan wel de misdrijven van de [artikelen 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=97), [114 tot en met 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=114), [123 tot en met 124c](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=123) en [298 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=298), voor zover het feit is gepleegd tegen een internationaal beschermd persoon of diens beschermde goederen en valt onder de omschrijvingen van het op 14 december 1973 te New York tot stand gekomen Verdrag inzake de voorkoming en bestraffing van misdrijven tegen internationaal beschermde personen, met inbegrip van diplomaten (Trb. 1981, 69);
 
 - –. het misdrijf van [artikel 282a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a) dan wel het misdrijf van [artikel 295ao van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=295ao), voor zover het feit valt onder de omschrijving van het op 17 december 1979 te New York tot stand gekomen Internationaal Verdrag tegen het nemen van gijzelaars (Trb. 1981, 53);
 
@@ -657,9 +657,9 @@ Krachtens deze wet gegeven bevelen tot inverzekeringstelling of bewaring, dan we
 
 1. De bevelen tot vrijheidsbeneming, gegeven krachtens deze wet, zijn dadelijk uitvoerbaar.
 
-2. Bevoegd tot het ten uitvoer leggen van bevelen tot aanhouding, voorlopige aanhouding of gevangenneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en in artikel 184 van het Wetboek van Strafvordering BES bedoelde ambtenaren.
+2. Bevoegd tot het ten uitvoer leggen van bevelen tot aanhouding, voorlopige aanhouding of gevangenneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren.
 
-3. Op de tenuitvoerlegging van bevelen tot vrijheidsbeneming en de last daartoe zijn de [artikelen 564-568 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=564) van toepassing. Geschiedt de tenuitvoerlegging in de openbare lichamen Bonaire, Sint Eustatius en Saba, dan zijn de artikelen 618 tot en met 623 van het Wetboek van Strafvordering BES van toepassing.
+3. Op de tenuitvoerlegging van bevelen tot vrijheidsbeneming en de last daartoe zijn de [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [6:1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:7), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) en [6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1) van toepassing. Geschiedt de tenuitvoerlegging in de openbare lichamen Bonaire, Sint Eustatius en Saba, dan zijn de [artikelen 618 tot en met 623 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=618) van toepassing.
 
 ##### Artikel 54
 
@@ -675,27 +675,27 @@ Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [a
 
 ##### Artikel 56
 
-1. In gevallen waarin krachtens deze wet een beslissing omtrent de vrijheidsbeneming kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst totdat de officier van justitie overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=36&z=2017-03-01&g=2017-03-01) in kennis is gesteld van de beslissing van Onze Minister waarbij de uitlevering is toegestaan. De te stellen voorwaarden mogen alleen strekken ter voorkoming van vlucht.
+1. In gevallen waarin krachtens deze wet een beslissing omtrent de vrijheidsbeneming kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst totdat de officier van justitie overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=C&artikel=36&z=2020-01-01&g=2020-01-01) in kennis is gesteld van de beslissing van Onze Minister waarbij de uitlevering is toegestaan. De te stellen voorwaarden mogen alleen strekken ter voorkoming van vlucht.
 
 2. Op bevelen krachtens het vorige lid gegeven door de rechtbank, dan wel door de rechter-commissaris, zijn de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80) - met uitzondering van het tweede lid - en [81-88 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=81) van overeenkomstige toepassing.
 
 ##### Artikel 57
 
-Op bevelen tot beëindiging van vrijheidsbeneming, krachtens deze wet gegeven, en op de tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79), [569](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=569) en [570 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=570) van overeenkomstige toepassing.
+Op bevelen tot beëindiging van vrijheidsbeneming, krachtens deze wet gegeven, en op de tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79) en [6:2:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) van overeenkomstige toepassing.
 
 ##### Artikel 58
 
-De termijnen, genoemd in de [artikelen 16, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16&z=2017-03-01&g=2017-03-01), [37, eerste lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=37&z=2017-03-01&g=2017-03-01), [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=40&z=2017-03-01&g=2017-03-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=44&z=2017-03-01&g=2017-03-01), lopen niet gedurende de tijd dat de betrokkene zich aan de verdere tenuitvoerlegging van de in die artikelen bedoelde bevelen heeft onttrokken.
+De termijnen, genoemd in de [artikelen 16, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16&z=2020-01-01&g=2020-01-01), [37, eerste lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=37&z=2020-01-01&g=2020-01-01), [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=D&artikel=40&z=2020-01-01&g=2020-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=44&z=2020-01-01&g=2020-01-01), lopen niet gedurende de tijd dat de betrokkene zich aan de verdere tenuitvoerlegging van de in die artikelen bedoelde bevelen heeft onttrokken.
 
 ##### Artikel 59
 
-1. In gevallen waarin de uitlevering bij rechterlijk gewijsde ontoelaatbaar is verklaard, kan de rechtbank die de zaak heeft behandeld, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=89), derde, vierde en zesde lid, en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=90), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=91), en [93 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=93) zijn van overeenkomstige toepassing.
+1. In gevallen waarin de uitlevering bij rechterlijk gewijsde ontoelaatbaar is verklaard, kan de rechtbank die de zaak heeft behandeld, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
 
-2. In gevallen als bedoeld in het vorige lid vinden de [artikelen 591](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591) en [591**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591a) overeenkomstige toepassing op vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In plaats van het in die artikelen bedoelde gerecht treedt de rechtbank die het verzoek tot uitlevering heeft behandeld.
+2. In gevallen als bedoeld in het vorige lid vinden de [artikelen 529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529) en [530 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530) overeenkomstige toepassing op vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In plaats van het in die artikelen bedoelde gerecht treedt de rechtbank die het verzoek tot uitlevering heeft behandeld.
 
 ##### Artikel 60
 
-Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 588](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=585), [589](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=589) en [590 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=590) van overeenkomstige toepassing.
+Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h), [36i](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36i) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van overeenkomstige toepassing.
 
 ##### Artikel 61
 
@@ -717,7 +717,7 @@ Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn 
 
 4. Beslist de Hoge Raad dat de verzoeker Nederlander is, dan wordt een inmiddels overeenkomstig deze wet door de rechtbank aangevangen behandeling van een verzoek tot diens uitlevering onmiddellijk beëindigd.
 
-5. Een vreemdeling die op het tijdstip van het in werking treden van deze wet is gedetineerd ingevolge een bevel gegeven krachtens artikel 9 of artikel 12 van de ingetrokken wet, wordt - zo de stukken betreffende het verzoek tot zijn uitlevering op dat tijdstip nog niet aan de rechtbank zijn toegezonden - daarna beschouwd en behandeld als iemand die krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22&z=2017-03-01&g=2017-03-01), onderscheidenlijk [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2017-03-01&g=2017-03-01), van deze wet in bewaring wordt gehouden of in verzekering is gesteld.
+5. Een vreemdeling die op het tijdstip van het in werking treden van deze wet is gedetineerd ingevolge een bevel gegeven krachtens artikel 9 of artikel 12 van de ingetrokken wet, wordt - zo de stukken betreffende het verzoek tot zijn uitlevering op dat tijdstip nog niet aan de rechtbank zijn toegezonden - daarna beschouwd en behandeld als iemand die krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22&z=2020-01-01&g=2020-01-01), onderscheidenlijk [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2020-01-01&g=2020-01-01), van deze wet in bewaring wordt gehouden of in verzekering is gesteld.
 
 ##### Artikel 63
 
@@ -733,23 +733,23 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16a
 
-1. Indien een voortvluchtige in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig deze afdeling in verzekering is gesteld, kan met het oog op de toepassing van het tweede lid de termijn van inverzekeringstelling uitsluitend door de officier van justitie bij het arrondissementsparket te Amsterdam éénmaal met drie dagen worden verlengd. Hem komt tevens uitsluitend de bevoegdheid van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01), toe.
+1. Indien een voortvluchtige in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig deze afdeling in verzekering is gesteld, kan met het oog op de toepassing van het tweede lid de termijn van inverzekeringstelling uitsluitend door de officier van justitie bij het arrondissementsparket te Amsterdam éénmaal met drie dagen worden verlengd. Hem komt tevens uitsluitend de bevoegdheid van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01), toe.
 
-2. Indien een voortvluchtige in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig deze afdeling in verzekering is gesteld, wordt hij binnen de termijnen van [artikel 14, derde lid, en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01), overgedragen aan de officier van justitie bij het arrondissementsparket te Amsterdam.
+2. Indien een voortvluchtige in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig deze afdeling in verzekering is gesteld, wordt hij binnen de termijnen van [artikel 14, derde lid, en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01), overgedragen aan de officier van justitie bij het arrondissementsparket te Amsterdam.
 
-3. Het tweede lid kan buiten toepassing blijven indien de voortvluchtige tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke uitlevering, de officier van justitie bij het arrondissementsparket te Amsterdam heeft beslist dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de staat waarvan het verzoek tot voorlopige aanhouding is uitgegaan en de feitelijke uitlevering kan plaatsvinden binnen de termijnen van [artikel 14, derde lid, en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01). [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing.
+3. Het tweede lid kan buiten toepassing blijven indien de voortvluchtige tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke uitlevering, de officier van justitie bij het arrondissementsparket te Amsterdam heeft beslist dat de voortvluchtige ter beschikking zal worden gesteld van de autoriteiten van de staat waarvan het verzoek tot voorlopige aanhouding is uitgegaan en de feitelijke uitlevering kan plaatsvinden binnen de termijnen van [artikel 14, derde lid, en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01). [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling B. Behandeling van het verzoek tot uitlevering
 
 ##### Artikel 22a
 
-1. Indien de opgeëiste persoon in de openbare lichamen Bonaire, Sint Eustatius en Saba is aangehouden, blijft [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2017-03-01&g=2017-03-01), buiten toepassing. Na de opgeëiste persoon te hebben gehoord, kan de officier van justitie of hulpofficier van justitie bevelen dat hij gedurende drie dagen, te rekenen vanaf het tijdstip van zijn aanhouding, in verzekering gesteld zal blijven. De termijn van de inverzekeringstelling kan met het oog op de toepassing van het derde lid uitsluitend door de officier van justitie bij het arrondissementsparket Amsterdam éénmaal met drie dagen worden verlengd.
+1. Indien de opgeëiste persoon in de openbare lichamen Bonaire, Sint Eustatius en Saba is aangehouden, blijft [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=21&z=2020-01-01&g=2020-01-01), buiten toepassing. Na de opgeëiste persoon te hebben gehoord, kan de officier van justitie of hulpofficier van justitie bevelen dat hij gedurende drie dagen, te rekenen vanaf het tijdstip van zijn aanhouding, in verzekering gesteld zal blijven. De termijn van de inverzekeringstelling kan met het oog op de toepassing van het derde lid uitsluitend door de officier van justitie bij het arrondissementsparket Amsterdam éénmaal met drie dagen worden verlengd.
 
-2. Indien de opgeëiste persoon op de dag waarop de officier van justitie bij het arrondissementsparket Amsterdam het verzoek tot uitlevering ontvangt reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2017-03-01&g=2017-03-01) in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, kan de vrijheidsbeneming – in afwijking van de artikelen 14, derde lid, [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2017-03-01&g=2017-03-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22&z=2017-03-01&g=2017-03-01) – uitsluitend op bevel van de officier van justitie bij het arrondissementsparket Amsterdam worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
+2. Indien de opgeëiste persoon op de dag waarop de officier van justitie bij het arrondissementsparket Amsterdam het verzoek tot uitlevering ontvangt reeds krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=14&z=2020-01-01&g=2020-01-01) in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, kan de vrijheidsbeneming – in afwijking van de artikelen 14, derde lid, [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=A&artikel=16a&z=2020-01-01&g=2020-01-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=B&artikel=22&z=2020-01-01&g=2020-01-01) – uitsluitend op bevel van de officier van justitie bij het arrondissementsparket Amsterdam worden voortgezet tot het tijdstip waarop de rechtbank over de gevangenhouding beslist.
 
 3. Indien de opgeëiste persoon in de openbare lichamen Bonaire, Sint Eustatius en Saba in verzekering is gesteld, wordt hij binnen de termijnen van het eerste lid overgedragen aan de officier van justitie bij het arrondissementsparket Amsterdam.
 
-4. Het derde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke uitlevering, de officier van justitie bij het arrondissementsparket Amsterdam heeft beslist dat de opgeëiste persoon ter beschikking zal worden gesteld van de staat waarvan het verzoek tot uitlevering is uitgegaan en de feitelijke uitlevering kan plaatsvinden binnen de termijnen van het eerste lid. [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing.
+4. Het derde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie die hem hoort, heeft verklaard in te stemmen met zijn onmiddellijke uitlevering, de officier van justitie bij het arrondissementsparket Amsterdam heeft beslist dat de opgeëiste persoon ter beschikking zal worden gesteld van de staat waarvan het verzoek tot uitlevering is uitgegaan en de feitelijke uitlevering kan plaatsvinden binnen de termijnen van het eerste lid. [Artikel 41, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&hoofdstuk=III&afdeling=E&artikel=41&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 5. Na de opgeëiste persoon te hebben gehoord, kan de officier van justitie bij het arrondissementsparket Amsterdam bevelen dat de vrijheidsbeneming wordt voortgezet tot het tijdstip waarop de rechtbank over zijn gevangenhouding beslist.
 
