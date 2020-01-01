@@ -4,7 +4,7 @@ identifier: "BWBR0008819"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008819"
 soort: "wet"
@@ -51,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. een burgerrechtelijke arbeidsverhouding die bij of krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) als dienstbetrekking wordt aangemerkt,
 
-- 2°. een aanstelling in openbare dienst,
+- 2°. een aanstelling voor een functie als genoemd in [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3),
 
 - 3°. een burgerrechtelijke pensioen- of levensverzekering,
 
@@ -59,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 5°. een verzekering wegens arbeidsongeschiktheid naar burgerlijk recht, of
 
-- 6°. een verzekering als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), met betrekking tot een in Nederland gelegen risico;
+- 6°. een verzekering als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), met betrekking tot een in Nederland gelegen risico;
 
 - b. keurling: een persoon die een keuring ondergaat;
 
@@ -67,9 +67,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. keurend arts: de geneeskundige die de keuring verricht en de keuringvrager zijn gevolgtrekking mededeelt dan wel de geneeskundig adviseur van zijn bevindingen op de hoogte stelt;
 
-- e. geneeskundig adviseur: de persoon die aan de keuringvrager in diens opdracht op basis van de keuring van de keurend arts de mededeling, bedoeld in het [derde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=10&z=2019-01-01&g=2019-01-01), doet;
+- e. geneeskundig adviseur: de persoon die aan de keuringvrager in diens opdracht op basis van de keuring van de keurend arts de mededeling, bedoeld in het [derde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=10&z=2020-01-01&g=2020-01-01), doet;
 
-- f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar beneden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01) genoemde vragen niet mogen worden gesteld en het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2019-01-01&g=2019-01-01) genoemde onderzoek niet mag worden verricht.
+- f. vragengrens: het over drie jaren gerekend totaal te verzekeren bedrag waar beneden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01) genoemde vragen niet mogen worden gesteld en het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2020-01-01&g=2020-01-01) genoemde onderzoek niet mag worden verricht.
 
 ##### Artikel 2
 
@@ -103,31 +103,31 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Bij een keuring in verband met het aangaan of wijzigen van een verzekering mogen geen vragen worden gesteld over in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), genoemde ziekten, voor zover die op erfelijkheid betrekking hebben, bij de bloedverwanten van de aspirant-verzekerde en, tenzij de ziekte manifest is, bij de aspirant-verzekerde zelf en over onderzoek bij de aspirant-verzekerde en bij diens bloedverwanten gericht op de erfelijke aanleg voor ziekte en de resultaten van dergelijk onderzoek, indien de te sluiten verzekering de vragengrens niet overschrijdt. Bij de behandeling van de aanvrage voor het aangaan of wijzigen van een verzekering en bij een keuring in dat verband mogen geen uit andere hoofde reeds bij de keuringvrager, de keurend arts of geneeskundig adviseur aanwezige erfelijke gegevens over de aspirantverzekerde en diens bloedverwanten worden gebruikt.
+1. Bij een keuring in verband met het aangaan of wijzigen van een verzekering mogen geen vragen worden gesteld over in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), genoemde ziekten, voor zover die op erfelijkheid betrekking hebben, bij de bloedverwanten van de aspirant-verzekerde en, tenzij de ziekte manifest is, bij de aspirant-verzekerde zelf en over onderzoek bij de aspirant-verzekerde en bij diens bloedverwanten gericht op de erfelijke aanleg voor ziekte en de resultaten van dergelijk onderzoek, indien de te sluiten verzekering de vragengrens niet overschrijdt. Bij de behandeling van de aanvrage voor het aangaan of wijzigen van een verzekering en bij een keuring in dat verband mogen geen uit andere hoofde reeds bij de keuringvrager, de keurend arts of geneeskundig adviseur aanwezige erfelijke gegevens over de aspirantverzekerde en diens bloedverwanten worden gebruikt.
 
-2. Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), bedraagt de vragengrens € 36 249,– per 1 januari 2019: € 40.309,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– per 1 januari 2019: € 26.985,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000 per 1 januari 2019: € 278.004,–. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.
+2. Voor arbeidsongeschiktheidsverzekeringen, voor zover niet vallende onder [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), bedraagt de vragengrens € 36 249,– per 1 januari 2019: € 40.309,– voor het eerste jaar van arbeidsongeschiktheid en € 24 267,– per 1 januari 2019: € 26.985,– voor de daaropvolgende jaren van arbeidsongeschiktheid. Voor levensverzekeringen bedraagt de vragengrens € 250 000 per 1 januari 2019: € 278.004,–. Bedoelde bedragen worden elke drie jaar bij ministeriële regeling aangepast aan de consumentenprijsindex.
 
 ##### Artikel 6
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01) mag bij het aangaan of wijzigen van een verzekering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), een medisch onderzoek naar Aids of seropositiviteit voor Aids worden verricht:
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01) mag bij het aangaan of wijzigen van een verzekering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), een medisch onderzoek naar Aids of seropositiviteit voor Aids worden verricht:
 
-- a. indien de te sluiten verzekering de vragengrens, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), overschrijdt, of
+- a. indien de te sluiten verzekering de vragengrens, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), overschrijdt, of
 
-- b. indien de te sluiten verzekering de vragengrens, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), niet overschrijdt, maar het antwoord van de keurling op de in het licht van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2019-01-01&g=2019-01-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), gerechtvaardigde vragen daartoe aanleiding geeft.
+- b. indien de te sluiten verzekering de vragengrens, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), niet overschrijdt, maar het antwoord van de keurling op de in het licht van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2020-01-01&g=2020-01-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), gerechtvaardigde vragen daartoe aanleiding geeft.
 
 ##### Artikel 7
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01) kan, indien dit vanwege een dringend algemeen belang noodzakelijk is, Onze Minister van Volksgezondheid, Welzijn en Sport ten aanzien van een zich nieuw voordoende ziekte die valt onder [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), bij ministeriële regeling bepalen dat artikel 6 van overeenkomstige toepassing is, totdat over deze ziekte afspraken als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2019-01-01&g=2019-01-01) zijn gemaakt. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01) kan, indien dit vanwege een dringend algemeen belang noodzakelijk is, Onze Minister van Volksgezondheid, Welzijn en Sport ten aanzien van een zich nieuw voordoende ziekte die valt onder [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), bij ministeriële regeling bepalen dat artikel 6 van overeenkomstige toepassing is, totdat over deze ziekte afspraken als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2020-01-01&g=2020-01-01) zijn gemaakt. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 8
 
-1. De keuringvrager legt met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2019-01-01&g=2019-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2019-01-01&g=2019-01-01) het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld, en de medische onderzoeken welke mogen worden verricht, schriftelijk vast.
+1. De keuringvrager legt met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2020-01-01&g=2020-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2020-01-01&g=2020-01-01) het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld, en de medische onderzoeken welke mogen worden verricht, schriftelijk vast.
 
 2. Tijdig voor de aanvang van de keuring wordt aan de keurling op begrijpelijke wijze schriftelijk informatie gegeven over doel, vragen en onderzoeken, als bedoeld in het eerste lid, en over diens rechten bij keuringen.
 
 ##### Artikel 9
 
-Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars, representatieve organisaties van werknemers, respectievelijk de consumenten en patiënten en de representatieve organisatie van de artsen kunnen afspraken maken over de omschrijving van het doel van de keuring, als bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2019-01-01&g=2019-01-01), het verrichten van keuringen als bedoeld in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), en over de vragen en medische onderzoeken, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2019-01-01&g=2019-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2019-01-01&g=2019-01-01).
+Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars, representatieve organisaties van werknemers, respectievelijk de consumenten en patiënten en de representatieve organisatie van de artsen kunnen afspraken maken over de omschrijving van het doel van de keuring, als bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2020-01-01&g=2020-01-01), het verrichten van keuringen als bedoeld in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), en over de vragen en medische onderzoeken, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2020-01-01&g=2020-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 10
 
@@ -139,7 +139,7 @@ Representatieve organisaties van de werkgevers, respectievelijk de verzekeraars,
 
 ##### Artikel 11
 
-De keurling heeft het recht medewerking te weigeren aan een keuring of een onderdeel daarvan indien ten aanzien daarvan niet voldaan is aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2019-01-01&g=2019-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2019-01-01&g=2019-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2019-01-01&g=2019-01-01).
+De keurling heeft het recht medewerking te weigeren aan een keuring of een onderdeel daarvan indien ten aanzien daarvan niet voldaan is aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2020-01-01&g=2020-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 12
 
@@ -151,23 +151,23 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 ##### Artikel 13
 
-1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2019-01-01&g=2019-01-01) bedoelde organisaties kunnen een onafhankelijke klachtencommissie instellen, voor zover de klachtenbehandeling geen betrekking heeft op een keuring als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01).
+1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2020-01-01&g=2020-01-01) bedoelde organisaties kunnen een onafhankelijke klachtencommissie instellen, voor zover de klachtenbehandeling geen betrekking heeft op een keuring als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01).
 
-2. De commissie neemt klachten met betrekking tot het in of op grond van deze wet geregelde en de afspraken bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2019-01-01&g=2019-01-01) in ontvangst en doet aan de klager en degene over wie is geklaagd, haar oordeel over de klacht toekomen.
+2. De commissie neemt klachten met betrekking tot het in of op grond van deze wet geregelde en de afspraken bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2020-01-01&g=2020-01-01) in ontvangst en doet aan de klager en degene over wie is geklaagd, haar oordeel over de klacht toekomen.
 
-3. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2019-01-01&g=2019-01-01) bedoelde organisaties stellen het reglement van de klachtencommissie vast.
+3. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=9&z=2020-01-01&g=2020-01-01) bedoelde organisaties stellen het reglement van de klachtencommissie vast.
 
 ##### Artikel 14
 
-1. Bij algemene maatregel van bestuur worden nadere regels gesteld over het verrichten van keuringen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), en de vragen welke ten aanzien van de gezondheid zullen worden gesteld, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2019-01-01&g=2019-01-01).
+1. Bij algemene maatregel van bestuur worden nadere regels gesteld over het verrichten van keuringen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), en de vragen welke ten aanzien van de gezondheid zullen worden gesteld, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2020-01-01&g=2020-01-01).
 
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de instelling, de werkwijze en de openbaarmaking van het oordeel van een onafhankelijke klachtencommissie voor klachten over keuringen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01). Bij de vaststelling van die regels:
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de instelling, de werkwijze en de openbaarmaking van het oordeel van een onafhankelijke klachtencommissie voor klachten over keuringen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01). Bij de vaststelling van die regels:
 
 - a. kan de medewerking van de Sociaal-Economische Raad worden ingeroepen; en
 
 - b. kunnen voor de klachtencommissie in afwijking van [artikel 37 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=37) ook personen van niet in de Sociaal-Economische Raad vertegenwoordigde organisaties worden aangezocht.
 
-3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2019-01-01&g=2019-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2019-01-01&g=2019-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2019-01-01&g=2019-01-01) en [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=13&z=2019-01-01&g=2019-01-01).
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=7&z=2020-01-01&g=2020-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8&z=2020-01-01&g=2020-01-01) en [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=13&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 15
 
