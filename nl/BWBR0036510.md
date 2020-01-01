@@ -4,7 +4,7 @@ identifier: "BWBR0036510"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2015-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036510"
 soort: "wet"
@@ -59,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **vrijheidsbeperkende maatregel:** voorwaardelijke vrijheidsbenemende maatregel;
 
-- f. **de Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=2&z=2015-07-01&g=2015-07-01).
+- f. **de Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk 2. De Raad in het algemeen
 
@@ -95,7 +95,7 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 ##### Artikel 6
 
-1. De leden van de Raad worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=3&z=2015-07-01&g=2015-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=3&artikel=24&z=2015-07-01&g=2015-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=4&artikel=28&z=2015-07-01&g=2015-07-01) genoemde taken alsmede op grond van maatschappelijke kennis en ervaring.
+1. De leden van de Raad worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=3&artikel=24&z=2020-01-01&g=2020-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=4&artikel=28&z=2020-01-01&g=2020-01-01) genoemde taken alsmede op grond van maatschappelijke kennis en ervaring.
 
 2. Van de Raad maken in ieder geval deel uit:
 
@@ -173,7 +173,7 @@ Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- e
 
 1. De Raad heeft een secretaris.
 
-2. De secretaris wordt, na overleg met de voorzitter van de Raad, door Onze Minister benoemd, bevorderd, geschorst en ontslagen.
+2. Onze Minister sluit, wijzigt en beëindigt arbeidsovereenkomsten met de secretaris, na overleg met de voorzitter van de Raad.
 
 3. De secretaris is voor zijn werkzaamheden voor de Raad uitsluitend verantwoording schuldig aan de Raad.
 
@@ -183,7 +183,7 @@ Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- e
 
 1. Aan de secretaris kunnen medewerkers worden toegevoegd.
 
-2. Medewerkers worden, na overleg met de secretaris, door Onze Minister benoemd, bevorderd, geschorst en ontslagen.
+2. Onze Minister sluit, wijzigt en beëindigt arbeidsovereenkomsten met medewerkers, na overleg met de secretaris.
 
 3. Medewerkers zijn geen lid van de Raad.
 
@@ -209,9 +209,9 @@ De Raad kan zich voor het inwinnen van inlichtingen wenden tot daartoe door Onze
 
 ##### Artikel 16
 
-1. De Raad kan zich doen bijstaan door andere dan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=3&artikel=15&z=2015-07-01&g=2015-07-01) bedoelde personen, voor zover dat voor de vervulling van zijn taken nodig is.
+1. De Raad kan zich doen bijstaan door andere dan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=3&artikel=15&z=2020-01-01&g=2020-01-01) bedoelde personen, voor zover dat voor de vervulling van zijn taken nodig is.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=8&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=8&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -367,11 +367,11 @@ Wijzigt deze wet.
 
 ##### Artikel 39
 
-1. Zij die op het tijdstip van inwerkingtreding van deze wet lid zijn van de Raad, blijven lid van de Raad gedurende de resterende termijn van hun benoeming. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=4&z=2015-07-01&g=2015-07-01) blijft zo nodig buiten toepassing. Zij zijn lid van de Afdeling advisering en de Afdeling rechtspraak, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2015-07-01&g=2015-07-01).
+1. Zij die op het tijdstip van inwerkingtreding van deze wet lid zijn van de Raad, blijven lid van de Raad gedurende de resterende termijn van hun benoeming. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01) blijft zo nodig buiten toepassing. Zij zijn lid van de Afdeling advisering en de Afdeling rechtspraak, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01).
 
-2. Zolang de Raad meer leden telt dan voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=4&z=2015-07-01&g=2015-07-01) kunnen, indien een vacature ontstaat, in afwijking van dat artikel nieuwe leden worden benoemd of leden worden herbenoemd, indien een evenwichtige samenstelling van de Raad, dan wel [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-07-01&g=2015-07-01), dit vergt, mits het aantal leden daardoor niet groter wordt dan voor het ontstaan van de vacature. Leden van de Raad die op het tijdstip van inwerkingtreding van deze wet onderdeel uitmaken van het bestuur van de Raad kunnen na afloop van de resterende termijn van hun benoeming en in afwijking van artikel 4 worden herbenoemd, mits het aantal leden daardoor niet groter wordt dan voordat het bestuurslid werd herbenoemd.
+2. Zolang de Raad meer leden telt dan voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01) kunnen, indien een vacature ontstaat, in afwijking van dat artikel nieuwe leden worden benoemd of leden worden herbenoemd, indien een evenwichtige samenstelling van de Raad, dan wel [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01), dit vergt, mits het aantal leden daardoor niet groter wordt dan voor het ontstaan van de vacature. Leden van de Raad die op het tijdstip van inwerkingtreding van deze wet onderdeel uitmaken van het bestuur van de Raad kunnen na afloop van de resterende termijn van hun benoeming en in afwijking van artikel 4 worden herbenoemd, mits het aantal leden daardoor niet groter wordt dan voordat het bestuurslid werd herbenoemd.
 
-3. Plaatsvervangende leden die zijn benoemd voor het tijdstip van inwerkingtreding van deze wet, zijn als buitengewoon lid belast met de taak of taken waarmee zij op de dag voor de datum van inwerkingtreding van deze wet waren belast, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2015-07-01&g=2015-07-01).
+3. Plaatsvervangende leden die zijn benoemd voor het tijdstip van inwerkingtreding van deze wet, zijn als buitengewoon lid belast met de taak of taken waarmee zij op de dag voor de datum van inwerkingtreding van deze wet waren belast, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 40
 
