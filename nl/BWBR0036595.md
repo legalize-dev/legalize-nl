@@ -4,7 +4,7 @@ identifier: "BWBR0036595"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2016-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036595"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **transitievergoeding:** de transitievergoeding, bedoeld in de [artikelen 673](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) en [673a van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673a);
+- a. **transitievergoeding:** de transitievergoeding, bedoeld in de [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673);
 
 - b. **afspraken:** afspraken aangegaan voor 1 juli 2015, waaraan op 1 juli 2015 rechten kunnen worden ontleend.
 
@@ -68,11 +68,11 @@ Vervallen
 
 4. Dit artikel is niet van toepassing, indien de afspraken, bedoeld in het eerste lid, of onderdelen daarvan, zijn verlengd, gewijzigd of vervallen.
 
-##### Artikel 4. Overgangsbepaling in verband met het vervallen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2016-07-01&g=2016-07-01)
+##### Artikel 4. Overgangsbepaling in verband met het vervallen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2020-01-01&g=2020-01-01)
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2016-07-01&g=2016-07-01), zoals dat luidde op 30 juni 2016, blijft van toepassing, indien de arbeidsovereenkomst eindigt na die dag, en het verzoek om toestemming, bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), of het verzoek om ontbinding, bedoeld in [artikel 671b van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b), is gedaan voor 1 mei 2016.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2020-01-01&g=2020-01-01), zoals dat luidde op 30 juni 2016, blijft van toepassing, indien de arbeidsovereenkomst eindigt na die dag, en het verzoek om toestemming, bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), of het verzoek om ontbinding, bedoeld in [artikel 671b van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b), is gedaan voor 1 mei 2016.
 
-##### Artikel 5. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=1&z=2016-07-01&g=2016-07-01)
+##### Artikel 5. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=1&z=2020-01-01&g=2020-01-01)
 
 Wijzigt dit besluit.
 
