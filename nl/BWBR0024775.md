@@ -4,7 +4,7 @@ identifier: "BWBR0024775"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2014-06-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024775"
 soort: "wet"
@@ -63,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. personen die aan de werkzaamheden van een adviescollege onderscheidenlijk een commissie deelnemen.
 
-2. De in het eerste lid genoemde personen ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.
+2. De in het eerste lid genoemde personen ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 3. Van de toekenning van vergoedingen als bedoeld in het eerste en tweede lid zijn uitgesloten:
 
