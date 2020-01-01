@@ -4,7 +4,7 @@ identifier: "BWBR0037917"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2017-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037917"
 soort: "wet"
@@ -91,9 +91,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 1. Het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1), stelt een persoon, die op het tijdstip van inwerkingtreding van deze wet als ambtenaar in de zin van [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) bij het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58) in dienst is, en in verband met die inwerkingtreding naar het CAK overgaat, aan als ambtenaar in de zin van artikel 1 van de Ambtenarenwet.
 
-2. Op een persoon als bedoeld in het eerste lid is [artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) van overeenkomstige toepassing. De bevoegdheden die zijn neergelegd in de in dat artikel bedoelde rechtspositieregels, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels, worden uitgeoefend door het CAK.
-
-Voor zover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze Minister van Volksgezondheid, Welzijn en Sport.
+2. In afwijking van [artikel 6.1.1., zevende lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1) is [artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) van toepassing op een persoon als bedoeld in het eerste lid.
 
 ##### Artikel XIII
 
