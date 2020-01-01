@@ -4,7 +4,7 @@ identifier: "BWBR0044364"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-03"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044364"
 soort: "wet"
@@ -49,8 +49,6 @@ Wijzigt de Wet op de loonbelasting 1964.
 ##### Artikel III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
