@@ -4,7 +4,7 @@ identifier: "BWBR0034372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-03"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034372"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De voorzitter van de Kamer ontvangt per kalenderjaar een bezoldiging die gelijk is aan het salaris van [bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A).
+1. De voorzitter van de Kamer ontvangt per kalenderjaar een bezoldiging die gelijk is aan salarisschaal 19 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-2. De overige leden van de Kamer ontvangen per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De overige leden van de Kamer ontvangen per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 18 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 3. Bovenop de bezoldiging ontvangen de leden van de Kamer een vakantie- en een eindejaarsuitkering van respectievelijk 8% en 8,3% van twaalf maal het bruto maandsalaris plus de in het vierde lid bedoelde toelage.
 
-4. Bovenop de bezoldiging ontvangen de leden van de Kamer tevens een maandelijkse toelage. De hoogte van de toelage is afhankelijk van de bijtelling van de auto, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=7&z=2016-01-01&g=2016-01-01), en wordt zodanig vastgesteld dat de totale bezoldiging per kalenderjaar het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), niet overschrijdt.
+4. Bovenop de bezoldiging ontvangen de leden van de Kamer tevens een maandelijkse toelage. De hoogte van de toelage is afhankelijk van de bijtelling van de auto, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=7&z=2020-01-01&g=2020-01-01), en wordt zodanig vastgesteld dat de totale bezoldiging per kalenderjaar het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), niet overschrijdt.
 
 5. De totale bezoldiging, bedoeld in het vierde lid, is de som van de toepasselijke bezoldigingscomponenten, genoemd in [artikel 2, eerste lid, Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2).
 
@@ -72,23 +72,23 @@ Vervallen
 
 1. In geval van niet-herbenoeming dan wel tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft een lid van de Kamer in aanvulling op de reguliere aanspraak op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aanspraak op een bovenwettelijke uitkering.
 
-2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het [Besluit bovenwettelijke uitkering bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114), met dien verstande dat als diensttijd voor de vaststelling van hoogte en duur van genoemde uitkering tevens geldt:
+2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, met dien verstande dat als diensttijd voor de vaststelling van hoogte en duur van genoemde uitkering tevens geldt:
 
 - a. de tijd dat betrokkene als lid van de Kamer was benoemd;
 
 - b. de tijd dat betrokkene direct voorafgaand aan zijn benoeming in de Kamer van Koophandel op basis van een arbeidsovereenkomst of aanstelling werkzaam is geweest bij de Vereniging Kamer van Koophandel Nederland, een Kamer van Koophandel of de Stichting Syntens.
 
-3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag, bedoeld in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2016-01-01&g=2016-01-01).
+3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2020-01-01&g=2020-01-01).
 
 4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
 
 ##### Artikel 5
 
-In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn voor de leden van de Kamer de bepalingen ten aanzien van doorbetaling van de bezoldiging en begeleiding bij arbeidsongeschiktheid, inclusief verplichtingen en sancties van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), van overeenkomstige toepassing.
+In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn voor de leden van de Kamer de bepalingen ten aanzien van doorbetaling van de bezoldiging en begeleiding bij arbeidsongeschiktheid, inclusief verplichtingen en sancties als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. De leden van de Kamer ontvangen een representatiekostenvergoeding conform [artikel 68a, derde lid, onderdeel a, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a).
+1. De leden van de Kamer ontvangen een representatiekostenvergoeding conform overeenkomstig de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. De leden van de Kamer hebben aanspraak op de verloffaciliteiten die gelden voor het personeel van de Kamer.
 
@@ -106,7 +106,7 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 9
 
-1. Aan de leden van de Centrale Raad en een regionale raad wordt voor elke bijgewoonde vergadering van de Centrale Raad respectievelijk een regionale raad een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. Aan de leden van de Centrale Raad en een regionale raad wordt voor elke bijgewoonde vergadering van de Centrale Raad respectievelijk een regionale raad een vergoeding toegekend van 3% van het maximum van salarisschaal 18 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. Aan de voorzitter wordt een vergoeding per bijgewoonde vergadering toegekend van 130% van de hoogte van de vergoeding per bijgewoonde vergadering die aan de overige leden wordt toegekend.
 
