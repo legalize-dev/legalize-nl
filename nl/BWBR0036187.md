@@ -4,7 +4,7 @@ identifier: "BWBR0036187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-01-24"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036187"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **jury:** jury excellente scholen in het primair, speciaal en voortgezet onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036187&artikel=2&z=2015-01-24&g=2015-01-24);
+- b. **jury:** jury excellente scholen in het primair, speciaal en voortgezet onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036187&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - c. **inspectie:** Inspectie van het onderwijs;
 
@@ -100,11 +100,11 @@ De jury verstrekt aan zowel de minister als de inspecteur-generaal desgevraagd d
 
 1. De voorzitter en andere leden van de jury, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen per vergadering een vergoeding.
 
-2. De vergoeding per vergadering van de leden van jury bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering van de leden van jury bedraagt 3% van het maximum van salarisschaal 18 van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. De vergoeding per vergadering van de voorzitter van de jury bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de jury is toegekend.
 
-4. De voorzitter en andere leden van de jury ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0021023) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842). Deze vergoeding wordt door de secretaris van de commissie afgehandeld.
+4. De voorzitter en andere leden van de jury ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door de secretaris van de commissie afgehandeld.
 
 5. Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.
 
