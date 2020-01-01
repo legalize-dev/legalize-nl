@@ -4,7 +4,7 @@ identifier: "BWBR0002979"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2019-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002979"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2019-04-01&g=2019-04-01);
+het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2020-01-01&g=2020-01-01);
 
 Onze Minister: Onze Minister van Justitie en Veiligheid;
 
-de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2019-04-01&g=2019-04-01);
+de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2020-01-01&g=2020-01-01);
 
 de benadeelde: het slachtoffer, onderscheidenlijk de nabestaande, door of namens wie een aanvraag voor een uitkering bij de commissie is ingediend.
 
@@ -119,7 +119,7 @@ Een aanvraag voor een uitkering moet bij de commissie worden ingediend binnen ti
 
 5. Indien een aanvraag naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door de enkelvoudige kamer, kan zij dit verwijzen naar een enkelvoudige kamer. De vierde en vijfde volzin van het vierde lid zijn van toepassing.
 
-6. Aan de commissie is een secretaris verbonden, die door Onze Minister, de commissie gehoord, wordt benoemd en ontslagen.
+6. Aan de commissie is een secretaris verbonden. Onze Minister sluit, wijzigt en beëindigt de arbeidsovereenkomst met de secretaris, gehoord de commissie.
 
 7. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op de commissie.
 
@@ -135,7 +135,7 @@ De leden van de commissie leggen, alvorens aan de werkzaamheden van de commissie
 
 ##### Artikel 11
 
-Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2019-04-01&g=2019-04-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
+Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2020-01-01&g=2020-01-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
 
 ##### Artikel 12
 
@@ -169,7 +169,7 @@ Vervallen
 
 ##### Artikel 19
 
-Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffende het nemen van besluiten door de commissie ten aanzien van andere slachtoffers dan bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3&z=2019-04-01&g=2019-04-01) en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=20&z=2019-04-01&g=2019-04-01). Deze voorschriften zien op het kunnen verlenen van een uitkering aan natuurlijke personen die slachtoffer zijn geworden van een misdrijf of aan hun nabestaanden of naasten.
+Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffende het nemen van besluiten door de commissie ten aanzien van andere slachtoffers dan bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3&z=2020-01-01&g=2020-01-01) en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=20&z=2020-01-01&g=2020-01-01). Deze voorschriften zien op het kunnen verlenen van een uitkering aan natuurlijke personen die slachtoffer zijn geworden van een misdrijf of aan hun nabestaanden of naasten.
 
 ##### Artikel 20
 
@@ -179,7 +179,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffend
 
 - b. aan een ieder die ten gevolge van een aan boord van een Nederlands vaartuig of luchtvaartuig buiten de openbare lichamen Bonaire, Sint Eustatius en Saba opzettelijk gepleegd geweldsmisdrijf ernstig lichamelijk of geestelijk letsel heeft bekomen.
 
-2. Uitkering kan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3&z=2019-04-01&g=2019-04-01) worden gedaan aan de nabestaanden en naasten van een in het eerste lid bedoelde persoon, aan nabestaanden van een persoon die als gevolg van overtreding van [artikel 320 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=320) is overleden, alsmede aan anderen dan hier bedoeld die de kosten van lijkbezorging hebben voldaan van een in het eerste lid bedoelde persoon, indien deze ten gevolge van het misdrijf is overleden.
+2. Uitkering kan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3&z=2020-01-01&g=2020-01-01) worden gedaan aan de nabestaanden en naasten van een in het eerste lid bedoelde persoon, aan nabestaanden van een persoon die als gevolg van overtreding van [artikel 320 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=320) is overleden, alsmede aan anderen dan hier bedoeld die de kosten van lijkbezorging hebben voldaan van een in het eerste lid bedoelde persoon, indien deze ten gevolge van het misdrijf is overleden.
 
 3. Voor de toepassing van het eerste lid wordt onder opzettelijk gepleegd geweldsmisdrijf begrepen: de strafbare poging daartoe.
 
@@ -195,7 +195,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
-2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2019-04-01&g=2019-04-01) een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een aanvraag, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
+2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2020-01-01&g=2020-01-01) een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een aanvraag, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
 
 ##### Artikel 24
 
