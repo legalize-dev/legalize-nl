@@ -4,7 +4,7 @@ identifier: "BWBR0040942"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040942"
 soort: "wet"
@@ -110,8 +110,6 @@ Wijzigt de Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (
 ##### Artikel XVIa. (Wet van ..., houdende wijziging van de Elektriciteitswet 1998 en van de Gaswet (voortgang energietransitie)(Stb ..., ...)
 
 Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (voortgang energietransitie).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. (Inwerkingtreding)
 
