@@ -4,7 +4,7 @@ identifier: "BWBR0004482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004482"
 soort: "ministeriele-regeling"
@@ -46,29 +46,25 @@ Als loonbelasting- en premietabellen en als loonbelasting- en premietabellen voo
 
 - a. de witte tabellen voor loontijdvakken van een maand, een week, een dag, een kwartaal en van vier weken;
 
-- b. de witte tabellen voor werknemers die voor negentien dagen of minder per jaar loon ontvangen in de vorm van vakantiebonnen, voor loontijdvakken van een maand, een week, een dag en van vier weken;
+- b. de groene tabellen voor loontijdvakken van een maand, een week, een dag en een kwartaal;
 
-- c. de witte tabellen voor werknemers die voor twintig dagen of meer per jaar loon ontvangen in de vorm van vakantiebonnen, voor loontijdvakken van een maand, een week, een dag en van vier weken;
+- c. de groene tabel voor uitkeringen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a);
 
-- d. de groene tabellen voor loontijdvakken van een maand, een week, een dag en een kwartaal;
+- d. de tabel voor uitvoerders van aangenomen werk en thuiswerkers, hun hulpen, degenen wier arbeidsverhouding ingevolge [artikel 2c van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2c) als dienstbetrekking wordt beschouwd en sekswerkers op wie [artikel 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2g) van dat besluit wordt toegepast ingevolge [artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=2.2);
 
-- e. de groene tabel voor uitkeringen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a);
+- e. de groene tabel voor uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), met uitzondering van uitkeringen ingevolge [artikel 47a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a);
 
-- f. de tabel voor uitvoerders van aangenomen werk en thuiswerkers, hun hulpen, degenen wier arbeidsverhouding ingevolge [artikel 2c van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2c) als dienstbetrekking wordt beschouwd en sekswerkers op wie [artikel 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2g) van dat besluit wordt toegepast ingevolge [artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=2.2);
+- f. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden doch die wel premieplichtig zijn voor de volksverzekeringen;
 
-- g. de groene tabel voor uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), met uitzondering van uitkeringen ingevolge [artikel 47a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a);
+- g. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden en ten aanzien van wie in het percentage van de premie voor de volksverzekeringen geen premiepercentage is begrepen voor de algemene verzekering voor langdurige zorg;
 
-- h. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden doch die wel premieplichtig zijn voor de volksverzekeringen;
+- h. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden en ten aanzien van wie het percentage van de premie voor de volksverzekeringen alleen bestaat uit het premiepercentage voor de algemene verzekering voor langdurige zorg;
 
-- i. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden en ten aanzien van wie in het percentage van de premie voor de volksverzekeringen geen premiepercentage is begrepen voor de algemene verzekering voor langdurige zorg;
+- i. de tabellen voor werknemers die belastingplichtig zijn doch niet premieplichtig voor de volksverzekeringen;
 
-- j. de tabellen voor werknemers van wie geen loonbelasting wordt ingehouden en ten aanzien van wie het percentage van de premie voor de volksverzekeringen alleen bestaat uit het premiepercentage voor de algemene verzekering voor langdurige zorg;
+- j. de tabellen voor werknemers die belastingplichtig zijn en ten aanzien van wie in het percentage van de premie voor de volksverzekeringen geen premiepercentage is begrepen voor de algemene verzekering voor langdurige zorg;
 
-- k. de tabellen voor werknemers die belastingplichtig zijn doch niet premieplichtig voor de volksverzekeringen;
-
-- l. de tabellen voor werknemers die belastingplichtig zijn en ten aanzien van wie in het percentage van de premie voor de volksverzekeringen geen premiepercentage is begrepen voor de algemene verzekering voor langdurige zorg;
-
-- m. de tabellen voor werknemers die belastingplichtig zijn en ten aanzien van wie het percentage van de premie voor de volksverzekeringen alleen bestaat uit het premiepercentage voor de algemene verzekering voor langdurige zorg.
+- k. de tabellen voor werknemers die belastingplichtig zijn en ten aanzien van wie het percentage van de premie voor de volksverzekeringen alleen bestaat uit het premiepercentage voor de algemene verzekering voor langdurige zorg.
 
 ##### Artikel 2a
 
@@ -84,9 +80,11 @@ Vervallen
 
 - c. loon genoten ingevolge de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en als aanvulling daarop door degene tot wie de desbetreffende werknemer in dienstbetrekking staat;
 
-een en ander tenzij op dat loon de in [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), genoemde tabel van toepassing is.
+een en ander tenzij op dat loon de in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2020-01-01&g=2020-01-01), genoemde tabel van toepassing is.
 
-2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), en in het eerste lid, onderdelen b en c.
+2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2020-01-01&g=2020-01-01), en in het eerste lid, onderdelen b en c.
+
+3. In afwijking van het eerste en tweede lid zijn de groene tabellen mede van toepassing op uitkeringen ingevolge de Ziektewet voor zover die uitkeringen niet ingevolge [artikel 22a, derde lid, aanhef en onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) met loon uit tegenwoordige arbeid worden gelijkgesteld.
 
 ##### Artikel 4
 
@@ -98,7 +96,7 @@ Door vernummering vervallen.
 
 ##### Artikel 5
 
-1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2019-01-01&g=2019-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
+1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2020-01-01&g=2020-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
 
 2. Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer die die pensioengerechtigde leeftijd heeft bereikt rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de aanvullende ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.
 
@@ -112,7 +110,7 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en
 
-P bedraagt: 63,57%% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 24,82% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
+P bedraagt: 65,30% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 25,90% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
 
 5. De loonbelasting en premie voor de volksverzekeringen over loon waarover inkomensafhankelijke bijdrage als bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt:
 
@@ -120,7 +118,7 @@ L x Q, waarbij
 
 L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeringen wordt berekend;
 
-Q bedraagt: 57,85% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 23,08% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
+Q bedraagt: 59,62% voor werknemers die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet hebben bereikt en 24,15% voor werknemers die die pensioengerechtigde leeftijd hebben bereikt.
 
 6. Voor de toepassing van het tweede, vierde en vijfde lid wordt de werknemer die in het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, geacht die leeftijd te hebben bereikt op de eerste dag van de kalendermaand waarin hij die leeftijd werkelijk heeft bereikt.
 
