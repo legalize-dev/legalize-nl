@@ -4,7 +4,7 @@ identifier: "BWBR0039393"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-11-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039393"
 soort: "wet"
@@ -50,47 +50,33 @@ De inwerkingtreding is opgeschort op grond van artikel 8 van de Wet raadgevend r
 
 Wijzigt de Ambtenarenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Invoerings- en aanpassingswet Politiewet 2012.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIa
 
 Wijzigt de Politiewet 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIb
 
 Wijzigt de Militaire Ambtenarenwet 1931.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikelen IIc T/M IId
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel III
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Ziektewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -98,37 +84,29 @@ Wijzigt de Wet op de loonvorming.
 
 ##### Artikel VII
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2019/483.
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 ##### Artikel VIII
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIIIa
 
 Wijzigt de Wet op de Kamer van Koophandel.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikelen VIIIb en IX
 
-Dit onderdeel is nog niet inwerking getreden
+**[Vervallen]**
 
 ##### Artikel IXa
 
 Wijzigt de Wet op het notarisambt.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IXb
 
 Wijzigt de Gerechtsdeurwaarderswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
@@ -136,7 +114,7 @@ De krachtens [artikel 125, eerste lid, onderdeel m, van de Ambtenarenwet](https:
 
 ##### Artikel XI
 
-1. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=X&z=2019-11-01&g=2019-11-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.1Op grond van artikel 8, tweede lid, van de Wet raadgevend referendum is de inwerkingtreding van deze wet opgeschort tot 10 mei 2017.
+1. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=X&z=2020-01-01&g=2020-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.1Op grond van artikel 8, tweede lid, van de Wet raadgevend referendum is de inwerkingtreding van deze wet opgeschort tot 10 mei 2017.
 
 2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
