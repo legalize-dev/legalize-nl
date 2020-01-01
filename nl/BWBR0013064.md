@@ -4,7 +4,7 @@ identifier: "BWBR0013064"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2015-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013064"
 soort: "wet"
@@ -46,33 +46,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt verstaan onder:
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze minister: Onze minister van Financiën;
+- **gewone circulatiemunten:** de euromunten, genoemd in artikel 2, lid 2 van Verordening (EU) nr. 729/2014 van de Raad van 24 juni 2014 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEU 2014, L 194);
 
-- b. Euromunten: de euromuntstukken, bedoeld in artikel 1 van [Verordening (EG) nr. 975/98](31998R0975) van de Raad van de Europese Unie van 3 mei 1998 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEG L 139);
+- **herdenkingsmunten:** de euromunten, genoemd in artikel 2, lid 3 van Verordening (EU) nr. 729/2014 van de Raad van 24 juni 2014 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEU 2014, L 194);
 
-- c. Nederlandse euromunten: de euromuntstukken uitgegeven door de Staat der Nederlanden overeenkomstig artikel 11 van [Verordening (EG) nr. 974/98](31998R0974) van de Raad van de Europese Unie van 3 mei 1998 tot invoering van de euro (PbEG L 139);
+- **munten voor verzamelaars:** de euromunten, genoemd in artikel 1 van Verordening (EU) nr. 651/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de uitgifte van euromunten (PbEU 2012, L 201);
 
-- d. verordening valsemunterij: verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG 2001, L 181);
+- **Onze Minister:** Onze Minister van Financiën;
 
-- e. verordening echtheids- en geschiktheidscontrole euromunten: verordening (EU) Nr. 1210/2010 van het Europees Parlement en de Raad van 15 december 2010 betreffende de echtheidscontrole van euromunten en de behandeling van euromunten die ongeschikt zijn voor de circulatie (PbEU 2010, L 339).
+- **verordening valsemunterij:** Verordening (EG) nr. 1338/2001 van de Raad van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG 2001, L 181);
+
+- **verordening echtheids- en geschiktheidscontrole euromunten:** Verordening (EU) nr. 1210/2010 van het Europees Parlement en de Raad van 15 december 2010 betreffende de echtheidscontrole van euromunten en de behandeling van euromunten die ongeschikt zijn voor de circulatie (PbEU 2010, L 339).
 
 ##### Artikel 2
 
-De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse euromunten, bijzondere munten met de hoedanigheid van wettig betaalmiddel, beleggingsmunten en munten zonder de hoedanigheid van wettig betaalmiddel.
+De munten die door de Staat der Nederlanden worden uitgegeven zijn gewone circulatiemunten, herdenkingsmunten, munten voor verzamelaars en munten zonder de hoedanigheid van wettig betaalmiddel.
 
 ##### Artikel 3
 
-1. De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse euromunten worden bij koninklijk besluit vastgesteld.
+1. De bestanddelen van de beeldenaars van de nationale zijde van gewone circulatiemunten en herdenkingsmunten worden bij koninklijk besluit vastgesteld.
 
 2. De in het eerste lid bedoelde munten dragen in ieder geval de beeltenis en de naam van de Koning (Koningin) en de woorden: Koning (Koningin) der Nederlanden.
 
-3. In het kader van een Europees herdenkingsthema kan ten aanzien van de Nederlandse euromunten van twee euro worden afgeweken van het tweede lid.
+3. In het kader van een Europees herdenkingsthema kan ten aanzien van gewone circulatiemunten en herdenkingsmunten van twee euro worden afgeweken van het tweede lid.
 
 ##### Artikel 4
 
-1. De denominaties van de bijzondere munten met de hoedanigheid van wettig betaalmiddel, de materialen waaruit deze munten zijn vervaardigd, de gewichten en de afmetingen, alsmede de bedragen tot welke zij de hoedanigheid van wettig betaalmiddel hebben, worden bij algemene maatregel van bestuur vastgesteld.
+1. De denominaties van munten voor verzamelaars, de materialen waaruit deze munten zijn vervaardigd, de gewichten en de afmetingen, alsmede de bedragen tot welke zij de hoedanigheid van wettig betaalmiddel hebben, worden bij algemene maatregel van bestuur vastgesteld.
 
 2. De bestanddelen van de beeldenaars van de in het eerste lid genoemde munten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de voorzijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden, en op de keerzijde de waardeaanduiding.
 
@@ -90,15 +92,15 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 
 3. De dubbele gouden dukaat heeft een goudgehalte van 983 duizendste, een gewicht van 6,988 gram met een afwijking van ten hoogste vier duizendste en een middellijn van 26 millimeter.
 
-4. De beeldenaar van de gouden dukaat en de dubbele gouden dukaat is op de voorzijde een geharnaste man tussen de cijfers van het jaartal, met het omschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester: de beeldenaar is op de keerzijde binnen een versierd vierkant: MO. AUR REG. BELGII AD LEGEM IMPERII. De munten zijn voorzien van een kabelrand.
+4. De beeldenaar van de gouden dukaat en de dubbele gouden dukaat is op de voorzijde een geharnaste man tussen de cijfers van het jaartal, met het omschrift: CONCORDIA RES PARVAE CRESCUNT: de beeldenaar is op de keerzijde binnen een versierd vierkant: MO. AUR REG. BELGII AD LEGEM IMPERII. De munten zijn voorzien van een kabelrand.
 
 5. De zilveren dukaat heeft een zilvergehalte van 873 duizendste, een gewicht van 28,25 gram met een afwijking van ten hoogste vijf duizendste en een middellijn van 40 millimeter.
 
-6. De beeldenaar van de zilveren dukaat is op de voorzijde hetzij een geharnaste man met het Rijkswapen voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII, hetzij een geharnaste man met het wapen van een Nederlandse provincie voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII en de naam van de provincie; is op de keerzijde het Rijkswapen met de Koninklijke Kroon tussen de cijfers van het jaartal, met het opschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester.
+6. De beeldenaar van de zilveren dukaat is op de voorzijde hetzij een geharnaste man met het Klein Rijkswapen voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII, hetzij een geharnaste man met het wapen van een Nederlandse provincie voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII en de naam van de provincie; is op de keerzijde het Klein Rijkswapen met de Koninklijke Kroon tussen de cijfers van het jaartal, met het opschrift: CONCORDIA RES PARVAE CRESCUNT.
 
 ##### Artikel 6
 
-1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2015-01-01&g=2015-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2020-01-01&g=2020-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
 
 2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
 
@@ -106,25 +108,25 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 
 ##### Artikel 7
 
-Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01), geregeld.
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2020-01-01&g=2020-01-01), geregeld.
 
 ##### Artikel 8
 
 1. Niemand is gehouden valse of vervalste munten aan te nemen.
 
-2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4a&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2015-01-01&g=2015-01-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
+2. Gewone circulatiemunten, herdenkingsmunten, munten voor verzamelaars en munten zonder de hoedanigheid van wettig betaalmiddel die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
 
 3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze in beslag genomen. Indien de munten naar het oordeel van die instantie niet vals of vervalst zijn:
 
-- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01) de nominale waarde vergoed;
+- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2020-01-01&g=2020-01-01) de nominale waarde vergoed;
 
-- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2015-01-01&g=2015-01-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
+- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2020-01-01&g=2020-01-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
 
 4. Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.
 
 ##### Artikel 9
 
-1. Euromunten en bijzondere munten met de hoedanigheid van wettig betaalmiddel die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2015-01-01&g=2015-01-01), aangewezen instantie.
+1. Gewone circulatiemunten, herdenkingsmunten en munten voor verzamelaars die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2020-01-01&g=2020-01-01), aangewezen instantie.
 
 2. De in het eerste lid bedoelde instantie weigert munten in ontvangst te nemen, indien de ontvangst of behandeling daarvan gevaar voor de gezondheid van het behandelend personeel inhoudt.
 
@@ -170,28 +172,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 4a
 
-1. Beleggingsmunten zijn:
-
-- a. een gouden munt van tweehonderdvijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,093 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- b. een gouden munt van honderd-euro met een goudgehalte van 999,9 duizendste, een gewicht van 15,552 gram met een afwijking van ten hoogste 0,078 gram en een middellijn van 28,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- c. een gouden munt van vijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 7,776 gram met een afwijking van ten hoogste 0,062 gram en een middellijn van 22,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- d. een gouden munt van vijfentwintig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 3,110 gram met een afwijking van ten hoogste 0,037 gram en een middellijn van 16,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- e. een zilveren munt van tweeëneenhalve-euro met een zilvergehalte van 999 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,25 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter.
-
-2. De beeldenaar van de beleggingsmunten is op de voorzijde de beeltenis en de naam van de Koning (Koningin) met de woorden «Koning (Koningin) der Nederlanden» en op de keerzijde het Gekroond rijkswapen met daaronder de tekst «Nederland», de waardeaanduiding, het gehalte edelmetaal, het jaartal van uitgifte, het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
-
-3. De beleggingsmunten hebben een geribbelde rand.
+Vervallen
 
 ##### Artikel 6a
 
-1. De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.
-
-2. De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
-
-3. Het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester worden bij ministeriële regeling vastgesteld.
+Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
