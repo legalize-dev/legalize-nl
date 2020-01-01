@@ -4,7 +4,7 @@ identifier: "BWBR0026353"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2009-09-16"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026353"
 soort: "AMvB"
@@ -66,13 +66,15 @@ In dit besluit wordt verstaan onder:
 
 1. Een klachtbehandelaar is niet tevens lid van het college van burgemeester en wethouders van een gemeente, voor zover hij werkzaam is onder de verantwoordelijkheid van de antidiscriminatievoorziening van die gemeente.
 
-2. Een klachtbehandelaar is niet als zodanig door of vanwege het college van burgemeester en wethouders aangesteld of daaraan ondergeschikt.
+2. Een klachtbehandelaar heeft niet als zodanig een arbeidsovereenkomst met de gemeente, waarover het college van burgemeester en wethouders besluit.
 
-3. Een klachtbehandelaar neemt geen instructies aan van leden van het college van burgemeester en wethouders, leden van de raad of ambtenaren van een gemeente bij de behandeling van klachten.
+3. Een klachtbehandelaar is niet als zodanig uit anderen hoofde aan het college van burgemeester en wethouders ondergeschikt.
 
-4. De antidiscriminatievoorziening vervult haar taak zonder vooringenomenheid.
+4. Een klachtbehandelaar neemt geen instructies aan van leden van het college van burgemeester en wethouders, leden van de raad of ambtenaren van een gemeente bij de behandeling van klachten.
 
-5. De antidiscriminatievoorziening waakt ertegen dat een klachtbehandelaar die een persoonlijk belang bij een ingediende klacht heeft, deze klacht in behandeling neemt of op een andere manier de behandeling van de klacht beïnvloedt.
+5. De antidiscriminatievoorziening vervult haar taak zonder vooringenomenheid.
+
+6. De antidiscriminatievoorziening waakt ertegen dat een klachtbehandelaar die een persoonlijk belang bij een ingediende klacht heeft, deze klacht in behandeling neemt of op een andere manier de behandeling van de klacht beïnvloedt.
 
 ##### Artikel 3
 
