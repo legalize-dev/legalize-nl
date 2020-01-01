@@ -4,7 +4,7 @@ identifier: "BWBR0028378"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028378"
 soort: "AMvB-BES"
@@ -45,65 +45,63 @@ In dit besluit wordt verstaan onder «wet»: [Wet telecommunicatievoorzieningen 
 
 Dit besluit berust op [artikel 3 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3).
 
-#### § 2. Diensten
+#### § 2. Opgedragen diensten
 
 ##### Artikel 2
 
-1. De opgedragen diensten met betrekking tot het directe transport van gegevens, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3) omvatten de in de navolgende paragrafen omschreven telefoondienst, telexdienst en telegraafdienst.
-
-2. De opgedragen diensten kunnen naar hun aard en omvang in de concessie worden beperkt tot een of meer van de in het eerste lid genoemde diensten dan wel delen daarvan.
+De opgedragen diensten met betrekking tot het directe transport van gegevens, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3), omvatten de in de navolgende paragrafen omschreven vaste telecommunicatiedienst, mobiele telecommunicatiedienst en langeafstandstelecommunicatiedienst.
 
 #### § 3. Telefoondienst
 
 ##### Artikel 3
 
-De telefoondienst wordt onderscheiden in de lokale telefoondienst, de mobiele telefoondienst en de lange afstand telefoondienst.
+De opgedragen diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), kunnen naar hun aard en omvang in een concessie worden beperkt tot één of meer van deze diensten dan wel delen daarvan.
 
 ##### Artikel 4
 
-1. Onder lokale telefoondienst wordt verstaan de dienst met betrekking tot het directe transport van spraak tussen aansluitpunten op de vaste telecommunicatieinfrastructuur binnen een openbaar lichaam, waarbij een gebruiker vanaf een aansluitpunt een verbinding kan opbouwen met het aansluitpunt van zijn keuze.
+Onder vaste telecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via de vaste telecommunicatie-infrastructuur van de houder van de concessie voor:
 
-2. Onder de lokale telefoondienst wordt mede verstaan bedoelde dienst, waarbij een gebruiker vanaf een aansluitpunt een verbinding kan opbouwen met de gebruiker van zijn keuze van de mobiele infrastructuur in hetzelfde openbaar lichaam.
+- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
 
-3. Tot de lokale telefoondienst wordt mede gerekend de verzorging van spreekgelegenheid op openbare grond.
+- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
 
 ##### Artikel 5
 
-1. Onder mobiele telefoondienst wordt verstaan de dienst met betrekking tot het directe transport van spraak tussen mobiele gebruikers via een mobiele telecommunicatieinfrastructuur binnen een verzorgingsgebied, waarbij een mobiele gebruiker een verbinding met de mobiele gebruiker van zijn keuze binnen hetzelfde verzorgingsgebied kan opbouwen.
+Onder mobiele telecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via de mobiele telecommunicatie-infrastructuur van de houder van de concessie voor:
 
-2. Onder mobiele telefoondienst wordt mede verstaan bedoelde dienst, waarbij een mobiele gebruiker binnen het openbaar lichaam waar hij zich bevindt een verbinding kan opbouwen met het aansluitpunt van zijn keuze op de vaste telecommunicatie-infrastructuur binnen hetzelfde openbaar lichaam.
+- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
+
+- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
 
 ##### Artikel 6
 
-1. Onder lange afstand telefoondienst wordt verstaan de dienst met betrekking tot het directe transport van spraak, waarbij een gebruiker van een aansluitpunt op de vaste telecommunicatie-infrastructuur een verbinding kan opbouwen met een aansluitpunt of een mobiele gebruiker van zijn keuze in een ander openbaar lichaam of Aruba, Curaçao of St. Maarten.
+Onder langeafstandstelecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via de vaste telecommunicatie-infrastructuur of de mobiele telecommunicatie-infrastructuur in een openbaar lichaam, naar een aansluitpunt of een gebruiker van zijn keuze buiten dat openbaar lichaam, voor:
 
-2. Onder lange afstand telefoondienst wordt mede verstaan bedoelde dienst, waarbij een mobiele gebruiker een verbinding kan opbouwen met een aansluitpunt van zijn keuze op de vaste telecommunicatie-infrastructuur dan wel een mobiele gebruiker in een ander openbaar lichaam of Aruba, Curaçao of St. Maarten.
+- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
 
-3. Onder lange afstand telefoondienst wordt niet verstaan het verkeer tussen mobiele gebruikers van een geïntegreerd net dat meerdere openbare lichamen omvat.
+- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
 
-#### § 4. Telexdienst
+#### § 5. Langeafstandstelecommunicatiedienst
 
 ##### Artikel 7
 
-1. Onder de telexdienst wordt verstaan de dienst met betrekking tot het directe transport van tekstberichten van en naar aansluitpunten op de telecommunicatie-infrastructuur binnen één of meer openbare lichamen, waarbij de gebruiker via zijn aansluitpunt het aansluitpunt van bestemming kan kiezen, zoals geregeld in het Telegraafreglement behorende bij het op 6 november 1982 te Nairobi tot stand gekomen Internationaal Telecommunicatieverdrag (Trb. 1983, 164), zoals het thans luidt of nadien wordt gewijzigd.
-
-2. Onder telexdienst wordt mede verstaan de verzorging van deze dienst met het buitenland.
+Vervallen
 
 #### § 5. Telegraafdienst
 
 ##### Artikel 8
 
-Onder de telegraafdienst wordt verstaan de overdracht van berichten van willekeurige afzenders naar willekeurige geadresseerden, zoals geregeld in het Telegraafreglement behorende bij het op 6 november 1982 te Nairobi tot stand gekomen Internationaal Telecommunicatieverdrag zoals het thans luidt of nadien wordt gewijzigd.
+Vervallen
 
 #### § 6. Overige bepalingen
 
 ##### Artikel 9
 
-Tot de in de [paragrafen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=2&z=2010-10-10&g=2010-10-10) omschreven diensten behoren de opslag en de bewerking van gegevens, doch slechts voor zover dit noodzakelijk is voor het direct transport van gegevens en de hierbij behorende processen.
+Tot de in de [paragrafen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=2&z=2020-01-01&g=2020-01-01) omschreven diensten behoren de opslag en de bewerking van gegevens, doch slechts voor zover dit noodzakelijk is voor het direct transport van gegevens en de hierbij behorende processen.
 
 ##### Artikel 10
 
-1. Tot de in de [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=2&z=2010-10-10&g=2010-10-10) omschreven diensten behoren in ieder geval de volgende activiteiten:
+1. Tot de in de [paragrafen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=3&z=2020-01-01&g=2020-01-01) omschreven diensten behoren in ieder geval de volgende activiteiten:
 
 - a. de lever- en aansluitplicht, waaronder wordt verstaan het tot stand brengen van aansluitingen op de telecommunicatie-infrastructuur waarmede de bedoelde dienst wordt geleverd alsmede het opheffen van storingen daarin;
 
@@ -121,7 +119,7 @@ Tot de in de [paragrafen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Tot de in het eerste lid bedoelde activiteiten behoren tevens het verstrekken van faciliteiten die ten nauwste verband houden met de verbindingsopbouw, routering en tarifering.
 
-3. Tot de in de [paragrafen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=3&z=2010-10-10&g=2010-10-10) omschreven diensten behoren mede de opslag en bewerking van gegevens, doch slechts voor zover dit plaatsvindt voor het directe transport van gegevens en de hierbij behorende processen.
+3. Tot de in de [paragrafen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=3&z=2020-01-01&g=2020-01-01) omschreven diensten behoren mede de opslag en bewerking van gegevens, doch slechts voor zover dit plaatsvindt voor het directe transport van gegevens en de hierbij behorende processen.
 
 ##### Artikel 11
 
@@ -134,13 +132,3 @@ Dit besluit wordt aangehaald als: Besluit opgedragen telecommunicatiediensten BE
 #### § 3. Vaste telecommunicatiedienst
 
 #### § 4. Mobiele telecommunicatiedienst
-
-##### Artikel 4a
-
-Onder satelliettelecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via een combinatie van satellietverbindingen en grondstations, van en naar een locatie op een openbaar lichaam voor:
-
-- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
-
-- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
-
-#### § 6. Overige bepalingen
