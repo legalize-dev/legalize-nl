@@ -4,7 +4,7 @@ identifier: "BWBR0038995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038995"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ In deze regeling wordt verstaan onder:
 
 - d. op één van de betreffende peildata korter dan twee jaar in Nederland verblijft;
 
-- **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2017 nog niet in Nederland was;
+- **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2018 nog niet in Nederland was;
 
-- **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2017 in Nederland was en op de betreffende peildatum korter dan twee jaar in Nederland is;
+- **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2018 in Nederland was en op de betreffende peildatum korter dan twee jaar in Nederland is;
 
 - **school:** school voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum, bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
 
@@ -88,17 +88,17 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), bedraagt:
 
-- a. € 2.834,77 per kwartaal per nieuwkomer eerste categorie;
+- a. € 2.910,19 per kwartaal per nieuwkomer eerste categorie;
 
-- b. € 1.025 per kwartaal per nieuwkomer tweede categorie.
+- b. € 1.052,27 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), bedraagt € 16.000 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), bedraagt € 16.425,68 per school.
 
-4. De peildata zijn 1 april, 1 juli en 1 oktober van het kalenderjaar 2019.
+4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2020.
 
 5. De minister stelt de verblijfstermijn in Nederland voor iedere peildatum vast op basis van:
 
@@ -112,11 +112,11 @@ Indien er in de BRP geen datum verblijfstitel aanwezig is hanteert de minister:
 
 ##### Artikel 5. Bekostiging
 
-1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), de registratie in BRON op respectievelijk 16 april, 16 juli en 16 oktober 2019 van het aantal nieuwkomers dat op respectievelijk de peildata 1 april 2019, 1 juli 2019 en 1 oktober 2019 als schoolgaand stond ingeschreven.
+1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), de registratie in BRON op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2020 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2020 als schoolgaand stond ingeschreven.
 
-2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
+2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
-3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2019-04-01&g=2019-04-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 april, 1 juli en 1 oktober 2019 niet uiterlijk op respectievelijk 15 april, 15 juli en 15 oktober door DUO zijn ontvangen, worden afgewezen.
+3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-01-01&g=2020-01-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2020 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2020 door DUO zijn ontvangen, worden afgewezen.
 
 ##### Artikel 6. Vaststelling, betaling en verantwoording
 
@@ -142,7 +142,7 @@ Wijzigt de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vree
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-2. Deze regeling vervalt per 1 januari 2020.
+2. Deze regeling vervalt per 1 januari 2021.
 
 ##### Artikel 10. Citeertitel
 
