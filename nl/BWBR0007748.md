@@ -4,7 +4,7 @@ identifier: "BWBR0007748"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007748"
 soort: "AMvB"
@@ -80,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de persoon die hij binnen zijn organisatie uit hoofde van diens verantwoordelijkheid voor de informatiehuishouding daartoe heeft aangewezen;
 
-- b. indien deze is benoemd de archivaris die de beheerder is van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager;
+- b. indien deze is aangewezen de archivaris die de beheerder is van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager;
 
 - c. in afwijking van onderdeel b de algemene rijksarchivaris indien de in dat onderdeel bedoelde archiefbewaarplaats een rijksarchiefbewaarplaats is;
 
@@ -106,11 +106,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01),
+- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01),
 
-- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
+- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg, en
 
-- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2013-01-01&g=2013-01-01);
+- 3°. een verslag van de procedure, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01);
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
 
@@ -120,15 +120,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De zorgdrager besluit tot vervanging van archiefbescheiden door reprodukties slechts indien de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
-2. De zorgdrager maakt bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01).
+2. De zorgdrager maakt bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01).
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de vervanging, bedoeld in het eerste lid.
 
 ##### Artikel 7
 
-1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden personen als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
+1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden personen als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
 
-2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de personen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01).
+2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de personen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 8
 
@@ -146,7 +146,7 @@ De zorgdrager maakt van de vernietiging, vervanging of vervreemding een verklari
 
 ##### Artikel 10
 
-Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2013-01-01&g=2013-01-01).
+Indien de zorgdrager ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), van de wet beperkingen aan de openbaarheid van archiefbescheiden stelt, wordt het daartoe strekkende besluit gevoegd bij de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=III&artikel=9&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
 
@@ -210,7 +210,7 @@ Vervallen
 
 ##### Artikel 20
 
-[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2013-01-01&g=2013-01-01), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
+[Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2020-01-01&g=2020-01-01), blijft ten aanzien van bij de inwerkingtreding van dit besluit bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
 ##### Artikel 21
 
@@ -228,7 +228,7 @@ Dit besluit wordt aangehaald als: Archiefbesluit 1995.
 
 1. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) treedt in werking met ingang van 1 januari 1996.
 
-2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2013-01-01&g=2013-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2013-01-01&g=2013-01-01) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2013-01-01&g=2013-01-01), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
+2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2020-01-01&g=2020-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2020-01-01&g=2020-01-01), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -236,19 +236,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a
 
-Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2013-01-01&g=2013-01-01).
+Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 20b
 
-Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de benoembaarheidsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
+Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de aanwijzingsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ##### Artikel 3a
 
-1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
+1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
 
-2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
+2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
 
 ### Hoofdstuk III. Overbrenging van archiefbescheiden
 
