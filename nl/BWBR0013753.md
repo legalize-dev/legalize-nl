@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -88,9 +88,9 @@ In dit besluit wordt verstaan onder:
 
 - a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
 
-- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2019-01-01&g=2019-01-01);
+- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2020-01-01&g=2020-01-01);
 
-- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2019-01-01&g=2019-01-01);
+- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2020-01-01&g=2020-01-01);
 
 - d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
@@ -114,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 150 kilometer en meer: 140 * X
 
-waarbij X gelijk is aan de het voor dienstreizen van het burgerlijk rijkspersoneel geldende bedrag voor vergoeding wegens verblijfskosten in verband met logies. De vergoeding, behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro’s.
+waarbij X gelijk is aan het voor dienstreizen van ambtenaren, die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, geldende bedrag voor vergoeding wegens verblijfskosten in verband met logies, zoals overeengekomen in de voor die ambtenaren laatstelijk afgesloten collectieve arbeidsovereenkomst voor vergoeding wegens verblijfskosten in verband met logies. De vergoeding, behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro’s.
 
 5. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede of derde lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
@@ -124,7 +124,7 @@ waarbij X gelijk is aan de het voor dienstreizen van het burgerlijk rijkspersone
 
 2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
-3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
+3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -138,7 +138,7 @@ In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelij
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,60 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 3. Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
@@ -226,13 +226,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 723,57;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 742,38;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 723,57;
+- b. voor Onze Minister van Buitenlandse Zaken € 742,38;
 
-- c. voor een andere Minister € 361,79;
+- c. voor een andere Minister € 371,20;
 
-- d. voor een Staatssecretaris € 301,08.
+- d. voor een Staatssecretaris € 308,91.
 
 3. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
@@ -270,7 +270,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag vastgesteld op grond van [artikel 13, tweede lid, van het Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842&artikel=13).
+Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 15a
 
