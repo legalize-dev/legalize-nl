@@ -4,7 +4,7 @@ identifier: "BWBR0022793"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2012-11-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022793"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet wederzijdse erkenning en tenuitv
 
 ##### Artikel 1
 
-Het Centraal Justitieel Incassobureau heeft tot taak de officier van justitie te ondersteunen bij zijn taken met betrekking tot de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604).
+Onze Minister voor Rechtsbescherming draagt zorg voor de ondersteuning van de officier van justitie bij zijn taken met betrekking tot de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604).
 
 ##### Artikel 2
 
