@@ -4,7 +4,7 @@ identifier: "BWBR0010510"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2018-11-24"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010510"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - WW-uitkering: de uitkering bij werkloosheid, bedoeld in [Hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
 
-- bovenwettelijke uitkering: de aansluitende en de aanvullende uitkering, bedoeld in [hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&z=2018-11-24&g=2018-11-24);
+- bovenwettelijke uitkering: de aansluitende en de aanvullende uitkering, bedoeld in [hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&z=2020-01-01&g=2020-01-01);
 
 - diensttijd: de tijd welke betrokkene in dienst dan wel aangesteld is geweest bij het Ministerie van Defensie en in voorkomend geval vermeerderd met de tijd welke betrokkene voordien in dienst is geweest bij de rijksoverheid dan wel bij een sector van de rijksoverheid. De tijd die een militair na 1 januari 1990 is uitgezonden in het kader van vredes- of humanitaire operaties wordt dubbel geteld, met een maximum van twee jaar;
 
@@ -110,25 +110,25 @@ In dit besluit wordt verstaan onder:
 
 5. Het recht op een aansluitende uitkering eindigt na ommekomst van de duur daarvan, maar uiterlijk de dag waarop betrokkene de pensioengerechtigde leeftijd heeft bereikt.
 
-6. Er bestaat geen recht op aansluitende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2018-11-24&g=2018-11-24).
+6. Er bestaat geen recht op aansluitende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 3. Aanvullende uitkering
 
-1. Betrokkene, die recht heeft op een WW-uitkering, dan wel een aansluitende uitkering ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2018-11-24&g=2018-11-24), heeft recht op een aanvullende uitkering.
+1. Betrokkene, die recht heeft op een WW-uitkering, dan wel een aansluitende uitkering ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), heeft recht op een aanvullende uitkering.
 
-2. Er bestaat geen recht op aanvullende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2018-11-24&g=2018-11-24).
+2. Er bestaat geen recht op aanvullende uitkering als betrokkene zijn recht heeft afgekocht als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 4. Hoogte aanvullende uitkering
 
 1. De WW-uitkering wordt gedurende de eerste zes maanden aangevuld tot 80%, gedurende de daarop volgende zes maanden tot 75% en gedurende de resterende periode tot 70% van het voor betrokkene geldende dagloon.
 
-2. Gedurende de duur van de aansluitende uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2018-11-24&g=2018-11-24), bedraagt de uitkering 70% van het voor betrokkene geldende dagloon.
+2. Gedurende de duur van de aansluitende uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), bedraagt de uitkering 70% van het voor betrokkene geldende dagloon.
 
 ##### Artikel 5. Aanvullende uitkering bij ziekte
 
-1. Indien betrokkene gedurende de periode dat hij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering, wegens ziekte verhinderd wordt arbeid te verrichten en daarom een uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ontvangt, wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aangevuld tot de percentages van het dagloon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2018-11-24&g=2018-11-24).
+1. Indien betrokkene gedurende de periode dat hij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering, wegens ziekte verhinderd wordt arbeid te verrichten en daarom een uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ontvangt, wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aangevuld tot de percentages van het dagloon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01).
 
-2. De uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt aangevuld tot het percentage van het voor betrokkene geldende dagloon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2018-11-24&g=2018-11-24), dat van toepassing zou zijn indien betrokkene niet ziek zou zijn.
+2. De uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt aangevuld tot het percentage van het voor betrokkene geldende dagloon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), dat van toepassing zou zijn indien betrokkene niet ziek zou zijn.
 
 3. In afwijking van het tweede lid wordt indien de vrouwelijke betrokkene gedurende de periode dat zij recht heeft op een loongerelateerde WW-uitkering of op een aansluitende uitkering recht krijgt op een uitkering krachtens [artikel 29a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29a), die uitkering aangevuld tot 100% van het voor betrokkene geldende dagloon.
 
@@ -218,7 +218,7 @@ Onze Minister beslist over de toekenning van de bovenwettelijke uitkering op aan
 
 2. Betrokkene als bedoeld in het eerste lid, heeft met ingang van de eerste dag volgende op die waarop de duur van de suppletie is geëindigd, recht op een bovenwettelijke uitkering krachtens dit besluit, indien de duur van de uitkering, waarop betrokkene krachtens dit besluit recht zou hebben gehad indien hij geen recht op suppletie zou hebben gehad, langer is dan de duur van de suppletie.
 
-3. Op de hoogte van de uitkering is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2018-11-24&g=2018-11-24) van toepassing in die zin dat gerekend wordt vanaf het tijdstip waarop het ontslag is ingegaan.
+3. Op de hoogte van de uitkering is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) van toepassing in die zin dat gerekend wordt vanaf het tijdstip waarop het ontslag is ingegaan.
 
 4. Het recht op een uitkering krachtens dit besluit eindigt met ingang van de dag waarop betrokkene recht verkrijgt op een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van 80% of meer.
 
@@ -248,7 +248,7 @@ Indien het niveau van de uitkering van de WW een algemene neerwaartse wijziging 
 
 ##### Artikel 17
 
-Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2018-11-24&g=2018-11-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2018-11-24&g=2018-11-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=10&z=2018-11-24&g=2018-11-24), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=14&z=2018-11-24&g=2018-11-24) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2018-11-24&g=2018-11-24) nadere regels van administratieve aard stellen.
+Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=10&z=2020-01-01&g=2020-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=14&z=2020-01-01&g=2020-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=5&artikel=15&z=2020-01-01&g=2020-01-01) nadere regels van administratieve aard stellen.
 
 ### Hoofdstuk 6. Overgangsrecht en slotbepalingen
 
@@ -258,9 +258,9 @@ Onze Minister kan ter uitvoering van de [artikelen 2, vijfde lid](https://wetten
 
 2. Betrokkene die op 31 december 2002 recht heeft op een uitkering ingevolge een in het eerste lid genoemd besluit of die verkeert in een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft, indien het recht op die uitkering na vorenbedoelde dag zou voortduren of herleven, recht op een uitkering krachtens dit besluit. Voor de duur en de hoogte van de uitkering krachtens dit besluit wordt uitgegaan van het tijdstip van het ontstaan van de in de eerste volzin bedoelde voorafgaande uitkering en van de normen van het besluit dat daaraan ten grondslag heeft gelegen. Voor de ingevolge dit artikellid toe te kennen uitkering wordt betrokkene aangemerkt als rechthebbende op een WW-uitkering die daarop niet in mindering strekt.
 
-3. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkering krachtens dit besluit waar betrokkene bedoeld in het tweede lid recht op heeft, lager is dan de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aangevuld met de uitkering krachtens dit besluit. Indien de uitkering op grond van het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of dit besluit op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vastelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2018-11-24&g=2018-11-24) van overeenkomstige toepassing.
+3. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de uitkering krachtens dit besluit waar betrokkene bedoeld in het tweede lid recht op heeft, lager is dan de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) aangevuld met de uitkering krachtens dit besluit. Indien de uitkering op grond van het [Werkloosheidsbesluit defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008113), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of dit besluit op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vastelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
-4. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) lager is dan de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045). Indien de uitkering op grond van het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) of de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vaststelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2018-11-24&g=2018-11-24) van overeenkomstige toepassing.
+4. Indien de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) lager is dan de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop betrokkene recht had op de dag voorafgaande aan de datum, bedoeld in het eerste lid, of op de dag waarop zijn uitkering is geëindigd als gevolg van een omstandigheid als bedoeld in [artikel 30, eerste lid, onder c, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=30), heeft betrokkene recht op een garantie-uitkering krachtens dit besluit. De garantie-uitkering bedraagt het verschil tussen de uitkering ingevolge het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) waarop de betrokkene recht zou hebben gehad als dat besluit op grond van het eerste lid niet zou zijn ingetrokken en de uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045). Indien de uitkering op grond van het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0007212) of de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op grond van enige wettelijke bepaling geheel of gedeeltelijk is geweigerd, dan wel niet of niet geheel is betaald, wordt deze uitkering voor de vaststelling van de garantie-uitkering geacht onverminderd te zijn genoten. Op de garantie-uitkering is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 5. Het Wachtgeldbesluit burgerlijke ambtenaren defensie, het Uitkeringsbesluit burgerlijke ambtenaren defensie, het Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering en de Militaire wachtgeldregeling 1961 worden ingetrokken.
 
@@ -346,7 +346,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 van het door degene genoten maandsalaris vermeerderd met de maandelijkse opbouw van de vakantie-uitkering over het maandsalaris.
 
-3. In afwijking van de diensttijd als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2018-11-24&g=2018-11-24), blijft de tijd welke de persoon in dienst is geweest bij de rijksoverheid, dan wel een sector van de rijksoverheid, buiten beschouwing bij het vaststellen van de diensttijd voor het gegarandeerd maandelijks inkomen. Diensttijd wordt ook als «aaneengesloten» beschouwd indien deze eenmaal gedurende maximaal een jaar is onderbroken.
+3. In afwijking van de diensttijd als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), blijft de tijd welke de persoon in dienst is geweest bij de rijksoverheid, dan wel een sector van de rijksoverheid, buiten beschouwing bij het vaststellen van de diensttijd voor het gegarandeerd maandelijks inkomen. Diensttijd wordt ook als «aaneengesloten» beschouwd indien deze eenmaal gedurende maximaal een jaar is onderbroken.
 
 4. Op het gegarandeerd maandelijks inkomen worden inkomsten in verband met arbeid of uitoefening van een bedrijf in mindering gebracht indien en voor zover daarmee de vigerende norm volgens de [Wet Openbaarmaking uit de Publieke middelen gefinancierde Topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) wordt overschreden. De persoon, bedoeld in het eerste lid, is verplicht Onze Minister van de inkomsten terstond mededeling te doen.
 
@@ -358,12 +358,18 @@ van het door degene genoten maandsalaris vermeerderd met de maandelijkse opbouw 
 
 ##### Artikel 18a. Bijzondere gevallen
 
-Onze Minister kan van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2018-11-24&g=2018-11-24) en [9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2018-11-24&g=2018-11-24) afwijken voor zover toepassing gelet op het belang van dat deze regelgeving beoogd te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+Onze Minister kan van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01) en [9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01) afwijken voor zover toepassing gelet op het belang van dat deze regelgeving beoogd te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 18b. Overgangsbepaling begripsomschrijving pensioengerechtigde leeftijd
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2018-11-24&g=2018-11-24) wordt verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar, voor de militair aan wie voor 1 januari 2017 ontslag is verleend, of die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010510&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01) wordt verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar, voor de militair aan wie voor 1 januari 2017 ontslag is verleend, of die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18c
+
+Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
