@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 - a. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel A, onder 1.2.K, artikel 1, onderdeel B, onder 1.2.M., of artikel 1, onderdeel D, onder 5.1.B., van die bijlage, door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- b. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, met uitzondering van subonderdeel 1.1.G., van die bijlage, voor zover voor die investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die na 31 december 2013 is ingediend;
+- b. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, met uitzondering van onderdeel D, subonderdeel 1.1.G., van die bijlage, voor zover voor die investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die na 31 december 2013 is ingediend;
 
 - c. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.G., van die bijlage, voor zover aan de belastingplichtige voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), subsidie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die na 31 december 2015 is ingediend;
 
@@ -63,7 +63,7 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2020-01-01&g=2020-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -81,15 +81,15 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 1. De verklaring van de minister, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2019-01-01&g=2019-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2019-01-01&g=2019-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2020-01-01&g=2020-01-01).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2020-01-01&g=2020-01-01), van toepassing is.
 
 ##### Artikel 6
 
-1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2020-01-01&g=2020-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -105,7 +105,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2019-01-01&g=2019-01-01) van de Uitvoeringsregeling energie-investeringsaftrek 2001
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2020-01-01&g=2020-01-01) van de Uitvoeringsregeling energie-investeringsaftrek 2001
 
 ### Artikel 1
 
@@ -449,11 +449,11 @@ Technische voorzieningen die er toe strekken energie te besparen door balanceren
 
 Dit EPA-maatwerkadviesrapport bevat ten minste de volgende gegevens:
 
-Technische voorzieningen die bijdragen aan een toekomstbestendige energievoorziening, door:
+Technische voorzieningen die bijdragen aan een toekomstbestendige energievoorziening of CO2-emissiereductie, door:
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
-Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit:
+Verder moet het plan aan de volgende voorwaarden voldoen:
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
@@ -865,7 +865,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel 2
 
-### F. Investeringen ten behoeve van energietransitie
+### F. Investeringen ten behoeve van energietransitie en CO2-emissiereductie
 
 ### Artikel 2
 
@@ -883,7 +883,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel 3
 
-### G. Energie-advies of een maatwerkadvies zoals dit is vastgelegd in ISSO 75.2.
+### G. Energie-advies of een maatwerkadvies zoals dit is vastgelegd in ISSO 75.2 of CO2-emissiereductieplan.
 
 ### Artikel 4
 
