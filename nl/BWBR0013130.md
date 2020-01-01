@@ -4,7 +4,7 @@ identifier: "BWBR0013130"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2015-01-13"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013130"
 soort: "AMvB"
@@ -48,17 +48,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Ten aanzien van de gerechtsambtenaren, uitgezonderd het niet-rechterlijk lid van een gerechtsbestuur, worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door het bestuur van het gerecht, met dien verstande dat de bevoegdheden in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), en [99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) worden uitgeoefend met inachtneming van het tweede en derde lid.
+1. Het bestuur van een gerecht stelt de Raad voor de rechtspraak in de gelegenheid om advies uit te brengen inzake een ten aanzien van een gerechtsambtenaar, niet zijnde het niet-rechterlijk lid van een gerechtsbestuur, voorgenomen toekenning van een schadeloosstelling, kostenvergoeding of verlening van een geldelijke tegemoetkoming, in het geval de schadeloosstelling, kostenvergoeding of geldelijke tegemoetkoming op jaarbasis meer dan € 5.000 bedraagt. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van het gerecht een afschrift van de vervolgens gedane toekenning aan de Raad voor de rechtspraak.
 
-2. Het bestuur van een gerecht stelt de Raad voor de rechtspraak in de gelegenheid om advies uit te brengen inzake een ten aanzien van een gerechtsambtenaar, niet zijnde het niet-rechterlijk lid van een gerechtsbestuur, voorgenomen besluit tot schadeloosstelling, kostenvergoeding of verlening van een geldelijke tegemoetkoming als bedoeld in [artikel 69, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), in het geval de schadeloosstelling, kostenvergoeding of geldelijke tegemoetkoming op jaarbasis meer dan € 5000 bedraagt. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van het gerecht een afschrift van het vervolgens genomen besluit aan de Raad voor de rechtspraak.
-
-3. Het bestuur van een gerecht dat voornemens is om een gerechtsambtenaar, niet zijnde het niet-rechterlijk lid van een gerechtsbestuur, op basis van [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) ontslag te verlenen, stelt de Raad voor de rechtspraak in de gelegenheid om daarover advies uit te brengen. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van het gerecht een afschrift van het vervolgens op grond van [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) genomen besluit aan de Raad voor de rechtspraak.
-
-4. In afwijking van het eerste lid worden de in de op de Ambtenarenwet berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, alsmede de in [artikel 4 van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003782&artikel=4) aan het bevoegd gezag toegekende bevoegdheid, ten aanzien van de gerechtsambtenaren, uitgezonderd het niet-rechterlijk lid van een gerechtsbestuur, uitgeoefend door de Raad voor de rechtspraak.
+2. Het bestuur van een gerecht dat voornemens is in het kader van de beëindiging van een arbeidsovereenkomst met een gerechtsambtenaar, niet zijnde het niet-rechterlijk lid van een gerechtsbestuur, een overeenkomst te sluiten als bedoeld in [artikel 670b, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670b) met die gerechtsambtenaar, stelt de Raad voor de rechtspraak in de gelegenheid daarover advies uit te brengen. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van een gerecht een afschrift van de overeenkomst aan de Raad voor de rechtspraak.
 
 ##### Artikel 2
 
-Ten aanzien van de ambtenaren die behoren tot het bureau van de Raad voor de rechtspraak of een onder de Raad voor de rechtspraak ressorterende dienst als bedoeld in [artikel 40 van het Besluit financiering rechtspraak 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&artikel=40) worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door de Raad voor de rechtspraak.
+Vervallen
 
 ##### Artikel 3
 
