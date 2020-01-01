@@ -4,7 +4,7 @@ identifier: "BWBR0017895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-03-24"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017895"
 soort: "ministeriele-regeling"
@@ -72,27 +72,33 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Begeleiding als bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), duurt tot maximaal zes maanden na ontslag van de jeugdige uit de inrichting.
+1. Begeleiding als bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), duurt tot maximaal zes maanden na ontslag van de jeugdige uit de inrichting.
 
-2. Begeleiding als bedoeld in [artikel 2, tweede lid, onder a en b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), eindigt op de datum van de strafzitting doch in ieder geval na een termijn van maximaal zes maanden.
+2. Begeleiding als bedoeld in [artikel 2, tweede lid, onder a en b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), eindigt op de datum van de strafzitting doch in ieder geval na een termijn van maximaal zes maanden.
 
-3. Begeleiding als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), duurt tot maximaal zes maanden na beëindiging van de taakstraf.
+3. Begeleiding als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), duurt tot maximaal zes maanden na beëindiging van de taakstraf.
 
-4. De termijn van de begeleiding, bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), kan eenmaal met zes maanden worden verlengd op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming.
+4. De termijn van de begeleiding, bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), kan eenmaal met zes maanden worden verlengd op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming.
 
-5. De termijn van de begeleiding, bedoeld in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), kan op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming worden verlengd.
+5. De termijn van de begeleiding, bedoeld in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), kan op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming worden verlengd.
 
 ##### Artikel 4
 
-1. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), vangen drie à zes maanden voor het tijdstip waarop de jeugdige de inrichting zal verlaten aan.
+1. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), vangen drie à zes maanden voor het tijdstip waarop de jeugdige de inrichting zal verlaten aan.
 
-2. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), vangen, indien de begeleidende instantie niet al eerder contact met de jeugdige had, aan vanaf het moment dat de jeugdige zich in detentie bevindt.
+2. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2020-01-01&g=2020-01-01), vangen, indien de begeleidende instantie niet al eerder contact met de jeugdige had, aan vanaf het moment dat de jeugdige zich in detentie bevindt.
 
 ##### Artikel 5
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.
+Deze regeling berust op [artikel 6:1:25, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25).
 
 ##### Artikel 6
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vrijwillige begeleiding jeugdreclassering.
 
