@@ -4,7 +4,7 @@ identifier: "BWBR0006481"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2006-06-25"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006481"
 soort: "ministeriele-regeling"
@@ -89,7 +89,7 @@ Vervallen
 
 ##### Artikel 6
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=2&z=2006-06-25&g=2006-06-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=3&artikel=4&z=2006-06-25&g=2006-06-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=4&artikel=5&z=2006-06-25&g=2006-06-25) bedoelde personen genieten in verband met de in die artikelen bedoelde werkzaamheden, een vergoeding voor reis- en verblijfkosten op de voet van het bepaalde in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006481&paragraaf=4&artikel=5&z=2020-01-01&g=2020-01-01) bedoelde personen genieten in verband met de in die artikelen bedoelde werkzaamheden, een vergoeding voor reis- en verblijfskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 #### Paragraaf 6. Slotbepalingen
 
