@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -155,7 +155,7 @@ Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/
 
 ##### Artikel 2d
 
-Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) in ieder geval sprake indien:
+Voor de toepassing van [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de belastingplichtige geacht het aanmerkelijk belang niet te houden met als hoofddoel of een van de hoofddoelen om de heffing van inkomstenbelasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
 
 - a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de belastingplichtige woont of feitelijk is gevestigd in de staat waarin de belastingplichtige is gevestigd;
 
@@ -169,7 +169,7 @@ Ingeval de belastingplichtige een relatie legt tussen activiteiten van lichamen 
 
 - f. in de staat, bedoeld in onderdeel a, de boekhouding van de belastingplichtige wordt gevoerd;
 
-- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden ten behoeve van het leggen van de relatie, bedoeld in de aanhef, en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd, en
+- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de belastingplichtige in het licht van zijn aanmerkelijk belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd; en
 
 - h. de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
 
@@ -215,15 +215,29 @@ Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die
 
 ##### Artikel 2e
 
-Met overeenkomstige toepassing van [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2019-01-01&g=2019-01-01) wordt bepaald onder welke omstandigheden in ieder geval sprake is van een door een gecontroleerd lichaam uitgeoefende wezenlijke economische activiteit als bedoeld in [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab). Daarbij wordt gelezen voor:
+1. Voor de toepassing van [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) wordt, tenzij de inspecteur aannemelijk maakt dat slechts aan de in dit lid gestelde voorwaarden wordt voldaan met als hoofddoel of een van de hoofddoelen om in aanmerking te komen voor de uitzondering op de voet van artikel 13ab, vijfde lid, van de wet, een gecontroleerd lichaam geacht een wezenlijke economische activiteit uit te oefenen indien:
 
-- a. de belastingplichtige: het gecontroleerde lichaam of de vaste inrichting;
+- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van het gecontroleerde lichaam woont of feitelijk is gevestigd in de staat waarin het gecontroleerde lichaam is gevestigd;
 
-- b. de werkzaamheden ten behoeve van het leggen van een relatie tussen activiteiten van lichamen binnen een keten: de werkzaamheden van het gecontroleerde lichaam of de vaste inrichting.
+- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van het gecontroleerde lichaam en binnen het kader van de normale concernbemoeienis, over door het gecontroleerde lichaam af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
+
+- c. het gecontroleerde lichaam beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door het gecontroleerde lichaam af te sluiten transacties;
+
+- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van het gecontroleerde lichaam worden genomen;
+
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van het gecontroleerde lichaam worden aangehouden;
+
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van het gecontroleerde lichaam wordt gevoerd;
+
+- g. het gecontroleerde lichaam een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden van het gecontroleerde lichaam en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin het gecontroleerde lichaam is gevestigd; en
+
+- h. het gecontroleerde lichaam gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden van het gecontroleerde lichaam en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
+
+2. Het eerste lid is van overeenkomstige toepassing op aan een vaste inrichting toerekenbare besmette voordelen als bedoeld in [artikel 15e, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), met dien verstande dat daarbij voor gecontroleerd lichaam wordt gelezen: vaste inrichting.
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
 
-De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2019-01-01&g=2019-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2020-01-01&g=2020-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -254,7 +268,7 @@ De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.
 | Slovenië | 80% |
 | Slowakije | 70% |
 | Spanje | 90% |
-| Tsjechië | 60% |
+| Tsjechië | 70% |
 | Verenigd Koninkrijk | 100% |
 | Zweden | 100% |
 | Zwitserland | 100% |
