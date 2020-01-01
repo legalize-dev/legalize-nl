@@ -4,7 +4,7 @@ identifier: "BWBR0038414"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-01-01"
-last_updated: "2016-08-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038414"
 soort: "zbo"
@@ -55,7 +55,7 @@ Indien degene, aan wie een uitkering in de zin van de [Wet werk en inkomen naar 
 
 ##### Artikel 3
 
-Indien degene, aan wie een uitkering in de zin van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is toegekend, een bijdrage verschuldigd is voor de aanspraak op beschermd wonen als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), betaalt UWV na ontvangst van een daartoe strekkend inhoudingsverzoek, de uitkering tot het bedrag van die bijdrage, in plaats van aan degene aan wie de uitkering is toegekend, zonder diens machtiging uit aan het CAK.
+Indien degene, aan wie een uitkering in de zin van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is toegekend, een bijdrage verschuldigd is voor de aan hem toegekende maatwerkvoorziening of persoonsgebonden budget voor beschermd wonen als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), betaalt UWV na ontvangst van een daartoe strekkend inhoudingsverzoek, de uitkering tot het bedrag van die bijdrage, in plaats van aan degene aan wie de uitkering is toegekend, zonder diens machtiging uit aan het CAK.
 
 ##### Artikel 4
 
