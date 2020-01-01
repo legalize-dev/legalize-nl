@@ -4,7 +4,7 @@ identifier: "BWBR0032029"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032029"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Wijzigt de Regeling modellen en formulieren ten behoeve van de handhaving Justit
 
 ##### Artikel 5
 
-Tot 1 januari 2013 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling vervaardigde modellen en formulieren nog worden gebruikt. Dit betreft de combibonnen die zijn vervaardigd conform het vastgestelde model bij de laatste wijziging van de [Regeling modellen en formulieren ten behoeve van de handhaving Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0013829) (Stcrt. 2011, 10909).
+Deze regeling berust mede op [artikel 4:11 van het Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:11).
 
 ##### Artikel 6
 
