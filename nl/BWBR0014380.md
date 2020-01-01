@@ -4,7 +4,7 @@ identifier: "BWBR0014380"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2016-06-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014380"
 soort: "KB"
@@ -52,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding welke is gebaseerd op een arbeidsduurfactor van 0,079, berekend over het maximum van schaal 18 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding welke is gebaseerd op een arbeidsduurfactor van 0,079, berekend over het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 3
 
-De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van 3% van het maximum van schaal 17 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630). Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
+De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van 3% van het maximum van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn. Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
 
 ##### Artikel 4
 
@@ -64,7 +64,7 @@ Het bestuur kan op grond van [artikel 8 van de Wet op de rechtsbijstand](https:/
 
 ##### Artikel 5
 
-De voorzitter en de leden van de raad van advies en de onder het bestuur ressorterende commissies hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+De voorzitter en de leden van de raad van advies en de onder het bestuur ressorterende commissies hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 6
 
