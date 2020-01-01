@@ -4,7 +4,7 @@ identifier: "BWBR0034176"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2018-09-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034176"
 soort: "wet"
@@ -46,7 +46,7 @@ Er is een Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
 2. De medewerkers van het bureau leggen voor hun werkzaamheden uitsluitend verantwoording af aan de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
-3. Op voordracht van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen voorziet Onze Minister van Veiligheid en Justitie in de benoeming, bevordering en het ontslag van de medewerkers van het bureau.
+3. Onze Minister van Justitie en Veiligheid sluit, wijzigt en beëindigt arbeidsovereenkomsten met de medewerkers van het bureau op verzoek van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
 4. Onze Minister van Veiligheid en Justitie draagt, na overleg met de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
@@ -78,7 +78,7 @@ De Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen vervult z
 
 ##### Artikel 7
 
-1. De rapporten, genoemd in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=5&z=2018-09-19&g=2018-09-19), bevatten in ieder geval:
+1. De rapporten, genoemd in [artikel 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=5&z=2020-01-01&g=2020-01-01), bevatten in ieder geval:
 
 - a. een verantwoording van de wijze van onderzoek;
 
