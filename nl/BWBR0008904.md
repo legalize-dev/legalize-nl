@@ -4,7 +4,7 @@ identifier: "BWBR0008904"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008904"
 soort: "wet"
@@ -51,11 +51,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. raad van toezicht: raad van toezicht, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01);
+- b. raad van toezicht: raad van toezicht, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01);
 
-- c. raad van advies: raad van advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=2&artikel=9&z=2019-01-01&g=2019-01-01);
+- c. raad van advies: raad van advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=2&artikel=9&z=2020-01-01&g=2020-01-01);
 
-- d. directeur: directeur, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01);
+- d. directeur: directeur, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=13&z=2020-01-01&g=2020-01-01);
 
 - e. object: terrein, gebouw, complex van gebouwen, of water, dan wel een combinatie van één of meer terreinen, gebouwen, complexen van gebouwen of één of meer waters, met bestaande dan wel potentieel aanwezige natuurwetenschappelijke, bosbouwkundige, landschappelijke, recreatieve, archeologische, aardkundige of cultuurhistorische waarden, dan wel met die waarden verband houdende bestaande of potentieel aanwezige educatieve waarden.
 
@@ -99,7 +99,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De raad van toezicht ziet toe op de werkzaamheden van de directeur en staat hem met raad en daad terzijde.
 
-3. Bij de vervulling van zijn taak richt de raad van toezicht zich naar het belang van de behoorlijke vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01).
+3. Bij de vervulling van zijn taak richt de raad van toezicht zich naar het belang van de behoorlijke vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5
 
@@ -113,7 +113,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De voorzitter en de overige leden van de raad van toezicht worden op voordracht van Onze Minister bij koninklijk besluit benoemd, geschorst en ontslagen.
 
-2. Het medezeggenschapsorgaan, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), kan aan Onze Minister personen voor plaatsing op de voordracht aanbevelen. Onze Minister deelt hem daartoe tijdig mede wanneer en ten gevolge waarvan in de raad van toezicht een plaats moet worden vervuld.
+2. Het medezeggenschapsorgaan, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=13&z=2020-01-01&g=2020-01-01), kan aan Onze Minister personen voor plaatsing op de voordracht aanbevelen. Onze Minister deelt hem daartoe tijdig mede wanneer en ten gevolge waarvan in de raad van toezicht een plaats moet worden vervuld.
 
 3. Onze Minister geeft aan het medezeggenschapsorgaan kennis van een voorgenomen voordracht. Binnen acht weken na verzending van deze kennisgeving kan het medezeggenschapsorgaan bezwaar maken tegen benoeming van de voor te dragen persoon op grond van de verwachting dat die persoon ongeschikt zal zijn voor de vervulling van de taak van lid van de raad van toezicht, of dat de raad bij benoeming van die persoon niet naar behoren zal zijn samengesteld.
 
@@ -137,13 +137,13 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 2. Goedkeuring door de raad van toezicht behoeven in ieder geval:
 
-- a. het reglement, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=IV&artikel=15&z=2019-01-01&g=2019-01-01);
+- a. het reglement, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=IV&artikel=15&z=2020-01-01&g=2020-01-01);
 
 - b. het jaarplan en de begroting;
 
 - c. het doen van investeringen die een door de raad van toezicht vast te stellen bedrag te boven gaan;
 
-- d. het verrichten van werkzaamheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01);
+- d. het verrichten van werkzaamheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01);
 
 - e. het aangaan of verbreken van duurzame samenwerking met een andere rechtspersoon, indien deze samenwerking of verbreking van ingrijpende betekenis is voor Staatsbosbeheer;
 
@@ -159,7 +159,7 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 1. Staatsbosbeheer heeft een raad van advies.
 
-2. De raad van advies adviseert de directeur desgevraagd of uit eigen beweging teneinde de taakuitvoering door Staatsbosbeheer, binnen de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01) gestelde grenzen, aan te doen sluiten bij de wensen en inzichten van de gebruikers van door Staatsbosbeheer beheerde objecten ten aanzien van het te voeren beheer.
+2. De raad van advies adviseert de directeur desgevraagd of uit eigen beweging teneinde de taakuitvoering door Staatsbosbeheer, binnen de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01) gestelde grenzen, aan te doen sluiten bij de wensen en inzichten van de gebruikers van door Staatsbosbeheer beheerde objecten ten aanzien van het te voeren beheer.
 
 ##### Artikel 10
 
@@ -167,7 +167,7 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 - a. de verschillende belangen van de gebruikers van de door Staatsbosbeheer beheerde objecten daarin op evenwichtige wijze zijn vertegenwoordigd, en
 
-- b. recht gedaan wordt aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01), bedoelde waarden.
+- b. recht gedaan wordt aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde waarden.
 
 2. De leden van de raad van advies wijzen uit hun midden een plaatsvervangend voorzitter aan.
 
@@ -177,7 +177,7 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 2. De leden van de raad van advies worden benoemd voor een periode van twee jaren. Zij kunnen ten hoogste eenmaal worden herbenoemd.
 
-3. [Artikel 6, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
+3. [Artikel 6, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -189,11 +189,11 @@ De raad van toezicht kan aan de leden van de raad van advies, ten laste van Staa
 
 1. Staatsbosbeheer heeft een directeur.
 
-2. De directeur is belast met de dagelijkse leiding van Staatsbosbeheer en is verantwoording schuldig aan de raad van toezicht. Hij draagt zorg voor de goede uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01).
+2. De directeur is belast met de dagelijkse leiding van Staatsbosbeheer en is verantwoording schuldig aan de raad van toezicht. Hij draagt zorg voor de goede uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01).
 
 3. De directeur vertegenwoordigt Staatsbosbeheer in en buiten rechte.
 
-4. De directeur stelt een medezeggenschapsorgaan dat de bevoegdheden uitoefent, daaraan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-01-01&g=2019-01-01) toegekend, in.
+4. De directeur stelt een medezeggenschapsorgaan dat de bevoegdheden uitoefent, daaraan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01) toegekend, in.
 
 ##### Artikel 14
 
@@ -209,15 +209,15 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ##### Artikel 16
 
-1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2019-01-01&g=2019-01-01) is de rechtspositie van de directeur en de overige personeelsleden van Staatsbosbeheer overeenkomstig de regels die gelden voor ambtenaren die zijn aangesteld bij de ministeries, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken, deze bevoegdheid wordt uitgeoefend door de directeur.
+1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2020-01-01&g=2020-01-01) gelden voor de directeur en de overige personeelsleden van Staatsbosbeheer de arbeidsvoorwaarden die zijn opgenomen in de collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het ministerie, waaronder Staatsbosbeheer ressorteert.
 
-2. Bij of krachtens algemene maatregel van bestuur kan zo nodig worden afgeweken van de in het eerste lid bedoelde regels.
+2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald voor welke aangelegenheden van het eerste lid kan worden afgeweken.
 
 ### HOOFDSTUK VI. PRESTATIE-AFSPRAKEN
 
 ##### Artikel 17
 
-1. Onze Minister en Staatsbosbeheer voeren tenminste jaarlijks overleg omtrent de door Staatsbosbeheer, ter uitvoering van zijn in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01) bedoelde taakopdracht, te bereiken resultaten en de daarvoor door Onze Minister, ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, jaarlijks ter beschikking te stellen geldmiddelen.
+1. Onze Minister en Staatsbosbeheer voeren tenminste jaarlijks overleg omtrent de door Staatsbosbeheer, ter uitvoering van zijn in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01) bedoelde taakopdracht, te bereiken resultaten en de daarvoor door Onze Minister, ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, jaarlijks ter beschikking te stellen geldmiddelen.
 
 2. Het in het eerste lid bedoelde overleg heeft mede betrekking op het door Staatsbosbeheer verstrekken van inlichtingen en het afleggen van verantwoording over de mate waarin die prestaties worden geleverd.
 
@@ -229,11 +229,11 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ##### Artikel 18
 
-1. Onze Minister stelt jaarlijks aan Staatsbosbeheer ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit geldmiddelen ter beschikking. Hij baseert zich hierbij op het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=VI&artikel=17&z=2019-01-01&g=2019-01-01) bedoelde overleg.
+1. Onze Minister stelt jaarlijks aan Staatsbosbeheer ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit geldmiddelen ter beschikking. Hij baseert zich hierbij op het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=VI&artikel=17&z=2020-01-01&g=2020-01-01) bedoelde overleg.
 
 2. Onverminderd het eerste lid, verwerft Staatsbosbeheer geldmiddelen door het aanvaarden van geldmiddelen van derden, door het aanvaarden van schenkingen, erfstellingen en legaten, door inkomsten uit eigen beheer, en uit andere hoofde.
 
-3. Staatsbosbeheer gebruikt de geldmiddelen, bedoeld in het eerste en tweede lid, uitsluitend ter vervulling van de taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01).
+3. Staatsbosbeheer gebruikt de geldmiddelen, bedoeld in het eerste en tweede lid, uitsluitend ter vervulling van de taken, voortvloeiend uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01).
 
 4. Staatsbosbeheer is bevoegd financiële reserves te vormen, met dien verstande dat Onze Minister kan besluiten dat Staatsbosbeheer slechts financiële reserves kan vormen tot een door hem vast te stellen maximum bedrag.
 
@@ -293,7 +293,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ##### Artikel 24
 
-Indien Staatsbosbeheer zijn taken, voortvloeiend uit [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01), naar het oordeel van Onze Minister verwaarloost, kan deze al die maatregelen nemen die hij met het oog op de continuïteit van de werkzaamheden of beperking van de schade noodzakelijk acht. Onze Minister doet hiervan terstond mededeling aan de Staten-Generaal.
+Indien Staatsbosbeheer zijn taken, voortvloeiend uit [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), naar het oordeel van Onze Minister verwaarloost, kan deze al die maatregelen nemen die hij met het oog op de continuïteit van de werkzaamheden of beperking van de schade noodzakelijk acht. Onze Minister doet hiervan terstond mededeling aan de Staten-Generaal.
 
 ### HOOFDSTUK XI. WIJZIGING VAN ANDERE WETTEN
 
@@ -309,7 +309,7 @@ Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel 27
 
-In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2019-01-01&g=2019-01-01) geschiedt de eerste benoeming van de directeur door Onze Minister, zonder dat de raad van toezicht een voordracht daartoe doet.
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2020-01-01&g=2020-01-01) geschiedt de eerste benoeming van de directeur door Onze Minister, zonder dat de raad van toezicht een voordracht daartoe doet.
 
 ##### Artikel 28
 
