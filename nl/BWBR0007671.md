@@ -4,7 +4,7 @@ identifier: "BWBR0007671"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007671"
 soort: "wet"
@@ -96,21 +96,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1:4
 
-1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een collectieve regeling als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01) gelijkgesteld een regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met het medezeggenschapsorgaan.
+1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met een collectieve regeling als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01) gelijkgesteld een regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met het medezeggenschapsorgaan.
 
-2. Indien zowel een regeling als bedoeld in het eerste lid, als een collectieve regeling als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01) gelden, zijn de in die regelingen gegeven bepalingen naast elkaar van toepassing. In geval van strijd zijn de bepalingen in de collectieve regeling, bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01), van toepassing.
+2. Indien zowel een regeling als bedoeld in het eerste lid, als een collectieve regeling als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01) gelden, zijn de in die regelingen gegeven bepalingen naast elkaar van toepassing. In geval van strijd zijn de bepalingen in de collectieve regeling, bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01), van toepassing.
 
 #### Werkingsduur van de collectieve regeling
 
 ##### Artikel 1:5
 
-1. Voor de toepassing van deze wet en de daarop berustende bepalingen geldt een collectieve regeling als bedoeld in de [artikelen 1:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01), en [1:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:4&z=2018-01-01&g=2018-01-01), gedurende 5 jaren, te rekenen van het tijdstip waarop die regeling ingaat. Bij wijziging van de in de eerste volzin bedoelde collectieve regeling binnen 5 jaren na inwerkingtreding, wordt het in de eerste volzin bedoelde tijdvak beëindigd op het tijdstip van inwerkingtreding van de gewijzigde collectieve regeling.
+1. Voor de toepassing van deze wet en de daarop berustende bepalingen geldt een collectieve regeling als bedoeld in de [artikelen 1:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01), en [1:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:4&z=2020-01-01&g=2020-01-01), gedurende 5 jaren, te rekenen van het tijdstip waarop die regeling ingaat. Bij wijziging van de in de eerste volzin bedoelde collectieve regeling binnen 5 jaren na inwerkingtreding, wordt het in de eerste volzin bedoelde tijdvak beëindigd op het tijdstip van inwerkingtreding van de gewijzigde collectieve regeling.
 
-2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing op de collectieve regeling als bedoeld in [artikel 1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01), met dien verstande dat:
+2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing op de collectieve regeling als bedoeld in [artikel 1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01), met dien verstande dat:
 
 - a. bij de inwerkingtreding van een overeenkomstige nieuwe collectieve regeling binnen 5 jaren na inwerkingtreding van de in de aanhef bedoelde collectieve regeling, het in de eerste volzin van het eerste lid bedoelde tijdvak wordt beëindigd;
 
-- b. deze regeling te allen tijde eindigt op het tijdstip, dat er geen overeenkomstige collectieve regeling als bedoeld in [artikel 1:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2018-01-01&g=2018-01-01), geldt op grond van het eerste lid, eerste volzin.
+- b. deze regeling te allen tijde eindigt op het tijdstip, dat er geen overeenkomstige collectieve regeling als bedoeld in [artikel 1:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=1&artikel=1:3&z=2020-01-01&g=2020-01-01), geldt op grond van het eerste lid, eerste volzin.
 
 #### Het begrip medezeggenschapsorgaan
 
@@ -122,7 +122,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - b. een personeelsvertegenwoordiging als bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747);
 
-- c. een medezeggenschapscommissie ingesteld op grond van de krachtens de [artikelen 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gestelde regels;
+- c. een medezeggenschapscommissie ingesteld op grond van de krachtens de [artikelen 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gestelde regels;
 
 - d. het uit en door het personeel gekozen deel van:
 
@@ -144,7 +144,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - b. defensiepersoneel:
 
-- 1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van [artikel 1, eerste lid, onderdelen a en b, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
+- 1°. de in werkelijke dienst zijnde militaire ambtenaren in de zin van [artikel 1, eerste lid, onderdelen a en b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
 
 - 2°. de in werkelijke dienst zijnde dienstplichtigen in de zin van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=19) en [21 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=21);
 
@@ -160,7 +160,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - g. consignatie: een periode tussen twee opeenvolgende diensten of tijdens een pauze, waarin de werknemer uitsluitend verplicht is bereikbaar te zijn om in geval van onvoorziene omstandigheden op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;
 
-- h. toezichthouder: de toezichthouder, bedoeld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), en als zodanig aangewezen op grond van [artikel 8:1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01);
+- h. toezichthouder: de toezichthouder, bedoeld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), en als zodanig aangewezen op grond van [artikel 8:1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01);
 
 - i. Verordening (EG) nr. 561/2006: Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van Verordeningen (EEG) nr. 3821/85 en (EG) nr. 2135/98 van de Raad en tot intrekking van Verordening (EEG) nr. 3820/85 van de Raad (PbEU L 102);
 
@@ -224,7 +224,7 @@ Deze wet en de daarop berustende bepalingen zijn niet van toepassing op verricht
 
 - d. inzake aangelegenheden die rechtstreeks betrekking hebben op de omstandigheden bedoeld in de onderdelen a, b en c.
 
-3. Deze wet en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&z=2018-01-01&g=2018-01-01), niet van toepassing op arbeid verricht door defensiepersoneel:
+3. Deze wet en de daarop berustende bepalingen zijn, met uitzondering van [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&z=2020-01-01&g=2020-01-01), niet van toepassing op arbeid verricht door defensiepersoneel:
 
 - a. tijdens varen, vliegen en oefeningen;
 
@@ -250,7 +250,7 @@ Vervallen
 
 1. Bij algemene maatregel van bestuur kan worden bepaald, dat voor de bij die maatregel en de daarop berustende bepalingen omschreven arbeid of arbeid onder daarbij omschreven omstandigheden, deze wet en de daarop berustende bepalingen geheel of gedeeltelijk mede moeten worden nageleefd door een persoon die, zonder werkgever of werknemer te zijn in de zin van deze wet, deze arbeid verricht, indien zulks noodzakelijk is ter voorkoming van ernstig gevaar voor de veiligheid of de gezondheid van andere personen.
 
-2. [Artikel 2:8, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:8&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+2. [Artikel 2:8, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:8&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 #### Extra-territoriale werking
 
@@ -324,7 +324,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 ##### Artikel 3:3
 
-1. De toezichthouder, bedoeld in [artikel 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), kan ontheffing verlenen van [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), ten aanzien van het door een kind verrichten van arbeid, bestaande uit het verlenen van medewerking aan uitvoeringen van culturele, wetenschappelijke, opvoedkundige of artistieke aard, aan modeshows, aan audio-, visuele of audio-visuele opnamen en daarmee vergelijkbare niet-industriële arbeid van lichte aard. Een verzoek om ontheffing wordt gedaan door de werkgever.
+1. De toezichthouder, bedoeld in [artikel 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), kan ontheffing verlenen van [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), ten aanzien van het door een kind verrichten van arbeid, bestaande uit het verlenen van medewerking aan uitvoeringen van culturele, wetenschappelijke, opvoedkundige of artistieke aard, aan modeshows, aan audio-, visuele of audio-visuele opnamen en daarmee vergelijkbare niet-industriële arbeid van lichte aard. Een verzoek om ontheffing wordt gedaan door de werkgever.
 
 2. De werkgever leeft de voorschriften verbonden aan de ontheffing na.
 
@@ -338,11 +338,11 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 ##### Artikel 3:5
 
-1. Bij de in [artikel 3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), toegestane arbeid neemt de verantwoordelijke persoon te allen tijde in acht, dat bij de aldaar toegestane arbeid, de veiligheid van het kind niet in gevaar komt, noch arbeid wordt verricht welke een nadelige invloed kan uitoefenen op de lichamelijke of geestelijke ontwikkeling van dat kind.
+1. Bij de in [artikel 3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), toegestane arbeid neemt de verantwoordelijke persoon te allen tijde in acht, dat bij de aldaar toegestane arbeid, de veiligheid van het kind niet in gevaar komt, noch arbeid wordt verricht welke een nadelige invloed kan uitoefenen op de lichamelijke of geestelijke ontwikkeling van dat kind.
 
-2. Bij het stellen van de nadere regels, bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), en het verlenen van een ontheffing als bedoeld in [artikel 3:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2018-01-01&g=2018-01-01), wordt te allen tijde in acht genomen, dat bij de aldaar toegestane arbeid, de veiligheid van het kind niet in gevaar komt, noch arbeid wordt verricht welke een nadelige invloed kan uitoefenen op de lichamelijke of geestelijke ontwikkeling van dat kind.
+2. Bij het stellen van de nadere regels, bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), en het verlenen van een ontheffing als bedoeld in [artikel 3:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2020-01-01&g=2020-01-01), wordt te allen tijde in acht genomen, dat bij de aldaar toegestane arbeid, de veiligheid van het kind niet in gevaar komt, noch arbeid wordt verricht welke een nadelige invloed kan uitoefenen op de lichamelijke of geestelijke ontwikkeling van dat kind.
 
-3. Bij het stellen van de nadere regels, bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), en het verlenen van een ontheffing als bedoeld in [artikel 3:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2018-01-01&g=2018-01-01), wordt te allen tijde in acht genomen, dat een kind een onafgebroken rusttijd heeft van ten minste 12 uren in elke aaneengesloten periode van 24 uren, waarin is begrepen de periode tussen 23.00 uur en 06.00 uur.
+3. Bij het stellen van de nadere regels, bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), en het verlenen van een ontheffing als bedoeld in [artikel 3:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2020-01-01&g=2020-01-01), wordt te allen tijde in acht genomen, dat een kind een onafgebroken rusttijd heeft van ten minste 12 uren in elke aaneengesloten periode van 24 uren, waarin is begrepen de periode tussen 23.00 uur en 06.00 uur.
 
 ### Hoofdstuk 4. Algemene verplichtingen
 
@@ -372,21 +372,21 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 2. Indien een bepaling inzake de tijdigheid, bedoeld in de tweede zin van het eerste lid, ontbreekt, deelt de werkgever het arbeids- en rusttijdenpatroon ten minste 28 dagen van te voren aan de werknemer mee.
 
-3. Indien in verband met de aard van de arbeid toepassing van het tweede lid onmogelijk is, deelt de werkgever ten minste 28 dagen van te voren aan de werknemer mee op welke dag de rusttijd, bedoeld in de [artikelen 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2018-01-01&g=2018-01-01) en [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:6&z=2018-01-01&g=2018-01-01), begint. Tevens maakt hij aan die werknemer ten minste 4 dagen van te voren de tijdstippen bekend waarop hij arbeid moet verrichten.
+3. Indien in verband met de aard van de arbeid toepassing van het tweede lid onmogelijk is, deelt de werkgever ten minste 28 dagen van te voren aan de werknemer mee op welke dag de rusttijd, bedoeld in de [artikelen 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2020-01-01&g=2020-01-01) en [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:6&z=2020-01-01&g=2020-01-01), begint. Tevens maakt hij aan die werknemer ten minste 4 dagen van te voren de tijdstippen bekend waarop hij arbeid moet verrichten.
 
 #### Mededeling arbeids- en rusttijdenpatroon
 
 ##### Artikel 4:3
 
-1. Een werkgever en een persoon als bedoeld in [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), voert een deugdelijke registratie terzake van de arbeids- en rusttijden welke het toezicht op de naleving van deze wet en de daarop berustende bepalingen mogelijk maakt.
+1. Een werkgever en een persoon als bedoeld in [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), voert een deugdelijke registratie terzake van de arbeids- en rusttijden welke het toezicht op de naleving van deze wet en de daarop berustende bepalingen mogelijk maakt.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld welke aangeven op welke wijze aan de in het eerste lid neergelegde verplichting wordt voldaan. Deze regels kunnen voor verschillende sectoren verschillend worden gesteld.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het door de werknemer en de persoon, bedoeld in [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), houden van een middel terzake van een deugdelijke registratie, de wijze waarop een middel terzake van een deugdelijke registratie wordt gebruikt alsmede de aanvraag van dit middel.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het door de werknemer en de persoon, bedoeld in [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), houden van een middel terzake van een deugdelijke registratie, de wijze waarop een middel terzake van een deugdelijke registratie wordt gebruikt alsmede de aanvraag van dit middel.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het bewaren van de gegevens en bescheiden met betrekking tot de in dit artikel neergelegde registratieverplichting.
 
-5. Indien de algemene maatregel van bestuur, bedoeld in het tweede tot en met vierde lid, betrekking heeft op de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), onderscheiden categorieën van arbeid, wordt de voordracht van die algemene maatregel van bestuur Ons gedaan door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.
+5. Indien de algemene maatregel van bestuur, bedoeld in het tweede tot en met vierde lid, betrekking heeft op de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), onderscheiden categorieën van arbeid, wordt de voordracht van die algemene maatregel van bestuur Ons gedaan door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.
 
 #### § 4.2. Jeugdige werknemers
 
@@ -396,7 +396,7 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 1. De arbeid van een jeugdige werknemer wordt zodanig ingericht, dat hij in staat is volgens de voor hem geldende wetgeving onderwijs te volgen.
 
-2. Voor de toepassing van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&z=2018-01-01&g=2018-01-01) en de daarop berustende bepalingen geldt de tijd waarop een jeugdige werknemer onderwijs volgt of pleegt te volgen, de onderbrekingen inbegrepen, als arbeidstijd.
+2. Voor de toepassing van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&z=2020-01-01&g=2020-01-01) en de daarop berustende bepalingen geldt de tijd waarop een jeugdige werknemer onderwijs volgt of pleegt te volgen, de onderbrekingen inbegrepen, als arbeidstijd.
 
 3. Elk beding waarbij ten nadele van de jeugdige werknemer wordt afgeweken van dit artikel, is nietig.
 
@@ -408,7 +408,7 @@ De werkgever zorgt ervoor dat een ieder, die over een kind het ouderlijk gezag o
 
 1. De arbeid van een zwangere werknemer wordt zodanig ingericht, dat rekening wordt gehouden met haar specifieke omstandigheden. De werkgever voldoet, met inachtneming van het tweede tot en met vijfde lid, aan de voor hem uit de eerste volzin voortvloeiende verplichting binnen een redelijke termijn nadat een verzoek daartoe door de zwangere werknemer is gedaan. Bij dit verzoek wordt desgevraagd een schriftelijke verklaring overgelegd van een geneeskundige of een verloskundige waaruit blijkt, dat de betrokken werknemer zwanger is.
 
-2. De zwangere werknemer heeft het recht de arbeid af te wisselen met één of meer pauzes buiten die bedoeld in [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2018-01-01&g=2018-01-01) of de bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01) voorgeschreven pauzes. Deze extra pauze onderscheidenlijk pauzes bedragen tezamen ten hoogste één achtste deel van de voor haar geldende arbeidstijd per dienst. De in de vorige volzin bedoelde pauzes gelden voor de toepassing van deze wet en de daarop berustende bepalingen als arbeidstijd.
+2. De zwangere werknemer heeft het recht de arbeid af te wisselen met één of meer pauzes buiten die bedoeld in [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2020-01-01&g=2020-01-01) of de bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01) voorgeschreven pauzes. Deze extra pauze onderscheidenlijk pauzes bedragen tezamen ten hoogste één achtste deel van de voor haar geldende arbeidstijd per dienst. De in de vorige volzin bedoelde pauzes gelden voor de toepassing van deze wet en de daarop berustende bepalingen als arbeidstijd.
 
 3. De zwangere werknemer heeft het recht arbeid te verrichten in een bestendig en regelmatig arbeids- en rusttijdenpatroon.
 
@@ -440,7 +440,7 @@ De werkgever organiseert de arbeid zodanig, dat een vrouwelijke werknemer:
 
 ##### Artikel 4:7
 
-[Artikel 4:5, met uitzondering van het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&artikel=4:5&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing ten aanzien van een vrouwelijke werknemer gedurende een periode van 6 maanden na de bevalling.
+[Artikel 4:5, met uitzondering van het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&artikel=4:5&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing ten aanzien van een vrouwelijke werknemer gedurende een periode van 6 maanden na de bevalling.
 
 #### Arbeid na bevalling
 
@@ -566,9 +566,9 @@ Bij toepassing van de aanhef en onderdeel a van de vorige zin, verricht de werkn
 
 ##### Artikel 5:8
 
-1. In afwijking van [artikel 5:7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), organiseert de werkgever, behoudens het derde lid, de arbeid zodanig, dat een werknemer ten hoogste arbeid verricht gedurende 10 uren per nachtdienst.
+1. In afwijking van [artikel 5:7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), organiseert de werkgever, behoudens het derde lid, de arbeid zodanig, dat een werknemer ten hoogste arbeid verricht gedurende 10 uren per nachtdienst.
 
-2. In elke periode van 16 aaneengesloten weken waarin een werknemer 16 of meer malen arbeid in een nachtdienst verricht organiseert de werkgever, in afwijking van [artikel 5:7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), de arbeid zodanig dat ten hoogste gemiddeld 40 uren per week arbeid wordt verricht in die periode van 16 aaneengesloten weken.
+2. In elke periode van 16 aaneengesloten weken waarin een werknemer 16 of meer malen arbeid in een nachtdienst verricht organiseert de werkgever, in afwijking van [artikel 5:7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), de arbeid zodanig dat ten hoogste gemiddeld 40 uren per week arbeid wordt verricht in die periode van 16 aaneengesloten weken.
 
 3. In afwijking van het eerste of vierde lid kan de werkgever ten hoogste 5 malen in elke aaneengesloten periode van 14 maal 24 uren, en ten hoogste 22 malen in elke aaneengesloten periode van 52 weken, de arbeid zodanig organiseren dat een werknemer:
 
@@ -610,9 +610,9 @@ Bij toepassing van de aanhef en onderdeel a van de vorige zin, verricht de werkn
 
 - b. 14 aaneengesloten uren na elke nachtdienst.
 
-4. In aanvulling op [artikel 5:7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), organiseert de werkgever de arbeid zodanig, dat de werknemer aan wie consignatie is opgelegd ten hoogste 13 uren in elke periode van 24 aaneengesloten uren arbeid verricht.
+4. In aanvulling op [artikel 5:7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), organiseert de werkgever de arbeid zodanig, dat de werknemer aan wie consignatie is opgelegd ten hoogste 13 uren in elke periode van 24 aaneengesloten uren arbeid verricht.
 
-5. In afwijking van [artikel 5:7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), organiseert de werkgever de arbeid zodanig, dat een werknemer aan wie in een periode van 16 aaneengesloten weken 16 of meer malen consignatie is opgelegd, welke consignatie telkens geheel of gedeeltelijk perioden tussen 00.00 uur en 06.00 uur omvat, in die periode van 16 aaneengesloten weken ten hoogste gemiddeld 40 uren per week arbeid verricht.
+5. In afwijking van [artikel 5:7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), organiseert de werkgever de arbeid zodanig, dat een werknemer aan wie in een periode van 16 aaneengesloten weken 16 of meer malen consignatie is opgelegd, welke consignatie telkens geheel of gedeeltelijk perioden tussen 00.00 uur en 06.00 uur omvat, in die periode van 16 aaneengesloten weken ten hoogste gemiddeld 40 uren per week arbeid verricht.
 
 6. In plaats van het vijfde lid kan de werkgever de arbeid van een werknemer aan wie in een periode van 16 aaneengesloten weken 16 of meer malen consignatie is opgelegd, die telkens geheel of gedeeltelijk perioden tussen 00.00 uur en 06.00 uur omvat, ook zodanig organiseren dat de werknemer:
 
@@ -622,15 +622,15 @@ Bij toepassing van de aanhef en onderdeel a van de vorige zin, verricht de werkn
 
 7. Voor de toepassing van het tweede tot en met zesde lid vangt de arbeid tijdens consignatie aan op het moment van een oproep. Indien binnen een half uur na beëindiging van de arbeid die voortvloeit uit een oproep tijdens consignatie, opnieuw een dergelijke oproep wordt gedaan, is de tussenliggende tijd arbeid. Indien binnen een half uur een of meer malen arbeid voortvloeiend uit een oproep tijdens consignatie wordt verricht, wordt de arbeid geacht ten minste een half uur te bedragen.
 
-8. De arbeid die voortvloeit uit een oproep tijdens consignatie wordt voor de toepassing van de [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2018-01-01&g=2018-01-01), [5:4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2018-01-01&g=2018-01-01), [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2018-01-01&g=2018-01-01), en [5:8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2018-01-01&g=2018-01-01), alsmede van de voorschriften bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01) ten aanzien van de rusttijd en de pauze, buiten beschouwing gelaten.
+8. De arbeid die voortvloeit uit een oproep tijdens consignatie wordt voor de toepassing van de [artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2020-01-01&g=2020-01-01), [5:4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2020-01-01&g=2020-01-01), [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2020-01-01&g=2020-01-01), en [5:8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2020-01-01&g=2020-01-01), alsmede van de voorschriften bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01) ten aanzien van de rusttijd en de pauze, buiten beschouwing gelaten.
 
-9. Op de arbeid die voortvloeit uit een oproep tijdens consignatie is [artikel 5:8, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2018-01-01&g=2018-01-01), en de bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01) gestelde regels ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
+9. Op de arbeid die voortvloeit uit een oproep tijdens consignatie is [artikel 5:8, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2020-01-01&g=2020-01-01), en de bij of krachtens [artikel 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01) gestelde regels ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.
 
 #### Arbeid in nachtdienst
 
 ##### Artikel 5:10
 
-1. Deze paragraaf en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), berustende bepalingen zijn niet van toepassing op een werknemer van 18 jaar en ouder die arbeid verricht in verband met een zich plotseling voordoende onvoorziene situatie waarbij personen ernstig letsel oplopen, dan wel daartoe de onmiddellijke dreiging bestaat, of buitengewoon ernstige schade aan goederen ontstaat, dan wel onmiddellijk dreigt te ontstaan, en die arbeid geen uitstel duldt en door andere maatregelen redelijkerwijs niet is te voorkomen. De [artikelen 5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:6&z=2018-01-01&g=2018-01-01), [5:7, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), en[5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2018-01-01&g=2018-01-01) zijn in afwijking van de eerste zin van toepassing.
+1. Deze paragraaf en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), berustende bepalingen zijn niet van toepassing op een werknemer van 18 jaar en ouder die arbeid verricht in verband met een zich plotseling voordoende onvoorziene situatie waarbij personen ernstig letsel oplopen, dan wel daartoe de onmiddellijke dreiging bestaat, of buitengewoon ernstige schade aan goederen ontstaat, dan wel onmiddellijk dreigt te ontstaan, en die arbeid geen uitstel duldt en door andere maatregelen redelijkerwijs niet is te voorkomen. De [artikelen 5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:6&z=2020-01-01&g=2020-01-01), [5:7, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), en[5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2020-01-01&g=2020-01-01) zijn in afwijking van de eerste zin van toepassing.
 
 2. De eerste zin van het eerste lid geldt slechts voor zover de toepassing van deze wet en de daarop berustende bepalingen een goede uitoefening van de in dat lid bedoelde arbeid belemmert.
 
@@ -646,7 +646,7 @@ Gereserveerd.
 
 ##### Artikel 5:12
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot bepaalde arbeid of arbeid onder bepaalde omstandigheden die afwijken van of strekken tot aanvulling van het bij [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01) bepaalde, ten aanzien van:
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot bepaalde arbeid of arbeid onder bepaalde omstandigheden die afwijken van of strekken tot aanvulling van het bij [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01) bepaalde, ten aanzien van:
 
 - a. de rusttijd;
 
@@ -662,7 +662,7 @@ Gereserveerd.
 
 - g. de consignatie.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen, met uitzondering van arbeid verricht door defensiepersoneel, regels worden gesteld die afwijken van, in de plaats komen van of strekken tot aanvulling van het bij [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01) bepaalde, ten aanzien van arbeid verricht door:
+2. Bij of krachtens algemene maatregel van bestuur kunnen, met uitzondering van arbeid verricht door defensiepersoneel, regels worden gesteld die afwijken van, in de plaats komen van of strekken tot aanvulling van het bij [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01) bepaalde, ten aanzien van arbeid verricht door:
 
 - a. personen, werkzaam in of op railvoertuigen of motorrijtuigen;
 
@@ -680,7 +680,7 @@ Vervallen
 
 ##### Artikel 5:14
 
-1. Onze Minister kan, indien er zich een situatie voordoet die niet gelegen is in functiegebonden omstandigheden van de werknemer van 18 jaar of ouder, maar die voortvloeit uit zeer bijzondere sociaal-maatschappelijke privé-omstandigheden van die werknemer, op verzoek van die werknemer ontheffing verlenen van [artikel 5:8, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2018-01-01&g=2018-01-01), mits het een bestendig en regelmatig arbeids- en rusttijdenpatroon betreft waarbij die werknemer in elke periode van 4 achtereenvolgende weken ten hoogste 20 maal arbeid verricht in nachtdienst.
+1. Onze Minister kan, indien er zich een situatie voordoet die niet gelegen is in functiegebonden omstandigheden van de werknemer van 18 jaar of ouder, maar die voortvloeit uit zeer bijzondere sociaal-maatschappelijke privé-omstandigheden van die werknemer, op verzoek van die werknemer ontheffing verlenen van [artikel 5:8, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2020-01-01&g=2020-01-01), mits het een bestendig en regelmatig arbeids- en rusttijdenpatroon betreft waarbij die werknemer in elke periode van 4 achtereenvolgende weken ten hoogste 20 maal arbeid verricht in nachtdienst.
 
 2. De in het eerste lid bedoelde werknemer legt de ontheffing of een afschrift daarvan over aan zijn werkgever.
 
@@ -690,17 +690,17 @@ Vervallen
 
 ##### Artikel 5:15
 
-1. Indien een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2018-01-01&g=2018-01-01) berustende bepalingen of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid.
+1. Indien een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2020-01-01&g=2020-01-01) berustende bepalingen of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid.
 
-2. Indien een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke hetzij voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), berustende bepalingen, hetzij voortvloeien uit [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01) en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2018-01-01&g=2018-01-01) berustende bepalingen, ten aanzien van dezelfde arbeid van toepassing zijn, en waarbij één van die regels op ten minste driekwart van de arbeid tijdens die dienst van toepassing is met een minimum van ten minste 1 uur, geldt uitsluitend die regel gedurende die gehele dienst.
+2. Indien een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke hetzij voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), berustende bepalingen, hetzij voortvloeien uit [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01) en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2020-01-01&g=2020-01-01) berustende bepalingen, ten aanzien van dezelfde arbeid van toepassing zijn, en waarbij één van die regels op ten minste driekwart van de arbeid tijdens die dienst van toepassing is met een minimum van ten minste 1 uur, geldt uitsluitend die regel gedurende die gehele dienst.
 
-3. Indien het tweede lid niet van toepassing is en een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke hetzij voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), berustende bepalingen, hetzij voortvloeien uit [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01) en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2018-01-01&g=2018-01-01) berustende bepalingen, ten aanzien van dezelfde arbeid van toepassing zijn, en waarbij twee of meer van die regels elk ten minste 1 uur tijdens het verrichten van die arbeid van toepassing zijn, geldt:
+3. Indien het tweede lid niet van toepassing is en een werknemer tijdens een dienst arbeid verricht waarop meerdere regels, welke hetzij voortvloeien uit de op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), berustende bepalingen, hetzij voortvloeien uit [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01) en de op [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2020-01-01&g=2020-01-01) berustende bepalingen, ten aanzien van dezelfde arbeid van toepassing zijn, en waarbij twee of meer van die regels elk ten minste 1 uur tijdens het verrichten van die arbeid van toepassing zijn, geldt:
 
 - a. indien het een jeugdige werknemer betreft, dat hij tijdens die dienst ten hoogste 9 uren arbeid verricht en hij na die dienst een onafgebroken rusttijd heeft van ten minste 12 uren,
 
 - b. indien het een werknemer van 18 jaar of ouder betreft, dat hij tijdens die dienst ten hoogste 12 uren arbeid verricht en hij na die dienst een onafgebroken rusttijd heeft van ten minste 11 uren, welke rusttijd eenmaal in elke aaneengesloten periode van 7 maal 24 uren mag worden ingekort tot ten minste 8 uren, indien de aard van de arbeid of de bedrijfsomstandigheden dit met zich brengen.
 
-4. Indien een werknemer arbeid verricht in een dienst waarop een regel, welke voortvloeit uit een op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2018-01-01&g=2018-01-01) berustende bepaling, of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01), ten aanzien van dezelfde arbeid van toepassing is en deze dienst wordt gevolgd door een dienst waarop een andere regel, welke voortvloeit uit een op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2018-01-01&g=2018-01-01) berustende bepaling, of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2018-01-01&g=2018-01-01), ten aanzien van dezelfde arbeid van toepassing is, geldt:
+4. Indien een werknemer arbeid verricht in een dienst waarop een regel, welke voortvloeit uit een op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2020-01-01&g=2020-01-01) berustende bepaling, of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01), ten aanzien van dezelfde arbeid van toepassing is en deze dienst wordt gevolgd door een dienst waarop een andere regel, welke voortvloeit uit een op [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), of [artikel 5:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), en [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&z=2020-01-01&g=2020-01-01) berustende bepaling, of [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&z=2020-01-01&g=2020-01-01), ten aanzien van dezelfde arbeid van toepassing is, geldt:
 
 - a. indien het een jeugdige werknemer betreft, dat hij tussen deze 2 diensten een onafgebroken rusttijd heeft van ten minste 12 uren,
 
@@ -754,21 +754,21 @@ Voor deze wet en de daarop berustende bepalingen treedt voor de toepassing van d
 
 ##### Artikel 7:2
 
-1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), kan administratief beroep worden ingesteld bij Onze Minister, met uitzondering van beschikkingen die betrekking hebben op:
+1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), kan administratief beroep worden ingesteld bij Onze Minister, met uitzondering van beschikkingen die betrekking hebben op:
 
-- a. arbeid verricht door personen als bedoeld in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), alsmede
+- a. arbeid verricht door personen als bedoeld in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), alsmede
 
-- b. arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid verricht in of op motorrijtuigen als bedoeld in [artikel 5:12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01).
+- b. arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid verricht in of op motorrijtuigen als bedoeld in [artikel 5:12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01).
 
-2. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), [8:3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.2&artikel=8:3a&z=2018-01-01&g=2018-01-01), en [10:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), wordt genomen namens Onze Minister.
+2. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), [8:3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.2&artikel=8:3a&z=2020-01-01&g=2020-01-01), en [10:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), wordt genomen namens Onze Minister.
 
-3. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 8:1, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), en [10:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), voor zover het betreft de arbeid, bedoeld in het eerste lid, onderdelen a en b, wordt genomen namens Onze Minister van Infrastructuur en Milieu.
+3. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 8:1, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), en [10:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), voor zover het betreft de arbeid, bedoeld in het eerste lid, onderdelen a en b, wordt genomen namens Onze Minister van Infrastructuur en Milieu.
 
 #### [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 ##### Artikel 7:3
 
-Bij algemene maatregel van bestuur als bedoeld in de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), kan aan Onze Minister en Onze Minister van Infrastructuur en Milieu tezamen of aan één van beiden de bevoegdheid worden toegekend omtrent het verlenen van vrijstellingen en ontheffingen.
+Bij algemene maatregel van bestuur als bedoeld in de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), kan aan Onze Minister en Onze Minister van Infrastructuur en Milieu tezamen of aan één van beiden de bevoegdheid worden toegekend omtrent het verlenen van vrijstellingen en ontheffingen.
 
 #### Vrijstelling en ontheffing
 
@@ -804,11 +804,11 @@ Vervallen
 
 2. Met betrekking tot door Onze Minister aangewezen categorieën van arbeid zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast of mede belast de door hem aangewezen andere ambtenaren dan de in het eerste lid bedoelde. Indien ambtenaren worden aangewezen die ressorteren onder een andere minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister en die andere minister gezamenlijk. Indien Onze Minister ambtenaren van provincies, gemeenten of waterschappen aanwijst, doet hij dit in overeenstemming met de desbetreffende besturen.
 
-3. In afwijking van het tweede lid wordt het aldaar bedoelde besluit, voor zover het de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), onderscheiden categorieën van arbeid betreft, genomen door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.
+3. In afwijking van het tweede lid wordt het aldaar bedoelde besluit, voor zover het de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), onderscheiden categorieën van arbeid betreft, genomen door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen.
 
 4. Van een aanwijzingsbesluit als bedoeld in de voorgaande leden wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in de bij of krachtens die maatregel te bepalen gevallen en wijze degene die arbeid verricht of doet verrichten in de territoriale zee of de exclusieve economische zone, verplicht is de ambtenaren, bedoeld in het eerste of tweede lid, bij de uitoefening van hun bevoegdheden te vervoeren naar door deze ambtenaren aan te duiden plaatsen waar deze arbeid wordt of zal worden verricht. [Artikel 4:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in de bij of krachtens die maatregel te bepalen gevallen en wijze degene die arbeid verricht of doet verrichten in de territoriale zee of de exclusieve economische zone, verplicht is de ambtenaren, bedoeld in het eerste of tweede lid, bij de uitoefening van hun bevoegdheden te vervoeren naar door deze ambtenaren aan te duiden plaatsen waar deze arbeid wordt of zal worden verricht. [Artikel 4:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 #### § 8.1. Toezicht
 
@@ -816,9 +816,9 @@ Vervallen
 
 ##### Artikel 8:2
 
-1. Een toezichthouder kan bevelen, dat, indien [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), naar zijn oordeel in ernstige mate wordt overtreden, een kind de arbeid staakt.
+1. Een toezichthouder kan bevelen, dat, indien [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), naar zijn oordeel in ernstige mate wordt overtreden, een kind de arbeid staakt.
 
-2. Een toezichthouder kan bevelen dat, indien arbeid wordt verricht die naar zijn oordeel in ernstige mate in strijd is met de bij deze wet en de daarop berustende bepalingen gegeven regels inzake arbeids- en rusttijden of deugdelijke registratie, voor zover aangeduid als overtredingen in de zin van [artikel 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.1&artikel=10:1&z=2018-01-01&g=2018-01-01) of zijn aangemerkt als economische delicten als bedoeld in [artikel 2, eerste lid, van de Wet op de economisch delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2), een kind, de werknemer of een persoon als bedoeld in [artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), die arbeid staakt tot op een nader te bepalen tijdstip. Het tijdstip wordt niet later gesteld dan dat, waarop hervatting van de arbeid wettelijk weer geoorloofd is onderscheidenlijk deugdelijk kan worden uitgevoerd.
+2. Een toezichthouder kan bevelen dat, indien arbeid wordt verricht die naar zijn oordeel in ernstige mate in strijd is met de bij deze wet en de daarop berustende bepalingen gegeven regels inzake arbeids- en rusttijden of deugdelijke registratie, voor zover aangeduid als overtredingen in de zin van [artikel 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.1&artikel=10:1&z=2020-01-01&g=2020-01-01) of zijn aangemerkt als economische delicten als bedoeld in [artikel 2, eerste lid, van de Wet op de economisch delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2), een kind, de werknemer of een persoon als bedoeld in [artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), die arbeid staakt tot op een nader te bepalen tijdstip. Het tijdstip wordt niet later gesteld dan dat, waarop hervatting van de arbeid wettelijk weer geoorloofd is onderscheidenlijk deugdelijk kan worden uitgevoerd.
 
 3. Voor zover het in het eerste en tweede lid bedoelde bevel op enigerlei andere wijze dan schriftelijk wordt gegeven, wordt zij binnen 7 dagen, nadat het bevel is gegeven, schriftelijk bevestigd.
 
@@ -830,7 +830,7 @@ Vervallen
 
 ##### Artikel 8:3
 
-Een ieder, wie zulks aangaat, gedraagt zich overeenkomstig een bevel als bedoeld in [artikel 8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.2&artikel=8:2&z=2018-01-01&g=2018-01-01), en een maatregel of aanwijzing als bedoeld in het vierde lid van dat artikel.
+Een ieder, wie zulks aangaat, gedraagt zich overeenkomstig een bevel als bedoeld in [artikel 8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.2&artikel=8:2&z=2020-01-01&g=2020-01-01), en een maatregel of aanwijzing als bedoeld in het vierde lid van dat artikel.
 
 #### § 8.2. Het bevel tot staken van de arbeid
 
@@ -846,7 +846,7 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit hoofde v
 
 ##### Artikel 8:6
 
-1. Een toezichthouder kan afgifte vorderen van een middel terzake van de deugdelijke registratie, bedoeld in [artikel 4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), dat betrekking heeft op arbeid verricht door personen in of op motorrijtuigen, in bij algemene maatregel van bestuur omschreven gevallen van onrechtmatig bezit en gebruik van dat middel.
+1. Een toezichthouder kan afgifte vorderen van een middel terzake van de deugdelijke registratie, bedoeld in [artikel 4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), dat betrekking heeft op arbeid verricht door personen in of op motorrijtuigen, in bij algemene maatregel van bestuur omschreven gevallen van onrechtmatig bezit en gebruik van dat middel.
 
 2. Een ieder is op eerste vordering verplicht tot afgifte van een door hem gehouden middel als bedoeld in het eerste lid.
 
@@ -884,7 +884,7 @@ Vervallen
 
 ##### Artikel 9:1
 
-1. De Dienst Wegverkeer is belast met het erkennen van natuurlijke of rechtspersonen die een apparaat ter controle van de naleving van de bij of krachtens de in de [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01) en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), bedoelde algemene maatregel van bestuur gegeven voorschriften, voor zover het betreft arbeid verricht door personen, werkzaam in of op motorrijtuigen, installeren, onderzoeken of herstellen.
+1. De Dienst Wegverkeer is belast met het erkennen van natuurlijke of rechtspersonen die een apparaat ter controle van de naleving van de bij of krachtens de in de [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01) en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), bedoelde algemene maatregel van bestuur gegeven voorschriften, voor zover het betreft arbeid verricht door personen, werkzaam in of op motorrijtuigen, installeren, onderzoeken of herstellen.
 
 2. De Dienst Wegverkeer is belast met het toezicht op het installeren, onderzoeken en herstellen van de in het eerste lid bedoelde apparaten door de in dat artikellid bedoelde erkende natuurlijke of rechtspersonen.
 
@@ -896,7 +896,7 @@ Vervallen
 
 ##### Artikel 11:1
 
-1. De Nederlandse strafwet is mede van toepassing op iedere bestuurder van een motorrijtuig ongeacht de woon- of verblijfplaats, alsmede iedere werkgever ongeacht de plaats van vestiging, die zich buiten Nederland schuldig maakt aan een overtreding van de regels, welke voortvloeien uit de op de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), berustende bepalingen, voor zover:
+1. De Nederlandse strafwet is mede van toepassing op iedere bestuurder van een motorrijtuig ongeacht de woon- of verblijfplaats, alsmede iedere werkgever ongeacht de plaats van vestiging, die zich buiten Nederland schuldig maakt aan een overtreding van de regels, welke voortvloeien uit de op de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), berustende bepalingen, voor zover:
 
 - a. deze regels betrekking hebben op arbeid verricht door personen, werkzaam in of op motorrijtuigen, en
 
@@ -918,15 +918,15 @@ Vervallen
 
 1. Indien een werknemer die in dienst is van een buiten Nederland gevestigde werkgever in diens opdracht arbeid verricht voor een in Nederland gevestigde werkgever, rusten de verplichtingen welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover deze zijn aangeduid als strafbare feiten, mede op de hiervoor bedoelde in Nederland gevestigde werkgever.
 
-2. Indien een werknemer een tot hem in de op grond van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), vastgestelde algemene maatregel van bestuur gerichte bepaling niet naleeft, kan in die maatregel worden bepaald, dat de werkgever wordt aangemerkt als degene die die bepaling niet heeft nageleefd.
+2. Indien een werknemer een tot hem in de op grond van [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), vastgestelde algemene maatregel van bestuur gerichte bepaling niet naleeft, kan in die maatregel worden bepaald, dat de werkgever wordt aangemerkt als degene die die bepaling niet heeft nageleefd.
 
 #### Dienst Wegverkeer
 
 ##### Artikel 11:3
 
-1. Het niet naleven van [artikel 3:2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), en [3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2018-01-01&g=2018-01-01), wordt aangemerkt als een strafbaar feit indien een kind bij het verrichten van arbeid een ongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood ten gevolge heeft of indien redelijkerwijs te verwachten is dat de hiervoor genoemde gevolgen aan het verrichten van arbeid zijn verbonden.
+1. Het niet naleven van [artikel 3:2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), en [3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2020-01-01&g=2020-01-01), wordt aangemerkt als een strafbaar feit indien een kind bij het verrichten van arbeid een ongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood ten gevolge heeft of indien redelijkerwijs te verwachten is dat de hiervoor genoemde gevolgen aan het verrichten van arbeid zijn verbonden.
 
-2. Bij arbeid verricht door de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), bedoelde personen wordt het niet naleven van de [artikelen 5:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2018-01-01&g=2018-01-01), [5:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2018-01-01&g=2018-01-01), [5:5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2018-01-01&g=2018-01-01), [5:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), [5:8, eerste tot en met vijfde lid, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2018-01-01&g=2018-01-01), [5:9, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2018-01-01&g=2018-01-01), [5:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&artikel=5:14&z=2018-01-01&g=2018-01-01), [5:15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:15&z=2018-01-01&g=2018-01-01), [5:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:16&z=2018-01-01&g=2018-01-01), voor zover het niet naleven van dit artikellid een overtreding oplevert alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), aangemerkt als strafbaar feit, als daardoor de verkeersveiligheid ernstig in gevaar is gebracht of redelijkerwijs kan worden aangenomen dat de verkeersveiligheid ernstig in gevaar is gebracht.
+2. Bij arbeid verricht door de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), bedoelde personen wordt het niet naleven van de [artikelen 5:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2020-01-01&g=2020-01-01), [5:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2020-01-01&g=2020-01-01), [5:5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2020-01-01&g=2020-01-01), [5:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), [5:8, eerste tot en met vijfde lid, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2020-01-01&g=2020-01-01), [5:9, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2020-01-01&g=2020-01-01), [5:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&artikel=5:14&z=2020-01-01&g=2020-01-01), [5:15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:15&z=2020-01-01&g=2020-01-01), [5:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:16&z=2020-01-01&g=2020-01-01), voor zover het niet naleven van dit artikellid een overtreding oplevert alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), aangemerkt als strafbaar feit, als daardoor de verkeersveiligheid ernstig in gevaar is gebracht of redelijkerwijs kan worden aangenomen dat de verkeersveiligheid ernstig in gevaar is gebracht.
 
 3. Ingeval bij of krachtens deze wet wordt verwezen naar het AETR-verdrag, kan overtreding daarvan ook als strafbaar feit worden aangemerkt indien dat verdrag in de Engelse taal is gesteld en bekend gemaakt.
 
@@ -940,7 +940,7 @@ De terzake van deze wet in de [Wet op de economische delicten](https://wetten.ov
 
 ##### Artikel 11:5
 
-De uitreiking van gerechtelijke mededelingen in zaken betreffende overtredingen, welke voortvloeien uit een op de [artikelen 4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), berustende bepaling, met betrekking tot personen, werkzaam in of op een motorrijtuig, begaan door een niet in Nederland gevestigde werkgever, kan eveneens geschieden aan de bestuurder van dat motorrijtuig die zich bereid verklaart om de mededeling onverwijld aan degene voor wie zij is bestemd te doen toekomen.
+De uitreiking van gerechtelijke mededelingen in zaken betreffende overtredingen, welke voortvloeien uit een op de [artikelen 4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), en [5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), berustende bepaling, met betrekking tot personen, werkzaam in of op een motorrijtuig, begaan door een niet in Nederland gevestigde werkgever, kan eveneens geschieden aan de bestuurder van dat motorrijtuig die zich bereid verklaart om de mededeling onverwijld aan degene voor wie zij is bestemd te doen toekomen.
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
@@ -956,11 +956,11 @@ Waar in deze wet niet anders wordt bepaald, wordt de voordracht tot een algemene
 
 ##### Artikel 12:2
 
-1. Onze Minister stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt op grond van deze wet en de daarop berustende bepalingen alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag, tenzij zulks betrekking heeft op de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), onderscheiden categorieën van arbeid.
+1. Onze Minister stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt op grond van deze wet en de daarop berustende bepalingen alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag, tenzij zulks betrekking heeft op de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), onderscheiden categorieën van arbeid.
 
-2. Onze Minister van Infrastructuur en Milieu stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt of middelen afgegeven, op grond van deze wet en de daarop berustende bepalingen voor de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), onderscheiden categorieën van arbeid, alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag voor die onderscheiden categorieën van arbeid.
+2. Onze Minister van Infrastructuur en Milieu stelt de vergoeding vast die verschuldigd is voor de kosten van de stukken, opgemaakt of middelen afgegeven, op grond van deze wet en de daarop berustende bepalingen voor de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), onderscheiden categorieën van arbeid, alsmede de vergoeding, verschuldigd voor de kosten van de behandeling van een ontheffingsaanvraag voor die onderscheiden categorieën van arbeid.
 
-3. Het aan het goedkeuren, aan het toezicht en aan de erkenning, bedoeld in [artikel 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01), verbonden tarief alsmede de wijze van betaling daarvan worden vastgesteld door de Dienst Wegverkeer en kunnen voor verschillende vormen van toezicht en verschillende soorten van erkenningen verschillend worden gesteld. [Artikel 4q, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) is van overeenkomstige toepassing.
+3. Het aan het goedkeuren, aan het toezicht en aan de erkenning, bedoeld in [artikel 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01), verbonden tarief alsmede de wijze van betaling daarvan worden vastgesteld door de Dienst Wegverkeer en kunnen voor verschillende vormen van toezicht en verschillende soorten van erkenningen verschillend worden gesteld. [Artikel 4q, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) is van overeenkomstige toepassing.
 
 #### § 12.2. Wijziging regelgeving in verband met de Arbeidstijdenwet
 
@@ -1300,11 +1300,11 @@ Vervallen
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
 
-- a. de erkenning van de natuurlijke of rechtspersonen, bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01), de aanvraag van een erkenning, de voor een erkenning gestelde eisen, en de aan een erkenning te verbinden voorschriften en de intrekking of schorsing van een erkenning;
+- a. de erkenning van de natuurlijke of rechtspersonen, bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01), de aanvraag van een erkenning, de voor een erkenning gestelde eisen, en de aan een erkenning te verbinden voorschriften en de intrekking of schorsing van een erkenning;
 
-- b. de aanvraag en het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01), alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens;
+- b. de aanvraag en het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01), alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens;
 
-- c. de aanvraag van een goedkeuring als bedoeld in [artikel 9:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01).
+- c. de aanvraag van een goedkeuring als bedoeld in [artikel 9:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01).
 
 2. De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.
 
@@ -1314,7 +1314,7 @@ Vervallen
 
 ##### Artikel 10:1
 
-1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 3:2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2018-01-01&g=2018-01-01), [3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2018-01-01&g=2018-01-01), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:4&z=2018-01-01&g=2018-01-01), [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:5&z=2018-01-01&g=2018-01-01), [4:1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:1&z=2018-01-01&g=2018-01-01), [4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), [4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&artikel=4:6&z=2018-01-01&g=2018-01-01), [5:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2018-01-01&g=2018-01-01),[5:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2018-01-01&g=2018-01-01), [5:5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2018-01-01&g=2018-01-01), [5:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2018-01-01&g=2018-01-01), [5:8, eerste tot en met vijfde lid, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2018-01-01&g=2018-01-01), [5:9, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2018-01-01&g=2018-01-01), [5:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&artikel=5:14&z=2018-01-01&g=2018-01-01), [5:15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:15&z=2018-01-01&g=2018-01-01), [5:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:16&z=2018-01-01&g=2018-01-01), voor zover het niet naleven van dit artikellid een overtreding oplevert, [8:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.4&artikel=8:6&z=2018-01-01&g=2018-01-01), alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2018-01-01&g=2018-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), [5:12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), [8:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), en [9:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:2&z=2018-01-01&g=2018-01-01), ten aanzien van het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01).
+1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 3:2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:2&z=2020-01-01&g=2020-01-01), [3:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:3&z=2020-01-01&g=2020-01-01), [3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:4&z=2020-01-01&g=2020-01-01), [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=3&artikel=3:5&z=2020-01-01&g=2020-01-01), [4:1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:1&z=2020-01-01&g=2020-01-01), [4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), [4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.3&artikel=4:6&z=2020-01-01&g=2020-01-01), [5:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:3&z=2020-01-01&g=2020-01-01),[5:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:4&z=2020-01-01&g=2020-01-01), [5:5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:5&z=2020-01-01&g=2020-01-01), [5:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:7&z=2020-01-01&g=2020-01-01), [5:8, eerste tot en met vijfde lid, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:8&z=2020-01-01&g=2020-01-01), [5:9, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.2&artikel=5:9&z=2020-01-01&g=2020-01-01), [5:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.4&artikel=5:14&z=2020-01-01&g=2020-01-01), [5:15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:15&z=2020-01-01&g=2020-01-01), [5:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.5&artikel=5:16&z=2020-01-01&g=2020-01-01), voor zover het niet naleven van dit artikellid een overtreding oplevert, [8:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.4&artikel=8:6&z=2020-01-01&g=2020-01-01), alsmede – voor zover aangeduid als overtredingen – de voorschriften krachtens de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=2&paragraaf=2.2&artikel=2:7&z=2020-01-01&g=2020-01-01), [4:3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), [5:12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), [8:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), en [9:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:2&z=2020-01-01&g=2020-01-01), ten aanzien van het gebruik van middelen ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01).
 
 2. Ingeval een artikel of voorschrift, bedoeld in het eerste lid, verwijst naar het AETR-verdrag, kan overtreding daarvan ook worden bestraft met een bestuurlijke sanctie indien dat verdrag in de Engelse taal is gesteld en bekend gemaakt.
 
@@ -1336,7 +1336,7 @@ Vervallen
 
 - b. het officiële nummer waaronder het desbetreffende vervoermiddel is geregistreerd, voor zover in verband met de overtreding van belang.
 
-2. Het rapport wordt toegezonden aan de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), aangewezen ambtenaar.
+2. Het rapport wordt toegezonden aan de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), aangewezen ambtenaar.
 
 #### § 10.2. Het boeterapport
 
@@ -1352,7 +1352,7 @@ Vervallen
 
 1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt de bestuurlijke boete op aan de natuurlijke of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.
 
-2. Voor zover het de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), onderscheiden categorieën van arbeid betreft legt een daartoe door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen aangewezen ambtenaar de bestuurlijke boete op aan de natuurlijke persoon of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.
+2. Voor zover het de in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), onderscheiden categorieën van arbeid betreft legt een daartoe door Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen aangewezen ambtenaar de bestuurlijke boete op aan de natuurlijke persoon of rechtspersoon op wie de verplichtingen rusten welke voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.
 
 3. De ter zake van deze wet en de daarop berustende bepalingen gestelde overtredingen gelden ten opzichte van elke persoon, met of ten aanzien van wie de overtreding is begaan, en met betrekking tot elke dag in de loop waarvan deze overtreding is begaan.
 
@@ -1360,21 +1360,21 @@ Vervallen
 
 ##### Artikel 10:6
 
-Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met deze wet of de daarop berustende bepalingen, tevens een strafbaar feit als bedoeld in [artikel 11:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=11&artikel=11:3&z=2018-01-01&g=2018-01-01) oplevert.
+Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met deze wet of de daarop berustende bepalingen, tevens een strafbaar feit als bedoeld in [artikel 11:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=11&artikel=11:3&z=2020-01-01&g=2020-01-01) oplevert.
 
 ##### Artikel 10:7
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Onverminderd het eerste lid verhoogt de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
+2. Onverminderd het eerste lid verhoogt de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
 
 3. De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.
 
-4. Onverminderd het eerste lid verhoogt de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
+4. Onverminderd het eerste lid verhoogt de op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
 
 5. In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.
 
-6. Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Voor overtredingen begaan door personen, bedoeld in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), stellen Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen beleidsregels vast waarin de boetebedragen voor die overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is van toepassing indien een artikel gesteld bij of krachtens de wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.
+6. Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Voor overtredingen begaan door personen, bedoeld in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), stellen Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen beleidsregels vast waarin de boetebedragen voor die overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is van toepassing indien een artikel gesteld bij of krachtens de wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.
 
 7. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.
 
@@ -1392,7 +1392,7 @@ Vervallen
 
 ##### Artikel 10:10
 
-De persoon aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2018-01-01&g=2018-01-01), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de bestuurlijke boete nodig zijn.
+De persoon aan wie een bestuurlijke boete is opgelegd, verstrekt desgevraagd aan de daartoe op grond van [artikel 10:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:5&z=2020-01-01&g=2020-01-01), aangewezen ambtenaar de inlichtingen die redelijkerwijs voor de tenuitvoerlegging van de bestuurlijke boete nodig zijn.
 
 #### Terugbetaling
 
@@ -1500,7 +1500,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 10:15
 
-1. In afwijking van de [paragrafen 10.2 tot en met 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.2&z=2018-01-01&g=2018-01-01), met uitzondering van [artikel 10:7, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:7&z=2018-01-01&g=2018-01-01), kan deze paragraaf worden toegepast:
+1. In afwijking van de [paragrafen 10.2 tot en met 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.2&z=2020-01-01&g=2020-01-01), met uitzondering van [artikel 10:7, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.3&artikel=10:7&z=2020-01-01&g=2020-01-01), kan deze paragraaf worden toegepast:
 
 - a. indien de overtreding heeft plaatsgevonden met of door middel van een voertuig waarvan aannemelijk is dat de houder van het kenteken of de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, of
 
@@ -1510,7 +1510,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 10:16
 
-1. Een bestuurlijke boete wordt opgelegd door de toezichthouder, bedoeld in [artikel 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), of in [artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), ten aanzien van de in [artikel 5:12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2018-01-01&g=2018-01-01), bedoelde personen ten aanzien van arbeid door hen verricht in of op motorrijtuigen.
+1. Een bestuurlijke boete wordt opgelegd door de toezichthouder, bedoeld in [artikel 8:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), of in [artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), ten aanzien van de in [artikel 5:12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5&paragraaf=5.3&artikel=5:12&z=2020-01-01&g=2020-01-01), bedoelde personen ten aanzien van arbeid door hen verricht in of op motorrijtuigen.
 
 2. Onverminderd [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) vermeldt de beschikking in ieder geval:
 
@@ -1522,13 +1522,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 10:17
 
-De in [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.6&artikel=10:16&z=2018-01-01&g=2018-01-01) bedoelde toezichthouders kunnen vorderen dat de bestuurlijke boete terstond wordt voldaan.
+De in [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.6&artikel=10:16&z=2020-01-01&g=2020-01-01) bedoelde toezichthouders kunnen vorderen dat de bestuurlijke boete terstond wordt voldaan.
 
 #### Voorlopige maatregelen
 
 ##### Artikel 10:18
 
-De in [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.6&artikel=10:16&z=2018-01-01&g=2018-01-01) bedoelde toezichthouders zijn bevoegd bij wijze van voorlopige maatregel het voertuig naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan het voertuig een mechanisch hulpmiddel te doen aanbrengen, waardoor verhinderd wordt dat het voertuig wordt weggereden. Zij kunnen vorderen dat, alvorens het voertuig aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring eveneens de bestuurlijke boete zal worden voldaan.
+De in [artikel 10:16](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=10&paragraaf=10.6&artikel=10:16&z=2020-01-01&g=2020-01-01) bedoelde toezichthouders zijn bevoegd bij wijze van voorlopige maatregel het voertuig naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan het voertuig een mechanisch hulpmiddel te doen aanbrengen, waardoor verhinderd wordt dat het voertuig wordt weggereden. Zij kunnen vorderen dat, alvorens het voertuig aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring eveneens de bestuurlijke boete zal worden voldaan.
 
 ### Hoofdstuk 11. Strafbaarstelling en daarmee samenhangende bepalingen
 
@@ -1598,21 +1598,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de goedkeuring, verlening, afgifte, weigering, schorsing, intrekking of inname door Onze Minister van Infrastructuur en Milieu van het middel:
 
-- a. terzake van een deugdelijke registratie als bedoeld in [artikel 4:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2018-01-01&g=2018-01-01), ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen;
+- a. terzake van een deugdelijke registratie als bedoeld in [artikel 4:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=4&paragraaf=4.1&artikel=4:3&z=2020-01-01&g=2020-01-01), ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen;
 
-- b. ten behoeve van de controle op een deugdelijke registratie van arbeids- en rusttijden ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen, bedoeld in [artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.4&artikel=8:5&z=2018-01-01&g=2018-01-01);
+- b. ten behoeve van de controle op een deugdelijke registratie van arbeids- en rusttijden ten aanzien van arbeid verricht door personen werkzaam in of op motorrijtuigen, bedoeld in [artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.4&artikel=8:5&z=2020-01-01&g=2020-01-01);
 
-- c. bedoeld in [artikel 9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:2&z=2018-01-01&g=2018-01-01) ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2018-01-01&g=2018-01-01), alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens.
+- c. bedoeld in [artikel 9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:2&z=2020-01-01&g=2020-01-01) ten behoeve van het installeren, onderzoeken of herstellen van een apparaat als bedoeld in [artikel 9:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9&artikel=9:1&z=2020-01-01&g=2020-01-01), alsmede van het vastleggen en doorgeven van de daarin opgeslagen gegevens.
 
 2. De voordracht van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt Ons gedaan door Onze Minister van Infrastructuur en Milieu.
 
 ##### Artikel 7:7
 
-1. Onze Minister van Infrastructuur en Milieu houdt een registratie bij van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2018-01-01&g=2018-01-01), bedoelde middelen en daarbij behorende gegevens van betrokkenen.
+1. Onze Minister van Infrastructuur en Milieu houdt een registratie bij van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2020-01-01&g=2020-01-01), bedoelde middelen en daarbij behorende gegevens van betrokkenen.
 
-2. De in het eerste lid bedoelde gegevens kunnen worden verwerkt in het belang van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2018-01-01&g=2018-01-01), bedoelde middelen.
+2. De in het eerste lid bedoelde gegevens kunnen worden verwerkt in het belang van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2020-01-01&g=2020-01-01), bedoelde middelen.
 
-3. Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen regels worden gesteld over de verstrekking van de in het eerste lid bedoelde gegevens aan belanghebbenden voor zover zulks in het belang is van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2018-01-01&g=2018-01-01), bedoelde middelen en over de wijze van verwerken van deze gegevens.
+3. Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen regels worden gesteld over de verstrekking van de in het eerste lid bedoelde gegevens aan belanghebbenden voor zover zulks in het belang is van een goede uitvoering en handhaving van de bij of krachtens deze wet gestelde voorschriften met betrekking tot een rechtmatig bezit en gebruik van de in [artikel 7:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=7&artikel=7:6&z=2020-01-01&g=2020-01-01), bedoelde middelen en over de wijze van verwerken van deze gegevens.
 
 ### Hoofdstuk 8. Toezicht
 
@@ -1834,7 +1834,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8:3a. Bevel tot staken van de arbeid in verband met recidive
 
-1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. [Artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2018-01-01&g=2018-01-01), is van overeenkomstige toepassing.
+1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. [Artikel 8:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd of een proces-verbaal is opgemaakt.
 
