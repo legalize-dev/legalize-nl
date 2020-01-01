@@ -4,7 +4,7 @@ identifier: "BWBR0002705"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002705"
 soort: "AMvB"
@@ -50,29 +50,35 @@ Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](https
 
 ##### Artikel 1a
 
-Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2019-01-01&g=2019-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde bedrag.
+Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2020-01-01&g=2020-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde bedrag.
 
 ##### Artikel 2
 
-1. Het in [artikel 28, tweede lid, onderdeel **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) bedoelde gedeelte van de winst is de voor uitdeling beschikbare winst verminderd met de te verrekenen uitdelingstekorten.
+1. Het in [artikel 28, tweede lid, onderdeel **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) bedoelde gedeelte van de winst is het positieve bedrag van de voor uitdeling beschikbare winst verminderd met de te verrekenen uitdelingstekorten.
 
-2. Als voor uitdeling beschikbare winst wordt aangemerkt het positieve bedrag van de in het jaar genoten belastbare winst verminderd met een evenredig gedeelte van:
+2. Als voor uitdeling beschikbare winst wordt aangemerkt het bedrag van de in het jaar genoten belastbare winst:
 
-- a. de aan commissarissen toegekende beloningen voor zover deze op grond van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=11) niet aftrekbaar zijn;
+- a. verminderd met een evenredig gedeelte van:
 
-- b. de voordelen uit hoofde van een gecontroleerd lichaam die op grond van [artikel 13ab van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) bij het bepalen van de winst in aanmerking worden genomen;
+- 1°. de aan commissarissen toegekende beloningen voor zover deze op grond van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=11) niet aftrekbaar zijn;
 
-- c. het saldo aan renten ter zake van geldleningen dat op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) bij het bepalen van de in een jaar genoten winst niet in aftrek komt;
+- 2°. de voordelen uit hoofde van een gecontroleerd lichaam die op grond van [artikel 13ab van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) bij het bepalen van de winst in aanmerking worden genomen;
 
-- d. de giften voor zover deze op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16) niet aftrekbaar zijn;
+- 3°. het saldo aan renten dat op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) bij het bepalen van de in een jaar genoten winst niet in aftrek komt;
 
-- e. de belasting die buiten Nederland in enige vorm naar de winst wordt geheven over voordelen uit niet in Nederland gelegen onroerende zaken, indien voor de beleggingsinstelling te dier zake een regeling ter voorkoming van dubbele belasting van toepassing is;
+- 4°. de giften voor zover deze op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16) niet aftrekbaar zijn;
 
-- f. de kosten en lasten voorzover deze op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) in verbinding met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) en [3.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.15) niet aftrekbaar zijn;
+- 5°. de belasting die buiten Nederland in enige vorm naar de winst wordt geheven over voordelen uit niet in Nederland gelegen onroerende zaken, indien voor de beleggingsinstelling te dier zake een regeling ter voorkoming van dubbele belasting van toepassing is;
 
-- g. de belasting die wordt geheven op grond van [Artikel IV, onderdeel B, van Hoofdstuk 2 van de Invoeringswet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=IV).
+- 6°. de kosten en lasten voorzover deze op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) in verbinding met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) en [3.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.15) niet aftrekbaar zijn;
 
-3. Als uitdelingstekort wordt aangemerkt hetzij het verlies van een jaar vermeerderd met de bedragen, bedoeld in het tweede lid, onderdelen a tot en met g, hetzij het negatieve bedrag waartoe de in dat lid bedoelde verminderingen van de belastbare winst mochten leiden.
+- 7°. de belasting die wordt geheven op grond van [Artikel IV, onderdeel B, van Hoofdstuk 2 van de Invoeringswet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=IV);
+
+- 8°. winst die op grond van artikel 15, zestiende lid, tweede zin, van de wet in aanmerking wordt genomen; en
+
+- b. vermeerderd met een evenredig gedeelte van het voortgewentelde saldo aan renten dat op de voet van [artikel 15b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) in aftrek komt bij het bepalen van de winst van dat jaar.
+
+3. Als uitdelingstekort wordt aangemerkt hetzij het verlies van een jaar vermeerderd met de bedragen, bedoeld in het tweede lid, onderdeel a, onder 1° tot en met 8°, en verminderd met het bedrag, bedoeld in het tweede lid, onderdeel b, hetzij het negatieve bedrag waartoe de verminderingen en vermeerdering van de belastbare winst, bedoeld in dat lid, per saldo mochten leiden.
 
 4. Een uitdelingstekort wordt verrekend met de voor uitdeling beschikbare winst van de acht volgende jaren. De verrekening geschiedt in de volgorde waarin de uitdelingstekorten zijn ontstaan en de voor uitdeling beschikbare winsten zijn gemaakt.
 
@@ -88,9 +94,9 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 1. Beleggingsinstellingen die daarvoor kiezen, kunnen een herbeleggingsreserve vormen. Deze keuze geldt ook voor volgende jaren.
 
-2. In de reserve wordt opgenomen een bedrag gelijk aan de som van het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten, het saldo van winsten en verliezen ter zake van de vervreemding van overige beleggingen en het ingevolge [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=10&z=2019-01-01&g=2019-01-01), berekende saldo van herwaarderingswinsten en herwaarderingsverliezen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.
+2. In de reserve wordt opgenomen een bedrag gelijk aan de som van het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten, het saldo van winsten en verliezen ter zake van de vervreemding van overige beleggingen en het ingevolge [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=10&z=2020-01-01&g=2020-01-01), berekende saldo van herwaarderingswinsten en herwaarderingsverliezen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.
 
-3. Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2019-01-01&g=2019-01-01).
+3. De herbeleggingsreserve wordt verminderd met een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdeel a, onder 1° tot en met 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2020-01-01&g=2020-01-01), en vermeerderd met een evenredig gedeelte van het bedrag, bedoeld in artikel 2, tweede lid, onderdeel b.
 
 4. Indien de toepassing van het tweede en derde lid zou leiden tot een vermindering van de reserve die groter is dan de herbeleggingsreserve aan het begin van het jaar, blijft de vermindering beperkt tot de omvang van de reserve aan het begin van het jaar, en wordt het nog niet in mindering gebrachte deel aangemerkt als een verlies ter zake van vervreemding van beleggingen in het volgende jaar. De inspecteur stelt het naar het volgende jaar over te brengen verlies vast bij voor bezwaar vatbare beschikking.
 
@@ -108,7 +114,7 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 1. Beleggingsinstellingen kunnen een afrondingsreserve vormen.
 
-2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2019-01-01&g=2019-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
+2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2020-01-01&g=2020-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
 
 ##### Artikel 6
 
@@ -116,7 +122,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2019-01-01&g=2019-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2019-01-01&g=2019-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
+1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2020-01-01&g=2020-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
 
 2. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een lager bedrag zou moeten worden vastgesteld wordt, voor zover mogelijk, in plaats daarvan tot het bedrag van de verlaging een bedrag aan de winst van dat jaar toegevoegd uit de afrondingsreserve.
 
