@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **vestiging:** een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16) en [65, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=65) en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a);
 
-- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2018 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2019-01-01&g=2019-01-01) bij deze regeling;
+- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2019 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2020-01-01&g=2020-01-01) bij deze regeling;
 
 - h. **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2019 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2020 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
 2. De aanvullende personele bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
@@ -88,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvullende personele bekostiging
 
-Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01).
+Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 4. Berekening aanvullende personele bekostiging
 
-1. Voor deze aanvullende bekostiging is in 2019 een bedrag van € 63,0 miljoen beschikbaar.
+1. Voor deze aanvullende bekostiging is in 2020 een bedrag van € 65,0 miljoen beschikbaar.
 
 2. De verstrekking van de aanvullende personele bekostiging vindt plaats per kalenderjaar.
 
@@ -106,7 +106,7 @@ De definitie van de verschillende componenten uit deze formule is als volgt:
 
 - a. Xi = de aanvullende personele bekostiging voor een individuele school;
 
-- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2019-01-01&g=2019-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
+- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
 
 - c. Bi = reguliere personele bekostiging voor leraren van school i in het betreffende kalenderjaar als bedoeld in [artikel 8 van het Formatiebesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005446&artikel=8);
 
@@ -138,7 +138,7 @@ Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeke
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-2. Deze regeling vervalt met ingang van 1 januari 2020, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
+2. Deze regeling vervalt met ingang van 1 januari 2021, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
 
 ##### Artikel 9. Citeertitel
 
@@ -146,127 +146,112 @@ Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren i
 
 ## Bijlage 1. Gemeenten in Randstadregio’s
 
-| Aalsmeer | ZNH |
-| --- | --- |
-| Alblasserdam | RM |
-| Albrandswaard | RM |
-| Almere |   |
-| Alphen a/d Rijn | RG |
-| Amersfoort | EL |
-| Amstelveen | ZNH |
-| Amsterdam | ZNH |
-| Baarn | EL |
-| Barendrecht | RM |
-| Beemster | ZNH |
-| Beverwijk | ZNH |
-| Binnenmaas | RM |
-| Blaricum | GV |
-| Bloemendaal | ZNH |
-| Bodegraven-Reeuwijk | RG |
-| Brielle | RM |
-| Bunnik | UM |
-| Bunschoten | EL |
-| Capelle aan den IJssel | RM |
-| Cromstrijen | RM |
-| De Bilt | UM |
-| De Ronde Venen | ZNH |
-| Delft | HL |
-| Diemen | ZNH |
-| Dordrecht | RM |
-| Edam-Volendam | ZNH |
-| Eemnes | GV |
-| Giessenlanden | RM |
-| Goeree-Overflakkee | RM |
-| Gooise Meren | GV |
-| Gorinchem | RM |
-| Gouda | RG |
-| Haarlem | ZNH |
-| Haarlemmerliede en Spaarnwoude | ZNH |
-| Haarlemmermeer | ZNH |
-| Hardinxveld-Giessendam | RM |
-| Heemskerk | ZNH |
-| Heemstede | ZNH |
-| Hellevoetsluis | RM |
-| Hendrik-Ido-Ambacht | RM |
-| Hillegom | RG |
-| Hilversum | GV |
-| Houten | UM |
-| Huizen | GV |
-| IJsselstein | UM |
-| Kaag en Braassem | RG |
-| Katwijk | RG |
-| Korendijk | RM |
-| Krimpen a/d IJssel | RM |
-| Krimpenerwaard | RG |
-| Landsmeer | ZNH |
-| Lansingerland | RM |
-| Laren | GV |
-| Leerdam | RM |
-| Leiden | RG |
-| Leiderdorp | RG |
-| Leidschendam-Voorburg | HL |
-| Leusden | EL |
-| Lisse | RG |
-| Lopik | UM |
-| Maassluis | RM |
-| Midden-Delfland | HL |
-| Molenwaard | RM |
-| Montfoort | UM |
-| Nieuwegein | UM |
-| Nieuwkoop | RG |
-| Nissewaard | RM |
-| Noordwijk | RG |
-| Noordwijkerhout | RG |
-| Oegstgeest | RG |
-| Oostzaan | ZNH |
-| Oud-Beijerland | RM |
-| Ouder-Amstel | ZNH |
-| Oudewater | RG |
-| Papendrecht | RM |
-| Pijnacker-Nootdorp | HL |
-| Purmerend | ZNH |
-| Ridderkerk | RM |
-| Rijswijk | HL |
-| Rotterdam | RM |
-| Schiedam | RM |
-| ’s-Gravenhage | HL |
-| Sliedrecht | RM |
-| Soest | EL |
-| Stichtse Vecht | UM |
-| Strijen | RM |
-| Teylingen | RG |
-| Uitgeest | ZNH |
-| Uithoorn | ZNH |
-| Utrecht | UM |
-| Utrechtse Heuvelrug | UM |
-| Velsen | ZNH |
-| Vianen | UM |
-| Vlaardingen | RM |
-| Voorschoten | RG |
-| Waddinxveen | RG |
-| Wassenaar | HL |
-| Waterland | ZNH |
-| Weesp | GV |
-| Westland | HL |
-| Westvoorne | RM |
-| Wijdemeren | GV |
-| Wijk bij Duurstede | UM |
-| Woerden | UM |
-| Wormerland | ZNH |
-| Woudenberg | EL |
-| Zaanstad | ZNH |
-| Zandvoort | ZNH |
-| Zederik | RM |
-| Zeist | UM |
-| Zoetermeer | HL |
-| Zoeterwoude | RG |
-| Zuidplas | RG |
-| Zwijndrecht | RM |
-
-| ZNH | = RPA Zuidelijk Noord-Holland | RG | = RPA Rijn-Gouwe |
-| --- | --- | --- | --- |
-| HL | = RPA Haaglanden | RM | = RPA Rijnmond |
-| GV | = RPA Gooi en Vechtstreek | EL | = RPA Eemland |
-| UM | = RPA Utrecht-Midden |   |   |
+| Aalsmeer |
+| --- |
+| Alblasserdam |
+| Albrandswaard |
+| Almere |
+| Alphen aan den Rijn |
+| Amersfoort |
+| Amstelveen |
+| Amsterdam |
+| Baarn |
+| Barendrecht |
+| Beemster |
+| Beverwijk |
+| Blaricum |
+| Bloemendaal |
+| Bodegraven-Reeuwijk |
+| Brielle |
+| Bunnik |
+| Bunschoten |
+| Capelle aan den IJssel |
+| De Bilt |
+| De Ronde Venen |
+| Delft |
+| Diemen |
+| Dordrecht |
+| Edam-Volendam |
+| Eemnes |
+| Goeree-Overflakkee |
+| Gooise Meren |
+| Gorinchem |
+| Gouda |
+| 's-Gravenhage |
+| Haarlem |
+| Haarlemmermeer |
+| Hardinxveld-Giessendam |
+| Heemskerk |
+| Heemstede |
+| Hellevoetsluis |
+| Hendrik-Ido-Ambacht |
+| Hillegom |
+| Hilversum |
+| Hoeksche Waard |
+| Houten |
+| Huizen |
+| IJsselstein |
+| Kaag en Braassem |
+| Katwijk |
+| Krimpen aan den IJssel |
+| Krimpenerwaard |
+| Landsmeer |
+| Lansingerland |
+| Laren |
+| Leiden |
+| Leiderdorp |
+| Leidschendam-Voorburg |
+| Leusden |
+| Lisse |
+| Lopik |
+| Maassluis |
+| Midden-Delfland |
+| Molenlanden |
+| Montfoort |
+| Nieuwegein |
+| Nieuwkoop |
+| Nissewaard |
+| Noordwijk |
+| Oegstgeest |
+| Oostzaan |
+| Ouder-Amstel |
+| Oudewater |
+| Papendrecht |
+| Pijnacker-Nootdorp |
+| Purmerend |
+| Ridderkerk |
+| Rijswijk |
+| Rotterdam |
+| Schiedam |
+| Sliedrecht |
+| Soest |
+| Stichtse Vecht |
+| Teylingen |
+| Uitgeest |
+| Uithoorn |
+| Utrecht |
+| Utrechtse Heuvelrug |
+| Velsen |
+| Vijfheerenlanden |
+| Vlaardingen |
+| Voorschoten |
+| Waddinxveen |
+| Wassenaar |
+| Waterland |
+| Weesp |
+| Westland |
+| Westvoorne |
+| Wijdemeren |
+| Wijk bij Duurstede |
+| Woerden |
+| Wormerland |
+| Woudenberg |
+| Zaanstad |
+| Zandvoort |
+| Zeist |
+| Zoetermeer |
+| Zoeterwoude |
+| Zuidplas |
+| Zwijndrecht |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
