@@ -95,9 +95,3 @@ Dit onderdeel is nog niet inwerking getreden
 3. De voordracht voor een koninklijk besluit als bedoeld in het eerste lid wordt, indien het de inwerkingtreding van [artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0042804&artikel=Ia&z=2020-01-01&g=2020-01-01) betreft, niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IVc
-
-Tot bij koninklijk besluit te bepalen tijdstip hebben verzekerden die niet verblijf alsmede behandeling als bedoeld in [artikel 3.1.1, eerste lid, onderdeel c, onder 1°, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) van eenzelfde instelling ontvangen, in afwijking van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042804&artikel=I&z=2020-03-19&g=2020-03-19), geen recht op zorg als bedoeld artikel 3.1.1, eerste lid, onderdeel c, onder 2°, van de Wet langdurige zorg.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
