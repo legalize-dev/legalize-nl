@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -64,15 +64,15 @@ Vervallen
 
 - h. het in depot houden van algemene voorwaarden: € 18,– per jaar;
 
-- i. een kopie van Certificaten van Oorsprong: € 0,95 per kopie;
+- i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 0,95 per kopie;
 
 - j. een afgifte van de vergunning winkelweekactie: € 28,– per vergunning;
 
-- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 80,– per verklaring;
+- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 80,– per EU-Verklaring;
 
 - l. inkomende en uitgaande handelsmissies: tarief per deelnemer wordt berekend per missie op basis van hoofdelijke omslag;
 
-- m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 65,– voor de eerste aanvraag en € 40,– voor de jaarlijkse verlenging;
+- m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 65,– voor de eerste Legal Entity Identifier Inschrijving en € 40,– voor de jaarlijkse Legal Entity Identifier Verlenging;
 
 - n. een locatiescan: € 0,– per factsheet.
 
@@ -90,22 +90,25 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2019-01-01&g=2019-01-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2020-01-01&g=2020-01-01)
 
-| Uurtarieven begroting 2019 |   |
+- a. Uurtarieven begroting 2020 (in euro, exclusief BTW)
+
+| Loonschaal 4 | 46 |
 | --- | --- |
-| Loonschaal 4 | 85 |
-| Loonschaal 5 | 87 |
-| Loonschaal 6 | 89 |
-| Loonschaal 7 | 93 |
-| Loonschaal 8 | 99 |
-| Loonschaal 9 | 105 |
-| Loonschaal 10 | 111 |
-| Loonschaal 11 | 120 |
-| Loonschaal 12 | 130 |
-| Loonschaal 13 | 139 |
-| Loonschaal 14 | 149 |
-| Loonschaal 15 | 159 |
-| Loonschaal 16 | 170 |
+| Loonschaal 5 | 49 |
+| Loonschaal 6 | 52 |
+| Loonschaal 7 | 55 |
+| Loonschaal 8 | 59 |
+| Loonschaal 9 | 64 |
+| Loonschaal 10 | 69 |
+| Loonschaal 11 | 77 |
+| Loonschaal 12 | 86 |
+| Loonschaal 13 | 95 |
+| Loonschaal 14 | 104 |
+| Loonschaal 15 | 111 |
+| Loonschaal 16 | 120 |
+
+- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2020 een standaard tarief vastgesteld van € 116 per uur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
