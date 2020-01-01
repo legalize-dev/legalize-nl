@@ -4,7 +4,7 @@ identifier: "BWBR0026019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-20"
-last_updated: "2017-08-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026019"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het opleidingen op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2017-08-01&g=2017-08-01);
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie.
 
@@ -74,7 +74,7 @@ De commissie heeft tot taak:
 
 1. De commissie wordt ingesteld met ingang van 1 juli 2009.
 
-2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2017-08-01&g=2017-08-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
+2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2020-01-01&g=2020-01-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
 
 ##### Artikel 5. Lidmaatschap
 
@@ -116,9 +116,9 @@ De minister voorziet in het secretariaat van de commissie en treft voorzieningen
 
 - b. De kosten voor het secretariaat van de commissie.
 
-2. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.
+2. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.
 
-3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842). Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
+3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
 4. De NVAO treedt voor wat betreft de begroting en verantwoording op als penvoerder van de commissie.
 
