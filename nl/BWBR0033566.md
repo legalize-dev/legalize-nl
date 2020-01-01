@@ -4,7 +4,7 @@ identifier: "BWBR0033566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-30"
-last_updated: "2013-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033566"
 soort: "ministeriele-regeling"
@@ -74,11 +74,11 @@ De uitslag van het onderzoek wordt niet eerder dan twee weken nadat betrokkene v
 
 ##### Artikel 8
 
-Voor zover dit niet heeft plaatsgevonden overeenkomstig het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2013-07-01&g=2013-07-01) heeft de betrokkene recht op een nagesprek met de psycholoog die het onderzoek heeft verricht.
+Voor zover dit niet heeft plaatsgevonden overeenkomstig het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-01-01) heeft de betrokkene recht op een nagesprek met de psycholoog die het onderzoek heeft verricht.
 
 ##### Artikel 9
 
-De betrokkene kan na afloop van het in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2013-07-01&g=2013-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=8&z=2013-07-01&g=2013-07-01) bedoelde nagesprek kennis nemen van de uitslag of daarvan een afschrift krijgen.
+De betrokkene kan na afloop van het in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=8&z=2020-05-30&g=2020-01-01) bedoelde nagesprek kennis nemen van de uitslag of daarvan een afschrift krijgen.
 
 ##### Artikel 10
 
