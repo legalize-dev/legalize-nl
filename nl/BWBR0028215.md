@@ -4,7 +4,7 @@ identifier: "BWBR0028215"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2020-01-01"
-last_updated: "2011-10-09"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028215"
 soort: "wet-BES"
@@ -40,7 +40,7 @@ entry_into_force: "2011-10-09"
 
 ##### Artikel 1
 
-1. Ambtenaar in de zin van deze wet en de daarop berustende bepalingen is degene die door het bevoegde gezag is aan gesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn en niet is aangesteld op grond van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947).
+1. Ambtenaar in de zin van deze wet en de daarop berustende bepalingen is degene die door het bevoegde gezag is aan gesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn en op wie [artikel 3 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) niet van toepassing is.
 
 2. Tot de openbare dienst behoren alle diensten en bedrijven door de staat en de openbare lichamen Bonaire, Sint Eustatius en Saba beheerd, met inbegrip van het van overheidswege gegeven openbare onderwijs.
 
@@ -674,7 +674,7 @@ In geval van samenloop van inhouding, beslag en korting, zal, ongeacht in welke 
 
 1. Indien een ingehouden, in beslag genomen of gekort bedrag tussen meer dan een schuldeiser moet worden verdeeld, geschiedt de verdeling naar evenredigheid der vorderingen, voorzover niet de ene schuldeiser voorrang heeft boven de andere.
 
-2. Indien naast vorderingen, voor welke de beperkingen van [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&hoofdstuk=IV&paragraaf=5&artikel=114&z=2011-10-09&g=2011-10-09) niet gelden, ook andere in de verdeling moeten worden begrepen, wordt eerst het in artikel 114, eerste lid, bepaalde deel van dit bedrag onder alle schuldeisers zonder onderscheid verdeeld.
+2. Indien naast vorderingen, voor welke de beperkingen van [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&hoofdstuk=IV&paragraaf=5&artikel=114&z=2020-01-01&g=2020-01-01) niet gelden, ook andere in de verdeling moeten worden begrepen, wordt eerst het in artikel 114, eerste lid, bepaalde deel van dit bedrag onder alle schuldeisers zonder onderscheid verdeeld.
 
 #### § 9. Overdracht en inpandgeving
 
