@@ -4,7 +4,7 @@ identifier: "BWBR0002271"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002271"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Voor de toepassing van dit besluit wordt verstaan onder "Onze Minister", Onze Mi
 
 ##### Artikel 2
 
-Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2010-10-10&g=2010-10-10), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=6&z=2010-10-10&g=2010-10-10), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=19&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=20&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=21&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=22&z=2010-10-10&g=2010-10-10) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=23&z=2010-10-10&g=2010-10-10) van dit besluit is niet van toepassing op de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren van de Scheepvaartinspectie. De in de artikelen behandelde onderwerpen worden, voor zover het betreft de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren, geregeld bij landsverordening of landsbesluit, houdende algemene maatregelen.
+Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2020-01-01&g=2020-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=6&z=2020-01-01&g=2020-01-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=19&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=20&z=2020-01-01&g=2020-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=21&z=2020-01-01&g=2020-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=22&z=2020-01-01&g=2020-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=23&z=2020-01-01&g=2020-01-01) van dit besluit is niet van toepassing op de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren van de Scheepvaartinspectie. De in de artikelen behandelde onderwerpen worden, voor zover het betreft de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren, geregeld bij landsverordening of landsbesluit, houdende algemene maatregelen.
 
 ##### Artikel 3
 
@@ -78,7 +78,7 @@ De ambtenaren van de Scheepvaartinspectie leggen bij de aanvaarding van hun ambt
 
 ##### Artikel 6
 
-1. Behoudens het bepaalde in artikel 61, derde lid, van het Algemeen Rijksambtenaren Reglement mogen de ambtenaren van de Scheepvaartinspectie, tenzij met bijzondere vergunning van Onze Minister, geen particuliere betrekking waarnemen, onder welke benaming of van welke aard ook, en geen opdracht aanvaarden tot het verrichten van werkzaamheden ten behoeve van derden.
+1. Behoudens het bepaalde op grond van voor Nederland, Aruba, Curaçao of Sint Maarten geldende rechtsregels en voor die ambtenaren geldende collectieve arbeidsovereenkomst mogen de ambtenaren van de Scheepvaartinspectie, tenzij met bijzondere vergunning van Onze Minister, geen particuliere betrekking waarnemen, onder welke benaming of van welke aard ook, en geen opdracht aanvaarden tot het verrichten van werkzaamheden ten behoeve van derden.
 
 2. De ambtenaren van de Scheepvaartinspectie en de ambtenaren van andere diensttakken, die ter beschikking van de dienst der Scheepvaartinspectie zijn gesteld, mogen rechtstreeks noch middellijk deelnemen aan scheepvaart- of aanverwante ondernemingen.
 
@@ -130,7 +130,7 @@ Het Hoofd van de Scheepvaartinspectie is, indien het in het belang van de uitoef
 
 3. Zij overtuigen zich of de schepen op merkbare wijze in sterkte zijn achteruit gegaan, dan wel schade hebben belopen en of herstellingen op afdoende wijze en met deugdelijk materiaal worden en zijn verricht.
 
-4. Zij overtuigen zich of is of zal worden voldaan aan de voorschriften in [artikel 4 der Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4) bedoeld, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2010-10-10&g=2010-10-10) dier Wet gesteld of gegeven.
+4. Zij overtuigen zich of is of zal worden voldaan aan de voorschriften in [artikel 4 der Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4) bedoeld, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2020-01-01&g=2020-01-01) dier Wet gesteld of gegeven.
 
 5. Zij zijn bevoegd zich alle in het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) genoemde voorwerpen te doen vertonen, inzage te nemen van de dagboeken, van de registers van waarnemingen betreffende kompassen en tijdmeters, van de certificaten en bewijzen, afgegeven bij het onderzoeken van lantaarns, instrumenten, enz. en in het algemeen van alle bescheiden welke kunnen dienen om te beoordelen of de voorschriften zijn of worden nageleefd.
 
@@ -170,7 +170,7 @@ Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Cura
 
 ##### Artikel 15
 
-Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten verneemt, dat in de gevallen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=11&z=2010-10-10&g=2010-10-10), meningsverschil bestaat tussen de ambtenaar en de kapitein of de eigenaar, dan stelt hij zich op de hoogte en tracht overeenstemming te bereiken, teneinde verdere moeilijkheden te voorkomen.
+Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten verneemt, dat in de gevallen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=11&z=2020-01-01&g=2020-01-01), meningsverschil bestaat tussen de ambtenaar en de kapitein of de eigenaar, dan stelt hij zich op de hoogte en tracht overeenstemming te bereiken, teneinde verdere moeilijkheden te voorkomen.
 
 ##### Artikel 16
 
@@ -178,7 +178,7 @@ Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Cura
 
 2. Tot het nemen van een stabiliteitsproef, hetzij met het ledige, hetzij met het geladen schip, zal intussen niet worden overgegaan voordat de Scheepsbouwkundig Adviseur of diens vervanger is geraadpleegd.
 
-3. In de in het eerste lid bedoelde gevallen, zomede in het geval bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=14&z=2010-10-10&g=2010-10-10), wordt onverwijld mededeling gedaan aan het Hoofd van de Scheepvaartinspectie. Hierbij wordt tevens vermeld of van de zijde van de eigenaar of van de kapitein tegen de lastgeving bezwaar is gemaakt. De werking van de lastgeving wordt opgeschort totdat de bezwaar- of beroepstermijn is verstreken of, indien bezwaar of beroep is ingesteld, op het bezwaar onderscheidenlijk beroep is beslist.
+3. In de in het eerste lid bedoelde gevallen, zomede in het geval bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=14&z=2020-01-01&g=2020-01-01), wordt onverwijld mededeling gedaan aan het Hoofd van de Scheepvaartinspectie. Hierbij wordt tevens vermeld of van de zijde van de eigenaar of van de kapitein tegen de lastgeving bezwaar is gemaakt. De werking van de lastgeving wordt opgeschort totdat de bezwaar- of beroepstermijn is verstreken of, indien bezwaar of beroep is ingesteld, op het bezwaar onderscheidenlijk beroep is beslist.
 
 4. In afwijking van het bepaalde in het tweede lid en de laatste zin van het derde lid van dit artikel, kan het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten nalaten de Scheepsbouwkundig Adviseur te raadplegen, onderscheidenlijk een beslissing van het Hoofd van de Scheepvaartinspectie af te wachten, indien daardoor naar zijn mening ongewenst oponthoud zou ontstaan.
 
@@ -218,7 +218,7 @@ Bij de uitoefening van hun ambt zijn de ambtenaren van de Scheepvaartinspectie s
 
 ##### Artikel 23
 
-De in artikel 81, onder **a** en **c**, van het Algemeen Rijksambtenaren Reglement genoemde straffen kunnen door het Hoofd van de Scheepvaartinspectie worden opgelegd; die genoemd onder **j** en **k** van dat artikel worden opgelegd door het gezag, dat bevoegd is tot benoeming tot het door de betrokkene beklede ambt en de overige in dat artikel genoemde straffen door Onze Minister.
+Disciplinaire straffen op grond van voor Aruba, Curaçao of Sint Maarten geldende rechtsregels worden opgelegd door het gezag, dat bevoegd is tot benoeming tot het door de betrokkene beklede ambt.
 
 ##### Artikel 24
 
