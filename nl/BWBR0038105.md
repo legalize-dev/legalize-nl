@@ -4,7 +4,7 @@ identifier: "BWBR0038105"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038105"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als inspecteurs, bedoeld in [artikel 8.3 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=8.3), worden aangewezen de Directeur, de Hoofdinspecteur en de ambtenaren werkzaam bij de Erfgoedinspectie die zijn aangesteld om toezicht te houden.
+Als inspecteurs, bedoeld in [artikel 8.3 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=8.3), worden aangewezen de Directeur, de Hoofdinspecteur en de ambtenaren werkzaam bij de Erfgoedinspectie die zijn aangewezen om toezicht te houden.
 
 ##### Artikel 2
 
