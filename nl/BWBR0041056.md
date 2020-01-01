@@ -4,7 +4,7 @@ identifier: "BWBR0041056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2019-08-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041056"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Deze paragraaf berust op de [artikelen 178c, vierde lid WPO](https://wetten.over
 
 ##### Artikel 4. Wijze van verstrekking
 
-Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=2&artikel=3&z=2019-08-01&g=2019-08-01), wordt het persoonsgebonden nummer voor de Minister en de inspectie elk afzonderlijk vervangen door een ander nummer of een code op een zodanige wijze dat de leerling of de voormalige leerling niet geïdentificeerd of identificeerbaar is, en wordt de geboortedatum vervangen als volgt:
+Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), wordt het persoonsgebonden nummer voor de Minister en de inspectie elk afzonderlijk vervangen door een ander nummer of een code op een zodanige wijze dat de leerling of de voormalige leerling niet geïdentificeerd of identificeerbaar is, en wordt de geboortedatum vervangen als volgt:
 
 - a. voor de verstrekking aan de Minister door de leeftijd van de leerling op de voor de bekostiging van belang zijnde peildata en
 
@@ -80,7 +80,7 @@ Bij de verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
-De verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=2&artikel=3&z=2019-08-01&g=2019-08-01), gebeurt wekelijks.
+De verstrekking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), gebeurt wekelijks.
 
 #### Paragraaf 3. Levering leerlinggegevens
 
@@ -90,31 +90,31 @@ Deze paragraaf berust op de [artikelen 178a, derde lid, WPO](https://wetten.over
 
 ##### Artikel 7. Levering leerlinggegevens
 
-1. Het bevoegd gezag levert de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in [artikel 178a, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) en [artikel 164a, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164a), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2019-08-01&g=2019-08-01), aan de Minister.
+1. Het bevoegd gezag levert de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in [artikel 178a, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) en [artikel 164a, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164a), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2020-01-01&g=2020-01-01), aan de Minister.
 
 2. De gegevens, bedoeld in [artikel 178a, tweede lid, onderdeel d, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) behoeven met ingang van 1 augustus 2019 niet langer te worden verstrekt.
 
 ##### Artikel 8. Bijzondere levering
 
-Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2019-08-01&g=2019-08-01), op de in dat artikel genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
+Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2020-01-01&g=2020-01-01), op de in dat artikel genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
 
 ##### Artikel 9. Data en termijnen voor levering leerlinggegevens
 
 1. Het bevoegd gezag levert de leerlinggegevens betreffende een inschrijving evenals de eventuele wijziging en toevoeging van leerlinggegevens met het persoonsgebonden nummer van de desbetreffende leerling binnen 14 dagen nadat deze in de administratie van de school zijn verwerkt als bedoeld in [artikel 40b, vijfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b) of [artikel 42a, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42a). In afwijking van de eerste volzin levert het bevoegd gezag de datum van in- of uitschrijving, bedoeld in [artikel 178a, tweede lid, onderdeel b, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a), of [artikel 164a, tweede lid, onderdeel b, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164a), met het persoonsgebonden nummer van de desbetreffende leerling binnen 7 dagen nadat deze in de administratie van de school is verwerkt als bedoeld in [artikel 40b, vijfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b) of [artikel 42a, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42a).
 
-2. Het bevoegd gezag levert de gegevens, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2019-08-01&g=2019-08-01), op een door de Minister te bepalen tijdstip.
+2. Het bevoegd gezag levert de gegevens, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2020-01-01&g=2020-01-01), op een door de Minister te bepalen tijdstip.
 
 ##### Artikel 10. Inzage leerlingenadministratie
 
-In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2019-08-01&g=2019-08-01) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
+In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2020-01-01&g=2020-01-01) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
 
 ##### Artikel 11. Terugkoppeling inschrijvingsgegevens
 
-Binnen 7 dagen na de levering, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=9&z=2019-08-01&g=2019-08-01), meldt de Minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24c), aan het bevoegd gezag.
+Binnen 7 dagen na de levering, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=9&z=2020-01-01&g=2020-01-01), meldt de Minister de geverifieerde gegevens, inclusief de uitkomsten van de controles en de aanvullende gegevens van de basisregistratie personen, bedoeld in [artikel 24c, eerste lid, onderdeel g, WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24c), aan het bevoegd gezag.
 
 ##### Artikel 12. Technische specificaties
 
-De technische specificaties ten behoeve van de uitvoering van deze paragraaf zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2019-08-01&g=2019-08-01).
+De technische specificaties ten behoeve van de uitvoering van deze paragraaf zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2020-01-01&g=2020-01-01).
 
 #### Paragraaf 4. Levering organisatie- en personeelsgegevens en gegevens voor het lerarenregister en registervoorportaal
 
@@ -124,23 +124,23 @@ Deze paragraaf berust op [artikel 11a, tweede lid, van het Besluit bekostiging W
 
 ##### Artikel 14. Te leveren gegevens
 
-1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2019-08-01&g=2019-08-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2019-08-01&g=2019-08-01), aan de Minister.
+1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2020-01-01&g=2020-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2020-01-01&g=2020-01-01), aan de Minister.
 
-2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2019-08-01&g=2019-08-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2019-08-01&g=2019-08-01), aan de Minister.
+2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2020-01-01&g=2020-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2020-01-01&g=2020-01-01), aan de Minister.
 
-3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2019-08-01&g=2019-08-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2019-08-01&g=2019-08-01), aan de Minister.
+3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2020-01-01&g=2020-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2020-01-01&g=2020-01-01), aan de Minister.
 
-4. De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2019-08-01&g=2019-08-01).
+4. De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2020-01-01&g=2020-01-01).
 
-5. De levering van gegevens voor het lerarenregister en het registervoorportaal en de wijze waarop een leraar die niet is benoemd of tewerkgesteld zonder benoeming ten behoeve van opname in het lerarenregister kan aantonen aan de bekwaamheidseisen te voldoen geschiedt overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2019-08-01&g=2019-08-01).
+5. De levering van gegevens voor het lerarenregister en het registervoorportaal en de wijze waarop een leraar die niet is benoemd of tewerkgesteld zonder benoeming ten behoeve van opname in het lerarenregister kan aantonen aan de bekwaamheidseisen te voldoen geschiedt overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 15. Bijzondere levering
 
-Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2019-08-01&g=2019-08-01), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
+Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
 
 ##### Artikel 16. Tijdstippen van levering
 
-1. Het bevoegd gezag levert vier maal per jaar, uiterlijk op de genoemde datum, de personele gegevens, bedoeld in paragraaf 2.3.1 tot en met 2.3.3 van [bijlage 6,](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2019-08-01&g=2019-08-01) over de daarbij genoemde voorafgaande maanden:
+1. Het bevoegd gezag levert vier maal per jaar, uiterlijk op de genoemde datum, de personele gegevens, bedoeld in paragraaf 2.3.1 tot en met 2.3.3 van [bijlage 6,](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2020-01-01&g=2020-01-01) over de daarbij genoemde voorafgaande maanden:
 
 - a. 15 maart; de gegevens over november, december en januari;
 
@@ -152,13 +152,13 @@ Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat
 
 2. Het bevoegd gezag levert jaarlijks uiterlijk op de genoemde datum de volgende gegevens:
 
-- a. 15 maart; de personele gegevens, genoemd in paragraaf 2.3.1 tot en met 2.3.5 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2019-08-01&g=2019-08-01), over het voorafgaande kalenderjaar;
+- a. 15 maart; de personele gegevens, genoemd in paragraaf 2.3.1 tot en met 2.3.5 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2020-01-01&g=2020-01-01), over het voorafgaande kalenderjaar;
 
-- b. 30 juni; de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2019-08-01&g=2019-08-01), over het voorafgaande kalenderjaar;
+- b. 30 juni; de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2020-01-01&g=2020-01-01), over het voorafgaande kalenderjaar;
 
 - c. 30 november; de personele gegevens genoemd in [artikel 11a van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11a) of [artikel 10b van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=10b).
 
-3. Het bevoegd gezag levert maandelijks de gegevens voor het lerarenregister en het registervoorportaal, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2019-08-01&g=2019-08-01), paragraaf 1.
+3. Het bevoegd gezag levert maandelijks de gegevens voor het lerarenregister en het registervoorportaal, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2020-01-01&g=2020-01-01), paragraaf 1.
 
 #### Paragraaf 5. Overige bepalingen
 
@@ -178,7 +178,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2018.
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening WPO/WEC.
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Leerlinggegevens
 
@@ -186,7 +186,7 @@ Deze regeling wordt aangehaald als: Regeling informatievoorziening WPO/WEC.
 
 ### 1.1. Algemeen
 
-Deze bijlage beschrijft het Programma van Eisen (PvE) ten behoeve van de bevoegde gezagsorganen. De technische specificaties (PvE leerlinggegevens ten behoeve van softwareleveranciers) zijn hiervan afgeleid (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2019-08-01&g=2019-08-01)).
+Deze bijlage beschrijft het Programma van Eisen (PvE) ten behoeve van de bevoegde gezagsorganen. De technische specificaties (PvE leerlinggegevens ten behoeve van softwareleveranciers) zijn hiervan afgeleid (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2020-01-01&g=2020-01-01)).
 
 ### 2. Definities
 
@@ -214,7 +214,7 @@ Na het doorgeven van de deelnamegegevens wordt de procedure gestart voor leverin
 
 ### 3.4. Uitwisseling tussen de scholen en DUO
 
-Na installatie van het certificaat kan de gegevensuitwisseling met DUO starten. Het gebruik van de aangeboden services is verplicht: er is geen toegang mogelijk met andere services. Het staat de softwareleveranciers wel vrij om te bepalen **hoe** de services in de LAS-applicatie worden ‘opgehangen’. Verdere technische informatie voor de uitwisseling staat in het ‘PvE leerlinggegevens ten behoeve van softwareleveranciers’ (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2019-08-01&g=2019-08-01)).
+Na installatie van het certificaat kan de gegevensuitwisseling met DUO starten. Het gebruik van de aangeboden services is verplicht: er is geen toegang mogelijk met andere services. Het staat de softwareleveranciers wel vrij om te bepalen **hoe** de services in de LAS-applicatie worden ‘opgehangen’. Verdere technische informatie voor de uitwisseling staat in het ‘PvE leerlinggegevens ten behoeve van softwareleveranciers’ (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2020-01-01&g=2020-01-01)).
 
 ### 3.4.1. Uitwisseling scholen - BRON
 
@@ -300,7 +300,7 @@ In dit hoofdstuk staan de eisen met betrekking tot de uitwisseling geformuleerd 
 
 Het merendeel van de eisen zijn technisch van aard en bedoelt voor de softwareleveranciers.
 
-Voor deze eisen wordt verwezen naar het ‘PvE leerlinggegevens ten behoeve van softwareleveranciers’ (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2019-08-01&g=2019-08-01)). De (procedurele) eisen aan de scholen worden hier genoemd.
+Voor deze eisen wordt verwezen naar het ‘PvE leerlinggegevens ten behoeve van softwareleveranciers’ (zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=3&z=2020-01-01&g=2020-01-01)). De (procedurele) eisen aan de scholen worden hier genoemd.
 
 NB:
 
@@ -368,7 +368,7 @@ Voor de gegevens met betrekking tot het BRP wordt verwezen naar de site van de R
 
 Het betreft hier de volgende tabellen:
 
-## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### Inrichting van de leerlingenadministratie
 
@@ -496,7 +496,7 @@ Het bevoegd gezag verplicht voor alle onder het gezag staande bekostigde scholen
 
 Onderscheid wordt gemaakt tussen:
 
-Het bevoegde gezag levert de in dit PvE vermelde gegevens voor alle personen met wie het bevoegde gezag een arbeidsrelatie heeft, ongeacht of de persoon werkzaam is bij een school of instelling dan wel een bovenschoolse aanstelling heeft.
+Het bevoegde gezag levert de in dit PvE vermelde gegevens voor alle personen met wie het bevoegde gezag een arbeidsrelatie heeft, ongeacht of de persoon werkzaam is bij een school of instelling dan wel een bovenschoolse benoeming heeft.
 
 In dit PvE worden de gegevens die geleverd moeten worden genoemd. Net als bij de andere bijlagen in deze Regeling worden in dit PvE alleen de gegevens genoemd zoals de bevoegde gezagsorganen deze moeten aanleveren. Op de site van DUO staan het format, lengte en andere aspecten hoe de gegevens geleverd moeten worden (https://www.duo.nl/zakelijk/primair-onderwijs/personeel/levering-personeelsgegevens.jsp).
 
@@ -522,7 +522,7 @@ Het identificerende nummer van een instelling volgens de Basisregistratie Instel
 
 Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee hoofdletters.
 
-De aanduiding of de aanstelling of benoeming in vaste dienst of tijdelijke dienst is, bedoeld in [artikel 53 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=53) en [artikel 56 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=56). Daarnaast wordt de tewerkstelling zonder benoeming onderscheiden.
+De aanduiding of de benoeming in vaste dienst of tijdelijke dienst is. Daarnaast wordt de tewerkstelling zonder benoeming onderscheiden.
 
 Conform de begripsbepalingen van [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) wordt met personeel ook het personeel dat zonder benoeming is tewerkgesteld bedoeld. Dat betekent dat niet alleen de personen bedoeld worden waarmee een expliciete werknemersrelatie bestaat. Ook personeel in dienst van derden (zoals uitzend- en payrollbureaus) en zelfstandig personeel (zoals zpp-ers) dat reguliere werkzaamheden op de school verricht wordt hier beschouwd als personeel. Dat betekent dat de regelgeving over de verplichte informatielevering over personeel zich ook uitstrekt tot het personeel niet in loondienst.
 
@@ -646,7 +646,7 @@ Voor bovenstaande gegevens geldt de aanleverdatum uit het bekostigingsbesluit. H
 
 De gegevens genoemd in de tabel worden maandelijks volledig en correct door het bevoegd gezag aan de Minister geleverd.
 
-Op de wijze van levering van gegevens genoemd in de tabel is hoofdstuk 2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2019-08-01&g=2019-08-01) bij deze regeling van overeenkomstige toepassing, met dien verstande dat gegevens digitaal worden aangeleverd.
+Op de wijze van levering van gegevens genoemd in de tabel is hoofdstuk 2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=1&z=2020-01-01&g=2020-01-01) bij deze regeling van overeenkomstige toepassing, met dien verstande dat gegevens digitaal worden aangeleverd.
 
 Gegevens die een leraar op grond van [artikel 38h, derde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38h) dan wel [artikel 38h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38h), levert, worden door de betreffende leraar via het CIBG aan de Minister geleverd, waarbij hij het bewijsstuk, bedoeld in
 
@@ -698,13 +698,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Het verzuim dient per dagdeel geregistreerd te worden en bevat van iedere leerling de volgende gegevens:
 
-## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2019-08-01&g=2019-08-01) van de Regeling informatievoorziening WPO/WEC
+## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01) van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Technisch specificaties leerlinggegevens t.b.v. softwareleveranciers
 
 Het Programma van Eisen (PvE) met de technische specificaties voor softwareleveranciers (PvE leerlinggegevens ten behoeve van softwareleveranciers) en overige informatie ten behoeve van de softwareleveranciers is te vinden op de site van DUO: https://duo.nl/zakelijk/primair-onderwijs/softwareleveranciers/softwareleveranciers-las.jsp.
 
-## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Organisatiegegevens
 
@@ -742,13 +742,13 @@ Alle wijzigingen worden aangeleverd binnen vier weken na mutatiedatum.
 
 De aanlevering geschiedt via het BRIN-mutatieformulier of elektronisch. U dient hiervoor gebruik te maken van het onderwerp instellingsinformatie onder www.duo.nl.
 
-## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Financiële gegevens
 
 Het bevoegd gezag levert jaarlijks uiterlijk 30 juni over het voorafgaande kalenderjaar aan DUO:
 
-## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Personele gegevens
 
@@ -786,13 +786,13 @@ De gegevens genoemd in de paragrafen 2.3.1tot en met 2.3.3, dienen vier maal per
 
 In dit hoofdstuk wordt de functionele uitwerking gegeven van de gegevensleveringen. De technische uitwerking is opgenomen in de documentatie op de site van DUO.
 
-### 4.1. Arbeidsrelatie versus aanstelling/benoeming
+### 4.1. Arbeidsrelatie versus benoeming
 
-Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen en benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming of aanstelling zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties:
+Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de volgende situaties:
 
 ### 4.2. Benoemingen bij meer dan één instelling
 
-Een bevoegd gezag kan een persoon aanstellen of benoemen om bij één instelling of bij meer instellingen werkzaam te zijn. (In het vervolg van deze bijlage worden alleen de termen benoemen, benoemde en benoeming(en) gebruikt. Voor het openbaar onderwijs dient hiervoor aanstellen, aangestelde respectievelijk aanstelling(en) gelezen te worden.) Als er sprake is van een benoeming waarbij de benoemde bij meer dan één instelling van een bevoegd gezag werkzaam is, dan is er in het kader van dit PvE sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende instellingen één dan wel verschillende aktes van benoeming zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal instellingen waar een persoon werkzaam is. De gegevens die op basis van het PvE personeel en salarisgegevens geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd en geleverd.
+Een bevoegd gezag kan een persoon benoemen om bij één instelling of bij meer instellingen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één instelling van een bevoegd gezag werkzaam is, dan is er in het kader van dit PvE sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende instellingen één dan wel verschillende aktes van benoeming dan wel arbeidsovereenkomsten zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal instellingen waar een persoon werkzaam is. De gegevens die op basis van het PvE personeel en salarisgegevens geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd en geleverd.
 
 ### 4.2.1. Benoemingen in meer dan één functie
 
@@ -858,7 +858,7 @@ De aanlevering van de beleidsgegevens geschiedt elektronisch.
 
 De aanlevering van de GGL geschiedt elektronisch door aanlevering van een bestand in CSV-formaat. Per instelling wordt één regel geleverd met de volgende specificaties:
 
-## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2019-08-01&g=2019-08-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE gegevens lerarenregister en registervoorportaal
 
