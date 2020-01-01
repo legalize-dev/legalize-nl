@@ -4,7 +4,7 @@ identifier: "BWBR0042488"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2019-08-14"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042488"
 soort: "ministeriele-regeling"
@@ -52,12 +52,12 @@ Wijzigt de Uitvoeringsregeling visserij.
 
 ##### Artikel III
 
-Het in [artikel 53, eerste lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=53) bedoelde verbod is, voor zover dat betrekking heeft op artikel 7, eerste lid, onder b, van Verordening (EU) 2019/1241 van het Europees Parlement en de Raad van 20 juni 2019 betreffende de instandhouding van visbestanden en de bescherming van mariene ecosystemen door middel van technische maatregelen, tot wijziging van de [Verordeningen (EG) nr. 1967/2006](32006R1967) en [(EG) nr. 1224/2009](32009R1224) van de Raad en de Verordeningen (EU) [nr. 2013/1380](33280R2013), (EU) [nr. 2016/1139](33039R2016), (EU) [2018/973](32873R2018), (EU) [2019/472](32372R2019) en (EU) [2019/1022](32922R2019) van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen [(EG) nr. 894/97](31997R0894), [(EG) nr. 850/98](31998R0850), [(EG) nr. 2549/2000](32000R2549), [(EG) nr. 254/2002](32002R0254), [(EG) nr. 812/2004](32004R0812) en [(EG) nr. 2187/2005](32005R2187) van de Raad (PbEU 2019, L198), tot 1 januari 2020 niet van toepassing op visserijactiviteiten die worden uitgeoefend ten behoeve van wetenschappelijk onderzoek dat onder de werking van artikel 43 van [Verordening (EG) nr. 850/98](31998R0850) van de Raad van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen (PbEG L 125) is gestart en dat in 2019 wordt afgerond, voor zover de deelnemers aan dit onderzoek ten behoeve van deze activiteiten op 13 augustus 2019 om 24.00 uur beschikten over een geldige pulstoestemming die door de minister na 2010 is verleend op grond van [artikel 8, tweede lid, onderdeel b, van de Regeling technische maatregelen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011061&artikel=8), of op grond van [artikel 53, vijfde of zesde lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=53) zoals deze artikelonderdelen luidden op het tijdstip waarop deze toestemming werd verleend, voor zover deze toestemming nadien niet door de Minister van Landbouw, Natuur en Voedselkwaliteit is geschorst of ingetrokken.
+Vervallen
 
 ##### Artikel IV
 
 1. Deze regeling treedt in werking met ingang van 14 augustus 2019.
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042488&artikel=III&z=2019-08-14&g=2019-08-14) vervalt met ingang van 1 januari 2020.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042488&artikel=III&z=2020-01-01&g=2020-01-01) vervalt met ingang van 1 januari 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
