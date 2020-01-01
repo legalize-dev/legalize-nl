@@ -4,7 +4,7 @@ identifier: "BWBR0001847"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-01-01"
-last_updated: "2017-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001847"
 soort: "rijkswet"
@@ -58,17 +58,19 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 5. Een consulaire ambtenaar mag scheidsman zijn.
 
+6. De aan het hoofd van consulaire posten gestelde ambtenaren worden bij koninklijk besluit aangewezen voor de duur dat zij in die functie zijn gesteld. De aanwijzing eindigt met ingang van de datum dat de uitoefening van de functie van hoofd van een consulaire post geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
+
 ##### Artikel 2
 
 Onder consulaire ambtenaren verstaat deze wet de aan het hoofd van consulaire posten gestelde diplomatieke en consulaire ambtenaren en de verdere leden van het personeel van de buitenlandse dienst, die aan een consulaire post een consulaire betrekking bekleden.
 
 ##### Artikel 3
 
-Bij afwezigheid of verhindering van de, ingevolge [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2017-03-01&g=2017-03-01) aangewezen, consulaire ambtenaar, wordt deze vervangen door de ter plaatse zijner vestiging aanwezige consulaire ambtenaar van mindere rang, en, bij ontstentenis van zodanige ambtenaar, door de persoon, die tot het waarnemen zijner betrekking aangewezen is.
+Bij afwezigheid of verhindering van de, ingevolge [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2020-01-01&g=2020-01-01) aangewezen, consulaire ambtenaar, wordt deze vervangen door de ter plaatse zijner vestiging aanwezige consulaire ambtenaar van mindere rang, en, bij ontstentenis van zodanige ambtenaar, door de persoon, die tot het waarnemen zijner betrekking aangewezen is.
 
 ##### Artikel 4
 
-Ter vervulling van zijn in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2017-03-01&g=2017-03-01) genoemde bevoegdheden kan een consulaire ambtenaar een tolk benoemen of, bij voorkomende omstandigheden, een persoon tijdelijk met de betrekking van tolk belasten.
+Ter vervulling van zijn in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2020-01-01&g=2020-01-01) genoemde bevoegdheden kan een consulaire ambtenaar een tolk benoemen of, bij voorkomende omstandigheden, een persoon tijdelijk met de betrekking van tolk belasten.
 
 ##### Artikel 5
 
@@ -80,7 +82,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. Grossen van overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Tweede&artikel=17&z=2017-03-01&g=2017-03-01) opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".
+1. Grossen van overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Tweede&artikel=17&z=2020-01-01&g=2020-01-01) opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".
 
 2. Deze grossen en grossen van uit kracht van de wet door een consulaire ambtenaar gedane uitspraken zijn in het Koninkrijk uitvoerbaar, mits in behoorlijke vorm opgemaakt.
 
@@ -88,7 +90,7 @@ Vervallen
 
 ##### Artikel 8
 
-Voor alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden, is het gebruik van elke levende taal geoorloofd, mits de gebezigde taal wordt verstaan door de partijen en door allen die bij het opmaken of verlijden der akten verschijnen ofwel de inhoud aan hen die de gebezigde taal niet verstaan, wordt vertolkt door een volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=5&z=2017-03-01&g=2017-03-01) beëdigde tolk.
+Voor alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden, is het gebruik van elke levende taal geoorloofd, mits de gebezigde taal wordt verstaan door de partijen en door allen die bij het opmaken of verlijden der akten verschijnen ofwel de inhoud aan hen die de gebezigde taal niet verstaan, wordt vertolkt door een volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=5&z=2020-01-01&g=2020-01-01) beëdigde tolk.
 
 ##### Artikel 9
 
