@@ -4,7 +4,7 @@ identifier: "BWBR0007014"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "1995-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007014"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De verklaring van een arts of een verloskundige, bedoeld in [artikel 19e, achtste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), wordt opgemaakt door invulling van een formulier ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=1&z=1995-01-01&g=1995-01-01) aangehechte model (formaat A4, 297 × 210 mm). Het formulier wordt vervaardigd als doordrukformulier met twee kopieën, waarvan de ene door de arts of de verloskundige kan worden gehouden en de andere aan de moeder of de aangever kan worden uitgereikt.
+De verklaring van een arts of een verloskundige, bedoeld in [artikel 19e, elfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), wordt opgemaakt door invulling van een formulier ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=1&z=2020-01-01&g=2020-01-01) aangehechte model (formaat A4, 297 × 210 mm). Het formulier wordt vervaardigd als doordrukformulier met twee kopieën, waarvan de ene door de arts of de verloskundige kan worden gehouden en de andere aan de moeder of de aangever kan worden uitgereikt.
 
 ##### Artikel 2
 
-De in artikel 27, tweede lid, van het Besluit burgerlijke stand bedoelde enveloppe is ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=2&z=1995-01-01&g=1995-01-01) aangehechte model (formaat A5, 162 × 229 mm).
+De in artikel 27, tweede lid, van het Besluit burgerlijke stand bedoelde enveloppe is ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007014&bijlage=2&z=2020-01-01&g=2020-01-01) aangehechte model (formaat A5, 162 × 229 mm).
 
 ##### Artikel 3
 
@@ -53,7 +53,7 @@ Indien de Wet van 14 oktober 1993 tot herziening van Titel 4 van Boek 1 van het 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. Verklaring van geboorte ex [artikel 19e, achtste lid, Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), op te maken door een arts of een verloskundige
+## Bijlage 1. Verklaring van geboorte ex [artikel 19e, elfde lid, Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), op te maken door een arts of een verloskundige
 
 ### 1. Kind
 
