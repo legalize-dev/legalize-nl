@@ -4,7 +4,7 @@ identifier: "BWBR0039490"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2018-12-04"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039490"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **Jos Brinkprijs:** de Jos Brinkprijs, bedoeld in [artikel 2 van het Besluit instelling Jos Brink prijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024802&artikel=2), die kan worden toegekend in de vorm van een oeuvreprijs en van een innovatieprijs;
 
-- c. **jury:** de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2018-12-04&g=2018-12-04);
+- c. **jury:** de jury, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - d. **LHBTI-personen:** lesbische vrouwen, homoseksuele mannen, biseksuelen, transgenders en intersekse personen;
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 1. Elke twee jaar is er een onafhankelijke jury Jos Brinkprijs.
 
-2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2018-12-04&g=2018-12-04), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
+2. De jury wordt telkens ingesteld voor 1 december van het jaar voorafgaand aan de beoogde toekenning van de prijs en wordt opgeheven op de dag na de datum waarop het verslag, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=12&z=2020-01-01&g=2020-01-01), wordt opgeleverd. De minister kan besluiten de jury op een latere datum in te stellen of op te heffen.
 
 3. De jury heeft tot taak aan de minister schriftelijk advies uit te brengen over de toekenning van de Jos Brink oeuvreprijs en de toekenning van de Jos Brink innovatieprijs. Hij draagt kandidaten voor beide prijzen voor overeenkomstig de procedure beschreven in deze regeling.
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De voorzitter en de andere leden worden door de minister benoemd.
 
-3. De benoeming geschiedt telkens voor de duur van de instelling van de jury als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2018-12-04&g=2018-12-04).
+3. De benoeming geschiedt telkens voor de duur van de instelling van de jury als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=2&z=2020-01-01&g=2020-01-01).
 
 4. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
@@ -84,9 +84,9 @@ De minister doet van de instelling en samenstelling van de jury mededeling in de
 
 Bij de vaststelling van haar advies en kandidaatstelling gaat de jury als volgt te werk:
 
-- 1. De secretaris stelt een voorlopige kandidatenlijst op van de personen, groepen of instellingen, die zijn aangemeld voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brink innovatieprijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=4&z=2018-12-04&g=2018-12-04). De lijsten kunnen worden aangevuld met personen die door de juryleden zelf worden aangedragen.
+- 1. De secretaris stelt een voorlopige kandidatenlijst op van de personen, groepen of instellingen, die zijn aangemeld voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brink innovatieprijs als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=4&z=2020-01-01&g=2020-01-01). De lijsten kunnen worden aangevuld met personen die door de juryleden zelf worden aangedragen.
 
-- 2. Ieder jurylid brengt per lijst een stem uit op ten hoogste vijf personen, groepen of instellingen van wie hij van mening is dat deze het meest voor de Jos Brink oeuvreprijs respectievelijk de Jos Brink innovatieprijs in aanmerking komen gelet op de selectiecriteria opgenomen in de bijlage bij de regeling, rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=8&z=2018-12-04&g=2018-12-04). De juryleden kunnen zich onthouden van stemmen.
+- 2. Ieder jurylid brengt per lijst een stem uit op ten hoogste vijf personen, groepen of instellingen van wie hij van mening is dat deze het meest voor de Jos Brink oeuvreprijs respectievelijk de Jos Brink innovatieprijs in aanmerking komen gelet op de selectiecriteria opgenomen in de bijlage bij de regeling, rekening houdend met de eisen aan de voordracht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039490&artikel=8&z=2020-01-01&g=2020-01-01). De juryleden kunnen zich onthouden van stemmen.
 
 - 3. De secretaris telt per lijst de stemmen en stelt een definitieve kandidatenlijst op van ten hoogste tien kandidaten voor de Jos Brink oeuvreprijs, respectievelijk de Jos Brinkinnovatieprijs, in de volgorde van degenen op wie de meeste stemmen zijn uitgebracht.
 
@@ -134,11 +134,11 @@ De jury verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
 
 ##### Artikel 10. Vergoeding
 
-1. De voorzitter en andere leden van de jury, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen per vergadering een vergoeding. De vergoeding per vergadering van de leden van de jury bedraagt 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De voorzitter en andere leden van de jury, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen per vergadering een vergoeding. De vergoeding per vergadering van de leden van de jury bedraagt 2% van het maximum van salarisschaal 18 van zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. De vergoeding per vergadering van de voorzitter van de jury bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de jury is toegekend.
 
-3. De voorzitter en andere leden van de jury ontvangen tevens een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+3. De voorzitter en andere leden van de jury ontvangen tevens een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 4. Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.
 
