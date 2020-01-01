@@ -4,7 +4,7 @@ identifier: "BWBR0033132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2019-05-08"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033132"
 soort: "ministeriele-regeling"
@@ -54,11 +54,9 @@ In dit besluit wordt verstaan onder:
 
 - d. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- e. **het BBRA:** het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
+- e. **de CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk;
 
-- f. **het ARAR:** het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
-
-- g. **de EG concentratieverordening:** [Verordening (EG) nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU L 24/14).
+- f. **de EG concentratieverordening:** [Verordening (EG) nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU L 24/14).
 
 ##### Artikel 2
 
@@ -86,47 +84,55 @@ Aan de ACM wordt op het werkterrein van de ACM volmacht en machtiging verleend v
 
 ##### Artikel 5
 
-Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6
 
 1. Aan de ACM wordt mandaat, volmacht en machtiging verleend voor de P&O-aangelegenheden ten aanzien van het personeel dat de minister aan de ACM ter beschikking stelt.
 
-2. In afwijking van het eerste lid geldt het mandaat, de volmacht en de machtiging niet voor de volgende aangelegenheden:
+2. Voor de volgende aangelegenheden geldt dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+
+- 1°. het opleggen van ordemaatregelen en straffen, anders dan schorsing, als bedoeld in hoofdstuk 15 van de CAO Rijk;
+
+- 2°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
+
+3. In afwijking van het eerste lid geldt het mandaat, de volmacht en de machtiging niet voor de volgende aangelegenheden:
 
 - a. beslissingen op bezwaarschriften inzake personeelsaangelegenheden;
 
-- b. het verlenen van ontslag op grond van [artikel 99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) en het verlenen van ontslag in combinatie van een financiële regeling;
+- b. het aangaan van een arbeidsovereenkomst voor bepaalde tijd met en het inlenen op basis van een uitzendovereenkomst van een persoon die de AOW-leeftijd heeft bereikt;
 
-- c. besluiten ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies, waarvoor die salarisschalen gelden, inhoudende:
+- c. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
+
+- d. beslissingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies, waarvoor die salarisschalen gelden, inhoudende:
 
 - 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste en tijdelijke aanstellingen van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
-- 2°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=34) ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
+- 2°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
-- 3°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81);
+- 3°. het opleggen van ordemaatregelen en straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- 4°. het schorsen van een ambtenaar op basis van [artikel 91 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=91);
+- 4°. het toekennen van een hogere salarisschaal van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
-- 5°. het verminderen van de bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=92);
+- 5°. het beslissen omtrent toekennen van een terugkeergarantie;
 
-- 6°. het bevorderen naar een hogere salarisschaal van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
+- 6°. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
-- 7°. het beslissen omtrent toekennen van een terugkeergarantie;
+- 7°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- 8°. het nemen van besluiten omtrent schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
+- 8°. het opzeggen van een arbeidsovereenkomst om een dringende reden als bedoeld in [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
 
-- 9°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
+- 9°. het sluiten van tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
 ##### Artikel 7
 
-1. De ACM kan voor de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
+1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
 
-2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
+2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
 
-3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2019-05-08&g=2019-05-08) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
+3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
 
-4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2019-05-08&g=2019-05-08) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
+4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2020-01-01&g=2020-01-01) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
 
 ##### Artikel 8
 
