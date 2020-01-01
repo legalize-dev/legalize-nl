@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2019-09-18"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -37568,7 +37568,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 1. Gasunie Transport Services B.V. beheert het landelijk gastransportnet in Nederland.
 
-2. Het gebied van de in het eerste lid genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
+2. Het gebied van de in het eerste lid genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitingen bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
 
 ##### Artikel 4. Het regionale gastransportnet
 
@@ -37660,11 +37660,11 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 ##### Artikel 5. Het recht op aansluiting op een regionaal gastransportnet
 
-1. Binnen de gebieden genoemd in artikel 4 heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid, onderdeel a, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10) of een aansluitpunt, als bedoeld in artikel 10, zesde lid, onderdeel b, van de Gaswet, op het regionale gastransportnet.
+1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2020-01-01&g=2020-01-01) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
 
 2. In afwijking van het eerste lid heeft een kleinverbruiker geen recht op een aansluiting indien de aan te sluiten gasinstallatie zich bevindt in een gebied buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom' wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de Wegenverkeerswet.
 
-3. De netbeheerder bepaalt de acceptabele netlengte van het nieuw aan te leggen net, bedoeld in het tweede lid, door voor alle potentiële aansluitingen de rekencapaciteit bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij kiest de netbeheerder het gebied ter bepaling van ‘alle potentiële aangeslotenen' zo dat dat leidt tot de voor de aangeslotene meest gunstige uitkomst.
+3. De netbeheerder bepaalt de acceptabele netlengte van het nieuw aan te leggen net, bedoeld in het tweede lid, door voor alle potentiële aansluitingen de rekencapaciteit bedoeld in [artikel 2.22, tweede lid van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.22) op te tellen en te vermenigvuldigen met 15. Daarbij kiest de netbeheerder het gebied ter bepaling van ‘alle potentiële aangeslotenen' zo dat dat leidt tot de voor de aangeslotene meest gunstige uitkomst.
 
 4. De equivalente netlengte, bedoeld in het tweede lid, is gelijk aan de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluiting, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor benodigde reduceerstations.
 
