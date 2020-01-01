@@ -4,7 +4,7 @@ identifier: "BWBR0037421"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-12-24"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037421"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluiten:
 
 ##### Artikel 2
 
-Aan de daarvoor in aanmerking komende leden van de Commissie rechtseenheid bestuursrecht wordt een vergoeding toegekend per vergadering van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+Aan de daarvoor in aanmerking komende leden van de Commissie rechtseenheid bestuursrecht wordt een vergoeding toegekend per vergadering van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
