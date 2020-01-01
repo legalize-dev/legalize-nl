@@ -4,7 +4,7 @@ identifier: "BWBR0038255"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-01-01"
-last_updated: "2016-07-14"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038255"
 soort: "beleidsregel"
@@ -96,7 +96,7 @@ De raad van bestuur verleent een vergunning voor de duur van maximaal vijf jaar.
 
 3. De raad van bestuur kan afwijken van het tweede lid, indien:
 
-- a. de vergunninghouder waarborgt dat ieder kalenderjaar minimaal 75% van de nominale waarde van de verkochte deelnemingsbewijzen aan bij of krachtens de vergunning aangewezen begunstigden wordt afgedragen; en
+- a. de vergunninghouder waarborgt dat ieder kalenderjaar minimaal 65% van de nominale waarde van de verkochte deelnemingsbewijzen aan bij of krachtens de vergunning aangewezen begunstigden wordt afgedragen; en
 
 - b. de afdracht ten goede komt aan doelen van enig algemeen belang die door de vergunninghouder vooraf zijn geoormerkt.
 
@@ -136,13 +136,13 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 1. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder in ieder geval beschikt over een te allen tijde actuele, openbare en eenvoudig te raadplegen:
 
-- a. beleids- of activiteitenplan van de vergunninghouder of een gelijksoortig document met een beschrijving van de wijze waarop hij beoogt de doelstellingen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=8&z=2016-07-14&g=2016-07-14), te verwezenlijken;
+- a. beleids- of activiteitenplan van de vergunninghouder of een gelijksoortig document met een beschrijving van de wijze waarop hij beoogt de doelstellingen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=8&z=2020-01-01&g=2020-01-01), te verwezenlijken;
 
 - b. beschrijving van de wijze waarop wordt bepaald welke organisaties worden aangemerkt als begunstigden;
 
 - c. lijst van alle begunstigden met de vermelding welke van deze begunstigden ANBI-status hebben;
 
-- d. lijst van vooraf geoormerkte doelen van enig algemeen belang, voor zover sprake is van een geval als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=5&z=2016-07-14&g=2016-07-14);
+- d. lijst van vooraf geoormerkte doelen van enig algemeen belang, voor zover sprake is van een geval als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038255&artikel=5&z=2020-01-01&g=2020-01-01);
 
 - e. beschrijving op welke wijze de afdracht wordt verdeeld onder de begunstigden;
 
