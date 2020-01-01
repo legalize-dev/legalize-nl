@@ -4,7 +4,7 @@ identifier: "BWBR0039810"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039810"
 soort: "pbo"
@@ -62,19 +62,21 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - g. **beroepsorganisatie:** Nederlandse beroepsorganisatie van accountants als bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
-- h. **bestuur:** bestuur van de beroepsorganisatie;
+- h. **CPB:** Centraal Planbureau, bedoeld in [artikel 2, eerste lid van de Wet voorbereiding van de vaststelling van een Centraal Economisch Plan](https://wetten.overheid.nl/jci1.3:c:BWBR0002029&artikel=2);
 
-- i. **hertoetsing:** hertoetsing als bedoeld in [artikel 1, onderdeel l, van de Verordening op de kwaliteitsbeoordelingen](onbekend);
+- i. **bestuur:** bestuur van de beroepsorganisatie;
 
-- j. **koepelorganisatie:** koepelorganisatie als bedoeld in [artikel 1, onderdeel o, van de Verordening op de kwaliteitsbeoordelingen](onbekend);
+- j. **hertoetsing:** hertoetsing als bedoeld in [artikel 1, onderdeel l, van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=1);
 
-- k. **thematisch onderzoek:** thematisch onderzoek als bedoeld in [artikel 1, onderdeel v, van de Verordening op de kwaliteitsbeoordelingen](onbekend);
+- k. **koepelorganisatie:** koepelorganisatie als bedoeld in [artikel 1, onderdeel o, van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=1);
 
-- l. **toetsing:** toetsing als bedoeld in [artikel 1, onderdeel w, van de Verordening op de kwaliteitsbeoordelingen](onbekend);
+- l. **thematisch onderzoek:** thematisch onderzoek als bedoeld in [artikel 1, onderdeel v, van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=1);
 
-- m. **vrijstellingsverzoek:** verzoek als bedoeld in [artikel 25 van de Verordening op de kwaliteitsbeoordelingen](onbekend);
+- m. **toetsing:** toetsing als bedoeld in [artikel 1, onderdeel w, van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=1);
 
-- n. **wettelijke controle:** wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
+- n. **vrijstellingsverzoek:** verzoek als bedoeld in [artikel 25 van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=25);
+
+- o. **wettelijke controle:** wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
 
 ##### Artikel 2
 
@@ -84,7 +86,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 3
 
-1. Het bestuur brengt ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2018-01-01&g=2018-01-01):
+1. Het bestuur brengt ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2020-01-01&g=2020-01-01):
 
 - a. jaarlijks per accountant;
 
@@ -106,7 +108,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 - b. de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de getoetste accountantsafdeling behoort.
 
-3. Onverminderd de voorgaande leden brengt het bestuur ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2018-01-01&g=2018-01-01):
+3. Onverminderd de voorgaande leden brengt het bestuur ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2020-01-01&g=2020-01-01):
 
 - a. bij de bezochte accountantsorganisatie, voor de bestede uren aan het verrichten van een periodiek bezoek als bedoeld in [artikel 4, vierde lid van de Verordening op de kwaliteitsbeoordelingen](onbekend);
 
@@ -122,7 +124,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 4
 
-1. De categorieën, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2018-01-01&g=2018-01-01), zijn:
+1. De categorieën, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01), zijn:
 
 - a. Categorie I:
 
@@ -152,13 +154,13 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 5
 
-Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2018-01-01&g=2018-01-01), wordt opgelegd bij wege van een factuur.
+Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01), wordt opgelegd bij wege van een factuur.
 
 ### Hoofdstuk 3. Vergoeding toetsers
 
 ##### Artikel 6
 
-1. Het bestuur kent de toetsers een vergoeding toe volgens de vergoedingentabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2018-01-01&g=2018-01-01) voor:
+1. Het bestuur kent de toetsers een vergoeding toe volgens de vergoedingentabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2020-01-01&g=2020-01-01) voor:
 
 - a. het verrichten van een toetsing of hertoetsing;
 
@@ -180,11 +182,11 @@ Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00398
 
 ##### Artikel 7
 
-1. Het bestuur kent de vergoeding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2018-01-01&g=2018-01-01) toe na het indienen van een factuur door de toetser.
+1. Het bestuur kent de vergoeding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01) toe na het indienen van een factuur door de toetser.
 
 2. De factuur is voorzien van de noodzakelijke stukken ter onderbouwing van de gemaakte kosten.
 
-### Hoofdstuk 4. Slotbepalingen
+### Hoofdstuk 4. Aanpassing van tarieven
 
 ##### Artikel 8
 
@@ -361,63 +363,3 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 | 6. | De vergoeding voor reiskosten per kilometer bedraagt: | De vergoeding voor reiskosten per kilometer bedraagt: | De vergoeding voor reiskosten per kilometer bedraagt: | € 0,29 |
 | 7. | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | € 0,77 |
 | 8. | De vergoeding van parkeergelden bedraagt: | De vergoeding van parkeergelden bedraagt: | De vergoeding van parkeergelden bedraagt: | werkelijk gemaakte kosten |
-
-##### Artikel 3a
-
-1. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per verrichte toetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
-
-2. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per verrichte hertoetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld en de omvang van de toetsingswerkzaamheden.
-
-3. De hoogte van het in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per ontwikkelingsgesprek wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
-
-4. Een accountantseenheid wordt ingedeeld in een categorie op grond van de omvang van de omzet en de aard van de verrichte opdrachten.
-
-### Hoofdstuk 3. Vergoeding toetsers
-
-### Hoofdstuk 4. Aanpassing van tarieven
-
-### Hoofdstuk 5. Slotbepalingen
-
-## Bijlage 2. bij de Verordening op de kosten kwaliteitsbeoordelingen
-
-| 1. De vergoeding voor het voeren van een ontwikkelingsgesprek als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt voor accountantseenheden ingedeeld in |   |
-| --- | --- |
-| a. categorie I: | € 712,– |
-| b. categorie II: | € 712,– |
-| c. categorie III: | € 712,– |
-| d. categorie IV: | € 712,– |
-| e. categorie V: | € 890,– |
-| f. categorie VI: | € 1.068,- |
-| g. categorie VII: | € 1.424,- |
-| h. categorie VIII: | € 1.424,- |
-| i. categorie IX: | € 1.424,– |
-| 2. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt ingeval een toetsing of hertoetsing bij een accountantseenheid in: |   |
-| a. categorie I voor een toetser optredend als teamleider bij een toetsing | € 1.763,- |
-| b. categorie I in het geval een hertoetsing wordt uitgevoerd |   |
-| 1º. voor een toetser: | € 1.070,- |
-| 2º. voor een toetser optredend als teamleider: | € 1.412,- |
-| c. categorie II |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.412,- |
-| d. categorie III |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.412,- |
-| e. categorie IV |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.763,- |
-| f. categorie V |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 2.820,- |
-| g. categorie VI |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 2.820,- |
-| 3. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bij een accountantseenheid in de categorieën VII, VIII en IX bedraagt per uur |   |
-| a. voor een toetser: | € 135,– |
-| b. voor een toetser optredend als teamleider: | € 178,– |
-| 4. De vergoeding voor het verrichten van een thematisch onderzoek of onderzoek in verband met een aanvraag om accreditatie als bedoeld in [artikel 6, eerste lid, onderdeel c of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt |   |
-| a. voor een toetser: | € 135,– |
-| b. voor een toetser optredend als teamleider: | € 178,– |
-| 5. De vergoeding voor het verrichten van een onderzoek als bedoeld in [artikel 6, eerste lid onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt per uur: | € 178,– |
-| 6. De vergoeding voor reiskosten per kilometer bedraagt: | € 0,33 |
-| 7. De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | € 0,85 |
-| 8. De vergoeding van parkeergelden bedraagt: | werkelijk gemaakte kosten |
