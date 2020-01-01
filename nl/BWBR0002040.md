@@ -4,7 +4,7 @@ identifier: "BWBR0002040"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002040"
 soort: "wet"
@@ -112,7 +112,7 @@ De Bijzondere Raad van Cassatie wordt, gehoord de president van de Raad en de pr
 
 1. De rechtsmacht van de Bijzondere Raad van Cassatie gaat met ingang van het tijdstip, bedoeld in het voorgaande artikel, over op de Hoge Raad der Nederlanden.
 
-2. [Artikel 16, eerste lid, van het Besluit op de Bijzondere Gerechtshoven](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=16), de [artikelen 36-41 van het Besluit Buitengewone Rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=36) en [artikel 12, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=I&artikel=12&z=2002-01-01&g=2002-01-01), van deze wet zijn van overeenkomstige toepassing.
+2. [Artikel 16, eerste lid, van het Besluit op de Bijzondere Gerechtshoven](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=16), de [artikelen 36-41 van het Besluit Buitengewone Rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=36) en [artikel 12, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=I&artikel=12&z=2020-01-01&g=2020-01-01), van deze wet zijn van overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -142,7 +142,7 @@ De Bijzondere Raad van Cassatie wordt, gehoord de president van de Raad en de pr
 
 ##### Artikel 18
 
-1. De op 1 Januari 1948 bij de tribunalen aanhangige zaken - daaronder begrepen de zaken, waarin het fiat-executie nog niet is verleend, en die, waarin een bevel, als bedoeld in [artikel 3**a** van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=3a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij een door de procureur-fiscaal aan te wijzen kantongerecht, dat krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2002-01-01&g=2002-01-01), tot kennisneming van tribunaalzaken bevoegd is.
+1. De op 1 Januari 1948 bij de tribunalen aanhangige zaken - daaronder begrepen de zaken, waarin het fiat-executie nog niet is verleend, en die, waarin een bevel, als bedoeld in [artikel 3**a** van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=3a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij een door de procureur-fiscaal aan te wijzen kantongerecht, dat krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2020-01-01&g=2020-01-01), tot kennisneming van tribunaalzaken bevoegd is.
 
 2. De stukken betreffende zaken, die op 1 Januari 1948 nog niet in behandeling zijn genomen, worden aan de procureur-fiscaal teruggezonden.
 
@@ -158,13 +158,13 @@ Voor de toepassing van het [Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 20
 
-In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de rechtbanken is overgegaan, kan de officier van justitie na verlening van een fiatbehandeling de aangifte met de op de zaak betrekkelijke stukken in handen stellen van een krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2002-01-01&g=2002-01-01), tot kennisneming van tribunaalzaken bevoegde kantonrechter binnen het rechtsgebied van de rechtbank, waarbij hij is geplaatst.
+In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de rechtbanken is overgegaan, kan de officier van justitie na verlening van een fiatbehandeling de aangifte met de op de zaak betrekkelijke stukken in handen stellen van een krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2020-01-01&g=2020-01-01), tot kennisneming van tribunaalzaken bevoegde kantonrechter binnen het rechtsgebied van de rechtbank, waarbij hij is geplaatst.
 
 ##### Artikel 21
 
 1. Met ingang van de dag, waarop in enig gebied de rechtsmacht van een bijzonder gerechtshof op de arrondissements-rechtbanken is overgegaan, kan in dat gebied in geval van een gedraging, genoemd in [artikel 1 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=1), door de officier van justitie of de hulpofficier een bevel tot inverzekeringstelling en op vordering van de officier van justitie een bevel tot voorlopige hechtenis worden gegeven.
 
-2. De [artikelen 57-69](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=57), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [77-86](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=77), [88-90](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=88), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=92) en [93 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=93) zijn van overeenkomstige toepassing met dien verstande, dat hetgeen in die artikelen omtrent de rechter-commissaris, de rechtbank en de rechter is bepaald, ten deze geldt voor de krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2002-01-01&g=2002-01-01), tot kennisneming van tribunaalzaken bevoegde kantonrechter binnen het rechtsgebied van de rechtbank, waarbij de officier van justitie is geplaatst. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=I&artikel=9&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing.
+2. De [artikelen 57-69](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=57), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [77-86](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=77), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=88) en [533 tot en met 536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533) zijn van overeenkomstige toepassing met dien verstande, dat hetgeen in die artikelen omtrent de rechter-commissaris, de rechtbank en de rechter is bepaald, ten deze geldt voor de krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2020-01-01&g=2020-01-01), tot kennisneming van tribunaalzaken bevoegde kantonrechter binnen het rechtsgebied van de rechtbank, waarbij de officier van justitie is geplaatst. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=I&artikel=9&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 3. Een vordering van de officier van justitie tot verlening of verlenging van een bevel tot voorlopige hechtenis geldt als verlening van een fiatbehandeling.
 
@@ -182,9 +182,9 @@ Met ingang van een nader door Ons te bepalen tijdstip kan de bijzondere maatrege
 
 1. In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de arrondissements-rechtbanken is overgegaan, treden de [artikelen 12-22 van het Besluit politieke delinquenten 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&artikel=12), behoudens het bepaalde in het tweede lid, buiten werking.
 
-2. Een bevel tot bewaring, gegeven of verlengd krachtens het [Besluit politieke delinquenten 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002015), verliest zijn kracht drie maanden na de dag van overgang der rechtsmacht. Dit bevel wordt voor de toepassing van [artikel 67, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) en voor de overeenkomstige toepassing van dat artikel krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=21&z=2002-01-01&g=2002-01-01), van deze wet beschouwd als een bevel tot gevangenhouding, bedoeld in [artikel 66 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=66).
+2. Een bevel tot bewaring, gegeven of verlengd krachtens het [Besluit politieke delinquenten 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002015), verliest zijn kracht drie maanden na de dag van overgang der rechtsmacht. Dit bevel wordt voor de toepassing van [artikel 67, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) en voor de overeenkomstige toepassing van dat artikel krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=21&z=2020-01-01&g=2020-01-01), van deze wet beschouwd als een bevel tot gevangenhouding, bedoeld in [artikel 66 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=66).
 
-3. Ten aanzien van personen, die zich op de dag van overgang der rechtsmacht krachtens het [Besluit politieke delinquenten 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002015) in bewaring bevinden, vindt [artikel 77 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=77) geen toepassing noch overeenkomstige toepassing krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=21&z=2002-01-01&g=2002-01-01), van deze wet.
+3. Ten aanzien van personen, die zich op de dag van overgang der rechtsmacht krachtens het [Besluit politieke delinquenten 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002015) in bewaring bevinden, vindt [artikel 77 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=77) geen toepassing noch overeenkomstige toepassing krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=21&z=2020-01-01&g=2020-01-01), van deze wet.
 
 ##### Artikel 25
 
@@ -196,7 +196,7 @@ In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de arrondi
 
 ##### Artikel 27
 
-Voor de toepassing van [artikel 15 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=15) wordt met betrekking tot personen, die tot gevangenisstraf zijn veroordeeld wegens het begaan van een misdrijf, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is, onder de werkelijke straftijd begrepen de tijd in bewaring of voorlopige hechtenis doorgebracht, waaromtrent is bepaald, dat hij bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht.
+Voor de toepassing van [artikel 6:2:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) wordt met betrekking tot personen, die tot gevangenisstraf zijn veroordeeld wegens het begaan van een misdrijf, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is, onder de werkelijke straftijd begrepen de tijd in bewaring of voorlopige hechtenis doorgebracht, waaromtrent is bepaald, dat hij bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht.
 
 ##### Artikel 28
 
