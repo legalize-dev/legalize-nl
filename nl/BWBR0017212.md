@@ -4,7 +4,7 @@ identifier: "BWBR0017212"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017212"
 soort: "wet"
@@ -88,7 +88,7 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 ##### Artikel 3
 
-1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2019-01-01&g=2019-01-01), is gedagtekend en ondertekend en bevat de plaats waar en de datum en het tijdstip waarop het bevel ten uitvoer zal worden gelegd.
+1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2020-01-01&g=2020-01-01), is gedagtekend en ondertekend en bevat de plaats waar en de datum en het tijdstip waarop het bevel ten uitvoer zal worden gelegd.
 
 2. Het bevel omschrijft het misdrijf waarvoor de betrokken persoon is veroordeeld en vermeldt de strafbeschikking of het vonnis of arrest waarbij de veroordeling heeft plaatsgevonden.
 
@@ -96,11 +96,11 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 4. Het bevel vermeldt het rechtsmiddel dat openstaat tegen het bepalen en verwerken van het DNA-profiel van de veroordeelde, en de termijn waarbinnen dat rechtsmiddel kan worden aangewend.
 
-5. Het bevel wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 588, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=588).
+5. Het bevel wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
 
 ##### Artikel 4
 
-1. Indien noodzakelijk voor de tenuitvoerlegging van het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2019-01-01&g=2019-01-01), kan de officier van justitie de aanhouding van de veroordeelde bevelen. Het bevel tot aanhouding is schriftelijk en bevat de reden van aanhouding. Een afschrift van het bevel wordt de aangehouden veroordeelde onverwijld uitgereikt.
+1. Indien noodzakelijk voor de tenuitvoerlegging van het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2020-01-01&g=2020-01-01), kan de officier van justitie de aanhouding van de veroordeelde bevelen. Het bevel tot aanhouding is schriftelijk en bevat de reden van aanhouding. Een afschrift van het bevel wordt de aangehouden veroordeelde onverwijld uitgereikt.
 
 2. De aanhouding wordt verricht door een opsporingsambtenaar, die daartoe elke plaats kan betreden en doorzoeken.
 
@@ -110,13 +110,13 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 5. Voor zover noodzakelijk voor de vaststelling van zijn identiteit, kan de aangehouden veroordeelde op bevel van de officier van justitie voor ten hoogste zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend. Het bevel tot ophouding is schriftelijk en bevat de reden van ophouding. Het bevel wijst de aangehouden veroordeelde, aan wie onverwijld een afschrift van het bevel wordt uitgereikt, zo duidelijk mogelijk aan. De officier van justitie kan ten aanzien van de opgehouden persoon maatregelen ter vaststelling van zijn identiteit bevelen. Als zodanige maatregelen worden aangemerkt de maatregelen, bedoeld in [artikel 55c, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55c). Indien noodzakelijk voor de vaststelling van de identiteit van de aangehouden veroordeelde, kan de officier van justitie schriftelijk bevelen dat de termijn van zes uren eenmaal met ten hoogste zes uren wordt verlengd.
 
-6. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2019-01-01&g=2019-01-01), wordt zo spoedig mogelijk na de aanhouding van de veroordeelde ten uitvoer gelegd.
+6. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2020-01-01&g=2020-01-01), wordt zo spoedig mogelijk na de aanhouding van de veroordeelde ten uitvoer gelegd.
 
 7. Voor de tenuitvoerlegging van het bevel mag de aangehouden veroordeelde wiens identiteit is vastgesteld, niet langer dan zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend.
 
 ##### Artikel 5
 
-1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2019-01-01&g=2019-01-01), wordt ten uitvoer gelegd door afname van wangslijmvlies. Indien afname van wangslijmvlies om bijzondere geneeskundige redenen of vanwege het verzet van de veroordeelde onwenselijk is dan wel geen geschikt celmateriaal oplevert, wordt bloed afgenomen of worden haarwortels afgenomen, zo nodig met behulp van de sterke arm of, voorzover de veroordeelde in een inrichting of instelling, niet zijnde een psychiatrisch ziekenhuis, verblijft, de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1).
+1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2020-01-01&g=2020-01-01), wordt ten uitvoer gelegd door afname van wangslijmvlies. Indien afname van wangslijmvlies om bijzondere geneeskundige redenen of vanwege het verzet van de veroordeelde onwenselijk is dan wel geen geschikt celmateriaal oplevert, wordt bloed afgenomen of worden haarwortels afgenomen, zo nodig met behulp van de sterke arm of, voorzover de veroordeelde in een inrichting of instelling, niet zijnde een accommodatie als bedoeld in [artikel 1:1 van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=1:1) of als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1), verblijft, de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1).
 
 2. Het celmateriaal wordt door een arts of een verpleegkundige afgenomen. In bij algemene maatregel van bestuur te bepalen gevallen kan het celmateriaal worden afgenomen door een persoon die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.
 
@@ -128,13 +128,13 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 2. Voorzover noodzakelijk voor de inbeslagneming van voorwerpen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is, kan de officier van justitie de woning van de veroordeelde zonder toestemming van de bewoner betreden en doorzoeken. [Artikel 99, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=99) is van overeenkomstige toepassing.
 
-3. Zodra voor het bepalen en verwerken van het DNA-profiel van de veroordeelde voldoende celmateriaal in beslag is genomen, deelt de officier van justitie dit schriftelijk aan de veroordeelde mee. Deze mededeling wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 588, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=588).
+3. Zodra voor het bepalen en verwerken van het DNA-profiel van de veroordeelde voldoende celmateriaal in beslag is genomen, deelt de officier van justitie dit schriftelijk aan de veroordeelde mee. Deze mededeling wordt aan de veroordeelde betekend door uitreiking overeenkomstig [artikel 36e, eerste lid, onder b, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e).
 
 4. Zodra het DNA-onderzoek is verricht, doet de officier van justitie de in beslag genomen voorwerpen teruggeven aan degene bij wie ze in beslag zijn genomen.
 
 ##### Artikel 7
 
-1. De veroordeelde kan tegen het bepalen en verwerken van zijn DNA-profiel, binnen veertien dagen na de dag waarop zijn celmateriaal is afgenomen onderscheidenlijk de dag waarop de mededeling, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6&z=2019-01-01&g=2019-01-01), is betekend, een bezwaarschrift indienen bij de rechtbank die in eerste aanleg vonnis heeft gewezen, dan wel de rechtbank in het arrondissement waar tegen de strafbeschikking verzet had kunnen worden gedaan. De [zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&afdeling=Zesde) is van overeenkomstige toepassing.
+1. De veroordeelde kan tegen het bepalen en verwerken van zijn DNA-profiel, binnen veertien dagen na de dag waarop zijn celmateriaal is afgenomen onderscheidenlijk de dag waarop de mededeling, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6&z=2020-01-01&g=2020-01-01), is betekend, een bezwaarschrift indienen bij de rechtbank die in eerste aanleg vonnis heeft gewezen, dan wel de rechtbank in het arrondissement waar tegen de strafbeschikking verzet had kunnen worden gedaan. De [zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&afdeling=Zesde) is van overeenkomstige toepassing.
 
 2. Het bezwaarschrift is met redenen omkleed.
 
@@ -148,7 +148,7 @@ Treedt in werking voorzover het gaat om de misdrijven in de artikelen opgesomd i
 
 1. Deze wet is van toepassing op personen die op het tijdstip van inwerkingtreding van deze wet reeds zijn veroordeeld tot een vrijheidsbenemende straf als bedoeld in [artikel 9, eerste lid, onder a, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9), of [77h, eerste lid, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) of [artikel 6, onder a, van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=6) dan wel een vrijheidsbenemende maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) juncto [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b), [38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s), tenzij zij deze straf of maatregel op dat tijdstip hebben ondergaan of in verband met het misdrijf waarvoor deze straf of maatregel bij onherroepelijke veroordeling is opgelegd, voorlopige hechtenis hebben ondergaan waarvan de duur ten minste gelijk is aan de duur van deze straf of maatregel.
 
-2. Deze wet is voorts van toepassing op personen die op het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38c) alsnog van overheidswege worden verpleegd.
+2. Deze wet is voorts van toepassing op personen die op het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38c) of [artikel 6:6:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10) alsnog van overheidswege worden verpleegd.
 
 3. Voor de toepassing van het eerste lid wordt onder de duur van de voorlopige hechtenis begrepen de duur van de inverzekeringstelling.
 
@@ -170,7 +170,7 @@ Wijzigt de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikk
 
 ##### Artikel 13
 
-DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op grond van [artikel 23, eerste lid, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=23) zijn verwerkt, worden geacht te zijn verwerkt op grond van [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2019-01-01&g=2019-01-01), voorzover deze veroordeelden op het tijdstip van inwerkingtreding van deze wet een straf of maatregel als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=8&z=2019-01-01&g=2019-01-01) ondergaan.
+DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op grond van [artikel 23, eerste lid, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=23) zijn verwerkt, worden geacht te zijn verwerkt op grond van [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2020-01-01&g=2020-01-01), voorzover deze veroordeelden op het tijdstip van inwerkingtreding van deze wet een straf of maatregel als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=8&z=2020-01-01&g=2020-01-01) ondergaan.
 
 ##### Artikel 14
 
