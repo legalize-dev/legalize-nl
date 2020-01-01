@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2019-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -192,9 +192,9 @@ De afdeling Boete, Dwangsom en Inning is verantwoordelijk voor:
 
 Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
-##### Artikel 10. Mandaat en machtiging betreffende personeelsaangelegenheden
+##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
-1. Aan de afdelingshoofden van de directie wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+1. Aan de afdelingshoofden van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -206,7 +206,7 @@ Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoe
 
 - e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
 
-2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook mandaat en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
+2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook volmacht en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
 
 ##### Artikel 11. Volmachten afdelingshoofden
 
