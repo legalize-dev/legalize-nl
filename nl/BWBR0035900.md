@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -46,11 +46,19 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
+- **daglichtperiode:** daglichtperiode als bedoeld in [artikel 1 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=1);
+
 - **HEMS-vlucht:** vlucht met een helikopter uitgevoerd krachtens een AOC met voorziening A3-Emergency medical service;
 
 - **JAR-OPS 3:** sectie 1 van het technisch voorschrift, vastgesteld door de Joint Aviation Authorities, betreffende uitvoering van een vlucht met een helikopter;
 
-- **kustwachtvlucht:** vlucht met een vliegtuig of helikopter door de Kustwacht, bedoeld in de [Regeling organisatie Kustwacht Nederland](onbekend), in het kader van de handhavingstaken van de desbetreffende samenwerkende diensten, genoemd in [artikel 6 van de Regeling organisatie Kustwacht Nederland](onbekend);
+- **kustwachtvlucht:** vlucht met een vliegtuig of helikopter door de Kustwacht, bedoeld in de [Regeling organisatie Kustwacht Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0042251), in het kader van de handhavingstaken van de desbetreffende samenwerkende diensten, genoemd in [artikel 6 van de Regeling organisatie Kustwacht Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&artikel=6);
+
+- **luchtschip:** luchtschip als bedoeld in [artikel 1 in het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1);
+
+- **MLA:** MLA als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
+
+- **MLH:** MLH als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
 
 - **oefennadering:** met een vliegtuig uitvoeren van naderingsprocedures en procedures ter voorbereiding van een landing zonder dat deze procedures worden gevolgd door een landing waarbij de wielen het aardoppervlak raken, zulks in het kader van een vliegopleiding of het onderhoud van vliegvaardigheid;
 
@@ -58,7 +66,17 @@ In deze regeling wordt verstaan onder:
 
 - **SAR-vlucht:** vlucht uitgevoerd met een vliegtuig of helikopter door de SAR-dienst als bedoeld in [artikel 1 van de Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=1) met als doel de opsporing en redding van mensen of dieren die zich in een levensbedreigende omstandigheid bevinden;
 
-- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PB L 311).
+- **schermvliegtuig:** schermvliegtuig als bedoel in [artikel 1 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1);
+
+- **TMG:** TMG als bedoeld in [artikel 1 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1);
+
+- **uitvoeringsverordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en [verordeningen (EG) nr. 1265/2007](32007R1265), [(EG) 1794/2006](32006R1794), [(EG) nr. 730/2006](32006R0730), [(EG) nr. 1033/2006](32006R1033) en (EU) [nr. 255/2010](32010R0255) (PbEU 2012, L 281);
+
+- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PB L 311);
+
+- **vliegtuig:** vliegtuig als bedoeld in bedoel in [artikel 1 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1);
+
+- **vrije ballon:** vrije ballon als bedoeld in [artikel 1 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1).
 
 ### Hoofdstuk 2. Activiteiten van openbaar belang
 
@@ -104,7 +122,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2019-07-01&g=2019-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2020-01-01&g=2020-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -154,9 +172,11 @@ Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is t
 
 - i. het landen vindt uitsluitend plaats binnen de daglichtperiode;
 
-##### Artikel 3.2. Vliegopleiding
+##### Artikel 3.2. Vluchtuitvoeringen buiten de daglichtperiode
 
-Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of luchtballon buiten de daglichtperiode is toegestaan, indien de vlucht in het kader van de vliegopleiding noodzakelijk is voor het verkrijgen van een aantekening nachtvliegen of het onderdeel nachtvliegen voor een bewijs van bevoegdheid als bedoeld in verordening (EU) nr. 1178/2011.
+1. Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of TMG buiten de daglichtperiode is toegestaan onder de voorwaarden, bedoeld in paragraaf SERA.5005, onderdeel c, van de bijlage bij uitvoeringsverordening (EU) nr. 923/2012.
+
+2. Onverminderd het eerste lid mogen met MLA’s, MLH’s en schermvliegtuigen slechts vluchten worden uitgevoerd gedurende de daglichtperiode.
 
 ##### Artikel 3.3. Spuit en sproeivluchten
 
