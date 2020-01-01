@@ -4,7 +4,7 @@ identifier: "BWBR0001869"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001869"
 soort: "rijkswet"
@@ -76,7 +76,7 @@ De Nederlandse strafwet is toepasselijk op ieder die zich, in tijd van oorlog, b
 
 1. Op feiten door in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, is het aldaar geldende strafrecht toepasselijk, indien de Nederlandse strafwet tegen zodanige feiten geen straf bedreigt.
 
-2. Indien het strafrecht van een der in het vorige lid genoemde Rijksdelen wordt toegepast, kunnen tevens worden toegepast de bepalingen van de Nederlandse strafwet, die betrekking hebben op de voorwaardelijke veroordeling en op de terbeschikkingstelling wegens gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens.
+2. Indien het strafrecht van een der in het vorige lid genoemde Rijksdelen wordt toegepast, kunnen tevens worden toegepast de bepalingen van de Nederlandse strafwet, die betrekking hebben op de voorwaardelijke veroordeling en op de terbeschikkingstelling wegens psychische stoornis of verstandelijke beperking.
 
 ##### Artikel 5b
 
@@ -230,9 +230,9 @@ Vervallen
 
 ##### Artikel 35
 
-1. Ontzetting van de rechten, vermeld in [artikel 28, eerste lid, onder 1° en 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=28&z=2017-01-01&g=2017-01-01), kan worden uitgesproken bij veroordeling wegens enig opzettelijk gepleegd misdrijf, in dit wetboek omschreven.
+1. Ontzetting van de rechten, vermeld in [artikel 28, eerste lid, onder 1° en 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=28&z=2020-01-01&g=2020-01-01), kan worden uitgesproken bij veroordeling wegens enig opzettelijk gepleegd misdrijf, in dit wetboek omschreven.
 
-2. Ontzetting van het recht, vermeld in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), kan worden uitgesproken bij veroordeling tot gevangenisstraf van tenminste een jaar wegens het plegen van een misdrijf als omschreven in het [Tweede Boek, Titel I, van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&z=2017-01-01&g=2017-01-01).
+2. Ontzetting van het recht, vermeld in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), kan worden uitgesproken bij veroordeling tot gevangenisstraf van tenminste een jaar wegens het plegen van een misdrijf als omschreven in het [Tweede Boek, Titel I, van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 35a
 
@@ -240,13 +240,13 @@ Indien een persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](
 
 ##### Artikel 35b
 
-1. Ingeval tegen de bestuurder van een motorrijtuig proces-verbaal wordt opgemaakt ter zake van overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2017-01-01&g=2017-01-01) of [artikel 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2017-01-01&g=2017-01-01) van dit wetboek, is [artikel 164 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemd artikel omschreven verplichting tot overgifte betrekking heeft op elk aan de bestuurder ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs alsmede op het hem in het buitenland uitgereikt internationaal rijbewijs.
+1. Ingeval tegen de bestuurder van een motorrijtuig proces-verbaal wordt opgemaakt ter zake van overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01) of [artikel 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01) van dit wetboek, is [artikel 164 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemd artikel omschreven verplichting tot overgifte betrekking heeft op elk aan de bestuurder ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs alsmede op het hem in het buitenland uitgereikt internationaal rijbewijs.
 
 2. Indien [artikel 164 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) wordt toegepast in een geval dat zich voordoet in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, worden onder opsporingsambtenaren als bedoeld in dat artikel mede begrepen de militairen die aldaar zijn aangesteld als opsporingsambtenaar.
 
 ##### Artikel 36
 
-1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2017-01-01&g=2017-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2017-01-01&g=2017-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=167&z=2017-01-01&g=2017-01-01) of [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2017-01-01&g=2017-01-01) kan hem de bevoegdheid motorrijtuigen te besturen voor de duur van ten hoogste vijf jaren worden ontzegd.
+1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [artikel 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=167&z=2020-01-01&g=2020-01-01) of [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) kan hem de bevoegdheid motorrijtuigen te besturen voor de duur van ten hoogste vijf jaren worden ontzegd.
 
 2. Voor de toepassing van het eerste lid wordt een strafbeschikking als bedoeld in [Titel IVA van het Tweede Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVa) met een veroordeling gelijkgesteld.
 
@@ -254,11 +254,11 @@ Indien een persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](
 
 ##### Artikel 36a
 
-Bij veroordeling van een lid van de bemanning van een luchtvaartuig wegens overtreding van [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=168&z=2017-01-01&g=2017-01-01) en [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2017-01-01&g=2017-01-01) kan aan hem de bevoegdheid de luchtvaart uit te oefenen voor ten hoogste zes maanden worden ontzegd.
+Bij veroordeling van een lid van de bemanning van een luchtvaartuig wegens overtreding van [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=168&z=2020-01-01&g=2020-01-01) en [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) kan aan hem de bevoegdheid de luchtvaart uit te oefenen voor ten hoogste zes maanden worden ontzegd.
 
 ##### Artikel 36b
 
-Bij algemene maatregel van rijksbestuur kunnen regels worden gesteld met betrekking tot het tijdstip van ingang van de bijkomende straffen, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36&z=2017-01-01&g=2017-01-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36a&z=2017-01-01&g=2017-01-01), en de daaraan verbonden administratieve gevolgen.
+Bij algemene maatregel van rijksbestuur kunnen regels worden gesteld met betrekking tot het tijdstip van ingang van de bijkomende straffen, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36&z=2020-01-01&g=2020-01-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=II&artikel=36a&z=2020-01-01&g=2020-01-01), en de daaraan verbonden administratieve gevolgen.
 
 ##### Artikel 37
 
@@ -356,17 +356,17 @@ Vervallen
 
 ##### Artikel 56
 
-Het recht tot strafvordering ter zake van de misdrijven omschreven in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=100&z=2017-01-01&g=2017-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2017-01-01&g=2017-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2017-01-01&g=2017-01-01), vervalt door verjaring in twaalf jaren.
+Het recht tot strafvordering ter zake van de misdrijven omschreven in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=100&z=2020-01-01&g=2020-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01), vervalt door verjaring in twaalf jaren.
 
 ##### Artikel 57
 
-1. Ten aanzien van een persoon die ten tijde van het begaan van het misdrijf de leeftijd van achttien jaren nog niet heeft bereikt, wordt de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2017-01-01&g=2017-01-01) vermelde verjaringstermijn tot de helft van de daar bedoelde duur ingekort.
+1. Ten aanzien van een persoon die ten tijde van het begaan van het misdrijf de leeftijd van achttien jaren nog niet heeft bereikt, wordt de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2020-01-01&g=2020-01-01) vermelde verjaringstermijn tot de helft van de daar bedoelde duur ingekort.
 
-2. Ten aanzien van zodanige persoon is de termijn der verjaring van het recht tot uitvoering der straf, opgelegd wegens een misdrijf als bedoeld bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2017-01-01&g=2017-01-01), een derde langer dan de bij het voorgaande lid bepaalde termijn der verjaring van het recht tot strafvordering wegens dat misdrijf.
+2. Ten aanzien van zodanige persoon is de termijn der verjaring van het recht tot uitvoering der straf, opgelegd wegens een misdrijf als bedoeld bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=VIII&artikel=56&z=2020-01-01&g=2020-01-01), een derde langer dan de bij het voorgaande lid bepaalde termijn der verjaring van het recht tot strafvordering wegens dat misdrijf.
 
 ##### Artikel 58
 
-De termijn van verjaring van het recht tot strafvordering ter zake van ongeoorloofde afwezigheid, van desertie en van de misdrijven omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2017-01-01&g=2017-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2017-01-01&g=2017-01-01), vangt aan met de dag na die waarop de afwezigheid is aangevangen.
+De termijn van verjaring van het recht tot strafvordering ter zake van ongeoorloofde afwezigheid, van desertie en van de misdrijven omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01), vangt aan met de dag na die waarop de afwezigheid is aangevangen.
 
 ##### Artikel 59
 
@@ -384,7 +384,7 @@ Onder militairen worden verstaan:
 
 - 1°. zij wier vrijwillig dienstverband bij de krijgsmacht tot doorlopende werkelijke dienst verplicht, tijdens de gehele duur van dat dienstverband;
 
-- 2°. alle andere vrijwilligers bij de krijgsmacht en de dienstplichtigen, zo vaak en zolang zij in werkelijke dienst zijn, alsmede wanneer zij buiten werkelijke dienst in het tijdvak gedurende hetwelk zij voor die dienst kunnen worden opgeroepen, een der feiten plegen omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2017-01-01&g=2017-01-01) en [110 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2017-01-01&g=2017-01-01).
+- 2°. alle andere vrijwilligers bij de krijgsmacht en de dienstplichtigen, zo vaak en zolang zij in werkelijke dienst zijn, alsmede wanneer zij buiten werkelijke dienst in het tijdvak gedurende hetwelk zij voor die dienst kunnen worden opgeroepen, een der feiten plegen omschreven in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=109&z=2020-01-01&g=2020-01-01) en [110 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=110&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 60a
 
@@ -392,11 +392,11 @@ Bij algemene maatregel van rijksbestuur kan worden bepaald dat vreemde militaire
 
 ##### Artikel 61
 
-Hij die feitelijk dient bij de krijgsmacht, wordt van rechtswege als militair aangemerkt, tenzij aannemelijk wordt gemaakt, dat hij niet onder een der bepalingen van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2017-01-01&g=2017-01-01) valt.
+Hij die feitelijk dient bij de krijgsmacht, wordt van rechtswege als militair aangemerkt, tenzij aannemelijk wordt gemaakt, dat hij niet onder een der bepalingen van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2020-01-01&g=2020-01-01) valt.
 
 ##### Artikel 62
 
-De in [artikel 60, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2017-01-01&g=2017-01-01), bedoelde vrijwilliger bij de krijgsmacht of de dienstplichtige wordt geacht in werkelijke dienst te zijn:
+De in [artikel 60, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=60&z=2020-01-01&g=2020-01-01), bedoelde vrijwilliger bij de krijgsmacht of de dienstplichtige wordt geacht in werkelijke dienst te zijn:
 
 - 1°. zodra hij, voor de werkelijke dienst opgeroepen of vrijwillig in werkelijke dienst komende, op de plaats van zijn bestemming is aangekomen, zodra hij zich voor deze dienst heeft aangemeld of zodra hij voor deze dienst is overgenomen, een en ander totdat hij met groot verlof vertrekt;
 
@@ -418,7 +418,7 @@ Vervallen
 
 ##### Artikel 65
 
-1. Krijgsgevangenen en geïnterneerde personen die ingevolge artikel 4, onder B, van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949 als krijgsgevangenen moeten worden behandeld, daaronder begrepen degenen die onder belofte of voorwaarde zijn vrijgelaten, worden, met inachtneming van de door hen beklede rang, gelijkgesteld met Nederlandse militairen ten aanzien van door hen begane strafbare feiten, waartegen is voorzien bij het gemene recht, bij [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=80&z=2017-01-01&g=2017-01-01) of bij de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2017-01-01&g=2017-01-01) en [VIII-XI van het tweede boek van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2017-01-01&g=2017-01-01), met uitzondering van de [artikelen 159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2017-01-01&g=2017-01-01). Geïnterneerde vreemde militairen die krachtens beschikking van het bevoegd Nederlands gezag andere vreemde militairen onder hun bevelen hebben, worden ten aanzien van hun verhouding tot die andere personen, met inachtneming van de door hen beklede rang gelijkgesteld met Nederlandse militairen.
+1. Krijgsgevangenen en geïnterneerde personen die ingevolge artikel 4, onder B, van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, van 12 augustus 1949 als krijgsgevangenen moeten worden behandeld, daaronder begrepen degenen die onder belofte of voorwaarde zijn vrijgelaten, worden, met inachtneming van de door hen beklede rang, gelijkgesteld met Nederlandse militairen ten aanzien van door hen begane strafbare feiten, waartegen is voorzien bij het gemene recht, bij [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=80&z=2020-01-01&g=2020-01-01) of bij de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2020-01-01&g=2020-01-01) en [VIII-XI van het tweede boek van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2020-01-01&g=2020-01-01), met uitzondering van de [artikelen 159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01). Geïnterneerde vreemde militairen die krachtens beschikking van het bevoegd Nederlands gezag andere vreemde militairen onder hun bevelen hebben, worden ten aanzien van hun verhouding tot die andere personen, met inachtneming van de door hen beklede rang gelijkgesteld met Nederlandse militairen.
 
 2. Zij worden geacht tot dat deel van de krijgsmacht te behoren, onder welks bewaring zij zich bevinden.
 
@@ -458,13 +458,13 @@ In dit wetboek wordt onder oorlog mede verstaan: een gewapend conflict dat niet 
 
 ##### Artikel 71a
 
-1. Voor de toepassing van de [titels III-X](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&z=2017-01-01&g=2017-01-01) en de [artikelen 156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2017-01-01&g=2017-01-01) en [159-162 van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2017-01-01&g=2017-01-01) zal de rechter, onverminderd het bepaalde in de [artikelen 71b](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=71b&z=2017-01-01&g=2017-01-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=72&z=2017-01-01&g=2017-01-01), de aanwezigheid van tijd van oorlog slechts aannemen, hetzij onder feitelijke oorlogsomstandigheden, hetzij indien bij koninklijk besluit is bepaald dat een oorlog dreigende is.
+1. Voor de toepassing van de [titels III-X](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&z=2020-01-01&g=2020-01-01) en de [artikelen 156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2020-01-01&g=2020-01-01) en [159-162 van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01) zal de rechter, onverminderd het bepaalde in de [artikelen 71b](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=71b&z=2020-01-01&g=2020-01-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=72&z=2020-01-01&g=2020-01-01), de aanwezigheid van tijd van oorlog slechts aannemen, hetzij onder feitelijke oorlogsomstandigheden, hetzij indien bij koninklijk besluit is bepaald dat een oorlog dreigende is.
 
 2. Het in het eerste lid bedoelde besluit kan betrekking hebben op de gehele krijgsmacht of op een deel daarvan.
 
 ##### Artikel 71b
 
-Voor de toepassing van de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=122&z=2017-01-01&g=2017-01-01), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=123&z=2017-01-01&g=2017-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&artikel=142&z=2017-01-01&g=2017-01-01), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2017-01-01&g=2017-01-01) en [159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2017-01-01&g=2017-01-01) wordt tijd van oorlog mede aanwezig geacht indien de in die artikelen omschreven feiten worden begaan aan boord van een oorlogsvaartuig of luchtvaartuig van de krijgsmacht dat zich ergens bevindt waar geen onmiddellijke hulp te verkrijgen is.
+Voor de toepassing van de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=122&z=2020-01-01&g=2020-01-01), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=123&z=2020-01-01&g=2020-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&artikel=142&z=2020-01-01&g=2020-01-01), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=156&z=2020-01-01&g=2020-01-01) en [159-162](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=159&z=2020-01-01&g=2020-01-01) wordt tijd van oorlog mede aanwezig geacht indien de in die artikelen omschreven feiten worden begaan aan boord van een oorlogsvaartuig of luchtvaartuig van de krijgsmacht dat zich ergens bevindt waar geen onmiddellijke hulp te verkrijgen is.
 
 ##### Artikel 72
 
@@ -484,11 +484,11 @@ Vervallen
 
 - a. hetzij die mogendheden bondgenoten zijn van de Staat in een gemeenschappelijke oorlog;
 
-- b. hetzij strijdkrachten van die mogendheden gemeenschappelijk optreden met strijdkrachten van de Staat in een gewapend conflict als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=71&z=2017-01-01&g=2017-01-01);
+- b. hetzij strijdkrachten van die mogendheden gemeenschappelijk optreden met strijdkrachten van de Staat in een gewapend conflict als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=71&z=2020-01-01&g=2020-01-01);
 
 - c. hetzij met die mogendheden een overeenkomst is gesloten ter collectieve zelfverdediging en een gemeenschappelijke oorlog dreigende is.
 
-2. De bepalingen van dit wetboek zijn voorts toepasselijk indien de feiten omschreven in de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2017-01-01&g=2017-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2017-01-01&g=2017-01-01) en [IX van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&z=2017-01-01&g=2017-01-01) worden gepleegd tegen of met betrekking tot vreemde mogendheden waarmede een overeenkomst is gesloten ter collectieve zelfverdediging, hun krijgsmachten of personen, die daarvan deel uitmaken.
+2. De bepalingen van dit wetboek zijn voorts toepasselijk indien de feiten omschreven in de [titels IV-VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&z=2020-01-01&g=2020-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&z=2020-01-01&g=2020-01-01) en [IX van het tweede boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&z=2020-01-01&g=2020-01-01) worden gepleegd tegen of met betrekking tot vreemde mogendheden waarmede een overeenkomst is gesloten ter collectieve zelfverdediging, hun krijgsmachten of personen, die daarvan deel uitmaken.
 
 ##### Artikel 75a
 
@@ -496,7 +496,7 @@ Een verhouding van meerdere tot mindere bestaat ten opzichte van vreemde militai
 
 ##### Artikel 75b
 
-Voor de toepassing van de [artikelen 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2017-01-01&g=2017-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=166&z=2017-01-01&g=2017-01-01) en [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2017-01-01&g=2017-01-01) worden onder rij-, voer-, vaar- en luchtvaartuigen, die bij de krijgsmacht in gebruik zijn, mede begrepen rij-, voer-, vaar- en luchtvaartuigen in gebruik bij een vreemde krijgsmacht als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=75&z=2017-01-01&g=2017-01-01).
+Voor de toepassing van de [artikelen 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=166&z=2020-01-01&g=2020-01-01) en [169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Derde&titeldeel=I&artikel=169&z=2020-01-01&g=2020-01-01) worden onder rij-, voer-, vaar- en luchtvaartuigen, die bij de krijgsmacht in gebruik zijn, mede begrepen rij-, voer-, vaar- en luchtvaartuigen in gebruik bij een vreemde krijgsmacht als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Eerste&titeldeel=IX&artikel=75&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 76
 
@@ -598,13 +598,13 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die in tijd van oorlog opzettelijk een bevel, gegeven door een daartoe bevoegde militair, niet opvolgt, of opzettelijk een maatregel, door een militair in het belang van de dienst ondernomen of bevolen, belet, belemmert of verijdelt, indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht.
 
-2. [Het derde lid van artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=127&z=2017-01-01&g=2017-01-01) en [de artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=131&z=2017-01-01&g=2017-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=132&z=2017-01-01&g=2017-01-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&artikel=150&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing.
+2. [Het derde lid van artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=127&z=2020-01-01&g=2020-01-01) en [de artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=131&z=2020-01-01&g=2020-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=132&z=2020-01-01&g=2020-01-01) en [150](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IX&artikel=150&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 90
 
-1. De samenspanning tot de in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=84&z=2017-01-01&g=2017-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=85&z=2017-01-01&g=2017-01-01) en [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=87&z=2017-01-01&g=2017-01-01), omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot de in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=84&z=2020-01-01&g=2020-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=85&z=2020-01-01&g=2020-01-01) en [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=II&artikel=87&z=2020-01-01&g=2020-01-01), omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2017-01-01&g=2017-01-01) is toepasselijk.
+2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
 ##### Artikel 91
 
@@ -648,7 +648,7 @@ Met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de 
 
 - 1°. indien hij daardoor niet kan deelnemen aan een gevecht met de vijand;
 
-- 2°. indien hij daardoor een bevolen reis, bedoeld in [artikel 96, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=96&z=2017-01-01&g=2017-01-01), niet of niet geheel meemaakt;
+- 2°. indien hij daardoor een bevolen reis, bedoeld in [artikel 96, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=96&z=2020-01-01&g=2020-01-01), niet of niet geheel meemaakt;
 
 - 3°. indien als rechtstreeks en onmiddellijk gevolg daarvan schade ontstaat aan of te duchten is voor de gereedheid tot het daadwerkelijk uitvoeren van een operatie of oefening van enig onderdeel van de krijgsmacht;
 
@@ -678,7 +678,7 @@ Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categor
 
 - 2°. wiens ongeoorloofde afwezigheid in tijd van vrede langer dan dertig, in tijd van oorlog langer dan zeven dagen duurt;
 
-- 3°. die zich schuldig maakt aan opzettelijke ongeoorloofde afwezigheid en daardoor een bevolen reis, bedoeld in [artikel 96, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=96&z=2017-01-01&g=2017-01-01), niet of niet geheel meemaakt.
+- 3°. die zich schuldig maakt aan opzettelijke ongeoorloofde afwezigheid en daardoor een bevolen reis, bedoeld in [artikel 96, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=96&z=2020-01-01&g=2020-01-01), niet of niet geheel meemaakt.
 
 2. Desertie, in tijd van vrede gepleegd, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -686,7 +686,7 @@ Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categor
 
 ##### Artikel 101
 
-Het maximum der in de [artikelen 98-100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2017-01-01&g=2017-01-01) gestelde gevangenisstraffen wordt verdubbeld:
+Het maximum der in de [artikelen 98-100](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01) gestelde gevangenisstraffen wordt verdubbeld:
 
 - 1°. Indien twee of meer personen gezamenlijk of ten gevolge van samenspanning het misdrijf plegen;
 
@@ -710,15 +710,15 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 ##### Artikel 103
 
-1. De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=102&z=2017-01-01&g=2017-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=102&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2017-01-01&g=2017-01-01) is toepasselijk.
+2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
 ##### Artikel 104
 
-1. Naar de onderscheidingen, gemaakt in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2017-01-01&g=2017-01-01) en met de daarbij gestelde straffen wordt gestraft de militair die zich opzettelijk door een listige kunstgreep of een samenweefsel van verdichtsels aan de vervulling van zijn dienstverplichtingen onttrekt of die zich opzettelijk daarvoor ongeschikt maakt of laat maken.
+1. Naar de onderscheidingen, gemaakt in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01) en met de daarbij gestelde straffen wordt gestraft de militair die zich opzettelijk door een listige kunstgreep of een samenweefsel van verdichtsels aan de vervulling van zijn dienstverplichtingen onttrekt of die zich opzettelijk daarvoor ongeschikt maakt of laat maken.
 
-2. Bij de toepassing van het eerste lid wordt met afwezigheid, bedoeld in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2017-01-01&g=2017-01-01), gelijkgesteld de tijd, gedurende welke de militair zijn dienstverplichtingen niet heeft vervuld.
+2. Bij de toepassing van het eerste lid wordt met afwezigheid, bedoeld in de [artikelen 98-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=98&z=2020-01-01&g=2020-01-01), gelijkgesteld de tijd, gedurende welke de militair zijn dienstverplichtingen niet heeft vervuld.
 
 ##### Artikel 105
 
@@ -770,7 +770,7 @@ De militair die opzettelijk van eens anders reispas, veiligheidskaart, reisorder
 
 ##### Artikel 113
 
-Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=111&z=2017-01-01&g=2017-01-01) en [112 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=112&z=2017-01-01&g=2017-01-01) of in de [artikelen 228, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), of [229 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=229), door een militair in tijd van oorlog wordt gepleegd ten einde het misdrijf van desertie gemakkelijk te maken, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
+Indien een der misdrijven, omschreven in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=111&z=2020-01-01&g=2020-01-01) en [112 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=112&z=2020-01-01&g=2020-01-01) of in de [artikelen 228, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=228), of [229 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=229), door een militair in tijd van oorlog wordt gepleegd ten einde het misdrijf van desertie gemakkelijk te maken, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 ##### Artikel 114
 
@@ -834,9 +834,9 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 ##### Artikel 121
 
-1. De samenspanning tot het in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=120&z=2017-01-01&g=2017-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=IV&artikel=120&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2017-01-01&g=2017-01-01) is toepasselijk.
+2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
 ##### Artikel 122
 
@@ -890,9 +890,9 @@ Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of ge
 
 ##### Artikel 129
 
-1. De samenspanning tot het in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=128&z=2017-01-01&g=2017-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. De samenspanning tot het in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=128&z=2020-01-01&g=2020-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2017-01-01&g=2017-01-01) is toepasselijk.
+2. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=I&artikel=83&z=2020-01-01&g=2020-01-01) is toepasselijk.
 
 ##### Artikel 130
 
@@ -914,15 +914,15 @@ Onder het niet opvolgen van een dienstbevel wordt mede verstaan het weigeren een
 
 ##### Artikel 131
 
-Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2017-01-01&g=2017-01-01), is niet strafbaar, indien de bevolen gedraging onrechtmatig is.
+Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), is niet strafbaar, indien de bevolen gedraging onrechtmatig is.
 
 ##### Artikel 132
 
-Niet strafbaar is de militair die een feit begaat, genoemd in de [artikelen 126-128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2017-01-01&g=2017-01-01), indien hij de bevolen gedraging te goeder trouw als onrechtmatig beschouwde.
+Niet strafbaar is de militair die een feit begaat, genoemd in de [artikelen 126-128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), indien hij de bevolen gedraging te goeder trouw als onrechtmatig beschouwde.
 
 ##### Artikel 133
 
-Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2017-01-01&g=2017-01-01), is niet strafbaar, indien onderling strijdige dienstbevelen zijn gegeven en het niet opgevolgde dienstbevel voorafgaat aan het laatst gehandhaafde.
+Een feit, bedoeld in de [artikelen 126-130](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=126&z=2020-01-01&g=2020-01-01), is niet strafbaar, indien onderling strijdige dienstbevelen zijn gegeven en het niet opgevolgde dienstbevel voorafgaat aan het laatst gehandhaafde.
 
 ##### Artikel 134
 
@@ -1040,7 +1040,7 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde catego
 
 ##### Artikel 152
 
-[Artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=X&artikel=151&z=2017-01-01&g=2017-01-01) is niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte lijn of in de tweede of derde graad van de zijlijn, voor zijn echtgenoot of gewezen echtgenoot of degene met wie hij een geregistreerd partnerschap is of was aangegaan, of voor een ander, bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
+[Artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=X&artikel=151&z=2020-01-01&g=2020-01-01) is niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte lijn of in de tweede of derde graad van de zijlijn, voor zijn echtgenoot of gewezen echtgenoot of degene met wie hij een geregistreerd partnerschap is of was aangegaan, of voor een ander, bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
 
 ##### Artikel 153
 
@@ -1050,7 +1050,7 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde catego
 
 3. De schuldige wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie:
 
-- 1°. indien de opruiing geschiedt in tijd van oorlog en zij betreft een der in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=92) en [93 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=93) omschreven misdrijven, militair verraad, desertie in een der in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=102&z=2017-01-01&g=2017-01-01) omschreven gevallen, schending van een dienstbevel als bedoeld in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=128&z=2017-01-01&g=2017-01-01), muiterij, militair oproer of een der in de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&artikel=142&z=2017-01-01&g=2017-01-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=160&z=2017-01-01&g=2017-01-01) omschreven misdrijven;
+- 1°. indien de opruiing geschiedt in tijd van oorlog en zij betreft een der in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=92) en [93 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=93) omschreven misdrijven, militair verraad, desertie in een der in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=III&artikel=102&z=2020-01-01&g=2020-01-01) omschreven gevallen, schending van een dienstbevel als bedoeld in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=V&artikel=128&z=2020-01-01&g=2020-01-01), muiterij, militair oproer of een der in de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=VIII&artikel=142&z=2020-01-01&g=2020-01-01) en [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XI&artikel=160&z=2020-01-01&g=2020-01-01) omschreven misdrijven;
 
 - 2°. indien de opruiing geschiedt aan boord van een oorlogsvaartuig of luchtvaartuig der krijgsmacht, zich ergens bevindende waar geen onmiddellijke hulp te verkrijgen is, en zij muiterij of militair oproer betreft.
 
@@ -1132,7 +1132,7 @@ Hij die optreedt als bestuurder van een motorrijtuig, een rijwiel of enig ander 
 
 ##### Artikel 165
 
-Voor de toepassing van de [artikelen 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2017-01-01&g=2017-01-01) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2017-01-01&g=2017-01-01) wordt met alcoholhoudende drank gelijkgesteld elke stof, waarvan de bestuurder weet of redelijkerwijze moet weten, dat het gebruik de rijvaardigheid kan verminderen.
+Voor de toepassing van de [artikelen 163](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=163&z=2020-01-01&g=2020-01-01) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&boek=Tweede&titeldeel=XII&artikel=164&z=2020-01-01&g=2020-01-01) wordt met alcoholhoudende drank gelijkgesteld elke stof, waarvan de bestuurder weet of redelijkerwijze moet weten, dat het gebruik de rijvaardigheid kan verminderen.
 
 ##### Artikel 166
 
