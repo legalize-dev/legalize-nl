@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2019-12-03"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -52,15 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - c. vangnetuitkering: de vangnetuitkering, bedoeld in [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74);
 
-- d. incidentele aanvullende uitkering: de incidentele aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74), zoals dit luidde op 31 december 2015;
+- d. toetsingscommissie: de toetsingscommissie vangnet Participatiewet, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
 
-- e. meerjarige aanvullende uitkering: de meerjarige aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74), zoals dit luidde op 31 december 2015;
+- e. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
 
-- f. toetsingscommissie: de toetsingscommissie vangnet Participatiewet, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
+- f. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
 
-- g. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
-
-- h. IOAZ: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
+- g. Bbz 2004: [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711).
 
 #### § 2. Beeld van de uitvoering
 
@@ -74,7 +72,7 @@ Vervallen
 
 ##### Artikel 4. Beeld van de uitvoering
 
-1. Het beeld van de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt voor 1 maart van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.
+1. Het beeld van de uitvoering, bedoeld in de [artikelen 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), [54, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=54) en [54, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=54), wordt voor 1 maart van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.
 
 2. Het beeld van de uitvoering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.
 
@@ -82,7 +80,7 @@ Vervallen
 
 4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister.
 
-5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711).
 
 6. In afwijking van het derde lid kan worden afgezien van opschorting als op het moment waarop over opschorting wordt beslist het beeld van de uitvoering alsnog juist en volledig is ontvangen.
 
@@ -156,59 +154,57 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9. Reikwijdte
 
-Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2019.
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2020.
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2019-12-03&g=2019-12-03), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2019-12-03&g=2019-12-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2019-12-03&g=2019-12-03) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2019-12-03&g=2019-12-03) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2020-01-01&g=2020-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2020-01-01&g=2020-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2020-01-01&g=2020-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 547,76 | 8,00% | x ink |   |   |
-| € | 547,76 | € | 591,56 | 5,21% | x ink |   |   |
-| € | 591,56 | € | 732,34 | 8,00% | x ink | – € | 16,51 |
-| € | 732,34 | € | 1.436,70 | 8,00% | x ink | + € | 0,91 |
-| € | 1.436,70 |   |   | 4,93% | x ink | + € | 0,56 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 605,71 | 8,00% | x ink |   |
+| € | 605,71 | € | 654,15 | 5,24% | x ink |   |
+| € | 654,15 | € | 766,96 | 8,00% | x ink | – € 18,07 |
+| € | 766,96 | € | 1472,84 | 8,00% | x ink | – € 0,88 |
+| € | 1472,84 |   |   | 5,13% | x ink | – € 0,56 |
 
 ##### Artikel 12. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit vroegere arbeid
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 521,53 | 8,00% | x ink |   |   |
-| € | 521,53 | € | 563,24 | 5,07% | x ink |   |   |
-| € | 563,24 | € | 1202,86 | 8,00% | x ink | – € | 16,51 |
-| € | 1202,86 | € | 1282,57 | 7,17% | x ink | – € | 14,79 |
-| € | 1282,57 |   |   | 8,00% | x ink | – € | 25,48 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0,00 | € | 560,11 | 8,00% | x ink |   |
+| € | 560,11 | € | 604,90 | 5,01% | x ink |   |
+| € | 604,90 | € | 1227,16 | 8,00% | x ink | – € 18,07 |
+| € | 1227,16 | € | 1307,26 | 7,28% | x ink | – € 16,44 |
+| € | 1307,26 |   |   | 8,00% | x ink | – € 25,90 |
 
 ##### Artikel 13. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) voor wie geen rekening is gehouden met de algemene heffingskorting
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
-| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0 | € | 996,44 | 8,00% | x ink |   |   |
-| € | 996,44 | € | 1076,16 | 7,82% | x ink |   |   |
-| € | 1076,16 |   |   | 8,00% | x ink | – € | 1,97 |
+| bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| --- | --- | --- | --- | --- | --- | --- |
+| gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
+| € | 0 |   |   | 8,00% | x ink |   |
 
 ##### Artikel 14. Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt
 
 1. Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:
 
-| a. alleenstaande | a. alleenstaande | a. alleenstaande | a. alleenstaande | 6,08% | x ink |   |
-| --- | --- | --- | --- | --- | --- | --- |
-| b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) hebben bereikt | 6,39% | x ink |   |
-| c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: |   |   |   |
-| – het inkomen € 1.128,26 of meer bedraagt | – het inkomen € 1.128,26 of meer bedraagt | – het inkomen € 1.128,26 of meer bedraagt | – het inkomen € 1.128,26 of meer bedraagt | 6,39% | x ink | – € 15,25 |
-| – het inkomen lager is dan € 1.128,26 | – het inkomen lager is dan € 1.128,26 | – het inkomen lager is dan € 1.128,26 | – het inkomen lager is dan € 1.128,26 | 6,39% | x ink |   |
+| a. alleenstaande | a. alleenstaande | a. alleenstaande | a. alleenstaande | 5,86 % | x ink |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt | b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt | 6,17 % | x ink |   |   |
+| c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: | c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien: |   |   |   |
+| – het inkomen € 1.158,09 of meer bedraagt | – het inkomen € 1.158,09 of meer bedraagt | – het inkomen € 1.158,09 of meer bedraagt | – het inkomen € 1.158,09 of meer bedraagt | 6,17 % | x ink | – € 15,61 |   |
+| – het inkomen lager is dan € 1.158,09 | – het inkomen lager is dan € 1.158,09 | – het inkomen lager is dan € 1.158,09 | – het inkomen lager is dan € 1.158,09 | 6,17 % | x ink |   |   |
 
 2. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
 
@@ -294,9 +290,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-##### Artikel 15a. Overgangsrecht meerjarige aanvullende uitkering
+##### Artikel 15a. Bedragen vergoeding centrumgemeenten bijstandverlening ondernemers in de binnenvaart [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711)
 
-De minister stelt, van een toegewezen verzoek tot een meerjarige aanvullende uitkering, de hoogte van het uitkeringsdeel dat betrekking heeft op 2014 vast binnen zes weken na 15 juli 2015 of, indien een gemeente haar verantwoording over de uitvoering van de wet in 2014 op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) niet uiterlijk 15 juli 2015 bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.
+1. De kosten, bedoeld in [artikel 52, eerste lid, onderdeel b, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=52), van een aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan ondernemers in de binnenvaart komen voor vergoeding in aanmerking, voor zover de kosten per onderzoek niet meer bedragen dan:
+
+- a. € 2.706,00 voor een uitgebreid rapport en € 1.599,00 voor een verkort rapport betrekking hebbend op bijstandverlening aan een gevestigde of een beginnende zelfstandige als bedoeld in [artikel 2, eerste lid, onderdelen a en b, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2);
+
+- b. € 984,00 voor een rapport betrekking hebbend op bijstandverlening aan een oudere of een beëindigende zelfstandige als bedoeld in [artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2) of een nader of vervolgrapport betrekking hebbend op bijstandverlening aan een zelfstandige.
+
+2. De vergoeding per besluit op een aanvraag van ondernemers in de binnenvaart om verlening van bijstand, bedoeld in [artikel 52, eerste lid, onderdeel c, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=52), bedraagt € 323,00.
+
+3. De bedragen, genoemd in het eerste lid, onderdelen a en b, en tweede lid worden met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens de Minister medegedeeld in de Staatscourant.
 
 #### § 8. Slotbepalingen
 
@@ -655,13 +659,195 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 7. Indien de minister aan een verzoek als bedoeld in het zesde lid voldoet, bepaalt hij daarbij het aantal adviezen dat later kan worden vastgesteld en de datum waarop deze adviezen uiterlijk door de minister worden ontvangen.
 
-#### § 7a. Verrekening IOAW en IOAZ
+#### § 7a. Vergoeding centrumgemeenten bijstandsverlening ondernemers in de binnenvaart [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711)
 
 #### § 8. Slotbepalingen
 
-## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2019-12-03&g=2019-12-03), van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01) van de Regeling Participatiewet, IOAW en IOAZ
 
-Vervallen
+| Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
+| --- | --- | --- | --- |
+| ****Niet-rechthebbenden**** |   |   |   |
+| **Te veel vermogen** |   |   |   |
+| Alleenstaande, vermogen boven € 5.000 | -2,0395108 | 1-1-2017 | Huishoudensdefinitie 31-12-2018, vermogen 1-1-2017 |
+| Alleenstaande, vermogen tot en met € 5.000, overwaarde boven € 50.000 | -0,7142046 | 1-1-2017 | Huishoudensdefinitie 31-12-2018, vermogen 1-1-2017 |
+| Paar/eenouder, vermogen boven € 10.000 | -1,6938955 | 1-1-2017 | Huishoudensdefinitie 31-12-2018, vermogen 1-1-2017 |
+| Paar/eenouder, vermogen tot en met € 10.000, overwaarde boven € 50.000 | -0,5993618 | 1-1-2017 | Huishoudensdefinitie 31-12-2018, vermogen 1-1-2017 |
+| **Andere uitkering** |   |   |   |
+| AO-uitkering, mate van AO 15-80% of onbekend in hh | -3,8153443 | 5-1-2017 | 31-12-2017 |
+| AO-uitkering, mate van AO 80-100% in hh | -4,0983381 | 5-1-2017 | 31-12-2017 |
+| WW-uitkering in hh | -1,0469943 | 5-1-2017 | 31-12-2018 |
+| ANW-uitkering in hh | -5,5699203 | 31-12-2016 | 31-12-2018 |
+| Zw-uitkering, wachtgeld of overige uitkering in hh | -1,4850944 | 5-1-2017 | 31-12-2017 |
+| Pensioenuitkering in hh | -0,5480095 | 5-1-2017 | 31-12-2017 |
+| **Kan/wil niet werken** |   |   |   |
+| Student (mbo/hbo/wo) in hh | -1,9972273 | 1-10-2016 | 1-10-2018 |
+| ****Aanbodkant van de arbeidsmarkt**** |   |   |   |
+| **Leeftijd** |   |   |   |
+| 18 tot 20-jarige in hh | **Referentie** | 1-1-2017 | 31-12-2018 |
+| 20 tot 25-jarige in hh | 1,2652561 | 1-1-2017 | 31-12-2018 |
+| 25 tot 30-jarige in hh | 1,7504550 | 1-1-2017 | 31-12-2018 |
+| 30 tot 40-jarige in hh | 1,8935990 | 1-1-2017 | 31-12-2018 |
+| 40 tot 50-jarige in hh | 2,1254461 | 1-1-2017 | 31-12-2018 |
+| 50-jarige tot AOW-leeftijd in hh | 2,5804731 | 1-1-2017 | 31-12-2018 |
+| **Gezinssituatie** |   |   |   |
+| Alleenstaande | **Referentie** | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind tot 5 | 1,0305948 | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind 5-12 | 0,5066231 | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind 12-18 | 0,1260311 | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind 18+ | -0,2289016 | 1-1-2017 | 31-12-2018 |
+| Eenouder-vader, jongste kind tot 5 | -0,2015735 | 1-1-2017 | 31-12-2018 |
+| Eenouder-vader, jongste kind 5-12 | -0,0710858 | 1-1-2017 | 31-12-2018 |
+| Eenouder-vader, jongste kind 12-18 | -0,4965251 | 1-1-2017 | 31-12-2018 |
+| Eenouder-vader, jongste kind 18+ | -1,0132760 | 1-1-2017 | 31-12-2018 |
+| Paar, jongste kind 18- | -1,2319780 | 1-1-2017 | 31-12-2018 |
+| Paar, jongste kind 18+ | -1,6941581 | 1-1-2017 | 31-12-2018 |
+| Paar zonder kinderen | -1,1195710 | 1-1-2017 | 31-12-2018 |
+| Thuiswonend meerderjarig kind | -0,6689042 | 1-1-2017 | 31-12-2018 |
+| Overig huishouden | 0,2028236 | 1-1-2017 | 31-12-2018 |
+| Wonen in corporatiewoning | 1,5514743 | 1-1-2017 | 31-12-2018 |
+| Wonen op een standplaats | 1,5490680 | 1-1-2017 | 31-12-2018 |
+| **Migratieachtergrond** |   |   |   |
+| Geen migratieachtergrond in hh | **Referentie** | 1-1-2017 | 31-12-2018 |
+| Turk in hh | 0,1774615 | 1-1-2017 | 31-12-2018 |
+| Surinamer in hh | 0,3226718 | 1-1-2017 | 31-12-2018 |
+| Nederlands Antilliaan in hh | 0,4733527 | 1-1-2017 | 31-12-2018 |
+| Marokkaan in hh | 0,5001154 | 1-1-2017 | 31-12-2018 |
+| Ghanees in hh | 0,0398445 | 1-1-2017 | 31-12-2018 |
+| Somaliër of Eritreeër in hh | 2,1528054 | 1-1-2017 | 31-12-2018 |
+| Afrikaan (excl. Marokkaan, Ghanees, Somaliër, Eritreeër) in hh | 0,8669657 | 1-1-2017 | 31-12-2018 |
+| Afghaan in hh | 1,0863325 | 1-1-2017 | 31-12-2018 |
+| Irakees in hh | 1,2931337 | 1-1-2017 | 31-12-2018 |
+| Syriër in hh | 3,5404508 | 1-1-2017 | 31-12-2018 |
+| Iranees in hh | 0,8129299 | 1-1-2017 | 31-12-2018 |
+| Chinees in hh | -0,3210145 | 1-1-2017 | 31-12-2018 |
+| Indiaas in hh | -0,6850832 | 1-1-2017 | 31-12-2018 |
+| Overig niet-westers in hh | 0,1723876 | 1-1-2017 | 31-12-2018 |
+| Voormalig Joegoslavisch in hh | 0,4761400 | 1-1-2017 | 31-12-2018 |
+| Voormalig Sovjet-Unie in hh | 0,3624668 | 1-1-2017 | 31-12-2018 |
+| Overig westers in hh | -0,4368658 | 1-1-2017 | 31-12-2018 |
+| **Opleiding** |   |   |   |
+| Aandeel laagst opgeleiden in gemeente | 0 | n.v.t. | n.v.t. |
+| HCI (human capital index) onbekend | **Referentie** | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| Lage HCI in hh | 1,3063685 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| Middelbare of hoge HCI in hh | -1,3118882 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| (V)SO/Pro gevolgd in hh | 1,6055867 | Gevolgd tussen schooljaar 2010/2011 en 2015/2016, niet gevolgd in schooljaar 2016/2017 | Gevolgd tussen schooljaar 2012/2013 en 2017/2018, niet gevolgd in schooljaar 2018/2019 |
+| **Gezondheid** |   |   |   |
+| Zorgkosten boven € 50.000 in hh | 0,3481896 | Heel 2016 | Heel 2016 |
+| Gebruik GGZ-zorg in hh | 0,7924915 | Heel 2016 | Heel 2016 |
+| Medicijnen voor verslaving in hh | 0,3582567 | Heel 2016 | Heel 2017 |
+| Medicijnen voor depressie in hh | 0,3614081 | Heel 2016 | Heel 2017 |
+| Medicijnen voor psychose in hh | 0,5388989 | Heel 2016 | Heel 2017 |
+| Medicijngebruik uit minder dan 4 hoofdgroepen in hh | **Referentie** | Heel 2016 | Heel 2017 |
+| Medicijngebruik uit 4 tot 6 hoofdgroepen in hh | 0,1607911 | Heel 2016 | Heel 2017 |
+| Medicijngebruik uit 6 tot 8 hoofdgroepen in hh | 0,3257013 | Heel 2016 | Heel 2017 |
+| Medicijngebruik uit 8 of meer hoofdgroepen in hh | 0,4675558 | Heel 2016 | Heel 2017 |
+| **Combinaties van factoren** |   |   |   |
+| Niet-westerse migratieachtergrond in hh en 50-jarige tot AOW in hh | 0,0226456 | 1-1-2017 | 31-12-2018 |
+| Niet-westerse migratieachtergrond in hh en gezondheidsproblemen in hh | 0,1421771 | 1-1-2017 voor migratieachtergrond, heel 2016 voor gezondheidsproblemen | 31-12-2018 voor migratieachtergrond, heel 2016 voor hoge zorgkosten en gebruik ggz-zorg, heel 2017 voor overige gezondheidsproblemen |
+| Lage HCI in hh en gezondheidsproblemen in hh | 0,4724754 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016, heel 2016 voor gezondheidsproblemen | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017, heel 2016 voor hoge zorgkosten en gebruik ggz-zorg, heel 2017 voor overige gezondheidsproblemen |
+| ****Vraagkant** van de arbeidsmarkt** |   |   |   |
+| Banen per lid beroepsbevolking in gemeente, gecorrigeerd voor reistijd, concurrentie en grenspendel | -8,0349430 | 1-1-2017 | 1-1-2018 |
+| Aandeel werkend onder niveau in gemeente | 0,8611330 | 1-1-2017 | 1-1-2018 |
+| Aandeel studenten (hbo/wo) onder de potentiële beroepsbevolking in gemeente | 0,3263149 | 1-10-2016 | 1-10-2018 |
+| Aandeel WW’ers onder de beroepsbevolking in gemeente | 17,5956725 | Q1 2017 t/m Q4 2017 | Q4 2017, Q1 t/m Q3 2018 |
+| **Buurteffecten** |   |   |   |
+| Aandeel van de beroepsbevolking in gemeente in buurt waar werken niet de norm is obv postcodegebieden (6 posities) | 0,4576485 | 1-1-2017 | 1-1-2017 |
+| Index overlast en onveiligheid | 1,2019851 | 1-1-2017 | 1-1-2018 |
+| Constante | 0,0094706 |   |   |
+
+| **Type huishouden** | **Normbedrag** |
+| --- | --- |
+| Alleenstaande (ouder), leeftijd 21 tot AOW | 15.608,27 |
+| Alleenstaande (ouder), 18, 19 of 20 jaar | 3.052,68 |
+| Gehuwd paar, beide partners leeftijd 21 tot AOW | 20.063,30 |
+| Gehuwd paar, beide partners 18, 19 of 20 jaar, zonder kind(eren) | 6.105,36 |
+| Gehuwd paar, beide partners 18, 19 of 20 jaar, met kind(eren) | 9.638,28 |
+| Gehuwd paar, één van beide partners 18, 19 of 20 jaar, zonder kind(eren) | 11.884,92 |
+| Gehuwd paar, één van beide partners 18, 19 of 20 jaar, met kind(eren) | 16.517,17 |
+| **Normen gerechtigde leeftijd 21 tot AOW bij aantal kostendelers** | **Normbedrag** |
+| 2 kostendelers | 10.031,75 |
+| 3 kostendelers | 8.172,78 |
+| 4 kostendelers | 7.243,29 |
+| 5 kostendelers | 6.712,44 |
+| 6 kostendelers | 6.476,88 |
+| 7 kostendelers | 6.308,76 |
+| 8 kostendelers | 6.182,52 |
+| 9 kostendelers | 6.084,36 |
+| 10 kostendelers (of meer) | 6.005,88 |
+| **Normen gehuwde paren (1 partner jonger dan 21, 1 partner leeftijd 21 of ouder) afhankelijk van aantal kostendelers met kinderen** | **Normbedrag** |
+| 2 kostendelers | 16.517,17 |
+| 3 kostendelers | 14.658,20 |
+| 4 kostendelers | 13.728,72 |
+| 5 kostendelers | 13.298,04 |
+| 6 kostendelers | 13.062,48 |
+| 7 kostendelers | 12.894,36 |
+| 8 kostendelers | 12.768,12 |
+| 9 kostendelers | 12.669,96 |
+| 10 kostendelers (of meer) | 12.591,48 |
+| **Normen gehuwde paren (1 partner jonger dan 21, 1 partner leeftijd 21 of ouder) afhankelijk van aantal kostendelers zonder kinderen** | **Normbedrag** |
+| 2 kostendelers | 11.884,92 |
+| 3 kostendelers | 10.707,24 |
+| 4 kostendelers | 10.118,40 |
+| 5 kostendelers | 9.765,12 |
+| 6 kostendelers | 9.529,56 |
+| 7 kostendelers | 9.361,44 |
+| 8 kostendelers | 9.235,20 |
+| 9 kostendelers | 9.137,04 |
+| 10 kostendelers (of meer) | 9.058,56 |
+| **Afwijkende normen gehuwden o.b.v. art. 24 Participatiewet** | **Normbedrag** |
+| rechthebbende leeftijd 21 of ouder met of zonder kinderen | 10.031,75 |
+| rechthebbende leeftijd jonger dan 21, zonder kind | 3.052,68 |
+| rechthebbende leeftijd jonger dan 21, met kind | 4.819,20 |
+
+| Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
+| --- | --- | --- | --- |
+| ****Directe verrekening**** |   |   |   |
+| **Andere uitkering** |   |   |   |
+| WW-uitkering in hh | -1,4264027 | 5-1-2017 | 31-12-2018 |
+| AO-uitkering, mate van AO 15-80% of onbekend in hh | -2,3670701 | 5-1-2017 | 31-12-2017 |
+| AO-uitkering, mate van AO 80-100% in hh | -3,0789747 | 5-1-2017 | 31-12-2017 |
+| ANW-uitkering in hh | -1,9528528 | 31-12-2016 | 31-12-2018 |
+| Zw-uitkering, wachtgeld of overige uitkering in hh | -1,2172436 | 5-1-2017 | 31-12-2017 |
+| Pensioenuitkering in hh | -1,0825931 | 5-1-2017 | 31-12-2017 |
+| **Kans op deeltijdwerk** |   |   |   |
+| **Aanbodkant van de arbeidsmarkt** |   |   |   |
+| **Leeftijd** |   |   |   |
+| 18 tot 25-jarige in hh | **Referentie** | 1-1-2017 | 31-12-2018 |
+| 25 tot 30-jarige in hh | -0,2148057 | 1-1-2017 | 31-12-2018 |
+| 30 tot 40-jarige in hh | -0,5082408 | 1-1-2017 | 31-12-2018 |
+| 40 tot 50-jarige in hh | -0,5728487 | 1-1-2017 | 31-12-2018 |
+| 50-jarige tot AOW-leeftijd in hh | -0,4108061 | 1-1-2017 | 31-12-2018 |
+| **Gezinssituatie** |   |   |   |
+| Alleenstaande, eenoudervader | **Referentie** | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind tot 5 | -0,1787678 | 1-1-2017 | 31-12-2018 |
+| Eenouder-moeder, jongste kind 5+ | -0,4002409 | 1-1-2017 | 31-12-2018 |
+| Paar met kinderen | -0,5717257 | 1-1-2017 | 31-12-2018 |
+| Paar zonder kinderen, overig huishouden | -0,7398789 | 1-1-2017 | 31-12-2018 |
+| Thuiswonend meerderjarig kind | -0,3924031 | 1-1-2017 | 31-12-2018 |
+| Wonen in corporatiewoning of op standplaats | 0,0880957 | 1-1-2017 | 31-12-2018 |
+| **Migratieachtergrond** |   |   |   |
+| Geen, westerse, of overige niet-westerse migratieachtergrond in hh | **Referentie** | 1-1-2017 | 31-12-2018 |
+| Turk in hh | 0,0894738 | 1-1-2017 | 31-12-2018 |
+| Surinamer in hh | 0,1218518 | 1-1-2017 | 31-12-2018 |
+| Marokkaan in hh | 0,1690292 | 1-1-2017 | 31-12-2018 |
+| Afrikaan (excl. Marokkaan) in hh | 0,2266394 | 1-1-2017 | 31-12-2018 |
+| Irakees, Syriër, Iraniër, of Afghaan in hh | 0,2818218 | 1-1-2017 | 31-12-2018 |
+| **Opleiding** |   |   |   |
+| HCI (human capital index) onbekend | **Referentie** | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| Lage HCI in hh | 0,2380750 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| Middelbare of hoge HCI in hh | -0,7976046 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016 | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017 |
+| **Gezondheid** |   |   |   |
+| Gebruik GGZ-zorg in hh | 0,1370456 | Heel 2016 | Heel 2016 |
+| Medicijnen voor depressie in hh | 0,0484792 | Heel 2016 | Heel 2017 |
+| Combinaties van factoren |   |   |   |
+| Lage HCI in hh en gezondheidsproblemen in hh | 0,1345419 | Opleidingsniveau 1-10-2016, arbeidsverleden 2012 t/m 2016, heel 2016 voor gezondheidsproblemen | Opleidingsniveau 1-10-2017, arbeidsverleden 2013 t/m 2017, heel 2016 voor hoge zorgkosten en gebruik ggz-zorg, heel 2017 voor overige gezondheidsproblemen |
+| **Vraagkant van de arbeidsmarkt** |   |   |   |
+| Laaggeschoolde banen per lid beroepsbevolking in gemeente, gecorrigeerd voor reistijd, concurrentie en grenspendel | -0,2507163 | 1-1-2017 | 1-1-2018 |
+| Aandeel studenten (hbo/wo) onder de potentiële beroepsbevolking in gemeente | 1,0195944 | 1-10-2016 | 1-10-2018 |
+| **Buurteffecten** |   |   |   |
+| Index overlast en onveiligheid | 0,4759817 | 1-1-2017 | 1-1-2018 |
+| Constante | 2,8209278 |   |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
@@ -744,5 +930,13 @@ De toetsingscommissie moet kunnen vaststellen welke maatregelen zijn getroffen i
 De informatieverstrekking over dit vereiste moet u zien in de context dat het college niet verplicht is om over 2016 maatregelen tot tekortreductie in uitvoering te hebben genomen. Voor het recht op vangnetuitkering over 2016 is het toegestaan dat het college de gemeenteraad in 2016 informeert over maatregelen die zullen worden genomen en waarvan de uitvoering eerst na 2016 een aanvang neemt. Voor de beoordeling door de toetsingscommissie geeft u allereerst aan of u in 2016 maatregelen heeft getroffen gericht op tekortreductie. Indien maatregelen zijn getroffen, geeft u vervolgens aan welke maatregelen zijn getroffen om het tekort te verminderen en hoe het college het effect van deze maatregelen kwalificeert. Onder kwalificeren van maatregelen wordt verstaan het aangeven welke effecten de maatregelen hebben. Dat mag het effect zijn van alle maatregelen gezamenlijk of voor zover dit mogelijk is, het effect van elke maatregel afzonderlijk. Kwantificeren van de maatregelen is niet vereist.
 
 Indien het voor u niet mogelijk is een effect van de maatregel te beschrijven, dan volstaat een dergelijke opmerking. Geef daarbij wel aan waarom het niet lukt een effect te beschrijven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+
+#### § 8. Slotbepalingen
+
+## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2020-01-01&g=2020-01-01), van de Regeling Participatiewet, IOAW en IOAZ
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
