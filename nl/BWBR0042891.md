@@ -127,9 +127,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2020 en vervalt met ing
 Deze regeling wordt aangehaald als Subsidieregeling kunstmatige inseminatie met donorsemen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Vaststelling
-
-In afwijking van [artikel 7.5, vijfde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5), kan de subsidie worden vastgesteld op een bedrag dat maximaal 15% hoger is dan het bedrag dat bij de verlening door de Minister is genoemd, indien het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen groter is dan het aantal waarvoor subsidie is verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
