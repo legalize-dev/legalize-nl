@@ -4,7 +4,7 @@ identifier: "BWBR0041912"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-19"
-last_updated: "2019-04-02"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041912"
 soort: "wet"
@@ -178,5 +178,7 @@ Op overtredingen van de wetten die worden gewijzigd door deze wet, die hebben pl
 ##### Artikel XXXII
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
