@@ -4,7 +4,7 @@ identifier: "BWBR0035525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-30"
-last_updated: "2014-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035525"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze regeling wordt verstaan onder de centrale commissie: de centrale commiss
 
 ##### Artikel 2
 
-De bezoldiging van de voorzitter van de centrale commissie wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), rekening houdend met een arbeidsduur van gemiddeld 24 uren per week.
+De bezoldiging van de voorzitter van de centrale commissie wordt vastgesteld volgens het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, rekening houdend met een arbeidsduur van gemiddeld 24 uren per week.
 
 ##### Artikel 3
 
-De bezoldiging van de leden van de centrale commissie wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), rekening houdend met een arbeidsduur van gemiddeld 4 uren per week.
+De bezoldiging van de leden van de centrale commissie wordt vastgesteld volgens het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, rekening houdend met een arbeidsduur van gemiddeld 4 uren per week.
 
 ##### Artikel 4
 
@@ -58,7 +58,7 @@ De plaatsvervangende leden van de centrale commissie ontvangen een schadeloosste
 
 ##### Artikel 5
 
-De voorzitter, de leden en de plaatsvervangende leden van de centrale commissie hebben recht op een vergoeding van reis- en verblijfskosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+De voorzitter, de leden en de plaatsvervangende leden van de centrale commissie hebben recht op een vergoeding van reis- en verblijfskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 6
 
