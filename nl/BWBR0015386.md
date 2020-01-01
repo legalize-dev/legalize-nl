@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2019-07-01&g=2019-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2019-07-01&g=2019-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2019-07-01&g=2019-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2019-07-01&g=2019-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2019 tot en met 30 juni 2020 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2020-01-01&g=2020-01-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2019-07-01&g=2019-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2019-07-01&g=2019-07-01) vervatte schema’s.
+De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2020-01-01&g=2020-01-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2020-01-01&g=2020-01-01) vervatte schema’s.
 
 #### § 4. Bezoldiging en vergoedingen voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters, zittingsleden en leden van de Raad van Advies
 
@@ -148,7 +148,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2019-07-01&g=2019-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2020-01-01&g=2020-01-01).
 
 #### § 5. Openbaar register
 
@@ -166,7 +166,7 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ##### Artikel 14
 
-Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2019-07-01&g=2019-07-01).
+Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2020-01-01&g=2020-01-01).
 
 #### § 9. Slotbepalingen
 
@@ -1201,11 +1201,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vakantie-uitkering overeenkomstig [hoofdstuk IV van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&hoofdstuk=IV).
+Vervallen
 
 ##### Artikel 7b
 
-De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een eindejaarsuitkering overeenkomstig [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=20a).
+Vervallen
 
 ##### Artikel 7c
 
@@ -1219,7 +1219,7 @@ Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zit
 
 1. Op eenmalige of periodieke toeslagen van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22a) van overeenkomstige toepassing.
 
-2. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben de mogelijkheid om gebruik te maken van het Individuele keuzen in het ArbeidsvoorwaardenPakket (IKAP). De [IKAP-regeling Rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0015799) is van overeenkomstige toepassing.
+2. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op het Individueel Keuzebudget en op de mogelijkheid om betaald meer uren te werken overeenkomstig hetgeen daarover is overeengekomen in hoofdstuk 9 van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 7f
 
@@ -1233,7 +1233,7 @@ Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zit
 
 1. De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3g), genieten een vergoeding voor het bijwonen van vergaderingen en het geven van adviezen uit hoofde van hun functie als bedoeld in dat artikel ten bedrage van € 400 per maand. Het lid van de Raad dat tevens telkenmale die vergaderingen voorzit, geniet een vergoeding van € 520 per maand. De bedragen van de vergoeding worden jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.
 
-2. De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3g), genieten een vergoeding voor reis- en verblijfkosten ter zake van reizen ten behoeve van de huurcommissie gedaan, overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912).
+2. De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3g), genieten een vergoeding voor reis- en verblijfkosten ter zake van reizen ten behoeve van de huurcommissie gedaan, overeenkomstig hetgeen is overeengekomen over binnenlandse dienstreizen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 #### § 6. Aanwijzing groep chronisch zieken en gehandicapten
 
@@ -1297,7 +1297,7 @@ De gegevens, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 14a
 
-Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2019-07-01&g=2019-07-01).
+Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2020-01-01&g=2020-01-01).
 
 #### § 9. Slotbepalingen
 
