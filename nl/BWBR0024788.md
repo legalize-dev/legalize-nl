@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -45,29 +45,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 12.006,24 per maand.
+1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 12.246,36 per maand.
 
-2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 11.207,56 per maand.
+2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 11,431,71 per maand.
 
-3. De bezoldiging van de overige leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 10.459,56 per maand.
+3. De bezoldiging van de overige leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 10.668,75 per maand.
 
 4. De staatsraden ontvangen een zodanig deel van de in het derde lid bedoelde bezoldiging als overeenkomt met de vastgestelde omvang van de te verrichten taak.
 
 5. De bezoldiging vangt aan met de dag van indiensttreding. De bezoldiging eindigt in ieder geval met ingang van de dag na het overlijden.
 
-6. Na het overlijden van de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden van de Algemene Rekenkamer of de substituut-ombudsmannen wordt een uitkering verstrekt op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
+6. Na het overlijden van de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden van de Algemene Rekenkamer of de substituut-ombudsmannen wordt een uitkering verstrekt op de voet van hetgeen hieromtrent voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen.
 
-7. Indien de bezoldiging van het personeel werkzaam bij de sector Rijk wijziging ondergaat, en wordt bepaald dat die wijziging een algemeen karakter draagt, worden de in het eerste, tweede en derde lid genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
+7. Indien voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen en daarbij is overeengekomen dat die wijziging een algemeen karakter draagt, worden de in het eerste, tweede en derde lid genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
 
 ##### Artikel 2
 
 1. De staatsraden in buitengewone dienst en de leden in buitengewone dienst van de Algemene Rekenkamer ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer een bij algemene maatregel van bestuur te regelen vergoeding.
 
-2. De reis- en verblijfkosten van de in het eerste lid genoemde functionarissen worden vergoed op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
+2. De reis- en verblijfkosten van de in het eerste lid genoemde functionarissen worden vergoed op de voet van hetgeen hieromtrent voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen.
 
 ##### Artikel 3
 
-1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de sector Rijk een vakantie-uitkering, een eenmalige uitkering en een eindejaarsuitkering.
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van hetgeen daaromtrent voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen een vakantie-uitkering, een eenmalige uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -97,31 +97,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-Wijzigt de Wet op de Raad van State.
+1. Op de bezoldiging, bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2020-01-01&g=2020-01-01), de uitkering, bedoeld in artikel 1, zesde lid, en de vergoeding, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2020-01-01&g=2020-01-01), alsmede op de ambtsjubileumgratificatie, de vakantie-uitkering en de eindejaarsuitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2020-01-01&g=2020-01-01), is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
+
+2. Kostenvergoedingen krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2020-01-01&g=2020-01-01), zijn niet vatbaar voor beslag.
 
 ##### Artikel 7
 
-Wijzigt de Wet Nationale ombudsman.
+Onverschuldigd betaalde bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2020-01-01&g=2020-01-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2020-01-01&g=2020-01-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2020-01-01&g=2020-01-01), kunnen worden teruggevorderd.
 
 ##### Artikel 8
 
-De [wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0002456) (Stb. 387) en de [Wet bezoldiging Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003429) worden ingetrokken.
+1. Met bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2020-01-01&g=2020-01-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2020-01-01&g=2020-01-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2020-01-01&g=2020-01-01), kan worden verrekend hetgeen de betrokken functionaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
+
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2020-01-01&g=2020-01-01).
+
+3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging, ambtsjubileumgratificaties, vakantie-uitkeringen of eindejaarsuitkeringen geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in [artikel 475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
 
 ##### Artikel 9
 
-Wijzigt deze wet.
+1. Op bezoldiging als bedoeld in [artikel 1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2020-01-01&g=2020-01-01), uitkeringen als bedoeld in artikel 1, zesde lid, vergoeding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2&z=2020-01-01&g=2020-01-01), en ambtsjubileumgratificaties, vakantie-uitkeringen en eindejaarsuitkeringen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3&z=2020-01-01&g=2020-01-01), kan ten behoeve van een schuldeiser van de betrokken functionaris of zijn nagelaten betrekkingen een korting worden toegepast, mits deze functionaris onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+
+2. Korting is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn.
+
+3. Beslag, faillissement, surséance van betaling en toepassing ten aanzien van de betrokken functionaris of zijn nagelaten betrekkingen van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
 
 ##### Artikel 10
 
-Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van State)(Kst. 30585).
+Voor de toepassing van de [artikelen 475b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475d, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=8&z=2020-01-01&g=2020-01-01), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=9&z=2020-01-01&g=2020-01-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 11
 
-Vervallen
+Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging geschiedt de verdeling naar evenredigheid der inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
 
 ##### Artikel 12
 
-Vervallen
+1. Overdracht, inpandgeving of elke andere handeling waardoor de betrokken functionaris of zijn nagelaten betrekkingen enig recht op zijn bezoldiging aan een derde toekent of toekennen, is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
+
+2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
 
 ##### Artikel 13
 
@@ -134,5 +146,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 1. Een Nationale ombudsman of een substituut-ombudsman die naar het oordeel van een arts een structurele functionele beperking heeft, kan aanspraak maken op een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
 
 2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12a
+
+Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten de Staat, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen de Staat van het eindigen van de volmacht kennis kreeg.
+
+##### Artikel 12b
+
+Beslag omvat in deze wet ook de invordering, bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
