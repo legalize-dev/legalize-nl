@@ -4,7 +4,7 @@ identifier: "BWBR0008159"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008159"
 soort: "wet"
@@ -64,7 +64,7 @@ Geen adviescollege in de zin van deze wet is:
 
 ##### Artikel 3
 
-De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&z=2018-01-01&g=2018-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&z=2018-01-01&g=2018-01-01) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=6&artikel=28&z=2018-01-01&g=2018-01-01) gelden niet ten aanzien van adviescolleges waarvan de adviestaak, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=1&artikel=1&z=2018-01-01&g=2018-01-01), niet de hoofdtaak is.
+De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&z=2020-01-01&g=2020-01-01) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=6&artikel=28&z=2020-01-01&g=2020-01-01) gelden niet ten aanzien van adviescolleges waarvan de adviestaak, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), niet de hoofdtaak is.
 
 ### HOOFDSTUK 2. HET INSTELLEN VAN ADVIESCOLLEGES
 
@@ -74,19 +74,19 @@ Een adviescollege wordt bij wet ingesteld.
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01) kan een adviescollege voor de advisering over een in de tijd beperkt vraagstuk bij koninklijk besluit worden ingesteld voor de duur van ten hoogste vier jaar. Deze termijn kan bij koninklijk besluit eenmaal met ten hoogste twee jaar worden verlengd.
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) kan een adviescollege voor de advisering over een in de tijd beperkt vraagstuk bij koninklijk besluit worden ingesteld voor de duur van ten hoogste vier jaar. Deze termijn kan bij koninklijk besluit eenmaal met ten hoogste twee jaar worden verlengd.
 
 2. Een besluit op grond van het eerste lid wordt niet eerder genomen dan vier weken nadat het voornemen daartoe in overeenstemming met het gevoelen van de ministerraad, aan de beide kamers der Staten-Generaal is meegedeeld.
 
 ##### Artikel 6
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01) kan een adviescollege voor de eenmalige advisering over een bepaald vraagstuk bij koninklijk besluit of bij ministeriële regeling, in overeenstemming met het gevoelen van de ministerraad, worden ingesteld voor de duur van de advisering.
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) kan een adviescollege voor de eenmalige advisering over een bepaald vraagstuk bij koninklijk besluit of bij ministeriële regeling, in overeenstemming met het gevoelen van de ministerraad, worden ingesteld voor de duur van de advisering.
 
 2. Een besluit op grond van het eerste lid wordt onverwijld aan de beide kamers der Staten-Generaal meegedeeld.
 
-3. In afwijking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&artikel=13&z=2018-01-01&g=2018-01-01) kunnen de leden van een college als bedoeld in het eerste lid worden benoemd en ontslagen door Onze Minister.
+3. In afwijking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&artikel=11&z=2020-01-01&g=2020-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=3&artikel=13&z=2020-01-01&g=2020-01-01) kunnen de leden van een college als bedoeld in het eerste lid worden benoemd en ontslagen door Onze Minister.
 
-4. Op een college als bedoeld in het eerste lid zijn de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=17&z=2018-01-01&g=2018-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=18&z=2018-01-01&g=2018-01-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&z=2018-01-01&g=2018-01-01) en de artikelen 28 en 33 niet van toepassing. Op het advies van zo'n college is [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=24&z=2018-01-01&g=2018-01-01) van overeenkomstige toepassing.
+4. Op een college als bedoeld in het eerste lid zijn de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=17&z=2020-01-01&g=2020-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=18&z=2020-01-01&g=2020-01-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&z=2020-01-01&g=2020-01-01) en de artikelen 28 en 33 niet van toepassing. Op het advies van zo'n college is [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=24&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 7
 
@@ -98,7 +98,7 @@ Bij de instelling van een adviescollege wordt de adviestaak omschreven.
 
 ##### Artikel 9
 
-De [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01) zijn van overeenkomstige toepassing op het toekennen van een adviestaak als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=1&artikel=1&z=2018-01-01&g=2018-01-01), aan een college dat krachtens publiekrecht een andere taak heeft.
+De [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op het toekennen van een adviestaak als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), aan een college dat krachtens publiekrecht een andere taak heeft.
 
 ### HOOFDSTUK 3. SAMENSTELLING EN INRICHTING VAN ADVIESCOLLEGES
 
@@ -112,7 +112,7 @@ Een adviescollege bestaat uit een voorzitter en ten hoogste veertien andere lede
 
 2. De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.
 
-3. Onze Minister draagt zorg voor openbaarmaking van een vacature in een adviescollege, niet zijnde een college als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2018-01-01&g=2018-01-01).
+3. Onze Minister draagt zorg voor openbaarmaking van een vacature in een adviescollege, niet zijnde een college als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 12
 
@@ -140,7 +140,7 @@ Vervallen
 
 4. De secretaris en de andere medewerkers zijn geen lid van het adviescollege.
 
-5. Onze Minister benoemt, bevordert, schorst en ontslaat, na overleg met de voorzitter van het adviescollege, de secretaris en de andere medewerkers.
+5. Na overleg met de voorzitter van het adviescollege sluit, wijzigt en beëindigt Onze Minister namens de Staat een arbeidsovereenkomst met de secretaris en de andere medewerkers.
 
 ##### Artikel 16
 
@@ -232,7 +232,7 @@ Een adviescollege houdt bij het vervullen van zijn taak zoveel mogelijk rekening
 
 3. Het jaarverslag en het evaluatieverslag worden gezonden aan Onze Minister. Het evaluatieverslag wordt tevens gezonden aan Onze Minister van Binnenlandse Zaken en aan de beide kamers der Staten-Generaal.
 
-4. Onze Minister stelt de beide kamers der Staten-Generaal in kennis van zijn standpunt over het evaluatieverslag. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=24&z=2018-01-01&g=2018-01-01) is daarbij van overeenkomstige toepassing.
+4. Onze Minister stelt de beide kamers der Staten-Generaal in kennis van zijn standpunt over het evaluatieverslag. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4&artikel=24&z=2020-01-01&g=2020-01-01) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 29
 
@@ -254,13 +254,13 @@ Wijzigt de Comptabiliteitswet.
 
 ##### Artikel 33
 
-Na de instelling van een adviescollege stelt Onze Minister voor dat college een werkprogramma vast voor het resterende deel van het kalenderjaar waarin het is ingesteld en, indien de instelling heeft plaatsgevonden na 31 augustus, tevens voor het daaropvolgende kalenderjaar. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&artikel=26&z=2018-01-01&g=2018-01-01) is daarbij zoveel mogelijk van overeenkomstige toepassing.
+Na de instelling van een adviescollege stelt Onze Minister voor dat college een werkprogramma vast voor het resterende deel van het kalenderjaar waarin het is ingesteld en, indien de instelling heeft plaatsgevonden na 31 augustus, tevens voor het daaropvolgende kalenderjaar. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=5&artikel=26&z=2020-01-01&g=2020-01-01) is daarbij zoveel mogelijk van overeenkomstige toepassing.
 
 ##### Artikel 34
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2018-01-01&g=2018-01-01) geldt tot en met 31 december 1997 niet ten aanzien van een adviescollege dat in 1996 voor bepaalde tijd is ingesteld.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) geldt tot en met 31 december 1997 niet ten aanzien van een adviescollege dat in 1996 voor bepaalde tijd is ingesteld.
 
-2. Voor de toepassing van deze wet wordt een college als bedoeld in het eerste lid aangemerkt als een college als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2018-01-01&g=2018-01-01).
+2. Voor de toepassing van deze wet wordt een college als bedoeld in het eerste lid aangemerkt als een college als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 35
 
