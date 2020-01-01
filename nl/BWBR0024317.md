@@ -4,7 +4,7 @@ identifier: "BWBR0024317"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2008-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024317"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 - g. **sectorcommissie Defensie:** de commissie, bedoeld in [artikel 2 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=2);
 
-- h. **college voor geschillen:** het college, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=33&z=2008-09-01&g=2008-09-01);
+- h. **college voor geschillen:** het college, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=33&z=2020-01-01&g=2020-01-01);
 
 - i. **centrale:** een centrale van verenigingen van ambtenaren als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=4);
 
@@ -132,7 +132,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 10. Indien een in dit artikel bedoelde gemeenschappelijke medezeggenschapscommissie uit vertegenwoordigers van diensteenheden bestaat die afkomstig zijn uit meerdere defensieonderdelen wordt de secretaris-generaal aangemerkt als hoofd defensieonderdeel.
 
-11. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2008-09-01&g=2008-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=13&z=2008-09-01&g=2008-09-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=16&z=2008-09-01&g=2008-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=17&z=2008-09-01&g=2008-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=18&z=2008-09-01&g=2008-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2008-09-01&g=2008-09-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2008-09-01&g=2008-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=21&z=2008-09-01&g=2008-09-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=22&z=2008-09-01&g=2008-09-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=23&z=2008-09-01&g=2008-09-01) en de [hoofdstukken 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&z=2008-09-01&g=2008-09-01) zijn van overeenkomstige toepassing op de in dit artikel bedoelde gemeenschappelijke medezeggenschapscommissie.
+11. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=13&z=2020-01-01&g=2020-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=17&z=2020-01-01&g=2020-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=18&z=2020-01-01&g=2020-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2020-01-01&g=2020-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=21&z=2020-01-01&g=2020-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=22&z=2020-01-01&g=2020-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=23&z=2020-01-01&g=2020-01-01) en de [hoofdstukken 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de in dit artikel bedoelde gemeenschappelijke medezeggenschapscommissie.
 
 ##### Artikel 5. Defensieonderdeel medezeggenschapscommissie
 
@@ -140,7 +140,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 2. Een defensieonderdeel medezeggenschapscommissie behandelt uitsluitend aangelegenheden die van gemeenschappelijk belang zijn voor alle of voor de meerderheid van de diensteenheden van dat defensieonderdeel.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), met uitzondering van het eerste, het derde en het negende lid, is van overeenkomstige toepassing op de defensieonderdeel medezeggenschapscommissie.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), met uitzondering van het eerste, het derde en het negende lid, is van overeenkomstige toepassing op de defensieonderdeel medezeggenschapscommissie.
 
 ##### Artikel 6. Centrale medezeggenschapscommissie
 
@@ -148,7 +148,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 2. Een centrale medezeggenschapscommissie behandelt uitsluitend aangelegenheden die van gemeenschappelijk belang zijn voor alle of voor een meerderheid van de betrokken defensieonderdelen.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), met uitzondering van het eerste, het derde en het negende lid, is van overeenkomstige toepassing op de centrale medezeggenschapscommissie.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), met uitzondering van het eerste, het derde en het negende lid, is van overeenkomstige toepassing op de centrale medezeggenschapscommissie.
 
 ##### Artikel 7. Tijdelijke reorganisatie medezeggenschapscommissie
 
@@ -158,19 +158,19 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 3. De tijdelijke reorganisatie medezeggenschapscommissie wordt ingesteld voor de duur van de reorganisatie, en houdt van rechtswege op te bestaan zodra overeenstemming is bereikt over de voorgenomen maatregel die verband houdt met de reorganisatie.
 
-4. Indien een in dit artikel bedoelde tijdelijke reorganisatie medezeggenschapscommissie wordt ingesteld zijn de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=8&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissies niet bevoegd ten aanzien van de door deze medezeggenschapscommissie te behandelen onderwerpen.
+4. Indien een in dit artikel bedoelde tijdelijke reorganisatie medezeggenschapscommissie wordt ingesteld zijn de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=8&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissies niet bevoegd ten aanzien van de door deze medezeggenschapscommissie te behandelen onderwerpen.
 
-5. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), met uitzondering van het eerste en het tweede lid, is van overeenkomstige toepassing.
+5. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), met uitzondering van het eerste en het tweede lid, is van overeenkomstige toepassing.
 
 ##### Artikel 8. Locatie medezeggenschapscommissie
 
-1. Onze Minister stelt bij een groep van schepen in combinatie met de ondersteunende wal-organisatie, een inrichting der zeemacht, op een kazerne, op een vliegbasis, op een kantorencomplex of op een overeenkomstig complex een locatie medezeggenschapscommissie in indien sprake is van overleg over aangelegenheden als bedoeld in [artikel 29, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01), die betrekking hebben op personeel van verschillende diensteenheden dat op dezelfde locatie werkt of woont.
+1. Onze Minister stelt bij een groep van schepen in combinatie met de ondersteunende wal-organisatie, een inrichting der zeemacht, op een kazerne, op een vliegbasis, op een kantorencomplex of op een overeenkomstig complex een locatie medezeggenschapscommissie in indien sprake is van overleg over aangelegenheden als bedoeld in [artikel 29, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01), die betrekking hebben op personeel van verschillende diensteenheden dat op dezelfde locatie werkt of woont.
 
-2. De in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=7&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissies zijn niet bevoegd ten aanzien van door in dit artikel bedoelde locatie medezeggenschapscommissies te behandelen onderwerpen.
+2. De in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissies zijn niet bevoegd ten aanzien van door in dit artikel bedoelde locatie medezeggenschapscommissies te behandelen onderwerpen.
 
 3. Het defensieonderdeel waaruit het merendeel van de leden van de locatie medezeggenschapscommissie afkomstig is, wordt als hoofd defensieonderdeel aangemerkt.
 
-4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), met uitzondering van het eerste en het tiende lid, is van overeenkomstige toepassing.
+4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), met uitzondering van het eerste en het tiende lid, is van overeenkomstige toepassing.
 
 ##### Artikel 9. Werkgroepen
 
@@ -180,7 +180,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 3. De medezeggenschapscommissie kan in het instellingsbesluit van de werkgroep haar rechten en bevoegdheden ten aanzien van die aangelegenheden inclusief de bevoegdheid tot het plegen van overleg met het betrokken hoofd van de diensteenheid of de door deze bevoegd verklaarde functionaris, met uitzondering van het voeren van rechtsgedingen, geheel of gedeeltelijk aan de betrokken werkgroep overdragen.
 
-4. Indien de medezeggenschapscommissie aan een werkgroep de bevoegdheid tot het plegen van overleg met het hoofd van de diensteenheid of de door deze bevoegd verklaarde functionaris als bedoeld in het derde lid, heeft overgedragen, is ten aanzien van dat overleg [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing. In dit overleg kunnen geen aangelegenheden worden behandeld die in het overleg met de medezeggenschapscommissie worden behandeld.
+4. Indien de medezeggenschapscommissie aan een werkgroep de bevoegdheid tot het plegen van overleg met het hoofd van de diensteenheid of de door deze bevoegd verklaarde functionaris als bedoeld in het derde lid, heeft overgedragen, is ten aanzien van dat overleg [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing. In dit overleg kunnen geen aangelegenheden worden behandeld die in het overleg met de medezeggenschapscommissie worden behandeld.
 
 5. In een werkgroep kunnen naast leden van de medezeggenschapscommissie ook andere bij de diensteenheid werkzame werknemers zitting hebben. Het voorzitterschap berust bij een lid van de medezeggenschapscommissie.
 
@@ -202,7 +202,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 - d. met 2000 of meer werknemers ten minste 13 en ten hoogste 19 leden.
 
-3. In het reglement, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=17&z=2008-09-01&g=2008-09-01), wordt binnen de in het tweede lid genoemde grenzen het aantal leden van de medezeggenschapscommissie vastgesteld.
+3. In het reglement, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=17&z=2020-01-01&g=2020-01-01), wordt binnen de in het tweede lid genoemde grenzen het aantal leden van de medezeggenschapscommissie vastgesteld.
 
 4. Het hoofd van de diensteenheid en in voorkomend geval de door deze voor het voeren van overleg met de medezeggenschapscommissie aangewezen functionaris, zijn niet verkiesbaar tot lid van de medezeggenschapscommissie.
 
@@ -222,7 +222,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 5. Een werknemer kan gelijktijdig met het uitbrengen van zijn eigen stem voor ten hoogste twee andere kiesgerechtigden bij schriftelijke volmacht stemmen.
 
-6. Indien het aantal kandidaten kleiner is dan het minimum aantal zetels, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=10&z=2008-09-01&g=2008-09-01), worden nieuwe verkiezingen gehouden.
+6. Indien het aantal kandidaten kleiner is dan het minimum aantal zetels, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=10&z=2020-01-01&g=2020-01-01), worden nieuwe verkiezingen gehouden.
 
 ##### Artikel 12. Kandidatenlijst
 
@@ -262,7 +262,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 1. Een vacature die ontstaat tijdens de zittingsduur van de medezeggenschapscommissie, wordt vervuld door de eerstvolgende niet gekozen kandidaat van de lijst waarop het vertrekkende lid stond. Een vacature die ontstaat als gevolg van een uitzending, wordt tijdelijk voor de duur van de uitzending vervuld.
 
-2. Indien op de kandidatenlijst geen kandidaten meer aanwezig zijn, wordt voor alle opengevallen plaatsen met uitzondering van de vacatures die ontstaan als gevolg van een uitzending, tussentijdse verkiezingen gehouden overeenkomstig de daarvoor bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=11&z=2008-09-01&g=2008-09-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=12&z=2008-09-01&g=2008-09-01) gestelde regels met dien verstande dat deze verkiezingen niet worden gehouden indien binnen zes maanden algemene medezeggenschapsverkiezingen plaatsvinden.
+2. Indien op de kandidatenlijst geen kandidaten meer aanwezig zijn, wordt voor alle opengevallen plaatsen met uitzondering van de vacatures die ontstaan als gevolg van een uitzending, tussentijdse verkiezingen gehouden overeenkomstig de daarvoor bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=11&z=2020-01-01&g=2020-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=12&z=2020-01-01&g=2020-01-01) gestelde regels met dien verstande dat deze verkiezingen niet worden gehouden indien binnen zes maanden algemene medezeggenschapsverkiezingen plaatsvinden.
 
 3. De op grond van het eerste en tweede lid aangetreden medezeggenschapsleden treden aan voor de duur van de resterende periode waarvoor de medezeggenschapscommissie is ingesteld.
 
@@ -276,7 +276,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 1. De medezeggenschapscommissie maakt een reglement waarin de onderwerpen worden geregeld die bij dit besluit ter regeling aan de medezeggenschapscommissie zijn opgedragen of overgelaten. In het reglement worden in ieder geval de kandidaatstelling, de inrichting van de verkiezingen, de vaststelling van de uitslag daarvan en de werkwijze van de medezeggenschapscommissie geregeld.
 
-2. De medezeggenschapscommissie kan in haar reglement bepalen dat voor bepaalde groepen van in de diensteenheid werkzame personen dan wel voor bepaalde onderdelen van de diensteenheid afzonderlijke kandidatenlijsten worden ingediend, teneinde als grondslag te dienen voor de verkiezing door de betrokken personen of onderdelen van een tevens in het reglement te bepalen aantal leden van de medezeggenschapscommissie. Bij het hanteren van dit stelsel, gelden de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=12&z=2008-09-01&g=2008-09-01) van dit besluit ten aanzien van het indienen van kandidatenlijsten gestelde eisen voor iedere aangewezen groep of ieder aangewezen onderdeel afzonderlijk.
+2. De medezeggenschapscommissie kan in haar reglement bepalen dat voor bepaalde groepen van in de diensteenheid werkzame personen dan wel voor bepaalde onderdelen van de diensteenheid afzonderlijke kandidatenlijsten worden ingediend, teneinde als grondslag te dienen voor de verkiezing door de betrokken personen of onderdelen van een tevens in het reglement te bepalen aantal leden van de medezeggenschapscommissie. Bij het hanteren van dit stelsel, gelden de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=12&z=2020-01-01&g=2020-01-01) van dit besluit ten aanzien van het indienen van kandidatenlijsten gestelde eisen voor iedere aangewezen groep of ieder aangewezen onderdeel afzonderlijk.
 
 3. Het reglement of een wijziging daarvan wordt vastgesteld bij besluit van de medezeggenschapscommissie en bevat geen bepalingen die in strijd zijn met dit besluit of die een goede toepassing van dit besluit in de weg staan. Een besluit tot vaststelling behoeft de instemming van twee derde van het aantal leden van de medezeggenschapscommissie.
 
@@ -308,11 +308,11 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 3. Het hoofd van de diensteenheid en de medezeggenschapscommissie stellen het aantal dagen als bedoeld in het tweede lid vast op een zodanig aantal als de betrokken leden van de medezeggenschapscommissie en van de werkgroepen van die medezeggenschapscommies voor de vervulling van hun taak redelijkerwijze nodig hebben. Daarbij wordt in acht genomen dat het aantal dagen:
 
-- a. voor leden van een in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2008-09-01&g=2008-09-01) bedoelde werkgroep, die niet tevens lid zijn van een medezeggenschapscommissie, niet lager vastgesteld kan worden dan drie per jaar;
+- a. voor leden van een in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01) bedoelde werkgroep, die niet tevens lid zijn van een medezeggenschapscommissie, niet lager vastgesteld kan worden dan drie per jaar;
 
 - b. voor leden van een medezeggenschapscommissie, niet lager vastgesteld kan worden dan vijf per jaar;
 
-- c. voor leden van een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=3&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissie die tevens lid zijn van een in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=7&z=2008-09-01&g=2008-09-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=8&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissie dan wel lid zijn van een in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2008-09-01&g=2008-09-01) bedoelde werkgroep, niet lager vastgesteld kan worden dan acht per jaar.
+- c. voor leden van een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissie die tevens lid zijn van een in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=8&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissie dan wel lid zijn van een in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01) bedoelde werkgroep, niet lager vastgesteld kan worden dan acht per jaar.
 
 4. De door een lid van een medezeggenschapscommissie of een lid van een werkgroep gemaakte noodzakelijke reis- en verblijfskosten voor het deelnemen aan vergaderingen van de medezeggenschapscommissie of werkgroep, aan overlegvergaderingen en aan scholings- en vormingsactiviteiten worden vergoed overeenkomstig het [Besluit dienstreizen Defensie.](https://wetten.overheid.nl/jci1.3:c:BWBR0007956)
 
@@ -320,7 +320,7 @@ Onze Minister kan na overleg met de sectorcommissie Defensie bepalen dat een ond
 
 ##### Artikel 21. Geheimhoudingsplicht
 
-1. De leden van de medezeggenschapscommissie, de ambtelijk secretaris van die commissie, alsmede de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=18&z=2008-09-01&g=2008-09-01) geraadpleegde deskundigen zijn gehouden tot geheimhouding van alle vertrouwelijke informatie die zij in hun hoedanigheid vernemen, alsmede van alle aangelegenheden ten aanzien waarvan het hoofd van de diensteenheid, dan wel de medezeggenschapscommissie hun geheimhouding heeft opgelegd of waarvan zij, in verband met opgelegde geheimhouding, het vertrouwelijk karakter moeten begrijpen. Het voornemen om geheimhouding op te leggen wordt zoveel mogelijk vóór de behandeling van de betrokken aangelegenheid meegedeeld. Degene die de geheimhouding oplegt, deelt daarbij tevens mee, welke schriftelijk of mondeling verstrekte gegevens onder de geheimhouding vallen en hoe lang deze dient te duren, alsmede of er personen zijn ten aanzien van wie de geheimhouding niet in acht behoeft te worden genomen.
+1. De leden van de medezeggenschapscommissie, de ambtelijk secretaris van die commissie, alsmede de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=18&z=2020-01-01&g=2020-01-01) geraadpleegde deskundigen zijn gehouden tot geheimhouding van alle vertrouwelijke informatie die zij in hun hoedanigheid vernemen, alsmede van alle aangelegenheden ten aanzien waarvan het hoofd van de diensteenheid, dan wel de medezeggenschapscommissie hun geheimhouding heeft opgelegd of waarvan zij, in verband met opgelegde geheimhouding, het vertrouwelijk karakter moeten begrijpen. Het voornemen om geheimhouding op te leggen wordt zoveel mogelijk vóór de behandeling van de betrokken aangelegenheid meegedeeld. Degene die de geheimhouding oplegt, deelt daarbij tevens mee, welke schriftelijk of mondeling verstrekte gegevens onder de geheimhouding vallen en hoe lang deze dient te duren, alsmede of er personen zijn ten aanzien van wie de geheimhouding niet in acht behoeft te worden genomen.
 
 2. De in het eerste lid bedoelde verplichting geldt niet tegenover hen die ingevolge een rechterlijke opdracht zijn belast met een onderzoek naar de gang van zaken in de diensteenheid.
 
@@ -340,7 +340,7 @@ Onze Minister draagt er zorg voor dat werknemers die op een kandidatenlijst staa
 
 2. Met inachtneming van het bepaalde in het eerste lid komen de kosten van het uitnodigen van een deskundige door de medezeggenschapscommissie of een werkgroep van die commissie alsmede de kosten van het voeren van rechtsgedingen door de medezeggenschapscommissie slechts ten laste van het hoofd van de diensteenheid indien het hoofd van de diensteenheid van de te maken kosten vooraf in kennis is gesteld. De eerste volzin is niet van toepassing wanneer uitvoering is gegeven aan het derde lid.
 
-3. Het hoofd van de diensteenheid kan in overeenstemming met de medezeggenschapscommissie de kosten die een medezeggenschapscommissie en de werkgroepen van die commissies in enig jaar maakt, voor zover deze geen verband houden met het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2008-09-01&g=2008-09-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2008-09-01&g=2008-09-01), een vast budget vaststellen dat de medezeggenschapscommissie naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van het hoofd van de diensteenheid voor zover hij in het dragen daarvan toestemt.
+3. Het hoofd van de diensteenheid kan in overeenstemming met de medezeggenschapscommissie de kosten die een medezeggenschapscommissie en de werkgroepen van die commissies in enig jaar maakt, voor zover deze geen verband houden met het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2020-01-01&g=2020-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2020-01-01&g=2020-01-01), een vast budget vaststellen dat de medezeggenschapscommissie naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van het hoofd van de diensteenheid voor zover hij in het dragen daarvan toestemt.
 
 ### Hoofdstuk 4. Overleg
 
@@ -386,7 +386,7 @@ Onze Minister draagt er zorg voor dat werknemers die op een kandidatenlijst staa
 
 ##### Artikel 27. Initiatiefrecht
 
-1. De medezeggenschapscommissie kan het hoofd van de diensteenheid schriftelijk voorstellen doen ten aanzien van de onderwerpen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=25&z=2008-09-01&g=2008-09-01), voor zover het hoofd van de diensteenheid bevoegd is daarover maatregelen te treffen.
+1. De medezeggenschapscommissie kan het hoofd van de diensteenheid schriftelijk voorstellen doen ten aanzien van de onderwerpen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=25&z=2020-01-01&g=2020-01-01), voor zover het hoofd van de diensteenheid bevoegd is daarover maatregelen te treffen.
 
 2. Het hoofd van de diensteenheid beslist over een voorstel als bedoeld in het eerste lid nadat daarover ten minste éénmaal overleg is gepleegd met de medezeggenschapscommissie. Na het overleg deelt het hoofd van de diensteenheid zo spoedig mogelijk schriftelijk en gemotiveerd aan de commissie mee of en in hoeverre hij overeenkomstig het voorstel zal beslissen.
 
@@ -394,7 +394,7 @@ Onze Minister draagt er zorg voor dat werknemers die op een kandidatenlijst staa
 
 1. Het hoofd van de diensteenheid verstrekt, desgevraagd schriftelijk, tijdig alle inlichtingen en gegevens, waaronder de achtergronden, motieven en afwegingen van maatregelen die de diensteenheid raken, indien de medezeggenschapscommissie deze redelijkerwijs nodig heeft voor het vervullen van haar taak.
 
-2. Het hoofd van de diensteenheid verstrekt mede ten behoeve van het in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=25&z=2008-09-01&g=2008-09-01), bedoelde overleg ten minste tweemaal per jaar schriftelijk algemene gegevens over het functioneren van de diensteenheid in het verstreken tijdvak en het verwachte functioneren in het komende tijdvak. Het hoofd van de diensteenheid doet in dit kader mededeling over maatregelen die hij in voorbereiding heeft betreffende de aangelegenheden, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01). Daarbij worden afspraken gemaakt over het tijdstip waarop en op welke wijze de medezeggenschapscommissie in de besluitvorming wordt betrokken.
+2. Het hoofd van de diensteenheid verstrekt mede ten behoeve van het in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=25&z=2020-01-01&g=2020-01-01), bedoelde overleg ten minste tweemaal per jaar schriftelijk algemene gegevens over het functioneren van de diensteenheid in het verstreken tijdvak en het verwachte functioneren in het komende tijdvak. Het hoofd van de diensteenheid doet in dit kader mededeling over maatregelen die hij in voorbereiding heeft betreffende de aangelegenheden, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01). Daarbij worden afspraken gemaakt over het tijdstip waarop en op welke wijze de medezeggenschapscommissie in de besluitvorming wordt betrokken.
 
 3. Het hoofd van de diensteenheid verstrekt bij het begin van de zittingsperiode van de medezeggenschapscommissie schriftelijk algemene gegevens over de organisatie van de diensteenheid, over de leiding van de diensteenheid en over de wijze van functioneren van de diensteenheid aan de medezeggenschapscommissie.
 
@@ -428,15 +428,15 @@ Onze Minister draagt er zorg voor dat werknemers die op een kandidatenlijst staa
 
 ##### Artikel 30. Behandeling van het advies
 
-1. Als het hoofd van de diensteenheid bevoegd is de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01), genoemde maatregel te treffen, deelt hij de medezeggenschapscommissie binnen vier weken nadat de commissie het advies heeft uitgebracht schriftelijk en gemotiveerd mee of hij zich met het advies kan verenigen.
+1. Als het hoofd van de diensteenheid bevoegd is de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01), genoemde maatregel te treffen, deelt hij de medezeggenschapscommissie binnen vier weken nadat de commissie het advies heeft uitgebracht schriftelijk en gemotiveerd mee of hij zich met het advies kan verenigen.
 
-2. Als het hoofd van de diensteenheid niet bevoegd is de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01), genoemde maatregel te treffen, zendt hij het advies van de medezeggenschapscommissie zo spoedig mogelijk aan het bevoegde gezag. Binnen zes weken nadat het advies door de commissie is uitgebracht deelt het hoofd van de diensteenheid schriftelijk en gemotiveerd mee of het bevoegde gezag zich met het advies kan verenigen.
+2. Als het hoofd van de diensteenheid niet bevoegd is de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01), genoemde maatregel te treffen, zendt hij het advies van de medezeggenschapscommissie zo spoedig mogelijk aan het bevoegde gezag. Binnen zes weken nadat het advies door de commissie is uitgebracht deelt het hoofd van de diensteenheid schriftelijk en gemotiveerd mee of het bevoegde gezag zich met het advies kan verenigen.
 
 3. Binnen vier weken nadat het hoofd van de diensteenheid heeft meegedeeld dat hij of het bevoegd gezag zich niet met het advies van de medezeggenschapscommissie kan verenigen, vindt tussen het hoofd van de diensteenheid en de medezeggenschapscommissie hernieuwd overleg plaats.
 
 ##### Artikel 31. Overeenstemmingsvereiste
 
-Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01) wordt niet uitgevoerd als uit het advies van de medezeggenschapscommissie en uit de mededeling van het hoofd van de diensteenheid, bedoeld in artikel 30, eerste of tweede lid, dan wel na het hernieuwd overleg, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=30&z=2008-09-01&g=2008-09-01), blijkt dat over de voorgenomen maatregel geen overeenstemming is bereikt.
+Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01) wordt niet uitgevoerd als uit het advies van de medezeggenschapscommissie en uit de mededeling van het hoofd van de diensteenheid, bedoeld in artikel 30, eerste of tweede lid, dan wel na het hernieuwd overleg, bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=30&z=2020-01-01&g=2020-01-01), blijkt dat over de voorgenomen maatregel geen overeenstemming is bereikt.
 
 ##### Artikel 32. Overige bevoegdheden
 
@@ -462,9 +462,9 @@ Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten
 
 1. Het college voor geschillen neemt kennis van de volgende geschillen:
 
-- a. over een aangelegenheid als bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2008-09-01&g=2008-09-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=13&z=2008-09-01&g=2008-09-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=16&z=2008-09-01&g=2008-09-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2008-09-01&g=2008-09-01), [20, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2008-09-01&g=2008-09-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=21&z=2008-09-01&g=2008-09-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=23&z=2008-09-01&g=2008-09-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=26&z=2008-09-01&g=2008-09-01), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=27&z=2008-09-01&g=2008-09-01), of [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=28&z=2008-09-01&g=2008-09-01) van dit besluit;
+- a. over een aangelegenheid als bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=13&z=2020-01-01&g=2020-01-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=19&z=2020-01-01&g=2020-01-01), [20, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=20&z=2020-01-01&g=2020-01-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=21&z=2020-01-01&g=2020-01-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=3&artikel=23&z=2020-01-01&g=2020-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=4&artikel=26&z=2020-01-01&g=2020-01-01), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=27&z=2020-01-01&g=2020-01-01), of [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=28&z=2020-01-01&g=2020-01-01) van dit besluit;
 
-- b. over een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2008-09-01&g=2008-09-01) indien naar aanleiding van het hernieuwde overleg als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=30&z=2008-09-01&g=2008-09-01), niet alsnog overeenstemming wordt bereikt;
+- b. over een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=29&z=2020-01-01&g=2020-01-01) indien naar aanleiding van het hernieuwde overleg als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=5&artikel=30&z=2020-01-01&g=2020-01-01), niet alsnog overeenstemming wordt bereikt;
 
 - c. over een verschil van mening met betrekking tot de interpretatie van dit besluit of van het reglement;
 
@@ -476,15 +476,15 @@ Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten
 
 ##### Artikel 35. Beslissing
 
-1. Het hoofd defensieonderdeel neemt geen beslissing inzake een geschil als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2008-09-01&g=2008-09-01) voordat het advies van het college voor geschillen is ontvangen.
+1. Het hoofd defensieonderdeel neemt geen beslissing inzake een geschil als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2020-01-01&g=2020-01-01) voordat het advies van het college voor geschillen is ontvangen.
 
 2. Het hoofd defensieonderdeel neemt binnen vier weken nadat het advies van het college voor geschillen is ontvangen een beslissing.
 
-3. Indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissie partij is in het geschil wordt in het eerste en het tweede lid voor «het hoofd defensieonderdeel» telkenmale gelezen: de secretaris-generaal.
+3. Indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissie partij is in het geschil wordt in het eerste en het tweede lid voor «het hoofd defensieonderdeel» telkenmale gelezen: de secretaris-generaal.
 
 ##### Artikel 36. Spoedprocedure
 
-1. Het hoofd van de diensteenheid en de medezeggenschapscommissie kunnen een geschil als bedoeld in [artikel 34, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2008-09-01&g=2008-09-01) van dit besluit in een spoedprocedure brengen indien sprake is van een spoedeisend belang. Iedere belanghebbende kan een geschil als bedoeld in [artikel 34, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2008-09-01&g=2008-09-01), van dit besluit in een spoedprocedure brengen indien sprake is van een spoedeisend belang.
+1. Het hoofd van de diensteenheid en de medezeggenschapscommissie kunnen een geschil als bedoeld in [artikel 34, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2020-01-01&g=2020-01-01) van dit besluit in een spoedprocedure brengen indien sprake is van een spoedeisend belang. Iedere belanghebbende kan een geschil als bedoeld in [artikel 34, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=34&z=2020-01-01&g=2020-01-01), van dit besluit in een spoedprocedure brengen indien sprake is van een spoedeisend belang.
 
 2. Het geschil, bedoeld in het eerste lid, wordt voorgelegd aan de voorzitter van het college voor geschillen. De voorzitter of een door de voorzitter aan te wijzen lid van het college brengt binnen twee weken nadat om advies is gevraagd, advies uit.
 
@@ -492,7 +492,7 @@ Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten
 
 4. Indien de medezeggenschapscommissie naar aanleiding van de voorlopige beslissing behoefte heeft aan verdere behandeling van het geschil dan informeert zij daarover binnen twee weken het hoofd defensieonderdeel. Het hoofd defensieonderdeel legt het geschil en alle daarop betrekking hebbende stukken voor aan het college voor geschillen met het verzoek hem van advies te dienen.
 
-5. Indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissie partij is in het geschil wordt in het derde en het vierde lid voor «het hoofd defensieonderdeel» telkenmale gelezen: de secretaris-generaal.
+5. Indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissie partij is in het geschil wordt in het derde en het vierde lid voor «het hoofd defensieonderdeel» telkenmale gelezen: de secretaris-generaal.
 
 ##### Artikel 37. Advies van het college voor geschillen
 
@@ -500,7 +500,7 @@ Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten
 
 2. Het college voor geschillen tracht een minnelijke schikking tussen de bij het geschil betrokken partijen tot stand te brengen.
 
-3. Indien geen minnelijke schikking wordt bereikt, adviseert het college voor geschillen het hoofd defensieonderdeel of de secretaris-generaal indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2008-09-01&g=2008-09-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2008-09-01&g=2008-09-01) bedoelde medezeggenschapscommissie partij is in het geschil, over de vraag of de betrokken partijen hebben gehandeld in strijd met dit besluit of met het reglement en of het voorgenomen besluit in redelijkheid is genomen.
+3. Indien geen minnelijke schikking wordt bereikt, adviseert het college voor geschillen het hoofd defensieonderdeel of de secretaris-generaal indien een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) bedoelde medezeggenschapscommissie partij is in het geschil, over de vraag of de betrokken partijen hebben gehandeld in strijd met dit besluit of met het reglement en of het voorgenomen besluit in redelijkheid is genomen.
 
 4. Het college voor geschillen kan alle inlichtingen en gegevens inwinnen die het voor het opstellen van het advies nodig acht.
 
@@ -521,5 +521,11 @@ Dit besluit treedt in werking met ingang van 1 september 2008.
 ##### Artikel 40. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit medezeggenschap Defensie 2008.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 37a
+
+Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
