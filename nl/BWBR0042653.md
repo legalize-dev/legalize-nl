@@ -4,7 +4,7 @@ identifier: "BWBR0042653"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042653"
 soort: "AMvB"
@@ -46,11 +46,13 @@ Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042653&artikel=I&z=2020-01-01&g=2020-01-01) opgenomen [artikel 3.3.1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.5), en het in onderdeel C opgenomen [artikel 3.3.1.6, vijfde en zesde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.6) en het in [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042653&artikel=II&z=2020-01-01&g=2020-01-01) opgenomen [artikel 3.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.5), en het in onderdeel D opgenomen [artikel 3.6, vierde en vijfde lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.6) zijn van toepassing op besluiten met betrekking tot de vaststellingen en herzieningen van bijdragen die worden genomen na 31 december 2019.
+
+2. In geval van een vaststelling of herziening die ziet op de periode voor 1 januari 2020 aangaande een bijdrage als bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.1), wordt voor «maand» of «maanden» respectievelijk gelezen «bijdrageperiode als bedoeld in [artikel 3.8, derde lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.8), zoals dat luidde voor 1 januari 2020» of «bijdrageperioden als bedoeld in artikel 3.8, derde lid, van het Uitvoeringsbesluit Wmo 2015, zoals dat luidde voor 1 januari 2020».
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0042653&artikel=I&z=2020-01-01&g=2020-01-01), en de in [artikel II, onderdeel A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042653&artikel=II&z=2020-01-01&g=2020-01-01), opgenomen artikelonderdelen [tweede lid, onderdeel 2°, en derde lid, onderdeel 2°, van artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.1), en artikel II, onderdeel I, werken terug tot en met 1 januari 2019.
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 mei 2019, kenmerk 1531643-190719-WJZ;
 
