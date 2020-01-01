@@ -4,7 +4,7 @@ identifier: "BWBR0012955"
 country: "nl"
 rank: "kb"
 publication_date: "2025-11-19"
-last_updated: "2011-03-23"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012955"
 soort: "KB"
@@ -70,11 +70,11 @@ Vervallen
 
 ##### Artikel 7
 
-Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=3&z=2011-03-23&g=2011-03-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=4&z=2011-03-23&g=2011-03-23) naar evenredigheid vastgesteld.
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=4&z=2020-01-01&g=2020-01-01) naar evenredigheid vastgesteld.
 
 ##### Artikel 8
 
-De voorzitter en de leden hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+De voorzitter en de leden hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 9
 
