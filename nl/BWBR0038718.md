@@ -4,7 +4,7 @@ identifier: "BWBR0038718"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038718"
 soort: "wet"
@@ -55,7 +55,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - d. **doorvoer:** het begeleid vervoer over Nederlands grondgebied van een persoon afkomstig van een vreemde staat en met als bestemming de Speciale Kamers, dan wel afkomstig van de Speciale Kamers en met als bestemming een vreemde staat;
 
-- e. **overlevering:** de terbeschikkingstelling van een persoon door Nederland aan de Speciale Kamers op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2017-01-01&g=2017-01-01).
+- e. **overlevering:** de terbeschikkingstelling van een persoon door Nederland aan de Speciale Kamers op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2020-01-01&g=2020-01-01).
 
 2. In deze wet wordt mede verstaan onder:
 
@@ -73,11 +73,11 @@ De Nederlandse wet is niet van toepassing op vrijheidsontneming, ondergaan op la
 
 ##### Artikel 3
 
-Op verzoek van de Speciale Kamers worden personen die zijn ontsnapt uit de vrijheidsontneming binnen in Nederland aan de Speciale Kamers ter beschikking gestelde ruimten of tijdens transport, overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=4&z=2017-01-01&g=2017-01-01) aan de Speciale Kamers overgeleverd.
+Op verzoek van de Speciale Kamers worden personen die zijn ontsnapt uit de vrijheidsontneming binnen in Nederland aan de Speciale Kamers ter beschikking gestelde ruimten of tijdens transport, overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=4&z=2020-01-01&g=2020-01-01) aan de Speciale Kamers overgeleverd.
 
 ##### Artikel 4
 
-1. Op verzoek van de Speciale Kamers kunnen de personen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2017-01-01&g=2017-01-01), die in Nederland worden aangetroffen, voorlopig worden aangehouden.
+1. Op verzoek van de Speciale Kamers kunnen de personen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038718&artikel=3&z=2020-01-01&g=2020-01-01), die in Nederland worden aangetroffen, voorlopig worden aangehouden.
 
 2. Iedere officier van justitie en hulpofficier van justitie is bevoegd de voorlopige aanhouding te bevelen.
 
@@ -93,7 +93,7 @@ Op verzoek van de Speciale Kamers worden personen die zijn ontsnapt uit de vrijh
 
 4. In andere dan de in het derde lid voorziene gevallen verklaart de rechtbank bij haar uitspraak de overlevering toelaatbaar. De uitspraak is dadelijk uitvoerbaar.
 
-5. De [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29), [30, eerste lid, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36), [41 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=41) – met uitzondering van de verwijzing in artikel 47, derde lid, naar [artikel 552d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – en [52 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=52) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 41, vijfde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) wordt in plaats van «officier van justitie bij het arrondissementsparket te Amsterdam» gelezen: de officier van justitie bij het arrondissementsparket Den Haag.
+5. De [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29), [29f](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29f), [30, eerste lid, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33), [41 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=41) – met uitzondering van de verwijzing in artikel 47, derde lid, naar [artikel 552d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – en [52 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=52) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 41, vijfde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) wordt in plaats van «officier van justitie bij het arrondissementsparket te Amsterdam» gelezen: de officier van justitie bij het arrondissementsparket Den Haag.
 
 ##### Artikel 6
 
