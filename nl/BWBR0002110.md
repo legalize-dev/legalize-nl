@@ -4,7 +4,7 @@ identifier: "BWBR0002110"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "1994-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002110"
 soort: "AMvB"
@@ -90,7 +90,7 @@ Eén lid en één plaatsvervangend lid worden niet benoemd dan nadat elk der bes
 
 ##### Artikel 7
 
-1. Onze Minister benoemt de secretaris na overleg met de commissie en kan desnodig verder personeel aan de commissie toevoegen.
+1. Onze Minister sluit namens de Staat een arbeidsovereenkomst met de secretaris na overleg met de commissie en kan desnodig verder personeel aan de commissie toevoegen.
 
 2. Bij ontstentenis of wettige reden van verhindering van de secretaris kan de voorziter een waarnemend secretaris aanwijzen.
 
@@ -106,7 +106,7 @@ Vervallen
 
 1. Alvorens hun functie te aanvaarden leggen de voorzitter, de tweede voorzitter, de leden, de plaatsvervangende leden en de secretaris de volgende eed (verklaring en belofte) af:
 
-"Ik zweer (verklaar), dat ik middellijk noch onmiddellijk onder welke naam of voorwendsel ook tot het verkrijgen van mijn aanstelling aan iemand, wie hij ook zij, iets heb gegeven of beloofd noch zal geven of beloven.
+"Ik zweer (verklaar), dat ik middellijk noch onmiddellijk onder welke naam of voorwendsel ook tot het verkrijgen van mijn aanstelling/dienstverband aan iemand, wie hij ook zij, iets heb gegeven of beloofd noch zal geven of beloven.
 
 Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontvangen van enig persoon, welke ik weet of vermoed enige zaak te hebben of te zullen krijgen, in welke mijn ambtsverrichtingen zouden kunnen te pas komen; dat ik voorts mijn functie met eerlijkheid, nauwgezetheid en onzijdigheid zonder aanzien van persoon zal waarnemen; dat ik geheim zal houden al hetgeen naar de aard der zaken geheim behoort te blijven."
 
@@ -114,7 +114,7 @@ Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontv
 
 ##### Artikel 11
 
-1. De voorzitter, de tweede voorzitter, de leden, de plaatsvervangende leden en de secretaris kunnen worden ontslagen:
+1. De voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden kunnen worden ontslagen:
 
 - a. wanneer zij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf tot gevangenisstraf of hechtenis zijn veroordeeld;
 
@@ -186,7 +186,7 @@ De beslissing wordt ondertekend door al degenen, die in de eindbeslissing stemge
 
 ##### Artikel 17
 
-Tegen de beslissingen, genomen door de commissie, kan een belanghebbende als bedoeld in [artikel 12, eerste lid, onder **c, d, e** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=1994-01-01&g=1994-01-01), in beroep komen bij Onze Minister.
+Tegen de beslissingen, genomen door de commissie, kan een belanghebbende als bedoeld in [artikel 12, eerste lid, onder **c, d, e** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01), in beroep komen bij Onze Minister.
 
 ##### Artikel 18
 
@@ -194,27 +194,23 @@ Vervallen
 
 ##### Artikel 19
 
-Alvorens een beschikking te nemen wint Onze Minister het gevoelen in van een advies-commissie van drie leden, die door Ons op voordracht van Onze Minister worden benoemd. De advies-commissie, welke de naam draagt van "Advies-commissie in Garantiewetzaken", wijst een van haar leden als voorzitter aan. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=II&artikel=4&z=1994-01-01&g=1994-01-01) is op de leden van de advies-commissie van overeenkomstige toepassing. Zij kunnen niet tevens voorzitter, tweede voorzitter, lid of plaatsvervangend lid zijn van de commissie.
+Alvorens een beschikking te nemen wint Onze Minister het gevoelen in van een advies-commissie van drie leden, die door Ons op voordracht van Onze Minister worden benoemd. De advies-commissie, welke de naam draagt van "Advies-commissie in Garantiewetzaken", wijst een van haar leden als voorzitter aan. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01) is op de leden van de advies-commissie van overeenkomstige toepassing. Zij kunnen niet tevens voorzitter, tweede voorzitter, lid of plaatsvervangend lid zijn van de commissie.
 
 ### Hoofdstuk VI. Van vergoedingen
 
 ##### Artikel 20
 
-1. Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden van de commissie worden beloningen toegekend op de voet van Ons besluit van 29 december 1921 (**Stb.** 1452), laatstelijk gewijzigd bij Ons besluit van 15 februari 1935 (**Stb.** 53), betreffende een regeling ten aanzien van de toekenning van vacatiegeld, volgens door Ons, dan wel door Onze Minister, met medewerking van Onze Minister van Financiën nader vast te stellen regelen.
-
-2. Vervallen.
-
-3. De positie van de secretaris en van de waarnemend secretaris wordt geregeld door Onze Minister.
+Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden van de commissie worden beloningen toegekend op de voet van Ons besluit van 29 december 1921 (**Stb.** 1452), laatstelijk gewijzigd bij Ons besluit van 15 februari 1935 (**Stb.** 53), betreffende een regeling ten aanzien van de toekenning van vacatiegeld, volgens door Ons, dan wel door Onze Minister, met medewerking van Onze Minister van Financiën nader vast te stellen regelen.
 
 ##### Artikel 21
 
-1. Personen, die anders dan op eigen verzoek zijn opgeroepen om voor de commissie of voor de adviescommissie, bedoeld in [artikel 19, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=V&artikel=19&z=1994-01-01&g=1994-01-01) te verschijnen, dan wel door haar met een opdracht zijn belast, ontvangen uit 's Rijks kas vergoeding voor reis- en verblijfkosten:
+1. Personen, die anders dan op eigen verzoek zijn opgeroepen om voor de commissie of voor de adviescommissie, bedoeld in [artikel 19, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=V&artikel=19&z=2020-01-01&g=2020-01-01) te verschijnen, dan wel door haar met een opdracht zijn belast, ontvangen uit 's Rijks kas vergoeding voor reis- en verblijfkosten:
 
 - a. vervallen;
 
 - b. in het Koninkrijk op de voet van het bepaalde in [artikel 31, lid 1, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=31) 1929.
 
-2. In het geval, bedoeld in [artikel 12, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=1994-01-01&g=1994-01-01), wordt vergoeding voor reis- en verblijfkosten slechts toegekend, indien de commissie tot die toekenning besluit.
+2. In het geval, bedoeld in [artikel 12, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01), wordt vergoeding voor reis- en verblijfkosten slechts toegekend, indien de commissie tot die toekenning besluit.
 
 ### Hoofdstuk VII. Slotbepalingen
 
