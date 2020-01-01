@@ -4,7 +4,7 @@ identifier: "BWBR0028614"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028614"
 soort: "ministeriele-regeling-BES"
@@ -41,7 +41,7 @@ Deze regeling berust op de [artikelen 7, eerste en tweede lid](https://wetten.ov
 
 ##### Artikel 2
 
-De inleiding, de hoofdstukken 1 tot en met 4 en de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=1&z=2010-10-10&g=2010-10-10) vormen tezamen het nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES met toelichting en vormen de bijlage behorende bij deze regeling.
+De inleiding, de hoofdstukken 1 tot en met 4 en de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=1&z=2020-01-01&g=2020-01-01) vormen tezamen het nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES met toelichting en vormen de bijlage behorende bij deze regeling.
 
 ##### Artikel 3
 
@@ -307,7 +307,7 @@ Een IMSI-nummer bestaat uit ten hoogste 15 cijfers uit het decimale stelsel waar
 
 Besloten is niet meer dan één combinatie van mobiele landen code (MCC) en mobiele netwerkcode (MNC), te verstrekken per netwerk.
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=2&z=2010-10-10&g=2010-10-10) is de IMSI-nummeropbouw geschetst. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=3&z=2010-10-10&g=2010-10-10) bevat een overzicht van de MNC’s.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=2&z=2020-01-01&g=2020-01-01) is de IMSI-nummeropbouw geschetst. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=3&z=2020-01-01&g=2020-01-01) bevat een overzicht van de MNC’s.
 
 ### 4.3. IMSI-nummers geïntegreerde netwerken
 
@@ -409,7 +409,7 @@ Ieder land heeft van de ITU minimaal 1 Signalling Area/Network Code (SANC)
 
 toegewezen gekregen.
 
-In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=4&z=2010-10-10&g=2010-10-10) staat het overzicht van de ISPC’s.
+In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=4&z=2020-01-01&g=2020-01-01) staat het overzicht van de ISPC’s.
 
 ### Criteria voor toewijzing ISPC:
 
@@ -441,7 +441,7 @@ Het onderhavige nummerplan is in lijn met de ITU-T aanbeveling Q.708 Specificati
 
 2. een concessiehouder zal op zijn minst 1 signaleringsrelatie met een andere nationale concessiehouder tot stand brengen binnen 6 maanden na toekenning van een NSPC.
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=5&z=2010-10-10&g=2010-10-10) staat het overzicht van de NSPS’s.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=5&z=2020-01-01&g=2020-01-01) staat het overzicht van de NSPS’s.
 
 ## Bijlage 1. Schema nummeropbouw
 
