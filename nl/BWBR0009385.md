@@ -4,7 +4,7 @@ identifier: "BWBR0009385"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2011-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009385"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. programma: een samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling op het gebied van gezondheid, preventie en zorg, gericht op praktijkvraagstukken;
 
-- c. organisatie: de organisatie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01).
+- c. organisatie: de organisatie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01).
 
 #### § 2. Instelling en taken van de organisatie
 
@@ -85,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het bestuur wordt samengesteld uit deskundigen op het werkterrein van de organisatie. Bij de samenstelling van het bestuur wordt gestreefd naar evenredige deelneming van vrouwen en personen van etnische en culturele minderheidsgroepen aan het bestuur.
 
-4. De voorzitter en de secretaris, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=6&z=2011-07-01&g=2011-07-01), voeren de besluiten van het bestuur uit en vertegenwoordigen de organisatie gezamenlijk in en buiten rechte.
+4. De voorzitter en de secretaris, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01), voeren de besluiten van het bestuur uit en vertegenwoordigen de organisatie gezamenlijk in en buiten rechte.
 
 5. De benoeming geschiedt voor een periode van vier jaren. De leden zijn eenmaal aansluitend herbenoembaar.
 
@@ -99,9 +99,7 @@ Vervallen
 
 1. Het bestuur van de organisatie laat zich ten behoeve van de voorbereiding en uitvoering van zijn werkzaamheden ondersteunen door een bureau met aan het hoofd een directeur.
 
-2. Het bestuur benoemt, schorst en ontslaat de directeur.
-
-3. De directeur is secretaris van het bestuur van de organisatie.
+2. De directeur is secretaris van het bestuur van de organisatie.
 
 ##### Artikel 7
 
@@ -139,7 +137,7 @@ Vervallen
 
 ##### Artikel 10
 
-Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=2011-07-01&g=2011-07-01), bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), aan Onze Minister toegezonden.
+Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=2020-01-01&g=2020-01-01), bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), aan Onze Minister toegezonden.
 
 ##### Artikel 11
 
@@ -201,7 +199,7 @@ Vervallen
 
 ##### Artikel 20
 
-In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=4&z=2011-07-01&g=2011-07-01), worden voor de eerste maal de helft van het aantal leden van het bestuur benoemd voor twee jaar en de overige leden, waaronder de voorzitter, voor vier jaar.
+In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01), worden voor de eerste maal de helft van het aantal leden van het bestuur benoemd voor twee jaar en de overige leden, waaronder de voorzitter, voor vier jaar.
 
 ##### Artikel 21
 
