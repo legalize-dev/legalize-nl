@@ -4,7 +4,7 @@ identifier: "BWBR0006518"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2018-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006518"
 soort: "AMvB"
@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Veiligheid en Justitie;
+- a. Onze Minister: Onze Minister van Justitie en Veiligheid;
 
 - b. vervallen;
 
 - c. vervallen;
 
-- d. vervallen;
+- d. politiechef: de politiechef, bedoeld in [artikel 1, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
 
-- e. vervallen;
+- e. korpsonderdeel: een onderdeel van het politiekorps als bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
 
 - f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
@@ -70,15 +70,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1);
 
-- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2018-07-01&g=2018-07-01);
+- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- k. vervallen;
+- k. overleg CGOP: het overleg van Onze Minister met de Commissie;
 
-- l. vervallen;
+- l. overleg GOKB: het overleg van de korpschef met de Commissie;
 
-- m. vervallen;
+- m. overleg GOPB: het overleg van de politiechef of de directeur van het betreffende korpsonderdeel met de Commissie;
 
-- n. vervallen;
+- n. COR: de centrale ondernemingsraad politie;
 
 - o. vervallen;
 
@@ -116,7 +116,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie.
+1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, wordt niet beslist dan nadat hierover met de Commissie overleg is gepleegd in het overleg CGOP of het overleg GOKB.
 
 2. Het eerste lid blijft buiten toepassing met betrekking tot regelingen, bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1).
 
@@ -124,33 +124,37 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3a
 
-1. Er is een sectorale commissie Politie.
+1. In het overleg CGOP worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2020-01-01&g=2020-01-01), die moeten worden of zijn vastgelegd in algemeen verbindende voorschriften, besproken.
 
-2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2018-07-01&g=2018-07-01), bedoelde Commissie en vier leden namens Onze Minister.
+2. In het overleg GOKB worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2020-01-01&g=2020-01-01), die bij besluit van de korpschef worden vastgelegd in beleidsregels, besproken.
 
-3. De sectorale commissie heeft tot taak:
+3. In het overleg GOPB worden aangelegenheden in het betreffende korpsonderdeel of de Rijksrecherche besproken, aangaande:
 
-- a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de premie voor het PartnerPlusPensioen Politie;
+- a. de toepassing van arbeidsvoorwaarden en rechtspositie zoals vastgelegd in algemeen verbindende voorschriften en beleidsregels;
 
-- b. te besluiten over toelating van werkgevers die een verzoek tot deelname aan het PartnerPlusPensioen Politie doen.
+- b. de uitvoering van afspraken, opgenomen in het Arbeidsvoorwaardenakkoord sector Politie 2018–2020;
 
-4. Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.
+- c. de uitvoering van afspraken met de Commissie in het kader van verbetering van de politieorganisatie voor zover dit past binnen de eigen rol en verantwoordelijkheid van de politiechef of directeur van het korpsonderdeel.
+
+4. Indien eenzelfde aangelegenheid zich in meerdere korpsonderdelen voordoet, wordt de kwestie in het overleg GOKB geagendeerd.
 
 ##### Artikel 4
 
-1. Het overleg staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan een door Onze Minister aan te wijzen ambtenaar.
+1. Het overleg CGOP staat onder voorzitterschap van Onze Minister. Onze Minister is bevoegd het voorzitterschap op te dragen aan een door hem aan te wijzen ambtenaar.
 
-2. Indien de Commissie in meerderheid van oordeel is dat over een bepaalde aangelegenheid overleg gevoerd dient te worden met Onze Minister, wordt voor de behandeling van die aangelegenheid een nieuwe vergadering vastgesteld, onder leiding van Onze Minister.
+2. Indien de Commissie in meerderheid of de voorzitter van het overleg GOKB in overleg met de voorzitter van het overleg CGOP van oordeel is dat over een bepaalde aangelegenheid overleg gevoerd dient te worden met Onze Minister, wordt die aangelegenheid zo mogelijk in het eerstvolgende overleg CGOP geagendeerd.
 
-3. De voorzitter wordt bij het overleg terzijde gestaan door functionarissen die daartoe door Onze Minister worden aangewezen.
+3. De voorzitter wordt bij het overleg CGOP terzijde gestaan door functionarissen die daartoe door Onze Minister worden aangewezen.
 
-4. Onze Minister nodigt een vertegenwoordiger van het bevoegd gezag uit of kan een vertegenwoordiger van de directeur van de Politieacademie uitnodigen tot het bijwonen van het overleg als waarnemer.
+4. Onze Minister wordt bij het overleg CGOP terzijde gestaan door de korpschef of diens vertegenwoordiger.
 
-5. Het secretariaat van het overleg wordt gevoerd door een door Onze Minister benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie gehoord.
+5. Onze Minister kan de directeur van de Politieacademie of zijn plaatsvervanger uitnodigen tot het als waarnemer bijwonen van het overleg CGOP.
 
-6. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2018-07-01&g=2018-07-01) gerechtigd zijn, aan het overleg worden deelgenomen.
+6. Het secretariaat van het overleg CGOP wordt gevoerd door een door Onze Minister benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie gehoord.
 
-7. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
+7. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01) gerechtigd zijn, aan het overleg worden deelgenomen.
+
+8. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
 ##### Artikel 5
 
@@ -158,17 +162,19 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen a
 
 ##### Artikel 6
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2018-07-01&g=2018-07-01), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke tot de Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
 ##### Artikel 7
 
-1. Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen.
+1. Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen, waarbij het overleg GOKB in beginsel op dezelfde dag en in dezelfde plaats gevoerd wordt als het overleg CGOP.
 
-2. De vergaderingen vinden in de regel te 's-Gravenhage plaats.
+2. Het overleg CGOP en het overleg GOKB vinden in de regel te 's-Gravenhage plaats.
 
 3. Indien de vertegenwoordigers van ten minste twee tot het overleg toegelaten verenigingen van ambtenaren de voorzitter, onder vermelding van hetgeen zij behandeld wensen te zien, verzoeken daartoe een vergadering uit te schrijven, vindt deze binnen 14 dagen plaats.
+
+4. Het overleg GOPB vindt eens per halfjaar plaats, tenzij partijen concluderen dat er geen reden is voor overleg.
 
 ##### Artikel 8
 
@@ -176,15 +182,17 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 ##### Artikel 9
 
-1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door Onze Minister daartoe aangewezen functionarissen.
+1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door Onze Minister of de korpschef daartoe aangewezen functionarissen.
 
-2. [Artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2018-07-01&g=2018-07-01), is van overeenkomstige toepassing.
+2. Een vertegenwoordiger van de COR kan als toehoorder bij een werkgroep worden uitgenodigd.
+
+3. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
-1. Het standpunt van de Commissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt één stem uit. Indien de stemmen binnen de Commissie staken beslist de voorzitter van het overleg met de Commissie of het voorstel ten uitvoer wordt gebracht.
+1. Het standpunt van de Commissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt één stem uit. Indien de stemmen binnen de Commissie staken beslist de voorzitter van het overleg CGOP, de voorzitter van het overleg GOKB of de voorzitter van het overleg GOPB of het voorstel ten uitvoer wordt gebracht.
 
-2. Het standpunt van de Commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan Onze Minister meegedeeld. De Commissie geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.
+2. Het standpunt van de Commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan de voorzitter van het desbetreffende overleg meegedeeld. De Commissie geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.
 
 3. Indien in de Commissie een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in de in het tweede lid bedoelde geschriften melding gemaakt.
 
@@ -204,7 +212,7 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 ##### Artikel 12
 
-Vervallen
+De korpschef draagt er zorg voor dat vertegenwoordigers van de verenigingen van ambtenaren met een aanstelling bij de politie die deel uitmaken van de Commissie niet uit hoofde van hun deelname worden benadeeld in hun positie bij de politie.
 
 ##### Artikel 13
 
@@ -270,11 +278,11 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - a. deelnemers aan het overleg: de voorzitter en de tot de Commissie toegelaten verenigingen van ambtenaren;
 
-- b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 110**g** van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g).
+- b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 24
 
-Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2018-07-01&g=2018-07-01).
+Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2020-01-01&g=2020-01-01), voor zover zij voortvloeien uit het overleg CGOP.
 
 ##### Artikel 25
 
@@ -282,7 +290,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 26
 
-1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2018-07-01&g=2018-07-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
+1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2020-01-01&g=2020-01-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter en de Commissie wordt besloten het overleg voort te zetten dan wel te beëindigen wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg nadat het advies is ingewonnen van de Advies- en Arbitragecommissie, dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie.
 
@@ -292,7 +300,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 27
 
-1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2018-07-01&g=2018-07-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2018-07-01&g=2018-07-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
+1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2020-01-01&g=2020-01-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2020-01-01&g=2020-01-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing ten aanzien van het onderwerpen van het geschil aan een arbitrale uitspraak. Het verzoek daartoe wordt ondertekend door alle deelnemers aan het overleg en dient ten minste te bevatten:
 
@@ -302,29 +310,47 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 28
 
-1. Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110h, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110h), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2018-07-01&g=2018-07-01), wordt uitgebreid met twee bijzondere leden.
+1. Er is een Advies- en Arbitragecommissie politieambtenaren, die tot taak heeft te adviseren dan wel een bindende uitspraak te doen in de geschillen die haar ingevolge de [artikelen 25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2020-01-01&g=2020-01-01) worden voorgelegd.
 
-2. De bijzondere leden, bedoeld in het eerste lid, worden door Onze Minister benoemd voor een periode van ten hoogste vier jaren. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.
+2. De Advies- en Arbitragecommissie politieambtenaren is gevestigd te ’s-Gravenhage. Zij bestaat uit vijf leden, onder wie de voorzitter en vijf plaatsvervangende leden. Zij worden bij koninklijk besluit benoemd voor een tijdvak van ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden. De voorzitter en diens plaatsvervanger worden op gezamenlijke voordracht van Onze Minister en tot het overleg toegelaten verenigingen van ambtenaren. Van de andere vier leden en hun plaatsvervangers worden benoemd:
 
-3. Van de bijzondere leden, bedoeld in het eerste lid, wordt een lid benoemd op voordracht van de voorzitter van het overleg met de Commissie en een lid op voordracht van de tot dat overleg toegelaten verenigingen van ambtenaren.
+- a. twee leden en hun plaatsvervangers op voordracht van Onze Minister; alsmede
 
-4. Niet benoembaar tot bijzonder lid zijn:
+- b. twee leden en hun plaatsvervangers op voordracht van tot het overleg toegelaten verenigingen van ambtenaren.
 
-- a. personen die ingevolge [artikel 110g, vierde lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;
+3. Daarnaast bestaat deze commissie uit twee bijzondere leden en twee plaatsvervangende bijzondere leden. Zij worden door Onze Minister benoemd voor een periode van ten hoogste vier jaren. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden. Van de bijzondere leden en de plaatsvervangende bijzondere leden, wordt een lid benoemd op voordracht van de voorzitter van het overleg met de Commissie en een lid op voordracht van de tot dat overleg toegelaten verenigingen van ambtenaren.
 
-- b. personen die lid of plaatsvervangend lid zijn van de Commissie dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd;
+4. Met betrekking tot de samenstelling van de commissie geldt dat in geval van advies de commissie optreedt in een samenstelling van drie leden, onder wie de voorzitter, een van de twee leden bedoeld in het tweede lid, onder a en een van de twee leden bedoeld in het tweede lid onder b, en de twee bijzondere leden bedoeld in het derde lid. De overige twee leden treden te zamen met de voorzitter en de bijzondere leden op in geval van arbitrage. Bij verhindering van een der leden treedt diens plaatsvervanger op.
 
-- c. personen van wie het lidmaatschap of plaatsvervangend lidmaatschap van de Commissie LSOP, zoals deze commissie bestond tot 1 januari 2017, nog niet langer dan twee jaar is beëindigd.
+5. Niet benoembaar tot lid zijn:
 
-5. Overeenkomstig de aan de leden en de plaatsvervangende leden te verlenen vergoedingen worden aan de bijzondere leden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend volgens de regelen welke voor de vergoeding voor reis- en verblijfkosten wegens reizen voor 's Rijks dienst gelden.
+- a. personen die als vertegenwoordiger van een van de centrales genoemd in onderdeel b zijn toegelaten tot een overleg met de Staat als overheidswerkgever inzake aangelegenheden van algemeen belang voor de rechtstoestand van werknemers bij het Rijk;
 
-6. Onze Minister benoemt tevens twee plaatsvervangende bijzondere leden. Het tweede lid tot en met vijfde lid, zijn van overeenkomstige toepassing.
+- b. personen die bestuurslid zijn van, dan wel werkzaam zijn bij een centrale van verenigingen van ambtenaren, waaronder:
+
+- –. de Algemene Centrale van Overheidspersoneel;
+
+- –. de Christelijke Centrale van Overheids- en Onderwijspersoneel;
+
+- –. het Ambtenarencentrum;
+
+- –. de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, Bedrijven en Instellingen; alsmede:
+
+- –. andere bij koninklijk besluit tot overleg met de Staat als overheidswerkgever toegelaten centrales van verenigingen van ambtenaren, welke onder meer gelet op het aantal ambtenaren, dat zij vertegenwoordigen, eveneens als representatief kunnen worden aangemerkt en tegen wier toelating het algemeen belang zich niet verzet.
+
+- c. personen die werkzaam zijn bij de departementen van algemeen bestuur en de daaronder ressorterende instellingen, diensten en bedrijven, wier onafhankelijkheid en onpartijdigheid op grond van hun dienstverband door de deelnemers aan het overleg onvoldoende wordt geacht. Deze personen zijn eveneens uitgesloten van het lidmaatschap of plaatsvervangend lidmaatschap gedurende de periode van twee jaar na beëindiging van het lidmaatschap, plaatsvervangend lidmaatschap of bestuurslidmaatschap onder a en b bedoeld, alsmede na beëindiging van de werkzaamheden bedoeld onder b en c.
+
+- d. personen die lid of plaatsvervangend lid zijn van de Commissie dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd;
+
+- e. personen van wie het lidmaatschap of plaatsvervangend lidmaatschap van de Commissie LSOP, zoals deze commissie bestond tot 1 januari 2017, nog niet langer dan twee jaar is beëindigd.
+
+6. Aan de leden en bijzondere leden worden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend overeenkomstig de daarover gemaakte afspraken in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 7. Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid die bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.
 
 ##### Artikel 29
 
-Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2018-07-01&g=2018-07-01), daartoe aanleiding geeft stelt zij nadere regels vast met betrekking tot haar werkwijze.
+De Advies- en Arbitragecommissie politieambtenaren stelt nadere regels vast met betrekking tot haar werkwijze.
 
 ##### Artikel 30
 
@@ -340,7 +366,7 @@ Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig 
 
 3. Het advies of de uitspraak wordt gedagtekend en door ieder der optredende leden en bijzondere leden van de Advies- en Arbitragecommissie ondertekend.
 
-4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2018-07-01&g=2018-07-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
+4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2020-01-01&g=2020-01-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
 ##### Artikel 31
 
@@ -352,7 +378,7 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 ### Hoofdstuk III
 
-### Afdeling 1
+### Afdeling 5. Advies en arbitrage
 
 #### § 1
 
@@ -561,5 +587,71 @@ Vervallen
 ##### Artikel 63a
 
 Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3b
+
+1. Er is een sectorale commissie Politie.
+
+2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), bedoelde Commissie en vier leden namens Onze Minister.
+
+3. De sectorale commissie heeft tot taak:
+
+- a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de premie voor het PartnerPlusPensioen Politie;
+
+- b. te besluiten over toelating van werkgevers die een verzoek tot deelname aan het PartnerPlusPensioen Politie doen.
+
+4. Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.
+
+##### Artikel 4a
+
+1. Het overleg GOKB staat onder voorzitterschap van de korpschef of een door hem aan te wijzen lid van de korpsleiding.
+
+2. Indien de Commissie in meerderheid of de voorzitter van het overleg GOPB van oordeel is dat over een bepaalde aangelegenheid overleg gevoerd dient te worden met de korpschef, wordt die aangelegenheid zo mogelijk in het eerstvolgende overleg GOKB geagendeerd.
+
+3. De voorzitter wordt bij het overleg GOKB terzijde gestaan door functionarissen die daartoe door hem worden aangewezen.
+
+4. Onze Minister neemt deel aan het overleg GOKB vanuit zijn verantwoordelijkheid voor het overleg CGOP.
+
+5. De COR is als toehoorder bij het overleg GOKB aanwezig en wordt in dat overleg vertegenwoordigd door maximaal twee leden.
+
+6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+
+##### Artikel 4b
+
+1. Het overleg GOPB staat onder voorzitterschap van de politiechef, de directeur van het betreffende korpsonderdeel, hun plaatsvervangers of, indien het de rijksrecherche betreft, de directeur van de rijksrecherche of zijn plaatsvervanger.
+
+2. De voorzitter wordt bij het overleg GOPB terzijde gestaan door functionarissen die daartoe door hem worden aangewezen, alsmede door functionarissen die daartoe door de korpschef worden aangewezen.
+
+3. Een vertegenwoordiger van de ondernemingsraad van het betreffende korpsonderdeel is als toehoorder bij het overleg GOPB aanwezig.
+
+4. [Artikel 4, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+
+### Afdeling 2. Het overleg met de Regionale Commissie
+
+### Afdeling 3. Het overleg met de Commissie Korps landelijke politiediensten
+
+### Afdeling 4. Het overleg met de Commissie bijzondere ambtenaren van politie
+
+### Afdeling 4A. Het overleg met de commissie LSOP
+
+### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
+
+### Hoofdstuk III
+
+### Afdeling 1
+
+#### § 1
+
+#### § 2
+
+#### § 3
+
+#### § 4
+
+### Afdeling 2
+
+### Hoofdstuk IV. Slot- en Overgangsbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
