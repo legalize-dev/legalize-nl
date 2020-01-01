@@ -4,7 +4,7 @@ identifier: "BWBR0016260"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016260"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2009-03-01&g=2009-03-01);
+- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - c. risicobeoordelingsprocedure: het onderwerpen van nieuwe drugs aan een risicobeoordeling volgens vastgelegde criteria en werkwijze.
 
@@ -71,7 +71,7 @@ De commissie heeft tot taak:
 
 3. De leden van de commissie worden benoemd en ontslagen door de minister.
 
-4. Op de leden van de commissie zijn het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) en het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) van toepassing.
+4. Op de leden van de commissie is de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) van toepassing.
 
 ##### Artikel 5
 
