@@ -4,7 +4,7 @@ identifier: "BWBR0041907"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041907"
 soort: "AMvB"
@@ -62,19 +62,17 @@ Wijzigt het Besluit gemeentelijke parkeerbelastingen.
 
 Wijzigt het Besluit op de lijkbezorging.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt het Legesbesluit akten burgerlijke stand.
 
 ##### Artikel VI
 
-1. Dit besluit treedt in werking met ingang van 1 juli 2019, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=IV&z=2019-07-01&g=2019-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2019-07-01&g=2019-07-01).
+1. Dit besluit treedt in werking met ingang van 1 juli 2019, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=IV&z=2020-01-01&g=2020-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2020-01-01&g=2020-01-01).
 
-2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=IV&z=2019-07-01&g=2019-07-01) treedt in werking met ingang van 1 januari 2020.
+2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=IV&z=2020-01-01&g=2020-01-01) treedt in werking met ingang van 1 januari 2020.
 
-3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2019-07-01&g=2019-07-01) treedt in werking met ingang van 16 februari 2019. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 februari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 16 februari 2019.
+3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0041907&artikel=V&z=2020-01-01&g=2020-01-01) treedt in werking met ingang van 16 februari 2019. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 februari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 16 februari 2019.
 
 ##### Artikel VII
 
