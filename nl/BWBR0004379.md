@@ -4,7 +4,7 @@ identifier: "BWBR0004379"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2002-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004379"
 soort: "ministeriele-regeling"
@@ -59,15 +59,15 @@ Het vacatiegeld voor de leden van het tuchtcollege loodsen bedraagt per zittings
 
 1. Het vacatiegeld voor de secretaris van het tuchtcollege loodsen bedraagt € 136,13 per aan het secretariaat bestede dag.
 
-2. Op het in het eerste lid genoemd bedrag is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=1&z=2002-01-01&g=2002-01-01), van toepassing.
+2. Op het in het eerste lid genoemd bedrag is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=1&z=2020-01-01&g=2020-01-01), van toepassing.
 
 ##### Artikel 4
 
-De reis- en verblijfkosten van de voorzitter, de leden en de secretaris van het tuchtcollege loodsen, alsmede hun plaatsvervangers, worden vergoed volgens de bepalingen van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De reis- en verblijfkosten van de voorzitter, de leden en de secretaris van het tuchtcollege loodsen, alsmede hun plaatsvervangers, in het binnenland worden vergoed volgens hetgeen daarover overeengekomen is in de laatste afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 5
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=2&z=2002-01-01&g=2002-01-01) onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=3&z=2002-01-01&g=2002-01-01) zijn van overeenkomstige toepassing op de vacatiegelden van de plaatsvervangers van de leden onderscheidenlijk de secretaris van het tuchtcollege loodsen.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=2&z=2020-01-01&g=2020-01-01) onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=3&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de vacatiegelden van de plaatsvervangers van de leden onderscheidenlijk de secretaris van het tuchtcollege loodsen.
 
 ##### Artikel 6
 
