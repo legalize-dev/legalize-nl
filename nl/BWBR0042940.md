@@ -67,5 +67,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
