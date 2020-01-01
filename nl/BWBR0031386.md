@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -108,47 +108,49 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2°. totaal loon SV;
 
-- 3°. totaal aanwas in het cumulatieve premieloon Ufo;
+- 3°. totaal aanwas in het cumulatieve premieloon AWf laag;
 
-- 4°. ingehouden loonbelasting en premie volksverzekeringen;
+- 4°. totaal aanwas in het cumulatieve premieloon AWf hoog;
 
-- 5°. eindheffing publiekrechtelijke uitkeringen en tijdelijke knelpunten van ernstige aard;
+- 5°. totaal aanwas in het cumulatieve premieloon AWf herzien;
 
-- 6°. eindheffing doorlopend afwisselend gebruik bestelauto;
+- 6°. totaal aanwas in het cumulatieve premieloon Ufo;
 
-- 7°. pseudo-eindheffing RVU;
+- 7°. ingehouden loonbelasting en premie volksverzekeringen;
 
-- 8°. eindheffing overschrijding forfaitaire werkkostenregeling;
+- 8°. eindheffing publiekrechtelijke uitkeringen en tijdelijke knelpunten van ernstige aard;
 
-- 9°. afdrachtvermindering zeevaart;
+- 9°. eindheffing doorlopend afwisselend gebruik bestelauto;
 
-- 10°. afdrachtvermindering speur- en ontwikkelingswerk;
+- 10°. pseudo-eindheffing RVU;
 
-- 11°. totaal basispremie WAO/IVA/WGA;
+- 11°. eindheffing overschrijding forfaitaire werkkostenregeling;
 
-- 12°. totaal gedifferentieerde premie Whk;
+- 12°. afdrachtvermindering zeevaart;
 
-- 13°. totaal premie WW Awf;
+- 13°. afdrachtvermindering speur- en ontwikkelingswerk;
 
-- 14°. totaal premie Ufo;
+- 14°. totaal basispremie WAO/IVA/WGA;
 
-- 15°. totaal ingehouden bijdragen Zvw;
+- 15°. totaal gedifferentieerde premie Whk;
 
-- 16°. totaal werkgeversheffing Zvw;
+- 16°. totaal premie AWf laag;
 
-- 17°. totaal te betalen over tijdvak;
+- 17°. totaal premie AWf hoog;
 
-- 18°. totaal generaal;
+- 18°. totaal premie AWf herzien;
 
-- b. specificatie premie sectorfonds:
+- 19°. totaal premie Ufo;
 
-- 1°. risicopremiegroep;
+- 20°. totaal ingehouden bijdragen Zvw;
 
-- 2°. totaal aanwas in het cumulatieve premieloon sectorfonds;
+- 21°. totaal werkgeversheffing Zvw;
 
-- 3°. totaal premie sectorfonds;
+- 22°. totaal te betalen over tijdvak;
 
-- c. saldo correcties voorgaand aangiftetijdvak:
+- 23°. totaal generaal;
+
+- b. saldo correcties voorgaand aangiftetijdvak:
 
 - 1°. datum aanvang aangiftetijdvak;
 
@@ -166,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 3°. datum einde inkomstenverhouding;
 
-- 4°. code reden einde inkomstenverhouding flexwerker;
+- 4°. code reden einde arbeidsovereenkomst;
 
 - 5°. personeelsnummer;
 
@@ -226,45 +228,53 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 4°. code invloed verzekeringsplicht;
 
-- 5°. code contract onbepaalde/bepaalde tijd;
+- 5°. code fase indeling F&Z;
 
-- 6°. code fase indeling F&Z;
+- 6°. code CAO;
 
-- 7°. code CAO;
+- 7°. code CAO inlener;
 
-- 8°. indicatie aanvraag loonkostenvoordeel oudere werknemer;
+- 8°. indicatie arbeidsovereenkomst voor onbepaalde tijd;
 
-- 9°. indicatie aanvraag loonkostenvoordeel arbeidsgehandicapte werknemer;
+- 9°. indicatie schriftelijke arbeidsovereenkomst;
 
-- 10°. indicatie aanvraag loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden;
+- 10°. indicatie oproepovereenkomst;
 
-- 11°. indicatie aanvraag loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer;
+- 11°. indicatie jaarurennorm;
 
-- 12°. indicatie loonheffingskorting;
+- 12°. indicatie aanvraag loonkostenvoordeel oudere werknemer;
 
-- 13°. code reden geen bijtelling auto;
+- 13°. indicatie aanvraag loonkostenvoordeel arbeidsgehandicapte werknemer;
 
-- 14°. code loonbelastingtabel;
+- 14°. indicatie aanvraag loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden;
 
-- 15°. indicatie verzekerd WAO/IVA/WGA;
+- 15°. indicatie aanvraag loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer;
 
-- 16°. indicatie verzekerd WW;
+- 16°. indicatie loonheffingskorting;
 
-- 17°. indicatie verzekerd ZW;
+- 17°. code reden geen bijtelling auto;
 
-- 18°. indicatie wachtgeld oude regeling;
+- 18°. code loonbelastingtabel;
 
-- 19°. code verzekeringssituatie Zvw;
+- 19°. indicatie verzekerd WAO/IVA/WGA;
 
-- 20°. indicatie vakantiebonnen toegepast;
+- 20°. indicatie verzekerd WW;
 
-- 21°. indicatie loon bestaat (mede) uit een AOW-uitkering of AIO-aanvulling voor alleenstaanden (met of zonder kinderen);
+- 21°. indicatie verzekerd ZW;
 
-- 22°. indicatie loon inclusief Wajong-uitkering;
+- 22°. indicatie wachtgeld oude regeling;
 
-- 23°. indicatie vervoer vanwege de inhoudingsplichtige;
+- 23°. code verzekeringssituatie Zvw;
 
-- 24°. code incidentele inkomstenvermindering;
+- 24°. indicatie vakantiebonnen toegepast;
+
+- 25°. indicatie loon bestaat (mede) uit een AOW-uitkering of AIO-aanvulling voor alleenstaanden (met of zonder kinderen);
+
+- 26°. indicatie loon inclusief Wajong-uitkering;
+
+- 27°. indicatie vervoer vanwege de inhoudingsplichtige;
+
+- 28°. code incidentele inkomstenvermindering;
 
 - f. werknemersgegevens:
 
@@ -272,81 +282,85 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2°. loon SV;
 
-- 3°. aanwas in het cumulatieve premieloon Ufo;
+- 3°. aanwas in het cumulatieve premieloon AWf laag;
 
-- 4°. loon belast volgens tabel bijzondere beloningen;
+- 4°. aanwas in het cumulatieve premieloon AWf hoog;
 
-- 5°. vakantiebijslag;
+- 5°. aanwas in het cumulatieve premieloon AWf herzien;
 
-- 6°. opgebouwde recht vakantiebijslag;
+- 6°. aanwas in het cumulatieve premieloon Ufo;
 
-- 7°. extra periode salaris;
+- 7°. loon belast volgens tabel bijzondere beloningen;
 
-- 8°. opgebouwde recht extra periode salaris;
+- 8°. vakantiebijslag;
 
-- 9°. loon in geld;
+- 9°. opgebouwde recht vakantiebijslag;
 
-- 10°. waarde niet in geld uitgekeerd loon;
+- 10°. extra periode salaris;
 
-- 11°. loon uit overwerk;
+- 11°. opgebouwde recht extra periode salaris;
 
-- 12°. verstrekte aanvulling op uitkering werknemersverzekering;
+- 12°. loon in geld;
 
-- 13°. ingehouden loonbelasting/premie volksverzekeringen;
+- 13°. waarde niet in geld uitgekeerd loon;
 
-- 14°. basispremie WAO/IVA/WGA;
+- 14°. loon uit overwerk;
 
-- 15°. gedifferentieerde premie Whk;
+- 15°. verstrekte aanvulling op uitkering werknemersverzekering;
 
-- 16°. premie WW Awf;
+- 16°. ingehouden loonbelasting/premie volksverzekeringen;
 
-- 17°. premie Ufo;
+- 17°. basispremie WAO/IVA/WGA;
 
-- 18°. ingehouden bijdrage Zvw;
+- 18°. gedifferentieerde premie Whk;
 
-- 19°. werkgeversheffing Zvw;
+- 19°. premie AWf laag;
 
-- 20°. waarde privégebruik auto;
+- 20°. premie AWf hoog;
 
-- 21°. werknemersbijdrage privégebruik auto;
+- 21°. premie AWf herzien;
 
-- 22°. gespaard bedrag levensloopregeling;
+- 22°. premie Ufo;
 
-- 23°. toegepast bedrag levensloopverlofkorting;
+- 23°. ingehouden bijdrage Zvw;
 
-- 24°. bedrag vergoeding reiskosten;
+- 24°. werkgeversheffing Zvw;
 
-- 25°. verrekende arbeidskorting;
+- 25°. waarde privégebruik auto;
 
-- 26°. aantal verloonde uren;
+- 26°. werknemersbijdrage privégebruik auto;
 
-- 27°. contractloon;
+- 27°. gespaard bedrag levensloopregeling;
 
-- 28°. aantal contracturen per week;
+- 28°. toegepast bedrag levensloopverlofkorting;
 
-- 29°. bedrag rente- of kostenvoordeel personeelslening;
+- 29°. bedrag vergoeding reiskosten;
 
-- 30°. bedrag in uitkering begrepen doorbetaalde alimentatie;
+- 30°. verrekende arbeidskorting;
 
-- 31°. bedrag rechtstreeks betaalde alimentatie;
+- 31°. aantal verloonde uren;
 
-- g. sector risicogroep:
+- 32°. contractloon;
 
-- 1°. datum aanvang sectorrisicogroep;
+- 33°. aantal contracturen per week;
 
-- 2°. datum einde sectorrisicogroep;
+- 34°. bedrag rente- of kostenvoordeel personeelslening;
 
-- 3°. sector;
+- 35°. bedrag in uitkering begrepen doorbetaalde alimentatie;
 
-- 4°. risicopremiegroep;
+- 36°. bedrag rechtstreeks betaalde alimentatie;
 
-- 5°. aanwas in het cumulatieve premieloon sectorfonds;
+- g. sector:
 
-- 6°. premie sectorfonds.
+- 1°. datum aanvang sector;
+
+- 2°. datum einde sector;
+
+- 3°. sector.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2018-01-01&g=2018-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
