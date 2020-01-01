@@ -4,7 +4,7 @@ identifier: "BWBR0037454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-05"
-last_updated: "2018-11-14"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037454"
 soort: "ministeriele-regeling"
@@ -124,11 +124,11 @@ Het hoofd van de afdeling Participatie en Financiële Sturing is verantwoordelij
 
 ##### Artikel 7
 
-Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatorische eenheid, voor zover het betreft:
+Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers;
 
