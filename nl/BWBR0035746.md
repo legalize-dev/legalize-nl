@@ -4,7 +4,7 @@ identifier: "BWBR0035746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-12-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035746"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De leden van de klachtencommissies, bedoeld in [artikel 1, onder h, van de Regeling klachtbehandeling politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=1), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 2,5% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met dien verstande dat de voorzitters en de plaatsvervangend voorzitters per vergadering een vergoeding ontvangen ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
+De leden van de klachtencommissies, bedoeld in [artikel 1, onder h, van de Regeling klachtbehandeling politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=1), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 2,5% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitters en de plaatsvervangend voorzitters per vergadering een vergoeding ontvangen ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
 
 ##### Artikel 2
 
