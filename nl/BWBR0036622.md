@@ -4,7 +4,7 @@ identifier: "BWBR0036622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-27"
-last_updated: "2015-05-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036622"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2020-03-13"
 ---
 # Besluit van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632570, houdende verlening van mandaat, volmacht en machtiging inzake beheeraangelegenheden en enkele rechtspositionele bevoegdheden aan de directeur bedrijfsvoering van de Hoge Raad der Nederlanden (Mandaatregeling beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015)
 
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) en de [Organisatieregeling beheer Hoge Raad 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036621);
+Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32) en de [Organisatieregeling beheer Hoge Raad 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036621);
 
 Besluit:
 
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **gerechtsauditeur:** gerechtsauditeur als bedoeld in [artikel 72 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=72);
 
-- e. **gerechtsambtenaar:** burgerlijke rijksambtenaar op basis van een aanstelling werkzaam bij een gerecht.
+- e. **gerechtsambtenaar:** ambtenaar op basis van een arbeidsovereenkomst werkzaam bij een gerecht.
 
 - f. **rechterlijke ambtenaren:** alle in [artikel 1, onderdeel b, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2) bedoelde rechterlijke ambtenaren die werkzaam zijn bij de Hoge Raad;
 
@@ -62,13 +62,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De directeur bedrijfsvoering van de Hoge Raad wordt aangewezen als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de bij de beheerorganisatie werkzame gerechtsambtenaren.
+De directeur bedrijfsvoering van de Hoge Raad wordt aangewezen als de vertegenwoordiger van de werkgever in de zin van paragraaf 1.2 van de CAO Rijk en als de hoogste ambtelijk leidinggevende in de zin van paragraaf 27.2 van de CAO Rijk ten aanzien van de bij de beheerorganisatie werkzame gerechtsambtenaren.
 
 ##### Artikel 3
 
-1. Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en machtiging verleend ten aanzien van de beheeraangelegenheden van de hoge Raad, met uitzondering van de bevoegdheid besluiten te nemen als bedoeld in [artikel 69 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–.
+1. Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en machtiging verleend ten aanzien van de beheeraangelegenheden van de Hoge Raad, met uitzondering van de bevoegdheid beslissingen te nemen ten aanzien van financiële vergoedingen voor zover deze betrekking hebben op immateriële schade, dan wel financiële vergoedingen voor materiële schade die gecumuleerd € 10.000 overstijgen.
 
-2. Besluiten ten aanzien van de aanstelling, de bevordering en het ontslag alsmede ten aanzien van disciplinaire maatregelen van functionarissen, niet zijnde rechterlijke ambtenaren op managementfuncties in schaal 14 en hoger, worden niet genomen dan nadat het Centraal Loopbaanberaad van het Ministerie van Veiligheid en Justitie daarmee heeft ingestemd.
+2. Besluiten ten aanzien van het aangaan van een arbeidsovereenkomst, de bevordering en het ontslag alsmede ten aanzien van disciplinaire maatregelen van functionarissen, niet zijnde rechterlijke ambtenaren op managementfuncties in schaal 14 en hoger, worden niet genomen dan nadat het Centraal Loopbaanberaad van het Ministerie van Justitie en Veiligheid daarmee heeft ingestemd.
 
 ##### Artikel 4
 
@@ -114,7 +114,7 @@ Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en mac
 
 ##### Artikel 5
 
-De directeur bedrijfsvoering van de Hoge Raad handelt bij de uitoefening van de gemandateerde bevoegdheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=3&z=2015-05-19&g=2015-05-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=4&z=2015-05-19&g=2015-05-19), binnen de door de Directeur Rechtsbestel van het ministerie van Veiligheid en Justitie vastgestelde financiële kaders voor het beheer van de Hoge Raad.
+De directeur bedrijfsvoering van de Hoge Raad handelt bij de uitoefening van de gemandateerde bevoegdheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=4&z=2020-01-01&g=2020-01-01), binnen de door de Directeur Rechtsbestel van het ministerie van Justitie en Veiligheid vastgestelde financiële kaders voor het beheer van de Hoge Raad.
 
 ##### Artikel 6
 
