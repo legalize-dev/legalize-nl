@@ -4,7 +4,7 @@ identifier: "BWBR0028704"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028704"
 soort: "rijksKB"
@@ -68,15 +68,13 @@ Het Kabinet van de Gouverneur van Curaçao heeft tot taak:
 
 ##### Artikel 4
 
-1. Onze Minister is bevoegd de directeur en de medewerkers van het Kabinet van de Gouverneur te benoemen, bevorderen, schorsen en ontslaan, met inachtneming van dit artikel.
+1. Het namens de Staat aangaan, wijzigen en beëindigen van de arbeidsovereenkomst met de directeur van het Kabinet geschiedt door Onze Minister in overeenstemming met de Gouverneur.
 
-2. Onze Minister benoemt, bevordert, schorst en ontslaat de directeur van het Kabinet van de Gouverneur in overeenstemming met de Gouverneur.
+2. Onze Minister verleent volmacht aan de directeur van het Kabinet van de Gouverneur om namens de Staat een arbeidsovereenkomst aan te gaan, te wijzigen en te beëindigen met de medewerkers van het Kabinet.
 
-3. Onze Minister verleent mandaat aan de directeur van het Kabinet van de Gouverneur om namens Onze Minister de medewerkers van het Kabinet te benoemen, bevorderen, schorsen en ontslaan.
+3. De uitoefening van de volmacht, bedoeld in het derde lid, geschiedt met inachtneming van de door Onze Minister vastgelegde kaders en richtlijnen.
 
-4. De uitoefening van het mandaat, bedoeld in het derde lid, geschiedt met inachtneming van de door Onze Minister vastgelegde kaders en richtlijnen.
-
-5. De directeur en de medewerkers van het Kabinet van de Gouverneur zijn voor de uitoefening van hun functie uitsluitend verantwoording verschuldigd aan de Gouverneur.
+4. De directeur en de medewerkers van het Kabinet van de Gouverneur zijn voor de uitoefening van hun functie uitsluitend verantwoording verschuldigd aan de Gouverneur.
 
 ##### Artikel 5
 
