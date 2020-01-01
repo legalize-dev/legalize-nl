@@ -4,7 +4,7 @@ identifier: "BWBR0015631"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015631"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ De functionaris, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het 
 
 - a. de dienst bij de gerechten als bedoeld in [artikel 124, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124);
 
-- b. de werkzaamheden als bedoeld in de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541),[556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587) met betrekking tot personen die zich in de gerechtsgebouwen in het arrondissement Amsterdam bevinden.
+- b. de werkzaamheden, bedoeld in de [artikelen 36d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d), [373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), en [6:1:5, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) met betrekking tot personen die zich bevinden in de gerechtsgebouwen in het arrondissement Amsterdam.
 
 ##### Artikel 2
 
