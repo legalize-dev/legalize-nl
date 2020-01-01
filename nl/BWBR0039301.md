@@ -4,7 +4,7 @@ identifier: "BWBR0039301"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039301"
 soort: "wet"
@@ -47,13 +47,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt het Wetboek van Strafvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Wetboek van Strafrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -63,266 +59,196 @@ Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
 Wijzigt de Advocatenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Algemene douanewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Gerechtsdeurwaarderswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Gratiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Jeugdwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
 Wijzigt de Loodsenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Noodwet rechtspleging.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
 Wijzigt de Opiumwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt de Overleveringswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
 Wijzigt de Penitentiaire beginselenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
-Vervallen.
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/82.
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Postwet 2009.
 
 ##### Artikel XVIII
 
 Wijzigt de Scheepvaartverkeerswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
 Wijzigt de Telecommunicatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
 Wijzigt de Uitleveringswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Uitvoeringswet Internationaal Strafhof.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
 Wijzigt de Uitvoeringswet verdrag biologische wapens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII
 
 Wijzigt de Vreemdelingenwet 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
 Wijzigt de Wegenverkeerswet 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
 Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII
 
 Wijzigt de Wet dieren.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
 Wijzigt de Wet DNA-onderzoek bij veroordeelden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
 Wijzigt de Wet internationale misdrijven.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXX
 
 Wijzigt de Wet luchtvaart.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+**[vervallen]**
 
 ##### Artikel XXXII
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIV
 
-Wijzigt de Wet op de jeugdzorg.
+[Redactie: Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2019/504.
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de jeugdzorg.
 
 ##### Artikel XXXV
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVI
 
 Wijzigt de Wet op de rechtsbijstand.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVII
 
 Wijzigt de Wet op het notarisambt.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVIII
 
 Wijzigt de Wet overgang bijzondere rechtspleging.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIX
 
 Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XL
 
 Wijzigt de Wet tarieven in strafzaken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLI
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLII
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIII
 
 Wijzigt de Wet zeevarenden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=I&z=2020-01-01&g=2020-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=III&z=2020-01-01&g=2020-01-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de mogelijkheid van betaling in termijnen van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) alsmede van de mogelijkheid van beëindiging van de tenuitvoerlegging van geldboeten waarvoor geen gratie kan worden verleend indien met de voorzetting daarvan geen redelijk doel wordt gediend.
 
 ##### Artikel XLIV
 
-Dit onderdeel is nog niet inwerking getreden
+De wijziging van [artikel 136 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=136) is niet van toepassing op beslissingen die zijn genomen voor het tijdstip waarop [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet in werking treedt.
 
 ##### Artikel XLV
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLVa
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XLVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet herziening tenuitvoerlegging strafrechtelijke beslissingen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XLIVa
+
+1. De wijzigingen van de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) hebben geen gevolgen voor de toepassing van een lijfsdwang of vervangende hechtenis die door de rechter is bepaald voor het tijdstip waarop [artikel II, onderdelen W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0039301&artikel=II&z=2020-01-01&g=2020-01-01), van deze wet in werking treden.
+
+2. Een lijfsdwang of vervangende hechtenis, bedoeld in het eerste lid, wordt toegepast met inachtneming van de daarop betrekking hebbende artikelen zoals die luidden voor de inwerkingtreding van deze wet, met dien verstande dat de [artikelen 6:4:20, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) en [6:6:25, zevende lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) van overeenkomstige toepassing zijn.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
