@@ -4,7 +4,7 @@ identifier: "BWBR0024994"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2008-12-26"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024994"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ In dit besluit wordt verstaan onder:
 
 - a. **ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- b. **de matchingscommissie:** de commissie als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024994&artikel=2&z=2008-12-26&g=2008-12-26).
+- b. **de matchingscommissie:** de commissie als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024994&artikel=2&z=2020-01-01&g=2020-01-01).
 
-- c. **VWS-medewerker:** de bij het ministerie werkzame persoon die is aangesteld op grond van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) (ARAR);
+- c. **VWS-medewerker:** de bij het ministerie werkzame ambtenaar;
 
-- d. **dienstonderdelen:** de organisatieonderdelen zoals genoemd in [artikel 2, eerste lid, onder b tot en met k, van het Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0024521&artikel=2).
+- d. **dienstonderdelen:** de organisatieonderdelen zoals genoemd in [artikel 2, b tot en met g, van het Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606&artikel=2).
 
 ##### Artikel 2. Taak en samenstelling van de commissie
 
-De directeur P&O kan besluiten een gevolgde werving- en selectieprocedure ter beoordeling voor te leggen aan de matchingscommissie. De matchingscommissie houdt toezicht op een goede en objectieve werving- en selectie van de VWS-medewerkers. Doel is om de VWS-medewerkers een eerlijke kans te geven op een andere interne werkplek, met name ook in het licht van het 3-5-7 model. De commissie heeft tevens als taak toe te zien op de werking van het systeem van flexibele werktoedeling.
+De directeur OBP kan besluiten een gevolgde werving- en selectieprocedure ter beoordeling voor te leggen aan de matchingscommissie. De matchingscommissie houdt toezicht op een goede en objectieve werving- en selectie van de VWS-medewerkers. Doel is om de VWS-medewerkers een eerlijke kans te geven op een andere interne werkplek, met name ook in het licht van het 3-5-7 model. De commissie heeft tevens als taak toe te zien op de werking van het systeem van flexibele werktoedeling.
 
 ##### Artikel 3
 
@@ -62,7 +62,7 @@ De directeur P&O kan besluiten een gevolgde werving- en selectieprocedure ter be
 
 - a. de pSG, die tevens de rol van voorzitter bekleedt;
 
-- b. de directeur P&O;
+- b. de directeur OBP;
 
 - c. een DG uit een andere kolom dan waar de vacature is;
 
@@ -74,7 +74,7 @@ De directeur P&O kan besluiten een gevolgde werving- en selectieprocedure ter be
 
 1. Ten aanzien van werving en selectie:
 
-- a. Wanneer een selectiecommissie alle VWS-kandidaten (incl. VWS herplaatsingskandidaten) afwijst en verzoekt extern te mogen werven, kan de directeur P&O, vooral als sprake lijkt te zijn van problematiek die meer structureel van karakter is, besluiten de gevolgde werving- en selectieprocedure ter beoordeling voor te leggen aan de matchingscommissie. De directeur P&O neemt een dergelijk besluit na hiertoe overleg te hebben gepleegd met de HRM-adviseur van het betrokken dienstonderdeel.
+- a. Wanneer een selectiecommissie alle VWS-kandidaten (incl. VWS herplaatsingskandidaten) afwijst en verzoekt extern te mogen werven, kan de directeur OBP, vooral als sprake lijkt te zijn van problematiek die meer structureel van karakter is, besluiten de gevolgde werving- en selectieprocedure ter beoordeling voor te leggen aan de matchingscommissie. De directeur OBP neemt een dergelijk besluit na hiertoe overleg te hebben gepleegd met de HRM-adviseur van het betrokken dienstonderdeel.
 
 - b. Mocht de matchingscommissie van oordeel zijn dat de selectiecommissie niet tot het oordeel had kunnen/mogen komen dat één of meer VWS-kandidaten voor meer dan 30% ongeschikt zijn, dan zal zij hierover de vacaturehouder dwingend adviseren;
 
@@ -84,7 +84,7 @@ De directeur P&O kan besluiten een gevolgde werving- en selectieprocedure ter be
 
 2. Ten aanzien van flexibele werktoedeling:
 
-- a. De commissie zal geen individuele belangen behartigen. Indien een medewerker zich niet kan vinden in de toedeling van het werk dan kan hij of zij zich in eerste instantie wenden tot zijn/haar afdelingshoofd of directeur en de DG in tweede instantie. Indien dit niet leidt tot een bevredigend resultaat voor de medewerker dan kan hij/zij zijn onvrede kenbaar maken aan de DP&O en/of de OR. In geval er op grond van signalen vanuit DP&O en/of de OR sprake lijkt te zijn van problematiek die meer structureel van karakter is, zal de matchingscommissie hierover benaderd worden door DP&O en/of de OR. De matchingscommissie zal hierover in gesprek gaan met de DG en zonodig de SG informeren.
+- a. De commissie zal geen individuele belangen behartigen. Indien een medewerker zich niet kan vinden in de toedeling van het werk dan kan hij of zij zich in eerste instantie wenden tot zijn/haar afdelingshoofd of directeur en de DG in tweede instantie. Indien dit niet leidt tot een bevredigend resultaat voor de medewerker dan kan hij/zij zijn onvrede kenbaar maken aan de directeur OBP en/of de OR. In geval er op grond van signalen vanuit directeur OBP en/of de OR sprake lijkt te zijn van problematiek die meer structureel van karakter is, zal de matchingscommissie hierover benaderd worden door directeur OBP en/of de OR. De matchingscommissie zal hierover in gesprek gaan met de DG en zonodig de SG informeren.
 
 - b. De betreffende DG kan door de matchingscommissie worden gehoord.
 
