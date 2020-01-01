@@ -4,7 +4,7 @@ identifier: "BWBR0039822"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-07-22"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039822"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Vergoeding werkzaamheden voorzitter en leden van het College
 
-1. De voorzitter van het College ontvangt voor zijn werkzaamheden een vaste vergoeding per maand op basis van het maandsalaris conform de hoogste trede van schaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van 0,2.
+1. De voorzitter van het College ontvangt voor zijn werkzaamheden een vaste vergoeding per maand op basis van het maandsalaris conform de hoogste trede van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en een arbeidsduurfactor van 0,2.
 
-2. De leden van het College die niet in dienst zijn van het Rijk ontvangen een vaste vergoeding per maand op basis van het maandsalaris conform de hoogste trede van schaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van 0,1.
+2. De leden van het College die niet in dienst zijn van het Rijk ontvangen een vaste vergoeding per maand op basis van het maandsalaris conform de hoogste trede van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en een arbeidsduurfactor van 0,1.
 
 ##### Artikel 3. Vergoedingen commissies
 
-1. De leden van de commissies ontvangen per vergadering een vergoeding van 3% van de hoogste trede van schaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De leden van de commissies ontvangen per vergadering een vergoeding van 3% van de hoogste trede van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. Indien de leden van de commissies voor een vergadering in het buitenland de grens over moeten reizen, kan, in afwijking van [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2), de in het eerste lid bedoelde vergoeding worden verhoogd tot maximaal het tweevoudige.
 
