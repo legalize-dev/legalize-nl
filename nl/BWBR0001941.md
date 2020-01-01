@@ -4,7 +4,7 @@ identifier: "BWBR0001941"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-28"
-last_updated: "2019-07-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001941"
 soort: "wet"
@@ -69,13 +69,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 3. Voor de toepassing van deze wet wordt onder vervaardigen begrepen raffineren en omzetten.
 
-4. Onder binnen het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), is begrepen: het binnen het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling, met betrekking tot die middelen, die binnen het grondgebied van Nederland zijn gebracht, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
+4. Onder binnen het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), is begrepen: het binnen het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling, met betrekking tot die middelen, die binnen het grondgebied van Nederland zijn gebracht, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
 
-5. Onder buiten het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), is begrepen: het buiten het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer dan wel ten wederuitvoer aangeven, daaronder begrepen het doen van een summiere aangifte bij uitgaan of het in kennis stellen van de wederuitvoer, in de zin van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) of het in, op of aan een naar het buitenland bestemd vaar-, voer- of luchtvaartuig aanwezig hebben van die middelen, of van die voorwerpen of goederen.
+5. Onder buiten het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), is begrepen: het buiten het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer dan wel ten wederuitvoer aangeven, daaronder begrepen het doen van een summiere aangifte bij uitgaan of het in kennis stellen van de wederuitvoer, in de zin van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) of het in, op of aan een naar het buitenland bestemd vaar-, voer- of luchtvaartuig aanwezig hebben van die middelen, of van die voorwerpen of goederen.
 
 ##### Artikel 2
 
-Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2019-07-19&g=2019-07-19):
+Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2020-01-01&g=2020-01-01):
 
 - A. binnen of buiten het grondgebied van Nederland te brengen;
 
@@ -87,7 +87,7 @@ Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst I](ht
 
 ##### Artikel 3
 
-Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2019-07-19&g=2019-07-19):
+Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2020-01-01&g=2020-01-01):
 
 - A. binnen of buiten het grondgebied van Nederland te brengen;
 
@@ -99,41 +99,41 @@ Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst II](h
 
 ##### Artikel 3a
 
-1. Bij algemene maatregel van bestuur worden aan de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) middelen toegevoegd indien deze onder de werking van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag worden gebracht of uit hoofde van de uit het Kaderbesluit 2004/757/JBZ of het Besluit 2005/387/JBZ voortvloeiende verplichting onder de werking van deze wet dienen te worden gebracht. Bij algemene maatregel van bestuur kunnen van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) middelen worden geschrapt indien deze aan de werking van de in de eerste volzin bedoelde verdragen worden onttrokken dan wel indien de in die volzin bedoelde verplichting uit hoofde van het Kaderbesluit 2004/757/JBZ of het Besluit 2005/387/JBZ komt te vervallen.
+1. Bij algemene maatregel van bestuur worden aan de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) middelen toegevoegd indien deze onder de werking van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag worden gebracht of uit hoofde van de uit het Kaderbesluit 2004/757/JBZ of het Besluit 2005/387/JBZ voortvloeiende verplichting onder de werking van deze wet dienen te worden gebracht. Bij algemene maatregel van bestuur kunnen van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) middelen worden geschrapt indien deze aan de werking van de in de eerste volzin bedoelde verdragen worden onttrokken dan wel indien de in die volzin bedoelde verplichting uit hoofde van het Kaderbesluit 2004/757/JBZ of het Besluit 2005/387/JBZ komt te vervallen.
 
-2. Bij algemene maatregel van bestuur kunnen aan [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) middelen worden toegevoegd indien is gebleken dat deze het bewustzijn van de mens beïnvloeden en bij gebruik door de mens kunnen leiden tot schade aan zijn gezondheid en schade voor de samenleving.
+2. Bij algemene maatregel van bestuur kunnen aan [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) middelen worden toegevoegd indien is gebleken dat deze het bewustzijn van de mens beïnvloeden en bij gebruik door de mens kunnen leiden tot schade aan zijn gezondheid en schade voor de samenleving.
 
-3. Bij algemene maatregel van bestuur worden middelen die krachtens het tweede lid zijn toegevoegd, van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) geschrapt indien is gebleken dat zij de in het tweede lid bedoelde eigenschappen niet of niet meer bezitten.
+3. Bij algemene maatregel van bestuur worden middelen die krachtens het tweede lid zijn toegevoegd, van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) geschrapt indien is gebleken dat zij de in het tweede lid bedoelde eigenschappen niet of niet meer bezitten.
 
 4. Een algemene maatregel van bestuur als bedoeld in het eerste, tweede en derde lid, wordt niet vastgesteld dan nadat vier weken zijn verstreken nadat het ontwerp van de maatregel is overgelegd aan de beide Kamers der Staten-Generaal en binnen die termijn niet door of namens een van beide Kamers de wens te kennen wordt gegeven dat het in het ontwerp van de maatregel geregelde onderwerp wordt geregeld bij wet.
 
-5. Indien naar het oordeel van Onze Minister handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) ten aanzien van een middel onverwijld moeten worden verboden en de totstandkoming van een algemene maatregel van bestuur als bedoeld in het eerste of tweede lid niet kan worden afgewacht, kan het middel daartoe bij ministeriële regeling worden aangewezen. Onze Minister draagt ervoor zorg dat tegelijk met de vaststelling van deze ministeriële regeling het ontwerp van een algemene maatregel van bestuur met dezelfde inhoud ter beoordeling aan de ministerraad wordt aangeboden. De ministeriële regeling blijft, behoudens eerdere intrekking, van kracht totdat de algemene maatregel van bestuur waarbij het betreffende middel wordt aangewezen in werking treedt, doch uiterlijk tot een jaar na het inwerkingtreden van de regeling.
+5. Indien naar het oordeel van Onze Minister handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) ten aanzien van een middel onverwijld moeten worden verboden en de totstandkoming van een algemene maatregel van bestuur als bedoeld in het eerste of tweede lid niet kan worden afgewacht, kan het middel daartoe bij ministeriële regeling worden aangewezen. Onze Minister draagt ervoor zorg dat tegelijk met de vaststelling van deze ministeriële regeling het ontwerp van een algemene maatregel van bestuur met dezelfde inhoud ter beoordeling aan de ministerraad wordt aangeboden. De ministeriële regeling blijft, behoudens eerdere intrekking, van kracht totdat de algemene maatregel van bestuur waarbij het betreffende middel wordt aangewezen in werking treedt, doch uiterlijk tot een jaar na het inwerkingtreden van de regeling.
 
 ##### Artikel 3b
 
-1. Elke openbaarmaking, welke er kennelijk op is gericht de verkoop, aflevering of verstrekking van een middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) te bevorderen, is verboden.
+1. Elke openbaarmaking, welke er kennelijk op is gericht de verkoop, aflevering of verstrekking van een middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) te bevorderen, is verboden.
 
 2. Het in het eerste lid vervatte verbod geldt niet ter zake van openbaarmaking in het kader van medische of wetenschappelijke voorlichting.
 
 ##### Artikel 4
 
-1. Het is verboden een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) voor te schrijven op recept, tenzij het middel daartoe, in het belang van de volksgezondheid, is aangewezen bij algemene maatregel van bestuur. Bij de maatregel kunnen voorschriften worden gesteld ter zake van het recept en het doel waarvoor een middel wordt voorgeschreven.
+1. Het is verboden een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) voor te schrijven op recept, tenzij het middel daartoe, in het belang van de volksgezondheid, is aangewezen bij algemene maatregel van bestuur. Bij de maatregel kunnen voorschriften worden gesteld ter zake van het recept en het doel waarvoor een middel wordt voorgeschreven.
 
 Een krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.
 
-Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. In het belang van de volksgezondheid kan, in afwijking van de eerste volzin, bij ministeriële regeling een middel worden aangewezen dat mag worden voorgeschreven op recept, zolang het middel tevens is aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2019-07-19&g=2019-07-19).
+Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. In het belang van de volksgezondheid kan, in afwijking van de eerste volzin, bij ministeriële regeling een middel worden aangewezen dat mag worden voorgeschreven op recept, zolang het middel tevens is aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2020-01-01&g=2020-01-01).
 
-2. Het bestellen van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19), door:
+2. Het bestellen van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01), door:
 
-- a. beroepsbeoefenaren als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2019-07-19&g=2019-07-19),
+- a. beroepsbeoefenaren als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2020-01-01&g=2020-01-01),
 
-- b. instellingen en personen als bedoeld in [artikel 5, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2019-07-19&g=2019-07-19), en
+- b. instellingen en personen als bedoeld in [artikel 5, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2020-01-01&g=2020-01-01), en
 
-- c. houders van een ontheffing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2019-07-19&g=2019-07-19),
+- c. houders van een ontheffing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2020-01-01&g=2020-01-01),
 
 geschiedt met inachtneming van bij ministeriële regeling vastgestelde voorschriften.
 
-3. Het is verboden ter verkrijging van enig middel, in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) bedoeld:
+3. Het is verboden ter verkrijging van enig middel, in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) bedoeld:
 
 - a. een vals of vervalst recept aan te bieden;
 
@@ -141,29 +141,29 @@ geschiedt met inachtneming van bij ministeriële regeling vastgestelde voorschri
 
 ##### Artikel 5
 
-1. Bij algemene maatregel van bestuur worden voorschriften gesteld ter zake van het afleveren van krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19) aangewezen middelen. Onverminderd deze algemene maatregel van bestuur, is het verbod op het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben van een middel bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19), niet van toepassing op:
+1. Bij algemene maatregel van bestuur worden voorschriften gesteld ter zake van het afleveren van krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01) aangewezen middelen. Onverminderd deze algemene maatregel van bestuur, is het verbod op het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben van een middel bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01), niet van toepassing op:
 
-- a. apothekers en apotheekhoudende artsen indien zij krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19), aangewezen middelen voor geneeskundige doeleinden bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben en deze werkzaamheden geschieden binnen de normale beroepsuitoefening;
+- a. apothekers en apotheekhoudende artsen indien zij krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01), aangewezen middelen voor geneeskundige doeleinden bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben en deze werkzaamheden geschieden binnen de normale beroepsuitoefening;
 
-- b. dierenartsen, indien zij de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19) aangewezen middelen voor diergeneeskundige doeleinden verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben.
+- b. dierenartsen, indien zij de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01) aangewezen middelen voor diergeneeskundige doeleinden verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben.
 
-2. De verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19), zijn voorts niet van toepassing op daartoe bij algemene maatregel van bestuur aangewezen instellingen en op hen die de desbetreffende middelen in de aanwezige hoeveelheid tot uitoefening van de geneeskunst, de tandheelkunde of de diergeneeskunde, dan wel voor eigen geneeskundig gebruik behoeven of krachtens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg hebben verkregen.
+2. De verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01), zijn voorts niet van toepassing op daartoe bij algemene maatregel van bestuur aangewezen instellingen en op hen die de desbetreffende middelen in de aanwezige hoeveelheid tot uitoefening van de geneeskunst, de tandheelkunde of de diergeneeskunde, dan wel voor eigen geneeskundig gebruik behoeven of krachtens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg hebben verkregen.
 
-3. Voorts kunnen, indien een noodtoestand als bedoeld in [artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=1) is afgekondigd, bij koninklijk besluit, op voordracht van Onze Minister, andere instellingen of personen dan die, bedoeld in het eerste en tweede lid, worden aangewezen voor wie de verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19), niet van toepassing zijn. Deze aanwijzing kan worden beperkt tot bepaalde gebieden en bepaalde middelen. Voorts kunnen aan de aanwijzing nadere voorschriften worden verbonden. De aanwijzing vervalt van rechtswege indien de noodtoestand wordt beëindigd, en kan voorts worden ingetrokken bij koninklijk besluit, op voordracht van Onze Minister.
+3. Voorts kunnen, indien een noodtoestand als bedoeld in [artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=1) is afgekondigd, bij koninklijk besluit, op voordracht van Onze Minister, andere instellingen of personen dan die, bedoeld in het eerste en tweede lid, worden aangewezen voor wie de verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01), niet van toepassing zijn. Deze aanwijzing kan worden beperkt tot bepaalde gebieden en bepaalde middelen. Voorts kunnen aan de aanwijzing nadere voorschriften worden verbonden. De aanwijzing vervalt van rechtswege indien de noodtoestand wordt beëindigd, en kan voorts worden ingetrokken bij koninklijk besluit, op voordracht van Onze Minister.
 
 4. De verboden inzake het vervoeren of aanwezig hebben zijn bovendien niet van toepassing op hen die de middelen vervoeren of daartoe aanwezig hebben in opdracht van degene die tot zodanig vervoer bevoegd is.
 
 ##### Artikel 6
 
-1. Onze Minister kan, met inachtneming van [artikel 8i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2019-07-19&g=2019-07-19), ontheffing verlenen van een verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19). Hij kan voorts een ontheffing verlengen, wijzigen, aanvullen of intrekken.
+1. Onze Minister kan, met inachtneming van [artikel 8i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2020-01-01&g=2020-01-01), ontheffing verlenen van een verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01). Hij kan voorts een ontheffing verlengen, wijzigen, aanvullen of intrekken.
 
-2. Een ontheffing of een verlenging daarvan wordt verleend voor ten hoogste vijf jaren, met dien verstande dat een ontheffing van een verbod als bedoeld in [artikel 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19), of [artikel 3, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), wordt verleend per geval en voor ten hoogste zes maanden.
+2. Een ontheffing of een verlenging daarvan wordt verleend voor ten hoogste vijf jaren, met dien verstande dat een ontheffing van een verbod als bedoeld in [artikel 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01), of [artikel 3, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), wordt verleend per geval en voor ten hoogste zes maanden.
 
 3. Onze Minister stelt de aanvrager van een ontheffing of van een verlenging daarvan binnen drie maanden na ontvangst van de aanvraag in kennis van zijn beslissing.
 
 ##### Artikel 7
 
-1. Voor de behandeling van een aanvraag voor een ontheffing of een wijziging, aanvulling of verlenging daarvan, kan een vergoeding worden geheven. Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in [artikel 8i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2019-07-19&g=2019-07-19), is geen vergoeding verschuldigd.
+1. Voor de behandeling van een aanvraag voor een ontheffing of een wijziging, aanvulling of verlenging daarvan, kan een vergoeding worden geheven. Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in [artikel 8i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2020-01-01&g=2020-01-01), is geen vergoeding verschuldigd.
 
 2. Voor een ontheffing kan jaarlijks een vergoeding worden geheven. Het eerste lid, tweede volzin, is van overeenkomstige toepassing met betrekking tot de jaarlijkse vergoeding.
 
@@ -181,15 +181,15 @@ Vervallen
 
 - b. deze nodig te hebben voor het verrichten van wetenschappelijk of analytisch-chemisch onderzoek dan wel voor instructieve doeleinden, voor zover het belang van de volksgezondheid zich hier niet tegen verzet, of
 
-- c. deze nodig te hebben voor het verrichten van een handeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) krachtens een overeenkomst met:
+- c. deze nodig te hebben voor het verrichten van een handeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) krachtens een overeenkomst met:
 
-- 1. een ander aan wie krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2019-07-19&g=2019-07-19), een ontheffing is verleend;
+- 1. een ander aan wie krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2020-01-01&g=2020-01-01), een ontheffing is verleend;
 
 - 2. een apotheker of apotheekhoudende arts;
 
 - 3. een dierenarts;
 
-- 4. een instelling of persoon, aangewezen krachtens [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2019-07-19&g=2019-07-19);
+- 4. een instelling of persoon, aangewezen krachtens [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2020-01-01&g=2020-01-01);
 
 - 5. een houder van een in een ander land verleende vergunning of ontheffing om de desbetreffende middelen in dat land in te voeren, voor zover het belang van de volksgezondheid zich hier niet tegen verzet.
 
@@ -199,7 +199,7 @@ Vervallen
 
 1. De opsporingsambtenaren hebben, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is, toegang:
 
-- a. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19);
+- a. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01);
 
 - b. tot de plaatsen, waar een overtreding van deze wet gepleegd wordt of waar redelijkerwijze vermoed kan worden, dat zodanige overtreding gepleegd wordt.
 
@@ -207,33 +207,33 @@ Vervallen
 
 3. Zij zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-4. De officier van justitie of de hulpofficier van justitie voor wie de verdachte wordt geleid of die zelf de verdachte heeft aangehouden is bevoegd een persoon die zojuist binnen het grondgebied van Nederland is binnengekomen of die op het punt staat dit grondgebied te verlaten, en die is aangehouden terzake van een bij deze wet als misdrijf strafbaar gesteld feit, een vordering te geven tot medewerking aan een urineonderzoek, gericht op het aantonen van de aanwezigheid in het lichaam van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19).
+4. De officier van justitie of de hulpofficier van justitie voor wie de verdachte wordt geleid of die zelf de verdachte heeft aangehouden is bevoegd een persoon die zojuist binnen het grondgebied van Nederland is binnengekomen of die op het punt staat dit grondgebied te verlaten, en die is aangehouden terzake van een bij deze wet als misdrijf strafbaar gesteld feit, een vordering te geven tot medewerking aan een urineonderzoek, gericht op het aantonen van de aanwezigheid in het lichaam van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 10
 
 1. Hij die handelt in strijd met:
 
-- a. een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19), het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b&z=2019-07-19&g=2019-07-19), of een in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19), gegeven verbod;
+- a. een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01), het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b&z=2020-01-01&g=2020-01-01), of een in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01), gegeven verbod;
 
-- b. een krachtens [artikel 3c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2019-07-19&g=2019-07-19), of [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19), gegeven voorschrift;
+- b. een krachtens [artikel 3c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2020-01-01&g=2020-01-01), of [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01), gegeven voorschrift;
 
-- c. een krachtens [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8a&z=2019-07-19&g=2019-07-19), aan een ontheffing verbonden voorschrift;
+- c. een krachtens [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8a&z=2020-01-01&g=2020-01-01), aan een ontheffing verbonden voorschrift;
 
 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-2. Hij die opzettelijk handelt in strijd met het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), of het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+2. Hij die opzettelijk handelt in strijd met het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), of het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-3. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19), gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
+3. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01), gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-4. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
+4. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-5. Hij die opzettelijk handelt in strijd met een in [artikel 2 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
+5. Hij die opzettelijk handelt in strijd met een in [artikel 2 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 6. Indien het feit, bedoeld in het tweede, derde onderscheidenlijk vijfde lid, betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, wordt gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie opgelegd.
 
 ##### Artikel 10a
 
-1. Hij die om een feit, bedoeld in het [vierde of vijfde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), voor te bereiden of te bevorderen:
+1. Hij die om een feit, bedoeld in het [vierde of vijfde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), voor te bereiden of te bevorderen:
 
 - 1°. een ander tracht te bewegen om dat feit te plegen, te doen plegen, mede te plegen of uit te lokken, om daarbij behulpzaam te zijn of om daartoe gelegenheid, middelen of inlichtingen te verschaffen,
 
@@ -247,49 +247,49 @@ wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de
 
 ##### Artikel 11
 
-1. Hij die handelt in strijd met een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) gegeven verbod, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+1. Hij die handelt in strijd met een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) gegeven verbod, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-2. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+2. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-3. Hij die in de uitoefening van een beroep of bedrijf opzettelijk handelt in strijd met een in [artikel 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
+3. Hij die in de uitoefening van een beroep of bedrijf opzettelijk handelt in strijd met een in [artikel 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-4. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+4. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
 5. Indien een feit als bedoeld in het tweede of vierde lid, betrekking heeft op een grote hoeveelheid van een middel, wordt gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie opgelegd. Onder grote hoeveelheid wordt verstaan een hoeveelheid die meer bedraagt dan de bij algemene maatregel van bestuur bepaalde hoeveelheid van een middel.
 
 6. Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van hennep of hasjiesj van ten hoogste 30 gram.
 
-7. Het tweede en vierde lid zijn niet van toepassing, indien het feit betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, van de in [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) vermelde middelen, met uitzondering van hennep en hasjiesj.
+7. Het tweede en vierde lid zijn niet van toepassing, indien het feit betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, van de in [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) vermelde middelen, met uitzondering van hennep en hasjiesj.
 
 ##### Artikel 12
 
-Indien de waarde van de zaken waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de [artikelen 10, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), [11, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2019-07-19&g=2019-07-19) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11b&z=2019-07-19&g=2019-07-19) zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum van de geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd.
+Indien de waarde van de zaken waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de [artikelen 10, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), [11, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2020-01-01&g=2020-01-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11b&z=2020-01-01&g=2020-01-01) zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum van de geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd.
 
 ##### Artikel 13
 
-1. De in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), strafbaar gestelde feiten zijn overtredingen.
+1. De in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn overtredingen.
 
-2. De in de [artikelen 10, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), [11, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2019-07-19&g=2019-07-19) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11b&z=2019-07-19&g=2019-07-19) strafbaar gestelde feiten zijn misdrijven.
+2. De in de [artikelen 10, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), [11, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2020-01-01&g=2020-01-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11b&z=2020-01-01&g=2020-01-01) strafbaar gestelde feiten zijn misdrijven.
 
 3. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt aan:
 
-- a. een der in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), strafbaar gestelde feiten voorzover die zijn gepleegd om het in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel
+- a. een der in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten voorzover die zijn gepleegd om het in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel
 
-- b. poging tot of deelneming aan het in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), strafbaar gestelde feit.
+- b. poging tot of deelneming aan het in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), strafbaar gestelde feit.
 
-4. De Nederlandse strafwet is toepasselijk op een der in [artikel 10, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), [artikel 11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), en [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2019-07-19&g=2019-07-19) strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.
+4. De Nederlandse strafwet is toepasselijk op een der in [artikel 10, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), [artikel 11, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), en [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2020-01-01&g=2020-01-01) strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.
 
 ##### Artikel 13a
 
-Onverminderd het bepaalde in de [artikelen 33 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33) en [36**b** tot en met 36**d** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36) worden de in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.
+Onverminderd het bepaalde in de [artikelen 33 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33) en [36b tot en met 36d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b) en [artikel 6:1:12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:12) worden de in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.
 
 ##### Artikel 13b
 
 1. De burgemeester is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf:
 
-- a. een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2019-07-19&g=2019-07-19), wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;
+- a. een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2020-01-01&g=2020-01-01), wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;
 
-- b. een voorwerp of stof als bedoeld in [artikel 10a, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), of [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2019-07-19&g=2019-07-19) voorhanden is.
+- b. een voorwerp of stof als bedoeld in [artikel 10a, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), of [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2020-01-01&g=2020-01-01) voorhanden is.
 
 2. Het eerste lid is niet van toepassing indien woningen, lokalen of erven als bedoeld in het eerste lid, gebruikt worden ter uitoefening van de artsenijbereidkunst, de geneeskunst, de tandheelkunst of de diergeneeskunde door onderscheidenlijk apothekers, artsen, tandartsen of dierenartsen.
 
@@ -797,17 +797,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 3c
 
-1. Bij algemene maatregel van bestuur kunnen middelen en toepassingen worden aangewezen waarvoor een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) omschreven verbod geheel of ten dele niet geldt.
+1. Bij algemene maatregel van bestuur kunnen middelen en toepassingen worden aangewezen waarvoor een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) omschreven verbod geheel of ten dele niet geldt.
 
-2. Bij algemene maatregel van bestuur kunnen met betrekking tot middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) regels worden gesteld om naleving van de bepalingen van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag te verzekeren of om misbruik van die middelen te voorkomen.
+2. Bij algemene maatregel van bestuur kunnen met betrekking tot middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) regels worden gesteld om naleving van de bepalingen van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag te verzekeren of om misbruik van die middelen te voorkomen.
 
 ##### Artikel 8a
 
-1. Aan een ontheffing kunnen voorschriften worden verbonden om naleving van de bepalingen van het Enkelvoudig Verdrag en het Psychotrope Stoffen Verdrag en de bij of krachtens deze wet gestelde voorschriften te verzekeren, of om misbruik van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) te voorkomen.
+1. Aan een ontheffing kunnen voorschriften worden verbonden om naleving van de bepalingen van het Enkelvoudig Verdrag en het Psychotrope Stoffen Verdrag en de bij of krachtens deze wet gestelde voorschriften te verzekeren, of om misbruik van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) te voorkomen.
 
 2. In de ontheffing wordt ten minste vermeld:
 
-- a. voor welke van de verboden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19) zij wordt verleend;
+- a. voor welke van de verboden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01) zij wordt verleend;
 
 - b. voor welke doeleinden zij wordt verleend;
 
@@ -839,7 +839,7 @@ Een ontheffing wordt ingetrokken:
 
 - c. indien naar het oordeel van Onze Minister de doeleinden waarvoor de ontheffing is verleend niet meer gerealiseerd kunnen worden;
 
-- d. indien een krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=7&z=2019-07-19&g=2019-07-19), verschuldigde vergoeding niet binnen 30 dagen na heffing is voldaan en evenmin gevolg is gegeven aan de aanmaning van Onze Minister, gedaan na afloop van die termijn, om alsnog binnen acht dagen te betalen.
+- d. indien een krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=7&z=2020-01-01&g=2020-01-01), verschuldigde vergoeding niet binnen 30 dagen na heffing is voldaan en evenmin gevolg is gegeven aan de aanmaning van Onze Minister, gedaan na afloop van die termijn, om alsnog binnen acht dagen te betalen.
 
 ##### Artikel 8e
 
@@ -853,7 +853,7 @@ Een ontheffing wordt ingetrokken:
 
 ##### Artikel 8f
 
-1. Degene wiens ontheffing wordt ingetrokken ontdoet zich van de middelen waarop de ontheffing betrekking heeft, gedurende het tijdvak, gelegen tussen de mededeling van de intrekking en de laatste dag waarop de ontheffing geldt. Hij ontdoet zich van die middelen hetzij door vernietiging, hetzij door overdracht aan personen, rechtspersonen daaronder begrepen, die bevoegd zijn tot het verrichten van handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2019-07-19&g=2019-07-19) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2019-07-19&g=2019-07-19).
+1. Degene wiens ontheffing wordt ingetrokken ontdoet zich van de middelen waarop de ontheffing betrekking heeft, gedurende het tijdvak, gelegen tussen de mededeling van de intrekking en de laatste dag waarop de ontheffing geldt. Hij ontdoet zich van die middelen hetzij door vernietiging, hetzij door overdracht aan personen, rechtspersonen daaronder begrepen, die bevoegd zijn tot het verrichten van handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2020-01-01&g=2020-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2020-01-01&g=2020-01-01).
 
 2. In afwijking van het eerste lid, ontdoet de houder van een ontheffing voor de teelt van hennep zich van de middelen waarop de ontheffing betrekking heeft, hetzij door vernietiging van die middelen, hetzij door overdracht daarvan aan Onze Minister.
 
@@ -877,9 +877,9 @@ Onze Minister draagt ervoor zorg dat:
 
 ##### Artikel 8i
 
-1. Onze Minister verleent niet meer ontheffingen van het verbod tot teelt van hennep dan nodig is voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2019-07-19&g=2019-07-19) bedoelde doeleinden en voor de veredeling van hennep.
+1. Onze Minister verleent niet meer ontheffingen van het verbod tot teelt van hennep dan nodig is voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2020-01-01&g=2020-01-01) bedoelde doeleinden en voor de veredeling van hennep.
 
-2. Een ontheffing van het verbod op het telen van hennep dan wel tot het verwerken, bewerken of vervoeren van hennep, hasjiesj en hennepolie voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2019-07-19&g=2019-07-19) genoemde doeleinden, wordt slechts verleend aan degene met wie Onze Minister ter zake een overeenkomst tot het verrichten van zodanige handelingen aangaat.
+2. Een ontheffing van het verbod op het telen van hennep dan wel tot het verwerken, bewerken of vervoeren van hennep, hasjiesj en hennepolie voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2020-01-01&g=2020-01-01) genoemde doeleinden, wordt slechts verleend aan degene met wie Onze Minister ter zake een overeenkomst tot het verrichten van zodanige handelingen aangaat.
 
 3. Een overeenkomst als bedoeld in het tweede lid eindigt van rechtswege met ingang van de datum waarop de aan de wederpartij verleende ontheffing wordt ingetrokken of vervalt.
 
@@ -893,7 +893,7 @@ Onze Minister draagt ervoor zorg dat:
 
 - c. aanwezig te hebben, met uitzondering van de voorraden die worden beheerd door degenen die ontheffing hebben deze middelen te telen, te bewerken of te verwerken.
 
-6. Het vijfde lid is niet van toepassing voor zover toepassingen van hennep, hasjiesj of hennepolie krachtens [artikel 3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2019-07-19&g=2019-07-19), zijn aangewezen.
+6. Het vijfde lid is niet van toepassing voor zover toepassingen van hennep, hasjiesj of hennepolie krachtens [artikel 3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2020-01-01&g=2020-01-01), zijn aangewezen.
 
 ##### Artikel 8j
 
@@ -901,7 +901,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ##### Artikel 8k
 
-Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 142, eerste lid, aanhef en onder a en b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), belast de ambtenaren, bedoeld in [artikel 8j](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8j&z=2019-07-19&g=2019-07-19), en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 142, eerste lid, aanhef en onder a en b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), belast de ambtenaren, bedoeld in [artikel 8j](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8j&z=2020-01-01&g=2020-01-01), en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
 
 ## Lijst I
 
@@ -1342,7 +1342,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 11a
 
-Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in [artikel 11, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste drie jaar of geldboete van de vijfde categorie.
+Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in [artikel 11, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste drie jaar of geldboete van de vijfde categorie.
 
 ## Lijst I
 
@@ -1540,7 +1540,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 9a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2019-07-19&g=2019-07-19), [4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2019-07-19&g=2019-07-19), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2019-07-19&g=2019-07-19).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2020-01-01&g=2020-01-01), [4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2020-01-01&g=2020-01-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2020-01-01&g=2020-01-01).
 
 ## Lijst I
 
@@ -1750,9 +1750,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 11b
 
-1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in [artikel 10, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2019-07-19&g=2019-07-19), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2019-07-19&g=2019-07-19), [11, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2019-07-19&g=2019-07-19), of [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2019-07-19&g=2019-07-19), wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
+1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in [artikel 10, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2020-01-01&g=2020-01-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2020-01-01&g=2020-01-01), [11, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2020-01-01&g=2020-01-01), of [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11a&z=2020-01-01&g=2020-01-01), wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-2. [Artikel 140, derde en vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140) is van overeenkomstige toepassing.
+2. [Artikel 140, vierde en vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140) is van overeenkomstige toepassing.
 
 ## Lijst I
 
@@ -1977,7 +1977,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 6a
 
-Onze Minister kan machtiging verlenen aan een bestuursorgaan tot afgifte op aanvraag van een schriftelijke verklaring inhoudende dat de aanvrager uitsluitend ten behoeve van zijn eigen geneeskundig gebruik een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2019-07-19&g=2019-07-19) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2019-07-19&g=2019-07-19) mag vervoeren of aanwezig hebben.
+Onze Minister kan machtiging verlenen aan een bestuursorgaan tot afgifte op aanvraag van een schriftelijke verklaring inhoudende dat de aanvrager uitsluitend ten behoeve van zijn eigen geneeskundig gebruik een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2020-01-01&g=2020-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2020-01-01&g=2020-01-01) mag vervoeren of aanwezig hebben.
 
 ## Lijst I
 
