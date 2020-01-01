@@ -4,7 +4,7 @@ identifier: "BWBR0040908"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040908"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel III
 
-Wijzigt het Wetboek van Strafrecht.
+Vervallen
 
 ##### Artikel IV
 
@@ -61,7 +61,7 @@ Wijzigt de Wet schadefonds geweldsmisdrijven.
 
 ##### Artikel IVa
 
-[Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0040908&artikel=IV&z=2019-01-01&g=2019-01-01) is van toepassing indien het geweldsmisdrijf, bedoeld in [artikel 3, eerste lid, onderdelen a en b, van de Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3), is gepleegd na inwerkingtreding van deze wet.
+[Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0040908&artikel=IV&z=2020-01-01&g=2020-01-01) is van toepassing indien het geweldsmisdrijf, bedoeld in [artikel 3, eerste lid, onderdelen a en b, van de Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3), is gepleegd na inwerkingtreding van deze wet.
 
 ##### Artikel IVb
 
