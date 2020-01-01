@@ -177,9 +177,3 @@ Wijzigt de Wet opslag duurzame energie- en klimaattransitie.
 Deze wet wordt aangehaald als: Wet fiscale maatregelen Klimaatakkoord.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XIa
-
-[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=X&z=2021-01-01&g=2021-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XI&z=2021-01-01&g=2021-01-01) opgenomen verhogingen van de accijns.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
