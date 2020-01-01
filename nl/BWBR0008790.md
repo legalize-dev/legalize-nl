@@ -4,7 +4,7 @@ identifier: "BWBR0008790"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "1998-01-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008790"
 soort: "AMvB"
@@ -56,7 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: de Minister van Binnenlandse Zaken;
 
-- b. ondernemer: een rechtspersoon die een onderneming in stand houdt waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht;
+- b. ondernemer: een rechtspersoon die:
+
+- –. een onderneming in stand houdt waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht, of;
+
+- –. overheidswerkgever is;
 
 - c. overheidswerkgever: de overheidswerkgever, bedoeld in [artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=1);
 
@@ -70,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Ter bevordering van de scholing en vorming van ondernemingsraadsleden bij de overheid legt Onze Minister aan ondernemers die op grond van het bepaalde bij of krachtens de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) verplicht zijn om een ondernemingsraad in te stellen, een heffing op ten bedrage van een door Onze Minister vast te stellen percentage van de heffingsgrondslag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=3&z=1998-01-28&g=1998-01-28).
+Ter bevordering van de scholing en vorming van ondernemingsraadsleden bij de overheid legt Onze Minister aan ondernemers die op grond van het bepaalde bij of krachtens de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) verplicht zijn om een ondernemingsraad in te stellen, een heffing op ten bedrage van een door Onze Minister vast te stellen percentage van de heffingsgrondslag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 3
 
@@ -86,9 +90,9 @@ Ter uitvoering van de inning maakt het Lisv, overeenkomstig artikel 41 van de Or
 
 1. De uitvoeringsinstelling int de heffing bij de overheidswerkgevers voor wier personeel op grond van het bepaalde bij of krachtens de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) een ondernemingsraad moet worden ingesteld.
 
-2. Ter inning van de heffing zendt de uitvoeringsinstelling de desbetreffende overheidswerkgevers zo spoedig mogelijk na de aanvang van het kalenderjaar een heffingsaanslag waarin mede zijn aangegeven de grond van de heffing en de hoogte van het percentage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=2&z=1998-01-28&g=1998-01-28).
+2. Ter inning van de heffing zendt de uitvoeringsinstelling de desbetreffende overheidswerkgevers zo spoedig mogelijk na de aanvang van het kalenderjaar een heffingsaanslag waarin mede zijn aangegeven de grond van de heffing en de hoogte van het percentage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01).
 
-3. De uitvoeringsinstelling stelt de verschuldigde heffing vast op basis van de door de betrokken overheidswerkgever schriftelijk aangegeven heffingsgrondslag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=3&z=1998-01-28&g=1998-01-28). Na afloop van het kalenderjaar vindt een afrekening plaats op basis van het definitief vastgestelde loon.
+3. De uitvoeringsinstelling stelt de verschuldigde heffing vast op basis van de door de betrokken overheidswerkgever schriftelijk aangegeven heffingsgrondslag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01). Na afloop van het kalenderjaar vindt een afrekening plaats op basis van het definitief vastgestelde loon.
 
 ##### Artikel 6
 
@@ -96,7 +100,7 @@ Ter uitvoering van de inning maakt het Lisv, overeenkomstig artikel 41 van de Or
 
 2. De uitvoeringsinstelling draagt de ontvangen heffingen maandelijks, zo spoedig mogelijk na ontvangst, af aan de Raad. Ten aanzien van de aan de Raad afgedragen heffingen is [artikel 46b van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46b) van overeenkomstige toepassing.
 
-3. Na het verstrijken van elk kalenderjaar legt de uitvoeringsinstelling aan Onze Minister een door een registeraccountant gewaarmerkte rekening en verantwoording over. Deze gewaarmerkte rekening en verantwoording bevat ten minste een opgave van de in het desbetreffende kalenderjaar verzonden heffingsaanslagen, van de ontvangen en afgedragen heffingen, alsmede van de afrekeningen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=3&artikel=5&z=1998-01-28&g=1998-01-28).
+3. Na het verstrijken van elk kalenderjaar legt de uitvoeringsinstelling aan Onze Minister een door een registeraccountant gewaarmerkte rekening en verantwoording over. Deze gewaarmerkte rekening en verantwoording bevat ten minste een opgave van de in het desbetreffende kalenderjaar verzonden heffingsaanslagen, van de ontvangen en afgedragen heffingen, alsmede van de afrekeningen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01).
 
 #### § 4. Vergoedingen
 
@@ -120,7 +124,7 @@ Heffingen die overheidswerkgevers ingevolge het Besluit heffing scholing en vorm
 
 ##### Artikel 11
 
-Na de inwerkingtreding van dit besluit berust de Regeling vaststelling heffingspercentage scholing en vorming OR-leden bij de overheid 1997 op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=2&z=1998-01-28&g=1998-01-28) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de Regeling vaststelling heffingspercentage scholing en vorming OR-leden bij de overheid 1997 op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008790&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) van dit besluit.
 
 ##### Artikel 12
 
