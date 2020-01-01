@@ -4,7 +4,7 @@ identifier: "BWBR0012270"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-11"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012270"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ De leden van de permanente commissies ontvangen een vergoeding van € 235 per v
 
 ##### Artikel 5
 
-De leden van de Adviesraad internationale vraagstukken die niet op grond van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2019-01-01&g=2019-01-01) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=2&z=2019-01-01&g=2019-01-01) voor een vergoeding in aanmerking komen, ontvangen een vaste vergoeding overeenkomstig schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) met inachtneming van een deeltijdfactor van 0,09.
+De leden van de Adviesraad internationale vraagstukken die niet op grond van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2023-02-11&g=2020-01-01) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=2&z=2023-02-11&g=2020-01-01) voor een vergoeding in aanmerking komen, ontvangen een vaste vergoeding overeenkomstig schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) met inachtneming van een deeltijdfactor van 0,09.
 
 ##### Artikel 6
 
-In afwijking van de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2019-01-01&g=2019-01-01), bedraagt de hoogte van de vergoedingen, bedoeld in deze artikelen, voor het jaar 1998 € 20.420,11, € 9075,60, € 181,51 onderscheidenlijk € 90,76. De vergoedingen voor de jaren 1999 en 2000 worden vastgesteld door de vergoedingen van het daaraan voorafgaande jaar te verhogen met het door de Minister van Financiën vastgestelde inflatie-indexcijfer van het jaar waarop de vergoeding betrekking heeft.
+In afwijking van de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2023-02-11&g=2020-01-01), bedraagt de hoogte van de vergoedingen, bedoeld in deze artikelen, voor het jaar 1998 € 20.420,11, € 9075,60, € 181,51 onderscheidenlijk € 90,76. De vergoedingen voor de jaren 1999 en 2000 worden vastgesteld door de vergoedingen van het daaraan voorafgaande jaar te verhogen met het door de Minister van Financiën vastgestelde inflatie-indexcijfer van het jaar waarop de vergoeding betrekking heeft.
 
 ##### Artikel 7
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2019-01-01&g=2019-01-01) werken terug tot en met 1 januari 2001. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=6&z=2019-01-01&g=2019-01-01) werkt terug tot en met 1 januari 1998.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=1&z=2023-02-11&g=2020-01-01) werken terug tot en met 1 januari 2001. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012270&artikel=6&z=2023-02-11&g=2020-01-01) werkt terug tot en met 1 januari 1998.
 
 ##### Artikel 8
 
