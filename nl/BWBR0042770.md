@@ -4,7 +4,7 @@ identifier: "BWBR0042770"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042770"
 soort: "wet"
@@ -41,15 +41,15 @@ entry_into_force: "2020-01-01"
 
 Wijzigt de Wet op het kindgebonden budget.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ia
 
 Van de erfbelasting, bedoeld in de [Successiewet 1956](onbekend), is vrijgesteld hetgeen wordt verkregen aan aanspraken op een kindgebonden budget als bedoeld in [artikel 1, eerste lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) over de berekeningsjaren 2013 tot en met 2017.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. [Artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0042770&artikel=Ia&z=2020-01-01&g=2020-01-01) werkt terug tot en met 1 januari 2013 en geldt uitsluitend voor erfgenamen die vóór 1 september 2019 op grond van de [Successiewet 1956](onbekend) aangifte hebben gedaan.
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
