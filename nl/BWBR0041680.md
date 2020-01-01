@@ -4,7 +4,7 @@ identifier: "BWBR0041680"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041680"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In aanvulling op [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/
 
 ##### Artikel 3. Cliëntenonderzoek
 
-[Artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=27) is van overeenkomstige toepassing op het cliëntenonderzoek bij de trustdienst, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01).
+[Artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=27) is van overeenkomstige toepassing op het cliëntenonderzoek bij de trustdienst, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01).
 
 #### § 3. Nadere regels betrouwbaarheid
 
@@ -74,7 +74,7 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 ##### Artikel 5. Antecedenten
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01), in ieder geval in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01), in ieder geval in aanmerking:
 
 - a. de in de onderdelen 1 en 2 van de bijlage genoemde strafrechtelijke antecedenten;
 
@@ -88,7 +88,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 ##### Artikel 6. Inlichtingen
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -106,7 +106,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde persoon betrokken is geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde persoon betrokken is geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -132,7 +132,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://
 
 - d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van de bijlage, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
 
-2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=8&z=2019-01-01&g=2019-01-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
+2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
 ##### Artikel 8. Te betrekken belangen
 
@@ -244,9 +244,9 @@ Een trustkantoor beschikt over een actueel procedurehandboek dat voorziet in:
 
 - 3°. procedures met betrekking tot omgang met incidenten, waaronder de wijze van afhandeling en de administratieve vastlegging van incidenten zodanig dat wordt voldaan aan [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=20);
 
-- 4°. de functiescheiding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=5&artikel=19&z=2019-01-01&g=2019-01-01);
+- 4°. de functiescheiding, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=5&artikel=19&z=2020-01-01&g=2020-01-01);
 
-- 5°. integriteitgevoelige functies als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=4&artikel=12&z=2019-01-01&g=2019-01-01);
+- 5°. integriteitgevoelige functies als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=4&artikel=12&z=2020-01-01&g=2020-01-01);
 
 - b. procedures omtrent de naleving van de [Wet ter voorkoming van witwassen en het financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
@@ -346,7 +346,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit toezicht trustkantoren 2018
 
-## Bijlage behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01)
+## Bijlage behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01)
 
 ### 1. Strafrechtelijke antecedenten
 
@@ -354,7 +354,7 @@ Dit besluit wordt aangehaald als: Besluit toezicht trustkantoren 2018
 
 Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2019-01-01&g=2019-01-01)
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01)
 
 ### 2.1. Veroordelingen
 
@@ -382,39 +382,43 @@ Buitenlandse strafbepalingen
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-### 2.2. Transacties
+### 2.2. Strafbeschikkingen
 
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), [artikel 76 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.
+Tegen betrokkene is een strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15) uitgevaardigd ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder strafbeschikkingen wordt ook verstaan een daarmee vergelijkbare buitengerechtelijke afdoening ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, opgelegd door een daartoe bevoegde autoriteit.
 
-### 2.3. (voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
+### 2.3. Transacties
 
-Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit.
 
 Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
 ### 2.4. Andere feiten of omstandigheden
 
-Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+### 2.5. Andere feiten of omstandigheden
+
+### 3.1. Persoonlijk
 
 ### 3. Financiële antecedenten als bedoeld in artikel 6, onderdeel b
 
 ### 3.1. Persoonlijk
 
-### 3.2. Zakelijk
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### 3.3. Andere feiten of omstandigheden
 
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2019-01-01&g=2019-01-01)
-
 ### 4.1. Toezichtantecedenten
 
-### 4.2. Andere feiten of omstandigheden
+### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01)
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2019-01-01&g=2019-01-01)
+### 4.2. Andere feiten of omstandigheden
+
+### 5.1. Persoonlijk
+
+Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
 ### 5.1. Persoonlijk
 
@@ -426,8 +430,26 @@ Aan de huidige of één van de voormalige werkgevers of enige vennootschap of re
 
 ### 5.3. Andere feiten of omstandigheden
 
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### 2.4. (voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
+
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
+
+Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
+
+### 3.2. Zakelijk
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 4.1. Toezichtantecedenten
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01)
+
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2019-01-01&g=2019-01-01)
+### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0041680&paragraaf=3&artikel=6&z=2020-01-01&g=2020-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
