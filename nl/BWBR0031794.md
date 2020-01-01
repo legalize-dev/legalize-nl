@@ -4,7 +4,7 @@ identifier: "BWBR0031794"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031794"
 soort: "wet"
@@ -53,7 +53,7 @@ Met ingang van het tijdstip van inwerkingtreding van deze wet zijn de korpsbehee
 
 1. Het personeel van de regio’s, van het Korps landelijke politiediensten en van de voorziening tot samenwerking Politie Nederland gaat op de datum van inwerkingtreding van deze wet over in dienst van de politie op dezelfde voet en ook overigens in dezelfde rechtstoestand als waarin het op de dag, voorafgaand aan die datum, werkzaam was.
 
-2. Op de datum van inwerkingtreding van [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) blijft voor de vervulling van en benoeming in de functies, genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=A&z=2013-01-01&g=2013-01-01) van deze wet, [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b) buiten toepassing. [Artikel 3 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) is hierop niet van toepassing.
+2. Op de datum van inwerkingtreding van [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) blijft voor de vervulling van en benoeming in de functies, genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=A&z=2020-01-01&g=2020-01-01) van deze wet, [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b) buiten toepassing. [Artikel 3 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) is hierop niet van toepassing.
 
 ##### Artikel 3
 
@@ -85,9 +85,9 @@ Met ingang van het tijdstip van inwerkingtreding van deze wet zijn de korpsbehee
 
 ##### Artikel 7
 
-1. Na inwerkingtreding van deze wet berusten de algemene maatregelen van bestuur, genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=B&z=2013-01-01&g=2013-01-01) van deze wet, voor zover deze berustten op de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), op de in deze bijlage genoemde artikelen van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
+1. Na inwerkingtreding van deze wet berusten de algemene maatregelen van bestuur, genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=B&z=2020-01-01&g=2020-01-01) van deze wet, voor zover deze berustten op de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), op de in deze bijlage genoemde artikelen van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
 
-2. Na inwerkingtreding van deze wet berusten de ministeriële regelingen, genoemd in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=C&z=2013-01-01&g=2013-01-01) van deze wet, voor zover deze berustten op de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), op de in deze bijlage genoemde artikelen van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
+2. Na inwerkingtreding van deze wet berusten de ministeriële regelingen, genoemd in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=C&z=2020-01-01&g=2020-01-01) van deze wet, voor zover deze berustten op de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), op de in deze bijlage genoemde artikelen van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
 
 3. Na inwerkingtreding van deze wet berusten de krachtens [artikel 8, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8) genomen besluiten van Onze Minister van Veiligheid en Justitie op [artikel 7, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7).
 
@@ -309,9 +309,7 @@ Wijzigt de Politiewet 2012.
 
 ##### Artikel 51
 
-1. Wijzigt de Politiewet 2012.
-
-2. Wijzigt de Wet normalisering rechtspositie ambtenaren.
+Vervallen
 
 #### § 4. Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -373,7 +371,7 @@ Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
 ##### Artikel 63
 
-Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
+Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -403,7 +401,7 @@ Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Politiewet 2012.
 
 Voor het tijdstip van plaatsing in het Staatsblad vervangt Onze Minister van Veiligheid en Justitie de in deze wet voorkomende aanduiding «201X» door het jaartal van het Staatsblad, waarin het bij koninklijke boodschap van 21 november 2006 ingediende voorstel van wet houdende vaststelling van een nieuwe Politiewet ([Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)) (30 880), na tot wet te zijn verheven, is geplaatst.
 
-## Bijlage A. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
+## Bijlage A. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
 
 - –. korpschef;
 
@@ -447,7 +445,7 @@ Voor het tijdstip van plaatsing in het Staatsblad vervangt Onze Minister van Vei
 
 - –. hoofd dienst speciale interventie.
 
-## Bijlage B. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=7&z=2013-01-01&g=2013-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
+## Bijlage B. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
 
 | **Naam algemene maatregel van bestuur** | **Grondslag in de Politiewet 2012** |
 | --- | --- |
@@ -466,7 +464,7 @@ Voor het tijdstip van plaatsing in het Staatsblad vervangt Onze Minister van Vei
 | [Besluit suppletieregeling gedeeltelijk arbeidsongeschikten sector politie](https://wetten.overheid.nl/jci1.3:c:BWBR0008099) | Artikel 47, eerste lid |
 | [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149) | Artikel 47, eerste lid |
 
-## Bijlage C. als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=7&z=2013-01-01&g=2013-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
+## Bijlage C. als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), van de Invoerings- en aanpassingswet Politiewet 2012
 
 | **Naam regeling** | **Grondslag in de Politiewet 2012** | **Grondslag in de Politiewet 2012** |
 | --- | --- | --- |
