@@ -4,7 +4,7 @@ identifier: "BWBR0032707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2019-04-27"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032707"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - c. bevindingen ten aanzien van de antwoorden van de notaris op relevante toezichtvragen betreffende de notarisorganisatie;
 
-- d. bevindingen ten aanzien van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=8&z=2019-04-27&g=2019-04-27) bedoelde melding aan het Bureau.
+- d. bevindingen ten aanzien van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=8&z=2020-01-01&g=2020-01-01) bedoelde melding aan het Bureau.
 
 5. De notaris levert de kwartaalcijfers aan het Bureau binnen de door het Bureau gestelde termijn. De kwartaalcijfers omvatten de balans en cumulatief de staat van baten en lasten (winst- en verliesrekening) van de notarisorganisatie.
 
@@ -106,7 +106,7 @@ De eventuele kosten in verband met de renteberekening dan wel het beheer en de b
 
 ##### Artikel 7
 
-In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=4&z=2019-04-27&g=2019-04-27) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=5&z=2019-04-27&g=2019-04-27) behoeft geen rente te worden vergoed in de volgende gevallen:
+In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=4&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=5&z=2020-01-01&g=2020-01-01) behoeft geen rente te worden vergoed in de volgende gevallen:
 
 - a. bij kortlopende transacties in geval van rente op tegoeden die maximaal vijf werkdagen onder het beheer van de notaris hebben gestaan;
 
@@ -120,7 +120,7 @@ Als zich een gebeurtenis voordoet die mogelijk aanmerkelijke nadelige gevolgen v
 
 ##### Artikel 9
 
-Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=8&z=2019-04-27&g=2019-04-27) van deze regeling worden aangemerkt:
+Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=8&z=2020-01-01&g=2020-01-01) van deze regeling worden aangemerkt:
 
 - 1. Wijzigingen in de notarisorganisatie met gevolgen voor de continuïteit.
 
@@ -152,9 +152,9 @@ Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 10
 
-1. Naast de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2019-04-27&g=2019-04-27) omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een de notarisorganisatie en/of de notaris privé kunnen hebben, aan het Bureau melden.
+1. Naast de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een de notarisorganisatie en/of de notaris privé kunnen hebben, aan het Bureau melden.
 
-2. Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2019-04-27&g=2019-04-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=10&z=2019-04-27&g=2019-04-27) eerste lid, melden aan het Bureau.
+2. Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=10&z=2020-01-01&g=2020-01-01) eerste lid, melden aan het Bureau.
 
 #### Wijze van indiening gegevens en doen van meldingen aan het Bureau ([artikel 24, vierde en vijfde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24))
 
@@ -172,7 +172,7 @@ De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per v
 
 ##### Artikel 13
 
-1. Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. Aan de voorzitter van de Commissie wordt per vergadering een vergoeding toegekend van 130% van het bedrag, bedoeld in het vorige lid.
 
