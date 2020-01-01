@@ -4,7 +4,7 @@ identifier: "BWBR0022516"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2007-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022516"
 soort: "AMvB"
@@ -57,5 +57,11 @@ Met betrekking tot de betrokkene wiens eerste dag van ongeschiktheid tot het ver
 ##### Artikel III. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel IIa. Omhangbepaling
+
+Dit besluit berust op [artikel X van de Wet tot wijziging van enige wetten in verband met de normalisering van de rechtspositie van ambtenaren in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0042739&artikel=X).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
