@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid vo
 
 - b. een honorarium voor het examen typebevoegdheden, bestaande uit € 400 per voorbereiding van een type-examen en € 25 per uur voor het afnemen van het examen;
 
-- c. een vergoeding volgens het Reisbesluit binnenland voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie.
+- c. een vergoeding volgens hetgeen daarover overeengekomen is in de laatste afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie.
 
 3. Het eerste lid is niet van toepassing op de examinator die rijksambtenaar is en de betreffende werkzaamheden verricht tijdens diensttijd.
 
@@ -90,9 +90,9 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 7
 
-1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), of het examenreglement.
+1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), of het examenreglement.
 
-2. De benoeming tot examinator kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), of het examenreglement.
+2. De benoeming tot examinator kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), of het examenreglement.
 
 ### Hoofdstuk 4. Examenreglement
 
@@ -102,13 +102,13 @@ Vervallen
 
 ##### Artikel 9
 
-1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2016-07-01&g=2016-07-01).
+1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2020-01-01&g=2020-01-01).
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2016-07-01&g=2016-07-01) | tabel 2 |
-| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2016-07-01&g=2016-07-01) | tabel 2 |
-| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2016-07-01&g=2016-07-01) | tabel 2 |
+| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2020-01-01&g=2020-01-01) | tabel 2 |
+| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2020-01-01&g=2020-01-01) | tabel 2 |
+| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2020-01-01&g=2020-01-01) | tabel 2 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- |
@@ -171,7 +171,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2016-07-01&g=2016-07-01) van deze regeling.
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2020-01-01&g=2020-01-01) van deze regeling.
 
 2. De minister wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
@@ -179,7 +179,7 @@ Vervallen
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De minister kan een andere examinator voor de beoordeling van het examenresultaat aanwijzen.
 
-2. De uitslag van het examen wordt namens de minister vastgesteld door de beoordelende examinator. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2016-07-01&g=2016-07-01), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de minister vastgesteld door de beoordelende examinator. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2020-01-01&g=2020-01-01), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
