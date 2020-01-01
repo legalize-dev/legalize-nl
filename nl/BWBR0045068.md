@@ -1,0 +1,150 @@
+---
+title: "Omzetbelasting. Toelichting snelle oplossingen btw"
+identifier: "BWBR0045068"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-11"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045068"
+soort: "beleidsregel"
+stam_id: "15937813"
+version_id: "27727582"
+internal_id: "C39112501"
+label_id: "15872684"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045068/2024-10-11/0"
+intitule_bron: "Stcrt.2021-19872"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-13"
+intitule_published: "2021-04-22"
+intitule_in_force: "2021-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-19872"
+original_signed_date: "2021-04-13"
+original_published_date: "2021-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-19872"
+entry_into_force_date: "2021-04-23"
+jci_1_3: "jci1.3:c:BWBR0045068&z=2024-10-11&g=2024-10-11"
+jci_1_0: "1.0:c:BWBR0045068&g=2024-10-11"
+citeertitel_status: "redactioneel"
+signed_date: "2021-04-13"
+entry_into_force: "2021-04-23"
+---
+# Omzetbelasting. Toelichting snelle oplossingen btw
+
+**De Staatssecretaris van Financiën heeft het volgende besloten.**
+
+**Dit besluit vervangt het besluit van 8 december 2020, nr. 2020-25514 Omzetbelasting. Toelichting snelle oplossingen btw, (** **Stcrt. 2020, nr. 62979** **). De wijziging heeft betrekking op onderdeel 4 (Regeling inzake voorraad op afroep). Aan onderdeel 4 wordt onderdeel 4.4. toegevoegd. In onderdeel 4.4 wordt nader ingegaan op de toepassing van de regeling voorraad op afroep na de Brexit.**
+
+### 1. Inleiding
+
+Op 1 januari 2020 zijn de zogenoemde ‘snelle oplossingen’ of ‘quick fixes’ voor de btw in werking getreden. Dit zijn regels die het handelsverkeer tussen lidstaten harmoniseren en vereenvoudigen. De Europese Commissie heeft in december 2019 een toelichting1Toelichting over de btw-wijzigingen in de EU met betrekking tot de regeling inzake voorraad op afroep, ketentransacties en de vrijstelling voor intracommunautaire leveringen van goederen (“snelle oplossingen van 2020”), december 2019. gegeven op de snelle oplossingen (zogenoemde explanatory notes quick fixes). In dit besluit wordt aangegeven in hoeverre deze toelichting wordt gevolgd en in welk opzicht daarvan wordt afgeweken. Verder wordt in onderdeel 4.4 aangegeven hoe de regeling inzake voorraad op afroep na de Brexit wordt toegepast door in Nederland gevestigde ondernemers. In onderdeel 4.4 zijn verschillende situaties beschreven die zich in dit verband kunnen voordoen. Per situatie worden de gevolgen van de Brexit beschreven en hoe met deze gevolgen moet worden omgegaan.
+
+### 1.1. Gebruikte begrippen en afkortingen
+
+### 2. Juridisch kader
+
+De snelle oplossingen zijn op 1 januari 2020 grotendeels2Artikel 5c, lid 4, van [Richtlijn 2018/1910](32018L1910) treedt in werking bij de implementatie van de btw-richtlijnen elektronische handel (richtlijn (EU) 2017/2455, [richtlijn 2009/132/EG](32009L0132) en richtlijn (EU) 2019/1955. in werking getreden. Ze zijn opgenomen in de artikelen 17 bis, 36 bis, 138, 243 en 262 van de richtlijn en in de artikelen 45 bis en 54 bis van de uitvoeringsverordening. De uitvoeringsverordening heeft rechtstreekse werking en behoeft daarom niet te worden omgezet in nationale wetgeving. De bepalingen uit de richtlijn zijn geïmplementeerd in de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5c), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34) en [37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a) en [artikel 12 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12).
+
+### 3. Toelichting
+
+De Toelichting vormt een door de Europese Commissie opgestelde praktische en informele leidraad voor de toepassing van de snelle oplossingen voor de btw. De Toelichting is op 1 januari 2020 in werking getreden en geldt ook vanaf die datum als beleid met inachtneming van het hierna volgende. Ik onderschrijf de Toelichting op enkele onderdelen na. De niet door mij onderschreven onderdelen worden hierna toegelicht. Verder wordt ten aanzien van één onderdeel (vermelden retourzendingen in de opgaaf ICP) aangegeven dat de ondernemer ervoor kan kiezen de Toelichting te volgen. Daarnaast geef ik met betrekking tot één onderdeel van de Toelichting (de vervangende afnemer) een verduidelijking.
+
+### 4. Regeling inzake voorraad op afroep
+
+De overbrenging door een ondernemer van eigen goederen van zijn bedrijf naar een andere lidstaat wordt op grond van [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3a) gelijkgesteld met de levering van goederen onder bezwarende titel als bedoeld in [artikel 1, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1). Deze ondernemer wordt geacht een intracommunautaire levering te verrichten op het moment van de overbrenging van de goederen en verricht gelijktijdig een intracommunautaire verwerving in die andere lidstaat (lidstaat van bestemming) overeenkomstig de aldaar geldende btw-regelgeving. In dat geval moet deze ondernemer zich registreren in de lidstaat van bestemming. In [artikel 3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b) wordt bepaald dat de overbrenging van eigen goederen naar een andere lidstaat niet wordt behandeld als een levering van goederen onder bezwarende titel als de overbrenging plaatsvindt in het kader van de regeling inzake voorraad op afroep. Onder deze regeling is pas sprake van een intracommunautaire levering door de leverancier in de lidstaat van vertrek en een intracommunautaire verwerving door de afnemer in de lidstaat van bestemming op het moment waarop het recht om als eigenaar over de goederen te beschikken wordt overgedragen aan de afnemer. Doordat de leverancier geen intracommunautaire verwerving hoeft aan te geven in de lidstaat van bestemming, kan registratie van de leverancier in die lidstaat achterwege blijven. De intracommunautaire levering is op grond van [artikel 9, tweede lid, onderdeel b, jo. tabel II, onderdeel a. post 6, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9) onderworpen aan het nultarief.
+
+### 4.1. Vermelden retourzendingen in de opgaaf ICP is facultatief
+
+In de Toelichting is een voorbeeld opgenomen van de situatie waarin goederen niet worden geleverd aan de beoogde afnemer en binnen 12 maanden retour worden gezonden naar de lidstaat van vertrek (onderdeel 2.3.4., pag. 19–20). Op grond van [artikel 3b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b) wordt in die situatie de overbrenging niet gelijkgesteld met een levering onder bezwarende titel als deze retourzending wordt opgenomen in het register, bedoeld in [artikel 34, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34). De Toelichting (onderdeel 2.3.4, pag. 19–20) schrijft voor dat de retourzendingen ook worden opgenomen in de opgaaf ICP. De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) eist dit niet van de ondernemer, maar de ondernemer kan uit praktische overwegingen ervoor kiezen om de retourzendingen naast vorenbedoeld register toch (ook) op te nemen in de opgaaf ICP (rubriek 5a). Hierdoor is het voor de ondernemer mogelijk om één handelwijze toe te passen voor alle lidstaten waar hij de regeling voorraad op afroep toepast of om te volstaan met de toepassing van software die hem dwingt tot het aanhouden van één handelwijze. De ondernemer is wel verplicht om in de opgaaf ICP de identiteit en het btw-identificatienummer van de afnemer3Zoals toegekend door de lidstaat van bestemming. en van diens eventuele vervanger op te nemen (op grond van [artikel 3b, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b), gelezen in samenhang met de artikelen 3b, tweede lid, onderdeel d en [37a, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a)).
+
+### 4.2. Entrepot (of magazijn) is geen vaste inrichting
+
+De regeling inzake voorraad op afroep kent een aantal voorwaarden. Zo mag de leverancier niet gevestigd zijn en ook geen vaste inrichting hebben in de lidstaat van bestemming ([artikel 3b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b)).
+
+In de Toelichting (onderdeel 2.5.1., pag. 28, punt 4) wordt gesteld dat een entrepot onder voorwaarden kwalificeert als vaste inrichting.4In de Nederlandse situatie is de term ‘entrepot’ voorbehouden aan de opslag van goederen die onder een douaneregime vallen. Gemeend wordt dat de term ‘entrepot’ in de Toelichting daarom met name ziet op een magazijn (Engels: warehouse). Een entrepot wordt volgens de Toelichting beschouwd als vaste inrichting van de leverancier, als de leverancier de eigenaar of huurder van het entrepot is en de leverancier het entrepot rechtstreeks beheert met eigen middelen waarover hij beschikt in de lidstaat waar het entrepot zich bevindt.
+
+Ik deel die opvatting niet zonder meer. Ook voor de toepassing van de regeling inzake voorraad op afroep kwalificeert een entrepot in Nederland alleen als een vaste inrichting als het entrepot een voldoende mate van duurzaamheid heeft en een – wat personeel en technische middelen betreft – geschikte structuur heeft om prestaties aan derden te verrichten (zie artikelen 11, lid 2 en 53 van de uitvoeringsverordening5Het in genoemde artikelen van de uitvoeringsverordening omschreven begrip ‘vaste inrichting’ is relevant voor de gehele btw-regelgeving.). Dit uitgangspunt geldt ook voor een voorraad op afroep die in Nederland wordt aangehouden door een buitenlandse ondernemer. Als het entrepot of de voorraad op afroep als zodanig niet als zo’n vaste inrichting is aan te merken, kan de regeling voorraad op afroep worden toegepast vanwege de afwezigheid van een vaste inrichting in Nederland. Dit geldt ook als de overbrenging eigen goederen door de leverancier in de lidstaat van vertrek als intracommunautaire levering wordt gelist, als in die lidstaat de regeling voorraad op afroep wordt geacht niet van toepassing te zijn.
+
+### 4.3. Vervangende afnemer
+
+In het kader van de regeling voorraad op afroep is het mogelijk om de afnemer te vervangen door een andere ondernemer. Hierbij moet worden voldaan aan de voorwaarden die zijn gesteld in [artikel 3b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b). Dit betekent onder meer dat ook moet worden voldaan aan alle (andere) voorwaarden die zijn genoemd in artikel 3b, tweede lid, van de wet. De hoedanigheid van de vervanger dient identiek te zijn aan die van de oorspronkelijke afnemer, met inbegrip van alle rechten en plichten die de leverancier en de oorspronkelijke afnemer overeen zijn gekomen in hun overeenkomst als bedoeld in artikel 3b, tweede lid, onderdeel a, van de wet.6Kamerstukken II 2019/2020, 35 307, nr. 3, blz. 13.
+
+Voor het bepalen of sprake is van ‘vervanging’ van de afnemer wordt de Toelichting gevolgd.7Het gaat dan om het gestelde op pagina 15–17 en 34–35 van de Toelichting (onderdelen 2.3.2., 2.5.12. en 2.5.14.). De vervangende afnemer hoeft niet al bekend te zijn op het tijdstip waarop de verzending of het vervoer van de goederen begint. Dit heeft tot gevolg dat op dat tijdstip ook nog geen overeenkomst hoeft te zijn afgesloten met de vervangende afnemer. Vereist is wel dat de leverancier de overeenkomst met de (door hem geïdentificeerde) vervangende afnemer sluit vóór of op het moment van beëindiging van de overeenkomst met de oorspronkelijke afnemer. Verder moet de vervangende afnemer uiterlijk op het moment van de vervanging voor btw-doeleinden geïdentificeerd zijn in de lidstaat van bestemming. Als de overeenkomst met de vervangende afnemer op een later moment wordt gesloten, vervalt de regeling inzake de voorraad op afroep op het moment waarop de oorspronkelijke overeenkomst wordt beëindigd. Het gevolg daarvan is dat op dat moment alsnog sprake is van een door de leverancier verrichte intracommunautaire levering in Nederland als lidstaat van vertrek en een door hem verrichte intracommunautaire verwerving in de lidstaat van bestemming overeenkomstig [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3a) en de geldende btw-regelgeving in de lidstaat van bestemming.
+
+### 4.4. Regeling inzake voorraad op afroep en de Brexit
+
+### 5. Regeling inzake ketentransacties
+
+De regeling inzake ketentransacties bepaalt aan welke van de opvolgende leveringen in de keten het intracommunautair vervoer of de intracommunautaire verzending moet worden toegerekend ([artikel 5c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5c)). Alleen deze levering wordt aangemerkt als de intracommunautaire levering. De overige leveringen binnen de keten (de leveringen vóór en na de intracommunautaire levering) zijn binnenlandse leveringen.13De leveringen in de keten voor de intracommunautaire levering vinden plaats in de lidstaat van aanvang van het intracommunautaire vervoer. De leveringen in de keten na de intracommunautaire levering vinden plaats in de lidstaat waar het intracommunautair vervoer eindigt.
+
+### 5.1. Vereenvoudigde A-B-C-levering
+
+De regeling inzake ketentransacties is niet van invloed op de werking van de vereenvoudigde A-B-C-levering, bedoeld in [artikel 37c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37c). Dit komt doordat beide regelingen betrekking hebbende op verschillende aspecten. De regeling inzake ketentransacties bepaalt aan welke levering in de keten het intracommunautaire vervoer wordt toegerekend, terwijl de vereenvoudigde A-B-C-levering betrekking heeft op het wegvallen van de verschuldigdheid van de btw voor de intracommunautaire verwerving door (tussen)schakel B.14Kamerstukken II 2019-2020, 35 307, nr. 3, blz. 16. Het gelijktijdig toepassen van de regeling inzake ketentransacties en de vereenvoudigde A-B-C-regeling is mogelijk als wordt voldaan aan de voorwaarden van beide regelingen. De regeling kan alleen worden toegepast op drie partijen in de keten die in drie verschillende lidstaten zijn geregistreerd en daarbij moet het vervoer plaatsvinden in het kader van de levering in de eerste schakel van de keten (A-B).15De vereenvoudigde A-B-C-levering kan dus niet worden toegepast als het vervoer op grond van artikel 5c, tweede lid, van de wet wordt toegerekend aan de levering van goederen door de tussenhandelaar.
+
+In de Toelichting zijn twee situaties geschetst. De eerste situatie opgenomen in 3.6.17.1 is gelijk aan voorbeeld 5 in de Memorie van Toelichting bij het wetsvoorstel over de toepassing van de regeling inzake ketentransacties in combinatie met de vereenvoudigde A-B-C-regeling.16Zie Kamerstukken II 2019-2020, 35 307, nr. 3, blz. 21. In bedoeld voorbeeld 5 vindt de vereenvoudigde A-B-C-regeling plaats tussen C-D-E en wordt voldaan aan de voor deze regeling geldende voorwaarden. In de tweede situatie die de Toelichting schetst (onderdeel 3.6.17.2), waar B aan C de intracommunautaire levering verricht vanuit lidstaat 2 naar lidstaat 5, wordt de vereenvoudigde A-B-C-regeling door een ruimere interpretatie feitelijk toepasbaar geacht op B-C-D-E. Ik deel deze opvatting niet. Een gelijktijdige toepassing van de regeling inzake ketentransacties en de vereenvoudigde A-B-C-levering kan alleen plaatsvinden in een keten op drie partijen uit de keten die voldoen aan de voorwaarden van de vereenvoudigde A-B-C-regeling. De in de Toelichting voorgestane bredere toepassing van de vereenvoudigde A-B-C-regeling vindt geen steun in artikel 141 van de richtlijn en evenmin in [artikel 37c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37c) (waarbij D moet zijn gevestigd in het land waar C intracommunautair verwerft). In de tweede situatie die in de Toelichting wordt beschreven zijn de reguliere btw-regels van toepassing. In deze tweede situatie moet de tussenhandelaar (C) zich dus in Nederland voor de btw laten registreren als Nederland de lidstaat van bestemming is en hier de btw ter zake van de intracommunautaire verwerving aangeven en voldoen.
+
+### 6. Bewijs intracommunautair(e) verzending of vervoer op basis van weerlegbaar vermoeden
+
+Eén van de voorwaarden voor de toepassing van het nultarief in verband met intracommunautaire leveringen van goederen op grond van [post a.6 van tabel II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), is dat de goederen vanuit Nederland naar een andere lidstaat zijn verzonden of vervoerd, waar de goederen zijn onderworpen aan de btw-heffing ter zake van de intracommunautaire verwerving van die goederen. In artikel 45 bis van de uitvoeringsverordening is voor intracommunautair(e) verzending of vervoer een weerlegbaar bewijsvermoeden opgenomen. Deze bepaling biedt een praktische regeling aan **naast** de bestaande Nederlandse praktijk voor het bewijs van intracommunautair(e) verzending of vervoer. Volgens artikel 45 bis van de uitvoeringsverordening is er sprake van een weerlegbaar bewijsvermoeden van dit intracommunautair vervoer of deze intracommunautaire verzending als twee niet-tegenstrijdige bewijsstukken17De bewijsstukken zijn opgenomen in artikel 45 bis, derde lid van de uitvoeringsverordening. kunnen worden overgelegd. Deze bewijsstukken moeten afkomstig zijn van partijen die zowel onafhankelijk zijn van elkaar als van de verkoper en de afnemer (artikel 45 bis van de uitvoeringsverordening). De inspecteur kan het bewijsvermoeden weerleggen.
+
+Volgens de Toelichting zijn partijen niet als onafhankelijk aan te merken in situaties waarin sprake is van vervoer verricht met eigen vervoermiddelen (onderdeel 5.3.5, blz. 80), vervoer door personeel van de ondernemer of vervoer door een onderdeel van een fiscale eenheid (onderdeel 5.3.1, kopje Document H enz., sub a, blz. 79). De regeling van het weerlegbare bewijsvermoeden laat echter onverlet dat in die gevallen aan de hand van boeken en bescheiden als bedoeld in [artikel 12 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12) het bewijs van de verzending of het vervoer naar de lidstaat van bestemming kan worden aangetoond.
+
+Als sprake is van partijen waartussen familiale of andere nauwe persoonlijke, bestuurlijke, eigendoms-, lidmaatschaps-, financiële of juridische banden bestaan als bedoeld in artikel 80 van de richtlijn, veronderstelt de Toelichting dat ook in die situaties geen sprake is van onafhankelijke partijen (onderdeel 5.3.1, kopje Document H enz., sub b, blz. 79). Ik volg deze opvatting niet. Of partijen met dergelijke banden voldoen aan het criterium ‘onafhankelijk’ van artikel 45 bis van de uitvoeringsverordening moet aan de hand van feiten en omstandigheden worden beoordeeld. Als aan de hand van feiten en omstandigheden blijkt dat in de bedoelde situatie sprake is van onafhankelijke partijen, kan de regeling van het weerlegbaar bewijsvermoeden aan de orde komen. Ook kan in deze situatie als alternatief voor de regeling van het weerlegbaar bewijsvermoeden het bewijs van het vervoer naar de lidstaat van bestemming worden aangetoond aan de hand van boeken en bescheiden als bedoeld in [artikel 12 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12).
+
+### 7. Ingetrokken regelingen
+
+Het besluit van 8 december 2020, nr. 2020-25514, Stcrt. 2020, nr. 62979, [Omzetbelasting. Toelichting snelle oplossingen btw,](https://wetten.overheid.nl/jci1.3:c:BWBR0044512) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.
+
+### 8. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt – met uitzondering van onderdeel 4.4 – terug tot en met 1 januari 2020. Onderdeel 4.4 werkt terug tot en met 1 januari 2021.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+In de 117e vergadering van het btw-comité (d.d. 16 november 2020) zijn de gevolgen besproken die de Brexit heeft voor de toepassing van de regeling inzake voorraad op afroep. Het gaat daarbij om goederen die onder toepassing van deze regeling uiterlijk op 31 december 20208Op 31 december 2020 is de overgangsperiode voor het VK geëindigd (zie artikel 126 van het Terugtrekkingsakkoord (Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (2019/C 284 I/01)). van Nederland naar het Verenigd Koninkrijk of vice versa zijn overgebracht en ná 31 december 2020 binnen de in [artikel 3b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b) bedoelde termijn worden geleverd of teruggezonden. Het overleg binnen het btw-comité heeft geresulteerd in de bijna unanieme vaststelling van guideline nr. taxud.c1 (2021) 1757771-1006. Nederland onderschrijft de guideline. Hierna wordt nader ingegaan op de inhoud van de guideline.
+
+Hierna wordt aangegeven welke gevolgen de Brexit voor de Nederlandse btw-verplichtingen heeft voor situaties die zich kunnen voordoen bij de hiervoor bedoelde voorraad op afroep-goederen en hoe daarmee moet worden omgegaan.
+
+### 5. Regeling inzake ketentransacties
+
+De regeling inzake ketentransacties bepaalt aan welke van de opvolgende leveringen in de keten het intracommunautair vervoer of de intracommunautaire verzending moet worden toegerekend ([artikel 5c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5c)). Alleen deze levering wordt aangemerkt als de intracommunautaire levering. De overige leveringen binnen de keten (de leveringen vóór en na de intracommunautaire levering) zijn binnenlandse leveringen.13De leveringen in de keten voor de intracommunautaire levering vinden plaats in de lidstaat van aanvang van het intracommunautaire vervoer. De leveringen in de keten na de intracommunautaire levering vinden plaats in de lidstaat waar het intracommunautair vervoer eindigt.
+
+### 5.1. Vereenvoudigde A-B-C-levering
+
+Volgens de Toelichting zijn partijen niet als onafhankelijk aan te merken in situaties waarin sprake is van vervoer verricht met eigen vervoermiddelen (onderdeel 5.3.5, blz. 80), vervoer door personeel van de ondernemer of vervoer door een onderdeel van een fiscale eenheid (onderdeel 5.3.1, kopje Document H enz., sub a, blz. 79). De regeling van het weerlegbare bewijsvermoeden laat echter onverlet dat in die gevallen aan de hand van boeken en bescheiden als bedoeld in [artikel 12 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12) het bewijs van de verzending of het vervoer naar de lidstaat van bestemming kan worden aangetoond.
+
+### 7. Ingetrokken regelingen
+
+Het besluit van 8 december 2020, nr. 2020-25514, Stcrt. 2020, nr. 62979, [Omzetbelasting. Toelichting snelle oplossingen btw,](https://wetten.overheid.nl/jci1.3:c:BWBR0044512) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.
+
+### 8. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt – met uitzondering van onderdeel 4.4 – terug tot en met 1 januari 2020. Onderdeel 4.4 werkt terug tot en met 1 januari 2021.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 4.2. Entrepot (of magazijn) is geen vaste inrichting
+
+In de Toelichting (onderdeel 2.5.1., pag. 28, punt 4) wordt gesteld dat een entrepot onder voorwaarden kwalificeert als vaste inrichting.4In de Nederlandse situatie is de term ‘entrepot’ voorbehouden aan de opslag van goederen die onder een douaneregime vallen. Gemeend wordt dat de term ‘entrepot’ in de Toelichting daarom met name ziet op een magazijn (Engels: warehouse). Een entrepot wordt volgens de Toelichting beschouwd als vaste inrichting van de leverancier, als de leverancier de eigenaar of huurder van het entrepot is en de leverancier het entrepot rechtstreeks beheert met eigen middelen waarover hij beschikt in de lidstaat waar het entrepot zich bevindt.
+
+### 4.3. Vervangende afnemer
+
+In het kader van de regeling voorraad op afroep is het mogelijk om de afnemer te vervangen door een andere ondernemer. Hierbij moet worden voldaan aan de voorwaarden die zijn gesteld in [artikel 3b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3b). Dit betekent onder meer dat ook moet worden voldaan aan alle (andere) voorwaarden die zijn genoemd in artikel 3b, tweede lid, van de wet. De hoedanigheid van de vervanger dient identiek te zijn aan die van de oorspronkelijke afnemer, met inbegrip van alle rechten en plichten die de leverancier en de oorspronkelijke afnemer overeen zijn gekomen in hun overeenkomst als bedoeld in artikel 3b, tweede lid, onderdeel a, van de wet.6Kamerstukken II 2019/2020, 35 307, nr. 3, blz. 13.
+
+### 4.4. Regeling inzake voorraad op afroep en de Brexit
+
+### 5.1. Vereenvoudigde A-B-C-levering
+
+De regeling inzake ketentransacties is niet van invloed op de werking van de vereenvoudigde A-B-C-levering, bedoeld in [artikel 37c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37c). Dit komt doordat beide regelingen betrekking hebbende op verschillende aspecten. De regeling inzake ketentransacties bepaalt aan welke levering in de keten het intracommunautaire vervoer wordt toegerekend, terwijl de vereenvoudigde A-B-C-levering betrekking heeft op het wegvallen van de verschuldigdheid van de btw voor de intracommunautaire verwerving door (tussen)schakel B.14Kamerstukken II 2019-2020, 35 307, nr. 3, blz. 16. Het gelijktijdig toepassen van de regeling inzake ketentransacties en de vereenvoudigde A-B-C-regeling is mogelijk als wordt voldaan aan de voorwaarden van beide regelingen. De regeling kan alleen worden toegepast op drie partijen in de keten die in drie verschillende lidstaten zijn geregistreerd en daarbij moet het vervoer plaatsvinden in het kader van de levering in de eerste schakel van de keten (A-B).15De vereenvoudigde A-B-C-levering kan dus niet worden toegepast als het vervoer op grond van artikel 5c, tweede lid, van de wet wordt toegerekend aan de levering van goederen door de tussenhandelaar.
+
+Volgens de Toelichting zijn partijen niet als onafhankelijk aan te merken in situaties waarin sprake is van vervoer verricht met eigen vervoermiddelen (onderdeel 5.3.5, blz. 80), vervoer door personeel van de ondernemer of vervoer door een onderdeel van een fiscale eenheid (onderdeel 5.3.1, kopje Document H enz., sub a, blz. 79). De regeling van het weerlegbare bewijsvermoeden laat echter onverlet dat in die gevallen aan de hand van boeken en bescheiden als bedoeld in [artikel 12 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=12) het bewijs van de verzending of het vervoer naar de lidstaat van bestemming kan worden aangetoond.
+
+### 8. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt – met uitzondering van onderdeel 4.4 – terug tot en met 1 januari 2020. Onderdeel 4.4 werkt terug tot en met 1 januari 2021.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
