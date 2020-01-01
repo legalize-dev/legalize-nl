@@ -4,7 +4,7 @@ identifier: "BWBR0002540"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002540"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. ontslag: ontslag, verleend aan een beroepsmilitair in de zin van de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955), dan wel aan een reservist in de zin van die wet, voorzover deze krachtens een vrijwillige verbintenis verplicht is tot doorlopende werkelijke dienst als militair;
 
-- ter zake van het bereiken of overschrijden van de bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) geldende ontslagleeftijd;
+- ter zake van het bereiken of overschrijden van de bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) geldende ontslagleeftijd;
 
 - ter zake van het bereiken of overschrijden van de leeftijd van 50 jaren, wanneer hij naar Ons oordeel of naar het oordeel van Onze Minister in verband met zijn leeftijd voor het vervullen van de dienst niet meer ten volle geschikt is en de onder 1° bedoelde ontslagleeftijd nog niet heeft bereikt;
 
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - hij, aan wie een ontslag in de zin van deze wet is verleend en behoort tot diegenen:
 
-- voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) is gewijzigd, dan wel
+- voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) is gewijzigd, dan wel
 
 - die zich op of na 1 januari 2001 hebben verbonden tot het onmiddellijk vrijwillig nadienen na de ontslagleeftijd voor een periode van ten minste twee jaren, een en ander met dien verstande dat onder a voor hen niet van toepassing is, zolang die periode niet is verstreken;
 
@@ -72,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - die datum is gelegen binnen tien jaar vóór de in onderdeel b onder 1° bedoelde ontslagleeftijd,
 
-- die beëindiging van de betrekking is gevolgd door aanvaarding, dan wel aanvaarding en latere wisseling van dienstbetrekking dan wel werkzaamheden, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2013-01-01&g=2013-01-01), met dien verstande dat
+- die beëindiging van de betrekking is gevolgd door aanvaarding, dan wel aanvaarding en latere wisseling van dienstbetrekking dan wel werkzaamheden, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01), met dien verstande dat
 
 - de onder b bedoelde dienstbetrekking dan wel werkzaamheden ten minste tot aan het bereiken van die ontslagleeftijd zijn aangehouden;
 
@@ -94,33 +94,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-De gewezen militair heeft met ingang van de dag waarop zijn ontslag is ingegaan recht op een maandelijkse uitkering, maar niet eerder dan zodra hij de in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde ontslagleeftijd heeft bereikt.
+De gewezen militair heeft met ingang van de dag waarop zijn ontslag is ingegaan recht op een maandelijkse uitkering, maar niet eerder dan zodra hij de in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde ontslagleeftijd heeft bereikt.
 
 ##### Artikel 3
 
-1. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), aanspraak heeft is gedurende de eerste 60 maanden gelijk aan 80% van de laatstelijk genoten bezoldiging.
+1. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), aanspraak heeft is gedurende de eerste 60 maanden gelijk aan 80% van de laatstelijk genoten bezoldiging.
 
 2. Voor zover het totaal aantal volle pensioengeldige dienstjaren op de dag van het ontslag, waarnaar het pensioen ter zake van dat ontslag zal worden berekend, meer dan 30 bedraagt, wordt het in het eerste lid bedoelde bedrag vermeerderd met 0,5 percent van de laatstelijk genoten bezoldiging voor ieder op die dag vol pensioengeldig dienstjaar, met dien verstande dat die vermeerdering ten hoogste 5 percent bedraagt.
 
-3. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), aanspraak heeft is na ommekomst van de eerste 60 maanden gelijk aan 73% van de laatstelijk genoten bezoldiging.
+3. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), aanspraak heeft is na ommekomst van de eerste 60 maanden gelijk aan 73% van de laatstelijk genoten bezoldiging.
 
-4. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), aanspraak heeft over enige maand is niet lager dan het bedrag van een uitsluitend naar diensttijd berekend pensioen over die maand, waarop de gewezen militair recht zou hebben, indien hij met ingang van de dag van het ontslag zou zijn gepensioneerd.
+4. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), aanspraak heeft over enige maand is niet lager dan het bedrag van een uitsluitend naar diensttijd berekend pensioen over die maand, waarop de gewezen militair recht zou hebben, indien hij met ingang van de dag van het ontslag zou zijn gepensioneerd.
 
 5. Het vierde lid is mede van toepassing voor tijd die de gewezen militair bij het bereiken van de leeftijd van 65 jaar zal kunnen aanwijzen en die voor de helft van de tijd die in actieve dienst enkelvoudig meetelt of zou meetellen, meetelt voor de berekening van pensioen.
 
-6. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), aanspraak heeft, is gelijk aan 73% van de laatst genoten bezoldiging.
+6. Het bedrag van de uitkering, waarop de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), aanspraak heeft, is gelijk aan 73% van de laatst genoten bezoldiging.
 
 ##### Artikel 4
 
-Indien de militair gedurende de in [artikel 1, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde periode of een deel daarvan is bezoldigd op basis van deeltijdverlof, wordt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde bedrag van de uitkering berekend, nadat dit is vermenigvuldigd met de gemiddelde deeltijdfactor.
+Indien de militair gedurende de in [artikel 1, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde periode of een deel daarvan is bezoldigd op basis van deeltijdverlof, wordt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=3&z=2020-01-01&g=2020-01-01) bedoelde bedrag van de uitkering berekend, nadat dit is vermenigvuldigd met de gemiddelde deeltijdfactor.
 
 ##### Artikel 5
 
-1. De inkomsten die de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), geniet of gaat genieten in verband met arbeid of bedrijf, ter hand genomen met ingang van of na de dag van het ontslag, ter zake waarvan de uitkering is toegekend, worden gedurende de eerste twee jaren, te rekenen vanaf de dag, waarop de uitkering is ingegaan of had kunnen ingaan, met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben, dan wel over de maand waarop deze inkomsten daarvoor in aanmerking kunnen worden gebracht. Deze verrekening geschiedt aldus, dat de uitkering wordt verminderd met het bedrag, waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten bezoldiging overschrijdt.
+1. De inkomsten die de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), geniet of gaat genieten in verband met arbeid of bedrijf, ter hand genomen met ingang van of na de dag van het ontslag, ter zake waarvan de uitkering is toegekend, worden gedurende de eerste twee jaren, te rekenen vanaf de dag, waarop de uitkering is ingegaan of had kunnen ingaan, met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben, dan wel over de maand waarop deze inkomsten daarvoor in aanmerking kunnen worden gebracht. Deze verrekening geschiedt aldus, dat de uitkering wordt verminderd met het bedrag, waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten bezoldiging overschrijdt.
 
 2. Met arbeid of bedrijf, aangevangen met ingang van of na de dag, waarop het ontslag is ingegaan, wordt gelijkgesteld arbeid of bedrijf, aangevangen tijdens non-activiteit, vakantieverlof of ander verlof of verhindering tot dienstverrichting wegens ziekte, onmiddellijk voorafgaande aan het ontslag. Onder ander verlof als bedoeld in de vorige volzin, wordt voor de toepassing van dit artikel mede begrepen de tijd van ontheffing uit de functie, als bedoeld in het [Koninklijk besluit van 2 juni 1969, Stb. 231](https://wetten.overheid.nl/jci1.3:c:BWBR0002657).
 
-3. Wanneer de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2013-01-01&g=2013-01-01), arbeid of bedrijf heeft aangevangen voor het tijdstip van zijn ontslag en na dat tijdstip uit die arbeid of dat bedrijf inkomsten of meer inkomsten gaat genieten, worden die inkomsten of die meerdere inkomsten in aanmerking genomen voor de toepassing van het eerste lid, tenzij deze aannemelijk maakt, dat die inkomsten, die meerdere inkomsten of een gedeelte daarvan niet het gevolg zijn van een verhoogde werkzaamheid of van andere oorzaken, verband houdende met het ontslag, in welk geval die inkomsten, die meerdere inkomsten of dat gedeelte daarvan niet in aanmerking worden genomen voor de toepassing van het eerste lid.
+3. Wanneer de gewezen militair, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=1&z=2020-01-01&g=2020-01-01), arbeid of bedrijf heeft aangevangen voor het tijdstip van zijn ontslag en na dat tijdstip uit die arbeid of dat bedrijf inkomsten of meer inkomsten gaat genieten, worden die inkomsten of die meerdere inkomsten in aanmerking genomen voor de toepassing van het eerste lid, tenzij deze aannemelijk maakt, dat die inkomsten, die meerdere inkomsten of een gedeelte daarvan niet het gevolg zijn van een verhoogde werkzaamheid of van andere oorzaken, verband houdende met het ontslag, in welk geval die inkomsten, die meerdere inkomsten of dat gedeelte daarvan niet in aanmerking worden genomen voor de toepassing van het eerste lid.
 
 4. Voor de toepassing van dit artikel wordt niet als inkomsten aangemerkt hetgeen is verkregen uit dienstbetrekking bij het Ministerie van Defensie of door werkzaamheden die zijn voorbehouden aan:
 
@@ -142,11 +142,11 @@ Indien de militair gedurende de in [artikel 1, eerste lid, onderdeel f](https://
 
 ##### Artikel 5a
 
-Bij de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=4&z=2013-01-01&g=2013-01-01) wordt voor de berekening van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2013-01-01&g=2013-01-01), bedoelde overschrijding de laatstelijk genoten bezoldiging vermenigvuldigd met de gemiddelde deeltijdfactor.
+Bij de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=4&z=2020-01-01&g=2020-01-01) wordt voor de berekening van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01), bedoelde overschrijding de laatstelijk genoten bezoldiging vermenigvuldigd met de gemiddelde deeltijdfactor.
 
 ##### Artikel 6
 
-1. De gewezen militair die een uitkering geniet, waarop een vermindering kan worden toegepast als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2013-01-01&g=2013-01-01), is verplicht aan Onze minister, overeenkomstig de door deze gestelde regelen, terstond mededeling te doen van het aanvangen van enige arbeid of bedrijf, onder opgave - voor zover mogelijk - van de inkomsten, welke hij uit dien hoofde zal verwerven. Zijn de inkomsten niet vooraf te bepalen, dan doet hij tijdig voor het einde van elke betalingstermijn van de uitkering opgave van de inkomsten, welke hij sedert het aanvangen van de werkzaamheden of sedert de vorige opgave heeft genoten. Brengt de aard van de werkzaamheden mede, dat de inkomsten over een langere periode in beschouwing moeten worden genomen, dan geschiedt de opgave over die langere periode en kan op de uitkering voorlopig een vermindering worden toegepast naar een geraamd bedrag van die inkomsten.
+1. De gewezen militair die een uitkering geniet, waarop een vermindering kan worden toegepast als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01), is verplicht aan Onze minister, overeenkomstig de door deze gestelde regelen, terstond mededeling te doen van het aanvangen van enige arbeid of bedrijf, onder opgave - voor zover mogelijk - van de inkomsten, welke hij uit dien hoofde zal verwerven. Zijn de inkomsten niet vooraf te bepalen, dan doet hij tijdig voor het einde van elke betalingstermijn van de uitkering opgave van de inkomsten, welke hij sedert het aanvangen van de werkzaamheden of sedert de vorige opgave heeft genoten. Brengt de aard van de werkzaamheden mede, dat de inkomsten over een langere periode in beschouwing moeten worden genomen, dan geschiedt de opgave over die langere periode en kan op de uitkering voorlopig een vermindering worden toegepast naar een geraamd bedrag van die inkomsten.
 
 De definitieve vaststelling van de vermindering geschiedt alsdan over de in de vorige volzin bedoelde langere periode.
 
@@ -160,7 +160,7 @@ Het recht op de uitkering vervalt:
 
 - a. indien aan de gewezen militair een pensioen wordt toegekend ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen: met ingang van de dag waarop dat pensioen ingaat;
 
-- b. indien de gewezen militair anders dan na een oproeping als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=8&z=2013-01-01&g=2013-01-01), als militair of als geestelijke verzorger in de krijgsmacht terugkeert: met ingang van de dag van die terugkeer;
+- b. indien de gewezen militair anders dan na een oproeping als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=8&z=2020-01-01&g=2020-01-01), als militair of als geestelijke verzorger in de krijgsmacht terugkeert: met ingang van de dag van die terugkeer;
 
 - c. indien de gewezen militair overlijdt: met ingang van de eerste dag volgende op die waarop het overlijden heeft plaatsgevonden.
 
@@ -170,7 +170,7 @@ Het recht op de uitkering vervalt:
 
 2. Voor de toepassing van het eerste lid wordt onder tijd van oorlog begrepen de tijd, waarin oorlogsgevaar aanwezig is, alsmede de tijd, waarin andere buitengewone omstandigheden aanwezig zijn en dienstplichtigen, die niet in werkelijke dienst zijn, door Ons buitengewoon in werkelijke dienst zijn geroepen en buitengewoon in werkelijke dienst worden gehouden.
 
-3. Over de tijd, gedurende welke de gewezen militair zich door zonder geldige reden, ter beoordeling van Onze minister, niet te voldoen aan een oproeping als bedoeld in het eerste lid, heeft onttrokken aan te verrichten werkelijke dienst als in dat lid bedoeld, bestaan geen aanspraken voortvloeiende uit het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=2&z=2013-01-01&g=2013-01-01) omschreven recht.
+3. Over de tijd, gedurende welke de gewezen militair zich door zonder geldige reden, ter beoordeling van Onze minister, niet te voldoen aan een oproeping als bedoeld in het eerste lid, heeft onttrokken aan te verrichten werkelijke dienst als in dat lid bedoeld, bestaan geen aanspraken voortvloeiende uit het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=2&z=2020-01-01&g=2020-01-01) omschreven recht.
 
 4. Dit artikel is niet van toepassing op hem, die als geestelijke verzorger in de krijgsmacht werkzaam is geweest.
 
@@ -180,7 +180,7 @@ Het recht op de uitkering vervalt:
 
 - a. driemaal de laatstelijk genoten bezoldiging zoals die op de dag van het overlijden gold, dan wel,
 
-- b. indien op de dag van het overlijden de uitkering verminderd werd krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2013-01-01&g=2013-01-01) of indien [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=6&z=2013-01-01&g=2013-01-01) van toepassing was, driemaal het maandelijks bedrag aan uitkering waarop op dat moment aanspraak bestond.
+- b. indien op de dag van het overlijden de uitkering verminderd werd krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01) of indien [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=6&z=2020-01-01&g=2020-01-01) van toepassing was, driemaal het maandelijks bedrag aan uitkering waarop op dat moment aanspraak bestond.
 
 2. Vervallen.
 
