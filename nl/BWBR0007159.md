@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [21e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21e), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
+1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=6), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c), [18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -175,13 +175,15 @@ In het verzoek om teruggaaf, bedoeld in [artikel 20, eerste lid, van de wet](htt
 
 - b. naam en adres van de verbruiker;
 
-- c. naam en adres van de leveranciers;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de hoeveelheid leidingwater waarvoor teruggaaf wordt verzocht per leverancier;
+- d. naam en adres van de leveranciers;
 
-- e. de periode van levering van het leidingwater, en
+- e. de hoeveelheid leidingwater waarvoor teruggaaf wordt verzocht per leverancier;
 
-- f. het bedrag aan belasting dat wordt teruggevraagd.
+- f. de periode van levering van het leidingwater, en
+
+- g. het bedrag aan belasting dat wordt teruggevraagd.
 
 ##### Artikel 5a
 
@@ -311,11 +313,11 @@ Bij een aanvraag, als bedoeld in [artikel 25a, eerste lid, van de wet](https://w
 
 - c. het nummer dan wel de nummers van de sloopmelding in het landelijk asbestvolgsysteem, bedoeld in [artikel 1, tweede lid, onderdeel h, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=1);
 
-- d. het adres van het gesaneerde dak dan wel de gesaneerde daken waarvan het onvermengd asbest en de asbesthoudende producten afkomstig zijn;
+- d. het adres van het gesaneerde dak dan wel de gesaneerde daken waarvan het onvermengd asbest en de asbesthoudende producten afkomstig zijn; en
 
-- e. het afvalstroomnummer, bedoeld in [artikel 9, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=9); en
+- e. de verklaring dat het asbest en de asbesthoudende producten die ter verwijdering aan de inrichting worden afgegeven voldoen aan de voorwaarden en beperkingen, genoemd in [artikel 11c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c).
 
-- f. de verklaring dat het asbest en de asbesthoudende producten die ter verwijdering aan de inrichting worden afgegeven voldoen aan de voorwaarden en beperkingen, genoemd in [artikel 11c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c).
+3. De houder van de inrichting vermeldt uiterlijk bij de afgifte ter verwijdering op de verklaring het afvalstroomnummer, bedoeld in [artikel 9, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017874&artikel=9).
 
 ##### Artikel 8c
 
@@ -625,13 +627,15 @@ De verklaring, bedoeld in [artikel 17, eerste lid, van het besluit](https://wett
 
 - b. de naam en het adres van de gebruiker;
 
-- c. de hoeveelheid kolen waarvoor teruggaaf wordt verzocht;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de plaats van levering van de kolen;
+- d. de hoeveelheid kolen waarvoor teruggaaf wordt verzocht;
 
-- e. het tijdvak waarover teruggaaf wordt verzocht, en
+- e. de plaats van levering van de kolen;
 
-- f. het bedrag aan kolenbelasting dat wordt teruggevraagd.
+- f. het tijdvak waarover teruggaaf wordt verzocht, en
+
+- g. het bedrag aan kolenbelasting dat wordt teruggevraagd.
 
 ##### Artikel 8ab
 
@@ -705,7 +709,7 @@ Vervallen
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -791,11 +795,13 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - b. naam en adres van de verbruiker;
 
-- c. naam en adres van de leverancier of leveranciers;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de EAN-code van de aansluiting via welke de elektriciteit geleverd is waarop het verzoek betrekking heeft;
+- d. naam en adres van de leverancier of leveranciers;
 
-- e. de hoeveelheid elektriciteit die in het kalenderjaar waarover teruggaaf wordt verzocht via de aansluiting, bedoeld in onderdeel d, geleverd is, voor zover deze elektriciteit zakelijk is verbruikt en niet op grond van [artikel 64, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) van energiebelasting is vrijgesteld.
+- e. de EAN-code van de aansluiting via welke de elektriciteit geleverd is waarop het verzoek betrekking heeft;
+
+- f. de hoeveelheid elektriciteit die in het kalenderjaar waarover teruggaaf wordt verzocht via de aansluiting, bedoeld in onderdeel d, geleverd is, voor zover deze elektriciteit zakelijk is verbruikt en niet op grond van [artikel 64, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) van energiebelasting is vrijgesteld.
 
 3. Bij het verzoek worden overgelegd:
 
@@ -831,11 +837,13 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - b. naam en adres van de gebruiker van de onroerende zaak;
 
-- c. naam en adres van de exploitant van de installatie voor blokverwarming;
+- c. BSN of RSIN van de gebruiker van de onroerende zaak;
 
-- d. de hoeveelheid warmte die in de verbruiksperiode is verbruikt, en
+- d. naam en adres van de exploitant van de installatie voor blokverwarming;
 
-- e. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
+- e. de hoeveelheid warmte die in de verbruiksperiode is verbruikt, en
+
+- f. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
 
 2. In de afrekening, bedoeld in [artikel 24, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=24), worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
 
@@ -847,15 +855,35 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - b. naam en adres van de verbruiker;
 
-- c. naam en adres van de leveranciers;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de hoeveelheden aardgas en elektriciteit waarvoor teruggaaf wordt verzocht;
+- d. naam en adres van de leveranciers;
 
-- e. de periode van levering van aardgas en elektriciteit, en
+- e. de EAN-code(s) van de aansluiting(en);
 
-- f. het bedrag aan belasting dat wordt teruggevraagd.
+- f. de hoeveelheden aardgas en elektriciteit waarvoor teruggaaf wordt verzocht;
 
-2. De administratie van degene die het in het eerste lid bedoelde verzoek om teruggaaf indient, is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
+- g. de periode van levering van aardgas en elektriciteit; en
+
+- h. het bedrag aan belasting dat wordt teruggevraagd.
+
+2. In het verzoek om teruggaaf, bedoeld in [artikel 68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), worden de volgende gegevens vermeld:
+
+- a. het tijdvak waarover teruggaaf wordt verzocht;
+
+- b. naam en adres van de verbruiker;
+
+- c. BSN of RSIN van de verbruiker;
+
+- d. naam en adres van de leverancier;
+
+- e. de EAN-code van de aansluiting;
+
+- f. de totaal verbruikte hoeveelheid elektriciteit; en
+
+- g. het bedrag aan belasting dat wordt teruggevraagd.
+
+3. De administratie van degene die een verzoek als bedoeld in het eerste of tweede lid om teruggaaf indient, is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
 ##### Artikel 26
 
@@ -877,6 +905,20 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - d. de instelling die het verzoek om teruggaaf doet, een bezettingsoverzicht overlegt van de bezettingsgraad in tijd en oppervlakte, dan wel in huuropbrengsten, van de onroerende zaak, waaruit blijkt dat de onroerende zaak hoofdzakelijk in gebruik is geweest bij meer dan één instelling die een algemeen nut beogende instelling is of die een instelling is die voldoet aan de voorwaarden, bedoeld in [artikel 5c, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5c), en [artikel 69, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69).
 
+3. In de verzoeken om teruggaaf, bedoeld in [artikel 69, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), worden de volgende gegevens vermeld:
+
+- a. het tijdvak waarover teruggaaf wordt verzocht;
+
+- b. naam en adres van de verbruiker;
+
+- c. BSN of RSIN van de verbruiker;
+
+- d. naam en adres van de leverancier;
+
+- e. de EAN-code(s) van de aansluiting(en); en
+
+- f. de totaal verbruikte hoeveelheden aardgas en elektriciteit.
+
 ##### Artikel 27
 
 1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) of [70a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
@@ -887,13 +929,17 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - b. naam en adres van de verbruiker;
 
-- c. naam en adres van de leveranciers;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de hoeveelheid en het soort product waarvoor teruggaaf wordt verzocht per leverancier;
+- d. naam en adres van de leveranciers;
 
-- e. de periode van levering van het product, en
+- e. de EAN-code(s) van de aansluiting(en);
 
-- f. het bedrag aan belasting dat wordt teruggevraagd.
+- f. de hoeveelheid en het soort product waarvoor teruggaaf wordt verzocht per leverancier;
+
+- g. de periode van levering van het product; en
+
+- h. het bedrag aan belasting dat wordt teruggevraagd.
 
 3. In het verzoek om teruggaaf, bedoeld in [artikel 70a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), worden de volgende gegevens vermeld:
 
@@ -901,13 +947,17 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - b. naam en adres van degene die het verzoek om teruggaaf doet;
 
-- c. naam en adres van de leveranciers;
+- c. BSN of RSIN van de verbruiker;
 
-- d. de hoeveelheid aardgas waarvoor teruggaaf wordt verzocht per leverancier;
+- d. naam en adres van de leveranciers;
 
-- e. de periode van levering van het aardgas; en
+- e. de EAN-code(s) van de aansluiting(en);
 
-- f. het bedrag aan belasting dat wordt teruggevraagd.
+- f. de hoeveelheid aardgas waarvoor teruggaaf wordt verzocht per leverancier;
+
+- g. de periode van levering van het aardgas; en
+
+- h. het bedrag aan belasting dat wordt teruggevraagd.
 
 ##### Artikel 28
 
@@ -961,7 +1011,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2019-01-01&g=2019-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2020-01-01&g=2020-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -1065,7 +1115,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 2. Indien een aangewezen coöperatie als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) niet of niet langer voldoet aan de voorwaarden voor aanwijzing, doet zij daarvan onverwijld schriftelijk mededeling aan de inspecteur en aan ieder met wie zij een overeenkomst heeft als bedoeld in artikel 59a, eerste lid, van de wet.
 
-3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2019-01-01&g=2019-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
+3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2020-01-01&g=2020-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
 
 4. De coöperatie die is aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), richt haar administratie zodanig in, dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen die voor de verlaging, bedoeld in artikel 59a, eerste lid van de wet, van belang kunnen zijn.
 
@@ -1133,7 +1183,7 @@ De verklaring, bedoeld in [artikel 21d, eerste lid, van het besluit](https://wet
 
 ##### Artikel 20c
 
-De belastingvermindering, bedoeld in [artikel 21e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21e), wordt toegepast door de leverancier die leveringen verricht via het primaire allocatiepunt, bedoeld in de [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938).
+De belastingvermindering, bedoeld in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), wordt toegepast door de leverancier die leveringen verricht via het primaire allocatiepunt, bedoeld in de [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938).
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
