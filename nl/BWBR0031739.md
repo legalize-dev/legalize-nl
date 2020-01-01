@@ -4,7 +4,7 @@ identifier: "BWBR0031739"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-08-20"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031739"
 soort: "AMvB"
@@ -56,9 +56,11 @@ Hebben goedgevonden en verstaan:
 
 - c. oorlogsschepen en marinehulpschepen;
 
-- d. reddingsvaartuigen;
+- d. niet commercieel gebruikte overheidsschepen;
 
-- e. pleziervaartuigen.
+- e. reddingsvaartuigen;
+
+- f. pleziervaartuigen.
 
 ##### Artikel 2
 
