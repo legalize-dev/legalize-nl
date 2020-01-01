@@ -4,7 +4,7 @@ identifier: "BWBR0033795"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2018-07-12"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033795"
 soort: "pbo"
@@ -96,7 +96,7 @@ Vervallen
 
 5. Degene die benoemd is ter vervulling van een tussentijds opengevallen plaats, kan eenmaal worden herbenoemd.
 
-### Hoofdstuk 3. Stagebureaus
+### Hoofdstuk 2a. De examencommissie
 
 ##### Artikel 5
 
@@ -122,9 +122,9 @@ Vervallen
 
 ##### Artikel 7
 
-1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2018-07-12&g=2018-07-12).
+1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01).
 
-2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2018-07-12&g=2018-07-12), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2018-07-12&g=2018-07-12).
+2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 8
 
@@ -186,7 +186,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk 6. Het examen voor de praktijkopleiding
+### Hoofdstuk 6. Het examen ter afsluiting van de praktijkopleiding
 
 #### Paragraaf 6.1. Het examen ter afsluiting van de praktijkopleiding AA
 
@@ -196,7 +196,7 @@ Het examen ter afsluiting van de praktijkopleiding toetst de vaardigheid in de p
 
 ##### Artikel 16
 
-Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2018-07-12&g=2018-07-12) afnemen.
+Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2020-01-01&g=2020-01-01) afnemen.
 
 #### Paragraaf 6.2. Het examen ter afsluiting van de praktijkopleiding RA
 
@@ -222,7 +222,7 @@ De trainee wordt tot het mondeling examen toegelaten indien:
 
 ##### Artikel 20
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2018-07-12&g=2018-07-12), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2020-01-01&g=2020-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
@@ -298,7 +298,7 @@ Vervallen
 
 ##### Artikel 10a
 
-Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2018-07-12&g=2018-07-12), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2018-07-12&g=2018-07-12), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
+Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2020-01-01&g=2020-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2020-01-01&g=2020-01-01), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
 
 - a. het met goed gevolg afronden van één of meer aanvullende cursussen of vakken; of
 
@@ -322,7 +322,7 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
-### Hoofdstuk 8. Vrijstellingen
+### Hoofdstuk 10. Overige bepalingen
 
 ### Hoofdstuk 9. Examengelden
 
@@ -361,5 +361,41 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 - –. is begonnen aan een praktijkopleiding die kan leiden tot inschrijving in het accountantsregister zonder aantekening en overstapt naar enige andere aangeboden variant van een praktijkopleiding die kan leiden tot inschrijving in het accountantsregister zonder aantekening.
 
 2. Het bestuur kan aan de toekenning van een vrijstelling als bedoeld in het eerste lid voorwaarden verbinden.
+
+### Hoofdstuk 8. Vrijstellingen
+
+##### Artikel 4a
+
+1. Er is een examencommissie.
+
+2. De examencommissie heeft tot taak:
+
+- a. de kwaliteit van het examen mede te waarborgen; en
+
+- b. de kwaliteit van de organisatie en de procedures met betrekking tot het examen te waarborgen.
+
+##### Artikel 4b
+
+1. De examencommissie bestaat uit zes leden, waaronder een voorzitter.
+
+2. Het bestuur benoemt de voorzitter uit de leden van de examencommissie welke op grond van een voordracht als bedoeld in het vierde lid zijn benoemd.
+
+3. Het bestuur benoemt de leden van de examencommissie op basis van de voordrachten, bedoeld in het vierde tot en met het zevende lid, voor een periode van vier jaren tenzij er, gelet op de antecedenten van het voorgedragen lid, gegronde vrees bestaat dat deze zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn benoeming op andere wijze de eer van de stand van accountants zal schaden. Een lid kan eenmaal worden herbenoemd.
+
+4. De Raad voor de Praktijkopleidingen draagt uit zijn midden twee leden van de examencommissie ter benoeming voor aan het bestuur.
+
+5. De universiteiten welke beschikken over een aanwijzing als bedoeld in [artikel 49, tweede lid, onderdeel b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) kunnen gezamenlijk twee leden van de examencommissie ter benoeming voordragen aan het bestuur.
+
+6. De Vereniging van Aangewezen Accountancyscholen kan een lid van de examencommissie ter benoeming voordragen aan het bestuur.
+
+7. Het samenwerkingsverband Hbo-AC-Scholenoverleg kan een lid van de examencommissie ter benoeming voordragen aan het bestuur.
+
+### Hoofdstuk 3. Stagebureaus
+
+### Hoofdstuk 4. Toelating tot de praktijkopleiding
+
+### Hoofdstuk 5. De praktijkopleidingen
+
+### Hoofdstuk 7. Toelating tot het examen ter afsluiting van de praktijkopleiding
 
 ### Hoofdstuk 9. Examengelden
