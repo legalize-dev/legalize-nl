@@ -4,7 +4,7 @@ identifier: "BWBR0040419"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2018-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040419"
 soort: "AMvB"
@@ -58,19 +58,19 @@ In dit besluit wordt verstaan onder:
 
 - d. **lid van de afdeling klachtbehandeling:** degene die is benoemd tot lid van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen en veiligheidsdiensten, niet zijnde de voorzitter van de afdeling klachtbehandeling;
 
-- e. **salaris:** het bedrag, dat met inachtneming van de bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) voor het lid is vastgesteld aan de hand van een van de bijlagen van dat besluit vermenigvuldigd met de voor het lid geldende arbeidsfactor;
+- e. **salaris:** het bedrag, dat voor het lid is vastgesteld met inachtneming van de bepalingen met betrekking tot het salaris uit de laatstelijk gesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn. Het bedrag wordt vastgesteld aan de hand van een van de bijlagen van voornoemde collectieve arbeidsovereenkomst vermenigvuldigd met de voor het lid geldende arbeidsfactor;
 
-- f. **burgerlijke rijksambtenaren:** degenen die door het Rijk zijn aangesteld om in burgerlijke openbare dienst werkzaam te zijn.
+- f. **rijksambtenaren:** degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 2
 
-1. Het salaris van het lid dat tot voorzitter van de toetsingscommissie inzet bevoegdheden onderscheidenlijk van het lid dat tot voorzitter van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is benoemd, is gelijk aan het maximum van salarisschaal 19 van [bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A).
+1. Het salaris van het lid dat tot voorzitter van de toetsingscommissie inzet bevoegdheden onderscheidenlijk van het lid dat tot voorzitter van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is benoemd, is gelijk aan het maximum van salarisschaal 19 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-2. Het salaris van het lid dat tot voorzitter van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is benoemd, is gelijk aan het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. Het salaris van het lid dat tot voorzitter van de afdeling klachtbehandeling van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is benoemd, is gelijk aan het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-3. Het salaris van de overige leden van de toetsingscommissie inzet bevoegdheden onderscheidenlijk van de overige leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is gelijk aan het maximum van salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+3. Het salaris van de overige leden van de toetsingscommissie inzet bevoegdheden onderscheidenlijk van de overige leden van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is gelijk aan het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-4. Het salaris van een lid met een onvolledige arbeidsduur wordt vastgesteld op een evenredig deel van het salaris bij een volledige werktijd als bedoeld in [artikel 2, onder g, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=2).
+4. Het salaris van een lid met een onvolledige arbeidsduur wordt vastgesteld op een evenredig deel van het salaris bij een volledige werktijd overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 5. Een lid heeft bij ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een tijdvak van 52 weken recht op doorbetaling van zijn salaris. Bij voortdurende ongeschiktheid heeft hij vervolgens recht op doorbetaling van 70% van zijn salaris.
 
@@ -80,19 +80,19 @@ In dit besluit wordt verstaan onder:
 
 - b. Indien de non-activiteit anders dan door ontslag wordt beëindigd, kunnen de in [artikel 101 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=101) bedoelde ministers gezamenlijk beslissen dat het niet genoten salaris alsnog geheel of gedeeltelijk zal worden uitbetaald, in het laatste geval onder aanwijzing van het gedeelte dat zal worden uitbetaald.
 
-8. Het salaris wordt niet langer uitbetaald dan tot en met de dag van het overlijden van een lid. [Artikel 24, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=24) is van overeenkomstige toepassing.
+8. Het salaris wordt niet langer uitbetaald dan tot en met de dag van het overlijden van een lid. Indien het lid op de dag van overlijden aanspraak heeft op vakantie, geldt voor hem dezelfde voorziening die geldt voor rijksambtenaren op grond van de laatstelijk afgesloten collectieve arbeidsovereenkomst met betrekking tot de aanspraak op een vergoeding van niet opgenomen vakantie-uren op de datum van ontslag.
 
-9. Indien een lid overlijdt, ontvangt zijn weduwe of weduwnaar, waaronder mede wordt verstaan de achtergebleven levenspartner of de achtergebleven geregistreerd partner, van wie hij niet duurzaam gescheiden leefde, dan wel ontvangen zijn minderjarige kinderen, een uitkering overeenkomstig de bepalingen die ten aanzien van burgerlijke rijksambtenaren gelden.
+9. Indien een lid overlijdt, ontvangt zijn weduwe of weduwnaar, waaronder mede wordt verstaan de achtergebleven levenspartner of de achtergebleven geregistreerd partner, van wie hij niet duurzaam gescheiden leefde, dan wel ontvangen zijn minderjarige kinderen, een uitkering overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
-1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040419&artikel=2&z=2018-04-01&g=2018-04-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van reis- en verblijfkosten voor dienstreizen, een tegemoetkoming in de kosten voor reizen in het kader van woon-werkverkeer en een gratificatie bij ambtsjubileum overeenkomstig de bepalingen die ten aanzien van burgerlijke rijksambtenaren gelden.
+1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040419&artikel=2&z=2020-01-01&g=2020-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van reis- en verblijfkosten voor dienstreizen, een tegemoetkoming in de kosten voor reizen in het kader van woon-werkverkeer en een gratificatie bij ambtsjubileum overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-2. Indien burgerlijke rijksambtenaren een eenmalige uitkering wordt toegekend, ontvangen de leden deze op gelijke voet.
+2. Indien rijksambtenaren een eenmalige uitkering wordt toegekend, ontvangen de leden deze op gelijke voet.
 
-3. De leden ontvangen een vaste bruto vergoeding voor de representatiekosten van voorzieningen die voor eigen rekening komen en die door hen mede worden aangewend ten behoeve van de vervulling van hun ambt. Deze bruto vergoeding bedraagt voor de voorzitters 50% en voor de overige leden 35% van het bedrag, bedoeld in [artikel 68a, derde lid, onderdeel a, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a) en wordt naar evenredigheid maandelijks uitbetaald.
+3. De leden ontvangen een vaste bruto vergoeding voor de representatiekosten van voorzieningen die voor eigen rekening komen en die door hen mede worden aangewend ten behoeve van de vervulling van hun ambt. Deze bruto vergoeding bedraagt voor de voorzitters 50% en voor de overige leden 35% van het bedrag overeenkomstig hetgeen een lid van de topmanagementgroep ontvangt aan representatiekostenvergoeding op grond van hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze bruto vergoeding wordt naar evenredigheid maandelijks uitbetaald.
 
-4. Ten aanzien van de leden is [hoofdstuk V, paragraaf 1 (Vakantie), van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&paragraaf=1) van overeenkomstige toepassing.
+4. Ten aanzien van de leden is hetgeen dat voor rijksambtenaren in de laatstelijk afgesloten collectieve arbeidsovereenkomst is overeengekomen met betrekking tot de aanspraak op, het opnemen en het verval van de aanspraak op vakantie, van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -104,15 +104,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardoor werkloos wordt in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), dan wel wordt ontslagen wegens blijvende arbeidsongeschiktheid wegens ziekte of gebreken, heeft, tenzij recht bestaat op ouderdomspensioen, recht op een bovenwettelijke uitkering overeenkomstig de bepalingen die ten aanzien van burgerlijke rijksambtenaren gelden.
+Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardoor werkloos wordt in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), dan wel wordt ontslagen wegens blijvende arbeidsongeschiktheid wegens ziekte of gebreken, heeft, tenzij recht bestaat op ouderdomspensioen, recht op een bovenwettelijke uitkering overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 6
 
-1. Een lid van de afdeling klachtbehandeling geniet een vergoeding per vergadering van 3% van het maximum van salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. Een lid van de afdeling klachtbehandeling geniet een vergoeding per vergadering van 3% overeenkomstig het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=3) en [6 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) zijn van overeenkomstige toepassing.
 
-2. Een lid van de afdeling klachtbehandeling ontvangt voor het bijwonen van een vergadering een vergoeding voor reiskosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+3. Een lid van de afdeling klachtbehandeling ontvangt voor het bijwonen van een vergadering een vergoeding voor reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 7
 
