@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2018-01-18"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -188,7 +188,7 @@ Het hoofd van de afdeling Stafbureau is verantwoordelijk voor:
 
 1. Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de taken van de eigen afdeling.
 
-2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
+2. Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
 
 3. In aanvulling op het eerste lid wordt aan het hoofd en het plaatsvervangend hoofd van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
 
