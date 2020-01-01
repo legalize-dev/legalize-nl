@@ -4,7 +4,7 @@ identifier: "BWBR0039827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-07-25"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039827"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23), en [41, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41), worden belast de ambtenaren van de Erfgoedinspectie die zijn aangesteld in de functie van hoofdinspecteur of inspecteur.
+Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23), en [41, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=41), worden belast de ambtenaren van de Erfgoedinspectie die zijn aangewezen in de functie van hoofdinspecteur of inspecteur.
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039827&artikel=1&z=2017-07-25&g=2017-07-25) bedoelde ambtenaren worden tevens belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) ten aanzien van de zorg voor en het beheer van archiefbescheiden.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039827&artikel=1&z=2020-01-01&g=2020-01-01) bedoelde ambtenaren worden tevens belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) ten aanzien van de zorg voor en het beheer van archiefbescheiden.
 
 ##### Artikel 3
 
