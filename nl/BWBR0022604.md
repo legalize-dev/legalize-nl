@@ -4,7 +4,7 @@ identifier: "BWBR0022604"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022604"
 soort: "wet"
@@ -68,7 +68,7 @@ In deze wet wordt verstaan onder:
 
 - 3°. een geldbedrag voor een schadefonds of instelling ten behoeve van slachtoffers van strafbare feiten voor zover deze verplichting is opgelegd bij rechterlijke uitspraak of beschikking;
 
-- 4°. proceskosten;
+- 4°. proceskosten.
 
 - g. voorwerpen: alle zaken en alle vermogensrechten ten aanzien waarvan de rechter van de uitvaardigende lidstaat heeft beslist dat zij:
 
@@ -92,7 +92,9 @@ In deze wet wordt verstaan onder:
 
 - m. veroordeelde: degene aan wie een sanctie is opgelegd;
 
-- n. officier van justitie: de ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=4&z=2018-07-01&g=2018-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=5&z=2018-07-01&g=2018-07-01) bevoegde officier van justitie, tenzij in deze wet uitdrukkelijk anders is bepaald.
+- n. officier van justitie: de ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=4&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=5&z=2020-01-01&g=2020-01-01) bevoegde officier van justitie;
+
+- o. Onze Minister: Onze Minister van Justitie en Veiligheid.
 
 ##### Artikel 2. (beginsel wederzijdse erkenning buitenlandse sancties)
 
@@ -102,13 +104,13 @@ Rechterlijke uitspraken en beschikkingen gewezen in een andere lidstaat van de E
 
 In Nederland gewezen rechterlijke uitspraken en beschikkingen kunnen overeenkomstig de bepalingen van deze wet worden gezonden aan een andere lidstaat van de Europese Unie met het oog op de tenuitvoerlegging aldaar.
 
-##### Artikel 4. (bevoegde autoriteiten inkomend)
+##### Artikel 4
 
-Bevoegd tot erkenning en tenuitvoerlegging van een in een andere lidstaat van de Europese Unie opgelegde beslissing, houdende een geldelijke sanctie of een beslissing tot confiscatie, is de officier van justitie bij het arrondissementsparket te Leeuwarden.
+Bevoegd tot erkenning met het oog op tenuitvoerlegging van een in een andere lidstaat van de Europese Unie opgelegde beslissing, houdende een geldelijke sanctie of een beslissing tot confiscatie, is de officier van justitie bij het arrondissement Noord-Nederland. Onze Minister is bevoegd tot tenuitvoerlegging van deze beslissing.
 
 ##### Artikel 5. (bevoegde autoriteiten uitgaand)
 
-Bevoegd tot het verzenden van een in Nederland opgelegde beslissing, houdende een geldelijke sanctie of een beslissing tot confiscatie, aan een andere lidstaat van de Europese Unie met het oog op de tenuitvoerlegging aldaar is de officier van justitie bij het arrondissementsparket te Leeuwarden.
+Bevoegd tot het verzenden van een in Nederland opgelegde beslissing, houdende een geldelijke sanctie of een beslissing tot confiscatie, aan een andere lidstaat van de Europese Unie met het oog op de tenuitvoerlegging aldaar zijn de officier van justitie bij het arrondissement Noord-Nederland en Onze Minister.
 
 ### Hoofdstuk II. Geldelijke sancties
 
@@ -136,29 +138,29 @@ Bevoegd tot het verzenden van een in Nederland opgelegde beslissing, houdende ee
 
 ##### Artikel 7. (toezending aan bevoegde autoriteit)
 
-1. De beslissingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01), en het ingevulde certificaat, dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model, worden door de officier van justitie in behandeling genomen. Wanneer deze documenten niet aan hem zijn gezonden, worden ze door de geadresseerde onverwijld aan hem doorgezonden. De geadresseerde stelt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis. De officier van justitie bevestigt de ontvangst van een aan hem doorgezonden verzoek aan de bevoegde autoriteit van de uitvaardigende lidstaat.
+1. De beslissingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01), en het ingevulde certificaat, dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model, worden door de officier van justitie in behandeling genomen. Wanneer deze documenten niet aan hem zijn gezonden, worden ze door de geadresseerde onverwijld aan hem doorgezonden. De geadresseerde stelt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis. De officier van justitie bevestigt de ontvangst van een aan hem doorgezonden verzoek aan de bevoegde autoriteit van de uitvaardigende lidstaat.
 
-2. Indien het certificaat ontbreekt, onvolledig is of kennelijk niet in overeenstemming is met de beslissing, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01), verzoekt de officier van justitie de bevoegde autoriteit in de uitvaardigende lidstaat het certificaat alsnog over te leggen, aan te vullen of te verbeteren.
+2. Indien het certificaat ontbreekt, onvolledig is of kennelijk niet in overeenstemming is met de beslissing, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01), verzoekt de officier van justitie de bevoegde autoriteit in de uitvaardigende lidstaat het certificaat alsnog over te leggen, aan te vullen of te verbeteren.
 
 3. De officier van justitie kan de bevoegde autoriteit in de uitvaardigende lidstaat verzoeken een gewaarmerkt afschrift van de beslissing of het origineel van het certificaat over te leggen.
 
 ##### Artikel 8. (wisselkoers)
 
-Indien een beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01), is uitgedrukt in vreemde valuta, bepaalt de officier van justitie de hoogte van het bedrag in euro’s volgens de wisselkoers die gold op het tijdstip waarop de beslissing werd genomen.
+Indien een beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01), is uitgedrukt in vreemde valuta, bepaalt de officier van justitie de hoogte van het bedrag in euro’s volgens de wisselkoers die gold op het tijdstip waarop de beslissing werd genomen.
 
 ##### Artikel 9. (voltooiing en beëindiging van tenuitvoerlegging)
 
-1. De tenuitvoerlegging van de beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01), wordt gestaakt, zodra een daartoe strekkende kennisgeving van de bevoegde autoriteit van de uitvaardigende lidstaat is ontvangen.
+1. De tenuitvoerlegging van de beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01), wordt gestaakt, zodra een daartoe strekkende kennisgeving van de bevoegde autoriteit van de uitvaardigende lidstaat is ontvangen.
 
-2. Zodra de tenuitvoerlegging van de beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01), is voltooid, stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld in kennis.
+2. Zodra de tenuitvoerlegging van de beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01), is voltooid, stelt Onze Minister de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld in kennis.
 
 ##### Artikel 10. (vatbaar voor erkenning en tenuitvoerlegging in een andere lidstaat)
 
 1. Vatbaar voor erkenning en tenuitvoerlegging in een andere lidstaat van de Europese Unie zijn beslissingen, houdende een in Nederland:
 
-- a. bij rechterlijke uitspraak opgelegde geldboete;
+- a. bij rechterlijke uitspraak of beschikking opgelegde geldboete;
 
-- b. bij rechterlijke uitspraak opgelegde verplichting tot betaling aan de staat van een geldsom ten behoeve van het slachtoffer;
+- b. bij rechterlijke uitspraak of beschikking opgelegde verplichting tot betaling aan de staat van een geldsom ten behoeve van het slachtoffer;
 
 - c. door de bevoegde autoriteiten bij beschikking opgelegde administratieve sanctie als bedoeld in [artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=2);
 
@@ -168,27 +170,29 @@ Indien een beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.over
 
 - f. door de bevoegde autoriteiten bij beschikking opgelegde bestuurlijke boete als bedoeld in [artikel 10:5 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voor zover het overtredingen betreft van [hoofdstuk 2 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2).
 
-2. De officier van justitie kan een beslissing als bedoeld in het eerste lid aan een andere lidstaat van de Europese Unie zenden met het oog op de tenuitvoerlegging aldaar, indien de veroordeelde in die andere lidstaat inkomsten of vermogen of zijn vaste woon- of verblijfplaats heeft dan wel, in het geval de veroordeelde een rechtspersoon is, deze aldaar inkomsten of vermogen of zijn statutaire zetel heeft.
+2. Onze Minister kan een beslissing als bedoeld in het eerste lid aan een andere lidstaat van de Europese Unie zenden met het oog op de tenuitvoerlegging aldaar, indien de veroordeelde in die andere lidstaat inkomsten of vermogen of zijn vaste woon- of verblijfplaats heeft dan wel, in het geval de veroordeelde een rechtspersoon is, deze aldaar inkomsten of vermogen of zijn statutaire zetel heeft.
 
-3. Onverminderd de bepaling van het tweede lid, kan de officier van justitie een beslissing als bedoeld in onderdeel e van het eerste lid met het oog op de erkenning en tenuitvoerlegging aan de lidstaat zenden, waarvan hij het redelijke vermoeden heeft dat dat voorwerp zich op het grondgebied van die lidstaat bevindt.
+3. Onverminderd de bepaling van het tweede lid, kan Onze Minister een beslissing als bedoeld in onderdeel e van het eerste lid met het oog op de erkenning en tenuitvoerlegging aan de lidstaat zenden, waarvan hij het redelijke vermoeden heeft dat dat voorwerp zich op het grondgebied van die lidstaat bevindt.
 
 ##### Artikel 11. (erkenning en tenuitvoerlegging)
 
-1. Een voor erkenning vatbare beslissing, houdende een geldelijke sanctie, wordt erkend en ten uitvoer gelegd overeenkomstig het bepaalde in de [artikelen 561](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=561) en [572](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=572), [573, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=573), [574 tot en met 576 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=574), tenzij in deze wet anders is bepaald.
+1. Een voor erkenning vatbare beslissing, houdende een geldelijke sanctie, wordt erkend en ten uitvoer gelegd overeenkomstig het bepaalde in de [artikelen 6:1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:1), [6:1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:2), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1), [6:4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3), [6:4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:4), [6:4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5), [6:4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) en [6:4:8 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:8), tenzij in deze wet anders is bepaald.
 
-2. De officier van justitie kan de tenuitvoerlegging opschorten gedurende de periode die nodig is om de ten uitvoer te leggen beslissing te laten vertalen in de Nederlandse taal.
+2. Indien de ten uitvoer te leggen beslissing is opgelegd bij beschikking en betrekking heeft op gedragingen in strijd met de verkeersregels, met inbegrip van overtredingen van de rij- en rusttijdenwetgeving en van de wetgeving inzake gevaarlijke goederen zijn, in voorkomend geval, de [artikelen 28 tot en met 30 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) van overeenkomstige toepassing, met dien verstande dat de kantonrechter van de rechtbank van het arrondissement Noord-Nederland bevoegd is de vordering tot het verlenen van de machtiging tot het toepassen van het dwangmiddel gijzeling te behandelen.
 
-3. Behoudens de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=12&z=2018-07-01&g=2018-07-01) genoemde gevallen blijft de hoogte van de opgelegde geldelijke sanctie ongewijzigd.
+3. De officier van justitie en Onze Minister kunnen de tenuitvoerlegging opschorten gedurende de periode die nodig is om de ten uitvoer te leggen beslissing te laten vertalen.
+
+4. Behoudens de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=12&z=2020-01-01&g=2020-01-01) genoemde gevallen blijft de hoogte van de opgelegde geldelijke sanctie ongewijzigd.
 
 ##### Artikel 12. (verlaging van het verschuldigde bedrag)
 
 1. Ingeval de beslissing, houdende de geldelijke sanctie, strekt tot betaling van een geldboete die hoger is dan het wettelijke strafmaximum waarmee het desbetreffende feit naar Nederlands recht is bedreigd, verlaagt de officier van justitie de hoogte van het bedrag tot dat strafmaximum, indien het desbetreffende feit buiten het grondgebied van de uitvaardigende lidstaat is gepleegd en daarover naar Nederlands recht rechtsmacht kon worden uitgeoefend.
 
-2. Indien de veroordeelde aannemelijk maakt dat reeds betalingen zijn verricht ter voldoening van de geldelijke sanctie, raadpleegt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hierover.
+2. Indien de veroordeelde aannemelijk maakt dat reeds betalingen zijn verricht ter voldoening van de geldelijke sanctie, raadpleegt Onze Minister de bevoegde autoriteit van de uitvaardigende lidstaat hierover.
 
 3. Reeds geïnde bedragen worden geheel in mindering gebracht op het verschuldigde bedrag.
 
-4. Past de officier van justitie de hoogte van het verschuldigde bedrag aan op grond van het eerste of derde lid, dan stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis.
+4. Wordt de hoogte van het verschuldigde bedrag op grond van het eerste of derde lid aangepast, dan stelt de officier van justitie respectievelijk Onze Minister de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis.
 
 ##### Artikel 13. (verplichte weigeringsgronden)
 
@@ -208,7 +212,7 @@ Indien een beslissing als bedoeld in [artikel 6, eerste lid](https://wetten.over
 
 - e. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf jaren nog niet had bereikt;
 
-- f. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=7&z=2018-07-01&g=2018-07-01), is voldaan.
+- f. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=7&z=2020-01-01&g=2020-01-01), is voldaan.
 
 2. De tenuitvoerlegging van een beslissing wordt niet geweigerd op grond van het eerste lid, onderdeel b, indien het feit waarvoor de geldelijke sanctie is opgelegd, is vermeld op of valt onder de bij algemene maatregel van bestuur vastgestelde lijst met feiten en soorten van feiten.
 
@@ -230,13 +234,13 @@ De officier van justitie kan de erkenning en tenuitvoerlegging van een beslissin
 
 ##### Artikel 15. (rechtsmiddelen)
 
-1. De veroordeelde kan zich tegen het nemen van verhaal verzetten. [Artikel 575, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=575) is van toepassing, met dien verstande dat het bezwaarschrift wordt ingediend bij de rechtbank Noord-Nederland.
+1. De veroordeelde kan zich tegen het nemen van verhaal verzetten. [Artikel 6:4:5, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) is van toepassing, met dien verstande dat het bezwaarschrift wordt ingediend bij de rechtbank Noord-Nederland.
 
 2. Ten aanzien van derden die geheel of gedeeltelijk recht menen te hebben op voorwerpen waarop verhaal wordt genomen, zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) van toepassing.
 
 ##### Artikel 16. (vervangende hechtenis)
 
-1. Indien de geldelijke sanctie is opgelegd bij rechterlijke uitspraak waarbij tevens een tot vervangende hechtenis strekkende sanctie is opgelegd, kan de rechter op vordering van de officier van justitie verlof tot tenuitvoerlegging van die vervangende hechtenis verlenen. De vordering wordt slechts ingesteld indien de veroordeelde niet aan de verplichting tot betaling van de geldelijke sanctie voldoet, volledig verhaal op grond van de [artikelen 574 tot en met 576 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=574) op diens inkomsten of vermogen niet mogelijk is gebleken en de bevoegde autoriteit van de uitvaardigende lidstaat met de tenuitvoerlegging van die vervangende hechtenis heeft ingestemd.
+1. Indien de geldelijke sanctie is opgelegd bij rechterlijke uitspraak waarbij tevens een tot vervangende hechtenis strekkende sanctie is opgelegd, kan de rechter op vordering van de officier van justitie verlof tot tenuitvoerlegging van die vervangende hechtenis verlenen. De vordering wordt slechts ingesteld indien de veroordeelde niet aan de verplichting tot betaling van de geldelijke sanctie voldoet, volledig verhaal op grond van de [artikelen 6:4:4 tot en met 6:4:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:4) op diens inkomsten of vermogen niet mogelijk is gebleken en de bevoegde autoriteit van de uitvaardigende lidstaat met de tenuitvoerlegging van die vervangende hechtenis heeft ingestemd.
 
 2. De vordering wordt ingesteld bij en behandeld door de raadkamer van de rechtbank Noord-Nederland.
 
@@ -244,27 +248,27 @@ De officier van justitie kan de erkenning en tenuitvoerlegging van een beslissin
 
 4. De vordering wordt niet toegewezen indien het feit waarvoor de sanctie is opgelegd, indien het in Nederland was begaan, naar Nederlands recht niet strafbaar zou zijn.
 
-5. Bij de beoordeling van de vordering houdt de raadkamer rekening met gedeeltelijke betalingen die door de veroordeelde zijn verricht en het verhaal dat reeds ingevolge de [artikelen 574 tot en met 576 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=574) is genomen.
+5. Bij de beoordeling van de vordering houdt de raadkamer rekening met gedeeltelijke betalingen die door de veroordeelde zijn verricht en het verhaal dat reeds ingevolge de [artikelen 6:4:4 tot en met 6:4:6 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:4) is genomen.
 
-6. Bij toewijzing van de vordering bepaalt de raadkamer de duur van de vervangende hechtenis. [Artikel 24c, tweede tot en met vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) is van toepassing. De duur wordt niet hoger bepaald dan het maximum dat door de bevoegde autoriteit van de uitvaardigende lidstaat is aangegeven.
+6. Bij toewijzing van de vordering bepaalt de raadkamer de duur van de vervangende hechtenis. [Artikel 24c, tweede en derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) en [artikel 6:4:7 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) is van toepassing. De duur wordt niet hoger bepaald dan het maximum dat door de bevoegde autoriteit van de uitvaardigende lidstaat is aangegeven.
 
-7. De beslissing van de raadkamer wordt aan de veroordeelde betekend. [Artikel 564 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=564) is van overeenkomstige toepassing.
+7. De beslissing van de raadkamer wordt aan de veroordeelde betekend. De [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6) en [6:1:15 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) zijn van overeenkomstige toepassing.
 
 8. De tot vervangende hechtenis strekkende sanctie kan te allen tijde worden beëindigd door de officier van justitie. De hechtenis eindigt indien de veroordeelde alsnog volledig voldoet aan de verplichting tot betaling van de geldboete.
 
-9. Indien de vordering wordt toegewezen en de tot vervangende hechtenis strekkende sanctie ten uitvoer wordt gelegd, stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis.
+9. Indien de vordering wordt toegewezen en de tot vervangende hechtenis strekkende sanctie ten uitvoer wordt gelegd, stelt Onze Minister de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis.
 
 ##### Artikel 17. (toezending stukken)
 
-1. De officier van justitie zendt de beslissing vergezeld van een ingevuld certificaat dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model, rechtstreeks aan de autoriteiten van de uitvoerende lidstaat die bevoegd zijn de beslissing te erkennen en ten uitvoer te leggen.
+1. Onze Minister zendt de beslissing vergezeld van een ingevuld certificaat dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model, rechtstreeks aan de autoriteiten van de uitvoerende lidstaat die bevoegd zijn de beslissing te erkennen en ten uitvoer te leggen.
 
-2. Indien niet bekend is welke autoriteiten in de uitvoerende lidstaat bevoegd zijn tot erkenning en tenuitvoerlegging, verzoekt de officier van justitie hieromtrent om inlichtingen.
+2. Indien niet bekend is welke autoriteiten in de uitvoerende lidstaat bevoegd zijn tot erkenning en tenuitvoerlegging, verzoekt Onze Minister hieromtrent om inlichtingen.
 
 3. De beslissing wordt niet aan twee of meer lidstaten tegelijkertijd toegezonden.
 
 4. De toezending kan plaatsvinden per gewone post, telefax of elektronische post, mits de echtheid van de toegezonden documenten door de bevoegde autoriteit van de uitvoerende lidstaat kan worden vastgesteld.
 
-5. Op verzoek van de bevoegde autoriteit van de uitvoerende lidstaat, stuurt de officier van justitie deze een gewaarmerkt afschrift van de rechterlijke uitspraak of beschikking dan wel het origineel van het certificaat toe.
+5. Op verzoek van de bevoegde autoriteit van de uitvoerende lidstaat, stuurt Onze Minister deze een gewaarmerkt afschrift van de rechterlijke uitspraak of beschikking dan wel het origineel van het certificaat toe.
 
 ##### Artikel 18. (recht op tenuitvoerlegging)
 
@@ -274,11 +278,11 @@ De officier van justitie kan de erkenning en tenuitvoerlegging van een beslissin
 
 - a. van de bevoegde autoriteit van de uitvoerende lidstaat bericht is ontvangen dat de beslissing geheel of gedeeltelijk niet ten uitvoer is gelegd; of
 
-- b. een kennisgeving als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=2&artikel=21&z=2018-07-01&g=2018-07-01) is verzonden.
+- b. een kennisgeving als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=2&artikel=21&z=2020-01-01&g=2020-01-01) is verzonden.
 
 ##### Artikel 19. (kennisgeving vrijwillige betaling)
 
-Indien na toezending van een beslissing aan de uitvoerende lidstaat een geldsom is ontvangen ter voldoening van het verschuldigde bedrag, wordt de bevoegde autoriteit van de uitvoerende lidstaat hiervan door of vanwege de officier van justitie onverwijld in kennis gesteld.
+Indien na toezending van een beslissing aan de uitvoerende lidstaat een geldsom is ontvangen ter voldoening van het verschuldigde bedrag, wordt de bevoegde autoriteit van de uitvoerende lidstaat hiervan door of vanwege Onze Minister onverwijld in kennis gesteld.
 
 ##### Artikel 20. (uitkering slachtoffer)
 
@@ -286,7 +290,7 @@ Ingeval de aan de uitvoerende lidstaat toegezonden beslissing strekt tot betalin
 
 ##### Artikel 21. (kennisgeving staking tenuitvoerlegging)
 
-Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissing in de uitvoerende lidstaat moet worden gestaakt, wordt de bevoegde autoriteit in de uitvoerende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.
+Indien de officier van justitie of Onze Minister beslist dat de tenuitvoerlegging van de beslissing in de uitvoerende lidstaat moet worden gestaakt, wordt de bevoegde autoriteit in de uitvoerende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.
 
 ### Hoofdstuk III. Beslissingen tot confiscatie
 
@@ -294,19 +298,19 @@ Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissi
 
 1. Een voor erkenning vatbare beslissing tot confiscatie wordt erkend en ten uitvoer gelegd volgens Nederlands recht. Voor zover de beslissing tot confiscatie:
 
-- a. strekt tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, wordt de beslissing overeenkomstig [artikel 577b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577b), en [577c van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577c), ten uitvoer gelegd, met dien verstande dat de raadkamer van de rechtbank Noord-Nederland bevoegd is de vordering tot het verlenen van verlof tot tenuitvoerlegging van lijfsdwang te behandelen;
+- a. strekt tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, wordt de beslissing ten uitvoer gelegd overeenkomstig de [artikelen 6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:9), en [6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25), met dien verstande dat de rechtbank Noord-Nederland bevoegd is de vordering te behandelen tot het toepassen van het dwangmiddel gijzeling en daarbij [artikel 36f, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) van overeenkomstige toepassing is;
 
-- b. betrekking heeft op een specifiek voorwerp, wordt de beslissing overeenkomstig de [artikelen 577](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577) en [577a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577a) ten uitvoer gelegd, tenzij in deze wet anders is bepaald.
+- b. betrekking heeft op een specifiek voorwerp, wordt de beslissing overeenkomstig [artikel 6:5:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:5:1) ten uitvoer gelegd, tenzij in deze wet anders is bepaald.
 
-2. Indien de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp, kan de officier van justitie met de bevoegde autoriteit van de uitvaardigende lidstaat overeenkomen, dat de tenuitvoerlegging geschiedt in de vorm van een verplichting tot betaling van een bepaald geldbedrag aan de staat. In voorkomend geval zijn de [artikelen 561](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=561), [572](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=572), [573, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=573), en [574 tot en met 576 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=574) van overeenkomstige toepassing.
+2. Indien de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp, kan de officier van justitie met de bevoegde autoriteit van de uitvaardigende lidstaat overeenkomen, dat de tenuitvoerlegging geschiedt in de vorm van een verplichting tot betaling van een bepaald geldbedrag aan de staat. In voorkomend geval zijn de [artikelen 6:1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:1), [6:1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:2), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:4:1 tot en met 6:4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) en [6:4:8 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:8) van overeenkomstige toepassing.
 
 3. Een vervangende straf of maatregel wordt slechts ten uitvoer gelegd nadat de bevoegde autoriteit in de uitvaardigende lidstaat daartoe toestemming heeft gegeven.
 
 ##### Artikel 23. (samenloop)
 
-1. In geval van samenloop van beslissingen als bedoeld in [artikel 6, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2018-07-01&g=2018-07-01) beslist de officier van justitie aan welke beslissing tot confiscatie voorrang zal worden gegeven, daarbij rekening houdend met alle feiten en omstandigheden.
+1. In geval van samenloop van beslissingen als bedoeld in [artikel 6, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=6&z=2020-01-01&g=2020-01-01) beslist de officier van justitie aan welke beslissing tot confiscatie voorrang zal worden gegeven, daarbij rekening houdend met alle feiten en omstandigheden.
 
-2. Indien de betrokkene bewijs levert van gehele of gedeeltelijke confiscatie in een andere staat, raadpleegt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat. In geval van confiscatie van opbrengsten worden de delen van het bedrag die naar aanleiding van de beslissing tot confiscatie reeds in een andere staat zijn geconfisqueerd, volledig in mindering gebracht op het in Nederland te confisqueren geldbedrag.
+2. Indien de betrokkene bewijs levert van gehele of gedeeltelijke confiscatie in een andere staat, raadpleegt Onze Minister de bevoegde autoriteit van de uitvaardigende lidstaat. In geval van confiscatie van opbrengsten worden de delen van het bedrag die naar aanleiding van de beslissing tot confiscatie reeds in een andere staat zijn geconfisqueerd, volledig in mindering gebracht op het in Nederland te confisqueren geldbedrag.
 
 ##### Artikel 24. (verplichte weigeringsgronden)
 
@@ -324,11 +328,13 @@ Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissi
 
 - d. de tenuitvoerlegging van de beslissing tot confiscatie onverenigbaar is met een naar Nederlands recht geldende immuniteit;
 
-- e. de rechten van belanghebbenden de tenuitvoerlegging van die beslissing tot confiscatie onmogelijk maken.
+- e. de rechten van belanghebbenden de tenuitvoerlegging van die beslissing tot confiscatie onmogelijk maken;
+
+- f. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=7&z=2020-01-01&g=2020-01-01), is voldaan.
 
 2. De tenuitvoerlegging van een beslissing wordt niet geweigerd op grond van het eerste lid, onderdeel b, indien het feit waarvoor de beslissing tot confiscatie is opgelegd, is vermeld op of valt onder de bij algemene maatregel van bestuur vastgestelde lijst met feiten en soorten van feiten en het feit in de uitvaardigende lidstaat wordt bedreigd met een maximale vrijheidsstraf van ten minste drie jaren.
 
-3. De erkenning en tenuitvoerlegging van de beslissing tot confiscatie worden niet geweigerd op grond van het onderdeel a, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen. Hetzelfde geldt voor een weigering op grond van onderdeel e van het eerste lid, indien er geen rechtsmiddel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=27&z=2018-07-01&g=2018-07-01) is ingesteld.
+3. De erkenning en tenuitvoerlegging van de beslissing tot confiscatie worden niet geweigerd op grond van het onderdeel a, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen. Hetzelfde geldt voor een weigering op grond van onderdeel e van het eerste lid, indien er geen rechtsmiddel als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=27&z=2020-01-01&g=2020-01-01) is ingesteld.
 
 ##### Artikel 25. (facultatieve weigeringsgronden)
 
@@ -340,25 +346,23 @@ Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissi
 
 Indien de strafprocedure die leidde tot de beslissing tot confiscatie zowel betrekking had op een gronddelict als op het witwassen van geld, wordt onder «het feit» voor de toepassing van dit lid het gronddelict verstaan.
 
-2. Tevens kan de officier van justitie de erkenning en tenuitvoerlegging van een beslissing tot confiscatie weigeren indien hij van oordeel is dat die beslissing is gegeven met toepassing van verruimde confiscatiebevoegdheden zoals bedoeld in [artikel 1, onderdeel g, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=1&z=2018-07-01&g=2018-07-01).
+2. Tevens kan de officier van justitie de erkenning en tenuitvoerlegging van een beslissing tot confiscatie weigeren indien hij van oordeel is dat die beslissing is gegeven met toepassing van verruimde confiscatiebevoegdheden zoals bedoeld in [artikel 1, onderdeel g, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01).
 
 3. De erkenning en tenuitvoerlegging van de beslissing tot confiscatie worden niet geweigerd op grond van dit artikel, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.
 
 ##### Artikel 26. (opschorting)
 
-1. De officier van justitie kan de tenuitvoerlegging van een beslissing tot confiscatie opschorten indien:
+1. De tenuitvoerlegging van een beslissing tot confiscatie kan worden opgeschort indien:
 
-- a. de beslissing tot confiscatie een geldsom betreft die tevens aan een of meer andere lidstaten is gezonden met het oog op de tenuitvoerlegging aldaar en de officier van justitie van oordeel is dat het risico bestaat dat de totale opbrengst van de tenuitvoerlegging hoger is dan het in de beslissing tot confiscatie bepaalde bedrag;
+- a. de beslissing tot confiscatie een geldsom betreft die tevens aan een of meer andere lidstaten is gezonden met het oog op de tenuitvoerlegging aldaar en Onze Minister van oordeel is dat het risico bestaat dat de totale opbrengst van de tenuitvoerlegging hoger is dan het in de beslissing tot confiscatie bepaalde bedrag;
 
-- b. overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=27&z=2018-07-01&g=2018-07-01) een rechtsmiddel is ingesteld;
+- b. het belang van een lopend strafrechtelijk onderzoek zich verzet tegen de tenuitvoerlegging van de beslissing;
 
-- c. het belang van een lopend strafrechtelijk onderzoek zich verzet tegen de tenuitvoerlegging van de beslissing;
+- c. vertaling van de beslissing tot confiscatie nodig wordt geacht;
 
-- d. hij vertaling van de beslissing tot confiscatie nodig acht;
+- d. de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp en met betrekking tot dit voorwerp reeds een procedure tot confiscatie loopt.
 
-- e. de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp en met betrekking tot dit voorwerp reeds een procedure tot confiscatie loopt.
-
-2. De officier van justitie geeft de autoriteiten van de uitvaardigende lidstaat onverwijld schriftelijk kennis van de opschorting van de tenuitvoerlegging. In de gevallen, bedoeld in het eerste lid, onderdelen b tot en met e, doet hij dit onder vermelding van de gronden en zo mogelijk van de verwachte duur van de opschorting.
+2. Onze Minister geeft de autoriteiten van de uitvaardigende lidstaat onverwijld schriftelijk kennis van de opschorting van de tenuitvoerlegging. In de gevallen, bedoeld in het eerste lid, onderdelen b tot en met e, doet hij dit onder vermelding van de gronden en zo mogelijk van de verwachte duur van de opschorting.
 
 3. Zodra de gronden voor opschorting zijn vervallen, wordt de beslissing ten uitvoer gelegd. De autoriteiten van de uitvaardigende lidstaat worden hiervan onverwijld schriftelijk in kennis gesteld.
 
@@ -370,13 +374,13 @@ Indien de strafprocedure die leidde tot de beslissing tot confiscatie zowel betr
 
 3. Indien een rechtsmiddel wordt ingesteld tegen de erkenning en tenuitvoerlegging van een beslissing tot confiscatie, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan in kennis gesteld.
 
-4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=15&z=2018-07-01&g=2018-07-01) is van toepassing.
+4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=15&z=2020-01-01&g=2020-01-01) is van toepassing.
 
 ##### Artikel 28. (verdeling van geconfisqueerde voorwerpen)
 
-1. Indien het geldbedrag dat uit de tenuitvoerlegging van de beslissing tot confiscatie wordt verkregen, hoger is dan € 10 000,–, wordt van de totale opbrengst de helft aan de uitvaardigende lidstaat overgedragen. Indien het geldbedrag dat uit de tenuitvoerlegging van de beslissing tot confiscatie wordt verkregen, lager is dan € 10 000,–, valt de gehele opbrengst toe aan de Staat. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de wijze waarop deze verdeling plaatsvindt.
+1. Indien het geldbedrag dat uit de tenuitvoerlegging van de beslissing tot confiscatie wordt verkregen, hoger is dan € 10 000,–, wordt van de totale opbrengst de helft aan de uitvaardigende lidstaat overgedragen. Indien het geldbedrag dat uit de tenuitvoerlegging van de beslissing tot confiscatie wordt verkregen, lager is dan of gelijk is aan € 10 000,–, valt de gehele opbrengst toe aan de Staat. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de wijze waarop deze verdeling plaatsvindt.
 
-2. De officier van justitie kan beslissen dat specifieke voorwerpen, verkregen door de tenuitvoerlegging van een beslissing tot confiscatie:
+2. Onze Minister kan beslissen dat specifieke voorwerpen, verkregen door de tenuitvoerlegging van een beslissing tot confiscatie:
 
 - a. worden verkocht, waarna de opbrengst van de verkoop overeenkomstig het eerste lid wordt verdeeld;
 
@@ -386,13 +390,13 @@ Indien de strafprocedure die leidde tot de beslissing tot confiscatie zowel betr
 
 3. De voorwerpen worden niet verkocht of teruggegeven, indien het cultuurgoederen zijn die deel uitmaken van het Nederlandse culturele erfgoed.
 
-4. Indien de voorwerpen met toepassing van [artikel 573, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=573) zijn verkregen, worden deze niet aan de uitvaardigende lidstaat overgedragen, dan nadat deze daarvoor toestemming heeft gegeven.
+4. Indien de voorwerpen met toepassing van [artikel 6:4:3, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3) zijn verkregen, worden deze niet aan de uitvaardigende lidstaat overgedragen, dan nadat deze daarvoor toestemming heeft gegeven.
 
-5. De minister van Justitie kan met de uitvaardigende lidstaat overeenkomen dat de geconfisqueerde voorwerpen anders worden verdeeld dan volgens het eerste en tweede lid.
+5. Onze Minister kan met de uitvaardigende lidstaat overeenkomen dat de geconfisqueerde voorwerpen anders worden verdeeld dan volgens het eerste en tweede lid.
 
 ##### Artikel 29. (mededelingen)
 
-1. Indien de officier van justitie op grond van de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=24&z=2018-07-01&g=2018-07-01), [24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=24a&z=2018-07-01&g=2018-07-01), of [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=25&z=2018-07-01&g=2018-07-01), de erkenning en tenuitvoerlegging van de beslissing tot confiscatie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.
+1. Indien de officier van justitie op grond van de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=24&z=2020-01-01&g=2020-01-01), [24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=24a&z=2020-01-01&g=2020-01-01), of [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=25&z=2020-01-01&g=2020-01-01), de erkenning en tenuitvoerlegging van de beslissing tot confiscatie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.
 
 2. Indien de tenuitvoerlegging van de beslissing tot confiscatie niet, of niet geheel slaagt, stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld met redenen omkleed in kennis.
 
@@ -420,17 +424,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 31. (toezending stukken)
 
-1. De officier van justitie zendt een gewaarmerkt afschrift van de beslissing tot confiscatie, vergezeld van een ingevuld certificaat dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model rechtstreeks aan de autoriteit van de uitvoerende lidstaat die bevoegd is de beslissing te erkennen en ten uitvoer te leggen, op een wijze die de mogelijkheid biedt een schriftelijk document voort te brengen op grond waarvan de echtheid kan worden vastgesteld.
+1. Onze Minister zendt een gewaarmerkt afschrift van de beslissing tot confiscatie, vergezeld van een ingevuld certificaat dat is opgesteld overeenkomstig het bij algemene maatregel van bestuur vastgestelde model rechtstreeks aan de autoriteit van de uitvoerende lidstaat die bevoegd is de beslissing te erkennen en ten uitvoer te leggen, op een wijze die de mogelijkheid biedt een schriftelijk document voort te brengen op grond waarvan de echtheid kan worden vastgesteld.
 
 2. Op verzoek van de uitvoerende lidstaat worden een voor eensluidend gewaarmerkt afschrift van de beslissing tot confiscatie en het originele exemplaar van het certificaat aan de uitvoerende lidstaat toegezonden.
 
-3. Indien niet bekend is welke autoriteiten in de uitvoerende lidstaat bevoegd zijn tot erkenning en tenuitvoerlegging, verzoekt de officier van justitie hieromtrent om inlichtingen onder andere bij het Europees Justitieel Netwerk.
+3. Indien niet bekend is welke autoriteiten in de uitvoerende lidstaat bevoegd zijn tot erkenning en tenuitvoerlegging, verzoekt Onze Minister hieromtrent om inlichtingen onder andere bij het Europees Justitieel Netwerk.
 
 4. Behoudens de gevallen, bedoeld in het vijfde en zesde lid, wordt de beslissing niet aan twee of meer lidstaten tegelijkertijd toegezonden.
 
-5. De officier van justitie kan een in Nederland genomen beslissing tot confiscatie die betrekking heeft op een geldbedrag slechts aan meer dan een lidstaat tegelijkertijd toezenden, indien hij van oordeel is dat alleen door meervoudige toezending de volledige tenuitvoerlegging van de beslissing tot confiscatie kan worden bereikt. De officier van justitie draagt er zorg voor dat de totale opbrengst van de tenuitvoerlegging niet meer bedraagt dan het in de beslissing tot confiscatie bepaalde maximumbedrag.
+5. Onze Minister kan een in Nederland genomen beslissing tot confiscatie die betrekking heeft op een geldbedrag slechts aan meer dan een lidstaat tegelijkertijd toezenden, indien hij van oordeel is dat alleen door meervoudige toezending de volledige tenuitvoerlegging van de beslissing tot confiscatie kan worden bereikt. Onze Minister draagt er zorg voor dat de totale opbrengst van de tenuitvoerlegging niet meer bedraagt dan het in de beslissing tot confiscatie bepaalde maximumbedrag.
 
-6. De officier van justitie kan een in Nederland genomen beslissing tot confiscatie die betrekking heeft op een of meer specifieke voorwerpen slechts aan meer dan een lidstaat tegelijkertijd toezenden, indien:
+6. Onze Minister kan een in Nederland genomen beslissing tot confiscatie die betrekking heeft op een of meer specifieke voorwerpen slechts aan meer dan een lidstaat tegelijkertijd toezenden, indien:
 
 - a. hij redelijke vermoedens heeft dat verschillende voorwerpen waarop de beslissing betrekking heeft, zich in verschillende lidstaten bevinden;
 
@@ -440,19 +444,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 32. (recht van tenuitvoerlegging)
 
-Het recht van tenuitvoerlegging in Nederland van de aan de uitvoerende lidstaat toegezonden beslissing blijft bestaan, onverminderd de toepassing van de bepalingen in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2018-07-01&g=2018-07-01).
+Het recht van tenuitvoerlegging in Nederland van de aan de uitvoerende lidstaat toegezonden beslissing blijft bestaan, onverminderd de toepassing van de bepalingen in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 33. (mededelingen)
 
-1. Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissing tot confiscatie in de uitvoerende lidstaat moet worden gestaakt, stelt hij de bevoegde autoriteit hiervan onverwijld schriftelijk in kennis.
+1. Indien Onze Minister beslist dat de tenuitvoerlegging van de beslissing tot confiscatie in de uitvoerende lidstaat moet worden gestaakt, stelt hij de bevoegde autoriteit hiervan onverwijld schriftelijk in kennis.
 
-2. In geval van toepassing van [artikel 31, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2018-07-01&g=2018-07-01), stelt de officier van justitie onmiddellijk de bevoegde autoriteiten in alle uitvoerende lidstaten in kennis, indien
+2. In geval van toepassing van [artikel 31, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2020-01-01&g=2020-01-01), stelt Onze Minister onmiddellijk de bevoegde autoriteiten in alle uitvoerende lidstaten in kennis, indien
 
 - a. hij van oordeel is dat het risico bestaat dat het in de beslissing tot confiscatie bepaalde maximumbedrag zal worden overschreden;
 
 - b. de beslissing tot confiscatie geheel of ten dele ten uitvoer is gelegd in Nederland of een van de andere uitvoerende staten; indien van toepassing wordt het nog ten uitvoer te leggen bedrag gespecificeerd;
 
-- c. de officier van justitie een geldsom ontvangt die de veroordeelde vrijwillig heeft betaald in het kader van de beslissing tot confiscatie, na de toezending van die beslissing tot confiscatie naar een andere lidstaat.
+- c. Onze Minister een geldsom ontvangt die de veroordeelde vrijwillig heeft betaald in het kader van de beslissing tot confiscatie, na de toezending van die beslissing tot confiscatie naar een andere lidstaat.
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -460,25 +464,25 @@ Het recht van tenuitvoerlegging in Nederland van de aan de uitvoerende lidstaat 
 
 1. Alle kosten van tenuitvoerlegging van een rechterlijke uitspraak, beslissing tot confiscatie of beschikking in Nederland overeenkomstig de bepalingen van deze wet, komen ten laste van de staat.
 
-2. De Minister van Justitie kan de bevoegde autoriteit van de uitvaardigende lidstaat voorstellen de kosten van de tenuitvoerlegging te delen, indien het de tenuitvoerlegging van een rechterlijke uitspraak overeenkomstig [Hoofdstuk III, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&z=2018-07-01&g=2018-07-01), betreft.
+2. Onze Minister kan de bevoegde autoriteit van de uitvaardigende lidstaat voorstellen de kosten van de tenuitvoerlegging te delen, indien het de tenuitvoerlegging van een rechterlijke uitspraak overeenkomstig [Hoofdstuk III, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&z=2020-01-01&g=2020-01-01), betreft.
 
-3. Wanneer op grond van [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2018-07-01&g=2018-07-01), een lidstaat is verzocht een Nederlandse beslissing tot confiscatie te erkennen en ten uitvoer te leggen, kan de Minister van Justitie instemmen met het verzoek van de tenuitvoerleggingsstaat om de kosten van de tenuitvoerlegging te delen. De Minister van Justitie verleent slechts instemming indien hij op basis van door de uitvoerende lidstaat verstrekte gedetailleerde gegevens van oordeel is dat die kosten hoog of uitzonderlijk zijn.
+3. Wanneer op grond van [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=2&artikel=31&z=2020-01-01&g=2020-01-01), een lidstaat is verzocht een Nederlandse beslissing tot confiscatie te erkennen en ten uitvoer te leggen, kan Onze Minister instemmen met het verzoek van de tenuitvoerleggingsstaat om de kosten van de tenuitvoerlegging te delen. Onze Minister verleent slechts instemming indien hij op basis van door de uitvoerende lidstaat verstrekte gedetailleerde gegevens van oordeel is dat die kosten hoog of uitzonderlijk zijn.
 
 ##### Artikel 35. (baten)
 
-1. Al hetgeen wordt verkregen door tenuitvoerlegging in Nederland van een rechterlijke uitspraak of beschikking overeenkomstig [Hoofdstuk II, Afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&z=2018-07-01&g=2018-07-01), van deze wet, komt ten bate van de staat.
+1. Al hetgeen wordt verkregen door tenuitvoerlegging in Nederland van een rechterlijke uitspraak of beschikking overeenkomstig [Hoofdstuk II, Afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&z=2020-01-01&g=2020-01-01), van deze wet, komt ten bate van de staat.
 
-2. De Minister van Justitie kan met de uitvaardigende lidstaat overeenkomen dat de verkregen baten als bedoeld in het eerste lid geheel of gedeeltelijk worden verstrekt aan de uitvaardigende lidstaat.
+2. Onze Minister kan met de uitvaardigende lidstaat overeenkomen dat de verkregen baten als bedoeld in het eerste lid geheel of gedeeltelijk worden verstrekt aan de uitvaardigende lidstaat.
 
-3. Al hetgeen wordt verkregen door tenuitvoerlegging in Nederland van een rechterlijke uitspraak overeenkomstig [Hoofdstuk III, Afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&z=2018-07-01&g=2018-07-01), van deze wet, wordt overeenkomstig de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=28&z=2018-07-01&g=2018-07-01) verdeeld.
+3. Al hetgeen wordt verkregen door tenuitvoerlegging in Nederland van een rechterlijke uitspraak overeenkomstig [Hoofdstuk III, Afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&z=2020-01-01&g=2020-01-01), van deze wet, wordt overeenkomstig de bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=III&afdeling=1&artikel=28&z=2020-01-01&g=2020-01-01) verdeeld.
 
 ##### Artikel 36. (betekening)
 
-Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 590 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=585) van toepassing.
+Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36g), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36g) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van toepassing.
 
 ##### Artikel 37. (gratie)
 
-Indien met toepassing van [artikel 558, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=558) gratie is verleend van een sanctie die met toepassing van de bepalingen van deze wet in Nederland is erkend en ten uitvoer wordt gelegd, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.
+Indien met toepassing van [artikel 6:7:1, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:1) gratie is verleend van een sanctie die met toepassing van de bepalingen van deze wet in Nederland is erkend en ten uitvoer wordt gelegd, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.
 
 ##### Artikel 38
 
@@ -502,11 +506,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. de veroordeelde niet in persoon is verschenen, tenzij in het certificaat is vermeld dat de veroordeelde, na uitdrukkelijk te zijn geïnformeerd over de behandeling ter terechtzitting en over de mogelijkheid om in persoon ter terechtzitting aanwezig te zijn, uitdrukkelijk heeft verklaard afstand te doen van zijn recht op een mondelinge behandeling en uitdrukkelijk te kennen heeft gegeven dat hij de zaak niet betwist.
 
-2. De tenuitvoerlegging van de beslissing, houdende een geldelijke sanctie wordt niet geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.
+2. De tenuitvoerlegging van de beslissing, houdende een geldelijke sanctie wordt niet op grond van het eerste lid geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.
 
 ##### Artikel 14a. (mededeling)
 
-Indien de officier van justitie op grond van een van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=13&z=2018-07-01&g=2018-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=13a&z=2018-07-01&g=2018-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=14&z=2018-07-01&g=2018-07-01) genoemde gronden de tenuitvoerlegging van de geldelijke sanctie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat daarvan onverwijld, schriftelijk en met redenen omkleed in kennis.
+Indien de officier van justitie op grond van een van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=13&z=2020-01-01&g=2020-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=13a&z=2020-01-01&g=2020-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&hoofdstuk=II&afdeling=1&artikel=14&z=2020-01-01&g=2020-01-01) genoemde gronden de tenuitvoerlegging van de geldelijke sanctie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat daarvan onverwijld, schriftelijk en met redenen omkleed in kennis.
 
 ### Afdeling 2. Erkenning en tenuitvoerlegging van Nederlandse beslissingen, houdende een geldelijke sanctie
 
@@ -524,7 +528,7 @@ Indien de officier van justitie op grond van een van de in de [artikelen 13](htt
 
 - 3°. nadat de beslissing tot confiscatie aan hem was betekend en hij uitdrukkelijk was geïnformeerd over zijn recht op een verzetprocedure of een procedure in hoger beroep, waarbij hij het recht heeft aanwezig te zijn en tijdens welke de zaak opnieuw ten gronde wordt behandeld en nieuw bewijsmateriaal wordt toegelaten, die kan leiden tot herziening van de oorspronkelijke beslissing, uitdrukkelijk te kennen heeft gegeven dat hij de beslissing niet betwist of niet binnen de voorgeschreven termijn verzet of hoger beroep heeft aangetekend.
 
-2. De tenuitvoerlegging van de beslissing tot confiscatie wordt niet geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.
+2. De tenuitvoerlegging van de beslissing tot confiscatie wordt niet op grond van het eerste lid geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.
 
 ### Afdeling 2. Erkenning en tenuitvoerlegging van Nederlandse beslissingen tot confiscatie
 
