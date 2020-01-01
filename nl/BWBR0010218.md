@@ -4,7 +4,7 @@ identifier: "BWBR0010218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010218"
 soort: "ministeriele-regeling"
@@ -259,7 +259,7 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 - d. GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1199,-.
 
-2. Indien het onderzoek van een radio-installatie aan boord van een in Nederland thuis behorend schip geheel of gedeeltelijk in het buitenland plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=30&z=2010-10-10&g=2010-10-10), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=31&z=2010-10-10&g=2010-10-10), een toeslag verschuldigd van 25% van het tarief, genoemd in het eerste lid.
+2. Indien het onderzoek van een radio-installatie aan boord van een in Nederland thuis behorend schip geheel of gedeeltelijk in het buitenland plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=30&z=2020-01-01&g=2020-01-01), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=31&z=2020-01-01&g=2020-01-01), een toeslag verschuldigd van 25% van het tarief, genoemd in het eerste lid.
 
 3. Voor het verstrekken van een certificaat voor de radio-installatie is een tarief verschuldigd van f 350,-.
 
@@ -297,7 +297,7 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 1. Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor een tussentijdse aanpassing of een verlenging van een document als bedoeld in deze regeling, is een tarief verschuldigd van f 779,-.
 
-2. Voor de werkzaamheden nodig voor het verstrekken van een extra exemplaar, een tussentijdse vervanging of een verlenging van een document als bedoeld in deze regeling, alsmede voor de afgifte van een document, met uitzondering van het document, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=22&z=2010-10-10&g=2010-10-10), zonder dat hiervoor een onderzoek aan boord plaatsvindt, is een tarief verschuldigd van f 350,-.
+2. Voor de werkzaamheden nodig voor het verstrekken van een extra exemplaar, een tussentijdse vervanging of een verlenging van een document als bedoeld in deze regeling, alsmede voor de afgifte van een document, met uitzondering van het document, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=22&z=2020-01-01&g=2020-01-01), zonder dat hiervoor een onderzoek aan boord plaatsvindt, is een tarief verschuldigd van f 350,-.
 
 3. Indien ten behoeve van een schip tegelijkertijd meerdere documenten als bedoeld in het tweede lid worden verstrekt, zonder dat hiervoor een onderzoek aan boord plaatsvindt, is voor elk volgend document een tarief verschuldigd van f 225,-.
 
@@ -305,7 +305,7 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 ##### Artikel 25
 
-Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=21&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=22&z=2010-10-10&g=2010-10-10) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2010-10-10&g=2010-10-10), buiten toedoen van de ambtenaren van de Scheepvaartinspectie niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
+Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=21&z=2020-01-01&g=2020-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=3&artikel=22&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2020-01-01&g=2020-01-01), buiten toedoen van de ambtenaren van de Scheepvaartinspectie niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
 
 - a. indien de werkzaamheden niet volledig zijn uitgevoerd f 167,- per uur per ambtenaar;
 
@@ -434,11 +434,11 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 ##### Artikel 28
 
-1. Indien het onderzoek, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2010-10-10&g=2010-10-10), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 167,- per uur.
+1. Indien het onderzoek, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2020-01-01&g=2020-01-01), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 167,- per uur.
 
-2. Voor hernieuwing van een document als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2010-10-10&g=2010-10-10), is een tarief verschuldigd van f 350,-.
+2. Voor hernieuwing van een document als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2020-01-01&g=2020-01-01), is een tarief verschuldigd van f 350,-.
 
-3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2010-10-10&g=2010-10-10) en voor elk van de volgende documenten een tarief verschuldigd van f 350,-.
+3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=4&artikel=27&z=2020-01-01&g=2020-01-01) en voor elk van de volgende documenten een tarief verschuldigd van f 350,-.
 
 ##### Artikel 29
 
@@ -454,7 +454,7 @@ Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onde
 
 ##### Artikel 31
 
-1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 83,- per uur per ambtenaar.
+1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) genoemde algemeen erkende feestdag, is een aanvullend tarief verschuldigd van f 83,- per uur per ambtenaar.
 
 2. Het in het eerste lid genoemde tarief is eveneens voor uitgevoerde onderzoeken in het buitenland buiten de daar ter plaatse geldende werktijden verschuldigd.
 
@@ -498,7 +498,7 @@ Deze regeling wordt aangehaald als: Regeling tarieven Schepenwet 1999.
 
 ## BIJLAGE
 
-Onderzoekstermijn als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=30&z=2010-10-10&g=2010-10-10). De termijn begint op de dag van vertrek vanuit Nederland loopt tot aan de dag van terugkomst in Nederland.
+Onderzoekstermijn als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010218&hoofdstuk=5&artikel=30&z=2020-01-01&g=2020-01-01). De termijn begint op de dag van vertrek vanuit Nederland loopt tot aan de dag van terugkomst in Nederland.
 
 |   | **Tonnage of lengte** | **Aantal dagen** |
 | --- | --- | --- |
