@@ -4,7 +4,7 @@ identifier: "BWBR0033729"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033729"
 soort: "wet"
@@ -119,9 +119,17 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 - –. **representatieve organisatie:** een rechtspersoon die de belangen vertegenwoordigt van producenten, leveranciers of verbruikers in de warmtesector;
 
-- –. **verbruiker:** een persoon die warmte afneemt van een warmtenet en een aansluiting heeft van maximaal 100 kilowatt;
+- –. **verbruiker:** een persoon die warmte afneemt van een warmtenet of een inpandig leidingstelsel en:
 
-- –. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01);
+- i. een individuele aansluiting heeft van maximaal 100 kilowatt, of
+
+- ii. een centrale aansluiting heeft van meer dan 100 kilowatt, warmte levert aan een verbruiker als bedoeld onder i en tevens:
+
+- 1°. optreedt als verhuurder voor een verbruiker als bedoeld onder i, of
+
+- 2°. een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm is waarbij een verbruiker als bedoeld onder i is aangesloten;
+
+- –. **vergunninghouder:** de houder van een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-01-01&g=2020-01-01);
 
 - –. **verhuurder:** een eigenaar van een voor verhuur bestemde woonruimte of bedrijfsruimte in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;
 
@@ -151,11 +159,15 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 3. Ten aanzien van de levering van warmte brengt de leverancier ten hoogste in rekening:
 
-- a. de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01),
+- a. de maximumprijs voor de levering van warmte, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01);
 
-- b. de redelijke kosten voor het ter beschikking stellen van de warmtewisselaar, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), en
+- b. het maximumtarief voor het in gebruik nemen van de afleverset voor warmte, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2020-01-01&g=2020-01-01);
 
-- c. het tarief voor de meting van het warmteverbruik, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01).
+- c. de eenmalige aansluitbijdrage, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2020-01-01&g=2020-01-01);
+
+- d. het tarief voor afsluiting, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4a&z=2020-01-01&g=2020-01-01), en
+
+- e. het tarief voor de meting van het warmteverbruik door middel van individuele meters, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2020-01-01&g=2020-01-01), de redelijke kosten voor de meting van het warmteverbruik door middel van individuele warmtekostenverdelers als bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2020-01-01&g=2020-01-01), of de redelijke kosten voor het berekenen van het warmteverbruik door middel van een kostenverdeelsystematiek, als bedoeld in artikel 8a, tweede lid.
 
 4. Een leverancier onthoudt zich van iedere vorm van ongerechtvaardigd onderscheid jegens zijn verbruikers.
 
@@ -193,23 +205,35 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 1. De Autoriteit Consument en Markt stelt de maximumprijs vast die een leverancier ten hoogste zal berekenen voor de levering van warmte. Van het besluit tot vaststelling van een maximumprijs wordt mededeling gedaan in de Staatscourant.
 
-2. De maximumprijs:
+2. De maximumprijs kan per aflevertemperatuur verschillen en:
 
 - a. is gebaseerd op de integrale kosten die een verbruiker zou moeten maken voor het verkrijgen van dezelfde hoeveelheid warmte bij het gebruik van gas als energiebron. Deze kosten worden bepaald met de rendementsmethode;
 
 - b. is opgebouwd uit een gebruiksafhankelijk deel, uitgedrukt in een bedrag in euro per gigajoule, en een gebruiksonafhankelijk deel uitgedrukt in een bedrag in euro.
 
-3. De maximumprijs treedt in werking op een door de Autoriteit Consument en Markt te bepalen datum en geldt tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs. Indien op 1 januari de maximumprijs voor dat jaar nog niet is vastgesteld, geldt de laatst vastgestelde maximumprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs voor het volgende jaar.
+3. Het gebruiksonafhankelijk deel van de maximumprijs voor aansluitingen van meer dan 100 kilowatt kan verschillen van het gebruiksonafhankelijk deel van de maximumprijs voor aansluitingen van maximaal 100 kilowatt.
 
-4. Na de inwerkingtreding van het besluit tot vaststelling van de maximumprijs, bedoeld in het derde lid, worden de prijzen voor levering van warmte die hoger zijn dan de maximumprijs van rechtswege gesteld op die maximumprijs.
+4. In afwijking van het eerste lid en het tweede lid, onderdeel a, wordt een maximumprijs voor gebruik van een bij algemene maatregel van bestuur aangewezen systeem dat mede dient voor levering van warmte vastgesteld met een bij die maatregel vast te stellen methode.
 
-5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de elementen en wijze van berekening van de maximumprijs, bedoeld in het eerste lid. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+5. De maximumprijs, bedoeld in het eerste en vierde lid, treedt in werking op een door de Autoriteit Consument en Markt te bepalen datum en geldt tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs. Indien op 1 januari de maximumprijs voor dat jaar nog niet is vastgesteld, geldt de laatst vastgestelde maximumprijs tot de datum van inwerkingtreding van het besluit tot vaststelling van de maximumprijs voor het volgende jaar.
+
+6. Na de inwerkingtreding van het besluit tot vaststelling van de maximumprijs, bedoeld in het eerste en vierde lid, worden de prijzen voor levering van warmte die hoger zijn dan de maximumprijs van rechtswege gesteld op die maximumprijs.
+
+7. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de elementen en de wijze van berekening van de maximumprijs, bedoeld in het eerste lid, en de indeling in verschillende temperatuurcategorieën, op grond van het tweede lid.
+
+8. De voordracht voor de algemene maatregel van bestuur, bedoeld in het zevende lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 6
 
-1. Indien door een leverancier bij een individuele afnemer een eenmalige aansluitbijdrage in rekening wordt gebracht voor een onvoorziene aansluiting op een bestaand warmtenet, bedraagt deze bijdrage maximaal hetgeen een gasverbruiker zou bijdragen in de situatie waarbij sprake is van aansluiting op een gasnet.
+1. Indien door een leverancier bij een verbruiker een eenmalige aansluitbijdrage in rekening wordt gebracht voor een aansluiting op een warmtenet, bedraagt deze bijdrage niet meer dan een door Autoriteit Consument en Markt vast te stellen bedrag.
 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de aansluitbijdrage en de toepassing van het eerste lid.
+2. Het bedrag, bedoeld in het eerste lid, kan voor verschillende categorieën aansluitingen verschillend worden vastgesteld afhankelijk van de bestanddelen waarvoor de bijdrage in rekening wordt gebracht.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot
+
+- a. de verschillende categorieën, bedoeld in het tweede lid, en
+
+- b. de berekening van de hoogte van het bedrag, bedoeld in het eerste lid, per categorie.
 
 ##### Artikel 7
 
@@ -223,11 +247,13 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 ##### Artikel 8
 
-1. Een leverancier heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn en tegen redelijke tarieven en voorwaarden aan verbruikers een warmtewisselaar ter beschikking wordt gesteld door middel van verhuur wanneer:
+1. Een leverancier heeft, met uitzondering van gevallen waarin dit voor de levering van warmte niet noodzakelijk is, tot taak er zorg voor te dragen dat binnen een redelijke termijn en tegen ten hoogste een door de Autoriteit Consument en Markt vast te stellen tarief een afleverset voor warmte in gebruik kan worden genomen wanneer:
 
-- a. een bestaande warmtewisselaar dient te worden vervangen;
+- a. een bestaande afleverset voor warmte dient te worden vervangen;
 
-- b. een nieuwe warmtewisselaar wordt geïnstalleerd in een nieuw gebouw.
+- b. een nieuwe afleverset voor warmte wordt geïnstalleerd in een nieuw gebouw.
+
+Het tarief kan verschillen voor verschillende categorieën en aanvullende functionaliteiten van afleversets voor warmte
 
 2. Een leverancier heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan verbruikers en voor iedere eenheid een individuele meter ter beschikking wordt gesteld door middel van verhuur die het actuele warmteverbruik kan weergeven en die informatie kan geven over de tijd waarin sprake was van daadwerkelijk verbruik, wanneer:
 
@@ -243,23 +269,33 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 4. Een leverancier leest meetgegevens van een verbruiker, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de verbruiker hierom verzoekt.
 
-5. Het tarief voor de meting van het warmteverbruik wordt vastgesteld op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.
+5. Het tarief voor de meting van het warmteverbruik door middel van een individuele meter wordt vastgesteld op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.
 
-6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
+
+- a. de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens;
+
+- b. de berekening van de hoogte van het door de Autoriteit Consument en Markt vast te stellen maximumtarief voor het in gebruik nemen van een afleverset, en
+
+- c. het vaststellen van categorieën en aanvullende functionaliteiten van afleversets.
 
 7. Het is anderen dan de desbetreffende leverancier verboden een taak uit te voeren als bedoeld in het eerste en tweede lid.
 
+8. Een afleverset voor warmte ten behoeve van warmtelevering aan één verbruiker wordt door middel van verhuur tegen ten hoogste het voor die afleverset vastgestelde tarief, bedoeld in het eerste lid, ter beschikking gesteld.
+
+9. Indien een gebouw waarin zich meerdere woon- of bedrijfsruimtes bevinden verwarmd wordt met behulp van een centrale productieinstallatie voor warmte die zich in het betreffende gebouw of in een nabij gelegen gebouw of bouwwerk bevindt, meet de leverancier de hoeveelheid warmte die de centrale installatie produceert.
+
 ##### Artikel 8a
 
-1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
+1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2020-01-01&g=2020-01-01), baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
 
-2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
+2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
 
 3. De kostenverdeelsystematiek, bedoeld in het tweede lid, gaat uit van een binnen de technische en financiële mogelijkheden zo nauwkeurig mogelijke benadering van het werkelijke aandeel van het verbruik van de individuele verbruiker.
 
 4. In afwijking van het derde lid kunnen als onderdeel van de kostenverdeelsystematiek kosten van verbruik in het gemeenschappelijk belang en redelijke kosten voor uitvoering van de kostenverdeelsystematiek zelf aan individuele verbruikers worden toegerekend.
 
-5. Indien een onroerende zaak, die is gebouwd voor inwerkingtreding van dit lid, bestaat uit meerdere woon -of bedrijfsruimten kan de leverancier het individueel warmtegebruik van de verbruiker, zoals gemeten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01) of [artikel 8a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2019-07-01&g=2019-07-01), corrigeren aan de hand van correctiefactoren die door de leverancier zijn vastgesteld met inachtname van de daarvoor gangbare technische normen voor:
+5. Indien een onroerende zaak, die is gebouwd voor inwerkingtreding van dit lid, bestaat uit meerdere woon -of bedrijfsruimten kan de leverancier het individueel warmtegebruik van de verbruiker, zoals gemeten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2020-01-01&g=2020-01-01) of [artikel 8a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2020-01-01&g=2020-01-01), corrigeren aan de hand van correctiefactoren die door de leverancier zijn vastgesteld met inachtname van de daarvoor gangbare technische normen voor:
 
 - a. de ligging van woonruimten, en
 
@@ -317,7 +353,7 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 - b. de vergunninghouder de aan de vergunning verbonden voorschriften of opgelegde beperkingen niet nakomt;
 
-- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2019-07-01&g=2019-07-01), niet treft;
+- c. de vergunninghouder de opgedragen voorzieningen, bedoeld in [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.3&artikel=12b&z=2020-01-01&g=2020-01-01), niet treft;
 
 - d. de vergunninghouder bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;
 
@@ -337,9 +373,19 @@ Inwerkingtreding voorheen door Stb. 2013/325 gesteld op 1 november 2013.
 
 1. De vergunninghouder voert een afzonderlijke boekhouding met betrekking tot de levering van warmte en, indien van toepassing, voor de levering van koude.
 
-2. De vergunninghouder publiceert een jaarrekening en een jaarverslag. Het jaarverslag bevat betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over de door de vergunninghouder bij verbruikers in rekening gebrachte prijs en omtrent de integrale kosten en opbrengsten die verband houden met de levering van warmte. De in het jaarverslag opgenomen informatie is voorzien van een accountantsverklaring.
+2. De vergunninghouder publiceert een jaarrekening en een bestuursverslag overeenkomstig [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste en tweede lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01).
+3. Het bestuursverslag, bedoeld in het tweede lid, bevat tevens betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over:
+
+- a. de door de vergunninghouder bij verbruikers in rekening gebrachte prijs;
+
+- b. de integrale kosten en opbrengsten die verband houden met de levering van warmte, en
+
+- c. de duurzaamheid van de geleverde warmte.
+
+4. De in het bestuursverslag opgenomen informatie als bedoeld in het derde lid, onderdeel a en b, is voorzien van een accountantsverklaring.
+
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede en derde lid en [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01).
 
 #### § 2.3. Noodvoorziening
 
@@ -399,7 +445,7 @@ Vervallen
 
 ##### Artikel 15
 
-De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet, met uitzondering van [artikel 3d, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3d&z=2019-07-01&g=2019-07-01).
+De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet en het toezicht op de naleving van deze wet, met uitzondering van [artikel 3d, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3d&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 16
 
@@ -413,7 +459,7 @@ De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verban
 
 1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen.
 
-2. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2019-07-01&g=2019-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2019-07-01&g=2019-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2019-07-01&g=2019-07-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
+2. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4a&z=2020-01-01&g=2020-01-01), [5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01), [5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5a&z=2020-01-01&g=2020-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=3&artikel=13&z=2020-01-01&g=2020-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=4&artikel=17&z=2020-01-01&g=2020-01-01), [21, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=6&artikel=21&z=2020-01-01&g=2020-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=10&artikel=40&z=2020-01-01&g=2020-01-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
 
 3. De bestuurlijke boete die ingevolge het tweede lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
@@ -425,7 +471,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-07-01&g=2019-07-01), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
+1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een vergoeding verschuldigd voor het verlenen van een vergunning als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-01-01&g=2020-01-01), alsmede voor het verkrijgen van toestemming als bedoeld in artikel 10, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
 
 2. Het verschuldigde bedrag kan worden ingevorderd bij dwangbevel.
 
@@ -467,7 +513,7 @@ Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluite
 
 ##### Artikel 24
 
-1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2019-07-01&g=2019-07-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
+1. In dit artikel wordt onder «inbreuk» verstaan: elk handelen of nalaten van een leverancier dat in strijd is met het bepaalde in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2020-01-01&g=2020-01-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01) en dat nadeel toebrengt aan de collectieve belangen van verbruikers.
 
 2. Op verzoek van een representatieve organisatie kan het College van Beroep voor het bedrijfsleven bevelen dat een inbreuk door de leverancier die de inbreuk maakt wordt gestaakt.
 
@@ -491,7 +537,7 @@ Vervallen
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2019-07-01&g=2019-07-01), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+2. Het koninklijk besluit waardoor [artikel 7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2020-01-01&g=2020-01-01), in werking treedt, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 46
 
@@ -567,9 +613,9 @@ Een leverancier meldt zo spoedig mogelijk na inwerkingtreding van deze wet aan d
 
 ##### Artikel 42
 
-1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2019-07-01&g=2019-07-01) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2019-07-01&g=2019-07-01).
+1. Leveranciers die op het tijdstip van inwerkingtreding van deze wet reeds warmte leveren en op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-01-01&g=2020-01-01) vergunningplichtig worden, vragen binnen twee jaar na dat tijdstip een vergunning aan als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-01-01&g=2020-01-01).
 
-2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2019-07-01&g=2019-07-01).
+2. Onverminderd het eerste lid gelden voor een vergunningplichtige leverancier, tot het tijdstip waarop onherroepelijk op de vergunningaanvraag is beslist, de eisen die zijn opgenomen in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 43
 
@@ -599,13 +645,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor warmte uit hernieuwbare energiebronnen.
 
-2. Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening voor warmte uit hernieuwbare bronnen. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01).
+2. Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening voor warmte uit hernieuwbare bronnen. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01).
 
 3. Onze Minister boekt op aanvraag garanties van oorsprong voor warmte uit hernieuwbare energiebronnen op een daarbij aangegeven rekening voor hernieuwbare bronnen, indien een Nederland gevestigde producent bij deze aanvraag de productiemeetgegevens overlegt.
 
 ##### Artikel 26
 
-Onze Minister kan de taken, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=25&z=2019-07-01&g=2019-07-01), mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren.
+Onze Minister kan de taken, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=25&z=2020-01-01&g=2020-01-01), mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren.
 
 ##### Artikel 27
 
@@ -629,7 +675,7 @@ Een garantie van oorsprong voor warmte uit hernieuwbare energiebronnen toont bij
 
 - d. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong voor warmte uit hernieuwbare energiebronnen of deze kunnen verhandelen;
 
-- e. de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01).
+- e. de vaststelling, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk 9. Wijziging van andere wetten
 
@@ -655,7 +701,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken en
 
-- h. de termijn waarbinnen een nota als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), wordt verstrekt.
+- h. de termijn waarbinnen een nota als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), wordt verstrekt.
 
 #### § 2.2. Bijzondere bepalingen ten aanzien van vergunninghouders
 
@@ -681,7 +727,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 42a
 
-[Artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3c&z=2019-07-01&g=2019-07-01) is niet van toepassing op een overeenkomst die is gesloten is voor inwerkingtreding van dat artikel.
+[Artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3c&z=2020-01-01&g=2020-01-01) is niet van toepassing op een overeenkomst die is gesloten is voor inwerkingtreding van dat artikel.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -701,7 +747,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. tevens een vereniging van eigenaars is waarbij meerdere verenigingen van eigenaars of daarmee vergelijkbare rechtsvormen als bedoeld in onderdeel b zijn aangesloten
 
-2. In afwijking van het eerste lid zijn de [artikelen 8, tweede tot en met vierde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2019-07-01&g=2019-07-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2019-07-01&g=2019-07-01) van toepassing op leveranciers als bedoeld in het eerste lid.
+2. In afwijking van het eerste lid zijn de [artikelen 8, tweede tot en met vierde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2020-01-01&g=2020-01-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=8a&z=2020-01-01&g=2020-01-01) van toepassing op leveranciers als bedoeld in het eerste lid.
 
 #### § 1.3. Experimenten
 
@@ -775,19 +821,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - ii. de leverancier toestemming te geven zorg te dragen voor de afsluiting van de verbruiker van het inpandig leidingstelsel.
 
-2. Wanneer zich een storing als bedoeld in [artikel 3a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2019-07-01&g=2019-07-01), voordoet in het inpandig leidingstelsel van de gebouweigenaar:
+2. Wanneer zich een storing als bedoeld in [artikel 3a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2020-01-01&g=2020-01-01), voordoet in het inpandig leidingstelsel van de gebouweigenaar:
 
-- a. ontvangt de verbruiker een compensatie als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2019-07-01&g=2019-07-01), van de leverancier, en
+- a. ontvangt de verbruiker een compensatie als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2020-01-01&g=2020-01-01), van de leverancier, en
 
 - b. vergoedt de gebouweigenaar de leverancier de kosten van de op grond van onderdeel a aan de verbruiker betaalde compensatie, tenzij de gebouweigenaar en de leverancier op grond van het eerste lid, onderdeel a, afspraken hebben gemaakt over het onderhoud van het inpandig leidingstelsel en de individuele aansluiting van de verbruiker daarop die tot gevolg hebben dat de leverancier verantwoordelijk is voor het onderhoud van het inpandig leidingstelsel en de individuele aansluiting van de verbruiker daarop.
 
 ##### Artikel 4a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien een leverancier een aansluiting afsluit van een warmtenet of een inpandig leidingstelsel of gedeeltelijk afsluit van een systeem als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01), brengt hij daarvoor ten hoogste een door de Autoriteit Consument en Markt vast te stellen tarief in rekening.
+
+2. Het tarief, bedoeld in het eerste lid, kan verschillen voor verschillende situaties, afhankelijk van de voor die situaties benodigde inspanning van de leverancier.
+
+3. Indien de afsluiting van een inpandig leidingstelsel, bedoeld in [artikel 3d, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=3b&z=2020-01-01&g=2020-01-01), wordt uitgevoerd door de gebouweigenaar die eigenaar is van het inpandig leidingstelsel waarop de binneninstallatie van de verbruiker is aangesloten betaalt de leverancier de gebouweigenaar het tarief, bedoeld in het eerste lid.
+
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
+
+- a. de berekening van de hoogte van het tarief voor afsluiting van een aansluiting van een warmtenet of een inpandig leidingstelsel in de verschillende situaties bedoeld in het tweede lid;
+
+- b. de kosten die een leverancier in rekening kan brengen voor het gedeeltelijk afsluiten van een aansluiting op systemen als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5a
 
-1. In afwijking van [artikel 2, derde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2019-07-01&g=2019-07-01), kunnen een leverancier en een verbruiker overeenkomen dat aan de verbruiker een prijs in rekening wordt gebracht voor de levering van warmte die afwijkt van de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2019-07-01&g=2019-07-01), indien de leverancier de verbruiker aantoonbaar een aanbod voor levering van warmte heeft gedaan dat in ieder geval de mogelijkheid bevat om warmte geleverd te krijgen tegen ten hoogste de maximumprijs, bedoeld in artikel 5, eerste lid.
+1. In afwijking van [artikel 2, derde lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01), kunnen een leverancier en een verbruiker overeenkomen dat aan de verbruiker een prijs in rekening wordt gebracht voor de levering van warmte die afwijkt van de maximumprijs, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2020-01-01&g=2020-01-01), indien de leverancier de verbruiker aantoonbaar een aanbod voor levering van warmte heeft gedaan dat in ieder geval de mogelijkheid bevat om warmte geleverd te krijgen tegen ten hoogste de maximumprijs, bedoeld in artikel 5, eerste lid.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld waaraan het aanbod, bedoeld in het eerste lid, moet voldoen.
 
