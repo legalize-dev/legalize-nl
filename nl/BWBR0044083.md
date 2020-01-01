@@ -4,7 +4,7 @@ identifier: "BWBR0044083"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-09-16"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044083"
 soort: "zbo"
@@ -43,12 +43,6 @@ UWV stelt het normbedrag ‘Reisvergoeding geregistreerde tolk onderwijs/werkdom
 
 Wijzigt het Besluit Normbedragen Voorzieningen UWV 2020.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
-
-Besluit:
-
-Dit besluit wordt met de toelichting en de aangepaste bijlage in de Staatscourant geplaatst.
