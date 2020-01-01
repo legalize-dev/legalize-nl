@@ -4,7 +4,7 @@ identifier: "BWBR0003251"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-10"
-last_updated: "2011-11-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003251"
 soort: "wet"
@@ -50,7 +50,7 @@ Deze wet verstaat onder:
 
 - b. lid van het Europese Parlement: de in Nederland gekozen vertegenwoordiger in de onder **a** bedoelde vergadering;
 
-- c. schadeloosstelling: de schadeloosstelling voor de leden van het Europese Parlement, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2011-11-19&g=2011-11-19).
+- c. schadeloosstelling: de schadeloosstelling voor de leden van het Europese Parlement, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 2
 
@@ -60,11 +60,11 @@ Deze wet verstaat onder:
 
 ##### Artikel 2a
 
-1. Indien aan het burgerlijk rijkspersoneel een eenmalige uitkering wordt toegekend en wordt bepaald dat deze uitkering een algemeen karakter draagt, ontvangen de leden van het Europese Parlement een uitkering op gelijke voet.
+1. Indien voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een eenmalige uitkering is overeengekomen en daarbij is bepaald dat deze uitkering een algemeen karakter draagt, ontvangen de leden van het Europese Parlement een uitkering op gelijke voet.
 
-2. De leden ontvangen een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld.
+2. De leden ontvangen een eindejaarsuitkering op de voet van hetgeen daaromtrent voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst is overeengekomen.
 
-3. Indien de hoogte van een uitkering afhankelijk is van de hoogte van de schadeloosstelling, blijft bij de berekening van de hoogte van die uitkering de inhouding, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2011-11-19&g=2011-11-19), buiten beschouwing.
+3. Indien de hoogte van een uitkering afhankelijk is van de hoogte van de schadeloosstelling, blijft bij de berekening van de hoogte van die uitkering de inhouding, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2020-01-01&g=2020-01-01), buiten beschouwing.
 
 ##### Artikel 2b
 
@@ -76,7 +76,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2011-11-19&g=2011-11-19), wordt de schadeloosstelling verminderd met de helft van het bedrag waarmee de neveninkomsten van het lid van het Europese Parlement per jaar een bedrag gelijk aan 14% van de schadeloosstelling te boven gaan, met dien verstande dat deze vermindering maximaal 35% van de schadeloosstelling bedraagt. Indien het lid een gedeelte van het kalenderjaar lid van het Europese Parlement is, gelden de bedragen naar evenredigheid.
+1. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2020-01-01&g=2020-01-01), wordt de schadeloosstelling verminderd met de helft van het bedrag waarmee de neveninkomsten van het lid van het Europese Parlement per jaar een bedrag gelijk aan 14% van de schadeloosstelling te boven gaan, met dien verstande dat deze vermindering maximaal 35% van de schadeloosstelling bedraagt. Indien het lid een gedeelte van het kalenderjaar lid van het Europese Parlement is, gelden de bedragen naar evenredigheid.
 
 2. Onder neveninkomsten wordt verstaan het gezamenlijke bedrag dat het lid wegens het verrichten van nevenactiviteiten tijdens het lidmaatschap geniet als:
 
@@ -88,7 +88,7 @@ Vervallen
 
 3. De neveninkomsten worden bepaald overeenkomstig de regels van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en worden verrekend in het jaar waarin deze zijn genoten in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), met dien verstande dat geen verrekening meer plaats heeft, indien de neveninkomsten worden genoten na 31 december van het jaar waarin het lidmaatschap wordt beëindigd.
 
-4. Indien een lid van het Europese Parlement tevens lid is van de Tweede Kamer der Staten-Generaal ontvangt hij voor zijn lidmaatschap van het Europese Parlement geen schadeloosstelling. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=4&z=2011-11-19&g=2011-11-19) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2011-11-19&g=2011-11-19) zijn op hem niet van toepassing.
+4. Indien een lid van het Europese Parlement tevens lid is van de Tweede Kamer der Staten-Generaal ontvangt hij voor zijn lidmaatschap van het Europese Parlement geen schadeloosstelling. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=4&z=2020-01-01&g=2020-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2020-01-01&g=2020-01-01) zijn op hem niet van toepassing.
 
 ##### Artikel 4
 
@@ -96,13 +96,13 @@ Vervallen
 
 2. De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt aan de Minister van Binnenlandse Zaken het bedrag van de voorlopige aftrek van de schadeloosstelling mede en verstrekt een afschrift van deze mededeling aan het lid.
 
-3. Indien een lid van het Europese Parlement een verklaring inzendt dat een opgave van neveninkomsten achterwege blijft of indien geen opgave of verklaring is ingezonden binnen de termijn, bedoeld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2011-11-19&g=2011-11-19) uitgegaan van de maximale vermindering.
+3. Indien een lid van het Europese Parlement een verklaring inzendt dat een opgave van neveninkomsten achterwege blijft of indien geen opgave of verklaring is ingezonden binnen de termijn, bedoeld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2020-01-01&g=2020-01-01) uitgegaan van de maximale vermindering.
 
 4. Zo spoedig mogelijk na afloop van het kalenderjaar zendt een lid van het Europese Parlement of zenden zijn nabestaanden aan de voorzitter van het managementteam van de Belastingdienst/Haaglanden een opgave van neveninkomsten, welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat per jaar niet meer dan 14% van de schadeloosstelling of, indien het lid een gedeelte van het kalenderjaar lid van de kamer is geweest, een evenredig deel van dit bedrag, is genoten.
 
 5. De voorzitter van het managementteam van de Belastingdienst/Haaglanden deelt zo spoedig mogelijk na ontvangst van de in het vorige lid bedoelde opgave of verklaring aan de Minister van Binnenlandse Zaken het bedrag van de definitieve aftrek van de schadeloosstelling mede en verstrekt een afschrift van deze mededeling aan het lid van het Europese Parlement.
 
-6. Indien een opgave of een verklaring als in het vierde lid bedoeld niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, geeft de voorzitter van het managementteam van de Belastingdienst/Haaglanden daarvan kennis aan de Minister van Binnenlandse Zaken. In dat geval wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2011-11-19&g=2011-11-19) uitgegaan van de maximale vermindering.
+6. Indien een opgave of een verklaring als in het vierde lid bedoeld niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, geeft de voorzitter van het managementteam van de Belastingdienst/Haaglanden daarvan kennis aan de Minister van Binnenlandse Zaken. In dat geval wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2020-01-01&g=2020-01-01) uitgegaan van de maximale vermindering.
 
 7. Het bedrag van de uitbetaalde schadeloosstelling kan, al dan niet op verzoek van een lid van het Europese Parlement, worden herzien, indien op grond van een onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.
 
@@ -140,7 +140,7 @@ De leden van het Europese Parlement hebben bij aftreden aanspraak op uitkering o
 
 1. [Hoofdstuk 18 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=18) is van overeenkomstige toepassing.
 
-2. Bij de overeenkomstige toepassing van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) op grond van het eerste lid en de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2011-11-19&g=2011-11-19) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=8&z=2011-11-19&g=2011-11-19), wordt onder schadeloosstelling verstaan de schadeloosstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2011-11-19&g=2011-11-19).
+2. Bij de overeenkomstige toepassing van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) op grond van het eerste lid en de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2020-01-01&g=2020-01-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=8&z=2020-01-01&g=2020-01-01), wordt onder schadeloosstelling verstaan de schadeloosstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 10
 
@@ -168,15 +168,15 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 16
 
-Wanneer na de dag na de inwerkingtreding van deze wet met terugwerkende kracht tot vóór die dag toepassing wordt gegeven aan artikel 7 van de Wet van 30 oktober 1968 (**Stb**. 584) vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=10&z=2011-11-19&g=2011-11-19) mede toepassing.
+Wanneer na de dag na de inwerkingtreding van deze wet met terugwerkende kracht tot vóór die dag toepassing wordt gegeven aan artikel 7 van de Wet van 30 oktober 1968 (**Stb**. 584) vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=10&z=2020-01-01&g=2020-01-01) mede toepassing.
 
 ##### Artikel 17
 
-Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2011-11-19&g=2011-11-19) aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, **Trb.** 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van [artikel 52, eerste lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52) geacht als lid van het Europese Parlement te zijn vervuld.
+Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2020-01-01&g=2020-01-01) aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, **Trb.** 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van [artikel 52, eerste lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52) geacht als lid van het Europese Parlement te zijn vervuld.
 
 ##### Artikel 17a
 
-Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2011-11-19&g=2011-11-19), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2011-11-19&g=2011-11-19)[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verstaan Wet op de inkomstenbelasting 1964.
+Onder neveninkomsten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2020-01-01&g=2020-01-01), wordt met betrekking tot aan het kalenderjaar 2001 voorafgaande kalenderjaren verstaan winst uit onderneming en zuivere inkomsten uit tegenwoordige arbeid. Met betrekking tot die jaren wordt in [artikel 3, derde lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=3&z=2020-01-01&g=2020-01-01)[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verstaan Wet op de inkomstenbelasting 1964.
 
 ##### Artikel 18
 
@@ -186,7 +186,7 @@ Deze wet kan worden aangehaald als Wet schadeloosstelling, uitkering en pensioen
 
 1. Deze wet treedt, behoudens het bepaalde in het tweede lid, in werking met ingang van 17 juli 1979. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 17 juli 1979, treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** en werkt zij terug tot 17 juli 1979.
 
-2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=12&z=2011-11-19&g=2011-11-19) treedt in werking op een door Ons te bepalen tijdstip.
+2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=12&z=2020-01-01&g=2020-01-01) treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
