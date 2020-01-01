@@ -4,7 +4,7 @@ identifier: "BWBR0040379"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-27"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040379"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-De externe leden, bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=4&z=2018-01-01&g=2018-01-01), ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+De externe leden, bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=4&z=2018-01-01&g=2020-01-01), ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 ##### Artikel 6
 
@@ -100,9 +100,9 @@ Het [Instellingsbesluit Audit Committee Ministerie van Veiligheid en Justitie](h
 
 ##### Artikel 9
 
-1. Dit besluit treedt, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2018-01-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+1. Dit besluit treedt, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2020-01-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2018-01-01) treedt in werking met ingang van 1 januari 2018.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040379&artikel=1&z=2018-01-01&g=2020-01-01) treedt in werking met ingang van 1 januari 2018.
 
 ##### Artikel 10
 
