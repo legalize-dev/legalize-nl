@@ -4,7 +4,7 @@ identifier: "BWBR0014567"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014567"
 soort: "KB"
@@ -58,7 +58,7 @@ De (plaatsvervangend) kroonleden van het Hof ontvangen per zitting een vergoedin
 
 ##### Artikel 4
 
-Van toekenning van een vergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=2&z=2002-01-01&g=2002-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=3&z=2002-01-01&g=2002-01-01) worden uitgesloten functionarissen in dienst van het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel een instelling welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.
+Van toekenning van een vergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=3&z=2020-01-01&g=2020-01-01) worden uitgesloten functionarissen in dienst van het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel een instelling welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.
 
 ##### Artikel 5
 
@@ -66,7 +66,7 @@ Een bestuurlijke vergadering van het Hof wordt met een zitting gelijkgesteld.
 
 ##### Artikel 6
 
-De genoemden in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=2&z=2002-01-01&g=2002-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=3&z=2002-01-01&g=2002-01-01) hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+De genoemden in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014567&artikel=3&z=2020-01-01&g=2020-01-01) hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 7
 
