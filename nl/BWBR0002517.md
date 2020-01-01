@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -157,7 +157,9 @@ Als internationale organisaties als bedoeld in [artikel 10, zesde lid, van de We
 
 - z. Universal Postal Union;
 
-- aa. United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA).
+- aa. United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA);
+
+- ab. European Space Agency/European Space Research and Technology Center (ESA/ESTEC).
 
 ##### Artikel 3
 
@@ -205,7 +207,7 @@ Vervallen
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 
-De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2019-01-01&g=2019-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2020-01-01&g=2020-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -236,7 +238,7 @@ De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overhei
 | Slovenië | 80% |
 | Slowakije | 70% |
 | Spanje | 90% |
-| Tsjechië | 60% |
+| Tsjechië | 70% |
 | Verenigd Koninkrijk | 100% |
 | Zweden | 100% |
 | Zwitserland | 100% |
@@ -245,7 +247,7 @@ Voor andere staten wordt de woonlandfactor bepaald aan de hand van de tabel die 
 
 ##### Artikel 1bis
 
-Ingeval de opbrengstgerechtigde een relatie legt tussen activiteiten van lichamen binnen een keten is van geldige zakelijke redenen die de economische realiteit weerspiegelen als bedoeld in [artikel 4, derde lid, onderdeel c, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) in ieder geval sprake indien:
+Voor de toepassing van [artikel 4, derde lid, aanhef en onderdeel c, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de opbrengstgerechtigde geacht het belang, bedoeld in artikel 4, tweede lid, onderdeel b, van die wet, niet te hebben met als hoofddoel of een van de hoofddoelen om de heffing van belasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
 
 - a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de opbrengstgerechtigde woont of feitelijk is gevestigd in de staat waarin de opbrengstgerechtigde is gevestigd;
 
@@ -259,7 +261,7 @@ Ingeval de opbrengstgerechtigde een relatie legt tussen activiteiten van lichame
 
 - f. in de staat, bedoeld in onderdeel a, de boekhouding van de opbrengstgerechtigde wordt gevoerd;
 
-- g. de opbrengstgerechtigde een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden ten behoeve van het leggen van de relatie, bedoeld in de aanhef, en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de opbrengstgerechtigde is gevestigd, en
+- g. de opbrengstgerechtigde een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de opbrengstgerechtigde in het licht van zijn belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de opbrengstgerechtigde is gevestigd; en
 
 - h. de opbrengstgerechtigde gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
 
