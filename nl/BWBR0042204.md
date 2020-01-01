@@ -4,7 +4,7 @@ identifier: "BWBR0042204"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2019-05-17"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042204"
 soort: "wet"
@@ -54,11 +54,11 @@ Wijzigt de Wet op de dividendbelasting 1965.
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
 
-- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2019-05-17&g=2019-05-17), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=II&z=2019-05-17&g=2019-05-17) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=III&z=2019-05-17&g=2019-05-17) terugwerken tot en met 1 januari 2018;
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2020-01-01&g=2020-01-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=II&z=2020-01-01&g=2020-01-01) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=III&z=2020-01-01&g=2020-01-01) terugwerken tot en met 1 januari 2018;
 
-- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2019-05-17&g=2019-05-17), terugwerkt tot en met 1 januari 2019.
+- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2020-01-01&g=2020-01-01), terugwerkt tot en met 1 januari 2019.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2019-05-17&g=2019-05-17), in werking met ingang van 1 januari 2020.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0042204&artikel=I&z=2020-01-01&g=2020-01-01), in werking met ingang van 1 januari 2020.
 
 ##### Artikel V
 
