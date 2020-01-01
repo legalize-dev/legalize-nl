@@ -4,7 +4,7 @@ identifier: "BWBR0027402"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2015-09-03"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027402"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De vergoedingen van de voorzitter en twee vice-voorzitters van de Gezondheidsraad zijn gebaseerd op de overeenkomstig het tweede lid, onderscheidenlijk het derde lid, vastgestelde toepasselijke arbeidsduurfactor en op het maximum van salarisschaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De vergoedingen van de voorzitter en twee vice-voorzitters van de Gezondheidsraad zijn gebaseerd op de overeenkomstig het tweede lid, onderscheidenlijk het derde lid, vastgestelde toepasselijke arbeidsduurfactor en op het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. De vergoeding van de voorzitter is gebaseerd op een arbeidsduurfactor van 0,6 tot 0,8 fte. In het betrokken benoemingsbesluit wordt de toepasselijke arbeidsduurfactor vastgesteld.
 
@@ -56,7 +56,7 @@ Besluit:
 
 4. Het totaal van de arbeidsduurfactoren van de voorzitter en de twee vice-voorzitters bedraagt ten hoogste 1,4 fte.
 
-5. De voorzitter en twee vice-voorzitters van de Gezondheidsraad ontvangen een reiskostenvergoeding op voet van de regeling voor het personeel werkzaam bij de sector Rijk.
+5. De voorzitter en twee vice-voorzitters van de Gezondheidsraad ontvangen een reiskostenvergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
@@ -64,7 +64,7 @@ Besluit:
 
 2. De vergoeding per vergadering wordt uitsluitend betaald indien door middel van een getekende presentielijst, overgelegd door de secretaris van de Gezondheidsraad, is aangetoond dat de betrokkene heeft deelgenomen aan de vergadering.
 
-3. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027402&artikel=1&z=2015-09-03&g=2015-09-03), bedoelde leden en deskundigen ontvangen op basis van de in het tweede lid genoemde presentielijst een reiskostenvergoeding op voet van de regeling voor het personeel werkzaam bij de sector Rijk.
+3. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027402&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde leden en deskundigen ontvangen op basis van de in het tweede lid genoemde presentielijst een reiskostenvergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 4. In afwijking van het tweede lid kan de in dat lid bedoelde vergoeding per vergadering aan de betrokkene worden uitbetaald zonder dat deze de vergadering heeft bijgewoond, indien de betrokkene blijkens een door de secretaris van de Gezondheidsraad overgelegde verklaring als deskundige werkzaamheden heeft verricht ten behoeve van een advies dat in de vergadering buiten zijn aanwezigheid is behandeld.
 
