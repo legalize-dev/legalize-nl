@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -47,7 +47,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **militaire ambtenaren:** zij, die zijn aangesteld bij het beroepspersoneel van de krijgsmacht of bij het reservepersoneel van de krijgsmacht om in militaire openbare dienst werkzaam te zijn,
+- a. **ambtenaren:** militaire ambtenaren en burgerlijke ambtenaren, waarbij wordt verstaan onder:
+
+- 1. militaire ambtenaren: zij, die zijn aangesteld bij het beroepspersoneel van de krijgsmacht of bij het reservepersoneel van de krijgsmacht om in militaire openbare dienst werkzaam te zijn,
+
+- 2. burgerlijke ambtenaren: burgerlijke ambtenaren die zijn aangesteld om werkzaam te zijn bij het Ministerie van Defensie;
 
 - b. **werkelijke dienst:** de tijd gedurende welke de militair ambtenaar
 
@@ -149,7 +153,15 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 ##### Artikel 10
 
-[Titel II van de Ambtenarenwet 1929](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II) vindt op de militaire ambtenaren overeenkomstige toepassing.
+1. In deze titel wordt verstaan onder bezoldiging:
+
+- a. de bedragen – onder de benaming bezoldiging of welke benaming ook – waarop de ambtenaar als zodanig uit hoofde van zijn dienstbetrekking aanspraak heeft;
+
+- b. de bedragen – onder de benaming pensioen, wachtgeld, uitkering of welke benaming ook – waarop de gewezen ambtenaar als zodanig uit hoofde van zijn vroegere dienstbetrekking aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden aanspraak hebben.
+
+2. Onder ambtenaar wordt in deze titel mede verstaan de nagelaten betrekkingen van een ambtenaar die uit hoofde van zijn overlijden pensioen genieten.
+
+3. Beslag omvat in deze titel ook de vordering, bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
 
 ## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
@@ -265,11 +277,11 @@ Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol o
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.
 
-## Titel V. Overgangs- en slotbepalingen
+## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
 ##### Artikel 13
 
-Vervallen
+Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) berust de aanstelling die voor dat tijdstip is verleend aan een bij het ministerie van Defensie werkzame ambtenaar op [artikel 12o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IVa&artikel=12o&z=2020-01-01&g=2020-01-01). De op dat tijdstip ten aanzien van de ambtenaar bestaande beslissingen, afspraken en toezeggingen inzake zijn arbeidsvoorwaarden, waaronder in ieder geval de duur van het dienstverband, de bezoldiging, werktijden, werkrooster, verlof, faciliteiten voor de uitoefening van de functie en studiefaciliteiten, behouden hun geldigheid.
 
 #### § 1. Overgangsbepaling
 
@@ -289,7 +301,7 @@ De artikelen van deze wet treden in werking op een door Ons te bepalen tijdstip,
 
 ##### Artikel 17
 
-Deze wet kan worden aangehaald als "Militaire Ambtenarenwet" met bijvoeging van het jaartal van het **Staatsblad**, waarin zij wordt afgekondigd.
+Deze wet wordt aangehaald als: Wet ambtenaren defensie.
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -341,7 +353,7 @@ Voor zover dit met het oog op de goede uitvoering van de operationele taken van 
 
 #### § 2. Rechtsmacht
 
-## Titel III. Van middelen tot bewaring en verwerkelijking van recht
+## Titel IIa. Beslag, terugvordering, verrekening en korting
 
 ## Titel IV. Bepalingen van materieel recht
 
@@ -392,8 +404,6 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 1. Het is de militair ambtenaar in werkelijke dienst niet toegestaan om deel te nemen aan een staking.
 
 2. Het is de militair ambtenaar in werkelijke dienst toegestaan om deel te nemen aan andere vormen van collectieve actie tenzij deelname aan die collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
-
-3. Het is de ambtenaar in de zin van [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) die is aangesteld bij het ministerie van Defensie toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
 
 ##### Artikel 12j
 
@@ -486,6 +496,158 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt.
 
 ## Titel V. Overgangs- en slotbepalingen
+
+#### § 2. Slotbepalingen
+
+Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10a
+
+1. Op bezoldiging is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
+
+2. Kostenvergoedingen welke verband houden met de dienstverrichting zijn niet vatbaar voor beslag.
+
+##### Artikel 10b
+
+Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
+
+##### Artikel 10c
+
+1. Met verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan Onze Minister verschuldigd is.
+
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2020-01-01&g=2020-01-01).
+
+3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in [artikel 475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
+
+##### Artikel 10d
+
+1. Onze Minister kan op de bezoldiging ten behoeve van een schuldeiser van de ambtenaar een korting toepassen, mits de ambtenaar de vordering van de schuldeiser erkent of het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+
+2. Korting is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn.
+
+3. Beslag, faillissement, surséance van betaling en toepassing ten aanzien van de ambtenaar van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
+
+##### Artikel 10e
+
+Voor de toepassing van de [artikelen 475b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475d, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10c&z=2020-01-01&g=2020-01-01), en [artikel 10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2020-01-01&g=2020-01-01), verrekening en korting gelijkgesteld met beslag.
+
+##### Artikel 10f
+
+Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging, geschiedt de verdeling naar evenredigheid der inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
+
+##### Artikel 10g
+
+1. Overdracht, inpandgeving of elke andere handeling, waardoor de ambtenaar enig recht op zijn bezoldiging aan een derde toekent is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
+
+2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
+
+##### Artikel 10h
+
+Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten Onze Minister, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen Onze Minister van het eindigen van de volmacht kennis kreeg.
+
+## Titel IV. Bepalingen van materieel recht
+
+## Titel IVa. Burgerlijke ambtenaren, werkzaam bij het Ministerie van Defensie
+
+##### Artikel 12o
+
+1. Onze Minister kan burgerlijke ambtenaren aanstellen om werkzaam te zijn bij het Ministerie van Defensie.
+
+2. Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister worden voor de ambtenaren, bedoeld in het eerste lid, voorschriften vastgesteld betreffende:
+
+- a. aanstelling, schorsing en ontslag;
+
+- b. het onderzoek naar de geschiktheid en de bekwaamheid;
+
+- c. bezoldiging en wachtgeld;
+
+- d. diensttijden;
+
+- e. verlof en vakantie;
+
+- f. voorzieningen in verband met ziekte;
+
+- g. bescherming bij de arbeid;
+
+- h. woon-, verblijfs- en bereikbaarheidsverplichtingen;
+
+- i. medezeggenschap;
+
+- j. overige rechten en verplichtingen;
+
+- k. disciplinaire straffen, met dien verstande dat een boete dan wel een inhouding of korting op de bezoldiging per opgelegde disciplinaire straf ten hoogste gelijk is aan het bedrag van het salaris van de ambtenaar over anderhalve maand;
+
+- l. de instelling en werkwijze van commissies waaraan de beslissing met uitsluiting van administratieve organen is opgedragen, voor zover deze worden mogelijk gemaakt;
+
+- m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
+
+- n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
+
+3. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=3) en [4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=4) zijn, met uitzondering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=II&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
+
+4. Het is de ambtenaar in de zin van het eerste lid toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
+
+5. De ambtenaar, bedoeld in het eerste lid, die te goeder trouw en naar behoren een vermoeden van een misstand als bedoeld in [artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1) meldt, zal als gevolg daarvan geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na de behandeling van deze melding bij het bevoegd gezag of de daartoe bevoegde instantie.
+
+6. De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12b&z=2020-01-01&g=2020-01-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12c&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
+
+##### Artikel 12p
+
+1. Het bevoegd gezag maakt geen onderscheid tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
+
+2. Het bevoegd gezag maakt geen onderscheid tussen ambtenaren in de arbeidsvoorwaarden op grond van het al dan niet tijdelijk karakter van de aanstelling, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
+
+3. Het bevoegd gezag beëindigt het dienstverband met de ambtenaar niet wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste of tweede lid of ter zake bijstand heeft verleend.
+
+4. Het bevoegd gezag benadeelt de ambtenaar niet wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of tweede lid of ter zake bijstand heeft verleend.
+
+5. Het bevoegd gezag stelt de ambtenaar die is aangesteld in tijdelijke dienst tijdig en duidelijk in kennis van een vacature met een dienstverband voor onbepaalde tijd.
+
+6. Het College, bedoeld in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
+
+##### Artikel 12q
+
+1. Voor de burgerlijke ambtenaar die de in [artikel 7, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst geldt die aanstelling als een aanstelling in vaste dienst vanaf de dag waarop:
+
+- a. de door Onze Minister van Defensie verleende aanstellingen in tijdelijke dienst elkaar met tussenpozen van niet meer dan zes maanden hebben opgevolgd en een periode van 48 maanden, deze tussenpozen inbegrepen, hebben overschreden;
+
+- b. meer dan zes door hetzelfde bevoegd gezag verleende aanstellingen in tijdelijke dienst elkaar hebben opgevolgd met tussenpozen van niet meer dan zes maanden.
+
+2. Voor de vaststelling of de in het eerste lid bedoelde periode of het aantal opvolgende aanstellingen is overschreden, worden slechts de aanstellingen in tijdelijke dienst in aanmerking worden genomen die zijn aangegaan na het bereiken van de in het eerste lid bedoelde leeftijd.
+
+3. De in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar, bedraagt voor de ambtenaar die de in het eerste lid bedoelde leeftijd heeft bereikt, een maand.
+
+4. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar die de in het eerste lid bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
+
+5. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede zin van het vierde lid.
+
+6. De ambtenaar die de in het eerste lid bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
+
+- a. er sprake is van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een ononderbroken periode van zes weken, en
+
+- b. herstel van zijn ziekte niet binnen een periode van zes weken na de in onderdeel a genoemde periode van zes weken te verwachten is. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de ambtenaar de in het eerste lid bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in onderdeel a genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan twee jaar.
+
+7. Voor de berekening van de periode van zes weken, bedoeld in het zesde lid, onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid wegens ziekte samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
+
+8. Om te beoordelen of sprake is van een situatie als bedoeld in het zesde lid, onderdelen a en b, kan het bevoegd gezag een onderzoek naar en een oordeel over het bestaan van ongeschiktheid tot werken als bedoeld in [artikel 32, zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32) aanvragen.
+
+9. In afwijking van de in het zesde en zevende lid genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de werknemer die de in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) bedoelde leeftijd heeft bereikt.
+
+10. Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de werknemer de in het eerste lid bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in het negende lid genoemde termijn, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
+
+11. Met ingang van het tijdstip, bedoeld in het negende lid, geldt de in het zesde lid, onderdeel a, genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan dertien weken.
+
+12. Het tijdstip, bedoeld in het negende lid, wordt niet eerder vastgesteld, dan nadat:
+
+- a. Onze Minister van Sociale Zaken en Werkgelegenheid een verslag over de doeltreffendheid en de effecten van de [Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099) in de praktijk gedurende de eerste twee jaren na inwerkingtreding van die wet, aan de beide kamers der Staten-Generaal heeft gezonden, en
+
+- b. acht weken zijn verstreken nadat het voornemen tot het vaststellen van dat tijdstip is meegedeeld aan de beide kamers der Staten-Generaal.
+
+13. Bij of krachtens algemene maatregel van bestuur kan ten gunste van de ambtenaar die de in het eerste lid bedoelde leeftijd heeft bereikt, van dit artikel worden afgeweken.
+
+## Titel V. Overgangs- en slotbepalingen
+
+#### § 1. Overgangsbepaling
 
 #### § 2. Slotbepalingen
 
