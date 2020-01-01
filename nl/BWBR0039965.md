@@ -4,7 +4,7 @@ identifier: "BWBR0039965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-21"
-last_updated: "2019-11-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039965"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 - **directeur:** een functionaris die, afzonderlijk of met een andere directeur, leiding geeft aan een of meer directies;
 
-- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2019-11-28&g=2019-11-28);
+- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - **IG-team:** de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
 
@@ -60,7 +60,7 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 - **opdrachtgever:** de functioneel leidinggevende van de programmamanager of de projectleider;
 
-- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2019-11-28&g=2019-11-28), of een samenstel daarvan;
+- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), of een samenstel daarvan;
 
 - **portfolio:** het totaal aan programma’s en projecten van de Inspectie SZW gedurende een bepaalde periode;
 
@@ -222,7 +222,7 @@ De directeur Mensen & Middelen is verantwoordelijk voor:
 
 - g. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0032429);
 
-- h. het binnen de door de inspecteur-generaal gestelde kaders verzorgen van het informatiemanagement en de informatievoorziening van de inspectie in brede zin, waaronder mede begrepen de specifieke (beveiligings)eisen aan apparatuur voor, toegang tot de gebruiksruimten door en gebruik van informatie door medewerkers, betrokken bij de opsporing, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=9&z=2019-11-28&g=2019-11-28);
+- h. het binnen de door de inspecteur-generaal gestelde kaders verzorgen van het informatiemanagement en de informatievoorziening van de inspectie in brede zin, waaronder mede begrepen de specifieke (beveiligings)eisen aan apparatuur voor, toegang tot de gebruiksruimten door en gebruik van informatie door medewerkers, betrokken bij de opsporing, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=9&z=2020-01-01&g=2020-01-01);
 
 - i. het verlenen van administratieve ondersteuning voor de werkzaamheden van de inspectie en van secretariële ondersteuning van de inspecteur-generaal, de directeuren en de managers van de inspectie;
 
@@ -246,9 +246,9 @@ De directeur Mensen & Middelen is verantwoordelijk voor:
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van het onder hem ressorterende dienstonderdeel, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de inspecteur-generaal.
 
-2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
+2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2019-11-28&g=2019-11-28), genoemde personeelsaangelegenheden;
+- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -264,7 +264,7 @@ De directeur Mensen & Middelen is verantwoordelijk voor:
 
 - c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
 
-- d. arbeidsovereenkomsten naar burgerlijk recht;
+- d. vervallen;
 
 - e. overeenkomsten met betrekking tot raden en commissies;
 
@@ -298,7 +298,7 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-2. In afwijking van het eerste lid kunnen directeuren bevoegdheden met betrekking tot personeelsaangelegenheden doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de inspecteur-generaal daarmee schriftelijk instemt. Voor zover de doorverlening van bevoegdheden de beoordeling van medewerkers betreft, geschiedt de vaststelling van een beoordeling van een medewerker door de functionaris die leiding geeft aan de functionaris die de beoordeling heeft opgemaakt. Daar waar de bevoegdheid tot het opmaken van de beoordeling is gemandateerd aan functionarissen die rechtstreeks ressorteren onder een rechtstreeks onder een directeur ressorterende functionaris, kan de bevoegdheid tot het vaststellen van de beoordeling gemandateerd worden aan de rechtstreeks onder de directeur ressorterende functionaris.
+2. In afwijking van het eerste lid kunnen directeuren bevoegdheden met betrekking tot personeelsaangelegenheden doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de inspecteur-generaal daarmee schriftelijk instemt. Voor zover de doorverlening van bevoegdheden de beoordeling van medewerkers betreft, geschiedt de vaststelling van een beoordeling van een medewerker door de functionaris die leiding geeft aan de functionaris die de beoordeling heeft opgemaakt. Daar waar de bevoegdheid tot het opmaken van de beoordeling is doorverleend aan functionarissen die rechtstreeks ressorteren onder een rechtstreeks onder een directeur ressorterende functionaris, kan de bevoegdheid tot het vaststellen van de beoordeling worden doorverleend aan de rechtstreeks onder de directeur ressorterende functionaris.
 
 3. Onverminderd het eerste lid kunnen directeuren, na schriftelijke toestemming van de inspecteur-generaal hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel.
 
@@ -310,7 +310,7 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030867) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2019-11-28&g=2019-11-28), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2019-11-28&g=2019-11-28) van deze regeling.
+2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2020-01-01&g=2020-01-01) van deze regeling.
 
 ##### Artikel 14. Inwerkingtreding
 
