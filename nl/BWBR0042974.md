@@ -185,9 +185,3 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 Deze regeling wordt aangehaald als: Subsidieregeling continuïteit cruciale jeugdzorg.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-Op aanvragen tot verlening van een subsidie die voor 1 januari 2022 zijn ingediend, blijft de regeling van toepassing zoals deze luidde voor dat tijdstip.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
