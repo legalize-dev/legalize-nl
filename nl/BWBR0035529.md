@@ -4,7 +4,7 @@ identifier: "BWBR0035529"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-05-27"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035529"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ De commissie bestaat uit de volgende leden.
 
 ##### Artikel 4
 
-1. De leden van de commissie ontvangen per vergadering een vergoeding van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De leden van de commissie ontvangen per vergadering een vergoeding van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. De voorzitter van de commissie ontvangt per vergadering een vergoeding van 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.
 
