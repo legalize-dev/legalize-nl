@@ -4,7 +4,7 @@ identifier: "BWBR0006517"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006517"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 - l. deelbetrekking: een betrekking die een arbeidstijd van gemiddeld minder dan 36 uur per week omvat;
 
-- m. salaris: het bedrag dat met inachtneming van de bepalingen van dit besluit voor de ambtenaar is vastgesteld aan de hand van één van de bijlagen van dit besluit, inclusief de op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2019-07-01&g=2019-07-01) toegekende periodieken;
+- m. salaris: het bedrag dat met inachtneming van de bepalingen van dit besluit voor de ambtenaar is vastgesteld aan de hand van één van de bijlagen van dit besluit, inclusief de op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2020-01-01&g=2020-01-01) toegekende periodieken;
 
 - n. salaris per uur: 1/157 deel van het salaris bij een volledige betrekking;
 
@@ -94,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 - u. uitkeringen: alle uitkeringen waarop ingevolge dit besluit aanspraak bestaat;
 
-- v. bezoldiging: de som van het salaris, de toelagen, met uitzondering van de toelagen, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2019-07-01&g=2019-07-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2019-07-01&g=2019-07-01), [12g](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3d&artikel=12g&z=2019-07-01&g=2019-07-01), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2019-07-01&g=2019-07-01), alsmede de uitkering, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=7&artikel=25a&z=2019-07-01&g=2019-07-01), indien Onze Minister zulks bepaalt;
+- v. bezoldiging: de som van het salaris, de toelagen, met uitzondering van de toelagen, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2020-01-01&g=2020-01-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2020-01-01&g=2020-01-01), [12g](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3d&artikel=12g&z=2020-01-01&g=2020-01-01), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2020-01-01&g=2020-01-01), alsmede de uitkering, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=7&artikel=25a&z=2020-01-01&g=2020-01-01), indien Onze Minister zulks bepaalt;
 
 - w. arbeidsongeschiktheid: volledige en duurzame arbeidsongeschiktheid als bedoeld in [artikel 4, eerste lid, van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) of gedeeltelijke arbeidsongeschiktheid als bedoeld in [artikel 5 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5);
 
@@ -126,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 - kk. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
 
-- ll. pensioengevend inkomen: het pensioengevend inkomen bedoeld in hoofdstuk 3 van het Pensioenreglement vermeerderd met de toelagen genoemd in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2019-07-01&g=2019-07-01) en [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2019-07-01&g=2019-07-01);
+- ll. pensioengevend inkomen: het pensioengevend inkomen bedoeld in hoofdstuk 3 van het Pensioenreglement vermeerderd met de toelagen genoemd in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2020-01-01&g=2020-01-01) en [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2020-01-01&g=2020-01-01);
 
 - mm. vervallen;
 
@@ -148,9 +148,9 @@ Hebben goedgevonden en verstaan:
 
 - vv. LFNP: Landelijk Functiegebouw Nederlandse Politie: het door Onze Minister vastgestelde geheel van functiebeschrijvingen, onderverdeeld naar vakgebieden, inclusief de waardering, en de aan het gebouw verbonden en omschreven werkterreinen, aandachtsgebieden en specifieke functionaliteiten;
 
-- ww. OVW punten: Onvermijdelijk Verzwarende Werkomstandigheden punten, zoals die met toepassing van het functiewaarderingssysteem zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), worden vastgesteld;
+- ww. OVW punten: Onvermijdelijk Verzwarende Werkomstandigheden punten, zoals die met toepassing van het functiewaarderingssysteem zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), worden vastgesteld;
 
-- xx. OVW periodieken: Onvermijdelijk Verzwarende Werkomstandigheden periodieken, welke kunnen worden toegewezen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2019-07-01&g=2019-07-01);
+- xx. OVW periodieken: Onvermijdelijk Verzwarende Werkomstandigheden periodieken, welke kunnen worden toegewezen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2020-01-01&g=2020-01-01);
 
 - yy. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), waarop recht op ouderdomspensioen ontstaat;
 
@@ -164,7 +164,7 @@ De toekenning, de intrekking, de verhoging onderscheidenlijk de vermindering van
 
 ##### Artikel 3
 
-1. Voor de aspirant geldt een salarisschaal die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=II&z=2019-07-01&g=2019-07-01) van dit besluit.
+1. Voor de aspirant geldt een salarisschaal die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=II&z=2020-01-01&g=2020-01-01) van dit besluit.
 
 2. Bij aanstelling wordt het salaris vastgesteld:
 
@@ -206,9 +206,11 @@ De toekenning, de intrekking, de verhoging onderscheidenlijk de vermindering van
 
 - e. in een functie waaraan ten minste salarisschaal 9 is verbonden van de aspirant die een opleiding heeft afgerond op niveau 6,
 
-waarbij het salaris wordt vastgesteld op een bedrag dat gelijk is aan of hoger is dan het bij het desbetreffende opleidingsniveau behorende garantiebedrag zoals genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=III&z=2019-07-01&g=2019-07-01) van dit besluit.
+waarbij het salaris wordt vastgesteld op een bedrag dat gelijk is aan of hoger is dan het bij het desbetreffende opleidingsniveau behorende garantiebedrag zoals genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=III&z=2020-01-01&g=2020-01-01) van dit besluit.
 
-8. In uitzonderlijke individuele situaties kan het bevoegd gezag ten gunste van de aspirant afwijken van de leden twee tot en met zes.
+8. In afwijking van het zevende lid, onder c, vindt de aanstelling van de aspirant in het vakgebied GGP of Tactische Opsporing, die op of na 1 januari 2021 met de opleiding is gestart en deze op niveau 4 heeft afgerond, plaats in een functie waaraan salarisschaal 6 is verbonden.
+
+9. In uitzonderlijke individuele situaties kan het bevoegd gezag ten gunste van de aspirant afwijken van de leden twee tot en met zes.
 
 ##### Artikel 3 bis
 
@@ -218,21 +220,21 @@ Vervallen
 
 1. Dit artikel is van toepassing op aspiranten die beginnen met de initiële opleiding vanaf 1 november 2013 tot 1 januari 2017 of een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding vanaf 1 januari 2017.
 
-2. Dit artikel is niet van toepassing op aspiranten die voorafgaand aan hun aanstelling minimaal twee jaar werkervaring hebben, waarbij zij minimaal 28 uur gemiddeld per week werkten met bijbehorende inkomsten van minimaal het minimumloon. Op deze aspiranten is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2019-07-01&g=2019-07-01) van toepassing.
+2. Dit artikel is niet van toepassing op aspiranten die voorafgaand aan hun aanstelling minimaal twee jaar werkervaring hebben, waarbij zij minimaal 28 uur gemiddeld per week werkten met bijbehorende inkomsten van minimaal het minimumloon. Op deze aspiranten is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01) van toepassing.
 
-3. Gedurende het eerste leerjaar bedraagt de tegemoetkoming voor de opleidingen de bij het opleidingsniveau genoemde bedrag in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2019-07-01&g=2019-07-01) van dit besluit.
+3. Gedurende het eerste leerjaar bedraagt de tegemoetkoming voor de opleidingen de bij het opleidingsniveau genoemde bedrag in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2020-01-01&g=2020-01-01) van dit besluit.
 
-4. Gedurende het tweede leerjaar ontvangen aspiranten een salaris dat is opgenomen in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=V&z=2019-07-01&g=2019-07-01) van dit besluit.
+4. Gedurende het tweede leerjaar ontvangen aspiranten een salaris dat is opgenomen in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=V&z=2020-01-01&g=2020-01-01) van dit besluit.
 
-5. Gedurende het derde leerjaar ontvangen aspiranten een salaris dat is opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=VI&z=2019-07-01&g=2019-07-01) van dit besluit.
+5. Gedurende het derde leerjaar ontvangen aspiranten een salaris dat is opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=VI&z=2020-01-01&g=2020-01-01) van dit besluit.
 
-6. Gedurende het vierde leerjaar ontvangen aspiranten een salaris als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=II&z=2019-07-01&g=2019-07-01).
+6. Gedurende het vierde leerjaar ontvangen aspiranten een salaris als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=II&z=2020-01-01&g=2020-01-01).
 
 7. Gedurende het eerste leerjaar hebben de aspiranten geen recht op de toelagen en vergoedingen genoemd in dit besluit.
 
-8. Gedurende het tweede, derde en indien van toepassing vierde leerjaar is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=12&artikel=50&z=2019-07-01&g=2019-07-01), van toepassing.
+8. Gedurende het tweede, derde en indien van toepassing vierde leerjaar is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=12&artikel=50&z=2020-01-01&g=2020-01-01), van toepassing.
 
-9. Gedurende de gehele krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding, is op de aspirant [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17a&z=2019-07-01&g=2019-07-01) niet van toepassing.
+9. Gedurende de gehele krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding, is op de aspirant [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17a&z=2020-01-01&g=2020-01-01) niet van toepassing.
 
 10. Na het succesvol afronden van de opleiding vindt aanstelling plaats:
 
@@ -248,7 +250,9 @@ Vervallen
 
 waarbij het salaris wordt vastgesteld op een bedrag dat gelijk is aan of hoger is dan het bij het desbetreffende opleidingsniveau behorende garantiebedrag zoals genoemd in bijlage III van dit besluit.
 
-11. De bedragen genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2019-07-01&g=2019-07-01) worden gewijzigd conform [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+11. In afwijking van het tiende lid, onder c, vindt de aanstelling van de aspirant in het vakgebied GGP of Tactische Opsporing, die op of na 1 januari 2021 met de opleiding is gestart en deze op niveau 4 heeft afgerond, plaats in een functie waaraan salarisschaal 6 is verbonden.
+
+12. De bedragen genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2020-01-01&g=2020-01-01) worden gewijzigd conform [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ##### Artikel 3a
 
@@ -262,7 +266,7 @@ waarbij het salaris wordt vastgesteld op een bedrag dat gelijk is aan of hoger i
 
 2. De aanspraak op het salaris, de toelagen, de vergoedingen en de uitkeringen vangt aan met ingang van de dag waarop de aanstelling ingaat.
 
-3. Wanneer het salaris, een toelage als bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2019-07-01&g=2019-07-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2019-07-01&g=2019-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2019-07-01&g=2019-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2019-07-01&g=2019-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17&z=2019-07-01&g=2019-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=19&z=2019-07-01&g=2019-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2019-07-01&g=2019-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=21&z=2019-07-01&g=2019-07-01) of een uitkering als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2019-07-01&g=2019-07-01), moet worden berekend over een gedeelte van een kalendermaand, wordt het bedrag per dag vastgesteld door het maandbedrag te delen door het aantal dagen van de desbetreffende kalendermaand.
+3. Wanneer het salaris, een toelage als bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2020-01-01&g=2020-01-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2020-01-01&g=2020-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2020-01-01&g=2020-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17&z=2020-01-01&g=2020-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=19&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2020-01-01&g=2020-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=21&z=2020-01-01&g=2020-01-01) of een uitkering als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2020-01-01&g=2020-01-01), moet worden berekend over een gedeelte van een kalendermaand, wordt het bedrag per dag vastgesteld door het maandbedrag te delen door het aantal dagen van de desbetreffende kalendermaand.
 
 ##### Artikel 4a
 
@@ -296,7 +300,7 @@ De ambtenaar ontvangt geen bezoldiging over de tijd gedurende welke hij opzettel
 
 - b. indien de ambtenaar in verband met ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte wordt herplaatst in een andere functie;
 
-- c. het salaris van de ambtenaar na het succesvol afronden van de opleiding wordt vastgesteld, met toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2019-07-01&g=2019-07-01);
+- c. het salaris van de ambtenaar na het succesvol afronden van de opleiding wordt vastgesteld, met toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01);
 
 - d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld in [hoofdstuk VII.B van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b), wordt herplaatst in een andere functie.
 
@@ -315,7 +319,7 @@ Ingeval [artikel 55ob van het Besluit algemene rechtspositie politie](https://we
 
 9. De ambtenaar kan een aanvraag indienen bij het bevoegd gezag wanneer zijn feitelijke werkzaamheden ten minste één jaar wezenlijk afwijken van zijn huidige, aan hem opgedragen LFNP functie, om de feitelijke werkzaamheden overeen te laten komen met een andere LFNP functie. Bij ministeriële regeling worden nadere regels gesteld.
 
-10. Voor de ambtenaar die in het kader van een detachering, bedoeld in [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62), tijdelijk een andere functie uitoefent waaraan op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), een hogere salarisschaal is verbonden, geldt deze hogere salarisschaal.
+10. Voor de ambtenaar die in het kader van een detachering, bedoeld in [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62), tijdelijk een andere functie uitoefent waaraan op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), een hogere salarisschaal is verbonden, geldt deze hogere salarisschaal.
 
 11. De regeling bedoeld in het tweede lid is ook van toepassing in het kader van het vaststellen van de salarisschaal van passende arbeid bij arbeidsongeschiktheid. Hierbij is de eigen of een andere functie uit het LFNP, of een deel van één of meerdere functies uit het LFNP bepalend.
 
@@ -333,11 +337,11 @@ Vervallen
 
 ##### Artikel 8
 
-1. Bij de aanstelling wordt het salaris vastgesteld op het minimum van de voor de ambtenaar geldende salarisschaal van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) bij dit besluit.
+1. Bij de aanstelling wordt het salaris vastgesteld op het minimum van de voor de ambtenaar geldende salarisschaal van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) bij dit besluit.
 
 2. Van het eerste lid kan worden afgeweken door het toekennen van een hoger salaris in de voor de ambtenaar geldende salarisschaal, indien daartoe naar het oordeel van het bevoegd gezag aanleiding bestaat.
 
-3. Bij de aanstelling van de korpschef wordt zijn salaris vastgesteld conform [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=Ia&z=2019-07-01&g=2019-07-01).
+3. Bij de aanstelling van de korpschef wordt zijn salaris vastgesteld conform [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=Ia&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 9
 
@@ -353,15 +357,15 @@ Vervallen
 
 6. Het oordeel van het bevoegd gezag over het vervullen van de functie door de ambtenaar, bedoeld in het tweede of derde lid, is gebaseerd op een bekrachtigde beoordeling als bedoeld in [artikel 71, tweede en vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71), die betrekking heeft op een tijdvak dat eindigt binnen een jaar vóór de datum van het oordeel, bedoeld in het tweede of derde lid.
 
-7. Voor de ambtenaar die na het succesvol afronden van de opleiding is aangesteld met toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2019-07-01&g=2019-07-01), vindt de eerstvolgende salarisverhoging in afwijking van het vierde lid plaats een jaar na de laatste salarisverhoging, bedoeld in artikel 3, vijfde of zesde lid.
+7. Voor de ambtenaar die na het succesvol afronden van de opleiding is aangesteld met toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), vindt de eerstvolgende salarisverhoging in afwijking van het vierde lid plaats een jaar na de laatste salarisverhoging, bedoeld in artikel 3, vijfde of zesde lid.
 
-8. In afwijking van het zevende lid vindt voor de ambtenaar die tijdens de opleiding was ingeschaald op grond van [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2019-07-01&g=2019-07-01), de eerstvolgende salarisverhoging plaats in de eerstvolgende kalendermaand na het voltooien van de opleiding waarin een geheel aantal jaren is verstreken sinds de aspirant het maximum salarisbedrag op grond van artikel 3, zesde lid, onderdeel b, heeft bereikt.
+8. In afwijking van het zevende lid vindt voor de ambtenaar die tijdens de opleiding was ingeschaald op grond van [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), de eerstvolgende salarisverhoging plaats in de eerstvolgende kalendermaand na het voltooien van de opleiding waarin een geheel aantal jaren is verstreken sinds de aspirant het maximum salarisbedrag op grond van artikel 3, zesde lid, onderdeel b, heeft bereikt.
 
 ##### Artikel 9a
 
-1. De ambtenaar die het maximum van de schaal behorende bij een functie met 24 of meer OVW punten, zoals opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=VII&z=2019-07-01&g=2019-07-01), heeft bereikt, wordt, met behoud van deze schaal en met inachtneming van het tweede lid, extra periodieken ter hoogte van de in de volgende salarisschaal opgenomen periodieken toegekend.
+1. De ambtenaar die het maximum van de schaal behorende bij een functie met 24 of meer OVW punten, zoals opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=VII&z=2020-01-01&g=2020-01-01), heeft bereikt, wordt, met behoud van deze schaal en met inachtneming van het tweede lid, extra periodieken ter hoogte van de in de volgende salarisschaal opgenomen periodieken toegekend.
 
-2. Het toekennen van de periodieken bedoeld in het eerste lid, gebeurt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2019-07-01&g=2019-07-01).
+2. Het toekennen van de periodieken bedoeld in het eerste lid, gebeurt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01).
 
 3. Uitgezonderd van het eerste lid is:
 
@@ -379,11 +383,11 @@ Vervallen
 
 ##### Artikel 10
 
-1. Ingeval van indeling in een hogere schaal wordt, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=11&z=2019-07-01&g=2019-07-01), het salaris van de ambtenaar in de nieuwe schaal vastgesteld op het salaris gelegen onmiddellijk boven het salaris dat de ambtenaar genoot.
+1. Ingeval van indeling in een hogere schaal wordt, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=11&z=2020-01-01&g=2020-01-01), het salaris van de ambtenaar in de nieuwe schaal vastgesteld op het salaris gelegen onmiddellijk boven het salaris dat de ambtenaar genoot.
 
 2. In bijzondere gevallen kan het salaris worden vastgesteld op een hoger bedrag in de voor de ambtenaar geldende salarisschaal.
 
-3. Indien de datum van indeling in de hogere schaal samenvalt met de datum waarop een verhoging als bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2019-07-01&g=2019-07-01), plaatsvindt, vindt de indeling in de hogere schaal plaats voor de verhoging, bedoeld in artikel 9, eerste of tweede lid.
+3. Indien de datum van indeling in de hogere schaal samenvalt met de datum waarop een verhoging als bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), plaatsvindt, vindt de indeling in de hogere schaal plaats voor de verhoging, bedoeld in artikel 9, eerste of tweede lid.
 
 4. Indien de ambtenaar OVW periodieken heeft verkregen en er sprake is van een vrijwillige overstap naar een functie met minder dan 24 OVW punten, vervallen de verkregen OVW periodieken en worden deze niet meegenomen in de berekening bedoeld in het eerste lid.
 
@@ -403,7 +407,7 @@ Het salaris van de ambtenaar met een andere betrekking dan een volledige betrekk
 
 ##### Artikel 12a
 
-In dit hoofdstuk en [hoofdstuk 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&z=2019-07-01&g=2019-07-01) wordt onder «berekeningsgrondslag» verstaan: de uitkomst van het pensioengevend inkomen, berekend zonder de toelagen, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2019-07-01&g=2019-07-01) en [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2019-07-01&g=2019-07-01), en uitgaand van een volledige betrekkingsomvang, gedeeld door twaalf.
+In dit hoofdstuk en [hoofdstuk 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&z=2020-01-01&g=2020-01-01) wordt onder «berekeningsgrondslag» verstaan: de uitkomst van het pensioengevend inkomen, berekend zonder de toelagen, bedoeld in de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2020-01-01&g=2020-01-01) en [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12d&z=2020-01-01&g=2020-01-01), en uitgaand van een volledige betrekkingsomvang, gedeeld door twaalf.
 
 ##### Artikel 12b
 
@@ -413,17 +417,17 @@ In dit hoofdstuk en [hoofdstuk 3b](https://wetten.overheid.nl/jci1.3:c:BWBR00065
 
 3. Geen recht op de toelage, bedoeld in het eerste lid, heeft de:
 
-- a. ambtenaar die aanspraak heeft op levensfase-uren als bedoeld in [artikel 1, eerste lid, onderdeel rr, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. ambtenaar op wie [artikel 30, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=30) van toepassing is;
 
 - b. ambtenaar op wie het [artikel 88a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a) van toepassing is;
 
 - c. aspirant op wie het [artikel 3, eerste lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) van toepassing is.
 
-### Hoofdstuk 3b. Toelage bezwarende functies
+### Hoofdstuk 3a. Bijdrage levensloopregeling
 
 ##### Artikel 12c
 
-1. Aan de volgende ambtenaren, voor wie een salarisschaal geldt die lager is dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01), wordt maandelijks een toelage bezwarende functie toegekend:
+1. Aan de volgende ambtenaren, voor wie een salarisschaal geldt die lager is dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01), wordt maandelijks een toelage bezwarende functie toegekend:
 
 - a. de aspirant, met uitzondering van de aspirant, aangesteld op grond van [artikel 3, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3);
 
@@ -443,7 +447,7 @@ In dit hoofdstuk en [hoofdstuk 3b](https://wetten.overheid.nl/jci1.3:c:BWBR00065
 
 7. Geen recht op de toelage, bedoeld in het eerste of tweede lid, heeft de ambtenaar:
 
-- a. die aanspraak heeft op levensfase-uren als bedoeld in [artikel 1, eerste lid, onderdeel rr, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. ambtenaar op wie [artikel 30, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=30) van toepassing is;
 
 - b. op wie het [artikel 88a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a) van toepassing is.
 
@@ -477,17 +481,17 @@ In dit hoofdstuk en [hoofdstuk 3b](https://wetten.overheid.nl/jci1.3:c:BWBR00065
 
 7. Eenmaal vastgesteld loopt de inhaaltoelage bezwarende functie door tot het moment dat de ambtenaar de leeftijd van 60 jaar bereikt dan wel de politie vóór die leeftijd verlaat. Veranderingen van functie, betrekkingsomvang, status of salarisschaal hebben geen effect op de duur en het vastgestelde percentage.
 
-### Hoofdstuk 3c. Te gelde maken algemene levensloopbijdrage, toelage bezwarende functie en inhaaltoelage bezwarende functie
+### Hoofdstuk 3b. Toelage bezwarende functies
 
 ##### Artikel 12e
 
-De ambtenaar kan het bevoegd gezag verzoeken de bijdrage en toelagen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), aan te wenden voor de ingevolge [artikel 47a Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=47) getroffen levensloopvoorziening. Bij het uitblijven van een dergelijk verzoek keert het bevoegd gezag deze bijdragen en toelagen uit als onderdeel van de maandelijkse salarisbetaling.
+De ambtenaar kan het bevoegd gezag verzoeken de bijdrage en toelagen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), aan te wenden voor de ingevolge [artikel 47a Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=47) getroffen levensloopvoorziening. Bij het uitblijven van een dergelijk verzoek keert het bevoegd gezag deze bijdragen en toelagen uit als onderdeel van de maandelijkse salarisbetaling.
 
 ##### Artikel 12f
 
 1. Onder ambtenaar in dit artikel wordt verstaan de ambtenaar, die op 1 januari 2006 recht heeft op een uitkering krachtens de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of die in de periode van 1 januari 2006 tot 1 januari 2008 recht heeft verkregen op een uitkering krachtens de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
-2. De ambtenaar kan het bevoegd gezag melden de bijdrage en toelagen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), in afwijking van [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3c&artikel=12e&z=2019-07-01&g=2019-07-01), te willen besteden, door:
+2. De ambtenaar kan het bevoegd gezag melden de bijdrage en toelagen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), in afwijking van [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3c&artikel=12e&z=2020-01-01&g=2020-01-01), te willen besteden, door:
 
 - a. geheel of gedeeltelijk verlof op te nemen;
 
@@ -505,11 +509,11 @@ De ambtenaar kan het bevoegd gezag verzoeken de bijdrage en toelagen, bedoeld in
 
 - b. jaarlijks gemaakt ten aanzien van de uitvoering vanaf het kalenderjaar 2014.
 
-5. Indien de levensloopbijdragen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2019-07-01&g=2019-07-01), die betrekking hebben op de in het vierde lid, onder a genoemde periode, reeds zijn uitbetaald of zijn aangewend voor de ingevolge [artikel 47a Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=47a) getroffen levensloopvoorziening, is het tweede lid niet van toepassing.
+5. Indien de levensloopbijdragen, bedoeld in de [artikelen 12b tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3a&artikel=12b&z=2020-01-01&g=2020-01-01), die betrekking hebben op de in het vierde lid, onder a genoemde periode, reeds zijn uitbetaald of zijn aangewend voor de ingevolge [artikel 47a Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=47a) getroffen levensloopvoorziening, is het tweede lid niet van toepassing.
 
 6. Bij ministeriele regeling worden nadere regels gesteld over de melding, bedoeld in het tweede lid.
 
-### Hoofdstuk 4. Inconveniëntentoelage
+### Hoofdstuk 3c. Te gelde maken algemene levensloopbijdrage, toelage bezwarende functie en inhaaltoelage bezwarende functie
 
 ##### Artikel 13
 
@@ -527,15 +531,13 @@ Vervallen
 
 3. Hetgeen in het tweede lid ten aanzien van het verrichten van dienst op zaterdag en zondag is bepaald, geldt mede voor het verrichten van dienst op de Nieuwjaarsdag, de tweede Paasdag, de Hemelvaartsdag, de tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koning wordt gevierd.
 
-4. De operationele toelage wordt in gevallen van ziekte, zwangerschaps- en bevallingsverlof of van aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte, zwangerschap- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap zijn aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.
+4. De operationele toelage wordt in gevallen van ziekte, zwangerschaps- en bevallingsverlof of van aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar gesteld op het bedrag dat de ambtenaar in de 13 perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte, zwangerschap- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap zijn aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.
 
 5. Het eerste tot en met vierde lid zijn niet van toepassing op de ambtenaar met een functie waarvoor salarisschaal 15 of hoger geldt.
 
-6. De bedragen, genoemd in het tweede lid, worden overeenkomstig een algemene salarismaatregel in de sector Politie aangepast.
+6. De operationele toelage voor de ambtenaar voor wie de hoogte van deze toelage eerder is vastgesteld met toepassing van het vierde lid, blijft in geval van ziekte, zwangerschaps- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar, binnen vier weken na hervatting van zijn werkzaamheden ongewijzigd op die hoogte.
 
-7. De operationele toelage voor de ambtenaar voor wie de hoogte van deze toelage eerder is vastgesteld met toepassing van het vierde lid, blijft in geval van ziekte, zwangerschaps- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar, binnen vier weken na hervatting van zijn werkzaamheden ongewijzigd op die hoogte.
-
-8. De ambtenaar die gedeeltelijk arbeidsongeschikt is, wordt voor de toepassing van het vierde lid geacht volledig ongeschikt te zijn om zijn arbeid te verrichten. Zou de gedeeltelijk arbeidsongeschikte ambtenaar op grond van zijn daadwerkelijk verrichte diensten op grond van de eerste tot en met het derde lid een hogere operationele toelage hebben ontvangen dan overeenkomstig de eerste volzin met toepassing van het vierde lid is vastgesteld, dan heeft hij recht op een additionele toelage ter hoogte van het verschil tussen die twee bedragen.
+7. De ambtenaar die gedeeltelijk arbeidsongeschikt is, wordt voor de toepassing van het vierde lid geacht volledig ongeschikt te zijn om zijn arbeid te verrichten. Zou de gedeeltelijk arbeidsongeschikte ambtenaar op grond van zijn daadwerkelijk verrichte diensten op grond van de eerste tot en met het derde lid een hogere operationele toelage hebben ontvangen dan overeenkomstig de eerste volzin met toepassing van het vierde lid is vastgesteld, dan heeft hij recht op een additionele toelage ter hoogte van het verschil tussen die twee bedragen.
 
 ##### Artikel 15
 
@@ -543,15 +545,15 @@ Vervallen
 
 - a. de bezoldiging van de betreffende ambtenaar heeft als gevolg van het beëindigen of verminderen van de operationele toelage een blijvende of tijdelijke verlaging ondergaan;
 
-- b. het gemiddelde bedrag dat de ambtenaar aan operationele toelage heeft genoten in de twaalf maanden voorafgaande aan de verlaging bedraagt ten minste 3% van het salaris van de ambtenaar in de nieuwe situatie op het moment dat de verlaging ingaat;
+- b. het gemiddelde bedrag dat de ambtenaar aan operationele toelage heeft genoten in de 13 perioden van vier weken voorafgaande aan de verlaging bedraagt ten minste 3% van het salaris van de ambtenaar in de nieuwe situatie op het moment dat de verlaging ingaat;
 
 - c. de ambtenaar heeft, tenzij sprake is van een tijdelijke verlaging van de bezoldiging als bedoeld onder a, direct voorafgaande aan het tijdstip van de beëindiging of de vermindering de operationele toelage gedurende ten minste twee jaren zonder wezenlijke onderbreking genoten; en
 
 - d. het beëindigen of verminderen van de operationele toelage, bedoeld onder a, is veroorzaakt buiten toedoen van de betrokken ambtenaar zelf, tenzij de vermindering het gevolg is van een verplaatsing of wijziging van de plaats van tewerkstelling op eigen verzoek, dan wel een aanstelling in een andere functie op eigen verzoek.
 
-2. In afwijking van het eerste lid wordt aan de ambtenaar van 55 jaar of ouder wiens bezoldiging als gevolg van het beëindigen of verminderen van de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), een blijvende verlaging ondergaat, een blijvende toelage toegekend, mits de ambtenaar eerstbedoelde toelage direct voorafgaande aan het tijdstip van deze beëindiging of vermindering ervan, gedurende tenminste tien jaren zonder wezenlijke onderbreking heeft genoten en mits wordt voldaan aan de in het eerste lid onder b en d genoemde voorwaarden.
+2. In afwijking van het eerste lid wordt aan de ambtenaar van 55 jaar of ouder wiens bezoldiging als gevolg van het beëindigen of verminderen van de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01), een blijvende verlaging ondergaat, een blijvende toelage toegekend, mits de ambtenaar eerstbedoelde toelage direct voorafgaande aan het tijdstip van deze beëindiging of vermindering ervan, gedurende tenminste tien jaren zonder wezenlijke onderbreking heeft genoten en mits wordt voldaan aan de in het eerste lid onder b en d genoemde voorwaarden.
 
-3. De in het eerste lid bedoelde aflopende toelage na een blijvende verlaging van de bezoldiging gaat, wanneer de ambtenaar de leeftijd van 55 jaar bereikt en onmiddellijk vóór de aanvang van die toelage gedurende tenminste tien jaren zonder wezenlijke onderbreking de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01) heeft genoten, over in een blijvende toelage als bedoeld in het tweede lid.
+3. De in het eerste lid bedoelde aflopende toelage na een blijvende verlaging van de bezoldiging gaat, wanneer de ambtenaar de leeftijd van 55 jaar bereikt en onmiddellijk vóór de aanvang van die toelage gedurende tenminste tien jaren zonder wezenlijke onderbreking de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01) heeft genoten, over in een blijvende toelage als bedoeld in het tweede lid.
 
 4. Voor de toepassing van dit artikel wordt onder wezenlijke onderbreking verstaan een onderbreking van langer dan twee maanden.
 
@@ -571,11 +573,11 @@ Vervallen
 
 3. De toelage bedraagt voor de ambtenaar:
 
-- a. ingedeeld in schaal 1 tot en met 9 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit: ten hoogste 6% van het voor de ambtenaar geldende maximumsalaris;
+- a. ingedeeld in schaal 1 tot en met 9 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit: ten hoogste 6% van het voor de ambtenaar geldende maximumsalaris;
 
-- b. ingedeeld in schaal 10, 11, 12 of 13 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit: ten hoogste 9% van het voor de ambtenaar geldende maximumsalaris;
+- b. ingedeeld in schaal 10, 11, 12 of 13 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit: ten hoogste 9% van het voor de ambtenaar geldende maximumsalaris;
 
-- c. ingedeeld in schaal 14 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit: ten hoogste 12% van het voor de ambtenaar geldende maximumsalaris.
+- c. ingedeeld in schaal 14 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit: ten hoogste 12% van het voor de ambtenaar geldende maximumsalaris.
 
 ##### Artikel 16a
 
@@ -591,13 +593,13 @@ Vervallen
 
 ##### Artikel 17
 
-1. Aan de ambtenaar die bij wijze van waarneming tijdelijk een functie uitoefent die bij toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), zou leiden tot een salarisschaal met een hoger maximumsalaris, kan voor de duur van die waarneming een toelage worden toegekend. Onder waarneming wordt verstaan het krachtens een daartoe strekkende aanwijzing van het bevoegd gezag tijdelijk verrichten van een samenstel van werkzaamheden dat een andere functie vormt dan die van de ambtenaar zelf.
+1. Aan de ambtenaar die bij wijze van waarneming tijdelijk een functie uitoefent die bij toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), zou leiden tot een salarisschaal met een hoger maximumsalaris, kan voor de duur van die waarneming een toelage worden toegekend. Onder waarneming wordt verstaan het krachtens een daartoe strekkende aanwijzing van het bevoegd gezag tijdelijk verrichten van een samenstel van werkzaamheden dat een andere functie vormt dan die van de ambtenaar zelf.
 
 2. De toelage wordt, tenzij bijzondere omstandigheden aanwezig zijn, slechts toegekend wanneer de waarneming een tijdvak van ten minste dertig dagen heeft geduurd.
 
 3. Bij volledige waarneming van de functie, bedoeld in het eerste lid, is het bedrag van de toelage gelijk aan het verschil tussen het salaris dat de ambtenaar geniet en het salaris dat de ambtenaar zou genieten, wanneer de salarisschaal met het hogere maximumsalaris met ingang van de dag waarop de waarneming is begonnen, voor hem zou hebben gegolden. Onder volledige waarneming wordt verstaan een zodanige waarneming dat in plaats van de eigen functie het volledige samenstel van werkzaamheden van de waargenomen functie, met de daarmee gepaard gaande verantwoordelijkheden, wordt uitgeoefend.
 
-4. Voor de toepassing van het derde lid wordt onder salaris mede verstaan de toelagen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2019-07-01&g=2019-07-01).
+4. Voor de toepassing van het derde lid wordt onder salaris mede verstaan de toelagen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2020-01-01&g=2020-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2020-01-01&g=2020-01-01).
 
 5. Bij niet volledige waarneming wordt de toelage, afhankelijk van de mate van onvolledigheid van de waarneming, vastgesteld op 50% of 75% van de toelage bij volledige waarneming.
 
@@ -629,17 +631,15 @@ Vervallen
 
 7. Voor de toepassing van dit artikel worden gedeelten van uren, voorzover daarmee het half uur, bedoeld in het tweede lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.
 
-8. De toelage voor consignatie wordt in geval van ziekte, zwangerschaps- en bevallingsverlof of van aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte, zwangerschap- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap zijn aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.
+8. De toelage voor consignatie wordt in geval van ziekte, zwangerschaps- en bevallingsverlof of van aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar gesteld op het bedrag dat de ambtenaar in de 13 perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte, zwangerschap- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap zijn aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.
 
 9. Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.
 
 10. Het eerste lid is niet van toepassing op de ambtenaar met een functie waarvoor salarisschaal 15 of hoger geldt.
 
-11. Het bedrag, genoemd in het derde lid, wordt overeenkomstig een algemene salarismaatregel in de sector Politie aangepast.
+11. De toelage voor consignatie voor de ambtenaar voor wie de hoogte van deze toelage eerder is vastgesteld met toepassing van het achtste lid, blijft in geval van ziekte, zwangerschaps- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar, binnen vier weken na hervatting van zijn werkzaamheden ongewijzigd op die hoogte.
 
-12. De toelage voor consignatie voor de ambtenaar voor wie de hoogte van deze toelage eerder is vastgesteld met toepassing van het achtste lid, blijft in geval van ziekte, zwangerschaps- en bevallingsverlof of aangepaste werkzaamheden in verband met zwangerschap van de ambtenaar, binnen vier weken na hervatting van zijn werkzaamheden ongewijzigd op die hoogte.
-
-13. De ambtenaar die gedeeltelijk arbeidsongeschikt is, wordt voor de toepassing van het achtste lid geacht volledig ongeschikt te zijn om zijn arbeid te verrichten. Zou de gedeeltelijk arbeidsongeschikte ambtenaar op grond van zijn daadwerkelijk verrichte diensten op grond van het eerste tot en met het vierde lid een hogere toelage voor consignatie hebben ontvangen dan overeenkomstig de eerste volzin met toepassing van het achtste lid is vastgesteld, dan heeft hij recht op een additionele toelage ter hoogte van het verschil tussen die twee bedragen.
+12. De ambtenaar die gedeeltelijk arbeidsongeschikt is, wordt voor de toepassing van het achtste lid geacht volledig ongeschikt te zijn om zijn arbeid te verrichten. Zou de gedeeltelijk arbeidsongeschikte ambtenaar op grond van zijn daadwerkelijk verrichte diensten op grond van het eerste tot en met het vierde lid een hogere toelage voor consignatie hebben ontvangen dan overeenkomstig de eerste volzin met toepassing van het achtste lid is vastgesteld, dan heeft hij recht op een additionele toelage ter hoogte van het verschil tussen die twee bedragen.
 
 ##### Artikel 19
 
@@ -687,13 +687,13 @@ Vervallen
 
 ##### Artikel 21
 
-1. In uitzonderlijke gevallen kan aan de ambtenaar of aan een groep van ambtenaren een toelage worden toegekend op andere gronden dan die vermeld in de [artikelen 16 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2019-07-01&g=2019-07-01).
+1. In uitzonderlijke gevallen kan aan de ambtenaar of aan een groep van ambtenaren een toelage worden toegekend op andere gronden dan die vermeld in de [artikelen 16 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2020-01-01&g=2020-01-01).
 
 2. Een in het eerste lid bedoelde toelage kan aan de ambtenaar worden toegekend nadat Onze Minister ter zake nadere regels heeft vastgesteld.
 
 ##### Artikel 22
 
-Een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2019-07-01&g=2019-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=19&z=2019-07-01&g=2019-07-01) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=21&z=2019-07-01&g=2019-07-01) toegekende toelage wordt ingetrokken, indien de gronden waarop de toelage wordt toegekend niet meer aanwezig zijn, tenzij het bevoegd gezag van oordeel is dat er omstandigheden zijn om de toelage geheel of gedeeltelijk te handhaven.
+Een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=16&z=2020-01-01&g=2020-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=19&z=2020-01-01&g=2020-01-01) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=21&z=2020-01-01&g=2020-01-01) toegekende toelage wordt ingetrokken, indien de gronden waarop de toelage wordt toegekend niet meer aanwezig zijn, tenzij het bevoegd gezag van oordeel is dat er omstandigheden zijn om de toelage geheel of gedeeltelijk te handhaven.
 
 ### Hoofdstuk 6. Vakantie-uitkering
 
@@ -711,21 +711,21 @@ Een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofd
 
 4. Voor de toepassing van het eerste lid wordt de ambtenaar geacht in het genot van de volle bezoldiging te zijn, indien hij
 
-- a. niet zijn volledige bezoldiging geniet op grond van de artikelen [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=28b) en [41 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=41) of op grond van de [artikelen 32 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2019-07-01&g=2019-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01),
+- a. niet zijn volledige bezoldiging geniet op grond van de artikelen [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=13a), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=28b) en [41 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=41) of op grond van de [artikelen 32 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2020-01-01&g=2020-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01),
 
 - b. een uitkering op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) ontvangt,
 
-- c. een aanvulling op zijn ZW-uitkering geniet op grond van [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39a&z=2019-07-01&g=2019-07-01), of
+- c. een aanvulling op zijn ZW-uitkering geniet op grond van [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39a&z=2020-01-01&g=2020-01-01), of
 
 - d. niet zijn volledige salaris geniet vanwege een inhouding op dat salaris op grond van de Regeling levensloop politie.
 
 Is het feitelijk genot van de bezoldiging teruggebracht tot het bedrag van het op de ambtenaar te verhalen gedeelte van de pensioenbijdrage dan wordt hij voor de toepassing van het eerste lid geacht geen bezoldiging te genieten.
 
-5. De ambtenaar, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2019-07-01&g=2019-07-01), geniet de vakantie-uitkering slechts voor zoveel die uitgaat boven de vakantie-uitkering waarop hij als militair aanspraak heeft.
+5. De ambtenaar, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2020-01-01&g=2020-01-01), geniet de vakantie-uitkering slechts voor zoveel die uitgaat boven de vakantie-uitkering waarop hij als militair aanspraak heeft.
 
 ##### Artikel 24
 
-[Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing op de gewezen ambtenaar die ingevolge [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2019-07-01&g=2019-07-01) bezoldiging geniet.
+[Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de gewezen ambtenaar die ingevolge [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2020-01-01&g=2020-01-01) bezoldiging geniet.
 
 ##### Artikel 25
 
@@ -733,7 +733,7 @@ Is het feitelijk genot van de bezoldiging teruggebracht tot het bedrag van het o
 
 2. Bij ontslag van de ambtenaar vindt betaling plaats over het tijdvak, gelegen tussen het einde van de laatst verstreken periode waarover de vakantie-uitkering is betaald en de datum van het ontslag.
 
-3. Voor de toepassing van dit artikel wordt met het ontslag van de ambtenaar gelijkgesteld de beëindiging van de doorbetaling van de bezoldiging van de gewezen ambtenaar, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=24&z=2019-07-01&g=2019-07-01).
+3. Voor de toepassing van dit artikel wordt met het ontslag van de ambtenaar gelijkgesteld de beëindiging van de doorbetaling van de bezoldiging van de gewezen ambtenaar, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=24&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk 6. Vakantie-uitkering
 
@@ -747,7 +747,7 @@ Is het feitelijk genot van de bezoldiging teruggebracht tot het bedrag van het o
 
 ##### Artikel 25b
 
-1. De ambtenaar heeft recht op een eindejaarsuitkering ten bedrage van 8% van het door hem in dat jaar genoten salaris en de compensatie, bedoeld in [artikel 38, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), dan wel in [artikel 38b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38b&z=2019-07-01&g=2019-07-01).
+1. De ambtenaar heeft recht op een eindejaarsuitkering ten bedrage van 8,33% van het door hem in dat jaar genoten salaris en de compensatie, bedoeld in [artikel 38, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), dan wel in [artikel 38b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38b&z=2020-01-01&g=2020-01-01).
 
 2. De eindejaarsuitkering bedraagt tenminste € 155,07 per maand met dien verstande dat dit bedrag naar evenredigheid wordt verminderd indien:
 
@@ -795,9 +795,9 @@ wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit z
 
 ##### Artikel 27
 
-1. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 13 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit en die overwerk verricht, wordt, behoudens het zesde lid, een vergoeding toegekend.
+1. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 13 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit en die overwerk verricht, wordt, behoudens het zesde lid, een vergoeding toegekend.
 
-2. Aan de ambtenaar die is ingedeeld in salarisschaal 13 of 14 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit wordt de in dit artikel bedoelde vergoeding toegekend indien hij overwerk verricht in het kader van:
+2. Aan de ambtenaar die is ingedeeld in salarisschaal 13 of 14 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit wordt de in dit artikel bedoelde vergoeding toegekend indien hij overwerk verricht in het kader van:
 
 - a. deelname aan een rampenstaf;
 
@@ -807,7 +807,7 @@ wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit z
 
 - d. deelname aan een team grootschalige opsporing.
 
-3. Onder overwerk wordt verstaan dienst in opdracht van het daartoe bevoegde gezag buiten de voor de ambtenaar krachtens [artikel 12 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12) vastgestelde arbeidstijden, voorzover daardoor de per dienstdag vastgestelde totale arbeidstijd wordt overschreden.
+3. Onder overwerk wordt verstaan dienst in opdracht van het daartoe bevoegde gezag buiten de voor de ambtenaar krachtens [artikel 12 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12) vastgestelde arbeidstijden, voor zover daardoor de per dienstdag vastgestelde totale arbeidstijd wordt overschreden, uitgezonderd de uren die in de periode vanaf zeven dagen tot vier dagen voorafgaand aan de dag waarop de dienst moet worden gedaan door het bevoegd gezag worden opgedragen.
 
 4. Overwerk wordt aan de ambtenaar niet opgedragen boven 240 uren per jaar. Ingeval van een aanstelling van minder dan 36 uren per week is het op te dragen aantal uren overwerk per jaar naar rato begrensd. In bijzondere gevallen kan met instemming van de betreffende Ondernemingsraad ten aanzien van groepen ambtenaren worden afgeweken van het vastgestelde aantal uren, bedoeld in de eerste en tweede volzin.
 
@@ -821,25 +821,21 @@ wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit z
 
 9. De in het zevende en achtste lid bedoelde vergoeding door middel van een bedrag in geld wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin het overwerk is verricht. De vergoeding is niet pensioengevend.
 
-10. In geval vergoeding van overwerk plaatsvindt door middel van verlof, wordt het verlof zo spoedig mogelijk verleend, doch uiterlijk in de periode van vier weken waarin de in het negende lid bedoelde salarisbetaling plaatsvindt.
+10. Indien overwerk wordt vergoed door middel van het in het zevende en achtste lid bedoelde verlof, wordt dat verlof toegekend in levensfase-uren bedoeld in [artikel 1, eerste lid, onderdeel rr, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-11. Van de in het negende en tiende lid gestelde termijnen kan worden afgeweken indien het dienstbelang dat vereist of, indien het dienstbelang zich daartegen niet verzet, op verzoek van de ambtenaar. Voor de hier bedoelde gevallen wordt een nieuwe uiterste termijn vastgesteld.
+11. Voor de toepassing van dit artikel worden gedeelten van uren, voor zover daarmee het half uur, bedoeld in het zesde lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.
 
-12. De tijdstippen waarop het verlof, bedoeld in het zevende en het achtste lid, wordt verleend, worden zo tijdig mogelijk vastgesteld, waarbij zoveel mogelijk rekening gehouden wordt met de wensen van de ambtenaar.
+12. Voor de bepaling van de duur van de overschrijding van de per dienstdag vastgestelde totale arbeidstijd gelden uren waarop krachtens het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) vakantie of verlof is genoten dan wel wegens ziekte of schorsing geen dienst is verricht, als uren waarop feitelijk dienst is verricht.
 
-13. Voor de toepassing van dit artikel worden gedeelten van uren, voor zover daarmee het half uur, bedoeld in het zesde lid, wordt overschreden, berekend over een periode van vier weken, opgeteld en naar boven afgerond op halve uren.
+13. Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.
 
-14. Voor de bepaling van de duur van de overschrijding van de per dienstdag vastgestelde totale arbeidstijd gelden uren waarop krachtens het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) vakantie of verlof is genoten dan wel wegens ziekte of schorsing geen dienst is verricht, als uren waarop feitelijk dienst is verricht.
-
-15. Voor de toepassing van dit artikel berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel bij de door deze aangewezen ambtenaar.
-
-16. Dit artikel is niet van toepassing op de ambtenaar met een functie waarvoor salarisschaal 15 of hoger geldt.
+14. Dit artikel is niet van toepassing op de ambtenaar met een functie waarvoor salarisschaal 15 of hoger geldt.
 
 ##### Artikel 27a
 
-1. Indien de ambtenaar dienst verricht op aan hem volgens het dagrooster verleende vakantie-uren, wordt hem een vergoeding toegekend.
+1. Indien de ambtenaar dienst verricht op aan hem volgens het dagrooster verleende vakantie-uren of levensfase-uren, als bedoeld in [artikel 1, eerste lid, onderdeel rr, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), wordt hem een vergoeding toegekend.
 
-2. De vergoeding, bedoeld in het eerste lid, is gelijk aan de toeslag als bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01). De vergoeding voor delen van een uur wordt vastgesteld op een evenredig deel van de toeslag.
+2. De vergoeding, bedoeld in het eerste lid, is gelijk aan de toeslag als bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01). De vergoeding voor delen van een uur wordt vastgesteld op een evenredig deel van de toeslag.
 
 3. De vergoeding die is uitgekeerd in geld, is niet pensioengevend.
 
@@ -857,17 +853,17 @@ wordt voor de toepassing van dit artikel het salaris in acht genomen zoals dit z
 
 - d. deelname aan een team grootschalige opsporing.
 
-3. De vergoeding wordt berekend per gewerkt verschoven uur en is gelijk aan de toeslag in geld bij overwerk, bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01).
+3. De vergoeding wordt berekend per gewerkt verschoven uur en is gelijk aan de toeslag in geld bij overwerk, bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01).
 
 4. Een verschuiving van een vrije zondag of een dag die in de wekelijkse rusttijd valt, bedoeld in [artikel 12, negende lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12), wordt gesteld op acht uren, ongeacht de betrekkingsomvang of werktijdenmodaliteit van de ambtenaar.
 
-5. De vergoeding voor een verschuiving in het dagrooster, bedoeld in [artikel 12, twaalfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12), wordt slechts toegekend indien de verschuiving ten minste een half uur bedraagt.
+5. De vergoeding voor een verschuiving in het dagrooster, bedoeld in [artikel 12, twaalfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12), wordt slechts toegekend indien de verschuiving ten minste een half uur bedraagt en deze verschuiving plaatsvindt binnen een termijn van vier dagen voor de dag waarop dienst moet worden gedaan.
 
 6. De vergoeding voor een verschuiving in de roosters, bedoeld in [artikel 12, negende of tiende lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12), wordt eerst toegekend indien meer dan acht uren zijn verschoven op grond van één van deze leden of beide leden gezamenlijk.
 
 7. Voor de toepassing van dit artikel worden verschoven uren en gedeelten van uren berekend over een periode van vier weken, opgeteld en naar boven afgerond op hele uren.
 
-8. De vergoeding kan niet samenvallen met de vergoeding voor overwerk, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01). De vergoeding wordt ook niet toegekend aan de ambtenaar die als gevolg van arbeidsongeschiktheid feitelijk niet werkzaam is volgens het rooster waarin de wijziging plaatsvindt.
+8. De vergoeding kan niet samenvallen met de vergoeding voor overwerk, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01). De vergoeding wordt ook niet toegekend aan de ambtenaar die als gevolg van arbeidsongeschiktheid feitelijk niet werkzaam is volgens het rooster waarin de wijziging plaatsvindt.
 
 9. De vergoeding wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin de verschuiving heeft plaatsgevonden.
 
@@ -891,13 +887,13 @@ Onze Minister stelt regels vast terzake van een maaltijdvergoeding bij overwerk,
 
 ##### Artikel 29
 
-1. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit en die daadwerkelijk wordt ingezet als lid van een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) wordt een vergoeding toegekend.
+1. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit en die daadwerkelijk wordt ingezet als lid van een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) wordt een vergoeding toegekend.
 
-2. Het tijdvak gedurende hetwelk de ambtenaar is ingezet, blijft voor de toepassing van de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01), en [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01), buiten beschouwing.
+2. Het tijdvak gedurende hetwelk de ambtenaar is ingezet, blijft voor de toepassing van de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2020-01-01&g=2020-01-01), en [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01), buiten beschouwing.
 
 3. De vergoeding bedraagt € 31,87 per kalenderdag.
 
-4. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit en geen lid is van de mobiele eenheid wordt de vergoeding zoals bedoeld in het derde lid toegekend indien hij daadwerkelijk wordt ingezet ten behoeve van de mobiele eenheid en:
+4. Aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 12 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit en geen lid is van de mobiele eenheid wordt de vergoeding zoals bedoeld in het derde lid toegekend indien hij daadwerkelijk wordt ingezet ten behoeve van de mobiele eenheid en:
 
 - a. de mobiele eenheid is opgeroepen in het kader van een grootschalig of bijzonder optreden, en
 
@@ -907,11 +903,9 @@ Onze Minister stelt regels vast terzake van een maaltijdvergoeding bij overwerk,
 
 ##### Artikel 29a
 
-1. Van de som van de brutobedragen die de ambtenaar in het voorafgaande kalenderjaar aan toelagen en vergoedingen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2019-07-01&g=2019-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=29&z=2019-07-01&g=2019-07-01) in totaal heeft genoten wordt een twaalfde deel in de maand februari van het actuele kalenderjaar uitgekeerd, tenzij die som in dat voorafgaande kalenderjaar lager is dan € 720.
+1. Van de som van de brutobedragen die de ambtenaar in het voorafgaande kalenderjaar aan toelagen en vergoedingen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2020-01-01&g=2020-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2020-01-01&g=2020-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=29&z=2020-01-01&g=2020-01-01) in totaal heeft genoten wordt een twaalfde deel in de maand februari van het actuele kalenderjaar uitgekeerd, tenzij die som in dat voorafgaande kalenderjaar lager is dan € 720.
 
 2. Ingeval van een aanstelling van minder dan 36 uren per week geldt in plaats van het drempelbedrag, bedoeld in het eerste lid, een drempelbedrag naar rato van de betrekkingsomvang.
-
-3. Het bedrag, genoemd in het eerste lid, wordt jaarlijks overeenkomstig een algemene salarismaatregel in de sector Politie aangepast.
 
 ##### Artikel 29b
 
@@ -959,7 +953,7 @@ Vervallen
 
 1. Aan de ambtenaar die op grond van [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62) voor een periode van tenminste twee weken wordt gedetacheerd, wordt, indien hij dagelijks heen en weer reist, een vergoeding toegekend voor de tijd waarmee de totale reistijd per dag 90 minuten overschrijdt.
 
-2. De vergoeding, bedoeld in het eerste lid, is gelijk aan de vergoeding, bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01), die de ambtenaar bij overwerk zou ontvangen. De vergoeding voor delen van een uur wordt vastgesteld op een evenredig deel van de uurvergoeding.
+2. De vergoeding, bedoeld in het eerste lid, is gelijk aan de vergoeding, bedoeld in [artikel 27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01), die de ambtenaar bij overwerk zou ontvangen. De vergoeding voor delen van een uur wordt vastgesteld op een evenredig deel van de uurvergoeding.
 
 3. Het bevoegd gezag kan in afwijking van het eerste en tweede lid beslissen in individuele gevallen waarin dit artikel naar zijn oordeel niet of niet in redelijkheid voorziet.
 
@@ -981,7 +975,7 @@ Vervallen
 
 ##### Artikel 32
 
-De ambtenaar die als militair in werkelijke dienst is, behoudt over de tijd van deze dienst het genot van de aan zijn ambt verbonden bezoldiging slechts voor zover hem bij of krachtens de [artikelen 33 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2019-07-01&g=2019-07-01) daarop aanspraak is verleend. Voor zover die werkelijke dienst wordt vervuld in de aan hem toegekende vakantie, behoudt hij in ieder geval het genot van de volle aan zijn ambt verbonden bezoldiging.
+De ambtenaar die als militair in werkelijke dienst is, behoudt over de tijd van deze dienst het genot van de aan zijn ambt verbonden bezoldiging slechts voor zover hem bij of krachtens de [artikelen 33 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2020-01-01&g=2020-01-01) daarop aanspraak is verleend. Voor zover die werkelijke dienst wordt vervuld in de aan hem toegekende vakantie, behoudt hij in ieder geval het genot van de volle aan zijn ambt verbonden bezoldiging.
 
 ##### Artikel 33
 
@@ -993,15 +987,13 @@ De ambtenaar die als militair in werkelijke dienst is, behoudt over de tijd van 
 
 4. Voor de toepassing van het eerste lid wordt de militaire beloning verminderd met een eventuele aftrek wegens het genot van voeding en huisvesting.
 
-5. De regels die op basis van [artikel 18, vijfde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=18) zijn vastgesteld met betrekking tot hetgeen onder militaire beloning wordt verstaan, zijn van overeenkomstige toepassing.
-
 ##### Artikel 34
 
-1. [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2019-07-01&g=2019-07-01) is eerst van toepassing, nadat de ambtenaar als militair de opleiding en oefening heeft volbracht.
+1. [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2020-01-01&g=2020-01-01) is eerst van toepassing, nadat de ambtenaar als militair de opleiding en oefening heeft volbracht.
 
 2. De ambtenaar die ingevolge een wettelijke verplichting voor de opleiding en oefening als militair in werkelijke dienst is, geniet gedurende deze opleiding en oefening de aan zijn ambt verbonden bezoldiging tot een bedrag dat gelijk is aan het op hem te verhalen gedeelte van de pensioenbijdrage.
 
-3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van ambtenaren op wie bij koninklijk besluit de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2019-07-01&g=2019-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing zijn verklaard.
+3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van ambtenaren op wie bij koninklijk besluit de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2020-01-01&g=2020-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing zijn verklaard.
 
 4. Indien de ambtenaar bij opkomst in militaire dienst voldoet aan de voorwaarde, gesteld in het eerste lid, of indien ingevolge het derde lid bij opkomst in militaire dienst deze voorwaarde niet voor hem geldt, geniet hij, in afwijking van artikel 33, gedurende twee weken na zijn opkomst de volle aan zijn ambt verbonden bezoldiging.
 
@@ -1009,11 +1001,11 @@ De ambtenaar die als militair in werkelijke dienst is, behoudt over de tijd van 
 
 1. De ambtenaar die voor een herhalingsoefening als militair in werkelijke dienst is, geniet gedurende twee weken na zijn opkomst in militaire dienst de volle aan zijn ambt verbonden bezoldiging. Daarna wordt de militaire beloning in mindering gebracht op de aan zijn ambt verbonden bezoldiging.
 
-[Artikel 33, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2019-07-01&g=2019-07-01) is van toepassing.
+[Artikel 33, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=33&z=2020-01-01&g=2020-01-01) is van toepassing.
 
 2. Voor zover nodig, bepaalt Onze Minister van Defensie welke dienst als herhalingsoefening wordt beschouwd.
 
-3. Voor de toepassing of voortgezette toepassing van het eerste lid worden, met inachtneming van hetgeen daaromtrent is bepaald in de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) of in [artikel 12l van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l) en onverminderd [artikel 85 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=85) met herhalingsoefeningen gelijk gesteld:
+3. Voor de toepassing of voortgezette toepassing van het eerste lid worden, met inachtneming van hetgeen daaromtrent is bepaald in de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) of in [artikel 12l van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l) en onverminderd [artikel 85 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=85) met herhalingsoefeningen gelijk gesteld:
 
 - a. het in dienst komen dan wel het in aansluiting aan een herhalingsoefening langer in dienst blijven voor een onderzoek omtrent een strafbaar feit of een krijgstuchtelijk vergrijp waarvan de militair verdacht of beklaagd wordt;
 
@@ -1031,11 +1023,11 @@ De ambtenaar die als militair in werkelijke dienst is, behoudt over de tijd van 
 
 ##### Artikel 36
 
-Indien de ambtenaar als militair in werkelijke dienst zijnde overlijdt, wordt de uitkering, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2019-07-01&g=2019-07-01), verminderd met het bedrag van de overeenkomstige uitkering die uit hoofde van de militaire dienst ter zake van dit overlijden wordt gedaan.
+Indien de ambtenaar als militair in werkelijke dienst zijnde overlijdt, wordt de uitkering, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2020-01-01&g=2020-01-01), verminderd met het bedrag van de overeenkomstige uitkering die uit hoofde van de militaire dienst ter zake van dit overlijden wordt gedaan.
 
 ##### Artikel 37
 
-De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing ten aanzien van:
+De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=32&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing ten aanzien van:
 
 - a. de ambtenaar die is tewerkgesteld in de zin van [artikel 9 van de Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=9);
 
@@ -1117,7 +1109,7 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 - b. de som van zijn bezoldiging na herplaatsing, een uit zijn arbeidsongeschiktheid voortvloeiend recht op een WIA-uitkering, en een arbeidsongeschiktheidspensioen.
 
-10. De ambtenaar waarvan de mate van arbeidsongeschiktheid is vastgesteld op minder dan 35% en die als gevolg van de arbeidsongeschiktheid inkomensverlies heeft, maakt aanspraak op een compensatie van dit inkomensverlies. Onder inkomensverlies wordt verstaan het verschil tussen de oorspronkelijke bezoldiging van de ambtenaar, waarbij ten aanzien van de onregelmatigheidstoeslag en consignatie wordt uitgegaan van hetgeen gemiddeld genoten is in de twaalf maanden voor de ziekte, en de bezoldiging nadat de arbeidsongeschiktheid is vastgesteld op minder dan 35%, waarbij verhogingen van de bezoldiging wegens algemene salarismaatregelen of een verhoging van het salaris als bedoeld in artikel 9 buiten beschouwing worden gelaten.
+10. De ambtenaar waarvan de mate van arbeidsongeschiktheid is vastgesteld op minder dan 35% en die als gevolg van de arbeidsongeschiktheid inkomensverlies heeft, maakt aanspraak op een compensatie van dit inkomensverlies. Onder inkomensverlies wordt verstaan het verschil tussen de oorspronkelijke bezoldiging van de ambtenaar, waarbij ten aanzien van de onregelmatigheidstoeslag en consignatie wordt uitgegaan van hetgeen gemiddeld genoten is in de twaalf maanden voor de ziekte, en de bezoldiging nadat de arbeidsongeschiktheid is vastgesteld op minder dan 35%, waarbij verhogingen van de bezoldiging wegens algemene salarismaatregelen of een verhoging van het salaris als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01) of [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2020-01-01&g=2020-01-01) buiten beschouwing worden gelaten.
 
 11. De compensatie, bedoeld in het tiende lid, is een toelage ter hoogte van 70% van het inkomensverlies voor de duur van vijf jaar, gerekend vanaf de dag waarop de mate van arbeidsongeschiktheid van de ambtenaar is vastgesteld op minder dan 35%, maar niet voordat 104 weken na de eerste ziektedag zijn verstreken. Bij samenloop van de compensatie, bedoeld in het tiende lid, met een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022), wordt de compensatie verminderd met het bedrag van de uitkering krachtens de Werkloosheidswet of het Besluit bovenwettelijke werkloosheidsuitkering politie.
 
@@ -1135,7 +1127,7 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 ##### Artikel 38b
 
-1. De ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten, heeft, indien de ziekte is veroorzaakt door een dienstongeval of indien het een beroepsziekte betreft, recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), is verstreken.
+1. De ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten, heeft, indien de ziekte is veroorzaakt door een dienstongeval of indien het een beroepsziekte betreft, recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), is verstreken.
 
 2. De uitkering voor de ambtenaar, bedoeld in het eerste lid, die volledig en duurzaam arbeidsongeschikt is als bedoeld in [artikel 4, eerste lid, van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4), wordt aangevuld tot 95% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, waarop aanspraak zou bestaan op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot werken.
 
@@ -1153,7 +1145,7 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 5. Onder het oude inkomen, bedoeld in het vierde lid, wordt verstaan de som van de laatstgenoten bezoldiging, vakantie-uitkering en eindejaarsuitkering voor de herplaatsing. Onder het nieuwe inkomen, bedoeld in het vierde lid, wordt verstaan de som van de bezoldiging, de vakantie-uitkering, de eindejaarsuitkering, de WIA-uitkering en het arbeidsongeschiktheidspensioen na de herplaatsing.
 
-6. De in het eerste lid bedoelde aanvullende uitkering voor de ambtenaar die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in [artikel 38, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01).
+6. De in het eerste lid bedoelde aanvullende uitkering voor de ambtenaar die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in [artikel 38, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01).
 
 7. De aanvullende uitkering eindigt in ieder geval:
 
@@ -1209,17 +1201,17 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 3. De gewezen ambtenaar van wie de bevalling niet wordt verwacht binnen vier maanden na de datum van ingang van haar ontslag, maar die niettemin binnen die termijn bevalt, ontvangt haar laatstelijk genoten bezoldiging gedurende de periode die aanvangt op de datum van bevalling en eindigt op de 70e dag na de datum waarop de bevalling heeft plaatsgevonden.
 
-4. Voor zolang de gewezen ambtenaar na beëindiging van de haar ingevolge het eerste of derde lid toekomende uitkering nog wegens ziekte ongeschikt is tot werken of binnen een maand na deze beëindiging ongeschikt wordt tot werken, heeft zij gedurende een tijdvak van 52 weken recht op de doorbetaling van de bezoldiging overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2019-07-01&g=2019-07-01). De termijn van 52 weken loopt vanaf de eerste dag na de bevalling.
+4. Voor zolang de gewezen ambtenaar na beëindiging van de haar ingevolge het eerste of derde lid toekomende uitkering nog wegens ziekte ongeschikt is tot werken of binnen een maand na deze beëindiging ongeschikt wordt tot werken, heeft zij gedurende een tijdvak van 52 weken recht op de doorbetaling van de bezoldiging overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2020-01-01&g=2020-01-01). De termijn van 52 weken loopt vanaf de eerste dag na de bevalling.
 
 5. Ongeschikt tot werken, in de zin van het vierde lid is de gewezen ambtenaar die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebreken geheel of gedeeltelijk niet in staat is om een naar aard en omvang soortgelijke betrekking als zij vervulde, te vervullen.
 
-6. [Artikel 55, vijfde en zesde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55) en [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=41&z=2019-07-01&g=2019-07-01), van dit besluit zijn van overeenkomstige toepassing.
+6. [Artikel 55, vijfde en zesde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55) en [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=41&z=2020-01-01&g=2020-01-01), van dit besluit zijn van overeenkomstige toepassing.
 
 7. Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de voorgaande leden, wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie.
 
 ##### Artikel 39b
 
-1. De gewezen ambtenaar die wegens ziekte, veroorzaakt door een dienstongeval of een beroepsziekte, ongeschikt is zijn arbeid te verrichten, heeft recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), is verstreken.
+1. De gewezen ambtenaar die wegens ziekte, veroorzaakt door een dienstongeval of een beroepsziekte, ongeschikt is zijn arbeid te verrichten, heeft recht op een aanvullende uitkering nadat het tijdvak van 104 weken, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), is verstreken.
 
 2. De uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die volledig en duurzaam ongeschikt is als bedoeld in [artikel 4, eerste lid, van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4), wordt aangevuld tot 95% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, waarop aanspraak zou bestaan op de dag voor zijn ontslag indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot het verrichten van arbeid.
 
@@ -1237,7 +1229,7 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 5. Onder het oude inkomen, bedoeld in het vierde lid, wordt verstaan de laatstgenoten bezoldiging, de vakantie-uitkering en de eindejaarsuitkering. Onder het nieuwe inkomen, bedoeld in het vierde lid, wordt verstaan de nieuwe structurele bruto inkomsten uit arbeid, de WIA-uitkering en het arbeidsongeschiktheidspensioen.
 
-6. De aanvullende uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in [artikel 39, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2019-07-01&g=2019-07-01).
+6. De aanvullende uitkering voor de gewezen ambtenaar, bedoeld in het eerste lid, die minder dan 35% arbeidsongeschikt is, bedraagt 70% van het inkomensverlies, bedoeld in [artikel 39, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2020-01-01&g=2020-01-01).
 
 7. De aanvullende uitkering eindigt in ieder geval:
 
@@ -1245,7 +1237,7 @@ De [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&
 
 - b. met ingang van de dag waarop de gewezen ambtenaar de AOW-gerechtigde leeftijd heeft bereikt; of
 
-- d. met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden.
+- c. met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden.
 
 8. Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in het tweede en het derde lid, wordt herberekend overeenkomstig een algemene salarismaatregel in de sector Politie.
 
@@ -1343,7 +1335,7 @@ Vervallen
 
 6. Indien de ambtenaar of de gewezen ambtenaar recht heeft op een WIA-uitkering, is het verplichtingen- en sanctieregime van de WIA van overeenkomstige toepassing op zijn recht krachtens dit hoofdstuk op grond van dezelfde dienstbetrekking.
 
-7. Indien als gevolg van handelingen of het nalaten van handelingen door de ambtenaar of de gewezen ambtenaar de WIA-uitkering vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk wordt geweigerd, wordt de WIA-uitkering voor het vaststellen van zijn aanspraak op doorbetaling van de bezoldiging zoals bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), steeds geacht onverminderd te zijn genoten.
+7. Indien als gevolg van handelingen of het nalaten van handelingen door de ambtenaar of de gewezen ambtenaar de WIA-uitkering vermindering ondergaat, dan wel de aanspraak daarop geheel of gedeeltelijk wordt geweigerd, wordt de WIA-uitkering voor het vaststellen van zijn aanspraak op doorbetaling van de bezoldiging zoals bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), steeds geacht onverminderd te zijn genoten.
 
 ##### Artikel 45
 
@@ -1371,7 +1363,7 @@ Vervallen
 
 ##### Artikel 45c
 
-1. De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of de doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WIA-uitkering.
+1. De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of de doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WIA-uitkering.
 
 2. Het eerste lid vindt geen toepassing indien de ambtenaar en de gewezen ambtenaar aanspraak op een ZW-uitkering of een WIA-uitkering hebben wegens ongeschiktheid tot werken voor een betrekking die de ambtenaar of de gewezen ambtenaar heeft vervuld naast zijn betrekking ter zake waarvan de ambtenaar of de gewezen ambtenaar op een uitkering krachtens dit hoofdstuk aanspraak heeft, voor zover de ZW-uitkering of de WIA-uitkering naar de inkomsten uit die andere betrekking wordt berekend of geacht kan worden te zijn berekend.
 
@@ -1387,7 +1379,7 @@ Vervallen
 
 1. De bezoldiging van de ambtenaar wordt niet langer uitbetaald dan tot en met de dag van het overlijden. [Artikel 26, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=26), is van overeenkomstige toepassing
 
-2. Met inachtneming van het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe of weduwnaar van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de eerste volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging welke de ambtenaar op de dag van het overlijden genoot of, indien hij op die dag aanspraak maakt op een ZW-uitkering of een WIA-uitkering en een bovenwettelijke ziekte-uitkering of een bovenwettelijke arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&z=2019-07-01&g=2019-07-01), zou hebben genoten indien hij op die dag arbeidsgeschikt zou zijn geweest. De uitkering wordt vermeerderd met een bedrag gelijk aan driemaal dat van de vakantieuitkering over een maand, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&z=2019-07-01&g=2019-07-01), naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), of van de aflopende toelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2019-07-01&g=2019-07-01) of van een toelage op grond van artikel IV van het koninklijk besluit van 4 september 1968 tot wijziging van het Bezoldigingsreglement politie 1958 (**Stb.** 477) wordt het gedeelte van de in de eerste volzin bedoelde uitkering dat betrekking heeft op deze toelagen, gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.
+2. Met inachtneming van het vijfde lid wordt zo spoedig mogelijk na het overlijden aan de weduwe of weduwnaar van wie de overleden ambtenaar niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Als maatstaf bij de berekening van het in de eerste volzin bedoelde bedrag geldt, behoudens het hierna bepaalde, de bezoldiging welke de ambtenaar op de dag van het overlijden genoot of, indien hij op die dag aanspraak maakt op een ZW-uitkering of een WIA-uitkering en een bovenwettelijke ziekte-uitkering of een bovenwettelijke arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&z=2020-01-01&g=2020-01-01), zou hebben genoten indien hij op die dag arbeidsgeschikt zou zijn geweest. De uitkering wordt vermeerderd met een bedrag gelijk aan driemaal dat van de vakantieuitkering over een maand, berekend op de voet van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&z=2020-01-01&g=2020-01-01), naar de bezoldiging die de ambtenaar in de maand van het overlijden zou hebben genoten. Indien de ambtenaar in het genot was van de operationele toelage, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01), of van de aflopende toelage, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01) of van een toelage op grond van artikel IV van het koninklijk besluit van 4 september 1968 tot wijziging van het Bezoldigingsreglement politie 1958 (**Stb.** 477) wordt het gedeelte van de in de eerste volzin bedoelde uitkering dat betrekking heeft op deze toelagen, gesteld op het bedrag dat de overleden ambtenaar in de drie kalendermaanden voorafgaand aan de dag van het overlijden aan zodanige toelagen is toegekend.
 
 3. Bij ontstentenis van een weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, geschiedt de uitkering, bedoeld in het tweede lid, ten behoeve van de minderjarige kinderen. Onder kinderen in de zin van dit artikel worden mede verstaan natuurlijke kinderen en kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.
 
@@ -1401,7 +1393,7 @@ Vervallen
 
 ##### Artikel 46a
 
-Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2019-07-01&g=2019-07-01) in het genot was van doorbetaling van zijn laatstelijk genoten bezoldiging, wordt aan de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2019-07-01&g=2019-07-01) bedoelde personen en met overeenkomstige toepassing van dat artikel een bedrag uitgekeerd, gelijk aan de bezoldiging welke de gewezen ambtenaar op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden. Op deze uitkering worden in mindering gebracht het bedrag van de uitkering op grond van [artikel 35 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) of op grond van [artikel 74 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=74) en naar aard en strekking daarmee overeenkomende uitkeringen.
+Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=39&z=2020-01-01&g=2020-01-01) in het genot was van doorbetaling van zijn laatstelijk genoten bezoldiging, wordt aan de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2020-01-01&g=2020-01-01) bedoelde personen en met overeenkomstige toepassing van dat artikel een bedrag uitgekeerd, gelijk aan de bezoldiging welke de gewezen ambtenaar op de dag van zijn overlijden genoot, berekend over een tijdvak van drie maanden. Op deze uitkering worden in mindering gebracht het bedrag van de uitkering op grond van [artikel 35 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) of op grond van [artikel 74 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=74) en naar aard en strekking daarmee overeenkomende uitkeringen.
 
 ##### Artikel 46b
 
@@ -1415,7 +1407,7 @@ Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op
 
 2. De uitkering eindigt met ingang van de dag waarop de overledene de AOW-gerechtigde leeftijd zou hebben bereikt, dan wel, indien de partner, bedoeld in artikel 7.1 van het Pensioenreglement van de Stichting Pensioenfonds ABP, aan wie een pensioen werd toegekend, hertrouwt, met ingang van de maand volgende op de datum van het hertrouwen.
 
-3. Het eerste lid is van overeenkomstige toepassing op de gewezen ambtenaar ten aanzien van wie [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2019-07-01&g=2019-07-01), toepassing heeft gevonden, indien zijn overlijden het rechtstreeks gevolg is van de arbeidsongeschiktheid, bedoeld in dat artikel.
+3. Het eerste lid is van overeenkomstige toepassing op de gewezen ambtenaar ten aanzien van wie [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=10&artikel=38&z=2020-01-01&g=2020-01-01), toepassing heeft gevonden, indien zijn overlijden het rechtstreeks gevolg is van de arbeidsongeschiktheid, bedoeld in dat artikel.
 
 ##### Artikel 46c
 
@@ -1425,9 +1417,9 @@ Na het overlijden van de gewezen ambtenaar, die op de dag van zijn overlijden op
 
 ##### Artikel 47
 
-1. Bij vermissing van de ambtenaar zijn, behoudens het tweede lid, de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing. De ambtenaar wordt daarbij geacht te zijn overleden op een door het bevoegd gezag te bepalen dag.
+1. Bij vermissing van de ambtenaar zijn, behoudens het tweede lid, de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing. De ambtenaar wordt daarbij geacht te zijn overleden op een door het bevoegd gezag te bepalen dag.
 
-2. Het [tweede lid van artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2019-07-01&g=2019-07-01) is niet van toepassing indien gegronde vermoedens bestaan, dat de vermissing het gevolg is van ongeoorloofde afwezigheid.
+2. Het [tweede lid van artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=11&artikel=46&z=2020-01-01&g=2020-01-01) is niet van toepassing indien gegronde vermoedens bestaan, dat de vermissing het gevolg is van ongeoorloofde afwezigheid.
 
 3. Indien blijkt, dat de als vermist beschouwde ambtenaar in leven is, kan ter beoordeling van het bevoegd gezag de bezoldiging worden uitbetaald, tenzij gegronde vermoedens bestaan, dat de vermissing het gevolg was van ongeoorloofde afwezigheid.
 
@@ -1443,11 +1435,11 @@ Voor gevallen, waarin dit besluit niet of niet naar billijkheid voorziet, wordt 
 
 ##### Artikel 48a
 
-Voor aanvragen om de werkzaamheden en functie met elkaar in overeenstemming te brengen, verzonden uiterlijk 23 mei 2011, waarop nog geen onherroepelijke beslissing is genomen, blijven [artikel 1, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=1&z=2019-07-01&g=2019-07-01). en [artikel 6, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.
+Voor aanvragen om de werkzaamheden en functie met elkaar in overeenstemming te brengen, verzonden uiterlijk 23 mei 2011, waarop nog geen onherroepelijke beslissing is genomen, blijven [artikel 1, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01). en [artikel 6, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.
 
 ##### Artikel 48b
 
-Voor aanvragen over de heroverweging van de waardering van de functie waarop nog geen onherroepelijke beslissing is genomen, blijven [artikel 1, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=1&z=2019-07-01&g=2019-07-01). en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=7&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.
+Voor aanvragen over de heroverweging van de waardering van de functie waarop nog geen onherroepelijke beslissing is genomen, blijven [artikel 1, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01). en [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie, zoals die golden op de dag voor inwerkingtreding van dit artikel, van toepassing.
 
 ##### Artikel 48c
 
@@ -1475,11 +1467,11 @@ Het salaris dat aan de ambtenaar wordt toegekend is gelijk aan dan wel gelegen o
 
 1. Voor degene die op 30 juni 2007 met toepassing van [artikel 4a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=4a) is aangesteld in tijdelijke dienst, blijft artikel 6a, zoals luidend op 30 juni 2007, van toepassing tot en met het tijdstip waarop hij hernieuwd in vaste dienst wordt aangesteld.
 
-2. Voor degene die op 30 juni 2007 vanwege een verplaatsing aanspraak heeft op een vergoeding als bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=30a&z=2019-07-01&g=2019-07-01), blijft dat artikel, zoals luidend op 30 juni 2007, van toepassing voor de duur van die verplaatsing.
+2. Voor degene die op 30 juni 2007 vanwege een verplaatsing aanspraak heeft op een vergoeding als bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=30a&z=2020-01-01&g=2020-01-01), blijft dat artikel, zoals luidend op 30 juni 2007, van toepassing voor de duur van die verplaatsing.
 
-3. Voor degene die op 30 juni 2007 is gedetacheerd en een functie uitoefent waaraan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01) een hogere salarisschaal is verbonden, blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=4&z=2019-07-01&g=2019-07-01), 6 en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17b&z=2019-07-01&g=2019-07-01), zoals luidend op 30 juni 2007, van toepassing voor de duur van die detachering.
+3. Voor degene die op 30 juni 2007 is gedetacheerd en een functie uitoefent waaraan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) een hogere salarisschaal is verbonden, blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), 6 en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=17b&z=2020-01-01&g=2020-01-01), zoals luidend op 30 juni 2007, van toepassing voor de duur van die detachering.
 
-4. Degene die in de periode van 1 juli 2007 tot 1 januari 2008 op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=4a&z=2019-07-01&g=2019-07-01), zoals dat gold op 30 juni 2007, tijdelijk is aangesteld of op grond van artikel 62 is gedetacheerd ter vervulling van een hoger gewaardeerde functie dan de salarisschaal waarin hij bezoldigd is en deze functie langer dan twee jaar na aanstellen of detachering onafgebroken heeft bekleed, heeft recht op behoud van die hogere salarisschaal, bij beëindiging van de tijdelijke aanstelling of detachering.
+4. Degene die in de periode van 1 juli 2007 tot 1 januari 2008 op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=4a&z=2020-01-01&g=2020-01-01), zoals dat gold op 30 juni 2007, tijdelijk is aangesteld of op grond van artikel 62 is gedetacheerd ter vervulling van een hoger gewaardeerde functie dan de salarisschaal waarin hij bezoldigd is en deze functie langer dan twee jaar na aanstellen of detachering onafgebroken heeft bekleed, heeft recht op behoud van die hogere salarisschaal, bij beëindiging van de tijdelijke aanstelling of detachering.
 
 ##### Artikel 49c
 
@@ -1487,17 +1479,17 @@ Vervallen
 
 ##### Artikel 49d
 
-De ambtenaar die opleidingsniveau 4 succesvol heeft afgerond, wordt uiterlijk per 1 augustus 2011 aangesteld in een functie waaraan ten minste salarisschaal 7 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01) van dit besluit is verbonden.
+De ambtenaar die opleidingsniveau 4 succesvol heeft afgerond, wordt uiterlijk per 1 augustus 2011 aangesteld in een functie waaraan ten minste salarisschaal 7 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01) van dit besluit is verbonden.
 
 ##### Artikel 49e
 
-Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2019-07-01&g=2019-07-01), zoals deze luidde voor die datum, wordt het salaris op 1 maart 2010 vastgesteld in de schaal met hetzelfde nummer van de bij dit besluit behorende bijlage I als de schaal uit bijlage I die voor 1 maart 2010 van toepassing was, in de periodiek met het bedrag dat overeenkomt met het oude salaris, dan wel bij gebreke daarvan, met het salarisbedrag dat onmiddellijk boven het bedrag van het oude salaris ligt.
+Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I&z=2020-01-01&g=2020-01-01), zoals deze luidde voor die datum, wordt het salaris op 1 maart 2010 vastgesteld in de schaal met hetzelfde nummer van de bij dit besluit behorende bijlage I als de schaal uit bijlage I die voor 1 maart 2010 van toepassing was, in de periodiek met het bedrag dat overeenkomt met het oude salaris, dan wel bij gebreke daarvan, met het salarisbedrag dat onmiddellijk boven het bedrag van het oude salaris ligt.
 
 ##### Artikel 49f
 
-1. Voor de ambtenaar ontstaat aanspraak op de salarisschaal, toelagen, vergoedingen en uitkeringen behorende bij de functie die hem naar aanleiding van de invoering van het LFNP is toegekend, vanaf het moment van het bekendmaken van het besluit genomen op grond van de regels gesteld op grond van [artikel 6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), zoals die luidde op de dag voor de inwerkingtreding van dit artikel, strekkende tot toekenning van een functie die is opgenomen in het LFNP aan de ambtenaar. Deze aanspraak werkt terug tot en met het moment waarop de ambtenaar deze functie is toegekend, doch uiterlijk tot en met 1 januari 2010.
+1. Voor de ambtenaar ontstaat aanspraak op de salarisschaal, toelagen, vergoedingen en uitkeringen behorende bij de functie die hem naar aanleiding van de invoering van het LFNP is toegekend, vanaf het moment van het bekendmaken van het besluit genomen op grond van de regels gesteld op grond van [artikel 6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), zoals die luidde op de dag voor de inwerkingtreding van dit artikel, strekkende tot toekenning van een functie die is opgenomen in het LFNP aan de ambtenaar. Deze aanspraak werkt terug tot en met het moment waarop de ambtenaar deze functie is toegekend, doch uiterlijk tot en met 1 januari 2010.
 
-2. Indien aan de functie, bedoeld in het eerste lid, een lagere salarisschaal is verbonden dan voor de ambtenaar gold voor toekenning van deze functie, behoudt hij zijn oude salarisschaal en salarisnummer, inclusief de verhoging tot naasthogere bedragen in deze schaal, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2019-07-01&g=2019-07-01).
+2. Indien aan de functie, bedoeld in het eerste lid, een lagere salarisschaal is verbonden dan voor de ambtenaar gold voor toekenning van deze functie, behoudt hij zijn oude salarisschaal en salarisnummer, inclusief de verhoging tot naasthogere bedragen in deze schaal, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01).
 
 3. Indien aan de functie, waarnaar de ambtenaar is overgegaan naar aanleiding van de invoering van het LFNP, geen recht is verbonden op een toelage, vergoeding of uitkering die verbonden was aan de functie van voor de invoering van het LFNP, heeft de ambtenaar aanspraak op de toelage, vergoeding en uitkering behorende bij de functie die hij vervulde voor de invoering van het LFNP tot op de dag dat het samenstel van werkzaamheden wijzigt naar aanleiding van de plaatsing in de in het eerste lid bedoelde functie dan wel naar aanleiding van de aanwijzing als herplaatsingskandidaat in het kader van de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) als bedoeld in [artikel 55ia van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ia).
 
@@ -1505,23 +1497,25 @@ Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van [bi
 
 ##### Artikel 50
 
-1. De [artikelen 6, eerste tot en met vierde lid en zesde tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), en [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=7&z=2019-07-01&g=2019-07-01), [14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2019-07-01&g=2019-07-01), [27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2019-07-01&g=2019-07-01) zijn niet van toepassing op de aspirant met dien verstande dat de artikelen [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), 18, [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27a&z=2019-07-01&g=2019-07-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2019-07-01&g=2019-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=28&z=2019-07-01&g=2019-07-01) wel van toepassing zijn op de aspirant gedurende de beroepspraktijkvorming.
+1. De [artikelen 6, eerste tot en met vierde lid en zesde tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), en [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=7&z=2020-01-01&g=2020-01-01), [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2020-01-01&g=2020-01-01), [27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2020-01-01&g=2020-01-01) zijn niet van toepassing op de aspirant met dien verstande dat de artikelen 27, [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27a&z=2020-01-01&g=2020-01-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2020-01-01&g=2020-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=28&z=2020-01-01&g=2020-01-01) wel van toepassing zijn op de aspirant gedurende de beroepspraktijkvorming.
 
 2. Op de ambtenaar in opleiding zijn niet van toepassing:
 
-- a. de [artikelen 9 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2019-07-01&g=2019-07-01), voor zover de betrokkene direct voorafgaand aan de aanstelling als ambtenaar in opleiding geen ambtenaar in de zin van dit besluit was;
+- a. de [artikelen 9 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9&z=2020-01-01&g=2020-01-01), voor zover de betrokkene direct voorafgaand aan de aanstelling als ambtenaar in opleiding geen ambtenaar in de zin van dit besluit was;
 
-- b. [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2019-07-01&g=2019-07-01), voor zover de betrokkene voorafgaand aan de aanstelling als ambtenaar in opleiding geen aanspraak had op de in dit artikel bedoelde toelage;
+- b. [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=3b&artikel=12c&z=2020-01-01&g=2020-01-01), voor zover de betrokkene voorafgaand aan de aanstelling als ambtenaar in opleiding geen aanspraak had op de in dit artikel bedoelde toelage;
 
-- c. de [artikelen 6, eerste tot en met vierde en zesde tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2019-07-01&g=2019-07-01), [27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2019-07-01&g=2019-07-01).
+- c. de [artikelen 6, eerste tot en met vierde en zesde tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01), [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=20&z=2020-01-01&g=2020-01-01), [27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2020-01-01&g=2020-01-01).
 
-3. In afwijking van het tweede lid, onderdeel c, zijn de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27a&z=2019-07-01&g=2019-07-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2019-07-01&g=2019-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=28&z=2019-07-01&g=2019-07-01) wel van toepassing op de ambtenaar in opleiding gedurende de beroepspraktijkvorming.
+3. In afwijking van het tweede lid, onderdeel c, zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27a&z=2020-01-01&g=2020-01-01), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27b&z=2020-01-01&g=2020-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=28&z=2020-01-01&g=2020-01-01) wel van toepassing op de ambtenaar in opleiding gedurende de beroepspraktijkvorming.
 
-4. De [artikelen 6 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2019-07-01&g=2019-07-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2019-07-01&g=2019-07-01) zijn niet van toepassing op de vakantiewerker.
+4. De [artikelen 6 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=6&z=2020-01-01&g=2020-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=9&artikel=37a&z=2020-01-01&g=2020-01-01) zijn niet van toepassing op de vakantiewerker.
 
 ##### Artikel 50a
 
-De bijlagen, behorende bij dit besluit, alsmede de bedragen, genoemd in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3a&z=2019-07-01&g=2019-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2019-07-01&g=2019-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=7&artikel=25b&z=2019-07-01&g=2019-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=29&z=2019-07-01&g=2019-07-01) kunnen bij ministeriële regeling worden gewijzigd, met dien verstande dat met uitzondering van de bedragen genoemd in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2019-07-01&g=2019-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2019-07-01&g=2019-07-01) en [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2019-07-01&g=2019-07-01), deze bijlagen en bedragen slechts worden aangepast overeenkomstig een algemene salarismaatregel in de sector politie.
+1. De bijlagen, behorende bij dit besluit, met uitzondering van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2020-01-01&g=2020-01-01), alsmede de bedragen, genoemd in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3a&z=2020-01-01&g=2020-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=4&artikel=14&z=2020-01-01&g=2020-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=5&artikel=18&z=2020-01-01&g=2020-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=6&artikel=23&z=2020-01-01&g=2020-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=7&artikel=25b&z=2020-01-01&g=2020-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=29&z=2020-01-01&g=2020-01-01) en [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=29a&z=2020-01-01&g=2020-01-01) worden bij ministeriële regeling gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie.
+
+2. [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=IV&z=2020-01-01&g=2020-01-01) van dit besluit en het bedrag genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=8&artikel=27&z=2020-01-01&g=2020-01-01) kunnen bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel 50b
 
@@ -1620,7 +1614,9 @@ Schaal 19 € 9.171,05
 
 ## Bijlage I. bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=8&z=2019-07-01&g=2019-07-01), Besluit bezoldiging politie, op basis van 36-urige werkweek per 1 januari 2017 (in euro per maand)
 
-## Bijlage Ia. bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=8&z=2019-07-01&g=2019-07-01), Besluit bezoldiging politie per 1 januari 2017 (in euro per maand)
+## Bijlage I. bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=8&z=2020-01-01&g=2020-01-01), Besluit bezoldiging politie, op basis van 36-urige werkweek per 1 januari 2017 (in euro per maand)
+
+## Bijlage Ia. bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=8&z=2020-01-01&g=2020-01-01), Besluit bezoldiging politie per 1 januari 2017 (in euro per maand)
 
 Schaal 19: 9.780,65
 
@@ -1628,7 +1624,7 @@ Schaal 19: 9.780,65
 
 Vervallen
 
-## Bijlage II. bij het Besluit bezoldiging politie, salaristabellen van aspiranten per 1 januari 2017 (in euro per maand)
+## Bijlage II. bij het Besluit bezoldiging politie, salaristabellen van aspiranten, op basis van een 36-urige werkweek per 1 januari 2017 (in euro per maand)
 
 | schaal 2a | de eerste 6 maanden | 1.504 |
 | --- | --- | --- |
@@ -1653,16 +1649,6 @@ Vervallen
 |   | van 12 tot 24 maanden | 1.685 |
 |   | van 24 tot 36 maanden | 2.025 |
 |   | na 36 maanden | 2.256 |
-
-## Bijlage III. bij [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2019-07-01&g=2019-07-01), Besluit bezoldiging politie per 1 januari 2017 (in euro per maand)
-
-| garantiebedragen (per maand) |   |
-| --- | --- |
-| Opleidingsniveau 2 | 1.831,80 |
-| Opleidingsniveau 3 | 2.054,33 |
-| Opleidingsniveau 4 | 2.256,43 |
-| Opleidingsniveau 5 | 2.516,58 |
-| Opleidingsniveau 6 | 2.575,70 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -1692,18 +1678,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-## Bijlage IV. bij [artikel 3bis a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie
+## Bijlage III. bij [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), Besluit bezoldiging politie op basis van een 36-urige werkweek per 1 januari 2017 (in euro per maand)
+
+| garantiebedragen (per maand) |   |
+| --- | --- |
+| Opleidingsniveau 2 | 1.831,80 |
+| Opleidingsniveau 3 | 2.054,33 |
+| Opleidingsniveau 4 | 2.256,43 |
+| Opleidingsniveau 5 | 2.516,58 |
+| Opleidingsniveau 6 | 2.575,70 |
+
+## Bijlage IV. bij [artikel 3bis a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie op basis van een 38-urige werkweek per 1 januari 2017
 
 Tegemoetkoming gedurende het eerste jaar, bruto per maand
 
-Opleidingsniveau 2, 3 en 4 € 877,35
+Opleidingsniveau 2, 3 en 4 € 882,–
 
-Opleidingsniveau 5 en 6 € 980,97
-
-## Bijlage V. bij [artikel 3bis a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie per 1 januari 2017 (in euro per maand)
-
-| Alle opleidingsniveaus | 1.263,39 |
-| --- | --- |
+Opleidingsniveau 5 en 6 € 986,17
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -1723,7 +1714,7 @@ Voor de toepassing van dit besluit wordt onder de volgende opleidingsniveau vers
 
 ### Hoofdstuk 3. Gratificatie
 
-### Hoofdstuk 3a. Bijdrage levensloopregeling
+### Hoofdstuk 3. Gratificatie
 
 ### Hoofdstuk 3b. Toelage bezwarende functies
 
@@ -1731,7 +1722,7 @@ Voor de toepassing van dit besluit wordt onder de volgende opleidingsniveau vers
 
 ### Hoofdstuk 3d. Compensatie aftopping pensioengevend inkomen
 
-### Hoofdstuk 4. Inconveniëntentoelage
+### Hoofdstuk 3d. Compensatie aftopping pensioengevend inkomen
 
 ### Hoofdstuk 5. Overige toelagen
 
@@ -1751,9 +1742,9 @@ Voor de toepassing van dit besluit wordt onder de volgende opleidingsniveau vers
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-## Bijlage VI. bij [artikel 3bis a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie per 1 januari 2017 (in euro per maand)
+## Bijlage V. bij [artikel 3bis a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie op basis van een 36-urige werkweek per 1 januari 2017 (in euro per maand)
 
-| Alle opleidingsniveaus | 1.431,90 |
+| Alle opleidingsniveaus | 1.263,39 |
 | --- | --- |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
@@ -1784,7 +1775,40 @@ Voor de ambtenaar in opleiding geldt de salarisschaal behorende bij de functie w
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-## Bijlage VII. horende bij [artikel 9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2019-07-01&g=2019-07-01), van het Besluit bezoldiging politie
+## Bijlage VI. bij [artikel 3bis a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=1&artikel=3bis_a&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie op basis van een 36-urige werkweek per 1 januari 2017 (in euro per maand)
+
+| Alle opleidingsniveaus | 1.431,90 |
+| --- | --- |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2a
+
+De [artikelen 2.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1), en [2.3 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) zijn van overeenkomstige toepassing op de ambtenaar.
+
+### Hoofdstuk 2. Salaris
+
+### Hoofdstuk 4. Inconveniëntentoelage
+
+### Hoofdstuk 5. Overige toelagen
+
+### Hoofdstuk 6. Vakantie-uitkering
+
+### Hoofdstuk 7. Uitkeringen
+
+### Hoofdstuk 8. Vergoedingen in verband met extra diensten en verschoven diensten
+
+### Hoofdstuk 8a. Tijdelijke ouderenregeling
+
+### Hoofdstuk 9. Bijzondere situaties
+
+### Hoofdstuk 10. Voorzieningen in verband met ziekte
+
+### Hoofdstuk 11. Overige bepalingen
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
+
+## Bijlage VII. horende bij [artikel 9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&hoofdstuk=2&artikel=9a&z=2020-01-01&g=2020-01-01), van het Besluit bezoldiging politie
 
 **LFNP functie**
 
@@ -1841,6 +1865,10 @@ Medewerker intake & service
 Medewerker observatie
 
 Medewerker tactische opsporing
+
+Operationeel Begeleider A
+
+Operationeel Begeleider B
 
 Operationeel- expert beveiliging
 
