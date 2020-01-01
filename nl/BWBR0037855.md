@@ -4,7 +4,7 @@ identifier: "BWBR0037855"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-04-23"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037855"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 De voorschriften, bedoeld in [artikel 2, eerste lid, van de Wet implementatie Nagoya Protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=2) zijn:
 
-- a. artikel 4, eerste, tweede, derde, vijfde, zesde en achtste lid, artikel 7, eerste en tweede lid, en artikel 8, derde lid, van Verordening (EU) nr. 511/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende voor gebruikers bestemde nalevingsmaatregelen uit het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik in de Unie (PbEU 2014, L 150);
+- a. artikel 4, eerste, tweede, derde, vijfde, zesde en achtste lid, artikel 7, tweede lid, en artikel 8, derde lid, van Verordening (EU) nr. 511/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende voor gebruikers bestemde nalevingsmaatregelen uit het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik in de Unie (PbEU 2014, L 150);
 
-- b. artikel 3, eerste lid, tweede volzin, en artikel 4, vierde lid, van de Uitvoeringsverordening (EU) 2015/1866 van de Commissie van 13 oktober 2015 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) nr. 511/2014 van het Europees Parlement en de Raad wat het register van collecties, het toezicht op de naleving door gebruikers en beste praktijken betreft (PbEU 2015, L 275).
+- b. artikel 3, eerste lid, tweede volzin, artikel 4, vierde lid, en artikel 5, eerste, tweede en derde lid, van de Uitvoeringsverordening (EU) 2015/1866 van de Commissie van 13 oktober 2015 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) nr. 511/2014 van het Europees Parlement en de Raad wat het register van collecties, het toezicht op de naleving door gebruikers en beste praktijken betreft (PbEU 2015, L 275).
 
 ##### Artikel 2
 
