@@ -4,7 +4,7 @@ identifier: "BWBR0037515"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037515"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Voor de jaren 2016 tot en met 2020 zijn in de hiernavolgende regio’s de daarac
 
 - 1. Groningen: Stichting Zorgkantoor Menzis
 
-- 2. Friesland: Zorgkantoor Friesland B.V.
+- 2. Friesland: Zilveren Kruis Zorgkantoor N.V.
 
 - 3. Drenthe: Zilveren Kruis Zorgkantoor N.V.
 
