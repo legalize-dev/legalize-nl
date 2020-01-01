@@ -4,7 +4,7 @@ identifier: "BWBR0004541"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-09-26"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004541"
 soort: "wet"
@@ -56,7 +56,7 @@ authentiek gegeven: in een basisregistratie opgenomen gegeven dat bij wettelijk 
 
 basisregistratie: verzameling gegevens, waarvan bij wet is bepaald dat deze een basisregistratie vormt;
 
-bewaarder: bewaarder als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=6&z=2018-07-28&g=2019-09-26);
+bewaarder: bewaarder als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-01-01);
 
 brondocument:
 
@@ -64,27 +64,27 @@ brondocument:
 
 - 2°. besluit of gewaarmerkt afschrift daarvan;
 
-catalogus basisregistratie topografie: catalogus basisregistratie topografie als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26);
+catalogus basisregistratie topografie: catalogus basisregistratie topografie als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01);
 
 Dienst: Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
 geografisch gegeven:
 
-- 1°. in [artikel 98a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), genoemd geografisch object;
+- 1°. in [artikel 98a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), genoemd geografisch object;
 
-- 2°. identificerend objectnummer als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), of een ander in de catalogus basisregistratie topografie daarmee gelijkgesteld identificerend kenmerk, dat aan het betreffende geografisch object wordt toegekend, of
+- 2°. identificerend objectnummer als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), of een ander in de catalogus basisregistratie topografie daarmee gelijkgesteld identificerend kenmerk, dat aan het betreffende geografisch object wordt toegekend, of
 
-- 3°. ander kenmerk als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), dat in de catalogus basisregistratie topografie wordt genoemd;
+- 3°. ander kenmerk als bedoeld in [artikel 98a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), dat in de catalogus basisregistratie topografie wordt genoemd;
 
-kadastrale grens: op basis van inlichtingen van belanghebbenden en met gebruikmaking van de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), door de Dienst vastgestelde grens tussen percelen;
+kadastrale grens: op basis van inlichtingen van belanghebbenden en met gebruikmaking van de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), door de Dienst vastgestelde grens tussen percelen;
 
 kadastrale grootte: indicatieve omvang van een perceel, berekend door de Dienst;
 
-kadastrale kaart: kadastrale kaart als bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26);
+kadastrale kaart: kadastrale kaart als bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01);
 
 Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-openbare registers: openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16) juncto [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26);
+openbare registers: openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16) juncto [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01);
 
 perceel: kadastraal geïdentificeerd en met kadastrale grenzen begrensd deel van het Nederlands grondgebied;
 
@@ -142,27 +142,27 @@ De Dienst heeft, onverminderd het bepaalde in andere wettelijke voorschriften, a
 
 - k. het bevorderen van de toegankelijkheid en de uitwisselbaarheid van gegevens als bedoeld in de onderdelen a tot en met f;
 
-- l. het vervaardigen en verstrekken van informatie door verwerking van gegevens als bedoeld in de onderdelen a tot en met f, voor zover het vervaardigen en verstrekken van die informatie niet onverenigbaar zijn met de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2018-07-28&g=2019-09-26);
+- l. het vervaardigen en verstrekken van informatie door verwerking van gegevens als bedoeld in de onderdelen a tot en met f, voor zover het vervaardigen en verstrekken van die informatie niet onverenigbaar zijn met de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2020-01-01&g=2020-01-01);
 
 - m. het in opdracht van een of meer van Onze Ministers verrichten van werkzaamheden of het aan een of meer van Onze Ministers verstrekken van informatie over gegevens als bedoeld in de onderdelen a tot en met f ter nakoming van op Nederland rustende internationale verplichtingen uit verdragen en overeenkomsten of daarop gebaseerde besluiten overeenkomstig die verdragen, overeenkomsten of besluiten;
 
 - n. het houden en beheren van de landelijke voorziening, bedoeld in [artikel 26 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=26), alsmede het verlenen van inzage in die voorziening en het verstrekken van de daarin opgenomen gegevens overeenkomstig [artikel 32, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=32);
 
-- o. het houden en beheren van de landelijke voorziening WOZ, bedoeld in [artikel 37aa van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37aa), alsmede het verlenen van inzage in die voorziening en het verstrekken van de daarin opgenomen gegevens overeenkomstig de artikelen 37aa en [40a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), en
+- o. het houden en beheren van de landelijke voorziening WOZ, bedoeld in [artikel 37aa van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37aa), alsmede het verlenen van inzage in die voorziening en het verstrekken van de daarin opgenomen gegevens overeenkomstig de artikelen 37aa en [40b van die wet](onbekend), en
 
 - p. het houden van en verwerken van geografische gegevens in de basisregistratie grootschalige topografie, bedoeld in [artikel 2 van de Wet basisregistratie grootschalige topografie](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&artikel=2), alsmede het verlenen van inzage in die basisregistratie en het verstrekken van de daarin opgenomen gegevens overeenkomstig [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&artikel=22).
 
-2. Bij algemene maatregel van bestuur kunnen aan de Dienst andere taken dan genoemd in het eerste lid worden opgedragen of marktactiviteiten worden toegestaan, voorzover die taken en marktactiviteiten verband houden met de taken, genoemd in het eerste lid, en niet onverenigbaar zijn met de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2018-07-28&g=2019-09-26). Bij algemene maatregel van bestuur kan worden bepaald dat Onze Minister nadere regels kan stellen met betrekking tot de uitvoering van de bij die maatregel opgedragen taken of toegestane marktactiviteiten.
+2. Bij algemene maatregel van bestuur kunnen aan de Dienst andere taken dan genoemd in het eerste lid worden opgedragen of marktactiviteiten worden toegestaan, voorzover die taken en marktactiviteiten verband houden met de taken, genoemd in het eerste lid, en niet onverenigbaar zijn met de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2020-01-01&g=2020-01-01). Bij algemene maatregel van bestuur kan worden bepaald dat Onze Minister nadere regels kan stellen met betrekking tot de uitvoering van de bij die maatregel opgedragen taken of toegestane marktactiviteiten.
 
 ##### Artikel 3a
 
-1. De Dienst verzamelt persoonsgegevens als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2018-07-28&g=2019-09-26), onverminderd het bepaalde in andere wettelijke voorschriften.
+1. De Dienst verzamelt persoonsgegevens als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2020-01-01&g=2020-01-01), onverminderd het bepaalde in andere wettelijke voorschriften.
 
 2. De Dienst verwerkt geen persoonsgegevens in verband met de totstandbrenging of de instandhouding van een directe relatie tussen de Dienst of een derde en de betrokkene met het oog op werving voor commerciële of charitatieve doelen.
 
 ##### Artikel 3b
 
-Ten aanzien van verwerkingen als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3a&z=2018-07-28&g=2019-09-26) is het bestuur van de Dienst verwerkingsverantwoordelijke, bedoeld in artikel 4 van de Algemene verordening gegevensbescherming.
+Ten aanzien van verwerkingen als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3a&z=2020-01-01&g=2020-01-01) is het bestuur van de Dienst verwerkingsverantwoordelijke, bedoeld in artikel 4 van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 4
 
@@ -226,7 +226,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 - a. de registers van inschrijving van feiten die betrekking hebben op onroerende zaken, schepen en luchtvaartuigen en op de rechten waaraan die onderworpen zijn;
 
-- b. het register van voorlopige aantekeningen waarin de aanbieding van stukken waarvan de inschrijving door de bewaarder ingevolge [artikel 20 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20) is geweigerd, wordt aangetekend onder vermelding van de gerezen bedenkingen, en waarin de aanbieding van notariële verklaringen wordt geboekt in de gevallen, bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26).
+- b. het register van voorlopige aantekeningen waarin de aanbieding van stukken waarvan de inschrijving door de bewaarder ingevolge [artikel 20 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20) is geweigerd, wordt aangetekend onder vermelding van de gerezen bedenkingen, en waarin de aanbieding van notariële verklaringen wordt geboekt in de gevallen, bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01).
 
 2. Het bestuur van de Dienst stelt nadere regels met betrekking tot de vorm van de registers, bedoeld in het eerste lid. Het bestuur van de Dienst kan daarbij een onderscheid maken met betrekking tot:
 
@@ -244,7 +244,7 @@ Voorzover bij de vaststelling van de regels, bedoeld in de eerste zin, de tweede
 
 2. De inhoud van de openbare registers kan worden gehouden op papieren, elektronische of andere gegevensdragers.
 
-3. Het bestuur van de Dienst kan ten aanzien van door hem aan te wijzen openbare registers of gedeelten ervan, de inhoud overbrengen op andere gegevensdragers van dezelfde of een andere soort, mits de overbrenging geschiedt met juiste en volledige weergave van alle desbetreffende gegevens, ter waarborging waarvan het bestuur van de Dienst passende maatregelen ten uitvoer legt. Het bestuur van de Dienst kan bepalen dat meer dan een duplicaat van dezelfde of een andere soort als bedoeld in de eerste zin wordt vervaardigd. Het bestuur van de Dienst draagt in elk geval zorg dat van de openbare registers zo spoedig mogelijk ten minste een duplicaat in dubbel aanwezig is, waarbij [artikel 3d, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3d&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing is.
+3. Het bestuur van de Dienst kan ten aanzien van door hem aan te wijzen openbare registers of gedeelten ervan, de inhoud overbrengen op andere gegevensdragers van dezelfde of een andere soort, mits de overbrenging geschiedt met juiste en volledige weergave van alle desbetreffende gegevens, ter waarborging waarvan het bestuur van de Dienst passende maatregelen ten uitvoer legt. Het bestuur van de Dienst kan bepalen dat meer dan een duplicaat van dezelfde of een andere soort als bedoeld in de eerste zin wordt vervaardigd. Het bestuur van de Dienst draagt in elk geval zorg dat van de openbare registers zo spoedig mogelijk ten minste een duplicaat in dubbel aanwezig is, waarbij [artikel 3d, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3d&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing is.
 
 4. Het bestuur van de Dienst kan bepalen dat een ingevolge het derde lid vervaardigd duplicaat de inhoud vervangt van de openbare registers of gedeelten ervan waarvan dat duplicaat een afschrift is.
 
@@ -264,7 +264,7 @@ Bij algemene maatregel van bestuur wordt geregeld waar stukken ter verkrijging v
 
 ##### Artikel 11
 
-1. Indien een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2018-07-28&g=2019-09-26) in papieren vorm wordt aangeboden, wordt tevens een afschrift van dat stuk aangeboden, voorzien van een verklaring van eensluidendheid.
+1. Indien een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2020-01-01&g=2020-01-01) in papieren vorm wordt aangeboden, wordt tevens een afschrift van dat stuk aangeboden, voorzien van een verklaring van eensluidendheid.
 
 2. De bewaarder is niet gehouden de juistheid van de verklaring, bedoeld in het eerste lid, te onderzoeken. De Dienst is niet aansprakelijk voor schade voortvloeiend uit een onjuistheid en onvolledigheid in het afschrift.
 
@@ -286,29 +286,29 @@ Bij algemene maatregel van bestuur wordt geregeld waar stukken ter verkrijging v
 
 1. De inschrijving geschiedt:
 
-- a. wat betreft stukken die in papieren vorm ter inschrijving zijn aangeboden: door het plaatsen op het afschrift van het stuk, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), van een door de bewaarder te ondertekenen aantekening dat het stuk is ingeschreven, en
+- a. wat betreft stukken die in papieren vorm ter inschrijving zijn aangeboden: door het plaatsen op het afschrift van het stuk, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), van een door de bewaarder te ondertekenen aantekening dat het stuk is ingeschreven, en
 
-- b. wat betreft stukken die in elektronische vorm ter inschrijving zijn aangeboden: door het plaatsen in het desbetreffende elektronisch gedeelte van de openbare registers bij het stuk van een aantekening waaruit blijkt dat het stuk de status «ingeschreven» heeft, voorzien van de naam van de bewaarder, en in de gevallen, bedoeld in [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), door tevens op de stukken die deel uitmaken van het in elektronische vorm aangeboden stuk, een door de bewaarder te ondertekenen aantekening te plaatsen dat het stuk is ingeschreven.
+- b. wat betreft stukken die in elektronische vorm ter inschrijving zijn aangeboden: door het plaatsen in het desbetreffende elektronisch gedeelte van de openbare registers bij het stuk van een aantekening waaruit blijkt dat het stuk de status «ingeschreven» heeft, voorzien van de naam van de bewaarder, en in de gevallen, bedoeld in [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), door tevens op de stukken die deel uitmaken van het in elektronische vorm aangeboden stuk, een door de bewaarder te ondertekenen aantekening te plaatsen dat het stuk is ingeschreven.
 
 Het bestuur van de Dienst stelt de vorm vast van de aantekeningen, bedoeld in de eerste zin, onderdelen a en b.
 
 2. Het bestuur van de Dienst stelt regels met betrekking tot:
 
-- a. de rangschikking en de wijze van opberging van de afschriften, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), en
+- a. de rangschikking en de wijze van opberging van de afschriften, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), en
 
-- b. de bewaring van de bestanden waaruit een bericht als bedoeld in [artikel 11a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2018-07-28&g=2019-09-26), bestaat, en van bestanden die bij een zodanig bericht zijn gevoegd.
+- b. de bewaring van de bestanden waaruit een bericht als bedoeld in [artikel 11a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2020-01-01&g=2020-01-01), bestaat, en van bestanden die bij een zodanig bericht zijn gevoegd.
 
 ##### Artikel 13
 
-1. Indien stukken in papieren vorm ter inschrijving zijn aangeboden, worden zij na de inschrijving, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2018-07-28&g=2019-09-26), aan de aanbieder teruggegeven nadat zij zijn voorzien van een door de bewaarder ondertekende verklaring van inschrijving vermeldende ten minste dag, uur en minuut van aanbieding, en het stukidentificatienummer, bedoeld in [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2018-07-28&g=2019-09-26). Het bestuur van de Dienst stelt de vorm vast van de verklaring, bedoeld in de eerste zin, en kan de inhoud ervan nader vaststellen.
+1. Indien stukken in papieren vorm ter inschrijving zijn aangeboden, worden zij na de inschrijving, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2020-01-01&g=2020-01-01), aan de aanbieder teruggegeven nadat zij zijn voorzien van een door de bewaarder ondertekende verklaring van inschrijving vermeldende ten minste dag, uur en minuut van aanbieding, en het stukidentificatienummer, bedoeld in [artikel 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2020-01-01&g=2020-01-01). Het bestuur van de Dienst stelt de vorm vast van de verklaring, bedoeld in de eerste zin, en kan de inhoud ervan nader vaststellen.
 
 2. Indien stukken in elektronische vorm ter inschrijving zijn aangeboden, wordt na hun inschrijving aan de aanbieder toegezonden een bewijs van inschrijving houdende mededeling van de verrichte inschrijving en vermeldende ten minste de gegevens, bedoeld in het eerste lid, eerste zin, welk bewijs door de bewaarder wordt ondertekend of, indien het in elektronische vorm wordt opgemaakt en toegezonden, wordt voorzien van een elektronische handtekening van de bewaarder. Het bestuur van de Dienst stelt regels met betrekking tot de vorm, wijze en het tijdstip van verzenden van het bewijs van inschrijving en kan de inhoud ervan nader vaststellen.
 
-3. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), toepassing heeft gevonden en indien in het geval, bedoeld in het tweede lid, stukken die deel uitmaken van het in te schrijven stuk in papieren vorm ter inschrijving zijn aangeboden, is het eerste lid van overeenkomstige toepassing op die stukken.
+3. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), toepassing heeft gevonden en indien in het geval, bedoeld in het tweede lid, stukken die deel uitmaken van het in te schrijven stuk in papieren vorm ter inschrijving zijn aangeboden, is het eerste lid van overeenkomstige toepassing op die stukken.
 
 ##### Artikel 14
 
-Op de inschrijving van een feit waarvan de inschrijving alsnog is bevolen overeenkomstig [artikel 20, tweede lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20) of opnieuw is verzocht als bedoeld in [artikel 20, vierde lid, tweede zin, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), zijn de [artikelen 10a tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26) van toepassing, voorzover daarvan in de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14a&z=2018-07-28&g=2019-09-26) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14b&z=2018-07-28&g=2019-09-26) niet wordt afgeweken.
+Op de inschrijving van een feit waarvan de inschrijving alsnog is bevolen overeenkomstig [artikel 20, tweede lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20) of opnieuw is verzocht als bedoeld in [artikel 20, vierde lid, tweede zin, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), zijn de [artikelen 10a tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01) van toepassing, voorzover daarvan in de [artikelen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14a&z=2020-01-01&g=2020-01-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14b&z=2020-01-01&g=2020-01-01) niet wordt afgeweken.
 
 ### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers; wijze van bewaren van de openbare registers; vervaardiging en vervanging van duplicaten van de openbare registers en van duplicaten van andere bij de openbare registers te bewaren stukken
 
@@ -320,9 +320,9 @@ De boeking, bedoeld in [artikel 20, eerste lid, van Boek 3 van het Burgerlijk We
 
 1. Van aan de bewaarder uitgebrachte dagvaardingen als bedoeld in [artikel 20, vierde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), en van uitspraken van de voorzieningenrechter in kort geding, aangespannen ter verkrijging van het bevel, bedoeld in [artikel 20, tweede lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), wordt aantekening gehouden in het register van voorlopige aantekeningen overeenkomstig door het bestuur van de Dienst te stellen regels.
 
-2. Het bestuur van de Dienst stelt regels met betrekking tot de wijze waarop in het register van voorlopige aantekeningen de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26), geschiedt, en met betrekking tot de wijze van doorhaling van voorlopige aantekeningen.
+2. Het bestuur van de Dienst stelt regels met betrekking tot de wijze waarop in het register van voorlopige aantekeningen de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01), geschiedt, en met betrekking tot de wijze van doorhaling van voorlopige aantekeningen.
 
-3. Het eerste lid is van overeenkomstige toepassing op dagvaardingen uitgebracht aan de bewaarder ter verkrijging van een bevel van de rechter tot inschrijving van een notariële verklaring als bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26). Het tweede lid is van overeenkomstige toepassing op de boeking, bedoeld in [artikel 37, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26), en de doorhaling van een zodanige boeking in het register van voorlopige aantekeningen.
+3. Het eerste lid is van overeenkomstige toepassing op dagvaardingen uitgebracht aan de bewaarder ter verkrijging van een bevel van de rechter tot inschrijving van een notariële verklaring als bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01). Het tweede lid is van overeenkomstige toepassing op de boeking, bedoeld in [artikel 37, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01), en de doorhaling van een zodanige boeking in het register van voorlopige aantekeningen.
 
 ##### Artikel 17
 
@@ -332,7 +332,7 @@ De boeking, bedoeld in [artikel 20, eerste lid, van Boek 3 van het Burgerlijk We
 
 - b. regels met betrekking tot de wijze waarop op het bewijs van ontvangst, bedoeld in onderdeel a, indien het in papieren vorm is afgegeven, de verrichte inschrijving desgevraagd wordt aangetekend, bedoeld in [artikel 19, derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=19).
 
-2. Het bestuur van de Dienst stelt nadere regels met betrekking tot de inhoud van het bewijs van ontvangst, bedoeld in het eerste lid, onderdeel a, met dien verstande dat daarin in elk geval wordt vermeld het aantal van de overgelegde maar niet mede in te schrijven stukken als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=44&z=2018-07-28&g=2019-09-26), onder vermelding van hun kenmerken als bedoeld in [artikel 11b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26).
+2. Het bestuur van de Dienst stelt nadere regels met betrekking tot de inhoud van het bewijs van ontvangst, bedoeld in het eerste lid, onderdeel a, met dien verstande dat daarin in elk geval wordt vermeld het aantal van de overgelegde maar niet mede in te schrijven stukken als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=44&z=2020-01-01&g=2020-01-01), onder vermelding van hun kenmerken als bedoeld in [artikel 11b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01).
 
 3. Het bestuur van de Dienst stelt regels met betrekking tot de wijze en het tijdstip van verstrekken van het bewijs van ontvangst.
 
@@ -372,7 +372,7 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 ##### Artikel 21
 
-1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor schepen, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2018-07-28&g=2019-09-26), te boek staand schip of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
+1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor schepen, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2020-01-01&g=2020-01-01), te boek staand schip of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
 
 - a. de naam van het schip met vermelding van het gebruik waartoe het is bestemd, en zijn bruto-inhoud of bruto-tonnage dan wel, indien het een binnenschip betreft, zijn laadvermogen in tonnen van 1.000 kilogram of verplaatsing in kubieke meters;
 
@@ -388,17 +388,17 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 - a. de doorhaling van de teboekstelling van een schip, bedoeld in de [artikelen 195, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=195), en [786, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786);
 
-- b. de aangifte van de eigenaar inhoudende dat het schip een wijziging heeft ondergaan waardoor de beschrijving van het schip in de registratie voor schepen, bedoeld in [artikel 85, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2018-07-28&g=2019-09-26), niet meer aan de werkelijkheid beantwoordt;
+- b. de aangifte van de eigenaar inhoudende dat het schip een wijziging heeft ondergaan waardoor de beschrijving van het schip in de registratie voor schepen, bedoeld in [artikel 85, tweede lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2020-01-01&g=2020-01-01), niet meer aan de werkelijkheid beantwoordt;
 
 - c. een afwijkend beding, als bedoeld in [artikel 1, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1), dan wel
 
 - d. de verandering van een door de eigenaar van een schip in een ingeschreven stuk gekozen woonplaats.
 
-Het bepaalde in de eerste zin is ook van toepassing op de inschrijving van stukken als bedoeld in de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=32&z=2018-07-28&g=2019-09-26), [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26), en [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=39&z=2018-07-28&g=2019-09-26).
+Het bepaalde in de eerste zin is ook van toepassing op de inschrijving van stukken als bedoeld in de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=32&z=2020-01-01&g=2020-01-01), [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01), en [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=39&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 22
 
-1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor luchtvaartuigen, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2018-07-28&g=2019-09-26), te boek staand luchtvaartuig of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
+1. Indien het in te schrijven feit betrekking heeft op een in de registratie voor luchtvaartuigen, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2020-01-01&g=2020-01-01), te boek staand luchtvaartuig of op een recht waaraan een zodanige zaak is onderworpen, bevat het ter inschrijving aangeboden stuk:
 
 - a. het nationaliteitskenmerk en het inschrijvingskenmerk, bedoeld in [artikel 3.2, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2);
 
@@ -408,11 +408,11 @@ Het bepaalde in de eerste zin is ook van toepassing op de inschrijving van stukk
 
 - d. het nummer waaronder de teboekstelling van het luchtvaartuig in de openbare registers is geschied.
 
-2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
-Vermeldt een ter inschrijving aangeboden stuk niet één of meer der gegevens, in de [artikelen 19-22](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=19&z=2018-07-28&g=2019-09-26) voor een zodanig stuk voorgeschreven, en is het naar zijn aard niet voor aanvulling te dier zake vatbaar, dan wordt de vermelding van de ontbrekende gegevens in een nadere, door degene die de inschrijving verlangt, ondertekende verklaring alsnog op het stuk gesteld of daaraan gehecht.
+Vermeldt een ter inschrijving aangeboden stuk niet één of meer der gegevens, in de [artikelen 19-22](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=19&z=2020-01-01&g=2020-01-01) voor een zodanig stuk voorgeschreven, en is het naar zijn aard niet voor aanvulling te dier zake vatbaar, dan wordt de vermelding van de ontbrekende gegevens in een nadere, door degene die de inschrijving verlangt, ondertekende verklaring alsnog op het stuk gesteld of daaraan gehecht.
 
 ### Afdeling 2. Vereisten waaraan ter inschrijving aangeboden stukken moeten voldoen in verband met de aard van het in te schrijven feit
 
@@ -448,7 +448,7 @@ Vermeldt een ter inschrijving aangeboden stuk niet één of meer der gegevens, i
 
 5. Het eerste lid, eerste zin, is van overeenkomstige toepassing op de inschrijving van een akte van grensvastlegging, opgemaakt krachtens de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=31) of [35, derde lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), alsmede op de inschrijving van een akte van splitsing, als bedoeld in [artikel 109, eerste lid, van Boek 5 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), en een akte tot wijziging of opheffing van een zodanige splitsing.
 
-6. Het eerste lid, eerste zin, is van overeenkomstige toepassing op de inschrijving van een akte van vernieuwing als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2018-07-28&g=2019-09-26).
+6. Het eerste lid, eerste zin, is van overeenkomstige toepassing op de inschrijving van een akte van vernieuwing als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 25
 
@@ -470,7 +470,7 @@ Vermeldt een ter inschrijving aangeboden stuk niet één of meer der gegevens, i
 
 ##### Artikel 26
 
-1. Ter inschrijving van een rechtshandeling naar burgerlijk recht die krachtens wetsbepaling kan worden ingeschreven, worden, tenzij anders is bepaald, aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring, inhoudende dat de rechtshandeling naar de verklaring van degene die de inschrijving verlangt, is verricht en wat zij inhoudt, en van de daaraan gehechte stukken waaruit van die rechtshandeling blijkt.
+1. Ter inschrijving van een rechtshandeling naar burgerlijk recht die krachtens wetsbepaling kan worden ingeschreven, worden, tenzij anders is bepaald, aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring, inhoudende dat de rechtshandeling naar de verklaring van degene die de inschrijving verlangt, is verricht en wat zij inhoudt, en van de daaraan gehechte stukken waaruit van die rechtshandeling blijkt.
 
 2. Ingeval voor de rechtshandeling of de inschrijving daarvan een notariële akte is vereist, wordt aangeboden een authentiek afschrift of een authentiek uittreksel van die akte.
 
@@ -506,7 +506,7 @@ Ter inschrijving van de afstand van een huwelijksgemeenschap of van een gemeensc
 
 ##### Artikel 30
 
-1. Ter inschrijving van de vervulling van een voorwaarde, gesteld in een ingeschreven voorwaardelijke rechtshandeling, of van de verschijning van een onzeker tijdstip, aangeduid in de aan een ingeschreven rechtshandeling verbonden tijdsbepaling, worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de voorwaarde is vervuld, onderscheidenlijk het tijdstip is verschenen, en van de daaraan gehechte stukken waaruit van deze vervulling of verschijning blijkt.
+1. Ter inschrijving van de vervulling van een voorwaarde, gesteld in een ingeschreven voorwaardelijke rechtshandeling, of van de verschijning van een onzeker tijdstip, aangeduid in de aan een ingeschreven rechtshandeling verbonden tijdsbepaling, worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de voorwaarde is vervuld, onderscheidenlijk het tijdstip is verschenen, en van de daaraan gehechte stukken waaruit van deze vervulling of verschijning blijkt.
 
 2. Het vorige lid is van overeenkomstige toepassing op de inschrijving van de dood van de vruchtgebruiker van een registergoed. De verklaring van de notaris houdt in dit geval tevens in:
 
@@ -518,13 +518,13 @@ Ter inschrijving van de afstand van een huwelijksgemeenschap of van een gemeensc
 
 Op de inschrijving van reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld, zijn van overeenkomstige toepassing:
 
-- a. voor zover het reglement of de regeling door de rechter is vastgesteld: [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=25&z=2018-07-28&g=2019-09-26);
+- a. voor zover het reglement of de regeling door de rechter is vastgesteld: [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=25&z=2020-01-01&g=2020-01-01);
 
-- b. voor zover het reglement of de regeling bij rechtshandeling is vastgesteld: [artikel 26, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26).
+- b. voor zover het reglement of de regeling bij rechtshandeling is vastgesteld: [artikel 26, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 32
 
-1. Ter inschrijving van een proces-verbaal van inbeslagneming wordt dit proces-verbaal of een door de deurwaarder of een advocaat getekend afschrift daarvan aangeboden. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), is niet van toepassing.
+1. Ter inschrijving van een proces-verbaal van inbeslagneming wordt dit proces-verbaal of een door de deurwaarder of een advocaat getekend afschrift daarvan aangeboden. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), is niet van toepassing.
 
 2. Ingeval een proces-verbaal van inbeslagneming van een luchtvaartuig in het buitenland is opgemaakt door een deurwaarder of andere volgens de daar geldende wet hiertoe bevoegde persoon, kan ook een zodanig proces-verbaal ter inschrijving worden aangeboden.
 
@@ -536,29 +536,29 @@ Op de inschrijving van reglementen en andere regelingen die tussen medegerechtig
 
 - c. de omschrijving van het voorrecht door vermelding van het wettelijk voorschrift, op grond waarvan aan die vordering het voorrecht is toegekend, en
 
-- d. het tijdstip waarop de vordering is ontstaan. Indien het verzoek van de deurwaarder ter inschrijving wordt aangeboden na verloop van de termijn, genoemd in [artikel 219, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=219), onderscheidenlijk [artikel 829, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=829), wordt ter inschrijving tevens aangeboden een stuk waaruit blijkt dat de schuldeiser zijn vordering binnen die termijn in rechte heeft geldend gemaakt, op de inschrijving van welk bewijsstuk [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26) van overeenkomstige toepassing is.
+- d. het tijdstip waarop de vordering is ontstaan. Indien het verzoek van de deurwaarder ter inschrijving wordt aangeboden na verloop van de termijn, genoemd in [artikel 219, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=219), onderscheidenlijk [artikel 829, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=829), wordt ter inschrijving tevens aangeboden een stuk waaruit blijkt dat de schuldeiser zijn vordering binnen die termijn in rechte heeft geldend gemaakt, op de inschrijving van welk bewijsstuk [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing is.
 
 4. Op de inschrijving van een voorrecht, als bedoeld in [artikel 1320, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1320) is het bepaalde in de eerste zin van het derde lid van overeenkomstige toepassing. Indien het verzoek van de deurwaarder ter inschrijving wordt aangeboden drie maanden of langer na het in die zin, onder **d**, bedoelde tijdstip, wordt ter inschrijving tevens aangeboden een stuk waaruit blijkt dat binnen de in [artikel 1320, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1320) genoemde termijn:
 
 - a. het bedrag der vordering in der minne is vastgesteld, dan wel
 
-- b. langs gerechtelijke weg erkenning van het voorrecht en de omvang ervan is gevorderd, op de inschrijving van welk bewijsstuk in het onder **b** bedoelde geval [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26) van overeenkomstige toepassing is.
+- b. langs gerechtelijke weg erkenning van het voorrecht en de omvang ervan is gevorderd, op de inschrijving van welk bewijsstuk in het onder **b** bedoelde geval [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing is.
 
 ##### Artikel 33
 
-1. Ter inschrijving van een verandering in de voornaam of de geslachtsnaam van tot registergoederen gerechtigde natuurlijke personen wordt een door of namens deze persoon ondertekend stuk aangeboden, inhoudende de gegevens, bedoeld in [artikel 18, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), met vermelding van de oude en de nieuwe naam of voornaam, en de dag waarop de verandering is ingegaan. Indien de verandering blijkt uit de registers van de burgerlijke stand, wordt een uittreksel daaruit overgelegd, dat de verandering relateert. In andere gevallen wordt een ander bewijsstuk betreffende deze verandering overgelegd.
+1. Ter inschrijving van een verandering in de voornaam of de geslachtsnaam van tot registergoederen gerechtigde natuurlijke personen wordt een door of namens deze persoon ondertekend stuk aangeboden, inhoudende de gegevens, bedoeld in [artikel 18, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), met vermelding van de oude en de nieuwe naam of voornaam, en de dag waarop de verandering is ingegaan. Indien de verandering blijkt uit de registers van de burgerlijke stand, wordt een uittreksel daaruit overgelegd, dat de verandering relateert. In andere gevallen wordt een ander bewijsstuk betreffende deze verandering overgelegd.
 
-2. Ter inschrijving van de naamsverandering van een rechtspersoon wordt een opgave van een notaris aangeboden, inhoudende de gegevens, bedoeld in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), met vermelding van de oude en de nieuwe naam en de dag waarop de verandering is ingegaan. Gaat het om een publiekrechtelijke rechtspersoon, dan kan deze de opgave zelf doen.
+2. Ter inschrijving van de naamsverandering van een rechtspersoon wordt een opgave van een notaris aangeboden, inhoudende de gegevens, bedoeld in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), met vermelding van de oude en de nieuwe naam en de dag waarop de verandering is ingegaan. Gaat het om een publiekrechtelijke rechtspersoon, dan kan deze de opgave zelf doen.
 
-3. Ter inschrijving van een omzetting van een rechtspersoon wordt een opgave van een notaris aangeboden, inhoudende de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), bedoelde gegevens, met vermelding van de oude en nieuwe rechtsvorm, de oude en nieuwe naam alsmede van de dag waarop de omzetting van kracht is geworden. Het bepaalde in de eerste zin is van overeenkomstige toepassing op een omzetting, als bedoeld in [artikel 8, eerste en tweede lid, van de Wet van 28 juni 1989 (**Stb.** 245), houdende uitvoering van de Verordening nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8) (**PbEG** L 199/1).
+3. Ter inschrijving van een omzetting van een rechtspersoon wordt een opgave van een notaris aangeboden, inhoudende de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), bedoelde gegevens, met vermelding van de oude en nieuwe rechtsvorm, de oude en nieuwe naam alsmede van de dag waarop de omzetting van kracht is geworden. Het bepaalde in de eerste zin is van overeenkomstige toepassing op een omzetting, als bedoeld in [artikel 8, eerste en tweede lid, van de Wet van 28 juni 1989 (**Stb.** 245), houdende uitvoering van de Verordening nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8) (**PbEG** L 199/1).
 
-4. Ter inschrijving van een fusie van rechtspersonen wordt een opgave van een notaris aangeboden, inhoudende met betrekking tot elk der fuserende rechtspersonen en, zo de verkrijgende rechtspersoon een door hen samen bij de fusie opgerichte nieuwe rechtspersoon is, tevens met betrekking tot die rechtspersoon de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), bedoelde gegevens, met vermelding wie de verkrijgende rechtspersoon is alsmede van de dag waarop de fusie van kracht is geworden.
+4. Ter inschrijving van een fusie van rechtspersonen wordt een opgave van een notaris aangeboden, inhoudende met betrekking tot elk der fuserende rechtspersonen en, zo de verkrijgende rechtspersoon een door hen samen bij de fusie opgerichte nieuwe rechtspersoon is, tevens met betrekking tot die rechtspersoon de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), bedoelde gegevens, met vermelding wie de verkrijgende rechtspersoon is alsmede van de dag waarop de fusie van kracht is geworden.
 
-5. Ter inschrijving van een splitsing van rechtspersonen wordt een opgave van een notaris aangeboden, inhoudende met betrekking tot elke partij bij de splitsing en, zo bij de splitsing verkrijgende rechtspersonen worden opgericht, tevens met betrekking tot die rechtspersonen de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), bedoelde gegevens, met vermelding op welke verkrijgende rechtspersoon welke registergoederen zijn overgegaan alsmede van de dag waarop de splitsing van kracht is geworden.
+5. Ter inschrijving van een splitsing van rechtspersonen wordt een opgave van een notaris aangeboden, inhoudende met betrekking tot elke partij bij de splitsing en, zo bij de splitsing verkrijgende rechtspersonen worden opgericht, tevens met betrekking tot die rechtspersonen de in [artikel 18, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), bedoelde gegevens, met vermelding op welke verkrijgende rechtspersoon welke registergoederen zijn overgegaan alsmede van de dag waarop de splitsing van kracht is geworden.
 
 ##### Artikel 34
 
-Ter inschrijving van een verjaring wordt een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring aangeboden, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de verjaring is ingetreden, alsmede
+Ter inschrijving van een verjaring wordt een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring aangeboden, inhoudende dat naar de verklaring van degene die de inschrijving verlangt, de verjaring is ingetreden, alsmede
 
 - a. welk registergoed door verjaring is verkregen, dan wel welk beperkt recht op een registergoed is tenietgegaan;
 
@@ -580,9 +580,9 @@ Ter inschrijving van een verjaring wordt een authentiek afschrift van een door e
 
 ##### Artikel 36
 
-1. Ter inschrijving van het feit dat het nut van een mandelige zaak voor elk der erven is geëindigd, wordt een door een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring aangeboden, inhoudende dat naar de verklaring van hen die de inschrijving verlangen, het nut voor elk der erven is geëindigd. Werken niet alle rechthebbenden op de mandelige zaak mee, dan vermeldt de notaris in zijn verklaring de reden daarvan.
+1. Ter inschrijving van het feit dat het nut van een mandelige zaak voor elk der erven is geëindigd, wordt een door een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring aangeboden, inhoudende dat naar de verklaring van hen die de inschrijving verlangen, het nut voor elk der erven is geëindigd. Werken niet alle rechthebbenden op de mandelige zaak mee, dan vermeldt de notaris in zijn verklaring de reden daarvan.
 
-2. Ter inschrijving van het bestaan van een recht, als bedoeld in [artikel 150, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=150) (**Stb.** 1976, 396), worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring, waarin het bestaan van het recht wordt geconstateerd, en die tevens inhoudt:
+2. Ter inschrijving van het bestaan van een recht, als bedoeld in [artikel 150, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=150) (**Stb.** 1976, 396), worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring, waarin het bestaan van het recht wordt geconstateerd, en die tevens inhoudt:
 
 - a. de omschrijving van de inhoud van het recht;
 
@@ -592,7 +592,7 @@ Ter inschrijving van een verjaring wordt een authentiek afschrift van een door e
 
 alsmede van de aan die verklaring gehechte stukken waaruit van een en ander blijkt.
 
-3. Ter inschrijving van het ontstaan van een erfdienstbaarheid door bestemming of herleving, bedoeld in [artikel 163, eerste zin, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=163), worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring, waarin het ontstaan van de erfdienstbaarheid wordt geconstateerd, en die tevens inhoudt:
+3. Ter inschrijving van het ontstaan van een erfdienstbaarheid door bestemming of herleving, bedoeld in [artikel 163, eerste zin, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=163), worden aangeboden authentieke afschriften van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring, waarin het ontstaan van de erfdienstbaarheid wordt geconstateerd, en die tevens inhoudt:
 
 - a. de omschrijving van de inhoud van de erfdienstbaarheid, en
 
@@ -600,17 +600,17 @@ alsmede van de aan die verklaring gehechte stukken waaruit van een en ander blij
 
 alsmede van de aan die verklaring gehechte stukken waaruit van een en ander blijkt.
 
-4. Op de inschrijving van de aanleg en verwijdering van een net als bedoeld in [artikel 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=17), is [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing.
+4. Op de inschrijving van de aanleg en verwijdering van een net als bedoeld in [artikel 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=17), is [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
-5. Ter inschrijving van de publicaties bedoeld in [artikel 155a lid 2 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155a) wordt een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26) opgemaakte verklaring aangeboden, inhoudende op welke datum die publicaties zijn geschied en in welk landelijk dagblad de publicatie heeft plaatsgevonden. Ter inschrijving van een exploot als bedoeld in artikel 155a, vijfde lid, van de Overgangswet nieuw Burgerlijk Wetboek wordt een door de deurwaarder of een advocaat getekend afschrift daarvan aangeboden.
+5. Ter inschrijving van de publicaties bedoeld in [artikel 155a lid 2 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155a) wordt een authentiek afschrift van een door een notaris met inachtneming van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01) opgemaakte verklaring aangeboden, inhoudende op welke datum die publicaties zijn geschied en in welk landelijk dagblad de publicatie heeft plaatsgevonden. Ter inschrijving van een exploot als bedoeld in artikel 155a, vijfde lid, van de Overgangswet nieuw Burgerlijk Wetboek wordt een door de deurwaarder of een advocaat getekend afschrift daarvan aangeboden.
 
 ##### Artikel 37
 
-1. Een notariële verklaring, als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2018-07-28&g=2019-09-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2018-07-28&g=2019-09-26) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2018-07-28&g=2019-09-26), houdt behalve hetgeen in deze artikelen is voorgeschreven, tevens in een verklaring van de notaris:
+1. Een notariële verklaring, als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2020-01-01&g=2020-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2020-01-01&g=2020-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2020-01-01&g=2020-01-01), houdt behalve hetgeen in deze artikelen is voorgeschreven, tevens in een verklaring van de notaris:
 
 - a. hetzij dat allen die als partij bij het in te schrijven feit betrokken zijn aan de notaris hebben medegedeeld met de inschrijving in te stemmen;
 
-- b. hetzij dat bewijsstukken aan hem zijn overgelegd en aan de verklaring gehecht, die genoegzaam aantonen dat het in te schrijven feit zich inderdaad heeft voorgedaan dan wel, in geval van een verklaring als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2018-07-28&g=2019-09-26), dat het recht bestaat;
+- b. hetzij dat bewijsstukken aan hem zijn overgelegd en aan de verklaring gehecht, die genoegzaam aantonen dat het in te schrijven feit zich inderdaad heeft voorgedaan dan wel, in geval van een verklaring als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2020-01-01&g=2020-01-01), dat het recht bestaat;
 
 - c. hetzij dat hij niet aan het onder **a** en **b** gestelde kan voldoen.
 
@@ -634,7 +634,7 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 - c. in geval van een verzoekschrift: een afschrift daarvan met aantekening van de dag waarop het verzoekschrift is ingekomen ter griffie, getekend door een advocaat of door de griffier van het gerecht waar het verzoekschrift is ingediend.
 
-2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschiedt, moet bevatten.
+2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschiedt, moet bevatten.
 
 Voor overige gevallen luidt het artikel als volgt:
 
@@ -646,13 +646,13 @@ Voor overige gevallen luidt het artikel als volgt:
 
 - c. in geval van een verzoekschrift: een afschrift daarvan met aantekening van de dag waarop het verzoekschrift is ingekomen ter griffie, getekend door een advocaat of door de griffier van het gerecht waar het verzoekschrift is ingediend.
 
-2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschiedt, moet bevatten.
+2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschiedt, moet bevatten.
 
 ##### Artikel 39
 
 Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
-1. Ter inschrijving van de instelling van een rechtsmiddel tegen een rechterlijke uitspraak, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26), wordt aangeboden:
+1. Ter inschrijving van de instelling van een rechtsmiddel tegen een rechterlijke uitspraak, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01), wordt aangeboden:
 
 - a. ingeval het rechtsmiddel wordt ingesteld door het instellen van een rechtsvordering: een door de deurwaarder of een advocaat getekend afschrift van de procesinleiding;
 
@@ -660,11 +660,11 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 - c. ingeval het rechtsmiddel wordt ingesteld bij een ander stuk: een afschrift daarvan, getekend door een advocaat of de griffier van het gerecht dat op het aangewende rechtsmiddel beslist.
 
-2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschied moet bevatten.
+2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschied moet bevatten.
 
 Voor overige gevallen luidt het artikel als volgt:
 
-1. Ter inschrijving van de instelling van een rechtsmiddel tegen een rechterlijke uitspraak, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26), wordt aangeboden:
+1. Ter inschrijving van de instelling van een rechtsmiddel tegen een rechterlijke uitspraak, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01), wordt aangeboden:
 
 - a. ingeval het rechtsmiddel wordt ingesteld bij dagvaarding: een door de deurwaarder of een advocaat getekend afschrift daarvan;
 
@@ -672,11 +672,11 @@ Voor overige gevallen luidt het artikel als volgt:
 
 - c. ingeval het rechtsmiddel wordt ingesteld bij een ander stuk: een afschrift daarvan, getekend door een advocaat of de griffier van het gerecht dat op het aangewende rechtsmiddel beslist.
 
-2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschied moet bevatten.
+2. [Artikel 18, tweede-vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), is niet van toepassing, behoudens dat het aangeboden stuk in elk geval de naam en een ter zake van het geding gekozen woonplaats met adres van degene te wiens behoeve de aanbieding geschied moet bevatten.
 
 ##### Artikel 40
 
-Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2018-07-28&g=2019-09-26) of [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=39&z=2018-07-28&g=2019-09-26) verkregen inschrijving, kan ook worden aangeboden
+Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=38&z=2020-01-01&g=2020-01-01) of [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=3&artikel=39&z=2020-01-01&g=2020-01-01) verkregen inschrijving, kan ook worden aangeboden
 
 - a. een daartoe strekkende verklaring, afgegeven door een deurwaarder of advocaat die optreedt voor de eiser, de verzoeker of degene die het rechtsmiddel heeft ingesteld;
 
@@ -696,23 +696,23 @@ Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 38](https
 
 1. Op de inschrijving van stukken tot verbetering van onjuistheden en onvolledigheden in ingeschreven stukken, zijn de bepalingen, gegeven bij of krachtens dit hoofdstuk, van overeenkomstige toepassing, onverminderd het tweede lid.
 
-2. Ter verbetering van een onjuistheid en onvolledigheid bestaand uit een kennelijke schrijffout en een kennelijke misslag in de tekst van een ingeschreven notariële akte of notariële verklaring, als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2018-07-28&g=2019-09-26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2018-07-28&g=2019-09-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2018-07-28&g=2019-09-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=35&z=2018-07-28&g=2019-09-26), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2018-07-28&g=2019-09-26) en [46a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46a&z=2018-07-28&g=2019-09-26), kan ook worden ingeschreven een proces-verbaal als bedoeld in [artikel 45, tweede lid, tweede zin, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45).
+2. Ter verbetering van een onjuistheid en onvolledigheid bestaand uit een kennelijke schrijffout en een kennelijke misslag in de tekst van een ingeschreven notariële akte of notariële verklaring, als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2020-01-01&g=2020-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2020-01-01&g=2020-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2020-01-01&g=2020-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=35&z=2020-01-01&g=2020-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2020-01-01&g=2020-01-01) en [46a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46a&z=2020-01-01&g=2020-01-01), kan ook worden ingeschreven een proces-verbaal als bedoeld in [artikel 45, tweede lid, tweede zin, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45).
 
 ##### Artikel 43
 
-Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is opgenomen, niet voldoet aan de vereisten, gesteld in de [artikelen 18-42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), kan het met ontbrekende gegevens worden aangevuld door een verklaring aan de voet van het stuk, ondertekend door degene die bevoegd is tot het opmaken en ondertekenen van een zodanig stuk, een en ander voor zover de aard van het stuk zich daartegen niet verzet.
+Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is opgenomen, niet voldoet aan de vereisten, gesteld in de [artikelen 18-42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), kan het met ontbrekende gegevens worden aangevuld door een verklaring aan de voet van het stuk, ondertekend door degene die bevoegd is tot het opmaken en ondertekenen van een zodanig stuk, een en ander voor zover de aard van het stuk zich daartegen niet verzet.
 
 ##### Artikel 44
 
 1. Stukken die voor bewijs bij de aanbieding van een stuk worden overgelegd, worden slechts mede ingeschreven, indien de wet dit eist of de aanbieder dit verlangt, tenzij bij wet is bepaald dat de desbetreffende stukken niet worden ingeschreven.
 
-2. Onverminderd [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2018-07-28&g=2019-09-26), maakt de bewaarder, overeenkomstig door het bestuur van de Dienst te stellen regels, melding van de overlegging van stukken:
+2. Onverminderd [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2020-01-01&g=2020-01-01), maakt de bewaarder, overeenkomstig door het bestuur van de Dienst te stellen regels, melding van de overlegging van stukken:
 
 - a. voorzover die in papieren vorm ter inschrijving zijn aangeboden: op het ter inschrijving aangeboden stuk en op het afschrift van dat stuk, en
 
 - b. voorzover die in elektronische vorm ter inschrijving zijn aangeboden: in het desbetreffende elektronisch gedeelte van de openbare registers bij dat stuk.
 
-3. Stukken die worden overgelegd maar waarvan de inschrijving niet wordt voorgeschreven of verlangd, worden onverwijld aan de aanbieder teruggegeven. De eerste zin is niet van toepassing indien [artikel 11b, vijfde lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), toepassing heeft gevonden en het stuk in elektronische vorm is overgelegd.
+3. Stukken die worden overgelegd maar waarvan de inschrijving niet wordt voorgeschreven of verlangd, worden onverwijld aan de aanbieder teruggegeven. De eerste zin is niet van toepassing indien [artikel 11b, vijfde lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), toepassing heeft gevonden en het stuk in elektronische vorm is overgelegd.
 
 ##### Artikel 45
 
@@ -724,13 +724,13 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 ##### Artikel 46
 
-1. Naast feiten die voor de rechtstoestand van registergoederen van belang zijn, kunnen in de openbare registers tevens algemene voorwaarden, modelreglementen en andere stukken, die niet op een bepaald registergoed betrekking hebben, worden ingeschreven, met het uitsluitend doel dat daarnaar in later ter inschrijving aangeboden stukken kan worden verwezen. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=19), [20, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=22) en [30 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=30) en [117, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=9&artikel=117&z=2018-07-28&g=2019-09-26) zijn van overeenkomstige toepassing.
+1. Naast feiten die voor de rechtstoestand van registergoederen van belang zijn, kunnen in de openbare registers tevens algemene voorwaarden, modelreglementen en andere stukken, die niet op een bepaald registergoed betrekking hebben, worden ingeschreven, met het uitsluitend doel dat daarnaar in later ter inschrijving aangeboden stukken kan worden verwezen. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=19), [20, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=22) en [30 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=30) en [117, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=9&artikel=117&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
-2. Ter inschrijving van een stuk als bedoeld in het eerste lid wordt naast dat stuk aangeboden, indien het in papieren vorm ter inschrijving wordt aangeboden, een afschrift van dat stuk voorzien van een verklaring van eensluidendheid. [Artikel 11, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. Ter inschrijving van een stuk als bedoeld in het eerste lid wordt naast dat stuk aangeboden, indien het in papieren vorm ter inschrijving wordt aangeboden, een afschrift van dat stuk voorzien van een verklaring van eensluidendheid. [Artikel 11, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-3. Ter inschrijving van een stuk als bedoeld in het eerste lid is, indien het in elektronische vorm ter inschrijving wordt aangeboden, vereist een afschrift van dat stuk als bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26). De [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), en [11b, tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), zijn van overeenkomstige toepassing.
+3. Ter inschrijving van een stuk als bedoeld in het eerste lid is, indien het in elektronische vorm ter inschrijving wordt aangeboden, vereist een afschrift van dat stuk als bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01). De [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), en [11b, tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
-4. De [artikelen 18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26) zijn niet van toepassing. Bij algemene maatregel van bestuur kunnen regels worden gesteld waaraan ter inschrijving aangeboden stukken als bedoeld in het eerste lid, voldoen. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de verwijzing in de latere stukken geschiedt.
+4. De [artikelen 18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01) zijn niet van toepassing. Bij algemene maatregel van bestuur kunnen regels worden gesteld waaraan ter inschrijving aangeboden stukken als bedoeld in het eerste lid, voldoen. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de verwijzing in de latere stukken geschiedt.
 
 5. Een verwijzing als bedoeld in het vierde lid heeft tot gevolg dat het stuk waarnaar in een ter inschrijving aangeboden stuk wordt verwezen, deel uitmaakt van de inschrijving die op grond van het aangeboden stuk plaatsvindt.
 
@@ -738,7 +738,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 1. Een verandering van een in een ingeschreven stuk gekozen woonplaats, een alsnog ter zake van een inschrijving gedane keuze van woonplaats en de opheffing van een gekozen woonplaats kunnen worden ingeschreven. Ter inschrijving van de verandering, keuze of opheffing wordt een door of namens de belanghebbende ondertekende verklaring aangeboden die de nieuwe en de vorige gekozen dan wel wettelijke woonplaats vermeldt, alsmede de datum van ingang.
 
-2. Een krachtens [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26), van deze wet of de [artikelen 260, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=260) of [252, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) gekozen woonplaats, heeft, ongeacht of zij met het oorspronkelijke stuk dan wel krachtens het eerste lid is ingeschreven, geen ander gevolg dan dat
+2. Een krachtens [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01), van deze wet of de [artikelen 260, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=260) of [252, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) gekozen woonplaats, heeft, ongeacht of zij met het oorspronkelijke stuk dan wel krachtens het eerste lid is ingeschreven, geen ander gevolg dan dat
 
 - a. daar exploiten kunnen worden uitgebracht die de inschrijving betreffen, ter zake waarvan woonplaats werd gekozen;
 
@@ -774,7 +774,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 - g. ten aanzien van een eigenaar en beperkt gerechtigde als bedoeld in onderdeel b: een verwijzing naar alle in de openbare registers ingeschreven of geboekte stukken, voorzover die stukken betreffen onroerende zaken en rechten waaraan die zaken zijn onderworpen;
 
-- h. ten aanzien van een onroerende zaak en een appartementsrecht: een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven of geboekte stukken, alsmede naar door de Dienst verkregen inlichtingen of verrichte waarnemingen als bedoeld in [artikel 54, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2018-07-28&g=2019-09-26);
+- h. ten aanzien van een onroerende zaak en een appartementsrecht: een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven of geboekte stukken, alsmede naar door de Dienst verkregen inlichtingen of verrichte waarnemingen als bedoeld in [artikel 54, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2020-01-01&g=2020-01-01);
 
 - i. voorzover op een onroerende zaak een recht van hypotheek rust, het bedrag waarvoor de hypotheek is gevestigd, of indien dit bedrag nog niet vaststaat, het maximumbedrag dat uit hoofde van een hypotheek op het goed kan worden verhaald, en voorzover bekend, de rentevoet;
 
@@ -782,9 +782,9 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 - k. het aandeel van een eigenaar of beperkt gerechtigde als bedoeld in onderdeel b in geval van een gemeenschap.
 
-3. De basisregistratie kadaster bevat voorts de landelijke kadastrale kaart. Die kaart is toegankelijk door middel van een coördinaat in het net van coördinaatpunten, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2018-07-28&g=2019-09-26), of door middel van de kadastrale aanduiding van een perceel. De landelijke kadastrale kaart bevat:
+3. De basisregistratie kadaster bevat voorts de landelijke kadastrale kaart. Die kaart is toegankelijk door middel van een coördinaat in het net van coördinaatpunten, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2020-01-01&g=2020-01-01), of door middel van de kadastrale aanduiding van een perceel. De landelijke kadastrale kaart bevat:
 
-- a. de afbeelding van de kadastrale grenzen van een perceel, weergegeven in het net van coördinaatpunten, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2018-07-28&g=2019-09-26);
+- a. de afbeelding van de kadastrale grenzen van een perceel, weergegeven in het net van coördinaatpunten, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2020-01-01&g=2020-01-01);
 
 - b. de kadastrale aanduiding van een perceel;
 
@@ -794,7 +794,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 4. Een gegeven als bedoeld in het tweede lid, onderdeel f, kan krachtens een andere wet dan deze wet als authentiek worden aangemerkt.
 
-5. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede en derde lid, en in [artikel 7g, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus basisregistratie kadaster.
+5. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede en derde lid, en in [artikel 7g, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus basisregistratie kadaster.
 
 6. Het bestuur van de Dienst doet mededeling van de vaststelling of wijziging van de catalogus basisregistratie kadaster in de Staatscourant. Indien die mededeling geen integrale bekendmaking inhoudt van die catalogus of van de wijzigingen daarin, maakt de Dienst bekend waar die catalogus ter inzage ligt of op welke wijze die catalogus anderszins raadpleegbaar is.
 
@@ -838,7 +838,7 @@ Bijwerking vindt plaats als bijhouding dan wel als vernieuwing.
 
 - a. veranderingen blijkens in de openbare registers ingeschreven stukken, voorzover die betrekking hebben op onroerende zaken en rechten waaraan die zaken zijn onderworpen;
 
-- b. een wijziging als bedoeld in [artikel 7n](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26) of [7t](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=4&artikel=7t&z=2018-07-28&g=2019-09-26);
+- b. een wijziging als bedoeld in [artikel 7n](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01) of [7t](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=4&artikel=7t&z=2020-01-01&g=2020-01-01);
 
 - c. inlichtingen van een eigenaar van, of beperkt gerechtigde met betrekking tot, een onroerende zaak, of van diens rechtsopvolger onder algemene titel;
 
@@ -848,7 +848,7 @@ Bijwerking vindt plaats als bijhouding dan wel als vernieuwing.
 
 ##### Artikel 55
 
-Vernieuwing vindt plaats op grond van veranderingen, voor zover deze blijken uit in de openbare registers ingeschreven akten van vernieuwing, als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2018-07-28&g=2019-09-26).
+Vernieuwing vindt plaats op grond van veranderingen, voor zover deze blijken uit in de openbare registers ingeschreven akten van vernieuwing, als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 56
 
@@ -860,15 +860,15 @@ De wijze van bijwerking wordt, onverminderd het bepaalde bij of krachtens deze o
 
 ##### Artikel 56a
 
-1. Op beschikkingen inzake de bijwerking, genomen krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2018-07-28&g=2019-09-26) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
+1. Op beschikkingen inzake de bijwerking, genomen krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2020-01-01&g=2020-01-01) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
 
-2. Het voorstel van vernieuwing, als bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2018-07-28&g=2019-09-26), geldt als een beschikking.
+2. Het voorstel van vernieuwing, als bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2020-01-01&g=2020-01-01), geldt als een beschikking.
 
 ##### Artikel 56b
 
-1. Tenzij het betreft een beschikking als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=3&artikel=71&z=2018-07-28&g=2019-09-26), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2018-07-28&g=2019-09-26) of [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2018-07-28&g=2019-09-26), eerste lid, kan een belanghebbende bezwaar maken tegen een beschikking inzake de bijwerking, vastgesteld krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2018-07-28&g=2019-09-26), nadat die bijwerking is voltooid.
+1. Tenzij het betreft een beschikking als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=3&artikel=71&z=2020-01-01&g=2020-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2020-01-01&g=2020-01-01) of [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2020-01-01&g=2020-01-01), eerste lid, kan een belanghebbende bezwaar maken tegen een beschikking inzake de bijwerking, vastgesteld krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2020-01-01&g=2020-01-01), nadat die bijwerking is voltooid.
 
-2. Voorzover een beschikking als bedoeld in het eerste lid betrekking heeft op een gegeven dat krachtens deze wet als authentiek wordt aangemerkt en ten aanzien van die beschikking bezwaar wordt gemaakt of beroep wordt ingesteld, handelt de Dienst overeenkomstig [artikel 7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2018-07-28&g=2019-09-26).
+2. Voorzover een beschikking als bedoeld in het eerste lid betrekking heeft op een gegeven dat krachtens deze wet als authentiek wordt aangemerkt en ten aanzien van die beschikking bezwaar wordt gemaakt of beroep wordt ingesteld, handelt de Dienst overeenkomstig [artikel 7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 56c
 
@@ -898,11 +898,11 @@ Vervallen
 
 5. De bijhouding vindt plaats mede op grondslag van het relaas van bevindingen indien het eerste-vierde lid toepassing heeft gevonden.
 
-6. Op vertoon van een bewijs van de in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), bedoelde bekendmaking worden aan belanghebbenden op het desbetreffende kantoor van de Dienst kosteloos nadere inlichtingen omtrent de uitkomsten van de meting verschaft, indien het eerste-vierde lid toepassing heeft gevonden. Onze Minister stelt nadere regelen vast omtrent de wijze waarop deze inlichtingen worden verschaft.
+6. Op vertoon van een bewijs van de in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), bedoelde bekendmaking worden aan belanghebbenden op het desbetreffende kantoor van de Dienst kosteloos nadere inlichtingen omtrent de uitkomsten van de meting verschaft, indien het eerste-vierde lid toepassing heeft gevonden. Onze Minister stelt nadere regelen vast omtrent de wijze waarop deze inlichtingen worden verschaft.
 
 ##### Artikel 58
 
-1. Ingeval de bijhouding waartoe een ingeschreven stuk aanleiding geeft, met betrekking tot een gehandhaafd perceel dan wel een nieuw gevormd perceel is voltooid en heeft geleid tot wijziging of aanvulling van de in de basisregistratie kadaster vermeld staande gegevens betreffende de eigenaars of beperkt gerechtigden, de kadastrale aanduiding dan wel de grootte van de onroerende zaak waarop het ingeschreven feit betrekking heeft, wordt het resultaat van die bijhouding aan belanghebbenden door toezending of uitreiking bekendgemaakt. Met betrekking tot een rechthebbende op een erfdienstbaarheid vindt het bepaalde in de eerste zin slechts toepassing, voor zover een regeling van het bestuur van de Dienst als bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), is vastgesteld.
+1. Ingeval de bijhouding waartoe een ingeschreven stuk aanleiding geeft, met betrekking tot een gehandhaafd perceel dan wel een nieuw gevormd perceel is voltooid en heeft geleid tot wijziging of aanvulling van de in de basisregistratie kadaster vermeld staande gegevens betreffende de eigenaars of beperkt gerechtigden, de kadastrale aanduiding dan wel de grootte van de onroerende zaak waarop het ingeschreven feit betrekking heeft, wordt het resultaat van die bijhouding aan belanghebbenden door toezending of uitreiking bekendgemaakt. Met betrekking tot een rechthebbende op een erfdienstbaarheid vindt het bepaalde in de eerste zin slechts toepassing, voor zover een regeling van het bestuur van de Dienst als bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), is vastgesteld.
 
 2. De verzending ingevolge het eerste lid vindt op één en dezelfde dag plaats.
 
@@ -910,13 +910,13 @@ Vervallen
 
 ##### Artikel 59
 
-1. Blijkt de in het ingeschreven stuk voorkomende feitelijke omschrijving van de onroerende zaak waarop het stuk betrekking heeft, onverenigbaar met hetgeen de met de meting belaste ambtenaar overeenkomstig [artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), door de belanghebbenden ter plaatse is aangewezen, of is de kadastrale aanduiding van die zaak in dat stuk onjuist of onvolledig, dan vindt [artikel 58, eerste-derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), slechts toepassing voor zover bijhouding naar de krachtens het volgende lid vast te stellen regelen mogelijk is.
+1. Blijkt de in het ingeschreven stuk voorkomende feitelijke omschrijving van de onroerende zaak waarop het stuk betrekking heeft, onverenigbaar met hetgeen de met de meting belaste ambtenaar overeenkomstig [artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), door de belanghebbenden ter plaatse is aangewezen, of is de kadastrale aanduiding van die zaak in dat stuk onjuist of onvolledig, dan vindt [artikel 58, eerste-derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), slechts toepassing voor zover bijhouding naar de krachtens het volgende lid vast te stellen regelen mogelijk is.
 
-2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt, indien de in het eerste lid bedoelde gevallen zich voordoen, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid, nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2018-07-28&g=2019-09-26), is ingeschreven in de in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), bedoelde openbare registers.
+2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt, indien de in het eerste lid bedoelde gevallen zich voordoen, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid, nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2020-01-01&g=2020-01-01), is ingeschreven in de in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde openbare registers.
 
-3. De beslissing om toepassing aan het eerste lid te geven wordt met bekwame spoed genomen. Indien het ingeschreven stuk is opgemaakt door een notaris, wordt de beslissing tevens aan hem medegedeeld. De bekendmaking van de beslissing gaat vergezeld van een verzoek een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2018-07-28&g=2019-09-26), in te schrijven in de openbare registers, bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26). [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. De beslissing om toepassing aan het eerste lid te geven wordt met bekwame spoed genomen. Indien het ingeschreven stuk is opgemaakt door een notaris, wordt de beslissing tevens aan hem medegedeeld. De bekendmaking van de beslissing gaat vergezeld van een verzoek een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2020-01-01&g=2020-01-01), in te schrijven in de openbare registers, bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01). [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-4. Bij de bekendmaking wordt gewezen op het gevolg voor de bijhouding dat de wet aan het niet-inschrijven van een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2018-07-28&g=2019-09-26), verbindt.
+4. Bij de bekendmaking wordt gewezen op het gevolg voor de bijhouding dat de wet aan het niet-inschrijven van een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2020-01-01&g=2020-01-01), verbindt.
 
 5. Het bepaalde in de vorige leden is van overeenkomstige toepassing ingeval de kadastrale aanduiding van een appartementsrecht in een ingeschreven stuk onjuist of onvolledig blijkt te zijn.
 
@@ -952,19 +952,19 @@ Vervallen
 
 ##### Artikel 66
 
-1. Ingeval een belanghebbende, bedoeld in [artikel 54, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2018-07-28&g=2019-09-26), meent dat zich een feit heeft voorgedaan, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), kan hij de Dienst verzoeken, daarnaar een onderzoek in te stellen. Binnen acht weken na ontvangst van de aanvraag wordt de beslissing op het verzoek genomen.
+1. Ingeval een belanghebbende, bedoeld in [artikel 54, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2020-01-01&g=2020-01-01), meent dat zich een feit heeft voorgedaan, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), kan hij de Dienst verzoeken, daarnaar een onderzoek in te stellen. Binnen acht weken na ontvangst van de aanvraag wordt de beslissing op het verzoek genomen.
 
-2. In geval van toewijzing van het verzoek wordt door de Dienst van het voornemen tot het houden van een onderzoek ter plaatse mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26). [Artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. In geval van toewijzing van het verzoek wordt door de Dienst van het voornemen tot het houden van een onderzoek ter plaatse mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01). [Artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 67
 
-1. De met het onderzoek belaste ambtenaar gaat ter plaatse na of een feit, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=29&z=2018-07-28&g=2019-09-26) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), zich heeft voorgedaan. [Artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. De met het onderzoek belaste ambtenaar gaat ter plaatse na of een feit, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=29&z=2020-01-01&g=2020-01-01) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), zich heeft voorgedaan. [Artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. De ambtenaar maakt een relaas van zijn bevindingen. Indien ten behoeve van het onderzoek een meting plaatsvindt, worden de daardoor verkregen gegevens eveneens opgenomen in het relaas van bevindingen.
 
 ##### Artikel 68
 
-1. Indien het onderzoek ter plaatse aanleiding geeft tot bijhouding, vindt deze plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. Indien het onderzoek ter plaatse aanleiding geeft tot bijhouding, vindt deze plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Indien het onderzoek ter plaatse geen aanleiding geeft tot bijhouding, wordt daarvan mededeling gedaan aan de verzoeker en de overige bij de bijhouding belanghebbenden.
 
@@ -974,11 +974,11 @@ Vervallen
 
 ##### Artikel 70
 
-1. De Dienst is bevoegd, ook zonder een verzoek, als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=66&z=2018-07-28&g=2019-09-26), een onderzoek, als bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2018-07-28&g=2019-09-26), in te stellen indien er redenen zijn om aan te nemen dat zich met betrekking tot onroerende zaken feiten hebben voorgedaan, als bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35). Van het voornemen tot een onderzoek wordt door de Dienst mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26). De [artikelen 57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), en [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2018-07-28&g=2019-09-26), zijn van overeenkomstige toepassing.
+1. De Dienst is bevoegd, ook zonder een verzoek, als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=66&z=2020-01-01&g=2020-01-01), een onderzoek, als bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2020-01-01&g=2020-01-01), in te stellen indien er redenen zijn om aan te nemen dat zich met betrekking tot onroerende zaken feiten hebben voorgedaan, als bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35). Van het voornemen tot een onderzoek wordt door de Dienst mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01). De [artikelen 57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), en [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
-2. Indien de Dienst gebruik heeft gemaakt van de in het vorige lid bedoelde bevoegdheid en het onderzoek ter plaatse aanleiding heeft gegeven tot bijhouding, vindt bijhouding plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. Indien de Dienst gebruik heeft gemaakt van de in het vorige lid bedoelde bevoegdheid en het onderzoek ter plaatse aanleiding heeft gegeven tot bijhouding, vindt bijhouding plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-3. Ingeval het onderzoek geen aanleiding geeft tot bijhouding is [artikel 68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=68&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing.
+3. Ingeval het onderzoek geen aanleiding geeft tot bijhouding is [artikel 68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=68&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
 #### § 5. Bijhouding op grond van inlichtingen of waarnemingen omtrent de feitelijke gesteldheid van onroerende zaken
 
@@ -996,35 +996,35 @@ De wijze van bijhouding in de basisregistratie kadaster met betrekking tot voorl
 
 ##### Artikel 73
 
-1. De Dienst kan besluiten tot splitsing of samenvoeging van percelen in bij of krachtens algemene maatregel van bestuur te bepalen gevallen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. De Dienst kan besluiten tot splitsing of samenvoeging van percelen in bij of krachtens algemene maatregel van bestuur te bepalen gevallen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Een eigenaar van, of een beperkt gerechtigde met betrekking tot, een onroerende zaak, kan in bij of krachtens algemene maatregel van bestuur te bepalen gevallen een verzoek tot splitsing of samenvoeging van percelen doen met betrekking tot die onroerende zaak, indien hij daarbij een redelijk belang heeft. Indien het verzoek afkomstig is van een beperkt gerechtigde moet de eigenaar van die onroerende zaak door de Dienst worden gehoord alvorens tot bijhouding kan worden overgegaan.
 
-3. Indien naar zijn oordeel nodig wint de daarmee belaste ambtenaar ter plaatse nadere inlichtingen in. Van het voornemen daartoe wordt alsdan mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26). [Artikel 57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. Indien naar zijn oordeel nodig wint de daarmee belaste ambtenaar ter plaatse nadere inlichtingen in. Van het voornemen daartoe wordt alsdan mededeling gedaan overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01). [Artikel 57, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-4. Voorts is [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing.
+4. Voorts is [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
-5. Voor zover het verzoek wordt toegewezen, vindt de bijhouding plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+5. Voor zover het verzoek wordt toegewezen, vindt de bijhouding plaats op grondslag van het relaas van bevindingen. [Artikel 58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 3. Vernieuwing
 
 ##### Artikel 74
 
-In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd te onderzoeken of de gegevens betreffende de rechtstoestand, de grootte en feitelijke gesteldheid van onroerende zaken, alsmede de gegevens betreffende de rechtstoestand van de rechten waaraan deze onroerende zaken onderworpen zijn, die zijn weergegeven in de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), juist en volledig zijn.
+In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd te onderzoeken of de gegevens betreffende de rechtstoestand, de grootte en feitelijke gesteldheid van onroerende zaken, alsmede de gegevens betreffende de rechtstoestand van de rechten waaraan deze onroerende zaken onderworpen zijn, die zijn weergegeven in de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), juist en volledig zijn.
 
 ##### Artikel 75
 
 1. Vóór de aanvang van een onderzoek van vernieuwing maakt de Dienst het voornemen daartoe openbaar overeenkomstig door Onze Minister vast te stellen regels. Bij algemene maatregel van bestuur kan voor daarin omschreven gevallen worden bepaald dat openbaarmaking achterwege kan blijven op de grond dat het bereiken van alle belanghebbenden door het bepaalde in het tweede lid voldoende gewaarborgd is.
 
-2. De Dienst doet in elk geval van een voornemen tot een onderzoek van vernieuwing per brief mededeling aan de eigenaar en beperkt gerechtigde met betrekking tot de onroerende zaak, waarop de vernieuwing betrekking heeft, alsmede aan de personen die bij de Dienst anderszins als belanghebbenden bij de vernieuwing bekend zijn. [Artikel 57, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. De Dienst doet in elk geval van een voornemen tot een onderzoek van vernieuwing per brief mededeling aan de eigenaar en beperkt gerechtigde met betrekking tot de onroerende zaak, waarop de vernieuwing betrekking heeft, alsmede aan de personen die bij de Dienst anderszins als belanghebbenden bij de vernieuwing bekend zijn. [Artikel 57, eerste lid, tweede zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=57&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 3. Een voornemen tot een onderzoek van vernieuwing wordt bij het desbetreffende perceel in de basisregistratie kadaster vermeld volgens door het bestuur van de Dienst vast te stellen regelen.
 
-4. In de brief, bedoeld in het tweede lid, wordt gewezen op de in [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2018-07-28&g=2019-09-26), genoemde gevolgen die de wet aan de vernieuwing verbindt.
+4. In de brief, bedoeld in het tweede lid, wordt gewezen op de in [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2020-01-01&g=2020-01-01), genoemde gevolgen die de wet aan de vernieuwing verbindt.
 
 ##### Artikel 76
 
-1. De met het onderzoek van vernieuwing belaste ambtenaar wint, zonodig ter plaatse, inlichtingen in, verzoekt zonodig om overlegging of openlegging van bescheiden en doet de nodige waarnemingen. De belanghebbenden, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=75&z=2018-07-28&g=2019-09-26), dienen, indien naar het oordeel van de ambtenaar nodig door aanwijzing ter plaatse, de door de ambtenaar voor de vernieuwing benodigde inlichtingen te verschaffen en daartoe zonodig bescheiden over te leggen of open te leggen. [Artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. De met het onderzoek van vernieuwing belaste ambtenaar wint, zonodig ter plaatse, inlichtingen in, verzoekt zonodig om overlegging of openlegging van bescheiden en doet de nodige waarnemingen. De belanghebbenden, bedoeld in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=75&z=2020-01-01&g=2020-01-01), dienen, indien naar het oordeel van de ambtenaar nodig door aanwijzing ter plaatse, de door de ambtenaar voor de vernieuwing benodigde inlichtingen te verschaffen en daartoe zonodig bescheiden over te leggen of open te leggen. [Artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=2&artikel=67&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Op de grondslag van het relaas van bevindingen worden voorstellen van vernieuwing gemaakt. Alvorens daartoe wordt overgegaan, wordt nagegaan of na het onderzoek van vernieuwing met betrekking tot de onroerende zaak waarop het voorstel betrekking heeft, nog bijhoudingen hebben plaatsgevonden. Is dat het geval dan wordt in het voorstel afzonderlijk melding gemaakt van die bijhoudingen, overeenkomstig door het bestuur van de Dienst vast te stellen regelen. Elk voorstel bevat in elk geval de gegevens omtrent de rechten, de rechthebbenden, de grootte, de kadastrale aanduiding van de onroerende zaak waarop het betrekking heeft, zoals deze luiden op de dag waarop het voorstel is opgemaakt.
 
@@ -1034,7 +1034,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 5. In het voorstel worden slechts gegevens omtrent die erfdienstbaarheden vermeld welke in de basisregistratie kadaster zijn vermeld, of, indien niet daarin vermeld, waarvan het bestaan aannemelijk is geworden op grond van inlichtingen, bescheiden of waarnemingen, als bedoeld in het eerste lid.
 
-6. Het voorstel van vernieuwing wordt bekend gemaakt aan belanghebbenden. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing. Bij toepassing van [artikel 56b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2018-07-28&g=2019-09-26) bevat de beslissing van de ambtenaar op het bezwaarschrift alle gegevens uit het voorstel van vernieuwing omtrent de rechten, de rechthebbenden, de kadastrale aanduiding en de grootte van de onroerende zaak, waarop de vernieuwing betrekking heeft, ook die waarvan de juistheid door belanghebbenden niet is betwist.
+6. Het voorstel van vernieuwing wordt bekend gemaakt aan belanghebbenden. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing. Bij toepassing van [artikel 56b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2020-01-01&g=2020-01-01) bevat de beslissing van de ambtenaar op het bezwaarschrift alle gegevens uit het voorstel van vernieuwing omtrent de rechten, de rechthebbenden, de kadastrale aanduiding en de grootte van de onroerende zaak, waarop de vernieuwing betrekking heeft, ook die waarvan de juistheid door belanghebbenden niet is betwist.
 
 7. Het bestuur van de Dienst maakt het voorstel van vernieuwing bekend overeenkomstig [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42). Van de indiening van bezwaarschriften en het instellen van beroep, alsmede van daarop gegeven beslissingen wordt bij het voorstel melding gemaakt overeenkomstig door het bestuur van de Dienst vast te stellen regelen.
 
@@ -1044,7 +1044,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 2. Een akte van vernieuwing kan op één of meer voorstellen van vernieuwing betrekking hebben. De akte bevat ten aanzien van elke onroerende zaak waarop de vernieuwing betrekking heeft, het relaas van bevindingen, de inhoud van het voorstel van vernieuwingen en, ingeval er onherroepelijk op bezwaar is beslist of door de rechtbank uitspraak is gedaan, die beslissing of uitspraak. Bescheiden die tijdens het onderzoek aan de met het onderzoek van vernieuwing belaste ambtenaar worden overgelegd, worden in de akte vermeld en daaraan in afschrift gehecht.
 
-3. Tevens worden overeenkomstig door het bestuur van de Dienst vast te stellen regelen aan de voet van de akte van vernieuwing ten aanzien van elke onroerende zaak waarop de vernieuwing betrekking heeft, afzonderlijk vermeld de in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2018-07-28&g=2019-09-26), bedoelde bijhoudingen alsmede die bijhoudingen, zo die hebben plaatsgevonden, welke zich hebben voorgedaan tussen het tijdstip van de dagtekening van het voorstel van vernieuwing en dat van de dagtekening van de akte van vernieuwing.
+3. Tevens worden overeenkomstig door het bestuur van de Dienst vast te stellen regelen aan de voet van de akte van vernieuwing ten aanzien van elke onroerende zaak waarop de vernieuwing betrekking heeft, afzonderlijk vermeld de in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2020-01-01&g=2020-01-01), bedoelde bijhoudingen alsmede die bijhoudingen, zo die hebben plaatsgevonden, welke zich hebben voorgedaan tussen het tijdstip van de dagtekening van het voorstel van vernieuwing en dat van de dagtekening van de akte van vernieuwing.
 
 4. Een bezwaar of beroep ter zake van een bijhouding, als bedoeld in het vorige lid, kan op verzoek van de belanghebbende gevoegd worden behandeld met bezwaren of beroepen ter zake van een voorstel van vernieuwing. De behandeling kan op verzoek van de belanghebbende ook worden aangehouden tot na het verlijden van de akte van vernieuwing.
 
@@ -1052,7 +1052,7 @@ In bij algemene maatregel van bestuur te bepalen gevallen is de Dienst bevoegd t
 
 ##### Artikel 78
 
-1. Na de inschrijving, bedoeld in [artikel 77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2018-07-28&g=2019-09-26), wordt de basisregistratie kadaster met bekwame spoed vernieuwd op de voet van de akte van vernieuwing.
+1. Na de inschrijving, bedoeld in [artikel 77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=77&z=2020-01-01&g=2020-01-01), wordt de basisregistratie kadaster met bekwame spoed vernieuwd op de voet van de akte van vernieuwing.
 
 2. Zij die volgens de akte van vernieuwing rechthebbende zijn op een daarin opgenomen onroerende zaak of recht dat geen recht van hypotheek is, gelden voor de toepassing van de verjaring, bedoeld in [artikel 99 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=99), met ingang van de dag van de inschrijving als bezitter te goeder trouw van die zaak of dat recht zoals zij in de akte worden omschreven.
 
@@ -1068,7 +1068,7 @@ Het bestuur van de Dienst stelt nadere regelen vast omtrent de in deze titel voo
 
 ##### Artikel 80
 
-Bij regeling van het bestuur van de Dienst kan worden bepaald dat in door het bestuur van de Dienst vast te stellen gevallen bij een kennisgeving van het resultaat van een bijhouding, als bedoeld in afdeling 2 , of bij een voorstel van vernieuwing, als bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2018-07-28&g=2019-09-26), een kaart wordt gevoegd weergevend de onroerende zaken ten aanzien waarvan de bijwerking heeft plaatsgevonden, onderscheidenlijk zal plaatsvinden.
+Bij regeling van het bestuur van de Dienst kan worden bepaald dat in door het bestuur van de Dienst vast te stellen gevallen bij een kennisgeving van het resultaat van een bijhouding, als bedoeld in afdeling 2 , of bij een voorstel van vernieuwing, als bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=76&z=2020-01-01&g=2020-01-01), een kaart wordt gevoegd weergevend de onroerende zaken ten aanzien waarvan de bijwerking heeft plaatsgevonden, onderscheidenlijk zal plaatsvinden.
 
 ##### Artikel 81
 
@@ -1078,13 +1078,13 @@ Bij regeling van het bestuur van de Dienst kan worden bepaald dat in door het be
 
 ##### Artikel 82
 
-Het bestuur van de Dienst stelt de vorm vast van de in deze titel voorziene mededelingen, kennisgevingen alsmede van de in deze titel voorziene te geven beslissingen op bezwaarschriften. Indien [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=80&z=2018-07-28&g=2019-09-26) toepassing heeft gevonden stelt het bestuur van de Dienst tevens de vorm vast van de in dat artikel bedoelde kaart.
+Het bestuur van de Dienst stelt de vorm vast van de in deze titel voorziene mededelingen, kennisgevingen alsmede van de in deze titel voorziene te geven beslissingen op bezwaarschriften. Indien [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=80&z=2020-01-01&g=2020-01-01) toepassing heeft gevonden stelt het bestuur van de Dienst tevens de vorm vast van de in dat artikel bedoelde kaart.
 
 ## Titel 2. Bijhouding van het net van coördinaatpunten
 
 ##### Artikel 83
 
-Het bestuur van de Dienst stelt regelen vast omtrent de bijhouding van het net van coördinaatpunten, bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2018-07-28&g=2019-09-26).
+Het bestuur van de Dienst stelt regelen vast omtrent de bijhouding van het net van coördinaatpunten, bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=52&z=2020-01-01&g=2020-01-01).
 
 ## Titel 3. Overige bepaling
 
@@ -1118,7 +1118,7 @@ Vervallen
 
 - 3°. voorrechten, genoemd in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=211) dan wel in [artikel 821 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=821);
 
-- d. de naam en het brandmerk, bedoeld in [artikel 21, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2018-07-28&g=2019-09-26);
+- d. de naam en het brandmerk, bedoeld in [artikel 21, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2020-01-01&g=2020-01-01);
 
 - e. de dagtekening der teboekstelling;
 
@@ -1126,19 +1126,19 @@ Vervallen
 
 - g. indien het een binnenschip betreft, het laadvermogen in tonnen van 1.000 kilogram of de verplaatsing in kubieke meters, zoals vermeld in de meetbrief, dan wel, indien het een zeeschip of een zeevissersschip betreft, de bruto-inhoud in kubieke meters of de bruto-tonnage, zoals vermeld in de meetbrief; ingeval geen meetbrief is vereist, het laadvermogen, de verplaatsing, de bruto-inhoud dan wel de bruto-tonnage, zoals kan worden vastgesteld aan de hand van de verstrekte gegevens; zolang een schip in aanbouw is, wordt het laadvermogen, de verplaatsing, de bruto-inhoud dan wel de bruto-tonnage geschat;
 
-- h. ten aanzien van elk schip een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven stukken en in het register van voorlopige aantekeningen geboekte stukken, alsmede door de Dienst verkregen inlichtingen als bedoeld in [artikel 87, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2018-07-28&g=2019-09-26);
+- h. ten aanzien van elk schip een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven stukken en in het register van voorlopige aantekeningen geboekte stukken, alsmede door de Dienst verkregen inlichtingen als bedoeld in [artikel 87, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2020-01-01&g=2020-01-01);
 
 - i. elk register waarin het schip heeft te boek gestaan;
 
-- j. voorzover op een schip een recht van hypotheek rust, ten minste de gegevens, genoemd in [artikel 48, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26);
+- j. voorzover op een schip een recht van hypotheek rust, ten minste de gegevens, genoemd in [artikel 48, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01);
 
 - k. gegevens die worden opgenomen op grond van andere wettelijke bepalingen;
 
 - l. in geval van mede-eigendom of een rederij: het aandeel van ieder der deelgenoten of reders.
 
-3. De gegevens, bedoeld in het tweede lid en [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), omtrent en de bescheiden betreffende schepen waarvan de teboekstelling is doorgehaald, blijven deel uitmaken van de registratie voor schepen.
+3. De gegevens, bedoeld in het tweede lid en [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), omtrent en de bescheiden betreffende schepen waarvan de teboekstelling is doorgehaald, blijven deel uitmaken van de registratie voor schepen.
 
-4. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede lid en in [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus registratie voor schepen. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
+4. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede lid en in [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus registratie voor schepen. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
 
 ## Titel 2. Bijwerking van de registratie voor schepen
 
@@ -1164,17 +1164,17 @@ Bijwerking vindt plaats als bijhouding.
 
 - b. dat in de registratie wordt vermeld op grond van welk ingeschreven of ander stuk een bijhouding heeft plaatsgevonden.
 
-4. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2018-07-28&g=2019-09-26) is van overeenkomstige toepassing.
+4. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 87a
 
-Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&z=2018-07-28&g=2019-09-26) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
+Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&z=2020-01-01&g=2020-01-01) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
 
 ##### Artikel 87b
 
 1. Belanghebbenden kunnen tegen beschikkingen inzake de bijwerking, genomen krachtens deze titel, bezwaar maken nadat zij is voltooid.
 
-2. Geen bezwaar staat open tegen bijhoudingen als bedoeld in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2018-07-28&g=2019-09-26).
+2. Geen bezwaar staat open tegen bijhoudingen als bedoeld in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2020-01-01&g=2020-01-01).
 
 ### Afdeling 2. Bijhouding op grond van stukken ingeschreven in de openbare registers, bedoeld in artikel 8, eerste lid, onder b
 
@@ -1182,15 +1182,15 @@ Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 5](https://w
 
 1. Ingeval de bijhouding waartoe een ingeschreven stuk aanleiding geeft, met betrekking tot een schip is voltooid en heeft geleid tot wijziging of aanvulling van de in de registratie voor schepen vermeld staande gegevens betreffende de eigenaars of beperkt gerechtigden, dan wel de naam van het schip waarop het ingeschreven feit betrekking heeft, wordt het resultaat van die bijhouding door toezending of uitreiking aan belanghebbenden bekendgemaakt.
 
-2. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is voorts van overeenkomstige toepassing.
+2. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is voorts van overeenkomstige toepassing.
 
 ##### Artikel 89
 
-1. Ingeval blijkt dat in een stuk dat is ingeschreven in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), één of meer der in dat stuk vermelde gegevens, als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2018-07-28&g=2019-09-26), onverenigbaar zijn met de in de registratie voor schepen vermeld staande gegevens ten aanzien van het schip waarop het in te schrijven feit betrekking heeft, vindt [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=2&artikel=88&z=2018-07-28&g=2019-09-26) slechts toepassing voor zover bijhouding mogelijk is ingevolge de op grond van het volgende lid vast te stellen regelen.
+1. Ingeval blijkt dat in een stuk dat is ingeschreven in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), één of meer der in dat stuk vermelde gegevens, als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2020-01-01&g=2020-01-01), onverenigbaar zijn met de in de registratie voor schepen vermeld staande gegevens ten aanzien van het schip waarop het in te schrijven feit betrekking heeft, vindt [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=2&artikel=88&z=2020-01-01&g=2020-01-01) slechts toepassing voor zover bijhouding mogelijk is ingevolge de op grond van het volgende lid vast te stellen regelen.
 
-2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt, indien een geval, als bedoeld in het eerste lid zich voordoet, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2018-07-28&g=2019-09-26), is ingeschreven in de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), bedoelde openbare registers.
+2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt, indien een geval, als bedoeld in het eerste lid zich voordoet, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2020-01-01&g=2020-01-01), is ingeschreven in de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde openbare registers.
 
-3. [Artikel 59, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=59&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. [Artikel 59, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=59&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 90
 
@@ -1212,15 +1212,15 @@ Vervallen
 
 - a. de naam van de eigenaar van, of beperkt gerechtigde met betrekking tot, een luchtvaartuig;
 
-- b. het in [artikel 22, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2018-07-28&g=2019-09-26), bedoelde inschrijvingskenmerk, en
+- b. het in [artikel 22, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2020-01-01&g=2020-01-01), bedoelde inschrijvingskenmerk, en
 
-- c. het in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2018-07-28&g=2019-09-26), bedoelde boekingsnummer.
+- c. het in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2020-01-01&g=2020-01-01), bedoelde boekingsnummer.
 
 2. De registratie voor luchtvaartuigen bevat:
 
 - a. naam, voornamen, adres, geboortedatum en burgerlijke staat van de eigenaar van, beperkt gerechtigde met betrekking tot, of beslaglegger op een luchtvaartuig of, ingeval die eigenaar, gerechtigde of beslaglegger een rechtspersoon is, de rechtsvorm;
 
-- b. ten aanzien van een eigenaar en beperkt gerechtigde als bedoeld in onderdeel a: een verwijzing naar alle op hen betrekking hebbende in de openbare registers, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), ingeschreven stukken of geboekte stukken, voorzover die stukken betreffen luchtvaartuigen en rechten waaraan die luchtvaartuigen zijn onderworpen;
+- b. ten aanzien van een eigenaar en beperkt gerechtigde als bedoeld in onderdeel a: een verwijzing naar alle op hen betrekking hebbende in de openbare registers, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), ingeschreven stukken of geboekte stukken, voorzover die stukken betreffen luchtvaartuigen en rechten waaraan die luchtvaartuigen zijn onderworpen;
 
 - c. de wettelijke benaming van de beperkte rechten waaraan de luchtvaartuigen onderworpen zijn, en van de beslagen die op die luchtvaartuigen of beperkte rechten zijn gelegd, als ook of die luchtvaartuigen of beperkte rechten onder bewind staan, alsmede of ten aanzien daarvan zijn ingeschreven:
 
@@ -1234,21 +1234,21 @@ Vervallen
 
 - f. de maximaal toegelaten startmassa;
 
-- g. de dagtekening van de teboekstelling en het boekingsnummer, bedoeld in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2018-07-28&g=2019-09-26);
+- g. de dagtekening van de teboekstelling en het boekingsnummer, bedoeld in [artikel 22, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2020-01-01&g=2020-01-01);
 
-- h. ten aanzien van elk luchtvaartuig een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven stukken en in het register van voorlopige aantekeningen geboekte stukken, alsmede door de Dienst verkregen inlichtingen als bedoeld in [artikel 94, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2018-07-28&g=2019-09-26);
+- h. ten aanzien van elk luchtvaartuig een verwijzing naar alle daarop betrekking hebbende, in de openbare registers ingeschreven stukken en in het register van voorlopige aantekeningen geboekte stukken, alsmede door de Dienst verkregen inlichtingen als bedoeld in [artikel 94, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2020-01-01&g=2020-01-01);
 
 - i. elk register waarin het luchtvaartuig heeft te boek gestaan;
 
-- j. voorzover op een luchtvaartuig een recht van hypotheek rust, ten minste de gegevens, genoemd in [artikel 48, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26);
+- j. voorzover op een luchtvaartuig een recht van hypotheek rust, ten minste de gegevens, genoemd in [artikel 48, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01);
 
 - k. gegevens die worden opgenomen op grond van andere wettelijke bepalingen;
 
 - l. in geval van een gemeenschap, het aandeel van ieder der deelgenoten.
 
-3. [Artikel 85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. [Artikel 85, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-4. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede lid en in [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus registratie voor luchtvaartuigen. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
+4. De detaillering, verbijzondering en beschrijving van gegevens als bedoeld in het tweede lid en in [artikel 7g, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), vinden plaats in de door het bestuur van de Dienst vastgestelde catalogus registratie voor luchtvaartuigen. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
 
 ## Titel 2. Bijhouding van het net van coördinaatpunten
 
@@ -1274,19 +1274,19 @@ Bijwerking vindt plaats als bijhouding.
 
 - b. dat in de registratie wordt vermeld op grond van welk ingeschreven of ander stuk een bijhouding heeft plaatsgevonden.
 
-4. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2018-07-28&g=2019-09-26) is van overeenkomstige toepassing.
+4. [Artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=4&artikel=72&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 94a
 
-Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&z=2018-07-28&g=2019-09-26) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
+Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&z=2020-01-01&g=2020-01-01) van deze wet, zijn de [artikelen 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en [3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) niet van toepassing.
 
 ##### Artikel 94b
 
 1. Belanghebbenden kunnen tegen beschikkingen inzake de bijwerking, genomen krachtens deze titel, bezwaar maken nadat zij is voltooid.
 
-2. Geen bezwaar staat open tegen bijhoudingen als bedoeld in [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2018-07-28&g=2019-09-26).
+2. Geen bezwaar staat open tegen bijhoudingen als bedoeld in [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2020-01-01&g=2020-01-01).
 
-3. [Artikel 56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. [Artikel 56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 1. Algemene bepalingen
 
@@ -1294,15 +1294,15 @@ Op beschikkingen inzake de bijhouding, genomen krachtens [hoofdstuk 6](https://w
 
 1. Ingeval de bijhouding waartoe een ingeschreven stuk aanleiding geeft, met betrekking tot een luchtvaartuig is voltooid en heeft geleid tot wijziging of aanvulling van de in de registratie voor luchtvaartuigen vermeld staande gegevens betreffende de eigenaars of beperkt gerechtigden, dan wel de naam van het luchtvaartuig waarop het ingeschreven feit betrekking heeft, wordt het resultaat van die bijhouding door toezending of uitreiking aan belanghebbenden bekendgemaakt.
 
-2. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), is voorts van overeenkomstige toepassing.
+2. [Artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), is voorts van overeenkomstige toepassing.
 
 ##### Artikel 96
 
-1. Ingeval blijkt dat in een stuk, dat is ingeschreven in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), één of meer der in dat stuk vermelde gegevens, als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2018-07-28&g=2019-09-26), onverenigbaar zijn met de in de registratie voor luchtvaartuigen vermeld staande gegevens ten aanzien van het luchtvaartuig waarop het in te schrijven feit betrekking heeft, vindt [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=2&artikel=95&z=2018-07-28&g=2019-09-26) slechts toepassing voor zover bijhouding mogelijk is ingevolge de op grond van het volgende lid vast te stellen regelen.
+1. Ingeval blijkt dat in een stuk, dat is ingeschreven in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), één of meer der in dat stuk vermelde gegevens, als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=22&z=2020-01-01&g=2020-01-01), onverenigbaar zijn met de in de registratie voor luchtvaartuigen vermeld staande gegevens ten aanzien van het luchtvaartuig waarop het in te schrijven feit betrekking heeft, vindt [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=2&artikel=95&z=2020-01-01&g=2020-01-01) slechts toepassing voor zover bijhouding mogelijk is ingevolge de op grond van het volgende lid vast te stellen regelen.
 
-2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt indien een geval, als bedoeld in het eerste lid, zich voordoet, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2018-07-28&g=2019-09-26), is ingeschreven in de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), bedoelde openbare registers.
+2. Bij of krachtens algemene maatregel van bestuur wordt geregeld in hoeverre en op welke wijze bijhouding plaatsvindt indien een geval, als bedoeld in het eerste lid, zich voordoet, in dier voege dat de bijhouding waartoe het ingeschreven stuk aanleiding geeft, eerst wordt voltooid nadat een stuk tot verbetering, als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=42&z=2020-01-01&g=2020-01-01), is ingeschreven in de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde openbare registers.
 
-3. [Artikel 59, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=59&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. [Artikel 59, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=59&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 97
 
@@ -1324,11 +1324,11 @@ Vervallen
 
 1. Desgevraagd verleent de Dienst inzage van de openbare registers en geeft hij af of zendt toe voor eensluidend gewaarmerkte afschriften of uittreksels van de in die registers ingeschreven of geboekte stukken, en getuigschriften omtrent het al dan niet bestaan van inschrijvingen of voorlopige aantekeningen betreffende een registergoed of een persoon.
 
-2. Indien met betrekking tot een registergoed in het register van voorlopige aantekeningen, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), voorlopige aantekeningen zijn gesteld die nog niet zijn doorgehaald, wordt op de getuigschriften inzake dat registergoed melding gemaakt van die nog niet doorgehaalde voorlopige aantekeningen.
+2. Indien met betrekking tot een registergoed in het register van voorlopige aantekeningen, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), voorlopige aantekeningen zijn gesteld die nog niet zijn doorgehaald, wordt op de getuigschriften inzake dat registergoed melding gemaakt van die nog niet doorgehaalde voorlopige aantekeningen.
 
 ##### Artikel 100
 
-1. Desgevraagd verleent de Dienst inzage van de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), en geeft hij voor eensluidend gewaarmerkte afschriften of uittreksels daarvan af of zendt die toe.
+1. Desgevraagd verleent de Dienst inzage van de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), en geeft hij voor eensluidend gewaarmerkte afschriften of uittreksels daarvan af of zendt die toe.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gevallen waarin de verstrekking van inlichtingen uit de kadastrale kaarten en de daaraan ten grondslag liggende bescheiden na een verzoek daartoe in papieren vorm te velde kan plaatsvinden, en met betrekking tot de daarbij in acht te nemen regels.
 
@@ -1350,17 +1350,17 @@ Vervallen
 
 ##### Artikel 103
 
-1. Desgevraagd geeft de Dienst een verklaring af dat sedert het tijdstip waarop een getuigschrift, afschrift of uittreksel als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26) door hem is afgegeven, in de daarin vermelde gegevens geen wijziging is opgetreden.
+1. Desgevraagd geeft de Dienst een verklaring af dat sedert het tijdstip waarop een getuigschrift, afschrift of uittreksel als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01) door hem is afgegeven, in de daarin vermelde gegevens geen wijziging is opgetreden.
 
 2. Het eerste lid is niet van toepassing op afschriften en uittreksels van de kadastrale kaart.
 
 ##### Artikel 104
 
-1. Onverminderd [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2018-07-28&g=2019-09-26), verstrekt de Dienst desgevraagd aan gemeenten en andere publiekrechtelijke lichamen voor hun grondgebied een afschrift van de basisregistratie kadaster.
+1. Onverminderd [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2020-01-01&g=2020-01-01), verstrekt de Dienst desgevraagd aan gemeenten en andere publiekrechtelijke lichamen voor hun grondgebied een afschrift van de basisregistratie kadaster.
 
 2. Door het bestuur van de Dienst worden in overleg met betrokkenen regels gesteld met betrekking tot de wijze waarop door de Dienst, al of niet periodiek, grote hoeveelheden gegevens uit de basisregistratie kadaster aan gemeenten en andere publiekrechtelijke lichamen worden verstrekt.
 
-3. Op de verstrekking van gegevens, bedoeld in het eerste en tweede lid, zijn de [artikelen 108 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=108&z=2018-07-28&g=2019-09-26) van overeenkomstige toepassing, met dien verstande dat bij de vaststelling van de hoogte van het verschuldigde kadastraal recht rekening wordt gehouden met besparingen die voortvloeien uit het feit dat grote hoeveelheden gegevens tegelijkertijd worden verstrekt.
+3. Op de verstrekking van gegevens, bedoeld in het eerste en tweede lid, zijn de [artikelen 108 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=108&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing, met dien verstande dat bij de vaststelling van de hoogte van het verschuldigde kadastraal recht rekening wordt gehouden met besparingen die voortvloeien uit het feit dat grote hoeveelheden gegevens tegelijkertijd worden verstrekt.
 
 ##### Artikel 105
 
@@ -1372,11 +1372,11 @@ Vervallen
 
 ##### Artikel 106
 
-1. De bewaarder is belast met de verstrekking van de inlichtingen, bedoeld in de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26), [100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2018-07-28&g=2019-09-26), voorzover betreffend de basisregistratie kadaster, en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=101&z=2018-07-28&g=2019-09-26), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=102&z=2018-07-28&g=2019-09-26) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=103&z=2018-07-28&g=2019-09-26).
+1. De bewaarder is belast met de verstrekking van de inlichtingen, bedoeld in de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01), [100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2020-01-01&g=2020-01-01), voorzover betreffend de basisregistratie kadaster, en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=101&z=2020-01-01&g=2020-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=102&z=2020-01-01&g=2020-01-01) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=103&z=2020-01-01&g=2020-01-01).
 
 2. Het bestuur van de Dienst kan andere personen behorend tot het personeel van de Dienst dan de bewaarder belasten met de verstrekking van de inlichtingen, bedoeld in het eerste lid.
 
-3. Het bestuur van de Dienst wijst ambtenaren aan die belast zijn met de verstrekking van de inlichtingen, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2018-07-28&g=2019-09-26), met uitzondering van inlichtingen uit de basisregistratie kadaster, en [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=102a&z=2018-07-28&g=2019-09-26).
+3. Het bestuur van de Dienst wijst ambtenaren aan die belast zijn met de verstrekking van de inlichtingen, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=100&z=2020-01-01&g=2020-01-01), met uitzondering van inlichtingen uit de basisregistratie kadaster, en [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=102a&z=2020-01-01&g=2020-01-01).
 
 ### Afdeling 2. Verstrekking van inlichtingen uit de kadastrale registratie, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
 
@@ -1384,19 +1384,19 @@ Vervallen
 
 Het bestuur van de Dienst stelt vast:
 
-- a. de vorm van de afschriften, uittreksels, getuigschriften en verklaringen, bedoeld in de [artikelen 99 tot en met 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26), alsmede de gevallen waarin de Dienst getuigschriften opmaakt;
+- a. de vorm van de afschriften, uittreksels, getuigschriften en verklaringen, bedoeld in de [artikelen 99 tot en met 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01), alsmede de gevallen waarin de Dienst getuigschriften opmaakt;
 
-- b. de wijze en plaats van raadpleging van de openbare registers, de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), de registratie voor schepen en andere documenten betreffende schepen, de registratie voor luchtvaartuigen en andere documenten betreffende luchtvaartuigen, de geografische gegevens en de aan die gegevens ten grondslag liggende bescheiden;
+- b. de wijze en plaats van raadpleging van de openbare registers, de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), de registratie voor schepen en andere documenten betreffende schepen, de registratie voor luchtvaartuigen en andere documenten betreffende luchtvaartuigen, de geografische gegevens en de aan die gegevens ten grondslag liggende bescheiden;
 
-- c. de vorm van de verklaring, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=103&z=2018-07-28&g=2019-09-26), en de wijze waarop de afschriften, uittreksels en getuigschriften, bedoeld in dat artikel, worden voorzien van die verklaring;
+- c. de vorm van de verklaring, bedoeld in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=103&z=2020-01-01&g=2020-01-01), en de wijze waarop de afschriften, uittreksels en getuigschriften, bedoeld in dat artikel, worden voorzien van die verklaring;
 
-- d. de wijze waarop de waarmerking, bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26), van in papieren vorm te verstrekken afschriften, uittreksels en getuigschriften als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26) plaatsvindt;
+- d. de wijze waarop de waarmerking, bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01), van in papieren vorm te verstrekken afschriften, uittreksels en getuigschriften als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01) plaatsvindt;
 
-- e. de wijze waarop in elektronische vorm te verstrekken getuigschriften, afschriften, uittreksels en verklaringen als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26) worden gewaarmerkt, waartoe zij ten minste worden voorzien van een elektronische handtekening van de bewaarder en welke waarmerking wat betreft afschriften en uittreksels mede omvat de waarmerking voor eensluidendheid;
+- e. de wijze waarop in elektronische vorm te verstrekken getuigschriften, afschriften, uittreksels en verklaringen als bedoeld in de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01) worden gewaarmerkt, waartoe zij ten minste worden voorzien van een elektronische handtekening van de bewaarder en welke waarmerking wat betreft afschriften en uittreksels mede omvat de waarmerking voor eensluidendheid;
 
 - f. de wijze waarop inlichtingen over het net van coördinaatpunten worden verstrekt, en
 
-- g. de wijze waarop inlichtingen over geografische gegevens als bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2018-07-28&g=2019-09-26), worden verstrekt en de wijze waarop inzage wordt verleend van de aan die geografische gegevens ten grondslag liggende bescheiden.
+- g. de wijze waarop inlichtingen over geografische gegevens als bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), worden verstrekt en de wijze waarop inzage wordt verleend van de aan die geografische gegevens ten grondslag liggende bescheiden.
 
 ### Afdeling 5. Bepalingen in verband met de bescherming van de persoonlijke levenssfeer
 
@@ -1404,21 +1404,21 @@ Het bestuur van de Dienst stelt vast:
 
 1. Artikel 15 van de Algemene verordening gegevensbescherming is niet van toepassing ingeval de verstrekking van inlichtingen ingevolge deze titel persoonsgegevens betreft.
 
-2. Een beslissing tot afwijzing van een verzoek om inlichtingen ingevolge deze titel, geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). De [artikelen 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2018-07-28&g=2019-09-26), en [58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), zijn van overeenkomstige toepassing.
+2. Een beslissing tot afwijzing van een verzoek om inlichtingen ingevolge deze titel, geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). De [artikelen 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2020-01-01&g=2020-01-01), en [58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 107b
 
-Ter bescherming van de persoonlijke levenssfeer van personen die in de basisregistratie kadaster, de registratie voor schepen en in de registratie voor luchtvaartuigen vermeld staan, kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen soort of soorten van persoonsgegevens beperkingen worden vastgesteld ten aanzien van de verstrekking van inlichtingen als bedoeld in de [artikelen 99 tot en met 107](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2018-07-28&g=2019-09-26). Daarbij kunnen tevens regels worden vastgesteld voor de behandeling van verzoeken tot afscherming van persoonsgegevens.
+Ter bescherming van de persoonlijke levenssfeer van personen die in de basisregistratie kadaster, de registratie voor schepen en in de registratie voor luchtvaartuigen vermeld staan, kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen soort of soorten van persoonsgegevens beperkingen worden vastgesteld ten aanzien van de verstrekking van inlichtingen als bedoeld in de [artikelen 99 tot en met 107](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=99&z=2020-01-01&g=2020-01-01). Daarbij kunnen tevens regels worden vastgesteld voor de behandeling van verzoeken tot afscherming van persoonsgegevens.
 
 ##### Artikel 107c
 
-De Dienst kan slechts een verzameling van persoonsgegevens verstrekken in een zodanige vorm dat daarop rechtstreeks een geautomatiseerde verwerking mogelijk is ten aanzien van een op voorhand onbepaalde groep van personen, indien dit voortvloeit uit een van de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2018-07-28&g=2019-09-26), de aanvrager deze gegevens kan verwerken op één van de gronden, bedoeld in artikel 6, eerste lid, onder c tot en met f, van de Algemene verordening gegevensbescherming en zulks is toegestaan bij algemene maatregel van bestuur.
+De Dienst kan slechts een verzameling van persoonsgegevens verstrekken in een zodanige vorm dat daarop rechtstreeks een geautomatiseerde verwerking mogelijk is ten aanzien van een op voorhand onbepaalde groep van personen, indien dit voortvloeit uit een van de doeleinden, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=2a&z=2020-01-01&g=2020-01-01), de aanvrager deze gegevens kan verwerken op één van de gronden, bedoeld in artikel 6, eerste lid, onder c tot en met f, van de Algemene verordening gegevensbescherming en zulks is toegestaan bij algemene maatregel van bestuur.
 
 ## Titel 2. kadastraal recht
 
 ##### Artikel 108
 
-1. Onder de naam van kadastraal recht zijn betrokkenen aan de Dienst wegens het verrichten door de Dienst van werkzaamheden ter uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2018-07-28&g=2019-09-26), vergoedingen verschuldigd overeenkomstig de door de Dienst vastgestelde regels.
+1. Onder de naam van kadastraal recht zijn betrokkenen aan de Dienst wegens het verrichten door de Dienst van werkzaamheden ter uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), vergoedingen verschuldigd overeenkomstig de door de Dienst vastgestelde regels.
 
 2. De tarieven van het kadastraal recht worden tot geen hoger bedrag vastgesteld dan wordt vereist tot dekking van de ten laste van de Dienst komende kosten van het verrichten van de werkzaamheden, bedoeld in het eerste lid.
 
@@ -1430,7 +1430,7 @@ De Dienst kan slechts een verzameling van persoonsgegevens verstrekken in een zo
 
 ##### Artikel 109
 
-In de regeling, bedoeld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=108&z=2018-07-28&g=2019-09-26), kan de Dienst regels stellen met betrekking tot de gevallen waarin en de verrichtingen ten aanzien waarvan in die gevallen geen kadastraal recht is verschuldigd.
+In de regeling, bedoeld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=108&z=2020-01-01&g=2020-01-01), kan de Dienst regels stellen met betrekking tot de gevallen waarin en de verrichtingen ten aanzien waarvan in die gevallen geen kadastraal recht is verschuldigd.
 
 ##### Artikel 110
 
@@ -1444,11 +1444,11 @@ Op beschikkingen, genomen krachtens hoofdstuk 8 van deze wet, zijn de [artikelen
 
 ##### Artikel 111
 
-1. De Dienst is bevoegd om, anders dan ingevolge de bepalingen omtrent de bijwerking, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2018-07-28&g=2019-09-26), in door Onze Minister te bepalen gevallen de kadastrale aanduiding van onroerende zaken en appartementsrechten te wijzigen en de grootte van percelen opnieuw vast te stellen. Het bestuur van de Dienst stelt regelen vast omtrent de wijze waarop wijzigingen, als bedoeld in de eerste zin, in de basisregistratie kadaster worden weergegeven.
+1. De Dienst is bevoegd om, anders dan ingevolge de bepalingen omtrent de bijwerking, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&z=2020-01-01&g=2020-01-01), in door Onze Minister te bepalen gevallen de kadastrale aanduiding van onroerende zaken en appartementsrechten te wijzigen en de grootte van percelen opnieuw vast te stellen. Het bestuur van de Dienst stelt regelen vast omtrent de wijze waarop wijzigingen, als bedoeld in de eerste zin, in de basisregistratie kadaster worden weergegeven.
 
-2. Indien de Dienst ambtshalve de kadastrale aanduiding van een onroerende zaak of van een appartementsrecht wijzigt, als bedoeld in het eerste lid, is [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing. Tegen deze wijziging staat generlei voorziening open.
+2. Indien de Dienst ambtshalve de kadastrale aanduiding van een onroerende zaak of van een appartementsrecht wijzigt, als bedoeld in het eerste lid, is [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing. Tegen deze wijziging staat generlei voorziening open.
 
-3. Indien de Dienst ambtshalve de grootte van een perceel opnieuw vaststelt, als bedoeld in het eerste lid, en deze afwijkt van de in de basisregistratie kadaster vermeld staande grootte vóór de herberekening, zijn de [artikelen 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2018-07-28&g=2019-09-26), en [58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing.
+3. Indien de Dienst ambtshalve de grootte van een perceel opnieuw vaststelt, als bedoeld in het eerste lid, en deze afwijkt van de in de basisregistratie kadaster vermeld staande grootte vóór de herberekening, zijn de [artikelen 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=56b&z=2020-01-01&g=2020-01-01), en [58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=2&paragraaf=1&artikel=58&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 112
 
@@ -1476,15 +1476,15 @@ Het bestuur van de Dienst stelt regels met betrekking tot de wijze waarop een ve
 
 2. De Dienst is eveneens aansprakelijk voor alle verdere vergissingen, verzuimen, vertragingen of andere onregelmatigheden van zijn ambtenaren, gepleegd bij het houden van de openbare registers of bij het opmaken of afgeven van afschriften, uittreksels en getuigschriften.
 
-3. De Dienst is jegens betrokkenen aansprakelijk voor vergissingen, verzuimen of andere onregelmatigheden door de Dienst gepleegd bij het bijwerken van de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), alsmede van de registratie voor schepen en de registratie voor luchtvaartuigen.
+3. De Dienst is jegens betrokkenen aansprakelijk voor vergissingen, verzuimen of andere onregelmatigheden door de Dienst gepleegd bij het bijwerken van de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), alsmede van de registratie voor schepen en de registratie voor luchtvaartuigen.
 
-4. De Dienst is eveneens aansprakelijk voor alle vergissingen, verzuimen of andere onregelmatigheden van de Dienst, begaan bij het in papieren vorm en in elektronische vorm verstrekken van inlichtingen uit de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26), alsmede uit de registratie voor schepen en de registratie voor luchtvaartuigen.
+4. De Dienst is eveneens aansprakelijk voor alle vergissingen, verzuimen of andere onregelmatigheden van de Dienst, begaan bij het in papieren vorm en in elektronische vorm verstrekken van inlichtingen uit de basisregistratie kadaster en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01), alsmede uit de registratie voor schepen en de registratie voor luchtvaartuigen.
 
 5. De Dienst is aansprakelijk voor schade die is veroorzaakt door een vergissing, verzuim of een andere onregelmatigheid door hem begaan bij:
 
-- a. het vervaardigen, verzamelen, houden en bijwerken van geografische gegevens en het uniform en consistent cartografisch weergeven van die gegevens, bedoeld in [artikel 3, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2018-07-28&g=2019-09-26), en
+- a. het vervaardigen, verzamelen, houden en bijwerken van geografische gegevens en het uniform en consistent cartografisch weergeven van die gegevens, bedoeld in [artikel 3, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), en
 
-- b. het in papieren vorm en in elektronische vorm verstrekken van inlichtingen omtrent geografische gegevens, bedoeld in [artikel 3, eerste lid, onderdelen g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2018-07-28&g=2019-09-26).
+- b. het in papieren vorm en in elektronische vorm verstrekken van inlichtingen omtrent geografische gegevens, bedoeld in [artikel 3, eerste lid, onderdelen g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01).
 
 6. De Dienst is aansprakelijk voor de schade die is veroorzaakt door een vergissing, verzuim of andere onregelmatigheid van de Dienst, door hem begaan bij de registratie van gegevens, bedoeld in [artikel 6 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=6), en de uitwisseling of de verstrekking van gegevens, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=19) en [20 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=20). De Dienst is niet aansprakelijk voor schade die voortvloeit uit het door de Dienst verstrekken van informatie die afkomstig is van derden en inhoudelijk onjuist blijkt te zijn, of het niet tijdig ontvangen of kunnen verstrekken van informatie die afkomstig is van derden door handelen of nalaten van die derden.
 
@@ -1502,7 +1502,7 @@ Het bestuur van de Dienst stelt regels met betrekking tot de wijze waarop een ve
 
 1. Door het bestuur van de Dienst te nemen beslissingen en te stellen regels als bedoeld in deze wet, worden geplaatst in de **Staatscourant**.
 
-2. Het eerste lid is niet van toepassing op de beslissingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=6&z=2018-07-28&g=2019-09-26), [7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7&z=2018-07-28&g=2019-09-26), [8, derde lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), [9, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9&z=2018-07-28&g=2019-09-26), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9a&z=2018-07-28&g=2019-09-26), [11a, tweede lid, tweede zin, derde lid, tweede zin, en vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2018-07-28&g=2019-09-26), [11b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), [11c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2018-07-28&g=2019-09-26), [12, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2018-07-28&g=2019-09-26), [13, eerste lid, tweede zin, en tweede lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2018-07-28&g=2019-09-26), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2018-07-28&g=2019-09-26), [17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2018-07-28&g=2019-09-26), [46, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46&z=2018-07-28&g=2019-09-26), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=82&z=2018-07-28&g=2019-09-26), [107, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=107&z=2018-07-28&g=2019-09-26), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=110&z=2018-07-28&g=2019-09-26) en op de regels, bedoeld in de [artikelen 8, tweede lid, eerste en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), en [17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2018-07-28&g=2019-09-26).
+2. Het eerste lid is niet van toepassing op de beslissingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-01-01), [7, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), [8, derde lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), [9, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9&z=2020-01-01&g=2020-01-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9a&z=2020-01-01&g=2020-01-01), [11a, tweede lid, tweede zin, derde lid, tweede zin, en vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2020-01-01&g=2020-01-01), [11b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), [11c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2020-01-01&g=2020-01-01), [12, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2020-01-01&g=2020-01-01), [13, eerste lid, tweede zin, en tweede lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2020-01-01&g=2020-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2020-01-01&g=2020-01-01), [17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2020-01-01&g=2020-01-01), [46, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46&z=2020-01-01&g=2020-01-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=82&z=2020-01-01&g=2020-01-01), [107, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=1&afdeling=1&artikel=107&z=2020-01-01&g=2020-01-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=7&titeldeel=2&artikel=110&z=2020-01-01&g=2020-01-01) en op de regels, bedoeld in de [artikelen 8, tweede lid, eerste en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), en [17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=17&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 119
 
@@ -1514,7 +1514,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 37a
 
-Een notariële verklaring als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2018-07-28&g=2019-09-26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2018-07-28&g=2019-09-26), [31, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=31&z=2018-07-28&g=2019-09-26), juncto [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2018-07-28&g=2019-09-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2018-07-28&g=2019-09-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=35&z=2018-07-28&g=2019-09-26), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2018-07-28&g=2019-09-26) en [46a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46a&z=2018-07-28&g=2019-09-26), wordt opgemaakt bij notariële akte.
+Een notariële verklaring als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2020-01-01&g=2020-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=30&z=2020-01-01&g=2020-01-01), [31, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=31&z=2020-01-01&g=2020-01-01), juncto [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=26&z=2020-01-01&g=2020-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=34&z=2020-01-01&g=2020-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=35&z=2020-01-01&g=2020-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=36&z=2020-01-01&g=2020-01-01) en [46a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=3&artikel=46a&z=2020-01-01&g=2020-01-01), wordt opgemaakt bij notariële akte.
 
 ### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoekschrift, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
 
@@ -1614,7 +1614,7 @@ Vervallen
 
 2. De eigenaar, de beperkt gerechtigde en de gebruiker van een registergoed zijn verplicht aan een persoon als bedoeld in het eerste lid binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden, genoemd in het eerste lid, met dien verstande dat de toegang slechts wordt verleend tussen acht uur 's morgens en zes uur 's avonds en dat die niet behoeft te worden verleend op zaterdagen, zondagen en algemeen erkende feestdagen.
 
-3. De eigenaar, de beperkt gerechtigde en de gebruiker van een gebouw en grond zijn verplicht te gedogen dat daarop of daarin een teken wordt gesteld ter uitvoering van aan de Dienst opgedragen taken. De eerste zin is van overeenkomstige toepassing op het aanbrengen van een brandmerk op een schip als bedoeld in [artikel 21, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2018-07-28&g=2019-09-26).
+3. De eigenaar, de beperkt gerechtigde en de gebruiker van een gebouw en grond zijn verplicht te gedogen dat daarop of daarin een teken wordt gesteld ter uitvoering van aan de Dienst opgedragen taken. De eerste zin is van overeenkomstige toepassing op het aanbrengen van een brandmerk op een schip als bedoeld in [artikel 21, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=21&z=2020-01-01&g=2020-01-01).
 
 4. Indien de toegang wordt geweigerd, verschaffen de personen, bedoeld in het eerste lid, zich zo nodig toegang met behulp van de sterke arm. Indien het verrichten van de handelingen, bedoeld in het eerste lid, niet wordt toegestaan of de medewerking, bedoeld in het tweede lid, niet wordt verleend, zijn de personen, bedoeld in het eerste lid, bevoegd het verrichten van de handelingen, bedoeld in het eerste lid, zo nodig met behulp van de sterke arm mogelijk te maken.
 
@@ -1622,7 +1622,7 @@ Vervallen
 
 ##### Artikel 7b
 
-1. Een persoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7a&z=2018-07-28&g=2019-09-26), draagt bij het verrichten van de werkzaamheden, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7a&z=2018-07-28&g=2019-09-26), een legitimatiebewijs bij zich, dat is uitgegeven door het bestuur van de Dienst, en toont zijn legitimatiebewijs desgevraagd terstond.
+1. Een persoon als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7a&z=2020-01-01&g=2020-01-01), draagt bij het verrichten van de werkzaamheden, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=7a&z=2020-01-01&g=2020-01-01), een legitimatiebewijs bij zich, dat is uitgegeven door het bestuur van de Dienst, en toont zijn legitimatiebewijs desgevraagd terstond.
 
 2. Het legitimatiebewijs bevat een foto van de betrokken persoon en vermeldt in elk geval zijn naam en hoedanigheid.
 
@@ -1724,7 +1724,7 @@ Vervallen
 
 - j. functioneel gebied.
 
-3. De basisregistratie topografie bevat ten aanzien van elk geografisch object als bedoeld in het tweede lid een identificerend objectnummer en beschrijvende, geometrische, cartografische, temporele en meta-kenmerken overeenkomstig de door het bestuur van de Dienst vastgestelde catalogus basisregistratie topografie. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
+3. De basisregistratie topografie bevat ten aanzien van elk geografisch object als bedoeld in het tweede lid een identificerend objectnummer en beschrijvende, geometrische, cartografische, temporele en meta-kenmerken overeenkomstig de door het bestuur van de Dienst vastgestelde catalogus basisregistratie topografie. Het bestuur van de Dienst doet overeenkomstig [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), mededeling van de vaststelling of wijziging van die catalogus en van de raadpleegbaarheid daarvan.
 
 4. De geografische objecten, bedoeld in het tweede lid, worden bewerkt overeenkomstig de regels en procedures als opgenomen in de catalogus basisregistratie topografie.
 
@@ -1800,7 +1800,7 @@ De [artikelen 2:13 tot en met 2:17 van de Algemene wet bestuursrecht](https://we
 
 ##### Artikel 9a
 
-[Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9&z=2018-07-28&g=2019-09-26) is van overeenkomstige toepassing op in vreemde of Friese taal gestelde stukken als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=41&z=2018-07-28&g=2019-09-26).
+[Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=9&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op in vreemde of Friese taal gestelde stukken als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=4&artikel=41&z=2020-01-01&g=2020-01-01).
 
 ### Afdeling 2. Plaats van inschrijving
 
@@ -1808,19 +1808,19 @@ De [artikelen 2:13 tot en met 2:17 van de Algemene wet bestuursrecht](https://we
 
 ##### Artikel 10a
 
-Voor inschrijving van een feit in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), is vereist een stuk dat voldoet aan de vereisten, bedoeld in [hoofdstuk 2, titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&z=2018-07-28&g=2019-09-26), onverminderd hetgeen wordt bepaald bij verdrag en bij of krachtens deze of een andere wet.
+Voor inschrijving van een feit in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), is vereist een stuk dat voldoet aan de vereisten, bedoeld in [hoofdstuk 2, titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&z=2020-01-01&g=2020-01-01), onverminderd hetgeen wordt bepaald bij verdrag en bij of krachtens deze of een andere wet.
 
 ##### Artikel 10b
 
-1. Stukken als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2018-07-28&g=2019-09-26) worden in papieren of elektronische vorm ter inschrijving in de openbare registers aangeboden, onverminderd de [artikelen 11a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2018-07-28&g=2019-09-26), en [11b, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26).
+1. Stukken als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2020-01-01&g=2020-01-01) worden in papieren of elektronische vorm ter inschrijving in de openbare registers aangeboden, onverminderd de [artikelen 11a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2020-01-01&g=2020-01-01), en [11b, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01).
 
-2. Bij regeling van Onze Minister worden met betrekking tot in te schrijven stukken met een papieren vorm, regels gesteld met betrekking tot de wijze waarop daarin voorkomende doorhalingen van de oorspronkelijke tekst, aangebrachte gewijzigde tekst en daarop geplaatste ondertekeningen worden weergegeven in het afschrift en uittreksel, bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), tenzij de aard van het desbetreffende stuk meebrengt dat die regels worden gesteld bij of krachtens een andere dan deze wet.
+2. Bij regeling van Onze Minister worden met betrekking tot in te schrijven stukken met een papieren vorm, regels gesteld met betrekking tot de wijze waarop daarin voorkomende doorhalingen van de oorspronkelijke tekst, aangebrachte gewijzigde tekst en daarop geplaatste ondertekeningen worden weergegeven in het afschrift en uittreksel, bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), tenzij de aard van het desbetreffende stuk meebrengt dat die regels worden gesteld bij of krachtens een andere dan deze wet.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop een elektronisch afschrift en een elektronisch uittreksel van een tot het register van de gerechtsdeurwaarder behorend stuk wordt vervaardigd ten behoeve van het in elektronische vorm aanbieden van dit stuk ter inschrijving in de in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), bedoelde openbare registers.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop een elektronisch afschrift en een elektronisch uittreksel van een tot het register van de gerechtsdeurwaarder behorend stuk wordt vervaardigd ten behoeve van het in elektronische vorm aanbieden van dit stuk ter inschrijving in de in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), bedoelde openbare registers.
 
 ##### Artikel 11a
 
-1. Een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2018-07-28&g=2019-09-26) kan slechts in elektronische vorm ter inschrijving worden aangeboden, indien het tezamen met het verzoek tot inschrijving, bedoeld in [artikel 11b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), wordt verzonden door middel van een bericht en de aanbieder ervan voldoet aan de door het bestuur van de Dienst bij regeling te stellen regels met betrekking tot:
+1. Een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2020-01-01&g=2020-01-01) kan slechts in elektronische vorm ter inschrijving worden aangeboden, indien het tezamen met het verzoek tot inschrijving, bedoeld in [artikel 11b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), wordt verzonden door middel van een bericht en de aanbieder ervan voldoet aan de door het bestuur van de Dienst bij regeling te stellen regels met betrekking tot:
 
 - a. het formaat van de in elektronische vorm aan de bewaarder toe te zenden bestanden waaruit een zodanig bericht bestaat;
 
@@ -1850,7 +1850,7 @@ Bij de regeling, bedoeld in de eerste zin, worden vastgesteld de voorwaarden waa
 
 ##### Artikel 11b
 
-1. Indien een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2018-07-28&g=2019-09-26) in elektronische vorm ter inschrijving wordt aangeboden, is het desbetreffende afschrift of het woordelijk gelijkluidend uittreksel voorzien van een verklaring, inhoudende dat het inhoudelijk een volledige en juiste weergave is van de inhoud van het stuk waarvan het een afschrift is onderscheidenlijk van de desbetreffende gedeelten van het stuk waarvan het een uittreksel is, en van een elektronische handtekening. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. Indien een stuk als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=10a&z=2020-01-01&g=2020-01-01) in elektronische vorm ter inschrijving wordt aangeboden, is het desbetreffende afschrift of het woordelijk gelijkluidend uittreksel voorzien van een verklaring, inhoudende dat het inhoudelijk een volledige en juiste weergave is van de inhoud van het stuk waarvan het een afschrift is onderscheidenlijk van de desbetreffende gedeelten van het stuk waarvan het een uittreksel is, en van een elektronische handtekening. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Indien een stuk in elektronische vorm ter inschrijving wordt aangeboden biedt de aanbieder tezamen met dat stuk eveneens in elektronische vorm een verzoek tot inschrijving aan. Een verzoek als bedoeld in de eerste zin mag op meer dan een stuk betrekking hebben. Bij regeling van het bestuur van de Dienst worden de vorm en inhoud van dat verzoek vastgesteld.
 
@@ -1860,9 +1860,9 @@ Bij de regeling, bedoeld in de eerste zin, worden vastgesteld de voorwaarden waa
 
 - b. van wiens elektronische handtekening stukken als bedoeld in het eerste lid worden voorzien.
 
-4. Bij regeling van Onze Minister wordt vastgesteld in welke gevallen en op welke wijze het ambt, de hoedanigheid of functie van de persoon, bedoeld in het derde lid, onderdeel b, wordt opgenomen in een bericht als bedoeld in [artikel 11a, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2018-07-28&g=2019-09-26). Indien in de regeling, bedoeld in de eerste zin, wordt bepaald dat dat ambt, die hoedanigheid of functie als specifiek attribuut wordt vermeld in het certificaat waarop de elektronische handtekening is gebaseerd, wordt bij die regeling bepaald de wijze waarop de betrokken certificatiedienstverlener zich vergewist dat de betrokkene ten tijde van de afgifte van het certificaat dat ambt, die hoedanigheid of functie bekleedde of toekwam.
+4. Bij regeling van Onze Minister wordt vastgesteld in welke gevallen en op welke wijze het ambt, de hoedanigheid of functie van de persoon, bedoeld in het derde lid, onderdeel b, wordt opgenomen in een bericht als bedoeld in [artikel 11a, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11a&z=2020-01-01&g=2020-01-01). Indien in de regeling, bedoeld in de eerste zin, wordt bepaald dat dat ambt, die hoedanigheid of functie als specifiek attribuut wordt vermeld in het certificaat waarop de elektronische handtekening is gebaseerd, wordt bij die regeling bepaald de wijze waarop de betrokken certificatiedienstverlener zich vergewist dat de betrokkene ten tijde van de afgifte van het certificaat dat ambt, die hoedanigheid of functie bekleedde of toekwam.
 
-5. Ten aanzien van tekeningen die deel uitmaken van in elektronische vorm ter inschrijving aan te bieden stukken is [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing. Bij regeling van Onze Minister kunnen worden vastgesteld de gevallen waarin tekeningen en andere stukken die deel uitmaken van een in elektronische vorm aan te bieden stuk, afzonderlijk in papieren vorm ter inschrijving kunnen worden aangeboden. Ten aanzien van stukken die in elektronische vorm ter inschrijving worden aangeboden kan, voorzover ter verkrijging van inschrijving door de aanbieder stukken voor bewijs worden overgelegd die niet worden ingeschreven, Onze Minister bij regeling:
+5. Ten aanzien van tekeningen die deel uitmaken van in elektronische vorm ter inschrijving aan te bieden stukken is [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing. Bij regeling van Onze Minister kunnen worden vastgesteld de gevallen waarin tekeningen en andere stukken die deel uitmaken van een in elektronische vorm aan te bieden stuk, afzonderlijk in papieren vorm ter inschrijving kunnen worden aangeboden. Ten aanzien van stukken die in elektronische vorm ter inschrijving worden aangeboden kan, voorzover ter verkrijging van inschrijving door de aanbieder stukken voor bewijs worden overgelegd die niet worden ingeschreven, Onze Minister bij regeling:
 
 - a. vaststellen de gevallen waarin die overlegging in elektronische vorm kan plaatsvinden, en
 
@@ -1888,9 +1888,9 @@ Bij de regeling, bedoeld in de eerste zin, wordt vastgesteld waaruit dat kenmerk
 
 8. Het bestuur van de Dienst stelt de termijn vast gedurende welke en de wijze waarop overgelegde stukken als bedoeld in het vijfde lid, derde zin, worden bewaard.
 
-9. [Artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+9. [Artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-10. Bij regeling van Onze Minister kan worden bepaald in welke gevallen en onder welke voorwaarden de Dienst van tekeningen en andere stukken die deel uitmaken van een in elektronische vorm ter inschrijving aan te bieden stuk, voorafgaande aan die aanbieding een afschrift in elektronische vorm vervaardigt en onder een uniek kenmerk bewaart met het uitsluitend doel dat daarnaar in dat later aan te bieden stuk kan worden verwezen op een bij die regeling vast te stellen wijze. Een verwijzing als bedoeld in de eerste zin heeft tot gevolg dat het stuk waarnaar in het ter inschrijving aangeboden stuk wordt verwezen, deel uitmaakt van het aan te bieden stuk. [Artikel 11, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), alsmede het zevende lid, tweede zin, en achtste lid van dit artikel zijn van overeenkomstige toepassing.
+10. Bij regeling van Onze Minister kan worden bepaald in welke gevallen en onder welke voorwaarden de Dienst van tekeningen en andere stukken die deel uitmaken van een in elektronische vorm ter inschrijving aan te bieden stuk, voorafgaande aan die aanbieding een afschrift in elektronische vorm vervaardigt en onder een uniek kenmerk bewaart met het uitsluitend doel dat daarnaar in dat later aan te bieden stuk kan worden verwezen op een bij die regeling vast te stellen wijze. Een verwijzing als bedoeld in de eerste zin heeft tot gevolg dat het stuk waarnaar in het ter inschrijving aangeboden stuk wordt verwezen, deel uitmaakt van het aan te bieden stuk. [Artikel 11, vierde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), alsmede het zevende lid, tweede zin, en achtste lid van dit artikel zijn van overeenkomstige toepassing.
 
 ##### Artikel 11c
 
@@ -1902,15 +1902,15 @@ Bij de regeling, bedoeld in de eerste zin, wordt vastgesteld waaruit dat kenmerk
 
 ##### Artikel 14a
 
-1. Voor een inschrijving als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2018-07-28&g=2019-09-26) wordt vereist, indien het oorspronkelijke stuk in papieren vorm ter inschrijving is aangeboden, het oorspronkelijk aangeboden stuk dat is voorzien van de verklaring, bedoeld in [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15a&z=2018-07-28&g=2019-09-26).
+1. Voor een inschrijving als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2020-01-01&g=2020-01-01) wordt vereist, indien het oorspronkelijke stuk in papieren vorm ter inschrijving is aangeboden, het oorspronkelijk aangeboden stuk dat is voorzien van de verklaring, bedoeld in [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15a&z=2020-01-01&g=2020-01-01).
 
-2. De inschrijving geschiedt door op het afschrift van het stuk, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), een door de bewaarder te ondertekenen aantekening te plaatsen inhoudende dat het stuk is ingeschreven onder vermelding van het tijdstip van de hernieuwde aanbieding.
+2. De inschrijving geschiedt door op het afschrift van het stuk, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), een door de bewaarder te ondertekenen aantekening te plaatsen inhoudende dat het stuk is ingeschreven onder vermelding van het tijdstip van de hernieuwde aanbieding.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 14b
 
-1. Voor een inschrijving als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2018-07-28&g=2019-09-26) wordt vereist, indien het oorspronkelijke stuk in elektronische vorm ter inschrijving is aangeboden, een hernieuwd verzoek tot inschrijving dat in elk geval vermeldt het stukidentificatienummer van het oorspronkelijk aangeboden stuk en is voorzien van een elektronische handtekening. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), toepassing heeft gevonden en indien in het geval, bedoeld in de eerste zin, stukken die deel uitmaken van het oorspronkelijk ter inschrijving aangeboden stuk in papieren vorm ter inschrijving zijn aangeboden, wordt tevens vereist de hernieuwde aanbieding van diezelfde stukken voorzien van de door de bewaarder bij de oorspronkelijke aanbieding daarop gestelde gegevens, bedoeld in [artikel 11c, eerste lid, onverminderd het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2018-07-28&g=2019-09-26). [Artikel 11b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. Voor een inschrijving als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=14&z=2020-01-01&g=2020-01-01) wordt vereist, indien het oorspronkelijke stuk in elektronische vorm ter inschrijving is aangeboden, een hernieuwd verzoek tot inschrijving dat in elk geval vermeldt het stukidentificatienummer van het oorspronkelijk aangeboden stuk en is voorzien van een elektronische handtekening. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), toepassing heeft gevonden en indien in het geval, bedoeld in de eerste zin, stukken die deel uitmaken van het oorspronkelijk ter inschrijving aangeboden stuk in papieren vorm ter inschrijving zijn aangeboden, wordt tevens vereist de hernieuwde aanbieding van diezelfde stukken voorzien van de door de bewaarder bij de oorspronkelijke aanbieding daarop gestelde gegevens, bedoeld in [artikel 11c, eerste lid, onverminderd het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2020-01-01&g=2020-01-01). [Artikel 11b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot:
 
@@ -1920,41 +1920,41 @@ Bij de regeling, bedoeld in de eerste zin, wordt vastgesteld waaruit dat kenmerk
 
 3. De inschrijving geschiedt in de gevallen, bedoeld in het eerste lid, eerste zin, door in het desbetreffende elektronisch gedeelte van de openbare registers de voorlopige aantekening door te halen en door het plaatsen bij het stuk van een aantekening waaruit blijkt het tijdstip van de hernieuwde aanbieding en dat het stuk de status «ingeschreven» heeft, en, in de gevallen, bedoeld in het eerste lid, tweede zin, door tevens op de stukken die deel uitmaken van het in elektronische vorm aangeboden stuk, een aantekening te plaatsen ten aanzien waarvan het bepaalde omtrent de in dit lid eerstgenoemde aantekening van overeenkomstige toepassing is. Het bestuur van de Dienst stelt de vorm vast van de aantekeningen, bedoeld in de eerste zin.
 
-4. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing, met dien verstande dat de bewaarder in de gevallen, bedoeld in het eerste lid, tweede zin, op de stukken die deel uitmaken van het in elektronische vorm aangeboden stuk, een aantekening plaatst ten aanzien waarvan [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing is.
+4. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing, met dien verstande dat de bewaarder in de gevallen, bedoeld in het eerste lid, tweede zin, op de stukken die deel uitmaken van het in elektronische vorm aangeboden stuk, een aantekening plaatst ten aanzien waarvan [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=13&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing is.
 
 ### Afdeling 4. Voorlopige aantekeningen en bewijs van ontvangst
 
 ##### Artikel 15a
 
-1. Indien een stuk in papieren vorm ter inschrijving is aangeboden, wordt na de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26), dat stuk voorzien van een door de bewaarder ondertekende verklaring van niet-inschrijving, vermeldende ten minste:
+1. Indien een stuk in papieren vorm ter inschrijving is aangeboden, wordt na de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01), dat stuk voorzien van een door de bewaarder ondertekende verklaring van niet-inschrijving, vermeldende ten minste:
 
 - a. dag, uur en minuut van aanbieding;
 
-- b. het stukidentificatienummer, bedoeld in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2018-07-28&g=2019-09-26), onder verwijzing naar de boeking in het register van voorlopige aantekeningen, en
+- b. het stukidentificatienummer, bedoeld in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11c&z=2020-01-01&g=2020-01-01), onder verwijzing naar de boeking in het register van voorlopige aantekeningen, en
 
 - c. de gerezen bedenkingen,
 
-en wordt het aan de aanbieder teruggegeven. Het voor inschrijving vereiste, aangeboden afschrift van het stuk wordt in bewaring genomen. [Artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+en wordt het aan de aanbieder teruggegeven. Het voor inschrijving vereiste, aangeboden afschrift van het stuk wordt in bewaring genomen. [Artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-2. Indien het voor inschrijving vereiste afschrift niet is aangeboden, vervaardigt de Dienst een afschrift van het stuk, bedoeld in het eerste lid, overeenkomstig door het bestuur van de Dienst te stellen regels. De Dienst is aansprakelijk voor de schade voortvloeiend uit een onjuistheid en onvolledigheid in het afschrift. De eerste en tweede zin zijn van overeenkomstige toepassing op de stukken, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26), waarop ten aanzien van de inschrijving [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), van toepassing is.
+2. Indien het voor inschrijving vereiste afschrift niet is aangeboden, vervaardigt de Dienst een afschrift van het stuk, bedoeld in het eerste lid, overeenkomstig door het bestuur van de Dienst te stellen regels. De Dienst is aansprakelijk voor de schade voortvloeiend uit een onjuistheid en onvolledigheid in het afschrift. De eerste en tweede zin zijn van overeenkomstige toepassing op de stukken, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01), waarop ten aanzien van de inschrijving [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), van toepassing is.
 
 3. Het bestuur van de Dienst stelt regels over de gevallen waarin de Dienst een afschrift vervaardigt van het stuk waarvan de inschrijving is geweigerd, en op welke wijze die vervaardiging geschiedt, indien:
 
-- a. het afschrift, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), niet is vervaardigd of aangeboden met inachtneming van de regels, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), dan wel
+- a. het afschrift, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), niet is vervaardigd of aangeboden met inachtneming van de regels, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), dan wel
 
-- b. het formulier, bedoeld in [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), indien dat lid toepassing heeft gevonden, niet is ingevuld of aangeboden met inachtneming van de regels, bedoeld in dat lid.
+- b. het formulier, bedoeld in [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), indien dat lid toepassing heeft gevonden, niet is ingevuld of aangeboden met inachtneming van de regels, bedoeld in dat lid.
 
-[Artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing. Het aangeboden afschrift blijft berusten ten kantore van de Dienst en wordt voorzover mogelijk opgeborgen in het register van voorlopige aantekeningen bij het desbetreffende door de Dienst vervaardigde afschrift.
+[Artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing. Het aangeboden afschrift blijft berusten ten kantore van de Dienst en wordt voorzover mogelijk opgeborgen in het register van voorlopige aantekeningen bij het desbetreffende door de Dienst vervaardigde afschrift.
 
-4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26) en het eerste lid zijn van overeenkomstige toepassing op de boeking van de aanbieding van een stuk, dat krachtens [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26), op bevel van de rechter kan worden ingeschreven.
+4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01) en het eerste lid zijn van overeenkomstige toepassing op de boeking van de aanbieding van een stuk, dat krachtens [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01), op bevel van de rechter kan worden ingeschreven.
 
 ##### Artikel 15b
 
-1. Indien een stuk in elektronische vorm ter inschrijving is aangeboden, wordt na de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26), aan de aanbieder toegezonden een bewijs van niet-inschrijving vermeldende ten minste de gegevens, bedoeld in [artikel 15a, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15a&z=2018-07-28&g=2019-09-26), welk bewijs door de bewaarder wordt ondertekend of, indien het in elektronische vorm wordt opgemaakt en toegezonden, wordt voorzien van een elektronische handtekening van de bewaarder. Het bestuur van de Dienst stelt regels met betrekking tot de vorm, wijze en het tijdstip van verzenden van het bewijs van niet-inschrijving. Het bestuur kan nadere regels stellen met betrekking tot de inhoud van het bewijs van niet-inschrijving. [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+1. Indien een stuk in elektronische vorm ter inschrijving is aangeboden, wordt na de boeking, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01), aan de aanbieder toegezonden een bewijs van niet-inschrijving vermeldende ten minste de gegevens, bedoeld in [artikel 15a, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15a&z=2020-01-01&g=2020-01-01), welk bewijs door de bewaarder wordt ondertekend of, indien het in elektronische vorm wordt opgemaakt en toegezonden, wordt voorzien van een elektronische handtekening van de bewaarder. Het bestuur van de Dienst stelt regels met betrekking tot de vorm, wijze en het tijdstip van verzenden van het bewijs van niet-inschrijving. Het bestuur kan nadere regels stellen met betrekking tot de inhoud van het bewijs van niet-inschrijving. [Artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=12&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-2. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), toepassing heeft gevonden en indien in het geval, bedoeld in het eerste lid, eerste zin, stukken die deel uitmaken van het in te schrijven stuk in papieren vorm ter inschrijving zijn aangeboden zonder het voor inschrijving vereiste afschrift, vervaardigt de Dienst een afschrift van de desbetreffende stukken overeenkomstig door het bestuur van de Dienst te stellen regels. De Dienst is aansprakelijk voor de schade voortvloeiend uit een onjuistheid en onvolledigheid in het afschrift. De eerste en tweede zin zijn van overeenkomstige toepassing met betrekking tot de stukken, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26), waarop ten aanzien van de inschrijving [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), van toepassing is.
+2. Indien [artikel 11b, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), toepassing heeft gevonden en indien in het geval, bedoeld in het eerste lid, eerste zin, stukken die deel uitmaken van het in te schrijven stuk in papieren vorm ter inschrijving zijn aangeboden zonder het voor inschrijving vereiste afschrift, vervaardigt de Dienst een afschrift van de desbetreffende stukken overeenkomstig door het bestuur van de Dienst te stellen regels. De Dienst is aansprakelijk voor de schade voortvloeiend uit een onjuistheid en onvolledigheid in het afschrift. De eerste en tweede zin zijn van overeenkomstige toepassing met betrekking tot de stukken, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01), waarop ten aanzien van de inschrijving [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), van toepassing is.
 
-3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2018-07-28&g=2019-09-26) en het eerste lid zijn van overeenkomstige toepassing op de boeking van de aanbieding van een stuk, dat krachtens [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2018-07-28&g=2019-09-26), op bevel van de rechter kan worden ingeschreven.
+3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=4&artikel=15&z=2020-01-01&g=2020-01-01) en het eerste lid zijn van overeenkomstige toepassing op de boeking van de aanbieding van een stuk, dat krachtens [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=37&z=2020-01-01&g=2020-01-01), op bevel van de rechter kan worden ingeschreven.
 
 ## Titel 1. Algemene bepalingen
 
@@ -1968,13 +1968,13 @@ en wordt het aan de aanbieder teruggegeven. Het voor inschrijving vereiste, aang
 
 ##### Artikel 46a
 
-1. Ter voorkoming van een onjuiste of onvolledige bijhouding als bedoeld in de [artikelen 54, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2018-07-28&g=2019-09-26), [78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2018-07-28&g=2019-09-26), [87, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2018-07-28&g=2019-09-26), en [94, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2018-07-28&g=2019-09-26), kan met betrekking tot bij regeling van Onze Minister vast te stellen gevallen een door een notaris opgemaakte bijhoudingsverklaring worden ingeschreven, inhoudende dat naar zijn verklaring hem gebleken is dat in een eerder ingeschreven, door hem verleden notariële akte voor een juiste en volledige bijhouding van dat stuk kennelijk benodigde gegevens ontbreken en dat die gegevens uitsluitend ten behoeve van een juiste en volledige bijhouding van dat stuk in die verklaring worden vermeld. De inschrijving van een bijhoudingsverklaring kan slechts plaatsvinden indien die verklaring ter inschrijving wordt aangeboden voor de afloop van een periode van tien dagen die aanvangt met de eerste dag volgend op die waarop het desbetreffende stuk is ingeschreven, waarbij niet meegerekend worden de dagen waarop de kantoren van de Dienst niet voor het publiek zijn opengesteld voor het aanbieden van stukken ter inschrijving in de openbare registers.
+1. Ter voorkoming van een onjuiste of onvolledige bijhouding als bedoeld in de [artikelen 54, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=1&artikel=54&z=2020-01-01&g=2020-01-01), [78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=4&titeldeel=1&afdeling=3&artikel=78&z=2020-01-01&g=2020-01-01), [87, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=2&afdeling=1&artikel=87&z=2020-01-01&g=2020-01-01), en [94, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=2&afdeling=1&artikel=94&z=2020-01-01&g=2020-01-01), kan met betrekking tot bij regeling van Onze Minister vast te stellen gevallen een door een notaris opgemaakte bijhoudingsverklaring worden ingeschreven, inhoudende dat naar zijn verklaring hem gebleken is dat in een eerder ingeschreven, door hem verleden notariële akte voor een juiste en volledige bijhouding van dat stuk kennelijk benodigde gegevens ontbreken en dat die gegevens uitsluitend ten behoeve van een juiste en volledige bijhouding van dat stuk in die verklaring worden vermeld. De inschrijving van een bijhoudingsverklaring kan slechts plaatsvinden indien die verklaring ter inschrijving wordt aangeboden voor de afloop van een periode van tien dagen die aanvangt met de eerste dag volgend op die waarop het desbetreffende stuk is ingeschreven, waarbij niet meegerekend worden de dagen waarop de kantoren van de Dienst niet voor het publiek zijn opengesteld voor het aanbieden van stukken ter inschrijving in de openbare registers.
 
-2. Ter inschrijving van een bijhoudingsverklaring als bedoeld in het eerste lid wordt aangeboden, indien dit in papieren vorm geschiedt, die verklaring of een authentiek afschrift daarvan, en een afschrift van die verklaring, onderscheidenlijk van dat authentieke afschrift, voorzien van een verklaring van eensluidendheid. [Artikel 11, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing.
+2. Ter inschrijving van een bijhoudingsverklaring als bedoeld in het eerste lid wordt aangeboden, indien dit in papieren vorm geschiedt, die verklaring of een authentiek afschrift daarvan, en een afschrift van die verklaring, onderscheidenlijk van dat authentieke afschrift, voorzien van een verklaring van eensluidendheid. [Artikel 11, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-3. Ter inschrijving van een bijhoudingsverklaring als bedoeld in het eerste lid is, indien het in elektronische vorm ter inschrijving wordt aangeboden, vereist een afschrift van dat stuk als bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26). De [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2018-07-28&g=2019-09-26), en [11b, tweede tot en met vijfde lid, tweede zin, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2018-07-28&g=2019-09-26), zijn van overeenkomstige toepassing.
+3. Ter inschrijving van een bijhoudingsverklaring als bedoeld in het eerste lid is, indien het in elektronische vorm ter inschrijving wordt aangeboden, vereist een afschrift van dat stuk als bedoeld in [artikel 11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01). De [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11&z=2020-01-01&g=2020-01-01), en [11b, tweede tot en met vijfde lid, tweede zin, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=11b&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
-4. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2018-07-28&g=2019-09-26) en [20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=20&z=2018-07-28&g=2019-09-26) zijn niet van toepassing.
+4. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=18&z=2020-01-01&g=2020-01-01) en [20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=20&z=2020-01-01&g=2020-01-01) zijn niet van toepassing.
 
 ### Hoofdstuk 3. Kadastrale registratie, kaartenbestand, daaraan ten grondslag liggende bescheiden en net van coördinaatpunten
 
@@ -2026,7 +2026,7 @@ en wordt het aan de aanbieder teruggegeven. Het voor inschrijving vereiste, aang
 
 ### Afdeling 2. Bepalingen in verband met de bescherming van de persoonlijke levenssfeer
 
-### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), ingeschreven stukken betreffende luchtvaartuigen en rechten waaraan die luchtvaartuigen zijn onderworpen
+### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), ingeschreven stukken betreffende luchtvaartuigen en rechten waaraan die luchtvaartuigen zijn onderworpen
 
 ## Titel 2. kadastraal recht
 
@@ -2036,7 +2036,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 102a
 
-Desgevraagd verstrekt de Dienst inlichtingen over de geografische gegevens, bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2018-07-28&g=2019-09-26), en verleent de Dienst inzage van de daaraan ten grondslag liggende bescheiden.
+Desgevraagd verstrekt de Dienst inlichtingen over de geografische gegevens, bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01), en verleent de Dienst inzage van de daaraan ten grondslag liggende bescheiden.
 
 ## Titel 2. kadastraal recht
 
@@ -2122,25 +2122,25 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. De basisregistraties kadaster en topografie bevatten authentieke gegevens krachtens een wet.
 
-2. Onverminderd [artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), zijn de in de basisregistratie kadaster opgenomen gegevens, bedoeld in [artikel 48, tweede lid, onderdelen a tot en met d, en derde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), authentieke gegevens.
+2. Onverminderd [artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), zijn de in de basisregistratie kadaster opgenomen gegevens, bedoeld in [artikel 48, tweede lid, onderdelen a tot en met d, en derde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), authentieke gegevens.
 
-3. De in de basisregistratie topografie opgenomen gegevens, bedoeld in [artikel 98a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), zijn authentieke gegevens.
+3. De in de basisregistratie topografie opgenomen gegevens, bedoeld in [artikel 98a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), zijn authentieke gegevens.
 
 ##### Artikel 7g
 
-1. Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie kadaster of basisregistratie topografie een ander bij die maatregel als authentiek aan te wijzen gegeven wordt opgenomen dan de gegevens, bedoeld in [artikel 7f, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2018-07-28&g=2019-09-26), indien:
+1. Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie kadaster of basisregistratie topografie een ander bij die maatregel als authentiek aan te wijzen gegeven wordt opgenomen dan de gegevens, bedoeld in [artikel 7f, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2020-01-01&g=2020-01-01), indien:
 
 - a. de kenbaarheid van het betreffende gegeven van belang blijkt voor de uitoefening van een publiekrechtelijke taak door bestuursorganen, en
 
 - b. er geen gewichtige redenen zijn die zich daartegen verzetten.
 
-2. Bij algemene maatregel van bestuur kan worden bepaald dat een daarbij aangewezen authentiek gegeven uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2018-07-28&g=2019-09-26), of een ander gegeven dan een authentiek gegeven, wordt opgenomen, respectievelijk wordt toegevoegd aan de in een registratie opgenomen gegevens, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2018-07-28&g=2019-09-26), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2018-07-28&g=2019-09-26) of [98a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), indien:
+2. Bij algemene maatregel van bestuur kan worden bepaald dat een daarbij aangewezen authentiek gegeven uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2020-01-01&g=2020-01-01), of een ander gegeven dan een authentiek gegeven, wordt opgenomen, respectievelijk wordt toegevoegd aan de in een registratie opgenomen gegevens, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2020-01-01&g=2020-01-01), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2020-01-01&g=2020-01-01) of [98a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), indien:
 
 - a. de kenbaarheid van het gegeven van belang blijkt voor het rechtsverkeer of economisch verkeer, en
 
 - b. er geen gewichtige redenen zijn die zich daartegen verzetten.
 
-3. Indien een authentiek gegeven of deel daarvan als bedoeld in [artikel 7f, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2018-07-28&g=2019-09-26), of een gegeven als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2018-07-28&g=2019-09-26), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2018-07-28&g=2019-09-26) of [98a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), krachtens een wet tot instelling van een andere basisregistratie dan de basisregistratie kadaster of topografie als authentiek wordt aangemerkt, geldt dat gegeven daarna als een uit die andere basisregistratie overgenomen authentiek gegeven.
+3. Indien een authentiek gegeven of deel daarvan als bedoeld in [artikel 7f, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2020-01-01&g=2020-01-01), of een gegeven als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=5&titeldeel=1&artikel=85&z=2020-01-01&g=2020-01-01), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6&titeldeel=1&artikel=92&z=2020-01-01&g=2020-01-01) of [98a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), krachtens een wet tot instelling van een andere basisregistratie dan de basisregistratie kadaster of topografie als authentiek wordt aangemerkt, geldt dat gegeven daarna als een uit die andere basisregistratie overgenomen authentiek gegeven.
 
 4. Bij regeling van Onze Minister kunnen voorschriften worden gegeven omtrent de door de Dienst in acht te nemen norm met betrekking tot de actualiteit van een uit een andere basisregistratie over te nemen authentiek gegeven.
 
@@ -2150,9 +2150,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7h
 
-1. In de basisregistratie kadaster wordt een authentiek gegeven als bedoeld in [artikel 7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2018-07-28&g=2019-09-26), en[7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), door middel van een kenmerk onderscheiden van in die basisregistratie opgenomen andere dan authentieke gegevens.
+1. In de basisregistratie kadaster wordt een authentiek gegeven als bedoeld in [artikel 7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2020-01-01&g=2020-01-01), en[7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), door middel van een kenmerk onderscheiden van in die basisregistratie opgenomen andere dan authentieke gegevens.
 
-2. In een registratie wordt een authentiek gegeven dat is overgenomen uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2018-07-28&g=2019-09-26), door middel van een kenmerk onderscheiden van gegevens die authentiek zijn ingevolge deze wet.
+2. In een registratie wordt een authentiek gegeven dat is overgenomen uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2020-01-01&g=2020-01-01), door middel van een kenmerk onderscheiden van gegevens die authentiek zijn ingevolge deze wet.
 
 ##### Artikel 7i
 
@@ -2166,7 +2166,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. Het bestuur van de Dienst draagt er voorts zorg voor dat:
 
-- a. een in de basisregistratie topografie opgenomen geografisch object als bedoeld in [artikel 98a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), in overeenstemming is met:
+- a. een in de basisregistratie topografie opgenomen geografisch object als bedoeld in [artikel 98a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), in overeenstemming is met:
 
 - 1°. de fysieke werkelijkheid ten tijde van de laatste bijhouding van het geografisch gebied waarin dat geografisch object is gelegen, en
 
@@ -2176,9 +2176,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. een koppeling mogelijk wordt gemaakt tussen de basisregistratie topografie en een andere basisregistratie voor wat betreft een authentiek gegeven dat uit die andere basisregistratie is overgenomen, tenzij bij wettelijk voorschrift anders is bepaald.
 
-3. Voorzover in een registratie een authentiek gegeven uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2018-07-28&g=2019-09-26) is overgenomen, draagt het bestuur van de Dienst er zorg voor dat:
+3. Voorzover in een registratie een authentiek gegeven uit een andere basisregistratie dan bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2020-01-01&g=2020-01-01) is overgenomen, draagt het bestuur van de Dienst er zorg voor dat:
 
-- a. de weergave van dat authentieke gegeven in die registratie overeenstemt met dat gegeven, als opgenomen in die andere basisregistratie, tenzij dat verschil in weergave wordt veroorzaakt door een norm als bedoeld in [artikel 7g, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), en
+- a. de weergave van dat authentieke gegeven in die registratie overeenstemt met dat gegeven, als opgenomen in die andere basisregistratie, tenzij dat verschil in weergave wordt veroorzaakt door een norm als bedoeld in [artikel 7g, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), en
 
 - b. de actualiteit van dat authentieke gegeven voldoet aan een zodanige norm.
 
@@ -2190,7 +2190,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - a. bij het betreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
 
-- b. het een melding heeft gedaan overeenkomstig [artikel 7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), of [7p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7p&z=2018-07-28&g=2019-09-26);
+- b. het een melding heeft gedaan overeenkomstig [artikel 7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), of [7p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7p&z=2020-01-01&g=2020-01-01);
 
 - c. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren kan vervullen, of
 
@@ -2226,7 +2226,7 @@ Een natuurlijk persoon of rechtspersoon, aan wie door een bestuursorgaan gevraag
 
 1. Een bestuursorgaan meldt aan de Dienst, onder opgaaf van redenen, zijn gerede twijfel omtrent de juistheid van een in de basisregistratie kadaster opgenomen gegeven dat krachtens deze wet als authentiek is aangemerkt.
 
-2. De Dienst neemt na ontvangst van een melding als bedoeld in het eerste lid een beslissing omtrent wijziging van het betreffende authentieke gegeven. Indien de Dienst die beslissing niet binnen een dag na ontvangst van die melding heeft genomen, tekent de Dienst in de basisregistratie kadaster, of ingeval de melding betrekking heeft op een gegeven als bedoeld in [artikel 48, derde lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), in een afzonderlijk register, aan dat het betreffende gegeven «in onderzoek» is.
+2. De Dienst neemt na ontvangst van een melding als bedoeld in het eerste lid een beslissing omtrent wijziging van het betreffende authentieke gegeven. Indien de Dienst die beslissing niet binnen een dag na ontvangst van die melding heeft genomen, tekent de Dienst in de basisregistratie kadaster, of ingeval de melding betrekking heeft op een gegeven als bedoeld in [artikel 48, derde lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), in een afzonderlijk register, aan dat het betreffende gegeven «in onderzoek» is.
 
 3. De Dienst verwijdert de aantekening dat een authentiek gegeven «in onderzoek» is uit de basisregistratie kadaster of het afzonderlijk register tegelijk met de verwerking van de wijziging in die basisregistratie of, indien een melding als bedoeld in het eerste lid niet tot wijziging leidt, met de beslissing om het authentieke gegeven niet te wijzigen.
 
@@ -2252,25 +2252,25 @@ Een natuurlijk persoon of rechtspersoon, aan wie door een bestuursorgaan gevraag
 
 1. Voorzover zich een aanmerkelijke verandering voordoet of heeft voorgedaan in de fysieke werkelijkheid ten opzichte van de laatste bijhouding van het betreffende geografisch gebied, kan een bestuursorgaan aan de Dienst, onder opgaaf van redenen, melden dat het noodzakelijk of wenselijk is de betreffende authentieke gegevens in de basisregistratie topografie op een eerder tijdstip dan bij de eerstvolgende bijhouding van dat gebied te wijzigen.
 
-2. De Dienst registreert na ontvangst van een melding als bedoeld in het eerste lid de melding, het betreffende authentieke gegeven en de aantekening «in onderzoek» in het register, bedoeld in [artikel 7o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26). De Dienst bericht het bestuursorgaan dat de melding heeft gedaan onverwijld over die handeling.
+2. De Dienst registreert na ontvangst van een melding als bedoeld in het eerste lid de melding, het betreffende authentieke gegeven en de aantekening «in onderzoek» in het register, bedoeld in [artikel 7o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01). De Dienst bericht het bestuursorgaan dat de melding heeft gedaan onverwijld over die handeling.
 
 3. De Dienst beslist op een melding als bedoeld in het eerste lid uiterlijk binnen zes weken na ontvangst daarvan, met dien verstande dat de Dienst die termijn één keer kan verlengen met ten hoogste vier weken.
 
-4. Indien de Dienst beslist om gevolg te geven aan de in de melding, bedoeld in het eerste lid, gevraagde actualisering, handelt de Dienst overeenkomstig [artikel 7o, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), en bericht de Dienst het bestuursorgaan dat een melding heeft gedaan als bedoeld in het eerste lid onverwijld over zijn beslissing en de handelingen die hij overeenkomstig [artikel 7o, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), heeft verricht.
+4. Indien de Dienst beslist om gevolg te geven aan de in de melding, bedoeld in het eerste lid, gevraagde actualisering, handelt de Dienst overeenkomstig [artikel 7o, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), en bericht de Dienst het bestuursorgaan dat een melding heeft gedaan als bedoeld in het eerste lid onverwijld over zijn beslissing en de handelingen die hij overeenkomstig [artikel 7o, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), heeft verricht.
 
-5. Indien de Dienst beslist om geen gevolg te geven aan de in de melding, bedoeld in het eerste lid, gevraagde actualisering, blijft de aantekening «in onderzoek» staan en tekent de Dienst bij de melding zijn beslissing aan om die actualisering te doen plaatsvinden bij de eerstvolgende bijhouding. Na beëindiging van die bijhouding is op de beslissing en de kennisgeving daarvan aan het bestuursorgaan dat de melding heeft gedaan [artikel 7o, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), van overeenkomstige toepassing, met dien verstande dat in het [vijfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26) voor «tweede, derde of vierde lid» wordt gelezen: vierde lid.
+5. Indien de Dienst beslist om geen gevolg te geven aan de in de melding, bedoeld in het eerste lid, gevraagde actualisering, blijft de aantekening «in onderzoek» staan en tekent de Dienst bij de melding zijn beslissing aan om die actualisering te doen plaatsvinden bij de eerstvolgende bijhouding. Na beëindiging van die bijhouding is op de beslissing en de kennisgeving daarvan aan het bestuursorgaan dat de melding heeft gedaan [artikel 7o, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing, met dien verstande dat in het [vijfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01) voor «tweede, derde of vierde lid» wordt gelezen: vierde lid.
 
 ##### Artikel 7q
 
 Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
-- a. de gevallen waarin een melding als bedoeld in [artikel 7m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2018-07-28&g=2019-09-26), [7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), of [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), achterwege kan blijven, of
+- a. de gevallen waarin een melding als bedoeld in [artikel 7m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2020-01-01&g=2020-01-01), [7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), of [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), achterwege kan blijven, of
 
-- b. een beperking van de kring van bestuursorganen die verplicht zijn toepassing te geven aan [artikel 7m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2018-07-28&g=2019-09-26), [7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), of [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26), of gebruik kunnen maken van de bevoegdheid, bedoeld in [artikel 7p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7p&z=2018-07-28&g=2019-09-26).
+- b. een beperking van de kring van bestuursorganen die verplicht zijn toepassing te geven aan [artikel 7m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2020-01-01&g=2020-01-01), [7n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), of [7o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01), of gebruik kunnen maken van de bevoegdheid, bedoeld in [artikel 7p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7p&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 7r
 
-1. Indien ten aanzien van een beslissing over wijziging van een authentiek gegeven dat is opgenomen in de basisregistratie kadaster bezwaar wordt gemaakt of beroep wordt ingesteld, tekent de Dienst in de basisregistratie kadaster, of ingeval het betreffende gegeven een gegeven is als bedoeld in [artikel 48, derde lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), in een afzonderlijk register, aan dat het betreffende authentieke gegeven «in onderzoek» is.
+1. Indien ten aanzien van een beslissing over wijziging van een authentiek gegeven dat is opgenomen in de basisregistratie kadaster bezwaar wordt gemaakt of beroep wordt ingesteld, tekent de Dienst in de basisregistratie kadaster, of ingeval het betreffende gegeven een gegeven is als bedoeld in [artikel 48, derde lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), in een afzonderlijk register, aan dat het betreffende authentieke gegeven «in onderzoek» is.
 
 2. Indien de beslissing op bezwaar of de rechterlijke uitspraak op het beroep strekt tot wijziging van een in de basisregistratie kadaster opgenomen authentiek gegeven, verwerkt de Dienst die wijziging in die basisregistratie.
 
@@ -2280,19 +2280,19 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
 ##### Artikel 7s
 
-1. Indien de Dienst constateert dat de weergave van een authentiek gegeven als bedoeld in [artikel 7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2018-07-28&g=2019-09-26), of [7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), in de basisregistratie kadaster niet in overeenstemming is met dat gegeven, als opgenomen in een brondocument of, ingeval een authentiek gegeven wordt afgeleid uit een brondocument, dat gegeven niet juist en volledig daaruit is afgeleid, herstelt de Dienst ambtshalve dat gegeven in die basisregistratie. De [artikelen 7n, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2018-07-28&g=2019-09-26) zijn van overeenkomstige toepassing.
+1. Indien de Dienst constateert dat de weergave van een authentiek gegeven als bedoeld in [artikel 7f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7f&z=2020-01-01&g=2020-01-01), of [7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), in de basisregistratie kadaster niet in overeenstemming is met dat gegeven, als opgenomen in een brondocument of, ingeval een authentiek gegeven wordt afgeleid uit een brondocument, dat gegeven niet juist en volledig daaruit is afgeleid, herstelt de Dienst ambtshalve dat gegeven in die basisregistratie. De [artikelen 7n, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 2. Indien de Dienst constateert dat een in de basisregistratie topografie opgenomen geografisch gegeven niet in overeenstemming is met:
 
 - a. de fysieke werkelijkheid ten tijde van de laatste bijhouding van het geografisch gebied, waarin het geografische object, waarop dat gegeven betrekking heeft, is gelegen, of
 
-- b. de actuele fysieke werkelijkheid, in geval van een aanmerkelijke verandering ten opzichte van de laatste bijhouding van het betreffende geografisch gebied, kan de Dienst dat gegeven in de basisregistratie topografie ambtshalve herstellen dan wel, indien het betreft een geval als bedoeld in onderdeel a, dat herstel opschorten tot de eerstvolgende bijhouding, bedoeld in de catalogus basisregistratie topografie. De Dienst tekent zowel een geconstateerde onjuistheid als de correctie daarvan aan in het register, bedoeld in [artikel 7o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2018-07-28&g=2019-09-26).
+- b. de actuele fysieke werkelijkheid, in geval van een aanmerkelijke verandering ten opzichte van de laatste bijhouding van het betreffende geografisch gebied, kan de Dienst dat gegeven in de basisregistratie topografie ambtshalve herstellen dan wel, indien het betreft een geval als bedoeld in onderdeel a, dat herstel opschorten tot de eerstvolgende bijhouding, bedoeld in de catalogus basisregistratie topografie. De Dienst tekent zowel een geconstateerde onjuistheid als de correctie daarvan aan in het register, bedoeld in [artikel 7o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7o&z=2020-01-01&g=2020-01-01).
 
-3. Indien de Dienst ten aanzien van de weergave van een in een registratie opgenomen ander gegeven dan een authentiek gegeven een constatering als bedoeld in het eerste lid doet, zijn dat lid alsmede de [artikelen 7n, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2018-07-28&g=2019-09-26) van overeenkomstige toepassing.
+3. Indien de Dienst ten aanzien van de weergave van een in een registratie opgenomen ander gegeven dan een authentiek gegeven een constatering als bedoeld in het eerste lid doet, zijn dat lid alsmede de [artikelen 7n, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 7t
 
-1. Indien een belanghebbende gerede twijfel heeft omtrent de juistheid van een in de basisregistratie kadaster opgenomen gegeven dat krachtens deze wet als authentiek is aangemerkt, dan wel omtrent de juistheid van een uit een andere basisregistratie dan genoemd in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2018-07-28&g=2019-09-26) in de basisregistratie kadaster of de registratie voor schepen of luchtvaartuigen overgenomen authentiek gegeven, kan die belanghebbende onder opgaaf van redenen aan de Dienst een verzoek tot herstel van dat gegeven in de basisregistratie kadaster doen. De [artikelen 7n, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2018-07-28&g=2019-09-26), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2018-07-28&g=2019-09-26) zijn van overeenkomstige toepassing indien het verzoek betrekking heeft op een in de basisregistratie kadaster opgenomen gegeven dat krachtens deze wet als authentiek is aangemerkt, en [artikel 7m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2018-07-28&g=2019-09-26), is van overeenkomstige toepassing indien het verzoek betrekking heeft op een uit een andere basisregistratie overgenomen gegeven.
+1. Indien een belanghebbende gerede twijfel heeft omtrent de juistheid van een in de basisregistratie kadaster opgenomen gegeven dat krachtens deze wet als authentiek is aangemerkt, dan wel omtrent de juistheid van een uit een andere basisregistratie dan genoemd in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1&artikel=1a&z=2020-01-01&g=2020-01-01) in de basisregistratie kadaster of de registratie voor schepen of luchtvaartuigen overgenomen authentiek gegeven, kan die belanghebbende onder opgaaf van redenen aan de Dienst een verzoek tot herstel van dat gegeven in de basisregistratie kadaster doen. De [artikelen 7n, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7n&z=2020-01-01&g=2020-01-01), en [7r](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7r&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing indien het verzoek betrekking heeft op een in de basisregistratie kadaster opgenomen gegeven dat krachtens deze wet als authentiek is aangemerkt, en [artikel 7m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=3&artikel=7m&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing indien het verzoek betrekking heeft op een uit een andere basisregistratie overgenomen gegeven.
 
 2. Het eerste lid is vanovereenkomstige toepassing indien een belanghebbende gerede twijfel heeft omtrent de juistheid van een ander dan een authentiek gegeven in de basisregistratie kadaster of de registratie voor schepen of luchtvaartuigen.
 
@@ -2302,7 +2302,7 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
 ##### Artikel 7u
 
-1. De Dienst draagt er zorg voor dat de juistheid en volledigheid van de authentieke gegevens, genoemd in de [artikelen 48, tweede lid, onderdelen a tot en met e, en derde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2018-07-28&g=2019-09-26), [98a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2018-07-28&g=2019-09-26), en bedoeld in [artikel 7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2018-07-28&g=2019-09-26), ten minste:
+1. De Dienst draagt er zorg voor dat de juistheid en volledigheid van de authentieke gegevens, genoemd in de [artikelen 48, tweede lid, onderdelen a tot en met e, en derde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=1&artikel=48&z=2020-01-01&g=2020-01-01), [98a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=6a&artikel=98a&z=2020-01-01&g=2020-01-01), en bedoeld in [artikel 7g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=1a&titeldeel=1&artikel=7g&z=2020-01-01&g=2020-01-01), ten minste:
 
 - a. één keer per drie jaar worden gecontroleerd door een, door het bestuur van de Dienst aangewezen, onafhankelijke deskundige, en
 
@@ -2406,7 +2406,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 27a
 
-1. Onverminderd [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2018-07-28&g=2019-09-26) kan ter inschrijving van erfopvolgingen die registergoederen betreffen, een gewaarmerkt afschrift van een Europese erfrechtverklaring als bedoeld in artikel 62, eerste lid, van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201), worden aangeboden, waaruit van de erfopvolging blijkt.
+1. Onverminderd [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=2&afdeling=2&artikel=27&z=2020-01-01&g=2020-01-01) kan ter inschrijving van erfopvolgingen die registergoederen betreffen, een gewaarmerkt afschrift van een Europese erfrechtverklaring als bedoeld in artikel 62, eerste lid, van de verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201), worden aangeboden, waaruit van de erfopvolging blijkt.
 
 2. Het in het eerste lid bedoelde gewaarmerkte afschrift van een Europese erfrechtverklaring wordt ook aangeboden ter inschrijving van een legaat, executele of de benoeming van een beheerder van de nalatenschap als bedoeld in artikel 63 van de in het eerste lid bedoelde verordening.
 
@@ -2426,7 +2426,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 1. Algemene bepalingen
 
-#### § 1. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), ingeschreven stukken betreffende onroerende zaken en rechten waaraan die zaken zijn onderworpen, met uitzondering van notariële akten van vernieuwing
+#### § 1. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), ingeschreven stukken betreffende onroerende zaken en rechten waaraan die zaken zijn onderworpen, met uitzondering van notariële akten van vernieuwing
 
 #### § 2. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35)
 
@@ -2446,7 +2446,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 2. Bijwerking van de registratie voor schepen
 
-### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2018-07-28&g=2019-09-26), ingeschreven stukken betreffende schepen en rechten waaraan die schepen zijn onderworpen
+### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=2&titeldeel=1&afdeling=1&artikel=8&z=2020-01-01&g=2020-01-01), ingeschreven stukken betreffende schepen en rechten waaraan die schepen zijn onderworpen
 
 ### Hoofdstuk 6. Registratie voor luchtvaartuigen
 
@@ -2462,7 +2462,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 1. Verstrekking van inlichtingen
 
-### Afdeling 1. Verstrekking van inlichtingen uit de openbare registers, de registraties, het net van coördinaatpunten en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2018-07-28&g=2019-09-26)
+### Afdeling 1. Verstrekking van inlichtingen uit de openbare registers, de registraties, het net van coördinaatpunten en de bescheiden, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&hoofdstuk=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01)
 
 ### Afdeling 2. Bepalingen in verband met de bescherming van de persoonlijke levenssfeer
 
