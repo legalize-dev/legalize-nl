@@ -4,7 +4,7 @@ identifier: "BWBR0038097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-10-13"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038097"
 soort: "ministeriele-regeling"
@@ -50,17 +50,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De voorzitter van het Avt ontvangt een vergoeding per maand op basis van een arbeidsduurfactor van 0,4 en het maximum van salarisschaal 18 van [bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De voorzitter van het Avt ontvangt een vergoeding per maand op basis van een arbeidsduurfactor van 0,4 en het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-2. De overige leden van het Avt ontvangen een vergoeding per maand op basis van een arbeidsduurfactor van 0,3 en het maximum van salarisschaal 17 van [bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De overige leden van het Avt ontvangen een vergoeding per maand op basis van een arbeidsduurfactor van 0,3 en het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. De leden van het Avt die op grond van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) zijn uitgesloten van een vergoeding, ontvangen geen vergoeding.
 
-4. Plaatsvervangende leden van het Avt ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 17 van [bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+4. Plaatsvervangende leden van het Avt ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 5. Plaatsvervangende leden van het Avt die optreden als voorzitter van het Avt ontvangen een vergoeding per vergadering van 130% van de vergoeding bedoeld in het vierde lid.
 
-6. In afwijking van het tweede lid ontvangt de wetenschappelijk adviseur een vergoeding per maand op basis van een arbeidsduurfactor van 0,1 en het maximum van salarisschaal 17 van [Bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+6. In afwijking van het tweede lid ontvangt de wetenschappelijk adviseur een vergoeding per maand op basis van een arbeidsduurfactor van 0,1 en het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
