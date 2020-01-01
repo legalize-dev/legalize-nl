@@ -4,7 +4,7 @@ identifier: "BWBR0041396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2018-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041396"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **b-taak:** taakuitvoering van de diensten uit hoofde van [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8), en [artikel 10, tweede lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10);
 
-- –. **bestuursraad UVO:** de bestuursraad bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=4&z=2018-10-01&g=2018-10-01);
+- –. **bestuursraad UVO:** de bestuursraad bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=4&z=2020-01-01&g=2020-01-01);
 
 - –. **diensten:** Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en Militaire Inlichtingen- en Veiligheidsdienst (MIVD);
 
@@ -98,9 +98,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Personeel
 
-1. De algemene leiding wordt ondersteund door ambtenaren met een aanstelling bij de diensten en worden aangewezen door het bevoegd gezag.
+1. De algemene leiding wordt ondersteund door ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij de Algemene Inlichtingen- en Veiligheidsdienst en door ambtenaren die krachtens een aanstelling bij het Ministerie van Defensie werkzaam zijn bij de Militaire Inlichtingen- en Veiligheidsdienst en die bij de UVO worden geplaatst.
 
-2. De ambtenaren, bedoeld in het eerste lid, worden ingezet voor de uitvoering van de taak, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=2&z=2018-10-01&g=2018-10-01), en zijn hierover verantwoording verschuldigd aan de algemene leiding.
+2. De ambtenaren, bedoeld in het eerste lid, worden ingezet voor de uitvoering van de taak, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=2&z=2020-01-01&g=2020-01-01), en zijn hierover verantwoording verschuldigd aan de algemene leiding.
 
 ##### Artikel 6. Financiën
 
@@ -112,7 +112,7 @@ De UVO wordt gezamenlijk gefinancierd door de Minister van Binnenlandse Zaken en
 
 2. De diensten verstrekken elkaar binnen de UVO wederzijds gegevens en verlenen elkaar zoveel als mogelijk wederzijds ondersteuning, voor zover dat noodzakelijk is voor een goede uitvoering van de b-taak.
 
-3. Voor de uitvoering van de b-taak maakt de UVO gebruik van gemeenschappelijke applicaties, die slechts toegankelijk zijn voor daartoe geautoriseerde ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=5&z=2018-10-01&g=2018-10-01), ten behoeve van de aan de desbetreffende ambtenaar opgedragen taak.
+3. Voor de uitvoering van de b-taak maakt de UVO gebruik van gemeenschappelijke applicaties, die slechts toegankelijk zijn voor daartoe geautoriseerde ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=5&z=2020-01-01&g=2020-01-01), ten behoeve van de aan de desbetreffende ambtenaar opgedragen taak.
 
 ##### Artikel 8. Inwerkingtreding
 
