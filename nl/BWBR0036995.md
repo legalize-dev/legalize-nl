@@ -4,7 +4,7 @@ identifier: "BWBR0036995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-09-11"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036995"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Als personen belast met het toezicht op de naleving van de [Wet normering bezold
 
 - b. de Chief Financial Officer van het Agentschap CIBG;
 
-- c. de medewerkers van het team WNT van het Agentschap CIBG.
+- c. de ambtenaren van het team WNT van het Agentschap CIBG.
 
 ##### Artikel 2
 
