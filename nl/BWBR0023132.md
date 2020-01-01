@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2019-04-27"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2019-04-27) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2020-01-01) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
@@ -136,7 +136,7 @@ Tevens geven de onderwijsinstellingen per categorie aan hoeveel studenten een ve
 
 3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het bestuursverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders. Hogescholen verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking, opgenomen in de brief van de Vereniging Hogescholen van 3 november 2016 met kenmerk 16.4347.avw (te raadplegen via www.onderwijsinspectie.nl). Universiteiten verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking verantwoording declaraties bestuurders, opgenomen in de brief van de Vereniging van Universiteiten van 7 september 2016 met kenmerk VSNU 16/214 U (te raadplegen via www.onderwijsinspectie.nl).
 
-4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2019-04-27&g=2019-04-27) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerling-, deelnemers-, of studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
+4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2019-04-27&g=2020-01-01) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerling-, deelnemers-, of studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
 
 5. Een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 onder b van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), verantwoordt zich in het bestuursverslag over het gevoerde beleid zoals aangegeven in de notities:
 
@@ -156,7 +156,7 @@ Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het v
 
 - a. in schriftelijke vorm de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392); en
 
-- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2019-04-27), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2019-04-27).
+- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2020-01-01), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2020-01-01).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -166,7 +166,7 @@ Deze regeling treedt in werking per 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
-## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2019-04-27), van de regeling
+## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2020-01-01), van de regeling
 
 **Overzicht van gegevens voor de rapportage ingevolge de Wet normering topinkomens (WNT).**
 
@@ -204,41 +204,27 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 2. Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel niet EER-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend.
 
-## Bijlage 1. , behorende bij [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2019-04-27), van de regeling
+## Bijlage 1. , behorende bij [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2019-04-27&g=2020-01-01), van de regeling
 
 Vervallen
 
-## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2019-04-27), van de regeling
+## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2020-01-01), van de regeling
 
 Vervallen
 
 ### 1. Sectoren PO en VO
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-01-31&g=2019-04-27)
+## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2021-02-20&g=2020-01-01), van de regeling
+
+Vervallen
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 3
-
-Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-10-05&g=2010-01-02) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
-
-| Bevoegd gezagnummer: | Bevoegd gezagnummer: |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- |
-| Naam bevoegd gezag: | Naam bevoegd gezag: |   |   |   |   |   |
-| Plaats bevoegd gezag: | Plaats bevoegd gezag: |   |   |   |   |   |
-| Kalenderjaar: | Kalenderjaar: |   |   |   |   |   |
-| Onderwijssector: | Onderwijssector: | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** |
-| BAPO aanspraken PO (a) | BAPO aanspraken VO (b) | **Totaal** **BAPO** **aanspraken** **(a+b)=C** | BAPO inkomsten PO (d) | BAPO inkomsten VO (e) | **Totaal** **BAPO** **inkomsten** **(d+e)=F** | Saldo BAPO verplichtingen (C-F)=G |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-| Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Ja/Nee | Ja/Nee | Ja/Nee |
-| Zo nee, reden? | Zo nee, reden? | Zo nee, reden? | Zo nee, reden? |   |   |   |
-| Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? |   |   |   |
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2021-02-20&g=2020-01-01)
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2019-04-27)
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2019-04-27&g=2020-01-01)
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -248,11 +234,15 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze gelden voor alle instellingen die de jaarverslaggeving opstellen op grond van de Regeling jaarverslaggeving onderwijs en voor zover van toepassing.
 
+Deze gelden voor alle instellingen die de jaarverslaggeving opstellen op grond van de Regeling jaarverslaggeving onderwijs en voor zover van toepassing.
+
+### A. Gegevensset
+
 **A1.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag worden de navolgende kengetallen opgenomen over het verslagjaar en de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de kengetallen in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. De kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
-### Aantallen leerlingen/deelnemers/studenten
+Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
-De opgave betreft de stand van het ongewogen aantal leerlingen/deelnemers/studenten op de laatste teldatum. De prognoses voor de jaren volgend op het verslagjaar zijn in lijn met de opgave ultimo verslagjaar.
+### Personele bezetting in FTE
 
 Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
@@ -260,15 +250,11 @@ Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft
 
 Voor deze opgave geldt dat wordt aangesloten bij de voor de betreffende sector gebruikelijke weergave van formatiegegevens. Een nadere uitsplitsing of onderverdeling in categorieën wordt niet verlangd. Het betreft personeel met een vast of tijdelijk dienstverband.
 
-### Toelichting
-
-**A2.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag wordt een **meerjarenbegroting**opgenomen op het niveau dat overeenkomt met het niveau waarop de jaarrekening wordt opgesteld, met de navolgende posten. Deze meerjarenbegroting is gebaseerd op de standaardindeling van de Regeling jaarverslaggeving onderwijs en omvat de cijfers van het verslagjaar en voorts de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de meerjarenbegroting in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling.’ Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. Indien intern meerdere scenario’s zijn uitgewerkt, is in elk geval het meest waarschijnlijke scenario in de continuïteitsparagraaf opgenomen.
-
 ### Balans
 
 Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, (uitgesplitst naar Voorraden, Vorderingen, Kortlopende effecten en Liquide middelen), EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserves en Overige reserves en fondsen), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
 
-De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies, college-, cursus- en/of examengelden, Baten in opdracht van derden en Overige baten.
+Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, (uitgesplitst naar Voorraden, Vorderingen, Kortlopende effecten en Liquide middelen), EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserves en Overige reserves en fondsen), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
 
 De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
 
@@ -276,13 +262,15 @@ Het Saldo Baten en lasten uit de gewone bedrijfsvoering, Saldo baten en lasten u
 
 ### Toelichting
 
-Totaal resultaat
+Het Saldo Baten en lasten uit de gewone bedrijfsvoering, Saldo baten en lasten uit de financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
 
 ### Toelichting
 
 In een nadere toelichting bij de posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij met name om
 
-**B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.**
+In een nadere toelichting bij de posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij met name om
+
+In dit onderdeel geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
 
 In dit onderdeel geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
 
@@ -292,9 +280,7 @@ Het bestuur geeft aan voor welke risico’s en onzekerheden zij zich in de komen
 
 Het bestuur geeft aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden. Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
 
-In deze rapportage geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
-
-### 2. Sectoren MBO en HO
+### B3. Rapportage toezichthoudend orgaan.
 
 ### 2. Sectoren MBO en HO
 
@@ -354,7 +340,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ### Aantallen leerlingen/deelnemers/studenten
 
-Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
+De opgave betreft de stand van het ongewogen aantal leerlingen/deelnemers/studenten op de laatste teldatum. De prognoses voor de jaren volgend op het verslagjaar zijn in lijn met de opgave ultimo verslagjaar.
 
 ### Personele bezetting in FTE
 
@@ -362,17 +348,17 @@ Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft
 
 ### Balans
 
-Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, (uitgesplitst naar Voorraden, Vorderingen, Kortlopende effecten en Liquide middelen), EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserves en Overige reserves en fondsen), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
+**A2.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag wordt een **meerjarenbegroting**opgenomen op het niveau dat overeenkomt met het niveau waarop de jaarrekening wordt opgesteld, met de navolgende posten. Deze meerjarenbegroting is gebaseerd op de standaardindeling van de Regeling jaarverslaggeving onderwijs en omvat de cijfers van het verslagjaar en voorts de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de meerjarenbegroting in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling.’ Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. Indien intern meerdere scenario’s zijn uitgewerkt, is in elk geval het meest waarschijnlijke scenario in de continuïteitsparagraaf opgenomen.
 
-### Staat / Raming van Baten en Lasten
+### Balans
 
 Totaal resultaat
 
 ### Toelichting
 
-In een nadere toelichting bij de posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij met name om
+Totaal resultaat
 
-### B. Overige rapportages
+### Toelichting
 
 In deze rapportage geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
 
@@ -412,18 +398,63 @@ Deze gelden voor alle instellingen die de jaarverslaggeving opstellen op grond v
 
 ### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
 
+### B. Overige rapportages
+
+### B2. Beschrijving van de belangrijkste risico’s en onzekerheden
+
+### B3. Rapportage toezichthoudend orgaan.
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
 ### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
 
 ### B2. Beschrijving van de belangrijkste risico’s en onzekerheden
 
-### B3. Rapportage toezichthoudend orgaan.
-
-Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
-
-### B2. Beschrijving van de belangrijkste risico’s en onzekerheden
-
-### B3. Rapportage toezichthoudend orgaan.
-
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ### A. Gegevensset
+
+##### Artikel 4a
+
+Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2021-02-20&g=2020-01-01), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
+
+### Aantallen leerlingen/deelnemers/studenten
+
+### Staat / Raming van Baten en Lasten
+
+In deze rapportage geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
+
+## Bijlage 4. Model G
+
+Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2021-02-20&g=2020-01-01) van de Regeling jaarverslaggeving onderwijs.
+
+****Model G. Verantwoording subsidies****
+
+| **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Omschrijving** | **Toewijzing** | **Toewijzing** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** |   |   |   |   |   |   |
+|   | **Kenmerk** | **Datum** |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+| Nieuwe post | ... | ... | J/N |   |   |   |   |   |   |
+| Nieuwe post | ... | ... | J/N |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+| **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** |
+|   |   |   |   |   |   |   |   |   |   |
+| **Omschrijving** | **Toewijzing** | **Toewijzing** | **Bedrag van de toewijzing** | **Ontvangen t/m vorig verslagjaar** | **Totale subsidiabele kosten t/m vorig verslagjaar** | **Saldo per 1 januari verslagjaar** | **Ontvangen in verslagjaar** | **Subsidiabele kosten in verslagjaar** | **Te verrekenen per 31 december verslagjaar** |
+|   | **Kenmerk** | **Datum** |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+| Nieuwe post | ... | ... | € … | € … | € … | € … | € … | € … | € … |
+| Nieuwe post | ... | ... | € … | € … | € … | € … | € … | € … | € … |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   | **Totaal:** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** |
+|   |   |   |   |   |   |   |   |   |   |
+| **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** | **G2B. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, doorlopend tot in een volgend verslagjaar** |
+|   |   |   |   |   |   |   |   |   |   |
+| **Omschrijving** | **Toewijzing** | **Toewijzing** | **Bedrag van de toewijzing** | **Ontvangen t/m vorig verslagjaar** | **Totale subsidiabele kosten t/m vorig verslagjaar** | **Saldo per 1 januari verslagjaar** | **Ontvangen in verslagjaar** | **Subsidiabele kosten in verslagjaar** | **Saldo per 31 december verslagjaar** |
+|   | **Kenmerk** | **Datum** |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+| Nieuwe post | ... | ... | € … | € … | € … | € … | € … | € … | € … |
+| Nieuwe post | ... | ... | € … | € … | € … | € … | € … | € … | € … |
+|   |   | **Totaal:** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** | **€ … ____** |
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
