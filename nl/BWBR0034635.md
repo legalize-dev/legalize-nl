@@ -4,7 +4,7 @@ identifier: "BWBR0034635"
 country: "nl"
 rank: "pbo"
 publication_date: "2025-01-01"
-last_updated: "2014-01-04"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034635"
 soort: "pbo"
@@ -74,9 +74,9 @@ Teneinde invulling te geven aan zijn verantwoordelijkheid als accountant om te h
 
 ##### Artikel 3
 
-1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
+1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de uitoefening van zijn beroep.
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de uitoefening van zijn beroep.
 
 #### Paragraaf 2.2. – Professionaliteit
 
@@ -162,7 +162,7 @@ De accountant die de beschikking krijgt over gegevens of inlichtingen waarvan hi
 
 ##### Artikel 17
 
-1. De accountant betrekt in zijn besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2014-01-04&g=2014-01-04), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
+1. De accountant betrekt in zijn besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2020-01-01&g=2020-01-01), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
 
 - a. de belangen van betrokken partijen en derden, waaronder het algemeen belang;
 
@@ -214,21 +214,11 @@ Indien de accountant constateert dat hij in strijd handelt of heeft gehandeld me
 
 ##### Artikel 24
 
-Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-01-04&g=2014-01-04) nadere voorschriften vaststellen.
+Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01) nadere voorschriften vaststellen.
 
 ##### Artikel 25
 
-Na de inwerkingtreding van deze verordening berusten op [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=5&artikel=24&z=2014-01-04&g=2014-01-04) van deze verordening:
-
-- a. de Nadere voorschriften accountantskantoren ter zake van aan assurance verwante opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten;
-
-- b. de [Nadere voorschriften accountantskantoren ter zake van aan assurance-verwante opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0027000), vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants;
-
-- c. de Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten;
-
-- d. de [Nadere voorschriften accountantskantoren ter zake van assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0027001), vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants;
-
-- e. de [Nadere voorschriften permanente educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0033451), vastgesteld door het bestuur van de Nederlandse beroepsorganisatie van accountants.
+Vervallen
 
 ##### Artikel 26
 
@@ -237,3 +227,37 @@ Deze verordening wordt aangehaald als: Verordening gedrags- en beroepsregels acc
 ##### Artikel 27
 
 Deze verordening treedt in werking op de eerste dag na publicatie in de Staatscourant en werkt terug tot en met 1 januari 2014.
+
+##### Artikel 10a
+
+1. De accountant zet niet aan of laat niet aanzetten tot onethisch gedrag door het aanbieden of laten aanbieden van een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst.
+
+2. De accountant moedigt een ander niet aan om een geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst aan te bieden of te ontvangen, terwijl hij weet of behoort te weten dat de aanbieder de bedoeling heeft daarmee aan te zetten tot onethisch gedrag.
+
+#### Paragraaf 2.4. – Objectiviteit
+
+##### Artikel 11a
+
+De accountant ontvangt geen geschenk, persoonlijke uiting van gastvrijheid, belofte of dienst waarvan hij weet of behoort te weten dat dit wordt aangeboden met de bedoeling om aan te zetten tot onethisch gedrag.
+
+#### Paragraaf 2.5. – Vakbekwaamheid en zorgvuldigheid
+
+##### Artikel 15a
+
+1. Voordat een accountant een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie aanvaardt, gaat deze bij een andere accountant die bij deze cliënt een dergelijke opdracht uitvoert of in de voorgaande 24 maanden heeft uitgevoerd na of er aanleiding is om de opdracht niet te aanvaarden.
+
+2. Het eerste lid geldt niet, indien de accountant:
+
+- a. bij deze cliënt al een controleopdracht, beoordelingsopdracht of samenstellingsopdracht van historische financiële informatie uitvoert of in de voorgaande verantwoordingsperiode heeft uitgevoerd; of
+
+- b. de opdracht overneemt van een andere accountant binnen dezelfde accountantspraktijk.
+
+3. Een accountant beantwoordt een verzoek op grond van het eerste lid binnen een redelijke termijn.
+
+#### Paragraaf 2.6. – Vertrouwelijkheid
+
+### Hoofdstuk 3. – Zich houden aan de fundamentele beginselen
+
+### Hoofdstuk 4. – Intrekking van regelingen
+
+### Hoofdstuk 5. – Slotbepalingen
