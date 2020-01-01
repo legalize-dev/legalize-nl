@@ -4,7 +4,7 @@ identifier: "BWBR0041575"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041575"
 soort: "ministeriele-regeling-BES"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Reis- en verblijfkosten van leden van het College, de secretaris en de plaatsvervangend secretaris worden vergoed per zittingsdag op de voet van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
+Reis- en verblijfkosten van leden van het College, de secretaris en de plaatsvervangend secretaris worden vergoed per zittingsdag overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 4
 
