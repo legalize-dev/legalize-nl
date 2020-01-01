@@ -4,7 +4,7 @@ identifier: "BWBR0012022"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2019-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012022"
 soort: "AMvB"
@@ -56,9 +56,9 @@ Hebben goedgevonden en verstaan:
 
 - b. betrokkene: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die als gevolg van ontslag verleend op grond van de [artikelen 89, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=89), [90, eerste, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=90), [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=92), of [94, eerste lid, onderdelen e, f of g, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=94) werkloos is geworden in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- c. aanvullende uitkering: de aanvullende uitkering bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2019-04-01&g=2019-04-01);
+- c. aanvullende uitkering: de aanvullende uitkering bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2020-01-01&g=2020-01-01);
 
-- d. aansluitende uitkering: de aansluitende uitkering bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2019-04-01&g=2019-04-01);
+- d. aansluitende uitkering: de aansluitende uitkering bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2020-01-01&g=2020-01-01);
 
 - e. bovenwettelijke uitkering: de aanvullende en aansluitende uitkering gezamenlijk;
 
@@ -94,7 +94,9 @@ Hebben goedgevonden en verstaan:
 
 - p. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), waarop recht op ouderdomspensioen ontstaat;
 
-- q. maandloon: het dagloon, vermenigvuldigd met 21,75.
+- q. maandloon: het dagloon, vermenigvuldigd met 21,75;
+
+- r. gerechtvaardigde aanspraak: het bedrag van de gecombineerde netto ouderdomspensioenen als bedoeld in [artikel 9 van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) en het pensioenreglement, waarop een betrokkene aanspraak zou hebben gehad, indien de AOW-gerechtigde leeftijd en de pensioenrekenleeftijd als bedoeld in bijlage 2 bij het pensioenreglement 65 jaar zouden zijn gebleven.
 
 2. Bij de bepaling van diensttijd in een aangehouden betrekking wordt in voorkomend geval de diensttijd, bedoeld in [artikel D1, tweede lid, van de Algemene burgerlijke pensioenwet](onbekend) zoals dat luidde op 31 december 1995, mede in aanmerking genomen. Het verzoek, bedoeld in [artikel D2 van genoemde wet](onbekend), wordt daarbij geacht te zijn gedaan. Indien voor diensttijd die bij de berekening van de bovenwettelijke uitkering in aanmerking is genomen recht op een overheidspensioen anders dan ten laste van de Stichting Pensioenfonds ABP bestaat, worden de duur en het bedrag van de bovenwettelijke uitkering met ingang van de dag waarop dit pensioen is ingegaan herberekend, waarbij die diensttijd buiten beschouwing wordt gelaten.
 
@@ -102,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Bovenwettelijke uitkering en berekeningswijze van de duur
 
-1. Met ingang van de dag waarop het ontslag ingaat heeft de betrokkene recht op een bovenwettelijke uitkering, zoals neergelegd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2019-04-01&g=2019-04-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2019-04-01&g=2019-04-01) van dit besluit.
+1. Met ingang van de dag waarop het ontslag ingaat heeft de betrokkene recht op een bovenwettelijke uitkering, zoals neergelegd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2020-01-01&g=2020-01-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2020-01-01&g=2020-01-01) van dit besluit.
 
 2. De maximale duur van de uitkering is drie maanden, vermeerderd voor de betrokkene, die op de dag waarop het ontslag ingaat:
 
@@ -136,17 +138,17 @@ Bij het berekenen van de vermindering van de maximale uitkeringsduur worden de m
 
 ##### Artikel 4. Hoogte van de aanvullende uitkering
 
-1. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), ten minste gelijk is aan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de WW-uitkering gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daaropvolgende zes maanden tot 75% en vervolgens tot 70% van het voor de betrokkene geldende dagloon aangevuld.
+1. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), ten minste gelijk is aan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de WW-uitkering gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daaropvolgende zes maanden tot 75% en vervolgens tot 70% van het voor de betrokkene geldende dagloon aangevuld.
 
-2. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), korter is dan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de uitkering, bedoeld in de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daarop volgende zes maanden tot 75% en vervolgens tot 70% aangevuld.
+2. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), korter is dan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de uitkering, bedoeld in de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daarop volgende zes maanden tot 75% en vervolgens tot 70% aangevuld.
 
 3. Voor de toepassing van dit artikel wordt de WW-uitkering steeds geacht door de betrokkene onverminderd te zijn genoten.
 
 ##### Artikel 5. Aanvullende uitkering bij ziekte
 
-1. Indien de betrokkene gedurende de periode dat hij recht heeft op een WW-uitkering wegens ziekte verhinderd is arbeid te verrichten en deswege een ZW-uitkering geniet, wordt de ZW-uitkering aangevuld tot de percentages van het dagloon, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2019-04-01&g=2019-04-01), met inachtneming van de daaraan voorafgaande termijn waarover de betrokkene recht op een aanvullende uitkering op grond van dit besluit heeft gehad.
+1. Indien de betrokkene gedurende de periode dat hij recht heeft op een WW-uitkering wegens ziekte verhinderd is arbeid te verrichten en deswege een ZW-uitkering geniet, wordt de ZW-uitkering aangevuld tot de percentages van het dagloon, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), met inachtneming van de daaraan voorafgaande termijn waarover de betrokkene recht op een aanvullende uitkering op grond van dit besluit heeft gehad.
 
-2. Indien het recht op de WW-uitkering na afloop van de periode waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op de betrokkene van toepassing is geweest, herleeft, telt zowel de termijn waarover de betrokkene voorafgaand aan deze periode recht heeft gehad op een WW-uitkering als de termijn waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op hem van toepassing is geweest, mee voor het vaststellen van de hoogte van de aanvullende uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2019-04-01&g=2019-04-01).
+2. Indien het recht op de WW-uitkering na afloop van de periode waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op de betrokkene van toepassing is geweest, herleeft, telt zowel de termijn waarover de betrokkene voorafgaand aan deze periode recht heeft gehad op een WW-uitkering als de termijn waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op hem van toepassing is geweest, mee voor het vaststellen van de hoogte van de aanvullende uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01).
 
 3. Voor de toepassing van dit artikel worden de WW-uitkering en de ZW-uitkering steeds geacht onverminderd door de betrokkene te zijn genoten.
 
@@ -164,9 +166,9 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 ##### Artikel 8. Het recht op aansluitende uitkering
 
-1. Indien op het moment van ontslag de duur van de uitkering berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), langer is dan de duur van de uitkering berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft de betrokkene die het einde van de uitkeringsduur krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft bereikt, met ingang van dat moment recht op een aansluitende uitkering.
+1. Indien op het moment van ontslag de duur van de uitkering berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), langer is dan de duur van de uitkering berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft de betrokkene die het einde van de uitkeringsduur krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft bereikt, met ingang van dat moment recht op een aansluitende uitkering.
 
-2. Het eerste lid vindt uitzondering, indien de betrokkene gedurende de periode van werkloosheid recht heeft gehad op een aanvullende uitkering bij ziekte op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=5&z=2019-04-01&g=2019-04-01).
+2. Het eerste lid vindt uitzondering, indien de betrokkene gedurende de periode van werkloosheid recht heeft gehad op een aanvullende uitkering bij ziekte op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01).
 
 3. Op de aansluitende uitkering zijn de [artikelen 19 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=77a) en [78 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=78) van overeenkomstige toepassing.
 
@@ -178,9 +180,9 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 1. De aansluitende uitkering bedraagt tot uiterlijk twee maanden na de dag waarop het ontslag ingaat 85%, gedurende de daaropvolgende tien maanden 80%, gedurende de daaropvolgende zes maanden 75% en vervolgens 70% van het voor betrokkene geldende dagloon.
 
-2. Gedurende de verlenging, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), is de uitkering gelijk aan 70% van het voor betrokkene geldende dagloon.
+2. Gedurende de verlenging, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), is de uitkering gelijk aan 70% van het voor betrokkene geldende dagloon.
 
-3. In afwijking van het tweede lid is de uitkering van de betrokkene, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), gelijk aan 50% van het voor betrokkene geldende dagloon vanaf het moment dat hij de leeftijd van 63 jaar en twee maanden heeft bereikt. De uitkering is in ieder geval gelijk aan het minimumloon in evenredigheid met de betrekkingsomvang van betrokkene op het moment van het ontslag.
+3. In afwijking van het tweede lid is de uitkering van de betrokkene, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), gelijk aan 50% van het voor betrokkene geldende dagloon vanaf het moment dat hij de leeftijd van 63 jaar en twee maanden heeft bereikt. De uitkering is in ieder geval gelijk aan het minimumloon in evenredigheid met de betrekkingsomvang van betrokkene op het moment van het ontslag.
 
 4. Bij de toepassing van het eerste lid wordt rekening gehouden met de termijn waarin de betrokkene reeds recht heeft gehad op aanvullende uitkering.
 
@@ -210,7 +212,7 @@ Vervallen
 
 2. De betrokkene die onmiddellijk aansluitend aan zijn ontslag een nieuwe dienstbetrekking heeft aanvaard en die werkloos is geworden in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft op zijn aanvraag recht op een bovenwettelijke uitkering krachtens dit besluit voor zover een recht op een WW-uitkering zou zijn ontstaan op het moment van ontslagverlening en voor zover een recht op WW-uitkering bestaat op het moment van werkloos worden, met ingang van de eerste dag waarop recht op WW-uitkering is ontstaan.
 
-3. De betrokkene die binnen twee jaar nadat hem wegens privatisering van zijn dienstonderdeel ontslag uit de politiedienst is verleend, wordt ontslagen als gevolg van de opheffing van zijn betrekking bij de privaatrechtelijke organisatie of als gevolg van overtolligheid van personeel door verandering of inkrimping van die organisatie, en op die grond recht heeft op een WW-uitkering, heeft op zijn aanvraag recht op een bovenwettelijke uitkering. De duur en de hoogte van de bovenwettelijke uitkering zijn gelijk aan de duur en de hoogte van de bovenwettelijke uitkering waarop de betrokkene op de ingangsdatum van zijn privatiseringsontslag recht zou hebben gehad, met dien verstande dat in afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), het recht op de bovenwettelijke uitkering ingaat op het moment van het ontslag bij de privaatrechtelijke organisatie.
+3. De betrokkene die binnen twee jaar nadat hem wegens privatisering van zijn dienstonderdeel ontslag uit de politiedienst is verleend, wordt ontslagen als gevolg van de opheffing van zijn betrekking bij de privaatrechtelijke organisatie of als gevolg van overtolligheid van personeel door verandering of inkrimping van die organisatie, en op die grond recht heeft op een WW-uitkering, heeft op zijn aanvraag recht op een bovenwettelijke uitkering. De duur en de hoogte van de bovenwettelijke uitkering zijn gelijk aan de duur en de hoogte van de bovenwettelijke uitkering waarop de betrokkene op de ingangsdatum van zijn privatiseringsontslag recht zou hebben gehad, met dien verstande dat in afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), het recht op de bovenwettelijke uitkering ingaat op het moment van het ontslag bij de privaatrechtelijke organisatie.
 
 4. De duur en hoogte van de bovenwettelijke uitkering als bedoeld in het eerste en tweede lid zijn gelijk aan de resterende duur en de daarbij behorende hoogte van de uitkering waarop de betrokkene op grond van dit besluit recht zou hebben gehad, indien hij voor het ontslag als betrokkene onafgebroken werkloos zou zijn geweest.
 
@@ -218,7 +220,7 @@ Vervallen
 
 ##### Artikel 14
 
-1. De betrokkene die een nieuwe dienstbetrekking aanvaardt, kan op zijn aanvraag gedurende de op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01) voor hem vastgestelde uitkeringsduur een loonaanvulling krijgen, indien de door hem ontvangen WW-uitkering, bovenwettelijke uitkering en het inkomen uit de nieuwe dienstbetrekking per maand tezamen minder bedragen dan het maandloon.
+1. De betrokkene die een nieuwe dienstbetrekking aanvaardt, kan op zijn aanvraag gedurende de op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01) voor hem vastgestelde uitkeringsduur een loonaanvulling krijgen, indien de door hem ontvangen WW-uitkering, bovenwettelijke uitkering en het inkomen uit de nieuwe dienstbetrekking per maand tezamen minder bedragen dan het maandloon.
 
 2. Het maximum bedrag tot waaraan loonaanvulling plaatsvindt, wordt als volgt berekend:
 
@@ -234,7 +236,7 @@ Vervallen
 
 - b. zodra het totaal aan WW-uitkering, bovenwettelijke uitkering en inkomen uit de nieuwe dienstbetrekking per maand gelijk aan of hoger is dan het maandloon; of
 
-- c. zodra de voor betrokkene op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01) vastgestelde uitkeringsduur is verstreken.
+- c. zodra de voor betrokkene op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01) vastgestelde uitkeringsduur is verstreken.
 
 4. Betrokkene dient een aanvraag om loonaanvulling in binnen drie maanden na het aanvaarden van de nieuwe dienstbetrekking door middel van een daarvoor bestemd formulier. Bij overschrijding van deze termijn wordt de loonaanvulling toegekend vanaf het moment dat de aanvraag is ingediend.
 
@@ -306,27 +308,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26a
 
-Indien de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005 uitsluitend als gevolg van de Wet van 19 december 2003 tot wijziging van de Werkloosheidswet in verband met afschaffing van de vervolguitkering (Stb. 546) geen aanspraak meer heeft op een vervolguitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en de voor hem met toepassing van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2019-04-01&g=2019-04-01), vastgestelde duur van de aansluitende uitkering korter is dan de duur van de afgeschafte vervolguitkering krachtens de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), wordt in afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2019-04-01&g=2019-04-01), de duur van de aansluitende uitkering gesteld op de duur van die afgeschafte vervolguitkering.
+Indien de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005 uitsluitend als gevolg van de Wet van 19 december 2003 tot wijziging van de Werkloosheidswet in verband met afschaffing van de vervolguitkering (Stb. 546) geen aanspraak meer heeft op een vervolguitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en de voor hem met toepassing van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01), vastgestelde duur van de aansluitende uitkering korter is dan de duur van de afgeschafte vervolguitkering krachtens de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), wordt in afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01), de duur van de aansluitende uitkering gesteld op de duur van die afgeschafte vervolguitkering.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 26b
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2019-04-01&g=2019-04-01) van dit besluit zoals deze luidden op 31 december 2004 blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01) van dit besluit zoals deze luidden op 31 december 2004 blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 26ca
 
-Het [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01) van dit besluit, zoals dat luidde op de dag direct voorafgaande aan de datum van inwerkingtreding van onderhavig artikel, blijft van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor die datum. In dat geval is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2a&z=2019-04-01&g=2019-04-01) niet op betrokkene van toepassing.
+Het [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01) van dit besluit, zoals dat luidde op de dag direct voorafgaande aan de datum van inwerkingtreding van onderhavig artikel, blijft van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor die datum. In dat geval is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2a&z=2020-01-01&g=2020-01-01) niet op betrokkene van toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 9a
 
-1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2019-04-01&g=2019-04-01), zijn de [artikelen 20, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a) en [35aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa) niet van overeenkomstige toepassing op de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2019-04-01&g=2019-04-01) van toepassing is.
+1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01), zijn de [artikelen 20, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a) en [35aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa) niet van overeenkomstige toepassing op de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01) van toepassing is.
 
-2. De inkomsten die de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2019-04-01&g=2019-04-01), van toepassing is, geniet of gaat genieten uit of in verband met arbeid of bedrijf, worden in mindering gebracht op de uitkering.
+2. De inkomsten die de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01), van toepassing is, geniet of gaat genieten uit of in verband met arbeid of bedrijf, worden in mindering gebracht op de uitkering.
 
 3. De in het tweede lid bedoelde vermindering is gelijk aan het bedrag waarmee de onverminderde uitkering van 50% van het voor hem geldende dagloon, vermeerderd met het totaalbedrag van de inkomsten, het voor hem geldende dagloon te boven gaat.
 
@@ -340,7 +342,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26c
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2019-04-01&g=2019-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2019-04-01&g=2019-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2019-04-01&g=2019-04-01) van dit besluit zoals deze luidden op 31 december 2010, blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2011.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01) van dit besluit zoals deze luidden op 31 december 2010, blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -354,7 +356,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26cb
 
-De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2019-04-01), en [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2019-04-01), zoals die luidden op 30 juni 2016, blijven van toepassing ingeval de betrokkene:
+De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), en [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01), zoals die luidden op 30 juni 2016, blijven van toepassing ingeval de betrokkene:
 
 - a. op 1 juli 2016 gebruik maakt van de regelingen vervat in die artikelonderdelen, of
 
@@ -386,7 +388,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26cc
 
-1. De betrokkene, bedoeld in [artikel 26cb](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=6&artikel=26cb&z=2020-01-01&g=2019-04-01), heeft bij het bereiken van de leeftijd van 65 jaar:
+1. De betrokkene, bedoeld in [artikel 26cb](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=6&artikel=26cb&z=2020-01-01&g=2020-01-01), heeft bij het bereiken van de leeftijd van 65 jaar:
 
 - a. vóór 1 april 2017, recht op de financiële compensatie als bedoeld in het tweede lid;
 
