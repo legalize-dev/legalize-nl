@@ -4,7 +4,7 @@ identifier: "BWBR0002006"
 country: "nl"
 rank: "kb"
 publication_date: "2024-07-01"
-last_updated: "2002-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002006"
 soort: "KB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 De bepalingen van dit besluit zijn van toepassing op de misdrijven, gedurende den tijd van den huidigen oorlog vóór 15 Mei 1945 begaan, welke zijn omschreven in:
 
-- 1°. een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of een der [artikelen 137**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137a), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137)**b,**[205](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205) en [278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278), een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of [artikel 150 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=150) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2002-01-01&g=2002-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2002-01-01&g=2002-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2002-01-01&g=2002-01-01) van dit besluit;
+- 1°. een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of een der [artikelen 137**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137a), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137)**b,**[205](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205) en [278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278), een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of [artikel 150 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=150) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2020-01-01&g=2020-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2020-01-01&g=2020-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2020-01-01&g=2020-01-01) van dit besluit;
 
 - 2°. een der artikelen 141, 145, 148-151, 157, 159, 161, 161**bis,** 162, 164, 166, 168, 170, 172, 179, 242-250, 250**ter,** 279, 281-283, 284, eerste lid, onder 1°., 285, 287-289; 300-304, 363 en 365 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), indien de schuldige gebruik heeft gemaakt of heeft gedreigd te maken van macht, gelegenheid of middel, hem door den vijand of door het feit der vijandelijke bezetting geboden;
 
@@ -62,11 +62,11 @@ Het bepaalde in [artikel 1 van het Wetboek van Strafrecht](https://wetten.overhe
 
 1. Onverminderd het bepaalde in de artikelen 2-8 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en in de [artikelen 4 en 5 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=4) is de Nederlandsche strafwet toepasselijk op een ieder, die zich buiten het Rijk in Europa schuldig heeft gemaakt of maakt aan:
 
-- 1°. een misdrijf, omschreven in [artikel 278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2002-01-01&g=2002-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2002-01-01&g=2002-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2002-01-01&g=2002-01-01) van dit besluit, of een misdrijf, als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2002-01-01&g=2002-01-01)., van dit besluit, indien het feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlandsch rechtspersoon of indien eenig Nederlandsch belang daardoor is of kon worden geschaad;
+- 1°. een misdrijf, omschreven in [artikel 278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2020-01-01&g=2020-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2020-01-01&g=2020-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2020-01-01&g=2020-01-01) van dit besluit, of een misdrijf, als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2020-01-01&g=2020-01-01)., van dit besluit, indien het feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlandsch rechtspersoon of indien eenig Nederlandsch belang daardoor is of kon worden geschaad;
 
 - 2°. een misdrijf, omschreven in een der artikelen 131-134**bis,** 189 en 416-417**bis** van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande, dat, waar in die artikelen van strafbaar feit of misdrijf wordt gesproken, daaronder ten deze alleen wordt verstaan een misdrijf, omschreven in een der artikelen 92-96, 97**a**, onder 1°., 105 en 108-110 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), of een misdrijf als hiervoor onder 1°. bedoeld.
 
-2. De Nederlandsche strafwet is insgelijks toepasselijk op den Nederlander, die zich buiten het Rijk in Europa schuldig heeft gemaakt of maakt aan eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2002-01-01&g=2002-01-01) genoemd.
+2. De Nederlandsche strafwet is insgelijks toepasselijk op den Nederlander, die zich buiten het Rijk in Europa schuldig heeft gemaakt of maakt aan eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2020-01-01&g=2020-01-01) genoemd.
 
 ##### Artikel 5
 
@@ -90,7 +90,7 @@ Voor de toepassing van [artikel 27 van het Wetboek van Strafrecht](https://wette
 
 ##### Artikel 8
 
-1. In afwijking in zooverre van het bepaalde in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) en [29 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=29) en in [artikel 35 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=35) kan ontzetting van de rechten, vermeld in [artikel 28, eerste lid, onder 1°., 2°., 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=28&z=2002-01-01&g=2002-01-01). en 4°., van eerstgenoemd Wetboek, worden uitgesproken in alle gevallen van veroordeeling wegens eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2002-01-01&g=2002-01-01) genoemd.
+1. In afwijking in zooverre van het bepaalde in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) en [29 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=29) en in [artikel 35 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=35) kan ontzetting van de rechten, vermeld in [artikel 28, eerste lid, onder 1°., 2°., 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=28&z=2020-01-01&g=2020-01-01). en 4°., van eerstgenoemd Wetboek, worden uitgesproken in alle gevallen van veroordeeling wegens eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2020-01-01&g=2020-01-01) genoemd.
 
 2. Onder het bekleeden van ambten of van bepaalde ambten, als bedoeld in [artikel 28, eerste lid, onder 1° van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), is voor de toepassing van dit besluit niet begrepen het verrichten van werkzaamheden krachtens indienstneming op arbeidsovereenkomst naar burgerlijk recht door of vanwege het Rijk of eenig openbaar lichaam.
 
@@ -140,7 +140,7 @@ In afwijking van het bepaalde in de [artikelen 45](https://wetten.overheid.nl/jc
 
 ##### Artikel 13
 
-1. De samenspanning tot eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2002-01-01&g=2002-01-01) genoemd, wordt gestraft gelijk het misdrijf.
+1. De samenspanning tot eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2020-01-01&g=2020-01-01) genoemd, wordt gestraft gelijk het misdrijf.
 
 2. Nochtans is de strafvervolging uitgesloten tegen den deelnemer aan eenige samenspanning, die, vóórdat de overheid met het bestaan daarvan bekend is, haar op zoodanige wijze daarvan kennis geeft, dat dientengevolge het plegen van het voorgenomen misdrijf wordt voorkomen. Deze bepaling geldt niet voor hem, van wien blijkt, dat hij de aanlegger is.
 
@@ -160,7 +160,7 @@ In afwijking van het bepaalde in artikel 60, onder 1°., van het [Wetboek van St
 
 ##### Artikel 15a
 
-Het bepaalde in [artikel 75 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=75) blijft buiten toepassing ten aanzien van de uitvoering van de straf van geldboete en verbeurdverklaring.
+Het bepaalde in [artikel 6:1:21 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:21) blijft buiten toepassing ten aanzien van de uitvoering van de straf van geldboete en verbeurdverklaring.
 
 ##### Artikel 16
 
@@ -210,7 +210,7 @@ Onder den vijand hulp verleenen wordt mede begrepen het bevorderen of verspreide
 
 ##### Artikel 26
 
-1. Hij, die gedurende den tijd van den huidigen oorlog opzettelijk een ander blootstelt aan opsporing, vervolging, vrijheidsberooving of -beperking, eenige straf of eenigen maatregel door of vanwege den vijand, diens helpers of een persoon, als in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=21&z=2002-01-01&g=2002-01-01) bedoeld, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren.
+1. Hij, die gedurende den tijd van den huidigen oorlog opzettelijk een ander blootstelt aan opsporing, vervolging, vrijheidsberooving of -beperking, eenige straf of eenigen maatregel door of vanwege den vijand, diens helpers of een persoon, als in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=21&z=2020-01-01&g=2020-01-01) bedoeld, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren.
 
 2. De schuldige wordt gestraft met gevangenisstraf van ten hoogste tien jaren, indien het feit vrijheidsberooving van langer dan een maand ten gevolge heeft gehad.
 
@@ -234,7 +234,7 @@ Hij, die gedurende den tijd van den huidigen oorlog opzettelijk gebruik maakt of
 
 ##### Artikel 28
 
-De bij de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2002-01-01&g=2002-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2002-01-01&g=2002-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2002-01-01&g=2002-01-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
+De bij de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2020-01-01&g=2020-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2020-01-01&g=2020-01-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2020-01-01&g=2020-01-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
 
 ##### Artikel 29
 
