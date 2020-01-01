@@ -4,7 +4,7 @@ identifier: "BWBR0009398"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2019-06-26"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009398"
 soort: "AMvB"
@@ -56,9 +56,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. de wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709);
 
-- b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1);
-
-- c. executie-indicator: de aantekening van het openbaar ministerie bij het aanbieden van een vonnis ter executie aan Onze Minister waarin wordt aangegeven dat het openbaar ministerie wil adviseren over te nemen besluiten inzake de verschillende vormen van te verlenen vrijheden aan de betreffende gedetineerde.
+- b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1).
 
 ### Hoofdstuk 2. Opperbeheer inrichtingen en regime
 
@@ -112,7 +110,7 @@ Voor deelname aan een penitentiair programma komen niet in aanmerking:
 
 1. Indien de directeur het verantwoord acht dat een gedetineerde in aanmerking komt voor deelname aan een penitentiair programma doet hij een daartoe strekkende voordracht aan de selectiefunctionaris.
 
-2. De directeur voegt bij zijn voordracht het advies van het openbaar ministerie indien het openbaar ministerie ten aanzien van de gedetineerde een executie-indicator heeft gegeven dan wel indien het een gedetineerde betreft ten aanzien van wie een veroordeling tot vrijheidsstraf nog niet onherroepelijk is geworden. Hij voegt daarbij tevens het advies van de reclassering.
+2. De directeur voegt bij zijn voordracht het advies van de reclassering, en het advies van het openbaar ministerie indien dit op grond van [artikel 6:1:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) is uitgebracht.
 
 3. Bij zijn beslissing om een gedetineerde in de gelegenheid te stellen deel te nemen aan een penitentiair programma betrekt de selectiefunctionaris in ieder geval de volgende aspecten:
 
@@ -164,7 +162,7 @@ Hij neemt een dergelijke beslissing niet dan nadat hij advies heeft ingewonnen b
 
 ##### Artikel 10
 
-1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2019-06-26&g=2019-06-26).
+1. De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=9&z=2020-01-01&g=2020-01-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=62), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=65), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=70) en [71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=71) zijn van overeenkomstige toepassing.
 
@@ -270,7 +268,7 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 1. De kosten van de commissie van toezicht worden door de Staat gedragen.
 
-2. De leden van de commissie van toezicht genieten vergoeding van reis- en verblijfskosten en een vacatiegeld met betrekking tot hun werkzaamheden overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren zijn vastgesteld.
+2. De leden van de commissie van toezicht genieten vergoeding van reis- en verblijfskosten en een vacatiegeld met betrekking tot hun werkzaamheden overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk gesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 3. Voor zover de secretaris of de plaatsvervangend secretaris geen ambtenaar is geniet deze tevens de in het tweede lid bedoelde vergoeding.
 
@@ -308,7 +306,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 23
 
-1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2019-06-26&g=2019-06-26), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
+1. Indien de toepassing van de behandeling, bedoeld in [artikel 22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2020-01-01&g=2020-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
 2. De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van die behandeling.
 
@@ -320,21 +318,21 @@ Aan een inrichting zijn geestelijke verzorgers van verschillende godsdiensten of
 
 ##### Artikel 25
 
-1. Bij het Ministerie van Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistisch geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
+1. Bij het Ministerie van Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistisch geestelijke verzorging in dienst. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
 
-2. De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor aanstelling van geestelijke verzorgers behorende tot hun gezindte of levensovertuiging.
+2. De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor indienstneming van geestelijke verzorgers behorende tot hun gezindte of levensovertuiging.
 
 ##### Artikel 26
 
-De aanstelling van een geestelijke verzorger van protestantse of rooms-katholieke gezindte of een geestelijke verzorger behorend tot het humanistisch verbond bij een inrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2019-06-26&g=2019-06-26).
+De indienstneming van een geestelijke verzorger van protestantse of rooms-katholieke gezindte of een geestelijke verzorger behorend tot het humanistisch verbond bij een inrichting geschiedt door of vanwege Onze Minister op verzoek van de betrokken hoofdgeestelijke, genoemd in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=25&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 27
 
-1. Een geestelijke verzorger van een andere dan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2019-06-26&g=2019-06-26) genoemde gezindte of levensovertuiging kan door de directeur aan een inrichting worden verbonden anders dan bij wijze van een aanstelling. De directeur neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijke verzorgers.
+1. Een geestelijke verzorger van een andere dan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=6&artikel=24&z=2020-01-01&g=2020-01-01) genoemde gezindte of levensovertuiging kan door de directeur aan een inrichting worden verbonden anders dan bij wijze van een indienstneming. De directeur neemt deze beslissing niet dan na overleg met de reeds aan de inrichting verbonden geestelijke verzorgers.
 
 2. Onze Minister kan functievereisten vaststellen ten aanzien van geestelijke verzorgers als bedoeld in de eerste volzin van het eerste lid.
 
-3. Een geestelijke verzorger die aan de inrichting is verbonden anders dan bij wijze van aanstelling, ontvangt een bij regeling van Onze Minister vast te stellen vergoeding voor zijn werkzaamheden en de door hem gemaakte kosten.
+3. Een geestelijke verzorger die aan de inrichting is verbonden anders dan bij wijze van indienstneming, ontvangt een bij regeling van Onze Minister vast te stellen vergoeding voor zijn werkzaamheden en de door hem gemaakte kosten.
 
 ### Hoofdstuk 7. Beroep tegen medisch handelen
 
@@ -374,7 +372,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 4. Het beroepschrift vermeldt zo nauwkeurig mogelijk het medisch handelen waarover wordt geklaagd en de redenen van het beroep.
 
-5. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2019-06-26&g=2019-06-26).
+5. Indien de gedetineerde de Nederlandse taal niet voldoende beheerst kan hij het beroepschrift in een andere taal indienen. De voorzitter van de beroepscommissie kan bepalen dat het beroepschrift in de Nederlandse taal wordt vertaald. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 31
 
@@ -394,7 +392,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 8. De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens regelen te stellen bij algemene maatregel van bestuur.
 
-9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2019-06-26&g=2019-06-26).
+9. Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
 
 10. Tijdens de beroepsprocedure staat de beroepscommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
 
@@ -402,7 +400,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 1. De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de arts wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.
 
-2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2019-06-26&g=2019-06-26).
+2. Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=10&artikel=45&z=2020-01-01&g=2020-01-01).
 
 3. De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
 
@@ -420,7 +418,7 @@ De aanstelling van een geestelijke verzorger van protestantse of rooms-katholiek
 
 ##### Artikel 34
 
-1. De in de [artikelen 28 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7&artikel=28&z=2019-06-26&g=2019-06-26) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
+1. De in de [artikelen 28 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=7&artikel=28&z=2020-01-01&g=2020-01-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de Medisch Adviseur of de beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
 
 - a. de curator, indien de gedetineerde onder curatele is gesteld;
 
@@ -446,7 +444,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - c. registratiekaarten;
 
-- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2019-06-26&g=2019-06-26) genoemde bescheiden, gerangschikt per inrichting.
+- d. de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2020-01-01&g=2020-01-01) genoemde bescheiden, gerangschikt per inrichting.
 
 2. Het dossier wordt in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -462,7 +460,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 - d. andere belangrijke justitiële documenten, waaronder:
 
-- 1°. het extract van het vonnis;
+- 1°. de grond voor opneming, bedoeld in [artikel 6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1);
 
 - 2°. formulieren betreffende verlof en de daarop genomen beslissing;
 
@@ -500,7 +498,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien een gedetineerde wordt overgebracht naar een instelling voor de verlening van forensische zorg, als bedoeld in [artikel 1.1, eerste lid, onder f, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), zendt de directeur de voor een goede en veilige verlening van de forensische zorg noodzakelijk geachte bescheiden daaruit aan het hoofd of de geneesheer-directeur van die instelling.
 
-4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2019-06-26&g=2019-06-26).
+4. Indien een gedetineerde in de gelegenheid wordt gesteld deel te nemen aan een penitentiair programma zendt de directeur het penitentiair dossier aan de directeur bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&artikel=8&z=2020-01-01&g=2020-01-01).
 
 5. Bij invrijheidstelling, ontvluchting of overlijden van een gedetineerde zendt de directeur het penitentiair dossier naar Onze Minister.
 
@@ -512,7 +510,7 @@ Met uitzondering van personen in vreemdelingenbewaring wordt van iedere gedetine
 
 3. Indien de gedetineerde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw wordt gedetineerd vervalt de bewaartermijn.
 
-4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2019-06-26&g=2019-06-26), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
+4. Het inrichtingsdossier, bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=8&artikel=37&z=2020-01-01&g=2020-01-01), wordt zes maanden na beëindiging van het verblijf van de gedetineerde in de inrichting vernietigd. Indien de gedetineerde vóór de afloop van deze termijn opnieuw in die inrichting wordt gedetineerd vervalt de bewaartermijn.
 
 ##### Artikel 40
 
@@ -572,7 +570,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 44c
 
-[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2019-06-26&g=2019-06-26) is niet van toepassing op de tenuitvoerlegging van de maatregel.
+[Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=3&z=2020-01-01&g=2020-01-01) is niet van toepassing op de tenuitvoerlegging van de maatregel.
 
 ##### Artikel 44d
 
@@ -604,7 +602,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Het verblijfsplan bestrijkt de wijze van tenuitvoerlegging van de maatregel. Het plan wordt in zijn geheel of in gedeelten vastgesteld door de directeur. Het verblijfsplan voor de laatste fase van de maatregel buiten de inrichting wordt vastgesteld door de directeur en het college van burgemeester en wethouders.
 
-2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2019-06-26&g=2019-06-26) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
+2. Indien een programma als bedoeld in [artikel 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44j&z=2020-01-01&g=2020-01-01) wordt aangeboden, wordt bij de opstelling van het verblijfsplan het oordeel ingewonnen van degenen die verantwoordelijk zijn voor de uitvoering van de onderdelen van dat programma.
 
 ##### Artikel 44h
 
@@ -612,7 +610,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 
-3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2019-06-26&g=2019-06-26) is van overeenkomstige toepassing.
+3. [Artikel 44g](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44g&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 44i
 
@@ -628,7 +626,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. de voorwaarden die zijn verbonden aan deelneming aan het programma, de afspraken met betrokkene over deelneming daaraan en de gevolgen van het niet nakomen van die afspraken;
 
-- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2019-06-26&g=2019-06-26).
+- c. de naam van de trajectcoördinator, bedoeld in [artikel 44k](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44k&z=2020-01-01&g=2020-01-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde afspraken houden in ieder geval in dat betrokkene zich schriftelijk bereid verklaart deel te nemen aan het programma en te voldoen aan de daaraan verbonden voorwaarden.
 
@@ -706,7 +704,7 @@ De trajectcoördinator heeft tot taak:
 
 ##### Artikel 44n
 
-1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2019-06-26&g=2019-06-26), bedoelde voorwaarden kan de directeur beslissen tot:
+1. Bij overtreding van de in [artikel 44l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44l&z=2020-01-01&g=2020-01-01), bedoelde voorwaarden kan de directeur beslissen tot:
 
 - a. het geven van een waarschuwing aan betrokkene;
 
@@ -720,11 +718,11 @@ Van de overtreding van de voorwaarden en een beslissing als bedoeld in het eerst
 
 ##### Artikel 44o
 
-De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2019-06-26&g=2019-06-26), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2019-06-26&g=2019-06-26), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
+De [artikelen 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=15&z=2020-01-01&g=2020-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=4&artikel=17&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing op de tenuitvoerlegging van de laatste fase van de maatregel buiten de inrichting.
 
 ##### Artikel 44p
 
-1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2019-06-26&g=2019-06-26).
+1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in [artikel 44n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=9A&artikel=44n&z=2020-01-01&g=2020-01-01).
 
 2. De [artikelen 60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=60), [61 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=61), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=67), en [68 tot en met 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=68) zijn van overeenkomstige toepassing.
 
@@ -928,7 +926,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. of er overeenstemming over het geneeskundig behandelingsplan is.
 
-2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2019-06-26&g=2019-06-26), betrokken.
+2. Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), betrokken.
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de gedetineerde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
@@ -952,7 +950,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.
 
-3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2019-06-26&g=2019-06-26), worden bij de beslissing meegenomen.
+3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), worden bij de beslissing meegenomen.
 
 ##### Artikel 22d
 
@@ -986,7 +984,7 @@ De gedetineerde wordt gedurende de periode dat de a- of b-dwangbehandeling of de
 
 ##### Artikel 22f
 
-De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2019-06-26&g=2019-06-26), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2019-06-26&g=2019-06-26) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2019-06-26&g=2019-06-26), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 21a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=21a&z=2020-01-01&g=2020-01-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22a&z=2020-01-01&g=2020-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&hoofdstuk=5&artikel=22c&z=2020-01-01&g=2020-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
 
 ##### Artikel 22g
 
