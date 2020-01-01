@@ -4,7 +4,7 @@ identifier: "BWBR0041790"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2018-12-29"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041790"
 soort: "beleidsregel"
@@ -50,7 +50,7 @@ Deze beleidsregels zijn van toepassing indien de Minister van Volksgezondheid, W
 
 2. Indien na eerdere schriftelijke waarschuwing voor een overtreding van een wettelijk voorschrift, binnen twee jaar een tweede overtreding van hetzelfde voorschrift wordt geconstateerd kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg of de Staatssecretaris van Volksgezondheid, Welzijn en Sport een bestuurlijke boete opleggen. Daarbij maakt het niet uit of bij de tweede constatering sprake is van een voortduren van de eerder geconstateerde overtreding of dat sprake is van een nieuwe overtreding van hetzelfde voorschrift. De verzenddatum eerder verstuurde waarschuwing is hierbij bepalend.
 
-3. Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw een bestuurlijke boete wordt opgelegd, wordt het boetebedrag verdubbeld. Dit geldt voor iedere volgende overtreding binnen de recidivetermijn van vier jaar tot het maximale in de specifieke wet vastgestelde boetebedrag. De onherroepelijkheid van een eerdere boete speelt hierbij geen rol.
+3. Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd een tweede overtreding van hetzelfde voorschrift wordt geconstateerd, kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg of de Staatssecretaris van Volksgezondheid, Welzijn en Sport nogmaals een bestuurlijke boete opleggen. In dat geval wordt het boetebedrag verdubbeld. Dit geldt voor iedere volgende overtreding binnen de recidivetermijn van vier jaar tot het maximale in de specifieke wet vastgestelde boetebedrag. De onherroepelijkheid van een eerdere boete speelt hierbij geen rol.
 
 ##### Artikel 3. Verhouding tot strafrechtelijke vervolging
 
@@ -228,7 +228,7 @@ Met deze bijlage is het mogelijk om stapsgewijs, wanneer een beboetbare overtred
 
 **Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit en geweld.
 
-Vanaf de constatering van een incident heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
+Vanaf de constatering van een incident heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
 
 ### Stap 1. Vaststelling zwaarte categorie van het overtreden voorschrift
 
@@ -424,7 +424,7 @@ Met deze bijlage is het mogelijk om, wanneer een beboetbare overtreding is gecon
 
 **Onverwijld:**melden binnen drie werkdagen na de vaststelling van een calamiteit, geweld en ontslag wegens disfunctioneren.
 
-Vanaf de constatering van een gebeurtenis heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
+Vanaf de constatering van een gebeurtenis heeft een instelling **zes weken** om onderzoek te doen naar de vraag of het een calamiteit of geweld betrof. Voor het bepalen van deze termijn wordt aansluiting gezocht bij hetgeen hierover is bepaald in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448). De constatering kan door eenieder werkzaam binnen de instelling geschieden. Als uit het onderzoek blijkt dat het om een calamiteit of geweld ging, moet dit binnen deze zes weken onverwijld (binnen drie werkdagen) bij de inspectie gemeld worden.
 
 ### Stap 1. Vaststelling zwaartecategorie van het overtreden voorschrift
 
