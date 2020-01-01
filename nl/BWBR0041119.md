@@ -4,7 +4,7 @@ identifier: "BWBR0041119"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-08-28"
-last_updated: "2018-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041119"
 soort: "ministeriele-regeling"
@@ -58,11 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **het CIZ:** het CIZ, genoemd in [artikel 7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
 
-- g. **het ARAR:** het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
-
-- h. **het BBRA 1984:** het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
-
-- i. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- g. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ### Hoofdstuk 2. Bezoldiging, vergoeding en rechtspositie
 
@@ -82,41 +78,47 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 ##### Artikel 3. Bezoldiging, vakantie- en eindejaarsuitkering, pensioen
 
-1. De bezoldiging van de voorzitter bedraagt maximaal de bezoldiging van een lid van de topmanagementgroep van een departement van algemeen bestuur als bedoeld in [bijlage A van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A) met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
+1. De bezoldiging van de voorzitter bedraagt maximaal het salaris van een lid van de topmanagementgroep in groep A zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
 
-2. De bezoldiging van een lid bedraagt maximaal schaal 18 van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
+2. De bezoldiging van een lid bedraagt het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
 
-3. De bestuursleden hebben recht op een vakantie-uitkering overeenkomstig de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=21) en [22 van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22). De opbouw van vakantie-uren, de opname en het overboeken daarvan naar een volgend jaar vinden plaats overeenkomstig de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=22) en [23 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=23).
+3. De bestuursleden hebben recht op een vakantie-uitkering van 8% van de door hen genoten bezoldiging. De vakantie-uitkering wordt eenmaal per jaar betaald over de periode van twaalf maanden, die is aangevangen met de maand juni van het voorafgaande kalenderjaar.
 
-4. De bestuursleden hebben recht op een eindejaarsuitkering overeenkomstig [artikel 20a van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=20a).
+4. De bestuursleden hebben recht op een eindejaarsuitkering van 8,3% van de door hen genoten genoemde bezoldiging. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november en wordt berekend over de periode van twaalf maanden die is aangevangen met de maand december van het voorafgaande kalenderjaar.
 
-5. De bezoldiging wordt uitbetaald in gelijke maandelijkse termijnen. De vakantie- en eindejaarsuitkering worden uitbetaald in de maanden mei respectievelijk december van ieder jaar.
-
-6. De bestuursleden worden aangemeld als volwaardig deelnemer bij het Algemeen Burgerlijk Pensioenfonds.
+5. De bestuursleden worden aangemeld als volwaardig deelnemer bij het Algemeen Burgerlijk Pensioenfonds.
 
 ##### Artikel 4. Reis- en verblijfkosten
 
-1. De bestuursleden hebben ten behoeve van de werkzaamheden voor het bestuursorgaan recht op een vergoeding van reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
+1. De bestuursleden hebben ten behoeve van de werkzaamheden voor het bestuursorgaan recht op een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-2. De bestuursleden ontvangen een representatievergoeding overeenkomstig [artikel 68a van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a).
+2. De bestuursleden ontvangen een representatievergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. De voorzitter kan voor het vervoer tussen zijn standplaats en zijn woonplaats en voor het vervoer ten behoeve van dienstreizen aanspraak maken op dienstvervoer per auto.
 
 4. Een lid kan voor het vervoer tussen de standplaats en de woonplaats en voor het vervoer ten behoeve van dienstreizen aanspraak maken op een jaarkaart openbaar vervoer eerste klasse.
 
-##### Artikel 5. Verloffaciliteiten
+##### Artikel 5. Verlof
 
-De bestuursleden hebben aanspraak op de verloffaciliteiten die gelden voor de sector Rijk. De verlofbepalingen van het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) zijn van overeenkomstige toepassing.
+1. De bestuursleden hebben aanspraak op verlof, bestaande uit:
+
+- a. verlofuren, vastgesteld overeenkomstig [artikel 634, van boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634), en
+
+- b. verlofuren, gelijk aan het aantal uren dat in het kader van het Individueel Keuze Budget in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren is afgesproken.
+
+2. De aanspraak op verlofuren als bedoeld in het eerste lid, onder a, vervalt na verloop van het kalenderjaar, volgend op het kalenderjaar waarin de aanspraken zijn ontstaan.
+
+3. De aanspraak op verlofuren als bedoeld in het eerste lid, onder b, vervalt na verloop van vijf kalenderjaren, volgend op het kalenderjaar waarin de aanspraken zijn ontstaan.
 
 ##### Artikel 6. Arbeidsongeschiktheid
 
-In geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn de bepalingen ten aanzien van doorbetaling van de bezoldiging van het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) van overeenkomstige toepassing.
+In geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn de bepalingen over doorbetaling van het maandinkomen bij arbeidsongeschiktheid in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren van overeenkomstige toepasing.
 
-##### Artikel 7. Bovenwettelijke uitkering bij werkloosheid
+##### Artikel 7
 
-1. In geval van tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, hebben de bestuursleden, in aanvulling op de reguliere aanspraak op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), aanspraak op een bovenwettelijke uitkering.
+1. In geval van tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, hebben de bestuursleden, aanspraak op een aanvulling op de reguliere uitkering krachtens de Werkloosheidswet.
 
-2. De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig het bepaalde in het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0008114).
+2. De hoogte en duur van deze aanvulling worden vastgesteld overeenkomstig het bepaalde in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 8. Onpartijdigheid en integriteit
 
@@ -130,9 +132,9 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 ##### Artikel 10. Speciale bepaling met betrekking tot de Adviescommissie Pakket en de Adviescommissie Kwaliteit
 
-1. De voorzitter van de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), die niet tevens lid is van het Zorginstituut Nederland, en de voorzitter van de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b) ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), vermenigvuldigd met een arbeidsduurfactor van 20,77 procent.
+1. De voorzitter van de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), die niet tevens lid is van het Zorginstituut Nederland, en de voorzitter van de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b) ontvangen een vaste vergoeding per maand, afgeleid van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, vermenigvuldigd met een arbeidsduurfactor van 20,77 procent.
 
-2. De andere leden van de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), die niet tevens lid zijn van het Zorginstituut Nederland, en de andere leden van de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b), ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 17 van het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), vermenigvuldigd met een arbeidsduurfactor van 6,92 procent.
+2. De andere leden van de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), die niet tevens lid zijn van het Zorginstituut Nederland, en de andere leden van de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b), ontvangen een vaste vergoeding per maand, afgeleid van het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, vermenigvuldigd met een arbeidsduurfactor van 6,92 procent.
 
 ### Hoofdstuk 3. Beheerskosten en jaarstukken
 
@@ -160,7 +162,7 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 ##### Artikel 13. Bevoorschotting budget
 
-De Minister houdt bij de bevoorschotting van het budget een zodanige frequentie en hoogte aan dat deze in voldoende mate aansluit op de in het vijfde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=15&z=2018-09-01&g=2018-09-01) bedoelde liquiditeitsbehoefte van het bestuursorgaan.
+De Minister houdt bij de bevoorschotting van het budget een zodanige frequentie en hoogte aan dat deze in voldoende mate aansluit op de in het vijfde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=15&z=2020-01-01&g=2020-01-01) bedoelde liquiditeitsbehoefte van het bestuursorgaan.
 
 ##### Artikel 14. Inrichting werkprogramma
 
@@ -206,7 +208,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 - e. de investeringsplannen voor het begrotingsjaar en de vier daaropvolgende jaren worden vermeld, waarbij per investering het afschrijvingsbedrag, de afschrijvingsmethode en de afschrijvingstermijn worden aangegeven;
 
-- f. de gronden worden vermeld waarop de meerjarenraming is gebaseerd, waaronder een meerjarig overzicht van de geraamde ontwikkeling van de personeelsformatie, welke zoveel mogelijk is uitgesplitst naar de doelen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=14&z=2018-09-01&g=2018-09-01);
+- f. de gronden worden vermeld waarop de meerjarenraming is gebaseerd, waaronder een meerjarig overzicht van de geraamde ontwikkeling van de personeelsformatie, welke zoveel mogelijk is uitgesplitst naar de doelen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=14&z=2020-01-01&g=2020-01-01);
 
 - g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 
@@ -230,7 +232,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 ##### Artikel 18. Egalisatiereserve
 
-1. De egalisatiereserve bedoeld in [artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) bedraagt ten hoogste vijf procent van het budget bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=12&z=2018-09-01&g=2018-09-01).
+1. De egalisatiereserve bedoeld in [artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) bedraagt ten hoogste vijf procent van het budget bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=12&z=2020-01-01&g=2020-01-01).
 
 2. Het totaal van de egalisatiereserve en de verplichte reserve bedraagt aan het einde van het begrotingsjaar niet minder dan nul.
 
@@ -254,7 +256,7 @@ Het CAK, het CIZ, het Zorginstituut en de zorgautoriteit behoeven voorafgaande t
 
 3. [Artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030162&artikel=15), en [artikel 17a van de Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0030162&artikel=17a) zoals dat luidde onmiddellijk voor het tijdstip van intrekking, blijft voor het CAK van toepassing tot en met het begrotings- en verantwoordingsjaar 2020.
 
-4. De accountantscontrole bij het CAK geschiedt, in aanvulling op het achtste lid van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=17&z=2018-09-01&g=2018-09-01), met inachtneming van een specifiek voor het CAK door de Minister en de zorgautoriteit vastgesteld Protocol Accountantsonderzoek Bestuurlijke Verantwoording CAK.
+4. De accountantscontrole bij het CAK geschiedt, in aanvulling op het achtste lid van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=17&z=2020-01-01&g=2020-01-01), met inachtneming van een specifiek voor het CAK door de Minister en de zorgautoriteit vastgesteld Protocol Accountantsonderzoek Bestuurlijke Verantwoording CAK.
 
 5. In de jaarrekening van het CIZ wordt onderscheid gemaakt tussen de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in [artikel 3.2.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.3), de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.1) en het nemen van besluiten als bedoeld in [artikel 5.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.2), en de kosten verbonden aan de uitvoering van het [Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261).
 
