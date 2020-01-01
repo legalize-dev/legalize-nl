@@ -4,7 +4,7 @@ identifier: "BWBR0026030"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026030"
 soort: "ministeriele-regeling"
@@ -47,10 +47,10 @@ Besluit:
 
 2. De uurvergoeding voor de geestelijk verzorgers van de niet-klassieke denominaties bedraagt voor:
 
-- –. MBO-opgeleiden (schaal 9.4): € 29,31
+- –. MBO-opgeleiden : € 29,31
 
-- –. HBO-opgeleiden (schaal 11.3): € 35,67
+- –. HBO-opgeleiden : € 35,67
 
-- –. WO-opgeleiden (schaal 12.5): € 42,92.
+- –. WO-opgeleiden : € 42,92.
 
 3. Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2009.
