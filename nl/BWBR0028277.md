@@ -4,7 +4,7 @@ identifier: "BWBR0028277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2010-09-18"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028277"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 2. De vergoeding per vergadering bedraagt € 333,11 voor de voorzitter en € 256,24 voor de andere bestuursleden.
 
-3. De in het eerste lid genoemde personen ontvangen een vergoeding van reis en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.
+3. De in het eerste lid genoemde personen ontvangen een vergoeding van reis en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 4
 
@@ -128,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De kosten van de Stichting Uitvoering Omslagregelingen, waaronder zijn begrepen de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=3&z=2010-09-18&g=2010-09-18), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=4&z=2010-09-18&g=2010-09-18) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=5&z=2010-09-18&g=2010-09-18), worden ten laste gebracht van de financiële voorziening voor de (uitvoering van de) wachtgeldregeling.
+1. De kosten van de Stichting Uitvoering Omslagregelingen, waaronder zijn begrepen de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=3&z=2020-01-01&g=2020-01-01), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=4&z=2020-01-01&g=2020-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=5&z=2020-01-01&g=2020-01-01), worden ten laste gebracht van de financiële voorziening voor de (uitvoering van de) wachtgeldregeling.
 
 2. De rentebaten over de financiële voorziening voor de wachtgeldregeling en de uitvoering ervan worden tot deze voorziening gerekend.
 
