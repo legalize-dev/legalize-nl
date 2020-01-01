@@ -4,7 +4,7 @@ identifier: "BWBR0035433"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035433"
 soort: "ministeriele-regeling"
@@ -56,19 +56,21 @@ Besluit:
 
 - e. **tweede trimesterbehandeling:** zwangerschapsafbreking na een periode van 12 weken amenorroe;
 
-- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01);
+- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01);
 
-- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01);
+- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01);
 
 - h. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
-- i. **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+- i. **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
+
+- j. **langdurige anticonceptie:** een intra-uterien hulpmiddel.
 
 2. Voor de toepassing van deze regeling wordt onder zwangerschapsafbreking tevens verstaan overtijdbehandeling.
 
 ##### Artikel 2
 
-1. De minister kan op aanvraag aan de instelling die een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1) beheert een subsidie verlenen voor het verrichten van zwangerschapsafbrekingen.
+1. De minister kan op aanvraag aan de instelling die een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1) beheert een subsidie verlenen voor het verrichten van zwangerschapsafbrekingen het plaatsen van langdurige anticonceptie.
 
 2. De subsidie wordt slechts verstrekt ten behoeve van een abortuskliniek met een vergunning als bedoeld in [artikel 2 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2).
 
@@ -98,23 +100,25 @@ Besluit:
 
 De subsidie bedraagt:
 
-- a. € 106,97 per consult waarna de zwangerschapsafbreking is gestaakt;
+- a. € 108,96 per consult waarna de zwangerschapsafbreking is gestaakt;
 
-- b. € 479,61 per eerste trimesterbehandeling;
+- b. € 488,31 per eerste trimesterbehandeling;
 
-- c. € 607,25 per eerste trimesterbehandeling met diepe sedatie of algehele anesthesie;
+- c. € 618,23 per eerste trimesterbehandeling met diepe sedatie of algehele anesthesie;
 
-- d. € 545,81 per eerste trimesterbehandeling met prostaglandine;
+- d. € 557,16 per eerste trimesterbehandeling met prostaglandine;
 
-- e. € 673,45 per eerste trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine;
+- e. € 687,08 per eerste trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine;
 
-- f. € 724,52 per tweede trimesterbehandeling;
+- f. € 737,89 per tweede trimesterbehandeling;
 
-- g. € 852,16 per tweede trimesterbehandeling met diepe sedatie of algehele anesthesie;
+- g. € 867,81 per tweede trimesterbehandeling met diepe sedatie of algehele anesthesie;
 
-- h. € 790,72 per tweede trimesterbehandeling met prostaglandine;
+- h. € 806,75 per tweede trimesterbehandeling met prostaglandine;
 
-- i. € 918,37 per tweede trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine.
+- i. € 936,66 per tweede trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine;
+
+- j. € 77,87 voor het plaatsen van langdurige anticonceptie aansluitend op een zwangerschapsafbreking.
 
 ##### Artikel 5
 
@@ -134,17 +138,7 @@ De subsidie bedraagt:
 
 4. Het aanvraagformulier wordt ondertekend door de aanvrager of door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
 
-5. De aanvraag tot verlening van de subsidie gaat vergezeld van:
-
-- a. een activiteitenplan, bestaande uit:
-
-- 1°. een overzicht van de activiteiten waarvoor subsidie wordt aangevraagd,
-
-- 2°. een beschrijving van aard, omvang, duur en wijze van uitvoering van de activiteiten en
-
-- 3°. een beschrijving van de met de activiteiten nagestreefde doelstellingen;
-
-- b. een overzicht van het aantal te verrichten consulten en behandelingen waarvoor de subsidie wordt aangevraagd.
+5. De aanvraag tot verlening van de subsidie gaat vergezeld van een overzicht van het aantal te verrichten consulten, behandelingen en plaatsingen van langdurige anticonceptie waarvoor subsidie wordt aangevraagd.
 
 ##### Artikel 7
 
@@ -168,13 +162,13 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 - a. voor welke periode de subsidie wordt verleend,
 
-- b. voor welke consulten en behandelingen de subsidie wordt verleend,
+- b. voor welke consulten, behandelingen en plaatsingen van langdurige anticonceptie de subsidie wordt verleend,
 
-- c. het aantal consulten en behandelingen waarvoor subsidie wordt verleend,
+- c. het aantal consulten, behandelingen en plaatsingen van langdurige anticonceptie waarvoor subsidie wordt verleend,
 
-- d. het bedrag dat per consult en per behandeling aan subsidie wordt verleend,
+- d. het bedrag dat per consult, behandeling of plaatsing van langdurige anticonceptie aan subsidie wordt verleend,
 
-- e. op welke wijze de subsidieontvanger kan aantonen dat de consulten en behandelingen waarvoor de subsidie is verleend, zijn verricht en
+- e. op welke wijze de subsidieontvanger kan aantonen dat de consulten, behandelingen en plaatsingen van langdurige anticonceptie waarvoor de subsidie is verleend, zijn verricht en
 
 - f. op welke wijze de subsidieontvanger kan aantonen dat voldaan is aan de verplichtingen die verbonden zijn aan de verleende subsidie.
 
@@ -182,7 +176,7 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 1. De minister verleent bij het besluit tot verlening van een subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
-2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01) is bepaald, kan de minister van het eerste lid afwijken.
+2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) is bepaald, kan de minister van het eerste lid afwijken.
 
 ##### Artikel 11
 
@@ -206,7 +200,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 ##### Artikel 14
 
-1. De subsidieontvanger houdt een zodanig ingerichte registratie bij dat daarin altijd het aantal verrichtte consulten en behandelingen kan worden nagegaan.
+1. De subsidieontvanger houdt een zodanig ingerichte registratie bij dat daarin altijd het aantal verrichtte consulten en behandelingen en het aantal plaatsingen van langdurige anticonceptie kan worden nagegaan.
 
 2. De administratie wordt op overzichtelijke, controleerbare en doelmatige wijze ingericht.
 
@@ -298,11 +292,11 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 - 4°. een beschrijving in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-- b. een overzicht van het aantal consulten en behandelingen die zijn verricht in het jaar waarvoor de subsidie is verleend. Het overzicht is voorzien van een schriftelijke toelichting op eventuele verschillen met het aantal consulten en behandelingen waarvoor de subsidie is verleend.
+- b. een overzicht van het aantal verrichte consulten en behandelingen, van het aantal plaatsingen van langdurige anticonceptie en van het aantal keer dat het anticonceptiemiddel door de persoon bij wie het geplaatst is, zelf bekostigd is. Het overzicht is voorzien van een schriftelijke toelichting.
 
 4. Indien de aanvraag tot vaststellen een subsidie van € 125.000 of meer bedraagt gaat de aanvraag tot vaststelling van de subsidie voorts vergezeld van:
 
-- a. een assurancerapport van een accountant dat is opgesteld overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol en, indien toepassing wordt gegeven aan [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=26&z=2019-01-01&g=2019-01-01), een controleverklaring van een accountant;
+- a. een assurancerapport van een accountant dat is opgesteld overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol en, indien toepassing wordt gegeven aan [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=26&z=2020-01-01&g=2020-01-01), een controleverklaring van een accountant;
 
 - b. een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger, opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol.
 
@@ -312,7 +306,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.
 
-2. De subsidie wordt vastgesteld op de bedragen per consult en behandeling voor het aantal consulten en behandelingen die zijn verricht in het jaar waarvoor de subsidie is verleend.
+2. De subsidie wordt vastgesteld op de bedragen per consult, behandeling en plaatsing van langdurige anticonceptie voor het aantal consulten, behandelingen en plaatsingen van langdurige anticonceptie die zijn verricht in het jaar waarvoor de subsidie is verleend.
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -338,9 +332,9 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
+1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
+2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
 
 ##### Artikel 28
 
