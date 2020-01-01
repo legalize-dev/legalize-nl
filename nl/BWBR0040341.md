@@ -4,7 +4,7 @@ identifier: "BWBR0040341"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-12-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040341"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De leden en plaatsvervangende leden van de Commissie buitenslands gediplomeerden volkgezondheid, ontvangen per vergadering, een vergoeding ten bedrage van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De leden en plaatsvervangende leden van de Commissie buitenslands gediplomeerden volkgezondheid, ontvangen per vergadering, een vergoeding ten bedrage van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 2. Het eerste lid is niet van toepassing op leden en plaatsvervangende leden die voor deelname aan de Commissie buitenslands gediplomeerden volkgezondheid uit andere hoofde dan deze regeling een bezoldiging of tegemoetkoming ontvangen.
 
