@@ -4,7 +4,7 @@ identifier: "BWBR0037458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2017-05-30"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037458"
 soort: "ministeriele-regeling"
@@ -94,11 +94,11 @@ Bij afwezigheid of verhindering van het hoofd van BSB-SZI worden, voor de duur v
 
 ##### Artikel 8
 
-Aan de teamleider van het team secretariaat-SZI wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van BSB-SZI, voor zover het betreft:
+Aan de teamleider van het team secretariaat-SZI wordt volmacht en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van BSB-SZI, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers;
 
