@@ -4,7 +4,7 @@ identifier: "BWBR0028602"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028602"
 soort: "ministeriele-regeling-BES"
@@ -80,7 +80,7 @@ De vergoeding voor reis- en verblijfkosten, bedoeld in [artikel 7, eerste lid, v
 
 - b. € 166,50 in het openbaar lichaam Bonaire.
 
-3. De vergoeding op basis van het jaarlijks per eigen personenauto afgelegde aantal kilometers, bedoeld in het eerste lid, is gelijk aan het product van het aantal kilometers en het bedrag, genoemd in [artikel 2 van de Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=2). Het aantal kilometers dat maximaal kan worden gedeclareerd bedraagt per jaar:
+3. De vergoeding op basis van het jaarlijks per eigen personenauto afgelegde aantal kilometers, bedoeld in het eerste lid, is gelijk aan het product van het aantal kilometers en een bedrag per afgelegde kilometer, dat gelijk is aan het bedrag, waarop ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, op grond van de voor hen laatstelijk afgesloten collectieve arbeidsovereenkomst recht hebben als vergoeding per afgelegde kilometer voor een binnenlandse dienstreis met eigen vervoer, in het geval de werkgever heeft bepaald dat het niet praktisch is de dienstreis met openbaar vervoer te maken. Het aantal kilometers dat maximaal kan worden gedeclareerd bedraagt per jaar:
 
 - a. 2100 in de openbare lichamen Sint Eustatius en Saba;
 
