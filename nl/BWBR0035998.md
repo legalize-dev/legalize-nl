@@ -4,7 +4,7 @@ identifier: "BWBR0035998"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2015-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035998"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Uitbreiding loon transitievergoeding
 
-1. Het loon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2015-07-01&g=2015-07-01), wordt voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) vermeerderd met:
+1. Het loon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2020-01-01&g=2020-01-01), wordt voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) vermeerderd met:
 
 - a. de vakantiebijslag en de vaste eindejaarsuitkering waar de werknemer binnen twaalf maanden aanspraak op zou hebben bij voortzetting van de arbeidsovereenkomst, gedeeld door twaalf;
 
@@ -82,9 +82,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het getal, waardoor het bedrag aan verschuldigde looncomponenten, bedoeld in het eerste lid, wordt gedeeld, wordt naar rato aangepast indien de duur van de arbeidsovereenkomst korter was dan de periode, bedoeld in het eerste lid, onderdeel a, b of c.
 
-##### Artikel 4. Wijziging [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-07-01&g=2015-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2015-07-01&g=2015-07-01)
+##### Artikel 4. Loon bij arbeidsovereenkomst korter dan een maand
 
-Wijzigt dit besluit.
+Indien de duur van de arbeidsovereenkomst korter was dan een maand, wordt, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2020-01-01&g=2020-01-01), voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) onder loon verstaan: het bedrag aan bruto loon en looncomponenten als bedoeld in artikel 3, eerste lid, dat voor de duur van de arbeidsovereenkomst aan de werknemer verschuldigd was.
 
 ##### Artikel 5. Citeertitel
 
@@ -92,6 +92,6 @@ Dit besluit wordt aangehaald als: Besluit loonbegrip vergoeding aanzegtermijn en
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-07-01&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=4&z=2015-07-01&g=2015-07-01), die met ingang van 1 juli 2015 in werking treden.
+Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=4&z=2020-01-01&g=2020-01-01), die met ingang van 1 juli 2015 in werking treden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
