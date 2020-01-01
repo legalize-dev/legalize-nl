@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -94,15 +94,15 @@ Met betrekking tot het registratieobject grondwatermonitoringput binnen de categ
 
 - c. voor het verkrijgen van representatief inzicht in de geohydrologische situatie ter plaatse indien de ruimtelijk spreiding van de overige grondwatermonitoringputten in de nabijheid niet afdoende is om dat inzicht te krijgen.
 
-#### § 4. Grondwatergebruik
+#### § 2. Bodemkwaliteit
 
-#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+#### § 3. Grondwatermonitoring
 
 ##### Artikel 2.5.1
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### § 6. Modellen
+#### § 4. Grondwatergebruik
 
 ### Hoofdstuk 3. De registratie ondergrond
 
@@ -116,11 +116,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 2°. belast is met de uitvoering van een verkenning of een deel daarvan,
 
-- b. een aanduiding dat de gegevens deel hebben uitgemaakt van de Registratie Data en Informatie Nederlandse Ondergrond of het Bodemkundig Informatie Systeem en als brondocument zijn aangeleverd op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=39), en
+- b. een aanduiding dat de gegevens deel hebben uitgemaakt van de Registratie Data en Informatie Nederlandse Ondergrond of het Bodemkundig Informatie Systeem en als brondocument zijn aangeleverd op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=39),
 
-- c. over het registratieobject geotechnisch sondeeronderzoek: gegevens over de gebruikte conus.
+- c. over het registratieobject geotechnisch sondeeronderzoek: gegevens over de gebruikte conus, en
 
-2. De gegevens, bedoeld in het eerste lid, onderdelen a en c, zijn authentieke gegevens.
+- d. over de geotechnische boormonsterbeschrijving in het registratieobject booronderzoek: gegevens over het gebruikte bemonsteringsapparaat.
+
+2. De gegevens, bedoeld in het eerste lid, onderdelen a, c en d, zijn authentieke gegevens.
 
 ##### Artikel 3.2
 
@@ -171,5 +173,77 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit basisregistratie ondergrond.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.1.4
+
+Met betrekking tot het registratieobject booronderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een geotechnische boormonsterbeschrijving. Daarin zijn de resultaten opgenomen van geotechnisch onderzoek naar de opbouw en de eigenschappen van de ondergrond op de onderzoekslocatie. Het onderzoek vindt plaats door middel van een boorgat waaruit grondmonsters zijn verkregen en aan de hand waarvan de grondopbouw in verschillende lagen is beschreven.
+
+##### Artikel 2.1.5
+
+Met betrekking tot het registratieobject booronderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een geotechnische boormonsteranalyse dat bij een veld- of laboratoriumonderzoek is opgemaakt over de waarnemingen inzake het grondmonster dat is genomen tijdens de geotechnische boring.
+
+##### Artikel 2.1.6
+
+Met betrekking tot het registratieobject wandonderzoek binnen de categorie verkenningen wordt als brondocument aangewezen een document over een bodemkundige wandbeschrijving met de resultaten van een onderzoek van de wand van een profielkuil op een locatie naar de bodemkundige eigenschappen van de bodem door middel van grondmonsters die zijn verkregen van de wand van een profielkuil of andere ontsluiting aan de hand waarvan de bodemopbouw in verschillende horizonten is beschreven.
+
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+#### § 6. Modellen
+
+##### Artikel 2.6.1
+
+Met betrekking tot het registratieobject bodemkaart binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met kaartvlakken die informatie geven over de bodemopbouw en bodemkenmerken tot een diepte van 1,2 meter onder het maaiveld.
+
+##### Artikel 2.6.2
+
+Met betrekking tot het registratieobject geomorfologische kaart binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met een model dat de vorm van het aardoppervlak beschrijft, waaronder:
+
+- a. het karakter van het reliëf,
+
+- b. een omschrijving van de gedaante van de vorm, en
+
+- c. gegevens over de ontstaanswijze van de inhoud en de opzet van het model.
+
+##### Artikel 2.6.3
+
+Met betrekking tot het registratieobject hydrogeologisch model binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met een digitaal model van de ondergrond tot een diepte van 500 meter met een beschrijving van:
+
+- a. de diepteligging van hydrogeologische eenheden,
+
+- b. de dikte van hydrogeologische eenheden, en
+
+- c. hydraulische eigenschappen van hydrogeologische eenheden.
+
+##### Artikel 2.6.4
+
+Met betrekking tot het registratieobject GeoTOP binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met een geologisch model van de laagopbouw en grondsoort van de ondergrond tot een diepte van maximaal 50 meter.
+
+##### Artikel 2.6.5
+
+Met betrekking tot het registratieobject digitaal geologisch model binnen de categorie authentieke modellen wordt als brondocument aangewezen een document met een lagenmodel van de geologische eenheden, die worden onderscheiden tot een diepte van 500 meter op basis van de aard en samenstelling van de gesteenten of grondsoorten.
+
+### Hoofdstuk 3. De registratie ondergrond
+
+##### Artikel 3.4
+
+1. Naast de gegevens, bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=22), bevat de registratie ondergrond over een authentiek model, voor zover van toepassing:
+
+- a. de identificatiecode van een of meer in de registratie ondergrond opgenomen geometrische eenheden,
+
+- b. de ruimtelijke begrenzing van één of meer gegevens,
+
+- c. de schaal die van toepassing is op de gegevens,
+
+- d. een methodisch bepaalde inhoudelijke classificatie of gebiedsaanduiding,
+
+- e. de gegevens over de totstandkoming van het model of een deel daarvan.
+
+2. De gegevens, bedoeld in het eerste lid, zijn authentieke gegevens.
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
