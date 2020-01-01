@@ -4,7 +4,7 @@ identifier: "BWBR0033385"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033385"
 soort: "AMvB"
@@ -76,7 +76,7 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - b. beslissingen tot vrijheidsontneming of tot voortzetting of beëindiging daarvan dan wel een vordering aan de rechter tot het nemen van een zodanige beslissing op grond van [Titel IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IIB) en [Titel VIA van het Vierde Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VIA), alsmede op grond van [Titel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=IIA) en [Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=VIII_A);
 
-- c. beslissingen of vorderingen op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), behoudens beslissingen ter zake van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=10), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=66) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=67);
+- c. beslissingen of vorderingen op grond van de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), behoudens beslissingen ter zake van [artikel 28b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=28b), en beslissingen of vorderingen op grond van de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), behoudens beslissingen op grond van [artikel 8:1, eerste, derde en vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:1);
 
 - d. beslissingen of vorderingen op grond van de [artikelen 14, eerste, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=14), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=15), [21, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=21), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=22), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=26), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=27), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=31), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=37), [40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=40), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=44), en [45, tweede lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=45);
 
@@ -90,11 +90,11 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - i. de vordering als bedoeld in [artikel 181, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=181);
 
-- j. de instelling van hoger beroep op grond van de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404), [446, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446), en [509v, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509v);
+- j. de instelling van hoger beroep op grond van de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404), [446, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446), en [6:6:15, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15);
 
 - k. de instelling van cassatie op grond van de [artikelen 427, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=427), en [446, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446);
 
-- l. de intrekking van hoger beroep of cassatie op grond van de [artikelen 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [509v, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509v);
+- l. de intrekking van hoger beroep of cassatie op grond van de [artikelen 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [6:6:15, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15);
 
 - m. het doen van verslag en het geven van een advies inzake een verzoek om gratie op grond van de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=5), en [6, tweede lid, van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=6).
 
@@ -104,7 +104,7 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - b. de instelling van cassatie op grond van de [artikelen 427, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=427), en [446, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=446);
 
-- c. de intrekking van hoger beroep of cassatie op grond van [artikel 453, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [509v, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509v).
+- c. de intrekking van hoger beroep of cassatie op grond van [artikel 453, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [6:6:15, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15).
 
 ##### Artikel 4
 
