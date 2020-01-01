@@ -4,7 +4,7 @@ identifier: "BWBR0042918"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042918"
 soort: "wet"
@@ -48,49 +48,33 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Aanpassingswet Wnra.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ia. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 Wijzigt de Algemene Kinderbijslagwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIa. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
 Wijzigt de Arbeidsomstandighedenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
 Wijzigt de Arbeidswet 2000 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IVb. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -100,37 +84,25 @@ Wijzigt de Participatiewet.
 
 Wijzigt de Pensioenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087)
 
 Wijzigt de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
@@ -140,43 +112,29 @@ Wijzigt de Wet arbeid en zorg.
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering (geldt in geval van digitaal procederen).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIVa. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
 Wijzigt de Wet inburgering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV. [Wet invoering extra geboorteverlof](https://wetten.overheid.nl/jci1.3:c:BWBR0041646)
 
 Wijzigt de Wet invoering extra geboorteverlof.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVa. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
 Wijzigt de Wet kinderbijslagvoorziening BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
@@ -186,102 +144,72 @@ Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIb. [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393)
 
 Wijzigt de Wet normalisering rechtspositie ambtenaren.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIc. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
 Wijzigt de Wet ongevallenverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIId. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
 Wijzigt de Wet op de loonbelasting 1964.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIe. [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698)
 
 Wijzigt de Wet op de loonvorming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIea. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
 
 Wijzigt de Wet op de studiefinanciering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIeb. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
 Wijzigt de Wet op het kindgebonden budget.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIec. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIf. [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
 Wijzigt de Wet studiefinanciering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIIa. [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIIb. [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIIIc. [Wet vereenvoudiging beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0039377)
 
 Wijzigt de Wet vereenvoudiging beslagvrije voet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIXa. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
 Wijzigt de Wet ziekteverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIXab
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 13 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13) wordt niet toegepast in het jaar 2020 voor zover het gaat om het verhogen van het bedrag, genoemd in [artikel 12, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=12).
 
 ##### Artikel XX. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen V, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=V&z=2020-01-01&g=2020-01-01), [XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XI&z=2020-01-01&g=2020-01-01), en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XVII&z=2020-01-01&g=2020-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
 
 ##### Artikel XXI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2020.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
