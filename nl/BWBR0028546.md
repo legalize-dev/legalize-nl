@@ -4,7 +4,7 @@ identifier: "BWBR0028546"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2020-01-01"
-last_updated: "2011-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028546"
 soort: "AMvB-BES"
@@ -37,7 +37,7 @@ entry_into_force: "2011-01-01"
 
 ##### Artikel 1. Bepaling van gevaarlijke stoffen
 
-1. Als gevaarlijke stoffen, bedoeld in [artikel 1, onderdeel c, onder 4°, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden de stoffen aangemerkt, die worden genoemd in kolom 1 van de tabel, vermeld in het tweede lid, mits daartoe grotere hoeveelheden van deze stoffen voorradig zijn of gebruikt worden dan de hoeveelheden, die in kolom 2 van de tabel, vermeld in het tweede lid, zijn aangegeven.
+1. Als gevaarlijke stoffen, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden de stoffen aangemerkt, die worden genoemd in kolom 1 van de tabel, vermeld in het tweede lid, mits daartoe grotere hoeveelheden van deze stoffen voorradig zijn of gebruikt worden dan de hoeveelheden, die in kolom 2 van de tabel, vermeld in het tweede lid, zijn aangegeven.
 
 2. Onder de in het eerste lid bedoelde gevaarlijke stoffen en hoeveelheden worden verstaan:
 
@@ -58,7 +58,7 @@ entry_into_force: "2011-01-01"
 
 ##### Artikel 2. Ziekten, die aangemerkt worden als ongeval
 
-1. Als ongeval als bedoeld in [artikel 1, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) wordt tevens aangemerkt het lijden aan de volgende ziekten:
+1. Als ongeval als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) wordt tevens aangemerkt het lijden aan de volgende ziekten:
 
 - a. aandoeningen als gevolg van: indien deze aandoeningen zich openbaren bij werknemers, die werkzaamheden verrichten, waarbij met de hierboven genoemde stoffen wordt omgegaan;
 
@@ -134,7 +134,7 @@ Vervallen
 
 ##### Artikel 4. Lichamelijke letsels, die aangemerkt worden als ongeval
 
-Als ongeval als bedoeld in [artikel 1, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden tevens de volgende lichamelijke letsels aangemerkt:
+Als ongeval als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden tevens de volgende lichamelijke letsels aangemerkt:
 
 - a. peesschede ontsteking;
 
@@ -150,7 +150,7 @@ Als ongeval als bedoeld in [artikel 1, onderdeel f, van de Wet ongevallenverzeke
 
 ##### Artikel 5. Wettelijke grondslag
 
-Dit besluit berust op [artikel 1, onderdelen c, onder 1° en f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1).
+Dit besluit berust op [artikel 1, eerste lid, onderdelen c, onder 1°, en f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1).
 
 ##### Artikel 6. Citeertitel
 
