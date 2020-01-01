@@ -4,7 +4,7 @@ identifier: "BWBR0031967"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2012-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031967"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - 1°. de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502),
 
-- 2°. [artikel 125g](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125g) of [125h van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125h),
+- 2°. [artikel 47c van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47c) en [artikel 12p van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12p),
 
 - 3°. [artikel 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [648](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) of [649 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=649),
 
@@ -136,13 +136,13 @@ Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de
 
 - c. een omschrijving van het onderscheid dat zou zijn of zou worden gemaakt.
 
-2. Uit een verzoekschrift, ingediend door een verzoeker als bedoeld in [artikel 10, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10) dient voorts te blijken dat verzoeker aangemerkt kan worden als een vereniging of stichting die in overeenstemming met haar statuten de belangen behartigt van degenen in wier bescherming een in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=1&artikel=1&z=2012-10-01&g=2012-10-01), genoemd wettelijk voorschrift beoogt te voorzien.
+2. Uit een verzoekschrift, ingediend door een verzoeker als bedoeld in [artikel 10, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10) dient voorts te blijken dat verzoeker aangemerkt kan worden als een vereniging of stichting die in overeenstemming met haar statuten de belangen behartigt van degenen in wier bescherming een in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), genoemd wettelijk voorschrift beoogt te voorzien.
 
 3. Het College doet op het verzoekschrift de datum van ontvangst aantekenen en de verzoeker een ontvangstbevestiging toekomen. Deze datum geldt, behoudens tegenbewijs, als datum waarop het verzoek is ingediend.
 
 ##### Artikel 7
 
-1. Indien niet is voldaan aan [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=6&z=2012-10-01&g=2012-10-01), kan het College besluiten geen onderzoek in te stellen, mits de indiener van het verzoekschrift de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
+1. Indien niet is voldaan aan [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01), kan het College besluiten geen onderzoek in te stellen, mits de indiener van het verzoekschrift de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
 
 2. Tenzij het eerste lid of [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12) toepassing vindt, neemt het College het verzoek in behandeling.
 
@@ -188,7 +188,7 @@ Het College kan een of meer deskundigen benoemen voor het instellen van een onde
 
 ##### Artikel 14
 
-Van het horen van personen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&artikel=12&z=2012-10-01&g=2012-10-01), en van de bevindingen van het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt een rapport opgemaakt.
+Van het horen van personen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01), en van de bevindingen van het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt een rapport opgemaakt.
 
 ##### Artikel 15
 
@@ -248,7 +248,7 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 ##### Artikel 22
 
-Het College kan het onderzoek ter zitting schorsen. Het College kan daarbij bepalen dat het vooronderzoek, bedoeld in [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2012-10-01&g=2012-10-01), of het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt hervat.
+Het College kan het onderzoek ter zitting schorsen. Het College kan daarbij bepalen dat het vooronderzoek, bedoeld in [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2020-01-01&g=2020-01-01), of het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt hervat.
 
 ##### Artikel 23
 
@@ -292,11 +292,11 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 1. Het College kan, indien de zaak spoedeisend is, bepalen dat deze met spoed wordt behandeld.
 
-2. Indien het College bepaalt dat een zaak met spoed wordt behandeld, bepaalt het zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet het hiervan onverwijld mededeling aan partijen. Het College kan hierbij afwijken van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=4&artikel=16&z=2012-10-01&g=2012-10-01) genoemde termijn van drie weken.
+2. Indien het College bepaalt dat een zaak met spoed wordt behandeld, bepaalt het zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet het hiervan onverwijld mededeling aan partijen. Het College kan hierbij afwijken van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=4&artikel=16&z=2020-01-01&g=2020-01-01) genoemde termijn van drie weken.
 
-3. Het College zendt verweerder een afschrift van het verzoekschrift, met het verzoek binnen een daarbij te noemen termijn een verweerschrift in te dienen. Het College doet aan verzoeker een afschrift van het ontvangen verweerschrift toekomen. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) en [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2012-10-01&g=2012-10-01) zijn zo veel mogelijk van overeenkomstige toepassing.
+3. Het College zendt verweerder een afschrift van het verzoekschrift, met het verzoek binnen een daarbij te noemen termijn een verweerschrift in te dienen. Het College doet aan verzoeker een afschrift van het ontvangen verweerschrift toekomen. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01) en [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2020-01-01&g=2020-01-01) zijn zo veel mogelijk van overeenkomstige toepassing.
 
-4. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=4&artikel=17&z=2012-10-01&g=2012-10-01) is van overeenkomstige toepassing, met dien verstande dat inzage mogelijk is gedurende een door het College te bepalen termijn.
+4. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=4&artikel=17&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing, met dien verstande dat inzage mogelijk is gedurende een door het College te bepalen termijn.
 
 5. Blijkt aan het College bij de behandeling dat de zaak niet voldoende spoedeisend is of dat de zaak een gewone behandeling vordert, dan bepaalt het dat de zaak op de gewone wijze wordt behandeld.
 
@@ -306,7 +306,7 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 1. Indien op grond van het verzoekschrift of het vooronderzoek het vermoeden bestaat dat kennelijk onderscheid is gemaakt, kan het College besluiten om de zaak af te doen zonder zitting.
 
-2. Het College oordeelt nadat de verweerder met toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&artikel=10&z=2012-10-01&g=2012-10-01) in de gelegenheid is gesteld om op het verzoekschrift te reageren.
+2. Het College oordeelt nadat de verweerder met toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01) in de gelegenheid is gesteld om op het verzoekschrift te reageren.
 
 3. Blijkt aan het College op grond van het verweerschrift dat er reden is om te twijfelen aan de kennelijke aard van het onderscheid, dan bepaalt het dat de zaak op de gewone wijze wordt behandeld.
 
@@ -320,7 +320,7 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 ##### Artikel 32
 
-In geval van een onderzoek uit eigen beweging als bedoeld in [artikel 10, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), zijn de [artikelen 8 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=8&z=2012-10-01&g=2012-10-01) van overeenkomstige toepassing.
+In geval van een onderzoek uit eigen beweging als bedoeld in [artikel 10, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), zijn de [artikelen 8 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Slotbepalingen
 
