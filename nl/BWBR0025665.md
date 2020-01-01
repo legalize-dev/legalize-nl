@@ -4,7 +4,7 @@ identifier: "BWBR0025665"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-04-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025665"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Een deskundig lid van een kamer voor het kwekersrecht, bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a) en diens plaatsvervanger en de deskundige leden van de kamer voor het kwekersrecht van het gerechtshof, bedoeld in [artikel 70, tweede lid, van de Wet op rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70) en hun plaatsvervangers genieten zowel voor het bijwonen van de bijeenkomsten van de kamer voor het kwekersrecht, als voor het volbrengen van verrichtingen, welke hen ook buiten eigenlijk rechtsgeding door de kamer voor het kwekersrecht worden opgedragen, reis- en verblijfskosten overeenkomstig het bepaalde bij en krachtens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+1. Een deskundig lid van een kamer voor het kwekersrecht, bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a) en diens plaatsvervanger en de deskundige leden van de kamer voor het kwekersrecht van het gerechtshof, bedoeld in [artikel 70, tweede lid, van de Wet op rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70) en hun plaatsvervangers genieten zowel voor het bijwonen van de bijeenkomsten van de kamer voor het kwekersrecht, als voor het volbrengen van verrichtingen, welke hen ook buiten eigenlijk rechtsgeding door de kamer voor het kwekersrecht worden opgedragen, reis- en verblijfskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. Reis- en verblijfskosten als bedoeld in het vorige lid worden ook genoten in de gevallen, dat een titularis wordt beëdigd of geïnstalleerd.
 
