@@ -4,7 +4,7 @@ identifier: "BWBR0036599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036599"
 soort: "ministeriele-regeling"
@@ -66,7 +66,9 @@ In deze regeling wordt verstaan onder:
 
 - j. **inleenopdracht:** een overeenkomst tussen een uitzendwerkgever en een derde, niet zijnde een opdrachtgever als bedoeld in onderdeel h;
 
-- k. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- k. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+
+- l. **overheidswerkgever:** de werkgever, bedoeld in [artikel 2 van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2) die op basis van [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) arbeidsovereenkomsten sluit met ambtenaren.
 
 #### § 2. Regels met betrekking tot een redelijke grond voor ontslag als bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
 
@@ -92,7 +94,7 @@ Indien de werkgever voornemens is werkzaamheden van een werknemer uit te bestede
 
 ##### Artikel 7. Redelijke grond voor ontslag uitzendkracht
 
-Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opzegging van de arbeidsovereenkomst wegens bedrijfseconomische omstandigheden, indien aannemelijk is dat de werknemer niet binnen de periode van 26 weken, bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), bij die derde dezelfde of vergelijkbare werkzaamheden zal kunnen verrichten en de uitzendwerkgever zich gedurende een periode gelijk aan de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), heeft ingespannen om de werknemer te herplaatsen in een passende functie.
+Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opzegging van de arbeidsovereenkomst wegens bedrijfseconomische omstandigheden, indien aannemelijk is dat de werknemer niet binnen de periode van 26 weken, bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), bij die derde dezelfde of vergelijkbare werkzaamheden zal kunnen verrichten en de uitzendwerkgever zich gedurende een periode gelijk aan de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), heeft ingespannen om de werknemer te herplaatsen in een passende functie.
 
 ##### Artikel 8. Verval arbeidsplaatsen over toekomstige periode bezien
 
@@ -106,11 +108,11 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 1. Bij de beoordeling of binnen de onderneming van de werkgever een passende functie beschikbaar is voor een werknemer die voor ontslag in aanmerking komt, worden arbeidsplaatsen betrokken:
 
-- a. waarvoor een vacature bestaat, of waarvoor binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), een vacature zal ontstaan;
+- a. waarvoor een vacature bestaat, of waarvoor binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), een vacature zal ontstaan;
 
 - b. waarop werknemers of personen, die geen werkzaamheden van tijdelijke aard verrichten gedurende ten hoogste 26 weken, werkzaam zijn:
 
-- 1°. op basis van een tijdelijke arbeidsovereenkomst, die binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), eindigt;
+- 1°. op basis van een tijdelijke arbeidsovereenkomst, die binnen de redelijke termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), eindigt;
 
 - 2°. op basis van een uitzendovereenkomst;
 
@@ -154,7 +156,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 ##### Artikel 11. Afspiegelingsbeginsel
 
-1. Voor zover het bij de te vervallen arbeidsplaatsen om uitwisselbare functies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=13&z=2019-01-01&g=2019-01-01) gaat, komen per leeftijdsgroep binnen een categorie uitwisselbare functies de werknemers met het kortste dienstverband het eerst voor ontslag in aanmerking, waarbij het aantal werknemers dat per leeftijdsgroep voor ontslag in aanmerking komt, voor zover mogelijk, overeenkomt met de onderlinge verhouding van het aantal werknemers in elk van de leeftijdsgroepen binnen de desbetreffende categorie uitwisselbare functies. De in de eerste volzin bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en vanaf 55 jaar.
+1. Voor zover het bij de te vervallen arbeidsplaatsen om uitwisselbare functies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=13&z=2020-01-01&g=2020-01-01) gaat, komen per leeftijdsgroep binnen een categorie uitwisselbare functies de werknemers met het kortste dienstverband het eerst voor ontslag in aanmerking, waarbij het aantal werknemers dat per leeftijdsgroep voor ontslag in aanmerking komt, voor zover mogelijk, overeenkomt met de onderlinge verhouding van het aantal werknemers in elk van de leeftijdsgroepen binnen de desbetreffende categorie uitwisselbare functies. De in de eerste volzin bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en vanaf 55 jaar.
 
 2. Indien in een categorie uitwisselbare functies werknemers werkzaam zijn van wie de arbeidsrelatie op grond van [artikel 671a, vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a) moet worden beëindigd alvorens toestemming voor opzegging van een arbeidsovereenkomst wordt verleend, komen in volgorde van de lengte van het dienstverband achtereenvolgens voor ontslag in aanmerking:
 
@@ -180,11 +182,11 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 ##### Artikel 12. Peildatum
 
-1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) wordt uitgegaan van de werknemers die op het moment waarop het verzoek om toestemming om de arbeidsovereenkomsten te beëindigen wordt ingediend werkzaam waren binnen een categorie uitwisselbare functies.
+1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) wordt uitgegaan van de werknemers die op het moment waarop het verzoek om toestemming om de arbeidsovereenkomsten te beëindigen wordt ingediend werkzaam waren binnen een categorie uitwisselbare functies.
 
-2. De werkgever kan voor de toepassing van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01), uitgaan van een eerder objectief vast te stellen moment dan het moment, bedoeld in het eerste lid, indien daar een redelijke grond voor is en voor zover dat moment niet gelegen is voor het moment waarop aan de werknemers te kennen is gegeven dat arbeidsplaatsen zouden vervallen.
+2. De werkgever kan voor de toepassing van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01), uitgaan van een eerder objectief vast te stellen moment dan het moment, bedoeld in het eerste lid, indien daar een redelijke grond voor is en voor zover dat moment niet gelegen is voor het moment waarop aan de werknemers te kennen is gegeven dat arbeidsplaatsen zouden vervallen.
 
-3. Indien het beëindigen van een inleenopdracht leidt tot het vervallen van één of meer arbeidsplaatsen bij een uitzendwerkgever, wordt, in afwijking van het eerste lid en tweede lid, bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) uitgegaan van het moment waarop de inleenopdracht eindigt.
+3. Indien het beëindigen van een inleenopdracht leidt tot het vervallen van één of meer arbeidsplaatsen bij een uitzendwerkgever, wordt, in afwijking van het eerste lid en tweede lid, bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) uitgegaan van het moment waarop de inleenopdracht eindigt.
 
 ##### Artikel 13. Uitwisselbare functies
 
@@ -198,23 +200,23 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 ##### Artikel 14. In aanmerking te nemen uitwisselbare functies
 
-1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) wordt uitgegaan van alle uitwisselbare functies binnen de onderneming van de werkgever, tenzij de arbeidsplaatsen vervallen binnen een bedrijfsvestiging van de onderneming van de werkgever, in welk geval voor de toepassing van dat artikel wordt uitgegaan van alle uitwisselbare functies binnen de bedrijfsvestiging.
+1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) wordt uitgegaan van alle uitwisselbare functies binnen de onderneming van de werkgever, tenzij de arbeidsplaatsen vervallen binnen een bedrijfsvestiging van de onderneming van de werkgever, in welk geval voor de toepassing van dat artikel wordt uitgegaan van alle uitwisselbare functies binnen de bedrijfsvestiging.
 
 2. Indien de redelijke toepassing van het afspiegelingsbeginsel dit, gelet op de omstandigheden, met zich meebrengt, worden, in afwijking van het eerste lid, uitwisselbare functies bij verschillende ondernemingen van de werkgever of onderdelen van een onderneming van de werkgever die worden aangemerkt als bedrijfsvestiging, samengenomen.
 
-3. In afwijking van het eerste lid wordt, bij het vervallen van een inleenopdracht bij een uitzendwerkgever, bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) uitgegaan van de inleenopdrachten met uitwisselbare functies bij het bedrijf waar de werknemer laatstelijk werkzaam was en de inleenopdrachten op grond waarvan bij andere bedrijven per bedrijf in totaal vier of meer werknemers werkzaam zijn in uitwisselbare functies, met dien verstande dat van de inleenopdrachten in andere bedrijven, de inleenopdrachten buiten beschouwing blijven waarvan de resterende duur twee maanden of minder bedraagt te rekenen vanaf het moment waarop de inleenopdracht is komen te vervallen.
+3. In afwijking van het eerste lid wordt, bij het vervallen van een inleenopdracht bij een uitzendwerkgever, bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) uitgegaan van de inleenopdrachten met uitwisselbare functies bij het bedrijf waar de werknemer laatstelijk werkzaam was en de inleenopdrachten op grond waarvan bij andere bedrijven per bedrijf in totaal vier of meer werknemers werkzaam zijn in uitwisselbare functies, met dien verstande dat van de inleenopdrachten in andere bedrijven, de inleenopdrachten buiten beschouwing blijven waarvan de resterende duur twee maanden of minder bedraagt te rekenen vanaf het moment waarop de inleenopdracht is komen te vervallen.
 
 4. In afwijking van het eerste lid, wordt bij het vervallen van arbeidsplaatsen bij een werkgever in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, de gehandicaptenzorg, de jeugdhulp, de geestelijke gezondheidszorg met inbegrip van de verslavingszorg, de branche welzijn en maatschappelijke dienstverlening of bij een verpleeg- of verzorgingshuis, uitgegaan van de gemeente waarbinnen arbeidsplaatsen komen te vervallen, tenzij de werkgever:
 
-- a. binnen de betreffende gemeente beschikt over meerdere bedrijfsvestigingen, in welk geval bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) wordt uitgegaan van die bedrijfsvestigingen; of
+- a. binnen de betreffende gemeente beschikt over meerdere bedrijfsvestigingen, in welk geval bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) wordt uitgegaan van die bedrijfsvestigingen; of
 
 - b. aannemelijk maakt dat vanwege de wijze waarop de werkzaamheden zijn georganiseerd, uitgegaan moet worden van de onderneming of van een bedrijfsvestiging binnen de onderneming.
 
-5. Indien een werknemer in meerdere gemeenten of bedrijfsvestigingen zijn werkzaamheden uitvoert wordt de werknemer bij de toepassing van het eerste en vierde lid toegerekend aan elk van die gemeenten of bedrijfsvestigingen voor het aantal uren waarin de werknemer in een gemeente of bedrijfsvestiging werkzaam is. Indien het aantal uren waarin de werknemer werkzaamheden uitvoerde in een gemeente of bedrijfsvestiging in een periode van ten hoogste zes maanden voorafgaand aan de peildatum, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=12&z=2019-01-01&g=2019-01-01), wisselend was, wordt uitgegaan van het gemiddelde aantal uren waarin de werknemer in een gemeente of vestiging werkzaam was in die periode.
+5. Indien een werknemer in meerdere gemeenten of bedrijfsvestigingen zijn werkzaamheden uitvoert wordt de werknemer bij de toepassing van het eerste en vierde lid toegerekend aan elk van die gemeenten of bedrijfsvestigingen voor het aantal uren waarin de werknemer in een gemeente of bedrijfsvestiging werkzaam is. Indien het aantal uren waarin de werknemer werkzaamheden uitvoerde in een gemeente of bedrijfsvestiging in een periode van ten hoogste zes maanden voorafgaand aan de peildatum, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=12&z=2020-01-01&g=2020-01-01), wisselend was, wordt uitgegaan van het gemiddelde aantal uren waarin de werknemer in een gemeente of vestiging werkzaam was in die periode.
 
 ##### Artikel 15. Opvolgende arbeidsovereenkomsten
 
-1. Voor de berekening van de duur van het dienstverband, bedoeld in [artikel 11, eerste, tweede en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01), worden een of meer voorafgaande arbeidsovereenkomsten tussen dezelfde partijen, die elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd, samengeteld.
+1. Voor de berekening van de duur van het dienstverband, bedoeld in [artikel 11, eerste, tweede en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01), worden een of meer voorafgaande arbeidsovereenkomsten tussen dezelfde partijen, die elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd, samengeteld.
 
 2. Voor de toepassing van het eerste lid worden arbeidsovereenkomsten geacht elkaar te hebben opgevolgd, indien de werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers die, ongeacht of inzicht bestond in de hoedanigheid en geschiktheid van de werknemer, redelijkerwijze geacht moeten worden ten aanzien van de verrichte arbeid elkaars opvolger te zijn.
 
@@ -224,7 +226,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 ##### Artikel 16. Alternatief afspiegelingsbeginsel
 
-1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) kan ten hoogste 10% van het totale aantal werknemers dat voor ontslag in aanmerking komt buiten beschouwing worden gelaten, indien bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan is bepaald dat van deze mogelijkheid gebruik kan worden gemaakt.
+1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) kan ten hoogste 10% van het totale aantal werknemers dat voor ontslag in aanmerking komt buiten beschouwing worden gelaten, indien bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan is bepaald dat van deze mogelijkheid gebruik kan worden gemaakt.
 
 2. Werknemers kunnen uitsluitend op grond van het eerste lid buiten beschouwing worden gelaten, indien:
 
@@ -232,7 +234,7 @@ Bij het beëindigen van een inleenopdracht, bestaat een redelijke grond voor opz
 
 - b. de werknemers periodiek zijn beoordeeld, waarbij steeds aangegeven is of een werknemer bovengemiddeld functioneert of zich naar verwachting in de toekomst bovengemiddeld zal ontwikkelen;
 
-- c. voor alle werknemers kenbaar is gemaakt dat werknemers die bovengemiddeld functioneren of waarvan de verwachting is dat zij zich bovengemiddeld zullen gaan ontwikkelen buiten beschouwing gelaten kunnen worden bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01); en
+- c. voor alle werknemers kenbaar is gemaakt dat werknemers die bovengemiddeld functioneren of waarvan de verwachting is dat zij zich bovengemiddeld zullen gaan ontwikkelen buiten beschouwing gelaten kunnen worden bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01); en
 
 - d. aan alle werknemers dezelfde mogelijkheden zijn geboden om zich, al dan niet in de toekomst, te ontwikkelen tot een bovengemiddeld functionerende werknemer.
 
@@ -248,9 +250,9 @@ De toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op g
 
 - a. werknemers en personen die werkzaamheden van tijdelijke aard verrichten, gedurende een periode van ten hoogste 26 weken;
 
-- b. werknemers met een arbeidsovereenkomst voor bepaalde tijd, anders dan bedoeld in [artikel 671a, vijfde lid, onderdelen b en d, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), waarvan de resterende looptijd van de arbeidsovereenkomst meer bedraagt dan 26 weken, te rekenen vanaf de dag waarop op het verzoek om toestemming om de arbeidsovereenkomst op te zeggen wordt beslist, voor zover deze werknemers niet op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) in aanmerking komen voor ontslag;
+- b. werknemers met een arbeidsovereenkomst voor bepaalde tijd, anders dan bedoeld in [artikel 671a, vijfde lid, onderdelen b en d, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), waarvan de resterende looptijd van de arbeidsovereenkomst meer bedraagt dan 26 weken, te rekenen vanaf de dag waarop op het verzoek om toestemming om de arbeidsovereenkomst op te zeggen wordt beslist, voor zover deze werknemers niet op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) in aanmerking komen voor ontslag;
 
-- c. payrollwerknemers, die werkzaam zijn op basis van een arbeidsovereenkomst voor onbepaalde tijd, of een arbeidsovereenkomst voor bepaalde tijd, anders dan bedoeld in [artikel 671a, vijfde lid, onderdelen b en d, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), waarvan de resterende looptijd meer bedraagt dan 26 weken, te rekenen vanaf de dag waarop op het verzoek om toestemming om de arbeidsovereenkomst op te zeggen wordt beslist, voor zover voor deze werknemers uit de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) niet voortvloeit dat de overeenkomst met de payrollwerkgever moet worden opgezegd;
+- c. payrollwerknemers, die werkzaam zijn op basis van een arbeidsovereenkomst voor onbepaalde tijd, of een arbeidsovereenkomst voor bepaalde tijd, anders dan bedoeld in [artikel 671a, vijfde lid, onderdelen b en d, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), waarvan de resterende looptijd meer bedraagt dan 26 weken, te rekenen vanaf de dag waarop op het verzoek om toestemming om de arbeidsovereenkomst op te zeggen wordt beslist, voor zover voor deze werknemers uit de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) niet voortvloeit dat de overeenkomst met de payrollwerkgever moet worden opgezegd;
 
 - d. personen die werkzaamheden verrichten anders dan op basis van een arbeidsovereenkomst, indien de werkzaamheden worden verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, door of namens natuurlijke of rechtspersonen die zijn ingeschreven bij de Kamer van Koophandel, en het voor een doelmatige bedrijfsvoering noodzakelijk is dat deze werkzaamheden anders dan op basis van een arbeidsovereenkomst worden verricht.
 
@@ -258,11 +260,11 @@ De toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op g
 
 ##### Artikel 18. Wederindiensttredingsvoorwaarde buiten toepassing
 
-De [artikelen 681, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681), en [682, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) zijn niet van toepassing, indien de werkgever nadat de arbeidsovereenkomst met toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=2&artikel=6&z=2019-01-01&g=2019-01-01) is opgezegd of ontbonden, de werkzaamheden laat verrichten door een persoon als bedoeld in artikel 6.
+De [artikelen 681, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681), en [682, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) zijn niet van toepassing, indien de werkgever nadat de arbeidsovereenkomst met toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) is opgezegd of ontbonden, de werkzaamheden laat verrichten door een persoon als bedoeld in artikel 6.
 
 ##### Artikel 19. Wederindiensttredingsvoorwaarde na groepsontslag
 
-Indien meer dan één arbeidsovereenkomst met betrekking tot dezelfde werkzaamheden wegens bedrijfseconomische omstandigheden is opgezegd of ontbonden, stelt de werkgever de werknemer wiens arbeidsovereenkomst op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01) als laatste in aanmerking kwam voor opzegging of ontbinding, als eerste in de gelegenheid zijn vroegere werkzaamheden te hervatten dan wel als kandidaat bij een derde te worden voorgedragen. Indien een werknemer geen gebruik van die gelegenheid maakt, of een werknemer door die derde niet geschikt wordt geacht, stelt de werkgever telkens de werknemer die daarna in aanmerking kwam voor opzegging of ontbinding in de gelegenheid de werkzaamheden te hervatten of te worden voorgedragen bij die derde.
+Indien meer dan één arbeidsovereenkomst met betrekking tot dezelfde werkzaamheden wegens bedrijfseconomische omstandigheden is opgezegd of ontbonden, stelt de werkgever de werknemer wiens arbeidsovereenkomst op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01) als laatste in aanmerking kwam voor opzegging of ontbinding, als eerste in de gelegenheid zijn vroegere werkzaamheden te hervatten dan wel als kandidaat bij een derde te worden voorgedragen. Indien een werknemer geen gebruik van die gelegenheid maakt, of een werknemer door die derde niet geschikt wordt geacht, stelt de werkgever telkens de werknemer die daarna in aanmerking kwam voor opzegging of ontbinding in de gelegenheid de werkzaamheden te hervatten of te worden voorgedragen bij die derde.
 
 #### § 7. Regels met betrekking tot het ontslag van de payrollwerknemer
 
@@ -286,7 +288,7 @@ Indien de arbeidsovereenkomst met een payrollwerknemer is opgezegd of ontbonden 
 
 Indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiatief van de payrollwerkgever wordt beëindigd, omdat de opdrachtgever de financiële verplichtingen die voortvloeien uit de overeenkomst gedurende een periode van ten minste drie maanden in het geheel niet is nagekomen en de payrollwerkgever in voldoende mate heeft getracht nakoming van de overeenkomst af te dwingen:
 
-- a. zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2019-01-01&g=2019-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=7&artikel=20&z=2019-01-01&g=2019-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=7&artikel=22&z=2019-01-01&g=2019-01-01), alsmede de [artikelen 681, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681), en [682, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) niet van toepassing; en
+- a. zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=4&artikel=11&z=2020-01-01&g=2020-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=7&artikel=20&z=2020-01-01&g=2020-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&paragraaf=7&artikel=22&z=2020-01-01&g=2020-01-01), alsmede de [artikelen 681, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681), en [682, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) niet van toepassing; en
 
 - b. kan de toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op grond van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) worden verleend zonder dat de payrollwerkgever arbeidsrelaties of inleenovereenkomsten als bedoeld in [artikel 671a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), heeft beëindigd.
 
@@ -294,31 +296,7 @@ Indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiat
 
 ##### Artikel 24. Kleine werkgever
 
-1. Op een werkgever die deel uitmaakt van een groep zijn de [artikelen 673a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673a), en [673d van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673d) niet van toepassing, indien de werkgevers die deel uitmaken van deze groep samen gemiddeld 25 of meer werknemers in dienst hadden in de tweede helft van het kalenderjaar, voorafgaand aan het kalenderjaar:
-
-- a. waarin voor de werknemer een verzoek om toestemming of een verzoek om ontbinding is ingediend; of
-
-- b. indien voor de beëindiging van een arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
-
-2. Maanden die gelegen zijn voor 1 mei 2013 kunnen voor de berekening van de duur van de arbeidsovereenkomst uitsluitend op grond van [artikel 673d, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673d) buiten beschouwing worden gelaten, indien:
-
-- a. het netto resultaat van de onderneming van de werkgever over het boekjaar, bedoeld in het derde lid, en de twee daaraan voorafgaande boekjaren tezamen gemiddeld kleiner is geweest dan nul;
-
-- b. de waarde van het eigen vermogen, bedoeld in het [Besluit modellen jaarrekening](https://wetten.overheid.nl/jci1.3:c:BWBR0003648), van de onderneming van de werkgever aan het einde van het boekjaar, bedoeld in het derde lid, ten hoogste 15 procent was van het totale vermogen van de onderneming van de werkgever, en
-
-- c. binnen de onderneming van de werkgever aan het einde van het boekjaar, bedoeld in het derde lid, de waarde van de vlottende activa kleiner is dan de schulden met een resterende looptijd van ten hoogste een jaar.
-
-3. In het tweede lid, onderdelen a, b en c, wordt bedoeld het boekjaar, voorafgaand aan het boekjaar:
-
-- a. waarin het verzoek om toestemming of het verzoek om ontbinding wordt ingediend; of
-
-- b. indien voor de beëindiging van de arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
-
-4. Indien in een boekjaar aan de eigenaar van de onderneming geen loon is toegekend, wordt voor de toepassing van het tweede lid, onderdeel a, het netto resultaat van de onderneming in dat boekjaar verminderd met het bedrag, bedoeld in [artikel 12a, onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a). Indien meerdere eigenaren arbeid verrichten ten bate van de onderneming, wordt het bedrag, bedoeld in de eerst zin, voor elk van deze eigenaren in mindering gebracht op het resultaat van de onderneming.
-
-5. Payrollwerknemers, die aan de werkgever ter beschikking zijn gesteld, worden meegerekend bij het bepalen van het aantal werknemers dat die werkgever in dienst heeft, bedoeld in de [artikelen 673a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673a), en [673d, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673d).
-
-6. Dit artikel vervalt met ingang van 1 januari 2020.
+Vervallen
 
 ##### Artikel 25. Betalen in termijnen
 
@@ -363,5 +341,27 @@ Deze regeling wordt aangehaald als: Ontslagregeling.
 ##### Artikel 30. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2015.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. Beoordeling noodzaak verval van arbeidsplaatsen bij democratisch genomen besluiten die betrekking hebben op overheidswerkgevers
+
+Een overheidswerkgever die bij het UWV een schriftelijk verzoek indient om toestemming om op te zeggen op grond van bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), geeft aan in het schriftelijke verzoek op welke wijze, binnen de democratische structuur waarin de overheidswerkgever opereert een bepaalde organisatie dan wel een onderdeel van een bepaalde overheidsorganisatie wordt opgeheven, gereorganiseerd of gekort dient te worden. De overheidswerkgever geeft daarbij concreet aan hoe de beslissing om de organisatie te veranderen tot stand is gekomen en welke, indien aan de orde, democratisch genomen besluiten aan de beslissing om toestemming te vragen om op te zeggen ten grondslag liggen.
+
+#### § 3. Regels met betrekking tot herplaatsing en de redelijke termijn, bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
+
+#### § 4. Regels met betrekking tot het bepalen van de volgorde van ontslag bij het vervallen van arbeidsplaatsen wegens bedrijfseconomische omstandigheden
+
+#### § 5. Regels met betrekking tot het eerst beëindigen van andere arbeidsrelaties
+
+#### § 6. Regels met betrekking tot de wederindiensttredingsvoorwaarde
+
+#### § 7. Regels met betrekking tot het ontslag van de payrollwerknemer
+
+#### § 8. Regels met betrekking tot de transitievergoeding
+
+#### § 9. Regels met betrekking tot de [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
+
+#### § 10. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
