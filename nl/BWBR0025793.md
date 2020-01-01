@@ -4,7 +4,7 @@ identifier: "BWBR0025793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-10-12"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025793"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van de Raad voor cultuur ontvangt een vaste vergoeding. De salarisschaal van de voorzitter wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt vastgesteld op 0,66.
+De voorzitter van de Raad voor cultuur ontvangt een vaste vergoeding. De salarisschaal van de voorzitter wordt vastgesteld op schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor wordt vastgesteld op 0,66.
 
 ##### Artikel 2
 
-De overige leden van de Raad voor cultuur ontvangen een vaste vergoeding. De salarisschaal van de leden wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt vastgesteld op 0,14.
+De overige leden van de Raad voor cultuur ontvangen een vaste vergoeding. De salarisschaal van de leden wordt vastgesteld op schaal 16 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor wordt vastgesteld op 0,14.
 
 ##### Artikel 3
 
@@ -62,6 +62,10 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de voorzitter en andere leden van commissies van de Raad voor cultuur, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), wordt per vergadering een vergoeding toegekend:
+
+- a. voor leden: 2,4% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren;
+
+- b. voor de voorzitter: 130% van de hoogte van de vergoeding die aan de andere leden van de desbetreffende commissie wordt toegekend.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
