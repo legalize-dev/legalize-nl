@@ -4,7 +4,7 @@ identifier: "BWBR0013128"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013128"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. appèlgerechten: de gerechtshoven, de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven;
 
-- c. commissie: de commissie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01).
+- c. commissie: de commissie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
 
 #### Paragraaf 2. Samenstelling, inrichting en afvaardiging
 
@@ -92,7 +92,7 @@ waarvan telkens de helft gerechtsambtenaar is. Voor de toepassing van dit beslui
 
 ##### Artikel 3
 
-1. Per ressort is er een commissie die de leden van het College, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), en hun plaatsvervangers aanwijst. De leden en hun plaatsvervangers worden aangewezen uit de rechterlijke ambtenaren en gerechtsambtenaren die werkzaam zijn bij de rechtbanken en appèlgerechten waarvan het rechtsgebied binnen het ressort is gelegen.
+1. Per ressort is er een commissie die de leden van het College, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), en hun plaatsvervangers aanwijst. De leden en hun plaatsvervangers worden aangewezen uit de rechterlijke ambtenaren en gerechtsambtenaren die werkzaam zijn bij de rechtbanken en appèlgerechten waarvan het rechtsgebied binnen het ressort is gelegen.
 
 2. De commissie bestaat uit een rechterlijk ambtenaar en een gerechtsambtenaar van elke rechtbank en elk appèlgerecht, waarvan het rechtsgebied binnen het ressort is gelegen. De leden van de commissie worden aangewezen voor een periode van zes jaar. Het gerechtsbestuur draagt er zorg voor dat binnen zijn rechtbank of appèlgerecht vergaderingen worden georganiseerd, waarin de rechterlijke ambtenaren het lid van de commissie aanwijzen dat rechterlijk ambtenaar is en de gerechtsambtenaren het lid van de commissie dat gerechtsambtenaar is.
 
@@ -106,7 +106,7 @@ Als lid van het College kunnen niet worden afgevaardigd rechterlijke ambtenaren 
 
 - a. op eigen verzoek;
 
-- b. indien het lidmaatschap onverenigbaar is met de [artikelen 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), of[4](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01);
+- b. indien het lidmaatschap onverenigbaar is met de [artikelen 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), of[4](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01);
 
 - c. indien een lid van het College niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank of appèlgerecht of bij een van de rechtbanken of appèlgerechten in het ressort waarvoor dat lid is afgevaardigd;
 
@@ -138,15 +138,15 @@ Bij de uitoefening van zijn werkzaamheden wordt het College administratief bijge
 
 ##### Artikel 10
 
-De leden van het College ontvangen een vergoeding voor reis- en verblijfskosten overeenkomstig het Reisbesluit binnenland.
+De leden van het College ontvangen een vergoeding voor reis- en verblijfskosten in het binnenland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 #### Paragraaf 3. Overgangs- en slotbepalingen
 
 ##### Artikel 11
 
-1. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), en [5, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=5&z=2017-01-01&g=2017-01-01), behoudt een lid van het College dat ten gevolge van de inwerkingtreding van [artikel II van de Evaluatiewet modernisering rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030035&artikel=II) niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank in het ressort waarvoor dat lid is afgevaardigd, het lidmaatschap namens dat ressort totdat de termijn waarvoor dat lid is afgevaardigd, is verstreken.
+1. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), en [5, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), behoudt een lid van het College dat ten gevolge van de inwerkingtreding van [artikel II van de Evaluatiewet modernisering rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030035&artikel=II) niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank in het ressort waarvoor dat lid is afgevaardigd, het lidmaatschap namens dat ressort totdat de termijn waarvoor dat lid is afgevaardigd, is verstreken.
 
-2. De leden van een commissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01) die als rechterlijk ambtenaar of gerechtsambtenaar werkzaam zijn bij een rechtbank die op het tijdstip van inwerkingtreding van artikel II van de Evaluatiewet modernisering rechterlijke organisatie overgaat naar een ander ressort, maken van rechtswege deel uit van de commissie in dat andere ressort.
+2. De leden van een commissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013128&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01) die als rechterlijk ambtenaar of gerechtsambtenaar werkzaam zijn bij een rechtbank die op het tijdstip van inwerkingtreding van artikel II van de Evaluatiewet modernisering rechterlijke organisatie overgaat naar een ander ressort, maken van rechtswege deel uit van de commissie in dat andere ressort.
 
 ##### Artikel 12
 
