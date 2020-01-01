@@ -4,7 +4,7 @@ identifier: "BWBR0037393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037393"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt, in afwijking van [artikel 1, onder b, van de Wet vergoed
 
 ##### Artikel 2
 
-1. De leden van de politieonderwijsraad, bedoeld in [artikel 19 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=19), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met uitzondering van de voorzitter van de politieonderwijsraad, de plaatsvervangend voorzitter van de politieonderwijsraad en het lid dat tevens voorzitter is van de commissie, die een vaste vergoeding per maand ontvangen.
+1. De leden van de politieonderwijsraad, bedoeld in [artikel 19 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=19), ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met uitzondering van de voorzitter van de politieonderwijsraad, de plaatsvervangend voorzitter van de politieonderwijsraad en het lid dat tevens voorzitter is van de commissie, die een vaste vergoeding per maand ontvangen.
 
 2. Voor de voorzitter van de politieonderwijsraad geldt een arbeidsduurfactor van 4/36, voor de plaatsvervangend voorzitter van de politieonderwijsraad geldt een arbeidsduurfactor van 3/36 en voor het lid dat tevens voorzitter is van de commissie geldt een arbeidsduurfactor van 2/36.
 
