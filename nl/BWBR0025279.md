@@ -4,7 +4,7 @@ identifier: "BWBR0025279"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025279"
 soort: "AMvB"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder de wet: de [Wet vergoedingen adviescolleges 
 
 ##### Artikel 2
 
-De vergoeding per vergadering, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), bedraagt ten hoogste 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met dien verstande dat aan de voorzitter van een adviescollege of van een commissie een vergoeding per vergadering kan worden toegekend van maximaal 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van het desbetreffende adviescollege of de desbetreffende commissie wordt toegekend.
+De vergoeding per vergadering, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), bedraagt ten hoogste 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, met dien verstande dat aan de voorzitter van een adviescollege of van een commissie een vergoeding per vergadering kan worden toegekend van maximaal 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van het desbetreffende adviescollege of de desbetreffende commissie wordt toegekend.
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2013-01-01&g=2013-01-01) wordt als een vergadering beschouwd:
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2020-01-01&g=2020-01-01) wordt als een vergadering beschouwd:
 
 - a. een vergadering van een adviescollege of een commissie;
 
@@ -70,13 +70,13 @@ Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00252
 
 ##### Artikel 4
 
-1. Een besluit tot vaststelling van een vaste vergoeding als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), bepaalt de toepasselijke arbeidsduurfactor en de toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. Een besluit tot vaststelling van een vaste vergoeding als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), bepaalt de toepasselijke arbeidsduurfactor en de toepasselijke salarisschaal overeenkomstig de salarisschalen zoals deze zijn overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. De vaste vergoeding bedraagt naar evenredigheid van de toepasselijke arbeidsduurfactor het maximum van de toepasselijke salarisschaal.
 
 ##### Artikel 5
 
-In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4&z=2013-01-01&g=2013-01-01) kan in een besluit als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), in overeenstemming met het gevoelen van de ministerraad, een hogere vergoeding worden toegekend.
+In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4&z=2020-01-01&g=2020-01-01) kan in een besluit als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), in overeenstemming met het gevoelen van de ministerraad, een hogere vergoeding worden toegekend.
 
 ##### Artikel 6
 
@@ -92,7 +92,7 @@ Het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317)
 
 ##### Artikel 8
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6&z=2013-01-01&g=2013-01-01) van dit besluit is niet van toepassing op leden van een adviescollege of een commissie die zijn benoemd voor de datum van inwerkingtreding van dit besluit.
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6&z=2020-01-01&g=2020-01-01) van dit besluit is niet van toepassing op leden van een adviescollege of een commissie die zijn benoemd voor de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 9
 
