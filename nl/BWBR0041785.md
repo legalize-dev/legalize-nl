@@ -4,7 +4,7 @@ identifier: "BWBR0041785"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041785"
 soort: "ministeriele-regeling"
@@ -44,9 +44,13 @@ Besluit:
 
 Deze regeling geeft uitvoering aan [artikel 13ab van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab).
 
-##### Artikel 2. Aanwijzing staten
+##### Artikel 2
 
-Als staten die op 1 oktober van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in [artikel 13ab, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), aanvangt lichamen niet of naar een tarief van minder dan 9% onderwerpen aan een belasting naar de winst of die zijn opgenomen op een in het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in artikel 13ab, eerste lid, van de Wet op de vennootschapsbelasting 1969, aanvangt geldende EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden als bedoeld in artikel 13ab van de Wet op de vennootschapsbelasting 1969 worden aangewezen: Amerikaans Samoa, Amerikaanse Maagdeneilanden, Anguila, Bahamas, Bahrein, Belize, Bermuda, Britse Maagdeneilanden, Guam, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Koeweit, Qatar, Samoa, Saudi-Arabië, Trinidad en Tobago, Turks- en Caicoseilanden, Vanuatu en Verenigde Arabische Emiraten.
+Als staten als bedoeld in [artikel 13ab, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) worden aangewezen:
+
+- a. op grond van [artikel 13ab, derde lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en Verenigde Arabische Emiraten;
+
+- b. op grond van [artikel 13ab, derde lid, onderdeel e, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Fiji, Guam, Oman, Samoa, Trinidad en Tobago en Vanuatu.
 
 ##### Artikel 3. Citeertitel
 
