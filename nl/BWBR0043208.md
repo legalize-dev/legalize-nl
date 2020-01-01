@@ -4,7 +4,7 @@ identifier: "BWBR0043208"
 country: "nl"
 rank: "wet"
 publication_date: "2024-11-06"
-last_updated: "2018-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043208"
 soort: "wet"
@@ -104,8 +104,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XII
 
 Wijzigt de Wet langdurige zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
