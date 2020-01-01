@@ -4,7 +4,7 @@ identifier: "BWBR0004581"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004581"
 soort: "wet"
@@ -54,9 +54,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **kentekenregister**: het register, bedoeld in [artikel 42 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42);
 
-**gedraging:** een gedraging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2019-07-01&g=2019-07-01);
+**gedraging:** een gedraging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01);
 
-**administratieve sanctie:** de aan de Staat te betalen geldsom, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2019-07-01&g=2019-07-01);
+**administratieve sanctie:** de aan de Staat te betalen geldsom, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01);
 
 **adres:** aanduiding van straatnaam, huisnummer, plaatsnaam en postcode van het woonhuis van de betrokkene.
 
@@ -90,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Met het toezicht op de naleving van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2019-07-01&g=2019-07-01), bedoelde voorschriften zijn belast de bij algemene maatregel van bestuur aangewezen ambtenaren.
+1. Met het toezicht op de naleving van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01), bedoelde voorschriften zijn belast de bij algemene maatregel van bestuur aangewezen ambtenaren.
 
 2. De in het eerste lid bedoelde ambtenaren zijn bevoegd tot het opleggen van een administratieve sanctie ter zake van de door hen of op geautomatiseerde wijze vastgestelde gedragingen aan personen die de leeftijd van twaalf jaren hebben bereikt.
 
@@ -106,17 +106,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Een aankondiging van de beschikking kan worden uitgereikt aan degene tot wie zij zich richt of kan worden achtergelaten in of aan het motorrijtuig.
 
-4. In een geval als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2019-07-01&g=2019-07-01), geschiedt de bekendmaking door uitreiking van de beschikking aan betrokkene. De weigering de beschikking in ontvangst te nemen, schort de bekendmaking daarvan niet op.
+4. In een geval als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2020-01-01&g=2020-01-01), geschiedt de bekendmaking door uitreiking van de beschikking aan betrokkene. De weigering de beschikking in ontvangst te nemen, schort de bekendmaking daarvan niet op.
 
-5. De beschikking vermeldt de dag waarop krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2019-07-01&g=2019-07-01) de sanctie en de administratiekosten uiterlijk moet zijn voldaan. Tevens vermeldt de beschikking een beschikkingsnummer en de door Onze Minister bepaalde wijze waarop de sanctie, alsmede de verhogingen die krachtens artikel 23, derde lid, en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2019-07-01&g=2019-07-01) op de administratieve sanctie vallen, indien deze niet tijdig wordt voldaan, dient te worden voldaan.
+5. De beschikking vermeldt de dag waarop krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2020-01-01&g=2020-01-01) de sanctie en de administratiekosten uiterlijk moet zijn voldaan. Tevens vermeldt de beschikking een beschikkingsnummer en de door Onze Minister bepaalde wijze waarop de sanctie, alsmede de verhogingen die krachtens artikel 23, derde lid, en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2020-01-01&g=2020-01-01) op de administratieve sanctie vallen, indien deze niet tijdig wordt voldaan, dient te worden voldaan.
 
 ##### Artikel 5
 
-Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarvoor een kenteken is opgegeven, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2019-07-01&g=2019-07-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken ten tijde van de gedraging in het kentekenregister was ingeschreven. Daarbij wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2019-07-01&g=2019-07-01).
+Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarvoor een kenteken is opgegeven, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2020-01-01&g=2020-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken ten tijde van de gedraging in het kentekenregister was ingeschreven. Daarbij wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5a
 
-Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig, waarmee een aanhangwagen waarvoor een kenteken is vereist, wordt voortbewogen, dan wel waaraan een aanhangwagen waarvoor een kenteken is vereist, is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2019-07-01&g=2019-07-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven. Indien het kenteken van het motorrijtuig niet is vastgesteld, wordt, onverminderd het bepaalde in artikel 31, tweede lid, de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van de aanhangwagen ten tijde van de gedraging in het kentekenregister was ingeschreven. In beide gevallen wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2019-07-01&g=2019-07-01).
+Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig, waarmee een aanhangwagen waarvoor een kenteken is vereist, wordt voortbewogen, dan wel waaraan een aanhangwagen waarvoor een kenteken is vereist, is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2020-01-01&g=2020-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven. Indien het kenteken van het motorrijtuig niet is vastgesteld, wordt, onverminderd het bepaalde in artikel 31, tweede lid, de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van de aanhangwagen ten tijde van de gedraging in het kentekenregister was ingeschreven. In beide gevallen wordt hij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk IV. Administratief beroep en bezwaar bij de officier van justitie
 
@@ -124,7 +124,7 @@ Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel v
 
 1. Tegen de oplegging van de administratieve sanctie kan degene tot wie de beschikking is gericht, beroep instellen bij de officier van justitie.
 
-2. Onverminderd [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) vermeldt het beroepschrift de geboortedatum, de geboorteplaats en het geboortejaar van degene die het beroep heeft ingesteld, het nummer van zijn bankrekening, indien degene die heeft, en het nummer van de beschikking, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2019-07-01&g=2019-07-01).
+2. Onverminderd [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) vermeldt het beroepschrift de geboortedatum, de geboorteplaats en het geboortejaar van degene die het beroep heeft ingesteld, het nummer van zijn bankrekening, indien degene die heeft, en het nummer van de beschikking, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 7
 
@@ -134,7 +134,7 @@ Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel v
 
 ##### Artikel 8
 
-De officier van justitie vernietigt de beschikking indien, in het geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5&z=2019-07-01&g=2019-07-01) onderscheidenlijk [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5a&z=2019-07-01&g=2019-07-01), degene op wiens naam het kenteken in het kentekenregister is ingeschreven:
+De officier van justitie vernietigt de beschikking indien, in het geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5&z=2020-01-01&g=2020-01-01) onderscheidenlijk [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5a&z=2020-01-01&g=2020-01-01), degene op wiens naam het kenteken in het kentekenregister is ingeschreven:
 
 - a. aannemelijk maakt dat tegen zijn wil door een ander van het motorrijtuig onderscheidenlijk de aanhangwagen gebruik is gemaakt en dat hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen,
 
@@ -142,23 +142,23 @@ De officier van justitie vernietigt de beschikking indien, in het geval van [art
 
 - c. een vrijwaringsbewijs, bedoeld in [artikel 1, onderdeel **i**, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=1), of een verklaring als bedoeld in de [artikelen 31 tot en met 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), overlegt waaruit blijkt dat hij ten tijde van de gedraging geen eigenaar of houder meer was van het betrokken motorrijtuig onderscheidenlijk de betrokken aanhangwagen.
 
-In de onder **a**, **b** en **c** bedoelde gevallen is de officier van justitie bevoegd tot het opleggen van een administratieve sanctie aan degene die de gedraging heeft verricht of aan degene die de huurder van het motorrijtuig onderscheidenlijk de aanhangwagen was, dan wel aan degene aan wie het motorrijtuig onderscheidenlijk de aanhangwagen werd overgedragen. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2019-07-01&g=2019-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2019-07-01&g=2019-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=7&z=2019-07-01&g=2019-07-01) zijn alsdan van overeenkomstige toepassing, met dien verstande dat de beschikking uiterlijk binnen acht maanden nadat de gedraging heeft plaatsgevonden wordt bekendgemaakt.
+In de onder **a**, **b** en **c** bedoelde gevallen is de officier van justitie bevoegd tot het opleggen van een administratieve sanctie aan degene die de gedraging heeft verricht of aan degene die de huurder van het motorrijtuig onderscheidenlijk de aanhangwagen was, dan wel aan degene aan wie het motorrijtuig onderscheidenlijk de aanhangwagen werd overgedragen. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2020-01-01&g=2020-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=7&z=2020-01-01&g=2020-01-01) zijn alsdan van overeenkomstige toepassing, met dien verstande dat de beschikking uiterlijk binnen acht maanden nadat de gedraging heeft plaatsgevonden wordt bekendgemaakt.
 
 ### Hoofdstuk V. Beroep bij de kantonrechter van de rechtbank
 
 ##### Artikel 9
 
-1. Tegen de beslissing van de officier van justitie kan degene die administratief beroep heeft ingesteld, beroep instellen bij de rechtbank; het beroep wordt behandeld en beslist door de kantonrechter. In afwijking van [artikel 6:4, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), wordt het beroepschrift ingediend bij de officier van justitie die ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2019-07-01&g=2019-07-01), op het administratief beroep heeft beslist. [Hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) is niet van toepassing.
+1. Tegen de beslissing van de officier van justitie kan degene die administratief beroep heeft ingesteld, beroep instellen bij de rechtbank; het beroep wordt behandeld en beslist door de kantonrechter. In afwijking van [artikel 6:4, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), wordt het beroepschrift ingediend bij de officier van justitie die ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2020-01-01&g=2020-01-01), op het administratief beroep heeft beslist. [Hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) is niet van toepassing.
 
 2. Het beroep kan worden ingesteld ter zake dat:
 
-- a. de gedraging niet is verricht of dat, buiten het geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5&z=2019-07-01&g=2019-07-01), degene tot wie de beschikking is gericht, de gestelde gedraging niet heeft verricht;
+- a. de gedraging niet is verricht of dat, buiten het geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=5&z=2020-01-01&g=2020-01-01), degene tot wie de beschikking is gericht, de gestelde gedraging niet heeft verricht;
 
 - b. de officier van justitie had moeten beslissen dat de omstandigheden waaronder de gedraging heeft plaatsgevonden, het opleggen van een administratieve sanctie niet billijken dan wel dat hij, gelet op de omstandigheden waarin de betrokkene verkeert, een lager bedrag van de administratieve sanctie had moeten vaststellen;
 
-- c. de officier van justitie ten onrechte de beschikking niet op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2019-07-01&g=2019-07-01) heeft vernietigd.
+- c. de officier van justitie ten onrechte de beschikking niet op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2020-01-01&g=2020-01-01) heeft vernietigd.
 
-3. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+3. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -210,7 +210,7 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 ##### Artikel 13b
 
-1. In geval van intrekking van het beroep omdat de officier van justitie geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, kan de officier van justitie op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2019-07-01&g=2019-07-01) in de kosten worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard. Het verzoek wordt bij de officier van justitie ingediend.
+1. In geval van intrekking van het beroep omdat de officier van justitie geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, kan de officier van justitie op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2020-01-01&g=2020-01-01) in de kosten worden veroordeeld. Het verzoek wordt gedaan tegelijk met de intrekking van het beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard. Het verzoek wordt bij de officier van justitie ingediend.
 
 2. De kantonrechter stelt de verzoeker zo nodig in de gelegenheid het verzoek schriftelijk toe te lichten en stelt de officier van justitie in de gelegenheid een verweerschrift in te dienen. Hij stelt hiervoor termijnen vast. Indien het verzoek mondeling wordt gedaan, kan de kantonrechter bepalen dat het toelichten van het verzoek en het voeren van verweer onmiddellijk mondeling geschieden.
 
@@ -224,7 +224,7 @@ De officier van justitie brengt het beroepschrift en de op de zaak betrekking he
 
 1. Degene die bij de rechtbank beroep heeft ingesteld, alsmede de officier van justitie, kunnen tegen de beslissing van de kantonrechter hoger beroep instellen bij het gerechtshof Arnhem-Leeuwarden, tenzij de opgelegde administratieve sanctie bij die beslissing niet meer bedraagt dan € 70.
 
-2. Eveneens kan degene die bij de rechtbank beroep heeft ingesteld doch daarin met toepassing van het bepaalde in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2019-07-01&g=2019-07-01), niet-ontvankelijk is verklaard, tegen die beslissing hoger beroep instellen op de grond dat de kantonrechter ten onrechte heeft geoordeeld dat de zekerheid niet dan wel niet tijdig is gesteld dan wel ten onrechte niet heeft geoordeeld dat de indiener redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
+2. Eveneens kan degene die bij de rechtbank beroep heeft ingesteld doch daarin met toepassing van het bepaalde in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2020-01-01&g=2020-01-01), niet-ontvankelijk is verklaard, tegen die beslissing hoger beroep instellen op de grond dat de kantonrechter ten onrechte heeft geoordeeld dat de zekerheid niet dan wel niet tijdig is gesteld dan wel ten onrechte niet heeft geoordeeld dat de indiener redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
 
 ##### Artikel 15
 
@@ -248,7 +248,7 @@ De [artikelen 512 tot en met 518 van het Wetboek van Strafvordering](https://wet
 
 ##### Artikel 29
 
-1. Indien degene wiens voertuig buiten gebruik kan worden gesteld door Onze Minister niet terstond voldoet aan het overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2019-07-01&g=2019-07-01), en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2019-07-01&g=2019-07-01) verhoogde bedrag van de administratieve sanctie, is Onze Minister bevoegd het voertuig op kosten van de betrokkene naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Het voertuig wordt tussentijds aan de rechthebbende teruggegeven tegen betaling van het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede van de kosten van overbrenging en bewaring.
+1. Indien degene wiens voertuig buiten gebruik kan worden gesteld door Onze Minister niet terstond voldoet aan het overeenkomstig [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2020-01-01&g=2020-01-01), en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=25&z=2020-01-01&g=2020-01-01) verhoogde bedrag van de administratieve sanctie, is Onze Minister bevoegd het voertuig op kosten van de betrokkene naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Het voertuig wordt tussentijds aan de rechthebbende teruggegeven tegen betaling van het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede van de kosten van overbrenging en bewaring.
 
 2. Onze Minister is tevens bevoegd om in het in het eerste lid bedoelde geval aan het voertuig een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden. Het mechanisch hulpmiddel wordt tussentijds niet verwijderd dan nadat het bedrag van de administratieve sanctie en de daarop gevallen verhogingen, alsmede de kosten van het aanbrengen en van het verwijderen ervan zijn voldaan.
 
@@ -312,11 +312,11 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 1. Indien het gerechtshof het beroepschrift ontvankelijk acht, bevestigt het gerechtshof de beslissing van de kantonrechter, hetzij met overneming, hetzij met verbetering van de gronden, of doet het, met gehele of gedeeltelijke vernietiging van de bestreden beslissing van de kantonrechter, hetgeen de kantonrechter zou behoren te doen.
 
-2. Indien de beslissing van de kantonrechter moet worden vernietigd op de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=14&z=2019-07-01&g=2019-07-01), genoemde grond wijst het gerechtshof de zaak terug naar de rechtbank, tenzij door betrokkene de behandeling van het beroep door het gerechtshof zelf is verlangd. In geval van terugwijzing doet de kantonrechter recht met inachtneming van het arrest van het gerechtshof.
+2. Indien de beslissing van de kantonrechter moet worden vernietigd op de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=14&z=2020-01-01&g=2020-01-01), genoemde grond wijst het gerechtshof de zaak terug naar de rechtbank, tenzij door betrokkene de behandeling van het beroep door het gerechtshof zelf is verlangd. In geval van terugwijzing doet de kantonrechter recht met inachtneming van het arrest van het gerechtshof.
 
-3. Het arrest van het gerechtshof is met redenen omkleed. Het wordt op een openbare zitting uitgesproken. Indien de zaak ter zitting is behandeld wordt het arrest aangetekend in het proces-verbaal van die zitting en wordt het uiterlijk veertien dagen na de sluiting van het onderzoek ter zitting uitgesproken. Indien de zaak niet ter zitting is behandeld wordt het arrest op een door de voorzitter te bepalen dag uiterlijk zes weken nadat de laatste van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=19&z=2019-07-01&g=2019-07-01) bedoelde termijnen is verstreken uitgesproken.
+3. Het arrest van het gerechtshof is met redenen omkleed. Het wordt op een openbare zitting uitgesproken. Indien de zaak ter zitting is behandeld wordt het arrest aangetekend in het proces-verbaal van die zitting en wordt het uiterlijk veertien dagen na de sluiting van het onderzoek ter zitting uitgesproken. Indien de zaak niet ter zitting is behandeld wordt het arrest op een door de voorzitter te bepalen dag uiterlijk zes weken nadat de laatste van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=19&z=2020-01-01&g=2020-01-01) bedoelde termijnen is verstreken uitgesproken.
 
-4. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2019-07-01&g=2019-07-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing, met uitzondering van de laatste volzin van [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2019-07-01&g=2019-07-01).
+4. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2020-01-01&g=2020-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing, met uitzondering van de laatste volzin van [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2020-01-01&g=2020-01-01).
 
 5. Een afschrift van het arrest wordt toegezonden aan partijen.
 
@@ -328,7 +328,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 2. Indien de in het eerste lid bedoelde beslissing inhoudt dat de opgelegde administratieve sanctie geheel of gedeeltelijk blijft gehandhaafd, wordt de verschuldigde administratieve sanctie op de zekerheidstelling verhaald.
 
-3. Indien de verschuldigde administratieve sanctie vanwege toepassing van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2019-07-01&g=2019-07-01), niet geheel op de zekerheidstelling kan worden verhaald, is [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&z=2019-07-01&g=2019-07-01) van toepassing op de inning van het bedrag dat nog niet is voldaan.
+3. Indien de verschuldigde administratieve sanctie vanwege toepassing van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2020-01-01&g=2020-01-01), niet geheel op de zekerheidstelling kan worden verhaald, is [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&z=2020-01-01&g=2020-01-01) van toepassing op de inning van het bedrag dat nog niet is voldaan.
 
 ### Hoofdstuk VII. Vervallen zekerheidstelling
 
@@ -352,15 +352,15 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 ##### Artikel 24
 
-1. Degene aan wie een administratieve sanctie is opgelegd, is verplicht tot betaling van het ingevolge [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2019-07-01&g=2019-07-01), verhoogde bedrag binnen vier weken nadat Onze Minister hem een aanmaning heeft toegezonden, over de gewone post of op een bij algemene maatregel van bestuur te bepalen wijze.
+1. Degene aan wie een administratieve sanctie is opgelegd, is verplicht tot betaling van het ingevolge [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2020-01-01&g=2020-01-01), verhoogde bedrag binnen vier weken nadat Onze Minister hem een aanmaning heeft toegezonden, over de gewone post of op een bij algemene maatregel van bestuur te bepalen wijze.
 
-2. Indien na de verhoging het verschuldigde bedrag behoudens de administratiekosten, ten minste € 225 bedraagt, is [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2019-07-01&g=2019-07-01), van overeenkomstige toepassing.
+2. Indien na de verhoging het verschuldigde bedrag behoudens de administratiekosten, ten minste € 225 bedraagt, is [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 25
 
-1. Indien degene aan wie een administratieve sanctie is opgelegd, nalaat het in de op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=24&z=2019-07-01&g=2019-07-01) gestelde termijn of termijnen verschuldigde bedrag tijdig geheel te voldoen, wordt het inmiddels verschuldigde bedrag van rechtswege verhoogd met honderd procent van het bedrag van de sanctie en de daarop inmiddels gevallen verhoging. Ter inning van het verschuldigde bedrag kan Onze Minister verhaal nemen overeenkomstig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01).
+1. Indien degene aan wie een administratieve sanctie is opgelegd, nalaat het in de op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=24&z=2020-01-01&g=2020-01-01) gestelde termijn of termijnen verschuldigde bedrag tijdig geheel te voldoen, wordt het inmiddels verschuldigde bedrag van rechtswege verhoogd met honderd procent van het bedrag van de sanctie en de daarop inmiddels gevallen verhoging. Ter inning van het verschuldigde bedrag kan Onze Minister verhaal nemen overeenkomstig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01).
 
-2. Indien het verschuldigde bedrag behoudens de administratiekosten, na de verhogingen op grond van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2019-07-01&g=2019-07-01), en van het eerste lid, ten minste € 225 bedraagt, is artikel 23, tweede lid, van overeenkomstige toepassing. Indien betaling in termijnen door Onze Minister is toegestaan, vindt verhaal overeenkomstig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01) enkel plaats indien degene aan wie een administratieve sanctie is opgelegd nalatig blijft het in de gestelde termijn of termijnen verschuldigde bedrag tijdig geheel te voldoen.
+2. Indien het verschuldigde bedrag behoudens de administratiekosten, na de verhogingen op grond van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=23&z=2020-01-01&g=2020-01-01), en van het eerste lid, ten minste € 225 bedraagt, is artikel 23, tweede lid, van overeenkomstige toepassing. Indien betaling in termijnen door Onze Minister is toegestaan, vindt verhaal overeenkomstig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01) enkel plaats indien degene aan wie een administratieve sanctie is opgelegd nalatig blijft het in de gestelde termijn of termijnen verschuldigde bedrag tijdig geheel te voldoen.
 
 3. Onze Minister kan verhaal nemen gedurende drie jaar nadat ten aanzien van de administratieve sanctie een onherroepelijke beslissing is genomen. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin verhaal kan worden genomen verlengd met één jaar.
 
@@ -378,7 +378,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 5. Indien de in het derde lid bedoelde stukken niet zijn overgelegd, deelt de griffier de indiener van het verzetschrift mee dat deze stukken binnen twee weken na de dag van verzending van zijn mededeling ter griffie dienen te zijn overgelegd. Indien dit laatste niet binnen deze termijn is geschied, wordt het verzet niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
 
-6. De griffier brengt het verzetschrift en de daarop betrekking hebbende stukken ter kennis van Onze Minister, ten einde hem in de gelegenheid te stellen daarover de nodige opmerkingen te maken. Onze Minister stelt de betrokken gerechtsdeurwaarder ervan in kennis dat verzet is gedaan. De kantonrechter geeft zo spoedig mogelijk na afloop van deze termijn, na zo nodig degene aan wie de administratieve sanctie is opgelegd te hebben gehoord, althans opgeroepen om te verschijnen, zijn met redenen omklede beschikking, welke onverwijld aan degene die het verzet heeft gedaan en aan Onze Minister wordt medegedeeld. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2019-07-01&g=2019-07-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing, met uitzondering van de laatste volzin van artikel 13b, eerste lid, en met dien verstande dat hetgeen in die artikelen met betrekking tot de officier van justitie is bepaald, geldt voor Onze Minister.
+6. De griffier brengt het verzetschrift en de daarop betrekking hebbende stukken ter kennis van Onze Minister, ten einde hem in de gelegenheid te stellen daarover de nodige opmerkingen te maken. Onze Minister stelt de betrokken gerechtsdeurwaarder ervan in kennis dat verzet is gedaan. De kantonrechter geeft zo spoedig mogelijk na afloop van deze termijn, na zo nodig degene aan wie de administratieve sanctie is opgelegd te hebben gehoord, althans opgeroepen om te verschijnen, zijn met redenen omklede beschikking, welke onverwijld aan degene die het verzet heeft gedaan en aan Onze Minister wordt medegedeeld. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2020-01-01&g=2020-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing, met uitzondering van de laatste volzin van artikel 13b, eerste lid, en met dien verstande dat hetgeen in die artikelen met betrekking tot de officier van justitie is bepaald, geldt voor Onze Minister.
 
 7. Indien de kantonrechter het verzet gegrond oordeelt, houdt de beschikking tevens in dat aan de indiener van het verzetschrift het door hem betaalde griffierecht wordt vergoed door de griffier. In de overige gevallen kan de kantonrechter bepalen dat het betaalde griffierecht wordt vergoed.
 
@@ -396,9 +396,9 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 4. Nadat de zekerheidstelling en de bijschrijving of de storting van het griffierecht hebben plaatsgevonden of nadat de termijnen voor het stellen van de zekerheid en de betaling van het griffierecht ongebruikt zijn verstreken, zendt de griffier van de rechtbank het beroepschrift met de daarop betrekking hebbende stukken en een afschrift van de beschikking van de kantonrechter onverwijld ter griffie van het gerechtshof in.
 
-5. Op de behandeling van het hoger beroep zijn de [artikelen 16 tot en met 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=16&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister zich bij de behandeling van het hoger beroep door een gemachtigde laat vertegenwoordigen.
+5. Op de behandeling van het hoger beroep zijn de [artikelen 16 tot en met 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=16&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing, met dien verstande dat Onze Minister zich bij de behandeling van het hoger beroep door een gemachtigde laat vertegenwoordigen.
 
-6. Het gerechtshof beslist zo spoedig mogelijk. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2019-07-01&g=2019-07-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2019-07-01&g=2019-07-01), met uitzondering van de laatste volzin van artikel 13b, eerste lid, en [20d, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=20d&z=2019-07-01&g=2019-07-01), zijn op de beschikking van overeenkomstige toepassing, met dien verstande dat hetgeen in die artikelen met betrekking tot de officier van justitie is bepaald, geldt voor Onze Minister.
+6. Het gerechtshof beslist zo spoedig mogelijk. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2020-01-01&g=2020-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2020-01-01&g=2020-01-01), met uitzondering van de laatste volzin van artikel 13b, eerste lid, en [20d, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VI&artikel=20d&z=2020-01-01&g=2020-01-01), zijn op de beschikking van overeenkomstige toepassing, met dien verstande dat hetgeen in die artikelen met betrekking tot de officier van justitie is bepaald, geldt voor Onze Minister.
 
 7. Afschrift van de beschikking wordt door de griffier van het gerechtshof gezonden aan degenen die tot het instellen van hoger beroep gerechtigd waren.
 
@@ -420,7 +420,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 5. Indien verhaal is genomen op vordering van degene aan wie de administratieve sanctie is opgelegd als bedoeld in het eerste lid, onder a en b, zijn de [artikelen 475a tot en met 475g, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475a) van overeenkomstige toepassing.
 
-6. Iedere belanghebbende kan binnen zes weken na de verzending van de in het tweede lid bedoelde kennisgeving bij met redenen omkleed verzetschrift verzet doen tegen het verhaal. [Artikel 26, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01), en [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26a&z=2019-07-01&g=2019-07-01) zijn van overeenkomstige toepassing.
+6. Iedere belanghebbende kan binnen zes weken na de verzending van de in het tweede lid bedoelde kennisgeving bij met redenen omkleed verzetschrift verzet doen tegen het verhaal. [Artikel 26, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01), en [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26a&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 7. De kosten van het verhaal krachtens dit artikel worden op gelijke voet als de administratieve sanctie op degene aan wie deze sanctie is opgelegd verhaald. Onder de kosten van het verhaal zijn begrepen de invorderingskosten.
 
@@ -428,7 +428,7 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 ##### Artikel 28
 
-1. De officier van justitie kan, indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01) heeft plaatsgevonden, bij de kantonrechter van de rechtbank van het arrondissement waar het adres is van degene aan wie de administratieve sanctie is opgelegd een vordering instellen om te worden gemachtigd om per gedraging waarvoor een administratieve sanctie is opgelegd het dwangmiddel gijzeling toe te passen van degene aan wie de administratieve sanctie is opgelegd, voor ten hoogste één week. Indien degene aan wie de administratieve sanctie is opgelegd als ingezetene is ingeschreven in de basisregistratie personen, maar niet op het daarin opgenomen adres woonachtig is, dan wel indien degene aan wie de administratieve sanctie is opgelegd geen bekende woon- of verblijfplaats in Nederland heeft, geschiedt de instelling van de bovenbedoelde vordering door bij de rechtbank Noord-Nederland door de officier van justitie bij het arrondissementsparket Noord-Nederland. Een verleende machtiging om gijzeling toe te passen kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden, worden uitgevoerd. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin een verleende machtiging gijzeling toe te passen kan worden uitgevoerd, verlengd met één jaar.
+1. De officier van justitie kan, indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01) heeft plaatsgevonden, bij de kantonrechter van de rechtbank van het arrondissement waar het adres is van degene aan wie de administratieve sanctie is opgelegd een vordering instellen om te worden gemachtigd om per gedraging waarvoor een administratieve sanctie is opgelegd het dwangmiddel gijzeling toe te passen van degene aan wie de administratieve sanctie is opgelegd, voor ten hoogste één week. Indien degene aan wie de administratieve sanctie is opgelegd als ingezetene is ingeschreven in de basisregistratie personen, maar niet op het daarin opgenomen adres woonachtig is, dan wel indien degene aan wie de administratieve sanctie is opgelegd geen bekende woon- of verblijfplaats in Nederland heeft, geschiedt de instelling van de bovenbedoelde vordering door bij de rechtbank Noord-Nederland door de officier van justitie bij het arrondissementsparket Noord-Nederland. Een verleende machtiging om gijzeling toe te passen kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden, worden uitgevoerd. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin een verleende machtiging gijzeling toe te passen kan worden uitgevoerd, verlengd met één jaar.
 
 2. Op de vordering wordt niet beslist dan nadat degene aan wie de sanctie is opgelegd door de kantonrechter is gehoord, althans behoorlijk is opgeroepen. De oproeping van degene die als ingezetene is ingeschreven op een in de basisregistratie personen opgenomen adres, maar niet op het daarin opgenomen adres woonachtig is, dan wel geen bekende woon- of verblijfplaats in Nederland heeft, geschiedt in de Staatscourant. Tegen de beslissing staat geen rechtsmiddel open.
 
@@ -440,11 +440,11 @@ De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te vervul
 
 ##### Artikel 28a
 
-Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01) heeft plaatsgevonden, kan Onze Minister het rijbewijs innemen van degene aan wie de administratieve sanctie is opgelegd. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De inneming van het rijbewijs duurt ten hoogste vier weken.
+Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01) heeft plaatsgevonden, kan Onze Minister het rijbewijs innemen van degene aan wie de administratieve sanctie is opgelegd. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De inneming van het rijbewijs duurt ten hoogste vier weken.
 
 ##### Artikel 28b
 
-Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01) heeft plaatsgevonden, kan Onze Minister het voertuig waarmee de gedraging heeft plaatsgevonden buiten gebruik stellen of, indien dit voertuig niet wordt aangetroffen, een soortgelijk voertuig waarover degene aan wie de administratieve sanctie is opgelegd, vermag te beschikken. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De buitengebruikstelling duurt ten hoogste vier weken.
+Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01) heeft plaatsgevonden, kan Onze Minister het voertuig waarmee de gedraging heeft plaatsgevonden buiten gebruik stellen of, indien dit voertuig niet wordt aangetroffen, een soortgelijk voertuig waarover degene aan wie de administratieve sanctie is opgelegd, vermag te beschikken. Onze Minister kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. Indien betaling in termijnen door Onze Minister is toegestaan, wordt de termijn waarin van de bevoegdheid gebruik kan worden gemaakt, verlengd met één jaar. De buitengebruikstelling duurt ten hoogste vier weken.
 
 ##### Artikel 29
 
@@ -460,7 +460,7 @@ Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://we
 
 1. Degene wiens rijbewijs kan worden ingenomen door Onze Minister, is verplicht op eerste vordering van Onze Minister het rijbewijs in te leveren op een door Onze Minister te bepalen tijdstip en aan te wijzen plaats.
 
-2. De termijn, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=28a&z=2019-07-01&g=2019-07-01), vangt aan op het tijdstip waarop de inlevering van het rijbewijs heeft plaatsgevonden.
+2. De termijn, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=28a&z=2020-01-01&g=2020-01-01), vangt aan op het tijdstip waarop de inlevering van het rijbewijs heeft plaatsgevonden.
 
 3. Indien aan de verplichting tot inlevering van het rijbewijs niet wordt voldaan, is Onze Minister bevoegd dat rijbewijs op kosten van de in het eerste lid bedoelde persoon te doen inleveren. [Afdeling 5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3) is niet van toepassing.
 
@@ -470,11 +470,11 @@ Indien niet of niet volledig verhaal overeenkomstig de [artikelen 26](https://we
 
 ##### Artikel 31
 
-1. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2019-07-01&g=2019-07-01), bedoelde ambtenaren bij de uitoefening van de in artikel 3, eerste lid, omschreven bevoegdheid bevinden dat de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde administratieve sanctie, kunnen zij vorderen dat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten terstond geheel zal worden voldaan dan wel dat zekerheid wordt gesteld dat het bedrag van de bedoelde sanctie tijdig geheel zal worden voldaan.
+1. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde ambtenaren bij de uitoefening van de in artikel 3, eerste lid, omschreven bevoegdheid bevinden dat de bestuurder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde administratieve sanctie, kunnen zij vorderen dat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten terstond geheel zal worden voldaan dan wel dat zekerheid wordt gesteld dat het bedrag van de bedoelde sanctie tijdig geheel zal worden voldaan.
 
-2. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2019-07-01&g=2019-07-01), bedoelde ambtenaren hebben vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarvoor een kenteken is opgegeven, en niet aanstonds is vastgesteld wie daarvan de bestuurder is en waarvan aannemelijk is dat de kentekenhouder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel dat de kentekenhouder geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde sanctie, zijn zij bevoegd bij wijze van voorlopige maatregel het voertuig naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan het voertuig een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden. Zij kunnen vorderen dat, alvorens het voertuig aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring, eveneens het bedrag van de opgelegde administratieve sanctie en de administratiekosten en van de eerder overeenkomstig de bepalingen van deze wet opgelegde en inmiddels verschuldigde administratieve sanctie en de administratiekosten zal worden voldaan.
+2. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde ambtenaren hebben vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarvoor een kenteken is opgegeven, en niet aanstonds is vastgesteld wie daarvan de bestuurder is en waarvan aannemelijk is dat de kentekenhouder geen bekende woon- of verblijfplaats in Nederland heeft, dan wel dat de kentekenhouder geregistreerd staat voor het niet voldoen van een hem eerder overeenkomstig de bepalingen van deze wet opgelegde sanctie, zijn zij bevoegd bij wijze van voorlopige maatregel het voertuig naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan het voertuig een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden. Zij kunnen vorderen dat, alvorens het voertuig aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring, eveneens het bedrag van de opgelegde administratieve sanctie en de administratiekosten en van de eerder overeenkomstig de bepalingen van deze wet opgelegde en inmiddels verschuldigde administratieve sanctie en de administratiekosten zal worden voldaan.
 
-3. Voldoening van het bedrag van de opgelegde administratieve sanctie en van de administratiekosten laat de bevoegdheid tegen de beschikking van de ambtenaar beroep in te stellen als omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2019-07-01&g=2019-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=9&z=2019-07-01&g=2019-07-01) onverlet. Wordt het beroep gegrond verklaard, dan wordt het bedrag van de administratieve sanctie en van de administratiekosten teruggegeven. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+3. Voldoening van het bedrag van de opgelegde administratieve sanctie en van de administratiekosten laat de bevoegdheid tegen de beschikking van de ambtenaar beroep in te stellen als omschreven in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=6&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=9&z=2020-01-01&g=2020-01-01) onverlet. Wordt het beroep gegrond verklaard, dan wordt het bedrag van de administratieve sanctie en van de administratiekosten teruggegeven. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 17a
 
@@ -482,23 +482,23 @@ Vervallen
 
 ##### Artikel 33
 
-1. Van iedere inbewaringstelling maakt de betrokken ambtenaar proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waar de inbewaringstelling is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder, alsmede aan degene aan wie het kenteken van het motorrijtuig is opgegeven. Daarbij wordt hij gewezen op het bepaalde in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2019-07-01&g=2019-07-01).
+1. Van iedere inbewaringstelling maakt de betrokken ambtenaar proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waar de inbewaringstelling is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder, alsmede aan degene aan wie het kenteken van het motorrijtuig is opgegeven. Daarbij wordt hij gewezen op het bepaalde in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2020-01-01&g=2020-01-01).
 
 2. Tegen een inbewaringstelling kan elke belanghebbende beroep instellen bij de rechtbank op grond dat
 
 - a. de inbewaringstelling met een algemeen verbindend voorschrift strijdt;
 
-- b. de ambtenaar van zijn in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=32&z=2019-07-01&g=2019-07-01) omschreven bevoegdheid op een kennelijk onredelijke wijze heeft gebruik gemaakt.
+- b. de ambtenaar van zijn in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=32&z=2020-01-01&g=2020-01-01) omschreven bevoegdheid op een kennelijk onredelijke wijze heeft gebruik gemaakt.
 
 3. Het beroepschrift wordt ingediend bij de officier van justitie in het arrondissement waar de inbewaringstelling is geschied. De officier van justitie brengt het beroepschrift en de op de zaak betrekking hebbende stukken ter kennis van de rechtbank van het arrondissement waar de inbewaringstelling is geschied.
 
 4. Het beroepschrift en de op de zaak betrekking hebbende stukken worden door de officier van justitie aan de rechtbank ter kennis gebracht binnen vier dagen nadat de indiener zekerheid heeft gesteld voor de betaling van de sanctie, dan wel nadat de termijn daarvoor is verstreken.
 
-5. De kantonrechter beslist zo spoedig mogelijk, doch uiterlijk binnen vier weken na de dag waarop het beroepschrift bij de officier van justitie is ingediend. Ten aanzien van de behandeling van het beroepschrift en de uitspraak zijn de [artikelen 11, derde, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2019-07-01&g=2019-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=12&z=2019-07-01&g=2019-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13&z=2019-07-01&g=2019-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2019-07-01&g=2019-07-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2019-07-01&g=2019-07-01) van overeenkomstige toepassing.
+5. De kantonrechter beslist zo spoedig mogelijk, doch uiterlijk binnen vier weken na de dag waarop het beroepschrift bij de officier van justitie is ingediend. Ten aanzien van de behandeling van het beroepschrift en de uitspraak zijn de [artikelen 11, derde, vierde lid en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=11&z=2020-01-01&g=2020-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=12&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13&z=2020-01-01&g=2020-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13a&z=2020-01-01&g=2020-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=V&artikel=13b&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 6. Indien de kantonrechter het beroepschrift gegrond acht, gelast hij de onmiddellijke teruggave van het voertuig.
 
-7. Het instellen van beroep schorst de bevoegdheid van de officier van justitie, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2019-07-01&g=2019-07-01), tot de dag na die waarop de kantonrechter zijn beslissing heeft gegeven.
+7. Het instellen van beroep schorst de bevoegdheid van de officier van justitie, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2020-01-01&g=2020-01-01), tot de dag na die waarop de kantonrechter zijn beslissing heeft gegeven.
 
 ### Hoofdstuk IX. Voorlopige maatregelen
 
@@ -506,11 +506,11 @@ Vervallen
 
 1. Met geldboete van de tweede categorie wordt gestraft:
 
-- a. hij die niet voldoet aan vordering van een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2019-07-01&g=2019-07-01), aangewezen toezichthouder;
+- a. hij die niet voldoet aan vordering van een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=3&z=2020-01-01&g=2020-01-01), aangewezen toezichthouder;
 
 - b. hij die de gegevens waarop de in het eerste lid bedoelde vordering betrekking heeft, onjuist opgeeft;
 
-- c. hij die niet voldoet aan de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=30&z=2019-07-01&g=2019-07-01) omschreven verplichting.
+- c. hij die niet voldoet aan de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=30&z=2020-01-01&g=2020-01-01) omschreven verplichting.
 
 2. Het strafbare feit is een overtreding.
 
@@ -520,7 +520,7 @@ Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent h
 
 ##### Artikel 36
 
-1. Behoudens in geval van een verzetschrift als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2019-07-01&g=2019-07-01), een beroepschrift bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26a&z=2019-07-01&g=2019-07-01) en een verzetschrift als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2019-07-01&g=2019-07-01), is op grond van deze wet geen recht verschuldigd in de zin van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899).
+1. Behoudens in geval van een verzetschrift als bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26&z=2020-01-01&g=2020-01-01), een beroepschrift bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=26a&z=2020-01-01&g=2020-01-01) en een verzetschrift als bedoeld in [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=27&z=2020-01-01&g=2020-01-01), is op grond van deze wet geen recht verschuldigd in de zin van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899).
 
 2. Indien het verzetschrift wordt ingetrokken omdat Onze Minister geheel of gedeeltelijk aan de indiener van het verzetschrift is tegemoetgekomen, wordt het door de indiener betaalde griffierecht aan hem vergoed door Onze Minister. In de overige gevallen kan Onze Minister, indien het verzet wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -6742,11 +6742,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5b
 
-1. Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarmee een niet-kentekenplichtige aanhangwagen wordt voortbewogen, dan wel waaraan een niet-kentekenplichtige aanhangwagen is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2019-07-01&g=2019-07-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het trekkend motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven.
+1. Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een motorrijtuig waarmee een niet-kentekenplichtige aanhangwagen wordt voortbewogen, dan wel waaraan een niet-kentekenplichtige aanhangwagen is gekoppeld, en niet aanstonds is vastgesteld wie daarvan de bestuurder is, wordt, onverminderd het bepaalde in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2020-01-01&g=2020-01-01), de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van het trekkend motorrijtuig ten tijde van de gedraging in het kentekenregister was ingeschreven.
 
 2. Indien is vastgesteld dat de gedraging heeft plaatsgevonden met of door middel van een kentekenplichtige aanhangwagen, wordt de administratieve sanctie opgelegd aan degene op wiens naam het kenteken van de aanhangwagen ten tijde van de gedraging in het kentekenregister was ingeschreven. Indien het kenteken van de aanhangwagen niet is vastgesteld, dan wel indien de aanhangwagen niet kentekenplichtig is, wordt de administratieve sanctie opgelegd aan degene die ten tijde van de gedraging eigenaar of houder was van de aanhangwagen.
 
-3. Indien sprake is van een geval als bedoeld in het eerste of tweede lid dan wordt daarbij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2019-07-01&g=2019-07-01).
+3. Indien sprake is van een geval als bedoeld in het eerste of tweede lid dan wordt daarbij gewezen op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IV&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk IV. Administratief beroep en bezwaar bij de officier van justitie
 
@@ -8554,7 +8554,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5c
 
-Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten tijde van de geconstateerde gedraging met of door middel van een motorrijtuig met een kenteken als bedoeld in artikel 4 van het Kentekenreglement was ingeschreven in het kentekenregister immuniteit geniet op grond van het volkenrecht, verstrekt de officier van justitie de gegevens, genoemd in [artikel 4, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2019-07-01&g=2019-07-01) aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van een notificatie aan deze kentekenhouder.
+Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten tijde van de geconstateerde gedraging met of door middel van een motorrijtuig met een kenteken als bedoeld in artikel 4 van het Kentekenreglement was ingeschreven in het kentekenregister immuniteit geniet op grond van het volkenrecht, verstrekt de officier van justitie de gegevens, genoemd in [artikel 4, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=III&artikel=4&z=2020-01-01&g=2020-01-01) aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van een notificatie aan deze kentekenhouder.
 
 ### Hoofdstuk IV. Administratief beroep en bezwaar bij de officier van justitie
 
@@ -8566,16 +8566,17 @@ Indien geen administratieve sanctie kan worden opgelegd, omdat degene die ten ti
 
 ##### Artikel 32
 
-Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2019-07-01&g=2019-07-01), bedoelde vordering niet wordt voldaan, is de ambtenaar bevoegd bij wijze van voorlopige maatregel het voertuig in bewaring te stellen, totdat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten, alsmede de inmiddels daarop gevallen kosten van de inbewaringstelling zijn voldaan. Daartoe kan hij op kosten van de bestuurder het voertuig naar een door hem aangewezen nabijgelegen plaats overbrengen of doen overbrengen en aldaar in bewaring doen stellen. Zo nodig roept hij hierbij de hulp van de sterke arm in. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=IX&artikel=31&z=2020-01-01&g=2020-01-01), bedoelde vordering niet wordt voldaan, is de ambtenaar bevoegd bij wijze van voorlopige maatregel het voertuig in bewaring te stellen, totdat het bedrag van de opgelegde en van de reeds verschuldigde administratieve sanctie en van de administratiekosten, alsmede de inmiddels daarop gevallen kosten van de inbewaringstelling zijn voldaan. Daartoe kan hij op kosten van de bestuurder het voertuig naar een door hem aangewezen nabijgelegen plaats overbrengen of doen overbrengen en aldaar in bewaring doen stellen. Zo nodig roept hij hierbij de hulp van de sterke arm in. [Artikel 29, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=VIII&artikel=29&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk XI. Slotbepalingen
 
-## Bijlage. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2019-07-01&g=2019-07-01)
+## Bijlage. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01)
 
 |   |   |   | Feit | Overtreden artikel | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   |   |   |   |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |   |   |   | **Afdeling A. Verkeer te land** |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Categorie-indeling B:** |   |   |   |   |   |   |   |   |   |
 |   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |   |   |   |   |   |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |   |   |   |   |   |   |   |
@@ -8589,7 +8590,10 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | NB 1 De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen. Dit geldt eveneens voor geparkeerde aanhangwagens indien deze door een onder één van deze categorieën vallende bestuurders is geparkeerd. |   |   |   |   |   |   |   |   |   |
 |   |   |   | NB 2 Op basis van [artikel 2a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=2a) zijn, tenzij anders bepaald, voor brommobielen en bestuurders en passagiers van brommobielen de regels betreffende motorvoertuigen van toepassing. Voor de feitcodes waar dit op van toepassing is moet in geval van een overtreding met een brommobiel of door een bestuurder van een brommobiel gepleegde overtreding in plaats van motorvoertuig brommobiel worden gelezen. |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Nummers K 006 – K 172: Wegenverkeerswet 1994 (WVW 1994); Reglement Rijbewijzen (RR)** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Nummers K 006 – K 172:** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Wegenverkeerswet 1994 (WVW 1994);** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Reglement Rijbewijzen (RR)** |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 | K | 025 |   | als bestuurder van een motorrijtuig rijden terwijl het kentekenbewijs niet behoorlijk leesbaar is | [36 lid 3 sub d WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) | 45 | 45 | 45 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **het kenteken niet behoorlijk zichtbaar aanwezig hebben op of aan** | [40 lid 1 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40) |   |   |   |   |   |   |   |   |
@@ -8597,11 +8601,11 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | K | 030 | b | – de aanhangwagen |   | 140 | 140 | 95 |   |   |   |   | 140 |
 | K | 035 |   | het ongeldig verklaarde kentekenbewijs niet binnen de bepaalde termijn inleveren bij de Dienst Wegverkeer | [52c lid 3 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=52c) |   |   |   |   |   |   |   | 240 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **voor een kentekenplichtig motorrijtuig met een toegestane maximummassa van 3500 kg of minder** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **voor een kentekenplichtig motorrijtuig met een toegestane maximummassa van 3.500 kg of minder** |   |   |   |   |   |   |   |   |   |
 | K | 045 | a | – is geen keuringsbewijs afgegeven | [72 lid 1 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) | 140 |   |   |   |   |   |   | 140 |
 | K | 045 | b | – heeft het keuringsbewijs zijn geldigheid verloren | 72 lid 2 sub b WVW 1994 | 140 |   |   |   |   |   |   | 140 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **voor een kentekenplichtig motorrijtuig of aanhangwagen met een toegestane maximummassa van meer dan 3500 kg** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **voor een kentekenplichtig motorrijtuig of aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg** |   |   |   |   |   |   |   |   |   |
 | K | 046 | a | – is geen keuringsbewijs afgegeven | 72 lid 1 WVW 1994 | 400 |   |   |   |   |   |   | 400 |
 | K | 046 | b | – heeft het keuringsbewijs zijn geldigheid verloren | 72 lid 2 sub b WVW 1994 | 400 |   |   |   |   |   |   | 400 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -8611,18 +8615,18 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | K | 060 | c | – niet behoorlijk leesbaar is | 107 lid 2 sub c WVW 1994 | 95 | 95 | 65 |   |   |   |   |   |
 | K | 060 | h | als bestuurder van een bromfiets rijden, terwijl het rijbewijs ongeldig is verklaard voor een of meer categorieën, niet zijnde de categorie AM, en aan betrokkene geen nieuw rijbewijs voor de categorie AM is afgegeven | 107 lid 2 sub b WVW 1994 |   |   | 65 |   |   |   |   |   |
 | K | 065 | cc | als houder van een rijbewijs B dat met het oog op deelname aan begeleid rijden was afgegeven, jonger dan 18 jaar een motorrijtuig waarvoor rijbewijs B is vereist besturen zonder dat een op de begeleiderspas vermelde begeleider op de zitplaats naast de bestuurder zat | [111a lid 3 onder b en c WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111a) | 140 |   |   |   |   |   |   |   |
-| K | 090 | aa | rijonderricht geven in het kader van de opleiding voor het praktijkexamen voor de rijbewijscategorie AM, tweewielige bromfiets, terwijl deze niet is voorzien van een op de voorgeschreven wijze aangebrachte aanduiding | [110b lid 1 sub a WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=110b) jo. [7a lid 1 RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=7a) |   |   |   |   |   |   |   | 95 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **rijonderricht geven voor rijbewijs B terwijl het lesmotorrijtuig niet is voorzien van** |   |   |   |   |   |   |   |   |   |
-| K | 090 | a | – een dubbele bediening c.q. een onderbreker | 110b lid 1 sub a WVW 1994 jo. [8 sub a RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=8) |   |   |   |   |   |   |   | 280 |
+| K | 090 | a | – een dubbele bediening c.q. een onderbreker | [110b lid 1 sub a WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=110b) jo. [8 sub a RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=8) |   |   |   |   |   |   |   | 280 |
 | K | 090 | b | – een binnen- en een buitenspiegel waarmee degene die rijonderricht geeft het achter en rechts naast hem gelegen weggedeelte kan overzien | 110b lid 1 sub a WVW 1994 jo. 8 sub b RR |   |   |   |   |   |   |   | 280 |
 | K | 090 | c | – een op de voorgeschreven wijze aangebrachte aanduiding | 110b lid 1 sub a WVW 1994 jo. 8 sub b RR |   |   |   |   |   |   |   | 95 |
+| K | 090 | aa | rijonderricht geven in het kader van de opleiding voor het praktijkexamen voor de rijbewijscategorie AM, tweewielige bromfiets, terwijl deze niet is voorzien van een op de voorgeschreven wijze aangebrachte aanduiding | 110b lid 1 sub a WVW 1994 jo. [7a lid 1 RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=7a) |   |   |   |   |   |   |   | 95 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **rijonderricht geven in het kader van de opleiding voor het praktijkexamen voor de rijbewijscategorie AM, drie- of vierwielige bromfiets, terwijl deze niet is voorzien van** |   |   |   |   |   |   |   |   |   |
 | K | 090 | bb | – een dubbele bediening c.q. onderbreker | 110b lid 1 sub a WVW 1994 jo. 7a lid 2 RR |   |   |   |   |   |   |   | 280 |
 | K | 090 | cc | – een binnen- en buitenspiegel ten behoeve van de rij-instructeur | 110b lid 1 sub a WVW 1994 jo. 7a lid 2 RR |   |   |   |   |   |   |   | 280 |
 | K | 090 | dd | – een op de voorgeschreven wijze aangebrachte aanduiding | 110b lid 1 sub a WVW 1994 jo. 7a lid 2 RR |   |   |   |   |   |   |   | 95 |
-| K | 145 | a | als bestuurder handelen in strijd met één of meer aan een ontheffing verbonden voorschrift(en), niet betrekking hebbend op de begeleiding of vakbekwaamheid | [150 lid 2 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=150) | 140 | 140 | 95 | 55 |   |   |   |   |
+| K | 145 | a | als bestuurder handelen in strijd met één of meer aan een ontheffing of vergunning verbonden voorschrift(en), niet betrekking hebbend op de begeleiding of vakbekwaamheid | [150 lid 2 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=150) | 140 | 140 | 95 | 55 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder van een motorrijtuig niet op eerste vordering behoorlijk ter inzage afgeven** |   |   |   |   |   |   |   |   |   |
 | K | 150 | a | – het kentekenbewijs | [160 lid 1 sub a WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) | 45 | 45 | 45 |   |   |   |   |   |
@@ -8639,575 +8643,568 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | Feit | Overtreden artikel | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   |   |   |   |   | 1 | 2 | 3 | 4 |
-|   |   |   | **Nummers S 005 , VA 004 – VV 101: Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)** |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **Categorie-indeling C: (maximum snelheid)** |   |   |   |   |   |
-|   |   |   | 1 – Motorvoertuigen (uitgezonderd categorie 2: vrachtauto's, autobussen en motorvoertuigen met aanhangwagen); |   |   |   |   |   |
-|   |   |   | 2 – Vrachtauto's, autobussen, als bedrijfsauto aangemerkte kampeerauto's met een toegestane maximum massa van meer dan 3500 kg en motorvoertuigen met aanhangwagen; |   |   |   |   |   |
-|   |   |   | 3 – Bromfietsen, brommobielen, snorfietsen en gehandicaptenvoertuigen met motor; |   |   |   |   |   |
-|   |   |   | 4 – Land- of bosbouwtrekkers en motorvoertuigen met beperkte snelheid. |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **Hoofdstuk 2. Verkeersregels** |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **VIII. Maximumsnelheid** |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **a. Algemeen** |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **als bestuurder niet in staat zijn, zijn voertuig tot stilstand te brengen binnen de afstand waarover hij de weg kan overzien en waarover deze vrij is** | [19 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=19) |   |   |   |   |
-| S | 005 | a | – bij snelheden tot en met 80 km/h |   | 280 | 280 | 190 |   |
-|   |   |   |   |   |   |   |   |   |
 |   |   |   | **Snelheidsoverschrijdingen** |   |   |   |   |   |
-|   |   |   | **Noot** |   |   |   |   |   |
-|   |   |   | 1. * = recidiveregeling snelheid (zie Richtlijn voor strafvordering tarieven en feitomschrijvingen enz.); bij staandehouding wordt bij overschrijding vanaf 50 km/h of 30 km/h (cat. 3) het rijbewijs ingevorderd en dient het proces-verbaal met het proces-verbaal van invordering te worden ingezonden naar het openbaar ministerie. |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | 2. indien bij een feitcode bij het tarief «OBM» staat vermeld dan betreft dit de eis ter zitting voor de eerste overtreding. Naast deze boete dient een OBM ov conform de recidiveregeling snelheidsovertredingen te worden geëist. |   |   |   |   |   |
+|   |   |   | **Noot** |   |   |   |   |   |
+|   |   |   | 1. * = Recidiveregeling snelheid (zie Richtlijn voor strafvordering tarieven en feitomschrijvingen enz.); bij staandehouding wordt bij overschrijding vanaf 50 km/h of 30 km/h (cat. 3) het rijbewijs ingevorderd en dient het proces-verbaal met het proces-verbaal van invordering te worden ingezonden naar het Openbaar Ministerie. |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   | 2. Indien bij een feitcode bij het tarief «OBM» staat vermeld dan betreft dit de eis ter zitting voor de eerste overtreding. Naast deze boete dient een OBM ov conform de recidiveregeling snelheidsovertredingen te worden geëist. |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   | **b. Binnen de bebouwde kom** |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | [20 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=20) (cat 1/2), 20 sub b en c RVV 1990 (cat 3), [22 sub d en e RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 3), 22 sub c RVV 1990 (cat 4) |   |   |   |   |
-| VA | 004 |   | – met 4 km/h |   | 27 | 46 | 27 | 27 |
-| VA | 005 |   | – met 5 km/h |   | 34 | 54 | 34 | 34 |
-| VA | 006 |   | – met 6 km/h |   | 40 | 63 | 40 | 40 |
-| VA | 007 |   | – met 7 km/h |   | 48 | 75 | 48 | 48 |
-| VA | 008 |   | – met 8 km/h |   | 54 | 85 | 54 | 54 |
-| VA | 009 |   | – met 9 km/h |   | 63 | 95 | 63 | 63 |
-| VA | 010 |   | – met 10 km/h |   | 72 | 107 | 72 | 72 |
-| VA | 011 |   | – met 11 km/h |   | 95 | 133 | 95 | 95 |
-| VA | 012 |   | – met 12 km/h |   | 105 | 146 | 105 | 105 |
-| VA | 013 |   | – met 13 km/h |   | 115 | 158 | 115 | 115 |
-| VA | 014 |   | – met 14 km/h |   | 123 | 170 | 123 | 123 |
-| VA | 015 |   | – met 15 km/h |   | 133 | 185 | 133 | 133 |
-| VA | 016 |   | – met 16 km/h |   | 144 | 195 | 144 | 144 |
-| VA | 017 |   | – met 17 km/h |   | 153 | 209 | 153 | 153 |
-| VA | 018 |   | – met 18 km/h |   | 165 | 223 | 165 | 165 |
-| VA | 019 |   | – met 19 km/h |   | 176 | 241 | 176 | 176 |
-| VA | 020 |   | – met 20 km/h |   | 191 | 257 | 191 | 191 |
-| VA | 021 |   | – met 21 km/h |   | 203 | 270 | 203 | 203 |
-| VA | 022 |   | – met 22 km/h |   | 215 | 283 | 215 | 215 |
-| VA | 023 |   | – met 23 km/h |   | 229 | 302 | 229 | 229 |
-| VA | 024 |   | – met 24 km/h |   | 241 | 319 | 241 | 241 |
-| VA | 025 |   | – met 25 km/h |   | 256 | 337 | 256 | 256 |
-| VA | 026 |   | – met 26 km/h |   | 270 | 356 | 270 | 270 |
-| VA | 027 |   | – met 27 km/h |   | 287 | 375 | 287 | 287 |
-| VA | 028 |   | – met 28 km/h |   | 304 | 394 | 304 | 304 |
-| VA | 029 |   | – met 29 km/h |   | 317 | 412 | 317 | 317 |
-| VA | 030 |   | – met 30 km/h |   | 334 |   |   | 334 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | **20 sub a RVV 1990 (cat 1/2), 20 sub b en c RVV 1990 (cat 3), 22 sub d en e RVV 1990 (cat 3), 22 sub c RVV 1990 (cat 4)** |   |   |   |   |
+| VA | 004 |   | – met 4 km/h |   | 28 | 47 | 28 | 28 |
+| VA | 005 |   | – met 5 km/h |   | 35 | 56 | 35 | 35 |
+| VA | 006 |   | – met 6 km/h |   | 43 | 65 | 43 | 43 |
+| VA | 007 |   | – met 7 km/h |   | 49 | 76 | 49 | 49 |
+| VA | 008 |   | – met 8 km/h |   | 56 | 87 | 56 | 56 |
+| VA | 009 |   | – met 9 km/h |   | 64 | 98 | 64 | 64 |
+| VA | 010 |   | – met 10 km/h |   | 72 | 108 | 72 | 72 |
+| VA | 011 |   | – met 11 km/h |   | 98 | 137 | 98 | 98 |
+| VA | 012 |   | – met 12 km/h |   | 107 | 148 | 107 | 107 |
+| VA | 013 |   | – met 13 km/h |   | 118 | 161 | 118 | 118 |
+| VA | 014 |   | – met 14 km/h |   | 127 | 174 | 127 | 127 |
+| VA | 015 |   | – met 15 km/h |   | 137 | 188 | 137 | 137 |
+| VA | 016 |   | – met 16 km/h |   | 147 | 201 | 147 | 147 |
+| VA | 017 |   | – met 17 km/h |   | 158 | 215 | 158 | 158 |
+| VA | 018 |   | – met 18 km/h |   | 170 | 230 | 170 | 170 |
+| VA | 019 |   | – met 19 km/h |   | 181 | 245 | 181 | 181 |
+| VA | 020 |   | – met 20 km/h |   | 194 | 260 | 194 | 194 |
+| VA | 021 |   | – met 21 km/h |   | 207 | 277 | 207 | 207 |
+| VA | 022 |   | – met 22 km/h |   | 221 | 294 | 221 | 221 |
+| VA | 023 |   | – met 23 km/h |   | 235 | 310 | 235 | 235 |
+| VA | 024 |   | – met 24 km/h |   | 247 | 328 | 247 | 247 |
+| VA | 025 |   | – met 25 km/h |   | 263 | 347 | 263 | 263 |
+| VA | 026 |   | – met 26 km/h |   | 277 | 367 | 277 | 277 |
+| VA | 027 |   | – met 27 km/h |   | 295 | 387 | 295 | 295 |
+| VA | 028 |   | – met 28 km/h |   | 309 | 405 | 309 | 309 |
+| VA | 029 |   | – met 29 km/h |   | 325 | 423 | 325 | 325 |
+| VA | 030 |   | – met 30 km/h |   | 340 |   |   | 340 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | [62 jo. bord A1 (uitgezonderd [30 km/h]) RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) |   |   |   |   |
-| VB | 004 |   | – met 4 km/h |   | 27 | 46 | 27 | 27 |
-| VB | 005 |   | – met 5 km/h |   | 34 | 54 | 34 | 34 |
-| VB | 006 |   | – met 6 km/h |   | 40 | 63 | 40 | 40 |
-| VB | 007 |   | – met 7 km/h |   | 48 | 75 | 48 | 48 |
-| VB | 008 |   | – met 8 km/h |   | 54 | 85 | 54 | 54 |
-| VB | 009 |   | – met 9 km/h |   | 63 | 95 | 63 | 63 |
-| VB | 010 |   | – met 10 km/h |   | 72 | 107 | 72 | 72 |
-| VB | 011 |   | – met 11 km/h |   | 95 | 133 | 95 | 95 |
-| VB | 012 |   | – met 12 km/h |   | 105 | 146 | 105 | 105 |
-| VB | 013 |   | – met 13 km/h |   | 115 | 158 | 115 | 115 |
-| VB | 014 |   | – met 14 km/h |   | 123 | 170 | 123 | 123 |
-| VB | 015 |   | – met 15 km/h |   | 133 | 185 | 133 | 133 |
-| VB | 016 |   | – met 16 km/h |   | 144 | 195 | 144 | 144 |
-| VB | 017 |   | – met 17 km/h |   | 153 | 209 | 153 | 153 |
-| VB | 018 |   | – met 18 km/h |   | 165 | 223 | 165 | 165 |
-| VB | 019 |   | – met 19 km/h |   | 176 | 241 | 176 | 176 |
-| VB | 020 |   | – met 20 km/h |   | 191 | 257 | 191 | 191 |
-| VB | 021 |   | – met 21 km/h |   | 203 | 270 | 203 | 203 |
-| VB | 022 |   | – met 22 km/h |   | 215 | 283 | 215 | 215 |
-| VB | 023 |   | – met 23 km/h |   | 229 | 302 | 229 | 229 |
-| VB | 024 |   | – met 24 km/h |   | 241 | 319 | 241 | 241 |
-| VB | 025 |   | – met 25 km/h |   | 256 | 337 | 256 | 256 |
-| VB | 026 |   | – met 26 km/h |   | 270 | 356 | 270 | 270 |
-| VB | 027 |   | – met 27 km/h |   | 287 | 375 | 287 | 287 |
-| VB | 028 |   | – met 28 km/h |   | 304 | 394 | 304 | 304 |
-| VB | 029 |   | – met 29 km/h |   | 317 | 412 | 317 | 317 |
-| VB | 030 |   | – met 30 km/h |   | 334 |   |   | 334 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | **62 jo. bord A1 (uitgezonderd [30 km/h]) RVV 1990** |   |   |   |   |
+| VB | 004 |   | – met 4 km/h |   | 28 | 47 | 28 | 28 |
+| VB | 005 |   | – met 5 km/h |   | 35 | 56 | 35 | 35 |
+| VB | 006 |   | – met 6 km/h |   | 43 | 65 | 43 | 43 |
+| VB | 007 |   | – met 7 km/h |   | 49 | 76 | 49 | 49 |
+| VB | 008 |   | – met 8 km/h |   | 56 | 87 | 56 | 56 |
+| VB | 009 |   | – met 9 km/h |   | 64 | 98 | 64 | 64 |
+| VB | 010 |   | – met 10 km/h |   | 72 | 108 | 72 | 72 |
+| VB | 011 |   | – met 11 km/h |   | 98 | 137 | 98 | 98 |
+| VB | 012 |   | – met 12 km/h |   | 107 | 148 | 107 | 107 |
+| VB | 013 |   | – met 13 km/h |   | 118 | 161 | 118 | 118 |
+| VB | 014 |   | – met 14 km/h |   | 127 | 174 | 127 | 127 |
+| VB | 015 |   | – met 15 km/h |   | 137 | 188 | 137 | 137 |
+| VB | 016 |   | – met 16 km/h |   | 147 | 201 | 147 | 147 |
+| VB | 017 |   | – met 17 km/h |   | 158 | 215 | 158 | 158 |
+| VB | 018 |   | – met 18 km/h |   | 170 | 230 | 170 | 170 |
+| VB | 019 |   | – met 19 km/h |   | 181 | 245 | 181 | 181 |
+| VB | 020 |   | – met 20 km/h |   | 194 | 260 | 194 | 194 |
+| VB | 021 |   | – met 21 km/h |   | 207 | 277 | 207 | 207 |
+| VB | 022 |   | – met 22 km/h |   | 221 | 294 | 221 | 221 |
+| VB | 023 |   | – met 23 km/h |   | 235 | 310 | 235 | 235 |
+| VB | 024 |   | – met 24 km/h |   | 247 | 328 | 247 | 247 |
+| VB | 025 |   | – met 25 km/h |   | 263 | 347 | 263 | 263 |
+| VB | 026 |   | – met 26 km/h |   | 277 | 367 | 277 | 277 |
+| VB | 027 |   | – met 27 km/h |   | 295 | 387 | 295 | 295 |
+| VB | 028 |   | – met 28 km/h |   | 309 | 405 | 309 | 309 |
+| VB | 029 |   | – met 29 km/h |   | 325 | 423 | 325 | 325 |
+| VB | 030 |   | – met 30 km/h |   | 340 |   |   | 340 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom (bord A1 [30 km/h])** | 62 jo. bord A1 RVV 1990 |   |   |   |   |
-| VS | 004 |   | – met 4 km/h |   | 46 | 102 | 46 | 46 |
-| VS | 005 |   | – met 5 km/h |   | 54 | 115 | 54 | 54 |
-| VS | 006 |   | – met 6 km/h |   | 63 | 129 | 63 | 63 |
-| VS | 007 |   | – met 7 km/h |   | 75 | 144 | 75 | 75 |
-| VS | 008 |   | – met 8 km/h |   | 85 | 158 | 85 | 85 |
-| VS | 009 |   | – met 9 km/h |   | 95 | 173 | 95 | 95 |
-| VS | 010 |   | – met 10 km/h |   | 107 | 187 | 107 | 107 |
-| VS | 011 |   | – met 11 km/h |   | 133 | 217 | 133 | 133 |
-| VS | 012 |   | – met 12 km/h |   | 146 | 230 | 146 | 146 |
-| VS | 013 |   | – met 13 km/h |   | 158 | 246 | 158 | 158 |
-| VS | 014 |   | – met 14 km/h |   | 170 | 261 | 170 | 170 |
-| VS | 015 |   | – met 15 km/h |   | 185 | 284 | 185 | 185 |
-| VS | 016 |   | – met 16 km/h |   | 195 | 304 | 195 | 195 |
-| VS | 017 |   | – met 17 km/h |   | 209 | 324 | 209 | 209 |
-| VS | 018 |   | – met 18 km/h |   | 223 | 344 | 223 | 223 |
-| VS | 019 |   | – met 19 km/h |   | 241 | 367 | 241 | 241 |
-| VS | 020 |   | – met 20 km/h |   | 257 | 384 | 257 | 257 |
-| VS | 021 |   | – met 21 km/h |   | 270 | 408 | 270 | 270 |
-| VS | 023 |   | – met 23 km/h |   | 302 |   | 302 | 302 |
-| VS | 024 |   | – met 24 km/h |   | 319 |   | 319 | 319 |
-| VS | 025 |   | – met 25 km/h |   | 337 |   | 337 | 337 |
-| VS | 026 |   | – met 26 km/h |   | 356 |   | 356 | 356 |
-| VS | 027 |   | – met 27 km/h |   | 375 |   | 375 | 375 |
-| VS | 028 |   | – met 28 km/h |   | 394 |   | 394 | 394 |
-| VS | 029 |   | – met 29 km/h |   | 412 |   | 412 | 412 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom (bord A1 [30 km/h])** | **62 jo. bord A1 RVV 1990** |   |   |   |   |
+| VS | 004 |   | – met 4 km/h |   | 47 | 105 | 47 | 47 |
+| VS | 005 |   | – met 5 km/h |   | 56 | 118 | 56 | 56 |
+| VS | 006 |   | – met 6 km/h |   | 65 | 132 | 65 | 65 |
+| VS | 007 |   | – met 7 km/h |   | 76 | 148 | 76 | 76 |
+| VS | 008 |   | – met 8 km/h |   | 87 | 162 | 87 | 87 |
+| VS | 009 |   | – met 9 km/h |   | 98 | 178 | 98 | 98 |
+| VS | 010 |   | – met 10 km/h |   | 108 | 192 | 108 | 108 |
+| VS | 011 |   | – met 11 km/h |   | 137 | 227 | 137 | 137 |
+| VS | 012 |   | – met 12 km/h |   | 148 | 244 | 148 | 148 |
+| VS | 013 |   | – met 13 km/h |   | 161 | 262 | 161 | 161 |
+| VS | 014 |   | – met 14 km/h |   | 174 | 278 | 174 | 174 |
+| VS | 015 |   | – met 15 km/h |   | 188 | 296 | 188 | 188 |
+| VS | 016 |   | – met 16 km/h |   | 201 | 315 | 201 | 201 |
+| VS | 017 |   | – met 17 km/h |   | 215 | 332 | 215 | 215 |
+| VS | 018 |   | – met 18 km/h |   | 230 | 353 | 230 | 230 |
+| VS | 019 |   | – met 19 km/h |   | 245 | 373 | 245 | 245 |
+| VS | 020 |   | – met 20 km/h |   | 260 | 394 | 260 | 260 |
+| VS | 021 |   | – met 21 km/h |   | 277 | 415 | 277 | 277 |
+| VS | 022 |   | – met 22 km/h |   | 294 | 431 | 294 | 294 |
+| VS | 023 |   | – met 23 km/h |   | 310 |   | 310 | 310 |
+| VS | 024 |   | – met 24 km/h |   | 328 |   | 328 | 328 |
+| VS | 025 |   | – met 25 km/h |   | 347 |   | 347 | 347 |
+| VS | 026 |   | – met 26 km/h |   | 367 |   | 367 | 367 |
+| VS | 027 |   | – met 27 km/h |   | 387 |   | 387 | 387 |
+| VS | 028 |   | – met 28 km/h |   | 405 |   | 405 | 405 |
+| VS | 029 |   | – met 29 km/h |   | 423 |   | 423 | 423 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen een erf** | [45 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=45) |   |   |   |   |
-| VV | 004 |   | – met 4 km/h |   | 46 | 102 | 46 | 46 |
-| VV | 005 |   | – met 5 km/h |   | 54 | 115 | 54 | 54 |
-| VV | 006 |   | – met 6 km/h |   | 63 | 129 | 63 | 63 |
-| VV | 007 |   | – met 7 km/h |   | 75 | 144 | 75 | 75 |
-| VV | 008 |   | – met 8 km/h |   | 85 | 158 | 85 | 85 |
-| VV | 009 |   | – met 9 km/h |   | 95 | 173 | 95 | 95 |
-| VV | 010 |   | – met 10 km/h |   | 107 | 187 | 107 | 107 |
-| VV | 011 |   | – met 11 km/h |   | 133 | 217 | 133 | 133 |
-| VV | 012 |   | – met 12 km/h |   | 146 | 230 | 146 | 146 |
-| VV | 013 |   | – met 13 km/h |   | 158 | 246 | 158 | 158 |
-| VV | 014 |   | – met 14 km/h |   | 170 | 261 | 170 | 170 |
-| VV | 015 |   | – met 15 km/h |   | 185 | 284 | 185 | 185 |
-| VV | 016 |   | – met 16 km/h |   | 195 | 304 | 195 | 195 |
-| VV | 017 |   | – met 17 km/h |   | 209 | 324 | 209 | 209 |
-| VV | 018 |   | – met 18km/h |   | 223 | 344 | 223 | 223 |
-| VV | 019 |   | – met 19 km/h |   | 241 | 367 | 241 | 241 |
-| VV | 020 |   | – met 20 km/h |   | 257 | 384 | 257 | 257 |
-| VV | 021 |   | – met 21 km/h |   | 270 | 408 | 270 | 270 |
-| VV | 023 |   | – met 23 km/h |   | 302 |   | 302 | 302 |
-| VV | 024 |   | – met 24 km/h |   | 319 |   | 319 | 319 |
-| VV | 025 |   | – met 25 km/h |   | 337 |   | 337 | 337 |
-| VV | 026 |   | – met 26 km/h |   | 356 |   | 356 | 356 |
-| VV | 027 |   | – met 27 km/h |   | 375 |   | 375 | 375 |
-| VV | 028 |   | – met 28 km/h |   | 394 |   | 394 | 394 |
-| VV | 029 |   | – met 29 km/h |   | 412 |   | 412 | 412 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen een erf** | **45 RVV 1990** |   |   |   |   |
+| VV | 004 |   | – met 4 km/h |   | 47 | 105 | 47 | 47 |
+| VV | 005 |   | – met 5 km/h |   | 56 | 118 | 56 | 56 |
+| VV | 006 |   | – met 6 km/h |   | 65 | 132 | 65 | 65 |
+| VV | 007 |   | – met 7 km/h |   | 76 | 148 | 76 | 76 |
+| VV | 008 |   | – met 8 km/h |   | 87 | 162 | 87 | 87 |
+| VV | 009 |   | – met 9 km/h |   | 98 | 178 | 98 | 98 |
+| VV | 010 |   | – met 10 km/h |   | 108 | 192 | 108 | 108 |
+| VV | 011 |   | – met 11 km/h |   | 137 | 227 | 137 | 137 |
+| VV | 012 |   | – met 12 km/h |   | 148 | 244 | 148 | 148 |
+| VV | 013 |   | – met 13 km/h |   | 161 | 262 | 161 | 161 |
+| VV | 014 |   | – met 14 km/h |   | 174 | 278 | 174 | 174 |
+| VV | 015 |   | – met 15 km/h |   | 188 | 296 | 188 | 188 |
+| VV | 016 |   | – met 16 km/h |   | 201 | 315 | 201 | 201 |
+| VV | 017 |   | – met 17 km/h |   | 215 | 332 | 215 | 215 |
+| VV | 018 |   | – met 18km/h |   | 230 | 353 | 230 | 230 |
+| VV | 019 |   | – met 19 km/h |   | 245 | 373 | 245 | 245 |
+| VV | 020 |   | – met 20 km/h |   | 260 | 394 | 260 | 260 |
+| VV | 021 |   | – met 21 km/h |   | 277 | 415 | 277 | 277 |
+| VV | 022 |   | – met 22 km/h |   | 294 | 431 | 294 | 294 |
+| VV | 023 |   | – met 23 km/h |   | 310 |   | 310 | 310 |
+| VV | 024 |   | – met 24 km/h |   | 328 |   | 328 | 328 |
+| VV | 025 |   | – met 25 km/h |   | 347 |   | 347 | 347 |
+| VV | 026 |   | – met 26 km/h |   | 367 |   | 367 | 367 |
+| VV | 027 |   | – met 27 km/h |   | 387 |   | 387 | 387 |
+| VV | 028 |   | – met 28 km/h |   | 405 |   | 405 | 405 |
+| VV | 029 |   | – met 29 km/h |   | 423 |   | 423 | 423 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | 62 jo. bord A3 RVV 1990 |   |   |   |   |
-| VC | 004 |   | – met 4 km/h |   | 27 | 46 | 27 | 27 |
-| VC | 005 |   | – met 5 km/h |   | 34 | 54 | 34 | 34 |
-| VC | 006 |   | – met 6 km/h |   | 40 | 63 | 40 | 40 |
-| VC | 007 |   | – met 7 km/h |   | 48 | 75 | 48 | 48 |
-| VC | 008 |   | – met 8 km/h |   | 54 | 85 | 54 | 54 |
-| VC | 009 |   | – met 9 km/h |   | 63 | 95 | 63 | 63 |
-| VC | 010 |   | – met 10 km/h |   | 72 | 107 | 72 | 72 |
-| VC | 011 |   | – met 11 km/h |   | 95 | 133 | 95 | 95 |
-| VC | 012 |   | – met 12 km/h |   | 105 | 146 | 105 | 105 |
-| VC | 013 |   | – met 13 km/h |   | 115 | 158 | 115 | 115 |
-| VC | 014 |   | – met 14 km/h |   | 123 | 170 | 123 | 123 |
-| VC | 015 |   | – met 15 km/h |   | 133 | 185 | 133 | 133 |
-| VC | 016 |   | – met 16 km/h |   | 144 | 195 | 144 | 144 |
-| VC | 017 |   | – met 17 km/h |   | 153 | 209 | 153 | 153 |
-| VC | 018 |   | – met 18 km/h |   | 165 | 223 | 165 | 165 |
-| VC | 019 |   | – met 19 km/h |   | 176 | 241 | 176 | 176 |
-| VC | 020 |   | – met 20 km/h |   | 191 | 257 | 191 | 191 |
-| VC | 021 |   | – met 21 km/h |   | 203 | 270 | 203 | 203 |
-| VC | 022 |   | – met 22 km/h |   | 215 | 283 | 215 | 215 |
-| VC | 023 |   | – met 23 km/h |   | 229 | 302 | 229 | 229 |
-| VC | 024 |   | – met 24 km/h |   | 241 | 319 | 241 | 241 |
-| VC | 025 |   | – met 25 km/h |   | 256 | 337 | 256 | 256 |
-| VC | 026 |   | – met 26 km/h |   | 270 | 356 | 270 | 270 |
-| VC | 027 |   | – met 27 km/h |   | 287 | 375 | 287 | 287 |
-| VC | 028 |   | – met 28 km/h |   | 304 | 394 | 304 | 304 |
-| VC | 029 |   | – met 29 km/h |   | 317 | 412 | 317 | 317 |
-| VC | 030 |   | – met 30 km/h |   | 334 |   |   | 334 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom** | **62 jo. bord A3 RVV 1990** |   |   |   |   |
+| VC | 004 |   | – met 4 km/h |   | 28 | 47 | 28 | 28 |
+| VC | 005 |   | – met 5 km/h |   | 35 | 56 | 35 | 35 |
+| VC | 006 |   | – met 6 km/h |   | 43 | 65 | 43 | 43 |
+| VC | 007 |   | – met 7 km/h |   | 49 | 76 | 49 | 49 |
+| VC | 008 |   | – met 8 km/h |   | 56 | 87 | 56 | 56 |
+| VC | 009 |   | – met 9 km/h |   | 64 | 98 | 64 | 64 |
+| VC | 010 |   | – met 10 km/h |   | 72 | 108 | 72 | 72 |
+| VC | 011 |   | – met 11 km/h |   | 98 | 137 | 98 | 98 |
+| VC | 012 |   | – met 12 km/h |   | 107 | 148 | 107 | 107 |
+| VC | 013 |   | – met 13 km/h |   | 118 | 161 | 118 | 118 |
+| VC | 014 |   | – met 14 km/h |   | 127 | 174 | 127 | 127 |
+| VC | 015 |   | – met 15 km/h |   | 137 | 188 | 137 | 137 |
+| VC | 016 |   | – met 16 km/h |   | 147 | 201 | 147 | 147 |
+| VC | 017 |   | – met 17 km/h |   | 158 | 215 | 158 | 158 |
+| VC | 018 |   | – met 18 km/h |   | 170 | 230 | 170 | 170 |
+| VC | 019 |   | – met 19 km/h |   | 181 | 245 | 181 | 181 |
+| VC | 020 |   | – met 20 km/h |   | 194 | 260 | 194 | 194 |
+| VC | 021 |   | – met 21 km/h |   | 207 | 277 | 207 | 207 |
+| VC | 022 |   | – met 22 km/h |   | 221 | 294 | 221 | 221 |
+| VC | 023 |   | – met 23 km/h |   | 235 | 310 | 235 | 235 |
+| VC | 024 |   | – met 24 km/h |   | 247 | 328 | 247 | 247 |
+| VC | 025 |   | – met 25 km/h |   | 263 | 347 | 263 | 263 |
+| VC | 026 |   | – met 26 km/h |   | 277 | 367 | 277 | 277 |
+| VC | 027 |   | – met 27 km/h |   | 295 | 387 | 295 | 295 |
+| VC | 028 |   | – met 28 km/h |   | 309 | 405 | 309 | 309 |
+| VC | 029 |   | – met 29 km/h |   | 325 | 423 | 325 | 325 |
+| VC | 030 |   | – met 30 km/h |   | 340 |   |   | 340 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A1 RVV 1990 |   |   |   |   |
-| VD | 004 |   | – met 4 km/h |   | 46 | 102 | 46 | 46 |
-| VD | 005 |   | – met 5 km/h |   | 54 | 115 | 54 | 54 |
-| VD | 006 |   | – met 6 km/h |   | 63 | 129 | 63 | 63 |
-| VD | 007 |   | – met 7 km/h |   | 75 | 144 | 75 | 75 |
-| VD | 008 |   | – met 8 km/h |   | 85 | 158 | 85 | 85 |
-| VD | 009 |   | – met 9 km/h |   | 95 | 173 | 95 | 95 |
-| VD | 010 |   | – met 10 km/h |   | 107 | 187 | 107 | 107 |
-| VD | 011 |   | – met 11 km/h |   | 133 | 217 | 133 | 133 |
-| VD | 012 |   | – met 12 km/h |   | 146 | 230 | 146 | 146 |
-| VD | 013 |   | – met 13 km/h |   | 158 | 246 | 158 | 158 |
-| VD | 014 |   | – met 14 km/h |   | 170 | 261 | 170 | 170 |
-| VD | 015 |   | – met 15 km/h |   | 185 | 284 | 185 | 185 |
-| VD | 016 |   | – met 16 km/h |   | 195 | 304 | 195 | 195 |
-| VD | 017 |   | – met 17 km/h |   | 209 | 324 | 209 | 209 |
-| VD | 018 |   | – met 18 km/h |   | 223 | 344 | 223 | 223 |
-| VD | 019 |   | – met 19 km/h |   | 241 | 367 | 241 | 241 |
-| VD | 020 |   | – met 20 km/h |   | 257 | 384 | 257 | 257 |
-| VD | 021 |   | – met 21 km/h |   | 270 | 408 | 270 | 270 |
-| VD | 023 |   | – met 23 km/h |   | 302 |   | 302 | 302 |
-| VD | 024 |   | – met 24 km/h |   | 319 |   | 319 | 319 |
-| VD | 025 |   | – met 25 km/h |   | 337 |   | 337 | 337 |
-| VD | 026 |   | – met 26 km/h |   | 356 |   | 356 | 356 |
-| VD | 027 |   | – met 27 km/h |   | 375 |   | 375 | 375 |
-| VD | 028 |   | – met 28 km/h |   | 394 |   | 394 | 394 |
-| VD | 029 |   | – met 29 km/h |   | 412 |   | 412 | 412 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A1 RVV 1990** |   |   |   |   |
+| VD | 004 |   | – met 4 km/h |   | 47 | 105 | 47 | 47 |
+| VD | 005 |   | – met 5 km/h |   | 56 | 118 | 56 | 56 |
+| VD | 006 |   | – met 6 km/h |   | 65 | 132 | 65 | 65 |
+| VD | 007 |   | – met 7 km/h |   | 76 | 148 | 76 | 76 |
+| VD | 008 |   | – met 8 km/h |   | 87 | 162 | 87 | 87 |
+| VD | 009 |   | – met 9 km/h |   | 98 | 178 | 98 | 98 |
+| VD | 010 |   | – met 10 km/h |   | 108 | 192 | 108 | 108 |
+| VD | 011 |   | – met 11 km/h |   | 137 | 227 | 137 | 137 |
+| VD | 012 |   | – met 12 km/h |   | 148 | 244 | 148 | 148 |
+| VD | 013 |   | – met 13 km/h |   | 161 | 262 | 161 | 161 |
+| VD | 014 |   | – met 14 km/h |   | 174 | 278 | 174 | 174 |
+| VD | 015 |   | – met 15 km/h |   | 188 | 296 | 188 | 188 |
+| VD | 016 |   | – met 16 km/h |   | 201 | 315 | 201 | 201 |
+| VD | 017 |   | – met 17 km/h |   | 215 | 332 | 215 | 215 |
+| VD | 018 |   | – met 18 km/h |   | 230 | 353 | 230 | 230 |
+| VD | 019 |   | – met 19 km/h |   | 245 | 373 | 245 | 245 |
+| VD | 020 |   | – met 20 km/h |   | 260 | 394 | 260 | 260 |
+| VD | 021 |   | – met 21 km/h |   | 277 | 415 | 277 | 277 |
+| VD | 022 |   | – met 22 km/h |   | 294 | 431 | 294 | 294 |
+| VD | 023 |   | – met 23 km/h |   | 310 |   | 310 | 310 |
+| VD | 024 |   | – met 24 km/h |   | 328 |   | 328 | 328 |
+| VD | 025 |   | – met 25 km/h |   | 347 |   | 347 | 347 |
+| VD | 026 |   | – met 26 km/h |   | 367 |   | 367 | 367 |
+| VD | 027 |   | – met 27 km/h |   | 387 |   | 387 | 387 |
+| VD | 028 |   | – met 28 km/h |   | 405 |   | 405 | 405 |
+| VD | 029 |   | – met 29 km/h |   | 423 |   | 423 | 423 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A3 RVV 1990 |   |   |   |   |
-| VE | 004 |   | – met 4 km/h |   | 46 | 102 | 46 | 46 |
-| VE | 005 |   | – met 5 km/h |   | 54 | 115 | 54 | 54 |
-| VE | 006 |   | – met 6 km/h |   | 63 | 129 | 63 | 63 |
-| VE | 007 |   | – met 7 km/h |   | 75 | 144 | 75 | 75 |
-| VE | 008 |   | – met 8 km/h |   | 85 | 158 | 85 | 85 |
-| VE | 009 |   | – met 9 km/h |   | 95 | 173 | 95 | 95 |
-| VE | 010 |   | – met 10 km/h |   | 107 | 187 | 107 | 107 |
-| VE | 011 |   | – met 11 km/h |   | 133 | 217 | 133 | 133 |
-| VE | 012 |   | – met 12 km/h |   | 146 | 230 | 146 | 146 |
-| VE | 013 |   | – met 13 km/h |   | 158 | 246 | 158 | 158 |
-| VE | 014 |   | – met 14 km/h |   | 170 | 261 | 170 | 170 |
-| VE | 015 |   | – met 15 km/h |   | 185 | 284 | 185 | 185 |
-| VE | 016 |   | – met 16 km/h |   | 195 | 304 | 195 | 195 |
-| VE | 017 |   | – met 17 km/h |   | 209 | 324 | 209 | 209 |
-| VE | 018 |   | – met 18 km/h |   | 223 | 344 | 223 | 223 |
-| VE | 019 |   | – met 19 km/h |   | 241 | 367 | 241 | 241 |
-| VE | 020 |   | – met 20 km/h |   | 257 | 384 | 257 | 257 |
-| VE | 021 |   | – met 21 km/h |   | 270 | 408 | 270 | 270 |
-| VE | 023 |   | – met 23 km/h |   | 302 |   | 302 | 302 |
-| VE | 024 |   | – met 24 km/h |   | 319 |   | 319 | 319 |
-| VE | 025 |   | – met 25 km/h |   | 337 |   | 337 | 337 |
-| VE | 026 |   | – met 26 km/h |   | 356 |   | 356 | 356 |
-| VE | 027 |   | – met 27 km/h |   | 375 |   | 375 | 375 |
-| VE | 028 |   | – met 28 km/h |   | 394 |   | 394 | 394 |
-| VE | 029 |   | – met 29 km/h |   | 412 |   | 412 | 412 |
+|   |   |   | **overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A3 RVV 1990** |   |   |   |   |
+| VE | 004 |   | – met 4 km/h |   | 47 | 105 | 47 | 47 |
+| VE | 005 |   | – met 5 km/h |   | 56 | 118 | 56 | 56 |
+| VE | 006 |   | – met 6 km/h |   | 65 | 132 | 65 | 65 |
+| VE | 007 |   | – met 7 km/h |   | 76 | 148 | 76 | 76 |
+| VE | 008 |   | – met 8 km/h |   | 87 | 162 | 87 | 87 |
+| VE | 009 |   | – met 9 km/h |   | 98 | 178 | 98 | 98 |
+| VE | 010 |   | – met 10 km/h |   | 108 | 192 | 108 | 108 |
+| VE | 011 |   | – met 11 km/h |   | 137 | 227 | 137 | 137 |
+| VE | 012 |   | – met 12 km/h |   | 148 | 244 | 148 | 148 |
+| VE | 013 |   | – met 13 km/h |   | 161 | 262 | 161 | 161 |
+| VE | 014 |   | – met 14 km/h |   | 174 | 278 | 174 | 174 |
+| VE | 015 |   | – met 15 km/h |   | 188 | 296 | 188 | 188 |
+| VE | 016 |   | – met 16 km/h |   | 201 | 315 | 201 | 201 |
+| VE | 017 |   | – met 17 km/h |   | 215 | 332 | 215 | 215 |
+| VE | 018 |   | – met 18 km/h |   | 230 | 353 | 230 | 230 |
+| VE | 019 |   | – met 19 km/h |   | 245 | 373 | 245 | 245 |
+| VE | 020 |   | – met 20 km/h |   | 260 | 394 | 260 | 260 |
+| VE | 021 |   | – met 21 km/h |   | 277 | 415 | 277 | 277 |
+| VE | 022 |   | – met 22 km/h |   | 294 | 431 | 294 | 294 |
+| VE | 023 |   | – met 23 km/h |   | 310 |   | 310 | 310 |
+| VE | 024 |   | – met 24 km/h |   | 328 |   | 328 | 328 |
+| VE | 025 |   | – met 25 km/h |   | 347 |   | 347 | 347 |
+| VE | 026 |   | – met 26 km/h |   | 367 |   | 367 | 367 |
+| VE | 027 |   | – met 27 km/h |   | 387 |   | 387 | 387 |
+| VE | 028 |   | – met 28 km/h |   | 405 |   | 405 | 405 |
+| VE | 029 |   | – met 29 km/h |   | 423 |   | 423 | 423 |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   | **c. (Auto)wegen buiten de bebouwde kom** |   |   |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | **21 sub a RVV 1990 (cat 1), 22 sub a, b, f en g RVV 1990 (cat 2), 21 sub b en c RVV 1990 (cat 3), 22 sub d en e RVV 1990 (cat 3), 22 sub c RVV 1990 (cat 4)** |   |   |   |   |
+| VF | 004 |   | – met 4 km/h |   | 25 | 38 | 25 | 25 |
+| VF | 005 |   | – met 5 km/h |   | 32 | 46 | 32 | 32 |
+| VF | 006 |   | – met 6 km/h |   | 38 | 55 | 38 | 38 |
+| VF | 007 |   | – met 7 km/h |   | 45 | 64 | 45 | 45 |
+| VF | 008 |   | – met 8 km/h |   | 51 | 74 | 51 | 51 |
+| VF | 009 |   | – met 9 km/h |   | 60 | 81 | 60 | 60 |
+| VF | 010 |   | – met 10 km/h |   | 68 | 91 | 68 | 68 |
+| VF | 011 |   | – met 11 km/h |   | 92 | 116 | 92 | 92 |
+| VF | 012 |   | – met 12 km/h |   | 102 | 128 | 102 | 102 |
+| VF | 013 |   | – met 13 km/h |   | 112 | 140 | 112 | 112 |
+| VF | 014 |   | – met 14 km/h |   | 121 | 151 | 121 | 121 |
+| VF | 015 |   | – met 15 km/h |   | 131 | 162 | 131 | 131 |
+| VF | 016 |   | – met 16 km/h |   | 140 | 176 | 140 | 140 |
+| VF | 017 |   | – met 17 km/h |   | 150 | 190 | 150 | 150 |
+| VF | 018 |   | – met 18 km/h |   | 160 | 203 | 160 | 160 |
+| VF | 019 |   | – met 19 km/h |   | 173 | 216 | 173 | 173 |
+| VF | 020 |   | – met 20 km/h |   | 185 | 230 | 185 | 185 |
+| VF | 021 |   | – met 21 km/h |   | 196 | 245 | 196 | 196 |
+| VF | 022 |   | – met 22 km/h |   | 209 | 260 | 209 | 209 |
+| VF | 023 |   | – met 23 km/h |   | 221 | 276 | 221 | 221 |
+| VF | 024 |   | – met 24 km/h |   | 235 | 290 | 235 | 235 |
+| VF | 025 |   | – met 25 km/h |   | 248 | 308 | 248 | 248 |
+| VF | 026 |   | – met 26 km/h |   | 263 | 325 | 263 | 263 |
+| VF | 027 |   | – met 27 km/h |   | 276 | 340 | 276 | 276 |
+| VF | 028 |   | – met 28 km/h |   | 290 | 359 | 290 | 290 |
+| VF | 029 |   | – met 29 km/h |   | 308 | 377 | 308 | 308 |
+| VF | 030 |   | – met 30 km/h |   | 324 | 394 |   | 324 |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | [21 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21) (cat 1), [22 sub a, b, f en g RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 2), 21 sub b en c RVV 1990 (cat 3), 22 sub d en e RVV 1990 (cat 3), 22 sub c RVV 1990 (cat 4) |   |   |   |   |
-| VF | 004 |   | – met 4 km/h |   | 24 | 37 | 24 | 24 |
-| VF | 005 |   | – met 5 km/h |   | 32 | 45 | 32 | 32 |
-| VF | 006 |   | – met 6 km/h |   | 37 | 53 | 37 | 37 |
-| VF | 007 |   | – met 7 km/h |   | 43 | 63 | 43 | 43 |
-| VF | 008 |   | – met 8 km/h |   | 50 | 73 | 50 | 50 |
-| VF | 009 |   | – met 9 km/h |   | 57 | 79 | 57 | 57 |
-| VF | 010 |   | – met 10 km/h |   | 67 | 90 | 67 | 67 |
-| VF | 011 |   | – met 11 km/h |   | 90 | 113 | 90 | 90 |
-| VF | 012 |   | – met 12 km/h |   | 100 | 121 | 100 | 100 |
-| VF | 013 |   | – met 13 km/h |   | 110 | 133 | 110 | 110 |
-| VF | 014 |   | – met 14 km/h |   | 117 | 147 | 117 | 117 |
-| VF | 015 |   | – met 15 km/h |   | 129 | 158 | 129 | 129 |
-| VF | 016 |   | – met 16 km/h |   | 137 | 173 | 137 | 137 |
-| VF | 017 |   | – met 17 km/h |   | 147 | 187 | 147 | 147 |
-| VF | 018 |   | – met 18 km/h |   | 157 | 198 | 157 | 157 |
-| VF | 019 |   | – met 19 km/h |   | 170 | 211 | 170 | 170 |
-| VF | 020 |   | – met 20 km/h |   | 183 | 223 | 183 | 183 |
-| VF | 021 |   | – met 21 km/h |   | 191 | 241 | 191 | 191 |
-| VF | 022 |   | – met 22 km/h |   | 203 | 256 | 203 | 203 |
-| VF | 023 |   | – met 23 km/h |   | 215 | 265 | 215 | 215 |
-| VF | 024 |   | – met 24 km/h |   | 229 | 283 | 229 | 229 |
-| VF | 025 |   | – met 25 km/h |   | 241 | 300 | 241 | 241 |
-| VF | 026 |   | – met 26 km/h |   | 256 | 316 | 256 | 256 |
-| VF | 027 |   | – met 27 km/h |   | 269 | 334 | 269 | 269 |
-| VF | 028 |   | – met 28 km/h |   | 283 | 349 | 283 | 283 |
-| VF | 029 |   | – met 29 km/h |   | 300 | 370 | 300 | 300 |
-| VF | 030 |   | – met 30 km/h |   | 317 | 384 |   | 317 |
+|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | **62 jo. bord A1 RVV 1990** |   |   |   |   |
+| VG | 004 |   | – met 4 km/h |   | 25 | 38 | 25 |   |
+| VG | 005 |   | – met 5 km/h |   | 32 | 46 | 32 |   |
+| VG | 006 |   | – met 6 km/h |   | 38 | 55 | 38 |   |
+| VG | 007 |   | – met 7 km/h |   | 45 | 64 | 45 |   |
+| VG | 008 |   | – met 8 km/h |   | 51 | 74 | 51 |   |
+| VG | 009 |   | – met 9 km/h |   | 60 | 81 | 60 |   |
+| VG | 010 |   | – met 10 km/h |   | 68 | 91 | 68 |   |
+| VG | 011 |   | – met 11 km/h |   | 92 | 116 | 92 |   |
+| VG | 012 |   | – met 12 km/h |   | 102 | 128 | 102 |   |
+| VG | 013 |   | – met 13 km/h |   | 112 | 140 | 112 |   |
+| VG | 014 |   | – met 14 km/h |   | 121 | 151 | 121 |   |
+| VG | 015 |   | – met 15 km/h |   | 131 | 162 | 131 |   |
+| VG | 016 |   | – met 16 km/h |   | 140 | 176 | 140 |   |
+| VG | 017 |   | – met 17 km/h |   | 150 | 190 | 150 |   |
+| VG | 018 |   | – met 18 km/h |   | 160 | 203 | 160 |   |
+| VG | 019 |   | – met 19 km/h |   | 173 | 216 | 173 |   |
+| VG | 020 |   | – met 20 km/h |   | 185 | 230 | 185 |   |
+| VG | 021 |   | – met 21 km/h |   | 196 | 245 | 196 |   |
+| VG | 022 |   | – met 22 km/h |   | 209 | 260 | 209 |   |
+| VG | 023 |   | – met 23 km/h |   | 221 | 276 | 221 |   |
+| VG | 024 |   | – met 24 km/h |   | 235 | 290 | 235 |   |
+| VG | 025 |   | – met 25 km/h |   | 248 | 308 | 248 |   |
+| VG | 026 |   | – met 26 km/h |   | 263 | 325 | 263 |   |
+| VG | 027 |   | – met 27 km/h |   | 276 | 340 | 276 |   |
+| VG | 028 |   | – met 28 km/h |   | 290 | 359 | 290 |   |
+| VG | 029 |   | – met 29 km/h |   | 308 | 377 | 308 |   |
+| VG | 030 |   | – met 30 km/h |   | 324 | 394 |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | 62 jo. bord A1 RVV 1990 |   |   |   |   |
-| VG | 004 |   | – met 4 km/h |   | 24 | 37 | 24 |   |
-| VG | 005 |   | – met 5 km/h |   | 32 | 45 | 32 |   |
-| VG | 006 |   | – met 6 km/h |   | 37 | 53 | 37 |   |
-| VG | 007 |   | – met 7 km/h |   | 43 | 63 | 43 |   |
-| VG | 008 |   | – met 8 km/h |   | 50 | 73 | 50 |   |
-| VG | 009 |   | – met 9 km/h |   | 57 | 79 | 57 |   |
-| VG | 010 |   | – met 10 km/h |   | 67 | 90 | 67 |   |
-| VG | 011 |   | – met 11 km/h |   | 90 | 113 | 90 |   |
-| VG | 012 |   | – met 12 km/h |   | 100 | 121 | 100 |   |
-| VG | 013 |   | – met 13 km/h |   | 110 | 133 | 110 |   |
-| VG | 014 |   | – met 14 km/h |   | 117 | 147 | 117 |   |
-| VG | 015 |   | – met 15 km/h |   | 129 | 158 | 129 |   |
-| VG | 016 |   | – met 16 km/h |   | 137 | 173 | 137 |   |
-| VG | 017 |   | – met 17 km/h |   | 147 | 187 | 147 |   |
-| VG | 018 |   | – met 18 km/h |   | 157 | 198 | 157 |   |
-| VG | 019 |   | – met 19 km/h |   | 170 | 211 | 170 |   |
-| VG | 020 |   | – met 20 km/h |   | 183 | 223 | 183 |   |
-| VG | 021 |   | – met 21 km/h |   | 191 | 241 | 191 |   |
-| VG | 022 |   | – met 22 km/h |   | 203 | 256 | 203 |   |
-| VG | 023 |   | – met 23 km/h |   | 215 | 265 | 215 |   |
-| VG | 024 |   | – met 24 km/h |   | 229 | 283 | 229 |   |
-| VG | 025 |   | – met 25 km/h |   | 241 | 300 | 241 |   |
-| VG | 026 |   | – met 26 km/h |   | 256 | 316 | 256 |   |
-| VG | 027 |   | – met 27 km/h |   | 269 | 334 | 269 |   |
-| VG | 028 |   | – met 28 km/h |   | 283 | 349 | 283 |   |
-| VG | 029 |   | – met 29 km/h |   | 300 | 370 | 300 |   |
-| VG | 030 |   | – met 30 km/h |   | 317 | 384 |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | **62 jo. bord A3 RVV 1990** |   |   |   |   |
+| VH | 004 |   | – met 4 km/h |   | 25 | 38 | 25 |   |
+| VH | 005 |   | – met 5 km/h |   | 32 | 46 | 32 |   |
+| VH | 006 |   | – met 6 km/h |   | 38 | 55 | 38 |   |
+| VH | 007 |   | – met 7 km/h |   | 45 | 64 | 45 |   |
+| VH | 008 |   | – met 8 km/h |   | 51 | 74 | 51 |   |
+| VH | 009 |   | – met 9 km/h |   | 60 | 81 | 60 |   |
+| VH | 010 |   | – met 10 km/h |   | 68 | 91 | 68 |   |
+| VH | 011 |   | – met 11 km/h |   | 92 | 116 | 92 |   |
+| VH | 012 |   | – met 12 km/h |   | 102 | 128 | 102 |   |
+| VH | 013 |   | – met 13 km/h |   | 112 | 140 | 112 |   |
+| VH | 014 |   | – met 14 km/h |   | 121 | 151 | 121 |   |
+| VH | 015 |   | – met 15 km/h |   | 131 | 162 | 131 |   |
+| VH | 016 |   | – met 16 km/h |   | 140 | 176 | 140 |   |
+| VH | 017 |   | – met 17 km/h |   | 150 | 190 | 150 |   |
+| VH | 018 |   | – met 18 km/h |   | 160 | 203 | 160 |   |
+| VH | 019 |   | – met 19 km/h |   | 173 | 216 | 173 |   |
+| VH | 020 |   | – met 20 km/h |   | 185 | 230 | 185 |   |
+| VH | 021 |   | – met 21 km/h |   | 196 | 245 | 196 |   |
+| VH | 022 |   | – met 22 km/h |   | 209 | 260 | 209 |   |
+| VH | 023 |   | – met 23 km/h |   | 221 | 276 | 221 |   |
+| VH | 024 |   | – met 24 km/h |   | 235 | 290 | 235 |   |
+| VH | 025 |   | – met 25 km/h |   | 248 | 308 | 248 |   |
+| VH | 026 |   | – met 26 km/h |   | 263 | 325 | 263 |   |
+| VH | 027 |   | – met 27 km/h |   | 276 | 340 | 276 |   |
+| VH | 028 |   | – met 28 km/h |   | 290 | 359 | 290 |   |
+| VH | 029 |   | – met 29 km/h |   | 308 | 377 | 308 |   |
+| VH | 030 |   | – met 30 km/h |   | 324 | 394 |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom** | 62 jo. bord A3 RVV 1990 |   |   |   |   |
-| VH | 004 |   | – met 4 km/h |   | 24 | 37 | 24 |   |
-| VH | 005 |   | – met 5 km/h |   | 32 | 45 | 32 |   |
-| VH | 006 |   | – met 6 km/h |   | 37 | 53 | 37 |   |
-| VH | 007 |   | – met 7 km/h |   | 43 | 63 | 43 |   |
-| VH | 008 |   | – met 8 km/h |   | 50 | 73 | 50 |   |
-| VH | 009 |   | – met 9 km/h |   | 57 | 79 | 57 |   |
-| VH | 010 |   | – met 10 km/h |   | 67 | 90 | 67 |   |
-| VH | 011 |   | – met 11 km/h |   | 90 | 113 | 90 |   |
-| VH | 012 |   | – met 12 km/h |   | 100 | 121 | 100 |   |
-| VH | 013 |   | – met 13 km/h |   | 110 | 133 | 110 |   |
-| VH | 014 |   | – met 14 km/h |   | 117 | 147 | 117 |   |
-| VH | 015 |   | – met 15 km/h |   | 129 | 158 | 129 |   |
-| VH | 016 |   | – met 16 km/h |   | 137 | 173 | 137 |   |
-| VH | 017 |   | – met 17 km/h |   | 147 | 187 | 147 |   |
-| VH | 018 |   | – met 18 km/h |   | 157 | 198 | 157 |   |
-| VH | 019 |   | – met 19 km/h |   | 170 | 211 | 170 |   |
-| VH | 020 |   | – met 20 km/h |   | 183 | 223 | 183 |   |
-| VH | 021 |   | – met 21 km/h |   | 191 | 241 | 191 |   |
-| VH | 022 |   | – met 22 km/h |   | 203 | 256 | 203 |   |
-| VH | 023 |   | – met 23 km/h |   | 215 | 265 | 215 |   |
-| VH | 024 |   | – met 24 km/h |   | 229 | 283 | 229 |   |
-| VH | 025 |   | – met 25 km/h |   | 241 | 300 | 241 |   |
-| VH | 026 |   | – met 26 km/h |   | 256 | 316 | 256 |   |
-| VH | 027 |   | – met 27 km/h |   | 269 | 334 | 269 |   |
-| VH | 028 |   | – met 28 km/h |   | 283 | 349 | 283 |   |
-| VH | 029 |   | – met 29 km/h |   | 300 | 370 | 300 |   |
-| VH | 030 |   | – met 30 km/h |   | 317 | 384 |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A1 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2)** |   |   |   |   |
+| VI | 004 |   | – met 4 km/h |   | 38 | 56 | 38 |   |
+| VI | 005 |   | – met 5 km/h |   | 46 | 68 | 46 |   |
+| VI | 006 |   | – met 6 km/h |   | 55 | 81 | 55 |   |
+| VI | 007 |   | – met 7 km/h |   | 64 | 95 | 64 |   |
+| VI | 008 |   | – met 8 km/h |   | 74 | 108 | 74 |   |
+| VI | 009 |   | – met 9 km/h |   | 81 | 122 | 81 |   |
+| VI | 010 |   | – met 10 km/h |   | 91 | 137 | 91 |   |
+| VI | 011 |   | – met 11 km/h |   | 116 | 168 | 116 |   |
+| VI | 012 |   | – met 12 km/h |   | 128 | 183 | 128 |   |
+| VI | 013 |   | – met 13 km/h |   | 140 | 197 | 140 |   |
+| VI | 014 |   | – met 14 km/h |   | 151 | 214 | 151 |   |
+| VI | 015 |   | – met 15 km/h |   | 162 | 230 | 162 |   |
+| VI | 016 |   | – met 16 km/h |   | 176 | 247 | 176 |   |
+| VI | 017 |   | – met 17 km/h |   | 190 | 264 | 190 |   |
+| VI | 018 |   | – met 18 km/h |   | 203 | 283 | 203 |   |
+| VI | 019 |   | – met 19 km/h |   | 216 | 301 | 216 |   |
+| VI | 020 |   | – met 20 km/h |   | 230 | 319 | 230 |   |
+| VI | 021 |   | – met 21 km/h |   | 245 | 339 | 245 |   |
+| VI | 022 |   | – met 22 km/h |   | 260 | 358 | 260 |   |
+| VI | 023 |   | – met 23 km/h |   | 276 | 379 | 276 |   |
+| VI | 024 |   | – met 24 km/h |   | 290 | 399 | 290 |   |
+| VI | 025 |   | – met 25 km/h |   | 308 | 419 | 308 |   |
+| VI | 026 |   | – met 26 km/h |   | 325 | 431 | 325 |   |
+| VI | 027 |   | – met 27 km/h |   | 340 |   | 340 |   |
+| VI | 028 |   | – met 28 km/h |   | 359 |   | 359 |   |
+| VI | 029 |   | – met 29 km/h |   | 377 |   | 377 |   |
+| VI | 030 |   | – met 30 km/h |   | 394 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A1 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2) |   |   |   |   |
-| VI | 004 |   | – met 4 km/h |   | 37 | 54 | 37 |   |
-| VI | 005 |   | – met 5 km/h |   | 45 | 67 | 45 |   |
-| VI | 006 |   | – met 6 km/h |   | 53 | 77 | 53 |   |
-| VI | 007 |   | – met 7 km/h |   | 63 | 93 | 63 |   |
-| VI | 008 |   | – met 8 km/h |   | 73 | 105 | 73 |   |
-| VI | 009 |   | – met 9 km/h |   | 79 | 120 | 79 |   |
-| VI | 010 |   | – met 10 km/h |   | 90 | 133 | 90 |   |
-| VI | 011 |   | – met 11 km/h |   | 113 | 163 | 113 |   |
-| VI | 012 |   | – met 12 km/h |   | 121 | 180 | 121 |   |
-| VI | 013 |   | – met 13 km/h |   | 133 | 190 | 133 |   |
-| VI | 014 |   | – met 14 km/h |   | 147 | 211 | 147 |   |
-| VI | 015 |   | – met 15 km/h |   | 158 | 223 | 158 |   |
-| VI | 016 |   | – met 16 km/h |   | 173 | 239 | 173 |   |
-| VI | 017 |   | – met 17 km/h |   | 187 | 257 | 187 |   |
-| VI | 018 |   | – met 18 km/h |   | 198 | 275 | 198 |   |
-| VI | 019 |   | – met 19 km/h |   | 211 | 293 | 211 |   |
-| VI | 020 |   | – met 20 km/h |   | 223 | 311 | 223 |   |
-| VI | 021 |   | – met 21 km/h |   | 241 | 330 | 241 |   |
-| VI | 022 |   | – met 22 km/h |   | 256 | 348 | 256 |   |
-| VI | 023 |   | – met 23 km/h |   | 265 | 369 | 265 |   |
-| VI | 024 |   | – met 24 km/h |   | 283 | 388 | 283 |   |
-| VI | 025 |   | – met 25 km/h |   | 300 | 408 | 300 |   |
-| VI | 027 |   | – met 27 km/h |   | 334 |   | 334 |   |
-| VI | 028 |   | – met 28 km/h |   | 349 |   | 349 |   |
-| VI | 029 |   | – met 29 km/h |   | 370 |   | 370 |   |
-| VI | 030 |   | – met 30 km/h |   | 384 |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A3 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2) |   |   |   |   |
-| VK | 004 |   | – met 4 km/h |   | 37 | 54 | 37 |   |
-| VK | 005 |   | – met 5 km/h |   | 45 | 67 | 45 |   |
-| VK | 006 |   | – met 6 km/h |   | 53 | 77 | 53 |   |
-| VK | 007 |   | – met 7 km/h |   | 63 | 93 | 63 |   |
-| VK | 008 |   | – met 8 km/h |   | 73 | 105 | 73 |   |
-| VK | 009 |   | – met 9 km/h |   | 79 | 120 | 79 |   |
-| VK | 010 |   | – met 10 km/h |   | 90 | 133 | 90 |   |
-| VK | 011 |   | – met 11 km/h |   | 113 | 163 | 113 |   |
-| VK | 012 |   | – met 12 km/h |   | 121 | 180 | 121 |   |
-| VK | 013 |   | – met 13 km/h |   | 133 | 190 | 133 |   |
-| VK | 014 |   | – met 14 km/h |   | 147 | 211 | 147 |   |
-| VK | 015 |   | – met 15 km/h |   | 158 | 223 | 158 |   |
-| VK | 016 |   | – met 16 km/h |   | 173 | 239 | 173 |   |
-| VK | 017 |   | – met 17 km/h |   | 187 | 257 | 187 |   |
-| VK | 018 |   | – met 18 km/h |   | 198 | 275 | 198 |   |
-| VK | 019 |   | – met 19 km/h |   | 211 | 293 | 211 |   |
-| VK | 020 |   | – met 20 km/h |   | 223 | 311 | 223 |   |
-| VK | 021 |   | – met 21 km/h |   | 241 | 330 | 241 |   |
-| VK | 022 |   | – met 22 km/h |   | 256 | 348 | 256 |   |
-| VK | 023 |   | – met 23 km/h |   | 265 | 369 | 265 |   |
-| VK | 024 |   | – met 24 km/h |   | 283 | 388 | 283 |   |
-| VK | 025 |   | – met 25 km/h |   | 300 | 408 | 300 |   |
-|   |   |   |   |   |   |   |   |   |
-| VK | 027 |   | – met 27 km/h |   | 334 |   | 334 |   |
-| VK | 028 |   | – met 28 km/h |   | 349 |   | 349 |   |
-| VK | 029 |   | – met 29 km/h |   | 370 |   | 370 |   |
-| VK | 030 |   | – met 30 km/h |   | 384 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A3 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2)** |   |   |   |   |
+| VK | 004 |   | – met 4 km/h |   | 38 | 56 | 38 |   |
+| VK | 005 |   | – met 5 km/h |   | 46 | 68 | 46 |   |
+| VK | 006 |   | – met 6 km/h |   | 55 | 81 | 55 |   |
+| VK | 007 |   | – met 7 km/h |   | 64 | 95 | 64 |   |
+| VK | 008 |   | – met 8 km/h |   | 74 | 108 | 74 |   |
+| VK | 009 |   | – met 9 km/h |   | 81 | 122 | 81 |   |
+| VK | 010 |   | – met 10 km/h |   | 91 | 137 | 91 |   |
+| VK | 011 |   | – met 11 km/h |   | 116 | 168 | 116 |   |
+| VK | 012 |   | – met 12 km/h |   | 128 | 183 | 128 |   |
+| VK | 013 |   | – met 13 km/h |   | 140 | 197 | 140 |   |
+| VK | 014 |   | – met 14 km/h |   | 151 | 214 | 151 |   |
+| VK | 015 |   | – met 15 km/h |   | 162 | 230 | 162 |   |
+| VK | 016 |   | – met 16 km/h |   | 176 | 247 | 176 |   |
+| VK | 017 |   | – met 17 km/h |   | 190 | 264 | 190 |   |
+| VK | 018 |   | – met 18 km/h |   | 203 | 283 | 203 |   |
+| VK | 019 |   | – met 19 km/h |   | 216 | 301 | 216 |   |
+| VK | 020 |   | – met 20 km/h |   | 230 | 319 | 230 |   |
+| VK | 021 |   | – met 21 km/h |   | 245 | 339 | 245 |   |
+| VK | 022 |   | – met 22 km/h |   | 260 | 358 | 260 |   |
+| VK | 023 |   | – met 23 km/h |   | 276 | 379 | 276 |   |
+| VK | 024 |   | – met 24 km/h |   | 290 | 399 | 290 |   |
+| VK | 025 |   | – met 25 km/h |   | 308 | 419 | 308 |   |
+| VK | 026 |   | – met 26 km/h |   | 325 | 431 | 325 |   |
+| VK | 027 |   | – met 27 km/h |   | 340 |   | 340 |   |
+| VK | 028 |   | – met 28 km/h |   | 359 |   | 359 |   |
+| VK | 029 |   | – met 29 km/h |   | 377 |   | 377 |   |
+| VK | 030 |   | – met 30 km/h |   | 394 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   | **d. Autosnelwegen** |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | 21 sub a RVV 1990 (cat 1), 22 sub a, b, f en g RVV 1990 (cat 2) |   |   |   |   |
-| VL | 001 |   | – met 1 km/h |   | 11 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | **21 sub a RVV 1990 (cat 1), 22 sub a, b, f en g RVV 1990 (cat 2)** |   |   |   |   |
+| VL | 001 |   | – met 1 km/h |   | 12 |   |   |   |
 | VL | 002 |   | – met 2 km/h |   | 16 |   |   |   |
-| VL | 003 |   | – met 3 km/h |   | 20 |   |   |   |
-| VL | 004 |   | – met 4 km/h |   | 24 | 32 |   |   |
-| VL | 005 |   | – met 5 km/h |   | 31 | 39 |   |   |
-| VL | 006 |   | – met 6 km/h |   | 37 | 49 |   |   |
-| VL | 007 |   | – met 7 km/h |   | 43 | 59 |   |   |
-| VL | 008 |   | – met 8 km/h |   | 49 | 67 |   |   |
-| VL | 009 |   | – met 9 km/h |   | 55 | 75 |   |   |
-| VL | 010 |   | – met 10 km/h |   | 63 | 86 |   |   |
-| VL | 011 |   | – met 11 km/h |   | 86 | 110 |   |   |
-| VL | 012 |   | – met 12 km/h |   | 93 | 121 |   |   |
-| VL | 013 |   | – met 13 km/h |   | 100 | 131 |   |   |
-| VL | 014 |   | – met 14 km/h |   | 107 | 139 |   |   |
-| VL | 015 |   | – met 15 km/h |   | 118 | 151 |   |   |
-| VL | 016 |   | – met 16 km/h |   | 128 | 163 |   |   |
-| VL | 017 |   | – met 17 km/h |   | 137 | 176 |   |   |
-| VL | 018 |   | – met 18 km/h |   | 147 | 191 |   |   |
-| VL | 019 |   | – met 19 km/h |   | 158 | 203 |   |   |
-| VL | 020 |   | – met 20 km/h |   | 170 | 215 |   |   |
-| VL | 021 |   | – met 21 km/h |   | 181 | 229 |   |   |
-| VL | 022 |   | – met 22 km/h |   | 191 | 241 |   |   |
-| VL | 023 |   | – met 23 km/h |   | 203 | 256 |   |   |
-| VL | 024 |   | – met 24 km/h |   | 215 | 270 |   |   |
-| VL | 025 |   | – met 25 km/h |   | 223 | 283 |   |   |
-| VL | 026 |   | – met 26 km/h |   | 234 | 302 |   |   |
-| VL | 027 |   | – met 27 km/h |   | 246 | 319 |   |   |
-| VL | 028 |   | – met 28 km/h |   | 257 | 334 |   |   |
-| VL | 029 |   | – met 29 km/h |   | 270 | 349 |   |   |
-| VL | 030 |   | – met 30 km/h |   | 284 | 370 |   |   |
-| VL | 031 | a | – met 31 km/h |   | 292 |   |   |   |
-| VL | 032 | a | – met 32 km/h |   | 304 |   |   |   |
-| VL | 033 | a | – met 33 km/h |   | 323 |   |   |   |
-| VL | 034 | a | – met 34 km/h |   | 339 |   |   |   |
-| VL | 035 | a | – met 35 km/h |   | 348 |   |   |   |
-| VL | 036 | a | – met 36 km/h |   | 367 |   |   |   |
-| VL | 037 | a | – met 37 km/h |   | 384 |   |   |   |
-| VL | 038 | a | – met 38 km/h |   | 396 |   |   |   |
+| VL | 003 |   | – met 3 km/h |   | 22 |   |   |   |
+| VL | 004 |   | – met 4 km/h |   | 25 | 33 |   |   |
+| VL | 005 |   | – met 5 km/h |   | 31 | 40 |   |   |
+| VL | 006 |   | – met 6 km/h |   | 37 | 50 |   |   |
+| VL | 007 |   | – met 7 km/h |   | 44 | 60 |   |   |
+| VL | 008 |   | – met 8 km/h |   | 50 | 69 |   |   |
+| VL | 009 |   | – met 9 km/h |   | 57 | 79 |   |   |
+| VL | 010 |   | – met 10 km/h |   | 64 | 88 |   |   |
+| VL | 011 |   | – met 11 km/h |   | 88 | 113 |   |   |
+| VL | 012 |   | – met 12 km/h |   | 96 | 124 |   |   |
+| VL | 013 |   | – met 13 km/h |   | 103 | 134 |   |   |
+| VL | 014 |   | – met 14 km/h |   | 112 | 145 |   |   |
+| VL | 015 |   | – met 15 km/h |   | 121 | 155 |   |   |
+| VL | 016 |   | – met 16 km/h |   | 130 | 168 |   |   |
+| VL | 017 |   | – met 17 km/h |   | 141 | 181 |   |   |
+| VL | 018 |   | – met 18 km/h |   | 152 | 194 |   |   |
+| VL | 019 |   | – met 19 km/h |   | 162 | 207 |   |   |
+| VL | 020 |   | – met 20 km/h |   | 174 | 221 |   |   |
+| VL | 021 |   | – met 21 km/h |   | 186 | 235 |   |   |
+| VL | 022 |   | – met 22 km/h |   | 196 | 248 |   |   |
+| VL | 023 |   | – met 23 km/h |   | 209 | 263 |   |   |
+| VL | 024 |   | – met 24 km/h |   | 221 | 277 |   |   |
+| VL | 025 |   | – met 25 km/h |   | 232 | 295 |   |   |
+| VL | 026 |   | – met 26 km/h |   | 245 | 310 |   |   |
+| VL | 027 |   | – met 27 km/h |   | 257 | 326 |   |   |
+| VL | 028 |   | – met 28 km/h |   | 267 | 343 |   |   |
+| VL | 029 |   | – met 29 km/h |   | 282 | 359 |   |   |
+| VL | 030 |   | – met 30 km/h |   | 297 | 377 |   |   |
+| VL | 031 | a | – met 31 km/h |   | 311 |   |   |   |
+| VL | 032 | a | – met 32 km/h |   | 326 |   |   |   |
+| VL | 033 | a | – met 33 km/h |   | 340 |   |   |   |
+| VL | 034 | a | – met 34 km/h |   | 357 |   |   |   |
+| VL | 035 | a | – met 35 km/h |   | 372 |   |   |   |
+| VL | 036 | a | – met 36 km/h |   | 388 |   |   |   |
+| VL | 037 | a | – met 37 km/h |   | 404 |   |   |   |
+| VL | 038 | a | – met 38 km/h |   | 420 |   |   |   |
+| VL | 039 | a | – met 39 km/h |   | 431 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | 62 jo. bord A1 RVV 1990 |   |   |   |   |
-| VM | 004 |   | – met 4 km/h |   | 24 | 32 |   |   |
-| VM | 005 |   | – met 5 km/h |   | 31 | 39 |   |   |
-| VM | 006 |   | – met 6 km/h |   | 37 | 49 |   |   |
-| VM | 007 |   | – met 7 km/h |   | 43 | 59 |   |   |
-| VM | 008 |   | – met 8 km/h |   | 49 | 67 |   |   |
-| VM | 009 |   | – met 9 km/h |   | 55 | 75 |   |   |
-| VM | 010 |   | – met 10 km/h |   | 63 | 86 |   |   |
-| VM | 011 |   | – met 11 km/h |   | 86 | 110 |   |   |
-| VM | 012 |   | – met 12 km/h |   | 93 | 121 |   |   |
-| VM | 013 |   | – met 13 km/h |   | 100 | 131 |   |   |
-| VM | 014 |   | – met 14 km/h |   | 107 | 139 |   |   |
-| VM | 015 |   | – met 15 km/h |   | 118 | 151 |   |   |
-| VM | 016 |   | – met 16 km/h |   | 128 | 163 |   |   |
-| VM | 017 |   | – met 17 km/h |   | 137 | 176 |   |   |
-| VM | 018 |   | – met 18 km/h |   | 147 | 191 |   |   |
-| VM | 019 |   | – met 19 km/h |   | 158 | 203 |   |   |
-| VM | 020 |   | – met 20 km/h |   | 170 | 215 |   |   |
-| VM | 021 |   | – met 21 km/h |   | 181 | 229 |   |   |
-| VM | 022 |   | – met 22 km/h |   | 191 | 241 |   |   |
-| VM | 023 |   | – met 23 km/h |   | 203 | 256 |   |   |
-| VM | 024 |   | – met 24 km/h |   | 215 | 270 |   |   |
-| VM | 025 |   | – met 25 km/h |   | 223 | 283 |   |   |
-| VM | 026 |   | – met 26 km/h |   | 234 | 302 |   |   |
-| VM | 027 |   | – met 27 km/h |   | 246 | 319 |   |   |
-| VM | 028 |   | – met 28 km/h |   | 257 | 334 |   |   |
-| VM | 029 |   | – met 29 km/h |   | 270 | 349 |   |   |
-| VM | 030 |   | – met 30 km/h |   | 284 | 370 |   |   |
-| VM | 031 | a | – met 31 km/h |   | 292 |   |   |   |
-| VM | 032 | a | – met 32 km/h |   | 304 |   |   |   |
-| VM | 033 | a | – met 33 km/h |   | 323 |   |   |   |
-| VM | 034 | a | – met 34 km/h |   | 339 |   |   |   |
-| VM | 035 | a | – met 35 km/h |   | 348 |   |   |   |
-| VM | 036 | a | – met 36 km/h |   | 367 |   |   |   |
-| VM | 037 | a | – met 37 km/h |   | 384 |   |   |   |
-| VM | 038 | a | – met 38 km/h |   | 396 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | **62 jo. bord A1 RVV 1990** |   |   |   |   |
+| VM | 004 |   | – met 4 km/h |   | 25 | 33 |   |   |
+| VM | 005 |   | – met 5 km/h |   | 31 | 40 |   |   |
+| VM | 006 |   | – met 6 km/h |   | 37 | 50 |   |   |
+| VM | 007 |   | – met 7 km/h |   | 44 | 60 |   |   |
+| VM | 008 |   | – met 8 km/h |   | 50 | 69 |   |   |
+| VM | 009 |   | – met 9 km/h |   | 57 | 79 |   |   |
+| VM | 010 |   | – met 10 km/h |   | 64 | 88 |   |   |
+| VM | 011 |   | – met 11 km/h |   | 88 | 113 |   |   |
+| VM | 012 |   | – met 12 km/h |   | 96 | 124 |   |   |
+| VM | 013 |   | – met 13 km/h |   | 103 | 134 |   |   |
+| VM | 014 |   | – met 14 km/h |   | 112 | 145 |   |   |
+| VM | 015 |   | – met 15 km/h |   | 121 | 155 |   |   |
+| VM | 016 |   | – met 16 km/h |   | 130 | 168 |   |   |
+| VM | 017 |   | – met 17 km/h |   | 141 | 181 |   |   |
+| VM | 018 |   | – met 18 km/h |   | 152 | 194 |   |   |
+| VM | 019 |   | – met 19 km/h |   | 162 | 207 |   |   |
+| VM | 020 |   | – met 20 km/h |   | 174 | 221 |   |   |
+| VM | 021 |   | – met 21 km/h |   | 186 | 235 |   |   |
+| VM | 022 |   | – met 22 km/h |   | 196 | 248 |   |   |
+| VM | 023 |   | – met 23 km/h |   | 209 | 263 |   |   |
+| VM | 024 |   | – met 24 km/h |   | 221 | 277 |   |   |
+| VM | 025 |   | – met 25 km/h |   | 232 | 295 |   |   |
+| VM | 026 |   | – met 26 km/h |   | 245 | 310 |   |   |
+| VM | 027 |   | – met 27 km/h |   | 257 | 326 |   |   |
+| VM | 028 |   | – met 28 km/h |   | 267 | 343 |   |   |
+| VM | 029 |   | – met 29 km/h |   | 282 | 359 |   |   |
+| VM | 030 |   | – met 30 km/h |   | 297 | 377 |   |   |
+| VM | 031 | a | – met 31 km/h |   | 311 |   |   |   |
+| VM | 032 | a | – met 32 km/h |   | 326 |   |   |   |
+| VM | 033 | a | – met 33 km/h |   | 340 |   |   |   |
+| VM | 034 | a | – met 34 km/h |   | 357 |   |   |   |
+| VM | 035 | a | – met 35 km/h |   | 372 |   |   |   |
+| VM | 036 | a | – met 36 km/h |   | 388 |   |   |   |
+| VM | 037 | a | – met 37 km/h |   | 404 |   |   |   |
+| VM | 038 | a | – met 38 km/h |   | 420 |   |   |   |
+| VM | 039 | a | – met 39 km/h |   | 431 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | 62 jo. bord A3 RVV 1990 |   |   |   |   |
-| VN | 004 |   | – met 4 km/h |   | 24 | 32 |   |   |
-| VN | 005 |   | – met 5 km/h |   | 31 | 39 |   |   |
-| VN | 006 |   | – met 6 km/h |   | 37 | 49 |   |   |
-| VN | 007 |   | – met 7 km/h |   | 43 | 59 |   |   |
-| VN | 008 |   | – met 8 km/h |   | 49 | 67 |   |   |
-| VN | 009 |   | – met 9 km/h |   | 55 | 75 |   |   |
-| VN | 010 |   | – met 10 km/h |   | 63 | 86 |   |   |
-| VN | 011 |   | – met 11 km/h |   | 86 | 110 |   |   |
-| VN | 012 |   | – met 12 km/h |   | 93 | 121 |   |   |
-| VN | 013 |   | – met 13 km/h |   | 100 | 131 |   |   |
-| VN | 014 |   | – met 14 km/h |   | 107 | 139 |   |   |
-| VN | 015 |   | – met 15 km/h |   | 118 | 151 |   |   |
-| VN | 016 |   | – met 16 km/h |   | 128 | 163 |   |   |
-| VN | 017 |   | – met 17 km/h |   | 137 | 176 |   |   |
-| VN | 018 |   | – met 18 km/h |   | 147 | 191 |   |   |
-| VN | 019 |   | – met 19 km/h |   | 158 | 203 |   |   |
-| VN | 020 |   | – met 20 km/h |   | 170 | 215 |   |   |
-| VN | 021 |   | – met 21 km/h |   | 181 | 229 |   |   |
-| VN | 022 |   | – met 22 km/h |   | 191 | 241 |   |   |
-| VN | 023 |   | – met 23 km/h |   | 203 | 256 |   |   |
-| VN | 024 |   | – met 24 km/h |   | 215 | 270 |   |   |
-| VN | 025 |   | – met 25 km/h |   | 223 | 283 |   |   |
-| VN | 026 |   | – met 26 km/h |   | 234 | 302 |   |   |
-| VN | 027 |   | – met 27 km/h |   | 246 | 319 |   |   |
-| VN | 028 |   | – met 28 km/h |   | 257 | 334 |   |   |
-| VN | 029 |   | – met 29 km/h |   | 270 | 349 |   |   |
-| VN | 030 |   | – met 30 km/h |   | 284 | 370 |   |   |
-| VN | 031 | a | – met 31 km/h |   | 292 |   |   |   |
-| VN | 032 | a | – met 32 km/h |   | 304 |   |   |   |
-| VN | 033 | a | – met 33 km/h |   | 323 |   |   |   |
-| VN | 034 | a | – met 34 km/h |   | 339 |   |   |   |
-| VN | 035 | a | – met 35 km/h |   | 348 |   |   |   |
-| VN | 036 | a | – met 36 km/h |   | 367 |   |   |   |
-| VN | 037 | a | – met 37 km/h |   | 384 |   |   |   |
-| VN | 038 | a | – met 38 km/h |   | 396 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom** | **62 jo. bord A3 RVV 1990** |   |   |   |   |
+| VN | 004 |   | – met 4 km/h |   | 25 | 33 |   |   |
+| VN | 005 |   | – met 5 km/h |   | 31 | 40 |   |   |
+| VN | 006 |   | – met 6 km/h |   | 37 | 50 |   |   |
+| VN | 007 |   | – met 7 km/h |   | 44 | 60 |   |   |
+| VN | 008 |   | – met 8 km/h |   | 50 | 69 |   |   |
+| VN | 009 |   | – met 9 km/h |   | 57 | 79 |   |   |
+| VN | 010 |   | – met 10 km/h |   | 64 | 88 |   |   |
+| VN | 011 |   | – met 11 km/h |   | 88 | 113 |   |   |
+| VN | 012 |   | – met 12 km/h |   | 96 | 124 |   |   |
+| VN | 013 |   | – met 13 km/h |   | 103 | 134 |   |   |
+| VN | 014 |   | – met 14 km/h |   | 112 | 145 |   |   |
+| VN | 015 |   | – met 15 km/h |   | 121 | 155 |   |   |
+| VN | 016 |   | – met 16 km/h |   | 130 | 168 |   |   |
+| VN | 017 |   | – met 17 km/h |   | 141 | 181 |   |   |
+| VN | 018 |   | – met 18 km/h |   | 152 | 194 |   |   |
+| VN | 019 |   | – met 19 km/h |   | 162 | 207 |   |   |
+| VN | 020 |   | – met 20 km/h |   | 174 | 221 |   |   |
+| VN | 021 |   | – met 21 km/h |   | 186 | 235 |   |   |
+| VN | 022 |   | – met 22 km/h |   | 196 | 248 |   |   |
+| VN | 023 |   | – met 23 km/h |   | 209 | 263 |   |   |
+| VN | 024 |   | – met 24 km/h |   | 221 | 277 |   |   |
+| VN | 025 |   | – met 25 km/h |   | 232 | 295 |   |   |
+| VN | 026 |   | – met 26 km/h |   | 245 | 310 |   |   |
+| VN | 027 |   | – met 27 km/h |   | 257 | 326 |   |   |
+| VN | 028 |   | – met 28 km/h |   | 267 | 343 |   |   |
+| VN | 029 |   | – met 29 km/h |   | 282 | 359 |   |   |
+| VN | 030 |   | – met 30 km/h |   | 297 | 377 |   |   |
+| VN | 031 | a | – met 31 km/h |   | 311 |   |   |   |
+| VN | 032 | a | – met 32 km/h |   | 326 |   |   |   |
+| VN | 033 | a | – met 33 km/h |   | 340 |   |   |   |
+| VN | 034 | a | – met 34 km/h |   | 357 |   |   |   |
+| VN | 035 | a | – met 35 km/h |   | 372 |   |   |   |
+| VN | 036 | a | – met 36 km/h |   | 388 |   |   |   |
+| VN | 037 | a | – met 37 km/h |   | 404 |   |   |   |
+| VN | 038 | a | – met 38 km/h |   | 420 |   |   |   |
+| VN | 039 | a | – met 39 km/h |   | 431 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A1 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2) |   |   |   |   |
-| VO | 004 |   | – met 4 km/h |   | 32 | 50 |   |   |
-| VO | 005 |   | – met 5 km/h |   | 39 | 62 |   |   |
-| VO | 006 |   | – met 6 km/h |   | 49 | 74 |   |   |
-| VO | 007 |   | – met 7 km/h |   | 59 | 86 |   |   |
-| VO | 008 |   | – met 8 km/h |   | 67 | 100 |   |   |
-| VO | 009 |   | – met 9 km/h |   | 75 | 113 |   |   |
-| VO | 010 |   | – met 10 km/h |   | 86 | 127 |   |   |
-| VO | 011 |   | – met 11 km/h |   | 110 | 157 |   |   |
-| VO | 012 |   | – met 12 km/h |   | 121 | 170 |   |   |
-| VO | 013 |   | – met 13 km/h |   | 131 | 187 |   |   |
-| VO | 014 |   | – met 14 km/h |   | 139 | 200 |   |   |
-| VO | 015 |   | – met 15 km/h |   | 151 | 215 |   |   |
-| VO | 016 |   | – met 16 km/h |   | 163 | 230 |   |   |
-| VO | 017 |   | – met 17 km/h |   | 176 | 247 |   |   |
-| VO | 018 |   | – met 18 km/h |   | 191 | 261 |   |   |
-| VO | 019 |   | – met 19 km/h |   | 203 | 283 |   |   |
-| VO | 020 |   | – met 20 km/h |   | 215 | 297 |   |   |
-| VO | 021 |   | – met 21 km/h |   | 229 | 310 |   |   |
-| VO | 022 |   | – met 22 km/h |   | 241 | 334 |   |   |
-| VO | 023 |   | – met 23 km/h |   | 256 | 349 |   |   |
-| VO | 024 |   | – met 24 km/h |   | 270 | 370 |   |   |
-| VO | 025 |   | – met 25 km/h |   | 283 | 389 |   |   |
-| VO | 026 |   | – met 26 km/h |   | 302 | 408 |   |   |
-| VO | 027 |   | – met 27 km/h |   | 319 |   |   |   |
-| VO | 028 |   | – met 28 km/h |   | 334 |   |   |   |
-| VO | 029 |   | – met 29 km/h |   | 349 |   |   |   |
-| VO | 030 |   | – met 30 km/h |   | 370 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A1 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2)** |   |   |   |   |
+| VO | 004 |   | – met 4 km/h |   | 33 | 51 |   |   |
+| VO | 005 |   | – met 5 km/h |   | 40 | 63 |   |   |
+| VO | 006 |   | – met 6 km/h |   | 50 | 75 |   |   |
+| VO | 007 |   | – met 7 km/h |   | 60 | 88 |   |   |
+| VO | 008 |   | – met 8 km/h |   | 69 | 101 |   |   |
+| VO | 009 |   | – met 9 km/h |   | 79 | 116 |   |   |
+| VO | 010 |   | – met 10 km/h |   | 88 | 129 |   |   |
+| VO | 011 |   | – met 11 km/h |   | 113 | 160 |   |   |
+| VO | 012 |   | – met 12 km/h |   | 124 | 174 |   |   |
+| VO | 013 |   | – met 13 km/h |   | 134 | 188 |   |   |
+| VO | 014 |   | – met 14 km/h |   | 145 | 205 |   |   |
+| VO | 015 |   | – met 15 km/h |   | 155 | 221 |   |   |
+| VO | 016 |   | – met 16 km/h |   | 168 | 236 |   |   |
+| VO | 017 |   | – met 17 km/h |   | 181 | 254 |   |   |
+| VO | 018 |   | – met 18 km/h |   | 194 | 269 |   |   |
+| VO | 019 |   | – met 19 km/h |   | 207 | 288 |   |   |
+| VO | 020 |   | – met 20 km/h |   | 221 | 305 |   |   |
+| VO | 021 |   | – met 21 km/h |   | 235 | 324 |   |   |
+| VO | 022 |   | – met 22 km/h |   | 248 | 340 |   |   |
+| VO | 023 |   | – met 23 km/h |   | 263 | 359 |   |   |
+| VO | 024 |   | – met 24 km/h |   | 277 | 380 |   |   |
+| VO | 025 |   | – met 25 km/h |   | 295 | 400 |   |   |
+| VO | 026 |   | – met 26 km/h |   | 310 | 419 |   |   |
+| VO | 027 |   | – met 27 km/h |   | 326 |   |   |   |
+| VO | 028 |   | – met 28 km/h |   | 343 |   |   |   |
+| VO | 029 |   | – met 29 km/h |   | 359 |   |   |   |
+| VO | 030 |   | – met 30 km/h |   | 377 |   |   |   |
+| VO | 027 | a | – met 27 km/h |   |   | 432 |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden** | 62 jo. bord A3 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2) |   |   |   |   |
-| VP | 004 |   | – met 4 km/h |   | 32 | 50 |   |   |
-| VP | 005 |   | – met 5 km/h |   | 39 | 62 |   |   |
-| VP | 006 |   | – met 6 km/h |   | 49 | 74 |   |   |
-| VP | 007 |   | – met 7 km/h |   | 59 | 86 |   |   |
-| VP | 008 |   | – met 8 km/h |   | 67 | 100 |   |   |
-| VP | 009 |   | – met 9 km/h |   | 75 | 113 |   |   |
-| VP | 010 |   | – met 10 km/h |   | 86 | 127 |   |   |
-| VP | 011 |   | – met 11 km/h |   | 110 | 157 |   |   |
-| VP | 012 |   | – met 12 km/h |   | 121 | 170 |   |   |
-| VP | 013 |   | – met 13 km/h |   | 131 | 187 |   |   |
-| VP | 014 |   | – met 14 km/h |   | 139 | 200 |   |   |
-| VP | 015 |   | – met 15 km/h |   | 151 | 215 |   |   |
-| VP | 016 |   | – met 16 km/h |   | 163 | 230 |   |   |
-| VP | 017 |   | – met 17 km/h |   | 176 | 247 |   |   |
-| VP | 018 |   | – met 18 km/h |   | 191 | 261 |   |   |
-| VP | 019 |   | – met 19 km/h |   | 203 | 283 |   |   |
-| VP | 020 |   | – met 20 km/h |   | 215 | 297 |   |   |
-| VP | 021 |   | – met 21 km/h |   | 229 | 310 |   |   |
-| VP | 022 |   | – met 22 km/h |   | 241 | 334 |   |   |
-| VP | 023 |   | – met 23 km/h |   | 256 | 349 |   |   |
-| VP | 024 |   | – met 24 km/h |   | 270 | 370 |   |   |
-| VP | 025 |   | – met 25 km/h |   | 283 | 389 |   |   |
-| VP | 026 |   | – met 26 km/h |   | 302 | 408 |   |   |
-| VP | 027 |   | – met 27 km/h |   | 319 |   |   |   |
-| VP | 028 |   | – met 28 km/h |   | 334 |   |   |   |
-| VP | 029 |   | – met 29 km/h |   | 349 |   |   |   |
-| VP | 030 |   | – met 30 km/h |   | 370 |   |   |   |
+|   |   |   | **overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden** | **62 jo. bord A3 RVV 1990, 22 sub a, f en g RVV 1990 (cat 2)** |   |   |   |   |
+| VP | 004 |   | – met 4 km/h |   | 33 | 51 |   |   |
+| VP | 005 |   | – met 5 km/h |   | 40 | 63 |   |   |
+| VP | 006 |   | – met 6 km/h |   | 50 | 75 |   |   |
+| VP | 007 |   | – met 7 km/h |   | 60 | 88 |   |   |
+| VP | 008 |   | – met 8 km/h |   | 69 | 101 |   |   |
+| VP | 009 |   | – met 9 km/h |   | 79 | 116 |   |   |
+| VP | 010 |   | – met 10 km/h |   | 88 | 129 |   |   |
+| VP | 011 |   | – met 11 km/h |   | 113 | 160 |   |   |
+| VP | 012 |   | – met 12 km/h |   | 124 | 174 |   |   |
+| VP | 013 |   | – met 13 km/h |   | 134 | 188 |   |   |
+| VP | 014 |   | – met 14 km/h |   | 145 | 205 |   |   |
+| VP | 015 |   | – met 15 km/h |   | 155 | 221 |   |   |
+| VP | 016 |   | – met 16 km/h |   | 168 | 236 |   |   |
+| VP | 017 |   | – met 17 km/h |   | 181 | 254 |   |   |
+| VP | 018 |   | – met 18 km/h |   | 194 | 269 |   |   |
+| VP | 019 |   | – met 19 km/h |   | 207 | 288 |   |   |
+| VP | 020 |   | – met 20 km/h |   | 221 | 305 |   |   |
+| VP | 021 |   | – met 21 km/h |   | 235 | 324 |   |   |
+| VP | 022 |   | – met 22 km/h |   | 248 | 340 |   |   |
+| VP | 023 |   | – met 23 km/h |   | 263 | 359 |   |   |
+| VP | 024 |   | – met 24 km/h |   | 277 | 380 |   |   |
+| VP | 025 |   | – met 25 km/h |   | 295 | 400 |   |   |
+| VP | 026 |   | – met 26 km/h |   | 310 | 419 |   |   |
+| VP | 027 |   | – met 27 km/h |   | 326 |   |   |   |
+| VP | 028 |   | – met 28 km/h |   | 343 |   |   |   |
+| VP | 029 |   | – met 29 km/h |   | 359 |   |   |   |
+| VP | 030 |   | – met 30 km/h |   | 377 |   |   |   |
+| VP | 027 | a | – met 27 km/h |   |   | 432 |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Maatregel na ernstige verstoring olie-aanvoer** |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   | **overschrijding van de door de Ministerie van Infrastructuur en Waterstaat vastgestelde maximumsnelheid op autosnelwegen bij ernstige verstoring van de olieaanvoer** | [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=86b) jo. [86a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=86a) |   |   |   |   |
-| VR | 004 |   | – met 4 km/h |   | 27 |   |   |   |
-| VR | 005 |   | – met 5 km/h |   | 34 |   |   |   |
-| VR | 006 |   | – met 6 km/h |   | 40 |   |   |   |
-| VR | 007 |   | – met 7 km/h |   | 48 |   |   |   |
-| VR | 008 |   | – met 8 km/h |   | 54 |   |   |   |
-| VR | 009 |   | – met 9 km/h |   | 63 |   |   |   |
+|   |   |   | **overschrijding van de door de Ministerie van Infrastructuur en Waterstaat vastgestelde maximumsnelheid op autosnelwegen bij ernstige verstoring van de olieaanvoer** | **86b jo. 86a RVV 1990** |   |   |   |   |
+| VR | 004 |   | – met 4 km/h |   | 28 |   |   |   |
+| VR | 005 |   | – met 5 km/h |   | 35 |   |   |   |
+| VR | 006 |   | – met 6 km/h |   | 43 |   |   |   |
+| VR | 007 |   | – met 7 km/h |   | 49 |   |   |   |
+| VR | 008 |   | – met 8 km/h |   | 56 |   |   |   |
+| VR | 009 |   | – met 9 km/h |   | 64 |   |   |   |
 | VR | 010 |   | – met 10 km/h |   | 72 |   |   |   |
-| VR | 011 |   | – met 11 km/h |   | 95 |   |   |   |
-| VR | 012 |   | – met 12 km/h |   | 105 |   |   |   |
-| VR | 013 |   | – met 13 km/h |   | 115 |   |   |   |
-| VR | 014 |   | – met 14 km/h |   | 123 |   |   |   |
-| VR | 015 |   | – met 15 km/h |   | 133 |   |   |   |
-| VR | 016 |   | – met 16 km/h |   | 144 |   |   |   |
-| VR | 017 |   | – met 17 km/h |   | 153 |   |   |   |
-| VR | 018 |   | – met 18 km/h |   | 165 |   |   |   |
-| VR | 019 |   | – met 19 km/h |   | 176 |   |   |   |
-| VR | 020 |   | – met 20 km/h |   | 191 |   |   |   |
-| VR | 021 |   | – met 21 km/h |   | 203 |   |   |   |
-| VR | 022 |   | – met 22 km/h |   | 215 |   |   |   |
-| VR | 023 |   | – met 23 km/h |   | 229 |   |   |   |
-| VR | 024 |   | – met 24 km/h |   | 241 |   |   |   |
-| VR | 025 |   | – met 25 km/h |   | 256 |   |   |   |
-| VR | 026 |   | – met 26 km/h |   | 270 |   |   |   |
-| VR | 027 |   | – met 27 km/h |   | 287 |   |   |   |
-| VR | 028 |   | – met 28 km/h |   | 304 |   |   |   |
-| VR | 029 |   | – met 29 km/h |   | 317 |   |   |   |
-| VR | 030 |   | – met 30 km/h |   | 334 |   |   |   |
+| VR | 011 |   | – met 11 km/h |   | 98 |   |   |   |
+| VR | 012 |   | – met 12 km/h |   | 107 |   |   |   |
+| VR | 013 |   | – met 13 km/h |   | 118 |   |   |   |
+| VR | 014 |   | – met 14 km/h |   | 127 |   |   |   |
+| VR | 015 |   | – met 15 km/h |   | 137 |   |   |   |
+| VR | 016 |   | – met 16 km/h |   | 147 |   |   |   |
+| VR | 017 |   | – met 17 km/h |   | 158 |   |   |   |
+| VR | 018 |   | – met 18 km/h |   | 170 |   |   |   |
+| VR | 019 |   | – met 19 km/h |   | 181 |   |   |   |
+| VR | 020 |   | – met 20 km/h |   | 194 |   |   |   |
+| VR | 021 |   | – met 21 km/h |   | 207 |   |   |   |
+| VR | 022 |   | – met 22 km/h |   | 221 |   |   |   |
+| VR | 023 |   | – met 23 km/h |   | 235 |   |   |   |
+| VR | 024 |   | – met 24 km/h |   | 247 |   |   |   |
+| VR | 025 |   | – met 25 km/h |   | 263 |   |   |   |
+| VR | 026 |   | – met 26 km/h |   | 277 |   |   |   |
+| VR | 027 |   | – met 27 km/h |   | 295 |   |   |   |
+| VR | 028 |   | – met 28 km/h |   | 309 |   |   |   |
+| VR | 029 |   | – met 29 km/h |   | 325 |   |   |   |
+| VR | 030 |   | – met 30 km/h |   | 340 |   |   |   |
 
 |   |   |   | Feit | Overtreden artikel | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie | Tarief in euro per feit en categorie |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9215,7 +9212,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **Nummers R 302 – R 631: Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)** |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Categorie-indeling B:** |   |   |   |   |   |   |   |   |   |
-|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het RVV 1990 betreft; |   |   |   |   |   |   |   |   |   |
+|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |   |   |   |   |   |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |   |   |   |   |   |   |   |
 |   |   |   | 3 – Bromfietsers en snorfietsers; |   |   |   |   |   |   |   |   |   |
 |   |   |   | 4 – Fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor; |   |   |   |   |   |   |   |   |   |
@@ -9225,12 +9222,11 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | 8 – Een ieder. |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | NB 1 De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen. Dit geldt eveneens voor geparkeerde aanhangwagens indien deze door een onder één van deze categorieën vallende bestuurders is geparkeerd. |   |   |   |   |   |   |   |   |   |
-|   |   |   | NB 2 Op basis van artikel 2a RVV 1990 zijn, tenzij anders bepaald, voor brommobielen en bestuurders en passagiers van brommobielen de regels betreffende motorvoertuigen van toepassing. Voor de feitcodes waar dit op van toepassing is moet in geval van een overtreding met een brommobiel of door een bestuurder van een brommobiel gepleegde overtreding in plaats van motorvoertuig brommobiel worden gelezen |   |   |   |   |   |   |   |   |   |
+|   |   |   | NB 2 Op basis van [artikel 2a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=2a) zijn, tenzij anders bepaald, voor brommobielen en bestuurders en passagiers van brommobielen de regels betreffende motorvoertuigen van toepassing. Voor de feitcodes waar dit op van toepassing is moet in geval van een overtreding met een brommobiel of door een bestuurder van een brommobiel gepleegde overtreding in plaats van motorvoertuig brommobiel worden gelezen. |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Hoofdstuk 2. Verkeersregels** |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **I. Plaats op de weg** |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
 | R | 301 |   | als bestuurder van een motorvoertuig niet zoveel mogelijk rechts houden op een autoweg of autosnelweg | [3 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=3) | 140 | 140 |   |   |   |   |   |   |
 | R | 303 | a | als bestuurder van een voertuig niet zoveel mogelijk rechts houden op een andere weg dan autoweg of autosnelweg | 3 lid 1 RVV 1990 | 240 | 240 | 160 | 95 |   | 95 |   |   |
 | R | 305 |   | als voetganger niet het voetpad of trottoir gebruiken | [4 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=4) |   |   |   |   | 40 |   |   |   |
@@ -9293,11 +9289,10 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 396 | f | – bij een bord bushalte ter hoogte van de geblokte markering | sub e RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
 | R | 396 | g | – bij een bord bushalte op een afstand van minder dan twaalf meter van dat bord terwijl de geblokte markering niet is aangebracht | sub e RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
 | R | 396 | h | – op de rijbaan langs een busstrook | sub f RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
-| R | 396 | i | – langs een gele doorgetrokken streep | 62 jo. 23 lid 1 sub g RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
+| R | 396 | i | – langs een gele doorgetrokken streep | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) [jo. 23 lid 1 sub g RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=23) | 95 | 95 |   |   |   | 35 |   |   |
 | R | 396 | j | – op een overweg | 23 lid 1 sub a RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **X. Parkeren** |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder een voertuig parkeren** | [24 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=24) |   |   |   |   |   |   |   |   |
 | R | 397 | a | – bij een kruispunt op een afstand van minder dan vijf meter daarvan | sub a RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
 | R | 397 | b | – voor een inrit of uitrit | sub b RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
@@ -9316,15 +9311,15 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 400 | ae | – dat motorvoertuig niet is voorzien van een duidelijk zichtbare achter de voorruit geplaatste parkeerschijf | [25 lid 2 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=25) | 95 |   |   |   |   |   |   |   |
 | R | 400 | af | – dat motorvoertuig niet is voorzien van een parkeerschijf, waarop aan de getoonde zijde slechts één kalenderuren aanduidende cijferreeks staat die vanaf het begin van het parkeren in duidelijk leesbare cijfers tegen een contrasterende achtergrond in hele of halve uren het tijdstip weergeeft waarop met het parkeren is begonnen | 25 lid 3 RVV 1990 | 95 |   |   |   |   |   |   |   |
 | R | 400 | ab | – de toegestane parkeerduur is verstreken | 25 lid 4 RVV 1990 | 95 |   |   |   |   |   |   |   |
-| R | 401 |   | als bestuurder een voertuig parkeren in een parkeerschijfzone (geldt niet voor parkeerplaatsen, die als zodanig zijn aangeduid of aangegeven of die zijn voorzien van een blauwe streep) | 25 lid 1 RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
-| R | 402 | b | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan met een motorvoertuig op meer dan twee wielen waarin duidelijk zichtbaar is aangebracht een geldige gehandicaptenparkeerkaart | [26 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=26) | 380 | 380 |   |   |   | 150 |   |   |
-| R | 402 | c | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan met een voertuig dat voor die gereserveerde gehandicaptenparkeerplaats bestemd is | 26 lid 1 RVV 1990 | 380 | 380 |   |   |   | 150 |   |   |
-| R | 402 | d | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan dat het parkeren rechtstreeks verband houdt met het vervoer van een gehandicapte | 26 lid 1 RVV 1990 | 380 | 380 |   | 150 |   | 150 |   |   |
+| R | 401 |   | als bestuurder een voertuig parkeren in een parkeerschijfzone, anders dan op een parkeerplaats die als zodanig is aangeduid of aangegeven of die is voorzien van een blauwe streep | 25 lid 1 RVV 1990 | 95 | 95 |   |   |   | 35 |   |   |
+| R | 402 | b | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan met een motorvoertuig op meer dan twee wielen waarin duidelijk zichtbaar is aangebracht een geldige gehandicaptenparkeerkaart | [26 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=26) | 390 | 390 |   |   |   | 150 |   |   |
+| R | 402 | c | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan met een voertuig dat voor die gereserveerde gehandicaptenparkeerplaats bestemd is | 26 lid 1 RVV 1990 | 390 | 390 |   |   |   | 150 |   |   |
+| R | 402 | d | als bestuurder op een gehandicaptenparkeerplaats parkeren anders dan dat het parkeren rechtstreeks verband houdt met het vervoer van een gehandicapte | 26 lid 1 RVV 1990 | 390 | 390 |   | 150 |   | 150 |   |   |
 | R | 403 | a | als bestuurder een motorvoertuig op meer dan twee wielen parkeren bij een parkeermeter tijdens een aangegeven tijdvak, terwijl de parkeermeter niet in werking is gesteld of aangeeft dat de parkeerduur is verstreken | Pl.V | 95 |   |   |   |   |   |   |   |
 | R | 403 | b | als bestuurder een motorvoertuig op meer dan twee wielen parkeren bij een parkeermeter tijdens een aangegeven tijdvak, terwijl aldaar reeds een motorvoertuig staat geparkeerd | Pl.V | 95 |   |   |   |   |   |   |   |
 | R | 405 |   | als bestuurder een motorvoertuig op twee wielen, een bromfiets dan wel een fiets parkeren op een parkeervak behorende bij een parkeermeter | Pl.V |   | 95 | 65 | 35 |   |   |   |   |
-| R | 406 |   | een voertuig doen of laten staan in een park of plantsoen, op openbare beplantingen of groenstroken | Pl.V | 95 | 95 |   |   |   | 35 |   |   |
-| R | 406 | a | een recreatiegebied gebruiken in strijd met de bepalingen geldend voor dat gebied door het parkeren of aanwezig hebben van een voertuig | Pl. V | 95 | 95 |   |   |   | 35 |   |   |
+| R | 406 |   | zonder ontheffing/vergunning een voertuig doen of laten staan in een park of plantsoen, op openbare beplantingen of groenstroken | Pl.V | 95 | 95 |   |   |   | 35 |   |   |
+| R | 406 | a | een recreatiegebied gebruiken in strijd met de bepalingen geldend voor dat gebied door het parkeren of aanwezig hebben van een voertuig | Pl.V | 95 | 95 |   |   |   | 35 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder een voertuig parkeren op een parkeerterrein waar dit slechts met gebruikmaking van een ter plaatse aangebrachte parkeerautomaat is toegestaan** | Pl.V |   |   |   |   |   |   |   |   |
 | R | 409 | a | – anders dan voorzien van een door de parkeerautomaat afgegeven parkeerkaart, aangebracht op de voorgeschreven wijze |   | 95 | 95 |   |   |   | 35 |   |   |
@@ -9333,13 +9328,13 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 409 | d | – terwijl de op de parkeerautomaat aangegeven parkeertijd is verstreken |   | 95 | 95 |   |   |   | 35 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **een voertuig dat, met inbegrip van de lading** | Pl.V |   |   |   |   |   |   |   |   |
-| R | 414 | a | – langer is dan 6 meter of hoger is dan 2,4 meter parkeren op een plaats, die als schadelijk voor het aanzien van de gemeente is aangewezen |   | 95 |   |   |   |   | 35 |   |   |
-| R | 414 | b | – langer is dan 6 meter, buiten de vastgestelde tijden, parkeren op een aangewezen weg, waar dit parkeren buitensporig is met het oog op de verdeling van de beschikbare parkeerruimte |   | 95 |   |   |   |   | 35 |   |   |
+| R | 414 | a | – langer is dan 6 m of hoger is dan 2,4 m zonder ontheffing/vergunning parkeren op een door het college of de burgemeester aangewezen plaats, die als schadelijk voor het aanzien van de gemeente is aangewezen |   | 95 |   |   |   |   | 35 |   |   |
+| R | 414 | b | – langer is dan 6 m, buiten de vastgestelde tijden, zonder ontheffing/vergunning parkeren op een door het college of de burgemeester aangewezen weg, waar dit parkeren buitensporig is met het oog op de verdeling van de beschikbare parkeerruimte |   | 95 |   |   |   |   | 35 |   |   |
 | R | 414 | c | – langer is dan 6 m of hoger is dan 2,4 m zodanig parkeren bij een voor bewoning of ander dagelijks gebruik bestemd gebouw dat daardoor het uitzicht van bewoners of gebruikers vanuit dat gebouw op hinderlijke wijze wordt belemmerd of op andere wijze hinder/overlast wordt aangedaan |   | 95 |   |   |   |   | 35 |   |   |
-| R | 493 |   | een geparkeerd voertuig op een aangewezen weg of weggedeelte, waar dit niet is toegestaan, te koop aanbieden of verhandelen | Pl.V | 190 | 190 |   |   |   | 190 |   |   |
+| R | 493 |   | zonder ontheffing/vergunning een geparkeerd voertuig op een door het college of de burgemeester aangewezen weg, waar dit niet is toegestaan, met het kennelijke doel te koop aanbieden of te verhandelen | Pl.V | 190 | 190 |   |   |   | 190 |   |   |
 | R | 494 |   | een defect voertuig langer dan de vastgestelde termijn op een weg parkeren | Pl.V | 95 | 95 |   |   |   | 95 |   |   |
-| R | 495 |   | een kampeerwagen, caravan, magazijnwagen, keetwagen, aanhangwagen of ander dergelijk voertuig op een aangewezen weg waar dit niet is toegestaan, langer dan de vastgestelde termijn te plaatsen of hebben | Pl.V | 95 | 95 |   |   |   | 95 |   |   |
-| R | 496 |   | een voertuig dat is voorzien van een aanduiding van handelsreclame op een weg parkeren met als doel handelsreclame te maken | Pl.V | 190 | 190 |   |   |   | 190 |   |   |
+| R | 495 |   | zonder ontheffing/vergunning een kampeerwagen, caravan, magazijnwagen, keetwagen, aanhangwagen of ander dergelijk voertuig op een door het college of de burgemeester aangewezen weg waar dit niet is toegestaan, langer dan de vastgestelde termijn te plaatsen of hebben | Pl.V | 95 | 95 |   |   |   | 95 |   |   |
+| R | 496 |   | zonder ontheffing/vergunning een voertuig dat is voorzien van een aanduiding van handelsreclame op een weg parkeren met als doel handelsreclame te maken | Pl.V | 190 | 190 |   |   |   | 190 |   |   |
 | R | 592 | a | als bestuurder van een voertuig parkeren op een parkeerplaats voor vergunninghouders in strijd met de aan de parkeervergunning verbonden voorwaarden | Pl.V | 95 | 95 |   |   |   | 35 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XI. Het plaatsen van fietsen en bromfietsen** |   |   |   |   |   |   |   |   |   |
@@ -9350,7 +9345,6 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 419 |   | signalen geven in andere gevallen of op andere wijze dan is toegestaan | [31 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=31) | 95 | 95 | 65 | 35 |   | 35 |   | 95 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XIII. Gebruik van lichten tijdens het rijden** |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder van een motorvoertuig, bromfiets, snorfiets, een gehandicaptenvoertuig dat is uitgerust met een verbrandingsmotor, of een gehandicaptenvoertuig dat is uitgerust met een elektromotor en voorzien van een gesloten carrosserie, geen dim- of grootlicht voeren** | [32 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=32) |   |   |   |   |   |   |   |   |
 | R | 421 | a | – bij nacht, binnen de bebouwde kom |   | 95 | 95 | 65 | 35 |   |   |   |   |
 | R | 421 | b | – bij nacht, buiten de bebouwde kom |   | 140 | 140 | 95 | 55 |   |   |   |   |
@@ -9371,7 +9365,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 431 | e | – bij nacht, buiten de bebouwde kom |   | 140 | 140 |   |   |   |   |   |   |
 | R | 431 | f | – bij dag, indien het zicht ernstig wordt belemmerd |   | 140 | 140 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **als bestuurder van een motorvoertuig met aanhangwagen niet in de Regeling Voertuigen voorgeschreven stadslicht voeren** | 33 RVV 1990 |   |   |   |   |   |   |   |   |
+|   |   |   | **als bestuurder van een motorvoertuig met aanhangwagen niet in de Regeling voertuigen voorgeschreven stadslicht voeren** | 33 RVV 1990 |   |   |   |   |   |   |   |   |
 | R | 432 | d | – bij nacht, binnen de bebouwde kom |   | 95 | 95 |   |   |   |   |   |   |
 | R | 432 | e | – bij nacht, buiten de bebouwde kom |   | 140 | 140 |   |   |   |   |   |   |
 | R | 432 | f | – bij dag, indien het zicht ernstig wordt belemmerd |   | 140 | 140 |   |   |   |   |   |   |
@@ -9388,7 +9382,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 438 | m | – knipperende verlichting voeren | 35a lid 2 RVV 1990 |   |   |   | 55 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder van een snorfiets, zijnde een bromfiets als bedoeld in artikel 1, lid 1, onderdeel e, subonderdeel d, van de wet bij nacht of dag, indien het zicht ernstig wordt belemmerd** |   |   |   |   |   |   |   |   |   |
-| R | 438 | n | – geen voortdurend voor tegemoetkomende weggebruikers zichtba(a)r(e) wit(te)- of ge(e)l(e) licht(en) aan de voorzijde voeren en/of voortdurend voor van achteren naderende weggebruikers zichtbaar rood licht aan de achterzijde voeren | [35 c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=35c) jo. 35 en 35a RVV 1990 |   |   | 65 |   |   |   |   |   |
+| R | 438 | n | – geen voortdurend voor tegemoetkomende weggebruikers zichtba(a)r(e) wit(te)- of ge(e)l(e) licht(en) aan de voorzijde voeren en/of voortdurend voor van achteren naderende weggebruikers zichtbaar rood licht aan de achterzijde voeren | [35c](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=35c) jo. 35 en 35a RVV 1990 |   |   | 65 |   |   |   |   |   |
 | R | 438 | o | – verblindend wit of geel licht aan de voorzijde voeren | 35c jo. 35a lid 1 RVV 1990 |   |   | 65 |   |   |   |   |   |
 | R | 438 | p | – knipperende verlichting voeren | 35c jo. 35a lid 2 RVV 1990 |   |   | 65 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9397,7 +9391,6 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 445 | d | – als geleider van rij-, trekdieren of vee |   |   |   |   |   |   | 35 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XIV. Gebruik van lichten tijdens het stilstaan** |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **bij nacht of bij dag, indien het zicht ernstig wordt belemmerd buiten de bebouwde kom op de rijbaan en op langs autosnelwegen en autowegen gelegen parkeerstroken, parkeerhavens, vluchtstroken en vluchthavens geen stadslicht en achterlicht voeren** |   |   |   |   |   |   |   |   |   |
 | R | 451 | c | – als bestuurder van een stilstaand motorvoertuig | [38 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=38) | 140 |   |   |   |   |   |   |   |
 | R | 451 | d | – op een stilstaande aanhangwagen | [39 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=39) |   |   |   |   |   |   |   | 140 |
@@ -9414,16 +9407,18 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **XVI. Autosnelwegen en autowegen** |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **a. Autosnelwegen** |   |   |   |   |   |   |   |   |   |
-| R | 461 | a | anders dan als bestuurder van een motorvoertuig waarmee sneller mag en kan worden gereden dan 60 kilometer per uur, een autosnelweg gebruiken | [42 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=42) |   |   |   | 150 | 110 | 150 |   | 380 |
-|   |   |   | behoudens in noodgevallen als weggebruiker op een autosnelweg | [43 lid 3 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=43) |   |   |   |   |   |   |   |   |
+| R | 461 | a | anders dan als bestuurder van een motorvoertuig waarmee sneller mag en kan worden gereden dan 60 kilometer per uur, een autosnelweg gebruiken | [42 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=42) |   |   |   | 150 | 110 | 150 |   | 390 |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **behoudens in noodgevallen als weggebruiker op een autosnelweg** | [43 lid 3 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=43) |   |   |   |   |   |   |   |   |
 | R | 465 | b | – gebruik maken van de berm |   | 140 | 140 |   |   |   |   |   |   |
 | R | 465 | c | – op de vluchtstrook of vluchthaven stilstaan |   | 240 | 240 |   |   |   |   |   |   |
 | R | 466 |   | als bestuurder van een samenstel van voertuigen dat langer is dan 7 meter, op een autosnelweg met drie of meer rijstroken in dezelfde richting een andere dan de twee meest rechts gelegen rijstroken gebruiken | 43 lid 4 RVV 1990 | 240 |   |   |   |   |   |   |   |
 | R | 467 |   | als bestuurder van een vrachtauto, op een autosnelweg met drie of meer rijstroken in dezelfde richting een andere dan de twee meest rechts gelegen rijstroken gebruiken | 43 lid 4 RVV 1990 | 240 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **b. Autowegen** |   |   |   |   |   |   |   |   |   |
-| R | 468 | a | anders dan als bestuurder van een motorvoertuig waarmee sneller mag en kan worden gereden dan 50 kilometer per uur, een autoweg gebruiken | 42 lid 2 RVV 1990 |   |   |   | 150 | 110 | 150 |   | 380 |
-|   |   |   | behoudens in noodgevallen als weggebruiker op een autoweg | 43 lid 3 RVV 1990 |   |   |   |   |   |   |   |   |
+| R | 468 | a | anders dan als bestuurder van een motorvoertuig waarmee sneller mag en kan worden gereden dan 50 kilometer per uur, een autoweg gebruiken | 42 lid 2 RVV 1990 |   |   |   | 150 | 110 | 150 |   | 390 |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **behoudens in noodgevallen als weggebruiker op een autoweg** | 43 lid 3 RVV 1990 |   |   |   |   |   |   |   |   |
 | R | 472 | b | – gebruik maken van de berm |   | 140 | 140 |   |   |   |   |   |   |
 | R | 472 | c | – op de vluchtstrook of vluchthaven stilstaan |   | 240 | 240 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9437,7 +9432,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 491 |   | rij-, trekdieren of vee zonder toezicht op de weg los laten lopen | [51 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=51) |   |   |   |   |   |   |   | 140 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXII. In- en uitstappende passagiers** |   |   |   |   |   |   |   |   |   |
-| R | 492 |   | als bestuurder een tram of autobus voorbij rijden aan de zijde waar passagiers in- en uitstappen zonder hen daartoe de gelegenheid te geven | [52 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=52) | 380 | 380 | 260 | 150 |   | 150 |   |   |
+| R | 492 |   | als bestuurder een tram of autobus voorbij rijden aan de zijde waar passagiers in- en uitstappen zonder hen daartoe de gelegenheid te geven | [52 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=52) | 390 | 390 | 270 | 150 |   | 150 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXIII. Slepen** |   |   |   |   |   |   |   |   |   |
 | R | 501 |   | als bestuurder van een motorvoertuig een ander motorvoertuig slepen, terwijl de onderlinge afstand meer dan vijf meter bedraagt | [53 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=53) | 95 | 95 |   |   |   |   |   |   |
@@ -9460,12 +9455,12 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 519 |   | als bestuurder binnen de bebouwde kom geen gelegenheid geven aan een autobus weg te rijden van een halte wanneer de bestuurder van die autobus door het geven van een teken met zijn richtingaanwijzer zijn voornemen daartoe kenbaar maakt | [56 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=56) | 140 | 140 | 95 | 55 |   | 55 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXV. Onnodig geluid** |   |   |   |   |   |   |   |   |   |
-| R | 522 |   | als bestuurder van een motorvoertuig, als bromfietser of snorfietser onnodig geluid veroorzaken met dat voertuig | [57 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=57) | 380 | 380 | 260 |   |   |   |   |   |
+| R | 522 |   | als bestuurder van een motorvoertuig, als bromfietser of snorfietser onnodig geluid veroorzaken met dat voertuig | [57 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=57) | 390 | 390 | 270 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXVI. Gevarendriehoek** |   |   |   |   |   |   |   |   |   |
 | R | 526 |   | het niet plaatsen van een gevarendriehoek in de voorgeschreven gevallen, op de voorgeschreven wijze bij een stilstaand motorvoertuig op meer dan twee wielen en aanhangwagens, zijnde een obstakel, terwijl geen knipperend waarschuwingslicht wordt gevoerd | [58 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=58) | 140 |   |   |   |   |   |   | 140 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **XXVI a. Zitplaatsen** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **XXVIa. Zitplaatsen** |   |   |   |   |   |   |   |   |   |
 | R | 530 | a | tijdens deelname aan het verkeer als bestuurder of passagier niet op de voor hem/haar bestemde zitplaats zitten en/of als bestuurder (een) passagier(s) vervoeren terwijl deze/die niet op de voor hem/hen bestemde zitplaats zit(ten) | [58a lid 1 en lid 4 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=58a) | 140 | 140 | 95 | 55 |   |   |   | 140 |
 | R | 530 | b | als bromfietser of fietser een passagier jonger dan acht jaar vervoeren anders dan op een doelmatige en veilige voorziening met voldoende steun voor rug, handen en voeten | 58a lid 3 en 4 RVV 1990 |   |   | 95 | 55 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9482,8 +9477,8 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 535 | m | – in een taxi op een van de voorste zitplaatsen (een) passagier(s) vervoeren jonger dan 18 jaar en met een lengte van minder dan 1.35 meter, terwijl geen kinderbeveiligingssysteem aanwezig is | 59 lid 5 RVV 1990 | 140 |   |   |   |   |   |   |   |
 | R | 535 | mo | – (een) passagier(s) jonger dan 12 jaar vervoeren terwijl de autogordel, de veiligheidsgordel of het kinderbeveiligingssysteem in een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel wordt gebruikt op een wijze die de beschermende werking ervan negatief beïnvloedt of kan beïnvloeden | 59 lid 7 RVV 1990 | 140 |   |   |   |   |   |   |   |
 | R | 535 | o | de autogordel, de veiligheidsgordel of het kinderbeveiligingssysteem in een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel gebruiken op een wijze die de beschermende werking ervan negatief beïnvloedt of kan beïnvloeden | 59 lid 8 jo. 59 lid 7 RVV 1990 | 140 |   |   |   |   |   |   | 140 |
-| R | 535 | e | als bestuurder van een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel een passagier vervoeren die gebruikmaakt van een rolstoel, terwijl de rolstoel niet is vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt | 59 lid 8 jo. 59 lid 4 RVV 1990 | 240 |   |   |   |   |   |   |   |
-| R | 535 | s | als bestuurder van een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel een passagier vervoeren die gebruik maakt van een rolstoel, zonder dat gebruik wordt gemaakt van de (beschikbare) veiligheidsgordel die deel uitmaakt van het voertuig of die deel uit maakt van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd of van een door de minister van IenM aangewezen constructie | 59 lid 8 jo. 59 lid 4 RVV 1990 | 140 |   |   |   |   |   |   |   |
+| R | 535 | e | als bestuurder van een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel een passagier vervoeren die gebruik maakt van een rolstoel, terwijl de rolstoel niet is vastgezet op een wijze die de stabiliteit van de rolstoel en de veiligheid van de rolstoelgebruiker waarborgt | 59 lid 8 jo. 59 lid 4 RVV 1990 | 240 |   |   |   |   |   |   |   |
+| R | 535 | s | als bestuurder van een personenauto, bedrijfsauto, een driewielig motorvoertuig met gesloten carrosserie of een brommobiel een passagier vervoeren die gebruik maakt van een rolstoel, zonder dat gebruik wordt gemaakt van de (beschikbare) veiligheidsgordel die deel uitmaakt van het voertuig of die deel uit maakt van het systeem waarmee de rolstoel aan de vloer van het voertuig is bevestigd of van een door de Minister van IenW aangewezen constructie | 59 lid 8 jo. 59 lid 4 RVV 1990 | 140 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXVIIa. Autobus** |   |   |   |   |   |   |   |   |   |
 | R | 535 | p | als bestuurder van een aan het verkeer deelnemende autobus of passagier geen gebruik maken van de autogordel of het kinderbeveiligingssysteem waarmee de autobus is uitgerust | [59a lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=59a) | 140 |   |   |   |   |   |   | 140 |
@@ -9494,15 +9489,14 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXVIII. Helmen** |   |   |   |   |   |   |   |   |   |
 | R | 536 | a | als bestuurder, passagier van een bromfiets of brommobiel zonder gesloten carrosserie geen goedpassende helm dragen, die middels een sluiting op deugdelijke wijze is bevestigd en die is voorzien van een goedkeuringsmerk | [60 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60) |   |   | 95 |   |   |   |   | 95 |
-| R | 536 | e | als bestuurder of passagier van een snorfiets geen helm dragen terwijl ingevolge artikel 5, achtste lid, de rijbaan wordt gebruikt | 60 lid 1 RVV 1990 |   |   | 95 |   |   |   |   | 95 |
 | R | 536 | c | als bestuurder, passagier van een motorfiets dan wel driewielig motorvoertuig zonder gesloten carrosserie geen goedpassende helm dragen, die middels een sluiting op deugdelijke wijze is bevestigd en is voorzien van een goedkeuringsmerk | 60 lid 1 RVV 1990 | 140 | 140 |   |   |   |   |   | 140 |
+| R | 536 | e | als bestuurder of passagier van een snorfiets geen helm dragen terwijl ingevolge artikel 5, achtste lid, de rijbaan wordt gebruikt | 60 lid 1 RVV 1990 |   |   | 95 |   |   |   |   | 95 |
 | R | 537 |   | als bestuurder van een motorfiets, bromfiets of brommobiel dan wel driewielig motorvoertuig zonder gesloten carrosserie een passagier beneden de twaalf jaren vervoeren, die geen goedpassende helm draagt, die middels een sluiting op deugdelijke wijze is bevestigd en die is voorzien van een goedkeuringsmerk | 60 lid 3 RVV 1990 | 140 | 140 | 95 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXX. Gebruik van mobiele telecommunicatieapparatuur** |   |   |   |   |   |   |   |   |   |
 | R | 545 |   | als bestuurder van een voertuig tijdens het rijden een mobiel elektronisch apparaat dat gebruikt kan worden voor communicatie of informatieverwerking vasthouden | [61a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=61a) | 240 | 240 | 160 | 95 |   |   |   | 240 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **XXXI. Vervoer van personen in of op aanhangwagens en in laadruimten** |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **personen vervoeren** | [61b lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=61b) |   |   |   |   |   |   |   |   |
 | R | 539 | a | – in de gesloten laadruimte van een motorvoertuig of bromfiets |   | 140 |   |   |   |   |   |   |   |
 | R | 539 | b | – in de open laadruimte van een motorvoertuig of bromfiets, dan wel in of op een aanhangwagen achter een motorvoertuig of bromfiets |   | 240 | 240 | 160 |   |   |   |   |   |
@@ -9511,6 +9505,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **II. Verkeersborden** |   |   |   |   |   |   |   |   |   |
 | R | 548 |   | als bestuurder in strijd met bord B6 geen voorrang verlenen aan bestuurders op de kruisende weg | [62 jo. bord B6 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) | 240 | 240 | 160 | 95 |   | 95 |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **als bestuurder in strijd met bord B7** | 62 jo. bord B7 RVV 1990 |   |   |   |   |   |   |   |   |
 | R | 549 | a | – niet stoppen |   | 140 | 140 | 95 | 55 |   | 55 |   |   |
 | R | 549 | b | – geen voorrang verlenen aan bestuurders op de kruisende weg |   | 240 | 240 | 160 | 95 |   | 95 |   |   |
@@ -9532,7 +9527,8 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 554 | c | als bestuurder van een vrachtauto een weg gebruiken in strijd met bord C7 (geslotenverklaring voor vrachtauto's), waarbij gebied is aangeduid als milieuzone | 62 jo. bord C7 RVV 1990 | 240 |   |   |   |   |   |   |   |
 | R | 554 | d | als bestuurder van een autobus een weg gebruiken in strijd met bord C7a (geslotenverklaring voor autobussen) | 62 jo. bord C7a RVV 1990 | 95 |   |   |   |   |   |   |   |
 | R | 554 | e | als bestuurder van een autobus of vrachtauto een weg gebruiken in strijd met bord C7b (geslotenverklaring voor autobussen en vrachtauto's) | 62 jo. bord C7b RVV 1990 | 95 |   |   |   |   |   |   |   |
-| R | 571 |   | als bestuurder van een vrachtauto een weg gebruiken in strijd met bord C22a (geslotenverklaring voor vrachtauto's die niet voldoen aan de eisen, genoemd in artikel 86d RVV 1990) (milieuzone) | 62 jo. bord C22a RVV 1990 | 240 |   |   |   |   |   |   |   |
+| R | 571 | g | als bestuurder van een vrachtauto een weg gebruiken in strijd met bord C22a (geslotenverklaring voor personen- en bedrijfsauto’s, vrachtauto’s of bussen met een dieselmotor vanwege milieuzone) | 62 jo. bord C22a RVV 1990 | 240 |   |   |   |   |   |   |   |
+| R | 571 | h | als bestuurder van een personenauto, bedrijfsauto of bus een weg gebruiken in strijd met bord C22a (geslotenverklaring voor personen- en bedrijfsauto’s, vrachtauto’s of bussen met een dieselmotor vanwege milieuzone) | 62 jo. bord C22a RVV 1990 | 95 |   |   |   |   |   |   |   |
 | R | 555 |   | als bestuurder van een motorvoertuig dat niet sneller kan of mag rijden dan 25 kilometer per uur een weg gebruiken in strijd met bord C8 (geslotenverklaring voor motorvoertuig dat niet sneller kan of mag rijden dan 25 kilometer per uur) | 62 jo. bord C8 RVV 1990 | 95 |   |   |   |   |   |   |   |
 | R | 556 |   | als ruiter, geleider van rij-, trekdieren of vee, bestuurder van een wagen, een motorvoertuig dat niet sneller kan of mag rijden dan 25 kilometer per uur, een brommobiel, een fiets, een bromfiets of een gehandicaptenvoertuig in strijd met bord C9 een weg gebruiken (geslotenverklaring) | 62 jo. bord C9 RVV 1990 | 95 |   | 65 | 35 |   | 35 |   |   |
 | R | 557 |   | als bestuurder van een motorvoertuig met aanhangwagen een weg gebruiken in strijd met bord C10 (geslotenverklaring voor motorvoertuig met aanhangwagen) | 62 jo. bord C10 RVV 1990 | 95 | 95 |   |   |   |   |   |   |
@@ -9585,9 +9581,9 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 601 |   | als bestuurder niet doorgaan bij groen licht bij een driekleurig verkeerslicht | 62 jo. [68 lid 1 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=68) | 140 | 140 |   |   |   |   |   |   |
 | R | 602 |   | als weggebruiker niet stoppen voor rood licht bij een driekleurig verkeerslicht | 62 jo. 68 lid 1 sub c RVV 1990 | 240 | 240 | 160 | 95 | 70 | 95 |   |   |
 | R | 603 |   | als fietser, bromfietser of bestuurder van een gehandicaptenvoertuig bij geel of rood licht bij een driekleurig verkeerslicht rechts afslaan zonder het overige verkeer ter plaatse voor te laten gaan | 62 jo. 68 lid 6 RVV 1990 |   |   | 160 | 95 |   |   |   |   |
-| R | 604 |   | als weggebruiker niet stoppen voor rood licht bij tweekleurig verkeerslicht | 62 jo. [69 lid 1 sub b RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=68) | 240 | 240 | 160 | 95 | 70 | 95 |   |   |
+| R | 604 |   | als weggebruiker niet stoppen voor rood licht bij tweekleurig verkeerslicht | 62 jo. [69 lid 1 sub b RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=69) | 240 | 240 | 160 | 95 | 70 | 95 |   |   |
 | R | 605 |   | als fietser, bromfietser of bestuurder van een gehandicaptenvoertuig bij geel of rood licht bij een tweekleurig verkeerslicht rechts afslaan zonder het overige verkeer ter plaatse voor te laten gaan | 62 jo. 69 lid 2 ivm 68 lid 6 RVV 1990 |   |   | 160 | 95 |   |   |   |   |
-| R | 606 |   | als bestuurder van een tram, lijnbus of ander voertuig niet stoppen voor rood tram-/buslicht | 62 jo. 70 lid 1 sub c ivm [70 lid 3, 4 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=70) | 240 | 240 | 160 |   |   |   |   | 240 |
+| R | 606 |   | als bestuurder van een tram, lijnbus of ander voertuig niet stoppen voor rood tram-/buslicht | 62 jo. [70 lid 1 sub c ivm 70 lid 3, 4 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=70) | 240 | 240 | 160 |   |   |   |   | 240 |
 | R | 607 |   | als bestuurder van een tram niet stoppen voor rood licht bij driekleurig verkeerslicht | 62 jo. 68 lid 1 sub c RVV 1990 |   |   |   |   |   |   |   | 240 |
 | R | 608 |   | als weggebruiker niet stoppen voor rood knipperlicht bij overweglichten | 62 jo. [71 sub b RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=71) | 240 | 240 | 160 | 95 | 70 | 95 |   |   |
 | R | 609 |   | als weggebruiker niet stoppen voor rood (knipper)licht bij bruglichten | 62 jo. [72 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=72) | 240 | 240 | 160 | 95 | 70 | 95 |   |   |
@@ -9603,25 +9599,28 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | R | 618 |   | als bestuurder een verdrijvingsvlak gebruiken | 62 jo. [77 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=77) | 240 | 240 | 160 | 95 |   | 95 |   |   |
 | R | 618 | a | als bestuurder een puntstuk gebruiken | 62 jo. 77 RVV 1990 | 240 | 240 | 160 | 95 |   | 95 |   |   |
 | R | 619 |   | als bestuurder van een motorvoertuig of als bromfietser die de rijbaan volgt op een kruispunt niet de richting volgen die de voorsorteerstrook waarop zij zich bevinden aangeeft | 62 jo. [78 lid 1 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=78) | 240 | 240 | 160 |   |   |   |   |   |
-| R | 619 | a | als bestuurder die een doorgaande rijbaan verlaat en daartoe een uitrijstrook volgt ter hoogte van de daarin aangebrachte pijlen niet de richting volgen die de uitrijstrook aangeeft | 62. jo. 78 lid 2 RVV 1990 | 240 | 240 | 160 |   |   |   |   |   |
+| R | 619 | a | als bestuurder die een doorgaande rijbaan verlaat en daartoe een uitrijstrook volgt ter hoogte van de daarin aangebrachte pijlen niet de richting volgen die de uitrijstrook aangeeft | 62 jo. 78 lid 2 RVV 1990 | 240 | 240 | 160 |   |   |   |   |   |
 | R | 620 |   | als bestuurder niet stoppen voor stopstreep daar waar dit op grond van het RVV 1990 verplicht is | 62 jo. [79 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=79) | 95 | 95 | 65 | 35 |   | 35 |   |   |
 | R | 621 |   | als bestuurder in strijd met op het wegdek aangebrachte haaietanden geen voorrang verlenen aan bestuurders op de kruisende weg | 62 jo. [80 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=80) | 240 | 240 | 160 | 95 |   | 95 |   |   |
-| R | 622 |   | als weggebruiker, anders dan als bestuurder van een lijnbus, autobus of tram, gebruik maken van een busbaan of -strook aangeduid met «BUS» | 62 jo. [81 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=81) | 140 | 140 | 95 | 55 | 40 | 55 |   |   |
-| R | 622 | a | als weggebruiker, anders dan als bestuurder van een lijnbus of tram, gebruik maken van een busbaan of -strook aangeduid met: «LIJNBUS» | 62 jo. 81 RVV 1990 | 140 | 140 | 95 | 55 | 40 | 55 |   |   |
+| R | 622 |   | als weggebruiker, anders dan als bestuurder van een lijnbus, autobus of tram, gebruik maken van een busbaan of -strook aangeduid met «BUS" | 62 jo. [81 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=81) | 140 | 140 | 95 | 55 | 40 | 55 |   |   |
+| R | 622 | a | als weggebruiker, anders dan als bestuurder van een lijnbus of tram, gebruik maken van een busbaan of -strook aangeduid met: «LIJNBUS" | 62 jo. 81 RVV 1990 | 140 | 140 | 95 | 55 | 40 | 55 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Nummers R 701 – R 706: Besluit administratieve bepalingen inzake het wegverkeer (BABW)** |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 | R | 701 |   | zonder daartoe krachtens het Besluit bevoegd te zijn verkeerstekens op, langs of boven de wegen aanbrengen, doen aanbrengen, aangebracht houden, verwijderen, dan wel de zichtbaarheid daarvan wegnemen | [1a BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1a) |   |   |   |   |   |   |   | 140 |
 | R | 702 |   | voorwerpen, inrichting of borden, van welke aard ook, die het verkeer in verwarring zouden kunnen brengen op, langs of boven de wegen aanbrengen, doen aanbrengen of aangebracht houden | [2 BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=2) |   |   |   |   |   |   |   | 140 |
 | R | 703 |   | niet zo spoedig mogelijk op de juiste wijze inleveren van ongeldige gehandicaptenparkeerkaart | [54](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=54) jo. [53 BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=53) |   |   |   |   |   |   |   | 95 |
 | R | 704 |   | als verkeersregelaar niet op eerste vordering tonen van de krachtens de wet vereiste aanstellingspas | [58a BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=58a) |   |   |   |   |   |   |   | 95 |
 | R | 705 |   | als verkeersregelaar, niet zijnde een weginspecteur in dienst van Rijkswaterstaat, een aanwijzing als bedoeld in artikel 82, 1e lid van het RVV 1990 vanaf een motorrijtuig, of als verkeersregelaar niet zijnde een transportbegeleider of een weginspecteur in dienst van Rijkswaterstaat, vanuit een motorrijtuig geven | 58a BABW |   |   |   |   |   |   |   | 95 |
-| R | 706 |   | als transportbegeleider of weginspecteur in dienst van Rijkswaterstaat vanuit een motorrijtuig een aanwijzing als bedoeld in artikel 82, 1e lid van het RVV 1990 op een weg onder beheer van het Rijk of op een kruispunt gelegen op andere weg geven | 58a BABW |   |   |   |   |   |   |   | 95 |
+| R | 706 |   | als transportbegeleider of weginspecteur in dienst van Rijkswaterstaat vanuit een motorrijtuig een aanwijzing als bedoeld in [artikel 82, 1e lid van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82) op een weg onder beheer van het Rijk of op een kruispunt gelegen op andere weg geven | 58a BABW |   |   |   |   |   |   |   | 95 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Nummers K 405 – K 540: Kentekenreglement (KR)** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Nummers K 405 – K 540:** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Kentekenreglement (Kr)** |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 | K | 405 |   | de kentekenplaat voldoet niet aan de gestelde eisen | [5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5) en [3 Kr](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=3) |   |   |   |   |   |   |   | 140 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Wijziging van de tenaamstelling: overdracht tussen particulieren** |   |   |   |   |   |   |   |   |   |
-| K | 420 |   | als nieuwe eigenaar/houder niet binnen één week de Dienst Wegverkeer op de voorgeschreven wijze om tenaamstelling verzoeken | [26 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=26), [58b lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58b) en [58l lid 2 K](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58l)r |   |   |   |   |   |   |   | 360 |
+| K | 420 |   | als nieuwe eigenaar/houder niet binnen één week de Dienst Wegverkeer op de voorgeschreven wijze om tenaamstelling verzoeken | [26 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=26), [58b lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58b) en [58l lid 2 Kr](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58l) |   |   |   |   |   |   |   | 360 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Wijziging van de tenaamstelling: overlijden van een kentekenhouder** |   |   |   |   |   |   |   |   |   |
 | K | 485 |   | als eigenaar/houder na overlijden van degene die in het kentekenregister als tenaamgestelde staat geregistreerd niet binnen vijf weken op de voorgeschreven wijze bij de Dienst Wegverkeer een verzoek indienen om het voertuig op zijn naam te registreren | [29 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=29), [58f lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58f) en [58p lid 1 Kr](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58p) |   |   |   |   |   |   |   | 360 |
@@ -9638,7 +9637,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | K | 535 |   | als kentekenhouder het handelaarskenteken niet op de voorgeschreven wijze gebruiken | [44 Kr](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=44) |   |   |   |   |   |   |   | 360 |
 | K | 540 |   | het ongeldig verklaarde handelaarskentekenbewijs niet onverwijld inleveren | [45 lid 2 Kr](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=45) |   |   |   |   |   |   |   | 360 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Nummers A 901 – A 934: Wet aansprakelijkheidsverzekering motorrijtuigen (WAM) en Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen** |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Nummers A 901 – A 934: Wet aansprakelijkheidsverzekering motorrijtuigen (WAM) en Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen (BVM)** |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **gekentekende motorrijtuigen, niet zijnde bromfietsen of gehandicaptenvoertuigen** |   |   |   |   |   |   |   |   |   |
 | A | 915 |   | als bezitter, als houder of als degene op wiens naam een motorrijtuig in het kentekenregister is ingeschreven, voor een motorrijtuig, niet zijnde een bromfiets, dat in het kentekenregister is ingeschreven en tenaamgesteld, niet de vereiste verzekering sluiten en in stand houden | [30 lid 2 WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) |   |   |   |   |   |   |   | 400 |
@@ -9649,7 +9648,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **Nummers N 010 – P 602: Besluit voertuigen (BV) en Regeling voertuigen (RV)** |
 | --- | --- | --- | --- |
 |   |   |   |   |
-|   |   |   | Categorie-indeling A: ([Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025554) en [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798)) |
+|   |   |   | **Categorie-indeling A: (Besluit en Regeling voertuigen)** |
 |   |   |   | 2 – personenauto's; |
 |   |   |   | 3 – bedrijfsauto's; |
 |   |   |   | 3a – bussen; |
@@ -9669,14 +9668,14 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | 17 – wagens. |
 |   |   |   |   |
 |   |   |   | **Noot Regeling voertuigen (RV):** |
-|   |   |   | – De feiten met betrekking tot de RV zijn in 17 categorieën onderverdeeld en deze categorieën zijn genummerd van 2 t/m 17. Deze categorie-indeling komt overeen met de indeling van de RV. |
+|   |   |   | – De feiten met betrekking tot de [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) zijn in 17 categorieën onderverdeeld en deze categorieën zijn genummerd van 2 t/m 17. Deze categorie-indeling komt overeen met de indeling van de RV. |
 |   |   |   | – Bij categorie 15 kan het trekkende voertuig verschillend zijn (motor of bromfiets). Voor deze voertuigen gelden verschillende tarieven. Achter de categorie-aanduiding moet daarom voor de motorfiets een A en voor de bromfiets een B worden vermeld. |
 |   |   |   | categorie: 15A – motorfiets |
 |   |   |   | categorie: 15B – bromfiets |
 |   |   |   | – Bij de in deze afdeling vermelde overtredingen is het niet toegestaan om uitsluitend een kenteken te vermelden op het mini proces-verbaal. De NAW gegevens van de verdachte moeten eveneens worden vermeld. De verdachte dient daarom staande te worden gehouden. |
 |   |   |   | – Op de kennisgeving/aankondiging moet een nadere toelichting op het feit worden vermeld, omdat de bepalingen van de RV in algemene feitomschrijvingen zijn weergegeven. |
-|   |   |   | – Voor feiten gebaseerd op de RV geldt dat deze feiten niet op kenteken kunnen worden geconstateerd. (Dit volgt uit de voor de eerste feitcode geplaatste koptekst, geldend voor de gehele Regeling voertuigen: «Als bestuurder rijden (terwijl)...»). |
-|   |   |   | – De feiten die betrekking hebben op de massa of de last onder wiel of as gelden uitsluitend voor particulieren. Indien sprake is van beroepsmatig vervoer is de Wet op de economische delicten van toepassing. Zie hiervoor de feitcodeserie E 850 t/m E 856. |
+|   |   |   | – Voor feiten gebaseerd op de RV geldt dat deze feiten niet op kenteken kunnen worden geconstateerd. (Dit volgt uit de voor de eerste feitcode geplaatste koptekst, geldend voor de gehele Regeling voertuigen: «Als bestuurder rijden (terwijl) ...»). |
+|   |   |   | – De feiten die betrekking hebben op de massa of de last onder wiel of as gelden uitsluitend voor particulieren. Indien sprake is van beroepsmatig vervoer is de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) van toepassing. Zie hiervoor de feitcodeserie E 850 t/m E 856. |
 |   |   |   | – Een aanhangwagen van de voertuigcategorie O met een toegestane maximummassa van meer dan 750 kg moet voldoen aan de in de in afdeling 12 opgenomen eisen. Dit houdt in dat als dit soort aanhangwagens door landbouw- of bosbouwtrekkers e.d. worden voortbewogen deze toch moeten voldoen aan de voor categorie 12 geldende eisen. Dit geldt eveneens voor categorie 13 en 14 aanhangwagens, die aan de eisen van de respectievelijk categorie 13 en 14 moeten voldoen, maar dit is vanwege het ontbreken van een kenteken lastig dan wel niet vast te stellen en derhalve afhankelijk van de verklaring van de betrokkene. |
 |   |   |   | – Een verwisselbaar getrokken uitrustingsstuk valt onder categorie 14 en moet aan de daarvoor geldende eisen voldoen. In afwijking hiervan moet een verwisselbaar getrokken uitrustingsstuk dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig voldoen aan het bepaalde in afdeling 18. |
 
@@ -9688,13 +9687,15 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **Als bestuurder van een voertuig rijden (terwijl):** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **0 – Algemeen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 010 | a | het niet in overeenstemming is met de gegevens op de kentekencard, het kentekenbewijs of met de in het kentekenregister vermelde gegevens | 5.*.1 RV | 240 | 240 | 240 | 240 | 240 | 160 |   |   |   |   |   | 240 |   |   |   |   |   |
-| N | 010 | b | het voertuigidentificatienummer niet is ingeslagen of goed leesbaar is | 5.*.1 en 5.6.73 RV | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 |   | 240 |   | 240 |   |   |   |
+| N | 010 | b | het voertuigidentificatienummer niet is ingeslagen of goed leesbaar is | 5.*.1 en [5.6.73 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.73) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 |   | 240 |   | 240 |   |   |   |
 | N | 010 | c | het niet is voorzien van de juiste kentekenpla(a)t(en) of de kentekenpla(a)t(en) niet voorzien is/zijn van het goedkeuringsmerk, dan wel niet deugdelijk aan de voor- en/of achterzijde is/zijn bevestigd | 5.*.1 RV | 140 | 140 | 140 | 140 | 140 | 95 |   |   |   |   |   | 140 |   |   |   |   |   |
 | N | 010 | d | het kenteken niet goed leesbaar is of de kentekenpla(a)t(en) is/zijn afgeschermd | 5.*.1 RV | 140 | 140 | 140 | 140 | 140 | 95 |   |   |   |   |   | 140 |   |   |   |   |   |
 | N | 010 | e | het voertuig niet is voorzien van een goed leesbare constructiepla(a)t(en), waarvan de gegevens in overeenstemming zijn met het kentekenregister (cat 3, 3a en 12 in gebruik na 31-12-1997; cat 8 in gebruik na 30-06-2009) | 5.*.1 RV |   | 95 | 95 |   |   |   |   | 95 |   |   |   | 95 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **1 – Algemene bouwwijze van het voertuig** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 020 | b | het wiel niet zodanig is bevestigd dat het uitsluitend draaibaar is om de eigen as | [5.15.2 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.15.2) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140/95 |   |   |
 | N | 030 | a | het chassis dan wel de mee- of zelfdragende carrosserie breuken en of scheuren vertoont | 5.*.3 en [5.6.74 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.74) | 240 | 240 | 240 |   | 240 | 160 | 240 | 240 |   |   |   | 240 | 240 | 240 | 240/160 |   | 95 |
 | N | 030 | b | het chassis dan wel de mee- of zelfdragende carrosserie zodanig bevestigd, vervormd of door corrosie is aangetast dat de stijfheid en de sterkte in gevaar worden gebracht | 5.*.3 en 5.6.74 lid 1 RV | 240 | 240 | 240 |   | 240 | 160 | 240 | 240 |   |   |   | 240 | 240 | 240 | 240/160 |   | 95 |
@@ -9718,6 +9719,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **2 – Afmetingen en massa's** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Lengte** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 060 | a | het langer is dan 12 m (cat 5 ingebruikname voor 01-11-1997; cat 12 geldt niet voor opleggers) | 5.*.6 RV | 140 | 140 |   |   | 140 |   | 140 | 140 |   |   |   | 140 | 140 | 140 |   |   |   |
 | N | 060 | aa | de bus met 2 assen langer is dan 13,50 m | [5.3a.6 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3a.6) |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 060 | ab | de bus met 2 assen, in gebruik genomen voor 10-09-2003, langer is dan 15 m | 5.3a.6 lid 2 RV |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9727,10 +9729,11 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 061 | g | de horizontaal gemeten afstand tussen het hart van de koppelingspen en de achterzijde van de oplegger van het kermis- of circusvoertuig meer bedraagt dan 17,50 m | 5.12.6 lid 5 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Breedte** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 060 | b | het breder is dan 2,55 m (cat 5 ingebruikname voor 01-11-1997; cat 3 en 12 gelden niet voor geconditioneerde voertuigen en voor cat 3 en 12 voertuigen met een tmm > 10 ton en ingebruikname voor 01-02-1999) | 5.*.6 RV | 140 | 140 | 140 |   | 140 |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
 | N | 060 | g | het breder is dan 2,60 m (cat 3 en 12 geconditioneerd voertuig en voertuigen met een tmm > 10 ton en ingebruikname voor 01-02-1999; cat 17 bespannen wagen) | 5.*.6 RV |   | 140 |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   | 55 |
 | N | 060 | p | het gehandicaptenvoertuig breder is dan 1,10 m (geldt ook voor gehandicaptenvoertuig zonder motor) | 5.*.6 RV |   |   |   |   |   |   |   |   |   | 55 | 55 |   |   |   |   |   |   |
-| N | 060 | r | de fiets breder is dan 0,75 m | 5.9.6 lid 1 RV |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   |   |
+| N | 060 | r | de fiets breder is dan 0,75 m | [5.9.6 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.9.6) |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   |   |
 | N | 060 | s | het breder is dan 1,50 m (cat 9 > 2 wielen of zijspan; cat 17 onbespannen wagen) | 5.*.6 RV |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   | 55 |
 | N | 060 | u | het breder is dan 2 m (cat 5 ingebruikname na 31-10-1997; cat 6 op meer dan 2 wielen; cat 15b achter bromfiets op meer dan 2 wielen) | 5.*.6 RV |   |   |   | 140 | 140 | 95 |   |   |   |   |   |   |   |   | 140/95 |   |   |
 | N | 060 | w | het breder is dan 1 m (cat 6 betreft tweewielige bromfiets; cat 15b achter bromfiets op meer dan twee wielen) | 5.*.6 RV |   |   |   |   |   | 95 |   |   |   |   |   |   |   |   | -/95 | 55 |   |
@@ -9741,22 +9744,23 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 060 | hc | – van meer dan 0,50 m t/m 0,75 m |   |   | 310 |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Hoogte** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 060 | q | het gehandicaptenvoertuig hoger is dan 2 m (geldt ook voor gehandicaptenvoertuig zonder motor) | 5.*.6 RV |   |   |   |   |   |   |   |   |   | 55 | 55 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Massa** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de toegestane asdruk, massa of som van de aslasten (cat 5 ingebruikname na 01-02-1999) wordt overschreden met** | 5.*.7 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 070 | a | – meer dan 10 % |   | 280 | 280 | 280 |   | 280 |   |   | 280 |   |   |   | 280 |   |   |   |   |   |
+| N | 070 | a | – meer dan 10% |   | 280 | 280 | 280 |   | 280 |   |   | 280 |   |   |   | 280 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **van het rijdende werktuig de toegestane maximum last van enig(e) as of asstel wordt overschreden met** | [5.3.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 072 | a | – 10 tot 15 % |   |   | 360 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **van het rijdende werktuig de toegestane maximumlast van enig(e) as of asstel wordt overschreden met** | [5.3.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 072 | a | – 10 tot 15% |   |   | 360 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **van het rijdende werktuig de toegestane maximummassa of som van de aslasten wordt overschreden met** | 5.3.7 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 073 | a | – 5 tot 10 % |   |   | 360 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 073 | a | – 5 tot 10% |   |   | 360 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **3 – Motor** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de bromfiets de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde maximumconstructiesnelheid van niet meer dan 25 km/h, vermeerderd met 4 km/h, (dan wel de aangewezen bromfiets de in artikel 20b van de wet vermelde maximumconstructiesnelheid van 25 km/h) overschrijdt met** | [5.6.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.8) en [5.6.76 lid 1RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.76) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de bromfiets de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde maximumconstructiesnelheid van niet meer dan 25 km/h, vermeerderd met 4 km/h, (dan wel de aangewezen bromfiets de in artikel 20b van de wet vermelde maximumconstructiesnelheid van 25 km/h) overschrijdt met** | [5.6.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.8) en [5.6.76 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.76) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 086 | a | – t/m 10 km/h |   |   |   |   |   |   | 65 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 086 | b | – meer dan 10 en t/m 15 km/h |   |   |   |   |   |   | 130 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9764,7 +9768,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 083 | a | – t/m 10 km/h |   |   |   |   |   |   | 65 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 083 | b | – meer dan 10 en t/m 15 km/h |   |   |   |   |   |   | 130 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **het voertuig de in artikel 1.1. van de Regeling Voertuigen vermelde maximumconstructiesnelheid vermeerderd met 5 km/h overschrijdt** | 5.*.8 lid 1 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **het voertuig de in artikel 1.1. van de Regeling voertuigen vermelde maximumconstructiesnelheid vermeerderd met 5 km/h overschrijdt** | 5.*.8 lid 1 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 085 | a | – t/m 10 km/h |   |   |   |   |   |   |   | 95 | 95 |   | 35 | 35 |   |   |   |   |   |   |
 | N | 085 | b | – meer dan 10 en t/m 15 km/h |   |   |   |   |   |   |   | 140 | 140 |   | 55 | 55 |   |   |   |   |   |   |
 | N | 090 | a | het brandstofsysteem niet veilig is of deugdelijk is bevestigd | 5.*.9 lid 1 RV | 240 | 240 | 240 | 240 |   |   | 240 | 240 |   |   |   | 240 | 240 | 240 |   |   |   |
@@ -9775,12 +9779,10 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 100 |   | de LPG-installatie niet voldoet aan de eisen | 5.*.10 RV | 240 | 240 | 240 | 240 | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 101 |   | de CNG- of LNG- installatie niet voldoet aan de eisen (LNG niet geregeld voor cat 4) | 5.*.10a RV | 240 | 240 | 240 | 240 | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 102 |   | de waterstofinstallatie niet voldoet aan de eisen | 5.*.10b RV | 240 | 240 | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 110 | a | het niet is voorzien van een over de gehele lengte gasdichte uitlaat | 5.*.11 lid 1 en 5.6.80 lid 1 RV | 280 | 280 | 280 | 280 | 280 | 190 | 280 | 280 |   | 110 |   |   |   |   |   |   |   |
+| N | 110 | a | het niet is voorzien van een over de gehele lengte gasdichte uitlaat | 5.*.11 lid 1 en [5.6.80 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.80) | 280 | 280 | 280 | 280 | 280 | 190 | 280 | 280 |   | 110 |   |   |   |   |   |   |   |
 | N | 110 | b | het uitlaatsysteem niet deugdelijk is bevestigd | 5.*.11 lid 2 en 5.6.80 lid 2 RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 110 | e | het uitlaatsysteem niet behoorlijk geluiddempend is | 5.*.11 RV |   |   |   |   |   |   | 280 | 280 |   | 110 |   |   |   |   |   |   |   |
 | N | 111 |   | (een) onderde(e)l(en) van het na 31-12-2017 in gebruik genomen voertuig, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, overmatige lekkage van vloeistof, niet zijnde water, verto(o)n(t)(en) | 5.*.11a RV | 240 | 240 | 240 |   | 240 |   |   |   |   |   |   | 240 |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Meting geluidsniveau** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Noot** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | Indien geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld dan moeten onderstaande waarden worden gehanteerd: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9788,7 +9790,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | **Bromfiets** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | Constructiesnelheid Maximum toegestane waarde |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | Max 25 km/h 90 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | > 25 km/h 97dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | > 25 km/h 97 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Motorfiets** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | Cylinderinhoud t/m Maximum toegestane waarde |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9797,18 +9799,20 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   | 350 cm3 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | 500 cm3 97 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | 750 cm3 100 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | 1000 cm3 103 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | >1000 cm3 106 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | 1.000 cm3 103 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | >1.000 cm3 106 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Personen-/bedrijfsauto/bus/driewielig motorrijtuig** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | benzinemotor max 3500 kg bij 3500 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | dieselmotor max 3500 kg bij 2000 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | > 3500 kg bij 1500 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | benzinemotor max 3.500 kg bij 3.500 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | dieselmotor max 3.500 kg bij 2.000 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | > 3.500 kg bij 1.500 toeren max 95 dB(A) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Meting geluidsniveau** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **het (op het kentekenbewijs of) in het kentekenregister vermelde geluidsniveau, vermeerderd met 2 dB(A), wordt overschreden** | 5.*.11 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 110 | n | – tot 4 dB(A) |   | 280 | 280 | 280 | 280 | 280 | 190 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **het toegestane geluidsniveau van het voertuig, waarvoor geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld, wordt overschreden** | 5.*.11 en [5.6.80 lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.80) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **het toegestane geluidsniveau van het voertuig, waarvoor geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld, wordt overschreden** | 5.*.11 en 5.6.80 lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 110 | p | – tot 4 dB(A) |   | 280 | 280 | 280 | 280 | 280 | 190 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 120 | a | de accu of tractiebatterij niet deugdelijk is bevestigd | 5.*.12 lid 1 en [5.6.81 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.81) | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 | 55 |   |   |   |   |   |   |
 | N | 120 | b | de bedrading niet deugdelijk is bevestigd/goed is geïsoleerd | 5.*.12 en 5.6.81 lid 2 RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 | 55 |   |   |   |   |   |   |
@@ -9819,28 +9823,30 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 130 | c | de motor niet deugdelijk is bevestigd | 5.*.13 en 5.6.81 lid 3 RV |   |   |   | 140 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **4 – Krachtoverbrenging** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 150 | a | het na 30-06-1967 in gebruik genomen voertuig niet is voorzien van een goed werkende, ook bij nacht, afleesbare snelheidsmeter | 5.*.15 RV | 95 | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 150 | e | het na 26-11-1975 in gebruik genomen voertuig niet is voorzien van een goed werkende, ook bij nacht afleesbare snelheidsmeter | 5.*.15 RV |   |   |   | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 150 | f | de na 31-12-2006 in gebruik genomen bromfiets niet is voorzien van een goed werkende, ook bij nacht afleesbare snelheidsmeter | 5.6.15 RV |   |   |   |   |   | 65 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 160 | a | (de onderdelen van) de aandrijving of transmissie niet deugdelijk bevestigd is (zijn) | 5.*.16 en [5.6.83 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.83) | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
-| N | 170 | a | de krachtoverbrenging niet op eenvoudige wijze kan worden onderbroken | [5.10.17 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.10.17) |   |   |   |   |   |   |   |   |   | 35 |   |   |   |   |   |   |   |
-| N | 170 | b | de snelheid niet regelbaar is | [5.11.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.11.17) en [5.6.82 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.82) |   |   |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |
+| N | 170 | a | de krachtoverbrenging niet op eenvoudige wijze kan worden onderbroken | 5.10.17 RV |   |   |   |   |   |   |   |   |   | 35 |   |   |   |   |   |   |   |
+| N | 170 | b | de snelheid niet regelbaar is | 5.11.17 en [5.6.82 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.82) |   |   |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **5 – Assen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 180 |   | de as(sen) niet deugdelijk (bevestigd) is (zijn) | 5.*.18 en 5.6.84 RV | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 | 95 | 240 | 240 | 240 | 240/160 |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 180 |   | de as(sen) niet deugdelijk (bevestigd) is (zijn) | 5.*.18 en [5.6.84 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.84) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 | 95 | 240 | 240 | 240 | 240/160 |   |   |
 | N | 190 |   | de fuseeonderdelen en overige draaipunten niet deugdelijk (bevestigd) zijn | 5.*.19 RV | 240 | 240 | 240 |   | 240 | 160 |   |   |   | 95 |   | 240 |   | 240 |   |   |   |
-| N | 200 |   | de wiellagers niet deugdelijk zijn | 5.*.20 en 5.6.85 RV | 140 | 140 | 140 |   | 140 | 95 |   |   |   | 55 | 55 | 140 | 140 |   |   |   |   |
+| N | 200 |   | de wiellagers niet deugdelijk zijn | 5.*.20 en [5.6.85 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.85) | 140 | 140 | 140 |   | 140 | 95 |   |   |   | 55 | 55 | 140 | 140 |   |   |   |   |
 | N | 210 |   | de wielbasis te veel afwijkt | 5.*.21 RV | 95 | 95 | 95 | 95 | 95 |   |   |   |   |   |   | 95 |   |   |   |   |   |
 | N | 220 |   | de afstanden tussen de fuseedraaipunten en het chassis of de carrosserie te veel verschillen | 5.*.22 RV | 95 | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 230 |   | de spoorbreedte te groot is | 5.*.23 RV | 95 | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 240 | a | de wielen/de velgen niet deugdelijk (bevestigd) zijn | 5.*.24 RV |   |   |   |   |   |   |   |   |   |   | 95 |   | 240 |   | 240/160 |   | 95 |
 | N | 240 | b | de wielen/de velgen/de wielnaven/stabilisatoren niet deugdelijk (bevestigd) zijn | 5.*.24-26 RV |   | 240 | 240 |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
-| N | 240 | c | de wielen, alsmede de onderdelen niet deugdelijk (bevestigd) zijn | 5.*.24 en 5.6.86 RV |   |   |   | 240 |   | 160 |   |   |   |   |   |   |   |   |   |   |   |
+| N | 240 | c | de wielen, alsmede de onderdelen niet deugdelijk (bevestigd) zijn | 5.*.24 en [5.6.86 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.86) |   |   |   | 240 |   | 160 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 240 | d | de wielen/de velgen/stabilisatoren niet deugdelijk (bevestigd) zijn | 5.*.24 en 26 RV | 240 |   |   |   | 240 |   |   |   |   | 95 |   | 240 |   | 240 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **6 – Ophanging** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de wielen niet voorzien zijn van luchtbanden** | 5.*.27 en [5.6.87 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.87) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de wielen niet voorzien zijn van luchtbanden** | 5.*.27 en [5.6.87 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.87) RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 270 | a | – 1 band |   | 140 | 140 | 140 | 140 | 140 | 95 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 270 | b | – 2 banden |   | 210 | 210 | 210 | 210 | 210 | 140 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 270 | c | – 3 banden |   | 310 | 310 | 310 | 310 | 310 | 220 |   |   |   |   |   |   |   |   |   |   |   |
@@ -9875,11 +9881,13 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 280 |   | het veersysteem, (indien vereist of aanwezig) de onderdelen daarvan of de schokdemper (indien vereist) niet deugdelijk (bevestigd) is/zijn of niet goed werken | 5.*.28 RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 | 55 | 140 | 140 | 140 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **7 – Stuurinrichting** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 290 |   | deze niet is voorzien van een deugdelijke stuurinrichting | 5.*.29 en [5.6.88 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.88) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 | 95 | 95 | 95 |   |   |   |   |   |   |
 | N | 291 |   | de overbrenging van de gestuurde wielen niet goed reageert of niet deugdelijk is (bevestigd) | 5.*.29 RV |   |   |   |   |   |   |   |   |   |   |   | 240 |   | 240 |   |   |   |
 | N | 292 |   | de draaikransen niet deugdelijk zijn (bevestigd) | 5.*.30 RV |   |   |   |   |   |   |   |   |   |   |   | 240 |   | 240 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **8 – Reminrichting** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 310 | a | (de onderdelen van) de reminrichting niet deugdelijk is/zijn (bevestigd) dan wel niet aan de eisen voldoet/voldoen | 5.*.31 en [5.6.89 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.89) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 | 95 | 240 | 240 | 240 |   |   |   |
 | N | 320 | aa | in het hydraulisch remsysteem onvoldoende remvloeistof aanwezig is | 5.*.32 RV en 5.*.31 RV | 240 | 240 | 240 |   | 240 | 160 |   |   |   | 95 | 95 |   |   |   |   |   |   |
 | N | 320 | a | het remsysteem van het na 30-06-1967 in gebruik genomen voertuig niet is voorzien van een deugdelijke waarschuwingsinrichting | [5.3.33 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.33) | 95 | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9897,19 +9905,20 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 380 | n | niet wordt voldaan aan de vereiste remvertraging | 5.*.38 en [5.6.90 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.90) |   |   |   |   |   | 160 | 240 |   |   | 95 |   |   |   |   |   |   |   |
 | N | 380 | p | het niet is voorzien van (een) goed werkende rem(men) | 5.*.38 RV |   |   |   |   |   |   |   |   | 55 |   | 55 |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **niet wordt voldaan aan de vereiste remvertraging (cat 12 toegestane maximum massa minder dan 3500 kg); de vermindering bedraagt** | 5.*.38 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa minder dan 3.500 kg); de vermindering bedraagt** | 5.*.38 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 381 | a | – 0 t/m 0,5 m/s2 |   | 240 |   |   | 240 | 240 |   |   |   |   |   |   | 240 |   |   |   |   |   |
 | N | 381 | b | – 0,51 t/m 1,0 m/s2 |   | 360 |   |   | 360 | 360 |   |   |   |   |   |   | 360 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **niet wordt voldaan aan de vereiste remvertraging (cat 12 toegestane maximum massa 3500 kg of meer); de vermindering bedraagt** | 5.*.38 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 381 | f | – 0 t/m 0,5 m/s2 |   |   | 380 | 380 |   |   |   | 380 | 380 |   |   |   | 380 |   |   |   |   |   |
+|   |   |   | **niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa 3.500 kg of meer); de vermindering bedraagt** | 5.*.38 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 381 | f | – 0 t/m 0,5 m/s2 |   |   | 390 | 390 |   |   |   | 390 | 390 |   |   |   | 390 |   |   |   |   |   |
 | N | 390 | a | de parkeerrem niet aan de eisen voldoet | 5.*.39 RV | 95 | 95 | 95 |   | 95 |   | 95 | 95 |   |   |   |   |   |   |   |   |   |
 | N | 390 | b | van de (brom)fiets op meer dan twee wielen zonder afzonderlijke vastzetinrichting één van de remmen niet kan worden vastgezet | 5.*.39 RV |   |   |   |   |   | 65 |   |   | 35 |   |   |   |   |   |   |   |   |
 | N | 390 | e | de vastzetinrichting of de veerrem niet aan de eisen voldoet | [5.12.39 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.39) |   |   |   |   |   |   |   |   |   |   |   | 95 |   |   |   |   |   |
-| N | 400 | c | de reminrichting van de aanhangwagen (niet zijnde een middenasaanhangwagen en aanhangwagen met een stijve dissel met een toegestane maximum massa van ten hoogste 1500 kg) niet automatisch in werking treedt bij het verbreken van de verbinding, dan wel niet automatisch in de bedrijfstoestand komt bij het koppelen met het trekkende voertuig | [5.12.40 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.40) |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
+| N | 400 | c | de reminrichting van de aanhangwagen (niet zijnde een middenasaanhangwagen en aanhangwagen met een stijve dissel met een toegestane maximummassa van ten hoogste 1.500 kg) niet automatisch in werking treedt bij het verbreken van de verbinding, dan wel niet automatisch in de bedrijfstoestand komt bij het koppelen met het trekkende voertuig | [5.12.40 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.40) |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
 | N | 400 | d | niet is voorzien van een goed functionerende losbreekreminrichting (indien aanwezig) | 5.*.40 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   | 140 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **9 – Carrosserie** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 410 | a | de deuren en de laadbakkleppen (cat 3(a)) niet goed sluiten of de deuren die direct toegang geven tot de personenruimte niet op normale wijze vanaf de binnenzijde en/of vanaf de buitenzijde kunnen worden geopend | 5.*.41 RV | 140 | 140 | 140 |   | 140 | 95 |   | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 410 | b | het slot of de scharnieren van de motorkap of het kofferdeksel aan de voorzijde geen goede sluiting waarborgen | 5.*.41 RV | 140 | 140 |   |   | 140 | 95 |   |   |   | 55 |   |   |   |   |   |   |   |
 | N | 410 | c | de bevestiging van de scharnieren ernstig zijn gecorrodeerd | 5.*.41 RV | 140 | 140 | 140 |   | 140 | 95 |   |   |   | 55 |   |   |   |   |   |   |   |
@@ -9928,23 +9937,23 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 430 | a | het voertuig niet is voorzien van een goed werkende ruitenwisserinstallatie (cat 5 in gebruik na 27-11-1975; cat 6 in gebruik na 31-12-2006) | 5.*.43 RV | 140 | 140 | 140 |   | 140 | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 430 | d | het voertuig niet is voorzien van een goed werkende ruitensproeierinstallatie voor de voorruit die de bestuurder voldoende uitzicht geeft (cat 2 in gebruik na 30-09-1971; cat 3 na 31-12-1997; cat 3a na 30-06-1985; cat 5 na 31-12-1994; cat 6 na 31-12-2006) | 5.*.43 RV | 140 | 140 | 140 |   | 140 | 95 |   |   |   | 55 |   |   |   |   |   |   |   |
 | N | 440 | a | het voertuig niet is voorzien van een goed werkende installatie ter ontdooiing en ontwaseming van de voorruit (cat 2 in gebruik na 30-09-1971; cat 3 na 31-12-1997, cat 3a na 30-06-1985, cat 5 voorruit en gesloten carrosserie na 31-12-1994 tot 17-06-2003 vanaf 17-06-2003 indien voorruit) | 5.*.44 RV | 140 | 140 | 140 |   | 140 |   |   |   |   | 55 |   |   |   |   |   |   |   |
-| N | 450 | a | het voertuig niet is voorzien van de noodzakelijke spiegels en/of cameramonitor-systeem die/dat aan de eisen voldoen/voldoet (cat. 6 voertuig in gebruik na 31-12-2006) (vooruitkijkspiegel / camera-monitorsysteem en breedtespiegel betreft bedrijfsauto met frontstuur in gebruik na 25-01-2008, tmm > 7500 kg) (cat. 8 rechterspiegel/camerasysteem in gebruik na 31-12-2018) | 5.*.45 RV | 140 | 140 | 140 |   |   | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
+| N | 450 | a | het voertuig niet is voorzien van de noodzakelijke spiegels en/of cameramonitor-systeem die/dat aan de eisen voldoen/voldoet (cat. 6 voertuig in gebruik na 31-12-2006) (vooruitkijkspiegel / camera-monitorsysteem en breedtespiegel betreft bedrijfsauto met frontstuur in gebruik na 25-01-2008, tmm > 7.500 kg) (cat. 8 rechterspiegel/camerasysteem in gebruik na 31-12-2018) | 5.*.45 RV | 140 | 140 | 140 |   |   | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 450 | b | het na 26-11-1975 doch voor 17-06-2003 in gebruik genomen voertuig niet is voorzien van een linkerbuitenspiegel die aan de eisen voldoet | [5.4.45 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.4.45) |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 450 | c | het na 31-12-1996 doch voor 17-06-2003 in gebruik genomen voertuig dat 100 km/h of sneller kan, niet is voorzien van een rechterbuitenspiegel die aan de eisen voldoet | 5.4.45 RV |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 450 | g | het na 16-06-2003 in gebruik genomen voertuig niet is voorzien van een linker- en een rechterbuitenspiegel | 5.4.45 lid 1 RV |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 450 | d | het na 26-11-1975 in gebruik genomen voertuig waarvan de ledige massa meer bedraagt dan 400 kg en waarbij de bestuurder een zodanige plaats inneemt dat hij vanaf zijn zitplaats het achter hem gelegen weggedeelte niet kan overzien niet is voorzien van een linkerbuitenspiegel | 5.5.45 RV |   |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 450 | d | het na 26-11-1975 in gebruik genomen voertuig waarvan de ledige massa meer bedraagt dan 400 kg en waarbij de bestuurder een zodanige plaats inneemt dat hij vanaf zijn zitplaats het achter hem gelegen weggedeelte niet kan overzien niet is voorzien van een linkerbuitenspiegel | [5.5.45 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.5.45) |   |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 450 | e | het na 17-06-2003 in gebruik genomen voertuig met een gesloten carrosserie waarvan de ledige massa meer bedraagt dan 400 kg en waarbij de bestuurder een zodanige plaats inneemt dat hij vanaf zijn zitplaats het achter hem gelegen weggedeelte niet kan overzien niet is voorzien van een binnenspiegel | 5.5.45 RV |   |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 450 | f | het voertuig niet is voorzien van een rechterbuitenspiegel terwijl met de binnenspiegel het achter het voertuig gelegen weggedeelte niet voldoende kan worden overzien | 5.5.45 RV |   |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 460 | a | de zitplaatsen (of rugleuningen) niet deugdelijk bevestigd zijn | 5.*.46 RV |   |   |   | 140 |   | 95 |   |   |   |   | 55 |   |   |   |   |   |   |
-| N | 460 | aa | de na 31-12-2014 in gebruik genomen personenauto dan wel de na 21-01-2014 in gebruik genomen bedrijfsauto met een toegestane maximummassa van niet meer dan 3500 kg of bus van klasse III of B is voorzien van zijdelings gerichte zitplaatsen | 5.*.46 RV | 140 | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 460 | aa | de na 31-12-2014 in gebruik genomen personenauto dan wel de na 21-01-2014 in gebruik genomen bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg of bus van klasse III of B is voorzien van zijdelings gerichte zitplaatsen | 5.*.46 RV | 140 | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 460 | c | de zitplaatsen, rugleuningen of de verstelinrichtingen niet deugdelijk (bevestigd) zijn | 5.*.46 RV | 140 | 140 | 140 |   | 140 |   | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 460 | d | de voetsteunen niet deugdelijk zijn bevestigd | 5.*.46 RV |   |   |   | 140 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 460 | g | de trappers niet deugdelijk zijn bevestigd of niet zijn voorzien van een stroef oppervlak | [5.9.46 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.9.46) |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   |   |
-| N | 470 | a | de/een naar voren gerichte zitplaats(en) van de na 31-12-1989 in gebruik genomen personenauto niet voorzien is van (een) gordel(s) of de/een naar achteren gerichte zitplaats(en) van na 30-09-2000 in gebruik genomen personenauto niet voorzien is van (een) gordel(s) | [5.2.47 RV](onbekend) | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 470 | b | de/een gordel(s) voor de voorzitplaats(en) die aan een portier gren(st)(zen) van de na 01-01-1971 en voor 01-01-1990 in gebruik genomen personenauto niet aanwezig is/zijn | [5.2.47 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.2.47) | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 470 | a | de/een naar voren gerichte zitplaats(en) van de na 31-12-1989 in gebruik genomen personenauto niet voorzien is van (een) gordel(s) of de/een naar achteren gerichte zitplaats(en) van na 30-09-2000 in gebruik genomen personenauto niet voorzien is van (een) gordel(s) | [5.2.47 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.2.47) | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 470 | b | de/een gordel(s) voor de voorzitplaats(en) die aan een portier gren(st)(zen) van de na 01-01-1971 en voor 01-01-1990 in gebruik genomen personenauto niet aanwezig is/zijn | 5.2.47 RV | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 470 | c | de/een gordel(s) niet deugdelijk is/zijn (bevestigd) (geldt voor cat 7, 8 en 10 indien aanwezig) | 5.*.47 RV | 140 | 140 | 140 |   | 140 | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
 | N | 470 | d | de/een gordel(s) voor de/een naar voren gerichte zitplaats(en) van de T-100 bus of na 31-12-1997 in gebruik genomen andere bus of bedrijfsauto niet aanwezig is/zijn | 5.*.47 lid 1 RV |   | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N | 470 | h | de/een naar voren en/of naar achteren gerichte zitplaats(en) van de na 30-09-2002 in gebruik genomen bus met een toegestane maximum massa van niet meer dan 3500 kg of van de na 30-09-2000 in gebruik genomen bus met een toegestane maximum massa van meer dan 3500 kg niet voorzien is/zijn van (een) gordel(s) | [5.3a.47 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3a.47) |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 470 | h | de/een naar voren en/of naar achteren gerichte zitplaats(en) van de na 30-09-2002 in gebruik genomen bus met een toegestane maximummassa van niet meer dan 3.500 kg of van de na 30-09-2000 in gebruik genomen bus met een toegestane maximummassa van meer dan 3.500 kg niet voorzien is/zijn van (een) gordel(s) | [5.3a.47 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3a.47) |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 470 | g | de/een naar voren gerichte zitplaats(en) van het na 31-12-1989 in gebruik genomen driewielig motorrijtuig met gesloten carrosserie niet voorzien is/zijn van (een) gordel(s) of de/een naar achteren gerichte zitplaats(en) van het na 16-06-2003 in gebruik genomen driewielig motorrijtuig met gesloten carrosserie niet voorzien zijn van (een) gordel(s) | [5.5.47 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.5.47) |   |   |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 470 | i | de/een naar voren gerichte zitplaats(en) van de bromfiets op meer dan twee wielen met een gesloten carrosserie en een ledige massa van meer dan 250 kg, in gebruik genomen na 31-12-2006, niet is/zijn voorzien van (een) gordel(s) | [5.6.47 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.47) |   |   |   |   |   | 95 |   |   |   |   |   |   |   |   |   |   |   |
 | N | 470 | j | het na 01-09-2008 in gebruik genomen en voor het vervoer van één of meer passagiers in een rolstoel ingericht voertuig niet voldoet aan de gestelde eisen | 5.*.47a RV | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9955,20 +9964,17 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 480 | c | de wielen niet goed afgeschermd zijn, aanlopen of te ver buiten de afscherming uitsteken | 5.*.48 RV | 240 | 240 | 240 | 240 | 240 |   |   |   |   | 95 |   | 240 | 240 |   | 240/160 |   |   |
 | N | 480 | e | gevaar bestaat voor het losraken van enig deel van de buitenzijde | 5.*.48 RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 |   | 140 | 140 | 140 | 140/95 |   |   |
 | N | 480 | f | de wielen/banden aanlopen | 5.*.48 en 5.6.92 lid 2 RV |   |   |   |   |   | 95 |   |   |   |   |   |   |   | 140 |   |   |   |
-| N | 480 | g | het voertuig niet is voorzien van de vereiste zijdelingse afscherming | 5.*.48 RV |   | 380 | 380 |   |   |   |   |   |   |   |   | 380 |   |   |   |   |   |
-| N | 490 |   | het na 30-06-1967 in gebruik genomen voertuig niet is voorzien van een stootbalk (cat 3 en 12) of beschermingsinrichting (cat 3a) tegen klemrijden die aan de vereisten voldoet (afstand stootbalk/beschermingsinrichting wegdek: in gebruik voor 01-01-1998 70 cm, daarna 55 cm; afstand achterzijde voertuig tot stootbalk: tot 01-01-2005 60 cm, daarna cat 3, 3a en 12: 45 cm) | 5.*.49 RV |   | 380 | 380 |   |   |   |   |   |   |   |   | 380 |   |   |   |   |   |
+| N | 480 | g | het voertuig niet is voorzien van de vereiste zijdelingse afscherming | 5.*.48 RV |   | 390 | 390 |   |   |   |   |   |   |   |   | 390 |   |   |   |   |   |
+| N | 490 |   | het na 30-06-1967 in gebruik genomen voertuig niet is voorzien van een stootbalk (cat 3 en 12) of beschermingsinrichting (cat 3a) tegen klemrijden die aan de vereisten voldoet (afstand stootbalk/beschermingsinrichting wegdek: in gebruik voor 01-01-1998 70 cm, daarna 55 cm; afstand achterzijde voertuig tot stootbalk: tot 01-01-2005 60 cm, daarna cat 3, 3a en 12: 45 cm) | 5.*.49 RV |   | 390 | 390 |   |   |   |   |   |   |   |   | 390 |   |   |   |   |   |
 | N | 500 |   | de aanhangwagen aan de achterzijde niet is voorzien van een mogelijkheid tot bevestiging van een kentekenplaat | 5.*.50 RV |   |   |   |   |   |   |   |   |   |   |   |   | 95 |   | 95/65 |   |   |
-| N | 501 |   | de frontbeschermingsinrichting van het na 31-12-2008 in gebruik genomen voertuig met een toegestane maximummassa van niet meer dan 3500 kg niet is goedgekeurd voor het voertuig waarop deze is aangebracht en/of niet voorzien is van het voorgeschreven EG-typegoedkeuringsmerk | 5.*.50 RV | 240 | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 501 |   | de frontbeschermingsinrichting van het na 31-12-2008 in gebruik genomen voertuig met een toegestane maximummassa van niet meer dan 3.500 kg niet is goedgekeurd voor het voertuig waarop deze is aangebracht en/of niet voorzien is van het voorgeschreven EG-typegoedkeuringsmerk | 5.*.50 RV | 240 | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **10 – Verlichting** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Noot** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **1.Bij het ontbreken of niet branden van dim-/kop-/achterlicht of kentekenplaatverlichting moeten de bepalingen uit het RVV 1990 worden toegepast;** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **2. Bij de feitcodes zijn alle data vermeld van verlichting die na 1 januari 1980 verplicht is geworden;** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **3. Er is geen sprake van verlichting in de zin van de Regeling Voertuigen als de armatuur niet is aangesloten en niet is voorzien van een lampje.** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | 1. Bij het ontbreken of niet branden van dim-/kop-/achterlicht of kentekenplaatverlichting moeten de bepalingen uit het RVV 1990 worden toegepast; |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | 2. Bij de feitcodes zijn alle data vermeld van verlichting die na 1 januari 1980 verplicht is geworden; |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | 3. Er is geen sprake van verlichting in de zin van de Regeling voertuigen als de armatuur niet is aangesloten en niet is voorzien van een lampje. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **het niet is voorzien van (een) goed werkend(e)** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 514 | a | – richtingaanwijzers (cat 4 na 31-12-1996 met zijspan na 31-10-1997; cat 6 = 3 of 4 wielig en gesloten carrosserie) | 5.*.51-63 en [5.6.93 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.93) | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 |   | 35 |   | 95 | 95 | 95 | 95/- |   |   |
@@ -9985,8 +9991,8 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 514 | m | – zijretroreflectoren (cat. 2 na 31-12-1997 en langer dan 6 m; cat. 3(a) en 7 langer dan 6 m; cat. 6: 2-wielig na 31-12-2006) | 5.*.51-63 RV | 95 | 95 | 95 |   |   | 65 | 95 |   |   |   |   | 95 | 95 | 95 | 95/65 |   |   |
 | N | 514 | o | – trapreflectie (cat 6 alleen indien vaste trappers bij 3 of 4 wielig) | 5.*.51-63 RV |   |   |   |   |   | 65 |   |   | 35 |   |   |   |   |   |   |   |   |
 | N | 514 | p | – wielreflectie | 5.*.51-63 RV |   |   |   |   |   |   |   |   | 35 |   |   |   |   |   |   | 35 |   |
-| N | 514 | r | – lijnmarkering aan de achterzijde bij een na 31-12-2012 in gebruik genomen voertuig dat breder is dan 2,10 m en langer is dan 6 m en waarbij de som van de toegestane aslasten meer bedraagt dan 3500 kg | [5.12.51 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.51) |   |   |   |   |   |   |   |   |   |   |   | 95 |   |   |   |   |   |
-| N | 514 | s | – lijnmarkering aan de zijkant bij een na 31-12-2012 in gebruik genomen voertuig dat langer is dan 6 m en waarbij de som van de toegestane aslasten meer bedraagt dan 3500 kg | 5.12.51 RV |   |   |   |   |   |   |   |   |   |   |   | 95 |   |   |   |   |   |
+| N | 514 | r | – lijnmarkering aan de achterzijde bij een na 31-12-2012 in gebruik genomen voertuig dat breder is dan 2,10 m en langer is dan 6 m en waarbij de som van de toegestane aslasten meer bedraagt dan 3.500 kg | [5.12.51 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.51) |   |   |   |   |   |   |   |   |   |   |   | 95 |   |   |   |   |   |
+| N | 514 | s | – lijnmarkering aan de zijkant bij een na 31-12-2012 in gebruik genomen voertuig dat langer is dan 6 m en waarbij de som van de toegestane aslasten meer bedraagt dan 3.500 kg | 5.12.51 RV |   |   |   |   |   |   |   |   |   |   |   | 95 |   |   |   |   |   |
 | N | 515 |   | de verlichting/retroreflecterende voorzieningen niet de vereiste kleur hebben (cat 9 alleen retroreflectie) | 5.*.51-59 en [5.6.95 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.95) | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 | 55 | 55 | 55 | 140 | 140 | 140 | 140/95 | 55 | 55 |
 | N | 517 |   | de verlichting of retroreflectoren niet op de juiste plaats zijn bevestigd (cat 9 alleen retroreflectie) | 5.*.51-61 RV | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 | 35 | 35 | 35 | 95 | 95 | 95 | 95/65 | 35 | 35 |
 | N | 518 |   | de verlichte transparant(en) voldoet (voldoen) niet aan de eisen (niet afzonderlijk geschakeld/breder/langer dan voertuig) | 5.*.55 RV | 95 | 95 |   | 95 | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -9994,7 +10000,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 550 |   | de glazen van de verlichtingsarmaturen of de retroreflectoren niet aan de gestelde eisen voldoen (cat 9, 11, 16 en 17 alleen eisen rode retroreflectie) | 5.*.55 RV | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 | 35 | 35 | 35 | 95 | 95 | 95 | 95/65 | 35 | 35 |
 | N | 551 |   | de verlichtingsarmaturen of onderdelen daarvan niet deugdelijk zijn bevestigd (geldt ook voor niet verplichte verlichting) | 5.*.55 RV | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 |   | 35 |   | 95 | 95 | 95 | 95/65 |   |   |
 | N | 552 |   | de lichten of retroreflectoren voor meer dan 25% zijn afgeschermd (cat 9, 11, 16 en 17 alleen afscherming rode retroreflectie) | 5.*.55 RV | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 | 35 | 35 | 35 | 95 | 95 | 95 | 95/65 | 35 | 35 |
-| N | 559 |   | de mistvoorlichten niet goed zijn afgesteld conform het bepaalde in de artikelen 114a en 114b van de bijlage VIII | 5.*.59b RV | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
+| N | 559 |   | de mistvoorlichten niet goed zijn afgesteld conform het bepaalde in de artikelen 114a en 114b van de bijlage VIII van de RV | 5.*.59b RV | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 560 |   | de dimlichten niet aan de eisen voldoen | 5.*.51 RV jo. 5.*.56 RV (cat. 6: [5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.51), [5.6.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.53) en [5.6.55 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.55)) | 95 | 95 | 95 | 95 | 95 | 65 | 95 | 95 |   | 35 |   |   |   |   |   |   |   |
 | N | 620 |   | het niet is voorzien van een controlelampje of schakelaar met herkenbare stand (cat 4) voor ingeschakeld(e) mistachterlicht(en) | 5.*.62 RV | 45 | 45 | 45 | 45 | 45 |   | 45 | 45 |   | 15 |   |   |   |   |   |   |   |
 | N | 640 |   | het is voorzien van niet toegestane verblindende/ knipperende verlichting | 5.*.64 en [5.6.96 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.96) | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   |   | 55 | 140 | 140 | 140 | 140/95 | 55 | 55 |
@@ -10002,28 +10008,31 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | N | 651 |   | in het voertuig aanwezige lichten of objecten licht uitstralen naar de buitenzijde van het voertuig (cat. 3a niet van toepassing op binnenverlichting passagiersruimte bus) | 5.*.65 RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **11 – Verbinding tussen trekkend voertuig en aanhangwagen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 660 | a | de koppeling niet deugdelijk is (bevestigd) of niet voldoet aan de daaraan gestelde eisen | 5.*.66-70 en [5.6.98 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.98) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | N | 660 | b | de (hulp)koppeling, trekdriehoek, trekboom of onderdelen daarvan niet aanwezig is/zijn, deugdelijk is/zijn (bevestigd) of niet voldoet/voldoen aan de daaraan gestelde eisen | 5.*.66-70 RV |   |   |   |   |   |   |   |   |   |   |   | 240 | 240 | 240 |   |   |   |
 | N | 660 | c | de (middenas)aanhangwagen, die is voorzien van een losbreekreminrichting, tevens is voorzien van een hulpkoppeling | 5.*.66 RV |   |   |   |   |   |   |   |   |   |   |   | 95 | 95 | 95 |   |   |   |
-| N | 660 | d | de koppeling, dissel, of onderdelen daarvan niet deugdelijk is/zijn (bevestigd) of niet voldoet/voldoen aan de daaraan gestelde eisen | 5.15.66-70 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 240/160 |   |   |
+| N | 660 | d | de koppeling, dissel, of onderdelen daarvan niet deugdelijk is/zijn (bevestigd) of niet voldoet/voldoen aan de daaraan gestelde eisen | [5.15.66-70 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.15.66) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 240/160 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **12 – Diversen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | N | 710 | a | het niet is voorzien van een goed werkende geluidssignaalinrichting | 5.*.71 RV | 95 | 95 | 95 | 95 | 95 |   | 95 | 95 |   |   |   |   |   |   |   |   |   |
 | N | 710 | b | het niet is voorzien van een goed werkende bel of hoorn met vaste toonhoogte | 5.*.71 en [5.6.99 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.99) |   |   |   |   |   | 65 |   |   |   | 35 | 35 |   |   |   |   |   |   |
 | N | 710 | c | het niet is voorzien van een goed werkende bel | [5.9.71 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.9.71) |   |   |   |   |   |   |   |   | 35 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Gebruikseisen voertuigen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden (terwijl):** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | Als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden (terwijl): |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **0 – Algemeen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 001 |   | een verwisselbaar gedragen uitrustingsstuk wordt gebruikt terwijl dit niet is toegestaan (cat 3 uitsluitend toegestaan voor wegwerkzaamheden of gladheidsbestrijding) | [5.18.0 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.0) | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 001 |   | een verwisselbaar gedragen uitrustingsstuk wordt gebruikt terwijl dit niet is toegestaan (cat. 3 uitsluitend toegestaan voor wegwerkzaamheden of gladheidsbestrijding) | [5.18.0 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.0) | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 010 | a | meer dan één aanhangwagen wordt voortbewogen | [5.18.1 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.1) | 240 |   | 240 | 240 | 240 | 160 |   |   |   |   |   |   |   |   |   |   |   |
 | P | 010 | b | met de gelede bus een aanhangwagen wordt voortbewogen | 5.18.1 lid 2 RV |   |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 010 | c | met het gehandicaptenvoertuig een aanhangwagen wordt voortbewogen | 5.18.1 lid 3 RV |   |   |   |   |   |   |   |   |   | 55 | 55 |   |   |   |   |   |   |
 | P | 010 | d | met de motorfiets met onberemde zijspanwagen een aanhangwagen wordt voortbewogen | 5.18.1 lid 4 RV |   |   |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 010 | e | het samenstel van motorvoertuig en aanhangwagen meer dan twee draaipunten heeft | 5.18.1 lid 8 RV | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   |   |   |   |   |   |   |   |   |
-| P | 010 | f | met een motorvoertuig, niet zijnde een landbouw- of bosbouwtrekker of motorrijtuig met beperkte snelheid een landbouw- of bosbouwaanhangwagen of verwisselbaar getrokken uitrustingsstuk wordt voortbewogen | 5.18.1 lid 9 RV | 240 |   | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 010 | f | met een motorvoertuig, niet zijnde een land- of bosbouwtrekker of motorrijtuig met beperkte snelheid een land- of bosbouwaanhangwagen of verwisselbaar getrokken uitrustingsstuk wordt voortbewogen | 5.18.1 lid 9 RV | 240 |   | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 020 | a | met het motorvoertuig meer dan één motorvoertuig wordt gesleept | [5.18.2 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.2) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 020 | b | met het motorvoertuig een tweewielig motorvoertuig of samenstel van voertuigen wordt gesleept | 5.18.2 lid 6 RV | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 020 | c | met het tweewielig motorvoertuig, de gelede bus of het samenstel van voertuigen, een motorvoertuig wordt gesleept | 5.18.2 lid 7 RV | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   |   |   |   |   |   |   |   |   |
@@ -10035,16 +10044,13 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 031 |   | in dat voertuig, waarin vervoer van een passagier in rolstoel plaatsvindt losse voorwerpen, die het risico op letsel bij een noodstop, aanrijding of botsing kunnen verhogen, aanwezig zijn | 5.18.3 lid 2 RV | 240 | 240 | 240 |   | 240 | 160 |   |   |   | 95 |   |   |   |   |   |   |   |
 | P | 041 | a | de bestuurder niet voldoende zicht door de voorruit en/of de voorste zijruiten naar voren en opzij heeft | [5.18.4 aanhef en onder a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.4) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 |   | 95 |   |   |   |   |   |   |   |
 | P | 041 | b | de bestuurder met behulp van de voor dat voertuig of samenstel van voertuigen voorgeschreven spiegels of camera-monitorsysteem niet voldoende zicht heeft op het naast en/of achter hem gelegen weggedeelte | 5.18.4 aanhef en onder b RV | 140 | 140 | 140 | 140 | 140 | 95 | 140 | 140 |   | 55 |   |   |   |   |   |   |   |
-| P | 041 | c | de bestuurder niet voldoende zicht door de voorruit en de voorste zijruiten naar voren en opzij heeft en met behulp van de voor dat voertuig of samenstel van voertuigen voorgeschreven spiegels of camera-monitorsysteem niet voldoende zicht heeft op het naast en achter hem gelegen weggedeelte | 5.18.4 RV | 380 | 380 | 380 | 380 | 380 | 260 | 380 | 380 |   | 150 |   |   |   |   |   |   |   |
+| P | 041 | c | de bestuurder niet voldoende zicht door de voorruit en de voorste zijruiten naar voren en opzij heeft en met behulp van de voor dat voertuig of samenstel van voertuigen voorgeschreven spiegels of camera-monitorsysteem niet voldoende zicht heeft op het naast en achter hem gelegen weggedeelte | 5.18.4 RV | 390 | 390 | 390 | 390 | 390 | 270 | 390 | 390 |   | 150 |   |   |   |   |   |   |   |
 | P | 050 |   | het niet is voorzien van de vereiste buitenspiegels, indien het zicht door lading achter het voertuig of door een achter het voertuig gekoppelde aanhangwagen is beperkt | [5.18.5 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.5) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 | 95 | 95 |   |   |   |   |   |   |   |
 | P | 051 |   | de spiegels of gezichtsveldverbeterende voorzieningen niet zodanig zijn geplaatst dat de bestuurder in normale rijhouding de vereiste gezichtsvelden kan overzien | 5.18.5 lid 1 RV |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 052 |   | het gezichtsveld van de voor de landbouw- of bosbouwtrekker voorgeschreven spiegels wordt beperkt door verwisselbaar gedragen uitrustingsstuk(ken) of lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van verwisselbaar gedragen uitrustingsstuk(ken) of de lading en het voertuig niet is voorzien van een linker- onderscheidenlijk een rechterbuitenspiegel of cameramonitorsysteem waarmee de bestuurder ten minste een vlak weggedeelte van 10 m achter het voertuig kan overzien | 5.18.5 lid 3 jo. [5.8.46 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.8.46) |   |   |   |   |   |   |   | 240 |   |   |   |   |   |   |   |   |   |
-| P | 060 | a | voertuiggebonden lading, zoals voertuiguitrustingsstukken, voertuiggereedschappen of stuwagemiddelen niet zodanig is bevestigd dat deze niet van het voertuig kan vallen | [5.18.6 lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.6) | 380 | 380 | 380 | 380 | 380 | 260 | 380 | 380 | 150 | 150 | 150 | 380 | 380 | 380 | 380/260 | 150 | 150 |
-| P | 061 |   | de losse lading die naar haar aard niet op of aan het voertuig bevestigd kan worden niet deugdelijk is afgedekt terwijl gevaar of hinder is ontstaan of kan ontstaan als gevolg van afvallende of wegwaaiende lading | 5.18.6 lid 2 RV | 380 | 380 | 380 | 380 | 380 | 260 | 380 | 380 | 150 | 150 | 150 | 380 | 380 | 380 | 380/260 | 150 | 150 |
-| P | 062 |   | verwisselbare gedragen uitrustingsstukken, afneembare bovenbouwen, gestandaardiseerde laadstructuren of meeneemheftrucks niet deugdelijk bevestigd zijn met geschikte vastzetsystemen, zekeringssystemen of stuwagemiddelen | 5.18.6 lid 4 RV |   | 380 |   |   | 380 |   | 380 |   |   |   |   | 380 | 380 | 380 |   |   |   |
-| P | 063 |   | vastzetsystemen, zekeringssystemen, stuwagemiddelen of onderdelen hiervan niet goed functioneren dan wel niet geschikt zijn voor het doel waarvoor ze worden gebruikt | 5.18.6 lid 5 RV | 190 | 190 | 190 | 190 | 190 | 130 | 190 | 190 | 75 | 75 | 75 | 190 | 190 | 190 | 190/130 | 75 | 75 |
+| P | 052 |   | het gezichtsveld van de voor de land- of bosbouwtrekker voorgeschreven spiegels wordt beperkt door verwisselbaar gedragen uitrustingsstuk(ken) of lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van verwisselbaar gedragen uitrustingsstuk(ken) of de lading en het voertuig niet is voorzien van een linker- onderscheidenlijk een rechterbuitenspiegel of camera-monitorsysteem waarmee de bestuurder ten minste een vlak weggedeelte van 10 m achter het voertuig kan overzien | 5.18.5 lid 3 jo. 5.8.46 lid 1 RV |   |   |   |   |   |   |   | 240 |   |   |   |   |   |   |   |   |   |
+| P | 060 | a | voertuiggebonden lading, zoals voertuiguitrustingsstukken, voertuiggereedschappen of stuwagemiddelen niet zodanig is bevestigd dat deze niet van het voertuig kan vallen | [5.18.6 lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.6) | 390 | 390 | 390 | 390 | 390 | 270 | 390 | 390 | 150 | 150 | 150 | 390 | 390 | 390 | 390/270 | 150 | 150 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **bij het vervoer van goederen aan de achterzijde van een personenauto, bedrijfsauto met een toegestane maximum massa van niet meer dan 3500 kg of een driewielig motorrijtuig** | [5.18.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **bij het vervoer van goederen aan de achterzijde van een personenauto, bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg of een driewielig motorrijtuig** | [5.18.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | a | – de goederen niet deugdelijk zijn bevestigd op, in of aan een deugdelijke lastdrager |   | 140 | 140 | 140 |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | b | – de lastdrager niet deugdelijk is bevestigd |   | 140 | 140 | 140 |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | c | – de lastdrager inclusief lading meer dan 0,20 m buiten de zijkanten uitsteekt |   | 140 | 140 | 140 |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -10054,14 +10060,17 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 070 | g | – de koppelingsdruk van de op de trekhaak bevestigde lastdrager meer bedraagt dan voorgeschreven of meer bedraagt dan 75 kg |   | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | h | – de lastdrager het wegdek kan raken |   | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | i | – de achtergebleven bevestigingsdelen van de lastdrager de bewegingsvrijheid van een aangekoppelde aanhangwagen beperken |   | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 061 |   | de losse lading die naar haar aard niet op of aan het voertuig bevestigd kan worden niet deugdelijk is afgedekt terwijl gevaar of hinder is ontstaan of kan ontstaan als gevolg van afvallende of wegwaaiende lading | 5.18.6 lid 2 RV | 390 | 390 | 390 | 390 | 390 | 270 | 390 | 390 | 150 | 150 | 150 | 390 | 390 | 390 | 390/270 | 150 | 150 |
+| P | 062 |   | verwisselbare gedragen uitrustingsstukken, afneembare bovenbouwen, gestandaardiseerde laadstructuren of meeneemheftrucks niet deugdelijk bevestigd zijn met geschikte vastzetsystemen, zekeringssystemen of stuwagemiddelen | 5.18.6 lid 4 RV |   | 390 |   |   | 390 |   | 390 |   |   |   |   | 390 | 390 | 390 |   |   |   |
+| P | 063 |   | vastzetsystemen, zekeringssystemen, stuwagemiddelen of onderdelen hiervan niet goed functioneren dan wel niet geschikt zijn voor het doel waarvoor ze worden gebruikt | 5.18.6 lid 5 RV | 190 | 190 | 190 | 190 | 190 | 130 | 190 | 190 | 75 | 75 | 75 | 190 | 190 | 190 | 190/130 | 75 | 75 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **bij het vervoer van goederen op het dak van een personenauto, bedrijfsauto met een toegestane maximum massa van niet meer dan 3500 kg of een driewielig motorrijtuig** | 5.18.7 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **bij het vervoer van goederen op het dak van een personenauto, bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg of een driewielig motorrijtuig** | 5.18.7 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | j | – de goederen niet deugdelijk zijn bevestigd op, in of aan een deugdelijke lastdrager |   | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | k | – de lastdrager niet deugdelijk is bevestigd |   | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | l | – de maximale daklast wordt overschreden |   | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 070 | m | – meer specifieke goederen worden vervoerd dan waarvoor de lastdrager is geconstrueerd |   | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **bij het vervoer van glas, plaatmateriaal of soortgelijke goederen aan één of beide zijkanten van een bedrijfsauto of aanhangwagen met een toegestane maximum massa van niet meer dan 3500 kg** | 5.18.7 lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **bij het vervoer van glas, plaatmateriaal of soortgelijke goederen aan één of beide zijkanten van een bedrijfsauto of aanhangwagen met een toegestane maximummassa van niet meer dan 3.500 kg** | 5.18.7 lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 071 | a | – de lading niet deugdelijk is bevestigd op, in of aan een deugdelijke lastdrager |   |   | 140 |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
 | P | 071 | b | – de lastdrager niet deugdelijk is bevestigd |   |   | 140 |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
 | P | 071 | c | – de lastdrager met inbegrip van de lading meer dan 0,35 m buiten de zijkanten van het voertuig uitsteekt en/of de totale breedte van het voertuig inclusief de lastdrager en de lading meer bedraagt dan 2,75 m |   |   | 140 |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
@@ -10073,24 +10082,25 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 083 |   | een deel van de buitenzijde van het verwisselbare uitrustingsstuk zodanig is bevestigd, beschadigd, versleten of door corrosie aangetast dat gevaar bestaat voor losraken | 5.18.8 lid 3 RV |   | 240 |   |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 090 |   | de opgeklapte opklapbare delen aan de buitenzijde van het voertuig niet deugdelijk zijn vergrendeld | [5.18.9 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.9) | 240 | 240 | 240 | 240 | 240 | 160 | 240 | 240 | 95 | 95 | 95 | 240 | 240 | 240 | 240/160 | 95 | 95 |
 | P | 091 |   | het niet voor gebruik op de weg noodzakelijke opklapbare deel of delen van het verwisselbare uitrustingsstuk tijdens het transport niet deugdelijk in opgeklapte toestand is/zijn vergrendeld | 5.18.9 lid 2 RV |   | 240 |   |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
-| P | 100 | a | de aanhangwagen, met een toegestane maximum massa van niet meer dan 750 kg, niet is voorzien van het kenteken van het trekkend motorvoertuig | [5.18.10 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.10) |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   | 140/95 |   |   |
-| P | 100 | b | de aanhangwagen, met een toegestane maximum massa van niet meer dan 750 kg, niet is voorzien van een deugdelijk bevestigde, goed leesbare, niet afgeschermde en van een goedkeuringsmerk voorziene, kentekenplaat | 5.18.10 lid 3-4 RV |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   | 140/95 |   |   |
-| P | 100 | c | de aanhangwagen, met een toegestane maximum massa van meer dan 750 kg, afkomstig uit een land waar voor deze aanhangwagens geen afzonderlijk kenteken is opgegeven, niet is voorzien van het kenteken van het trekkend motorvoertuig | 5.18.10 lid 1 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 100 | d | de aanhangwagen met een toegestane maximum massa van meer dan 750 kg, afkomstig uit een land waar voor deze aanhangwagens geen afzonderlijk kenteken is opgegeven, niet is voorzien van een deugdelijk bevestigde, goed leesbare, niet afgeschermde en van een goedkeuringsmerk voorziene, kentekenplaat gelijk aan trekkend voertuig | 5.18.10 lid 3-4 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 100 | a | de aanhangwagen, met een toegestane maximummassa van niet meer dan 750 kg, niet is voorzien van het kenteken van het trekkend motorvoertuig | [5.18.10 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.10) |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   | 140/95 |   |   |
+| P | 100 | b | de aanhangwagen, met een toegestane maximummassa van niet meer dan 750 kg, niet is voorzien van een deugdelijk bevestigde, goed leesbare, niet afgeschermde en van een goedkeuringsmerk voorziene, kentekenplaat | 5.18.10 lid 3-4 RV |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   | 140/95 |   |   |
+| P | 100 | c | de aanhangwagen, met een toegestane maximummassa van meer dan 750 kg, afkomstig uit een land waar voor deze aanhangwagens geen afzonderlijk kenteken is opgegeven, niet is voorzien van het kenteken van het trekkend motorvoertuig | 5.18.10 lid 1 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 100 | d | de aanhangwagen met een toegestane maximummassa van meer dan 750 kg, afkomstig uit een land waar voor deze aanhangwagens geen afzonderlijk kenteken is opgegeven, niet is voorzien van een deugdelijk bevestigde, goed leesbare, niet afgeschermde en van een goedkeuringsmerk voorziene, kentekenplaat gelijk aan trekkend voertuig | 5.18.10 lid 3-4 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **1 – Afmetingen en massa's** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Noot afmetingen:**Als bij ondeelbare lading meer dan één afmeting wordt overschreden, dan wordt uitsluitend proces-verbaal opgemaakt terzake de afmeting die het meest wordt overschreden. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | De overige overschrijdingen worden als bevinding eveneens in het proces-verbaal vermeld. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Lengte samenstel (onbeladen), c.q. indien geen sprake is van uitstekende lading** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **Noot:** – Lengte opleggertrekker met oplegger max. 16,50 m; – bedrijfsauto/bus met aanhangwagen max.18,75 m; – personenauto/ driewielig motorvoertuig met aanhangwagen max. 18 m; samenstel kermis- /circusvoertuigen max. 24 m; – rijdend werktuig met aanhangwagen max. 20 m; land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare getrokken machines max. 18,75 m; – land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare gedragen uitrustingsstukken machines max.18,75 m; – indien het een verwisselbaar getrokken uitrustingsstuk betreft dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig lengte samenstel max. 12 m. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Noot afmetingen:** Als bij ondeelbare lading meer dan één afmeting wordt overschreden, dan wordt uitsluitend proces-verbaal opgemaakt terzake de afmeting die het meest wordt overschreden. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | De overige overschrijdingen worden als bevinding eveneens in het proces-verbaal vermeld. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | Lengte samenstel (onbeladen), c.q. indien geen sprake is van uitstekende lading |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **Noot:**Lengte opleggertrekker met oplegger max. 16,50 m; bedrijfsauto/bus met aanhangwagen max. 18,75 m; personenauto/driewielig motorvoertuig met aanhangwagen max. 18 m; samenstel kermis-/circusvoertuigen max. 24 m; rijdend werktuig met aanhangwagen max. 20 m; land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare getrokken machines max. 18,75 m; land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare gedragen uitrustingsstukken machines max.18,75 m; indien het een verwisselbaar getrokken uitrustingsstuk betreft dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig lengte samenstel max. 12 m. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de maximum toegestane lengte van het samenstel van voertuigen wordt overschreden, met een overschrijding** | [5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) en [5.18.20 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.20) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 111 | a | – t/m 0,25 m |   | 280 | 280 | 280 |   | 280 |   | 280 | 280 |   |   |   |   |   |   |   |   |   |
 | P | 111 | f | het uitschuifbare voertuig, waarvan de uitgeschoven delen niet zijn voorzien van zijdelingse afscherming als bedoeld in artikel 5.12.48, 5e lid, in onbeladen toestand niet geheel is ingeschoven | 5.18.11 lid 11 RV |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Lengte deelbaar; uitstekende lading voorzijde** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 120 | aa | de lading voor het voertuig uitsteekt (geldt niet voor kermis- en circusvoertuigen) | [5.18.12 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12), [5.18.21 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.21) | 140 | 140 |   |   | 140 |   | 140 | 140 |   |   |   | 140 | 140 |   |   |   |   |
+| P | 120 | aa | de lading voor het voertuig uitsteekt (geldt niet voor kermis- en circusvoertuigen) | [5.18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) en [5.18.21 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.21) | 140 | 140 |   |   | 140 |   | 140 | 140 |   |   |   | 140 | 140 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Lengte deelbaar; uitstekende lading achterzijde** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -10114,26 +10124,26 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 124 | e | – het zicht op de verlichting, de retroreflectoren of de richtingaanwijzers door een verwisselbaar gedragen uitrustingsstuk wordt belemmerd |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 124 | f | – het verwisselbaar gedragen uitrustingsstuk dat voor of achter het voertuig meer dan 1 m uitsteekt niet is voorzien van een markering die aan de gestelde eisen voldoet |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de lading meer dan 1 m achter het voertuig en/of meer dan 5 m achter het hart van de achterste as van het voertuig uitsteekt en/of de vereiste stootbalk, voor het na 01-01-1996 in gebruik genomen voertuig, meer dan 0,60 m van de uiterste achterzijde is aangebracht, terwijl de afstand van de lading tot het wegdek meer bedraagt dan 0,55 m (stootbalk uitsluitend cat. 12, particulier gebruik), een overschrijding** | 5.18.12 en 5.18.21 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de lading meer dan 1 m achter het voertuig en/of meer dan 5 m achter het hart van de achterste as van het voertuig uitsteekt en/of de vereiste stootbalk, voor het na 01-01-1996 in gebruik genomen voertuig, meer dan 0,60 m van de uiterste achterzijde is aangebracht, terwijl de afstand van de lading tot het wegdek meer bedraagt dan 0,55 m (stootbalk uitsluitend cat 12, particulier gebruik), een overschrijding** | 5.18.12 en 5.18.21 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 121 | j | – t/m 0,75 m |   | 140 |   |   |   | 140 |   | 140 | 140 |   |   |   | 140 | 140 | 140 |   |   |   |
 | P | 121 | k | – van meer dan 0,75 m |   | 210 |   |   |   | 210 |   | 210 | 210 |   |   |   | 210 | 210 | 210 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de aan de achterzijde van het voertuig bevestigde meeneemheftruck meer dan 1,20 m achter het voertuig uitsteekt of indien een verklaring is afgegeven dat de aslasten en de last onder de koppeling van het voertuig bij belading met uitsluitend de meeneemheftruck voldoen aan de wettelijke eisen meer dan 1,50 m achter het voertuig uitsteekt** | 5.18.12 lid 6 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 121 | l | – t/m 0,25 m |   |   | 280 |   |   |   |   |   |   |   |   |   | 280 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de lading van een samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, dat is ingericht voor het vervoer van voertuigen,** | 5.18.13 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de lading van een samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, dat is ingericht voor het vervoer van voertuigen** | 5.18.13 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 130 | f | – meer dan 2 m achter de aanhangwagen en/of meer dan 5 m achter het hart van de achterste as van de aanhangwagen uitsteekt |   |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
 | P | 130 | g | – meer dan 0,50 m voor de voorzijde van de bedrijfsauto uitsteekt |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 130 | h | – die meer dan 1 m achter het voertuig uitsteekt, aan de achterzijde niet is voorzien van een markering die voldoet aan de eisen |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **het samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading dat is ingericht voor het vervoer van voertuigen, langer is dan 20,75 m een overschrijding** | 5.18.13 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **het samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading dat is ingericht voor het vervoer van voertuigen, langer is dan 20,75 m, een overschrijding** | 5.18.13 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 130 | i | – t/m 0,25 m |   |   | 280 |   |   |   |   |   |   |   |   |   | 280 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de lengte van het voertuig met inbegrip van één of meer verwisselbare gedragen uitrustingsstukken meer bedraagt dan de maximum toegestane lengte van het voertuig, een overschrijding** | 5.18.21a RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de lengte van het voertuig met inbegrip van één of meer verwisselbare gedragen uitrustingsstukken meer bedraagt dan de maximum toegestane lengte van het voertuig, een overschrijding** | [5.18.21a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.21a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 211 | a | – t/m 0,75 m |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
 | P | 211 | b | – van meer dan 0,75 m |   |   |   |   |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **bij het voertuig dat is voorzien van één of meer verwisselbare gedragen uitrustingsstukken** | [5.18.21a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.21a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **bij het voertuig dat is voorzien van één of meer verwisselbare gedragen uitrustingsstukken** | 5.18.21a RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 211 | c | – de/het verwisselbare uitrustingsstuk(ken) niet zoveel mogelijk is/zijn ingeschoven, ingetrokken, in- of opgeklapt en/of deugdelijk vergrendeld |   |   |   |   |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 211 | d | – lading rust op een verwisselbaar uitrustingsstuk die niet is gerelateerd aan de functie van het verwisselbare uitrustingsstuk |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
 | P | 211 | e | – het zicht op de verlichting, de retroreflectoren of de richtingaanwijzers aan de achterzijde door een verwisselbaar uitrustingsstuk wordt belemmerd |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
@@ -10142,7 +10152,7 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Lengte; ondeelbare lading** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de in lengte ondeelbare lading aan de voorzijde van een bedrijfsauto met een toegestane maximum massa van meer dan 3500 kg, niet zijnde een kermis- of circusvoertuig, meer dan 4,30 m voor het hart van de voorste as uitsteekt, een overschrijding** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de in lengte ondeelbare lading aan de voorzijde van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg, niet zijnde een kermis- of circusvoertuig, meer dan 4,30 m voor het hart van de voorste as uitsteekt, een overschrijding** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 130 | n | – t/m 0,25 m |   |   | 280 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de in lengte ondeelbare lading van het voertuig of samenstel van voertuigen, niet zijnde een samenstel van kermis- of circusvoertuigen** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -10150,14 +10160,14 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 130 | d | – die meer dan 1 m voor of achter het voertuig uitsteekt aan de voor- of achterzijde niet is voorzien van een markering die aan de eisen voldoet |   |   | 140 |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de met in lengte ondeelbare lading beladen opleggertrekker en oplegger, met inbegrip van de lading, langer is dan 22 m, een overschrijding:** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 130 | ea | – 0,25 m te lang |   |   | 280 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 130 | ea | – t/m 0,25 m |   |   | 280 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de uitsteek van de in lengte ondeelbare lading achter het hart van de achterste as meer dan 0,5 maal de lengte van een bedrijfsauto met een toegestane maximummassa van meer dan 3500 kg of een aanhangwagen en/of meer dan van 5 m bedraagt of bij een oplegger de uitsteek van de lading achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt (categorie 12 en 13 bedrijfsmatig gebruik), een overschrijding** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de uitsteek van de in lengte ondeelbare lading achter het hart van de achterste as meer dan 0,5 maal de lengte van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een aanhangwagen en/of meer dan van 5 m bedraagt of bij een oplegger de uitsteek van de lading achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt (categorie 12 en 13 bedrijfsmatig gebruik), een overschrijding** | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 131 | a | – t/m 0,25 m |   |   | 280 |   |   |   |   |   |   |   |   |   | 280 | 280 |   |   |   |   |
 | P | 131 | f | de uitsteek van de in lengte ondeelbare lading achter het hart van de achterste as meer dan 0,5 maal de lengte van een aanhangwagen en/of meer dan 5 m bedraagt of bij een oplegger de uitsteek van de lading achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m (categorie 12 en 13 particulier gebruik) | 5.18.13 RV |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
-| P | 131 | i | de in lengte ondeelbare lading bij een personenauto, een bedrijfsauto met een toegestane maximummassa van niet meer dan 3500 kg of een driewielig motorrijtuig aan de voor- en/of achterzijde van het voertuig meer dan 1 m uitsteekt | 5.18.13 RV | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 131 | i | de in lengte ondeelbare lading bij een personenauto, een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg of een driewielig motorrijtuig aan de voor- en/of achterzijde van het voertuig meer dan 1 m uitsteekt | 5.18.13 RV | 140 | 140 |   |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de in lengte ondeelbare lading van het voertuig of samenstel van voertuigen** | [5.18.21 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.21) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de in lengte ondeelbare lading van het voertuig of samenstel van voertuigen** | 5.18.21 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 210 | e | – meer dan 3,50 m voor het hart van het stuurwiel van het voertuig uitsteekt |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
 | P | 210 | f | – meer dan 1 m voor en/of achter het voertuig uitsteekt, terwijl de voor-/ en of achterzijde niet is voorzien van de vereiste markering |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
 | P | 210 | g | – meer dan 5 m achter het hart van de achterste as van het voertuig uitsteekt |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
@@ -10166,15 +10176,17 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 190 | c | de afstand van de achteras van het trekkende voertuig tot de achterzijde van de aanhangwagen, met inbegrip van de lading, meer bedraagt dan 2,50 m | [5.18.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.19), [5.18.27 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.27) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140/95 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Breedte; lading** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Noot:** De feitcodeserie P 141 geldt voor de categorieën 7, 8 en 14 voor alle lading. Bij deze categorieën wordt geen onderscheid gemaakt tussen deelbare en ondeelbare lading. Voor de overige categorieën betreft het uitsluitend deelbare lading. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 140 | d | de lading of het verwisselbare gedragen uitrustingsstuk die meer dan 0,10 m buiten de zijkant van het voertuig uitsteekt, niet is voorzien van de vereiste markering (geldt niet voor lading op driewielige motorrijtuigen of voor lading op personenauto’s) | [5.18.14 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14) en [5.18.22 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.22) |   | 140 |   |   | 140 |   | 140 | 140 |   |   |   | 140 | 140 | 140 |   |   |   |
-| P | 140 | e | de lading meer dan 0,20 m buiten de zijkant(en) van het voertuig uitsteekt (cat 5; cat 4 motor op 2 wielen) | 5.18.14 en 5.18.19 RV | 140 |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 140 | e | de lading meer dan 0,20 m buiten de zijkant(en) van het voertuig uitsteekt (cat. 5; cat. 4 motor op 2 wielen) | 5.18.14 en 5.18.19 RV | 140 |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **het voertuig met inbegrip van de (deelbare) lading of verwisselbaar gedragen uitrustingsstuk de maximum toegestane breedte overschrijdt, een overschrijding** | 5.18.14 lid 1 en 5.18.22 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 141 | a | – t/m 0,20 m |   | 280 | 280 | 280 |   | 280 |   | 280 | 280 |   |   |   | 280 | 280 | 280 |   |   |   |
 | P | 260 | a | de bromfiets op twee wielen met inbegrip van de lading breder is dan 1 m | [5.18.26 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.26) |   |   |   |   |   | 95 |   |   |   |   |   |   |   |   |   |   |   |
-| P | 260 | b | het voertuig met inbegrip van de lading breder is dan 2 m (cat 6 bromfiets > 2 wielen) | 5.18.26 lid 2 en 5.18.19 lid 2 RV |   |   |   |   |   | 95 |   |   |   |   |   |   |   |   | 140/- |   |   |
-| P | 270 | a | de aangekoppelde aanhangwagen met inbegrip van de lading breder is dan 1 m | 5.18.27 en [5.18.29 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.29) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | -/95 | 55 |   |
+| P | 260 | b | het voertuig met inbegrip van de lading breder is dan 2 m (cat. 6 bromfiets > 2 wielen) | 5.18.26 lid 2 en [5.18.19 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.19) |   |   |   |   |   | 95 |   |   |   |   |   |   |   |   | 140/- |   |   |
+| P | 270 | a | de aangekoppelde aanhangwagen met inbegrip van de lading breder is dan 1 m | [5.18.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.27) en [5.18.29 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.29) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | -/95 | 55 |   |
 | P | 280 | a | de fiets op twee wielen met inbegrip van de lading breder is dan 0,75 m | [5.18.28 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.28) |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   |   |
 | P | 280 | b | de fiets op meer dan twee wielen of voorzien van een zijspanwagen met inbegrip van de lading breder is dan 1,50 m | 5.18.28 lid 2 RV |   |   |   |   |   |   |   |   | 55 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -10184,133 +10196,136 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 300 | c | – in bespannen toestand breder is dan 2,60 m of indien de lading bestaat uit losse veldgewassen breder is dan 3,50 m | 5.18.30 lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 80 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Hoogte** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 270 | b | de aangekoppelde aanhangwagen met inbegrip van de lading hoger is dan 1 m | 5.18.19 en 5.18.27 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140/95 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **het voertuig met inbegrip van de lading** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 270 | b | de aangekoppelde aanhangwagen met inbegrip van de lading hoger is dan 1 m | 5.18.19 en 5.18.27 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140/95 |   |   |
+|   |   |   | het voertuig met inbegrip van de lading |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 300 | d | – hoger is dan 2 m | 5.18.30 lid 4 RV |   |   |   |   |   |   |   |   |   | 35 | 35 |   |   |   |   |   |   |
 | P | 300 | e | – hoger is dan 4 m | 5.18.30 lid 5 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 110 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Massa** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **Noot** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | De onderstaande feiten, die betrekking hebben op de massa of de last onder wiel of as zijn niet van toepassing indien sprake is van beroepsmatig vervoer met een vrachtauto, in de zin van de Wet wegvervoer goederen, met een laadvermogen van meer dan 500 kg. Hierop zijn de feitcodeseries E 850 t/m E 856 van toepassing. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | De onderstaande feiten, die betrekking hebben op de massa of de last onder wiel of as zijn niet van toepassing indien sprake is van beroepsmatig vervoer met een vrachtauto, in de zin van de Wet wegvervoer goederen, met een laadvermogen van meer dan 500 kg. Hierop zijn de feitcodeseries E 850 t/m E 858 van toepassing. |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde toegestane maximum massa (van het samenstel) wordt overschreden, een overschrijding met** | [5.18.17a, b en c alle lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | a | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   | 140 |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 171 | b | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   | 210 |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 171 | c | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   | 310 |   |   |   |   |   |   | 310 |   |   |   |   |   |
+|   |   |   | **de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde toegestane maximummassa (van het samenstel) wordt overschreden, een overschrijding met** | [5.18.17a, b en c alle lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | a | – meer dan 10% t/m 25% |   |   | 140 | 140 |   | 140 |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 171 | b | – meer dan 25% t/m 50% |   |   | 210 | 210 |   | 210 |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 171 | c | – meer dan 50% t/m 75% |   |   | 310 | 310 |   | 310 |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **geen toegestane maximummassa op de kentekencard, het kentekenbewijs of in het kentekenregister is vermeld dan wel de bedrijfsauto of bus niet in Nederland is geregistreerd en de massa of de som van de aslasten meer bedraagt dan:** **a. 50.000 kg of bij een rijdend werktuig 60.000 kg;** **b. de technisch toegestane maximum massa;** **c. vijfmaal de toegestane maximum last onder de aangedreven as(sen);** **d. de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,00368 kW/kg,** **een overschrijding met** | [5.18.17a en b beide lid 2 en 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17b) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | e | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | f | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | g | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **geen toegestane maximummassa op de kentekencard, het kentekenbewijs of in het kentekenregister is vermeld dan wel de bedrijfsauto of bus niet in Nederland is geregistreerd en de massa of de som van de aslasten meer bedraagt dan: a. 50.000 kg of bij een rijdend werktuig 60.000 kg; b. de technisch toegestane maximummassa; c. vijfmaal de toegestane maximumlast onder de aangedreven as(sen); d. de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,00368 kW/kg, een overschrijding met** | 5.18.17a en b beide lid 2 en 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | e | – meer dan 10% t/m 25% |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | f | – meer dan 25% t/m 50% |   |   | 210 | 210 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | g | – meer dan 50% t/m 75% |   |   | 310 | 310 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de som van de aslasten van de middenasaanhangwagen of oplegger in combinatie met een positieve last onder de koppeling van het voertuig in beladen toestand meer bedraagt dan de toegestane maximum massa, een overschrijding met** | [5.18.17c lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | j | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 171 | k | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 171 | l | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+|   |   |   | **de som van de aslasten van de middenasaanhangwagen of oplegger in combinatie met een positieve last onder de koppeling van het voertuig in beladen toestand meer bedraagt dan de toegestane maximummassa, een overschrijding met** | [5.18.17c lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | j | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 171 | k | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 171 | l | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **op de kentekencard of het kentekenbewijs van de middenasaanhangwagen of in het kentekenregister geen toegestane maximum massa is vermeld dan wel de middenasaanhangwagen niet in Nederland is geregistreerd en de massa of de som van de aslasten in combinatie met een positieve last onder de koppeling in beladen toestand meer bedraagt dan 20.000 kg of meer bedraagt dan 24.000 kg bij een middenasaanhangwagen die voorzien is van gasvering of als gelijkwaardig aangemerkte vering en is voorzien van drie assen, een overschrijding met** | 5.18.17c lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | n | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 171 | o | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 171 | p | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+|   |   |   | **op de kentekencard of het kentekenbewijs van de middenasaanhangwagen of in het kentekenregister geen toegestane maximummassa is vermeld dan wel de middenasaanhangwagen niet in Nederland is geregistreerd en de massa of de som van de aslasten in combinatie met een positieve last onder de koppeling in beladen toestand meer bedraagt dan 20.000 kg of meer bedraagt dan 24.000 kg bij een middenasaanhangwagen die voorzien is van gasvering of als gelijkwaardig aangemerkte vering en is voorzien van drie assen, een overschrijding met** | 5.18.17c lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 171 | n | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 171 | o | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 171 | p | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de massa niet op de voorgeschreven wijze kan worden vastgesteld en de massa meer bedraagt dan 750 kg, een overschrijding met** | 5.18.17c lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 171 | s | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |
-| P | 171 | t | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |
-| P | 171 | v | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |
+| P | 171 | s | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |
+| P | 171 | t | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |
+| P | 171 | v | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de op het kentekenbewijs of de in het kentekenregister vermelde toegestane maximum last van enige as of asstel wordt overschreden, een overschrijding met** | [5.18.17d en e beide lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17d) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 172 | a | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 172 | b | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 172 | c | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+|   |   |   | **de op het kentekenbewijs of de in het kentekenregister vermelde toegestane maximumlast van enige as of asstel wordt overschreden, een overschrijding met** | [5.18.17d en e beide lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17d) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 172 | a | – meer dan 10% t/m 25% |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 172 | b | – meer dan 25% t/m 50% |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 172 | c | – meer dan 50% t/m 75% |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **geen waarde op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of in het kentekenregister is vermeld dan wel het voertuig niet in Nederland is geregistreerd en de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger meer bedraagt dan in één van de in artikel 5.18.17 g lid 2 RV voor dat voertuig van toepassing zijnde waarden, een overschrijding met** | [5.18.17d lid 2 en e lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17e) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 172 | e | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 172 | f | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 172 | g | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+|   |   |   | **geen waarde op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of in het kentekenregister is vermeld dan wel het voertuig niet in Nederland is geregistreerd en de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger meer bedraagt dan in één van de in artikel 5.18.17g lid 2 RV voor dat voertuig van toepassing zijnde waarden, een overschrijding met** | 5.18.17d en e beide lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 172 | e | – meer dan 10% t/m 25% |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 172 | f | – meer dan 25% t/m 50% |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 172 | g | – meer dan 50% t/m 75% |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **het voertuig zodanig is beladen dat de op de kentekencard, in het Nederlandse kentekenbewijs of de in het kentekenregister van de aanhangwagen vermelde toegestane maximumlast onder de koppeling wordt overschreden, een overschrijding met** | [5.18.17f lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17f) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 172 | j | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 172 | k | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 172 | l | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+| P | 172 | j | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 172 | k | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 172 | l | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of de in het kentekenregister vermelde toegestane maximum te trekken massa van de aanhangwagen of het samenstel van dolly en oplegger wordt overschreden of de som van de aslasten meer bedraagt dan de vermelde toegestane maximum te trekken massa, een overschrijding met** | [5.18.17g lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 172 | n | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 172 | o | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 172 | p | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+| P | 172 | n | – meer dan 10% t/m 25% |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 172 | o | – meer dan 25% t/m 50% |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 172 | p | – meer dan 50% t/m 75% |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger van het niet in Nederland geregistreerde voertuig meer bedraagt dan in één van de in artikel 5.18.17g lid 2 RV voor dat voertuig van toepassing zijnde waarden, een overschrijding met** | 5.18.17g lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 173 | a | – meer dan 10 % t/m 25 % |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
-| P | 173 | b | – meer dan 25 % t/m 50 % |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
-| P | 173 | c | – meer dan 50 % t/m 75 % |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
+| P | 173 | a | – meer dan 10% t/m 25% |   |   | 140 | 140 |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 173 | b | – meer dan 25% t/m 50% |   |   | 210 | 210 |   |   |   |   |   |   |   |   | 210 |   |   |   |   |   |
+| P | 173 | c | – meer dan 50% t/m 75% |   |   | 310 | 310 |   |   |   |   |   |   |   |   | 310 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de toegestane maximum last van enige as, de last onder de koppeling, de toegestane maximummassa of de som van de aslasten meer bedraagt dan de toegestane maximummassa, een overschrijding met** | [5.18.17h lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17h) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 173 | e | – meer dan 10 % t/m 25 % |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 173 | f | – meer dan 25 % t/m 50 % |   | 210 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 173 | g | – meer dan 50 % t/m 75 % |   | 310 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 174 |   | meer passagiers worden vervoerd dan op de kentekencard, het kentekenbewijs of in het kentekenregister, dan wel op de plaat als bedoeld in art. 5.3a.1 RV is vermeld of indien dit niet is vermeld het aantal passagiers meer bedraagt dan de toegestane maximummassa verminderd met de massa in rijklare toestand gedeeld door 68 kg | 5.18.17h lid 2 RV |   |   | 380 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de toegestane maximumlast van enige as, de last onder de koppeling, de toegestane maximummassa of de som van de aslasten meer bedraagt dan de toegestane maximummassa, een overschrijding met** | [5.18.17h lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17h) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 173 | e | – meer dan 10% t/m 25% |   | 140 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 173 | f | – meer dan 25% t/m 50% |   | 210 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 173 | g | – meer dan 50% t/m 75% |   | 310 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 174 |   | meer passagiers worden vervoerd dan op de kentekencard, het kentekenbewijs of in het kentekenregister, dan wel op de plaat als bedoeld in art. 5.3a.1 RV is vermeld of indien dit niet is vermeld het aantal passagiers meer bedraagt dan de toegestane maximummassa verminderd met de massa in rijklare toestand gedeeld door 68 kg | 5.18.17h lid 2 RV |   |   | 390 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de totale massa of de som van de aslasten van de aanhangwagen meer bedraagt dan de maximum massa die volgt uit het op de koppeling van het trekkend voertuig (toegestane massa max. 3500 kg) aangebrachte identificatiekenmerk of goedkeuringsmerk, of indien zo'n merk niet aanwezig is, de massa meer bedraagt dan 750 kg en meer dan de ledige massa van het trekkend motorvoertuig en meer dan de massa in rijklare toestand van het trekkend motorrijtuig, een overschrijding met** | [5.18.18 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 180 | e | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
-| P | 180 | f | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
-| P | 180 | g | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
+|   |   |   | **de totale massa of de som van de aslasten van de aanhangwagen meer bedraagt dan de maximummassa die volgt uit het op de koppeling van het trekkend voertuig (toegestane massa max. 3.500 kg) aangebrachte identificatiekenmerk of goedkeuringsmerk, of indien zo'n merk niet aanwezig is, de massa meer bedraagt dan 750 kg en meer dan de ledige massa van het trekkend motorvoertuig en meer dan de massa in rijklare toestand van het trekkend motorrijtuig, een overschrijding met** | [5.18.18 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 180 | e | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
+| P | 180 | f | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
+| P | 180 | g | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
 | P | 181 | a | de last onder de bestuurde as(sen) van een motorvoertuig (in beladen toestand) minder bedraagt dan 1/5 deel van de massa van het voertuig in beladen toestand | [5.18.24 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.24) | 240 | 240 | 240 |   | 240 |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 181 | b | de last onder de bestuurde as(sen) van een gelede bus minder bedraagt dan 1/5 deel van de massa van het voorste deel van het motorrijtuig in beladen toestand | 5.18.18 lid 2 RV |   |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 181 | c | de last onder de gestuurde as(sen), niet zijnde zelfsturende assen, van autonome aanhangwagens in beladen toestand (of samenstellen van dolly en oplegger in beladen toestand), minder bedraagt dan 1/5 deel van de massa van de aanhangwagen in beladen toestand (of het samenstel van dolly en oplegger in beladen toestand) | 5.18.18 en 5.18.24 RV |   |   |   |   |   |   |   |   |   |   |   | 240 | 240 | 240 |   |   |   |
 | P | 181 | d | de last onder de koppeling van opleggers in beladen toestand minder bedraagt dan 1/5 deel van de massa van de oplegger in beladen toestand | 5.18.18 lid 4 RV |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
 | P | 190 | b | de totale massa van de aanhangwagen meer bedraagt dan de helft van de ledige massa van het trekkende voertuig | [5.18.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.19), [5.18.27 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.27) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140/95 |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de totale massa van** **a. de aanhangwagen met een bedrijfsrem of;** **b. de som van de aslasten van de autonome aanhangwagen met een bedrijfsrem of;** **c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen met een bedrijfsrem;** **achter een personenauto meer bedraagt dan de laagste van in artikel 5.18.18a, lid 1, RV vermelde waarden dan wel de massa meer bedraagt dan 3500 kg, een overschrijding met** | [5.18.18a lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 185 | a | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
-| P | 185 | b | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
-| P | 185 | c | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
+|   |   |   | **de totale massa van a. de aanhangwagen met een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen met een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen met een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in artikel 5.18.18a, lid 1 RV vermelde waarden dan wel de massa meer bedraagt dan 3.500 kg, een overschrijding met** | [5.18.18a lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 185 | a | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
+| P | 185 | b | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
+| P | 185 | c | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de totale massa van** **a. de aanhangwagen zonder een bedrijfsrem of;** **b. de som van de aslasten van de autonome aanhangwagen zonder een bedrijfsrem of;** **c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen zonder een bedrijfsrem;** **achter een personenauto meer bedraagt dan de laagste van in artikel 5.18.18a, lid 2, RV vermelde waarden dan wel meer bedraagt dan 750 kg, een overschrijding met** | 5.18.18a lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 186 | a | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
-| P | 186 | b | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
-| P | 186 | c | – meer dan 50 % t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
-|   |   |   | de op de constructieplaat vermelde technisch toegestane maximummassa van het voertuig wordt overschreden of de som van de aslasten van het voertuig in beladen toestand meer bedraagt dan de vermelde technisch toegestane maximummassa van het voertuig of het draagvermogen van de gemonteerde banden wordt overschreden (particulier gebruik), een overschrijding met | [5.18.25 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25) en [5.18.25b lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 250 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
-| P | 250 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
-| P | 250 | ac | – meer dan 50 t/m 75 % |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
+|   |   |   | **de totale massa van a. de aanhangwagen zonder een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen zonder een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen zonder een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in artikel 5.18.18a, lid 2 RV vermelde waarden dan wel meer bedraagt dan 750 kg, een overschrijding met** | 5.18.18a lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 186 | a | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
+| P | 186 | b | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |
+| P | 186 | c | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de toegestane maximummassa of de som van de aslasten van het voertuig of samenstel in beladen toestand meer bedraagt dan:** **a. 50.000 kg;** **b. de technisch toegestane maximummassa van het voertuig of samenstel;** **c. 18.000 kg voor een twee-assige landbouw- of bosbouwtrekker, of;** **d. 24.000 kg voor een drie-assige landbouw- of bosbouwtrekker;** **(particulier gebruik), een overschrijding met** | 5.18.25 lid 2 en 3, [5.18.25a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 251 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
-| P | 251 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   |   |   |   |   |
-| P | 251 | ac | – meer dan 50 t/m 75% |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de op de constructieplaat vermelde technisch toegestane maximummassa van het voertuig wordt overschreden of de som van de aslasten van het voertuig in beladen toestand meer bedraagt dan de vermelde technisch toegestane maximummassa van het voertuig of het draagvermogen van de gemonteerde banden wordt overschreden (particulier gebruik), een overschrijding met** | [5.18.25 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25) en [5.18.25b lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 250 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
+| P | 250 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
+| P | 250 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   | **de toegestane maximummassa of de som van de aslasten van het voertuig of samenstel in beladen toestand meer bedraagt dan: a. 50.000 kg; b. de technisch toegestane maximummassa van het voertuig of samenstel; c. 18.000 kg voor een twee-assige land- of bosbouwtrekker, of; d. 24.000 kg voor een drie-assige land- of bosbouwtrekker; (particulier gebruik), een overschrijding met** | 5.18.25 lid 2 en 3, [5.18.25a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25a) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 251 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
+| P | 251 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   |   |   |   |   |
+| P | 251 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **bij de middenasaanhangwagen of oplegger de som van de aslasten van het voertuig in beladen toestand vermeerderd met de last onder de koppeling van het voertuig in beladen toestand, meer bedraagt dan de technisch toegestane maximummassa en/of het draagvermogen van de gemonteerde banden (particulier gebruik), een overschrijding met** | 5.18.25b lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 252 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |
-| P | 252 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |
-| P | 252 | ac | – meer dan 50 t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |
+| P | 252 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |
+| P | 252 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |
+| P | 252 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de toegestane maximummassa niet op de voorgeschreven wijze kan worden vastgesteld en de daardoor voor deze aanhangwagen of verwisselbaar getrokken uitrustingsstuk geldende toegestane maximum wiellast van 5000 kg wordt overschreden, een overschrijding met** | 5.18.25b lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 253 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |
-| P | 253 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |
-| P | 253 | ac | – meer dan 50 t/m 75 % |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |
+|   |   |   | **de toegestane maximummassa niet op de voorgeschreven wijze kan worden vastgesteld en de daardoor voor deze aanhangwagen of verwisselbaar getrokken uitrustingsstuk geldende toegestane maximum wiellast van 5.000 kg wordt overschreden, een overschrijding met** | 5.18.25b lid 3 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 253 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |
+| P | 253 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 210 |   |   |   |
+| P | 253 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 310 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de (op de constructieplaat vermelde) technische toegestane maximumlast onder de as of het asstel wordt overschreden (of het draagvermogen van de gemonteerde banden) wordt overschreden (particulier gebruik), een overschrijding met** | [5.18.25c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25c), [5.18.25d lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25d) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 254 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
-| P | 254 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
-| P | 254 | ac | – meer dan 50 t/m 75 % |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
+| P | 254 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
+| P | 254 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
+| P | 254 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de toegestane maximumlast onder de as meer bedraagt dan:** **a. 10.000 kg voor een niet-aangedreven as of 11.500 kg voor een aangedreven as of;** **b. de toegestane maximumlast onder de as van een motorrijtuig met beperkte snelheid meer bedraagt dan 12.000 kg of;** **c. de toegestane maximumlast van de landbouw- of bosbouwaanhangwagens of het verwisselbare getrokken uitrustingsstuk onder een pendelas meer bedraagt dan 13.000 kg of de last onder één of beide assen bedraagt dan 6.500 kg;** **(particulier gebruik), een overschrijding met** | 5.18.25c lid 2, 3 en 4 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 255 | aa | – meer dan 10 t/m 25 % |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
-| P | 255 | ab | – meer dan 25 t/m 50 % |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
-| P | 255 | ac | – meer dan 50 t/m 75 % |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
+|   |   |   | **de toegestane maximumlast onder de as meer bedraagt dan: a. 10.000 kg voor een niet-aangedreven as of 11.500 kg voor een aangedreven as of; b. de toegestane maximumlast onder de as van een motorrijtuig met beperkte snelheid meer bedraagt dan 12.000 kg of; c. de toegestane maximumlast van de landbouw- of bosbouwaanhangwagens of het verwisselbare getrokken uitrustingsstuk onder een pendelas meer bedraagt dan 13.000 kg of de last onder één of beide assen meer bedraagt dan 6.500 kg; (particulier gebruik), een overschrijding met** | 5.18.25c lid 2, 3 en 4 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 255 | aa | – meer dan 10% t/m 25% |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   | 140 |   |   |   |
+| P | 255 | ab | – meer dan 25% t/m 50% |   |   |   |   |   |   |   | 210 | 210 |   |   |   |   |   | 210 |   |   |   |
+| P | 255 | ac | – meer dan 50% t/m 75% |   |   |   |   |   |   |   | 310 | 310 |   |   |   |   |   | 310 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | **de som van de aslasten van de aangekoppelde middenasaanhangwagen met een toegestane maximum massa van meer dan 12.000 kg meer bedraagt dan 1,5 maal de som van aslasten van het trekkend motorvoertuig, een overschrijding met** | [5.18.31 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.31) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 310 | a | – meer dan 10 % t/m 25 % |   |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
-| P | 310 | b | – meer dan 25 % t/m 50 % |   |   |   |   |   |   |   |   |   |   |   |   | 360 |   |   |   |   |   |
+|   |   |   | **de som van de aslasten van de aangekoppelde middenasaanhangwagen met een toegestane maximummassa van meer dan 12.000 kg meer bedraagt dan 1,5 maal de som van aslasten van het trekkend motorvoertuig, een overschrijding met** | [5.18.31 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.31) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 310 | a | – meer dan 10% t/m 25% |   |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
+| P | 310 | b | – meer dan 25% t/m 50% |   |   |   |   |   |   |   |   |   |   |   |   | 360 |   |   |   |   |   |
 | P | 310 | e | de koppelingsdruk van de middenasaanhangwagen met een massa van niet meer dan 750 kg meer bedraagt dan 50 kg dan wel niet neerwaarts is gericht | 5.18.31 RV |   |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |
-| P | 310 | f | de koppelingsdruk van de middenasaanhangwagen met een toegestane massa van meer dan 750 kg of de aanhangwagen met stijve dissel minder bedraagt dan 1 % van de toegestane maximum massa van dat voertuig (de koppelingsdruk behoeft niet meer dan 50 kg te bedragen) | 5.18.31 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
+| P | 310 | f | de koppelingsdruk van de middenasaanhangwagen met een toegestane massa van meer dan 750 kg of de aanhangwagen met stijve dissel minder bedraagt dan 1 % van de toegestane maximummassa van dat voertuig (de koppelingsdruk behoeft niet meer dan 50 kg te bedragen) | 5.18.31 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **2 – Ophanging** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 320 |   | de banden op één as niet dezelfde maataanduiding hebben vanwege het gebruik van een nood- of reservewiel en de rijsnelheid en het rijgedrag niet zijn aangepast aan de door de fabrikant voor dat nood- of reservewiel vastgestelde voorschriften | [5.18.32 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.32) | 240 | 240 | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 321 |   | de banden van het motorvoertuig voorzien zijn van sneeuwkettingen die bestaan uit metalen elementen | [5.1.8.32a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.32a) | 240 | 240 | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 321 |   | de banden van het motorvoertuig voorzien zijn van sneeuwkettingen die bestaan uit metalen elementen | [5.18.32a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.32a) | 240 | 240 | 240 |   | 240 |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **3 – Reminrichting** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 330 | a | de aanhangwagen, niet is voorzien van een reminrichting, terwijl de totale massa hoger is dan de helft van de massa in rijklare toestand van het trekkend voertuig | [5.18.33 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.33) |   |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |
 | P | 340 | a | de aanwezige reminrichting van de aanhangwagen niet in werking treedt bij het bedienen van de bedrijfsrem van het trekkend voertuig | [5.18.34 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.34) |   |   |   |   |   |   |   |   |   |   |   | 240 | 240 | 240 |   |   |   |
 | P | 340 | b | de losbreekreminrichting niet op de vereiste wijze met het trekkend voertuig is verbonden | 5.18.34 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   | 95 | 95 | 95 |   |   |   |
@@ -10323,29 +10338,32 @@ Indien aan de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 | P | 350 | b | – 0,51 t/m 1,0 m/s2 |   | 360 |   |   | 360 | 360 |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **niet wordt voldaan aan de minimale remvertraging van de bedrijfsrem van het samenstel, de vermindering bedraagt** | 5.18.35 lid 1 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 350 | f | – 0 t/m 0,5 m/s2 |   |   | 380 | 380 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| P | 350 | f | – 0 t/m 0,5 m/s2 |   |   | 390 | 390 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **de remvertraging van het samenstel niet voldoet aan die van het trekkend voertuig, de vermindering bedraagt** | 5.18.35 lid 2 RV |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 351 | a | – 0 t/m 0,5 m/s2 |   |   |   |   |   |   |   | 240 | 240 |   |   |   |   |   |   |   |   |   |
 | P | 351 | b | – 0,51 t/m 1,0 m/s2 |   |   |   |   |   |   |   | 360 | 360 |   |   |   |   |   |   |   |   |   |
 | P | 352 |   | het dubbel uitgevoerde rempedaal niet is gekoppeld | [5.18.35a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35a) |   |   |   |   |   |   | 140 | 140 |   |   |   |   |   |   |   |   |   |
-| P | 360 |   | de parkeerrem het samenstel op een helling van 10 % niet in stilstand kan houden | [5.18.36 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.36) | 95 | 95 | 95 |   | 95 |   | 95 | 95 |   |   |   |   |   |   |   |   |   |
+| P | 360 |   | de parkeerrem het samenstel op een helling van 10% niet in stilstand kan houden | [5.18.36 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.36) | 95 | 95 | 95 |   | 95 |   | 95 | 95 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **4 – Verlichting, lichtsignalen en retroreflecterende voorzieningen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 370 |   | een aanhangwagen wordt voortbewogen zonder dat iedere zijkant van het trekkend voertuig is voorzien van een zijrichtingaanwijzer | [5.18.37 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.37) | 95 | 95 | 95 |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 380 |   | de verlichtingsinstallatie van de aanhangwagen niet zodanig functioneert, dat de functies van de verlichting en de lichtsignalen overeenkomen met die van het trekkend voertuig | [5.18.38 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.38) |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 | 140 | 140/95 | 55 |   |
 | P | 382 |   | de verlichtingsinstallatie van het verwisselbare gedragen of de lastdrager uitrustingsstuk niet zodanig functioneert dat de functies van verlichting en lichtsignalen op het verwisselbare gedragen uitrustingsstuk of de lastdrager overeenstemmen met die van het voertuig | 5.18.38 lid 2 RV | 140 | 140 |   |   | 140 |   |   |   |   |   |   | 140 | 140 | 140 |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **5 – Verbinding tussen voertuigen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 540 |   | de aanhangwagen of het verwisselbare getrokken uitrustingsstuk niet middels een deugdelijke koppeling zodanig met het trekkend voertuig is verbonden dat zijdelings uitwijken van de aanhangwagen of het verwisselbare getrokken uitrustingsstuk zoveel mogelijk wordt voorkomen | [5.18.54 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.54) |   |   |   |   |   |   |   |   |   |   |   | 240 | 240 | 240 | 240/160 | 95 |   |
 | P | 541 |   | de aanhangwagen of het verwisselbare getrokken uitrustingsstuk niet middels een enkele, passende en geschikte koppeling die niet kan lostrillen geborgd is | 5.18.54 RV |   |   |   |   |   |   |   |   |   |   |   | 240 | 240 | 240 | 240/160 | 95 |   |
 | P | 550 |   | het bewegen van de aanhangwagen ten opzichte van het trekkend voertuig in een uiterste stand tot 90 graden wordt begrensd door delen van de reminrichting, de elektrische installatie, de koppeling of, indien aanwezig, de hulpkoppeling of besturingsonderdelen | [5.18.55 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.55) |   |   |   |   |   |   |   |   |   |   |   | 95 | 95 |   |   |   |   |
 | P | 560 | a | het trekoog of de kogelkoppeling van de gekoppelde aanhangwagen niet nagenoeg horizontaal ligt op een horizontaal wegdek | [5.18.56 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.56) |   |   |   |   |   |   |   |   |   |   |   | 140 | 140 |   |   |   |   |
 | P | 560 | c | geen hoekverdraaiing van de opleggerschotel naar boven en naar beneden mogelijk is indien het samenstel van opleggertrekker en oplegger of het samenstel van dolly en oplegger zich op een horizontaal wegdek bevindt | 5.18.56 lid 3 RV |   | 95 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P | 570 |   | de hulpkoppeling van een aanhangwagen met een toegestane maximum massa van niet meer dan 1500 kg niet op de vereiste wijze is aangebracht | [5.18.57 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.57) |   |   |   |   |   |   |   |   |   |   |   | 95 | 95 |   |   |   |   |
+| P | 570 |   | de hulpkoppeling van een aanhangwagen met een toegestane maximummassa van niet meer dan 1.500 kg niet op de vereiste wijze is aangebracht | [5.18.57 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.57) |   |   |   |   |   |   |   |   |   |   |   | 95 | 95 |   |   |   |   |
 | P | 590 |   | de gekoppelde aanhangwagen niet goed is verbonden | [5.18.59 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.59) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 55 |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   | **6 – Diversen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | P | 600 |   | de drie- of meerwielige bromfiets met carrosserie aan de achterzijde niet voorzien is van het vereiste ronde bord of vlak met de aanduiding 45 | [5.18.60 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.60) |   |   |   |   |   | 65 |   |   |   |   |   |   |   |   |   |   |   |
 | P | 601 |   | de afsleepas niet voldoet aan de in artikel 5.18.62, lid 1 en 2, gestelde eisen | [5.18.62 lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.62) |   |   |   |   |   |   |   |   |   |   |   | 240 |   |   |   |   |   |
 | P | 602 |   | aan de achterzijde van het door de afsleepas gesleepte voertuig geen lichtbalk is geplaatst die is aangesloten op de verlichting van het trekkende voertuig met ten minste twee rode achterlichten, twee rode remlichten, twee rode retroreflectoren en twee ambergele richtingaanwijzers | 5.18.62 lid 3 RV |   |   |   |   |   |   |   |   |   |   |   | 140 |   |   |   |   |   |
