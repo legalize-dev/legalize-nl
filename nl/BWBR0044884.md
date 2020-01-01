@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2019-08-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -156,6 +156,30 @@ Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid 
 ##### Artikel 5.3
 
 Wijzigt de Verplaatsingskostenregeling Defensie.
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 6.1
+
+Wijzigt de Regeling cafetariamodel defensie.
+
+##### Artikel 6.2
+
+Wijzigt de Studiefaciliteitenregeling burgerlijke ambtenaren Defensie.
+
+##### Artikel 6.3
+
+Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+##### Artikel 6.4
+
+Wijzigt de Inkomstenregeling militairen.
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
 
