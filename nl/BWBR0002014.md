@@ -4,7 +4,7 @@ identifier: "BWBR0002014"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2015-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002014"
 soort: "KB"
@@ -76,15 +76,13 @@ In dit besluit wordt verstaan onder:
 
 1. Dit besluit is niet van toepassing op de arbeidsverhouding van:
 
-- a. werknemers bij een publiekrechtelijk lichaam;
+- a. onderwijzend en docerend personeel, werkzaam aan onderwijsinrichtingen, staande onder beheer van een natuurlijk of rechtspersoon die niet is een overheidswerkgever als bedoeld in [artikel 2 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2);
 
-- b. onderwijzend en docerend personeel, werkzaam aan onderwijsinrichtingen, staande onder beheer van een natuurlijk of rechtspersoon;
+- b. personen, die een geestelijk ambt bekleden;
 
-- c. personen, die een geestelijk ambt bekleden;
+- c. de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat;
 
-- d. de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat;
-
-2. Voor de toepassing van het eerste lid, onderdeel d, wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
+2. Voor de toepassing van het eerste lid, onderdeel c, wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
 
 3. Onze Minister kan voorts bepalen, dat dit besluit of sommige artikelen van dit besluit niet van toepassing zijn op de arbeidsverhouding van door hem aangewezen werknemers of groepen van werknemers.
 
@@ -120,7 +118,7 @@ Vervallen
 
 - b. ten aanzien van die werknemers, wier week- of maandloon op een vast bedrag is vastgesteld en niet daaronder daalt bij de werktijdverkorting;
 
-- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2015-07-01&g=2015-07-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
+- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2020-01-01&g=2020-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
 
 3. Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.
 
