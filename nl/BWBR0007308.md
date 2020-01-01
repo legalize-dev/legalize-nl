@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -196,6 +196,26 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 - door opzegging door de aanvrager.
 
 7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4bis
+
+1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat belastingplichtige de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. [Artikel 43e van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e)is van toepassing.
+
+2. Indien de Dienst Wegverkeer naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat in het kentekenregister een fijnstofuitstoot wordt geregistreerd van niet meer dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de [artikelen 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), onderscheidenlijk [24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24).
+
+3. Op verzoek van belastingplichtige verleent de inspecteur aan de belastingplichtige teruggaaf als bedoeld in het tweede lid.
+
+4. Bij het verzoek om teruggaaf overlegt de belastingplichtige een afschrift van zijn verzoek als bedoeld in het eerste lid en een afschrift van het bericht van de Dienst Wegverkeer, bedoeld in [artikel 43e, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e).
+
+5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
+
+6. De inspecteur neemt de beslissing op het verzoek, bedoeld in het derde lid, bij voor bezwaar vatbare beschikking.
 
 ## Bijlage
 
