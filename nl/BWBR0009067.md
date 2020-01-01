@@ -4,7 +4,7 @@ identifier: "BWBR0009067"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-04-01"
-last_updated: "2013-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009067"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Aan een vergunning, krachtens [artikel 3 van de wet](https://wetten.overheid.nl/
 
 - a. er mogen niet meer dan het in de vergunning genoemde aantal bewijzen van deelneming, uitsluitend tegen de daarin aangegeven inleg, worden uitgegeven.
 
-- b. De opbrengst van de door de vergunninghouder verkochte deelnemingsbewijzen wordt afgedragen aan bij of krachtens de vergunning aangewezen begunstigden. De afdracht bedraagt ten minste 50% van de nominale waarde van de verkochte deelnemingsbewijzen.
+- b. De opbrengst van de door de vergunninghouder verkochte deelnemingsbewijzen wordt afgedragen aan bij of krachtens de vergunning aangewezen begunstigden. De afdracht bedraagt ten minste 40% van de nominale waarde van de verkochte deelnemingsbewijzen.
 
 - c. De afdracht, bedoeld in onderdeel b, wordt geheel voor het in de vergunning omschreven doel aangewend.
 
@@ -74,11 +74,7 @@ Aan een vergunning, krachtens [artikel 3 van de wet](https://wetten.overheid.nl/
 
 - h. Van de gelegenheid, waarvoor vergunning is verleend, moet een afzonderlijke, overzichtelijke, administratie worden gevoerd. Een uitgewerkte rekening en verantwoording met toelichtende bescheiden moet binnen de in de vergunning genoemde termijn worden overgelegd aan de in de vergunning aangewezen instantie.
 
-- i. De rekening en verantwoording dient vergezeld te gaan van een onderzoeksverslag en een verklaring omtrent de getrouwheid daarvan, opgesteld door:
-
-- 1°. een Accountant-Administratieconsulent, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500, doch niet groter dan € 45 000;
-
-- 2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van die wet, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.
+- i. De rekening en verantwoording dient vergezeld te gaan van een onderzoeksverslag en een verklaring omtrent de getrouwheid daarvan, opgesteld door een accountant die is ingeschreven in het in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) bedoelde register, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4.500.
 
 ##### Artikel 3
 
@@ -106,7 +102,7 @@ De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van
 
 ##### Artikel 5
 
-1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2013-01-01&g=2013-01-01) de prijsbepaling dient te geschieden.
+1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2020-01-01&g=2020-01-01) de prijsbepaling dient te geschieden.
 
 2. Constateert degene, te wiens overstaan de prijsbepaling geschiedt, enige onregelmatigheid, dan verklaart hij, zo nodig, de gehele prijsbepaling ongeldig en doet hij onverwijld een nieuwe prijsbepaling plaats vinden.
 
