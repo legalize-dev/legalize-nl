@@ -4,7 +4,7 @@ identifier: "BWBR0004028"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2017-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004028"
 soort: "wet"
@@ -107,7 +107,7 @@ Voor zover een verdrag daarin voorziet kan de veroordeelde die zich in Nederland
 
 ##### Artikel 9
 
-1. Iedere officier van justitie en hulpofficier is bevoegd de voorlopige aanhouding overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2017-03-01&g=2017-03-01) te bevelen.
+1. Iedere officier van justitie en hulpofficier is bevoegd de voorlopige aanhouding overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2020-01-01&g=2020-01-01) te bevelen.
 
 2. De veroordeelde wordt na zijn voorlopige aanhouding binnen vierentwintig uur geleid voor de officier van justitie of hulpofficier die het bevel tot de voorlopige aanhouding heeft gegeven.
 
@@ -119,25 +119,25 @@ Voor zover een verdrag daarin voorziet kan de veroordeelde die zich in Nederland
 
 ##### Artikel 10
 
-1. De rechter-commissaris, belast met de behandeling van strafzaken in de rechtbank van het arrondissement waarin de veroordeelde overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2017-03-01&g=2017-03-01) in verzekering is gesteld, kan, op vordering van de officier van justitie bij die rechtbank, de bewaring van de veroordeelde bevelen.
+1. De rechter-commissaris, belast met de behandeling van strafzaken in de rechtbank van het arrondissement waarin de veroordeelde overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2020-01-01&g=2020-01-01) in verzekering is gesteld, kan, op vordering van de officier van justitie bij die rechtbank, de bewaring van de veroordeelde bevelen.
 
 2. Alvorens een bevel ingevolge het vorige lid te geven, hoort de rechter-commissaris zo mogelijk de veroordeelde.
 
 ##### Artikel 11
 
-1. De bewaring kan worden gelast voor een termijn van ten hoogste veertien dagen. Zij kan op vordering van de officier van justitie telkens met een termijn van ten hoogste dertig dagen worden verlengd, totdat de rechtbank ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2017-03-01&g=2017-03-01), over de gevangenhouding beslist.
+1. De bewaring kan worden gelast voor een termijn van ten hoogste veertien dagen. Zij kan op vordering van de officier van justitie telkens met een termijn van ten hoogste dertig dagen worden verlengd, totdat de rechtbank ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2020-01-01&g=2020-01-01), over de gevangenhouding beslist.
 
 2. De veroordeelde wiens bewaring is gelast wordt, behoudens de mogelijkheid van vrijheidsbeneming uit anderen hoofde, in vrijheid gesteld:
 
 - a. zodra zulks door de rechtbank, de rechter-commissaris of de officier van justitie ambtshalve of op verzoek van de veroordeelde of diens raadsman wordt gelast;
 
-- b. zodra de bewaring veertien dagen heeft geduurd en de officier van justitie de in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=B&artikel=17&z=2017-03-01&g=2017-03-01) bedoelde stukken niet heeft ontvangen;
+- b. zodra de bewaring veertien dagen heeft geduurd en de officier van justitie de in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=B&artikel=17&z=2020-01-01&g=2020-01-01) bedoelde stukken niet heeft ontvangen;
 
 - c. indien de duur van de inverzekeringstelling en de bewaring die van het voor tenuitvoerlegging vatbare gedeelte van de in de vreemde staat opgelegde sanctie zou overtreffen.
 
 ##### Artikel 12
 
-Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een der [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2017-03-01&g=2017-03-01)-[11](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2017-03-01&g=2017-03-01), wordt onverwijld kennis gegeven aan Onze Minister.
+Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een der [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2020-01-01&g=2020-01-01)-[11](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2020-01-01&g=2020-01-01), wordt onverwijld kennis gegeven aan Onze Minister.
 
 ### Afdeling B. Inbeslagneming
 
@@ -175,7 +175,7 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 ##### Artikel 13c
 
-1. Het bepaalde in het [derde lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13&z=2017-03-01&g=2017-03-01) en in het [vierde lid van artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13a&z=2017-03-01&g=2017-03-01) staat er niet aan in de weg, dat inbeslaggenomen voorwerpen desverzocht worden overgeleverd aan de verzoekende vreemde staat met het oog op de oplegging en tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie. Daartoe worden inbeslaggenomen voorwerpen ter beschikking van de officier van justitie gesteld, voor zover de rechtbank, met inachtneming van het toepasselijke verdrag, daartoe verlof verleent.
+1. Het bepaalde in het [derde lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13&z=2020-01-01&g=2020-01-01) en in het [vierde lid van artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13a&z=2020-01-01&g=2020-01-01) staat er niet aan in de weg, dat inbeslaggenomen voorwerpen desverzocht worden overgeleverd aan de verzoekende vreemde staat met het oog op de oplegging en tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie. Daartoe worden inbeslaggenomen voorwerpen ter beschikking van de officier van justitie gesteld, voor zover de rechtbank, met inachtneming van het toepasselijke verdrag, daartoe verlof verleent.
 
 2. Het krachtens het eerste lid vereiste verlof wordt slechts verleend onder het voorbehoud, dat bij de afgifte aan de buitenlandse autoriteiten wordt bedongen, dat de voorwerpen worden teruggezonden, ook wanneer deze zijn verbeurd verklaard of als wederrechtelijk verkregen voordeel ontnomen, in welk geval zij in eigendom aan de Nederlandse staat worden overgedragen, dan wel dat de verzoekende staat een door Onze Minister te bepalen geldbedrag, overeenkomende met het geheel of een deel van de waarde van de voorwerpen, aan de Nederlandse staat doet overmaken. Onze Minister kan besluiten af te zien van de aanspraak op overmaking van het bedongen geldbedrag, indien de verzoekende staat aantoont dat de afgegeven voorwerpen zijn overgedragen aan derden rechthebbenden.
 
@@ -185,9 +185,9 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 ##### Artikel 13d
 
-1. Tot inbeslagneming als bedoeld in de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13a&z=2017-03-01&g=2017-03-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13b&z=2017-03-01&g=2017-03-01) zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheid niet aan de rechter-commissaris is voorbehouden, iedere officier van justitie en hulpofficier.
+1. Tot inbeslagneming als bedoeld in de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13a&z=2020-01-01&g=2020-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13b&z=2020-01-01&g=2020-01-01) zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheid niet aan de rechter-commissaris is voorbehouden, iedere officier van justitie en hulpofficier.
 
-2. Het bepaalde in de [artikelen 94b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94b), [94c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94c), [94d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94d), [97-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=97), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=103), [104-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=104), [116-117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118), [118b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118b), [119](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=119), [552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), [552c -552e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c) en [556 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556) is van overeenkomstige toepassing.
+2. Het bepaalde in de [artikelen 94b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94b), [94c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94c), [94d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94d), [97-102](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=97), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=103), [104-114](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=104), [116-117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118), [118b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118b), [119](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=119), [552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), [552c -552e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c) en [6:1:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) is van overeenkomstige toepassing.
 
 ##### Artikel 13e
 
@@ -251,9 +251,9 @@ Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ont
 
 ##### Artikel 18
 
-1. De officier van justitie vordert binnen twee weken na de dag waarop hij de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=B&artikel=17&z=2017-03-01&g=2017-03-01) bedoelde stukken heeft ontvangen, schriftelijk, dat de rechtbank verlof verleent tot tenuitvoerlegging. Bij zijn vordering legt de officier van justitie de stukken aan de rechtbank over. Een afschrift van de vordering wordt aan de veroordeelde betekend. Bij zijn vordering legt de officier van justitie tevens een lijst van voorwerpen of vorderingen over, die ingevolge [afdeling B van Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&z=2017-03-01&g=2017-03-01) zijn in beslag genomen.
+1. De officier van justitie vordert binnen twee weken na de dag waarop hij de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=B&artikel=17&z=2020-01-01&g=2020-01-01) bedoelde stukken heeft ontvangen, schriftelijk, dat de rechtbank verlof verleent tot tenuitvoerlegging. Bij zijn vordering legt de officier van justitie de stukken aan de rechtbank over. Een afschrift van de vordering wordt aan de veroordeelde betekend. Bij zijn vordering legt de officier van justitie tevens een lijst van voorwerpen of vorderingen over, die ingevolge [afdeling B van Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&z=2020-01-01&g=2020-01-01) zijn in beslag genomen.
 
-2. De in het eerste lid gestelde termijn wordt geschorst van het tijdstip waarop de officier van justitie overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=16&z=2017-03-01&g=2017-03-01) adviseert aan Onze Minister tot het tijdstip waarop de officier van justitie van Onze Minister bericht ontvangt dat de tenuitvoerlegging dient te worden gevorderd.
+2. De in het eerste lid gestelde termijn wordt geschorst van het tijdstip waarop de officier van justitie overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=16&z=2020-01-01&g=2020-01-01) adviseert aan Onze Minister tot het tijdstip waarop de officier van justitie van Onze Minister bericht ontvangt dat de tenuitvoerlegging dient te worden gevorderd.
 
 3. Indien de veroordeelde ingevolge deze wet van zijn vrijheid is beroofd, eindigt de schorsing in elk geval na veertien dagen.
 
@@ -267,7 +267,7 @@ Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ont
 
 ##### Artikel 20
 
-1. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01) bedoelde vordering wordt bij de politierechter aanhangig gemaakt, tenzij naar het aanvankelijk oordeel van de officier van justitie
+1. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01) bedoelde vordering wordt bij de politierechter aanhangig gemaakt, tenzij naar het aanvankelijk oordeel van de officier van justitie
 
 - a. de zaak niet van eenvoudige aard is, bepaaldelijk ten aanzien van de beoordeling van de strafbaarheid van het feit of van de veroordeelde naar Nederlands recht, of
 
@@ -279,7 +279,7 @@ Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ont
 
 ##### Artikel 21
 
-1. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01) bedoelde vordering wordt, indien de veroordeelde op dat tijdstip de leeftijd van achttien jaren nog niet heeft bereikt, bij de kinderrechter aanhangig gemaakt, tenzij naar het aanvankelijk oordeel van de officier van justitie en de kinderrechter
+1. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01) bedoelde vordering wordt, indien de veroordeelde op dat tijdstip de leeftijd van achttien jaren nog niet heeft bereikt, bij de kinderrechter aanhangig gemaakt, tenzij naar het aanvankelijk oordeel van de officier van justitie en de kinderrechter
 
 - a. de zaak niet van eenvoudige aard is, bepaaldelijk ten aanzien van de beoordeling van de strafbaarheid van het feit of van de veroordeelde naar Nederlands recht, of
 
@@ -293,7 +293,7 @@ Maakt de officier van justitie zijn vordering bij de meervoudige kamer aanhangig
 
 ##### Artikel 22
 
-Betreft de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01) bedoelde vordering een in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) bedoelde persoon, dan geschiedt de behandeling daarvan, overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=20&z=2017-03-01&g=2017-03-01), voor de militaire politierechter dan wel de militaire kamer van de rechtbank, die ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.
+Betreft de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01) bedoelde vordering een in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) bedoelde persoon, dan geschiedt de behandeling daarvan, overeenkomstig het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=20&z=2020-01-01&g=2020-01-01), voor de militaire politierechter dan wel de militaire kamer van de rechtbank, die ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.
 
 ##### Artikel 23
 
@@ -301,19 +301,19 @@ De politierechter, de kinderrechter en de militaire politierechter bezitten elk 
 
 ##### Artikel 24
 
-1. Zo spoedig mogelijk na ontvangst van de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01) bedoelde vordering bepaalt de voorzitter van de rechtbank het tijdstip waarop de rechtbank een aanvang zal maken met de behandeling van de vordering. Tussen de dag waarop de mededeling om ter terechtzitting te verschijnen aan de veroordeelde is betekend en die der terechtzitting moet een termijn van ten minste tien dagen verlopen.
+1. Zo spoedig mogelijk na ontvangst van de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01) bedoelde vordering bepaalt de voorzitter van de rechtbank het tijdstip waarop de rechtbank een aanvang zal maken met de behandeling van de vordering. Tussen de dag waarop de mededeling om ter terechtzitting te verschijnen aan de veroordeelde is betekend en die der terechtzitting moet een termijn van ten minste tien dagen verlopen.
 
 2. Met toestemming van de veroordeelde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt.
 
 ##### Artikel 25
 
-De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan de veroordeelde mededeling van het tijdstip dat voor de behandeling van de vordering is bepaald. Daarbij wordt de veroordeelde die geen raadsman heeft, gewezen op het recht op bijstand van een raadsman en het recht op kennisneming van de processtukken, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=V&artikel=64&z=2017-03-01&g=2017-03-01).
+De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan de veroordeelde mededeling van het tijdstip dat voor de behandeling van de vordering is bepaald. Daarbij wordt de veroordeelde die geen raadsman heeft, gewezen op het recht op bijstand van een raadsman en het recht op kennisneming van de processtukken, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=V&artikel=64&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 26
 
 1. De officier van justitie en de veroordeelde zijn bevoegd ten behoeve van het onderzoek dat de rechtbank ingevolge deze wet heeft te verrichten en de beslissingen die zij heeft te nemen getuigen en deskundigen te doen oproepen.
 
-2. De officier van justitie kan bij met redenen omklede beslissing weigeren getuigen of deskundigen op te roepen, indien redelijkerwijs moet worden aangenomen dat deze door de veroordeelde zijn opgegeven ten einde ter terechtzitting verklaringen af te leggen ter betwisting van feiten, als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2017-03-01&g=2017-03-01). De beslissing wordt onverwijld schriftelijk ter kennis van de veroordeelde gebracht. Hij wordt daarbij opmerkzaam gemaakt op het bepaalde in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2017-03-01&g=2017-03-01).
+2. De officier van justitie kan bij met redenen omklede beslissing weigeren getuigen of deskundigen op te roepen, indien redelijkerwijs moet worden aangenomen dat deze door de veroordeelde zijn opgegeven ten einde ter terechtzitting verklaringen af te leggen ter betwisting van feiten, als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2020-01-01&g=2020-01-01). De beslissing wordt onverwijld schriftelijk ter kennis van de veroordeelde gebracht. Hij wordt daarbij opmerkzaam gemaakt op het bepaalde in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 27
 
@@ -333,7 +333,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 
 5. Indien getuigen zijn opgeroepen ter verkrijging van inlichtingen omtrent de persoonlijkheid van de veroordeelde of indien de rechtbank het noodzakelijk acht feiten te onderzoeken ter beoordeling van het bestaan van gronden die naar Nederlands recht, doch niet naar dat van de vreemde staat, de strafbaarheid van het feit of de dader uitsluiten, vinden voorts de [artikelen 287, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=287), [288, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=288), [289, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=289), [290 tot en met 292](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=290), [294 tot en met 297](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=294), [301, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=301), en [311, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=311) overeenkomstige toepassing.
 
-6. Indien de officier van justitie overeenkomstig [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=26&z=2017-03-01&g=2017-03-01), heeft geweigerd een getuige te doen oproepen kan de veroordeelde de rechtbank verzoeken alsnog de oproeping van de getuige te bevelen. De rechtbank gaat hiertoe over indien zij van oordeel is dat de officier van justitie in redelijkheid niet tot zijn beslissing heeft kunnen komen.
+6. Indien de officier van justitie overeenkomstig [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=26&z=2020-01-01&g=2020-01-01), heeft geweigerd een getuige te doen oproepen kan de veroordeelde de rechtbank verzoeken alsnog de oproeping van de getuige te bevelen. De rechtbank gaat hiertoe over indien zij van oordeel is dat de officier van justitie in redelijkheid niet tot zijn beslissing heeft kunnen komen.
 
 7. De in het derde en het vijfde lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.
 
@@ -341,7 +341,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 
 ##### Artikel 29
 
-1. Op vordering van de officier van justitie kan de rechtbank ter zitting de gevangenneming van de veroordeelde bevelen in gevallen waarin overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2017-03-01&g=2017-03-01) voorlopige aanhouding mogelijk is.
+1. Op vordering van de officier van justitie kan de rechtbank ter zitting de gevangenneming van de veroordeelde bevelen in gevallen waarin overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2020-01-01&g=2020-01-01) voorlopige aanhouding mogelijk is.
 
 2. Voordat het onderzoek ter zitting wordt gesloten, beslist de rechtbank ambtshalve over de gevangenhouding van de veroordeelde die krachtens deze wet voorlopig van zijn vrijheid is beroofd.
 
@@ -361,7 +361,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 
 - b. dat de veroordeelde zich met vrucht op een grond, die naar Nederlands recht wel, doch naar het recht van de vreemde staat niet de strafbaarheid van het feit of de dader uitsluit, had kunnen beroepen, en dat hij geen gedwongen psychiatrische verpleging behoeft;
 
-- c. dat de tenuitvoerlegging in Nederland op grond van het in een der in de[artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=2&z=2017-03-01&g=2017-03-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=3&z=2017-03-01&g=2017-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=4&z=2017-03-01&g=2017-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=6&z=2017-03-01&g=2017-03-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=7&z=2017-03-01&g=2017-03-01) bepaalde niet kan plaatshebben; of,
+- c. dat de tenuitvoerlegging in Nederland op grond van het in een der in de[artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=4&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=6&z=2020-01-01&g=2020-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=7&z=2020-01-01&g=2020-01-01) bepaalde niet kan plaatshebben; of,
 
 - d. in een geval waarin volgens het toepasselijke verdrag tenuitvoerlegging kan worden geweigerd, dat bij afweging van alle betrokken belangen een beslissing tot tenuitvoerlegging in Nederland in redelijkheid niet kan worden genomen;
 
@@ -391,9 +391,9 @@ dan verklaart zij de tenuitvoerlegging ontoelaatbaar.
 
 3. Op uitspraken, houdende een verbeurdverklaring, is het bepaalde in de [artikelen 552b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552b), [552d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), [552e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552e) en [552g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552g) van overeenkomstige toepassing.
 
-4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in [artikel 577b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577b) van overeenkomstige toepassing.
+4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in de [artikelen 6:4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:9) en [6:6:26 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:26) van overeenkomstige toepassing.
 
-5. [Artikel 13e](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13e&z=2017-03-01&g=2017-03-01) is van overeenkomstige toepassing.
+5. [Artikel 13e](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13e&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -413,15 +413,15 @@ dan verklaart zij de tenuitvoerlegging ontoelaatbaar.
 
 8. Indien de uitspraak waartegen beroep is ingesteld is gedaan door een enkelvoudige kamer, wordt het beroep in cassatie behandeld door een uit drie raadsheren bestaande Kamer van de Hoge Raad.
 
-9. Indien de uitspraak van de rechtbank geheel of gedeeltelijk wordt vernietigd doet de Hoge Raad in geval dat mogelijk is zelf de zaak af. Indien de Hoge Raad de zaak niet zelf kan afdoen kan hij deze hetzij terugwijzen naar de rechtbank, wier uitspraak vernietigd is, hetzij verwijzen naar een andere rechtbank. Alsdan vinden de [artikelen 18-28](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2017-03-01&g=2017-03-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=30&z=2017-03-01&g=2017-03-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2017-03-01&g=2017-03-01) en de voorgaande leden van dit artikel wederom toepassing.
+9. Indien de uitspraak van de rechtbank geheel of gedeeltelijk wordt vernietigd doet de Hoge Raad in geval dat mogelijk is zelf de zaak af. Indien de Hoge Raad de zaak niet zelf kan afdoen kan hij deze hetzij terugwijzen naar de rechtbank, wier uitspraak vernietigd is, hetzij verwijzen naar een andere rechtbank. Alsdan vinden de [artikelen 18-28](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2020-01-01&g=2020-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=30&z=2020-01-01&g=2020-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2020-01-01&g=2020-01-01) en de voorgaande leden van dit artikel wederom toepassing.
 
 10. De Hoge Raad zendt aan Onze Minister onverwijld een gewaarmerkt afschrift van zijn arrest toe.
 
-11. Indien de Hoge Raad de zaak verwijst naar een andere rechtbank blijft een krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2017-03-01&g=2017-03-01) bevolen vrijheidsbeneming, onverminderd het bepaalde in het laatste lid van dat artikel, van kracht tot het tijdstip waarop die rechtbank over de gevangenhouding beslist.
+11. Indien de Hoge Raad de zaak verwijst naar een andere rechtbank blijft een krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=29&z=2020-01-01&g=2020-01-01) bevolen vrijheidsbeneming, onverminderd het bepaalde in het laatste lid van dat artikel, van kracht tot het tijdstip waarop die rechtbank over de gevangenhouding beslist.
 
 ##### Artikel 33
 
-Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoerlegging in kracht van gewijsde is gegaan, geeft de griffier van het gerecht dat de zaak het laatst heeft behandeld daarvan kennis aan Onze Minister. De tenuitvoerlegging van een op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2017-03-01&g=2017-03-01) opgelegde straf of maatregel geschiedt met inachtneming van het bij of krachtens het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde.
+Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoerlegging in kracht van gewijsde is gegaan, geeft de griffier van het gerecht dat de zaak het laatst heeft behandeld daarvan kennis aan Onze Minister. De tenuitvoerlegging van een op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2020-01-01&g=2020-01-01) opgelegde straf of maatregel geschiedt op last van Onze Minister.
 
 ### Afdeling D. Buiten-gerechtelijke procedures
 
@@ -439,7 +439,7 @@ Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoer
 
 ##### Artikel 35
 
-1. De ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2017-03-01&g=2017-03-01) genomen beslissing en de dag waarop het daarbij vastgestelde bedrag moet worden voldaan worden vanwege de officier van justitie zo spoedig mogelijk aan de veroordeelde ter kennis gebracht.
+1. De ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2020-01-01&g=2020-01-01) genomen beslissing en de dag waarop het daarbij vastgestelde bedrag moet worden voldaan worden vanwege de officier van justitie zo spoedig mogelijk aan de veroordeelde ter kennis gebracht.
 
 2. Tegen de beslissing van de officier van justitie kan de veroordeelde binnen veertien dagen nadat zich een omstandigheid heeft voorgedaan, waaruit voortvloeit dat de beslissing hem bekend is, een bezwaarschrift indienen bij de rechtbank, indien de opgelegde geldboete het bedrag van € 22,50 overschrijdt.
 
@@ -449,21 +449,21 @@ Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoer
 
 5. Op de wijze van indiening en intrekking van een bezwaarschrift zijn de artikelen [449, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=449), en [450-454 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450) van overeenkomstige toepassing.
 
-6. Op de behandeling van het bezwaarschrift zijn de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=25&z=2017-03-01&g=2017-03-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=26&z=2017-03-01&g=2017-03-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=27&z=2017-03-01&g=2017-03-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2017-03-01&g=2017-03-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=30&z=2017-03-01&g=2017-03-01) van deze wet van overeenkomstige toepassing.
+6. Op de behandeling van het bezwaarschrift zijn de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=25&z=2020-01-01&g=2020-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=26&z=2020-01-01&g=2020-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=27&z=2020-01-01&g=2020-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2020-01-01&g=2020-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=30&z=2020-01-01&g=2020-01-01) van deze wet van overeenkomstige toepassing.
 
 7. Verklaart de rechtbank het bezwaar gegrond, dan vernietigt zij de beslissing van de officier van justitie of vult deze aan met inachtneming van het bepaalde in [artikel 24**a** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24a). Acht zij, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet zij wat de officier van justitie had behoren te doen. In alle gevallen dat de rechtbank de tenuitvoerlegging van een geldboete toelaatbaar verklaart, bepaalt zij tevens de duur van de vervangende hechtenis.
 
-8. De[artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=32&z=2017-03-01&g=2017-03-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=33&z=2017-03-01&g=2017-03-01) van deze wet zijn toepasselijk.
+8. De[artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=32&z=2020-01-01&g=2020-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=33&z=2020-01-01&g=2020-01-01) van deze wet zijn toepasselijk.
 
 ##### Artikel 36
 
-1. Beslissingen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2017-03-01&g=2017-03-01) kunnen zodra zij zijn genomen worden ten uitvoer gelegd, tenzij het toepasselijke verdrag anders bepaalt. Door het indienen van een bezwaarschrift binnen de daarvoor gestelde termijn wordt de tenuitvoerlegging opgeschort.
+1. Beslissingen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2020-01-01&g=2020-01-01) kunnen zodra zij zijn genomen worden ten uitvoer gelegd, tenzij het toepasselijke verdrag anders bepaalt. Door het indienen van een bezwaarschrift binnen de daarvoor gestelde termijn wordt de tenuitvoerlegging opgeschort.
 
-2. Beslissingen genomen krachtens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2017-03-01&g=2017-03-01) worden ten uitvoer gelegd met inachtneming van het bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van [het derde lid van artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=575) van dat Wetboek.
+2. Beslissingen genomen krachtens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2020-01-01&g=2020-01-01) worden ten uitvoer gelegd met inachtneming van het bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van het [derde lid van artikel 6:4:5 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5).
 
 ##### Artikel 37
 
-Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan doet de officier van justitie met het oog daarop een vordering overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2017-03-01&g=2017-03-01), tenzij de rechtbank krachtens [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=35&z=2017-03-01&g=2017-03-01), de duur van de vervangende hechtenis reeds heeft bepaald.
+Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan doet de officier van justitie met het oog daarop een vordering overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=18&z=2020-01-01&g=2020-01-01), tenzij de rechtbank krachtens [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=35&z=2020-01-01&g=2020-01-01), de duur van de vervangende hechtenis reeds heeft bepaald.
 
 #### § 2. Toezicht op de naleving van voorwaarden
 
@@ -471,7 +471,7 @@ Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan do
 
 ##### Artikel 38
 
-1. Indien de officier van justitie, aan wie op de voet van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2017-03-01&g=2017-03-01) een verzoek in handen is gesteld tot overneming van de uitoefening van toezicht op de naleving van voorwaarden, in een vreemde staat aan de veroordeelde opgelegd, van oordeel is dat het geheel of gedeeltelijk niet voor inwilliging vatbaar is of dat aanleiding bestaat gebruik te maken van een der in het toepasselijke verdrag omschreven gronden tot weigering, brengt hij dit oordeel onverwijld vergezeld van zijn advies ter kennis van Onze Minister, die daaromtrent beslist.
+1. Indien de officier van justitie, aan wie op de voet van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=15&z=2020-01-01&g=2020-01-01) een verzoek in handen is gesteld tot overneming van de uitoefening van toezicht op de naleving van voorwaarden, in een vreemde staat aan de veroordeelde opgelegd, van oordeel is dat het geheel of gedeeltelijk niet voor inwilliging vatbaar is of dat aanleiding bestaat gebruik te maken van een der in het toepasselijke verdrag omschreven gronden tot weigering, brengt hij dit oordeel onverwijld vergezeld van zijn advies ter kennis van Onze Minister, die daaromtrent beslist.
 
 2. Indien aan het verzoek geheel of gedeeltelijk gevolg wordt gegeven, wordt de kennisgeving van dit besluit aan de veroordeelde in persoon betekend. Van zijn beslissing geeft de officier van justitie bericht aan Onze Minister.
 
@@ -483,7 +483,7 @@ Indien de officier van justitie termen aanwezig acht om een opdracht te geven to
 
 1. Het te houden toezicht strekt zich niet uit over de naleving van bijzondere voorwaarden, gesteld bij de beslissing die aan het verzoek ten grondslag ligt, welke in strijd zijn met het Nederlandse recht.
 
-2. Het toezicht wordt uitgeoefend met inachtneming van het bij of krachtens de [artikelen 14b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14b), [14d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14d), en [artikel 16 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=16) bepaalde.
+2. Het toezicht wordt uitgeoefend met inachtneming van het bij of krachtens de [artikelen 6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15), [6:1:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18) en [6:3:14 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) bepaalde.
 
 3. De aanvang en duur van de proeftijd worden bepaald naar het recht van de verzoekende staat. De proeftijd duurt in geen geval langer dan zij naar Nederlands recht had kunnen duren.
 
@@ -497,7 +497,7 @@ Indien de officier van justitie termen aanwezig acht om een opdracht te geven to
 
 ##### Artikel 42
 
-De officier van justitie draagt, behoudens het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=16&z=2017-03-01&g=2017-03-01), zorg dat overeenkomstig [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2017-03-01&g=2017-03-01) van dit hoofdstuk wordt gehandeld, indien hij een verzoek heeft ontvangen tot toepassing van een beslissing van een buitenlandse autoriteit, op grond waarvan voorwaarden gelden waarvan overtreding kan of moet leiden tot tenuitvoerlegging van een rechterlijke beslissing in een strafzaak.
+De officier van justitie draagt, behoudens het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=A&artikel=16&z=2020-01-01&g=2020-01-01), zorg dat overeenkomstig [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2020-01-01&g=2020-01-01) van dit hoofdstuk wordt gehandeld, indien hij een verzoek heeft ontvangen tot toepassing van een beslissing van een buitenlandse autoriteit, op grond waarvan voorwaarden gelden waarvan overtreding kan of moet leiden tot tenuitvoerlegging van een rechterlijke beslissing in een strafzaak.
 
 #### § 3. Voortgezette tenuitvoerlegging
 
@@ -525,15 +525,15 @@ Verzoeken, bedoeld in afdeling D, par. 2, die betrekking hebben op bij verstek g
 
 ##### Artikel 46
 
-1. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2017-03-01&g=2017-03-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende staat.
+1. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2020-01-01&g=2020-01-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende staat.
 
-2. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2017-03-01&g=2017-03-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.
+2. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2020-01-01&g=2020-01-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.
 
 ##### Artikel 47
 
-1. Aan de veroordeelde die overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2017-03-01&g=2017-03-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland wordt zo spoedig mogelijk een dagvaarding om ter terechtzitting van het in die dagvaarding aangeduide gerecht te verschijnen bij aangetekend schrijven toegezonden of in persoon betekend.
+1. Aan de veroordeelde die overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2020-01-01&g=2020-01-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland wordt zo spoedig mogelijk een dagvaarding om ter terechtzitting van het in die dagvaarding aangeduide gerecht te verschijnen bij aangetekend schrijven toegezonden of in persoon betekend.
 
-2. Verschijnt hij ten dienenden dage niet in rechte, dan wordt het verzet vervallen verklaard en vindt [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2017-03-01&g=2017-03-01), onderscheidenlijk [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&z=2017-03-01&g=2017-03-01), toepassing, tenzij de rechter, bij niet-verschijning van de veroordeelde, schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen.
+2. Verschijnt hij ten dienenden dage niet in rechte, dan wordt het verzet vervallen verklaard en vindt [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2020-01-01&g=2020-01-01), onderscheidenlijk [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&z=2020-01-01&g=2020-01-01), toepassing, tenzij de rechter, bij niet-verschijning van de veroordeelde, schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen.
 
 3. Indien de veroordeelde die in verzet is gekomen ten dienenden dage verschijnt wordt voor de toepassing van het Nederlandse recht de buitenlandse rechterlijke beslissing als vervallen beschouwd en de zaak overeenkomstig het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) behandeld.
 
@@ -557,7 +557,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 51
 
-Indien het openbaar ministerie, met de tenuitvoerlegging van een rechterlijke beslissing belast, het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van het voor tenuitvoerlegging vatbare vonnis of arrest en eventuele andere met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die staat.
+Indien het openbaar ministerie het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van eventuele met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die staat.
 
 ##### Artikel 52
 
@@ -573,7 +573,7 @@ Indien het openbaar ministerie, met de tenuitvoerlegging van een rechterlijke be
 
 ##### Artikel 53
 
-1. Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=51&z=2017-03-01&g=2017-03-01) heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.
+1. Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=51&z=2020-01-01&g=2020-01-01) heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.
 
 2. Een aan de autoriteiten van een vreemde staat gedaan verzoek tot tenuitvoerlegging of tot overname van toezicht kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die staat genomen beslissing worden ingetrokken, onverminderd het bepaalde in artikel 36, tweede lid, van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken.
 
@@ -593,11 +593,11 @@ Degene tegen wie in Nederland bij verstek uitspraak is gedaan, houdende de opleg
 
 ##### Artikel 56
 
-Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek van een buitenlandse autoriteit tot overdracht van de tenuitvoerlegging van een in Nederland opgelegde sanctie moet worden afgewezen, wint hij omtrent de vraag of het belang van een goede rechtsbedeling zich tegen inwilliging van het verzoek verzet het advies in van het gerecht dat in hoogste feitelijke instantie de sanctie heeft opgelegd en van het openbaar ministerie met de tenuitvoerlegging belast.
+Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek van een buitenlandse autoriteit tot overdracht van de tenuitvoerlegging van een in Nederland opgelegde sanctie moet worden afgewezen, wint hij omtrent de vraag of het belang van een goede rechtsbedeling zich tegen inwilliging van het verzoek verzet het advies in van het gerecht dat in hoogste feitelijke instantie de sanctie heeft opgelegd en van het openbaar ministerie.
 
 ##### Artikel 57
 
-1. Zo spoedig mogelijk na de ontvangst van de in het vorige artikel bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=52&z=2017-03-01&g=2017-03-01) is van overeenkomstige toepassing.
+1. Zo spoedig mogelijk na de ontvangst van de in het vorige artikel bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=52&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 2. Van zijn beslissing geeft Onze Minister onverwijld kennis aan het gerecht en aan het openbaar ministerie die terzake advies hebben uitgebracht.
 
@@ -635,7 +635,7 @@ Krachtens deze wet gegeven bevelen tot inverzekeringstelling, bewaring of gevang
 
 ##### Artikel 62
 
-De bevelen tot vrijheidsbeneming, bedoeld in het voorgaande artikel, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van bevelen tot vrijheidsbeneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 564-568 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=564) van toepassing.
+De bevelen tot vrijheidsbeneming, bedoeld in het voorgaande artikel, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van bevelen tot vrijheidsbeneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [6:1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:7), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) en [6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1) van toepassing.
 
 ##### Artikel 63
 
@@ -645,7 +645,7 @@ Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn ges
 
 1. De veroordeelde heeft het recht zich door een raadsman te doen bijstaan. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28a), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) en [43 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) en [124 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124), alsmede het in dat wetboek bepaalde betreffende het optreden en de bevoegdheden van de raadsman en de kennisneming van processtukken, zijn van overeenkomstige toepassing.
 
-2. Indien een veroordeelde op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2017-03-01&g=2017-03-01) wordt aangehouden, stelt de hulpofficier van justitie het bestuur van de raad voor rechtsbijstand hiervan in kennis, opdat het bestuur een raadsman aanwijst, dan wel stelt hij de door de opgeëiste persoon gekozen raadsman hiervan in kennis. De [artikelen 28b, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28b), en [39 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=39) zijn van overeenkomstige toepassing.
+2. Indien een veroordeelde op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2020-01-01&g=2020-01-01) wordt aangehouden, stelt de hulpofficier van justitie het bestuur van de raad voor rechtsbijstand hiervan in kennis, opdat het bestuur een raadsman aanwijst, dan wel stelt hij de door de opgeëiste persoon gekozen raadsman hiervan in kennis. De [artikelen 28b, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28b), en [39 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=39) zijn van overeenkomstige toepassing.
 
 3. Indien een persoon die geen raadsman heeft overeenkomstig deze wet zijn vrijheid wordt benomen – anders dan uit kracht van een bevel tot aanhouding, dan wel tot inverzekeringstelling of tot verlenging van de termijn daarvan – wijst het bestuur van de raad voor rechtsbijstand, na mededeling van de vrijheidsbeneming door het openbaar ministerie, een raadsman aan.
 
@@ -659,21 +659,21 @@ Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [a
 
 2. Op bevelen krachtens het vorige lid gegeven door de rechtbank, dan wel door de rechter-commissaris zijn de [artikelen 80-88 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80) van overeenkomstige toepassing.
 
-3. De termijn, genoemd in [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2017-03-01&g=2017-03-01), loopt niet gedurende de tijd dat de veroordeelde zich aan de verdere tenuitvoerlegging van de gelaste bewaring heeft onttrokken.
+3. De termijn, genoemd in [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2020-01-01&g=2020-01-01), loopt niet gedurende de tijd dat de veroordeelde zich aan de verdere tenuitvoerlegging van de gelaste bewaring heeft onttrokken.
 
 ##### Artikel 66
 
-Op bevelen tot beëindiging van voorlopige vrijheidsbeneming krachtens deze wet gegeven en tot tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79), [569](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=569) en [570 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=570) van overeenkomstige toepassing.
+Op bevelen tot beëindiging van voorlopige vrijheidsbeneming krachtens deze wet gegeven en tot tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79) en [6:2:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) van overeenkomstige toepassing.
 
 ##### Artikel 67
 
 In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in Nederland niet behoort plaats te vinden kan de rechtbank, die de zaak heeft behandeld, op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsbeneming bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat.
 
-De [artikelen 89, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=89), [90](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=90), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=91), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=93), [591](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591) en [591**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591a) zijn van overeenkomstige toepassing.
+De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529), [530](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530), [534 tot en met 536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534) zijn van overeenkomstige toepassing.
 
 ##### Artikel 68
 
-Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet zijn de [artikelen 585 tot en met 588](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=585), [589](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=589) en [590 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=590) van overeenkomstige toepassing, tenzij deze wet anders bepaalt.
+Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van overeenkomstige toepassing, tenzij deze wet anders bepaalt.
 
 ##### Artikel 69
 
@@ -721,13 +721,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De advocaat-generaal legt het verzoek met de daarbij behorende stukken onverwijld voor aan de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67). De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken in binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd aan de bijzondere kamer van het gerechtshof.
 
-4. Hangende de beslissing op het verzoek tot tenuitvoerlegging, kan de veroordeelde voorlopig worden aangehouden met toepassing van de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2017-03-01&g=2017-03-01).
+4. Hangende de beslissing op het verzoek tot tenuitvoerlegging, kan de veroordeelde voorlopig worden aangehouden met toepassing van de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 43b
 
 1. De bijzondere kamer van het gerechtshof Arnhem-Leeuwarden beoordeelt met inachtneming van het toepasselijke verdrag:
 
-- a. of de tenuitvoerlegging in Nederland op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=2&z=2017-03-01&g=2017-03-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=3&z=2017-03-01&g=2017-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=4&z=2017-03-01&g=2017-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=6&z=2017-03-01&g=2017-03-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=7&z=2017-03-01&g=2017-03-01) niet kan plaatshebben;
+- a. of de tenuitvoerlegging in Nederland op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=4&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=6&z=2020-01-01&g=2020-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=I&afdeling=B&artikel=7&z=2020-01-01&g=2020-01-01) niet kan plaatshebben;
 
 - b. welk strafbaar feit naar Nederlands recht het feit dat aan de buitenlandse veroordeling ten grondslag ligt, oplevert;
 
@@ -747,7 +747,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Indien Onze Minister het verzoek tot tenuitvoerlegging heeft ingewilligd, geeft hij de aanwijzing tot tenuitvoerlegging of verdere tenuitvoerlegging van de in de vreemde staat opgelegde vrijheidsbenemende sanctie in Nederland.
 
-2. De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de officier van justitie in het arrondissement waar de veroordeelde zijn woonplaats heeft of zich bevindt, of, indien de veroordeelde voorlopig is aangehouden zoals bedoeld in [artikel 43a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=3&artikel=43a&z=2017-03-01&g=2017-03-01), aan de officier van justitie die in verband daarmee reeds bij de zaak betrokken is of, indien tegen de veroordeelde in Nederland een vervolging gaande is, de officier van justitie die met deze vervolging is belast of, indien de veroordeelde een in [artikel 2 van de Wet militaire rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) bedoelde persoon is, aan de officier van justitie bij de rechtbank die ingevolge die wet bevoegd is over de veroordeelde rechtsmacht uit te oefenen. Is op grond van het voorgaande voorshands geen bevoegde officier van justitie aan te wijzen, dan zendt Onze Minister de stukken toe aan de officier van justitie te Amsterdam.
+2. De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van Onze Minister.
 
 ### Afdeling E. Tenuitvoerlegging van bij verstek gewezen beslissingen
 
