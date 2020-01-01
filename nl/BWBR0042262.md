@@ -247,19 +247,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Besluit verplichte geestelijke gezondheidszorg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.2
-
-De gegevens, genoemd in [artikel 2, onderdelen a tot en met h, van het Besluit vorderen gegevens telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017081&artikel=2), worden aangewezen als gegevens in de zin van [artikel 13:3a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=13:3a).
-
-### Hoofdstuk 4. Middelen en maatregelen waar het zorgplan niet in voorziet, ten aanzien van personen met een strafrechtelijke titel
-
-### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
-
-### Hoofdstuk 6. Patiëntenvertrouwenspersoon
-
-### Hoofdstuk 7. Aanpassing van andere besluiten
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
