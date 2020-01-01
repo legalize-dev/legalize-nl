@@ -4,7 +4,7 @@ identifier: "BWBR0031639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-05"
-last_updated: "2012-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031639"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ De geluidsbelasting, veroorzaakt door luchtvaartuigen die gebruik maken van de m
 
 ##### Artikel 2
 
-Bij het berekenen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=1&z=2012-10-01&g=2012-10-01) genoemde geluidsbelasting wordt gebruik gemaakt van de gegevens in rapport NLR CR 96650 L, Appendices van de voorschriften voor de berekening van geluidsbelasting, oktober 1996, met latere wijzigingen, en de door de Minister van Defensie verstrekte luchthavengebonden gegevens.
+Bij het berekenen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=1&z=2012-10-01&g=2020-01-01) genoemde geluidsbelasting wordt gebruik gemaakt van de gegevens in rapport NLR CR 96650 L, Appendices van de voorschriften voor de berekening van geluidsbelasting, oktober 1996, met latere wijzigingen, en de door de Minister van Defensie verstrekte luchthavengebonden gegevens.
 
 ##### Artikel 3
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=1&z=2012-10-01&g=2012-10-01) geschiedt de berekening van de geluidsbelasting, veroorzaakt door luchtvaartuigen die gebruik maken van de militaire luchthavens Leeuwarden, Deelen en Gilze-Rijen, indien de geluidszone voor de betrokken luchthaven gelijk is aan de geluidszone die voor die luchthavens is vastgesteld vóór 1 augustus 2004, op de manier, beschreven in rapport RLD/BV 01, Voorschrift voor de berekening van de geluidsbelasting in Kosteneenheden (Ke) ten gevolge van het vliegverkeer. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=2&z=2012-10-01&g=2012-10-01) is van overeenkomstige toepassing.
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=1&z=2012-10-01&g=2020-01-01) geschiedt de berekening van de geluidsbelasting, veroorzaakt door luchtvaartuigen die gebruik maken van de militaire luchthavens Leeuwarden, Deelen en Gilze-Rijen, indien de geluidszone voor de betrokken luchthaven gelijk is aan de geluidszone die voor die luchthavens is vastgesteld vóór 1 augustus 2004, op de manier, beschreven in rapport RLD/BV 01, Voorschrift voor de berekening van de geluidsbelasting in Kosteneenheden (Ke) ten gevolge van het vliegverkeer. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031639&artikel=2&z=2012-10-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
