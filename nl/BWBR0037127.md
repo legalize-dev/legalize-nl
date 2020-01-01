@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -105,7 +105,7 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | rechtsgrondslag | onderdeel | omschrijving | niet uitsluitend digitaal | wel uitsluitend digitaal | voorziening | authenticatiemiddel |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) | [Artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) | verzoek aanmerken ANBI beschikking aanmerken ANBI | x |   |   |   |
-|   | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) | aangiftebrief inkomstenbelasting (IB) |   | x |   |   |
+|   | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) | aangiftebrief inkomstenbelasting (IB) | x |   |   |   |
 |   | Artikel 6, eerste lid | aangiftebrief omzetbelasting (OB) | x |   |   |   |
 |   | Artikel 6, eerste lid | aangiftebrief vennootschapsbelasting (Vpb) | x |   |   |   |
 |   | Artikel 6, tweede lid | verzoek om uitnodiging tot het doen van aangifte | x |   |   |   |
@@ -136,7 +136,6 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | [hoofdstuk VIIIA, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) jo. [titel 5.4 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) | alle berichten in verband met het opleggen van bestuurlijke boeten (alle middelen) | x |   |   |   |
 |   | [Artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) | alle berichten in verband met het opleggen van een strafbeschikking | x |   |   |   |
 | [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) |   | alle berichten in verband met de verrekening, betaling en invordering van belastingen | x |   |   |   |
-| [Wet internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954) |   | alle berichten | x |   |   |   |
 | [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende herziening en beslissingen tot algehele toewijzing van verzoeken om herziening | x |   |   |   |
@@ -169,11 +168,11 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | [Artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14) en [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) | verzoek om teruggaaf belasting zware motorrijtuigen | x |   |   |   |
 | [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) | [Artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=2) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3) | beschikkingen aanmerking onroerende zaak als landgoed | x |   |   |   |
 | [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) |   | alle berichten inzake de heffing van oppervlakterecht, cijns en winstaandeel | x |   |   |   |
-| [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748) | [Artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=91) | alle berichten inzake de heffing van de omgeslagen kosten |   |   |   |   |
+| [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748) | [Artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=91) | alle berichten inzake de heffing van de omgeslagen kosten | x |   |   |   |
 | [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) | [Artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.10) | alle berichten in verband met de heffing en invordering van de verontreinigingsheffing Rijkswateren | x |   |   |   |
 | [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) | [Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) | beschikking eigenrisicodrager intrekken beschikking eigenrisicodrager | x |   |   |   |
 | [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) | [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&hoofdstuk=5), [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&paragraaf=5.2) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&paragraaf=5.3) | alle berichten in verband met de heffing en invordering van de inkomensafhankelijke bijdrage | x |   |   |   |
-| [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) | [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=14) | beschikkingen inzake de toekenning van een tegemoetkoming vanaf berekeningsjaar 2012, voor zover gegeven na 20 november 2015 |   | x | Berichtenbox MijnOverheid | DigiD |
+| [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) | [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=14) | beschikkingen inzake de toekenning van een tegemoetkoming vanaf berekeningsjaar 2012 | x |   |   |   |
 |   | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=16) | beschikkingen inzake de verlening van een voorschot op een tegemoetkoming vanaf berekeningsjaar 2012, voor zover gegeven na 20 november 2015 |   | x | Berichtenbox MijnOverheid | DigiD |
 |   |   | alle overige berichten in verband met de toekenning, herziening, verrekening, uitbetaling en terugvordering van een tegemoetkoming of van een voorschot op de tegemoetkoming | x |   |   |   |
 | [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) | [Artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1) | verzoek om schriftelijke machtiging | x |   |   |   |
