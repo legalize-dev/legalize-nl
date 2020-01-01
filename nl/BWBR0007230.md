@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -86,11 +86,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2019-01-01&g=2019-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2020-01-01&g=2020-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -122,13 +122,13 @@ Vervallen
 
 3. De begroting voor de kosten van de landelijke voorziening WOZ wordt vastgesteld overeenkomstig de begroting van de Waarderingskamer.
 
-4. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing.
+4. De waterschappen betalen aan het Rijk jaarlijks een vergoeding voor het aandeel van de waterschappen in de kosten van de landelijke voorziening WOZ. Het Rijk zorgt voor de betaling aan de Waarderingskamer. [Artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 5. Het Rijk voldoet zijn aandeel in de begrote kosten binnen vier weken na vaststelling van de begroting aan de Waarderingskamer.
 
 6. Na de goedkeuring door Onze Minister van de jaarrekening van de landelijke voorziening vindt de definitieve kostenverrekening plaats met de kosten van het jaar volgend op het jaar waarover die jaarrekening is vastgesteld.
 
-7. De gemeenten betalen aan de Waarderingskamer een vergoeding voor het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=5&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing.
+7. De gemeenten betalen aan de Waarderingskamer een vergoeding voor het aandeel van de gemeenten in de kosten van de landelijke voorziening WOZ. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Gegevensbeheer
 
@@ -144,29 +144,27 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2019-01-01&g=2019-01-01) bedoelde gegevens aan de afnemers of aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ. Met de levering van de in artikel 7 bedoelde gegevens aan de Dienst heeft het college van burgemeester en wethouders aan de leveringsplicht richting de afnemers voldaan.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2020-01-01&g=2020-01-01) bedoelde gegevens aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ.
 
-2. De levering van gegevens aan de afnemers of aan de Dienst vindt plaats:
+2. De levering van gegevens aan de Dienst vindt plaats:
 
 - a. ter zake van een beschikking als bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22) en [26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=26): binnen acht weken na de aanvang van het eerste kalenderjaar waarvoor die beschikking geldt;
 
 - b. ter zake van een beschikking als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=28) en [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=29): binnen vier weken na de vaststelling van de beschikking, met dien verstande dat gegevens betreffende een beschikking die is verminderd krachtens een beslissing op een bezwaarschrift of een rechterlijke uitspraak, worden geleverd binnen twee weken nadat die uitspraak onherroepelijk is komen vast te staan.
 
-3. Ingeval het college van burgemeester en wethouders de gegevens levert aan de afnemers, worden de afnemers binnen vier weken op de hoogte gebracht van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en invordering van hun belastingen.
+3. Het college van burgemeester en wethouders stelt de Dienst onverwijld op de hoogte van feiten of omstandigheden met betrekking tot een beschikking die voor de afnemers van belang zijn in het kader van de heffing en invordering van hun belastingen.
 
-4. Ingeval het college van burgemeester en wethouders de gegevens levert aan de Dienst, wordt de Dienst onverwijld op de hoogte gebracht van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en invordering van hun belastingen.
-
-5. Bij levering door het college van burgemeester en wethouders van de gegevens aan de Dienst, draagt de Dienst onverwijld zorg voor de levering van de gegevens, feiten en omstandigheden, bedoeld in dit artikel, aan de afnemers.
+4. De Dienst draagt onverwijld zorg voor de levering van de gegevens, feiten en omstandigheden, bedoeld in dit artikel, aan de afnemers.
 
 ##### Artikel 9
 
-Voor het geval de levering van gegevens door het college van burgemeester en wethouders aan de afnemers plaatsvindt, stelt Onze Minister in overleg met de Waarderingskamer een standaard-uitwisselingsformaat voor de levering van gegevens aan de afnemers vast. Voor het geval de levering van gegevens door het college van burgemeester en wethouders plaatsvindt aan de Dienst, worden de specificaties voor de aanlevering van gegevens door de Waarderingskamer vastgesteld in overleg met de afnemers en de Dienst en gepubliceerd door de Waarderingskamer.
+De specificaties voor de aanlevering van gegevens door het college van burgemeester en wethouders aan de Dienst worden door de Waarderingskamer vastgesteld in overleg met de afnemers en de Dienst en gepubliceerd door de Waarderingskamer.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 10
 
-Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) worden aangewezen:
+1. Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven en de daarbij behorende temporele en meta-kenmerken op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) worden aangewezen:
 
 - a. de notaris in het kader van de bestrijding van vastgoedcriminaliteit ten behoeve van het vergelijken met een taxatiewaarde, dan wel het vergelijken met een aan- of verkoopprijs;
 
@@ -178,19 +176,23 @@ Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven op grond
 
 - e. Staatsbosbeheer ten behoeve van de vaststelling van de waarde van onroerende zaken die in erfpacht of opstal zijn of worden uitgegeven;
 
-- f. de huurcommissie ten behoeve van het vaststellen van het aantal woningwaarderingspunten van een woning.
+- f. de huurcommissie ten behoeve van het vaststellen van het aantal woningwaarderingspunten van een woning;
+
+- g. de Rijksdienst voor Ondernemend Nederland ten behoeve van een statistische analyse van de variabelen die het energielabel van huurwoningen voorspellen.
+
+2. Als bestuursorgaan dat bevoegd is tot het gebruik van de temporele en meta-kenmerken behorend bij het waardegegeven op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) wordt aangewezen de Autoriteit Consument en Markt ten behoeve van het vaststellen van een aansluiting als bedoeld in [artikel 1, eerste lid, onderdeel m, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) en [artikel 1, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1).
 
 ##### Artikel 11
 
-1. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen:
+1. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven en de daarbij behorende temporele en meta-kenmerken van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen:
 
 - a. verzekeraars die ingevolge [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) in Nederland mogen optreden als verzekeraar;
 
 - b. aanbieders van hypothecair krediet die ingevolge [hoofdstuk 2.2 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=2.2) in Nederland hypothecair krediet mogen aanbieden of die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) hebben en hebben voldaan aan artikel 3:110, vierde of vijfde lid, van die wet,
 
-indien deze om het waardegegeven verzoeken ten behoeve van het vergelijken met de veronderstelde waarde van een aan een financieringsaanvraag ten grondslag liggend waardeobject.
+indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenmerken verzoeken ten behoeve van het vergelijken met de veronderstelde waarde van een aan een financieringsaanvraag ten grondslag liggend waardeobject.
 
-2. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden mede aangewezen de door de Stichting Taxaties en Validaties gecertificeerde validatie-instituten, indien deze om het waardegegeven verzoeken ten behoeve van de validatie van een woningtaxatierapport van een aangesloten taxateur in het kader van een financieringsaanvraag.
+2. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven en de daarbij behorende temporele en meta-kenmerken van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden mede aangewezen de door de Stichting Nederlands Register Vastgoed Taxateurs gecertificeerde validatie-instituten, indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenmerken verzoeken ten behoeve van de validatie van een woningtaxatierapport van een aangesloten taxateur in het kader van een financieringsaanvraag.
 
 ##### Artikel 12
 
@@ -474,7 +476,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-## Bijlage. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2019-01-01&g=2019-01-01) van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+## Bijlage. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2020-01-01&g=2020-01-01) van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
 
