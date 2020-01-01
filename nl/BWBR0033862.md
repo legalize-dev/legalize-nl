@@ -4,7 +4,7 @@ identifier: "BWBR0033862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033862"
 soort: "ministeriele-regeling"
@@ -62,53 +62,61 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
 
-#### § 2. Vaste kosten
+#### § 2. Tariefregulering
 
 ##### Artikel 2
 
-1. Voor het vaststellen van de maximumprijs wordt bij het berekenen van het verschil in gebruikskosten uitgegaan van;
+1. Voor het vaststellen van het gebruiksonafhankelijke deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=3), wordt bij het berekenen van het verschil in gebruikskosten uitgegaan van:
 
-- a. een aanschafwaarde van een cv-ketel van: € 2.284,50,
+- a. door de Autoriteit Consument en Markt vastgestelde gemiddelde jaarlijkse kapitaals- en operationele kosten van een cv-ketel voor de levering van ruimteverwarming en tapwater;
 
-- b. een gemiddelde levensduur van een cv-ketel van 15 jaar,
+- b. door de Autoriteit Consument en Markt vastgestelde gemiddelde jaarlijkse kapitaals- en operationele kosten van een afleverset voor de levering van ruimteverwarming en tapwater;
 
-- c. een gemiddelde resterende levensduur van een cv-ketel van 7,5 jaar,
+- c. een door de Autoriteit Consument en Markt vastgestelde vermogenskostenvoet, waarbij wordt uitgegaan van een redelijk rendement dat in het economisch verkeer gebruikelijk is.
 
-- d. jaarlijkse onderhoudskosten van een cv-ketel van € 139,
+2. Voor het vaststellen van het gebruiksonafhankelijk deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 3, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=3), wordt uitgegaan van:
 
-- e. een aanschafwaarde van een warmtewisselaar van: € 1.925,
+- a. een basistarief voor aansluitingen voor levering van warmte met een vermogen tot 3 kilowatt (BTw) van € 245,27 inclusief BTW;
 
-- f. een reële vermogenskostenvoet gebaseerd op de laatst bekende heffingsrente die door het Ministerie van Financiën is vastgesteld,
+- b. een opslag per kilowatt extra vermogen van de aansluiting voor de levering van warmte (Ow >3 kW) van € 62,06 inclusief BTW per kilowatt extra vermogen van de aansluiting.
 
-- g. een gemiddelde levensduur van een warmtewisselaar van 15 jaar,
+3. Bij het berekenen van de opslag aan een verbruiker met een centrale aansluiting voor de levering van warmte met een vermogen van meer dan 100 kilowatt, bedoeld in [artikel 3, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=3), wordt uitgegaan van:
 
-- h. een gemiddelde resterende levensduur van een warmtewisselaar van 7,5 jaar,
+- a. gemiddelde jaarlijkse vaste kosten van het transport, de levering en de aansluiting van gas van een aansluiting voor gas met een vermogen van 1.000 kilowatt (VKg) en de meetkosten van een G100 aansluiting van € 3874,00 exclusief BTW;
 
-- i. jaarlijkse onderhoudskosten van een warmtewisselaar van € 44,77,
+- b. door de Autoriteit Consument en Markt vastgestelde gemiddelde jaarlijkse kapitaals- en operationele kosten van een cv-ketel met een vermogen van 1.000 kilowatt voor de levering van ruimteverwarming en tapwater uitgaande van:
 
-- j. de meetkosten op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.
+- i. onderhoudskosten van een cv-ketel van 3 procent van de investeringskosten, en
 
-- k. jaarlijkse meerkosten van elektrisch koken van € 20,68.
+- ii. een door de Autoriteit Consument en Markt vastgestelde vermogenskostenvoet gelijk aan de vermogenskostenvoet, bedoeld in het eerste lid, onderdeel c;
 
-2. Voor de in dit artikel genoemde bedragen geldt het jaar 2014 als referentiejaar en worden deze bedragen voor latere jaren gecorrigeerd voor de relatieve wijziging van de consumentenprijsindex.
+- c. meetkosten voor een G100 gasaansluiting die zijn opgenomen in het bedrag, genoemd in onderdeel a;
+
+- d. door de Autoriteit Consument en Markt vastgestelde gemiddelde jaarlijkse kapitaals- en operationele kosten van een afleverset voor een vermogen van 1.000 kilowatt voor de levering van ruimteverwarming en tapwater uitgaande van:
+
+- i. onderhoudskosten van een afleverset van 2 procent van de investeringskosten, en
+
+- ii. een door de Autoriteit Consument en Markt vastgestelde vermogenskostenvoet gelijk aan de vermogenskostenvoet, bedoeld in het eerste lid, onderdeel c;
+
+- e. door de Autoriteit Consument en Markt vastgestelde meetkosten voor het gebruik van warmte op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=3) onder GKg.
+
+4. De in dit artikel genoemde bedragen worden jaarlijks gecorrigeerd op basis van de relatieve wijziging van de consumentenprijsindex waarbij het jaar 2017 geldt als referentiejaar.
 
 #### § 3. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
 ##### Artikel 3
 
-Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wordt gebruik gemaakt van de volgende factoren:
+1. Voor het vaststellen van het gebruiksafhankelijk deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=4), wordt bij de bepaling van het brandstofrendement van de warmteproductie gebruik gemaakt van de volgende factoren:
 
 - a. warmtevraag voor ruimteverwarming als deel van de totale warmtevraag (VR), dat wordt vastgesteld op 0,79;
 
 - b. warmtevraag voor warm tapwater als deel van de totale warmtevraag (VT), dat wordt vastgesteld op 0,21;
 
-- c. leidingverlies bij ruimteverwarming (LVR), dat wordt vastgesteld op 0,05;
+- c. gemiddeld opwekrendement voor ruimteverwarming (ηruimte), dat wordt vastgesteld op 0,94;
 
-- d. leidingverlies bij tapwater (LVT), dat wordt vastgesteld op 0,10;
+- d. gemiddeld warm tapwater rendement (ηtap), dat wordt vastgesteld op 0,68.
 
-- e. gemiddeld opwekrendement voor ruimteverwarming (ηruimte), dat wordt vastgesteld op 0,94;
-
-- f. gemiddeld warm tapwater rendement (ηtap), dat wordt vastgesteld op 0,65.
+2. Voor het vaststellen van het gebruiksafhankelijk deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=4), wordt gebruik gemaakt van een bovenwaarde van de verbrandingswaarde van aardgas van 0,03517 GJ/Nm3 (CVg).
 
 #### § 4. Compensatie bij ernstige storingen en afsluitbeleid
 
@@ -158,7 +166,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 - b. biedt bij de herinnering aan met schriftelijke toestemming van de verbruiker de contactgegevens van de verbruiker, diens klantnummer, en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening te verstrekken, tenzij de verbruiker geen natuurlijk persoon is;
 
-- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2019-07-01&g=2019-07-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2019-07-01&g=2019-07-01), van toepassing zijn.
+- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2020-01-01&g=2020-01-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2020-01-01&g=2020-01-01), van toepassing zijn.
 
 4. De leverancier spant zich in om in persoonlijk contact te treden met de verbruiker teneinde deze te wijzen op mogelijkheden om betalingsachterstanden te voorkomen en te beëindigen.
 
@@ -182,7 +190,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 ##### Artikel 7
 
-1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2019-07-01&g=2019-07-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
+1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2020-01-01&g=2020-01-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
 
 2. Een leverancier beëindigt de levering van warmte aan een kleinverbruiker niet, tenzij:
 
@@ -198,11 +206,11 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 3. Een leverancier kan de levering van warmte aan een verbruiker beëindigen wegens wanbetaling, tenzij:
 
-- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
+- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2020-01-01&g=2020-01-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
 
 - b. de vordering van de leverancier binnen een redelijke termijn betrokken wordt bij een lopend traject van schuldhulpverlening aan de verbruiker;
 
-- c. toepassing dient te worden gegeven aan [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2019-07-01&g=2019-07-01), en binnen een redelijke termijn nadat toepassing is gegeven aan dat lid de vordering van de leverancier is betrokken bij een traject van schuldhulpverlening.
+- c. toepassing dient te worden gegeven aan [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2020-01-01&g=2020-01-01), en binnen een redelijke termijn nadat toepassing is gegeven aan dat lid de vordering van de leverancier is betrokken bij een traject van schuldhulpverlening.
 
 4. Een leverancier draagt er zorg voor dat de levering van warmte aan een verbruiker die wegens wanbetaling is beëindigd, wordt hervat indien de verbruiker een bewijs overlegt:
 
@@ -212,7 +220,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 5. De uitzonderingsgronden, bedoeld in het derde lid, onderdelen a en b, zijn niet van toepassing indien de schuldhulpverlening aan de verbruiker eindigt of indien de verbruiker de verplichtingen ten aanzien van de schuldhulpverlening niet nakomt.
 
-#### § 5. Slotbepalingen
+#### § 3. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
 ##### Artikel 8
 
@@ -329,6 +337,98 @@ In het leveringsprofiel, bedoeld in [artikel 10a, eerste lid, onderdeel d, van h
 - e. de warmtebron waarmee de te leveren warmte wordt opgewekt, en
 
 - f. de verwachte duurzaamheid van de warmtebron waarmee de te leveren warmte wordt opgewekt.
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+#### § 2.1. Vaste kosten van levering van warmte
+
+#### § 2.2. Variabele kosten van levering van warmte
+
+#### § 2.3. Vaste kosten van levering van koude met behulp van systemen als bedoeld in [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5)
+
+##### Artikel 3a
+
+1. Voor het vaststellen van de maximumprijs die door een leverancier aan een verbruiker in rekening mag worden gebracht voor de levering van koude, bedoeld in [artikel 4a, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=4a), wordt uitgegaan van:
+
+- a. een basistarief voor aansluitingen voor de levering van koude (BTk) van € 222,50 inclusief BTW, en
+
+- b. een opslag per kilowatt extra vermogen van de aansluiting voor de levering van koude (Ok>2kW) van € 54,11 inclusief BTW.
+
+2. De in dit artikel genoemde bedragen worden jaarlijks gecorrigeerd op basis van de relatieve wijziging van de consumentenprijsindex waarbij het jaar 2017 geldt als referentiejaar.
+
+#### § 2.4. Kosten van de afleverset
+
+##### Artikel 3b
+
+1. De kenmerkende functionaliteiten van de categorieën afleversets, bedoeld in [artikel 5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5b), zijn:
+
+- a. een individuele afleverset voor warmte voor alleen ruimteverwarming heeft een vermogen van 25 kilowatt en geen warmtewisselaar;
+
+- b. een collectieve afleverset voor warmte voor alleen ruimteverwarming heeft een vermogen van 100 kilowatt en geen warmtewisselaar;
+
+- c. een individuele afleverset voor warmte voor alleen verwarming van tapwater heeft een CW-waarde van 4 en geen elektronische regeling van de temperatuur van het tapwater;
+
+- d. een collectieve afleverset voor warmte voor alleen verwarming van tapwater heeft geen elektronische regeling van de temperatuur van het tapwater en kan een hoeveelheid tapwater leveren die overeenkomt met een CW-waarde van 4, waarbij ervan uitgegaan wordt dat niet alle verbruikers gelijktijdig een hoeveelheid tapwater nodig hebben die overeenkomt met CW-waarde 4;
+
+- e. een individuele gecombineerde afleverset voor warmte voor ruimteverwarming en verwarming van tapwater heeft een vermogen van 25 kilowatt, geen warmtewisselaar voor de ruimteverwarming, een CW-waarde van 4 en geen elektronische regeling van de temperatuur van het tapwater;
+
+- f. een collectieve gecombineerde afleverset voor warmte voor ruimteverwarming en verwarming van tapwater heeft een vermogen van 100 kilowatt, geen warmtewisselaar voor de ruimteverwarming, geen elektronische regeling van de temperatuur van het tapwater en kan een hoeveelheid tapwater leveren die overeenkomt met een CW-waarde van 4, waarbij ervan uitgegaan wordt dat niet alle verbruikers gelijktijdig een hoeveelheid tapwater nodig hebben die overeenkomt met CW-waarde 4.
+
+2. De Autoriteit Consument en Markt kan de aanvullende functionaliteiten van afleversets, bedoeld in [artikel 5b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5b), uitsluitend vaststellen op basis van de volgende elementen:
+
+- a. de mate waarin het vermogen van de afleverset afwijkt van het vermogen, genoemd in het eerste lid;
+
+- b. de mate waarin de CW-waarde bij een individuele afleverset afwijkt van de CW-waarde, genoemd in het eerste lid;
+
+- c. de mate waarin de hoeveelheid geleverde tapwater bij een collectieve afleverset afwijkt van de hoeveelheid die overeen komt met een CW-waarde van 4, waarbij ervan uitgegaan wordt dat niet alle verbruikers gelijktijdig een hoeveelheid tapwater nodig hebben die overeenkomt met CW-waarde 4;
+
+- d. de aanwezigheid van een warmtewisselaar voor de ruimteverwarming;
+
+- e. de aanwezigheid van een elektronische regeling van de temperatuur van het tapwater.
+
+#### § 4. Compensatie bij ernstige storingen en afsluitbeleid
+
+#### § 4a. Rapportage duurzaamheid
+
+##### Artikel 7a
+
+1. De beschrijving van het warmtenet, bedoeld in [artikel 7, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=7), omvat voor ieder warmtenet tenminste informatie over:
+
+- a. de gebiedsafbakening voor het warmtenet;
+
+- b. het aantal en type warmtebronnen waarmee het warmtenet wordt gevoed, en
+
+- c. het aantal en type verbruikers aangesloten op het warmtenet.
+
+2. De informatie over de energieprestatie en de CO2-prestaties van de geleverde warmte over het verslagjaar, bedoeld in [artikel 7, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=7), bevat tenminste informatie over:
+
+- a. de CO2 emissie in kg per eenheid geleverde warmte in GJ;
+
+- b. de primaire fossiele energie-inzet per eenheid geleverde warmte;
+
+- c. het aandeel hernieuwbare warmte in de geleverde warmte, en
+
+- d. de mate waarin het warmtenet voldoet aan de definitie voor efficiënte stadsverwarming en -koeling volgend uit artikel 2, lid 41, van [Richtlijn 2012/27](32012L0027)/EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van de Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PB L 315).
+
+3. De informatie over de energiebalans, bedoeld in [artikel 7, tweede lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=7), bevat tenminste informatie over:
+
+- a. de omvang van de primaire fossiele energie die wordt ingezet ten behoeve van de productie en levering van warmte;
+
+- b. de omvang van de hernieuwbare energie die wordt ingezet ten behoeve van de productie en levering van warmte;
+
+- c. de omvang van de restwarmte die wordt ingezet ten behoeve van de productie en levering van warmte; de omvang van de hulpenergie die wordt ingezet ten behoeve van de productie en levering van warmte;
+
+- d. de omvang van de warmteproductie;
+
+- e. de omvang van de warmtelevering, en
+
+- f. de omvang van het warmteverlies.
+
+4. De informatie over de energieprestatie en de CO2-prestaties van de geleverde warmte en de energiebalans wordt vastgesteld met gebruikmaking van een door de minister vastgesteld model.
+
+#### § 4b. Overleg over toegang voor producenten tot warmtenetten
 
 #### § 5. Slotbepalingen
 
