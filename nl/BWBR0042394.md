@@ -4,7 +4,7 @@ identifier: "BWBR0042394"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042394"
 soort: "wet"
@@ -75,11 +75,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2019-09-01&g=2019-09-01), voor de eerstvolgende tien jaren.
+1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), voor de eerstvolgende tien jaren.
 
 2. Het klimaatplan bevat tevens:
 
-- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2019-09-01&g=2019-09-01), worden bereikt;
+- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), worden bereikt;
 
 - b. het verwachte aandeel hernieuwbare energie en de verwachte besparing op het primaire energiegebruik;
 
@@ -109,7 +109,7 @@ In deze wet wordt verstaan onder:
 
 3. De Afdeling advisering van de Raad van State wordt over het klimaatplan gehoord.
 
-4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2019-09-01&g=2019-09-01), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
+4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Verantwoording
 
@@ -145,7 +145,7 @@ In deze wet wordt verstaan onder:
 
 - e. de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan, en
 
-- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2019-09-01&g=2019-09-01), als deze is uitgevoerd.
+- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), als deze is uitgevoerd.
 
 4. De Afdeling advisering van de Raad van State wordt over de klimaatnota gehoord.
 
@@ -153,11 +153,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2019-09-01&g=2019-09-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
+1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
 
 2. In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.
 
-3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2019-09-01&g=2019-09-01).
+3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk 5. Slotbepalingen
 
