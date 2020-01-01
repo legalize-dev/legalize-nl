@@ -4,7 +4,7 @@ identifier: "BWBR0014779"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2018-09-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014779"
 soort: "wet"
@@ -49,13 +49,13 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. **Onze Minister:** de Minister van Veiligheid en Justitie;
 
-- b. **het College van Toezicht:** het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2018-09-19&g=2018-09-19);
+- b. **het College van Toezicht:** het College van Toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - c. **collectieve beheersorganisatie:** elke organisatie die in Nederland gevestigd is en die bij wet of door middel van overdracht, licentieverlening of een andere overeenkomst door meer dan één rechthebbende is gemachtigd met als hoofddoel auteursrecht of naburige rechten te beheren ten behoeve van één of meer van hen, in het gezamenlijk belang van deze rechthebbenden en die onder zeggenschap staat van zijn leden of is ingericht zonder winstoogmerk;
 
 - d. **onafhankelijke beheersorganisatie:** iedere organisatie, niet zijnde een collectieve beheersorganisatie, die in Nederland gevestigd is en die bij wet of door middel van overdracht, licentieverlening of een andere overeenkomst door meer dan één rechthebbende is gemachtigd met als hoofddoel auteursrechten of naburige rechten te beheren, ten behoeve van één of meer rechthebbenden, in het gezamenlijk belang van deze rechthebbenden en die direct noch indirect, geheel noch gedeeltelijk onder zeggenschap staat van rechthebbenden en is ingericht met winstoogmerk;
 
-- e. **geschillencommissie:** de geschillencommissie, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2018-09-19&g=2018-09-19);
+- e. **geschillencommissie:** de geschillencommissie, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2020-01-01&g=2020-01-01);
 
 - f. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -83,7 +83,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 2. Het College ziet erop toe dat een collectieve beheersorganisatie voldoende is toegerust om zijn taken naar behoren uit te oefenen en bij de uitoefening van zijn werkzaamheden voldoende rekening houdt met de belangen van betalingsplichtigen.
 
-3. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld betreffende de in de [artikelen 2a tot en met 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2a&z=2018-09-19&g=2018-09-19) gestelde eisen waaraan een collectieve beheersorganisatie moet voldoen. Deze voorschriften kunnen in het bijzonder betrekking hebben op de inhoud van het jaarlijkse transparantieverslag, de naleving van een bij algemene maatregel van bestuur aan te wijzen gedragscode, het vaststellen van nadere regels ten aanzien van aanwending van gelden voor andere doeleinden dan uitkering aan rechthebbenden, het beheer van de gelden waarvoor geen rechthebbenden zijn gevonden en de wijze waarop de representativiteit dienen te worden aangetoond. Bij algemene maatregel van bestuur kunnen tevens regels worden vastgesteld over de inrichting en het bestuur van een collectieve beheersorganisatie alsmede over de hoogte en de vorm van de bezoldiging van leden van een adviserend orgaan en het toezicht daarop.
+3. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld betreffende de in de [artikelen 2a tot en met 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2a&z=2020-01-01&g=2020-01-01) gestelde eisen waaraan een collectieve beheersorganisatie moet voldoen. Deze voorschriften kunnen in het bijzonder betrekking hebben op de inhoud van het jaarlijkse transparantieverslag, de naleving van een bij algemene maatregel van bestuur aan te wijzen gedragscode, het vaststellen van nadere regels ten aanzien van aanwending van gelden voor andere doeleinden dan uitkering aan rechthebbenden, het beheer van de gelden waarvoor geen rechthebbenden zijn gevonden en de wijze waarop de representativiteit dienen te worden aangetoond. Bij algemene maatregel van bestuur kunnen tevens regels worden vastgesteld over de inrichting en het bestuur van een collectieve beheersorganisatie alsmede over de hoogte en de vorm van de bezoldiging van leden van een adviserend orgaan en het toezicht daarop.
 
 4. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -103,7 +103,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 3. Het College van Toezicht kan slechts zijn schriftelijke instemming aan een besluit onthouden indien de collectieve beheersorganisatie binnen een door het college te bepalen periode na ontvangst van een voorafgaand advies van het college het advies niet opvolgt.
 
-4. Het College van Toezicht onthoudt zijn goedkeuring aan een besluit tot verhoging van de tarieven, bedoeld in het eerste lid, onderdeel c, indien de verhoging, gelet op de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2018-09-19&g=2018-09-19), vermelde eisen, buitensporig is.
+4. Het College van Toezicht onthoudt zijn goedkeuring aan een besluit tot verhoging van de tarieven, bedoeld in het eerste lid, onderdeel c, indien de verhoging, gelet op de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2020-01-01&g=2020-01-01), vermelde eisen, buitensporig is.
 
 ##### Artikel 4
 
@@ -125,7 +125,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 5. Het College van Toezicht kan, indien het daartoe gronden aanwezig acht, de boekhouding van een collectieve beheersorganisatie laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de collectieve beheersorganisatie.
 
-6. Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=16&z=2018-09-19&g=2018-09-19), die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) worden gebruikt.
+6. Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=16&z=2020-01-01&g=2020-01-01), die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) worden gebruikt.
 
 ##### Artikel 6
 
@@ -149,7 +149,7 @@ Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties 
 
 6. Een lid dat een vacature vervult, wordt benoemd voor de resterende duur van de periode waarvoor het door hem vervangen afgetreden lid was benoemd.
 
-7. Het College van Toezicht kent zoveel plaatsvervangende leden als Onze Minister nodig acht. Het vierde en zesde lid en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=9&z=2018-09-19&g=2018-09-19) zijn van overeenkomstige toepassing.
+7. Het College van Toezicht kent zoveel plaatsvervangende leden als Onze Minister nodig acht. Het vierde en zesde lid en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=9&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -181,7 +181,7 @@ Vervallen
 
 1. Het College van Toezicht heeft een secretaris. De secretaris is geen lid van het College van Toezicht.
 
-2. Onze Minister benoemt, schorst en ontslaat de secretaris, na overleg met de voorzitter van het College van Toezicht.
+2. Onze Minister sluit, wijzigt en beëindigt de arbeidsovereenkomst met de secretaris na overleg met de voorzitter van het College van Toezicht.
 
 ##### Artikel 12
 
@@ -205,9 +205,9 @@ In afwijking van [artikel 18, eerste lid, eerste volzin, van de Kaderwet](https:
 
 ##### Artikel 16
 
-1. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), is deze derde, onverminderd het bepaalde in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5&z=2018-09-19&g=2018-09-19), gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.
+1. Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) of de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), is deze derde, onverminderd het bepaalde in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5&z=2020-01-01&g=2020-01-01), gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.
 
-2. [Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2018-09-19&g=2018-09-19), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2018-09-19&g=2018-09-19) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=19&z=2018-09-19&g=2018-09-19) zijn van overeenkomstige toepassing.
+2. [Artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) alsmede de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2020-01-01&g=2020-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2020-01-01&g=2020-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=19&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -217,7 +217,7 @@ Het College van Toezicht stelt de Europese Commissie uiterlijk op 10 april 2016 
 
 1. Het College van Toezicht kan een collectieve beheersorganisatie aan wie de overtreding kan worden toegerekend een bestuurlijke boete opleggen:
 
-- a. bij niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2018-09-19&g=2018-09-19), van ten hoogste € 225.000 per overtreding, of, indien dat meer is, 5% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen;
+- a. bij niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2020-01-01&g=2020-01-01), van ten hoogste € 225.000 per overtreding, of, indien dat meer is, 5% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen;
 
 - b. bij overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), van ten hoogste € 35.000 per overtreding, of, indien dat meer is, 1% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen.
 
@@ -229,13 +229,13 @@ Het College van Toezicht stelt de Europese Commissie uiterlijk op 10 april 2016 
 
 ##### Artikel 19
 
-1. Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2018-09-19&g=2018-09-19), of overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+1. Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=6&z=2020-01-01&g=2020-01-01), of overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. Aan een last kunnen voorschriften worden verbonden betreffende de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2018-09-19&g=2018-09-19), aan een collectieve beheersorganisatie gestelde eisen.
+2. Aan een last kunnen voorschriften worden verbonden betreffende de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2020-01-01&g=2020-01-01), aan een collectieve beheersorganisatie gestelde eisen.
 
 3. Een last geldt voor een door het College van Toezicht te bepalen termijn van ten hoogste twee jaren.
 
-4. Een boete, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2018-09-19&g=2018-09-19), en een last onder dwangsom kunnen samen worden opgelegd.
+4. Een boete, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=18&z=2020-01-01&g=2020-01-01), en een last onder dwangsom kunnen samen worden opgelegd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -271,11 +271,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Onze Minister wijst een geschillencommissie aan voor de beslechting van geschillen tussen in Nederland gevestigde collectieve beheersorganisaties die multiterritoriale licenties voor onlinerechten inzake muziekwerken aanbieden of verlenen en:
 
-- a. feitelijke en potentiële aanbieders van onlinediensten betreffende de toepassing van de [artikelen 2l](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2018-09-19&g=2018-09-19), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2018-09-19&g=2018-09-19), [5d](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5d&z=2018-09-19&g=2018-09-19) en [5e](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5e&z=2018-09-19&g=2018-09-19);
+- a. feitelijke en potentiële aanbieders van onlinediensten betreffende de toepassing van de [artikelen 2l](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2020-01-01&g=2020-01-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2020-01-01&g=2020-01-01), [5d](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5d&z=2020-01-01&g=2020-01-01) en [5e](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5e&z=2020-01-01&g=2020-01-01);
 
-- b. geschillen met één of meer rechthebbenden betreffende de toepassing van de [artikelen 5c tot en met 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2018-09-19&g=2018-09-19);
+- b. geschillen met één of meer rechthebbenden betreffende de toepassing van de [artikelen 5c tot en met 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2020-01-01&g=2020-01-01);
 
-- c. geschillen met een andere collectieve beheersorganisatie betreffende de toepassing van de [artikelen 5c tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2018-09-19&g=2018-09-19).
+- c. geschillen met een andere collectieve beheersorganisatie betreffende de toepassing van de [artikelen 5c tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2020-01-01&g=2020-01-01).
 
 2. Onze Minister kan een geschillencommissie aanwijzen, voor de beslechting van geschillen, anders dan de in het eerste lid genoemde, tussen collectieve beheersorganisaties en betalingsplichtigen over de billijkheid van de hoogte en de toepassing van door collectieve beheersorganisaties in rekening gebrachte vergoedingen, met uitzondering van geschillen over de hoogte van de in de [artikelen 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15c), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16c) en [16h van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16h) bedoelde vergoedingen.
 
@@ -287,11 +287,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 24
 
-De rechter beslist omtrent een geschil als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2018-09-19&g=2018-09-19) niet dan nadat de geschillencommissie in de gelegenheid is gesteld om hieromtrent advies uit te brengen, tenzij de geschillencommissie hierover reeds uitspraak heeft gedaan of de rechter ook zonder advies aanstonds kan beslissen.
+De rechter beslist omtrent een geschil als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2020-01-01&g=2020-01-01) niet dan nadat de geschillencommissie in de gelegenheid is gesteld om hieromtrent advies uit te brengen, tenzij de geschillencommissie hierover reeds uitspraak heeft gedaan of de rechter ook zonder advies aanstonds kan beslissen.
 
 ##### Artikel 25
 
-De geschillencommissie toetst bij de beoordeling of de hoogte en de toepassing van een in rekening gebrachte vergoeding billijk zijn in ieder geval aan de criteria van [artikel 2l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2018-09-19&g=2018-09-19).
+De geschillencommissie toetst bij de beoordeling of de hoogte en de toepassing van een in rekening gebrachte vergoeding billijk zijn in ieder geval aan de criteria van [artikel 2l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 26
 
@@ -361,7 +361,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Rechthebbenden kunnen de machtiging, als bedoeld in het tweede lid, geheel of gedeeltelijk beëindigen met inachtneming van een redelijke opzegtermijn van ten hoogste zes maanden. De collectieve beheersorganisatie kan besluiten dat een dergelijke beëindiging ingaat op het einde van het boekjaar.
 
-5. Als er aan een rechthebbende bedragen verschuldigd zijn voor exploitatiehandelingen die hebben plaatsgevonden voordat de machtiging is beëindigd, of op grond van een licentie die is verleend voordat de beëindiging van kracht werd, behoudt de rechthebbende zijn rechten op grond van de artikelen [2h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h&z=2018-09-19&g=2018-09-19), [2i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i&z=2018-09-19&g=2018-09-19), [2m](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2m&z=2018-09-19&g=2018-09-19), [2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2o&z=2018-09-19&g=2018-09-19), [5f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2018-09-19&g=2018-09-19) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2018-09-19&g=2018-09-19).
+5. Als er aan een rechthebbende bedragen verschuldigd zijn voor exploitatiehandelingen die hebben plaatsgevonden voordat de machtiging is beëindigd, of op grond van een licentie die is verleend voordat de beëindiging van kracht werd, behoudt de rechthebbende zijn rechten op grond van de artikelen [2h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h&z=2020-01-01&g=2020-01-01), [2i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i&z=2020-01-01&g=2020-01-01), [2m](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2m&z=2020-01-01&g=2020-01-01), [2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2o&z=2020-01-01&g=2020-01-01), [5f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2020-01-01&g=2020-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2020-01-01&g=2020-01-01).
 
 6. Een collectieve beheersorganisatie mag de uitoefening van de rechten, bedoeld in het vierde en vijfde lid, niet beperken door te eisen dat het beheer van de rechten op grond van de in de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) beschermd materiaal die het voorwerp zijn van de beëindiging, wordt toevertrouwd aan een andere collectieve beheersorganisatie.
 
@@ -385,7 +385,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2c
 
-Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie die geen leden heeft, maar wel een rechtstreekse band heeft met rechthebbenden bij wet of door middel van overdracht, licentieverlening of een andere overeenkomst, voldoet aan de [artikelen 2b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2b&z=2018-09-19&g=2018-09-19), [artikel 2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2c&z=2018-09-19&g=2018-09-19), [artikel 5g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2018-09-19&g=2018-09-19) en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2018-09-19&g=2018-09-19) uit deze wet.
+Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie die geen leden heeft, maar wel een rechtstreekse band heeft met rechthebbenden bij wet of door middel van overdracht, licentieverlening of een andere overeenkomst, voldoet aan de [artikelen 2b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2b&z=2020-01-01&g=2020-01-01), [artikel 2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2c&z=2020-01-01&g=2020-01-01), [artikel 5g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2020-01-01&g=2020-01-01) en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2020-01-01&g=2020-01-01) uit deze wet.
 
 ##### Artikel 2d
 
@@ -399,7 +399,7 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 5. De algemene vergadering heeft het recht de bezoldiging van bestuurders en andere emolumenten, zoals geldelijke en niet-geldelijke voordelen, pensioenrechten en -toekenningen, rechten op andere toekenningen en rechten op ontslagvergoedingen, goed te keuren.
 
-6. Onverminderd het bepaalde in de [artikelen 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2g&z=2018-09-19&g=2018-09-19), [2h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h&z=2018-09-19&g=2018-09-19) en [2i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i&z=2018-09-19&g=2018-09-19) besluit de algemene ledenvergadering ten minste over de volgende zaken:
+6. Onverminderd het bepaalde in de [artikelen 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2g&z=2020-01-01&g=2020-01-01), [2h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2h&z=2020-01-01&g=2020-01-01) en [2i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2i&z=2020-01-01&g=2020-01-01) besluit de algemene ledenvergadering ten minste over de volgende zaken:
 
 - (a). het algemene beleid ten aanzien van de verdeling van aan rechthebbenden verschuldigde bedragen;
 
@@ -419,7 +419,7 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 - (i). de goedkeuring voor het opnemen van leningen, het verstrekken van leningen en zekerheden voor leningen;
 
-- (j). de goedkeuring van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2018-09-19&g=2018-09-19) bedoelde jaarlijkse transparantierapport van de collectieve beheersorganisatie.
+- (j). de goedkeuring van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde jaarlijkse transparantierapport van de collectieve beheersorganisatie.
 
 7. De algemene vergadering kan de in het vierde, vijfde en zesde lid, onder f, g, h, en i opgesomde bevoegdheden bij besluit of door middel van een bepaling in de statuten delegeren aan het orgaan dat de toezichtfunctie uitoefent, ingeval een collectieve beheersorganisatie met leden over een dergelijk orgaan beschikt.
 
@@ -439,13 +439,13 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 2. De verschillende categorieën van leden van de collectieve beheersorganisatie zijn billijk en evenwichtig vertegenwoordigd in het orgaan dat de toezichtfunctie uitoefent.
 
-3. Elk lid van het orgaan dat de toezichtfunctie uitoefent, legt aan de algemene ledenvergadering jaarlijks een individuele verklaring af over ieder tegenstrijdige belang als bedoeld in [artikel 2f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2018-09-19&g=2018-09-19).
+3. Elk lid van het orgaan dat de toezichtfunctie uitoefent, legt aan de algemene ledenvergadering jaarlijks een individuele verklaring af over ieder tegenstrijdige belang als bedoeld in [artikel 2f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2020-01-01&g=2020-01-01).
 
 4. Het orgaan dat de toezichtfunctie uitoefent, komt periodiek bijeen en heeft ten minste de bevoegdheid om:
 
-- (a). de bevoegdheden uit te oefenen die door de algemene vergadering zijn gedelegeerd, met inbegrip van de bevoegdheden op grond van [artikel 2d, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19);
+- (a). de bevoegdheden uit te oefenen die door de algemene vergadering zijn gedelegeerd, met inbegrip van de bevoegdheden op grond van [artikel 2d, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01);
 
-- (b). toezicht te houden op de activiteiten en de taakuitvoering van de in [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2018-09-19&g=2018-09-19) bedoelde personen, de uitvoering van de besluiten van de algemene ledenvergadering of het orgaan dat de toezichtfunctie uitoefent, en in het bijzonder van de algemene beleidslijnen als bedoeld in [artikel 2d, zesde lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19).
+- (b). toezicht te houden op de activiteiten en de taakuitvoering van de in [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2020-01-01&g=2020-01-01) bedoelde personen, de uitvoering van de besluiten van de algemene ledenvergadering of het orgaan dat de toezichtfunctie uitoefent, en in het bijzonder van de algemene beleidslijnen als bedoeld in [artikel 2d, zesde lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01).
 
 5. Het orgaan dat de toezichtfunctie uitoefent, brengt ten minste eenmaal per jaar verslag uit aan de algemene ledenvergadering over de uitoefening van zijn bevoegdheden.
 
@@ -477,9 +477,9 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 - b). eventuele eigenvermogensbestanddelen en inkomsten uit dergelijke vermogensbestanddelen, uit beheerskosten of uit overige activiteiten.
 
-4. Het is een collectieve beheersorganisatie niet toegestaan om de rechteninkomsten of inkomsten uit de belegging van rechteninkomsten te gebruiken voor andere doeleinden dan uitkering aan de rechthebbenden, tenzij de collectieve beheersorganisatie toestemming heeft om beheerskosten in te houden of te compenseren in overeenstemming met een besluit genomen overeenkomstig artikel 2d, zesde lid, onderdeel d, of zij deze rechteninkomsten of inkomsten uit de belegging van rechteninkomsten mag gebruiken in overeenstemming met een besluit, als bedoeld in [artikel 2d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19).
+4. Het is een collectieve beheersorganisatie niet toegestaan om de rechteninkomsten of inkomsten uit de belegging van rechteninkomsten te gebruiken voor andere doeleinden dan uitkering aan de rechthebbenden, tenzij de collectieve beheersorganisatie toestemming heeft om beheerskosten in te houden of te compenseren in overeenstemming met een besluit genomen overeenkomstig artikel 2d, zesde lid, onderdeel d, of zij deze rechteninkomsten of inkomsten uit de belegging van rechteninkomsten mag gebruiken in overeenstemming met een besluit, als bedoeld in [artikel 2d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01).
 
-5. Wanneer een collectieve beheersorganisatie rechteninkomsten of inkomsten uit de belegging van rechteninkomsten belegt, doet zij dat in het belang van de rechthebbenden wiens rechten zij vertegenwoordigt, in overeenstemming met het in [artikel 2d, zesde lid, onderdelen c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19), bedoelde algemene beleggings- en risicobeheerbeleid en rekening houdend met de volgende bepalingen:
+5. Wanneer een collectieve beheersorganisatie rechteninkomsten of inkomsten uit de belegging van rechteninkomsten belegt, doet zij dat in het belang van de rechthebbenden wiens rechten zij vertegenwoordigt, in overeenstemming met het in [artikel 2d, zesde lid, onderdelen c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01), bedoelde algemene beleggings- en risicobeheerbeleid en rekening houdend met de volgende bepalingen:
 
 - a). wanneer er een potentieel belangenconflict bestaat, ziet de collectieve beheersorganisatie erop toe dat de belegging uitsluitend in het belang van die rechthebbenden wordt uitgevoerd;
 
@@ -501,9 +501,9 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 ##### Artikel 2i
 
-1. Onverminderd het bepaalde in [artikel 2k, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2k&z=2018-09-19&g=2018-09-19) en [artikel 5f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2018-09-19&g=2018-09-19) ziet het College van Toezicht erop toe dat elke collectieve beheersorganisatie bij de verdeling van aan rechthebbenden verschuldigde bedragen de in het tweede tot en met tiende lid vastgestelde regels naleeft.
+1. Onverminderd het bepaalde in [artikel 2k, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2k&z=2020-01-01&g=2020-01-01) en [artikel 5f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2020-01-01&g=2020-01-01) ziet het College van Toezicht erop toe dat elke collectieve beheersorganisatie bij de verdeling van aan rechthebbenden verschuldigde bedragen de in het tweede tot en met tiende lid vastgestelde regels naleeft.
 
-2. Elke collectieve beheersorganisatie verdeelt regelmatig, zorgvuldig en correct de verschuldigde bedragen en betaalt deze bedragen aan rechthebbenden, in overeenstemming met het algemene beleid inzake de verdeling, bedoeld in [artikel 2d, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19).
+2. Elke collectieve beheersorganisatie verdeelt regelmatig, zorgvuldig en correct de verschuldigde bedragen en betaalt deze bedragen aan rechthebbenden, in overeenstemming met het algemene beleid inzake de verdeling, bedoeld in [artikel 2d, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01).
 
 3. Collectieve beheersorganisaties of hun leden die organisaties zijn die rechthebbenden vertegenwoordigen, verdelen en betalen deze bedragen zo snel mogelijk aan rechthebbenden. Betaling en verdeling vindt in ieder geval uiterlijk negen maanden na afloop van het boekjaar plaats waarin de rechteninkomsten zijn geïnd, tenzij objectieve redenen de collectieve beheersorganisatie of, in voorkomend geval, zijn leden ervan weerhouden deze uiterste termijn te eerbiedigen.
 
@@ -525,11 +525,11 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie di
 
 - d). alle overige ter zake dienende beschikbare informatie die kan helpen om de rechthebbende te identificeren.
 
-7. De collectieve beheersorganisatie controleert het in [artikel 2b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2b&z=2018-09-19&g=2018-09-19), bedoelde register en andere gemakkelijk beschikbare registers. Indien deze controle geen resultaat oplevert, maakt de collectieve beheersorganisatie de informatie, bedoeld in het zesde lid, uiterlijk één jaar na het verstrijken van de periode van drie maanden openbaar op zijn internetpagina.
+7. De collectieve beheersorganisatie controleert het in [artikel 2b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2b&z=2020-01-01&g=2020-01-01), bedoelde register en andere gemakkelijk beschikbare registers. Indien deze controle geen resultaat oplevert, maakt de collectieve beheersorganisatie de informatie, bedoeld in het zesde lid, uiterlijk één jaar na het verstrijken van de periode van drie maanden openbaar op zijn internetpagina.
 
 8. Verschuldigde bedragen aan rechthebbenden worden als onverdeeld beschouwd, indien deze bedragen drie jaar na afloop van het boekjaar waarin de inning van de rechteninkomsten heeft plaatsgevonden nog niet kunnen worden verdeeld en de collectieve beheersorganisatie alle nodige maatregelen heeft getroffen om de rechthebbenden te identificeren en te lokaliseren, als bedoeld in het vijfde, zesde en zevende lid.
 
-9. De algemene ledenvergadering van een collectieve beheersorganisatie besluit over het gebruik van de onverdeelde bedragen overeenkomstig [artikel 2d, zesde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2018-09-19&g=2018-09-19), onverminderd het recht van rechthebbenden om dergelijke bedragen van de collectieve beheersorganisatie te vorderen.
+9. De algemene ledenvergadering van een collectieve beheersorganisatie besluit over het gebruik van de onverdeelde bedragen overeenkomstig [artikel 2d, zesde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2d&z=2020-01-01&g=2020-01-01), onverminderd het recht van rechthebbenden om dergelijke bedragen van de collectieve beheersorganisatie te vorderen.
 
 10. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over het gebruik van onverdeelde gelden.
 
@@ -559,7 +559,7 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie ni
 
 ##### Artikel 2m
 
-1. Onverminderd het bepaalde in het tweede lid, [artikel 2n](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2n&z=2018-09-19&g=2018-09-19) en [artikel 5f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2018-09-19&g=2018-09-19), ziet het College van Toezicht erop toe dat een collectieve beheersorganisatie minimaal eenmaal per jaar ten minste de volgende informatie bekendmaakt aan iedere rechthebbende aan wie zij rechteninkomsten heeft toegewezen of betalingen heeft gedaan, voor de periode waarop de informatie betrekking heeft:
+1. Onverminderd het bepaalde in het tweede lid, [artikel 2n](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2n&z=2020-01-01&g=2020-01-01) en [artikel 5f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5f&z=2020-01-01&g=2020-01-01), ziet het College van Toezicht erop toe dat een collectieve beheersorganisatie minimaal eenmaal per jaar ten minste de volgende informatie bekendmaakt aan iedere rechthebbende aan wie zij rechteninkomsten heeft toegewezen of betalingen heeft gedaan, voor de periode waarop de informatie betrekking heeft:
 
 - a). de contactgegevens van de rechthebbende;
 
@@ -585,7 +585,7 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie aa
 
 - b). bedragen die zijn ingehouden met betrekking tot beheerskosten;
 
-- c). de bedragen die zijn ingehouden voor andere doeleinden dan met betrekking tot beheerskosten, als bedoeld in [artikel 2k](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2k&z=2018-09-19&g=2018-09-19);
+- c). de bedragen die zijn ingehouden voor andere doeleinden dan met betrekking tot beheerskosten, als bedoeld in [artikel 2k](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2k&z=2020-01-01&g=2020-01-01);
 
 - d). informatie over iedere verleende of geweigerde licentie met betrekking tot op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) beschermd materiaal die wordt bestreken door de vertegenwoordigingsovereenkomst;
 
@@ -593,7 +593,7 @@ Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie aa
 
 ##### Artikel 2o
 
-Onverminderd het bepaalde in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2018-09-19&g=2018-09-19), ziet het College van Toezicht erop toe dat een collectieve beheersorganisatie, na een gemotiveerd verzoek, op elektronische wijze en zonder onnodige vertraging, op zijn minst de volgende informatie bekendmaakt aan iedere rechthebbende of gebruiker of aan de collectieve beheersorganisatie wiens rechten zij beheert op grond van een vertegenwoordigingsovereenkomst:
+Onverminderd het bepaalde in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2020-01-01&g=2020-01-01), ziet het College van Toezicht erop toe dat een collectieve beheersorganisatie, na een gemotiveerd verzoek, op elektronische wijze en zonder onnodige vertraging, op zijn minst de volgende informatie bekendmaakt aan iedere rechthebbende of gebruiker of aan de collectieve beheersorganisatie wiens rechten zij beheert op grond van een vertegenwoordigingsovereenkomst:
 
 - a). het op grond van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) en de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) beschermd materiaal dat zij beheert, de rechten die zij direct of krachtens een vertegenwoordigingsovereenkomst beheert en het grondgebied dat zij bestrijkt, of
 
@@ -609,7 +609,7 @@ Onverminderd het bepaalde in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c). standaardlicentieovereenkomsten en normaal toepasselijke tarieven, inclusief kortingen;
 
-- d). de lijst met personen bedoeld in [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2018-09-19&g=2018-09-19) en de nevenactiviteiten die door hen worden uitgeoefend;
+- d). de lijst met personen bedoeld in [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f&z=2020-01-01&g=2020-01-01) en de nevenactiviteiten die door hen worden uitgeoefend;
 
 - e). zijn algemene beleid inzake verdeling van de aan rechthebbenden verschuldigde bedragen;
 
@@ -621,7 +621,7 @@ Onverminderd het bepaalde in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BW
 
 - i). het algemene beleid inzake het gebruik van onverdeelde bedragen;
 
-- j). de overeenkomstig de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2018-09-19&g=2018-09-19) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2018-09-19&g=2018-09-19) beschikbare procedures voor klachtenafhandeling en geschillenbeslechting;
+- j). de overeenkomstig de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=22&z=2020-01-01&g=2020-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23&z=2020-01-01&g=2020-01-01) beschikbare procedures voor klachtenafhandeling en geschillenbeslechting;
 
 - l). de wijze waarop wel of geen vrijwaring wordt gegeven voor claims van niet-vertegenwoordigde rechthebbenden.
 
@@ -645,7 +645,7 @@ Een collectieve beheersorganisatie stelt met alle collectieve beheersorganisatie
 
 ##### Artikel 5a
 
-Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a), ziet het College van Toezicht erop toe dat in Nederland gevestigde collectieve beheersorganisaties zich aan de voorschriften uit de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2018-09-19&g=2018-09-19) houden bij de verlening van multiterritoriale licenties voor onlinerechten inzake muziekwerken.
+Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a), ziet het College van Toezicht erop toe dat in Nederland gevestigde collectieve beheersorganisaties zich aan de voorschriften uit de [artikelen 5b tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2020-01-01&g=2020-01-01) houden bij de verlening van multiterritoriale licenties voor onlinerechten inzake muziekwerken.
 
 ##### Artikel 5b
 
@@ -675,11 +675,11 @@ Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl
 
 ##### Artikel 5d
 
-1. Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie die multiterritoriale licenties voor onlinerechten inzake muziekwerken verleent, beschikt over een regeling waarmee rechthebbenden, andere collectieve beheersorganisaties en aanbieders van onlinediensten kunnen vragen om rectificatie van de gegevens, bedoeld in de lijst van voorwaarden in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2018-09-19&g=2018-09-19), of de op grond van [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2018-09-19&g=2018-09-19) verstrekte informatie. Een verzoek tot rectificatie gaat vergezeld van bewijsstukken waaruit redelijkerwijs blijkt dat de gegevens met betrekking tot hun onlinerechten inzake muziekwerken onjuist zijn. De collectieve beheersorganisatie draagt zorg voor rectificatie zonder onnodige vertraging, indien het verzoek voldoende is onderbouwd.
+1. Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie die multiterritoriale licenties voor onlinerechten inzake muziekwerken verleent, beschikt over een regeling waarmee rechthebbenden, andere collectieve beheersorganisaties en aanbieders van onlinediensten kunnen vragen om rectificatie van de gegevens, bedoeld in de lijst van voorwaarden in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2020-01-01&g=2020-01-01), of de op grond van [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5c&z=2020-01-01&g=2020-01-01) verstrekte informatie. Een verzoek tot rectificatie gaat vergezeld van bewijsstukken waaruit redelijkerwijs blijkt dat de gegevens met betrekking tot hun onlinerechten inzake muziekwerken onjuist zijn. De collectieve beheersorganisatie draagt zorg voor rectificatie zonder onnodige vertraging, indien het verzoek voldoende is onderbouwd.
 
-2. De collectieve beheersorganisatie stelt rechthebbenden van wie muziekwerken in zijn eigen muziekrepertoire zijn opgenomen, of die zij overeenkomstig [artikel 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5i&z=2018-09-19&g=2018-09-19) vertegenwoordigt, in staat om in elektronische vorm informatie in te dienen over hun muziekwerken, hun rechten op deze werken en de grondgebieden waarvoor zij de collectieve beheersorganisatie machtigen. Daarbij houden de collectieve beheersorganisatie en de rechthebbenden voor zover mogelijk rekening met vrijwillige industriële normen of praktijken met betrekking tot gegevensuitwisseling die zijn ontwikkeld op internationaal niveau of op het niveau van de Europese Unie, waardoor de rechthebbenden het muziekwerk geheel of gedeeltelijk, de onlinerechten geheel of gedeeltelijk en de grondgebieden waarvoor zij de organisatie machtigen, kunnen specificeren.
+2. De collectieve beheersorganisatie stelt rechthebbenden van wie muziekwerken in zijn eigen muziekrepertoire zijn opgenomen, of die zij overeenkomstig [artikel 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5i&z=2020-01-01&g=2020-01-01) vertegenwoordigt, in staat om in elektronische vorm informatie in te dienen over hun muziekwerken, hun rechten op deze werken en de grondgebieden waarvoor zij de collectieve beheersorganisatie machtigen. Daarbij houden de collectieve beheersorganisatie en de rechthebbenden voor zover mogelijk rekening met vrijwillige industriële normen of praktijken met betrekking tot gegevensuitwisseling die zijn ontwikkeld op internationaal niveau of op het niveau van de Europese Unie, waardoor de rechthebbenden het muziekwerk geheel of gedeeltelijk, de onlinerechten geheel of gedeeltelijk en de grondgebieden waarvoor zij de organisatie machtigen, kunnen specificeren.
 
-3. Een collectieve beheersorganisatie die door een andere collectieve beheersorganisatie overeenkomstig [artikel 5g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2018-09-19&g=2018-09-19) en [5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5h&z=2018-09-19&g=2018-09-19) is belast met de uitgifte van multiterritoriale licenties past het tweede lid ook toe met betrekking tot de rechthebbenden van lastgevende collectieve beheersorganisaties, tenzij de collectieve beheersorganisaties anders overeenkomen.
+3. Een collectieve beheersorganisatie die door een andere collectieve beheersorganisatie overeenkomstig [artikel 5g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2020-01-01&g=2020-01-01) en [5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5h&z=2020-01-01&g=2020-01-01) is belast met de uitgifte van multiterritoriale licenties past het tweede lid ook toe met betrekking tot de rechthebbenden van lastgevende collectieve beheersorganisaties, tenzij de collectieve beheersorganisaties anders overeenkomen.
 
 ##### Artikel 5e
 
@@ -691,7 +691,7 @@ Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl
 
 4. De collectieve beheersorganisatie biedt het gebruik van ten minste één verslagmethode aan, rekening houdend met vrijwillige industriële normen of praktijken die op internationaal niveau of op het niveau van de Europese Unie zijn ontwikkeld voor de elektronische uitwisseling van dergelijke gegevens. Als de collectieve beheersorganisatie voorziet in verslaglegging volgens een industriële norm voor de elektronische gegevensuitwisseling, kan zij weigeren verslagen van de aanbieder van onlinediensten in een eigen indeling te aanvaarden.
 
-5. De collectieve beheersorganisatie verzendt facturen aan de aanbieder van onlinediensten op elektronische wijze. De collectieve beheersorganisatie biedt het gebruik van ten minste één indeling aan, rekening houdend met vrijwillige industriële normen of praktijken die op internationaal niveau of op het niveau van de Unie zijn ontwikkeld. Op de factuur worden de muziekwerken en rechten geïdentificeerd die geheel of gedeeltelijk in licentie zijn gegeven op grond van de gegevens, als bedoeld in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2018-09-19&g=2018-09-19) en het dienovereenkomstige feitelijke gebruik, voor zover mogelijk op grond van de door de aanbieder van onlinediensten verstrekte informatie en de indeling die is gebruikt om die informatie te verstrekken. Als de collectieve beheersorganisatie een industriële norm hanteert, kan de aanbieder van onlinediensten de factuur niet weigeren vanwege de indeling.
+5. De collectieve beheersorganisatie verzendt facturen aan de aanbieder van onlinediensten op elektronische wijze. De collectieve beheersorganisatie biedt het gebruik van ten minste één indeling aan, rekening houdend met vrijwillige industriële normen of praktijken die op internationaal niveau of op het niveau van de Unie zijn ontwikkeld. Op de factuur worden de muziekwerken en rechten geïdentificeerd die geheel of gedeeltelijk in licentie zijn gegeven op grond van de gegevens, als bedoeld in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5b&z=2020-01-01&g=2020-01-01) en het dienovereenkomstige feitelijke gebruik, voor zover mogelijk op grond van de door de aanbieder van onlinediensten verstrekte informatie en de indeling die is gebruikt om die informatie te verstrekken. Als de collectieve beheersorganisatie een industriële norm hanteert, kan de aanbieder van onlinediensten de factuur niet weigeren vanwege de indeling.
 
 6. Nadat het feitelijke gebruik van de onlinerechten van een muziekwerk is gemeld, factureert de collectieve beheersorganisatie, de onlinediensten zorgvuldig en zonder vertraging aan de aanbieder, tenzij dat niet mogelijk is om redenen die zijn toe te schrijven aan de aanbieder van onlinediensten.
 
@@ -709,7 +709,7 @@ Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl
 
 - c). de voor de rechthebbenden geïnde bedragen, ingehouden bedragen en bedragen die door de collectieve beheersorganisatie zijn verdeeld met betrekking tot iedere aanbieder van onlinediensten.
 
-3. Het bepaalde in het eerste en het tweede lid geldt niet wanneer een collectieve beheersorganisatie een andere collectieve beheersorganisatie heeft belast met multiterritoriale licentieverlening voor de onlinerechten inzake muziekwerken op grond van de [artikelen 5g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2018-09-19&g=2018-09-19) en [5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5h&z=2018-09-19&g=2018-09-19). In dat geval verdeelt de lastnemende collectieve beheersorganisatie de bedragen, bedoeld in het eerste lid, nauwkeurig en zonder vertraging, en verstrekt zij de informatie, als bedoeld in het tweede lid aan de lastgevende collectieve beheersorganisatie. De lastgevende collectieve beheersorganisatie is verantwoordelijk voor de verdeling van die bedragen en de verstrekking van die informatie aan de rechthebbenden, tenzij de collectieve beheersorganisaties anders overeenkomen.
+3. Het bepaalde in het eerste en het tweede lid geldt niet wanneer een collectieve beheersorganisatie een andere collectieve beheersorganisatie heeft belast met multiterritoriale licentieverlening voor de onlinerechten inzake muziekwerken op grond van de [artikelen 5g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5g&z=2020-01-01&g=2020-01-01) en [5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5h&z=2020-01-01&g=2020-01-01). In dat geval verdeelt de lastnemende collectieve beheersorganisatie de bedragen, bedoeld in het eerste lid, nauwkeurig en zonder vertraging, en verstrekt zij de informatie, als bedoeld in het tweede lid aan de lastgevende collectieve beheersorganisatie. De lastgevende collectieve beheersorganisatie is verantwoordelijk voor de verdeling van die bedragen en de verstrekking van die informatie aan de rechthebbenden, tenzij de collectieve beheersorganisaties anders overeenkomen.
 
 ##### Artikel 5g
 
@@ -731,15 +731,15 @@ Onverminderd het bepaalde in [artikel 30a Auteurswet](https://wetten.overheid.nl
 
 5. De beheerskosten voor de dienst die door de aangezochte collectieve beheersorganisatie wordt verleend aan de verzoekende organisatie overstijgen niet de kosten die door de aangezochte collectieve beheersorganisatie redelijkerwijs zijn gemaakt.
 
-6. De verzoekende collectieve beheersorganisatie verstrekt de aangezochte collectieve beheersorganisatie de informatie over zijn eigen muziekrepertoire die noodzakelijk is voor de verlening van multiterritoriale licenties voor onlinerechten inzake muziekwerken. De aangezochte collectieve beheersorganisatie kan de kosten die redelijkerwijs zijn gemaakt, teneinde muziekwerken waarvoor informatie ontoereikend of onbruikbaar is, uit te sluiten of om aan de vereisten te voldoen, in rekening brengen bij de verzoekende collectieve beheersorganisatie, indien de verstrekte informatie ontoereikend is of in een vorm is verstrekt die de aangezochte collectieve beheersorganisatie niet in staat stelt aan de vereisten van de [artikel 5a tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2018-09-19&g=2018-09-19) te voldoen.
+6. De verzoekende collectieve beheersorganisatie verstrekt de aangezochte collectieve beheersorganisatie de informatie over zijn eigen muziekrepertoire die noodzakelijk is voor de verlening van multiterritoriale licenties voor onlinerechten inzake muziekwerken. De aangezochte collectieve beheersorganisatie kan de kosten die redelijkerwijs zijn gemaakt, teneinde muziekwerken waarvoor informatie ontoereikend of onbruikbaar is, uit te sluiten of om aan de vereisten te voldoen, in rekening brengen bij de verzoekende collectieve beheersorganisatie, indien de verstrekte informatie ontoereikend is of in een vorm is verstrekt die de aangezochte collectieve beheersorganisatie niet in staat stelt aan de vereisten van de [artikel 5a tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2020-01-01&g=2020-01-01) te voldoen.
 
 ##### Artikel 5i
 
-1. Het College van Toezicht ziet erop toe dat rechthebbenden, die een collectieve beheersorganisatie hebben gemachtigd om hun onlinerechten inzake muziekwerken te beheren, de onlinerechten inzake muziekwerken ten behoeve van multiterritoriale licentieverlening voor alle grondgebieden uit die collectieve beheersorganisatie kunnen terugtrekken zonder de onlinerechten inzake muziekwerken ten behoeve van monoterritoriale licentieverlening te hoeven terugtrekken, wanneer een collectieve beheersorganisatie uiterlijk op 10 april 2017 geen multiterritoriale licenties voor onlinerechten inzake muziekwerken verleent of aanbiedt en geen andere collectieve beheersorganisatie toestaat die rechten voor een dergelijk doel te beheren. Deze rechthebbenden kunnen vervolgens zelf of via enige andere partij die zij machtigen of via een collectieve beheersorganisatie die wel voldoet aan de voorwaarden van de [artikelen 5a tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2018-09-19&g=2018-09-19), multiterritoriale licenties voor hun onlinerechten inzake muziekwerken verlenen.
+1. Het College van Toezicht ziet erop toe dat rechthebbenden, die een collectieve beheersorganisatie hebben gemachtigd om hun onlinerechten inzake muziekwerken te beheren, de onlinerechten inzake muziekwerken ten behoeve van multiterritoriale licentieverlening voor alle grondgebieden uit die collectieve beheersorganisatie kunnen terugtrekken zonder de onlinerechten inzake muziekwerken ten behoeve van monoterritoriale licentieverlening te hoeven terugtrekken, wanneer een collectieve beheersorganisatie uiterlijk op 10 april 2017 geen multiterritoriale licenties voor onlinerechten inzake muziekwerken verleent of aanbiedt en geen andere collectieve beheersorganisatie toestaat die rechten voor een dergelijk doel te beheren. Deze rechthebbenden kunnen vervolgens zelf of via enige andere partij die zij machtigen of via een collectieve beheersorganisatie die wel voldoet aan de voorwaarden van de [artikelen 5a tot en met 5j](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2020-01-01&g=2020-01-01), multiterritoriale licenties voor hun onlinerechten inzake muziekwerken verlenen.
 
 ##### Artikel 5j
 
-De [artikelen 5a tot en met 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2018-09-19&g=2018-09-19) zijn niet van toepassing op collectieve beheersorganisaties die op grond van de vrijwillige samenvoeging van de vereiste rechten overeenkomstig de mededingingsregels krachtens de artikelen 101 en 102 VWEU, een multiterritoriale licentie verlenen voor de onlinerechten inzake muziekwerken die vereist zijn voor een omroep die zijn radio- of televisieprogramma’s gelijktijdig met of na de oorspronkelijke uitzending wil meedelen of openbaar wil maken.
+De [artikelen 5a tot en met 5i](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5a&z=2020-01-01&g=2020-01-01) zijn niet van toepassing op collectieve beheersorganisaties die op grond van de vrijwillige samenvoeging van de vereiste rechten overeenkomstig de mededingingsregels krachtens de artikelen 101 en 102 VWEU, een multiterritoriale licentie verlenen voor de onlinerechten inzake muziekwerken die vereist zijn voor een omroep die zijn radio- of televisieprogramma’s gelijktijdig met of na de oorspronkelijke uitzending wil meedelen of openbaar wil maken.
 
 ##### Artikel 25b
 
@@ -757,7 +757,7 @@ Het College van Toezicht zorgt voor de inrichting van een procedure waarmee bela
 
 ##### Artikel 25d
 
-De [artikelen 2l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2018-09-19&g=2018-09-19), [artikel 2m](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2m&z=2018-09-19&g=2018-09-19), [artikel 2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2o&z=2018-09-19&g=2018-09-19), [artikel 2p, eerste lid, onderdeel a, b, c, e, f, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2p&z=2018-09-19&g=2018-09-19), [artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=25b&z=2018-09-19&g=2018-09-19) zijn van overeenkomstige toepassing op onafhankelijke beheersorganisaties.
+De [artikelen 2l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2l&z=2020-01-01&g=2020-01-01), [artikel 2m](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2m&z=2020-01-01&g=2020-01-01), [artikel 2o](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2o&z=2020-01-01&g=2020-01-01), [artikel 2p, eerste lid, onderdeel a, b, c, e, f, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2p&z=2020-01-01&g=2020-01-01), [artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=25b&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op onafhankelijke beheersorganisaties.
 
 ## Bijlage
 
