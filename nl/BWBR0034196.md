@@ -4,7 +4,7 @@ identifier: "BWBR0034196"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2014-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034196"
 soort: "AMvB"
@@ -73,5 +73,11 @@ De volgende besluiten worden ingetrokken:
 ##### Artikel III. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel IIa. Omhangbepaling
+
+Dit besluit berust op [artikel X van de Wet tot wijziging van enige wetten in verband met de normalisering van de rechtspositie van ambtenaren in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0042739&artikel=X).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
