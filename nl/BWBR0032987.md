@@ -4,7 +4,7 @@ identifier: "BWBR0032987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2013-03-14"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032987"
 soort: "ministeriele-regeling"
@@ -51,6 +51,16 @@ Als ambtenaren die kunnen worden belast met de tenuitvoerlegging van rechterlijk
 - c. de opsporingsambtenaren van de bijzondere opsporingsdiensten, als bedoeld in [artikel 141, aanhef en onder d van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2).
 
 ##### Artikel 2
+
+Deze regeling berust op [artikel 6:1:5, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3
+
+Deze regeling wordt aangehaald als: Regeling tot aanwijzing van vermogenstraceerders en bijzondere opsporingsambtenaren.
+
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
