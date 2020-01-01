@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2018-10-20"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en V
 
 ##### Artikel 2
 
-De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met h, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en gemandateerd om op te treden als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de onder hun cluster ressorterende ambtenaren.
+De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met h, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun cluster ressorterende ambtenaren.
 
 ##### Artikel 3
 
@@ -60,11 +60,13 @@ De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en me
 
 - b. worden genomen op grond van:
 
-- 1°. [artikel 69 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), [artikel 46 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46), [artikel 69 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69) of [artikel 22 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=22), voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–;
+- 1°. het Burgerlijk Wetboek, [artikel 46 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46), [artikel 69 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69) of [artikel 22 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=22), voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–;
 
-- 2º. [artikel 96b van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=96b), [artikel 92, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=92) of [artikel 39 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=39);
+- 2º. [artikel 92, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=92) of [artikel 39 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=39);
 
-- 3º. [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), [artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36b) of [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95), indien de meerkosten aangaande de minimale uitkering meer bedragen dan drie bruto maandsalarissen;
+- 3º. [artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36b) of [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95), indien de meerkosten aangaande de minimale uitkering meer bedragen dan drie bruto maandsalarissen;
+
+- 4°. een financiële vergoeding in verband met de beëindiging van de arbeidsovereenkomst die de uitkomst van de berekening overeenkomstig een transitievergoeding in de zin van [artikel 7:673 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), vermeerderd met € 10.000, overstijgt;
 
 - c. het verstrekken van reisopdrachten aan functionarissen naar landen buiten Europa alsmede Turkije betreffen.
 
@@ -72,7 +74,15 @@ De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en me
 
 - a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), indien gehele of gedeeltelijke inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
 
-- b. uitleveringsbeschikkingen inhouden.
+- b. uitleveringsbeschikkingen inhouden;
+
+- c. betrekking heeft op de beëindiging van de arbeidsovereenkomst van een functionaris die tijdelijk is ontheven van de uitoefening van diens functie bij het ministerie en niet in de uitoefening van de functie kan worden hersteld naar het oordeel van diens leidinggevende met A-mandaat als bedoeld in bijlage 1 van het betreffende ondermandaatbesluit, wanneer de functionaris ophoudt met het bekleden van één van de volgende functies:
+
+- 1. Een functie in een publiekrechtelijk college, waarin de functionaris is benoemd of verkozen;
+
+- 2. Een functie in een internationale volkenrechtelijke organisatie; of
+
+- 3. Het vervullen van een functie substituut-ombudsman.
 
 ##### Artikel 4
 
