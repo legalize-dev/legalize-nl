@@ -4,7 +4,7 @@ identifier: "BWBR0026168"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2009-07-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026168"
 soort: "wet"
@@ -50,13 +50,13 @@ Het college van burgemeester en wethouders biedt de ingezetenen toegang tot een 
 
 ##### Artikel 2
 
-1. Een antidiscriminatievoorziening als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2009-07-28&g=2009-07-28) heeft tot taak:
+1. Een antidiscriminatievoorziening als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2020-01-01&g=2020-01-01) heeft tot taak:
 
-- a. onafhankelijke bijstand te verlenen aan personen bij de afwikkeling van hun klachten betreffende onderscheid als bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502), de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299), de [Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915), de [Wet gelijke behandeling op grond van leeftijd bij de arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0016185), de [artikelen 125g](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125g) en [125h van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125h), de [artikelen 646 tot en met 649 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), en [artikel II van de wet van 7 november 2002 tot uitvoering van de richtlijn 1999/70/EG van de Raad van de Europese Unie van 28 juni 1999 betreffende de door het EVV, de UNICE en het CEEP gesloten raamovereenkomst inzake arbeidsovereenkomsten voor bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0014195&artikel=II), of discriminatie als bedoeld in [artikel 90quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=90quater);
+- a. onafhankelijke bijstand te verlenen aan personen bij de afwikkeling van hun klachten betreffende onderscheid als bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502), de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299), de [Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915), de [Wet gelijke behandeling op grond van leeftijd bij de arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0016185), de [artikelen 646 tot en met 649 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), en [artikel II van de wet van 7 november 2002 tot uitvoering van de richtlijn 1999/70/EG van de Raad van de Europese Unie van 28 juni 1999 betreffende de door het EVV, de UNICE en het CEEP gesloten raamovereenkomst inzake arbeidsovereenkomsten voor bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0014195&artikel=II), of discriminatie als bedoeld in [artikel 90quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=90quater);
 
 - b. de klachten, bedoeld in onderdeel a, te registreren.
 
-2. De gemeenteraad stelt bij verordening regels vast omtrent de inrichting van de antidiscriminatievoorziening, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2009-07-28&g=2009-07-28), en de uitvoering door die voorziening van de taak, bedoeld in het eerste lid, onder a.
+2. De gemeenteraad stelt bij verordening regels vast omtrent de inrichting van de antidiscriminatievoorziening, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2020-01-01&g=2020-01-01), en de uitvoering door die voorziening van de taak, bedoeld in het eerste lid, onder a.
 
 3. Bij algemene maatregel van bestuur kunnen eisen worden gesteld aan de inrichting van de antidiscriminatievoorziening en de uitvoering door die voorziening van de taak, bedoeld in het eerste lid, onder a.
 
@@ -70,7 +70,7 @@ Het college van burgemeester en wethouders biedt de ingezetenen toegang tot een 
 
 ##### Artikel 4
 
-Uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze wet geeft het college van burgemeester en wethouders uitvoering aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2009-07-28&g=2009-07-28).
+Uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze wet geeft het college van burgemeester en wethouders uitvoering aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5
 
