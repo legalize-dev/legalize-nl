@@ -4,7 +4,7 @@ identifier: "BWBR0005291"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005291"
 soort: "wet"
@@ -113,7 +113,7 @@ Een bevoegdheid die iemand krachtens het burgerlijk recht toekomt, mag niet word
 
 ##### Artikel 15
 
-De [artikelen 11-14](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1&artikel=11&z=2019-01-01&g=2019-01-01) vinden buiten het vermogensrecht toepassing, voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
+De [artikelen 11-14](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1&artikel=11&z=2020-01-01&g=2020-01-01) vinden buiten het vermogensrecht toepassing, voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
 
 ### Afdeling 1A. Elektronisch vermogensrechtelijk rechtsverkeer
 
@@ -171,13 +171,13 @@ Worden de bewaarder der registers stukken ter inschrijving aangeboden, dan verst
 
 2. Als tijdstip van inschrijving geldt het tijdstip van aanbieding van de voor de inschrijving vereiste stukken.
 
-3. Op verlangen van de aanbieder tekent de bewaarder de verrichte inschrijving op het ontvangstbewijs aan of doet hij in de gevallen en op een wijze bij of krachtens de wet, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=16&z=2019-01-01&g=2019-01-01), vast te stellen, daarvan mededeling aan de aanbieder.
+3. Op verlangen van de aanbieder tekent de bewaarder de verrichte inschrijving op het ontvangstbewijs aan of doet hij in de gevallen en op een wijze bij of krachtens de wet, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=16&z=2020-01-01&g=2020-01-01), vast te stellen, daarvan mededeling aan de aanbieder.
 
 4. Indien de bewaarder vermoedt dat de in de aangeboden stukken vermelde kenmerken niet overeenstemmen met die welke met betrekking tot het registergoed behoren te worden vermeld, of dat de in te schrijven rechtshandeling door een onbevoegde is verricht of onverenigbaar is met een andere rechtshandeling, ter inschrijving waarvan hem de nodige stukken zijn aangeboden, is hij bevoegd de aanbieder en andere belanghebbenden daarop opmerkzaam te maken.
 
 ##### Artikel 20
 
-1. De bewaarder der registers weigert een inschrijving te doen, indien niet is voldaan aan de eisen, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=19&z=2019-01-01&g=2019-01-01). Hij boekt de aanbieding in het register van voorlopige aantekeningen met vermelding van de gerezen bedenkingen.
+1. De bewaarder der registers weigert een inschrijving te doen, indien niet is voldaan aan de eisen, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=19&z=2020-01-01&g=2020-01-01). Hij boekt de aanbieding in het register van voorlopige aantekeningen met vermelding van de gerezen bedenkingen.
 
 2. Wanneer de weigering ten onrechte is geschied, beveelt de voorzieningenrechter van de rechtbank, rechtdoende in kort geding, op vordering van de belanghebbende de bewaarder de inschrijving alsnog te verrichten, zulks onverminderd de bevoegdheid van de gewone rechter. De voorzieningenrechter kan de oproeping van door hem aan te wijzen andere belanghebbenden gelasten. Het bevel van de voorzieningenrechter is van rechtswege uitvoerbaar bij voorraad.
 
@@ -263,7 +263,7 @@ Op de onjuistheid kan echter geen beroep worden gedaan ten nadele van hen die, d
 
 ##### Artikel 30
 
-Onverminderd de aansprakelijkheden van de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 117, eerste en tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=117), is de Staat aansprakelijk, wanneer iemand ten gevolge van omstandigheden die naar redelijkheid en billijkheid niet voor zijn rekening komen, door toepassing van een der [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=24&z=2019-01-01&g=2019-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=25&z=2019-01-01&g=2019-01-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=27&z=2019-01-01&g=2019-01-01) zijn recht verliest.
+Onverminderd de aansprakelijkheden van de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 117, eerste en tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=117), is de Staat aansprakelijk, wanneer iemand ten gevolge van omstandigheden die naar redelijkheid en billijkheid niet voor zijn rekening komen, door toepassing van een der [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=24&z=2020-01-01&g=2020-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=25&z=2020-01-01&g=2020-01-01) of [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=27&z=2020-01-01&g=2020-01-01) zijn recht verliest.
 
 ##### Artikel 31
 
@@ -475,7 +475,7 @@ Een vernietigbare rechtshandeling wordt vernietigd hetzij door een buitengerecht
 
 ##### Artikel 56
 
-Voor de toepassing van de [artikelen 50-55](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=50&z=2019-01-01&g=2019-01-01) gelden mede als partij:
+Voor de toepassing van de [artikelen 50-55](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=50&z=2020-01-01&g=2020-01-01) gelden mede als partij:
 
 - a. in geval van eenzijdige tot een of meer bepaalde personen gerichte rechtshandeling: die personen;
 
@@ -603,7 +603,7 @@ Een volmacht eindigt:
 
 2. Bevat de volmacht een bepaling als in het vorige lid bedoeld, dan mag de wederpartij aannemen dat het aldaar voor de geldigheid van die bepaling gestelde vereiste vervuld is, tenzij het tegendeel voor haar duidelijk kenbaar is.
 
-3. Tenzij anders is bepaald, kan de gevolmachtigde een overeenkomstig het eerste lid onherroepelijk verleende volmacht ook buiten de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=64&z=2019-01-01&g=2019-01-01) genoemde gevallen aan een ander verlenen.
+3. Tenzij anders is bepaald, kan de gevolmachtigde een overeenkomstig het eerste lid onherroepelijk verleende volmacht ook buiten de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=64&z=2020-01-01&g=2020-01-01) genoemde gevallen aan een ander verlenen.
 
 4. De rechtbank kan op verzoek van de volmachtgever, of van een erfgenaam of de curator van de volmachtgever, een bepaling als in het eerste lid bedoeld wegens gewichtige redenen wijzigen of buiten werking stellen.
 
@@ -633,7 +633,7 @@ Wordt ondanks de dood van de volmachtgever krachtens de volmacht een geldige rec
 
 ##### Artikel 78
 
-Wanneer iemand optreedt als vertegenwoordiger uit anderen hoofde dan volmacht, zijn de [artikelen 63, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=63&z=2019-01-01&g=2019-01-01), [66, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=66&z=2019-01-01&g=2019-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=67&z=2019-01-01&g=2019-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=69&z=2019-01-01&g=2019-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=70&z=2019-01-01&g=2019-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=71&z=2019-01-01&g=2019-01-01) en [75 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=75&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing, voor zover uit de wet niet anders voortvloeit.
+Wanneer iemand optreedt als vertegenwoordiger uit anderen hoofde dan volmacht, zijn de [artikelen 63, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=63&z=2020-01-01&g=2020-01-01), [66, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=66&z=2020-01-01&g=2020-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=67&z=2020-01-01&g=2020-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=69&z=2020-01-01&g=2020-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=70&z=2020-01-01&g=2020-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=71&z=2020-01-01&g=2020-01-01) en [75 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=3&artikel=75&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing, voor zover uit de wet niet anders voortvloeit.
 
 ##### Artikel 79
 
@@ -705,9 +705,9 @@ Afhankelijke rechten volgen het recht waaraan zij verbonden zijn.
 
 ##### Artikel 86
 
-1. Ondanks onbevoegdheid van de vervreemder is een overdracht overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2019-01-01&g=2019-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2019-01-01&g=2019-01-01) of [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=93&z=2019-01-01&g=2019-01-01) van een roerende zaak, niet-registergoed, of een recht aan toonder of order geldig, indien de overdracht anders dan om niet geschiedt en de verkrijger te goeder trouw is.
+1. Ondanks onbevoegdheid van de vervreemder is een overdracht overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2020-01-01&g=2020-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2020-01-01&g=2020-01-01) of [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=93&z=2020-01-01&g=2020-01-01) van een roerende zaak, niet-registergoed, of een recht aan toonder of order geldig, indien de overdracht anders dan om niet geschiedt en de verkrijger te goeder trouw is.
 
-2. Rust op een in het vorige lid genoemd goed dat overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2019-01-01&g=2019-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2019-01-01&g=2019-01-01) of [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=93&z=2019-01-01&g=2019-01-01) anders dan om niet wordt overgedragen, een beperkt recht dat de verkrijger op dit tijdstip kent noch behoort te kennen, dan vervalt dit recht, in het geval van overdracht overeenkomstig [artikel 91 onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2019-01-01&g=2019-01-01) dezelfde opschortende voorwaarde als waaronder geleverd is.
+2. Rust op een in het vorige lid genoemd goed dat overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2020-01-01&g=2020-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2020-01-01&g=2020-01-01) of [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=93&z=2020-01-01&g=2020-01-01) anders dan om niet wordt overgedragen, een beperkt recht dat de verkrijger op dit tijdstip kent noch behoort te kennen, dan vervalt dit recht, in het geval van overdracht overeenkomstig [artikel 91 onder](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2020-01-01&g=2020-01-01) dezelfde opschortende voorwaarde als waaronder geleverd is.
 
 3. Niettemin kan de eigenaar van een roerende zaak, die het bezit daarvan door diefstal heeft verloren, deze gedurende drie jaren, te rekenen van de dag van de diefstal af, als zijn eigendom opeisen, tenzij:
 
@@ -715,29 +715,29 @@ Afhankelijke rechten volgen het recht waaraan zij verbonden zijn.
 
 - b. het geld dan wel toonder- of orderpapier betreft.
 
-4. Op de in het vorige lid bedoelde termijn zijn de [artikelen 316](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=316&z=2019-01-01&g=2019-01-01), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=318&z=2019-01-01&g=2019-01-01) en [319](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=319&z=2019-01-01&g=2019-01-01) betreffende de stuiting van de verjaring van een rechtsvordering van overeenkomstige toepassing.
+4. Op de in het vorige lid bedoelde termijn zijn de [artikelen 316](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=316&z=2020-01-01&g=2020-01-01), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=318&z=2020-01-01&g=2020-01-01) en [319](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=319&z=2020-01-01&g=2020-01-01) betreffende de stuiting van de verjaring van een rechtsvordering van overeenkomstige toepassing.
 
 ##### Artikel 86a
 
-1. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) kan niet worden tegengeworpen aan een lid-staat van de Europese Unie of aan een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die een roerende zaak opeist, die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 2, onder 1, van Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.
+1. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) kan niet worden tegengeworpen aan een lid-staat van de Europese Unie of aan een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die een roerende zaak opeist, die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 2, onder 1, van Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.
 
-2. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) kan evenmin worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, krachtens de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) als beschermd cultuurgoed was aangewezen of waarvan het buiten Nederland brengen op grond van [artikel 4.22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=4.22) verboden is. Degene die toen in het register, bedoeld in [artikel 3.11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.11) of op een inventarislijst, bedoeld in artikel 4.22, tweede lid, van die wet, als eigenaar werd vermeld, wordt vermoed toen eigenaar van de zaak geweest te zijn.
+2. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) kan evenmin worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, krachtens de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) als beschermd cultuurgoed was aangewezen of waarvan het buiten Nederland brengen op grond van [artikel 4.22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=4.22) verboden is. Degene die toen in het register, bedoeld in [artikel 3.11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.11) of op een inventarislijst, bedoeld in artikel 4.22, tweede lid, van die wet, als eigenaar werd vermeld, wordt vermoed toen eigenaar van de zaak geweest te zijn.
 
-3. De rechter die een vordering als bedoeld in lid 1 toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht. Hetzelfde geldt indien de rechter een vordering als bedoeld in lid 2 toewijst, tenzij opeising zonder vergoeding bij toepasselijkheid van [artikel 86 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) mogelijk zou zijn geweest.
+3. De rechter die een vordering als bedoeld in lid 1 toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht. Hetzelfde geldt indien de rechter een vordering als bedoeld in lid 2 toewijst, tenzij opeising zonder vergoeding bij toepasselijkheid van [artikel 86 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) mogelijk zou zijn geweest.
 
-4. De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2019-01-01&g=2019-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2019-01-01&g=2019-01-01). Zij wordt bij afgifte van de zaak uitgekeerd.
+4. De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2020-01-01&g=2020-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2020-01-01&g=2020-01-01). Zij wordt bij afgifte van de zaak uitgekeerd.
 
 ##### Artikel 87
 
-1. Een verkrijger die binnen drie jaren na zijn verkrijging gevraagd wordt wie het goed aan hem vervreemdde, dient onverwijld de gegevens te verschaffen, die nodig zijn om deze terug te vinden of die hij ten tijde van zijn verkrijging daartoe voldoende mocht achten. Indien hij niet aan deze verplichting voldoet, kan hij de bescherming die de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01), [86a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01) en [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01) aan een verkrijger te goeder trouw bieden, niet inroepen.
+1. Een verkrijger die binnen drie jaren na zijn verkrijging gevraagd wordt wie het goed aan hem vervreemdde, dient onverwijld de gegevens te verschaffen, die nodig zijn om deze terug te vinden of die hij ten tijde van zijn verkrijging daartoe voldoende mocht achten. Indien hij niet aan deze verplichting voldoet, kan hij de bescherming die de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01), [86a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01) en [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01) aan een verkrijger te goeder trouw bieden, niet inroepen.
 
 2. Het vorige lid is niet van toepassing ten aanzien van geld.
 
 ##### Artikel 88
 
-1. Ondanks onbevoegdheid van de vervreemder is een overdracht van een registergoed, van een recht op naam, of van een ander goed waarop [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) niet van toepassing is, geldig, indien de verkrijger te goeder trouw is en de onbevoegdheid voortvloeit uit de ongeldigheid van een vroegere overdracht, die niet het gevolg was van onbevoegdheid van de toenmalige vervreemder.
+1. Ondanks onbevoegdheid van de vervreemder is een overdracht van een registergoed, van een recht op naam, of van een ander goed waarop [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) niet van toepassing is, geldig, indien de verkrijger te goeder trouw is en de onbevoegdheid voortvloeit uit de ongeldigheid van een vroegere overdracht, die niet het gevolg was van onbevoegdheid van de toenmalige vervreemder.
 
-2. Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de [artikelen 86a leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01) en [86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01).
+2. Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de [artikelen 86a leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01) en [86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 89
 
@@ -769,7 +769,7 @@ De levering van in het vorige artikel bedoelde zaken ter uitvoering van een verb
 
 ##### Artikel 93
 
-De levering, vereist voor de overdracht van een recht aan toonder waarvan het toonderpapier in de macht van de vervreemder is, geschiedt door de levering van dit papier op de wijze en met de gevolgen als aangegeven in de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2019-01-01&g=2019-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2019-01-01&g=2019-01-01) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=92&z=2019-01-01&g=2019-01-01). Voor overdracht van een recht aan order, waarvan het orderpapier in de macht van de vervreemder is, geldt hetzelfde, met dien verstande dat voor de levering tevens endossement vereist is.
+De levering, vereist voor de overdracht van een recht aan toonder waarvan het toonderpapier in de macht van de vervreemder is, geschiedt door de levering van dit papier op de wijze en met de gevolgen als aangegeven in de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2020-01-01&g=2020-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=91&z=2020-01-01&g=2020-01-01) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=92&z=2020-01-01&g=2020-01-01). Voor overdracht van een recht aan order, waarvan het orderpapier in de macht van de vervreemder is, geldt hetzelfde, met dien verstande dat voor de levering tevens endossement vereist is.
 
 ##### Artikel 94
 
@@ -777,13 +777,13 @@ De levering, vereist voor de overdracht van een recht aan toonder waarvan het to
 
 2. De levering van een tegen een bepaalde, doch op de dag waarop de akte wordt opgemaakt onbekende persoon uit te oefenen recht dat op die dag aan de vervreemder toebehoort, werkt terug tot die dag, indien de mededeling met bekwame spoed wordt gedaan, nadat die persoon bekend is geworden.
 
-3. Deze rechten kunnen ook worden geleverd door een daartoe bestemde authentieke of geregistreerde onderhandse akte, zonder mededeling daarvan aan de personen tegen wie die rechten moeten worden uitgeoefend, mits deze rechten op het tijdstip van de levering reeds bestaan of rechtstreeks zullen worden verkregen uit een dan reeds bestaande rechtsverhouding. De levering kan niet worden tegengeworpen aan de personen tegen wie deze rechten moeten worden uitgeoefend dan na mededeling daarvan aan die personen door de vervreemder of de verkrijger. Voor de verkrijger van een recht dat overeenkomstig de eerste zin is geleverd, geldt [artikel 88 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=88&z=2019-01-01&g=2019-01-01) slechts, indien hij te goeder trouw is op het tijdstip van de in tweede zin bedoelde mededeling.
+3. Deze rechten kunnen ook worden geleverd door een daartoe bestemde authentieke of geregistreerde onderhandse akte, zonder mededeling daarvan aan de personen tegen wie die rechten moeten worden uitgeoefend, mits deze rechten op het tijdstip van de levering reeds bestaan of rechtstreeks zullen worden verkregen uit een dan reeds bestaande rechtsverhouding. De levering kan niet worden tegengeworpen aan de personen tegen wie deze rechten moeten worden uitgeoefend dan na mededeling daarvan aan die personen door de vervreemder of de verkrijger. Voor de verkrijger van een recht dat overeenkomstig de eerste zin is geleverd, geldt [artikel 88 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=88&z=2020-01-01&g=2020-01-01) slechts, indien hij te goeder trouw is op het tijdstip van de in tweede zin bedoelde mededeling.
 
 4. De personen tegen wie het recht moet worden uitgeoefend, kunnen verlangen dat hun een door de vervreemder gewaarmerkt uittreksel van de akte en haar titel wordt ter hand gesteld. Bedingen die voor deze personen van geen belang zijn, behoeven daarin niet te worden opgenomen. Is van een titel geen akte opgemaakt, dan moet hun de inhoud, voor zover voor hen van belang, schriftelijk worden medegedeeld.
 
 ##### Artikel 95
 
-Buiten de in de [artikelen 89-94](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=89&z=2019-01-01&g=2019-01-01) geregelde gevallen en behoudens het in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=96&z=2019-01-01&g=2019-01-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=98&z=2019-01-01&g=2019-01-01) bepaalde, worden goederen geleverd door een daartoe bestemde akte.
+Buiten de in de [artikelen 89-94](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=89&z=2020-01-01&g=2020-01-01) geregelde gevallen en behoudens het in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=96&z=2020-01-01&g=2020-01-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=98&z=2020-01-01&g=2020-01-01) bepaalde, worden goederen geleverd door een daartoe bestemde akte.
 
 ##### Artikel 96
 
@@ -807,7 +807,7 @@ Tenzij de wet anders bepaalt, vindt al hetgeen in deze afdeling omtrent de overd
 
 2. Lid 1 geldt niet voor roerende zaken die krachtens de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) als beschermd cultuurgoed zijn aangewezen of deel uitmaken van een openbare collectie of van een inventarislijst als bedoeld in [artikel 4.22, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=4.22), mits het bezit na die aanwijzing of gedurende dit deel uitmaken is begonnen.
 
-3. Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de [artikelen 86a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01) en [86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01).
+3. Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de [artikelen 86a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01) en [86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 100
 
@@ -943,7 +943,7 @@ Indien de rechthebbende ter bevrijding van de door hem ingevolge de beide vorige
 
 ##### Artikel 123
 
-Heeft de bezitter van een zaak daaraan veranderingen of toevoegingen aangebracht, dan is hij bevoegd om, in plaats van de hem op grond van de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2019-01-01&g=2019-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2019-01-01&g=2019-01-01) daarvoor toekomende vergoeding te vorderen, deze veranderingen of toevoegingen weg te nemen, mits hij de zaak in de oude toestand terugbrengt.
+Heeft de bezitter van een zaak daaraan veranderingen of toevoegingen aangebracht, dan is hij bevoegd om, in plaats van de hem op grond van de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2020-01-01&g=2020-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2020-01-01&g=2020-01-01) daarvoor toekomende vergoeding te vorderen, deze veranderingen of toevoegingen weg te nemen, mits hij de zaak in de oude toestand terugbrengt.
 
 ##### Artikel 124
 
@@ -1025,7 +1025,7 @@ Ieder der deelgenoten kan van degene onder hen die voor de overigen beheer heeft
 
 1. Tenzij uit de rechtsverhouding tussen de deelgenoten anders voortvloeit, kan ieder van hen over zijn aandeel in een gemeenschappelijk goed beschikken.
 
-2. Indien uit de rechtsverhouding tussen de deelgenoten voortvloeit dat zij niet, tenzij met aller toestemming, bevoegd zijn over hun aandeel te beschikken, zijn de [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+2. Indien uit de rechtsverhouding tussen de deelgenoten voortvloeit dat zij niet, tenzij met aller toestemming, bevoegd zijn over hun aandeel te beschikken, zijn de [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 3. De schuldeisers van een deelgenoot kunnen zijn aandeel in een gemeenschappelijk goed uitwinnen. Na de uitwinning van een aandeel kunnen beperkingen van de bevoegdheid om over de aandelen te beschikken niet worden ingeroepen tussen de verkrijger van dat aandeel en de overige deelgenoten.
 
@@ -1055,11 +1055,11 @@ Ieder der deelgenoten kan van degene onder hen die voor de overigen beheer heeft
 
 4. Indien geen vordering tot verdeling aanhangig is, kan een beslissing als bedoeld in de leden 2 en 3 op verzoek van ieder van de deelgenoten worden gegeven door de rechter die ter zake van de vordering tot verdeling bevoegd zou zijn.
 
-5. Zij die bevoegd zijn verdeling te vorderen, kunnen hun bevoegdheid daartoe een of meer malen bij overeenkomst, telkens voor ten hoogste vijf jaren, uitsluiten. De [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2019-01-01&g=2019-01-01) zijn op een zodanige overeenkomst van overeenkomstige toepassing.
+5. Zij die bevoegd zijn verdeling te vorderen, kunnen hun bevoegdheid daartoe een of meer malen bij overeenkomst, telkens voor ten hoogste vijf jaren, uitsluiten. De [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2020-01-01&g=2020-01-01) zijn op een zodanige overeenkomst van overeenkomstige toepassing.
 
 ##### Artikel 179
 
-1. Indien verdeling van een gemeenschappelijk goed wordt gevorderd, kan ieder der deelgenoten verlangen dat alle tot de gemeenschap behorende goederen en de voor rekening van de gemeenschap komende schulden in de verdeling worden begrepen, tenzij er gewichtige redenen zijn voor een gedeeltelijke verdeling. Van de verdeling worden die goederen uitgezonderd, die wegens een der in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=178&z=2019-01-01&g=2019-01-01) genoemde gronden onverdeeld moeten blijven.
+1. Indien verdeling van een gemeenschappelijk goed wordt gevorderd, kan ieder der deelgenoten verlangen dat alle tot de gemeenschap behorende goederen en de voor rekening van de gemeenschap komende schulden in de verdeling worden begrepen, tenzij er gewichtige redenen zijn voor een gedeeltelijke verdeling. Van de verdeling worden die goederen uitgezonderd, die wegens een der in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=178&z=2020-01-01&g=2020-01-01) genoemde gronden onverdeeld moeten blijven.
 
 2. De omstandigheid dat bij een verdeling een of meer goederen zijn overgeslagen, heeft alleen ten gevolge dat daarvan een nadere verdeling kan worden gevorderd.
 
@@ -1067,7 +1067,7 @@ Ieder der deelgenoten kan van degene onder hen die voor de overigen beheer heeft
 
 ##### Artikel 180
 
-1. Een schuldeiser die een opeisbare vordering op een deelgenoot heeft, kan verdeling van de gemeenschap vorderen, doch niet verder dan nodig is voor het verhaal van zijn vordering. [Artikel 178 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=178&z=2019-01-01&g=2019-01-01) is van toepassing.
+1. Een schuldeiser die een opeisbare vordering op een deelgenoot heeft, kan verdeling van de gemeenschap vorderen, doch niet verder dan nodig is voor het verhaal van zijn vordering. [Artikel 178 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=178&z=2020-01-01&g=2020-01-01) is van toepassing.
 
 2. Heeft een schuldeiser een bevel tot verdeling van de gemeenschap verkregen dan behoeft de verdeling zijn medewerking.
 
@@ -1151,7 +1151,7 @@ Als een verdeling wordt aangemerkt iedere rechtshandeling waartoe alle deelgenot
 
 1. Tenzij uit de rechtsverhouding tussen de deelgenoten anders voortvloeit, kan ieder der deelgenoten over zijn aandeel in de gehele gemeenschap beschikken en kunnen zijn schuldeisers een zodanig aandeel uitwinnen.
 
-2. Indien uit de rechtsverhouding tussen de deelgenoten voortvloeit dat zij niet, tenzij met aller toestemming bevoegd zijn over hun aandeel te beschikken, zijn de [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+2. Indien uit de rechtsverhouding tussen de deelgenoten voortvloeit dat zij niet, tenzij met aller toestemming bevoegd zijn over hun aandeel te beschikken, zijn de [leden 3 en 4 van artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=7&afdeling=1&artikel=168&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 192
 
@@ -1195,7 +1195,7 @@ De bevoegdheid tot vernietiging van een verdeling uit hoofde van benadeling verv
 
 ##### Artikel 198
 
-Wordt een beroep in rechte op vernietigbaarheid van een verdeling gedaan, dan kan de rechter, onverminderd het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=53&z=2019-01-01&g=2019-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=54&z=2019-01-01&g=2019-01-01) bepaalde, op verlangen van een der partijen de verdeling wijzigen, in plaats van de vernietiging uit te spreken.
+Wordt een beroep in rechte op vernietigbaarheid van een verdeling gedaan, dan kan de rechter, onverminderd het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=53&z=2020-01-01&g=2020-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=54&z=2020-01-01&g=2020-01-01) bepaalde, op verlangen van een der partijen de verdeling wijzigen, in plaats van de vernietiging uit te spreken.
 
 ##### Artikel 199
 
@@ -1285,7 +1285,7 @@ Vervallen
 
 1. Voor zover de aan een vruchtgebruik onderworpen goederen bestemd zijn om vervreemd te worden, is de vruchtgebruiker tot vervreemding overeenkomstig hun bestemming bevoegd.
 
-2. Bij de vestiging van het vruchtgebruik kan aan de vruchtgebruiker de bevoegdheid worden gegeven ook over andere dan de in het vorige lid genoemde goederen te beschikken. Ten aanzien van deze goederen vinden de [artikelen 208](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=208&z=2019-01-01&g=2019-01-01), [210 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=210&z=2019-01-01&g=2019-01-01) en [217 lid 2, en 3, tweede zin, en lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=217&z=2019-01-01&g=2019-01-01), geen toepassing.
+2. Bij de vestiging van het vruchtgebruik kan aan de vruchtgebruiker de bevoegdheid worden gegeven ook over andere dan de in het vorige lid genoemde goederen te beschikken. Ten aanzien van deze goederen vinden de [artikelen 208](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=208&z=2020-01-01&g=2020-01-01), [210 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=210&z=2020-01-01&g=2020-01-01) en [217 lid 2, en 3, tweede zin, en lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=8&artikel=217&z=2020-01-01&g=2020-01-01), geen toepassing.
 
 3. In andere gevallen mag een vruchtgebruiker slechts vervreemden of bezwaren met toestemming van de hoofdgerechtigde of machtiging van de kantonrechter. De machtiging wordt alleen gegeven, wanneer het belang van de vruchtgebruiker of de hoofdgerechtigde door de vervreemding of bezwaring wordt gediend en het belang van de ander daardoor niet wordt geschaad.
 
@@ -1449,19 +1449,19 @@ Elk beding waarbij de pand- of hypotheekhouder de bevoegdheid wordt gegeven zich
 
 2. Rust op een in lid 1 genoemd goed een beperkt recht dat de pandhouder op het in dat lid bedoelde tijdstip kent noch behoort te kennen, dan gaat het pandrecht in rang boven dit beperkte recht.
 
-3. Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan zijn [lid 3, aanhef en onder **b**, en lid 4 van artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+3. Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan zijn [lid 3, aanhef en onder **b**, en lid 4 van artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
-4. Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens [artikel 86a, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01) of [artikel 86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01), of volgens [artikel 6.15 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.15) ook [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) niet aan hem tegengeworpen zou kunnen worden.
+4. Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens [artikel 86a, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01) of [artikel 86b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01), of volgens [artikel 6.15 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.15) ook [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) niet aan hem tegengeworpen zou kunnen worden.
 
 ##### Artikel 239
 
 1. Pandrecht op een tegen een of meer bepaalde personen uit te oefenen recht dat niet aan toonder of order luidt, of op het vruchtgebruik van een zodanig recht kan ook worden gevestigd bij authentieke of geregistreerde onderhandse akte, zonder mededeling daarvan aan die personen, mits dit recht op het tijdstip van de vestiging van het pandrecht reeds bestaat of rechtstreeks zal worden verkregen uit een dan reeds bestaande rechtsverhouding.
 
-2. Het[tweede lid van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
+2. Het[tweede lid van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
 3. Wanneer de pandgever of de schuldenaar in zijn verplichtingen jegens de pandhouder tekortschiet of hem goede grond geeft te vrezen dat in die verplichtingen zal worden tekortgeschoten, is deze bevoegd van de verpanding mededeling te doen aan de in het eerste lid genoemde personen. Pandhouder en pandgever kunnen overeenkomen dat deze bevoegdheid op een ander tijdstip ingaat.
 
-4. [Artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=88&z=2019-01-01&g=2019-01-01) geldt slechts voor de pandhouder wiens recht overeenkomstig lid 1 is gevestigd, indien hij te goeder trouw is op het tijdstip van de in lid 3 bedoelde mededeling.
+4. [Artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=88&z=2020-01-01&g=2020-01-01) geldt slechts voor de pandhouder wiens recht overeenkomstig lid 1 is gevestigd, indien hij te goeder trouw is op het tijdstip van de in lid 3 bedoelde mededeling.
 
 ##### Artikel 240
 
@@ -1545,17 +1545,17 @@ Tenzij anders is bedongen, is de pandhouder verplicht, voor zover hem dit redeli
 
 ##### Artikel 254
 
-1. Wanneer op roerende zaken die volgens verkeersopvatting bestemd zijn om een bepaalde onroerende zaak duurzaam te dienen en door hun vorm als zodanig zijn te herkennen, of op machinerieën of werktuigen die bestemd zijn om daarmede een bedrijf in een bepaalde hiertoe ingerichte fabriek of werkplaats uit te oefenen, overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2019-01-01&g=2019-01-01) een pandrecht is gevestigd voor een vordering waarvoor ook hypotheek gevestigd is op die onroerende zaak, fabriek of werkplaats of op een daarop rustend beperkt recht, kan worden bedongen, dat de schuldeiser bevoegd is de verpande en verhypothekeerde goederen tezamen volgens de voor hypotheek geldende regels te executeren.
+1. Wanneer op roerende zaken die volgens verkeersopvatting bestemd zijn om een bepaalde onroerende zaak duurzaam te dienen en door hun vorm als zodanig zijn te herkennen, of op machinerieën of werktuigen die bestemd zijn om daarmede een bedrijf in een bepaalde hiertoe ingerichte fabriek of werkplaats uit te oefenen, overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2020-01-01&g=2020-01-01) een pandrecht is gevestigd voor een vordering waarvoor ook hypotheek gevestigd is op die onroerende zaak, fabriek of werkplaats of op een daarop rustend beperkt recht, kan worden bedongen, dat de schuldeiser bevoegd is de verpande en verhypothekeerde goederen tezamen volgens de voor hypotheek geldende regels te executeren.
 
-2. Executeert de schuldeiser overeenkomstig het beding, dan zijn de artikelen 268-273 op het pandrecht van overeenkomstige toepassing en is de toepasselijkheid van de [artikelen 248-253](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=248&z=2019-01-01&g=2019-01-01) uitgesloten.
+2. Executeert de schuldeiser overeenkomstig het beding, dan zijn de artikelen 268-273 op het pandrecht van overeenkomstige toepassing en is de toepasselijkheid van de [artikelen 248-253](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=248&z=2020-01-01&g=2020-01-01) uitgesloten.
 
 3. Het beding kan, onder vermelding van de pandrechten waarop het betrekking heeft, worden ingeschreven in de registers waarin de hypotheek is ingeschreven.
 
 ##### Artikel 255
 
-1. Bestaat het pand uit geld dan is de pandhouder, zodra zijn vordering opeisbaar is geworden, zonder voorafgaande aanzegging bevoegd zich uit het pand te voldoen overeenkomstig [artikel 253](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=253&z=2019-01-01&g=2019-01-01). Hij is daartoe verplicht, indien de pandgever zulks vordert en deze bevoegd is de vordering in de verpande valuta te voldoen.
+1. Bestaat het pand uit geld dan is de pandhouder, zodra zijn vordering opeisbaar is geworden, zonder voorafgaande aanzegging bevoegd zich uit het pand te voldoen overeenkomstig [artikel 253](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=253&z=2020-01-01&g=2020-01-01). Hij is daartoe verplicht, indien de pandgever zulks vordert en deze bevoegd is de vordering in de verpande valuta te voldoen.
 
-2. [Artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=252&z=2019-01-01&g=2019-01-01) vindt overeenkomstige toepassing.
+2. [Artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=252&z=2020-01-01&g=2020-01-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 256
 
@@ -1567,7 +1567,7 @@ Indien degene die uit hoofde van een pandrecht een zaak onder zich heeft, in ern
 
 ##### Artikel 258
 
-1. Wanneer een in pand gegeven goed als bedoeld in [artikel 236 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=236&z=2019-01-01&g=2019-01-01) in de macht van de pandgever komt, eindigt het pandrecht, tenzij het met toepassing van [artikel 237 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2019-01-01&g=2019-01-01) werd gevestigd.
+1. Wanneer een in pand gegeven goed als bedoeld in [artikel 236 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=236&z=2020-01-01&g=2020-01-01) in de macht van de pandgever komt, eindigt het pandrecht, tenzij het met toepassing van [artikel 237 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2020-01-01&g=2020-01-01) werd gevestigd.
 
 2. Afstand van een pandrecht kan geschieden bij enkele overeenkomst, mits van de toestemming van de pandhouder uit een schriftelijke of elektronische verklaring blijkt. Indien van de toestemming uit een elektronische verklaring blijkt, is [artikel 227a lid 1 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=227a) van overeenkomstige toepassing.
 
@@ -1621,7 +1621,7 @@ Indien degene die uit hoofde van een pandrecht een zaak onder zich heeft, in ern
 
 - c. er geen personen krachtens huurovereenkomst gebruik kunnen maken van het bezwaarde goed op het moment van bekendmaking van de executoriale verkoop, bedoeld in [artikel 516 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=516).
 
-2. De inroeping kan niet geschieden, voordat het in [artikel 544 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=544) bedoelde exploit van aanzegging of overneming is uitgebracht. De bepalingen betreffende vernietigbaarheid zijn van toepassing met dien verstande dat de termijn van [artikel 52 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=52&z=2019-01-01&g=2019-01-01) loopt vanaf de voormelde aanzegging of overneming en dat een in strijd met het beding gekomen rechtshandeling slechts wordt vernietigd ten behoeve van degene die het inroept, en niet verder dan met diens recht in overeenstemming is.
+2. De inroeping kan niet geschieden, voordat het in [artikel 544 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=544) bedoelde exploit van aanzegging of overneming is uitgebracht. De bepalingen betreffende vernietigbaarheid zijn van toepassing met dien verstande dat de termijn van [artikel 52 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=2&artikel=52&z=2020-01-01&g=2020-01-01) loopt vanaf de voormelde aanzegging of overneming en dat een in strijd met het beding gekomen rechtshandeling slechts wordt vernietigd ten behoeve van degene die het inroept, en niet verder dan met diens recht in overeenstemming is.
 
 3. Indien het beding is gemaakt met betrekking tot hoeven of los land, heeft het slechts werking voor zover het niet in strijd is met enig dwingend wettelijk voorschrift omtrent pacht. Zodanig beding heeft geen werking, voor zover de grondkamer bindend aan de pachtovereenkomst een daarmee strijdige inhoud heeft gegeven, dan wel het beding niet kon worden nageleefd, omdat de grondkamer een wijzigingsovereenkomst die aan het beding beantwoordde, heeft vernietigd. Een beding dat de hypotheekgever verplicht is hoeven voor kortere tijd dan twaalf jaren en los land voor kortere tijd dan zes jaren te verpachten, is nietig.
 
@@ -1651,7 +1651,7 @@ Is een zaak aan hypotheek onderworpen en heeft de hypotheekgever hieraan na de v
 
 3. Zo de voorzieningenrechter de machtiging tot onder zich nemen verleent, veroordeelt hij tevens de hypotheekgever en de zijnen tot ontruiming.
 
-4. De bevoegdheden kunnen tegen eenieder die zich in de zaak bevindt, met uitzondering van de huurder bedoeld in [artikel 264 leden 4 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2019-01-01&g=2019-01-01), worden ingeroepen.
+4. De bevoegdheden kunnen tegen eenieder die zich in de zaak bevindt, met uitzondering van de huurder bedoeld in [artikel 264 leden 4 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2020-01-01&g=2020-01-01), worden ingeroepen.
 
 5. Zonder uitdrukkelijke bedingen mist de hypotheekhouder de in de vorige leden genoemde bevoegdheden.
 
@@ -1661,7 +1661,7 @@ Is een zaak aan hypotheek onderworpen en heeft de hypotheekgever hieraan na de v
 
 1. Indien de schuldenaar in verzuim is met de voldoening van hetgeen waarvoor de hypotheek tot waarborg strekt, is de hypotheekhouder bevoegd het verbonden goed in het openbaar ten overstaan van een bevoegde notaris te doen verkopen.
 
-2. Op verzoek van de hypotheekhouder de hypotheekgever of degene die executoriaal beslag heeft gelegd kan de voorzieningenrechter van de rechtbank bepalen dat de verkoop ondershands zal geschieden bij een overeenkomst die hem bij het verzoek ter goedkeuring wordt voorgelegd. Indien door de hypotheekgever of door een hypotheekhouder, beslaglegger of beperkt gerechtigde, die bij een hogere opbrengst van het goed belang heeft, voor de afloop van de behandeling van het verzoek aan de voorzieningenrechter een gunstiger aanbod wordt voorgelegd, kan deze bepalen dat de verkoop overeenkomstig dit aanbod zal geschieden. Desverzocht veroordeelt de voorzieningenrechter bij de goedkeuring van een verzoek tot onderhandse verkoop tevens de hypotheekgever en de zijnen tot ontruiming van het verhypothekeerde goed tegen een bepaald tijdstip. De ontruiming vindt niet plaats voor het moment van inschrijving, bedoeld in [artikel 89 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=89&z=2019-01-01&g=2019-01-01).
+2. Op verzoek van de hypotheekhouder de hypotheekgever of degene die executoriaal beslag heeft gelegd kan de voorzieningenrechter van de rechtbank bepalen dat de verkoop ondershands zal geschieden bij een overeenkomst die hem bij het verzoek ter goedkeuring wordt voorgelegd. Indien door de hypotheekgever of door een hypotheekhouder, beslaglegger of beperkt gerechtigde, die bij een hogere opbrengst van het goed belang heeft, voor de afloop van de behandeling van het verzoek aan de voorzieningenrechter een gunstiger aanbod wordt voorgelegd, kan deze bepalen dat de verkoop overeenkomstig dit aanbod zal geschieden. Desverzocht veroordeelt de voorzieningenrechter bij de goedkeuring van een verzoek tot onderhandse verkoop tevens de hypotheekgever en de zijnen tot ontruiming van het verhypothekeerde goed tegen een bepaald tijdstip. De ontruiming vindt niet plaats voor het moment van inschrijving, bedoeld in [artikel 89 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=89&z=2020-01-01&g=2020-01-01).
 
 3. Het in lid 2 bedoelde verzoek wordt ingediend door een advocaat of een notaris binnen de in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) daarvoor bepaalde termijn. Tegen een beschikking krachtens lid 2 is geen hogere voorziening toegelaten.
 
@@ -1677,13 +1677,13 @@ Tot op het tijdstip van de toewijzing ter veiling of van de goedkeuring door de 
 
 1. De koper is gehouden de koopprijs te voldoen in handen van de notaris, te wiens overstaan de openbare verkoop heeft plaatsgevonden of door wie de akte van overdracht ingevolge de onderhandse verkoop is verleden. De kosten van de executie worden uit de koopprijs voldaan.
 
-2. Wanneer geen hypotheken van een ander dan de verkoper zijn ingeschreven en geen schuldeiser op het goed of op de koopprijs beslag heeft gelegd of zijn vordering ontleent aan [artikel 264 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2019-01-01&g=2019-01-01), en evenmin door de executie een beperkt recht op het goed vervalt of een recht van een huurder of pachter verloren gaat, draagt de notaris aan de verkoper uit de netto-opbrengst van het goed af hetgeen aan deze blijkens een door hem aan de notaris te verstrekken verklaring krachtens zijn door hypotheek verzekerde vordering of vorderingen toekomt; het overschot keert de notaris uit aan hem wiens goed is verkocht.
+2. Wanneer geen hypotheken van een ander dan de verkoper zijn ingeschreven en geen schuldeiser op het goed of op de koopprijs beslag heeft gelegd of zijn vordering ontleent aan [artikel 264 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2020-01-01&g=2020-01-01), en evenmin door de executie een beperkt recht op het goed vervalt of een recht van een huurder of pachter verloren gaat, draagt de notaris aan de verkoper uit de netto-opbrengst van het goed af hetgeen aan deze blijkens een door hem aan de notaris te verstrekken verklaring krachtens zijn door hypotheek verzekerde vordering of vorderingen toekomt; het overschot keert de notaris uit aan hem wiens goed is verkocht.
 
 3. Zijn er meer hypotheekhouders of zijn er schuldeisers of beperkt gerechtigden als in het vorige lid bedoeld, dan stort de notaris de netto-opbrengst onverwijld bij een door hem aangewezen bewaarder die aan de eisen van [artikel 445 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=445) voldoet. Wanneer het goed door de eerste hypotheekhouder is verkocht en deze vóór of op de betaaldag aan de notaris een verklaring heeft overgelegd van hetgeen hem van de opbrengst toekomt krachtens de door de eerste hypotheek verzekerde vordering of andere vorderingen die eveneens door hypotheek zijn verzekerd en in rang onmiddellijk bij de eerste aansluiten, met vermelding van schuldeisers wier vordering boven de zijne rang neemt, blijft de storting nochtans achterwege voor hetgeen aan de verkoper blijkens deze verklaring toekomt, en keert de notaris dit aan deze uit. Deze verklaring moet zijn voorzien van een aantekening van de voorzieningenrechter van de rechtbank binnen welker rechtsgebied het verbonden goed zich geheel of grotendeels bevindt, inhoudende dat hij de verklaring heeft goedgekeurd, nadat hem summierlijk van de juistheid ervan is gebleken. De verklaring kan behalve door een advocaat ook door een notaris worden ingediend. Tegen de goedkeuring is geen hogere voorziening toegelaten.
 
 4. Ingeval de notaris ernstige redenen heeft om te vermoeden dat de hem ingevolge de leden 2 of 3 verstrekte verklaring onjuist is, kan hij de uitkering aan de hypotheekhouder opschorten tot de in lid 3 aangewezen voorzieningenrechter op vordering van de meest gerede partij of op verlangen van de notaris omtrent de uitkering heeft beslist.
 
-5. Wanneer de hypotheekhouders, de schuldeisers die op het goed of op de koopprijs beslag hebben gelegd of hun vorderingen ontlenen aan [artikel 264 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2019-01-01&g=2019-01-01), de beperkt gerechtigden wier recht door de executie vervalt, alsmede degene wiens goed is verkocht het vóór de betaaldag omtrent de verdeling van de te storten som eens zijn geworden, blijft de storting achterwege en keert de notaris aan ieder het hem toekomende uit.
+5. Wanneer de hypotheekhouders, de schuldeisers die op het goed of op de koopprijs beslag hebben gelegd of hun vorderingen ontlenen aan [artikel 264 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=4&artikel=264&z=2020-01-01&g=2020-01-01), de beperkt gerechtigden wier recht door de executie vervalt, alsmede degene wiens goed is verkocht het vóór de betaaldag omtrent de verdeling van de te storten som eens zijn geworden, blijft de storting achterwege en keert de notaris aan ieder het hem toekomende uit.
 
 6. Voor zover de verplichtingen welke ingevolge dit artikel op de notaris rusten, niet worden nagekomen, is de Staat jegens belanghebbenden voor de daaruit voor hen voortvloeiende schade met de notaris hoofdelijk aansprakelijk.
 
@@ -1715,7 +1715,7 @@ Tot op het tijdstip van de toewijzing ter veiling of van de goedkeuring door de 
 
 2. Deze verklaringen kunnen in de registers worden ingeschreven. Zij machtigen dan tezamen de bewaarder tot doorhaling.
 
-3. Worden de vereiste verklaringen niet afgegeven, dan is [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=29&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+3. Worden de vereiste verklaringen niet afgegeven, dan is [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=2&artikel=29&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 4. Is de hypotheek door vermenging tenietgegaan, dan wordt de bewaarder tot doorhaling gemachtigd door een daartoe strekkende verklaring, afgelegd bij authentieke akte door hem aan wie het goed toebehoort, tenzij op de vordering een beperkt recht rust.
 
@@ -1773,7 +1773,7 @@ Een voorrecht op een bepaald goed strekt zich mede uit over vorderingen tot verg
 
 1. Een vordering tot voldoening van kosten, tot behoud van een goed gemaakt, is bevoorrecht op het goed dat aldus is behouden.
 
-2. De schuldeiser kan de vordering op het goed verhalen, zonder dat hem rechten van derden op dit goed kunnen worden tegengeworpen, tenzij deze rechten na het maken van de kosten tot behoud zijn verkregen. Een na het maken van die kosten overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2019-01-01&g=2019-01-01) gevestigd pandrecht kan slechts aan de schuldeiser worden tegengeworpen, indien de zaak of het toonderpapier in de macht van de pandhouder of een derde is gebracht. Een na het maken van die kosten overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2019-01-01&g=2019-01-01) verkregen recht kan slechts aan de schuldeiser worden tegengeworpen, indien tevens aan de eisen van lid 2 van dat artikel is voldaan.
+2. De schuldeiser kan de vordering op het goed verhalen, zonder dat hem rechten van derden op dit goed kunnen worden tegengeworpen, tenzij deze rechten na het maken van de kosten tot behoud zijn verkregen. Een na het maken van die kosten overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2020-01-01&g=2020-01-01) gevestigd pandrecht kan slechts aan de schuldeiser worden tegengeworpen, indien de zaak of het toonderpapier in de macht van de pandhouder of een derde is gebracht. Een na het maken van die kosten overeenkomstig [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=90&z=2020-01-01&g=2020-01-01) verkregen recht kan slechts aan de schuldeiser worden tegengeworpen, indien tevens aan de eisen van lid 2 van dat artikel is voldaan.
 
 3. Het voorrecht heeft voorrang boven alle andere voorrechten, tenzij de vorderingen waaraan deze andere voorrechten zijn verbonden, na het maken van de kosten tot behoud zijn ontstaan.
 
@@ -1781,15 +1781,15 @@ Een voorrecht op een bepaald goed strekt zich mede uit over vorderingen tot verg
 
 1. Hij die uit hoofde van een overeenkomst tot aanneming van werk een vordering wegens bearbeiding van een zaak heeft, is deswege op die zaak bevoorrecht, mits hij persoonlijk aan de uitvoering van in de uitoefening van zijn bedrijf aangenomen werk pleegt deel te nemen dan wel een vennootschap of een rechtspersoon is, waarvan een of meer beherende vennoten of bestuurders dit plegen te doen. Het voorrecht vervalt na verloop van twee jaren sedert het ontstaan van de vordering.
 
-2. Het voorrecht heeft voorrang boven een overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2019-01-01&g=2019-01-01) op de zaak gevestigd pandrecht, tenzij dit recht eerst na het ontstaan van de bevoorrechte vordering is gevestigd en de zaak in de macht van de pandhouder of een derde is gebracht.
+2. Het voorrecht heeft voorrang boven een overeenkomstig [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=9&afdeling=2&artikel=237&z=2020-01-01&g=2020-01-01) op de zaak gevestigd pandrecht, tenzij dit recht eerst na het ontstaan van de bevoorrechte vordering is gevestigd en de zaak in de macht van de pandhouder of een derde is gebracht.
 
 ##### Artikel 286
 
 1. De door een appartementseigenaar of een vruchtgebruiker van een appartementsrecht aan de gezamenlijke appartementseigenaars of de vereniging van eigenaars verschuldigde, in het lopende of het voorafgaande kalenderjaar opeisbaar geworden bijdragen zijn bevoorrecht op het appartementsrecht.
 
-2. In geval van bearbeiding van een gebouw dat in appartementen is verdeeld, rust het voorrecht van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=10&afdeling=2&artikel=285&z=2019-01-01&g=2019-01-01) op ieder appartement voor het bedrag, waarvoor de eigenaar van dat appartement aansprakelijk is.
+2. In geval van bearbeiding van een gebouw dat in appartementen is verdeeld, rust het voorrecht van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=10&afdeling=2&artikel=285&z=2020-01-01&g=2020-01-01) op ieder appartement voor het bedrag, waarvoor de eigenaar van dat appartement aansprakelijk is.
 
-3. Bij samenloop van het voorrecht van het eerste lid en dat van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=10&afdeling=2&artikel=285&z=2019-01-01&g=2019-01-01) heeft het laatstgenoemde voorrang.
+3. Bij samenloop van het voorrecht van het eerste lid en dat van [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=10&afdeling=2&artikel=285&z=2020-01-01&g=2020-01-01) heeft het laatstgenoemde voorrang.
 
 ##### Artikel 287
 
@@ -1909,29 +1909,71 @@ De in de voorgaande artikelen van deze titel aan de rechter toegekende bevoegdhe
 
 ##### Artikel 305a
 
-1. Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voorzover zij deze belangen ingevolge haar statuten behartigt.
+1. Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voor zover zij deze belangen ingevolge haar statuten behartigt en deze belangen voldoende zijn gewaarborgd.
 
-2. Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de verweerder te bereiken. Een termijn van twee weken na de ontvangst door de verweerder van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende. Een rechtspersoon als bedoeld in lid 1 is eveneens niet ontvankelijk, indien met de rechtsvordering de belangen van de personen ten behoeve van wie de rechtsvordering is ingesteld onvoldoende gewaarborgd zijn.
+2. De belangen van de personen tot bescherming van wier belangen de rechtsvordering strekt, zijn voldoende gewaarborgd, wanneer de rechtspersoon als bedoeld in lid 1, voldoende representatief is, gelet op de achterban en de omvang van de vertegenwoordigde vorderingen en beschikt over:
 
-3. Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de verweerder tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen. Zij kan niet strekken tot schadevergoeding te voldoen in geld.
+- a. een toezichthoudend orgaan, tenzij uitvoering is gegeven aan [artikel 9a, lid 1, van Boek 2 van het Burgerlijk Wetboek](onbekend);
 
-4. Een gedraging kan niet ten grondslag worden gelegd aan een rechtsvordering als bedoeld in lid 1, voor zover degene die door deze gedraging wordt getroffen, daartegen bezwaar maakt.
+- b. passende en doeltreffende mechanismen voor de deelname aan of vertegenwoordiging bij de besluitvorming van de personen tot bescherming van wier belangen de rechtsvordering strekt;
 
-5. Een rechterlijke uitspraak heeft geen gevolg ten aanzien van een persoon tot bescherming van wiens belang de rechtsvordering strekt en die zich verzet tegen werking van de uitspraak ten opzichte van hem, tenzij de aard van de uitspraak meebrengt dat de werking niet slechts ten opzichte van deze persoon kan worden uitgesloten.
+- c. voldoende middelen om de kosten voor het instellen van een rechtsvordering te dragen, waarbij de zeggenschap over de rechtsvordering in voldoende mate bij de rechtspersoon ligt;
 
-6. Indien in zaken als bedoeld in lid 1 ingevolge [artikel 220 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=220) verwijzing naar een andere rechter kan worden gevorderd, kan de rechter ook ambtshalve naar die andere rechter verwijzen. Indien in zaken als bedoeld in lid 1 ingevolge [artikel 222 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=222) voeging van deze zaken kan worden gevorderd, kan de rechter ook ambtshalve voegen. Ambtshalve verwijzing of voeging kan niet meer plaatsvinden nadat de dag van de uitspraak is bepaald. [Artikel 221 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=221) is op een ambtshalve verwijzing van toepassing.
+- d. een algemeen toegankelijke internetpagina, waarop de volgende informatie beschikbaar is:
+
+- 1°. de statuten van de rechtspersoon;
+
+- 2°. de bestuursstructuur van de rechtspersoon;
+
+- 3°. de laatst vastgestelde jaarlijkse verantwoording op hoofdlijnen van het toezichthoudend orgaan over het door haar uitgevoerde toezicht;
+
+- 4°. het laatst vastgestelde bestuursverslag;
+
+- 5°. de bezoldiging van bestuurders en de leden van het toezichthoudend orgaan;
+
+- 6°. de doelstellingen en werkwijzen van de rechtspersoon;
+
+- 7°. een overzicht van de stand van zaken in lopende procedures;
+
+- 8°. indien een bijdrage wordt gevraagd van de personen tot bescherming van wier belangen de rechtsvordering strekt: inzicht in de berekening van deze bijdrage;
+
+- 9°. een overzicht van de wijze waarop personen tot bescherming van wier belangen de rechtsvordering strekt zich kunnen aansluiten bij de rechtspersoon en de wijze waarop zij deze aansluiting kunnen beëindigen;
+
+- e. voldoende ervaring en deskundigheid ten aanzien van het instellen en voeren van de rechtsvordering.
+
+3. Een rechtspersoon als bedoeld in lid 1 is slechts ontvankelijk indien:
+
+- a. de bestuurders betrokken bij de oprichting van de rechtspersoon, en hun opvolgers, geen rechtstreeks of middellijk winstoogmerk hebben, dat via de rechtspersoon wordt gerealiseerd;
+
+- b. de rechtsvordering een voldoende nauwe band met de Nederlandse rechtssfeer heeft. Van een voldoende nauwe band met de Nederlandse rechtssfeer is sprake, wanneer:
+
+- 1°. de rechtspersoon genoegzaam aannemelijk maakt dat het merendeel van de personen tot bescherming van wier belangen de rechtsvordering strekt, zijn gewone verblijfplaats in Nederland heeft; of
+
+- 2°. degene tegen wie de rechtsvordering zich richt, woonplaats in Nederland heeft en bijkomende omstandigheden wijzen op voldoende verbondenheid met de Nederlandse rechtssfeer; of
+
+- 3°. de gebeurtenis of de gebeurtenissen waarop de rechtsvordering betrekking heeft, in Nederland heeft of hebben plaatsgevonden;
+
+- c. de rechtspersoon in de gegeven omstandigheden voldoende heeft getracht het gevorderde door het voeren van overleg met de verweerder te bereiken. Een termijn van twee weken na de ontvangst door de verweerder van een verzoek tot overleg onder vermelding van het gevorderde, is daarvoor in elk geval voldoende.
+
+4. Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de verweerder tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
+
+5. Een rechtspersoon als bedoeld in lid 1 stelt een bestuursverslag en een jaarrekening op overeenkomstig het bepaalde voor verenigingen en stichtingen in respectievelijk de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=49) en [300 en in Titel 9 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300). Onverminderd het in [titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) bepaalde, wordt het bestuursverslag binnen acht dagen na vaststelling op de algemene toegankelijke internetpagina van de rechtspersoon gepubliceerd.
+
+6. De rechter kan een rechtspersoon als bedoeld in lid 1, ontvankelijk verklaren, zonder dat aan de vereisten van lid 2, subonderdelen a tot en met e, en lid 5 behoeft te zijn voldaan, wanneer de rechtsvordering wordt ingesteld met een ideëel doel en een zeer beperkt financieel belang of wanneer de aard van de vordering van de rechtspersoon als bedoeld in lid 1 of van de personen tot bescherming van wier belangen de rechtsvordering strekt, daartoe aanleiding geeft. Bij toepassing van dit lid kan de rechtsvordering niet strekken tot schadevergoeding in geld.
+
+7. Er is een centraal register voor collectieve vorderingen als bedoeld in dit artikel. Dit register wordt gehouden door een bij algemene maatregel van bestuur aan te wijzen instantie.
 
 ##### Artikel 305b
 
 1. Een rechtspersoon als bedoeld in [artikel 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1) kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voor zover hem de behartiging van deze belangen is toevertrouwd.
 
-2. De [leden 2 tot en met 5 van artikel 305**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2019-01-01&g=2019-01-01) van dit Boek zijn van overeenkomstige toepassing.
+2. De [leden 3, aanhef en onderdeel c, en 4 van artikel 305a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 305c
 
 1. Een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 4 lid 3 van richtlijn nr. 2009/22/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende het doen staken van inbreuken in het raam van de bescherming van de consumentenbelangen (PbEG L 110), kan een rechtsvordering instellen die strekt tot bescherming van de gelijksoortige belangen van andere personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, voorzover de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
 
-2. De [leden 2 tot en met 5 van artikel 305a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2019-01-01&g=2019-01-01) zijn van overeenkomstige toepassing.
+2. De [leden 2 tot en met 7 van artikel 305a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
 3. Een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland die ingevolge haar statuten de belangen behartigt van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten, kan, teneinde geplaatst te worden op de lijst, bedoeld in lid 1, Onze Minister van Justitie verzoeken de Commissie van de Europese Gemeenschappen mede te delen dat zij ter bescherming van deze belangen een rechtsvordering kan instellen. Onze Minister deelt in dat geval de Commissie tevens de naam en de doelstelling van de stichting of vereniging mee.
 
@@ -1967,7 +2009,7 @@ Een rechtsvordering uit onverschuldigde betaling verjaart door verloop van vijf 
 
 ##### Artikel 310a
 
-1. Een rechtsvordering tot opeising van een roerende zaak die krachtens de nationale wetgeving van een lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte een cultuurgoed is in de zin van artikel 2, onder 1, van de richtlijn, bedoeld in [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01), en waarvan die staat teruggave vordert op de grond dat zij op onrechtmatige wijze buiten zijn grondgebied is gebracht, verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder aan de centrale autoriteit van die staat als bedoeld in artikel 4 van de richtlijn zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied van die staat is gebracht.
+1. Een rechtsvordering tot opeising van een roerende zaak die krachtens de nationale wetgeving van een lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte een cultuurgoed is in de zin van artikel 2, onder 1, van de richtlijn, bedoeld in [artikel 86a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01), en waarvan die staat teruggave vordert op de grond dat zij op onrechtmatige wijze buiten zijn grondgebied is gebracht, verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder aan de centrale autoriteit van die staat als bedoeld in artikel 4 van de richtlijn zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied van die staat is gebracht.
 
 2. De laatste termijn bedraagt vijfenzeventig jaren in het geval van zaken die deel uitmaken van openbare collecties in de zin van artikel 2, onder 8, van de richtlijn en van kerkelijke goederen als bedoeld in de richtlijn in de lid-staten van de Europese Unie of in de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, waar deze zijn onderworpen aan speciale beschermende maatregelen krachtens nationaal recht.
 
@@ -2031,7 +2073,7 @@ Erkenning van het recht tot welks bescherming een rechtsvordering dient, stuit d
 
 2. De nieuwe verjaringstermijn is gelijk aan de oorspronkelijke, doch niet langer dan vijf jaren. Niettemin treedt de verjaring in geen geval op een eerder tijdstip in dan waarop ook de oorspronkelijke termijn zonder stuiting zou zijn verstreken.
 
-3. Door stuiting van de verjaring van een rechtsvordering op grond van [artikel 316, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=316&z=2019-01-01&g=2019-01-01), begint een nieuwe verjaringstermijn te lopen met aanvang van de dag volgende op de dag van de uitspraak die in kracht van gewijsde is gegaan. De nieuwe verjaringstermijn is gelijk aan de oorspronkelijke verjaringstermijn, doch niet langer dan vijf jaren. Niettemin treedt de verjaring in geen geval op een eerder tijdstip in dan waarop ook de oorspronkelijke termijn zonder stuiting zou zijn verstreken.
+3. Door stuiting van de verjaring van een rechtsvordering op grond van [artikel 316, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=316&z=2020-01-01&g=2020-01-01), begint een nieuwe verjaringstermijn te lopen met aanvang van de dag volgende op de dag van de uitspraak die in kracht van gewijsde is gegaan. De nieuwe verjaringstermijn is gelijk aan de oorspronkelijke verjaringstermijn, doch niet langer dan vijf jaren. Niettemin treedt de verjaring in geen geval op een eerder tijdstip in dan waarop ook de oorspronkelijke termijn zonder stuiting zou zijn verstreken.
 
 ##### Artikel 320
 
@@ -2085,7 +2127,7 @@ Wanneer een verjaringstermijn zou aflopen tijdens het bestaan van een verlenging
 
 ##### Artikel 325
 
-1. Op de verjaring van het vorige artikel zijn de [artikelen 319-323](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=319&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing.
+1. Op de verjaring van het vorige artikel zijn de [artikelen 319-323](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=319&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 2. De verjaring van het vorige artikel wordt gestuit door:
 
@@ -2143,7 +2185,7 @@ Vervallen
 
 ##### Artikel 15c
 
-Buiten het vermogensrecht vindt [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15a&z=2019-01-01&g=2019-01-01) overeenkomstige toepassing, voor zover de aard van de rechtshandeling of van de rechtsbetrekking zich daartegen niet verzet.
+Buiten het vermogensrecht vindt [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15a&z=2020-01-01&g=2020-01-01) overeenkomstige toepassing, voor zover de aard van de rechtshandeling of van de rechtsbetrekking zich daartegen niet verzet.
 
 ### Afdeling 1B. Het voeren van een administratie
 
@@ -2265,7 +2307,7 @@ Openlegging van tot een administratie behorende boeken, bescheiden en andere geg
 
 2. De rechtspersoon, bedoeld in lid 1, werkt bij de uitoefening van zijn taken samen met de overeenkomstige organisaties in andere lidstaten van de Europese Unie en de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-3. De controleurs van de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controle Dienst (Belastingdienst/FIOD-ECD) worden aangewezen als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15d&z=2019-01-01&g=2019-01-01) en [15e lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15e&z=2019-01-01&g=2019-01-01).
+3. De controleurs van de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controle Dienst (Belastingdienst/FIOD-ECD) worden aangewezen als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15d&z=2020-01-01&g=2020-01-01) en [15e lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15e&z=2020-01-01&g=2020-01-01).
 
 ### Afdeling 2. Inschrijvingen betreffende registergoederen
 
@@ -2321,7 +2363,7 @@ Openlegging van tot een administratie behorende boeken, bescheiden en andere geg
 
 - c. de houder van de gedragscode die het handelen in strijd met de [artikelen 193a tot en met 193i van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193a) bevordert, veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de onderdelen a en b. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de [artikelen 193c tot en met 193g van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193c), kan het gerechtshof op verzoek van de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.
 
-2. [Artikel 305a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
+2. [Artikel 305a lid 3, onderdeel (c)](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=11&artikel=305a&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
 
 3. Het gerechtshof behandelt het verzoek onverwijld.
 
@@ -2329,15 +2371,15 @@ Openlegging van tot een administratie behorende boeken, bescheiden en andere geg
 
 ##### Artikel 86b
 
-1. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) kan niet worden tegengeworpen aan een verdragsstaat van de op 14 november 1970 te Parijs tot stand gekomen Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen, noch aan de rechthebbende, indien zij op grond van [artikel 6.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.7) een rechtsvordering als bedoeld in [artikel 1011a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1011a) tot teruggave van een roerende zaak als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1011a) instellen.
+1. [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) kan niet worden tegengeworpen aan een verdragsstaat van de op 14 november 1970 te Parijs tot stand gekomen Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen, noch aan de rechthebbende, indien zij op grond van [artikel 6.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.7) een rechtsvordering als bedoeld in [artikel 1011a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1011a) tot teruggave van een roerende zaak als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1011a) instellen.
 
-2. De rechter die een vordering als bedoeld in het voorgaande lid toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht, tenzij opeising zonder vergoeding bij toepasselijkheid van [artikel 86 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2019-01-01&g=2019-01-01) mogelijk zou zijn geweest.
+2. De rechter die een vordering als bedoeld in het voorgaande lid toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht, tenzij opeising zonder vergoeding bij toepasselijkheid van [artikel 86 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86&z=2020-01-01&g=2020-01-01) mogelijk zou zijn geweest.
 
-3. De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2019-01-01&g=2019-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2019-01-01&g=2019-01-01). Zij wordt bij afgifte van de zaak uitgekeerd.
+3. De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=120&z=2020-01-01&g=2020-01-01) en [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=5&artikel=121&z=2020-01-01&g=2020-01-01). Zij wordt bij afgifte van de zaak uitgekeerd.
 
 ##### Artikel 87a
 
-1. Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in [artikel 86a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2019-01-01&g=2019-01-01) of in [artikel 6.1, onder c, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.1) de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
+1. Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in [artikel 86a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86a&z=2020-01-01&g=2020-01-01) of in [artikel 6.1, onder c, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.1) de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
 
 - a. de documentatie over de herkomst van het goed;
 
@@ -2351,7 +2393,7 @@ Openlegging van tot een administratie behorende boeken, bescheiden en andere geg
 
 - f. het feit of de bezitter alle andere stappen heeft genomen die een redelijk handelende persoon in die omstandigheden zou hebben genomen.
 
-2. Een handelaar als bedoeld in [artikel 437 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437) heeft niet de volgens [artikel 86b lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01) bij de verkrijging van een cultuurgoed nodige zorgvuldigheid betracht, indien hij heeft nagelaten
+2. Een handelaar als bedoeld in [artikel 437 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437) heeft niet de volgens [artikel 86b lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01) bij de verkrijging van een cultuurgoed nodige zorgvuldigheid betracht, indien hij heeft nagelaten
 
 - a. zich te vergewissen van de identiteit van de verkoper
 
@@ -2361,7 +2403,7 @@ Openlegging van tot een administratie behorende boeken, bescheiden en andere geg
 
 - d. de registers met betrekking tot gestolen cultuurgoederen te raadplegen die in de gegeven omstandigheden in verband met de aard van de cultuurgoederen voor raadpleging in aanmerking komen.
 
-3. Een veilinghouder die bij het aannemen van een cultuurgoed ter openbare verkoop niet aan de in de leden 1 en 2 bedoelde zorgvuldigheidseisen voldoet dan wel dit cultuurgoed aan degene die het ter openbare verkoop aanbood, teruggeeft zonder aan deze zorgvuldigheidseisen te hebben voldaan, handelt onrechtmatig jegens degenen die een vordering tot teruggave als bedoeld in [artikel 86b](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2019-01-01&g=2019-01-01) kunnen instellen.
+3. Een veilinghouder die bij het aannemen van een cultuurgoed ter openbare verkoop niet aan de in de leden 1 en 2 bedoelde zorgvuldigheidseisen voldoet dan wel dit cultuurgoed aan degene die het ter openbare verkoop aanbood, teruggeeft zonder aan deze zorgvuldigheidseisen te hebben voldaan, handelt onrechtmatig jegens degenen die een vordering tot teruggave als bedoeld in [artikel 86b](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=4&afdeling=2&artikel=86b&z=2020-01-01&g=2020-01-01) kunnen instellen.
 
 ### Afdeling 3. Verkrijging en verlies door verjaring
 
