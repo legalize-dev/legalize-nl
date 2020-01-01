@@ -4,7 +4,7 @@ identifier: "BWBR0028308"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2012-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028308"
 soort: "AMvB"
@@ -84,11 +84,11 @@ Onze betrokken Minister kan een ambtenaar van een bijzondere opsporingsdienst op
 
 - g. vaardigheden, waaronder in elk geval wordt begrepen het opmaken van een proces-verbaal en het afnemen van een verhoor.
 
-2. De bekwaamheid blijkt uit het met goed gevolg afgelegd hebben van een door de examencommissie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), samengesteld en door Onze Minister goedgekeurd examen.
+2. De bekwaamheid blijkt uit het met goed gevolg afgelegd hebben van een door de examencommissie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01), samengesteld en door Onze Minister goedgekeurd examen.
 
 ##### Artikel 4
 
-1. Er is een examencommissie bijzondere opsporingsdiensten. De examencommissie is verantwoordelijk voor het samenstellen, afnemen en vaststellen van de uitslag van het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
+1. Er is een examencommissie bijzondere opsporingsdiensten. De examencommissie is verantwoordelijk voor het samenstellen, afnemen en vaststellen van de uitslag van het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01).
 
 2. De examencommissie kan deskundigen aanwijzen die haar terzijde staan bij het uitvoeren van de taak, bedoeld in het eerste lid.
 
@@ -102,25 +102,25 @@ Onze betrokken Minister kan een ambtenaar van een bijzondere opsporingsdienst op
 
 ##### Artikel 6
 
-1. Onze Minister kan examens of onderdelen daarvan aanwijzen die worden gelijkgesteld met het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), of onderdelen daarvan.
+1. Onze Minister kan examens of onderdelen daarvan aanwijzen die worden gelijkgesteld met het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), of onderdelen daarvan.
 
-2. Van het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), is vrijgesteld de persoon die tot zijn aanstelling voor de uitvoering van de taak als bedoeld in [artikel 3, onderdelen c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) op grond van [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten is belast.
+2. Van het examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), is vrijgesteld de persoon die tot zijn aanwijzing voor de uitvoering van de taak als bedoeld in [artikel 3, onderdelen c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) op grond van [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten is belast.
 
 #### § 2. Permanente her- en bijscholing
 
 ##### Artikel 7
 
-Onze Minister stelt uiterlijk binnen vijf jaar na de aanstelling als opsporingsambtenaar bij een bijzondere opsporingsdienst, en daarna uiterlijk binnen elke vijf jaar, diens bekwaamheid voor de uitoefening van opsporingsbevoegdheden opnieuw vast.
+Onze Minister stelt uiterlijk binnen vijf jaar na de aanwijzing in de functie van opsporingsambtenaar bij een bijzondere opsporingsdienst, en daarna uiterlijk binnen elke vijf jaar, diens bekwaamheid voor de uitoefening van opsporingsbevoegdheden opnieuw vast.
 
 ##### Artikel 8
 
-1. Een opsporingsambtenaar is bekwaam voor de uitoefening van opsporingsbevoegdheden in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2012-01-01&g=2012-01-01) indien hij beschikt over de voor de uitoefening van opsporingsbevoegdheden benodigde kennis en vaardigheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), blijkend uit het met goed gevolg doorlopen hebben van een door Onze Minister goedgekeurd programma voor permanente her- en bijscholing.
+1. Een opsporingsambtenaar is bekwaam voor de uitoefening van opsporingsbevoegdheden in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01) indien hij beschikt over de voor de uitoefening van opsporingsbevoegdheden benodigde kennis en vaardigheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), blijkend uit het met goed gevolg doorlopen hebben van een door Onze Minister goedgekeurd programma voor permanente her- en bijscholing.
 
 2. De examencommissie is verantwoordelijk voor het instandhouden van een programma voor permanente her- en bijscholing.
 
-3. De [artikelen 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van het examen een programma voor permanente her- en bijscholing moet worden gelezen.
+3. De [artikelen 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van het examen een programma voor permanente her- en bijscholing moet worden gelezen.
 
-4. Indien een opsporingsambtenaar, om redenen die verband houden met het belang van de bijzondere opsporingsdienst, niet uiterlijk binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2012-01-01&g=2012-01-01) bedoelde termijn een volledige programma voor permanente her- en bijscholing heeft doorlopen, stelt Onze Minister op aanvraag van het hoofd van de bijzondere opsporingsdienst de bekwaamheid van de opsporingsambtenaar uiterlijk binnen zes maanden na ommekomst van die termijn vast. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
+4. Indien een opsporingsambtenaar, om redenen die verband houden met het belang van de bijzondere opsporingsdienst, niet uiterlijk binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01) bedoelde termijn een volledige programma voor permanente her- en bijscholing heeft doorlopen, stelt Onze Minister op aanvraag van het hoofd van de bijzondere opsporingsdienst de bekwaamheid van de opsporingsambtenaar uiterlijk binnen zes maanden na ommekomst van die termijn vast. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
 
 #### § 3. Samenstelling, benoeming en werkwijze examencommissie
 
@@ -144,7 +144,7 @@ Onze Minister stelt uiterlijk binnen vijf jaar na de aanstelling als opsporingsa
 
 ##### Artikel 11
 
-De leden van de examencommissie ontvangen een vergoeding voor reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De leden van de examencommissie ontvangen een vergoeding voor reis- en verblijfkosten in het binnenland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 12
 
@@ -158,7 +158,7 @@ De betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden blijkt uit een
 
 ##### Artikel 14
 
-1. Onze Minister stelt uiterlijk binnen vijf jaar na de aanstelling als opsporingsambtenaar bij een bijzondere opsporingsdienst, en daarna uiterlijk binnen elke vijf jaar, diens betrouwbaarheid opnieuw vast.
+1. Onze Minister stelt uiterlijk binnen vijf jaar na de aanwijzing in de functie van opsporingsambtenaar bij een bijzondere opsporingsdienst, en daarna uiterlijk binnen elke vijf jaar, diens betrouwbaarheid opnieuw vast.
 
 2. Het hoofd van de bijzondere opsporingsdienst kan, indien hij kennis heeft van feiten of omstandigheden op grond waarvan geoordeeld zou kunnen worden dat sprake is van bezwaren in de zin van [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), Onze Minister verzoeken de betrouwbaarheid van de opsporingsambtenaar bij een bijzondere opsporingsdienst tussentijds opnieuw vast te stellen.
 
@@ -170,9 +170,9 @@ Het [Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsp
 
 ##### Artikel 16
 
-1. De ambtenaar van een bijzondere opsporingsdienst aan wie op het moment van de inwerkingtreding van dit besluit opsporingsbevoegdheden zijn toegekend voor de uitvoering van de taak als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) wordt geacht bekwaam en betrouwbaar te zijn in de zin van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=III&artikel=13&z=2012-01-01&g=2012-01-01).
+1. De ambtenaar van een bijzondere opsporingsdienst aan wie op het moment van de inwerkingtreding van dit besluit opsporingsbevoegdheden zijn toegekend voor de uitvoering van de taak als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) wordt geacht bekwaam en betrouwbaar te zijn in de zin van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=III&artikel=13&z=2020-01-01&g=2020-01-01).
 
-2. De termijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2012-01-01&g=2012-01-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=III&artikel=14&z=2012-01-01&g=2012-01-01), lopen in het in het eerste lid bedoelde geval vanaf het moment dat de opsporingsambtenaar laatstelijk voor de inwerkingtreding van dit besluit bekwaam en betrouwbaar is bevonden. In dat geval kan eenmalig worden voorzien in een aangepast programma voor permanente her- en bijscholing. Het aangepaste programma kan mede bestaan uit onderdelen die voor inwerkingtreding van dit besluit zijn doorlopen.
+2. De termijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=II&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028308&hoofdstuk=III&artikel=14&z=2020-01-01&g=2020-01-01), lopen in het in het eerste lid bedoelde geval vanaf het moment dat de opsporingsambtenaar laatstelijk voor de inwerkingtreding van dit besluit bekwaam en betrouwbaar is bevonden. In dat geval kan eenmalig worden voorzien in een aangepast programma voor permanente her- en bijscholing. Het aangepaste programma kan mede bestaan uit onderdelen die voor inwerkingtreding van dit besluit zijn doorlopen.
 
 ##### Artikel 17
 
