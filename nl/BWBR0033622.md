@@ -4,7 +4,7 @@ identifier: "BWBR0033622"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2016-12-21"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033622"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2013. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2013, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 juli 2013.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033622&artikel=1&z=2016-12-21&g=2016-12-21) vervalt met ingang van 1 januari 2020.
+2. Artikel 1 vervalt met ingang van 1 januari 2020.
 
 ##### Artikel 4
 
@@ -79,6 +79,8 @@ Vervallen
 1. Dit besluit treedt in werking met ingang van 1 juli 2013. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2013, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 juli 2013.
 
 2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033622&artikel=1&z=2015-11-01&g=2015-11-01) vervalt met ingang van 1 januari 2017.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
