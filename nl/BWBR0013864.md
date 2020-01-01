@@ -4,7 +4,7 @@ identifier: "BWBR0013864"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2012-01-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013864"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften zijn belast de controleambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
+Met het toezicht op de naleving van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 2
 
