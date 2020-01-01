@@ -4,7 +4,7 @@ identifier: "BWBR0039384"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-03-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039384"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Medewerker:** degene die is aangesteld op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en werkzaam is bij een van de dienstonderdelen van het Ministerie van Volksgezondheid, Welzijn en Sport;
+- 1. **Medewerker:** degene die als ambtenaar werkzaam is bij een van de dienstonderdelen van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- 2. **Personeelsraadgever VWS (p-raadgever)1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039384&artikel=2&z=2017-03-28&g=2017-03-28).
+- 2. **Personeelsraadgever VWS (p-raadgever)1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039384&artikel=2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 2
 
@@ -58,13 +58,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De personeelsraadgever wordt door de Secretaris-Generaal benoemd.
+1. De personeelsraadgever wordt door de Secretaris-Generaal aangewezen.
 
-2. Voor de benoeming van de personeelsraadgever wordt de Departementale Ondernemingsraad gehoord.
+2. Voor de aanwijzing van de personeelsraadgever wordt de Departementale Ondernemingsraad gehoord.
 
 3. Het functie wervingsprofiel wordt in afstemming tussen de directie OBP en de Departementale Ondernemingsraad vastgesteld.
 
-4. De benoeming geschiedt voor een periode van maximaal vier jaar. De personeelsraadgever is éénmaal herbenoembaar voor een periode van maximaal vier jaar.
+4. De aanwijzing geschiedt voor een periode van maximaal vier jaar. De personeelsraadgever kan daarna nog eenmaal worden aangewezen voor een periode van maximaal vier jaar.
 
 ##### Artikel 4
 
@@ -76,17 +76,15 @@ In dit besluit wordt verstaan onder:
 
 4. Indien bemiddeling achterwege wordt gelaten vanwege het feit dat er voor de medewerker een andere procedure openstaat, wordt deze hierop gewezen door de personeelsraadgever.
 
-5. Tegen dit besluit van de personeelsraadgever genoemd in lid 3 van dit artikel staat geen bezwaar of beroep open.
-
 ##### Artikel 5
 
 1. Voor zover de personeelsraadgever niet in dienst is bij VWS wordt hem een vergoeding per vergadering of een vaste vergoeding per maand toegekend volgens de regels van de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775), respectievelijk het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279).
 
-2. De vergoeding bedraagt 1,75% van het maximum van salarisschaal 13 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). Voor zover de personeelsraadgever in dienst is bij VWS, wordt hij in de gelegenheid gesteld de uit deze taak voortvloeiende werkzaamheden naast zijn normale werkzaamheden en binnen zijn normale werktijden te verrichten. Reis- en verblijfkosten uit hoofde van deze functie kunnen worden gedeclareerd op basis van de binnen de sector Rijk geldende regels.
+2. De vergoeding bedraagt 1,75% van het maximum van salarisschaal 13 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Voor zover de personeelsraadgever in dienst is bij VWS, wordt hij in de gelegenheid gesteld de uit deze taak voortvloeiende werkzaamheden naast zijn normale werkzaamheden en binnen zijn normale werktijden te verrichten. Reis- en verblijfkosten uit hoofde van deze functie kunnen worden gedeclareerd op basis van de binnen de sector Rijk geldende regels.
 
 3. De personeelsraadgever kan overgaan tot het inwinnen van onafhankelijk (juridisch) advies, mocht een specifieke casus daartoe aanleiding geven.
 
-4. Een (gewezen) personeelsraadgever, voor zover deze in dienst is bij VWS, mag niet uit hoofde van zijn activiteiten als zodanig worden benadeeld in zijn positie als ambtenaar. Het bevoegd gezag draagt er zorg voor dat een personeelsraadgever niet op andere wijze bij de uitoefening van zijn functie nadelige gevolgen ondervindt ten gevolge van zijn werkzaamheden als personeelsraadgever.
+4. Een (gewezen) personeelsraadgever, voor zover deze in dienst is bij VWS, mag niet uit hoofde van zijn activiteiten als zodanig worden benadeeld in zijn positie als ambtenaar. De werkgever draagt er zorg voor dat een personeelsraadgever niet op andere wijze bij de uitoefening van zijn functie nadelige gevolgen ondervindt ten gevolge van zijn werkzaamheden als personeelsraadgever.
 
 ##### Artikel 6
 
