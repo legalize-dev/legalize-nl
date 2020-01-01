@@ -4,7 +4,7 @@ identifier: "BWBR0031434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2012-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031434"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 1. De postactieve leden van de werkgroep matching, bedoeld in artikel 4, tweede lid, van de Regeling overgang naar een LFNP functie wordt met uitzondering van de voorzitter een vergoeding per vergadering toegekend.
 
-2. De vergoeding per vergadering bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering bedraagt 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. De leden, bedoeld in het eerste lid, ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.
 
