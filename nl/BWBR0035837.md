@@ -4,7 +4,7 @@ identifier: "BWBR0035837"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035837"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van het College voor Examens (sinds 1 augustus 2014: College voor toetsen en examens) ontvangt een bezoldiging overeenkomstig salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor wordt van 1 oktober 2009 tot 1 oktober 2014 vastgesteld op 0,3 en vanaf 1 oktober 2014 op 0,2.
+De voorzitter van het College voor Examens (sinds 1 augustus 2014: College voor toetsen en examens) ontvangt een vergoeding overeenkomstig salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor wordt van 1 oktober 2009 tot 1 oktober 2014 vastgesteld op 0,3 en vanaf 1 oktober 2014 op 0,2.
 
 ##### Artikel 2
 
-De overige leden van het College voor Examens (sinds 1 augustus 2014: College voor toetsen en examens) ontvangen een schadeloosstelling. De schadeloosstelling bestaat uit een bedrag per vergadering. Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt. De hoogte van de schadeloosstelling van de leden wordt vastgesteld op 3% van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+De overige leden van het College voor Examens (sinds 1 augustus 2014: College voor toetsen en examens) ontvangen een schadeloosstelling. De schadeloosstelling bestaat uit een bedrag per vergadering. Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt. De hoogte van de schadeloosstelling van de leden wordt vastgesteld op 3% van salarisschaal 16 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
