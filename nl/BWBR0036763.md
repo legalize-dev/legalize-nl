@@ -4,7 +4,7 @@ identifier: "BWBR0036763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2019-09-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036763"
 soort: "ministeriele-regeling"
@@ -58,11 +58,13 @@ Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlij
 
 - g. de werknemer op een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover de arbeidsovereenkomst is aangegaan in verband met vervanging wegens ziekte van een werknemer die een onderwijsgevende of onderwijsondersteunende functie met lesgebonden of behandeltaken bekleedt;
 
-- h. de functie van ijshockeyspeler werkzaam als betaald contractspeler bij een ijshockeyclub, waarvoor het speelseizoen in een internationale competitie langer duurt dan zes maanden.
+- h. de functie van ijshockeyspeler werkzaam als betaald contractspeler bij een ijshockeyclub, waarvoor het speelseizoen in een internationale competitie langer duurt dan zes maanden;
+
+- i. de functie van civiele expert die, namens de Staat, tijdelijk door de Minister van Buitenlandse Zaken wordt uitgezonden voor een civiele missie bij een ontvangende organisatie.
 
 ##### Artikel 2
 
-Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2019-09-01&g=2019-09-01).
+Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 3
 
