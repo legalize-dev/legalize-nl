@@ -4,7 +4,7 @@ identifier: "BWBR0037455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2019-09-19"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037455"
 soort: "ministeriele-regeling"
@@ -152,11 +152,11 @@ Het hoofd van het taakveld Volksverzekeringen is verantwoordelijk voor de volgen
 
 ##### Artikel 7
 
-Aan de hoofden van de taakvelden wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
+Aan de hoofden van de taakvelden wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers;
 
