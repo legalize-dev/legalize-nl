@@ -4,7 +4,7 @@ identifier: "BWBR0009924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2015-07-28"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009924"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ De begeleidingscommissie stelt haar eigen werkwijze vast.
 
 ##### Artikel 8
 
-De voorzitter van de begeleidingscommissie ontvangt voor zijn werkzaamheden een vergoeding van € 100,– per uur en ontvangt een reiskostenvergoeding op grond van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De voorzitter van de begeleidingscommissie ontvangt voor zijn werkzaamheden een vergoeding van € 100,– per uur en ontvangt een reiskostenvergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 9
 
