@@ -4,7 +4,7 @@ identifier: "BWBR0006463"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2018-03-31"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006463"
 soort: "wet"
@@ -49,15 +49,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bestuur:** bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-03-31&g=2018-03-31);
+- **bestuur:** bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01);
 
-- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2018-03-31&g=2018-03-31);
+- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01);
 
-- **kamer:** rechtszekerheidskamer of geoinformatiekamer als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2018-03-31&g=2018-03-31);
+- **kamer:** rechtszekerheidskamer of geoinformatiekamer als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01);
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
 
-- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2018-03-31&g=2018-03-31).
+- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 2
 
@@ -141,11 +141,11 @@ Het bestuur stelt een bestuursreglement vast.
 
 2. Het bestuur heeft in ieder geval de voorafgaande instemming nodig van de raad van toezicht met betrekking tot:
 
-- a. de reglementen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=2&artikel=9&z=2018-03-31&g=2018-03-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2018-03-31&g=2018-03-31) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2018-03-31&g=2018-03-31);
+- a. de reglementen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=2&artikel=9&z=2020-01-01&g=2020-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2020-01-01&g=2020-01-01);
 
 - b. belangrijke reorganisaties.
 
-3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2018-03-31&g=2018-03-31). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
+3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
 ##### Artikel 14
 
@@ -213,9 +213,7 @@ Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de org
 
 ##### Artikel 18
 
-1. Het personeel van de Dienst, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947), behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.
-
-2. Het bestuur stelt voor de door de Dienst aangestelde ambtenaren voorschriften vast betreffende de onderwerpen, genoemd in de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [125quinquies van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125quinquies), voor zover die onderwerpen niet reeds bij of krachtens de wet zijn geregeld.
+Vervallen
 
 ### Hoofdstuk 5. Financieel beheer en verslaglegging
 
@@ -401,11 +399,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 16a
 
-1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2018-03-31&g=2018-03-31), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
+1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
 
 2. De gebruikersraad of een kamer kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen de gebruikersraad of de kamer levende standpunten over een onderwerp als bedoeld in het eerste lid.
 
-3. Een commissie als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2018-03-31&g=2018-03-31), kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen die commissie levende standpunten over een onderwerp, waarvoor zij is ingesteld.
+3. Een commissie als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2020-01-01&g=2020-01-01), kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen die commissie levende standpunten over een onderwerp, waarvoor zij is ingesteld.
 
 4. Onder de dienstverlening, bedoeld in het eerste lid, wordt niet verstaan het beheer van een landelijke voorziening.
 
@@ -469,6 +467,6 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 18a
 
-Het bestuur voert overeenkomstig [artikel 125quater van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125quater) een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en draagt zorg voor de totstandkoming van een gedragscode voor goed ambtelijk handelen.
+Vervallen
 
 ### Hoofdstuk 5. Begroting en jaarrekening
