@@ -4,7 +4,7 @@ identifier: "BWBR0035615"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-08-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035615"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ De voorzitter en de overige leden van de AWTI ontvangen een vaste vergoeding per
 
 ##### Artikel 3
 
-De vergoeding voor de voorzitter wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) met een arbeidsduurfactor van 0,3 per week.
+De vergoeding voor de voorzitter wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren met een arbeidsduurfactor van 0,3 per week.
 
 ##### Artikel 4
 
-De vergoeding van de overige leden van de AWTI wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met een arbeidsduurfactor van 0,1 per week.
+De vergoeding van de overige leden van de AWTI wordt vastgesteld volgens het maximum salarisnummer behorend bij schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met een arbeidsduurfactor van 0,1 per week.
 
 ##### Artikel 5
 
