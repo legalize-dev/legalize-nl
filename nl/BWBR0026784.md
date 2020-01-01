@@ -4,7 +4,7 @@ identifier: "BWBR0026784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026784"
 soort: "wet"
@@ -112,13 +112,11 @@ Dit hoofdstuk is van toepassing op een EGTS met een statutaire zetel in Nederlan
 
 ##### Artikel 8
 
-1. Een orgaan van een EGTS is:
+Een orgaan van een EGTS is:
 
 - a. een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1);
 
 - b. een overheidsorgaan als bedoeld in [artikel 1, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
-
-2. Een EGTS is een openbare dienst in de zin van [artikel 1, tweede lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1).
 
 ##### Artikel 9
 
@@ -174,9 +172,9 @@ Onze Minister is ambtshalve of op verzoek van een bevoegde autoriteit met een re
 
 - c. na faillietverklaring door hetzij opheffing van het faillissement wegens de toestand van de boedel, hetzij door insolventie.
 
-2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01), en toegezonden aan Onze Minister.
+2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2020-01-01&g=2020-01-01), en toegezonden aan Onze Minister.
 
-3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2018-01-01&g=2018-01-01), wordt van de ontbinding opgaaf gedaan:
+3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2020-01-01&g=2020-01-01), wordt van de ontbinding opgaaf gedaan:
 
 - a. in het geval, bedoeld in het eerste lid, onderdeel a, door de vereffenaar, indien deze er is en anders door de directeur;
 
