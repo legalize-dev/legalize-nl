@@ -4,7 +4,7 @@ identifier: "BWBR0034361"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2017-04-03"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034361"
 soort: "KB"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop hoofdstuk 1 van de Wet lokaal spoor in 
 
 ##### Artikel 1
 
-Als lokale spoorweg, bedoeld in [artikel 3, eerste lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=3), worden aangewezen de spoorwegen, niet zijnde spoorwegen die uitsluitend in gebruik zijn ten behoeve van strikt historisch of toeristisch vervoer en niet zijnde spoorwegen in particulier eigendom die uitsluitend door de eigenaar voor diens goederenvervoer gebruikt worden, gelegen binnen de gemeenten Albrandswaard, Amstelveen, Amsterdam, Barendrecht, Capelle aan den IJssel, Delft, Den Haag, Diemen, Lansingerland, Leidschendam-Voorburg, Maassluis, Nieuwegein, Ouder-Amstel, Pijnacker-Nootdorp, Rotterdam, Rijswijk, Schiedam, Spijkenisse, Utrecht, Vlaardingen, Westland, IJsselstein en Zoetermeer, alsmede de daaraan verbonden spoorwegen naar de terreinen van werkplaatsen en remises.
+Als lokale spoorweg, bedoeld in [artikel 3, eerste lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=3), worden aangewezen de spoorwegen, niet zijnde spoorwegen die uitsluitend in gebruik zijn ten behoeve van strikt historisch of toeristisch vervoer en niet zijnde spoorwegen in particulier eigendom die uitsluitend door de eigenaar voor diens goederenvervoer gebruikt worden, gelegen binnen de gemeenten Albrandswaard, Amstelveen, Amsterdam, Barendrecht, Capelle aan den IJssel, Delft, Den Haag, Diemen, Lansingerland, Leidschendam-Voorburg, Maassluis, Nieuwegein, Ouder-Amstel, Pijnacker-Nootdorp, Rotterdam, Rijswijk, Schiedam, Spijkenisse Uithoorn, Utrecht, Vlaardingen, Westland, IJsselstein en Zoetermeer, alsmede de daaraan verbonden spoorwegen naar de terreinen van werkplaatsen en remises.
 
 ##### Artikel 2
 
