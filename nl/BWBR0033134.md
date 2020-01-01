@@ -4,7 +4,7 @@ identifier: "BWBR0033134"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033134"
 soort: "KB"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Er is een Vertegenwoordiger van de Nederlandse regering bij de regeringen van Aruba, Curaçao en Sint Maarten. De vertegenwoordiger wordt bij koninklijk besluit benoemd, geschorst en ontslagen. De vertegenwoordiger maakt deel uit van de organisatie van het ministerie.
+Er is een Vertegenwoordiger van de Nederlandse regering bij de regeringen van Aruba, Curaçao en Sint Maarten. Bij koninklijk besluit wordt besloten tot het aangaan of wijzigen van een arbeidsovereenkomst met de vertegenwoordiger. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit besloten, tenzij Onze Minister de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677). De vertegenwoordiger maakt deel uit van de organisatie van het ministerie.
 
 ##### Artikel 3
 
