@@ -4,7 +4,7 @@ identifier: "BWBR0042702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2019-10-26"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042702"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ entry_into_force: "2019-10-26"
 
 Wijzigt de Regeling zorgverzekering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 In afwijking van [bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4) is het in [artikel 6.3.1, eerste lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=6.3.1) bedoelde verhoudingsgetal voor Duitsland voor het jaar:
@@ -54,9 +52,9 @@ In afwijking van [bijlage 4 van de Regeling zorgverzekering](https://wetten.over
 
 ##### Artikel III
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2020, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042702&artikel=II&z=2019-10-26&g=2019-10-26) dat in werking treedt met ingang van de dag na de datum van uitgifte in de Staatscourant waarin deze regeling wordt geplaatst.
+1. Deze regeling treedt in werking met ingang van 1 januari 2020, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042702&artikel=II&z=2020-01-01&g=2020-01-01) dat in werking treedt met ingang van de dag na de datum van uitgifte in de Staatscourant waarin deze regeling wordt geplaatst.
 
-2. [Artikel II, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042702&artikel=II&z=2019-10-26&g=2019-10-26), werkt terug tot en met respectievelijk 1 januari 2017, 1 januari 2018 en 1 januari 2019.
+2. [Artikel II, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0042702&artikel=II&z=2020-01-01&g=2020-01-01), werkt terug tot en met respectievelijk 1 januari 2017, 1 januari 2018 en 1 januari 2019.
 
 Gelet op [artikel 69, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) en [artikel 3, tweede lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3);
 
