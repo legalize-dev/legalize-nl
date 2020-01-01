@@ -4,7 +4,7 @@ identifier: "BWBR0017583"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2004-10-02"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017583"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Besluit:
 
 ##### Artikel 2
 
-De voorzitter en de leden van de Commissie onderbouwing normatief uurtarief hebben recht op een vergoeding van de reiskosten overeenkomstig het Reisbesluit Binnenland.
+De voorzitter en de leden van de Commissie onderbouwing normatief uurtarief hebben recht op een vergoeding van de reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 3
 
