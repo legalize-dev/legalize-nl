@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2014-09-03"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
-Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), [556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587) worden aangewezen:
+Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 36d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d), [373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), en [6:1:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) worden aangewezen:
 
 - a. ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
@@ -78,7 +78,7 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 ##### Artikel 2
 
-Vervallen
+Deze regeling berust mede op [artikel 36d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d), en [6:1:5, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5).
 
 ##### Artikel 3
 
