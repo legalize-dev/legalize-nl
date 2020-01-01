@@ -4,7 +4,7 @@ identifier: "BWBR0029514"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2018-10-13"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029514"
 soort: "KB"
@@ -66,11 +66,11 @@ In dit besluit wordt verstaan onder:
 
 2. Onze Ministers stellen de organisatie en formatie van hun ministerie vast met inachtneming van het in het eerste lid bedoelde kader.
 
-3. De vaststelling geschiedt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover het betreft de functies in de salarisschalen 16 en hoger, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+3. De vaststelling geschiedt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover het betreft de functies in de salarisschalen 16 en hoger zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 4
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties publiceert jaarlijks van ieder ministerie de organisatie en de formatie, voor zover vastgesteld op salarisschaal 16 of hoger van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties publiceert jaarlijks van ieder ministerie de organisatie en de formatie, voor zover vastgesteld op salarisschaal 16 of hoger zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 5
 
@@ -86,7 +86,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties publiceert jaarlijks
 
 1. Het [Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berusten de besluiten die zijn gebaseerd op [artikel 2, eerste lid van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2), op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3&z=2018-10-13&g=2018-10-13), van dit besluit.
+2. Na de inwerkingtreding van dit besluit berusten de besluiten die zijn gebaseerd op [artikel 2, eerste lid van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2), op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3&z=2020-01-01&g=2020-01-01), van dit besluit.
 
 ##### Artikel 8
 
@@ -100,6 +100,6 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uit
 
 ##### Artikel 3a
 
-De benoeming en het ontslag van de Chief Information Officer van een ministerie geschiedt na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+Het namens de Staat aangaan, wijzigen en beëindigen van de arbeidsovereenkomst met de Chief Information Officer van een ministerie geschiedt na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
