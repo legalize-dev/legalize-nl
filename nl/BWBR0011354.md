@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -168,7 +168,7 @@ Wijzigt de Wet financiering volksverzekeringen.
 
 - 4. De in het tweede lid bedoelde maximumbedragen worden verminderd – maar niet verder dan tot nihil – met de bedragen van de door de belastingplichtige eerder genoten stakingsvrijstelling volgens artikel 8, eerste lid, onderdeel d, van de Wet op de inkomstenbelasting 1964 en met de in voorafgaande jaren door de ondernemer genoten bedragen aan stakingsaftrek.
 
-De stakingsaftrek van [artikel 3.79 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79) en onderdeel B is ten aanzien van de ondernemer die op de voet van artikel 15, derde lid, of artikel 17 van de Wet op de inkomstenbelasting 1964 een onderneming voortzet of mede voortzet ten aanzien van die onderneming slechts van toepassing indien deze langer dan drie jaren voor zijn rekening is gedreven.
+De stakingsaftrek van [artikel 3.79 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79) en onderdeel B is ten aanzien van de ondernemer die op de voet van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15), of artikel 17 van de Wet op de inkomstenbelasting 1964 een onderneming voortzet of mede voortzet ten aanzien van die onderneming slechts van toepassing indien deze langer dan drie jaren voor zijn rekening is gedreven.
 
 - 1. Voor de kalenderjaren 2001 tot en met 2006 blijft artikel 8, eerste lid, aanhef en onderdeel d, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, van toepassing bij staking van een onderneming door een medegerechtigde als bedoeld in [artikel 3.3, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.3), waaruit hij in het kalenderjaar 2000 winst uit onderneming genoot, mits is voldaan aan de voorwaarden bedoeld in het tweede lid.
 
@@ -300,7 +300,7 @@ Artikel 80b van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 dec
 
 - d. op of na 1 januari 2001 premies zijn betaald die op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) niet als uitgaven voor een inkomensvoorziening in aanmerking zijn genomen en die een bedrag van € 2269 per kalenderjaar niet te boven gaan ter zake van een overeenkomst die tot stand is gekomen vóór 14 september 1999, mits de daarbij overeengekomen premiebetalingen op of na 14 september 1999 niet zijn verhoogd.
 
-- 2. Het eerste lid is met ingang van 1 januari 2021 niet meer van toepassing op een recht op periodieke uitkeringen of verstrekkingen voorzover de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging daarvan geen vrijstelling van toepassing is geweest, of voorzover de daarvoor betaalde premies voldoen aan het eerste lid, onderdeel d.
+- 2. Het eerste lid is met ingang van 1 januari 2021 niet meer van toepassing op een recht op periodieke uitkeringen of verstrekkingen indien de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging daarvan geen vrijstelling van toepassing is geweest. De eerste zin is niet van toepassing op uitkeringen ingevolge een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdelen c en d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7).
 
 - 3. Het eerste lid is met betrekking tot [artikel 7.2, tweede lid, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2) niet van toepassing op periodieke uitkeringen en verstrekkingen voorzover de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging daarvan geen vrijstelling van toepassing is geweest.
 
@@ -324,7 +324,7 @@ Artikel 80b van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 dec
 
 - 1. Voorzover ter zake van een recht op periodieke uitkeringen of verstrekkingen op of na 14 september 1999 doch vóór 1 januari 2001 betaalde premies meer bedragen dan f 5000 per kalenderjaar en op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen of als premies voor aanspraken als bedoeld in artikel 8, eerste lid, onderdeel f, van die wet, in aanmerking konden worden genomen, wordt op 1 januari 2001 in zoverre een periodieke uitkering of verstrekking uit een inkomensvoorziening in aanmerking genomen tot het bedrag van de waarde in het economische verkeer inzoverre van dat recht verminderd met het gezamenlijke bedrag van die premies voorzover die niet reeds ter zake van een eerdere uitkering of verstrekking in aanmerking zijn genomen.
 
-- 2. Voorzover ter zake van een recht op periodieke uitkeringen of verstrekkingen de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen of voor de verkrijging daarvan geen vrijstelling van toepassing is geweest, of het premies betreft als bedoeld in de overgangsregeling van onderdeel O, eerste lid, onderdeel d, wordt op 31 december 2020 een periodieke uitkering of verstrekking uit een inkomensvoorziening in aanmerking genomen tot het bedrag van de waarde in het economische verkeer inzoverre van dat recht. Op de uitkering of verstrekking is onderdeel O, eerste lid, tweede volzin, van toepassing.
+- 2. Indien ter zake van een recht op periodieke uitkeringen of verstrekkingen de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen of voor de verkrijging daarvan geen vrijstelling van toepassing is geweest, wordt op 31 december 2020 een periodieke uitkering of verstrekking uit een inkomensvoorziening in aanmerking genomen tot het bedrag van de waarde in het economische verkeer van dat recht. Op de uitkering of verstrekking is onderdeel O, eerste lid, tweede volzin, van toepassing. De eerste zin is niet van toepassing op uitkeringen ingevolge een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdelen c en d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7).
 
 - 3. Op verzoek van de belastingplichtige bedraagt de inkomstenbelasting op de in het eerste en tweede lid genoemde uitkering of verstrekking 45%.
 
@@ -428,7 +428,7 @@ Vervallen.
 
 - 2. Schuldvorderingen die voor de toepassing van de Wet op de inkomstenbelasting 1964, zoals deze luidde op 31 december 2000, tot een aanmerkelijk belang behoren, worden geacht op die datum te zijn vervreemd indien het hebben van die schuldvorderingen niet op grond van [artikel 3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) als een werkzaamheid wordt aangemerkt.
 
-Voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) worden vermogensbestanddelen die uitsluitend op grond van de onderdelen AE, AF of AI tot een aanmerkelijk belang behoren, aangemerkt als een aanmerkelijk belang op grond van artikel 4.11 van die wet.
+Voor de toepassing van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) worden vermogensbestanddelen die uitsluitend op grond van de onderdelen AE, AF of AI tot een aanmerkelijk belang behoren, aangemerkt als een aanmerkelijk belang op grond van artikel 4.11 van die wet.
 
 - 1. Aandelen of winstbewijzen die ten tijde van de inwerkingtreding van de[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geacht werden tot een aanmerkelijk belang te behoren op grond van artikel 70d van de Wet op de inkomstenbelasting 1964, worden geacht tot een aanmerkelijk belang te behoren, zo zij daartoe niet reeds behoren ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
@@ -460,7 +460,7 @@ Voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.n
 
 - 2. Voor de toepassing van het eerste lid worden de inkomsten uit vermogen gesteld op het bedrag dat in aanmerking zou zijn genomen indien de lopende termijn op 31 december 2000, tegen de waarde in het economische verkeer die daar op dat moment aan zou kunnen worden toegekend, zou zijn genoten.
 
-- 3. De op basis van het eerste en tweede lid bepaalde inkomsten uit vermogen worden voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aangemerkt als inkomen uit werk en woning.
+- 3. De op basis van het eerste en tweede lid bepaalde inkomsten uit vermogen worden voor de toepassing van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aangemerkt als inkomen uit werk en woning.
 
 - 4. Het eerste lid is niet van toepassing op lopende termijnen van renten van schuldvorderingen die zijn ontstaan in verband met de verdeling van een nalatenschap, voorzover:
 
@@ -474,7 +474,7 @@ Voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.n
 
 - 1. Met betrekking tot op 31 december 2000 gerijpte doch nog niet genoten termijnen van huren, pachten en renten van schuldvorderingen die op grond van de bepalingen van de Wet op de inkomstenbelasting 1964 zoals die luidden op 31 december 2000 niet tot het vermogen van een onderneming behoorden, blijven de bepalingen van hoofdstuk II, afdeling 3, van die Wet, zoals die luidden op 31 december 2000, van toepassing. Indien de in de eerste volzin bedoelde termijnen betrekking hebben op een tijdvak van ten hoogste één jaar is – uitsluitend voor het jaar 2001 artikel 42b van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, van toepassing.
 
-- 2. De op basis van het eerste lid bepaalde inkomsten uit vermogen worden voor de toepassing van de[Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aangemerkt als inkomen uit werk en woning.
+- 2. De op basis van het eerste lid bepaalde inkomsten uit vermogen worden voor de toepassing van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aangemerkt als inkomen uit werk en woning.
 
 - 3. Onderdeel AK, vierde lid, is van overeenkomstige toepassing.
 
@@ -640,7 +640,7 @@ De [artikelen 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17
 
 - 6. [Artikel 8.7, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.7) is van overeenkomstige toepassing op het deel van de standaardheffingskorting dat betrekking heeft op de tijdelijke verhoging van de algemene heffingskorting.
 
-De in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), in de[Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en in deze wet vermelde guldensbedragen vervallen met ingang van 1 januari 2002, met inbegrip van de guldentekens en de haakjes. Zonodig past Onze Minister de opmaak van tabellen daaraan aan.
+De in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en in deze wet vermelde guldensbedragen vervallen met ingang van 1 januari 2002, met inbegrip van de guldentekens en de haakjes. Zonodig past Onze Minister de opmaak van tabellen daaraan aan.
 
 - 1. Voor de toepassing van de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) en [8.19 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.19) behoren mede tot groene beleggingen, beleggingen als bedoeld in artikel 26, eerste lid, onderdeel c, van de Wet op de inkomstenbelasting 1964 zoals dat luidde op 31 december 2000.
 
@@ -766,9 +766,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2018-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2020-01-01&g=2020-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2018-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2020-01-01&g=2020-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
