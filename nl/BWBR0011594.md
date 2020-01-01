@@ -4,7 +4,7 @@ identifier: "BWBR0011594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-04-25"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011594"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Tot vernietiging van de in [artikel 32m, eerste lid, van Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32m) bedoelde eet- en drinkwaren en andere roerende zaken, zijn bevoegd de controleambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
+Tot vernietiging van de in [artikel 32m, eerste lid, van Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32m) bedoelde eet- en drinkwaren en andere roerende zaken, zijn bevoegd de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 2
 
