@@ -4,7 +4,7 @@ identifier: "BWBR0037457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2015-12-30"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037457"
 soort: "ministeriele-regeling"
@@ -96,11 +96,11 @@ Het MT is verantwoordelijk voor de volgende algemene taken:
 
 ##### Artikel 4
 
-1. Aan de portefeuillehouders wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de directie, voor zover het betreft:
+1. Aan de portefeuillehouders wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de directie, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers;
 
