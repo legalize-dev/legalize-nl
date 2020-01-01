@@ -4,7 +4,7 @@ identifier: "BWBR0039623"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039623"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Aan de voorzitter van de raad van advies van de Politieacademie wordt een vaste vergoeding per maand toegekend. De toepasselijke salarisschaal is schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor is 2/36.
+1. Aan de voorzitter van de raad van advies van de Politieacademie wordt een vaste vergoeding per maand toegekend. De toepasselijke salarisschaal is schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor is 2/36.
 
-2. Aan de overige leden van de raad van advies van de Politieacademie wordt een vergoeding per vergadering toegekend. De vergoeding per vergadering bedraagt drie procent van het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. Aan de overige leden van de raad van advies van de Politieacademie wordt een vergoeding per vergadering toegekend. De vergoeding per vergadering bedraagt drie procent van het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 2
 
