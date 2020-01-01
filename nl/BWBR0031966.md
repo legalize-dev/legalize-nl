@@ -4,7 +4,7 @@ identifier: "BWBR0031966"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2012-10-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031966"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Treedt in werking op het tijdstip waarop hoofdstuk 3 van de Wet College voor de 
 
 In dit besluit wordt verstaan onder:
 
-- a. **burgerlijke rijksambtenaren:** degenen die door het Rijk zijn aangesteld om in burgerlijke openbare dienst werkzaam te zijn;
+- a. **rijksambtenaren:** degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn;
 
 - b. **College:** College voor de rechten van de mens, genoemd in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1);
 
@@ -92,7 +92,7 @@ De voorzitter van het College verdeelt de werkzaamheden van de leden en de plaat
 
 ##### Artikel 6
 
-De leden van het College hebben aanspraak op vakantie en verlof overeenkomstig de bepalingen die terzake gelden voor burgerlijke rijksambtenaren. De bevoegdheden die op grond van de eerste volzin van toepassing zijn, met uitzondering van de bevoegdheid om regels of nadere regels te stellen, worden uitgeoefend door de voorzitter van het College.
+De leden van het College hebben aanspraak op vakantie en verlof overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De bevoegdheden die op grond van de eerste volzin van toepassing zijn, worden uitgeoefend door de voorzitter van het College.
 
 ##### Artikel 7
 
@@ -104,7 +104,7 @@ De leden van het College hebben aanspraak op vakantie en verlof overeenkomstig d
 
 1. Indien de voorzitter van het College wegens ziekte of om andere redenen verhinderd is zijn werkzaamheden te verrichten, geeft hij daarvan zo spoedig mogelijk kennis aan Onze Minister. Indien een ander lid verhinderd is zijn werkzaamheden te verrichten, geeft hij daarvan zo spoedig mogelijk kennis aan de voorzitter.
 
-2. Ten aanzien van de leden van het College is hetgeen voor burgerlijke rijksambtenaren overigens is bepaald met betrekking tot bedrijfsgeneeskundige begeleiding alsmede rechten en verplichtingen bij ziekte en arbeidsongeschiktheid van overeenkomstige toepassing. De bevoegdheden die op grond van de eerste volzin van overeenkomstige toepassing zijn, met uitzondering van de bevoegdheid om regels of nadere regels te stellen, worden uitgeoefend door de voorzitter van het College.
+2. Ten aanzien van de leden van het College is hetgeen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, is bepaald met betrekking tot bedrijfsgeneeskundige begeleiding alsmede rechten en verplichtingen bij ziekte en arbeidsongeschiktheid van overeenkomstige toepassing. De bevoegdheden die op grond van de eerste volzin van overeenkomstige toepassing zijn, worden uitgeoefend door de voorzitter van het College.
 
 ##### Artikel 9
 
@@ -116,13 +116,13 @@ Ten aanzien van de leden van het College is het [Besluit bovenwettelijke uitkeri
 
 ##### Artikel 11
 
-Zo spoedig mogelijk na het overlijden van een lid van het College wordt door Onze Minister een overlijdensuitkering uitbetaald overeenkomstig de bepalingen die voor burgerlijke rijksambtenaren gelden.
+Zo spoedig mogelijk na het overlijden van een lid van het College wordt door Onze Minister een overlijdensuitkering uitbetaald overeenkomstig hetgeen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren is overeengekomen.
 
 #### § 3. Rechtspositie van de tot het bureau behorende ambtenaren
 
 ##### Artikel 12
 
-Ten aanzien van de ambtenaren die behoren tot het bureau van het College worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, met uitzondering van de bevoegdheid om regels of nadere regels te stellen, uitgeoefend door de voorzitter van het College.
+Vervallen
 
 #### § 4. Slotbepalingen
 
@@ -134,7 +134,7 @@ Dit besluit wordt aangehaald als: Besluit rechtspositie College voor de rechten 
 
 Dit besluit treedt in werking op het tijdstip waarop [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3) in werking treedt.
 
-## Bijlage. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031966&paragraaf=2&artikel=2&z=2012-10-01&g=2012-10-01), van het Besluit rechtspositie College voor de rechten van de mens
+## Bijlage. als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031966&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), van het Besluit rechtspositie College voor de rechten van de mens
 
 ### Formulier voor het afleggen van de eed of belofte door een lid of plaatsvervangend lid van het College voor de rechten van de mens
 
