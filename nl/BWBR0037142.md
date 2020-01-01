@@ -4,7 +4,7 @@ identifier: "BWBR0037142"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037142"
 soort: "ministeriele-regeling"
@@ -46,21 +46,19 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **instelling:** openbaar toegankelijke instelling die gespecialiseerd is in het beheren van museale collecties, het organiseren van tentoonstellingen, of het tentoonstellen van langdurig in bruikleen gegeven voorwerpen;
+- b. **instelling:** openbaar toegankelijke instelling die gespecialiseerd is in het beheren van museale collecties of het organiseren van tentoonstellingen;
 
 - c. **voorwerp:** cultuurgoed als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1) met inbegrip van lijst, raam, kader, sokkel en dergelijke, afkomstig uit een buitenlandse collectie of uit een niet openbaar toegankelijke privécollectie;
 
 - d. **tentoonstelling:** tijdelijke tentoonstelling in Nederland die een compilatie vormt van belangrijke voorwerpen, al dan niet in combinatie met andere cultuurgoederen, in een samenhang die in het algemeen niet in Nederland te zien is en een visie biedt op periodes, kwesties, personen of producten van cultuurhistorische betekenis;
 
-- e. **langdurige bruikleen:** gedurende tenminste een jaar en ten hoogste vijf jaar in bruikleen geven van een voorwerp aan een instelling;
+- e. **indemniteitsverklaring:** beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2020-01-01&g=2020-01-01), wordt verleend;
 
-- f. **indemniteitsverklaring:** beschikking waarbij een voorwaardelijke aanspraak op subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=2&z=2016-01-01&g=2016-01-01), wordt verleend;
-
-- g. **indemniteitspercentage:** deel van de totale verzekerde waarde van de voorwerpen die voor een indemniteitsverklaring in aanmerking komen, uitgedrukt in procenten waarbij de totale verzekerde waarde 100 is.
+- f. **indemniteitspercentage:** deel van de totale verzekerde waarde van de voorwerpen die voor een indemniteitsverklaring in aanmerking komen, uitgedrukt in procenten waarbij de totale verzekerde waarde 100 is.
 
 ##### Artikel 2. Indemniteitsverklaring
 
-1. De minister kan aan een instelling voor een tentoonstelling of voor een langdurige bruikleen een subsidie verlenen onder de opschortende voorwaarde van verlies van of schade aan de door derden in bruikleen afgestane voorwerpen.
+1. De minister kan aan een instelling voor een tentoonstelling een subsidie verlenen onder de opschortende voorwaarde van verlies van of schade aan de door derden in bruikleen afgestane voorwerpen.
 
 2. De opschortende voorwaarde is van kracht gedurende de periode waarvoor door de subsidieontvanger een verzekering is gesloten voor de bruiklenen.
 
@@ -68,23 +66,27 @@ In deze regeling wordt verstaan onder:
 
 1. Het totaal van de aanspraken op financiële middelen in een begrotingsjaar op grond van indemniteitsverklaringen gaat op enig moment het bedrag van € 300 miljoen niet te boven.
 
-2. Van het bedrag kan in een begrotingsjaar ten hoogste op enig moment tien procent worden verleend voor langdurige bruikleen.
+2. Een indemniteitsverklaring wordt ten laste gebracht van het beschikbare bedrag gedurende de periode van twee weken vóór aanvang van de tentoonstelling tot en met twee weken na het einde van de tentoonstelling.
 
-3. Een indemniteitsverklaring wordt ten laste gebracht van het beschikbare bedrag gedurende de periode van twee weken vóór aanvang van de tentoonstelling of langdurige bruikleen tot en met twee weken na het einde van de tentoonstelling onderscheidenlijk langdurige bruikleen.
+3. In afwijking van het tweede lid kan per tentoonstelling een andere periode worden aangevraagd waarop de indemniteitsverklaring betrekking heeft, indien deze periode aanvangt en afsluit met een door de instelling op te stellen beoordeling van de staat van de voorwerpen en het een aaneengesloten periode betreft.
 
 ##### Artikel 4. Voorwaarden
 
 1. Een indemniteitsverklaring wordt slechts verleend indien:
 
-- a. een instelling naar het oordeel van de minister heeft aangetoond dat die indemniteitsverklaring leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van tenminste 20 procent; en
+- a. een instelling naar het oordeel van de minister heeft aangetoond dat die indemniteitsverklaring:
 
-- b. naar het oordeel van de minister een acceptabele verhouding aanwezig is tussen enerzijds het belang van de tentoonstelling of van de langdurige bruikleen en de besparing, bedoeld in onderdeel a, en anderzijds het door de Minister van OCW te aanvaarden risico.
+- 1°. leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van ten minste 20 procent; of
+
+- 2°. indien het indemniteitspercentage lager is dan 30 procent, leidt tot een besparing op de premie van de verzekering van de desbetreffende bruikleen of bruiklenen van een percentage dat ten minste 66 procent bedraagt van dit indemniteitspercentage; en
+
+- b. naar het oordeel van de minister een acceptabele verhouding aanwezig is tussen enerzijds het belang van de tentoonstelling en de besparing, bedoeld in onderdeel a, en anderzijds het door de Minister van OCW te aanvaarden risico.
 
 2. De voorwaarden die gelden voor de verzekering waarvoor de indemniteitsverklaring wordt verleend, zijn van overeenkomstige toepassing op de indemniteitsverklaring.
 
 ##### Artikel 5. Aanvraag
 
-1. De aanvraag voor een indemniteitsverklaring wordt ten hoogste een jaar en uiterlijk acht weken voor aanvang van de periode, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=3&z=2016-01-01&g=2016-01-01), ingediend.
+1. De aanvraag voor een indemniteitsverklaring wordt ten hoogste een jaar en uiterlijk acht weken voor aanvang van de periode, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=3&z=2020-01-01&g=2020-01-01), ingediend.
 
 2. Bij de aanvraag wordt gebruik gemaakt van een door de minister vastgesteld aanvraagformulier.
 
@@ -96,9 +98,9 @@ In deze regeling wordt verstaan onder:
 
 - c. voor zover de aanvraag een tentoonstelling betreft, een tentoonstellingsplan.
 
-4. De verzekeringsofferte bevat in ieder geval de verzekeringspremie zonder korting en een opgave van de korting die wordt gegeven bij een indemniteitspercentage van ten hoogste 30 procent, waarbij de gevraagde subsidie ten hoogste € 75 miljoen bedraagt.
+4. De verzekeringsofferte bevat in ieder geval de verzekeringspremie zonder korting en een opgave van de korting die wordt gegeven bij een indemniteitspercentage van ten hoogste 30 procent, waarbij de gevraagde subsidie ten hoogste € 70 miljoen bedraagt.
 
-5. Bij de aanvraag verklaart een instelling te voldoen aan de eisen over de veiligheid van de voorwerpen en de beveiliging van de instelling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=8&z=2016-01-01&g=2016-01-01). Op verzoek van de minister overlegt de instelling de documenten, bedoeld in artikel 8, en worden de veiligheidsmaatregelen ter plekke getoond.
+5. Bij de aanvraag verklaart een instelling te voldoen aan de eisen over de veiligheid van de voorwerpen en de beveiliging van de instelling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=8&z=2020-01-01&g=2020-01-01). Op verzoek van de minister overlegt de instelling de documenten, bedoeld in artikel 8, en worden de veiligheidsmaatregelen ter plekke getoond.
 
 ##### Artikel 6. Subsidieverlening
 
@@ -106,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 2. De minister beslist binnen acht weken na ontvangst van de aanvraag.
 
-3. Bij het verstrekken van een indemniteitsverklaring stelt de minister de hoogte van de aanspraak vast. De aanspraak bedraagt niet meer dan € 75 miljoen en het indemniteitspercentage bedraagt ten hoogste 30 procent.
+3. Bij het verstrekken van een indemniteitsverklaring stelt de minister de hoogte van de aanspraak vast. De aanspraak bedraagt niet meer dan € 70 miljoen en het indemniteitspercentage bedraagt ten hoogste 30 procent.
 
 4. Op de indemniteitsverklaring is een eigen risico van toepassing dat de minister overeenkomstig de tabellen in de bijlage vaststelt. Dit bedrag wordt in mindering gebracht op de subsidie in het geval zich verlies of schade voordoet waarop de indemniteitsverklaring van toepassing is.
 
@@ -140,13 +142,13 @@ Gedurende de periode waarop de indemniteitsverklaring betrekking heeft:
 
 ##### Artikel 10. Vaststelling subsidie
 
-1. Na ontvangst van de documenten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2016-01-01&g=2016-01-01), stelt de minister de subsidie binnen dertien weken vast.
+1. Na ontvangst van de documenten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2020-01-01&g=2020-01-01), stelt de minister de subsidie binnen dertien weken vast.
 
-2. De subsidie wordt vastgesteld op het bedrag van de schade waarop de indemniteitsverklaring van toepassing is met een maximum van het daarin aangegeven bedrag, verminderd met het eigen risico, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=6&z=2016-01-01&g=2016-01-01).
+2. De subsidie wordt vastgesteld op het bedrag van de schade waarop de indemniteitsverklaring van toepassing is met een maximum van het daarin aangegeven bedrag, verminderd met het eigen risico, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=6&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 11. Melding gewijzigde kosten en wijziging vaststelling
 
-1. Indien na de vaststelling van de subsidie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2016-01-01&g=2016-01-01), blijkt dat de kosten lager zijn dan de verstrekte subsidie, meldt de instelling dit aan de minister.
+1. Indien na de vaststelling van de subsidie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037142&artikel=9&z=2020-01-01&g=2020-01-01), blijkt dat de kosten lager zijn dan de verstrekte subsidie, meldt de instelling dit aan de minister.
 
 2. In een geval als bedoeld in het eerste lid kan de minister de beschikking tot subsidievaststelling wijzigen.
 
@@ -156,13 +158,11 @@ De [Subsidieregeling indemniteit bruiklenen 2008](https://wetten.overheid.nl/jci
 
 ##### Artikel 13. Overgangsbepalingen
 
-1. De [Subsidieregeling indemniteit bruiklenen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024244) blijft van toepassing op indemniteitsverklaringen die op grond van die regeling zijn verstrekt en aanvragen voor indemniteitsverklaringen die op grond van die regeling zijn ingediend en waarop nog niet is beslist.
-
-2. Voor zover een aanvraag als bedoeld in het eerste lid wordt ingediend na publicatie van deze regeling wordt deze geweigerd indien de aanvraag betrekking heeft op een tentoonstelling of langdurige bruikleen die aanvangt na 31 december 2016.
+Vervallen
 
 ##### Artikel 14. Inwerkingtreding en horizonbepaling
 
-Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2016 en vervalt met ingang van 1 januari 2025.
 
 ##### Artikel 15. Citeertitel
 
