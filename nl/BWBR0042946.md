@@ -4,7 +4,7 @@ identifier: "BWBR0042946"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2019-02-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042946"
 soort: "wet"
@@ -42,79 +42,53 @@ entry_into_force: "2020-01-01"
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Mijnbouwwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
@@ -124,67 +98,63 @@ Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Wet op de omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
 Wijzigt de Wet op de accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Wet op de accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
 Wijzigt het Belastingplan 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt het Belastingplan 2019.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
 Wijzigt de Wet bedrijfsleven 2019.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII
 
 Wijzigt de Belastingwet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
 Wijzigt de Wet inkomstenbelasting BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2019 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
+
+- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=I&z=2020-01-01&g=2020-01-01), en [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XI&z=2020-01-01&g=2020-01-01), voor het eerst toepassing vinden met betrekking tot kosten en lasten, onderscheidenlijk loonbestanddelen, die verband houden met:
+
+- 1°. geldsommen die zijn betaald in het kader van een na 31 december 2019 uitgevaardigde strafbeschikking of daarmee vergelijkbare buitenlandse wijze van bestraffing die na 31 december 2019 heeft plaatsgevonden;
+
+- 2°. dwangsommen die zijn verbeurd na 31 december 2019;
+
+- b. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XII&z=2020-01-01&g=2020-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020;
+
+- c. [artikel XIV, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XIV&z=2020-01-01&g=2020-01-01), terugwerkt tot en met 1 februari 2019;
+
+- d. [artikel XX, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XX&z=2020-01-01&g=2020-01-01), toepassing vindt voordat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=II) en [XV van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XV) worden toegepast;
+
+- e. [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042946&artikel=XXI&z=2020-01-01&g=2020-01-01), toepassing vindt voordat [artikel 7.4, onderdeel I, van de Wet bedrijfsleven 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041758&artikel=7.4) wordt toegepast.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2020.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
