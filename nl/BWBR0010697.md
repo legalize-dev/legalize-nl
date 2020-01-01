@@ -4,7 +4,7 @@ identifier: "BWBR0010697"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "1999-09-17"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010697"
 soort: "ministeriele-regeling"
@@ -44,15 +44,21 @@ Besluit:
 
 De ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, welke opsporingsbevoegdheid bezitten, kunnen worden belast met:
 
-- a. de tenuitvoerlegging van rechterlijke beslissingen of beslissingen van het openbaar ministerie, als bedoeld in [artikel 556, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556);
+- a. de tenuitvoerlegging van rechterlijke beslissingen of strafbeschikkingen, als bedoeld in [artikel 6:1:1, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:1);
 
-- b. de uitreiking van een gerechtelijk schrijven als bedoeld in [artikel 586 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=586).
+- b. de uitreiking van een gerechtelijke mededeling als bedoeld in [artikel 36b, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b).
 
 ##### Artikel 2
 
-De regeling van de Minister van Justitie van 20 mei 1994, nr. 438145/594/MB, houdende aanwijzing van de ambtenaren der invoerrechten en accijnzen als ambtenaar in de zin van artikel 556 van het Wetboek van Strafvordering (Stcrt. 101)¹ wordt ingetrokken.
+Deze regeling wordt aangehaald als: Regeling executiebevoegdheden douane-ambtenaren bij strafvonnissen.
 
 ##### Artikel 3
+
+Deze regeling berust op de [artikelen 36d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d), en [6:1:5, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
