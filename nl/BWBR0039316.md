@@ -4,7 +4,7 @@ identifier: "BWBR0039316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039316"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
-De bezoldiging van de Kanselier der Nederlandse Orden wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), rekening houdend met een tijdsbesteding van gemiddeld 8 uur per week.
+De bezoldiging van de Kanselier der Nederlandse Orden wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18, zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, rekening houdend met een tijdsbesteding van gemiddeld 8 uur per week.
 
 ##### Artikel 2
 
-De Kanselier der Nederlandse Orden ontvangt een vergoeding voor reis- en verblijfkosten op grond van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De Kanselier der Nederlandse Orden ontvangt een vergoeding voor reis- en verblijfkosten in verband met dienstreizen binnen Nederland overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 3
 
