@@ -4,7 +4,7 @@ identifier: "BWBR0036755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2018-11-29"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036755"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2018-11-29&g=2018-11-29) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur, de afdelingshoofden en de teamleiders.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2020-06-11&g=2020-01-01) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur, de afdelingshoofden en de teamleiders.
 
 ##### Artikel 5
 
@@ -80,7 +80,7 @@ Voor toepassing van dit besluit en de daarop rustende bepalingen wordt met de ve
 
 1. Volmacht tot het aangaan van financiële verplichtingen wordt verleend aan de directeur.
 
-2. Aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=4&z=2018-11-29&g=2018-11-29) bedoelde functionarissen wordt ten behoeve van het aan hen verleende ondermandaat van personele aangelegenheden volmacht tot het aangaan van financiële verplichtingen verleend.
+2. Aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=4&z=2020-06-11&g=2020-01-01) bedoelde functionarissen wordt ten behoeve van het aan hen verleende ondermandaat van personele aangelegenheden volmacht tot het aangaan van financiële verplichtingen verleend.
 
 3. De in dit artikel bedoelde functionarissen maken van de aan hen verleende volmacht slechts gebruik voor zover het aangelegenheden betreft die tot hun werkterrein behoren.
 
