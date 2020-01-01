@@ -4,7 +4,7 @@ identifier: "BWBR0002740"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002740"
 soort: "wet"
@@ -69,7 +69,7 @@ als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wette
 
 4. Het derde lid is niet van toepassing indien:
 
-- a. de verkrijger, al dan niet tezamen met een verbonden lichaam als bedoeld in [artikel 4, zesde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), of een verbonden natuurlijk persoon als bedoeld in artikel 4, achtste lid;
+- a. de verkrijger, al dan niet tezamen met een verbonden lichaam als bedoeld in [artikel 4, zesde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), of een verbonden natuurlijk persoon als bedoeld in artikel 4, achtste lid;
 
 - b. de verkrijger een natuurlijk persoon is tezamen met zijn echtgenoot, zijn bloed- en aanverwanten in de rechte linie en in de tweede graad van de zijlinie;
 
@@ -79,7 +79,7 @@ als gevolg van de verkrijging met inbegrip van de reeds aan hem toebehorende rec
 
 - a. een natuurlijk persoon, zijn echtgenoot, zijn bloed- en aanverwanten in de rechte linie en door een lichaam waarin hij, al dan niet tezamen met zijn echtgenoot en zijn bloed- en aanverwanten in de rechte linie, een geheel of nagenoeg geheel belang heeft;
 
-- b. een rechtspersoon en door een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), behorend lichaam;
+- b. een rechtspersoon en door een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), behorend lichaam;
 
 beschouwd als te hebben plaatsgehad ingevolge dezelfde of een samenhangende overeenkomst.
 
@@ -95,7 +95,7 @@ beschouwd als te hebben plaatsgehad ingevolge dezelfde of een samenhangende over
 
 - b. verdeling van een huwelijksgemeenschap of nalatenschap, waarin de verkrijger was gerechtigd als rechtverkrijgende onder algemene titel;
 
-- c. natrekking van een zaak op het tijdstip waarop die zaak wordt aangebracht op, aan of in een onroerende zaak, tenzij van die zaak omzetbelasting wordt geheven ter zake van de levering en de vergoeding, bedoeld in [artikel 8, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=9&z=2018-01-01&g=2018-01-01), en de verkrijger die omzetbelasting op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) niet of niet nagenoeg geheel in aftrek kan brengen.
+- c. natrekking van een zaak op het tijdstip waarop die zaak wordt aangebracht op, aan of in een onroerende zaak, tenzij van die zaak omzetbelasting wordt geheven ter zake van de levering en de vergoeding, bedoeld in [artikel 8, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=9&z=2020-01-01&g=2020-01-01), en de verkrijger die omzetbelasting op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) niet of niet nagenoeg geheel in aftrek kan brengen.
 
 Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de kostprijs van de zaak, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de natrekking.
 
@@ -103,7 +103,7 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 ##### Artikel 4
 
-1. Als zaken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) worden mede aangemerkt (fictieve onroerende zaken):
+1. Als zaken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01) worden mede aangemerkt (fictieve onroerende zaken):
 
 - a. aandelen in een rechtspersoon, waarvan de bezittingen op het tijdstip van de verkrijging of op enig tijdstip in het daaraan voorafgaande jaar grotendeels bestaan of hebben bestaan uit onroerende zaken en tegelijkertijd ten minste 30% van de bezittingen bestaat of heeft bestaan uit in Nederland gelegen onroerende zaken, mits de onroerende zaken, als geheel genomen, op dat tijdstip geheel of hoofdzakelijk dienstbaar zijn of waren aan het verkrijgen, vervreemden of exploiteren van die onroerende zaken;
 
@@ -119,7 +119,7 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 4. Voor de toepassing van het eerste lid, onderdeel a:
 
-- a. heeft, wanneer een rechtspersoon, al dan niet tezamen met een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), behorend lichaam, of met een natuurlijk persoon die, al dan niet tezamen met zijn echtgenoot of zijn bloed- en aanverwanten in de rechte linie, een geheel of nagenoeg geheel belang heeft in de rechtspersoon, voor ten minste een derde gedeelte een belang bezit of heeft bezeten in een ander lichaam, bij het bepalen van zijn bezittingen naar evenredigheid toerekening plaats van de bezittingen en schulden van het andere lichaam;
+- a. heeft, wanneer een rechtspersoon, al dan niet tezamen met een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), behorend lichaam, of met een natuurlijk persoon die, al dan niet tezamen met zijn echtgenoot of zijn bloed- en aanverwanten in de rechte linie, een geheel of nagenoeg geheel belang heeft in de rechtspersoon, voor ten minste een derde gedeelte een belang bezit of heeft bezeten in een ander lichaam, bij het bepalen van zijn bezittingen naar evenredigheid toerekening plaats van de bezittingen en schulden van het andere lichaam;
 
 - b. worden, na toepassing van de toerekening uit onderdeel a, vorderingen van de rechtspersoon op de verkrijger of op met de rechtspersoon of de verkrijger verbonden lichamen en verbonden natuurlijke personen als bedoeld in het derde, zesde, zevende of achtste lid van dit artikel, niet tot de bezittingen gerekend, tenzij aannemelijk wordt gemaakt dat deze vorderingen voortvloeien of voortvloeiden uit een bij de aard en omvang van de rechtspersoon en de verkrijger, of daarmee verbonden lichamen of natuurlijke personen, passende normale bedrijfsuitoefening;
 
@@ -133,7 +133,7 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 - 1°. verkrijgingen binnen een tijdsverloop van twee jaren door dezelfde verkrijger als bedoeld in het derde lid, onderdeel a, zijn echtgenoot, zijn bloed- en aanverwanten in de rechte linie en door een lichaam waarin hij, al dan niet tezamen met zijn echtgenoot en zijn bloed- en aanverwanten in de rechte linie, een geheel of nagenoeg geheel belang heeft;
 
-- 2°. verkrijgingen binnen een tijdsverloop van twee jaren door dezelfde verkrijger als bedoeld in het derde lid, onderdeel b, en door een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), behorend lichaam;
+- 2°. verkrijgingen binnen een tijdsverloop van twee jaren door dezelfde verkrijger als bedoeld in het derde lid, onderdeel b, en door een tot hetzelfde concern als gedefinieerd krachtens [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), behorend lichaam;
 
 - c. wordt ter vaststelling van het belang van de verkrijger, bij:
 
@@ -157,7 +157,7 @@ Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de ko
 
 9. De rechtspersonen, bedoeld in het eerste lid, zijn gehouden met inachtneming van bij ministeriële regeling te stellen regels bij aangifte de gegevens te verstrekken waarvan de kennisneming van belang kan zijn voor de heffing van de belasting. Met betrekking tot deze verplichtingen blijft [artikel 53, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53) buiten toepassing.
 
-10. Voor de toepassing van dit artikel is [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+10. Voor de toepassing van dit artikel is [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
 11. Onder aandelen als bedoeld in het eerste lid, onderdeel a, en het derde lid worden mede verstaan rechten uit bestaande aandelen.
 
@@ -179,7 +179,7 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 
 ##### Artikel 8
 
-1. Indien voor de verkrijging van een goed als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) een akte in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), moet worden ingeschreven, vindt de verkrijging plaats op het tijdstip waarop de akte wordt opgemaakt.
+1. Indien voor de verkrijging van een goed als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01) een akte in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), moet worden ingeschreven, vindt de verkrijging plaats op het tijdstip waarop de akte wordt opgemaakt.
 
 2. Een verkrijging krachtens een rechtshandeling die onder opschortende voorwaarde is verricht, komt tot stand op het tijdstip waarop de voorwaarde wordt vervuld.
 
@@ -195,15 +195,15 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 
 3. Bij verkrijging van een met grondrente bezwaarde zaak, wordt de belasting berekend over de waarde van die zaak zonder aftrek van de grondrente.
 
-4. Ingeval een verkrijging als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), wordt gevolgd door een verkrijging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) in het geheel niet in aftrek kon worden gebracht.
+4. Ingeval een verkrijging als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), wordt gevolgd door een verkrijging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) in het geheel niet in aftrek kon worden gebracht.
 
-5. Indien voor een goed als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) een verkoopregulerend beding geldt dat rechtstreeks of middellijk jegens de verkrijger is gemaakt door een publiekrechtelijk lichaam of een toegelaten instelling als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), is de waarde gelijk aan die van de tegenprestatie en worden voor de bepaling van de tegenprestatie de uit het beding voortvloeiende lasten buiten aanmerking gelaten.
+5. Indien voor een goed als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01) een verkoopregulerend beding geldt dat rechtstreeks of middellijk jegens de verkrijger is gemaakt door een publiekrechtelijk lichaam of een toegelaten instelling als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), is de waarde gelijk aan die van de tegenprestatie en worden voor de bepaling van de tegenprestatie de uit het beding voortvloeiende lasten buiten aanmerking gelaten.
 
-6. Indien op grond van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), de vrijstelling niet van toepassing is, wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.
+6. Indien op grond van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), de vrijstelling niet van toepassing is, wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.
 
 ##### Artikel 10
 
-De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), is gelijk aan de waarde van de goederen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), welke door die aandelen of rechten middellijk of onmiddellijk worden vertegenwoordigd, met dien verstande dat de waarde van de goederen, bedoeld in [artikel 15, eerste lid, onderdeel y](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), buiten beschouwing blijft.
+De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), is gelijk aan de waarde van de goederen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), welke door die aandelen of rechten middellijk of onmiddellijk worden vertegenwoordigd, met dien verstande dat de waarde van de goederen, bedoeld in [artikel 15, eerste lid, onderdeel y](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), buiten beschouwing blijft.
 
 ##### Artikel 11
 
@@ -217,7 +217,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 - a. eigendom wordt verkregen door een levering onder voorbehoud van een erfdienstbaarheid, een recht van erfpacht of een recht van opstal ten behoeve van diegene die de eigendom vervreemdt; of
 
-- b. eigendom wordt verkregen, welke is bezwaard met een erfdienstbaarheid, een recht van erfpacht of een recht van opstal, indien het desbetreffende beperkte recht was gevestigd tegelijk met of binnen drie jaar voorafgaand aan de verkrijging en ter zake van de vestiging van het beperkte recht of een daarmee samenhangende verkrijging van bloot eigendom de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01), van toepassing was.
+- b. eigendom wordt verkregen, welke is bezwaard met een erfdienstbaarheid, een recht van erfpacht of een recht van opstal, indien het desbetreffende beperkte recht was gevestigd tegelijk met of binnen drie jaar voorafgaand aan de verkrijging en ter zake van de vestiging van het beperkte recht of een daarmee samenhangende verkrijging van bloot eigendom de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01), van toepassing was.
 
 5. Wanneer een verkrijging als bedoeld in het vierde lid wordt gevolgd door een verkrijging als bedoeld in het eerste lid, door dezelfde verkrijger of een rechtsopvolger onder algemene titel en met betrekking tot dezelfde onroerende zaak, wordt de maatstaf van heffing bij de opvolgende verkrijging verminderd met het bedrag waarover bij de vorige verkrijging:
 
@@ -227,17 +227,17 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 ##### Artikel 12
 
-1. Bij verkrijging krachtens verdeling wordt de waarde verminderd met die van het aandeel van de verkrijger of van zijn rechtsvoorganger onder algemene titel in de verdeelde goederen als zijn bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01).
+1. Bij verkrijging krachtens verdeling wordt de waarde verminderd met die van het aandeel van de verkrijger of van zijn rechtsvoorganger onder algemene titel in de verdeelde goederen als zijn bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01).
 
-2. De vermindering met de waarde van het aandeel van een rechtsvoorganger vindt, ingeval aan verschillende rechtverkrijgenden onder algemene titel goederen als zijn bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01) worden toegedeeld, voor iedere toedeling plaats naar evenredigheid van de waarde van het toegedeelde.
+2. De vermindering met de waarde van het aandeel van een rechtsvoorganger vindt, ingeval aan verschillende rechtverkrijgenden onder algemene titel goederen als zijn bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01) worden toegedeeld, voor iedere toedeling plaats naar evenredigheid van de waarde van het toegedeelde.
 
-3. Het eerste en het tweede lid blijven buiten toepassing, voor zover de gerechtigdheid tot de verdeelde goederen is ontstaan door inbreng in een vennootschap met toepassing van de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2018-01-01&g=2018-01-01).
+3. Het eerste en het tweede lid blijven buiten toepassing, voor zover de gerechtigdheid tot de verdeelde goederen is ontstaan door inbreng in een vennootschap met toepassing van de vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=3&artikel=15&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 13
 
 1. In geval van verkrijging binnen zes maanden na een vorige verkrijging van dezelfde goederen door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) in aftrek kon worden gebracht.
 
-2. Voor de toepassing van het eerste lid worden aandelen of rechten, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), en de daardoor middellijk of onmiddellijk vertegenwoordigde goederen als dezelfde goederen beschouwd.
+2. Voor de toepassing van het eerste lid worden aandelen of rechten, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), en de daardoor middellijk of onmiddellijk vertegenwoordigde goederen als dezelfde goederen beschouwd.
 
 3. Bij algemene maatregel van bestuur kan, indien de ontwikkelingen van de vastgoedmarkt daartoe aanleiding geven, in afwijking van het eerste lid tijdelijk een afwijkende termijn worden vastgesteld waarbij voor woningen en niet-woningen een verschillende termijn gehanteerd kan worden en voor zover nodig kan worden voorzien in overgangsrecht.
 
@@ -247,7 +247,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 1. De belasting bedraagt 6 percent.
 
-2. In afwijking van het eerste lid bedraagt de belasting 2 percent voor de verkrijging van woningen en van rechten waaraan deze zijn onderworpen, alsmede voor de verkrijging van aandelen en rechten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), voor zover deze aandelen en rechten middellijk of onmiddellijk woningen vertegenwoordigen. Onder woningen worden mede begrepen aanhorigheden die tot woningen behoren of gaan behoren.
+2. In afwijking van het eerste lid bedraagt de belasting 2 percent voor de verkrijging van woningen en van rechten waaraan deze zijn onderworpen, alsmede voor de verkrijging van aandelen en rechten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), voor zover deze aandelen en rechten middellijk of onmiddellijk woningen vertegenwoordigen. Onder woningen worden mede begrepen aanhorigheden die tot woningen behoren of gaan behoren.
 
 ##### Artikel 15
 
@@ -271,7 +271,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 - –. ter zake van de inbreng de inbrenger wordt bijgeschreven op de kapitaalrekening van de vennootschap voor een bedrag dat ten minste 90 percent is van de waarde van het vermogen van de ingebrachte onderneming; en
 
-- –. de ingebrachte onderneming niet heeft behoord tot het vermogen van een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), tenzij deze rechtspersoon verschillende ondernemingen bezit of heeft bezeten en de bezittingen van de ingebrachte onderneming niet zouden leiden tot het aanmerken van de rechtspersoon als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2018-01-01&g=2018-01-01), wanneer de ingebrachte onderneming de enige onderneming van de rechtspersoon zou zijn.
+- –. de ingebrachte onderneming niet heeft behoord tot het vermogen van een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), tenzij deze rechtspersoon verschillende ondernemingen bezit of heeft bezeten en de bezittingen van de ingebrachte onderneming niet zouden leiden tot het aanmerken van de rechtspersoon als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=4&z=2020-01-01&g=2020-01-01), wanneer de ingebrachte onderneming de enige onderneming van de rechtspersoon zou zijn.
 
 - 2°. bij omzetting van een niet in de vorm van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming in een wel in zodanige vorm gedreven onderneming, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming;
 
@@ -305,7 +305,7 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 - q. van ten behoeve van de landbouw bedrijfsmatig geëxploiteerde cultuurgrond, daaronder begrepen de rechten van erfpacht of beklemming daarop. Onder cultuurgrond wordt mede begrepen de ondergrond van glasopstanden. De belasting die door toepassing van deze bepaling niet is geheven, is alsnog verschuldigd indien de exploitatie als zodanig niet gedurende ten minste tien jaren wordt voortgezet. De vorige volzin is niet van toepassing indien binnen de aldaar bedoelde termijn de cultuurgrond door overheidsbeleid aan de landbouw wordt onttrokken ten behoeve van de ontwikkeling en instandhouding van natuur en landschap;
 
-- r. krachtens herstel als is bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=4&artikel=19&z=2018-01-01&g=2018-01-01);
+- r. krachtens herstel als is bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=4&artikel=19&z=2020-01-01&g=2020-01-01);
 
 - s. van natuurgrond, daaronder begrepen de rechten van erfpacht of beklemming daarop, waarvan de inrichting en het beheer geheel of nagenoeg geheel duurzaam zijn afgestemd op het behoud en de ontwikkeling van natuur en landschap. De belasting die door toepassing van deze bepaling niet is geheven, is alsnog verschuldigd indien binnen tien jaren na de verkrijging niet langer sprake is van natuurgrond. De vorige volzin is niet van toepassing indien binnen de aldaar bedoelde termijn de natuurgrond wordt omgezet in cultuurgrond als bedoeld in onderdeel q en als zodanig gedurende de rest van deze termijn bedrijfsmatig geëxploiteerd blijft;
 
@@ -321,11 +321,11 @@ De waarde van aandelen en rechten, als bedoeld in [artikel 4, eerste lid](https:
 
 - y. van een net gelegen in, op of boven de grond, bestaande uit een of meer kabels of leidingen, bestemd voor transport van vaste, vloeibare of gasvormige stoffen, van energie, of van informatie.
 
-2. Ingeval bodembestanddelen als bedoeld in het eerste lid, onderdeel j, of de waarde daarvan alsnog aan de verkrijger ten goede komen, wordt zulks beschouwd als een verkrijging in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01).
+2. Ingeval bodembestanddelen als bedoeld in het eerste lid, onderdeel j, of de waarde daarvan alsnog aan de verkrijger ten goede komen, wordt zulks beschouwd als een verkrijging in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01).
 
 3. Verwijdering van zaken die ingevolge een beding of krachtens de wet nog na de verkrijging mogen worden weggenomen wordt, indien die verwijdering plaatsvindt binnen drie maanden na de verkrijging, ten aanzien van die zaken beschouwd als de vervulling van een aan de verkrijging verbonden ontbindende voorwaarde, mits zij of hun waarde niet aan de verkrijger zijn ten goede gekomen.
 
-4. De in het eerste lid bedoelde vrijstellingen zijn niet van toepassing in gevallen waarin de verkrijging plaatsvindt krachtens een levering of dienst in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) ter zake waarvan omzetbelasting is verschuldigd, indien de vergoeding, bedoeld in [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=9&z=2018-01-01&g=2018-01-01), en de verkrijger de omzetbelasting op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) niet of niet nagenoeg geheel in aftrek kan brengen.
+4. De in het eerste lid bedoelde vrijstellingen zijn niet van toepassing in gevallen waarin de verkrijging plaatsvindt krachtens een levering of dienst in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) ter zake waarvan omzetbelasting is verschuldigd, indien de vergoeding, bedoeld in [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=9&z=2020-01-01&g=2020-01-01), en de verkrijger de omzetbelasting op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) niet of niet nagenoeg geheel in aftrek kan brengen.
 
 Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.
 
@@ -369,7 +369,7 @@ Bij ministeriële regeling kunnen regels worden gesteld welke ertoe strekken, da
 
 3. De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.
 
-4. Een verkrijging ten aanzien waarvan op grond van het eerste lid teruggaaf van de belasting wordt verleend, blijft buiten beschouwing voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=13&z=2018-01-01&g=2018-01-01).
+4. Een verkrijging ten aanzien waarvan op grond van het eerste lid teruggaaf van de belasting wordt verleend, blijft buiten beschouwing voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=2&artikel=13&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk III. Assurantiebelasting
 
@@ -435,7 +435,15 @@ De belasting bedraagt 21 percent.
 
 - g. herverzekeringen;
 
-- h. exportkredietverzekeringen.
+- h. exportkredietverzekeringen;
+
+- i. door een werkgever afgesloten verzekeringen ter dekking van financiële verplichtingen voortvloeiend uit:
+
+- 1°. [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a); of
+
+- 2°. [artikel 40, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
+
+- j. brede weersverzekeringen afgesloten door een actieve landbouwer als bedoeld in artikel 9, tweede lid, derde alinea, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad (PbEU 2013, L 347).
 
 2. Indien een samengestelde verzekering een of meer vrijgestelde verzekeringen omvat, wordt de vrijstelling toegepast op het aan die vrijgestelde verzekeringen toe te rekenen gedeelte van de premie.
 
@@ -467,11 +475,11 @@ De belasting bedraagt 21 percent.
 
 ##### Artikel 25a
 
-1. De fiscaal vertegenwoordiger, bedoeld in [artikel 25, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2018-01-01&g=2018-01-01), dient in het bezit te zijn van een vergunning van de inspecteur.
+1. De fiscaal vertegenwoordiger, bedoeld in [artikel 25, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2020-01-01&g=2020-01-01), dient in het bezit te zijn van een vergunning van de inspecteur.
 
 2. Degene die een vergunning als fiscaal vertegenwoordiger wil verkrijgen, dient daartoe een verzoek in bij de inspecteur. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die het verzoek moet bevatten.
 
-3. Bij het verzoek wordt een verklaring overgelegd van de in [artikel 25, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2018-01-01&g=2018-01-01), bedoelde verzekeraar, waaruit blijkt dat deze degene die het verzoek indient, machtigt op te treden als zijn fiscaal vertegenwoordiger.
+3. Bij het verzoek wordt een verklaring overgelegd van de in [artikel 25, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2020-01-01&g=2020-01-01), bedoelde verzekeraar, waaruit blijkt dat deze degene die het verzoek indient, machtigt op te treden als zijn fiscaal vertegenwoordiger.
 
 4. Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de voorwaarden waaronder de vergunning wordt verleend, gewijzigd en ingetrokken. Het verlenen, wijzigen en intrekken van de vergunning geschiedt bij voor bezwaar vatbare beschikking.
 
@@ -487,7 +495,7 @@ De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaa
 
 ##### Artikel 28
 
-In de gevallen bedoeld in [artikel 25, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2018-01-01&g=2018-01-01), wordt het risico van de verzekering geacht in Nederland te zijn gelegen, tenzij aan de hand van boeken of bescheiden het tegendeel wordt aangetoond.
+In de gevallen bedoeld in [artikel 25, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=III&afdeling=4&artikel=25&z=2020-01-01&g=2020-01-01), wordt het risico van de verzekering geacht in Nederland te zijn gelegen, tenzij aan de hand van boeken of bescheiden het tegendeel wordt aangetoond.
 
 ##### Artikel 29
 
@@ -615,7 +623,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ##### Artikel 54
 
-1. Indien de verkrijging, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2018-01-01&g=2018-01-01), niet is neergelegd in een notariële akte, is degene die de economische eigendom overdraagt, verplicht binnen twee weken na de verkrijging aan de inspecteur te melden dat de economische eigendom is overgedragen.
+1. Indien de verkrijging, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&hoofdstuk=II&afdeling=1&artikel=2&z=2020-01-01&g=2020-01-01), niet is neergelegd in een notariële akte, is degene die de economische eigendom overdraagt, verplicht binnen twee weken na de verkrijging aan de inspecteur te melden dat de economische eigendom is overgedragen.
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de melding moet worden gedaan.
 
