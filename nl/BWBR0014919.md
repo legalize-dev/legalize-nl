@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2019-06-20"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -74,21 +74,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. De algemeen voorzitter, de sectievoorzitter, de voorzitter van een beroepscommissie en de voorzitter van een rechtspraakkamer, ontvangen een vergoeding per vergadering van 130% van de hoogte van de vergoeding, bedoeld in het eerste lid.
 
 ##### Artikel 4
 
-1. De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens van een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
 
-3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2019-06-20&g=2019-06-20).
+3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 5
 
-De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad.
+De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad.
 
 ##### Artikel 6
 
@@ -100,11 +100,11 @@ De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van sal
 
 ##### Artikel 7
 
-De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+De leden en de plaatsvervangende leden van de Raad hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 8
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2019-06-20&g=2019-06-20), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2019-06-20&g=2019-06-20), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-01-01&g=2020-01-01), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2020-01-01&g=2020-01-01), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
 
 ##### Artikel 9
 
