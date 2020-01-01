@@ -4,7 +4,7 @@ identifier: "BWBR0038780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-20"
-last_updated: "2018-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038780"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Aanwijzing TMG-functies
 
-Benoeming als bedoeld in [artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=7), van een lid van de topmanagementgroep vindt plaats in een van de volgende functies:
+Als functies behorende tot de topmanagementgroep als bedoeld in [artikel 6, onderdeel b, van het Uitvoeringsbesluit Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0042692&artikel=6) worden aangewezen de functies van:
 
 - a. secretaris-generaal directeur-generaal inspecteur-generaal thesaurier-generaal directeur van het Centraal Planbureau directeur van het Sociaal en Cultureel Planbureau directeur Planbureau voor de Leefomgeving Nationaal Coördinator Terrorismebestrijding en Veiligheid ABDTOPconsultant
 
@@ -55,5 +55,11 @@ De regeling treedt in werking met ingang van 1 januari 2017.
 ##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing TMG-functies.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 6, onderdeel b, van het Uitvoeringsbesluit Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0042692&artikel=6).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
