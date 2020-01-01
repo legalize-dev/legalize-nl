@@ -4,7 +4,7 @@ identifier: "BWBR0042775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-21"
-last_updated: "2018-04-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042775"
 soort: "ministeriele-regeling"
@@ -196,13 +196,13 @@ Aan het hoofd van de afdeling Recherche Zorg wordt mandaat en machtiging verleen
 
 Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van de taken van de eigen afdeling.
 
-##### Artikel 10. Mandaat en machtiging betreffende personeelsaangelegenheden
+##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
-1. Aan de afdelingshoofden en de teamleiders van de directie wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
-- b. het houden van manager-medewerker gesprekken;
+- b. het houden van personeelsgesprekken;
 
 - c. het beslissen over verlof van medewerkers;
 
@@ -210,7 +210,7 @@ Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtigin
 
 - e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
 
-2. In aanvulling op het eerste lid wordt in het geval een teamleider de beoordeling van een medewerker opmaakt, aan het afdelingshoofd dat boven de teamleider ressorteert ook mandaat en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
+2. In aanvulling op het eerste lid wordt in het geval een teamleider de beoordeling van een medewerker opmaakt, aan het afdelingshoofd dat boven de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
 ##### Artikel 11. Volmachten afdelingshoofden
 
@@ -257,91 +257,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Verantwoordelijkheden teamleiders
-
-De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
-
-- a. de aansturing van uitvoerende of ondersteunende medewerkers;
-
-- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
-
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
-
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
-
-- 3°. het voeren van functionerings- en personeelsgesprekken;
-
-- c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
-
-- d. het gestructureerd voeren van werkoverleg;
-
-- e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
-
-- f. het rapporteren aan het afdelingshoofd en collega teamleiders met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
-
-- g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
-
-- h. het monitoren van de werkprocessen binnen het team;
-
-- i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
-
-- j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
-
-- 1°. start-, functionerings- en personeelsgesprekken;
-
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
-
-- k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
-
-- l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
-
-##### Artikel 5a. Verantwoordelijkheden en taken afdeling Recherche Arbeidsuitbuiting
-
-De afdeling Recherche Arbeidsuitbuiting is verantwoordelijk voor:
-
-- a. het voorbereiden en ondersteunen van opsporingsonderzoeken op het gebied van arbeidsuitbuiting;
-
-- b. het uitvoeren van opsporingsonderzoeken en het treffen van de benodigde maatregelen tijdens de onderzoeken van de eigen afdeling;
-
-- c. het op specialistisch gebied participeren in of ondersteunen van opsporingsonderzoeken van de directie, van bijzondere opsporingsdiensten of van de politie;
-
-- d. het deelnemen aan selectieoverleggen met het Openbaar Ministerie;
-
-- e. het rapporteren over de opsporingsonderzoeken van de eigen afdeling aan de directeur, het Openbaar Ministerie en aan de Minister van Sociale Zaken en Werkgelegenheid voor zover het de aan de directie toegedeelde strafrechtelijke handhaving betreft op beleidsterreinen waarvoor de Minister van Sociale Zaken en Werkgelegenheid verantwoordelijkheid draagt;
-
-- f. de informatie-uitwisseling met relevante partnerorganisaties;
-
-- g. verbinding met de programmatische aanpak van de gehele Nederlandse Arbeidsinspectie.
-
-##### Artikel 5b. Verantwoordelijkheden en taken afdeling Opsporingsinformatie
-
-De afdeling Opsporingsinformatie is verantwoordelijk voor:
-
-- a. het verzamelen, verdelen, analyseren en verstrekken van data en informatie primair ten behoeve van de rechercheteams van de afdeling Recherche W&I, de afdeling Recherche Zorgfraude en de afdeling Recherche Arbeidsuitbuiting;
-
-- b. het leveren van informatie- en intelligenceproducten aan de programma’s van de Nederlandse Arbeidsinspectie;
-
-- c. het leveren van input ten behoeve van de signalering, beleidsadvisering en prioritering in het Handhavingsarrangement dat door de directie samen met het Functioneel Parket van het Openbaar ministerie wordt vastgesteld;
-
-- d. het functioneren van het TCI.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 8a. Mandaat en machtiging hoofd afdeling Recherche Arbeidsuitbuiting
-
-Aan het hoofd van de afdeling Recherche Arbeidsuitbuiting wordt mandaat en machtiging verleend met betrekking tot:
-
-- a. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van opsporingsonderzoeken van de afdeling en de [Circulaire bijzondere opsporingsgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0036094);
-
-- b. het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op het selectieoverleg tussen de directie en het Openbaar Ministerie;
-
-- c. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van de taken van de eigen afdeling;
-
-- d. het verzamelen van politiegegevens overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
-
-##### Artikel 8b. Mandaat en machtiging hoofd afdeling Opsporingsinformatie
-
-Aan het hoofd van de afdeling Opsporingsinformatie wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van de taken van de eigen afdeling.
-
-#### § 5. Slotbepalingen
