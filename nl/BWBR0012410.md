@@ -4,7 +4,7 @@ identifier: "BWBR0012410"
 country: "nl"
 rank: "wet"
 publication_date: "2021-10-01"
-last_updated: "2018-08-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012410"
 soort: "wet"
@@ -60,7 +60,7 @@ In deze wet wordt verstaan onder:
 
 - e. de hulpverleners: hulpverleners als bedoeld in [artikel 446, eerste lid, van boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=446);
 
-- f. de commissie: een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01).
+- f. de commissie: een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01).
 
 ### Hoofdstuk II. Zorgvuldigheidseisen
 
@@ -100,7 +100,7 @@ In deze wet wordt verstaan onder:
 
 1. De voorzitter en de leden, alsmede de plaatsvervangende leden worden door Onze Ministers benoemd voor de tijd van zes jaar. Herbenoeming kan eenmaal plaatsvinden voor de tijd van zes jaar.
 
-2. Een commissie heeft een secretaris en één of meer plaatsvervangend secretarissen, allen rechtsgeleerden, die door Onze Ministers worden benoemd. De secretaris heeft in de vergaderingen van de commissie een raadgevende stem.
+2. Een commissie heeft een secretaris en één of meer plaatsvervangend secretarissen, allen rechtsgeleerden, die door Onze Ministers worden aangewezen. De secretaris heeft in de vergaderingen van de commissie een raadgevende stem. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van secretaris of plaatsvervangend secretaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
 3. De secretaris is voor zijn werkzaamheden voor de commissie uitsluitend verantwoording schuldig aan de commissie.
 
@@ -124,7 +124,7 @@ De voorzitter en de leden alsmede de plaatsvervangende leden ontvangen vacatiege
 
 ##### Artikel 8
 
-1. De commissie beoordeelt op basis van het verslag bedoeld in [artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7), of de arts die levensbeëindiging op verzoek heeft toegepast of hulp bij zelfdoding heeft verleend, heeft gehandeld overeenkomstig de zorgvuldigheidseisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01).
+1. De commissie beoordeelt op basis van het verslag bedoeld in [artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7), of de arts die levensbeëindiging op verzoek heeft toegepast of hulp bij zelfdoding heeft verleend, heeft gehandeld overeenkomstig de zorgvuldigheidseisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01).
 
 2. De commissie kan de arts verzoeken zijn verslag schriftelijk of mondeling aan te vullen, indien dit voor een goede beoordeling van het handelen van de arts noodzakelijk is.
 
@@ -132,11 +132,11 @@ De voorzitter en de leden alsmede de plaatsvervangende leden ontvangen vacatiege
 
 ##### Artikel 9
 
-1. De commissie brengt haar gemotiveerde oordeel binnen zes weken na ontvangst van het verslag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2018-08-01&g=2018-08-01), schriftelijk ter kennis van de arts.
+1. De commissie brengt haar gemotiveerde oordeel binnen zes weken na ontvangst van het verslag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), schriftelijk ter kennis van de arts.
 
 2. De commissie brengt haar oordeel ter kennis van het College van procureurs-generaal en de inspecteur van de Inspectie gezondheidszorg en jeugd:
 
-- a. indien de arts naar het oordeel van de commissie niet heeft gehandeld overeenkomstig de zorgvuldigheidseisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01); of
+- a. indien de arts naar het oordeel van de commissie niet heeft gehandeld overeenkomstig de zorgvuldigheidseisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01); of
 
 - b. indien de situatie zich voordoet als bedoeld in [artikel 12, laatste volzin van de Wet op de lijkbezorging.](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12) De commissie stelt de arts hiervan in kennis.
 
@@ -148,7 +148,7 @@ De voorzitter en de leden alsmede de plaatsvervangende leden ontvangen vacatiege
 
 De commissie is verplicht aan de officier van justitie desgevraagd alle inlichtingen te verstrekken, welke hij nodig heeft:
 
-- 1°. ten behoeve van de beoordeling van het handelen van de arts in het geval als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2018-08-01&g=2018-08-01); of
+- 1°. ten behoeve van de beoordeling van het handelen van de arts in het geval als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01); of
 
 - 2°. ten behoeve van een opsporingsonderzoek.
 
@@ -200,7 +200,7 @@ Een lid, een plaatsvervangend lid en de secretaris van de commissie onthouden zi
 
 ##### Artikel 18
 
-Onze Ministers brengen jaarlijks ter gelegenheid van het indienen van de begroting aan de Staten-Generaal verslag uit met betrekking tot het functioneren van de commissies naar aanleiding van het in het[artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=8&artikel=17&z=2018-08-01&g=2018-08-01), bedoelde verslag van werkzaamheden.
+Onze Ministers brengen jaarlijks ter gelegenheid van het indienen van de begroting aan de Staten-Generaal verslag uit met betrekking tot het functioneren van de commissies naar aanleiding van het in het[artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=8&artikel=17&z=2020-01-01&g=2020-01-01), bedoelde verslag van werkzaamheden.
 
 ##### Artikel 19
 
@@ -250,27 +250,27 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 1. Voor de toepassing van:
 
-- –. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2018-08-01&g=2018-08-01), wordt in plaats van «[artikel 294, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294)» gelezen: artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES.
+- –. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01), wordt in plaats van «[artikel 294, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294)» gelezen: artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES.
 
-- –. [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2018-08-01&g=2018-08-01), wordt in plaats van «een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01)» gelezen: een commissie als bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2018-08-01&g=2018-08-01).
+- –. [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01), wordt in plaats van «een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01)» gelezen: een commissie als bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2020-01-01&g=2020-01-01).
 
-- –. [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2018-08-01&g=2018-08-01), wordt in plaats van «[artikel 293, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)» gelezen: [artikel 306, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306).
+- –. [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2020-01-01&g=2020-01-01), wordt in plaats van «[artikel 293, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)» gelezen: [artikel 306, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306).
 
-- –. [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2018-08-01&g=2018-08-01), wordt in plaats van «[artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7)» gelezen: [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1).
+- –. [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), wordt in plaats van «[artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7)» gelezen: [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1).
 
-- –. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2018-08-01&g=2018-08-01), vervalt: of de betrokken hulpverleners.
+- –. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), vervalt: of de betrokken hulpverleners.
 
-- –. [artikel 9, tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2018-08-01&g=2018-08-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal.
+- –. [artikel 9, tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal.
 
-2. [Artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2018-08-01&g=2018-08-01), is niet van toepassing.
+2. [Artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01), is niet van toepassing.
 
 ##### Artikel 19c
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2018-08-01&g=2018-08-01), is er een door Onze Ministers aan te wijzen commissie, die bevoegd is de meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in artikel 306, tweede lid, onderscheidenlijk 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES te toetsen.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), is er een door Onze Ministers aan te wijzen commissie, die bevoegd is de meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in artikel 306, tweede lid, onderscheidenlijk 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES te toetsen.
 
 ##### Artikel 19d
 
-Bij het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=6&artikel=13&z=2018-08-01&g=2018-08-01), is de voorzitter van de commissie, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2018-08-01&g=2018-08-01), betrokken. Tevens zijn betrokken de procureur-generaal of een door hem aan te wijzen vertegenwoordiger en een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd.
+Bij het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=6&artikel=13&z=2020-01-01&g=2020-01-01), is de voorzitter van de commissie, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2020-01-01&g=2020-01-01), betrokken. Tevens zijn betrokken de procureur-generaal of een door hem aan te wijzen vertegenwoordiger en een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd.
 
 ### Hoofdstuk IV. Wijzigingen in andere wetten
 
