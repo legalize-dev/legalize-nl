@@ -4,7 +4,7 @@ identifier: "BWBR0042248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2019-05-29"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042248"
 soort: "ministeriele-regeling"
@@ -64,21 +64,21 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1. Aan de directeur van de stichting wordt mandaat verleend voor het werkgeverschap van het aan de Europese scholen gedetacheerd personeel.
 
-2. Dit werkgeverschap omvat in ieder geval het aanstellen en ontslaan van personeel, het voeren van Decentraal Georganiseerd Overleg over de rechtstoestand van het personeel en het nemen van overige besluiten alsmede het vaststellen van beleidsregels in het kader van de rechtspositie van het personeel, met inachtneming van de rol van de toezichthouders.
+2. Dit werkgeverschap omvat in ieder geval het aangaan en beëindigen van arbeidsovereenkomsten met het personeel, het voeren van Decentraal Georganiseerd Overleg over de rechtstoestand van het personeel en het nemen van overige besluiten alsmede het vaststellen van beleidsregels in het kader van de arbeidsvoorwaarden van het personeel, met inachtneming van de rol van de toezichthouders.
 
 3. De stichting biedt ondersteuning aan de minister bij eventuele procedures voortvloeiend uit het werkgeverschap op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-4. Ten aanzien van het aantal aan de Europese scholen aangestelde personeelsleden hanteert de stichting de volgende uitgangspunten:
+4. Ten aanzien van het aantal aan de Europese scholen in dienst genomen personeelsleden hanteert de stichting de volgende uitgangspunten:
 
-- a. ondergrens: aan de hand van het in de Raad van Bestuur voor Nederland vastgestelde **target level**, naar boven afgerond op een geheel getal, wordt bepaald hoeveel personeelsleden in ieder geval door de stichting worden aangesteld.
+- a. ondergrens: aan de hand van het in de Raad van Bestuur voor Nederland vastgestelde **target level**, naar boven afgerond op een geheel getal, wordt bepaald hoeveel personeelsleden in ieder geval door de stichting in dienst worden genomen.
 
-- b. bovengrens: het aantal aangestelde personeelsleden ligt maximaal 10 procent hoger dan het **target level**, naar boven afgerond op een geheel getal.
+- b. bovengrens: het aantal in dienst genomen personeelsleden ligt maximaal 10 procent hoger dan het **target level**, naar boven afgerond op een geheel getal.
 
 - c. hiervan mag worden afgeweken wanneer aan deze bovengrens nog niet voldaan kan worden wegens het natuurlijk verloop van personeelsleden.
 
 - d. wanneer de stichting af wil wijken van bovenstaande uitgangspunten treedt zij in overleg met de minister.
 
-- e. de aanname van een directeur of adjunct-directeur voor een van de Europese scholen wordt in ieder geval afgestemd met de minister.
+- e. het in dienst nemen van een directeur of adjunct-directeur voor een van de Europese scholen wordt in ieder geval afgestemd met de minister.
 
 ##### Artikel 4. Europese School Bergen
 
@@ -86,11 +86,11 @@ Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de
 
 ##### Artikel 5. Bedrag en wijze van bevoorschotting
 
-1. De hoogte van het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2019-05-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) wordt voorafgaand aan het boekjaar aan de hand van de door de stichting ingediende begroting vastgesteld.
+1. De hoogte van het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) wordt voorafgaand aan het boekjaar aan de hand van de door de stichting ingediende begroting vastgesteld.
 
-2. Het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2019-05-29&g=2019-05-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) wordt in gelijke maandelijkse termijnen betaald.
+2. Het voorschot voor de activiteiten bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) wordt in gelijke maandelijkse termijnen betaald.
 
-3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2019-05-29&g=2019-05-29) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
+3. Voor de activiteiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=4&z=2020-01-01&g=2020-01-01) is voor de jaren 2019 tot en met 2023 een totaalbedrag beschikbaar van maximaal € 1.500.000,–.
 
 4. De berekening van de vergoeding van de kosten voor het jaar 2024 en volgende wordt aan het einde van de periode, bedoeld in het derde lid, nader bepaald.
 
@@ -104,7 +104,7 @@ Aan de directeur van de stichting wordt mandaat verleend voor het beheren van de
 
 ##### Artikel 7. Controleverklaring
 
-Het overzicht van de daadwerkelijke kosten bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=6&z=2019-05-29&g=2019-05-29), is voorzien van een controleverklaring opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van het door de minister vastgestelde accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
+Het overzicht van de daadwerkelijke kosten bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042248&artikel=6&z=2020-01-01&g=2020-01-01), is voorzien van een controleverklaring opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van het door de minister vastgestelde accountantsprotocol, bekend gemaakt op de website www.rijksoverheid.nl.
 
 ##### Artikel 8. Eindafrekening
 
