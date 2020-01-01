@@ -4,7 +4,7 @@ identifier: "BWBR0007956"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007956"
 soort: "AMvB"
@@ -206,11 +206,11 @@ De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tew
 
 ##### Artikel 15a. Mandaatverlening
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&z=2019-01-01&g=2019-01-01) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&z=2020-01-01&g=2020-01-01) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 16. Hardheidsclausule
 
-Onze Minister van Defensie kan de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=12&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=13&z=2019-01-01&g=2019-01-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=3&artikel=15&z=2019-01-01&g=2019-01-01) buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de vergoeding van verblijfkosten voor de dienstreiziger zal leiden tot een onbillijkheid van overwegende aard.
+Onze Minister van Defensie kan de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=12&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=13&z=2020-01-01&g=2020-01-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=3&artikel=15&z=2020-01-01&g=2020-01-01) buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de vergoeding van verblijfkosten voor de dienstreiziger zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 17. Algemene overgangsbepaling
 
@@ -218,7 +218,7 @@ Vervallen
 
 ##### Artikel 18. Afbouwregelingen
 
-1. Degene, bedoeld in [artikel 1, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01), ten 1°, die in de periode van 12 maanden voorafgaande aan de inwerkingtreding van dit besluit als militair in de zin van het Besluit dienstreizen militairen op ten minste 40 dagen tegen vergoeding dienstreizen binnen Nederland heeft gemaakt, heeft aanspraak op de bij ministeriële regeling vast te stellen tegemoetkoming.
+1. Degene, bedoeld in [artikel 1, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), ten 1°, die in de periode van 12 maanden voorafgaande aan de inwerkingtreding van dit besluit als militair in de zin van het Besluit dienstreizen militairen op ten minste 40 dagen tegen vergoeding dienstreizen binnen Nederland heeft gemaakt, heeft aanspraak op de bij ministeriële regeling vast te stellen tegemoetkoming.
 
 2. Degene die aanspraak had op de tegemoetkoming, bedoeld in artikel 17 van het Reisbesluit binnenland burgerlijke ambtenaren defensie, behoudt deze aanspraak onder dezelfde voorwaarden als neergelegd in genoemd artikel.
 
@@ -261,5 +261,11 @@ Dit besluit treedt in werking op 1 mei 1996.
 ##### Artikel 27. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit dienstreizen defensie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** wordt geplaatst.
+
+##### Artikel 25a
+
+Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** wordt geplaatst.
