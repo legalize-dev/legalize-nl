@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 1. Als administratieplichtigen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-2. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen de gegevens en inlichtingen, bedoeld in [artikel 22, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22). Artikel 22, derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.
+2. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen de gegevens en inlichtingen, bedoeld in [artikel 22, tweede en derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22). Artikel 22, vierde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.
 
 3. De administratieplichtigen, bedoeld in het eerste lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2018-01-01&g=2018-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2018-01-01&g=2018-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2020-01-01&g=2020-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2020-01-01&g=2020-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
 - a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
 
@@ -181,5 +181,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 2b
 
 Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3b
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
