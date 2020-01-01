@@ -4,7 +4,7 @@ identifier: "BWBV0001716"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-09-02"
-last_updated: "2019-03-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001716"
 soort: "verdrag"
@@ -163,7 +163,7 @@ De Organisatie heeft tot taak:
 
 3. Hij stelt het huishoudelijke en het financiële reglement van het Bureau vast.
 
-4. Hij wijst aanvullende taken, als bedoeld in [artikel 1.3 onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2019-03-01&g=2019-03-01), op andere gebieden van het recht inzake de intellectuele eigendom aan.
+4. Hij wijst aanvullende taken, als bedoeld in [artikel 1.3 onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2020-01-01&g=2020-01-01), op andere gebieden van het recht inzake de intellectuele eigendom aan.
 
 5. Hij besluit over het vestigen van bijkantoren van het Bureau.
 
@@ -215,7 +215,7 @@ Het gezag van rechterlijke beslissingen die in een van de drie staten met toepas
 
 ##### Artikel 1.15. Benelux-Gerechtshof
 
-Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2019-03-01&g=2019-03-01), bedoelde protocol inzake voorrechten en immuniteiten.
+Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2020-01-01&g=2020-01-01), bedoelde protocol inzake voorrechten en immuniteiten.
 
 ##### Artikel 1.16. Toepassing
 
@@ -257,7 +257,7 @@ Vervallen
 
 4. Wanneer de aanvraag geschiedt bij een nationale dienst zendt deze de aanvraag door aan het Bureau, hetzij onverwijld na ontvangst van de aanvraag, hetzij nadat is vastgesteld dat de aanvraag voldoet aan de gestelde eisen.
 
-5. Het Bureau publiceert, overeenkomstig de bepalingen van het uitvoeringsreglement, de aanvraag nadat aan de vereisten voor het vaststellen van een depotdatum is voldaan en de opgegeven waren of diensten conform [artikel 2.5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2019-03-01&g=2019-03-01) zijn ingedeeld.
+5. Het Bureau publiceert, overeenkomstig de bepalingen van het uitvoeringsreglement, de aanvraag nadat aan de vereisten voor het vaststellen van een depotdatum is voldaan en de opgegeven waren of diensten conform [artikel 2.5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2020-01-01&g=2020-01-01) zijn ingedeeld.
 
 ##### Artikel 2.6. Beroep op voorrang
 
@@ -277,9 +277,9 @@ Vervallen
 
 ##### Artikel 2.8. Inschrijving
 
-1. Onverminderd de toepassing van de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2019-03-01&g=2019-03-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) wordt het aangevraagde merk, indien aan de in het uitvoeringsreglement gestelde vereisten is voldaan, voor de door de aanvrager vermelde waren of diensten ingeschreven. Het Bureau bevestigt de inschrijving aan de merkhouder.
+1. Onverminderd de toepassing van de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2020-01-01&g=2020-01-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) wordt het aangevraagde merk, indien aan de in het uitvoeringsreglement gestelde vereisten is voldaan, voor de door de aanvrager vermelde waren of diensten ingeschreven. Het Bureau bevestigt de inschrijving aan de merkhouder.
 
-2. De aanvrager kan, indien aan alle in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01) bedoelde vereisten is voldaan, het Bureau verzoeken, overeenkomstig de bepalingen van het uitvoeringsreglement, om onverwijld tot inschrijving van de aanvraag over te gaan. Op de aldus ingeschreven merken zijn de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2019-03-01&g=2019-03-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) van toepassing, met dien verstande dat het Bureau bevoegd is tot de doorhaling van de inschrijving te besluiten.
+2. De aanvrager kan, indien aan alle in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01) bedoelde vereisten is voldaan, het Bureau verzoeken, overeenkomstig de bepalingen van het uitvoeringsreglement, om onverwijld tot inschrijving van de aanvraag over te gaan. Op de aldus ingeschreven merken zijn de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2020-01-01&g=2020-01-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) van toepassing, met dien verstande dat het Bureau bevoegd is tot de doorhaling van de inschrijving te besluiten.
 
 ##### Artikel 2.9. Geldigheidsduur en vernieuwing
 
@@ -301,21 +301,21 @@ Vervallen
 
 1. De internationale aanvragen van merken geschieden volgens de bepalingen van de [Overeenkomst van Madrid](onbekend) en het Protocol van Madrid. De nationale taksen, bedoeld in [artikel 8, onder (1), van de Overeenkomst van Madrid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=8) en het [Protocol van Madrid](onbekend), alsmede de taksen bedoeld in [artikel 8, onder 7 (a), van het Protocol van Madrid](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=8), worden bij uitvoeringsreglement bepaald.
 
-2. Onverminderd de toepassing van de [artikelen 2.5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2019-03-01&g=2019-03-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2019-03-01&g=2019-03-01) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2019-03-01&g=2019-03-01) schrijft het Bureau de internationale aanvragen in ten aanzien waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied.
+2. Onverminderd de toepassing van de [artikelen 2.5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2020-01-01&g=2020-01-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2020-01-01&g=2020-01-01) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2020-01-01&g=2020-01-01) schrijft het Bureau de internationale aanvragen in ten aanzien waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied.
 
-3. De aanvrager kan het Bureau verzoeken, overeenkomstig de bepalingen van het uitvoeringsreglement, om onverwijld tot inschrijving over te gaan. Op de aldus ingeschreven merken is [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01), van overeenkomstige toepassing.
+3. De aanvrager kan het Bureau verzoeken, overeenkomstig de bepalingen van het uitvoeringsreglement, om onverwijld tot inschrijving over te gaan. Op de aldus ingeschreven merken is [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01), van overeenkomstige toepassing.
 
 ### HOOFDSTUK 3. TOETSING OP ABSOLUTE GRONDEN
 
 ##### Artikel 2.11. Weigering op absolute gronden
 
-1. Het Bureau weigert een merk in te schrijven indien naar zijn oordeel een van de in [artikel 2.2bis, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01), bedoelde absolute gronden van toepassing is.
+1. Het Bureau weigert een merk in te schrijven indien naar zijn oordeel een van de in [artikel 2.2bis, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01), bedoelde absolute gronden van toepassing is.
 
 2. De weigering om tot inschrijving over te gaan moet het teken dat een merk vormt in zijn geheel betreffen.
 
 3. Het Bureau geeft van zijn voornemen de inschrijving geheel of gedeeltelijk te weigeren, onder opgave van redenen, onverwijld schriftelijk kennis aan de aanvrager en stelt hem in de gelegenheid hierop binnen een bij uitvoeringsreglement gestelde termijn te antwoorden.
 
-4. Indien de bezwaren van het Bureau tegen de inschrijving niet binnen de gestelde termijn zijn opgeheven, wordt de inschrijving van het merk geheel of gedeeltelijk geweigerd. Van de weigering geeft het Bureau onder opgave van redenen onverwijld schriftelijk kennis aan de aanvrager, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2019-03-01&g=2019-03-01) genoemde rechtsmiddel tegen die beslissing.
+4. Indien de bezwaren van het Bureau tegen de inschrijving niet binnen de gestelde termijn zijn opgeheven, wordt de inschrijving van het merk geheel of gedeeltelijk geweigerd. Van de weigering geeft het Bureau onder opgave van redenen onverwijld schriftelijk kennis aan de aanvrager, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2020-01-01&g=2020-01-01) genoemde rechtsmiddel tegen die beslissing.
 
 5. De weigering wordt eerst definitief nadat de beslissing niet meer vatbaar is voor enig rechtsmiddel.
 
@@ -325,23 +325,23 @@ Vervallen
 
 ##### Artikel 2.13. Weigering op absolute gronden van internationale aanvragen
 
-1. [Artikel 2.11, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2019-03-01&g=2019-03-01), is van overeenkomstige toepassing op internationale aanvragen.
+1. [Artikel 2.11, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing op internationale aanvragen.
 
-2. Het Bureau geeft van zijn voornemen de inschrijving te weigeren, onder opgave van redenen, zo spoedig mogelijk schriftelijk kennis aan het Internationaal Bureau door middel van een voorlopige gehele of gedeeltelijke weigering van bescherming van het merk en stelt de aanvrager daarbij in de gelegenheid hierop te antwoorden overeenkomstig het bepaalde bij uitvoeringsreglement. [Artikel 2.11, lid 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2019-03-01&g=2019-03-01), is van overeenkomstige toepassing.
+2. Het Bureau geeft van zijn voornemen de inschrijving te weigeren, onder opgave van redenen, zo spoedig mogelijk schriftelijk kennis aan het Internationaal Bureau door middel van een voorlopige gehele of gedeeltelijke weigering van bescherming van het merk en stelt de aanvrager daarbij in de gelegenheid hierop te antwoorden overeenkomstig het bepaalde bij uitvoeringsreglement. [Artikel 2.11, lid 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.11&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 ### HOOFDSTUK 4. OPPOSITIE
 
 ##### Artikel 2.14. Instellen van de procedure
 
-1. Binnen een termijn van twee maanden, te rekenen vanaf de publicatie van de aanvraag, kan op basis van de in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01) bedoelde relatieve gronden schriftelijk oppositie worden ingesteld bij het Bureau.
+1. Binnen een termijn van twee maanden, te rekenen vanaf de publicatie van de aanvraag, kan op basis van de in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01) bedoelde relatieve gronden schriftelijk oppositie worden ingesteld bij het Bureau.
 
 2. Oppositie kan worden ingesteld:
 
-- a. in de in [artikel 2.2ter, lid 1 en lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde gevallen door de houders van oudere merken en de door deze houders gemachtigde licentiehouders;
+- a. in de in [artikel 2.2ter, lid 1 en lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde gevallen door de houders van oudere merken en de door deze houders gemachtigde licentiehouders;
 
-- b. in het in [artikel 2.2ter, lid 3, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde geval door de daar bedoelde houders van merken. In dit geval kan tevens de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2019-03-01&g=2019-03-01), bedoelde overdracht worden gevorderd;
+- b. in het in [artikel 2.2ter, lid 3, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde geval door de daar bedoelde houders van merken. In dit geval kan tevens de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2020-01-01&g=2020-01-01), bedoelde overdracht worden gevorderd;
 
-- c. in het in [artikel 2.2ter, lid 3, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde geval door degenen die krachtens het toepasselijke recht de in deze bepaling bedoelde rechten mogen uitoefenen.
+- c. in het in [artikel 2.2ter, lid 3, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde geval door degenen die krachtens het toepasselijke recht de in deze bepaling bedoelde rechten mogen uitoefenen.
 
 3. Een oppositie kan worden ingediend op grond van een of meer oudere rechten en op basis van een deel of het geheel van de waren of diensten waarvoor het oudere recht is beschermd of aangevraagd, en kan worden gericht tegen een deel of het geheel van de waren of diensten waarvoor het betwiste merk wordt aangevraagd.
 
@@ -357,21 +357,21 @@ Vervallen
 
 2. De oppositieprocedure wordt opgeschort:
 
-- a. indien de oppositie berust op [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), wanneer het oudere merk:
+- a. indien de oppositie berust op [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), wanneer het oudere merk:
 
 - i. nog niet is ingeschreven;
 
-- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01), en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
+- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01), en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
 
 - iii. het voorwerp is van een vordering tot nietigverklaring of vervallenverklaring;
 
-- b. indien de oppositie berust op [artikel 2.14, lid 2, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), wanneer ze is gebaseerd op een aanvraag voor een oorsprongsbenaming of een geografische aanduiding, totdat daarover een definitieve beslissing is genomen;
+- b. indien de oppositie berust op [artikel 2.14, lid 2, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), wanneer ze is gebaseerd op een aanvraag voor een oorsprongsbenaming of een geografische aanduiding, totdat daarover een definitieve beslissing is genomen;
 
 - c. wanneer het betwiste merk:
 
 - i. het voorwerp is van een weigeringsprocedure op absolute gronden;
 
-- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01), en het voorwerp is van een gerechtelijke vordering tot nietigverklaring of vervallenverklaring;
+- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01), en het voorwerp is van een gerechtelijke vordering tot nietigverklaring of vervallenverklaring;
 
 - d. op gezamenlijk verzoek van partijen;
 
@@ -387,11 +387,11 @@ Vervallen
 
 - d. wanneer het oudere merk of het oudere recht niet meer geldig is;
 
-- e. indien de oppositie berust op [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), en de opposant binnen de gestelde termijn geen bewijsstukken van gebruik van zijn oudere merk als bedoeld in [artikel 2.16bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2019-03-01&g=2019-03-01) heeft overgelegd.
+- e. indien de oppositie berust op [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), en de opposant binnen de gestelde termijn geen bewijsstukken van gebruik van zijn oudere merk als bedoeld in [artikel 2.16bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2020-01-01&g=2020-01-01) heeft overgelegd.
 
 In deze gevallen wordt een deel van de betaalde taksen gerestitueerd.
 
-4. Nadat het onderzoek van de oppositie is beëindigd, neemt het Bureau zo spoedig mogelijk een beslissing. Indien de oppositie gegrond bevonden wordt, weigert het Bureau het merk geheel of gedeeltelijk in te schrijven of besluit het de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2019-03-01&g=2019-03-01), bedoelde overdracht in het register aan te tekenen. In het tegengestelde geval wordt de oppositie afgewezen. Van de beslissing geeft het Bureau onverwijld schriftelijk kennis aan de partijen, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2019-03-01&g=2019-03-01) genoemde rechtsmiddel tegen die beslissing. De beslissing van het Bureau wordt eerst definitief nadat ze niet meer vatbaar is voor enig rechtsmiddel. Het Bureau is geen partij bij een beroep tegen zijn beslissing.
+4. Nadat het onderzoek van de oppositie is beëindigd, neemt het Bureau zo spoedig mogelijk een beslissing. Indien de oppositie gegrond bevonden wordt, weigert het Bureau het merk geheel of gedeeltelijk in te schrijven of besluit het de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2020-01-01&g=2020-01-01), bedoelde overdracht in het register aan te tekenen. In het tegengestelde geval wordt de oppositie afgewezen. Van de beslissing geeft het Bureau onverwijld schriftelijk kennis aan de partijen, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2020-01-01&g=2020-01-01) genoemde rechtsmiddel tegen die beslissing. De beslissing van het Bureau wordt eerst definitief nadat ze niet meer vatbaar is voor enig rechtsmiddel. Het Bureau is geen partij bij een beroep tegen zijn beslissing.
 
 5. De in het ongelijk gestelde partij wordt in de kosten verwezen. Deze worden vastgesteld conform het bepaalde in het uitvoeringsreglement. De kosten zijn niet verschuldigd indien de oppositie gedeeltelijk toegewezen wordt. De beslissing van het Bureau tot vaststelling van de kosten vormt executoriale titel; de gedwongen tenuitvoerlegging geschiedt volgens de bepalingen die van kracht zijn in de staat van executie.
 
@@ -409,15 +409,15 @@ Vervallen
 
 ##### Artikel 2.19. Registratieplicht
 
-1. Behoudens de houder van een algemeen bekend merk in de zin van [artikel 6**bis** van het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=6bis) kan niemand, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk wordt beschouwd in de zin van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2019-03-01&g=2019-03-01), tenzij hij zich kan beroepen op een inschrijving van het door hem aangevraagde merk.
+1. Behoudens de houder van een algemeen bekend merk in de zin van [artikel 6**bis** van het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=6bis) kan niemand, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk wordt beschouwd in de zin van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2020-01-01&g=2020-01-01), tenzij hij zich kan beroepen op een inschrijving van het door hem aangevraagde merk.
 
 2. In voorkomend geval wordt de niet-ontvankelijkheid ambtshalve door de rechter uitgesproken.
 
-3. De bepalingen van deze titel laten onverlet het recht van gebruikers van een teken, dat niet als merk wordt beschouwd in de zin van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2019-03-01&g=2019-03-01), om de bepalingen van het gemene recht in te roepen voor zover dit toestaat zich te verzetten tegen onrechtmatig gebruik van dit teken.
+3. De bepalingen van deze titel laten onverlet het recht van gebruikers van een teken, dat niet als merk wordt beschouwd in de zin van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2020-01-01&g=2020-01-01), om de bepalingen van het gemene recht in te roepen voor zover dit toestaat zich te verzetten tegen onrechtmatig gebruik van dit teken.
 
 ##### Artikel 2.20. Rechten verbonden aan het merk
 
-1. De in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2&z=2019-03-01&g=2019-03-01) bedoelde inschrijving van een merk geeft de houder daar een uitsluitend recht op.
+1. De in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2&z=2020-01-01&g=2020-01-01) bedoelde inschrijving van een merk geeft de houder daar een uitsluitend recht op.
 
 2. Onverminderd de rechten van houders die vóór de datum van indiening of de datum van voorrang van het ingeschreven merk zijn verkregen en onverminderd de eventuele toepassing van het gemene recht betreffende de aansprakelijkheid uit onrechtmatige daad is de houder van een ingeschreven merk gerechtigd, iedere derde die niet zijn toestemming hiertoe heeft verkregen, te verhinderen gebruik te maken van een teken wanneer dit teken:
 
@@ -457,7 +457,7 @@ Het recht van de houder van het merk op grond van de eerste alinea vervalt indie
 
 ##### Artikel 2.21. Schadevergoeding en andere vorderingen
 
-1. Onder dezelfde voorwaarden als in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2019-03-01&g=2019-03-01), kan de merkhouder op grond van zijn uitsluitend recht schadevergoeding eisen voor elke schade, die hij door het in die bepaling bedoelde gebruik lijdt.
+1. Onder dezelfde voorwaarden als in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2020-01-01&g=2020-01-01), kan de merkhouder op grond van zijn uitsluitend recht schadevergoeding eisen voor elke schade, die hij door het in die bepaling bedoelde gebruik lijdt.
 
 2. De rechter die de schadevergoeding vaststelt:
 
@@ -467,11 +467,11 @@ Het recht van de houder van het merk op grond van de eerste alinea vervalt indie
 
 3. De rechter kan bij wijze van schadevergoeding op vordering van de merkhouder bevelen tot de afgifte aan de merkhouder, van de goederen die een inbreuk maken op een merkrecht, alsmede, in passende gevallen, van de materialen en werktuigen die voornamelijk bij de productie van die goederen zijn gebruikt. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen, door de eiser te betalen vergoeding.
 
-4. Naast of in plaats van een vordering tot schadevergoeding, kan de merkhouder een vordering instellen tot het afdragen van ten gevolge van het in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2019-03-01&g=2019-03-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
+4. Naast of in plaats van een vordering tot schadevergoeding, kan de merkhouder een vordering instellen tot het afdragen van ten gevolge van het in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2020-01-01&g=2020-01-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
 
-5. De merkhouder kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 2.32, lid 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32&z=2019-03-01&g=2019-03-01), toegekende bevoegdheid.
+5. De merkhouder kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 2.32, lid 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32&z=2020-01-01&g=2020-01-01), toegekende bevoegdheid.
 
-6. De merkhouder kan een redelijke vergoeding vorderen van hem, die in het tijdvak gelegen tussen de datum van publicatie van de aanvraag en de datum van inschrijving van het merk, handelingen heeft verricht als vermeld in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2019-03-01&g=2019-03-01), voor zover de merkhouder daarvoor uitsluitende rechten heeft verkregen.
+6. De merkhouder kan een redelijke vergoeding vorderen van hem, die in het tijdvak gelegen tussen de datum van publicatie van de aanvraag en de datum van inschrijving van het merk, handelingen heeft verricht als vermeld in [artikel 2.20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2020-01-01&g=2020-01-01), voor zover de merkhouder daarvoor uitsluitende rechten heeft verkregen.
 
 ##### Artikel 2.22. Nevenvorderingen
 
@@ -545,21 +545,21 @@ Het recht op het merk vervalt:
 
 - b. als gevolg van het gebruik dat ervan wordt gemaakt door de merkhouder, of met instemming van de merkhouder, voor de waren of diensten waarvoor het is ingeschreven, het publiek kan misleiden, met name wat betreft de aard, de hoedanigheid of de plaats van herkomst van deze waren of diensten.
 
-2. Een merk kan tevens vervallen worden verklaard wanneer er geen normaal gebruik van is gemaakt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01).
+2. Een merk kan tevens vervallen worden verklaard wanneer er geen normaal gebruik van is gemaakt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01).
 
-3. Het verval van een merkrecht op grond van lid 2, kan niet meer worden ingeroepen, wanneer het merk in de periode tussen het verstrijken van de in [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) bedoelde periode van vijf jaren en de instelling van de vordering tot vervallenverklaring voor het eerst of opnieuw normaal is gebruikt.
+3. Het verval van een merkrecht op grond van lid 2, kan niet meer worden ingeroepen, wanneer het merk in de periode tussen het verstrijken van de in [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) bedoelde periode van vijf jaren en de instelling van de vordering tot vervallenverklaring voor het eerst of opnieuw normaal is gebruikt.
 
 Begin van gebruik of hernieuwd gebruik binnen drie maanden voorafgaand aan de instelling van de vordering tot vervallenverklaring wordt echter niet in aanmerking genomen, indien de voorbereiding van het begin van gebruik of van hernieuwd gebruik pas wordt getroffen nadat de merkhouder er kennis van heeft genomen dat een vordering tot vervallenverklaring zou kunnen worden ingesteld.
 
-4. De houder van het merkrecht ten aanzien waarvan het verval ingevolge lid 3 niet meer kan worden ingeroepen, kan zich niet ingevolge [2.20, lid 1, sub a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2019-03-01&g=2019-03-01), verzetten tegen gebruik van een merk waarvan de aanvraag is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van lid 2.
+4. De houder van het merkrecht ten aanzien waarvan het verval ingevolge lid 3 niet meer kan worden ingeroepen, kan zich niet ingevolge [2.20, lid 1, sub a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20&z=2020-01-01&g=2020-01-01), verzetten tegen gebruik van een merk waarvan de aanvraag is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van lid 2.
 
-5. De houder van het merkrecht ten aanzien waarvan het verval ingevolge lid 3 niet meer kan worden ingeroepen, kan niet overeenkomstig het in [artikel 2.28, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6bis&artikel=2.28&z=2019-03-01&g=2019-03-01), bepaalde de nietigheid inroepen van de inschrijving van een merk, waarvan de aanvraag is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van lid 2.
+5. De houder van het merkrecht ten aanzien waarvan het verval ingevolge lid 3 niet meer kan worden ingeroepen, kan niet overeenkomstig het in [artikel 2.28, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6bis&artikel=2.28&z=2020-01-01&g=2020-01-01), bepaalde de nietigheid inroepen van de inschrijving van een merk, waarvan de aanvraag is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van lid 2.
 
 ##### Artikel 2.28. Inroepen van nietigheid of verval bij de rechter
 
 1. De nietigheid op absolute gronden kan worden ingeroepen door iedere belanghebbende, met inbegrip van het Openbaar Ministerie.
 
-2. De nietigheid op relatieve gronden kan worden ingeroepen door iedere belanghebbende, wanneer de houder van het oudere merk als bedoeld in [artikel 2.2ter, lid 1 en 3, sub a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), of degene die krachtens het toepasselijke recht de in artikel 2.2ter, lid 3, sub c, bedoelde rechten mag uitoefenen aan het geding deelneemt.
+2. De nietigheid op relatieve gronden kan worden ingeroepen door iedere belanghebbende, wanneer de houder van het oudere merk als bedoeld in [artikel 2.2ter, lid 1 en 3, sub a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), of degene die krachtens het toepasselijke recht de in artikel 2.2ter, lid 3, sub c, bedoelde rechten mag uitoefenen aan het geding deelneemt.
 
 3. Wordt het geding tot nietigverklaring overeenkomstig lid 1 door het Openbaar Ministerie aanhangig gemaakt, dan zijn alleen de rechter te Brussel, ’s-Gravenhage en te Luxemburg bevoegd.
 
@@ -609,15 +609,15 @@ Vervallen
 
 4. Onverminderd het bepaalde in de licentieovereenkomst kan de licentiehouder een vordering wegens inbreuk op een merk alleen instellen met toestemming van de houder van dat merk. De houder van een exclusieve licentie kan deze vordering echter instellen indien de merkhouder, na daartoe te zijn aangemaand, niet zelf binnen een redelijke termijn een vordering wegens inbreuk instelt.
 
-5. De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in [artikel 2.21, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.21&z=2019-03-01&g=2019-03-01), tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen.
+5. De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in [artikel 2.21, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.21&z=2020-01-01&g=2020-01-01), tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen.
 
 6. Een zelfstandige vordering als bedoeld in het vorige lid kan de licentiehouder slechts instellen, indien hij de bevoegdheid daartoe van de merkhouder heeft bedongen.
 
-7. De licentiehouder heeft het recht de in [artikel 2.22, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.22&z=2019-03-01&g=2019-03-01), bedoelde bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de merkhouder heeft verkregen.
+7. De licentiehouder heeft het recht de in [artikel 2.22, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.22&z=2020-01-01&g=2020-01-01), bedoelde bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de merkhouder heeft verkregen.
 
 ##### Artikel 2.33. Derdenwerking
 
-De overdracht of andere overgang of de licentie kan niet aan derden worden tegengeworpen dan na inschrijving van het depot van een uittreksel der akte, waaruit van die overgang of die licentie blijkt, of van een daarop betrekking hebbende, door de betrokken partijen ondertekende verklaring, mits dit depot is verricht met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde taksen. Het in de vorige volzin bepaalde is van overeenkomstige toepassing op de in [artikel 2.32bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32bis&z=2019-03-01&g=2019-03-01) bedoelde zakelijke rechten en gedwongen tenuitvoerlegging.
+De overdracht of andere overgang of de licentie kan niet aan derden worden tegengeworpen dan na inschrijving van het depot van een uittreksel der akte, waaruit van die overgang of die licentie blijkt, of van een daarop betrekking hebbende, door de betrokken partijen ondertekende verklaring, mits dit depot is verricht met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde taksen. Het in de vorige volzin bepaalde is van overeenkomstige toepassing op de in [artikel 2.32bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32bis&z=2020-01-01&g=2020-01-01) bedoelde zakelijke rechten en gedwongen tenuitvoerlegging.
 
 ### Hoofdstuk 6. Beëindiging van het recht
 
@@ -725,7 +725,7 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 - b. de uiterlijke kenmerken van een voortbrengsel die noodzakelijkerwijs in precies dezelfde vorm en afmetingen gereproduceerd moeten worden om het voortbrengsel waarin de tekening of het model verwerkt is of waarop het toegepast is, mechanisch met een ander voortbrengsel te kunnen verbinden of om het in, rond of tegen een ander voortbrengsel te kunnen plaatsen, zodat elk van beide voortbrengselen zijn functie kan vervullen.
 
-2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2019-03-01&g=2019-03-01), gestelde voorwaarden.
+2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2020-01-01&g=2020-01-01), gestelde voorwaarden.
 
 ##### Artikel 3.3. Nieuwheid en eigen karakter
 
@@ -759,11 +759,11 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 1. Onverminderd het recht van voorrang wordt het uitsluitend recht op een tekening of model verkregen door de inschrijving van het depot, verricht binnen het Benelux-gebied bij het Bureau (Benelux-depot), of verricht bij het Internationaal Bureau (internationaal depot).
 
-2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2019-03-01&g=2019-03-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
+2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2020-01-01&g=2020-01-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
 
 ##### Artikel 3.6. Restricties
 
-Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2019-03-01&g=2019-03-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2019-03-01&g=2019-03-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
+Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2020-01-01&g=2020-01-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2020-01-01&g=2020-01-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
 
 - a. de tekening of het model in strijd is met een oudere tekening die of ouder model dat na de datum van depot of na de datum van voorrang voor het publiek beschikbaar is gesteld en vanaf een aan deze datum voorafgaand tijdstip beschermd wordt door een uitsluitend recht dat voortvloeit uit een Gemeenschapsmodel, de inschrijving van een Benelux-depot dan wel door een internationaal depot;
 
@@ -779,9 +779,9 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 ##### Artikel 3.7. Opeising van een depot
 
-1. Binnen een termijn van vijf jaren, te rekenen vanaf de datum van publicatie van de inschrijving van het depot, kan de ontwerper van de tekening of het model, dan wel degene die volgens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2019-03-01&g=2019-03-01) als ontwerper wordt beschouwd, het recht op het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten opeisen, indien het depot zonder zijn toestemming door een derde is verricht; om dezelfde redenen kan hij te allen tijde de nietigheid inroepen van de inschrijving van dat depot of van die rechten. De vordering tot opeising moet bij het Bureau worden ingeschreven op verzoek van de eiser, met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde taksen.
+1. Binnen een termijn van vijf jaren, te rekenen vanaf de datum van publicatie van de inschrijving van het depot, kan de ontwerper van de tekening of het model, dan wel degene die volgens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2020-01-01&g=2020-01-01) als ontwerper wordt beschouwd, het recht op het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten opeisen, indien het depot zonder zijn toestemming door een derde is verricht; om dezelfde redenen kan hij te allen tijde de nietigheid inroepen van de inschrijving van dat depot of van die rechten. De vordering tot opeising moet bij het Bureau worden ingeschreven op verzoek van de eiser, met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde taksen.
 
-2. Indien de in lid 1 bedoelde deposant gehele of gedeeltelijke doorhaling heeft verzocht van de inschrijving van het Benelux-depot of afstand heeft gedaan van de rechten, die voor het Benelux-gebied uit het internationaal depot voortvloeien, heeft deze doorhaling of afstand geen werking ten aanzien van de ontwerper of van degene die volgens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2019-03-01&g=2019-03-01) als ontwerper wordt beschouwd onder voorbehoud van lid 3, mits het depot werd opgeëist binnen één jaar na de datum van publicatie van de doorhaling of afstand en vóór het verstrijken van de in lid 1 genoemde termijn van vijf jaren.
+2. Indien de in lid 1 bedoelde deposant gehele of gedeeltelijke doorhaling heeft verzocht van de inschrijving van het Benelux-depot of afstand heeft gedaan van de rechten, die voor het Benelux-gebied uit het internationaal depot voortvloeien, heeft deze doorhaling of afstand geen werking ten aanzien van de ontwerper of van degene die volgens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2020-01-01&g=2020-01-01) als ontwerper wordt beschouwd onder voorbehoud van lid 3, mits het depot werd opgeëist binnen één jaar na de datum van publicatie van de doorhaling of afstand en vóór het verstrijken van de in lid 1 genoemde termijn van vijf jaren.
 
 3. Indien in het tijdvak gelegen tussen de doorhaling of afstand bedoeld in lid 2, en de inschrijving van de vordering tot opeising, een derde te goeder trouw een voortbrengsel heeft geëxploiteerd dat hetzelfde uiterlijk vertoont of bij de geïnformeerde gebruiker geen andere algemene indruk wekt, wordt dit voortbrengsel als rechtmatig in het verkeer gebracht beschouwd.
 
@@ -803,7 +803,7 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 4. Wanneer het depot geschiedt bij een nationale dienst, zendt deze het Benelux-depot door aan het Bureau, hetzij onverwijld na ontvangst van het depot, hetzij nadat is vastgesteld dat het depot voldoet aan de in lid 1 tot en met 3 gestelde vereisten.
 
-5. Onverminderd de toepassing op Benelux-depots van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2019-03-01&g=2019-03-01), kan het depot van een tekening of model geen aanleiding geven tot enig onderzoek naar de inhoud van het depot, waarvan de uitkomst de deposant door het Bureau zou kunnen worden tegengeworpen.
+5. Onverminderd de toepassing op Benelux-depots van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2020-01-01&g=2020-01-01), kan het depot van een tekening of model geen aanleiding geven tot enig onderzoek naar de inhoud van het depot, waarvan de uitkomst de deposant door het Bureau zou kunnen worden tegengeworpen.
 
 ##### Artikel 3.10. Beroep op voorrang
 
@@ -815,7 +815,7 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 1. Het Bureau schrijft onverwijld de Benelux-depots in, evenals de internationale depots die gepubliceerd zijn in het „Bulletin International des dessins ou modèles – International Design Gazette" ten aanzien waarvan de deposanten verzocht hebben dat zij hun werking zullen uitstrekken over het Benelux-gebied.
 
-2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2019-03-01&g=2019-03-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2019-03-01&g=2019-03-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
+2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2020-01-01&g=2020-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2020-01-01&g=2020-01-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
 
 3. Indien de kenmerkende eigenschappen van de tekening of het model in de publicatie niet voldoende tot hun recht komen, kan de deposant, binnen de daartoe vastgestelde termijn, het Bureau verzoeken kosteloos een tweede publicatie te verrichten.
 
@@ -829,17 +829,17 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 ##### Artikel 3.13. Strijd met openbare orde en goede zeden
 
-1. Indien het Bureau oordeelt, dat op de tekening of het model [artikel 3.6, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), van toepassing is schort hij de publicatie op.
+1. Indien het Bureau oordeelt, dat op de tekening of het model [artikel 3.6, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), van toepassing is schort hij de publicatie op.
 
 2. Het Bureau stelt de deposant daarvan in kennis en verzoekt hem zijn depot binnen een termijn van twee maanden in te trekken.
 
-3. Indien de belanghebbende na het verstrijken van deze termijn zijn depot niet heeft ingetrokken, weigert het Bureau de publicatie. Van de weigering tot publicatie geeft het Bureau onder opgave van redenen onverwijld schriftelijk kennis aan de deposant, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2019-03-01&g=2019-03-01) genoemde rechtsmiddel tegen die beslissing.
+3. Indien de belanghebbende na het verstrijken van deze termijn zijn depot niet heeft ingetrokken, weigert het Bureau de publicatie. Van de weigering tot publicatie geeft het Bureau onder opgave van redenen onverwijld schriftelijk kennis aan de deposant, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2020-01-01&g=2020-01-01) genoemde rechtsmiddel tegen die beslissing.
 
 4. De weigering tot publicatie wordt eerst definitief nadat de beslissing van het Bureau niet meer vatbaar is voor enig rechtsmiddel. Dit heeft de nietigheid van het depot tot gevolg.
 
 ##### Artikel 3.14. Geldigheidsduur en vernieuwing
 
-1. De inschrijving van een Benelux-depot heeft een geldigheidsduur van vijf jaren te rekenen van de datum van het depot. Onverminderd het bepaalde in [artikel 3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2019-03-01&g=2019-03-01), kan de gedeponeerde tekening of het gedeponeerde model noch gedurende de inschrijving, noch ter gelegenheid van de vernieuwing daarvan worden gewijzigd.
+1. De inschrijving van een Benelux-depot heeft een geldigheidsduur van vijf jaren te rekenen van de datum van het depot. Onverminderd het bepaalde in [artikel 3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2020-01-01&g=2020-01-01), kan de gedeponeerde tekening of het gedeponeerde model noch gedurende de inschrijving, noch ter gelegenheid van de vernieuwing daarvan worden gewijzigd.
 
 2. De inschrijving kan voor vier achtereenvolgende termijnen van vijf jaren worden vernieuwd tot een maximale geldigheidsduur van 25 jaar.
 
@@ -867,7 +867,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.17. Schadevergoeding en andere vorderingen
 
-1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2019-03-01&g=2019-03-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2019-03-01&g=2019-03-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
+1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2020-01-01&g=2020-01-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2020-01-01&g=2020-01-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
 
 2. De rechter die de schadevergoeding vaststelt:
 
@@ -877,11 +877,11 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. De rechter kan bij wijze van schadevergoeding op vordering van de houder van het uitsluitend recht op een tekening of model bevelen tot de afgifte aan deze houder, van de goederen die een inbreuk maken op een tekening- of modelrecht, alsmede, in passende gevallen, van de materialen en werktuigen die voornamelijk bij de productie van die goederen zijn gebruikt. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen, door de eiser te betalen vergoeding.
 
-4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2019-03-01&g=2019-03-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
+4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2020-01-01&g=2020-01-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
 
-5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2019-03-01&g=2019-03-01), toegekende bevoegdheid.
+5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2020-01-01&g=2020-01-01), toegekende bevoegdheid.
 
-6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2019-03-01&g=2019-03-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
+6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2020-01-01&g=2020-01-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
 
 ##### Artikel 3.18. Nevenvorderingen
 
@@ -925,7 +925,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Het uitsluitend recht op een tekening of model dat een onderdeel vormt van een samengesteld voortbrengsel houdt niet het recht in zich te verzetten tegen het gebruik van de tekening of het model voor reparatie van dit samengestelde voortbrengsel met de bedoeling het zijn oorspronkelijke uiterlijk terug te geven.
 
-4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2019-03-01&g=2019-03-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2019-03-01&g=2019-03-01).
+4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2020-01-01&g=2020-01-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2020-01-01&g=2020-01-01).
 
 5. De vorderingen kunnen geen betrekking hebben op voortbrengselen die vóór de datum van het depot in het Benelux-gebied in het verkeer werden gebracht.
 
@@ -937,7 +937,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Dit recht wordt echter niet toegekend aan de derde, die de tekening of het model zonder toestemming van de ontwerper heeft nagemaakt.
 
-4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2019-03-01&g=2019-03-01) bedoelde handelingen verrichten, met uitzondering van invoer.
+4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2020-01-01&g=2020-01-01) bedoelde handelingen verrichten, met uitzondering van invoer.
 
 5. Het recht van voorgebruik kan slechts overgaan tezamen met het bedrijf waarin de handelingen, die hebben geleid tot het ontstaan van dat recht, hebben plaatsgevonden.
 
@@ -957,7 +957,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.22. Verval van het recht
 
-Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2019-03-01&g=2019-03-01), vervalt het uitsluitend recht op een tekening of model:
+Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2020-01-01&g=2020-01-01), vervalt het uitsluitend recht op een tekening of model:
 
 - a. door vrijwillige doorhaling of door het verstrijken van de geldigheidsduur van de inschrijving van het Benelux-depot;
 
@@ -967,21 +967,21 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Iedere belanghebbende met inbegrip van het Openbaar Ministerie kan de nietigheid inroepen van de inschrijving van een tekening of model indien:
 
-- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2019-03-01&g=2019-03-01);
+- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2020-01-01&g=2020-01-01);
 
-- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2019-03-01&g=2019-03-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2019-03-01&g=2019-03-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2019-03-01&g=2019-03-01);
+- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2020-01-01&g=2020-01-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2020-01-01&g=2020-01-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2020-01-01&g=2020-01-01);
 
-- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2019-03-01&g=2019-03-01) valt;
+- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2020-01-01&g=2020-01-01) valt;
 
-- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), geen recht op een tekening of model wordt verkregen.
+- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), geen recht op een tekening of model wordt verkregen.
 
-2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
+2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
 
-3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), geen recht op de tekening of het model wordt verkregen.
+3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), geen recht op de tekening of het model wordt verkregen.
 
-4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), geen recht op de tekening of het model wordt verkregen.
+4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), geen recht op de tekening of het model wordt verkregen.
 
-5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2019-03-01&g=2019-03-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
+5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2020-01-01&g=2020-01-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
 
 6. De inschrijving van het depot van een tekening of model kan ook na verval of afstand nietig worden verklaard.
 
@@ -991,7 +991,7 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Behoudens het bepaalde in lid 2, hebben de nietigverklaring, de vrijwillige doorhaling en de afstand steeds betrekking op de gehele tekening of het gehele model.
 
-2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2019-03-01&g=2019-03-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
+2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2020-01-01&g=2020-01-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
 
 3. De handhaving bedoeld in lid 2, kan erin bestaan dat een verklaring van de houder dat hij gedeeltelijk afziet van aanspraken op het recht, of een rechterlijke beslissing waarbij het recht gedeeltelijk nietig is verklaard en die niet meer vatbaar is voor verzet noch voor hoger beroep noch voor voorziening in cassatie, wordt ingeschreven.
 
@@ -1015,9 +1015,9 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 3. De doorhaling van de inschrijving van de licentie in het register vindt slechts plaats op gezamenlijk verzoek van de houder van de tekening of het model en de licentiehouder.
 
-4. De licentiehouder is bevoegd in een door de houder van het uitsluitend recht op een tekening of model ingestelde vordering als bedoeld in [artikel 3.17, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.17&z=2019-03-01&g=2019-03-01), tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, kan de licentiehouder slechts instellen indien hij de bevoegdheid daartoe van de houder van het uitsluitend recht heeft bedongen.
+4. De licentiehouder is bevoegd in een door de houder van het uitsluitend recht op een tekening of model ingestelde vordering als bedoeld in [artikel 3.17, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.17&z=2020-01-01&g=2020-01-01), tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, kan de licentiehouder slechts instellen indien hij de bevoegdheid daartoe van de houder van het uitsluitend recht heeft bedongen.
 
-5. De licentiehouder heeft het recht de in [artikel 3.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.18&z=2019-03-01&g=2019-03-01), bedoelde bevoegdheden uit te oefenen voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de houder van het uitsluitend recht op een tekening of model heeft verkregen.
+5. De licentiehouder heeft het recht de in [artikel 3.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.18&z=2020-01-01&g=2020-01-01), bedoelde bevoegdheden uit te oefenen voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de houder van het uitsluitend recht op een tekening of model heeft verkregen.
 
 ##### Artikel 3.27. Derdenwerking
 
@@ -1031,11 +1031,11 @@ De overdracht of andere overgang of de licentie kan niet aan derden worden tegen
 
 2. De deposant van een tekening of model wordt vermoed tevens de houder te zijn van het desbetreffende auteursrecht; dit vermoeden geldt echter niet ten aanzien van de werkelijke ontwerper of zijn rechtverkrijgende.
 
-3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2019-03-01&g=2019-03-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
+3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2020-01-01&g=2020-01-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
 
 ##### Artikel 3.29. Auteursrecht van werk- en opdrachtgevers
 
-Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2019-03-01&g=2019-03-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
+Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2020-01-01&g=2020-01-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
 
 ## TITEL IV. OVERIGE BEPALINGEN
 
@@ -1069,7 +1069,7 @@ Het Bureau is, behalve met de in de voorgaande titels opgedragen taken, belast m
 
 ##### Artikel 4.5. Geschillenbeslechting
 
-1. Onverminderd het bepaalde in de [artikelen 2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01) en [2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), is alleen de rechter bevoegd uitspraak te doen in gedingen, welke op dit verdrag zijn gegrond.
+1. Onverminderd het bepaalde in de [artikelen 2.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01) en [2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), is alleen de rechter bevoegd uitspraak te doen in gedingen, welke op dit verdrag zijn gegrond.
 
 2. De niet-ontvankelijkheid die voortvloeit uit het ontbreken van de inschrijving van een depot van het merk of de tekening of het model, wordt opgeheven door inschrijving of vernieuwing van de inschrijving van het merk of de tekening of het model tijdens het geding.
 
@@ -1125,7 +1125,7 @@ Artikel III van het protocol van 11 december 2001 houdende wijziging van de eenv
 
 ##### Artikel 5.5. Eerste uitvoeringsreglement
 
-In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2019-03-01&g=2019-03-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
+In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2020-01-01&g=2020-01-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
 
 ## TITEL V. OVERGANGSBEPALINGEN
 
@@ -1139,7 +1139,7 @@ Dit verdrag zal worden bekrachtigd. De akten van bekrachtiging zullen worden ned
 
 2. Vervallen.
 
-3. [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.5&z=2019-03-01&g=2019-03-01) wordt voorlopig toegepast.
+3. [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.5&z=2020-01-01&g=2020-01-01) wordt voorlopig toegepast.
 
 ##### Artikel 6.3. Duur van het verdrag
 
@@ -1169,7 +1169,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2019-03-01&g=2019-03-01) van het Verdrag.
+1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2020-01-01&g=2020-01-01) van het Verdrag.
 
 2. De in dit Protocol aan vertegenwoordigers van de Hoge Verdragsluitende Partijen, aan hun plaatsvervangers, hun raadgevers of deskundigen, aan de Directeur-generaal, de personeelsleden van de Organisatie en aan de deskundigen die namens de Organisatie een functie uitoefenen of voor haar een zending uitvoeren, toegekende voorrechten en immuniteiten zijn niet bedoeld om de betrokkenen tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van de Organisatie onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de betrokkenen.
 
@@ -1249,7 +1249,7 @@ De Directeur-generaal en de personeelsleden van de Organisatie:
 
 ##### Artikel 8
 
-1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2019-03-01&g=2019-03-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2020-01-01&g=2020-01-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De immuniteit van rechtsmacht geldt niet met betrekking tot civiele vorderingen die voortvloeien uit door de Directeur-generaal in de privé-sfeer veroorzaakte schade dan wel uit door hem in de privé-sfeer afgesloten contracten.
 
@@ -1265,7 +1265,7 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 10
 
-1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2019-03-01&g=2019-03-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2019-03-01&g=2019-03-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
+1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2020-01-01&g=2020-01-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2020-01-01&g=2020-01-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
 
 - a. hun eigen onderdanen;
 
@@ -1275,11 +1275,11 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 11
 
-1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2019-03-01&g=2019-03-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2019-03-01&g=2019-03-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
+1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2020-01-01&g=2020-01-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2020-01-01&g=2020-01-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
 
-2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2019-03-01&g=2019-03-01), opheffen.
+2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2020-01-01&g=2020-01-01), opheffen.
 
-3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2019-03-01&g=2019-03-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
+3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2020-01-01&g=2020-01-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
 
 ##### Artikel 12
 
@@ -1547,7 +1547,7 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 4. Op verzoek van een partij vertaalt het Bureau de oppositiebeslissing in de andere werktaal van het Bureau.
 
-5. Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in [regel 1.17, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2019-03-01&g=2019-03-01).
+5. Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in [regel 1.17, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2020-01-01&g=2020-01-01).
 
 6. Argumenten die niet in een van de werktalen van het Bureau zijn ingediend, worden als niet-ingediend beschouwd.
 
@@ -1555,9 +1555,9 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 ##### Regel 1.19. Wijziging taalkeuze
 
-1. Tot de aanvang van de procedure kunnen de ingevolge [regel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2019-03-01&g=2019-03-01) gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.
+1. Tot de aanvang van de procedure kunnen de ingevolge [regel 1.17](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2020-01-01&g=2020-01-01) gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.
 
-2. Gedurende de oppositieprocedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau bedoeld in [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2019-03-01&g=2019-03-01).
+2. Gedurende de oppositieprocedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau bedoeld in [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 1.20. Taal stukken ter ondersteuning argumenten of gebruik
 
@@ -1565,9 +1565,9 @@ Het bepaalde in de regels 1.17 tot en met 1.19 laat onverlet dat stukken die die
 
 ##### Regel 1.21. Beginsel van hoor en wederhoor
 
-De inachtneming van het beginsel van hoor en wederhoor als bedoeld in [artikel 2.16, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) houdt met name in dat:
+De inachtneming van het beginsel van hoor en wederhoor als bedoeld in [artikel 2.16, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) houdt met name in dat:
 
-- a. een afschrift van elk relevant stuk dat bij het Bureau door een partij wordt ingediend naar de andere partij wordt verzonden, ook indien de oppositie niet ontvankelijk is. Indien ingediende argumenten ingevolge het bepaalde in [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2019-03-01&g=2019-03-01) door het Bureau worden vertaald zal doorzending plaatsvinden tezamen met deze vertaling;
+- a. een afschrift van elk relevant stuk dat bij het Bureau door een partij wordt ingediend naar de andere partij wordt verzonden, ook indien de oppositie niet ontvankelijk is. Indien ingediende argumenten ingevolge het bepaalde in [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2020-01-01&g=2020-01-01) door het Bureau worden vertaald zal doorzending plaatsvinden tezamen met deze vertaling;
 
 - b. een afschrift van elk relevant stuk dat het Bureau aan een partij zendt tevens aan de andere partij wordt gezonden;
 
@@ -1581,17 +1581,17 @@ De inachtneming van het beginsel van hoor en wederhoor als bedoeld in [artikel 2
 
 ##### Regel 1.22. Opschorting
 
-1. Indien de procedure ingevolge [artikel 2.16, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
+1. Indien de procedure ingevolge [artikel 2.16, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
 
 2. Indien de grond voor opschorting is opgeheven wordt de procedure voortgezet. Het Bureau deelt dit mede aan partijen, vermeldt hierbij welke handelingen op het betreffende moment in de procedure dienen te worden verricht en stelt hiervoor in voorkomend geval een aanvullende termijn.
 
 3. Opschorting op gezamenlijk verzoek geschiedt voor een periode van vier maanden, en kan met telkens eenzelfde periode worden verlengd. Elke partij kan gedurende een opschorting op gezamenlijk verzoek op ieder moment verzoeken de opschorting op te heffen.
 
-4. Indien de procedure is aangevangen, wordt deze opgeschort op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Het Bureau deelt dit mede aan partijen en vermeldt hierbij de nieuwe termijn. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2019-03-01&g=2019-03-01) bedoelde termijn.
+4. Indien de procedure is aangevangen, wordt deze opgeschort op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Het Bureau deelt dit mede aan partijen en vermeldt hierbij de nieuwe termijn. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2020-01-01&g=2020-01-01) bedoelde termijn.
 
 5. Voordat de procedure is aangevangen is opschorting op gezamenlijk verzoek gedurende de eerste twaalf maanden kostenloos. Voor verdere verlenging van de opschorting voor aanvang van de procedure, voor opschorting gedurende de procedure en de verlenging daarvan is een taks verschuldigd. Indien deze niet wordt betaald bij het verzoek tot opschorting stelt het Bureau daarvoor een termijn van een maand. Indien niet of te laat wordt betaald wordt de procedure overeenkomstig lid 2 voortgezet.
 
-6. Opschorting van de oppositieprocedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2019-03-01&g=2019-03-01).
+6. Opschorting van de oppositieprocedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 1.23. Mondelinge behandeling
 
@@ -1607,11 +1607,11 @@ De inachtneming van het beginsel van hoor en wederhoor als bedoeld in [artikel 2
 
 ##### Regel 1.25. Bewijzen van gebruik
 
-1. De in [artikel 2.16bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2019-03-01&g=2019-03-01) bedoelde stukken om het gebruik van het merk aan te tonen worden gevraagd en overgelegd volgens de nadere regels, vastgelegd in [regel 1.14, lid 1, sub d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2019-03-01&g=2019-03-01).
+1. De in [artikel 2.16bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2020-01-01&g=2020-01-01) bedoelde stukken om het gebruik van het merk aan te tonen worden gevraagd en overgelegd volgens de nadere regels, vastgelegd in [regel 1.14, lid 1, sub d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2020-01-01&g=2020-01-01).
 
 2. De bewijzen van gebruik dienen aanwijzingen te bevatten over de plaats, duur, omvang en wijze van het gebruik dat is gemaakt van het oudere merk voor de waren en diensten waarop de oppositie berust.
 
-3. Deze bewijzen van gebruik dienen te voldoen aan de in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2019-03-01&g=2019-03-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken.
+3. Deze bewijzen van gebruik dienen te voldoen aan de in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2020-01-01&g=2020-01-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken.
 
 4. De verweerder kan zijn aanvraag om bewijzen van gebruik in te dienen intrekken dan wel de verstrekte bewijzen als voldoende beschouwen.
 
@@ -1647,21 +1647,21 @@ Een oppositiebeslissing bevat de volgende gegevens:
 
 ##### Regel 1.28. Kostenbepaling oppositie
 
-1. De restitutie als bedoeld in [artikel 2.16, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) wordt vastgesteld op een bedrag dat gelijk is aan 60% van de taks verschuldigd voor oppositie, wanneer zij voor de aanvang van de procedure plaatsvindt en op een bedrag dat gelijk is aan 40% van deze taks, wanneer zij na dat tijdstip plaatsvindt.
+1. De restitutie als bedoeld in [artikel 2.16, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) wordt vastgesteld op een bedrag dat gelijk is aan 60% van de taks verschuldigd voor oppositie, wanneer zij voor de aanvang van de procedure plaatsvindt en op een bedrag dat gelijk is aan 40% van deze taks, wanneer zij na dat tijdstip plaatsvindt.
 
-2. Er vindt geen restitutie plaats indien er, overeenkomstig het bepaalde in [regel 1.15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2019-03-01&g=2019-03-01), slechts een betaling van 40% van de voor oppositie verschuldigde taksen heeft plaatsgevonden.
+2. Er vindt geen restitutie plaats indien er, overeenkomstig het bepaalde in [regel 1.15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2020-01-01&g=2020-01-01), slechts een betaling van 40% van de voor oppositie verschuldigde taksen heeft plaatsgevonden.
 
-3. De kosten als bedoeld in [artikel 2.16, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) worden vastgesteld op een bedrag dat gelijk is aan de basistaks oppositie.
+3. De kosten als bedoeld in [artikel 2.16, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) worden vastgesteld op een bedrag dat gelijk is aan de basistaks oppositie.
 
-4. Voor vertaling ingevolge [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2019-03-01&g=2019-03-01) is een door de Directeur-Generaal vastgestelde vergoeding verschuldigd door de partij die argumenten indient in een taal van het Bureau die niet de proceduretaal is of door de partij die vertaling in de andere taal van het Bureau dan de proceduretaal wenst. De Directeur-Generaal stelt tevens een vergoeding vast voor vertaling van de oppositiebeslissing en vertolking bij een mondelinge behandeling.
+4. Voor vertaling ingevolge [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2020-01-01&g=2020-01-01) is een door de Directeur-Generaal vastgestelde vergoeding verschuldigd door de partij die argumenten indient in een taal van het Bureau die niet de proceduretaal is of door de partij die vertaling in de andere taal van het Bureau dan de proceduretaal wenst. De Directeur-Generaal stelt tevens een vergoeding vast voor vertaling van de oppositiebeslissing en vertolking bij een mondelinge behandeling.
 
 ##### Regel 1.29. Verzoek om de beslissing niet ten uitvoer te leggen
 
-Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) bedoelde beslissing en uiterlijk totdat deze definitief wordt, kunnen partijen het Bureau gezamenlijk verzoeken de beslissing niet ten uitvoer te leggen.
+Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) bedoelde beslissing en uiterlijk totdat deze definitief wordt, kunnen partijen het Bureau gezamenlijk verzoeken de beslissing niet ten uitvoer te leggen.
 
 ##### Regel 1.30. Indiening van de vordering tot nietigverklaring of vervallenverklaring
 
-1. De vordering tot nietigverklaring of vervallenverklaring als bedoeld in [artikel 2.30bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01) wordt ingediend door middel van een document, dat de volgende gegevens bevat:
+1. De vordering tot nietigverklaring of vervallenverklaring als bedoeld in [artikel 2.30bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01) wordt ingediend door middel van een document, dat de volgende gegevens bevat:
 
 - a. de naam van verzoeker;
 
@@ -1673,7 +1673,7 @@ Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - e. de voorkeuren betreffende het taalgebruik.
 
-2. Indien de vordering is gebaseerd op de in [artikel 2.30bis, lid 1, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01) bedoelde gronden, dient het document tevens de volgende gegevens te bevatten:
+2. Indien de vordering is gebaseerd op de in [artikel 2.30bis, lid 1, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01) bedoelde gronden, dient het document tevens de volgende gegevens te bevatten:
 
 - a. gegevens ter identificatie van het oudere merk of oudere recht;
 
@@ -1683,21 +1683,21 @@ Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 3. In het in lid 2, sub c, bedoelde geval dienen stukken te worden overgelegd die de bevoegdheid van de licentiehouder aantonen.
 
-4. Op het document dienen in voorkomend geval naam en adres van de gemachtigde of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) bedoelde correspondentieadres te worden vermeld.
+4. Op het document dienen in voorkomend geval naam en adres van de gemachtigde of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) bedoelde correspondentieadres te worden vermeld.
 
-5. De in lid 1, sub c en lid 2, sub b, bedoelde gegevens kunnen door enkele opgave van de nummers van de betreffende waren- of dienstenklassen worden vermeld. De waren of diensten waarop de vordering berust of waartegen deze is gericht kunnen tot het moment van de in [regel 1.31, lid 1, sub i, of lid 2, sub h](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2019-03-01&g=2019-03-01), bedoelde beslissing door de verzoeker worden beperkt.
+5. De in lid 1, sub c en lid 2, sub b, bedoelde gegevens kunnen door enkele opgave van de nummers van de betreffende waren- of dienstenklassen worden vermeld. De waren of diensten waarop de vordering berust of waartegen deze is gericht kunnen tot het moment van de in [regel 1.31, lid 1, sub i, of lid 2, sub h](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2020-01-01&g=2020-01-01), bedoelde beslissing door de verzoeker worden beperkt.
 
 ##### Regel 1.31. Verloop procedure
 
 1. De vordering tot nietigverklaring of vervallenverklaring wordt volgens de volgende procedure behandeld:
 
-- a. het Bureau beslist overeenkomstig [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2019-03-01&g=2019-03-01) of de vordering ontvankelijk is en stelt partijen of, in het in [artikel 2.30quater BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6bis&artikel=2.30&z=2019-03-01&g=2019-03-01) bedoelde geval, de verzoeker en het Internationaal Bureau hiervan in kennis;
+- a. het Bureau beslist overeenkomstig [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2020-01-01&g=2020-01-01) of de vordering ontvankelijk is en stelt partijen of, in het in [artikel 2.30quater BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6bis&artikel=2.30&z=2020-01-01&g=2020-01-01) bedoelde geval, de verzoeker en het Internationaal Bureau hiervan in kennis;
 
-- b. de verweerder beschikt over een termijn van een maand om zijn voorkeuren betreffende het taalgebruik aan te geven, waarna het Bureau overeenkomstig [regel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2019-03-01&g=2019-03-01) de proceduretaal vaststelt en deze aan partijen meedeelt;
+- b. de verweerder beschikt over een termijn van een maand om zijn voorkeuren betreffende het taalgebruik aan te geven, waarna het Bureau overeenkomstig [regel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2020-01-01&g=2020-01-01) de proceduretaal vaststelt en deze aan partijen meedeelt;
 
 - c. de verzoeker beschikt over een termijn van twee maanden vanaf de onder b bedoelde mededeling om de vordering met argumenten en stukken ter ondersteuning daarvan te onderbouwen. Bij gebreke daarvan wordt de vordering verder buiten behandeling gelaten;
 
-- d. het Bureau stuurt de argumenten van verzoeker naar de verweerder, en stelt hem een termijn van twee maanden om schriftelijk te reageren en, indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), eventueel bewijzen van gebruik van het oudere merk als bedoeld in [artikel 2.30quinquies BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2019-03-01&g=2019-03-01) te vragen;
+- d. het Bureau stuurt de argumenten van verzoeker naar de verweerder, en stelt hem een termijn van twee maanden om schriftelijk te reageren en, indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), eventueel bewijzen van gebruik van het oudere merk als bedoeld in [artikel 2.30quinquies BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2020-01-01&g=2020-01-01) te vragen;
 
 - e. in voorkomend geval wordt verzoeker een termijn van twee maanden gesteld om de gevraagde bewijzen van gebruik over te leggen dan wel te motiveren dat er een geldige reden voor niet-gebruik bestaat;
 
@@ -1705,15 +1705,15 @@ Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - g. indien het Bureau daartoe gronden aanwezig acht, kan het een of meer partijen verzoeken om binnen een daartoe gestelde termijn aanvullende argumenten of stukken in te dienen;
 
-- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.39](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.39&z=2019-03-01&g=2019-03-01);
+- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.39](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.39&z=2020-01-01&g=2020-01-01);
 
-- i. het Bureau neemt een beslissing. Indien een vordering die op verscheidene gronden berust op basis van één van deze gronden wordt toegewezen, neemt het Bureau over de overige ingeroepen gronden, indien deze hetzelfde rechtsgevolg hebben, geen beslissing. Indien een op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), BVIE gebaseerde vordering die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen neemt het Bureau over de overige ingeroepen merken evenmin een beslissing.
+- i. het Bureau neemt een beslissing. Indien een vordering die op verscheidene gronden berust op basis van één van deze gronden wordt toegewezen, neemt het Bureau over de overige ingeroepen gronden, indien deze hetzelfde rechtsgevolg hebben, geen beslissing. Indien een op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), BVIE gebaseerde vordering die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen neemt het Bureau over de overige ingeroepen merken evenmin een beslissing.
 
-2. In afwijking van het bepaalde in lid 1 wordt de vordering, indien deze uitsluitend is gebaseerd op [artikel 2.30bis, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), jo. [artikel 2.27, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01), volgens de volgende procedure behandeld:
+2. In afwijking van het bepaalde in lid 1 wordt de vordering, indien deze uitsluitend is gebaseerd op [artikel 2.30bis, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), jo. [artikel 2.27, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01), volgens de volgende procedure behandeld:
 
-- a. het Bureau beslist overeenkomstig [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2019-03-01&g=2019-03-01) of de vordering ontvankelijk is en stelt partijen of, in het in [artikel 2.30quater BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30quater&z=2019-03-01&g=2019-03-01) bedoelde geval, de verzoeker en het Internationaal Bureau hiervan in kennis;
+- a. het Bureau beslist overeenkomstig [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2020-01-01&g=2020-01-01) of de vordering ontvankelijk is en stelt partijen of, in het in [artikel 2.30quater BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30quater&z=2020-01-01&g=2020-01-01) bedoelde geval, de verzoeker en het Internationaal Bureau hiervan in kennis;
 
-- b. de verweerder beschikt over een termijn van een maand om zijn voorkeuren betreffende het taalgebruik aan te geven, waarna het Bureau overeenkomstig [regel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2019-03-01&g=2019-03-01) de proceduretaal vaststelt en deze aan partijen meedeelt;
+- b. de verweerder beschikt over een termijn van een maand om zijn voorkeuren betreffende het taalgebruik aan te geven, waarna het Bureau overeenkomstig [regel 1.34](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2020-01-01&g=2020-01-01) de proceduretaal vaststelt en deze aan partijen meedeelt;
 
 - c. de verweerder beschikt over een termijn van twee maanden vanaf de onder b bedoelde mededeling om schriftelijk te reageren door bewijzen van gebruik in te dienen dan wel te motiveren dat er een geldige reden voor niet-gebruik bestaat;
 
@@ -1723,21 +1723,21 @@ Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - f. indien het Bureau daartoe gronden aanwezig acht, kan het een of meer partijen verzoeken om binnen een daartoe gestelde termijn aanvullende argumenten of stukken in te dienen;
 
-- g. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.39](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.39&z=2019-03-01&g=2019-03-01);
+- g. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.39](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.39&z=2020-01-01&g=2020-01-01);
 
 - h. het Bureau neemt een beslissing.
 
-3. Indien verweerder geen domicilie binnen de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d of lid 2, sub c, genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) te worden voldaan.
+3. Indien verweerder geen domicilie binnen de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d of lid 2, sub c, genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) te worden voldaan.
 
 ##### Regel 1.32. Ontvankelijkheidsvereisten
 
-1. De vordering tot nietigverklaring of vervallenverklaring is ontvankelijk wanneer zij voldoet aan de voorwaarden bedoeld in [regel 1.30, lid 1, sub a tot en met d, en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.30&z=2019-03-01&g=2019-03-01), van dit reglement, en [artikel 2.30bis, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01).
+1. De vordering tot nietigverklaring of vervallenverklaring is ontvankelijk wanneer zij voldoet aan de voorwaarden bedoeld in [regel 1.30, lid 1, sub a tot en met d, en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.30&z=2020-01-01&g=2020-01-01), van dit reglement, en [artikel 2.30bis, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01).
 
-2. Indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), jo. [artikel 2.27, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01), is zij slechts ontvankelijk wanneer het betwiste merk op het moment van instellen van de vordering langer dan vijf jaar is ingeschreven.
+2. Indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), jo. [artikel 2.27, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01), is zij slechts ontvankelijk wanneer het betwiste merk op het moment van instellen van de vordering langer dan vijf jaar is ingeschreven.
 
 ##### Regel 1.33. Regularisatie vordering tot nietigverklaring of vervallenverklaring
 
-1. Indien het Bureau vaststelt dat de vordering tot nietigverklaring of vervallenverklaring niet voldoet aan andere vereisten dan die bedoeld in [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2019-03-01&g=2019-03-01), doet hij hiervan mededeling aan de verzoeker en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt de vordering verder buiten behandeling gelaten.
+1. Indien het Bureau vaststelt dat de vordering tot nietigverklaring of vervallenverklaring niet voldoet aan andere vereisten dan die bedoeld in [regel 1.32](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.32&z=2020-01-01&g=2020-01-01), doet hij hiervan mededeling aan de verzoeker en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt de vordering verder buiten behandeling gelaten.
 
 2. Indien het Bureau vaststelt dat andere door partijen ingediende stukken dan bedoeld in lid 1 niet voldoen aan de in dit reglement bedoelde vereisten, doet hij hiervan mededeling aan de betreffende partij en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt het betreffende stuk geacht niet te zijn ingediend.
 
@@ -1759,7 +1759,7 @@ Na de in [artikel 2.16, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - a. de verzoeker geeft bij indiening van de vordering tot nietigverklaring of vervallenverklaring de werktaal van het Bureau aan die zijn voorkeur heeft als proceduretaal;
 
-- b. indien de verweerder zich kan verenigen met de taalkeuze van verzoeker deelt hij dit binnen de in [regel 1.31, lid 1, sub b of lid 2, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2019-03-01&g=2019-03-01), bedoelde termijn mede.
+- b. indien de verweerder zich kan verenigen met de taalkeuze van verzoeker deelt hij dit binnen de in [regel 1.31, lid 1, sub b of lid 2, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2020-01-01&g=2020-01-01), bedoelde termijn mede.
 
 5. Het Bureau deelt de proceduretaal mede aan partijen.
 
@@ -3171,7 +3171,7 @@ GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de 
 
 ##### Artikel 1.15bis. Beroep
 
-1. Eenieder die partij is in een procedure die heeft geleid tot een eindbeslissing van het Bureau in de uitvoering van zijn officiële taken ter toepassing van de [titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&z=2019-03-01&g=2019-03-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&z=2019-03-01&g=2019-03-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&z=2019-03-01&g=2019-03-01) van dit verdrag, kan daartegen beroep instellen bij het Benelux-Gerechtshof teneinde een vernietiging of herziening van deze beslissing te verkrijgen. De termijn voor het instellen van beroep bedraagt twee maanden te rekenen vanaf de kennisgeving van de eindbeslissing.
+1. Eenieder die partij is in een procedure die heeft geleid tot een eindbeslissing van het Bureau in de uitvoering van zijn officiële taken ter toepassing van de [titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&z=2020-01-01&g=2020-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&z=2020-01-01&g=2020-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&z=2020-01-01&g=2020-01-01) van dit verdrag, kan daartegen beroep instellen bij het Benelux-Gerechtshof teneinde een vernietiging of herziening van deze beslissing te verkrijgen. De termijn voor het instellen van beroep bedraagt twee maanden te rekenen vanaf de kennisgeving van de eindbeslissing.
 
 2. De Organisatie kan in procedures voor het Benelux-Gerechtshof die beslissingen van het Bureau betreffen, worden vertegenwoordigd door een daartoe aangewezen personeelslid.
 
@@ -3195,15 +3195,15 @@ GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de 
 
 1. Een vordering tot nietigverklaring of vervallenverklaring van de inschrijving van een merk kan bij het Bureau worden ingesteld:
 
-- a. op basis van de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01) bedoelde absolute nietigheidsgronden en de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01) bedoelde vervalgronden door iedere natuurlijke of rechtspersoon en iedere groepering of entiteit die is opgericht ter behartiging van de belangen van fabrikanten, producenten, dienstverrichters, handelaren of consumenten, en die overeenkomstig het ter zake geldende recht bevoegd is in eigen naam in rechte op te treden;
+- a. op basis van de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01) bedoelde absolute nietigheidsgronden en de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01) bedoelde vervalgronden door iedere natuurlijke of rechtspersoon en iedere groepering of entiteit die is opgericht ter behartiging van de belangen van fabrikanten, producenten, dienstverrichters, handelaren of consumenten, en die overeenkomstig het ter zake geldende recht bevoegd is in eigen naam in rechte op te treden;
 
-- b. op basis van de in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01) bedoelde relatieve nietigheidsgronden:
+- b. op basis van de in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01) bedoelde relatieve nietigheidsgronden:
 
-- i. in de in [artikel 2.2ter, lid 1 en 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde gevallen door de houders van oudere merken en de door deze houders gemachtigde licentiehouders;
+- i. in de in [artikel 2.2ter, lid 1 en 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde gevallen door de houders van oudere merken en de door deze houders gemachtigde licentiehouders;
 
-- ii. in het in [artikel 2.2ter, lid 3, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde geval door de daar bedoelde houders van merken; in dit geval kan tevens de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2019-03-01&g=2019-03-01), bedoelde overdracht worden gevorderd;
+- ii. in het in [artikel 2.2ter, lid 3, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde geval door de daar bedoelde houders van merken; in dit geval kan tevens de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2020-01-01&g=2020-01-01), bedoelde overdracht worden gevorderd;
 
-- iii. in het in [artikel 2.2ter, lid 3, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), bedoelde geval door degenen die krachtens het toepasselijke recht de in deze bepaling bedoelde rechten mogen uitoefenen.
+- iii. in het in [artikel 2.2ter, lid 3, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), bedoelde geval door degenen die krachtens het toepasselijke recht de in deze bepaling bedoelde rechten mogen uitoefenen.
 
 2. De vordering tot nietigverklaring of vervallenverklaring wordt pas geacht te zijn ingesteld, nadat de verschuldigde taksen zijn betaald.
 
@@ -3213,21 +3213,21 @@ GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de 
 
 2. De procedure wordt opgeschort:
 
-- a. indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), wanneer het oudere merk:
+- a. indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), wanneer het oudere merk:
 
 - i. nog niet is ingeschreven;
 
-- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01), en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
+- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01), en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
 
 - iii. het voorwerp is van een vordering tot nietigverklaring of vervallenverklaring;
 
-- b. indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), wanneer ze is gebaseerd op een aanvraag voor een oorsprongsbenaming of een geografische aanduiding, totdat daarover een definitieve beslissing is genomen;
+- b. indien de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), wanneer ze is gebaseerd op een aanvraag voor een oorsprongsbenaming of een geografische aanduiding, totdat daarover een definitieve beslissing is genomen;
 
 - c. wanneer het betwiste merk:
 
 - i. nog niet is ingeschreven;
 
-- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01); en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
+- ii. onverwijld is ingeschreven overeenkomstig [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01); en het voorwerp is van een weigeringsprocedure op absolute gronden of een oppositie;
 
 - iii. het voorwerp is van een gerechtelijke vordering tot nietigverklaring of vervallenverklaring;
 
@@ -3243,21 +3243,21 @@ GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de 
 
 - c. wanneer aan de vordering de grondslag is ontvallen hetzij omdat zij is ingetrokken, hetzij omdat de inschrijving waartegen de vordering is ingesteld is vervallen;
 
-- d. wanneer de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), en het oudere merk of het oudere recht niet meer geldig is;
+- d. wanneer de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), en het oudere merk of het oudere recht niet meer geldig is;
 
-- e. wanneer de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01), en de indiener binnen de gestelde termijn geen bewijsstukken van gebruik van zijn oudere merk als bedoeld in [artikel 2.30quinquies](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2019-03-01&g=2019-03-01) heeft overgelegd.
+- e. wanneer de vordering is gebaseerd op [artikel 2.30bis, lid 1, sub b, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01), en de indiener binnen de gestelde termijn geen bewijsstukken van gebruik van zijn oudere merk als bedoeld in [artikel 2.30quinquies](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2020-01-01&g=2020-01-01) heeft overgelegd.
 
 In deze gevallen wordt een deel van de betaalde taksen gerestitueerd.
 
-4. Nadat het onderzoek van de vordering tot nietigverklaring of vervallenverklaring is beëindigd, neemt het Bureau zo spoedig mogelijk een beslissing. Indien de vordering gegrond bevonden wordt, haalt het Bureau de inschrijving geheel of gedeeltelijk door of besluit het de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2019-03-01&g=2019-03-01), bedoelde overdracht in het register aan te tekenen. In het tegengestelde geval wordt de vordering afgewezen. Van de beslissing geeft het Bureau onverwijld schriftelijk kennis aan partijen, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2019-03-01&g=2019-03-01) genoemde rechtsmiddel tegen die beslissing. De beslissing van het Bureau wordt eerst definitief nadat ze niet meer vatbaar is voor enig rechtsmiddel. Het Bureau is geen partij bij een beroep tegen zijn beslissing.
+4. Nadat het onderzoek van de vordering tot nietigverklaring of vervallenverklaring is beëindigd, neemt het Bureau zo spoedig mogelijk een beslissing. Indien de vordering gegrond bevonden wordt, haalt het Bureau de inschrijving geheel of gedeeltelijk door of besluit het de in [artikel 2.20ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.20ter&z=2020-01-01&g=2020-01-01), bedoelde overdracht in het register aan te tekenen. In het tegengestelde geval wordt de vordering afgewezen. Van de beslissing geeft het Bureau onverwijld schriftelijk kennis aan partijen, onder vermelding van het in [artikel 1.15bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2020-01-01&g=2020-01-01) genoemde rechtsmiddel tegen die beslissing. De beslissing van het Bureau wordt eerst definitief nadat ze niet meer vatbaar is voor enig rechtsmiddel. Het Bureau is geen partij bij een beroep tegen zijn beslissing.
 
 5. De in het ongelijk gestelde partij wordt in de kosten verwezen. Deze worden vastgesteld conform het bepaalde in het uitvoeringsreglement. De kosten zijn niet verschuldigd indien de vordering gedeeltelijk toegewezen wordt. De beslissing van het Bureau tot vaststelling van de kosten vormt executoriale titel; de gedwongen tenuitvoerlegging geschiedt volgens de bepalingen die van kracht zijn in de staat van executie.
 
 ##### Artikel 2.30quater. Vordering tot nietigverklaring of vervallenverklaring van internationale aanvragen
 
-1. Tegen een internationale aanvraag waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied kan een vordering tot nietigverklaring of vervallenverklaring worden ingesteld bij het Bureau. De [artikelen 2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01) en [2.30ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) zijn van overeenkomstige toepassing.
+1. Tegen een internationale aanvraag waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied kan een vordering tot nietigverklaring of vervallenverklaring worden ingesteld bij het Bureau. De [artikelen 2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01) en [2.30ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
-2. Het Bureau geeft onverwijld schriftelijk kennis aan het Internationaal Bureau van de ingediende vordering, onder vermelding van het bepaalde in de [artikelen 2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2019-03-01&g=2019-03-01) en [2.30ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01), evenals de daarop betrekking hebbende bepalingen uit het uitvoeringsreglement.
+2. Het Bureau geeft onverwijld schriftelijk kennis aan het Internationaal Bureau van de ingediende vordering, onder vermelding van het bepaalde in de [artikelen 2.30bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30bis&z=2020-01-01&g=2020-01-01) en [2.30ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01), evenals de daarop betrekking hebbende bepalingen uit het uitvoeringsreglement.
 
 ### HOOFDSTUK 7. OVERGANG, LICENTIE EN ANDERE RECHTEN
 
@@ -3525,7 +3525,7 @@ De aanvraag om inschrijving zoals bedoeld in artikel 9quinquies van het Protocol
 
 4. Op verzoek van een partij vertaalt het Bureau zijn beslissing in de andere werktaal van het Bureau.
 
-5. Vertaling kan worden verzocht bij indiening van de vordering tot nietigverklaring of vervallenverklaring of bij de mededeling van verweerder als bedoeld in [regel 1.34, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2019-03-01&g=2019-03-01). Gedurende de procedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau.
+5. Vertaling kan worden verzocht bij indiening van de vordering tot nietigverklaring of vervallenverklaring of bij de mededeling van verweerder als bedoeld in [regel 1.34, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.34&z=2020-01-01&g=2020-01-01). Gedurende de procedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau.
 
 6. Argumenten die niet in een van de werktalen van het Bureau zijn ingediend, worden als niet-ingediend beschouwd.
 
@@ -3533,15 +3533,15 @@ De aanvraag om inschrijving zoals bedoeld in artikel 9quinquies van het Protocol
 
 ##### Regel 1.36. Taal stukken ter ondersteuning argumenten of gebruik
 
-[Regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2019-03-01&g=2019-03-01) is van overeenkomstige toepassing op de procedure tot nietigverklaring of vervallenverklaring.
+[Regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de procedure tot nietigverklaring of vervallenverklaring.
 
 ##### Regel 1.37. Beginsel van hoor en wederhoor
 
-Op het beginsel van hoor en wederhoor als bedoeld in [artikel 2.30ter, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) is [regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2019-03-01&g=2019-03-01) van overeenkomstige toepassing.
+Op het beginsel van hoor en wederhoor als bedoeld in [artikel 2.30ter, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) is [regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Regel 1.38. Opschorting
 
-1. Indien de procedure ingevolge [artikel 2.30ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
+1. Indien de procedure ingevolge [artikel 2.30ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
 
 2. Indien de grond voor opschorting is opgeheven, wordt de procedure voortgezet. Het Bureau deelt dit mede aan partijen, vermeldt hierbij welke handelingen op het betreffende moment in de procedure dienen te worden verricht en stelt hiervoor in voorkomend geval een aanvullende termijn.
 
@@ -3549,39 +3549,39 @@ Op het beginsel van hoor en wederhoor als bedoeld in [artikel 2.30ter, lid 1, BV
 
 4. Opschorting op gezamenlijk verzoek is gedurende de eerste drie opeenvolgende periodes kostenloos. Voor verdere opschorting op gezamenlijk verzoek en verlenging daarvan is een taks verschuldigd. Indien deze niet wordt betaald bij het verzoek tot opschorting stelt het Bureau daarvoor een termijn van een maand. Indien niet of te laat wordt betaald, wordt de procedure overeenkomstig lid 2 voortgezet.
 
-5. Opschorting van de procedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.33](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.33&z=2019-03-01&g=2019-03-01).
+5. Opschorting van de procedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.33](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.33&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 1.39. Mondelinge behandeling
 
-Op een mondelinge behandeling als bedoeld in [regel 1.31, lid 1, sub h, of lid 2, sub g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2019-03-01&g=2019-03-01), is [regel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.23&z=2019-03-01&g=2019-03-01) van overeenkomstige toepassing.
+Op een mondelinge behandeling als bedoeld in [regel 1.31, lid 1, sub h, of lid 2, sub g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2020-01-01&g=2020-01-01), is [regel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.23&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Regel 1.40. Meer vorderingen tot nietigverklaring of vervallenverklaring
 
-Indien verscheidene vorderingen tot nietigverklaring of vervallenverklaring van een merk zijn ingediend, is [regel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.24&z=2019-03-01&g=2019-03-01) van overeenkomstige toepassing.
+Indien verscheidene vorderingen tot nietigverklaring of vervallenverklaring van een merk zijn ingediend, is [regel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.24&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Regel 1.41. Bewijzen van gebruik
 
-Op de ingevolge [regel 1.31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2019-03-01&g=2019-03-01), door verzoeker, dan wel ingevolge regel 1.31, lid 2, door verweerder in te dienen stukken om het gebruik van het merk aan te tonen is [regel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.25&z=2019-03-01&g=2019-03-01) van overeenkomstige toepassing.
+Op de ingevolge [regel 1.31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.31&z=2020-01-01&g=2020-01-01), door verzoeker, dan wel ingevolge regel 1.31, lid 2, door verweerder in te dienen stukken om het gebruik van het merk aan te tonen is [regel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.25&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ##### Regel 1.42. Openbaarheid procedure
 
-[Regel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.26&z=2019-03-01&g=2019-03-01) is van overeenkomstige toepassing op de procedure tot nietigverklaring of vervallenverklaring.
+[Regel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.26&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de procedure tot nietigverklaring of vervallenverklaring.
 
 ##### Regel 1.43. Inhoud beslissing
 
-[Regel 1.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.27&z=2019-03-01&g=2019-03-01) is van overeenkomstige toepassing op de beslissing tot nietigverklaring of vervallenverklaring.
+[Regel 1.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.27&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de beslissing tot nietigverklaring of vervallenverklaring.
 
 ##### Regel 1.44. Kostenbepaling vordering tot nietigverklaring of vervallenverklaring
 
-1. De restitutie als bedoeld in [artikel 2.30ter, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) wordt vastgesteld op een bedrag dat gelijk is aan 50% van de taks verschuldigd voor het instellen van de vordering tot nietigverklaring of vervallenverklaring.
+1. De restitutie als bedoeld in [artikel 2.30ter, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) wordt vastgesteld op een bedrag dat gelijk is aan 50% van de taks verschuldigd voor het instellen van de vordering tot nietigverklaring of vervallenverklaring.
 
-2. De kosten als bedoeld in [artikel 2.30ter, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) worden vastgesteld op een bedrag dat gelijk is aan de basistaks voor de vordering tot nietigverklaring of vervallenverklaring.
+2. De kosten als bedoeld in [artikel 2.30ter, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) worden vastgesteld op een bedrag dat gelijk is aan de basistaks voor de vordering tot nietigverklaring of vervallenverklaring.
 
-3. Voor vertaling ingevolge [regel 1.35](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.35&z=2019-03-01&g=2019-03-01) is een door de Directeur-Generaal vastgestelde vergoeding verschuldigd door de partij die argumenten indient in een taal van het Bureau die niet de proceduretaal is of door de partij die vertaling in de andere taal van het Bureau dan de proceduretaal wenst. De Directeur-Generaal stelt tevens een vergoeding vast voor vertaling van de beslissing en vertolking bij een mondelinge behandeling.
+3. Voor vertaling ingevolge [regel 1.35](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&artikel=1.35&z=2020-01-01&g=2020-01-01) is een door de Directeur-Generaal vastgestelde vergoeding verschuldigd door de partij die argumenten indient in een taal van het Bureau die niet de proceduretaal is of door de partij die vertaling in de andere taal van het Bureau dan de proceduretaal wenst. De Directeur-Generaal stelt tevens een vergoeding vast voor vertaling van de beslissing en vertolking bij een mondelinge behandeling.
 
 ##### Regel 1.45. Verzoek om de beslissing niet ten uitvoer te leggen
 
-Na de in [artikel 2.30ter, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2019-03-01&g=2019-03-01) bedoelde beslissing en uiterlijk totdat deze definitief wordt, kunnen partijen het Bureau gezamenlijk verzoeken de beslissing niet ten uitvoer te leggen.
+Na de in [artikel 2.30ter, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6ter&artikel=2.30ter&z=2020-01-01&g=2020-01-01) bedoelde beslissing en uiterlijk totdat deze definitief wordt, kunnen partijen het Bureau gezamenlijk verzoeken de beslissing niet ten uitvoer te leggen.
 
 ##### Regel 1.46. Conversies
 
@@ -3591,7 +3591,7 @@ Na de in [artikel 2.30ter, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 - b. een vertaling in een van de werktalen van het Bureau van het verzoek en de hierbij gevoegde stukken indienen;
 
-- c. een domicilie kiezen in de Europese Economische Ruimte overeenkomstig [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01).
+- c. een domicilie kiezen in de Europese Economische Ruimte overeenkomstig [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01).
 
 2. De termijn hiervoor bedraagt minimaal een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Indien binnen de gestelde termijn niet is voldaan aan deze bepalingen, worden de ontvangen stukken verder buiten behandeling gelaten.
 
@@ -4031,7 +4031,7 @@ Indien een grond voor weigering van inschrijving of nietigverklaring van een mer
 
 ##### Artikel 2.16bis. Niet-gebruik als verweer in een oppositieprocedure
 
-1. Wanneer in een oppositieprocedure ingevolge [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), op de datum van indiening of voorrang van het jongere merk de periode van vijf jaar was verstreken waarbinnen het oudere merk normaal moet zijn gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01), levert de opposant, op verzoek van verweerder, het bewijs dat het oudere merk normaal is gebruikt overeenkomstig artikel 2.23bis in de periode van vijf jaar voorafgaand aan de datum van indiening of voorrang van het jongere merk, dan wel dat er geldige redenen voor het niet-gebruik bestonden.
+1. Wanneer in een oppositieprocedure ingevolge [artikel 2.14, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), op de datum van indiening of voorrang van het jongere merk de periode van vijf jaar was verstreken waarbinnen het oudere merk normaal moet zijn gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01), levert de opposant, op verzoek van verweerder, het bewijs dat het oudere merk normaal is gebruikt overeenkomstig artikel 2.23bis in de periode van vijf jaar voorafgaand aan de datum van indiening of voorrang van het jongere merk, dan wel dat er geldige redenen voor het niet-gebruik bestonden.
 
 2. Indien het oudere merk slechts is gebruikt voor een deel van de waren of diensten waarvoor het is ingeschreven, wordt het voor het in lid 1 bedoelde onderzoek van de oppositie geacht voor dat deel van de waren of diensten te zijn ingeschreven.
 
@@ -4055,9 +4055,9 @@ Wanneer door de weergave van een merk in een woordenboek, een encyclopedie of ee
 
 ##### Artikel 2.23bis. Normaal gebruik van het merk
 
-1. Een merk waarvan de houder vijf jaar nadat de inschrijvingsprocedure is voltooid, in het Beneluxgebied geen normaal gebruik heeft gemaakt voor de waren of diensten waarvoor het is ingeschreven, of waarvan gedurende een ononderbroken periode van vijf jaar geen gebruik is gemaakt, is vatbaar voor de beperkingen en sancties van de [artikelen 2.16bis, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2019-03-01&g=2019-03-01), [2.23ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23ter&z=2019-03-01&g=2019-03-01), [2.27, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01), en [2.30quinquies, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2019-03-01&g=2019-03-01), tenzij er een geldige reden is voor het niet-gebruik.
+1. Een merk waarvan de houder vijf jaar nadat de inschrijvingsprocedure is voltooid, in het Beneluxgebied geen normaal gebruik heeft gemaakt voor de waren of diensten waarvoor het is ingeschreven, of waarvan gedurende een ononderbroken periode van vijf jaar geen gebruik is gemaakt, is vatbaar voor de beperkingen en sancties van de [artikelen 2.16bis, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16bis&z=2020-01-01&g=2020-01-01), [2.23ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23ter&z=2020-01-01&g=2020-01-01), [2.27, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01), en [2.30quinquies, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2020-01-01&g=2020-01-01), tenzij er een geldige reden is voor het niet-gebruik.
 
-2. In het in [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01), bedoelde geval, wordt de in lid 1 bedoelde termijn van vijf jaar berekend met ingang van de datum waarop het merk niet langer voorwerp kan zijn van een weigering op absolute gronden of een oppositie of, ingeval een weigering is uitgesproken of een oppositie is ingesteld, met ingang van de datum waarop een beslissing waardoor de door het Bureau opgeworpen bezwaren op absolute gronden worden opgeheven of de oppositie wordt beëindigd, onherroepelijk is geworden of de oppositie is ingetrokken.
+2. In het in [artikel 2.8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01), bedoelde geval, wordt de in lid 1 bedoelde termijn van vijf jaar berekend met ingang van de datum waarop het merk niet langer voorwerp kan zijn van een weigering op absolute gronden of een oppositie of, ingeval een weigering is uitgesproken of een oppositie is ingesteld, met ingang van de datum waarop een beslissing waardoor de door het Bureau opgeworpen bezwaren op absolute gronden worden opgeheven of de oppositie wordt beëindigd, onherroepelijk is geworden of de oppositie is ingetrokken.
 
 3. Met betrekking tot inschrijvingen van internationale merken met werking in het Benelux-gebied wordt de in lid 1 bedoelde termijn van vijf jaar berekend met ingang van de datum waarop het merk niet langer kan worden geweigerd of daartegen niet langer oppositie kan worden ingesteld. Wanneer oppositie is ingesteld of wanneer kennis is gegeven van een weigering op absolute gronden, wordt de termijn berekend met ingang van de datum waarop een beslissing waardoor de oppositieprocedure wordt beëindigd, of een beslissing over de absolute weigeringsgronden onherroepelijk is geworden of waarop de oppositie is ingetrokken.
 
@@ -4073,11 +4073,11 @@ Wanneer door de weergave van een merk in een woordenboek, een encyclopedie of ee
 
 ##### Artikel 2.23ter. Niet-gebruik als verweer in een inbreukprocedure
 
-De houder van een merk kan het gebruik van een teken alleen verbieden voor zover de rechten van de houder niet op grond van [artikel 2.27, lid 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01), vervallen kunnen worden verklaard op het tijdstip waarop de vordering wegens inbreuk wordt ingesteld. Indien de verweerder daarom verzoekt, levert de houder van het merk het bewijs dat gedurende de periode van vijf jaar voorafgaand aan de datum waarop de vordering wordt ingesteld, normaal gebruik van het merk is gemaakt als bedoeld in [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01), voor de waren of diensten waarvoor het is ingeschreven, en die ter rechtvaardiging van de vordering worden aangehaald, dan wel dat er geldige redenen voor het niet-gebruik bestonden, op voorwaarde dat de procedure van inschrijving van het merk op de datum waarop de vordering wordt ingesteld, reeds ten minste vijf jaar geleden is afgerond.
+De houder van een merk kan het gebruik van een teken alleen verbieden voor zover de rechten van de houder niet op grond van [artikel 2.27, lid 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01), vervallen kunnen worden verklaard op het tijdstip waarop de vordering wegens inbreuk wordt ingesteld. Indien de verweerder daarom verzoekt, levert de houder van het merk het bewijs dat gedurende de periode van vijf jaar voorafgaand aan de datum waarop de vordering wordt ingesteld, normaal gebruik van het merk is gemaakt als bedoeld in [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01), voor de waren of diensten waarvoor het is ingeschreven, en die ter rechtvaardiging van de vordering worden aangehaald, dan wel dat er geldige redenen voor het niet-gebruik bestonden, op voorwaarde dat de procedure van inschrijving van het merk op de datum waarop de vordering wordt ingesteld, reeds ten minste vijf jaar geleden is afgerond.
 
 ##### Artikel 2.23 quater. Recht van de houder van een later ingeschreven merk om tussen te komen als verweer in een inbreukprocedure
 
-1. In een inbreukprocedure is de houder van een merk niet gerechtigd het gebruik van een later ingeschreven merk te verbieden wanneer dat jongere merk niet nietig zou worden verklaard op grond van [artikel 2.30quinques, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2019-03-01&g=2019-03-01), [artikel 2.30sexies](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30sexies&z=2019-03-01&g=2019-03-01) of [artikel 2.30septies, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30septies&z=2019-03-01&g=2019-03-01).
+1. In een inbreukprocedure is de houder van een merk niet gerechtigd het gebruik van een later ingeschreven merk te verbieden wanneer dat jongere merk niet nietig zou worden verklaard op grond van [artikel 2.30quinques, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30quinquies&z=2020-01-01&g=2020-01-01), [artikel 2.30sexies](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30sexies&z=2020-01-01&g=2020-01-01) of [artikel 2.30septies, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6quater&artikel=2.30septies&z=2020-01-01&g=2020-01-01).
 
 2. In een inbreukprocedure is de houder van een merk niet gerechtigd het gebruik van een later ingeschreven Uniemerk te verbieden wanneer dat jongere merk niet nietig zou worden verklaard op grond van artikel 60, lid 1, 3 of 4, artikel 61, lid 1 of 2, of artikel 64, lid 2, van de Uniemerkenverordening.
 
@@ -4089,13 +4089,13 @@ De houder van een merk kan het gebruik van een teken alleen verbieden voor zover
 
 ##### Artikel 2.30quinquies. Niet-gebruik als verweer in een procedure tot nietigverklaring
 
-1. Wanneer in een procedure tot nietigverklaring op basis van een ingeschreven merk met een vroegere datum van indiening of van voorrang de houder van het jongere merk daarom verzoekt, levert de houder van het oudere merk het bewijs dat in de periode van vijf jaar voorafgaand aan de datum van indiening van de vordering om nietigverklaring het oudere merk normaal is gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) voor de waren of diensten waarvoor het is ingeschreven en die ter rechtvaardiging van de vordering worden aangehaald, dan wel dat er geldige redenen voor het niet gebruik bestonden, op voorwaarde dat het inschrijvingsproces van het oudere merk op de datum van indiening van een vordering tot nietigverklaring minstens vijf jaar geleden is voltooid.
+1. Wanneer in een procedure tot nietigverklaring op basis van een ingeschreven merk met een vroegere datum van indiening of van voorrang de houder van het jongere merk daarom verzoekt, levert de houder van het oudere merk het bewijs dat in de periode van vijf jaar voorafgaand aan de datum van indiening van de vordering om nietigverklaring het oudere merk normaal is gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) voor de waren of diensten waarvoor het is ingeschreven en die ter rechtvaardiging van de vordering worden aangehaald, dan wel dat er geldige redenen voor het niet gebruik bestonden, op voorwaarde dat het inschrijvingsproces van het oudere merk op de datum van indiening van een vordering tot nietigverklaring minstens vijf jaar geleden is voltooid.
 
-2. Wanneer de periode van vijf jaar waarin het oudere merk normaal moest zijn gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01), op de datum van indiening of voorrang van het jongere merk is verstreken, bewijst de houder van het oudere merk naast het op grond van lid 1 vereiste bewijs dat het merk in de periode van vijf jaar voorafgaand aan de datum van indiening of voorrang normaal was gebruikt dan wel dat er geldige redenen voor het niet-gebruik bestonden.
+2. Wanneer de periode van vijf jaar waarin het oudere merk normaal moest zijn gebruikt overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01), op de datum van indiening of voorrang van het jongere merk is verstreken, bewijst de houder van het oudere merk naast het op grond van lid 1 vereiste bewijs dat het merk in de periode van vijf jaar voorafgaand aan de datum van indiening of voorrang normaal was gebruikt dan wel dat er geldige redenen voor het niet-gebruik bestonden.
 
 3. Bij gebreke van de in de leden 1 en 2 bedoelde bewijzen wordt een vordering tot nietigverklaring op basis van een ouder merk afgewezen.
 
-4. Indien het oudere merk overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) slechts is gebruikt voor een deel van de waren of diensten waarvoor het is ingeschreven, wordt het voor het onderzoek van de vordering tot nietigverklaring geacht alleen voor dat deel van de waren of diensten te zijn ingeschreven.
+4. Indien het oudere merk overeenkomstig [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) slechts is gebruikt voor een deel van de waren of diensten waarvoor het is ingeschreven, wordt het voor het onderzoek van de vordering tot nietigverklaring geacht alleen voor dat deel van de waren of diensten te zijn ingeschreven.
 
 5. De leden 1 tot en met 4 zijn ook van toepassing wanneer het oudere merk een Uniemerk is. In dat geval wordt het normale gebruik overeenkomstig artikel 18 van de Uniemerkenverordening vastgesteld.
 
@@ -4103,15 +4103,15 @@ De houder van een merk kan het gebruik van een teken alleen verbieden voor zover
 
 Een vordering tot nietigverklaring op basis van een ouder merk moet op de datum van de vordering tot nietigverklaring worden afgewezen indien zij op de datum van indiening of voorrang van het jongere merk niet zou zijn geslaagd om een van de volgende redenen:
 
-- a. het oudere merk, dat nietig kan worden verklaard krachtens [artikel 2.2bis, lid 1, sub b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01), had nog geen onderscheidend vermogen verkregen als bedoeld in artikel 2.2bis, lid 3;
+- a. het oudere merk, dat nietig kan worden verklaard krachtens [artikel 2.2bis, lid 1, sub b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01), had nog geen onderscheidend vermogen verkregen als bedoeld in artikel 2.2bis, lid 3;
 
-- b. de vordering tot nietigverklaring is gebaseerd op [artikel 2.2ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), en het oudere merk had nog niet voldoende onderscheidend vermogen verkregen om de conclusie te staven dat er verwarring kon ontstaan in de zin van artikel 2.2ter, lid 1, sub b;
+- b. de vordering tot nietigverklaring is gebaseerd op [artikel 2.2ter, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), en het oudere merk had nog niet voldoende onderscheidend vermogen verkregen om de conclusie te staven dat er verwarring kon ontstaan in de zin van artikel 2.2ter, lid 1, sub b;
 
-- c. de vordering tot nietigverklaring is gebaseerd op [artikel 2.2ter, lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), en het oudere merk was nog niet voldoende bekend in de zin van artikel 2.2ter, lid 3, sub a.
+- c. de vordering tot nietigverklaring is gebaseerd op [artikel 2.2ter, lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), en het oudere merk was nog niet voldoende bekend in de zin van artikel 2.2ter, lid 3, sub a.
 
 ##### Artikel 2.30septies. Voorkoming van nietigverklaring wegens gedogen
 
-1. De houder van een ouder merk als bedoeld in [artikel 2.2ter, lid 2 of lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), die het gebruik van een ingeschreven jonger merk bewust heeft gedoogd gedurende vijf opeenvolgende jaren, kan niet langer op grond van het oudere merk vorderen dat het jongere merk nietig wordt verklaard voor de waren of diensten waarvoor dat jongere merk is gebruikt, tenzij het jongere merk te kwader trouw is gedeponeerd.
+1. De houder van een ouder merk als bedoeld in [artikel 2.2ter, lid 2 of lid 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), die het gebruik van een ingeschreven jonger merk bewust heeft gedoogd gedurende vijf opeenvolgende jaren, kan niet langer op grond van het oudere merk vorderen dat het jongere merk nietig wordt verklaard voor de waren of diensten waarvoor dat jongere merk is gebruikt, tenzij het jongere merk te kwader trouw is gedeponeerd.
 
 2. In het in lid 1 bedoelde geval kan de houder van een later ingeschreven merk geen bezwaar maken tegen het gebruik van het oudere recht, ofschoon dat recht niet langer aan het jongere merk kan worden tegengeworpen.
 
@@ -4149,7 +4149,7 @@ De artikelen 2.31 tot en met 2.33 zijn van toepassing op aanvragen om merken.
 
 1. Een collectief merk is een merk dat bij de aanvraag als zodanig wordt aangewezen en op grond waarvan de waren of diensten van de leden van de vereniging die merkhouder is, onderscheiden kunnen worden van de waren of diensten van andere ondernemingen. Verenigingen van fabrikanten, producenten, dienstverrichters of handelaren die overeenkomstig het toepasselijke recht bevoegd zijn om in eigen naam drager te zijn van rechten en verplichtingen, overeenkomsten aan te gaan of andere rechtshandelingen te verrichten, en in rechte op te treden, alsmede publiekrechtelijke rechtspersonen, kunnen collectieve merken aanvragen.
 
-2. In afwijking van [artikel 2.2bis, lid 1, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01), kunnen tekens of benamingen die in de handel kunnen dienen tot aanduiding van de plaats van herkomst van de waren of diensten, collectieve merken vormen. Een dergelijk collectief merk verleent de merkhouder niet het recht om een derde te verbieden om in het economisch verkeer deze tekens of aanduidingen te gebruiken, mits die derde ze volgens de eerlijke gebruiken in nijverheid en handel gebruikt. Met name kan een dergelijk merk niet worden ingeroepen tegen een derde die gerechtigd is een geografische benaming te gebruiken.
+2. In afwijking van [artikel 2.2bis, lid 1, sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01), kunnen tekens of benamingen die in de handel kunnen dienen tot aanduiding van de plaats van herkomst van de waren of diensten, collectieve merken vormen. Een dergelijk collectief merk verleent de merkhouder niet het recht om een derde te verbieden om in het economisch verkeer deze tekens of aanduidingen te gebruiken, mits die derde ze volgens de eerlijke gebruiken in nijverheid en handel gebruikt. Met name kan een dergelijk merk niet worden ingeroepen tegen een derde die gerechtigd is een geografische benaming te gebruiken.
 
 3. Collectieve merken zijn onderworpen aan alle bepalingen van dit verdrag die betrekking hebben op merken, tenzij in dit hoofdstuk anders is bepaald.
 
@@ -4159,11 +4159,11 @@ De artikelen 2.31 tot en met 2.33 zijn van toepassing op aanvragen om merken.
 
 2. Indien het evenwel gaat om een internationale aanvraag kan de aanvrager dit reglement nog indienen gedurende een termijn van zes maanden te rekenen vanaf de in [artikel 3, sub (4), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3) en het [Protocol van Madrid](onbekend) bedoelde kennisgeving van de internationale inschrijving.
 
-3. Het reglement bepaalt ten minste welke personen het merk mogen gebruiken, onder welke voorwaarden iemand tot de vereniging behoort en onder welke voorwaarden, met inbegrip van sancties, het merk kan worden gebruikt. Het reglement van een in [artikel 2.34bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34bis&z=2019-03-01&g=2019-03-01), bedoeld merk stelt het lidmaatschap van de vereniging die houder is van dat merk, open voor eenieder wiens waren of diensten uit het betrokken geografische gebied afkomstig zijn, mits hij aan alle andere voorwaarden van het reglement voldoet.
+3. Het reglement bepaalt ten minste welke personen het merk mogen gebruiken, onder welke voorwaarden iemand tot de vereniging behoort en onder welke voorwaarden, met inbegrip van sancties, het merk kan worden gebruikt. Het reglement van een in [artikel 2.34bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34bis&z=2020-01-01&g=2020-01-01), bedoeld merk stelt het lidmaatschap van de vereniging die houder is van dat merk, open voor eenieder wiens waren of diensten uit het betrokken geografische gebied afkomstig zijn, mits hij aan alle andere voorwaarden van het reglement voldoet.
 
 ##### Artikel 2.34quater. Afwijzing van een aanvraag
 
-1. Naast de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01) bepaalde weigeringsgronden, met uitzondering van artikel 2.2bis, lid 1, sub c, met betrekking tot tekens of benamingen die in de handel tot aanduiding van de plaats van herkomst van de waren of diensten kunnen dienen, wordt een aanvraag om een collectief merk afgewezen indien niet is voldaan aan de bepalingen van [artikel 2.34bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34bis&z=2019-03-01&g=2019-03-01) of [2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2019-03-01&g=2019-03-01) of indien het reglement voor dat collectief merk strijdig is met de openbare orde of de goede zeden.
+1. Naast de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01) bepaalde weigeringsgronden, met uitzondering van artikel 2.2bis, lid 1, sub c, met betrekking tot tekens of benamingen die in de handel tot aanduiding van de plaats van herkomst van de waren of diensten kunnen dienen, wordt een aanvraag om een collectief merk afgewezen indien niet is voldaan aan de bepalingen van [artikel 2.34bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34bis&z=2020-01-01&g=2020-01-01) of [2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2020-01-01&g=2020-01-01) of indien het reglement voor dat collectief merk strijdig is met de openbare orde of de goede zeden.
 
 2. Een aanvraag om een collectief merk wordt eveneens afgewezen wanneer het publiek kan worden misleid inzake de aard of betekenis van het merk, met name wanneer het de indruk kan wekken iets anders te zijn dan een collectief merk.
 
@@ -4171,35 +4171,35 @@ De artikelen 2.31 tot en met 2.33 zijn van toepassing op aanvragen om merken.
 
 ##### Artikel 2.34quinquies. Gebruik van collectieve merken
 
-Aan de vereisten van [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) wordt voldaan wanneer van een collectief merk overeenkomstig dat artikel normaal gebruik wordt gemaakt door iemand die daartoe bevoegd is.
+Aan de vereisten van [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) wordt voldaan wanneer van een collectief merk overeenkomstig dat artikel normaal gebruik wordt gemaakt door iemand die daartoe bevoegd is.
 
 ##### Artikel 2.34sexies. Wijzigingen van het reglement inzake het gebruik van het collectieve merk
 
 1. De houder van het collectieve merk legt het Bureau elke wijziging van het reglement voor.
 
-2. Wijzigingen van het reglement worden in het register vermeld tenzij het gewijzigde reglement niet voldoet aan [artikel 2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2019-03-01&g=2019-03-01) of een in [artikel 2.34quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2019-03-01&g=2019-03-01) vermelde weigeringsgrond doet ontstaan.
+2. Wijzigingen van het reglement worden in het register vermeld tenzij het gewijzigde reglement niet voldoet aan [artikel 2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2020-01-01&g=2020-01-01) of een in [artikel 2.34quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2020-01-01&g=2020-01-01) vermelde weigeringsgrond doet ontstaan.
 
 3. Voor de toepassing van dit verdrag worden wijzigingen van het reglement pas van kracht vanaf de datum waarop die wijzigingen in het register worden vermeld.
 
 ##### Artikel 2.34septies. Personen die bevoegd zijn een vordering wegens inbreuk in te stellen
 
-1. [Artikel 2.32, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32&z=2019-03-01&g=2019-03-01), is van toepassing op eenieder die bevoegd is een collectief merk te gebruiken.
+1. [Artikel 2.32, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32&z=2020-01-01&g=2020-01-01), is van toepassing op eenieder die bevoegd is een collectief merk te gebruiken.
 
 2. De houder van een collectief merk kan vergoeding eisen namens de personen die bevoegd zijn het merk te gebruiken, indien deze personen schade hebben geleden door onrechtmatig gebruik van het merk.
 
 ##### Artikel 2.34octies. Aanvullende gronden voor vervallenverklaring
 
-In aanvulling op de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01) vermelde gronden worden de rechten van de houder van een collectief merk vervallen verklaard op de volgende gronden:
+In aanvulling op de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01) vermelde gronden worden de rechten van de houder van een collectief merk vervallen verklaard op de volgende gronden:
 
 - a. de merkhouder neemt geen redelijke maatregelen om te voorkomen dat het merk wordt gebruikt op een wijze die niet verenigbaar is met de voorwaarden van het reglement, met inbegrip van in het register vermelde wijzigingen daarvan;
 
-- b. het publiek kan worden misleid in de zin van [artikel 2.34quater, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2019-03-01&g=2019-03-01), door de wijze waarop bevoegde personen het merk hebben gebruikt;
+- b. het publiek kan worden misleid in de zin van [artikel 2.34quater, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2020-01-01&g=2020-01-01), door de wijze waarop bevoegde personen het merk hebben gebruikt;
 
-- c. een wijziging van het reglement is, in strijd met [artikel 2.34sexies, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34sexies&z=2019-03-01&g=2019-03-01), in het register vermeld, tenzij de merkhouder door een nieuwe wijziging van het reglement voldoet aan de in dat artikel gestelde eisen.
+- c. een wijziging van het reglement is, in strijd met [artikel 2.34sexies, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34sexies&z=2020-01-01&g=2020-01-01), in het register vermeld, tenzij de merkhouder door een nieuwe wijziging van het reglement voldoet aan de in dat artikel gestelde eisen.
 
 ##### Artikel 2.34nonies. Aanvullende gronden voor nietigverklaring
 
-In aanvulling op de gronden voor nietigverklaring in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01), met uitzondering van artikel 2.2bis, lid 1, sub c, betreffende tekens of benamingen die in de handel kunnen dienen tot aanduiding van de plaats van herkomst van de waren of diensten, en in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01), wordt een collectief merk nietig verklaard indien het in strijd met [artikel 2.34quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2019-03-01&g=2019-03-01) is ingeschreven, tenzij de merkhouder door een wijziging van het reglement voldoet aan de in artikel 2.34quater gestelde eisen.
+In aanvulling op de gronden voor nietigverklaring in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01), met uitzondering van artikel 2.2bis, lid 1, sub c, betreffende tekens of benamingen die in de handel kunnen dienen tot aanduiding van de plaats van herkomst van de waren of diensten, en in [artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01), wordt een collectief merk nietig verklaard indien het in strijd met [artikel 2.34quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34quater&z=2020-01-01&g=2020-01-01) is ingeschreven, tenzij de merkhouder door een wijziging van het reglement voldoet aan de in artikel 2.34quater gestelde eisen.
 
 ### Hoofdstuk 8bis. Certificeringsmerken
 
@@ -4221,7 +4221,7 @@ In aanvulling op de gronden voor nietigverklaring in [artikel 2.2bis](https://we
 
 ##### Artikel 2.35quater. Afwijzing van de aanvraag
 
-1. Naast de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01) bepaalde weigeringsgronden wordt de aanvraag voor een certificeringsmerk afgewezen wanneer niet aan de in de [artikelen 2.35bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2019-03-01&g=2019-03-01) en [2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01) gestelde voorwaarden is voldaan of wanneer het gebruiksreglement strijdig is met de openbare orde of de goede zeden.
+1. Naast de in [artikel 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01) bepaalde weigeringsgronden wordt de aanvraag voor een certificeringsmerk afgewezen wanneer niet aan de in de [artikelen 2.35bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2020-01-01&g=2020-01-01) en [2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01) gestelde voorwaarden is voldaan of wanneer het gebruiksreglement strijdig is met de openbare orde of de goede zeden.
 
 2. Een aanvraag voor een certificeringsmerk wordt eveneens afgewezen wanneer het publiek kan worden misleid over de aard of betekenis van het merk, in het bijzonder wanneer het de indruk kan wekken iets anders te zijn dan een certificeringsmerk.
 
@@ -4229,19 +4229,19 @@ In aanvulling op de gronden voor nietigverklaring in [artikel 2.2bis](https://we
 
 ##### Artikel 2.35quinquies. Gebruik van het certificeringsmerk
 
-Aan de vereisten van [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) wordt voldaan wanneer van een certificeringsmerk overeenkomstig dat artikel normaal gebruik wordt gemaakt door iemand die daartoe overeenkomstig het in [artikel 2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01) bedoelde gebruiksreglement bevoegd is.
+Aan de vereisten van [artikel 2.23bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) wordt voldaan wanneer van een certificeringsmerk overeenkomstig dat artikel normaal gebruik wordt gemaakt door iemand die daartoe overeenkomstig het in [artikel 2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01) bedoelde gebruiksreglement bevoegd is.
 
 ##### Artikel 2.35sexies. Wijziging van het reglement voor gebruik van het merk
 
 1. De houder van het certificeringsmerk legt elke wijziging van het gebruiksreglement voor aan het Bureau.
 
-2. Wijzigingen van het reglement worden in het register vermeld tenzij het gewijzigde reglement niet voldoet aan [artikel 2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01) of een in [artikel 2.35quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2019-03-01&g=2019-03-01) vermelde weigeringsgrond doet ontstaan.
+2. Wijzigingen van het reglement worden in het register vermeld tenzij het gewijzigde reglement niet voldoet aan [artikel 2.35ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01) of een in [artikel 2.35quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2020-01-01&g=2020-01-01) vermelde weigeringsgrond doet ontstaan.
 
 3. Voor de toepassing van dit verdrag worden wijzigingen van het gebruiksreglement pas van kracht vanaf de datum waarop de wijziging in het register wordt vermeld.
 
 ##### Artikel 2.35septies. Overgang
 
-In afwijking van [artikel 2.31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.31&z=2019-03-01&g=2019-03-01), kan een certificeringsmerk alleen overgaan op een persoon die voldoet aan de vereisten van [artikel 2.35bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2019-03-01&g=2019-03-01).
+In afwijking van [artikel 2.31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.31&z=2020-01-01&g=2020-01-01), kan een certificeringsmerk alleen overgaan op een persoon die voldoet aan de vereisten van [artikel 2.35bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 2.35octies. Personen die een vordering wegens inbreuk kunnen instellen
 
@@ -4251,19 +4251,19 @@ In afwijking van [artikel 2.31, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 ##### Artikel 2.35nonies. Aanvullende gronden voor vervallenverklaring
 
-In aanvulling op de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2019-03-01&g=2019-03-01) vermelde gronden worden de rechten van de houder van een certificeringsmerk vervallen verklaard op de volgende gronden:
+In aanvulling op de in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=6&artikel=2.27&z=2020-01-01&g=2020-01-01) vermelde gronden worden de rechten van de houder van een certificeringsmerk vervallen verklaard op de volgende gronden:
 
-- a. de houder voldoet niet langer aan de vereisten van [artikel 2.35bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2019-03-01&g=2019-03-01);
+- a. de houder voldoet niet langer aan de vereisten van [artikel 2.35bis, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35bis&z=2020-01-01&g=2020-01-01);
 
 - b. de houder neemt geen redelijke maatregelen om te voorkomen dat het merk wordt gebruikt op een wijze die niet verenigbaar is met de voorwaarden van het gebruiksreglement, met inbegrip van in het register vermelde wijzigingen daarvan;
 
-- c. het publiek kan worden misleid in de zin van [artikel 2.35quater, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2019-03-01&g=2019-03-01), door de wijze waarop de merkhouder het merk heeft gebruikt;
+- c. het publiek kan worden misleid in de zin van [artikel 2.35quater, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2020-01-01&g=2020-01-01), door de wijze waarop de merkhouder het merk heeft gebruikt;
 
-- d. een wijziging van het gebruiksreglement is, in strijd met [artikel 2.35sexies, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35sexies&z=2019-03-01&g=2019-03-01), in het register vermeld, tenzij de merkhouder door een nieuwe wijziging van het gebruiksreglement voldoet aan de in dat artikel gestelde eisen.
+- d. een wijziging van het gebruiksreglement is, in strijd met [artikel 2.35sexies, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35sexies&z=2020-01-01&g=2020-01-01), in het register vermeld, tenzij de merkhouder door een nieuwe wijziging van het gebruiksreglement voldoet aan de in dat artikel gestelde eisen.
 
 ##### Artikel 2.35decies. Aanvullende gronden voor nietigverklaring
 
-In aanvulling op de in de [artikelen 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2019-03-01&g=2019-03-01)[artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2019-03-01&g=2019-03-01) bedoelde gronden voor nietigverklaring wordt een certificeringsmerk dat in strijd met [artikel 2.35quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2019-03-01&g=2019-03-01) is ingeschreven nietig verklaard, tenzij de merkhouder door een wijziging van het gebruiksreglement voldoet aan de vereisten van artikel 2.35quater.
+In aanvulling op de in de [artikelen 2.2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2bis&z=2020-01-01&g=2020-01-01)[artikel 2.2ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.2ter&z=2020-01-01&g=2020-01-01) bedoelde gronden voor nietigverklaring wordt een certificeringsmerk dat in strijd met [artikel 2.35quater](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35quater&z=2020-01-01&g=2020-01-01) is ingeschreven nietig verklaard, tenzij de merkhouder door een wijziging van het gebruiksreglement voldoet aan de vereisten van artikel 2.35quater.
 
 ## TITEL III. TEKENINGEN OF MODELLEN
 
@@ -4301,15 +4301,15 @@ In aanvulling op de in de [artikelen 2.2bis](https://wetten.overheid.nl/jci1.3:c
 
 ## TITEL VI. SLOTBEPALINGEN
 
-De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2019-03-01&g=2019-03-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
+De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2020-01-01&g=2020-01-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
 
 Zijn het volgende overeengekomen:
 
 De Raad van Bestuur van het Benelux-Bureau voor de Intellectuele Eigendom (merken en tekeningen of modellen),
 
-Gelet op zijn bevoegdheid ex [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2019-03-01&g=2019-03-01), van het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) (BVIE),
+Gelet op zijn bevoegdheid ex [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2020-01-01&g=2020-01-01), van het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) (BVIE),
 
-Overeenkomstig het voorstel van de Directeur-Generaal ex [artikel 1.11, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.11&z=2019-03-01&g=2019-03-01) BVIE,
+Overeenkomstig het voorstel van de Directeur-Generaal ex [artikel 1.11, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.11&z=2020-01-01&g=2020-01-01) BVIE,
 
 Verlangend in het uitvoeringsreglement op een aantal punten wijzigingen aan te brengen, met name verband houdende met het Protocol van 11 december 2017 houdende wijziging van het BVIE, in verband met de implementatie van Richtlijn (EU) 2015/2436,
 
@@ -4325,11 +4325,11 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 - a. naam en adres van de aanvrager; indien aanvrager een rechtspersoon is onder vermelding van zijn rechtsvorm;
 
-- b. in voorkomend geval, naam en adres van de gemachtigde, of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) bedoelde correspondentieadres;
+- b. in voorkomend geval, naam en adres van de gemachtigde, of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) bedoelde correspondentieadres;
 
-- c. de weergave van het merk overeenkomstig [artikel 2.1, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2019-03-01&g=2019-03-01);
+- c. de weergave van het merk overeenkomstig [artikel 2.1, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.1&z=2020-01-01&g=2020-01-01);
 
-- d. de opgave van de waren en diensten, waarvoor het merk is bestemd, overeenkomstig [artikel 2.5bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2019-03-01&g=2019-03-01);
+- d. de opgave van de waren en diensten, waarvoor het merk is bestemd, overeenkomstig [artikel 2.5bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2020-01-01&g=2020-01-01);
 
 - e. de aanduiding of het merk een woordmerk, een beeldmerk, een gecombineerd woord-beeldmerk, een vormmerk dan wel een ander type merk is. In dit laatste geval dient eveneens te worden aangeduid welk type merk het betreft;
 
@@ -4339,33 +4339,33 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 2. Er kan een beschrijving in niet meer dan vijftig woorden van de onderscheidende elementen van het merk worden vermeld.
 
-3. De in lid 1, sub c, bedoelde weergave van het merk dient te voldoen aan de overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2019-03-01&g=2019-03-01) vastgestelde nadere regels van de Directeur-Generaal voor het indienen van stukken.
+3. De in lid 1, sub c, bedoelde weergave van het merk dient te voldoen aan de overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2020-01-01&g=2020-01-01) vastgestelde nadere regels van de Directeur-Generaal voor het indienen van stukken.
 
 ##### Regel 1.2. Collectieve merken en certificeringsmerken
 
 1. Bij de aanvraag dient in voorkomend geval te worden vermeld dat het een collectief merk of een certificeringsmerk betreft.
 
-2. In dat geval dient de aanvraag vergezeld te gaan van een reglement inzake het gebruik overeenkomstig [artikel 2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2019-03-01&g=2019-03-01) of [2.35ter BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01).
+2. In dat geval dient de aanvraag vergezeld te gaan van een reglement inzake het gebruik overeenkomstig [artikel 2.34ter](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2020-01-01&g=2020-01-01) of [2.35ter BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 1.3. Vaststellen depotdatum; Regularisatie
 
-1. De in [artikel 2.5, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01) bedoelde vereisten voor het vaststellen van een depotdatum, zijn die vermeld in [regel 1.1, lid 1, sub a, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.1&z=2019-03-01&g=2019-03-01), en in [regel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.2&z=2019-03-01&g=2019-03-01), behoudens betaling van de basistaksen verschuldigd voor de aanvraag binnen een termijn van een maand nadat aan voornoemde vereisten is voldaan.
+1. De in [artikel 2.5, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01) bedoelde vereisten voor het vaststellen van een depotdatum, zijn die vermeld in [regel 1.1, lid 1, sub a, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.1&z=2020-01-01&g=2020-01-01), en in [regel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.2&z=2020-01-01&g=2020-01-01), behoudens betaling van de basistaksen verschuldigd voor de aanvraag binnen een termijn van een maand nadat aan voornoemde vereisten is voldaan.
 
-2. Er wordt een termijn van minimaal een maand toegekend om aan de overige vereisten als bedoeld in [artikel 2.5, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01) te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
+2. Er wordt een termijn van minimaal een maand toegekend om aan de overige vereisten als bedoeld in [artikel 2.5, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01) te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
 
 ##### Regel 1.4. Prioriteit
 
-1. Indien bij de aanvraag een beroep wordt gedaan op het recht van voorrang, als bedoeld in [artikel 2.6 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2019-03-01&g=2019-03-01), dienen het land, de datum, het nummer en de houder van de aanvraag, waarop het recht van voorrang berust, te worden vermeld. Indien de aanvrager van het merk in het land van oorsprong niet degene is, die de Benelux-aanvraag verricht, dan moet de laatstgenoemde aan zijn aanvraag een document toevoegen, waaruit zijn rechten blijken.
+1. Indien bij de aanvraag een beroep wordt gedaan op het recht van voorrang, als bedoeld in [artikel 2.6 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2020-01-01&g=2020-01-01), dienen het land, de datum, het nummer en de houder van de aanvraag, waarop het recht van voorrang berust, te worden vermeld. Indien de aanvrager van het merk in het land van oorsprong niet degene is, die de Benelux-aanvraag verricht, dan moet de laatstgenoemde aan zijn aanvraag een document toevoegen, waaruit zijn rechten blijken.
 
-2. De bijzondere verklaring betreffende het recht van voorrang, als bedoeld in [artikel 2.6, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2019-03-01&g=2019-03-01), dient te bevatten: de naam en het adres van de aanvrager, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), een aanduiding van het merk, alsmede de in lid 1 bedoelde gegevens.
+2. De bijzondere verklaring betreffende het recht van voorrang, als bedoeld in [artikel 2.6, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2020-01-01&g=2020-01-01), dient te bevatten: de naam en het adres van de aanvrager, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), een aanduiding van het merk, alsmede de in lid 1 bedoelde gegevens.
 
 3. De aanvrager die zich op een recht van voorrang beroept dient indien het Bureau daarom verzoekt een afschrift van de documenten die dit recht van voorrang staven over te leggen.
 
-4. Indien niet is voldaan aan het bepaalde in lid 1, 2 en 3 en in de [regels 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2019-03-01&g=2019-03-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), stelt het Bureau de betrokkene onverwijld daarvan in kennis en geeft hem een termijn van tenminste een maand om hieraan alsnog te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Het uitblijven van een tijdige reactie leidt tot verval van het recht van voorrang.
+4. Indien niet is voldaan aan het bepaalde in lid 1, 2 en 3 en in de [regels 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2020-01-01&g=2020-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), stelt het Bureau de betrokkene onverwijld daarvan in kennis en geeft hem een termijn van tenminste een maand om hieraan alsnog te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Het uitblijven van een tijdige reactie leidt tot verval van het recht van voorrang.
 
 ##### Regel 1.5. Publicatie aanvraag
 
-1. Het Bureau publiceert, conform het bepaalde in [artikel 2.5, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01), de ingediende aanvragen en vermeldt:
+1. Het Bureau publiceert, conform het bepaalde in [artikel 2.5, lid 5, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01), de ingediende aanvragen en vermeldt:
 
 - a. de datum en het nummer van de aanvraag;
 
@@ -4375,7 +4375,7 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 - d. de weergave van het merk;
 
-- e. de waren en diensten, overeenkomstig [artikel 2.5bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01);
+- e. de waren en diensten, overeenkomstig [artikel 2.5bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01);
 
 - f. het type merk;
 
@@ -4387,7 +4387,7 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 - j. in voorkomend geval de code of codes van de kleur of kleuren van het merk;
 
-- k. in voorkomend geval dat er, overeenkomstig [artikel 2.6, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2019-03-01&g=2019-03-01) een recht van voorrang werd ingeroepen, onder vermelding van datum, nummer en land van dit recht van voorrang. Daarbij wordt in voorkomend geval vermeld dat nog niet werd voldaan aan het vereiste van [regel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2019-03-01&g=2019-03-01);
+- k. in voorkomend geval dat er, overeenkomstig [artikel 2.6, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.6&z=2020-01-01&g=2020-01-01) een recht van voorrang werd ingeroepen, onder vermelding van datum, nummer en land van dit recht van voorrang. Daarbij wordt in voorkomend geval vermeld dat nog niet werd voldaan aan het vereiste van [regel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2020-01-01&g=2020-01-01);
 
 - l. de datum waarop de termijn voor het instellen van een oppositie tegen het merk verstrijkt.
 
@@ -4401,39 +4401,39 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 - a. het nummer van de inschrijving;
 
-- b. de in [regel 1.5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2019-03-01&g=2019-03-01), bedoelde gegevens;
+- b. de in [regel 1.5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2020-01-01&g=2020-01-01), bedoelde gegevens;
 
 - c. de datum waarop de geldigheidsduur van de inschrijving verstrijkt;
 
 - d. de datum van inschrijving van het merk.
 
-2. Het Bureau geeft onverwijld uitvoering aan de in [artikel 1.15bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2019-03-01&g=2019-03-01) bedoelde beslissingen van het Benelux-Gerechtshof, zodra zij niet meer vatbaar zijn voor enig rechtsmiddel.
+2. Het Bureau geeft onverwijld uitvoering aan de in [artikel 1.15bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.15bis&z=2020-01-01&g=2020-01-01) bedoelde beslissingen van het Benelux-Gerechtshof, zodra zij niet meer vatbaar zijn voor enig rechtsmiddel.
 
 3. Als datum van inschrijving geldt de dag waarop het Bureau vaststelt dat de aanvraag voldoet aan alle in het BVIE en het onderhavige reglement gestelde vereisten voor inschrijving van het merk.
 
 ##### Regel 1.7. Spoedinschrijving
 
-1. Het in [artikel 2.8, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2019-03-01&g=2019-03-01) bedoelde verzoek om onverwijld tot inschrijving van de aanvraag over te gaan kan bij de aanvraag of gedurende de inschrijvingsprocedure worden gedaan.
+1. Het in [artikel 2.8, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.8&z=2020-01-01&g=2020-01-01) bedoelde verzoek om onverwijld tot inschrijving van de aanvraag over te gaan kan bij de aanvraag of gedurende de inschrijvingsprocedure worden gedaan.
 
-2. Het Bureau publiceert deze inschrijvingen, onder vermelding van de in [regel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.6&z=2019-03-01&g=2019-03-01) genoemde gegevens.
+2. Het Bureau publiceert deze inschrijvingen, onder vermelding van de in [regel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.6&z=2020-01-01&g=2020-01-01) genoemde gegevens.
 
-3. In voorkomend geval wordt bij de in lid 2 bedoelde publicatie de datum vermeld waarop de termijn voor het instellen van oppositie tegen het merk verstrijkt. De [leden 2 en 3 van regel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2019-03-01&g=2019-03-01) zijn van overeenkomstige toepassing.
+3. In voorkomend geval wordt bij de in lid 2 bedoelde publicatie de datum vermeld waarop de termijn voor het instellen van oppositie tegen het merk verstrijkt. De [leden 2 en 3 van regel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing.
 
-4. Het Bureau publiceert zijn besluiten om over te gaan tot doorhaling van de inschrijving ingevolge het bepaalde in [artikel 2.8, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.8&z=2019-03-01&g=2019-03-01). Deze publicatie vindt eerst plaats nadat het besluit tot doorhaling niet langer vatbaar is voor enig rechtsmiddel.
+4. Het Bureau publiceert zijn besluiten om over te gaan tot doorhaling van de inschrijving ingevolge het bepaalde in [artikel 2.8, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.8&z=2020-01-01&g=2020-01-01). Deze publicatie vindt eerst plaats nadat het besluit tot doorhaling niet langer vatbaar is voor enig rechtsmiddel.
 
-5. In voorkomend geval publiceert het Bureau de in [artikel 2.23bis, leden 2 en 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) bedoelde aanvangsdatum van de gebruiksplicht.
+5. In voorkomend geval publiceert het Bureau de in [artikel 2.23bis, leden 2 en 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) bedoelde aanvangsdatum van de gebruiksplicht.
 
 ##### Regel 1.8. Internationale aanvraag met aanduiding van de Benelux
 
 1. Als datum van inschrijving van internationale aanvragen van merken waarbij de Benelux wordt aangeduid geldt de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring van verlening van bescherming.
 
-2. Indien het Bureau het Internationaal Bureau een kennisgeving op basis van [artikel 2.5bis, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2019-03-01&g=2019-03-01), [2.13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2019-03-01&g=2019-03-01), [2.18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2019-03-01&g=2019-03-01), [2.34ter, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2019-03-01&g=2019-03-01), of [2.35ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01) heeft toegezonden geldt als datum van inschrijving de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring van opheffing van de bezwaren tegen de inschrijving als bedoeld in voornoemde artikelen. Indien er verschillende bezwaren van toepassing zijn geweest en indien deze op verschillende tijdstippen werden opgeheven geldt de datum van de laatste publicatie door het Internationaal Bureau van een door het Bureau toegestuurde verklaring van opheffing van een bezwaar als datum van inschrijving.
+2. Indien het Bureau het Internationaal Bureau een kennisgeving op basis van [artikel 2.5bis, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5bis&z=2020-01-01&g=2020-01-01), [2.13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2020-01-01&g=2020-01-01), [2.18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2020-01-01&g=2020-01-01), [2.34ter, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2020-01-01&g=2020-01-01), of [2.35ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01) heeft toegezonden geldt als datum van inschrijving de datum van de publicatie door het Internationaal Bureau van de door het Bureau verzonden verklaring van opheffing van de bezwaren tegen de inschrijving als bedoeld in voornoemde artikelen. Indien er verschillende bezwaren van toepassing zijn geweest en indien deze op verschillende tijdstippen werden opgeheven geldt de datum van de laatste publicatie door het Internationaal Bureau van een door het Bureau toegestuurde verklaring van opheffing van een bezwaar als datum van inschrijving.
 
-3. In uitzondering op het in de leden 1 en 2 bepaalde geldt, indien de houder van de internationale aanvraag het Bureau verzoekt om ingevolge [artikel 2.10, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2019-03-01&g=2019-03-01) zijn aanvraag onverwijld in te schrijven, de dag waarop het verzoek tot inschrijving aan het Bureau werd gedaan als datum van inschrijving. Het Bureau publiceert deze. De in [artikel 2.23bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2019-03-01&g=2019-03-01) bedoelde aanvangsdatum van de gebruiksplicht wordt evenwel bepaald conform de leden 1 en 2.
+3. In uitzondering op het in de leden 1 en 2 bepaalde geldt, indien de houder van de internationale aanvraag het Bureau verzoekt om ingevolge [artikel 2.10, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2020-01-01&g=2020-01-01) zijn aanvraag onverwijld in te schrijven, de dag waarop het verzoek tot inschrijving aan het Bureau werd gedaan als datum van inschrijving. Het Bureau publiceert deze. De in [artikel 2.23bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=5&artikel=2.23bis&z=2020-01-01&g=2020-01-01) bedoelde aanvangsdatum van de gebruiksplicht wordt evenwel bepaald conform de leden 1 en 2.
 
 ##### Regel 1.9. Vernieuwing
 
-1. Gedeeltelijke vernieuwing conform [artikel 2.9, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.9&z=2019-03-01&g=2019-03-01) is uitsluitend mogelijk per klasse. De aanvrager dient in dat geval de nummers te vermelden van de klasse of klassen waarvoor hij de vernieuwing wenst.
+1. Gedeeltelijke vernieuwing conform [artikel 2.9, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.9&z=2020-01-01&g=2020-01-01) is uitsluitend mogelijk per klasse. De aanvrager dient in dat geval de nummers te vermelden van de klasse of klassen waarvoor hij de vernieuwing wenst.
 
 2. Het Bureau schrijft de vernieuwing in door aanpassing van de datum waarop de geldigheidsduur van de inschrijving verstrijkt.
 
@@ -4447,7 +4447,7 @@ Heeft tijdens zijn achtentwintigste vergadering op 5 en 6 juli 2018 besloten om 
 
 2. De aanvraag geschiedt door het indienen van een document, dat de aanduidingen bevat voorgeschreven in het gemeenschappelijk uitvoeringsreglement van de [Overeenkomst](onbekend) en het [Protocol van Madrid](onbekend), zo nodig met toevoeging van de stukken voorgeschreven in bedoeld uitvoeringsreglement.
 
-3. Ten aanzien van deze aanvragen en van verzoeken tot wijziging van de internationale inschrijving vinden de regels 3.1, [3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2019-03-01&g=2019-03-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.7&z=2019-03-01&g=2019-03-01) overeenkomstige toepassing.
+3. Ten aanzien van deze aanvragen en van verzoeken tot wijziging van de internationale inschrijving vinden de regels 3.1, [3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2020-01-01&g=2020-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.7&z=2020-01-01&g=2020-01-01) overeenkomstige toepassing.
 
 4. Bij deze aanvragen en verzoeken dient betaling van de ingevolge de [Overeenkomst](onbekend) en het [Protocol van Madrid](onbekend) verschuldigde taksen te worden verricht, voor zover deze niet rechtstreeks aan het Internationaal Bureau worden voldaan, alsmede betaling van de bemiddelingstaks voor het Bureau, indien deze verschuldigd is.
 
@@ -4461,9 +4461,9 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 ##### Regel 1.12. Bezwaartermijn weigering
 
-1. De termijn bedoeld in [artikel 2.11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2019-03-01&g=2019-03-01), en [2.13, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2019-03-01&g=2019-03-01) om te antwoorden op de voorlopige weigering, bedraagt ten minste een maand; deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
+1. De termijn bedoeld in [artikel 2.11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2020-01-01&g=2020-01-01), en [2.13, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=3&artikel=2.13&z=2020-01-01&g=2020-01-01) om te antwoorden op de voorlopige weigering, bedraagt ten minste een maand; deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
 
-2. In voorkomend geval dient een aanvrager die zich tegen de voorlopige weigering verzet binnen de in lid 1 genoemde termijn eveneens te voldoen aan de vereisten van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.7&z=2019-03-01&g=2019-03-01).
+2. In voorkomend geval dient een aanvrager die zich tegen de voorlopige weigering verzet binnen de in lid 1 genoemde termijn eveneens te voldoen aan de vereisten van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.7&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 1.13. Oppositiegegevens
 
@@ -4475,9 +4475,9 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 - c. de waren of diensten waartegen de oppositie is gericht. Indien een dergelijke vermelding ontbreekt, wordt de oppositie verondersteld te zijn gericht tegen alle waren en diensten;
 
-- d. een aanduiding of de oppositie is gebaseerd op [artikel 2.14, lid 2, sub a, b of c, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01);
+- d. een aanduiding of de oppositie is gebaseerd op [artikel 2.14, lid 2, sub a, b of c, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01);
 
-- e. indien de oppositie is gebaseerd op een ouder merk of op een ouder recht in de zin van [artikel 2.14, lid 2, sub c, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), gegevens ter identificatie van het oudere merk of het oudere recht;
+- e. indien de oppositie is gebaseerd op een ouder merk of op een ouder recht in de zin van [artikel 2.14, lid 2, sub c, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), gegevens ter identificatie van het oudere merk of het oudere recht;
 
 - f. indien de oppositie is gebaseerd op een ouder merk, de waren of diensten van het ingeroepen oudere merk waarop de oppositie berust. Indien een dergelijke vermelding ontbreekt wordt de oppositie verondersteld te berusten op alle waren en diensten;
 
@@ -4487,21 +4487,21 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 2. In voorkomend geval dienen stukken te worden overgelegd die de bevoegdheid van de licentiehouder aantonen.
 
-3. Op het document dienen in voorkomend geval naam en adres van de gemachtigde of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) bedoelde correspondentieadres te worden vermeld.
+3. Op het document dienen in voorkomend geval naam en adres van de gemachtigde of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) bedoelde correspondentieadres te worden vermeld.
 
-4. De in lid 1, sub c en f, bedoelde gegevens kunnen door enkele opgave van de nummers van de betreffende waren- of dienstenklassen worden vermeld. De waren of diensten waarop de oppositie berust of waartegen deze is gericht kunnen tot het moment van de in [regel 1.14, lid 1, sub i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2019-03-01&g=2019-03-01), bedoelde beslissing door de opposant worden beperkt.
+4. De in lid 1, sub c en f, bedoelde gegevens kunnen door enkele opgave van de nummers van de betreffende waren- of dienstenklassen worden vermeld. De waren of diensten waarop de oppositie berust of waartegen deze is gericht kunnen tot het moment van de in [regel 1.14, lid 1, sub i](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2020-01-01&g=2020-01-01), bedoelde beslissing door de opposant worden beperkt.
 
 ##### Regel 1.14. Verloop procedure
 
 1. De oppositie wordt volgens de volgende procedure behandeld:
 
-- a. het Bureau beslist overeenkomstig [regel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2019-03-01&g=2019-03-01) of de oppositie ontvankelijk is en stelt partijen of, in het in [artikel 2.18 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2019-03-01&g=2019-03-01) bedoelde geval, de opposant en het Internationaal Bureau hiervan in kennis;
+- a. het Bureau beslist overeenkomstig [regel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2020-01-01&g=2020-01-01) of de oppositie ontvankelijk is en stelt partijen of, in het in [artikel 2.18 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2020-01-01&g=2020-01-01) bedoelde geval, de opposant en het Internationaal Bureau hiervan in kennis;
 
 - b. de procedure vangt twee maanden na de kennisgeving van ontvankelijkheid aan op voorwaarde dat de voor de oppositie verschuldigde taksen volledig zijn betaald. Het Bureau stuurt partijen een mededeling van aanvang van de procedure;
 
 - c. de opposant beschikt over een termijn van twee maanden vanaf de onder b bedoelde mededeling van aanvang van de procedure om de oppositie met argumenten en stukken ter ondersteuning daarvan te onderbouwen. Bij gebreke daarvan wordt de oppositie verder buiten behandeling gelaten. Argumenten die ingediend werden voor de aanvang van de procedure worden geacht bij de aanvang van de procedure te zijn ingediend;
 
-- d. het Bureau stuurt de argumenten van opposant naar de verweerder, en stelt hem een termijn van twee maanden om schriftelijk te reageren en eventueel bewijzen van gebruik van het oudere merk als bedoeld in [artikel 2.16bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2019-03-01&g=2019-03-01) te vragen;
+- d. het Bureau stuurt de argumenten van opposant naar de verweerder, en stelt hem een termijn van twee maanden om schriftelijk te reageren en eventueel bewijzen van gebruik van het oudere merk als bedoeld in [artikel 2.16bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2020-01-01&g=2020-01-01) te vragen;
 
 - e. in voorkomend geval wordt opposant een termijn van twee maanden gesteld om de gevraagde bewijzen van gebruik over te leggen dan wel te motiveren dat er een geldige reden voor niet-gebruik bestaat;
 
@@ -4509,33 +4509,33 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 - g. indien het Bureau daartoe gronden aanwezig acht kan het een of meer partijen verzoeken om binnen een daartoe gestelde termijn aanvullende argumenten of stukken in te dienen;
 
-- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.23&z=2019-03-01&g=2019-03-01);
+- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.23&z=2020-01-01&g=2020-01-01);
 
-- i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene gronden berust op basis van één van deze gronden wordt toegewezen, neemt het Bureau over de overige ingeroepen gronden, indien deze hetzelfde rechtsgevolg hebben, geen beslissing. Indien een op [artikel 2.14, lid 1, sub a, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01) gebaseerde oppositie die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen neemt het Bureau over de overige ingeroepen merken evenmin een beslissing.
+- i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene gronden berust op basis van één van deze gronden wordt toegewezen, neemt het Bureau over de overige ingeroepen gronden, indien deze hetzelfde rechtsgevolg hebben, geen beslissing. Indien een op [artikel 2.14, lid 1, sub a, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01) gebaseerde oppositie die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen neemt het Bureau over de overige ingeroepen merken evenmin een beslissing.
 
-2. Indien verweerder geen domicilie binnen de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01) te worden voldaan.
+2. Indien verweerder geen domicilie binnen de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01) te worden voldaan.
 
 ##### Regel 1.15. Ontvankelijkheidsvereisten
 
-1. De oppositie is ontvankelijk wanneer zij is ingediend binnen de in [artikel 2.14, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), of [2.18, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2019-03-01&g=2019-03-01)genoemde termijn, voldoet aan de voorwaarden bedoeld in [regel 1.13, lid 1, sub a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2019-03-01&g=2019-03-01), van dit reglement, en [artikel 2.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01).
+1. De oppositie is ontvankelijk wanneer zij is ingediend binnen de in [artikel 2.14, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), of [2.18, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2020-01-01&g=2020-01-01)genoemde termijn, voldoet aan de voorwaarden bedoeld in [regel 1.13, lid 1, sub a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2020-01-01&g=2020-01-01), van dit reglement, en [artikel 2.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01).
 
-2. Voor het vaststellen van de ontvankelijkheid van de oppositie is aan het vereiste van [artikel 2.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01) voldaan indien 40% van de verschuldigde taksen is voldaan.
+2. Voor het vaststellen van de ontvankelijkheid van de oppositie is aan het vereiste van [artikel 2.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01) voldaan indien 40% van de verschuldigde taksen is voldaan.
 
-3. Onverminderd het bepaalde in het vorige lid kan bij indiening de totale verschuldigde taks voor het indienen van de oppositie worden betaald. Het vorige lid laat onverlet dat de totale verschuldigde taks voor het einde van de termijn bepaald in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2019-03-01&g=2019-03-01), dient te zijn voldaan.
+3. Onverminderd het bepaalde in het vorige lid kan bij indiening de totale verschuldigde taks voor het indienen van de oppositie worden betaald. Het vorige lid laat onverlet dat de totale verschuldigde taks voor het einde van de termijn bepaald in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2020-01-01&g=2020-01-01), dient te zijn voldaan.
 
 4. Indien de oppositie is gebaseerd op meer oudere merken of rechten dan waarvoor de taksen zijn betaald, wordt de oppositie in behandeling genomen maar worden alleen de merken of rechten in aanmerking genomen waarvoor de taksen betaald zijn, volgens de volgorde zoals bij indiening van de oppositie vermeld.
 
-5. Indien de ingevolge [regel 1.13, lid 1, sub a en g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2019-03-01&g=2019-03-01), verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingeroepen ouder Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt. Wanneer het ingeroepen oudere merk een Uniemerk of een internationaal merk betreft, stelt het Bureau opposant een termijn van twee weken om aan te tonen dat hij het nodige heeft gedaan om het betreffende register in overeenstemming te brengen met de door hem bij indiening van de oppositie verstrekte gegevens.
+5. Indien de ingevolge [regel 1.13, lid 1, sub a en g](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2020-01-01&g=2020-01-01), verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingeroepen ouder Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt. Wanneer het ingeroepen oudere merk een Uniemerk of een internationaal merk betreft, stelt het Bureau opposant een termijn van twee weken om aan te tonen dat hij het nodige heeft gedaan om het betreffende register in overeenstemming te brengen met de door hem bij indiening van de oppositie verstrekte gegevens.
 
 6. Indien de geldigheid van een ingeroepen ouder merk verstrijkt voor het einde van de termijn voor het instellen van oppositie en dit merk ingevolge de toepasselijke wettelijke bepalingen nog kan worden vernieuwd, stelt het Bureau opposant een termijn van twee weken om dit merk alsnog te vernieuwen. Indien het betreffende oudere merk een Uniemerk of een internationaal merk is, stelt het Bureau een termijn van twee weken om aan te tonen dat het nodige is gedaan om het merk te vernieuwen.
 
 ##### Regel 1.16. Regularisatie oppositie
 
-1. Indien het Bureau vaststelt dat de akte van oppositie niet voldoet aan andere vereisten dan die bedoeld in [regel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2019-03-01&g=2019-03-01), doet hij hiervan mededeling aan de opposant en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt de oppositie verder buiten behandeling gelaten.
+1. Indien het Bureau vaststelt dat de akte van oppositie niet voldoet aan andere vereisten dan die bedoeld in [regel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2020-01-01&g=2020-01-01), doet hij hiervan mededeling aan de opposant en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt de oppositie verder buiten behandeling gelaten.
 
 2. Indien het Bureau vaststelt dat andere door partijen ingediende stukken dan bedoeld in lid 1 niet voldoen aan de in dit reglement bedoelde vereisten, doet hij hiervan mededeling aan de betreffende partij en stelt hem een termijn van twee maanden om de vastgestelde gebreken op te heffen. Indien deze gebreken niet tijdig worden opgeheven, wordt het betreffende stuk geacht niet te zijn ingediend.
 
-3. Indien op het moment van aanvang van de procedure, zoals bepaald in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2019-03-01&g=2019-03-01), de voor de oppositie verschuldigde taksen niet volledig zijn voldaan, stelt het Bureau opposant een termijn van een maand om deze alsnog te betalen. Bij gebreke daarvan wordt de oppositie verder buiten behandeling gelaten.
+3. Indien op het moment van aanvang van de procedure, zoals bepaald in [regel 1.14, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.14&z=2020-01-01&g=2020-01-01), de voor de oppositie verschuldigde taksen niet volledig zijn voldaan, stelt het Bureau opposant een termijn van een maand om deze alsnog te betalen. Bij gebreke daarvan wordt de oppositie verder buiten behandeling gelaten.
 
 ### HOOFDSTUK 4. PROCEDURE TOT NIETIGVERKLARING OF VERVALLENVERKLARING BIJ HET BUREAU
 
@@ -4563,33 +4563,33 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 - b. de naam van de werkelijke ontwerper van de tekening of het model;
 
-- c. een verzoek om opschorting van de publicatie van de inschrijving, als bedoeld in [regel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2019-03-01&g=2019-03-01).
+- c. een verzoek om opschorting van de publicatie van de inschrijving, als bedoeld in [regel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.5&z=2020-01-01&g=2020-01-01).
 
-3. In voorkomend geval dienen naam en adres van de gemachtigde, of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2019-03-01&g=2019-03-01) bedoelde correspondentieadres te worden vermeld.
+3. In voorkomend geval dienen naam en adres van de gemachtigde, of het in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2020-01-01&g=2020-01-01) bedoelde correspondentieadres te worden vermeld.
 
 4. Het voortbrengsel, waarin de tekening of het model is of wordt belichaamd, moet nauwkeurig worden aangegeven en bij voorkeur met gebruikmaking van de bewoordingen van de alfabetische lijst van de internationale classificatie, bedoeld in de [Overeenkomst van Locarno van 8 oktober 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004456) tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid.
 
 ##### Regel 2.2. Meervoudig depot
 
-Een Benelux-depot kan verscheidene tekeningen of modellen bevatten tot ten hoogste vijftig. In zodanig geval is het bepaalde in [regel 2.1, lid 1, sub b, c en d, lid 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2019-03-01&g=2019-03-01), ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.
+Een Benelux-depot kan verscheidene tekeningen of modellen bevatten tot ten hoogste vijftig. In zodanig geval is het bepaalde in [regel 2.1, lid 1, sub b, c en d, lid 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2020-01-01&g=2020-01-01), ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.
 
 ##### Regel 2.3. Vaststellen depotdatum en termijn regularisatie
 
-1. De in [artikel 3.9, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2019-03-01&g=2019-03-01) bedoelde vereisten voor het vaststellen van een datum van depot, zijn die vermeld in [regel 2.1, lid 1, sub a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2019-03-01&g=2019-03-01), behoudens betaling van de taksen verschuldigd voor het depot, binnen een termijn van een maand nadat aan voornoemde vereisten is voldaan.
+1. De in [artikel 3.9, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2020-01-01&g=2020-01-01) bedoelde vereisten voor het vaststellen van een datum van depot, zijn die vermeld in [regel 2.1, lid 1, sub a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2020-01-01&g=2020-01-01), behoudens betaling van de taksen verschuldigd voor het depot, binnen een termijn van een maand nadat aan voornoemde vereisten is voldaan.
 
-2. De termijn bedoeld in [artikel 3.9, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2019-03-01&g=2019-03-01) om te voldoen aan de overige gestelde vereisten, bedraagt tenminste een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
+2. De termijn bedoeld in [artikel 3.9, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2020-01-01&g=2020-01-01) om te voldoen aan de overige gestelde vereisten, bedraagt tenminste een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
 
-3. In geval van een meervoudig depot is [artikel 3.9, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2019-03-01&g=2019-03-01) slechts van toepassing op de niet-geregulariseerde tekeningen of modellen.
+3. In geval van een meervoudig depot is [artikel 3.9, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2020-01-01&g=2020-01-01) slechts van toepassing op de niet-geregulariseerde tekeningen of modellen.
 
 ##### Regel 2.4. Prioriteit
 
-1. Indien bij het depot een beroep wordt gedaan op het recht van voorrang, als bedoeld in [artikel 3.10 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.10&z=2019-03-01&g=2019-03-01), dienen het land, de dagtekening, het nummer en de houder van het depot, waarop het recht van voorrang steunt, te worden vermeld. Indien de deposant in het land van oorsprong niet degene is die het Benelux-depot heeft verricht, dan moet de laatstgenoemde aan zijn depot een document toevoegen, waaruit zijn rechten blijken.
+1. Indien bij het depot een beroep wordt gedaan op het recht van voorrang, als bedoeld in [artikel 3.10 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.10&z=2020-01-01&g=2020-01-01), dienen het land, de dagtekening, het nummer en de houder van het depot, waarop het recht van voorrang steunt, te worden vermeld. Indien de deposant in het land van oorsprong niet degene is die het Benelux-depot heeft verricht, dan moet de laatstgenoemde aan zijn depot een document toevoegen, waaruit zijn rechten blijken.
 
-2. De bijzondere verklaring betreffende het recht van voorrang, als bedoeld in [artikel 3.10 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.10&z=2019-03-01&g=2019-03-01), dient te bevatten: de naam en het adres van de deposant, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), een aanduiding van de tekening of het model, alsmede de in lid 1 bedoelde gegevens.
+2. De bijzondere verklaring betreffende het recht van voorrang, als bedoeld in [artikel 3.10 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.10&z=2020-01-01&g=2020-01-01), dient te bevatten: de naam en het adres van de deposant, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), een aanduiding van de tekening of het model, alsmede de in lid 1 bedoelde gegevens.
 
 3. De deposant die zich op een recht van voorrang beroept dient indien het Bureau daarom verzoekt een afschrift van de documenten die dit recht van voorrang staven over te leggen.
 
-4. Indien niet is voldaan aan het bepaalde in lid 1, 2 en 3 en in de [regels 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2019-03-01&g=2019-03-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), stelt het Bureau de betrokkene onverwijld daarvan in kennis en geeft hem een termijn van tenminste een maand om hieraan alsnog te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Het uitblijven van een tijdige reactie leidt tot verval van het recht van voorrang.
+4. Indien niet is voldaan aan het bepaalde in lid 1, 2 en 3 en in de [regels 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.3&z=2020-01-01&g=2020-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), stelt het Bureau de betrokkene onverwijld daarvan in kennis en geeft hem een termijn van tenminste een maand om hieraan alsnog te voldoen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Het uitblijven van een tijdige reactie leidt tot verval van het recht van voorrang.
 
 ##### Regel 2.5. Opschorting publicatie
 
@@ -4603,7 +4603,7 @@ Een Benelux-depot kan verscheidene tekeningen of modellen bevatten tot ten hoogs
 
 ##### Regel 2.6. Verzoek tweede publicatie
 
-De termijn bedoeld in [artikel 3.11, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.11&z=2019-03-01&g=2019-03-01), gedurende welke de deposant aan het Bureau een tweede publicatie van de tekening of het model kan vragen, bedraagt drie maanden te rekenen van de datum van de eerste publicatie.
+De termijn bedoeld in [artikel 3.11, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.11&z=2020-01-01&g=2020-01-01), gedurende welke de deposant aan het Bureau een tweede publicatie van de tekening of het model kan vragen, bedraagt drie maanden te rekenen van de datum van de eerste publicatie.
 
 ##### Regel 2.7. Inschrijving
 
@@ -4613,11 +4613,11 @@ De termijn bedoeld in [artikel 3.11, lid 3, BVIE](https://wetten.overheid.nl/jci
 
 - b. de datum en het nummer van het depot;
 
-- c. de in [regel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2019-03-01&g=2019-03-01) bedoelde gegevens;
+- c. de in [regel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2020-01-01&g=2020-01-01) bedoelde gegevens;
 
-- d. in voorkomend geval, het ingeroepen recht van voorrang onder vermelding van het land, de dagtekening, het nummer en de houder van het depot waarop het ingeroepen recht van voorrang steunt overeenkomstig [regel 2.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2019-03-01&g=2019-03-01);
+- d. in voorkomend geval, het ingeroepen recht van voorrang onder vermelding van het land, de dagtekening, het nummer en de houder van het depot waarop het ingeroepen recht van voorrang steunt overeenkomstig [regel 2.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2020-01-01&g=2020-01-01);
 
-- e. in geval van opschorting van de publicatie van de inschrijving, de gegevens opgenomen in [regel 2.5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.5&z=2019-03-01&g=2019-03-01);
+- e. in geval van opschorting van de publicatie van de inschrijving, de gegevens opgenomen in [regel 2.5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.5&z=2020-01-01&g=2020-01-01);
 
 - f. de datum waarop de geldigheidsduur van de inschrijving verstrijkt;
 
@@ -4629,21 +4629,21 @@ De termijn bedoeld in [artikel 3.11, lid 3, BVIE](https://wetten.overheid.nl/jci
 
 ##### Regel 2.8. Datum inschrijving internationale aanvraag
 
-Als datum van inschrijving van internationale depots van tekeningen of modellen waarbij de Benelux werd aangeduid geldt de datum van de in [artikel 3.11, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.11&z=2019-03-01&g=2019-03-01) bedoelde publicatie.
+Als datum van inschrijving van internationale depots van tekeningen of modellen waarbij de Benelux werd aangeduid geldt de datum van de in [artikel 3.11, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.11&z=2020-01-01&g=2020-01-01) bedoelde publicatie.
 
 ##### Regel 2.9. Inschrijving handhaving gewijzigde vorm
 
-Een verzoek tot inschrijving van de in [artikel 3.24, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2019-03-01&g=2019-03-01) bedoelde verklaring van de houder of rechterlijke beslissing dient te worden ingediend bij het Bureau en dient te bevatten de naam en het adres van de houder, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), alsmede het nummer van de inschrijving.
+Een verzoek tot inschrijving van de in [artikel 3.24, lid 3, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2020-01-01&g=2020-01-01) bedoelde verklaring van de houder of rechterlijke beslissing dient te worden ingediend bij het Bureau en dient te bevatten de naam en het adres van de houder, zijn handtekening of die van zijn gemachtigde, in voorkomend geval naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), alsmede het nummer van de inschrijving.
 
 ##### Regel 2.10. Inschrijving vordering tot opeising en doorhaling van deze inschrijving
 
-1. Het verzoek tot inschrijving van de vordering tot opeising bedoeld in [artikel 3.7, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2019-03-01&g=2019-03-01), dient te bevatten de naam en het adres van degene die de vordering instelt, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01), alsmede de naam en het adres van de houder en het nummer van de inschrijving van het Benelux- of internationaal depot van de betreffende tekening of het betreffende model.
+1. Het verzoek tot inschrijving van de vordering tot opeising bedoeld in [artikel 3.7, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2020-01-01&g=2020-01-01), dient te bevatten de naam en het adres van degene die de vordering instelt, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde of het correspondentieadres als bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01), alsmede de naam en het adres van de houder en het nummer van de inschrijving van het Benelux- of internationaal depot van de betreffende tekening of het betreffende model.
 
-2. De in [artikel 3.7, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2019-03-01&g=2019-03-01) bedoelde inschrijving van de vordering tot opeising wordt op verzoek van de meest gerede partij doorgehaald. Deze dient daartoe, hetzij een rechterlijke beslissing waartegen geen hoger beroep of cassatie meer kan worden ingesteld, hetzij een stuk waaruit blijkt dat de vordering is ingetrokken, over te leggen.
+2. De in [artikel 3.7, lid 1, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2020-01-01&g=2020-01-01) bedoelde inschrijving van de vordering tot opeising wordt op verzoek van de meest gerede partij doorgehaald. Deze dient daartoe, hetzij een rechterlijke beslissing waartegen geen hoger beroep of cassatie meer kan worden ingesteld, hetzij een stuk waaruit blijkt dat de vordering is ingetrokken, over te leggen.
 
 ##### Regel 2.11. Vernieuwing
 
-1. Indien de aanvrager conform [artikel 3.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2019-03-01&g=2019-03-01), de vernieuwing wenst te beperken tot een deel van de in een meervoudig depot vervatte rechten, dient hij de nummers te vermelden van de tekeningen of modellen waarvan hij de vernieuwing van de inschrijving wenst.
+1. Indien de aanvrager conform [artikel 3.14, lid 4, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2020-01-01&g=2020-01-01), de vernieuwing wenst te beperken tot een deel van de in een meervoudig depot vervatte rechten, dient hij de nummers te vermelden van de tekeningen of modellen waarvan hij de vernieuwing van de inschrijving wenst.
 
 2. Het Bureau schrijft de vernieuwing in door aanpassing van de datum waarop de geldigheidsduur van de inschrijving verstrijkt.
 
@@ -4653,23 +4653,23 @@ Een verzoek tot inschrijving van de in [artikel 3.24, lid 3, BVIE](https://wette
 
 ##### Regel 3.1. Wijzigingen in het register
 
-1. Ieder verzoek tot wijziging van registergegevens met betrekking tot een Benelux-aanvraag of -inschrijving dient aan het Bureau te worden gericht onder vermelding van het nummer van de inschrijving, de naam en het adres van de houder van het recht, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde of het correspondentieadres bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2019-03-01&g=2019-03-01). In voorkomend geval dient het verzoek van een bewijsstuk te zijn vergezeld.
+1. Ieder verzoek tot wijziging van registergegevens met betrekking tot een Benelux-aanvraag of -inschrijving dient aan het Bureau te worden gericht onder vermelding van het nummer van de inschrijving, de naam en het adres van de houder van het recht, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde of het correspondentieadres bedoeld in [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2020-01-01&g=2020-01-01). In voorkomend geval dient het verzoek van een bewijsstuk te zijn vergezeld.
 
 2. Indien een zodanig verzoek de inschrijving betreft van een meervoudig depot van tekeningen of modellen maar geen betrekking heeft op alle tekeningen of modellen hierin, dient het de nummers te vermelden van de tekeningen of modellen waarom het gaat. Indien de overdracht of overgang het uitsluitend recht betreft op een of meer tekeningen of modellen die deel uitmaken van een meervoudig depot, wordt dit deel van het depot voortaan beschouwd als een zelfstandig depot.
 
 3. De doorhaling van de inschrijving van een zakelijk recht of gedwongen tenuitvoerlegging wordt verricht op basis van een bewijsstuk.
 
-4. Er kan worden volstaan met het overleggen van een kopie van de akte waaruit overdracht, andere overgang, licentie of een zakelijk recht, als bedoeld in de [artikelen 2.32bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32bis&z=2019-03-01&g=2019-03-01) en [3.27 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.27&z=2019-03-01&g=2019-03-01), blijkt. Indien het Bureau gerede twijfel heeft over de juistheid van de verzochte wijziging kan het Bureau nadere informatie verzoeken, waaronder de indiening van originele stukken of gewaarmerkte kopieën daarvan.
+4. Er kan worden volstaan met het overleggen van een kopie van de akte waaruit overdracht, andere overgang, licentie of een zakelijk recht, als bedoeld in de [artikelen 2.32bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=7&artikel=2.32bis&z=2020-01-01&g=2020-01-01) en [3.27 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.27&z=2020-01-01&g=2020-01-01), blijkt. Indien het Bureau gerede twijfel heeft over de juistheid van de verzochte wijziging kan het Bureau nadere informatie verzoeken, waaronder de indiening van originele stukken of gewaarmerkte kopieën daarvan.
 
-5. Indien bij een verzoek als bedoeld in deze regel niet is voldaan aan het in dit reglement bepaalde of indien de verschuldigde taksen of vergoedingen niet of niet volledig zijn betaald, stelt het Bureau de betrokkene hiervan onverwijld in kennis. Onverminderd het bepaalde in [regel 1.15, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2019-03-01&g=2019-03-01), geeft het hem een termijn van minimaal een maand om de gebreken alsnog op te heffen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Indien binnen de gestelde termijn niet is voldaan aan de gestelde vereisten worden de ontvangen stukken verder buiten behandeling gelaten.
+5. Indien bij een verzoek als bedoeld in deze regel niet is voldaan aan het in dit reglement bepaalde of indien de verschuldigde taksen of vergoedingen niet of niet volledig zijn betaald, stelt het Bureau de betrokkene hiervan onverwijld in kennis. Onverminderd het bepaalde in [regel 1.15, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.15&z=2020-01-01&g=2020-01-01), geeft het hem een termijn van minimaal een maand om de gebreken alsnog op te heffen. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Indien binnen de gestelde termijn niet is voldaan aan de gestelde vereisten worden de ontvangen stukken verder buiten behandeling gelaten.
 
 ### HOOFDSTUK 2. INTERNATIONALE AANVRAGEN
 
 ##### Regel 3.2. Internationale aanvragen met geldigheid in de Benelux
 
-1. Betreffende de internationale aanvragen ten aanzien waarvan de aanvragers verzocht hebben dat zij hun werking zullen uitstrekken over het Benelux-gebied, schrijft het Bureau, onverminderd het bepaalde in de [regels 1.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.8&z=2019-03-01&g=2019-03-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.8&z=2019-03-01&g=2019-03-01), in het register in de van het Internationaal Bureau komende kennisgevingen als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2019-03-01&g=2019-03-01) en [4.4 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4&z=2019-03-01&g=2019-03-01).
+1. Betreffende de internationale aanvragen ten aanzien waarvan de aanvragers verzocht hebben dat zij hun werking zullen uitstrekken over het Benelux-gebied, schrijft het Bureau, onverminderd het bepaalde in de [regels 1.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.8&z=2020-01-01&g=2020-01-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.8&z=2020-01-01&g=2020-01-01), in het register in de van het Internationaal Bureau komende kennisgevingen als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2020-01-01&g=2020-01-01) en [4.4 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4&z=2020-01-01&g=2020-01-01).
 
-2. Indien een internationale aanvraag van een collectief merk of een certificeringsmerk niet vergezeld is van een reglement op het gebruik, wijst het Bureau de aanvrager onverwijld op zijn verplichting dit reglement binnen de in [artikel 2.34ter, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2019-03-01&g=2019-03-01), of [2.35ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2019-03-01&g=2019-03-01) bedoelde termijn, over te leggen. Met betrekking tot de collectieve merken of certificeringsmerken wordt in dit register melding gemaakt van het al dan niet overgelegd zijn en van de wijzigingen van het reglement op het gebruik.
+2. Indien een internationale aanvraag van een collectief merk of een certificeringsmerk niet vergezeld is van een reglement op het gebruik, wijst het Bureau de aanvrager onverwijld op zijn verplichting dit reglement binnen de in [artikel 2.34ter, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8&artikel=2.34ter&z=2020-01-01&g=2020-01-01), of [2.35ter, lid 2, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=8bis&artikel=2.35ter&z=2020-01-01&g=2020-01-01) bedoelde termijn, over te leggen. Met betrekking tot de collectieve merken of certificeringsmerken wordt in dit register melding gemaakt van het al dan niet overgelegd zijn en van de wijzigingen van het reglement op het gebruik.
 
 3. Bovendien worden in het register aangetekend de gegevens betreffende nietigverklaring, vervallenverklaring en licenties, pandrecht en beslag, van tekeningen of modellen voor zover deze het Benelux-gebied betreffen.
 
@@ -4681,7 +4681,7 @@ Een verzoek tot inschrijving van de in [artikel 3.24, lid 3, BVIE](https://wette
 
 1. De officiële talen van het Bureau zijn het Nederlands en het Frans. De werktalen van het Bureau zijn het Nederlands, Frans en Engels.
 
-2. Alle stukken die aan het Bureau worden overgelegd dienen in een van de werktalen te zijn gesteld. Het bepaalde in [regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2019-03-01&g=2019-03-01) vormt hierop een uitzondering.
+2. Alle stukken die aan het Bureau worden overgelegd dienen in een van de werktalen te zijn gesteld. Het bepaalde in [regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2020-01-01&g=2020-01-01) vormt hierop een uitzondering.
 
 3. Bewijzen van een recht van voorrang, van naamswijziging, uittreksels van akten waaruit een overdracht, een andere overgang, een licentie of een zakelijk recht blijkt, de daarop betrekking hebbende verklaringen, de reglementen op het gebruik en het toezicht en de wijzigingen daarvan, worden eveneens aanvaard indien zij in het Duits zijn gesteld.
 
@@ -4733,7 +4733,7 @@ Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het 
 
 3. Indien de dienst van de bevoegde instantie gesloten is op de laatste dag van een ingevolge het BVIE of dit reglement in acht te nemen termijn, wordt die termijn verlengd tot het einde van de eerstvolgende dag, waarop deze dienst geopend is.
 
-4. In geval van verstoring van de normale postbedeling in een van de Benelux-landen gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de [regels 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.3&z=2019-03-01&g=2019-03-01), [1.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2019-03-01&g=2019-03-01), [2.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.3&z=2019-03-01&g=2019-03-01), [2.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2019-03-01&g=2019-03-01), en 3.1, lid 5, en de in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&z=2019-03-01&g=2019-03-01) en [4 van titel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&z=2019-03-01&g=2019-03-01) bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.
+4. In geval van verstoring van de normale postbedeling in een van de Benelux-landen gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de [regels 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.3&z=2020-01-01&g=2020-01-01), [1.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2020-01-01&g=2020-01-01), [2.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.3&z=2020-01-01&g=2020-01-01), [2.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2020-01-01&g=2020-01-01), en 3.1, lid 5, en de in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&z=2020-01-01&g=2020-01-01) en [4 van titel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=4&z=2020-01-01&g=2020-01-01) bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.
 
 ##### Regel 3.10. Inlichtingen en afschriften
 
@@ -4741,7 +4741,7 @@ Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het 
 
 2. Het register kan worden geraadpleegd op door de Directeur-Generaal vastgestelde wijze of in de vorm van een abonnement waarvan de modaliteiten door de Directeur-Generaal worden vastgesteld.
 
-3. De bewijsstukken van het recht van voorrang, bedoeld in [artikel 4, onder D, derde lid, van het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=4) worden door het Bureau verschaft. Een dergelijk document kan slechts worden afgegeven, nadat conform het bepaalde in de [regels 1.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2019-03-01&g=2019-03-01), en [2.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.3&z=2019-03-01&g=2019-03-01), de depotdatum is vastgesteld.
+3. De bewijsstukken van het recht van voorrang, bedoeld in [artikel 4, onder D, derde lid, van het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=4) worden door het Bureau verschaft. Een dergelijk document kan slechts worden afgegeven, nadat conform het bepaalde in de [regels 1.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2020-01-01&g=2020-01-01), en [2.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=1&artikel=2.3&z=2020-01-01&g=2020-01-01), de depotdatum is vastgesteld.
 
 ##### Regel 3.11. Ter beschikking stellen formulieren
 
@@ -4759,27 +4759,27 @@ Het Bureau stelt formulieren beschikbaar voor het verrichten van die handelingen
 
 ##### Regel 3.13. Publicatie
 
-Het Bureau publiceert, conform het bepaalde in [artikel 4.4, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4&z=2019-03-01&g=2019-03-01) uitsluitend in de taal waarin de inschrijving plaatsgevonden heeft:
+Het Bureau publiceert, conform het bepaalde in [artikel 4.4, sub b, BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4&z=2020-01-01&g=2020-01-01) uitsluitend in de taal waarin de inschrijving plaatsgevonden heeft:
 
-- a. alle ingeschreven gegevens betreffende Benelux-aanvragen, bedoeld in de [regels 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.5&z=2019-03-01&g=2019-03-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2019-03-01&g=2019-03-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.7&z=2019-03-01&g=2019-03-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2019-03-01&g=2019-03-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.7&z=2019-03-01&g=2019-03-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2019-03-01&g=2019-03-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2019-03-01&g=2019-03-01);
+- a. alle ingeschreven gegevens betreffende Benelux-aanvragen, bedoeld in de [regels 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.5&z=2020-01-01&g=2020-01-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2020-01-01&g=2020-01-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.7&z=2020-01-01&g=2020-01-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2020-01-01&g=2020-01-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.7&z=2020-01-01&g=2020-01-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2020-01-01&g=2020-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2020-01-01&g=2020-01-01);
 
-- b. alle ingeschreven gegevens betreffende internationale merkaanvragen, bedoeld in [regel 1.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.8&z=2019-03-01&g=2019-03-01);
+- b. alle ingeschreven gegevens betreffende internationale merkaanvragen, bedoeld in [regel 1.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.8&z=2020-01-01&g=2020-01-01);
 
-- c. alle ingeschreven gegevens betreffende internationale depots van tekeningen of modellen bedoeld in [regel 3.2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2019-03-01&g=2019-03-01);
+- c. alle ingeschreven gegevens betreffende internationale depots van tekeningen of modellen bedoeld in [regel 3.2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2020-01-01&g=2020-01-01);
 
-- d. de inschrijving van de verklaring of de rechterlijke beslissing bedoeld in [regel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.9&z=2019-03-01&g=2019-03-01);
+- d. de inschrijving van de verklaring of de rechterlijke beslissing bedoeld in [regel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.9&z=2020-01-01&g=2020-01-01);
 
-- e. het feit van de inschrijving van de vordering tot opeising bedoeld in [regel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2019-03-01&g=2019-03-01).
+- e. het feit van de inschrijving van de vordering tot opeising bedoeld in [regel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.10&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 3.14. Nadere regels
 
-De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2019-03-01&g=2019-03-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.
+De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2020-01-01&g=2020-01-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.
 
 ## TITEL IV. : I-DEPOT
 
 ##### Regel 4.1. Soorten i-DEPOT
 
-Het in [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2019-03-01&g=2019-03-01) genoemde i-DEPOT bestaat in een fysieke variant („i-DEPOT enveloppe”) en in een elektronische variant („online i-DEPOT”).
+Het in [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2020-01-01&g=2020-01-01) genoemde i-DEPOT bestaat in een fysieke variant („i-DEPOT enveloppe”) en in een elektronische variant („online i-DEPOT”).
 
 ##### Regel 4.2. Indiening i-DEPOT enveloppe
 
@@ -4787,7 +4787,7 @@ Het in [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&tit
 
 2. Indiening van een i-DEPOT enveloppe geschiedt door terugzending aan het Bureau van de twee aan elkaar gekoppelde compartimenten die beide dezelfde stukken dienen te bevatten; de enveloppe dient te zijn voorzien van naam en adres van de indiener.
 
-3. Zonder de inhoud te controleren stelt het Bureau overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2019-03-01&g=2019-03-01) het moment van ontvangst van de i-DEPOT enveloppe vast, brengt een bevestiging hiervan aan op beide compartimenten van de enveloppe en stuurt één van deze compartimenten terug aan indiener.
+3. Zonder de inhoud te controleren stelt het Bureau overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2020-01-01&g=2020-01-01) het moment van ontvangst van de i-DEPOT enveloppe vast, brengt een bevestiging hiervan aan op beide compartimenten van de enveloppe en stuurt één van deze compartimenten terug aan indiener.
 
 ##### Regel 4.3. Bewaring i-DEPOT enveloppe
 
@@ -4805,7 +4805,7 @@ Het in [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&tit
 
 ##### Regel 4.4. i-DEPOT enveloppe bewijs
 
-Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe als het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe vormen bewijs in de zin van [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2019-03-01&g=2019-03-01).
+Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe als het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe vormen bewijs in de zin van [artikel 4.4bis BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2020-01-01&g=2020-01-01).
 
 ##### Regel 4.5. Indiening online i-DEPOT
 
@@ -4821,11 +4821,11 @@ Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe 
 
 - c. een combinatie van het onder a en b genoemde.
 
-4. Het Bureau kent het online i-DEPOT een nummer toe, stelt overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2019-03-01&g=2019-03-01) het moment van ontvangst van het online i-DEPOT vast en stelt het in lid 1 bedoelde elektronische bestand op elektronische wijze beschikbaar aan indiener. Dit bestand bevat de bestanddelen genoemd in de leden 2 en 3, het nummer van het online i-DEPOT alsmede datum en tijdstip van ontvangst door het Bureau.
+4. Het Bureau kent het online i-DEPOT een nummer toe, stelt overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2020-01-01&g=2020-01-01) het moment van ontvangst van het online i-DEPOT vast en stelt het in lid 1 bedoelde elektronische bestand op elektronische wijze beschikbaar aan indiener. Dit bestand bevat de bestanddelen genoemd in de leden 2 en 3, het nummer van het online i-DEPOT alsmede datum en tijdstip van ontvangst door het Bureau.
 
 ##### Regel 4.6. Online i-DEPOT bewijs
 
-Het elektronisch bestand bedoeld in [regel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=3&artikel=4.5&z=2019-03-01&g=2019-03-01) vormt bewijs in de zin van [artikel 4.4bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2019-03-01&g=2019-03-01) BVIE.
+Het elektronisch bestand bedoeld in [regel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=3&artikel=4.5&z=2020-01-01&g=2020-01-01) vormt bewijs in de zin van [artikel 4.4bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2020-01-01&g=2020-01-01) BVIE.
 
 ##### Regel 4.7. Bewaring online i-DEPOT
 
@@ -4845,17 +4845,17 @@ De handelingen betrekking hebbende op een online i-DEPOT kunnen uitsluitend word
 
 ##### Regel 4.9. Termijnen
 
-Op de in de [regels 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=1&artikel=4.3&z=2019-03-01&g=2019-03-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=4&artikel=4.7&z=2019-03-01&g=2019-03-01) bedoelde termijnen is [regel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.9&z=2019-03-01&g=2019-03-01) van overeenkomstige toepassing.
+Op de in de [regels 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=1&artikel=4.3&z=2020-01-01&g=2020-01-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=4&artikel=4.7&z=2020-01-01&g=2020-01-01) bedoelde termijnen is [regel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.9&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ## TITEL V. : TAKSEN EN VERGOEDINGEN
 
 ##### Regel 5.1. Vaststelling tarieven
 
-1. Ter uitvoering van het bepaalde in [artikel 1.13, lid 1 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2019-03-01&g=2019-03-01) keert het Bureau aan de nationale diensten 20% uit van het bedrag van de taksen, die zijn geïnd ter zake van de door hun bemiddeling verrichte handelingen.
+1. Ter uitvoering van het bepaalde in [artikel 1.13, lid 1 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.13&z=2020-01-01&g=2020-01-01) keert het Bureau aan de nationale diensten 20% uit van het bedrag van de taksen, die zijn geïnd ter zake van de door hun bemiddeling verrichte handelingen.
 
 2. De Raad van Bestuur stelt de tarieven vast van de in het BVIE en dit reglement opgenomen handelingen bij en door het Bureau. Deze tarieven worden vastgelegd in een lijst die een bijlage vormt bij dit reglement. De Raad kan de vastgestelde tarieven slechts eenmaal per jaar aanpassen.
 
-3. [Artikel 6.5 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=VI&artikel=6.5&z=2019-03-01&g=2019-03-01) is van overeenkomstige toepassing op de bekendmaking van nieuwe tarieven.
+3. [Artikel 6.5 BVIE](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=VI&artikel=6.5&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing op de bekendmaking van nieuwe tarieven.
 
 ##### Regel 5.2. Betaling
 
@@ -4863,13 +4863,13 @@ Op de in de [regels 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titelde
 
 2. Het Bureau verzendt na ontvangst van een verzoek waaraan taksen verbonden zijn een overzicht van de verschuldigde taksen. Aan het niet-verzenden of niet-ontvangen van dit overzicht kunnen geen rechten worden ontleend.
 
-3. Indien voor een handeling overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2019-03-01&g=2019-03-01) zowel elektronische als niet-elektronische indiening mogelijk is en de indiener ervoor kiest om een ander middel dan een door de Directeur-Generaal voor die specifieke handeling aangeduid elektronisch middel te gebruiken, is een vergoeding voor administratiekosten verschuldigd ter hoogte van 15%, naar beneden afgerond op hele euro’s, van de taks of de taksen verschuldigd voor de desbetreffende handeling. Deze vergoeding is niet eerder verschuldigd dan nadat hierover overeenkomstig [regel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2019-03-01&g=2019-03-01) een mededeling van de Directeur-Generaal is gepubliceerd.
+3. Indien voor een handeling overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2020-01-01&g=2020-01-01) zowel elektronische als niet-elektronische indiening mogelijk is en de indiener ervoor kiest om een ander middel dan een door de Directeur-Generaal voor die specifieke handeling aangeduid elektronisch middel te gebruiken, is een vergoeding voor administratiekosten verschuldigd ter hoogte van 15%, naar beneden afgerond op hele euro’s, van de taks of de taksen verschuldigd voor de desbetreffende handeling. Deze vergoeding is niet eerder verschuldigd dan nadat hierover overeenkomstig [regel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2020-01-01&g=2020-01-01) een mededeling van de Directeur-Generaal is gepubliceerd.
 
 ##### Regel 5.3. Vergoedingen incidentele handelingen
 
-1. De vergoedingen voor handelingen bij en door het Bureau die niet zijn opgenomen op de in [regel 5.1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.1&z=2019-03-01&g=2019-03-01), bedoelde lijst, zogenaamde incidentele handelingen, worden vastgesteld door de Directeur-Generaal.
+1. De vergoedingen voor handelingen bij en door het Bureau die niet zijn opgenomen op de in [regel 5.1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.1&z=2020-01-01&g=2020-01-01), bedoelde lijst, zogenaamde incidentele handelingen, worden vastgesteld door de Directeur-Generaal.
 
-2. De Directeur-Generaal informeert de Raad van Bestuur over de vergoedingen vastgesteld voor meer structurele handelingen. De Raad van Bestuur kan besluiten deze vergoedingen op te nemen op de in [regel 5.1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.1&z=2019-03-01&g=2019-03-01), bedoelde lijst.
+2. De Directeur-Generaal informeert de Raad van Bestuur over de vergoedingen vastgesteld voor meer structurele handelingen. De Raad van Bestuur kan besluiten deze vergoedingen op te nemen op de in [regel 5.1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.1&z=2020-01-01&g=2020-01-01), bedoelde lijst.
 
 TEN BLIJKE WAARVAN de Gevolmachtigden dit verdrag hebben ondertekend en voorzien van hun zegel.
 
