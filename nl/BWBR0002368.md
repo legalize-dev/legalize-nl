@@ -4,7 +4,7 @@ identifier: "BWBR0002368"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2019-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002368"
 soort: "wet"
@@ -91,7 +91,7 @@ Vervallen
 
 ##### Artikel 5a
 
-Bij een besluit ingevolge de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14&z=2019-07-01&g=2019-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) is mede belanghebbende het Landelijk Bureau Inning Onderhoudsbijdragen.
+Bij een besluit ingevolge de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14&z=2020-01-01&g=2020-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) is mede belanghebbende het Landelijk Bureau Inning Onderhoudsbijdragen.
 
 ##### Artikel 5b
 
@@ -119,11 +119,11 @@ Vervallen
 
 ##### Artikel 6a
 
-Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01) en de daarop berustende bepalingen:
+Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=II&artikel=6&z=2020-01-01&g=2020-01-01) en de daarop berustende bepalingen:
 
 - a. wordt als verzekerde aangemerkt de persoon van wie de verzekering op grond van deze wet voortvloeit uit de toepassing van bepalingen van een verdrag of van een besluit van een volkenrechtelijke organisatie;
 
-- b. wordt voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&z=2019-07-01&g=2019-07-01) van deze wet onder verzekerde mede verstaan de niet-verzekerde persoon die recht op kinderbijslag heeft verkregen op grond van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166);
+- b. wordt voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&z=2020-01-01&g=2020-01-01) van deze wet onder verzekerde mede verstaan de niet-verzekerde persoon die recht op kinderbijslag heeft verkregen op grond van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166);
 
 - c. wordt niet als verzekerde aangemerkt de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 
@@ -153,9 +153,9 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het tweede en derde lid.
 
-5. Onverminderd het tweede lid heeft de verzekerde slechts recht op kinderbijslag voor een kind van 16 of 17 jaar indien het inkomen van dat kind niet meer bedraagt dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het inkomen van het kind.
+5. Vervallen.
 
-6. Het bedrag aan kinderbijslag, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), wordt verdubbeld indien de verzekerde per kalenderkwartaal een bijdrage levert aan het onderhoud van het kind die meer bedraagt dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag en het kind, bedoeld in het eerste lid, niet tot het huishouden van de verzekerde noch als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort:
+6. Het bedrag aan kinderbijslag, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), wordt verdubbeld indien de verzekerde per kalenderkwartaal een bijdrage levert aan het onderhoud van het kind die meer bedraagt dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag en het kind, bedoeld in het eerste lid, niet tot het huishouden van de verzekerde noch als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort:
 
 - a. in verband met ziekte of gebreken van het kind; of
 
@@ -167,7 +167,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - 3°. de verzekerde of de ander tot wiens huishouden het kind laatstelijk behoorde in een bij of krachtens algemene maatregel van bestuur te bepalen deel van Nederland woont, of de verzekerde aantoont dat hij of die ander in een gebied buiten Nederland woont waarbij niet verwacht kan worden dat het kind op basis van openbaar of eigen vervoer dagelijks heen en weer reist tussen school en het adres van de verzekerde of die ander; of
 
-- 4°. het het kind betreft van de verzekerde, bedoeld in [artikel 7b, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2019-07-01&g=2019-07-01); of
+- 4°. het het kind betreft van de verzekerde, bedoeld in [artikel 7b, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2020-01-01&g=2020-01-01); of
 
 - 5°. de verzekerde aantoont dat het kind een bij ministeriële regeling te bepalen school bezoekt waarbij de afstand tussen het woonadres van de verzekerde of het woonadres van de ander tot wiens huishouden het kind laatstelijk behoorde en de dichtstbijzijnde school waar het onderwijs wordt aangeboden meer bedraagt dan een bij ministeriële regeling te bepalen aantal kilometers, met dien verstande dat de afstandseis niet geldt als het kind verplicht is gedurende het schooljaar meer dan drie nachten per kalenderweek op een aan de school gelieerde locatie te overnachten.
 
@@ -189,7 +189,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 7a
 
-1. Een verzekerde heeft voor een tot zijn huishouden behorend kind dat drie jaar is of ouder, maar nog niet de leeftijd van 18 jaar heeft bereikt, recht op een verdubbeling van het bedrag aan kinderbijslag, genoemd in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
+1. Een verzekerde heeft voor een tot zijn huishouden behorend kind dat drie jaar is of ouder, maar nog niet de leeftijd van 18 jaar heeft bereikt, recht op een verdubbeling van het bedrag aan kinderbijslag, genoemd in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.
 
 2. Indien een verzekerde over een kalenderjaar tot uitbetaling gekomen recht heeft gehad op een verdubbeling van het bedrag aan kinderbijslag op grond van het eerste lid, en
 
@@ -197,7 +197,7 @@ Zo nodig in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. met betrekking tot dat kalenderjaar een partner heeft als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2) en de verzekerde of diens partner in dat kalenderjaar belastbare winst uit een of meer ondernemingen als bedoeld in [artikel 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.2), belastbaar loon als bedoeld in [artikel 3.80 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.80) of belastbaar resultaat uit een of meer werkzaamheden als bedoeld in [artikel 3.90 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.90) heeft genoten dat niet meer is dan het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a);
 
-heeft de verzekerde recht op een extra bedrag aan kinderbijslag over dat kalenderjaar ten bedrage van € 2.163,22.
+heeft de verzekerde recht op een extra bedrag aan kinderbijslag over dat kalenderjaar ten bedrage van € 2.200,64.
 
 3. Indien een verzekerde of diens partner voldoet aan de voorwaarden, bedoeld in het tweede lid, en recht heeft op meer dan eenmaal de verdubbeling van de kinderbijslag, bedoeld in het eerste lid, heeft hij dan wel zijn partner recht op ten hoogste eenmaal het extra bedrag aan kinderbijslag, bedoeld in het tweede lid.
 
@@ -241,17 +241,15 @@ Vervallen
 
 1. Recht op kinderbijslag voor een kind ingevolge deze wet heeft slechts degene, die op de eerste dag van een kalenderkwartaal verzekerd is.
 
-2. Recht op kinderbijslag over een kalenderkwartaal voor een kind bestaat indien op de eerste dag van dat kalenderkwartaal is voldaan aan de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2019-07-01&g=2019-07-01), en, indien van toepassing, [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01).
+2. Recht op kinderbijslag over een kalenderkwartaal voor een kind bestaat indien op de eerste dag van dat kalenderkwartaal is voldaan aan de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2020-01-01&g=2020-01-01), en, indien van toepassing, [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01).
 
-3. In afwijking van het tweede lid is voor het recht op kinderbijslag over een kalenderkwartaal voor een kind van 16 of 17 jaar het inkomen van dat kind, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2019-07-01&g=2019-07-01), over dat gehele kalenderkwartaal bepalend.
-
-4. Recht op kinderbijslag voor een kind ingevolge deze wet heeft slechts degene, die op de eerste dag van een kalenderkwartaal verzekerd is en na toepassing van [artikel 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7d&z=2019-07-01&g=2019-07-01) niet langer het gegronde vermoeden bestaat dat hij of het kind zich buiten Nederland bevindt met het doel om zich aan te sluiten bij een organisatie als bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=1&z=2019-07-01&g=2019-07-01).
+3. Recht op kinderbijslag voor een kind ingevolge deze wet heeft slechts degene, die op de eerste dag van een kalenderkwartaal verzekerd is en na toepassing van [artikel 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7d&z=2020-01-01&g=2020-01-01) niet langer het gegronde vermoeden bestaat dat hij of het kind zich buiten Nederland bevindt met het doel om zich aan te sluiten bij een organisatie als bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 12
 
 1. Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 316,41 per kind.
 
-2. Het basiskinderbijslagbedrag en het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), bedraagt voor een kind dat woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het bedrag, genoemd in het eerste lid, respectievelijk artikel 7a, tweede lid. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar het kind woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.
+2. Het basiskinderbijslagbedrag en het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), bedraagt voor een kind dat woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het bedrag, genoemd in het eerste lid, respectievelijk artikel 7a, tweede lid. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar het kind woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.
 
 3. Het aan een verzekerde over een kalenderkwartaal te betalen bedrag aan kinderbijslag bedraagt voor een kind, dat op de eerste dag van dat kwartaal:
 
@@ -267,21 +265,21 @@ van het op grond van het eerste en tweede lid vastgestelde basiskinderbijslagbed
 
 ##### Artikel 13
 
-1. De bedragen, genoemd in de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), worden al naar gelang de ontwikkeling van het algemene prijsniveau verhoogd of verlaagd.
+1. De bedragen, genoemd in de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), worden al naar gelang de ontwikkeling van het algemene prijsniveau verhoogd of verlaagd.
 
-2. Het bedrag, genoemd in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), wordt telkens gewijzigd met ingang van 1 januari. Bij een wijziging met ingang van 1 januari wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, als waarmee de consumentenprijsindex over de maand oktober daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari achterwege, indien de consumentenprijsindex over de maand oktober daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd.
+2. Het bedrag, genoemd in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), wordt telkens gewijzigd met ingang van 1 januari. Bij een wijziging met ingang van 1 januari wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, als waarmee de consumentenprijsindex over de maand oktober daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari achterwege, indien de consumentenprijsindex over de maand oktober daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd.
 
-3. Het bedrag, genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), wordt telkens gewijzigd met ingang van 1 januari en 1 juli. Bij een wijziging met ingang van 1 januari onderscheidenlijk 1 juli wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, al waarmede de consumentenprijsindex over de maand oktober daaraan voorafgaande onderscheidenlijk over de maand april daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari onderscheidenlijk per 1 juli achterwege, indien de consumentenprijsindex over de maand oktober onderscheidenlijk over de maand april daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd.
+3. Het bedrag, genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), wordt telkens gewijzigd met ingang van 1 januari en 1 juli. Bij een wijziging met ingang van 1 januari onderscheidenlijk 1 juli wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, al waarmede de consumentenprijsindex over de maand oktober daaraan voorafgaande onderscheidenlijk over de maand april daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari onderscheidenlijk per 1 juli achterwege, indien de consumentenprijsindex over de maand oktober onderscheidenlijk over de maand april daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste wijziging is gebaseerd.
 
-4. Het overeenkomstig het tweede lid en derde lid gewijzigde bedrag treedt in de plaats van het bedrag, genoemd in [artikel 7a, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), respectievelijk [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01).
+4. Het overeenkomstig het tweede lid en derde lid gewijzigde bedrag treedt in de plaats van het bedrag, genoemd in [artikel 7a, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), respectievelijk [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01).
 
-5. Indien daartoe naar Ons oordeel een bijzondere aanleiding bestaat, kan het bedrag, genoemd in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), bij algemene maatregel van bestuur met ingang van een bij die algemene maatregel van bestuur aan te geven datum worden verhoogd. De op grond van de vorige zin verhoogde bedragen treden in de plaats van de bedragen, genoemd in artikel 7a, tweede lid, respectievelijk artikel 12, eerste lid.
+5. Indien daartoe naar Ons oordeel een bijzondere aanleiding bestaat, kan het bedrag, genoemd in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), of [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), bij algemene maatregel van bestuur met ingang van een bij die algemene maatregel van bestuur aan te geven datum worden verhoogd. De op grond van de vorige zin verhoogde bedragen treden in de plaats van de bedragen, genoemd in artikel 7a, tweede lid, respectievelijk artikel 12, eerste lid.
 
 6. Indien een verhoging als bedoeld in het vijfde lid samenvalt met een wijziging als bedoeld in het tweede lid of het derde lid, wordt het bedrag voorafgaande aan de verhoging gewijzigd en geschiedt de wijziging, in afwijking van het tweede lid en derde lid, bij de in het vijfde lid bedoelde algemene maatregel van bestuur.
 
 7. Hetgeen onder consumentenprijsindex als bedoeld in het tweede en derde lid wordt verstaan, wordt nader bij algemene maatregel van bestuur geregeld.
 
-8. Indien het bedrag, genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2019-07-01&g=2019-07-01), wordt gewijzigd, worden de uit de toepassing van artikel 12, derde lid, met betrekking tot dat bedrag voortvloeiende bedragen, samen met de dag waarop de wijziging ingaat, door of namens Onze Minister medegedeeld in de Staatscourant.
+8. Indien het bedrag, genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=12&z=2020-01-01&g=2020-01-01), wordt gewijzigd, worden de uit de toepassing van artikel 12, derde lid, met betrekking tot dat bedrag voortvloeiende bedragen, samen met de dag waarop de wijziging ingaat, door of namens Onze Minister medegedeeld in de Staatscourant.
 
 9. Een wijziging van de kinderbijslag op grond van dit artikel vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
@@ -289,19 +287,17 @@ van het op grond van het eerste en tweede lid vastgestelde basiskinderbijslagbed
 
 ##### Artikel 25
 
-1. Indien over een tijdvak, waarover krachtens de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) aan een kind studiefinanciering is verleend, naderhand ten behoeve van dat kind recht op kinderbijslag wordt vastgesteld, is de Sociale verzekeringsbank bevoegd die kinderbijslag over dat tijdvak en over latere tijdvakken, in plaats van aan degene aan wie de kinderbijslag zou dienen te worden betaald, zonder diens machtiging tot het bedrag van de betaalde studiefinanciering over dat tijdvak te betalen aan Onze Minister van Onderwijs, Cultuur en Wetenschap.
-
-2. Van de in het eerste lid bedoelde bevoegdheid kan de Sociale verzekeringsbank gebruik maken tot en met twee kalenderjaren na de vaststelling van het recht op kinderbijslag.
+Vervallen
 
 #### § 2. Het geldend maken van het recht op kinderbijslag
 
 ##### Artikel 14
 
-1. De Sociale verzekeringsbank stelt op aanvraag vast of een recht op kinderbijslag bestaat. De aanvraag om het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), wordt ingediend voor 1 december van het kalenderjaar na het kalenderjaar waarover recht op het extra bedrag aan kinderbijslag bestaat.
+1. De Sociale verzekeringsbank stelt op aanvraag vast of een recht op kinderbijslag bestaat. De aanvraag om het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), wordt ingediend voor 1 december van het kalenderjaar na het kalenderjaar waarover recht op het extra bedrag aan kinderbijslag bestaat.
 
 2. Een aanvraag wordt ingediend door middel van een door de Sociale verzekeringsbank beschikbaar gesteld aanvraagformulier. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de verder bij de aanvraag te verstrekken gegevens.
 
-3. Het recht op kinderbijslag kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag werd ingediend. Het recht op kinderbijslag, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), kan niet vroeger ingaan dan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag als bedoeld in artikel 7a, eerste lid, werd ingediend.
+3. Het recht op kinderbijslag kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag werd ingediend. Het recht op kinderbijslag, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), kan niet vroeger ingaan dan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag als bedoeld in artikel 7a, eerste lid, werd ingediend.
 
 4. Indien de verzekerde nalaat een aanvraag om kinderbijslag in te dienen, kan deze aanvraag worden ingediend door het Landelijk Bureau Inning Onderhoudsbijdragen, dat tevens adviseert aan wie de kinderbijslag wordt betaald.
 
@@ -313,61 +309,57 @@ van het op grond van het eerste en tweede lid vastgestelde basiskinderbijslagbed
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van kinderbijslag en terzake van weigering van kinderbijslag, herziet de Sociale verzekeringsbank een dergelijk besluit of trekt zij dat in:
 
-- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2019-07-01&g=2019-07-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag;
+- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2020-01-01&g=2020-01-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag;
 
 - b. indien anderszins de kinderbijslag ten onrechte of tot een te hoog bedrag is verleend;
 
-- c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2019-07-01&g=2019-07-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op kinderbijslag bestaat.
+- c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2020-01-01&g=2020-01-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op kinderbijslag bestaat.
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van herziening of intrekking als bedoeld in het eerste lid af te zien.
 
-3. Indien de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald niet op grond van [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15a&z=2019-07-01&g=2019-07-01) desgevraagd aantoont dat is voldaan aan artikel 15a, eerste lid, onderdelen a en b, en als gevolg hiervan niet kan worden vastgesteld tot wiens huishouden het kind behoort, wordt het recht op kinderbijslag vastgesteld, herzien of ingetrokken en het recht op kinderbijslag geldend gemaakt overeenkomstig [hoofdstuk III, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&z=2019-07-01&g=2019-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&z=2019-07-01&g=2019-07-01).
+3. Indien de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald niet op grond van [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15a&z=2020-01-01&g=2020-01-01) desgevraagd aantoont dat is voldaan aan artikel 15a, eerste lid, onderdelen a en b, en als gevolg hiervan niet kan worden vastgesteld tot wiens huishouden het kind behoort, wordt het recht op kinderbijslag vastgesteld, herzien of ingetrokken en het recht op kinderbijslag geldend gemaakt overeenkomstig [hoofdstuk III, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&z=2020-01-01&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 15
 
-1. De verzekerde, alsmede de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op kinderbijslag, de hoogte van de kinderbijslag, het geldend maken van het recht op kinderbijslag of op het bedrag van de kinderbijslag, dat wordt betaald.
+1. De verzekerde, alsmede de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op kinderbijslag, de hoogte van de kinderbijslag, het geldend maken van het recht op kinderbijslag of op het bedrag van de kinderbijslag, dat wordt betaald.
 
-2. De verplichting van het eerste lid geldt niet indien:
-
-- a. die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens dit onderdeel van toepassing is, of
-
-- b. het kind voor wie kinderbijslag wordt betaald recht krijgt op studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+2. De verplichting van het eerste lid geldt niet indien: die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens dit onderdeel van toepassing is, of.
 
 ##### Artikel 16
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
-2. De verzekerde, alsmede de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, zijn verplicht de voorschriften op te volgen en anderszins aan de Sociale verzekeringsbank desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
+2. De verzekerde, alsmede de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, zijn verplicht de voorschriften op te volgen en anderszins aan de Sociale verzekeringsbank desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
-3. De verzekerde, alsmede de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
+3. De verzekerde, alsmede de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
 ##### Artikel 17
 
-1. De Sociale verzekeringsbank weigert de kinderbijslag tijdelijk of blijvend, geheel of gedeeltelijk indien de verzekerde of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, een verplichting op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2019-07-01&g=2019-07-01) opgelegd, of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01) niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
+1. De Sociale verzekeringsbank weigert de kinderbijslag tijdelijk of blijvend, geheel of gedeeltelijk indien de verzekerde of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, een verplichting op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2020-01-01&g=2020-01-01) opgelegd, of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01) niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
 
-2. Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de verzekerde dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de verzekerde dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-3. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.
+3. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.
 
 4. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01) wordt opgelegd.
+5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01) wordt opgelegd.
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
 ##### Artikel 17a
 
-1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01). Indien de feiten en omstandigheden, bedoeld in artikel 15, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 15, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
+1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 15, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 15, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
-2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), ten onrechte of tot een te hoog bedrag aan kinderbijslag is verleend.
+2. In dit artikel wordt onder benadelingsbedrag verstaan het brutobedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), ten onrechte of tot een te hoog bedrag aan kinderbijslag is verleend.
 
-3. Indien het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+3. Indien het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-4. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), in situaties die bij algemene maatregel van bestuur worden bepaald, tenzij het niet of niet behoorlijk nakomen van de verplichting plaats vindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of aan de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.
+4. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), in situaties die bij algemene maatregel van bestuur worden bepaald, tenzij het niet of niet behoorlijk nakomen van de verplichting plaats vindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verzekerde, of aan de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, een zodanige waarschuwing is gegeven.
 
-5. De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan kinderbijslag is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag, met overeenkomstige toepassing van het eerste lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
+5. De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan kinderbijslag is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag, met overeenkomstige toepassing van het eerste lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
 
-6. In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, is gestraft met een onvoorwaardelijke gevangenisstraf.
+6. In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, de verzekerde, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, is gestraft met een onvoorwaardelijke gevangenisstraf.
 
 7. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
 
@@ -375,9 +367,9 @@ van het op grond van het eerste en tweede lid vastgestelde basiskinderbijslagbed
 
 9. Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.
 
-10. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de verzekerde, dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, wijzigen.
+10. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de verzekerde, dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, wijzigen.
 
-11. Indien ten aanzien van een overtreding waarvoor een bestuurlijke boete is opgelegd geen sprake is geweest van opzet of grove schuld, en voorts is gebleken dat binnen een jaar nadat de bestuurlijke boete is opgelegd niet nogmaals een overtreding wegens eenzelfde gedraging is begaan, is de Sociale verzekeringsbank bevoegd op verzoek van degene aan wie de bestuurlijke boete is opgelegd, de bestuurlijke boete geheel of gedeeltelijke kwijt te schelden bij medewerking aan een schuldregeling. [Artikel 24c, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24c&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
+11. Indien ten aanzien van een overtreding waarvoor een bestuurlijke boete is opgelegd geen sprake is geweest van opzet of grove schuld, en voorts is gebleken dat binnen een jaar nadat de bestuurlijke boete is opgelegd niet nogmaals een overtreding wegens eenzelfde gedraging is begaan, is de Sociale verzekeringsbank bevoegd op verzoek van degene aan wie de bestuurlijke boete is opgelegd, de bestuurlijke boete geheel of gedeeltelijke kwijt te schelden bij medewerking aan een schuldregeling. [Artikel 24c, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24c&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
 
 12. Het besluit tot kwijtschelding, bedoeld in het elfde lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding wegens eenzelfde gedraging is begaan.
 
@@ -387,7 +379,7 @@ Vervallen
 
 ##### Artikel 17c
 
-Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarvoor uitstel van betaling van de bestuurlijke boete kan worden verleend alsmede omtrent de hoogte van het op grond van [artikel 17g, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2019-07-01&g=2019-07-01), te verrekenen bedrag en de termijn of termijnen waarbinnen deze verrekening plaatsvindt.
+Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarvoor uitstel van betaling van de bestuurlijke boete kan worden verleend alsmede omtrent de hoogte van het op grond van [artikel 17g, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2020-01-01&g=2020-01-01), te verrekenen bedrag en de termijn of termijnen waarbinnen deze verrekening plaatsvindt.
 
 ##### Artikel 17d
 
@@ -403,7 +395,7 @@ Vervallen
 
 ##### Artikel 17g
 
-1. De Sociale verzekeringsbank verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 17a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01), met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.
+1. De Sociale verzekeringsbank verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 17a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01), met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.
 
 2. Onverminderd het eerste lid kan de Sociale verzekeringsbank de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.
 
@@ -411,7 +403,7 @@ Vervallen
 
 4. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan degene aan wie de boete is opgelegd.
 
-5. Zolang de verzekerde en degene met wie hij een huishouden vormt, dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, zijn verplichting als bedoeld in [artikel 17a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01), niet of niet behoorlijk nakomt:
+5. Zolang de verzekerde en degene met wie hij een huishouden vormt, dan wel de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, zijn verplichting als bedoeld in [artikel 17a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01), niet of niet behoorlijk nakomt:
 
 - a. is de Sociale verzekeringsbank, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
 
@@ -421,7 +413,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. De Sociale verzekeringsbank betaalt de kinderbijslag en het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), zo spoedig mogelijk, doch uiterlijk binnen drie maanden na afloop van het kwartaal waarover recht op kinderbijslag bestaat, respectievelijk binnen drie maanden na indiening van de aanvraag, bedoeld in [artikel 14, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14&z=2019-07-01&g=2019-07-01).
+1. De Sociale verzekeringsbank betaalt de kinderbijslag en het extra bedrag aan kinderbijslag, bedoeld in [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), zo spoedig mogelijk, doch uiterlijk binnen drie maanden na afloop van het kwartaal waarover recht op kinderbijslag bestaat, respectievelijk binnen drie maanden na indiening van de aanvraag, bedoeld in [artikel 14, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14&z=2020-01-01&g=2020-01-01).
 
 2. Indien twee personen, die gezamenlijk een huishouden vormen, over eenzelfde tijdvak recht op kinderbijslag voor eenzelfde kind hebben, wordt de kinderbijslag uitbetaald aan degene van hen die zij gezamenlijk daartoe hebben aangewezen.
 
@@ -447,7 +439,7 @@ De Sociale verzekeringsbank schort de betaling van de kinderbijslag op of schors
 
 - b. recht op een lagere kinderbijslag bestaat, of
 
-- c. de verzekerde, alsmede de persoon aan wie of de instelling aan welke op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, een verplichting hem of haar op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), [15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15a&z=2019-07-01&g=2019-07-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2019-07-01&g=2019-07-01) opgelegd, niet is nagekomen.
+- c. de verzekerde, alsmede de persoon aan wie of de instelling aan welke op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, een verplichting hem of haar op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), [15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15a&z=2020-01-01&g=2020-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=16&z=2020-01-01&g=2020-01-01) opgelegd, niet is nagekomen.
 
 ##### Artikel 19a
 
@@ -487,7 +479,7 @@ De kinderbijslag die niet in ontvangst is genomen of is ingevorderd binnen drie 
 
 - b. niet vatbaar voor verpanding of belening;
 
-- c. behoudens voor zoveel dit dient tot verhaal van een uitkering tot levensonderhoud van het kind, of tot terugvordering van onverschuldigd betaalde kinderbijslag als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2019-07-01&g=2019-07-01), niet vatbaar voor executoriaal of conservatoir beslag noch voor beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.
+- c. behoudens voor zoveel dit dient tot verhaal van een uitkering tot levensonderhoud van het kind, of tot terugvordering van onverschuldigd betaalde kinderbijslag als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2020-01-01&g=2020-01-01), niet vatbaar voor executoriaal of conservatoir beslag noch voor beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.
 
 2. Volmacht tot ontvangst van kinderbijslag, onder welke vorm of welke benaming ook door de verzekerde verleend, is steeds herroepelijk.
 
@@ -495,9 +487,9 @@ De kinderbijslag die niet in ontvangst is genomen of is ingevorderd binnen drie 
 
 ##### Artikel 24
 
-1. De kinderbijslag die als gevolg van een besluit als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14a&z=2019-07-01&g=2019-07-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door de Sociale verzekeringsbank van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, teruggevorderd.
+1. De kinderbijslag die als gevolg van een besluit als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=14a&z=2020-01-01&g=2020-01-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door de Sociale verzekeringsbank van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, teruggevorderd.
 
-2. In afwijking van het eerste lid kan de Sociale verzekeringsbank besluiten van terugvordering of van verdere terugvordering af te zien, indien de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald:
+2. In afwijking van het eerste lid kan de Sociale verzekeringsbank besluiten van terugvordering of van verdere terugvordering af te zien, indien de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald:
 
 - a. gedurende vijf jaar volledig aan zijn betalingsverplichtingen heeft voldaan;
 
@@ -507,13 +499,13 @@ De kinderbijslag die niet in ontvangst is genomen of is ingevorderd binnen drie 
 
 - d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.
 
-3. De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01).
+3. De in het tweede lid, onderdelen a, b en c, genoemde termijn is tien jaar indien de terugvordering het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01).
 
 4. De in het tweede lid, onder a en b, genoemde termijn is drie jaar indien:
 
 - a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan; en
 
-- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01).
+- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01).
 
 5. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van terugvordering af te zien.
 
@@ -523,13 +515,13 @@ De kinderbijslag die niet in ontvangst is genomen of is ingevorderd binnen drie 
 
 ##### Artikel 24a
 
-1. De Sociale verzekeringsbank kan de onverschuldigd betaalde kinderbijslag, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2019-07-01&g=2019-07-01), invorderen bij dwangbevel.
+1. De Sociale verzekeringsbank kan de onverschuldigd betaalde kinderbijslag, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2020-01-01&g=2020-01-01), invorderen bij dwangbevel.
 
-2. [Artikel 17g](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2019-07-01&g=2019-07-01) is van overeenkomstige toepassing, met dien verstande dat:
+2. [Artikel 17g](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing, met dien verstande dat:
 
 - a. indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt; en
 
-- b. indien degene van wie wordt teruggevorderd, dan wel degene met wie hij een huishouden vormt, kinderbijslag op grond van deze wet ontvangt, in afwijking van [artikel 17g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2019-07-01&g=2019-07-01), het besluit tot terugvordering ten uitvoer kan worden gelegd door verrekening met die bijslag.
+- b. indien degene van wie wordt teruggevorderd, dan wel degene met wie hij een huishouden vormt, kinderbijslag op grond van deze wet ontvangt, in afwijking van [artikel 17g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17g&z=2020-01-01&g=2020-01-01), het besluit tot terugvordering ten uitvoer kan worden gelegd door verrekening met die bijslag.
 
 ##### Artikel 24b
 
@@ -571,9 +563,9 @@ Vervallen
 
 ##### Artikel 29a
 
-1. De Sociale verzekeringsbank beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in het derde lid, in de vorm van een Algemeen Kinderbijslagfonds dat deel uitmaakt van de Sociale verzekeringsbank, alsmede door de met toepassing van [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01) verkregen boeten.
+1. De Sociale verzekeringsbank beheert en administreert afzonderlijk de middelen tot dekking van de uitgaven, bedoeld in het derde lid, in de vorm van een Algemeen Kinderbijslagfonds dat deel uitmaakt van de Sociale verzekeringsbank, alsmede door de met toepassing van [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01) verkregen boeten.
 
-2. In de middelen tot dekking van de uitgaven ten laste van het Algemeen Kinderbijslagfonds wordt voorzien door het Rijk, onderscheidenlijk de afdracht van de boeten, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01), door de Sociale verzekeringsbank.
+2. In de middelen tot dekking van de uitgaven ten laste van het Algemeen Kinderbijslagfonds wordt voorzien door het Rijk, onderscheidenlijk de afdracht van de boeten, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01), door de Sociale verzekeringsbank.
 
 3. De ingevolge deze wet uit te keren kinderbijslagen en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Algemeen Kinderbijslagfonds.
 
@@ -597,7 +589,7 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 31
 
-1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=2&z=2019-07-01&g=2019-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=3&z=2019-07-01&g=2019-07-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=II&artikel=6&z=2019-07-01&g=2019-07-01).
+1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=I&artikel=3&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=II&artikel=6&z=2020-01-01&g=2020-01-01).
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
@@ -701,9 +693,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 24c
 
-1. In afwijking van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2019-07-01&g=2019-07-01), kan de Sociale verzekeringsbank, op verzoek van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
+1. In afwijking van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2020-01-01&g=2020-01-01), kan de Sociale verzekeringsbank, op verzoek van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
 
-- a. redelijkerwijs te voorzien is dat verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen;
+- a. redelijkerwijs te voorzien is dat verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen;
 
 - b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;
 
@@ -713,13 +705,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=349).
 
-2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), en hiervoor een boete als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2019-07-01&g=2019-07-01) is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
+2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald, van de verplichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01), en hiervoor een boete als bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=17a&z=2020-01-01&g=2020-01-01) is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
-3. Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald gewijzigd indien:
+3. Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald gewijzigd indien:
 
 - a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;
 
-- b. de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald zijn schuld aan de Sociale verzekeringsbank niet overeenkomstig de schuldregeling voldoet; of
+- b. de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald zijn schuld aan de Sociale verzekeringsbank niet overeenkomstig de schuldregeling voldoet; of
 
 - c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit zou hebben geleid.
 
@@ -727,7 +719,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 24d
 
-Een vordering van de Sociale verzekeringsbank als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2019-07-01&g=2019-07-01) en [24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24c&z=2019-07-01&g=2019-07-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
+Een vordering van de Sociale verzekeringsbank als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24&z=2020-01-01&g=2020-01-01) en [24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=24c&z=2020-01-01&g=2020-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
 ### Hoofdstuk IV
 
@@ -753,11 +745,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 41b
 
-1. Op de persoon die op grond van een verdrag, de voorlopige toepassing van een verdrag dan wel een daarmee gelijk te stellen situatie in afwijking van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2019-07-01&g=2019-07-01) recht heeft op kinderbijslag en wiens recht op kinderbijslag uitsluitend zou eindigen als gevolg van de opzegging of wijziging van dat verdrag, de beëindiging van de voorlopige toepassing van dat verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, blijft artikel 7b gedurende de eerste twee kalenderkwartalen vanaf de buitenwerkingtreding van het verdrag, de inwerkingtreding van de desbetreffende wijziging respectievelijk de beëindiging van de voorlopige toepassing of de beëindiging van de daarmee gelijk te stellen situatie buiten toepassing.
+1. Op de persoon die op grond van een verdrag, de voorlopige toepassing van een verdrag dan wel een daarmee gelijk te stellen situatie in afwijking van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2020-01-01&g=2020-01-01) recht heeft op kinderbijslag en wiens recht op kinderbijslag uitsluitend zou eindigen als gevolg van de opzegging of wijziging van dat verdrag, de beëindiging van de voorlopige toepassing van dat verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, blijft artikel 7b gedurende de eerste twee kalenderkwartalen vanaf de buitenwerkingtreding van het verdrag, de inwerkingtreding van de desbetreffende wijziging respectievelijk de beëindiging van de voorlopige toepassing of de beëindiging van de daarmee gelijk te stellen situatie buiten toepassing.
 
 2. Het eerste lid blijft van toepassing zolang het kind op de eerste dag van de in dat lid bedoelde kalenderkwartalen woont in hetzelfde land als waar hij op de eerste dag van het daaraan voorafgaande kalenderkwartaal woonde en de verzekerde blijft voldoen aan de overige voorwaarden voor het recht op kinderbijslag.
 
-3. Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid zodanig is gewijzigd dat niet langer in afwijking van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2019-07-01&g=2019-07-01) recht op kinderbijslag kan bestaan, een verdrag als bedoeld in het eerste lid buitenwerking is getreden als gevolg van opzegging dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.
+3. Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid zodanig is gewijzigd dat niet langer in afwijking van [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7b&z=2020-01-01&g=2020-01-01) recht op kinderbijslag kan bestaan, een verdrag als bedoeld in het eerste lid buitenwerking is getreden als gevolg van opzegging dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -783,7 +775,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 41a
 
-[Artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2019-07-01&g=2019-07-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdeel B, van de Verzamelwet SZW 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040370&artikel=I), blijft van toepassing op een recht op een extra bedrag aan kinderbijslag over het kalenderjaar voorafgaand aan het kalenderjaar waarin artikel I, onderdeel B, van de Verzamelwet SZW 2018 in werking is getreden.
+[Artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7a&z=2020-01-01&g=2020-01-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdeel B, van de Verzamelwet SZW 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040370&artikel=I), blijft van toepassing op een recht op een extra bedrag aan kinderbijslag over het kalenderjaar voorafgaand aan het kalenderjaar waarin artikel I, onderdeel B, van de Verzamelwet SZW 2018 in werking is getreden.
 
 ##### Artikel 13a
 
@@ -791,13 +783,13 @@ Vervallen
 
 ##### Artikel 15a
 
-1. In aanvulling op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01) kan de Sociale verzekeringsbank de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald verzoeken aan te tonen dat:
+1. In aanvulling op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2020-01-01&g=2020-01-01) kan de Sociale verzekeringsbank de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald verzoeken aan te tonen dat:
 
-- a. ten aanzien van een kind als bedoeld in [artikel 7, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2019-07-01&g=2019-07-01), wordt voldaan aan de voorwaarden, gesteld in artikel 7, eerste lid, onderdeel a, en tweede lid, of
+- a. ten aanzien van een kind als bedoeld in [artikel 7, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2020-01-01&g=2020-01-01), wordt voldaan aan de voorwaarden, gesteld in artikel 7, eerste lid, onderdeel a, en tweede lid, of
 
-- b. een kind als bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2019-07-01&g=2019-07-01), niet tot het huishouden van de verzekerde noch tot het huishouden van een ander behoort.
+- b. een kind als bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=1&artikel=7&z=2020-01-01&g=2020-01-01), niet tot het huishouden van de verzekerde noch tot het huishouden van een ander behoort.
 
-2. Teneinde de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2019-07-01&g=2019-07-01) kinderbijslag wordt betaald daartoe in de gelegenheid te stellen, kan de Sociale verzekeringsbank bij dit verzoek aanbieden met de toestemming van de verzekerde of de bewoner van de woning waar het kind woont, de woning van verzekerde onderscheidenlijk de woning waar het kind woont binnen te treden.
+2. Teneinde de verzekerde of de persoon aan wie of de instelling waaraan op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=21&z=2020-01-01&g=2020-01-01) kinderbijslag wordt betaald daartoe in de gelegenheid te stellen, kan de Sociale verzekeringsbank bij dit verzoek aanbieden met de toestemming van de verzekerde of de bewoner van de woning waar het kind woont, de woning van verzekerde onderscheidenlijk de woning waar het kind woont binnen te treden.
 
 3. Indien door het ontbreken van toestemming van de bewoner niet kan worden vastgesteld tot wiens huishouden het kind behoort, heeft dit gevolgen voor het recht op en het geldend maken van het recht op kinderbijslag.
 
@@ -823,11 +815,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 7aa
 
-1. De verzekerde heeft geen recht op kinderbijslag overeenkomstig de bepalingen van deze wet voor een kind, indien dat kind op de eerste dag van een kalenderkwartaal recht heeft op studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
-
-2. Ook bestaat geen recht op kinderbijslag zolang op een verzoek tot het treffen van een voorlopige voorziening als bedoeld in [titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3), ingediend door degene die studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) heeft aangevraagd, geen uitspraak is gedaan.
-
-3. Voor de toepassing van dit artikel en de [artikelen 15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-07-01&g=2019-07-01), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III&paragraaf=3&artikel=25&z=2019-07-01&g=2019-07-01), wordt een reisvoorziening voor de deelnemer als bedoeld in [artikel 2.3, eerste lid, tweede volzin, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.3) niet beschouwd als studiefinanciering in de zin van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+Vervallen
 
 #### § 2. Het geldend maken van het recht op kinderbijslag
 
@@ -880,6 +868,12 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 41c
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 41d
 
 Dit onderdeel is nog niet inwerking getreden
 
