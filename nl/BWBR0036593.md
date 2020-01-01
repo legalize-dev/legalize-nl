@@ -4,7 +4,7 @@ identifier: "BWBR0036593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036593"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling
 
 ##### Artikel 6. Ontslagadviescommissie
 
-Na ontvangst van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 4, tweede, derde en vijfde lid, naar voren hebben gebracht, kan het UWV het verzoek om toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) en de daarop betrekking hebbende gegevens en bescheiden voor advies aan de ontslagadviescommissie voorleggen.
+Na ontvangst van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 4, tweede, derde en vijfde lid, naar voren hebben gebracht, kan het UWV het verzoek om toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) en de daarop betrekking hebbende gegevens en bescheiden voor advies aan de ontslagadviescommissie voorleggen.
 
 ##### Artikel 7. Geen toestemming bij opzegverbod
 
@@ -100,13 +100,7 @@ Vervallen
 
 ##### Artikel 8. Beoordeling financiële omstandigheden
 
-1. Op verzoek van de werkgever, bedoeld in [artikel 673d, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673d), die een verzoek om toestemming heeft ingediend, of de werknemer op wie het verzoek om toestemming betrekking heeft, geeft het UWV een oordeel over de toepasselijkheid van de voorwaarden, bedoeld in [artikel 24, tweede lid, onderdelen a tot en met c, van de Ontslagregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&artikel=24).
-
-2. Een verzoek als bedoeld in het eerste lid wordt door de werkgever gelijktijdig met het verzoek om toestemming gedaan.
-
-3. Een verzoek als bedoeld in het eerste lid wordt door de werknemer ten laatste gelijktijdig met zijn verweer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), gedaan.
-
-4. Dit artikel vervalt met ingang van 1 januari 2020.
+Vervallen
 
 #### § 3. Slotbepalingen
 
