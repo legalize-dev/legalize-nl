@@ -4,7 +4,7 @@ identifier: "BWBR0040133"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040133"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het uitingen van bekostigde instellingen voor hoger onderwijs op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Economische Zaken;
 
-- c. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=2&z=2018-01-01&g=2018-01-01);
+- c. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - d. **uiting:** gedragingen en uitlatingen;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 7. De commissieleden kunnen om zwaarwegende redenen worden geschorst en ontslagen door de minister.
 
-8. Indien een commissielid zich in verband met belangenverstrengeling tijdelijk van zijn taak dient te verschonen, benoemt de minister in zijn plaats een tijdelijk lid met inachtneming van het bepaalde in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=3&z=2018-01-01&g=2018-01-01). Deze tijdelijke benoeming behoeft de instemming van de overige leden van de commissie.
+8. Indien een commissielid zich in verband met belangenverstrengeling tijdelijk van zijn taak dient te verschonen, benoemt de minister in zijn plaats een tijdelijk lid met inachtneming van het bepaalde in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=3&z=2020-01-01&g=2020-01-01). Deze tijdelijke benoeming behoeft de instemming van de overige leden van de commissie.
 
 ##### Artikel 4. Commissieleden
 
@@ -120,13 +120,13 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-2. De vergoeding per vergadering van de leden bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering van de leden bedraagt 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.
 
 4. Twee of meer vergaderingen op dezelfde dag worden als één vergadering aangemerkt.
 
-5. De voorzitter en de andere leden ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889). Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
+5. De voorzitter en de andere leden ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
 ##### Artikel 9. Kosten van de commissie
 
@@ -134,7 +134,7 @@ De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de m
 
 - a. de kosten voor de faciliteiten van vergaderingen en voor het secretariaat,
 
-- b. de kosten voor het inschakelen van externe deskundigheid als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=6&z=2018-01-01&g=2018-01-01).
+- b. de kosten voor het inschakelen van externe deskundigheid als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=6&z=2020-01-01&g=2020-01-01).
 
 ##### Artikel 10. Openbaarmaking
 
