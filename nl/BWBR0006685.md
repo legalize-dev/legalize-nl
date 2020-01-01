@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2015-07-01"
+last_updated: "2020-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -93,7 +93,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -129,9 +129,9 @@ Het COA heeft een bestuur.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
@@ -145,7 +145,7 @@ Vervallen
 
 ##### Artikel 12
 
-In afwijking van [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) zijn de bij het COA werkzame personen geen ambtenaar, maar werknemer naar burgerlijk recht. In afwijking van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) zijn zij geen overheidswerknemer in de zin van die wet. [Artikel 15 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) is niet van toepassing.
+In afwijking van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) zijn de bij het COA werkzame personen geen overheidswerknemer in de zin van die wet. [Artikel 15 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) is niet van toepassing.
 
 ##### Artikel 13
 
