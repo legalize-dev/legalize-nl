@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2014-10-01"
+last_updated: "2020-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -52,7 +52,141 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene veiligheidsnormen.
 
-## Bijlage
+## Bijlage. bij de Warenwetregeling aanwijzing algemene veiligheidsnormen
+
+EN 581-1:2006 Buitenmeubelen – Zitmeubelen en tafels voor gebruik op campings, in huishoudens en voor verhuurdoeleinden – Deel 1: Algemene veiligheidseisen
+
+EN 913:2018 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
+
+EN 914:2008 Turntoestellen – Bruggen met gelijke liggers en bruggen met ongelijke liggers – Eisen en beproevingsmethoden inclusief veiligheid
+
+EN 915:2008 Turntoestellen – Bruggen met ongelijke liggers – Functionele eisen en veiligheidseisen, beproevingsmethoden
+
+EN 916:2003 Turntoestellen – Springkasten – Eisen (inclusief veiligheid) en beproevingsmethoden
+
+EN 957-2:2003 Vast opgestelde trainingsapparatuur – Deel 2: Krachttrainingsapparatuur, aanvullende bijzondere veiligheidseisen en beproevingsmethoden
+
+EN 957-6:2010+A1:2014 Vast opgestelde trainingsapparatuur – Deel 6: Loopbanden, aanvullende specifieke veiligheidseisen en beproevingsmethoden
+
+EN 957-7:1998 Vast opgestelde trainingsapparatuur – Deel 7: Roeiapparaten, aanvullende bijzondere veiligheidseisen en beproevingsmethoden
+
+EN 1129-1:1995 Meubelen – Opklapbedden – Veiligheidseisen en beproeving – Deel 1: Veiligheidseisen
+
+EN 1129-2:1995 Meubelen – Opklapbedden – Veiligheidseisen en beproeving – Deel 2: Beproevingsmethoden
+
+EN 1130-1:1996 Meubelen – Wiegen voor huiselijk gebruik – Deel 1: Veiligheidseisen
+
+EN 1130-2:1996 Meubelen – Wiegen voor huiselijk gebruik – Deel 2: Beproevingsmethoden
+
+EN 1273:2005 Artikelen voor zuigelingen en peuters – Loopstoeltjes – Veiligheidseisen en beproevingsmethoden
+
+EN 1466:2014 Artikelen voor zuigelingen en peuters – Reiswiegen en standaards – Veiligheidseisen en beproevingsmethoden
+
+EN 1651:1999 Uitrusting voor schermvliegen – Harnasgordels – Veiligheidseisen en sterktebeproevingen
+
+EN 1930:2011 Artikelen voor zuigelingen en peuters – Veiligheidshekjes – Veiligheidseisen en beproevingsmethoden
+
+EN ISO 4210-1:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 1: Termen en definities (ISO 4210-1:2014)
+
+EN ISO 4210-2:2015 Rijwielen – Veiligheidseisen voor fietsen – Deel 2: Eisen voor stads- en toerfietsen, jeugdfietsen, mountainbikes en racefietsen (ISO 4210-2:2015)
+
+EN ISO 4210-3:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 3: Algemene beproevingsmethoden (ISO 4210-3:2014)
+
+EN ISO 4210-4:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 4: Rem beproevingsmethode (ISO 4210-4:2014)
+
+EN ISO 4210-5:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 5: Beproevingsmethoden voor sturen (ISO 4210-5:2014, gecorrigeerde versie 2015-02-01)
+
+EN ISO 4210-6:2015 Rijwielen – Veiligheidseisen voor fietsen – Deel 6: Beproevingsmethoden voor frame en vork (ISO 4210-6:2015)
+
+EN ISO 4210-7:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 7: Beproevingsmethodes voor wielen en velgen (ISO 4210-7:2014)
+
+EN ISO 4210-8:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 8: Beproevingsmethoden van pedalen en crank (ISO 4210-8:2014)
+
+EN ISO 4210-9:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 9: Beproevingsmethoden voor zadels en zadelpennen (ISO 4210- 9:2014)
+
+EN ISO 8098:2014 Fietsen – Veiligheidseisen voor fietsen voor jonge kinderen (ISO 8098:2014)
+
+EN ISO 9994:2006 Aanstekers – Veiligheidsbepalingen (ISO 9994:2005)
+
+EN ISO 11243:2016 Cycli – Bagagedragers voor fietsen – Eisen en beproevingsmethoden (ISO 11243: 2016)
+
+EN 12196:2003 Turntoestellen – Paarden en turnbokken – Functionele- en veiligheidseisen, beproevingsmethoden
+
+EN 12197:1997 Turntoestellen – Rekstokken – Veiligheidseisen en beproevingsmethoden
+
+EN 12221-1:2008+A1:2013 Artikelen voor zuigelingen en peuters – Kindercommodes voor huishoudelijk gebruik – Deel 1: Veiligheidseisen
+
+EN 12221-2:2008+A1:2013 Artikelen voor zuigelingen en peuters – Kindercommodes voor huishoudelijk gebruik – Deel 2: Beproevingsmethoden
+
+EN 12346:1998 Turntoestellen – Balken, ladders en klimrekken Veiligheidseisen en beproevingsmethoden
+
+EN 12432:1998 Turntoestellen – Evenwichtsbalken – Functionele en veiligheidseisen, beproevingsmethoden
+
+EN 12491:2001 Schermvliegtuigen – Noodparachutes – Veiligheidseisen en beproevingsmethoden
+
+EN 12655:1998 Turntoestellen – Ringentoestellen – Functionele en veiligheidseisen, beproevingsmethoden
+
+EN ISO 12863:2010 Standaard beproevingsmethode voor bepaling van de ontvlambaarheid van sigaretten (ISO 12863:2010) EN ISO 12863:2010/A1:2016
+
+EN 13120:2009+A1:2014 Aan de binnenzijde geplaatste zonneschermen – Prestatie-eisen inclusief veiligheid
+
+EN 13209-1:2004 Artikelen voor zuigelingen en peuters – Babydragers – Veiligheidseisen en beproevingsmethoden – Deel 1: Rugdraagstoeltjes
+
+EN 13209-2:2015 Artikelen voor zuigelingen en peuters – Babydragers – Veiligheidseisen en beproevingsmethoden – Deel 2: Draagzak
+
+EN 13219:2008 Turntoestellen – Trampolines – Functionele en veiligheidseisen, beproevingsmethoden
+
+EN 13319:2000 Duiktoebehoren – Dieptemeters en gecombineerde diepte- en tijdmeetinstrumenten – Functionele en veiligheidseisen, beproevingsmethoden
+
+EN 13869:2016 Aanstekers – Kindveiligheid van aanstekers – Veiligheidseisen en beproevingsmethoden
+
+EN 13899:2003 Rolsportmaterieel – Rolschaatsen – Veiligheidseisen en beproevingsmethoden
+
+EN 14059:2002 Decoratieve olielampen – Veiligheidseisen en beproevingsmethoden
+
+EN 14344:2004 Artikelen voor zuigelingen en peuters – Kinderzitjes voor de fiets – Veiligheidseisen en beproevingsmethoden
+
+EN 14350-1:2004 Artikelen voor zuigelingen en peuters – Drinkgerei – Deel 1: Algemene en mechanische eisen en beproevingsmethoden
+
+EN 14682:2014 Veiligheid van kinderkleding – Koorden en treksluitingen van kinderkleding – Specificaties
+
+EN 16156:2010 Sigaretten – Beoordeling van het ontstekend vermogen – Veiligheidseis
+
+EN 16281:2013 Producten veilig voor kinderen – Kindveilige sluitingen voor ramen en balkondeuren bestemd voor de consument – Veiligheidseisen en beproevingsmethoden
+
+EN 16433:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen verwurging – Beproevingsmethoden
+
+EN 16434:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen verwurging – Eisen en beproevingsmethoden voor veiligheidsvoorzieningen
+
+EN ISO 20957-1:2013 Vast opgestelde trainingsapparatuur – Deel 1: Algemene veiligheidseisen en beproevingsmethoden (ISO 20957- 1:2013)
+
+EN ISO 20957-4:2016 Vast opgestelde trainingsapparatuur – Deel 4: Krachttrainingsbanken, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-4:2016)
+
+EN ISO 20957-5:2016 Vast opgestelde trainingsapparatuur – Deel 5: Trainingsapparatuur met pedalen, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-5:2016)
+
+EN ISO 20957-8:2017 Vast opgestelde trainingsapparatuur – Deel 8: Stap-, traploop- en klimapparaten – Aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-8:2017)
+
+EN ISO 20957-9:2016 Vast opgestelde trainingsapparatuur – Deel 9: Elliptische oefentoestellen, aanvullende bijzondere veiligheidseisen en beproevingsmethoden (ISO 20957-9:2016)
+
+EN ISO 20957-10:2017 Vast opgestelde trainingsapparatuur – Deel 10: Trainingsfietsen met een vast wiel of zonder freewheel, aanvullende specifieke veiligheidseisen en beproevingsmethoden (ISO 20957-10:2017)
+
+EN ISO 25649-1:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 1: Classificatie, materialen, algemene eisen en beproevingsmethoden (ISO 25649-1:2017)
+
+EN ISO 25649-2:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 2: Consumenteninformatie (ISO 25649- 2:2017)
+
+EN ISO 25649-3:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 3: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse A toestellen (ISO 25649-3:2017)
+
+EN ISO 25649-4:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 4: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse B toestellen (ISO 25649-4:2017)
+
+EN ISO 25649-5:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 5: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse C toestellen (ISO 25649-5:2017)
+
+EN ISO 25649-6:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 6: Aanvullende bijzondere eisen voor Klasse D toestellen (ISO 25649-6:2017)
+
+EN ISO 25649-7:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 7: Aanvullende bijzondere eisen en beproevingsmethoden voor klasse E toestellen (ISO 25649-7:2017)
+
+EN 60065:2002 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen IEC 60065:2001 (Gewijzigd) EN 60065:2002/A12:2011
+
+EN 60950-1:2006 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen IEC 60950-1:2005 (Gewijzigd) EN 60950-1:2006+A12:2011
 
 ### Bijlage bij de Warenwetregeling aanwijzing algemene veiligheidsnormen: Normen die vermoed worden geen gevaar op te leveren als bedoeld in [artikel 18a, eerste lid van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18a)
 
@@ -195,6 +329,8 @@ EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontsteken
 EN 60065:2002/A12:2011 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen
 
 EN 60950-1:2006/A12:2011 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
