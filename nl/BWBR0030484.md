@@ -4,7 +4,7 @@ identifier: "BWBR0030484"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-18"
-last_updated: "2016-10-01"
+last_updated: "2020-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030484"
 soort: "pbo"
@@ -204,3 +204,7 @@ Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011
 ##### Artikel 22. Inwerking treden
 
 Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
+
+##### Artikel 19a
+
+Bij het vaststellen van de identiteit van de bij het verlijden van een akte voor de eerste maal voor de notaris verschijnende personen, controleert de notaris het hem getoonde document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) op diefstal, vermissing, geldigheid en echtheid. De notaris maakt hierbij voor zover mogelijk gebruik van hiervoor geschikte, door het bestuur aangewezen apparatuur, programmatuur, applicaties en systemen.
