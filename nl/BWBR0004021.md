@@ -4,7 +4,7 @@ identifier: "BWBR0004021"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-21"
-last_updated: "2012-05-09"
+last_updated: "2020-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004021"
 soort: "AMvB"
@@ -70,8 +70,12 @@ Vervallen
 
 ##### Artikel 6
 
-1. Dit besluit treedt in werking met ingang van de zevende maand na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst, met dien verstande dat waren welke voor genoemde datum in de handel zijn gebracht, nog zes maanden na die inwerkingtreding mogen worden verhandeld.
+Dit besluit wordt aangehaald als: Warenwetbesluit spaanplaat.
 
-2. Dit besluit kan worden aangehaald als: "Spaanplaatbesluit (Warenwet)".
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 1a
+
+Het is verboden spaanplaat te verhandelen of te vervaardigen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
