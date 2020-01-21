@@ -4,7 +4,7 @@ identifier: "BWBR0003914"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2012-05-09"
+last_updated: "2020-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003914"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 - a. draagbaar klimmaterieel bedoeld om uitsluitend als speelgoed te worden gebruikt;
 
-- b. door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid tezamen aan te wijzen draagbaar klimmaterieel.
+- b. door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid tezamen aan te wijzen draagbaar klimmaterieel.
 
 ##### Artikel 2
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 - b. een zodanige constructie hebben dat het gevaar voor de gebruiker om letsel op te lopen, dat bij gebruik van klimmaterieel aanwezig is, door de uitwendige staat, de stabiliteit of de sterkte van het draagbare klimmaterieel niet wordt vergroot.
 
-2. Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid tezamen kunnen omtrent het in het eerste lid bepaalde nadere regelen stellen. Deze regelen worden in de **Staatscourant** bekend gemaakt.
+2. Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid tezamen kunnen omtrent het in het eerste lid bepaalde nadere regelen stellen. Deze regelen worden in de **Staatscourant** bekend gemaakt.
 
 ##### Artikel 3
 
@@ -94,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. Voor de beoordeling of draagbaar klimmaterieel voldoet aan het bij of krachtens dit besluit bepaalde, moet worden gebruik gemaakt van de terzake door Onze Ministers van Volksgezondheid, Welzijn en Sport, van Economische Zaken, Landbouw en Innovatie en van Sociale Zaken en Werkgelegenheid vastgestelde onderzoekingsmethoden voorzover deze daarvoor toereikend zijn.
+1. Voor de beoordeling of draagbaar klimmaterieel voldoet aan het bij of krachtens dit besluit bepaalde, moet worden gebruik gemaakt van de terzake door Onze Ministers van Volksgezondheid, Welzijn en Sport en van Sociale Zaken en Werkgelegenheid vastgestelde onderzoekingsmethoden voorzover deze daarvoor toereikend zijn.
 
 2. Deze onderzoekingsmethoden worden in de **Staatscourant** bekend gemaakt.
 
@@ -104,15 +104,15 @@ Vervallen
 
 ##### Artikel 6
 
-1. Dit besluit kan worden aangehaald als: "Besluit draagbaar klimmaterieel (Warenwet)".
-
-2. Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
+Dit besluit wordt aangehaald als: Warenwetbesluit draagbaar klimmaterieel.
 
 ## Bijlage. bij Besluit draagbaar klimmaterieel (Warenwet)
 
 ### Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel.
 
-### A. Inspectie en voorbereiding
+### Voorschriften inzake de inhoud van de gebruiksaanwijzing en de handleiding voor draagbaar klimmaterieel.
+
+A. 1. Controleer draagbaar klimmaterieel na ontvangst en voor ieder gebruik.
 
 A. 1. Controleer draagbaar klimmaterieel na ontvangst en voor ieder gebruik.
 
@@ -124,11 +124,11 @@ A. 4. Breng geen tijdelijke reparaties aan aan draagbaar klimmaterieel.
 
 Laat reparaties van draagbaar klimmaterieel over aan een terzake deskundige.
 
-A. 5. Houd draagbaar klimmaterieel zoveel mogelijk vrij van ongerechtigheden, zoals natte verf, modder, sneeuw en olie.
+### B. Toepassing en plaatsing
 
 ### B. Toepassing en plaatsing
 
-### I. Algemeen
+B. 1. Gebruik draagbaar klimmaterieel uitsluitend voor het doel waarvoor het is vervaardigd. Maak geen oneigenlijk gebruik van draagbaar klimmaterieel.
 
 B. 1. Gebruik draagbaar klimmaterieel uitsluitend voor het doel waarvoor het is vervaardigd. Maak geen oneigenlijk gebruik van draagbaar klimmaterieel.
 
@@ -146,9 +146,9 @@ B. 7. Gebruik bij harde wind - windkracht 6 - buitenshuis geen draagbaar klimmat
 
 B. 8. Laat opgesteld draagbaar klimmaterieel nooit onbeheerd achter. Denk aan kinderen.
 
-B. 9. Beklim bij 3-delige reformladders, welke worden toegepast als vrijstaand draagbaar klimmaterieel, nooit het uitgeschoven derde ladderdeel boven het scharnierpunt.
-
 ### II. Voor draagbaar klimmaterieel welk tegen een muur, wand of gevel wordt geplaatst
+
+B. 10. Plaats draagbaar klimmaterieel zodanig, dat de afstand van de voet van het draagbaar klimmaterieel tot de muur ongeveer gelijk is aan een kwart van de lengte van het draagbaar klimmaterieel. (Het draagbare klimmaterieel behoort in deze stand onder een hoek van ± 75° ten opzichte van het horizontale vlak te staan).
 
 B. 10. Plaats draagbaar klimmaterieel zodanig, dat de afstand van de voet van het draagbaar klimmaterieel tot de muur ongeveer gelijk is aan een kwart van de lengte van het draagbaar klimmaterieel. (Het draagbare klimmaterieel behoort in deze stand onder een hoek van ± 75° ten opzichte van het horizontale vlak te staan).
 
@@ -160,9 +160,9 @@ B. 13. Plaats draagbaar klimmaterieel welk kan worden opgestoken zodanig, dat al
 
 B. 14. Let er op dat bij meerdelig draagbaar klimmaterieel, welk in uitgeschoven of opgestoken stand wordt gebruikt, de haken goed over de sporten grijpen.
 
-B. 15. Het optrektouw moet in de gebruiksstand van het draagbare klimmaterieel zijn vastgezet aan een sport.
-
 ### C. Beklimming en gebruik
+
+C. 1. Beklim draagbaar klimmaterieel altijd met het gezicht er naar toe.
 
 C. 1. Beklim draagbaar klimmaterieel altijd met het gezicht er naar toe.
 
@@ -180,9 +180,9 @@ C. 7. Ga nooit met één voet op draagbaar klimmaterieel en met de andere voet o
 
 C. 8. Leun niet te ver opzij. Verplaats draagbaar klimmaterieel wat vaker.
 
-C. 9. Verplaats draagbaar klimmaterieel niet wanneer u er op staat.
-
 ### D. Onderhoud en opslag
+
+D. 1. Onderhoud draagbaar klimmaterieel volgens de voorschriften.
 
 D. 1. Onderhoud draagbaar klimmaterieel volgens de voorschriften.
 
@@ -201,6 +201,32 @@ D. 7. Vernietig gebroken, versleten of onherstelbaar beschadigd draagbaar klimma
 D. 8. Berg draagbaar klimmaterieel zodanig op, dat doorhangen wordt voorkomen.
 
 D. 9. Berg houten draagbaar klimmaterieel op in een koele en voldoende geventileerde ruimte.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 1a
+
+Het is verboden draagbaar klimmaterieel te verhandelen, te vervaardigen of binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
+
+## Bijlage. bij Besluit draagbaar klimmaterieel (Warenwet)
+
+### A. Inspectie en voorbereiding
+
+A. 5. Houd draagbaar klimmaterieel zoveel mogelijk vrij van ongerechtigheden, zoals natte verf, modder, sneeuw en olie.
+
+### I. Algemeen
+
+B. 9. Beklim bij 3-delige reformladders, welke worden toegepast als vrijstaand draagbaar klimmaterieel, nooit het uitgeschoven derde ladderdeel boven het scharnierpunt.
+
+### II. Voor draagbaar klimmaterieel welk tegen een muur, wand of gevel wordt geplaatst
+
+B. 15. Het optrektouw moet in de gebruiksstand van het draagbare klimmaterieel zijn vastgezet aan een sport.
+
+### C. Beklimming en gebruik
+
+C. 9. Verplaats draagbaar klimmaterieel niet wanneer u er op staat.
+
+### D. Onderhoud en opslag
 
 Deze bijlage behoort bij het Besluit draagbaar klimmaterieel (Warenwet).
 
