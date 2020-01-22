@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2019-10-19"
+last_updated: "2020-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2019-10-19&g=2019-10-19) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-01-22&g=2020-01-22) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2019-10-19&g=2019-10-19).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-01-22&g=2020-01-22).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2019-10-19&g=2019-10-19)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-01-22&g=2020-01-22)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -227,7 +227,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor keuzedelen vanaf 1 april 2018** | **Certificaten voor keuzedelen vanaf 1 april 2018** |
 | K0506 | Toepassing natuurlijke koudemiddelen in de praktijk |
 | K0669 | Benutten en toepassen van restwarmte |
-| K0710 | Warmtepompen en warmteterugwinningsinstallaties |
+| K0710 | Capaciteitsinvloeden bij warmtepompen |
 | K0308 | Verdieping montage componenten koude- en klimaatsystemen |
 |   |   |
 | **Certificaten voor keuzedelen vanaf 1 juli 2018** | **Certificaten voor keuzedelen vanaf 1 juli 2018** |
@@ -294,10 +294,22 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K0180 | Verdieping techniek en materialenkennis |
 | K0645 | Verdieping hematologie |
 | K0647 | Verdieping in klinische chemie |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2020** | **Certificaten voor keuzedelen vanaf januari 2020** |
+| K0153 | Gastvrijheid in de zorg |
+| K0333 | Productietechniek geschikt voor niveau 2 |
+| K0334 | Productietechniek geschikt voor niveau 3 |
+| K1137 | Voeding en hospitality in zorg en welzijn |
+| K1120 | Informatiedienstverlening in de nieuwe bibliotheek |
+| K0827 | PVC-strokenvloeren leggen |
+| K1105 | Oriëntatie blockchain |
+| K1114 | Verdieping blockchain |
+| K0978 | Beachsporten |
+| K0615 | Urban Sports |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2019-10-19&g=2019-10-19)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-01-22&g=2020-01-22)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -317,6 +329,10 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0028 | Restauratieschildertechnieken | 25036 | Decoratie- en restauratieschilder |
 | C0029 | Technisch adviseren vastgoedonderhoud | 25013 | Projectmanager vastgoedonderhoud |
 | C0030 | Verzorgen van varkens | 25537 | Vakbekwaam medewerker veehouderij |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** |
+| C0031 | Ruwbouw Timmeren | 25128 | Timmerman |
+| C0032 | Werken aan warmtedistributienetten | 25267 | Eerste monteur gas-, water- en warmtedistributie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
