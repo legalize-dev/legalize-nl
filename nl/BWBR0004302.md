@@ -4,7 +4,7 @@ identifier: "BWBR0004302"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-12"
-last_updated: "2020-01-01"
+last_updated: "2020-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004302"
 soort: "wet"
@@ -73,6 +73,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - **Europese Economische Ruimte:** het geheel van staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
+- **gedelegeerde verordening gegevensopslagcontracten:** door Onze Minister aan te wijzen gedelegeerde verordening;
+
 - **grensoverschrijdende verkoop op afstand:** een verkoop op afstand aan consumenten waarbij de consument zich op het tijdstip waarop hij het product bij de detaillist bestelt, in een andere staat van de Europese Economische Ruimte bevindt dan het land waar die detaillist gevestigd is; een detaillist wordt geacht te zijn gevestigd in Nederland:
 
 - a. in het geval van een natuurlijk persoon: indien de zetel van zijn bedrijf zich in Nederland bevindt;
@@ -137,6 +139,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - **teer:** het ongezuiverde water- en nicotinevrije condensaat van rook;
 
+- **uitvoeringsbesluit veiligheidskenmerk:** door Onze Minister aan te wijzen uitvoeringsbesluit;
+
+- **uitvoeringsverordening traceringssysteem:** door Onze Minister aan te wijzen uitvoeringsverordening;
+
 - **Verkooppunt van tabaksproducten of aanverwante producten:** iedere plaats waar tabaksproducten of aanverwante producten aanwezig zijn voor het in de handel brengen;
 
 - **verpakkingseenheid:** de kleinste individuele verpakking van een tabaksproduct of aanverwant product dat in de handel wordt gebracht;
@@ -175,9 +181,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Het is verboden om nicotinehoudende vloeistof, niet-nicotinehoudende vloeistof, tabaksproducten en aanverwante producten in de handel te brengen, indien die producten niet aan de krachtens [artikel 2, eerste, tweede, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), gestelde eisen voldoen.
+1. Het is verboden om nicotinehoudende vloeistof, niet-nicotinehoudende vloeistof, tabaksproducten en aanverwante producten in de handel te brengen, indien die producten niet aan de krachtens [artikel 2, eerste, tweede, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-23&g=2020-01-23), gestelde eisen voldoen.
 
-2. Het is verboden om nieuwe of gewijzigde tabaksproducten en aanverwante producten in de handel te brengen indien ten aanzien van deze producten niet is voldaan aan de eisen gesteld bij of krachtens [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2020-01-01&g=2020-01-01).
+2. Het is verboden om nieuwe of gewijzigde tabaksproducten en aanverwante producten in de handel te brengen indien ten aanzien van deze producten niet is voldaan aan de eisen gesteld bij of krachtens [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2020-01-23&g=2020-01-23).
 
 ##### Artikel 3a
 
@@ -187,7 +193,7 @@ Het is verboden tabak voor oraal gebruik in de handel te brengen.
 
 ##### Artikel 4
 
-Vervallen
+In het bij of krachtens deze paragraaf bepaalde wordt onder de begrippen die gedefinieerd worden in artikel 2 van de gedelegeerde verordening gegevensopslagcontracten, artikel 2 van het uitvoeringsbesluit veiligheidskenmerk en artikel 2 van de uitvoeringsverordening traceringssysteem verstaan hetgeen daaronder wordt begrepen in de genoemde artikelen van deze Europese rechtshandelingen.
 
 ##### Artikel 5
 
@@ -295,21 +301,25 @@ Vervallen
 
 ##### Artikel 12
 
-De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2020-01-01&g=2020-01-01), [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-23&g=2020-01-23), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2020-01-23&g=2020-01-23), [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2020-01-23&g=2020-01-23), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-23&g=2020-01-23), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 13
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Indien de aanwijzing, bedoeld in het eerste lid, ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+
+3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
 ##### Artikel 14
 
-De toezichthouders zijn bevoegd om in het belang van de volksgezondheid en de veiligheid van personen, een last onder bestuursdwang op te leggen ter handhaving van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01) en [17a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=17a&z=2020-01-01&g=2020-01-01).
+De toezichthouders zijn bevoegd om in het belang van de volksgezondheid en de veiligheid van personen, een last onder bestuursdwang op te leggen ter handhaving van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2020-01-23&g=2020-01-23) en [17a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=17a&z=2020-01-23&g=2020-01-23).
 
 ##### Artikel 15
 
-Van elke krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) onderzochte zaak wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.
+1. Van elke krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) onderzochte zaak wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.
+
+2. De toezichthouders beschikken over de bevoegdheid, bedoeld in artikel 7, tweede lid, van het uitvoeringsbesluit veiligheidskenmerk en zijn bevoegd uitvoering te geven aan artikel 7, derde lid, van dat uitvoeringsbesluit.
 
 ##### Artikel 16
 
@@ -381,19 +391,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5b
 
-1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-01&g=2020-01-01), onrechtmatig worden verklaard.
+1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-23&g=2020-01-23) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-23&g=2020-01-23), onrechtmatig worden verklaard.
 
 2. De vordering kan worden ingesteld tegen degene die verantwoordelijk is voor de reclame of sponsoring.
 
 3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid, die tot doel hebben de preventie van roken, het stoppen met roken of de behartiging van de belangen van jongeren, consumenten of niet-rokers.
 
-4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
+4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-23&g=2020-01-23), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
 
 ##### Artikel 5c
 
-1. De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2020-01-01&g=2020-01-01).
+1. De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2020-01-23&g=2020-01-23).
 
-2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2020-01-01&g=2020-01-01) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
+2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2020-01-23&g=2020-01-23) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
 
 3. Op vordering van de eiser kan aan de uitspraak worden verbonden:
 
@@ -403,7 +413,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
 
-4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-01&g=2020-01-01) wordt weggenomen.
+4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-23&g=2020-01-23) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-23&g=2020-01-23) wordt weggenomen.
 
 5. Geschillen ter zake van de tenuitvoerlegging van de in het derde lid bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door de rechtbank Rotterdam beslist.
 
@@ -417,13 +427,13 @@ Vervallen
 
 ##### Artikel 11b
 
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2020-01-01&g=2020-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2020-01-01&g=2020-01-01), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2020-01-01&g=2020-01-01), [3e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3e&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2020-01-01&g=2020-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-01-01&g=2020-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=17a&z=2020-01-01&g=2020-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=18&z=2020-01-01&g=2020-01-01).
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2020-01-23&g=2020-01-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2020-01-23&g=2020-01-23), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2020-01-23&g=2020-01-23), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2020-01-23&g=2020-01-23), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2020-01-23&g=2020-01-23), [3e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3e&z=2020-01-23&g=2020-01-23), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2020-01-23&g=2020-01-23), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2020-01-23&g=2020-01-23), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2020-01-23&g=2020-01-23), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2020-01-23&g=2020-01-23), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2020-01-23&g=2020-01-23), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2020-01-23&g=2020-01-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-23&g=2020-01-23), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-23&g=2020-01-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2020-01-23&g=2020-01-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2020-01-23&g=2020-01-23), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-01-23&g=2020-01-23), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-23&g=2020-01-23), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=17a&z=2020-01-23&g=2020-01-23) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=18&z=2020-01-23&g=2020-01-23).
 
 2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste:
 
-- a. € 450 000 bedraagt wegens overtreding van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-01&g=2020-01-01), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten, elektronische sigaretten of navulverpakkingen;
+- a. € 450 000 bedraagt wegens overtreding van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2020-01-23&g=2020-01-23), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2020-01-23&g=2020-01-23), [4c, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2020-01-23&g=2020-01-23), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2020-01-23&g=2020-01-23), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2020-01-23&g=2020-01-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2020-01-23&g=2020-01-23) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2020-01-23&g=2020-01-23), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten, elektronische sigaretten of navulverpakkingen;
 
-- b. een bedrag bedraagt dat gelijk is aan een geldboete van de vierde categorie als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), wegens een overtreding van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01);
+- b. een bedrag bedraagt dat gelijk is aan een geldboete van de vierde categorie als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), wegens een overtreding van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-23&g=2020-01-23);
 
 - c. € 4.500 bedraagt in andere dan de onder a en b bedoelde gevallen.
 
@@ -513,15 +523,15 @@ Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://
 
 — [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01): overtreden van het verbod, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01) en met inachtneming van [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01), op elke vorm van reclame en sponsoring.
 
-Onder categorie D vallen overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01).
+Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2020-01-23&g=2020-01-23) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen genoemd in artikel 11b, eerste lid.
 
-Overtredingen van het bepaalde bij of krachtens [artikel 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01), worden bestraft met een bestuurlijke boete van € 600. Dit bedrag wordt verhoogd tot:
+De overtredingen zijn ingedeeld in vier categorieën.
 
 — [Artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2015-07-01&g=2015-07-01): overtreden van het verbod op gebruik van een naam, merk, symbool of een ander onderscheidend teken dat eerder al voor een tabaksproduct werd gebruikt, voor producten of diensten, die na de datum van inwerkingtreding van het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01), bedoelde verbod op de markt worden gebracht; dit tenzij de naam, het merk, het symbool of het andere onderscheidende teken van het product of de dienst in een duidelijk andere vorm wordt gepresenteerd dan die van het tabaksproduct.
 
-— [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01): overtreden van het verbod om bedrijfsmatig tabaksproducten gratis aan particulieren uit te reiken, toe te zenden, of op enigerlei andere wijze beschikbaar te stellen.
+Onder categorie A vallen de overtredingen van het bepaalde bij of krachtens:
 
-— [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=18&z=2015-07-01&g=2015-07-01): overtreden van regels, gesteld bij algemene maatregel van bestuur, ter uitvoering van een bindende regeling inzake tabaksproducten, die krachtens het Verdrag tot oprichting van de Europese Gemeenschap is tot stand gekomen.
+Overtredingen behorend tot categorie A worden bestraft met een bestuurlijke boete van € 450. Dit bedrag wordt verhoogd tot:
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -567,7 +577,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 3d
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de erkenning van laboratoria, die metingen en onderzoekingen als bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2020-01-01&g=2020-01-01) verrichten.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de erkenning van laboratoria, die metingen en onderzoekingen als bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2020-01-23&g=2020-01-23) verrichten.
 
 ##### Artikel 3e
 
@@ -575,7 +585,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid.
 
-#### § 3. Reclame- en sponsoringbeperkingen
+#### § 2a. Volg- en traceersysteem en veiligheidskenmerk
 
 #### § 6. Bestuurlijke boeten
 
@@ -595,23 +605,23 @@ Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://
 
 Overtredingen door fabrikanten, groothandelaren en importeurs van tabaksproducten van de verboden neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2015-07-01&g=2015-07-01) worden bestraft met een bestuurlijke boete van € 45.000. Dit bedrag wordt verhoogd tot € 135.000 indien degene aan wie de overtreding kan worden toegerekend voor een soortgelijke overtreding eerder is beboet er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boete onherroepelijk is geworden. Dit bedrag wordt verhoogd tot € 225.000, wanneer binnen drie jaar na het onherroepelijk zijn van de bestuurlijke boete voor de eerste overtreding dezelfde overtreding voor de derde keer wordt begaan en tot € 450.000 wanneer binnen vijf jaar na het onherroepelijk zijn van de bestuurlijke boete voor de eerste overtreding hetzelfde voorschrift voor de vierde keer wordt overtreden. Overtredingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2015-07-01&g=2015-07-01) door anderen worden bestraft met een bestuurlijke boete van € 4 500. Andere overtredingen behorend tot categorie A, door wie ook begaan, worden eveneens bestraft met een bestuurlijke boete van ten hoogste € 4 500. Het bedrag van € 450 wordt telkens verhoogd tot € 1350, indien degene aan wie de overtreding kan worden toegerekend voor een soortgelijke overtreding eerder is beboet en er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boete onherroepelijk is geworden. Dit bedrag wordt verhoogd tot € 2250, wanneer binnen drie jaar na het onherroepelijk zijn van de bestuurlijke boete op de eerste overtreding dezelfde overtreding voor de derde keer wordt begaan en tot € 4500 wanneer binnen vijf jaar na het onherroepelijk zijn van de bestuurlijke boete voor de eerste overtreding hetzelfde voorschrift voor de vierde keer wordt overtreden.
 
-Onder categorie B vallen de overtredingen met betrekking tot bedrijfsmatig verstrekken van bij algemene maatregel van bestuur aangewezen, in het bijzonder voor minderjarigen bestemde, goederen en diensten, bedrijfsmatig of anders dan om niet aan particulieren verstrekken of met dat doel aanwezig hebben van tabaksproducten op plaatsen waar dit verboden is (verkoopverbod), bedrijfsmatig of anders dan om niet verstrekken van tabaksproducten aan personen jonger dan zestien jaar, verzuimen de mededeling te plaatsen dat niet wordt verstrekt aan personen jonger dan zestien jaar, bedrijfsmatig of anders dan om niet verstrekken van onverpakte sigaretten aan particulieren, kleinverpakking van sigaretten en verstrekken zonder ter hand stelling door een tussenpersoon.
+Onder categorie B vallen overtredingen door fabrikanten, groothandelaren en importeurs van tabaksproducten of aanverwante producten van het bepaalde bij:
 
-Onder categorie B vallen de overtredingen met betrekking tot bedrijfsmatig verstrekken van bij algemene maatregel van bestuur aangewezen, in het bijzonder voor minderjarigen bestemde, goederen en diensten, bedrijfsmatig of anders dan om niet aan particulieren verstrekken of met dat doel aanwezig hebben van tabaksproducten op plaatsen waar dit verboden is (verkoopverbod), bedrijfsmatig of anders dan om niet verstrekken van tabaksproducten aan personen jonger dan 18 jaar, verzuimen de mededeling te plaatsen dat niet wordt verstrekt aan personen jonger dan 18 jaar, bedrijfsmatig of anders dan om niet verstrekken van onverpakte sigaretten aan particulieren, kleinverpakking van sigaretten en verstrekken zonder ter hand stelling door een tussenpersoon.
+Overtredingen behorend tot categorie B worden bestraft met een bestuurlijke boete van € 45.000. Dit bedrag wordt verhoogd tot:
 
 Dit betreft in concreto:
 
-— [Artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01): overtreden van het verbod op het bedrijfsmatig verstrekken, in tabaksspeciaalzaken en in afgescheiden tabaksverkooppunten in levensmiddelenzaken en warenhuizen, indien daar reclame voor tabaksproducten wordt gemaakt, van in het bijzonder voor minderjarigen bestemde goederen en diensten die bij algemene maatregel van bestuur zijn aangewezen als goederen en diensten die in zulke tabaksspeciaalzaken en tabaksverkooppunten niet bedrijfsmatig mogen worden verstrekt.
+Onder categorie C vallen overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-01-23&g=2020-01-23).
 
-— [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2015-07-01&g=2015-07-01): overtreden van het verbod om in de instellingen, diensten en bedrijven die door de Staat of andere openbare lichamen worden beheerd, behoudens in bij algemene maatregel van bestuur aangewezen gevallen, bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren te verstrekken of met dat doel aanwezig te hebben.
+Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-01-23&g=2020-01-23), worden bestraft met een bestuurlijke boete van € 1.360 wanneer de overtreding is begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde. Dit bedrag wordt verhoogd tot:
 
-— [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2015-07-01&g=2015-07-01): overtreden van het verbod om in inrichtingen voor gezondheidszorg, welzijn, maatschappelijke dienstverlening, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die inrichtingen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren te verstrekken of met dat doel aanwezig te hebben.
+Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-01-23&g=2020-01-23), die worden begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan vijftig werknemers of meer telde, worden bestraft met een bestuurlijke boete van € 2.720. Dit bedrag wordt verhoogd tot:
 
 — [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2015-07-01&g=2015-07-01): overtreden van het verbod om in bij algemene maatregel van bestuur aangewezen categorieën van bedrijven en organisaties bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren te verstrekken of met dat doel aanwezig te hebben.
 
-— [Artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2015-07-01&g=2015-07-01): overtreden van het verbod om bedrijfsmatig of anders dan om niet tabaksproducten te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, waarbij onder verstrekken eveneens wordt begrepen het verstrekken van een tabaksproduct aan een persoon van wie is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, welk tabaksproduct echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.
+Onder categorie D vallen overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-23&g=2020-01-23).
 
-— [Artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2015-07-01&g=2015-07-01): nalaten om op plaatsen waar bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren plegen te worden verstrekt, duidelijk zichtbaar en goed leesbaar aan te geven dat aan personen jonger dan 18 jaar geen tabaksproducten worden verstrekt en om de hieromtrent door Onze Minister nader gestelde regels en het door Onze Minister voorgeschreven model in acht te nemen
+Overtredingen van het bepaalde bij of krachtens [artikel 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-01-23&g=2020-01-23), worden bestraft met een bestuurlijke boete van € 600. Dit bedrag wordt verhoogd tot:
 
 — [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01): overtreden van het verbod om bedrijfsmatig of anders dan om niet sigaretten aan particulieren te verstrekken of met dat doel aanwezig te hebben anders dan in een gesloten verpakking, die niet zonder kenbare beschadiging kan worden geopend.
 
@@ -655,7 +665,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8a
 
-1. Onze Minister kan de natuurlijke persoon of de rechtspersoon die bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten verstrekt aan particulieren en die in een periode van 12 maanden drie maal [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), heeft overtreden, de bevoegdheid ontzeggen tabaksproducten of aanverwante producten te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
+1. Onze Minister kan de natuurlijke persoon of de rechtspersoon die bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten verstrekt aan particulieren en die in een periode van 12 maanden drie maal [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-01-23&g=2020-01-23), heeft overtreden, de bevoegdheid ontzeggen tabaksproducten of aanverwante producten te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
 
 2. De ontzegging wordt opgelegd voor ten minste een week en ten hoogste 12 weken.
 
@@ -665,7 +675,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 6. Bestuurlijke boeten
 
-#### § 7. Verdere bepalingen
+#### § 5. Rookverboden
 
 ## Bijlage
 
@@ -726,6 +736,114 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 2. Voor roken bestemde kruidenproducten die niet voldoen aan de tabaksproductenrichtlijn en die vóór 20 mei 2016 zijn geproduceerd of in het vrije verkeer zijn gebracht, mogen tot 20 mei 2017 in de handel worden gebracht.
 
 ## Bijlage
+
+### Categorie C
+
+### Categorie D
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Producenten en importeurs van tabaksproducten merken elke geproduceerde of ingevoerde verpakkingseenheid van een tabaksproduct met een unieke identificatiemarkering als bedoeld in artikel 15, eerste lid, van de tabaksproductenrichtlijn en nemen daarbij de uitvoeringsverordening traceringssysteem in acht.
+
+2. Bij ministeriële regeling worden eisen gesteld aan de door de producenten en importeurs aan te brengen unieke identificatiemarkering. De eisen hebben betrekking op de technische wijze waarop de unieke identificatiemarkering wordt aangebracht op de verpakkingseenheid.
+
+3. De op grond van het tweede lid gestelde eisen kunnen voor verschillende producten verschillend worden vastgesteld en er kunnen verschillende tijdstippen worden vastgelegd waarop zij gaan gelden.
+
+##### Artikel 4b
+
+Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2020-01-23&g=2020-01-23) gestelde eisen voldoen.
+
+##### Artikel 4c
+
+1. Alle bij de handel in tabaksproducten betrokken marktdeelnemers, van de producent tot en met de laatste marktdeelnemer vóór de eerste detaillist, registreren de bewegingen, bedoeld in artikel 15, vijfde lid, van de tabaksproductenrichtlijn en nemen daarbij artikel 15, negende lid, van de tabaksproductenrichtlijn en de uitvoeringsverordening traceringssysteem in acht.
+
+2. Alle natuurlijke personen en rechtspersonen die deel uitmaken van de leveringsketen van tabaksproducten houden een register bij als bedoeld in artikel 15, zesde lid, van de tabaksproductenrichtlijn en nemen daarbij de uitvoeringsverordening traceringssysteem in acht.
+
+3. De producenten van tabaksproducten voorzien alle marktdeelnemers die betrokken zijn bij handel in tabaksproducten van de apparatuur, bedoeld in artikel 15, zevende en achtste lid, van de tabaksproductenrichtlijn.
+
+4. De producenten en importeurs van tabaksproducten sluiten contracten over de opslag van gegevens met een onafhankelijke derde als bedoeld in artikel 15, achtste lid, eerste alinea, van de tabaksproductenrichtlijn. De producenten, importeurs en de onafhankelijke derde nemen daarbij de gedelegeerde verordening gegevensopslagcontracten en de uitvoeringsverordening traceringssysteem in acht.
+
+5. Tabaksproducenten stellen een externe auditor voor die wordt goedgekeurd door de Europese Commissie. Tabaksproducenten en de externe auditor nemen daarbij artikel 15, achtste lid, tweede alinea, van de tabaksproductenrichtlijn in acht.
+
+6. De onafhankelijke derde zorgt ervoor dat de faciliteiten voor gegevensopslag volledig toegankelijk zijn voor Onze Minister, de Europese Commissie en de externe auditor. Onze Minister kan producenten of importeurs toegang verlenen tot de opgeslagen gegevens, overeenkomstig artikel 15, achtste lid, derde alinea, van de tabaksproductenrichtlijn.
+
+7. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake het eerste tot en met zesde lid, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens de tabaksproductenrichtlijn gestelde voorschriften.
+
+##### Artikel 4d
+
+1. Onze Minister wordt aangewezen als ID-uitgever, die is belast met het aanmaken en uitgeven van:
+
+- a. unieke identificatiemarkeringen als bedoeld in artikel 3, eerste lid, van de uitvoeringsverordening traceringssysteem, voor tabaksproducten die in Nederland in de handel worden gebracht;
+
+- b. marktdeelnemeridentificatiecodes als bedoeld in artikel 15 van de uitvoeringsverordening traceringssysteem;
+
+- c. faciliteitsidentificatiecodes als bedoeld in artikel 17 van de uitvoeringsverordening traceringssysteem;
+
+- d. machine-identificatiecodes als bedoeld in artikel 19 van de uitvoeringsverordening traceringssysteem.
+
+2. De tarieven die samenhangen met het verrichten van de in het vorige lid, onder a, genoemde werkzaamheden, worden bij ministeriële regeling vastgesteld. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.
+
+##### Artikel 4e
+
+Bij regeling van Onze Minister kunnen regels worden gesteld ter uitvoering van het bepaalde in de artikelen 9, vierde lid, 20, vierde lid, 27, derde lid en 32, vijfde lid, van de uitvoeringsverordening traceringssysteem.
+
+##### Artikel 4f
+
+Onze Minister wijst de bevoegde autoriteiten, de nationale beheerders en degene die meldingen ontvangt aan, bedoeld in de artikelen 7, tweede en vijfde lid, 8, vierde lid, tweede alinea, 15, vierde lid, 17, vierde lid, 19, vierde lid, 25, eerste lid, onderdelen f, k en l, 26, zesde lid, 27 en 35, vijfde en zevende lid, van de uitvoeringsverordening traceringssysteem. De bevoegde autoriteiten en nationale beheerders nemen die uitvoeringsverordening in acht.
+
+##### Artikel 4g
+
+Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maatregelen, bedoeld in artikel 35, vierde, onderscheidenlijk zesde lid, van de uitvoeringsverordening traceringssysteem.
+
+##### Artikel 4h
+
+1. Producenten en importeurs van tabaksproducten merken alle verpakkingseenheden van tabaksproducten die in de handel worden gebracht met een onvervalsbaar veiligheidskenmerk als bedoeld in artikel 16, eerste lid, van de tabaksproductenrichtlijn.
+
+2. Bij ministeriële regeling worden eisen gesteld aan het door producenten en importeurs aan te brengen veiligheidskenmerk. De eisen kunnen voor onderscheiden categorieën tabaksproducten verschillen en hebben betrekking op:
+
+- a. de samenstelling van het veiligheidskenmerk;
+
+- b. de aanbieder die de authenticatie-elementen van het veiligheidskenmerk levert;
+
+- c. de wijze van aanbrengen van het veiligheidskenmerk op de verpakkingseenheden;
+
+- d. andere voorschriften voor zover die noodzakelijk zijn voor de goede uitvoering van de in het uitvoeringsbesluit veiligheidskenmerk gestelde voorschriften;
+
+- e. de wijze waarop het veiligheidskenmerk aangevraagd kan worden.
+
+3. De op grond van het tweede lid gestelde eisen kunnen voor verschillende producten verschillend worden vastgesteld en er kunnen verschillende tijdstippen worden vastgelegd waarop zij gaan gelden.
+
+4. Onze Minister kan voor bepaalde categorieën tabaksproducten een voor belastingdoeleinden gebruikt nationaal herkenningsteken aanwijzen als veiligheidskenmerk als bedoeld in artikel 16, eerste lid, tweede alinea, van de tabaksproductenrichtlijn.
+
+##### Artikel 4i
+
+Het is verboden om tabaksproducten te leveren, in te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2020-01-23&g=2020-01-23), gestelde eisen voldoen.
+
+##### Artikel 4j
+
+Onze Minister wijst degene die meldingen ontvangt aan, bedoeld in artikel 8, vierde en zesde lid, van het uitvoeringsbesluit veiligheidskenmerk.
+
+##### Artikel 4k
+
+Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maatregelen, bedoeld in artikel 8, derde, onderscheidenlijk vijfde lid, van het uitvoeringsbesluit veiligheidskenmerk.
+
+##### Artikel 4l
+
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4&z=2020-01-23&g=2020-01-23), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2020-01-23&g=2020-01-23), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2020-01-23&g=2020-01-23), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4d&z=2020-01-23&g=2020-01-23), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2020-01-23&g=2020-01-23), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4f&z=2020-01-23&g=2020-01-23), [4g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4g&z=2020-01-23&g=2020-01-23), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2020-01-23&g=2020-01-23), [4j](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4j&z=2020-01-23&g=2020-01-23) en [4k](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4k&z=2020-01-23&g=2020-01-23) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
+
+#### § 3. Reclame- en sponsoringbeperkingen
+
+#### § 4. Verkoopbeperkingen
+
+#### § 6. Bestuurlijke boeten
+
+#### § 7. Verdere bepalingen
+
+## Bijlage
+
+### Categorie A
 
 ### Categorie C
 
