@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-09-01"
+last_updated: "2020-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. **minister:** Minister voor Medische Zorg;
 
 - b. **orgaan:** nier of deel van de lever;
 
@@ -124,7 +124,17 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - h. ten behoeve van overige kosten een eenmalig bedrag van € 345 in geval van nierdonatie, € 385 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
 
-2. De kosten, bedoeld in het eerste lid, onderdelen a,b,c,d,e en f, komen uitsluitend voor subsidie in aanmerking voor zover de donor die kosten noodzakelijkerwijs heeft gemaakt als rechtstreeks gevolg van de voorbereiding van, de uitvoering van of het herstel na een donatie in de periode die eindigt uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd en voor zover de donor niet enige andere bijdrage in die kosten heeft ontvangen, heeft kunnen ontvangen of kan ontvangen.
+2. De kosten, bedoeld in het eerste lid, onderdelen a, b, c, d, e en f, komen uitsluitend voor subsidie in aanmerking voor zover:
+
+- a. de donor die kosten noodzakelijkerwijs heeft gemaakt als rechtstreeks gevolg van de voorbereiding van, de uitvoering van of het herstel na een donatie,
+
+- b. in de periode die eindigt uiterlijk 13 weken, dan wel 26 weken in geval een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, en
+
+- c. de donor niet enige andere bijdrage in die kosten heeft ontvangen, heeft kunnen ontvangen of kan ontvangen.
+
+3.
+
+In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie berekend op basis van de inkomenscomponenten, bedoeld in het eerste lid, onderdeel a, onder 2° of 3°, bij de berekening uitgegaan van een periode van 6 weken herstel na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd.
 
 ##### Artikel 5
 
@@ -132,13 +142,15 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 2. De aanvraag van de subsidie wordt ingediend uiterlijk een jaar na ontslag uit het ziekenhuis waar de donatie is uitgevoerd, dan wel, in geval de donatie niet is uitgevoerd, uiterlijk een jaar nadat de eerste kosten zijn gemaakt waarvoor de subsidie wordt aangevraagd.
 
-3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten en ontvangen bijdragen in de kosten.
+3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), en ontvangen bijdragen in de kosten.
 
 4. De subsidiedeclaratie geeft de nodige informatie om de subsidie vast te stellen, onder meer ten aanzien van de bijdragen in de kosten die de donor heeft kunnen ontvangen of kan ontvangen.
 
 5. Voor de aanvraag en de subsidiedeclaratie wordt een door de minister vastgesteld formulier gebruikt.
 
 6. De aanvraag gaat voorts vergezeld van de op het formulier vermelde bescheiden met betrekking tot de donatie, de aanvraag en de subsidiedeclaratie.
+
+7. In aanvulling op het vijfde en zesde lid kan de aanvraag worden aangevuld, dan wel kan een aanvullende aanvraag worden ingediend door het verschaffen van de nodige aanvullende gegevens en bescheiden, onder vermelding van de naam en het dossiernummer van de donor.
 
 ##### Artikel 6
 
@@ -172,23 +184,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2016-09-01&g=2016-09-01), kan de minister de subsidie verhogen indien:
+1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), kan de minister de subsidie verhogen indien:
 
 - a. de donor na 31 december 2010 is ontslagen uit het ziekenhuis waar de donatie is uitgevoerd dan wel, in geval de donatie niet is uitgevoerd, na 31 december 2010 de eerste kosten heeft gemaakt waarvoor subsidie wordt aangevraagd, en
 
-- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2016-09-01&g=2016-09-01), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
-2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2016-09-01&g=2016-09-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
 
 3. Bij de berekening van de gederfde belastbare inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
 
-4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2016-09-01&g=2016-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2016-09-01&g=2016-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2016-09-01&g=2016-09-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2020-01-24&g=2020-01-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2020-01-24&g=2020-01-24) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2020-01-24&g=2020-01-24) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-Op een aanvraag die betrekking heeft op kosten die gemaakt zijn vóór 1 januari 2016, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2016-09-01&g=2016-09-01), zoals dat luidde vóór 1 januari 2016 van toepassing.
+Op een aanvraag die betrekking heeft op kosten die gemaakt zijn vóór 1 januari 2016, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2020-01-24&g=2020-01-24), zoals dat luidde vóór 1 januari 2016 van toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
