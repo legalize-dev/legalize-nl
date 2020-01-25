@@ -4,7 +4,7 @@ identifier: "BWBR0009386"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-16"
-last_updated: "2019-06-14"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009386"
 soort: "AMvB"
@@ -92,7 +92,7 @@ In dit besluit wordt verstaan onder wet: de [Arbeidstijdenwet](https://wetten.ov
 
 ##### Artikel 2.2:1
 
-[Artikel 11:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=11:3) is niet van toepassing op overtredingen die zijn geconstateerd na staandehoudingen langs de voor openbaar gebruik toegankelijke wegen van een vrachtauto, bus of taxi in lege of beladen toestand als bedoeld in [artikel 2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2019-06-14&g=2019-06-14).
+[Artikel 11:3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=11:3) is niet van toepassing op overtredingen die zijn geconstateerd na staandehoudingen langs de voor openbaar gebruik toegankelijke wegen van een vrachtauto, bus of taxi in lege of beladen toestand als bedoeld in [artikel 2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2020-01-25&g=2020-01-25).
 
 #### Uitbreiding van de toepasselijkheid van de wet
 
@@ -120,13 +120,13 @@ Met uitsluiting van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3
 
 1. Dit hoofdstuk is niet van toepassing op vervoer met voertuigen als bedoeld in artikel 3, onder a bis tot en met i, van verordening (EG) nr. 561/2006.
 
-2. Dit hoofdstuk is, behoudens [artikel 2.7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:4&z=2019-06-14&g=2019-06-14), niet van toepassing op arbeid, verricht door een jeugdige werknemer.
+2. Dit hoofdstuk is, behoudens [artikel 2.7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:4&z=2020-01-25&g=2020-01-25), niet van toepassing op arbeid, verricht door een jeugdige werknemer.
 
-3. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2019-06-14&g=2019-06-14), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2019-06-14&g=2019-06-14) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onder a, b, c, d, g, h, j, k, l, m, n en p, van verordening (EG) nr. 561/2006.
+3. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2020-01-25&g=2020-01-25), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2020-01-25&g=2020-01-25) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onder a, b, c, d, g, h, j, k, l, m, n en p, van verordening (EG) nr. 561/2006.
 
-4. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2019-06-14&g=2019-06-14), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2019-06-14&g=2019-06-14) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onderdeel o, van verordening (EG) nr. 561/2006 voor zover het betreft voertuigen binnen hubfaciliteiten voor zover dit vervoer binnen een straal van 5 kilometer plaatsvindt.
+4. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2020-01-25&g=2020-01-25), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2020-01-25&g=2020-01-25) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onderdeel o, van verordening (EG) nr. 561/2006 voor zover het betreft voertuigen binnen hubfaciliteiten voor zover dit vervoer binnen een straal van 5 kilometer plaatsvindt.
 
-5. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2019-06-14&g=2019-06-14), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2019-06-14&g=2019-06-14) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onder f, van verordening (EG) nr. 561/2006, mits het gebruikte voertuig en de bestuurder voldoen aan [artikel 173b van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=173b).
+5. De [artikelen 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25), [2.5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2020-01-25&g=2020-01-25), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2020-01-25&g=2020-01-25) en [2.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25) zijn niet van toepassing op vervoer als bedoeld in artikel 13, eerste lid, onder f, van verordening (EG) nr. 561/2006, mits het gebruikte voertuig en de bestuurder voldoen aan [artikel 173b van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=173b).
 
 #### § 2.4. Registratie
 
@@ -142,7 +142,7 @@ Met uitsluiting van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3
 
 4. De werkgever en de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7), handelen in overeenstemming met artikel 10, vijfde lid, van verordening (EG) nr. 561/2006.
 
-5. De werknemer bewaart de gegevens en bescheiden met betrekking tot de in [artikel 4:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) neergelegde registratieverplichting die tijdens zijn werkzaamheden, bedoeld in [artikel 2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2019-06-14&g=2019-06-14) zijn geregistreerd tot het tijdstip van deugdelijke overdracht aan de werkgever.
+5. De werknemer bewaart de gegevens en bescheiden met betrekking tot de in [artikel 4:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) neergelegde registratieverplichting die tijdens zijn werkzaamheden, bedoeld in [artikel 2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2020-01-25&g=2020-01-25) zijn geregistreerd tot het tijdstip van deugdelijke overdracht aan de werkgever.
 
 6. Bij regeling van Onze Minister van Infrastructuur en Waterstaat kunnen regels worden gesteld over de wijze van bewaren van de in het eerste en tweede lid bedoelde gegevens en bescheiden, en het overbrengen van de in het controleapparaat en op de bestuurderskaart geregistreerde gegevens naar de vestiging van de werkgever of de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7).
 
@@ -160,7 +160,7 @@ Met uitsluiting van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3
 
 1. Bij openbaar vervoer als bedoeld in [artikel 1 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1) dat wordt verricht met een bus, alsmede bij geregeld vervoer als bedoeld in [artikel 89, onderdelen e en f, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=89), stelt de werkgever een dienstrooster op als bedoeld in artikel 16 van verordening (EG) nr. 561/2006.
 
-2. Het eerste lid is niet van toepassing indien wordt gehandeld overeenkomstig het bepaalde bij of krachtens de [artikelen 2.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14) en [2.4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14) en het verbod van [artikel 2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2019-06-14&g=2019-06-14) wordt nageleefd.
+2. Het eerste lid is niet van toepassing indien wordt gehandeld overeenkomstig het bepaalde bij of krachtens de [artikelen 2.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25) en [2.4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25) en het verbod van [artikel 2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2020-01-25&g=2020-01-25) wordt nageleefd.
 
 3. Bij regeling van Onze Minister van Infrastructuur en Waterstaat kunnen nadere regels worden gesteld ten aanzien van de inhoud, de invulling, de bekendmaking en de bewaring van het dienstrooster.
 
@@ -182,7 +182,7 @@ Met uitsluiting van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3
 
 - f. in het voertuig een voorziening aanwezig te hebben die voor misbruik als bedoeld in de onderdelen a tot en met e kan worden aangewend.
 
-2. Dit artikel is niet van toepassing op de boordcomputer, bedoeld in [artikel 2.4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2019-06-14&g=2019-06-14).
+2. Dit artikel is niet van toepassing op de boordcomputer, bedoeld in [artikel 2.4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2020-01-25&g=2020-01-25).
 
 #### Aanwijzing autoriteiten
 
@@ -268,7 +268,7 @@ De bestuurder die vervoer anders dan taxivervoer verricht, handelt in overeenste
 
 - d. vervoer ten behoeve van het onderhoud en de aanleg van wegen en railverbindingen.
 
-2. In afwijking van [artikel 2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2019-06-14&g=2019-06-14), kan dit artikel worden toegepast indien de aard van het vervoer met zich brengt dat dit vervoer hoofdzakelijk gedurende de nacht plaatsvindt en dit door het op een andere wijze organiseren van het vervoer redelijkerwijs niet is te voorkomen.
+2. In afwijking van [artikel 2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2020-01-25&g=2020-01-25), kan dit artikel worden toegepast indien de aard van het vervoer met zich brengt dat dit vervoer hoofdzakelijk gedurende de nacht plaatsvindt en dit door het op een andere wijze organiseren van het vervoer redelijkerwijs niet is te voorkomen.
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer:
 
@@ -284,7 +284,7 @@ De bestuurder die vervoer anders dan taxivervoer verricht, handelt in overeenste
 
 2. De bestuurder op wie het eerste lid niet van toepassing is, handelt in overeenstemming met artikel 7 van verordening (EG) nr. 561/2006 dan wel, voor zover het AETR-verdrag van toepassing is, in overeenstemming met artikel 7 van het AETR-verdrag.
 
-3. Behoudens het eerste en tweede lid en [artikel 2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2019-06-14&g=2019-06-14), organiseert de werkgever de arbeid zodanig, dat indien deze andere werkzaamheden dan rijden omvat dan wel mede omvat, de werknemer, voor zover hij vervoer verricht waarop verordening (EG) nr. 561/2006 van toepassing is:
+3. Behoudens het eerste en tweede lid en [artikel 2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2020-01-25&g=2020-01-25), organiseert de werkgever de arbeid zodanig, dat indien deze andere werkzaamheden dan rijden omvat dan wel mede omvat, de werknemer, voor zover hij vervoer verricht waarop verordening (EG) nr. 561/2006 van toepassing is:
 
 - a. geen arbeidstijd langer dan zes uren achtereen zonder pauze heeft;
 
@@ -300,7 +300,7 @@ De bestuurder die vervoer anders dan taxivervoer verricht, handelt in overeenste
 
 1. Onze Ministers kunnen, indien daartoe gegronde redenen aanwezig zijn, vrijstelling verlenen van:
 
-- a. [artikel 2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2019-06-14&g=2019-06-14);
+- a. [artikel 2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2020-01-25&g=2020-01-25);
 
 - b. de verplichting tot het installeren van een controlemiddel, voorzover dit niet in strijd is met verordening (EG) nr. 561/2006.
 
@@ -382,7 +382,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1:2
 
-In dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2019-06-14&g=2019-06-14), wordt verstaan onder:
+In dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2020-01-25&g=2020-01-25), wordt verstaan onder:
 
 - a. **vliegwerktijd:** de periode van het ogenblik af, waarop een lid van het boordpersoneel zich dient te melden voor de uitoefening van zijn functie tot het einde van zijn werkzaamheden;
 
@@ -402,7 +402,7 @@ In dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van [§ 4.
 
 ##### Artikel 4.1:3
 
-In dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2019-06-14&g=2019-06-14), wordt verstaan onder:
+In dit hoofdstuk en de daarop berustende bepalingen, met uitzondering van [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2020-01-25&g=2020-01-25), wordt verstaan onder:
 
 - a. **vliegtijd:** de periode van het ogenblik af dat de helikopter zich op eigen kracht voortbeweegt tot het ogenblik waarop de hefschroef of hefschroeven tot stilstand komt of komen;
 
@@ -470,7 +470,7 @@ Met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overhei
 
 ##### Artikel 4.4:2
 
-De werkgever, de persoon, bedoeld in [artikel 4.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.2&artikel=4.2:2&z=2019-06-14&g=2019-06-14), en het lid van het boordpersoneel, bedoeld in [artikel 4.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2019-06-14&g=2019-06-14), bewaren de gegevens en bescheiden met betrekking tot [artikel 4.4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2019-06-14&g=2019-06-14), en de in [artikel 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) neergelegde registratieverplichting ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben.
+De werkgever, de persoon, bedoeld in [artikel 4.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.2&artikel=4.2:2&z=2020-01-25&g=2020-01-25), en het lid van het boordpersoneel, bedoeld in [artikel 4.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2020-01-25&g=2020-01-25), bewaren de gegevens en bescheiden met betrekking tot [artikel 4.4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2020-01-25&g=2020-01-25), en de in [artikel 4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) neergelegde registratieverplichting ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben.
 
 #### § 3.1. Algemene bepalingen
 
@@ -658,15 +658,15 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 - a. geldt als tijdsduur van deze opdracht de tijd vanaf het tijdstip van aanmelding voor de eerste vlucht tot 15 minuten na het beëindigen van de laatste vlucht,
 
-- b. zijn de normen bedoeld in [artikel 4.8:6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:6&z=2019-06-14&g=2019-06-14), en de correcties, bedoeld in de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2019-06-14&g=2019-06-14) behorende bij dit besluit onder VII bedoelde verzwarende omstandigheden niet van toepassing,
+- b. zijn de normen bedoeld in [artikel 4.8:6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:6&z=2020-01-25&g=2020-01-25), en de correcties, bedoeld in de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2020-01-25&g=2020-01-25) behorende bij dit besluit onder VII bedoelde verzwarende omstandigheden niet van toepassing,
 
-- c. is het toegestaan, meerdere malen achtereen een bekorte rust, als bedoeld in [artikel 4.8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2019-06-14&g=2019-06-14), toe te passen, mits na afloop een rusttijd in acht wordt genomen, gelijk aan de normale minimum rust volgens [artikel 4.8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:9&z=2019-06-14&g=2019-06-14), vermeerderd met het totaal van de bekortingen van de voorafgaande rusten ten opzichte van de normale minimum rust.
+- c. is het toegestaan, meerdere malen achtereen een bekorte rust, als bedoeld in [artikel 4.8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2020-01-25&g=2020-01-25), toe te passen, mits na afloop een rusttijd in acht wordt genomen, gelijk aan de normale minimum rust volgens [artikel 4.8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:9&z=2020-01-25&g=2020-01-25), vermeerderd met het totaal van de bekortingen van de voorafgaande rusten ten opzichte van de normale minimum rust.
 
 #### Arbeidstijd, rusttijd en reservetijd
 
 ##### Artikel 4.8:4
 
-1. In [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2019-06-14&g=2019-06-14) behorend bij dit besluit wordt de wijze van berekening vastgesteld van de maximum vliegwerktijd alsmede de tabel volgens welke de maximum vliegwerktijd wordt bepaald over de korte en lange termijn en de wijze waarop de gecorrigeerde vliegwerktijd van de vliegwerktijd wordt afgeleid door middel van de volgende correcties:
+1. In [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2020-01-25&g=2020-01-25) behorend bij dit besluit wordt de wijze van berekening vastgesteld van de maximum vliegwerktijd alsmede de tabel volgens welke de maximum vliegwerktijd wordt bepaald over de korte en lange termijn en de wijze waarop de gecorrigeerde vliegwerktijd van de vliegwerktijd wordt afgeleid door middel van de volgende correcties:
 
 - a. verzwarende omstandigheden,
 
@@ -674,9 +674,9 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 - c. opdrachten anders dan opdrachten tot het als lid van het cockpitpersoneel maken van vluchten anders dan verkeersvluchten.
 
-2. De in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2019-06-14&g=2019-06-14) behorende bij dit besluit in tabel G genoemde maxima zijn slechts van toepassing indien de uitvoering van de in [artikel 4.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2019-06-14&g=2019-06-14), bedoelde opdracht wordt gevolgd door een vliegwerktijd, waarin daadwerkelijk werkzaamheden als lid van het cockpitpersoneel ten behoeve van de uitvoering van een vlucht worden verricht, zonder dat deze zijn gescheiden door ten minste één rusttijd.
+2. De in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=G&z=2020-01-25&g=2020-01-25) behorende bij dit besluit in tabel G genoemde maxima zijn slechts van toepassing indien de uitvoering van de in [artikel 4.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2020-01-25&g=2020-01-25), bedoelde opdracht wordt gevolgd door een vliegwerktijd, waarin daadwerkelijk werkzaamheden als lid van het cockpitpersoneel ten behoeve van de uitvoering van een vlucht worden verricht, zonder dat deze zijn gescheiden door ten minste één rusttijd.
 
-3. Ingevolge [artikel 4.8:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2019-06-14&g=2019-06-14), wordt de tabel vastgesteld volgens welke het maximum van de vliegwerktijd wordt bepaald na een bekorte rust met inachtneming van de aan de bekorte rust voorafgegane vliegwerktijd.
+3. Ingevolge [artikel 4.8:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2020-01-25&g=2020-01-25), wordt de tabel vastgesteld volgens welke het maximum van de vliegwerktijd wordt bepaald na een bekorte rust met inachtneming van de aan de bekorte rust voorafgegane vliegwerktijd.
 
 4. De werkgever organiseert de arbeid in overeenstemming met het eerste tot en met derde lid.
 
@@ -686,7 +686,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 1. De som van de vliegtijden binnen de vliegwerktijd bedraagt ten hoogste 9 uren of zoveel uren als bepaald overeenkomstig het tweede lid.
 
-2. In [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=H&z=2019-06-14&g=2019-06-14) behorend bij dit besluit wordt de reductie op de vliegtijd vastgesteld in verband met het aantal landingen binnen de vliegwerktijd, waarbij een landing tussen zonsondergang en zonsopgang wordt geteld als twee landingen.
+2. In [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=H&z=2020-01-25&g=2020-01-25) behorend bij dit besluit wordt de reductie op de vliegtijd vastgesteld in verband met het aantal landingen binnen de vliegwerktijd, waarbij een landing tussen zonsondergang en zonsopgang wordt geteld als twee landingen.
 
 3. Een aaneengesloten vliegtijd bedraagt ten hoogste 4 uren.
 
@@ -768,7 +768,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 ##### Artikel 4.9:1
 
-1. Onze Minister van Infrastructuur en Waterstaat kan ontheffing verlenen van [paragraaf 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&z=2019-06-14&g=2019-06-14) voor arbeid verricht door een lid van het boordpersoneel van helikopters, die gebruikt worden ten behoeve van het vervoeren van:
+1. Onze Minister van Infrastructuur en Waterstaat kan ontheffing verlenen van [paragraaf 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&z=2020-01-25&g=2020-01-25) voor arbeid verricht door een lid van het boordpersoneel van helikopters, die gebruikt worden ten behoeve van het vervoeren van:
 
 - a. traumateams voor spoedeisende medische hulpverlening, of
 
@@ -780,7 +780,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 ##### Artikel 4.10:1
 
-1. De gezagvoerder van een luchtvaartuig, bij vluchten die niet vallen onder [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2019-06-14&g=2019-06-14), kan afwijken en kan een lid van het boordpersoneel opdragen af te wijken van de arbeids- en rusttijden om arbeid te verrichten indien dit noodzakelijk is in verband met de onmiddellijke veiligheid van de personen aan boord en het luchtvaartuig. Van deze afwijking wordt aantekening gehouden en wordt melding gemaakt bij Onze Minister van Infrastructuur en Waterstaat.
+1. De gezagvoerder van een luchtvaartuig, bij vluchten die niet vallen onder [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2020-01-25&g=2020-01-25), kan afwijken en kan een lid van het boordpersoneel opdragen af te wijken van de arbeids- en rusttijden om arbeid te verrichten indien dit noodzakelijk is in verband met de onmiddellijke veiligheid van de personen aan boord en het luchtvaartuig. Van deze afwijking wordt aantekening gehouden en wordt melding gemaakt bij Onze Minister van Infrastructuur en Waterstaat.
 
 2. Zodra de situatie, bedoeld in het eerste lid, voorbij is, zorgt de werkgever ervoor dat de werknemer die arbeid heeft verricht in een rustperiode, voldoende rusttijd ter compensatie krijgt.
 
@@ -822,7 +822,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 1. Met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is bepaald, is dit hoofdstuk van toepassing op arbeid, verricht door een bemanningslid aan boord van schepen waarop de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) van toepassing is.
 
-2. In afwijking van het eerste lid en met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is bepaald, is [paragraaf 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&z=2019-06-14&g=2019-06-14) van overeenkomstige toepassing op arbeid, verricht door bemanningsleden aan boord van de in dat lid bedoelde schepen gedurende de tijd dat dit schip dienst doet in havensleepdienst als bedoeld in [artikel 6.1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.1&artikel=6.1:1&z=2019-06-14&g=2019-06-14).
+2. In afwijking van het eerste lid en met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is bepaald, is [paragraaf 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&z=2020-01-25&g=2020-01-25) van overeenkomstige toepassing op arbeid, verricht door bemanningsleden aan boord van de in dat lid bedoelde schepen gedurende de tijd dat dit schip dienst doet in havensleepdienst als bedoeld in [artikel 6.1:1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.1&artikel=6.1:1&z=2020-01-25&g=2020-01-25).
 
 #### § 5.4. Registratie
 
@@ -844,13 +844,13 @@ In deze paragraaf en de daarop berustende bepalingen wordt onder «landing» ver
 
 ##### Artikel 5.5:1
 
-In plaats van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.2&z=2019-06-14&g=2019-06-14) van de wet wordt deze paragraaf toegepast.
+In plaats van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.2&z=2020-01-25&g=2020-01-25) van de wet wordt deze paragraaf toegepast.
 
 #### Reservetijd
 
 ##### Artikel 5.5:2
 
-Voor de toepassing van [de artikelen 5.5:3 tot en met 5.5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:3&z=2019-06-14&g=2019-06-14) houden de werkgever en de gezagvoerend schipper rekening met de arbeids-, rust- en vaartijden, vervuld gedurende een tijdvak van 48 uren, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren is binnengevaren.
+Voor de toepassing van [de artikelen 5.5:3 tot en met 5.5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:3&z=2020-01-25&g=2020-01-25) houden de werkgever en de gezagvoerend schipper rekening met de arbeids-, rust- en vaartijden, vervuld gedurende een tijdvak van 48 uren, onmiddellijk voorafgaand aan het tijdstip waarop het schip de binnenwateren is binnengevaren.
 
 #### Rusttijden
 
@@ -1014,7 +1014,7 @@ De scheepsbeheerder bewaart de werklijsten ten minste 3 jaren, gerekend vanaf he
 
 ##### Artikel 6.5:1
 
-In plaats van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) wordt deze paragraaf toegepast op arbeid, verricht aan boord van een zeeschip als bedoeld in [artikel 6.1:1, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:1&z=2019-06-14&g=2019-06-14), met uitzondering van de tijd waarin dit zeeschip in havensleepdienst dienst doet.
+In plaats van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) wordt deze paragraaf toegepast op arbeid, verricht aan boord van een zeeschip als bedoeld in [artikel 6.1:1, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:1&z=2020-01-25&g=2020-01-25), met uitzondering van de tijd waarin dit zeeschip in havensleepdienst dienst doet.
 
 #### Begrip rusttijd
 
@@ -1060,9 +1060,9 @@ De kapitein organiseert de arbeid zodanig dat de arbeid van de zeevarende telken
 
 ##### Artikel 6.5:5
 
-1. Indien de zeevarende tijdens consignatie arbeid moet verrichten krijgt hij, met inachtneming van de [artikelen 6.5:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2019-06-14&g=2019-06-14), en [6.5:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2019-06-14&g=2019-06-14), voldoende rusttijd of pauze ter compensatie.
+1. Indien de zeevarende tijdens consignatie arbeid moet verrichten krijgt hij, met inachtneming van de [artikelen 6.5:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2020-01-25&g=2020-01-25), en [6.5:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2020-01-25&g=2020-01-25), voldoende rusttijd of pauze ter compensatie.
 
-2. De arbeid die voortvloeit uit een oproep als bedoeld in het eerste lid wordt voor de toepassing van de [artikelen 6.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2019-06-14&g=2019-06-14), [6.5:3, uitgezonderd het eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2019-06-14&g=2019-06-14), en [6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2019-06-14&g=2019-06-14) buiten beschouwing gelaten.
+2. De arbeid die voortvloeit uit een oproep als bedoeld in het eerste lid wordt voor de toepassing van de [artikelen 6.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2020-01-25&g=2020-01-25), [6.5:3, uitgezonderd het eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2020-01-25&g=2020-01-25), en [6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2020-01-25&g=2020-01-25) buiten beschouwing gelaten.
 
 #### Begrippen scheepsbeheerder, kapitein en zeevarende
 
@@ -1084,7 +1084,7 @@ De kapitein organiseert de wettelijk voorgeschreven oefeningen en appèls zodani
 
 ##### Artikel 6.6:1
 
-In plaats van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) wordt deze paragraaf toegepast op arbeid, verricht aan boord van een zeeschip als bedoeld in [artikel 6.1:1, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.1&artikel=6.1:1&z=2019-06-14&g=2019-06-14), gedurende de tijd waarin dit zeeschip in havensleepdienst dienst doet, alsmede, in aanvulling op [artikel 6.3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.3&artikel=6.3:1&z=2019-06-14&g=2019-06-14), op arbeid, verricht aan boord van een sleepboot als bedoeld in [artikel 1 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=1), gedurende de tijd waarin deze havensleepboot in havensleepdienst dienst doet.
+In plaats van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) wordt deze paragraaf toegepast op arbeid, verricht aan boord van een zeeschip als bedoeld in [artikel 6.1:1, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.1&artikel=6.1:1&z=2020-01-25&g=2020-01-25), gedurende de tijd waarin dit zeeschip in havensleepdienst dienst doet, alsmede, in aanvulling op [artikel 6.3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.3&artikel=6.3:1&z=2020-01-25&g=2020-01-25), op arbeid, verricht aan boord van een sleepboot als bedoeld in [artikel 1 van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=1), gedurende de tijd waarin deze havensleepboot in havensleepdienst dienst doet.
 
 #### Uitbreiding van de toepasselijkheid van de wet
 
@@ -1132,7 +1132,7 @@ Met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overhei
 
 ##### Artikel 7.3:1
 
-In plaats van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.2&z=2019-06-14&g=2019-06-14) van de wet wordt deze paragraaf toegepast.
+In plaats van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.2&z=2020-01-25&g=2020-01-25) van de wet wordt deze paragraaf toegepast.
 
 ##### Artikel 7.3:2
 
@@ -1156,9 +1156,9 @@ De registerloods mag na 4 aaneengesloten uren loodsen op afstand vanaf de wal pa
 
 ##### Artikel 8:1
 
-1. Het niet naleven van de [artikelen 2.4:1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14), [2.4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2019-06-14&g=2019-06-14), [2.4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:3&z=2019-06-14&g=2019-06-14), [2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2019-06-14&g=2019-06-14), [2.4:8 tot en met 2.4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:8&z=2019-06-14&g=2019-06-14), [2.4:11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:11&z=2019-06-14&g=2019-06-14), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14), [2.5:1, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2019-06-14&g=2019-06-14), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2019-06-14&g=2019-06-14), [2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2019-06-14&g=2019-06-14), [2.5:4a, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2019-06-14&g=2019-06-14), [2.5:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:5&z=2019-06-14&g=2019-06-14), [2.5:6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14), [2.5:7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:7&z=2019-06-14&g=2019-06-14), [2.5:8, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2019-06-14&g=2019-06-14), [2.6:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.6&artikel=2.6:1&z=2019-06-14&g=2019-06-14), [2.7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:1&z=2019-06-14&g=2019-06-14) en [2.7:4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:4&z=2019-06-14&g=2019-06-14), alsmede het bepaalde krachtens de [artikelen 2.4:1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2019-06-14&g=2019-06-14), [2.4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2019-06-14&g=2019-06-14), [2.4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:3&z=2019-06-14&g=2019-06-14), [2.4:12, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:12&z=2019-06-14&g=2019-06-14), of [2.4:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14), levert een overtreding op.
+1. Het niet naleven van de [artikelen 2.4:1, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25), [2.4:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2020-01-25&g=2020-01-25), [2.4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:3&z=2020-01-25&g=2020-01-25), [2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2020-01-25&g=2020-01-25), [2.4:8 tot en met 2.4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:8&z=2020-01-25&g=2020-01-25), [2.4:11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:11&z=2020-01-25&g=2020-01-25), [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25), [2.5:1, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:1&z=2020-01-25&g=2020-01-25), [2.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:3&z=2020-01-25&g=2020-01-25), [2.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4&z=2020-01-25&g=2020-01-25), [2.5:4a, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2020-01-25&g=2020-01-25), [2.5:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:5&z=2020-01-25&g=2020-01-25), [2.5:6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25), [2.5:7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:7&z=2020-01-25&g=2020-01-25), [2.5:8, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2020-01-25&g=2020-01-25), [2.6:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.6&artikel=2.6:1&z=2020-01-25&g=2020-01-25), [2.7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:1&z=2020-01-25&g=2020-01-25) en [2.7:4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.7&artikel=2.7:4&z=2020-01-25&g=2020-01-25), alsmede het bepaalde krachtens de [artikelen 2.4:1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:1&z=2020-01-25&g=2020-01-25), [2.4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:2&z=2020-01-25&g=2020-01-25), [2.4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:3&z=2020-01-25&g=2020-01-25), [2.4:12, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:12&z=2020-01-25&g=2020-01-25), of [2.4:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25), levert een overtreding op.
 
-2. Behoudens de [artikelen 2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2019-06-14&g=2019-06-14) en [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2019-06-14&g=2019-06-14), wordt, indien de bestuurder werknemer is, ingeval van het niet naleven van een tot de bestuurder gerichte bepaling de werkgever aangemerkt als degene die die bepaling niet heeft nageleefd.
+2. Behoudens de [artikelen 2.4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:4&z=2020-01-25&g=2020-01-25) en [2.4:13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.4&artikel=2.4:13&z=2020-01-25&g=2020-01-25), wordt, indien de bestuurder werknemer is, ingeval van het niet naleven van een tot de bestuurder gerichte bepaling de werkgever aangemerkt als degene die die bepaling niet heeft nageleefd.
 
 3. Het tweede lid is niet van toepassing indien de werkgever aantoont dat door hem de nodige bevelen zijn gegeven, de nodige maatregelen zijn genomen, de nodige middelen zijn verschaft en het redelijkerwijs te vorderen toezicht is gehouden om de naleving van de bepaling te verzekeren.
 
@@ -1168,27 +1168,27 @@ De registerloods mag na 4 aaneengesloten uren loodsen op afstand vanaf de wal pa
 
 ##### Artikel 8:2
 
-Het niet naleven van de [artikelen 3.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.2&artikel=3.2:1&z=2019-06-14&g=2019-06-14), [3.3:1, tweede, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:1&z=2019-06-14&g=2019-06-14), [3.3:2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:2&z=2019-06-14&g=2019-06-14), [3.3:3, tweede lid, onder a en b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:3&z=2019-06-14&g=2019-06-14), en [3.3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:4&z=2019-06-14&g=2019-06-14), levert een overtreding op.
+Het niet naleven van de [artikelen 3.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.2&artikel=3.2:1&z=2020-01-25&g=2020-01-25), [3.3:1, tweede, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:1&z=2020-01-25&g=2020-01-25), [3.3:2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:2&z=2020-01-25&g=2020-01-25), [3.3:3, tweede lid, onder a en b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:3&z=2020-01-25&g=2020-01-25), en [3.3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.3&artikel=3.3:4&z=2020-01-25&g=2020-01-25), levert een overtreding op.
 
 #### § 7.2. Toepasselijkheid van het hoofdstuk
 
 ##### Artikel 8.3. Overtredingen luchtvaart
 
-Het niet naleven van het bepaalde bij of krachtens de [artikelen 4.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2019-06-14&g=2019-06-14), [4.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:2&z=2019-06-14&g=2019-06-14), [4.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:2&z=2019-06-14&g=2019-06-14), [4.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2019-06-14&g=2019-06-14), [4.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:4&z=2019-06-14&g=2019-06-14), [4.5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:5&z=2019-06-14&g=2019-06-14), [4.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:6&z=2019-06-14&g=2019-06-14), [4.8:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2019-06-14&g=2019-06-14), [4.8:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2019-06-14&g=2019-06-14), [4.8:5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:5&z=2019-06-14&g=2019-06-14), [4.8:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:6&z=2019-06-14&g=2019-06-14), [4.8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:7&z=2019-06-14&g=2019-06-14), [4.8:8, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:8&z=2019-06-14&g=2019-06-14), [4.8:9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:9&z=2019-06-14&g=2019-06-14), [4.8:10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2019-06-14&g=2019-06-14), [4.9:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.9&artikel=4.9:1&z=2019-06-14&g=2019-06-14), [4.10:1, eerste lid, laatste volzin en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.10&artikel=4.10:1&z=2019-06-14&g=2019-06-14), alsmede van de EG-verordening, genoemd in [artikel 4.1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.1&artikel=4.1:5&z=2019-06-14&g=2019-06-14), bijlage III, onderdelen 1.1090 onder 1 en 2, 1.1100, 1.1105, 1.1110 onder 1.3 en 1.4.2, 1.1115, 1.1125 en 1.1135 levert een overtreding op.
+Het niet naleven van het bepaalde bij of krachtens de [artikelen 4.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2020-01-25&g=2020-01-25), [4.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.4&artikel=4.4:2&z=2020-01-25&g=2020-01-25), [4.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:2&z=2020-01-25&g=2020-01-25), [4.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2020-01-25&g=2020-01-25), [4.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:4&z=2020-01-25&g=2020-01-25), [4.5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:5&z=2020-01-25&g=2020-01-25), [4.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&artikel=4.5:6&z=2020-01-25&g=2020-01-25), [4.8:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2020-01-25&g=2020-01-25), [4.8:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2020-01-25&g=2020-01-25), [4.8:5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:5&z=2020-01-25&g=2020-01-25), [4.8:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:6&z=2020-01-25&g=2020-01-25), [4.8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:7&z=2020-01-25&g=2020-01-25), [4.8:8, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:8&z=2020-01-25&g=2020-01-25), [4.8:9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:9&z=2020-01-25&g=2020-01-25), [4.8:10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:10&z=2020-01-25&g=2020-01-25), [4.9:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.9&artikel=4.9:1&z=2020-01-25&g=2020-01-25), [4.10:1, eerste lid, laatste volzin en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.10&artikel=4.10:1&z=2020-01-25&g=2020-01-25), alsmede van de EG-verordening, genoemd in [artikel 4.1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.1&artikel=4.1:5&z=2020-01-25&g=2020-01-25), bijlage III, onderdelen 1.1090 onder 1 en 2, 1.1100, 1.1105, 1.1110 onder 1.3 en 1.4.2, 1.1115, 1.1125 en 1.1135 levert een overtreding op.
 
 #### § 7.2. Toepasselijkheid van het hoofdstuk
 
 ##### Artikel 8:4
 
-1. Het niet naleven van de [artikelen 6.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2019-06-14&g=2019-06-14), [6.4:2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2019-06-14&g=2019-06-14), [6.4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:3&z=2019-06-14&g=2019-06-14), [6.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2019-06-14&g=2019-06-14), [6.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2019-06-14&g=2019-06-14),[6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2019-06-14&g=2019-06-14), [6.5:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:5&z=2019-06-14&g=2019-06-14), [6.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:6&z=2019-06-14&g=2019-06-14), [6.5:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:7&z=2019-06-14&g=2019-06-14), [6.6:3, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2019-06-14&g=2019-06-14), [6.6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:4&z=2019-06-14&g=2019-06-14), [6.6:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:5&z=2019-06-14&g=2019-06-14), [6.6:6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:6&z=2019-06-14&g=2019-06-14), [6.7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.7&artikel=6.7:1&z=2019-06-14&g=2019-06-14), [6.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.7&artikel=6.7:2&z=2019-06-14&g=2019-06-14), alsmede het bepaalde krachtens de [artikelen 6.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2019-06-14&g=2019-06-14), en [6.4:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2019-06-14&g=2019-06-14), levert een overtreding op.
+1. Het niet naleven van de [artikelen 6.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2020-01-25&g=2020-01-25), [6.4:2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2020-01-25&g=2020-01-25), [6.4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:3&z=2020-01-25&g=2020-01-25), [6.5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2020-01-25&g=2020-01-25), [6.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2020-01-25&g=2020-01-25),[6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2020-01-25&g=2020-01-25), [6.5:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:5&z=2020-01-25&g=2020-01-25), [6.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:6&z=2020-01-25&g=2020-01-25), [6.5:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:7&z=2020-01-25&g=2020-01-25), [6.6:3, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2020-01-25&g=2020-01-25), [6.6:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:4&z=2020-01-25&g=2020-01-25), [6.6:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:5&z=2020-01-25&g=2020-01-25), [6.6:6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:6&z=2020-01-25&g=2020-01-25), [6.7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.7&artikel=6.7:1&z=2020-01-25&g=2020-01-25), [6.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.7&artikel=6.7:2&z=2020-01-25&g=2020-01-25), alsmede het bepaalde krachtens de [artikelen 6.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2020-01-25&g=2020-01-25), en [6.4:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2020-01-25&g=2020-01-25), levert een overtreding op.
 
-2. Het niet naleven van de artikelen [6A.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.1&artikel=6A.1:4&z=2019-06-14&g=2019-06-14), [6A.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2019-06-14&g=2019-06-14), [6A.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:3&z=2019-06-14&g=2019-06-14). [6A.2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2019-06-14&g=2019-06-14), [6A.2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:5&z=2019-06-14&g=2019-06-14), [6A.2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:6&z=2019-06-14&g=2019-06-14), [6A.2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:7&z=2019-06-14&g=2019-06-14), [6A.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.3&artikel=6A.3:1&z=2019-06-14&g=2019-06-14) en [6A.3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.3&artikel=6A.3:2&z=2019-06-14&g=2019-06-14), levert een overtreding op.
+2. Het niet naleven van de artikelen [6A.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.1&artikel=6A.1:4&z=2020-01-25&g=2020-01-25), [6A.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2020-01-25&g=2020-01-25), [6A.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:3&z=2020-01-25&g=2020-01-25). [6A.2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2020-01-25&g=2020-01-25), [6A.2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:5&z=2020-01-25&g=2020-01-25), [6A.2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:6&z=2020-01-25&g=2020-01-25), [6A.2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:7&z=2020-01-25&g=2020-01-25), [6A.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.3&artikel=6A.3:1&z=2020-01-25&g=2020-01-25) en [6A.3:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.3&artikel=6A.3:2&z=2020-01-25&g=2020-01-25), levert een overtreding op.
 
 #### § 7.2. Toepasselijkheid van het hoofdstuk
 
 ##### Artikel 8:5
 
-Het niet-naleven van de [artikelen 7.3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:2&z=2019-06-14&g=2019-06-14), [7.3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:3&z=2019-06-14&g=2019-06-14) en [7.3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:4&z=2019-06-14&g=2019-06-14) levert een overtreding op.
+Het niet-naleven van de [artikelen 7.3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:2&z=2020-01-25&g=2020-01-25), [7.3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:3&z=2020-01-25&g=2020-01-25) en [7.3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=7&paragraaf=7.3&artikel=7.3:4&z=2020-01-25&g=2020-01-25) levert een overtreding op.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
@@ -1534,9 +1534,9 @@ De kapitein organiseert de arbeid zodanig dat de zeevarenden van 18 jaar of oude
 
 ##### Artikel 6.6:6
 
-1. Indien een zeevarende van 18 jaar of ouder tijdens consignatie arbeid moet verrichten krijgt hij, met inachtneming van [artikel 6.6:3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2019-06-14&g=2019-06-14), voldoende rusttijd of pauze ter compensatie. Deze compensatie is ten minste gelijk aan de resterende rusttijd onderscheidenlijk pauze op het ogenblik van de oproep, en wordt toegevoegd aan de eerstvolgende periode van rust onderscheidenlijk pauze.
+1. Indien een zeevarende van 18 jaar of ouder tijdens consignatie arbeid moet verrichten krijgt hij, met inachtneming van [artikel 6.6:3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2020-01-25&g=2020-01-25), voldoende rusttijd of pauze ter compensatie. Deze compensatie is ten minste gelijk aan de resterende rusttijd onderscheidenlijk pauze op het ogenblik van de oproep, en wordt toegevoegd aan de eerstvolgende periode van rust onderscheidenlijk pauze.
 
-2. De arbeid die voortvloeit uit een oproep als bedoeld in het eerste lid wordt voor de toepassing van de [artikelen 6.6:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:2&z=2019-06-14&g=2019-06-14) en [6.6:3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2019-06-14&g=2019-06-14), buiten beschouwing gelaten.
+2. De arbeid die voortvloeit uit een oproep als bedoeld in het eerste lid wordt voor de toepassing van de [artikelen 6.6:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:2&z=2020-01-25&g=2020-01-25) en [6.6:3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.6&artikel=6.6:3&z=2020-01-25&g=2020-01-25), buiten beschouwing gelaten.
 
 3. De kapitein organiseert de arbeid zodanig dat hij en de overige zeevarenden van 18 jaar of ouder in elke periode van 4 achtereenvolgende weken:
 
@@ -1546,7 +1546,7 @@ De kapitein organiseert de arbeid zodanig dat de zeevarenden van 18 jaar of oude
 
 ##### Artikel 6.6:7
 
-De artikelen [6.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2019-06-14&g=2019-06-14), [6.4:2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2019-06-14&g=2019-06-14), [6.4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:3&z=2019-06-14&g=2019-06-14) voor zover het betreft de bewaartermijn, [6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2019-06-14&g=2019-06-14), [6.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:6&z=2019-06-14&g=2019-06-14) en [6.5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:7&z=2019-06-14&g=2019-06-14) zijn van overeenkomstige toepassing.
+De artikelen [6.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:1&z=2020-01-25&g=2020-01-25), [6.4:2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:2&z=2020-01-25&g=2020-01-25), [6.4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.4&artikel=6.4:3&z=2020-01-25&g=2020-01-25) voor zover het betreft de bewaartermijn, [6.5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:4&z=2020-01-25&g=2020-01-25), [6.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:6&z=2020-01-25&g=2020-01-25) en [6.5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:7&z=2020-01-25&g=2020-01-25) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Registerloodsen
 
@@ -1774,7 +1774,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 6.7:2
 
-1. Onze Minister van Infrastructuur en Waterstaat kan ontheffing verlenen van [artikel 6.5:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2019-06-14&g=2019-06-14), en [artikel 6.5:3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2019-06-14&g=2019-06-14).
+1. Onze Minister van Infrastructuur en Waterstaat kan ontheffing verlenen van [artikel 6.5:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:2&z=2020-01-25&g=2020-01-25), en [artikel 6.5:3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6&paragraaf=6.5&artikel=6.5:3&z=2020-01-25&g=2020-01-25).
 
 2. De scheepsbeheerder en de kapitein leven de aan de ontheffing verbonden voorschriften na.
 
@@ -2576,7 +2576,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 2.5:7
 
-1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2019-06-14&g=2019-06-14) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2019-06-14&g=2019-06-14) is dit artikel uitsluitend van toepassing op de werknemer die vervoer verricht waarop verordening (EEG) nr. 561/2006 niet van toepassing is.
+1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2020-01-25&g=2020-01-25) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2020-01-25&g=2020-01-25) is dit artikel uitsluitend van toepassing op de werknemer die vervoer verricht waarop verordening (EEG) nr. 561/2006 niet van toepassing is.
 
 2. In plaats van [artikel 5:7, tweede tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7) wordt dit artikel toegepast.
 
@@ -2652,7 +2652,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 5.4:2. Registratie arbeidstijden
 
-Onverminderd [artikel 5.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2019-06-14&g=2019-06-14), wordt van een bemanningslid dat werknemer is de dagelijkse arbeidstijd geregistreerd op een door de werkgever te bepalen wijze.
+Onverminderd [artikel 5.4:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2020-01-25&g=2020-01-25), wordt van een bemanningslid dat werknemer is de dagelijkse arbeidstijd geregistreerd op een door de werkgever te bepalen wijze.
 
 #### § 4.10. Afwijkingen
 
@@ -2704,9 +2704,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **schipper:** de gezagvoerder van een vissersvaartuig;
 
-- d. **schepeling:** degene die als werknemer aan boord van een vissersvaartuig gehouden is buitengaats arbeid te verrichten;
+- d. **visser:** een zeevarende als bedoeld in [artikel 1, onderdeel aa, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=1);
 
-- e. **jeugdige schepeling:** de schepeling van 16 of 17 jaar;
+- e. **jeugdige visser:** de visser van 16 of 17 jaar;
 
 - f. **rusttijd:** een periode van ten minste een uur waarin geen arbeid wordt verricht.
 
@@ -2714,21 +2714,21 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6A.1:2
 
-1. Voor de toepassing van dit hoofdstuk geldt de periode waarin door de schepeling door omstandigheden inherent aan de visserij, geen arbeid kan worden verricht hoewel hij volgens zijn werkrooster arbeid zou moeten verrichten, als rusttijd.
+1. Voor de toepassing van dit hoofdstuk geldt de periode waarin door de visser, die werknemer is, of de visser die zonder werkgever of werknemer in de zin van de wet te zijn, samen met werknemers op hetzelfde vissersvaartuig arbeid verricht, door omstandigheden inherent aan de visserij, geen arbeid kan worden verricht hoewel hij volgens zijn werkrooster arbeid zou moeten verrichten, als rusttijd.
 
-2. In afwijking van het eerste lid worden niet als rusttijd aangemerkt de perioden waarin de schepeling niet vrijelijk over zijn tijd kan beschikken en zich gereed houdt tot een onmiddellijke aanvang der werkzaamheden, en waarbij het tijdstip van de aanvang en de duur van deze perioden niet vooraf bekend is.
+2. In afwijking van het eerste lid worden niet als rusttijd aangemerkt de perioden waarin de visser, bedoeld in het eerste lid, niet vrijelijk over zijn tijd kan beschikken en zich gereed houdt tot een onmiddellijke aanvang der werkzaamheden, en waarbij het tijdstip van de aanvang en de duur van deze perioden niet vooraf bekend is.
 
 #### Arbeidstijd van zeevarenden van 18 jaar of ouder
 
 ##### Artikel 6A.1:3
 
-Met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is bepaald zijn dit hoofdstuk en de daarop berustende bepalingen uitsluitend van toepassing op arbeid, verricht door schippers en schepelingen aan boord van vissersvaartuigen die te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2).
+Met uitsluiting van hetgeen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is bepaald zijn dit hoofdstuk en de daarop berustende bepalingen uitsluitend van toepassing op arbeid, verricht door schippers en vissers aan boord van vissersvaartuigen.
 
 #### Jeugdige zeevarenden
 
 ##### Artikel 6A.1:4
 
-1. De schipper zorgt ervoor dat aan boord van een vissersvaartuig op een voor alle schepelingen toegankelijke plaats een werkrooster is opgehangen, waarin zijn arbeidspatroon en dat van de schepelingen alsmede de wettelijk voorgeschreven arbeids- en rusttijden worden vermeld.
+1. De schipper die vissers aan boord heeft die werknemer zijn, zorgt ervoor dat aan boord van het vissersvaartuig op een voor alle vissers toegankelijke plaats een werkrooster is opgehangen, waarin zijn arbeidspatroon en dat van alle aan boord zijnde vissers alsmede de wettelijk voorgeschreven arbeids- en rusttijden worden vermeld.
 
 2. Bij regeling van Onze Minister van Infrastructuur en Waterstaat kan een model worden vastgesteld voor een werkrooster. Bij die regeling kunnen voorschriften worden gegeven omtrent de invulling van het werkrooster.
 
@@ -2740,23 +2740,23 @@ In plaats van [paragraaf 5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 6A.2:2
 
-1. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de schepelingen van 18 jaar of ouder ten minste 10 uren bedraagt in elke periode van 24 achtereenvolgende uren, te rekenen vanaf het begin van de rusttijd.
+1. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de vissers van 18 jaar of ouder ten minste 10 uren bedraagt in elke periode van 24 achtereenvolgende uren, te rekenen vanaf het begin van de rusttijd.
 
-2. De rusttijd kan worden verdeeld in niet meer dan twee perioden, waarvan één periode een onafgebroken rusttijd van ten minste 6 uren omvat. In dat geval wordt de periode van 24 uren, bedoeld in het eerste lid, berekend vanaf het begin van de langste genoten rusttijd. De tijd tussen twee op elkaar volgende perioden van rust bedraagt niet meer dan 14 uren.
+2. De schipper organiseert de arbeid zodanig dat de rusttijd van de vissers wordt verdeeld in niet meer dan twee perioden, waarvan één periode een onafgebroken rusttijd van ten minste 6 uren omvat. In dat geval wordt de periode van 24 uren, bedoeld in het eerste lid, berekend vanaf het begin van de langste genoten rusttijd. De tijd tussen twee op elkaar volgende perioden van rust bedraagt niet meer dan 14 uren.
 
-3. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de schepelingen van 18 jaar of ouder tenminste 77 uren bedraagt in elke periode van 7 dagen.
+3. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de vissers van 18 jaar of ouder tenminste 77 uren bedraagt in elke periode van 7 dagen.
 
 #### Verplichtingen van de scheepsbeheerder
 
 ##### Artikel 6A.2:3
 
-De schipper organiseert de arbeid zodanig dat zijn gemiddelde wekelijkse arbeidstijd en die van de schepelingen van 18 jaar of ouder ten hoogste 48 uren bedraagt, gerekend over een periode van 52 achtereenvolgende weken.
+De schipper organiseert de arbeid zodanig dat zijn gemiddelde wekelijkse arbeidstijd en die van de vissers van 18 jaar of ouder ten hoogste 48 uren bedraagt, gerekend over een periode van 52 achtereenvolgende weken.
 
 #### Ontheffing
 
 ##### Artikel 6A.2:4
 
-1. De schipper organiseert de arbeid zodanig dat een jeugdige schepeling:
+1. De schipper organiseert de arbeid zodanig dat een jeugdige visser:
 
 - a. in elke periode van 24 achtereenvolgende uren ten hoogste 8 uren arbeid verricht;
 
@@ -2768,9 +2768,9 @@ De schipper organiseert de arbeid zodanig dat zijn gemiddelde wekelijkse arbeids
 
 - e. op zondag in beginsel geen arbeid verricht.
 
-2. De schipper organiseert de arbeid zodanig dat de jeugdige schepeling een pauze krijgt van ten minste, zo mogelijk aaneengesloten, 30 minuten ingeval de dagelijkse arbeidstijd langer is dan 4,5 uur.
+2. De schipper organiseert de arbeid zodanig dat de jeugdige visser een pauze krijgt van ten minste, zo mogelijk aaneengesloten, 30 minuten ingeval de dagelijkse arbeidstijd langer is dan 4,5 uur.
 
-3. In afwijking van het eerste lid, onderdelen a en b, mag de jeugdige schepeling:
+3. In afwijking van het eerste lid, onderdelen a en b, mag de jeugdige visser:
 
 - a. in elke periode van 24 achtereenvolgende uren ten hoogste 12 uren arbeid verrichten indien hij uit hoofde van de wachtindeling gedurende die uren feitelijk wacht loopt;
 
@@ -2780,7 +2780,7 @@ De schipper organiseert de arbeid zodanig dat zijn gemiddelde wekelijkse arbeids
 
 ##### Artikel 6A.2:5
 
-De schipper organiseert de arbeid zodanig dat de arbeid van een schepeling telkens na ten hoogste 6 uren wordt afgewisseld door een pauze.
+De schipper organiseert de arbeid zodanig dat de arbeid van een visser telkens na ten hoogste 6 uren wordt afgewisseld door een pauze.
 
 #### Begrippen
 
@@ -2792,9 +2792,9 @@ De schipper organiseert de wettelijk voorgeschreven oefeningen en appèls zodani
 
 ##### Artikel 6A.2:7
 
-1. De schipper kan afwijken en kan een schepeling verplichten af te wijken van de arbeids- en rusttijden om arbeid te verrichten indien dit noodzakelijk is in verband met de onmiddellijke veiligheid van het vissersvaartuig, de personen aan boord, de lading of het milieu, of bij het geven van hulp aan andere schepen of personen in nood.
+1. De schipper kan afwijken en kan een visser verplichten af te wijken van de arbeids- en rusttijden om arbeid te verrichten indien dit noodzakelijk is in verband met de onmiddellijke veiligheid van het vissersvaartuig, de personen aan boord, de lading of het milieu, of bij het geven van hulp aan andere schepen of personen in nood.
 
-2. Zodra de noodsituatie, bedoeld in het eerste lid, voorbij is, zorgt de schipper ervoor dat de schepeling die arbeid heeft verricht in een rustperiode, voldoende rusttijd ter compensatie krijgt.
+2. Zodra de noodsituatie, bedoeld in het eerste lid, voorbij is, zorgt de schipper ervoor dat de visser die arbeid heeft verricht in een rustperiode, voldoende rusttijd ter compensatie krijgt.
 
 #### § 6A.3. Overige bepalingen
 
@@ -2802,7 +2802,11 @@ De schipper organiseert de wettelijk voorgeschreven oefeningen en appèls zodani
 
 ##### Artikel 6A.3:1
 
-1. De scheepsbeheerder zorgt ervoor dat de schipper en de schepelingen aan boord van het vissersvaartuig geen arbeid verrichten in strijd met dit hoofdstuk en de daarop berustende bepalingen.
+1. De scheepsbeheerder zorgt ervoor dat de schipper en de vissers aan boord van het vissersvaartuig:
+
+- a. regelmatig voldoende lange rustperioden krijgen om hun veiligheid en gezondheid te waarborgen; en
+
+- b. geen arbeid verrichten in strijd met dit hoofdstuk en de daarop berustende bepalingen.
 
 2. De scheepsbeheerder verschaft de schipper de nodige middelen en gegevens die deze nodig heeft om aan de hem in dit hoofdstuk en de daarop berustende bepalingen opgelegde verplichtingen te voldoen.
 
@@ -2810,17 +2814,21 @@ De schipper organiseert de wettelijk voorgeschreven oefeningen en appèls zodani
 
 ##### Artikel 6A.3:2
 
-1. Onze Minister van Infrastructuur en Waterstaat kan ontheffing verlenen van [artikel 6A.2:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2019-06-14&g=2019-06-14), en van [artikel 6A.2:4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2019-06-14&g=2019-06-14).
+1. Onze Minister van Infrastructuur en Waterstaat kan:
+
+- a. vrijstelling verlenen van [artikel 6A.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2020-01-25&g=2020-01-25), onder voorwaarden die zoveel mogelijk een gelijkwaardig beschermingsniveau bieden, onder andere door het toekennen van compenserende rusttijden;
+
+- b. ontheffing verlenen van [artikel 6A.2:4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2020-01-25&g=2020-01-25).
 
 2. De scheepsbeheerder en de schipper leven de aan de ontheffing verbonden voorschriften na.
 
-3. Onze Minister van Infrastructuur en Waterstaat kan vrijstelling verlenen van [artikel 6A.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:3&z=2019-06-14&g=2019-06-14).
+3. Onze Minister van Infrastructuur en Waterstaat kan vrijstelling verlenen van [artikel 6A.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:3&z=2020-01-25&g=2020-01-25).
 
 ### Hoofdstuk 7. Registerloodsen
 
 #### § 7.1. Algemene bepaling
 
-#### Maximale wekelijkse arbeidstijd
+#### Uitbreiding toepasselijkheid van deze paragraaf
 
 #### § 7.2. Toepasselijkheid van het hoofdstuk
 
@@ -2830,21 +2838,21 @@ De schipper organiseert de wettelijk voorgeschreven oefeningen en appèls zodani
 
 #### § 7.1. Algemene bepaling
 
-#### Afwijkingen
+#### Pauze
 
 ### Hoofdstuk 8. Beboetbare feiten en daarmee samenhangende bepalingen
 
-#### Beboetbaarstelling wegvervoer
+#### § 6A.3. Overige bepalingen
 
 #### § 7.1. Algemene bepaling
 
 #### § 7.1. Algemene bepaling
 
-#### § 7.2. Toepasselijkheid van het hoofdstuk
+#### § 7.1. Algemene bepaling
 
 ##### Artikel 8:3A. Overtredingen binnenvaart
 
-Het niet naleven van de [artikelen 5.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2019-06-14&g=2019-06-14), [5.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2019-06-14&g=2019-06-14), [5.5:2 tot en met 5.5:5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2019-06-14&g=2019-06-14), [5.5:5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:5b&z=2019-06-14&g=2019-06-14), [5.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:6&z=2019-06-14&g=2019-06-14) en [5.5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:7&z=2019-06-14&g=2019-06-14) is een overtreding.
+Het niet naleven van de [artikelen 5.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2020-01-25&g=2020-01-25), [5.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2020-01-25&g=2020-01-25), [5.5:2 tot en met 5.5:5a](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2020-01-25&g=2020-01-25), [5.5:5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:5b&z=2020-01-25&g=2020-01-25), [5.5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:6&z=2020-01-25&g=2020-01-25) en [5.5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.5&artikel=5.5:7&z=2020-01-25&g=2020-01-25) is een overtreding.
 
 #### Beboetbaarstelling wegvervoer
 
@@ -2888,114 +2896,17 @@ dan wordt de maximale vliegwerktijd bepaald zoals aangegeven in tabel C, noot 2.
 
 In de eerste kolom onder «Gecorrigeerde vliegwerktijd vóór de bekorte rust» zoeken we op 10.50 uur (d.i. 10.30–11.29). De aanmeldingstijd na de bekorte rust staat daarachter in kolom 2 (d.i. tussen 04.01–08.00). Trek nu een denkbeeldige lijn naar rechts. Vervolgens vinden we onder «Lengte Bekorte Rust» het getal 8¼ (8.15 uur). In deze kolom gaan we naar beneden tot het snijpunt met de denkbeeldige horizontale lijn en vinden daarbij het getal 5. De toegestane maximum gecorrigeerde vliegwerktijd bedraagt dus 5 uur.
 
-## BIJLAGE F
+## BIJLAGE C
 
 Vervallen
 
-## BIJLAGE G. Maximum vliegwerktijden
+## BIJLAGE D
 
-I. De maximum vliegwerktijd is afhankelijk van het aanvangstijdstip van de vliegwerktijd, uitgedrukt in lokale tijd, en wordt vastgesteld zoals aangegeven in tabel G, Kolom I.
+Vervallen
 
-II. Indien de oproep tot aanmelding voor een vliegwerktijd valt:
+## BIJLAGE E
 
-- –. in een reservetijd en
-
-- –. de aanmelding moet plaatsvinden na de eerste drie uren van de reservetijd dan wordt behoudens het gestelde in lid 3 van dit artikel de maximum vliegwerktijd vastgesteld zoals aangegeven in tabel G, Kolom II.
-
-III. Indien de oproep tot aanmelding plaatsvindt in een reservetijd en de aanmelding dient plaats te vinden meer dan 8 uren na die oproep, onder gelijktijdige opheffing van de reserveverplichting, dan wordt de maximum vliegwerktijd bepaald volgens tabel G, Kolom I.
-
-IV. Indien de oproep tot aanmelding voor een vliegwerktijd valt:
-
-- –. voor de aanvang van een reservetijd en
-
-- –. de aanmelding moet plaatsvinden binnen 8 uren na afloop van die reservetijd, dan wordt de opdracht geacht te zijn ontvangen op het tijdstip direct voorafgaande aan het einde van de reservetijd; voor het bepalen van de maximum vliegwerktijd is tabel G, Kolom II van toepassing.
-
-**Tabel G**
-
-| Aanmeldtijdstip | Max. vlwt (geen reserve) | Na 3 uur reserve |
-| --- | --- | --- |
-| Aanmeldtijdstip | I | II |
-| 00.00-02.59 uur | 10.00 uur | 8 uur |
-| 03.00-03.59 uur | 10.30 uur | 8 uur |
-| 04.00-04.59 uur | 11.00 uur | 10 uur |
-| 05.00-05.59 uur | 10.30 uur | 11 uur |
-| 06.00-12.59 uur | 12.00 uur | 12 uur |
-| 13.00-14.59 uur | 11.30 uur | 11 uur |
-| 15.00-16.59 uur | 11.00 uur | 10 uur |
-| 17.00-18.59 uur | 10.30 uur | 9 uur |
-| 19.00-23.59 uur | 10.00 uur | 8 uur |
-
-Maximum vliegwerktijden over een langere periode
-
-V. Op de eerste dag, dat een vliegwerktijd meer dan 6 uur bedraagt, dan wel een reservetijd of een combinatie van vliegwerktijd en reservetijd meer dan 7 uur bedraagt, vangt een periode aan van maximaal 15 dagen, waarin het totaal aantal uren vliegwerktijd en het totaal aantal uren vliegwerktijd plus reservetijd op geen enkele dag de waarde in tabel H, kolom «maximum vliegwerktijd» resp. «vliegwerktijd plus reservetijd», behorende bij die dag, overschrijdt.
-
-VI. De onder V genoemde periode eindigt op die dag, dat gerekend vanaf het begin van die periode, het totaal van de vliegwerktijd en het totaal van de vliegwerktijd plus reservetijd gelijk is aan, dan wel minder is dan de bij die dag vermelde normwaarden.
-
-**Tabel H**
-
-| Na (binnen) | Max. vlwtijd | Norm. vlwtijd | Max. vlwt + reservetijd | Norm. vlwtijd + reservetijd |
-| --- | --- | --- | --- | --- |
-| 1 | 121 | 6 | 24 | 7 |
-| 2 | 24 | 12 | 34 | 14 |
-| 3 | 36 | 18 | 39 | 21 |
-| 4 | 44 | 24 | 52 | 28 |
-| 5 | 50 | 30 | 55 | 35 |
-| 6 | 60 | 36 | 66 | 42 |
-| 7 | 65 | 42 | 72 | 49 |
-| 8 | 70 | 48 | 78 | 56 |
-| 9 | 75 | 54 | 84 | 63 |
-| 10 | 80 | 60 | 90 | 70 |
-| 11 | 85 | 66 | 96 | 77 |
-| 12 | 90 | 72 | 105 | 84 |
-| 13 | 90 | 78 | 105 | 91 |
-| 14 | 90 | 84 | 105 | 98 |
-| 15 | 90 | 90 | 105 | 105 |
-
-1Indien bekorte rust wordt toegepast ingevolge artikel 4.8:9, uit te breiden tot 15.29 uur.
-
-VII. Verzwarende omstandigheden
-
-1. Bij het uitvoeren van een vliegwerktijd worden de volgende omstandigheden als verzwarend voor de werkzaamheden van het cockpitpersoneel aangemerkt:
-
-- –. de «single-pilot»-operaties;
-
-- –. de «sling»-operaties;
-
-- –. de «hoist»-operaties.
-
-2. Indien de onder 1. genoemde omstandigheden zich voordoen, worden de volgende correcties te worden toegepast:
-
-- a. Indien de duur van een single-pilot-operatie meer dan 1 uur bedraagt, zal de helft van de single-pilot-vliegtijd in mindering worden gebracht op de volgens [artikel 4.8:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:5&z=2019-06-14&g=2019-06-14), toegestane limiet; deze vermindering zal maximaal 2 uur bedragen.
-
-- b. in geval van een sling-operatie wordt op de maximum vliegtijd tweemaal de tijdsduur van deze operatie in mindering gebracht.
-
-- c. in geval van een hoist-operatie wordt iedere z.g. hoist-cycle gerekend als één landing.
-
-3. Indien de ongecorrigeerde vliegtijd minder dan 5 uur bedraagt, mogen de in dit artikel voorgeschreven correcties achterwege blijven.
-
-VIII. Correctie voor grondtijd zonder werkzaamheden
-
-1. Van een grondtijd langer dan twee en een half uren, kunnen voor de berekening van de gecorrigeerde vliegwerktijd i.v.m. toetsing aan het daarvoor geldende maximum volgens tabel G ten hoogste twee en half uren buiten beschouwing worden gelaten, voor zover het lid van het cockpitpersoneel gedurende deze uren geen werkzaamheden voor zijn maatschappij heeft verricht en waarbij ten minste twee en een half uren als vliegwerktijd worden aangemerkt.
-
-2. Alle in onder 1. genoemde uren grondtijd worden als vliegwerktijd in aanmerking genomen.
-
-3. De onder 1. genoemde berekening wordt per vliegwerktijd slechts op één grondtijd toegepast.
-
-## Bijlage H
-
-**Tabel I**
-
-| Aantal landingen bij dag | Reduktie | Gecorr. max. vliegtijd |
-| --- | --- | --- |
-| 0-25 | 0 | 09.00 uur |
-| 26-30 | 15 min | 08.45 uur |
-| 31-35 | 30 min | 08.30 uur |
-| 36-40 | 45 min | 08.15 uur |
-| 41-45 | 01.00 uur | 08.00 uur |
-| 46-50 | 01.30 uur | 07.30 uur |
-| 51-55 | 02.00 uur | 07.00 uur |
-| 56-60 | 02.30 uur | 06.30 uur |
-| meer dan 60 | 03.00 uur | 06.00 uur |
+Vervallen
 
 ### I. Correctie voor landingen
 
@@ -3120,7 +3031,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Strafbaarstelling binnenvaart
+#### § 7.3. Arbeids- en rusttijden
 
 #### Beboetbaarstelling zeevaart, havensleepdienst en zeevisserij
 
@@ -3134,35 +3045,9 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 1. Van een grondtijd langer dan twee en een half uren, kunnen voor de berekening van de gecorrigeerde vliegwerktijd i.v.m. toetsing aan het daarvoor geldende maximum volgens [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&bijlage=B&z=2006-11-24&g=2006-11-24), ten hoogste twee en een half uren buiten beschouwing worden gelaten, voor zover het lid van het cockpitpersoneel gedurende deze uren geen werkzaamheden voor zijn maatschappij heeft verricht en waarbij ten minste twee en een half uren als vliegwerktijd worden aangemerkt.
 
-## Bijlage I
+## BIJLAGE F
 
-**Aantal landingen**
-
-| Nacht | Dag |
-| --- | --- |
-| 25 | 10 |
-| 24 | 12 |
-| 23 | 14 |
-| 22 | 16 |
-| 21 | 18 |
-| 20 | 20 |
-| 19 | 22 |
-| 18 | 24 |
-| 17 | 26 |
-| 16 | 28 |
-| 15 | 30 |
-| 14 | 32 |
-| 13 | 34 |
-| 12 | 36 |
-| 11 | 38 |
-| 10 | 40 |
-| 9 | 42 |
-| 8 | 44 |
-| 7 | 46 |
-| 6 | 48 |
-| 0-5 | onbeperkt |
-
-T.g.v. een oneven aantal landingen bij daglicht wordt van het naasthogere even aantal landingen uitgegaan.
+Vervallen
 
 ### I. Correctie voor landingen
 
@@ -3403,9 +3288,9 @@ Vervallen
 
 #### § 6A.3. Overige bepalingen
 
-#### Afwijkingen
+#### Oefeningen
 
-#### Verplichtingen van de scheepsbeheerder
+#### Afwijkingen
 
 ### Hoofdstuk 7. Registerloodsen
 
@@ -3415,11 +3300,11 @@ Vervallen
 
 #### Begrippen registerloods, loodsen op afstand en week
 
+#### Begrippen registerloods, loodsen op afstand en week
+
+#### § 7.2. Toepasselijkheid van het hoofdstuk
+
 #### Toepasselijkheid op registerloodsen
-
-#### § 7.1. Algemene bepaling
-
-#### Uitbreiding van de toepasselijkheid van het hoofdstuk
 
 ### Hoofdstuk 8. Beboetbare feiten en daarmee samenhangende bepalingen
 
@@ -3433,7 +3318,7 @@ Vervallen
 
 #### Overtredingen loodsen
 
-#### Vorderen van afgifte van een bestuurderskaart
+#### Overtredingen zeevaart, havensleepdienst en zeevisserij
 
 ##### Artikel 8:6
 
@@ -3457,38 +3342,35 @@ Vervallen
 
 3. De onder 1. genoemde berekening wordt per vliegwerktijd slechts op één grondtijd toegepast.
 
-## Bijlage J. Maximale vliegwerktijd na bekorte rust
+## Bijlage I
 
-| Vliegwerktijd vóór bekorte rust | Aanmeldingstijdenna bekorte rust(LT) van - t/m | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   | 8.00 | 8.30 | 9.00 | 9.30 | 10.00 | 10.30 | 11.00 | 11.30 | 12.00 |
-| 00.00- |   |   |   |   |   |   |   |   |   |   |
-| 06.29 | 1 = 0600-1259 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 = 1300-1659 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 | 11.00 |   |
-|   | 0400-0559 |   |   |   |   |   |   |   |   |   |
-|   | 111 = 1700-0259 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 | 10.00 |   |
-| 06.30- |   |   |   |   |   |   |   |   |   |   |
-| 07.29 |   | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 |   |
-|   | 111 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 |   |
-| 07.30-8.29 | 1 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 |   |
-|   | 111 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 |   |
-| 08.30- |   |   |   |   |   |   |   |   |   |   |
-| 09.29 | 1 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 |   |
-|   | 11 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 |   |
-|   | 111 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 |   |
-| 09.30- |   |   |   |   |   |   |   |   |   |   |
-| 10.29 | 1 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 |   |
-|   | 11 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
-|   | 111 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-| 10.30- |   |   |   |   |   |   |   |   |   |   |
-| 11.29 | 1 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
-|   | 11 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-|   | 111 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
-| meer dan | 1 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-| 11.29 | 11 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
-|   | 111 | 0.00 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 |   |
+**Aantal landingen**
+
+| Nacht | Dag |
+| --- | --- |
+| 25 | 10 |
+| 24 | 12 |
+| 23 | 14 |
+| 22 | 16 |
+| 21 | 18 |
+| 20 | 20 |
+| 19 | 22 |
+| 18 | 24 |
+| 17 | 26 |
+| 16 | 28 |
+| 15 | 30 |
+| 14 | 32 |
+| 13 | 34 |
+| 12 | 36 |
+| 11 | 38 |
+| 10 | 40 |
+| 9 | 42 |
+| 8 | 44 |
+| 7 | 46 |
+| 6 | 48 |
+| 0-5 | onbeperkt |
+
+T.g.v. een oneven aantal landingen bij daglicht wordt van het naasthogere even aantal landingen uitgegaan.
 
 ### Voorbeelden voor het gebruik van Tabel C
 
@@ -3749,7 +3631,7 @@ Vervallen
 
 ##### Artikel 2.5:4a
 
-1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2019-06-14&g=2019-06-14) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2019-06-14&g=2019-06-14) is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.
+1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2020-01-25&g=2020-01-25) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2020-01-25&g=2020-01-25) is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.
 
 2. In plaats van [artikel 5:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8) wordt dit artikel toegepast.
 
@@ -3765,7 +3647,7 @@ Vervallen
 
 ##### Artikel 2.5:8
 
-1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2019-06-14&g=2019-06-14) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2019-06-14&g=2019-06-14) is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.
+1. In afwijking van de [artikelen 2.2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.2&artikel=2.2:2&z=2020-01-25&g=2020-01-25) en [2.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:1&z=2020-01-25&g=2020-01-25) is dit artikel uitsluitend van toepassing voor zover verordening (EG) nr. 561/2006 van toepassing is.
 
 2. In plaats van [artikel 5:7, tweede tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7) wordt dit artikel toegepast.
 
@@ -3779,7 +3661,7 @@ Vervallen
 
 ##### Artikel 2.5:9
 
-1. Voor de toepassing van de [artikelen 2.5:4a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2019-06-14&g=2019-06-14), [2.5:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14), en [2.5:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2019-06-14&g=2019-06-14), wordt niet als arbeidstijd aangemerkt:
+1. Voor de toepassing van de [artikelen 2.5:4a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2020-01-25&g=2020-01-25), [2.5:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25), en [2.5:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2020-01-25&g=2020-01-25), wordt niet als arbeidstijd aangemerkt:
 
 - a. ten aanzien van de bestuurder de perioden waarin deze een voertuig begeleidt dat wordt vervoerd;
 
@@ -3789,7 +3671,7 @@ Vervallen
 
 - d. ten aanzien van de persoon, bedoeld in [artikel 2:7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7), de perioden waarin deze niet ter beschikking van de klant staat en algemeen administratief werk verricht dat niet direct verband houdt met het ten behoeve van de klant verrichte vervoer.
 
-2. Voor zover de verwachte duur voor de bestuurder van tevoren bekend is, dan wel bij regeling van Onze Ministers is vastgelegd, wordt voor de toepassing van de [artikelen 2.5:4a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2019-06-14&g=2019-06-14), [2.5:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2019-06-14&g=2019-06-14), en [2.5:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2019-06-14&g=2019-06-14), voor de bestuurder tevens niet als arbeidstijd aangemerkt de periode waarin deze voor eventuele oproepen beschikbaar moet zijn om een rit aan te vatten of te hervatten dan wel andere werkzaamheden moet uitvoeren.
+2. Voor zover de verwachte duur voor de bestuurder van tevoren bekend is, dan wel bij regeling van Onze Ministers is vastgelegd, wordt voor de toepassing van de [artikelen 2.5:4a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:4a&z=2020-01-25&g=2020-01-25), [2.5:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:6&z=2020-01-25&g=2020-01-25), en [2.5:8, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.5&artikel=2.5:8&z=2020-01-25&g=2020-01-25), voor de bestuurder tevens niet als arbeidstijd aangemerkt de periode waarin deze voor eventuele oproepen beschikbaar moet zijn om een rit aan te vatten of te hervatten dan wel andere werkzaamheden moet uitvoeren.
 
 #### § 2.6. Vrijstellingen
 
@@ -3855,7 +3737,7 @@ Vervallen
 
 #### Vrijstelling en ontheffing
 
-#### Vrijstelling en ontheffing
+#### Verplichtingen van de scheepsbeheerder
 
 #### § 7.1. Algemene bepaling
 
@@ -3867,7 +3749,7 @@ Vervallen
 
 #### Toepasselijkheid van de paragraaf
 
-#### Uitbreiding van de toepasselijkheid van het hoofdstuk
+#### Toepasselijkheid van de paragraaf
 
 #### Overtredingen wegvervoer
 
@@ -3875,9 +3757,9 @@ Vervallen
 
 ### Hoofdstuk 8. Beboetbare feiten en daarmee samenhangende bepalingen
 
-#### Strafbaarstelling binnenvaart
+#### Overtredingen loodsen
 
-#### Inwerkingtreding
+#### Vorderen van afgifte van een bestuurderskaart
 
 #### Citeertitel
 
@@ -4085,7 +3967,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 4.1:5
 
-In [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2019-06-14&g=2019-06-14) wordt verstaan onder:
+In [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.5&z=2020-01-25&g=2020-01-25) wordt verstaan onder:
 
 - a. **EG-verordening 3922/91:** verordening (EEG) nr. 3922/91 van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart (PbEG L 373);
 
@@ -4123,9 +4005,9 @@ In [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraa
 
 #### § 6A.3. Overige bepalingen
 
-#### Jeugdige schepelingen
+#### Rusttijd van vissers van 18 jaar of ouder
 
-#### Pauze
+#### Maximale wekelijkse arbeidstijd
 
 ### Hoofdstuk 7. Registerloodsen
 
@@ -4135,9 +4017,9 @@ In [§ 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraa
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Overtredingen luchtvaart
+#### Overtredingen spoorvervoer
 
-#### Overtredingen zeevaart, havensleepdienst en zeevisserij
+#### Overtredingen luchtvaart
 
 ## BIJLAGE F
 
@@ -4276,17 +4158,17 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 7. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 2 achtereenvolgende dagelijkse onafgebroken rusttijden heeft die niet in de normale woonplaats kunnen worden doorgebracht.
 
-8. De in het tweede lid bedoelde periode vangt aan op het eerste tijdstip van de dag, waarop de werknemer een dienst als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2019-06-14&g=2019-06-14) verricht.
+8. De in het tweede lid bedoelde periode vangt aan op het eerste tijdstip van de dag, waarop de werknemer een dienst als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2020-01-25&g=2020-01-25) verricht.
 
 ##### Artikel 3.3:2
 
 1. In plaats van [artikel 5:5, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5) wordt dit artikel toegepast.
 
-2. De werkgever organiseert de arbeid zodanig, dat de werknemer in elke aaneengesloten periode van 7 maal 24 uren, waarin hij ten minste één dienst verricht als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2019-06-14&g=2019-06-14), een onafgebroken rusttijd heeft van ten minste 36 uren.
+2. De werkgever organiseert de arbeid zodanig, dat de werknemer in elke aaneengesloten periode van 7 maal 24 uren, waarin hij ten minste één dienst verricht als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2020-01-25&g=2020-01-25), een onafgebroken rusttijd heeft van ten minste 36 uren.
 
-3. De in het tweede lid bedoelde periode vangt aan op het eerste tijdstip van de dag, waarop de werknemer een dienst als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2019-06-14&g=2019-06-14) verricht.
+3. De in het tweede lid bedoelde periode vangt aan op het eerste tijdstip van de dag, waarop de werknemer een dienst als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2020-01-25&g=2020-01-25) verricht.
 
-4. In elke periode van 52 aaneengesloten weken waarin een werknemer ten minste 52 diensten als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2019-06-14&g=2019-06-14) verricht, organiseert de werkgever de arbeid zodanig, dat de werknemer 104 perioden heeft van ten minste 24 uren onafgebroken rusttijd.
+4. In elke periode van 52 aaneengesloten weken waarin een werknemer ten minste 52 diensten als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2020-01-25&g=2020-01-25) verricht, organiseert de werkgever de arbeid zodanig, dat de werknemer 104 perioden heeft van ten minste 24 uren onafgebroken rusttijd.
 
 5. De in het vierde lid bedoelde 104 perioden omvatten ten minste 24 aaneengesloten perioden van ten minste 60 uren, van welke 24 perioden ten minste 12 perioden de gehele zaterdag en de gehele zondag omvatten.
 
@@ -4314,7 +4196,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 - a. ten hoogste 9 uren per dienst bedraagt, dan wel ten hoogste 8 uren indien er 3 of meer uren arbeid wordt verricht in de periode tussen 00.00 en 07.00 uur;
 
-- b. ten hoogste 80 uur bedraagt in elke aaneengesloten periode van 14 maal 24 uren, waarin hij ten minste twee diensten verricht als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2019-06-14&g=2019-06-14).
+- b. ten hoogste 80 uur bedraagt in elke aaneengesloten periode van 14 maal 24 uren, waarin hij ten minste twee diensten verricht als bedoeld in [artikel 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2020-01-25&g=2020-01-25).
 
 2. Voor de toepassing van het eerste lid wordt als rijtijd aangemerkt:
 
@@ -4376,13 +4258,13 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 6A.2. Arbeids- en rusttijden
 
-#### Schepelingen van 18 jaar of ouder
+#### Toepasselijkheid van deze paragraaf
 
-#### Oefeningen
+#### Jeugdige vissers
 
 ### Hoofdstuk 7. Registerloodsen
 
-#### Begrippen registerloods, loodsen op afstand en week
+#### Vrijstelling en ontheffing
 
 #### § 7.2. Toepasselijkheid van het hoofdstuk
 
@@ -4394,7 +4276,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### Overtredingen spoorvervoer
 
-#### Overtredingen luchtvaart
+#### Overtredingen wegvervoer
 
 #### Overtredingen loodsen
 
@@ -4410,46 +4292,102 @@ Vervallen
 
 Vervallen
 
-## BIJLAGE D
+## BIJLAGE A
 
 Vervallen
 
-## BIJLAGE E
+## BIJLAGE B
 
 Vervallen
 
-## Bijlage J. Maximale vliegwerktijd na bekorte rust
+## BIJLAGE G. Maximum vliegwerktijden
 
-| Vliegwerktijd vóór bekorte rust | Aanmeldingstijdenna bekorte rust(LT) van - t/m | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   | 8.00 | 8.30 | 9.00 | 9.30 | 10.00 | 10.30 | 11.00 | 11.30 | 12.00 |
-| 00.00- |   |   |   |   |   |   |   |   |   |   |
-| 06.29 | 1 = 0600-1259 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 = 1300-1659 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 | 11.00 |   |
-|   | 0400-0559 |   |   |   |   |   |   |   |   |   |
-|   | 111 = 1700-0259 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 | 10.00 |   |
-| 06.30- |   |   |   |   |   |   |   |   |   |   |
-| 07.29 |   | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 |   |
-|   | 111 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 |   |
-| 07.30-8.29 | 1 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 |   |
-|   | 11 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 |   |
-|   | 111 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 |   |
-| 08.30- |   |   |   |   |   |   |   |   |   |   |
-| 09.29 | 1 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 |   |
-|   | 11 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 |   |
-|   | 111 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 |   |
-| 09.30- |   |   |   |   |   |   |   |   |   |   |
-| 10.29 | 1 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 |   |
-|   | 11 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
-|   | 111 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-| 10.30- |   |   |   |   |   |   |   |   |   |   |
-| 11.29 | 1 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
-|   | 11 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-|   | 111 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
-| meer dan | 1 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
-| 11.29 | 11 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
-|   | 111 | 0.00 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 |   |
+I. De maximum vliegwerktijd is afhankelijk van het aanvangstijdstip van de vliegwerktijd, uitgedrukt in lokale tijd, en wordt vastgesteld zoals aangegeven in tabel G, Kolom I.
+
+II. Indien de oproep tot aanmelding voor een vliegwerktijd valt:
+
+- –. in een reservetijd en
+
+- –. de aanmelding moet plaatsvinden na de eerste drie uren van de reservetijd dan wordt behoudens het gestelde in lid 3 van dit artikel de maximum vliegwerktijd vastgesteld zoals aangegeven in tabel G, Kolom II.
+
+III. Indien de oproep tot aanmelding plaatsvindt in een reservetijd en de aanmelding dient plaats te vinden meer dan 8 uren na die oproep, onder gelijktijdige opheffing van de reserveverplichting, dan wordt de maximum vliegwerktijd bepaald volgens tabel G, Kolom I.
+
+IV. Indien de oproep tot aanmelding voor een vliegwerktijd valt:
+
+- –. voor de aanvang van een reservetijd en
+
+- –. de aanmelding moet plaatsvinden binnen 8 uren na afloop van die reservetijd, dan wordt de opdracht geacht te zijn ontvangen op het tijdstip direct voorafgaande aan het einde van de reservetijd; voor het bepalen van de maximum vliegwerktijd is tabel G, Kolom II van toepassing.
+
+**Tabel G**
+
+| Aanmeldtijdstip | Max. vlwt (geen reserve) | Na 3 uur reserve |
+| --- | --- | --- |
+| Aanmeldtijdstip | I | II |
+| 00.00-02.59 uur | 10.00 uur | 8 uur |
+| 03.00-03.59 uur | 10.30 uur | 8 uur |
+| 04.00-04.59 uur | 11.00 uur | 10 uur |
+| 05.00-05.59 uur | 10.30 uur | 11 uur |
+| 06.00-12.59 uur | 12.00 uur | 12 uur |
+| 13.00-14.59 uur | 11.30 uur | 11 uur |
+| 15.00-16.59 uur | 11.00 uur | 10 uur |
+| 17.00-18.59 uur | 10.30 uur | 9 uur |
+| 19.00-23.59 uur | 10.00 uur | 8 uur |
+
+Maximum vliegwerktijden over een langere periode
+
+V. Op de eerste dag, dat een vliegwerktijd meer dan 6 uur bedraagt, dan wel een reservetijd of een combinatie van vliegwerktijd en reservetijd meer dan 7 uur bedraagt, vangt een periode aan van maximaal 15 dagen, waarin het totaal aantal uren vliegwerktijd en het totaal aantal uren vliegwerktijd plus reservetijd op geen enkele dag de waarde in tabel H, kolom «maximum vliegwerktijd» resp. «vliegwerktijd plus reservetijd», behorende bij die dag, overschrijdt.
+
+VI. De onder V genoemde periode eindigt op die dag, dat gerekend vanaf het begin van die periode, het totaal van de vliegwerktijd en het totaal van de vliegwerktijd plus reservetijd gelijk is aan, dan wel minder is dan de bij die dag vermelde normwaarden.
+
+**Tabel H**
+
+| Na (binnen) | Max. vlwtijd | Norm. vlwtijd | Max. vlwt + reservetijd | Norm. vlwtijd + reservetijd |
+| --- | --- | --- | --- | --- |
+| 1 | 121 | 6 | 24 | 7 |
+| 2 | 24 | 12 | 34 | 14 |
+| 3 | 36 | 18 | 39 | 21 |
+| 4 | 44 | 24 | 52 | 28 |
+| 5 | 50 | 30 | 55 | 35 |
+| 6 | 60 | 36 | 66 | 42 |
+| 7 | 65 | 42 | 72 | 49 |
+| 8 | 70 | 48 | 78 | 56 |
+| 9 | 75 | 54 | 84 | 63 |
+| 10 | 80 | 60 | 90 | 70 |
+| 11 | 85 | 66 | 96 | 77 |
+| 12 | 90 | 72 | 105 | 84 |
+| 13 | 90 | 78 | 105 | 91 |
+| 14 | 90 | 84 | 105 | 98 |
+| 15 | 90 | 90 | 105 | 105 |
+
+1Indien bekorte rust wordt toegepast ingevolge artikel 4.8:9, uit te breiden tot 15.29 uur.
+
+VII. Verzwarende omstandigheden
+
+1. Bij het uitvoeren van een vliegwerktijd worden de volgende omstandigheden als verzwarend voor de werkzaamheden van het cockpitpersoneel aangemerkt:
+
+- –. de «single-pilot»-operaties;
+
+- –. de «sling»-operaties;
+
+- –. de «hoist»-operaties.
+
+2. Indien de onder 1. genoemde omstandigheden zich voordoen, worden de volgende correcties te worden toegepast:
+
+- a. Indien de duur van een single-pilot-operatie meer dan 1 uur bedraagt, zal de helft van de single-pilot-vliegtijd in mindering worden gebracht op de volgens [artikel 4.8:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4&paragraaf=4.8&artikel=4.8:5&z=2020-01-25&g=2020-01-25), toegestane limiet; deze vermindering zal maximaal 2 uur bedragen.
+
+- b. in geval van een sling-operatie wordt op de maximum vliegtijd tweemaal de tijdsduur van deze operatie in mindering gebracht.
+
+- c. in geval van een hoist-operatie wordt iedere z.g. hoist-cycle gerekend als één landing.
+
+3. Indien de ongecorrigeerde vliegtijd minder dan 5 uur bedraagt, mogen de in dit artikel voorgeschreven correcties achterwege blijven.
+
+VIII. Correctie voor grondtijd zonder werkzaamheden
+
+1. Van een grondtijd langer dan twee en een half uren, kunnen voor de berekening van de gecorrigeerde vliegwerktijd i.v.m. toetsing aan het daarvoor geldende maximum volgens tabel G ten hoogste twee en half uren buiten beschouwing worden gelaten, voor zover het lid van het cockpitpersoneel gedurende deze uren geen werkzaamheden voor zijn maatschappij heeft verricht en waarbij ten minste twee en een half uren als vliegwerktijd worden aangemerkt.
+
+2. Alle in onder 1. genoemde uren grondtijd worden als vliegwerktijd in aanmerking genomen.
+
+3. De onder 1. genoemde berekening wordt per vliegwerktijd slechts op één grondtijd toegepast.
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -4499,41 +4437,27 @@ Wijzigt dit besluit.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-## Bijlage I
+## Bijlage H
 
-**Aantal landingen**
+**Tabel I**
 
-| Nacht | Dag |
-| --- | --- |
-| 25 | 10 |
-| 24 | 12 |
-| 23 | 14 |
-| 22 | 16 |
-| 21 | 18 |
-| 20 | 20 |
-| 19 | 22 |
-| 18 | 24 |
-| 17 | 26 |
-| 16 | 28 |
-| 15 | 30 |
-| 14 | 32 |
-| 13 | 34 |
-| 12 | 36 |
-| 11 | 38 |
-| 10 | 40 |
-| 9 | 42 |
-| 8 | 44 |
-| 7 | 46 |
-| 6 | 48 |
-| 0-5 | onbeperkt |
-
-T.g.v. een oneven aantal landingen bij daglicht wordt van het naasthogere even aantal landingen uitgegaan.
+| Aantal landingen bij dag | Reduktie | Gecorr. max. vliegtijd |
+| --- | --- | --- |
+| 0-25 | 0 | 09.00 uur |
+| 26-30 | 15 min | 08.45 uur |
+| 31-35 | 30 min | 08.30 uur |
+| 36-40 | 45 min | 08.15 uur |
+| 41-45 | 01.00 uur | 08.00 uur |
+| 46-50 | 01.30 uur | 07.30 uur |
+| 51-55 | 02.00 uur | 07.00 uur |
+| 56-60 | 02.30 uur | 06.30 uur |
+| meer dan 60 | 03.00 uur | 06.00 uur |
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 5.4:3. Bekrachtiging en bewaartermijn van geregistreerde arbeids- en rusttijden
 
-1. De gezagvoerend schipper en de werkgever bewaren de in de [artikelen 5.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2019-06-14&g=2019-06-14) en [5.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2019-06-14&g=2019-06-14) bedoelde registratie van arbeids- en rusttijden ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben, aan boord.
+1. De gezagvoerend schipper en de werkgever bewaren de in de [artikelen 5.4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:1&z=2020-01-25&g=2020-01-25) en [5.4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2020-01-25&g=2020-01-25) bedoelde registratie van arbeids- en rusttijden ten minste 52 weken, gerekend vanaf de datum waarop de desbetreffende gegevens en bescheiden betrekking hebben, aan boord.
 
 2. De registratie van de arbeidstijden en rusttijden van een bemanningslid dat werknemer is wordt uiterlijk aan het einde van de volgende maand gezamenlijk door de werkgever of zijn vertegenwoordiger en de werknemer gecontroleerd en bekrachtigd.
 
@@ -4559,7 +4483,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 ##### Artikel 2.3:3
 
-Dit artikel en [artikel 2.3:2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:2&z=2019-06-14&g=2019-06-14), vervallen met ingang van 1 januari 2023.
+Dit artikel en [artikel 2.3:2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2&paragraaf=2.3&artikel=2.3:2&z=2020-01-25&g=2020-01-25), vervallen met ingang van 1 januari 2023.
 
 #### § 2.4. Registratie
 
@@ -4633,6 +4557,59 @@ Dit artikel en [artikel 2.3:2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 7.3. Arbeids- en rusttijden
 
-#### Toepasselijkheid van de paragraaf
+#### Uitbreiding van de toepasselijkheid van het hoofdstuk
 
 ### Hoofdstuk 8. Overtredingen en daarmee samenhangende bepalingen
+
+##### Artikel 6a.2:1a
+
+1. De [artikelen 6A.2:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2020-01-25&g=2020-01-25), [6A.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:3&z=2020-01-25&g=2020-01-25), [6A.2:4, met uitzondering van het eerste lid, onder b en het derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2020-01-25&g=2020-01-25), [6A.2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:5&z=2020-01-25&g=2020-01-25) en [6A.2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:7&z=2020-01-25&g=2020-01-25), zijn uitsluitend van toepassing op de visser die werknemer is, of, de visser die zonder werkgever of werknemer in de zin van de wet te zijn, samen met werknemers op hetzelfde vissersvaartuig arbeid verricht.
+
+2. [Artikel 6A.2:2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:2&z=2020-01-25&g=2020-01-25), is van overeenkomstige toepassing op de visser van 16 jaar en ouder die zonder werkgever of werknemer in de zin van de wet te zijn arbeid verricht aan boord van een vissersvaartuig dat langer dan drie dagen op zee blijft.
+
+3. [Artikel 6A.2:4, eerste lid, onder b en derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A&paragraaf=6A.2&artikel=6A.2:4&z=2020-01-25&g=2020-01-25), is van overeenkomstige toepassing op de jeugdige visser die zonder werkgever of werknemer in de zin van de wet te zijn arbeid verricht aan boord van een vissersvaartuig.
+
+### Hoofdstuk 7. Registerloodsen
+
+### Hoofdstuk 8. Overtredingen en daarmee samenhangende bepalingen
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+#### Inwerkingtreding
+
+#### Citeertitel
+
+## Bijlage J. Maximale vliegwerktijd na bekorte rust
+
+| Vliegwerktijd vóór bekorte rust | Aanmeldingstijdenna bekorte rust(LT) van - t/m | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust | Lengte bekorte rust |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | 8.00 | 8.30 | 9.00 | 9.30 | 10.00 | 10.30 | 11.00 | 11.30 | 12.00 |
+| 00.00- |   |   |   |   |   |   |   |   |   |   |
+| 06.29 | 1 = 0600-1259 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
+|   | 11 = 1300-1659 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 | 11.00 |   |
+|   | 0400-0559 |   |   |   |   |   |   |   |   |   |
+|   | 111 = 1700-0259 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 | 10.00 |   |
+| 06.30- |   |   |   |   |   |   |   |   |   |   |
+| 07.29 |   | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 | 12.00 |   |
+|   | 11 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 | 11.00 |   |
+|   | 111 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 | 10.00 |   |
+| 07.30-8.29 | 1 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 | 12.00 |   |
+|   | 11 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 | 11.00 |   |
+|   | 111 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 | 10.00 |   |
+| 08.30- |   |   |   |   |   |   |   |   |   |   |
+| 09.29 | 1 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 | 12.00 |   |
+|   | 11 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 11.00 |   |
+|   | 111 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 10.00 |   |
+| 09.30- |   |   |   |   |   |   |   |   |   |   |
+| 10.29 | 1 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 | 12.00 |   |
+|   | 11 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
+|   | 111 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
+| 10.30- |   |   |   |   |   |   |   |   |   |   |
+| 11.29 | 1 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 | 11.00 |   |
+|   | 11 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
+|   | 111 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
+| meer dan | 1 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 | 9.30 |   |
+| 11.29 | 11 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 | 8.15 |   |
+|   | 111 | 0.00 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 | 6.00 | 7.00 |   |
+
+Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
