@@ -4,7 +4,7 @@ identifier: "BWBR0033439"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-25"
-last_updated: "2018-07-25"
+last_updated: "2020-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033439"
 soort: "ministeriele-regeling"
@@ -76,9 +76,9 @@ In deze regeling wordt verstaan onder:
 
 5. Het hoofd van de FIU-Nederland legt over de algemene leiding en de organisatie overeenkomstig [artikel 12 van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12) en [artikel 3.1 van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.1) directe verantwoording af aan de Minister.
 
-6. Het hoofd van de FIU-Nederland wordt ondersteund door ambtenaren met een arbeidsrechtelijke aanstelling bij de politie.
+6. Het hoofd van de FIU-Nederland wordt ondersteund door ambtenaren met een aanstelling bij de politie.
 
-7. Ambtenaren werkzaam bij de FIU-Nederland kunnen uitsluitend worden ingezet voor het uitvoeren van de conform [artikel 13 van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13) en [artikel 3.2 van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.2) aan de FIU-Nederland toegekende taken en zijn hierover uitsluitend verantwoording schuldig aan het hoofd van de FIU-Nederland.
+7. Ambtenaren werkzaam bij de FIU-Nederland worden ingezet voor het uitvoeren van de conform [artikel 13 van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13) en [artikel 3.2 van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.2) aan de FIU-Nederland toegekende taken en zijn hierover verantwoording schuldig aan het hoofd van de FIU-Nederland.
 
 8. Het hoofd van de FIU-Nederland is verantwoordelijk voor het gegevensbestand van ongebruikelijke transacties. Overeenkomstig [artikel 14 van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=14) en [artikel 3.3. van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3) is het gegevensbestand uitsluitend toegankelijk voor de daartoe door het hoofd van de FIU-Nederland geautoriseerde medewerkers van de FIU-Nederland.
 
