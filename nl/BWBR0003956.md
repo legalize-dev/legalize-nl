@@ -4,7 +4,7 @@ identifier: "BWBR0003956"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-31"
-last_updated: "2014-01-01"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003956"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Besluiten:
 
 ##### Artikel 2
 
-De afstand tussen de onderste trede of sport en het onderste uiteinde van de boom of stijl mag maximaal de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=1&z=2014-01-01&g=2014-01-01), bedoelde afstand + 15 mm bedragen en moet minimaal de helft van die afstand bedragen.
+De afstand tussen de onderste trede of sport en het onderste uiteinde van de boom of stijl mag maximaal de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=1&z=2020-01-31&g=2020-01-31), bedoelde afstand + 15 mm bedragen en moet minimaal de helft van die afstand bedragen.
 
 ##### Artikel 3
 
@@ -75,11 +75,11 @@ Draagbaar klimmaterieel, bestaande uit meerdere beklimbare delen die in uitgesch
 
 ##### Artikel 7
 
-Bij draagbaar klimmaterieel als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=6&z=2014-01-01&g=2014-01-01), welk van een optrekconstructie is voorzien, dient deze constructie zodanig te zijn uitgevoerd dat bij het loslaten of het breken van de optreklijn het onderste opgetrokken deel van het klimmaterieel over niet meer dan één sport c.q. trede-afstand kan zakken; de optreklijn moet een diameter hebben van ten minste 8 mm en een trekkracht van ten minste 4000 N kunnen doorstaan.
+Bij draagbaar klimmaterieel als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003956&artikel=6&z=2020-01-31&g=2020-01-31), welk van een optrekconstructie is voorzien, dient deze constructie zodanig te zijn uitgevoerd dat bij het loslaten of het breken van de optreklijn het onderste opgetrokken deel van het klimmaterieel over niet meer dan één sport c.q. trede-afstand kan zakken; de optreklijn moet een diameter hebben van ten minste 8 mm en een trekkracht van ten minste 4000 N kunnen doorstaan.
 
 ##### Artikel 8
 
-Deze regeling kan worden aangehaald als ‘Regeling nadere eisen draagbaar klimmaterieel (Warenwet)’.
+Deze regeling wordt aangehaald als: Warenwetregeling draagbaar klimmaterieel.
 
 ##### Artikel 9
 
