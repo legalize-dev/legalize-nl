@@ -4,7 +4,7 @@ identifier: "BWBR0003957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-31"
-last_updated: "1987-03-01"
+last_updated: "2020-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003957"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Ten aanzien van draagbaar klimmaterieel gelden de onderzoeksmethoden omschreven 
 
 ##### Artikel 2
 
-Deze regeling kan worden aangehaald als: 'Regeling methoden van onderzoek draagbaar klimmaterieel (Warenwet)'.
+Deze regeling wordt aangehaald als: Warenwetregeling methoden van onderzoek draagbaar klimmaterieel.
 
 ##### Artikel 3
 
