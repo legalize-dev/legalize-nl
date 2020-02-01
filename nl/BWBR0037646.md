@@ -4,7 +4,7 @@ identifier: "BWBR0037646"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2016-04-20"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037646"
 soort: "AMvB"
@@ -182,7 +182,7 @@ Een drukvat dat op de markt wordt aangeboden, is overeenkomstig de artikelen 15 
 
 1. De beoordeling van de conformiteit van een drukvat, de afgifte van verklaringen en de verlening van goedkeuringen ter zake vinden plaats met inachtneming van artikel 13 van de richtlijn.
 
-2. Fabrikanten vragen de beoordeling van de conformiteit van een drukvat, bedoeld in artikel 13, eerste en tweede lid, van de richtlijn aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2016-04-20&g=2016-04-20).
+2. Fabrikanten vragen de beoordeling van de conformiteit van een drukvat, bedoeld in artikel 13, eerste en tweede lid, van de richtlijn aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01).
 
 3. De dossiers en briefwisseling, bedoeld in artikel 13, derde lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal of in een door de EU-conformiteitsbeoordelingsinstantie, bedoeld in het tweede lid, aanvaarde taal.
 
@@ -210,19 +210,15 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 ##### Artikel 12. Weigering, schorsing, wijziging of intrekking van een aanwijzing
 
-1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie door Onze Minister indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2016-04-20&g=2016-04-20).
+1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie door Onze Minister indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de EU-conformiteitsbeoordelingsinstantie worden gewijzigd of ingetrokken:
 
 - a. op grond van door de EU-conformiteitsbeoordelingsinstantie verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instantie bekend was of kon zijn;
 
-- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2016-04-20&g=2016-04-20); of
+- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01); of
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.
-
-3. Een aanwijzing kan worden geweigerd of ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
-
-4. Voordat toepassing wordt gegeven aan het derde lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9), worden gevraagd.
 
 ##### Artikel 13. Aanmeldende autoriteit
 
@@ -234,7 +230,7 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
-- a. nog voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2016-04-20&g=2016-04-20); en
+- a. nog voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01); en
 
 - b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
 
@@ -262,9 +258,9 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 1. Producten die voldoen aan het [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden genomen.
 
-2. Het is verboden om na 1 juli 2017 drukvaten in de handel te brengen, op de markt aan te bieden of in gebruik te nemen die voor 1 juli 1992 zijn vervaardigd.
+2. Het is verboden om na 1 juli 2017 drukvaten in de handel te brengen, op de markt aan te bieden of in gebruik te nemen of te hebben die voor 1 juli 1992 zijn vervaardigd.
 
-3. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=20&z=2016-04-20&g=2016-04-20), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=10&z=2016-04-20&g=2016-04-20).
+3. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=20&z=2020-02-01&g=2020-02-01), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=10&z=2020-02-01&g=2020-02-01).
 
 ##### Artikel 19. Intrekking [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627)
 
@@ -274,9 +270,9 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 20. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=1&z=2016-04-20&g=2016-04-20), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2016-04-20&g=2016-04-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=12&z=2016-04-20&g=2016-04-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=13&z=2016-04-20&g=2016-04-20) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=14&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=13&z=2020-02-01&g=2020-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=14&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=2&z=2016-04-20&g=2016-04-20) en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=15&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037646&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 21. Citeertitel
 
