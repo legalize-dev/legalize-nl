@@ -4,7 +4,7 @@ identifier: "BWBV0006813"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-02-01"
-last_updated: "2019-04-09"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006813"
 soort: "verdrag"
@@ -144,11 +144,11 @@ Op verzoek informeert de aangezochte administratie de verzoekende administratie 
 
 ##### Artikel 6. Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2019-04-09&g=2019-04-09) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2020-02-01&g=2020-02-01) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
 
 ##### Artikel 7. Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2019-04-09&g=2019-04-09) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2020-02-01&g=2020-02-01) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
 
 ### HOOFDSTUK IV. SOORTEN BIJSTAND
 
@@ -240,7 +240,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 5. De verdragsluitende partijen verschaffen elkaar alle wetgeving welke van belang is voor dit artikel. Persoonsgegevens worden pas uitgewisseld nadat de wetgeving is ontvangen. Wanneer de wetgeving wordt gewijzigd stellen beide partijen elkaar onverwijld in kennis van de wijzigingen.
 
-6. Persoonsgegevens worden pas uitgewisseld nadat de wetgeving is ontvangen en praktische aanwijzingen met betrekking tot de omstandigheden waarin gegevens kunnen worden opgeslagen en gebruikt, en hoe deze beschermd dienen te worden, onderling zijn geregeld in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2019-04-09&g=2019-04-09) van dit Verdrag. Wanneer de wetgeving wordt gewijzigd, stellen de verdragsluitende partijen elkaar onverwijld in kennis en passen zij de praktische aanwijzingen navenant aan.
+6. Persoonsgegevens worden pas uitgewisseld nadat de wetgeving is ontvangen en praktische aanwijzingen met betrekking tot de omstandigheden waarin gegevens kunnen worden opgeslagen en gebruikt, en hoe deze beschermd dienen te worden, onderling zijn geregeld in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=X&artikel=18&z=2020-02-01&g=2020-02-01) van dit Verdrag. Wanneer de wetgeving wordt gewijzigd, stellen de verdragsluitende partijen elkaar onverwijld in kennis en passen zij de praktische aanwijzingen navenant aan.
 
 ### HOOFDSTUK VIII. UITSLUITINGSGRONDEN
 
@@ -288,7 +288,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 - d. Sint Maarten.
 
-3. Niettegenstaande het tweede lid van dit artikel, is het [derde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=II&artikel=2&z=2019-04-09&g=2019-04-09) uitsluitend van toepassing op het grondgebied van het Koninkrijk der Nederlanden in Europa.
+3. Niettegenstaande het tweede lid van dit artikel, is het [derde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=II&artikel=2&z=2020-02-01&g=2020-02-01) uitsluitend van toepassing op het grondgebied van het Koninkrijk der Nederlanden in Europa.
 
 ### HOOFDSTUK XII. BESLECHTING VAN GESCHILLEN
 
@@ -306,7 +306,7 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de verd
 
 ##### Artikel 22. Herziening en wijziging
 
-Op verzoek herzien de verdragsluitende partijen dit Verdrag en brengen indien noodzakelijk relevante wijzigingen aan. Elke wijziging dient schriftelijk te worden gedaan en wordt onderling door de verdragsluitende partijen overeengekomen. De wijziging wordt van kracht in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=XIII&artikel=21&z=2019-04-09&g=2019-04-09) van het Verdrag en maakt integrerend onderdeel uit van dit Verdrag.
+Op verzoek herzien de verdragsluitende partijen dit Verdrag en brengen indien noodzakelijk relevante wijzigingen aan. Elke wijziging dient schriftelijk te worden gedaan en wordt onderling door de verdragsluitende partijen overeengekomen. De wijziging wordt van kracht in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006813&hoofdstuk=XIII&artikel=21&z=2020-02-01&g=2020-02-01) van het Verdrag en maakt integrerend onderdeel uit van dit Verdrag.
 
 ##### Artikel 23. Duur en beëindiging
 
