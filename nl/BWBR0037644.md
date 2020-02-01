@@ -4,7 +4,7 @@ identifier: "BWBR0037644"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2016-04-20"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037644"
 soort: "AMvB"
@@ -56,37 +56,43 @@ Hebben goedgevonden en verstaan:
 
 - c. **apparaten:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- d. **beveiligingssystemen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- d. **apparaten van groep I:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- e. **CE-markering:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- e. **apparaten van groep II:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- f. **componenten:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- f. **apparatencategorie:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- g. **conformiteitsbeoordeling:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- g. **beveiligingssystemen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- h. **distributeur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- h. **CE-markering:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- i. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
+- i. **componenten:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- j. **fabrikant:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- j. **conformiteitsbeoordeling:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- k. **geharmoniseerde norm:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- k. **distributeur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- l. **gemachtigde vertegenwoordiger:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- l. **EU-conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie, genoemd in artikel 2 van de richtlijn;
 
-- m. **importeur:** hetgeen artikel 2 van richtlijn daaronder verstaat;
+- m. **fabrikant:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- n. **in de handel brengen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- n. **geharmoniseerde norm:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- o. **marktdeelnemer:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- o. **gemachtigde vertegenwoordiger:** hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- p. **nationale accreditatie-instantie:** nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2) aanwijzing nationale accreditatie-instantie;
+- p. **importeur:** hetgeen artikel 2 van richtlijn daaronder verstaat;
 
-- q. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+- q. **in de handel brengen:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- r. **producten:** hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
+- r. **marktdeelnemer:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- s. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
+- s. **nationale accreditatie-instantie:** nationale accreditatie-instantie bedoeld in [artikel 2 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2) aanwijzing nationale accreditatie-instantie;
+
+- t. **op de markt aanbieden:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
+
+- u. **producten:** hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
+
+- v. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit is niet van toepassing op producten als bedoeld in artikel 1, tweede lid, van de richtlijn.
 
@@ -190,7 +196,7 @@ Hebben goedgevonden en verstaan:
 
 1. De beoordeling van de conformiteit van een apparaat, beveiligingssysteem, voorziening als bedoeld in artikel 1, eerste lid, onder b, van de richtlijn, of component, en de afgifte van verklaringen en de verlening van goedkeuring ter zake vinden plaats met inachtneming van artikel 13 van de richtlijn.
 
-2. Fabrikanten vragen de beoordeling van de conformiteit van een apparaat, beveiligingssysteem, voorziening, als bedoeld in artikel 1, eerste lid, onder a en b, van de richtlijn, of component, bedoeld in artikel 13, eerste, tweede, derde, vierde en vijfde lid, van de richtlijn, aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2016-04-20&g=2016-04-20).
+2. Fabrikanten vragen de beoordeling van de conformiteit van een apparaat, beveiligingssysteem, voorziening, als bedoeld in artikel 1, eerste lid, onder a en b, van de richtlijn, of component, bedoeld in artikel 13, eerste, tweede, derde, vierde en vijfde lid, van de richtlijn, aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01).
 
 3. De bescheiden en briefwisseling, bedoeld in artikel 13, zesde lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal of in een door de EU-conformiteitsbeoordelingsinstantie, bedoeld in het tweede lid, aanvaarde taal.
 
@@ -218,19 +224,15 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 ##### Artikel 12. Weigering, schorsing, wijziging of intrekking aanwijzing
 
-1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2016-04-20&g=2016-04-20).
+1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de EU-conformiteitsbeoordelingsinstantie worden gewijzigd of ingetrokken:
 
 - a. op grond van door de EU-conformiteitsbeoordelingsinstantie verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instantie bekend was of kon zijn;
 
-- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2016-04-20&g=2016-04-20); of
+- b. indien de EU-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01); of
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.
-
-3. Een aanwijzing kan worden geweigerd of ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
-
-4. Voordat toepassing wordt gegeven aan het derde lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9), worden gevraagd.
 
 ##### Artikel 13. Aanmeldende autoriteit
 
@@ -242,7 +244,7 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
-- a. nog voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2016-04-20&g=2016-04-20); en
+- a. nog voldoet aan het bepaalde bij of krachtens [artikel 11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01); en
 
 - b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
 
@@ -262,7 +264,7 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 1. Producten die voldoen aan het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
 
-2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=19&z=2016-04-20&g=2016-04-20), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=10&z=2016-04-20&g=2016-04-20).
+2. Een certificaat afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=19&z=2020-02-01&g=2020-02-01), van dit besluit wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=9&z=2020-02-01&g=2020-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=10&z=2020-02-01&g=2020-02-01).
 
 ##### Artikel 18. Intrekking [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497)
 
@@ -270,9 +272,9 @@ Het [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 19. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=1&z=2016-04-20&g=2016-04-20), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2016-04-20&g=2016-04-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=12&z=2016-04-20&g=2016-04-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=13&z=2016-04-20&g=2016-04-20) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=14&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=1&z=2020-02-01&g=2020-02-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=12&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=13&z=2020-02-01&g=2020-02-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=14&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=2&z=2016-04-20&g=2016-04-20) en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=15&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=2&z=2020-02-01&g=2020-02-01) en [15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037644&artikel=15&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 20. Citeertitel
 
