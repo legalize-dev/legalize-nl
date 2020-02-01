@@ -128,13 +128,3 @@ Wijzigt de Zorgverzekeringswet.
 Deze wet wordt aangehaald als: Verzamelwet Brexit.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
-
-1. Bij algemene maatregel van bestuur kan in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden bepaald dat het Verenigd Koninkrijk na de terugtrekking uit de Europese Unie voor de toepassing van die wetten gedurende een daarbij aangegeven periode nog als EU-lidstaat wordt aangemerkt, en kan in die wetten overgangsrecht worden opgenomen voor de situatie na de terugtrekking of na afloop van die periode ter voorkoming van onevenredig nadeel voor verzekerden in het Verenigd Koninkrijk en Nederland.
-
-2. Zo spoedig mogelijk na de totstandkoming van de algemene maatregel van bestuur, maar uiterlijk binnen acht weken, wordt een voorstel van wet tot goedkeuring van de algemene maatregel van bestuur aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt de algemene maatregel van bestuur onverwijld ingetrokken en wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden dat er toe strekt de bij de algemene maatregel van bestuur vastgestelde wijzigingen ongedaan te maken.
-
-### Hoofdstuk 6. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
