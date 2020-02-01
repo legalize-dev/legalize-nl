@@ -4,7 +4,7 @@ identifier: "BWBR0009191"
 country: "nl"
 rank: "wet"
 publication_date: "2020-02-01"
-last_updated: "2016-07-01"
+last_updated: "2020-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009191"
 soort: "wet"
@@ -48,11 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt onder formeel buitenlandse vennootschap verstaan een naar een ander dan Nederlands recht opgerichte, rechtspersoonlijkheid bezittende kapitaalvennootschap die haar werkzaamheid geheel of nagenoeg geheel in Nederland verricht en voorts geen werkelijke band heeft met de staat waarbinnen het recht geldt waarnaar zij is opgericht. In dit artikel worden de landen van het Koninkrijk der Nederlanden en de openbare lichamen Bonaire, Sint Eustatius en Saba als staat aangemerkt.
 
-2. De volgende artikelen van deze wet gelden met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2016-07-01&g=2016-07-01) niet voor vennootschappen waarop het recht van een der lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 toepasselijk is.
+2. De volgende artikelen van deze wet gelden met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2020-02-01&g=2020-02-01) niet voor vennootschappen waarop het recht van een der lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 toepasselijk is.
 
 ##### Artikel 2
 
-De bestuurders van een formeel buitenlandse vennootschap zijn verplicht ter inschrijving in het handelsregister opgave te doen dat de vennootschap aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2016-07-01&g=2016-07-01) voldoet en ten kantore van het handelsregister neer te leggen een in het Nederlands, Frans, Duits of Engels gesteld authentiek afschrift of een door een bestuurder gewaarmerkt afschrift van de akte van oprichting en van de statuten, indien deze in een afzonderlijke akte zijn opgenomen. Tevens zijn zij verplicht opgave ter inschrijving te doen van het register waarin en het nummer waaronder die vennootschap is ingeschreven en de datum van de eerste registratie. Voorts zijn zij verplicht opgave ter inschrijving te doen van de naam, persoonlijke gegevens, indien het een natuurlijk persoon betreft, en de woonplaats van de houder van alle aandelen in het kapitaal van de vennootschap of van een deelgenoot in een huwelijksgemeenschap of gemeenschap van een geregistreerd partnerschap waartoe alle aandelen in het kapitaal van de vennootschap behoren, de aandelen gehouden door de vennootschap of haar dochtermaatschappijen niet meegeteld. De bestuurders van een formeel buitenlandse vennootschap zijn verplicht iedere wijziging van hetgeen krachtens de wet in het Handelsregister is ingeschreven op te geven met vermelding van de dag waarop zij is ingegaan. Verrichtingen op grond van deze wet kunnen niet bij volmacht geschieden.
+De bestuurders van een formeel buitenlandse vennootschap zijn verplicht ter inschrijving in het handelsregister opgave te doen dat de vennootschap aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2020-02-01&g=2020-02-01) voldoet en ten kantore van het handelsregister neer te leggen een in het Nederlands, Frans, Duits of Engels gesteld authentiek afschrift of een door een bestuurder gewaarmerkt afschrift van de akte van oprichting en van de statuten, indien deze in een afzonderlijke akte zijn opgenomen. Tevens zijn zij verplicht opgave ter inschrijving te doen van het register waarin en het nummer waaronder die vennootschap is ingeschreven en de datum van de eerste registratie. Voorts zijn zij verplicht opgave ter inschrijving te doen van de naam, persoonlijke gegevens, indien het een natuurlijk persoon betreft, en de woonplaats van de houder van alle aandelen in het kapitaal van de vennootschap of van een deelgenoot in een huwelijksgemeenschap of gemeenschap van een geregistreerd partnerschap waartoe alle aandelen in het kapitaal van de vennootschap behoren, de aandelen gehouden door de vennootschap of haar dochtermaatschappijen niet meegeteld. De bestuurders van een formeel buitenlandse vennootschap zijn verplicht iedere wijziging van hetgeen krachtens de wet in het Handelsregister is ingeschreven op te geven met vermelding van de dag waarop zij is ingegaan. Verrichtingen op grond van deze wet kunnen niet bij volmacht geschieden.
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ De bestuurders van een formeel buitenlandse vennootschap zijn verplicht ter insc
 
 1. Ten aanzien van een formeel buitenlandse vennootschap zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=9), [216, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=216), en [248 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) van overeenkomstige toepassing ingeval van uitkeringen aan aandeelhouders, inkoop van aandelen en vermindering van het geplaatste kapitaal met terugbetaling op aandelen.
 
-2. De bestuurders zijn naast de vennootschap hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de vennootschap wordt verbonden in het tijdvak voordat is voldaan aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2016-07-01&g=2016-07-01).
+2. De bestuurders zijn naast de vennootschap hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de vennootschap wordt verbonden in het tijdvak voordat is voldaan aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2020-02-01&g=2020-02-01).
 
 ##### Artikel 5
 
@@ -82,7 +82,7 @@ Ten aanzien van een formeel buitenlandse vennootschap zijn de [artikelen 249](ht
 
 ##### Artikel 7
 
-Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2016-07-01&g=2016-07-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2016-07-01&g=2016-07-01) worden met de bestuurders van de vennootschap gelijk gesteld degenen die met de dagelijkse leiding van de aan de vennootschap toebehorende onderneming zijn belast.
+Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2020-02-01&g=2020-02-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2020-02-01&g=2020-02-01) worden met de bestuurders van de vennootschap gelijk gesteld degenen die met de dagelijkse leiding van de aan de vennootschap toebehorende onderneming zijn belast.
 
 ##### Artikel 8
 
@@ -98,13 +98,13 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 11
 
-Ten aanzien van vennootschappen die op het tijdstip van inwerkingtreding van deze wet voldoen aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2016-07-01&g=2016-07-01) geldt:
+Ten aanzien van vennootschappen die op het tijdstip van inwerkingtreding van deze wet voldoen aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2020-02-01&g=2020-02-01) geldt:
 
-- a. de opgave ter inschrijving in het handelsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2016-07-01&g=2016-07-01), vindt plaats binnen drie maanden na het tijdstip van inwerkingtreding van deze wet;
+- a. de opgave ter inschrijving in het handelsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2020-02-01&g=2020-02-01), vindt plaats binnen drie maanden na het tijdstip van inwerkingtreding van deze wet;
 
-- b. de verplichting tot het opmaken van een jaarrekening en een bestuursverslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=5&z=2016-07-01&g=2016-07-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2016-07-01&g=2016-07-01) zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van inwerkingtreding van deze wet;
+- b. de verplichting tot het opmaken van een jaarrekening en een bestuursverslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=5&z=2020-02-01&g=2020-02-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2020-02-01&g=2020-02-01) zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van inwerkingtreding van deze wet;
 
-- c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2016-07-01&g=2016-07-01) wordt eerst drie maanden na het tijdstip van inwerkingtreding van deze wet toepasselijk.
+- c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2020-02-01&g=2020-02-01) wordt eerst drie maanden na het tijdstip van inwerkingtreding van deze wet toepasselijk.
 
 ##### Artikel 12
 
@@ -117,5 +117,17 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14
 
 Deze wet wordt aangehaald als: Wet op de formeel buitenlandse vennootschappen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 11a
+
+Ten aanzien van vennootschappen afkomstig uit het Verenigd Koninkrijk die op het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie voldoen aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2020-02-01&g=2020-02-01) geldt:
+
+- a. de opgave ter inschrijving in het handelsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2020-02-01&g=2020-02-01), vindt plaats binnen drie maanden na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie;
+
+- b. de verplichting tot het opmaken van een jaarrekening en een bestuursverslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=5&z=2020-02-01&g=2020-02-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2020-02-01&g=2020-02-01) zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie;
+
+- c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2020-02-01&g=2020-02-01) wordt eerst drie maanden na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie toepasselijk.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
