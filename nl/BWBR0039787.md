@@ -4,7 +4,7 @@ identifier: "BWBR0039787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2020-01-02"
+last_updated: "2020-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039787"
 soort: "ministeriele-regeling"
@@ -91,9 +91,9 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 5. Indeling in reisklassen
 
-- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2020-01-01&g=2020-01-02), Klasse-indeling bij dienstreizen Defensie.
+- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2020-02-04&g=2020-02-04), Klasse-indeling bij dienstreizen Defensie.
 
-- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2020-01-01&g=2020-01-02) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
+- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2020-02-04&g=2020-02-04) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
 
 - 3. De commandant kan, in voorkomend geval, het reizen met het vliegtuig in een hogere klasse toestaan, indien in de voor de dienstreiziger geldende klasse door plaatsgebrek geen passage kan worden besproken en de reis niet kan worden uitgesteld.
 
@@ -121,7 +121,7 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 7. Vergoeding gebruik eigen motorrijtuig
 
-De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2020-01-01&g=2020-01-02), tabel 1.
+De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2020-02-04&g=2020-02-04), tabel 1.
 
 ##### Artikel 8. Kilometeromslagpunt en inbegrepen kosten
 
@@ -149,7 +149,7 @@ Vervallen
 
 ##### Artikel 11. Vergoeding van fietsgebruik
 
-- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2020-01-01&g=2020-01-02), tabel 2.
+- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2020-02-04&g=2020-02-04), tabel 2.
 
 - 2. De noodzakelijke kosten voor stalling van een voor de dienstreis gebruikte fiets en de noodzakelijk gemaakte andere kosten van het gebruik voor de dienstreis van een fiets worden vergoed.
 
@@ -191,15 +191,15 @@ Vervallen
 
 - d. de omgekeerde lunchcomponent, indien mede is voldaan aan de voorwaarden dat de tijd tussen 00.00 uur en 03.00 uur geheel in de dienstreis valt en gedurende die tijd geen logies wordt genoten.
 
-- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-01-01&g=2020-01-02), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
+- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-02-04&g=2020-02-04), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
 
 - 5. Indien de dienstreiziger bij een dienstreis kosten heeft gemaakt voor een maaltijd van overheidswege, bestaat geen aanspraak op enige maaltijdcomponent. De commandant bepaalt op welke plaatsen sprake is van maaltijden of logies van overheidswege.
 
 - 6. Indien de dienstreiziger kosten heeft gemaakt voor logies worden:
 
-- a. voor de binnenlandse dienstreis de kosten gemaakt in de horeca vergoed door toekenning van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-01-01&g=2020-01-02), kolom Logiescomponent.
+- a. voor de binnenlandse dienstreis de kosten gemaakt in de horeca vergoed door toekenning van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-02-04&g=2020-02-04), kolom Logiescomponent.
 
-- b. voor de buitenlandse dienstreis de werkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-01-01&g=2020-01-02), kolom Maximumvergoeding logieskosten.
+- b. voor de buitenlandse dienstreis de werkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-02-04&g=2020-02-04), kolom Maximumvergoeding logieskosten.
 
 - 7. Indien bij een buitenlandse dienstreis een bewijsstuk van de kosten voor logies en ontbijt wordt overgelegd waaruit niet blijkt welk deel van de kosten voor logies en welk deel van de kosten voor ontbijt zijn gemaakt, worden de op het bewijsstuk vermelde kosten vergoed tot ten hoogste het bedrag van de som van de ontbijt- en logiescomponent.
 
@@ -231,9 +231,9 @@ Vervallen
 
 - e. een reisverzekering met dezelfde of nagenoeg dezelfde dekking als die welke geldt indien de reis vanuit Nederland door de commandant bij de hem daarvoor aangewezen reisorganisatie zou zijn geboekt, doch alleen indien de kosten daarvan niet in de prijs van het reisbiljet zijn begrepen en voor die gevallen waarin bedoelde boeking wegens bijzondere omstandigheden niet kon plaatsvinden.
 
-- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2020-01-01&g=2020-01-02) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,94.
+- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2020-02-04&g=2020-02-04) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,94.
 
-- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2020-01-01&g=2020-01-02), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
+- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2020-02-04&g=2020-02-04), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
 
 - 4. De tegemoetkoming, bedoeld in het tweede lid, wordt niet verstrekt indien:
 
@@ -287,7 +287,7 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. Voor de toepassing van het eerste lid, wordt in de daar genoemde algemeen verbindende voorschriften verstaan onder:
 
-- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-02), van de Regeling dienstreizen Defensie;
+- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2020-02-04&g=2020-02-04), van de Regeling dienstreizen Defensie;
 
 - b. **‘datum van verplaatsing, de detachering of van de indiensttreding’:** de datum van de detachering, bedoeld in [artikel 14, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14).
 
@@ -319,13 +319,13 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. De bijdrage, bedoeld in het eerste lid, onderdeel b, en het tweede lid wordt voor een periode korter dan een maand naar tijdsgelang berekend, waarbij een maand wordt gesteld op dertig dagen.
 
-- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2020-01-01&g=2020-01-02), is bij een detachering in Nederland van overeenkomstige toepassing.
+- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2020-02-04&g=2020-02-04), is bij een detachering in Nederland van overeenkomstige toepassing.
 
-- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2020-01-01&g=2020-01-02), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-02), worden gehalveerd.
+- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2020-02-04&g=2020-02-04), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2020-02-04&g=2020-02-04), worden gehalveerd.
 
 ##### Artikel 16a. Detachering Koninklijke Marechaussee
 
-Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-02) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-02), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
+Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2020-02-04&g=2020-02-04) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2020-02-04&g=2020-02-04), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
 
 #### Paragraaf 5. Diverse bepalingen; slotbepalingen
 
@@ -349,11 +349,11 @@ De commandant kan voor de in deze regeling bedoelde vergoedingen een voorschot v
 
 - d. van logies in een gebied buiten Nederland; en
 
-- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2020-01-01&g=2020-01-02).
+- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2020-02-04&g=2020-02-04).
 
 ##### Artikel 19. Rekenregels
 
-Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-01-01&g=2020-01-02) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
+Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2020-02-04&g=2020-02-04) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
 
 ##### Artikel 20. Afbouwregeling militairen en burgerambtenaren
 
@@ -400,552 +400,552 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 
 ## Bijlage C. bij de Regeling dienstreizen defensie
 
-| Reisgebiedsdelen | Reisgebiedsdelen |   |   |   | bedragen ontbijt | bedragen lunch | bedragen diner | bedragen component | bedragen component |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   | Ingangsdatum tarief | Val code | bedrag logies | horeca | horeca | horeca | klein | groot |
-| **17** | **NEDERLAND** |   |   |   |   |   |   |   |   |
-| 1 | VAN BUITENLAND NAAR NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
-| 2 | BINNEN NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
-| **194** | **AFGHANISTAN** |   |   |   |   |   |   |   |   |
-| 1 | KABUL | 1-7-2019 | AFN | 8.540,00 | 404,05 | 673,45 | 1.077,00 | 50,50 |   |
-| 4 | ELDERS | 1-7-2019 | AFN | 5.054,00 | 239,15 | 398,55 | 637,65 | 29,90 |   |
-| **134** | **ALBANIE** |   |   |   |   |   |   |   |   |
-| 1 | TIRANA | 1-7-2019 | ALL | 10.044,00 | 679,60 | 1.132,70 | 1.812,00 | 84,95 |   |
-| 2 | ELDERS | 1-7-2019 | ALL | 4.531,00 | 426,10 | 710,15 | 1.136,00 | 53,25 |   |
-| **155** | **ALGERIJE** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 55,00 | 5,85 | 9,75 | 15,60 | 0,75 |   |
-| **91** | **ANGOLA** |   |   |   |   |   |   |   |   |
-| 1 | LUANDA | 1-7-2019 | AOA | 44.835,00 | 3.164,60 | 5.274,35 | 8.439,00 | 395,60 |   |
-| 3 | ELDERS | 1-7-2019 | AOA | 21.450,00 | 1.937,50 | 3.229,20 | 5.166,00 | 242,20 |   |
-| **217** | **ANGUILLA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 278,00 | 18,80 | 31,30 | 50,10 | 2,35 |   |
-| **145** | **ANTIGUA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 145,00 | 18,10 | 30,15 | 48,20 | 2,25 |   |
-| **119** | **ARGENTINIE** |   |   |   |   |   |   |   |   |
-| 1 | BUENOS AIRES | 1-7-2019 | USD | 179,00 | 5,55 | 9,25 | 14,85 | 0,70 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 67,00 | 3,45 | 5,75 | 9,25 | 0,45 |   |
-| **125** | **ARMENIE** |   |   |   |   |   |   |   |   |
-| 1 | YEREVAN | 1-7-2019 | USD | 104,00 | 6,45 | 10,75 | 17,15 | 0,80 |   |
-| **92** | **ARUBA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | AWG | 302,00 | 28,45 | 47,40 | 75,85 | 3,55 |   |
-| 1 | ALLE GEBIEDEN | 16-12-2019 | AWG | 433,00 | 30,55 | 50,95 | 81,50 | 3,80 |   |
-| **66** | **AUSTRALIE** |   |   |   |   |   |   |   |   |
-| 1 | SYDNEY,CANBERRA EN MELBOURNE | 1-7-2019 | AUD | 254,00 | 22,00 | 36,65 | 58,70 | 2,75 |   |
-| **154** | **AZERBAIDZJAN** |   |   |   |   |   |   |   |   |
-| 2 | BAKU | 1-7-2019 | USD | 77,00 | 5,70 | 9,50 | 15,20 | 0,70 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 56,00 | 4,45 | 7,40 | 11,85 | 0,55 |   |
-| **156** | **BAHAMA S** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 256,00 | 19,65 | 32,75 | 52,40 | 2,45 |   |
-| 1 | ALLE GEBIEDEN | 20-12-2019 | USD | 268,00 | 19,75 | 32,90 | 52,65 | 2,45 |   |
-| **90** | **BAHRAIN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | BHD | 64,00 | 4,70 | 7,80 | 12,50 | 0,60 |   |
-| **73** | **BARBADOS** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | BBD | 442,00 | 45,05 | 75,05 | 120,10 | 5,65 |   |
-| 1 | ALLE GEBIEDEN | 16-12-2019 | BBD | 589,00 | 39,85 | 66,40 | 106,30 | 5,00 |   |
-| **13** | **BELGIE** |   |   |   |   |   |   |   |   |
-| 1 | BRUSSEL | 1-7-2019 | EUR | 193,00 | 14,20 | 23,65 | 37,80 | 1,75 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 181,00 | 13,30 | 22,15 | 35,45 | 1,65 |   |
-| **170** | **BELIZE** |   |   |   |   |   |   |   |   |
-| 1 | BELIZE CITY | 1-7-2019 | USD | 172,00 | 9,75 | 16,25 | 26,00 | 1,20 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 122,00 | 10,15 | 16,95 | 27,10 | 1,25 |   |
-| **186** | **BENIN** |   |   |   |   |   |   |   |   |
-| 5 | ELDERS | 1-7-2019 | USD | 45,00 | 5,55 | 9,25 | 14,80 | 0,70 |   |
-| **75** | **BERMUDA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | BMD | 367,00 | 15,75 | 26,30 | 42,05 | 1,95 |   |
-| 1 | ALLE GEBIEDEN | 1-12-2019 | BMD | 330,00 | 14,20 | 23,65 | 37,85 | 1,75 |   |
-| **208** | **BES-EILANDEN** |   |   |   |   |   |   |   |   |
-| 1 | BONAIRE | 1-7-2019 | USD | 202,00 | 12,00 | 20,05 | 32,05 | 1,50 |   |
-| 2 | ST. EUSTATIUS | 1-7-2019 | USD | 181,00 | 13,85 | 23,10 | 36,95 | 1,75 |   |
-| 3 | SABA | 1-7-2019 | USD | 181,00 | 13,85 | 23,10 | 36,95 | 1,75 |   |
-| **221** | **BHUTAN** |   |   |   |   |   |   |   |   |
-| 1 | THIMPHU | 1-7-2019 | USD | 71,00 | 4,60 | 7,70 | 12,30 | 0,60 |   |
-| 3 | PARO (NAK-SEL BOUTIQUE) | 1-7-2019 | USD | 164,00 | 6,00 | 10,05 | 16,05 | 0,75 |   |
-| 4 | PARO (ZHIWALING RESORT) | 1-7-2019 | USD | 204,00 | 11,60 | 19,35 | 30,95 | 1,45 |   |
-| 5 | ELDERS | 1-7-2019 | USD | 57,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
-| **191** | **BOLIVIA** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 43,00 | 4,90 | 8,15 | 13,05 | 0,60 |   |
-| **112** | **BOSNIE/HERZEGOVINA** |   |   |   |   |   |   |   |   |
-| 3 | SARAJEVO | 1-7-2019 | BAM | 140,00 | 14,80 | 24,70 | 39,55 | 1,85 |   |
-| 4 | ELDERS | 1-7-2019 | BAM | 96,00 | 9,00 | 15,00 | 23,95 | 1,10 |   |
-| 6 | BANJA LUKA (BOSNIE) | 1-7-2019 | BAM | 106,00 | 12,20 | 20,35 | 32,60 | 1,55 |   |
-| 7 | MOSTAR | 1-7-2019 | BAM | 91,00 | 14,55 | 24,20 | 38,75 | 1,80 |   |
-| **138** | **BOTSWANA** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | BWP | 963,00 | 83,55 | 139,25 | 222,80 | 10,45 |   |
-| **88** | **BRAZILIE** |   |   |   |   |   |   |   |   |
-| 1 | SAO PAULO | 1-7-2019 | BRL | 359,00 | 23,30 | 38,80 | 62,10 | 2,90 |   |
-| 4 | ELDERS | 1-7-2019 | BRL | 227,00 | 18,90 | 31,50 | 50,40 | 2,35 |   |
-| **126** | **BRUNEI** |   |   |   |   |   |   |   |   |
-| 2 | ALLE GEBIEDEN | 1-7-2019 | USD | 114,00 | 6,45 | 10,75 | 17,20 | 0,80 |   |
-| **53** | **BULGARIJE** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | BGN | 73,00 | 7,10 | 11,85 | 18,95 | 0,90 |   |
-| 4 | SOFIA | 1-7-2019 | BGN | 217,00 | 14,05 | 23,40 | 37,45 | 1,75 |   |
-| 5 | VARNA, PLOVDIV | 1-7-2019 | BGN | 92,00 | 8,30 | 13,85 | 22,10 | 1,05 |   |
-| 7 | BURGAS PLEVEN RUSSE VELIKO | 1-7-2019 | BGN | 92,00 | 8,30 | 13,85 | 22,10 | 1,05 |   |
-| **148** | **BURKINA FASO** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 64,00 | 6,00 | 10,00 | 16,00 | 0,75 |   |
-| **203** | **BURUNDI** |   |   |   |   |   |   |   |   |
-| 1 | BUJUMBURA | 1-7-2019 | USD | 131,00 | 10,90 | 18,20 | 29,10 | 1,35 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 23,00 | 4,80 | 8,00 | 12,80 | 0,60 |   |
-| **50** | **CAMBODJA** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 32,00 | 2,95 | 4,90 | 7,80 | 0,35 |   |
-| **21** | **CANADA** |   |   |   |   |   |   |   |   |
-| 1 | VANCOUVER | 1-7-2019 | CAD | 299,00 | 20,25 | 33,75 | 54,05 | 2,55 |   |
-| 2 | TORONTO | 1-7-2019 | CAD | 288,00 | 19,50 | 32,50 | 52,00 | 2,45 |   |
-| 3 | OTTAWA | 1-7-2019 | CAD | 268,00 | 20,60 | 34,35 | 54,90 | 2,55 |   |
-| 6 | CALGARY | 1-7-2019 | CAD | 193,00 | 17,40 | 29,00 | 46,35 | 2,15 |   |
-| 7 | MONTREAL | 1-7-2019 | CAD | 247,00 | 18,90 | 31,55 | 50,45 | 2,35 |   |
-| 8 | ELDERS | 1-7-2019 | CAD | 170,00 | 16,65 | 27,75 | 44,40 | 2,10 |   |
-| **219** | **CENTRAAL AFRIKA** |   |   |   |   |   |   |   |   |
-| 1 | BANGUI | 1-7-2019 | USD | 108,00 | 10,95 | 18,30 | 29,25 | 1,35 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 34,00 | 3,20 | 5,35 | 8,55 | 0,40 |   |
-| **135** | **CHAD** |   |   |   |   |   |   |   |   |
-| 2 | NDJAMENA | 1-7-2019 | USD | 96,00 | 7,35 | 12,20 | 19,55 | 0,90 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 59,00 | 6,80 | 11,35 | 18,15 | 0,85 |   |
-| **162** | **CHILI** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 146,00 | 9,50 | 15,80 | 25,25 | 1,20 |   |
-| 3 | SANTIAGO | 1-7-2019 | USD | 137,00 | 12,90 | 21,50 | 34,40 | 1,60 |   |
-| 4 | VALPARAISO | 1-7-2019 | USD | 150,00 | 11,05 | 18,40 | 29,45 | 1,40 |   |
-| **48** | **CHINA** |   |   |   |   |   |   |   |   |
-| 1 | BEIJING | 1-7-2019 | CNY | 991,00 | 76,05 | 126,75 | 202,80 | 9,50 |   |
-| 3 | ELDERS | 1-7-2019 | CNY | 636,00 | 46,80 | 78,00 | 124,85 | 5,85 |   |
-| 4 | SHANGHAI | 1-7-2019 | CNY | 1.183,00 | 70,30 | 117,20 | 187,55 | 8,80 |   |
-| **122** | **COLOMBIA** |   |   |   |   |   |   |   |   |
-| 1 | CARTAGENA | 1-7-2019 | USD | 113,00 | 4,15 | 6,95 | 11,10 | 0,50 |   |
-| 2 | BOGOTA | 1-7-2019 | USD | 110,00 | 4,05 | 6,75 | 10,80 | 0,50 |   |
-| 18 | ELDERS | 1-7-2019 | USD | 64,00 | 2,60 | 4,30 | 6,90 | 0,30 |   |
-| **212** | **COMOREN** |   |   |   |   |   |   |   |   |
-| 1 | MORONI | 1-7-2019 | USD | 119,00 | 10,75 | 17,90 | 28,60 | 1,35 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 70,00 | 6,60 | 11,00 | 17,60 | 0,85 |   |
-| **150** | **CONGO DEM. REP** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 82,00 | 6,55 | 10,90 | 17,45 | 0,80 |   |
-| 5 | KINSHASA | 1-7-2019 | USD | 178,00 | 11,55 | 19,25 | 30,85 | 1,45 |   |
-| **184** | **COSTA RICA** |   |   |   |   |   |   |   |   |
-| 1 | SAN JOSE | 1-7-2019 | USD | 127,00 | 11,00 | 18,30 | 29,30 | 1,35 |   |
-| 5 | ELDERS | 1-7-2019 | USD | 97,00 | 8,40 | 14,00 | 22,40 | 1,05 |   |
-| **127** | **CUBA** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 78,00 | 4,85 | 8,10 | 12,95 | 0,60 |   |
-| **209** | **CURACAO** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | ANG | 286,00 | 25,85 | 43,05 | 68,90 | 3,25 |   |
-| **33** | **CYPRUS** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | EUR | 80,00 | 7,20 | 12,00 | 19,20 | 0,90 |   |
-| **22** | **DENEMARKEN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | DKK | 1.215,00 | 114,25 | 190,45 | 304,70 | 14,30 |   |
-| **87** | **DJIBOUTI** |   |   |   |   |   |   |   |   |
-| 1 | DJIBOUTI (HOTEL SHERATON) | 1-7-2019 | DJF | 54.672,00 | 2.840,00 | 4.734,00 | 7.574,00 | 355,00 |   |
-| 2 | DJIBOUTI | 1-7-2019 | DJF | 21.505,00 | 1.942,00 | 3.237,00 | 5.180,00 | 243,00 |   |
-| 4 | ELDERS | 1-7-2019 | DJF | 12.648,00 | 856,00 | 1.426,00 | 2.282,00 | 107,00 |   |
-| **206** | **DOMINICA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 176,00 | 15,30 | 25,50 | 40,80 | 1,90 |   |
-| **85** | **DOMINICAANSE REP.** |   |   |   |   |   |   |   |   |
-| 2 | SANTO DOMINGO | 1-7-2019 | DOP | 7.680,00 | 565,25 | 942,10 | 1.507,00 | 70,65 |   |
-| 5 | ELDERS | 1-7-2019 | DOP | 2.042,00 | 126,80 | 211,30 | 338,10 | 15,85 |   |
-| **12** | **DUITSLAND** |   |   |   |   |   |   |   |   |
-| 1 | FRANKFURT A/M | 1-7-2019 | EUR | 174,00 | 14,55 | 24,20 | 38,75 | 1,80 |   |
-| 3 | BERLIJN | 1-7-2019 | EUR | 146,00 | 12,65 | 21,05 | 33,70 | 1,60 |   |
-| 4 | BONN | 1-7-2019 | EUR | 118,00 | 12,95 | 21,60 | 34,60 | 1,60 |   |
-| 6 | ELDERS | 1-7-2019 | EUR | 117,00 | 11,90 | 19,85 | 31,80 | 1,50 |   |
-| 8 | HAMBURG | 1-7-2019 | EUR | 174,00 | 14,55 | 24,20 | 38,75 | 1,80 |   |
-| 9 | MUNCHEN | 1-7-2019 | EUR | 169,00 | 11,00 | 18,30 | 29,30 | 1,35 |   |
-| **152** | **ECUADOR** |   |   |   |   |   |   |   |   |
-| 1 | GUAYAQUIL | 1-7-2019 | USD | 142,00 | 11,30 | 18,85 | 30,15 | 1,40 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 72,00 | 7,35 | 12,30 | 19,65 | 0,90 |   |
-| **35** | **EGYPTE** |   |   |   |   |   |   |   |   |
-| 7 | ELDERS | 1-7-2019 | EGP | 1.362,00 | 156,55 | 260,90 | 417,40 | 19,55 |   |
-| 9 | CAIRO | 1-7-2019 | EGP | 2.767,00 | 221,20 | 368,65 | 589,80 | 27,65 |   |
-| **188** | **EL SALVADOR** |   |   |   |   |   |   |   |   |
-| 1 | SAN SALVADOR | 1-7-2019 | USD | 129,00 | 9,90 | 16,50 | 26,45 | 1,25 |   |
-| 5 | ELDERS | 1-7-2019 | USD | 69,00 | 7,00 | 11,65 | 18,65 | 0,85 |   |
-| **47** | **ESTLAND** |   |   |   |   |   |   |   |   |
-| 5 | ALLE GEBIEDEN | 1-7-2019 | EUR | 106,00 | 14,85 | 24,75 | 39,55 | 1,85 |   |
-| **81** | **ETHIOPIE** |   |   |   |   |   |   |   |   |
-| 1 | ADDIS ABEBA (HILTON) | 1-7-2019 | ETB | 7.040,00 | 437,20 | 728,65 | 1.165,00 | 54,65 |   |
-| 3 | ELDERS | 1-7-2019 | ETB | 1.422,00 | 104,65 | 174,45 | 279,10 | 13,10 |   |
-| 4 | ADDIS ABEBA | 1-7-2019 | ETB | 3.170,00 | 274,95 | 458,25 | 733,15 | 34,35 |   |
-| **147** | **FILIPPIJNEN** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 72,00 | 3,75 | 6,25 | 10,00 | 0,45 |   |
-| **38** | **FINLAND** |   |   |   |   |   |   |   |   |
-| 1 | HELSINKI | 1-7-2019 | EUR | 177,00 | 12,00 | 20,00 | 32,00 | 1,50 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 128,00 | 11,10 | 18,55 | 29,65 | 1,40 |   |
-| **14** | **FRANKRIJK** |   |   |   |   |   |   |   |   |
-| 1 | PARIJS | 1-7-2019 | EUR | 170,00 | 17,35 | 28,90 | 46,20 | 2,15 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 148,00 | 14,50 | 24,15 | 38,60 | 1,80 |   |
-| **136** | **FRANS GUYANA** |   |   |   |   |   |   |   |   |
-| 1 | CAYENNE | 1-7-2019 | EUR | 70,00 | 8,00 | 13,35 | 21,30 | 1,00 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 43,00 | 5,55 | 9,25 | 14,80 | 0,70 |   |
-| **128** | **GABON** |   |   |   |   |   |   |   |   |
-| 1 | LIBREVILLE | 1-7-2019 | USD | 176,00 | 17,25 | 28,70 | 45,95 | 2,15 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 54,00 | 6,65 | 11,10 | 17,80 | 0,85 |   |
-| **141** | **GAMBIA** |   |   |   |   |   |   |   |   |
-| 1 | BANJUL | 1-7-2019 | USD | 143,00 | 7,10 | 11,80 | 18,90 | 0,90 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 23,00 | 2,50 | 4,15 | 6,65 | 0,30 |   |
-| **108** | **GEORGIE** |   |   |   |   |   |   |   |   |
-| 1 | TBILISI | 1-7-2019 | GEL | 326,00 | 20,25 | 33,80 | 54,05 | 2,55 |   |
-| 2 | ELDERS | 1-7-2019 | GEL | 276,00 | 15,70 | 26,15 | 41,85 | 1,95 |   |
-| **137** | **GHANA** |   |   |   |   |   |   |   |   |
-| 1 | ACCRA | 1-7-2019 | USD | 153,00 | 9,10 | 15,15 | 24,20 | 1,15 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 128,00 | 8,70 | 14,45 | 23,15 | 1,10 |   |
-| **36** | **GIBRALTAR** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 257,00 | 11,05 | 18,40 | 29,45 | 1,40 |   |
-| **23** | **GRIEKENLAND** |   |   |   |   |   |   |   |   |
-| 1 | ATHENE | 1-7-2019 | EUR | 144,00 | 12,00 | 20,00 | 32,05 | 1,50 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 72,00 | 6,75 | 11,25 | 18,00 | 0,85 |   |
-| **178** | **GROENLAND** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 219,00 | 10,85 | 18,10 | 28,95 | 1,35 |   |
-| **176** | **GUADELOUPE** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 69,00 | 8,55 | 14,25 | 22,80 | 1,05 |   |
-| **207** | **GUATEMALA** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 54,00 | 4,70 | 7,85 | 12,55 | 0,60 |   |
-| **201** | **GUINEA** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 69,00 | 5,75 | 9,55 | 15,30 | 0,70 |   |
-| **144** | **GUYANA** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 44,00 | 7,05 | 11,70 | 18,75 | 0,90 |   |
-| **100** | **HAITI** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 87,00 | 6,40 | 10,65 | 17,10 | 0,80 |   |
-| 5 | PORT AU PRINCE | 1-7-2019 | USD | 149,00 | 11,40 | 19,00 | 30,40 | 1,45 |   |
-| **172** | **HONDURAS** |   |   |   |   |   |   |   |   |
-| 1 | TEGUCIGALPA | 1-7-2019 | USD | 130,00 | 8,40 | 14,00 | 22,45 | 1,05 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 63,00 | 4,30 | 7,15 | 11,40 | 0,55 |   |
-| **72** | **HONG KONG** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | HKD | 1.642,00 | 89,25 | 148,75 | 238,00 | 11,15 |   |
-| **93** | **HONGARIJE** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | HUF | 28.566,00 | 1.416,85 | 2.361,45 | 3.778,00 | 177,10 |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | HUF | 28.566,00 | 1.416,85 | 2.361,45 | 3.778,00 | 177,10 |   |
-| 2 | BUDAPEST | 1-7-2019 | HUF | 49.724,00 | 3.364,55 | 5.607,60 | 8.972,00 | 420,55 |   |
-| 3 | BALATON | 1-7-2019 | HUF | 40.936,00 | 2.126,75 | 3.544,60 | 5.671,00 | 265,85 |   |
-| **2** | **IERLAND** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 158,00 | 11,60 | 19,35 | 30,95 | 1,45 |   |
-| **24** | **IJSLAND** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | ISK | 28.098,00 | 1.821,80 | 3.036,35 | 4.858,00 | 227,75 |   |
-| 1 | ALLE GEBIEDEN | 1-10-2019 | ISK | 19.544,00 | 1.695,30 | 2.825,50 | 4.520,00 | 211,90 |   |
-| **52** | **INDIA** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | INR | 7.316,00 | 495,05 | 825,05 | 1.320,00 | 61,90 |   |
-| 5 | NEW DELHI | 1-7-2019 | INR | 7.847,00 | 602,00 | 1.003,35 | 1.605,00 | 75,25 |   |
-| 5 | NEW DELHI | 1-9-2019 | INR | 9.300,00 | 629,30 | 1.048,80 | 1.678,00 | 78,65 |   |
-| **37** | **INDONESIE** |   |   |   |   |   |   |   |   |
-| 1 | JAKARTA | 1-7-2019 | USD | 112,00 | 10,50 | 17,50 | 28,05 | 1,30 |   |
-| 3 | JAKARTA (SPECIAL HOTELS) | 1-7-2019 | USD | 222,00 | 12,65 | 21,10 | 33,75 | 1,60 |   |
-| 23 | ELDERS | 1-7-2019 | USD | 55,00 | 5,20 | 8,65 | 13,80 | 0,65 |   |
-| **129** | **IRAK** |   |   |   |   |   |   |   |   |
-| 1 | BAGDAD | 1-7-2019 | USD | 106,00 | 12,15 | 20,25 | 32,45 | 1,50 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 67,00 | 8,00 | 13,30 | 21,30 | 1,00 |   |
-| **54** | **IRAN** |   |   |   |   |   |   |   |   |
-| 1 | TEHERAN | 1-7-2019 | USD | 85,00 | 4,05 | 6,75 | 10,80 | 0,50 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 46,00 | 2,50 | 4,15 | 6,60 | 0,30 |   |
-| **9** | **ISRAEL** |   |   |   |   |   |   |   |   |
-| 1 | TEL AVIV | 1-7-2019 | ILS | 883,00 | 54,85 | 91,40 | 146,25 | 6,85 |   |
-| 3 | JERUZALEM | 1-7-2019 | ILS | 612,00 | 45,05 | 75,05 | 120,10 | 5,65 |   |
-| 4 | HAIFA | 1-7-2019 | ILS | 707,00 | 47,85 | 79,70 | 127,55 | 6,00 |   |
-| **15** | **ITALIE** |   |   |   |   |   |   |   |   |
-| 1 | MILAAN EN PORTE ERCOLE | 1-7-2019 | EUR | 138,00 | 14,65 | 24,45 | 39,10 | 1,85 |   |
-| 2 | ROME | 1-7-2019 | EUR | 142,00 | 15,60 | 26,05 | 41,65 | 1,95 |   |
-| 3 | FLORENCE | 1-7-2019 | EUR | 136,00 | 10,90 | 18,15 | 29,05 | 1,35 |   |
-| 4 | VENETIE | 1-7-2019 | EUR | 158,00 | 18,20 | 30,30 | 48,50 | 2,25 |   |
-| 7 | ELDERS | 1-7-2019 | EUR | 62,00 | 9,10 | 15,20 | 24,35 | 1,15 |   |
-| 8 | NAPELS | 1-7-2019 | EUR | 162,00 | 13,50 | 22,45 | 35,95 | 1,70 |   |
-| 9 | BRESCIA | 1-7-2019 | EUR | 138,00 | 14,65 | 24,45 | 39,10 | 1,85 |   |
-| **142** | **IVOORKUST** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 46,00 | 7,05 | 11,75 | 18,80 | 0,90 |   |
-| **151** | **JAMAICA** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 216,00 | 10,20 | 17,00 | 27,20 | 1,30 |   |
-| 3 | ELDERS | 15-12-2019 | USD | 228,00 | 10,75 | 17,95 | 28,70 | 1,35 |   |
-| 4 | KINGSTON | 1-7-2019 | USD | 200,00 | 12,40 | 20,65 | 33,05 | 1,55 |   |
-| **10** | **JAPAN** |   |   |   |   |   |   |   |   |
-| 1 | TOKYO | 1-7-2019 | JPY | 21.286,00 | 1.702,00 | 2.836,00 | 4.538,00 | 213,00 |   |
-| 16 | ELDERS | 1-7-2019 | JPY | 12.870,00 | 1.163,00 | 1.938,00 | 3.100,00 | 145,00 |   |
-| **180** | **JEMEN** |   |   |   |   |   |   |   |   |
-| 8 | ELDERS | 1-7-2019 | USD | 51,00 | 5,40 | 9,00 | 14,45 | 0,70 |   |
-| **30** | **JORDANIE** |   |   |   |   |   |   |   |   |
-| 3 | AMMAN | 1-7-2019 | JOD | 102,00 | 8,50 | 14,15 | 22,65 | 1,05 |   |
-| 4 | ELDERS | 1-7-2019 | JOD | 25,00 | 3,65 | 6,10 | 9,75 | 0,45 |   |
-| **71** | **KAAPVERDISCHE EIL.** |   |   |   |   |   |   |   |   |
-| 1 | PRAIA | 1-7-2019 | CVE | 8.496,00 | 1.016,10 | 1.693,55 | 2.709,00 | 127,00 |   |
-| 4 | ELDERS | 1-7-2019 | CVE | 4.826,00 | 869,30 | 1.448,80 | 2.318,00 | 108,65 |   |
-| **157** | **KAMEROEN** |   |   |   |   |   |   |   |   |
-| 1 | DOUALA | 1-7-2019 | USD | 104,00 | 9,00 | 15,00 | 23,95 | 1,10 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 64,00 | 5,75 | 9,60 | 15,35 | 0,70 |   |
-| **115** | **KAZACHSTAN** |   |   |   |   |   |   |   |   |
-| 2 | ALMA ATA | 1-7-2019 | USD | 77,00 | 10,30 | 17,20 | 27,55 | 1,30 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 51,00 | 5,65 | 9,40 | 15,00 | 0,70 |   |
-| **11** | **KENIA** |   |   |   |   |   |   |   |   |
-| 2 | MOMBASA | 1-7-2019 | KES | 15.573,00 | 256,90 | 428,15 | 685,05 | 32,10 |   |
-| 3 | ELDERS | 1-7-2019 | KES | 4.906,00 | 443,15 | 738,60 | 1.181,00 | 55,40 |   |
-| **109** | **KOEWEIT** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | KWD | 58,00 | 4,85 | 8,05 | 12,90 | 0,60 |   |
-| **49** | **KOREA (ZUID)** |   |   |   |   |   |   |   |   |
-| 1 | SEOUL | 1-7-2019 | USD | 191,00 | 14,10 | 23,50 | 37,55 | 1,75 |   |
-| 8 | ELDERS | 1-7-2019 | USD | 88,00 | 7,70 | 12,80 | 20,45 | 0,95 |   |
-| **220** | **KOSOVO** |   |   |   |   |   |   |   |   |
-| 1 | PRISTINA | 1-7-2019 | USD | 92,00 | 6,75 | 11,25 | 18,00 | 0,85 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 60,00 | 5,40 | 9,05 | 14,45 | 0,70 |   |
-| **59** | **KROATIE** |   |   |   |   |   |   |   |   |
-| 1 | ZAGREB | 1-7-2019 | HRK | 730,00 | 80,60 | 134,30 | 214,90 | 10,05 |   |
-| 5 | ELDERS | 1-7-2019 | HRK | 672,00 | 58,30 | 97,15 | 155,45 | 7,30 |   |
-| **158** | **KYRGYZSTAN** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | KGS | 2.379,00 | 167,90 | 279,85 | 447,80 | 21,00 |   |
-| **56** | **LETLAND** |   |   |   |   |   |   |   |   |
-| 1 | RIGA | 1-7-2019 | EUR | 110,00 | 9,50 | 15,85 | 25,40 | 1,20 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 67,00 | 7,15 | 11,90 | 19,05 | 0,90 |   |
-| **40** | **LIBANON** |   |   |   |   |   |   |   |   |
-| 1 | BEIROET | 1-7-2019 | USD | 162,00 | 9,25 | 15,40 | 24,60 | 1,15 |   |
-| 6 | ELDERS | 1-7-2019 | USD | 66,00 | 8,95 | 14,90 | 23,80 | 1,10 |   |
-| **198** | **LIBERIA** |   |   |   |   |   |   |   |   |
-| 1 | MONROVIA | 1-7-2019 | USD | 176,00 | 14,05 | 23,40 | 37,45 | 1,75 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 56,00 | 4,30 | 7,15 | 11,45 | 0,55 |   |
-| **46** | **LIBIE** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 108,00 | 7,60 | 12,70 | 20,30 | 0,95 |   |
-| **116** | **LITOUWEN** |   |   |   |   |   |   |   |   |
-| 1 | VILNIUS | 1-7-2019 | EUR | 117,00 | 8,60 | 14,35 | 22,95 | 1,10 |   |
-| 2 | ELDERS | 1-7-2019 | EUR | 79,00 | 5,80 | 9,65 | 15,45 | 0,70 |   |
-| **16** | **LUXEMBURG** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 200,00 | 14,10 | 23,55 | 37,65 | 1,75 |   |
-| **177** | **MAAGDENEILANDEN GBR** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN (UK) | 1-7-2019 | USD | 198,00 | 14,00 | 23,30 | 37,30 | 1,75 |   |
-| 1 | ALLE GEBIEDEN (UK) | 15-12-2019 | USD | 227,00 | 14,05 | 23,45 | 37,50 | 1,75 |   |
-| **224** | **MAAGDENEILANDEN USA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN (USA) | 1-7-2019 | USD | 244,00 | 15,15 | 25,25 | 40,40 | 1,90 |   |
-| 1 | ALLE GEBIEDEN (USA) | 15-12-2019 | USD | 371,00 | 17,55 | 29,25 | 46,80 | 2,20 |   |
-| **190** | **MADAGASCAR** |   |   |   |   |   |   |   |   |
-| 1 | ANTANANARIVO | 1-7-2019 | USD | 121,00 | 6,85 | 11,45 | 18,30 | 0,85 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 34,00 | 3,45 | 5,75 | 9,20 | 0,45 |   |
-| **175** | **MALAWI** |   |   |   |   |   |   |   |   |
-| 9 | ELDERS | 1-7-2019 | USD | 82,00 | 5,60 | 9,30 | 14,90 | 0,70 |   |
-| **189** | **MALEDIVEN** |   |   |   |   |   |   |   |   |
-| 1 | MALE | 1-7-2019 | USD | 158,00 | 8,60 | 14,35 | 22,95 | 1,05 |   |
-| 2 | ELDERS (ISLANDS) | 1-7-2019 | USD | 61,00 | 4,45 | 7,45 | 11,90 | 0,55 |   |
-| **28** | **MALEISIE OOST** |   |   |   |   |   |   |   |   |
-| 1 | KUALA LUMPUR | 1-7-2019 | MYR | 458,00 | 46,65 | 77,70 | 124,35 | 5,85 |   |
-| 4 | ELDERS | 1-7-2019 | MYR | 354,00 | 26,05 | 43,40 | 69,50 | 3,25 |   |
-| **149** | **MALI** |   |   |   |   |   |   |   |   |
-| 1 | BAMAKO | 1-7-2019 | USD | 111,00 | 12,70 | 21,20 | 33,95 | 1,60 |   |
-| **32** | **MALTA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 167,00 | 12,30 | 20,55 | 32,85 | 1,55 |   |
-| **89** | **MAROKKO** |   |   |   |   |   |   |   |   |
-| 1 | CASABLANCA | 1-7-2019 | MAD | 1.380,00 | 101,55 | 169,30 | 270,85 | 12,70 |   |
-| 4 | RABAT | 1-7-2019 | MAD | 1.224,00 | 97,85 | 163,05 | 260,90 | 12,25 |   |
-| 8 | ELDERS | 1-7-2019 | MAD | 774,00 | 75,75 | 126,25 | 202,00 | 9,45 |   |
-| **124** | **MARTINIQUE** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 70,00 | 9,05 | 15,10 | 24,15 | 1,15 |   |
-| **193** | **MAURITANIE** |   |   |   |   |   |   |   |   |
-| 1 | NOUAKCHOTT | 1-7-2019 | USD | 113,00 | 7,65 | 12,75 | 20,35 | 0,95 |   |
-| 2 | NOUAKCHOTT HOTEL | 1-7-2019 | USD | 142,00 | 10,90 | 18,20 | 29,10 | 1,35 |   |
-| 3 | NOUADHIBOU | 1-7-2019 | USD | 79,00 | 7,45 | 12,45 | 19,90 | 0,95 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 49,00 | 4,60 | 7,70 | 12,30 | 0,60 |   |
-| **169** | **MAURITIUS** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 144,00 | 2,35 | 3,95 | 6,30 | 0,30 |   |
-| **164** | **MEXICO** |   |   |   |   |   |   |   |   |
-| 4 | MEXICO STAD | 1-7-2019 | MXN | 4.307,00 | 267,00 | 446,00 | 713,00 | 33,00 |   |
-| 5 | ELDERS | 1-7-2019 | MXN | 1.406,00 | 162,00 | 269,00 | 431,00 | 20,00 |   |
-| **117** | **MOLDAVIE** |   |   |   |   |   |   |   |   |
-| 3 | KISHINEV | 1-7-2019 | USD | 92,00 | 7,65 | 12,75 | 20,40 | 0,95 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 67,00 | 5,60 | 9,35 | 14,95 | 0,70 |   |
-| **70** | **MONACO** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 197,00 | 10,70 | 17,85 | 28,55 | 1,35 |   |
-| **204** | **MONTENEGRO** |   |   |   |   |   |   |   |   |
-| 1 | PODGORICA | 1-7-2019 | EUR | 96,00 | 1,60 | 2,65 | 4,20 | 0,20 |   |
-| **102** | **MOZAMBIQUE** |   |   |   |   |   |   |   |   |
-| 1 | MAPUTO | 1-7-2019 | USD | 130,00 | 11,75 | 19,60 | 31,40 | 1,45 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 72,00 | 11,00 | 18,35 | 29,35 | 1,40 |   |
-| **216** | **MYANMAR** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | USD | 46,00 | 3,25 | 5,40 | 8,60 | 0,40 |   |
-| 2 | NAYPYITAW | 1-7-2019 | USD | 46,00 | 6,00 | 10,05 | 16,05 | 0,75 |   |
-| **165** | **NAMIBIE** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 41,00 | 4,20 | 7,00 | 11,15 | 0,50 |   |
-| **183** | **NEPAL** |   |   |   |   |   |   |   |   |
-| 1 | KATHMANDU | 1-7-2019 | USD | 112,00 | 7,25 | 12,10 | 19,40 | 0,90 |   |
-| **211** | **NICARAGUA** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | USD | 51,00 | 4,25 | 7,05 | 11,25 | 0,55 |   |
-| 2 | MANAGUA | 1-7-2019 | USD | 110,00 | 7,45 | 12,45 | 19,90 | 0,95 |   |
-| **79** | **NIEUW ZEELAND** |   |   |   |   |   |   |   |   |
-| 2 | AUCKLAND, CHRISTCH., WELLINGTON | 1-7-2019 | NZD | 253,00 | 21,90 | 36,50 | 58,40 | 2,75 |   |
-| 3 | ELDERS | 1-7-2019 | NZD | 221,00 | 19,90 | 33,20 | 53,10 | 2,50 |   |
-| **130** | **NIGER** |   |   |   |   |   |   |   |   |
-| 5 | ELDERS | 1-7-2019 | USD | 66,00 | 9,20 | 15,35 | 24,55 | 1,15 |   |
-| **140** | **NIGERIA** |   |   |   |   |   |   |   |   |
-| 2 | LAGOS(EKO,FED.PALACE) | 1-7-2019 | NGN | 47.190,00 | 2.805,25 | 4.675,45 | 7.480,00 | 350,65 |   |
-| 3 | LAGOS | 1-7-2019 | NGN | 33.410,00 | 1.986,10 | 3.310,15 | 5.296,00 | 248,25 |   |
-| 6 | ELDERS | 1-7-2019 | NGN | 14.884,00 | 1.050,55 | 1.750,95 | 2.801,00 | 131,30 |   |
-| **225** | **NOORD-MACEDONIE** |   |   |   |   |   |   |   |   |
-| 2 | SKOPJE | 1-7-2019 | MKD | 3.996,00 | 375,80 | 626,35 | 1.002,00 | 47,00 |   |
-| 3 | ELDERS | 1-7-2019 | MKD | 2.006,00 | 259,95 | 433,20 | 693,15 | 32,50 |   |
-| **25** | **NOORWEGEN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | NOK | 1.319,00 | 201,05 | 335,10 | 536,15 | 25,15 |   |
-| **103** | **OEGANDA** |   |   |   |   |   |   |   |   |
-| 7 | ELDERS | 1-7-2019 | USD | 42,00 | 2,70 | 4,50 | 7,20 | 0,35 |   |
-| 8 | ENTEBBE | 1-7-2019 | USD | 128,00 | 6,35 | 10,60 | 17,00 | 0,80 |   |
-| **104** | **OEKRAINE** |   |   |   |   |   |   |   |   |
-| 3 | KIEV | 1-7-2019 | USD | 106,00 | 8,85 | 14,70 | 23,55 | 1,10 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 38,00 | 3,70 | 6,15 | 9,80 | 0,45 |   |
-| **105** | **OEZBEKISTAN** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 49,00 | 2,45 | 4,05 | 6,50 | 0,30 |   |
-| **55** | **OMAN** |   |   |   |   |   |   |   |   |
-| 2 | MUSCAT | 1-7-2019 | OMR | 61,00 | 4,70 | 7,85 | 12,55 | 0,60 |   |
-| 4 | ELDERS | 1-7-2019 | OMR | 45,00 | 4,20 | 7,05 | 11,25 | 0,55 |   |
-| **6** | **OOSTENRIJK** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | EUR | 107,00 | 15,65 | 26,10 | 41,80 | 1,95 |   |
-| **18** | **PAKISTAN** |   |   |   |   |   |   |   |   |
-| 9 | ISLAMABAD,RAWALPINDI | 1-7-2019 | PKR | 13.940,00 | 724,20 | 1.207,05 | 1.931,00 | 90,55 |   |
-| 14 | ELDERS | 1-7-2019 | PKR | 8.515,00 | 506,20 | 843,65 | 1.349,00 | 63,25 |   |
-| **121** | **PANAMA** |   |   |   |   |   |   |   |   |
-| 2 | PANAMA STAD | 1-7-2019 | PAB | 141,00 | 12,20 | 20,30 | 32,50 | 1,50 |   |
-| 4 | ELDERS | 1-7-2019 | PAB | 107,00 | 7,85 | 13,10 | 20,95 | 1,00 |   |
-| **174** | **PERU** |   |   |   |   |   |   |   |   |
-| 1 | LIMA | 1-7-2019 | PEN | 605,00 | 39,20 | 65,35 | 104,55 | 4,90 |   |
-| 2 | ELDERS | 1-7-2019 | PEN | 297,00 | 20,95 | 34,95 | 55,90 | 2,60 |   |
-| **42** | **POLEN** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | PLN | 553,00 | 32,85 | 54,75 | 87,60 | 4,10 |   |
-| 3 | WARSCHAU | 1-7-2019 | PLN | 580,00 | 40,90 | 68,15 | 109,10 | 5,10 |   |
-| **26** | **PORTUGAL** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | EUR | 80,00 | 9,40 | 15,65 | 25,05 | 1,20 |   |
-| 2 | LISSABON | 1-7-2019 | EUR | 214,00 | 13,90 | 23,15 | 37,05 | 1,75 |   |
-| **120** | **PUERTO RICO** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 179,00 | 13,75 | 22,95 | 36,70 | 1,70 |   |
-| 1 | ALLE GEBIEDEN | 20-12-2019 | USD | 286,00 | 14,85 | 24,80 | 39,65 | 1,85 |   |
-| **110** | **QATAR** |   |   |   |   |   |   |   |   |
-| 1 | DOHA | 1-7-2019 | USD | 207,00 | 14,60 | 24,35 | 38,90 | 1,80 |   |
-| **39** | **ROEMENIE** |   |   |   |   |   |   |   |   |
-| 1 | BOEKAREST | 1-7-2019 | RON | 663,00 | 39,40 | 65,70 | 105,10 | 4,95 |   |
-| 4 | ELDERS | 1-7-2019 | RON | 342,00 | 29,65 | 49,40 | 79,00 | 3,70 |   |
-| **78** | **RUSLAND** |   |   |   |   |   |   |   |   |
-| 1 | MOSKOU | 1-7-2019 | RUB | 10.187,00 | 719,05 | 1.198,40 | 1.917,00 | 89,90 |   |
-| 2 | SINT PETERSBURG | 1-7-2019 | RUB | 8.576,00 | 466,35 | 777,20 | 1.243,00 | 58,30 |   |
-| 4 | ELDERS | 1-7-2019 | RUB | 5.078,00 | 343,60 | 572,65 | 916,25 | 42,95 |   |
-| **106** | **RWANDA** |   |   |   |   |   |   |   |   |
-| 1 | KIGALI | 1-7-2019 | USD | 111,00 | 8,15 | 13,60 | 21,80 | 1,00 |   |
-| 5 | ELDERS | 1-7-2019 | USD | 52,00 | 3,40 | 5,65 | 9,05 | 0,40 |   |
-| **215** | **SAINT BARTEHLEMY** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 640,00 | 17,65 | 29,45 | 47,10 | 2,20 |   |
-| **205** | **SAO TOME / PRINCIPE** |   |   |   |   |   |   |   |   |
-| 2 | SAO TOME | 1-7-2019 | USD | 89,00 | 8,65 | 14,45 | 23,10 | 1,10 |   |
-| 3 | SAO TOME (OMALI, PESTANA) | 1-7-2019 | USD | 148,00 | 10,40 | 17,35 | 27,80 | 1,30 |   |
-| 4 | PRINCIPE | 1-7-2019 | USD | 62,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
-| **45** | **SAOEDI-ARABIE** |   |   |   |   |   |   |   |   |
-| 14 | ELDERS | 1-7-2019 | SAR | 647,00 | 45,65 | 76,05 | 121,70 | 5,70 |   |
-| **131** | **SENEGAL** |   |   |   |   |   |   |   |   |
-| 4 | ELDERS | 1-7-2019 | USD | 64,00 | 6,05 | 10,05 | 16,10 | 0,75 |   |
-| **101** | **SERVIE** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 60,00 | 5,40 | 9,05 | 14,45 | 0,70 |   |
-| 6 | PRISTINA | 1-7-2019 | USD | 92,00 | 6,75 | 11,25 | 18,00 | 0,85 |   |
-| **168** | **SEYCHELLEN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | SCR | 2.236,00 | 210,25 | 350,40 | 560,65 | 26,30 |   |
-| **132** | **SIERRA LEONE** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 50,00 | 4,20 | 6,95 | 11,15 | 0,50 |   |
-| **80** | **SINGAPORE** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | SGD | 335,00 | 22,65 | 37,75 | 60,40 | 2,85 |   |
-| **210** | **SINT MAARTEN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | ANG | 260,00 | 22,60 | 37,65 | 60,25 | 2,80 |   |
-| **123** | **SLOVENIE** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | EUR | 140,00 | 10,30 | 17,15 | 27,45 | 1,30 |   |
-| **62** | **SLOWAKIJE** |   |   |   |   |   |   |   |   |
-| 1 | BRATISLAVA | 1-7-2019 | EUR | 123,00 | 9,40 | 15,70 | 25,10 | 1,20 |   |
-| 3 | ELDERS | 1-7-2019 | EUR | 89,00 | 6,55 | 10,90 | 17,45 | 0,80 |   |
-| **111** | **SOMALIE** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | USD | 43,00 | 3,55 | 5,95 | 9,50 | 0,45 |   |
-| **4** | **SPANJE** |   |   |   |   |   |   |   |   |
-| 1 | MADRID | 1-7-2019 | EUR | 140,00 | 13,75 | 22,90 | 36,65 | 1,70 |   |
-| 2 | BARCELONA | 1-7-2019 | EUR | 126,00 | 11,40 | 18,95 | 30,35 | 1,40 |   |
-| 4 | ELDERS | 1-7-2019 | EUR | 96,00 | 9,40 | 15,65 | 25,05 | 1,15 |   |
-| **51** | **SRI LANKA** |   |   |   |   |   |   |   |   |
-| 2 | ELDERS | 1-7-2019 | LKR | 12.214,00 | 826,45 | 1.377,40 | 2.203,00 | 103,30 |   |
-| 3 | KANDY | 1-7-2019 | LKR | 16.524,00 | 858,45 | 1.430,80 | 2.289,00 | 107,30 |   |
-| **213** | **ST. KITTS AND NEVIS** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 251,00 | 20,95 | 34,90 | 55,85 | 2,60 |   |
-| **192** | **ST. LUCIA** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 232,00 | 14,45 | 24,05 | 38,45 | 1,80 |   |
-| **222** | **ST.VINCENT-GRENADINE** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 172,00 | 18,25 | 30,40 | 48,60 | 2,30 |   |
-| **200** | **SUDAN** |   |   |   |   |   |   |   |   |
-| 1 | KHARTOUM | 1-7-2019 | USD | 96,00 | 7,65 | 12,75 | 20,40 | 0,95 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 68,00 | 2,65 | 4,40 | 7,05 | 0,35 |   |
-| **31** | **SURINAME** |   |   |   |   |   |   |   |   |
-| 1 | ELDERS | 1-7-2019 | SRD | 482,00 | 27,40 | 45,65 | 73,05 | 3,45 |   |
-| 2 | PARAMARIBO | 1-7-2019 | SRD | 858,00 | 46,65 | 77,70 | 124,35 | 5,85 |   |
-| **43** | **SYRIE** |   |   |   |   |   |   |   |   |
-| 1 | DAMASCUS | 1-7-2019 | SYP | 51.535,00 | 4.655,00 | 7.758,35 | 12.413,00 | 581,90 |   |
-| 2 | ELDERS | 1-7-2019 | SYP | 30.580,00 | 2.762,20 | 4.603,70 | 7.365,00 | 345,30 |   |
-| **77** | **TAIWAN** |   |   |   |   |   |   |   |   |
-| 1 | TAIPEH | 1-7-2019 | USD | 58,00 | 4,25 | 7,05 | 11,30 | 0,55 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 58,00 | 4,25 | 7,05 | 11,30 | 0,55 |   |
-| **181** | **TAJIKISTAN** |   |   |   |   |   |   |   |   |
-| 1 | DUSHANBE | 1-7-2019 | USD | 112,00 | 6,40 | 10,65 | 17,00 | 0,80 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 31,00 | 2,20 | 3,65 | 5,85 | 0,25 |   |
-| **44** | **TANZANIA** |   |   |   |   |   |   |   |   |
-| 5 | DAR ES SALAAM | 1-7-2019 | USD | 138,00 | 9,35 | 15,60 | 24,95 | 1,15 |   |
-| 6 | ELDERS | 1-7-2019 | USD | 59,00 | 4,70 | 7,80 | 12,50 | 0,60 |   |
-| **94** | **THAILAND** |   |   |   |   |   |   |   |   |
-| 1 | BANGKOK | 1-7-2019 | THB | 3.933,00 | 355,20 | 592,00 | 947,25 | 44,40 |   |
-| 5 | ELDERS | 1-7-2019 | THB | 1.496,00 | 119,65 | 199,40 | 319,00 | 14,95 |   |
-| **167** | **TOBAGO AND TRINIDAD** |   |   |   |   |   |   |   |   |
-| 1 | TOBAGO | 1-7-2019 | USD | 196,00 | 15,05 | 25,05 | 40,05 | 1,90 |   |
-| 2 | TRINIDAD | 1-7-2019 | USD | 192,00 | 15,95 | 26,60 | 42,55 | 2,00 |   |
-| **143** | **TOGO** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 55,00 | 4,80 | 8,00 | 12,80 | 0,60 |   |
-| **139** | **TRINIDAD** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 16-12-2019 | USD | 217,00 | 15,35 | 25,55 | 40,85 | 1,90 |   |
-| **58** | **TSJECHIE** |   |   |   |   |   |   |   |   |
-| 1 | PRAAG | 1-7-2019 | CZK | 4.051,00 | 251,60 | 419,30 | 670,90 | 31,45 |   |
-| 3 | BRNO | 1-7-2019 | CZK | 2.451,00 | 158,90 | 264,85 | 423,75 | 19,85 |   |
-| 8 | ELDERS | 1-7-2019 | CZK | 1.686,00 | 114,10 | 190,20 | 304,30 | 14,25 |   |
-| 10 | CESKY KRUMLOV | 1-7-2019 | CZK | 2.523,00 | 170,75 | 284,55 | 455,30 | 21,35 |   |
-| 12 | PLZEN | 1-7-2019 | CZK | 2.207,00 | 149,35 | 248,90 | 398,25 | 18,65 |   |
-| **163** | **TUNESIE** |   |   |   |   |   |   |   |   |
-| 1 | TUNIS | 1-7-2019 | TND | 198,00 | 19,40 | 32,35 | 51,75 | 2,45 |   |
-| 2 | ELDERS | 1-7-2019 | TND | 211,00 | 3,50 | 5,80 | 9,30 | 0,45 |   |
-| **27** | **TURKIJE** |   |   |   |   |   |   |   |   |
-| 1 | ISTANBUL | 1-7-2019 | TRY | 784,00 | 68,00 | 113,35 | 181,35 | 8,50 |   |
-| 2 | ANTALYA | 1-7-2019 | TRY | 560,00 | 48,60 | 80,95 | 129,55 | 6,05 |   |
-| 3 | ANKARA | 1-7-2019 | TRY | 528,00 | 38,85 | 64,75 | 103,65 | 4,85 |   |
-| 5 | ELDERS | 1-7-2019 | TRY | 323,00 | 31,65 | 52,75 | 84,40 | 3,95 |   |
-| 6 | IZMIR | 1-7-2019 | TRY | 561,00 | 39,60 | 66,00 | 105,65 | 4,95 |   |
-| **223** | **TURKS & CAICOS ISL.** |   |   |   |   |   |   |   |   |
-| 2 | PROVIDENCIALES | 1-7-2019 | USD | 293,00 | 15,95 | 26,60 | 42,55 | 2,00 |   |
-| **223** | **TURKS CAICOS ISL.** |   |   |   |   |   |   |   |   |
-| 2 | PROVIDENCIALES | 1-7-2019 | USD | 293,00 | 15,95 | 26,60 | 42,55 | 2,00 |   |
-| **179** | **URUGUAY** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 91,00 | 8,60 | 14,30 | 22,90 | 1,05 |   |
-| **82** | **VENEZUELA** |   |   |   |   |   |   |   |   |
-| 1 | CARACAS | 1-7-2019 | USD | 104,00 | 4,65 | 7,80 | 12,45 | 0,60 |   |
-| 5 | ELDERS | 1-7-2019 | USD | 28,00 | 2,15 | 3,55 | 5,65 | 0,25 |   |
-| **84** | **VER.ARAB.EMIR.** |   |   |   |   |   |   |   |   |
-| 1 | DUBAI | 1-7-2019 | AED | 893,00 | 60,40 | 100,70 | 161,10 | 7,55 |   |
-| 2 | ABU DHABI | 1-7-2019 | AED | 734,00 | 69,05 | 115,10 | 184,20 | 8,65 |   |
-| 4 | ELDERS | 1-7-2019 | AED | 814,00 | 62,45 | 104,10 | 166,55 | 7,80 |   |
-| **1** | **VERENIGD KONINKRIJK** |   |   |   |   |   |   |   |   |
-| 1 | LONDEN | 1-7-2019 | GBP | 190,00 | 11,80 | 19,65 | 31,50 | 1,50 |   |
-| 2 | ELDERS | 1-7-2019 | GBP | 162,00 | 10,95 | 18,25 | 29,20 | 1,35 |   |
-| **19** | **VERENIGDE STATEN** |   |   |   |   |   |   |   |   |
-| 2 | CHICAGO | 1-7-2019 | USD | 217,00 | 13,45 | 22,45 | 35,95 | 1,70 |   |
-| 4 | BOSTON | 1-7-2019 | USD | 253,00 | 15,70 | 26,15 | 41,85 | 1,95 |   |
-| 5 | SAN FRANCISCO | 1-7-2019 | USD | 266,00 | 13,20 | 21,95 | 35,15 | 1,65 |   |
-| 6 | LOS ANGELES | 1-7-2019 | USD | 271,00 | 14,05 | 23,45 | 37,50 | 1,75 |   |
-| 7 | HONOLULU | 1-7-2019 | USD | 262,00 | 13,60 | 22,65 | 36,25 | 1,70 |   |
-| 8 | PHILADELPHIA | 1-7-2019 | USD | 205,00 | 13,30 | 22,20 | 35,50 | 1,65 |   |
-| 9 | MIAMI | 1-7-2019 | USD | 212,00 | 12,60 | 21,00 | 33,60 | 1,55 |   |
-| 11 | ELDERS | 1-7-2019 | USD | 206,00 | 12,25 | 20,40 | 32,65 | 1,55 |   |
-| 17 | WASHINGTON DC, NORFOLK | 1-7-2019 | USD | 220,00 | 16,20 | 27,00 | 43,20 | 2,05 |   |
-| **202** | **VIETNAM** |   |   |   |   |   |   |   |   |
-| 1 | HANOI | 1-7-2019 | USD | 99,00 | 7,60 | 12,65 | 20,30 | 0,95 |   |
-| 2 | HO CHI MIN CITY | 1-7-2019 | USD | 92,00 | 7,35 | 12,30 | 19,65 | 0,90 |   |
-| 3 | ELDERS | 1-7-2019 | USD | 37,00 | 3,50 | 5,85 | 9,35 | 0,45 |   |
-| **114** | **WIT RUSLAND** |   |   |   |   |   |   |   |   |
-| 1 | MINSK | 1-7-2019 | USD | 129,00 | 13,20 | 22,00 | 35,20 | 1,65 |   |
-| 2 | ELDERS | 1-7-2019 | USD | 41,00 | 5,60 | 9,30 | 14,90 | 0,70 |   |
-| **173** | **ZAMBIA** |   |   |   |   |   |   |   |   |
-| 3 | ELDERS | 1-7-2019 | USD | 92,00 | 3,95 | 6,60 | 10,55 | 0,50 |   |
-| **166** | **ZIMBABWE** |   |   |   |   |   |   |   |   |
-| 2 | HARARE | 1-7-2019 | USD | 118,00 | 9,05 | 15,10 | 24,15 | 1,15 |   |
-| 4 | ELDERS | 1-7-2019 | USD | 81,00 | 6,25 | 10,40 | 16,65 | 0,80 |   |
-| **214** | **ZUID SUDAN** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | USD | 52,00 | 4,30 | 7,20 | 11,50 | 0,55 |   |
-| **86** | **ZUID-AFRIKA** |   |   |   |   |   |   |   |   |
-| 1 | KAAPSTAD | 1-7-2019 | ZAR | 1.983,00 | 117,85 | 196,40 | 314,25 | 14,75 |   |
-| 2 | JOHANNESBURG | 1-7-2019 | ZAR | 2.707,00 | 147,20 | 245,30 | 392,50 | 18,40 |   |
-| 3 | PRETORIA | 1-7-2019 | ZAR | 1.680,00 | 79,50 | 132,50 | 211,95 | 9,95 |   |
-| 7 | ELDERS | 1-7-2019 | ZAR | 921,00 | 65,00 | 108,35 | 173,35 | 8,15 |   |
-| **7** | **ZWEDEN** |   |   |   |   |   |   |   |   |
-| 1 | STOCKHOLM EN MALMO | 1-7-2019 | SEK | 2.332,00 | 126,80 | 211,30 | 338,10 | 15,85 |   |
-| 2 | ELDERS | 1-7-2019 | SEK | 1.827,00 | 118,45 | 197,45 | 315,90 | 14,80 |   |
-| **8** | **ZWITSERLAND** |   |   |   |   |   |   |   |   |
-| 1 | ALLE GEBIEDEN | 1-7-2019 | CHF | 228,00 | 15,45 | 25,75 | 41,15 | 1,95 |   |
+| **Reisgebiedsdelen** |   |   |   | **bedragen ontbijt** | **bedragen lunch** | **bedragen diner** | **bedragen component** | **bedragen component** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Ingangsdatum tarief | Val code | bedrag logies | horeca | horeca | horeca | klein | groot |
+| **NEDERLAND** |   |   |   |   |   |   |   |   |
+| VAN BUITENLAND NAAR NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
+| BINNEN NEDERLAND | 1-1-2014 | EUR | 72,60 | 8,20 | 14,85 | 23,00 | 4,60 | 14,35 |
+| **AFGHANISTAN** |   |   |   |   |   |   |   |   |
+| KABUL | 1-1-2020 | AFN | 7.747,00 | 546,80 | 911,35 | 1.458,15 | 68,35 |   |
+| ELDERS | 1-1-2020 | AFN | 4.650,00 | 314,65 | 524,40 | 839,05 | 39,35 |   |
+| **ALBANIE** |   |   |   |   |   |   |   |   |
+| TIRANA | 1-1-2020 | ALL | 8.820,00 | 571,85 | 953,10 | 1.525,00 | 71,50 |   |
+| ELDERS | 1-1-2020 | ALL | 4.399,00 | 448,30 | 747,20 | 1.195,50 | 56,05 |   |
+| **ALGERIJE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 66,00 | 6,70 | 11,15 | 17,80 | 0,85 |   |
+| **ANGOLA** |   |   |   |   |   |   |   |   |
+| LUANDA | 1-1-2020 | AOA | 51.301,00 | 3.621,00 | 6.035,00 | 9.656,05 | 452,65 |   |
+| ELDERS | 1-1-2020 | AOA | 24.530,00 | 2.215,75 | 3.692,90 | 5.908,60 | 276,95 |   |
+| **ANGUILLA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 414,00 | 21,55 | 35,90 | 57,45 | 2,70 |   |
+| ALLE GEBIEDEN | 15-4-2020 | USD | 278,00 | 18,80 | 31,30 | 50,10 | 2,35 |   |
+| **ANTIGUA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 249,00 | 19,10 | 31,85 | 50,95 | 2,40 |   |
+| ALLE GEBIEDEN | 1-4-2020 | USD | 213,00 | 18,50 | 30,85 | 49,35 | 2,30 |   |
+| **ARGENTINIE** |   |   |   |   |   |   |   |   |
+| BUENOS AIRES | 1-1-2020 | USD | 160,00 | 7,25 | 12,05 | 19,30 | 0,90 |   |
+| ELDERS | 1-1-2020 | USD | 61,00 | 4,10 | 6,85 | 10,95 | 0,50 |   |
+| **ARMENIE** |   |   |   |   |   |   |   |   |
+| YEREVAN | 1-1-2020 | USD | 105,00 | 6,50 | 10,85 | 17,40 | 0,80 |   |
+| **ARUBA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | AWG | 427,00 | 30,15 | 50,25 | 80,35 | 3,75 |   |
+| ALLE GEBIEDEN | 15-4-2020 | AWG | 297,00 | 27,95 | 46,55 | 74,50 | 3,50 |   |
+| **AUSTRALIE** |   |   |   |   |   |   |   |   |
+| SYDNEY,CANBERRA EN MELBOURNE | 1-1-2020 | AUD | 254,00 | 22,00 | 36,65 | 58,70 | 2,75 |   |
+| ELDERS | 1-1-2020 | AUD | 183,00 | 18,60 | 31,00 | 49,60 | 2,35 |   |
+| **AZERBAIDZJAN** |   |   |   |   |   |   |   |   |
+| BAKU | 1-1-2020 | USD | 77,00 | 5,70 | 9,50 | 15,20 | 0,70 |   |
+| ELDERS | 1-1-2020 | USD | 56,00 | 4,45 | 7,40 | 11,85 | 0,55 |   |
+| **BAHAMA S** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 277,00 | 18,75 | 31,25 | 50,00 | 2,35 |   |
+| ALLE GEBIEDEN | 21-4-2020 | USD | 234,00 | 22,05 | 36,75 | 58,75 | 2,75 |   |
+| **BAHRAIN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | BHD | 64,00 | 4,70 | 7,80 | 12,50 | 0,60 |   |
+| **BARBADOS** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | BBD | 589,00 | 39,85 | 66,40 | 106,30 | 5,00 |   |
+| ALLE GEBIEDEN | 16-4-2020 | BBD | 442,00 | 45,05 | 75,05 | 120,10 | 5,65 |   |
+| **BELGIE** |   |   |   |   |   |   |   |   |
+| BRUSSEL | 1-1-2020 | EUR | 193,00 | 14,20 | 23,65 | 37,80 | 1,75 |   |
+| ELDERS | 1-1-2020 | EUR | 181,00 | 13,30 | 22,15 | 35,45 | 1,65 |   |
+| **BELIZE** |   |   |   |   |   |   |   |   |
+| BELIZE CITY | 1-1-2020 | USD | 168,00 | 7,25 | 12,05 | 19,30 | 0,90 |   |
+| ELDERS | 1-1-2020 | USD | 114,00 | 9,10 | 15,15 | 24,25 | 1,15 |   |
+| **BENIN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 44,00 | 5,45 | 9,05 | 14,50 | 0,70 |   |
+| **BERMUDA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | BMD | 330,00 | 14,20 | 23,65 | 37,85 | 1,75 |   |
+| ALLE GEBIEDEN | 15-3-2020 | BMD | 367,00 | 15,75 | 26,30 | 42,05 | 1,95 |   |
+| **BHUTAN** |   |   |   |   |   |   |   |   |
+| THIMPHU | 1-1-2020 | USD | 71,00 | 4,55 | 7,60 | 12,20 | 0,55 |   |
+| ELDERS | 1-1-2020 | USD | 57,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
+| **BOLIVIA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 43,00 | 4,90 | 8,15 | 13,05 | 0,60 |   |
+| **BOSNIE/HERZEGOVINA** |   |   |   |   |   |   |   |   |
+| SARAJEVO | 1-1-2020 | BAM | 140,00 | 15,40 | 25,65 | 41,05 | 1,95 |   |
+| ELDERS | 1-1-2020 | BAM | 96,00 | 9,40 | 15,65 | 25,05 | 1,15 |   |
+| BANJA LUKA (BOSNIE) | 1-1-2020 | BAM | 102,00 | 13,25 | 22,05 | 35,30 | 1,65 |   |
+| MOSTAR | 1-1-2020 | BAM | 98,00 | 14,30 | 23,80 | 38,10 | 1,80 |   |
+| **BOTSWANA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | BWP | 963,00 | 83,55 | 139,25 | 222,80 | 10,45 |   |
+| **BRAZILIE** |   |   |   |   |   |   |   |   |
+| SAO PAULO | 1-1-2020 | BRL | 359,00 | 23,30 | 38,80 | 62,10 | 2,90 |   |
+| ELDERS | 1-1-2020 | BRL | 227,00 | 18,90 | 31,50 | 50,40 | 2,35 |   |
+| **BRUNEI** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 112,00 | 6,40 | 10,65 | 17,00 | 0,80 |   |
+| **BULGARIJE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | BGN | 74,00 | 7,20 | 12,00 | 19,25 | 0,90 |   |
+| SOFIA | 1-1-2020 | BGN | 221,00 | 14,30 | 23,85 | 38,10 | 1,80 |   |
+| BURGAS PLOVDIV ST.ZAGORA VARNA | 1-1-2020 | BGN | 94,00 | 8,45 | 14,10 | 22,50 | 1,05 |   |
+| **BURKINA FASO** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 68,00 | 5,25 | 8,75 | 14,00 | 0,65 |   |
+| **BURUNDI** |   |   |   |   |   |   |   |   |
+| BUJUMBURA | 1-1-2020 | USD | 131,00 | 10,90 | 18,20 | 29,10 | 1,35 |   |
+| ELDERS | 1-1-2020 | USD | 23,00 | 4,80 | 8,00 | 12,80 | 0,60 |   |
+| **CAMBODJA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 32,00 | 2,95 | 4,90 | 7,80 | 0,35 |   |
+| **CANADA** |   |   |   |   |   |   |   |   |
+| VANCOUVER | 1-1-2020 | CAD | 299,00 | 20,25 | 33,75 | 54,05 | 2,55 |   |
+| TORONTO | 1-1-2020 | CAD | 288,00 | 19,50 | 32,50 | 52,00 | 2,45 |   |
+| OTTAWA | 1-1-2020 | CAD | 268,00 | 20,60 | 34,35 | 54,90 | 2,55 |   |
+| CALGARY | 1-1-2020 | CAD | 193,00 | 17,40 | 29,00 | 46,35 | 2,15 |   |
+| MONTREAL | 1-1-2020 | CAD | 247,00 | 18,90 | 31,55 | 50,45 | 2,35 |   |
+| ELDERS | 1-1-2020 | CAD | 170,00 | 16,65 | 27,75 | 44,40 | 2,10 |   |
+| **CENTRAAL AFRIKA** |   |   |   |   |   |   |   |   |
+| BANGUI | 1-1-2020 | USD | 106,00 | 10,75 | 17,95 | 28,70 | 1,35 |   |
+| ELDERS | 1-1-2020 | USD | 33,00 | 3,15 | 5,25 | 8,40 | 0,40 |   |
+| **CHAD** |   |   |   |   |   |   |   |   |
+| NDJAMENA | 1-1-2020 | USD | 94,00 | 7,20 | 12,00 | 19,20 | 0,90 |   |
+| ELDERS | 1-1-2020 | USD | 58,00 | 6,70 | 11,15 | 17,85 | 0,85 |   |
+| **CHILI** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 132,00 | 10,95 | 18,30 | 29,25 | 1,35 |   |
+| SANTIAGO | 1-1-2020 | USD | 209,00 | 13,50 | 22,55 | 36,05 | 1,70 |   |
+| **CHINA** |   |   |   |   |   |   |   |   |
+| BEIJING | 1-1-2020 | CNY | 1.044,00 | 80,10 | 133,55 | 213,65 | 10,00 |   |
+| ELDERS | 1-1-2020 | CNY | 672,00 | 49,45 | 82,45 | 131,90 | 6,20 |   |
+| SHANGHAI | 1-1-2020 | CNY | 1.248,00 | 74,20 | 123,65 | 197,85 | 9,25 |   |
+| **COLOMBIA** |   |   |   |   |   |   |   |   |
+| CARTAGENA | 1-1-2020 | USD | 106,00 | 3,90 | 6,50 | 10,40 | 0,50 |   |
+| BOGOTA | 1-1-2020 | USD | 103,00 | 3,80 | 6,30 | 10,10 | 0,45 |   |
+| ELDERS | 1-1-2020 | USD | 61,00 | 2,50 | 4,15 | 6,70 | 0,30 |   |
+| **COMOREN** |   |   |   |   |   |   |   |   |
+| MORONI | 1-1-2020 | USD | 117,00 | 10,55 | 17,55 | 28,10 | 1,30 |   |
+| ELDERS | 1-1-2020 | USD | 69,00 | 6,50 | 10,85 | 17,35 | 0,80 |   |
+| **CONGO DEM. REP** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 82,00 | 6,55 | 10,90 | 17,45 | 0,80 |   |
+| KINSHASA | 1-1-2020 | USD | 178,00 | 11,55 | 19,25 | 30,85 | 1,45 |   |
+| **COSTA RICA** |   |   |   |   |   |   |   |   |
+| SAN JOSE | 1-1-2020 | USD | 127,00 | 11,00 | 18,30 | 29,30 | 1,35 |   |
+| ELDERS | 1-1-2020 | USD | 97,00 | 8,40 | 14,00 | 22,40 | 1,05 |   |
+| **CUBA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 66,00 | 4,85 | 8,10 | 12,95 | 0,60 |   |
+| **CURACAO** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | ANG | 330,00 | 26,45 | 44,05 | 70,50 | 3,30 |   |
+| ALLE GEBIEDEN | 15-4-2020 | ANG | 286,00 | 25,85 | 43,05 | 68,90 | 3,25 |   |
+| **CYPRUS** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | EUR | 84,00 | 8,25 | 13,75 | 22,00 | 1,05 |   |
+| **DENEMARKEN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | DKK | 1.215,00 | 114,25 | 190,45 | 304,70 | 14,30 |   |
+| **DJIBOUTI** |   |   |   |   |   |   |   |   |
+| DJIBOUTI (HOTEL SHERATON) | 1-1-2020 | DJF | 54.672,00 | 2.840,00 | 4.734,00 | 7.574,00 | 355,00 |   |
+| DJIBOUTI | 1-1-2020 | DJF | 21.505,00 | 1.942,00 | 3.237,00 | 5.180,00 | 243,00 |   |
+| ELDERS | 1-1-2020 | DJF | 12.648,00 | 856,00 | 1.426,00 | 2.282,00 | 107,00 |   |
+| **DOMINICA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 176,00 | 15,30 | 25,50 | 40,80 | 1,90 |   |
+| **DOMINICAANSE REP.** |   |   |   |   |   |   |   |   |
+| SANTO DOMINGO | 1-1-2020 | DOP | 7.749,00 | 502,45 | 837,40 | 1.339,80 | 62,80 |   |
+| ELDERS | 1-1-2020 | DOP | 1.423,00 | 208,30 | 347,15 | 555,45 | 26,05 |   |
+| **DUITSLAND** |   |   |   |   |   |   |   |   |
+| FRANKFURT A/MAIN | 1-1-2020 | EUR | 174,00 | 14,55 | 24,20 | 38,75 | 1,80 |   |
+| BERLIJN | 1-1-2020 | EUR | 146,00 | 12,65 | 21,05 | 33,70 | 1,60 |   |
+| BONN | 1-1-2020 | EUR | 118,00 | 12,95 | 21,60 | 34,60 | 1,60 |   |
+| ELDERS | 1-1-2020 | EUR | 117,00 | 11,90 | 19,85 | 31,80 | 1,50 |   |
+| HAMBURG | 1-1-2020 | EUR | 174,00 | 14,55 | 24,20 | 38,75 | 1,80 |   |
+| MUNCHEN | 1-1-2020 | EUR | 169,00 | 11,00 | 18,30 | 29,30 | 1,35 |   |
+| **ECUADOR** |   |   |   |   |   |   |   |   |
+| GUAYAQUIL | 1-1-2020 | USD | 142,00 | 11,30 | 18,85 | 30,15 | 1,40 |   |
+| ELDERS | 1-1-2020 | USD | 72,00 | 7,35 | 12,30 | 19,65 | 0,90 |   |
+| **EGYPTE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | EGP | 1.294,00 | 148,65 | 247,75 | 396,40 | 18,60 |   |
+| CAIRO | 1-1-2020 | EGP | 2.627,00 | 210,05 | 350,10 | 560,15 | 26,25 |   |
+| **EL SALVADOR** |   |   |   |   |   |   |   |   |
+| SAN SALVADOR | 1-1-2020 | USD | 129,00 | 9,90 | 16,50 | 26,45 | 1,25 |   |
+| ELDERS | 1-1-2020 | USD | 69,00 | 7,00 | 11,65 | 18,65 | 0,85 |   |
+| **ESTLAND** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 106,00 | 14,85 | 24,75 | 39,55 | 1,85 |   |
+| **ETHIOPIE** |   |   |   |   |   |   |   |   |
+| ADDIS ABEBA (HILTON) | 1-1-2020 | ETB | 7.296,00 | 453,10 | 755,15 | 1.208,20 | 56,65 |   |
+| ELDERS | 1-1-2020 | ETB | 1.470,00 | 108,20 | 180,30 | 288,50 | 13,50 |   |
+| ADDIS ABEBA | 1-1-2020 | ETB | 3.270,00 | 283,70 | 472,80 | 756,50 | 35,45 |   |
+| **FILIPPIJNEN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 72,00 | 3,75 | 6,25 | 10,00 | 0,45 |   |
+| **FINLAND** |   |   |   |   |   |   |   |   |
+| HELSINKI | 1-1-2020 | EUR | 190,00 | 13,40 | 22,30 | 35,70 | 1,65 |   |
+| ELDERS | 1-1-2020 | EUR | 123,00 | 10,70 | 17,80 | 28,50 | 1,35 |   |
+| **FRANKRIJK** |   |   |   |   |   |   |   |   |
+| PARIJS | 1-1-2020 | EUR | 170,00 | 17,35 | 28,90 | 46,20 | 2,15 |   |
+| ELDERS | 1-1-2020 | EUR | 148,00 | 14,50 | 24,15 | 38,60 | 1,80 |   |
+| **FRANS GUYANA** |   |   |   |   |   |   |   |   |
+| CAYENNE | 1-1-2020 | EUR | 118,00 | 11,55 | 19,30 | 30,85 | 1,45 |   |
+| ELDERS | 1-1-2020 | EUR | 118,00 | 11,55 | 19,30 | 30,85 | 1,45 |   |
+| **GABON** |   |   |   |   |   |   |   |   |
+| LIBREVILLE | 1-1-2020 | USD | 172,00 | 16,85 | 28,10 | 44,95 | 2,10 |   |
+| ELDERS | 1-1-2020 | USD | 53,00 | 6,55 | 10,90 | 17,50 | 0,80 |   |
+| **GAMBIA** |   |   |   |   |   |   |   |   |
+| BANJUL | 1-1-2020 | USD | 143,00 | 7,10 | 11,80 | 18,90 | 0,90 |   |
+| ELDERS | 1-1-2020 | USD | 23,00 | 2,50 | 4,15 | 6,65 | 0,30 |   |
+| **GEORGIE** |   |   |   |   |   |   |   |   |
+| TBILISI | 1-1-2020 | GEL | 358,00 | 22,25 | 37,10 | 59,35 | 2,80 |   |
+| ELDERS | 1-1-2020 | GEL | 304,00 | 17,30 | 28,85 | 46,15 | 2,15 |   |
+| **GHANA** |   |   |   |   |   |   |   |   |
+| ACCRA | 1-1-2020 | USD | 153,00 | 9,10 | 15,15 | 24,20 | 1,15 |   |
+| ELDERS | 1-1-2020 | USD | 128,00 | 8,70 | 14,45 | 23,15 | 1,10 |   |
+| **GIBRALTAR** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 257,00 | 11,05 | 18,40 | 29,45 | 1,40 |   |
+| **GRIEKENLAND** |   |   |   |   |   |   |   |   |
+| ATHENE | 1-1-2020 | EUR | 144,00 | 12,00 | 20,00 | 32,05 | 1,50 |   |
+| ELDERS | 1-1-2020 | EUR | 72,00 | 6,75 | 11,25 | 18,00 | 0,85 |   |
+| **GROENLAND** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 214,00 | 20,10 | 33,50 | 53,65 | 2,50 |   |
+| **GUADELOUPE** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 118,00 | 11,55 | 19,30 | 30,85 | 1,45 |   |
+| **GUATEMALA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 54,00 | 4,70 | 7,85 | 12,55 | 0,60 |   |
+| **GUINEA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 69,00 | 5,75 | 9,55 | 15,30 | 0,70 |   |
+| **GUYANA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 45,00 | 7,10 | 11,85 | 18,95 | 0,90 |   |
+| **HAITI** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 87,00 | 6,40 | 10,65 | 17,10 | 0,80 |   |
+| PORT AU PRINCE | 1-1-2020 | USD | 149,00 | 11,40 | 19,00 | 30,40 | 1,45 |   |
+| **HONDURAS** |   |   |   |   |   |   |   |   |
+| TEGUCIGALPA | 1-1-2020 | USD | 130,00 | 8,40 | 14,00 | 22,45 | 1,05 |   |
+| ELDERS | 1-1-2020 | USD | 63,00 | 4,30 | 7,15 | 11,40 | 0,55 |   |
+| **HONG KONG** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | HKD | 1.642,00 | 89,25 | 148,75 | 238,00 | 11,15 |   |
+| **HONGARIJE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | HUF | 29.413,00 | 1.599,35 | 2.665,60 | 4.264,95 | 199,90 |   |
+| ALLE GEBIEDEN | 1-1-2020 | HUF | 29.413,00 | 1.599,35 | 2.665,60 | 4.264,95 | 199,90 |   |
+| BUDAPEST | 1-1-2020 | HUF | 53.550,00 | 3.472,10 | 5.786,80 | 9.258,90 | 434,00 |   |
+| BALATON | 1-1-2020 | HUF | 41.741,00 | 2.269,70 | 3.782,85 | 6.052,55 | 283,70 |   |
+| **IERLAND** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 185,00 | 13,05 | 21,75 | 34,80 | 1,65 |   |
+| **IJSLAND** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | ISK | 19.544,00 | 1.695,30 | 2.825,50 | 4.520,80 | 211,90 |   |
+| ALLE GEBIEDEN | 1-5-2020 | ISK | 28.098,00 | 1.821,80 | 3.036,35 | 4.858,20 | 227,75 |   |
+| **INDIA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | INR | 7.316,00 | 495,05 | 825,05 | 1.320,10 | 61,90 |   |
+| NEW DELHI | 1-1-2020 | INR | 9.300,00 | 629,30 | 1.048,80 | 1.678,10 | 78,65 |   |
+| NEW DELHI | 1-4-2020 | INR | 7.847,00 | 602,00 | 1.003,35 | 1.605,35 | 75,25 |   |
+| **INDONESIE** |   |   |   |   |   |   |   |   |
+| JAKARTA | 1-1-2020 | USD | 112,00 | 10,50 | 17,50 | 28,05 | 1,30 |   |
+| ELDERS | 1-1-2020 | USD | 55,00 | 5,20 | 8,65 | 13,80 | 0,65 |   |
+| **IRAK** |   |   |   |   |   |   |   |   |
+| BAGDAD | 1-1-2020 | USD | 133,00 | 10,65 | 17,75 | 28,45 | 1,35 |   |
+| ELDERS | 1-1-2020 | USD | 80,00 | 8,45 | 14,05 | 22,50 | 1,05 |   |
+| **IRAN** |   |   |   |   |   |   |   |   |
+| TEHERAN | 1-1-2020 | USD | 74,00 | 4,20 | 7,00 | 11,20 | 0,55 |   |
+| ELDERS | 1-1-2020 | USD | 42,00 | 2,95 | 4,95 | 7,90 | 0,35 |   |
+| **ISRAEL** |   |   |   |   |   |   |   |   |
+| TEL AVIV | 1-1-2020 | ILS | 904,00 | 51,40 | 85,70 | 137,15 | 6,45 |   |
+| JERUZALEM | 1-1-2020 | ILS | 572,00 | 43,90 | 73,20 | 117,10 | 5,50 |   |
+| HAIFA | 1-1-2020 | ILS | 668,00 | 43,30 | 72,15 | 115,45 | 5,40 |   |
+| **ITALIE** |   |   |   |   |   |   |   |   |
+| MILAAN EN PORTE ERCOLE | 1-1-2020 | EUR | 138,00 | 14,65 | 24,45 | 39,10 | 1,85 |   |
+| ROME | 1-1-2020 | EUR | 142,00 | 15,60 | 26,05 | 41,65 | 1,95 |   |
+| FLORENCE | 1-1-2020 | EUR | 136,00 | 10,90 | 18,15 | 29,05 | 1,35 |   |
+| VENETIE | 1-1-2020 | EUR | 158,00 | 18,20 | 30,30 | 48,50 | 2,25 |   |
+| ELDERS | 1-1-2020 | EUR | 89,00 | 7,70 | 12,85 | 20,60 | 0,95 |   |
+| NAPELS | 1-1-2020 | EUR | 162,00 | 13,50 | 22,45 | 35,95 | 1,70 |   |
+| BRESCIA | 1-1-2020 | EUR | 138,00 | 14,65 | 24,45 | 39,10 | 1,85 |   |
+| **IVOORKUST** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 50,00 | 5,80 | 9,65 | 15,45 | 0,70 |   |
+| **JAMAICA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 334,00 | 5,50 | 9,20 | 14,70 | 0,70 |   |
+| ELDERS | 16-4-2020 | USD | 310,00 | 5,10 | 8,50 | 13,60 | 0,65 |   |
+| KINGSTON | 1-1-2020 | USD | 221,00 | 12,00 | 20,05 | 32,05 | 1,50 |   |
+| **JAPAN** |   |   |   |   |   |   |   |   |
+| TOKYO | 1-1-2020 | JPY | 21.286,00 | 1.702,00 | 2.836,00 | 4.538,00 | 213,00 |   |
+| ELDERS | 1-1-2020 | JPY | 12.870,00 | 1.163,00 | 1.938,00 | 3.100,00 | 145,00 |   |
+| **JEMEN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 51,00 | 5,40 | 9,00 | 14,45 | 0,70 |   |
+| **JORDANIE** |   |   |   |   |   |   |   |   |
+| AMMAN | 1-1-2020 | JOD | 104,00 | 9,00 | 15,00 | 23,95 | 1,10 |   |
+| ELDERS | 1-1-2020 | JOD | 25,00 | 3,65 | 6,10 | 9,75 | 0,45 |   |
+| **KAAPVERDISCHE EIL.** |   |   |   |   |   |   |   |   |
+| PRAIA | 1-1-2020 | CVE | 10.450,00 | 1.153,70 | 1.922,80 | 3.076,50 | 144,20 |   |
+| ELDERS | 1-1-2020 | CVE | 5.699,00 | 905,40 | 1.509,00 | 2.414,35 | 113,15 |   |
+| **KAMEROEN** |   |   |   |   |   |   |   |   |
+| DOUALA | 1-1-2020 | USD | 102,00 | 8,85 | 14,75 | 23,60 | 1,10 |   |
+| ELDERS | 1-1-2020 | USD | 63,00 | 5,65 | 9,45 | 15,10 | 0,70 |   |
+| **KAZACHSTAN** |   |   |   |   |   |   |   |   |
+| ALMA ATA | 1-1-2020 | USD | 77,00 | 10,30 | 17,20 | 27,55 | 1,30 |   |
+| ELDERS | 1-1-2020 | USD | 51,00 | 5,65 | 9,40 | 15,00 | 0,70 |   |
+| **KENIA** |   |   |   |   |   |   |   |   |
+| MOMBASA | 1-1-2020 | KES | 16.008,00 | 264,10 | 440,15 | 704,20 | 33,00 |   |
+| ELDERS | 1-1-2020 | KES | 5.027,00 | 454,10 | 756,80 | 1.210,85 | 56,75 |   |
+| **KOEWEIT** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | KWD | 58,00 | 4,85 | 8,05 | 12,90 | 0,60 |   |
+| **KOREA (ZUID)** |   |   |   |   |   |   |   |   |
+| SEOUL | 1-1-2020 | USD | 192,00 | 12,40 | 20,70 | 33,10 | 1,55 |   |
+| ELDERS | 1-1-2020 | USD | 126,00 | 11,85 | 19,70 | 31,55 | 1,50 |   |
+| **KOSOVO** |   |   |   |   |   |   |   |   |
+| PRISTINA | 1-1-2020 | USD | 92,00 | 6,75 | 11,25 | 18,00 | 0,85 |   |
+| ELDERS | 1-1-2020 | USD | 60,00 | 5,40 | 9,05 | 14,45 | 0,70 |   |
+| **KROATIE** |   |   |   |   |   |   |   |   |
+| ZAGREB | 1-1-2020 | HRK | 745,00 | 82,25 | 137,10 | 219,35 | 10,30 |   |
+| ELDERS | 1-1-2020 | HRK | 683,00 | 59,25 | 98,75 | 158,05 | 7,40 |   |
+| **KYRGYZSTAN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | KGS | 2.385,00 | 168,35 | 280,60 | 448,95 | 21,05 |   |
+| **LETLAND** |   |   |   |   |   |   |   |   |
+| RIGA | 1-1-2020 | EUR | 110,00 | 9,50 | 15,85 | 25,40 | 1,20 |   |
+| ELDERS | 1-1-2020 | EUR | 67,00 | 7,15 | 11,90 | 19,05 | 0,90 |   |
+| **LIBANON** |   |   |   |   |   |   |   |   |
+| BEIROET | 1-1-2020 | USD | 162,00 | 9,25 | 15,40 | 24,60 | 1,15 |   |
+| ELDERS | 1-1-2020 | USD | 66,00 | 8,95 | 14,90 | 23,80 | 1,10 |   |
+| **LIBERIA** |   |   |   |   |   |   |   |   |
+| MONROVIA | 1-1-2020 | USD | 176,00 | 14,05 | 23,40 | 37,45 | 1,75 |   |
+| ELDERS | 1-1-2020 | USD | 56,00 | 4,30 | 7,15 | 11,45 | 0,55 |   |
+| **LIBIE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 108,00 | 7,60 | 12,70 | 20,30 | 0,95 |   |
+| **LITOUWEN** |   |   |   |   |   |   |   |   |
+| VILNIUS | 1-1-2020 | EUR | 117,00 | 8,60 | 14,35 | 22,95 | 1,10 |   |
+| ELDERS | 1-1-2020 | EUR | 79,00 | 5,80 | 9,65 | 15,45 | 0,70 |   |
+| **LUXEMBURG** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 200,00 | 14,10 | 23,55 | 37,65 | 1,75 |   |
+| **MAAGDENEILANDEN GBR** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN (UK) | 1-1-2020 | USD | 227,00 | 14,05 | 23,45 | 37,50 | 1,75 |   |
+| ALLE GEBIEDEN (UK) | 16-4-2020 | USD | 198,00 | 14,00 | 23,30 | 37,30 | 1,75 |   |
+| **MAAGDENEILANDEN USA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN (USA) | 1-1-2020 | USD | 371,00 | 17,55 | 29,25 | 46,80 | 2,20 |   |
+| ALLE GEBIEDEN (USA) | 1-5-2020 | USD | 244,00 | 15,15 | 25,25 | 40,40 | 1,90 |   |
+| **MADAGASCAR** |   |   |   |   |   |   |   |   |
+| ANTANANARIVO | 1-1-2020 | USD | 121,00 | 6,85 | 11,45 | 18,30 | 0,85 |   |
+| ELDERS | 1-1-2020 | USD | 34,00 | 3,45 | 5,75 | 9,20 | 0,45 |   |
+| **MALAWI** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 82,00 | 5,60 | 9,30 | 14,90 | 0,70 |   |
+| **MALEDIVEN** |   |   |   |   |   |   |   |   |
+| MALE | 1-1-2020 | USD | 158,00 | 8,60 | 14,35 | 22,95 | 1,05 |   |
+| ELDERS (ISLANDS) | 1-1-2020 | USD | 61,00 | 4,45 | 7,45 | 11,90 | 0,55 |   |
+| **MALEISIE OOST** |   |   |   |   |   |   |   |   |
+| KUALA LUMPUR | 1-1-2020 | MYR | 458,00 | 46,65 | 77,70 | 124,35 | 5,85 |   |
+| ELDERS | 1-1-2020 | MYR | 354,00 | 26,05 | 43,40 | 69,50 | 3,25 |   |
+| **MALI** |   |   |   |   |   |   |   |   |
+| BAMAKO | 1-1-2020 | USD | 109,00 | 12,50 | 20,85 | 33,35 | 1,55 |   |
+| ELDERS | 1-1-2020 | USD | 54,00 | 5,75 | 9,55 | 15,30 | 0,70 |   |
+| **MALTA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 167,00 | 12,30 | 20,55 | 32,85 | 1,55 |   |
+| **MAROKKO** |   |   |   |   |   |   |   |   |
+| CASABLANCA | 1-1-2020 | MAD | 1.380,00 | 101,55 | 169,30 | 270,85 | 12,70 |   |
+| RABAT | 1-1-2020 | MAD | 1.224,00 | 97,85 | 163,05 | 260,90 | 12,25 |   |
+| ELDERS | 1-1-2020 | MAD | 774,00 | 75,75 | 126,25 | 202,00 | 9,45 |   |
+| **MARTINIQUE** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 118,00 | 11,55 | 19,30 | 30,85 | 1,45 |   |
+| **MAURITANIE** |   |   |   |   |   |   |   |   |
+| NOUAKCHOTT | 1-1-2020 | USD | 112,00 | 7,60 | 12,65 | 20,25 | 0,95 |   |
+| NOUAKCHOTT HOTEL MONOTEL/HALIM | 1-1-2020 | USD | 142,00 | 10,85 | 18,10 | 28,95 | 1,35 |   |
+| NOUADHIBOU | 1-1-2020 | USD | 79,00 | 7,40 | 12,35 | 19,75 | 0,95 |   |
+| ELDERS | 1-1-2020 | USD | 49,00 | 4,60 | 7,70 | 12,30 | 0,60 |   |
+| **MAURITIUS** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 138,00 | 2,30 | 3,80 | 6,10 | 0,30 |   |
+| **MEXICO** |   |   |   |   |   |   |   |   |
+| MEXICO STAD | 1-1-2020 | MXN | 4.454,00 | 277,00 | 461,00 | 738,00 | 35,00 |   |
+| ELDERS | 1-1-2020 | MXN | 1.455,00 | 167,00 | 279,00 | 446,00 | 21,00 |   |
+| **MOLDAVIE** |   |   |   |   |   |   |   |   |
+| KISHINEV | 1-1-2020 | USD | 92,00 | 7,65 | 12,75 | 20,40 | 0,95 |   |
+| ELDERS | 1-1-2020 | USD | 67,00 | 5,60 | 9,35 | 14,95 | 0,70 |   |
+| **MONACO** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 202,00 | 11,00 | 18,35 | 29,35 | 1,40 |   |
+| **MONTENEGRO** |   |   |   |   |   |   |   |   |
+| PODGORICA | 1-1-2020 | EUR | 96,00 | 1,60 | 2,65 | 4,20 | 0,20 |   |
+| ELDERS | 1-1-2020 | EUR | 74,00 | 1,20 | 2,05 | 3,25 | 0,15 |   |
+| **MOZAMBIQUE** |   |   |   |   |   |   |   |   |
+| MAPUTO | 1-1-2020 | USD | 130,00 | 11,75 | 19,60 | 31,40 | 1,45 |   |
+| ELDERS | 1-1-2020 | USD | 72,00 | 11,00 | 18,35 | 29,35 | 1,40 |   |
+| **MYANMAR** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 46,00 | 3,25 | 5,40 | 8,60 | 0,40 |   |
+| NAYPYITAW | 1-1-2020 | USD | 46,00 | 6,00 | 10,05 | 16,05 | 0,75 |   |
+| **NAMIBIE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 39,00 | 3,95 | 6,60 | 10,60 | 0,50 |   |
+| **NEPAL** |   |   |   |   |   |   |   |   |
+| KATHMANDU | 1-1-2020 | USD | 112,00 | 7,25 | 12,10 | 19,40 | 0,90 |   |
+| ELDERS | 1-1-2020 | USD | 24,00 | 1,35 | 2,25 | 3,60 | 0,15 |   |
+| **NICARAGUA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 51,00 | 4,25 | 7,05 | 11,25 | 0,55 |   |
+| MANAGUA | 1-1-2020 | USD | 110,00 | 7,45 | 12,45 | 19,90 | 0,95 |   |
+| **NIEUW ZEELAND** |   |   |   |   |   |   |   |   |
+| AUCKLAND,CHRISTCH., WELLINGTON | 1-1-2020 | NZD | 253,00 | 21,90 | 36,50 | 58,40 | 2,75 |   |
+| ELDERS | 1-1-2020 | NZD | 221,00 | 19,90 | 33,20 | 53,10 | 2,50 |   |
+| **NIGER** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 64,00 | 9,05 | 15,05 | 24,05 | 1,15 |   |
+| **NIGERIA** |   |   |   |   |   |   |   |   |
+| ABUJA (SHERATON) | 1-1-2020 | NGN | 39.330,00 | 3.275,55 | 5.459,30 | 8.734,85 | 409,45 |   |
+| LAGOS(EKO,FED.PALACE) | 1-1-2020 | NGN | 47.190,00 | 2.805,25 | 4.675,45 | 7.480,70 | 350,65 |   |
+| ELDERS | 1-1-2020 | NGN | 14.884,00 | 1.050,55 | 1.750,95 | 2.801,50 | 131,30 |   |
+| **NOORD-MACEDONIE** |   |   |   |   |   |   |   |   |
+| SKOPJE | 1-1-2020 | MKD | 4.072,00 | 382,90 | 638,20 | 1.021,10 | 47,85 |   |
+| ELDERS | 1-1-2020 | MKD | 2.042,00 | 264,70 | 441,15 | 705,85 | 33,10 |   |
+| **NOORWEGEN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | NOK | 1.319,00 | 201,05 | 335,10 | 536,15 | 25,15 |   |
+| **OEGANDA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 42,00 | 2,70 | 4,50 | 7,20 | 0,35 |   |
+| ENTEBBE | 1-1-2020 | USD | 128,00 | 6,35 | 10,60 | 17,00 | 0,80 |   |
+| **OEKRAINE** |   |   |   |   |   |   |   |   |
+| KIEV | 1-1-2020 | USD | 106,00 | 8,85 | 14,70 | 23,55 | 1,10 |   |
+| ELDERS | 1-1-2020 | USD | 38,00 | 3,70 | 6,15 | 9,80 | 0,45 |   |
+| **OEZBEKISTAN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 33,00 | 2,55 | 4,20 | 6,75 | 0,30 |   |
+| **OMAN** |   |   |   |   |   |   |   |   |
+| MUSCAT | 1-1-2020 | OMR | 61,00 | 4,70 | 7,85 | 12,55 | 0,60 |   |
+| ELDERS | 1-1-2020 | OMR | 45,00 | 4,20 | 7,05 | 11,25 | 0,55 |   |
+| **OOSTENRIJK** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 110,00 | 16,05 | 26,75 | 42,80 | 2,00 |   |
+| **PAKISTAN** |   |   |   |   |   |   |   |   |
+| ISLAMABAD,RAWALPINDI | 1-1-2020 | PKR | 13.940,00 | 724,20 | 1.207,05 | 1.931,25 | 90,55 |   |
+| ELDERS | 1-1-2020 | PKR | 8.515,00 | 506,20 | 843,65 | 1.349,80 | 63,25 |   |
+| **PANAMA** |   |   |   |   |   |   |   |   |
+| PANAMA STAD | 1-1-2020 | PAB | 141,00 | 12,20 | 20,30 | 32,50 | 1,50 |   |
+| ELDERS | 1-1-2020 | PAB | 107,00 | 7,85 | 13,10 | 20,95 | 1,00 |   |
+| **PARAGUAY** |   |   |   |   |   |   |   |   |
+| ASUNCION | 1-1-2020 | USD | 99,00 | 10,50 | 17,50 | 28,00 | 1,30 |   |
+| CIUDAD DEL ESTE CASINO ACARAY | 1-1-2020 | USD | 110,00 | 5,45 | 9,05 | 14,50 | 0,70 |   |
+| ELDERS | 1-1-2020 | USD | 57,00 | 6,75 | 11,30 | 18,05 | 0,85 |   |
+| **PERU** |   |   |   |   |   |   |   |   |
+| LIMA | 1-1-2020 | PEN | 617,00 | 40,05 | 66,70 | 106,75 | 5,00 |   |
+| ELDERS | 1-1-2020 | PEN | 303,00 | 21,40 | 35,65 | 57,05 | 2,65 |   |
+| **POLEN** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | PLN | 579,00 | 34,40 | 57,30 | 91,70 | 4,30 |   |
+| WARSCHAU | 1-1-2020 | PLN | 604,00 | 42,65 | 71,05 | 113,65 | 5,35 |   |
+| **PORTUGAL** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | EUR | 80,00 | 8,15 | 13,60 | 21,75 | 1,00 |   |
+| LISSABON | 1-1-2020 | EUR | 156,00 | 12,95 | 21,60 | 34,55 | 1,60 |   |
+| **PUERTO RICO** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 286,00 | 14,85 | 24,80 | 39,65 | 1,85 |   |
+| ALLE GEBIEDEN | 1-5-2020 | USD | 179,00 | 13,75 | 22,95 | 36,70 | 1,70 |   |
+| **QATAR** |   |   |   |   |   |   |   |   |
+| DOHA | 1-1-2020 | USD | 207,00 | 14,60 | 24,35 | 38,90 | 1,80 |   |
+| **ROEMENIE** |   |   |   |   |   |   |   |   |
+| BOEKAREST | 1-1-2020 | RON | 676,00 | 40,20 | 67,00 | 107,15 | 5,00 |   |
+| ELDERS | 1-1-2020 | RON | 347,00 | 30,10 | 50,20 | 80,30 | 3,75 |   |
+| **RUSLAND** |   |   |   |   |   |   |   |   |
+| MOSKOU | 1-1-2020 | RUB | 10.187,00 | 719,05 | 1.198,40 | 1.917,45 | 89,90 |   |
+| SINT PETERSBURG | 1-1-2020 | RUB | 8.576,00 | 466,35 | 777,20 | 1.243,55 | 58,30 |   |
+| ELDERS | 1-1-2020 | RUB | 5.065,00 | 342,75 | 571,25 | 914,00 | 42,85 |   |
+| **RWANDA** |   |   |   |   |   |   |   |   |
+| KIGALI | 1-1-2020 | USD | 111,00 | 8,15 | 13,60 | 21,80 | 1,00 |   |
+| ELDERS | 1-1-2020 | USD | 52,00 | 3,40 | 5,65 | 9,05 | 0,40 |   |
+| **SAO TOME / PRINCIPE** |   |   |   |   |   |   |   |   |
+| SAO TOME | 1-1-2020 | USD | 89,00 | 8,65 | 14,45 | 23,10 | 1,10 |   |
+| PRINCIPE | 1-1-2020 | USD | 62,00 | 3,85 | 6,45 | 10,30 | 0,50 |   |
+| **SAOEDI-ARABIE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | SAR | 647,00 | 45,65 | 76,05 | 121,70 | 5,70 |   |
+| **SENEGAL** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 63,00 | 5,95 | 9,90 | 15,85 | 0,75 |   |
+| **SERVIE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 60,00 | 5,40 | 9,05 | 14,45 | 0,70 |   |
+| BELGRADO | 1-1-2020 | USD | 111,00 | 10,05 | 16,75 | 26,75 | 1,25 |   |
+| **SEYCHELLEN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | SCR | 2.230,00 | 209,75 | 349,55 | 559,30 | 26,20 |   |
+| **SIERRA LEONE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 50,00 | 4,20 | 6,95 | 11,15 | 0,50 |   |
+| **SINGAPORE** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | SGD | 335,00 | 22,65 | 37,75 | 60,40 | 2,85 |   |
+| **SINT MAARTEN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | ANG | 301,00 | 23,10 | 38,45 | 61,55 | 2,90 |   |
+| ALLE GEBIEDEN | 15-4-2020 | ANG | 258,00 | 22,40 | 37,30 | 59,70 | 2,80 |   |
+| **SLOVENIE** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | EUR | 140,00 | 10,30 | 17,15 | 27,45 | 1,30 |   |
+| **SLOWAKIJE** |   |   |   |   |   |   |   |   |
+| BRATISLAVA | 1-1-2020 | EUR | 123,00 | 9,40 | 15,70 | 25,10 | 1,20 |   |
+| ELDERS | 1-1-2020 | EUR | 89,00 | 6,55 | 10,90 | 17,45 | 0,80 |   |
+| **SOMALIE** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 43,00 | 3,55 | 5,95 | 9,50 | 0,45 |   |
+| **SPANJE** |   |   |   |   |   |   |   |   |
+| MADRID | 1-1-2020 | EUR | 146,00 | 13,15 | 21,95 | 35,10 | 1,65 |   |
+| BARCELONA | 1-1-2020 | EUR | 124,00 | 11,65 | 19,40 | 31,00 | 1,45 |   |
+| ELDERS | 1-1-2020 | EUR | 104,00 | 9,80 | 16,35 | 26,15 | 1,25 |   |
+| **SRI LANKA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | LKR | 12.214,00 | 826,45 | 1.377,40 | 2.203,90 | 103,30 |   |
+| KANDY | 1-1-2020 | LKR | 16.524,00 | 858,45 | 1.430,80 | 2.289,25 | 107,30 |   |
+| **ST. KITTS AND NEVIS** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 359,00 | 23,30 | 38,80 | 62,10 | 2,90 |   |
+| ALLE GEBIEDEN | 15-4-2020 | USD | 251,00 | 20,95 | 34,90 | 55,85 | 2,60 |   |
+| **ST. LUCIA** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 327,00 | 16,20 | 27,05 | 43,25 | 2,05 |   |
+| ALLE GEBIEDEN | 15-4-2020 | USD | 232,00 | 14,45 | 24,05 | 38,45 | 1,80 |   |
+| **ST.VINCENT-GRENADINE** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 220,00 | 19,10 | 31,80 | 50,90 | 2,40 |   |
+| ALLE GEBIEDEN | 15-4-2020 | USD | 172,00 | 18,25 | 30,40 | 48,60 | 2,30 |   |
+| **SUDAN** |   |   |   |   |   |   |   |   |
+| KHARTOUM | 1-1-2020 | USD | 96,00 | 7,65 | 12,75 | 20,40 | 0,95 |   |
+| ELDERS | 1-1-2020 | USD | 68,00 | 2,65 | 4,40 | 7,05 | 0,35 |   |
+| **SURINAME** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | SRD | 608,00 | 37,75 | 62,95 | 100,70 | 4,70 |   |
+| PARAMARIBO | 1-1-2020 | SRD | 921,00 | 65,00 | 108,35 | 173,35 | 8,15 |   |
+| **SYRIE** |   |   |   |   |   |   |   |   |
+| DAMASCUS | 1-1-2020 | SYP | 55.854,00 | 4.465,25 | 7.442,05 | 11.907,30 | 558,15 |   |
+| ELDERS | 1-1-2020 | SYP | 33.466,00 | 2.675,45 | 4.459,05 | 7.134,50 | 334,45 |   |
+| **TAIWAN** |   |   |   |   |   |   |   |   |
+| TAIPEH | 1-1-2020 | USD | 94,00 | 6,95 | 11,55 | 18,50 | 0,85 |   |
+| ELDERS | 1-1-2020 | USD | 94,00 | 6,95 | 11,55 | 18,50 | 0,85 |   |
+| **TAJIKISTAN** |   |   |   |   |   |   |   |   |
+| DUSHANBE | 1-1-2020 | USD | 112,00 | 6,40 | 10,65 | 17,00 | 0,80 |   |
+| ELDERS | 1-1-2020 | USD | 31,00 | 2,20 | 3,65 | 5,85 | 0,25 |   |
+| **TANZANIA** |   |   |   |   |   |   |   |   |
+| DAR ES SALAAM | 1-1-2020 | USD | 138,00 | 9,35 | 15,60 | 24,95 | 1,15 |   |
+| ELDERS | 1-1-2020 | USD | 59,00 | 4,70 | 7,80 | 12,50 | 0,60 |   |
+| **THAILAND** |   |   |   |   |   |   |   |   |
+| BANGKOK | 1-1-2020 | THB | 4.109,00 | 386,45 | 644,10 | 1.030,60 | 48,30 |   |
+| ELDERS | 1-1-2020 | THB | 2.117,00 | 199,05 | 331,80 | 530,85 | 24,90 |   |
+| **TOBAGO AND TRINIDAD** |   |   |   |   |   |   |   |   |
+| TOBAGO | 1-1-2020 | USD | 217,00 | 15,35 | 25,55 | 40,85 | 1,90 |   |
+| TOBAGO | 15-4-2020 | USD | 196,00 | 15,05 | 25,05 | 40,05 | 1,90 |   |
+| TRINIDAD | 1-1-2020 | USD | 192,00 | 15,95 | 26,60 | 42,55 | 2,00 |   |
+| **TOGO** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 54,00 | 4,70 | 7,85 | 12,55 | 0,60 |   |
+| **TSJECHIE** |   |   |   |   |   |   |   |   |
+| PRAAG | 1-1-2020 | CZK | 3.720,00 | 251,70 | 419,50 | 671,25 | 31,45 |   |
+| BRNO | 1-1-2020 | CZK | 2.982,00 | 185,20 | 308,70 | 493,90 | 23,15 |   |
+| ELDERS | 1-1-2020 | CZK | 1.953,00 | 126,65 | 211,05 | 337,70 | 15,85 |   |
+| CESKY KRUMLOV | 1-1-2020 | CZK | 2.664,00 | 196,05 | 326,80 | 522,85 | 24,50 |   |
+| **TUNESIE** |   |   |   |   |   |   |   |   |
+| TUNIS | 1-1-2020 | TND | 198,00 | 19,40 | 32,35 | 51,75 | 2,45 |   |
+| ELDERS | 1-1-2020 | TND | 211,00 | 3,50 | 5,80 | 9,30 | 0,45 |   |
+| **TURKIJE** |   |   |   |   |   |   |   |   |
+| ISTANBUL | 1-1-2020 | TRY | 745,00 | 64,60 | 107,70 | 172,30 | 8,10 |   |
+| ANTALYA | 1-1-2020 | TRY | 538,00 | 46,65 | 77,70 | 124,35 | 5,85 |   |
+| ANKARA | 1-1-2020 | TRY | 504,00 | 37,10 | 61,80 | 98,90 | 4,65 |   |
+| ELDERS | 1-1-2020 | TRY | 307,00 | 30,10 | 50,15 | 80,25 | 3,75 |   |
+| IZMIR | 1-1-2020 | TRY | 537,00 | 37,90 | 63,15 | 101,05 | 4,75 |   |
+| **TURKS CAICOS ISL.** |   |   |   |   |   |   |   |   |
+| GRAND TURK | 1-1-2020 | USD | 246,00 | 15,25 | 25,45 | 40,70 | 1,90 |   |
+| PROVIDENCIALES | 14-4-2020 | USD | 293,00 | 15,95 | 26,60 | 42,55 | 2,00 |   |
+| **URUGUAY** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 91,00 | 8,60 | 14,30 | 22,90 | 1,05 |   |
+| **VENEZUELA** |   |   |   |   |   |   |   |   |
+| CARACAS | 1-1-2020 | USD | 119,00 | 5,90 | 9,80 | 15,70 | 0,75 |   |
+| ELDERS | 1-1-2020 | USD | 46,00 | 6,20 | 10,30 | 16,50 | 0,75 |   |
+| **VER.ARAB.EMIR.** |   |   |   |   |   |   |   |   |
+| DUBAI | 1-1-2020 | AED | 893,00 | 60,40 | 100,70 | 161,10 | 7,55 |   |
+| ABU DHABI | 1-1-2020 | AED | 734,00 | 69,05 | 115,10 | 184,20 | 8,65 |   |
+| ELDERS | 1-1-2020 | AED | 814,00 | 62,45 | 104,10 | 166,55 | 7,80 |   |
+| **VERENIGD KONINKRIJK** |   |   |   |   |   |   |   |   |
+| LONDEN | 1-1-2020 | GBP | 208,00 | 12,35 | 20,60 | 32,95 | 1,55 |   |
+| ELDERS | 1-1-2020 | GBP | 170,00 | 10,55 | 17,60 | 28,20 | 1,30 |   |
+| **VERENIGDE STATEN** |   |   |   |   |   |   |   |   |
+| CHICAGO | 1-1-2020 | USD | 217,00 | 13,45 | 22,45 | 35,95 | 1,70 |   |
+| BOSTON | 1-1-2020 | USD | 253,00 | 15,70 | 26,15 | 41,85 | 1,95 |   |
+| SAN FRANCISCO | 1-1-2020 | USD | 266,00 | 13,20 | 21,95 | 35,15 | 1,65 |   |
+| LOS ANGELES | 1-1-2020 | USD | 246,00 | 13,95 | 23,25 | 37,25 | 1,75 |   |
+| HONOLULU | 1-1-2020 | USD | 262,00 | 13,60 | 22,65 | 36,25 | 1,70 |   |
+| PHILADELPHIA | 1-1-2020 | USD | 205,00 | 13,90 | 23,15 | 37,05 | 1,75 |   |
+| MIAMI | 1-1-2020 | USD | 212,00 | 12,60 | 21,00 | 33,60 | 1,55 |   |
+| ELDERS | 1-1-2020 | USD | 205,00 | 12,70 | 21,20 | 33,90 | 1,60 |   |
+| WASHINGTON DC, NORFOLK | 1-1-2020 | USD | 233,00 | 17,20 | 28,65 | 45,80 | 2,15 |   |
+| **VIETNAM** |   |   |   |   |   |   |   |   |
+| HANOI | 1-1-2020 | USD | 112,00 | 6,70 | 11,15 | 17,85 | 0,85 |   |
+| HO CHI MIN CITY | 1-1-2020 | USD | 106,00 | 6,60 | 11,00 | 17,60 | 0,80 |   |
+| ELDERS | 1-1-2020 | USD | 45,00 | 3,30 | 5,50 | 8,85 | 0,40 |   |
+| **WIT RUSLAND** |   |   |   |   |   |   |   |   |
+| MINSK | 1-1-2020 | USD | 129,00 | 13,20 | 22,00 | 35,20 | 1,65 |   |
+| ELDERS | 1-1-2020 | USD | 41,00 | 5,60 | 9,30 | 14,90 | 0,70 |   |
+| **ZAMBIA** |   |   |   |   |   |   |   |   |
+| ELDERS | 1-1-2020 | USD | 92,00 | 3,95 | 6,60 | 10,55 | 0,50 |   |
+| **ZIMBABWE** |   |   |   |   |   |   |   |   |
+| HARARE | 1-1-2020 | USD | 118,00 | 9,05 | 15,10 | 24,15 | 1,15 |   |
+| ELDERS | 1-1-2020 | USD | 81,00 | 6,25 | 10,40 | 16,65 | 0,80 |   |
+| **ZUID SUDAN** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | USD | 58,00 | 3,60 | 6,05 | 9,65 | 0,45 |   |
+| **ZUID-AFRIKA** |   |   |   |   |   |   |   |   |
+| KAAPSTAD | 1-1-2020 | ZAR | 1.983,00 | 117,85 | 196,40 | 314,25 | 14,75 |   |
+| JOHANNESBURG | 1-1-2020 | ZAR | 2.707,00 | 147,20 | 245,30 | 392,50 | 18,40 |   |
+| PRETORIA | 1-1-2020 | ZAR | 1.680,00 | 79,50 | 132,50 | 211,95 | 9,95 |   |
+| ELDERS | 1-1-2020 | ZAR | 921,00 | 65,00 | 108,35 | 173,35 | 8,15 |   |
+| **ZWEDEN** |   |   |   |   |   |   |   |   |
+| STOCKHOLM EN MALMO | 1-1-2020 | SEK | 2.332,00 | 126,80 | 211,30 | 338,10 | 15,85 |   |
+| ELDERS | 1-1-2020 | SEK | 1.827,00 | 118,45 | 197,45 | 315,90 | 14,80 |   |
+| **ZWITSERLAND** |   |   |   |   |   |   |   |   |
+| ALLE GEBIEDEN | 1-1-2020 | CHF | 232,00 | 15,70 | 26,15 | 41,85 | 1,95 |   |
 
 ### Vergoedingen (buitenland) DIDO Geldigheidsduur vanaf 1 januari 2018 tot 1 juli 2018
 
