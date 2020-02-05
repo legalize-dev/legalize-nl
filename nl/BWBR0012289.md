@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2019-12-03"
+last_updated: "2020-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -5779,23 +5779,23 @@ De IND beschouwt als bewijsmiddel waaruit een familierechtelijke relatie moet bl
 
 De IND verleent op grond van [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc met ingang van de datum waarop de aanvraag is ontvangen of zoveel later wanneer is aangetoond dat aan de voorwaarden wordt voldaan. De IND verleent de verblijfsvergunning voor de duur van 5 jaar.
 
-### 3.2. Voorwaarden voor verlening van de verblijfsvergunning
+### 1. Inleiding
 
-In dit hoofdstuk is de Terugtrekkingsregeling verblijfsrecht VK-onderdanen en familieleden (verder: de Terugtrekkingsregeling) opgenomen. De Terugtrekkingsregeling bevat beleidsregels om het verblijfsrecht van VK-onderdanen en hun familieleden na de terugtrekking van het VK uit de EU te regelen indien hierover geen akkoord wordt gesloten tussen het VK en de EU. Wanneer de terugtrekking van het VK uit de EU niet plaatsvindt of niet op de wijze zoals in de Terugtrekkingsregeling bedoeld, wordt deze Terugtrekkingsregeling ingetrokken.
+Vanwege de terugtrekking van het Verenigd Koninkrijk (VK) uit de Europese Unie (EU) zijn onderdanen van het VK (hierna: VK-onderdanen) na 31 januari 2020 geen burgers van de Unie meer. De EU en het VK hebben een terugtrekkingsakkoord1Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and te European Energy Community, as agreed at negotiators’ level on 12 november 2019 bereikt, dat is geratificeerd door het VK en goedgekeurd door het Europees Parlement. In dit hoofdstuk wordt beschreven hoe Nederland het terugtrekkingsakkoord uitvoert ten behoeve van de beoordeling van de verblijfsaanspraken en de daarmee verband houdende afgifte van verblijfsdocumenten.
 
-Vanwege de voorgenomen terugtrekking van het VK uit de EU is voorzienbaar dat onderdanen van het Verenigd Koninkrijk (hierna: VK-onderdanen) vanaf dat moment geen burgers van de Unie meer zijn. Het (declaratoire) verblijfsrecht van VK-onderdanen en hun (derdelands) familieleden (verder te noemen: familieleden) die hun recht op vrij verkeer in Nederland uitoefenen zal per datum terugtrekking komen te vervallen.
+Nu de terugtrekking van het VK uit de EU op basis van een terugtrekkingsakkoord plaatsvindt, worden onder gelijktijdige publicatie van dit WBV de eerder gepubliceerde WBV’s 2019/6 (Nr. 20182, 9 april 2019) en 2019/17 (Nr. 57960, 28 oktober 2019) ingetrokken. Deze laatstgenoemde WBV’s zagen immers op een situatie waarbij het VK zich uit de EU zou terugtrekken zonder terugtrekkingsakkoord.
 
 ### 4.2. Contra-indicaties
 
-De Terugtrekkingsregeling bevat een overgangsregeling en een definitieve regeling. Deze regelingen gelden voor VK-onderdanen en hun familieleden, die op de datum van terugtrekking van het VK uit de EU rechtmatig verblijf in Nederland hebben op grond van de regels voor het recht op vrij verkeer en verblijf ([richtlijn 2004/38/EG](32004L0038)).
+Het terugtrekkingsakkoord biedt lidstaten op grond van artikel 19, eerste lid de mogelijkheid om gedurende de overgangsperiode een procedure in te stellen voor het aanvragen van een nieuwe verblijfsstatus en een document ter staving van deze status. Nederland maakt gebruik van deze mogelijkheid. De termijn waarbinnen de VK-onderdaan en zijn familielid een aanvraag voor een nieuwe verblijfstatus kan indienen is vermeld in paragraaf B13/2.3 Vc bij het onderdeel ‘aanvraagprocedure’.
 
 ### 4.1. Voorwaarden voor verlening van een verblijfsvergunning voor onbepaalde tijd
 
-De nieuwe overgangsperiode start op 31 oktober 2019 en eindigt op 31 januari 2021.
+De IND verstaat onder familieleden van de VK-onderdaan: familieleden als bedoeld en omschreven in artikel 9 en 10 van het terugtrekkingsakkoord en uitgewerkt in [artikel 8.7 van het Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), ongeacht hun nationaliteit.
 
 ### 4.2. Contra-indicaties
 
-Omwille van een ordentelijke afhandeling is de IND reeds vóór 31 oktober 2019 gestart met het ambtshalve beoordelen en versturen van deze nieuwe verblijfsvergunningen.
+Familieleden van VK-onderdanen als bedoeld in artikel 10, eerste lid, onder e ii, en artikel 10, derde en vierde lid van het terugtrekkingsakkoord hebben het recht om hun verblijf na 31 december 2020 aan te vangen. Voor de overige in artikel 10 van het terugtrekkingsakkoord vermelde familieleden geldt dat in het geval zij hun verblijf na 31 december 2020 aanvangen het algemene reguliere beleid van hoofdstuk B1 Vc van toepassing is.
 
 ### 2.2.1. Oud-Nederlanders die geboren en getogen zijn in Nederland
 
@@ -5803,9 +5803,9 @@ Tijdens de nationale overgangsperiode nodigt de IND deze VK-onderdanen en hun fa
 
 Kinderen van VK-onderdanen of familieleden die tijdens de overgangsregeling in Nederland worden geboren komen voor een verblijfsvergunning als bedoeld in paragraaf B13/2.1 en B13/3.1 Vc in aanmerking, mits één van de ouders in het bezit is van een verblijfsvergunning op grond van de Terugtrekkingsregeling.
 
-VK-onderdanen die niet op 31 oktober 2019 rechtmatig in Nederland verblijven kunnen geen aanspraak maken op de voorwaarden voor verblijf van zowel de overgangsregeling als de definitieve regeling. Er is bij deze VK-onderdanen geen sprake van opgebouwde rechten in Nederland op grond van de regels van het recht op vrij verkeer en verblijf ([richtlijn 2004/38/EG](32004L0038)). Zij zijn derdelanders op wie het algemene reguliere beleid van hoofdstuk B1 Vc van toepassing is.
+De IND verleent een verblijfsdocument op grond van artikel 18 en 19 van het terugtrekkingsakkoord aan de VK-onderdaan en zijn familielid:
 
-De IND verstaat onder familieleden van de VK-onderdaan: familieleden als bedoeld in [artikel 8.7, tweede, derde en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), ongeacht hun nationaliteit, tenzij anders vermeld.
+Ad a en b.
 
 ### 2. Overgangsregeling
 
@@ -5813,141 +5813,141 @@ De IND verstaat onder familieleden van de VK-onderdaan: familieleden als bedoeld
 
 De IND verleent ambtshalve een verblijfsvergunning op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), in de vorm van een schriftelijke verklaring als bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) (hier verder te noemen: verblijfsvergunning) aan de VK-onderdaan en zijn familielid:
 
-Ad a en b.
-
-Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 31 oktober 2019 wonen. De IND neemt aan dat sprake is van rechtmatig verblijf indien er op het moment van verlenen geen concrete indicaties aanwezig zijn dat op 31 oktober 2019 niet meer aan de voorwaarden wordt voldaan. Ambtshalve verlening kan zowel (kort) vóór als na 31 oktober 2019 plaatsvinden.
-
-Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
-
-Met deze verblijfsvergunning hebben de VK-onderdaan en zijn familielid rechtmatig verblijf in Nederland gedurende de nationale overgangsperiode.
-
-De VK-onderdaan en zijn familielid kunnen hun verblijfsrecht enkel aantonen door deze verblijfsvergunning te gebruiken in combinatie met een geldig document voor grensoverschrijding. Het familielid dat niet de EU nationaliteit heeft moet daarnaast, in combinatie met een geldig document voor grensoverschrijding, het (verlopen) EU verblijfsdocument tonen dat eerder als bewijs van EU toetsing voor verblijf bij EU burger is afgegeven om zijn verblijfsrecht aan te tonen.
-
-Op deze wijze is het in het maatschappelijk verkeer en in het kader van grenstoezicht duidelijk dat het hier een familielid van een (voormalig) EU burger betreft.
-
-### 2.2. Contra-indicaties
-
-De IND verleent geen verblijfsvergunning als bedoeld in paragraaf B13/2.1 Vc als bij de VK-onderdaan of een familielid sprake is van één van de volgende contra-indicaties:
+De IND verleent geen verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc als bij de VK-onderdaan of een familielid sprake is van een van de volgende contra-indicaties, genoemd in artikel 20 van het terugtrekkingsakkoord:
 
 Ad a.
 
-Het openbare orde criterium van paragraaf B10/2.3 Vc is hier van toepassing, tenzij een misdrijf is gepleegd na 31 oktober 2019. Ten aanzien van het na 31 oktober 2019 gepleegde misdrijf, gelden de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
+**Gevaar voor de openbare orde en de openbare veiligheid**
 
-Er wordt alleen aan de bepalingen inzake eerste toelating getoetst als niet aan de in [artikel 3.82 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.82) bedoelde termijn wordt voldaan.
+Op grond van artikel 20, eerste lid van het terugtrekkingsakkoord gelden, voor misdrijven gepleegd tot en met 31 december 2020 de bepalingen van hoofdstuk 6 van [richtlijn 2004/38/EG](32004L0038). Dit houdt in dat op deze misdrijven het openbare orde criterium van paragraaf B10/2.3 Vc van toepassing is.
 
-De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
+Ten aanzien van na 31 december 2020 gepleegde misdrijven, gelden op grond van artikel 20, tweede lid van het terugtrekkingsakkoord de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
 
-De IND verleent evenmin een verblijfsvergunning indien er concrete aanwijzingen zijn dat de VK-onderdaan of het familielid een gevaar vormen voor de nationale veiligheid. De beleidsregels van paragraaf B1/4.4 Vc zijn in dat geval van toepassing.
+De IND verleent evenmin een verblijfsdocument indien er concrete aanwijzingen zijn dat de VK-onderdaan of het familielid overeenkomstig artikel 27 van de [richtlijn 2004/38/EG](32004L0038) een gevaar vormt voor de nationale veiligheid (zie paragraaf B1/4.4 Vc).
 
-In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan, noch aan het familielid een verblijfsvergunning. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsvergunning verleend.
+### 2.2. Contra-indicaties
+
+De IND verleent voorts geen verblijfsdocument als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde of de openbare veiligheid, ongeacht de pleegdatum.
+
+De IND voert op grond van artikel 18, eerste lid onder p van het terugtrekkingsakkoord systematisch controles ten aanzien van openbare orde uit bij de beoordeling van aanvragen voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc om te bezien of de beperkingen van artikel 20 van het terugtrekkingsakkoord van toepassing zijn.
 
 Ad b.
 
-Houders van een verblijfsvergunning regulier of asiel voor onbepaalde tijd hebben rechtmatig verblijf in Nederland voor onbepaalde tijd. Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning te verlenen op grond van de overgangsregeling van de Terugtrekkingsregeling. Deze contra-indicatie geldt uitsluitend voor de houder van deze verblijfsvergunning.
+De bepalingen van B10/2.3 Vc onder het kopje Rechtsmisbruik en fraude zijn hier van toepassing.
 
-Ad c.
+De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
+
+De IND stuurt gedurende de periode van 1 februari 2020 tot 1 juli 2021 een uitnodigingsbrief aan de VK-onderdaan en zijn familielid die op 31 januari 2020 of tijdens de overgangsperiode in de BRP staan geregistreerd en rechtmatig verblijf hebben. In deze brief nodigt de IND de VK-onderdaan en zijn familielid uit om een aanvraag in te dienen voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc.
+
+De IND stuurt geen uitnodigingsbrief naar de VK-onderdaan en zijn familielid,
+
+in het geval:
+
+Daarnaast ontvangt het familielid dat in het bezit is van een EU-nationaliteit evenmin een uitnodigingsbrief.
+
+De reden dat zij geen uitnodigingsbrief ontvangen is gelegen in het feit dat zij voor de voortzetting van hun rechtmatig verblijf niet genoodzaakt zijn om een beroep te doen op het terugtrekkingsakkoord. Wel kunnen zij op eigen initiatief een aanvraag indienen voor verblijfsrecht op grond van het terugtrekkingsakkoord.
 
 ### 2.2.4.2. Bij de aanvraag over te leggen bescheiden
 
-De VK-onderdaan en zijn familielid die geen verblijfsvergunning van de IND hebben ontvangen maar van mening zijn dat zij hier wel recht op hebben, kunnen dit binnen de overgangsperiode schriftelijk melden bij de IND. Op basis van deze schriftelijke melding komen deze VK-onderdaan en zijn familielid alsnog in aanmerking voor ambtshalve beoordeling. De IND verleent een verblijfsvergunning, indien aan de voorwaarden genoemd in paragraaf B13/2.1 Vc wordt voldaan. Als niet aan deze voorwaarden wordt voldaan stuurt de IND ambtshalve een beschikking waarin gemotiveerd wordt aangegeven aan welke voorwaarde(n) niet wordt voldaan.
+Op grond van artikel 18, eerste lid onder b, eerste alinea, van het terugtrekkingsakkoord kunnen de VK-onderdaan en zijn familielid die vóór het einde van de overgangsperiode naar Nederland zijn gekomen ook daarna nog een aanvraag indienen. De VK-onderdaan en zijn familielid heeft in dat geval de gelegenheid om tot uiterlijk 30 juni 2021 (zes maanden na het einde van de overgangsperiode) een aanvraag voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc in te dienen.
 
 ### 2.3. Vergunning regulier onbepaalde tijd
 
-De VK-onderdaan en zijn familielid die geen verblijfsvergunning van de IND hebben ontvangen maar van mening zijn dat zij hier wel recht op hebben, kunnen dit binnen de overgangsperiode schriftelijk melden bij de IND. Op basis van deze schriftelijke melding komen deze VK-onderdaan en zijn familielid alsnog in aanmerking voor ambtshalve beoordeling. De IND verleent een verblijfsvergunning, indien aan de voorwaarden genoemd in paragraaf B13/2.1 Vc wordt voldaan. Als niet aan deze voorwaarden wordt voldaan stuurt de IND ambtshalve een beschikking waarin gemotiveerd wordt aangegeven aan welke voorwaarde(n) niet wordt voldaan.
+Indien de VK-onderdaan en zijn familielid voor het einde van de overgangsperiode in Nederland verbleven en na 30 juni 2021 een aanvraag indienen, toetst de IND op grond van artikel 18, eerste lid onder d van het terugtrekkingsakkoord of er verschoonbare redenen aanwezig zijn waarom de aanvraag niet binnen de termijn is ingediend. De IND betrekt bij de beoordeling of sprake is van een verschoonbare termijnoverschrijding alle relevante feiten en omstandigheden. Pas als de IND concludeert dat de aanvraag verschoonbaar te laat is ingediend, wordt aan de voorwaarden van B13/2.1 Vc getoetst.
 
-Tegen deze beschikking en ook tegen de ontvangst van de verblijfsvergunning kan bezwaar worden gemaakt.
+Voor de personen die het recht hebben om hun verblijf na 31 december 2020 aan te vangen en die hun aanvraag niet tijdig indienen geldt eveneens dat de IND op grond van artikel 18, eerste lid onder d van het terugtrekkingsakkoord toetst of er verschoonbare redenen zijn waarom de aanvraag niet binnen de termijn is ingediend.
 
-De IND verleent de verblijfsvergunning onder de beperking ‘cf. beschikking Staatssecretaris’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’.
+De IND verleent het verblijfsdocument onder verwijzing naar het terugtrekkingsakkoord. Op het verblijfsdocument wordt vermeld: ‘Residence document Withdrawal Agreement’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist. Een (meer dan aanvullend) beroep op algemene middelen kan gevolgen hebben voor uw verblijfsrecht’.
 
-De IND verleent de verblijfsvergunning met ingang van 31 oktober 2019 tot en met 31 januari 2021.
+De IND verleent het verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc met ingang van de dag waarop op de aanvraag is beslist. De IND verleent het verblijfsdocument voor de duur van 5 jaar.
 
 Het rechtmatig verblijf op grond van de verblijfsvergunning als bedoeld in paragraaf B13/2.1 Vc betreft een niet-tijdelijk verblijfsrecht als bedoeld in [artikel 3.5, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
-Indien na de verlening van de verblijfsvergunning zich nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing.
+De IND trekt het verblijfsrecht als bedoeld in paragraaf B13/2.1 Vc met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van het verblijfsdocument, zoals omschreven in paragraaf B10/2.3 Vc.
 
-De IND trekt de verblijfsvergunning met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt, terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van de verblijfsvergunning, zoals omschreven in paragraaf B10/2.3 Vc.
+De IND trekt het verblijfsrecht van de VK-onderdaan en zijn familielid voorts in, indien de VK-onderdaan of het familielid een gevaar voor de openbare orde vormt als bedoeld in artikel 20 van het terugtrekkingsakkoord.
 
-Indien na de verlening van de verblijfsvergunning zich nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing.
+Indien zich na de verlening, maar vóór het einde van de overgangsperiode, nieuwe omstandigheden voordoen op grond waarvan het verblijfsrecht kan worden ingetrokken, zijn de bepalingen van Hoofdstuk VI van [richtlijn 2004/38/EG](32004L0038) van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór of op 31 december 2020 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf ná 31 december 2020 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
 
-### 3.1. Voorwaarden voor verlening van een verblijfsvergunning voor bepaalde tijd
-
-De IND verleent een verblijfsvergunning voor bepaalde tijd op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) aan de VK-onderdaan en zijn familielid:
-
-De IND verleent een verblijfsvergunning indien de VK-onderdaan en zijn familielid voldoen aan de voorwaarden van de overgangsregeling en daarnaast bij de beoordeling voldoen aan de beleidsregels van paragraaf B10/2 Vc en de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10) (afgezien van de bepalingen die zien op duurzaam verblijfsrecht).
+### 3. Aanvraagprocedure terugtrekkingsakkoord duurzaam verblijfsrecht
 
 De IND verleent een verblijfsvergunning voor bepaalde tijd op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) aan de VK-onderdaan en zijn familielid:
 
-De IND verleent een verblijfsvergunning indien de VK-onderdaan en zijn familielid voldoen aan de voorwaarden van de overgangsregeling en daarnaast bij de beoordeling voldoen aan de beleidsregels van paragraaf B10/2 Vc en de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10) (afgezien van de bepalingen die zien op duurzaam verblijfsrecht).
+De IND verleent een verblijfsdocument voor duurzaam verblijf op grond van artikel 18 en 19 van het terugtrekkingsakkoord aan de VK-onderdaan en zijn familielid:
+
+Ad a en b.
+
+De IND verstrekt een verblijfsdocument indien de VK-onderdaan en zijn familielid voor duurzaam verblijfsrecht op grond van artikel 15 van het terugtrekkingsakkoord in aanmerking komen en derhalve voldoen aan de artikelen 16, 17 en 18 van de [richtlijn 2004/38/EG](32004L0038), nader uitgewerkt in de [artikelen 8.17 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17) en de beleidsregels als bedoeld in het deel van paragraaf B10/2 Vc. dat ziet op de artikelen 8.17 t/m 8.25 Vb.
 
 ### 2.2.2.2. Bij de aanvraag over te leggen bescheiden
 
-De bepalingen van paragraaf B1/4.2 Vc zijn hier van toepassing.
+In het geval na toetsing blijkt dat de VK-onderdaan of het familielid niet voldoen aan de criteria van artikel 15, eerste lid van het terugtrekkingsakkoord toetst de IND ambtshalve door aan de voorwaarden voor verlening van een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc.
 
-### 2.2.3. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder d en f, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
+### 3.2. Contra-indicaties
 
-In dat geval kunnen de familieleden een machtiging tot voorlopig verblijf (mvv) aanvragen voor een verblijfsvergunning voor bepaalde tijd op grond van de definitieve regeling.
+De IND verleent geen verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc als er sprake is van één van de volgende contra-indicaties:
 
-De voorwaarden van paragraaf B13/3.1 Vc, onder a, b, c, en e zijn op hen niet van toepassing.
+Ad a.
 
-Familieleden die na de overgangsperiode een aanvraag voor een (mvv voor een) verblijfsvergunning voor gezinshereniging indienen moeten voldoen aan de voorwaarden van het nationale gezinsherenigingsbeleid van hoofdstuk B7 Vc.
+**Gevaar voor de openbare orde en de nationale veiligheid**
 
-Het openbare orde criterium van paragraaf B10/2.3 Vc is hier van toepassing, tenzij een misdrijf is gepleegd na 31 oktober 2019. Ten aanzien van het na 31 oktober 2019 gepleegde misdrijf, gelden de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
+Op grond van artikel 20, eerste lid van het terugtrekkingsakkoord gelden, voor misdrijven gepleegd tot en met 31 december 2020 de bepalingen van hoofdstuk 6 van [richtlijn 2004/38/EG](32004L0038). Dit houdt in dat op deze misdrijven het openbare orde criterium van paragraaf B10/2.3 Vc van toepassing is.
 
 ### 3.2.2. Vergunning regulier onbepaalde tijd
 
 ### 2.2.3.2. Bij de aanvraag over te leggen bescheiden
 
-Er wordt alleen aan de bepalingen inzake eerste toelating getoetst als niet aan de in [artikel 3.82 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.82) bedoelde termijn wordt voldaan.
+In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan, noch aan het familielid een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsdocument verleend.
 
 ### 2.2.4. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-De IND verleent evenmin een verblijfsvergunning indien er concrete aanwijzingen zijn dat de VK-onderdaan en/of het familielid een gevaar vormen voor de nationale veiligheid. De beleidsregels van paragraaf B1/4.4 Vc zijn in dat geval van toepassing.
+De IND voert op grond van artikel 18, eerste lid onder p van het terugtrekkingsakkoord systematisch controles ten aanzien van openbare orde uit bij de beoordeling van aanvragen voor een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc om te bezien of de beperkingen van artikel 20 van het terugtrekkingsakkoord van toepassing zijn.
 
-In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan noch aan het familielid een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsvergunning verleend.
+Ad b.
 
 ### 3.3. Procedurele bepalingen
 
 ### 4. Vergunning regulier bepaalde tijd terugkeeroptie (minderjarigen)
 
-De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van de uitnodigingsbrief van de IND.
+De uitwerking van [richtlijn 2004/38/EG](32004L0038) in [artikel 8.18, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18) is hier van toepassing.
 
-### 4.1. Verblijfsvoorwaarden
+### 3.3. Houders van een EU document duurzaam verblijf
 
-De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van de uitnodigingsbrief van de IND.
+De IND wisselt kosteloos het bestaande verblijfsdocument EU duurzaam als bedoeld in artikel 16 van [richtlijn 2004/38/EG](32004L0038) om voor een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc aan VK-onderdanen en hun familieleden die op 31 december 2020 in het bezit zijn van een EU-document duurzaam verblijf als bedoeld in artikel 18, eerste lid onder h van het terugtrekkingsakkoord na:
 
 Een familielid van een VK-onderdaan die buiten Nederland verblijft, kan in de overgangsperiode een mvv aanvragen. De behandeling van een mvv-aanvraag vindt plaats door middel van de TEV (Toegang en verblijf) procedure.
 
-Indien bij de toetsing van de mvv-aanvraag blijkt dat wordt voldaan aan de in het onderdeel ‘gezinshereniging’ van paragraaf B13/3.1 Vc vermelde voorwaarden, machtigt de IND de diplomatieke of consulaire vertegenwoordiging om een mvv af te geven voor inreis naar Nederland. In Nederland wordt vervolgens het verblijfsdocument in persoon aan het familielid uitgereikt.
+De IND stuurt gedurende de periode van 1 februari 2020 tot 1 juli 2021 een uitnodigingsbrief aan de VK-onderdaan en zijn familielid die op 31 januari 2020 of tijdens de overgangsperiode 5 jaar of langer in de BRP staan geregistreerd. In deze brief nodigt de IND de VK-onderdaan en zijn familielid uit om een aanvraag in te dienen voor een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc. Deze procedure geldt niet voor de kosteloze omwisseling als bedoeld in paragraaf B13/3.3 Vc.
 
 ### 4.2. Bij de aanvraag over te leggen bescheiden
 
-De IND verleent op grond van [artikel 26, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=26) de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc met ingang van de datum waarop de aanvraag is ontvangen of zoveel later wanneer is aangetoond dat aan de voorwaarden wordt voldaan. De IND verleent de verblijfsvergunning voor de duur van 5 jaar.
+De IND stuurt geen uitnodigingsbrief naar de VK-onderdaan en zijn familielid,
 
-Het rechtmatig verblijf op grond van de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc betreft een niet-tijdelijk verblijfsrecht als bedoeld in [artikel 3.5, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
+in het geval:
 
 ### 3.4. Intrekking van de verblijfsvergunning
 
-De IND trekt de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van de verblijfsvergunning, zoals omschreven in paragraaf B10/2.3 Vc.
+De reden dat zij geen uitnodigingsbrief ontvangen is gelegen in het feit dat zij voor de voortzetting van hun rechtmatig verblijf niet genoodzaakt zijn om een beroep te doen op het terugtrekkingsakkoord. Wel kunnen zij op eigen initiatief een aanvraag indienen voor verblijfsrecht op grond van het terugtrekkingsakkoord.
 
-Indien zich na de verlening van de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór of op 31 oktober 2019 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf na 31 oktober 2019 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
+Daarnaast ontvangt het familielid dat in het bezit is van een EU-nationaliteit evenmin een uitnodigingsbrief.
 
 ### 4. Definitieve regeling voor onbepaalde tijd
 
-Dit beleid laat de aanspraken op een verblijfsvergunning regulier voor onbepaalde tijd op grond van hoofdstuk B12 Vc of een EU-verblijfsvergunning voor langdurig ingezetenen onverlet.
+De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc, zodat zij na de overgangsperiode een bewijs van rechtmatig verblijf hebben. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van de uitnodigingsbrief van de IND. Deze procedure geldt niet voor de kosteloze omwisseling als bedoeld in paragraaf B13/3.3 Vc.
 
-De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de VK-onderdaan en zijn familielid:
+Op grond van artikel 18, eerste lid onder b, eerste alinea, van het terugtrekkingsakkoord kunnen de VK-onderdaan en zijn familielid die vóór het einde van de overgangsperiode naar Nederland zijn gekomen, ook daarna nog een aanvraag indienen. De VK-onderdaan en zijn familielid hebben in dat geval de gelegenheid om tot uiterlijk 30 juni 2021 (zes maanden na het einde van de overgangsperiode) een aanvraag voor een verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc in te dienen.
 
 ### 3.2. Verblijfsrechtelijke positie na remigratie
 
 ### 3.2.1. Vergunning regulier bepaalde tijd voor wedertoelating
 
-De IND houdt bij de beoordeling of sprake is van een ononderbroken periode van vijf jaar rechtmatig verblijf rekening met de periode van het rechtmatig verblijf op grond van [richtlijn 2004/38/EG](32004L0038) tot 31 oktober 2019 en met opgebouwd verblijfsrecht op grond van deze terugtrekkingsregeling.
+De IND verleent het verblijfsdocument als bedoeld in paragraaf B13/3.1 Vc met ingang van de dag waarop de aanvraag is beslist. De IND verleent het verblijfsdocument voor de duur van 10 jaar.
 
 Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 31 oktober 2019 wonen. Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
 
 ### 4.2. Contra-indicaties
 
-Tijdens de overgangsperiode komen derdelander familieleden van VK-onderdanen die buiten Nederland verblijven in aanmerking voor een verblijfsvergunning voor bepaalde tijd indien zij voldoen aan de voorwaarden zoals opgenomen in paragraaf B13/3.1 Vc, onder het kopje **Gezinshereniging.**
+Indien na de verlening zich tijdens de overgangsperiode nieuwe omstandigheden voordoen op grond waarvan het verblijfsrecht kan worden ingetrokken, zijn de bepalingen van Hoofdstuk VI van [richtlijn 2004/38/EG](32004L0038) van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór of op 31 december 2020 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf ná 31 december 2020 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
 
 Het openbare orde criterium van B10/2.3 Vc en [artikel 8.18, sub b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18) is hier van toepassing tenzij sprake is van een misdrijf gepleegd na 31 oktober 2019. In dat geval is ten aanzien van dat misdrijf het nationale openbare orde criterium van paragraaf B12/2.4 Vc van toepassing.
 
@@ -10125,23 +10125,23 @@ De IND beschouwt een verklaring van het Ministerie van BuZa waaruit blijkt dat d
 
 Als het afhankelijke gezinslid van de ex-geprivilegieerde niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan, dan beschouwt de IND een verklaring van de ex-geprivilegieerde waaruit blijkt dat het afhankelijke gezinslid kan beschikken over het inkomen als bewijsmiddel dat het afhankelijke gezinslid zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.
 
-### B13. Terugtrekkingsregeling verblijfsrecht VK-onderdanen en familieleden
+### B13. Verblijfsrecht VK-onderdanen en hun familieleden
 
 Dit beleidskader is opgesteld naar aanleiding van de voorgenomen terugtrekking van het Verenigd Koninkrijk (VK) uit de EU, zonder dat hierover een akkoord tussen het VK en de EU wordt gesloten. De voorziene datum van terugtrekking was 29 maart 2019. Op 29 maart 2019 heeft deze voorgenomen terugtrekking echter niet plaatsgevonden. Momenteel is 31 oktober 2019 de datum waarop terugtrekking van het VK uit de EU is voorzien. Over het moment en de wijze waarop de terugtrekking zal plaatsvinden is op dit moment nog niets definitief besloten. Dit geeft aanleiding de Terugtrekkingsregeling te handhaven totdat hierover meer duidelijkheid is. Wel is de regeling geactualiseerd en gecorrigeerd, waarbij ‘terugtrekking’ – waar relevant – vervangen is door 31 oktober 2019. Dit is de datum waarop de nieuwe nationale overgangsperiode aanvangt. De IND verleent op grond van dit geactualiseerde beleidskader met ingang van 31 oktober 2019 nieuwe tijdelijke verblijfsvergunningen indien aan de voorwaarden van paragraaf B13/2.1 Vc wordt voldaan. De huidige actualisering laat de geldigheid van reeds verleende vergunningen onverlet.
 
 ### 2.2.1.1. Verblijfsvoorwaarden
 
-In dit hoofdstuk is de Terugtrekkingsregeling verblijfsrecht VK-onderdanen en familieleden (verder: de Terugtrekkingsregeling) opgenomen. De Terugtrekkingsregeling bevat beleidsregels om het verblijfsrecht van VK-onderdanen en hun familieleden na de terugtrekking van het VK uit de EU te regelen indien hierover geen akkoord wordt gesloten tussen het VK en de EU. Wanneer de terugtrekking van het VK uit de EU niet plaatsvindt of niet op de wijze zoals in de Terugtrekkingsregeling bedoeld, wordt deze Terugtrekkingsregeling ingetrokken.
+Onderdeel van het terugtrekkingsakkoord is een overgangsperiode. De overgangsperiode gaat in op 31 januari 2020 en eindigt vooralsnog op 31 december 2020. Tijdens deze overgangsperiode behouden VK-onderdanen en hun familieleden die vóór 31 januari 2020 in Nederland woonden, het recht om te verblijven, werken en studeren, binnen de kaders van de [richtlijn 2004/38/EG](32004L0038). VK-onderdanen en hun familieleden die ten tijde van de terugtrekking niet in Nederland woonden kunnen tevens tijdens de overgangsperiode Nederland inreizen en rechtmatig in Nederland verblijven indien aan de voorwaarden van [richtlijn 2004/38/EG](32004L0038) wordt voldaan.
 
-Zij behouden in dat geval gedurende deze nationale overgangsperiode hun rechten op verblijf, studie en werken in Nederland.
+VK-onderdanen die na 31 december 2020 naar Nederland komen en hier willen verblijven kunnen geen aanspraak maken op een verblijfsstatus op grond van het terugtrekkingsakkoord. Zij zijn derdelanders op wie het algemene reguliere beleid van hoofdstuk B1 Vc van toepassing is.
 
 ### 3.3.1. Aanmelding en plaats van indiening van de aanvraag
 
 ### 2. Overgangsregeling
 
-De IND verleent ambtshalve een verblijfsvergunning op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), in de vorm van een schriftelijke verklaring als bedoeld in [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) (hier verder te noemen: verblijfsvergunning) aan de VK-onderdaan en zijn familielid:
+De IND verstrekt een verblijfsdocument indien de VK-onderdaan en zijn familielid voor verblijfsrecht op grond van artikel 13 van het terugtrekkingsakkoord in aanmerking komen en derhalve voldoen aan de artikelen 6, 7 en 14 van de [richtlijn 2004/38/EG](32004L0038). Voornoemde artikelen zijn nader uitgewerkt in de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10) (afgezien van de bepalingen die zien op duurzaam verblijfsrecht) en de beleidsregels die zien op het recht van de EU, als bedoeld in het deel van paragraaf B10/2 Vc. dat ziet op de artikelen 8.7 t/m 8.25 Vb.
 
-Ad a en b.
+Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit met alle bewijsmiddelen aantonen.
 
 ### 4.3. Duurzaam verblijf
 
@@ -10149,19 +10149,19 @@ Ad a en b.
 
 ### 4.5. Intrekking van de verblijfsvergunning
 
-Ad a.
+In het geval er enkel bij de VK-onderdaan sprake is van deze contra-indicatie verleent de IND, gelet op het afhankelijke karakter van het verblijfsrecht, noch aan de VK-onderdaan, noch aan het familielid een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc. In het geval er enkel bij het familielid sprake is van deze contra-indicatie, wordt uitsluitend aan dat familielid geen verblijfsdocument verleend.
 
 ### 4.3. Duurzaam verblijf
 
 ### 4.4. Procedurele bepalingen
 
-### 2.2.4.1. Verblijfsvoorwaarden
+### 2.3. Procedurele bepalingen
 
 ### 3. Remigratie en terugkeeroptie (op grond van [artikel 8 Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8))
 
-VK-onderdanen of hun familieleden blijven in dit geval als EU/EER-onderdaan verblijfsrecht ontlenen aan [richtlijn 2004/38/EG](32004L0038). Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning te verlenen op grond van de overgangsregeling van de Terugtrekkingsregeling.
+De VK-onderdaan en zijn familielid moeten een aanvraag indienen om in aanmerking te komen voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc, zodat zij na de overgangsperiode een bewijs van rechtmatig verblijf hebben. De VK-onderdaan en zijn familielid dienen de aanvraag in na ontvangst van de uitnodigingsbrief van de IND.
 
-De IND verstuurt de verblijfsvergunning in de vorm van een schriftelijke verklaring naar het adres waar de VK-onderdaan en zijn familielid in de BRP staan ingeschreven.
+Personen, als bedoeld in artikel 10, eerste lid, onder e ii en artikel 10, derde en vierde lid, van het terugtrekkingsakkoord die het recht hebben hun verblijf na 31 december 2020 aan te vangen hebben op grond van artikel 18, eerste lid onder b, tweede alinea, van het terugtrekkingsakkoord het recht een aanvraag voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc in te dienen uiterlijk drie maanden na hun inreis maar in ieder geval altijd tot 30 juni 2021.
 
 ### 2.1. Algemeen
 
@@ -10171,21 +10171,21 @@ In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepl
 
 ### 3.2.1.2. Bij de aanvraag over te leggen bescheiden
 
-De IND verleent geen verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc als bij de VK-onderdaan of een familielid sprake is van een van de volgende contra-indicaties:
+Ten aanzien van na 31 december 2020 gepleegde misdrijven, gelden op grond van artikel 20, tweede lid van het terugtrekkingsakkoord de nationale openbare orde bepalingen.
 
-Het openbare orde criterium van paragraaf B10/2.3 Vc is hier van toepassing, tenzij een misdrijf is gepleegd na 31 oktober 2019. Ten aanzien van het na 31 oktober 2019 gepleegde misdrijf, gelden de nationale openbare orde bepalingen. Afhankelijk van de voorafgaande verblijfssituatie, betekent dat:
+De IND verleent evenmin een verblijfsdocument indien er concrete aanwijzingen zijn dat de VK-onderdaan of het familielid op grond van artikel 27 van de [richtlijn 2004/38/EG](32004L0038) een gevaar vormt voor de nationale veiligheid als bedoeld in paragraaf B1/4.4 Vc.
 
 ### 3.2.2.2. Bij de aanvraag over te leggen bescheiden
 
-Houders van een verblijfsvergunning regulier of asiel voor onbepaalde tijd hebben rechtmatig verblijf in Nederland voor onbepaalde tijd. Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning voor bepaalde tijd te verlenen op grond van de definitieve regeling van de Terugtrekkingsregeling. Deze contra-indicatie geldt uitsluitend voor de houder van deze verblijfsvergunning.
+De bepalingen van B10/2.3 Vc onder het kopje Rechtsmisbruik en fraude zijn hier van toepassing.
 
-VK-onderdanen of hun familieleden blijven in dit geval als EU/EER-onderdaan verblijfsrecht ontlenen aan [richtlijn 2004/38/EG](32004L0038). Gelet op de aard van dit verblijfsrecht, bestaat er geen aanleiding om in dit geval een verblijfsvergunning voor bepaalde tijd te verlenen op grond van de definitieve regeling van de Terugtrekkingsregeling.
+Ad c.
 
 De IND stuurt tijdens de overgangsperiode een uitnodigingsbrief aan de VK-onderdaan en zijn familielid die voldoen aan de voorwaarden van paragraaf B13/2.1 Vc en aan wie ambtshalve een verblijfsvergunning is verstrekt. In deze brief nodigt de IND de VK-onderdaan en zijn familielid uit om een aanvraag in te dienen voor een verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc.
 
 ### 11.1. Verblijfsvoorwaarden
 
-Dit beleid laat de aanspraken op een verblijfsvergunning regulier voor onbepaalde tijd op grond van hoofdstuk B12 Vc of een EU-verblijfsvergunning voor langdurig ingezetenen onverlet.
+Indien de VK-onderdaan en zijn familielid voor het einde van de overgangsperiode in Nederland verbleven en na 30 juni 2021 een aanvraag indienen, toetst de IND op grond van artikel 18, eerste lid onder d van het terugtrekkingsakkoord of er verschoonbare redenen aanwezig zijn waarom de aanvraag niet binnen de termijn is ingediend. De IND betrekt bij de beoordeling of sprake is van een verschoonbare termijnoverschrijding alle relevante feiten en omstandigheden. Pas als de IND concludeert dat de aanvraag verschoonbaar te laat is ingediend, wordt aan de voorwaarden van B13/3.1 Vc getoetst.
 
 ### 3.2.2. Vergunning regulier onbepaalde tijd
 
@@ -11969,13 +11969,13 @@ De IND wijst deze aanvraag niet af als de vreemdeling:
 
 De IND verleent een verblijfsvergunning voor onbepaalde tijd aan het afhankelijk gezinslid van een ex-geprivilegieerde als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en wordt voldaan aan [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), artikel 3.93, derde lid, Vb en [artikel 3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93).
 
-De IND verleent ambtshalve, gedurende een nationale overgangsperiode, een verblijfsvergunning aan VK-onderdanen en hun familieleden die op 31 oktober 2019 in Nederland rechtmatig verblijf hebben, onder de in paragraaf B13/2.1 Vc genoemde voorwaarden.
+Tot het einde van de overgangsperiode kunnen de VK-onderdaan en zijn familielid volstaan met een geldig document voor grensoverschrijding om hun recht om binnen de EU te mogen verblijven en reizen aan te tonen. De IND nodigt de VK-onderdaan en zijn familielid al tijdens de overgangsperiode uit om een aanvraag in te dienen om zo de afwikkeling van het terugtrekkingsakkoord ordentelijk te laten verlopen. Tijdens de overgangsperiode beoordeelt de IND of de VK-onderdaan en zijn familielid op grond van het terugtrekkingsakkoord in aanmerking komt voor:
 
 ### 2.1. Algemeen
 
-Voor zover de situatie zich voordoet dat de terugtrekking niet doorgaat dan wel niet op de wijze zoals in de Terugtrekkingsregeling beschreven, en de Terugtrekkingsregeling om die reden wordt ingetrokken, geldt het volgende. In dat geval is duidelijk dat reeds verleende verblijfsvergunningen hun betekenis hebben verloren. De VK-onderdaan en zijn familieleden hebben de aan hen verleende verblijfsvergunning in dat geval ook niet nodig om te voorzien in hun verblijfsrecht. In dat geval wordt rechtstreeks verblijfsrecht ontleend aan [richtlijn 2004/38/EG](32004L0038).
+Kinderen van VK-onderdanen of familieleden die na de overgangsperiode worden geboren of wettelijk geadopteerd komen voor een verblijfsdocument als bedoeld in paragraaf B13/2.1 Vc in aanmerking, mits één van de ouders in het bezit is van een verblijfsdocument op grond van artikel 18 en 19 van het terugtrekkingsakkoord.
 
-### 2. Overgangsregeling
+### 2. Aanvraagprocedure terugtrekkingsakkoord verblijfsrecht korter dan vijf jaar
 
 ### 5. Grensarbeiders
 
@@ -11989,7 +11989,7 @@ Voor zover de situatie zich voordoet dat de terugtrekking niet doorgaat dan wel 
 
 ### 3. Definitieve regeling voor bepaalde tijd
 
-### 3. Definitieve regeling voor bepaalde tijd
+### 3.1. Voorwaarden voor verlening van een verblijfsdocument voor duurzaam verblijf
 
 ### 2.2.2.1. Verblijfsvoorwaarden
 
@@ -11997,19 +11997,19 @@ Voor zover de situatie zich voordoet dat de terugtrekking niet doorgaat dan wel 
 
 ### 3.2. Contra-indicaties
 
-### 2.3.1. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, d of f, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
+### 3.4. Procedurele bepalingen
 
 ### 3. Remigratie en terugkeeroptie (op grond van [artikel 8 Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8))
 
-Indien zich na de verlening van de verblijfsvergunning als bedoeld in paragraaf B13/3.1 Vc nieuwe omstandigheden voordoen op grond waarvan de verblijfsvergunning kan worden ingetrokken, zijn de intrekkingsgronden van paragraaf B1/6 Vc van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór of op 31 oktober 2019 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf na 31 oktober 2019 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
+Daarnaast ontvangt het familielid dat in het bezit is van een EU-nationaliteit evenmin een uitnodigingsbrief.
 
 ### 4. Definitieve regeling voor onbepaalde tijd
 
-De IND verleent een verblijfsvergunning indien de VK-onderdaan en zijn familielid voldoen aan de voorwaarden van de overgangsregeling en daarnaast bij de beoordeling voldoen aan de beleidsregels van paragraaf B10/2 Vc en de [artikelen 8.7 t/m 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10).
+De IND verleent het verblijfsdocument onder verwijzing naar het terugtrekkingsakkoord. Op het verblijfsdocument wordt vermeld: ‘Permanent residence document Withdrawal Agreement’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’.
 
-### 5.2. Bij de aanvraag over te leggen bescheiden
+### 3.5. Intrekking van het verblijfsrecht
 
-Wanneer de VK-onderdaan of zijn familielid nog niet in de overgangsperiode aan de voorwaarde genoemd onder c voldoet maar de termijn van vijf jaar daarna pas gehaald wordt, is de voorwaarde genoemd onder d niet van toepassing.
+De IND trekt het verblijfsrecht van de VK-onderdaan en zijn familielid in, indien de intrekkingsgronden van artikel 20 van het terugtrekkingsakkoord van toepassing zijn. De IND trekt voorts op grond van artikel 15, lid 3 van het terugtrekkingsakkoord het verblijfsrecht in bij afwezigheid uit Nederland van een periode van meer dan vijf jaar. De IND trekt het verblijfsrecht als bedoeld in paragraaf B13/3.1 Vc met terugwerkende kracht in, in geval van rechtsmisbruik of indien er onjuiste gegevens zijn verstrekt terwijl bekendheid met de juiste gegevens zou hebben geleid tot weigering van het verblijfsdocument, zoals omschreven in paragraaf B10/2.3 Vc.
 
 ### 6. Beoordeling openbare orde
 
@@ -12759,7 +12759,7 @@ De IND verstuurt de verblijfsvergunning in de vorm van een schriftelijke verklar
 
 ### 2.1. Voorwaarden voor verblijf
 
-### 4.4. Procedurele bepalingen
+### 2.2. Contra-indicaties
 
 ### 1. Inleiding
 
@@ -12767,17 +12767,17 @@ De IND verstuurt de verblijfsvergunning in de vorm van een schriftelijke verklar
 
 ### 2.2.1.1. Verblijfsvoorwaarden
 
-Wanneer de VK-onderdaan en zijn familielid zijn ingeschreven in de BRP neemt de IND aan dat zij hier op 31 oktober 2019 wonen. Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit ook met andere bewijsmiddelen aantonen.
+Op grond van de vrije bewijsleer kunnen de VK-onderdaan en zijn familielid dit met alle bewijsmiddelen aantonen.
 
 Tijdens de overgangsperiode komen derdelander familieleden van VK-onderdanen die buiten Nederland verblijven in aanmerking voor een verblijfsvergunning voor bepaalde tijd als bedoeld in paragraaf B13/3.1 Vc, indien:
 
 ### 6. Beoordeling openbare orde
 
-De IND verleent voorts geen verblijfsvergunning als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde.
+De IND verleent voorts geen verblijfsdocument als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde, ongeacht de pleegdatum.
 
 ### 2.2.4.1. Verblijfsvoorwaarden
 
-De IND verleent de verblijfsvergunning onder de beperking ‘cf. beschikking Staatssecretaris’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’. Op het verblijfsdocument wordt vermeld: ‘verblijf onder beperking cf. beschikking Staatssecretaris, ivm artikel 50 VEU’. Arbeid vrij toegestaan. TWV niet vereist’. Een beroep op algemene middelen kan gevolgen hebben voor uw verblijfsrecht’.
+De IND stuurt na 30 juni 2021 geen uitnodigingsbrieven meer. Indien eerst na de overgangsperiode de termijn van 5 jaar volloopt, kan zonder uitnodiging een aanvraag worden ingediend voor toetsing aan een verblijfsdocument duurzaam.
 
 ### 3.4. Intrekking van de verblijfsvergunning
 
@@ -13363,11 +13363,11 @@ De IND beschouwt ‘het model machtigingsformulier student RWTH’, onderdeel va
 
 ### 1. Inleiding
 
-### 2.1. Voorwaarden voor verblijf
+### 2.1. Voorwaarden voor verlening van een verblijfsdocument
 
 ### 4. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-### 2.2. Vergunning regulier bepaalde tijd wedertoelating
+### 2.4. Intrekking van het verblijfsrecht
 
 ### 3.3. Procedurele bepalingen
 
@@ -13645,7 +13645,7 @@ Indien de asielaanvraag is ontvangen vóór 1 januari 2000 kan de verblijfsvergu
 
 ### 3.2. Contra-indicaties
 
-De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de VK-onderdaan en zijn familielid:
+De reden dat zij geen uitnodigingsbrief ontvangen is gelegen in het feit dat zij voor de voortzetting van hun rechtmatig verblijf niet genoodzaakt zijn om een beroep te doen op het terugtrekkingsakkoord. Wel kunnen zij op eigen initiatief een aanvraag indienen voor verblijfsrecht op grond van het terugtrekkingsakkoord.
 
 ### 3.2.1.1. Verblijfsvoorwaarden
 
