@@ -4,7 +4,7 @@ identifier: "BWBR0041518"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041518"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als deel van een net, bedoeld in [artikel 22a, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=22a), worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&bijlage=1&z=2019-01-01&g=2019-01-01) bij dit besluit opgenomen delen aangewezen.
+1. Als deel van een net, bedoeld in [artikel 22a, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=22a), worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&bijlage=1&z=2020-02-11&g=2020-02-11) bij dit besluit opgenomen delen aangewezen.
 
-2. Als deel van een net, bedoeld in [artikel 22a, zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=22a), wordt het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&bijlage=2&z=2019-01-01&g=2019-01-01) bij dit besluit opgenomen deel aangewezen.
+2. Als deel van een net, bedoeld in [artikel 22a, zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=22a), wordt het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&bijlage=2&z=2020-02-11&g=2020-02-11) bij dit besluit opgenomen deel aangewezen.
 
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2019.
 
-## Bijlage 1. Aangewezen delen van netten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&artikel=1&z=2019-01-01&g=2019-01-01)
+## Bijlage 1. Aangewezen delen van netten als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&artikel=1&z=2020-02-11&g=2020-02-11)
 
 | **Gemeente** | **Andere gemeenten** | **Benaming tracé** | **Lijn code** | **Kv** | **Beheerder** | **Van mastnummer of station** | **Van code** | **Tot mastnummer of station** | **Tot code** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,6 +59,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2019.
 | Amersfoort | Bunschoten | Bunschoten – Soest | BSTN-SOS | 150 | TenneT | 83 | BSTN-SOS-150-83 | 87 | BSTN-SOS-150-87 |
 | Apeldoorn |   | Apeldoorn – Kattenberg | APD-KBG | 150 | TenneT | Station Apeldoorn | APD | 140 | APD-KBG-150-140 |
 | Apeldoorn |   | Apeldoorn – Woudhuis | APD-WHS | 150 | TenneT | Station Apeldoorn | APD | 21 | APD-WHS-150-21 |
+| Apeldoorn |   | Woudhuis – Apeldoorn Laan van Zodiak | WHS-ALZ | 150 | TenneT | 209 | WHS-HTH-150-209 | 215 | WHS-HTH-150-215 |
 | Arnhem |   | Kattenberg – Elst | KGB-ELT | 150 | TenneT | 61 | KBG-ELT-150-61 | 67 | KBG-ELT-150-67 |
 | Assen |   | Zeyerveen – Marsdijk | ZYV-MAK | 110 | TenneT | Station Marsdijk | MAK | 11 | ZYV-MAK-110-11 |
 | Best |   | Tilburg – Best | TBN-BT | 150 | TenneT | 22 | TBN-BT-150-22 | 34 | TBN-BT-150-34 |
@@ -96,7 +97,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2019.
 | Maastricht |   | Schoonbron – Limmel | SBRN-LIMM | 150 | TenneT | Station Limmel | LIMM | 80 | SBRN-LIMM-150-80 |
 | Meppel |   | Meppel – Steenwijk | MP-SW | 110 | TenneT | 11 | MP-SW-110-11 | 15 | MP-SW-110-15 |
 | Midden-Groningen |   | Kropswolde – Menterwolde Daaleweg | KWD-MTWD | 110 | TenneT | 36 | KWD-MTWD-110-36 | 42 | KWD-MTWD-110-42 |
-| Nieuwegein |   | Lage Weide – Driebergen | ULW-ODR-NIWG / NIWG-DB | 150 | TenneT | 18 | ODR-NIWG-150 018 | 26 | ODR-NIWG-150 026 |
+| Nieuwegein |   | Lage Weide – Driebergen | ULW-ODR-NIWG / NIWG-DB | 150 | TenneT | 18 | ODR-NIWG-150-018 | 27 | ODR-NIWG-150-027 |
 | Nissewaard |   | Rotterdam Waalhaven – Geervliet | RTW-GVN | 150 | TenneT | 22 | RTW-GVN-150-22 | 26 | RTW-GVN-150-26 |
 | Nissewaard |   | Rotterdam Waalhaven – Geervliet | RTW-GVN | 150 | TenneT | 32 | RTW-GVN-150-32 | 35 | RTW-GVN-150-35 |
 | Oegstgeest | Teylingen, Leiden | Leiden – Sassenheim | LD-SS | 150 | TenneT | Station Leiden | LD | 11 | LD-SS-150-11 |
@@ -135,7 +136,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2019.
 | Zutphen |   | Woudhuis – Zutphen | WHS-ZP | 150 | TenneT | Station Zutphen | ZP | 43 | WHS-ZP-150-43 |
 | Zutphen |   | Lochem – Zutphen | LC-ZP | 150 | TenneT | Station Zutphen | ZP | 4 | LC-ZP-150-4 |
 
-## Bijlage 2. Aangewezen delen van netten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&artikel=1&z=2019-01-01&g=2019-01-01)
+## Bijlage 2. Aangewezen delen van netten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&artikel=1&z=2020-02-11&g=2020-02-11)
 
 | **Gemeente** | **Andere gemeenten** | **Benaming tracé** | **Lijn code** | **Kv** | **Beheerder** | **Van mastnummer of station** | **Van code** | **Tot mastnummer of station** | **Tot code** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
