@@ -4,7 +4,7 @@ identifier: "BWBR0004582"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-13"
-last_updated: "2012-01-01"
+last_updated: "2020-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004582"
 soort: "AMvB"
@@ -51,7 +51,7 @@ Vastgesteld worden de volgende bepalingen, die kunnen worden aangehaald als: Bes
 
 ##### Artikel 1
 
-Onze Minister wijst, ter uitvoering van [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5), een rechtspersoon met volledige rechtsbevoegdheid aan, die krachtens zijn doelstelling tot taak heeft algemene voorlichting te verstrekken aan aspirant-adoptiefouders die een verzoek tot verlening van een beginseltoestemming hebben ingediend.
+Onze Minister wijst, ter uitvoering van [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5), een rechtspersoon met volledige rechtsbevoegdheid aan, die krachtens zijn doelstelling tot taak heeft algemene voorlichting te verstrekken aan aspirant-adoptiefouders die een verzoek tot verlening van een beginseltoestemming hebben ingediend, hierna te noemen: aangewezen rechtspersoon.
 
 ##### Artikel 2
 
@@ -71,47 +71,47 @@ De aan te wijzen rechtspersoon moet aan de volgende eisen voldoen:
 
 ##### Artikel 3
 
-1. Onze Minister kan de op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2012-01-01&g=2012-01-01) gedane aanwijzing intrekken indien de aangewezen rechtspersoon naar zijn oordeel niet langer voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=2&z=2012-01-01&g=2012-01-01) genoemde eisen.
+1. Onze Minister kan de op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2020-02-13&g=2020-02-13) gedane aanwijzing intrekken indien de aangewezen rechtspersoon naar zijn oordeel niet langer voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=2&z=2020-02-13&g=2020-02-13) genoemde eisen.
 
-2. De in het eerste lid bedoelde intrekking vindt plaats onder gelijktijdige voorziening door Onze Minister in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2012-01-01&g=2012-01-01) bedoelde taak.
+2. De in het eerste lid bedoelde intrekking vindt plaats onder gelijktijdige voorziening door Onze Minister in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2020-02-13&g=2020-02-13) bedoelde taak.
 
 ##### Artikel 4
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2012-01-01&g=2012-01-01) bedoelde rechtspersoon verricht zijn taak onder de naam Stichting adoptievoorzieningen.
+Vervallen
 
 ##### Artikel 5
 
-Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de statuten te wijzigen of de Stichting adoptievoorzieningen te ontbinden.
+Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de statuten te wijzigen of de aangewezen rechtspersoon te ontbinden.
 
 ##### Artikel 6
 
-1. Behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2012-01-01&g=2012-01-01) wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders. De algemene voorlichting wordt gegeven gedurende zes bijeenkomsten, waarvan de eerste inleidend is.
+1. Behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13) wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders. De algemene voorlichting wordt gegeven gedurende zes bijeenkomsten, waarvan de eerste inleidend is.
 
 2. Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 210,– voor de inleidende bijeenkomst en € 1.385,– voor vijf daaropvolgende bijeenkomsten tezamen.
 
-3. De Stichting adoptievoorzieningen int de in het eerste lid bedoelde bijdragen.
+3. De aangewezen rechtspersoon int de in het eerste lid bedoelde bijdragen.
 
 4. Omtrent de geïnde bedragen wordt maandelijks aan Onze Minister een opgave verstrekt.
 
 ##### Artikel 7
 
-De Stichting adoptievoorzieningen zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar ter goedkeuring aan Onze Minister. De begroting is voorzien van een toelichting en gaat vergezeld van een beschrijving van de wijze waarop de Stichting adoptievoorzieningen zich voorneemt zijn werkzaamheden in het komende boekjaar te verrichten. De begroting geeft inzicht in de aard en de omvang van de baten en lasten van de Stichting adoptievoorzieningen. De begroting kan vergezeld gaan van een aanvraag om subsidie ter tegemoetkoming in de kosten van de Stichting adoptievoorzieningen.
+De aangewezen rechtspersoon zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar ter goedkeuring aan Onze Minister. De begroting is voorzien van een toelichting en gaat vergezeld van een beschrijving van de wijze waarop de aangewezen rechtspersoon zich voorneemt zijn werkzaamheden in het komende boekjaar te verrichten. De begroting geeft inzicht in de aard en de omvang van de baten en lasten van de aangewezen rechtspersoon. De begroting kan vergezeld gaan van een aanvraag om subsidie ter tegemoetkoming in de kosten van de aangewezen rechtspersoon.
 
 ##### Artikel 8
 
-Onze Minister kan een subsidie verlenen ter tegemoetkoming in de kosten van de Stichting adoptievoorzieningen, indien de voor het begrotingsjaar voorziene baten aanmerkelijk achterblijven bij de lasten. De beschikking wordt voor 1 januari van het jaar waarvoor de subsidie is aangevraagd bekendgemaakt.
+Onze Minister kan een subsidie verlenen ter tegemoetkoming in de kosten van de aangewezen rechtspersoon, indien de voor het begrotingsjaar voorziene baten aanmerkelijk achterblijven bij de lasten. De beschikking wordt voor 1 januari van het jaar waarvoor de subsidie is aangevraagd bekendgemaakt.
 
 ##### Artikel 9
 
-Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2012-01-01&g=2012-01-01), kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van de Stichting adoptievoorzieningen.
+Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13), kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van de aangewezen rechtspersoon.
 
 ##### Artikel 10
 
-1. De Stichting adoptievoorzieningen verstrekt Onze Minister alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
+1. De aangewezen rechtspersoon verstrekt Onze Minister alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
 
-2. De Stichting adoptievoorzieningen zendt jaarlijks binnen vier maanden na afloop van het boekjaar aan Onze Minister een balans en een exploitatierekening alsmede een verslag van zijn werkzaamheden over het afgelopen boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+2. De aangewezen rechtspersoon zendt jaarlijks binnen vier maanden na afloop van het boekjaar aan Onze Minister een balans en een exploitatierekening alsmede een verslag van zijn werkzaamheden over het afgelopen boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-3. Na ontvangst van de bescheiden als bedoeld in het tweede lid, wordt, indien subsidie was verleend, de subsidie vastgesteld overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2012-01-01&g=2012-01-01), en met inachtneming van de aanpassingen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=9&z=2012-01-01&g=2012-01-01). Subsidiebaten mogen tot een door Onze Minister vast te stellen maximum worden gereserveerd door opneming als risicofonds op de balans. De in het fonds opgenomen subsidiebaten dienen te worden bestemd ter bekostiging van de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2012-01-01&g=2012-01-01) omschreven taak.
+3. Na ontvangst van de bescheiden als bedoeld in het tweede lid, wordt, indien subsidie was verleend, de subsidie vastgesteld overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13), en met inachtneming van de aanpassingen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=9&z=2020-02-13&g=2020-02-13). Subsidiebaten mogen tot een door Onze Minister vast te stellen maximum worden gereserveerd door opneming als risicofonds op de balans. De in het fonds opgenomen subsidiebaten dienen te worden bestemd ter bekostiging van de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2020-02-13&g=2020-02-13) omschreven taak.
 
 4. Indien blijkt dat de subsidie ten gevolge van het verstrekken van onjuiste of onvolledige gegevens is vastgesteld op een bedrag dat hoger is dan wanneer het zou zijn vastgesteld op grond van juiste en volledige gegevens wordt de subsidie opnieuw vastgesteld.
 
