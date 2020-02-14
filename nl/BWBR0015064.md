@@ -4,7 +4,7 @@ identifier: "BWBR0015064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-02"
-last_updated: "2003-05-01"
+last_updated: "2020-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015064"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De vergoeding per vergadering als bedoeld in [artikel 2 van het Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353&artikel=2) wordt voor de Adviescommissie voor burgerlijk procesrecht als volgt vastgesteld:
+De vergoeding per vergadering als bedoeld in [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) wordt voor de Adviescommissie voor burgerlijk procesrecht, genoemd in [artikel 2 van de Wet adviesstelsel Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008808&artikel=2), als volgt vastgesteld:
 
-- -. voor de voorzitter: € 130,
+- –. voor de voorzitter: € 130,
 
-- -. voor de overige leden: € 90.
+- –. voor de overige leden: € 100.
 
 ##### Artikel 2
 
