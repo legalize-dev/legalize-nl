@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2019-01-01"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -56,7 +56,9 @@ In deze regeling wordt verstaan onder:
 
 **onderwijsassistent**: iemand die als onderwijsassistent werkzaam is op een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-**opleiding tot leraar:** de opleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);**studiekosten:** de kosten van college-, examen- en diplomagelden;
+**opleiding tot leraar:** op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+
+**studiekosten:** de kosten van college-, examen- en diplomagelden;
 
 **studieverlof:** verlof ten behoeve van het bijwonen van lessen van de opleiding tot leraar en verlof ten behoeve van de uren die de onderwijsassistent besteedt voor de opleiding tot leraar.
 
@@ -72,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het bevoegd gezag en de onderwijsassistent sluiten een overeenkomst, waarin ten minste is opgenomen:
 
-- a. dat de onderwijsassistent ten minste acht uur per week studieverlof ontvangt;
+- a. dat de onderwijsassistent ten minste 20% van het aantal uren van de betrekkingsomvang per week aan studieverlof ontvangt;
 
 - b. door wie de overige kosten naast de studiekosten worden gedragen;
 
@@ -84,7 +86,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Subsidieplafond en hoogte subsidie
 
-1. Voor subsidieverstrekking op grond van deze regeling is in de kalenderjaren 2019 en 2020 voor elk kalenderjaar een bedrag van € 1.000.000,00 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is een bedrag beschikbaar van ten hoogste:
+
+- a. € 1.000.000 voor het kalenderjaar 2019; en
+
+- b. in totaal € 11.000.000 voor de kalenderjaren 2020 tot en met 2023.
 
 2. De subsidie bedraagt € 5.000 per onderwijsassistent per jaar gedurende maximaal vier jaren.
 
@@ -98,7 +104,9 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober 2019 niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent per bevoegd gezag.
 
-5. Indien een aanvraag voor subsidieverstrekking in het jaar 2019 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2020 en behandeld als ware zij op 16 oktober 2019 ingediend.
+5. Indien het in 2020 voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent per bevoegd gezag.
+
+6. Indien een aanvraag voor subsidieverstrekking in het jaar 2019 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2020 en behandeld als ware zij op 16 oktober 2019 ingediend.
 
 ##### Artikel 6. Verplichtingen subsidie
 
@@ -116,7 +124,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2019-01-01&g=2019-01-01):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2020-02-15&g=2020-02-15):
 
 - a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019; en
 
@@ -128,13 +136,19 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-2. De subsidie wordt direct vastgesteld binnen 8 weken na ontvangst van de aanvraag.
+2. De subsidie wordt direct vastgesteld binnen 13 weken na ontvangst van de aanvraag.
 
-3. In afwijking van het tweede lid wordt de subsidie, indien de aanvraag is ingediend in de periode van 16 oktober 2019 tot en met 31 december 2019, uiterlijk vóór 1 maart 2020 direct vastgesteld.
+3. In afwijking van het tweede lid wordt de subsidie, indien de aanvraag is ingediend:
+
+- a. in de periode van 16 oktober 2019 tot en met 31 december 2019, uiterlijk vóór 1 maart 2020 direct vastgesteld; en
+
+- b. in de periode van 1 augustus 2020 tot en met 15 oktober 2020, uiterlijk vóór 11 december 2020 direct vastgesteld.
 
 ##### Artikel 9. Betaling
 
-De minister betaalt het gehele subsidiebedrag ineens.
+1. De minister betaalt het gehele subsidiebedrag ineens.
+
+2. In afwijking van het eerste lid en [artikel 6.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), betaalt de minister een subsidie die in 2020 is verstrekt uit in gelijke delen van €5.000,– per onderwijsassistent per kalenderjaar totdat het vastgestelde subsidiebedrag is bereikt.
 
 ##### Artikel 10. Overgang bevoegd gezag
 
