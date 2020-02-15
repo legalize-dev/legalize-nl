@@ -4,7 +4,7 @@ identifier: "BWBR0043166"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-02-15"
-last_updated: "2019-11-01"
+last_updated: "2020-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043166"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-De taskforce brengt op zo kort mogelijke termijn, en desgewenst ook tussentijds, advies uit aan de minister over de onderwerpen, bedoeld in [artikel 2, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0043166&artikel=2&z=2020-02-15&g=2019-11-01). De taskforce zal zijn laatste advies uitbrengen uiterlijk bij de vaststelling van het definitieve handelingskader.
+De taskforce brengt op zo kort mogelijke termijn, en desgewenst ook tussentijds, advies uit aan de minister over de onderwerpen, bedoeld in [artikel 2, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0043166&artikel=2&z=2020-02-15&g=2020-02-15). De taskforce zal zijn laatste advies uitbrengen uiterlijk bij de vaststelling van het definitieve handelingskader.
 
 ##### Artikel 5
 
