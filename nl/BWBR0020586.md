@@ -4,7 +4,7 @@ identifier: "BWBR0020586"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2019-07-21"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020586"
 soort: "wet"
@@ -49,15 +49,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. andere overheidsinstantie: een andere overheidsinstantie als bedoeld in artikel 4, tweede lid, van [verordening 2006/2004](32004R2006);
+- aanbieder van een hostingdienst: een aanbieder van een dienst die eruit bestaat door een aanbieder van inhoud verstrekte informatie op verzoek van die aanbieder van inhoud op te slaan en de opgeslagen informatie aan derden beschikbaar te stellen;
 
-- b. bevoegde autoriteit: een bevoegde autoriteit als bedoeld in artikel 3, onderdeel c, van [verordening 2006/2004](32004R2006);
+- aangewezen instantie: een aangewezen instantie als bedoeld in artikel 3, onderdeel 8, van [verordening 2017/2394](32394R2017);
 
-- c. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- andere overheidsinstantie: een andere overheidsinstantie als bedoeld in artikel 6, eerste lid, van [verordening 2017/2394](32394R2017);
 
-- d. consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben het behartigen van de collectieve belangen van consumenten;
+- Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- e. financiële dienst of activiteit:
+- bevoegde autoriteit: een bevoegde autoriteit als bedoeld in artikel 3, onderdeel 6, van [verordening 2017/2394](32394R2017);
+
+- bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;
+
+- consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot taak hebben het behartigen van de collectieve belangen van consumenten;
+
+- financiële dienst of activiteit:
 
 - 1°. een financiële dienst als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en het aanbieden van effecten aan het publiek of het doen toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, bedoeld in artikel 3, eerste en derde lid, van Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van [Richtlijn 2003/71/EG](32003L0071) (PbEU 2017, L 168), waarbij voor de toepassing van deze wet onder deze financiële diensten en activiteiten mede worden begrepen de overeenkomsten met betrekking tot een of meer financiële producten als bedoeld in [artikel 1.1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die rechtstreeks uit deze financiële diensten of activiteiten voortvloeien of daarvan het resultaat zijn;
 
@@ -71,29 +77,31 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 6°. een beleggingsaanbeveling als bedoeld in artikel 3, eerste lid, onderdeel 35 van Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende marktmisbruik (PbEU 2014, L 173);
 
-- f. inbreuk: elke overtreding van een wettelijke bepaling als bedoeld in de bijlage bij deze wet, welke schade toebrengt of kan toebrengen aan de collectieve belangen van consumenten;
+- inbreuk: elke overtreding van een wettelijke bepaling als bedoeld in de bijlage bij deze wet, welke schade toebrengt of kan toebrengen aan de collectieve belangen van consumenten;
 
-- g. intracommunautaire inbreuk: elke overtreding die een intracommunautaire inbreuk is als bedoeld in artikel 3, onderdeel b, van verordening 2006/2004;
+- inbreuk binnen de Unie: een inbreuk als bedoeld in artikel 3, onderdeel 5, van [verordening 2017/2394](32394R2017);
 
-- h. lidstaat: een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
+- lidstaat: een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- i. onlinemarktplaats: een onlineplatform dat ondernemers in staat stelt hun producten en diensten aan consumenten aan te bieden;
+- online interface: online interface als bedoeld in artikel 3, onderdeel 15, van [verordening 2017/2394](32394R2017);
 
-- j. Onze Minister: Onze Minister van Economische Zaken en Klimaat;
+- onlinemarktplaats: een onlineplatform dat ondernemers in staat stelt hun producten en diensten aan consumenten aan te bieden;
 
-- k. bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;
+- Onze Minister: Onze Minister van Economische Zaken en Klimaat;
 
-- l. zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften;
+- schade aan de collectieve belangen van consumenten: daadwerkelijke of mogelijke schade aan de belangen van een aantal consumenten als bedoeld in artikel 3, twaalfde lid, van [verordening 2017/2394](32394R2017) die nadeel ondervinden van inbreuken of inbreuken binnen de Unie;
 
-- m. verbindingsbureau: verbindingsbureau als bedoeld in artikel 3, onderdeel d, van [verordening 2006/2004](32004R2006);
+- verbindingsbureau: verbindingsbureau als bedoeld in artikel 3, onderdeel 7, van [verordening 2017/2394](32394R2017);
 
-- n. Verordening (EU) nr. 524/2013: verordening (EU) nr. 524/2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L 165);
+- Verordening (EU) nr. 524/2013: verordening (EU) nr. 524/2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L 165);
 
-- o. [verordening 2006/2004](32004R2006): [verordening (EG) nr. 2006/2004](32004R2006) van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 betreffende samenwerking tussen de nationale instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming (PbEU L 364);
+- verordening 2017/2394: verordening (EU) 2017/2394 van het Europees Parlement en de Raad van 12 december 2017 betreffende samenwerking tussen de nationale autoriteiten die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming en tot intrekking van Verordening (EG) nr. 2006/2004 (PbEU L 345);
 
-- p. Verordening (EU) 2018/302: Verordening (EU) 2018/302 van het Europees Parlement en de Raad van 28 februari 2018 inzake de aanpak van ongerechtvaardigde geoblocking en andere vormen van discriminatie van klanten op grond van nationaliteit, verblijfplaats, of plaats van vestiging in de interne markt, en tot wijziging van Verordeningen (EG) nr. 2006/2004 en (EU) 2017/2394 en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2018, L 60);
+- Verordening (EU) 2018/302: Verordening (EU) 2018/302 van het Europees Parlement en de Raad van 28 februari 2018 inzake de aanpak van ongerechtvaardigde geoblocking en andere vormen van discriminatie van klanten op grond van nationaliteit, verblijfplaats, of plaats van vestiging in de interne markt, en tot wijziging van Verordeningen (EG) nr. 2006/2004 en (EU) 2017/2394 en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2018, L 60);
 
-- q. wettelijke bepalingen: de communautaire wetgeving ter bescherming van de belangen van de consument bedoeld in de bijlage bij deze wet, zoals geïmplementeerd in het Nederlands recht en het recht van de lidstaten.
+- wettelijke bepalingen: de communautaire wetgeving ter bescherming van de belangen van de consument bedoeld in de bijlage bij deze wet, zoals geïmplementeerd in het Nederlands recht en het recht van de lidstaten;
+
+- zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
 
 ### Hoofdstuk 2. De Autoriteit Consument en Markt
 
@@ -105,15 +113,15 @@ Vervallen
 
 ##### Artikel 2.2
 
-De Autoriteit Consument en Markt is belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet. Zij is niet bevoegd indien de inbreuk of intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet. Zij is niet bevoegd indien de inbreuk of inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit.
 
 ##### Artikel 2.3
 
 1. De Autoriteit Consument en Markt wordt aangewezen als het verbindingsbureau in Nederland.
 
-2. Met betrekking tot intracommunautaire inbreuken op een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, wordt de Autoriteit Consument en Markt aangewezen als bevoegde autoriteit, tenzij de intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.
+2. Met betrekking tot inbreuken binnen de Unie op een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, wordt de Autoriteit Consument en Markt aangewezen als bevoegde autoriteit, tenzij de inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit.
 
-3. De Autoriteit Consument en Markt heeft mede tot taak de coördinatie van activiteiten van communautair belang, administratieve samenwerking en verslaglegging, bedoeld in de artikelen 16, 17 en 21 van [verordening 2006/2004](32004R2006).
+3. De Autoriteit Consument en Markt heeft mede tot taak de coördinatie van activiteiten van communautair belang, administratieve samenwerking en verslaglegging, bedoeld in de artikelen 30, 31 en 37 van [verordening 2017/2394](32394R2017).
 
 4. De Autoriteit Consument en Markt wordt aangewezen als het centrale contactpunt, bedoeld in artikel 18, tweede lid, van Richtlijn (EU) 2015/2302 van het Europees Parlement en de Raad van 25 november 2015 betreffende pakketreizen en gekoppelde reisarrangementen, houdende wijziging van Verordening (EG) nr. 2006/2004 en van [Richtlijn 2011/83](32011L0083)/EU van het Europees Parlement en de Raad, en tot intrekking van [Richtlijn 90/314/EEG](31990L0314) van de Raad (PbEU 2015, L 326).
 
@@ -135,7 +143,7 @@ Vervallen
 
 ##### Artikel 2.6
 
-1. Een overeenkomst strekkende tot vergoeding van schade die het gevolg is van een inbreuk of intracommunautaire inbreuk op één of meer wettelijke bepalingen met de handhaving waarvan de Autoriteit Consument en Markt krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2019-07-21&g=2019-07-21) is belast, gesloten door de Autoriteit Consument en Markt met één of meer andere partijen die deze bepalingen hebben overtreden en die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.
+1. Een overeenkomst strekkende tot vergoeding van schade die het gevolg is van een inbreuk of inbreuk binnen de Unie op één of meer wettelijke bepalingen met de handhaving waarvan de Autoriteit Consument en Markt krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2020-02-19&g=2020-02-19) is belast, gesloten door de Autoriteit Consument en Markt met één of meer andere partijen die deze bepalingen hebben overtreden en die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.
 
 2. De [artikelen 907, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907), en [908 tot en met 910 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=908) en [titel 14 van het derde boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=14) zijn van overeenkomstige toepassing.
 
@@ -143,7 +151,25 @@ Vervallen
 
 ##### Artikel 2.7
 
-Vervallen
+1. Als er geen andere doeltreffende middelen zijn om een inbreuk of een inbreuk binnen de Unie, op wettelijke bepalingen met de handhaving waarvan zij krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2020-02-19&g=2020-02-19) is belast te voorkomen of te beëindigen, kan de Autoriteit Consument en Markt, om het gevaar van ernstige schade aan de collectieve belangen van consumenten te voorkomen of te beëindigen, een zelfstandige last opleggen aan:
+
+- a. degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface, of opdracht te geven tot de duidelijke weergave van een waarschuwing aan consumenten wanneer die zich toegang tot de online interface verschaffen;
+
+- b. een aanbieder van een hostingdienst, om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te deactiveren, te blokkeren, of te beperken, of
+
+- c. in voorkomend geval, een beheerder van een domeinregister of een registrerende instantie, om een volledig gekwalificeerde domeinnaam te schrappen, of de Autoriteit Consument en Markt toe te laten om een volledig gekwalificeerde domeinnaam op haar naam te registreren.
+
+2. Degene tot wie de zelfstandige last als bedoeld in het eerste lid is gericht, handelt overeenkomstig die last.
+
+3. Op grond van het eerste lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+4. Voor een zelfstandige last als bedoeld in het eerste lid, is voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. In het verzoek om afgifte van de machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+5. Tegen de beslissing van de rechter-commissaris, bedoeld in het vierde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam, sector strafrecht.
+
+6. De Autoriteit Consument en Markt maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste lid, bekend.
+
+7. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen aan degene die handelt in strijd met het tweede lid.
 
 ##### Artikel 2.8
 
@@ -151,7 +177,7 @@ De Autoriteit Consument en Markt kan een bindende gedragslijn tot naleving van d
 
 ##### Artikel 2.9
 
-Indien de Autoriteit Consument en Markt van oordeel is dat een inbreuk of intracommunautaire inbreuk heeft plaatsgevonden, kan zij de overtreder opleggen:
+Indien de Autoriteit Consument en Markt van oordeel is dat een inbreuk of inbreuk binnen de Unie heeft plaatsgevonden, kan zij de overtreder opleggen:
 
 - a. een last onder dwangsom;
 
@@ -179,9 +205,9 @@ Vervallen
 
 ##### Artikel 2.15
 
-1. De bestuurlijke boete, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2019-07-21&g=2019-07-21), bedraagt ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
+1. De bestuurlijke boete, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-02-19&g=2020-02-19), bedraagt ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
 
-2. In afwijking van het eerste lid bedraagt de bestuurlijke boete, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2019-07-21&g=2019-07-21), in geval van overtreding van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.8&z=2019-07-21&g=2019-07-21), voor zover het een oneerlijke handelspraktijk betreft als bedoeld in [artikel 193g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193g) of [artikel 193i van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193i), ten hoogste € 900.000 of, indien dat meer is, 10% van de omzet van de overtreder.
+2. In afwijking van het eerste lid bedraagt de bestuurlijke boete, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2020-02-19&g=2020-02-19), in geval van overtreding van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.8&z=2020-02-19&g=2020-02-19), voor zover het een oneerlijke handelspraktijk betreft als bedoeld in [artikel 193g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193g) of [artikel 193i van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193i), ten hoogste € 900.000 of, indien dat meer is, 10% van de omzet van de overtreder.
 
 3. De bestuurlijke boete die ingevolge het eerste of tweede lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
@@ -215,9 +241,9 @@ Vervallen
 
 ##### Artikel 2.23
 
-1. De Autoriteit Consument en Markt kan in het kader van haar taken, genoemd in deze wet, een openbare waarschuwing uitvaardigen voordat zij een inbreuk of intracommunautaire inbreuk heeft vastgesteld, indien dat redelijkerwijs noodzakelijk is om consumenten snel en effectief te informeren over een schadeveroorzakende handelspraktijk van een ondernemer en daardoor schade te voorkomen.
+1. De Autoriteit Consument en Markt kan in het kader van haar taken, genoemd in deze wet, een openbare waarschuwing uitvaardigen voordat zij een inbreuk of inbreuk binnen de Unie heeft vastgesteld, indien dat redelijkerwijs noodzakelijk is om consumenten snel en effectief te informeren over een schadeveroorzakende handelspraktijk van een ondernemer en daardoor schade te voorkomen.
 
-2. Een ondernemer wordt uitsluitend met name genoemd in de openbare waarschuwing indien er sprake is van een reëel en acuut risico op benadeling van consumenten en van een redelijk vermoeden van overtreding. In de openbare waarschuwing komt duidelijk naar voren dat er nog geen sprake is van een door de Autoriteit Consument en Markt vastgestelde inbreuk of intracommunautaire inbreuk.
+2. Een ondernemer wordt uitsluitend met name genoemd in de openbare waarschuwing indien er sprake is van een reëel en acuut risico op benadeling van consumenten en van een redelijk vermoeden van overtreding. In de openbare waarschuwing komt duidelijk naar voren dat er nog geen sprake is van een door de Autoriteit Consument en Markt vastgestelde inbreuk of inbreuk binnen de Unie.
 
 3. De uitvaardiging van een openbare waarschuwing waarin een ondernemer met name wordt genoemd geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop het besluit tot het uitvaardigen van de openbare waarschuwing aan hem is bekend gemaakt, tenzij hij het besluit zelf heeft openbaar gemaakt, heeft doen openbaar maken of heeft aangegeven geen bedenkingen te hebben tegen eerdere openbaarmaking.
 
@@ -229,7 +255,7 @@ Vervallen
 
 ##### Artikel 2.24
 
-Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2019-07-21&g=2019-07-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&z=2019-07-21&g=2019-07-21) van deze wet maakt de Autoriteit Consument en Markt alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.
+Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2020-02-19&g=2020-02-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&z=2020-02-19&g=2020-02-19) van deze wet maakt de Autoriteit Consument en Markt alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.
 
 ### Hoofdstuk 3. Andere bevoegde autoriteiten
 
@@ -237,19 +263,19 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 ##### Artikel 3.1
 
-1. De Stichting Autoriteit Financiële Markten wordt aangewezen als bevoegde autoriteit voor inbreuken of intracommunautaire inbreuken op de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, voor zover de inbreuk of intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.
+1. De Stichting Autoriteit Financiële Markten wordt aangewezen als bevoegde autoriteit voor inbreuken of inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, voor zover de inbreuk of inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit.
 
-2. De Stichting Autoriteit Financiële Markten wordt voorts aangewezen als bevoegde autoriteit voor inbreuken of intracommunautaire inbreuken op de wettelijke bepalingen bedoeld in onderdeel b van de bijlage bij deze wet.
+2. De Stichting Autoriteit Financiële Markten wordt voorts aangewezen als bevoegde autoriteit voor inbreuken of inbreuken binnen de Unie op de wettelijke bepalingen bedoeld in onderdeel b van de bijlage bij deze wet.
 
 ##### Artikel 3.2
 
-1. De bij besluit van de Stichting Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, voor zover de inbreuk of intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+1. De bij besluit van de Stichting Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, voor zover de inbreuk of inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 2. [Artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is niet van toepassing op geschriften gewisseld tussen een overtreder en een advocaat die is toegelaten tot de balie, die zich bij de overtreder bevinden, doch waarop, indien zij zich zouden bevinden bij die advocaat, [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van toepassing zou zijn.
 
 ##### Artikel 3.3
 
-1. De Stichting Autoriteit Financiële Markten kan gegevens of inlichtingen die zij in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2019-07-21&g=2019-07-21) heeft verkregen, verstrekken aan de Autoriteit Consument en Markt, de overige bevoegde autoriteiten, genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2019-07-21&g=2019-07-21), en de andere overheidsinstanties, genoemd in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.1&z=2019-07-21&g=2019-07-21), ten behoeve van een goede vervulling van hun taken genoemd in deze wet.
+1. De Stichting Autoriteit Financiële Markten kan gegevens of inlichtingen die zij in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2020-02-19&g=2020-02-19) heeft verkregen, verstrekken aan de Autoriteit Consument en Markt, de overige bevoegde autoriteiten, genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2020-02-19&g=2020-02-19), en de andere overheidsinstanties, genoemd in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.1&z=2020-02-19&g=2020-02-19), ten behoeve van een goede vervulling van hun taken genoemd in deze wet.
 
 2. Verstrekking van gegevens of inlichtingen vindt uitsluitend plaats indien:
 
@@ -259,9 +285,9 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 ##### Artikel 3.4
 
-1. De Stichting Autoriteit Financiële Markten kan in het kader van haar taken, genoemd in deze wet, een openbare waarschuwing uitvaardigen voordat zij een inbreuk of intracommunautaire inbreuk heeft vastgesteld, indien dat redelijkerwijs noodzakelijk is om consumenten snel en effectief te informeren over een schadeveroorzakende handelspraktijk van een ondernemer en daardoor schade te voorkomen. [Artikel 2.23, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2019-07-21&g=2019-07-21), is van overeenkomstige toepassing.
+1. De Stichting Autoriteit Financiële Markten kan in het kader van haar taken, genoemd in deze wet, een openbare waarschuwing uitvaardigen voordat zij een inbreuk of inbreuk binnen de Unie heeft vastgesteld, indien dat redelijkerwijs noodzakelijk is om consumenten snel en effectief te informeren over een schadeveroorzakende handelspraktijk van een ondernemer en daardoor schade te voorkomen. [Artikel 2.23, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2020-02-19&g=2020-02-19), is van overeenkomstige toepassing.
 
-2. De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een inbreuk of intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, heeft plaatsgevonden:
+2. De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een inbreuk of inbreuk binnen de Unie op een van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, heeft plaatsgevonden:
 
 - a. een zelfstandige last opleggen;
 
@@ -269,11 +295,11 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 - c. een last onder dwangsom opleggen.
 
-3. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2019-07-21&g=2019-07-21) is van overeenkomstige toepassing indien begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet.
+3. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2020-02-19&g=2020-02-19) is van overeenkomstige toepassing indien begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet.
 
-4. Met betrekking tot de toepassing van het tweede lid is [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2019-07-21&g=2019-07-21) van overeenkomstige toepassing.
+4. Met betrekking tot de toepassing van het tweede lid is [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2020-02-19&g=2020-02-19) van overeenkomstige toepassing.
 
-5. Met betrekking tot de toepassing van het tweede lid, onderdeel b, is [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2019-07-21&g=2019-07-21) van toepassing dan wel, indien het betreft een overtreding van onderdeel b van de bijlage bij deze wet, [artikel 1:81 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:81).
+5. Met betrekking tot de toepassing van het tweede lid, onderdeel b, is [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2020-02-19&g=2020-02-19) van toepassing dan wel, indien het betreft een overtreding van onderdeel b van de bijlage bij deze wet, [artikel 1:81 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:81).
 
 6. Met betrekking tot de toepassing van het tweede lid, onderdeel c, zijn de [artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing en is [artikel 51 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) van overeenkomstige toepassing.
 
@@ -285,87 +311,95 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 ##### Artikel 3.5
 
-De Inspectie gezondheidszorg en jeugd wordt aangewezen als bevoegde autoriteit voor intracommunautaire inbreuken op de wettelijke bepalingen, bedoeld in onderdeel c van de bijlage bij deze wet.
+De Inspectie gezondheidszorg en jeugd wordt aangewezen als bevoegde autoriteit voor inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel c van de bijlage bij deze wet.
 
 ##### Artikel 3.6
 
-1. De krachtens [artikel 100 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=100) aangewezen ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast met toezicht op de naleving van de wettelijke bepalingen inzake intracommunautaire inbreuken voor welke het als bevoegde autoriteit is aangewezen.
+1. De krachtens [artikel 100 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=100) aangewezen ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast met toezicht op de naleving van de wettelijke bepalingen inzake inbreuken binnen de Unie voor welke het als bevoegde autoriteit is aangewezen.
 
-2. Onze Minister van Volksgezondheid, Welzijn en Sport kan, indien naar zijn oordeel een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel c van de bijlage bij deze wet heeft plaatsgevonden:
+2. Onze Minister van Volksgezondheid, Welzijn en Sport kan, indien naar zijn oordeel een inbreuk binnen de Unie op een van de wettelijke bepalingen, bedoeld in onderdeel c van de bijlage bij deze wet heeft plaatsgevonden:
 
 - a. een bestuurlijke boete opleggen;
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2019-07-21&g=2019-07-21), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2019-07-21&g=2019-07-21), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2019-07-21&g=2019-07-21), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2019-07-21&g=2019-07-21) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2020-02-19&g=2020-02-19), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2020-02-19&g=2020-02-19), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2020-02-19&g=2020-02-19), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing.
 
 4. Wat betreft de hoogte van de bestuurlijke boete is het [eerste lid van artikel 101 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=101) van overeenkomstige toepassing.
 
-#### § 3. Het Commissariaat voor de Media
+5. De [artikelen 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2a&z=2020-02-19&g=2020-02-19) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing ten aanzien van inbreuken of inbreuken binnen de Unie op bepalingen waarvoor de Inspectie gezondheidszorg en jeugd krachtens [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2020-02-19&g=2020-02-19) is aangewezen als bevoegde autoriteit, met dien verstande dat voor «de Autoriteit Consument en Markt» wordt gelezen «de Inspectie gezondheidszorg en jeugd».
+
+#### § 2. De Inspectie gezondheidszorg en jeugd
 
 ##### Artikel 3.7
 
-Het Commissariaat voor de Media wordt aangewezen als bevoegde autoriteit voor intracommunautaire inbreuken op de wettelijke bepalingen, bedoeld in onderdeel d van de bijlage bij deze wet.
+Het Commissariaat voor de Media wordt aangewezen als bevoegde autoriteit voor inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel d van de bijlage bij deze wet.
 
 ##### Artikel 3.8
 
 1. De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in [artikel 7.11, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11), zijn belast met het toezicht op de naleving van de wettelijke bepalingen waarvoor het Commissariaat voor de Media als bevoegde autoriteit is aangewezen.
 
-2. Indien naar het oordeel van het Commissariaat voor de Media een intracommunautaire inbreuk op een van de wettelijke bepalingen als bedoeld in onderdeel d van de bijlage bij deze wet heeft plaatsgevonden, kan het Commissariaat voor de Media:
+2. Indien naar het oordeel van het Commissariaat voor de Media een inbreuk binnen de Unie op een van de wettelijke bepalingen als bedoeld in onderdeel d van de bijlage bij deze wet heeft plaatsgevonden, kan het Commissariaat voor de Media:
 
 - a. een bestuurlijke boete opleggen;
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2019-07-21&g=2019-07-21), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2019-07-21&g=2019-07-21), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2019-07-21&g=2019-07-21), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2019-07-21&g=2019-07-21) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2020-02-19&g=2020-02-19), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2020-02-19&g=2020-02-19), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2020-02-19&g=2020-02-19), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing.
 
 4. De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [7.19 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.19) zijn van overeenkomstige toepassing.
 
-#### § 4. Inspectie Leefomgeving en Transport
+5. De [artikelen 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2a&z=2020-02-19&g=2020-02-19) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing ten aanzien van inbreuken of inbreuken binnen de Unie op bepalingen waarvoor het Commissariaat voor de Media krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2020-02-19&g=2020-02-19) is aangewezen als bevoegde autoriteit, met dien verstande dat voor «de Autoriteit Consument en Markt» wordt gelezen «het Commissariaat voor de Media».
+
+#### § 3. Het Commissariaat voor de Media
 
 ##### Artikel 3.9
 
-De Inspectie Leefomgeving en Transport wordt aangewezen als bevoegde autoriteit voor intracommunautaire inbreuken op de wettelijke bepalingen, bedoeld in onderdeel e van de bijlage bij deze wet.
+De Inspectie Leefomgeving en Transport wordt aangewezen als bevoegde autoriteit voor inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel e van de bijlage bij deze wet.
 
 ##### Artikel 3.10
 
 1. Met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel e van de bijlage bij deze wet, zijn belast de bij besluit van Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-2. Onze Minister van Infrastructuur en Milieu kan, indien naar zijn oordeel een intercommunautaire inbreuk op een van de bepalingen van Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2004, L364), een intercommunautaire inbreuk op een van de bepalingen van Verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2011, L 55) of een inbreuk op een van de bepalingen van Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010, L 334) heeft plaatsgevonden:
+2. Onze Minister van Infrastructuur en Waterstaat kan, indien naar zijn oordeel een inbreuk binnen de Unie op een van de wettelijke bepalingen als bedoeld in onderdeel e van de bijlage bij deze wet heeft plaatsgevonden:
 
 - a. een bestuurlijke boete opleggen;
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2019-07-21&g=2019-07-21), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2019-07-21&g=2019-07-21), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2019-07-21&g=2019-07-21), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2019-07-21&g=2019-07-21) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2020-02-19&g=2020-02-19), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2020-02-19&g=2020-02-19), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2020-02-19&g=2020-02-19), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing.
 
 4. De in het tweede lid bedoelde bestuurlijke boete bedraagt ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### § 5. Nederlandse Voedsel- en Warenautoriteit
+5. De [artikelen 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2a&z=2020-02-19&g=2020-02-19) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing ten aanzien van inbreuken of inbreuken binnen de Unie op bepalingen waarvoor de Inspectie Leefomgeving en Transport krachtens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2020-02-19&g=2020-02-19) is aangewezen als bevoegde autoriteit, met dien verstande dat voor «de Autoriteit Consument en Markt» wordt gelezen «de Minister van Infrastructuur en Waterstaat».
+
+#### § 4. Inspectie Leefomgeving en Transport
 
 ##### Artikel 3.11
 
-De Nederlandse Voedsel- en Warenautoriteit wordt aangewezen als bevoegde autoriteit voor intracommunautaire inbreuken op de wettelijke bepalingen, bedoeld in onderdeel f van de bijlage bij deze wet.
+De Nederlandse Voedsel- en Warenautoriteit wordt aangewezen als bevoegde autoriteit voor inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel f van de bijlage bij deze wet.
 
 ##### Artikel 3.12
 
-1. De krachtens [artikel 13, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=13) benoemde ambtenaren zijn belast met het toezicht op de naleving van de wettelijke bepalingen inzake intracommunautaire inbreuken voor welke de Nederlandse Voedsel- en Warenautoriteit als bevoegde autoriteit is aangewezen.
+1. De krachtens [artikel 13, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=13) benoemde ambtenaren zijn belast met het toezicht op de naleving van de wettelijke bepalingen inzake inbreuken binnen de Unie voor welke de Nederlandse Voedsel- en Warenautoriteit als bevoegde autoriteit is aangewezen.
 
-2. Onze Minister van Volksgezondheid, Welzijn en Sport kan, indien naar zijn oordeel een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel f van de bijlage bij deze wet heeft plaatsgevonden:
+2. Onze Minister van Volksgezondheid, Welzijn en Sport kan, indien naar zijn oordeel een inbreuk binnen de Unie op een van de wettelijke bepalingen, bedoeld in onderdeel f van de bijlage bij deze wet heeft plaatsgevonden:
 
 - a. een bestuurlijke boete opleggen;
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2019-07-21&g=2019-07-21), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2019-07-21&g=2019-07-21), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2019-07-21&g=2019-07-21), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2019-07-21&g=2019-07-21) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.24&z=2020-02-19&g=2020-02-19), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2020-02-19&g=2020-02-19), [3.4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2020-02-19&g=2020-02-19), en [3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.4a&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing.
 
 4. [Artikel 11b, tweede lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=11b) is van overeenkomstige toepassing.
 
-#### § 6. Gegevensuitwisseling
+5. De [artikelen 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2a&z=2020-02-19&g=2020-02-19) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2020-02-19&g=2020-02-19) zijn van overeenkomstige toepassing ten aanzien van inbreuken of inbreuken binnen de Unie op bepalingen waarvoor de Nederlandse Voedsel- en Warenautoriteit krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2020-02-19&g=2020-02-19) is aangewezen als bevoegde autoriteit, met dien verstande dat voor «de Autoriteit Consument en Markt» wordt gelezen «de Minister van Volksgezondheid, Welzijn en Sport».
+
+#### § 5. Nederlandse Voedsel- en Warenautoriteit
 
 ##### Artikel 3.13
 
-Alle informatie die een bevoegde autoriteit op grond van [verordening 2006/2004](32004R2006) aan bevoegde autoriteiten van andere lidstaten en de Commissie verstrekt, verstrekt de bevoegde instantie eveneens aan de Autoriteit Consument en Markt als het verbindingsbureau.
+Alle informatie die een bevoegde autoriteit op grond van [verordening 2017/2394](32394R2017) aan bevoegde autoriteiten van andere lidstaten en de Commissie verstrekt, verstrekt de bevoegde instantie eveneens aan de Autoriteit Consument en Markt als het verbindingsbureau.
 
 ### Hoofdstuk 4. Andere overheidsinstanties
 
@@ -389,21 +423,21 @@ Alle informatie die een bevoegde autoriteit op grond van [verordening 2006/2004]
 
 - a. de andere overheidsinstantie de Autoriteit Consument en Markt daaromtrent verzoekt; of
 
-- b. de andere overheidsinstantie niet aan de verplichting uit [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.5&z=2019-07-21&g=2019-07-21), kan voldoen.
+- b. de andere overheidsinstantie niet aan de verplichting uit [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.5&z=2020-02-19&g=2020-02-19), kan voldoen.
 
 ##### Artikel 4.3
 
-Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2019-07-21&g=2019-07-21), worden hierover nadere afspraken gemaakt.
+Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2020-02-19&g=2020-02-19), worden hierover nadere afspraken gemaakt.
 
 ##### Artikel 4.4
 
-Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt ten aanzien van een gedraging, die eveneens een intracommunautaire inbreuk op kan leveren, stelt zij de Autoriteit Consument en Markt als het verbindingsbureau hiervan op de hoogte.
+Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt ten aanzien van een gedraging, die eveneens een inbreuk binnen de Unie op kan leveren, stelt zij de Autoriteit Consument en Markt als het verbindingsbureau hiervan op de hoogte.
 
 ##### Artikel 4.5
 
-1. Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand als bedoeld in [verordening 2006/2004](32004R2006) krijgt ten aanzien van een gedraging waarvan ook een andere overheidsinstantie bevoegd is, verwijst de Autoriteit Consument en Markt het verzoek door naar de desbetreffende overheidsinstantie.
+1. Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand als bedoeld in [verordening 2017/2394](32394R2017) krijgt ten aanzien van een gedraging waarvan ook een andere overheidsinstantie bevoegd is, verwijst de Autoriteit Consument en Markt het verzoek door naar de desbetreffende overheidsinstantie.
 
-2. Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand aan een andere overheidsinstantie doorverwijst, is de andere overheidsinstantie verplicht om toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van de betrokken gedraging, tenzij sprake is van een van de uitzonderingsgronden als bedoeld in artikel 15 van [verordening 2006/2004](32004R2006). Alle gegevens omtrent genomen toezichts- en handhavingsmaatregelen worden aan de Autoriteit Consument en Markt als het verbindingsbureau bekend gemaakt.
+2. Indien de Autoriteit Consument en Markt een verzoek om wederzijdse bijstand aan een andere overheidsinstantie doorverwijst, is de andere overheidsinstantie verplicht om toezicht uit te oefenen of handhavingsmaatregelen te nemen ten aanzien van de betrokken gedraging, tenzij sprake is van een van de uitzonderingsgronden als bedoeld in artikel 14 van [verordening 2017/2394](32394R2017). Alle gegevens omtrent genomen toezichts- en handhavingsmaatregelen worden aan de Autoriteit Consument en Markt als het verbindingsbureau bekend gemaakt.
 
 ### Hoofdstuk 5. Samenwerkingsprotocollen
 
@@ -441,11 +475,11 @@ Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt 
 
 - b. consumentenvoorlichting;
 
-- c. de gemeenschappelijke activiteiten en verslaglegging, bedoeld in de artikelen 16, 17 en 21 van [verordening 2006/2004](32004R2006).
+- c. de gemeenschappelijke activiteiten en verslaglegging, bedoeld in de artikelen 30, 31 en 37 van [verordening 2017/2394](32394R2017).
 
 4. De afspraken bedoeld in het tweede lid, onderdeel a, worden vastgelegd in een samenwerkingsprotocol en hebben betrekking op:
 
-- a. de uitleg van begrippen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2019-07-21&g=2019-07-21);
+- a. de uitleg van begrippen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2020-02-19&g=2020-02-19);
 
 - b. de samenwerking tussen de Stichting Autoriteit Financiële Markten en de Autoriteit Consument en Markt in de uitoefening van haar taak als het verbindingsbureau.
 
@@ -463,7 +497,7 @@ Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt 
 
 ##### Artikel 6.2
 
-Bij algemene maatregel van bestuur kunnen instanties worden aangewezen die een rechtmatig belang hebben bij de beëindiging van of het verbieden van intracommunautaire inbreuken als bedoeld in artikel 4, tweede lid, van [verordening 2006/2004](32004R2006).
+Bij algemene maatregel van bestuur kunnen instanties worden aangewezen als aangewezen instantie.
 
 ##### Artikel 6.3
 
@@ -479,13 +513,13 @@ Bij algemene maatregel van bestuur kunnen instanties worden aangewezen die een r
 
 ##### Artikel 7.1
 
-Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&z=2019-07-21&g=2019-07-21).
+Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&z=2020-02-19&g=2020-02-19).
 
 ##### Artikel 7.2
 
 Consumentenorganisaties worden aangemerkt als belanghebbenden bij besluiten krachtens deze wet.
 
-### Hoofdstuk 8. Consumentenbescherming
+### Hoofdstuk 6a. Instantie voor bijstand aan consumenten
 
 ##### Artikel 8.1
 
@@ -581,7 +615,7 @@ Vervallen
 
 ##### Artikel 10.3
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van overeenkomsten als bedoeld in artikel 18 van [verordening 2006/2004](32004R2006).
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van overeenkomsten als bedoeld in artikel 32 van [verordening 2017/2394](32394R2017).
 
 2. Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan een krachtens deze wet aangewezen bevoegde autoriteit.
 
@@ -671,7 +705,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3.4a
 
-1. De Stichting Autoriteit Financiële Markten kan een beschikking openbaar maken omtrent het opleggen van een zelfstandige last, last onder dwangsom of bestuurlijke boete alsmede een toezegging door de overtreder dat een inbreuk of intracommunautaire inbreuk zal worden gestaakt.
+1. De Stichting Autoriteit Financiële Markten kan een beschikking openbaar maken omtrent het opleggen van een zelfstandige last, last onder dwangsom of bestuurlijke boete alsmede een toezegging door de overtreder dat een inbreuk of inbreuk binnen de Unie zal worden gestaakt.
 
 2. De Stichting Autoriteit Financiële Markten maakt een voornemen tot openbaarmaking van een beschikking als bedoeld in het eerste lid van te voren bekend aan degene tot wie de beschikking is gericht. Dit geschiedt op hetzelfde moment als dat degene tot wie de beschikking is gericht in de gelegenheid wordt gesteld daarover zijn zienswijze uit te brengen.
 
@@ -691,7 +725,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5. Samenwerkingsprotocollen
 
-### Hoofdstuk 6. Consumentenorganisaties en instanties met een rechtmatig belang
+### Hoofdstuk 5. Samenwerkingsprotocollen
 
 ### Hoofdstuk 7. Rechtsbescherming
 
@@ -899,7 +933,7 @@ Het Europees Consumenten Centrum, onderdeel van de Stichting Het Juridisch Loket
 
 ### Hoofdstuk 7. Rechtsbescherming
 
-### Hoofdstuk 8. Consumentenbescherming
+### Hoofdstuk 7. Rechtsbescherming
 
 ### Hoofdstuk 10. Slotbepalingen
 
@@ -938,6 +972,112 @@ Het Europees Consumenten Centrum, onderdeel van de Stichting Het Juridisch Loket
 | [Verordening (EG) nr. 261/2004](32004R0261) van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2010, L46) |   |
 | --- | --- |
 | Wijziging van de Wet handhaving consumentenbescherming in verband met de omzetting van Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van [Verordening (EG) nr. 2006/2004](32004R2006) (PbEU 2010, L334) |   |
+
+| Artikelen 9, eerste lid, onderdeel d, 10, tweede lid, en 11, vierde lid, onderdeel a, van [Richtlijn 2010/13](32010L0013)/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) (PbEU 2010, L95) | [Artikel 5 van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) |
+| --- | --- |
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2.2a
+
+1. De in [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) bedoelde ambtenaren zijn bevoegd om voor het toezicht op de naleving van de wettelijke bepalingen met handhaving waarvan zij krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2020-02-19&g=2020-02-19) zijn belast, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, met een handelaar als bedoeld in artikel 3, onderdeel 11, van [verordening 2017/2394](32394R2017), een overeenkomst te sluiten tot koop of tot het verrichten van een dienst en om ten aanzien van de handelaar hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak dringend noodzakelijk is. Zij brengen een handelaar als bedoeld in artikel 3, onderdeel 11, van [verordening 2017/2394](32394R2017), niet tot andere overtredingen dan waarop diens opzet reeds was gericht. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan op zijn ambtseed of -belofte een schriftelijk verslag op waarin hij vermeldt:
+
+- a. zijn naam of nummer en zijn hoedanigheid;
+
+- b. de motivering van de dringende noodzaak, bedoeld in het eerste lid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing het elektronische adres, en, voor zover bekend, de omschrijving van de desbetreffende handelaar;
+
+- e. de onjuiste of onvolledige gegevens die bij het verrichten van de handelingen zijn verstrekt;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. hetgeen tijdens het onderzoek is verricht, gebleken en overigens is voorgevallen.
+
+#### § 2. Handhaving
+
+#### § 3. Openbaarmaking
+
+##### Artikel 3.3a
+
+1. De personen, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2020-02-19&g=2020-02-19), zijn bevoegd om voor het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, met een handelaar als bedoeld in artikel 3, onderdeel 11, van [verordening 2017/2394](32394R2017), een overeenkomst te sluiten tot koop of tot het verrichten van een dienst en om ten aanzien van de handelaar hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak dringend noodzakelijk is. Zij brengen een handelaar als bedoeld in artikel 3, onderdeel 11, van [verordening 2017/2394](32394R2017), niet tot andere overtredingen dan waarop diens opzet reeds was gericht. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. Degene die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
+
+- a. zijn naam en zijn hoedanigheid;
+
+- b. de motivering van de dringende noodzaak, bedoeld in het eerste lid;
+
+- c. de voorschriften op de naleving of handhaving waarvan wordt toegezien;
+
+- d. het elektronische adres en, voor zover bekend, de omschrijving van de desbetreffende handelaar;
+
+- e. de onjuiste of onvolledige gegevens die bij het verrichten van de handelingen zijn verstrekt;
+
+- f. de wijze waarop de deelname en het tijdvak waarin de deelname heeft plaatsgevonden;
+
+- g. hetgeen tijdens het onderzoek is verricht, gebleken en overigens is voorgevallen.
+
+##### Artikel 3.4b
+
+[Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2020-02-19&g=2020-02-19) is van overeenkomstige toepassing ten aanzien van een inbreuk of inbreuk binnen de Unie, op bepalingen waarvoor de Stichting Autoriteit Financiële Markten krachtens [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2020-02-19&g=2020-02-19) is aangewezen als bevoegde autoriteit, met dien verstande dat voor «de Autoriteit Consument en Markt» wordt gelezen «de Stichting Autoriteit Financiële Markten».
+
+#### § 6. Gegevensuitwisseling
+
+### Hoofdstuk 4. Andere overheidsinstanties
+
+### Hoofdstuk 6. Consumentenorganisaties en instanties met een rechtmatig belang
+
+### Hoofdstuk 8. Consumentenbescherming
+
+### Hoofdstuk 9. Wijziging in andere wetten
+
+### Hoofdstuk 10. Slotbepalingen
+
+## Bijlage. bij de Wet handhaving consumentenbescherming
+
+| [Richtlijn 98/6/EG](31998L0006) van het Europees Parlement en de Raad van 16 februari 1998 betreffende de bescherming van de consument inzake de prijsaanduiding van aan de consument aangeboden producten (PbEG 1998, L80) | Het bepaalde bij of krachtens de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3), voor zover samenhangend met artikel 2b, van de Prijzenwet |
+| --- | --- |
+| [Richtlijn 2000/31/EG](32000L0031) van het Europees Parlement en de Raad van 8 juni 2000 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt (Richtlijn inzake elektronische handel) (PbEG 200, L178) | [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.2&z=2020-02-19&g=2020-02-19) van deze wet. |
+| [Richtlijn 2011/83](32011L0083)/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van [Richtlijn 93/13/EEG](31993L0013) van de Raad en van [Richtlijn 1999/44/EG](31999L0044) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 85/577/EEG](31985L0577) en van [Richtlijn 97/7/EG](31997L0007) (PbEU L 304/64) Richtlijn consumentenrechten) | De [artikelen 8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.2a&z=2020-02-19&g=2020-02-19), [8.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.4a&z=2020-02-19&g=2020-02-19) en [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.5&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 93/13/EEG](31993L0013) van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten (PbEG 1993, L95) | [Artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.3&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 1999/44/EG](31999L0044) van het Europees Parlement en de Raad van 25 mei 1999 betreffende bepaalde aspecten van de verkoop van en de garanties voor consumptiegoederen (PbEG 1999, L171) | [Artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.4&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 2008/122/EG](32008L0122) van het Europees Parlement en de Raad van 14 januari 2009 betreffende de bescherming van de consumenten met betrekking tot bepaalde aspecten van overeenkomsten betreffende gebruik in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling (PbEU 2008, L33/10) | [Artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.6&z=2020-02-19&g=2020-02-19) van deze wet |
+| Richtlijn (EU) 2015/2302 van het Europees Parlement en de Raad van 25 november 2015 betreffende pakketreizen en gekoppelde reisarrangementen, houdende wijziging van Verordening (EG) nr. 2006/2004 en van [Richtlijn 2011/83](32011L0083)/EU van het Europees Parlement en de Raad, en tot intrekking van [Richtlijn 90/314/EEG](31990L0314) van de Raad (PbEU 2015, L 326) | [Artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.7&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 2005/29/EG](32005L0029) van het Europees Parlement en de Raad van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt en tot wijziging van [Richtlijn 84/450/EEG](31984L0450) van de Raad, [Richtlijnen 97/7/EG](31997L0007), [98/27/EG](31998L0027) en [2002/65/EG](32002L0065) van het Europees Parlement en de Raad en van [Verordening (EG) nr. 2006/2004](32004R2006) van het Europees Parlement en de Raad (Richtlijn oneerlijke handelspraktijken) (PbEU 2005, L149) | De [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.8&z=2020-02-19&g=2020-02-19) en [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.11&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU 2006, L376) | [Artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.9&z=2020-02-19&g=2020-02-19) van deze wet |
+| Artikelen 1, 2, onderdeel c, en 4 tot en met 8 van [Richtlijn 2006/114/EG](32006L0114) van het Europees Parlement en de Raad van 12 december 2006 inzake misleidende reclame en vergelijkende reclame (PbEG 2006, L376) |   |
+| Artikel 23 van [Verordening (EG) nr. 1008/2008](32008R1008) van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU 2008, L293) |   |
+|   | [Artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.10&z=2020-02-19&g=2020-02-19) van deze wet |
+| [Richtlijn 2002/58/EG](32002L0058) van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PB L 201) (richtlijn betreffende privacy en elektronische communicatie) | [Artikel 11.7 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.7) |
+| Richtlijn 2013/11/EU van het Europees parlement en de Raad van 22 mei 2013 betreffende alternatieve geschillenbeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L165). | [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.12&z=2020-02-19&g=2020-02-19) van deze wet. |
+| Verordening (EU) nr. 524/ 2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L165). | [Artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.13&z=2020-02-19&g=2020-02-19) van deze wet. |
+| Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de [Richtlijnen 2002/65/EG](32002L0065), [2009/110/EG](32009L0110) en [2013/36](32013L0036)/EU en Verordening (EU) nr. [1093/2010](32993L2010) en houdende intrekking van [Richtlijn 2007/64/EG](32007L0064). | [Artikel 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.14&z=2020-02-19&g=2020-02-19) van deze wet. |
+| Verordening (EU) 2018/302 van het Europees Parlement en de Raad van 28 februari 2018 inzake de aanpak van ongerechtvaardigde geoblocking en andere vormen van discriminatie van klanten op grond van nationaliteit, verblijfplaats, of plaats van vestiging in de interne markt, en tot wijziging van Verordeningen (EG) nr. 2006/2004 en (EU) 2017/2394 en [Richtlijn 2009/22/EG](32009L0022) (PbEU 2018, L 60) |   |
+| Verordening (EU) 2017/1128 van het Europees Parlement en de Raad van 14 juni 2017 betreffende grensoverschrijdende portabiliteit van online-inhoudsdiensten in de interne markt (PbEU 2017, L168) |   |
+
+| [Richtlijn 2008/48/EG](32008L0048) van het Europees Parlement en de Raad van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van [Richtlijn 87/102/EEG](31987L0102) van de Raad (PbEG 2008, L133). | Het bepaalde ingevolge de [artikelen 2:60](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [4:20, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), en [4:33, derde en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33) |
+| --- | --- |
+| [Richtlijn 2002/65/EG](32002L0065) van het Europees Parlement en de Raad van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEU 2002, L271) | Het bepaalde ingevolge de [artikelen 4:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:19), en [4:20, eerste tot en met vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) |
+| [Richtlijn 2014/17](32014L0017)/EU van het Europees Parlement en de Raad van 4 februari 2014 inzake kredietovereenkomsten voor consumenten met betrekking tot voor bewoning bestemde onroerende goederen en tot wijziging van de [Richtlijnen 2008/48/EG](32008L0048) en [2013/36](32013L0036)/EU en Verordening (EU) [nr. 1093/2010](32993L2010) (PbEU 2014, L [60/34](31960L0034)) | Het bepaalde ingevolge de [artikelen 2:60](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:80](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [4:20, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), en [4:33, derde en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:33) en [artikel 121 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=121). |
+| [Richtlijn 2014/92](32014L0092)/EU van het Europees Parlement en de Raad van 23 juli 2014 betreffende de vergelijkbaarheid van de in verband met betaalrekeningen aangerekende vergoedingen, het overstappen naar een andere betaalrekening en de toegang tot betaalrekeningen met basisfuncties (Pb EU 2014, L257) | Artikelen 4:71f, 4:71g en 4:71h van de Wet op het financieel toezicht en het bepaalde ingevolge de artikelen 4:22, eerste lid, 4:71j, tweede lid, en 4:25, eerste lid, van de Wet op het financieel toezicht. |
+
+| [Richtlijn 2001/83/EG](32001L0083) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik: artikelen 86 tot 100 (PbEG L 311); Richtlijn laatstelijk gewijzigd bij [Richtlijn 2004/27/EG](32004L0027) (PbEU 2004, L 136). Artikel 9, eerste lid, onderdeel f, 10, derde lid, en 21 van [Richtlijn 2010/13](32010L0013)/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) (PbEU 2010, L95) | De [artikelen 82 tot en met 96 Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82) |
+| --- | --- |
+
+| Artikelen 9, eerste lid, onderdelen a, b, c, e, f en g, 10, eerste, derde en vierde lid, artikel 11, eerste, tweede en derde lid 19, 20, 21 en 22 tot en met 26 van [Richtlijn 2010/13](32010L0013)/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) (PbEU 2010, L95) | Het bepaalde bij of krachtens de [artikelen 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88), [2.88a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88a), [2.88b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88b), [2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.89), [2.94, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.94), [2.95, eerste lid, onderdelen b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.95), [2.96](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.96), [2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.97), [2.106, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106), [2.107](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107), [2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.109), [2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.113),[2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.114), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.5), [3.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.5a), [3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.5b), [3.7 tot en met 3.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.10) en [3.29d van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29d) De artikelen in de Nederlandse Reclame Code en de Reclamecode voor Alcoholhoudende dranken van de Stichting Reclame Code die dienen ter implementatie van de artikelen 12, 15 en 16 van Richtlijn 89/552/EEG, gewijzigd bij Richtlijn 97/36/EG, en waarop de [artikelen 2.92](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.92), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.6) en [9.16 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=9.16) van toepassing zijn. |
+| --- | --- |
+
+| [Verordening (EG) 261/2004](32004R0261) van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2004, L46) | [Artikelen 11.15, aanhef,onder b, onder 1° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.15), en [11.16, eerste lid, onder e, onder 1° en 3°, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.16). |
+| --- | --- |
+| [Verordening (EG) nr. 1107/2006](32006R1107) van het Europees Parlement en de Raad van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU 2006, L204) | Artikelen 11.15, aanhef,onder b, onder 1° en 7°, en 11.16, eerste lid, onder e, onder 1° en 3°, van de Wet luchtvaart. |
+| [Verordening (EG) nr. 1371/2007](32007R1371) van het Europees Parlement en de Raad van 23 oktober 2007 betreffende de rechten en verplichtingen van reizigers in het treinverkeer (PbEU 2007, L315) | [Artikel 93 van de Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=93). |
+| Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010, L334) |   |
+| Verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2011, L55) | Artikel 93 van de Wet personenvervoer. |
 
 | Artikelen 9, eerste lid, onderdeel d, 10, tweede lid, en 11, vierde lid, onderdeel a, van [Richtlijn 2010/13](32010L0013)/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) (PbEU 2010, L95) | [Artikel 5 van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) |
 | --- | --- |
