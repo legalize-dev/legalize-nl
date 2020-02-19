@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2019-03-01"
+last_updated: "2020-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -80,13 +80,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Voor subsidieverstrekking op grond van deze regeling is voor 2019 een bedrag van € 16.342.750,– beschikbaar.
 
-3. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
+3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 8.934.000 beschikbaar.
+
+4. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. Na afloop van de aanvraagperiode wordt jaarlijks door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd.
 
-2. Loting vindt plaats per regio, zoals bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2016-2019](https://wetten.overheid.nl/jci1.3:c:BWBR0037100&artikel=3). De regio waarin aanvragen meeloten, wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
+2. Loting vindt plaats per regio, zoals bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=3). De regio waarin aanvragen meeloten, wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
 
 3. Per regio zijn de volgende percentages van het subsidieplafond beschikbaar:
 
@@ -112,13 +114,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. het zet in op ouderbetrokkenheid,
 
-- e. het bevat ten minste twee van de volgende drie inhoudelijke lijnen, waarvan lijn iii. altijd aanwezig is:
+- e. het bevat ten minste twee van de volgende inhoudelijke lijnen, waarvan lijn 4 in ieder geval aanwezig is:
 
-- i. het versterken van cognitieve vaardigheden,
+- 1°. het versterken van cognitieve vaardigheden,
 
-- ii. het versterken van metacognitieve vaardigheden,
+- 2°. het versterken van taal- en leesvaardigheden,
 
-- iii. het inzetten op omgevingsfactoren en de thuissituatie.
+- 3°. het versterken van metacognitieve vaardigheden,
+
+- 4°. het inzetten op omgevingsfactoren en de thuissituatie.
 
 2. De aanvraag bevat een onderbouwde prognose van het aantal deelnemers en maakt daarbij het aantal deelnemers per deelnemende school of nevenvestiging inzichtelijk. Tevens wordt omschreven op welke wijze de deelnemers worden geselecteerd.
 
@@ -132,7 +136,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een door alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen getekende verklaring, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2019-03-01&g=2019-03-01).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-02-19&g=2020-02-19).
 
 ##### Artikel 8. Subsidieaanvraag
 
@@ -184,7 +188,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2023.
+2. Deze regeling vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 15. Citeertitel
 
