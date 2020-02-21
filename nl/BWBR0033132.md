@@ -4,7 +4,7 @@ identifier: "BWBR0033132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2020-01-01"
+last_updated: "2020-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033132"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Aan de ACM wordt op het werkterrein van de ACM volmacht en machtiging verleend v
 
 ##### Artikel 5
 
-Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-02-21&g=2020-02-21), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6
 
@@ -106,7 +106,7 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 - d. beslissingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies, waarvoor die salarisschalen gelden, inhoudende:
 
-- 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste en tijdelijke aanstellingen van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
+- 1°. het aanbieden en het beëindigen van een arbeidsovereenkomst voor onbepaalde of bepaalde tijd met betrekking tot ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
 - 2°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
@@ -126,13 +126,13 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 ##### Artikel 7
 
-1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
+1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-02-21&g=2020-02-21) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
 
-2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
+2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-02-21&g=2020-02-21) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
 
-3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
+3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2020-02-21&g=2020-02-21) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
 
-4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2020-01-01&g=2020-01-01) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
+4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2020-02-21&g=2020-02-21) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
 
 ##### Artikel 8
 
