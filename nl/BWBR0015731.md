@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2020-01-01"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2020-02-22&g=2020-02-22).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -112,7 +112,7 @@ Deze paragraaf is van toepassing op aanvragen tot verlening van een vergunning v
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&z=2020-02-22&g=2020-02-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&z=2020-02-22&g=2020-02-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&z=2020-02-22&g=2020-02-22) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3a&z=2020-02-22&g=2020-02-22) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -160,7 +160,7 @@ Emmasingel 1
 
 Een vergunning wordt slechts verleend aan de aanvrager die beschikt over de toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
 
-#### § 4. Overig gebruik
+#### § 3a. Digitale radio-omroep laag 6
 
 ### Hoofdstuk 3a. Tijdelijke aanvullende toelatingscriteria voor de verdeling van frequentieruimte voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019
 
@@ -172,7 +172,29 @@ Vervallen
 
 ##### Artikel 9a
 
-[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2020-01-01&g=2020-01-01) vervalt met ingang van 1 januari 2020.
+[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2020-02-22&g=2020-02-22) vervalt met ingang van 1 januari 2020.
+
+## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6e
+
+De [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6a&z=2020-02-22&g=2020-02-22), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6b&z=2020-02-22&g=2020-02-22), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6c&z=2020-02-22&g=2020-02-22), en [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6d&z=2020-02-22&g=2020-02-22), zijn van overeenkomstige toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in nationale voetnoot HOL007B van het Nationaal Frequentieplan 2014, met dien verstande dat in artikel 6c, tweede lid, voor ‘Projectteam laagvermogen middengolfvergunningen’ wordt gelezen ‘Projectteam tijdelijke verdeling DAB laag 6’.
+
+##### Artikel 6f
+
+1. Aanvragen kunnen worden ingediend vanaf een door de minister te bepalen tijdstip.
+
+2. Voor aanvragen die worden ingediend binnen 4 weken vanaf het tijdstip, bedoeld in het eerste lid, wordt per allotment ten hoogste één vergunning verleend per rechtspersoon.
+
+#### § 4. Overig gebruik
+
+### Hoofdstuk 3a. Tijdelijke aanvullende toelatingscriteria voor de verdeling van frequentieruimte voor laagvermogen middengolfomroep die beschikbaar komt op 11 mei 2019
+
+### Hoofdstuk 4. Slotbepalingen
 
 ## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
