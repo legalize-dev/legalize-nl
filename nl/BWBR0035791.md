@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2019-12-06"
+last_updated: "2020-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1182,7 +1182,7 @@ Onder strikte voorwaarden medegebruik door SRD voor inductieve systemen op Non I
 
 Is vervallen m.i.v. NFP2014.
 
-De volgende frequentiebanden vormen onderwerp van studie:
+De volgende frequentieblokken, met uitzondering waar deze frequentieblokken in de gearceerde/ingekleurde dekkingsgebieden in tabel en afbeelding in nationale voetnoot HOL007B zijn opgenomen, vormen onderwerp van studie:
 
 * Het frequentieblok 9C vormt onderwerp van studie voor zover het dekkingsgebied van dit frequentieblok niet grotendeels samenvalt met de provincie Limburg dan wel met de provincie Brabant.
 
@@ -1224,6 +1224,12 @@ Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de
 
 Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
+**Bestemming voor de periode tot en met 31 augustus 2022**
+
+Tot en met 31 augustus 2022 zijn de frequentieblokken in de onderstaande tabel en afbeelding bestemd voor digitale radio-omroep.
+
+In afwijking van hetgeen voor commerciële omroep in de kolom ‘Verdeelmechanisme’ van de in hoofdstuk 10 opgenomen Frequentietabel wordt bepaald, worden de in de ingekleurde geografische gebieden genoemde frequentieblokken op volgorde van binnenkomst verleend.
+
 Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
 
 medegebruik toestaan aan het ministerie van Veiligheid en Justitie. Deze nationale
@@ -1236,7 +1242,7 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-Het gebruik van maritieme frequenties ten behoeve van maritieme veiligheid of maritieme werkzaamheden waarbij de gebruikte radioapparatuur niet gebonden is aan een schip. Voorbeelden hiervan zijn roeiers/vastmakers in de havens, onderhoudspersoneel op installaties op zee en wadloopgidsen. Het bezit van een maritiem bedieningscertificaat is verplicht.
+Systeem dat automatisch op regelmatige tijden de identiteit van een schip, de positie, het type schip, de koers, de snelheid en dergelijke uitzendt.
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1366,13 +1372,13 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **MLS** – **Microwave Landing System** / Systeem t.b.v. het laten landen van vliegtuigen.
 
-**Mobiele communicatie** – Een radiocommunicatiedienst tussen mobiele stations en landstations, of tussen mobiele stations onderling. / Mobile communication -radiocommunication service between mobile and land stations, or between mobile stations.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **Mobile station / Mobiel station**
 
 **A station in the mobile service intended to be used while in motion or during halts at unspecified points.** / Een station dat behoort tot de mobiele radiocommunicatiedienst en gebruikt mag worden indien in beweging of vast op ongespecificeerde locaties.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
 
 **NDB** – **Non Directional Beacon**/ Navigatiebaken.
 
@@ -1434,19 +1440,13 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
-**WRC –** **World Radio Conference**
-
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
-
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
-
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-**MWS** – **Multimedia Wireless Systems** / Breedbandige multimedia toepassingen.
+**Mobiele communicatie** – Een radiocommunicatiedienst tussen mobiele stations en landstations, of tussen mobiele stations onderling. / Mobile communication -radiocommunication service between mobile and land stations, or between mobile stations.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
+**WRC –** **World Radio Conference**
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1462,9 +1462,9 @@ Tot 1 september 2017 zijn de frequentiebanden 182.792 – 184.504 MHz; 188 – 1
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
-This frequency plan mentions, where possible, the English terms and abbreviations so as to make it also accessible to the non-Dutch reader. However, Dutch regulation requires this decree to be published in Dutch. (Should there be any possible difference in interpretation, the Dutch text shall prevail).
+The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1472,19 +1472,19 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
+
+This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
+
+This frequency plan mentions, where possible, the English terms and abbreviations so as to make it also accessible to the non-Dutch reader. However, Dutch regulation requires this decree to be published in Dutch. (Should there be any possible difference in interpretation, the Dutch text shall prevail).
+
 An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
-
-In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
-
-In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
-
-In addition to this Frequency plan, a Frequency Register is also available and largely accessible in English. In this database the entire Dutch national allocation table can be consulted on assignments, usage conditions and radio interfaces. See https://loket.at-ez.nl/fpat/content/select_language.do?lang=en
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-The procedure for changing this decree has a duration of approximately five months. A public consultation of six weeks is standard in this procedure. Following the publication of this document, this frequency table will be periodically adapted i.e. updated with the latest EC-Decisions, ECC Decisions etc. The consolidated decree version of this frequency plan is permanently available at: http://www.rijksoverheid.nl/onderwerpen/frequentiebeleid/nationaal-frequentieplan-nfp
+In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1604,6 +1604,12 @@ The downlinks for a passive radiocommunication service in which space crafts or 
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
+
+In addition to this Frequency plan, a Frequency Register is also available and largely accessible in English. In this database the entire Dutch national allocation table can be consulted on assignments, usage conditions and radio interfaces. See https://loket.at-ez.nl/fpat/content/select_language.do?lang=en
+
+The procedure for changing this decree has a duration of approximately five months. A public consultation of six weeks is standard in this procedure. Following the publication of this document, this frequency table will be periodically adapted i.e. updated with the latest EC-Decisions, ECC Decisions etc. The consolidated decree version of this frequency plan is permanently available at: http://www.rijksoverheid.nl/onderwerpen/frequentiebeleid/nationaal-frequentieplan-nfp
+
 For more information please consult the names and addresses in the colophon.
 
 **Lijst met belangrijke links:**
@@ -1619,12 +1625,6 @@ A.H.W. Zwiers; ton.zwiers(a)agentschaptelecom.nl
 Drs. T. Deinum; t.deinum(a)minez.nl
 
 Agentschap Telecom
-
-Emmasingel 1
-
-9726 AH Groningen
-
-Postbus 450
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1650,6 +1650,12 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
+Emmasingel 1
+
+9726 AH Groningen
+
+Postbus 450
+
 9700 AL Groningen
 
 Telefoon (050) 587 74 44
@@ -1666,15 +1672,21 @@ Bezuidenhoutseweg 73
 
 Postbus 20401
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 2500 EK Den Haag
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Telefoon (070) 379 89 11
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
 
