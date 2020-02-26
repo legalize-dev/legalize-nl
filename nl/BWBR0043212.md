@@ -4,7 +4,7 @@ identifier: "BWBR0043212"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-02-26"
-last_updated: "2020-01-15"
+last_updated: "2020-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043212"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-01-15).
+- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26).
 
 ##### Artikel 2. Instelling en taak
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 6. De werkgroep wordt ingesteld per 15 januari 2020.
 
-7. De werkgroep wordt opgeheven twee weken nadat de toolbox zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-01-15) aan de minister is aangeboden.
+7. De werkgroep wordt opgeheven twee weken nadat de toolbox zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26) aan de minister is aangeboden.
 
 ##### Artikel 4. Werkwijze
 
