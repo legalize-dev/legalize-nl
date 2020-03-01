@@ -4,7 +4,7 @@ identifier: "BWBV0006798"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-03-01"
-last_updated: "2018-11-27"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006798"
 soort: "verdrag"
@@ -120,7 +120,7 @@ Overwegende dat de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV000140
 
 Overwegende dat de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001400) in de Bulgaarse en Roemeense taalversies authentiek werd verklaard onder dezelfde voorwaarden als de versies in de oorspronkelijke talen van de Overeenkomst;
 
-Overwegende dat [artikel 5, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006798&artikel=5&z=2018-11-27&g=2018-11-27), van dit protocol het mogelijk maakt dat de Europese Unie en haar lidstaten dit protocol voorlopig toepassen vooraleer hun interne procedures voor de inwerkingtreding van het protocol zijn voltooid,
+Overwegende dat [artikel 5, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006798&artikel=5&z=2020-03-01&g=2020-03-01), van dit protocol het mogelijk maakt dat de Europese Unie en haar lidstaten dit protocol voorlopig toepassen vooraleer hun interne procedures voor de inwerkingtreding van het protocol zijn voltooid,
 
 Zijn als volgt overeengekomen:
 
