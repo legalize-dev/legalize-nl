@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2019-03-01"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -72,7 +72,7 @@ Besluit:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2019-03-01&g=2019-03-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2020-03-01&g=2020-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -80,7 +80,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2019-03-01&g=2019-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2019-03-01&g=2019-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2020-03-01&g=2020-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2020-03-01&g=2020-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -88,7 +88,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2019-03-01&g=2019-03-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2020-03-01&g=2020-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -96,7 +96,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2019-03-01&g=2019-03-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2020-03-01&g=2020-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -108,7 +108,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2019-03-01&g=2019-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2019-03-01&g=2019-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2019-03-01&g=2019-03-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2020-03-01&g=2020-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2020-03-01&g=2020-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2020-03-01&g=2020-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -126,9 +126,9 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 Deze regeling kan worden aangehaald als Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens staatsexamens VO en staatsexamens VO BES 2019
+## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo en Staatsexamens vo BES 2020
 
-Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de staatsexamens vo en staatsexamens vo BES.
+Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo en Staatsexamens vo BES.
 
 Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de college-examens:
 
@@ -142,6 +142,7 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | leesopdracht Italiaanse taal en literatuur |
 | schrijfopdracht Italiaanse taal en literatuur (elementair) |
 | leesopdracht Italiaanse taal en literatuur (elementair) |
+| schrijfopdracht Papiamentse taal |
 | schrijfopdracht Spaanse taal en literatuur |
 | schrijfopdracht Spaanse taal en literatuur (elementair) |
 | leesopdracht Spaanse taal en literatuur (elementair) |
@@ -171,6 +172,7 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 | leesopdracht Italiaanse taal en literatuur |
 | schrijfopdracht Italiaanse taal en literatuur (elementair) |
 | leesopdracht Italiaanse taal en literatuur (elementair) |
+| schrijfopdracht Papiamentse taal |
 | schrijfopdracht Spaanse taal en literatuur |
 | schrijfopdracht Spaanse taal en literatuur (elementair) |
 | leesopdracht Spaanse taal en literatuur (elementair) |
@@ -188,8 +190,10 @@ Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de colle
 
 | schrijfopdracht Frans |
 | --- |
+| schrijfopdracht Fries |
 | schrijfopdracht Duits |
 | schrijfopdracht Engels |
+| schrijfopdracht Papiamentse taal |
 | schrijfopdracht Spaans |
 | schrijfopdracht Turks |
 | maatschappijleer |
@@ -228,7 +232,7 @@ De volgende mondelinge examens worden afgenomen:
 
 De volgende praktische examens worden afgenomen:
 
-## Bijlage 2. Mondelinge examens staatsexamens VO en staatsexamens VO BES 2019
+## Bijlage 2. Mondelinge examens Staatsexamens vo en Staatsexamens vo BES 2020
 
 De volgende mondelinge examens worden afgenomen:
 
@@ -254,11 +258,13 @@ De volgende mondelinge examens worden afgenomen:
 | Latijnse taal en cultuur |
 | maatschappijleer |
 | maatschappijwetenschappen |
+| maatschappijwetenschappen (oud programma) |
 | management en organisatie |
 | natuur, leven en technologie |
 | natuurkunde |
 | Nederlandse taal en literatuur |
-| profielwerkstuk en oriëntatie op studie en beroep |
+| Papiamentse taal |
+| profielwerkstuk |
 | Russische taal en literatuur |
 | Russische taal en literatuur (elementair) |
 | scheikunde |
@@ -276,6 +282,7 @@ De volgende mondelinge examens worden afgenomen:
 | algemene natuurwetenschappen |
 | Arabische taal en literatuur |
 | Arabische taal en literatuur (elementair) |
+| bedrijfseconomie |
 | biologie |
 | Duitse taal en literatuur |
 | economie |
@@ -288,13 +295,13 @@ De volgende mondelinge examens worden afgenomen:
 | Italiaanse taal en literatuur |
 | Italiaanse taal en literatuur (elementair) |
 | maatschappijleer |
-| maatschappijwetenschappen (oud programma) |
-| maatschappijwetenschappen (nieuw programma) |
-| management en organisatie |
+| maatschappijwetenschappen |
+| management en organisatie (oud programma) |
 | natuur, leven en technologie |
 | natuurkunde |
 | Nederlandse taal en literatuur |
-| profielwerkstuk en oriëntatie op studie en beroep |
+| Papiamentse taal |
+| profielwerkstuk |
 | Russische taal en literatuur |
 | Russische taal en literatuur (elementair) |
 | scheikunde |
@@ -321,7 +328,8 @@ De volgende mondelinge examens worden afgenomen:
 | natuur- en scheikunde I |
 | natuur- en scheikunde II |
 | Nederlandse taal |
-| profielwerkstuk en loopbaanoriëntatie begeleiding |
+| Papiamentse taal |
+| profielwerkstuk |
 | Spaanse taal |
 | Turkse taal |
 | wiskunde |
@@ -329,7 +337,7 @@ De volgende mondelinge examens worden afgenomen:
 | aardrijkskunde |
 | --- |
 | Arabische taal |
-| Biologie |
+| biologie |
 | Duitse taal |
 | economie |
 | Engelse taal |
@@ -360,7 +368,7 @@ De volgende mondelinge examens worden afgenomen:
 | Turkse taal |
 | wiskunde |
 
-## Bijlage 3. Praktische examens staatsexamens VO en staatsexamens VO BES 2019
+## Bijlage 3. Praktische examens Staatsexamens vo en Staatsexamens vo BES 2020
 
 De volgende praktische examens worden afgenomen:
 
