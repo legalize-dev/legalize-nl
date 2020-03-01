@@ -4,7 +4,7 @@ identifier: "BWBR0042843"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-03-01"
-last_updated: "2019-12-06"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042843"
 soort: "AMvB"
@@ -70,11 +70,9 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 Wijzigt het Frequentiebesluit 2013.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042843&artikel=3&z=2019-12-06&g=2019-12-06) dat in werking treedt op het tijdstip waarop de wet van 14 maart 2018, tot wijziging van de Telecommunicatiewet en van de Mediawet 2008 (gebruiksbeperking frequentieruimte en digitale radio-omroep) (Stb. 2018, 87) in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042843&artikel=3&z=2020-03-01&g=2020-03-01) dat in werking treedt op het tijdstip waarop de wet van 14 maart 2018, tot wijziging van de Telecommunicatiewet en van de Mediawet 2008 (gebruiksbeperking frequentieruimte en digitale radio-omroep) (Stb. 2018, 87) in werking treedt.
 
 ##### Artikel 5
 
