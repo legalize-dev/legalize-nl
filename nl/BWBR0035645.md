@@ -4,7 +4,7 @@ identifier: "BWBR0035645"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2015-01-01"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035645"
 soort: "wet"
@@ -69,13 +69,13 @@ De [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&paragraaf=4), 
 
 ##### Artikel IVb
 
-1. Op verzoeken tot inschrijving als advocaat, bedoeld in [artikel 2, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=2), ingediend vóór de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2015-01-01&g=2015-01-01), van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.
+1. Op verzoeken tot inschrijving als advocaat, bedoeld in [artikel 2, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=2), ingediend vóór de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2020-03-01&g=2020-03-01), van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.
 
-2. Op besluiten krachtens [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c), die zijn genomen vóór de inwerkingtreding van [artikel I, onderdeel Ka](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2015-01-01&g=2015-01-01) van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.
+2. Op besluiten krachtens [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c), die zijn genomen vóór de inwerkingtreding van [artikel I, onderdeel Ka](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2020-03-01&g=2020-03-01) van deze wet, blijft het recht van toepassing zoals dat op dat moment gold.
 
 ##### Artikel IVc
 
-Het bepaalde in [artikel 20 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=20) is van toepassing vanaf de eerste verkiezing als bedoeld in het eerste lid van dat artikel op of na de datum van inwerkingtreding van [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2015-01-01&g=2015-01-01), van deze wet.
+Het bepaalde in [artikel 20 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=20) is van toepassing vanaf de eerste verkiezing als bedoeld in het eerste lid van dat artikel op of na de datum van inwerkingtreding van [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2020-03-01&g=2020-03-01), van deze wet.
 
 ##### Artikel V
 
@@ -91,7 +91,7 @@ Na de inwerkingtreding van deze wet berust het [Kostuum- en titulatuurbesluit re
 
 ##### Artikel VIa
 
-Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel I, onderdelen H, I, La, Nd, R, S, T, Za, AAb, AAc, DD, DDa, DDb, FF, FFa, FFc, FFd, FFe, FFg en FFh](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2015-01-01&g=2015-01-01) van deze wet in de praktijk.
+Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel I, onderdelen H, I, La, Nd, R, S, T, Za, AAb, AAc, DD, DDa, DDb, FF, FFa, FFc, FFd, FFe, FFg en FFh](https://wetten.overheid.nl/jci1.3:c:BWBR0035645&artikel=I&z=2020-03-01&g=2020-03-01) van deze wet in de praktijk.
 
 ##### Artikel VII
 
