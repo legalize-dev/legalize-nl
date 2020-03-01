@@ -115,15 +115,3 @@ De persoon die uitsluitend om studieredenen in het Europees deel van Nederland w
 Deze regeling treedt in werking met ingang van 1 maart 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Citeertitel
-
-Deze beleidsregel wordt aangehaald als: Beleidsregel RCN-unit SZW toepassing AOV en AWW BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Citeertitel
-
-Deze beleidsregel wordt aangehaald als: Beleidsregel RCN-unit SZW toepassing AOV en AWW BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
