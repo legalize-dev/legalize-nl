@@ -4,7 +4,7 @@ identifier: "BWBR0019728"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-15"
-last_updated: "2017-03-18"
+last_updated: "2020-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019728"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - e. geleider: ambtenaar van politie die toestemming heeft van de korpschef om dienst te doen met een politiespeurhond, politiesurveillancehond of AOT-hond;
 
-- f. keuringsreglement: als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2017-03-18&g=2017-03-18) opgenomen reglement op grond waarvan keuringen plaatsvinden;
+- f. keuringsreglement: als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2017-03-18&g=2020-03-01) opgenomen reglement op grond waarvan keuringen plaatsvinden;
 
 - g. minister: Minister van Veiligheid en Justitie;
 
@@ -99,9 +99,9 @@ Bewapening met een AOT-hond geschiedt uitsluitend bij het optreden van een aanho
 
 1. Er is een keuringscommissie voor de politiespeurhond, waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiespeurhond. De rijksgecommitteerden bepalen voor welke keuring van geleider en politiespeurhond de verschillende leden van de keuringscommissie worden ingezet.
 
-2. Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2017-03-18). De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschef getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.
+2. Er is een keuringscommissie voor de politiesurveillancehond waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiesurveillancehond, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2020-03-01). De aanwijzing vindt plaats nadat het aan te wijzen lid is aangemeld bij een door de korpschef getroffen voorziening voor de organisatie en administratie van keuringen. Aanwijzing vindt niet plaats dan nadat het aan te wijzen lid het examen, bedoeld in het keuringsreglement voor de politiesurveillancehond, met goed gevolg heeft afgelegd.
 
-3. Er is een keuringscommissie voor de AOT-hond waarvan de leden, uit de kring van leden van de keuringscommissie voor de politiesurveillancehond, worden aangewezen door de rijksgecommitteerden voor de AOT-hond, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2017-03-18).
+3. Er is een keuringscommissie voor de AOT-hond waarvan de leden, uit de kring van leden van de keuringscommissie voor de politiesurveillancehond, worden aangewezen door de rijksgecommitteerden voor de AOT-hond, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2020-03-01).
 
 4. De leden van de keuringscommissie voor de politiespeurhond, van de keuringscommissie voor de politiesurveillancehond en van de keuringscommissie voor de AOT-hond zijn ambtenaar van politie. Van de keuringscommissie voor de politiespeurhond kunnen tevens lid zijn buitengewoon opsporingsambtenaren als bedoeld in [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142).
 
@@ -111,7 +111,7 @@ Bewapening met een AOT-hond geschiedt uitsluitend bij het optreden van een aanho
 
 1. De minister wijst rijksgecommitteerden aan voor de politiespeurhond, de politiesurveillancehond en de AOT-hond.
 
-2. [Artikel 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2017-03-18&g=2017-03-18), zijn van overeenkomstige toepassing op de rijksgecommitteerden voor de politiespeurhond, respectievelijk voor de politiesurveillancehond en voor de AOT-hond.
+2. [Artikel 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2017-03-18&g=2020-03-01), zijn van overeenkomstige toepassing op de rijksgecommitteerden voor de politiespeurhond, respectievelijk voor de politiesurveillancehond en voor de AOT-hond.
 
 3. De rijksgecommitteerden voor de politiespeurhond, respectievelijk de rijksgecommitteerden voor de politiesurveillancehond, respectievelijk de rijksgecommitteerden voor de AOT-hond houden toezicht op de kwaliteit en de objectiviteit van de keuringen en herkeuringen door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOT-hond en de juiste naleving van de regels terzake.
 
@@ -129,7 +129,7 @@ Voor een keuring komen in aanmerking honden die:
 
 1. Aan een keuring van een combinatie van een geleider en een politiespeurhond kunnen deelnemen ambtenaren van politie die zijn aangewezen als geleider.
 
-2. De keuring vindt niet plaats dan nadat de geleider politiespeurhond het examen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=10&z=2017-03-18&g=2017-03-18), met goed gevolg heeft afgelegd.
+2. De keuring vindt niet plaats dan nadat de geleider politiespeurhond het examen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=10&z=2017-03-18&g=2020-03-01), met goed gevolg heeft afgelegd.
 
 3. De keuring van een combinatie van een geleider en een politiespeurhond geschiedt door de keuringscommissie voor de politiespeurhond op basis van het keuringsreglement voor de politiespeurhond.
 
@@ -303,7 +303,7 @@ Voor een keuring komen in aanmerking honden die:
 
 ##### Artikel 14. Herkeuring
 
-1. Een combinatie van een geleider en een politiespeurhond, respectievelijk een combinatie van een geleider en een politiesurveillancehond, respectievelijk een combinatie van een geleider en een AOT-hond, wordt binnen twee jaar na het behalen van het certificaat, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2017-03-18&g=2017-03-18), opnieuw gekeurd door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOT-hond.
+1. Een combinatie van een geleider en een politiespeurhond, respectievelijk een combinatie van een geleider en een politiesurveillancehond, respectievelijk een combinatie van een geleider en een AOT-hond, wordt binnen twee jaar na het behalen van het certificaat, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2017-03-18&g=2020-03-01), opnieuw gekeurd door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOT-hond.
 
 2. De herkeuring van een combinatie van een geleider en een politiespeurhond vindt alleen plaats als de geleider aantoont dat hij sinds de laatste keuring of herkeuring jaarlijks een door de rijksgecommitteerden voor de politiespeurhond aangewezen bijscholingscursus heeft gevolgd.
 
@@ -317,11 +317,11 @@ Voor een keuring komen in aanmerking honden die:
 
 ##### Artikel 15
 
-Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2017-03-18&g=2017-03-18), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2017-03-18), van deze regeling.
+Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2017-03-18&g=2020-03-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2017-03-18&g=2020-03-01), van deze regeling.
 
 ##### Artikel 16
 
-Na inwerkingtreding van deze regeling berusten de op grond van de [Regeling politiespeurhonden 1997](onbekend) en de [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) afgegeven certificaten op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2017-03-18&g=2017-03-18) van deze regeling.
+Na inwerkingtreding van deze regeling berusten de op grond van de [Regeling politiespeurhonden 1997](onbekend) en de [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) afgegeven certificaten op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2017-03-18&g=2020-03-01) van deze regeling.
 
 ##### Artikel 17
 
@@ -407,4 +407,4 @@ Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en ui
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2017-03-18&g=2017-03-18), die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2017-03-18&g=2020-03-01), die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
