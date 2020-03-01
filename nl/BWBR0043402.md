@@ -261,35 +261,3 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a. Overgangsrecht in verband met de verlenging van de bijstandsverlening tot 1 oktober 2020.
-
-Het in of krachtens dit besluit, zoals dit luidde op 30 september 2020, gestelde blijft van toepassing op tot 1 oktober 2020 aangevraagde bijstand.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a. Activering
-
-Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=9a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17) verstrekt de zelfstandige op verzoek van het college bij de aanvraag van algemene bijstand op grond van dit besluit of tijdens de bijstand de door het college gevraagde informatie gericht op voortzetting, wijziging of beëindiging van zijn beroeps- of bedrijfsactiviteiten of gericht op zijn arbeidsinschakeling.
-
-### Hoofdstuk 3. Bijstand voor bedrijfskapitaal
-
-### Hoofdstuk 4. Ministeriële regelingen
-
-### Hoofdstuk 5. Financiering en verantwoording
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 18a. Uitbreiding periode en duur van de regeling
-
-1. Bij ministeriële regeling kan de duur en periode, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=2&artikel=9&z=2021-10-01&g=2021-10-01), worden uitgebreid en kan de datum, bedoeld in [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043402&hoofdstuk=3&artikel=14&z=2021-10-01&g=2021-10-01), later worden vastgesteld voor zover dat nodig is in verband met de gevolgen van de crisis in verband met COVID-19 en de bijstandverlening aan zelfstandigen. De uitbreiding of vaststelling, bedoeld in de eerste zin, kan slechts betrekking hebben op het tijdvak 1 oktober 2021 tot en met 31 maart 2022.
-
-2. In de ministeriële regeling, bedoeld in het eerste lid, kunnen nadere regels en zo nodig afwijkende regels van dit besluit en het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) worden gesteld voor regeling van de samenloop van een aanvraag op grond van dit besluit en een aanvraag als bedoeld in [artikel 54 van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=54).
-
-### Hoofdstuk 5. Financiering en verantwoording
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
