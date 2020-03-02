@@ -4,7 +4,7 @@ identifier: "BWBR0043015"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2020-01-01"
+last_updated: "2020-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043015"
 soort: "ministeriele-regeling"
@@ -124,21 +124,21 @@ Het doel van deze regeling is om door middel van subsidie een bijdrage te levere
 
 Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgende tijdvakken:
 
-- a. voor aanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-01-01), van 2 maart 12:00 uur tot en met 31 maart 17:00 uur en van 1 september 09:00 uur tot en met 30 september 17:00 uur;
+- a. voor aanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-03-02), van 2 maart 12:00 uur tot en met 31 maart 17:00 uur en van 1 september 09:00 uur tot en met 30 september 17:00 uur;
 
-- b. voor aanvragen op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-01-01), van 1 april 09:00 uur tot en met 30 juni 17:00 uur.
+- b. voor aanvragen op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-03-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-03-02), van 1 april 09:00 uur tot en met 30 juni 17:00 uur.
 
 ##### Artikel 6. Subsidieplafond
 
-1. Het subsidieplafond voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-01-01) bedraagt voor het jaar 2020:
+1. Het subsidieplafond voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-03-02) bedraagt voor het jaar 2020:
 
 - a. € 15 miljoen voor het tijdvak van 2 maart 12:00 uur tot en met 31 maart 17:00 uur;
 
 - b. € 14,5 miljoen voor het tijdvak van 1 september 09:00 uur tot en met 30 september 17:00 uur.
 
-2. Het subsidieplafond voor subsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-01-01) bedraagt voor het jaar 2020 € 17,5 miljoen.
+2. Het subsidieplafond voor subsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-03-02) bedraagt voor het jaar 2020 € 17,5 miljoen.
 
-3. Het subsidieplafond voor subsidies op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-01-01) bedraagt voor het jaar 2020 € 1,2 miljoen.
+3. Het subsidieplafond voor subsidies op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-03-02) bedraagt voor het jaar 2020 € 1,2 miljoen.
 
 4. Voor latere jaren stelt de minister telkens voor 1 januari het subsidieplafond vast.
 
@@ -158,7 +158,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 4. Voor de opzet van het activiteitenplan wordt in het daarvoor geldende format, onverminderd [artikel 3.4 van de kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval opgenomen:
 
-- a. op welke wijze het initiatief bijdraagt aan het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01) omschreven doel;
+- a. op welke wijze het initiatief bijdraagt aan het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-03-02) omschreven doel;
 
 - b. of en in hoeverre andere partijen betrokken en geconsulteerd zijn;
 
@@ -176,7 +176,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 ##### Artikel 8. Rangschikking behandeling subsidieaanvragen
 
-1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-01-01), wordt na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
+1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-03-02), wordt na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
 2. Alleen volledige subsidieaanvragen worden in behandeling genomen.
 
@@ -184,7 +184,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 ##### Artikel 9. Beschikking tot subsidieverlening
 
-1. Op een subsidieaanvraag wordt binnen 18 weken beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01), en voor zover sprake is van een samenwerkingsverband de eisen, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=21&z=2020-01-01&g=2020-01-01).
+1. Op een subsidieaanvraag wordt binnen 18 weken beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-03-02), en voor zover sprake is van een samenwerkingsverband de eisen, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=21&z=2020-01-01&g=2020-03-02).
 
 2. De minister kan zich voor de beoordeling van de aanvraag laten adviseren door externe partijen.
 
@@ -214,15 +214,15 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - i. er geen de-minimisverklaring is afgegeven;
 
-- j. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-01-01) wordt overschreden; of
+- j. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2020-01-01&g=2020-03-02) wordt overschreden; of
 
 - k. de subsidieaanvraag ziet op het ontwikkelen van een initiatief niet bedoeld voor werkenden in de onderneming maar voor commerciële doeleinden.
 
 ##### Artikel 11. Looptijd
 
-1. Een initiatief voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-01-01) wordt afgerond binnen een periode van 12 maanden.
+1. Een initiatief voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2020-01-01&g=2020-03-02) wordt afgerond binnen een periode van 12 maanden.
 
-2. Een initiatief voor subsidies op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-01-01) wordt afgerond binnen een periode van 24 maanden.
+2. Een initiatief voor subsidies op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2020-01-01&g=2020-03-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2020-01-01&g=2020-03-02) wordt afgerond binnen een periode van 24 maanden.
 
 3. Een initiatief kan pas aanvangen na ontvangst van de volledige subsidieaanvraag en wordt uitgevoerd binnen de in de beschikking tot subsidieverlening genoemde initiatiefperiode.
 
@@ -230,7 +230,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 12. Subsidiabele kosten
 
-1. Voor de subsidie van initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), komen de volgende kosten in aanmerking:
+1. Voor de subsidie van initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), komen de volgende kosten in aanmerking:
 
 - a. externe kosten die daadwerkelijk zijn gemaakt ter uitvoering van een subsidiabel initiatief;
 
@@ -268,7 +268,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 13. Niet subsidiabele kosten
 
-Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), komen niet voor subsidie in aanmerking:
+Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), komen niet voor subsidie in aanmerking:
 
 - a. onredelijk en niet noodzakelijk gemaakte kosten ter uitvoering van het initiatief of een onderdeel daarvan;
 
@@ -290,7 +290,7 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 ##### Artikel 14. Subsidiabele vergoeding praktijkleerplaatsen
 
-1. De subsidie, bedoeld onder [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), is een tegemoetkoming in de kosten die een ondernemer voor dit doel maakt.
+1. De subsidie, bedoeld onder [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), is een tegemoetkoming in de kosten die een ondernemer voor dit doel maakt.
 
 2. De subsidiabele vergoeding wordt verleend naar rato van het aantal weken dat de leerling, deelnemer of student bij de beroepspraktijkvorming aanwezig is geweest, met een maximum van 40 weken en € 2.700 per jaar.
 
@@ -308,13 +308,13 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 6. In aanvulling op het eerste tot en met het vijfde lid, bevat de administratie van de subsidieaanvrager ten minste, indien het betreft een subsidieaanvraag voor een activiteit als bedoeld in:
 
-- a. [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), het opleidings- of ontwikkelplan dat voortkomt uit de doorlichting;
+- a. [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), het opleidings- of ontwikkelplan dat voortkomt uit de doorlichting;
 
-- b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), de loopbaanscan of het ontwikkeladvies waarin de uitkomsten van het uitgevoerde traject zijn beschreven, getekend door de adviseur en de deelnemer;
+- b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), de loopbaanscan of het ontwikkeladvies waarin de uitkomsten van het uitgevoerde traject zijn beschreven, getekend door de adviseur en de deelnemer;
 
-- c. [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), de met de gerealiseerde methode gemoeide producten;
+- c. [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), de met de gerealiseerde methode gemoeide producten;
 
-- d. [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01):
+- d. [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02):
 
 - 1°. een praktijkleerovereenkomst, die door alle noodzakelijke partijen is getekend en waaruit onder andere blijkt hoe de begeleiding heeft plaatsgevonden en welk deel van de leerdoelen, de kwaliteiten of kwalificaties in de beroepsvorming bij de ondernemer zijn behaald;
 
@@ -334,9 +334,9 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ##### Artikel 18. Subsidiebedrag en subsidiabele kosten
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01) genoemde initiatieven bedraagt minder dan € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02) genoemde initiatieven bedraagt minder dan € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
-2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), bedraagt de subsidie:
+2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), bedraagt de subsidie:
 
 - a. voor een kleine onderneming: 80% van de subsidiabele kosten;
 
@@ -352,15 +352,15 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ##### Artikel 20. Subsidiebedrag
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01) genoemde initiatieven bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02) genoemde initiatieven bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
 
 2. Landbouwbedrijven die deelnemen aan een samenwerkingsverband kunnen, in afwijking van het eerste lid, aanspraak maken op een subsidie van maximaal € 20.000.
 
-3. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), bedraagt de subsidie 60% van de subsidiabele kosten.
+3. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), bedraagt de subsidie 60% van de subsidiabele kosten.
 
 ##### Artikel 21. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
 
-1. In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-01-01) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
+1. In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2020-01-01&g=2020-03-02) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
 
 - a. de samenwerkingsovereenkomst van het samenwerkingsverband, ondertekend door alle partijen die onderdeel uitmaken van het samenwerkingsverband, vergezeld van een schriftelijke machtiging waaruit blijkt dat de subsidieaanvrager gemachtigd is de andere partijen in het samenwerkingsverband in en buiten rechte te vertegenwoordigen; en
 
@@ -376,9 +376,9 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een grootbedrijf in d
 
 ##### Artikel 23. Subsidiebedrag
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01)genoemde initiatieven bedraagt maximaal € 200.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02)genoemde initiatieven bedraagt maximaal € 200.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
-2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-01-01), bedraagt de subsidie 60% van de subsidiabele kosten.
+2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2020-01-01&g=2020-03-02), bedraagt de subsidie 60% van de subsidiabele kosten.
 
 ### Hoofdstuk 5. Subsidievaststelling
 
@@ -386,7 +386,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een grootbedrijf in d
 
 1. De subsidieaanvrager dient middels een elektronisch formulier binnen 22 weken na afloop van de periode van het initiatief, vastgelegd in de subsidieverlening, een verzoek tot vaststelling van subsidie in bij de minister, waarin onder andere is opgenomen een verslag van de uitgevoerde activiteiten en een overzicht van de kosten per activiteitmiddels een voorgeschreven format.
 
-2. Indien de verleende subsidie meer bedraagt dan € 25.000, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, een evaluatieverslag als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=5&artikel=26&z=2020-01-01&g=2020-01-01).
+2. Indien de verleende subsidie meer bedraagt dan € 25.000, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, een evaluatieverslag als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=5&artikel=26&z=2020-01-01&g=2020-03-02).
 
 3. Indien de verleende subsidie meer bedraagt dan € 125.000, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, uit een controleverklaring inclusief een rapport van feitelijke bevindingen omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door de subsidieaanvrager, opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
@@ -442,7 +442,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een grootbedrijf in d
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector.
 
-## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
+## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-03-02), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
 
 ### Lijst met SBI-codes voor landbouw-, horeca- en recreatiesector
 
