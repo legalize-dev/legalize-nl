@@ -4,7 +4,7 @@ identifier: "BWBR0033072"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-05-07"
-last_updated: "2011-10-01"
+last_updated: "2020-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033072"
 soort: "zbo"
@@ -76,7 +76,7 @@ In dit reglement wordt verstaan onder:
 
 - b. de datum waarop de kunstmatige donorbevruchting heeft plaatsgevonden;
 
-- c. de medische, fysieke en sociale alsmede de persoonsidentificerende gegevens van de donor
+- c. de medische, fysieke en sociale alsmede de persoonsidentificerende gegevens en het burgerservicenummer van de donor
 
 2. Daartoe wordt gebruik gemaakt van het centrale digitale registratiesysteem van de Stichting.
 
@@ -94,7 +94,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 3. Gegevensbeheer
 
-De Stichting achterhaalt actuele adresgegevens met behulp van haar aansluiting op het ‘gemeentelijke basisadministratie persoonsgegevens-netwerk’ (GBA-netwerk).
+De Stichting achterhaalt actuele adresgegevens uit de Basisregistratie Personen (BRP).
 
 ##### Artikel 4. Verstrekking medische donorgegevens
 
@@ -126,9 +126,9 @@ De Stichting verstrekt de ouder(s) van een donorkind dat jonger is dan twaalf ja
 
 1. Indien de donor die vóór 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, worden deze niet verstrekt aan het donorkind van zestien jaar of ouder dat hierom had verzocht.
 
-2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan (of indien deze overleden of onvindbaar is, personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=7&z=2011-10-01&g=2011-10-01), van dit reglement) niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, blijft verstrekking uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor het verzoekende donorkind zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.
+2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan (of indien deze overleden of onvindbaar is, personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=7&z=2020-03-04&g=2020-03-04), van dit reglement) niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, blijft verstrekking uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor het verzoekende donorkind zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.
 
-3. De Stichting maakt een zorgvuldige afweging tussen de belangen van het verzoekende donorkind en de belangen van de donor. De beslissing van de Stichting wordt het verzoekende donorkind en de donor schriftelijk en met redenen omkleed medegedeeld.
+3. De beslissing van de Stichting wordt het verzoekende donorkind en de donor schriftelijk en met redenen omkleed medegedeeld.
 
 ##### Artikel 9. Begeleiding van donorkinderen bij verstrekking donorgegevens
 
@@ -136,13 +136,13 @@ De Stichting verstrekt de ouder(s) van een donorkind dat jonger is dan twaalf ja
 
 2. De Stichting draagt er zorg voor dat bij de gegevensverstrekking aan een donorkind passende psychosociale begeleiding wordt gegeven.
 
-##### Artikel 10. Verklaring ten behoeve van meemoeder-adoptieprocedure
+##### Artikel 10. Ouderschapsverklaring ten behoeve van juridisch ouderschap voor duomoeders
 
-De Stichting verstrekt de moeder van een donorkind of de vrouw die zwanger is van een donorkind op haar verzoek een verklaring dat het kind is verwekt door en ten gevolge van kunstmatige donorbevruchting en, indien dit bij de Stichting bekend is, dat de identiteit van de donor ten tijde van de bevruchting niet bekend was.
+De Stichting verstrekt aan de vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden een verklaring dat het kind is verwekt door en ten gevolge van kunstmatige donorbevruchting en dat de identiteit van de donor niet bekend is aan de vrouw.
 
 ##### Artikel 11. Kosten
 
-Voor de behandeling van een verzoek om donorgegevens, de verstrekking van donorgegevens en voor de verstrekking van een verklaring ten behoeve van de meemoeder-adoptieprocedure brengt de Stichting geen kosten in rekening bij verzoekers.
+Voor de behandeling van een verzoek om donorgegevens, de verstrekking van donorgegevens en voor de verstrekking van een verklaring als bedoeld in [artikel 3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3a) brengt de Stichting geen kosten in rekening bij verzoekers.
 
 ##### Artikel 12. CIBG
 
@@ -176,9 +176,9 @@ Eenieder die in het kader van de activiteiten van de Stichting betreffende het v
 
 ##### Artikel 15. Publieke verantwoording
 
-1. Jaarlijks vóór 1 juli maakt het bestuur van de Stichting de balans een rekening van baten en lasten, betreffende het voorafgaande jaar, op en zendt die, voorzien van een accountantsverklaring, naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie. Deze verplichting vervalt indien de Stichting geen eigen baten of lasten heeft.
+1. Jaarlijks vóór 15 maart maakt het bestuur van de Stichting de balans een rekening van baten en lasten, betreffende het voorafgaande jaar, op en zendt die, voorzien van een accountantsverklaring, naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie en Veiligheid. Deze verplichting vervalt indien de Stichting geen eigen baten of lasten heeft.
 
-2. Jaarlijks vóór 1 juli brengt de Stichting een verslag uit over het voorafgaande jaar. In dit verslag legt het bestuur verantwoording af over de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens. Het jaarverslag wordt gestuurd naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie, alsmede aan de Inspectie voor de Gezondheidszorg en aan organisaties die de belangen van donorkinderen, donoren en wensouders alsmede van verrichters behartigen. Het jaarverslag wordt gepubliceerd op de website van de Stichting.
+2. Jaarlijks vóór 15 maart brengt de Stichting een verslag uit over het voorafgaande jaar. In dit verslag legt het bestuur verantwoording af over de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens. Het jaarverslag wordt gestuurd naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie en Veiligheid, alsmede aan de Inspectie Gezondheidszorg en Jeugd en aan organisaties die de belangen van donorkinderen, donoren en wensouders alsmede van verrichters behartigen. Het jaarverslag wordt gepubliceerd op de website van de Stichting.
 
 ## Bijlage
 
@@ -186,7 +186,7 @@ Eenieder die in het kader van de activiteiten van de Stichting betreffende het v
 
 1. Het bestuur van de Stichting stelt het reglement en wijzigingen daarin vast.
 
-2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
+2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie en Veiligheid.
 
 ##### Artikel 17. Eerder vastgestelde reglementen
 
