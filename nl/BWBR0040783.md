@@ -4,7 +4,7 @@ identifier: "BWBR0040783"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-07"
-last_updated: "2018-03-31"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040783"
 soort: "ministeriele-regeling"
@@ -46,25 +46,29 @@ BESLUIT:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
+1. In deze regeling wordt verstaan onder:
 
-- **ambtenaar:**
+- a. **ambtenaar:** ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), werkzaam bij het Ministerie van Infrastructuur en Waterstaat;
 
-- 1°. de ambtenaar in de zin van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
+- b. **klachtencommissie:** de Klachtencommissie ongewenste omgangsvormen als bedoeld in [artikel 3 van het Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0038720&artikel=3);
 
-- 2°. gewezen ambtenaren;
+- c. **cao:** CAO Rijk;
 
-- 3°. degenen die anderszins arbeid verrichten of hebben verricht bij een ambtelijke organisatie.
+- d. **diensthoofd:** hoogste leidinggevende als bedoeld in de cao die binnen een organisatie(onderdeel) bevoegd is omtrent een vermoeden van schending van een integriteitsnorm of een ongewenste omgangsvorm een standpunt in te nemen of maatregel te treffen;
+
+- e. **vertrouwenspersoon:** een vertrouwenspersoon als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040783&hoofdstuk=3&artikel=4&z=2020-03-07&g=2020-03-07).
+
+2. Onder ambtenaar wordt voor de toepassing van deze regeling ook verstaan: de gewezen ambtenaar of degene die voor het Ministerie van Infrastructuur en Waterstaat werkzaamheden verricht of heeft verricht op basis van detachering of inhuur, als uitzendkracht of als stagiair.
 
 ### Hoofdstuk 2. Werkingsgebied
 
 ##### Artikel 2
 
-De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een vermeende integriteitsschending of een misstand kan zich wenden tot zijn manager, tot een vertrouwenspersoon, tot het bevoegd gezag of, indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks een melding doen bij de afdeling Onderzoek van het Huis voor klokkenluiders.
+De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een vermeende integriteitsschending of een misstand kan zich wenden tot zijn manager, tot een vertrouwenspersoon, tot het diensthoofd of, indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks een melding doen bij de afdeling Onderzoek van het Huis voor klokkenluiders.
 
 ##### Artikel 3
 
-1. De ambtenaar die wordt of is geconfronteerd met ongewenste omgangsvormen kan zich wenden tot zijn manager, tot een vertrouwenspersoon, of tot de klachtencommissie Infrastructuur en Waterstaat.
+1. De ambtenaar die wordt of is geconfronteerd met ongewenste omgangsvormen kan zich wenden tot zijn manager, tot een vertrouwenspersoon, of tot de klachtencommissie.
 
 2. Klachten die meer dan een jaar na het tijdstip waarop de vermeende ongewenste omgangsvormen zich hebben voorgedaan worden ingediend, worden niet in behandeling genomen, tenzij er naar het oordeel van de klachtencommissie sprake is van een gerechtvaardigde reden voor het later indienen van de klacht.
 
@@ -74,13 +78,13 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 1. Er zijn per dienstonderdeel een of meer vertrouwenspersonen integriteit en ongewenste omgangsvormen.
 
-2. De vertrouwenspersoon ressorteert rechtstreeks onder het bestuursorgaan van het dienstonderdeel dat bevoegd is omtrent een vermeende schending van een integriteitsnorm of een ongewenste omgangsvorm besluiten te nemen of beschikkingen af te geven.
+2. De vertrouwenspersoon ressorteert rechtstreeks onder het diensthoofd.
 
 3. Een vertrouwenspersoon kan door elke ambtenaar van het ministerie van Infrastructuur en Waterstaat, ook buiten diens eigen dienstonderdeel, worden benaderd voor een melding over een zaak aangaande een Infrastructuur en Waterstaat-ambtenaar.
 
 ##### Artikel 5
 
-1. De vertrouwenspersoon wordt in een transparante formele procedure geworven en geselecteerd en bij beschikking benoemd en weer van zijn taak ontheven door de minister.
+1. De vertrouwenspersoon wordt in een transparante formele procedure geworven en geselecteerd benoemd en weer van zijn taak ontheven door de minister.
 
 2. Benoeming vindt, behoudens tussentijdse taakontheffing, plaats voor onbepaalde tijd.
 
@@ -98,17 +102,17 @@ De ambtenaar die wordt of is geconfronteerd met een serieus vermoeden van een ve
 
 - d. het verlenen van nazorg aan de melder;
 
-- e. het signaleren van knelpunten in de uitvoering van het beleid, het verstrekken van inlichtingen over de mogelijkheden tot voorkoming en bestrijding van niet integer gedrag in de organisatie en het geven van gevraagd of ongevraagd advies op deze gebieden aan het bevoegd gezag;
+- e. het signaleren van knelpunten in de uitvoering van het beleid, het verstrekken van inlichtingen over de mogelijkheden tot voorkoming en bestrijding van niet integer gedrag in de organisatie en het geven van gevraagd of ongevraagd advies op deze gebieden aan het diensthoofd;
 
 - f. het geven van voorlichting op het gebied van de eigen rol in relatie tot niet integer en ongewenst gedrag;
 
-- g. het registreren van en jaarlijks rapporteren aan het bevoegd gezag over de ontvangen meldingen.
+- g. het registreren van en jaarlijks rapporteren aan het diensthoofd over de ontvangen meldingen.
 
 2. De vertrouwenspersoon heeft op het gebied van het melden van een vermoeden van een misstand de volgende taken:
 
-- a. het in overeenstemming met de melder doen van een melding aan het bevoegd gezag;
+- a. het in overeenstemming met de melder doen van een melding aan het diensthoofd;
 
-- b. het te allen tijde doen van een melding aan het bevoegd gezag in geval van een (ambts)misdrijf;
+- b. het te allen tijde doen van een melding aan het diensthoofd in geval van een (ambts)misdrijf;
 
 - c. het zich maximaal inzetten om de identiteit van de melder te beschermen indien deze dat wenst.
 
@@ -124,15 +128,15 @@ De vertrouwenspersoon heeft op het gebied van ongewenste omgangsvormen in elk ge
 
 - d. het adviseren over eventueel verder te nemen stappen en het behulpzaam zijn van de klager bij eventueel verder te nemen stappen;
 
-- e. het ondersteunen en begeleiden van de klager bij het indienen van een klacht bij de commissie en bij het horen door de commissie;
+- e. het ondersteunen en begeleiden van de klager bij het indienen van een klacht bij de klachtencommissie en bij het horen door de klachtencommissie;
 
 - f. het verlenen van nazorg aan de klager;
 
-- g. het signaleren van knelpunten in de uitvoering van het beleid, het verstrekken van inlichtingen over de mogelijkheden tot voorkoming en bestrijding van niet integer en ongewenst gedrag in de organisatie en het geven van gevraagd of ongevraagd advies op dit gebied aan het bevoegd gezag;
+- g. het signaleren van knelpunten in de uitvoering van het beleid, het verstrekken van inlichtingen over de mogelijkheden tot voorkoming en bestrijding van niet integer en ongewenst gedrag in de organisatie en het geven van gevraagd of ongevraagd advies op dit gebied aan het diensthoofd;
 
 - h. het geven van voorlichting op het gebied van ongewenst (en niet integer) gedrag;
 
-- i. het registreren en (jaarlijks) anoniem rapporteren aan het bevoegd gezag.
+- i. het registreren en (jaarlijks) anoniem rapporteren aan het diensthoofd.
 
 ### Hoofdstuk 4. Rechten en plichten
 
@@ -144,13 +148,13 @@ De vertrouwenspersonen zijn verplicht tot geheimhouding van enig gegeven over de
 
 1. De vertrouwenspersoon geniet binnen de rijksoverheid verschoningsrecht. Dat een vertrouwenspersoon op grond van zijn verschoningsrecht weigert informatie te verstrekken heeft geen gevolgen voor het verrichten van zijn eigen werkzaamheden of voor zijn arbeidsrechtelijke positie.
 
-2. Het verschoningsrecht geldt niet wanneer er sprake is van een (ambts)misdrijf. De vertrouwenspersoon is verplicht hiervan melding te doen bij het eigen bevoegd gezag, dan wel het bevoegd gezag van de diensteenheid waar het misdrijf betrekking op heeft. In geval van het vermoeden van een strafbaar feit is de vertrouwenspersoon verplicht samen met het bevoegd gezag daarvan aangifte te doen.
+2. Het verschoningsrecht geldt niet wanneer er sprake is van een (ambts)misdrijf. De vertrouwenspersoon is verplicht hiervan melding te doen bij het eigen diensthoofd, dan wel het diensthoofd van de diensteenheid waar het misdrijf betrekking op heeft. In geval van het vermoeden van een strafbaar feit is de vertrouwenspersoon verplicht samen met het diensthoofd daarvan aangifte te doen.
 
 ##### Artikel 10
 
 1. De vertrouwenspersoon heeft recht op de faciliteiten welke hij nodig heeft om zijn functie naar behoren te kunnen vervullen. Het dienstonderdeel waar de vertrouwenspersoon werkzaam is, draagt er zorg voor dat de vertrouwenspersoon over deze faciliteiten beschikt.
 
-2. Nieuw aangestelde vertrouwenspersonen nemen deel aan de basistraining.
+2. Nieuw benoemde vertrouwenspersonen nemen deel aan de basistraining.
 
 3. Zittende vertrouwenspersonen nemen deel aan:
 
@@ -168,7 +172,7 @@ De vertrouwenspersonen zijn verplicht tot geheimhouding van enig gegeven over de
 
 ##### Artikel 12
 
-Indien de vertrouwenspersoon proceskosten maakt, dan is de vergoeding zoals opgenomen in [hoofdstuk 3 van de Interne klokkenluidersregeling Rijk, politie en Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0038940&hoofdstuk=3), van overeenkomstige toepassing.
+Indien de vertrouwenspersoon proceskosten maakt, dan is de vergoeding zoals opgenomen in de cao van overeenkomstige toepassing.
 
 ##### Artikel 13
 
