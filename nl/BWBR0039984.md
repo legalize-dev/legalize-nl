@@ -4,7 +4,7 @@ identifier: "BWBR0039984"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-09-21"
-last_updated: "2017-08-01"
+last_updated: "2020-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039984"
 soort: "zbo"
@@ -54,9 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **secretaris:** functionaris belast met het ondersteunen van de vergaderingen;
 
-- e. **vergadering:** vergadering van het bestuur;
+- e. **stafhoofd:** hoofd van een stafafdeling van de Autoriteit volgens het organisatiebesluit van de Autoriteit;
 
-- f. **voorzitter:** voorzitter van de Autoriteit.
+- f. **vergadering:** vergadering van het bestuur;
+
+- g. **voorzitter:** voorzitter van de Autoriteit.
 
 ### Hoofdstuk 2. Bevoegdheden
 
@@ -70,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Mandaat en ondermandaat
 
-1. Het bestuur neemt een besluit over (onder)mandaat, volmacht en machtiging van de bestuursleden en de afdelingshoofden.
+1. Het bestuur neemt een besluit over (onder)mandaat, volmacht en machtiging van de bestuursleden, de afdelingshoofden en de stafhoofden.
 
 2. Besluiten tot de vaststelling van een regeling als bedoeld in [artikel 4, tweede lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=4) komen niet voor mandaat in aanmerking.
 
@@ -82,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter stelt aan het begin van de vergadering de agenda vast.
 
-3. De secretaris zorgt ervoor dat de vergaderstukken tijdig naar de bestuursleden en de afdelingshoofden worden verzonden.
+3. De secretaris zorgt ervoor dat de vergaderstukken tijdig naar de bestuursleden, de afdelingshoofden en de stafhoofden worden verzonden.
 
 4. De voorzitter leidt de vergadering.
 
@@ -90,13 +92,15 @@ In dit besluit wordt verstaan onder:
 
 6. De vergaderingen zijn niet openbaar, tenzij de voorzitter anders beslist.
 
-7. De voorzitter kan derden uitnodigen om een vergadering geheel of gedeeltelijk bij te wonen.
+7. Stafhoofden kunnen vergaderingen geheel of gedeeltelijk bijwonen, tenzij het bestuur anders beslist.
+
+8. De voorzitter kan derden uitnodigen om een vergadering geheel of gedeeltelijk bij te wonen.
 
 ##### Artikel 5. Besluitvorming
 
 1. Het bestuur besluit:
 
-- a. voor zover mogelijk, rekening houdend met de standpunten van de afdelingshoofden en
+- a. gehoord de eventuele adviezen van de stafhoofden en, voor zover mogelijk, rekening houdend met de standpunten van de afdelingshoofden en
 
 - b. bij consensus, tenzij dat vanwege een onoverkomelijk verschil van mening niet mogelijk is. In dat geval beslist de voorzitter.
 
@@ -118,11 +122,11 @@ Bij afwezigheid van de voorzitter neemt de plaatsvervangend voorzitter de taken 
 
 ##### Artikel 8. Belangenverstrengeling en verschoning
 
-Een bestuurslid of een afdelingshoofd verschoont zich indien hij een (potentieel) tegenstrijdig belang heeft bij een bepaalde aangelegenheid.
+Een bestuurslid, een afdelingshoofd of een stafhoofd verschoont zich indien hij een (potentieel) tegenstrijdig belang heeft bij een bepaalde aangelegenheid.
 
 ##### Artikel 9. Vertrouwelijkheid
 
-1. De bestuursleden en de afdelingshoofden nemen omtrent alle informatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van die informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
+1. De bestuursleden, de afdelingshoofden en de stafhoofden nemen omtrent alle informatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van die informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
 
 2. Het eerste lid is van overeenkomstige toepassing op degenen die het bestuur administratief of secretarieel hebben ondersteund of die een vergadering geheel of gedeeltelijk hebben bijgewoond.
 
