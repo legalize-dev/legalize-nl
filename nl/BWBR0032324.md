@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-03-15"
+last_updated: "2020-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet on
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2018-03-15&g=2018-03-15) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2018-03-15&g=2018-03-15), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2020-03-10&g=2020-03-10) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2020-03-10&g=2020-03-10), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -3002,26 +3002,26 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 6882 | Rheden | PO2506 | VO2506 |
 | 6883 | Rheden | PO2506 | VO2506 |
 | 6891 | Rozendaal | PO2506 | VO2501 |
-| 6901 | Zevenaar | PO2504 | VO2504 |
-| 6902 | Zevenaar | PO2504 | VO2504 |
-| 6903 | Zevenaar | PO2504 | VO2504 |
-| 6904 | Zevenaar | PO2504 | VO2504 |
-| 6905 | Zevenaar | PO2504 | VO2504 |
-| 6909 | Zevenaar | PO2504 | VO2504 |
-| 6911 | Rijnwaarden | PO2504 | VO2504 |
-| 6913 | Rijnwaarden | PO2504 | VO2504 |
-| 6914 | Rijnwaarden | PO2504 | VO2504 |
-| 6915 | Rijnwaarden | PO2504 | VO2504 |
-| 6916 | Rijnwaarden | PO2504 | VO2504 |
-| 6917 | Rijnwaarden | PO2504 | VO2504 |
-| 6921 | Duiven | PO2504 | VO2504 |
-| 6922 | Duiven | PO2504 | VO2504 |
-| 6923 | Duiven | PO2504 | VO2504 |
-| 6924 | Duiven | PO2504 | VO2504 |
-| 6931 | Westervoort | PO2504 | VO2504 |
-| 6932 | Westervoort | PO2504 | VO2504 |
-| 6941 | Montferland | PO2504 | VO2504 |
-| 6942 | Montferland | PO2504 | VO2504 |
+| 6901 | Zevenaar | PO2504 | VO2506 |
+| 6902 | Zevenaar | PO2504 | VO2506 |
+| 6903 | Zevenaar | PO2504 | VO2506 |
+| 6904 | Zevenaar | PO2504 | VO2506 |
+| 6905 | Zevenaar | PO2504 | VO2506 |
+| 6909 | Zevenaar | PO2504 | VO2506 |
+| 6911 | Rijnwaarden | PO2504 | VO2506 |
+| 6913 | Rijnwaarden | PO2504 | VO2506 |
+| 6914 | Rijnwaarden | PO2504 | VO2506 |
+| 6915 | Rijnwaarden | PO2504 | VO2506 |
+| 6916 | Rijnwaarden | PO2504 | VO2506 |
+| 6917 | Rijnwaarden | PO2504 | VO2506 |
+| 6921 | Duiven | PO2504 | VO2506 |
+| 6922 | Duiven | PO2504 | VO2506 |
+| 6923 | Duiven | PO2504 | VO2506 |
+| 6924 | Duiven | PO2504 | VO2506 |
+| 6931 | Westervoort | PO2504 | VO2506 |
+| 6932 | Westervoort | PO2504 | VO2506 |
+| 6941 | Montferland | PO2504 | VO2506 |
+| 6942 | Montferland | PO2504 | VO2506 |
 | 6951 | Rheden | PO2506 | VO2501 |
 | 6952 | Rheden | PO2506 | VO2501 |
 | 6953 | Rheden | PO2506 | VO2501 |
@@ -3037,9 +3037,9 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 6982 | Doesburg | PO2503 | VO2503 |
 | 6983 | Doesburg | PO2503 | VO2503 |
 | 6984 | Doesburg | PO2503 | VO2503 |
-| 6986 | Zevenaar | PO2504 | VO2504 |
-| 6987 | Zevenaar | PO2504 | VO2504 |
-| 6988 | Zevenaar | PO2504 | VO2504 |
+| 6986 | Zevenaar | PO2504 | VO2506 |
+| 6987 | Zevenaar | PO2504 | VO2506 |
+| 6988 | Zevenaar | PO2504 | VO2506 |
 | 6991 | Rheden | PO2506 | VO2506 |
 | 6994 | Rheden | PO2506 | VO2501 |
 | 6996 | Bronckhorst | PO2503 | VO2503 |
