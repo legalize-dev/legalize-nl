@@ -4,7 +4,7 @@ identifier: "BWBR0043240"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-12"
-last_updated: "2019-02-01"
+last_updated: "2020-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043240"
 soort: "ministeriele-regeling"
@@ -129,17 +129,17 @@ De uitvoering van bovengenoemde bevoegdheden wordt beperkt door:
 
 - b. De Informatievoorziening (IV) mandaten (hiervoor zijn aparte IV-besluiten gemaakt);
 
-- c. De tekenbevoegdheden financiën zoals vermeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&artikel=10&z=2020-03-12&g=2019-02-01);
+- c. De tekenbevoegdheden financiën zoals vermeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&artikel=10&z=2020-03-12&g=2020-03-12);
 
-- d. De tekenbevoegdheden verwerving zoals vermeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&artikel=11&z=2020-03-12&g=2019-02-01).
+- d. De tekenbevoegdheden verwerving zoals vermeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&artikel=11&z=2020-03-12&g=2020-03-12).
 
 ##### Artikel 10. Tekenbevoegdheden financiën
 
-De functionarissen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&bijlage=A&z=2020-03-12&g=2019-02-01): matrix tekenbevoegdheden financiën KMar (en in het HBR Defensie), zijn bevoegd tot het ondertekenen van de desbetreffende documenten.
+De functionarissen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&bijlage=A&z=2020-03-12&g=2020-03-12): matrix tekenbevoegdheden financiën KMar (en in het HBR Defensie), zijn bevoegd tot het ondertekenen van de desbetreffende documenten.
 
 ##### Artikel 11. Tekenbevoegdheden verwerving
 
-De functionarissen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&bijlage=B&z=2020-03-12&g=2019-02-01): matrix tekenbevoegdheden verwerving KMar (en in het HBR Defensie), zijn bevoegd tot het ondertekenen van de desbetreffende documenten.
+De functionarissen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043240&bijlage=B&z=2020-03-12&g=2020-03-12): matrix tekenbevoegdheden verwerving KMar (en in het HBR Defensie), zijn bevoegd tot het ondertekenen van de desbetreffende documenten.
 
 ##### Artikel 12. Intrekking huidige Ondermandaat, -Volmacht en -Machtigingsbesluit KMar
 
