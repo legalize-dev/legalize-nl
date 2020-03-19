@@ -4,7 +4,7 @@ identifier: "BWBR0043216"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-03-19"
-last_updated: "2020-02-27"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043216"
 soort: "beleidsregel"
@@ -68,7 +68,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag op die sch
 
 Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
-- a. wat het afwijken van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-02-27&g=2020-02-27) genoemde regels over de invulling en organisatie van de onderwijstijd voor effecten heeft op het onderwijs van de deelnemende scholen;
+- a. wat het afwijken van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19) genoemde regels over de invulling en organisatie van de onderwijstijd voor effecten heeft op het onderwijs van de deelnemende scholen;
 
 - b. welke randvoorwaarden voorwaardelijk waren om positieve effecten te verkrijgen; en
 
@@ -78,7 +78,7 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 1. Het bevoegd gezag dat met een school wil deelnemen aan het experiment kan bij Onze Minister een aanvraag doen.
 
-2. De aanvraag wordt gedaan in de periode van 1 april 2020 tot en met 30 april 2020.
+2. De aanvraag wordt gedaan in de periode van 1 mei 2020 tot en met 31 mei 2020.
 
 3. Het bevoegd gezag overlegt bij de aanvraag:
 
@@ -86,7 +86,7 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 - b. een experimenteerplan waarin voor de school die wil deelnemen in ieder geval het volgende is opgenomen:
 
-- 1°. de gekozen invulling van de geboden ruimte, zoals voortvloeiend uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-02-27&g=2020-02-27), met daarbij in ieder geval een beschrijving van het doel, de voorgenomen activiteiten en de beoogde opbrengsten van het experiment zoals vormgegeven;
+- 1°. de gekozen invulling van de geboden ruimte, zoals voortvloeiend uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19), met daarbij in ieder geval een beschrijving van het doel, de voorgenomen activiteiten en de beoogde opbrengsten van het experiment zoals vormgegeven;
 
 - 2°. de didactische visie en filosofie van het onderwijs, waarbij in ieder geval ook wordt ingegaan op de visie op de organisatie en invulling van de onderwijstijd;
 
@@ -112,9 +112,9 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 4. Onze Minister wijst de aanvraag af, indien:
 
-- a. de in de aanvraag omschreven invulling van het experiment op de school niet valt binnen de geboden kaders, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-02-27&g=2020-02-27); of
+- a. de in de aanvraag omschreven invulling van het experiment op de school niet valt binnen de geboden kaders, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19); of
 
-- b. deze niet voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=4&z=2020-02-27&g=2020-02-27); of
+- b. deze niet voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=4&z=2020-03-19&g=2020-03-19); of
 
 - c. het maximaal aantal deelnemende scholen, bedoeld in het eerste lid, is bereikt.
 
@@ -126,13 +126,13 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 ##### Artikel 6. Beslistermijn
 
-De minister besluit uiterlijk op 12 juni 2020 op aanvragen tot deelname aan het experiment.
+De minister besluit uiterlijk op 13 juli 2020 op aanvragen tot deelname aan het experiment.
 
 ##### Artikel 7. Looptijd en beëindiging van het experiment
 
 1. Het experiment begint op 1 augustus 2020 en duurt 5 schooljaren.
 
-2. Scholen die deelnemen aan het experiment dienen vanaf de start van het schooljaar 2027–2028 weer aan de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-02-27&g=2020-02-27), te voldoen.
+2. Scholen die deelnemen aan het experiment dienen vanaf de start van het schooljaar 2027–2028 weer aan de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19), te voldoen.
 
 3. Onze Minister kan een besluit tot toekenning van deelname aan het experiment intrekken op de gronden, bedoeld in [artikel 2, zesde lid, van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2).
 
@@ -140,7 +140,7 @@ De minister besluit uiterlijk op 12 juni 2020 op aanvragen tot deelname aan het 
 
 ##### Artikel 8. Verlenging van het experiment
 
-Indien naar aanleiding van het experiment wordt besloten tot aanpassing van de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-02-27&g=2020-02-27), kan Onze Minister besluiten de duur van het experiment te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
+Indien naar aanleiding van het experiment wordt besloten tot aanpassing van de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19), kan Onze Minister besluiten de duur van het experiment te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
 
 ##### Artikel 9. Informatieplicht
 
