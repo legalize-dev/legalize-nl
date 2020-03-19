@@ -4,7 +4,7 @@ identifier: "BWBR0018189"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-19"
-last_updated: "2008-07-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018189"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaren van de Inspectie van Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+1. De ambtenaren van de Inspectie Leefomgeving en Transport worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 2. In afwijking van het eerste lid worden:
 
@@ -51,7 +51,9 @@ Besluit:
 
 ##### Artikel 2
 
-De directeur-generaal Mobiliteit en de onder hem werkzame ambtenaren worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II), voor zover dit betrekking heeft op concessies verleend door onze Minister voor het openbaar vervoer per trein.
+1. De directeur-generaal Mobiliteit en de onder hem werkzame ambtenaren worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II), voor zover dit betrekking heeft op concessies verleend door onze Minister voor het openbaar vervoer per trein.
+
+2. In afwijking van het eerste lid worden de ambtenaren van de Inspectie Leefomgeving en Transport aangewezen als ambtenaren belast met het toezicht op de naleving van de inhoud van het vervoerplan, bedoeld in [artikel 35a van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=35a), voor zover het betreft de beschrijving in het vervoerplan van de beveiligingsmaatregelen die genomen worden voor treinen die vanuit Nederland door de Kanaaltunnel gaan rijden.
 
 ##### Artikel 3
 
