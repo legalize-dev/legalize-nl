@@ -4,7 +4,7 @@ identifier: "BWBR0041912"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-19"
-last_updated: "2020-01-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041912"
 soort: "wet"
@@ -143,9 +143,7 @@ Wijzigt deze wet.
 
 ##### Artikel XXIV
 
-Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2020/67. Wijzigt deze wet.
 
 ##### Artikel XXV
 
