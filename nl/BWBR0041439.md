@@ -4,7 +4,7 @@ identifier: "BWBR0041439"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2019-01-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041439"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **dispensatie:** ontheffing voor het gebruik voor therapeutische doeleinden van een bij of krachtens een dopingreglement verboden stof of methode;
 
-- **Dopingautoriteit:** autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4&z=2019-01-01&g=2019-01-01);
+- **Dopingautoriteit:** autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4&z=2020-03-19&g=2020-03-19);
 
 - **dopingcontroleproces:** proces tot vaststelling van een mogelijke overtreding van een dopingreglement;
 
@@ -71,13 +71,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **sportorganisatie:** nationaal georganiseerd verband van sporters dat rechtspersoonlijkheid bezit, alsmede een koepelorganisatie van dergelijke verbanden;
 
-- **topsportgroep:** ingevolge [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2019-01-01&g=2019-01-01), door de Dopingautoriteit aangewezen groep van sporters die vanwege het niveau van sportbeoefening een verhoogd risico lopen op overtreding van een dopingreglement;
+- **topsportgroep:** ingevolge [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2020-03-19&g=2020-03-19), door de Dopingautoriteit aangewezen groep van sporters die vanwege het niveau van sportbeoefening een verhoogd risico lopen op overtreding van een dopingreglement;
 
 - **verblijfsgegeven:** persoonsgegeven met betrekking tot de verblijfplaats van een sporter op gevraagde data en aangegeven tijdstippen, alsmede zijn contactgegevens;
 
 - **Wereld Anti-Doping Agentschap:** stichting die op 10 november 1999 werd opgericht en die tot doel heeft de strijd tegen het gebruik van doping in de sport te bevorderen en te coördineren op internationaal niveau;
 
-- **Wereld Anti-Doping Code:** door het Wereld Anti-Doping Agentschap vastgestelde document dat de basis vormt voor dopingreglementen en het mondiale antidopingbeleid en dat ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=3&z=2019-01-01&g=2019-01-01) is bekendgemaakt.
+- **Wereld Anti-Doping Code:** door het Wereld Anti-Doping Agentschap vastgestelde document dat de basis vormt voor dopingreglementen en het mondiale antidopingbeleid en dat ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=3&z=2020-03-19&g=2020-03-19) is bekendgemaakt.
 
 ##### Artikel 2. Algemene regels voor sporters
 
@@ -167,7 +167,7 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 ##### Artikel 10. Tarifering
 
-1. De kosten die samenhangen met het verrichten van de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=5&z=2019-01-01&g=2019-01-01), kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
+1. De kosten die samenhangen met het verrichten van de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=5&z=2020-03-19&g=2020-03-19), kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
 
 2. Bij ministeriële regeling kan worden bepaald op welke wijze de betrokkenheid van een of meer door Onze Minister aangewezen sportorganisaties wordt gewaarborgd bij de totstandkoming van tarieven als bedoeld in het eerste lid.
 
@@ -187,7 +187,7 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 - b. antidopingorganisaties in andere staten.
 
-3. Het Staatstoezicht op de volksgezondheid verstrekt de Dopingautoriteit de gegevens die zij behoeft voor de uitvoering van haar taken, met uitzondering van gegevens over gezondheid.
+3. De Inspectie gezondheidszorg en jeugd en de Nederlandse Voedsel- en Warenautoriteit verstrekken de Dopingautoriteit de gegevens die zij behoeft voor de uitvoering van haar taken, met uitzondering van gegevens over gezondheid.
 
 4. De inspecteur, bedoeld in [artikel 1:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), verstrekt de Dopingautoriteit de gegevens die zij behoeft voor de uitvoering van haar taken, voor zover de Dopingautoriteit daarom verzoekt.
 
@@ -203,11 +203,11 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 ##### Artikel 13. Overige bepalingen over de verwerking van persoonsgegevens
 
-1. De gegevensverwerkingen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2019-01-01&g=2019-01-01), vinden uitsluitend plaats voor zover dat noodzakelijk is voor de uitvoering van het dopingcontroleproces.
+1. De gegevensverwerkingen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2020-03-19&g=2020-03-19), vinden uitsluitend plaats voor zover dat noodzakelijk is voor de uitvoering van het dopingcontroleproces.
 
-2. De Dopingautoriteit is verantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2019-01-01&g=2019-01-01).
+2. De Dopingautoriteit is verantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2020-03-19&g=2020-03-19).
 
-3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2019-01-01&g=2019-01-01), en de gegevensverstrekking, bedoeld in [artikel 12, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=12&z=2019-01-01&g=2019-01-01).
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=6&z=2020-03-19&g=2020-03-19), en de gegevensverstrekking, bedoeld in [artikel 12, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=12&z=2020-03-19&g=2020-03-19).
 
 ##### Artikel 13a. Evaluatiebepaling
 
@@ -227,7 +227,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de
 
 - d. worden de gegevensbestanden, bedoeld in onderdeel a, binnen twaalf maanden na de onherroepelijke beëindiging van de laatste van de dopingcontroleprocessen, bedoeld in onderdeel b, overgedragen aan de Dopingautoriteit.
 
-3. [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=7&z=2019-01-01&g=2019-01-01), is niet van toepassing op de eerste keer dat de leden van de Dopingautoriteit worden benoemd na de inwerkingtreding van deze wet.
+3. [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=7&z=2020-03-19&g=2020-03-19), is niet van toepassing op de eerste keer dat de leden van de Dopingautoriteit worden benoemd na de inwerkingtreding van deze wet.
 
 ##### Artikel 15. Inwerkingtreding
 
