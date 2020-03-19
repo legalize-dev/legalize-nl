@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2019-04-02"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -190,7 +190,7 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten.
 
-3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2019-04-02&g=2019-04-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2019-04-02&g=2019-04-02) zijn van overeenkomstige toepassing.
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2020-03-19&g=2020-03-19) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2020-03-19&g=2020-03-19) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -260,7 +260,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2019-04-02&g=2019-04-02), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2019-04-02&g=2019-04-02), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2019-04-02&g=2019-04-02), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2019-04-02&g=2019-04-02), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2019-04-02&g=2019-04-02), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2019-04-02&g=2019-04-02).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2020-03-19&g=2020-03-19), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2020-03-19&g=2020-03-19), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2020-03-19&g=2020-03-19), [7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2020-03-19&g=2020-03-19), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2020-03-19&g=2020-03-19), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2020-03-19&g=2020-03-19).
 
 ##### Artikel 21
 
@@ -344,7 +344,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13
 
-1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2019-04-02&g=2019-04-02), kunnen ten laste worden gebracht van de aanvrager van het document.
+1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2020-03-19&g=2020-03-19), kunnen ten laste worden gebracht van de aanvrager van het document.
 
 2. Bij de houder van de erkenning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.
 
