@@ -4,7 +4,7 @@ identifier: "BWBR0009455"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2016-08-01"
+last_updated: "2020-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009455"
 soort: "wet"
@@ -87,15 +87,15 @@ Onze Minister kan subsidies verstrekken voor activiteiten op het terrein van:
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2016-08-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2020-03-19&g=2020-03-19), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
-- b. waarvan de voorgenomen strekking tevoren schriftelijk is meegedeeld aan de beide Kamers der Staten-Generaal.
+- b. waarvan de voorgenomen verstrekking tevoren schriftelijk is meegedeeld aan de beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2016-08-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2020-03-19&g=2020-03-19) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 6
 
