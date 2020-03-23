@@ -4,7 +4,7 @@ identifier: "BWBR0043695"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-24"
-last_updated: "2020-01-01"
+last_updated: "2020-03-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043695"
 soort: "ministeriele-regeling"
@@ -59,8 +59,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 5. Wijziging [Subsidieregeling cultuurbegeleider primair en speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0040011)
 
 Wijzigt de Subsidieregeling cultuurbegeleider primair en speciaal onderwijs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6. Wijziging [Subsidieregeling flexibel beroepsonderwijs derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0042549)
 
@@ -123,9 +121,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 16. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [116, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), [123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [164a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164a), en [180, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=180), de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=69), [98, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=98), [103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=103), en [130, tweede lid, van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=130), de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [113, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113), [120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=120), [146a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146a), en [166, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=166), de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=18), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=74), [75a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75a), [85a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a), [89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89), en [104a, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104a), de [artikelen 127e](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127e), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=150), [155, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=155), [157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=157), en [185, tweede lid, van de Wet op het voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=185), de [artikelen 1.5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3), [2.2a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2a.3), [2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.4.2), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7) en [7.4.7, zevende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.7), de [artikelen 1.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.5.1), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.3), [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.4.1) en [3.5 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.5), [artikel 2.18 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.18), [artikel 7.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7), [artikel 33a van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=33a), [artikel 42a van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=42a), [artikel 4 van het Besluit op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=4), en [artikel 10 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=10);
-
-Besluiten:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
