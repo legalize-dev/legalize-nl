@@ -4,7 +4,7 @@ identifier: "BWBR0019836"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-11-25"
-last_updated: "2007-01-01"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019836"
 soort: "AMvB"
@@ -54,27 +54,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. In de navolgende gevallen wordt geen gebruik gemaakt van videoconferentie:
-
-- a. ten aanzien van een minderjarige verdachte of veroordeelde, vanaf de fase van de inbewaringstelling;
-
-- b. ten aanzien van de verdachte indien ten aanzien van hem het vermoeden bestaat van een ziekelijke stoornis of gebrekkige ontwikkeling van de geestvermogens;
-
-- c. ten aanzien van de verdachte van een zedenmisdrijf waarvoor voorlopige hechtenis is toegelaten;
-
-- d. ten aanzien van de verdachte van een strafbaar feit waarbij een dodelijk slachtoffer is gevallen;
-
-- e. ten aanzien van de verdachte indien het slachtoffer ter zitting gebruik maakt van het spreekrecht.
-
-2. In de navolgende gevallen wordt geen gebruik gemaakt van videoconferentie, tenzij met instemming van de verdachte of diens raadsman:
+1. In de navolgende gevallen wordt geen gebruik gemaakt van videoconferentie, tenzij met instemming van de verdachte of diens raadsman:
 
 - a. ten aanzien van de verdachte, die in de desbetreffende zaak wordt voorgeleid voor de rechter-commissaris in verband met de inbewaringstelling;
 
 - b. ten aanzien van de verdachte, bij de inhoudelijke behandeling van de zaak ter terechtzitting van de meervoudige kamer.
 
-3. Van toepassing van videoconferentie wordt bovendien geen gebruik gemaakt indien de te horen persoon een zodanige auditieve of visuele handicap heeft waardoor redelijkerwijs kan worden verondersteld dat videoconferentie afbreuk doet aan zijn inbreng of positie in het strafproces, dan wel aan de rechten van andere procesdeelnemers.
+2. Van toepassing van videoconferentie wordt bovendien geen gebruik gemaakt indien de te horen persoon een zodanige auditieve of visuele handicap heeft waardoor redelijkerwijs kan worden verondersteld dat videoconferentie afbreuk doet aan zijn inbreng of positie in het strafproces, dan wel aan de rechten van andere procesdeelnemers.
 
-4. In afwijking van het eerste en tweede lid kan van videoconferentie gebruik worden gemaakt indien de meervoudige of enkelvoudige kamer bepaalt dat videoconferentie noodzakelijk is in het bijzondere belang van de beveiliging van de zitting.
+3. In afwijking van het eerste lid kan van videoconferentie gebruik worden gemaakt indien de meervoudige of enkelvoudige kamer bepaalt dat videoconferentie noodzakelijk is in het bijzondere belang van de beveiliging van de zitting.
 
 ##### Artikel 3
 
@@ -116,6 +104,10 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 6
 
+1.
+
 Dit besluit wordt aangehaald als: Besluit videoconferentie.
+
+2. Dit besluit berust mede op [artikel 78a, eerste, tweede en vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=78a) en [artikel 131a, eerste, tweede en vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
