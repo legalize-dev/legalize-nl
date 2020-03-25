@@ -4,7 +4,7 @@ identifier: "BWBR0043309"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-25"
-last_updated: "2020-03-10"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043309"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043309&artikel=1&z=2020-03-25&g=2020-03-10), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043309&artikel=1&z=2020-03-25&g=2020-03-25), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -63,7 +63,7 @@ Dit besluit wordt aangehaald als: Tijdelijke vrijstelling handdesinfectie apothe
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt gepubliceerd en werkt terug tot en met 10 maart 2020.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043309&artikel=2&z=2020-03-25&g=2020-03-10)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043309&artikel=2&z=2020-03-25&g=2020-03-25)
 
 De vrijgestelde biociden moeten geproduceerd, verpakt en bewaard worden volgens de aanwijzingen in de LNA-mededeling ‘Handdesinfectantia voor professioneel gebruik’.
 
