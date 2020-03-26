@@ -4,7 +4,7 @@ identifier: "BWBR0022748"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2018-01-03"
+last_updated: "2020-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022748"
 soort: "AMvB"
@@ -94,7 +94,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 3
 
-1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2018-01-03&g=2018-01-03), zijn:
+1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2020-03-26&g=2020-03-26), zijn:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
@@ -106,7 +106,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - e. een opgave van referenten.
 
-2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2018-01-03&g=2018-01-03), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2020-03-26&g=2020-03-26), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
 #### Bepaling ter uitvoering van [artikel 5:27, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27)
 
@@ -194,11 +194,15 @@ De overeenkomst, bedoeld in [artikel 5:30b, eerste lid, onderdeel a, van de wet]
 
 ##### Artikel 4e
 
+1.
+
 De regelingen, bedoeld in [artikel 5:30d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30d) zijn:
 
 - a. afgestemd op het liquiditeitsprofiel van het desbetreffende financieel instrument op verschillende markten en op het gemiddelde verschil tussen de biedprijzen en laatprijzen en houden rekening met de wenselijkheid van redelijk stabiele prijzen, waarbij de verdere verkleining van het verschil tussen de biedprijzen en laatprijzen niet onnodig wordt beperkt; en
 
 - b. zo opgezet dat de omvang van de minimale verhandelingseenheid is afgestemd op elk afzonderlijk financieel instrument.
+
+2. Toepassing van de regelingen, bedoeld in [artikel 5:30d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30d), belet niet dat gereglementeerde markten orders die aanzienlijk van omvang zijn matchen op de mid-point van de actuele biedprijzen en laatprijzen.
 
 #### § 3. Wijzigingen andere besluiten
 
