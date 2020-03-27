@@ -4,7 +4,7 @@ identifier: "BWBR0042891"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-31"
-last_updated: "2020-01-01"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042891"
 soort: "ministeriele-regeling"
@@ -46,7 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **minister:** Minister voor Medische Zorg;
 
-- –. **instelling:** een rechtspersoon die in het bezit is van een erkenning als orgaanbank specifiek voor donorsemen als bedoeld in [artikel 9 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9);
+- –. **instelling:**
+
+- 1. een rechtspersoon die in het bezit is van een erkenning als weefselinstelling of orgaanbank specifiek voor donorsemen als bedoeld in [artikel 9 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9); of
+
+- 2. een door de minister aangewezen zorginstelling;
 
 - –. **basis oriënterend fertiliteitsonderzoek:** een of twee consulten inclusief een echo om de mogelijkheden om te komen tot een zwangerschap te onderzoeken;
 
@@ -82,7 +86,7 @@ Een subsidie voor het uitvoeren van een basis oriënterend fertiliteitsonderzoek
 
 ##### Artikel 5. Subsidiebedrag
 
-De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2020-01-01&g=2020-01-01).
+De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2020-03-27&g=2020-03-27).
 
 ##### Artikel 6. Aanvraagtermijn
 
