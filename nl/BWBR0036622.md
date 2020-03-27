@@ -4,7 +4,7 @@ identifier: "BWBR0036622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-27"
-last_updated: "2020-02-01"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036622"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en mac
 
 ##### Artikel 5
 
-De directeur bedrijfsvoering van de Hoge Raad handelt bij de uitoefening van de gemandateerde bevoegdheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=3&z=2020-01-01&g=2020-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=4&z=2020-01-01&g=2020-02-01), binnen de door de Directeur Rechtsbestel van het ministerie van Justitie en Veiligheid vastgestelde financiële kaders voor het beheer van de Hoge Raad.
+De directeur bedrijfsvoering van de Hoge Raad handelt bij de uitoefening van de gemandateerde bevoegdheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=3&z=2020-03-27&g=2020-03-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=4&z=2020-03-27&g=2020-03-27), binnen de door de Directeur Rechtsbestel van het ministerie van Justitie en Veiligheid vastgestelde financiële kaders voor het beheer van de Hoge Raad.
 
 ##### Artikel 6
 
