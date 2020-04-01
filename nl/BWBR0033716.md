@@ -4,7 +4,7 @@ identifier: "BWBR0033716"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2013-11-09"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033716"
 soort: "wet"
@@ -49,25 +49,25 @@ In deze wet wordt verstaan onder:
 
 - a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Verordening:** Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65).
+- b. **Verordening:** Verordening (EU) nr. 2019/788 van het Europees Parlement en de Raad van 17 april 2019 over het burgerinitiatief (PB L 130/55 van 17.5.2019).
 
 ##### Artikel 2
 
 Onze Minister is bevoegd:
 
-- a. certificaten als bedoeld in artikel 6, derde lid, van de Verordening af te geven;
+- a. certificaten als bedoeld in artikel 11, derde lid, van de Verordening af te geven;
 
-- b. de verificatie van de steunbetuigingen, bedoeld in artikel 8, tweede lid, van de Verordening, te coördineren;
+- b. de verificatie van de steunbetuigingen, bedoeld in artikel 12, vierde lid, van de Verordening, te coördineren;
 
-- c. certificaten als bedoeld in artikel 8, tweede lid, van de Verordening af te geven.
+- c. certificaten als bedoeld in artikel 12, vijfde lid, van de Verordening af te geven.
 
 ##### Artikel 3
 
-Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder geval bij een aanvraag voor een certificaat als bedoeld in artikel 6, derde lid, van de Verordening worden verstrekt.
+Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder geval bij een aanvraag voor een certificaat als bedoeld in artikel 11, derde lid, van de Verordening worden verstrekt.
 
 ##### Artikel 4
 
-1. De aanvrager draagt er zorg voor dat door Onze Minister aangewezen ambtenaren ten behoeve van het beoordelen van de aanvraag voor een certificaat als bedoeld in artikel 6, derde lid, van de Verordening, met medeneming van de benodigde apparatuur, de plaats kunnen betreden waar het onlinesysteem, bedoeld in artikel 6 van de Verordening, zich bevindt en ter plaatse inzage kunnen krijgen in het onlinesysteem.
+1. De aanvrager draagt er zorg voor dat door Onze Minister aangewezen ambtenaren ten behoeve van het beoordelen van de aanvraag voor een certificaat als bedoeld in artikel 11, derde lid van de Verordening, met medeneming van de benodigde apparatuur, de plaats kunnen betreden waar het onlinesysteem, bedoeld in artikel 11 van de Verordening, zich bevindt en ter plaatse inzage kunnen krijgen in het onlinesysteem.
 
 2. De ambtenaren, bedoeld in het eerste lid, kunnen zich laten vergezellen door personen die daartoe door hen zijn aangewezen.
 
@@ -75,7 +75,7 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 ##### Artikel 5
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop de steekproeven, bedoeld in artikel 8, tweede lid, van de Verordening, worden uitgevoerd en over de vaststelling van het totaal aantal geldige steunbetuigingen op basis van de uitkomst van de steekproeven.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop de steekproeven, bedoeld in artikel 12, vierde lid, van de Verordening, worden uitgevoerd en over de vaststelling van het totaal aantal geldige steunbetuigingen op basis van de uitkomst van de steekproeven.
 
 2. Deze regels hebben in ieder geval betrekking op:
 
@@ -85,7 +85,7 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 ##### Artikel 6
 
-1. [Titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) is niet van toepassing op een beschikking op grond van [artikel 2, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033716&artikel=2&z=2013-11-09&g=2013-11-09).
+1. [Titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) is niet van toepassing op een beschikking op grond van [artikel 2, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033716&artikel=2&z=2020-04-01&g=2020-04-01).
 
 2. In afwijking van [artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State kan een kortere termijn stellen.
 
