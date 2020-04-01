@@ -4,7 +4,7 @@ identifier: "BWBR0025866"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2019-05-02"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025866"
 soort: "AMvB"
@@ -58,37 +58,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 ##### Artikel 2
 
-1. Certificaten worden afgegeven voor het geven van rijonderricht voor de volgende categorieën motorrijtuigen:
+1. Certificaten worden afgegeven voor het geven van rijonderricht voor de motorrijtuigcategorieën A, B, C, D, E bij B, E bij C, E bij D, of T.
 
-- a. motorrijtuigen voor het besturen waarvan rijbewijs A als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie A);
+2. Een certificaat voor:
 
-- b. motorrijtuigen voor het besturen waarvan rijbewijs B als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie B);
+- a. motorrijtuigcategorie A geeft tevens de bevoegdheid tot het geven van rijonderricht voor de motorrijtuigcategorieën AM, voor zover het tweewielige bromfietsen betreft, A1 en A2;
 
-- c. motorrijtuigen voor het besturen waarvan rijbewijs C als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie C);
+- b. motorrijtuigcategorie B geeft tevens de bevoegdheid tot het geven van rijonderricht voor motorrijtuigcategorie AM, voor zover het drie- of vierwielige bromfietsen betreft;
 
-- d. motorrijtuigen voor het besturen waarvan rijbewijs D als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie D);
+- c. motorrijtuigcategorie C geeft tevens de bevoegdheid tot het geven van rijonderricht voor motorrijtuigcategorie C1;
 
-- e. samenstellen van motorrijtuig en getrokken voertuig, voor het besturen waarvan rijbewijs E in combinatie met rijbewijs B als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie E bij B);
+- d. motorrijtuigcategorie D geeft tevens de bevoegdheid tot het geven van rijonderricht voor motorrijtuigcategorie D1;
 
-- f. samenstellen van motorrijtuig en getrokken voertuig, voor het besturen waarvan rijbewijs E in combinatie met rijbewijs C of D als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie E bij C of D);
+- e. motorrijtuigcategorie E bij B geeft tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van een samenstel van een motorrijtuig van de motorrijtuigcategorie B en een aanhangwagen of oplegger waarvan de toegestane maximummassa meer bedraagt dan 750 kg, waarbij de toegestane maximummassa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger meer bedraagt dan 3.500 kg, maar niet meer dan 4.250 kg;
 
-- g. motorrijtuigen voor het besturen waarvan rijbewijs T als bedoeld in het [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) is vereist (categorie T).
-
-2. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie A geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van:
-
-- a. motorrijtuigen van de categorie AM, bromfietsen, en het geven van theoretisch rijonderricht voor het besturen van motorrijtuigen van de categorie AM, en
-
-- b. motorrijtuigen van de categorieën A1 en A2.
-
-3. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie B geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie AM, brommobielen, en het geven van theoretisch rijonderricht voor het besturen van motorrijtuigen van de categorie AM.
-
-4. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie C geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie C1.
-
-5. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie D geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie D1.
-
-6. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij B geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van samenstellen van een motorrijtuig van de categorie B en een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 750 kg, waarbij de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger meer bedraagt dan 3500 kg, maar niet meer dan 4250 kg.
-
-7. Certificaten afgegeven voor het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij C of E bij D geven tevens de bevoegdheid tot het geven van rijonderricht voor het besturen van motorrijtuigen van de categorie E bij C1 respectievelijk E bij D1.
+- f. motorrijtuigcategorie E bij C of E bij D geeft tevens de bevoegdheid tot het geven van rijonderricht voor motorrijtuigcategorie E bij C1 respectievelijk E bij D1.
 
 ##### Artikel 3
 
@@ -102,9 +86,9 @@ De in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. Bij de aanvraag voor het afleggen van het examen rijinstructeur overlegt de aanvrager een bewijsstuk aan het instituut waaruit blijkt dat deze met goed gevolg:
 
-- a. een opleiding heeft gevolgd op het niveau van ten minste middelbaar algemeen voortgezet onderwijs, lager dan wel voorbereidend beroepsonderwijs of individueel beroepsonderwijs, of
+- a. een opleiding heeft gevolgd op het niveau van ten minste voorbereidend middelbaar beroepsonderwijs in de theoretische of gemengde leerweg, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10) respectievelijk [artikel 10d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of op een gelijkwaardig niveau, of
 
-- b. de geschiktheidstest als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) heeft afgelegd.
+- b. de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), heeft afgelegd.
 
 2. Het bepaalde in het eerste lid geldt niet ten aanzien van de aanvrager die reeds beschikt over een geldig certificaat voor het geven van rijonderricht.
 
@@ -118,59 +102,59 @@ De in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 5
 
-De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), zijn:
+1. De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), zijn voor motorrijtuigcategorie B:
 
-- 1. Fase 1 Bekwaam in verkeersdeelname:
+- a. Fase 1. Bekwaam in verkeersdeelname:
 
-- a. de rijinstructeur kan met een motorrijtuig veilig, vlot en milieubewust aan het verkeer deelnemen volgens de rijprocedure;
+- 1°. de rijinstructeur kan met een motorrijtuig veilig, vlot en milieubewust aan het verkeer deelnemen volgens de rijprocedure; en
 
-- b. de rijinstructeur is zich bewust van de taakprocessen die hij doorloopt tijdens uitvoering van de rijtaken en kan deze processen verwoorden tijdens van de taakuitvoering in verschillende lessituaties;
+- 2°. de rijinstructeur is zich bewust van de taakprocessen die hij doorloopt tijdens uitvoering van de rijtaken en kan deze processen verwoorden in verschillende lessituaties; en
 
-- c. de rijinstructeur heeft als tweede bestuurder beheersing over het lesvoertuig.
+- b. Fase 2. Didactische voorwaarden:
 
-- 2. Fase 2 Didactische voorwaarden:
+- 1°. de rijinstructeur kan aan de hand van de leergang en het lesplan een individueel lesprogramma voor de leerling vaststellen en verantwoorden;
 
-- a. de rijinstructeur kan een individueel aansluitend lesprogramma voor de leergang en voor het lesplan vaststellen en verantwoorden;
+- 2°. de rijinstructeur kan de lessen inhoudelijk en didactisch voorbereiden zodanig dat voor de leerlingen een krachtige leeromgeving wordt gerealiseerd;
 
-- b. de rijinstructeur kan de lessen inhoudelijk en didactisch voorbereiden zodanig dat voor de leerlingen een krachtige leeromgeving wordt gerealiseerd;
+- 3°. de rijinstructeur kan lessituaties zodanig organisatorisch plannen en inrichten dat de lesactiviteiten een vloeiend verloop kennen, verstoringen kunnen worden voorkomen of opgelost en de beschikbare les- en leertijd taakgericht wordt besteed;
 
-- c. de rijinstructeur kan lessituaties zodanig organisatorisch plannen en inrichten dat:
+- 4°. de rijinstructeur kan zodanig instructie geven dat de leerling in aansluiting op zijn actuele beheersingsniveau de verschillende deeltaken stapsgewijs steeds zelfstandiger leert uitvoeren;
 
-- –. de lesactiviteiten een vloeiend verloop kennen;
+- 5°. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signaleren en hem ondersteunen en begeleiden in het zelfstandig en met vertrouwen leren aanpakken van de rijtaken en oplossen van problemen; en
 
-- –. verstoringen kunnen worden voorkomen of opgelost;
+- 6°. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of van rijexaminatoren.
 
-- –. de beschikbare les- en leertijd taakgericht wordt besteed;
+2. De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), zijn voor de motorrijtuigcategorieën A, C, D, E bij B, E bij C en E bij D, de eisen, genoemd in het eerste lid, onderdeel a.
 
-- d. de rijinstructeur kan zodanig instructie geven dat de leerling in aansluiting op zijn actuele beheersingsniveau de verschillende deeltaken stapsgewijs steeds zelfstandiger leert uitvoeren;
+3. Voor de motorrijtuigcategorie T zijn:
 
-- e. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signaleren en hem ondersteunen en begeleiden in het zelfstandig en met vertrouwen leren aanpakken van de rijtaken, en oplossen van problemen;
+- a. de eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), indien de aanvrager niet beschikt over een certificaat voor motorrijtuigcategorie B, de eisen, genoemd in het eerste lid, onderdelen a en b;
 
-- f. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of -examinatoren.
+- b. de eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a), indien de aanvrager beschikt over een certificaat voor motorrijtuigcategorie B en niet over een certificaat voor de motorrijtuigcategorie E bij C, de eisen, genoemd in het eerste lid, onderdeel a;
+
+- c. de eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), indien de aanvrager mede beschikt over een certificaat voor motorrijtuigcategorie E bij C, de eisen, genoemd in het eerste lid, onderdeel a.
 
 ##### Artikel 6
 
-1. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) voor de categorie B voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
-
-2. Voor de afgifte van een certificaat voor het geven van rijonderricht, als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=II&artikel=2&z=2019-05-02&g=2019-05-02), onderdeel a, c, d, e en f, genoemde rijbewijscategorieën, voldoet de aanvrager aan de in [artikel 5, aanhef en onderdeel 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
-
-3. Voor de toepassing van het eerste en het tweede lid voldoet de aanvrager wat de daar bedoelde eisen betreft in het bijzonder aan de eisen voor zover die eisen betrekking hebben op de categorie motorrijtuigen waarvoor afgifte van een certificaat wordt gevraagd.
+Vervallen
 
 #### Paragraaf 3. Stage
 
 ##### Artikel 7
 
-De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) ten behoeve van de categorieën B, A, C en D zijn:
+De eisen van bekwaamheid tot het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), voor de motorrijtuigcategorieën A, B, C, D en T, alsmede de eisen, bedoeld in [artikel 9a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a), zijn:
 
-Bekwaam handelen als rijinstructeur in authentieke lessituaties:
+Fase 3. Bekwaam handelen als rijinstructeur in authentieke lessituaties:
 
-- a. de rijinstructeur kan instructie geven, waarbij de leerling in aansluiting op zijn actuele beheersingsniveau de verschillende deeltaken stapsgewijs steeds zelfstandiger leert uitvoeren;
+- a. de rijinstructeur heeft als tweede bestuurder beheersing over het lesvoertuig;
 
-- b. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signaleren en hem ondersteunen en begeleiden in het zelfstandig en met vertrouwen leren aanpakken van de rijtaken, en oplossen van problemen;
+- b. de rijinstructeur kan zodanig instructie geven dat de leerling in aansluiting op zijn actuele beheersingsniveau de verschillende deeltaken stapsgewijs steeds zelfstandiger leert uitvoeren;
 
-- c. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of -examinatoren.
+- c. de rijinstructeur kan ontwikkelingen in het leerproces van de leerling signaleren en hem ondersteunen en begeleiden in het zelfstandig en met vertrouwen leren aanpakken van de rijtaken, en oplossen van problemen;
 
-- d. de rijinstructeur kan reflecteren op zijn handelen als opleider en zodanig evalueren dat de resultaten daarvan aanwijzingen geven voor bijstelling van dat handelen.
+- d. de rijinstructeur kan de ontwikkeling in de rijvaardigheid van de leerling beoordelen door zelf het beoordelingsniveau van de leerling te toetsen of door gebruik te maken van het oordeel van andere rijinstructeurs of rijexaminatoren; en
+
+- e. de rijinstructeur kan reflecteren op zijn handelen als opleider en zodanig evalueren dat de resultaten daarvan aanwijzingen geven voor bijstelling van dat handelen.
 
 ##### Artikel 8
 
@@ -188,25 +172,33 @@ Bekwaam handelen als rijinstructeur in authentieke lessituaties:
 
 ##### Artikel 9
 
-Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is, deel aan zes dagdelen theoretische bijscholing in een van de categorieën waarvoor hij het certificaat heeft. Elk dagdeel theoretische bijscholing is uniek van inhoud.
+1. Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, eerste en tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is, deel aan zes dagdelen theoretische bijscholing in een van de motorrijtuigcategorieën waarvoor hij het certificaat heeft.
+
+2. Theoretische bijscholing die gevolgd is in de in het eerste lid bedoelde periode is alleen geldig voor de periode, bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13).
+
+3. Het instituut registreert de gevolgde theoretische bijscholing als de daarbij behorende omvang in dagdelen volledig is gevolgd.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de theoretische bijscholing.
 
 ##### Artikel 10
 
-1. Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is, twee maal deel aan een dagdeel praktijkbegeleiding. De praktijkbegeleiding wordt telkens door het instituut beoordeeld.
+1. Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), neemt in de periode dat zijn certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, eerste en tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is, deel aan een praktijkbegeleiding.
 
-2. Degene wiens tweede dagdeel praktijkbegeleiding niet als voldoende is beoordeeld, volgt in de in het eerste lid bedoelde periode een derde dagdeel praktijkbegeleiding.
+2. Degene wiens praktijkbegeleiding niet als voldoende is beoordeeld, volgt in de in het eerste lid bedoelde periode een tweede praktijkbegeleiding. Degene wiens tweede praktijkbegeleiding niet als voldoende is beoordeeld, volgt in de in het eerste lid bedoelde periode een derde praktijkbegeleiding.
+
+3. De praktijkbegeleiding wordt door het instituut beoordeeld. Indien de praktijkbeoordeling niet als voldoende wordt beoordeeld, geeft het instituut aan welke competenties onvoldoende zijn aangetoond.
 
 ##### Artikel 11
 
-Onverminderd [artikel 12b, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2019-05-02&g=2019-05-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2019-05-02&g=2019-05-02).
+Onverminderd [artikel 12b, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2020-04-01&g=2020-04-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2020-04-01&g=2020-04-01) en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 12
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
-- a. de omvang, de inhoud en de verplichtingen van degene die de gecertificeerde cursussen verzorgen,
+- a. de omvang en de inhoud van de gecertificeerde cursussen en de verplichtingen van degene die de gecertificeerde cursussen verzorgen,
 
-- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, en
+- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, waarbij verschillende regels worden gesteld indien er sprake is van een verlenging als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2020-04-01&g=2020-04-01), en
 
 - c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.
 
@@ -214,15 +206,17 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 ##### Artikel 13
 
-1. Het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), bestaat voor het verkrijgen van een certificaat, bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13):
+1. Het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), bestaat voor het verkrijgen van een certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet:](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13)
 
-- a. voor het rijonderricht in de rijbewijscategorie B uit de fasen 1 en 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02);
+- a. voor motorrijtuigcategorie B en voor de motorrijtuigcategorieën A en T indien de herintreder blijkens het register, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=4), minder dan vijf jaar geleden beschikte over uitsluitend een geldig certificaat voor motorrijtuigcategorie A respectievelijk T, uit:
 
-- b. voor het rijonderricht in de rijbewijscategorie T uit de fasen 1 en 2 voor de categorie T, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), als de aanvrager uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13) voor de rijbewijscategorie T;
+- 1°. fase 1 als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01), voor de desbetreffende motorrijtuigcategorie;
 
-- c. voor het rijonderricht in de rijbewijscategorie A uit fase 1 voor de categorie A en fase 2 voor de categorie B, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), als de rijinstructeur uitsluitend in het bezit is van een niet langer dan vijf jaar verlopen certificaat voor het rijonderricht in de rijbewijscategorie A;
+- 2°. fase 2 als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01), voor de motorrijtuigcategorie B, dan wel voor motorrijtuigcategorie T voor het herintrederstraject voor die motorrijtuigcategorie; en
 
-- d. voor het rijonderricht in de overige rijbewijscategorieën uit de praktische toets uit fase 1 voor de betrokken categorie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), en het bezit van een geldig certificaat voor de rijbewijscategorie B.
+- 3°. fase 3 als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2020-04-01&g=2020-04-01) voor de desbetreffende motorrijtuigcategorie, met dien verstande dat de omvang ervan minder is dan op grond van [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=8&z=2020-04-01&g=2020-04-01);
+
+- b. voor de overige motorrijtuigcategorieën uit het bezit van een geldig certificaat voor de motorrijtuigcategorie B.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
@@ -234,11 +228,11 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 ##### Artikel 14
 
-De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), waarvan het bezit van een geldig diploma is vereist voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak.
+De hoofdopleiding, bedoeld in [artikel 17, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), is een opleiding op het niveau van het wetenschappelijk onderwijs of het hoger beroepsonderwijs, waarbij is geëxamineerd in psychologie, pedagogiek, andragogiek, voorlichtingskunde, onderwijskunde of een gelijksoortig vak.
 
 ##### Artikel 15
 
-De voor de afgifte van een certificaat voor het geven van scholing educatieve maatregel vereiste beroepservaring als bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), bedraagt ten minste twee jaren.
+Het aantal jaren beroepservaring, bedoeld in [artikel 17, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=17), is ten minste twee.
 
 ##### Artikel 16
 
@@ -252,35 +246,29 @@ De aanvullende eisen van bekwaamheid voor het geven van scholing educatieve maat
 
 - 4. kennis van en vaardigheid in het organiseren, geven en evalueren van scholing educatieve maatregel.
 
-### Hoofdstuk V. Maatregelen vakbekwaamheid
+### Hoofdstuk IV. Scholing educatieve maatregel
 
 ##### Artikel 17
 
-1. De verplichting tot het afleggen van een toets, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), en [artikel 23, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=23), wordt aan een houder van een certificaat opgelegd indien:
-
-- a. bij het besluit, bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), dat geen onderzoek is vereist, blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) gestelde eisen van bekwaamheid;
-
-- b. uit de uitslag van het onderzoek, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), blijkt dat betrokkene niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) gestelde eisen van bekwaamheid.
-
-2. Bij het opleggen van de verplichting tot het afleggen van een toets geeft het instituut aan op welk onderdeel of welke onderdelen van de vakbekwaamheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), de toets betrekking dient te hebben.
+Vervallen
 
 ##### Artikel 18
 
-1. Tijdstip waarop en plaats waar de houder van een certificaat het in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21) bedoelde onderzoek ondergaat, dan wel de in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21) bedoelde toets aflegt, worden vastgesteld door de aangewezen deskundige of deskundigen ingeval het een onderzoek betreft, dan wel door het instituut ingeval het een toets betreft, en aan betrokkene bij aangetekende brief medegedeeld.
+1. Het tijdstip en de plaats van het onderzoek, bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=21), worden vastgesteld door de aangewezen deskundige of deskundigen en aan betrokkene bij aangetekende brief medegedeeld.
 
-2. Indien betrokkene niet op de vastgestelde tijd en plaats aanwezig is terwijl van een geldige reden van verhindering blijkt, worden tijd en plaats voor het onderzoek dan wel de toets opnieuw door de deskundige of deskundigen dan wel door het instituut vastgesteld en aan betrokkene bij aangetekende brief medegedeeld.
+2. Indien betrokkene wegens een geldige reden van verhindering niet op het vastgestelde tijdstip op de vastgestelde plaats aanwezig is, worden door de deskundige of deskundigen opnieuw een tijdstip en plaats vastgesteld, die bij aangetekende brief aan betrokkene worden medegedeeld.
 
-3. Indien betrokkene niet op de vastgestelde tijd en plaats aanwezig is zonder dat van een geldige reden van verhindering blijkt, wordt dat door de aangewezen deskundige of deskundigen dan wel door het instituut vastgesteld en aan betrokkene bij aangetekende brief medegedeeld.
+3. Indien betrokkene zonder geldige reden van verhindering niet op het vastgestelde tijdstip op de vastgestelde plaats aanwezig is, wordt dat door de deskundige of deskundigen vastgesteld en bij aangetekende brief aan betrokkene medegedeeld.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
 ##### Artikel 19
 
-In afwijking van [artikel 7, eerste lid, van het Besluit rijonderricht motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007020&artikel=7) zoals dit gold voor de inwerkingtreding van dit besluit, hoeft de aanvrager voor de eerste afgifte van het certificaat voor het geven rijonderricht met betrekking tot motorrijtuigen van de rijbewijscategorie A of B niet te voldoen aan de eis genoemd in onderdeel 15 van [artikel 6 van het Besluit rijonderricht motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007020&artikel=6) zoals dit gold voor de inwerkingtreding van dit besluit.
+In afwijking van [artikel 4, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=1&artikel=4&z=2020-04-01&g=2020-04-01), kan de aanvrager bij de aanvraag voor het afleggen van het examen rijinstructeur een bewijsstuk aan het instituut overleggen waaruit blijkt dat deze met goed gevolg een opleiding heeft gevolgd op het niveau van ten minste lager dan wel voorbereidend beroepsonderwijs of individueel beroepsonderwijs, indien de aanvrager vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37) een examen rijinstructeur heeft afgelegd.
 
 ##### Artikel 20
 
-Het [Besluit rijonderricht motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007020) wordt ingetrokken.
+Voor degenen die aan het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c) zijn begonnen vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37), blijft [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=5&artikel=13&z=2020-04-01&g=2020-04-01) van dit besluit zoals dat luidde voor inwerkingtreding van het voornoemde besluit van kracht tot zes maanden na de datum van inwerkingtreding.
 
 ##### Artikel 21
 
@@ -288,7 +276,7 @@ Dit besluit wordt aangehaald als: Besluit rijonderricht motorrijtuigen 2009.
 
 ##### Artikel 22
 
-Het [besluit van 13 juli 2006, nr. 06.002554 houdende toekenning van een vaste beloning aan de voorzitter en leden van de Commissie van beroep ingevolge de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0020108), wordt ingetrokken.
+Vervallen
 
 ##### Artikel 23
 
@@ -308,27 +296,41 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-1. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager niet beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), voor de categorie B, voldoet de aanvrager aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02) genoemde eisen.
-
-2. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a) met betrekking tot motorrijtuigen van de categorie T, en de aanvrager beschikt over een certificaat als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7) voor de rijbewijscategorie B, maar niet over het certificaat voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), genoemde eisen.
-
-3. Indien het de afgifte betreft van een certificaat voor het geven van rijonderricht als bedoeld in [artikel 7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7), en de aanvrager mede beschikt over een certificaat als bedoeld in artikel 7, eerste lid, van de wet, voor de rijbewijscategorie E bij C, voldoet hij aan de in [artikel 5, aanhef en onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02), genoemde eisen.
+Vervallen
 
 ##### Artikel 6b
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2019-05-02&g=2019-05-02).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01).
 
 #### Paragraaf 3. Stage
 
 ##### Artikel 7a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2019-05-02&g=2019-05-02) is van overeenkomstige toepassing op het geven van rijonderricht, bedoeld in [artikel 9, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9) ten behoeve van de categorie T, alsmede ten behoeve van [9a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9a).
+Vervallen
 
 #### Paragraaf 4. Bijscholing
 
 #### Paragraaf 5. Herintreding
 
 ### Hoofdstuk IV. Scholing educatieve maatregel
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a
+
+1. Degene die bijscholing volgt als bedoeld in [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), neemt in de periode dat de geldigheid van zijn certificaat met zes maanden verlengd is, bedoeld in [artikel 13, aanhef en onderdeel b, derde en vierde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), telkens deel aan zes dagdelen bijlessen en vervolgens aan een praktijkbegeleiding.
+
+2. Bijlessen die gevolgd zijn in de in het eerste lid bedoelde periode zijn alleen geldig voor diezelfde periode.
+
+3. Het instituut registreert de gevolgde bijlessen als de daarbij behorende omvang in dagdelen volledig is gevolgd.
+
+4. [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2020-04-01&g=2020-04-01), is van toepassing op de praktijkbegeleiding, bedoeld in het eerste lid.
+
+#### Paragraaf 5. Herintreding
+
+### Hoofdstuk V. Maatregelen vakbekwaamheid
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
