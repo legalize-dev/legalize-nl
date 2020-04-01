@@ -4,7 +4,7 @@ identifier: "BWBR0043332"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-19"
-last_updated: "2020-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043332"
 soort: "ministeriele-regeling"
@@ -91,19 +91,19 @@ BESLUIT:
 
 1. De Stuurgroep stelt haar eigen werkwijze en die van het secretariaat vast.
 
-2. De Stuurgroep kan zich door andere personen dan afkomstig van de organisaties genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=2&z=2020-04-01&g=2020-01-01), doen bijstaan voor zover dat voor de vervulling van zijn taak nodig is.
+2. De Stuurgroep kan zich door andere personen dan afkomstig van de organisaties genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=2&z=2020-04-01&g=2020-04-01), doen bijstaan voor zover dat voor de vervulling van zijn taak nodig is.
 
 ##### Artikel 5. Voortgang
 
 1. Ieder Stuurgroep-lid is verantwoordelijk voor de implementatie van besluiten van de Stuurgroep die raken aan de verantwoordelijkheid van het betreffende lid en zal over de voortgang van de uitvoering periodiek aan de Stuurgroep rapporteren.
 
-2. De Stuurgroep brengt verslag uit aan de organisaties genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=2&z=2020-04-01&g=2020-01-01), over taken en werkzaamheden.
+2. De Stuurgroep brengt verslag uit aan de organisaties genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=2&z=2020-04-01&g=2020-04-01), over taken en werkzaamheden.
 
 ##### Artikel 6. Informatieplicht
 
 1. De Stuurgroep verstrekt aan de minister de desgevraagde informatie.
 
-2. De leden stemmen de externe informatievoorziening met elkaar af en wijzen hiervoor een contactpersoon aan. Zij maken hiertoe zo nodig afspraken over de werkwijze als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=4&z=2020-04-01&g=2020-01-01).
+2. De leden stemmen de externe informatievoorziening met elkaar af en wijzen hiervoor een contactpersoon aan. Zij maken hiertoe zo nodig afspraken over de werkwijze als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043332&artikel=4&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 7. Kosten
 
