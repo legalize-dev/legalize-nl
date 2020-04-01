@@ -4,7 +4,7 @@ identifier: "BWBV0006615"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-04-01"
-last_updated: "2016-07-03"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006615"
 soort: "verdrag"
@@ -240,7 +240,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 2. Het comité monitort, na voorafgaande instemming van de betrokken partijen, de naleving van dit Verdrag door middel van een programma van bezoeken aan de staten die partij zijn, teneinde advies en ondersteuning te bieden bij de implementatie van dit Verdrag.
 
-3. Het comité verzamelt tevens de informatie die conform [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=12&z=2016-07-03&g=2016-07-03) door de staten die partij zijn wordt geleverd en geeft relevante gegevens door aan alle staten die partij zijn bij het Verdrag. Het comité kan in het bijzonder elke staat die partij is informeren over de aanwijzing van een nieuw nationaal informatiepunt voetbal en de contactgegevens ervan verspreiden.
+3. Het comité verzamelt tevens de informatie die conform [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=12&z=2020-04-01&g=2020-04-01) door de staten die partij zijn wordt geleverd en geeft relevante gegevens door aan alle staten die partij zijn bij het Verdrag. Het comité kan in het bijzonder elke staat die partij is informeren over de aanwijzing van een nieuw nationaal informatiepunt voetbal en de contactgegevens ervan verspreiden.
 
 4. Voor het vervullen van zijn taken kan het comité uit eigen beweging vergaderingen met deskundigen organiseren.
 
@@ -248,7 +248,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door een partij, het Comité veiligheid en beveiliging bij sportevenementen of het Comité van Ministers van de Raad van Europa.
 
-2. Elk voorstel tot wijziging wordt door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend), aan elke niet-lidstaat van de Raad van Europa die tot [Overeenkomst nr. 120](onbekend) is toegetreden vóór de datum waarop dit Verdrag voor ondertekening wordt opengesteld en aan elke niet-lidstaat die in overeenstemming met de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2016-07-03&g=2016-07-03) tot dit Verdrag is toegetreden of is uitgenodigd toe te treden.
+2. Elk voorstel tot wijziging wordt door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend), aan elke niet-lidstaat van de Raad van Europa die tot [Overeenkomst nr. 120](onbekend) is toegetreden vóór de datum waarop dit Verdrag voor ondertekening wordt opengesteld en aan elke niet-lidstaat die in overeenstemming met de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01) tot dit Verdrag is toegetreden of is uitgenodigd toe te treden.
 
 3. Elke wijziging die door een partij of door het Comité van Ministers wordt voorgesteld, wordt aan het comité medegedeeld ten minste twee maanden voor de vergadering waarop de wijziging zal worden behandeld. Het comité doet het Comité van Ministers zijn standpunt omtrent de voorgestelde wijziging toekomen.
 
@@ -268,11 +268,11 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 3. Geen staat die partij is bij [Overeenkomst nr. 120](onbekend) mag zijn akte van bekrachtiging, aanvaarding of goedkeuring nederleggen tenzij hij de genoemde Overeenkomst reeds heeft opgezegd of tegelijkertijd opzegt.
 
-4. Bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met het voorgaande lid, kan een verdragsluitende staat verklaren dat hij [Overeenkomst nr. 120](onbekend) blijft toepassen tot de inwerkingtreding van dit Verdrag volgens de bepalingen van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2016-07-03&g=2016-07-03).
+4. Bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met het voorgaande lid, kan een verdragsluitende staat verklaren dat hij [Overeenkomst nr. 120](onbekend) blijft toepassen tot de inwerkingtreding van dit Verdrag volgens de bepalingen van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 17. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop drie lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2016-07-03&g=2016-07-03).
+1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop drie lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01).
 
 2. Met betrekking tot elke ondertekenende staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
@@ -288,7 +288,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 1. In de betrekkingen tussen een partij bij dit Verdrag en een partij bij [Overeenkomst nr. 120](onbekend) die dit Verdrag niet heeft bekrachtigd, blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=4) en [5 van Overeenkomst nr. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=5) van toepassing.
 
-2. Indien een staat [Overeenkomst nr. 120](onbekend) heeft opgezegd, maar deze opzegging is nog niet van kracht op het tijdstip waarop dit Verdrag wordt bekrachtigd, dan is dit Verdrag, na de inwerkingtreding ervan, van toepassing in overeenstemming met de bepalingen van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2016-07-03&g=2016-07-03).
+2. Indien een staat [Overeenkomst nr. 120](onbekend) heeft opgezegd, maar deze opzegging is nog niet van kracht op het tijdstip waarop dit Verdrag wordt bekrachtigd, dan is dit Verdrag, na de inwerkingtreding ervan, van toepassing in overeenstemming met de bepalingen van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 20. Territoriale toepassing
 
@@ -308,17 +308,17 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) en elke andere staat die is toegetreden tot dit Verdrag in kennis van:
 
-- a. elke ondertekening in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2016-07-03&g=2016-07-03);
+- a. elke ondertekening in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01);
 
-- b. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2016-07-03&g=2016-07-03) of [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2016-07-03&g=2016-07-03);
+- b. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01);
 
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2016-07-03&g=2016-07-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2016-07-03&g=2016-07-03);
+- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01);
 
-- d. elk voorstel tot wijziging of elke wijziging die in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=15&z=2016-07-03&g=2016-07-03) is aangenomen en de datum waarop de wijziging in werking treedt;
+- d. elk voorstel tot wijziging of elke wijziging die in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=15&z=2020-04-01&g=2020-04-01) is aangenomen en de datum waarop de wijziging in werking treedt;
 
-- e. elke verklaring afgelegd ingevolge de bepalingen van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=20&z=2016-07-03&g=2016-07-03);
+- e. elke verklaring afgelegd ingevolge de bepalingen van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=20&z=2020-04-01&g=2020-04-01);
 
-- f. elke opzegging gedaan ingevolge de bepalingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=21&z=2016-07-03&g=2016-07-03);
+- f. elke opzegging gedaan ingevolge de bepalingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=21&z=2020-04-01&g=2020-04-01);
 
 - g. elke andere akte, verklaring, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
