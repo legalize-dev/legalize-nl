@@ -4,7 +4,7 @@ identifier: "BWBR0039319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2020-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039319"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **masteropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), of [artikel 7.3b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) of een opleiding, buiten Nederland binnen de Europese Unie en het Koninkrijk der Nederlanden, die vergelijkbaar is met een opleiding, als hiervoor genoemd, wat betreft niveau, kwaliteit en afsluitend examen;
 
-- –. **orthopedagogisch-didactisch centrum:** orthopedagogisch-didactisch centrum als bedoeld in [artikel 18a, lid 10, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a, lid 10a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a);
+- –. **orthopedagogisch-didactisch centrum:** orthopedagogisch-didactisch centrum als bedoeld in [artikel 18a, lid 10a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 17a, lid 10a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a);
 
 - –. **remedial teacher:** degene die zich bezighoudt met de individuele begeleiding van de leerling die onderwijs op maat nodig heeft;
 
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01);
+- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-04-01&g=2020-04-01);
 
-- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-01-01&g=2020-01-01);
+- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-04-01&g=2020-04-01);
 
 - –. **zorgcoördinator:** degene met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs.
 
@@ -101,6 +101,12 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 - b. het bevoegd gezag voor kosten in verband met het verlenen van studieverlof aan de leraar.
 
 2. De subsidie kan worden verstrekt voor bachelor-, master- en deficiëntieopleidingen.
+
+2a. In afwijking van het eerste en tweede lid kan de minister ook subsidie verstrekken voor het volgen van een opleiding in het Verenigd Koninkrijk, indien:
+
+- a. voor het eerste jaar van die opleiding uiterlijk in 2020 subsidie wordt aangevraagd; of
+
+- b. door de leraar voor de desbetreffende opleiding voor een tweede of derde studiejaar subsidie wordt aangevraagd en de minister de leraar reeds eerder voor de opleiding op grond van deze regeling subsidie heeft verstrekt.
 
 3. De subsidie wordt verstrekt voor één studiejaar en voor één opleiding.
 
@@ -125,6 +131,8 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 2. Voor het studiejaar 2018–2019 is een bedrag van € 94.300.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
 
 3. Voor het studiejaar 2019–2020 is een bedrag van € 82.060.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
+
+4. Voor het studiejaar 2020–2021 is een bedrag van € 49.600.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
 
 ##### Artikel 5. Begrotingsvoorwaarde
 
@@ -166,7 +174,17 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 
 - d. € 8.438.800 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
 
-6. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
+6. De verdeling van het beschikbare bedrag voor het studiejaar 2020–2021 over de verschillende doelgroepen geschiedt als volgt:
+
+- a. € 14.000.000 is beschikbaar voor opleidingen van leraren werkzaam in het basisonderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs;
+
+- b. € 23.000.000 is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs;
+
+- c. € 6.500.000 is beschikbaar voor opleidingen van leraren werkzaam in het beroepsonderwijs en educatie; en
+
+- d. € 6.100.000 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
+
+7. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
 
 ##### Artikel 7. Subsidieaanvraag studiekosten
 
@@ -190,7 +208,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2020-01-01&g=2020-01-01).
+De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 12. Betaling
 
@@ -212,13 +230,13 @@ Het subsidiebedrag wordt voordat de opleiding waar de subsidie betrekking op hee
 
 ##### Artikel 14. Subsidiecriteria
 
-De subsidie voor studiekosten wordt uitsluitend verstrekt aan de leraar die:
+1. De subsidie voor studiekosten wordt uitsluitend verstrekt aan de leraar die:
 
 - a. bij aanvang van het studiejaar waarvoor de subsidie bestemd is op grond van de [Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) de graad Bachelor mag voeren;
 
-- b. op het moment van de subsidieaanvraag of in de twaalf kalendermaanden daaraan voorafgaand in dienst is of was bij een bevoegd gezag dan wel een andere werkgever, en werkt of heeft gewerkt bij een of meer bekostigde onderwijsinstellingen dan wel in een of meer orthopedagogisch-didactische centra; en
+- b. op het moment van de subsidieaanvraag of in de twaalf kalendermaanden daaraan voorafgaand werkt of heeft gewerkt bij een of meer bekostigde onderwijsinstellingen dan wel in een of meer orthopedagogisch-didactische centra; en
 
-- c. voor minimaal twintig procent van zijn werktijd is belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is voor het onderwijs, voor zover de leraar niet is benoemd als:
+- c. voor minimaal twintig procent van zijn werktijd is of was belast met lesgebonden taken en pedagogisch-didactisch verantwoordelijk is of was voor het onderwijs, voor zover de leraar niet is of was benoemd als:
 
 - 1. ambulant begeleider;
 
@@ -227,6 +245,8 @@ De subsidie voor studiekosten wordt uitsluitend verstrekt aan de leraar die:
 - 3. intern begeleider; of
 
 - 4. remedial teacher.
+
+2. Het criterium genoemd in het eerste lid, onder b, wordt bij elke aanvraag aangetoond met een door het bevoegd gezag ondertekende werkgeversverklaring voorzien van een stempel van het bevoegd gezag.
 
 ##### Artikel 15. Berekening subsidiebedrag
 
@@ -240,7 +260,7 @@ De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
 
 ##### Artikel 16. Terugvordering collegegeld
 
-Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2020-01-01&g=2020-01-01).
+Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 17. Subsidieverplichting
 
@@ -324,6 +344,18 @@ Voor subsidiëring komt per jaar voor een voltijdsbenoeming, of voor een deeltij
 
 - e. hoger beroepsonderwijs: € 48,00.
 
+4. De subsidiebedragen voor het studiejaar 2020–2021 voor een studieverlofuur zijn voor een subsidieontvanger in de sector:
+
+- a. basisonderwijs: € 37,79;
+
+- b. speciaal onderwijs of voortgezet speciaal onderwijs: € 39,58;
+
+- c. voortgezet onderwijs: € 42,86;
+
+- d. beroepsonderwijs en educatie: € 44,07; en
+
+- e. hoger beroepsonderwijs: € 48,00.
+
 ##### Artikel 23. Subsidieverplichting
 
 1. Het bevoegd gezag verleent studieverlof aan de leraar.
@@ -356,12 +388,24 @@ De [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/j
 
 ##### Artikel 29. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2020-01-01&g=2020-01-01), dat in werking treedt met ingang van 1 juli 2017.
+1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2020-04-01&g=2020-04-01), dat in werking treedt met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 april 2022.
 
 ##### Artikel 30. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling lerarenbeurs.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a. Termijn indiening wijziging
+
+Aanvragen tot wijziging van het aangevraagde subsidiebedrag en de aangevraagde studieverlofuren kunnen jaarlijks worden ingediend tot en met 15 oktober van het studiejaar waarvoor subsidie is aangevraagd.
+
+### Hoofdstuk 2. Subsidie voor studiekosten
+
+### Hoofdstuk 3. Subsidie voor studieverlof
+
+### Hoofdstuk 4. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
