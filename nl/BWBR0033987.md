@@ -4,7 +4,7 @@ identifier: "BWBR0033987"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2014-01-06"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033987"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **steekproef:** een steekproef als bedoeld in [artikel 5 van de Uitvoeringswet verordening Europees burgerinitiatief](https://wetten.overheid.nl/jci1.3:c:BWBR0033716&artikel=5);
 
-- c. **Verordening:** Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65);
+- c. **Verordening:** Verordening (EU) nr. 2019/788 van het Europees Parlement en de Raad van 17 april 2019 over het burgerinitiatief (PB L 130/55 van 17.5.2019);
 
 - d. **identiteitsbewijs:** een Nederlands paspoort dat geldig is op de datum van ondertekening van de steunbetuiging, een Nederlandse identiteitskaart of een identiteitskaart van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba waarop de Nederlandse nationaliteit staat vermeld en die geldig is op de datum van ondertekening van de steunbetuiging.
 
@@ -84,13 +84,13 @@ Onze Minister bepaalt op aselecte wijze welke steunbetuigingen worden gebruikt v
 
 In de steekproef worden steunbetuigingen geldig verklaard, indien:
 
-- a. de ondertekenaar een burger van de Europese Unie is;
+- a. de ondertekenaar Nederlander is;
 
 - b. de ondertekenaar de kiesgerechtigde leeftijd voor de verkiezingen voor het Europees Parlement heeft bereikt;
 
 - c. het steunbetuigingsformulier volledig is ingevuld;
 
-- d. de datum van ondertekening van de steunbetuiging binnen twaalf maanden na de registratie van het Europees burgerinitiatief ligt; en
+- d. de datum van ondertekening van de steunbetuiging binnen de periode, bedoeld in artikel 8, eerste lid, van de Verordening, ligt; en
 
 - e. voor zover:
 
