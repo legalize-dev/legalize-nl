@@ -4,7 +4,7 @@ identifier: "BWBR0043695"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-24"
-last_updated: "2020-03-23"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043695"
 soort: "ministeriele-regeling"
@@ -64,8 +64,6 @@ Wijzigt de Subsidieregeling cultuurbegeleider primair en speciaal onderwijs.
 
 Wijzigt de Subsidieregeling flexibel beroepsonderwijs derde leerweg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 7. Wijziging [Subsidieregeling flexibel hoger onderwijs voor volwassenen](https://wetten.overheid.nl/jci1.3:c:BWBR0037055)
 
 Wijzigt de Subsidieregeling flexibel hoger onderwijs voor volwassenen.
@@ -88,13 +86,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Subsidieregeling instructeursbeurs mbo.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 11. Wijziging [Subsidieregeling lerarenbeurs](https://wetten.overheid.nl/jci1.3:c:BWBR0039319)
 
 Wijzigt de Subsidieregeling lerarenbeurs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 12. Wijziging [Subsidieregeling post-initiële leergang bewegingsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041608)
 
