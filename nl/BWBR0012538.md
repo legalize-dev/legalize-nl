@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-11-07"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -104,9 +104,9 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 ##### Artikel 8
 
-In afwijking van deel 13 van de bijlage bij verordening (EU) nr. 923/2012 geldt de verplichting tot het inschakelen van de SSR-transponder gedurende de gehele vlucht, indien het luchtvaartuig is voorzien van een bruikbare SSR-transponder, ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven, niet voor gezagvoerders van militaire straalvliegtuigen behorende tot de Nederlandse krijgsmacht, mits:
+In afwijking van deel 13 van de bijlage bij verordening (EU) nr. 923/2012 geldt de verplichting tot het inschakelen van de SSR-transponder gedurende de gehele vlucht, indien het luchtvaartuig is voorzien van een bruikbare SSR-transponder, ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven, niet voor gezagvoerders van militaire luchtvaartuigen behorende tot de Nederlandse en bondgenootschappelijke krijgsmachten, mits:
 
-- 1°. de vlucht wordt uitgevoerd in de gebieden, genoemd in [artikel 2, vierde lid, onderdelen a tot en met k, o en p, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2);
+- 1°. de vlucht wordt uitgevoerd in de militaire oefengebieden, genoemd in [artikel 2 van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2);
 
 - 2°. deze gezagvoerders, na daartoe opdracht te hebben gekregen van de luchtverkeers- of gevechtsleiding voorafgaand aan de uitvoering van vluchten in de onder 1° bedoelde gebieden, de SSR-transponder in mode 3/A in werking hebben gesteld.
 
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2019-11-07&g=2019-11-07) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2020-04-01&g=2020-04-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -283,7 +283,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2019-11-07&g=2019-11-07), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2020-04-01&g=2020-04-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -339,7 +339,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2019-11-07&g=2019-11-07) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2020-04-01&g=2020-04-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
