@@ -4,7 +4,7 @@ identifier: "BWBR0037094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-13"
-last_updated: "2020-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037094"
 soort: "ministeriele-regeling"
@@ -102,15 +102,15 @@ Een instelling verleent een certificaat aan de natuurlijk persoon of de ondernem
 
 1. Onverminderd [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14) schorst een instelling het certificaat van een onderneming of trekt deze in, als:
 
-- a. de instelling heeft vastgesteld dat de onderneming niet of niet langer voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), en de instelling geen gerechtvaardigd vertrouwen heeft dat de onderneming binnen afzienbare tijd daaraan kan of wil voldoen;
+- a. de instelling heeft vastgesteld dat de onderneming niet of niet langer voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01), en de instelling geen gerechtvaardigd vertrouwen heeft dat de onderneming binnen afzienbare tijd daaraan kan of wil voldoen;
 
 - b. de onderneming in staat van faillissement verkeert, of
 
 - c. de onderneming een daartoe strekkend verzoek heeft gedaan.
 
-2. Als het certificaat is geschorst, stelt de instelling de periode vast gedurende welke de onderneming de gelegenheid krijgt om volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) te voldoen. Indien de onderneming naar het oordeel van de instelling binnen de vastgestelde periode daaraan voldoet, heft de instelling de schorsing op.
+2. Als het certificaat is geschorst, stelt de instelling de periode vast gedurende welke de onderneming de gelegenheid krijgt om volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01) te voldoen. Indien de onderneming naar het oordeel van de instelling binnen de vastgestelde periode daaraan voldoet, heft de instelling de schorsing op.
 
-3. Als de onderneming niet binnen de vastgestelde periode volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) voldoet, trekt de instelling het certificaat in.
+3. Als de onderneming niet binnen de vastgestelde periode volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01) voldoet, trekt de instelling het certificaat in.
 
 4. De natuurlijk persoon van wie het certificaat is ingetrokken naar aanleiding van een aanwijzing van de minister op grond van [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14) of de onderneming van wie het certificaat is ingetrokken, levert dit per ommegaande in bij de instelling die het certificaat heeft verleend.
 
@@ -140,7 +140,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 ##### Artikel 8. Onafhankelijkheid en onpartijdigheid
 
-1. Een instelling is onpartijdig en onafhankelijk ten opzichte van de natuurlijk persoon en de onderneming die zij beoordeelt op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01).
+1. Een instelling is onpartijdig en onafhankelijk ten opzichte van de natuurlijk persoon en de onderneming die zij beoordeelt op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01).
 
 2. Een instelling die natuurlijke personen certificeert, is onafhankelijk ten opzichte van de organisatie die de natuurlijk persoon heeft opgeleid als voorbereiding op het examen dat wordt afgelegd ter verkrijging van een certificaat.
 
@@ -152,7 +152,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - b. stelt de resultaten van afgelegde examens uiterlijk binnen drie weken na afname van het examen vast;
 
-- c. meldt aan de minister zo spoedig mogelijk van iedere gecertificeerde persoon de gegevens die zijn benodigd voor de registratie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2020-01-01&g=2020-01-01);
+- c. meldt aan de minister zo spoedig mogelijk van iedere gecertificeerde persoon de gegevens die zijn benodigd voor de registratie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2020-04-01&g=2020-04-01);
 
 - d. neemt afdoende maatregelen om fraude voor, tijdens en na het examen te voorkomen;
 
@@ -160,25 +160,25 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - f. meldt onverwijld aan de minister als zij niet meer voldoet aan de aan haar bij het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088) of deze regeling gestelde eisen;
 
-- g. verstrekt de minister uiterlijk op 1 april van ieder jaar een met inachtneming van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&bijlage=1&z=2020-01-01&g=2020-01-01) bij deze regeling opgesteld jaarverslag waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar verplichtingen ingevolge het besluit en deze regeling.
+- g. verstrekt de minister uiterlijk op 1 april van ieder jaar een met inachtneming van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&bijlage=1&z=2020-04-01&g=2020-04-01) bij deze regeling opgesteld jaarverslag waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar verplichtingen ingevolge het besluit en deze regeling.
 
 2. Een instelling die ondernemingen certificeert:
 
-- a. dit lid is nog niet in werking getreden;
+- a. is op basis van NEN-EN-ISO/IEC 17065 en voor de BRL 100 geaccrediteerd door de Raad voor Accreditatie, bedoeld in de Wet aanwijzing nationale accreditatie-instantie, of een andere bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt;
 
 - b. voldoet aan de eisen die zijn gesteld in de BRL 100 en neemt bij de uitvoering van haar werkzaamheden die BRL in acht;
 
-- c. meldt aan de minister van iedere gecertificeerde onderneming zo spoedig mogelijk de gegevens die zijn benodigd voor de registratie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2020-01-01&g=2020-01-01), en de schorsingen en de intrekkingen van certificaten;
+- c. meldt aan de minister van iedere gecertificeerde onderneming zo spoedig mogelijk de gegevens die zijn benodigd voor de registratie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2020-04-01&g=2020-04-01), en de schorsingen en de intrekkingen van certificaten;
 
 - d. meldt onverwijld aan de minister als zij niet meer voldoet aan de aan haar bij het besluit of deze regeling gestelde eisen;
 
-- e. verstrekt de minister uiterlijk op 1 april van ieder jaar een met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&bijlage=2&z=2020-01-01&g=2020-01-01) bij deze regeling opgesteld jaarverslag waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan het besluit en deze regeling.
+- e. verstrekt de minister uiterlijk op 1 april van ieder jaar een met inachtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&bijlage=2&z=2020-04-01&g=2020-04-01) bij deze regeling opgesteld jaarverslag waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan het besluit en deze regeling.
 
-3. De instelling die voldoet aan het tweede lid, onder a, geldt als tevens te voldoen aan het tweede lid, onder b, [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=8&z=2020-01-01&g=2020-01-01), en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=10&z=2020-01-01&g=2020-01-01).
+3. De instelling die voldoet aan het tweede lid, onder a, geldt als tevens te voldoen aan het tweede lid, onder b, [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=8&z=2020-04-01&g=2020-04-01), en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=10&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 10. Eisen aan het personeel van de instelling
 
-1. Een instelling die natuurlijke personen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) uitvoeren door personeel dat:
+1. Een instelling die natuurlijke personen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01) uitvoeren door personeel dat:
 
 - a. kennis heeft van en ervaring met relevante examenmethoden en examendocumenten;
 
@@ -190,11 +190,11 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - e. voldoet aan de overige eisen die zijn gesteld in de BRL 200.
 
-2. Een instelling die ondernemingen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) uitvoeren door personeel dat:
+2. Een instelling die ondernemingen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01) uitvoeren door personeel dat:
 
 - a. kennis heeft van en ervaring heeft met inspectie van processen;
 
-- b. onpartijdig en onafhankelijk is ten opzichte van de onderneming die wordt beoordeeld op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01);
+- b. onpartijdig en onafhankelijk is ten opzichte van de onderneming die wordt beoordeeld op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2020-04-01&g=2020-04-01);
 
 - c. aantoonbaar bedrijfskundig inzicht heeft in en kennis heeft van administratieve en organisatorische procedures;
 
@@ -230,7 +230,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - a. de natuurlijke personen en ondernemingen die beschikken over certificaten die zijn verleend door een instelling;
 
-- b. de gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
+- b. de gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=3&z=2020-04-01&g=2020-04-01).
 
 2. De minister beheert de registratie als bedoeld in het eerste lid.
 
@@ -244,13 +244,13 @@ Op een bedrijfscertificaat als bedoeld in [artikel 18, derde lid, van het beslui
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-01-01&g=2020-01-01), dat in werking treedt met ingang van 1 april 2020.
+Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-04-01&g=2020-04-01), dat in werking treedt met ingang van 1 april 2020.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
 
-## Bijlage 1. behorende bij [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-01-01&g=2020-01-01)
+## Bijlage 1. behorende bij [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-04-01&g=2020-04-01)
 
 Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 
@@ -270,7 +270,7 @@ Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 
 - 6. Het aantal en de aard van de ontvangen bezwaren evenals de korte inhoud van de ter zake genomen besluiten in het beschreven kalenderjaar.
 
-## Bijlage 2. behorende bij [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-01-01&g=2020-01-01)
+## Bijlage 2. behorende bij [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2020-04-01&g=2020-04-01)
 
 Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 
