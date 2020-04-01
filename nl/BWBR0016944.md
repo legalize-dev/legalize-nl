@@ -4,7 +4,7 @@ identifier: "BWBR0016944"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2013-07-04"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016944"
 soort: "wet"
@@ -94,45 +94,35 @@ Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel XII. Overgangsrecht geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs en verrichten van onderwijsondersteunende werkzaamheden daarvoor
 
-1. Degene die op het tijdstip van inwerkingtreding van bekwaamheidseisen die betrekking hebben op het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs voor het geven van dat onderwijs is benoemd of tewerkgesteld zonder benoeming, alsmede degene die eerder al voor het geven van dat onderwijs benoemd is geweest of tewerkgesteld zonder benoeming, wordt bij inwerkingtreding van die eisen aangemerkt als daaraan te voldoen.
-
-2. Degene die binnen een periode van 5 jaren gerekend vanaf het tijdstip van inwerkingtreding van de in het eerste lid bedoelde bekwaamheidseisen voor de eerste maal wordt benoemd of tewerkgesteld zonder benoeming voor het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs, dient binnen een periode van 5 jaren gerekend vanaf het tijdstip van die eerste benoeming of die eerste tewerkstelling zonder benoeming, te voldoen aan deze bekwaamheidseisen om belast te kunnen blijven worden met de desbetreffende werkzaamheden. Bij algemene maatregel van bestuur kan in afwijking van de eerste volzin de periode van 5 jaren gerekend vanaf het tijdstip van inwerkingtreding van de in het eerste lid bedoelde bekwaamheidseisen worden verlengd met in een die maatregel te bepalen periode indien dat noodzakelijk is voor een goede invoering van die bekwaamheidseisen.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die:
-
-- a. onderwijsondersteunende werkzaamheden ten behoeve van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs verricht, voor zover voor die werkzaamheden bekwaamheidseisen zijn vastgesteld.
-
-- b. is aangewezen, eerder was aangewezen onderscheidenlijk voor de eerste maal wordt aangewezen voor het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs op openbare scholen.
-
-4. Bij ministeriële regeling worden regels vastgesteld ter uitvoering van het eerste tot en met derde lid.
+Vervallen
 
 ##### Artikel XIII. Omzetting geschiktheidsverklaringen
 
-Op de dag voor inwerkingtreding van deze wet nog geldige geschiktheidsverklaringen, afgegeven op grond van de Interimwet zij-instroom leraren primair en voortgezet onderwijs, gelden vanaf die inwerkingtreding als te zijn afgegeven op grond van artikel 176b van de Wet op het primair onderwijs, artikel 162e van de Wet op de expertisecentra, dan wel [artikel 118k van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118k), indien deze verklaringen vanaf dat tijdstip geldig zouden zijn geweest.
+Vervallen
 
 ##### Artikel XIV. Omzetting melding zij-instroom
 
-Een gedane melding onder overlegging van een plan van aanpak als bedoeld in [artikel 7, eerste lid, van de Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469&artikel=7) geldt als te zijn gedaan op grond van artikel 176g, eerste lid, van de Wet op het primair onderwijs, artikel 162j, eerste lid, van de Wet op de expertisecentra, dan wel artikel 118p, eerste lid, van de Wet op het voortgezet onderwijs met ingang van het tijdstip van inwerkingtreding van deze artikelen.
+Vervallen
 
 ##### Artikel XV. Toezending overzicht geschiktheidsverklaringen en bekwaamheidsonderzoeken
 
-Ten aanzien van onder de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken blijft [artikel 11, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011469&artikel=11) van toepassing.
+Vervallen
 
 ##### Artikel XVI. Omzetting bevoegdheid geschiktheidsonderzoek zij-instroom
 
-Instellingen voor hoger onderwijs die bij inwerkingtreding van dit artikel bevoegd zijn tot het verrichten van het geschiktheidsonderzoek als bedoeld in de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) worden aangemerkt als instellingen met een erkenning als bedoeld in [artikel 176e van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176e), [162h van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162h) of [118n van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118n).
+Vervallen
 
 ##### Artikel XVII. Titulatuur zij-instromers Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
-Tot het voeren van een in [artikel 7a.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7a.5) genoemde titel is eveneens gerechtigd degene aan wie op grond van de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) vanaf 1 september 2002 het getuigschrift van met goed gevolg afgesloten bekwaamheidsonderzoek is uitgereikt.
+Vervallen
 
 ##### Artikel XVIII. Intrekking Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
-De [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) wordt ingetrokken.
+Vervallen
 
 ##### Artikel XIX. Evaluatie
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Economische Zaken, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) zoals gewijzigd door deze wet, in de praktijk.
+Vervallen
 
 ##### Artikel XX. Inwerkingtreding
 
