@@ -4,7 +4,7 @@ identifier: "BWBR0003298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-16"
-last_updated: "2018-07-17"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003298"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De volgende organisaties worden aangewezen tot het benoemen van het achter hun naam vermelde aantal leden van de Sociaal-economische Raad:
+De volgende organisaties worden aangewezen tot het benoemen van het achter hun naam vermelde aantal leden van de Sociaal-Economische Raad:
 
 - a. organisaties van ondernemers:
 
@@ -55,10 +55,10 @@ De volgende organisaties worden aangewezen tot het benoemen van het achter hun n
 
 - b. organisaties van werknemers:
 
-| Federatie Nederlandse Vakbeweging: | 7 leden |
+| Federatie Nederlandse Vakbeweging: | 8 leden |
 | --- | --- |
 | Christelijk Nationaal Vakverbond: | 2 leden |
-| Vakcentrale voor Professionals: | 2 leden |
+| Vakcentrale voor Professionals: | 1 lid |
 
 ##### Artikel 2
 
