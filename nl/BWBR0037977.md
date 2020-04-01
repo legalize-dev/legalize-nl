@@ -4,7 +4,7 @@ identifier: "BWBR0037977"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2017-07-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037977"
 soort: "wet"
@@ -114,7 +114,7 @@ Wijzigt de Wijzigingswet diverse onderwijswetten (aanbrengen inhoudelijke wijzig
 
 ##### Artikel XIVb
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Economische Zaken, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel XV
 
