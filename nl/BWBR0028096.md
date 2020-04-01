@@ -4,7 +4,7 @@ identifier: "BWBR0028096"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "2010-10-10"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028096"
 soort: "rijkswet"
@@ -129,7 +129,7 @@ De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koni
 
 9. Een van de dubbelen wordt onverwijld gezonden aan de Koning.
 
-10. Wanneer de Gouverneur door een plotselinge ziektetoestand anders dan bedoeld in het eerste lid niet in staat is om zijn ambt uit te oefenen en om de uitoefening hiervan overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=13&z=2010-10-10&g=2010-10-10), tijdelijk aan de aldaar bedoelde persoon over te dragen, worden de in dit artikel opgenomen bepalingen eveneens toegepast, met dien verstande echter, dat de Gouverneur, nadat hij voldoende hersteld is, de uitoefening van zijn ambt hervat.
+10. Wanneer de Gouverneur door een plotselinge ziektetoestand anders dan bedoeld in het eerste lid niet in staat is om zijn ambt uit te oefenen en om de uitoefening hiervan overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=13&z=2020-04-01&g=2020-04-01), tijdelijk aan de aldaar bedoelde persoon over te dragen, worden de in dit artikel opgenomen bepalingen eveneens toegepast, met dien verstande echter, dat de Gouverneur, nadat hij voldoende hersteld is, de uitoefening van zijn ambt hervat.
 
 ##### Artikel 9
 
@@ -149,15 +149,15 @@ De Gouverneur staat wegens ambtsmisdrijven in zijn betrekking gepleegd, ook na z
 
 ##### Artikel 12
 
-Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=10&z=2010-10-10&g=2010-10-10), hetzij ter zake van andere strafbare feiten, een vervolging in Nederland wordt ingesteld, draagt hij de uitoefening van zijn ambt over aan degene, die bij koninklijk besluit is aangewezen om tijdelijk het ambt van Gouverneur uit te oefenen.
+Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=10&z=2020-04-01&g=2020-04-01), hetzij ter zake van andere strafbare feiten, een vervolging in Nederland wordt ingesteld, draagt hij de uitoefening van zijn ambt over aan degene, die bij koninklijk besluit is aangewezen om tijdelijk het ambt van Gouverneur uit te oefenen.
 
 ##### Artikel 13
 
-1. Wanneer de Gouverneur overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=8&z=2010-10-10&g=2010-10-10) tijdelijk van de uitoefening van zijn ambt is ontheven, of wanneer hij niet in staat is om het uit te oefenen, treedt als waarnemende Gouverneur op de persoon, bij koninklijk besluit daartoe aangewezen.
+1. Wanneer de Gouverneur overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=8&z=2020-04-01&g=2020-04-01) tijdelijk van de uitoefening van zijn ambt is ontheven, of wanneer hij niet in staat is om het uit te oefenen, treedt als waarnemende Gouverneur op de persoon, bij koninklijk besluit daartoe aangewezen.
 
 2. Hetzelfde geschiedt wanneer de Gouverneur overlijdt of de uitoefening van zijn ambt tussentijds beëindigt en zijn opvolger nog niet is benoemd of nog niet kan optreden.
 
-3. Wanneer ziekte van de Gouverneur anders dan bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=8&z=2010-10-10&g=2010-10-10), een voorziening noodzakelijk maakt, onderscheidenlijk wanneer hij verlof verkrijgt, draagt de Gouverneur de uitoefening van zijn ambt tijdelijk over aan de persoon, bedoeld in het eerste lid.
+3. Wanneer ziekte van de Gouverneur anders dan bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=8&z=2020-04-01&g=2020-04-01), een voorziening noodzakelijk maakt, onderscheidenlijk wanneer hij verlof verkrijgt, draagt de Gouverneur de uitoefening van zijn ambt tijdelijk over aan de persoon, bedoeld in het eerste lid.
 
 4. Telkenmale wanneer de waarnemende Gouverneur als zodanig optreedt in de gevallen, bedoeld in het eerste en tweede lid, doet hij hiervan mededeling aan de Staten en brengt hij dit bij proclamatie ter kennis van de ingezetenen.
 
@@ -167,9 +167,9 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 ##### Artikel 14
 
-1. Al wat in dit reglement en in de Staatsregeling van Sint Maarten is bepaald omtrent de Gouverneur is van overeenkomstige toepassing op de waarnemende Gouverneur, met uitzondering van de voorschriften in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=3&z=2010-10-10&g=2010-10-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=7&z=2010-10-10&g=2010-10-10) van dit reglement, en met dien verstande, dat de verbodsbepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=6&z=2010-10-10&g=2010-10-10) van dit reglement niet gelden voor het deel dat de waarnemende Gouverneur in de daarbij bedoelde concessies en ondernemingen had, alsmede voor door hem vervulde betrekkingen als genoemd in het vierde lid bij de aldaar bedoelde ondernemingen, voor zover verworven onderscheidenlijk aanvaard buiten de tijd dat hij als waarnemende Gouverneur optreedt, en dat het vijfde en zesde lid van dat artikel niet op hem van toepassing zijn.
+1. Al wat in dit reglement en in de Staatsregeling van Sint Maarten is bepaald omtrent de Gouverneur is van overeenkomstige toepassing op de waarnemende Gouverneur, met uitzondering van de voorschriften in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=3&z=2020-04-01&g=2020-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=7&z=2020-04-01&g=2020-04-01) van dit reglement, en met dien verstande, dat de verbodsbepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=6&z=2020-04-01&g=2020-04-01) van dit reglement niet gelden voor het deel dat de waarnemende Gouverneur in de daarbij bedoelde concessies en ondernemingen had, alsmede voor door hem vervulde betrekkingen als genoemd in het vierde lid bij de aldaar bedoelde ondernemingen, voor zover verworven onderscheidenlijk aanvaard buiten de tijd dat hij als waarnemende Gouverneur optreedt, en dat het vijfde en zesde lid van dat artikel niet op hem van toepassing zijn.
 
-2. De waarnemende Gouverneur legt in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=13&z=2010-10-10&g=2010-10-10), en van het proces-verbaal van zijn eedaflegging.
+2. De waarnemende Gouverneur legt in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=13&z=2020-04-01&g=2020-04-01), en van het proces-verbaal van zijn eedaflegging.
 
 ### afdeling Tweede. **De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk**
 
@@ -191,7 +191,7 @@ De Gouverneur zorgt voor de afkondiging van de hem daartoe vanwege de Koning toe
 
 ##### Artikel 17
 
-1. De Gouverneur kan om gewichtige redenen de hem bevolen afkondiging of uitvoering van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Tweede&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde rijkswetten en algemene maatregelen van rijksbestuur opschorten en geeft hiervan terstond kennis aan de regering van het Koninkrijk.
+1. De Gouverneur kan om gewichtige redenen de hem bevolen afkondiging of uitvoering van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Tweede&artikel=16&z=2020-04-01&g=2020-04-01) bedoelde rijkswetten en algemene maatregelen van rijksbestuur opschorten en geeft hiervan terstond kennis aan de regering van het Koninkrijk.
 
 2. Wanneer de afkondiging of uitvoering van een rijkswet door de Gouverneur is opgeschort, wordt hiervan door de Koning ten spoedigste mededeling gedaan aan de vertegenwoordigende lichamen van de landen.
 
@@ -259,7 +259,7 @@ De landsverordening kan aan de Gouverneur als orgaan van het Koninkrijk met koni
 
 ##### Artikel 25
 
-1. De Gouverneur is naar de bepalingen, vervat in de [wet van 22 april 1855 (Stb. 33), houdende regeling der verantwoordelijkheid van de hoofden der ministeriële departementen](https://wetten.overheid.nl/jci1.3:c:BWBR0001844), tot straf vervolgbaar:
+1. De Gouverneur is naar de bepalingen, vervat in de [Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0001844), tot straf vervolgbaar:
 
 - a. wanneer hij opzettelijk uitvoering geeft of doet geven aan koninklijke besluiten, niet voorzien van de vereiste mede-ondertekening van een der ministers van het Koninkrijk;
 
