@@ -4,7 +4,7 @@ identifier: "BWBR0039667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2018-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039667"
 soort: "ministeriele-regeling"
@@ -56,7 +56,11 @@ Indien de normale arbeidsduur, bedoeld in [artikel 12, derde lid, van de wet](ht
 
 ##### Artikel 3
 
-Als werkzaamheden als bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12a) worden aangewezen het bezorgen van dagbladen en gerelateerde uitgeefproducten bij abonnees of losse verkooppunten, met uitzondering van nabezorging.
+Als werkzaamheden als bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12a) worden aangewezen:
+
+- a. het bezorgen van dagbladen en gerelateerde uitgeefproducten bij abonnees of losse verkooppunten, met uitzondering van nabezorging;
+
+- b. het bezorgen van ongeadresseerd (reclame)drukwerk of huis-aan-huisbladen.
 
 ##### Artikel 4
 
