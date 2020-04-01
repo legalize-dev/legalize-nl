@@ -79,19 +79,3 @@ Deze regeling wordt aangehaald als: Regeling compensatie transitievergoeding.
 Deze regeling treedt in werking met ingang van 1 april 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Aanvraag van compensatie na langdurige arbeidsongeschiktheid
-
-#### Paragraaf 3. Aanvraag van compensatie vanwege de beëindiging van de werkzaamheden van de onderneming
-
-##### Artikel 6. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling compensatie transitievergoeding.
-
-##### Artikel 7. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 april 2020.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
