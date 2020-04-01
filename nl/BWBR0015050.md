@@ -4,7 +4,7 @@ identifier: "BWBR0015050"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "2010-10-10"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015050"
 soort: "rijkswet"
@@ -61,7 +61,7 @@ In deze rijkswet wordt verstaan onder:
 
 1. De Hoge Raad der Nederlanden neemt in uitleveringszaken kennis van het beroep in cassatie tegen de einduitspraken van het Gemeenschappelijk Hof ingesteld door de procureur-generaal van een van de landen of door de opgeëiste persoon.
 
-2. [Artikel 31, vijfde en zesde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=31) alsmede de [artikelen 431](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=431), [432](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=432), [434, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=434), [438](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=438), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=439), [440, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=440), [442](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=442), [443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444), [450, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450), [451](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451), [451a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=452), [453](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), [454, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=454), [455, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=455) en [artikel 557 van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=557) zijn van overeenkomstige toepassing.
+2. [Artikel 31, vijfde en zesde lid, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=31) alsmede de [artikelen 431](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=431), [432](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=432), [434, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=434), [438](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=438), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=439), [440, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=440), [442](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=442), [443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444), [450, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450), [451](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451), [451a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a), [452](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=452), [453](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), [454, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=454), [455, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=455) en [artikel 6:1:16 van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:16) zijn van overeenkomstige toepassing.
 
 3. Als raadsman van de opgeëiste persoon kunnen bij de Hoge Raad ook optreden advocaten, ingeschreven bij het Gemeenschappelijk Hof.
 
@@ -101,7 +101,7 @@ In deze rijkswet wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De procureur-generaal bij de Hoge Raad kan cassatie «in het belang der wet» instellen tegen de einduitspraken of enige andere beslissing of handeling van het Gemeenschappelijk Hof in de zaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=2&z=2010-10-10&g=2010-10-10). Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456). De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en [456, derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) zijn van overeenkomstige toepassing.
+1. De procureur-generaal bij de Hoge Raad kan cassatie «in het belang der wet» instellen tegen de einduitspraken of enige andere beslissing of handeling van het Gemeenschappelijk Hof in de zaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=2&z=2020-04-01&g=2020-04-01). Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456). De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en [456, derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) zijn van overeenkomstige toepassing.
 
 2. In het geval bedoeld in [artikel 456, vierde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456), zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde afschrift aan de procureur-generaal die de vordering tot het in behandeling nemen van het oorspronkelijke uitleveringsverzoek bij het Gemeenschappelijk Hof gedaan heeft.
 
@@ -121,7 +121,7 @@ Wijzigt deze wet.
 
 1. De Hoge Raad neemt geen kennis van beroepen in cassatie in uitleveringszaken ingesteld tegen einduitspraken gewezen voordat deze rijkswet binnen de landen van het Koninkrijk in werking is getreden.
 
-2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=6&z=2010-10-10&g=2010-10-10) is niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze rijkswet door de verdachte reeds beroep in cassatie is ingesteld. Op deze zaken worden de bepalingen toegepast zoals die luidden voor het moment van inwerkingtreding.
+2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=6&z=2020-04-01&g=2020-04-01) is niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze rijkswet door de verdachte reeds beroep in cassatie is ingesteld. Op deze zaken worden de bepalingen toegepast zoals die luidden voor het moment van inwerkingtreding.
 
 #### Inwerkingtreding
 
