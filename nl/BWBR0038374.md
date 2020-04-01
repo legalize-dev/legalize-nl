@@ -4,7 +4,7 @@ identifier: "BWBR0038374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2017-10-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038374"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2017-10-01&g=2017-10-01).
+De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2017-10-01&g=2017-10-01).
+Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2017-10-01&g=2017-10-01).
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-04-01&g=2020-04-01).
 
 ##### Artikel 4. Intrekking
 
@@ -78,11 +78,11 @@ De inspecteur-generaal van het onderwijs heeft in overeenstemming met [artikel 3
 
 ### Absolute norm
 
-Voor de berekening van deze indicatoren zijn landelijke absolute normen opgesteld op basis van de gegevens over studievoortgang en de examenresultaten van leerlingen in de jaren 2013, 2014 en 2015. Op basis van de landelijke normen en de berekende correcties worden (afhankelijk van de indicator) per vestiging of per afdeling (schoolsoort of leerweg) de specifieke normen bepaald. Aan de indicatoren wordt op basis van de leerresultaten een kwalificatie gegeven, per afdeling. De mogelijke kwalificaties zijn ‘onder de norm’ en ‘boven de norm’. Is de score gelijk aan een gestelde norm, dan geldt de kwalificatie ‘boven de norm’
+Voor de berekening van deze indicatoren zijn landelijke absolute normen opgesteld op basis van de gegevens over studievoortgang en de examenresultaten van leerlingen in de jaren 2013, 2014 en 2015, behalve voor de havo, waarvoor de norm is opgesteld op basis van die gegevens voor de leerjaren 2016, 2017 en 2018. Op basis van de landelijke normen en de berekende correcties worden (afhankelijk van de indicator) per vestiging of per afdeling (schoolsoort of leerweg) de specifieke normen bepaald. Aan de indicatoren wordt op basis van de leerresultaten een kwalificatie gegeven, per afdeling. De mogelijke kwalificaties zijn ‘onder de norm’ en ‘boven de norm’. Is de score gelijk aan een gestelde norm, dan geldt de kwalificatie ‘boven de norm’
 
 ### Correctie
 
-Bij drie indicatoren – Onderbouwsnelheid, Bovenbouwsucces en Examencijfers – wordt in de beoordeling rekening gehouden met de kenmerken van de leerlingenpopulatie van de school, zoals bedoeld in [artikel 37 Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37), de zogenoemde correctiefactor. De landelijke norm van een indicator voor de school kan verlaagd worden omdat er rekening wordt gehouden met de kenmerken van de leerlingpopulatie. De hoogte van de correctie is naar rato van het aantal leerlingen met een specifiek kenmerk. Elke indicator heeft specifieke kenmerken waarvoor de landelijke norm gecorrigeerd wordt. De waarde van de correctiefactor verschilt per indicator. Er wordt afhankelijk van de onderwijssoort en de indicator rekening gehouden met de volgende kenmerken:
+Bij drie indicatoren – Onderbouwsnelheid, Bovenbouwsucces en Examencijfers – wordt in de beoordeling rekening gehouden met de kenmerken van de leerlingenpopulatie van de school, zoals bedoeld in [artikel 37 Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37), de zogenoemde correctiefactor. De landelijke norm van een indicator voor de school kan verlaagd worden omdat er rekening wordt gehouden met de kenmerken van de leerlingpopulatie. De hoogte van de correctie is naar rato van het aantal leerlingen met een specifiek kenmerk. Elke indicator heeft specifieke kenmerken waarvoor de landelijke norm gecorrigeerd wordt. De waarde van de correctiefactor verschilt per indicator. Er wordt afhankelijk van de, schoolsoort, de leerweg en de indicator rekening gehouden met de volgende kenmerken:
 
 De berekening van de norm van een indicator per leerweg of schoolsoort is als volgt:
 
@@ -90,7 +90,7 @@ Landelijke norm – Correctie kenmerk 1 – Correctie kenmerk 2 – Correctie ke
 
 Waarin de correctie als volgt berekend wordt:
 
-De landelijke normen en de correctiefactoren worden per 2016 voor drie jaar vastgesteld. De vastgestelde landelijke normen en correctiefactoren gelden voor de beoordeling van de leerresultaten in 2016, 2017 en 2018.
+De landelijke normen en de correctiefactoren worden vanaf de beoordeling van de leerresultaten 2016 na een periode van ten minste 3 kalenderjaren opnieuw beoordeeld en zo nodig opnieuw vastgesteld. De absolute normen en correctiefactoren gelden in ieder geval voor de beoordeling van de leerresultaten in 2020, 2021 en 2022.
 
 ### Gebruikte gegevens
 
@@ -106,7 +106,7 @@ Alle opstroom en afstroom wordt gewaardeerd met een score +1 of –1, onafhankel
 
 Bij een zogenaamd dubbeladvies, geldt de onderste positie als gelijk niveau en de bovenste positie als een hoger niveau. Voorbeeld: bij het advies havo/vwo, krijgt een leerling een score 0 (nul) als deze leerling in leerjaar 3 op het havo zit, en een score +1 als deze leerling in leerjaar 3 op het vwo zit. De dubbeladviezen vmbo(g)t/havo en vmbo b/vmbo k en vmbo k/vmbo (g)t werken analoog. Uitzondering hierop is de volgende situatie: leerlingen die in leerjaar 3 onderwijs volgen in een gecombineerde havo/vwo-klas. Alle leerlingen in die situatie met advies havo tellen positief mee en krijgen een score 0,5. Alle leerlingen in die situatie met een advies havo/vwo of vwo worden gezien als op hetzelfde niveau als het schooladvies van het primair onderwijs en krijgen score 0 (nul). Leerlingen die een lager schooladvies van het primair onderwijs hebben gekregen dan havo krijgen in deze situatie een score van +1.
 
-De scores van alle leerlingen van een vestiging worden per leerjaar bij elkaar opgeteld en gedeeld door het aantal leerlingen van deze vestiging waarvoor scores zijn toegekend. Deze deelsom wordt omgezet in een percentage, de jaarscore. De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het aantal leerlingen. De beoordeling geldt voor alle schoolsoorten en leerwegen van een vestiging.
+De scores van alle leerlingen van een vestiging worden per schooljaar bij elkaar opgeteld en gedeeld door het aantal leerlingen van deze vestiging waarvoor scores zijn toegekend. Deze deelsom wordt omgezet in een percentage, de jaarscore. De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het aantal leerlingen. De beoordeling geldt voor alle schoolsoorten en leerwegen van een vestiging.
 
 ### Normering van de indicator
 
@@ -118,7 +118,7 @@ In onderstaande tabel staan de specifieke waarden van de landelijke normen per v
 
 ### Berekeningen van de indicator
 
-Deze indicator geeft per vestiging de doorstroom weer van leerlingen vanuit leerjaar 1 en leerjaar 2 naar een hoger leerjaar. Hiervoor wordt de onderwijspositie van de leerling in het betreffende schooljaar vergeleken met het daarop volgende schooljaar. De berekening van de jaarscore ziet er als volgt uit:
+Deze indicator geeft per vestiging de doorstroom weer van leerlingen vanuit leerjaar 1 en leerjaar 2 naar een hoger leerjaar. Hiervoor wordt het leerjaar van de leerling in het betreffende schooljaar vergeleken met het daarop volgende schooljaar. De berekening van de jaarscore ziet er als volgt uit:
 
 De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het aantal leerlingen. De beoordeling geldt voor alle schoolsoorten en leerwegen van een vestiging.
 
@@ -142,7 +142,7 @@ Deze berekening wordt gedaan per jaar en per schoolsoort dan wel leerweg. De beo
 
 ### Normering en correctie van de indicator
 
-De landelijke norm van de indicator bovenbouwsucces wordt onderscheiden naar schoolsoort en leerweg. Voor elke schoolsoort en leerweg is één landelijke norm vastgesteld. De norm wordt gecorrigeerd voor het percentage lwoo-leerlingen, apcg-leerlingen en instroom-leerlingen.
+De landelijke norm van de indicator bovenbouwsucces wordt onderscheiden naar schoolsoort en leerweg. Voor elke schoolsoort en leerweg is één landelijke norm vastgesteld. De norm wordt gecorrigeerd voor het percentage apcg-leerlingen, instroom-leerlingen en opstroom-leerlingen.
 
 In onderstaande tabel staan de landelijke normen in procenten.
 
@@ -154,11 +154,11 @@ De waarde voor de correctiefactoren per schoolsoort en leerweg staat in procente
 
 De indicator examencijfers is het gemiddeld behaalde cijfer voor het centraal eindexamen per schoolsoort en leerweg. Het betreft alle vakken, inclusief de beroepsgerichte vakken van alle leerlingen die geslaagd of gezakt zijn voor de betreffende schoolsoort en leerweg. Het gaat daarbij om de vakken waarin de leerlingen in dat jaar eindexamen hebben gedaan.
 
-Resultaten behaald in een eerder jaar blijven buiten beschouwing. Dit geldt voor de vakken waarin een leerling eerder examen heeft gedaan in verband met gespreid examen en voor de vakken waarin een leerling in het voorlaatste leerjaar examen heeft gedaan. Ook vakken die geen rol hebben gespeeld bij de uitslagbepaling blijven buiten de berekening. Per jaar worden de cijfers van het centraal examen van de relevante vakken gemiddeld naar schoolsoort dan wel leerweg. De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het totaal aantal leerlingen voor alle vakken.
+Resultaten behaald in een eerder jaar blijven buiten beschouwing. Dit geldt voor de vakken waarin een leerling eerder examen heeft gedaan in verband met gespreid examen. Ook vakken die geen rol hebben gespeeld bij de uitslagbepaling blijven buiten de berekening. Per jaar worden de cijfers van het centraal examen van de relevante vakken gemiddeld naar schoolsoort dan wel leerweg. De beoordeling geschiedt op basis van een gewogen driejaargemiddelde, waarbij gewogen wordt naar het totaal aantal leerlingen voor alle vakken.
 
 ### Correctie en Normering en correctie van de indicator
 
-De landelijke norm van de indicator wordt onderscheiden naar schoolsoort en leerweg. Voor elke schoolsoort/leerweg is één landelijke norm vastgesteld. De norm wordt gecorrigeerd voor het percentage LWOO-leerlingen en Instroom-leerlingen.
+De landelijke norm van de indicator wordt onderscheiden naar schoolsoort en leerweg. Voor elke schoolsoort/leerweg is één landelijke norm vastgesteld. De norm wordt gecorrigeerd voor het percentage apcg-leerlingen en opstroom-leerlingen.
 
 In onderstaande tabel staan de normen in examenpunten naar schoolsoort en leerweg.
 
@@ -195,5 +195,9 @@ In alle andere gevallen (één of twee met de kwalificatie ‘boven de norm’) 
 Als op basis van de indicatoren ‘geen berekening te maken’ is, vindt aanvullend onderzoek plaats. In deze bijzondere situaties zijn er onvoldoende gegevens om de leerresultaten volgens de verschillende indicatoren te beoordelen. Aanvullend onderzoek zal in ieder geval bestaan uit:
 
 Voor een voldoende beoordeling van de leerresultaten moet de school aantonen dat de leerresultaten van deze groep leerlingen voldoende zijn. Dat kan door te verwijzen naar referentiegegevens voor vergelijkbare leerlinggroepen, het gebruik van genormeerde toetsen of door expertoordelen. Als de school dit niet kan aantonen, leidt dit tot het oordeel ‘onvoldoende’ over de leerresultaten. In de voorkomende gevallen dat de school over onvoldoende gegevens beschikt om een uitspraak te kunnen doen over het niveau van de leerresultaten, wordt geen oordeel gegeven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De procedure voor het aanvullend onderzoek is van overeenkomstige toepassing indien de inspecteur een school vraagt om aan te tonen dat, ondanks het feit dat niet kan worden voldaan aan de leerresultatennorm, met de leerlingen van de betreffende schoolsoort of leerweg het maximale leerresultaat wordt behaald. De inspecteur beoordeelt vervolgens of de school dit voldoende heeft aangetoond.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
