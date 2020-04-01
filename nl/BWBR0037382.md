@@ -4,7 +4,7 @@ identifier: "BWBR0037382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-22"
-last_updated: "2020-01-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037382"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter wordt door de Staatssecretaris benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de Staatssecretaris worden geschorst en ontslagen.
 
-3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2020-04-01&g=2020-01-01), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2020-04-01&g=2020-04-01), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
 
 4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de Staatssecretaris. Na instemming van de Staatssecretaris wijst de betrokken organisatie het andere lid aan.
 
@@ -100,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Te rekenen vanaf 1 oktober 2018 wordt de heer drs. B.J. Klerk, woonachtig te Den Haag, benoemd tot lid, tevens voorzitter, van het Formule E-Team, voor een periode tot 1 juli 2019 of zoveel eerder als overeengekomen tussen partijen.
+Te rekenen vanaf 1 januari 2020 wordt mevrouw N. Kabalt woonachtig te Alkmaar, benoemd tot lid, tevens voorzitter, van het Formule E-Team, voor een periode tot 1 januari 2023 of zoveel eerder als overeengekomen tussen partijen.
 
 ##### Artikel 6
 
