@@ -4,7 +4,7 @@ identifier: "BWBR0009035"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2019-10-01"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009035"
 soort: "AMvB"
@@ -80,19 +80,11 @@ Werkt terug tot en met 1 november 1997
 
 ##### Artikel 3
 
-1. Indien Onze Minister van zijn bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), gebruik maakt, wijst hij een luchthavencoördinator dan wel een bemiddelaar inzake de dienstregelingen aan voor een of meer luchthavens.
-
-2. De krachtens het eerste lid aangewezen luchthavencoördinator dan wel bemiddelaar oefent zijn taak uit overeenkomstig artikel 4 van de verordening.
-
-3. De exploitant stelt overeenkomstig [artikel 6, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=6&z=2019-10-01&g=2019-10-01), van de verordening coördinatieparameters vast welke ten grondslag liggen aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de exploitant adequate marges zijn opgenomen.
-
-4. Aan een aanwijzing als bedoeld in het eerste lid kunnen voorschriften of beperkingen worden verbonden.
-
-5. Het derde lid is niet van toepassing op de luchthaven Schiphol.
+Vervallen
 
 ##### Artikel 4
 
-1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), aangewezen luchthavens.
+1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01), aangewezen luchthavens.
 
 2. Indien sprake is van een situatie als bedoeld in artikel 10, negende lid, van de verordening, belegt Onze Minister een vergadering van het desbetreffende coördinatiecomité.
 
@@ -100,7 +92,7 @@ Werkt terug tot en met 1 november 1997
 
 ##### Artikel 5
 
-De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van artikel 2, voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
+De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van artikel 2, voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
 
 - a. op verzoek van Onze Minister, of
 
@@ -110,7 +102,7 @@ In een geval als bedoeld onder b wordt de capaciteitsanalyse uitgevoerd binnen 6
 
 ##### Artikel 6
 
-Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2019-10-01&g=2019-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2019-10-01&g=2019-10-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2019-10-01&g=2019-10-01) schorsen of intrekken:
+Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2020-04-01&g=2020-04-01) schorsen of intrekken:
 
 - a. indien de aangewezen natuurlijke persoon of rechtspersoon daarom verzoekt;
 
