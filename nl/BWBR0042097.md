@@ -4,7 +4,7 @@ identifier: "BWBR0042097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-23"
-last_updated: "2019-04-06"
+last_updated: "2020-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042097"
 soort: "ministeriele-regeling"
@@ -56,19 +56,21 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma SDG Results: Access to renewable energy gelden voor aanvragen bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2019-04-06&g=2019-04-06), en voor aanvragen bedoeld in artikel 2, tweede lid, voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2024 subsidieplafonds van € 11.250.000.
+1. Voor subsidieverlening in het kader van het Subsidieprogramma SDG Results: Access to renewable energy geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2024 voor aanvragen bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), een subsidieplafond van € 14.181.889, en voor aanvragen bedoeld in artikel 2, tweede lid, een subsidieplafond van € 8.318.111.
 
-2. De middelen die beschikbaar zijn op grond van elk van de in het eerste lid genoemde subsidieplafonds zijn als volgt verdeeld over de volgende thema’s:
+2. De middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), zijn als volgt verdeeld over de volgende thema’s:
 
-- a. Toegang tot schoon koken met hernieuwbare energie: € 5.625.000.
+- a. Toegang tot schoon koken met hernieuwbare energie: € 10.305.259;
 
-- b. Toegang tot decentrale hernieuwbare elektriciteit: € 5.625.000.
+- b. Toegang tot decentrale hernieuwbare elektriciteit: € 3.876.630.
 
-3. Indien na toepassing van het tweede lid een deel van één van de subsidieplafonds, genoemd in het tweede lid, onder a en b, resteert, wordt dit toegevoegd aan het subsidieplafond voor het andere thema.
+Daarbij geldt dat indien middelen resteren van de middelen die beschikbaar zijn voor aanvragen gericht op één van beide thema’s, deze middelen beschikbaar komen voor aanvragen met betrekking tot het andere thema, voor zover deze aanvragen voldoen aan de maatstaven die in dit besluit zijn neergelegd.
+
+3. De verdeling van de middelen die op grond van het in het eerste lid genoemde subsidieplafond beschikbaar zijn voor aanvragen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=2&z=2020-04-04&g=2020-04-04), volgt bij de nader bekend te maken openstellingsperiode, bedoeld in artikel 2, tweede lid.
 
 ##### Artikel 4
 
-De verdeling van de subsidieplafonds bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=3&z=2019-04-06&g=2019-04-06), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8). Indien één van deze plafonds dreigt te worden overschreden door twee of meer aanvragen die in dezelfde mate voldoen aan de maatstaven, bepaalt de minister door middel van loting de definitieve plaats in de rangschikking.
+De verdeling van de subsidieplafonds bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042097&artikel=3&z=2020-04-04&g=2020-04-04), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8). Indien één van deze plafonds dreigt te worden overschreden door twee of meer aanvragen die in dezelfde mate voldoen aan de maatstaven, bepaalt de minister door middel van loting de definitieve plaats in de rangschikking.
 
 ##### Artikel 5
 
@@ -220,7 +222,7 @@ Aanvragen moeten in voldoende mate aan de inhoudelijke criteria voldoen om in aa
 
 ### 7.3. Verdeling beschikbare middelen
 
-Er zijn twee openstellingen voor subsidieaanvragen in het kader van dit Subsidieprogramma. Voor beide rondes is steeds € 11.250.000 beschikbaar. Dit bedrag is in beide rondes verdeeld over twee thema’s. Voor subsidieverstrekking voor activiteiten gericht op toegang tot schoon koken met hernieuwbare energie is in beide rondes € 5.625.000 beschikbaar, voor subsidieverstrekking voor activiteiten gericht op toegang tot decentrale hernieuwbare elektriciteit eveneens in beide rondes € 5.625.000.
+Er zijn twee openstellingen voor subsidieaanvragen in het kader van dit Subsidieprogramma. Voor de eerste ronde is € 14.181.889 beschikbaar, waarvan € 10.305.259 beschikbaar is voor het thema toegang tot schoon koken met hernieuwbare energie en € 3.876.630 voor het thema toegang tot decentrale hernieuwbare elektriciteit. Voor de tweede ronde is € 8.318.111 beschikbaar. De verdeling van het budget over de beide thema’s wordt bij de bekendmaking van de openstellingsperiode voor de tweede ronde vastgesteld en bekend gemaakt.
 
 De beoordeling van de aanvragen en de toekenning en verdeling van de beschikbare middelen vindt plaats via een tender: van alle aanvragen die voldoen aan de maatstaven van deze beleidsregels, wordt de kwaliteit beoordeeld volgens de criteria opgenomen in paragraaf 7.2. Om in aanmerking te kunnen komen voor een subsidie, dient de kwaliteit van de aanvraag ten minste voldoende te zijn. De aanvragen worden vervolgens gerangschikt op basis van de uitkomsten van deze beoordeling. De aanvragen die het beste voldoen aan de criteria komen als eerste voor subsidie in aanmerking. De verdeling van de beschikbare middelen vindt derhalve plaats op grond van de kwaliteit van de ingediende aanvragen, waarbij de minister rekening houdt met een evenwichtige spreiding van de middelen over de landen op de landenlijst behorende bij dit subsidieprogramma (annex 1). Van de middelen die in totaal voor één van beide openstellingen beschikbaar zijn, wordt niet meer dan 40% ingezet voor subsidieverstrekking voor activiteiten in eenzelfde land van de landen op de landenlijst en wordt ten minste 25% ingezet voor subsidieverstrekking voor activiteiten in de focusregio’s.
 
