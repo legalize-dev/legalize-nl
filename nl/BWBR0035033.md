@@ -4,7 +4,7 @@ identifier: "BWBR0035033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-16"
-last_updated: "2020-02-29"
+last_updated: "2020-04-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035033"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 - •. **centrumgemeente:** Alkmaar, Almere, Amersfoort, Amsterdam, Apeldoorn, Arnhem, Breda, Den Bosch, Den Haag, Doetinchem, Dordrecht, Ede, Eindhoven, Emmen, Enschede, Goes, Gorinchem, Gouda, Groningen, Haarlem, Heerlen, Helmond, Hilversum, Leeuwarden, Leiden, Nijmegen, Roermond, Rotterdam, Tiel, Tilburg, Utrecht, Venlo, Zaanstad, Zoetermeer en Zwolle;
 
-- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29);
+- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04);
 
-- •. **directe loonkosten projectcoördinatie en -administratie:** loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van [bijlage 1, hoofdstukken I, II, en III](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29);
+- •. **directe loonkosten projectcoördinatie en -administratie:** loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van [bijlage 1, hoofdstukken I, II, en III](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04);
 
 - •. **duurzame inzetbaarheid:** het gemotiveerd, gezond en productief houden van werkenden om hen in staat te stellen tot aan het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), binnen of buiten de arbeidsorganisatie betaald werk te verrichten;
 
-- •. **externe kosten:** kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29);
+- •. **externe kosten:** kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04);
 
 - •. **externe kosten projectcoördinatie en -administratie:** kosten die in rekening gebracht worden door derden en direct te relateren zijn aan het beheer van het project;
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **niet-uitkeringsontvanger:** de persoon jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), die geen uitkering ontvangt of arbeidsondersteuning op grond van enige sociale zekerheidswet;
 
-- •. **O&O-fonds:** een organisatie als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1a&z=2020-04-04&g=2020-02-29);
+- •. **O&O-fonds:** een organisatie als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1a&z=2020-04-04&g=2020-04-04);
 
 - •. **Operationeel Programma:** het Operationeel Programma ESF 2014–2020;
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **praktijkonderwijs:** het onderwijs, bedoeld in [artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
 
-- •. **project:** een samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=4&z=2020-04-04&g=2020-02-29);
+- •. **project:** een samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=4&z=2020-04-04&g=2020-04-04);
 
 - •. **projectperiode:** periode tussen het tijdstip waarop activiteiten starten en worden beëindigd;
 
@@ -158,13 +158,13 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verleent met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 65, eerste lid, van de Verordening (EU) nr. 1303/2013 subsidie ten behoeve van projecten op het gebied van:
 
-- a. bevordering van sociale inclusie en bestrijding van armoede en discriminatie, nader uitgewerkt in de hoofdstukken I tot en met III in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29), behorende bij deze regeling;
+- a. bevordering van sociale inclusie en bestrijding van armoede en discriminatie, nader uitgewerkt in de hoofdstukken I tot en met III in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04), behorende bij deze regeling;
 
-- b. bevordering van sociale innovatie en transnationale samenwerking, nader uitgewerkt in hoofdstuk IV in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29), behorende bij deze regeling;
+- b. bevordering van sociale innovatie en transnationale samenwerking, nader uitgewerkt in hoofdstuk IV in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04), behorende bij deze regeling;
 
-- c. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in de hoofdstukken V en Va in het kader van investeringsprioriteit B in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29), behorende bij deze regeling;
+- c. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in de hoofdstukken V en Va in het kader van investeringsprioriteit B in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04), behorende bij deze regeling;
 
-- d. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in hoofdstuk VI in het kader van investeringsprioriteit C in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29), behorende bij deze regeling.
+- d. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in hoofdstuk VI in het kader van investeringsprioriteit C in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04), behorende bij deze regeling.
 
 2. De hoofdstukken, bedoeld in het eerste lid, onderdelen a, b, c, voor zover dit hoofdstuk Va betreft, en d, bevatten nadere regels in het verlengde van en met inachtneming van Verordening (EU) nr. 1303/2013 en Verordening (EU) nr. 1304/2013.
 
@@ -176,7 +176,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 ##### Artikel 6. Subsidieaanvrager
 
-1. De subsidie met betrekking tot een project als bedoeld in deze regeling wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per investeringsprioriteit is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29) bij deze regeling.
+1. De subsidie met betrekking tot een project als bedoeld in deze regeling wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per investeringsprioriteit is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04) bij deze regeling.
 
 2. De registratie als subsidieaanvrager, als bedoeld in het eerste lid, vindt plaats onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
@@ -206,7 +206,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 7. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
-8. De minister maakt op de website www.uitvoeringvanbeleidszw.nl een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=6&z=2020-04-04&g=2020-02-29), en het tweede lid.
+8. De minister maakt op de website www.uitvoeringvanbeleidszw.nl een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=6&z=2020-04-04&g=2020-04-04), en het tweede lid.
 
 ##### Artikel 8. Rangschikking
 
@@ -222,7 +222,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 2. De minister verleent de subsidie voor het verrichten van het project, zoals vastgelegd in de bij de subsidieaanvraag gevoegde projectbeschrijving.
 
-3. De beschikking vermeldt de periode, de totale subsidiabele kosten alsmede het maximumbedrag van de subsidie. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-02-29) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
+3. De beschikking vermeldt de periode, de totale subsidiabele kosten alsmede het maximumbedrag van de subsidie. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-04-04) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
 4. Onverminderd [artikel 4:37 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) kunnen aan de beschikking tot verlening van subsidie verplichtingen worden verbonden.
 
@@ -262,7 +262,7 @@ Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeelt
 
 ##### Artikel 12. Subsidiabele kosten
 
-1. Ter uitvoering van de subsidiabele activiteiten van het project, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29), komen voor subsidiëring de volgende kostensoorten in aanmerking:
+1. Ter uitvoering van de subsidiabele activiteiten van het project, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04), komen voor subsidiëring de volgende kostensoorten in aanmerking:
 
 - a. externe kosten;
 
@@ -356,7 +356,7 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste 31 december 2027 dan wel tot een nader door de minister aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=2&z=2020-04-04&g=2020-02-29) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=2&z=2020-04-04&g=2020-04-04) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -478,7 +478,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 ### Artikel A10aa. Onderwijsnummer
 
-In afwijking van de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-02-29), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-02-29), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, genoemd in artikel A4, eerste lid, onderdeel f, in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
+In afwijking van de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-04-04), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-04-04), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, genoemd in artikel A4, eerste lid, onderdeel f, in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
 
 ### Hoofdstuk II. UWV
 
@@ -510,7 +510,7 @@ In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### A17b. Bevoorschotting
 
-In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2020-04-04&g=2020-02-29), kan de minister besluiten tot het verstrekken van een voorschot tot maximaal de op basis van de tussentijdse declaratie verschuldigde subsidie.
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2020-04-04&g=2020-04-04), kan de minister besluiten tot het verstrekken van een voorschot tot maximaal de op basis van de tussentijdse declaratie verschuldigde subsidie.
 
 ### Artikel A18
 
@@ -669,7 +669,7 @@ Er wordt geen subsidie verleend aan subsidieaanvragers aan wie:
 
 ##### Artikel B8. Subsidiabele kosten
 
-In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-02-29) komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4:
+In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-04-04) komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4:
 
 - a. het opstellen van een advies met implementatieplan;
 
@@ -683,9 +683,9 @@ In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&ar
 
 ##### Artikel B10. Einddeclaratie en subsidievaststelling
 
-1. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-02-29), dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.
+1. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-04-04), dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.
 
-2. Het maximale subsidiepercentage bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=11&z=2020-04-04&g=2020-02-29), wordt vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000,– aan subsidiabele kosten is gerealiseerd.
+2. Het maximale subsidiepercentage bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=11&z=2020-04-04&g=2020-04-04), wordt vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000,– aan subsidiabele kosten is gerealiseerd.
 
 3. Bij het verzoek tot vaststelling van de subsidie wordt opgenomen:
 
@@ -719,13 +719,13 @@ In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&ar
 
 5. De minister kan de subsidieontvanger in het kader van de vaststelling van de subsidie verplichten de contactgegevens te verstrekken van twee werknemers die actief betrokken zijn bij het project en bereid zijn informatie te verstrekken aan door de minister dan wel door de Europese Commissie daartoe aangewezen instanties voor controle en evaluatiedoeleinden.
 
-6. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-02-29), is er geen sprake van deelnemers aan het project als bedoeld in Bijlage I van [Verordening 1304/2013](32013R1304).
+6. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-04-04), is er geen sprake van deelnemers aan het project als bedoeld in Bijlage I van [Verordening 1304/2013](32013R1304).
 
-7. De minister beslist, in afwijking van [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-02-29), binnen dertien weken na ontvangst van het verzoek tot vaststelling.
+7. De minister beslist, in afwijking van [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2020-04-04&g=2020-04-04), binnen dertien weken na ontvangst van het verzoek tot vaststelling.
 
 ##### Artikel B11. Uitzonderingen op algemeen deel
 
-De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-02-29), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-02-29), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
+De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-04-04), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-04-04), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Artikel A26. Aanvraagtijdvak
 
@@ -743,7 +743,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 1. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2019-09-17&g=2020-02-29), wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
 
-1. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-02-29), wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
+1. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-04-04), wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
 
 2. Een subsidieaanvraag wordt niet in behandeling genomen, indien op het moment van deze aanvraag aan de subsidieaanvrager reeds voor twee projecten in het kader van dit hoofdstuk subsidie is verleend. Indien met betrekking tot een subsidieverlening als bedoeld in de vorige zin een verzoek tot vaststelling is ingediend, kan een subsidieaanvraag voor een nieuw project in behandeling worden genomen.
 
@@ -806,7 +806,7 @@ De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt 
 
 ### Artikel A1a. Subsidieaanvrager
 
-De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van een centrumgemeente als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1&z=2020-04-04&g=2020-02-29).
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van een centrumgemeente als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1&z=2020-04-04&g=2020-04-04).
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
@@ -854,7 +854,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2019-09-17&g=2020-02-29), voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking.
 
-1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-02-29), voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking.
+1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-04-04), voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking.
 
 2. De kosten, bedoeld in het eerste lid, worden voor zover het directe loonkosten van medewerkers in dienst van een in Nederland gevestigde organisatie betreft berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.
 
@@ -868,7 +868,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2019-09-17&g=2020-02-29), voor subsidiëring uitsluitend in aanmerking:
 
-1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-02-29), voor subsidiëring uitsluitend in aanmerking:
+1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2020-04-04&g=2020-04-04), voor subsidiëring uitsluitend in aanmerking:
 
 2. De kosten, bedoeld in het eerste lid, onderdeel a, worden berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.
 
@@ -1005,11 +1005,11 @@ Niet voor subsidiering komen in aanmerking:
 
 ### Artikel A35. Administratievoorschriften
 
-In afwijking van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=15&z=2020-04-04&g=2020-02-29), is de projectadministratie van de subsidieontvanger in het kader van transnationale samenwerking voor controle beschikbaar op één locatie in Nederland.
+In afwijking van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=15&z=2020-04-04&g=2020-04-04), is de projectadministratie van de subsidieontvanger in het kader van transnationale samenwerking voor controle beschikbaar op één locatie in Nederland.
 
 ### Artikel A36. Bevoorschotting
 
-In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2020-04-04&g=2020-02-29) verleent de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien:
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2020-04-04&g=2020-04-04) verleent de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien:
 
 ### Artikel A37. Uitzonderingen op algemeen deel
 
@@ -1092,7 +1092,7 @@ De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&art
 
 De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2019-09-17&g=2020-02-29), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2019-09-17&g=2020-02-29), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
-De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-02-29), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-02-29), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
+De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-04-04), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-04-04), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Investeringprioriteiten C. Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen en personen die ver van de arbeidsmarkt af staan, mede door middel van plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
 
@@ -2077,7 +2077,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel B3a. Rangschikking
 
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=8&z=2020-04-04&g=2020-02-29) wordt bij overschrijding van het subsidieplafond, bedoeld in artikel B3, na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=8&z=2020-04-04&g=2020-04-04) wordt bij overschrijding van het subsidieplafond, bedoeld in artikel B3, na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
 2. Alleen volledige subsidieaanvragen worden inhoudelijk in behandeling genomen.
 
@@ -2085,17 +2085,17 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel 21a. Wijzigen einddatum beschikking tot subsidieverlening
 
-In afwijking van de in de artikelen A6, A15, eerste lid, onderdeel b, A23, eerste lid, onderdeel b, A30, eerste lid, onderdeel b, B6, onderdeel c, B17, eerste lid, onderdelen c en d, en C6, eerste lid, onderdeel c, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-02-29) genoemde perioden, verlengt de minister de einddatum van reeds verleende projecten met een in de beschikking tot subsidieverlening als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=9&z=2020-04-04&g=2020-02-29) vermelde einddatum van 1 maart 2020 of later door middel van een wijziging van deze beschikking met zes maanden.
+In afwijking van de in de artikelen A6, A15, eerste lid, onderdeel b, A23, eerste lid, onderdeel b, A30, eerste lid, onderdeel b, B6, onderdeel c, B17, eerste lid, onderdelen c en d, en C6, eerste lid, onderdeel c, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2020-04-04&g=2020-04-04) genoemde perioden, verlengt de minister de einddatum van reeds verleende projecten met een in de beschikking tot subsidieverlening als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=9&z=2020-04-04&g=2020-04-04) vermelde einddatum van 1 maart 2020 of later door middel van een wijziging van deze beschikking met zes maanden.
 
 ## Bijlage 1. Specifieke bepalingen voor subsidie aanvragen per investeringsprioriteit
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
-In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-02-29), verstrekt de subsidieontvanger, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening, uiterlijk 31 december van elk kalenderjaar aan de Minister het burgerservicenummer van de deelnemers waarvan het individuele traject is beëindigd.
+In afwijking van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-04-04), verstrekt de subsidieontvanger, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening, uiterlijk 31 december van elk kalenderjaar aan de Minister het burgerservicenummer van de deelnemers waarvan het individuele traject is beëindigd.
 
 ### Artikel A32. Subsidiabele kosten ter uitvoering van subsidiabele activiteiten
 
-De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-02-29), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-02-29), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
+De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2020-04-04&g=2020-04-04), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2020-04-04&g=2020-04-04), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Hoofdstuk V. Duurzame inzetbaarheid bedrijven/instellingen
 
