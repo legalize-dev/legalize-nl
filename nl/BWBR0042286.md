@@ -4,7 +4,7 @@ identifier: "BWBR0042286"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-04-07"
-last_updated: "2019-06-01"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042286"
 soort: "zbo"
@@ -88,7 +88,7 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 ##### Artikel 2. Klachten
 
-1. Een ieder kan een klacht als bedoeld in [art. 1 sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=1&z=2019-06-01&g=2019-06-01) indienen bij het NWO Meldpunt wetenschappelijke integriteit.
+1. Een ieder kan een klacht als bedoeld in [art. 1 sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=1&z=2020-04-07&g=2020-04-07) indienen bij het NWO Meldpunt wetenschappelijke integriteit.
 
 2. De klacht is opgesteld in de Nederlandse of Engelse taal, en bevat tenminste:
 
@@ -118,21 +118,17 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 2. Een vertrouwenspersoon dient over ten minste de volgende kwalificaties te beschikken:
 
-- a). heeft ervaring met conflictmanagement en/of mediation;
+- a. heeft ervaring met conflictmanagement en/of mediation;
 
-- b). geniet een onbesproken wetenschappelijke reputatie;
-
-- c). verricht geen andere werkzaamheden voor of namens NWO;
-
-- d). ontvangt van NWO geen financiering ten behoeve van wetenschappelijk onderzoek;
+- b. geniet een onbesproken wetenschappelijke reputatie.
 
 3. De raad van bestuur kan de benoeming van een vertrouwenspersoon tussentijds beëindigen:
 
-- a). op eigen verzoek van de vertrouwenspersoon;
+- a. op eigen verzoek van de vertrouwenspersoon;
 
-- b). indien een vertrouwenspersoon niet langer voldoet aan de in lid 2 genoemde vereisten voor benoembaarheid;
+- b. indien een vertrouwenspersoon niet langer voldoet aan de in lid 2 genoemde vereisten voor benoembaarheid;
 
-- c). wegens disfunctioneren als vertrouwenspersoon.
+- c. wegens disfunctioneren als vertrouwenspersoon.
 
 4. Op de werkzaamheden van de vertrouwenspersoon is de Gedragscode Belangenverstrengeling, dan wel, na inwerkingtreding, de Code omgang met persoonlijke belangen van toepassing.
 
@@ -200,7 +196,7 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 3. De raad van bestuur kan besluiten tot het niet in behandeling nemen van een klacht indien:
 
-- a). deze niet voldoet aan de in [artikel 2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=2&z=2019-06-01&g=2019-06-01), van deze regeling gestelde vereisten, mits de klager de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde redelijke termijn;
+- a). deze niet voldoet aan de in [artikel 2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=2&z=2020-04-07&g=2020-04-07), van deze regeling gestelde vereisten, mits de klager de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde redelijke termijn;
 
 - b). geen financieringsrelatie met NWO ontstaat of de klacht aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling kan worden onderworpen;
 
