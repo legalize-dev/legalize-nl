@@ -4,7 +4,7 @@ identifier: "BWBR0043355"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-07"
-last_updated: "2020-01-01"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043355"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt man
 
 ##### Artikel 2
 
-Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=1&z=2020-04-07&g=2020-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van beroep of hoger beroep.
+Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=1&z=2020-04-07&g=2020-04-07), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van beroep of hoger beroep.
 
 ##### Artikel 3
 
-1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=1&z=2020-04-07&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=2&z=2020-04-07&g=2020-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
+1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=1&z=2020-04-07&g=2020-04-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0043355&artikel=2&z=2020-04-07&g=2020-04-07) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk.
 
