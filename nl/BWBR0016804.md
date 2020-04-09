@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2020-01-01"
+last_updated: "2020-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 - n. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties;
 
-- o. ambtenaren en functionarissen, werkzaam bij de interdepartementale post- en koeriersdienst.
+- o. ambtenaren en functionarissen, werkzaam bij de interdepartementale post- en koeriersdienst;
+
+- p. ambtenaren van de Koninklijke marechaussee welke opsporingsbevoegdheid bezitten.
 
 ##### Artikel 2
 
