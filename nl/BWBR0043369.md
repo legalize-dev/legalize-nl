@@ -4,7 +4,7 @@ identifier: "BWBR0043369"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-04-10"
-last_updated: "2020-04-01"
+last_updated: "2020-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043369"
 soort: "zbo"
@@ -57,7 +57,7 @@ In dit reglement wordt verstaan onder:
 
 1. De directie wordt gevormd door een directeur.
 
-2. De directeur kan onder zijn verantwoordelijkheid de vertegenwoordiging zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043369&artikel=3&z=2020-04-10&g=2020-04-01) opdragen aan andere personen.
+2. De directeur kan onder zijn verantwoordelijkheid de vertegenwoordiging zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043369&artikel=3&z=2020-04-10&g=2020-04-10) opdragen aan andere personen.
 
 3. In geval van schorsing of ontstentenis van de directeur voorziet de Minister in de waarneming van de functie door een tweede aan te stellen directeur.
 
