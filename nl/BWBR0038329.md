@@ -4,7 +4,7 @@ identifier: "BWBR0038329"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2017-09-01"
+last_updated: "2020-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038329"
 soort: "wet"
@@ -166,7 +166,7 @@ Bij wijze van experiment kan in afwijking van het [Wetboek van Burgerlijke Recht
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende procedures, vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.
 
-2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2017-09-01&g=2017-09-01) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel CIXa](https://wetten.overheid.nl/jci1.3:c:BWBR0038329&hoofdstuk=11&artikel=CIXa&z=2020-04-15&g=2020-04-15) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel CXI
 
@@ -499,8 +499,6 @@ Wijzigt de Zaaizaad- en plantgoedwet 2005.
 ##### Artikel LXIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LXIV
 
