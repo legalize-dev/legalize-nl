@@ -4,7 +4,7 @@ identifier: "BWBR0006501"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-04-16"
-last_updated: "2020-03-28"
+last_updated: "2020-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006501"
 soort: "rijksKB"
@@ -120,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2020-04-16&g=2020-03-28), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
+Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2020-04-16&g=2020-04-16), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
 
 ##### Artikel 6
 
@@ -284,6 +284,6 @@ Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering
 
 ##### Artikel 26a
 
-De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=2&z=2020-04-16&g=2020-03-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=3&z=2020-04-16&g=2020-03-28), de werkwijze, de geheimhouding en de verslaglegging.
+De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=2&z=2020-04-16&g=2020-04-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=3&z=2020-04-16&g=2020-04-16), de werkwijze, de geheimhouding en de verslaglegging.
 
 Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
