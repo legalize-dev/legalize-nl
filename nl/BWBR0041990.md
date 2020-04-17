@@ -4,7 +4,7 @@ identifier: "BWBR0041990"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-08"
-last_updated: "2019-11-01"
+last_updated: "2020-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041990"
 soort: "ministeriele-regeling"
@@ -50,13 +50,15 @@ Er is een Muntadviescommissie, die tot taak heeft de Staatssecretaris van Financ
 
 2. De voorzitter kan zich laten vervangen door een medewerker van het Ministerie van Financiën, werkzaam bij de Afdeling Institutioneel Beleid en Integriteit.
 
-3. Tot leden van de commissie worden maximaal vijf personen benoemd, waaronder in ieder geval:
+3. Het afdelingshoofd Chartaal Beleid en Strategie van De Nederlandsche Bank is secretaris van de Muntadviescommissie.
+
+4. De secretaris kan zich laten vervangen door een medewerker van De Nederlandsche Bank, werkzaam bij de afdeling Chartaal Beleid en Strategie.
+
+5. Tot leden van de commissie worden naast de secretaris maximaal vier personen benoemd, waaronder in ieder geval:
 
 - a. een numismaat;
 
-- b. een vertegenwoordiger van De Nederlandsche Bank;
-
-- c. een beeldend kunstenaar.
+- b. een beeldend kunstenaar.
 
 ##### Artikel 3. Werkwijze
 
@@ -72,7 +74,7 @@ Er is een Muntadviescommissie, die tot taak heeft de Staatssecretaris van Financ
 
 ##### Artikel 5. Benoeming eerste leden
 
-Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2020-04-17&g=2019-11-01), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
+Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2020-04-17&g=2020-04-17), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
 
 - a. de heer mr. M. Bloemendal (numismaat);
 
