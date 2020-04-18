@@ -4,7 +4,7 @@ identifier: "BWBR0037440"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2016-01-01"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037440"
 soort: "ministeriele-regeling"
@@ -44,9 +44,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **de wet:** de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746);
+- **minister:** Minister van Economische Zaken en Klimaat;
 
-- **het werk:** het werk dat in de S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk.
+- **S&O-aanvraag:** aanvraag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), of [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
+
+- **S&O-mededeling:** mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), of [artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
+
+- **S&O-opgave:** opgave als bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22);
+
+- **werk:** werk dat in de S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk;
+
+- **wet:** [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746).
 
 ##### Artikel 2
 
@@ -122,11 +130,11 @@ Tot speur- en ontwikkelingswerk wordt niet gerekend:
 
 5. De S&O-inhoudingsplichtige of de S&O-belastingplichtige houdt de administratie, bedoeld in het eerste lid, onderdeel b, steeds zodanig bij dat deze uiterlijk 10 werkdagen na een dag waarop het werk is verricht, beschikbaar is voor controle.
 
-6. De S&O-inhoudingsplichtige houdt de administratie, bedoeld in het tweede en derde lid, zodanig bij dat deze op het moment van de mededeling, bedoeld in [artikel 24, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), beschikbaar is voor controle.
+6. De S&O-inhoudingsplichtige houdt de administratie, bedoeld in het tweede en derde lid, zodanig bij dat deze op het moment van de S&O-mededeling, bedoeld in [artikel 24, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), beschikbaar is voor controle.
 
 ##### Artikel 4
 
-Indien de S&O-inhoudingsplichtige in de aanvraag van een S&O-verklaring gekozen heeft voor een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23), wordt de termijn, bedoeld in [artikel 22, derde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), voor de beslissing op de S&O-aanvraag met acht weken verlengd.
+Indien de S&O-inhoudingsplichtige in de S&O-aanvraag gekozen heeft voor een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=23), wordt de termijn, bedoeld in [artikel 22, derde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), voor de beslissing op de S&O-aanvraag met acht weken verlengd.
 
 ##### Artikel 5
 
@@ -143,5 +151,25 @@ Deze regeling treedt in werking met ingang van 1 januari 2016.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling S&O-afdrachtvermindering.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+1. Er is sprake van een verschoonbare termijnoverschrijding als bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27a), indien:
+
+- a. de termijnoverschrijding is veroorzaakt door een niet aan de indiener toerekenbare verstoring van de toegang tot of de werking van de voorziening, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), of [artikel 27, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
+
+- b. de verstoring plaatsvindt op de laatste dag van een op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) voor de S&O-inhoudingsplichtige of de S&O-belastingplichtige geldende termijn voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave, dan wel in de twee dagen daaraan voorafgaand;
+
+- c. de verstoring gedurende een aaneengesloten periode van minimaal twee uur aanhoudt; en
+
+- d. de S&O-inhoudingsplichtige of S&O-belastingplichtige de S&O-aanvraag, S&O-mededeling of S&O-opgave alsnog doet binnen de periode, bedoeld in het tweede of derde lid.
+
+2. De periode, bedoeld in het eerste lid, onderdeel d, bedraagt drie werkdagen na de laatste dag van de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) voor de S&O-inhoudingsplichtige of S&O-belastingplichtige geldende termijn voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave of, indien dit later is, drie werkdagen na de dag waarop de verstoring verholpen is.
+
+3. Indien dit naar oordeel van de minister gelet op de aard van de verstoring noodzakelijk is, kan de minister besluiten de periode, genoemd in het tweede lid, te verlengen, opdat de periode in verhouding is tot de aard van de verstoring. In dat geval doet de minister hiervan voor het einde van de periode, genoemd in het tweede lid, mededeling in de Staatscourant.
+
+4. S&O-aanvragen, S&O-mededelingen en S&O-opgaven die, bij een verstoring als bedoeld in het eerste lid, onderdelen a, b, en c, zijn gedaan binnen de periode, bedoeld in het tweede of derde lid, worden geacht te zijn gedaan binnen de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) geldende termijnen voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
