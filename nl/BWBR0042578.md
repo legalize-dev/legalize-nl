@@ -4,7 +4,7 @@ identifier: "BWBR0042578"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-06"
-last_updated: "2019-10-01"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042578"
 soort: "zbo"
@@ -72,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2. - Toepassingsbereik van deze regeling
 
-1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2019-10-01&g=2019-10-01) van deze regeling wordt onder bank verstaan: een bank als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2020-04-18&g=2020-04-18) van deze regeling wordt onder bank verstaan: een bank als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2019-10-01&g=2019-10-01) van deze regeling wordt onder instelling verstaan:
+2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2020-04-18&g=2020-04-18) van deze regeling wordt onder instelling verstaan:
 
 - a). een bank als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die niet is aangemerkt als belangrijke kredietinstelling overeenkomstig artikel 6 lid 4 van de SSM Verordening; of
 
 - b). een beleggingsonderneming die beleggingsdiensten verleent of beleggingsactiviteiten verricht in Nederland.
 
-3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2019-10-01&g=2019-10-01) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
+3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2020-04-18&g=2020-04-18) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
 
 ##### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
 
@@ -88,19 +88,13 @@ Gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regeling
 
 ### Hoofdstuk 2. - Macroprudentiële opties en discreties
 
-##### Artikel 2:1. - Systeemrisicobuffer
+##### Artikel 2:1. Systeemrisicobuffer
 
-1. Een bank met zetel in Nederland als bedoeld in [artikel 3:62a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a), die naar het oordeel van DNB een dominante positie heeft in het financiële stelsel van Nederland of anderszins is blootgesteld aan systeemrisico's, als bedoeld in artikel 133 van de CRD IV, beschikt over een systeemrisicobuffer, als bedoeld in [artikel 105, lid 1, aanhef en onderdeel d, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=105).
+1. Een bank met zetel in Nederland als bedoeld in [artikel 3:62a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a), die naar het oordeel van DNB een dominante positie heeft in het financiële stelsel van Nederland of anderszins is blootgesteld aan systeemrisico's, als bedoeld in artikel 133 van de CRD, beschikt over een systeemrisicobuffer, als bedoeld in [artikel 105, lid 1, aanhef en onderdeel d, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=105).
 
-2. Voor een bank als bedoeld in het eerste lid bedraagt de systeemrisicobuffer drie procent van het overeenkomstig artikel 92, lid 3 van de CRR berekende totaal van risicoposten.
+2. Bij besluit van DNB wordt bepaald of het eerste lid op een bank van toepassing is en wat de hoogte is van de door deze bank aan te houden systeemrisicobuffer, uitgedrukt als percentage van het overeenkomstig artikel 92, lid 3 van de CRR berekende totaal van risicoposten.
 
-3. Een bank als bedoeld in het eerste lid voldoet aan de verplichting van het tweede lid op basis van de geconsolideerde positie, overeenkomstig afdeling 2 van deel één van de CRR. De systeemrisicobuffer wordt aangehouden op het hoogste geconsolideerde niveau in Nederland.
-
-4. De vereiste omvang van de systeemrisicobuffer wordt gedurende de hierna genoemde perioden vermenigvuldigd met de daarbij vermelde percentages:
-
-- a). voor de duur van het kalenderjaar 2018: 75%;
-
-- b). vanaf 1 januari 2019: 100%.
+3. Een bank voldoet aan de verplichting ingevolge het tweede lid op basis van de geconsolideerde positie, overeenkomstig afdeling 2 van deel één van de CRR. De systeemrisicobuffer wordt aangehouden op het hoogste geconsolideerde niveau in Nederland.
 
 ### Hoofdstuk 3. Microprudentiële opties en discreties
 
@@ -146,15 +140,15 @@ Instellingen gebruiken voor de in artikel 282, lid 6, van de CRR genoemde transa
 
 - b). de in artikel 400, lid 2, onderdeel b) van de CRR opgesomde blootstellingen, ten belope van 80% van hun blootstellingswaarde;
 
-- c). de in artikel 400, lid 2, onderdeel c) van de CRR opgesomde blootstellingen die een instelling heeft ten aanzien van de in artikel 400, lid 2 van de CRR genoemde ondernemingen, en voor zover op die ondernemingen hetzelfde toezicht op geconsolideerde basis van toepassing is overeenkomstig de CRR, de richtlijn financiële conglomeraten, dan wel de in een derde land vigerende equivalente normen, en voor zover tevens is voldaan aan de voorwaarden in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2019-10-01&g=2019-10-01);
+- c). de in artikel 400, lid 2, onderdeel c) van de CRR opgesomde blootstellingen die een instelling heeft ten aanzien van de in artikel 400, lid 2 van de CRR genoemde ondernemingen, en voor zover op die ondernemingen hetzelfde toezicht op geconsolideerde basis van toepassing is overeenkomstig de CRR, de richtlijn financiële conglomeraten, dan wel de in een derde land vigerende equivalente normen, en voor zover tevens is voldaan aan de voorwaarden in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2020-04-18&g=2020-04-18);
 
-- d). de in artikel 400, lid 2, onderdeel d) van de CRR opgesomde blootstellingen, en voor zover tevens voldaan is aan de voorwaarden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2019-10-01&g=2019-10-01);
+- d). de in artikel 400, lid 2, onderdeel d) van de CRR opgesomde blootstellingen, en voor zover tevens voldaan is aan de voorwaarden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2020-04-18&g=2020-04-18);
 
 - e). de in artikel 400, lid 2, onderdelen e) tot en met h), j) en k) van de CRR opgesomde blootstellingen;
 
 - f). de in artikel 400, lid 2, onderdeel i) van de CRR opgesomde vrijstellingen, tot het maximaal toegestane bedrag.
 
-2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2019-10-01&g=2019-10-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2019-10-01&g=2019-10-01), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
+2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2020-04-18&g=2020-04-18) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2020-04-18&g=2020-04-18), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
 
 ##### Artikel 3:6. - Vrijstelling van aftrek van deelnemingen in verzekeringsondernemingen van tier 1- kernkapitaalbestanddelen
 
@@ -218,7 +212,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 2019.
 
 **Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 2, onderdeel c) van de CRR en artikel 3:5 van deze regeling.**
 
-- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:5&z=2019-10-01&g=2019-10-01) van deze regeling. Voor de toepassing van artikel 3:5 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad.https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421 opgevoerde derde landen als equivalent beschouwd.
+- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:5&z=2020-04-18&g=2020-04-18) van deze regeling. Voor de toepassing van artikel 3:5 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad.https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421 opgevoerde derde landen als equivalent beschouwd.
 
 - 2. Instellingen nemen de volgende criteria in acht om te beoordelen of een in artikel 400, lid 2, onderdeel c), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3 van de CRR:
 
