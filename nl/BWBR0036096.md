@@ -4,7 +4,7 @@ identifier: "BWBR0036096"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-03-01"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036096"
 soort: "ministeriele-regeling"
@@ -104,15 +104,17 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 1. Een AMHK stelt de jaarverslaggeving en een jaardocument op dat ten minste een verantwoordingsdocument, het verslag, bedoeld in [artikel 4.2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.10) en andere informatie die wordt verstrekt op grond van het model, bedoeld in het derde lid, bevat.
 
-2. De jaarverslaggeving en het jaardocument worden ter inzage gelegd en op verzoek van de Ministers aan hen en aan derden verstrekt uiterlijk voor 1 juni of, indien de jaarverslaggeving en het jaardocument betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), voor 15 juli van het jaar volgend op het jaar waarop zij betrekking hebben.
+2. De jaarverslaggeving en het jaardocument worden ter inzage gelegd en op verzoek van de Ministers aan hen en aan derden verstrekt uiterlijk voor 1 juni of, indien de jaarverslaggeving en het jaardocument betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), voor 15 juli van het jaar volgend op het jaar waarop zij betrekking hebben. In afwijking van de eerste zin worden de jaarverslaggeving en het jaardocument over het verslagjaar 2019 ter inzage gelegd en op verzoek van de Ministers aan hen en aan derden verstrekt uiterlijk voor 1 oktober 2020.
 
 3. De jaarverslaggeving en het jaardocument worden opgesteld met gebruikmaking van het model te verkrijgen via de website www.jaarverslagenzorg.nl.
 
 4. De Minister stelt jaarlijks uiterlijk voor 1 oktober na overleg met betrokken partijen het model voor het volgende verslagjaar vast en kan dit model tussentijds herzien.
 
+5. De gegevens, bedoeld in [artikel 4.1, eerste en tweede lid, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), over het verslagjaar 2019 worden uiterlijk voor 1 oktober 2020 openbaar gemaakt.
+
 ##### Artikel 6
 
-1. De jaarverslaggeving en het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2020-07-08&g=2020-03-01), worden in elektronische vorm bij het Centraal Informatiepunt Beroepen Gezondheidszorg ingediend voor 1 juni van het jaar volgend op het verslagjaar, dan wel uiterlijk voor 15 juli van dat jaar, indien zij betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
+1. De jaarverslaggeving en het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2020-04-21&g=2020-04-21), worden in elektronische vorm bij het Centraal Informatiepunt Beroepen Gezondheidszorg ingediend voor 1 juni van het jaar volgend op het verslagjaar, dan wel uiterlijk voor 15 juli van dat jaar, indien zij betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740). In afwijking van de eerste zin worden de jaarverslaggeving en het jaardocument over het verslagjaar 2019 ingediend voor 1 oktober 2020.
 
 2. De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde toepasselijke termijn moet zijn ingediend.
 
@@ -120,7 +122,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 ##### Artikel 7
 
-Een AMHK verstrekt aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 4.3.2, eerste lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2), op de wijze beschreven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=A&z=2020-07-08&g=2020-03-01) bij deze regeling.
+Een AMHK verstrekt aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 4.3.2, eerste lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2), op de wijze beschreven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=A&z=2020-04-21&g=2020-04-21) bij deze regeling.
 
 ### Hoofdstuk 3. Beveiligingseisen gegevensverwerking
 
@@ -186,13 +188,13 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 ##### Artikel 13
 
-1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), berekende bedrag, meer bedraagt dan € 8.925, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), berekende bedrag, meer bedraagt dan € 8.925, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 10.592, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), berekende bedrag voor hen tezamen, meer bedraagt dan € 10.592, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), berekende bedrag, meer bedraagt dan € 6.768, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), berekende bedrag, meer bedraagt dan € 6.768, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 13.658, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), berekende bedrag voor hen tezamen, meer bedraagt dan € 13.658, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
 5. Het tweede lid is van toepassing indien een van beide gehuwde cliënten de pensioengerechtigde leeftijd nog niet heeft bereikt.
 
@@ -224,7 +226,7 @@ Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
 ##### Artikel 20
 
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2020-07-08&g=2020-03-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
+[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2020-04-21&g=2020-04-21), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
 
 ##### Artikel 21
 
@@ -684,7 +686,7 @@ Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 4.
 
 ### Achterlating:
 
-In [artikel 4.3.2. van datzelfde Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2) is omschreven om welke gegevens het gaat. In [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-07-08&g=2020-03-01) van de Uitvoeringsregeling Wmo 2017 is bepaald op welke wijze deze gegevens aan het CBS moet worden aangeleverd verwijzend naar het in deze bijlage opgenomen informatieprotocol.
+In [artikel 4.3.2. van datzelfde Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2) is omschreven om welke gegevens het gaat. In [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-04-21&g=2020-04-21) van de Uitvoeringsregeling Wmo 2017 is bepaald op welke wijze deze gegevens aan het CBS moet worden aangeleverd verwijzend naar het in deze bijlage opgenomen informatieprotocol.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -924,7 +926,7 @@ volgens de meest recente door de Sociale verzekeringsbank vigerende vastgestelde
 
 - a. een weergave van de wijze waarop de derde zal voorzien in de behoefte aan maatschappelijke ondersteuning van de cliënt;
 
-- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 2b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-07-08&g=2020-03-01), bevat of, indien van toepassing, dat wordt gebruikgemaakt van periodiek maandbetalingen;
+- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 2b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-04-21&g=2020-04-21), bevat of, indien van toepassing, dat wordt gebruikgemaakt van periodiek maandbetalingen;
 
 - c. een beding, inhoudende dat de gemeente een vordering heeft op de persoon die ten laste van het persoonsgebonden budget maatschappelijke ondersteuning levert, indien het persoonsgebonden budget naar aanleiding van toerekenbaar handelen van die persoon is ingetrokken of herzien, ter hoogte van het bedrag dat gelijk is aan het door die persoon vanwege dat toerekenbaar handelen ten laste van het persoonsgebonden budget ten onrechte ontvangen bedrag;
 
@@ -1026,9 +1028,9 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - a. overeenkomstig de beschikking tot verlening van het persoonsgebonden budget, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6); en
 
-- b. overeenkomstig een door de cliënt met een derde gesloten overeenkomst of verklaring of een verklaring als bedoeld in [artikel 2ab](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-07-08&g=2020-03-01), die overeenkomstig respectievelijk de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2a&z=2020-07-08&g=2020-03-01) of 2ab is goedgekeurd.
+- b. overeenkomstig een door de cliënt met een derde gesloten overeenkomst of verklaring of een verklaring als bedoeld in [artikel 2ab](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-04-21&g=2020-04-21), die overeenkomstig respectievelijk de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2a&z=2020-04-21&g=2020-04-21) of 2ab is goedgekeurd.
 
-2. In het kader van het budgetbeheer draagt de Sociale verzekeringsbank voor zover deze verschuldigd zijn loonbelasting, premies voor de sociale verzekeringen en inkomensafhankelijke bijdragen als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) af, tenzij het gaat om tegemoetkomingen als bedoeld in [artikel 2ab](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-07-08&g=2020-03-01).
+2. In het kader van het budgetbeheer draagt de Sociale verzekeringsbank voor zover deze verschuldigd zijn loonbelasting, premies voor de sociale verzekeringen en inkomensafhankelijke bijdragen als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) af, tenzij het gaat om tegemoetkomingen als bedoeld in [artikel 2ab](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-04-21&g=2020-04-21).
 
 3. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget voor overeengekomen maatschappelijke ondersteuning die voortvloeit uit een arbeidsovereenkomst, een overeenkomst van opdracht of een overeenkomst voor vervoer, uitsluitend aan de derde aan de hand van:
 
@@ -1052,7 +1054,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - e. een handtekening van de cliënt of, voor zover van toepassing, diens vertegenwoordiger, indien het een schriftelijke declaratie betreft.
 
-5. Indien voor de geleverde maatschappelijke ondersteuning een goedgekeurde verklaring bestaat, betaalt de Sociale verzekeringsbank de hulp uit het sociaal netwerk op aanvraag van de cliënt een tegemoetkoming als bedoeld in [artikel 2ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-07-08&g=2020-03-01), uit. De Sociale verzekeringsbank verricht betalingen indien het verzoek is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
+5. Indien voor de geleverde maatschappelijke ondersteuning een goedgekeurde verklaring bestaat, betaalt de Sociale verzekeringsbank de hulp uit het sociaal netwerk op aanvraag van de cliënt een tegemoetkoming als bedoeld in [artikel 2ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2ab&z=2020-04-21&g=2020-04-21), uit. De Sociale verzekeringsbank verricht betalingen indien het verzoek is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
 6. De Sociale verzekeringsbank kan een betaling uit het persoonsgebonden budget geheel of gedeeltelijk beëindigen, weigeren of opschorten:
 
@@ -1080,13 +1082,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2c
 
-1. In afwijking van [artikel 2b, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-07-08&g=2020-03-01), en het vierde en vijfde lid van dat artikel, kan de Sociale verzekeringsbank rechtstreeks aan de cliënt, betalen:
+1. In afwijking van [artikel 2b, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-04-21&g=2020-04-21), en het vierde en vijfde lid van dat artikel, kan de Sociale verzekeringsbank rechtstreeks aan de cliënt, betalen:
 
 - a. door die cliënt gemaakte vervoerskosten; of
 
 - b. een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning.
 
-2. In afwijking van [artikel 2b, tweede, vierde lid, en zesde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-07-08&g=2020-03-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning voor het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6), van de cliënt.
+2. In afwijking van [artikel 2b, tweede, vierde lid, en zesde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-04-21&g=2020-04-21), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning voor het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6), van de cliënt.
 
 3. De Sociale verzekeringsbank verricht betalingen, indien de declaratie voor vervoerskosten als bedoeld in het eerste lid, onderdeel a, of het verzoek, bedoeld in het tweede lid, is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld
 
@@ -1468,7 +1470,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Daartoe draagt hij zorg voor een verklaring. De verklaring wordt ingediend bij de Sociale verzekeringsbank. De Sociale verzekeringsbank stelt onmiddellijk het college daarvan in kennis.
 
-2. Een cliënt kan niet een overeenkomst als bedoeld in [artikel 2b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-07-08&g=2020-03-01), en de hiergenoemde verklaring met betrekking tot dezelfde derde, die ten laste van het persoonsgebonden budget betalingen zou ontvangen, indienen.
+2. Een cliënt kan niet een overeenkomst als bedoeld in [artikel 2b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2020-04-21&g=2020-04-21), en de hiergenoemde verklaring met betrekking tot dezelfde derde, die ten laste van het persoonsgebonden budget betalingen zou ontvangen, indienen.
 
 3. Een verklaring wordt opgesteld volgens het vigerende, door de Sociale verzekeringsbank vastgestelde model en bevat ten minste:
 
@@ -1632,7 +1634,7 @@ Een declaratie van een vergoeding bevat een handtekening of een elektronische ha
 | **Zondag of algemeen erkende feestdag** |
 | • 0.00 uur tot 24.00 uur: 145% |
 
-3. Met uitzondering van de situatie, bedoeld in [artikel 3b vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=1&artikel=3b&z=2020-07-08&g=2020-03-01), wordt voor toepassingen voor groepen van afnemers afgeweken van de vergoeding, bedoeld in het eerste lid, en wordt door het UWV een passende vergoeding verstrekt.
+3. Met uitzondering van de situatie, bedoeld in [artikel 3b vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=1&artikel=3b&z=2020-04-21&g=2020-04-21), wordt voor toepassingen voor groepen van afnemers afgeweken van de vergoeding, bedoeld in het eerste lid, en wordt door het UWV een passende vergoeding verstrekt.
 
 4. Het bedrag, genoemd in het eerste lid, wordt met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het indexcijfer van de Cao-lonen in de gezondheids- en welzijnszorg over de maand september, die daaraan voorafgaat, afwijkt van het indexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd en door de voorzitter van de Raad van Bestuur van UWV openbaargemaakt.
 
@@ -1668,9 +1670,9 @@ Voor schrijftolken gelden eveneens de volgende aanvullende postcodegebieden:
 
 ##### Artikel 3g
 
-1. In het geval dat degene die krachtens [artikel 3a.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1) een vergoeding van het UWV wenst voor tolkdiensten minder dan 24 uur voor het tijdstip van aanvang van de dienstverlening annuleert, telt het aantal verzochte uren mee voor de urennorm, bedoeld in [artikel 3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=1&artikel=3b&z=2020-07-08&g=2020-03-01).
+1. In het geval dat degene die krachtens [artikel 3a.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1) een vergoeding van het UWV wenst voor tolkdiensten minder dan 24 uur voor het tijdstip van aanvang van de dienstverlening annuleert, telt het aantal verzochte uren mee voor de urennorm, bedoeld in [artikel 3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=1&artikel=3b&z=2020-04-21&g=2020-04-21).
 
-2. Bij een annulering als bedoeld in het eerste lid mag 50% van het tarief overeenkomstig [artikel 3e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=2&artikel=3e&z=2020-07-08&g=2020-03-01), in rekening worden gebracht bij het UWV door de tolk of tolk op afstand. Bij een annulering bij de locatie van de persoon geldt eveneens een vergoeding voor de vervoerskosten van 50% van de vervoersvergoeding, bedoeld in [artikel 3f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=2&artikel=3f&z=2020-07-08&g=2020-03-01).
+2. Bij een annulering als bedoeld in het eerste lid mag 50% van het tarief overeenkomstig [artikel 3e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=2&artikel=3e&z=2020-04-21&g=2020-04-21), in rekening worden gebracht bij het UWV door de tolk of tolk op afstand. Bij een annulering bij de locatie van de persoon geldt eveneens een vergoeding voor de vervoerskosten van 50% van de vervoersvergoeding, bedoeld in [artikel 3f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=2&artikel=3f&z=2020-04-21&g=2020-04-21).
 
 #### Paragraaf 2. Vergoeding van tolken
 
@@ -1838,7 +1840,7 @@ Indien de iWmo worden gewijzigd, wordt de wijziging van kracht vanaf het moment 
 
 ##### Artikel 19a
 
-In afwijking van [artikel 3j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3b&artikel=3j&z=2020-07-08&g=2020-03-01), hoeven de iWmo niet te worden toegepast bij de uitvoering van contracten die door de contractspartijen zijn ondertekend voor de datum waarop deze regeling in werking treedt, behalve voor zover:
+In afwijking van [artikel 3j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3b&artikel=3j&z=2020-04-21&g=2020-04-21), hoeven de iWmo niet te worden toegepast bij de uitvoering van contracten die door de contractspartijen zijn ondertekend voor de datum waarop deze regeling in werking treedt, behalve voor zover:
 
 - a. deze contracten volgens de gezamenlijke contractspartijen ruimte laten voor toepassing daarvan, of
 
@@ -1954,7 +1956,7 @@ De gegevens die noodzakelijk zijn voor de vaststelling en de inning, bedoeld in 
 
 ##### Artikel 13a
 
-De bedragen, bedoeld in [artikel 3.7, vierde lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=B&z=2020-07-08&g=2020-03-01) van deze regeling opgenomen bedragen.
+De bedragen, bedoeld in [artikel 3.7, vierde lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=B&z=2020-04-21&g=2020-04-21) van deze regeling opgenomen bedragen.
 
 ### Hoofdstuk 7. Wijzigingsbepalingen
 
@@ -1964,7 +1966,7 @@ De bedragen, bedoeld in [artikel 3.7, vierde lid, van het Uitvoeringsbesluit](ht
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wmo 2015.
 
-## Bijlage A. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-07-08&g=2020-03-01) van de Uitvoeringsregeling Wmo 2015
+## Bijlage A. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-04-21&g=2020-04-21) van de Uitvoeringsregeling Wmo 2015
 
 ### 2.4. Hoedanigheid van de adviesvrager
 
@@ -1990,7 +1992,7 @@ Onderdeel van de Wet van 14 maart 2013 tot wijziging van diverse wetten in verba
 
 Gesproken kan worden van een vechtscheiding als een scheiding zeer complex verloopt door slepende meningsverschillen die vaak ook worden uitgevochten via mediators, advocaten en hulpverleners. Niet alleen de twee ouders, ook de familie en vrienden om hun heen, en ook scholen en andere instanties, raken betrokken in de strijd. In de loop van dit proces is veel achterdocht en wantrouwen gegroeid die het steeds moeilijker maakt tot constructieve oplossingen te komen. In deze scheidingen raken kinderen gevangen en beschadigd. Het polariseren van de standpunten en het demoniseren van de andere ouder leidt bij kinderen tot verwarring aangezien kinderen vaak niet in staat zijn tot meervoudige partijdigheid. Het demoniseren van de andere ouder heeft als gevolg dat ouders zichzelf superieur vinden aan de ander. Hierdoor voelen ouders zich in hun recht staan om de opvoeding van het kind op zich te nemen en denken hierbij te handelen in het belang van het kind. Dit leidt echter tot intensere conflicten, minder vergevingsgezindheid en minder samenwerking bij onderhandelingen. Het kind wordt hiermee de inzet van het conflict wat als gevolg kan hebben dat alle betrokken partijen vooral over het kind spreken en niet langer met het kind. De kern van de verwaarlozing is dat niemand meer aan het kind of de kinderen vraagt hoe het met hen gaat, wat ze ervaren en wat ze nodig hebben, terwijl ze hier juist in scheidingssituatie extra behoefte aan hebben. De negatieve gevolgen voor het kind bestaan uit psychosociale problemen, zoals angsten, depressie en agressief gedrag. Er bestaat een sterke relatie tussen de ernst van de conflicten tussen ouders en de ernst van de psychosociale gevolgen.18www.kinderenuitdeknel.nl
 
-## Bijlage B. bij [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13a&z=2020-07-08&g=2020-03-01) van de Uitvoeringsregeling Wmo 2015
+## Bijlage B. bij [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13a&z=2020-04-21&g=2020-04-21) van de Uitvoeringsregeling Wmo 2015
 
 - 1. Dit onderdeel is uitsluitend van toepassing op de berekening van de bijdrage met inachtneming van het lopende kalenderjaar, bedoeld in de [artikelen 3.9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.9), [3.13, eerste lid, onderdeel b, onder 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), [3.14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.14), [3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.15), en [3.16, eerste lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.16).
 
@@ -2000,26 +2002,26 @@ Gesproken kan worden van een vechtscheiding als een scheiding zeer complex verlo
 
 - 4. De in [artikel 3.14a, eerste en derde lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.14a) genoemde bedragen worden voor de berekening, bedoeld in het eerste lid, telkens vastgesteld op: € 20.869.
 
-- 5. Het in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 3.998.
+- 5. Het in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 3.998.
 
-- 6. Het in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 6.219.
+- 6. Het in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 6.219.
 
-- 7. De in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45%, € 2.510,45 en € 4.761,14.
+- 7. De in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45%, € 2.510,45 en € 4.761,14.
 
-- 8. De in [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45% en € 4.761,14.
+- 8. De in [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45% en € 4.761,14.
 
-- 9. De in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45%, € 2.237,80 en € 4.761,14.
+- 9. De in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.642, 5,45%, € 2.237,80 en € 4.761,14.
 
-- 10. De in [artikel 11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.250, € 21.431, 13,55% en € 21.431.
+- 10. De in [artikel 11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 1.250, € 21.431, 13,55% en € 21.431.
 
-- 11. De in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 2.397, € 21.431, 13,55% en € 21.431.
+- 11. De in [artikel 11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=11&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedragen, respectievelijk percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 2.397, € 21.431, 13,55% en € 21.431.
 
-- 12. Het in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 9.653.
+- 12. Het in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 9.653.
 
-- 13. Het in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 11.461.
+- 13. Het in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 11.461.
 
-- 14. Het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.322.
+- 14. Het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.322.
 
-- 15. Het in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-07-08&g=2020-03-01), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 14.866.
+- 15. Het in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=13&z=2020-04-21&g=2020-04-21), van de Uitvoeringsregeling Wmo 2015 genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 14.866.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
