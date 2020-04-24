@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2020-04-01"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1801,7 +1801,7 @@ De IND neemt in ieder geval aan dat geen binnenlands beschermingsalternatief in 
 
 ### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 3.2. Artikel 1F Vluchtelingenverdrag
 
@@ -4259,7 +4259,7 @@ De Nederlandse ambassade:
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+Groepsvervolging wordt aangenomen voor tolken die hebben gewerkt voor internationale militaire missies in Afghanistan.
 
 ### 2.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
