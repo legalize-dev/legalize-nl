@@ -4,7 +4,7 @@ identifier: "BWBR0043424"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-09-04"
-last_updated: "2020-04-23"
+last_updated: "2020-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043424"
 soort: "ministeriele-regeling-BES"
@@ -52,7 +52,7 @@ Aan het hoofd van de RCN-unit SZW wordt mandaat, volmacht en machtiging verleend
 
 ##### Artikel 3
 
-Aan het hoofd van de RCN-unit SZW wordt mandaat verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen beschikkingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043424&artikel=2&z=2020-04-25&g=2020-04-23), waaronder het nemen van beslissingen op bezwaarschriften en het voeren van beroep en hoger beroep.
+Aan het hoofd van de RCN-unit SZW wordt mandaat verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen beschikkingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043424&artikel=2&z=2020-04-25&g=2020-04-25), waaronder het nemen van beslissingen op bezwaarschriften en het voeren van beroep en hoger beroep.
 
 ##### Artikel 4
 
