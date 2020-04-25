@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2020-01-22"
+last_updated: "2020-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-01-22&g=2020-01-22) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-04-25&g=2020-04-25) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-01-22&g=2020-01-22).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-04-25&g=2020-04-25).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-01-22&g=2020-01-22)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-04-25&g=2020-04-25)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -306,10 +306,18 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1114 | Verdieping blockchain |
 | K0978 | Beachsporten |
 | K0615 | Urban Sports |
+|   |   |
+| **Certificaten voor keuzedelen vanaf april 2020** | **Certificaten voor keuzedelen vanaf april 2020** |
+| K1135 | Verdieping in farmacie voor de operator |
+| K0370 | Kunststoffen & rubber industriële processen, geschikt voor niveau 2 |
+| K0371 | Kunststoffen & rubber industriële processen, geschikt voor niveau 3 en 4 |
+| K0512 | Lean en creatief |
+| K0288 | Specifieke doelgroepen sport en bewegen |
+| K1065 | Plantkunde in het laboratorium |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-01-22&g=2020-01-22)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-04-25&g=2020-04-25)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -333,6 +341,12 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2020** |
 | C0031 | Ruwbouw Timmeren | 25128 | Timmerman |
 | C0032 | Werken aan warmtedistributienetten | 25267 | Eerste monteur gas-, water- en warmtedistributie |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** |
+| C0033 | Ondersteunen bij wonen en welbevinden | 25498 | Helpende Zorg en Welzijn |
+| C0034 | Skin & Care | 25404 | Schoonheidsspecialist |
+| C0035 | Basis hospitality | 25354 | Zelfstandig medewerker travel & hospitality |
+| C0036 | Functionele veiligheid in de machinebouw | 25310 | Technicus service en onderhoud werktuigbouw |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
