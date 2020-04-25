@@ -111,9 +111,3 @@ Dit besluit treedt in werking met ingang van 1 april 2020. Indien de Staatscoura
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Studiekeuze123.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5. Intrekking
-
-1. Naast de gronden tot intrekking, bedoeld in [artikel 7.15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), kan Onze Minister de aanwijzing van Stichting Landelijk Centrum Studiekeuze in ieder geval intrekken indien Stichting Landelijk Centrum Studiekeuze de algemene verplichtingen en voorwaarden omtrent toezicht en verantwoording, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=3&z=2024-07-10&g=2024-07-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=4&z=2024-07-10&g=2024-07-10) van dit besluit, niet naar behoren nakomt. Indien dit zich voordoet, zal Onze Minister in de eerste plaats een waarschuwing geven. Indien deze waarschuwing niet of in onvoldoende mate binnen 4 weken wordt opgevolgd, kan Onze Minister besluiten de aanwijzing in te trekken.
-
-2. Onze Minister draagt er zorg voor dat uiterlijk vijf jaar na inwerkingtreding van [artikel 7.15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a) en dit besluit de taken van de aangewezen rechtspersoon en de uitvoering hiervan, worden geëvalueerd. Op basis van deze evaluatie kan Onze Minister besluiten het aanwijzingsbesluit te wijzingen of in te trekken.
