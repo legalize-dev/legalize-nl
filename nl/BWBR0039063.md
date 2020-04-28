@@ -4,7 +4,7 @@ identifier: "BWBR0039063"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-04-28"
-last_updated: "2017-01-03"
+last_updated: "2020-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039063"
 soort: "zbo"
@@ -35,7 +35,7 @@ entry_into_force: "2017-01-03"
 
 **Besluit van de raad van bestuur van de kansspelautoriteit van 23 december 2016, kenmerk 10132, inzake de verlening van een vergunning tot het organiseren van een gelegenheid als bedoeld in artikel 3 van de Wet op de kansspelen.**
 
-Op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3) en [5 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) (hierna: de wet) en het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067) verleent de raad van bestuur van de kansspelautoriteit (hierna: de Kansspelautoriteit) aan Lottovate Nederland B.V., een besloten vennootschap naar Nederlands recht gevestigd te Amsterdam met KvK-nummer 60088982 (hierna: de vergunninghouder), vergunning voor de periode van 1 januari 2017 tot en met 31 december 2021.
+Op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3) en [5 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) (hierna: de wet) en het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067) verleent de raad van bestuur van de kansspelautoriteit (hierna: de Kansspelautoriteit) aan Beter Lot B.V., een besloten vennootschap naar Nederlands recht gevestigd te Amsterdam met KvK-nummer 60088982 (hierna: de vergunninghouder), vergunning voor de periode van 1 januari 2017 tot en met 31 december 2021.
 
 Aan deze vergunning zijn de navolgende voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de loterijen inschakelt, hetzij direct, hetzij indirect.
 
