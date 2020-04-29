@@ -4,7 +4,7 @@ identifier: "BWBR0035634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2018-07-01"
+last_updated: "2020-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035634"
 soort: "ministeriele-regeling"
@@ -254,7 +254,7 @@ Een erkende organisatie leeft, voor zover van toepassing, de voorschriften na al
 
 ##### Artikel 6:3
 
-In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2018-07-01&g=2018-07-01) kan de minister:
+In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2020-04-29&g=2020-04-29) kan de minister:
 
 - a. de erkenning intrekken;
 
@@ -264,13 +264,11 @@ In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](http
 
 ##### Artikel 6:4
 
-Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2018-07-01&g=2018-07-01), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
+Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2020-04-29&g=2020-04-29), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 6:5
 
-1. De minister erkent een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie uiterlijk tot en met 31 december 2020.
-
-2. De minister wijst een verzoek als bedoeld in artikel 164, eerste lid, of 165 van [verordening 1308/2013](32013R1308) uiterlijk toe tot en met 31 december 2020.
+De erkenning van een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie wordt verleend voor onbepaalde tijd. Voor bepaalde tijd verleende erkenningen worden geacht te zijn verleend voor onbepaalde tijd.
 
 ##### Artikel 6:6
 
