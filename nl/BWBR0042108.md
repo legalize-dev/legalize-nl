@@ -4,7 +4,7 @@ identifier: "BWBR0042108"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-11-18"
-last_updated: "2019-04-12"
+last_updated: "2020-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042108"
 soort: "beleidsregel"
@@ -194,19 +194,23 @@ Ook de toestemming voor de leidinggevende is beperkt geldig. De toestemming voor
 
 In [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=10) is opgenomen dat particuliere alarmcentrales de alarmapparatuur die zij gebruiken alleen mogen laten installeren en onderhouden door gediplomeerde alarminstallateurs die in het bezit zijn van een verklaring van betrouwbaarheid. Zoals bepaald in artikel 10, vijfde lid, van de wet, wordt de verklaring van betrouwbaarheid afgegeven door de korpschef. In de praktijk zal de alarminstallateur zich daarvoor moeten wenden tot de politiechef van de regionale eenheid waar de alarminstallateur woont. Alarminstallateurs, zoals gedefinieerd in [artikel 1, eerste lid, onder g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1), die deze werkzaamheden voor een particuliere alarmcentrale willen verrichten moeten een verklaring van betrouwbaarheid hebben. Personen die assistentie verlenen aan een alarminstallateur moeten eveneens beschikken over een verklaring van betrouwbaarheid. Voor ondersteunend kantoorpersoneel wordt – voorzover zij geen werkzaamheden verrichten voor een alarminstallateur, zoals bedoeld in artikel 1, eerste lid, sub g onder 1˚ of 2˚ – door de korpschef geen verklaring van betrouwbaarheid verleend.
 
+In [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=10) is opgenomen dat particuliere alarmcentrales de alarmapparatuur die zij gebruiken alleen mogen laten installeren en onderhouden door gediplomeerde alarminstallateurs die in het bezit zijn van een verklaring van betrouwbaarheid. Zoals bepaald in artikel 10, vijfde lid, van de wet, wordt de verklaring van betrouwbaarheid afgegeven door de korpschef. In de praktijk zal de alarminstallateur zich daarvoor moeten wenden tot de politiechef van de regionale eenheid waar de alarminstallateur woont. Alarminstallateurs, zoals gedefinieerd in [artikel 1, eerste lid, onder g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1), die deze werkzaamheden voor een particuliere alarmcentrale willen verrichten moeten een verklaring van betrouwbaarheid hebben. Personen die assistentie verlenen aan een alarminstallateur moeten eveneens beschikken over een verklaring van betrouwbaarheid. Voor ondersteunend kantoorpersoneel wordt – voorzover zij geen werkzaamheden verrichten voor een alarminstallateur, zoals bedoeld in artikel 1, eerste lid, sub g onder 1˚ of 2˚ – door de korpschef geen verklaring van betrouwbaarheid verleend.
+
 Ook installateurs die werkzaamheden verrichten voor videotoezichtcentrales dienen ingevolge [artikel 11b van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=11b) te beschikken over een verklaring van betrouwbaarheid die wordt afgegeven door de korpschef. Personen die assistentie verlenen aan voornoemde installateur moeten eveneens beschikken over een verklaring van betrouwbaarheid. Voor ondersteunend kantoorpersoneel wordt – voorover zij geen werkzaamheden verrichten voor een installateur die zien op het ontwerpen van het plan voor installatie, de installatie van videoapparatuur of zorgdraagt voor het onderhoud van videoapparatuur – door de korpschef geen verklaring van betrouwbaarheid verleend.
 
 De betrouwbaarheidscriteria genoemd in onderdeel 3.3 en 3.4 die gelden voor het verlenen van toestemming aan personeel van een beveiligingsorganisatie of een recherchebureau zijn van overeenkomstige toepassing op het afgeven van een verklaring van betrouwbaarheid.
 
 De geldigheidsduur van de verklaring is – analoog aan die van personeel zonder legitimatiebewijs – drie jaren. De verklaring is – net als de toestemming – vormvrij.
 
-Voor de afgifte van een verklaring van betrouwbaarheid worden geen kosten in rekening gebracht.
+### 4. Legitimatiebewijzen
+
+Voor verklaringen van betrouwbaarheid waarvan de geldigheidsduur onder het reguliere beleid in de periode van 1 april 2020 tot 1 september 2020 verloopt, geldt dat deze verklaringen van betrouwbaarheid hun geldigheid zullen behouden gedurende één jaar volgend op de datum waarop hun geldigheid onder het reguliere beleid zou zijn verlopen.
 
 ### 4. Legitimatiebewijzen
 
 Relevante artikelen: [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9) en [artikel 13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13).
 
-### 4.1. Uitvoering
+Het grijze legitimatiebewijs wordt verstrekt aan de beveiligers die in het bezit zijn van het diploma, als bedoeld in [artikel 5, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=5).
 
 Het legitimatiebewijs, als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13), waarvan het model is vastgelegd in [bijlage 2 bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2), is uitgevoerd in de kleuren grijs, blauw, groen, geel en oranje. Het legitimatiebewijs kan worden verkregen bij de korpschef.
 
@@ -224,7 +228,7 @@ Het groene legitimatiebewijs kan eveneens verstrekt worden aan Event Security Of
 
 Het groene legitimatiebewijs kan eveneens worden verstrekt aan alarmcentralisten in opleiding, aan hen kan voor maximaal 12 maanden een groen legitimatiebewijs worden verstrekt. Op dit legitimatiebewijs wordt, zoals bepaald in [artikel 13, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13), onder het kopje ‘Beperking ’ de volgende tekst opgenomen: ‘Uitsluitend werkzaam als alarmcentralist i.o’.
 
-Het gele legitimatiebewijs is bestemd voor personen die recherchewerkzaamheden mogen verrichten en in het bezit zijn van een diploma als bedoeld in [artikel 10, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=10). Het gele legitimatiebewijs kan eveneens worden verstrekt aan particuliere rechercheurs in opleiding, zoals bedoeld in artikel 10, derde lid, van de regeling. Aan hen kan maximaal voor 12 maanden een geel legitimatiebewijs worden verstrekt. Op dit legitimatiebewijs wordt, zoals bepaald in [artikel 13, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13), onder het kopje ‘Beperking ’ de volgende tekst opgenomen: ‘Uitsluitend werkzaam als particulier rechercheur i.o’.
+### 4.2. Geldigheidsduur legitimatiebewijs
 
 Het oranje legitimatiebewijs is bestemd voor voetbalstewards in het betaald voetbal zoals bedoeld in [artikel 8, eerste lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=8) en voetbalstewards in het amateurvoetbal zoals bedoeld in artikel 8, tweede lid van de regeling.
 
@@ -232,7 +236,9 @@ Het oranje legitimatiebewijs is bestemd voor voetbalstewards in het betaald voet
 
 Alle soorten legitimatiebewijzen zijn na de datum van afgifte maximaal drie jaar geldig. Voor personen in opleiding is dat maximaal 1 jaar. Indien voor een bepaalde categorie een nieuw legitimatiebewijs wordt ingevoerd, hoeft pas over een nieuw legitimatiebewijs te worden beschikt wanneer de geldigheidsduur van de oude pas is verstreken.
 
-### 5. Erkenning van en toezicht op praktijkopleidingen
+Voor legitimatiebewijzen waarvan de geldigheidsduur onder het reguliere beleid in de periode van 1 april 2020 tot 1 september 2020 verloopt, geldt dat deze legitimatiebewijzen hun geldigheid zullen behouden gedurende één jaar volgend op de datum waarop hun geldigheid onder het reguliere beleid zou zijn verlopen.
+
+Praktijkleren dient plaats te vinden in de beroepspraktijk en niet alleen middels simulatie. De invoering van het legitimatiebewijs met een maximale duur van 12 maanden voor die personen die de praktijkopleiding Beveiliger/Cöordinator beveiliging volgen is gekoppeld aan een aantal voorwaarden die moeten voorkomen dat enerzijds misbruik van deze [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256) wordt gemaakt en anderzijds garanderen dat de leerling conform de opleidingseisen in de praktijk wordt opgeleid. Bij de uitoefening van het toezicht wordt de ‘Kwaliteitsbevorderende Dienstverlening’ gehanteerd.
 
 Relevant artikel: [artikel 5, derde lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=5)
 
@@ -240,29 +246,29 @@ De opleiding Beveiliger/Coördinator beveiliging maakt onderdeel uit van de land
 
 Praktijkleren dient plaats te vinden in de beroepspraktijk en niet alleen middels simulatie. De invoering van het legitimatiebewijs met een maximale duur van 12 maanden voor die personen die de praktijkopleiding Beveiliger/Cöordinator beveiliging volgen is gekoppeld aan een aantal voorwaarden die moeten voorkomen dat enerzijds misbruik van deze [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256) wordt gemaakt en anderzijds garanderen dat de leerling conform de opleidingseisen in de praktijk wordt opgeleid. Bij de uitoefening van het toezicht wordt de ‘Kwaliteitsbevorderende Dienstverlening’ gehanteerd.
 
-**eXplain** is verantwoordelijk voor de uitvoering van dit toezicht en voor het ondersteunen van leerbedrijven. Het toezicht vindt plaats door middel van bedrijfscontacten en bedrijfsbezoeken waarbij ten minste aandacht is voor controle op groene legitimatiebewijzen, uniformdracht en het gebruik van het voorgeschreven praktijkmateriaal.
-
-Leerbedrijven die zich niet houden aan de regels kunnen hun erkenning als leerbedrijf kwijtraken. Daarnaast meldt **eXplain** geconstateerde omissies van zaken die betrekking hebben op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) of de cao particuliere beveiliging aan de betreffende toezichthoudende organisatie.
-
-De procedure voor toezicht wordt door **eXplain** periodiek afgestemd met het Ministerie van Veiligheid en Justitie en Veiligheid en Sociaal Fonds Particuliere Beveiliging (SFPB). **eXplain** rapporteert aan SFPB in de vorm van jaarrapportages over het verloop van het toezicht.
-
 ### 6. Uniform
 
-Relevante artikelen: [artikel 9, eerste, tweede en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9); [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=9) en [12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=12).
+Leerbedrijven die zich niet houden aan de regels kunnen hun erkenning als leerbedrijf kwijtraken. Daarnaast meldt **eXplain** geconstateerde omissies van zaken die betrekking hebben op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) of de cao particuliere beveiliging aan de betreffende toezichthoudende organisatie.
 
 ### 6.1. Goedkeuring
 
 Ingevolge [artikel 9, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9) dragen personen, die belast zijn met het uitvoeren van beveiligingswerkzaamheden bij de uitoefening van hun dienst een uniform dat door de Minister van Justitie en Veiligheid is goedgekeurd. Alle soorten en onderdelen van uniformen moeten worden goedgekeurd. Indien hesjes onderdeel uitmaken van het uniform, dienen deze derhalve eveneens goedgekeurd te worden.
 
-Deze goedkeuring kan worden verkregen door kleurenfoto’s over te leggen, waarop de uitvoering van het uniform met alleen de gebezigde herkenningstekens – het embleem (V-teken) dat door de minister is vastgesteld en het logo van de particuliere beveiligingsorganisatie – duidelijk zichtbaar zijn.
+Relevante artikelen: [artikel 9, eerste, tweede en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9); [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=9) en [12 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=12).
 
 Het uniform zal niet worden goedgekeurd indien het lijkt op dat van de politie. Op het uniform mogen derhalve niet de voor de politie kenmerkende felgele strepen en witgrijze blokken worden aangebracht. Een pantalon die is uitgevoerd in kleuren die een sterke gelijkenis vertonen met de kleuren die de politie gebruikt, mag niet zijn voorzien van zakken aan de zijkant met een grijs opschrift. Zo mag ook een eventueel gebruikte overhemd, polo, vest en cap geen sterke gelijkenis vertonen met de bovenkleding die de politie gebruikt. Op het uniform mogen geen rangonderscheidingstekens zijn aangebracht. Ook de herkenningstekens (vignetten, emblemen of logo’s) mogen geen gelijkenis vertonen met de vignetten van de politie. Dit betekent dat uniformen die zijn voorzien van goud – geel of koperkleurige emblemen niet worden goedgekeurd. Het in het politie-embleem tot uitdrukking komende symbool van het wetboek en de vlam, is als embleem voor een particuliere beveiligingsorganisatie niet toegestaan en zal slechts -onnodige – verwarring bij het publiek veroorzaken. Aan uniformen die van een dergelijk embleem of van een daarop gelijkend embleem zijn voorzien, wordt daarom geen goedkeuring verleend.
+
+Ingevolge [artikel 9, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9) dragen personen, die belast zijn met het uitvoeren van beveiligingswerkzaamheden bij de uitoefening van hun dienst een uniform dat door de Minister van Justitie en Veiligheid is goedgekeurd. Alle soorten en onderdelen van uniformen moeten worden goedgekeurd. Indien hesjes onderdeel uitmaken van het uniform, dienen deze derhalve eveneens goedgekeurd te worden.
+
+Deze goedkeuring kan worden verkregen door kleurenfoto’s over te leggen, waarop de uitvoering van het uniform met alleen de gebezigde herkenningstekens – het embleem (V-teken) dat door de minister is vastgesteld en het logo van de particuliere beveiligingsorganisatie – duidelijk zichtbaar zijn.
+
+### 6.2. Ontheffing
 
 Elk uniform dient te zijn voorzien van een herkenningsteken van de particuliere beveiligingsorganisatie, zodat voor iedereen duidelijk is met welke particuliere beveiligingsorganisatie zij te maken hebben.
 
 Alle uniformen moeten eveneens zijn voorzien van het door de Minister van Justitie en Veiligheid vastgestelde embleem. Dit is opgenomen in [bijlage 1a bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A).
 
-### 6.2. Ontheffing
+In uitzonderlijke gevallen kan van de uniformdraagplicht tevens ontheffing worden verleend indien naar het oordeel van de korpschef geüniformeerd optreden provocerend of anderszins minder zinvol zou werken. Voorbeelden zijn popconcerten, recepties en tentoonstellingen.
 
 De korpschef, of de Commandant van de Koninklijke Marechaussee indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, kan op grond van [artikel 12, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=12) voor een regionale eenheid of meerdere regionale eenheden of het gehele land of een luchtvaartterrein ontheffing verlenen van de uniformdraagplicht.
 
@@ -270,29 +276,29 @@ De ontheffing kan slechts worden verleend indien de beveiliger in het bezit is v
 
 In uitzonderlijke gevallen kan van de uniformdraagplicht tevens ontheffing worden verleend indien naar het oordeel van de korpschef geüniformeerd optreden provocerend of anderszins minder zinvol zou werken. Voorbeelden zijn popconcerten, recepties en tentoonstellingen.
 
-De korpschef en de Commandant van de Koninklijke Marechaussee kunnen voorschriften aan de ontheffing verbinden. Deze voorschriften hebben betrekking op de instructie van het personeel.
+### 7. Inlenen van personeel door beveiligingsorganisatie
 
 Bij ontheffing ten behoeve van het verminderen van winkeldiefstal wordt bezien welke preventieve maatregelen de winkelier al heeft getroffen om winkeldiefstal tegen te gaan. Bij het verlenen van de ontheffing voor dit doel geldt als voorwaarde dat er sprake dient te zijn van een evenwichtige verhouding tussen de inzet van geüniformeerde en ongeüniformeerde beveiligers. Bijzondere aandacht bij de instructie van het personeel in deze gevallen dient te worden gegeven aan de handelwijze bij het aanhouden van personen. De ongeüniformeerde beveiliger dient zich tegenover de aangehouden persoon onverwijld als particulier beveiliger te legitimeren.
 
 De verlening van ontheffing van de uniformplicht is gebonden aan een termijn.
 
-### 7. Inlenen van personeel door beveiligingsorganisatie
+De voorgaande uitzondering op de geldende regels met betrekking tot het te dragen uniform en legitimatiebewijs van de inlenende beveiligingsorganisatie, kan alleen worden gemaakt indien het een beveiligingsorganisatie betreft van dezelfde categorie zoals bedoeld in [artikel 3 onder a tot en met e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3). Het kan niet zo zijn dat het door een beveiligingsbedrijf ingeleende personeel een pas en uniform heeft van bijvoorbeeld een bedrijfsbeveiligingsdienst, een geld- en waardetransportbedrijf of een particuliere alarmcentrale.
 
 Beveiligingsorganisaties hebben regelmatig extra personeel nodig en lenen personeel in van een andere beveiligingsorganisaties. Dat kan, mits aan de reguliere voorwaarden voor het tewerkstellen van personeel is voldaan. Zo dient het ingeleende personeel over een uniform en het legitimatiebewijs te beschikken van de inlenende organisatie. Het is in het belang van de veiligheidssector dat voor de burger en voor de politie duidelijk is welke particuliere beveiligingsorganisatie verantwoordelijk is voor de (uitgevoerde) werkzaamheden. Die duidelijkheid wordt op deze manier bereikt.
 
-Denkbaar is dat het dragen van een uniform en legitimatiebewijs van de inlenende beveiligingsorganisatie gelet op de omstandigheden van het geval geen reële optie is, bijvoorbeeld vanwege grote spoed bij het inlenen van personeel. In dat geval is inlenen niettemin mogelijk, mits de inlenende beveiligingsorganisatie de politie informeert over het feit dat personeel van een andere beveiligingsorganisatie wordt ingeleend, hoeveel personeelsleden het betreft, alsmede over de manier waarop de verantwoordelijkheden tussen de inlenende en de uitlenende beveiligingsorganisatie zijn georganiseerd. Het gaat hierbij om een uitzonderingssituatie, welke slechts in enkele gevallen gelet op de omstandigheden van het geval is toegestaan.
+### 8. Handboeien
 
 De voorgaande uitzondering op de geldende regels met betrekking tot het te dragen uniform en legitimatiebewijs van de inlenende beveiligingsorganisatie, kan alleen worden gemaakt indien het een beveiligingsorganisatie betreft van dezelfde categorie zoals bedoeld in [artikel 3 onder a tot en met e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3). Het kan niet zo zijn dat het door een beveiligingsbedrijf ingeleende personeel een pas en uniform heeft van bijvoorbeeld een bedrijfsbeveiligingsdienst, een geld- en waardetransportbedrijf of een particuliere alarmcentrale.
 
 De hiervoor genoemde uitzondering geldt niet voor recherchebureaus. Ingeleend personeel van een recherchebureau zal altijd moeten zijn voorzien van een legitimatiebewijs van het inlenende bureau. De recherchesector is anders van aard dan de beveiligingssector. Vanwege het feit dat recherchebureaus veel met vertrouwelijke (persoons)gegevens werken, is het ad hoc uitwisselen van personeel zonder dat wordt voldaan aan de regels met betrekking tot het legitimatiebewijs, niet gewenst.
 
-### 8. Handboeien
+Toestemming kan slechts worden verleend wanneer van de noodzaak tot het dragen van handboeien en van de bekwaamheid in het aanleggen ervan is gebleken. De noodzaak tot het beschikken van de bevoegdheid handboeien te dragen en van de bekwaamheid in het aanleggen van handboeien moet door de aanvrager worden aangetoond.
 
 Relevante artikelen: [artikel 9, derde, vierde, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9).
 
 Beveiligingsorganisaties en recherchebureaus moeten er zorg voor dragen dat hun personeel tijdens de beveiligings- of recherchewerkzaamheden geen handboeien draagt. Op deze hoofdregel is slechts uitzondering mogelijk wanneer de Minister van Justitie en Veiligheid toestemming heeft verleend voor het dragen van handboeien. Dit komt voort uit de gedachte dat, gelet op de verschillende belangen die zij dienen, het werk van particuliere organisaties nooit een vervanging kan zijn van het werk van de politie, Met het verlenen van toestemming zal derhalve grote terughoudendheid worden betracht.
 
-Toestemming kan slechts worden verleend wanneer van de noodzaak tot het dragen van handboeien en van de bekwaamheid in het aanleggen ervan is gebleken. De noodzaak tot het beschikken van de bevoegdheid handboeien te dragen en van de bekwaamheid in het aanleggen van handboeien moet door de aanvrager worden aangetoond.
+### 9. Certificering particuliere alarmcentrales en videotoezichtcentrales
 
 Bij de beantwoording van de vraag of de noodzaak in een bepaald geval aanwezig en het dragen van handboeien geïndiceerd is, wordt een restrictief beleid gehanteerd. Dit beleid laat zich verwoorden als een ‘nee, tenzij’ standpunt. Elk verzoek zal opnieuw aan de hand van alle criteria afzonderlijk beoordeeld moeten worden. Naar aanleiding van een verzoek zal het advies van de korpschef worden ingewonnen.
 
@@ -308,23 +314,23 @@ Uit het certificaat als bedoeld in [artikel 20 van de regeling](https://wetten.o
 
 Relevante artikelen: [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), [artikel 9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=10) en [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=12); [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=12), [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13), [17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=17), [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=22), [24, tweede en derde lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=24).
 
-Hetgeen in deze beleidsregels ten aanzien van de korpschef is bepaald, geldt tevens voor de Commandant van de Koninklijke Marechaussee voor zover deze bevoegdheden heeft ten aanzien van beveiligingsorganisaties of recherchebureaus die zijn gevestigd op luchtvaartterreinen.
-
-### 11. Handhaving
-
-Relevante artikelen: [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=16) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=17).
-
 ### 11.1. Algemeen
 
 Indien een particuliere beveiligingsorganisatie of recherchebureau de bepalingen genoemd in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=15) niet naleeft, zijn er drie bestuurlijke sancties uitvoerbaar. Namelijk een waarschuwing, het opleggen van een bestuurlijke boete en het intrekken van de vergunning.
 
-De waarschuwing is een effectieve en proportionele sanctie, bij zeer lichte overtredingen.
+Relevante artikelen: [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=16) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=17).
+
+Indien bij geconstateerde overtreding(en) van regels bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) een waarschuwing als een ineffectieve sanctie moet worden beschouwd en intrekking niet proportioneel is, is de bestuurlijke boete het geschikte middel tot sanctionering.
+
+Indien een particuliere beveiligingsorganisatie of recherchebureau de bepalingen genoemd in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=15) niet naleeft, zijn er drie bestuurlijke sancties uitvoerbaar. Namelijk een waarschuwing, het opleggen van een bestuurlijke boete en het intrekken van de vergunning.
+
+### 11.2. Bestuurlijke boete
 
 Indien bij geconstateerde overtreding(en) van regels bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) een waarschuwing als een ineffectieve sanctie moet worden beschouwd en intrekking niet proportioneel is, is de bestuurlijke boete het geschikte middel tot sanctionering.
 
 De intrekking van een vergunning heeft zeer vergaande gevolgen, vanwege het feit dat een bedrijf in zijn geheel de beveiligings- of recherchewerkzaamheden dient te staken. Deze sanctie is geschikt voor zware veronachtzaming van de regels gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
 
-### 11.2. Bestuurlijke boete
+De overtredingen zijn voor wat betreft de ernst daarvan te onderscheiden in drie categorieën:
 
 **Overtredingen**
 
@@ -356,15 +362,15 @@ Goede afstemming met Minister van Justitie en Veiligheid en Politie
 
 Administratieve nalatigheid.
 
-Categorie I: maximum boete € 11.250
+### 12.3. Intrekking
 
 Categorie II: maximum boete € 7.000
 
 Categorie III: maximum boete € 1.000.
 
-### 12.3. Intrekking
+Een voorbeeld van de als eerst genoemde optie is het herhaaldelijk begaan van overtredingen, ondanks dat er eerder een boete is opgelegd. Onder punt 2 valt de constatering van zeer ernstige overtredingen zoals het kopen van informatie van politieambtenaren door beveiligingsorganisaties en recherchebureaus en de constatering van een dusdanig groot aantal overtredingen binnen één organisatie, dat naar redelijke verwachting niet op korte termijn zal worden voldaan aan de in de vergunning opgenomen voorwaarden en de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) en regelgeving gestelde eisen.
 
-De Minister van Justitie en Veiligheid kan op grond van de in [artikel 14, onder a tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=14) genoemde redenen een vergunning intrekken.
+### 13. Particuliere beveiligingsorganisaties en recherchebureaus die geen vestiging hebben in Nederland
 
 Het recht van de Minister van Justitie en Veiligheid om conform [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=14) de vergunning in te trekken, wordt onverminderd toegepast in de gevallen, genoemd in artikel 14 onder c, d en f van de wet. In de gevallen, genoemd in artikel 14 onder a, b en e van de wet zal de Minister van Justitie en Veiligheid een afweging maken, waarbij beoordeeld zal worden of de situatie dermate ernstig is dat de vergunning dient te worden ingetrokken. Dit is het geval wanneer:
 
@@ -373,6 +379,66 @@ Een voorbeeld van de als eerst genoemde optie is het herhaaldelijk begaan van ov
 ### 13. Particuliere beveiligingsorganisaties en recherchebureaus die geen vestiging hebben in Nederland
 
 Bij verzoeken van particuliere beveiligingsorganisaties en recherchebureaus gevestigd in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, wordt rekening gehouden met de verplichtingen waaraan in het land van vestiging reeds moet worden voldaan welke een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+
+### 15. Citeertitel
+
+Dit besluit wordt aangehaald als Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019.
+
+### 16. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Dit besluit wordt in de Staatscourant geplaatst.
+
+Voor toestemmingen waarvan de geldigheidsduur onder het reguliere beleid in de periode van 1 april 2020 tot 1 september 2020 verloopt, geldt dat deze toestemmingen hun geldigheid zullen behouden gedurende één jaar volgend op de datum waarop hun geldigheid onder het reguliere beleid zou zijn verlopen.
+
+### 3.6. Verklaring van betrouwbaarheid
+
+Voor de afgifte van een verklaring van betrouwbaarheid worden geen kosten in rekening gebracht.
+
+### 4.1. Uitvoering
+
+Het gele legitimatiebewijs is bestemd voor personen die recherchewerkzaamheden mogen verrichten en in het bezit zijn van een diploma als bedoeld in [artikel 10, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=10). Het gele legitimatiebewijs kan eveneens worden verstrekt aan particuliere rechercheurs in opleiding, zoals bedoeld in artikel 10, derde lid, van de regeling. Aan hen kan maximaal voor 12 maanden een geel legitimatiebewijs worden verstrekt. Op dit legitimatiebewijs wordt, zoals bepaald in [artikel 13, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&artikel=13), onder het kopje ‘Beperking ’ de volgende tekst opgenomen: ‘Uitsluitend werkzaam als particulier rechercheur i.o’.
+
+### 5. Erkenning van en toezicht op praktijkopleidingen
+
+**eXplain** is verantwoordelijk voor de uitvoering van dit toezicht en voor het ondersteunen van leerbedrijven. Het toezicht vindt plaats door middel van bedrijfscontacten en bedrijfsbezoeken waarbij ten minste aandacht is voor controle op groene legitimatiebewijzen, uniformdracht en het gebruik van het voorgeschreven praktijkmateriaal.
+
+De procedure voor toezicht wordt door **eXplain** periodiek afgestemd met het Ministerie van Veiligheid en Justitie en Veiligheid en Sociaal Fonds Particuliere Beveiliging (SFPB). **eXplain** rapporteert aan SFPB in de vorm van jaarrapportages over het verloop van het toezicht.
+
+### 6. Uniform
+
+### 6.1. Goedkeuring
+
+Het uniform zal niet worden goedgekeurd indien het lijkt op dat van de politie. Op het uniform mogen derhalve niet de voor de politie kenmerkende felgele strepen en witgrijze blokken worden aangebracht. Een pantalon die is uitgevoerd in kleuren die een sterke gelijkenis vertonen met de kleuren die de politie gebruikt, mag niet zijn voorzien van zakken aan de zijkant met een grijs opschrift. Zo mag ook een eventueel gebruikte overhemd, polo, vest en cap geen sterke gelijkenis vertonen met de bovenkleding die de politie gebruikt. Op het uniform mogen geen rangonderscheidingstekens zijn aangebracht. Ook de herkenningstekens (vignetten, emblemen of logo’s) mogen geen gelijkenis vertonen met de vignetten van de politie. Dit betekent dat uniformen die zijn voorzien van goud – geel of koperkleurige emblemen niet worden goedgekeurd. Het in het politie-embleem tot uitdrukking komende symbool van het wetboek en de vlam, is als embleem voor een particuliere beveiligingsorganisatie niet toegestaan en zal slechts -onnodige – verwarring bij het publiek veroorzaken. Aan uniformen die van een dergelijk embleem of van een daarop gelijkend embleem zijn voorzien, wordt daarom geen goedkeuring verleend.
+
+### 6.2. Ontheffing
+
+De korpschef en de Commandant van de Koninklijke Marechaussee kunnen voorschriften aan de ontheffing verbinden. Deze voorschriften hebben betrekking op de instructie van het personeel.
+
+### 7. Inlenen van personeel door beveiligingsorganisatie
+
+Denkbaar is dat het dragen van een uniform en legitimatiebewijs van de inlenende beveiligingsorganisatie gelet op de omstandigheden van het geval geen reële optie is, bijvoorbeeld vanwege grote spoed bij het inlenen van personeel. In dat geval is inlenen niettemin mogelijk, mits de inlenende beveiligingsorganisatie de politie informeert over het feit dat personeel van een andere beveiligingsorganisatie wordt ingeleend, hoeveel personeelsleden het betreft, alsmede over de manier waarop de verantwoordelijkheden tussen de inlenende en de uitlenende beveiligingsorganisatie zijn georganiseerd. Het gaat hierbij om een uitzonderingssituatie, welke slechts in enkele gevallen gelet op de omstandigheden van het geval is toegestaan.
+
+### 8. Handboeien
+
+Toestemming kan slechts worden verleend wanneer van de noodzaak tot het dragen van handboeien en van de bekwaamheid in het aanleggen ervan is gebleken. De noodzaak tot het beschikken van de bevoegdheid handboeien te dragen en van de bekwaamheid in het aanleggen van handboeien moet door de aanvrager worden aangetoond.
+
+Hetgeen in deze beleidsregels ten aanzien van de korpschef is bepaald, geldt tevens voor de Commandant van de Koninklijke Marechaussee voor zover deze bevoegdheden heeft ten aanzien van beveiligingsorganisaties of recherchebureaus die zijn gevestigd op luchtvaartterreinen.
+
+### 11. Handhaving
+
+### 11.1. Algemeen
+
+De waarschuwing is een effectieve en proportionele sanctie, bij zeer lichte overtredingen.
+
+### 11.2. Bestuurlijke boete
+
+Categorie I: maximum boete € 11.250
+
+### 12.3. Intrekking
+
+De Minister van Justitie en Veiligheid kan op grond van de in [artikel 14, onder a tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=14) genoemde redenen een vergunning intrekken.
 
 Indien zich buitenlandse beveiligingsorganisaties of buitenlandse beveiligers bij een regionale eenheid melden, dient contact te worden opgenomen met het Ministerie van Justitie en Veiligheid, Dienst Justis, Afdeling Verlening en Toetsing.
 
