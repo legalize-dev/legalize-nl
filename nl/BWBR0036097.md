@@ -4,7 +4,7 @@ identifier: "BWBR0036097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-04-27"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036097"
 soort: "ministeriele-regeling"
@@ -50,15 +50,21 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 ##### Artikel 2
 
-1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2019-04-27&g=2019-04-27) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2020-04-30&g=2020-04-30) bedoelde bedragen.
 
-2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2019-04-27&g=2019-04-27) bedoelde bedragen.
+2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2020-04-30&g=2020-04-30) bedoelde bedragen.
 
 #### § 3. Doorberekening door middel van toerekening
 
 ##### Artikel 3
 
-Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10) worden de volgende subcategorieën van nummers onderscheiden:
+1. Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel b, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10) worden de volgende subcategorieën onderscheiden:
+
+- a. universele postdienst;
+
+- b. niet-universele postdienst.
+
+2. Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10) worden de volgende subcategorieën van nummers onderscheiden:
 
 - a. subcategorie A, per nummer:
 
@@ -100,7 +106,7 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 - c. nummers bestemd voor elektronische communicatiediensten voor geautomatiseerde toepassingen.
 
-2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2019-04-27&g=2019-04-27). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
+2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2020-04-30&g=2020-04-30). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
@@ -177,9 +183,9 @@ Vervallen
 
 ##### Artikel 7a
 
-1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2019-04-27&g=2019-04-27) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2020-04-30&g=2020-04-30) bedoelde bedragen.
 
-2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2019-04-27&g=2019-04-27) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
+2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2020-04-30&g=2020-04-30) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
 
 #### § 4. Wijziging van andere regelingen
 
@@ -201,7 +207,7 @@ Vervallen
 | Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
 | Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
 
-## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2019-04-27&g=2019-04-27), van de Regeling doorberekening kosten ACM
+## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2020-04-30&g=2020-04-30), van de Regeling doorberekening kosten ACM
 
 | Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
 | --- | --- |
@@ -221,24 +227,26 @@ Het aantal transacties waaronder geen kosten in rekening worden gebracht aan mar
 
 #### § 5. Slotbepalingen
 
-## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2019-04-27&g=2019-04-27), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2019-04-27&g=2019-04-27), van de Regeling doorbereking kosten ACM
+## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2020-04-30&g=2020-04-30), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2020-04-30&g=2020-04-30), van de Regeling doorbereking kosten ACM
 
 ### C
 
-## Bijlage 3. Behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2019-04-27&g=2019-04-27), van de Regeling doorberekening kosten ACM
+## Bijlage 3. Behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2020-04-30&g=2020-04-30), van de Regeling doorberekening kosten ACM
 
-| Categorie | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend in 2019 |
+| Categorie (eventueel opgesplitst in subcategorieën) | Bedrag ter vergoeding van de ACM dat met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekeningen worden doorberekend in 2020 |
 | --- | --- |
-| Regionaal netbeheer elektriciteit | 0,02930% van de relevante omzet |
-| Regionaal netbeheer gas | 0,04083% van de relevante omzet |
-| Landelijk netbeheer elektriciteit | € 4.227.467 |
-| Landelijk netbeheer gas | € 2.744.128 |
-| Warmtelevering | 0,13984% van de relevante omzet |
-| Universele postdienst | € 85.652 |
-| Niet-universele postdienst | 0,14943% van de relevante omzet |
-| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten | 0,02839% van de relevante omzet |
-| Loodswezen | € 174.557 |
-| Luchtvaart | 0,05877% van de relevante omzet |
-| Financieel betalingsverkeer | € 454,38 per 50.000.000 binnenlandse betaaltransacties |
+| Regionaal netbeheer elektriciteit | 0,03583% van de relevante omzet |
+| Regionaal netbeheer gas | 0,11768% van de relevante omzet |
+| Landelijk netbeheer elektriciteit | € 4.910.165 |
+| Landelijk netbeheer gas | € 1.970.993 |
+| Warmtelevering | 0,28942% van de relevante omzet |
+| Universele postdienst | € 43.003 |
+| Niet-universele postdienst | 0,10842% van de relevante omzet |
+| Verplichtingen op grond van Verordening (EU) nr. 2018/644 van het Europees Parlement en de Raad van 18 april 2018 betreffende grensoverschrijdende pakketdiensten (PbEU 2018, L 112) met betrekking tot de universele postdienst | € 47.084 |
+| Verplichtingen op grond van Verordening (EU) nr. 2018/644 van het Europees Parlement en de Raad van 18 april 2018 betreffende grensoverschrijdende pakketdiensten (PbEU 2018, L 112) met betrekking tot de niet-universele postdienst | 0,00044% van de relevante omzet |
+| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten | 0,03496% van de relevante omzet |
+| Loodswezen | € 204.144 |
+| Luchtvaart | 0,05734% van de relevante omzet |
+| Financieel betalingsverkeer | € 628,62 per 50.000.000 binnenlandse betaaltransacties |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
