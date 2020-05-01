@@ -4,7 +4,7 @@ identifier: "BWBR0026589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2020-02-12"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026589"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2020-02-12&g=2020-02-12);
+- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2020-02-12&g=2020-05-01);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -164,7 +164,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-02-12), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -192,7 +192,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - b. overeenkomsten met betrekking tot multi-copiers;
 
-- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2020-02-12&g=2020-02-12);
+- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2020-02-12&g=2020-05-01);
 
 - d. overeenkomsten met betrekking tot de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;
 
@@ -228,7 +228,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. In afwijking van het eerste lid kunnen de directeuren bevoegdheden met betrekking tot personeelsaangelegenheden, genoemd in het eerste lid, onderdelen a tot en met d, doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
-3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-02-12), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
+3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
 4. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan functionarissen die rechtstreeks onder hem ressorteren, ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder hem ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
@@ -242,7 +242,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 ##### Artikel 10
 
-Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-02-12), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2020-02-12&g=2020-02-12) van deze regeling.
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2020-02-12&g=2020-05-01) van deze regeling.
 
 ##### Artikel 11
 
@@ -276,15 +276,15 @@ Door vernummering vervallen.
 
 - f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
 
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2020-02-12&g=2020-02-12), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2020-02-12&g=2020-05-01), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
 
-4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2020-02-12&g=2020-02-12).
+4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2020-02-12&g=2020-05-01).
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 10a
 
-Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-02-12), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2020-02-12&g=2020-02-12) van deze regeling.
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2020-02-12&g=2020-05-01) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -360,7 +360,7 @@ Vervallen
 
 Vervallen
 
-#### § 4. Bevoegdheden directeuren
+#### § 4. Bevoegdheden directeuren en afdelingshoofden
 
 ##### Artikel 7c
 
@@ -371,6 +371,42 @@ Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. Bevoegdheden directeuren en afdelingshoofden
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6h
+
+1. De directeur van de directie CIO-Office en Integrale Veiligheid is onverminderd het bepaalde in [Beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512), artikel 4 derde lid en de Algemene Verordening Gegevensbescherming, artikel 37 eerste lid, verantwoordelijk voor:
+
+- a. het adviseren over informatievoorziening, beleidstrajecten met een Informatievoorziening of ICT-component, de ICT-projecten, het portfolio-management voor het ministerie, veiligheid en privacy mede op basis van de rijksbrede kaders;
+
+- b. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
+
+- c. het bewaken van de samenhang in de informatievoorziening en ICT bij het ministerie door het opstellen en implementeren van de departementale strategie en beleidsvisie op de aandachtsgebieden van de directie;
+
+- d. het verdelen van het departementale ICT-budget binnen het ministerie in afstemming met de directie Financieel-Economische Zaken, het voeren van de control daarover en rapportage aan de plaatsvervangend Secretaris-Generaal;
+
+- e. het adviseren van het ministerie over ICT-projecten, alsmede over de start, het opschorten of bijsturen tijdens de uitvoering van die projecten;
+
+- f. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten;
+
+- g. het genereren van beleidsinformatie op de aandachtsgebieden van de directie;
+
+- h. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de directie;
+
+- i. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de directie;
+
+- j. het houden van toezicht op de naleving van de kaders en regelingen binnen het ministerie op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
+
+- k. het adviseren van de eigenaar en opdrachtgevers van de Sociale Verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen over de aandachtsgebieden van de directie;
+
+2. De directeur CIO-office en Integrale Veiligheid is tevens CIO van het ministerie SZW. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal en de directeuren-generaal over informatievoorziening en ICT in brede zin.
+
+##### Artikel 7d
+
+Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal besluit de plaatsvervangend secretaris-generaal, voor de duur van de afwezigheid of verhindering, welke directeur diens taken en bevoegdheden waarneemt.
 
 #### § 5. Slotbepalingen
 
