@@ -4,7 +4,7 @@ identifier: "BWBR0031617"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-04-01"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031617"
 soort: "ministeriele-regeling-BES"
@@ -48,7 +48,7 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder**besluit** : [Besl
 
 ##### Artikel 1:2. (tarieven eenmalige toezichthandelingen)
 
-1. Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=1&z=2020-01-01&g=2020-01-01) toepasselijke tarief verschuldigd.
+1. Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=1&z=2020-05-01&g=2020-05-01) toepasselijke tarief verschuldigd.
 
 2. De toezichtautoriteit brengt het tarief, bedoeld in het eerste lid, voor zover mogelijk, direct na ontvangst van de aanvraag in rekening.
 
@@ -56,11 +56,11 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder**besluit** : [Besl
 
 ##### Artikel 1:3. (tarieven doorlopende toezichtkosten)
 
-Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), is jaarlijks het ingevolge [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=2&z=2020-01-01&g=2020-01-01) toepasselijke tarief verschuldigd.
+Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), is jaarlijks het ingevolge [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=2&z=2020-05-01&g=2020-05-01) toepasselijke tarief verschuldigd.
 
 ##### Artikel 1:4. (vrijstelling assurantiebemiddelaars)
 
-Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:3&z=2020-01-01&g=2020-01-01), voor zover:
+Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:3&z=2020-05-01&g=2020-05-01), voor zover:
 
 - a. hun werkzaamheden slechts betrekking hebben op schadebehandeling of de incasso van premies;
 
@@ -130,7 +130,7 @@ De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden besche
 
 ##### Artikel 2:4. (prospectus beleggingsinstellingen)
 
-Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), bevat ten minste de gegevens die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=3&z=2020-01-01&g=2020-01-01).
+Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), bevat ten minste de gegevens die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=3&z=2020-05-01&g=2020-05-01).
 
 ##### Artikel 2:5. (normbedragen kredietwaardigheidstoets)
 
@@ -139,17 +139,17 @@ De normbedragen en de daarin begrepen woonlasten, bedoeld in [artikel 7:17, zesd
 | Aantal personen afhankelijk van het inkomen van de aanvrager (incl. aanvrager) | Normbedrag (USD) | Normbedrag (USD) | Normbedrag (USD) | Standaard woonlasten (USD) | Standaard woonlasten (USD) | Standaard woonlasten (USD) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aantal personen afhankelijk van het inkomen van de aanvrager (incl. aanvrager) | Bonaire | Statia | Saba | Bonaire | Statia | Saba |
-| 1 volwassene | 716 | 767 | 725 | 113 | 121 | 114 |
-| 1 volwassene, 1 kind | 931 | 997 | 942 | 146 | 156 | 148 |
-| 2 volwassenen | 1.075 | 1.150 | 1.087 | 168 | 180 | 170 |
-| 1 volwassene, 2 kinderen | 1.145 | 1.226 | 1.159 | 180 | 193 | 182 |
-| 2 volwassenen, 1 kind | 1.289 | 1.380 | 1.304 | 203 | 217 | 205 |
-| 3 volwassenen | 1.432 | 1.533 | 1.448 | 224 | 241 | 228 |
-| 2 volwassenen, 2 kinderen | 1.503 | 1.610 | 1.521 | 237 | 253 | 239 |
+| 1 volwassene | 725 | 773 | 728 | 114 | 121 | 115 |
+| 1 volwassene, 1 kind | 943 | 1004 | 947 | 148 | 157 | 149 |
+| 2 volwassenen | 1089 | 1158 | 1093 | 170 | 182 | 171 |
+| 1 volwassene, 2 kinderen | 1160 | 1235 | 1165 | 182 | 194 | 183 |
+| 2 volwassenen, 1 kind | 1306 | 1390 | 1311 | 205 | 218 | 206 |
+| 3 volwassenen | 1450 | 1544 | 1456 | 227 | 243 | 229 |
+| 2 volwassenen, 2 kinderen | 1522 | 1622 | 1529 | 240 | 255 | 240 |
 
 ##### Artikel 2:6. (prospectus bij aanbieden effecten)
 
-Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1), bevat ten minste de gegevens die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=4&z=2020-01-01&g=2020-01-01).
+Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1), bevat ten minste de gegevens die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=4&z=2020-05-01&g=2020-05-01).
 
 ##### Artikel 2:7. (erkende effectenbeurzen)
 
@@ -231,7 +231,7 @@ De bepalingen van deze paragraaf zijn niet van toepassing op:
 
 ##### Artikel 3:7. (geldovermakingen naar het buitenland)
 
-Indien de betalingsdienstaanbieders van de begunstigden buiten de openbare lichamen zijn gevestigd, is bij blokovermakingen die afkomstig zijn van één betaler [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2020-01-01&g=2020-01-01), niet van toepassing op de gebundelde afzonderlijke geldovermakingen, mits het batchbestand de in dat lid bedoelde informatie bevat en bij de afzonderlijke geldovermakingen het rekeningnummer van de betaler of een unieke identificatiecode is gevoegd.
+Indien de betalingsdienstaanbieders van de begunstigden buiten de openbare lichamen zijn gevestigd, is bij blokovermakingen die afkomstig zijn van één betaler [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2020-05-01&g=2020-05-01), niet van toepassing op de gebundelde afzonderlijke geldovermakingen, mits het batchbestand de in dat lid bedoelde informatie bevat en bij de afzonderlijke geldovermakingen het rekeningnummer van de betaler of een unieke identificatiecode is gevoegd.
 
 ##### Artikel 3:8. (ontbrekende informatie over de betaler)
 
@@ -241,11 +241,11 @@ Een betalingsdienstaanbieder beschikt over procedures en maatregelen die ertoe s
 
 1. De betalingsdienstaanbieder van de begunstigde controleert of de velden voor informatie over de betaler in het berichtensysteem of het betalings- en afwikkelingssysteem dat voor de geldovermaking gebruikt wordt, zijn ingevuld met karakters of invoer die toegelaten zijn volgens de procedures van het berichten- of het betalings- en afwikkelingssysteem. Deze betalingsdienstaanbieder beschikt over effectieve procedures om het ontbreken van de volgende informatie over de betaler op te merken:
 
-- a. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler in een openbaar lichaam is gevestigd, de uit hoofde van [artikel 3:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2020-01-01&g=2020-01-01), vereiste informatie;
+- a. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler in een openbaar lichaam is gevestigd, de uit hoofde van [artikel 3:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2020-05-01&g=2020-05-01), vereiste informatie;
 
-- b. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2020-01-01&g=2020-01-01), bedoelde volledige informatie over de betaler, of, in voorkomend geval, de uit hoofde van [artikel 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:13&z=2020-01-01&g=2020-01-01) vereiste informatie.
+- b. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2020-05-01&g=2020-05-01), bedoelde volledige informatie over de betaler, of, in voorkomend geval, de uit hoofde van [artikel 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:13&z=2020-05-01&g=2020-05-01) vereiste informatie.
 
-2. Bij blokovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, dient de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2020-01-01&g=2020-01-01), bedoelde volledige informatie over de betaler alleen in de blokovermaking te staan, en niet bij de daarin gebundelde afzonderlijke geldovermakingen.
+2. Bij blokovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, dient de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2020-05-01&g=2020-05-01), bedoelde volledige informatie over de betaler alleen in de blokovermaking te staan, en niet bij de daarin gebundelde afzonderlijke geldovermakingen.
 
 ##### Artikel 3:10. (onvolledige informatie)
 
@@ -285,7 +285,7 @@ Een instelling beschikt over procedures en maatregelen die waarborgen dat zij op
 
 ##### Artikel 4:2. (inwerkingtreding)
 
-Deze regeling treedt in werking met ingang van 1 juli 2012, met uitzondering van [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2020-01-01&g=2020-01-01), dat in werking treedt met ingang van 1 januari 2013.
+Deze regeling treedt in werking met ingang van 1 juli 2012, met uitzondering van [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2020-05-01&g=2020-05-01), dat in werking treedt met ingang van 1 januari 2013.
 
 ##### Artikel 4:3. (citeertitel)
 
@@ -435,7 +435,7 @@ q: het aantal dagen van de maand waarvan dag d deel uitmaakt.
 
 ## Bijlage 1. Tarieven eenmalige toezichthandelingen
 
-Bijlage als bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:2&z=2020-01-01&g=2020-01-01)
+Bijlage als bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:2&z=2020-05-01&g=2020-05-01)
 
 ### Toezichtautoriteit: DNB
 
@@ -443,17 +443,17 @@ Bijlage als bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ## Bijlage 2. Tarieven doorlopende toezichtkosten
 
-Bijlage als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2020-01-01&g=2020-01-01)
+Bijlage als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2020-05-01&g=2020-05-01)
 
 ## Bijlage 3. Inhoud prospectus beleggingsinstelling
 
-Bijlage als bedoeld in [artikel 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:4&z=2020-01-01&g=2020-01-01)
+Bijlage als bedoeld in [artikel 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:4&z=2020-05-01&g=2020-05-01)
 
 ### I. Gegevens betreffende de personen die verantwoordelijk zijn voor het prospectus
 
 ## Bijlage 4. Inhoud prospectus bij aanbieden effecten
 
-Bijlage als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:6&z=2020-01-01&g=2020-01-01)
+Bijlage als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:6&z=2020-05-01&g=2020-05-01)
 
 ### § 18. Gegevens betreffende de activiteiten van de uitgevende instelling
 
