@@ -4,7 +4,7 @@ identifier: "BWBR0042266"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042266"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zorgplan:** zorgplan als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=7).
 
-### Hoofdstuk 2. Ambulante onvrijwillige zorg
+### Hoofdstuk 1a. Gelijkgestelde ziekten en aandoeningen
 
 ##### Artikel 2.1
 
@@ -182,7 +182,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze van verstrekken van de in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=17) bedoelde gegevens. Bij ministeriële regeling kan hiertoe tevens een format worden vastgesteld.
 
-### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
+### Hoofdstuk 4. Gegevensverwerking
 
 ##### Artikel 5.1
 
@@ -227,5 +227,29 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 7.2
 
 Dit besluit wordt aangehaald als: Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a.1
+
+1. Met een psychogeriatrische aandoening of een verstandelijke handicap worden gelijkgesteld:
+
+- a. het syndroom van Korsakov, indien dit syndroom bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap;
+
+- b. de ziekte van Huntington, indien deze ziekte bij de cliënt zich uit als een neurocognitieve stoornis met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap; en
+
+- c. niet-aangeboren hersenletsel, indien dit letsel bij de cliënt een neurocognitieve stoornis veroorzaakt met daaruit voortkomende significante beperkingen overeenkomstig die van een psychogeriatrische aandoening of een verstandelijke handicap.
+
+2. Of sprake is van een syndroom, ziekte of letsel als bedoeld in het eerste lid, blijkt uit een verklaring van een ter zake kundige arts dan wel uit een indicatiebesluit als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+
+### Hoofdstuk 2. Ambulante onvrijwillige zorg
+
+### Hoofdstuk 3. Eisen deskundigen
+
+### Hoofdstuk 5. Samenstelling en werkwijze van de klachtencommissie
+
+### Hoofdstuk 6. Cliëntenvertrouwenspersoon
+
+### Hoofdstuk 7. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
