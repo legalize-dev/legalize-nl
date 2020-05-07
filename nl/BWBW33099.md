@@ -4,7 +4,7 @@ identifier: "BWBW33099"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-02-01"
-last_updated: "2020-04-01"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBW33099"
 soort: "circulaire"
@@ -156,7 +156,7 @@ Een vreemdeling die in het bezit is van een verblijfsvergunning regulier voor on
 
 Bij een vreemdeling die in het bezit is van een verblijfsvergunning regulier voor bepaalde tijd (wordt verleend onder een beperking), moet nader worden onderzocht of sprake is van toelating voor onbepaalde tijd (dit hangt af van de beperking waaronder de vergunning is verleend dan wel de geldigheidsduur van de vergunning).
 
-Een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd, een sticker of een W-document, heeft nooit toelating voor onbepaalde tijd. Een uitzondering hierop vormen de minderjarige kinderen die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd en voor wie medeverlening wordt verzocht door een ouder die in het bezit is van een verblijfsvergunning asiel voor onbepaalde tijd (zie ook [paragraaf 3.9 bij de toelichting van artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.9&z=2020-04-01&g=2020-04-01)). Uitzondering hierop vormen ook de staatloze verzoekers die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd (zie ook bijlage 2 van de toelichting bij artikel 8, eerste lid, aanhef en onder b, RWN). Hierbij wordt benadrukt dat vermelding in de BRP met ‘nationaliteit onbekend’ (code 0000) niet betekent dat de verzoeker staatloos is. Alleen als de vreemdeling in de BRP als ‘staatloos’ staat geregistreerd bij de nationaliteitsgegevens, geldt de regel dat deze als houder van een verblijfsvergunning asiel voor bepaalde tijd een verblijfsrecht heeft op grond waarvan geen bedenkingen bestaan tegen verblijf voor onbepaalde tijd. De uitzondering die hier aan de orde is, is noodzakelijk omdat een staatloze na drie jaar toelating en hoofdverblijf in Nederland een verzoek om naturalisatie mag indienen ([artikel 8, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)).
+Een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd, een sticker of een W-document, heeft nooit toelating voor onbepaalde tijd. Een uitzondering hierop vormen de minderjarige kinderen die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd en voor wie medeverlening wordt verzocht door een ouder die in het bezit is van een verblijfsvergunning asiel voor onbepaalde tijd (zie ook [paragraaf 3.9 bij de toelichting van artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.9&z=2020-05-07&g=2020-05-07)). Uitzondering hierop vormen ook de staatloze verzoekers die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd (zie ook bijlage 2 van de toelichting bij artikel 8, eerste lid, aanhef en onder b, RWN). Hierbij wordt benadrukt dat vermelding in de BRP met ‘nationaliteit onbekend’ (code 0000) niet betekent dat de verzoeker staatloos is. Alleen als de vreemdeling in de BRP als ‘staatloos’ staat geregistreerd bij de nationaliteitsgegevens, geldt de regel dat deze als houder van een verblijfsvergunning asiel voor bepaalde tijd een verblijfsrecht heeft op grond waarvan geen bedenkingen bestaan tegen verblijf voor onbepaalde tijd. De uitzondering die hier aan de orde is, is noodzakelijk omdat een staatloze na drie jaar toelating en hoofdverblijf in Nederland een verzoek om naturalisatie mag indienen ([artikel 8, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)).
 
 ### 2-3. Toelichting ad artikel 2, derde lid
 
@@ -262,7 +262,7 @@ Minderjarigen van zestien of zeventien jaar moeten uitdrukkelijk verklaren in te
 
 ### 2-4. Toelichting ad artikel 2, vierde lid
 
-Minderjarigen van 16 jaar en ouder moeten vanaf 1 januari 2012 bij een verzoek tot medeverlening van het Nederlanderschap dat is ingediend door een wettelijke vertegenwoordiger, tegelijkertijd met de indiening het verzoek om naturalisatie van de hoofdpersoon, een [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) ‘Verklaring verblijf en gedrag’ ondertekenen. Het zelf ondertekenen van de modelverklaring 2.3 is geen uitzondering op een rechtshandeling als bedoeld in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
+Minderjarigen van 16 jaar en ouder moeten vanaf 1 januari 2012 bij een verzoek tot medeverlening van het Nederlanderschap dat is ingediend door een wettelijke vertegenwoordiger, tegelijkertijd met de indiening het verzoek om naturalisatie van de hoofdpersoon, een [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) ‘Verklaring verblijf en gedrag’ ondertekenen. Het zelf ondertekenen van de modelverklaring 2.3 is geen uitzondering op een rechtshandeling als bedoeld in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
 
 ### paragraaf 3. Wettelijk vertegenwoordiger
 
@@ -476,7 +476,7 @@ Een erkenning van een kind vóór zijn geboorte (als ongeboren vrucht) heeft ook
 
 ### paragraaf 2. Kind geboren vóór 1 januari 1985, Nederlandse vaststelling vaderschap vóór 1 april 2003
 
-Als het gaat om een prenatale of postnatale erkenning naar buitenlands recht, moet deze tot stand zijn gekomen in overeenstemming met de regelen van het Nederlands internationaal privaatrecht. Dit geldt ook voor de buitenlandse wettiging zonder erkenning. Nederland is gebonden aan de CIEC-overeenkomst van Rome 10 september 1970 (TRB. 1972, nr. 61) inzake wettiging door huwelijk (zie verder de [toelichting bij artikel 4, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-04-01&g=2020-04-01)).
+Als het gaat om een prenatale of postnatale erkenning naar buitenlands recht, moet deze tot stand zijn gekomen in overeenstemming met de regelen van het Nederlands internationaal privaatrecht. Dit geldt ook voor de buitenlandse wettiging zonder erkenning. Nederland is gebonden aan de CIEC-overeenkomst van Rome 10 september 1970 (TRB. 1972, nr. 61) inzake wettiging door huwelijk (zie verder de [toelichting bij artikel 4, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-05-07&g=2020-05-07)).
 
 ### paragraaf 3. Kind geboren op of ná 1 januari 1985; Nederlandse vaststelling vaderschap vóór 1 april 2003
 
@@ -952,7 +952,7 @@ Het bestuursorgaan moet binnen dertien weken na inontvangstneming van de optieve
 
 De datum op de schriftelijke bevestiging door het bestuursorgaan bepaalt het tijdstip waarop het Nederlanderschap uiteindelijk (na het meestal op een ná die datum gelegen naturalisatieceremonie afleggen van de verklaring van verbondenheid en de uitreiking van het besluit) wordt verkregen. De verkrijging van de Nederlandse nationaliteit door bevestiging van optie heeft geen terugwerkende kracht (zie [artikel 2, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2)).
 
-Als achteraf blijkt dat de optieverklaring ten onrechte is bevestigd, is weliswaar het Nederlanderschap verkregen, maar kan de Nederlandse nationaliteit worden ingetrokken door Onze Minister. Dit kan echter alleen als de verkrijging van de Nederlandse nationaliteit berust op een door de optant gegeven valse verklaring of bedrog dan wel op het verzwijgen van een voor de verkrijging relevant feit. Met andere woorden, fouten aan de zijde van de overheid zullen de optant niet worden tegengeworpen (zie ook de [toelichting bij artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=14&z=2020-04-01&g=2020-04-01)).
+Als achteraf blijkt dat de optieverklaring ten onrechte is bevestigd, is weliswaar het Nederlanderschap verkregen, maar kan de Nederlandse nationaliteit worden ingetrokken door Onze Minister. Dit kan echter alleen als de verkrijging van de Nederlandse nationaliteit berust op een door de optant gegeven valse verklaring of bedrog dan wel op het verzwijgen van een voor de verkrijging relevant feit. Met andere woorden, fouten aan de zijde van de overheid zullen de optant niet worden tegengeworpen (zie ook de [toelichting bij artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=14&z=2020-05-07&g=2020-05-07)).
 
 De optant die niet voldoet aan alle voorwaarden, wordt geadviseerd geen optieverklaring af te leggen. Voor de uiteindelijke beoordeling of aan de voorwaarden wordt voldaan, is het moment van de bevestiging van de optie bepalend.
 
@@ -1136,7 +1136,7 @@ Op grond van [artikel 6, eerste lid, aanhef en onder f, RWN](https://wetten.over
 
 Of sprake is van een verblijfsgat is op zich een vreemdelingrechtelijke vraag. Ter verduidelijking wordt hierover het volgende opgemerkt. Verlenging van de geldigheidsduur van een verblijfsvergunning vindt plaats met ingang van de dag waarop de vreemdeling heeft aangetoond dat hij voldoet aan de voorwaarden.
 
-In de BRP zijn op de persoonslijst van een vreemdeling de historische en actuele gegevens in verband met het verblijfsrecht van de vreemdeling opgenomen. De burgemeester onderzoekt aan de hand van het verblijfsdocument in samenhang met de gegevens in de BRP de verblijfsrechtelijke status van een vreemdeling en van de personen voor wie medeverkrijging/medeverlening is verzocht ([artikel 10, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=10) en [artikel 36, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Of wordt voldaan aan de vereiste periode van onafgebroken toelating zal de burgemeester in veel gevallen kunnen afleiden uit het verblijfsdocument en de gegevens in de BRP. In andere gevallen zal de duur van de onafgebroken toelating alleen kunnen worden beoordeeld door de Immigratie- en Naturalisatiedienst (IND) aan de hand van gegevens in de vreemdelingenadministratie (zo nodig in combinatie met het verblijfsdocument). In die situatie zal de burgemeester de Immigratie- en Naturalisatiedienst (IND) verzoeken ([model 2.17 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)) om aan hem een bericht omtrent toelating af te geven. Het is overigens de bedoeling dat een bericht omtrent toelating alleen wordt gevraagd als de burgemeester niet of in onvoldoende mate beschikt over voldoende gegevens. Ook in gevallen waarbij de gegevens in de BRP en het overgelegde verblijfsdocument elkaar tegenspreken of er anderszins omstandigheden zijn waardoor gerede twijfel bestaat over de juiste verblijfsrechtelijke positie van de vreemdeling, moet een bericht omtrent toelating worden gevraagd.
+In de BRP zijn op de persoonslijst van een vreemdeling de historische en actuele gegevens in verband met het verblijfsrecht van de vreemdeling opgenomen. De burgemeester onderzoekt aan de hand van het verblijfsdocument in samenhang met de gegevens in de BRP de verblijfsrechtelijke status van een vreemdeling en van de personen voor wie medeverkrijging/medeverlening is verzocht ([artikel 10, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=10) en [artikel 36, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Of wordt voldaan aan de vereiste periode van onafgebroken toelating zal de burgemeester in veel gevallen kunnen afleiden uit het verblijfsdocument en de gegevens in de BRP. In andere gevallen zal de duur van de onafgebroken toelating alleen kunnen worden beoordeeld door de Immigratie- en Naturalisatiedienst (IND) aan de hand van gegevens in de vreemdelingenadministratie (zo nodig in combinatie met het verblijfsdocument). In die situatie zal de burgemeester de Immigratie- en Naturalisatiedienst (IND) verzoeken ([model 2.17 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)) om aan hem een bericht omtrent toelating af te geven. Het is overigens de bedoeling dat een bericht omtrent toelating alleen wordt gevraagd als de burgemeester niet of in onvoldoende mate beschikt over voldoende gegevens. Ook in gevallen waarbij de gegevens in de BRP en het overgelegde verblijfsdocument elkaar tegenspreken of er anderszins omstandigheden zijn waardoor gerede twijfel bestaat over de juiste verblijfsrechtelijke positie van de vreemdeling, moet een bericht omtrent toelating worden gevraagd.
 
 Meer informatie over het verblijfsrecht en toelating van EU/EER of Zwitserse onderdanen dan wel gemeenschapsonderdanen is te vinden in [deel B10 van de Vreemdelingencirculaire 2000](onbekend).
 
@@ -1144,7 +1144,7 @@ Meer informatie over het verblijfsrecht en toelating van EU/EER of Zwitserse ond
 
 De afgifte van een verblijfsdocument aan een gemeenschapsonderdaan heeft een louter declaratoire werking, oftewel de verblijfskaart is slechts een bevestiging van de status die van rechtswege is verkregen. Het kan dus voorkomen dat een gemeenschapsonderdaan niet in het bezit is van een verblijfsdocument en niet voorkomt in de vreemdelingenadministratie of dat een gemeenschapsonderdaan bepaalde periodes niet voorkomt in de vreemdelingenadministratie, maar deze wel degelijk rechtmatig in Nederland verblijft of heeft verbleven. Onafgebroken perioden van verblijf buiten Nederland van meer dan zes maanden leiden echter wel tot verval van het verblijfsrecht van rechtswege.
 
-Voor gemeenschapsonderdanen geldt dat bij een aanvraag om een BOT altijd een kopie van, als aanwezig, het vreemdelingendocument en een afschrift uit de BRP met de volledige in de BRP opgenomen historische adresgegevens en de volledige historische gegevens in verband met het verblijfsrecht meegestuurd dienen te worden. Tevens dienen/dient [model 2.18a HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en/of model 2.18b HRWN volledig ingevuld te worden meegestuurd.
+Voor gemeenschapsonderdanen geldt dat bij een aanvraag om een BOT altijd een kopie van, als aanwezig, het vreemdelingendocument en een afschrift uit de BRP met de volledige in de BRP opgenomen historische adresgegevens en de volledige historische gegevens in verband met het verblijfsrecht meegestuurd dienen te worden. Tevens dienen/dient [model 2.18a HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en/of model 2.18b HRWN volledig ingevuld te worden meegestuurd.
 
 Het begrip ‘hoofdverblijf’ heeft een strikt feitelijke betekenis. Het hoofdverblijf van een persoon is de plaats waar hij kennelijk geregeld vertoeft, daar waar hij het centrum van zijn activiteiten heeft. Te denken valt bijvoorbeeld aan de plaats waar een persoon zijn slaapplaats heeft, waar hij werkelijk woont (met zijn gezin) of waar zijn inboedel zich bevindt. Er moet sprake zijn van een meer duurzame betrekking tussen een persoon en een plaats. Een verblijf van voorbijgaande aard heeft geen betekenis.
 
@@ -1296,7 +1296,7 @@ Op grond van [artikel 27, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:B
 
 Een kind kan het Nederlanderschap zowel via de vader als via de moeder ontlenen aan dit artikellid. Er moet echter wel sprake zijn van een rechte lijn; er mag dus niet halverwege de vaderlijke lijn worden overgesprongen naar de moederlijke lijn of andersom. In feite zijn er dan ook slechts twee – strikt van elkaar gescheiden – mogelijkheden:
 
-Let op! Als vóór 1 april 2003 het vaderschap van een kind gerechtelijk is vastgesteld, kan dat tot gevolg hebben gehad dat het betreffende kind geacht wordt vanaf de geboorte Nederlander te zijn op grond van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) (zie de [toelichting bij artikel 4 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-04-01&g=2020-04-01)).
+Let op! Als vóór 1 april 2003 het vaderschap van een kind gerechtelijk is vastgesteld, kan dat tot gevolg hebben gehad dat het betreffende kind geacht wordt vanaf de geboorte Nederlander te zijn op grond van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) (zie de [toelichting bij artikel 4 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-05-07&g=2020-05-07)).
 
 ### 2. Gezamenlijk gezag op grond van artikel 1:253t BW
 
@@ -1508,7 +1508,7 @@ Als hoofdregel geldt dat bevestiging van de optie wordt geweigerd als er op gron
 
 ### paragraaf 3. Vereiste van opvoeding en verzorging door de Nederlandse man
 
-In tegenstelling tot bij naturalisatie worden bij optie geen eisen gesteld ten aanzien van de inburgering. De bevestiging van de optie kan dus niet worden geweigerd, omdat de optant de Nederlandse taal niet beheerst. Optanten die een optieverklaring ex [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) afleggen, moeten in beginsel afstand doen van hun oorspronkelijke nationaliteit (zie [artikel 6a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)). Let op! De afstandsverplichting geldt niet voor de overige optiecategorieën. Dit sluit overigens niet uit dat de nationaliteitswetgeving van het land waarvan de optant de nationaliteit bezit, kan bepalen dat deze nationaliteit verloren gaat als gevolg van de verkrijging van de Nederlandse nationaliteit. Zie de [toelichting in de Handleiding bij artikel 6a RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6a&z=2020-04-01&g=2020-04-01).
+In tegenstelling tot bij naturalisatie worden bij optie geen eisen gesteld ten aanzien van de inburgering. De bevestiging van de optie kan dus niet worden geweigerd, omdat de optant de Nederlandse taal niet beheerst. Optanten die een optieverklaring ex [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) afleggen, moeten in beginsel afstand doen van hun oorspronkelijke nationaliteit (zie [artikel 6a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)). Let op! De afstandsverplichting geldt niet voor de overige optiecategorieën. Dit sluit overigens niet uit dat de nationaliteitswetgeving van het land waarvan de optant de nationaliteit bezit, kan bepalen dat deze nationaliteit verloren gaat als gevolg van de verkrijging van de Nederlandse nationaliteit. Zie de [toelichting in de Handleiding bij artikel 6a RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6a&z=2020-05-07&g=2020-05-07).
 
 ### Paragraaf 1.3. Vereiste documenten
 
@@ -1644,11 +1644,11 @@ Een vreemdeling die in het bezit is van een verblijfsvergunning regulier voor on
 
 Een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd, een sticker of een W-document, heeft nooit toelating voor onbepaalde tijd. Een uitzondering hierop vormen de minderjarige kinderen die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd en voor wie medeverlening wordt verzocht door een ouder die in het bezit is van een verblijfsvergunning asiel voor onbepaalde tijd (zie ook [paragraaf 3.9 bij de toelichting van artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.9&z=2014-07-01&g=2014-07-01)). Uitzondering hierop vormen ook de staatloze verzoekers die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd (zie ook bijlage 2 van de toelichting bij artikel 8, eerste lid, aanhef en onder b, RWN). Hierbij wordt benadrukt dat vermelding in de BRP met ‘nationaliteit onbekend’ (code 0000) niet betekent dat de verzoeker staatloos is. Alleen als de vreemdeling in de BRP als ‘staatloos’ staat geregistreerd bij de nationaliteitsgegevens, geldt de regel dat deze als houder van een verblijfsvergunning asiel voor bepaalde tijd een verblijfsrecht heeft op grond waarvan geen bedenkingen bestaan tegen verblijf voor onbepaalde tijd. De uitzondering die hier aan de orde is, is noodzakelijk omdat een staatloze na drie jaar toelating en hoofdverblijf in Nederland een verzoek om naturalisatie mag indienen ([artikel 8, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)).
 
-Een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd, een sticker of een W-document heeft nooit toelating voor onbepaalde tijd. Een uitzondering hierop vormen de minderjarige kinderen die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd en voor wie medeverlening wordt verzocht door een ouder die in het bezit is van een verblijfsvergunning asiel voor onbepaalde tijd (zie ook [paragraaf 3.9 bij de toelichting van artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.9&z=2020-04-01&g=2020-04-01)).
+Een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd, een sticker of een W-document heeft nooit toelating voor onbepaalde tijd. Een uitzondering hierop vormen de minderjarige kinderen die in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd en voor wie medeverlening wordt verzocht door een ouder die in het bezit is van een verblijfsvergunning asiel voor onbepaalde tijd (zie ook [paragraaf 3.9 bij de toelichting van artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.9&z=2020-05-07&g=2020-05-07)).
 
 Sinds 1 februari 1996 worden de verblijfsrechtelijke gegevens vanuit het vreemdelingenadministratiesysteem (VAS) aangeleverd aan de BRP. Vanaf 13 april 2004 voert de Immigratie- en Naturalisatiedienst (IND) de vreemdelingenadministratie en de Immigratie- en Naturalisatiedienst (IND) is derhalve tevens verantwoordelijk voor het leveren van verblijfsrechtelijke gegevens aan de BRP.
 
-Om in aanmerking te komen voor (mede)naturalisatie moet een kind op grond van [artikel 11 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) voldoen aan het vereiste van ‘toelating voor onbepaalde tijd’. Gelet hierop moet aan de hand van het verblijfsdocument van het kind worden aangetoond dat het kind beschikt over een zelfstandig dan wel afhankelijk verblijfsrecht van niet-tijdelijke aard. Ingeval van gezinshereniging is het verblijfsrecht van het kind afhankelijk van degene bij wie verblijf wordt beoogd (de verblijfgever, meestal de ouder bij wie het kind verblijf heeft gekregen). Als het verblijfsrecht van de verblijfgever een niet-tijdelijk karakter heeft, is het verblijfsrecht van het kind eveneens van niet-tijdelijke aard. Als het verblijfsrecht van de verblijfgever een tijdelijk karakter heeft, is ook het verblijfsrecht van het kind tijdelijk van aard (zie [artikel 3.5, tweede lid, aanhef en onder a, Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5)). In dat laatste geval is geen sprake van ‘toelating voor onbepaalde tijd’ (zie ook de [toelichting bij artikel 11 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=11&z=2020-04-01&g=2020-04-01)). Echter, op grond van [artikel 4.21, tweede lid Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) wordt geen document anders dan bedoeld in het eerste lid, onder a of b, verstrekt aan kinderen beneden de leeftijd van twaalf jaar, tenzij zij er naar het oordeel van Onze Minister een redelijk belang bij hebben in het bezit van zulk een document te worden gesteld. Als er geen verblijfsdocument is, kan de toelating worden bepaald aan de hand van een afschrift uit de BRP waarop de gegevens in verband met het verblijfsrecht van het kind vermeld staan.
+Om in aanmerking te komen voor (mede)naturalisatie moet een kind op grond van [artikel 11 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) voldoen aan het vereiste van ‘toelating voor onbepaalde tijd’. Gelet hierop moet aan de hand van het verblijfsdocument van het kind worden aangetoond dat het kind beschikt over een zelfstandig dan wel afhankelijk verblijfsrecht van niet-tijdelijke aard. Ingeval van gezinshereniging is het verblijfsrecht van het kind afhankelijk van degene bij wie verblijf wordt beoogd (de verblijfgever, meestal de ouder bij wie het kind verblijf heeft gekregen). Als het verblijfsrecht van de verblijfgever een niet-tijdelijk karakter heeft, is het verblijfsrecht van het kind eveneens van niet-tijdelijke aard. Als het verblijfsrecht van de verblijfgever een tijdelijk karakter heeft, is ook het verblijfsrecht van het kind tijdelijk van aard (zie [artikel 3.5, tweede lid, aanhef en onder a, Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5)). In dat laatste geval is geen sprake van ‘toelating voor onbepaalde tijd’ (zie ook de [toelichting bij artikel 11 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=11&z=2020-05-07&g=2020-05-07)). Echter, op grond van [artikel 4.21, tweede lid Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21) wordt geen document anders dan bedoeld in het eerste lid, onder a of b, verstrekt aan kinderen beneden de leeftijd van twaalf jaar, tenzij zij er naar het oordeel van Onze Minister een redelijk belang bij hebben in het bezit van zulk een document te worden gesteld. Als er geen verblijfsdocument is, kan de toelating worden bepaald aan de hand van een afschrift uit de BRP waarop de gegevens in verband met het verblijfsrecht van het kind vermeld staan.
 
 Enkele situaties waarbij op grond van het verblijfsdocument van de vreemdeling in samenhang met de gegevens in de BRP direct duidelijk is of al dan niet wordt voldaan aan de vereiste periode van onafgebroken toelating en waarbij het vragen om een bericht omtrent toelating achterwege kan blijven:
 
@@ -1838,7 +1838,7 @@ Op 1 januari 2012 is de [Wet conflictenrecht namen](https://wetten.overheid.nl/j
 
 Op grond van artikel 6, eerste lid, aanhef en onder a van het Europees Verdrag inzake nationaliteit (**Trb.** 1998, 149) kan de bevestiging van de optieverklaring niet worden geweigerd als er op grond van het gedrag van de optant ernstige vermoedens bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk.
 
-Overigens kan een buiten huwelijk geboren kind, waarvan de biologische vader het Nederlanderschap bezit, het Nederlanderschap wel van rechtswege verkrijgen door een prenatale erkenning (erkenning van de ongeboren vrucht) of door vaststelling van het vaderschap tijdens de minderjarigheid van het kind. Zie de [toelichting bij artikel 3 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=3&z=2020-04-01&g=2020-04-01) en bij [artikel 4 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-04-01&g=2020-04-01).
+Overigens kan een buiten huwelijk geboren kind, waarvan de biologische vader het Nederlanderschap bezit, het Nederlanderschap wel van rechtswege verkrijgen door een prenatale erkenning (erkenning van de ongeboren vrucht) of door vaststelling van het vaderschap tijdens de minderjarigheid van het kind. Zie de [toelichting bij artikel 3 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=3&z=2020-05-07&g=2020-05-07) en bij [artikel 4 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=4&z=2020-05-07&g=2020-05-07).
 
 Met ingang van 1 maart 2009 verkrijgen minderjarige kinderen die jonger zijn dan zeven jaar en worden erkend door een Nederlander, door deze erkenning vanaf de datum van erkenning het Nederlanderschap ([artikel 4, tweede lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4)). Hetzelfde geldt voor minderjarige kinderen die zonder erkenning door wettiging het kind worden van een Nederlander ([artikel 4, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4)). Indien een minderjarig kind dat zeven jaar of ouder is wordt erkend door een Nederlander verkrijgt het pas het Nederlanderschap indien het biologische vaderschap bij of binnen een jaar na erkenning wordt aangetoond via door DNA-bewijs als bedoeld in het besluit DNA-onderzoek vaderschap (zie [artikel 4 lid 4 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4) juncto [artikel 4 lid 6 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4)). Indien de Nederlander die een kind van zeven jaar of ouder heeft erkend zijn biologische vaderschap niet kan of wil aantonen staat de mogelijkheid open van de optie mogelijkheid van [artikel 6, eerste lid onder c RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6).
 
@@ -1854,7 +1854,7 @@ De verkrijging van de Nederlandse nationaliteit heeft op zich geen invloed op de
 
 Ten aanzien van een optant geboren vóór 25 november 1975 in Suriname van wie de ouders in Suriname of het Koninkrijk zijn geboren, mag worden aangenomen dat hij oud-Nederlander is. Ten aanzien van een optant geboren vóór 21 december 1949 in het voormalige Nederlands-Indië, mag worden aangenomen dat hij (ten minste) de status van Nederlands onderdaan-niet-Nederlander heeft bezeten. Hetzelfde geldt ten aanzien van de optant geboren vóór 1 oktober 1962 in het voormalige Nederlands-Nieuw-Guinea.
 
-Als het Nederlanderschap is verloren op grond van [artikel 15, eerste lid, aanhef en onder d of f RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) of [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zal dit meestal zijn vermeld in de BRP. Als onduidelijk is of sprake is van één van de hier bedoelde verliesgronden, kan de burgemeester aan de IND in Rijswijk verzoeken dit voor hem na te gaan in het Nationaliteitenregister. Zie ook de [toelichting bij artikel 22 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=22&z=2020-04-01&g=2020-04-01).
+Als het Nederlanderschap is verloren op grond van [artikel 15, eerste lid, aanhef en onder d of f RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) of [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zal dit meestal zijn vermeld in de BRP. Als onduidelijk is of sprake is van één van de hier bedoelde verliesgronden, kan de burgemeester aan de IND in Rijswijk verzoeken dit voor hem na te gaan in het Nationaliteitenregister. Zie ook de [toelichting bij artikel 22 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=22&z=2020-05-07&g=2020-05-07).
 
 Het huwelijk of geregistreerd partnerschap zal in de meeste gevallen blijken uit de BRP. Ook de Nederlandse nationaliteit van de echtgeno(o)t(e) zal over het algemeen blijken uit de BRP. Is dit niet het geval, dan moet de optant de Nederlandse nationaliteit van de echtgeno(o)t(e) aannemelijk maken door het overleggen van een Nederlands paspoort of Nederlandse Europese identiteitskaart waarvan de geldigheidsduur niet is verstreken. Een recentelijk (niet ouder dan zes maanden) afgegeven verklaring omtrent het bezit van het Nederlanderschap of een afschrift uit de BRP waaruit het Nederlanderschap van de echtgeno(o)t(e) blijkt, volstaat eveneens.
 
@@ -1940,7 +1940,7 @@ Onder druk van internationale ontwikkelingen kwam geleidelijk een einde aan de n
 
 Vanaf 1 maart 1964 kon de getrouwde vrouw afstand doen van de Nederlandse nationaliteit (artikel 8a WNI 1892), nadat zij de vreemde nationaliteit van haar echtgenoot had verkregen.
 
-De vrouw kon vóór 1 januari 1985 het Nederlanderschap ook verliezen op grond van artikel 7 WNI 1892. Voor deze verliesgronden wordt verwezen naar [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&z=2020-04-01&g=2020-04-01).
+De vrouw kon vóór 1 januari 1985 het Nederlanderschap ook verliezen op grond van artikel 7 WNI 1892. Voor deze verliesgronden wordt verwezen naar [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&z=2020-05-07&g=2020-05-07).
 
 Uitgesloten moet worden dat de Nederlandse vrouw niet voor de geboorte van haar kind (nu: de optant) het Nederlanderschap heeft verloren. Immers, dan is de optant geboren uit een vrouw die niet op de dag van zijn geboorte in het bezit van het Nederlanderschap was, en voldoet hij/zij niet aan een voorwaarde om te kunnen opteren.
 
@@ -1996,7 +1996,7 @@ Artikel 1 WNI 1892 luidde: Nederlanders door geboorte zijn:
 
 De optievoorwaarden kan de optant aan de hand van de volgende stukken aantonen:
 
-Voorts neemt de optieautoriteit contact op met de IND in Rijswijk om het Nationaliteitenregister te raadplegen, als eerder opgemerkt in [paragrafen 1.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.2&paragraaf=1.2.1&paragraaf=1.2.1.2&z=2020-04-01&g=2020-04-01) en [1.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.5&z=2020-04-01&g=2020-04-01).
+Voorts neemt de optieautoriteit contact op met de IND in Rijswijk om het Nationaliteitenregister te raadplegen, als eerder opgemerkt in [paragrafen 1.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.2&paragraaf=1.2.1&paragraaf=1.2.1.2&z=2020-05-07&g=2020-05-07) en [1.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.5&z=2020-05-07&g=2020-05-07).
 
 Een persoonskaart wordt verkregen bij de laatste woongemeente, het Bureau Vestigingsregister van de gemeente Den Haag (als optant en/of (groot)ouders in Nederland zijn geboren en tussen 1939 en 1994 naar het buitenland zijn geëmigreerd) of, als moeder of vader (of grootouders) van de optant langer dan twee jaar geleden zijn overleden, bij het Centraal Bureau voor Genealogie (CBG).
 
@@ -2052,7 +2052,7 @@ De optievoorwaarden kan de optant aan de hand van de volgende stukken aantonen:
 
 ### Paragraaf 1. Algemeen
 
-Altijd moet worden onderzocht dat de adoptiefmoeder niet voorafgaand aan de onherroepelijke adoptieuitspraak de Nederlandse nationaliteit heeft verloren op grond van artikel 5 (oud) WNI 1892 (vóór 1 maart 1964) of artikel 8a WNI 1892 (ná 1 maart 1964) of artikel 7 WNI 1892. Voor deze verliesgronden wordt verwezen naar [paragrafen 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.2&paragraaf=1.2.1&z=2020-04-01&g=2020-04-01) en [2.2 bij artikel 6, eerste lid, aanhef en onder i RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&z=2020-04-01&g=2020-04-01). Aannemelijk moet zijn dat de van oorsprong Nederlandse adoptiefmoeder de nationaliteit van haar echtgenoot heeft verkregen en daardoor het Nederlanderschap heeft verloren. Een verklaring van de autoriteiten van het land van de nationaliteit van haar echtgenoot kan hierbij behulpzaam zijn. Soms zal voldoende zijn om het onderzoek te beperken tot het vreemde nationaliteitsrecht van de huwelijksperiode.
+Altijd moet worden onderzocht dat de adoptiefmoeder niet voorafgaand aan de onherroepelijke adoptieuitspraak de Nederlandse nationaliteit heeft verloren op grond van artikel 5 (oud) WNI 1892 (vóór 1 maart 1964) of artikel 8a WNI 1892 (ná 1 maart 1964) of artikel 7 WNI 1892. Voor deze verliesgronden wordt verwezen naar [paragrafen 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.2&paragraaf=1.2.1&z=2020-05-07&g=2020-05-07) en [2.2 bij artikel 6, eerste lid, aanhef en onder i RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&z=2020-05-07&g=2020-05-07). Aannemelijk moet zijn dat de van oorsprong Nederlandse adoptiefmoeder de nationaliteit van haar echtgenoot heeft verkregen en daardoor het Nederlanderschap heeft verloren. Een verklaring van de autoriteiten van het land van de nationaliteit van haar echtgenoot kan hierbij behulpzaam zijn. Soms zal voldoende zijn om het onderzoek te beperken tot het vreemde nationaliteitsrecht van de huwelijksperiode.
 
 ### Paragraaf 1.3. Vereiste documenten
 
@@ -2068,7 +2068,7 @@ Als het een prénatale erkenning betreft naar buitenlands recht, moet deze uiter
 
 ### Paragraaf 1.2. Afstamming door geboorte
 
-Voorts neemt de optieautoriteit contact op met de IND in Rijswijk om het Nationaliteitenregister te raadplegen, als eerder opgemerkt in [paragrafen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.3&z=2020-04-01&g=2020-04-01) en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.4&z=2020-04-01&g=2020-04-01).
+Voorts neemt de optieautoriteit contact op met de IND in Rijswijk om het Nationaliteitenregister te raadplegen, als eerder opgemerkt in [paragrafen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.3&z=2020-05-07&g=2020-05-07) en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=1&paragraaf=1.4&z=2020-05-07&g=2020-05-07).
 
 ### Paragraaf 1.1. Afstamming door geboorte
 
@@ -2266,11 +2266,11 @@ Een persoonskaart wordt verkregen bij de laatste woongemeente, het Bureau Vestig
 
 ### 2. Optanten die de bereidverklaring en de verklaring van verbondenheid moeten afleggen
 
-De verplichting tot bereidverklaring en het afleggen van de verklaring van verbondenheid rust op de meerderjarige optant. Zij rust daarnaast ook op minderjarigen die op het tijdstip waarop de optieverklaring wordt afgelegd zestien jaar of ouder zijn, ongeacht of zij zelfstandig opteren dan wel verzocht is hen te laten delen in de verkrijging van het Nederlanderschap door een van hun ouders (zie tevens [paragraaf 2.2.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-04-01&g=2020-04-01) en [2.12.3 in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-04-01&g=2020-04-01))
+De verplichting tot bereidverklaring en het afleggen van de verklaring van verbondenheid rust op de meerderjarige optant. Zij rust daarnaast ook op minderjarigen die op het tijdstip waarop de optieverklaring wordt afgelegd zestien jaar of ouder zijn, ongeacht of zij zelfstandig opteren dan wel verzocht is hen te laten delen in de verkrijging van het Nederlanderschap door een van hun ouders (zie tevens [paragraaf 2.2.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-05-07&g=2020-05-07) en [2.12.3 in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-05-07&g=2020-05-07))
 
 ### 3. Ondertekenen bereidverklaring (model 1.36)
 
-Betrokkene verklaart bereid te zijn de verklaring van verbondenheid af te leggen, door het ondertekenen van de **‘Bereidverklaring afleggen verklaring van verbondenheid’** (model 1.36). De verklaring van verbondenheid legt hij vervolgens in principe in persoon op een naturalisatieceremonie mondeling af voordat de optiebevestiging aan hem wordt uitgereikt (zie tevens [paragraaf 2.12.3 Afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-04-01&g=2020-04-01)).
+Betrokkene verklaart bereid te zijn de verklaring van verbondenheid af te leggen, door het ondertekenen van de **‘Bereidverklaring afleggen verklaring van verbondenheid’** (model 1.36). De verklaring van verbondenheid legt hij vervolgens in principe in persoon op een naturalisatieceremonie mondeling af voordat de optiebevestiging aan hem wordt uitgereikt (zie tevens [paragraaf 2.12.3 Afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-05-07&g=2020-05-07)).
 
 ### paragraaf 2. Procedure
 
@@ -2318,7 +2318,7 @@ Ingevolge [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### paragraaf 2.8. Weigering bevestiging
 
-Hebben kinderen de leeftijd van zestien jaar bereikt, dan is verschijning in persoon voorgeschreven om een instemmingsverklaring af te geven ([artikel 6, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)). Zij dienen zich met een geldig buitenlands reisdocument33Zie [paragraaf 2.2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-04-01&g=2020-04-01). te legitimeren (zie ook hierna [paragraaf 2.2.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&paragraaf=2.2.1.5&z=2020-04-01&g=2020-04-01)). Van verschijning in persoon kan slechts om zwaarwegende redenen worden afgeweken (zie de toelichting bij artikel 2, tweede en vierde lid, RWN).
+Hebben kinderen de leeftijd van zestien jaar bereikt, dan is verschijning in persoon voorgeschreven om een instemmingsverklaring af te geven ([artikel 6, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)). Zij dienen zich met een geldig buitenlands reisdocument33Zie [paragraaf 2.2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-05-07&g=2020-05-07). te legitimeren (zie ook hierna [paragraaf 2.2.1.5.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&paragraaf=2.2.1.5&z=2020-05-07&g=2020-05-07)). Van verschijning in persoon kan slechts om zwaarwegende redenen worden afgeweken (zie de toelichting bij artikel 2, tweede en vierde lid, RWN).
 
 ### paragraaf 2.2.1.4. Wettelijk vertegenwoordiger/andere ouder
 
@@ -2372,7 +2372,7 @@ Ten aanzien van de afstandsverplichting informeert de burgemeester – voor zove
 
 ### Paragraaf 2.2.4.3. Verklaring verblijf en gedrag
 
-Bovendien moet de optant door middel van een zogenaamde verklaring verblijf en gedrag ([model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01)) schriftelijk verklaren dat in het kader van de verkrijging en het behoud van de verblijfsvergunning van hemzelf en de overige in de optieverklaring genoemde personen de gevraagde gegevens naar waarheid zijn verstrekt en geen relevante gegevens zijn verzwegen ([artikel 6, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)) en of hij of één van de in de optieverklaring genoemde personen ouder dan zestien jaar niet polygaam gehuwd is en al dan niet in aanraking is geweest met politie en/of justitie in verband met een misdrijf. De burgemeester zet, voordat de optant de verklaring ondertekent, de openbare orde richtlijnen en het beginsel van monogamie bij optie uiteen en wijst de optant erop dat een en ander gevolgen kan hebben voor de bevestiging van de optieverklaring. Betrokkene wordt in de gelegenheid gesteld om op de verklaring aan te geven of er sprake is van bijzondere feiten en/of omstandigheden op grond waarvan, naar zijn mening, ten aanzien van hem of de betreffende minderjarige niet mag worden geconcludeerd dat op grond van zijn gedrag ernstige vermoedens bestaan dat hij een gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk (zie verder: de toelichting bij artikel 6, vierde lid, RWN en [artikel 9, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)).
+Bovendien moet de optant door middel van een zogenaamde verklaring verblijf en gedrag ([model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07)) schriftelijk verklaren dat in het kader van de verkrijging en het behoud van de verblijfsvergunning van hemzelf en de overige in de optieverklaring genoemde personen de gevraagde gegevens naar waarheid zijn verstrekt en geen relevante gegevens zijn verzwegen ([artikel 6, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)) en of hij of één van de in de optieverklaring genoemde personen ouder dan zestien jaar niet polygaam gehuwd is en al dan niet in aanraking is geweest met politie en/of justitie in verband met een misdrijf. De burgemeester zet, voordat de optant de verklaring ondertekent, de openbare orde richtlijnen en het beginsel van monogamie bij optie uiteen en wijst de optant erop dat een en ander gevolgen kan hebben voor de bevestiging van de optieverklaring. Betrokkene wordt in de gelegenheid gesteld om op de verklaring aan te geven of er sprake is van bijzondere feiten en/of omstandigheden op grond waarvan, naar zijn mening, ten aanzien van hem of de betreffende minderjarige niet mag worden geconcludeerd dat op grond van zijn gedrag ernstige vermoedens bestaan dat hij een gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk (zie verder: de toelichting bij artikel 6, vierde lid, RWN en [artikel 9, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)).
 
 ### Paragraaf 2.3.1. Bevoegdheid burgemeester
 
@@ -2384,7 +2384,7 @@ Bovendien moet de optant door middel van een zogenaamde verklaring verblijf en g
 
 ### Paragraaf 2.2.4.3.1. Bereidheidsverklaring afstand
 
-Ten aanzien van de afstandsverplichting informeert de burgemeester – voor zover mogelijk – de optant die een optieverklaring ex [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) heeft afgelegd of hij al dan niet behoort tot een uitzonderingscategorie dan wel redelijkerwijs niet van hem kan worden verlangd dat hij afstand doet van zijn oorspronkelijke nationaliteit. Als geen van de uitzonderingen van toepassing is, moet de optant een verklaring te ondertekenen dat hij bereid is het mogelijke te zullen doen om bij of na de verkrijging van het Nederlanderschap zijn oorspronkelijke nationaliteit(en) te verliezen ([artikel 6, zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)). De bereidheidsverklaring is opgenomen als [model 1.14-1a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) en model 1.14-1b. Let op! Model 1.14-1b moet alleen ondertekend worden door optanten met de Egyptische, Zuid-Afrikaanse en Oostenrijkse nationaliteit die afstand moeten doen.
+Ten aanzien van de afstandsverplichting informeert de burgemeester – voor zover mogelijk – de optant die een optieverklaring ex [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) heeft afgelegd of hij al dan niet behoort tot een uitzonderingscategorie dan wel redelijkerwijs niet van hem kan worden verlangd dat hij afstand doet van zijn oorspronkelijke nationaliteit. Als geen van de uitzonderingen van toepassing is, moet de optant een verklaring te ondertekenen dat hij bereid is het mogelijke te zullen doen om bij of na de verkrijging van het Nederlanderschap zijn oorspronkelijke nationaliteit(en) te verliezen ([artikel 6, zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)). De bereidheidsverklaring is opgenomen als [model 1.14-1a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) en model 1.14-1b. Let op! Model 1.14-1b moet alleen ondertekend worden door optanten met de Egyptische, Zuid-Afrikaanse en Oostenrijkse nationaliteit die afstand moeten doen.
 
 ### Paragraaf 2.2.5.3. Buitenlandse akten van de burgerlijke stand
 
@@ -2528,7 +2528,7 @@ Behoudens bij opties op grond van [artikel 6, eerste lid, aanhef en onder a, c e
 
 ### paragraaf 2.4.2.5. Onderzoek naar zienswijze kind/wettelijk vertegenwoordiger/(andere) ouder
 
-De gegevens van vreemdelingen met een bijzondere status (zie [paragraaf 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.3&paragraaf=2.3.1&z=2020-04-01&g=2020-04-01)) worden getoetst aan de gegevens die zijn opgenomen in het door de Minister van Buitenlandse Zaken gehouden register protocollaire basisadministratie (PROBAS). De burgemeester verzoekt de Minister van Buitenlandse Zaken om binnen vier weken de gegevens van de betreffende vreemdelingen te toetsen ([artikel 9, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=9)). Zie voor een juiste adressering het hoofdstuk Voorlichting.
+De gegevens van vreemdelingen met een bijzondere status (zie [paragraaf 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.3&paragraaf=2.3.1&z=2020-05-07&g=2020-05-07)) worden getoetst aan de gegevens die zijn opgenomen in het door de Minister van Buitenlandse Zaken gehouden register protocollaire basisadministratie (PROBAS). De burgemeester verzoekt de Minister van Buitenlandse Zaken om binnen vier weken de gegevens van de betreffende vreemdelingen te toetsen ([artikel 9, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=9)). Zie voor een juiste adressering het hoofdstuk Voorlichting.
 
 Ten aanzien van de zogenaamde passanten verzoekt de burgemeester, zo nodig, de Minister van Buitenlandse Zaken de gegevens van de betreffende vreemdelingen zo mogelijk binnen tien weken te toetsen ([artikel 9, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=9)). Zie voor een juiste adressering het hoofdstuk Voorlichting.
 
@@ -2538,7 +2538,7 @@ Bij opties op grond van [artikel 6, eerste lid, aanhef en onder b](https://wette
 
 De burgemeester zendt de volgende stukken in kopie (conform origineel) aan de Immigratie- en Naturalisatiedienst (IND), Directie Regulier Verblijf en Nederlanderschap, Postbus 4, 9560 AA TER APEL:
 
-Indien een aspirant-optant, ten aanzien van wie door de burgemeester is bepaald dat niet kan worden afgezien van invulling en ondertekening van de bereidverklaring, die verklaring (model 1.36) niet heeft ingevuld en ondertekend of indien een aspirant-optant heeft verklaard niet bereid te zijn om de verklaring van verbondenheid af te leggen en betrokkene desondanks toch in zijn optie persisteert, weigert de burgemeester de verkrijging van het Nederlanderschap te bevestigen (zie [paragraaf 2.8](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.8&z=2020-04-01&g=2020-04-01)**Weigering bevestiging**).’.
+Indien een aspirant-optant, ten aanzien van wie door de burgemeester is bepaald dat niet kan worden afgezien van invulling en ondertekening van de bereidverklaring, die verklaring (model 1.36) niet heeft ingevuld en ondertekend of indien een aspirant-optant heeft verklaard niet bereid te zijn om de verklaring van verbondenheid af te leggen en betrokkene desondanks toch in zijn optie persisteert, weigert de burgemeester de verkrijging van het Nederlanderschap te bevestigen (zie [paragraaf 2.8](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.8&z=2020-05-07&g=2020-05-07)**Weigering bevestiging**).’.
 
 ### Paragraaf 2.4.2.2. Verblijfsrechtelijke status optant
 
@@ -2560,11 +2560,11 @@ Indien vaststelling van de naam van de optant is voorgeschreven ([artikel 6, zes
 
 ### paragraaf 2.4.2.5. Onderzoek naar zienswijze kind/wettelijk vertegenwoordiger/(andere) ouder
 
-Indien dit nog niet is gebeurd in een eerdere fase van de procedure –bijvoorbeeld tegelijk met het afleggen van de optieverklaring door de optant –stelt de burgemeester de andere in de optieverklaring genoemde personen, mits zij de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijk vertegenwoordiger en de andere ouder (als bedoeld in [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2)) op hun verzoek in de gelegenheid hun zienswijze inzake de optie kenbaar te maken ([artikel 10, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=10)). Zie ook hiervoor bij [2.2.1, ‘Verklaring afleggen in persoon’](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&z=2020-04-01&g=2020-04-01) en de toelichting bij artikel 2, vierde lid, RWN.
+Indien dit nog niet is gebeurd in een eerdere fase van de procedure –bijvoorbeeld tegelijk met het afleggen van de optieverklaring door de optant –stelt de burgemeester de andere in de optieverklaring genoemde personen, mits zij de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijk vertegenwoordiger en de andere ouder (als bedoeld in [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2)) op hun verzoek in de gelegenheid hun zienswijze inzake de optie kenbaar te maken ([artikel 10, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=10)). Zie ook hiervoor bij [2.2.1, ‘Verklaring afleggen in persoon’](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&z=2020-05-07&g=2020-05-07) en de toelichting bij artikel 2, vierde lid, RWN.
 
 ### paragraaf 2.5. Bevestiging
 
-Nadat de burgemeester heeft vastgesteld dat aan de optievoorwaarden is voldaan, bericht hij de optant schriftelijk de wijze waarop de bevestiging van de verkrijging van het Nederlanderschap bekendgemaakt zal worden onder vermelding van de namen van de personen die in deze bekendmaking betrokken zullen zijn. De bevestiging vermeldt de naam, woonplaats en geboortedatum van de optant en van de personen die in de verkrijging delen. Indien de minderjarige kinderen in de optieverklaringen van beide ouders zijn opgenomen en de verkrijging van het Nederlanderschap ten aanzien van beide ouders wordt bevestigd, worden de personalia van de minderjarige kinderen die in de verkrijging delen in de bevestiging van zowel de vader als de moeder opgenomen. De burgemeester bericht gelijktijdig ten aanzien van welke personen hij de bevestiging weigert ([artikel 11, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=11)). De bevestiging wordt als regel aan de optant uitgereikt tijdens een ceremonie, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Onder uitzonderlijke omstandigheden wordt de bevestiging tijdens een ceremonie uitgereikt aan een gemachtigde van de optant dan wel – indien uitzonderlijke omstandigheden daartoe noodzaken en geen gemachtigde kan worden aangewezen door betrokkene – per post aan de optant verzonden. (Zie voor de uitreiking van de bevestiging en de uitzonderingen daarop [paragraaf 2.12.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&z=2020-04-01&g=2020-04-01)) Indien sprake is van een (gedeeltelijke) weigering dan wordt de bevestiging uitgereikt en de gedeeltelijke weigering per aangetekende post verzonden.
+Nadat de burgemeester heeft vastgesteld dat aan de optievoorwaarden is voldaan, bericht hij de optant schriftelijk de wijze waarop de bevestiging van de verkrijging van het Nederlanderschap bekendgemaakt zal worden onder vermelding van de namen van de personen die in deze bekendmaking betrokken zullen zijn. De bevestiging vermeldt de naam, woonplaats en geboortedatum van de optant en van de personen die in de verkrijging delen. Indien de minderjarige kinderen in de optieverklaringen van beide ouders zijn opgenomen en de verkrijging van het Nederlanderschap ten aanzien van beide ouders wordt bevestigd, worden de personalia van de minderjarige kinderen die in de verkrijging delen in de bevestiging van zowel de vader als de moeder opgenomen. De burgemeester bericht gelijktijdig ten aanzien van welke personen hij de bevestiging weigert ([artikel 11, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=11)). De bevestiging wordt als regel aan de optant uitgereikt tijdens een ceremonie, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Onder uitzonderlijke omstandigheden wordt de bevestiging tijdens een ceremonie uitgereikt aan een gemachtigde van de optant dan wel – indien uitzonderlijke omstandigheden daartoe noodzaken en geen gemachtigde kan worden aangewezen door betrokkene – per post aan de optant verzonden. (Zie voor de uitreiking van de bevestiging en de uitzonderingen daarop [paragraaf 2.12.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&z=2020-05-07&g=2020-05-07)) Indien sprake is van een (gedeeltelijke) weigering dan wordt de bevestiging uitgereikt en de gedeeltelijke weigering per aangetekende post verzonden.
 
 Bovendien wordt de politie van de woonplaats van betrokkene(n) door de burgemeester op de hoogte gesteld.
 
@@ -2572,7 +2572,7 @@ De burgemeester zendt de volgende stukken in kopie (conform origineel) aan de Im
 
 Voornoemde stukken zijn nodig in verband met de opname van deze documenten in het nationaliteitenregister ([artikel 12, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12)) en om de afstandsprocedure van de optant (als van toepassing) te controleren.
 
-Als van toepassing moet een uitwisselingsformulier betreffende het uitwisselen van gegevens met betrekking tot verkrijging van nationaliteit ([model 1.35 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01)) worden opgemaakt en worden verzonden naar het land van herkomst. Dit is, op grond van de Overeenkomst van Parijs van 10 september 1964, het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 en bilaterale afspraken met Duitsland, van toepassing bij verkrijging van het Nederlanderschap aan een persoon met de nationaliteit van België, Duitsland, Griekenland, Italië, Luxemburg, Oostenrijk en Portugal.
+Als van toepassing moet een uitwisselingsformulier betreffende het uitwisselen van gegevens met betrekking tot verkrijging van nationaliteit ([model 1.35 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07)) worden opgemaakt en worden verzonden naar het land van herkomst. Dit is, op grond van de Overeenkomst van Parijs van 10 september 1964, het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 en bilaterale afspraken met Duitsland, van toepassing bij verkrijging van het Nederlanderschap aan een persoon met de nationaliteit van België, Duitsland, Griekenland, Italië, Luxemburg, Oostenrijk en Portugal.
 
 Noorwegen is vanaf 19 december 2019 niet langer partij bij Hoofdstuk 1 van het Verdrag van Straatsburg. Uitwisseling op grond van het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 is sindsdien niet langer nodig.
 
@@ -2670,19 +2670,19 @@ De bevestiging die vóór 1 oktober 2006 is vastgesteld, treedt nog op de gebrui
 
 ### paragraaf 2.12.1. De oproeping
 
-De burgemeester roept de optant en mede-optant die ten tijde van het afleggen van de optieverklaring 16 jaar of ouder was (waren) op te verschijnen. Was de optant jonger dan 16 jaar dan roept de burgemeester zijn wettelijke vertegenwoordiger op. De oproeping vindt plaats door middel van een schriftelijke uitnodiging aan de optant of zijn wettelijke vertegenwoordiger. In beginsel wordt die wettelijk vertegenwoordiger opgeroepen die namens de minderjarige optant de optieverklaring heeft afgelegd. Zie ook [bijlage 1 bij toelichting artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-04-01&g=2020-04-01) (tabel: oproepen en uitreiken).
+De burgemeester roept de optant en mede-optant die ten tijde van het afleggen van de optieverklaring 16 jaar of ouder was (waren) op te verschijnen. Was de optant jonger dan 16 jaar dan roept de burgemeester zijn wettelijke vertegenwoordiger op. De oproeping vindt plaats door middel van een schriftelijke uitnodiging aan de optant of zijn wettelijke vertegenwoordiger. In beginsel wordt die wettelijk vertegenwoordiger opgeroepen die namens de minderjarige optant de optieverklaring heeft afgelegd. Zie ook [bijlage 1 bij toelichting artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-05-07&g=2020-05-07) (tabel: oproepen en uitreiken).
 
 ### 6a-4. Toelichting ad [artikel 6a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)
 
 De burgemeester houdt bij of een verklaring van verbondenheid is afgelegd en de wijze waarop dit is gebeurd. Het feit van aflegging tekent de burgemeester aan op het afschrift van de optiebevestiging dat aan de IND ter opname in het nationaliteitenregister wordt verzonden (zie tevens [paragraaf 2.12.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.4&z=2019-07-01&g=2019-07-01)**Procedurele aspecten na de terugmelding**). Dit geldt alleen voor optieverklaringen die zijn afgelegd op of ná 1 maart 2009.
 
-De optiebevestiging treedt als regel in werking door de uitreiking in persoon tijdens een ceremoniële bijeenkomst, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Slechts in bijzondere gevallen kan de burgemeester hiervan afwijken. Onder zeer bijzondere omstandigheden wordt de bevestiging buiten de naturalisatieceremonie om uitgereikt of toegezonden aan de betrokkene in voorkomende gevallen nadat de verklaring van verbondenheid, al dan niet schriftelijk, daadwerkelijk is afgelegd. (Zie hiervoor [paragraaf 2.12.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-04-01&g=2020-04-01)). Het besluit werkt na bekendmaking terug tot het moment waarop het besluit is gedagtekend ([artikel 60a, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Dit betekent dat een nieuw feit dat zich heeft voorgedaan in de periode tussen het besluit tot bevestiging van de optieverklaring en de bekendmaking daarvan, geen reden vormt de optiebevestiging opnieuw te beoordelen. Wie in deze tussenliggende periode in strijd met de openbare orde handelt, verkrijgt niettemin het Nederlanderschap. Ook de als minderjarige aangemelde persoon die in de tussenliggende periode meerderjarig is geworden, wordt niet opnieuw aan de voorwaarden getoetst. Hoewel een op of na de dagtekening overleden persoon niet meer in persoon kan verschijnen, zal ook deze persoon Nederlander worden zodra de optiebevestiging aan een belanghebbende is uitgereikt of bekendgemaakt. Overigens dient als regel de betrokken optant in de tussenliggende periode wel te voldoen aan zijn vreemdelingrechtelijke verplichtingen; hij is tot de uitreiking immers geen Nederlander. Het niet voldoen aan deze verplichtingen heeft echter geen gevolgen voor de uitreiking van het besluit.
+De optiebevestiging treedt als regel in werking door de uitreiking in persoon tijdens een ceremoniële bijeenkomst, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Slechts in bijzondere gevallen kan de burgemeester hiervan afwijken. Onder zeer bijzondere omstandigheden wordt de bevestiging buiten de naturalisatieceremonie om uitgereikt of toegezonden aan de betrokkene in voorkomende gevallen nadat de verklaring van verbondenheid, al dan niet schriftelijk, daadwerkelijk is afgelegd. (Zie hiervoor [paragraaf 2.12.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.3&z=2020-05-07&g=2020-05-07)). Het besluit werkt na bekendmaking terug tot het moment waarop het besluit is gedagtekend ([artikel 60a, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Dit betekent dat een nieuw feit dat zich heeft voorgedaan in de periode tussen het besluit tot bevestiging van de optieverklaring en de bekendmaking daarvan, geen reden vormt de optiebevestiging opnieuw te beoordelen. Wie in deze tussenliggende periode in strijd met de openbare orde handelt, verkrijgt niettemin het Nederlanderschap. Ook de als minderjarige aangemelde persoon die in de tussenliggende periode meerderjarig is geworden, wordt niet opnieuw aan de voorwaarden getoetst. Hoewel een op of na de dagtekening overleden persoon niet meer in persoon kan verschijnen, zal ook deze persoon Nederlander worden zodra de optiebevestiging aan een belanghebbende is uitgereikt of bekendgemaakt. Overigens dient als regel de betrokken optant in de tussenliggende periode wel te voldoen aan zijn vreemdelingrechtelijke verplichtingen; hij is tot de uitreiking immers geen Nederlander. Het niet voldoen aan deze verplichtingen heeft echter geen gevolgen voor de uitreiking van het besluit.
 
 Is een jaar na de dag van ondertekening van de optiebevestiging verstreken zonder dat de optant (op een naturalisatieceremonie) is verschenen en derhalve de bevestiging niet aan hem is bekendgemaakt, dan vervalt de optiebevestiging ([artikel 60a, elfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). De vervaltermijn van één jaar is opgeschort indien sprake is van bezwaar- en beroep tegen het besluit inzake de wijze van bekendmaking van de optiebevestiging en/of de wijze van aflegging van de verklaring van verbondenheid. Om te voorkomen dat het besluit zou vervallen is bepaald dat de termijn van één jaar door het instellen van bezwaar of beroep wordt opgeschort totdat op het bezwaar dan wel het beroep onherroepelijk is beslist. De vervaltermijn van één jaar wordt stopgezet op het moment dat de burgemeester of de rechtbank het bezwaar- dan wel beroepschrift heeft ontvangen en gaat weer lopen op het moment dat de beslissing van de burgemeester of de rechtbank onherroepelijk is geworden en er dus geen rechtsmiddelen meer open staan. De termijn loopt dus na de beslissing in bezwaar of beroep verder en vangt niet opnieuw aan. Onder beroep wordt mede hoger beroep begrepen ([artikel 60a, elfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)).
 
 De burgemeester reikt het besluit tot bevestiging van de optieverklaring uit binnen negen weken nadat is vastgesteld dat de optant heeft voldaan aan alle voorwaarden voor optie. Wegens bijzondere omstandigheden kan deze termijn met een redelijke periode worden verlengd. Zie [artikel 60a, vierde lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a).
 
-De burgemeester reikt het besluit tot bevestiging van de optieverklaring, na het afleggen van de verklaring van verbondenheid, uit aan de optant die ten tijde van het indienen van de optieverklaring zestien jaar of ouder was. Was de optant op dat tijdstip jonger dan zestien jaar dan wordt het besluit uitgereikt aan zijn wettelijke vertegenwoordiger ([artikel 60a, vijfde lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Zie ook [bijlage 1 bij toelichting artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-04-01&g=2020-04-01) (tabel oproepen en uitreiken).
+De burgemeester reikt het besluit tot bevestiging van de optieverklaring, na het afleggen van de verklaring van verbondenheid, uit aan de optant die ten tijde van het indienen van de optieverklaring zestien jaar of ouder was. Was de optant op dat tijdstip jonger dan zestien jaar dan wordt het besluit uitgereikt aan zijn wettelijke vertegenwoordiger ([artikel 60a, vijfde lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Zie ook [bijlage 1 bij toelichting artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-05-07&g=2020-05-07) (tabel oproepen en uitreiken).
 
 De uitreiking van de optiebevestiging ligt in handen van de burgemeester die heeft bevestigd (artikel 60a, eerste lid BVVN jo. [artikel 2 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2)). Heeft de optant na de bevestiging niet langer hoofdverblijf in de gemeente waar de optieverklaring is bevestigd, dan zal de burgemeester die de optie bevestigt in het algemeen de uitreiking van de bevestiging door middel van een machtiging overdragen aan de burgemeester van de nieuwe woonplaats van de optant. Indien de burgemeester, ondanks verhuizing van de optant naar een andere gemeente, toch besluit de bevestiging zelf uit te reiken, zal hij de burgemeester van de nieuwe woonplaats van de optant van deze uitreiking in kennis stellen.
 
@@ -2736,7 +2736,7 @@ Met betrekking tot het afleggen van de verklaring van verbondenheid zijn de volg
 
 ### paragraaf 2.12.5. Procedurele aspecten na uitreiking
 
-Om te bevorderen dat de minister ervan op de hoogte is dat een persoon op grond van een bevestigde optieverklaring het Nederlanderschap heeft verkregen, stuurt de burgemeester die de bevestiging heeft uitgereikt of anderszins heeft bekendgemaakt, aan de minister een bericht van de bekendmaking ([artikel 60a, negende lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Met het oog op het correct bijhouden van het nationaliteitenregister ([artikel 12, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12)) zal bij iedere optiebevestiging van op of na 1 oktober 2006 moeten zijn vermeld op welke datum deze optiebevestiging is uitgereikt of anderszins is bekendgemaakt. Immers, het Nederlanderschap zal pas op die datum van uitreiking of bekendmaking zijn ingegaan. Terugmelding kan in dit geval plaatsvinden door middel van het toesturen aan de Immigratie- en Naturalisatiedienst (IND) van een (gewaarmerkte) kopie van de optiebevestiging, voorzien van een uitreikingsdatum en een gemeente- of dienststempel, met daarop aangetekend de datum van uitreiking op de ceremonie, de wijze van bekendmaking van de bevestiging, en of de verklaring van verbondenheid is afgelegd en hoe (mondeling of schriftelijk). Zie ook [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.6&z=2020-04-01&g=2020-04-01).
+Om te bevorderen dat de minister ervan op de hoogte is dat een persoon op grond van een bevestigde optieverklaring het Nederlanderschap heeft verkregen, stuurt de burgemeester die de bevestiging heeft uitgereikt of anderszins heeft bekendgemaakt, aan de minister een bericht van de bekendmaking ([artikel 60a, negende lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a)). Met het oog op het correct bijhouden van het nationaliteitenregister ([artikel 12, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12)) zal bij iedere optiebevestiging van op of na 1 oktober 2006 moeten zijn vermeld op welke datum deze optiebevestiging is uitgereikt of anderszins is bekendgemaakt. Immers, het Nederlanderschap zal pas op die datum van uitreiking of bekendmaking zijn ingegaan. Terugmelding kan in dit geval plaatsvinden door middel van het toesturen aan de Immigratie- en Naturalisatiedienst (IND) van een (gewaarmerkte) kopie van de optiebevestiging, voorzien van een uitreikingsdatum en een gemeente- of dienststempel, met daarop aangetekend de datum van uitreiking op de ceremonie, de wijze van bekendmaking van de bevestiging, en of de verklaring van verbondenheid is afgelegd en hoe (mondeling of schriftelijk). Zie ook [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.6&z=2020-05-07&g=2020-05-07).
 
 ### 6a-2-b. Toelichting ad [artikel 6a, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)
 
@@ -2778,7 +2778,7 @@ Om deze reden luidt [artikel 10, tweede lid BVVN](https://wetten.overheid.nl/jci
 
 De bevestiging van de optieverklaring van de optant die voldoet aan de voorwaarden van artikel 6, eerste lid, aanhef en onder b (als de optant minderjarig is) of c, RWN kan niet worden geweigerd als op grond van het gedrag van de optant ernstige vermoedens bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk. Verdragsverplichtingen verzetten zich in die gevallen tegen een weigering.
 
-Bij artikel 6, eerste lid, aanhef en onder b, RWN gaat het daarbij om artikel 6, tweede lid, aanhef en onder b van het Europees Verdrag inzake nationaliteit (Trb. 1998, 149). Bij artikel 6, eerste lid, aanhef en onder c, RWN is de weigering niet toegestaan op grond van artikel 6, eerste lid 1, aanhef en onder a van het Europees Verdrag inzake nationaliteit. In het geval van een optie op grond van [art. II RRWN 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024168&artikel=II), Stb. 270, geldt dat er op grond van het gedrag van de optant geen ernstige vermoedens mogen bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk. Op deze regel wordt echter een uitzondering gemaakt als het op grond van een volkenrechtelijke verplichting niet is toegestaan om de bevestiging om die reden te weigeren (zie artikel 6, vierde lid en 9, eerste lid RWN). Zie ook in de Handleiding [paragraaf 6 bij artikel 6, 1, c RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=6&z=2020-04-01&g=2020-04-01).
+Bij artikel 6, eerste lid, aanhef en onder b, RWN gaat het daarbij om artikel 6, tweede lid, aanhef en onder b van het Europees Verdrag inzake nationaliteit (Trb. 1998, 149). Bij artikel 6, eerste lid, aanhef en onder c, RWN is de weigering niet toegestaan op grond van artikel 6, eerste lid 1, aanhef en onder a van het Europees Verdrag inzake nationaliteit. In het geval van een optie op grond van [art. II RRWN 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024168&artikel=II), Stb. 270, geldt dat er op grond van het gedrag van de optant geen ernstige vermoedens mogen bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk. Op deze regel wordt echter een uitzondering gemaakt als het op grond van een volkenrechtelijke verplichting niet is toegestaan om de bevestiging om die reden te weigeren (zie artikel 6, vierde lid en 9, eerste lid RWN). Zie ook in de Handleiding [paragraaf 6 bij artikel 6, 1, c RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=6&z=2020-05-07&g=2020-05-07).
 
 Als vóór het afleggen van de optieverklaring al duidelijk is dat de optant (bijvoorbeeld wegens een openstaande strafzaak of recente sanctie) niet voor optie in aanmerking komt, moet hij er op worden gewezen dat de optie waarschijnlijk zal worden geweigerd en dat hij beter kan wachten met het afleggen van de optieverklaring totdat hij wel voor optie in aanmerking komt. Als hij er desalniettemin op staat de optieverklaring af te leggen, moet de optie wel in behandeling worden genomen. De burgemeester onderzoekt vervolgens de strafrechtelijke gegevens van de optant. Het is raadzaam om de optant een eigen risico verklaring te laten ondertekenen.
 
@@ -2808,7 +2808,7 @@ De instemming of berusting van de vrouw kan wel worden afgeleid uit onder meer d
 
 De hierboven gegeven criteria zijn uiteraard vatbaar voor rechterlijke toetsing. De hierboven genoemde lijst van omstandigheden, waaruit de instemming of de berusting blijkt, is niet limitatief. Er kunnen andere feitelijke omstandigheden zijn die er mede op wijzen dat de vrouw zich bij de verstoting heeft neergelegd.
 
-Met betrekking tot de in deze paragraaf genoemde buitenlandse documenten geldt ook hier dat deze pas na legalisatie of voorzien van een apostille in het Nederlands rechtsverkeer kunnen worden gebruikt en geaccepteerd (zie [toelichting op artikel 6, tweede lid RWN, paragraaf 2.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.5&z=2020-04-01&g=2020-04-01)).
+Met betrekking tot de in deze paragraaf genoemde buitenlandse documenten geldt ook hier dat deze pas na legalisatie of voorzien van een apostille in het Nederlands rechtsverkeer kunnen worden gebruikt en geaccepteerd (zie [toelichting op artikel 6, tweede lid RWN, paragraaf 2.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.5&z=2020-05-07&g=2020-05-07)).
 
 In de onderhavige bepaling is geregeld dat wanneer de optant geen geslachts- of voornamen heeft, deze in overleg met hem worden vastgesteld. Wijziging van de geslachtsnaam is, anders dan bij naturalisatie, bij de bevestiging van optie niet mogelijk.
 
@@ -2972,7 +2972,7 @@ Als de optant een beroep doet op het rederlijkerwijs niet van hem kunnen verlang
 
 ### Artikel 7
 
-Let op! Het is raadzaam om de beslistermijn op grond van [artikel 6, vijfde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) dan meteen te verlengen met 13 weken. Bovendien verlengt [artikel 6a, zesde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a) de basistermijn van artikel 6, vijfde lid, RWN reeds automatisch van 13 weken naar 17 weken als de beslistermijn. De autoriteit deelt vervolgens schriftelijk de optant mee dat aan Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden beslist. Onze Minister zal binnen vier weken na ontvangst van het verzoek om advies ([model 1.50](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01)) de autoriteit hierover adviseren.
+Let op! Het is raadzaam om de beslistermijn op grond van [artikel 6, vijfde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) dan meteen te verlengen met 13 weken. Bovendien verlengt [artikel 6a, zesde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a) de basistermijn van artikel 6, vijfde lid, RWN reeds automatisch van 13 weken naar 17 weken als de beslistermijn. De autoriteit deelt vervolgens schriftelijk de optant mee dat aan Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden beslist. Onze Minister zal binnen vier weken na ontvangst van het verzoek om advies ([model 1.50](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07)) de autoriteit hierover adviseren.
 
 Het advies is een advies als bedoeld in [afdeling 3.3. Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) (Awb) en wordt gemotiveerd. Het advies is geen besluit in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) waartegen bezwaar en beroep openstaat. De optant kan wèl bezwaar en beroep aantekenen tegen het (weigerings)besluit van de tot optie bevoegde autoriteit.
 
@@ -3010,7 +3010,7 @@ Met ingang van 2014 is de toelichting op het overgangsrecht van 2003, 2006 en 20
 
 ### Paragraaf 3.1. Voorlichtingsfase
 
-Vanaf 1 oktober 2006 treden de optiebevestiging en het naturalisatiebesluit in werking door de uitreiking ervan aan de betrokkene. Voor het naturalisatiebesluit dat op of na 1 oktober 2006 is vastgesteld, geldt dat dit wordt uitgereikt op de naturalisatieceremonie. Zie [artikel II van het Besluit van 19 mei 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019915&artikel=II), Stb. 250, tot wijziging van het BVVN. Zie verder [artikel 60b BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) en hieronder [paragraaf 3.13](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&z=2020-04-01&g=2020-04-01).
+Vanaf 1 oktober 2006 treden de optiebevestiging en het naturalisatiebesluit in werking door de uitreiking ervan aan de betrokkene. Voor het naturalisatiebesluit dat op of na 1 oktober 2006 is vastgesteld, geldt dat dit wordt uitgereikt op de naturalisatieceremonie. Zie [artikel II van het Besluit van 19 mei 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019915&artikel=II), Stb. 250, tot wijziging van het BVVN. Zie verder [artikel 60b BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) en hieronder [paragraaf 3.13](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&z=2020-05-07&g=2020-05-07).
 
 Met ingang van 1 maart 2009 is de bereidheid om bij verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen een voorwaarde voor de verkrijging van het Nederlanderschap.
 
@@ -3038,7 +3038,7 @@ Uit het afschrift uit de BRP blijkt onder andere of er sprake is van een huwelij
 
 Het verzoek om naturalisatie dient op schrift te worden gesteld en te worden ondertekend door de verzoeker of, in het voorkomende geval, door zijn wettelijk vertegenwoordiger of gemachtigde ([artikel 3, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). In het verzoek dienen de minderjarige kinderen en kindskinderen, voor wie medeverlening wordt gevraagd, te worden vermeld ([artikel 11, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [artikel 31, tweede lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31)). Een model van een verzoek om naturalisatie is opgenomen als model 2.1.
 
-Omdat het van belang is dat de verzoeker aantoont dat hij degene is die hij opgeeft te zijn, dient hij als hoofdregel in persoon te verschijnen bij de indiening van zijn verzoek ([artikel 2, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [artikel 3, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3); zie ook [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.2&paragraaf=3.2.5&z=2020-04-01&g=2020-04-01)). De burgemeester die het verzoek in ontvangst neemt, moet zich door nader onderzoek de nodige zekerheid verschaffen omtrent de identiteit van de verzoeker. Daartoe wordt de verzoeker gevraagd om een geldig buitenlands reisdocument te overleggen. In bepaalde gevallen zijn andere identiteitsdocumenten toegestaan (zie [paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-04-01&g=2020-04-01)). Voorts wordt de verzoeker gevraagd om andere bewijsstukken te overleggen, bijvoorbeeld een geboorteakte (zie [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&z=2020-04-01&g=2020-04-01)).
+Omdat het van belang is dat de verzoeker aantoont dat hij degene is die hij opgeeft te zijn, dient hij als hoofdregel in persoon te verschijnen bij de indiening van zijn verzoek ([artikel 2, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [artikel 3, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3); zie ook [paragraaf 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.2&paragraaf=3.2.5&z=2020-05-07&g=2020-05-07)). De burgemeester die het verzoek in ontvangst neemt, moet zich door nader onderzoek de nodige zekerheid verschaffen omtrent de identiteit van de verzoeker. Daartoe wordt de verzoeker gevraagd om een geldig buitenlands reisdocument te overleggen. In bepaalde gevallen zijn andere identiteitsdocumenten toegestaan (zie [paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-05-07&g=2020-05-07)). Voorts wordt de verzoeker gevraagd om andere bewijsstukken te overleggen, bijvoorbeeld een geboorteakte (zie [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&z=2020-05-07&g=2020-05-07)).
 
 Op grond van [artikel 31, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31) verstrekt de verzoeker bij de indiening van het verzoek, voor zoveel mogelijk, gegevens met betrekking tot zijn:
 
@@ -3050,7 +3050,7 @@ Voor de andere ouder of wettelijk vertegenwoordiger is verschijning in persoon n
 
 Uit het afschrift uit de BRP blijkt onder andere of er sprake is van een huwelijk, een in Nederland geregistreerd partnerschap of een buiten Nederland erkend geregistreerd partnerschap als bedoeld in [artikel 1, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1).
 
-In gevallen, waarin verschijning in persoon weliswaar is voorgeschreven, maar dit om zwaarwegende redenen niet kan worden verlangd, kan het verzoek om naturalisatie worden ingediend c.q. de verklaring van al dan niet instemming met de (mee)naturalisatie worden afgelegd door een daartoe schriftelijk gemachtigde meerderjarige persoon, mits voldoende zekerheid kan worden verkregen over de identiteit van de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder en de gemachtigde ([artikel 3, tweede lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). Bij zwaarwegende redenen wordt gedacht aan fysieke en/of psychische onmogelijkheid om in persoon te verschijnen. De door betrokkene en/of zijn gemachtigde aangevoerde zwaarwegende redenen dienen te worden aangetoond. De gemachtigde dient in persoon aan het loket te verschijnen en de nodige zekerheid te verschaffen over zijn identiteit door het overleggen van een geldig identiteitsbewijs. De machtiging dient schriftelijk te zijn en ondertekend door de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder. De gemachtigde dient een geldig buitenlands reisdocument van de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder te overleggen. Hierbij geldt dat in bepaalde gevallen andere identiteitsdocumenten zijn toegestaan, zie [paragraaf 3.5.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-04-01&g=2020-04-01)
+In gevallen, waarin verschijning in persoon weliswaar is voorgeschreven, maar dit om zwaarwegende redenen niet kan worden verlangd, kan het verzoek om naturalisatie worden ingediend c.q. de verklaring van al dan niet instemming met de (mee)naturalisatie worden afgelegd door een daartoe schriftelijk gemachtigde meerderjarige persoon, mits voldoende zekerheid kan worden verkregen over de identiteit van de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder en de gemachtigde ([artikel 3, tweede lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). Bij zwaarwegende redenen wordt gedacht aan fysieke en/of psychische onmogelijkheid om in persoon te verschijnen. De door betrokkene en/of zijn gemachtigde aangevoerde zwaarwegende redenen dienen te worden aangetoond. De gemachtigde dient in persoon aan het loket te verschijnen en de nodige zekerheid te verschaffen over zijn identiteit door het overleggen van een geldig identiteitsbewijs. De machtiging dient schriftelijk te zijn en ondertekend door de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder. De gemachtigde dient een geldig buitenlands reisdocument van de verzoeker c.q. het mee te naturaliseren kind van zestien jaar of ouder te overleggen. Hierbij geldt dat in bepaalde gevallen andere identiteitsdocumenten zijn toegestaan, zie [paragraaf 3.5.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-05-07&g=2020-05-07)
 
 ### Paragraaf 3.5.1. Buitenlands reisdocument
 
@@ -3082,7 +3082,7 @@ In sommige gevallen kan het noodzakelijk zijn om nadere gegevens en bewijsstukke
 
 Ten aanzien van de afstandsverplichting informeert de burgemeester –voor zover mogelijk –de verzoeker of hij al dan niet behoort tot een uitzonderingscategorie dan wel of redelijkerwijs van hem kan worden verlangd dat hij afstand doet van zijn oorspronkelijke nationaliteit. Indien geen van de uitzonderingen van toepassing is, dient de verzoeker een verklaring te ondertekenen dat hij bereid is het mogelijke te zullen doen om bij of na de totstandkoming van de naturalisatie zijn oorspronkelijke nationaliteit(en) te verliezen ([artikel 32 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=32)). De bereidheidsverklaring is opgenomen als model 2.4 respectievelijk model 2.5. Zie voor de afstandsverplichting verder de toelichting bij artikel 9, eerste lid, aanhef en onder b, RWN.
 
-Met ingang van 1 maart 2009 verklaart betrokkene bij de indiening van zijn verzoek om naturalisatie dat hij bereid is een verklaring van verbondenheid af te leggen. De bereidheid van de verzoeker tot het afleggen van de verklaring van verbondenheid wordt met het formulier ‘Bereidverklaring afleggen verklaring van verbondenheid’ ([model 2.30](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)) vastgelegd op het moment dat het verzoek om verkrijging van het Nederlanderschap door naturalisatie wordt ingediend.
+Met ingang van 1 maart 2009 verklaart betrokkene bij de indiening van zijn verzoek om naturalisatie dat hij bereid is een verklaring van verbondenheid af te leggen. De bereidheid van de verzoeker tot het afleggen van de verklaring van verbondenheid wordt met het formulier ‘Bereidverklaring afleggen verklaring van verbondenheid’ ([model 2.30](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)) vastgelegd op het moment dat het verzoek om verkrijging van het Nederlanderschap door naturalisatie wordt ingediend.
 
 De verklaring van verbondenheid drukt de verbondenheid met de Nederlandse samenleving uit. Dit wordt uitgedrukt in het respect voor de rechtsorde en in de belofte de plichten te vervullen die uit het Nederlanderschap voortvloeien.
 
@@ -3124,9 +3124,9 @@ Indien de verzoeker weigert de bereidverklaring te ondertekenen of op de bereidv
 
 Het bovenstaande betreft medenaturalisatie in de zin van [art. 11, eerste, tweede, derde en zevende lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11). Na-naturalisatie van het minderjarige kind, zoals bedoeld in artikel 11, vierde lid, valt ook onder de vrijstelling.
 
-Iedere verzoeker om (mede)naturalisatie van 16 jaar of ouder moet door middel van de verklaring verblijf en gedrag ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)) schriftelijk verklaren dat in het kader van de verkrijging en het behoud van de verblijfsvergunning van hemzelf en, als er ook een verzoek om medeverlening voor een kind van onder de 16 jaar wordt ingediend, ook over dit kind de gevraagde gegevens naar waarheid zijn verstrekt en geen relevante gegevens zijn verzwegen ([artikel 31, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31)), of hij al dan niet in aanraking is geweest met politie en/of Justitie en of hij niet met meer dan één vrouw is getrouwd. Als de verzoeker in deze verklaring aangeeft wel in aanraking te zijn geweest met politie en/of Justitie of dat hij met meer dan één vrouw is getrouwd, dan informeert de burgemeester de verzoeker, voordat hij de verklaring ondertekent, over de openbare orde richtlijnen en het beginsel van monogamie bij naturalisatie en wijst hij de verzoeker erop dat een en ander gevolgen kan hebben voor de beslissing op het verzoek om naturalisatie. De 16 of 17-jarige voor wie medeverlening wordt verzocht, ondertekent zelf het model 2.3. waarin zijn/haar gegevens zijn ingevuld. In dat model is ruimte voor bijzondere feiten en/of omstandigheden op grond waarvan, naar mening van de ondertekenaar of ten aanzien van hem niet mag worden geconcludeerd dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk. Zie ook de [toelichting bij artikel 9, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=6&z=2020-04-01&g=2020-04-01) (paragraaf 6.1).
+Iedere verzoeker om (mede)naturalisatie van 16 jaar of ouder moet door middel van de verklaring verblijf en gedrag ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)) schriftelijk verklaren dat in het kader van de verkrijging en het behoud van de verblijfsvergunning van hemzelf en, als er ook een verzoek om medeverlening voor een kind van onder de 16 jaar wordt ingediend, ook over dit kind de gevraagde gegevens naar waarheid zijn verstrekt en geen relevante gegevens zijn verzwegen ([artikel 31, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31)), of hij al dan niet in aanraking is geweest met politie en/of Justitie en of hij niet met meer dan één vrouw is getrouwd. Als de verzoeker in deze verklaring aangeeft wel in aanraking te zijn geweest met politie en/of Justitie of dat hij met meer dan één vrouw is getrouwd, dan informeert de burgemeester de verzoeker, voordat hij de verklaring ondertekent, over de openbare orde richtlijnen en het beginsel van monogamie bij naturalisatie en wijst hij de verzoeker erop dat een en ander gevolgen kan hebben voor de beslissing op het verzoek om naturalisatie. De 16 of 17-jarige voor wie medeverlening wordt verzocht, ondertekent zelf het model 2.3. waarin zijn/haar gegevens zijn ingevuld. In dat model is ruimte voor bijzondere feiten en/of omstandigheden op grond waarvan, naar mening van de ondertekenaar of ten aanzien van hem niet mag worden geconcludeerd dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk. Zie ook de [toelichting bij artikel 9, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=6&z=2020-05-07&g=2020-05-07) (paragraaf 6.1).
 
-Let op! Als minderjarigen meenaturaliseren, dan moet voor elke minderjarige van 16 jaar of ouder een [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) volledig ingevuld en ondertekend worden meegestuurd bij het verzoek.
+Let op! Als minderjarigen meenaturaliseren, dan moet voor elke minderjarige van 16 jaar of ouder een [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) volledig ingevuld en ondertekend worden meegestuurd bij het verzoek.
 
 De verzoeker moet in beginsel de volgende buitenlandse akten (van de burgerlijke stand) overleggen (zie voor uitzonderingen hieronder paragraaf [3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.4&z=2019-07-01&g=2019-07-01)):
 
@@ -3138,7 +3138,7 @@ Als de overgelegde buitenlandse akten van de burgerlijke stand ten tijde van de 
 
 ### Paragraaf 3.5.3. In het verleden overgelegde buitenlandse akten
 
-Om zekerheid te verkrijgen over de identiteit en nationaliteit van de vreemdeling die door naturalisatie het Nederlanderschap wil verkrijgen, overlegt de vreemdeling nationaliteit en -identiteit vaststellende documenten (zie onder meer artikel 31 BvvN en [paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-04-01&g=2020-04-01) en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.3&z=2020-04-01&g=2020-04-01) bij artikel 7 RWN). Dit geldt ook voor de vreemdeling aan wie een regulier verblijfsrecht is verstrekt, waarbij hij, al dan niet ambtshalve, is vrijgesteld van het ‘paspoortvereiste’.
+Om zekerheid te verkrijgen over de identiteit en nationaliteit van de vreemdeling die door naturalisatie het Nederlanderschap wil verkrijgen, overlegt de vreemdeling nationaliteit en -identiteit vaststellende documenten (zie onder meer artikel 31 BvvN en [paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-05-07&g=2020-05-07) en [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.3&z=2020-05-07&g=2020-05-07) bij artikel 7 RWN). Dit geldt ook voor de vreemdeling aan wie een regulier verblijfsrecht is verstrekt, waarbij hij, al dan niet ambtshalve, is vrijgesteld van het ‘paspoortvereiste’.
 
 ### Paragraaf 3. (Geen) bedenkingen tegen verblijf voor onbepaalde tijd
 
@@ -3178,7 +3178,7 @@ Het kind dat zelfstandig een naturalisatieverzoek doet maar meerderjarig is, val
 
 De verzoeker die vanwege het ontbreken van centraal gezag of door Nederland erkend centraal gezag in de verblijfsrechtelijke procedure is vrijgesteld van het ‘paspoortvereiste’ en die in het bezit is van een regulier verblijfsdocument, moet eveneens zijn identiteit en nationaliteit aantonen. Hiertoe overlegt de verzoeker documenten waarover hij wel de beschikking heeft, bijvoorbeeld een (oud) paspoort, identiteitsbewijs, geboortebewijs en/of huwelijksakte. Conform de ‘Circulaire legalisatie en verificatie buitenlandse bewijsstukken, alsmede toepassing DNA-onderzoek in gevallen waarin bewijsstukken ontbreken’, kan niet om legalisatie en verificatie van deze documenten worden verzocht. Voor de vraag of sprake is van een land zonder (erkend) centraal gezag kan de burgemeester contact opnemen met de ketenpartnerlijn van de IND.
 
-De verzoeker moet in beginsel de volgende buitenlandse akten (van de burgerlijke stand) overleggen (zie voor uitzonderingen hieronder paragraaf [3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.4&z=2020-04-01&g=2020-04-01)):
+De verzoeker moet in beginsel de volgende buitenlandse akten (van de burgerlijke stand) overleggen (zie voor uitzonderingen hieronder paragraaf [3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.4&z=2020-05-07&g=2020-05-07)):
 
 Het belang van de buitenlandse geboorteakte in de naturalisatieprocedure is onder meer dat aan de hand daarvan de namen van de verzoeker om naturalisatie blijken naar diens eigen recht, en dat daarmee kan worden bepaald of betrokkene (al) een geslachtsnaam heeft of niet. Als de verzoeker geen geslachtsnaam of voornaam heeft, of als de juiste spelling daarvan niet vaststaat, zullen deze in overleg met hem worden vastgesteld bij het besluit waarbij het Nederlanderschap wordt verleend ([art. 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12)). Niet in alle landen worden geboorten met een ’akte van de burgerlijke stand’ geregistreerd. Afhankelijk van het stelsel in het land waar het over gaat, wordt dan een alternatief bewijsstuk van de geboorte gevraagd zoals een geboortebewijs uit een ziekenhuis of een inschrijving in een familieboekje.
 
@@ -3484,11 +3484,11 @@ Ingevolge [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### paragraaf 2.4.2. Beoordeling of aan de (overige) voorwaarden wordt voldaan
 
-Van de verplichting van het ondertekenen van de bereidverklaring en het vervolgens afleggen van de verklaring van verbondenheid wordt alleen vrijstelling gegeven, indien het afleggen van de verklaring van verbondenheid redelijkerwijs niet gevraagd kan worden (zie daarvoor toelichting bij artikel 60a, vijfde lid en zesde lid, BVVN). Zie [paragraaf 2.2.4.1 Bereidverklaring afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-04-01&g=2020-04-01) voor de uitzonderingssituaties.
+Van de verplichting van het ondertekenen van de bereidverklaring en het vervolgens afleggen van de verklaring van verbondenheid wordt alleen vrijstelling gegeven, indien het afleggen van de verklaring van verbondenheid redelijkerwijs niet gevraagd kan worden (zie daarvoor toelichting bij artikel 60a, vijfde lid en zesde lid, BVVN). Zie [paragraaf 2.2.4.1 Bereidverklaring afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-05-07&g=2020-05-07) voor de uitzonderingssituaties.
 
 ### Paragraaf 2.2.4.3.1. Bereidheidsverklaring afstand
 
-**Uitzonderingen** (zie [paragraaf 2.12.4.2 uitzondering (mondeling) afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.4&paragraaf=2.12.4.2&z=2020-04-01&g=2020-04-01))
+**Uitzonderingen** (zie [paragraaf 2.12.4.2 uitzondering (mondeling) afleggen verklaring van verbondenheid in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.4&paragraaf=2.12.4.2&z=2020-05-07&g=2020-05-07))
 
 ### 5. Niet uitreiken bij niet verschijnen of weigering afleggen verklaring van verbondenheid (artikel 60a, derde lid, BVVN en paragraaf 2.12.3 Afleggen verklaring van verbondenheid)
 
@@ -3572,7 +3572,7 @@ Als de nationaliteit van de optant met een regulier verblijfsrecht in de BRP is 
 
 ### Paragraaf 2.2.5.3. In het verleden overgelegde buitenlandse akten
 
-Als de optant met nationaliteit ‘onbekend’ in de BRP is opgenomen, in overeenstemming met artikel 2.15 Wet BRP of de voorganger daarvan, [artikel 43 Wet GBA](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=43), moet hij in beginsel een geldig buitenlands reisdocument (paspoort) overleggen (paragraaf [2.2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-04-01&g=2020-04-01)).
+Als de optant met nationaliteit ‘onbekend’ in de BRP is opgenomen, in overeenstemming met artikel 2.15 Wet BRP of de voorganger daarvan, [artikel 43 Wet GBA](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=43), moet hij in beginsel een geldig buitenlands reisdocument (paspoort) overleggen (paragraaf [2.2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-05-07&g=2020-05-07)).
 
 ### 6a-2-b. Toelichting ad [artikel 6a, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)
 
@@ -3580,7 +3580,7 @@ Het bovenstaande geldt ook voor een kind dat niet is mee-geopteerd met de ouder 
 
 ### Paragraaf 2.2.5.2. Buitenlandse akten van de burgerlijke stand
 
-Voor wat betreft verklaringen en/of afschriften dan wel uittreksels van buitenlandse akten van de burgerlijke stand geldt dat de optant in beginsel de volgende documenten over moet leggen (zie voor uitzonderingen ook hierna bij paragraaf [2.2.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.4&z=2020-04-01&g=2020-04-01) en paragraaf [2.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.5&z=2020-04-01&g=2020-04-01)):
+Voor wat betreft verklaringen en/of afschriften dan wel uittreksels van buitenlandse akten van de burgerlijke stand geldt dat de optant in beginsel de volgende documenten over moet leggen (zie voor uitzonderingen ook hierna bij paragraaf [2.2.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.4&z=2020-05-07&g=2020-05-07) en paragraaf [2.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.5&z=2020-05-07&g=2020-05-07)):
 
 ### paragraaf 2.8. Weigering bevestiging
 
@@ -3684,7 +3684,7 @@ De verklaring van verbondenheid wordt besloten met het uitspreken van de bevesti
 
 ### paragraaf 2.9.2.2. Bezwaarschrift tegen weigering medeverkrijging Nederlanderschap door kind gegrond
 
-Indien in de bezwaarfase wordt geconcludeerd dat de bevestiging van de medeverkrijging van het Nederlanderschap ten aanzien van een minderjarig kind van de optant ten onrechte is geweigerd, wordt ten aanzien van dit kind alsnog een bevestiging afgegeven (model 1.33 en model 1.34). Het kind wordt in dat geval geacht het Nederlanderschap te hebben verkregen gelijktijdig met de ouder. Hierbij verdient aandacht dat het kind op het moment van de bevestiging van de verkrijging van Nederlanderschap van de ouder aan alle voorwaarden voor medeverkrijging moet hebben voldaan (ex tunc-toetsing). Van delen in de verkrijging van het Nederlanderschap kan immers geen sprake meer zijn als pas na de bevestiging van de ouder aan de voorwaarden wordt voldaan. Als het kind achteraf bezien op het moment van de bevestiging van de verkrijging van het Nederlanderschap door de ouder wél aan alle voorwaarden voldeed, maar nadien niet meer aan de voorwaarden voldoet, wordt de bevestiging wél alsnog afgegeven. De optiebevestiging wordt, indien de minderjarige medeoptant verplicht is de verklaring van verbondenheid af te leggen, na het afleggen van die verklaring in beginsel op een naturalisatieceremonie door middel van uitreiking aan de wettelijk vertegenwoordiger van het kind en aan de ouder die heeft verzocht om medeverkrijging (indien die ouder niet tevens wettelijk vertegenwoordiger is ) bekendgemaakt. Is de minderjarige niet wettelijk verplicht tot afleggen van de verklaring van verbondenheid dan wordt de bevestiging onverwijld aan de wettelijk vertegenwoordiger van het kind en aan de ouder die heeft verzocht om medeverkrijging (indien die ouder niet tevens wettelijk vertegenwoordiger is) uitgereikt of per aangetekende post verzonden. Indien het kind inmiddels meerderjarig is geworden, wordt tevens een kopie van de bevestiging aan betrokkene zelf uitgereikt dan wel per post aan het kind verzonden. Indien het bezwaarschrift is ingediend door een gemachtigde of advocaat, wordt deze uiteraard ook over het besluit ingelicht. De verscheidene instanties worden van de bevestiging op de hoogte gebracht (zie hierboven [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.6&z=2020-04-01&g=2020-04-01)). Vervolgens wordt het dossier gearchiveerd (zie hierboven [paragraaf 2.7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.7&z=2020-04-01&g=2020-04-01)).
+Indien in de bezwaarfase wordt geconcludeerd dat de bevestiging van de medeverkrijging van het Nederlanderschap ten aanzien van een minderjarig kind van de optant ten onrechte is geweigerd, wordt ten aanzien van dit kind alsnog een bevestiging afgegeven (model 1.33 en model 1.34). Het kind wordt in dat geval geacht het Nederlanderschap te hebben verkregen gelijktijdig met de ouder. Hierbij verdient aandacht dat het kind op het moment van de bevestiging van de verkrijging van Nederlanderschap van de ouder aan alle voorwaarden voor medeverkrijging moet hebben voldaan (ex tunc-toetsing). Van delen in de verkrijging van het Nederlanderschap kan immers geen sprake meer zijn als pas na de bevestiging van de ouder aan de voorwaarden wordt voldaan. Als het kind achteraf bezien op het moment van de bevestiging van de verkrijging van het Nederlanderschap door de ouder wél aan alle voorwaarden voldeed, maar nadien niet meer aan de voorwaarden voldoet, wordt de bevestiging wél alsnog afgegeven. De optiebevestiging wordt, indien de minderjarige medeoptant verplicht is de verklaring van verbondenheid af te leggen, na het afleggen van die verklaring in beginsel op een naturalisatieceremonie door middel van uitreiking aan de wettelijk vertegenwoordiger van het kind en aan de ouder die heeft verzocht om medeverkrijging (indien die ouder niet tevens wettelijk vertegenwoordiger is ) bekendgemaakt. Is de minderjarige niet wettelijk verplicht tot afleggen van de verklaring van verbondenheid dan wordt de bevestiging onverwijld aan de wettelijk vertegenwoordiger van het kind en aan de ouder die heeft verzocht om medeverkrijging (indien die ouder niet tevens wettelijk vertegenwoordiger is) uitgereikt of per aangetekende post verzonden. Indien het kind inmiddels meerderjarig is geworden, wordt tevens een kopie van de bevestiging aan betrokkene zelf uitgereikt dan wel per post aan het kind verzonden. Indien het bezwaarschrift is ingediend door een gemachtigde of advocaat, wordt deze uiteraard ook over het besluit ingelicht. De verscheidene instanties worden van de bevestiging op de hoogte gebracht (zie hierboven [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.6&z=2020-05-07&g=2020-05-07)). Vervolgens wordt het dossier gearchiveerd (zie hierboven [paragraaf 2.7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.7&z=2020-05-07&g=2020-05-07)).
 
 ### paragraaf 2.9.2.3. Bezwaarschrift niet-ontvankelijk of ongegrond
 
@@ -3692,7 +3692,7 @@ Indien in de bezwaarfase wordt geconcludeerd dat de bevestiging van de medeverkr
 
 ### paragraaf 2.11. Verhuizing van de optant tijdens de procedure
 
-De burgemeester die de optieverklaring in ontvangst heeft genomen, blijft verantwoordelijk voor de verdere afhandeling ervan. Ook indien de optant tijdens de procedure zijn hoofdverblijf verlegt naar een andere gemeente of buiten Nederland is uitsluitend hij bevoegd tot de bevestiging/weigering van de verkrijging van het Nederlanderschap. Heeft de optant ná de bevestiging niet langer hoofdverblijf in de gemeente waar de optieverklaring is bevestigd, dan zal de burgemeester die de optie bevestigt in het algemeen de uitreiking van de bevestiging door middel van een machtiging overdragen aan de burgemeester van de nieuwe woonplaats van de optant. Indien de burgemeester, ondanks verhuizing van de optant naar een andere gemeente, toch besluit de bevestiging zelf uit te reiken, zal hij de burgemeester van de nieuwe woonplaats van de optant daarvan in kennis stellen. (Zie ook [paragraaf 2.12.2.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.2&z=2020-04-01&g=2020-04-01))
+De burgemeester die de optieverklaring in ontvangst heeft genomen, blijft verantwoordelijk voor de verdere afhandeling ervan. Ook indien de optant tijdens de procedure zijn hoofdverblijf verlegt naar een andere gemeente of buiten Nederland is uitsluitend hij bevoegd tot de bevestiging/weigering van de verkrijging van het Nederlanderschap. Heeft de optant ná de bevestiging niet langer hoofdverblijf in de gemeente waar de optieverklaring is bevestigd, dan zal de burgemeester die de optie bevestigt in het algemeen de uitreiking van de bevestiging door middel van een machtiging overdragen aan de burgemeester van de nieuwe woonplaats van de optant. Indien de burgemeester, ondanks verhuizing van de optant naar een andere gemeente, toch besluit de bevestiging zelf uit te reiken, zal hij de burgemeester van de nieuwe woonplaats van de optant daarvan in kennis stellen. (Zie ook [paragraaf 2.12.2.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.2&z=2020-05-07&g=2020-05-07))
 
 ### paragraaf 2.12. Naturalisatieceremonie
 
@@ -3708,7 +3708,7 @@ De eis tot afleggen van de verklaring van verbondenheid geldt alleen voor optiev
 
 ### paragraaf 2.12.2. De uitreiking/naturalisatieceremonie
 
-De burgemeester houdt bij of een verklaring van verbondenheid is afgelegd en de wijze waarop dit is gebeurd. Het feit van aflegging tekent de burgemeester aan op het afschrift van de optiebevestiging dat aan de IND ter opname in het nationaliteitenregister wordt verzonden (zie tevens [paragraaf 2.12.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.4&z=2020-04-01&g=2020-04-01)**Procedurele aspecten na de terugmelding**). Dit geldt alleen voor optieverklaringen die zijn afgelegd op of ná 1 maart 2009.
+De burgemeester houdt bij of een verklaring van verbondenheid is afgelegd en de wijze waarop dit is gebeurd. Het feit van aflegging tekent de burgemeester aan op het afschrift van de optiebevestiging dat aan de IND ter opname in het nationaliteitenregister wordt verzonden (zie tevens [paragraaf 2.12.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.12&paragraaf=2.12.4&z=2020-05-07&g=2020-05-07)**Procedurele aspecten na de terugmelding**). Dit geldt alleen voor optieverklaringen die zijn afgelegd op of ná 1 maart 2009.
 
 ### paragraaf 2.12.4.2. Mondeling afleggen verklaring van verbondenheid en uitzonderingen
 
@@ -3874,7 +3874,7 @@ Zie voor een uitleg van het begrip ‘toelating’ de toelichting bij artikel 1,
 
 Verzoeker heeft zich gewend tot de ambassade van het land waarvan hij onderdaan is. Hij heeft daar verzocht in het bezit te worden gesteld van een paspoort teneinde zijn identiteit aan te tonen bij de indiening van zijn verzoek om naturalisatie. Door de ambassade is verzoeker vervolgens niet in het bezit gesteld van het gevraagde paspoort. Hij heeft wel een brief ontvangen waarin is opgenomen dat hij door de ambassade niet in het bezit kan worden gesteld van het gevraagde paspoort, aangezien paspoorten en identiteitsbewijzen enkel door de bevoegde instanties in het land van herkomst kunnen worden afgegeven. Naar aanleiding van deze brief heeft verzoeker geen actie ondernomen, maar legt hij de brief bij de IND over als zijnde een bewijsstuk van bewijsnood. In dit geval is géén sprake van bewijsnood.
 
-### paragraaf 3.4.1. Bereidverklaring afleggen verklaring van verbondenheid ([model 2.30](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01))
+### paragraaf 3.4.1. Bereidverklaring afleggen verklaring van verbondenheid ([model 2.30](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07))
 
 De verplichting tot bereidverklaring en het afleggen van de verklaring van verbondenheid rust op de meerderjarige naturalisandus. Daarnaast geldt de verplichting tot bereidverklaring en het afleggen van de verklaring van verbondenheid ook voor de minderjarige naturalisandus die op het tijdstip waarop het verzoek om naturalisatie, op grond van [artikel 11, derde en vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), wordt ingediend zestien jaar of ouder is.
 
@@ -3892,7 +3892,7 @@ Het verzoek om naturalisatie moet zoveel mogelijk worden ondersteund door (bewij
 
 ### paragraaf 3.8.3. Verhuizing tijdens de adviesfase
 
-Als de verzoeker een aantal benodigde gegevens of vereiste documenten niet kan verstrekken, wordt hem geadviseerd te wachten met de indiening van het verzoek tot het moment waarop alle vereiste gegevens en documenten kunnen worden verstrekt. Mocht verzoeker er toch op staan om zijn verzoek in te dienen, ondanks het niet overleggen van de door de burgemeester gevraagde documenten of het niet voldoen aan de voorwaarden voor naturalisatie, dan neemt de burgemeester het verzoek in ontvangst. In dat geval ondertekent de verzoeker [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01). Volledigheid van de stukken is in het belang van de verzoeker, aangezien in geval van afwijzing van het verzoek om naturalisatie de naturalisatiegelden niet worden terugbetaald.
+Als de verzoeker een aantal benodigde gegevens of vereiste documenten niet kan verstrekken, wordt hem geadviseerd te wachten met de indiening van het verzoek tot het moment waarop alle vereiste gegevens en documenten kunnen worden verstrekt. Mocht verzoeker er toch op staan om zijn verzoek in te dienen, ondanks het niet overleggen van de door de burgemeester gevraagde documenten of het niet voldoen aan de voorwaarden voor naturalisatie, dan neemt de burgemeester het verzoek in ontvangst. In dat geval ondertekent de verzoeker [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07). Volledigheid van de stukken is in het belang van de verzoeker, aangezien in geval van afwijzing van het verzoek om naturalisatie de naturalisatiegelden niet worden terugbetaald.
 
 ### Paragraaf 3.5.1. Buitenlands reisdocument/aantonen bezit vreemde nationaliteit
 
@@ -3908,7 +3908,7 @@ Ook indien de verzoeker in het bezit is gesteld van een Nederlands reisdocument 
 
 ### paragraaf 3.7.4. Buitenbehandelingstelling
 
-Als de verzoeker met nationaliteit ‘onbekend’ in de BRP is opgenomen, in overeenstemming met artikel 2.15 Wet BRP of de voorganger daarvan, [artikel 43 Wet GBA](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=43), moet hij in beginsel een geldig buitenlands reisdocument (paspoort) overleggen ([paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-04-01&g=2020-04-01)).
+Als de verzoeker met nationaliteit ‘onbekend’ in de BRP is opgenomen, in overeenstemming met artikel 2.15 Wet BRP of de voorganger daarvan, [artikel 43 Wet GBA](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=43), moet hij in beginsel een geldig buitenlands reisdocument (paspoort) overleggen ([paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.1&z=2020-05-07&g=2020-05-07)).
 
 ### Paragraaf 3.9. Medeverlening aan minderjarigen met een verblijfsvergunning asiel voor bepaalde tijd (vva-bep)
 
@@ -3996,7 +3996,7 @@ Bij deze optiecategorie geldt [artikel 1, eerste lid aanhef en onder b, RWN](htt
 
 In [artikel 21 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21) is bepaald dat bij algemene maatregel van rijksbestuur de autoriteiten en ambtenaren worden aangewezen die bevoegd zijn tot het in ontvangst nemen van optieverklaringen tot verkrijging van het Nederlanderschap. Voorts is bepaald dat bij algemene maatregel van rijksbestuur nadere voorschriften kunnen worden gesteld betreffende de wijze van inontvangstneming van de verklaringen en de bevestigingen van de verkrijging van het Nederlanderschap, alsmede betreffende de verdere administratieve behandeling van de verkrijging van het Nederlanderschap. In het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) zijn deze voorschriften opgenomen en vorenbedoelde autoriteiten en ambtenaren aangewezen. In [artikel 2, aanhef en onder a, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) is bepaald dat in Nederland de burgemeesters bevoegd zijn tot het in ontvangst nemen van de optieverklaringen. De vormvoorschriften, procedurele vereisten en administratieve behandeling van de verklaringen zijn voor Nederland geregeld in de [artikelen 3 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3) en [60a BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a). In de hierna opgenomen procedurebeschrijving is de volgorde van het BVVN aangehouden. Hierop wordt echter een uitzondering gemaakt voor de eerste procedurestap: ‘Informatieverstrekking’ die zich naar zijn aard niet leent voor opname in het BVVN, maar in de uitvoeringspraktijk over het algemeen wel aan het afleggen van de optieverklaring vooraf zal gaan.
 
-Met ingang van 1 maart 2009 is de verklaring van verbondenheid een nieuwe voorwaarde voor verkrijging van het Nederlanderschap door optie en een verplicht onderdeel van de naturalisatieceremonie. Niet alleen is het ondertekenen van de bereidverklaring bij het afleggen van de optieverklaring een vereiste voor het verkrijgen van het Nederlanderschap, maar ook het daadwerkelijk afleggen van de verklaring van verbondenheid is een nieuw vereiste. De eis een bereidverklaring te ondertekenen en op een later moment, in beginsel tijdens de naturalisatieceremonie, de verklaring van verbondenheid af te leggen, geldt alleen als de optieverklaring op of na 1 maart 2009 wordt afgelegd. (Het Nederlanderschap wordt niet verkregen indien de verklaring van verbondenheid niet wordt afgelegd1Zie ook toelichting bij artikel 60a, derde lid, BVVN en [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=7), [artikel 8, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) en [artikel 28 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28).. Immers het besluit tot bevestiging wordt dan niet bekendgemaakt/uitgereikt (zie tevens [paragraaf 2.2.4.1 in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-04-01&g=2020-04-01)).
+Met ingang van 1 maart 2009 is de verklaring van verbondenheid een nieuwe voorwaarde voor verkrijging van het Nederlanderschap door optie en een verplicht onderdeel van de naturalisatieceremonie. Niet alleen is het ondertekenen van de bereidverklaring bij het afleggen van de optieverklaring een vereiste voor het verkrijgen van het Nederlanderschap, maar ook het daadwerkelijk afleggen van de verklaring van verbondenheid is een nieuw vereiste. De eis een bereidverklaring te ondertekenen en op een later moment, in beginsel tijdens de naturalisatieceremonie, de verklaring van verbondenheid af te leggen, geldt alleen als de optieverklaring op of na 1 maart 2009 wordt afgelegd. (Het Nederlanderschap wordt niet verkregen indien de verklaring van verbondenheid niet wordt afgelegd1Zie ook toelichting bij artikel 60a, derde lid, BVVN en [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=7), [artikel 8, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) en [artikel 28 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28).. Immers het besluit tot bevestiging wordt dan niet bekendgemaakt/uitgereikt (zie tevens [paragraaf 2.2.4.1 in de toelichting bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.1&z=2020-05-07&g=2020-05-07)).
 
 Voor een minderjarige optant wordt de optieverklaring afgelegd door (een van) zijn wettelijk vertegenwoordiger(s). In beginsel dient de wettelijk vertegenwoordiger in persoon te verschijnen ([artikel 2, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [artikel 3, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)) en zich met een geldig identiteitsbewijs te legitimeren. Van verschijning in persoon door de wettelijk vertegenwoordiger kan slechts om zwaarwegende redenen worden afgeweken (zie artikel 2, tweede lid, RWN en [artikel 3, tweede lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). De minderjarige optant die jonger dan twaalf jaar is, wordt niet in de gelegenheid gesteld een zienswijze naar voren te brengen omtrent de verkrijging van het Nederlanderschap (zie de toelichting bij artikel 2, vierde lid, RWN).
 
@@ -4006,7 +4006,7 @@ Het afleggen van een optieverklaring zal worden voorafgegaan door informatievers
 
 ### paragraaf 2.2.1. Vormvereisten: afleggen in persoon
 
-Omdat in het kader van optie van belang is dat wordt aangetoond dat de optant degene is die hij opgeeft te zijn, dient de optant bij het afleggen van zijn verklaring in beginsel in persoon te verschijnen ([artikel 2, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [artikel 3, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). De burgemeester die de verklaring in ontvangst neemt, moet zich door middel van onderzoek de nodige zekerheid verschaffen omtrent de identiteit van de optant. In dit kader wordt de optant verzocht een geldig buitenlands reisdocument32In bepaalde gevallen zijn andere identiteitsdocumenten toegestaan. Zie bij [paragraaf 2.2.5.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-04-01&g=2020-04-01) te overleggen. Daarnaast kan de optant worden verzocht andere bewijsstukken, zoals een geboorteakte te tonen (zie hierna onder [paragrafen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-04-01&g=2020-04-01) en [2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&z=2020-04-01&g=2020-04-01) bij onderhavig artikellid).
+Omdat in het kader van optie van belang is dat wordt aangetoond dat de optant degene is die hij opgeeft te zijn, dient de optant bij het afleggen van zijn verklaring in beginsel in persoon te verschijnen ([artikel 2, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [artikel 3, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). De burgemeester die de verklaring in ontvangst neemt, moet zich door middel van onderzoek de nodige zekerheid verschaffen omtrent de identiteit van de optant. In dit kader wordt de optant verzocht een geldig buitenlands reisdocument32In bepaalde gevallen zijn andere identiteitsdocumenten toegestaan. Zie bij [paragraaf 2.2.5.1.](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&paragraaf=2.2.5.1&z=2020-05-07&g=2020-05-07) te overleggen. Daarnaast kan de optant worden verzocht andere bewijsstukken, zoals een geboorteakte te tonen (zie hierna onder [paragrafen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-05-07&g=2020-05-07) en [2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.5&z=2020-05-07&g=2020-05-07) bij onderhavig artikellid).
 
 De optieverklaring dient op schrift te worden gesteld ([artikel 6, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)) en door de betrokkene of, in het voorkomende geval, door zijn wettelijk vertegenwoordiger of gemachtigde te worden ondertekend ([artikel 3, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3)). In de verklaring dienen de minderjarige kinderen en de kindskinderen, voor wie medeverkrijging van het Nederlanderschap wordt beoogd, te worden vermeld ([artikel 6, achtste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)). Als beide ouders op hetzelfde moment een optieverklaring afleggen, worden in beide optieverklaringen alle kinderen opgenomen waarvoor medeverkrijging van het Nederlanderschap wordt gewenst. Hierdoor wordt voorkomen dat een kind niet in de verkrijging van het Nederlanderschap deelt, omdat het bij toeval in de optieverklaring is vermeld van de ouder die niet aan de voorwaarden voldoet.
 
@@ -4072,7 +4072,7 @@ Let op! Als de persoon in het bezit is van een verblijfsvergunning asiel wordt g
 
 ### paragraaf 2.9.2. Afhandeling van de beslissing
 
-Indien door de burgemeester wordt geconcludeerd dat het bezwaarschrift gegrond is en de optant (inmiddels) wel aan de voorwaarden voor verkrijging van het Nederlanderschap voldoet, wordt de verkrijging van het Nederlanderschap alsnog bevestigd en/of wordt de naam van de optant alsnog vastgesteld op de door hem verzochte manier. De bevestiging wordt door middel van uitreiking dan wel door verzending per post aan de optant bekendgemaakt. Indien het bezwaarschrift is ingediend door een gemachtigde of advocaat, wordt deze uiteraard ook over het besluit ingelicht. De verscheidene instanties worden van de bevestiging op de hoogte gebracht (zie hierboven paragraaf 2.6). Vervolgens wordt het dossier gearchiveerd (zie hierboven [paragraaf 2.7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.7&z=2020-04-01&g=2020-04-01)).
+Indien door de burgemeester wordt geconcludeerd dat het bezwaarschrift gegrond is en de optant (inmiddels) wel aan de voorwaarden voor verkrijging van het Nederlanderschap voldoet, wordt de verkrijging van het Nederlanderschap alsnog bevestigd en/of wordt de naam van de optant alsnog vastgesteld op de door hem verzochte manier. De bevestiging wordt door middel van uitreiking dan wel door verzending per post aan de optant bekendgemaakt. Indien het bezwaarschrift is ingediend door een gemachtigde of advocaat, wordt deze uiteraard ook over het besluit ingelicht. De verscheidene instanties worden van de bevestiging op de hoogte gebracht (zie hierboven paragraaf 2.6). Vervolgens wordt het dossier gearchiveerd (zie hierboven [paragraaf 2.7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.7&z=2020-05-07&g=2020-05-07)).
 
 ### paragraaf 3.8. Voorbereiding advies
 
@@ -4228,7 +4228,7 @@ Ingevolge [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### paragraaf 2.2.4.1. Bereidverklaring afleggen verklaring van verbondenheid (model 1.36)
 
-Voor optanten van [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) (tenzij de optant meerderjarig is), artikel 6, eerste lid, aanhef en onder c, RWN, artikel 6, eerste lid, aanhef en onder d en k t/m o, RWN (tenzij de optant 16 jaar of ouder is) en [artikel II RRWN (2008)](https://wetten.overheid.nl/jci1.3:c:BWBR0024168&artikel=II) (tenzij de optant meerderjarig is) geldt geen openbare orde toets. [Model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) hoeft door deze optanten daarom niet ondertekend te worden. Model 1.14 moet wel ondertekend worden door de meerderjarige optant van artikel 6, eerste lid aanhef en onder b en c, RWN en van art. II RRWN (2008). De optant van artikel 6, eerste lid aanhef en onder d en k t/m o RWN die 16 jaar of ouder is, moet model 1.14 ook ondertekenen. Zodra één van beide eisen geldt, moet model 1.14 ondertekend worden.
+Voor optanten van [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) (tenzij de optant meerderjarig is), artikel 6, eerste lid, aanhef en onder c, RWN, artikel 6, eerste lid, aanhef en onder d en k t/m o, RWN (tenzij de optant 16 jaar of ouder is) en [artikel II RRWN (2008)](https://wetten.overheid.nl/jci1.3:c:BWBR0024168&artikel=II) (tenzij de optant meerderjarig is) geldt geen openbare orde toets. [Model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) hoeft door deze optanten daarom niet ondertekend te worden. Model 1.14 moet wel ondertekend worden door de meerderjarige optant van artikel 6, eerste lid aanhef en onder b en c, RWN en van art. II RRWN (2008). De optant van artikel 6, eerste lid aanhef en onder d en k t/m o RWN die 16 jaar of ouder is, moet model 1.14 ook ondertekenen. Zodra één van beide eisen geldt, moet model 1.14 ondertekend worden.
 
 ### Paragraaf 2.2.5.3. In het verleden overgelegde buitenlandse akten
 
@@ -4382,7 +4382,7 @@ Op www.ind.nl is een rapport uit 2016 opgenomen over staatloosheid in de wereld.
 
 ### paragraaf 2.9.2. Afhandeling van de beslissing
 
-Let op! Minderjarige optanten van artikel 6, eerste lid, aanhef onder k t/m o die ten tijde van het afleggen van de optieverklaring jonger zijn dan 16 jaar hoeven [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) niet te ondertekenen. Voor deze optanten geldt geen openbare orde eis en geen eis van toelating en hoofdverblijf.
+Let op! Minderjarige optanten van artikel 6, eerste lid, aanhef onder k t/m o die ten tijde van het afleggen van de optieverklaring jonger zijn dan 16 jaar hoeven [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) niet te ondertekenen. Voor deze optanten geldt geen openbare orde eis en geen eis van toelating en hoofdverblijf.
 
 ### Paragraaf 2.2.5.1. Buitenlands reisdocument/aantonen bezit vreemde nationaliteit
 
@@ -4404,7 +4404,7 @@ Let op! Minderjarige optanten van artikel 6, eerste lid, aanhef onder k t/m o di
 
 ### paragraaf 2.12.3. Afleggen verklaring van verbondenheid
 
-Iedere optant moet door middel van een verklaring verblijf en gedrag ([model 1.14 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01)) schriftelijk verklaren dat hij, of één van de in de verklaring genoemde personen van zestien jaar of ouder, al dan niet in aanraking is geweest met politie en justitie én niet polygaam getrouwd zijn.
+Iedere optant moet door middel van een verklaring verblijf en gedrag ([model 1.14 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07)) schriftelijk verklaren dat hij, of één van de in de verklaring genoemde personen van zestien jaar of ouder, al dan niet in aanraking is geweest met politie en justitie én niet polygaam getrouwd zijn.
 
 ### Bijlage 1
 
@@ -4426,7 +4426,7 @@ Iedere optant moet door middel van een verklaring verblijf en gedrag ([model 1.1
 
 **De autoriteit vraagt advies aan Onze Minister indien de vreemdeling stelt dat afstand van zijn andere nationaliteit redelijkerwijs niet kan worden verlangd. De autoriteit deelt de vreemdeling mee dat Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden besloten.**
 
-Als Onze Minister aan de autoriteit adviseert het beroep op het redelijkerwijs niet kunnen verlangen om afstand te doen, af te wijzen, dan moet de optant in de gelegenheid worden gesteld om alsnog de bereidheidsverklaring te ondertekenen in die zin dat hij bereid is om afstand te doen (zie [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [paragraaf 2.2.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.3&paragraaf=2.2.4.3.1&z=2020-04-01&g=2020-04-01)). Als de optant niet bereid is de bereidheidsverklaring te ondertekenen, dan kan de optieverklaring niet worden bevestigd. Ondertekent de optant wel de bereidheidsverklaring, dan kan de optie, als de optant ook voldoet aan de overige voorwaarden, bevestigd worden. Bij het verzoek aan de optant om alsnog de bereidheidsverklaring te ondertekenen kan het advies van Onze Minister worden meegestuurd.
+Als Onze Minister aan de autoriteit adviseert het beroep op het redelijkerwijs niet kunnen verlangen om afstand te doen, af te wijzen, dan moet de optant in de gelegenheid worden gesteld om alsnog de bereidheidsverklaring te ondertekenen in die zin dat hij bereid is om afstand te doen (zie [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [paragraaf 2.2.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&paragraaf=2&paragraaf=2.2&paragraaf=2.2.4&paragraaf=2.2.4.3&paragraaf=2.2.4.3.1&z=2020-05-07&g=2020-05-07)). Als de optant niet bereid is de bereidheidsverklaring te ondertekenen, dan kan de optieverklaring niet worden bevestigd. Ondertekent de optant wel de bereidheidsverklaring, dan kan de optie, als de optant ook voldoet aan de overige voorwaarden, bevestigd worden. Bij het verzoek aan de optant om alsnog de bereidheidsverklaring te ondertekenen kan het advies van Onze Minister worden meegestuurd.
 
 ### Artikel 7
 
@@ -4510,7 +4510,7 @@ Het besluit verkrijging en verlies Nederlanderschap bevat de voorwaarde dat de o
 
 ### 6a-2-b. Toelichting ad [artikel 6a, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6a)
 
-Als de optant stelt dat afstand redelijkerwijs niet van hem kan worden verlangd, maar aan hem geen beroep toekomt op de in het tweede lid genoemde uitzonderingen, vraagt de autoriteit aan Onze Minister om verplicht advies over de vraag of afstand redelijkerwijs kan worden verlangd. Deze verplichte adviesaanvraag heeft praktische redenen: een eenduidige toepassing van het beleid en het feit dat de IND veel ervaring heeft met het beoordelen van deze uitzonderingen. Voor het vragen van advies moet gebruik worden gemaakt van [model 1.50](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01). Let op! De autoriteit besluit niet eerder op de optieverklaring dan na ontvangst van het advies van Onze Minister.
+Als de optant stelt dat afstand redelijkerwijs niet van hem kan worden verlangd, maar aan hem geen beroep toekomt op de in het tweede lid genoemde uitzonderingen, vraagt de autoriteit aan Onze Minister om verplicht advies over de vraag of afstand redelijkerwijs kan worden verlangd. Deze verplichte adviesaanvraag heeft praktische redenen: een eenduidige toepassing van het beleid en het feit dat de IND veel ervaring heeft met het beoordelen van deze uitzonderingen. Voor het vragen van advies moet gebruik worden gemaakt van [model 1.50](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07). Let op! De autoriteit besluit niet eerder op de optieverklaring dan na ontvangst van het advies van Onze Minister.
 
 ### paragraaf 1. Algemeen
 
@@ -4578,7 +4578,7 @@ Op 1 januari 2012 is de Wet conflictenrecht adoptie (Wcad) vervallen. Vanaf die 
 
 ### 6-1-b. Toelichting ad [artikel 6 eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)
 
-Sinds de inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) op 1 april 2003 is de verkrijging van de Nederlandse nationaliteit door optie niet meer een eenzijdige, vormvrije rechtshandeling. De optant moet in beginsel in persoon verschijnen en de optieverklaring kan alleen nog maar schriftelijk worden uitgebracht. Voor het uitbrengen en voor de behandeling van een optieverklaring zijn optiegelden verschuldigd (zie [artikel 13, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13)). Het Nederlanderschap wordt eerst verkregen nadat het daartoe bevoegde bestuursorgaan de verkrijging van de Nederlandse nationaliteit schriftelijk heeft bevestigd. Het besluit tot bevestiging treedt echter pas in werking nadat het als regel op een naturalisatieceremonie is uitgereikt. De uitreiking kan pas plaatsvinden nadat de verklaring van verbondenheid is afgelegd, tenzij voor optant een uitzondering op deze voorwaarde geldt. Zie voor de naturalisatieceremonie de [toelichting in de Handleiding bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-04-01&g=2020-04-01) en [artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-04-01&g=2020-04-01).
+Sinds de inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) op 1 april 2003 is de verkrijging van de Nederlandse nationaliteit door optie niet meer een eenzijdige, vormvrije rechtshandeling. De optant moet in beginsel in persoon verschijnen en de optieverklaring kan alleen nog maar schriftelijk worden uitgebracht. Voor het uitbrengen en voor de behandeling van een optieverklaring zijn optiegelden verschuldigd (zie [artikel 13, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13)). Het Nederlanderschap wordt eerst verkregen nadat het daartoe bevoegde bestuursorgaan de verkrijging van de Nederlandse nationaliteit schriftelijk heeft bevestigd. Het besluit tot bevestiging treedt echter pas in werking nadat het als regel op een naturalisatieceremonie is uitgereikt. De uitreiking kan pas plaatsvinden nadat de verklaring van verbondenheid is afgelegd, tenzij voor optant een uitzondering op deze voorwaarde geldt. Zie voor de naturalisatieceremonie de [toelichting in de Handleiding bij artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-05-07&g=2020-05-07) en [artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-05-07&g=2020-05-07).
 
 ### Paragraaf 1. Algemeen
 
@@ -4662,7 +4662,7 @@ Nadat de burgemeester een verzoek om naturalisatie in ontvangst heeft genomen, w
 
 ### paragraaf 3.7.1. Beoordeling bereidverklaring afleggen verklaring van verbondenheid (bij verzoeken om naturalisatie ingediend op of ná 1 maart 2009)
 
-De burgemeester controleert bij verzoeken om naturalisatie die op of ná 1 maart 2009 zijn ingediend of iedere persoon die om verkrijging van het Nederlanderschap heeft verzocht en die hiertoe wettelijk verplicht is, zich bereid heeft verklaard bij de verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen (zie [paragraaf 3.4.1 Bereidverklaring afleggen verklaring van verbondenheid (model 2.30)](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-04-01&g=2020-04-01)). Alleen als het afleggen ervan redelijkerwijs niet gevraagd kan worden, zoals aan verzoekers die niet in staat zijn hun wil te bepalen of deze niet kunnen uiten of aan verzoekers aan wie het, door de burgemeester, is toegestaan zich bij de indiening van het verzoek om naturalisatie te laten vertegenwoordigen door een gemachtigde, hoeft de bereidverklaring niet ondertekend te zijn. Indien de verzoeker zich op de naturalisatieceremonie laat vertegenwoordigen door een gemachtigde, moet de verklaring van verbondenheid schriftelijk getekend door de verzoeker, worden aangeleverd door de gemachtigde op de ceremonie.
+De burgemeester controleert bij verzoeken om naturalisatie die op of ná 1 maart 2009 zijn ingediend of iedere persoon die om verkrijging van het Nederlanderschap heeft verzocht en die hiertoe wettelijk verplicht is, zich bereid heeft verklaard bij de verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen (zie [paragraaf 3.4.1 Bereidverklaring afleggen verklaring van verbondenheid (model 2.30)](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-05-07&g=2020-05-07)). Alleen als het afleggen ervan redelijkerwijs niet gevraagd kan worden, zoals aan verzoekers die niet in staat zijn hun wil te bepalen of deze niet kunnen uiten of aan verzoekers aan wie het, door de burgemeester, is toegestaan zich bij de indiening van het verzoek om naturalisatie te laten vertegenwoordigen door een gemachtigde, hoeft de bereidverklaring niet ondertekend te zijn. Indien de verzoeker zich op de naturalisatieceremonie laat vertegenwoordigen door een gemachtigde, moet de verklaring van verbondenheid schriftelijk getekend door de verzoeker, worden aangeleverd door de gemachtigde op de ceremonie.
 
 ### paragraaf 3.11. Bezwaar
 
@@ -4672,7 +4672,7 @@ Voorafgaand aan de administratieve behandeling van het verzoek om naturalisatie 
 
 Wordt een bezwaarschrift gegrond verklaard, dan zijn de volgende situaties te onderscheiden:
 
-De burgemeester beoordeelt voorts of de verzoeker is vrijgesteld ([artikel 3 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=3)) of ontheven ([artikel 4 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4)) van het afleggen van de naturalisatietoets als bedoeld in [artikel 2, tweede lid, BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2). Is dat niet het geval, dan dient de verzoeker bij het verzoek om naturalisatie een Certificaat Naturalisatietoets, bedoeld in [artikel 5 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5) te overleggen. Zie verder de toelichting bij artikel 8, eerste lid, aanhef en onder d, RWN. Zie voor vrijstelling van de toets aldaar paragraaf 2.3 en voor ontheffing [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-04-01&g=2020-04-01).
+De burgemeester beoordeelt voorts of de verzoeker is vrijgesteld ([artikel 3 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=3)) of ontheven ([artikel 4 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4)) van het afleggen van de naturalisatietoets als bedoeld in [artikel 2, tweede lid, BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2). Is dat niet het geval, dan dient de verzoeker bij het verzoek om naturalisatie een Certificaat Naturalisatietoets, bedoeld in [artikel 5 BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5) te overleggen. Zie verder de toelichting bij artikel 8, eerste lid, aanhef en onder d, RWN. Zie voor vrijstelling van de toets aldaar paragraaf 2.3 en voor ontheffing [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-05-07&g=2020-05-07).
 
 ### paragraaf 3.7.4. Buitenbehandelingstelling
 
@@ -4684,7 +4684,7 @@ Het moet hier gaan om een buitenlandse instantie. Het ministerie van Buitenlands
 
 De administratieve behandeling van het verzoek om naturalisatie vangt aan nadat:
 
-Alsdan toetst de burgemeester de door de verzoeker verstrekte persoonsgegevens aan de gegevens die zijn opgenomen in de BRP ([artikel 35, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=35)). Heeft het verzoek mede betrekking op personen die staan ingeschreven met een adres in een andere gemeente of kinderen voor wie medeverlening wordt verzocht, dan verzoekt hij de burgemeester van de betreffende gemeente om binnen vier weken (of in voorkomend geval de gezaghebber van het openbare lichaam Bonaire, Sint Eustatius of Saba, dan wel de Minister van Algemene Zaken van Aruba, Curaçao of Sint Maarten om binnen tien weken) de door verzoeker verstrekte persoonsgegevens te controleren (artikel 35, tweede lid, BVVN). De persoonsgegevens van vreemdelingen met een bijzondere status (zie hierboven [paragraaf 3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.6&paragraaf=3.6.1&z=2020-04-01&g=2020-04-01)) worden getoetst aan de gegevens die zijn opgenomen in het door de Minister van Buitenlandse Zaken gehouden register protocollaire basisadministratie. De burgemeester verzoekt de Minister van Buitenlandse Zaken om binnen vier weken de gegevens van de betreffende vreemdelingen te controleren (artikel 35, vierde lid, BVVN). Ten aanzien van de zogenaamde passanten verzoekt de burgemeester, zo nodig, de Minister van Buitenlandse Zaken de persoonsgegevens zo mogelijk binnen tien weken te controleren (artikel 35, derde lid, BVVN). Zie het hoofdstuk Voorlichting in de desbetreffende Handleiding voor adressering aan de betreffende autoriteiten. Voor zover mogelijk onderzoekt de burgemeester de juistheid van de persoonsgegevens die niet op de hierboven aangegeven wijze kunnen worden gecontroleerd (artikel 35, vijfde lid, BVVN).
+Alsdan toetst de burgemeester de door de verzoeker verstrekte persoonsgegevens aan de gegevens die zijn opgenomen in de BRP ([artikel 35, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=35)). Heeft het verzoek mede betrekking op personen die staan ingeschreven met een adres in een andere gemeente of kinderen voor wie medeverlening wordt verzocht, dan verzoekt hij de burgemeester van de betreffende gemeente om binnen vier weken (of in voorkomend geval de gezaghebber van het openbare lichaam Bonaire, Sint Eustatius of Saba, dan wel de Minister van Algemene Zaken van Aruba, Curaçao of Sint Maarten om binnen tien weken) de door verzoeker verstrekte persoonsgegevens te controleren (artikel 35, tweede lid, BVVN). De persoonsgegevens van vreemdelingen met een bijzondere status (zie hierboven [paragraaf 3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.6&paragraaf=3.6.1&z=2020-05-07&g=2020-05-07)) worden getoetst aan de gegevens die zijn opgenomen in het door de Minister van Buitenlandse Zaken gehouden register protocollaire basisadministratie. De burgemeester verzoekt de Minister van Buitenlandse Zaken om binnen vier weken de gegevens van de betreffende vreemdelingen te controleren (artikel 35, vierde lid, BVVN). Ten aanzien van de zogenaamde passanten verzoekt de burgemeester, zo nodig, de Minister van Buitenlandse Zaken de persoonsgegevens zo mogelijk binnen tien weken te controleren (artikel 35, derde lid, BVVN). Zie het hoofdstuk Voorlichting in de desbetreffende Handleiding voor adressering aan de betreffende autoriteiten. Voor zover mogelijk onderzoekt de burgemeester de juistheid van de persoonsgegevens die niet op de hierboven aangegeven wijze kunnen worden gecontroleerd (artikel 35, vijfde lid, BVVN).
 
 Als overmacht wordt in ieder geval niet aangemerkt:
 
@@ -4704,9 +4704,9 @@ In voorkomende gevallen geeft de burgemeester (meestal) bij de indiening van het
 
 ### Paragraaf 3.10. Beslissing op het verzoek
 
-Op het verzoek wordt beslist binnen één jaar na de betaling van de naturalisatiegelden, of na de beslissing tot ontheffing daarvan, dan wel nadat de gevraagde stukken, noodzakelijk voor de beoordeling van het verzoek, zijn ontvangen ([artikel 9, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)). De Immigratie- en Naturalisatiedienst (IND) informeert de verzoeker over de beslissing tot afwijzing ([artikel 38, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=38)). Beslissingen tot afwijzing, tot buitenbehandelingstelling of tot aanhouding van verzoeken worden per aangetekende post aan verzoeker verzonden. In geval van een positieve beslissing stuurt de Immigratie- en Naturalisatiedienst (IND) het de verzoeker betreffende uittreksel van het besluit tot verlening van het Nederlanderschap zo snel mogelijk aan de burgemeester van de woonplaats van de verzoeker. De burgemeester draagt zorg voor het bekendmaken van het besluit. (Zie ook [paragraaf 3.13](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&z=2020-04-01&g=2020-04-01).) Het uittreksel vermeldt de naam van de persoon die is genaturaliseerd. Ook de mee-genaturaliseerde minderjarige kinderen worden in het uittreksel genoemd. Benadrukt wordt dat kinderen slechts hebben gedeeld in de naturalisatie, indien dit uitdrukkelijk is vermeld in het besluit tot verlening van het Nederlanderschap. Voor zover van toepassing blijkt uit de bekendmaking tevens de bij het naturalisatiebesluit totstandgekomen naamsvaststelling c.q. naamswijziging.
+Op het verzoek wordt beslist binnen één jaar na de betaling van de naturalisatiegelden, of na de beslissing tot ontheffing daarvan, dan wel nadat de gevraagde stukken, noodzakelijk voor de beoordeling van het verzoek, zijn ontvangen ([artikel 9, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)). De Immigratie- en Naturalisatiedienst (IND) informeert de verzoeker over de beslissing tot afwijzing ([artikel 38, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=38)). Beslissingen tot afwijzing, tot buitenbehandelingstelling of tot aanhouding van verzoeken worden per aangetekende post aan verzoeker verzonden. In geval van een positieve beslissing stuurt de Immigratie- en Naturalisatiedienst (IND) het de verzoeker betreffende uittreksel van het besluit tot verlening van het Nederlanderschap zo snel mogelijk aan de burgemeester van de woonplaats van de verzoeker. De burgemeester draagt zorg voor het bekendmaken van het besluit. (Zie ook [paragraaf 3.13](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&z=2020-05-07&g=2020-05-07).) Het uittreksel vermeldt de naam van de persoon die is genaturaliseerd. Ook de mee-genaturaliseerde minderjarige kinderen worden in het uittreksel genoemd. Benadrukt wordt dat kinderen slechts hebben gedeeld in de naturalisatie, indien dit uitdrukkelijk is vermeld in het besluit tot verlening van het Nederlanderschap. Voor zover van toepassing blijkt uit de bekendmaking tevens de bij het naturalisatiebesluit totstandgekomen naamsvaststelling c.q. naamswijziging.
 
-Indien van toepassing maakt de Immigratie- en Naturalisatiedienst (IND) na ontvangst van het terugmeldformulier een uitwisselingsformulier op, betreffende het uitwisselen van gegevens met betrekking tot verkrijging van nationaliteit ([model 1.35](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01)). Dit is, ingevolge de Overeenkomst van Parijs van 10 september 1964, het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 en bilaterale afspraken met Duitsland, van toepassing bij verlening van het Nederlanderschap aan een persoon met de nationaliteit van België, Duitsland, Griekenland, Italië, Luxemburg, Noorwegen, Oostenrijk en Portugal.
+Indien van toepassing maakt de Immigratie- en Naturalisatiedienst (IND) na ontvangst van het terugmeldformulier een uitwisselingsformulier op, betreffende het uitwisselen van gegevens met betrekking tot verkrijging van nationaliteit ([model 1.35](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07)). Dit is, ingevolge de Overeenkomst van Parijs van 10 september 1964, het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 en bilaterale afspraken met Duitsland, van toepassing bij verlening van het Nederlanderschap aan een persoon met de nationaliteit van België, Duitsland, Griekenland, Italië, Luxemburg, Noorwegen, Oostenrijk en Portugal.
 
 Noorwegen is vanaf 19 december 2019 niet langer partij bij Hoofdstuk 1 van het Verdrag van Straatsburg. Uitwisseling op grond van het Aanvullend Protocol bij het Verdrag van Straatsburg van 6 mei 1963 is sindsdien niet langer nodig.
 
@@ -4830,7 +4830,7 @@ Van overmacht zal niet vaak sprake zijn. Het gaat in ieder geval om een onmogeli
 
 ### Paragraaf 3.10. Beslissing op het verzoek
 
-Indien een verzoeker om naturalisatie, ten aanzien van wie door de burgemeester is bepaald dat niet kan worden afgezien van invulling en ondertekening van de bereidverklaring, die bereidverklaring (model 2.30) niet heeft ingevuld en ondertekend of heeft verklaard niet bereid te zijn om de verklaring van verbondenheid af te leggen en desondanks toch in zijn verzoek om naturalisatie persisteert, brengt de burgemeester een negatief advies uit en wijst de Minister het verzoek om naturalisatie af (zie tevens [paragraaf 3.9](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.9&z=2020-04-01&g=2020-04-01)).’
+Indien een verzoeker om naturalisatie, ten aanzien van wie door de burgemeester is bepaald dat niet kan worden afgezien van invulling en ondertekening van de bereidverklaring, die bereidverklaring (model 2.30) niet heeft ingevuld en ondertekend of heeft verklaard niet bereid te zijn om de verklaring van verbondenheid af te leggen en desondanks toch in zijn verzoek om naturalisatie persisteert, brengt de burgemeester een negatief advies uit en wijst de Minister het verzoek om naturalisatie af (zie tevens [paragraaf 3.9](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.9&z=2020-05-07&g=2020-05-07)).’
 
 ### paragraaf 3.7.3. Beoordeling verplichting afleggen naturalisatietoets
 
@@ -4840,7 +4840,7 @@ Indien een verzoeker om naturalisatie, ten aanzien van wie door de burgemeester 
 
 ### Paragraaf 3.9. Uitbrengen advies
 
-De burgemeester sluit het onderzoek af met het uitbrengen van een schriftelijk advies aan de IND over het verzoek om naturalisatie en over de eventuele naamsvaststelling c.q. naamswijziging ([artikel 36, vijfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36). Zie [model 2.22 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)).
+De burgemeester sluit het onderzoek af met het uitbrengen van een schriftelijk advies aan de IND over het verzoek om naturalisatie en over de eventuele naamsvaststelling c.q. naamswijziging ([artikel 36, vijfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36). Zie [model 2.22 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)).
 
 ### Bijlage 1:. tabel oproepen en uitreiken
 
@@ -4906,7 +4906,7 @@ Vanaf 1 januari 2006 is de burgemeester verplicht de persoon aan wie het Nederla
 
 In voorkomende gevallen geeft de burgemeester (meestal) bij de indiening van het verzoek om naturalisatie (door een gemachtigde) op het adviesblad bij punt 645Zie hiervoor paragraaf 3.4.1 onder alinea **‘Uitzondering ondertekenen bereidverklaring’.** reeds aan dat het afleggen van de bereidverklaring en het afleggen van de verklaring van verbondenheid niet mogelijk is vanwege de fysieke of psychische toestand van de verzoeker.46Zie artikel 60b, zesde lid, BVVN. Daarnaast heeft de burgemeester ten minste één door of namens de verzoeker overgelegde bewijsstuk(ken)47Zie hiervoor de toelichting bij artikel 2, tweede lid RWN; bijvoorbeeld een gemotiveerde medische verklaring van een onafhankelijk (behandelend) medisch specialist. toegevoegd. De uiteindelijke beoordeling of er sprake is van een fysieke of psychische onmogelijkheid tot het afleggen van de verklaring van verbondenheid ligt bij de Minister van Justitie. De verklaring van verbondenheid is immers een voorwaarde voor naturalisatie. Als uitgangspunt volgt de Minister van Justitie het advies in deze van de burgemeester.
 
-De burgemeester roept de persoon op te verschijnen die ten tijde van het indienen van het naturalisatieverzoek 16 jaar of ouder was. Was de naturalisandus of mede-naturalisandus jonger dan 16 jaar dan roept de burgemeester zijn wettelijke vertegenwoordiger op ([artikel 60b, tweede lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). De oproeping vindt plaats door middel van een schriftelijke uitnodiging aan de naturalisandus of zijn wettelijke vertegenwoordiger. In beginsel wordt die wettelijk vertegenwoordiger opgeroepen die namens de minderjarige naturalisandus het naturalisatieverzoek heeft ingediend ([artikel 2, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2)). Zie ook [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-04-01&g=2020-04-01) (tabel oproepen en uitreiken).
+De burgemeester roept de persoon op te verschijnen die ten tijde van het indienen van het naturalisatieverzoek 16 jaar of ouder was. Was de naturalisandus of mede-naturalisandus jonger dan 16 jaar dan roept de burgemeester zijn wettelijke vertegenwoordiger op ([artikel 60b, tweede lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). De oproeping vindt plaats door middel van een schriftelijke uitnodiging aan de naturalisandus of zijn wettelijke vertegenwoordiger. In beginsel wordt die wettelijk vertegenwoordiger opgeroepen die namens de minderjarige naturalisandus het naturalisatieverzoek heeft ingediend ([artikel 2, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2)). Zie ook [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-05-07&g=2020-05-07) (tabel oproepen en uitreiken).
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -4936,7 +4936,7 @@ De eis tot het afleggen van de verklaring van verbondenheid geldt alleen voor ve
 
 Aan de hand van het terugmeldformulier stelt de minister vast of de betrokken naturalisandus Nederlander is geworden en zijn procedure kan worden afgesloten. Is betrokkene Nederlander geworden, dan worden de gegevens ten aanzien van deze verlening in het nationaliteitenregister opgenomen. Ook wordt na terugmelding de eventuele afstandsprocedure opgestart.
 
-Het naturalisatiebesluit treedt als regel in werking door uitreiking in persoon tijdens een ceremoniële bijeenkomst van het desbetreffende uittreksel daarvan, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Slechts in bijzondere gevallen kan de burgemeester hiervan afwijken. Onder zeer bijzondere omstandigheden wordt het uittreksel buiten de naturalisatieceremonie om uitgereikt of toegezonden aan de betrokkene nadat de verklaring van verbondenheid, al dan niet schriftelijk, daadwerkelijk is afgelegd. (Zie hiervoor [paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-04-01&g=2020-04-01)). Het besluit werkt na bekendmaking terug tot het moment waarop het besluit is gedagtekend ([artikel 60b, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Dit betekent dat een nieuw feit dat zich heeft voorgedaan in de periode tussen de vaststelling van het besluit en de bekendmaking daarvan, geen reden vormt het naturalisatiebesluit opnieuw te beoordelen. Wie in deze tussenliggende periode in strijd met de openbare orde handelt, verkrijgt niettemin het Nederlanderschap. Ook de als minderjarige aangemelde persoon die in de tussenliggende periode meerderjarig is geworden, wordt niet opnieuw aan de voorwaarden getoetst. Hoewel een op of na de dagtekening overleden persoon niet meer in persoon kan verschijnen, zal ook deze persoon Nederlander worden zodra het naturalisatiebesluit aan een belanghebbende is uitgereikt of bekendgemaakt. Overigens dient als regel de betrokken naturalisandus in de tussenliggende periode wel te voldoen aan zijn vreemdelingrechtelijke verplichtingen; hij is tot de uitreiking immers geen Nederlander. Het niet voldoen aan deze verplichtingen heeft echter geen gevolgen voor de uitreiking van het besluit.
+Het naturalisatiebesluit treedt als regel in werking door uitreiking in persoon tijdens een ceremoniële bijeenkomst van het desbetreffende uittreksel daarvan, nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Slechts in bijzondere gevallen kan de burgemeester hiervan afwijken. Onder zeer bijzondere omstandigheden wordt het uittreksel buiten de naturalisatieceremonie om uitgereikt of toegezonden aan de betrokkene nadat de verklaring van verbondenheid, al dan niet schriftelijk, daadwerkelijk is afgelegd. (Zie hiervoor [paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-05-07&g=2020-05-07)). Het besluit werkt na bekendmaking terug tot het moment waarop het besluit is gedagtekend ([artikel 60b, eerste lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Dit betekent dat een nieuw feit dat zich heeft voorgedaan in de periode tussen de vaststelling van het besluit en de bekendmaking daarvan, geen reden vormt het naturalisatiebesluit opnieuw te beoordelen. Wie in deze tussenliggende periode in strijd met de openbare orde handelt, verkrijgt niettemin het Nederlanderschap. Ook de als minderjarige aangemelde persoon die in de tussenliggende periode meerderjarig is geworden, wordt niet opnieuw aan de voorwaarden getoetst. Hoewel een op of na de dagtekening overleden persoon niet meer in persoon kan verschijnen, zal ook deze persoon Nederlander worden zodra het naturalisatiebesluit aan een belanghebbende is uitgereikt of bekendgemaakt. Overigens dient als regel de betrokken naturalisandus in de tussenliggende periode wel te voldoen aan zijn vreemdelingrechtelijke verplichtingen; hij is tot de uitreiking immers geen Nederlander. Het niet voldoen aan deze verplichtingen heeft echter geen gevolgen voor de uitreiking van het besluit.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -5296,7 +5296,7 @@ Er bestaan geen bedenkingen tegen het verblijf voor onbepaalde tijd ten opzichte
 
 Op het moment dat een verzoek om naturalisatie wordt ingediend, moet de verzoeker meerderjarig zijn in de zin van [artikel 1, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1). Hij moet dus of de leeftijd van achttien jaar hebben bereikt, voordien in het huwelijk zijn getreden of voordien in Nederland geregistreerd partnerschap zijn aangegaan of buiten Nederland een geregistreerd partnerschap zijn aangegaan als bedoeld in artikel 1, tweede lid, RWN. De burgemeester onderzoekt de meerderjarigheid van de verzoeker aan de hand van de gegevens in de BRP. Als de geboortedatum in de overgelegde stukken niet overeenstemt met de BRP, bevordert de burgemeester dat de BRP zo mogelijk wordt aangepast. Het verdient aanbeveling dat de burgemeester deze mutatie meedeelt aan de Immigratie- en Naturalisatiedienst (IND). Daarmee wordt voorkomen dat de Immigratie- en Naturalisatiedienst (IND) ten onrechte een dubbel dossier aanlegt over dezelfde verzoeker.
 
-Is de verzoeker nog minderjarig, maar is naturalisatie gewenst op grond van zeer bijzondere omstandigheden, dan is verlening van het Nederlanderschap uitsluitend mogelijk met toepassing van [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) (zie de [toelichting bij dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=10&z=2020-04-01&g=2020-04-01)). Zie echter voor medeverlening aan minderjarigen [artikel 11, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11). Zie voorts artikel 11, vierde lid, RWN, waarin een categorie minderjarigen wordt genoemd die zelfstandig voor naturalisatie in aanmerking komt.
+Is de verzoeker nog minderjarig, maar is naturalisatie gewenst op grond van zeer bijzondere omstandigheden, dan is verlening van het Nederlanderschap uitsluitend mogelijk met toepassing van [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) (zie de [toelichting bij dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=10&z=2020-05-07&g=2020-05-07)). Zie echter voor medeverlening aan minderjarigen [artikel 11, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11). Zie voorts artikel 11, vierde lid, RWN, waarin een categorie minderjarigen wordt genoemd die zelfstandig voor naturalisatie in aanmerking komt.
 
 Bij het indienen van een verzoek om naturalisatie en tijdens de behandeling van dat verzoek kunnen omstandigheden aan het licht komen die grond kunnen vormen om de verleende verblijfsvergunning in te trekken dan wel niet te verlengen. Voor de gronden tot intrekking dan wel niet verlenging van een verblijfsvergunning wordt verwezen naar de volgende artikelen in de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823):
 
@@ -5304,7 +5304,7 @@ Als er aanwijzingen bestaan dat een verblijfsvergunning moet worden ingetrokken 
 
 ### Paragraaf 3.4. EU/EER-onderdanen en Zwitserse onderdanen
 
-Onderstaand wordt aangegeven op welke wijze aan de hand van de beperking van de verblijfsvergunning van de verzoeker kan worden beoordeeld of er in beginsel al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in de zin van de Rijkswet (zie hierna [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&z=2020-04-01&g=2020-04-01)).
+Onderstaand wordt aangegeven op welke wijze aan de hand van de beperking van de verblijfsvergunning van de verzoeker kan worden beoordeeld of er in beginsel al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in de zin van de Rijkswet (zie hierna [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&z=2020-05-07&g=2020-05-07)).
 
 De [Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is overigens – anders dan de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) – geen rijkswet en regelt daarom alleen het verblijf van vreemdelingen in het Europese deel van Nederland. In Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba gelden aparte verblijfsregelingen.
 
@@ -5322,7 +5322,7 @@ In het kader van de [Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) z
 
 In de overige gevallen blijkt het rechtmatig verblijf van de vreemdeling uit stickers die worden geplaatst in het document voor grensoverschrijding dan wel op een afzonderlijk inlegvel.
 
-In [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) bij dit artikellid wordt het gestelde in paragraaf 2.1 en 2.2 schematisch weergegeven.
+In [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) bij dit artikellid wordt het gestelde in paragraaf 2.1 en 2.2 schematisch weergegeven.
 
 EU-onderdanen hebben het recht vrij op het grondgebied van de lidstaten te verblijven, onder voorbehoud van de beperkingen en voorwaarden die bij het EG-Verdrag en de bepalingen ter uitvoering daarvan zijn vastgesteld (artikel 18 EG-Verdrag). Onderdanen van de EER en van Zwitserland hebben daaraan gelijkwaardige rechten. Het verblijfsrecht van deze onderdanen of burgers van de Unie is onderverdeeld in:
 
@@ -5336,11 +5336,11 @@ Voorbeeld: een vreemdeling die op 1 januari 2013 houder is van een verblijfsverg
 
 ### 8-1-c. Toelichting ad [artikel 8, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)
 
-Aan de hand van het verblijfsdocument van de verzoeker en met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) kan worden beoordeeld of er al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd. De verzoeker moet bij de indiening van het verzoek de gegevens en bescheiden verschaffen die voor de beslissing nodig zijn en waarover hij redelijkerwijs kan beschikken ([artikel 4:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2)). Hij verstrekt bij de indiening de tegenwoordige en, voor zoveel nodig, de gegevens met betrekking tot de eerdere verblijfsrechtelijke status ([artikel 31, eerste lid, aanhef en onder f, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31)).
+Aan de hand van het verblijfsdocument van de verzoeker en met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) kan worden beoordeeld of er al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd. De verzoeker moet bij de indiening van het verzoek de gegevens en bescheiden verschaffen die voor de beslissing nodig zijn en waarover hij redelijkerwijs kan beschikken ([artikel 4:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2)). Hij verstrekt bij de indiening de tegenwoordige en, voor zoveel nodig, de gegevens met betrekking tot de eerdere verblijfsrechtelijke status ([artikel 31, eerste lid, aanhef en onder f, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31)).
 
 ### Bijlage 7. EU/EER- of Zwitserse onderdaan
 
-Er zijn ook situaties denkbaar waarin de verzoeker niet beschikt over het juiste verblijfsdocument, waarin het verblijfsdocument behoort te worden ingetrokken, waarin het verblijfsrecht van rechtswege is komen te vervallen of waarin verzoeker niet behoeft te beschikken over een verblijfsdocument. In die gevallen kan niet met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) worden beoordeeld of er bedenkingen bestaan tegen het verblijf voor onbepaalde duur in Nederland van de verzoeker. Voor die gevallen geldt het navolgende.
+Er zijn ook situaties denkbaar waarin de verzoeker niet beschikt over het juiste verblijfsdocument, waarin het verblijfsdocument behoort te worden ingetrokken, waarin het verblijfsrecht van rechtswege is komen te vervallen of waarin verzoeker niet behoeft te beschikken over een verblijfsdocument. In die gevallen kan niet met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) worden beoordeeld of er bedenkingen bestaan tegen het verblijf voor onbepaalde duur in Nederland van de verzoeker. Voor die gevallen geldt het navolgende.
 
 Bij redelijke twijfel ten tijde van het indienen van het naturalisatieverzoek of nog aan de voorwaarden voor verblijf wordt voldaan, vindt onderzoek naar dit verblijfsrecht plaats. Zolang het verblijfsrecht echter niet door middel van een beschikking van de Immigratie- en Naturalisatiedienst (IND) is beëindigd, wordt aangenomen dat sprake is van verblijfsrecht overeenkomstig de Richtlijn.
 
@@ -5352,13 +5352,13 @@ Het bovenstaande neemt niet weg dat een verzoeker (met uitzondering van een verz
 
 ### Paragraaf 3.5.2. Duurzaam verblijvend personeel
 
-Als er aanwijzingen bestaan dat een verblijfsvergunning moet worden ingetrokken dan wel niet moet worden verlengd, kunnen er – ondanks dat verzoeker (nog) in het bezit is van een geldig verblijfsdocument – wél bedenkingen bestaan tegen het verblijf voor onbepaalde tijd. De verzoeker wordt ontraden een verzoek in te dienen en hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek, dan wordt de procedure gevolgd zoals beschreven in [paragraaf 3.1 bij de toelichting op dit artikellid](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.1&z=2020-04-01&g=2020-04-01).
+Als er aanwijzingen bestaan dat een verblijfsvergunning moet worden ingetrokken dan wel niet moet worden verlengd, kunnen er – ondanks dat verzoeker (nog) in het bezit is van een geldig verblijfsdocument – wél bedenkingen bestaan tegen het verblijf voor onbepaalde tijd. De verzoeker wordt ontraden een verzoek in te dienen en hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek, dan wordt de procedure gevolgd zoals beschreven in [paragraaf 3.1 bij de toelichting op dit artikellid](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.1&z=2020-05-07&g=2020-05-07).
 
 ### Paragraaf 3.6. Molukkers
 
 De verzoeker wordt ontraden een verzoek om naturalisatie in te dienen. Indien de verzoeker er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2019-07-01&g=2019-07-01) HRWN. Door de IND zal het verblijfsrecht van verzoeker nader worden onderzocht.
 
-Het kan voorkomen dat bij de indiening van het verzoek blijkt dat op grond van het verblijfsdocument van verzoeker moet worden geconcludeerd dat er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd, maar dat de verzoeker stelt in aanmerking te kunnen komen voor een verblijfsvergunning met een andere beperking die wel voldoende is om in aanmerking te komen voor naturalisatie. Ook hier geldt – om bovengenoemde redenen – dat verzoeker wordt ontraden om een verzoek in te dienen en dat hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek om naturalisatie, dan wordt de procedure gevolgd zoals beschreven in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.1&z=2020-04-01&g=2020-04-01) bij de toelichting op dit artikellid. Door de Immigratie- en Naturalisatiedienst (IND) wordt op basis van het door verzoeker overgelegde verblijfsdocument (dus geen fictietoets) met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde tijd.
+Het kan voorkomen dat bij de indiening van het verzoek blijkt dat op grond van het verblijfsdocument van verzoeker moet worden geconcludeerd dat er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd, maar dat de verzoeker stelt in aanmerking te kunnen komen voor een verblijfsvergunning met een andere beperking die wel voldoende is om in aanmerking te komen voor naturalisatie. Ook hier geldt – om bovengenoemde redenen – dat verzoeker wordt ontraden om een verzoek in te dienen en dat hij wordt verwezen naar de Immigratie- en Naturalisatiedienst (IND). Houdt verzoeker niettemin vast aan indiening van het verzoek om naturalisatie, dan wordt de procedure gevolgd zoals beschreven in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.1&z=2020-05-07&g=2020-05-07) bij de toelichting op dit artikellid. Door de Immigratie- en Naturalisatiedienst (IND) wordt op basis van het door verzoeker overgelegde verblijfsdocument (dus geen fictietoets) met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde tijd.
 
 Het kan voorkomen dat een verzoeker die in het bezit is van een verblijfsvergunning met een tijdelijk karakter, toch in aanmerking komt voor naturalisatie. Dit is het geval wanneer de verzoeker verblijfsrecht kan ontlenen aan het Associatiebesluit 1/80 van de Associatieraad EU – Turkije. Een Turkse werknemer die een jaar legale arbeid heeft verricht, heeft namelijk op grond van Associatiebesluit 1/80 recht op verlenging van zijn verblijfsvergunning voor de duur van een jaar, als dezelfde werkgever nog een jaar werkgelegenheid voor de werknemer heeft en in het bezit is van een tewerkstellingsvergunning. Na drie jaar is hij vrij op de arbeidsmarkt. Ook kinderen van Turkse werknemers, die in het gastland een beroepsopleiding hebben voltooid, kunnen verblijfsrecht ontlenen aan het Associatiebesluit.
 
@@ -5366,7 +5366,7 @@ Omdat niet in één oogopslag te zien is of een Turkse onderdaan verblijfsrecht 
 
 Als niet direct te zien is of een Turkse onderdaan verblijfsrecht met een niet-tijdelijk karakter ontleent aan Associatiebesluit 1/80 moet betrokkene zich dus voorafgaand aan de indiening van het naturalisatieverzoek tot de IND wenden om zijn verblijfsrecht van niet-tijdelijke aard te laten vastleggen in een verblijfsrechtelijke beschikking.
 
-Alleen als betrokkene er op staat om tóch, ondanks het ontbreken van het juiste verblijfsdocument of een beschikking van de IND zoals hierboven omschreven, zijn naturalisatieverzoek in te dienen, dan mag de gemeente die indiening niet weigeren en moet de procedure gevolgd worden zoals omschreven in [paragraaf 3.1 van de toelichting op artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.1&z=2020-04-01&g=2020-04-01).
+Alleen als betrokkene er op staat om tóch, ondanks het ontbreken van het juiste verblijfsdocument of een beschikking van de IND zoals hierboven omschreven, zijn naturalisatieverzoek in te dienen, dan mag de gemeente die indiening niet weigeren en moet de procedure gevolgd worden zoals omschreven in [paragraaf 3.1 van de toelichting op artikel 7 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.1&z=2020-05-07&g=2020-05-07).
 
 ### Paragraaf 3.4. EU/EER-onderdanen en Zwitserse onderdanen (Gemeenschapsonderdanen)
 
@@ -5408,7 +5408,7 @@ Vóór 1 april 2003 was in dit artikellid als voorwaarde opgenomen dat een verzo
 
 Door de zendstaat uitgezonden diplomatiek of consulair niet duurzaam verblijvend personeel (en hun gezinsleden) bezitten een bijzondere status op grond van de Weense Verdragen inzake het Diplomatiek Verkeer respectievelijk de Consulaire Betrekkingen. Zij worden door de Minister van Buitenlandse Zaken in het bezit gesteld van een speciaal identiteitsbewijs. De [Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is niet op hen van toepassing. Zolang zij deze bijzondere status bezitten, beschikken zij niet (en kunnen zij ook niet beschikken) over een verblijfsvergunning op grond van Vw 2000. Er bestaan bedenkingen tegen hun verblijf voor onbepaalde tijd in Nederland.
 
-De verzoeker wordt ontraden een verzoek om naturalisatie in te dienen. Indien de verzoeker er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) HRWN. Door de IND zal het verblijfsrecht van verzoeker nader worden onderzocht.
+De verzoeker wordt ontraden een verzoek om naturalisatie in te dienen. Indien de verzoeker er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) HRWN. Door de IND zal het verblijfsrecht van verzoeker nader worden onderzocht.
 
 ### Paragraaf 2.3.3. Beroep ontheffing op grond van aantoonbaar geleverde inspanningen
 
@@ -5424,13 +5424,13 @@ De familieleden van bovengenoemde categorieën die op grond van [artikel 3.93 Vb
 
 ### Bijlage 7
 
-Uiteraard kunnen ook onderdanen uit de EU- en EER-landen de bijzondere geprivilegieerde status bezitten. Zo kunnen deze vreemdelingen die bij een missie of internationale organisatie werken bijvoorbeeld van rechtswege een verblijfsrecht ontlenen aan het gemeenschapsrecht, omdat zij zelfstandig en duurzaam beschikken over voldoende middelen van bestaan en niet ten laste komen van de publieke middelen (economisch niet-actieven). Zij kunnen in het bezit zijn van een verblijfsdocument EU/EER. In dat geval wordt door de Immigratie- en Naturalisatiedienst (IND) op basis van het door verzoeker overgelegde verblijfsdocument met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) bij dit artikellid beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde duur.
+Uiteraard kunnen ook onderdanen uit de EU- en EER-landen de bijzondere geprivilegieerde status bezitten. Zo kunnen deze vreemdelingen die bij een missie of internationale organisatie werken bijvoorbeeld van rechtswege een verblijfsrecht ontlenen aan het gemeenschapsrecht, omdat zij zelfstandig en duurzaam beschikken over voldoende middelen van bestaan en niet ten laste komen van de publieke middelen (economisch niet-actieven). Zij kunnen in het bezit zijn van een verblijfsdocument EU/EER. In dat geval wordt door de Immigratie- en Naturalisatiedienst (IND) op basis van het door verzoeker overgelegde verblijfsdocument met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) bij dit artikellid beoordeeld of sprake is van bedenkingen tegen verblijf voor onbepaalde duur.
 
-Als een verzoeker die behoort tot deze categorie vreemdelingen niet in het bezit is van een verblijfsdocument, wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Als hij er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01). Door de Immigratie- en Naturalisatiedienst (IND) zal het verblijfsrecht van verzoeker nader worden onderzocht.
+Als een verzoeker die behoort tot deze categorie vreemdelingen niet in het bezit is van een verblijfsdocument, wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Als hij er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07). Door de Immigratie- en Naturalisatiedienst (IND) zal het verblijfsrecht van verzoeker nader worden onderzocht.
 
 ### Paragraaf 3.5.2. Duurzaam verblijvend personeel
 
-Het betreft vreemdelingen die door diplomatieke zendingen of consulaire posten op de Nederlandse arbeidsmarkt zijn geworven om voor de missie werkzaamheden te verrichten. Voordat zij die werkzaamheden zijn gaan verrichten verbleven zij reeds rechtmatig op grond van de Vreemdelingenwet (1965 dan wel [2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)) in Nederland. Zij dienen zich als ingezetene in te laten schrijven in de BRP en zich te melden bij de korpschef van het regionale politiekorps. De Vw 2000 is op hen (en hun gezinsleden) van toepassing (net zoals de Vw 1965 op hen van toepassing was) en zij dienen in het bezit te zijn van een verblijfsdocument. Aan de hand van dat verblijfsdocument kan worden bepaald of er bedenkingen tegen het verblijf voor onbepaalde tijd in Nederland bestaan. Als een verzoeker die behoort tot deze categorie vreemdelingen niet in het bezit is van een verblijfsdocument, wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Als hij er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01). Door de Immigratie- en Naturalisatiedienst (IND) zal het verblijfsrecht van verzoeker nader worden onderzocht.
+Het betreft vreemdelingen die door diplomatieke zendingen of consulaire posten op de Nederlandse arbeidsmarkt zijn geworven om voor de missie werkzaamheden te verrichten. Voordat zij die werkzaamheden zijn gaan verrichten verbleven zij reeds rechtmatig op grond van de Vreemdelingenwet (1965 dan wel [2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)) in Nederland. Zij dienen zich als ingezetene in te laten schrijven in de BRP en zich te melden bij de korpschef van het regionale politiekorps. De Vw 2000 is op hen (en hun gezinsleden) van toepassing (net zoals de Vw 1965 op hen van toepassing was) en zij dienen in het bezit te zijn van een verblijfsdocument. Aan de hand van dat verblijfsdocument kan worden bepaald of er bedenkingen tegen het verblijf voor onbepaalde tijd in Nederland bestaan. Als een verzoeker die behoort tot deze categorie vreemdelingen niet in het bezit is van een verblijfsdocument, wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Als hij er niettemin op staat een verzoek in te dienen, zal de burgemeester het verzoek in ontvangst nemen. Het verdient aanbeveling een woordelijk verslag op te maken en dit door verzoeker te laten ondertekenen. Verzoeker wordt erop gewezen dat, in het geval zijn verzoek om naturalisatie wordt afgewezen, hij de voor naturalisatie betaalde leges niet terugkrijgt. De burgemeester kan verlangen dat verzoeker een verklaring ondertekent als opgenomen in [model 2.21 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07). Door de Immigratie- en Naturalisatiedienst (IND) zal het verblijfsrecht van verzoeker nader worden onderzocht.
 
 ### Paragraaf 3.6. Molukkers
 
@@ -5460,9 +5460,9 @@ De vader komt niet in aanmerking voor naturalisatie. De moeder wel. Ondanks dat 
 
 Verzoekers die na 1 januari 2013 zijn begonnen met het afleggen van het inburgeringsexamen, zullen dus zowel het inburgeringsexamen oude stijl als nieuwe stijl kunnen doen.
 
-* Bij de uitkomst ‘geen bedenkingen’ in Bijlage 2 of 3 moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.2&z=2020-04-01&g=2020-04-01). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.4&z=2020-04-01&g=2020-04-01).
+* Bij de uitkomst ‘geen bedenkingen’ in Bijlage 2 of 3 moet nog wel worden bedacht dat er geen redenen mogen bestaan om de verblijfsvergunning in te trekken dan wel niet te verlengen. Zie hiervoor [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.2&z=2020-05-07&g=2020-05-07). Tevens kunnen er gevallen zijn waarbij het verblijfsrecht van rechtswege is komen te vervallen (gemeenschapsonderdanen). Zie hiervoor [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.4&z=2020-05-07&g=2020-05-07).
 
-** Bij de uitkomst ‘wel bedenkingen’ in Bijlage 2 en 3 moet worden bedacht dat er gevallen zijn waarbij verzoeker wellicht in aanmerking kan komen voor een andere verblijfscategorie. Zie hiervoor [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.3&z=2020-04-01&g=2020-04-01).
+** Bij de uitkomst ‘wel bedenkingen’ in Bijlage 2 en 3 moet worden bedacht dat er gevallen zijn waarbij verzoeker wellicht in aanmerking kan komen voor een andere verblijfscategorie. Zie hiervoor [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=3&paragraaf=3.3&z=2020-05-07&g=2020-05-07).
 
 Aan het inburgeringsexamen is aan het onderdeel kennis van de Nederlandse samenleving vanaf 1 januari 2015 het onderdeel oriëntatie op de Nederlandse arbeidsmarkt toegevoegd. Voor meer toelichting op het nieuwe examenonderdeel, zie de nota van Toelichting bij het Besluit van 16 oktober 2014 tot wijziging van het Besluit inburgering en het Vreemdelingenbesluit 2000 in verband met de toevoeging van een praktijkexamen ten behoeve van de oriëntatie op de Nederlandse arbeidsmarkt aan het onderdeel kennis van de Nederlandse samenleving en enkele andere wijzigingen (Stb 2014, 404).
 
@@ -5572,7 +5572,7 @@ Het verblijfsdocument W dient als bewijs van rechtmatig verblijf in Nederland vo
 
 Bij de beoordeling van een verzoek om naturalisatie zal steeds de vraag moeten worden beantwoord of er op grond van de beperking van de verblijfsvergunning van de vreemdeling bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in Nederland in de zin van [artikel 8, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8).
 
-In het kader van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930), dat per 1 juni 2013 in werking is getreden, is het stelsel van verblijfsvergunningen vereenvoudigd en gestroomlijnd. De beperkingen waaronder een verblijfsvergunning kan worden verleend is in aantal verminderd. Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) bij dit artikellid. In deze bijlage wordt tevens aangegeven of er op grond van de beperking al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in de zin van de Rijkswet.
+In het kader van de [Wet modern migratiebeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027930), dat per 1 juni 2013 in werking is getreden, is het stelsel van verblijfsvergunningen vereenvoudigd en gestroomlijnd. De beperkingen waaronder een verblijfsvergunning kan worden verleend is in aantal verminderd. Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) bij dit artikellid. In deze bijlage wordt tevens aangegeven of er op grond van de beperking al dan niet bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in de zin van de Rijkswet.
 
 ### Bijlage 7. EU/EER- of Zwitserse onderdaan
 
@@ -5608,7 +5608,7 @@ In deze gevallen van redelijke twijfel worden verzoekers erop gewezen dat de Imm
 
 Na beëindiging van het dienstverband met een ambassade, een consulaat of een internationale organisatie komt de bijzondere status van bovenstaande categorieën vreemdelingen te vervallen. De bepalingen van de [Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn dan onverkort van toepassing.
 
-Als een ex-geprivilegieerde verzoeker (die derhalve geen ‘identiteitsbewijs geprivilegieerden’ van het ministerie van Buitenlandse Zaken meer in bezit heeft) beschikt over een verblijfsdocument kan aan de hand van dat document met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01) worden beoordeeld of er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in Nederland. Indien een ex-geprivilegieerde verzoeker (nog) niet beschikt over een verblijfsdocument wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Indien de verzoeker er niettemin op staat een verzoek in te dienen, dan wordt de procedure gevolgd zoals beschreven in paragraaf 3.1.
+Als een ex-geprivilegieerde verzoeker (die derhalve geen ‘identiteitsbewijs geprivilegieerden’ van het ministerie van Buitenlandse Zaken meer in bezit heeft) beschikt over een verblijfsdocument kan aan de hand van dat document met behulp van [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07) worden beoordeeld of er bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in Nederland. Indien een ex-geprivilegieerde verzoeker (nog) niet beschikt over een verblijfsdocument wordt hem ontraden een verzoek om naturalisatie in te dienen en wordt hij verwezen naar de Immigratie- en Naturalisatiedienst (IND). Indien de verzoeker er niettemin op staat een verzoek in te dienen, dan wordt de procedure gevolgd zoals beschreven in paragraaf 3.1.
 
 ### 8-1-c. Toelichting ad [artikel 8, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)
 
@@ -5634,7 +5634,7 @@ Het vereiste van vijf jaar ‘hoofdverblijf’ in het Europese deel van Nederlan
 
 ### Bijlage. bij [artikel 5b RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5b)
 
-De burgemeester reikt het uittreksel van het besluit uit aan de naturalisandus of medenaturalisandus die ten tijde van het indienen van het naturalisatieverzoek 16 jaar of ouder was en ná het afleggen van de verklaring van verbondenheid door de personen die hiertoe verplicht zijn. Was de betrokkene op dat tijdstip jonger dan 16 jaar dan wordt het uittreksel uitgereikt aan zijn wettelijke vertegenwoordiger ([artikel 60b, vijfde lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Zie ook [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-04-01&g=2020-04-01) (tabel oproepen en uitreiken).
+De burgemeester reikt het uittreksel van het besluit uit aan de naturalisandus of medenaturalisandus die ten tijde van het indienen van het naturalisatieverzoek 16 jaar of ouder was en ná het afleggen van de verklaring van verbondenheid door de personen die hiertoe verplicht zijn. Was de betrokkene op dat tijdstip jonger dan 16 jaar dan wordt het uittreksel uitgereikt aan zijn wettelijke vertegenwoordiger ([artikel 60b, vijfde lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Zie ook [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&bijlage=1&z=2020-05-07&g=2020-05-07) (tabel oproepen en uitreiken).
 
 ### Bijlage 2. Wel/geen bedenkingen tegen verblijf voor onbepaalde tijd
 
@@ -5646,7 +5646,7 @@ Uitgangspunt van de regelgeving is dat de opgeroepen persoon zoveel mogelijk op 
 
 ### Paragraaf 3.5.1. Niet duurzaam verblijvend personeel
 
-De verklaring van verbondenheid wordt tevens schriftelijk afgelegd indien een persoon, vanwege zwaarwegende redenen, niet op een naturalisatieceremonie kan verschijnen, maar hij wel in staat is de verklaring van verbondenheid schriftelijk af te leggen. De gemachtigde die wél op de ceremonie verschijnt om namens de verzoeker het naturalisatiebesluit in ontvangst te nemen, overhandigt de burgemeester de schriftelijke verklaring van verbondenheid. De beoordeling of sprake is van zwaarwegende redenen ligt geheel bij de burgemeester (zie tevens [paragraaf 3.13.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.4&paragraaf=3.13.4.1&z=2020-04-01&g=2020-04-01)).
+De verklaring van verbondenheid wordt tevens schriftelijk afgelegd indien een persoon, vanwege zwaarwegende redenen, niet op een naturalisatieceremonie kan verschijnen, maar hij wel in staat is de verklaring van verbondenheid schriftelijk af te leggen. De gemachtigde die wél op de ceremonie verschijnt om namens de verzoeker het naturalisatiebesluit in ontvangst te nemen, overhandigt de burgemeester de schriftelijke verklaring van verbondenheid. De beoordeling of sprake is van zwaarwegende redenen ligt geheel bij de burgemeester (zie tevens [paragraaf 3.13.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.4&paragraaf=3.13.4.1&z=2020-05-07&g=2020-05-07)).
 
 ### 8-1-b. Toelichting ad artikel 8, eerste lid, aanhef en onder b
 
@@ -5736,7 +5736,7 @@ Voor het onderzoek naar ongeletterdheid
 
 ### Paragraaf 3.5.1. Niet duurzaam verblijvend personeel
 
-Met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=2&z=2020-04-01&g=2020-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=3&z=2020-04-01&g=2020-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=7&z=2020-04-01&g=2020-04-01) bij dit artikellid kan worden bepaald of er ten aanzien van EU/EER-onderdanen (en hun familieleden) al dan niet bedenkingen bestaan tegen verblijf voor onbepaalde tijd in Nederland. De uitleg in de onderhavige paragraaf is echter leidend.
+Met behulp van de [Bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=2&z=2020-05-07&g=2020-05-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=3&z=2020-05-07&g=2020-05-07) en [7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&bijlage=7&z=2020-05-07&g=2020-05-07) bij dit artikellid kan worden bepaald of er ten aanzien van EU/EER-onderdanen (en hun familieleden) al dan niet bedenkingen bestaan tegen verblijf voor onbepaalde tijd in Nederland. De uitleg in de onderhavige paragraaf is echter leidend.
 
 ### Paragraaf 3.9. Medeverlening aan minderjarigen met een verblijfsvergunning asiel voor bepaalde tijd (vva-bep)
 
@@ -5852,7 +5852,7 @@ Op 1 januari 2013 veranderde de inhoud van het inburgeringsexamen. Daarmee veran
 
 Aan het inburgeringsexamen is aan het onderdeel kennis van de Nederlandse samenleving op 1 januari 2015 het onderdeel oriëntatie op de Nederlandse arbeidsmarkt toegevoegd. Voor meer toelichting op dit examenonderdeel, zie Stb. 2014, 404.
 
-Voor vrijstelling van het onderdeel oriëntatie op de Nederlandse arbeidsmarkt zie [paragraaf 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-04-01&g=2020-04-01).
+Voor vrijstelling van het onderdeel oriëntatie op de Nederlandse arbeidsmarkt zie [paragraaf 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-05-07&g=2020-05-07).
 
 Op 1 oktober 2017 veranderde de inhoud van het inburgeringsexamen. Daarmee veranderde ook de inhoud van de naturalisatietoets.
 
@@ -5860,9 +5860,9 @@ Aan het inburgeringsexamen is op 1 oktober 2017 het examenonderdeel participatie
 
 Voor vrijstelling van het onderdeel participatieverklaringstraject zie paragraaf 2.2.3.
 
-Per 1 juli 2018 is de Regeling naturalisatietoets Nederland gewijzigd. In de Regeling zijn wijzigingen opgenomen met betrekking tot de examenpogingen, die een verzoeker moet hebben gedaan als bewijs dat hij aantoonbaar voldoende inspanningen heeft verricht om het inburgeringsexamen te halen. Ook is opgenomen dat een alfabetiseringscursus mee kan tellen bij het aantal benodigde uren dat een verzoeker moet hebben deelgenomen aan een inburgeringscursus. Deze wijzigingen worden verder toegelicht in [paragraaf 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&paragraaf=2.3.4&z=2020-04-01&g=2020-04-01).
+Per 1 juli 2018 is de Regeling naturalisatietoets Nederland gewijzigd. In de Regeling zijn wijzigingen opgenomen met betrekking tot de examenpogingen, die een verzoeker moet hebben gedaan als bewijs dat hij aantoonbaar voldoende inspanningen heeft verricht om het inburgeringsexamen te halen. Ook is opgenomen dat een alfabetiseringscursus mee kan tellen bij het aantal benodigde uren dat een verzoeker moet hebben deelgenomen aan een inburgeringscursus. Deze wijzigingen worden verder toegelicht in [paragraaf 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&paragraaf=2.3.4&z=2020-05-07&g=2020-05-07).
 
-Per 28 mei 2019 is de Regeling naturalisatietoets Nederland gewijzigd. In [artikel 4, achtste lid, onder c, Regeling naturalisatietoets Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&artikel=4) is een gedeeltelijke vrijstelling opgenomen, voor het onderdeel oriëntatie op de Nederlandse arbeidsmarkt (zie verder [paragraaf 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&z=2020-04-01&g=2020-04-01) bij de toelichting op artikel 8, eerste lid, aanhef en onder d RWN).
+Per 28 mei 2019 is de Regeling naturalisatietoets Nederland gewijzigd. In [artikel 4, achtste lid, onder c, Regeling naturalisatietoets Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&artikel=4) is een gedeeltelijke vrijstelling opgenomen, voor het onderdeel oriëntatie op de Nederlandse arbeidsmarkt (zie verder [paragraaf 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.1&z=2020-05-07&g=2020-05-07) bij de toelichting op artikel 8, eerste lid, aanhef en onder d RWN).
 
 ### Paragraaf 1.1.2. Het inburgeringsexamen
 
@@ -5870,7 +5870,7 @@ Het inburgeringsexamen kent vanaf 1 oktober 2017 de volgende onderdelen
 
 De verzoeker die een certificaat oudkomers overlegt met alle taalonderdelen ten minste op niveau A2 en de bijbehorende verklaring onderwijsinstelling, is vrijgesteld van:
 
-Als de vreemdeling ooit op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) inburgeringsplichtig is geweest en hij heeft in dat kader met succes het inburgeringsexamen behaald, dan legt hij in zijn naturalisatieprocedure dat inburgeringsdiploma over. Als de vreemdeling ooit vrijgesteld of ontheven is van de inburgeringsplicht door een vrijstellend document te overleggen of een ontheffingsbeschikking te krijgen, dan zal het vrijstellend document of de ontheffingsbeschikking in veel gevallen ook voldoende zijn in de naturalisatieprocedure. In paragraaf 2.2 en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-04-01&g=2020-04-01) wordt uiteengezet wanneer dit het geval is. Let op! Niet alle vrijstellingen en ontheffingen die op grond van de onderscheidenlijke versies van de Wet inburgering door de gemeente of DUO zijn verleend gelden ook voor in de naturalisatieprocedure.
+Als de vreemdeling ooit op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) inburgeringsplichtig is geweest en hij heeft in dat kader met succes het inburgeringsexamen behaald, dan legt hij in zijn naturalisatieprocedure dat inburgeringsdiploma over. Als de vreemdeling ooit vrijgesteld of ontheven is van de inburgeringsplicht door een vrijstellend document te overleggen of een ontheffingsbeschikking te krijgen, dan zal het vrijstellend document of de ontheffingsbeschikking in veel gevallen ook voldoende zijn in de naturalisatieprocedure. In paragraaf 2.2 en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-05-07&g=2020-05-07) wordt uiteengezet wanneer dit het geval is. Let op! Niet alle vrijstellingen en ontheffingen die op grond van de onderscheidenlijke versies van de Wet inburgering door de gemeente of DUO zijn verleend gelden ook voor in de naturalisatieprocedure.
 
 ### Paragraaf 2.3.2. Psychische of lichamelijke belemmering
 
@@ -5906,9 +5906,9 @@ Als de burgermeester twijfelt of iemand daadwerkelijk het inburgeringsdiploma he
 
 Als de verzoeker in het bezit is van een ontheffing of een (gedeeltelijke) vrijstelling op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) onderzoekt de burgemeester of deze vrijstelling of ontheffing ook geldig is in de naturalisatieprocedure. Ook een verzoeker om naturalisatie die nooit inburgeringsplichtig is geweest, kan in aanmerking komen voor (gedeeltelijke) vrijstelling of ontheffing.
 
-De regels over (gedeeltelijke) vrijstelling en ontheffing kan de burgemeester raadplegen in het [Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604) en de [Regeling naturalisatietoets Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0021067). De toelichting op deze regels is hieronder beschreven in paragraaf 2.2 (vrijstelling) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-04-01&g=2020-04-01) (ontheffing).
+De regels over (gedeeltelijke) vrijstelling en ontheffing kan de burgemeester raadplegen in het [Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604) en de [Regeling naturalisatietoets Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0021067). De toelichting op deze regels is hieronder beschreven in paragraaf 2.2 (vrijstelling) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&z=2020-05-07&g=2020-05-07) (ontheffing).
 
-Als de burgemeester van oordeel is dat de verzoeker in aanmerking komt voor een gedeeltelijke vrijstelling, onderzoekt de burgemeester of de verzoeker de overige benodigde examenonderdelen (zie [paragraaf 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-04-01&g=2020-04-01)) reeds heeft behaald. Bij twijfel of de verzoeker een examenonderdeel heeft behaald, verwijst de burgemeester de verzoeker naar DUO om daarvan een bewijsmiddel te verkrijgen.
+Als de burgemeester van oordeel is dat de verzoeker in aanmerking komt voor een gedeeltelijke vrijstelling, onderzoekt de burgemeester of de verzoeker de overige benodigde examenonderdelen (zie [paragraaf 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.3&z=2020-05-07&g=2020-05-07)) reeds heeft behaald. Bij twijfel of de verzoeker een examenonderdeel heeft behaald, verwijst de burgemeester de verzoeker naar DUO om daarvan een bewijsmiddel te verkrijgen.
 
 Als blijkt dat een examenonderdeel niet behaald is, verwijst de burgemeester de verzoeker naar DUO om het onderdeel alsnog te behalen. De burgemeester adviseert de verzoeker om DUO daarbij te wijzen op de gedeeltelijke vrijstelling, waarvoor hij in aanmerking wenst te komen. Als de verzoeker de overige benodigde examenonderdelen heeft behaald en dit kan aantonen met de in paragraaf 2.2.3 genoemde benodigde documenten, kan de verzoeker zich opnieuw wenden tot de burgemeester.
 
@@ -6088,7 +6088,7 @@ In verband met het uitbreiden van het inburgeringsexamen op 1 oktober 2017 met h
 
 Voor het aanvragen van een advies van DUO inzake ontheffing aantoonbare inspanning (zie [paragraaf 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&paragraaf=2.3.4&z=2019-07-01&g=2019-07-01)) wordt gebruik gemaakt van het formulier dat te verkrijgen is via www.inburgeren.nl en www.ind.nl. Op het formulier kruist betrokkene aan of hij een beroep doet op ontheffing a of b. Is door de betrokkene onvoldoende bewijs geleverd naar het oordeel van DUO, dan krijgt betrokkene een negatief advies op het ontheffingsverzoek. De aangeleverde documenten worden tegelijkertijd met het advies aan betrokkene teruggestuurd.
 
-Voor het aanvragen van een advies van DUO inzake ontheffing aantoonbaar geleverde inspanningen moet de betrokkene gebruik maken van het formulier dat te verkrijgen is via www.inburgeren.nl of www.ind.nl. Op het formulier kruist de betrokkene aan of hij een beroep doet op mogelijkheid a, b of c als genoemd in [paragraaf 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&paragraaf=2.3.4&z=2020-04-01&g=2020-04-01). De betrokkene stuurt aan DUO de verklaring van de cursusinstelling(en) met het Blik op Werk Keurmerk, waaruit blijkt dat hij met voldoende inzet de onder ad a, ad b of ad c genoemde vereiste minimale uren heeft deelgenomen. Voor cursusinstellingen met het Blik op Werk Keurmerk: zie www.blikopwerk.nl/inburgeren.
+Voor het aanvragen van een advies van DUO inzake ontheffing aantoonbaar geleverde inspanningen moet de betrokkene gebruik maken van het formulier dat te verkrijgen is via www.inburgeren.nl of www.ind.nl. Op het formulier kruist de betrokkene aan of hij een beroep doet op mogelijkheid a, b of c als genoemd in [paragraaf 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.3&paragraaf=2.3.4&z=2020-05-07&g=2020-05-07). De betrokkene stuurt aan DUO de verklaring van de cursusinstelling(en) met het Blik op Werk Keurmerk, waaruit blijkt dat hij met voldoende inzet de onder ad a, ad b of ad c genoemde vereiste minimale uren heeft deelgenomen. Voor cursusinstellingen met het Blik op Werk Keurmerk: zie www.blikopwerk.nl/inburgeren.
 
 De betrokkene hoeft de minimale uren cursus niet bij één en dezelfde cursusinstelling te hebben gevolgd.
 
@@ -6118,7 +6118,7 @@ Als een verzoeker zich niet wenst te conformeren aan de in Nederland geldende fu
 
 [Artikel 10:58 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=58) geeft onder meer aan dat een in het buitenland uitgesproken verstoting in Nederland slechts dan als een rechtsgeldige ontbinding van het huwelijk wordt aangemerkt, eerst dan naar Nederlands recht kan worden erkend, als de verstoting onherroepelijk is en de vrouw hiermee (uitdrukkelijk of stilzwijgend) heeft ingestemd of zich erbij heeft neergelegd, door middel van bijvoorbeeld een bewijs van verstotingshandeling (waaruit de instemming van de vrouw kan worden afgeleid), een bewijs van instemming of berusting, een bewijs dat de ex-echtgenote is hertrouwd of een huwelijksakte van de man betreffende een huwelijk gesloten ten overstaan van de ambtenaar van de burgerlijke stand in Nederland. Als bewijs dat een polygaam huwelijk niet meer in stand is, dient uiteraard ook de overlijdensakte van de verstoten vrouw. Verstotingen van vóór de inwerkingtreding van de [artikelen 10:27 tot en met 10:53 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=27) worden analoog behandeld.
 
-Als de verzoeker de nationaliteit bezit van een land waar polygamie mogelijk is, zal de burgemeester aan de hand van de gegevens in de BRP nagaan of er sprake is (geweest) van eerdere huwelijken. Als uit de BRP blijkt dat sprake is (geweest) van eerdere huwelijken zal moeten worden onderzocht of de ontbinding van het huwelijk naar Nederlands recht kan worden erkend. Het ligt op de weg van de verzoeker om aan de hand van documenten aan te tonen dat een eerdere echtgenoot heeft ingestemd met de verstoting. Zo is de omstandigheid dat de verstoting lang geleden heeft plaatsgevonden geen reden om aan te nemen dat de vrouw stilzwijgend heeft ingestemd met de verstoting.42[97] De burgemeester zal bij de indiening van het verzoek aan een verzoeker als hier bedoeld vragen of er nog sprake is van eerdere huwelijken die niet in de BRP zijn opgenomen (zie [model 2.1 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)). Als dat het geval is, moet aan de hand van de door de verzoeker overgelegde documenten worden onderzocht of dat huwelijk is ontbonden op een naar Nederlands recht erkende wijze.
+Als de verzoeker de nationaliteit bezit van een land waar polygamie mogelijk is, zal de burgemeester aan de hand van de gegevens in de BRP nagaan of er sprake is (geweest) van eerdere huwelijken. Als uit de BRP blijkt dat sprake is (geweest) van eerdere huwelijken zal moeten worden onderzocht of de ontbinding van het huwelijk naar Nederlands recht kan worden erkend. Het ligt op de weg van de verzoeker om aan de hand van documenten aan te tonen dat een eerdere echtgenoot heeft ingestemd met de verstoting. Zo is de omstandigheid dat de verstoting lang geleden heeft plaatsgevonden geen reden om aan te nemen dat de vrouw stilzwijgend heeft ingestemd met de verstoting.42[97] De burgemeester zal bij de indiening van het verzoek aan een verzoeker als hier bedoeld vragen of er nog sprake is van eerdere huwelijken die niet in de BRP zijn opgenomen (zie [model 2.1 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)). Als dat het geval is, moet aan de hand van de door de verzoeker overgelegde documenten worden onderzocht of dat huwelijk is ontbonden op een naar Nederlands recht erkende wijze.
 
 De hierboven gegeven criteria zijn uiteraard vatbaar voor rechterlijke toetsing. De hierboven genoemde lijst van omstandigheden, waaruit de instemming of de berusting blijkt, is niet limitatief. Er kunnen andere feitelijke omstandigheden zijn die er mede op wijzen dat de vrouw zich bij de verstoting heeft neergelegd.
 
@@ -6200,7 +6200,7 @@ De burgemeester ontraadt de betrokkene een verzoek in te dienen als hij twijfelt
 
 ### Paragraaf 1.2. Drie jaar onafgebroken huwelijk (geregistreerd partnerschap) en samenwoning met een Nederlander
 
-Staat hij er toch op een verzoek in te dienen, dan wordt zijn verzoek in ontvangst genomen. De burgemeester stelt zijn bevindingen op in een advies en stuurt het advies met een kopie van eventueel overgelegde documenten mee in het dossier aan de IND. In dit geval wordt de verzoeker door de burgemeester erop gewezen dat zijn verzoek om naturalisatie door de IND kan worden afgewezen, en dat hij de betaalde naturalisatiegelden niet terug krijgt. Geadviseerd wordt dat de burgemeester de verzoeker een verklaring ‘geïnformeerd over negatief advies’ laat ondertekenen. Deze verklaring is opgenomen in de Handleiding RWN als [model 2.21](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01).
+Staat hij er toch op een verzoek in te dienen, dan wordt zijn verzoek in ontvangst genomen. De burgemeester stelt zijn bevindingen op in een advies en stuurt het advies met een kopie van eventueel overgelegde documenten mee in het dossier aan de IND. In dit geval wordt de verzoeker door de burgemeester erop gewezen dat zijn verzoek om naturalisatie door de IND kan worden afgewezen, en dat hij de betaalde naturalisatiegelden niet terug krijgt. Geadviseerd wordt dat de burgemeester de verzoeker een verklaring ‘geïnformeerd over negatief advies’ laat ondertekenen. Deze verklaring is opgenomen in de Handleiding RWN als [model 2.21](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07).
 
 Voorbeeld van 2:
 
@@ -6274,7 +6274,7 @@ Met ingang van 1 juli 2013 is het haalbaarheidsonderzoek ROC Amsterdam vervangen
 
 Een verzoeker die aantoont dat hij wegens een psychische of lichamelijke belemmering dan wel een verstandelijke handicap redelijkerwijs niet in staat is de naturalisatietoets (het inburgeringsexamen) te behalen, is op grond van [artikel 4 van het Besluit Naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) van het examen ontheven. Dit geldt ook voor de verzoeker die ondanks geleverde inspanningen niet in staat is de naturalisatietoets te behalen.
 
-Let op. Ook de verzoeker die in het bezit is van een beschikking van het college van B&W als bedoeld in [artikel 3, derde lid, onder a, van de (voormalige) Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) voldoet aan de voorwaarden van de naturalisatietoets. In tegenstelling tot bovengenoemde documenten geldt er geen geldigheidsduur voor dit document. Voor meer informatie zie [paragraaf 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.2&z=2020-04-01&g=2020-04-01).
+Let op. Ook de verzoeker die in het bezit is van een beschikking van het college van B&W als bedoeld in [artikel 3, derde lid, onder a, van de (voormalige) Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=3) voldoet aan de voorwaarden van de naturalisatietoets. In tegenstelling tot bovengenoemde documenten geldt er geen geldigheidsduur voor dit document. Voor meer informatie zie [paragraaf 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.2&paragraaf=2.2.2&z=2020-05-07&g=2020-05-07).
 
 Deze medisch adviseur stelt vast of er een psychische of lichamelijke belemmering dan wel verstandelijke handicap is waardoor de verzoeker het examen binnen een termijn van vijf jaar al dan niet kan behalen. Ook kan de medisch adviseur vaststellen dat het examen wel kan worden behaald, zij het met een aanpassing van de examenomstandigheden of met lichte aanpassingen in het voorbereidingstraject.
 
@@ -6300,7 +6300,7 @@ De vraag of een verzoeker monogaam is, doet zich het meest voor bij personen afk
 
 ### 4. Fictieve toets verblijfsrecht van niet tijdelijke aard in Nederland (artikel 8 lid 1 onder bRWN)
 
-Met betrekking tot de in deze paragraaf genoemde buitenlandse documenten geldt ook hier dat deze pas na legalisatie of voorzien van een apostille in het Nederlands rechtsverkeer kunnen worden gebruikt en geaccepteerd (zie toelichting op [artikel 7 RWN, paragraaf 3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.4&z=2020-04-01&g=2020-04-01)).
+Met betrekking tot de in deze paragraaf genoemde buitenlandse documenten geldt ook hier dat deze pas na legalisatie of voorzien van een apostille in het Nederlands rechtsverkeer kunnen worden gebruikt en geaccepteerd (zie toelichting op [artikel 7 RWN, paragraaf 3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.4&z=2020-05-07&g=2020-05-07)).
 
 ### 5. Termijn van toelating en hoofdverblijf niet van toepassing (artikel 8 lid 2 RWN)
 
@@ -6326,9 +6326,9 @@ De verplichting tot bereidverklaring en het afleggen van de verklaring van verbo
 
 Vanaf 1 maart 2009 moet zowel de meerderjarige naturalisandus als de minderjarige naturalisandus die op het tijdstip waarop het verzoek om naturalisatie, op grond van [artikel 11, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) wordt ingediend zestien jaar of ouder is, zich bij de indiening van het verzoek om naturalisatie bereid verklaren de verklaring van verbondenheid af te leggen bij de bekendmaking van het naturalisatiebesluit.
 
-Betrokkene verklaart bereid te zijn de verklaring van verbondenheid af te leggen, door het ondertekenen van de **‘Bereidverklaring afleggen verklaring van verbondenheid’** (model 2.30). De verklaring van verbondenheid legt hij vervolgens in persoon, in beginsel op een naturalisatieceremonie, doorgaans mondeling af voordat het uittreksel van het naturalisatiebesluit aan hem wordt uitgereikt (zie tevens [paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-04-01&g=2020-04-01)**Afleggen verklaring van verbondenheid**).
+Betrokkene verklaart bereid te zijn de verklaring van verbondenheid af te leggen, door het ondertekenen van de **‘Bereidverklaring afleggen verklaring van verbondenheid’** (model 2.30). De verklaring van verbondenheid legt hij vervolgens in persoon, in beginsel op een naturalisatieceremonie, doorgaans mondeling af voordat het uittreksel van het naturalisatiebesluit aan hem wordt uitgereikt (zie tevens [paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-05-07&g=2020-05-07)**Afleggen verklaring van verbondenheid**).
 
-Van de verplichting van het ondertekenen van de bereidverklaring en het vervolgens afleggen van de verklaring van verbondenheid kan geen vrijstelling worden gegeven, tenzij het afleggen van de verklaring van verbondenheid redelijkerwijs niet gevraagd kan worden (zie daarvoor toelichting bij [artikel 60b, vijfde lid en zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Er zijn omstandigheden denkbaar waarin het voor de verzoeker niet mogelijk is om de bereidverklaring in te vullen en te ondertekenen. Zo is het bijvoorbeeld mogelijk dat de verzoeker wel bereid is de verklaring van verbondenheid af te leggen, maar vanwege zijn fysieke of psychische toestand model 2.30 niet zelf kan invullen of dat bij het indienen van zijn verzoek om naturalisatie duidelijk is dat de verzoeker niet in staat zal zijn de verklaring van verbondenheid mondeling af te leggen. Zie de toelichting in [paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-04-01&g=2020-04-01)**Bereidverklaring afleggen verklaring van verbondenheid (model 2.30)** in artikel 7 RWN hoe met deze uitzonderingssituaties moet worden omgegaan.
+Van de verplichting van het ondertekenen van de bereidverklaring en het vervolgens afleggen van de verklaring van verbondenheid kan geen vrijstelling worden gegeven, tenzij het afleggen van de verklaring van verbondenheid redelijkerwijs niet gevraagd kan worden (zie daarvoor toelichting bij [artikel 60b, vijfde lid en zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Er zijn omstandigheden denkbaar waarin het voor de verzoeker niet mogelijk is om de bereidverklaring in te vullen en te ondertekenen. Zo is het bijvoorbeeld mogelijk dat de verzoeker wel bereid is de verklaring van verbondenheid af te leggen, maar vanwege zijn fysieke of psychische toestand model 2.30 niet zelf kan invullen of dat bij het indienen van zijn verzoek om naturalisatie duidelijk is dat de verzoeker niet in staat zal zijn de verklaring van verbondenheid mondeling af te leggen. Zie de toelichting in [paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-05-07&g=2020-05-07)**Bereidverklaring afleggen verklaring van verbondenheid (model 2.30)** in artikel 7 RWN hoe met deze uitzonderingssituaties moet worden omgegaan.
 
 Voor een enkele verzoeker kan echter een uitzondering gemaakt worden. Indien van de verzoeker door omstandigheden redelijkerwijs niet verlangd kan worden dat hij de verklaring van verbondenheid mondeling uitspreekt tegenover de bevoegde autoriteit, wordt een schriftelijke verklaring van verbondenheid ondertekend. De beoordeling of sprake is van de hier bedoelde omstandigheden, ligt bij de burgemeester57Zie artikel 60b, vijfde lid, BVVN en paragraaf 3.13.4 Zwaarwegende redenen en uitzonderingen. en wordt gestaafd door ten minste één door of namens de verzoeker overgelegde bewijsstuk(ken).
 
@@ -6668,7 +6668,7 @@ Van ‘toelating’ in Nederland in de zin van deze Rijkswet is sprake indien de
 
 ### Paragraaf 3.2. Beoordeling buitenlandse verstotingsakten
 
-Het is mogelijk om volledige vrijstelling van de naturalisatietoets te krijgen of om een gedeeltelijke vrijstelling voor een specifieke onderdelen van de naturalisatietoets te krijgen. De voorwaarden worden in de volgende twee paragrafen beschreven. De algemene procedure is hierboven in [paragraaf 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.1&paragraaf=2.1.2&z=2020-04-01&g=2020-04-01) beschreven.
+Het is mogelijk om volledige vrijstelling van de naturalisatietoets te krijgen of om een gedeeltelijke vrijstelling voor een specifieke onderdelen van de naturalisatietoets te krijgen. De voorwaarden worden in de volgende twee paragrafen beschreven. De algemene procedure is hierboven in [paragraaf 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&paragraaf=2&paragraaf=2.1&paragraaf=2.1.2&z=2020-05-07&g=2020-05-07) beschreven.
 
 In het kader van de naturalisatieprocedure moet de verzoeker nog wel het onderdeel Kennis van de Nederlandse Samenleving (KNS) met goed gevolg afleggen.
 
@@ -6720,7 +6720,7 @@ Met ingang van 1 maart 2009 is de verklaring van verbondenheid een nieuwe voorwa
 
 ### Uitzonderingen (zie tevens [paragraaf 3.13.4.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.4&paragraaf=3.13.4.2&z=2019-07-01&g=2019-07-01) Uitzondering (mondeling) afleggen verklaring van verbondenheid
 
-(zie tevens de [toelichting bij artikel 7 RWN onder paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-04-01&g=2020-04-01) Afleggen verklaring van verbondenheid)
+(zie tevens de [toelichting bij artikel 7 RWN onder paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-05-07&g=2020-05-07) Afleggen verklaring van verbondenheid)
 
 ### 5. Niet uitreiken bij niet verschijnen of weigering afleggen verklaring van verbondenheid (zie tevens [artikel 60b, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) en de [toelichting bij artikel 7 RWN onder paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2019-07-01&g=2019-07-01) Afleggen verklaring van verbondenheid)
 
@@ -6884,7 +6884,7 @@ Uit de jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State 
 
 Evenmin kunnen als bijzonder worden aangemerkt omstandigheden die hebben geleid of bijgedragen tot het misdrijf, aangezien die omstandigheden, voorzover zij als verzachtende omstandigheden hebben te gelden, door de strafrechter bij diens oordeel zijn betrokken. Deze voorbeelden zijn niet-limitatief.
 
-Als al sprake is van dergelijke bijzondere omstandigheden, is het aan de vreemdeling om die zelf aan te voeren. Dat ligt niet op de weg van de burgemeester en de IND, omdat die in den regel ook geen kennis kunnen hebben van bijzondere omstandigheden. Wel ligt het op de weg van de burgemeester en de IND om naar de aanwezigheid van bijzondere omstandigheden te vragen en de betekenis daarvan zonodig te onderzoeken. De vreemdeling kan op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) (bij naturalisatie) of [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) (bij optie) ‘Verklaring verblijf en gedrag’ die hij bij de indiening van zijn verzoek of het afleggen van de optieverklaring bij de burgemeester invult, aangeven of er sprake is van bijzondere omstandigheden.
+Als al sprake is van dergelijke bijzondere omstandigheden, is het aan de vreemdeling om die zelf aan te voeren. Dat ligt niet op de weg van de burgemeester en de IND, omdat die in den regel ook geen kennis kunnen hebben van bijzondere omstandigheden. Wel ligt het op de weg van de burgemeester en de IND om naar de aanwezigheid van bijzondere omstandigheden te vragen en de betekenis daarvan zonodig te onderzoeken. De vreemdeling kan op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) (bij naturalisatie) of [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) (bij optie) ‘Verklaring verblijf en gedrag’ die hij bij de indiening van zijn verzoek of het afleggen van de optieverklaring bij de burgemeester invult, aangeven of er sprake is van bijzondere omstandigheden.
 
 De beoordeling van bijzondere omstandigheden gebeurt bij naturalisatie bij de IND, en bij optie bij de burgemeester. Die bijzondere omstandigheden kunnen hoogstens leiden tot de conclusie dat de vreemdeling geen gevaar vormt voor de openbare orde. Als wel sprake is van ernstige vermoedens dat de vreemdeling een gevaar voor de openbare orde vormt, moet naturalisatie of optie worden geweigerd. Daarvan kan bij naturalisatie niet met toepassing van [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) worden afgeweken.
 
@@ -6902,7 +6902,7 @@ Voor de procedure bij optie, zie de toelichting bij [artikel 6, vierde lid, RWN]
 
 De verplichting om afstand te doen van de oorspronkelijke nationaliteit bij naturalisatie is ook na inwerkingtreding van het voorstel tot wijziging van de RWN op 1 april 2003 blijven bestaan, zij het met inachtneming van de uitgangspunten zoals geformuleerd in het op 2 februari 1993 te Straatsburg tot stand gekomen Tweede Protocol tot wijziging van het Verdrag betreffende beperking van de gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (**Trb.** 1994, 265), hierna te noemen: Tweede Protocol. De uitgangspunten in het Tweede Protocol zijn neergelegd in [artikel 9, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9), zoals dit luidt met ingang van 1 april 2003 (zie de toelichting bij artikel 9, derde lid, RWN).
 
-Iedere meerderjarige vreemdeling en iedere minderjarige kind van 16 jaar en ouder moet bij het naturalisatieverzoek of optieverklaring een verklaring verblijf en gedrag ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) bij naturalisatie, [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) bij optie) ondertekenen. In dit model verklaart hij dat hij niet in aanraking is geweest met politie en/of Justitie, én, als hij getrouwd is, dat hij niet met meer dan één vrouw is getrouwd. Model 2.3 en model 1.14 bestaat uit meerdere verklaringen. Als de vreemdeling (of degene voor wie medenaturalisatie of medeoptie is verzocht) aangeeft dat hij niet een of meer van de verklaringen op model 2.3 of model 1.14 naar waarheid kan verklaren, dan moet hij op het model (zoveel mogelijk onderbouwd met stukken) aangeven waarom hij die verklaring niet kan afleggen. Daarbij kan hij aangeven of er naar zijn mening bijzondere omstandigheden zijn die toch tot naturalisatie of optie moeten leiden.
+Iedere meerderjarige vreemdeling en iedere minderjarige kind van 16 jaar en ouder moet bij het naturalisatieverzoek of optieverklaring een verklaring verblijf en gedrag ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) bij naturalisatie, [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) bij optie) ondertekenen. In dit model verklaart hij dat hij niet in aanraking is geweest met politie en/of Justitie, én, als hij getrouwd is, dat hij niet met meer dan één vrouw is getrouwd. Model 2.3 en model 1.14 bestaat uit meerdere verklaringen. Als de vreemdeling (of degene voor wie medenaturalisatie of medeoptie is verzocht) aangeeft dat hij niet een of meer van de verklaringen op model 2.3 of model 1.14 naar waarheid kan verklaren, dan moet hij op het model (zoveel mogelijk onderbouwd met stukken) aangeven waarom hij die verklaring niet kan afleggen. Daarbij kan hij aangeven of er naar zijn mening bijzondere omstandigheden zijn die toch tot naturalisatie of optie moeten leiden.
 
 ### paragraaf 3.8. De verzoeker heeft – naar hij stelt en aantoont – bijzondere en objectief waardeerbare redenen om geen afstand te doen van zijn oorspronkelijke nationaliteit
 
@@ -6998,7 +6998,7 @@ Verzoeker A bezit de nationaliteit van land Z. A overlegt verklaringen van de au
 
 ### 9-1-c. Toelichting ad artikel 9, eerste lid, aanhef en onder c
 
-Van een verzoeker die over een aanzienlijk vermogen beschikt kan niet snel worden aangenomen dat hij, gelet op zijn financiële draagkracht, een bedrag aan leges voor het doen van afstand moeilijk kan opbrengen. Hierbij geldt een vermogensgrens, waarboven niet meer kan worden gesproken van een door verzoeker te lijden substantieel financieel nadeel (uiteraard met inachtneming van het bepaalde in [paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-04-01&g=2020-04-01)).
+Van een verzoeker die over een aanzienlijk vermogen beschikt kan niet snel worden aangenomen dat hij, gelet op zijn financiële draagkracht, een bedrag aan leges voor het doen van afstand moeilijk kan opbrengen. Hierbij geldt een vermogensgrens, waarboven niet meer kan worden gesproken van een door verzoeker te lijden substantieel financieel nadeel (uiteraard met inachtneming van het bepaalde in [paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-05-07&g=2020-05-07)).
 
 Verzoeker A bezit de nationaliteit van land Z. A overlegt verklaringen van de autoriteiten van land Z waaruit blijkt dat hij voor het doen van afstand een bedrag van 750 moet betalen. Uit de viv en de overgelegde loonstroken blijkt dat A een baan heeft als bollenpeller waarmee hij 1200 netto per maand verdient. Hij heeft geen vermogen.
 
@@ -7026,7 +7026,7 @@ Binnen de grenzen van het minimum en het maximum financieel nadeel is de verhoud
 
 Verzoekster A heeft de nationaliteit van land Z en is 40 jaar oud. Bij het indienen van het verzoek om naturalisatie overlegt zij verklaringen van de autoriteiten van land Z, waaruit blijkt dat zij een pensioen heeft opgebouwd van 2000 en dat pensioenbedragen alleen worden uitgekeerd aan personen met de nationaliteit van land Z die de pensioengerechtigde leeftijd van 65 jaar hebben bereikt. De betreffende wettelijke bepalingen zijn bijgevoegd. De stukken zijn gelegaliseerd en zijn vertaald in het Nederlands. Uit de viv en de daarbij overgelegde stukken blijkt dat A in Nederland een spaartegoed heeft van 3000 en in Duitsland een spaartegoed heeft van 2000. A behoeft geen afstand te doen van haar oorspronkelijke nationaliteit. Haar opgebouwd pensioen kan thans niet te gelde worden gemaakt, zodat zij dat pensioen zal verliezen door het doen van afstand. Het te verliezen bedrag van 2000 is voorts groter dan een vierde deel van haar overig vermogen van 5000.
 
-Voor de vaststelling van het vermogen en de geldende vermogensgrenzen is het hierboven gestelde onder paragrafen [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.2&z=2020-04-01&g=2020-04-01),[3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.3&z=2020-04-01&g=2020-04-01) en [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.4&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+Voor de vaststelling van het vermogen en de geldende vermogensgrenzen is het hierboven gestelde onder paragrafen [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.2&z=2020-05-07&g=2020-05-07),[3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.3&z=2020-05-07&g=2020-05-07) en [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=9&paragraaf=3&paragraaf=3.4&paragraaf=3.4.4&z=2020-05-07&g=2020-05-07) van overeenkomstige toepassing.
 
 B behoeft door het doen van afstand geen substantieel financieel nadeel te lijden. Weliswaar heeft hij genoegzaam aangetoond dat hij eigenaar van een stuk grond is met een aanzienlijke waarde en dat hij de grond door het doen van afstand zou verliezen, maar uit de stukken blijkt niet dat hij de grond slechts onder onredelijk bezwarende of belastende voorwaarden kan verkopen. Integendeel. Het is een braakliggend stuk grond dat hij met een goede winst kan verkopen. B kan niet met succes een beroep doen op deze uitzonderingscategorie.
 
@@ -7082,7 +7082,7 @@ De betrokkene wordt door de burgemeester in de voorlichtingsfase gewezen op de v
 
 Ten slotte wordt de betrokkene in de voorlichtingsfase meegedeeld dat als hij na de verkrijging of verlening van het Nederlanderschap weigert afstand te doen van zijn oorspronkelijke nationaliteit, het besluit waarbij het Nederlanderschap is verkregen of verleend, kan worden ingetrokken.
 
-Als de betrokkene wél bereid is afstand te doen, moet hij bij het afleggen van de optieverklaring of het indienen van het verzoek om naturalisatie een bereidheidsverklaring ondertekenen waarop hij dat duidelijk aangeeft. Zie de [modellen 1.14-1a HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01), [2.4 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) en 2.5 HRWN.
+Als de betrokkene wél bereid is afstand te doen, moet hij bij het afleggen van de optieverklaring of het indienen van het verzoek om naturalisatie een bereidheidsverklaring ondertekenen waarop hij dat duidelijk aangeeft. Zie de [modellen 1.14-1a HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07), [2.4 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) en 2.5 HRWN.
 
 ### 9-5. Toelichting ad artikel 9, vijfde lid
 
@@ -7248,7 +7248,7 @@ Verder kan evenmin – als het gaat om een kind dat de leeftijd van zestien jaar
 
 [Artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) geeft aan van welke wettelijk gestelde voorwaarde wél en – impliciet – van welke voorwaarden niet kan worden afgeweken. Niet kan worden afgeweken van het vereiste:
 
-Bovendien geldt ingeval van een beroep op [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) dat verzoeker zijn identiteit en nationaliteit aantoont volgens de daarvoor geldende algemene regels. Dit betekent dat een op artikel 10 RWN gebaseerd naturalisatieverzoek geen basis kan bieden voor de toepassing van andere (soepelere) dan de algemeen geldende regels voor het aantonen van identiteit en nationaliteit (zie de toelichting op artikel 7, [par. 3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.5&z=2020-04-01&g=2020-04-01) en 3.5.6).
+Bovendien geldt ingeval van een beroep op [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) dat verzoeker zijn identiteit en nationaliteit aantoont volgens de daarvoor geldende algemene regels. Dit betekent dat een op artikel 10 RWN gebaseerd naturalisatieverzoek geen basis kan bieden voor de toepassing van andere (soepelere) dan de algemeen geldende regels voor het aantonen van identiteit en nationaliteit (zie de toelichting op artikel 7, [par. 3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.5&z=2020-05-07&g=2020-05-07) en 3.5.6).
 
 ### Verklaring vrijgesteld van optiegelden3Alleen invullen indien van toepassing; de vrijgestelde ontvangt een kopie van dit formulier.
 
@@ -7262,7 +7262,7 @@ Met het ministerie van VWS is een aantal afspraken gemaakt met betrekking tot he
 
 Voor een geslaagd beroep op toepassing van [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) wegens ambtelijk verzuim moet aangetoond worden dat dit zwaarwegend is. Het gestelde zwaarwegend zijn van het ambtelijk verzuim wordt afgewogen tegen het belang van betrokkene om eerder dan bij de toepassing van de reguliere voorwaarden voor naturalisatie Nederlander te worden. In de hier bedoelde belangenafweging wordt in ieder geval betrokken de mate van bijzonderheid van het geval, de mate waarin verzoeker niet voldoet aan de standaardvoorwaarden en de restrictieve wijze waarop toepassing dient te worden gegeven aan artikel 10 RWN. Bij zwaarwegend ambtelijk verzuim valt te denken aan:
 
-Aangezien [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) geen afwijking van [artikel 8, eerste lid, aanhef en onder b en e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) toestaat, wordt nogmaals benadrukt dat in alle hierboven omschreven voorbeelden de persoon die een beroep doet op artikel 10 RWN bij het indienen van het verzoek in het bezit moet zijn van een verblijfsrecht dat naar zijn aard niet-tijdelijk is (zie de toelichting bij artikel 8, eerste lid, aanhef en onder b, RWN) en verklaard moet hebben bereid te zijn bij de verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen (zie [toelichting bij artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-04-01&g=2020-04-01) en artikel 8, eerste lid, aanhef en onder e, RWN). Let goed op dat een verzoeker die een beroep doet op artikel 10 RWN altijd zijn identiteit en nationaliteit aantoont volgens de daarvoor geldende algemene regels (zie de [toelichting op artikel 7, paragraaf 3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.5&z=2020-04-01&g=2020-04-01) en 3.5.6). Betreft het een verzoeker als bedoeld in artikel 8, tweede lid, RWN die in het buitenland woont, dan geldt dat hij moet aantonen dat hij een dergelijk verblijfsrecht zou(den) verkrijgen, als daar om zou worden verzocht.
+Aangezien [artikel 10 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10) geen afwijking van [artikel 8, eerste lid, aanhef en onder b en e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) toestaat, wordt nogmaals benadrukt dat in alle hierboven omschreven voorbeelden de persoon die een beroep doet op artikel 10 RWN bij het indienen van het verzoek in het bezit moet zijn van een verblijfsrecht dat naar zijn aard niet-tijdelijk is (zie de toelichting bij artikel 8, eerste lid, aanhef en onder b, RWN) en verklaard moet hebben bereid te zijn bij de verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen (zie [toelichting bij artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-05-07&g=2020-05-07) en artikel 8, eerste lid, aanhef en onder e, RWN). Let goed op dat een verzoeker die een beroep doet op artikel 10 RWN altijd zijn identiteit en nationaliteit aantoont volgens de daarvoor geldende algemene regels (zie de [toelichting op artikel 7, paragraaf 3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.5&paragraaf=3.5.5&z=2020-05-07&g=2020-05-07) en 3.5.6). Betreft het een verzoeker als bedoeld in artikel 8, tweede lid, RWN die in het buitenland woont, dan geldt dat hij moet aantonen dat hij een dergelijk verblijfsrecht zou(den) verkrijgen, als daar om zou worden verzocht.
 
 Een bijzonder geval kan zich voordoen als blijkt dat de verlening van het Nederlanderschap in zodanige mate een Nederlands cultureel belang dient, dat afwijking van één of meer reguliere voorwaarden wordt gerechtvaardigd. Onder een Nederlands cultureel belang wordt tevens verstaan een Nederlands belang op sportief gebied.
 
@@ -7330,7 +7330,7 @@ Voor minderjarige kinderen en jongvolwassenen die met toepassing van het onderha
 
 Voor de minderjarige naturalisandus die op het tijdstip waarop het verzoek om naturalisatie op grond van [artikel 11, derde of vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) wordt ingediend zestien jaar of ouder is, geldt de verplichting tot bereidverklaring en het afleggen van de verklaring van verbondenheid.
 
-Als een ouder heeft verzocht om medeverlening voor een minderjarige, terwijl de minderjarige niet voldoet aan de geldende voorwaarden, worden de personalia van het kind niet vermeld in het Koninklijk Besluit en wordt het verzoek om medeverlening van het kind schriftelijk afgewezen. Hetzelfde geldt uiteraard voor een zelfstandig verzoek op grond van [artikel 11, vijfde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11). De afwijzende beslissing is een beschikking in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), waartegen de gebruikelijke rechtsmiddelen kunnen worden aangewend (zie ook de [toelichting bij artikel 7 RWN, paragraaf 3.11](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.11&z=2020-04-01&g=2020-04-01)).
+Als een ouder heeft verzocht om medeverlening voor een minderjarige, terwijl de minderjarige niet voldoet aan de geldende voorwaarden, worden de personalia van het kind niet vermeld in het Koninklijk Besluit en wordt het verzoek om medeverlening van het kind schriftelijk afgewezen. Hetzelfde geldt uiteraard voor een zelfstandig verzoek op grond van [artikel 11, vijfde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11). De afwijzende beslissing is een beschikking in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), waartegen de gebruikelijke rechtsmiddelen kunnen worden aangewend (zie ook de [toelichting bij artikel 7 RWN, paragraaf 3.11](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.11&z=2020-05-07&g=2020-05-07)).
 
 In [artikel 31 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=31) is aangegeven welke gegevens de verzoeker over zichzelf en over het (mede) te naturaliseren kind moet verstrekken. Als deze gegevens niet of onvoldoende worden verstrekt, zal Onze Minister, na inverzuimstelling, het verzoek afwijzen. De afwijzende beslissing van Onze Minister is een beschikking waartegen op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) rechtsmiddelen kunnen worden aangewend.
 
@@ -7354,7 +7354,7 @@ Het verblijf als geprivilegieerde moet worden aangetoond door middel van het ove
 
 Ook voor de minderjarige van zestien jaar en ouder geldt dat hij ‘sedert het tijdstip van het verzoek, toelating voor onbepaalde tijd en hoofdverblijf’ in het Koninkrijk moet hebben (zie de toelichting bij het tweede lid van onderhavig artikel).
 
-Volgens onderhavig artikellid moet het kind dat ten tijde van de indiening van het verzoek zestien jaar of ouder is, zich bij de indiening bereid verklaren de verklaring van verbondenheid af te leggen ([model 2.30 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)). Vervolgens zal het kind dat de bereidverklaring afgegeven heeft, tijdens de naturalisatieceremonie, de verklaring van verbondenheid moeten afleggen voordat hem het uittreksel van het besluit tot verlening van het Nederlanderschap kan worden uitgereikt. Het vereiste tot bereidverklaring en het afleggen van de verklaring van verbondenheid geldt niet voor een kind dat bij het indienen van het verzoek om naturalisatie jonger dan zestien jaar is, maar gedurende de behandeling van het verzoek zestien jaar wordt (zie de [toelichting bij artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&z=2020-04-01&g=2020-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-04-01&g=2020-04-01) en [8 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&z=2020-04-01&g=2020-04-01).)
+Volgens onderhavig artikellid moet het kind dat ten tijde van de indiening van het verzoek zestien jaar of ouder is, zich bij de indiening bereid verklaren de verklaring van verbondenheid af te leggen ([model 2.30 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)). Vervolgens zal het kind dat de bereidverklaring afgegeven heeft, tijdens de naturalisatieceremonie, de verklaring van verbondenheid moeten afleggen voordat hem het uittreksel van het besluit tot verlening van het Nederlanderschap kan worden uitgereikt. Het vereiste tot bereidverklaring en het afleggen van de verklaring van verbondenheid geldt niet voor een kind dat bij het indienen van het verzoek om naturalisatie jonger dan zestien jaar is, maar gedurende de behandeling van het verzoek zestien jaar wordt (zie de [toelichting bij artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=6&z=2020-05-07&g=2020-05-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&z=2020-05-07&g=2020-05-07) en [8 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=8&z=2020-05-07&g=2020-05-07).)
 
 Verzoeken om medeverlening voor kinderen die bij het indienen van het verzoek van de ouder zestien jaar of ouder zijn, worden afgewezen als er op grond van hun gedrag ernstige vermoedens bestaan dat zij een gevaar opleveren voor de openbare orde als bedoeld in [artikel 9, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9) en artikel 9, tweede lid, RWN. Bij deze groep kinderen wordt op dezelfde wijze als bij meerderjarige verzoekers beoordeeld of er openbare orde aspecten zijn op grond waarvan het verzoek moet worden afgewezen. In het kader van het onderzoek worden voor deze kinderen door de IND de vereiste justitiële documentatiegegevens opgevraagd (zie de toelichting bij artikel 9, eerste lid, aanhef en onder a, RWN).
 
@@ -7468,11 +7468,11 @@ Het voorgaande geldt niet indien het een vreemdeling betreft waarvan de IND aan 
 
 “De verkrijging van de Nederlandse nationaliteit door een vreemdeling brengt geen wijziging in diens geslachtsnaam en voornamen, behoudens [artikel 25, onder b, van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=25) en de [artikelen 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [12 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12).”
 
-Als naamsvaststelling of naamswijziging is geboden op grond van [artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12), overlegt de burgemeester met de verzoeker over de vast te stellen of te wijzigen namen van de verzoeker en van de personen voor wie medeverlening wordt verzocht, alsmede over de in het Koninkrijk gebruikelijke lettertekens waarin de namen worden overgebracht ([artikel 36, derde lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Daartoe kan gebruik worden gemaakt van [model 2.6 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) ‘Verzoek om naamsvaststelling bij naturalisatie’ of model 2.7 HRWN ‘Verzoek om naamswijziging bij naturalisatie’.
+Als naamsvaststelling of naamswijziging is geboden op grond van [artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12), overlegt de burgemeester met de verzoeker over de vast te stellen of te wijzigen namen van de verzoeker en van de personen voor wie medeverlening wordt verzocht, alsmede over de in het Koninkrijk gebruikelijke lettertekens waarin de namen worden overgebracht ([artikel 36, derde lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Daartoe kan gebruik worden gemaakt van [model 2.6 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) ‘Verzoek om naamsvaststelling bij naturalisatie’ of model 2.7 HRWN ‘Verzoek om naamswijziging bij naturalisatie’.
 
 Wijziging van de namen gedurende de naturalisatieprocedure geschiedt uitsluitend in het kader van de inburgering en dan alleen in de situaties zoals beschreven in de toelichting op [artikel 12, tweede lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12). Bij naturalisatie wordt uitgegaan van de schrijfwijze van de namen zoals opgenomen in de BRP. Deze inschrijving is gebaseerd op een (voldoende gelegaliseerd of van apostille voorzien) document of op een door de verzoeker afgelegde verklaring onder ede (VOE). Als de verzoeker desondanks iets aan de schrijfwijze van zijn na(a)m(en) wenst te veranderen, moet hij die verandering voorafgaand aan de indiening van zijn verzoek om naturalisatie via de gemeente bewerkstelligen (door het overleggen van de juiste bewijsstukken zoals een nieuwe beëdigde vertaling of nieuwe brondocumenten). Voor het herstellen van veronderstelde schrijf- of vertaalfouten in de na(a)m(en) zoals opgenomen in de BRP is geen ruimte binnen de naturalisatieprocedure.
 
-Als zij daarom verzoeken, worden de in het verzoek begrepen minderjarige kinderen van twaalf jaar of ouder, evenals de wettelijk vertegenwoordiger of de (andere) ouder als bedoeld in [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2) in de gelegenheid gesteld hun zienswijze over de naamsvaststelling of naamswijziging kenbaar te maken ([artikel 36, vierde lid, BvvN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Hiertoe kan gebruik worden gemaakt van [model 2.9 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) ‘Brief zienswijze (mede)verlening Nederlanderschap (minderjarigen van 12 t/m 15 jaar)’ en model 2.11 HRWN ‘Formulier zienswijze naamswijziging/naamsvaststelling (minderjarigen van 12 jaar t/m 15 jaar)’ respectievelijk model 2.13 HRWN ‘Brief zienswijze andere ouder/wettelijk vertegenwoordiger omtrent (mede)verlening Nederlanderschap aan minderjarigen’ en model 2.15 HRWN ‘Formulier zienswijze andere ouder/wettelijk vertegenwoordiger omtrent naamsvaststelling kind(eren)’of model 2.16 HRWN. ‘Formulier zienswijze andere ouder/wettelijk vertegenwoordiger omtrent naamswijziging kind(eren)’
+Als zij daarom verzoeken, worden de in het verzoek begrepen minderjarige kinderen van twaalf jaar of ouder, evenals de wettelijk vertegenwoordiger of de (andere) ouder als bedoeld in [artikel 2, vierde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2) in de gelegenheid gesteld hun zienswijze over de naamsvaststelling of naamswijziging kenbaar te maken ([artikel 36, vierde lid, BvvN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)). Hiertoe kan gebruik worden gemaakt van [model 2.9 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) ‘Brief zienswijze (mede)verlening Nederlanderschap (minderjarigen van 12 t/m 15 jaar)’ en model 2.11 HRWN ‘Formulier zienswijze naamswijziging/naamsvaststelling (minderjarigen van 12 jaar t/m 15 jaar)’ respectievelijk model 2.13 HRWN ‘Brief zienswijze andere ouder/wettelijk vertegenwoordiger omtrent (mede)verlening Nederlanderschap aan minderjarigen’ en model 2.15 HRWN ‘Formulier zienswijze andere ouder/wettelijk vertegenwoordiger omtrent naamsvaststelling kind(eren)’of model 2.16 HRWN. ‘Formulier zienswijze andere ouder/wettelijk vertegenwoordiger omtrent naamswijziging kind(eren)’
 
 De burgemeester brengt over de naamsvaststelling of naamswijziging advies uit aan Onze Minister ([artikel 36, vijfde lid, BvvN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36)).
 
@@ -7814,7 +7814,7 @@ alsook:**Verklaring vrijgesteld van naturalisatiegelden**
 
 ### 1. Algemeen
 
-### Paragraaf 2. Verzoekers die de bereidverklaring en de verklaring van verbondenheid moeten afleggen (zie tevens de [toelichting bij artikel 7 RWN onder paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-04-01&g=2020-04-01) Bereidverklaring afleggen verklaring van verbondenheid)
+### Paragraaf 2. Verzoekers die de bereidverklaring en de verklaring van verbondenheid moeten afleggen (zie tevens de [toelichting bij artikel 7 RWN onder paragraaf 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.4&paragraaf=3.4.1&z=2020-05-07&g=2020-05-07) Bereidverklaring afleggen verklaring van verbondenheid)
 
 ### Paragraaf 4. Afwijzing als er serieuze verdenkingen bestaan dat de vreemdeling een misdrijf heeft gepleegd waarop nog een sanctie kan volgen
 
@@ -7826,7 +7826,7 @@ alsook:**Verklaring vrijgesteld van naturalisatiegelden**
 
 ### 4. Afleggen verklaring van verbondenheid
 
-### 5. Niet uitreiken bij niet verschijnen of weigering afleggen verklaring van verbondenheid (zie tevens [artikel 60b, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) en de [toelichting bij artikel 7 RWN onder paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-04-01&g=2020-04-01) Afleggen verklaring van verbondenheid)
+### 5. Niet uitreiken bij niet verschijnen of weigering afleggen verklaring van verbondenheid (zie tevens [artikel 60b, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) en de [toelichting bij artikel 7 RWN onder paragraaf 3.13.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.3&z=2020-05-07&g=2020-05-07) Afleggen verklaring van verbondenheid)
 
 ### 8-2. Toelichting ad artikel 8, tweede lid
 
@@ -7878,13 +7878,13 @@ Een stelsel dat uitgaat van de datum waarop het misdrijf heeft plaatsgevonden, i
 
 Als uit de gegevens blijkt dat sprake is van omstandigheden die niet overeenkomen met wat de vreemdeling (bij optie: op [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2019-07-01&g=2019-07-01), bij naturalisatie: op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2019-07-01&g=2019-07-01)) zelf heeft verklaard, dan wordt de vreemdeling door de burgemeester (bij optie) en door de IND (bij naturalisatie) in de gelegenheid gesteld zijn zienswijze naar voren te brengen ([artikel 4:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7)). De zienswijze wordt bij optie door de burgemeester bij de beoordeling betrokken, bij naturalisatie door de IND.
 
-Als uit de gegevens blijkt dat sprake is van feiten en omstandigheden die niet overeenkomen met wat de vreemdeling (bij optie: op [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01), bij naturalisatie: op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)) zelf heeft verklaard, dan wordt de vreemdeling door de burgemeester (bij optie) en door de IND (bij naturalisatie) in de gelegenheid gesteld zijn zienswijze naar voren te brengen ([artikel 4:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7)). De zienswijze wordt bij optie door de burgemeester bij de beoordeling betrokken, bij naturalisatie door de IND.
+Als uit de gegevens blijkt dat sprake is van feiten en omstandigheden die niet overeenkomen met wat de vreemdeling (bij optie: op [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07), bij naturalisatie: op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)) zelf heeft verklaard, dan wordt de vreemdeling door de burgemeester (bij optie) en door de IND (bij naturalisatie) in de gelegenheid gesteld zijn zienswijze naar voren te brengen ([artikel 4:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7)). De zienswijze wordt bij optie door de burgemeester bij de beoordeling betrokken, bij naturalisatie door de IND.
 
 De voor de beslissing op het verzoek om naturalisatie of optie vereiste zorgvuldigheid strekt niet zover dat de IND of de burgemeester zich zelfstandig een oordeel behoort te vormen over de mogelijke uitkomst van de strafzaak. De beslissing op het verzoek om naturalisatie of optie wordt niet onnodig aangehouden in afwachting van de uitkomst van een strafprocedure.
 
 Verder moet de burgemeester bij optie en de IND bij naturalisatie contact opnemen met de korpschef om na te gaan of de vreemdeling voorkomt in:
 
-Als uit de gegevens blijkt dat sprake is van omstandigheden die niet overeenkomen met wat de vreemdeling (bij optie: op [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01), bij naturalisatie: op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01)) zelf heeft verklaard, dan wordt de vreemdeling door de burgemeester (bij optie) en door de IND (bij naturalisatie) in de gelegenheid gesteld zijn zienswijze naar voren te brengen ([artikel 4:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7)). De zienswijze wordt bij optie door de burgemeester bij de beoordeling betrokken, bij naturalisatie door de IND.
+Als uit de gegevens blijkt dat sprake is van omstandigheden die niet overeenkomen met wat de vreemdeling (bij optie: op [model 1.14](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07), bij naturalisatie: op [model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07)) zelf heeft verklaard, dan wordt de vreemdeling door de burgemeester (bij optie) en door de IND (bij naturalisatie) in de gelegenheid gesteld zijn zienswijze naar voren te brengen ([artikel 4:7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7)). De zienswijze wordt bij optie door de burgemeester bij de beoordeling betrokken, bij naturalisatie door de IND.
 
 Als de vreemdeling een maatregel strekkend tot ontneming van wederrechtelijk verkregen voordeel is (of nog kan worden) opgelegd, moet worden nagegaan wanneer de laatst opgelegde sanctie ten uitvoer is gelegd. Het kan daarbij voorkomen dat de ontnemingsmaatregel pas (veel) later ten uitvoer is gelegd dan de eventueel eveneens opgelegde vrijheidsstraf of geldboete.
 
@@ -8296,7 +8296,7 @@ Indien de naam slechts bestaat uit één bestanddeel wordt deze naam in beginsel
 
 Een minderjarig kind van wie de naam uit één bestanddeel bestaat, deelt in beginsel in de naamsvaststelling van verzoeker. Als gewenst kan echter ook een naam van de andere ouder (of een voorouder) als geslachtsnaam van het kind worden vastgesteld, als is aangetoond dat deze andere (voor)ouder daadwerkelijk een (voor)ouder van het kind is (en dus als zodanig in de BRP is geregistreerd op grond van een geboorteakte of verklaring onder eed of belofte).
 
-In [paragraaf 1.3 van de algemene toelichting op artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=3&z=2020-04-01&g=2020-04-01) is weergegeven in welke gevallen een minderjarig kind dat deelt in de naturalisatie, kan delen in de naamsvaststelling of naamswijziging van de ouder. Dat is mogelijk als het kind:
+In [paragraaf 1.3 van de algemene toelichting op artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=3&z=2020-05-07&g=2020-05-07) is weergegeven in welke gevallen een minderjarig kind dat deelt in de naturalisatie, kan delen in de naamsvaststelling of naamswijziging van de ouder. Dat is mogelijk als het kind:
 
 ### 3. Onderteken dit formulier
 
@@ -8496,7 +8496,7 @@ Tarief B is verschuldigd als twee optieverklaringen gelijktijdig worden afgelegd
 
 Tarief C is verschuldigd voor de behandeling van een optieverklaring tot medeverkrijging als bedoeld in [artikel 6, achtste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6). Dit betekent dat voor de behandeling van een optieverklaring tot medeverkrijging voor een minderjarige, naast het tarief dat de ouder(s) moet(en) betalen bij het afleggen van hun optieverklaring (tarief A of B), het tarief C moet worden betaald voor iedere minderjarige voor wie een optieverklaring tot medeverkrijging wordt afgelegd.
 
-Zie voor de betalingsprocedure verder [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=3&z=2020-04-01&g=2020-04-01) (betaling van de verschuldigde optie- en naturalisatiegelden).
+Zie voor de betalingsprocedure verder [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=3&z=2020-05-07&g=2020-05-07) (betaling van de verschuldigde optie- en naturalisatiegelden).
 
 Om in aanmerking te komen voor ontheffing moet gelijktijdig met de indiening van de optieverklaring een gemotiveerd ontheffingsverzoek worden ingediend. In Nederland is de burgemeester gemandateerd in de ministeriële regeling om te beslissen op het verzoek tot ontheffing van de optiegelden (zie [artikel 4, vijfde lid, BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4)). In het buitenland zijn de hoofden van de Nederlandse diplomatieke en consulaire posten hiertoe gemandateerd. Voor een inwilligend besluit op een ontheffingsverzoek zijn [modellen 1.27 en 1.27a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2019-07-01&g=2019-07-01) beschikbaar. Voor een afwijzend besluit op een ontheffingsverzoek zijn [modellen 1.28 en 1.28a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2019-07-01&g=2019-07-01) beschikbaar.
 
@@ -8506,7 +8506,7 @@ Voor de belangenafweging geldt dat A is genaturaliseerd, terwijl, naar later bli
 
 Op grond van [artikel 4, derde lid, BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4) bestaat de mogelijkheid in twee situaties ontheffing van de leges te verlenen. Hierbij moet het gaan om optieverklaringen van:
 
-Om in aanmerking te komen voor ontheffing moet gelijktijdig met de indiening van de optieverklaring een gemotiveerd ontheffingsverzoek worden ingediend. In Nederland is de burgemeester gemandateerd in de ministeriële regeling om te beslissen op het verzoek tot ontheffing van de optiegelden (zie [artikel 4, vijfde lid, BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4)). In het buitenland zijn de hoofden van de Nederlandse diplomatieke en consulaire posten hiertoe gemandateerd. Voor een inwilligend besluit op een ontheffingsverzoek zijn [modellen 1.27 en 1.27a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) beschikbaar. Voor een afwijzend besluit op een ontheffingsverzoek zijn [modellen 1.28 en 1.28a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01) beschikbaar.
+Om in aanmerking te komen voor ontheffing moet gelijktijdig met de indiening van de optieverklaring een gemotiveerd ontheffingsverzoek worden ingediend. In Nederland is de burgemeester gemandateerd in de ministeriële regeling om te beslissen op het verzoek tot ontheffing van de optiegelden (zie [artikel 4, vijfde lid, BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4)). In het buitenland zijn de hoofden van de Nederlandse diplomatieke en consulaire posten hiertoe gemandateerd. Voor een inwilligend besluit op een ontheffingsverzoek zijn [modellen 1.27 en 1.27a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) beschikbaar. Voor een afwijzend besluit op een ontheffingsverzoek zijn [modellen 1.28 en 1.28a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07) beschikbaar.
 
 [Artikel 7, tweede lid, BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=7) voorziet in de mogelijkheid dat de gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post aan de rijksoverheid vergoeding verzoekt wegens, door ontheffing, niet-ontvangen optiegelden. Het hoofd van de Nederlandse diplomatieke en consulaire post moet een verzoek om vergoeding indienen door tussenkomst van de Minister van Buitenlandse Zaken.
 
@@ -8520,11 +8520,11 @@ Komen verzoekers niet in aanmerking voor het verlaagd tarief F of G (zie [paragr
 
 Voor naturalisatie is in het algemeen betaling van naturalisatiegelden verschuldigd. Per individueel geval moet worden bekeken welk bedrag aan naturalisatiegelden moet worden betaald. Hierbij zijn te onderscheiden:
 
-Zie voor gevallen van categoriale vrijstelling van naturalisatiegelden [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.5&z=2020-04-01&g=2020-04-01) en voor de mogelijkheid een ontheffingsverzoek van de betalingsverplichting in te dienen [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.6&z=2020-04-01&g=2020-04-01).
+Zie voor gevallen van categoriale vrijstelling van naturalisatiegelden [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.5&z=2020-05-07&g=2020-05-07) en voor de mogelijkheid een ontheffingsverzoek van de betalingsverplichting in te dienen [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.6&z=2020-05-07&g=2020-05-07).
 
 Het verlaagd tarief voor een verzoek om naturalisatie geldt in de volgende gevallen:
 
-Komen verzoekers niet in aanmerking voor het verlaagd tarief F of G (zie [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.3&z=2020-04-01&g=2020-04-01)), dan zijn de tarieven D en E verschuldigd voor de behandeling van een enkelvoudig dan wel een gemeenschappelijk verzoek om naturalisatie.
+Komen verzoekers niet in aanmerking voor het verlaagd tarief F of G (zie [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.3&z=2020-05-07&g=2020-05-07)), dan zijn de tarieven D en E verschuldigd voor de behandeling van een enkelvoudig dan wel een gemeenschappelijk verzoek om naturalisatie.
 
 Een gemeenschappelijk verzoek wil zeggen dat een verzoek om naturalisatie gelijktijdig is ingediend door twee personen die met elkaar getrouwd zijn, een geregistreerd partnerschap met elkaar zijn aangegaan of ongehuwd samenleven in een duurzame relatie.
 
@@ -8554,7 +8554,7 @@ Om in aanmerking te komen voor ontheffing moet gelijktijdig met de indiening van
 
 **Voorbeeld**
 
-De bevoegdheid tot verlening van ontheffing is in Nederland gemandateerd aan de burgemeester. In het buitenland zijn de hoofden van de Nederlandse diplomatieke en consulaire posten hiertoe gemandateerd. Voor een inwilligend besluit op een ontheffingsverzoek zijn [modellen 2.24 en 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) beschikbaar. Voor een afwijzend besluit op een ontheffingsverzoek zijn [modellen 2.25 en 2.25a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-04-01&g=2020-04-01) beschikbaar.
+De bevoegdheid tot verlening van ontheffing is in Nederland gemandateerd aan de burgemeester. In het buitenland zijn de hoofden van de Nederlandse diplomatieke en consulaire posten hiertoe gemandateerd. Voor een inwilligend besluit op een ontheffingsverzoek zijn [modellen 2.24 en 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) beschikbaar. Voor een afwijzend besluit op een ontheffingsverzoek zijn [modellen 2.25 en 2.25a](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=2&z=2020-05-07&g=2020-05-07) beschikbaar.
 
 Modellen van een schriftelijke bevestiging door betrokkene dat hij is geïnformeerd over de hoogte en de termijn van de te betalen optie- en naturalisatiegelden en dat hij instemt met de betaling van de opgelegde optie- en naturalisatiegelden dan wel is vrijgesteld van de betaling dan wel een verzoek om ontheffing heeft ingediend, zijn opgenomen als model 1.25 HRWN, model 1.25a HRWN, model 2.8 HRWN en model 2.8a HRWN. De vaststelling van de hoogte van de te betalen naturalisatiegelden is een voorbereidingshandeling zoals bedoeld in [artikel 6:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:3) en is niet afzonderlijk vatbaar voor bezwaar of beroep.
 
@@ -8562,7 +8562,7 @@ De optie- en naturalisatiegelden zijn verschuldigd voordat een verklaring van op
 
 Eerst na ontvangst van de betaling dan wel na de beslissing op een ontheffingsverzoek wordt het ingediende verzoek om naturalisatie dan wel de afgelegde optieverklaring in behandeling genomen. Ongeacht het verdere verloop van de naturalisatieprocedure – toewijzing, afwijzing of intrekking van het verzoek nadat de behandeling is begonnen – zijn de rechten verschuldigd betaald (vergelijk [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2) en [3 BON](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3)).
 
-De hoogte van het verschuldigde bedrag voor het afleggen van de optieverklaring of voor het verzoek om naturalisatie wordt in beginsel vastgesteld op het moment dat de verklaring of het verzoek door de burgemeester/ de Minister van Buitenlandse Zaken in ontvangst wordt genomen. Zie de in de [paragrafen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=1&paragraaf=1.1&z=2020-04-01&g=2020-04-01), [1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=1&paragraaf=1.3&z=2020-04-01&g=2020-04-01), [2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.2&z=2020-04-01&g=2020-04-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.6&z=2020-04-01&g=2020-04-01) opgenomen richtlijnen.
+De hoogte van het verschuldigde bedrag voor het afleggen van de optieverklaring of voor het verzoek om naturalisatie wordt in beginsel vastgesteld op het moment dat de verklaring of het verzoek door de burgemeester/ de Minister van Buitenlandse Zaken in ontvangst wordt genomen. Zie de in de [paragrafen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=1&paragraaf=1.1&z=2020-05-07&g=2020-05-07), [1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=1&paragraaf=1.3&z=2020-05-07&g=2020-05-07), [2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.2&z=2020-05-07&g=2020-05-07) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=13&paragraaf=2&paragraaf=2.6&z=2020-05-07&g=2020-05-07) opgenomen richtlijnen.
 
 Modellen van een schriftelijke bevestiging door betrokkene dat hij is geïnformeerd over de hoogte en de termijn van de te betalen optie- en naturalisatiegelden en dat hij instemt met de betaling van de opgelegde optie- en naturalisatiegelden dan wel is vrijgesteld van de betaling dan wel een verzoek om ontheffing heeft ingediend, zijn opgenomen als model 1.25 HRWN, model 1.25a HRWN, model 2.8 HRWN en model 2.8a HRWN. De vaststelling van de hoogte van de te betalen naturalisatiegelden is een voorbereidingshandeling zoals bedoeld in [artikel 6:3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:3) en is niet afzonderlijk vatbaar voor bezwaar of beroep.
 
@@ -8586,7 +8586,7 @@ De in het kader van het afleggen van een optieverklaring ontvangen gelden, behoe
 
 ### 8-1-e. **Toelichting ad artikel 8, eerste lid en onder e**
 
-### Uitzonderingen (zie tevens [paragraaf 3.13.4.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.4&paragraaf=3.13.4.2&z=2020-04-01&g=2020-04-01) Uitzondering (mondeling) afleggen verklaring van verbondenheid
+### Uitzonderingen (zie tevens [paragraaf 3.13.4.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=7&paragraaf=3&paragraaf=3.13&paragraaf=3.13.4&paragraaf=3.13.4.2&z=2020-05-07&g=2020-05-07) Uitzondering (mondeling) afleggen verklaring van verbondenheid
 
 ### Paragraaf 4. Afwijzing als er serieuze verdenkingen bestaan dat de vreemdeling een misdrijf heeft gepleegd waarop nog een sanctie kan volgen
 
@@ -8654,7 +8654,7 @@ Als uit de BRP niet blijkt of een minderjarig kind kan delen in de naamsvaststel
 
 Moeder Natalya Vladimirova is met haar dochter Ekaterina Grzska naar Nederland gekomen om bij haar nieuwe partner te gaan wonen. Moeder Natalya laat haar geslachtsnaam bij haar naturalisatie tot Nederlander zoals deze is. Ze verzoekt echter wél om geslachtsnaamwijziging voor haar meenaturaliserende dochter. Ze wil namelijk graag dat de geslachtsnaam van haar dochter beter uitspreekbaar wordt voor Nederlanders. De geslachtsnaam Grzska is inderdaad moeilijk uitspreekbaar voor Nederlanders en zou in dit geval bijvoorbeeld gewijzigd kunnen worden in Grazeska, of Grezska.
 
-Daarnaast mag de geslachtsnaam van alleen het kind in het kader van de inburgering soms ook gewijzigd worden, terwijl de geslachtsnaam van verzoeker ongewijzigd blijft. Dit is mogelijk als zich één van de situaties voor doet die hierboven in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=2&z=2020-04-01&g=2020-04-01) Naamswijziging, beschreven zijn onder 3 (verbogen geslachtsnaam), 4 (onuitspreekbare naam) en 5 (bespottelijke of onwelvoeglijke naam). Aangezien er aan de namen zoals opgenomen in de BRP zo min mogelijk wordt gesleuteld bij de naturalisatie, vindt de wijziging in beginsel plaats door het verwijderen of toevoegen van één of enkele letters.
+Daarnaast mag de geslachtsnaam van alleen het kind in het kader van de inburgering soms ook gewijzigd worden, terwijl de geslachtsnaam van verzoeker ongewijzigd blijft. Dit is mogelijk als zich één van de situaties voor doet die hierboven in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=2&z=2020-05-07&g=2020-05-07) Naamswijziging, beschreven zijn onder 3 (verbogen geslachtsnaam), 4 (onuitspreekbare naam) en 5 (bespottelijke of onwelvoeglijke naam). Aangezien er aan de namen zoals opgenomen in de BRP zo min mogelijk wordt gesleuteld bij de naturalisatie, vindt de wijziging in beginsel plaats door het verwijderen of toevoegen van één of enkele letters.
 
 ### Paragraaf 4. Afdracht naturalisatiegelden
 
@@ -8776,7 +8776,7 @@ Vervallen.
 
 ### paragraaf 2.1.1. Gebruik van valse identiteit bij naturalisatie of optie
 
-In [paragraaf 1.3 van de algemene toelichting op artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=3&z=2020-04-01&g=2020-04-01) is weergegeven in welke gevallen een minderjarig kind dat deelt in de naturalisatie, kan delen in de naamsvaststelling of naamswijziging van de ouder. Dat is mogelijk als het kind:
+In [paragraaf 1.3 van de algemene toelichting op artikel 12 RWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=12&paragraaf=3&z=2020-05-07&g=2020-05-07) is weergegeven in welke gevallen een minderjarig kind dat deelt in de naturalisatie, kan delen in de naamsvaststelling of naamswijziging van de ouder. Dat is mogelijk als het kind:
 
 [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537): [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)
 
@@ -10064,7 +10064,7 @@ Boek 10 BW: [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel
 
 Kent de vreemde nationaliteitswetgeving (soms: ook) een termijn waarbinnen een verwerping moet plaatsvinden dat gelegen is**na de verkrijging** van de vreemde nationaliteit, dan gaat het Nederlanderschap verloren op de dag dat deze verwerpingstermijn afloopt. Men is in dit geval dus enige tijd bipatride.
 
-Als een andere nationaliteit, anders dan de in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&z=2020-04-01&g=2020-04-01) genoemde voorbeelden, van rechtswege wordt verkregen en de wetgeving van die andere nationaliteit biedt de mogelijkheid om de ontvangen nationaliteit te verwerpen of het verkrijgen ervan te voorkomen, dan verliest men de Nederlandse nationaliteit als men geen gebruik maakt van de mogelijkheid tot verwerping van de andere nationaliteit of van de mogelijkheid om de andere nationaliteit niet te verkrijgen. Als geen gebruik wordt gemaakt van de mogelijkheid de andere nationaliteit te verwerpen, wordt de verkrijging van de andere nationaliteit geacht vrijwillig te zijn. Alleen bij noodgedwongen niet-verwerping van de andere nationaliteit (bijv. als men daardoor gedwongen zou worden zijn woonland te moeten verlaten) wordt de verkrijging van de andere nationaliteit onvrijwillig geacht en treedt geen verlies van het Nederlanderschap in.
+Als een andere nationaliteit, anders dan de in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&z=2020-05-07&g=2020-05-07) genoemde voorbeelden, van rechtswege wordt verkregen en de wetgeving van die andere nationaliteit biedt de mogelijkheid om de ontvangen nationaliteit te verwerpen of het verkrijgen ervan te voorkomen, dan verliest men de Nederlandse nationaliteit als men geen gebruik maakt van de mogelijkheid tot verwerping van de andere nationaliteit of van de mogelijkheid om de andere nationaliteit niet te verkrijgen. Als geen gebruik wordt gemaakt van de mogelijkheid de andere nationaliteit te verwerpen, wordt de verkrijging van de andere nationaliteit geacht vrijwillig te zijn. Alleen bij noodgedwongen niet-verwerping van de andere nationaliteit (bijv. als men daardoor gedwongen zou worden zijn woonland te moeten verlaten) wordt de verkrijging van de andere nationaliteit onvrijwillig geacht en treedt geen verlies van het Nederlanderschap in.
 
 ### Paragraaf 6. Berichtgeving aan andere autoriteiten
 
@@ -10080,7 +10080,7 @@ Als een andere nationaliteit, anders dan de in [paragraaf 1](https://wetten.over
 
 Echter, is de verkregen andere nationaliteit een nationaliteit van een staat die partij is bij het hiervoor genoemde Verdrag van Straatsburg, maar dat niet is bij het op 2 februari 1993 te Straatsburg totstandgekomen Tweede Protocol tot wijziging van dat Verdrag (**Trb.**1994, nr. 265), welk protocol voor Nederland in werking is getreden op 20 augustus 1996, dan gelden de hier bedoelde uitzonderingen niet (voor nadere uitleg zie de toelichting bij [artikel 15A RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A)).
 
-Onder echtgenoot wordt tevens verstaan de partner in een in Nederland geregistreerd partnerschap of een buiten Nederland geregistreerd partnerschap als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), en onder huwelijk tevens het in Nederland geregistreerd partnerschap en het buiten Nederland geregistreerd partnerschap als bedoeld in artikel 1, tweede lid, RWN (zie voor een uitzondering hierop de toelichting bij artikel 15A RWN). Als in het concrete geval sprake is van zogenaamde ‘statenopvolging’: zie voor een uitleg van het begrip ‘**geboren in het land van die andere nationaliteit**’ (art. 15, tweede lid, a RWN) of het **‘in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad**’ (art. 15, tweede lid, b RWN) hieronder in [paragraaf 1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.3&z=2020-04-01&g=2020-04-01).
+Onder echtgenoot wordt tevens verstaan de partner in een in Nederland geregistreerd partnerschap of een buiten Nederland geregistreerd partnerschap als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), en onder huwelijk tevens het in Nederland geregistreerd partnerschap en het buiten Nederland geregistreerd partnerschap als bedoeld in artikel 1, tweede lid, RWN (zie voor een uitzondering hierop de toelichting bij artikel 15A RWN). Als in het concrete geval sprake is van zogenaamde ‘statenopvolging’: zie voor een uitleg van het begrip ‘**geboren in het land van die andere nationaliteit**’ (art. 15, tweede lid, a RWN) of het **‘in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad**’ (art. 15, tweede lid, b RWN) hieronder in [paragraaf 1.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.3&z=2020-05-07&g=2020-05-07).
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10230,9 +10230,9 @@ A kan echter verlies van het Nederlanderschap voorkomen door ervoor te zorgen da
 
 Het verlies als hiervoor bedoeld, trad niet in indien:
 
-### paragraaf 2. Overgangsrecht artikel 15, eerste lid, aanhef en onder c
+### Paragraaf 1.5. Evenredigheidstoets op verlies van Unierechten na van rechtswege verlies van de Nederlandse nationaliteit
 
-Met betrekking tot het huidige [artikel 15, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) kent de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) twee overgangsbepalingen, namelijk [artikel IV RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) voor personen die op 1 april 2003 hun Nederlanderschap nog niet hebben verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN en [artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) voor personen die op grond van laatstbedoelde verliesbepaling hun Nederlanderschap vóór 1 april 2003 hebben verloren. Zie voor een uitleg van [artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) de toelichting onder dat artikel.
+Op 12 maart 2019 stelde de rechter van de Europese Unie vast dat [artikel 15, eerste lid en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [artikel 16, eerste lid en onder d RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) in overeenstemming zijn met het recht van de Europese Unie. Daaraan verbond de rechter wel één voorwaarde. De voorwaarde namelijk dat in een individuele en concrete situatie het mogelijk is om te laten toetsen of het verlies van het Unieburgerschap, áls dat tegelijkertijd gebeurde met het verlies van het Nederlanderschap, evenredig was aan het door de Nederlandse verliesbepaling beoogde doel.1Arrest van het Hof van Justitie van de Europese Unie van 12 maart 2019, ECLI:EU:C:2019:189. In geval van gebleken onevenredigheid moet de verloren nationaliteit met terugwerkende kracht kunnen worden verkregen. De uitspraak geldt alleen voor situaties waarin met het verlies van het Nederlanderschap tevens sprake is van verlies van het Unieburgerschap. Het Unieburgerschap is ingevoerd met het Verdrag van Maastricht, dat in werking trad op 1 november 1993. Verlies van het Nederlanderschap van voor 1 november 1993 valt daarom niet onder de uitspraak van de Europese rechter, waardoor geen evenredigheidstoets op verlies van Unierechten hoeft plaats te vinden.
 
 ### 16-1-b. Toelichting ad artikel 16, eerste lid, aanhef en onder b
 
@@ -10240,13 +10240,13 @@ Met betrekking tot het huidige [artikel 15, eerste lid, aanhef en onder c, RWN](
 
 ### 15a-alg. Toelichting algemeen
 
-Wordt de burgemeester door de IND in kennis gesteld van een besluit tot intrekking, dan bevordert hij dat:
+In de evenredigheidstoets staat de vraag centraal of het verlies van het Unieburgerschap in het individuele geval gevolgen heeft gehad die vanuit het oogpunt van het Unierecht onevenredig zijn, afgewogen tegen de doelstelling van de desbetreffende verliesbepaling van de Nederlandse nationaliteit.
 
 ### 15a-a. Toelichting ad [artikel 15a, aanhef en sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) (Verdrag van Straatsburg)
 
-Van de verzoeker om naturalisatie wordt verlangd dat hij het mogelijke doet om zijn oorspronkelijke nationaliteit te verliezen dan wel zich bereid verklaart om na de totstandkoming van de naturalisatie het mogelijke te zullen doen om die nationaliteit te verliezen ([artikel 9, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)). Dit is alleen anders als iemand valt onder een van de uitzonderingscategorieën (zie de toelichting bij artikel 9, eerste lid, aanhef en onder b, RWN).
+Aan niet op het Unierecht betrekking hebbende argumenten, zoals het argument dat iemand zich nog steeds als Nederlander beschouwt of een sterke verbondenheid voelt met Nederland, komt geen gewicht toe. Evenmin dient rekening te worden gehouden met rechten, die louter gebaseerd zijn op nationaal recht.
 
-Als de betrokkene, ondanks zijn eerdere verklaring bereid te zijn tot het doen van afstand van zijn oorspronkelijke nationaliteit, na totstandkoming van de naturalisatie heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan Onze Minister overgaan tot intrekking van het besluit waarbij het Nederlanderschap is verleend.
+In de evenredigheidstoets is het te toetsen moment de dag waarop men het Nederlanderschap van rechtswege verloor, waarbij tevens gevolgen die op dat moment redelijkerwijze voorzienbaar waren, worden meegenomen. Hypothetische gevolgen of gevolgen die niet redelijkerwijze voorzienbaar zijn worden niet meegewogen.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10290,7 +10290,7 @@ Uit de toelichting bij artikel 61 BVVN blijkt dat verklaringen omtrent het bezit
 
 De verklaring van afstand vermeldt dat de persoon die de verklaring aflegt, bekend is met het feit dat ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) minderjarige kinderen onder omstandigheden zullen delen in het verlies van het Nederlanderschap ([artikel 62, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=62)). Alvorens de verklaring in ontvangst te nemen bepaalt de burgemeester, voor zoveel mogelijk, of hiervan sprake zal zijn ([artikel 63, tweede lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63)) en licht hij degene die de afstandsverklaring aflegt daarover in.
 
-Een verklaring van afstand (zie [model 3.2 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01)) moet in Nederland worden afgelegd ten overstaan van een burgemeester ([artikel 63, eerste lid, aanhef en onder a, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63)). Hoewel dat dus niet de burgemeester hoeft te zijn van de gemeente waar betrokkene met een adres in de BRP is ingeschreven, verdient dat wel de voorkeur, aangezien juist die burgemeester veelal over de gegevens beschikt om direct te kunnen beoordelen of de verklaring al dan niet rechtsgevolg heeft.
+Een verklaring van afstand (zie [model 3.2 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07)) moet in Nederland worden afgelegd ten overstaan van een burgemeester ([artikel 63, eerste lid, aanhef en onder a, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63)). Hoewel dat dus niet de burgemeester hoeft te zijn van de gemeente waar betrokkene met een adres in de BRP is ingeschreven, verdient dat wel de voorkeur, aangezien juist die burgemeester veelal over de gegevens beschikt om direct te kunnen beoordelen of de verklaring al dan niet rechtsgevolg heeft.
 
 ### Paragraaf 7. Verdere administratieve afhandeling
 
@@ -10326,13 +10326,13 @@ Tot 1 april 2003 kon het Nederlanderschap eveneens verloren gaan door tienjarig 
 
 Van de verzoeker om naturalisatie wordt verlangd dat hij het mogelijke doet om zijn oorspronkelijke nationaliteit te verliezen dan wel zich bereid verklaart om na de totstandkoming van de naturalisatie het mogelijke te zullen doen om die nationaliteit te verliezen ([artikel 9, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)). Dit is alleen anders als iemand valt onder een van de uitzonderingscategorieën (zie de toelichting bij artikel 9, eerste lid, aanhef en onder b, RWN).
 
-A, van Nederlandse en Franse nationaliteit, geboren in 1945 in Nederland, woont sedert 15 maart 1996 in de Verenigde Staten).
+Daarna heeft Afdeling bestuursrechtspraak van de Raad van State in een uitspraak van 12 februari 2020 (ECLI:NL:RVS:2020:423) geoordeeld dat de evenredigheidstoets op het verlies van het Unieburgerschap kan worden uitgevoerd op basis van het rechtstreekse werkend artikel 20 VWEU.
 
-A kan echter verlies van het Nederlanderschap voorkomen door ervoor te zorgen dat hij vóór 1 april 2013 in het bezit wordt gesteld van een bewijs van Nederlanderschap of een Nederlands reisdocument (vergelijk [artikel 15, lid 4, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)). Vanaf de datum van de verstrekking van een van beide documenten begint dan voor hem een nieuwe verliestermijn van tien jaar te lopen.
+De Hoge Raad heeft bij beschikking van 3 april 2020 (ECLI:NL:HR:2020:593) geoordeeld dat deze evenredigheidstoetsing en de daaraan verbonden mogelijkheid van herkrijging van het Nederlanderschap met terugwerkende kracht, eveneens kan plaatsvinden in een procedure op grond van [artikel 17 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17).
 
 ### 15-1-d. Toelichting ad [artikel 15, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
-**Het Nederlanderschap gaat voor een meerderjarige verloren door intrekking door Onze Minister van het besluit waarbij het Nederlanderschap is verleend, welke kan plaatsvinden, indien de betrokkene heeft nagelaten na de totstandkoming van zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.**
+Bij de beoordeling van de evenredigheidstoets komt overigens louter gewicht toe aan gevolgen van het verlies van het Unieburgerschap en de daaraan verbonden rechten. Het gaat dus slechts om gevolgen die Unierechtelijk relevant zijn, zoals de uitoefening van het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten, de mogelijkheid daar beroepsactiviteiten te verrichten, en het in het Handvest van de grondrechten van de Europese Unie gewaarborgde rechten zoals de eerbiediging van het familie-en gezinsleven en het erkende belang van het kind.
 
 ### 15a-a. Toelichting ad [artikel 15a, aanhef en sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) (Verdrag van Straatsburg)
 
@@ -10340,15 +10340,15 @@ A kan echter verlies van het Nederlanderschap voorkomen door ervoor te zorgen da
 
 ### 15-1-e. Toelichting ad [artikel 15, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
-### 18-alg. Toelichting algemeen
+### paragraaf 2. Overgangsrecht artikel 15, eerste lid, aanhef en onder c
 
-Wordt de burgemeester door de IND in kennis gesteld van een besluit tot intrekking, dan bevordert hij dat:
+Met betrekking tot het huidige [artikel 15, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) kent de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) twee overgangsbepalingen, namelijk [artikel IV RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) voor personen die op 1 april 2003 hun Nederlanderschap nog niet hebben verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN en [artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) voor personen die op grond van laatstbedoelde verliesbepaling hun Nederlanderschap vóór 1 april 2003 hebben verloren. Zie voor een uitleg van [artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) de toelichting onder dat artikel.
 
 ### paragraaf 2.2.1. Horen minderjarige over bedenkingen tegen het verlies van het Nederlanderschap
 
-Wordt het bezwaar gegrond verklaard, dan zal het intrekkingsbesluit worden herroepen. De herroeping werkt terug tot de datum van het intrekkingsbesluit. Hierdoor wordt betrokkene geacht nimmer het Nederlanderschap door intrekking te hebben verloren. Bij een ongegrond bezwaar is beroep mogelijk bij de rechtbank, sector Bestuursrecht.
+Blijft hij – in het bezit van beide nationaliteiten – in de Verenigde Staten wonen, dan zal hij zijn Nederlanderschap eerst verliezen op 1 april 2013 (en dus niet op 15 maart 2006!).
 
-Mocht betrokkene na ingesteld bezwaar c.q. beroep alsnog moeten worden aangemerkt als Nederlander, wordt de burgemeester wederom door de IND hiervan in kennis gesteld.
+A kan echter verlies van het Nederlanderschap voorkomen door ervoor te zorgen dat hij vóór 1 april 2013 in het bezit wordt gesteld van een bewijs van Nederlanderschap of een Nederlands reisdocument (vergelijk [artikel 15, lid 4, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)). Vanaf de datum van de verstrekking van een van beide documenten begint dan voor hem een nieuwe verliestermijn van tien jaar te lopen.
 
 ## Bijlage 3. Modellen met beperking tot bezit en afstand van het Nederlanderschap
 
@@ -10426,15 +10426,15 @@ Vestigt A zich op 10 juli 2013 (of een andere datum vóór 5 september 2013) wee
 
 ### paragraaf 1.4. Situatie tot 1 april 2003
 
-Blijft hij – in het bezit van beide nationaliteiten – in de Verenigde Staten wonen, dan zal hij zijn Nederlanderschap eerst verliezen op 1 april 2013 (en dus niet op 15 maart 2006!).
+Een evenredigheidstoets op het verlies van het Unieburgerschap kan dus bijvoorbeeld worden gedaan via de aanvraag van een Nederlands paspoort bij de Minister van Buitenlandse Zaken.
 
 ### paragraaf 2.1. Minderjarigen tot 12 jaar
 
-Het Nederlanderschap gaat verloren op de datum van intrekkingsbesluit. De hier bedoelde intrekking heeft – in tegenstelling tot de intrekking van [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) – geen terugwerkende kracht. Het intrekkingsbesluit kan ook verlies van het Nederlanderschap tot gevolg hebben ten aanzien van de minderjarige kinderen die aanvankelijk zijn meegenaturaliseerd, en wel op grond van [artikel 16, eerste lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) (zie de toelichting bij artikel 16, eerste lid, aanhef en onder d, RWN).
+Als sprake is van onevenredige gevolgen ten aanzien van het verlies van Unierechten, dan herkrijgt de aanvrager het Nederlanderschap, met terugwerkende kracht tot de datum van het eerdere van rechtswege verlies. Als geen sprake is van onevenredige gevolgen ten aanzien van het verlies van Unierechten, dan blijft het verlies in stand, dus herkrijgt de aanvrager niet het Nederlanderschap.
 
 ### 16-2. Toelichting ad artikel 16, tweede lid
 
-Het besluit tot intrekking van het Nederlanderschap is een beschikking als bedoeld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb). De Awb is in het kader van de intrekking van toepassing ongeacht of de persoon in kwestie door tussenkomst van de burgemeester, de gezaghebber, de Gouverneur of een diplomatieke of consulaire post is genaturaliseerd, nu de beslissing tot intrekking zelf genomen wordt door Onze Minister in zijn hoedanigheid van minister van het Koninkrijk. De persoon in kwestie kan tegen de beschikking bezwaar maken doch dit bezwaar heeft geen schorsende werking.
+A, van Nederlandse en Franse nationaliteit, geboren in 1945 in Nederland, woont sedert 15 maart 1996 in de Verenigde Staten).
 
 ### paragraaf 2.2.3. Mogelijke situaties ná het horen
 
@@ -10474,17 +10474,17 @@ Als de verklaring van afstand met rechtsgevolg is afgelegd, bevordert de burgeme
 
 ### Artikel 15a
 
-Zie voor de gevolgen van de intrekking voor bij de naturalisatie gewijzigde of vastgestelde namen, de toelichting bij [artikel 14, eerste lid, RWN, paragraaf 5.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=14&paragraaf=5&paragraaf=5.3&z=2020-04-01&g=2020-04-01).
+Een beroep op de evenredigheidstoets kan ook plaatsvinden na het verlies van de Nederlandse nationaliteit op grond van [artikel 15, aanhef en onder c RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) (oud). Het eerste verlies van het Nederlanderschap op grond van artikel 15, aanhef en onder c RWN (oud) vond plaats op 1 januari 1995.
 
 Op grond van [artikel 70, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=70) wordt een afschrift van het besluit tot intrekking gezonden aan de personen van wie het Nederlanderschap is ingetrokken, aan de autoriteit die het verzoek om naturalisatie in ontvangst heeft genomen, aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon en, zo nodig, aan andere betrokken instanties (artikel 70, eerste lid, BVVN). [Artikel 66, tweede, derde en vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=66) zijn daarbij van overeenkomstige toepassing, hetgeen betekent:
 
-### paragraaf 2.3. Minderjarigen van 16 jaar en ouder
+### 15-1-d. Toelichting ad [artikel 15, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
-Nu vanaf 4 juni 2010 alleen Nederland nog is aangesloten bij het Tweede Protocol heeft het Tweede Protocol enkel nog betekenis voor Nederland zelf. De laatste volzin van artikel 15A kan daardoor op dit moment geen gevolg hebben. Die uitzondering zal zich namelijk niet meer voor kunnen doen, zolang geen ander land partij is bij het Tweede Protocol.
+**Het Nederlanderschap gaat voor een meerderjarige verloren door intrekking door Onze Minister van het besluit waarbij het Nederlanderschap is verleend, welke kan plaatsvinden, indien de betrokkene heeft nagelaten na de totstandkoming van zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.**
 
 ### paragraaf 3. Geen verlies Nederlanderschap
 
-Dit artikellid is niet van toepassing op optieverklaringen die zijn ingediend vóór 1 oktober 2010.
+Als de betrokkene, ondanks zijn eerdere verklaring bereid te zijn tot het doen van afstand van zijn oorspronkelijke nationaliteit, na totstandkoming van de naturalisatie heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan Onze Minister overgaan tot intrekking van het besluit waarbij het Nederlanderschap is verleend.
 
 ### 15-3. Toelichting ad artikel 15, derde lid
 
@@ -10492,13 +10492,13 @@ Dit artikellid is niet van toepassing op optieverklaringen die zijn ingediend v�
 
 ### paragraaf 2.2.3. Mogelijke situaties ná het horen
 
-Voor een nadere toelichting wordt verwezen naar de toelichting in de Handleiding bij artikel 15, eerste lid, aanhef en onder d, RWN ([artikel 70, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=70)).
+Wordt de burgemeester door de IND in kennis gesteld van een besluit tot intrekking, dan bevordert hij dat:
 
 ### 15-2. Toelichting ad [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
-**Het eerste lid, aanhef en onder a, is niet van toepassing op de verkrijger**
+Wordt het bezwaar gegrond verklaard, dan zal het intrekkingsbesluit worden herroepen. De herroeping werkt terug tot de datum van het intrekkingsbesluit. Hierdoor wordt betrokkene geacht nimmer het Nederlanderschap door intrekking te hebben verloren. Bij een ongegrond bezwaar is beroep mogelijk bij de rechtbank, sector Bestuursrecht.
 
-Zie de [toelichting bij artikel 15, eerste lid, aanhef en onder a, RWN, paragraaf 1.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.1&z=2020-04-01&g=2020-04-01) en [1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.2&z=2020-04-01&g=2020-04-01).
+Mocht betrokkene na ingesteld bezwaar c.q. beroep alsnog moeten worden aangemerkt als Nederlander, wordt de burgemeester wederom door de IND hiervan in kennis gesteld.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10538,31 +10538,31 @@ Vervallen.
 
 ### Paragraaf 1. Algemeen
 
-**Het Nederlanderschap gaat voor een meerderjarige verloren door intrekking door onze Minister van het besluit waarbij de verkrijging van het Nederlanderschap is bevestigd, welke kan plaatsvinden, indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, heeft nagelaten na de verkrijging van het Nederlanderschap het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.**
+Van de verzoeker om naturalisatie wordt verlangd dat hij het mogelijke doet om zijn oorspronkelijke nationaliteit te verliezen dan wel zich bereid verklaart om na de totstandkoming van de naturalisatie het mogelijke te zullen doen om die nationaliteit te verliezen ([artikel 9, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)). Dit is alleen anders als iemand valt onder een van de uitzonderingscategorieën (zie de toelichting bij artikel 9, eerste lid, aanhef en onder b, RWN).
 
-Van de optant die een optieverzoek indient op grond van [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) wordt verlangd dat hij het mogelijke doet om zijn oorspronkelijke nationaliteit te verliezen dan wel zich bereid verklaart om na de verkrijging van het Nederlanderschap het mogelijk te zullen doen om die nationaliteit te verliezen (artikel 6a, eerste lid, RWN). Dit is alleen anders als de optant valt onder een van de uitzonderingscategorieën (zie de toelichting bij artikel 6a, tweede lid, aanhef en onder a t/m d RWN) ([artikel 30b BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30b)).
+Het Nederlanderschap gaat verloren op de datum van intrekkingsbesluit. De hier bedoelde intrekking heeft – in tegenstelling tot de intrekking van [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) – geen terugwerkende kracht. Het intrekkingsbesluit kan ook verlies van het Nederlanderschap tot gevolg hebben ten aanzien van de minderjarige kinderen die aanvankelijk zijn meegenaturaliseerd, en wel op grond van [artikel 16, eerste lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) (zie de toelichting bij artikel 16, eerste lid, aanhef en onder d, RWN).
 
-Het Nederlanderschap gaat verloren op de datum van het intrekkingsbesluit. De intrekking heeft geen terugwerkende kracht.
+Op grond van [artikel 70, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=70) wordt een afschrift van het besluit tot intrekking gezonden aan de personen van wie het Nederlanderschap is ingetrokken, aan de autoriteit die het verzoek om naturalisatie in ontvangst heeft genomen, aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon en, zo nodig, aan andere betrokken instanties (artikel 70, eerste lid, BVVN). [Artikel 66, tweede, derde en vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=66) zijn daarbij van overeenkomstige toepassing, hetgeen betekent:
 
 ### 16-2-f. Toelichting ad artikel 16, tweede lid, aanhef en onder f
 
-De Nederlander A, die in 1950 in Oostenrijk is geboren, wordt in januari 2004 genaturaliseerd tot Oostenrijker. Ten tijde van zijn naturalisatie woont hij in Oostenrijk. Kijken we uitsluitend naar artikel 15, eerste en tweede lid, RWN dan zouden we tot de conclusie komen, dat A zijn Nederlanderschap niet heeft verloren. Immers, hij is geboren in het land waarvan hij de nationaliteit heeft verkregen en hij woont daar ten tijde van die verkrijging, en artikel 15, tweede lid, aanhef en onder a, RWN bepaalt dan dat geen verlies van het Nederlanderschap intreedt.
+Het besluit tot intrekking van het Nederlanderschap is een beschikking als bedoeld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb). De Awb is in het kader van de intrekking van toepassing ongeacht of de persoon in kwestie door tussenkomst van de burgemeester, de gezaghebber, de Gouverneur of een diplomatieke of consulaire post is genaturaliseerd, nu de beslissing tot intrekking zelf genomen wordt door Onze Minister in zijn hoedanigheid van minister van het Koninkrijk. De persoon in kwestie kan tegen de beschikking bezwaar maken doch dit bezwaar heeft geen schorsende werking.
 
 ### 16a-alg. Toelichting algemeen
 
 ### 15-3. Toelichting ad artikel 15, derde lid
 
-### 15-4. Toelichting ad [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
+### 15-1-e. Toelichting ad [artikel 15, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
 ### 17-alg. Toelichting algemeen
 
-Zie de toelichting bij artikel 15, eerste lid, aanhef en onder c, RWN, paragraaf 1.1 en paragraaf 1.2.
+Dit artikellid is niet van toepassing op optieverklaringen die zijn ingediend vóór 1 oktober 2010.
 
 ### Artikel 15a
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1)
+Indien de optant, ondanks zijn eerdere verklaring bereid te zijn tot het doen van afstand van zijn oorspronkelijke nationaliteit, na de verkrijging van het Nederlanderschap heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan de Minister van Justitie overgaan tot intrekking van het besluit waarbij het Nederlanderschap is verkregen ([artikel 30d BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30d)).
 
-Geen.
+Het Nederlanderschap gaat verloren op de datum van het intrekkingsbesluit. De intrekking heeft geen terugwerkende kracht.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10640,17 +10640,17 @@ Vervallen.
 
 ### paragraaf 2.2.2. Horen ouder die geen wettelijk vertegenwoordiger is over bedenkingen tegen het verlies van het Nederlanderschap van de minderjarige tussen de 12 en 16 jaar
 
-Indien de optant, ondanks zijn eerdere verklaring bereid te zijn tot het doen van afstand van zijn oorspronkelijke nationaliteit, na de verkrijging van het Nederlanderschap heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan de Minister van Justitie overgaan tot intrekking van het besluit waarbij het Nederlanderschap is verkregen ([artikel 30d BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30d)).
+Zie voor de gevolgen van de intrekking voor bij de naturalisatie gewijzigde of vastgestelde namen, de toelichting bij [artikel 14, eerste lid, RWN, paragraaf 5.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=14&paragraaf=5&paragraaf=5.3&z=2020-05-07&g=2020-05-07).
 
 ### paragraaf 2.2.3. Mogelijke situaties ná het horen
 
-Aangezien Italië ten tijde van de naturalisatie van B nog partij is bij het Verdrag van Straatsburg, lijkt de conclusie gerechtvaardigd dat B, ondanks het feit dat hij behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN, als gevolg van de directe werking van artikel 1, eerste lid, Verdrag van Straatsburg zijn Nederlanderschap heeft verloren door zijn naturalisatie tot Italiaan.
+Op grond van [artikel 15, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) (oud) werd tot 1 april 2003 het Nederlanderschap ingetrokken bij Koninklijk Besluit. Op een bezwaarschrift gericht tegen een Koninklijk Besluit tot intrekking van het Nederlanderschap wegens het niet nakomen van de afstandsverplichting, dient (ook na inwerkingtreding van de wijzigingswetten uit 2000 en 2002) te worden beslist door middel van een Koninklijk Besluit. (Dit op grond van [artikel 1:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:5) juncto [artikel 6:4, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4).)
 
-**De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument of Nederlandse identiteitskaart in de zin van de Paspoortwet. Vanaf de dag der verstrekking begint een nieuwe periode van tien jaren te lopen.**
+**Het Nederlanderschap gaat voor een meerderjarige verloren door intrekking door onze Minister van het besluit waarbij de verkrijging van het Nederlanderschap is bevestigd, welke kan plaatsvinden, indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, heeft nagelaten na de verkrijging van het Nederlanderschap het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.**
 
 ### 15a-a. Toelichting ad [artikel 15a, aanhef en sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) (Verdrag van Straatsburg)
 
-**Voorts gaat het Nederlanderschap voor een meerderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (** **Trb. 1964, nr. 4** **) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (** **Trb. 1994, nr. 265** **) en de betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid.**
+Van de optant die een optieverzoek indient op grond van [artikel 6, eerste lid, aanhef en onder e, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) wordt verlangd dat hij het mogelijke doet om zijn oorspronkelijke nationaliteit te verliezen dan wel zich bereid verklaart om na de verkrijging van het Nederlanderschap het mogelijk te zullen doen om die nationaliteit te verliezen (artikel 6a, eerste lid, RWN). Dit is alleen anders als de optant valt onder een van de uitzonderingscategorieën (zie de toelichting bij artikel 6a, tweede lid, aanhef en onder a t/m d RWN) ([artikel 30b BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30b)).
 
 ### 17-alg. Toelichting algemeen
 
@@ -10660,25 +10660,25 @@ De regeling van [artikel 15, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:
 
 ### Artikel 19
 
-Tot 4 juni 2010 gold voornoemde verdragsverplichting ook voor Italië. Voor Italië is het Verdrag van Straatsburg op 27 februari 1968 van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 4 juni 2010 de Italiaanse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 4 juni 2010 is voor Italië de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Zie de [toelichting bij artikel 15, eerste lid, aanhef en onder a, RWN, paragraaf 1.1](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.1&z=2020-05-07&g=2020-05-07) en [1.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.2&z=2020-05-07&g=2020-05-07).
 
 **Voorts gaat het Nederlanderschap voor een meerderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (** **Trb. 1964, nr. 4** **) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (** **Trb. 1994, nr. 265** **) en de betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid.**
 
 Van verlies als bedoeld in deze bepaling is alleen sprake in geval van verkrijging van de nationaliteit van landen waarvoor het Verdrag van Straatsburg in werking is getreden en die Hoofdstuk I van het Verdrag, dat handelt over beperking van gevallen van meervoudige nationaliteit, toepassen. Dat zijn: Nederland (gehele Koninkrijk) en Oostenrijk. Het Verdrag van Straatsburg is voor Nederland (gehele Koninkrijk) in werking getreden op 10 juni 1985. Zweden heeft Hoofdstuk I van het Verdrag toegepast van 6 april 1969 tot 29 juni 2002. Duitsland is partij bij het Verdrag van Straatsburg geweest van 18 december 1969 tot 22 december 2002.
 
-Tot 28 april 2008 gold deze verdragsverplichting ook voor België. Voor België is op 19 juli 1991 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 19 juli 1991 en 28 april 2008 de Belgische nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 28 april 2008 is voor België de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+**De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument of Nederlandse identiteitskaart in de zin van de Paspoortwet. Vanaf de dag der verstrekking begint een nieuwe periode van tien jaren te lopen.**
 
-Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor Frankrijk is op 28 maart 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 5 maart 2009 de Franse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 5 maart 2009 is voor Frankrijk de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Zie de toelichting bij artikel 15, eerste lid, aanhef en onder c, RWN, paragraaf 1.1 en paragraaf 1.2.
 
 Voor Frankrijk is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol (in tegenstelling tot het Verdrag zelf) heeft geen rechtstreekse werking, maar heeft uitvoering gekregen door middel van [artikel 15a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) per 1 april 2003.
 
 ### 16-1-c. Toelichting ad artikel 16, eerste lid, aanhef en onder c
 
-Tot 4 juni 2010 gold voornoemde verdragsverplichting ook voor Italië. Voor Italië is het Verdrag van Straatsburg op 27 februari 1968 van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 4 juni 2010 de Italiaanse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 4 juni 2010 is voor Italië de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Geen.
 
-### 16-1-a. Toelichting ad [artikel 16, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+### 15a-alg. Toelichting algemeen
 
-Denemarken heeft Hoofdstuk I van het Verdrag toegepast van 17 december 1972 tot 26 augustus 2015. Voor Denemarken is op 17 december 1972 het Verdrag van Straatsburg van kracht geworden. Met ingang van 26 augustus 2015 is voor Denemarken de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+De regeling van [artikel 15, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) welke in bepaalde gevallen verlies van het Nederlanderschap door vrijwillige verkrijging van een andere nationaliteit uitsluit, zou zonder nadere beperking in strijd komen met volkenrechtelijke verplichtingen die Nederland heeft ten aanzien van bepaalde staten. Dat betreft enerzijds verplichtingen uit het Verdrag van Straatsburg betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Verdrag van Straatsburg), tenzij die staat tevens partij is bij het Tweede Protocol tot wijziging van dat verdrag, anderzijds verplichtingen uit de Toescheidingsovereenkomst inzake nationaliteiten, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (TOS). De verplichtingen uit het Verdrag van Straatsburg en de TOS hebben voorrang boven de regeling neergelegd in de RWN, met name in artikel 15, tweede lid, RWN.
 
 ### 16-1-d. Toelichting ad [artikel 16, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
@@ -10690,13 +10690,13 @@ Nu vanaf 4 juni 2010 alleen Nederland nog is aangesloten bij het Tweede Protocol
 
 ### 28-3. Toelichting ad artikel 28, derde lid
 
-De betekenis van het Tweede Protocol is sinds 4 juni 2010 beperkt, doordat naast Nederland geen andere landen meer zijn aangesloten bij het Tweede Protocol
+Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor Frankrijk is op 28 maart 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 5 maart 2009 de Franse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 5 maart 2009 is voor Frankrijk de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ### 16-1-b. Toelichting ad artikel 16, eerste lid, aanhef en onder b
 
-[Artikel 1, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1) bepaalt dat voor de toepassing van artikel 15A, aanhef en onder a, RWN onder ‘echtgenoot’ niet is begrepen ‘geregistreerd partner’; en dat onder ‘huwelijk’ niet is begrepen ‘geregistreerde partnerschap’. Artikel 1, tweede lid RWN, vloeit voort uit het Verdrag van Straatsburg. Hieronder wordt een en ander met voorbeelden verduidelijkt.
+Tot 9 juli 2009 gold voornoemde verdragsverplichting ook voor Luxemburg. Voor Luxemburg is op 12 november 1971 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 9 juli 2009 de Luxemburgse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 9 juli 2009 is voor Luxemburg de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-De Nederlander A, die in 1950 in Oostenrijk is geboren, wordt in januari 2004 genaturaliseerd tot Oostenrijker. Ten tijde van zijn naturalisatie woont hij in Oostenrijk. Kijken we uitsluitend naar artikel 15, eerste en tweede lid, RWN dan zouden we tot de conclusie komen, dat A zijn Nederlanderschap niet heeft verloren. Immers, hij is geboren in het land waarvan hij de nationaliteit heeft verkregen en hij woont daar ten tijde van die verkrijging, en artikel 15, tweede lid, aanhef en onder a, RWN bepaalt dan dat geen verlies van het Nederlanderschap intreedt.
+Tot 4 juni 2010 gold voornoemde verdragsverplichting ook voor Italië. Voor Italië is het Verdrag van Straatsburg op 27 februari 1968 van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 4 juni 2010 de Italiaanse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 4 juni 2010 is voor Italië de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10738,75 +10738,75 @@ Vervallen.
 
 De regeling van [artikel 15, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) welke in bepaalde gevallen verlies van het Nederlanderschap door vrijwillige verkrijging van een andere nationaliteit uitsluit, zou zonder nadere beperking in strijd komen met volkenrechtelijke verplichtingen die Nederland heeft ten aanzien van bepaalde staten. Dat betreft enerzijds verplichtingen uit het Verdrag van Straatsburg betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Verdrag van Straatsburg), tenzij die staat tevens partij is bij het Tweede Protocol tot wijziging van dat verdrag, anderzijds verplichtingen uit de Toescheidingsovereenkomst inzake nationaliteiten, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (TOS). De verplichtingen uit het Verdrag van Straatsburg en de TOS hebben voorrang boven de regeling neergelegd in de RWN, met name in artikel 15, tweede lid, RWN.
 
-Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor Frankrijk is op 28 maart 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 5 maart 2009 de Franse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 5 maart 2009 is voor Frankrijk de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Voor een nadere toelichting wordt verwezen naar de toelichting in de Handleiding bij artikel 15, eerste lid, aanhef en onder d, RWN ([artikel 70, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=70)).
 
-Hoewel het onderhavige artikel in het licht van artikel 94 Grondwet (verdrag gaat boven wet) overbodig zou kunnen worden geacht (het verlies vloeit immers rechtstreeks voort uit het Verdrag van Straatsburg en de TOS), heeft de wetgever het toch wenselijk geacht deze verdragsverplichtingen onder de aandacht te brengen in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738). Het onderhavige artikel beoogt dus niet zelfstandige verliesgronden in het leven te roepen. Indien de bepaling uit de in dit artikel genoemde verdragen rechtstreekse werking hebben, leidt die bepaling van rechtswege tot verlies van het Nederlanderschap. Het verlies treedt derhalve niet in op grond van het onderhavige artikel maar op grond van de rechtstreeks werkende bepaling van het Verdrag van Straatsburg of van de TOS.
+**Het eerste lid, aanhef en onder a, is niet van toepassing op de verkrijger**
 
 ### 15a-a. Toelichting ad [artikel 15a, aanhef en sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) (Verdrag van Straatsburg)
 
-### 23-1. Toelichting ad artikel 23, eerste lid
+### 15-3. Toelichting ad artikel 15, derde lid
 
-### 16-1-c. Toelichting ad artikel 16, eerste lid, aanhef en onder c
+### 15-4. Toelichting ad [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
-### 19-alg. Toelichting algemeen
+### Artikel 15a
 
-Tot 9 juli 2009 gold voornoemde verdragsverplichting ook voor Luxemburg. Voor Luxemburg is op 12 november 1971 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 9 juli 2009 de Luxemburgse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 9 juli 2009 is voor Luxemburg de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1)
 
-Het gestelde in de vorige alinea geldt echter niet als het betreffende verdragsland ook partij is bij het Tweede Protocol tot wijziging van het Verdrag van Straatsburg. Het Tweede Protocol maakt het voor elke verdragsluitende partij mogelijk om in bepaalde gevallen door middel van de eigen interne wetgeving afbreuk te doen aan de hoofdregel van het verdrag, waarbij elke staat, die ratificeert, zelf ten aanzien van die gevallen bepaalt in welke mate van dat recht gebruik wordt gemaakt. De gevallen als hier bedoeld, zijn:
+Van verlies als bedoeld in deze bepaling is alleen sprake in geval van verkrijging van de nationaliteit van landen waarvoor het Verdrag van Straatsburg in werking is getreden en die Hoofdstuk I van het Verdrag, dat handelt over beperking van gevallen van meervoudige nationaliteit, toepassen. Dat zijn: Nederland (gehele Koninkrijk) en Oostenrijk. Het Verdrag van Straatsburg is voor Nederland (gehele Koninkrijk) in werking getreden op 10 juni 1985. Zweden heeft Hoofdstuk I van het Verdrag toegepast van 6 april 1969 tot 29 juni 2002. Duitsland is partij bij het Verdrag van Straatsburg geweest van 18 december 1969 tot 22 december 2002.
 
-Nederland heeft van die mogelijkheid gebruikgemaakt door opneming in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) van artikel 15, tweede lid, RWN en overigens ook van artikel 16, tweede lid, aanhef en onder e, f en g, RWN (vergelijk ook de tweede zin van artikel 15A, aanhef en onder a, RWN en de tweede zin van artikel 16A RWN). Het Tweede Protocol is op 24 maart 1995 in werking getreden voor Frankrijk (tot 5 maart 2009) en Italië (tot 4 juni 2010) en is sedert 20 augustus 1996 ook voor Nederland van kracht. Echter, tot 1 april 2003 is door Nederland in de eigen interne wetgeving geen uitvoering gegeven aan het Tweede Protocol.
+Tot 28 april 2008 gold deze verdragsverplichting ook voor België. Voor België is op 19 juli 1991 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 19 juli 1991 en 28 april 2008 de Belgische nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 28 april 2008 is voor België de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ### Artikel 29
 
-Het bovenstaande betekent dan ook dat vanaf 1 april 2003 de meerderjarige Nederlander die vrijwillig de nationaliteit van een verdragsland verkrijgt op een moment dat het land partij bij Hoofdstuk I van het Verdrag is, het Nederlanderschap verliest, tenzij:
+Voor Frankrijk is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol (in tegenstelling tot het Verdrag zelf) heeft geen rechtstreekse werking, maar heeft uitvoering gekregen door middel van [artikel 15a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) per 1 april 2003.
 
 ### 16-1-b. Toelichting ad artikel 16, eerste lid, aanhef en onder b
 
 ### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
 
-De Nederlander B, die in 1949 in Nederland is geboren, woont sedert 1990 in Italië en wordt op 1 juni 2010 tot Italiaan genaturaliseerd. Ten tijde van zijn naturalisatie is hij gehuwd met een vrouw van Italiaanse nationaliteit.
+Denemarken heeft Hoofdstuk I van het Verdrag toegepast van 17 december 1972 tot 26 augustus 2015. Voor Denemarken is op 17 december 1972 het Verdrag van Straatsburg van kracht geworden. Met ingang van 26 augustus 2015 is voor Denemarken de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ### Artikel 16
 
-In dit geval echter, biedt het Tweede Protocol wél soelaas. Immers, Italië was tot 4 juni 2010 partij bij het Tweede Protocol geweest en uit het bepaalde in artikel 15A, aanhef en onder a, RWN, tweede zin vloeit voort dat verlies van het Nederlanderschap in dat geval niet intreedt, mits betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN. Welnu, B behoort tot een van die categorieën, namelijk categorie c; hij is immers gehuwd met een vrouw van Italiaanse nationaliteit. De conclusie is dan ook, dat B zijn Nederlanderschap niet heeft verloren door zijn naturalisatie tot Italiaan omdat B tussen 1 april 2003 en 4 juni 2010 is genaturaliseerd.
+Nu vanaf 4 juni 2010 alleen Nederland nog is aangesloten bij het Tweede Protocol heeft het Tweede Protocol enkel nog betekenis voor Nederland zelf. De laatste volzin van artikel 15A kan daardoor op dit moment geen gevolg hebben. Die uitzondering zal zich namelijk niet meer voor kunnen doen, zolang geen ander land partij is bij het Tweede Protocol.
 
 ### paragraaf 2.1. Minderjarigen tot 12 jaar
 
-De uitkomst is hier echter anders. Weliswaar was Italië tot 4 juni 2010 partij bij het Tweede Protocol, maar in dit geval kan ten aanzien van B niet worden gesteld dat hij behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN. Immers, ingevolge artikel 1, tweede lid, RWN mag voor de toepassing van artikel 15A RWN onder huwelijk niet tevens geregistreerde partnerschap worden verstaan.
+Het gestelde in de vorige alinea geldt echter niet als het betreffende verdragsland ook partij is bij het Tweede Protocol tot wijziging van het Verdrag van Straatsburg. Het Tweede Protocol maakt het voor elke verdragsluitende partij mogelijk om in bepaalde gevallen door middel van de eigen interne wetgeving afbreuk te doen aan de hoofdregel van het verdrag, waarbij elke staat, die ratificeert, zelf ten aanzien van die gevallen bepaalt in welke mate van dat recht gebruik wordt gemaakt. De gevallen als hier bedoeld, zijn:
 
 ### paragraaf 2.2. Minderjarigen tussen de 12 en 16 jaar
 
-Was B op of na 4 juni 2010 tot Italiaan genaturaliseerd, dan was hij zijn Nederlandse nationaliteit niet verloren. Vanaf 4 juni 2010 speelt artikel 15A geen rol meer bij het verkrijgen van de Italiaanse nationaliteit, maar alleen artikel 15. Voor de toepassing van artikel 15 wordt een geregistreerd partnerschap wel gelijk gesteld aan een huwelijk. De uitzonderingen van artikel 15 lid 2 zijn dan dus wel van toepassing. Omdat B een geregistreerd partnerschap heeft met een Italiaanse vrouw, verliest hij de Nederlandse nationaliteit niet (artikel 15 lid 2 onder c RWN).
+De betekenis van het Tweede Protocol is sinds 4 juni 2010 beperkt, doordat naast Nederland geen andere landen meer zijn aangesloten bij het Tweede Protocol
 
 ### 16-alg. Toelichting algemeen
 
-Dit artikel regelt uitsluitend het verlies van het Nederlanderschap door minderjarigen. Behalve in het onderhavige artikel zijn ook verliesbepalingen voor minderjarigen opgenomen in [artikel 14, tweede, derde, vierde en zesde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14). [Artikel 1, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1) definieert het begrip ‘meerderjarigheid’. Uit die bepaling vloeit voort dat personen jonger dan achttien jaar, minderjarig zijn. Echter, personen, jonger dan achttien jaar, zijn wél meerderjarig indien:
+[Artikel 1, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1) bepaalt dat voor de toepassing van artikel 15A, aanhef en onder a, RWN onder ‘echtgenoot’ niet is begrepen ‘geregistreerd partner’; en dat onder ‘huwelijk’ niet is begrepen ‘geregistreerde partnerschap’. Artikel 1, tweede lid RWN, vloeit voort uit het Verdrag van Straatsburg. Hieronder wordt een en ander met voorbeelden verduidelijkt.
 
 ### Artikel 16
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 1.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1); [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A)[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V)
+Echter, Oostenrijk is partij bij het Verdrag van Straatsburg, zodat in dit geval wel verlies van het Nederlanderschap intreedt. Het verlies vloeit rechtstreeks voort uit artikel 1, eerste lid, Verdrag van Straatsburg. Het Tweede Protocol biedt A geen soelaas, aangezien Oostenrijk daarbij geen partij is.
 
-[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3) en [62 t/m 64](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=62)
+De Nederlander B, die in 1949 in Nederland is geboren, woont sedert 1990 in Italië en wordt op 1 juni 2010 tot Italiaan genaturaliseerd. Ten tijde van zijn naturalisatie is hij gehuwd met een vrouw van Italiaanse nationaliteit.
 
-Op grond van [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is vooral van belang in verband met het gestelde onder artikel 16, tweede lid, aanhef en onder b, c en d, RWN. Artikel 16, tweede lid, RWN bepaalt de gevallen waarin, als uitzondering op de hoofdregelen van verlies, toch geen verlies van het Nederlanderschap intreedt.
+Aangezien Italië ten tijde van de naturalisatie van B nog partij is bij het Verdrag van Straatsburg, lijkt de conclusie gerechtvaardigd dat B, ondanks het feit dat hij behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN, als gevolg van de directe werking van artikel 1, eerste lid, Verdrag van Straatsburg zijn Nederlanderschap heeft verloren door zijn naturalisatie tot Italiaan.
 
-Als gevolg van [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) moet, wat betreft de toepassing van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), ervan worden uitgegaan dat de uitzonderingen uit artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN reeds vanaf 1 januari 1985 gelden.
+In dit geval echter, biedt het Tweede Protocol wél soelaas. Immers, Italië was tot 4 juni 2010 partij bij het Tweede Protocol geweest en uit het bepaalde in artikel 15A, aanhef en onder a, RWN, tweede zin vloeit voort dat verlies van het Nederlanderschap in dat geval niet intreedt, mits betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN. Welnu, B behoort tot een van die categorieën, namelijk categorie c; hij is immers gehuwd met een vrouw van Italiaanse nationaliteit. De conclusie is dan ook, dat B zijn Nederlanderschap niet heeft verloren door zijn naturalisatie tot Italiaan omdat B tussen 1 april 2003 en 4 juni 2010 is genaturaliseerd.
 
-Zou dus vóór 1 april 2003 ten aanzien van een minderjarige, op grond van het toen geldende [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zijn geconcludeerd tot verlies van het Nederlanderschap en kunnen we nu vaststellen, dat de betreffende persoon destijds behoorde tot een van de categorieën, nu genoemd in artikel 16, tweede lid, aanhef en onder b, c of d, RWN dan moet die persoon thans geacht worden zijn Nederlanderschap nimmer te hebben verloren. Zie ook de toelichting onder artikel 16, tweede lid, RWN en onder [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III).
+De in voorbeeld 2 bedoelde B is niet gehuwd met een Italiaanse vrouw. Wel zijn B en de vrouw partners in een in Nederland geregistreerd partnerschap. Voor het overige is de casus exact hetzelfde als die bij voorbeeld 2.
 
-Verlies van het Nederlanderschap zou voor A intreden op grond van [artikel 16, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) ware het niet dat in dit geval het verlies wordt voorkomen, doordat een ouder, namelijk de moeder van A, het Nederlanderschap bezit.
+De uitkomst is hier echter anders. Weliswaar was Italië tot 4 juni 2010 partij bij het Tweede Protocol, maar in dit geval kan ten aanzien van B niet worden gesteld dat hij behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN. Immers, ingevolge artikel 1, tweede lid, RWN mag voor de toepassing van artikel 15A RWN onder huwelijk niet tevens geregistreerde partnerschap worden verstaan.
 
 ### 16-2-a. Toelichting ad artikel 16, tweede lid, aanhef en onder a
 
-Bedacht moet worden, dat verlies van het Nederlanderschap als hier bedoeld nooit kan intreden indien betrokkene daardoor staatloos zou worden (vergelijk artikel 14, achtste lid, RWN) en verder dat – ook al valt de minderjarige in principe onder een van de verliesbepalingen van artikel 16, eerste lid, RWN – géén verlies zal intreden indien artikel 16, tweede lid, RWN van toepassing is.
+Was B op of na 4 juni 2010 tot Italiaan genaturaliseerd, dan was hij zijn Nederlandse nationaliteit niet verloren. Vanaf 4 juni 2010 speelt artikel 15A geen rol meer bij het verkrijgen van de Italiaanse nationaliteit, maar alleen artikel 15. Voor de toepassing van artikel 15 wordt een geregistreerd partnerschap wel gelijk gesteld aan een huwelijk. De uitzonderingen van artikel 15 lid 2 zijn dan dus wel van toepassing. Omdat B een geregistreerd partnerschap heeft met een Italiaanse vrouw, verliest hij de Nederlandse nationaliteit niet (artikel 15 lid 2 onder c RWN).
 
 ### 16-2-alg. Toelichting algemeen
 
 De adoptie c.q. gezagsvoorziening moet dus het kind het Nederlanderschap hebben bezorgd (denk daarbij wat betreft de gezagsvoorziening aan de optie bedoeld in [artikel 6, eerste lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)). Is dat niet het geval, omdat het kind reeds op een andere grond Nederlander was, dan zal voor het kind geen verlies van het Nederlanderschap intreden indien zijn adoptiefouder(s)/de persoon die mede het gezamenlijk gezag over hem uitoefent het Nederlanderschap verlie(st)(zen), of, indien het kind zelfstandig dezelfde vreemde nationaliteit verkrijgt als zijn adoptiefouder(s)/de persoon die mede het gezamenlijk gezag over hem uitoefent.
 
-### 16-1-a. Toelichting ad [artikel 16, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+### Artikel 16
 
-**Het Nederlanderschap gaat voor een minderjarige verloren door gerechtelijke vaststelling van het ouderschap, erkenning, wettiging of adoptie door een vreemdeling, indien hij diens nationaliteit daardoor verkrijgt, of deze reeds bezit.**
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 1.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1); [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A)[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V)
 
 ### paragraaf 2.3. Minderjarigen van 16 jaar en ouder
 
@@ -10814,13 +10814,13 @@ De adoptie c.q. gezagsvoorziening moet dus het kind het Nederlanderschap hebben 
 
 ### paragraaf 2. Afleggen verklaring van afstand
 
-A zou zijn Nederlanderschap door voormelde erkenning evenmin verliezen als:
+Zou dus vóór 1 april 2003 ten aanzien van een minderjarige, op grond van het toen geldende [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zijn geconcludeerd tot verlies van het Nederlanderschap en kunnen we nu vaststellen, dat de betreffende persoon destijds behoorde tot een van de categorieën, nu genoemd in artikel 16, tweede lid, aanhef en onder b, c of d, RWN dan moet die persoon thans geacht worden zijn Nederlanderschap nimmer te hebben verloren. Zie ook de toelichting onder artikel 16, tweede lid, RWN en onder [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III).
 
-### paragraaf 2.1. Minderjarigen tot 12 jaar
+### 16-alg. Toelichting algemeen
 
-De minderjarige F wordt rechtsgeldig erkend door de Turkse man M. F bezit op het moment van de erkenning al de Turkse nationaliteit, zodat [artikel 16, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) op hem van toepassing is. F verliest evenwel niet zijn Nederlanderschap. Het verlies wordt verhinderd door artikel 16, tweede lid, aanhef en onder d, RWN.
+Dit artikel regelt uitsluitend het verlies van het Nederlanderschap door minderjarigen. Behalve in het onderhavige artikel zijn ook verliesbepalingen voor minderjarigen opgenomen in [artikel 14, tweede, derde, vierde en zesde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14). [Artikel 1, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1) definieert het begrip ‘meerderjarigheid’. Uit die bepaling vloeit voort dat personen jonger dan achttien jaar, minderjarig zijn. Echter, personen, jonger dan achttien jaar, zijn wél meerderjarig indien:
 
-Het in de bevestiging7De bevestiging is een bevestiging dát er een afstandsverklaring in ontvangst is genomen. Niet een bevestiging dat het Nederlanderschap is verloren. opgenomen oordeel dat de verklaring van afstand geen rechtsgevolg heeft, kan betrokkene betwisten in een gerechtelijke procedure, voorzien in [artikel 17 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17).
+Bedacht moet worden, dat verlies van het Nederlanderschap als hier bedoeld nooit kan intreden indien betrokkene daardoor staatloos zou worden (vergelijk artikel 14, achtste lid, RWN) en verder dat – ook al valt de minderjarige in principe onder een van de verliesbepalingen van artikel 16, eerste lid, RWN – géén verlies zal intreden indien artikel 16, tweede lid, RWN van toepassing is.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -10850,25 +10850,25 @@ Vervallen.
 
 ### 15a-b. Toelichting ad artikel 15a, aanhef en onder b (Toescheidingsovereenkomst Nederland/Suriname)
 
-### Artikel 16
+### 15-2. Toelichting ad [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
 
 Voor Italië is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol heeft, in tegenstelling tot het Verdrag zelf, geen rechtstreekse werking, maar heeft per 1 april 2003 uitvoering gekregen door middel van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), 15a, [16, tweede lid, aanhef en onder e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) en [16a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A).
 
-Noorwegen heeft Hoofdstuk I van het Verdrag toegepast van 27 december 1969 tot 19 december 2019. Voor Noorwegen is op 27 december 1969 het Verdrag van Straatsburg van kracht geworden. Met ingang van 19 december 2019 is voor Noorwegen de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Hoewel het onderhavige artikel in het licht van artikel 94 Grondwet (verdrag gaat boven wet) overbodig zou kunnen worden geacht (het verlies vloeit immers rechtstreeks voort uit het Verdrag van Straatsburg en de TOS), heeft de wetgever het toch wenselijk geacht deze verdragsverplichtingen onder de aandacht te brengen in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738). Het onderhavige artikel beoogt dus niet zelfstandige verliesgronden in het leven te roepen. Indien de bepaling uit de in dit artikel genoemde verdragen rechtstreekse werking hebben, leidt die bepaling van rechtswege tot verlies van het Nederlanderschap. Het verlies treedt derhalve niet in op grond van het onderhavige artikel maar op grond van de rechtstreeks werkende bepaling van het Verdrag van Straatsburg of van de TOS.
 
-Echter, Oostenrijk is partij bij het Verdrag van Straatsburg, zodat in dit geval wel verlies van het Nederlanderschap intreedt. Het verlies vloeit rechtstreeks voort uit artikel 1, eerste lid, Verdrag van Straatsburg. Het Tweede Protocol biedt A geen soelaas, aangezien Oostenrijk daarbij geen partij is.
+Voor Italië is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol heeft, in tegenstelling tot het Verdrag zelf, geen rechtstreekse werking, maar heeft per 1 april 2003 uitvoering gekregen door middel van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), 15a, [16, tweede lid, aanhef en onder e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) en [16a RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A).
 
 ### 15a-b. Toelichting ad artikel 15a, aanhef en onder b (Toescheidingsovereenkomst Nederland/Suriname)
 
-Aangezien Italië ten tijde van de naturalisatie van B nog partij is bij het Verdrag van Straatsburg, lijkt de conclusie gerechtvaardigd dat B, ondanks het feit dat hij behoort tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN, als gevolg van de directe werking van artikel 1, eerste lid, Verdrag van Straatsburg zijn Nederlanderschap heeft verloren door zijn naturalisatie tot Italiaan.
+Noorwegen heeft Hoofdstuk I van het Verdrag toegepast van 27 december 1969 tot 19 december 2019. Voor Noorwegen is op 27 december 1969 het Verdrag van Straatsburg van kracht geworden. Met ingang van 19 december 2019 is voor Noorwegen de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ### paragraaf 2.1. Minderjarigen tot 12 jaar
 
-De in voorbeeld 2 bedoelde B is niet gehuwd met een Italiaanse vrouw. Wel zijn B en de vrouw partners in een in Nederland geregistreerd partnerschap. Voor het overige is de casus exact hetzelfde als die bij voorbeeld 2.
+Hoofdregel van het Verdrag van Straatsburg is dat vrijwillige verkrijging van de nationaliteit van een ander verdragsland automatisch leidt tot verlies van de oorspronkelijke nationaliteit. Dit betekent dus ook dat een meerderjarige Nederlander, die vrijwillig de nationaliteit van een ander verdragsland verkrijgt, het Nederlanderschap verliest (artikel 1, eerste lid, Verdrag van Straatsburg), ook al zou hij behoren tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN (verdrag gaat immers boven de wet). Het verlies vloeit rechtstreeks voort uit het verdrag.
 
 ### paragraaf 2.2. Minderjarigen tussen de 12 en 16 jaar
 
-B verliest dan ook zijn Nederlanderschap als gevolg van de directe werking van het Verdrag van Straatsburg (artikel 1, eerste lid, Verdrag van Straatsburg) en hij kan zich niet beroepen op het gestelde in de tweede zin van artikel 15A, aanhef en onder a, RWN.
+Nederland heeft van die mogelijkheid gebruikgemaakt door opneming in de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) van artikel 15, tweede lid, RWN en overigens ook van artikel 16, tweede lid, aanhef en onder e, f en g, RWN (vergelijk ook de tweede zin van artikel 15A, aanhef en onder a, RWN en de tweede zin van artikel 16A RWN). Het Tweede Protocol is op 24 maart 1995 in werking getreden voor Frankrijk (tot 5 maart 2009) en Italië (tot 4 juni 2010) en is sedert 20 augustus 1996 ook voor Nederland van kracht. Echter, tot 1 april 2003 is door Nederland in de eigen interne wetgeving geen uitvoering gegeven aan het Tweede Protocol.
 
 ### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
 
@@ -10876,29 +10876,29 @@ B verliest dan ook zijn Nederlanderschap als gevolg van de directe werking van h
 
 ### 16-alg. Toelichting algemeen
 
-Dit artikel regelt uitsluitend het verlies van het Nederlanderschap door minderjarigen. Behalve in het onderhavige artikel zijn ook verliesbepalingen voor minderjarigen opgenomen in [artikel 14, tweede, derde, vierde en zesde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14). [Artikel 1, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1) definieert het begrip ‘meerderjarigheid’. Uit die bepaling vloeit voort dat personen jonger dan achttien jaar, minderjarig zijn. Echter, personen, jonger dan achttien jaar, zijn wél meerderjarig indien:
+B verliest dan ook zijn Nederlanderschap als gevolg van de directe werking van het Verdrag van Straatsburg (artikel 1, eerste lid, Verdrag van Straatsburg) en hij kan zich niet beroepen op het gestelde in de tweede zin van artikel 15A, aanhef en onder a, RWN.
 
 ### 16-2. Toelichting ad artikel 16, tweede lid
 
-Met het begrip ‘vader of moeder’ in [artikel 16, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt mede bedoeld:
+De voorbeelden 2 en 3 gelden voor de periode van 1 april 2003 tot 5 maart 2009 ook in het geval B de Franse nationaliteit heeft verkregen. Vanaf 5 maart 2009 is Frankrijk geen partij meer bij Hoofdstuk I van het Verdrag van Straatsburg. Artikel 15A is sindsdien niet meer van toepassing als een Nederlander vrijwillig de Franse nationaliteit verkrijgt. De Nederlander verliest zijn nationaliteit bij het verkrijgen van de Franse nationaliteit op grond van artikel 15 lid 1 onder a, tenzij één van de gronden van artikel 15 lid 2 van toepassing is.
 
-### 16-2-d. Toelichting ad artikel 16, tweede lid, aanhef en onder d
+### 15a-b. Toelichting ad artikel 15a, aanhef en onder b (Toescheidingsovereenkomst Nederland/Suriname)
 
 Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**).
 
 ### Paragraaf 1. Algemeen
 
-Het minderjarige Nederlandse kind A, geboren in Nederland, heeft de Nederlandse vrouw B tot moeder en wordt erkend door de Turkse man C. Als gevolg van die erkenning is A van Turkse nationaliteit. Het Nederlanderschap ontleent A uitsluitend aan [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
+[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3) en [62 t/m 64](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=62)
 
-Verlies van het Nederlanderschap zou voor A intreden op grond van [artikel 16, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) ware het niet dat in dit geval het verlies wordt voorkomen, doordat een ouder, namelijk de moeder van A, het Nederlanderschap bezit.
+Op grond van [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is vooral van belang in verband met het gestelde onder artikel 16, tweede lid, aanhef en onder b, c en d, RWN. Artikel 16, tweede lid, RWN bepaalt de gevallen waarin, als uitzondering op de hoofdregelen van verlies, toch geen verlies van het Nederlanderschap intreedt.
 
-Voor A geldt wel, dat hij tijdens zijn minderjarigheid het Nederlanderschap alleen maar kan behouden zolang zijn moeder het Nederlanderschap bezit (tenzij hij tevens behoort tot een van de andere categorieën, genoemd in [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)). Zodra de moeder het Nederlanderschap verliest – bijvoorbeeld als gevolg van vrijwillige verkrijging van een andere nationaliteit – verliest ook A zijn Nederlanderschap, mits hij nog minderjarig is.
+Als gevolg van [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) moet, wat betreft de toepassing van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), ervan worden uitgegaan dat de uitzonderingen uit artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN reeds vanaf 1 januari 1985 gelden.
 
 Uit een ongehuwde Turkse vrouw is in 2004 kind F geboren in Amsterdam. F, die de Turkse nationaliteit bezit, is tevens van Nederlandse nationaliteit op grond van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
 
 ### 16-1-b. Toelichting ad artikel 16, eerste lid, aanhef en onder b
 
-Minderjarigen van twaalf tot zestien jaar worden geacht voldoende inzicht te hebben in de gevolgen van het doen van afstand van de Nederlandse nationaliteit. Daarom wordt het kind hierover gehoord.Ook de ouder die geen wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf jaar heeft bereikt, moet op zijn verzoek worden gehoord om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken.
+Met het begrip ‘vader of moeder’ in [artikel 16, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt mede bedoeld:
 
 ### 16a-alg. Toelichting algemeen
 
@@ -10906,7 +10906,7 @@ De verklaring van afstand kan door een minderjarige alleen met rechtsgevolg word
 
 ### paragraaf 2. Afleggen verklaring van afstand
 
-Ingevolge [artikel 2, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), wordt een verklaring van afstand voor een minderjarige door zijn wettelijke vertegenwoordiger afgelegd. De minderjarige die de leeftijd van zestien jaar heeft bereikt, legt de verklaring van afstand echter zelfstandig af.5Zie voor procedurele voorschriften aangaande verlies van het Nederlanderschap door een verklaring van afstand de toelichting bij artikel 15, eerste lid aanhef en onder b, RWN en de modellen 3.2 en 3.3.
+Het minderjarige Nederlandse kind A, geboren in Nederland, heeft de Nederlandse vrouw B tot moeder en wordt erkend door de Turkse man C. Als gevolg van die erkenning is A van Turkse nationaliteit. Het Nederlanderschap ontleent A uitsluitend aan [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
 
 ### paragraaf 2.1. Minderjarigen tot 12 jaar
 
@@ -10914,7 +10914,7 @@ Ingevolge [artikel 2, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ### paragraaf 2.2. Minderjarigen tussen de 12 en 16 jaar
 
-Minderjarigen van twaalf tot zestien jaar worden geacht voldoende inzicht te hebben in de gevolgen van het doen van afstand van de Nederlandse nationaliteit. Daarom wordt het kind hierover gehoord.Ook de ouder die geen wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf jaar heeft bereikt, moet op zijn verzoek worden gehoord om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken.
+Uit een ongehuwde Turkse vrouw is in 2004 kind F geboren in Amsterdam. F, die de Turkse nationaliteit bezit, is tevens van Nederlandse nationaliteit op grond van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
 
 ### 16-1-c. Toelichting ad artikel 16, eerste lid, aanhef en onder c
 
@@ -10956,19 +10956,19 @@ Vervallen.
 
 ### 16-alg. Toelichting algemeen
 
-### 28-1. Toelichting ad artikel 28, eerste lid
+### 15a-a. Toelichting ad [artikel 15a, aanhef en sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) (Verdrag van Straatsburg)
 
-Hoofdregel van het Verdrag van Straatsburg is dat vrijwillige verkrijging van de nationaliteit van een ander verdragsland automatisch leidt tot verlies van de oorspronkelijke nationaliteit. Dit betekent dus ook dat een meerderjarige Nederlander, die vrijwillig de nationaliteit van een ander verdragsland verkrijgt, het Nederlanderschap verliest (artikel 1, eerste lid, Verdrag van Straatsburg), ook al zou hij behoren tot een van de categorieën, genoemd in artikel 15, tweede lid, RWN (verdrag gaat immers boven de wet). Het verlies vloeit rechtstreeks voort uit het verdrag.
+**Voorts gaat het Nederlanderschap voor een meerderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (** **Trb. 1964, nr. 4** **) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (** **Trb. 1994, nr. 265** **) en de betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid.**
 
 ### Paragraaf 1. Algemeen
 
 ### 16-2-alg. Toelichting algemeen
 
-De voorbeelden 2 en 3 gelden voor de periode van 1 april 2003 tot 5 maart 2009 ook in het geval B de Franse nationaliteit heeft verkregen. Vanaf 5 maart 2009 is Frankrijk geen partij meer bij Hoofdstuk I van het Verdrag van Straatsburg. Artikel 15A is sindsdien niet meer van toepassing als een Nederlander vrijwillig de Franse nationaliteit verkrijgt. De Nederlander verliest zijn nationaliteit bij het verkrijgen van de Franse nationaliteit op grond van artikel 15 lid 1 onder a, tenzij één van de gronden van artikel 15 lid 2 van toepassing is.
+Het bovenstaande betekent dan ook dat vanaf 1 april 2003 de meerderjarige Nederlander die vrijwillig de nationaliteit van een verdragsland verkrijgt op een moment dat het land partij bij Hoofdstuk I van het Verdrag is, het Nederlanderschap verliest, tenzij:
 
 ### 15a-b. Toelichting ad artikel 15a, aanhef en onder b (Toescheidingsovereenkomst Nederland/Suriname)
 
-Bedacht moet worden, dat verlies van het Nederlanderschap als hier bedoeld nooit kan intreden indien betrokkene daardoor staatloos zou worden (vergelijk artikel 14, achtste lid, RWN) en verder dat – ook al valt de minderjarige in principe onder een van de verliesbepalingen van artikel 16, eerste lid, RWN – géén verlies zal intreden indien artikel 16, tweede lid, RWN van toepassing is.
+De Nederlander A, die in 1950 in Oostenrijk is geboren, wordt in januari 2004 genaturaliseerd tot Oostenrijker. Ten tijde van zijn naturalisatie woont hij in Oostenrijk. Kijken we uitsluitend naar artikel 15, eerste en tweede lid, RWN dan zouden we tot de conclusie komen, dat A zijn Nederlanderschap niet heeft verloren. Immers, hij is geboren in het land waarvan hij de nationaliteit heeft verkregen en hij woont daar ten tijde van die verkrijging, en artikel 15, tweede lid, aanhef en onder a, RWN bepaalt dan dat geen verlies van het Nederlanderschap intreedt.
 
 ### 16-2-c. Toelichting ad artikel 16, tweede lid, aanhef en onder c
 
@@ -10976,13 +10976,13 @@ Bedacht moet worden, dat verlies van het Nederlanderschap als hier bedoeld nooit
 
 ### Artikel 16a
 
-De mogelijkheid dat een minderjarige een verklaring van afstand van de Nederlandse nationaliteit kan afleggen, bestond voor 1 april 2003 niet. Tot dat moment kon alleen een meerderjarige afstand doen van het Nederlanderschap.
+De adoptie c.q. gezagsvoorziening moet dus het kind het Nederlanderschap hebben bezorgd (denk daarbij wat betreft de gezagsvoorziening aan de optie bedoeld in [artikel 6, eerste lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)). Is dat niet het geval, omdat het kind reeds op een andere grond Nederlander was, dan zal voor het kind geen verlies van het Nederlanderschap intreden indien zijn adoptiefouder(s)/de persoon die mede het gezamenlijk gezag over hem uitoefent het Nederlanderschap verlie(st)(zen), of, indien het kind zelfstandig dezelfde vreemde nationaliteit verkrijgt als zijn adoptiefouder(s)/de persoon die mede het gezamenlijk gezag over hem uitoefent.
 
-De wettelijk vertegenwoordiger legt namens de minderjarige (tussen de twaalf en zestien jaar), de verklaring van afstand van het Nederlanderschap ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2019-07-01&g=2019-07-01)) af. De minderjarige wordt hierover gehoord.
+**Het Nederlanderschap gaat voor een minderjarige verloren door gerechtelijke vaststelling van het ouderschap, erkenning, wettiging of adoptie door een vreemdeling, indien hij diens nationaliteit daardoor verkrijgt, of deze reeds bezit.**
 
-De verklaring van afstand van het Nederlanderschap ([model 3.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-04-01&g=2020-04-01)) wordt, namens de minderjarige tot twaalf jaar, door zijn wettelijk vertegenwoordiger afgelegd. Deze minderjarige wordt hierover niet gehoord.
+Voor A geldt wel, dat hij tijdens zijn minderjarigheid het Nederlanderschap alleen maar kan behouden zolang zijn moeder het Nederlanderschap bezit (tenzij hij tevens behoort tot een van de andere categorieën, genoemd in [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)). Zodra de moeder het Nederlanderschap verliest – bijvoorbeeld als gevolg van vrijwillige verkrijging van een andere nationaliteit – verliest ook A zijn Nederlanderschap, mits hij nog minderjarig is.
 
-### 27-alg. Toelichting algemeen
+### Paragraaf 1. Algemeen
 
 ### 16-1-d. Toelichting ad [artikel 16, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
@@ -10994,7 +10994,7 @@ De verklaring van afstand van het Nederlanderschap ([model 3.2](https://wetten.o
 
 Na het horen van de minderjarige en/of de andere ouder, die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, kunnen zich de volgende, niet limitatieve, situaties voordoen:
 
-De ouder die geen wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt wordt, op haar/zijn verzoek, gehoord om zo haar/zijn bedenkingen tegen het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken. Uit de woorden ‘op zijn verzoek’ volgt dat de andere ouder niet verplicht is bedenkingen kenbaar te maken. Indien deze ouder te kennen geeft niet gehoord te willen worden of niet reageert op een uitnodiging daartoe, dan wordt zij/hij geacht geen bedenkingen te hebben tegen het verlies van de Nederlandse nationaliteit van haar/zijn kind.
+De verklaring van afstand van het Nederlanderschap ([model 3.2](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07)) wordt, namens de minderjarige tot twaalf jaar, door zijn wettelijk vertegenwoordiger afgelegd. Deze minderjarige wordt hierover niet gehoord.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -11034,43 +11034,43 @@ Vervallen.
 
 ### Paragraaf 1. Algemeen
 
-### paragraaf 2.2.1. Horen minderjarige over bedenkingen tegen het verlies van het Nederlanderschap
+### 16-1-a. Toelichting ad [artikel 16, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
 ### 24-alg. Toelichting algemeen
 
-Indien de minderjarige aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij direct gehoord over eventuele bedenkingen tegen het verlies van het Nederlanderschap.
+Verlies van het Nederlanderschap zou voor A intreden op grond van [artikel 16, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) ware het niet dat in dit geval het verlies wordt voorkomen, doordat een ouder, namelijk de moeder van A, het Nederlanderschap bezit.
 
 ### paragraaf 2.2.2. Horen ouder die geen wettelijk vertegenwoordiger is over bedenkingen tegen het verlies van het Nederlanderschap van de minderjarige tussen de 12 en 16 jaar
 
-Indien blijkt dat zowel het kind als deze ouder bedenkingen hebben tegen de afstand van het Nederlanderschap, dan heeft de verklaring van afstand die is afgelegd door de wettelijk vertegenwoordiger van de minderjarige geen rechtsgevolg (zie paragraaf 2.2.3 en 3 in de toelichting bij artikel 16, eerste lid, onder b, RWN).
+De minderjarige F wordt rechtsgeldig erkend door de Turkse man M. F bezit op het moment van de erkenning al de Turkse nationaliteit, zodat [artikel 16, eerste lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) op hem van toepassing is. F verliest evenwel niet zijn Nederlanderschap. Het verlies wordt verhinderd door artikel 16, tweede lid, aanhef en onder d, RWN.
 
-### paragraaf 2.2.1. Horen minderjarige over bedenkingen tegen het verlies van het Nederlanderschap
+### 16-1-b. Toelichting ad artikel 16, eerste lid, aanhef en onder b
 
-**Minderjarige is aanwezig**
+De mogelijkheid dat een minderjarige een verklaring van afstand van de Nederlandse nationaliteit kan afleggen, bestond voor 1 april 2003 niet. Tot dat moment kon alleen een meerderjarige afstand doen van het Nederlanderschap.
 
 ## Bijlage 3. Modellen met beperking tot bezit en afstand van het Nederlanderschap
 
-Indien de minderjarige niet aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij door de burgemeester alsnog opgeroepen om gehoord te worden over eventuele bedenkingen tegen het verlies van het Nederlanderschap. Zolang de minderjarige niet gehoord is, treedt het verlies van het Nederlanderschap niet in (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**)
+A zou zijn Nederlanderschap door voormelde erkenning evenmin verliezen als:
 
-### Artikel 17
+### paragraaf 2. Afleggen verklaring van afstand
 
-Indien de minderjarige niet aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij door de burgemeester alsnog opgeroepen om gehoord te worden over eventuele bedenkingen tegen het verlies van het Nederlanderschap. Zolang de minderjarige niet gehoord is, treedt het verlies van het Nederlanderschap niet in (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**)
+Ingevolge [artikel 2, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), wordt een verklaring van afstand voor een minderjarige door zijn wettelijke vertegenwoordiger afgelegd. De minderjarige die de leeftijd van zestien jaar heeft bereikt, legt de verklaring van afstand echter zelfstandig af.5Zie voor procedurele voorschriften aangaande verlies van het Nederlanderschap door een verklaring van afstand de toelichting bij artikel 15, eerste lid aanhef en onder b, RWN en de modellen 3.2 en 3.3.
 
-### paragraaf 2.2.2. Horen ouder die geen wettelijk vertegenwoordiger is over bedenkingen tegen het verlies van het Nederlanderschap van de minderjarige tussen de 12 en 16 jaar
+### paragraaf 2.1. Minderjarigen tot 12 jaar
 
 **Ouder, niet zijnde wettelijk vertegenwoordiger, is aanwezig**
 
 ## Bijlage 3. Modellen met beperking tot bezit en afstand van het Nederlanderschap
 
-Indien de minderjarige aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij direct gehoord over eventuele bedenkingen tegen het verlies van het Nederlanderschap.
+De verklaring van afstand kan door een minderjarige alleen met rechtsgevolg worden afgelegd, als hij naast het Nederlanderschap tevens de nationaliteit bezit van zijn vader, moeder of adoptiefouder4[127] (als bedoeld in [artikel 11, achtste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11)). In de meeste gevallen zal van die nationaliteit blijken uit de beschrijving van de minderjarige in de BRP. Is dat niet het geval, of wordt bijvoorbeeld getwijfeld aan het al dan niet bezitten van de nationaliteit van de (adoptief)ouder, dan kan overlegging van een bewijs van de nationaliteit van de minderjarige en/of zijn (adoptief)ouder worden verlangd (vergelijk [artikel 62, derde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=62)).
 
-Indien de andere ouder aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt zij/hij door de burgemeester gevraagd of zij/hij tegen het verlies van het Nederlanderschap door de minderjarige is. Wordt niet een duidelijk antwoord gegeven op deze vraag of ontstaat twijfel over de vrijwilligheid van het afgelegde antwoord dan wordt de andere ouder gewezen op de mogelijkheid op een later moment en alleen gehoord te worden over eventuele bedenkingen tegen het verlies van het Nederlanderschap van zijn minderjarige kind. Alleen indien de andere ouder hierover gehoord wil worden, wordt hij hiertoe door de burgemeester in de gelegenheid gesteld.
+Minderjarigen van twaalf tot zestien jaar worden geacht voldoende inzicht te hebben in de gevolgen van het doen van afstand van de Nederlandse nationaliteit. Daarom wordt het kind hierover gehoord.Ook de ouder die geen wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf jaar heeft bereikt, moet op zijn verzoek worden gehoord om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken.
 
-**Ouder, niet zijnde wettelijk vertegenwoordiger, is niet aanwezig**
+Indien blijkt dat zowel het kind als deze ouder bedenkingen hebben tegen de afstand van het Nederlanderschap, dan heeft de verklaring van afstand die is afgelegd door de wettelijk vertegenwoordiger van de minderjarige geen rechtsgevolg (zie paragraaf 2.2.3 en 3 in de toelichting bij artikel 16, eerste lid, onder b, RWN).
 
 Indien de andere ouder niet aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij door de burgemeester alsnog, bijvoorbeeld middels toezending van een brief, gewezen op de mogelijkheid om gehoord te worden over zijn eventuele bedenkingen tegen het verlies van het Nederlanderschap van zijn minderjarige kind.Dit wordt door de burgemeester gedaan indien de andere ouder bekend is, hij in Nederland woont en tevens zijn adres bekend is.
 
-Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**).
+De wettelijk vertegenwoordiger legt namens de minderjarige (tussen de twaalf en zestien jaar), de verklaring van afstand van het Nederlanderschap ([model 2.3](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=3&z=2020-05-07&g=2020-05-07)) af. De minderjarige wordt hierover gehoord.
 
 ### paragraaf 2.2.3. Mogelijke situaties ná het horen
 
@@ -11078,19 +11078,19 @@ Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlie
 
 ### paragraaf 2.3. Minderjarigen van 16 jaar en ouder
 
-Minderjarigen van zestien en zeventien jaar worden geacht zelfstandig te kunnen beslissen over het verlies van het Nederlanderschap door een verklaring van afstand. Zij kunnen bij die rechtshandeling niet worden vertegenwoordigd door hun wettelijke vertegenwoordiger.6Zie voor procedurele voorschriften aangaande verlies van het Nederlanderschap door een verklaring van afstand de toelichting bij artikel 15, eerste lid aanhef en onder b, RWN
+Indien de minderjarige niet aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij door de burgemeester alsnog opgeroepen om gehoord te worden over eventuele bedenkingen tegen het verlies van het Nederlanderschap. Zolang de minderjarige niet gehoord is, treedt het verlies van het Nederlanderschap niet in (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**)
 
 Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt ook de ouder die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, op zijn verzoek, gehoord om zo zijn bedenkingen tegen het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken. Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
 
 ### 20-alg. Toelichting algemeen
 
-Geen verlies treedt in indien:
+**Ouder, niet zijnde wettelijk vertegenwoordiger, is aanwezig**
 
-Het in de bevestiging7De bevestiging is een bevestiging dát er een afstandsverklaring in ontvangst is genomen. Niet een bevestiging dat het Nederlanderschap is verloren. opgenomen oordeel dat de verklaring van afstand geen rechtsgevolg heeft, kan betrokkene betwisten in een gerechtelijke procedure, voorzien in [artikel 17 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17).
+Indien de andere ouder aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt zij/hij door de burgemeester gevraagd of zij/hij tegen het verlies van het Nederlanderschap door de minderjarige is. Wordt niet een duidelijk antwoord gegeven op deze vraag of ontstaat twijfel over de vrijwilligheid van het afgelegde antwoord dan wordt de andere ouder gewezen op de mogelijkheid op een later moment en alleen gehoord te worden over eventuele bedenkingen tegen het verlies van het Nederlanderschap van zijn minderjarige kind. Alleen indien de andere ouder hierover gehoord wil worden, wordt hij hiertoe door de burgemeester in de gelegenheid gesteld.
 
 ### paragraaf 4. Geen verlies Nederlanderschap omdat de procedure inzake bedenkingen tegen afstand nog niet is afgerond
 
-**Minderjarige tussen de 12 tot 16 jaar is niet gehoord**
+Indien de andere ouder niet aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij door de burgemeester alsnog, bijvoorbeeld middels toezending van een brief, gewezen op de mogelijkheid om gehoord te worden over zijn eventuele bedenkingen tegen het verlies van het Nederlanderschap van zijn minderjarige kind.Dit wordt door de burgemeester gedaan indien de andere ouder bekend is, hij in Nederland woont en tevens zijn adres bekend is.
 
 ### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
 
@@ -11100,31 +11100,31 @@ Het in de bevestiging7De bevestiging is een bevestiging dát er een afstandsverk
 
 In 2004 is in Rotterdam kind C geboren uit het huwelijk van A en B. Moeder en vader zijn van Turkse nationaliteit. Ten tijde van de geboorte van C wonen A en B in Rotterdam. A is zelf geboren in Dordrecht uit ouders die daar toentertijd hoofdverblijf hadden.
 
-C verkrijgt bij zijn geboorte naast de Turkse ook de Nederlandse nationaliteit, aangezien is voldaan aan de voorwaarden van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
+Minderjarigen van zestien en zeventien jaar worden geacht zelfstandig te kunnen beslissen over het verlies van het Nederlanderschap door een verklaring van afstand. Zij kunnen bij die rechtshandeling niet worden vertegenwoordigd door hun wettelijke vertegenwoordiger.6Zie voor procedurele voorschriften aangaande verlies van het Nederlanderschap door een verklaring van afstand de toelichting bij artikel 15, eerste lid aanhef en onder b, RWN
 
-### 21-alg. Toelichting algemeen
+### paragraaf 3. Geen verlies Nederlanderschap
 
-Door de verklaring van afstand verliest C het Nederlanderschap. Geen van de onderdelen van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) verhindert het intreden van het verlies. Met name belet [artikel 16, tweede lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) het verlies niet, daar is immers vermeld dat de uitzondering om niet het Nederlanderschap te verliezen niet geldt in geval van het afleggen van een verklaring van afstand.
+Het verlies van het Nederlanderschap treedt in als aan de wettelijke voorwaarden uit [artikel 16, eerste en tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt voldaan. Het verlies gebeurt van rechtswege door het ondertekenen van de verklaring van afstand door de zestien of zeventien jarige of de wettelijk vertegenwoordiger van een jonger kind.
 
 ### 16-1-c. Toelichting ad artikel 16, eerste lid, aanhef en onder c
 
-Een Nederlands echtpaar emigreert naar Australië, waar kind A wordt geboren. A verkrijgt bij geboorte het Nederlanderschap, maar daarnaast ook de Australische nationaliteit door geboorte op het grondgebied van Australië.
+Het in de bevestiging7De bevestiging is een bevestiging dát er een afstandsverklaring in ontvangst is genomen. Niet een bevestiging dat het Nederlanderschap is verloren. opgenomen oordeel dat de verklaring van afstand geen rechtsgevolg heeft, kan betrokkene betwisten in een gerechtelijke procedure, voorzien in [artikel 17 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17).
 
-### 16-2-a. Toelichting ad artikel 16, tweede lid, aanhef en onder a
+### paragraaf 4. Geen verlies Nederlanderschap omdat de procedure inzake bedenkingen tegen afstand nog niet is afgerond
 
-De uitzonderingen, genoemd in artikel 16, tweede lid, RWN zijn op A niet van toepassing.
+**Minderjarige tussen de 12 tot 16 jaar is niet gehoord**
 
 ### 16-1-d. Toelichting ad [artikel 16, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
-**Het Nederlanderschap gaat voor een minderjarige verloren indien zijn vader of moeder het Nederlanderschap verliest ingevolge artikel 15, eerste lid, onder b, c of d, of ingevolge artikel 15A.**
+**Ouder, niet zijnde wettelijk vertegenwoordiger van de minderjarige, is niet gehoord**
 
 ### 16-2-d. Toelichting ad artikel 16, tweede lid, aanhef en onder d
 
-Ook hier geldt dat geen verlies van het Nederlanderschap zal intreden indien het kind behoort tot een van de categorieën van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) dan wel indien het staatloos zou worden (artikel 14, achtste lid, RWN).
+In 2004 is in Rotterdam kind C geboren uit het huwelijk van A en B. Moeder en vader zijn van Turkse nationaliteit. Ten tijde van de geboorte van C wonen A en B in Rotterdam. A is zelf geboren in Dordrecht uit ouders die daar toentertijd hoofdverblijf hadden.
 
 ### 16-2-f. Toelichting ad artikel 16, tweede lid, aanhef en onder f
 
-B wordt genaturaliseerd tot Nederlander, waarin A deelt. B verliest door de naturalisatie niet haar oorspronkelijke nationaliteit. Tijdens de minderjarigheid van A doet B afstand van het Nederlanderschap.
+In 2005 legt A, in zijn hoedanigheid van wettelijk vertegenwoordiger, namens C een verklaring van afstand af als bedoeld in [artikel 16, eerste lid, aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16).
 
 ### Artikel 16a
 
@@ -11132,29 +11132,29 @@ In 2005 wordt in Nederland kind B geboren uit de in Australië geboren ongehuwde
 
 ### 16a-alg. Toelichting
 
-Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook B, die niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN valt, zijn Nederlanderschap moeten verliezen (waar B al die jaren hoofdverblijf heeft gehad speelt hierbij geen enkele rol).
+Zes jaren na de geboorte van A verkrijgen de ouders door naturalisatie de Australische nationaliteit. A deelt daar niet in, omdat hij al Australiër is. Desondanks verliest hij het Nederlanderschap, aangezien hij reeds de nationaliteit bezit die zijn ouders op hun verzoek hebben verkregen.
 
-Echter, ingevolge het toen geldende artikel 14, zesde lid (vanaf 1 maart 2017 is dit het achtste lid), RWN mag hij daardoor niet staatloos worden. Aangezien B, naast het Nederlanderschap, geen andere nationaliteit bezit, verliest hij zijn Nederlanderschap niet.
+De uitzonderingen, genoemd in artikel 16, tweede lid, RWN zijn op A niet van toepassing.
 
 Na de naturalisatie van A tot Nederlander wordt zijn zoon B geboren. Zowel A als B zijn in Nederland geboren. B ontleent het Nederlanderschap zowel aan [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) als aan artikel 3, derde lid, RWN.
 
-Het besluit waarbij aan A het Nederlanderschap werd verleend, wordt op grond van artikel 15, eerste lid, aanhef en onder d, RWN ingetrokken, aangezien hij heeft nagelaten na zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.
+**Het Nederlanderschap gaat voor een minderjarige verloren indien zijn vader of moeder het Nederlanderschap verliest ingevolge artikel 15, eerste lid, onder b, c of d, of ingevolge artikel 15A.**
 
 Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook B zijn Nederlanderschap moeten verliezen. Echter, voor B geldt de uitzonderingscategorie als bedoeld in artikel 16, tweede lid, aanhef en onder d, RWN. Hij ontleent het Nederlanderschap immers tevens aan artikel 3 derde lid, RWN. Voor B gaat het Nederlanderschap dan ook niet verloren.
 
-Het echtpaar A en B, beiden geboren in Marokko in 1965, woont sedert 1995 in Nederland. In 2000 wordt in Marokko uit het huwelijk C geboren. Alle leden van het gezin zijn van Marokkaanse nationaliteit.
+De minderjarige verliest het Nederlanderschap indien zijn vader of moeder die nationaliteit verliest door:
 
 ### 23-2. Toelichting ad artikel 23, tweede lid
 
-A vestigt zich na zijn naturalisatie tot Nederlander in Denemarken. In 2002 wordt zijn huwelijk met B door echtscheiding ontbonden en trouwt hij in Denemarken met een Deense vrouw. Als hij zes jaren in Denemarken woont, wordt hij daar genaturaliseerd (in 2008). Zijn minderjarig kind C, die in Nederland bij B verblijft, verkrijgt niet de Deense nationaliteit. B bezit op het moment dat A de Deense nationaliteit verkrijgt nog steeds uitsluitend de Marokkaanse nationaliteit en kind C heeft de Nederlandse en Marokkaanse nationaliteit.
+A is geboren uit de ongehuwde vrouw B, die weliswaar een nationaliteit bezit, maar die nationaliteit niet aan A heeft doorgegeven. A is dus staatloos.
 
 ### VI RRWN-alg. Toelichting algemeen
 
-Voor A geldt derhalve dat hij in 2008 zijn Nederlanderschap verliest op grond van artikel 1, eerste lid, Verdrag van Straatsburg.
+Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook A, die niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN valt, zijn Nederlanderschap moeten verliezen. Echter, ingevolge artikel 14, achtste lid, RWN mag hij daardoor niet staatloos worden. Aangezien A, naast het Nederlanderschap, geen andere nationaliteit bezit, verliest hij zijn Nederlanderschap niet.
 
 ### 16-2. Toelichting ad artikel 16, tweede lid
 
-Ook C verliest in 2008 zijn Nederlanderschap. Voor C gaat het Nederlanderschap in 2008 verloren op grond van artikel 16, eerste lid, aanhef en onder d, RWN. Dit omdat zijn vader het Nederlanderschap heeft verloren ingevolge één van de verdragen genoemd in artikel 15A RWN. Het verlies van het Nederlanderschap wordt niet belet door artikel 14, zesde lid (vanaf 1 maart 2017 is dit het achtste lid), RWN aangezien C niet staatloos wordt (C bezit nog de Marokkaanse nationaliteit). C valt niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN die verlies van het Nederlanderschap beletten.
+Enkele maanden na de geboorte van B emigreren hij en zijn moeder naar Australië. Na tien jaren hoofdverblijf in Australië verliest A haar Nederlanderschap ingevolge artikel 15, eerste lid, aanhef en onder c, RWN (aan haar is in die tien jaren geen Nederlands reisdocument of bewijs van Nederlanderschap afgegeven).
 
 ### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
 
@@ -11162,13 +11162,13 @@ Ook C verliest in 2008 zijn Nederlanderschap. Voor C gaat het Nederlanderschap i
 
 ### 16-2-b. Toelichting ad artikel 16, tweede lid, aanhef en onder b
 
-Enkele maanden na zijn geboorte wordt A op verzoek van zijn ouders geregistreerd tot Brits burger. Ten aanzien van hem moet dus worden gesteld dat hij zelfstandig dezelfde nationaliteit verkregen heeft als zijn moeder, hetgeen ingevolge artikel 16, eerste lid, aanhef en onder e, RWN zou moeten leiden tot verlies van zijn Nederlanderschap.
+Het besluit waarbij aan A het Nederlanderschap werd verleend, wordt op grond van artikel 15, eerste lid, aanhef en onder d, RWN ingetrokken, aangezien hij heeft nagelaten na zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.
 
 ### 16-2-d. Toelichting ad artikel 16, tweede lid, aanhef en onder d
 
-Een eventueel toekomstig verlies van het Nederlanderschap door B leidt voor A niet tot verlies van het Nederlanderschap. Artikel 16, tweede lid, aanhef en onder g, RWN is, wat dat betreft, anders geredigeerd dan [artikel 16, tweede lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16).
+Het echtpaar A en B, beiden geboren in Marokko in 1965, woont sedert 1995 in Nederland. In 2000 wordt in Marokko uit het huwelijk C geboren. Alle leden van het gezin zijn van Marokkaanse nationaliteit.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+In 2001 wordt vader A genaturaliseerd tot Nederlander. A behoudt daarbij de Marokkaanse nationaliteit. Kind C deelt in de naturalisatie. Moeder B wordt niet genaturaliseerd. Vader en kind bezitten na naturalisatie de Nederlandse en de Marokkaanse nationaliteit.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -11198,23 +11198,23 @@ Vervallen.
 
 ### 18-alg. Toelichting algemeen
 
-Echter, ingevolge het toen geldende artikel 14, zesde lid (vanaf 1 maart 2017 is dit het achtste lid), RWN mag hij daardoor niet staatloos worden. Aangezien B, naast het Nederlanderschap, geen andere nationaliteit bezit, verliest hij zijn Nederlanderschap niet.
+**Minderjarige is aanwezig**
 
-Na het horen van de minderjarige en/of de andere ouder, die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, kunnen zich de volgende, niet limitatieve, situaties voordoen:
+Indien de minderjarige aanwezig is bij het afleggen van de verklaring van afstand door de wettelijk vertegenwoordiger, wordt hij direct gehoord over eventuele bedenkingen tegen het verlies van het Nederlanderschap.
 
-Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) dient een minderjarige van twaalf jaar en ouder gehoord te worden, om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit kenbaar te kunnen maken. Zolang de minderjarige niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
+**Minderjarige is niet aanwezig**
 
-Het verlies van het Nederlanderschap treedt in als aan de wettelijke voorwaarden uit [artikel 16, eerste en tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt voldaan. Het verlies gebeurt van rechtswege door het ondertekenen van de verklaring van afstand door de zestien of zeventien jarige of de wettelijk vertegenwoordiger van een jonger kind.
+De ouder die geen wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt wordt, op haar/zijn verzoek, gehoord om zo haar/zijn bedenkingen tegen het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken. Uit de woorden ‘op zijn verzoek’ volgt dat de andere ouder niet verplicht is bedenkingen kenbaar te maken. Indien deze ouder te kennen geeft niet gehoord te willen worden of niet reageert op een uitnodiging daartoe, dan wordt zij/hij geacht geen bedenkingen te hebben tegen het verlies van de Nederlandse nationaliteit van haar/zijn kind.
 
 ### Artikel 20
 
 ### Artikel 21
 
-Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) dient een minderjarige van twaalf jaar en ouder gehoord te worden, om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit kenbaar te kunnen maken. Zolang de minderjarige niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
+Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op (zie tevens paragraaf 3 **Geen verlies Nederlanderschap**).
 
-### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
+### paragraaf 2.2.3. Mogelijke situaties ná het horen
 
-Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt ook de ouder die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, op zijn verzoek, gehoord om zo zijn bedenkingen tegen het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken. Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
+Na het horen van de minderjarige en/of de andere ouder, die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, kunnen zich de volgende, niet limitatieve, situaties voordoen:
 
 ### 23-2. Toelichting ad artikel 23, tweede lid
 
@@ -11222,7 +11222,7 @@ In 2005 legt A, in zijn hoedanigheid van wettelijk vertegenwoordiger, namens C e
 
 ### 16-2. Toelichting ad artikel 16, tweede lid
 
-A is geboren uit de ongehuwde vrouw B, die weliswaar een nationaliteit bezit, maar die nationaliteit niet aan A heeft doorgegeven. A is dus staatloos.
+Geen verlies treedt in indien:
 
 ### 16-2-alg. Toelichting algemeen
 
@@ -11234,13 +11234,13 @@ Zes jaren na de geboorte van A verkrijgen de ouders door naturalisatie de Austra
 
 ### 23-1. Toelichting ad artikel 23, eerste lid
 
-In 2001 wordt vader A genaturaliseerd tot Nederlander. A behoudt daarbij de Marokkaanse nationaliteit. Kind C deelt in de naturalisatie. Moeder B wordt niet genaturaliseerd. Vader en kind bezitten na naturalisatie de Nederlandse en de Marokkaanse nationaliteit.
+Ook hier geldt dat geen verlies van het Nederlanderschap zal intreden indien het kind behoort tot een van de categorieën van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) dan wel indien het staatloos zou worden (artikel 14, achtste lid, RWN).
 
-A verliest in 2008 zijn Nederlanderschap door de vrijwillige verkrijging van de Deense nationaliteit op grond van de rechtstreekse werking van artikel 1, eerste lid, Verdrag van Straatsburg (zie hiervoor de toelichting onder artikel 15A RWN).
+B wordt genaturaliseerd tot Nederlander, waarin A deelt. B verliest door de naturalisatie niet haar oorspronkelijke nationaliteit. Tijdens de minderjarigheid van A doet B afstand van het Nederlanderschap.
 
-A heeft immers – op zijn verzoek – door naturalisatie de nationaliteit verkregen van een staat die op het moment van verkrijging (2008) partij is bij het Verdrag van Straatsburg, en die geen partij is bij het Tweede Protocol tot wijziging van dat verdrag.
+In 2005 wordt in Nederland kind B geboren uit de in Australië geboren ongehuwde vrouw A. A is van Nederlandse en Australische nationaliteit. B verkrijgt bij zijn geboorte uitsluitend de Nederlandse nationaliteit. Hij heeft nimmer de Australische nationaliteit verkregen, omdat zijn geboorte niet is geregistreerd bij een Australisch Consulaat.
 
-A is in Nederland geboren uit het huwelijk van de Nederlandse man B en de in Frankrijk geboren Britse vrouw C.
+Echter, ingevolge het toen geldende artikel 14, zesde lid (vanaf 1 maart 2017 is dit het achtste lid), RWN mag hij daardoor niet staatloos worden. Aangezien B, naast het Nederlanderschap, geen andere nationaliteit bezit, verliest hij zijn Nederlanderschap niet.
 
 ### 16-2. Toelichting ad artikel 16, tweede lid
 
@@ -11248,11 +11248,11 @@ A is in Nederland geboren uit het huwelijk van de Nederlandse man B en de in Fra
 
 ### Artikel 16a
 
-Geen.
+Voor A geldt derhalve dat hij in 2008 zijn Nederlanderschap verliest op grond van artikel 1, eerste lid, Verdrag van Straatsburg.
 
 ### 16-2-b. Toelichting ad artikel 16, tweede lid, aanhef en onder b
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+Ook C verliest in 2008 zijn Nederlanderschap. Voor C gaat het Nederlanderschap in 2008 verloren op grond van artikel 16, eerste lid, aanhef en onder d, RWN. Dit omdat zijn vader het Nederlanderschap heeft verloren ingevolge één van de verdragen genoemd in artikel 15A RWN. Het verlies van het Nederlanderschap wordt niet belet door artikel 14, zesde lid (vanaf 1 maart 2017 is dit het achtste lid), RWN aangezien C niet staatloos wordt (C bezit nog de Marokkaanse nationaliteit). C valt niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN die verlies van het Nederlanderschap beletten.
 
 Deze bepaling bevat voor minderjarigen een zelfde regeling als [artikel 15A, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) voor meerderjarigen. Het gestelde bij artikel 15A, aanhef en onder b, RWN hoefde bij de onderhavige bepaling niet te worden opgenomen, aangezien de Toescheidingsovereenkomst inzake nationaliteiten, gesloten tussen Nederland en Suriname, alleen van toepassing is op personen die op 25 november 1975 reeds waren geboren. Een eenvoudig rekensommetje leert, dat deze personen inmiddels niet meer minderjarig zijn. Het is dan ook uitgesloten dat nu nog een minderjarige ingevolge die Overeenkomst de Surinaamse nationaliteit verkrijgt.
 
@@ -11280,37 +11280,37 @@ Vervallen.
 
 ## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
 
+**Ouder, niet zijnde wettelijk vertegenwoordiger, is niet aanwezig**
+
+Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) dient een minderjarige van twaalf jaar en ouder gehoord te worden, om zo zijn bedenkingen over het verlies van de Nederlandse nationaliteit kenbaar te kunnen maken. Zolang de minderjarige niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
+
+Ingevolge [artikel 16 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) wordt ook de ouder die niet de wettelijk vertegenwoordiger is van de minderjarige die de leeftijd van twaalf heeft bereikt, op zijn verzoek, gehoord om zo zijn bedenkingen tegen het verlies van de Nederlandse nationaliteit van zijn kind kenbaar te kunnen maken. Zolang de andere ouder, ondanks zijn verzoek, niet is gehoord, treedt het verlies van het Nederlanderschap niet op.
+
 Door de verklaring van afstand verliest C het Nederlanderschap. Geen van de onderdelen van [artikel 16, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) verhindert het intreden van het verlies. Met name belet [artikel 16, tweede lid, aanhef en onder d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) het verlies niet, daar is immers vermeld dat de uitzondering om niet het Nederlanderschap te verliezen niet geldt in geval van het afleggen van een verklaring van afstand.
 
-Enkele maanden na de geboorte van B emigreren hij en zijn moeder naar Australië. Na tien jaren hoofdverblijf in Australië verliest A haar Nederlanderschap ingevolge artikel 15, eerste lid, aanhef en onder c, RWN (aan haar is in die tien jaren geen Nederlands reisdocument of bewijs van Nederlanderschap afgegeven).
+Een Nederlands echtpaar emigreert naar Australië, waar kind A wordt geboren. A verkrijgt bij geboorte het Nederlanderschap, maar daarnaast ook de Australische nationaliteit door geboorte op het grondgebied van Australië.
 
-De minderjarige verliest het Nederlanderschap indien zijn vader of moeder die nationaliteit verliest door:
+### 16-1-d. Toelichting ad [artikel 16, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
-Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook A, die niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN valt, zijn Nederlanderschap moeten verliezen. Echter, ingevolge artikel 14, achtste lid, RWN mag hij daardoor niet staatloos worden. Aangezien A, naast het Nederlanderschap, geen andere nationaliteit bezit, verliest hij zijn Nederlanderschap niet.
-
-Enkele maanden na de geboorte van B emigreren hij en zijn moeder naar Australië. Na tien jaren hoofdverblijf in Australië verliest A haar Nederlanderschap ingevolge artikel 15, eerste lid, aanhef en onder c, RWN (aan haar is in die tien jaren geen Nederlands reisdocument of bewijs van Nederlanderschap afgegeven).
-
-### Artikel 23
-
-### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
+### Paragraaf 1
 
 ### 25-alg. Toelichting algemeen
 
-Echter, in dit geval wordt verlies van het Nederlanderschap voorkomen door [artikel 16, tweede lid, aanhef en onder g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16). De vader van A is Nederlander.
+Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook B zijn Nederlanderschap moeten verliezen. Echter, voor B geldt de uitzonderingscategorie als bedoeld in artikel 16, tweede lid, aanhef en onder d, RWN. Hij ontleent het Nederlanderschap immers tevens aan artikel 3 derde lid, RWN. Voor B gaat het Nederlanderschap dan ook niet verloren.
 
 ### 16-2-e. Toelichting ad artikel 16, tweede lid, aanhef en onder e
 
-Met het begrip ‘ouder’ in [artikel 16, tweede lid, aanhef en onder a, b, c en g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) is ook bedoeld de adoptiefouder, mits de adoptie tot stand is gekomen in overeenstemming met de regelen van Nederlands internationaal privaatrecht en de adoptie tot gevolg heeft gehad dat de voordien bestaande familierechtelijke betrekkingen zijn verbroken, alsmede de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent.
+A verliest in 2008 zijn Nederlanderschap door de vrijwillige verkrijging van de Deense nationaliteit op grond van de rechtstreekse werking van artikel 1, eerste lid, Verdrag van Straatsburg (zie hiervoor de toelichting onder artikel 15A RWN).
 
 ### 16-2-a. Toelichting ad artikel 16, tweede lid, aanhef en onder a
 
-Geen.
+A heeft immers – op zijn verzoek – door naturalisatie de nationaliteit verkregen van een staat die op het moment van verkrijging (2008) partij is bij het Verdrag van Straatsburg, en die geen partij is bij het Tweede Protocol tot wijziging van dat verdrag.
 
 ### 16-2-c. Toelichting ad artikel 16, tweede lid, aanhef en onder c
 
 ### 16-2-e. Toelichting ad artikel 16, tweede lid, aanhef en onder e
 
-Denemarken heeft Hoofdstuk I van het verdrag toegepast van 17 december 1972 tot 26 augustus 2015.
+Een evenredigheidstoets op het verlies van het Unieburgerschap kan ook worden uitgevoerd, na het verlies van de Nederlandse nationaliteit op grond van [artikel 16, eerste lid, aanhef en onder c RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) (oud), als de ouders het Nederlanderschap zijn kwijtgeraakt op grond van [artikel 15, aanhef en onder c RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) (oud).
 
 ### 16-2-g. Toelichting ad artikel 16, tweede lid, aanhef en onder g
 
@@ -11318,35 +11318,35 @@ Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor F
 
 ### 25-alg. Toelichting algemeen
 
-Geen.
+A verkrijgt bij zijn geboorte het Nederlanderschap uitsluitend op grond van [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3). Het Brits burgerschap verkrijgt hij niet bij zijn geboorte, aangezien zijn moeder Brits burger door afstamming is.
 
 ### 16a-alg. Toelichting
 
-Deze bepaling bevat voor minderjarigen een zelfde regeling als [artikel 15A, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) voor meerderjarigen. Het gestelde bij artikel 15A, aanhef en onder b, RWN hoefde bij de onderhavige bepaling niet te worden opgenomen, aangezien de Toescheidingsovereenkomst inzake nationaliteiten, gesloten tussen Nederland en Suriname, alleen van toepassing is op personen die op 25 november 1975 reeds waren geboren. Nu deze personen inmiddels niet meer minderjarig zijn, is het uitgesloten dat nu nog een minderjarige ingevolge die Overeenkomst de Surinaamse nationaliteit verkrijgt.
+Echter, in dit geval wordt verlies van het Nederlanderschap voorkomen door [artikel 16, tweede lid, aanhef en onder g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16). De vader van A is Nederlander.
 
-[Artikel 16A RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A), welke bepaling overigens geen zelfstandige verliesgrond is, ziet op verlies van het Nederlanderschap als gevolg van vrijwillige verkrijging van de nationaliteit van landen waarvoor het Verdrag van Straatsburg in werking is getreden en die Hoofdstuk I van het Verdrag van Straatsburg, dat handelt over beperking van gevallen van meervoudige nationaliteit, toepassen. Dat zijn: Nederland (gehele Koninkrijk) en Oostenrijk. Het verdrag van Straatsburg is voor Nederland (gehele Koninkrijk) in werking getreden op 10 juni 1985. Zweden heeft Hoofdstuk I van het Verdrag toegepast van 6 april 1969 tot 29 juni 2002. Duitsland is partij bij het Verdrag van Straatsburg geweest van 18 december 1969 tot 22 december 2002.
+Een eventueel toekomstig verlies van het Nederlanderschap door B leidt voor A niet tot verlies van het Nederlanderschap. Artikel 16, tweede lid, aanhef en onder g, RWN is, wat dat betreft, anders geredigeerd dan [artikel 16, tweede lid, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16).
 
 Tot 28 april 2008 gold deze verdragsverplichting ook voor België. Voor België is op 19 juli 1991 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 19 juli 1991 en 28 april 2008 de Belgische nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 28 april 2008 is voor België de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor Frankrijk is op 28 maart 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 5 maart 2009 de Franse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 5 maart 2009 is voor Frankrijk de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-Tot 9 juli 2009 gold voornoemde verdragsverplichting ook voor Luxemburg. Voor Luxemburg is op 12 november 1971 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 9 juli 2009 de Luxemburgse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 9 juli 2009 is voor Luxemburg de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Met het begrip ‘ouder’ in [artikel 16, tweede lid, aanhef en onder a, b, c en g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) is ook bedoeld de adoptiefouder, mits de adoptie tot stand is gekomen in overeenstemming met de regelen van Nederlands internationaal privaatrecht en de adoptie tot gevolg heeft gehad dat de voordien bestaande familierechtelijke betrekkingen zijn verbroken, alsmede de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent.
 
 Tot 4 juni 2010 gold voornoemde verdragsverplichting ook voor Italië. Voor Italië is op 27 februari 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 4 juni 2010 de Italiaanse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 4 juni 2010 is voor Italië de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd. Voor Italië is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol (in tegenstelling tot het Verdrag zelf) heeft geen rechtstreekse werking, maar heeft per 1 april 2003 uitvoering gekregen door middel van artikel 15, tweede lid, 15a, 16, tweede lid, aanhef en onder e, f en g en 16a RWN.
 
-### 27-1. Toelichting ad artikel 27, eerste lid
+### 16-2-b. Toelichting ad artikel 16, tweede lid, aanhef en onder b
 
 Noorwegen heeft Hoofdstuk I van het Verdrag toegepast van 27 december 1969 tot 19 december 2019. Voor Noorwegen is op 27 december 1969 het Verdrag van Straatsburg van kracht geworden. Met ingang van 19 december 2019 is voor Noorwegen de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-### 26-2. Toelichting ad artikel 26, tweede lid
+### 16-2-d. Toelichting ad artikel 16, tweede lid, aanhef en onder d
 
 Het Tweede Protocol tot wijziging van het Verdrag van Straatsburg maakt het voor elke verdragsluitende partij mogelijk om in bepaalde gevallen door middel van de eigen interne wetgeving afbreuk te doen aan de hoofdregel van het verdrag, waarbij elke staat, die ratificeert, zelf ten aanzien van die gevallen bepaalt in welke mate van dat recht gebruik wordt gemaakt. De gevallen als hier bedoeld zijn:
 
-### Artikel 22
+### 16-2-f. Toelichting ad artikel 16, tweede lid, aanhef en onder f
 
 De [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) voorziet in de mogelijkheid van verlies als bedoeld in artikel 1, tweede lid, Verdrag van Straatsburg, namelijk in artikel 16, eerste lid, aanhef en onder e, RWN. Echter, alleen indien de minderjarige dezelfde nationaliteit heeft verkregen als zijn vader of moeder en bovendien geen sprake is van de in artikel 16, tweede lid, RWN genoemde uitzonderingen. Voor de beoordeling van de vraag of een minderjarige het Nederlanderschap al dan niet heeft verloren, heeft artikel 16A RWN dan ook geen zelfstandige betekenis en kan worden volstaan met toepassing van artikel 16 RWN.
 
-### Artikel 17
+### Artikel 16a
 
 ### 22-1. Toelichting ad artikel 22, eerste lid
 
@@ -11356,9 +11356,9 @@ De [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) voorziet in de mogelij
 
 ### 27-1. Toelichting ad artikel 27, eerste lid
 
-Ten aanzien van personen woonachtig in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba berusten de optieregisters bij:
+[Artikel 16A RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A), welke bepaling overigens geen zelfstandige verliesgrond is, ziet op verlies van het Nederlanderschap als gevolg van vrijwillige verkrijging van de nationaliteit van landen waarvoor het Verdrag van Straatsburg in werking is getreden en die Hoofdstuk I van het Verdrag van Straatsburg, dat handelt over beperking van gevallen van meervoudige nationaliteit, toepassen. Dat zijn: Nederland (gehele Koninkrijk) en Oostenrijk. Het verdrag van Straatsburg is voor Nederland (gehele Koninkrijk) in werking getreden op 10 juni 1985. Zweden heeft Hoofdstuk I van het Verdrag toegepast van 6 april 1969 tot 29 juni 2002. Duitsland is partij bij het Verdrag van Straatsburg geweest van 18 december 1969 tot 22 december 2002.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+Tot 28 april 2008 gold deze verdragsverplichting ook voor België. Voor België is op 19 juli 1991 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 19 juli 1991 en 28 april 2008 de Belgische nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 28 april 2008 is voor België de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -11390,11 +11390,11 @@ Vervallen.
 
 ### Artikel 19
 
-### 16-1-d. Toelichting ad [artikel 16, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+### paragraaf 2.3. Minderjarigen van 16 jaar en ouder
 
 ### 16-2-c. Toelichting ad artikel 16, tweede lid, aanhef en onder c
 
-A is geboren uit de ongehuwde vrouw B, die weliswaar een nationaliteit bezit, maar die nationaliteit niet aan A heeft doorgegeven. A is dus staatloos.
+C verkrijgt bij zijn geboorte naast de Turkse ook de Nederlandse nationaliteit, aangezien is voldaan aan de voorwaarden van [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3).
 
 ### 16a-alg. Toelichting
 
@@ -11402,37 +11402,37 @@ A is geboren uit de ongehuwde vrouw B, die weliswaar een nationaliteit bezit, ma
 
 ### 16-2-alg. Toelichting algemeen
 
-Met het begrip ‘ouder’ in [artikel 16, tweede lid, aanhef en onder a, b, c en g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) is ook bedoeld de adoptiefouder, mits de adoptie tot stand is gekomen in overeenstemming met de regelen van Nederlands internationaal privaatrecht en de adoptie tot gevolg heeft gehad dat de voordien bestaande familierechtelijke betrekkingen zijn verbroken, alsmede de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent.
+Volgens artikel 16, eerste lid, aanhef en onder d, RWN zou ook B, die niet onder één van de uitzonderingsgevallen van artikel 16, tweede lid, RWN valt, zijn Nederlanderschap moeten verliezen (waar B al die jaren hoofdverblijf heeft gehad speelt hierbij geen enkele rol).
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+A vestigt zich na zijn naturalisatie tot Nederlander in Denemarken. In 2002 wordt zijn huwelijk met B door echtscheiding ontbonden en trouwt hij in Denemarken met een Deense vrouw. Als hij zes jaren in Denemarken woont, wordt hij daar genaturaliseerd (in 2008). Zijn minderjarig kind C, die in Nederland bij B verblijft, verkrijgt niet de Deense nationaliteit. B bezit op het moment dat A de Deense nationaliteit verkrijgt nog steeds uitsluitend de Marokkaanse nationaliteit en kind C heeft de Nederlandse en Marokkaanse nationaliteit.
 
-### 16-2-d. Toelichting ad artikel 16, tweede lid, aanhef en onder d
+### Paragraaf 2
 
-[Artikel 16A RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A), welke bepaling overigens geen zelfstandige verliesgrond is, ziet op verlies van het Nederlanderschap als gevolg van vrijwillige verkrijging van de nationaliteit van landen waarvoor het Verdrag van Straatsburg in werking is getreden en die Hoofdstuk I van het Verdrag van Straatsburg, dat handelt over beperking van gevallen van meervoudige nationaliteit, toepassen. Dat zijn: Nederland (gehele Koninkrijk), Noorwegen en Oostenrijk. Het verdrag van Straatsburg is voor Nederland (gehele Koninkrijk) in werking getreden op 10 juni 1985. Zweden heeft Hoofdstuk I van het Verdrag toegepast van 6 april 1969 tot 29 juni 2002. Duitsland is partij bij het Verdrag van Straatsburg geweest van 18 december 1969 tot 22 december 2002.
+Voor de beoordeling en de procedure van de evenredigheidstoets op het verlies van Unierechten wordt verwezen naar hetgeen is vermeld in [paragraaf 1.5 bij de toelichting op artikel 15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBW33099&artikel=15&paragraaf=1&paragraaf=1.5&z=2020-05-07&g=2020-05-07) RWN.
 
 ### 16-2-f. Toelichting ad artikel 16, tweede lid, aanhef en onder f
 
-Tot 28 april 2008 gold deze verdragsverplichting ook voor België. Voor België is op 19 juli 1991 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 19 juli 1991 en 28 april 2008 de Belgische nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 28 april 2008 is voor België de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+Er vindt een evenredigheidstoets plaats op de individuele en persoonlijke situatie van de (toen) minderjarige aan de hand van de feiten en omstandigheden op de datum waarop het verlies van rechtswege is ingetreden.
 
-### Artikel 16a
+### 16-1-e. Toelichting ad artikel 16, eerste lid, aanhef en onder e
 
-Geen.
+A is in Nederland geboren uit het huwelijk van de Nederlandse man B en de in Frankrijk geboren Britse vrouw C.
+
+Enkele maanden na zijn geboorte wordt A op verzoek van zijn ouders geregistreerd tot Brits burger. Ten aanzien van hem moet dus worden gesteld dat hij zelfstandig dezelfde nationaliteit verkregen heeft als zijn moeder, hetgeen ingevolge artikel 16, eerste lid, aanhef en onder e, RWN zou moeten leiden tot verlies van zijn Nederlanderschap.
+
+### 16-2-alg. Toelichting algemeen
+
+### 16-2-a. Toelichting ad artikel 16, tweede lid, aanhef en onder a
 
 Denemarken heeft Hoofdstuk I van het verdrag toegepast van 17 december 1972 tot 26 augustus 2015. Voor Denemarken is op 17 december 1972 het Verdrag van Straatsburg van kracht geworden. Met ingang van 26 augustus 2015 heeft Denemarken haar verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-### Artikel VI RRWN
-
-### 21-alg. Toelichting algemeen
-
-Denemarken heeft Hoofdstuk I van het verdrag toegepast van 17 december 1972 tot 26 augustus 2015. Voor Denemarken is op 17 december 1972 het Verdrag van Straatsburg van kracht geworden. Met ingang van 26 augustus 2015 heeft Denemarken haar verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
-
-### 17-alg. Toelichting algemeen
+### 16-2-c. Toelichting ad artikel 16, tweede lid, aanhef en onder c
 
 Hoofdregel van artikel 1, tweede lid, Verdrag van Straatsburg is, dat minderjarige onderdanen van een verdragstaat hun nationaliteit verliezen indien zij ten gevolge van een uitdrukkelijke wilsverklaring (hetzij op eigen verzoek dan wel met inachtneming van de regels omtrent bevoegdheid of vertegenwoordiging van het land waarvan betrokkene de nationaliteit bezit) de nationaliteit van een andere verdragstaat verkrijgen door naturalisatie, optie of herstel in die nationaliteit, mits hun nationale wet in de mogelijkheid van verlies voorziet.
 
-### Artikel 18
+### 16-2-e. Toelichting ad artikel 16, tweede lid, aanhef en onder e
 
-### Artikel 27
+### 16-2-g. Toelichting ad artikel 16, tweede lid, aanhef en onder g
 
 [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12); [18.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18); [24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24); [30.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30) en [64.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=64)
 
@@ -11470,7 +11470,7 @@ Vervallen.
 
 ## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
 
-### Artikel 22
+### paragraaf 2.2.1. Horen minderjarige over bedenkingen tegen het verlies van het Nederlanderschap
 
 ### 21-alg. Toelichting algemeen
 
@@ -11482,17 +11482,17 @@ Vervallen.
 
 Nederland heeft van die mogelijkheid gebruik gemaakt door opneming van [artikel 15, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [artikel 16, tweede lid, aanhef en onder e, f en g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) (vergelijk ook artikel 15A, aanhef en onder a, RWN, tweede zin en artikel 16A RWN, tweede zin). Het Tweede Protocol is op 24 maart 1995 in werking getreden voor Frankrijk en Italië en is sedert 20 augustus 1996 ook voor Nederland van kracht. Echter, tot 1 april 2003 is door Nederland in de eigen interne wetgeving geen uitvoering gegeven aan het Tweede Protocol. Voor alle nationaliteiten van de verdragstaat geldt derhalve de hoofdregel dat het Nederlanderschap verloren gaat, behalve bij de verkrijging van de Franse (tot 5 maart 2009) of Italiaanse (tot 4 juni 2010) nationaliteit door de Nederlandse minderjarige, waarbij de minderjarige valt onder artikel 16, tweede lid, aanhef en onder e, f of g, RWN.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
-
-### 17-alg. Toelichting algemeen
-
-Zie de toelichting bij artikel 20 RWN.
-
 Geen.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+### 16a-alg. Toelichting
 
-Zie de toelichting bij artikel 20 RWN.
+Deze bepaling bevat voor minderjarigen een zelfde regeling als [artikel 15A, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) voor meerderjarigen. Het gestelde bij artikel 15A, aanhef en onder b, RWN hoefde bij de onderhavige bepaling niet te worden opgenomen, aangezien de Toescheidingsovereenkomst inzake nationaliteiten, gesloten tussen Nederland en Suriname, alleen van toepassing is op personen die op 25 november 1975 reeds waren geboren. Nu deze personen inmiddels niet meer minderjarig zijn, is het uitgesloten dat nu nog een minderjarige ingevolge die Overeenkomst de Surinaamse nationaliteit verkrijgt.
+
+Tot 5 maart 2009 gold voornoemde verdragsverplichting ook voor Frankrijk. Voor Frankrijk is op 28 maart 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 5 maart 2009 de Franse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 5 maart 2009 is voor Frankrijk de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+
+Tot 9 juli 2009 gold voornoemde verdragsverplichting ook voor Luxemburg. Voor Luxemburg is op 12 november 1971 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 9 juli 2009 de Luxemburgse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 9 juli 2009 is voor Luxemburg de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
+
+Tot 4 juni 2010 gold voornoemde verdragsverplichting ook voor Italië. Voor Italië is op 27 februari 1968 het Verdrag van Straatsburg van kracht geworden. De meerderjarige Nederlander die tussen 10 juni 1985 (datum inwerkingtreding Verdrag voor het hele Koninkrijk der Nederlanden) en 4 juni 2010 de Italiaanse nationaliteit verkreeg, verloor op grond van het Verdrag van Straatsburg automatisch het Nederlanderschap. Met ingang van 4 juni 2010 is voor Italië de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd. Voor Italië is ook het Tweede Protocol van het Verdrag van Straatsburg (samen met het Verdrag) vervallen. Het Tweede Protocol (in tegenstelling tot het Verdrag zelf) heeft geen rechtstreekse werking, maar heeft per 1 april 2003 uitvoering gekregen door middel van artikel 15, tweede lid, 15a, 16, tweede lid, aanhef en onder e, f en g en 16a RWN.
 
 ### Artikel 19
 
@@ -11500,15 +11500,15 @@ Zie de toelichting bij artikel 20 RWN.
 
 ### Artikel 21
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=7) en [9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)
+Het Tweede Protocol tot wijziging van het Verdrag van Straatsburg maakt het voor elke verdragsluitende partij mogelijk om in bepaalde gevallen door middel van de eigen interne wetgeving afbreuk te doen aan de hoofdregel van het verdrag, waarbij elke staat, die ratificeert, zelf ten aanzien van die gevallen bepaalt in welke mate van dat recht gebruik wordt gemaakt. De gevallen als hier bedoeld zijn:
 
-Zie de toelichting bij artikel 20 RWN.
+Nederland heeft van die mogelijkheid gebruik gemaakt door opneming van [artikel 15, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [artikel 16, tweede lid, aanhef en onder e, f en g, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) (vergelijk ook artikel 15A, aanhef en onder a, RWN, tweede zin en artikel 16A RWN, tweede zin). Het Tweede Protocol is op 24 maart 1995 in werking getreden voor Frankrijk en Italië en is sedert 20 augustus 1996 ook voor Nederland van kracht. Echter, tot 1 april 2003 is door Nederland in de eigen interne wetgeving geen uitvoering gegeven aan het Tweede Protocol. Voor alle nationaliteiten van de verdragstaat geldt derhalve de hoofdregel dat het Nederlanderschap verloren gaat, behalve bij de verkrijging van de Franse (tot 5 maart 2009) of Italiaanse (tot 4 juni 2010) nationaliteit door de Nederlandse minderjarige, waarbij de minderjarige valt onder artikel 16, tweede lid, aanhef en onder e, f of g, RWN.
 
 ### Artikel 20
 
 [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
-Geen.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
 ### 20-alg. Toelichting algemeen
 
@@ -11530,15 +11530,15 @@ Geen.
 
 ### 16-2. Toelichting ad artikel 16, tweede lid, onder a, b, c en d, RWN
 
-In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=25), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=33), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=39), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=45) en [51 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=51) wordt nader geregeld van welke personen deze autoriteiten optieverklaringen c.q. verzoeken om naturalisatie in ontvangst mogen nemen. Daarentegen zijn alle genoemde autoriteiten bevoegd om afstandsverklaringen van ongeacht welke persoon in ontvangst te nemen.
-
-### Artikel 22
-
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9); [14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14); [15.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
-
-### Artikel 22B
-
 Geen.
+
+### 19-alg. Toelichting algemeen
+
+Zie de toelichting bij artikel 20 RWN.
+
+### Artikel 20
+
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
 ### 22-1. Toelichting ad artikel 22, eerste lid
 
@@ -11550,47 +11550,47 @@ Ten aanzien van personen woonachtig in Aruba, Curaçao, Sint Maarten of de openb
 
 ### 23-2. Toelichting ad artikel 23, tweede lid
 
-**De verklaring van verbondenheid, bedoeld in artikel 6, tweede lid, artikel 8, eerste lid onder e en artikel 11, vierde en vijfde lid, wordt afgelegd met de volgende woorden: Ik zweer (verklaar) dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer (beloof) de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen. Degene die de verklaring aflegt voegt daar ter bevestiging aan toe: Zo waarlijk helpe mij God almachtig, of: Dat verklaar en beloof ik.**
+[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2); [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=7); [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=13); [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=19); [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=25); [33](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=33); [39](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=39); [45](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=45); [51](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=51) en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63)
 
 ### Artikel 22B
 
 De verklaring van verbondenheid wordt bevestigd met de woorden ‘Zo waarlijk helpe mij God almachtig’ òf ‘Dat verklaar en beloof ik’.
 
-Wanneer betrokkene ervoor kiest de verklaring van verbondenheid te bevestigen met de eerste mogelijkheid, betreft de verklaring van verbondenheid de volgende woorden: ‘Ik zweer dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen.’ en eindigt met de volgende bevestiging : ‘Zo waarlijk helpe mij God almachtig’.
+De in [artikel 21 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21) bedoelde algemene maatregel van rijksbestuur is het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) (BVVN, van 15 april 2002, Stb. 2002, 231)
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 8.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13); [13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21)
+[Hoofdstuk I van het BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I) bevat algemene bepalingen, [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II) handelt over de administratieve behandeling van optieverklaringen, [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=III) over de administratieve behandeling van verzoeken om naturalisatie (inclusief de administratieve handelingen inzake de afstandsverplichting), [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=IV) over het bewijs van Nederlanderschap, [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V) over verlies van het Nederlanderschap door afstand en intrekking wegens fraude en het niet nakomen van de afstandsverplichting en [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=VI) bevat overgangs- en slotbepalingen.
 
-Geen.
+Op grond van [artikel 2 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) en [artikel 63 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63) zijn de volgende autoriteiten bevoegd tot het in ontvangst nemen van optieverklaringen, verzoeken om naturalisatie en verklaringen van afstand van het Nederlanderschap:
 
-Indien de bevoegde autoriteit heeft bepaald dat de verklaring van verbondenheid schriftelijk kan worden afgelegd (zie [artikel 23, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23)), wordt de schriftelijke verklaring van verbondenheid ondertekend. Voor het schriftelijk afleggen van de verklaring van verbondenheid zijn twee modellen ontwikkeld. In model 4.1 is de verklaring van verbondenheid opgenomen die besluit met de bevestiging ‘Zo waarlijk helpe mij God almachtig’ en in model 4.2 de verklaring van verbondenheid opgenomen die besluit met ‘Dat verklaar en beloof ik’. De schriftelijk afgelegde verklaring van verbondenheid wordt door de burgemeester in het bij de gemeente aanwezige optiedossier of naturalisatiedossier gevoegd.
+In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=25), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=33), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=39), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=45) en [51 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=51) wordt nader geregeld van welke personen deze autoriteiten optieverklaringen c.q. verzoeken om naturalisatie in ontvangst mogen nemen. Daarentegen zijn alle genoemde autoriteiten bevoegd om afstandsverklaringen van ongeacht welke persoon in ontvangst te nemen.
 
 **Het vereiste van toelating en hoofdverblijf, bedoeld in artikel 6, eerste lid, onder f, is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en artikel 7, aanhef en ten eerste of ten derde, van de Wet van 12 december 1892,** **Stb. 268** **, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van artikel 15, aanhef en onder a, indien de persoon:**
 
 ### Artikel VI RRWN
 
-De verklaring van verbondenheid wordt in de regel in persoon op een naturalisatieceremonie, mondeling en zonder uitzondering in het Nederlands afgelegd.
+[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=12); [18.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18); [24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24); [30.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=30) en [64.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=64)
 
 ### VI RRWN-alg. Toelichting algemeen
 
 Wanneer betrokkene ervoor kiest de verklaring van verbondenheid te bevestigen met de eerste mogelijkheid, betreft de verklaring van verbondenheid de volgende woorden: ‘Ik zweer dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen.’ en eindigt met de volgende bevestiging : ‘Zo waarlijk helpe mij God almachtig’.
 
-### Artikel VII RRWN
+### 22-2. Toelichting ad [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22)
 
-De keuze voor de eerste of tweede variant van de bevestiging van de verklaring van verbondenheid, ligt bij betrokkene. De tekst van de verklaring van verbondenheid als die van de bevestiging staat wettelijk vast en van deze tekst kan **niet** worden afgeweken.
+Onze Ministers van Justitie van Aruba, van Curaçao en van Sint Maarten houden een openbaar register van de in het eerste lid bedoelde akten welke betrekking hebben op personen die in hun land woonachtig zijn.
 
 ### Artikel 24
 
 ### 23-3. Toelichting ad artikel 23, derde lid
 
-### 26-3. Toelichting ad [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
+### Artikel 22A
 
 De in [artikel 23, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23) bedoelde algemene maatregel van bestuur is het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) (BVVN, van 15 april 2002, **Stb.** 2002, 231, gewijzigd bij **Stb**. 2009, 2).
 
-### 24-alg. Toelichting algemeen
+### Artikel 22C
 
 In het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) is opgenomen dat de degene aan wie de bevestiging van verkrijging van het Nederlanderschap of het uittreksel van het besluit tot verlening van het Nederlanderschap in persoon wordt uitgereikt, de verklaring van verbondenheid mondeling aflegt op een door de bevoegde autoriteiten te bepalen wijze ([artikel 60a, vierde, lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)) .
 
-Voorts is opgenomen dat de bevoegde autoriteit kan bepalen dat de betrokkene de verklaring van verbondenheid schriftelijk aflegt, indien van hem redelijkerwijs niet kan worden verlangd dat hij deze mondeling aflegt ([artikel 60a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, vijfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Dit geldt in elk geval voor de gevallen die in het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) reeds zijn onderkend als de gevallen waarin niet kan worden verlangd dat men de ceremonie bijwoont ([artikel 60a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, negende lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Maar ook kan het gaan om gevallen waarin de persoon in kwestie wel in staat is om de ceremonie bij te wonen, maar niet in staat is om de verklaring uit te spreken. Dan kan de verklaring van verbondenheid schriftelijk worden afgelegd, door het ondertekenen van de tekst van de verklaring (model 4.1 of model 4.2).
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 8.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13); [13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21)
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -11632,27 +11632,27 @@ Vervallen.
 
 ### Artikel 21
 
-### 26-alg. Toelichting algemeen
+### 16-2. Toelichting ad artikel 16, tweede lid
 
 ### Artikel 18
 
 ### Artikel 22A
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 8.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13); [13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=13) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21)
+Denemarken heeft Hoofdstuk I van het verdrag toegepast van 17 december 1972 tot 26 augustus 2015. Voor Denemarken is op 17 december 1972 het Verdrag van Straatsburg van kracht geworden. Met ingang van 26 augustus 2015 heeft Denemarken haar verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+Noorwegen heeft Hoofdstuk I van het Verdrag toegepast van 27 december 1969 tot 19 december 2019. Voor Noorwegen is op 27 december 1969 het Verdrag van Straatsburg van kracht geworden. Met ingang van 19 december 2019 is voor Noorwegen de verbondenheid aan Hoofdstuk I van het Verdrag van Straatsburg geëindigd.
 
-Geen.
+Hoofdregel van artikel 1, tweede lid, Verdrag van Straatsburg is, dat minderjarige onderdanen van een verdragstaat hun nationaliteit verliezen indien zij ten gevolge van een uitdrukkelijke wilsverklaring (hetzij op eigen verzoek dan wel met inachtneming van de regels omtrent bevoegdheid of vertegenwoordiging van het land waarvan betrokkene de nationaliteit bezit) de nationaliteit van een andere verdragstaat verkrijgen door naturalisatie, optie of herstel in die nationaliteit, mits hun nationale wet in de mogelijkheid van verlies voorziet.
 
 ### 19-alg. Toelichting algemeen
 
+De [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) voorziet in de mogelijkheid van verlies als bedoeld in artikel 1, tweede lid, Verdrag van Straatsburg, namelijk in artikel 16, eerste lid, aanhef en onder e, RWN. Echter, alleen indien de minderjarige dezelfde nationaliteit heeft verkregen als zijn vader of moeder en bovendien geen sprake is van de in artikel 16, tweede lid, RWN genoemde uitzonderingen. Voor de beoordeling van de vraag of een minderjarige het Nederlanderschap al dan niet heeft verloren, heeft artikel 16A RWN dan ook geen zelfstandige betekenis en kan worden volstaan met toepassing van artikel 16 RWN.
+
 Geen.
 
-[Hoofdstuk I van het BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=I) bevat algemene bepalingen, [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=II) handelt over de administratieve behandeling van optieverklaringen, [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=III) over de administratieve behandeling van verzoeken om naturalisatie (inclusief de administratieve handelingen inzake de afstandsverplichting), [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=IV) over het bewijs van Nederlanderschap, [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=V) over verlies van het Nederlanderschap door afstand en intrekking wegens fraude en het niet nakomen van de afstandsverplichting en [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&hoofdstuk=VI) bevat overgangs- en slotbepalingen.
+### Artikel 18
 
-### Artikel 22
-
-Op grond van [artikel 2 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) en [artikel 63 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63) zijn de volgende autoriteiten bevoegd tot het in ontvangst nemen van optieverklaringen, verzoeken om naturalisatie en verklaringen van afstand van het Nederlanderschap:
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
 ### Artikel 24
 
@@ -11664,35 +11664,35 @@ Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en
 
 ### Artikel 22C
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4); [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5); [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+Geen.
 
 ### Artikel 23
 
 ### 26-1. Toelichting ad [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-### 23-2. Toelichting ad artikel 23, tweede lid
+### Artikel 22
 
-**De verklaring van verbondenheid, bedoeld in artikel 6, tweede lid, artikel 8, eerste lid onder e en artikel 11, vierde en vijfde lid, wordt afgelegd met de volgende woorden: Ik zweer (verklaar) dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer (beloof) de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen. Degene die de verklaring aflegt voegt daar ter bevestiging aan toe: Zo waarlijk helpe mij God almachtig, of: Dat verklaar en beloof ik.**
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9); [14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14); [15.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
 
 ### 14-2. Toelichting ad artikel 14, tweede lid, RWN
 
-De verklaring van verbondenheid wordt bevestigd met de woorden ‘Zo waarlijk helpe mij God almachtig’ òf ‘Dat verklaar en beloof ik’.
+Geen.
 
-### 16-2. Toelichting ad artikel 16, tweede lid, onder a, b, c en d, RWN
+### 22-1. Toelichting ad artikel 22, eerste lid
 
 Wanneer betrokkene ervoor kiest de andere (neutrale) verklaring van verbondenheid te bevestigen met de tweede mogelijkheid, betreft de verklaring van verbondenheid de volgende woorden:‘ Ik verklaar dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en beloof de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen.’ en eindigt met de volgende bevestiging : ‘Dat verklaar en beloof ik’.
 
-Indien de bevoegde autoriteit heeft bepaald dat de verklaring van verbondenheid schriftelijk kan worden afgelegd (zie [artikel 23, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23)), wordt de schriftelijke verklaring van verbondenheid ondertekend. Voor het schriftelijk afleggen van de verklaring van verbondenheid zijn twee modellen ontwikkeld. In model 4.1 is de verklaring van verbondenheid opgenomen die besluit met de bevestiging ‘Zo waarlijk helpe mij God almachtig’ en in model 4.2 de verklaring van verbondenheid opgenomen die besluit met ‘Dat verklaar en beloof ik’. De schriftelijk afgelegde verklaring van verbondenheid wordt door de burgemeester in het bij de gemeente aanwezige optiedossier of naturalisatiedossier gevoegd.
+Ten aanzien van personen woonachtig in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba berusten de optieregisters bij:
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6)
+Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba hebben eveneens een openbaar register, waarin ten aanzien van de aldaar wonende personen dezelfde gegevens worden bijgehouden als die genoemd in [artikel 22, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22). De in deze bepaling bedoelde registers zijn dus zowel in Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba als bij de IND in Rijswijk, Europees Nederland aanwezig. Voor wat betreft de in voornoemde landen uitgebrachte optieverklaringen volgt dit ook uit [artikel 18, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18) en [artikel 24, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24).
 
 **De gevallen waarin het afleggen van de verklaring, in afwijking van artikel 6, tweede lid, 6 achtste lid, 8, eerste lid onder e, 11, vierde lid, 11 vijfde lid onder b, 26, derde lid en 28, derde lid, niet gevraagd zal worden of redelijkerwijs niet gevraagd kan worden en de wijze waarop deze verklaring kan worden afgelegd, worden bij of krachtens algemene maatregel van bestuur vastgesteld.**
 
 ### VI RRWN-alg. Toelichting algemeen
 
-Ten slotte is in het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) opgenomen dat indien betrokkene vanwege zijn fysieke of psychische toestand niet in staat is om de verklaring van verbondenheid op de voorgeschreven wijze af te leggen, de bevestiging van verkrijging van het Nederlanderschap of het uittreksel van verlening van het Nederlanderschap bekend wordt gemaakt zonder dat de verklaring is afgelegd ([artikel 60a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Het gaat hier om zeer bijzondere omstandigheden, gelegen in de fysieke of psychische omstandigheden van deze persoon.59Zie ook toelichting bij artikel 6, artikel 7, artikel 8, eerste lid, onder e, RWN.
+Geen.
 
-### Artikel 24
+### 23-1. Toelichting ad artikel 23, eerste lid
 
 [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6)
 
@@ -11702,13 +11702,13 @@ Ten slotte is in het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) opg
 
 ### 24-alg. Toelichting algemeen
 
-Geen.
+Wanneer betrokkene ervoor kiest de verklaring van verbondenheid te bevestigen met de eerste mogelijkheid, betreft de verklaring van verbondenheid de volgende woorden: ‘Ik zweer dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen.’ en eindigt met de volgende bevestiging : ‘Zo waarlijk helpe mij God almachtig’.
 
 ### 27-alg. Toelichting algemeen
 
-Geen.
+De keuze voor de eerste of tweede variant van de bevestiging van de verklaring van verbondenheid, ligt bij betrokkene. De tekst van de verklaring van verbondenheid als die van de bevestiging staat wettelijk vast en van deze tekst kan **niet** worden afgeweken.
 
-**Het vereiste van toelating en hoofdverblijf, bedoeld in artikel 6, eerste lid, onder f, is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en artikel 7, aanhef en ten eerste of ten derde, van de Wet van 12 december 1892,** **Stb. 268** **, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van artikel 15, aanhef en onder a, indien de persoon:**
+Indien de bevoegde autoriteit heeft bepaald dat de verklaring van verbondenheid schriftelijk kan worden afgelegd (zie [artikel 23, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23)), wordt de schriftelijke verklaring van verbondenheid ondertekend. Voor het schriftelijk afleggen van de verklaring van verbondenheid zijn twee modellen ontwikkeld. In model 4.1 is de verklaring van verbondenheid opgenomen die besluit met de bevestiging ‘Zo waarlijk helpe mij God almachtig’ en in model 4.2 de verklaring van verbondenheid opgenomen die besluit met ‘Dat verklaar en beloof ik’. De schriftelijk afgelegde verklaring van verbondenheid wordt door de burgemeester in het bij de gemeente aanwezige optiedossier of naturalisatiedossier gevoegd.
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -11742,13 +11742,13 @@ Vervallen.
 
 ## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
 
-### 18-alg. Toelichting algemeen
+### paragraaf 2.2. Minderjarigen tussen de 12 en 16 jaar
 
 ### 16-2-g. Toelichting ad artikel 16, tweede lid, aanhef en onder g
 
-### Artikel 23
+### 16-1-c. Toelichting ad artikel 16, eerste lid, aanhef en onder c
 
-A verkrijgt bij zijn geboorte het Nederlanderschap uitsluitend op grond van [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3). Het Brits burgerschap verkrijgt hij niet bij zijn geboorte, aangezien zijn moeder Brits burger door afstamming is.
+Na de naturalisatie van A tot Nederlander wordt zijn zoon B geboren. Zowel A als B zijn in Nederland geboren. B ontleent het Nederlanderschap zowel aan [artikel 3, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) als aan artikel 3, derde lid, RWN.
 
 ### 20-alg. Toelichting algemeen
 
@@ -11756,37 +11756,37 @@ A verkrijgt bij zijn geboorte het Nederlanderschap uitsluitend op grond van [art
 
 ### 23-2. Toelichting ad artikel 23, tweede lid
 
-In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=25), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=33), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=39), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=45) en [51 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=51) wordt nader geregeld van welke personen deze autoriteiten optieverklaringen c.q. verzoeken om naturalisatie in ontvangst mogen nemen. Daarentegen zijn alle genoemde autoriteiten bevoegd om afstandsverklaringen van ongeacht welke persoon in ontvangst te nemen.
+Zie de toelichting bij artikel 20 RWN.
 
-[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2); [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=7); [13](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=13); [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=19); [25](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=25); [33](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=33); [39](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=39); [45](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=45); [51](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=51) en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=63)
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
-De in [artikel 21 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21) bedoelde algemene maatregel van rijksbestuur is het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) (BVVN, van 15 april 2002, Stb. 2002, 231)
+Zie de toelichting bij artikel 20 RWN.
 
-Onze Ministers van Justitie van Aruba, van Curaçao en van Sint Maarten houden een openbaar register van de in het eerste lid bedoelde akten welke betrekking hebben op personen die in hun land woonachtig zijn.
+In [hoofdstuk 6 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6) is de vaststelling van het Nederlanderschap geregeld. Die vaststelling kan als volgt geschieden. Wanneer alleen de vaststelling van de nationaliteit aan de orde is, dan is in Nederland uitsluitend bevoegd de Rechtbank ’s-Gravenhage, en in Curaçao en Sint Maarten of Aruba het gemeenschappelijk Hof van Justitie van Curaçao en Sint Maarten en Aruba. Is echter reeds elders een zaak aanhangig bij een rechterlijke instantie of in een administratief beroep, waarbij mede van belang is dat het al of niet bezitten van het Nederlanderschap wordt vastgesteld, dan is een procedure voor de Haagse rechtbank of het gemeenschappelijk Hof van Justitie niet mogelijk. Iemand kan dus niet ‘twee ijzers in het vuur hebben’.
 
-### 23-1. Toelichting ad artikel 23, eerste lid
+### Artikel 21
 
-Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba hebben eveneens een openbaar register, waarin ten aanzien van de aldaar wonende personen dezelfde gegevens worden bijgehouden als die genoemd in [artikel 22, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22). De in deze bepaling bedoelde registers zijn dus zowel in Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba als bij de IND in Rijswijk, Europees Nederland aanwezig. Voor wat betreft de in voornoemde landen uitgebrachte optieverklaringen volgt dit ook uit [artikel 18, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=18) en [artikel 24, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=24).
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=7) en [9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=9)
 
 ### Artikel 22A
 
-De verklaring van verbondenheid wordt in de regel in persoon op een naturalisatieceremonie, mondeling en zonder uitzondering in het Nederlands afgelegd.
+Geen.
 
-### Artikel 22C
+### 21-alg. Toelichting algemeen
 
 ### 26-2. Toelichting ad artikel 26, tweede lid
 
-### Artikel V RRWN
+### Artikel 22B
 
 In [artikel 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b van het BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) is de wijze van afleggen van de verklaring van verbondenheid vastgesteld. Daarnaast is in voornoemde artikelen bepaald de gevallen waarin het afleggen van de verklaring niet wordt gevraagd of om redenen van redelijkheid niet gevraagd kan worden.
 
-### Artikel 25
+### Artikel 23
 
 De Nederlandse vrouw A, emigreert in 1970 samen met haar Nederlandse echtgenoot naar Canada. Haar echtgenoot krijgt in 1977 de Canadese nationaliteit door naturalisatie. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Zelf verkrijgt A de Canadese nationaliteit in 1980 door naturalisatie en verliest daardoor op grond van hetzelfde artikel het Nederlanderschap. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Haar man heeft de Canadese nationaliteit op het moment dat zij de Canadese nationaliteit verkrijgt. Ervan uitgaande dat haar man voor zijn komst naar Canada altijd in Nederland heeft gewoond, moet hij wel ten minste één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk hebben om de Nederlandse nationaliteit door bevestiging van optie te verkrijgen. Hij voldoet immers niet aan artikel 26, eerste lid, aanhef en onder a, b of c, RWN.
 
-[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikel V.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V)
+**De verklaring van verbondenheid, bedoeld in artikel 6, tweede lid, artikel 8, eerste lid onder e en artikel 11, vierde en vijfde lid, wordt afgelegd met de volgende woorden: Ik zweer (verklaar) dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer (beloof) de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen. Degene die de verklaring aflegt voegt daar ter bevestiging aan toe: Zo waarlijk helpe mij God almachtig, of: Dat verklaar en beloof ik.**
 
-Geen.
+De verklaring van verbondenheid wordt in de regel in persoon op een naturalisatieceremonie, mondeling en zonder uitzondering in het Nederlands afgelegd.
 
 ### 25-alg. Toelichting algemeen
 
@@ -11798,11 +11798,11 @@ De invoering van de Rijkswet op het Nederlanderschap op 1 januari 1985 heeft gee
 
 ### Artikel VII RRWN
 
-Daarnaast moet ook worden voldaan aan één van de onder a, b of c genoemde voorwaarden:
+In het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) is opgenomen dat de degene aan wie de bevestiging van verkrijging van het Nederlanderschap of het uittreksel van het besluit tot verlening van het Nederlanderschap in persoon wordt uitgereikt, de verklaring van verbondenheid mondeling aflegt op een door de bevoegde autoriteiten te bepalen wijze ([artikel 60a, vierde, lid BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, vierde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)) .
 
 ### VII RRWN-1. Toelichting ad artikel VII, eerste lid, RRWN
 
-WNI: artikel 5, zoals dat luidde vóór 1 maart 1964
+Ten slotte is in het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) opgenomen dat indien betrokkene vanwege zijn fysieke of psychische toestand niet in staat is om de verklaring van verbondenheid op de voorgeschreven wijze af te leggen, de bevestiging van verkrijging van het Nederlanderschap of het uittreksel van verlening van het Nederlanderschap bekend wordt gemaakt zonder dat de verklaring is afgelegd ([artikel 60a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, zesde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Het gaat hier om zeer bijzondere omstandigheden, gelegen in de fysieke of psychische omstandigheden van deze persoon.59Zie ook toelichting bij artikel 6, artikel 7, artikel 8, eerste lid, onder e, RWN.
 
 **Het vereiste van toelating en hoofdverblijf, bedoeld in artikel 6, eerste lid, onder f, is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en artikel 7, aanhef en ten eerste of ten derde, van de Wet van 12 december 1892,** **Stb. 268** **, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van artikel 15, aanhef en onder a, indien de persoon:**
 
@@ -11840,13 +11840,13 @@ Vervallen.
 
 ### paragraaf 3. Geen verlies Nederlanderschap
 
-### paragraaf 3. Geen verlies Nederlanderschap
+### paragraaf 2.2.2. Horen ouder die geen wettelijk vertegenwoordiger is over bedenkingen tegen het verlies van het Nederlanderschap van de minderjarige tussen de 12 en 16 jaar
 
-### 21-alg. Toelichting algemeen
+### Artikel 17
 
 ### 27-2. Toelichting ad artikel 27, tweede lid
 
-### 22-2. Toelichting ad [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22)
+### 20-alg. Toelichting algemeen
 
 ### 26-alg. Toelichting algemeen
 
@@ -11854,23 +11854,23 @@ Vervallen.
 
 ### V RRWN-1. Toelichting ad artikel V, eerste lid, RRWN
 
-### V RRWN-2. Toelichting ad artikel V, tweede lid, RRWN
+### 23-2. Toelichting ad artikel 23, tweede lid
 
-Geen.
+De verklaring van verbondenheid wordt bevestigd met de woorden ‘Zo waarlijk helpe mij God almachtig’ òf ‘Dat verklaar en beloof ik’.
 
-Geen.
+Wanneer betrokkene ervoor kiest de andere (neutrale) verklaring van verbondenheid te bevestigen met de tweede mogelijkheid, betreft de verklaring van verbondenheid de volgende woorden:‘ Ik verklaar dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en beloof de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen.’ en eindigt met de volgende bevestiging : ‘Dat verklaar en beloof ik’.
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6.1f](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [15.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [15A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) WNI: artikelen 5 (oud); 7.1 en 7.3
+De in [artikel 23, derde lid RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23) bedoelde algemene maatregel van bestuur is het [Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) (BVVN, van 15 april 2002, **Stb.** 2002, 231, gewijzigd bij **Stb**. 2009, 2).
 
 ### 26-1. Toelichting ad [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-### 28-1. Toelichting ad artikel 28, eerste lid
+### Artikel 24
 
-Let op! Voor 1 januari 1985 was de WNI van toepassing. Bij de beoordeling of iemand voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad moet op grond van het op dat moment geldende Nederlandse Burgerlijk Wetboek onderscheid gemaakt worden tussen het begrip meerderjarig tot 1 januari 1985 (21 jaar) en vanaf 1 januari 1985 (18 jaar).
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6)
 
 ### paragraaf 2. Overgangsregeling voor verzoeken ingediend ná inwerkingtreding van de RRWN
 
-Alleen personen die tijdens hun meerderjarigheid, dus op of na hun achttiende jaar (of als het verlies vóór 1 januari 1985 is ingetreden, op of na hun 21ste jaar), of indien zij voordien gehuwd zijn of indien zij een in Nederland geregistreerd partnerschap zijn aangegaan, of een buiten Nederland geregistreerd partnerschap zijn aangegaan als bedoeld in [artikel 1, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), de Nederlandse nationaliteit hebben verloren, vallen onder deze bepaling. Het moet bovendien gaan om:
+Geen.
 
 De oud-Nederlander die de Nederlandse nationaliteit heeft verloren op een andere grond kan geen beroep doen op dit artikel. Zo kan degene die de Nederlandse nationaliteit heeft verloren op grond van de TOI, de TOS of op grond van artikel 1, eerste lid, Verdrag van Straatsburg geen beroep doen op dit artikel. Bij het verlies op grond van artikel 1, eerste lid, Verdrag van Straatsburg gaat het om oud-Nederlanders die na 9 juni 1985 vrijwillig de nationaliteit hebben verkregen van Denemarken, Duitsland, Frankrijk, Italië, Luxemburg, Noorwegen, Oostenrijk of na 18 juni 1991 van België. Op grond van [artikel 15A, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) is er echter geen sprake van verlies op grond van artikel 1, eerste lid, Verdrag van Straatsburg als de oud-Nederlander vrijwillig de Franse of Italiaanse nationaliteit heeft verkregen terwijl hij behoorde tot de doelgroep van het Tweede Protocol.
 
@@ -11922,49 +11922,49 @@ Vervallen.
 
 ### 26-1. Toelichting ad [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-### 27-2. Toelichting ad artikel 27, tweede lid
+### 23-3. Toelichting ad artikel 23, derde lid
 
-[Artikel 26, eerste lid aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) moet als volgt worden gelezen:
+**De gevallen waarin het afleggen van de verklaring, in afwijking van artikel 6, tweede lid, 6 achtste lid, 8, eerste lid onder e, 11, vierde lid, 11 vijfde lid onder b, 26, derde lid en 28, derde lid, niet gevraagd zal worden of redelijkerwijs niet gevraagd kan worden en de wijze waarop deze verklaring kan worden afgelegd, worden bij of krachtens algemene maatregel van bestuur vastgesteld.**
 
-Geen.
+In [artikel 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b van het BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) is de wijze van afleggen van de verklaring van verbondenheid vastgesteld. Daarnaast is in voornoemde artikelen bepaald de gevallen waarin het afleggen van de verklaring niet wordt gevraagd of om redenen van redelijkheid niet gevraagd kan worden.
 
-Dit artikel heeft tot doel oud-Nederlanders die op grond van oude nationaliteitswetgeving de Nederlandse nationaliteit hebben verloren en die behoren tot een van de doelgroepen van het Tweede Protocol, gedurende een overgangstermijn van tien jaar na inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) op 1 april 2003 in de gelegenheid te stellen de Nederlandse nationaliteit op eenvoudiger wijze te herkrijgen. De personen waar het hier om gaat, wonen in het algemeen buiten het Koninkrijk. De in [artikel 6, eerste lid, aanhef en onder f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) genoemde voorwaarde, dat een optant gedurende een jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk moet hebben, wordt daarom niet gesteld. Alle overige bij optie gestelde voorwaarden en vormvereisten zijn wél van toepassing.
+Voorts is opgenomen dat de bevoegde autoriteit kan bepalen dat de betrokkene de verklaring van verbondenheid schriftelijk aflegt, indien van hem redelijkerwijs niet kan worden verlangd dat hij deze mondeling aflegt ([artikel 60a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, vijfde lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Dit geldt in elk geval voor de gevallen die in het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) reeds zijn onderkend als de gevallen waarin niet kan worden verlangd dat men de ceremonie bijwoont ([artikel 60a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b, negende lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b)). Maar ook kan het gaan om gevallen waarin de persoon in kwestie wel in staat is om de ceremonie bij te wonen, maar niet in staat is om de verklaring uit te spreken. Dan kan de verklaring van verbondenheid schriftelijk worden afgelegd, door het ondertekenen van de tekst van de verklaring (model 4.1 of model 4.2).
 
-[Artikel 26, eerste lid aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) moet als volgt worden gelezen:
+[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikel V.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V)
 
 Daarnaast moet ook worden voldaan aan één van de onder a, b of c genoemde voorwaarden:
 
-[Artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) geldt niet voor personen die uitsluitend de staat van Nederlands onderdaan-niet-Nederlander hebben bezeten.
+Geen.
 
 ### 26-2. Toelichting ad artikel 26, tweede lid
 
-### 28-2. Toelichting ad artikel 28, tweede lid
+### 25-alg. Toelichting algemeen
 
 ### 26-3. Toelichting ad [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
 **Het minderjarige niet-Nederlandse kind van de vader of moeder, die de vreemdeling is bedoeld in het eerste lid, deelt in diens verkrijging van het Nederlanderschap, indien hij in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het tweede lid van artikel 6 bedoelde bereidverklaring daadwerkelijk aflegt en jegens hem geen vermoedens bestaan als bedoeld in het vierde lid dat artikel. Het besluit tot bevestiging wordt niet bekend gemaakt dat nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Artikel 11, achtste lid, is van overeenkomstige toepassing.**
 
-Een op het moment van de bevestiging van de optie minderjarig kind van de in [artikel 26, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) bedoelde persoon hoeft evenmin in het Koninkrijk te wonen om in de optie te kunnen delen. Hetzelfde geldt voor het kind van dit kind. Alleen als het kind in de optieverklaring van de ouder wordt genoemd, deelt het in de verkrijging van het Nederlanderschap.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6.1f](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [15.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [15A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) WNI: artikelen 5 (oud); 7.1 en 7.3
 
 ### 29-alg. Toelichting algemeen
 
 Voor de procedure en de door optant te overleggen documenten geldt hetzelfde als beschreven bij [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [artikel 2 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). In aanvulling daarop geldt het volgende. De persoon die een beroep doet op deze bepaling, zal zelf moeten aantonen wanneer en op grond van welk artikel hij de Nederlandse nationaliteit heeft verloren. In een aantal gevallen zal dit al blijken uit een vermelding in de BRP. In dat geval is geen aanvullend bewijs nodig. Is de verliesgrond echter niet vermeld, dan zal de vrouw die de Nederlandse nationaliteit heeft verloren als gevolg van het door haar voor 1 maart 1964 gesloten huwelijk bijvoorbeeld een uittreksel uit het huwelijksregister kunnen tonen. In veel gevallen zal de betreffende nationaliteitswetgeving uitsluitsel geven over de vraag of de vrouw door het huwelijk van rechtswege de nationaliteit van haar echtgenoot heeft verkregen. Verlies op grond van artikel 7, aanhef ten eerste of ten derde, WNI of [artikel 15, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) kan worden aangetoond door het overleggen van het naturalisatiebesluit, een bij de naturalisatie afgegeven certificaat, een uittreksel uit een naturalisatie c.q. optieregister of een verklaring van een bevoegde instantie van het land van de huidige nationaliteit over de datum en juridische grondslag van de nationaliteitsverkrijging. De verklaring moet antwoord geven op de vraag wanneer de vreemde nationaliteit is verkregen en op grond van welke bepaling van het vreemde nationaliteitsrecht. Het is per land verschillend welke instantie(s) bevoegd is (zijn) tot het afgeven van dergelijke verklaringen. In het ene land gaat het om de griffier van een rechtbank, in het andere land om een ambtenaar van de burgerlijke stand of een afdeling van het ministerie van Binnenlandse Zaken. De optant moet daarover zelf inlichtingen inwinnen, bijvoorbeeld bij de vertegenwoordiging van zijn land in Nederland en moet – als de betreffende nationaliteitswetgeving daarover geen uitsluitsel geeft – aantonen dat de afgevende instantie daartoe bevoegd is. In veel gevallen zal de vertegenwoordiging van dat land in Nederland bevoegd zijn om een verklaring af te geven. Deze verklaring moet, als nodig, gelegaliseerd en vertaald worden. De burgemeester zal vervolgens aan de hand van het (destijds geldende) vreemde recht en het (destijds geldende) Nederlandse nationaliteitsrecht moeten bepalen of sprake is van verlies van de Nederlandse nationaliteit en zo ja, op grond van welk artikel in de WNI of de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
 
-Voor de administratieve afhandeling geldt hetzelfde als beschreven bij [artikel 6 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6).
+Dit artikel heeft tot doel oud-Nederlanders die op grond van oude nationaliteitswetgeving de Nederlandse nationaliteit hebben verloren en die behoren tot een van de doelgroepen van het Tweede Protocol, gedurende een overgangstermijn van tien jaar na inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) op 1 april 2003 in de gelegenheid te stellen de Nederlandse nationaliteit op eenvoudiger wijze te herkrijgen. De personen waar het hier om gaat, wonen in het algemeen buiten het Koninkrijk. De in [artikel 6, eerste lid, aanhef en onder f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) genoemde voorwaarde, dat een optant gedurende een jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk moet hebben, wordt daarom niet gesteld. Alle overige bij optie gestelde voorwaarden en vormvereisten zijn wél van toepassing.
 
-### 27-1. Toelichting ad artikel 27, eerste lid
+### 26-1. Toelichting ad [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-De Nederlandse jongen B verhuist in 1950 op zesjarige leeftijd met zijn Nederlandse ouders naar de Verenigde Staten van Amerika. Op veertienjarige leeftijd verkrijgt hij de Amerikaanse nationaliteit door medenaturalisatie met zijn vader. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Deze oud-Nederlander valt niet onder overgangsbepaling [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Weliswaar heeft hij de Nederlandse nationaliteit verloren op grond van artikel 7, aanhef en ten eerste, WNI en heeft hij voor zijn achttiende jaar vijf jaar onafgebroken in de Verenigde Staten van Amerika gewoond, maar hij heeft de Nederlandse nationaliteit verloren toen hij minderjarig was.
+**Het vereiste van toelating en hoofdverblijf, bedoeld in artikel 6, eerste lid, onder f, is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en artikel 7, aanhef en ten eerste of ten derde, van de Wet van 12 december 1892,** **Stb. 268** **, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van artikel 15, aanhef en onder a, indien de persoon:**
 
 ### Artikel 28
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1); [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [6.2 t/m 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11)
+[Artikel 26, eerste lid aanhef en onder b, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) moet als volgt worden gelezen:
 
 ### Artikel III RRWN
 
-Geen.
+De oud-Nederlander die de Nederlandse nationaliteit heeft verloren op een andere grond kan geen beroep doen op dit artikel. Zo kan degene die de Nederlandse nationaliteit heeft verloren op grond van de TOI, de TOS of op grond van artikel 1, eerste lid, Verdrag van Straatsburg geen beroep doen op dit artikel. Bij het verlies op grond van artikel 1, eerste lid, Verdrag van Straatsburg gaat het om oud-Nederlanders die na 9 juni 1985 vrijwillig de nationaliteit hebben verkregen van Denemarken, Duitsland, Frankrijk, Italië, Luxemburg, Noorwegen, Oostenrijk of na 18 juni 1991 van België. Op grond van [artikel 15A, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A) is er echter geen sprake van verlies op grond van artikel 1, eerste lid, Verdrag van Straatsburg als de oud-Nederlander vrijwillig de Franse of Italiaanse nationaliteit heeft verkregen terwijl hij behoorde tot de doelgroep van het Tweede Protocol.
 
-[BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656): [artikelen 1:133](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=133); [1:163.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=163); [1:253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha) en [1:183.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=183)
+Daarnaast moet ook worden voldaan aan één van de onder a, b of c genoemde voorwaarden:
 
 ### 14-2. Toelichting ad artikel 14, tweede lid, RWN
 
@@ -11976,29 +11976,29 @@ De verkrijging van het Nederlanderschap op grond van het onderhavige artikel wer
 
 ### Artikel IV RRWN
 
-[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=VI)
+Een op het moment van de bevestiging van de optie minderjarig kind van de in [artikel 26, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) bedoelde persoon hoeft evenmin in het Koninkrijk te wonen om in de optie te kunnen delen. Hetzelfde geldt voor het kind van dit kind. Alleen als het kind in de optieverklaring van de ouder wordt genoemd, deelt het in de verkrijging van het Nederlanderschap.
 
 ### IV RRWN-alg. Toelichting algemeen
 
-[BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656): [artikelen 1:133](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=133); [1:163.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=163); [1:253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha) en [1:183.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=183)
+Voor de procedure en de door optant te overleggen documenten geldt hetzelfde als beschreven bij [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [artikel 2 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). In aanvulling daarop geldt het volgende. De persoon die een beroep doet op deze bepaling, zal zelf moeten aantonen wanneer en op grond van welk artikel hij de Nederlandse nationaliteit heeft verloren. In een aantal gevallen zal dit al blijken uit een vermelding in de BRP. In dat geval is geen aanvullend bewijs nodig. Is de verliesgrond echter niet vermeld, dan zal de vrouw die de Nederlandse nationaliteit heeft verloren als gevolg van het door haar voor 1 maart 1964 gesloten huwelijk bijvoorbeeld een uittreksel uit het huwelijksregister kunnen tonen. In veel gevallen zal de betreffende nationaliteitswetgeving uitsluitsel geven over de vraag of de vrouw door het huwelijk van rechtswege de nationaliteit van haar echtgenoot heeft verkregen. Verlies op grond van artikel 7, aanhef ten eerste of ten derde, WNI of [artikel 15, aanhef en onder a, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) kan worden aangetoond door het overleggen van het naturalisatiebesluit, een bij de naturalisatie afgegeven certificaat, een uittreksel uit een naturalisatie c.q. optieregister of een verklaring van een bevoegde instantie van het land van de huidige nationaliteit over de datum en juridische grondslag van de nationaliteitsverkrijging. De verklaring moet antwoord geven op de vraag wanneer de vreemde nationaliteit is verkregen en op grond van welke bepaling van het vreemde nationaliteitsrecht. Het is per land verschillend welke instantie(s) bevoegd is (zijn) tot het afgeven van dergelijke verklaringen. In het ene land gaat het om de griffier van een rechtbank, in het andere land om een ambtenaar van de burgerlijke stand of een afdeling van het ministerie van Binnenlandse Zaken. De optant moet daarover zelf inlichtingen inwinnen, bijvoorbeeld bij de vertegenwoordiging van zijn land in Nederland en moet – als de betreffende nationaliteitswetgeving daarover geen uitsluitsel geeft – aantonen dat de afgevende instantie daartoe bevoegd is. In veel gevallen zal de vertegenwoordiging van dat land in Nederland bevoegd zijn om een verklaring af te geven. Deze verklaring moet, als nodig, gelegaliseerd en vertaald worden. De burgemeester zal vervolgens aan de hand van het (destijds geldende) vreemde recht en het (destijds geldende) Nederlandse nationaliteitsrecht moeten bepalen of sprake is van verlies van de Nederlandse nationaliteit en zo ja, op grond van welk artikel in de WNI of de [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
 
 ### Artikel V RRWN
 
-Geen.
+De Nederlandse vrouw A, emigreert in 1970 samen met haar Nederlandse echtgenoot naar Canada. Haar echtgenoot krijgt in 1977 de Canadese nationaliteit door naturalisatie. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Zelf verkrijgt A de Canadese nationaliteit in 1980 door naturalisatie en verliest daardoor op grond van hetzelfde artikel het Nederlanderschap. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Haar man heeft de Canadese nationaliteit op het moment dat zij de Canadese nationaliteit verkrijgt. Ervan uitgaande dat haar man voor zijn komst naar Canada altijd in Nederland heeft gewoond, moet hij wel ten minste één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk hebben om de Nederlandse nationaliteit door bevestiging van optie te verkrijgen. Hij voldoet immers niet aan artikel 26, eerste lid, aanhef en onder a, b of c, RWN.
 
 ### 28-1. Toelichting ad artikel 28, eerste lid
 
-De verkrijging van het Nederlanderschap op grond van het onderhavige artikel werkt terug tot de datum waarop het huwelijk is ontbonden. Dit is een uitzondering op het in [artikel 2, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2) geformuleerde beginsel dat verkrijging van het Nederlanderschap geen terugwerkende kracht heeft. Volgens Nederlands recht wordt het huwelijk onder meer ontbonden door de dood, door echtscheiding en door ontbinding van het huwelijk na scheiding van tafel en bed ([artikel 1:149 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=149)). De echtscheiding of de ontbinding van het huwelijk na scheiding van tafel en bed komt tot stand op het moment dat de beschikking wordt ingeschreven in de registers van de burgerlijke stand ([artikel 1:163, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=163) en [artikel 1:183, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=183)). In andere rechtsstelsels geldt veelal dat het huwelijk is beëindigd op een moment dat een rechterlijke uitspraak waarbij het huwelijk is ontbonden in kracht van gewijsde is gegaan.
+Een Nederlandse vrouw C trouwt in 1962 met een Italiaanse man. Zij verkrijgt als gevolg van haar huwelijk automatisch de Italiaanse nationaliteit. Zij verliest van rechtswege de Nederlandse nationaliteit op grond van artikel 5 (oud) WNI. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk, de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26).
 
-### V RRWN-1. Toelichting ad artikel V, eerste lid, RRWN
+### Artikel 27
 
-Voor de procedure en de door optant te overleggen documenten geldt hetzelfde als beschreven bij [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [artikel 2 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2). In aanvulling daarop geldt het volgende. De vrouw die een beroep doet op de onderhavige bepaling, dient zelf aan te tonen dat zij de Nederlandse nationaliteit heeft verloren door of in verband met het huwelijk. Tevens zal zij moeten aantonen dat het huwelijk is ontbonden en op welk moment dat is gebeurd. In dit verband kan zij een recent uittreksel uit een huwelijksregister overleggen; een onherroepelijk geworden rechterlijke uitspraak waaruit blijkt dat het huwelijk is ontbonden, dan wel – bij ontbinding door overlijden – een overlijdensakte van haar echtgenoot. In veel gevallen zal de betreffende nationaliteitswetgeving uitsluitsel geven over de vraag of de vrouw door het huwelijk van rechtswege de nationaliteit van haar echtgenoot heeft verkregen.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3)
 
 ### 29-alg. Toelichting algemeen
 
 Een Nederlandse vrouw is in 1963 gehuwd met een Belgische man. Op grond van de Belgische nationaliteitswetgeving heeft zij door dit huwelijk de Belgische nationaliteit verkregen. Op grond van artikel 5 WNI – zoals dat luidde tot 1 maart 1964 – heeft zij door dit huwelijk het Nederlanderschap verloren. Uit het huwelijk wordt in 1986 een kind geboren. De Belgische man is op 20 november 2002 overleden. Zij heeft op 14 oktober 2003 de optieverklaring afgelegd. In de verklaring heeft zij met het oog op medeverkrijging de naam van het kind vermeld. Op 1 december 2003 is de verklaring door de burgemeester bevestigd. Zij en het kind hebben het Nederlanderschap op 20 november 2002 verkregen.
 
-Een Nederlandse vrouw is in 1965 gehuwd met een Belgische man. Zij heeft hierdoor de Belgische nationaliteit verkregen. Zij heeft door het huwelijk niet van rechtswege de Nederlandse nationaliteit verloren (artikel 5 WNI (oud) is per 1 maart 1964 vervallen). Zij heeft in 1966 het Nederlanderschap verworpen teneinde eenheid van nationaliteit tussen haar en haar man te bewerkstelligen. In januari 2003 is in Nederland de echtscheiding uitgesproken en op 5 februari 2003 is de echtscheidingsbeschikking ingeschreven in de registers van de burgerlijke stand. De vrouw kan tot 5 februari 2004 een schriftelijke verklaring afleggen om het Nederlanderschap te herkrijgen. Als zij dat doet, verkrijgt zij het Nederlanderschap met ingang van 5 februari 2003.
+Bij de tot 1 januari 2005 geldende redactie van [artikel 27, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=27), viel strikt genomen het kind dat werd geboren op 1 april 2003 niet onder de werking van artikel 27, tweede lid RWN, dat op die dag in werking was getreden. Pas een kind geboren op 2 april 2003 (of daarna) viel onder de redactie van het op 1 april 2003 gewijzigde artikel. Dit is nimmer de bedoeling geweest, en met de wetswijziging is dit rechtgezet.
 
 E, van Nederlandse en Australische nationaliteit, geboren in 1960 in Australië, woont sedert 10 februari 1987 in Australië. E is laatstelijk op 5 augustus 1991 in het bezit gesteld van een Nederlands paspoort. Op 10 februari 1997 heeft hij zijn Nederlanderschap verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers tien jaar in zijn geboorteland, waarvan hij tevens de nationaliteit bezit).
 
@@ -12006,15 +12006,15 @@ E, van Nederlandse en Australische nationaliteit, geboren in 1960 in Australië,
 
 G, geboren op 10 januari 1967 in Zuid-Afrika, van Nederlandse en Zuid-Afrikaanse nationaliteit, woont sedert zijn geboorte in Zuid-Afrika. Op 15 maart 1994 wordt G in het bezit gesteld van een Nederlands paspoort. Op 10 januari 1995 verliest G zijn Nederlanderschap op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers na zijn meerderjarigheid gedurende tien jaren in het land waarin hij is geboren en waarvan hij eveneens de nationaliteit bezit). Op 1 februari 1995 emigreert G naar Australië, waar hij op 20 december 2000 wordt genaturaliseerd tot Australiër.
 
-RWN: [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1); [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [6.2 t/m 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11)
 
 ### Artikel III RRWN
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4); [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5); [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2); [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3); [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3) en [6.1 t/m 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)
 
 ### VI RRWN-alg. Toelichting algemeen
 
-Op grond van [artikel 14, derde lid Regeling verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&artikel=14) (RvvN) worden de tijdvakken van toelating in de Nederlandse Antillen, gelegen voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](https://wetten.overheid.nl/jci1.3:c:BWBR0028128), in aanmerking genomen als ware het toelating in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba.
+WNI: artikel 5, zoals dat luidde vóór 1 maart 1964
 
 ### Artikel II RRWN
 
@@ -12026,11 +12026,11 @@ Op grond van [artikel 14, derde lid Regeling verkrijging en verlies Nederlanders
 
 ### Artikel III RRWN
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4); [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5); [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
+Geeft de betreffende nationaliteitswetgeving daaromtrent geen uitsluitsel of blijkt uit die nationaliteitswetgeving dat de vrouw door het huwelijk niet van rechtswege de nationaliteit van haar echtgenoot heeft verkregen, dan dient de verkrijging van die andere nationaliteit te worden aangetoond door bijvoorbeeld een naturalisatiebesluit, een bij naturalisatie afgegeven certificaat, een uittreksel uit het nationaliteitenregister of een verklaring van een bevoegde instantie van het land van de huidige nationaliteit over de datum en de juridische grondslag van de nationaliteitsverkrijging. De verklaring moet antwoord geven op de vraag wanneer de vreemde nationaliteit is verkregen en op grond van welke bepaling van het nationaliteitsrecht. Uit die gegevens kan (mede) worden afgeleid of het Nederlanderschap is verloren door of in verband met het huwelijk. Het is per land verschillend welke instantie(s) bevoegd is (zijn) tot het afgeven van dergelijke verklaringen. In het ene land gaat het bijvoorbeeld om een griffier van een rechtbank, in het andere land om een ambtenaar van de burgerlijke stand of een afdeling van het ministerie van Binnenlandse Zaken. Betrokkene dient daarover zelf inlichtingen in te winnen bij bijvoorbeeld de vertegenwoordiging van haar land in Nederland en dient – indien de betreffende nationaliteitswetgeving daarover geen uitsluitsel geeft – aan te tonen dat de afgevende instantie daartoe bevoegd is. In veel gevallen zal de vertegenwoordiging van haar land in Nederland bevoegd zijn om de verklaring af te geven. Deze verklaring dient, indien nodig, te worden gelegaliseerd en vertaald. De circulaire legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen, alsmede de toepassing van DNA-onderzoek in een aantal gevallen waarin bewijsstukken ontbreken van 15 mei 2006 is van toepassing.
 
 ### paragraaf 2. Overgangsregeling voor verzoeken ingediend ná inwerkingtreding van de RRWN
 
-Vreemdelingen kunnen niet altijd onmiddellijk een verzoek om naturalisatie indienen bij de gemeente, bijvoorbeeld omdat zij daartoe eerst een afspraak bij de gemeente moeten maken en pas op een latere datum door de gemeente worden uitgenodigd om een verzoek om naturalisatie in te dienen. Om te voorkomen dat vreemdelingen, die zich nog vóór de inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) bij de gemeente hebben gemeld voor het indienen van een verzoek om naturalisatie, door dit gemeentelijk afsprakensysteem zouden worden geconfronteerd met de nieuwe regelgeving, geldt de volgende overgangsregeling op grond van [artikel 73, eerste lid, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=73) (zie ook de toelichting bij artikel 73 BVVN):
+Een Nederlandse vrouw is in 1965 gehuwd met een Belgische man. Zij heeft hierdoor de Belgische nationaliteit verkregen. Zij heeft door het huwelijk niet van rechtswege de Nederlandse nationaliteit verloren (artikel 5 WNI (oud) is per 1 maart 1964 vervallen). Zij heeft in 1966 het Nederlanderschap verworpen teneinde eenheid van nationaliteit tussen haar en haar man te bewerkstelligen. In januari 2003 is in Nederland de echtscheiding uitgesproken en op 5 februari 2003 is de echtscheidingsbeschikking ingeschreven in de registers van de burgerlijke stand. De vrouw kan tot 5 februari 2004 een schriftelijke verklaring afleggen om het Nederlanderschap te herkrijgen. Als zij dat doet, verkrijgt zij het Nederlanderschap met ingang van 5 februari 2003.
 
 Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 14, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is onder meer van belang in verband met het gestelde in de tweede en derde zin van artikel 14, tweede lid, RWN. Daar is bepaald, dat geen verlies van het Nederlanderschap intreedt indien de andere ouder Nederlander is op het tijdstip van het vervallen van de familierechtelijke betrekking of dat was ten tijde van zijn overlijden en dat evenmin verlies intreedt indien het kind het Nederlanderschap ook ontleent aan [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) of aan artikel 2, aanhef en onder a, WNI. Deze uitzonderingen op de hoofdregel van artikel 14, tweede lid, RWN zijn pas sedert 1 april 2003 in dat artikel van de RWN opgenomen.
 
@@ -12076,47 +12076,47 @@ Vervallen.
 
 ### 26-3. Toelichting ad [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-De Nederlandse vrouw A, emigreert in 1970 samen met haar Nederlandse echtgenoot naar Canada. Haar echtgenoot krijgt in 1977 de Canadese nationaliteit door naturalisatie. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Zelf verkrijgt A de Canadese nationaliteit in 1980 door naturalisatie en verliest daardoor op grond van hetzelfde artikel het Nederlanderschap. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Haar man heeft de Canadese nationaliteit op het moment dat zij de Canadese nationaliteit verkrijgt. Ervan uitgaande dat haar man voor zijn komst naar Canada altijd in Nederland heeft gewoond, moet hij wel ten minste één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk hebben om de Nederlandse nationaliteit door bevestiging van optie te verkrijgen. Hij voldoet immers niet aan artikel 26, eerste lid, aanhef en onder a, b of c, RWN.
+Geen.
 
-### Artikel 27
+### Artikel 26
 
-Een kind dat ten tijde van het afleggen van de optieverklaring zestien jaar of ouder is, deelt alleen in de verkrijging als het daarmee uitdrukkelijk instemt en zich bereid heeft verklaart bij de verkrijging van het Nederlanderschap de verklaring van verbondenheid af te leggen. De instemming van het kind moet blijken uit [model 1.9 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-04-01&g=2020-04-01). De bereidheid van de medeoptanten van zestien of zeventien jaar tot het afleggen van de verklaring van verbondenheid wordt met het formulier ‘Bereidverklaring afleggen verklaring van verbondenheid’ (model 1.36 HRWN) vastgelegd op het moment dat de optieverklaring wordt afgelegd. Als blijkt dat tegen hem ernstige vermoedens bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk, wordt de bevestiging ten aanzien van het kind geweigerd.
+Geen.
 
-### 27-alg. Toelichting algemeen
+### 26-alg. Toelichting algemeen
 
 De Nederlandse vrouw A, emigreert in 1970 samen met haar Nederlandse echtgenoot naar Canada. Haar echtgenoot krijgt in 1977 de Canadese nationaliteit door naturalisatie. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Zelf verkrijgt A de Canadese nationaliteit in 1980 door naturalisatie en verliest daardoor op grond van hetzelfde artikel het Nederlanderschap. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Haar man heeft de Canadese nationaliteit op het moment dat zij de Canadese nationaliteit verkrijgt. Ervan uitgaande dat haar man voor zijn komst naar Canada altijd in Nederland heeft gewoond, moet hij wel ten minste één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk hebben om de Nederlandse nationaliteit door bevestiging van optie te verkrijgen. Hij voldoet immers niet aan artikel 26, eerste lid, aanhef en onder a, b of c, RWN.
 
 ### 27-2. Toelichting ad artikel 27, tweede lid
 
-Een Nederlandse vrouw C trouwt in 1962 met een Italiaanse man. Zij verkrijgt als gevolg van haar huwelijk automatisch de Italiaanse nationaliteit. Zij verliest van rechtswege de Nederlandse nationaliteit op grond van artikel 5 (oud) WNI. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk, de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26).
+Let op! Voor 1 januari 1985 was de WNI van toepassing. Bij de beoordeling of iemand voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad moet op grond van het op dat moment geldende Nederlandse Burgerlijk Wetboek onderscheid gemaakt worden tussen het begrip meerderjarig tot 1 januari 1985 (21 jaar) en vanaf 1 januari 1985 (18 jaar).
 
 ### Artikel 27
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3)
+Alleen personen die tijdens hun meerderjarigheid, dus op of na hun achttiende jaar (of als het verlies vóór 1 januari 1985 is ingetreden, op of na hun 21ste jaar), of indien zij voordien gehuwd zijn of indien zij een in Nederland geregistreerd partnerschap zijn aangegaan, of een buiten Nederland geregistreerd partnerschap zijn aangegaan als bedoeld in [artikel 1, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), de Nederlandse nationaliteit hebben verloren, vallen onder deze bepaling. Het moet bovendien gaan om:
 
 ### Artikel III RRWN
 
-Bij de tot 1 januari 2005 geldende redactie van [artikel 27, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=27), viel strikt genomen het kind dat werd geboren op 1 april 2003 niet onder de werking van artikel 27, tweede lid RWN, dat op die dag in werking was getreden. Pas een kind geboren op 2 april 2003 (of daarna) viel onder de redactie van het op 1 april 2003 gewijzigde artikel. Dit is nimmer de bedoeling geweest, en met de wetswijziging is dit rechtgezet.
+[Artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) geldt niet voor personen die uitsluitend de staat van Nederlands onderdaan-niet-Nederlander hebben bezeten.
 
-### 27-1. Toelichting ad artikel 27, eerste lid
+### 26-2. Toelichting ad artikel 26, tweede lid
 
-Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 14, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is onder meer van belang in verband met het gestelde in de tweede en derde zin van artikel 14, tweede lid, RWN. Daar is bepaald, dat geen verlies van het Nederlanderschap intreedt indien de andere ouder Nederlander is op het tijdstip van het vervallen van de familierechtelijke betrekking of dat was ten tijde van zijn overlijden en dat evenmin verlies intreedt indien het kind het Nederlanderschap ook ontleent aan [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) of aan artikel 2, aanhef en onder a, WNI. Deze uitzonderingen op de hoofdregel van artikel 14, tweede lid, RWN zijn pas sedert 1 april 2003 in dat artikel van de RWN opgenomen.
+Ingevolge deze bepaling kunnen oud-Nederlanders die voldoen aan de voorwaarden van [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) tot en met 31 maart 2013 een beroep doen op het onderhavige artikel.
 
-### Artikel 28
+### 26-3. Toelichting ad [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26)
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1); [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2); [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [6.2 t/m 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11) en [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11)
+**Het minderjarige niet-Nederlandse kind van de vader of moeder, die de vreemdeling is bedoeld in het eerste lid, deelt in diens verkrijging van het Nederlanderschap, indien hij in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het tweede lid van artikel 6 bedoelde bereidverklaring daadwerkelijk aflegt en jegens hem geen vermoedens bestaan als bedoeld in het vierde lid dat artikel. Het besluit tot bevestiging wordt niet bekend gemaakt dat nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Artikel 11, achtste lid, is van overeenkomstige toepassing.**
 
 ### Artikel IV RRWN
 
-[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2); [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3); [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3) en [6.1 t/m 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=6)
+Een kind dat ten tijde van het afleggen van de optieverklaring zestien jaar of ouder is, deelt alleen in de verkrijging als het daarmee uitdrukkelijk instemt en zich bereid heeft verklaart bij de verkrijging van het Nederlanderschap de verklaring van verbondenheid af te leggen. De instemming van het kind moet blijken uit [model 1.9 HRWN](https://wetten.overheid.nl/jci1.3:c:BWBW33099&bijlage=1&z=2020-05-07&g=2020-05-07). De bereidheid van de medeoptanten van zestien of zeventien jaar tot het afleggen van de verklaring van verbondenheid wordt met het formulier ‘Bereidverklaring afleggen verklaring van verbondenheid’ (model 1.36 HRWN) vastgelegd op het moment dat de optieverklaring wordt afgelegd. Als blijkt dat tegen hem ernstige vermoedens bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk, wordt de bevestiging ten aanzien van het kind geweigerd.
 
 ### IV RRWN-alg. Toelichting algemeen
 
-WNI: artikel 5, zoals dat luidde vóór 1 maart 1964
+Voor de administratieve afhandeling geldt hetzelfde als beschreven bij [artikel 6 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6).
 
 ### 28-2. Toelichting ad artikel 28, tweede lid
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
+De Nederlandse jongen B verhuist in 1950 op zesjarige leeftijd met zijn Nederlandse ouders naar de Verenigde Staten van Amerika. Op veertienjarige leeftijd verkrijgt hij de Amerikaanse nationaliteit door medenaturalisatie met zijn vader. Hij verliest daardoor de Nederlandse nationaliteit op grond van artikel 7, aanhef en ten eerste, WNI. Deze oud-Nederlander valt niet onder overgangsbepaling [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26). Weliswaar heeft hij de Nederlandse nationaliteit verloren op grond van artikel 7, aanhef en ten eerste, WNI en heeft hij voor zijn achttiende jaar vijf jaar onafgebroken in de Verenigde Staten van Amerika gewoond, maar hij heeft de Nederlandse nationaliteit verloren toen hij minderjarig was.
 
 ### Artikel 29
 
@@ -12124,27 +12124,27 @@ De verkrijging van het Nederlanderschap werkt ook terug voor de in de optieverkl
 
 ### V RRWN-1. Toelichting ad artikel V, eerste lid, RRWN
 
-Geeft de betreffende nationaliteitswetgeving daaromtrent geen uitsluitsel of blijkt uit die nationaliteitswetgeving dat de vrouw door het huwelijk niet van rechtswege de nationaliteit van haar echtgenoot heeft verkregen, dan dient de verkrijging van die andere nationaliteit te worden aangetoond door bijvoorbeeld een naturalisatiebesluit, een bij naturalisatie afgegeven certificaat, een uittreksel uit het nationaliteitenregister of een verklaring van een bevoegde instantie van het land van de huidige nationaliteit over de datum en de juridische grondslag van de nationaliteitsverkrijging. De verklaring moet antwoord geven op de vraag wanneer de vreemde nationaliteit is verkregen en op grond van welke bepaling van het nationaliteitsrecht. Uit die gegevens kan (mede) worden afgeleid of het Nederlanderschap is verloren door of in verband met het huwelijk. Het is per land verschillend welke instantie(s) bevoegd is (zijn) tot het afgeven van dergelijke verklaringen. In het ene land gaat het bijvoorbeeld om een griffier van een rechtbank, in het andere land om een ambtenaar van de burgerlijke stand of een afdeling van het ministerie van Binnenlandse Zaken. Betrokkene dient daarover zelf inlichtingen in te winnen bij bijvoorbeeld de vertegenwoordiging van haar land in Nederland en dient – indien de betreffende nationaliteitswetgeving daarover geen uitsluitsel geeft – aan te tonen dat de afgevende instantie daartoe bevoegd is. In veel gevallen zal de vertegenwoordiging van haar land in Nederland bevoegd zijn om de verklaring af te geven. Deze verklaring dient, indien nodig, te worden gelegaliseerd en vertaald. De circulaire legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen, alsmede de toepassing van DNA-onderzoek in een aantal gevallen waarin bewijsstukken ontbreken van 15 mei 2006 is van toepassing.
+Geen.
 
-### V RRWN-2. Toelichting ad artikel V, tweede lid, RRWN
+### 27-alg. Toelichting algemeen
 
-RvvN: [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&artikel=14)
+[RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=VI)
 
 ### 29-alg. Toelichting algemeen
 
-Op grond van dit artikel telt de periode van hoofdverblijf die vóór 10 oktober 2010 is doorgebracht in de toenmalige Nederlandse Antillen mee bij de vraag of wordt voldaan aan de vereiste termijn van hoofdverblijf in het land Curaçao, het land Sint Maarten, het land Aruba en in de openbare lichamen Bonaire, Saba en Sint Eustatius.
+[BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656): [artikelen 1:133](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=133); [1:163.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=163); [1:253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha) en [1:183.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=183)
 
 ### 14-2. Toelichting ad artikel 14, tweede lid, RWN
 
-Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 14, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is onder meer van belang in verband met het gestelde in de tweede en derde zin van artikel 14, tweede lid, RWN. Daar is bepaald, dat geen verlies van het Nederlanderschap intreedt indien de andere ouder Nederlander is op het tijdstip van het vervallen van de familierechtelijke betrekking of dat was ten tijde van zijn overlijden en dat evenmin verlies intreedt indien het kind het Nederlanderschap ook ontleent aan [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) of aan artikel 2, aanhef en onder a, WNI. Deze uitzonderingen op de hoofdregel van artikel 14, tweede lid, RWN zijn pas sedert 1 april 2003 in dat artikel van de RWN opgenomen.
+Geen.
 
-### 16-2. Toelichting ad artikel 16, tweede lid, onder a, b, c en d, RWN
+### 28-1. Toelichting ad artikel 28, eerste lid
 
-Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is vooral van belang in verband met het gestelde onder b, c en d van bedoeld tweede lid, waar is geregeld dat in bepaalde uitzonderingsgevallen geen verlies van het Nederlanderschap, als bedoeld in [artikel 16, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) intreedt. De onder b, c en d genoemde uitzonderingen op de hoofdregel van artikel 16, eerste lid, RWN zijn pas sedert 1 april 2003 in het tweede lid van artikel 16 RWN opgenomen.
+De verkrijging van het Nederlanderschap op grond van het onderhavige artikel werkt terug tot de datum waarop het huwelijk is ontbonden. Dit is een uitzondering op het in [artikel 2, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2) geformuleerde beginsel dat verkrijging van het Nederlanderschap geen terugwerkende kracht heeft. Volgens Nederlands recht wordt het huwelijk onder meer ontbonden door de dood, door echtscheiding en door ontbinding van het huwelijk na scheiding van tafel en bed ([artikel 1:149 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=149)). De echtscheiding of de ontbinding van het huwelijk na scheiding van tafel en bed komt tot stand op het moment dat de beschikking wordt ingeschreven in de registers van de burgerlijke stand ([artikel 1:163, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=163) en [artikel 1:183, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=183)). In andere rechtsstelsels geldt veelal dat het huwelijk is beëindigd op een moment dat een rechterlijke uitspraak waarbij het huwelijk is ontbonden in kracht van gewijsde is gegaan.
 
 ### IV RRWN-alg. Toelichting algemeen
 
-WNI: artikel 2.a
+Een Nederlandse vrouw is in 1963 gehuwd met een Belgische man. Op grond van de Belgische nationaliteitswetgeving heeft zij door dit huwelijk de Belgische nationaliteit verkregen. Op grond van artikel 5 WNI – zoals dat luidde tot 1 maart 1964 – heeft zij door dit huwelijk het Nederlanderschap verloren. Uit het huwelijk wordt in 1986 een kind geboren. De Belgische man is op 20 november 2002 overleden. Zij heeft op 14 oktober 2003 de optieverklaring afgelegd. In de verklaring heeft zij met het oog op medeverkrijging de naam van het kind vermeld. Op 1 december 2003 is de verklaring door de burgemeester bevestigd. Zij en het kind hebben het Nederlanderschap op 20 november 2002 verkregen.
 
 ### 14-2. Toelichting ad artikel 14, tweede lid, RWN
 
@@ -12152,43 +12152,43 @@ WNI: artikel 2.a
 
 ## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
 
-### 22-2. Toelichting ad [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=22)
+### Artikel 19
 
 Ingevolge deze bepaling kunnen oud-Nederlanders die voldoen aan de voorwaarden van [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) tot en met 31 maart 2013 een beroep doen op het onderhavige artikel.
 
-Een Nederlandse vrouw C trouwt in 1962 met een Italiaanse man. Zij verkrijgt als gevolg van haar huwelijk automatisch de Italiaanse nationaliteit. Zij verliest van rechtswege de Nederlandse nationaliteit op grond van artikel 5 (oud) WNI. Deze vrouw kan, mits tegen haar geen ernstige vermoedens bestaan dat zij gevaar oplevert voor de openbare orde, de goede zeden of de veiligheid van het Koninkrijk, de Nederlandse nationaliteit herkrijgen door bevestiging van optie. Tussen 1 april 2003 en 1 april 2013 hoeft zij daarvoor niet één jaar toelating voor onbepaalde tijd en hoofdverblijf in het Koninkrijk te hebben. Zij voldoet immers aan de voorwaarde genoemd in [artikel 26, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26).
+De invoering van de Rijkswet op het Nederlanderschap op 1 januari 1985 heeft geen verandering gebracht in de nationaliteitsrechtelijke positie van personen die het Nederlanderschap hebben verkregen op grond van eerder geldende wettelijke regelingen. Met andere woorden, personen die onmiddellijk vóór 1 januari 1985 Nederlander waren, zijn dat op 1 januari 1985 gebleven. Het onderhavige artikel bepaalt dat deze personen Nederlander zijn in de zin van de RWN.
 
-### 28-2. Toelichting ad artikel 28, tweede lid
+### 27-1. Toelichting ad artikel 27, eerste lid
 
-### Artikel 29
+### Artikel 28
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
+Voor de procedure en de door optant te overleggen documenten geldt hetzelfde als beschreven bij [artikel 6, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) en [artikel 2 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2). In aanvulling daarop geldt het volgende. De vrouw die een beroep doet op de onderhavige bepaling, dient zelf aan te tonen dat zij de Nederlandse nationaliteit heeft verloren door of in verband met het huwelijk. Tevens zal zij moeten aantonen dat het huwelijk is ontbonden en op welk moment dat is gebeurd. In dit verband kan zij een recent uittreksel uit een huwelijksregister overleggen; een onherroepelijk geworden rechterlijke uitspraak waaruit blijkt dat het huwelijk is ontbonden, dan wel – bij ontbinding door overlijden – een overlijdensakte van haar echtgenoot. In veel gevallen zal de betreffende nationaliteitswetgeving uitsluitsel geven over de vraag of de vrouw door het huwelijk van rechtswege de nationaliteit van haar echtgenoot heeft verkregen.
 
-### 16-2. Toelichting ad artikel 16, tweede lid, onder a, b, c en d, RWN
+### 28-3. Toelichting ad artikel 28, derde lid
 
 Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is vooral van belang in verband met het gestelde onder b, c en d van bedoeld tweede lid, waar is geregeld dat in bepaalde uitzonderingsgevallen geen verlies van het Nederlanderschap, als bedoeld in [artikel 16, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) intreedt. De onder b, c en d genoemde uitzonderingen op de hoofdregel van artikel 16, eerste lid, RWN zijn pas sedert 1 april 2003 in het tweede lid van artikel 16 RWN opgenomen.
 
 ### Artikel IV RRWN
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
+RvvN: [artikel 14.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&artikel=14)
 
-### IV RRWN-alg. Toelichting algemeen
+### 29-alg. Toelichting algemeen
 
-Ingevolge [artikel IV, eerste lid, RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) vangt de verliestermijn van tien jaren uit [artikel 15, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) niet eerder aan dan op 1 april 2003. Dit betekent, dat pas op 1 april 2013 voor de eerste maal verlies van het Nederlanderschap kan intreden op grond van artikel 15, eerste lid, aanhef en onder c, RWN.
+Op grond van dit artikel telt de periode van hoofdverblijf die vóór 10 oktober 2010 is doorgebracht in de toenmalige Nederlandse Antillen mee bij de vraag of wordt voldaan aan de vereiste termijn van hoofdverblijf in het land Curaçao, het land Sint Maarten, het land Aruba en in de openbare lichamen Bonaire, Saba en Sint Eustatius.
 
-E, van Nederlandse en Australische nationaliteit, geboren in 1960 in Australië, woont sedert 10 februari 1987 in Australië. E is laatstelijk op 5 augustus 1991 in het bezit gesteld van een Nederlands paspoort. Op 10 februari 1997 heeft hij zijn Nederlanderschap verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers tien jaar in zijn geboorteland, waarvan hij tevens de nationaliteit bezit).
+Op grond van [artikel 14, derde lid Regeling verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&artikel=14) (RvvN) worden de tijdvakken van toelating in de Nederlandse Antillen, gelegen voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](https://wetten.overheid.nl/jci1.3:c:BWBR0028128), in aanmerking genomen als ware het toelating in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 [RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
-G, geboren op 10 januari 1967 in Zuid-Afrika, van Nederlandse en Zuid-Afrikaanse nationaliteit, woont sedert zijn geboorte in Zuid-Afrika. Op 15 maart 1994 wordt G in het bezit gesteld van een Nederlands paspoort. Op 10 januari 1995 verliest G zijn Nederlanderschap op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers na zijn meerderjarigheid gedurende tien jaren in het land waarin hij is geboren en waarvan hij eveneens de nationaliteit bezit). Op 1 februari 1995 emigreert G naar Australië, waar hij op 20 december 2000 wordt genaturaliseerd tot Australiër.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 6.1f](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6); [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) en [14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14)
 
 Aangezien de verliestermijn van het oude [artikel 15, onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) ingevolge [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) (oud) niet eerder kan zijn aangevangen dan op 1 januari 1985, heeft inmiddels sedert 1 januari 1995 een fors aantal personen het Nederlanderschap verloren als gevolg van tienjarig verblijf in het land van geboorte, waarvan men tevens de nationaliteit bezit. [Artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) biedt wat dat betreft een reparatiemogelijkheid. Deze optiemogelijkheid tot herkrijging van het Nederlanderschap eindigde op 31 maart 2005.
 
-G wordt dus door de werking van artikel V, tweede lid, RRWN weliswaar hersteld in zijn Nederlanderschap, doch slechts tot 20 december 2000, op welke datum voor hem de verliesbepaling van artikel 15, aanhef en onder a, RWN, van toepassing is geworden. Na inwerkingtreding van de overige bepalingen van de RRWN kan G het Nederlanderschap niet herkrijgen door optie ingevolge artikel V, eerste lid, RRWN, omdat hij geacht wordt zijn Nederlanderschap niet te hebben verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN; hij heeft het verloren op grond van artikel 15, aanhef en onder a, RWN.
+Indien vóór inwerkingtreding van [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) (nieuw) de naturalisatie heeft plaatsgevonden, werkt intrekking van het Nederlanderschap nooit verder terug dan de datum van inwerkingtreding van de herziene RWN (1 april 2003). Aldus bepaalt [artikel II RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=II). Een besluit tot intrekking van het Nederlanderschap heeft geen rechtsgevolg ten aanzien van de periode vóór 1 april 2003. Met andere woorden, na intrekking van het Nederlanderschap wordt betrokkene geacht dat hij tot 1 april 2003 wél in het bezit is geweest van de Nederlandse nationaliteit, en na deze datum niet meer.
 
-### Artikel VI RRWN
+### Artikel III RRWN
 
-[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3); [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4); [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5); [14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16)
 
 ### VI RRWN-alg. Toelichting algemeen
 
@@ -12200,7 +12200,7 @@ G, geboren op 10 januari 1967 in Zuid-Afrika, van Nederlandse en Zuid-Afrikaanse
 
 ### VII RRWN-1. Toelichting ad artikel VII, eerste lid, RRWN
 
-### VII RRWN-2. Toelichting ad artikel VII, tweede lid, RRWN
+### Artikel IV RRWN
 
 ### Artikel VI RRWN
 
@@ -12210,7 +12210,7 @@ G, geboren op 10 januari 1967 in Zuid-Afrika, van Nederlandse en Zuid-Afrikaanse
 
 Vrouwen die vóór 1 maart 1964 het Nederlanderschap hebben verloren door of ten gevolge van het huwelijk met een niet-Nederlander, konden tot 1 april 2003 een beroep doen op de Rijkswet betrekking hebbende op gehuwde en gehuwd geweest zijnde vrouwen van 14 november 1963 (Stb. 467). Op grond van voornoemde wet konden deze vrouwen onder voorwaarden het Nederlanderschap herkrijgen door het afleggen van een optieverklaring. Het onderhavige artikel bepaalt dat de Rijkswet van 14 november 1963 wordt ingetrokken.
 
-[Artikel VII, tweede lid RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=VII), nodig om de onmiddellijke toepassing van de nieuwe eis van [artikel 8 lid 1 en onder c RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) op de reeds ingediende verzoeken tegen te gaan, is in oktober 2001 in de wettekst opgenomen. De twee redenen om de voorwaarden van de naturalisatietoets en ‘toelating en hoofdverblijf’ niet van toepassing te willen laten zijn op voor 1 april 2003 ingediende naturalisatieverzoeken op voor 1 april 2003 ingediende naturalisatieverzoeken staan in de memorie van toelichting (Tweede Kamer, 2001-2002, 2839, nr. 3). Het betreft grote rechtsonzekerheid bij degenen die al een naturalisatieverzoek hadden ingediend en grotere werklast voor de administratie – lees: Immigratie- en Naturalisatiedienst (IND). Hoewel artikel VII, tweede lid RRWN niet uitdrukkelijk de naturalisatieverzoeken noemt die worden ingediend op grond van de [leden 3, 4 en 5 van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), moet het overgangsrecht met betrekking tot ‘toelating en hoofdverblijf’ ook van toepassing worden geacht op die verzoeken.
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikelen 11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11); [15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) en [24.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=24)
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -12240,15 +12240,15 @@ Vervallen.
 
 ## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
 
-### 21-alg. Toelichting algemeen
+### 18-alg. Toelichting algemeen
 
 ### 26-alg. Toelichting algemeen
 
 ### 27-alg. Toelichting algemeen
 
-### 28-3. Toelichting ad artikel 28, derde lid
+### 27-2. Toelichting ad artikel 27, tweede lid
 
-Indien vóór inwerkingtreding van [artikel 14, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) (nieuw) de naturalisatie heeft plaatsgevonden, werkt intrekking van het Nederlanderschap nooit verder terug dan de datum van inwerkingtreding van de herziene RWN (1 april 2003). Aldus bepaalt [artikel II RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=II). Een besluit tot intrekking van het Nederlanderschap heeft geen rechtsgevolg ten aanzien van de periode vóór 1 april 2003. Met andere woorden, na intrekking van het Nederlanderschap wordt betrokkene geacht dat hij tot 1 april 2003 wél in het bezit is geweest van de Nederlandse nationaliteit, en na deze datum niet meer.
+De verkrijging van het Nederlanderschap werkt ook terug voor de in de optieverklaring vermelde kinderen van de vrouw die delen in de verkrijging. Kinderen geboren vóór de datum van ontbinding van het huwelijk delen op grond van [artikel 28, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28) in de verkrijging door de moeder. Bij deze kinderen werkt de verkrijging – net als bij de moeder – terug tot op de datum van de ontbinding van het huwelijk. Daarnaast delen deze kinderen alleen, indien zij tot dat doel in de optieverklaring en in de daarop volgende bevestiging zijn vermeld.
 
 ### Artikel V RRWN
 
@@ -12260,13 +12260,111 @@ De optiemogelijkheid tot herkrijging van het Nederlanderschap zoals neergelegd i
 
 ### V RRWN-2. Toelichting ad artikel V, tweede lid, RRWN
 
-F, geboren in 1962 in Australië, heeft op 1 januari 1995 zijn Nederlanderschap verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN. Aan hem is laatstelijk op 10 augustus 1992 een Nederlands paspoort afgegeven. Als gevolg van voormeld verlies heeft zijn zoon G, geboren in 1993, op grond van het oude artikel 16, eerste lid, aanhef en onder c, RWN eveneens op 1 januari 1995 het Nederlanderschap verloren. Zoon H, geboren in 1996, verkreeg bij geboorte niet het Nederlanderschap (geen van de ouders was toen Nederlander). F is in 1998 overleden. Hij bezat uitsluitend de Australische nationaliteit.
+WNI: artikel 2.a
+
+Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 14, tweede lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is onder meer van belang in verband met het gestelde in de tweede en derde zin van artikel 14, tweede lid, RWN. Daar is bepaald, dat geen verlies van het Nederlanderschap intreedt indien de andere ouder Nederlander is op het tijdstip van het vervallen van de familierechtelijke betrekking of dat was ten tijde van zijn overlijden en dat evenmin verlies intreedt indien het kind het Nederlanderschap ook ontleent aan [artikel 3, derde lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3) of aan artikel 2, aanhef en onder a, WNI. Deze uitzonderingen op de hoofdregel van artikel 14, tweede lid, RWN zijn pas sedert 1 april 2003 in dat artikel van de RWN opgenomen.
+
+Ingevolge [artikel III RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III) heeft [artikel 16, tweede lid, aanhef en onder a, b, c en d, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), zoals die bepaling luidt sedert 1 april 2003, terugwerkende kracht tot 1 januari 1985. Dit is vooral van belang in verband met het gestelde onder b, c en d van bedoeld tweede lid, waar is geregeld dat in bepaalde uitzonderingsgevallen geen verlies van het Nederlanderschap, als bedoeld in [artikel 16, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) intreedt. De onder b, c en d genoemde uitzonderingen op de hoofdregel van artikel 16, eerste lid, RWN zijn pas sedert 1 april 2003 in het tweede lid van artikel 16 RWN opgenomen.
+
+G wordt dus door de werking van artikel V, tweede lid, RRWN weliswaar hersteld in zijn Nederlanderschap, doch slechts tot 20 december 2000, op welke datum voor hem de verliesbepaling van artikel 15, aanhef en onder a, RWN, van toepassing is geworden. Na inwerkingtreding van de overige bepalingen van de RRWN kan G het Nederlanderschap niet herkrijgen door optie ingevolge artikel V, eerste lid, RRWN, omdat hij geacht wordt zijn Nederlanderschap niet te hebben verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN; hij heeft het verloren op grond van artikel 15, aanhef en onder a, RWN.
+
+### Artikel VII RRWN
+
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 8.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) en [8.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8); [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8) en [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8)[BNT](https://wetten.overheid.nl/jci1.3:c:BWBR0013604): [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=7)[BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605): [artikelen 34.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=34); [36.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=36) en [73.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=73)
+
+### VII RRWN-1. Toelichting ad artikel VII, eerste lid, RRWN
+
+### V RRWN-1. Toelichting ad artikel V, eerste lid, RRWN
+
+### Paragraaf 1. Verzoeken ingediend vóór inwerkingtreding van de [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) (1 april 2003)
+
+Deze toelichting is vervallen in 2014.
+
+### paragraaf 2. Overgangsregeling voor verzoeken ingediend ná inwerkingtreding van de RRWN
+
+E, van Nederlandse en Australische nationaliteit, geboren in 1960 in Australië, woont sedert 10 februari 1987 in Australië. E is laatstelijk op 5 augustus 1991 in het bezit gesteld van een Nederlands paspoort. Op 10 februari 1997 heeft hij zijn Nederlanderschap verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers tien jaar in zijn geboorteland, waarvan hij tevens de nationaliteit bezit).
 
 Bij inwerkingtreding van artikel V, tweede lid, RRWN op 1 februari 2001 wordt E geacht zijn Nederlanderschap niet te hebben verloren, aangezien aan hem na 1 januari 1990 een Nederlands paspoort is verstrekt. Hebben minderjarige kinderen van E op grond van het oude [artikel 16, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16) tegelijk met hem het Nederlanderschap verloren, dan worden ook die kinderen geacht het Nederlanderschap niet te hebben verloren. Of de kinderen inmiddels (na het aanvankelijke verlies van het Nederlanderschap) meerderjarig zijn geworden speelt geen rol.
+
+## Bijlage 1. Modellen behorende bij de optieprocedure
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+## Bijlage 2. Modellen behorende bij de naturalisatieprocedure
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+Vervallen.
+
+## Bijlage 3. Modellen met betrekking tot bezit en afstand van het Nederlanderschap
+
+### 17-alg. Toelichting algemeen
+
+### 24-alg. Toelichting algemeen
+
+### Artikel 25
+
+### 28-2. Toelichting ad artikel 28, tweede lid
+
+### Artikel 29
+
+RWN: [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=1), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
+
+### Artikel II RRWN
+
+### II RRWN-alg. Toelichting algemeen
+
+### 14-2. Toelichting ad artikel 14, tweede lid, RWN
+
+### 16-2. Toelichting ad artikel 16, tweede lid, onder a, b, c en d, RWN
+
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 15.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15)
+
+### IV RRWN-alg. Toelichting algemeen
+
+Ingevolge [artikel IV, eerste lid, RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) vangt de verliestermijn van tien jaren uit [artikel 15, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) niet eerder aan dan op 1 april 2003. Dit betekent, dat pas op 1 april 2013 voor de eerste maal verlies van het Nederlanderschap kan intreden op grond van artikel 15, eerste lid, aanhef en onder c, RWN.
+
+### Artikel V RRWN
+
+### V RRWN-alg. Toelichting Algemeen
+
+Aangezien de verliestermijn van het oude [artikel 15, onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) ingevolge [artikel 26 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=26) (oud) niet eerder kan zijn aangevangen dan op 1 januari 1985, heeft inmiddels sedert 1 januari 1995 een fors aantal personen het Nederlanderschap verloren als gevolg van tienjarig verblijf in het land van geboorte, waarvan men tevens de nationaliteit bezit. [Artikel V RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) biedt wat dat betreft een reparatiemogelijkheid. Deze optiemogelijkheid tot herkrijging van het Nederlanderschap eindigde op 31 maart 2005.
+
+De optiemogelijkheid tot herkrijging van het Nederlanderschap zoals neergelegd in [artikel V, eerste lid, RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) eindigde op 31 maart 2005.
+
+### V RRWN-2. Toelichting ad artikel V, tweede lid, RRWN
+
+F, geboren in 1962 in Australië, heeft op 1 januari 1995 zijn Nederlanderschap verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN. Aan hem is laatstelijk op 10 augustus 1992 een Nederlands paspoort afgegeven. Als gevolg van voormeld verlies heeft zijn zoon G, geboren in 1993, op grond van het oude artikel 16, eerste lid, aanhef en onder c, RWN eveneens op 1 januari 1995 het Nederlanderschap verloren. Zoon H, geboren in 1996, verkreeg bij geboorte niet het Nederlanderschap (geen van de ouders was toen Nederlander). F is in 1998 overleden. Hij bezat uitsluitend de Australische nationaliteit.
+
+G, geboren op 10 januari 1967 in Zuid-Afrika, van Nederlandse en Zuid-Afrikaanse nationaliteit, woont sedert zijn geboorte in Zuid-Afrika. Op 15 maart 1994 wordt G in het bezit gesteld van een Nederlands paspoort. Op 10 januari 1995 verliest G zijn Nederlanderschap op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN (hij woont dan immers na zijn meerderjarigheid gedurende tien jaren in het land waarin hij is geboren en waarvan hij eveneens de nationaliteit bezit). Op 1 februari 1995 emigreert G naar Australië, waar hij op 20 december 2000 wordt genaturaliseerd tot Australiër.
 
 Bij inwerkingtreding van artikel V, tweede lid, RRWN op 1 februari 2001 wordt G geacht zijn Nederlanderschap niet op 10 januari 1995 te hebben verloren, omdat aan hem na 1 januari 1990 een Nederlands paspoort is verstrekt. G moet dan ook geacht worden Nederlander te zijn geweest ten tijde van zijn naturalisatie tot Australiër op 20 december 2000. Dat heeft weer tot gevolg dat hij door die naturalisatie zijn Nederlanderschap heeft verloren op grond van artikel 15, aanhef en onder a, RWN.
 
 G wordt dus door de werking van artikel V, tweede lid, RRWN weliswaar hersteld in zijn Nederlanderschap, doch slechts tot 20 december 2000, op welke datum voor hem de verliesbepaling van artikel 15, aanhef en onder a, RWN, van toepassing is geworden. Na inwerkingtreding van de overige bepalingen van de RRWN kan G het Nederlanderschap niet herkrijgen door optie ingevolge artikel V, eerste lid, RRWN, omdat hij geacht wordt zijn Nederlanderschap niet te hebben verloren op grond van de verliesbepaling van het oude artikel 15, aanhef en onder c, RWN; hij heeft het verloren op grond van artikel 15, aanhef en onder a, RWN.
+
+### Artikel VI RRWN
+
+[RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738): [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28)
+
+### VI RRWN-alg. Toelichting algemeen
+
+Vrouwen die vóór 1 maart 1964 het Nederlanderschap hebben verloren door of ten gevolge van het huwelijk met een niet-Nederlander, konden tot 1 april 2003 een beroep doen op de Rijkswet betrekking hebbende op gehuwde en gehuwd geweest zijnde vrouwen van 14 november 1963 (Stb. 467). Op grond van voornoemde wet konden deze vrouwen onder voorwaarden het Nederlanderschap herkrijgen door het afleggen van een optieverklaring. Het onderhavige artikel bepaalt dat de Rijkswet van 14 november 1963 wordt ingetrokken.
 
 ### Artikel VII RRWN
 
