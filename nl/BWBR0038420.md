@@ -4,7 +4,7 @@ identifier: "BWBR0038420"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-08"
-last_updated: "2020-01-01"
+last_updated: "2020-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038420"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Aan de andere leden van het College voor de toelating van gewasbeschermingsmidde
 
 ##### Artikel 3
 
-Aan de plaatsvervangende leden van het College voor de toelating van gewasbeschermingsmiddelen en biociden, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld overeenkomstig het maximum van schaal 18 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn en de arbeidsduurfactor op 0,1.
+Aan de plaatsvervangende leden van het College voor de toelating van gewasbeschermingsmiddelen en biociden, wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld overeenkomstig het maximum van schaal 18 als overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn en de arbeidsduurfactor op 0,2.
 
 ##### Artikel 4
 
