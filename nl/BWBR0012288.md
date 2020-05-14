@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2020-05-12"
+last_updated: "2020-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -241,7 +241,7 @@ De IND verstrekt een nieuw W-document, indien de IND aan de vreemdeling een nieu
 
 Het verloop van de grensprocedure is geregeld in [artikel 3, derde tot en met achtste lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) en [artikel 3.109b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109b). In de grensprocedure worden de [artikelen 3.109](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109) en [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112) overeenkomstig toegepast, tenzij anders is bepaald.
 
-Het verloop van de grensprocedure is geregeld in [artikel 3, derde tot en met achtste lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) en [artikel 3.109b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109b). In de grensprocedure worden de [artikelen 3.109](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109) en [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112) overeenkomstig toegepast, tenzij anders is bepaald.
+Het verloop van de grensprocedure is geregeld in [artikel 3, derde tot en met zevende lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) en artikel [3.109b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109b). In de grensprocedure worden de [artikelen 3.109](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109) en [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112) overeenkomstig toegepast, tenzij anders is bepaald.
 
 In artikel 3.109 Vb is de rust- en voorbereidingstermijn beschreven. Conform artikel 3.109b, tweede lid Vb kan in de grensprocedure een kortere rust- en voorbereidingstermijn dan zes dagen gelden. De vreemdeling neemt het initiatief hiertoe, waarna in samenspraak met de IND de duur van de rust- en voorbereidingstermijn wordt bepaald. De IND heeft een inspanningsverplichting om volgens het verzoek van de vreemdeling te handelen. De rust- en voorbereidingstermijn is niet van toepassing als de grensprocedure wordt doorlopen terwijl de vreemdeling op strafrechtelijke gronden zijn vrijheid is ontnomen of een gevaar vormt voor de openbare orde of nationale veiligheid (zie paragraaf C1/2.2 onder a).
 
@@ -251,25 +251,25 @@ In ieder geval in de volgende situaties zal reeds na het eerste gehoor geconclud
 
 Indien de IND concludeert dat de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet binnen de grensprocedure verder kan worden behandeld, dan wordt van rechtswege de toegang verleend en de vrijheidsontnemende maatregel bedoeld in [artikel 6, derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), opgeheven. De IND meldt de vreemdeling uiterlijk om 18.00 uur aan bij het COA ten behoeve van de uitplaatsing. De behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd zal in dit geval worden opgeschort en verder worden behandeld in de algemene asielprocedure of de verlengde asielprocedure. De IND bepaalt in overleg met de gemachtigde van de vreemdeling, wanneer en op welke locatie de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd zal worden voortgezet. Daarbij geldt als uitgangspunt dat de opschorting een week duurt.
 
-Indien de IND de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd binnen de grensprocedure afwijst, dan legt de bevoegde ambtenaar van de IND middels beschikking [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19) een nieuwe vrijheidsontnemende maatregel op als bedoeld in artikel 6, eerste en twee lid juncto het zesde lid, Vw. De IND motiveert in de beschikking model M19 of:
+Nadat de in [paragraaf A5/3.1](onbekend) onder het kopje **Vrijheidsontneming op grond van artikel 6, derde lid, Vw** onder a tot en met e genoemde situaties niet langer aan de orde zijn, neemt de ambtenaar belast met de grensbewaking zo spoedig mogelijk een besluit omtrent weigering van de toegang. Daarnaast legt de bevoegde ambtenaar middels [model M19](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19) of [M19A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M19A) een nieuwe vrijheidsontnemende maatregel op krachtens artikel 6, eerste en tweede lid juncto het zesde lid, Vw dan wel [artikel 6a, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6a).
 
-Indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de grensprocedure niet in behandeling wordt genomen, dan wordt de vrijheidsontnemende maatregel krachtens [artikel 6a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6a) voortgezet.
-
-Op grond van artikel 3, zesde lid, Vw geldt de beschikking waarbij een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de grensprocedure niet in behandeling wordt genomen, niet-ontvankelijk wordt verklaard of wordt afgewezen als kennelijk ongegrond, tevens als toegangsweigering als bedoeld in artikel 14 SGC (zie [A1/7.3](onbekend)).
+Het nemen van een besluit omtrent weigering van de toegang en opleggen van de nieuwe maatregel dient plaats te vinden binnen twee dagen nadat de in paragraaf A5/3.1 onder het kopje **Vrijheidsontneming op grond van artikel 6, derde lid, Vw** onder a tot en met e genoemde situaties niet langer aan de orde zijn. De IND motiveert in de beschikking model M19 of M19A:
 
 De IND bepaalt tijdens de grensprocedure of de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd verder wordt behandeld binnen de grensprocedure onder voortzetting van de vrijheidsontnemende maatregel bedoeld in artikel 6 Vw.
 
-Als de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet afgerond kan worden binnen de termijnen van de algemene asielprocedure, kan de IND de behandeling voortzetten indien het vermoeden bestaat dat de aanvraag zal worden afgedaan met toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) en [30b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) en de behandeling naar verwachting binnen de termijn als bedoeld in artikel 3, zevende lid, Vw kan worden afgerond. In [artikel 3.118, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118) is bepaald dat de termijn voor het indienen van een zienswijze in dit geval een week bedraagt.
+Als de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet afgerond kan worden binnen de termijnen van de algemene asielprocedure, kan de IND de behandeling voortzetten indien het vermoeden bestaat dat de aanvraag zal worden afgedaan met toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) en [30b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) en de behandeling naar verwachting binnen de termijn als bedoeld in artikel 3, zesde lid, Vw kan worden afgerond. In [artikel 3.118, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118) is bepaald dat de termijn voor het indienen van een zienswijze in dit geval een week bedraagt.
 
 Dit doet zich onder andere voor indien er nader onderzoek noodzakelijk is naar:
 
+Dit kan onder andere door middel van:
+
 ### 2.5. Eerste- en nader gehoor
 
-De IND moet de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de grensprocedure voortvarend behandelen.
+Indien duidelijk is dat de aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet binnen de termijn zoals bedoeld in artikel 3, zesde lid, Vw kan worden afgedaan, verkrijgt de vreemdeling van rechtswege toegang tot Nederland en wordt de vrijheidsontnemende maatregel ex. artikel 6, derde lid, Vw opgeheven.
 
-Indien duidelijk is dat de aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet binnen de termijn zoals bedoeld in artikel 3, zevende lid, Vw kan worden afgedaan, verkrijgt de vreemdeling van rechtswege toegang tot Nederland en wordt de vrijheidsontnemende maatregel ex. artikel 6, derde lid, Vw opgeheven.
+Indien de vreemdeling de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd intrekt, neemt de ambtenaar belast met de grensbewaking zo spoedig mogelijk een besluit omtrent weigering van de toegang als bedoeld in artikel 14 juncto artikel 6 SGC ([model M17](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M17)). Na het nemen van dit besluit, legt de bevoegde ambtenaar middels beschikking model M19 of M19A een nieuwe vrijheidsontnemende maatregel op krachtens artikel 6, eerste en tweede lid Vw dan wel artikel 6a Vw. Het nemen van een besluit omtrent weigering van de toegang en het opleggen van deze nieuwe maatregel dient plaats te vinden binnen twee dagen na intrekking van de aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd.
 
-Indien de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid, terwijl de aanvraag niet binnen de termijn zoals bedoeld in artikel 3, zevende lid, Vw kan worden afgedaan, stelt de bevoegde ambtenaar van de IND de vreemdeling aansluitend in bewaring op grond van artikel 59b, Vw of verzoekt de IND aan de ambtenaar belast met het toezicht op vreemdelingen, zijnde de Hulpofficier van Justitie, de vreemdeling aansluitend in bewaring te stellen op grond van artikel 59b, Vw. Hiervan is in ieder geval sprake indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mogelijk met toepassing van artikel 1F Vluchtelingenverdrag kan worden afgewezen (zie [paragraaf A5/6.3 Vc](onbekend)).
+Indien de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid, terwijl de aanvraag niet binnen de termijn zoals bedoeld in artikel 3, zesde lid, Vw kan worden afgedaan, stelt de bevoegde ambtenaar van de IND de vreemdeling aansluitend in bewaring op grond van artikel 59b, Vw of verzoekt de IND aan de ambtenaar belast met het toezicht op vreemdelingen, zijnde de Hulpofficier van Justitie, de vreemdeling aansluitend in bewaring te stellen op grond van artikel 59b, Vw. Hiervan is in ieder geval sprake indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mogelijk met toepassing van artikel 1F Vluchtelingenverdrag kan worden afgewezen (zie [paragraaf A5/6.3 Vc](onbekend)).
 
 [Artikel 30, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30) en [artikel 3.109c Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c) regelen het verloop van de Dublinprocedure. Deze paragraaf bevat een verdere uitwerking van deze artikelen.
 
@@ -5099,7 +5099,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 ### 2.5. Eerste- en nader gehoor
 
-Dit kan onder andere door middel van:
+De IND moet de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de grensprocedure voortvarend behandelen.
 
 ### 2.7. De procedure veilig land van herkomst of bescherming in een andere EU-lidstaat
 
