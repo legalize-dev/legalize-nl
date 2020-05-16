@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2019-12-05"
+last_updated: "2020-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 - d. handvuurwapens en aanverwante uitrusting, uitsluitend bedoeld voor gebruik in internationaal geleide patrouilles ten behoeve van de beveiliging in het Sangha River Tri–national Protected Area alsmede voor gebruik door gewapende wildopzichters van het Chinko Project of het nationaal park Bamingui-Bangoran ter bestrijding van stropen, smokkel van ivoor en wapens, en ter bestrijding van andere activiteiten die in strijd zijn met de nationale wetten of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, uitsluitend bedoeld ter ondersteuning van of voor gebruik in het kader van de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek en ten behoeve van de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, militaire voertuigen zonder wapens en militaire voertuigen met daarop gemonteerde wapens met een kaliber van 14,5 mm of minder aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, componenten en voertuigen uitsluitend bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
