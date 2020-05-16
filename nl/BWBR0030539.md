@@ -4,7 +4,7 @@ identifier: "BWBR0030539"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-05-16"
-last_updated: "2017-01-01"
+last_updated: "2020-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030539"
 soort: "zbo"
@@ -59,7 +59,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Toepasbaarheid
 
-Het bepaalde in deze regeling is van toepassing op alle subsidies die het bestuur verstrekt, tenzij in een deelregeling wordt afgeweken van hetgeen in onderhavige regeling bepaald is.
+1. Het bepaalde in deze regeling is van toepassing op alle subsidies die het bestuur verstrekt, tenzij in een deelregeling wordt afgeweken van hetgeen in onderhavige regeling bepaald is.
+
+2. Het bestuur kan bepalingen in de door hem vastgestelde subsidieregelingen buiten toepassing laten of daarvan afwijken, indien de onverkorte toepassing van deze bepalingen, gelet op de gevolgen voor subsidieontvangers van de uitbraak van het Coronavirus en de maatregelen ter bestrijding ervan, zou leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 4. Kring van aanvragers
 
