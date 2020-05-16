@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2019-11-20"
+last_updated: "2020-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van de Europese Unie van 19 februari 2004 inzake bepaalde beperkende maatregelen tegen Zimbabwe (Pb EG L 55).
+1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van 19 februari 2004 inzake beperkende maatregelen in het licht van de situatie in Zimbabwe (Pb EG L 55).
 
 2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 4bis, 5 of 7 van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
 
