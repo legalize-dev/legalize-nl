@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2020-05-05"
+last_updated: "2020-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2020-05-05&g=2020-05-05) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2020-05-19&g=2020-05-19) van de Regeling maximumprijzen geneesmiddelen
 
 | Productgroep |   | Maximumprijs |
 | --- | --- | --- |
@@ -3003,7 +3003,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 22527 | Diltiazem hcl mylan retard capsule mga 180mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0,219169 per stuk |
+| DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.222817 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100833 | Diltiazem hcl mylan retard capsule mga 200mg |   |
 | 16538 | Tildiem xr capsule mga 200mg |   |
@@ -3012,7 +3012,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 22528 | Diltiazem hcl mylan retard capsule mga 240mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0,260744 per stuk |
+| DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.265276 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 109448 | Diltiazem hcl teva retard capsule mga 300mg |   |
 | 16539 | Tildiem xr capsule mga 300mg |   |
@@ -4234,7 +4234,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 111310 | Flecainideacetaat sandoz retard capsule mva 200mg |   |
 | 27134 | Tambocor cr capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUCLOXACILLIN-1000-MG-POED. V. INJECTIE, FLACON | FLUCLOXACILLIN-1000-MG-POED. V. INJECTIE, FLACON | 4,080523 per stuk |
+| FLUCLOXACILLIN-1000-MG-POED. V. INJECTIE, FLACON | FLUCLOXACILLIN-1000-MG-POED. V. INJECTIE, FLACON | 4.308758 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 57442 | Flucloxacilline cf injectiepoeder flacon 1000mg |   |
 | 5990 | Floxapen injectiepoeder flacon 1000mg |   |
