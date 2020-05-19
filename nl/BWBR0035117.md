@@ -4,7 +4,7 @@ identifier: "BWBR0035117"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-09-01"
-last_updated: "2020-05-16"
+last_updated: "2020-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035117"
 soort: "beleidsregel"
@@ -70,7 +70,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 ##### Artikel 4
 
-1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-16) wordt beoordeeld aan de hand van:
+1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-19) wordt beoordeeld aan de hand van:
 
 - a. het bredere maatschappelijke economisch belang van de vergunningaanvraag, en
 
@@ -90,7 +90,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 ##### Artikel 5
 
-1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-16) wordt getoetst aan een bij de marktvraag aansluitend frequentiebeleid dat met het oog op gezonde concurrentieverhoudingen wordt gevoerd. In het kader van dat frequentiebeleid wordt capaciteit uitgedrukt in het aantal frequenties, ongeacht het type toestel.
+1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-19) wordt getoetst aan een bij de marktvraag aansluitend frequentiebeleid dat met het oog op gezonde concurrentieverhoudingen wordt gevoerd. In het kader van dat frequentiebeleid wordt capaciteit uitgedrukt in het aantal frequenties, ongeacht het type toestel.
 
 2. Indien sprake is van codeshare:
 
@@ -104,11 +104,11 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 1. Op het verlenen van een vergunning als bedoeld in [artikel 3 van het Besluit ongeregeld luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&artikel=3) voor het uitvoeren van ongeregeld luchtvervoer zijn de in deze paragraaf opgenomen beleidsregels van toepassing.
 
-2. [Artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-16), is van overeenkomstige toepassing op het verlenen van een vergunning als bedoeld in het eerste lid.
+2. [Artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-19), is van overeenkomstige toepassing op het verlenen van een vergunning als bedoeld in het eerste lid.
 
 ##### Artikel 7
 
-1. De vergunning, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-05-19&g=2020-05-16), wordt verleend aan een niet in Nederland gevestigde EU-luchtvaartmaatschappij, indien Nederland met het land van afkomst van de desbetreffende luchtvaartmaatschappij een reciprociteitsverklaring heeft afgesloten.
+1. De vergunning, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-05-19&g=2020-05-19), wordt verleend aan een niet in Nederland gevestigde EU-luchtvaartmaatschappij, indien Nederland met het land van afkomst van de desbetreffende luchtvaartmaatschappij een reciprociteitsverklaring heeft afgesloten.
 
 2. Indien geen sprake is van een reciprociteitsverklaring wordt te allen tijde de luchtvaartpolitieke relatie met het desbetreffende land van afkomst betrokken bij de beoordeling van de vergunningaanvraag.
 
@@ -118,17 +118,17 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 5. Bij de toekenning van een vergunning wordt, behoudens politieke restricties, zo min mogelijk in de markt geïntervenieerd.
 
-6. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=4&z=2020-05-19&g=2020-05-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=5&z=2020-05-19&g=2020-05-16) zijn van overeenkomstige toepassing.
+6. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=4&z=2020-05-19&g=2020-05-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=5&z=2020-05-19&g=2020-05-19) zijn van overeenkomstige toepassing.
 
 7. In afwijking van het zesde lid wordt een aanvraag van een in Nederland gevestigde EU- luchtvaartmaatschappij voor het uitvoeren van ongeregeld luchtvervoer naar derde landen geheel ten behoeve van vracht toegestaan.
 
 ##### Artikel 8
 
-1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=4&z=2020-05-19&g=2020-05-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=5&z=2020-05-19&g=2020-05-16) zijn van overeenkomstige toepassing op de aanvraag voor een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-05-19&g=2020-05-16) door een niet in de EU gevestigde luchtvaartmaatschappij.
+1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=4&z=2020-05-19&g=2020-05-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=5&z=2020-05-19&g=2020-05-19) zijn van overeenkomstige toepassing op de aanvraag voor een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-05-19&g=2020-05-19) door een niet in de EU gevestigde luchtvaartmaatschappij.
 
 2. Te allen tijde wordt de luchtvaartpolitieke relatie met het land van afkomst van de desbetreffende luchtvaartmaatschappij betrokken bij de beoordeling van de vergunningaanvraag; reciprociteit is daarbij een belangrijk uitgangspunt.
 
-3. [Artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-16), is van overeenkomstige toepassing op het uitvoeren van zevende vrijheidsvervoer naar, via of vanuit Nederland.
+3. [Artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-05-19&g=2020-05-19), is van overeenkomstige toepassing op het uitvoeren van zevende vrijheidsvervoer naar, via of vanuit Nederland.
 
 ##### Artikel 9
 
@@ -158,7 +158,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **COVID-19:** de ziekte die wordt veroorzaakt door het virus SARS-CoV-2.
 
-2. In afwijking van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-05-19&g=2020-05-16), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=8&z=2020-05-19&g=2020-05-16), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=9&z=2020-05-19&g=2020-05-16), kan tijdelijk vergunning worden verleend voor ongeregeld vervoer van passagiers en vracht, voor zover dat vervoer noodzakelijk is voor:
+2. In afwijking van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-05-19&g=2020-05-19), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=8&z=2020-05-19&g=2020-05-19), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=9&z=2020-05-19&g=2020-05-19), kan tijdelijk vergunning worden verleend voor ongeregeld vervoer van passagiers en vracht, voor zover dat vervoer noodzakelijk is voor:
 
 - a. de repatriëring van personen waarvoor naar aanleiding van de COVID-19 uitbraak op grond van Nederlandse regelgeving en EU-besluitvorming vergunning is verleend;
 
@@ -172,10 +172,10 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. niet EU-luchtvaartmaatschappijen.
 
-4. In afwijking van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-05-19&g=2020-05-16), en met inachtneming van de complexiteit van de aanvraag kan een aanvraag voor een vergunning als bedoeld in het tweede lid, tot uiterlijk een dag voor de uitvoer van het vervoer worden gedaan en afgehandeld.
+4. In afwijking van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-05-19&g=2020-05-19), en met inachtneming van de complexiteit van de aanvraag kan een aanvraag voor een vergunning als bedoeld in het tweede lid, tot uiterlijk een dag voor de uitvoer van het vervoer worden gedaan en afgehandeld.
 
 5. De vergunning als bedoeld in het tweede lid wordt voor ten hoogste vier weken verleend met de mogelijkheid tot verlenging.
 
-6. Dit artikel geldt tot en met 15 mei 2020, tenzij de Minister gelet op de ontwikkelingen rond COVID-19 voor dat tijdstip tot verlenging heeft besloten.
+6. Dit artikel geldt tot 15 juni 2020, tenzij de Minister gelet op de ontwikkelingen rond COVID-19 voor dat tijdstip tot verlenging heeft besloten.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
