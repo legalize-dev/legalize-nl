@@ -4,7 +4,7 @@ identifier: "BWBR0043554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-20"
-last_updated: "2019-10-17"
+last_updated: "2020-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043554"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - a). **minister:** de Minister van Justitie en Veiligheid;
 
-- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043554&artikel=2&z=2020-05-20&g=2019-10-17).
+- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043554&artikel=2&z=2020-05-20&g=2020-05-20).
 
 ##### Artikel 2. Instelling en taak
 
