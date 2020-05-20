@@ -4,7 +4,7 @@ identifier: "BWBR0039438"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-06-03"
-last_updated: "2020-05-07"
+last_updated: "2020-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039438"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - b. **contractant:** degene die met de minister in het kader van deze regeling een contract sluit;
 
@@ -56,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - e. **particuliere opslag:** tegen ontvangen van steun tijdelijk door de contractant opslaan van in artikel 17 van [Verordening 1308/2013](32013R1308) genoemde producten;
 
-- f. **NVWA:** Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;
+- f. **NVWA:** Nederlandse Voedsel- en Warenautoriteit;
 
 - g. **COKZ:** Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-- h. **RIKILT:** RIKILT – Instituut voor Voedselveiligheid, Wageningen UR;
+- h. **WFSR:** Wageningen Food Safety Research;
 
 - i. **Verordening 1308/2013:** Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EEG) nr. 922/72](31972R0922), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PbEU 2013, L 347);
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als bevoegde autoriteit of bevoegde instantie als bedoeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=1&artikel=1&z=2020-05-20&g=2020-05-07) genoemde verordeningen wordt aangewezen de minister.
+Als bevoegde autoriteit of bevoegde instantie als bedoeld in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=1&artikel=1&z=2020-05-20&g=2020-05-20) genoemde verordeningen wordt aangewezen de minister.
 
 ##### Artikel 3
 
@@ -90,7 +90,7 @@ Als bevoegde autoriteit of bevoegde instantie als bedoeld in de in [artikel 1](h
 
 ##### Artikel 4
 
-1. Indien uit een van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=1&artikel=1&z=2020-05-20&g=2020-05-07) genoemde verordeningen voortvloeit dat een met marktinterventie verband houdende handeling met boter respectievelijk mageremelkpoeder slechts mag plaatsvinden door een erkend bedrijf, verleent de minister deze erkenning nadat de belanghebbende daartoe een aanvraag heeft ingediend en heeft aangetoond dat aan de in bijlage IV, deel III, punt 1, respectievelijk bijlage V, deel III, punt 1, van [Verordening 2016/1238](33138R2016) gestelde voorwaarden is voldaan.
+1. Indien uit een van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=1&artikel=1&z=2020-05-20&g=2020-05-20) genoemde verordeningen voortvloeit dat een met marktinterventie verband houdende handeling met boter, mageremelkpoeder respectievelijk kaas slechts mag plaatsvinden door een erkend bedrijf, verleent de minister deze erkenning nadat de belanghebbende daartoe een aanvraag heeft ingediend en heeft aangetoond dat aan de in bijlage IV, deel III, punt 1, respectievelijk bijlage V, deel III, punt 1, van [Verordening 2016/1238](33138R2016) gestelde voorwaarden is voldaan.
 
 2. Een erkenning is geldig vanaf de datum van afgifte.
 
@@ -98,9 +98,13 @@ Als bevoegde autoriteit of bevoegde instantie als bedoeld in de in [artikel 1](h
 
 ##### Artikel 5
 
-1. Als laboratorium voor keuring en voor herkeuring worden RIKILT en COKZ aangewezen.
+1. Als laboratorium voor keuring en voor herkeuring worden WFSR en COKZ aangewezen.
 
 2. De minister wijst op verzoek van het laboratorium voor herkeuring een ander laboratorium voor herkeuring aan indien het eerste laboratorium voor herkeuring niet tot het verrichten van de benodigde analyses is uitgerust.
+
+3. Indien producten niet voldoen aan de voorwaarden van openbare interventie, bedoeld in artikel 3, tweede lid, van [Verordening 2016/1238](33138R2016), betaalt de aanbieder aan de minister de analysekosten van de eerste keuring, de eventuele kosten van herkeuring en een forfait voor de transportkosten van de herkeuring. Indien het product niet in aanmerking komt voor overname in openbare interventie, neemt de aanbieder het betreffende product binnen 14 kalenderdagen na de datum van het afwijzingsbericht terug of slaat dit voor eigen rekening en risico separaat van de interventievoorraad op.
+
+4. Indien producten niet voldoen aan de voorwaarden voor particuliere opslag, bedoeld in artikel 3, derde lid, van [Verordening 2016/1238](33138R2016), dan betaalt de aanbieder bij herkeuring de kosten van de herkeuring en een forfait voor de transportkosten van de herkeuring.
 
 #### Paragraaf 4. Openbare interventie
 
@@ -152,6 +156,10 @@ Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoerings
 
 2. De minister staat, overeenkomstig artikel 53, tweede lid, van [Verordening 2016/1240](33140R2016), voor boter en mageremelkpoeder de uitslag van een kleinere hoeveelheid dan de volledige partij toe, waarbij tenminste 1.000 kg wordt uitgeslagen.
 
+3. De minister staat, overeenkomstig artikel 53, tweede lid, van [Verordening 2016/1240](33140R2016), voor kaas de uitslag van een kleinere hoeveelheid dan de volledige partij toe, waarbij tenminste 500 kg wordt uitgeslagen.
+
+4. De in artikel 53, derde lid, van [Verordening 2016/1240](33140R2016) bedoelde gegevens moeten uiterlijk de tweede werkdag voorafgaand aan de uitslag om 10.00 uur worden verstrekt.
+
 ##### Artikel 13
 
 Bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpallet, op een duidelijk zichtbare plaats een label aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet of boxpallet en de datum van fysieke inslag worden vermeld.
@@ -164,15 +172,17 @@ Bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpal
 
 - –. voor boter een gewichtsaanduiding tot op de tien gram nauwkeurig waarop een doos met een inhoud van 25 kilogram gewogen kan worden;
 
+- –. voor kaas een gewichtsaanduiding tot op de tien gram nauwkeurig waarop een eenheid met een inhoud van 25 kilogram gewogen kan worden;
+
 - –. voor mageremelkpoeder een gewichtsaanduiding tot op de tien gram nauwkeurig waarop een zak met een inhoud van 25 kilogram gewogen kan worden;
 
 - –. voor mageremelkpoeder in big bags een gewichtsaanduiding tot op de 200 gram nauwkeurig waarop een big bag met een maximaal gewicht van 1.500 kilogram gewogen kan worden;
 
-- –. voor varkens- en rundvlees een afleeseenheid op 1 kilogram nauwkeurig waarop een opslageenheid als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=7&artikel=17&z=2020-05-20&g=2020-05-07), in zijn geheel gewogen kan worden, en
+- –. voor varkens-, rund-, schapen- en geitenvlees een afleeseenheid op 1 kilogram nauwkeurig waarop een opslageenheid als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=7&artikel=19&z=2020-05-20&g=2020-05-20), in zijn geheel gewogen kan worden, en
 
 - b. een bemonsteringsruimte.
 
-2. De houder van het opslagpand kan de minister verzoeken om boter, kaas, mageremelkpoeder, varkensvlees of rundvlees in stellingen te mogen opslaan onder de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&bijlage=1&z=2020-05-20&g=2020-05-07) vermelde voorwaarden die na de inslagcontrole door de minister worden verzegeld.
+2. De houder van het opslagpand kan de minister verzoeken om boter, kaas, mageremelkpoeder, varkens-, rund-, schapen- of geitenvlees in stellingen te mogen opslaan onder de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&bijlage=1&z=2020-05-20&g=2020-05-20) vermelde voorwaarden die na de inslagcontrole door de minister worden verzegeld.
 
 3. De in het tweede lid bedoelde aanvraag wordt ingediend bij de minister met gebruikmaking van een door de minister ter beschikking gesteld middel.
 
@@ -180,7 +190,7 @@ Bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpal
 
 ##### Artikel 15
 
-Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien alle partijen, waarvoor het contract is gesloten, in hetzelfde bedrijf zijn geproduceerd.
+Boter, mageremelkpoeder en kaas komen voor particuliere opslag in aanmerking indien alle partijen, waarvoor het contract is gesloten, in hetzelfde bedrijf zijn geproduceerd.
 
 ##### Artikel 16
 
@@ -200,9 +210,7 @@ Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien al
 
 1. Iedere voor de particuliere opslag aangeboden partij rundvlees gaat vergezeld van een door of namens de contractant opgesteld overzicht met gebruikmaking van een door de minister ter beschikking gesteld middel.
 
-2. Ingeval het in het eerste lid bedoelde middel betrekking heeft op buitenlandse runderen, legt de contractant de volgende documenten over:
-
-- a. een overzicht uit de slachthuisadministratie waarop is vermeld:
+2. Ingeval de voor particuliere opslag aangeboden partij rundvlees betrekking heeft op buitenlandse runderen, beschikt de contractant over een overzicht uit de slachthuisadministratie waarop is vermeld:
 
 - –. de naam, het adres en het EU-nummer van het slachthuis;
 
@@ -212,11 +220,9 @@ Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien al
 
 - –. de naam en de handtekening van de vertegenwoordiger van het slachthuis.
 
-- b. een kopie van het runderpaspoort, zoals bedoeld in [Verordening (EG) nr. 911/2004](32004R0911) van de Commissie van 29 april 2004 ter uitvoering van [Verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad wat betreft oormerken, paspoorten en bedrijfsregisters (PbEG 2004, L 163).
-
 ##### Artikel 19
 
-1. Op iedere invrieseenheid van varkensvlees en rundvlees wordt een label aangebracht waarop in ieder geval de volgende gegevens worden vermeld:
+1. Op iedere invrieseenheid van varkens-, rund-, schapen- en geitenvlees wordt een label aangebracht waarop in ieder geval de volgende gegevens worden vermeld:
 
 - a. de naam van de contractant;
 
@@ -232,7 +238,7 @@ Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien al
 
 - g. de tarra van de productverpakking.
 
-2. Op iedere opslageenheid van varkensvlees en rundvlees wordt een label aangebracht waarop in ieder geval de volgende gegevens worden vermeld:
+2. Op iedere opslageenheid van varkens-, rund-, schapen- en geitenvlees wordt een label aangebracht waarop in ieder geval de volgende gegevens worden vermeld:
 
 - a. het contractnummer;
 
@@ -252,7 +258,7 @@ Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien al
 
 - –. de tarra van de productverpakking.
 
-3. Indien op enig moment gebruik wordt gemaakt van dozen voor de verpakking van varkensvlees, dan worden op iedere doos op een etiket in ieder geval de volgende gegevens vermeld:
+3. Indien op enig moment gebruik wordt gemaakt van dozen voor de verpakking van varkens-, schapen- of geitenvlees, dan worden op iedere doos op een etiket in ieder geval de volgende gegevens vermeld:
 
 - a. het contractnummer;
 
@@ -274,7 +280,7 @@ Boter en mageremelkpoeder komen voor particuliere opslag in aanmerking indien al
 
 ##### Artikel 20
 
-Varkensvlees of rundvlees kan onder de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&bijlage=2&z=2020-05-20&g=2020-05-07) vermelde voorwaarden op een andere plaats worden ingevroren dan waar het wordt opgeslagen.
+Varkens-, rund-, schapen- of geitenvlees kan onder de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&bijlage=2&z=2020-05-20&g=2020-05-20) vermelde voorwaarden op een andere plaats worden ingevroren dan waar het wordt opgeslagen.
 
 ##### Artikel 21
 
@@ -286,7 +292,7 @@ Varkensvlees of rundvlees kan onder de in [Bijlage 2](https://wetten.overheid.nl
 
 - c. per uit te benen of te versnijden partij rundvlees worden door de uitsnijderij dagelijks bijgewerkte paklijsten opgemaakt volgens een door de minister ter beschikking gesteld middel;
 
-- d. de werkzaamheden van het uitbenen en verpakken vinden plaats op werkdagen tussen 07.00 uur en 17.00 uur en uitsluitend onder toezicht van een ambtenaar van de NVWA;
+- d. de werkzaamheden van het uitbenen en verpakken vinden plaats op werkdagen tussen 07.00 uur en 17.00 uur;
 
 - e. de ruimte waar wordt uitgebeend en uitgesneden is afsluitbaar;
 
@@ -320,7 +326,7 @@ De leden en de secretaris van de commissie zijn verplicht tot geheimhouding van 
 
 ##### Artikel 25
 
-Ter vaststelling van de notering van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=8&artikel=28&z=2020-05-20&g=2020-05-07) genoemde producten baseert de commissie zich zoveel mogelijk op de prijzen die op de dag van de notering voor de desbetreffende Nederlandse producten gangbaar zijn en zij houdt tevens rekening met de voor de komende week in redelijkheid te verwachten ontwikkeling. Ingeval voor een bepaald product van Nederlandse origine voor langere tijd niet of nauwelijks een gangbare prijs voorhanden is, kan een product van E.U.-origine worden genoteerd.
+Ter vaststelling van de notering van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=8&artikel=28&z=2020-05-20&g=2020-05-20) genoemde producten baseert de commissie zich zoveel mogelijk op de prijzen die op de dag van de notering voor de desbetreffende Nederlandse producten gangbaar zijn en zij houdt tevens rekening met de voor de komende week in redelijkheid te verwachten ontwikkeling. Ingeval voor een bepaald product van Nederlandse origine voor langere tijd niet of nauwelijks een gangbare prijs voorhanden is, kan een product van E.U.-origine worden genoteerd.
 
 ##### Artikel 26
 
@@ -388,7 +394,7 @@ Indien in de specifieke uitvoeringsregels die zijn vastgesteld door de Europese 
 
 - c. wordt een zekerheid vrijgegeven wanneer de inschrijving door een aanvrager wordt ingetrokken vanwege de vaststelling van een toewijzingscoëfficiënt.
 
-#### Paragraaf 6. Particuliere opslag van boter en mageremelkpoeder
+#### Paragraaf 6. Particuliere opslag van boter, mageremelkpoeder en kaas
 
 ##### Artikel 14a
 
@@ -398,19 +404,19 @@ In afwijking van artikel 1, onderdeel e, is ter uitvoering van Verordening (EU) 
 
 Steun voor particuliere opslag voor kaas waarvoor in het productdossier als bedoeld in bijlage VI, onderdeel V, van [Verordening 2016/1238](33138R2016) geen rijpingsperiode is opgenomen, wordt verleend indien de rijpingsperiode minimaal 28 dagen is.
 
-#### Paragraaf 7. Particuliere opslag van varkensvlees en rundvlees
+#### Paragraaf 7. Particuliere opslag van varkens-, rund-, schapen- en geitenvlees
 
 #### Paragraaf 8. De Commissie Officiële Nederlandse Zuivelnoteringen
 
 #### Paragraaf 9. Slotbepalingen
 
-## Bijlage 1. als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=5&artikel=14&z=2020-05-20&g=2020-05-07)
+## Bijlage 1. als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=5&artikel=14&z=2020-05-20&g=2020-05-20)
 
-### Voorwaarden voor de opslag van boter, kaas, mageremelkpoeder, varkensvlees en rundvlees in verzegelde stellingen
+### Voorwaarden voor de opslag van boter, kaas, mageremelkpoeder, varkens-, rund-, schapen- en geitenvlees in verzegelde stellingen
 
-## Bijlage 2. als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=7&artikel=20&z=2020-05-20&g=2020-05-07)
+## Bijlage 2. als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&paragraaf=7&artikel=20&z=2020-05-20&g=2020-05-20)
 
-### Voorwaarden voor invriezen van rundvlees en varkensvlees op andere plaats dan plaats van opslag
+### Voorwaarden voor invriezen van varkens-, rund-, schapen- en geitenvlees op andere plaats dan plaats van opslag
 
 Voor partijen vlees die buiten de plaats van definitieve opslag worden ingevroren, gelden de volgende voorwaarden:
 
