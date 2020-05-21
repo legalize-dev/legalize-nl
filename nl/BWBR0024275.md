@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2018-07-25"
+last_updated: "2020-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -52,7 +52,53 @@ Van de bij of krachtens de wet gestelde regels zijn vrijgesteld instellingen als
 
 ##### Artikel 3
 
-Vervallen
+1. De gegevens, bedoeld in [artikel 23c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23c) zijn:
+
+- a. een opgave van de naam, het adres, het telefoon- en faxnummer en het emailadres van de aanbieder en, indien van toepassing, van zijn bijkantoren;
+
+- b. een opgave van de rechtsvorm van de aanbieder;
+
+- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- d. een opgave van het nummer van inschrijving in het handelsregister of, indien van toepassing, een opgave van de LEI code;
+
+- e. indien van toepassing een gewaarmerkt afschrift van de statuten;
+
+- f. een opgave van de activiteiten die de aanbieder voornemens is te gaan verrichten;
+
+- g. de identiteit van degenen die het beleid van de aanbieder bepalen of mede bepalen;
+
+- h. de identiteit van degenen die een gekwalificeerde deelneming bezitten in de aanbieder;
+
+- i. gegevens op basis waarvan De Nederlandsche Bank N.V. kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 23h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) is bepaald met betrekking tot de geschiktheid van de personen die het beleid bepalen of mede bepalen;
+
+- j. gegevens op basis waarvan De Nederlandsche Bank N.V. kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 23h, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken;
+
+- k. gegevens op basis waarvan De Nederlandsche Bank N.V. kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 23h, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h) is bepaald met betrekking tot de betrouwbaarheid van de personen die een gekwalificeerde deelneming houden;
+
+- l. een beschrijving van de formele en feitelijke zeggenschapsstructuur van de aanbieder;
+
+- m. een beschrijving van de organisatiestructuur van de aanbieder;
+
+- n. de inrichting van de bedrijfsvoering met betrekking tot de integere en beheerste bedrijfsuitoefening bedoeld in [artikel 23j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23j);
+
+- o. overige gegevens en bescheiden die de toezichthouder nodig acht in het belang van de registratie.
+
+2. De gegevens bedoeld in het eerste lid, onderdelen i, j en k zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privéadres, het telefoon- en faxnummer, het emailadres en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs; en
+
+- e. een opgave van referenten;
+
+- f. de antecedenten van degenen, genoemd in het eerste lid, onderdelen g en h.
+
+3. In afwijking van het eerste lid wordt voor de antecedenten van de personen, bedoeld in het eerste lid, onderdelen g en h, indien deze eerder zijn beoordeeld voor de toepassing van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of de [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583), bij de aanvraag volstaan met vermelding hiervan en een verwijzing naar de datum van beoordeling van deze antecedenten.
 
 ##### Artikel 4
 
@@ -70,7 +116,9 @@ Vervallen
 
 - f. reisdocumenten voor vluchtelingen en vreemdelingen;
 
-- g. vreemdelingendocumenten, afgegeven op grond van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
+- g. vreemdelingendocumenten, afgegeven op grond van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
+
+- h. een voldoende betrouwbaar identificatiemiddel.
 
 2. Als documenten op basis waarvan kan worden voldaan aan [artikel 11, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=11), worden aangewezen:
 
