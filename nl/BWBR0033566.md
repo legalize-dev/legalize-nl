@@ -4,7 +4,7 @@ identifier: "BWBR0033566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-30"
-last_updated: "2020-01-01"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033566"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-De kosten voor het geneeskundig onderzoek en voor het hernieuwd geneeskundig onderzoek, bedoeld in [artikel 2e, tweede lid onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2e), komen voor rekening van het in artikel 2e, tweede lid, onderdeel b van dat besluit bedoelde gezag dat heeft bepaald dat het geneeskundig onderzoek dient plaats te vinden. De betrokkene ontvangt een vergoeding van reis- en verblijfkosten op de voet van de bepalingen van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De kosten voor het geneeskundig onderzoek en voor het hernieuwd geneeskundig onderzoek, bedoeld in [artikel 2e, tweede lid onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2e), komen voor rekening van het in artikel 2e, tweede lid, onderdeel b van dat besluit bedoelde gezag dat heeft bepaald dat het geneeskundig onderzoek dient plaats te vinden. De betrokkene ontvangt voor ten behoeve van het onderzoek gemaakte reis- en verblijfkosten een vergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 2
 
@@ -74,15 +74,15 @@ De uitslag van het onderzoek wordt niet eerder dan twee weken nadat betrokkene v
 
 ##### Artikel 8
 
-Voor zover dit niet heeft plaatsgevonden overeenkomstig het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-01-01) heeft de betrokkene recht op een nagesprek met de psycholoog die het onderzoek heeft verricht.
+Voor zover dit niet heeft plaatsgevonden overeenkomstig het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-05-30) heeft de betrokkene recht op een nagesprek met de psycholoog die het onderzoek heeft verricht.
 
 ##### Artikel 9
 
-De betrokkene kan na afloop van het in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=8&z=2020-05-30&g=2020-01-01) bedoelde nagesprek kennis nemen van de uitslag of daarvan een afschrift krijgen.
+De betrokkene kan na afloop van het in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=5&z=2020-05-30&g=2020-05-30) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033566&artikel=8&z=2020-05-30&g=2020-05-30) bedoelde nagesprek kennis nemen van de uitslag of daarvan een afschrift krijgen.
 
 ##### Artikel 10
 
-De kosten van het onderzoek en van het nagesprek komen voor rekening van het gezag dat heeft bepaald dat het onderzoek dient plaats te vinden. De betrokkene ontvangt voor ten behoeve van het onderzoek gemaakte reis- en verblijfkosten een vergoeding op de voet van de bepalingen van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+De kosten van het onderzoek en van het nagesprek komen voor rekening van het gezag dat heeft bepaald dat het onderzoek dient plaats te vinden. De betrokkene ontvangt voor ten behoeve van het onderzoek gemaakte reis- en verblijfkosten een vergoeding overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 11
 
