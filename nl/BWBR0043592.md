@@ -4,7 +4,7 @@ identifier: "BWBR0043592"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-05-30"
-last_updated: "2019-01-01"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043592"
 soort: "zbo"
@@ -111,7 +111,7 @@ De bestuurlijke verantwoording burgerregelingen bestaat uit drie componenten:
 
 In de financiële verantwoording wordt een overzicht van de baten en lasten, activa en passiva (balansmutaties) en toelichtingen daarop van de burgerregelingen over het jaar 2019 weergegeven. De baten en lasten en de activa en passiva (balansmutaties) worden per financiële stroom toegelicht. In zijn algemeenheid moet voor de inrichting van de toelichting worden uitgegaan van de gehanteerde inrichting in de bestuurlijke verantwoording burgerregelingen CAK 2018. Specifieke aandachtspunten hierbij worden – waar nodig – per financiële stroom toegelicht. Van de activa en passiva worden minimaal verloopoverzichten en toelichtingen opgenomen van vorderingen en schulden. Dit betreft in het bijzonder de verloopoverzichten van de rekening-courantposities en de openstaande vorderingen inclusief een uitsplitsing naar ouderdom en een uitsplitsing per financiële stroom voor de rekening courant CAK – Zorginstituut.
 
-De te hanteren sjablonen en modellen zijn opgenomen in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=1&z=2020-05-30&g=2019-01-01) van dit model.
+De te hanteren sjablonen en modellen zijn opgenomen in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=1&z=2020-05-30&g=2020-05-30) van dit model.
 
 ### Ad 2. Rechtmatigheidsverantwoording
 
@@ -123,7 +123,7 @@ Aangetroffen afwijkingen (rechtmatigheidsfouten door het niet naleven van wet- e
 
 Daarnaast wordt de opvolging van de in het voorgaande jaar opgenomen financiële en niet financiële rechtmatigheidsfouten en onzekerheden plus verbeterpunten toegelicht.
 
-De te hanteren sjablonen en modellen zijn opgenomen in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=1&z=2020-05-30&g=2019-01-01) van dit model.
+De te hanteren sjablonen en modellen zijn opgenomen in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=1&z=2020-05-30&g=2020-05-30) van dit model.
 
 ### Ad 3. Andere informatie
 
@@ -201,7 +201,7 @@ Om tot een werkbaar rechtmatigheidsbegrip te komen, die het CAK als maatstaf kan
 
 de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=2&z=2020-05-30&g=2019-01-01) bij dit model is een overzicht opgenomen van de circulaires, bestuurlijke afspraken en de regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=2&z=2020-05-30&g=2020-05-30) bij dit model is een overzicht opgenomen van de circulaires, bestuurlijke afspraken en de regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
 
 ### 3.4. Fouten en onzekerheden
 
@@ -591,7 +591,7 @@ Het CAK brengt de te heffen bijdrage in mindering op het bedrag aan te vergoeden
 
 ### 4.3. Rechtmatigheidsverantwoording
 
-Bij de verantwoording over de rechtmatige uitvoering van de in paragraaf 4.2 uitgewerkte financiële stromen inzake de 18 burgerregelingen maakt het CAK gebruik van een rechtmatigheids-verantwoording. De inrichtingsvoorschriften voor deze rechtmatigheidsverantwoording zijn uitgewerkt in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=5&z=2020-05-30&g=2019-01-01) van dit model.
+Bij de verantwoording over de rechtmatige uitvoering van de in paragraaf 4.2 uitgewerkte financiële stromen inzake de 18 burgerregelingen maakt het CAK gebruik van een rechtmatigheids-verantwoording. De inrichtingsvoorschriften voor deze rechtmatigheidsverantwoording zijn uitgewerkt in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=5&z=2020-05-30&g=2020-05-30) van dit model.
 
 Verder wordt verwezen naar paragraaf 3.3 t/m 3.5 voor wat betreft de invulling van de begrippen rechtmatigheid, fouten en onzekerheden alsmede materialiteit.
 
@@ -703,7 +703,7 @@ Het juridisch kader geeft een opsomming van alle voor het CAK geldende wet- en r
 
 - d. Externe publicaties
 
-Voor de geldende onderliggende specifieke verwijzingen naar regelgeving, brieven, beleidstukken en dergelijke wordt voor de bovengenoemde categorieën onder 1 tot en met 8 verwezen naar het juridische kader van het CAK en de daarbij horende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=2&z=2020-05-30&g=2019-01-01) van het juridische kader. Daarnaast wordt verwezen in dit model naar paragraaf 4.2 waarin per regeling de voornaamste specifieke geldende wet- en regelgeving is opgenomen onder het normenkader.
+Voor de geldende onderliggende specifieke verwijzingen naar regelgeving, brieven, beleidstukken en dergelijke wordt voor de bovengenoemde categorieën onder 1 tot en met 8 verwezen naar het juridische kader van het CAK en de daarbij horende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043592&bijlage=2&z=2020-05-30&g=2020-05-30) van het juridische kader. Daarnaast wordt verwezen in dit model naar paragraaf 4.2 waarin per regeling de voornaamste specifieke geldende wet- en regelgeving is opgenomen onder het normenkader.
 
 ## Bijlage 3. Waarderingsgrondslagen
 
