@@ -4,7 +4,7 @@ identifier: "BWBR0017067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-05-30"
-last_updated: "2020-01-02"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017067"
 soort: "ministeriele-regeling"
@@ -40,27 +40,21 @@ Gelet op [artikel 38k, tweede lid, van het Besluit rechtspositie rechterlijke am
 
 Besluit:
 
-##### Artikel 1
+##### Artikel 1. Definities
 
-1. De [IKAP-regeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0015799) is van overeenkomstige toepassing op de rechterlijke ambtenaren die zijn aangesteld of aangewezen voor het vervullen van een volledige of gedeeltelijke taak met dien verstande dat:
+In dit besluit wordt verstaan onder:
 
-- a. onder ambtenaar wordt verstaan: rechterlijk ambtenaar;
+- a. **IKAP:** Individuele Keuzen in het Arbeidsvoorwaardenpakket;
 
-- b. onder bevoegd gezag wordt verstaan: functionele autoriteit;
+- b. **arbeidsduur, arbeidsduurfactor, vakantie:** hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
 
-- c. onder sector Rijk wordt verstaan: sector Rechterlijke Macht;
+- c. **peildatum:** de eerste dag van de maand waarin de rechterlijk ambtenaar op grond van dit besluit een aanvraag heeft ingediend;
 
-- d. onder arbeidsduur, arbeidsduurfactor, salaris, salaris per uur, vakantie, onderscheidenlijk vakantie-uitkering wordt verstaan: hetgeen daaronder wordt verstaan in of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
+- d. **salaris, salaris per uur, vakantie-uitkering:** hetgeen daaronder wordt verstaan bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365);
 
-- e. onder [artikel 21a van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=21a) moet worden verstaan: [artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d);
+- e. **jaarsalaris:** het salaris gedurende het kalenderjaar waarin van dit besluit gebruik wordt gemaakt;
 
-- f. onder [artikel 23b van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=23b) moet worden verstaan: [artikel 33d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d);
-
-- g. onder [artikel 33g van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=33g) moet worden verstaan: [artikel 33n van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33n);
-
-- h. onder [artikel 129a, eerste en tweede lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=129a) moet worden verstaan: [artikel 33fa, eerste en tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33fa).
-
-2. In afwijking van [artikel 3, eerste lid, van de IKAP-Regeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0015799&artikel=3), bedraagt het aantal meer te werken uren voor de rechterlijke ambtenaren maximaal 200 uur per kalenderjaar.
+- f. **plaats van tewerkstelling:** de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de betrokkene gewoonlijk zijn werkzaamheden verricht, dan wel, indien de uitoefening van het ambt zich uitstrekt over een ambtsgebied, de door de functionele autoriteit aangewezen plaats.
 
 ##### Artikel 2
 
@@ -82,15 +76,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. De rechterlijk ambtenaar kan binnen een kalenderjaar niet kiezen:
 
-- a. voor zowel meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-01-02), als voor minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-01-02);
+- a. voor zowel meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-05-30), als voor minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-05-30);
 
-- b. voor zowel minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-01-02), als voor verlaging van de aanspraak op bovenwettelijke vakantie-uren, bedoeld in [artikel 33d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d).
+- b. voor zowel minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-05-30), als voor verlaging van de aanspraak op bovenwettelijke vakantie-uren, bedoeld in [artikel 33d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d).
 
 7. De functionele autoriteit kent de aanvraag toe, tenzij een zwaarwegend dienstbelang zich tegen honorering van de aanvraag verzet.
 
 8. Op een gehonoreerde aanvraag kan gedurende de periode waarop deze betrekking heeft niet meer worden teruggekomen.
 
-9. De vergoeding voor meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-01-02), alsmede de inhouding voor minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-01-02), worden berekend op basis van het salaris per uur dat de rechterlijk ambtenaar geniet op de peildatum. Eventuele aanpassingen van het salaris met terugwerkende kracht naar een datum op of voor de peildatum hebben geen invloed op het per de peildatum vastgestelde salaris per uur.
+9. De vergoeding voor meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-05-30), alsmede de inhouding voor minder uren werken, bedoeld in [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1c&z=2020-05-30&g=2020-05-30), worden berekend op basis van het salaris per uur dat de rechterlijk ambtenaar geniet op de peildatum. Eventuele aanpassingen van het salaris met terugwerkende kracht naar een datum op of voor de peildatum hebben geen invloed op het per de peildatum vastgestelde salaris per uur.
 
 ##### Artikel 1b. Meer uren werken
 
@@ -118,7 +112,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. maximaal 10% van het jaarsalaris;
 
-- b. de vergoeding voor meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-01-02);
+- b. de vergoeding voor meer uren werken, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1b&z=2020-05-30&g=2020-05-30);
 
 - c. de vergoeding voor het verlagen van de jaarlijkse aanspraak op bovenwettelijke vakantie-uren, bedoeld in [artikel 33d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d);
 
@@ -154,7 +148,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1e
 
-1. Voor de in [artikel 1d, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-01-02), genoemde belastingvrije vergoeding voor de bedrijfsfitness gelden de volgende voorwaarden:
+1. Voor de in [artikel 1d, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), genoemde belastingvrije vergoeding voor de bedrijfsfitness gelden de volgende voorwaarden:
 
 - a. deelneming aan de bedrijfsfitness staat open voor alle of nagenoeg alle rechtelijke ambtenaren of voor alle of nagenoeg alle ambtenaren met dezelfde plaats van tewerkstelling die niet is gelegen in de woning van een van deze rechtelijke ambtenaren;
 
@@ -166,13 +160,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. onder bedrijfsfitness als bedoeld in de onderdelen a en b wordt verstaan: conditie- of krachttraining van rechtelijke ambtenaren welke plaatsvindt onder deskundig toezicht en welke georganiseerd of geïnitieerd wordt door de functionele autoriteit.
 
-2. De in [artikel 1d, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-01-02), bedoelde belastingvrije vergoeding voor de fiets, inclusief fietsaccessoires, bedraagt maximaal € 750,-. Voor de toepassing van dit lid gelden de volgende voorwaarden:
+2. De in [artikel 1d, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), bedoelde belastingvrije vergoeding voor de fiets, inclusief fietsaccessoires, bedraagt maximaal € 750,-. Voor de toepassing van dit lid gelden de volgende voorwaarden:
 
 - a. de rechterlijk ambtenaar maakt op meer dan de helft van het aantal dagen dat hij pleegt te reizen in het kader van woon-werkverkeer gebruik van de fiets;
 
 - b. in het kalenderjaar en de twee voorafgaande kalenderjaren is ter zake van de aanschaf van een fiets, inclusief fietsaccessoires, geen belastingvrije vergoeding betaald.
 
-3. De in [artikel 1d, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-01-02), bedoelde belastingvrije vergoeding voor de inrichting van de telewerkruimte bedraagt maximaal € 1.815,– in het kalenderjaar en de vier voorafgaande kalenderjaren. Voor de toepassing van dit lid gelden de volgende voorwaarden:
+3. De in [artikel 1d, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), bedoelde belastingvrije vergoeding voor de inrichting van de telewerkruimte bedraagt maximaal € 1.815,– in het kalenderjaar en de vier voorafgaande kalenderjaren. Voor de toepassing van dit lid gelden de volgende voorwaarden:
 
 - a. de rechterlijk ambtenaar pleegt blijkens een overeenkomst ten minste eenmaal per week, gedurende de gebruikelijke werktijd en zonder dat tevens wordt gereisd naar een buiten de woning gelegen plaats van tewerkstelling, in die werkruimte ter vervulling van de dienstbetrekking te werken met behulp van telematica;
 
@@ -180,9 +174,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. De inrichting van de werkruimte in de woning voldoet aan de voorwaarden die in de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=5.4), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=5.12) en [6.3 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.3) zijn gesteld.
 
-4. Voor de in [artikel 1d, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-01-02), genoemde aanvulling op de tegemoetkoming voor woon-werkverkeer gelden de volgende voorwaarden.
+4. Voor de in [artikel 1d, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), genoemde aanvulling op de tegemoetkoming voor woon-werkverkeer gelden de volgende voorwaarden.
 
-- a. In afwijking van [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-01-02), betaalt de functionele autoriteit deze vergoeding automatisch uit en zet daartoe de eindejaarsuitkering, genoemd in artikel 1d, eerste lid, onderdeel f, en indien nodig het genoten salaris in de maand november in tot het maximum, bedoeld in artikel 1d, eerste lid, onder a.
+- a. In afwijking van [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017067&artikel=1d&z=2020-05-30&g=2020-05-30), betaalt de functionele autoriteit deze vergoeding automatisch uit en zet daartoe de eindejaarsuitkering, genoemd in artikel 1d, eerste lid, onderdeel f, en indien nodig het genoten salaris in de maand november in tot het maximum, bedoeld in artikel 1d, eerste lid, onder a.
 
 - b. Indien de rechterlijk ambtenaar geheel of gedeeltelijk afziet van de automatische vergoeding, bedoeld in het eerste lid, dan meldt hij dit, voor 1 november van het kalenderjaar waarin wordt overgegaan tot uitkering van deze belastingvrije bestemmingsmogelijkheid bij de functionele autoriteit. De melding wordt gedaan op een door de functionele autoriteit aan te geven wijze.
 
