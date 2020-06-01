@@ -4,7 +4,7 @@ identifier: "BWBV0006767"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-06-01"
-last_updated: "2018-09-27"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006767"
 soort: "verdrag"
@@ -142,11 +142,11 @@ Op verzoek stelt de aangezochte administratie de verzoekende administratie op de
 
 ##### Artikel 6. Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=IX&artikel=16&z=2018-09-27&g=2018-09-27) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=IX&artikel=16&z=2020-06-01&g=2020-06-01) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
 
 ##### Artikel 7. Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=IX&artikel=16&z=2018-09-27&g=2018-09-27) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=IX&artikel=16&z=2020-06-01&g=2020-06-01) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere verdragsluitende partij.
 
 ### HOOFDSTUK IV. TOEZENDING VAN VERZOEKEN
 
@@ -252,7 +252,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 - d. Sint Maarten.
 
-3. Niettegenstaande het tweede lid van dit artikel is, wat het Koninkrijk der Nederlanden betreft, het [derde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=II&artikel=2&z=2018-09-27&g=2018-09-27) uitsluitend van toepassing op zijn grondgebied in Europa.
+3. Niettegenstaande het tweede lid van dit artikel is, wat het Koninkrijk der Nederlanden betreft, het [derde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=II&artikel=2&z=2020-06-01&g=2020-06-01) uitsluitend van toepassing op zijn grondgebied in Europa.
 
 ### HOOFDSTUK XI. REGELING VAN GESCHILLEN
 
@@ -274,7 +274,7 @@ Op verzoek komen de verdragsluitende partijen bijeen om het Verdrag te herzien.
 
 ##### Artikel 21. Duur en beëindiging
 
-1. Dit Verdrag wordt in beginsel voor onbepaalde tijd gesloten, maar elk van beide verdragsluitende partijen kan het te allen tijde bij kennisgeving langs diplomatieke weg beëindigen. Wat het Koninkrijk der Nederlanden betreft, kan het Verdrag worden beëindigd ten aanzien van het gehele Koninkrijk of ten aanzien van enig afzonderlijk deel van het Koninkrijk genoemd in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=X&artikel=17&z=2018-09-27&g=2018-09-27).
+1. Dit Verdrag wordt in beginsel voor onbepaalde tijd gesloten, maar elk van beide verdragsluitende partijen kan het te allen tijde bij kennisgeving langs diplomatieke weg beëindigen. Wat het Koninkrijk der Nederlanden betreft, kan het Verdrag worden beëindigd ten aanzien van het gehele Koninkrijk of ten aanzien van enig afzonderlijk deel van het Koninkrijk genoemd in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006767&hoofdstuk=X&artikel=17&z=2020-06-01&g=2020-06-01).
 
 2. De beëindiging wordt van kracht drie maanden na de datum van de kennisgeving aan de andere verdragsluitende partij. Lopende procedures op het tijdstip van beëindiging worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
 
