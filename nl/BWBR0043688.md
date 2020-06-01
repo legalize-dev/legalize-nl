@@ -4,7 +4,7 @@ identifier: "BWBR0043688"
 country: "nl"
 rank: "wet"
 publication_date: "2023-02-01"
-last_updated: "2020-03-16"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043688"
 soort: "wet"
@@ -51,19 +51,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4. (wijziging [artikelen 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=27a) en [29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29))
 
 Wijzigt de Invorderingswet 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 5. (wijziging [artikel 27 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27))
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6. (wijziging [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549))
 
@@ -82,13 +76,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 9. (citeertitel)
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het in verband met de uitbraak van COVID-19 en de maatregelen ter bestrijding daarvan wenselijk is enkele spoedeisende tijdelijke voorzieningen te treffen in het kader van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en een aantal wijzigingen door te voeren in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) en de [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
