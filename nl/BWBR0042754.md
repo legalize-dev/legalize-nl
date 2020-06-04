@@ -4,7 +4,7 @@ identifier: "BWBR0042754"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-04"
-last_updated: "2019-11-12"
+last_updated: "2020-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042754"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Wijzigt de Regeling beheer rijkscollectie en subsidiëring museale instellingen.
 
 - b. [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3).
 
-2. Op de verstrekking van subsidie op grond van [artikel 7.2 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.2) voor de jaren tot 2021 blijven de bepalingen van de [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533) van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze regeling, met uitzondering van [artikel 3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.7a) en met dien verstande dat in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.6) in plaats van ‘Artikel 2.10 van de Regeling op het specifiek cultuurbeleid’ dient te worden gelezen ‘Artikel 2.11 van de Regeling op het specifiek cultuurbeleid’.
+2. Op de verstrekking van subsidie op grond van [artikel 7.2 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.2) voor de jaren tot 2021 blijven de bepalingen van de [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533) van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze regeling, met uitzondering van de [artikelen 3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.7a) en [3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.12), en met dien verstande dat in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.6) in plaats van ‘Artikel 2.10 van de Regeling op het specifiek cultuurbeleid’ dient te worden gelezen ‘Artikel 2.11 van de Regeling op het specifiek cultuurbeleid’.
 
 ##### Artikel IV. Inwerkingtreding
 
