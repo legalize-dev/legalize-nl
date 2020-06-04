@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2020-05-31"
+last_updated: "2020-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -126,6 +126,10 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De aanvraag bevat een onderbouwde prognose van het aantal deelnemers en maakt daarbij het aantal deelnemers per deelnemende school of nevenvestiging inzichtelijk. Tevens wordt omschreven op welke wijze de deelnemers worden geselecteerd.
 
+3. Indien de omvang van een doorstroomprogramma ten gevolge van de uitbraak van het coronavirus of de maatregelen ter bestrijding van het virus in het gedrang komt, kan de minister toestaan dat de periode voor de uitvoering van het doorstroomprogramma, wordt verlengd, uiterlijk tot en met de maand januari van het tweede leerjaar van het voortgezet onderwijs.
+
+4. Een doorstroomprogramma kan minder dan 100 klokuren beslaan, indien het tekort aan omvang van het doorstroomprogramma is toe te rekenen aan de uitbraak van het coronavirus of de maatregelen ter bestrijding ervan en indien het voor de subsidieontvanger redelijkerwijs onmogelijk is het doorstroomprogramma met toestemming van de minister gedurende een langere periode uit te voeren.
+
 ##### Artikel 7. Penvoerderschap
 
 1. Het bevoegd gezag van één van de betrokken scholen treedt namens het doorstroomprogramma als penvoerder op.
@@ -136,13 +140,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een door alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen getekende verklaring, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-06-04&g=2020-05-31).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-06-04&g=2020-06-04).
 
 ##### Artikel 8. Subsidieaanvraag
 
 1. Voor aanvraag van subsidie wordt een door de minister vastgesteld aanvraagformulier gebruikt dat is bekendgemaakt op de website www.dus-i.nl.
 
-2. In 2017 kan tot uiterlijk 1 oktober subsidie worden aangevraagd. Vanaf 2018 tot en met 2020 kan jaarlijks tussen 1 maart en 31 mei subsidie worden aangevraagd.
+2. In 2017 kan tot uiterlijk 1 oktober subsidie worden aangevraagd. In 2018 en 2019 kan jaarlijks tussen 1 maart en 31 mei subsidie worden aangevraagd. In 2020 kan van 1 maart tot en met 31 juli subsidie worden aangevraagd.
 
 3. De minister beslist jaarlijks binnen 13 weken na het verstrijken van de periode waarin aanvragen kunnen worden ingediend op de aanvragen.
 
