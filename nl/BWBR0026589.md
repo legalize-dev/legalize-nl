@@ -4,7 +4,7 @@ identifier: "BWBR0026589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2020-05-01"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026589"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2020-02-12&g=2020-05-01);
+- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2020-06-05&g=2020-06-05);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -54,7 +54,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. vervallen;
 
-- e. **CIO:** Chief Information Officer.
+- e. **CIO:** Chief Information Officer;
+
+- f. **CDI:** Coördinerend Directeur Inkoop.
 
 #### § 2. Organisatie
 
@@ -74,7 +76,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - ii. het samenwerkingsverband Financieel Dienstencentrum, met aan het hoofd een afdelingshoofd;
 
-- iii. het samenwerkingsverband Leer- en Ontwikkelplein met aan het hoofd een afdelingshoofd.
+- iii. het samenwerkingsverband Leer- en Ontwikkelplein met aan het hoofd een afdelingshoofd;
+
+- g. de directie CIO-office en Integrale Veiligheid.
 
 2. Vervallen.
 
@@ -82,7 +86,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Elk van de directeuren alsmede de programmadirecteur is verantwoordelijk voor:
+Elk van de directeuren is verantwoordelijk voor:
 
 - a. het leiding geven aan de eigen directie;
 
@@ -108,15 +112,15 @@ Elk van de directeuren alsmede de programmadirecteur is verantwoordelijk voor:
 
 - l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de onder de directeur ressorterende functionarissen;
 
-- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie en, vernietiging alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
+- m. het dynamisch archiefbeheer van de directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie en, vernietiging alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583).
 
 ##### Artikel 4
 
-1. De directie Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor:
+1. De directeur van de directie Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor:
 
-- a. het adviseren over en het kenbaar maken van kaders op het gebied van de verschillende domeinen van de bedrijfsvoering alsmede veiligheid en privacy mede op basis van de Rijksbrede kaders;
+- a. het adviseren over en het kenbaar maken van kaders op het gebied van de verschillende domeinen van de bedrijfsvoering mede op basis van de Rijksbrede kaders;
 
 - b. het verstrekken van managementinformatie aan het ministerie;
 
@@ -130,17 +134,27 @@ Elk van de directeuren alsmede de programmadirecteur is verantwoordelijk voor:
 
 - g. het houden van toezicht op de naleving van de Rijksbrede en departementale kaders op het gebied van de verschillende domeinen;
 
-- h. het voeren van de CIO-office;
+- h. het geven van eerstelijns organisatie- en personeelsadvies aan de managers van het ministerie ten aanzien van personeel en organisatie;
 
-- i. het uitvoeren van ondersteunende werkzaamheden voor de directie, het Financieel Dienstencentrum en het Leer- en ontwikkelplein:
+- i. het adviseren van de Commissie Management Development ten aanzien van management development vraagstukken;
 
-- j. de managementondersteuning van de directie, het Financieel Dienstencentrum, het Leer- en ontwikkelplein alsmede van de directies die ressorteren onder de secretaris-generaal;
+- j. het uitvoeren van registratieve en ondersteunende personeelswerkzaamheden
 
-- k. het bieden van ambtelijke ondersteuning aan de departementale ondernemingsraden;
+- k. het voeren van de CDI-office;
 
-- l. het ondersteunen van het organiseren van evenementen.
+- l. het uitvoeren van ondersteunende werkzaamheden voor de directie en de directie CIO-office en Veiligheid:
 
-2. De CIO is werkzaam binnen de directie Organisatie, Bedrijfsvoering en Personeel. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal en de directeuren-generaal.
+- m. de managementondersteuning van de directie en van de directies CIO-office en Integrale Veiligheid, Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, Communicatie en Dienstverlening, Samenwerkingsverbanden en Uitvoering;
+
+- n. het bieden van ambtelijke ondersteuning aan de departementale ondernemingsraden;
+
+- o. het ondersteunen van het organiseren van evenementen;
+
+- p. Het coördineren van privacy- en informatiebeveiligingszaken van de directie en voor de directies Bestuursondersteuning, CIO-office en Integrale Veiligheid, Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden en Communicatie;
+
+- q. Het uitvoeren van Informatiemanagement taken voor de directie en voor de directies Financieel-Economische Zaken, Wetgeving, Bestuurlijke en Juridische Aangelegenheden, CIO-office en Integrale Veiligheid en Communicatie.
+
+2. De directeur Organisatie, Bedrijfsvoering en Personeel is tevens aangewezen als CDI. De CDI zorgt dat binnen SZW de sturing op inkoop zo is ingericht dat zij hiermee voldoet aan rijksbrede én departementale kaders en ontwikkelingen voor inkoop. De CDI adviseert rechtstreeks aan de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 5
 
@@ -164,7 +178,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-06-05&g=2020-06-05), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -192,7 +206,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - b. overeenkomsten met betrekking tot multi-copiers;
 
-- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2020-02-12&g=2020-05-01);
+- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2020-06-05&g=2020-06-05);
 
 - d. overeenkomsten met betrekking tot de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;
 
@@ -216,7 +230,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 ##### Artikel 8
 
-1. De directeuren alsmede de programmadirecteur kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
+1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -228,7 +242,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. In afwijking van het eerste lid kunnen de directeuren bevoegdheden met betrekking tot personeelsaangelegenheden, genoemd in het eerste lid, onderdelen a tot en met d, doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
-3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
+3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-06-05&g=2020-06-05), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
 4. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan functionarissen die rechtstreeks onder hem ressorteren, ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder hem ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
@@ -242,7 +256,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 ##### Artikel 10
 
-Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2020-02-12&g=2020-05-01) van deze regeling.
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-06-05&g=2020-06-05), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2020-06-05&g=2020-06-05) van deze regeling.
 
 ##### Artikel 11
 
@@ -276,15 +290,15 @@ Door vernummering vervallen.
 
 - f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
 
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2020-02-12&g=2020-05-01), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2020-06-05&g=2020-06-05), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
 
-4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2020-02-12&g=2020-05-01).
+4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2020-06-05&g=2020-06-05).
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 10a
 
-Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-02-12&g=2020-05-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2020-02-12&g=2020-05-01) van deze regeling.
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2020-06-05&g=2020-06-05), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2020-06-05&g=2020-06-05) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
