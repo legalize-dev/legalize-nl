@@ -4,7 +4,7 @@ identifier: "BWBR0043597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2020-05-01"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043597"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ Aan de beveiligingsambtenaar van het team Veiligheid en Privacy wordt mandaat, v
 
 ##### Artikel 6
 
-Het hoofd van het team Veiligheid en Privacy is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043597&paragraaf=3&artikel=4&z=2020-06-05&g=2020-05-01), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van het team Veiligheid en Privacy is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043597&paragraaf=3&artikel=4&z=2020-06-05&g=2020-06-05), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 7
 
