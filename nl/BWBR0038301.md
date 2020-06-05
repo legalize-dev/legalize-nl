@@ -4,7 +4,7 @@ identifier: "BWBR0038301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-02"
-last_updated: "2019-07-18"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038301"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Benoeming
 
-Met ingang van 1 juli 2016 worden voor een periode van vier jaar tot lid van de commissie benoemd:
+Met ingang van 1 juli 2020 worden voor een periode van ten hoogste twee jaar tot lid van de commissie benoemd:
 
 - a. de heer K. van der Steenhoven, tevens voorzitter,
 
