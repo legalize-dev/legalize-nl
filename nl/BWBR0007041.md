@@ -4,7 +4,7 @@ identifier: "BWBR0007041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2020-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007041"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De aanvraag van een schorsing op de wijze, bedoeld in [artikel 50, eerste lid, o
 
 ##### Artikel 2
 
-Indien een schorsing betrekking heeft op een reeds geschorste tenaamstelling en plaatsvindt op de in [artikel 50, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50) aangegeven wijze, geldt de datum waarop de reeds bestaande schorsing zou eindigen vermeerderd met een jaar in de aantekening van schorsing wordt vermeld, indien de aanvraag plaatsvindt uiterlijk twee maanden voor de datum waarop de reeds lopende schorsing eindigt.
+Indien een schorsing betrekking heeft op een reeds geschorste tenaamstelling en plaatsvindt op de in [artikel 50, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=50) aangegeven wijze, geldt de datum waarop de reeds bestaande schorsing zou eindigen vermeerderd met een jaar, twee jaar of drie jaar in de aantekening van schorsing wordt vermeld, indien de aanvraag plaatsvindt uiterlijk twee maanden voor de datum waarop de reeds lopende schorsing eindigt.
 
 ##### Artikel 3
 
@@ -62,4 +62,4 @@ Deze regeling wordt aangehaald als: Regeling schorsing geldigheid tenaamstelling
 
 ##### Artikel 1a
 
-De schorsing eindigt door verloop van een jaar nadat de schorsing is verleend.
+De schorsing eindigt door verloop van een jaar, twee jaar of drie jaar nadat de schorsing is verleend, afhankelijk van de keuze van de eigenaar of houder van het motorrijruig of de aanhangwagen.
