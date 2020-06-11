@@ -4,7 +4,7 @@ identifier: "BWBR0043624"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2020-06-01"
+last_updated: "2020-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043624"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **bodembeweging:** bodemtrilling als gevolg van een geïnduceerde beving, bodemdaling en bodemstijging;
 
-- –. **Commissie:** de Commissie Mijnbouwschade, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-01);
+- –. **Commissie:** de Commissie Mijnbouwschade, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-11);
 
 - –. **geïnduceerde beving:** door het Koninklijk Nederlands Meteorologisch Instituut geregistreerde bodemtrilling die – vanwege de plaats en overige eigenschappen van de trilling – wordt toegerekend aan de aanleg of exploitatie van een mijnbouwwerk;
 
@@ -64,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 - –. **Minister:** Minister van Economische Zaken en Klimaat;
 
-- –. **protocol:** protocol behandeling schademeldingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-01);
+- –. **protocol:** protocol behandeling schademeldingen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-11);
 
 - –. **schade:**
 
 - a. fysieke schade aan gebouwen als gevolg van bodembeweging door de aanleg of exploitatie van een mijnbouwwerk en
 
-- b. materiële schade die het directe gevolg is van deze fysieke schade en het herstel daarvan, met in achtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=2&z=2020-06-11&g=2020-06-01);
+- b. materiële schade die het directe gevolg is van deze fysieke schade en het herstel daarvan, met in achtneming van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=2&z=2020-06-11&g=2020-06-11);
 
 - –. **schademelder:** eigenaar van een gebouw die een schade aan dat gebouw meldt bij de Commissie.
 
@@ -110,11 +110,11 @@ In dit besluit wordt verstaan onder:
 
 5. De Commissie kan op verzoek van een mijnbouwonderneming afwijken van het derde lid.
 
-6. De Commissie voert haar taak uit met toepassing van de bepalingen van het civiele aansprakelijkheids- en schadevergoedingsrecht en met inachtneming van het protocol opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-01).
+6. De Commissie voert haar taak uit met toepassing van de bepalingen van het civiele aansprakelijkheids- en schadevergoedingsrecht en met inachtneming van het protocol opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-11).
 
-7. Wijziging van het protocol, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-01), geschiedt na overleg met de Commissie en de mijnbouwondernemingen. De Commissie kan de Minister verzoeken om een wijziging van het protocol indien zij aanvulling of aanpassing van het protocol wenselijk of noodzakelijk acht.
+7. Wijziging van het protocol, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-11), geschiedt na overleg met de Commissie en de mijnbouwondernemingen. De Commissie kan de Minister verzoeken om een wijziging van het protocol indien zij aanvulling of aanpassing van het protocol wenselijk of noodzakelijk acht.
 
-8. De Commissie stelt haar eigen werkwijze vast, met inachtneming van het protocol, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-01), en maakt deze werkwijze bekend.
+8. De Commissie stelt haar eigen werkwijze vast, met inachtneming van het protocol, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-11), en maakt deze werkwijze bekend.
 
 9. De Commissie kan zich laten bijstaan door deskundigen. De werkwijze van de Commissie omvat de wijze waarop onderzoek wordt verricht, de kwaliteitseisen die gesteld worden aan de door de Commissie ingeschakelde deskundigen, de werkwijze van de deskundigen en de vergoeding van hun kosten.
 
@@ -172,11 +172,11 @@ De Commissie brengt jaarlijks aan de Minister een verslag uit over haar werkzaam
 
 ##### Artikel 8
 
-1. Ten behoeve van de goede uitvoering van [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-01), verwerkt de Commissie de nodige gegevens, waaronder persoonsgegevens. De Commissie is verwerkingsverantwoordelijke voor deze verwerking.
+1. Ten behoeve van de goede uitvoering van [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-11), verwerkt de Commissie de nodige gegevens, waaronder persoonsgegevens. De Commissie is verwerkingsverantwoordelijke voor deze verwerking.
 
-2. Ten behoeve van de goede uitwerking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-01), verwerkt de mijnbouwonderneming de nodige gegevens, waaronder persoonsgegevens. De mijnbouwonderneming is verwerkingsverantwoordelijke voor deze verwerking.
+2. Ten behoeve van de goede uitwerking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-11), verwerkt de mijnbouwonderneming de nodige gegevens, waaronder persoonsgegevens. De mijnbouwonderneming is verwerkingsverantwoordelijke voor deze verwerking.
 
-3. De Commissie, de mijnbouwonderneming en overige organisaties belast met de behandeling van schade verstrekken elkaar desgevraagd de informatie, waaronder begrepen de persoonsgegevens, bedoeld in het eerste en tweede lid voor zover dit noodzakelijk is in het belang van de goede uitvoering van [artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-01).
+3. De Commissie, de mijnbouwonderneming en overige organisaties belast met de behandeling van schade verstrekken elkaar desgevraagd de informatie, waaronder begrepen de persoonsgegevens, bedoeld in het eerste en tweede lid voor zover dit noodzakelijk is in het belang van de goede uitvoering van [artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=II&artikel=2&z=2020-06-11&g=2020-06-11).
 
 ##### Artikel 9
 
@@ -190,7 +190,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Mijnbouwschade.
 
-## Bijlage 1. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=I&artikel=1&z=2020-06-11&g=2020-06-01) van het Instellingsbesluit
+## Bijlage 1. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=I&artikel=1&z=2020-06-11&g=2020-06-11) van het Instellingsbesluit
 
 **PROTOCOL VOOR DE BEHANDELING VAN MELDINGEN VAN SCHADE ALS GEVOLG VAN BODEMBEWEGING DOOR AANLEG OF EXPLOITATIE VAN EEN MIJNBOUWWERK TEN BEHOEVE VAN OLIE -EN GASWINNING UIT OF OLIE -EN GASOPSLAG IN EEN KLEIN VELD**
 
@@ -226,7 +226,7 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 ### Artikel 11
 
-## Bijlage 2. als bedoeld in [artikel 1 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=I&artikel=1&z=2020-06-11&g=2020-06-01)
+## Bijlage 2. als bedoeld in [artikel 1 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&hoofdstuk=I&artikel=1&z=2020-06-11&g=2020-06-11)
 
 - 1. Voor de volgende materiële schadeposten die het directe gevolg zijn van fysieke schade aan gebouwen geldt, indien deze kosten naar het oordeel van de Commissie voor vergoeding in aanmerking komen, als uitgangspunt een vaste vergoeding, tenzij de kosten aantoonbaar hoger zijn of anderszins worden vergoed:
 
@@ -240,7 +240,7 @@ Indien na een geïnduceerde beving in een gebied in korte tijd een groter aantal
 
 - 3. De vergoedingen opgenomen in de tabel worden jaarlijks geïndexeerd aan de hand van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex.
 
-## Bijlage 3. als bedoeld in artikel 1 [protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-01)
+## Bijlage 3. als bedoeld in artikel 1 [protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=1&z=2020-06-11&g=2020-06-11)
 
 - 1. De Commissie stelt na een geïnduceerde beving het beoordelingsgebied vast waarbuiten het vrijwel uitgesloten is dat schade is veroorzaakt door de geïnduceerde beving.
 
