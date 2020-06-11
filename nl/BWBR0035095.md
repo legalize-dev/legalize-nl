@@ -4,7 +4,7 @@ identifier: "BWBR0035095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2020-01-01"
+last_updated: "2020-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035095"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de directeur:** de directeur ILT/Water, Bodem en Bouwen, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage;
+- a. **de directeur:** de directeur Toezicht en opsporing, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend);
 
-- b. **het hoofd:** het hoofd van de afdeling Handhaving Bouwen, Wonen en Ruimte, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage;
+- b. **het afdelingshoofd:** het afdelingshoofd van de Afdeling Toezicht marktordening, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend);
 
-- c. **de inspecteurs:** de inspecteurs ILT van de afdeling Bouwen, Wonen en Ruimte, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage.
+- c. **de inspecteurs:** de inspecteurs ILT van de Afdeling Toezicht marktordening, Team Producttoezicht 1, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) behorende [bijlage](onbekend).
 
 ##### Artikel 2
 
-1. Aan de directeur, het hoofd en de inspecteurs wordt, ieder voor zover het behoort bij zijn taken, mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de handhavingsbevoegdheden BZK-wetgeving, genoemd in het [Besluit mandatering aan de ILT van handhavingsbevoegdheden en aanwijzing toezichthouders op het terrein van BZK-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0034893).
+1. Aan de directeur, het afdelingshoofd en de inspecteurs wordt, ieder voor zover het behoort bij zijn taken, mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de handhavingsbevoegdheden BZK-wetgeving, genoemd in het [Besluit mandatering aan de ILT van handhavingsbevoegdheden en aanwijzing toezichthouders op het terrein van BZK-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0034893).
 
 2. Het eerste lid is niet van toepassing op het vaststellen, wijzigen of intrekken van beleidsregels.
 
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-Aan de functionarissen van het team Juridische Zaken, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage, wordt machtiging verleend voor de behandeling van beroepschriften over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035095&artikel=2&z=2020-06-11&g=2020-01-01) bedoelde besluiten en het voeren van verweer.
+Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van de Afdeling Juridische zaken wordt machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften en hoger beroepschriften en het voeren van procedures bij de rechter over de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035095&artikel=2&z=2020-06-11&g=2020-06-11) van dit besluit genomen besluiten.
 
 ##### Artikel 5
 
