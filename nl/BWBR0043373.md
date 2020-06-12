@@ -4,7 +4,7 @@ identifier: "BWBR0043373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-12"
-last_updated: "2020-06-01"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043373"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ BESLUIT:
 
 ##### Artikel 1
 
-Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS- CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van desinfectiemiddelen die de werkzaamheden van de professionele zorgaanbieders en de farmaceutische industrie compromitteren ten tijde van deze uitbraak, wordt op grond van:
+Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS- CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van desinfectiemiddelen die de werkzaamheden in een bedrijfs- of beroepsmatige omgeving compromitteren ten tijde van deze uitbraak, wordt op grond van:
 
 - a). [artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=46) vrijstelling verleend van het verbod, bedoeld in [artikel 43, eerste en tweede lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=43), om in strijd te handelen met artikel 17, vijfde lid van Verordening (EU) nr. 528/2012, in dit geval voor het op de markt aanbieden van in Nederland toegelaten middelen voor desinfectie:
 
@@ -59,7 +59,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 ##### Artikel 2
 
-Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-01), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
+Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-12), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -73,17 +73,17 @@ Dit besluit wordt aangehaald als: Vrijstelling eenvoudig in de handel brengen de
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt gepubliceerd en werkt terug tot en met 3 april 2020.
 
-## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=2&z=2020-06-12&g=2020-06-01)
+## Bijlage. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=2&z=2020-06-12&g=2020-06-12)
 
-Aan de vrijstelling en toestemming voor het op de markt aanbieden van de in [artikel 1, onderdeel a, onder 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-01), vermelde middelen zijn de volgende beperkingen verbonden:
+Aan de vrijstelling en toestemming voor het op de markt aanbieden van de in [artikel 1, onderdeel a, onder 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-12), vermelde middelen zijn de volgende beperkingen verbonden:
 
 - 1. De vrijstelling en de toestemming zijn alleen van toepassing op biociden die regulier tot de Nederlandse markt zijn toegelaten tegen virussen (waaronder SARS-CoV-2), voor de desinfectie van handen (PT1) of oppervlakken in de zorgsector (PT2), en de middelen die tijdelijk zijn vrijgesteld voor de desinfectie van handen en van oppervlakken in de zorgsector, cosmetische of farmaceutische industrie of voor gebruik in ruimten voor verblijf van mensen op grond van respectievelijk de Tijdelijke vrijstelling handdesinfectie COVID-19 2020 (Stcrt. 2020, nr. 16831) en de Vrijstelling desinfectiemiddelen oppervlakken COVID-19 2020 (Stcrt. 2020, nr. 19177).
 
 - 2. De vrijstelling en toestemming is niet van toepassing op toelatingen van de Unie.
 
-- 3. De biociden mogen alleen voor gebruik worden aangeboden en aangeprezen aan en gebruikt worden door professionele zorgaanbieders en de farmaceutische industrie conform de in de toelating opgenomen gebruiksvoorschriften en met in achtneming van de beperkingen en voorschriften opgenomen in de Tijdelijke vrijstelling handdesinfectie COVID-19 2020 (Stcrt. 2020, nr. 16831) en de Vrijstelling desinfectiemiddelen oppervlakken COVID-19 2020 (Stcrt. 2020, nr. 19177).
+- 3. De biociden mogen alleen voor gebruik worden aangeboden en aangeprezen aan de professionele gebruiker en gebruikt worden in een bedrijfs- of beroepsmatige omgeving conform de in de toelating opgenomen gebruiksvoorschriften en met in achtneming van de beperkingen en voorschriften opgenomen in de Tijdelijke vrijstelling handdesinfectie COVID-19 2020 (Stcrt. 2020, nr. 16831) en de Vrijstelling desinfectiemiddelen oppervlakken COVID-19 2020 (Stcrt. 2020, nr. 19177).
 
-Aan de vrijstelling en toestemming voor het op de markt aanbieden van het in [artikel 1, onderdeel a, onder 1, 2, 3 onderscheidenlijk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-01), vermeld middel, wordt onderstaand voorschrift met corresponderend nummer verbonden:
+Aan de vrijstelling en toestemming voor het op de markt aanbieden van het in [artikel 1, onderdeel a, onder 1, 2, 3 onderscheidenlijk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-12), vermeld middel, wordt onderstaand voorschrift met corresponderend nummer verbonden:
 
 - 1. De samenstelling van een product in een niet in de toelating gespecificeerde verpakking is identiek aan de samenstelling van het product zoals opgenomen in de toelating. De verpakkingsmaterialen voor verdunningen moeten vergelijkbaar zijn met of hetzelfde zijn als het materiaal van de verpakking die gebruikt wordt voor het concentraat.
 
