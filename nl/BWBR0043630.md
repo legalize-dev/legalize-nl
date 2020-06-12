@@ -4,7 +4,7 @@ identifier: "BWBR0043630"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-12"
-last_updated: "2020-06-01"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043630"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 ##### Artikel 2
 
-De vrijstelling en toestemming zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043630&artikel=1&z=2020-06-12&g=2020-06-01) wordt verleend tot en met 27 november 2020.
+De vrijstelling en toestemming zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043630&artikel=1&z=2020-06-12&g=2020-06-12) wordt verleend tot en met 27 november 2020.
 
 ##### Artikel 3
 
