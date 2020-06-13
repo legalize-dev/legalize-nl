@@ -4,7 +4,7 @@ identifier: "BWBR0020422"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-06-13"
-last_updated: "2017-01-01"
+last_updated: "2020-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020422"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. SI: het Internationale stelsel van meeteenheden (Système International);
 
-- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01);
+- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13);
 
-- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2017-01-01&g=2017-01-01).
+- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2020-06-13&g=2020-06-13).
 
 #### § 2. Erkende meeteenheden
 
@@ -78,34 +78,34 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De namen en symbolen van de SI-grondeenheden en de daarbij behorende grootheden zijn:
 
-| grootheid | eenheid | eenheid |
+| Grootheid | Eenheid | Eenheid |
 | --- | --- | --- |
-| naam | symbool |   |
-| lengte | de meter | m |
-| massa | het kilogram | kg |
-| tijd | de seconde | s |
-| elektrische stroom | de ampère | A |
-| thermodynamische temperatuur | de kelvin | K |
-| hoeveelheid stof | de mol | mol |
-| lichtsterkte | de candela | cd |
+| Naam | Symbool |   |
+| Tijd | seconde | s |
+| Lengte | meter | m |
+| Massa | kilogram | kg |
+| Elektrische stroom | ampère | A |
+| Thermodynamische temperatuur | kelvin | K |
+| Hoeveelheid stof | mol | mol |
+| Lichtsterkte | candela | cd |
 
 2. Verstaan wordt onder:
 
-- a. de meter: de lengte van de weg die het licht in vacuüm aflegt in een tijd van 1/299 792 458 seconde;
+- a. de seconde: de eenheid die volgt uit de vaste numerieke waarde van de cesiumfrequentie , de frequentie van de onverstoorde hyperfijnovergang van het cesium-133-atoom in grondtoestand, die is vastgesteld op 9 192 631 770, uitgedrukt in de eenheid Hz, die gelijk is aan s-1;
 
-- b. het kilogram: de massa die gelijk is aan de massa van het internationale prototype van het kilogram;
+- b. de meter: de eenheid die volgt uit de vaste numerieke waarde van de snelheid van het licht in vacuüm **c**, die is vastgesteld op 299 792 458, uitgedrukt in m•s-1, waarbij de seconde volgt uit ;
 
-- c. de seconde: de tijdsduur van 9 192 631 770 perioden van de straling overeenkomend met de overgang tussen de twee hyperfijnniveaus van de grondtoestand van het atoom cesium 133;
+- c. de kilogram: de eenheid die volgt uit de vaste numerieke waarde van de constante van Planck **h**, die is vastgesteld op 6,626 070 15 × 10-34, uitgedrukt in de eenheid J•s, waarbij J•s gelijk is aan kg•m2•s-1 en de meter en de seconde volgen uit **c** en ;
 
-- d. de ampère: de constante stroom die, indien hij wordt onderhouden in twee evenwijdige, rechtlijnige en oneindig lange geleiders van te verwaarlozen cirkelvormige doorsnede, welke geplaatst zijn in het luchtledige op een onderlinge afstand van 1 meter, tussen deze twee geleiders een kracht veroorzaakt gelijk aan 2 x 10–7 newton voor iedere meter lengte;
+- d. de ampère: de eenheid die volgt uit de vaste numerieke waarde van de elementaire lading **e**, die is vastgesteld op 1,602 176 634 × 10-19, uitgedrukt in de eenheid C, waarbij C gelijk is aan A•s en de seconde volgt uit ;
 
-- e. de kelvin: het 1/273,16 gedeelte van de thermodynamische temperatuur van het tripelpunt van water met een isotopensamenstelling met de verhoudingen 0,000 155 76 mol 2H per mol 1H, 0,000 379 9 mol 17O per mol 16O en 0,002 005 2 mol 18O per mol 16O;
+- e. de kelvin: de eenheid die volgt uit de vaste numerieke waarde van de constante van Boltzmann **k**, die is vastgesteld op 1,380 649 × 10-23, uitgedrukt in de eenheid J•K-1, waarbij J•K-1 gelijk is aan kg•m2•s-2•K-1 en de kilogram, de meter en de seconde volgen uit **h**, **c** en ;
 
-- f. de mol: de hoeveelheid stof van een systeem dat evenveel elementaire entiteiten bevat als er atomen zijn in 0,012 kilogram koolstof 12;
+- f. de mol: de hoeveelheid stof van een systeem dat exact 6,022 140 76 × 1023 elementaire entiteiten bevat, welk getal, uitgedrukt in de eenheid mol-1, de vaste numerieke waarde van de constante van Avogadro **N**A is en het getal van Avogrado wordt genoemd;
 
-- g. de candela: de lichtsterkte, in een gegeven richting, van een bron die een monochromatische straling met een frequentie van 540 x 1012 hertz uitzendt en waarvan de stralingssterkte in die richting 1/683 watt per steradiaal is;
+- g. de candela: de eenheid die volgt uit de vaste numerieke waarde van het lichtrendement van monochromatische straling met een frequentie van 540 × 1012 Hz, **K**cd, die is vastgesteld op 683, uitgedrukt in de eenheid lm•W-1, waarbij lm•W-1 gelijk is aan cd•sr•W-1 of cd•sr•kg-1•m-2•s3 en de kilogram, de meter en de seconde volgen uit **h**, **c** en en sr (steradiaal) de SI-eenheid voor ruimtehoek is.
 
-3. Indien de hoeveelheid stof wordt uitgedrukt in mol, worden de elementaire entiteiten, bedoeld in het tweede lid, onder f, gespecificeerd in atomen, moleculen, ionen, elektronen, andere deeltjes of bepaalde groeperingen van andere deeltjes.
+3. De in het tweede lid, onder f, bedoelde hoeveelheid stof, symbool **n,**van een systeem is een maat voor het aantal gespecificeerde elementaire entiteiten. Een elementaire entiteit kan een atoom, een molecuul, een ion, een elektron, elk ander deeltje of elke andere gespecificeerde groep van deeltjes zijn.
 
 ##### Artikel 4
 
@@ -236,9 +236,9 @@ Vervallen
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
-- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01);
+- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13);
 
-- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2017-01-01&g=2017-01-01);
+- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2020-06-13&g=2020-06-13);
 
 - c. de eenheden: liter, ton, bar, decimale graad of gon, atomaire massaeenheid, elektronvolt, dioptrie, are, barn, metriekkaraat, tex, voltampère en voltampère reactief.
 
@@ -308,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a
 
-Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2017-01-01&g=2017-01-01) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2017-01-01&g=2017-01-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
+Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2020-06-13&g=2020-06-13) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2020-06-13&g=2020-06-13), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
 
 #### § 4. Slotbepalingen
 
