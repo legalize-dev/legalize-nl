@@ -4,7 +4,7 @@ identifier: "BWBR0038779"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-31"
-last_updated: "2017-07-01"
+last_updated: "2020-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038779"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **voorzitter:** de voorzitter van het Adviescollege;
 
-- c. **DJI:** de Dienst Justitiële Inrichtingen, bedoeld in [artikel 29 van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030837&artikel=29);
+- c. **DJI:** de Dienst Justitiële Inrichtingen als bedoeld in [artikel 63f van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63f);
 
 - d. **levenslanggestrafte:** een persoon ten aanzien van wie de tenuitvoerlegging van een levenslange gevangenisstraf plaatsvindt;
 
-- e. **Minister:** de Minister van Veiligheid en Justitie;
+- e. **Minister:** de Minister voor Rechtsbescherming;
 
 - f. **re-integratie activiteiten:** activiteiten, inclusief verlof, die aanvullend op de resocialisatieactiviteiten de gedetineerde in staat stellen te werken aan de voorbereiding op zijn mogelijke terugkeer in de samenleving;
 
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 - d. de impact op de slachtoffers en nabestaanden en in de sleutel daarvan de vergelding.
 
-5. De levenslanggestrafte wordt door het Adviescollege gehoord. De nabestaanden en slachtoffers worden door het Adviescollege gehoord.
+5. De levenslanggestrafte wordt door het Adviescollege gehoord. De nabestaanden en slachtoffers worden door het Adviescollege gehoord. De hoorzittingen vinden plaats in het Europese deel van Nederland. Degene die zich buiten het Europese deel van Nederland bevindt, wordt niet in persoon maar via een beveiligde videoverbinding gehoord.
 
 6. Bij het advies als bedoeld in het eerste lid, onder a, bepaalt het Adviescollege tevens binnen welke termijn het Adviescollege een vervolgadvies zal uitbrengen.
 
@@ -161,5 +161,11 @@ Dit besluit wordt aangehaald als: Besluit Adviescollege levenslanggestraften.
 ##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 maart 2017.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
