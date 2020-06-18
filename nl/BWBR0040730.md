@@ -4,7 +4,7 @@ identifier: "BWBR0040730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2019-03-28"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040730"
 soort: "ministeriele-regeling"
@@ -187,7 +187,7 @@ tot 1.500 ft AMSL.
 
 - f. EHR 2C (Marnewaard C) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°27'49.00"N 006°45'16.00"E; 53°26'41.00"N 006°51'32.00"E; 53°25'24.47"N 006°52'11.72"E; 53°21'12.00"N 006°52'24.00"E; 53°14'58.00"N 006°23'59.00"E; 53°09'57.00"N 006°20'03.00"E; 53°09'59.77"N 006°04'17.14"E; 53°24'37.00"N 006°36'30.00"E; 53°27'28.28"N 006°40'32.88"E; terug naar beginpunt; van 1.200 ft AMSL tot 2.500 ft AMSL;
 
-- g. EHR 3B (Oldebroek high) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°23'00.00"N 005°50'00.00"E; 52°21'30.00"N 005°52'30.00"E; 52°24'30.00"N 006°01'00.00"E; 52°27'00.00"N 006°00'00.00"E; terug naar beginpunt; van FL 185 tot een in de NOTAM aangegeven maximum van FL 365;
+- g. EHR 3B (Oldebroek high) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°23'00.00"N 005°50'00.00"E; 52°21'30.00"N 005°52'30.00"E; 52°24'30.00"N 006°01'00.00"E; 52°27'00.00"N 006°00'00.00"E; terug naar beginpunt; van FL 185 tot een maximum van FL 365;
 
 - h. EHTRA 14 (Drente) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°57'15.50"N 007°11'15.30"E; langs de Nederlands-Duitse grens naar 52°19'56.00"N 007°03'20.00"E; 52°18'11.00"N 006°46'27.00"E; 52°28'08.00"N 006°28'30.00"E; 52°38'21.00"N 006°20'00.00"E; 52°42'17.00"N 006°20'00.00"E; 52°42'52.00"N 006°33'08.00"E; 52°52'10.00"N 006°30'13.00"E; 52°52'28.00"N 006°30'42.00"E; terug naar beginpunt; van 2000 ft AMSL tot FL 065;
 
@@ -201,13 +201,13 @@ tot 1.500 ft AMSL.
 
 - m. EHD 41C het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°05'00.00"N 004°10'00.00"E; 53°13'00.00"N 004°10'00.00"E; langs de parallel naar 53°13'00.00"N 004°18'00.00"E; 53°05'00.00"N 004°18'00.00"E; langs de parallel terug naar beginpunt; tot FL 055;
 
-- n. EHD 41D het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°05'00.00"N 003°45'00.00"E; 53°13'00.00"N 003°45'00.00"E; langs de parallel naar 53°13'00.00"N 004°10'00.00"E; 53°05'00.00"N 004°10'00.00"E; langs de parallel terug naar beginpunt; van FL 055 tot een in de NOTAM aan te geven maximum van FL 660;
+- n. EHD 41D AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°05'00.00"N 003°45'00.00"E; 53°13'00.00"N 003°45'00.00"E; langs de parallel naar 53°13'00.00"N 004°10'00.00"E; 53°05'00.00"N 004°10'00.00"E; langs de parallel terug naar beginpunt; van FL 055 tot een maximum van FL 660;
 
 - o. EHD 42 het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°00'00.00"N 004°46'00.00"E; langs de parallel naar 54°00'00.00"N 006°06'26.00"E; 53°51'06.00"N 006°13'58.00"E; 53°37'38.00"N 005°06'00.00"E; 53°36'00.00"N 004°46'00.00"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van FL 660;
 
 - p. EHR 49 (Breezanddijk) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°01'03.00"N 005°12'32.00"E; 52°53'45.00"N 005°16'00.00"E; 52°53'29.00"N 005°11'11.00"E; 52°48'39.00"N 005°10'16.00"E; 52°48'47.00"N 005°07'33.00"E; 52°50'53.00"N 005°07'49.00"E; 52°56'00.00"N 005°03'33.00"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van 19.500 ft AMSL;
 
-- q. EHTSA 50 (Marne, RPAS) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,7 nautische mijl vanuit positie 53°23'30.60"N 006°15'28.05"E; tot 600 ft AMSL;
+- q. EHTSA 50 (Marne, RPAS) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,7 nautische mijl vanuit positie 53°23'30.60"N 006°15'28.05"E; tot 1.200 ft AMSL;
 
 - r. EHTSA 51 (De Haar, RPAS) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 0,875 nautische mijl vanuit positie 52°56'46.34"N 006°31'16.75"E; tot 600 ft AMSL;
 
@@ -217,9 +217,9 @@ tot 1.500 ft AMSL.
 
 - u. EHTSA 54 (Ermelosche Heide, RPAS) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,06 nautische mijl vanuit positie 52°17'24.07"N 005°40'49.93"E; tot 600 ft AMSL;
 
-- v. EHTSA 55A (Vlasakkers, RPAS) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°08'55.83"N 005°17'47.18"E; met de klok mee met een boog (straal van 1 nautische mijl vanuit positie 52°08'15.77"N 005°18'59.60"E) naar 52°07'22.59"N 005°18'14.73"E; terug naar beginpunt; tot 600 ft AMSL;
+- v. EHTSA 55 (Vlasakkers, RPAS) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°08'44.60"N 005°20'08.70"E; 52°08'18.20"N 005°20'26.80"E; 52°07'40.20"N 005°18'04.60"E; 52°07'52.60"N 005°17'47.60"E; 52°07'55.50"N 005°17'32.00"E; 52°07'58.30"N 005°17'27.90"E; 52°08'14.50"N 005°17'27.30"E; 52°08'41.70"N 005°17'59.00"E; 52°08'38.80"N 005°19'05.10"E; terug naar beginpunt; tot 600 ft AMSL;
 
-- w. EHTSA 55B (Vlasakkers, RPAS) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°07'22.59"N 005°18'14.73"E; met de klok mee met een boog (straal van 1 nautische mijl vanuit positie 52°08'15.77"N 005°18'59.60"E) naar 52°08'55.83"N 005°17'47.18"E; terug naar beginpunt; tot 600 ft AMSL; de EHTSA 55B kan niet gelijktijdig worden geactiveerd met zweefvliegactiviteiten op Soesterberg;
+- w. Vervallen;
 
 - x. EHTSA 56 (Leusderheide, RPAS) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 1,2 nautische mijl vanuit positie 52°06'22.27"N 005°20'28.78"E; tot 600 ft AMSL;
 
@@ -233,19 +233,25 @@ tot 1.500 ft AMSL.
 
 - cc. EHTSA 67 (Kraggenburg) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°39'49.00"N 005°53'49.00"E; 52°41'26.00"N 005°52'08.00"E; 52°40'53.00"N 005°50'39.00"E; 52°39'14.00"N 005°52'18.00"E; terug naar beginpunt; tot 1.200 ft AMSL;
 
-- dd. EHTRA 72 (Wamel) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°54'38.00"N 005°30'35.00"E; 51°52'00.00"N 005°40'40.00"E; 51°49'13.00"N 005°40'44.00"E; 51°43'52.00"N 005°22'56.00"E; 51°52'00.00"N 005°17'32.00"E; 51°54'11.00"N 005°22'48.00"E; terug naar beginpunt; tot FL 195;
+- dd. EHTRA 72 (Wamel) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°54'38.00"N 005°30'35.00"E; 51°52'00.00"N 005°40'40.00"E; 51°49'13.00"N 005°40'44.00"E; 51°43'52.00"N 005°22'56.00"E; 51°52'00.00"N 005°17'32.00"E; 51°54'11.00"N 005°22'48.00"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van FL 195;
 
 - ee. EHTRA 80 (Deelen High) AMC-Manageable Area het gebied, begrensd door de lijn die de cirkel vormt met een straal van 6,5 nautische mijlen vanuit positie 52°03'35.02"N 005°52'18.97"E; van 3.000 ft AMSL tot FL 065;
 
-- ff. EHTRA 81 (Maas/Waal) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°53'58.99"N 005°33'26.32"E; 51°52'31.87"N 005°34'47.79"E; 51°52'19.76"N 005°37'16.51"E; 51°48'00.40"N 005°39'00.31"E; 51°46'59.97"N 005°34'59.93"E; 51°47'30.07"N 005°32'30.07"E; 51°46'59.97"N 005°28'59.79"E; 51°45'00.44"N 005°28'59.79"E; 51°45'00.41"N 005°20'13.29"E; 51°44'47.75"N 005°19'29.50"E; 51°44'37.65"N 005°19'02.93"E; 51°44'18.74"N 005°18'21.24"E; 51°44'09.90"N 005°17'53.45"E; 51°44'10.07"N 005°17'36.94"E; 51°44'19.66"N 005°17'06.45"E; 51°44'21.74"N 005°16'46.05"E; 51°44'19.14"N 005°15'56.79"E; 51°44'02.09"N 005°15'23.33"E; 51°43'59.29"N 005°15'06.15"E; 51°43'59.80"N 005°14'42.65"E; 51°44'26.16"N 005°13'49.49"E; 51°44'34.72"N 005°13'12.56"E; 51°44'32.32"N 005°12'52.42"E; 51°44'26.54"N 005°12'26.74"E; 51°44'22.22"N 005°11'59.54"E; 51°44'22.91"N 005°11'32.97"E; 51°44'29.07"N 005°11'03.87"E; 51°44'32.32"N 005°10'36.45"E; 51°44'31.98"N 005°09'53.09"E; 51°44'20.51"N 005°08'27.76"E; 51°44'06.48"N 005°07'09.98"E; 51°43'53.30"N 005°06'18.79"E; 51°43'26.90"N 005°05'15.36"E; 51°43'15.48"N 005°05'01.07"E; 51°42'51.42"N 005°04'31.87"E; 51°42'39.65"N 005°04'00.40"E; 51°42'34.52"N 005°03'43.79"E; 51°42'29.17"N 005°03'18.78"E; 51°42'25.96"N 005°02'45.38"E; 51°42'24.78"N 005°02'18.63"E; 51°42'25.32"N 005°01'54.85"E; 51°42'26.92"N 005°01'23.03"E; 51°42'31.52"N 005°00'40.71"E; 51°42'33.88"N 005°00'26.55"E; 51°42'36.01"N 004°59'50.01"E; 51°42'40.40"N 004°59'15.73"E; 51°42'32.60"N 004°58'07.18"E; 51°42'23.18"N 004°57'33.44"E; 51°42'24.04"N 004°56'56.37"E; 51°42'31.14"N 004°55'53.44"E; 51°42'44.78"N 004°54'58.17"E; 51°42'49.94"N 004°54'24.60"E; 51°42'55.27"N 004°54'06.77"E; 51°43'01.04"N 004°53'54.53"E; 51°43'31.85"N 004°53'57.32"E; 51°43'51.74"N 004°54'42.44"E; 51°44'31.10"N 004°55'26.15"E; 51°45'16.77"N 004°55'59.02"E; 51°45'50.89"N 004°56'04.62"E; 51°46'15.70"N 004°56'06.37"E; 51°47'20.52"N 004°56'23.50"E; 51°47'45.97"N 004°56'19.83"E; 51°48'40.73"N 004°57'53.03"E; 51°49'03.94"N 004°59'35.49"E; 51°49'10.93"N 005°00'24.83"E; 51°48'52.25"N 005°02'14.91"E; 51°49'29.60"N 005°04'49.16"E; 51°49'28.94"N 005°05'35.96"E; 51°48'46.54"N 005°07'34.61"E; 51°48'43.46"N 005°08'28.01"E; 51°48'55.11"N 005°09'55.90"E; 51°48'48.52"N 005°10'59.84"E; 51°48'30.50"N 005°13'10.14"E; 51°48'55.77"N 005°14'52.53"E; 51°49'19.50"N 005°18'14.68"E; 51°49'15.32"N 005°18'51.37"E; 51°48'57.30"N 005°19'27.41"E; 51°48'37.75"N 005°19'47.62"E; 51°48'20.61"N 005°20'07.18"E; 51°48'07.65"N 005°20'55.30"E; 51°48'13.40"N 005°21'47.81"E; 51°49'13.12"N 005°22'49.12"E; 51°50'39.48"N 005°24'46.45"E; 51°52'09.56"N 005°25'39.62"E; 51°52'59.88"N 005°26'39.39"E; 51°53'15.70"N 005°27'45.09"E; 51°53'17.90"N 005°30'39.99"E; terug naar beginpunt; tot 3.000 ft AMSL;
+- ff. EHTRA 81 (Maas/Waal) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°53'58.99"N 005°33'26.32"E; 51°52'31.87"N 005°34'47.79"E; 51°52'19.76"N 005°37'16.51"E; 51°48'00.40"N 005°39'00.31"E; 51°46'59.97"N 005°34'59.93"E; 51°47'30.07"N 005°32'30.07"E; 51°46'59.97"N 005°28'59.79"E; 51°45'00.44"N 005°28'59.79"E; 51°45'00.41"N 005°20'13.29"E; 51°44'47.75"N 005°19'29.50"E; 51°44'37.65"N 005°19'02.93"E; 51°44'18.74"N 005°18'21.24"E; 51°44'09.90"N 005°17'53.45"E; 51°44'10.07"N 005°17'36.94"E; 51°44'19.66"N 005°17'06.45"E; 51°44'21.74"N 005°16'46.05"E; 51°44'19.14"N 005°15'56.79"E; 51°44'02.09"N 005°15'23.33"E; 51°43'59.29"N 005°15'06.15"E; 51°43'59.80"N 005°14'42.65"E; 51°44'26.16"N 005°13'49.49"E; 51°44'34.72"N 005°13'12.56"E; 51°44'32.32"N 005°12'52.42"E; 51°44'26.54"N 005°12'26.74"E; 51°44'22.22"N 005°11'59.54"E; 51°44'22.91"N 005°11'32.97"E; 51°44'29.07"N 005°11'03.87"E; 51°44'32.32"N 005°10'36.45"E; 51°44'31.98"N 005°09'53.09"E; 51°44'20.51"N 005°08'27.76"E; 51°44'06.48"N 005°07'09.98"E; 51°43'53.30"N 005°06'18.79"E; 51°43'26.90"N 005°05'15.36"E; 51°43'15.48"N 005°05'01.07"E; 51°42'51.42"N 005°04'31.87"E; 51°42'39.65"N 005°04'00.40"E; 51°42'34.52"N 005°03'43.79"E; 51°42'29.17"N 005°03'18.78"E; 51°42'25.96"N 005°02'45.38"E; 51°42'24.78"N 005°02'18.63"E; 51°42'25.32"N 005°01'54.85"E; 51°42'26.92"N 005°01'23.03"E; 51°42'31.52"N 005°00'40.71"E; 51°42'33.88"N 005°00'26.55"E; 51°42'36.01"N 004°59'50.01"E; 51°42'40.40"N 004°59'15.73"E; 51°42'32.60"N 004°58'07.18"E; 51°42'23.18"N 004°57'33.44"E; 51°42'24.04"N 004°56'56.37"E; 51°42'31.14"N 004°55'53.44"E; 51°42'44.78"N 004°54'58.17"E; 51°42'49.94"N 004°54'24.60"E; 51°42'55.27"N 004°54'06.77"E; 51°43'01.04"N 004°53'54.53"E; 51°43'31.85"N 004°53'57.32"E; 51°43'51.74"N 004°54'42.44"E; 51°44'31.10"N 004°55'26.15"E; 51°45'16.77"N 004°55'59.02"E; 51°45'50.89"N 004°56'04.62"E; 51°46'15.70"N 004°56'06.37"E; 51°47'20.52"N 004°56'23.50"E; 51°47'45.97"N 004°56'19.83"E; 51°48'40.73"N 004°57'53.03"E; 51°49'03.94"N 004°59'35.49"E; 51°49'10.93"N 005°00'24.83"E; 51°48'52.25"N 005°02'14.91"E; 51°49'29.60"N 005°04'49.16"E; 51°49'28.94"N 005°05'35.96"E; 51°48'46.54"N 005°07'34.61"E; 51°48'43.46"N 005°08'28.01"E; 51°48'55.11"N 005°09'55.90"E; 51°48'48.52"N 005°10'59.84"E; 51°48'30.50"N 005°13'10.14"E; 51°48'55.77"N 005°14'52.53"E; 51°49'19.50"N 005°18'14.68"E; 51°49'15.32"N 005°18'51.37"E; 51°48'57.30"N 005°19'27.41"E; 51°48'37.75"N 005°19'47.62"E; 51°48'20.61"N 005°20'07.18"E; 51°48'07.65"N 005°20'55.30"E; 51°48'13.40"N 005°21'47.81"E; 51°49'13.12"N 005°22'49.12"E; 51°50'39.48"N 005°24'46.45"E; 51°52'09.56"N 005°25'39.62"E; 51°52'59.88"N 005°26'39.39"E; 51°53'15.70"N 005°27'45.09"E; 51°53'17.90"N 005°30'39.99"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van 3.000 ft AMSL;
 
-- gg. EHTRA 82 (Zaltbommel) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°43'00.00"N 004°53'00.00"E; 51°49'00.00"N 004°56'00.00"E; 51°53'00.00"N 005°30'00.00"E; 51°47'00.00"N 005°30'00.00"E; terug naar beginpunt; tot 2.500 ft AMSL;
+- gg. EHTRA 82 (Zaltbommel) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°43'00.00"N 004°53'00.00"E; 51°49'00.00"N 004°56'00.00"E; 51°53'00.00"N 005°30'00.00"E; 51°47'00.00"N 005°30'00.00"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van 2.500 ft AMSL;
 
-- hh. EHTRA 83 (Ginkel) AMC-Manageable Area het gebied, begrensd door de lijn die de cirkel vormt met een straal van 5 nautische mijlen vanuit positie 52°02'00.00"N 005°43'00.00"E; tot 3.000 ft AMSL;
+- hh. EHTRA 83 (Ginkel) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 5 nautische mijlen vanuit positie 52°02'00.00"N 005°43'00.00"E; tot een in de NOTAM aan te geven maximum van 3.000 ft AMSL;
 
-- ii. EHTRA 84 (Uddel) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°10'00.00"N 005°38'00.00"E; 52°15'41.50"N 005°39'08.20"E; 52°20'00.00"N 005°40'00.00"E; 52°20'00.00"N 005°55'00.00"E; 52°10'00.00"N 005°53'00.00"E; terug naar beginpunt; tot 3.000 ft AMSL;
+- ii. EHTRA 84 (Uddel) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°10'00.00"N 005°38'00.00"E; 52°15'41.50"N 005°39'08.20"E; 52°20'00.00"N 005°40'00.00"E; 52°20'00.00"N 005°55'00.00"E; 52°10'00.00"N 005°53'00.00"E; terug naar beginpunt; tot een in de NOTAM aan te geven maximum van 3.000 ft AMSL;
 
-- jj. EHTSA 85 (Deelen Low) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°02'41.60"N 005°41'49.60"E; 52°04'49.60"N 005°41'56.00"E; 52°06'50.06"N 005°43'11.74"E; 52°08'07.70"N 005°44'47.20"E; 52°09'20.00"N 005°44'00.00"E; 52°11'30.00"N 005°47'00.00"E; 52°10'17.10"N 005°50'32.79"E; 52°12'05.96"N 005°51'26.74"E; 52°10'53.01"N 005°57'54.56"E; 52°01'48.97"N 005°52'51.27"E; terug naar beginpunt; tot 3.000 ft AMSL.
+- jj. EHTSA 85 (Deelen Low) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°02'41.60"N 005°41'49.60"E; 52°04'49.60"N 005°41'56.00"E; 52°06'50.06"N 005°43'11.74"E; 52°08'07.70"N 005°44'47.20"E; 52°09'20.00"N 005°44'00.00"E; 52°11'30.00"N 005°47'00.00"E; 52°10'17.10"N 005°50'32.79"E; 52°12'05.96"N 005°51'26.74"E; 52°10'53.01"N 005°57'54.56"E; 52°01'48.97"N 005°52'51.27"E; terug naar beginpunt; tot 3.000 ft AMSL;
+
+- kk. EHTSA 100 (Combi Recovery Circle) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 3 nautische mijlen vanuit positie 52°54'07.30"N 006°55'27.30"E; tot 2.000 ft AMSL;
+
+- ll. EHTSA 101 (Emmer-Compascuum) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 3 nautische mijlen vanuit 52°47'28.90"N 007°00'13.40"E; tot 2.000 ft AMSL;
+
+- mm. EHTSA 102 (De Krim) het gebied, begrensd door de lijn die de cirkel vormt met een straal van 3 nautische mijlen vanuit positie 52°39'50.30"N 006°38'28.70"E; tot 2.000 ft AMSL.
 
 6. De volgende gebieden zijn AMC-Manageable Areas van maandag tot en met donderdag van 08.00 uur tot 24.00 uur lokale tijd en op vrijdag van 08.00 uur tot 17.00 uur lokale tijd of incidenteel op andere per NOTAM bekendgemaakte hoogten, dagen en tijden. Indien deze gebieden binnen de gestelde tijden zijn geactiveerd door de AMC, is burgerluchtverkeer aldaar verboden, behoudens toestemming van MilATCC Schiphol:
 
@@ -269,15 +275,15 @@ tot 1.500 ft AMSL.
 
 - j. EHD 018 AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 55°00'00.00"N 005°00'00.00"E; langs de parallel naar 55°00'00.00"N 006°30'00.00"E; 53°40'00.00"N 006°30'00.00"E; 53°30'00.00"N 005°34'00.00"E; 53°26'24.00"N 005°10'00.00"E; 53°22'29.07"N 004°52'20.47"E; tegen de klok in met een boog (straal van 8 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) naar 53°19'39.51"N 004°46'10.31"E; 53°19'43.93"N 004°46'00.00"E; 53°30'00.00"N 004°46'00.00"E; langs de parallel naar 53°30'00.00"N 003°38'44.30"E; 54°00'00.00"N 004°05'04.96"E; 54°30'00.00"N 004°32'09.45"E; terug naar beginpunt; van FL 055 tot een maximum van FL 660;
 
-- k. EUC SEA 1 AMC-Manageable Area (voorheen: CBA SEA 1) het gebied, waarvan het Nederlandse deel wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°57'30.00"N 005°02'34.82"E; langs de parallel naar 54°57'30.00"N 006°30'00.00"E; 53°50'01.91"N 006°30'00.00"E; 53°32'30.00"N 004°49'39.38"E; langs de parallel naar 53°32'30.00"N 003°45'37.54"E; terug naar beginpunt; van FL 055 tot een in de NOTAM aan te geven maximum van FL 660;
+- k. EUC SEA 1 AMC-Manageable Area (voorheen: CBA SEA 1) het gebied, waarvan het Nederlandse deel wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°57'30.00"N 005°02'34.82"E; langs de parallel naar 54°57'30.00"N 006°30'00.00"E; 53°50'01.91"N 006°30'00.00"E; 53°32'30.00"N 004°49'39.38"E; langs de parallel naar 53°32'30.00"N 003°45'37.54"E; terug naar beginpunt; van FL 055 tot een maximum van FL 660;
 
-- l. EUC SEA 1L AMC-Manageable Area het gebied, waarvan het Nederlandse deel wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°57'30.00"N 005°38'20.22"E; langs de parallel naar 54°57'30.00"N 006°30'00.00"E; 53°50'01.91"N 006°30'00.00"E; 53°41'12.65"N 005°38'20.22"E; terug naar beginpunt; van FL 055 tot een in de NOTAM aan te geven maximum van FL 660;.
+- l. EUC SEA 1L AMC-Manageable Area het gebied, waarvan het Nederlandse deel wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°57'30.00"N 005°38'20.22"E; langs de parallel naar 54°57'30.00"N 006°30'00.00"E; 53°50'01.91"N 006°30'00.00"E; 53°41'12.65"N 005°38'20.22"E; terug naar beginpunt; van FL 055 tot een maximum van FL 660;
 
 - m. EHR 4A (Vliehors) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°10'12.59"N 004°46'21.14"E; met de klok mee met een boog (straal van 8 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) naar 53°07'01.98"N 004°56'02.41"E; 53°11'00.00"N 004°51'24.00"E; terug naar beginpunt; van FL 065 tot FL 285;
 
 - n. EHR 4E (Vliehors) AMC-Manageable Area het gebied, begrensd door een lijn die achtereenvolgens de volgende posities verbindt: 53°11'06.00"N 004°38'07.51"E; 53°30'00.00"N 004°20'00.00"E; langs de parallel naar 53°30'00.00"N 005°10'00.00"E; 53°16'44.82"N 005°10'00.00"E; tegen de klok in met een boog (straal van 8 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) naar 53°15'00.00"N 004°43'40.92"E; langs de parallel naar 53°15'00.00"N 004°37'01.38"E; tegen de klok in met een boog (straal van 12 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) terug naar beginpunt; van 10.000 ft AMSL tot FL 285;
 
-- o. EHR 8A (Den Helder) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°57'42.00"N 004°44'25.00"E; 52°52'00.00"N 004°43'00.00"E; 52°47'00.00"N 004°41'00.00"E; 52°45'00.00"N 004°32'00.00"E; 52°46'30.00"N 004°26'00.00"E; 52°49'00.00"N 004°21'00.00"E; 53°05'00.00"N 004°21'00.00"E; 53°06'10.00"N 004°30'56.00"E; 53°02'59.00"N 004°40'46.00"E; terug naar beginpunt; van FL 065 tot een in de NOTAM aan te geven maximum van FL 660;
+- o. EHR 8A (Den Helder) AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°57'42.00"N 004°44'25.00"E; 52°52'00.00"N 004°43'00.00"E; 52°47'00.00"N 004°41'00.00"E; 52°45'00.00"N 004°32'00.00"E; 52°46'30.00"N 004°26'00.00"E; 52°49'00.00"N 004°21'00.00"E; 53°05'00.00"N 004°21'00.00"E; 53°06'10.00"N 004°30'56.00"E; 53°02'59.00"N 004°40'46.00"E; terug naar beginpunt; van FL 065 tot een maximum van FL 660;
 
 - p. EHTRA 10A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°40'00.00"N 006°30'00.00"E; 53°33'38.00"N 006°36'24.00"E; 53°31'22.00"N 006°40'20.00"E; 53°30'15.00"N 006°44'30.00"E; 53º24'37.00"N 006°36'30.00"E; 52°48'02.89"N 005°17'10.78"E; 52°43'30.00"N 004°33'40.00"E; 52°45'25.00"N 004°28'03.00"E; 52°48'19.15"N 004°21'00.00"E; 53°05'00.00"N 004°21'00.00"E; 53°06'10.00"N 004°30'56.00"E; 53°09'17.00"N 004°40'28.00"E; 53°11'06.00"N 004°38'07.51"E; met de klok mee met een boog (straal van 12 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) naar 53°15'00.00"N 004°37'01.38"E; langs de parallel naar 53°15'00.00"N 004°43'40.92"E; met de klok mee met een boog (straal van 8 nautische mijlen vanuit positie 53°15'00.00"N 004°57'00.00"E) naar 53°22'29.07"N 004°52'20.47"E; 53°26'24.00"N 005°10'00.00"E; 53°30'00.00"N 005°34'00.00"E; terug naar beginpunt; van FL 095 tot een maximum van FL 660;
 
@@ -289,7 +295,11 @@ tot 1.500 ft AMSL.
 
 - t. EHTRA 12A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°38'28.12"N 004°53'49.03"E; 51°51'20.13"N 005°01'57.73"E; 51°58'55.00"N 005°17'42.00"E; 52°01'10.99"N 005°44'45.29"E; 51°50'41.85"N 006°02'17.96"E; langs de Nederlands-Duitse grens naar 51°14'45.88"N 006°04'54.01"E; 51°14'54.61"N 005°57'44.46"E; 51°15'38.94"N 005°53'10.31"E; terug naar beginpunt; van FL 285 tot FL 660;
 
-- u. EB TRA North B AMC-Manageable Area het Nederlandse deel van de grotendeels in België gelegen TRA North B wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'00.00"N 005°04'00.00"E; langs de Nederlands-Belgische grens naar 51°16'00.00"N 005°27'00.00"E; terug naar beginpunt; van FL 095 tot FL 660.
+- u. EHTRA 15 AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°00'00.02"N 007°12'33.92"E; langs de Nederlands-Duitse grens naar 52°14'14.00"N 007°03'46.88"E; 52°12'57.00"N 006°43'50.00"E; 52°25'34.00"N 006°20'00.00"E; 52°45'50.00"N 006°20'00.00"E; 52°54'56.81"N 006°29'51.54"E; terug naar beginpunt; van FL 065 tot een maximum van FL 195;
+
+- v. EHTRA 15A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°00'00.02"N 007°12'33.92"E; langs de Nederlands-Duitse grens naar 52°14'14.00"N 007°03'46.88"E; 52°12'57.00"N 006°43'50.00"E; 52°25'34.00"N 006°20'00.00"E; 52°45'50.00"N 006°20'00.00"E; 52°54'56.81"N 006°29'51.54"E; terug naar beginpunt; van FL 195 tot een maximum van FL 245;
+
+- w. EB TRA North B AMC-Manageable Area het Nederlandse deel van de grotendeels in België gelegen TRA North B wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'00.00"N 005°04'00.00"E; langs de Nederlands-Belgische grens naar 51°16'00.00"N 005°27'00.00"E; terug naar beginpunt; van FL 095 tot FL 660.
 
 7. In de gebieden EHR 4 en EHR 4B wordt aan de gezagvoerders van militaire vliegtuigen, voor zover voor de militaire oefening noodzakelijk, vrijstelling verleend van het verbod om een VFR-vlucht uit te voeren beneden de bij of krachtens paragraaf SERA.5005, onderdeel (f), van verordening (EU) nr. 923/2012 vastgestelde minimum vlieghoogte.
 
@@ -341,19 +351,19 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 ##### Artikel 6. Vluchten uitgezonderd van de verboden
 
-1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2019-03-28&g=2019-03-28) (gebied EHR 3), is niet van toepassing op:
+1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2020-06-18&g=2020-06-18) (gebied EHR 3), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid, en
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2019-03-28&g=2019-03-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2019-03-28&g=2019-03-28), zijn niet van toepassing op:
+2. De verboden, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=3&z=2020-06-18&g=2020-06-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=4&z=2020-06-18&g=2020-06-18), zijn niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
 - b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2019-03-28&g=2019-03-28) (gebied EHP 25), is niet van toepassing op:
+3. Het verbod, genoemd in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2020-06-18&g=2020-06-18) (gebied EHP 25), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -361,7 +371,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - c. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumateams en het vervoer van slachtoffers of voor zoek- en reddingsacties.
 
-4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2019-03-28&g=2019-03-28) (gebied EHP 26A), is niet van toepassing op:
+4. Het verbod, genoemd in [artikel 5, onderdelen b (gebied EHP 26) en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=5&z=2020-06-18&g=2020-06-18) (gebied EHP 26A), is niet van toepassing op:
 
 - a. luchtvaartuigen van de Dienst Infrastructuur van de Landelijke eenheid;
 
@@ -373,7 +383,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. vluchten door civiel geregistreerde historische militaire luchtvaartuigen die deelnemen aan de luchtvaartvertoning ter gelegenheid van de Nederlandse Veteranendag.
 
-5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2019-03-28&g=2019-03-28), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2019-03-28&g=2019-03-28). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
+5. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2020-06-18&g=2020-06-18), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2020-06-18&g=2020-06-18). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
 ##### Artikel 7. Coördinatie militaire oefeningen
 
@@ -381,9 +391,9 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - a. de Commandant Zeestrijdkrachten voor de gebieden EHR 8, EHR 8A, EHD 41A, EHD 41B, EHD 41C en EHD 41D;
 
-- b. de Commandant Landstrijdkrachten voor de gebieden EHR 2, EHR 3, EHR 3A, EHR 3B, EHR 9, EHR 49, EHTSA 50, EHTSA 51, EHTSA 52, EHTSA 53, EHTSA 54, EHTSA 55A, EHTSA 55B, EHTSA 56, EHTSA 57, EHTRA 59, EHR 64 en EHR 65;
+- b. de Commandant Landstrijdkrachten voor de gebieden EHR 2, EHR 3, EHR 3A, EHR 3B, EHR 9, EHR 49, EHTSA 50, EHTSA 51, EHTSA 52, EHTSA 53, EHTSA 54, EHTSA 55, EHTSA 56, EHTSA 57, EHTRA 59, EHR 64, EHR 65, EHTSA 100, EHTSA 101 en EHTSA 102;
 
-- c. de Commandant Luchtstrijdkrachten voor de gebieden EHD 01, EHD 02, EHD 03, EHD 04, EHD 05, EHD 06, EHD 07, EHD 08, EHD 09, EHD 018, EUC SEA 1, EUC SEA 1L, EHTSA 1A, EHTSA 1B, EHR 2A, EHR 2B, EHR 2C, EHR 4, EHR 4A, EHR 4B, EHR 4C, EHR 4D, EHR 4E, EHR 4F, EHTRA 10A, EHTRA 10B, EHTRA 11, EHTRA 12, EHTRA 12A, EHTRA 14, EHTRA 14B, EHTRA 14C, EHD 42, EHTRA 58, EHR 61, EHR 62, EHR 63, EHTRA 72, EHTRA 80, EHTRA 81, EHTRA 82, EHTRA 83, EHTRA 84, EHTSA 85 en EB TRA North B.
+- c. de Commandant Luchtstrijdkrachten voor de gebieden EHD 01, EHD 02, EHD 03, EHD 04, EHD 05, EHD 06, EHD 07, EHD 08, EHD 09, EHD 018, EUC SEA 1, EUC SEA 1L, EHTSA 1A, EHTSA 1B, EHR 2A, EHR 2B, EHR 2C, EHR 4, EHR 4A, EHR 4B, EHR 4C, EHR 4D, EHR 4E, EHR 4F, EHTRA 10A, EHTRA 10B, EHTRA 11, EHTRA 12, EHTRA 12A, EHTRA 14, EHTRA 14B, EHTRA 14C, EHTRA 15, EHTRA 15A, EHD 42, EHTRA 58, EHR 61, EHR 62, EHR 63, EHTRA 72, EHTRA 80, EHTRA 81, EHTRA 82, EHTRA 83, EHTRA 84, EHTSA 85 en EB TRA North B.
 
 2. Mede ten behoeve van de uitgifte van NOTAMs worden door de autoriteiten, genoemd in het eerste lid, coördinatoren aangewezen.
 
