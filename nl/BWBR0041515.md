@@ -4,7 +4,7 @@ identifier: "BWBR0041515"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-01"
-last_updated: "2019-01-01"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041515"
 soort: "wet"
@@ -51,17 +51,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **aanbieder:** overheidsorganisatie of privaatrechtelijke rechtspersoon die een dienst exploiteert, beheert of beschikbaar stelt;
 
-- –. **aanbieder van een essentiële dienst:** aanbieder van een essentiële dienst als bedoeld in artikel 4 van de NIB-richtlijn, aangewezen op grond van [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2019-01-01&g=2019-01-01);
+- –. **aanbieder van een essentiële dienst:** aanbieder van een essentiële dienst als bedoeld in artikel 4 van de NIB-richtlijn, aangewezen op grond van [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2020-07-15&g=2020-06-18);
 
 - –. **beveiliging van netwerk- en informatiesystemen, digitale dienst, incident, netwerk- en informatiesysteem, norm, onderscheidenlijk afbreekrisico:** hetgeen daaronder wordt verstaan in artikel 4 van de NIB-richtlijn;
 
-- –. **bevoegde autoriteit:** bevoegde autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2019-01-01&g=2019-01-01);
+- –. **bevoegde autoriteit:** bevoegde autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2020-07-15&g=2020-06-18);
 
 - –. **centraal contactpunt:** centraal contactpunt als bedoeld in artikel 8, derde lid, van de NIB-richtlijn;
 
 - –. **CSIRT:** Computer security incident response team als bedoeld in artikel 9 van de NIB-richtlijn;
 
-- –. **CSIRT voor digitale diensten:** CSIRT, aangewezen op grond van [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2019-01-01&g=2019-01-01);
+- –. **CSIRT voor digitale diensten:** CSIRT, aangewezen op grond van [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2020-07-15&g=2020-06-18);
 
 - –. **digitaledienstverlener:** rechtspersoon die een digitale dienst aanbiedt en gelet op artikel 18, eerste en tweede lid, van de NIB-richtlijn onder de jurisdictie van Nederland valt, met uitzondering van kleine en micro-ondernemingen als bedoeld in artikel 16, elfde lid, van de NIB-richtlijn;
 
@@ -85,7 +85,7 @@ Onze Minister is:
 
 - b. voor aanbieders van een essentiële dienst: het CSIRT;
 
-- c. de instantie voor de behandeling van vrijwillige meldingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01).
+- c. de instantie voor de behandeling van vrijwillige meldingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2020-07-15&g=2020-06-18).
 
 ##### Artikel 3. (taken van Onze Minister)
 
@@ -111,7 +111,7 @@ Onze Minister is:
 
 - d. aanbieders van internettoegangs- en internetcommunicatiediensten ten behoeve van het informeren van gebruikers van die diensten.
 
-3. Voorts heeft Onze Minister tot taak: de behandeling van vrijwillige meldingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01).
+3. Voorts heeft Onze Minister tot taak: de behandeling van vrijwillige meldingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2020-07-15&g=2020-06-18).
 
 ### Hoofdstuk 3. Taken van andere instanties
 
@@ -181,13 +181,13 @@ De aanbieder van een essentiële dienst en de digitaledienstverlener nemen passe
 
 ##### Artikel 9. (nadere regels)
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de maatregelen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2019-01-01&g=2019-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2019-01-01&g=2019-01-01).
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de maatregelen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-07-15&g=2020-06-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2020-07-15&g=2020-06-18).
 
 #### § 3. Meldplicht voor incidenten
 
 ##### Artikel 10. (aangewezen vitale aanbieder)
 
-1. De vitale aanbieder, aangewezen op grond van [artikel 5, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2019-01-01&g=2019-01-01), meldt onverwijld bij Onze Minister:
+1. De vitale aanbieder, aangewezen op grond van [artikel 5, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2020-07-15&g=2020-06-18), meldt onverwijld bij Onze Minister:
 
 - a. een incident met aanzienlijke gevolgen voor de continuïteit van de door hem verleende dienst;
 
@@ -195,7 +195,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 2. De aanbieder van een essentiële dienst meldt een incident als bedoeld in het eerste lid, onder a, ook onverwijld bij de bevoegde autoriteit.
 
-3. Onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01) meldt de aanbieder van een essentiële dienst een incident bij een digitaledienstverlener onverwijld bij Onze Minister en bij de bevoegde autoriteit, als dat incident aanzienlijke gevolgen heeft voor de continuïteit van zijn essentiële dienst.
+3. Onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18) meldt de aanbieder van een essentiële dienst een incident bij een digitaledienstverlener onverwijld bij Onze Minister en bij de bevoegde autoriteit, als dat incident aanzienlijke gevolgen heeft voor de continuïteit van zijn essentiële dienst.
 
 4. Om te bepalen of een incident aanzienlijke gevolgen heeft voor de continuïteit van de essentiële dienst, worden in elk geval in aanmerking genomen:
 
@@ -205,11 +205,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 - c. de omvang van het geografische gebied dat door het incident is getroffen.
 
-5. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01) wordt in het derde lid onder digitaledienstverlener tevens de digitaledienstverlener verstaan die niet valt onder de jurisdictie van Nederland.
+5. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=1&artikel=1&z=2020-07-15&g=2020-06-18) wordt in het derde lid onder digitaledienstverlener tevens de digitaledienstverlener verstaan die niet valt onder de jurisdictie van Nederland.
 
 ##### Artikel 11. (bij de melding te verstrekken gegevens)
 
-De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01) bedoelde melding omvat in ieder geval:
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18) bedoelde melding omvat in ieder geval:
 
 - a. de aard en omvang van het incident;
 
@@ -225,11 +225,11 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&p
 
 ##### Artikel 12. (verstrekking nadere gegevens door aangewezen vitale aanbieder)
 
-1. Desgevraagd verstrekt de aanbieder die een melding als bedoeld in [artikel 10, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), bij Onze Minister heeft gedaan, Onze Minister onverwijld alle overige gegevens die noodzakelijk zijn om:
+1. Desgevraagd verstrekt de aanbieder die een melding als bedoeld in [artikel 10, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18), bij Onze Minister heeft gedaan, Onze Minister onverwijld alle overige gegevens die noodzakelijk zijn om:
 
 - a. de aanbieder bij te staan bij het treffen van maatregelen om de continuïteit van zijn diensten te waarborgen of te herstellen;
 
-- b. de risico’s in te schatten voor de netwerk- en informatiesystemen, bedoeld in [artikel 3, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01).
+- b. de risico’s in te schatten voor de netwerk- en informatiesystemen, bedoeld in [artikel 3, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2020-07-15&g=2020-06-18).
 
 2. Het eerste lid is van overeenkomstige toepassing als de aanbieder een incident heeft gemeld bij de bevoegde autoriteit en deze de door haar ontvangen gegevens heeft verstrekt aan Onze Minister.
 
@@ -257,7 +257,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&p
 
 ##### Artikel 14. (verstrekking nadere gegevens door digitaledienstverleners)
 
-1. Desgevraagd verstrekt de digitaledienstverlener die een melding als bedoeld in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), bij het CSIRT voor digitale diensten heeft gedaan, het CSIRT voor digitale diensten onverwijld alle overige gegevens die noodzakelijk zijn om:
+1. Desgevraagd verstrekt de digitaledienstverlener die een melding als bedoeld in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18), bij het CSIRT voor digitale diensten heeft gedaan, het CSIRT voor digitale diensten onverwijld alle overige gegevens die noodzakelijk zijn om:
 
 - a. de digitaledienstverlener bij te staan bij het treffen van maatregelen om de continuïteit van zijn diensten te waarborgen of te herstellen;
 
@@ -267,17 +267,17 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&p
 
 ##### Artikel 15. (nadere regels meldplicht)
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), waaronder regels over:
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18), waaronder regels over:
 
-- a. de gegevens die ter uitvoering van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01) worden verstrekt;
+- a. de gegevens die ter uitvoering van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=11&z=2020-07-15&g=2020-06-18) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18) worden verstrekt;
 
-- b. de wijze waarop een melding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01) wordt gedaan en waarop gegevens als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=12&z=2019-01-01&g=2019-01-01) worden verstrekt.
+- b. de wijze waarop een melding als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18) wordt gedaan en waarop gegevens als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=12&z=2020-07-15&g=2020-06-18) worden verstrekt.
 
 #### § 4. Vrijwillige melding van incidenten
 
 ##### Artikel 16. (vrijwillige melding van incidenten)
 
-1. Als een incident aanzienlijke gevolgen heeft voor de continuïteit van een dienst maar niet valt onder de meldplicht van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&z=2019-01-01&g=2019-01-01), kan de betrokken dienstverlener dat incident melden bij Onze Minister.
+1. Als een incident aanzienlijke gevolgen heeft voor de continuïteit van een dienst maar niet valt onder de meldplicht van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&z=2020-07-15&g=2020-06-18), kan de betrokken dienstverlener dat incident melden bij Onze Minister.
 
 2. Onze Minister neemt de melding niet in behandeling als dat hem onevenredig of overmatig zou belasten.
 
@@ -291,27 +291,27 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 ##### Artikel 17. (verwerking van gegevens door Onze Minister en andere instanties)
 
-1. Onze Minister verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01) genoemde doeleinden en taken. Hij is verwerkingsverantwoordelijke.
+1. Onze Minister verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2020-07-15&g=2020-06-18) genoemde doeleinden en taken. Hij is verwerkingsverantwoordelijke.
 
-2. De bevoegde autoriteit verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2019-01-01&g=2019-01-01), genoemde taak. Zij is verwerkingsverantwoordelijke.
+2. De bevoegde autoriteit verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2020-07-15&g=2020-06-18), genoemde taak. Zij is verwerkingsverantwoordelijke.
 
 3. Het CSIRT voor digitale diensten verwerkt gegevens, waaronder persoonsgegevens, ten behoeve van de taken, genoemd in bijlage I van de NIB-richtlijn. Het is verwerkingsverantwoordelijke.
 
 ##### Artikel 18. (verstrekking gegevens aan Onze Minister)
 
-1. Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in [artikel 3, eerste lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01), genoemde taken.
+1. Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in [artikel 3, eerste lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2020-07-15&g=2020-06-18), genoemde taken.
 
 2. De rechtspersoon of het orgaan kan op grond van het eerste lid gevraagde persoonsgegevens ook aan Onze Minister verstrekken als die verstrekking onverenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verzameld.
 
 ##### Artikel 19. (verstrekking incidentinformatie aan en door centrale contactpunten)
 
-1. Ter uitvoering van artikel 10, derde lid, eerste volzin, van de NIB-richtlijn stelt het CSIRT voor digitale diensten Onze Minister op de hoogte van gedane meldingen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01).
+1. Ter uitvoering van artikel 10, derde lid, eerste volzin, van de NIB-richtlijn stelt het CSIRT voor digitale diensten Onze Minister op de hoogte van gedane meldingen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18).
 
-2. Als blijkt uit een melding door een aanbieder van een essentiële dienst van een incident als bedoeld in [artikel 10, eerste lid, onder a, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), of [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2019-01-01&g=2019-01-01), dat het incident aanzienlijke gevolgen heeft voor de continuïteit van een essentiële dienst in een andere lidstaat van de Europese Unie, stelt Onze Minister het centrale contactpunt van die lidstaat daarvan op de hoogte.
+2. Als blijkt uit een melding door een aanbieder van een essentiële dienst van een incident als bedoeld in [artikel 10, eerste lid, onder a, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18), of [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2020-07-15&g=2020-06-18), dat het incident aanzienlijke gevolgen heeft voor de continuïteit van een essentiële dienst in een andere lidstaat van de Europese Unie, stelt Onze Minister het centrale contactpunt van die lidstaat daarvan op de hoogte.
 
 3. Op verzoek van de bevoegde autoriteit of uit eigen beweging stuurt Onze Minister de in het tweede lid bedoelde melding door naar het centrale contactpunt van de andere getroffen lidstaat.
 
-4. Als dat passend is en in elk geval als twee of meer lidstaten getroffen zijn, stelt Onze Minister het centrale contactpunt van de getroffen lidstaten op de hoogte van een bij het CSIRT voor digitale diensten gemeld incident als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01).
+4. Als dat passend is en in elk geval als twee of meer lidstaten getroffen zijn, stelt Onze Minister het centrale contactpunt van de getroffen lidstaten op de hoogte van een bij het CSIRT voor digitale diensten gemeld incident als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18).
 
 5. Als blijkt uit gegevens die Onze Minister heeft ontvangen van een centraal contactpunt in een andere lidstaat dat een daar gemeld incident aanzienlijke gevolgen heeft voor de continuïteit van:
 
@@ -321,13 +321,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 ##### Artikel 20. (verstrekking van vertrouwelijke gegevens door Onze Minister)
 
-1. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01) genoemde taken verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een aanbieder als:
+1. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2020-07-15&g=2020-06-18) genoemde taken verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een aanbieder als:
 
 - a. de geheimhouding van die gegevens onvoldoende is gewaarborgd, of
 
 - b. onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.
 
-2. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2019-01-01&g=2019-01-01) genoemde taken kan Onze Minister vertrouwelijke gegevens die herleid kunnen worden tot een aanbieder, zonder diens instemming uitsluitend verstrekken voor zover dat dienstig is aan het bevorderen van maatregelen ter voorkoming of beperking van een verstoring van het maatschappelijk verkeer. Ingevolge de eerste volzin worden uitsluitend gegevens verstrekt aan:
+2. Ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=2&artikel=3&z=2020-07-15&g=2020-06-18) genoemde taken kan Onze Minister vertrouwelijke gegevens die herleid kunnen worden tot een aanbieder, zonder diens instemming uitsluitend verstrekken voor zover dat dienstig is aan het bevorderen van maatregelen ter voorkoming of beperking van een verstoring van het maatschappelijk verkeer. Ingevolge de eerste volzin worden uitsluitend gegevens verstrekt aan:
 
 - a. CSIRT’s;
 
@@ -345,7 +345,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 5. Het eerste lid geldt niet voor de in het vierde lid, onder b, bedoelde mededelingen aan het publiek.
 
-6. Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van [artikel 19, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=19&z=2019-01-01&g=2019-01-01).
+6. Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van [artikel 19, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=19&z=2020-07-15&g=2020-06-18).
 
 7. De [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op gegevens als bedoeld in het tweede lid, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking op grond van dit artikel.
 
@@ -369,27 +369,27 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 4. Voor zover dat noodzakelijk is om ernstige economische of sociale gevolgen te voorkomen of te beperken verstrekt het CSIRT voor digitale diensten onverwijld gegevens als bedoeld in het tweede lid aan de bevoegde autoriteit of Onze betrokken Minister.
 
-5. Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=19&z=2019-01-01&g=2019-01-01).
+5. Het tweede lid geldt niet voor zover dat nodig is ter uitvoering van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=19&z=2020-07-15&g=2020-06-18).
 
-6. [Artikel 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing op gegevens als bedoeld in het tweede lid.
+6. [Artikel 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2020-07-15&g=2020-06-18), is van overeenkomstige toepassing op gegevens als bedoeld in het tweede lid.
 
 ##### Artikel 22. (verstrekking van vertrouwelijke gegevens door de bevoegde autoriteit)
 
-1. Ter uitvoering van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2019-01-01&g=2019-01-01), genoemde taak verstrekt de bevoegde autoriteit geen vertrouwelijke gegevens met betrekking tot een aanbieder van een essentiële dienst of een digitaledienstverlener die zij ingevolge deze wet verkrijgt, als:
+1. Ter uitvoering van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2020-07-15&g=2020-06-18), genoemde taak verstrekt de bevoegde autoriteit geen vertrouwelijke gegevens met betrekking tot een aanbieder van een essentiële dienst of een digitaledienstverlener die zij ingevolge deze wet verkrijgt, als:
 
 - a. de geheimhouding van die gegevens onvoldoende is geborgd, of
 
 - b. onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.
 
-2. [Artikel 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2019-01-01&g=2019-01-01), is van overeenkomstige toepassing op vertrouwelijke gegevens als bedoeld in het eerste lid die herleid kunnen worden tot een aanbieder van een essentiële dienst of een digitaledienstverlener.
+2. [Artikel 20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2020-07-15&g=2020-06-18), is van overeenkomstige toepassing op vertrouwelijke gegevens als bedoeld in het eerste lid die herleid kunnen worden tot een aanbieder van een essentiële dienst of een digitaledienstverlener.
 
 ##### Artikel 23. (openbaarmaking incidenten)
 
-Onverminderd [artikel 20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2019-01-01&g=2019-01-01), kan de bevoegde autoriteit, na raadpleging van de betrokken aanbieder:
+Onverminderd [artikel 20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=5&artikel=20&z=2020-07-15&g=2020-06-18), kan de bevoegde autoriteit, na raadpleging van de betrokken aanbieder:
 
-- a. als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen: het publiek informeren over een gemeld incident als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2019-01-01&g=2019-01-01), of vorderen dat de aanbieder dit doet;
+- a. als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen: het publiek informeren over een gemeld incident als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=10&z=2020-07-15&g=2020-06-18), of vorderen dat de aanbieder dit doet;
 
-- b. als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen, of wanneer de openbaarmaking van het incident anderszins in het algemeen belang is: het publiek informeren over een gemeld incident als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2019-01-01&g=2019-01-01), of vorderen dat de digitaledienstverlener dit doet.
+- b. als publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen, of wanneer de openbaarmaking van het incident anderszins in het algemeen belang is: het publiek informeren over een gemeld incident als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=13&z=2020-07-15&g=2020-06-18), of vorderen dat de digitaledienstverlener dit doet.
 
 ### Hoofdstuk 6. Handhaving
 
@@ -407,7 +407,7 @@ Dit hoofdstuk is alleen van toepassing op aanbieders van een essentiële dienst 
 
 1. De bevoegde autoriteit kan een aanbieder van een essentiële dienst bij besluit de verplichting opleggen dat de aanbieder:
 
-- a. een onafhankelijke deskundige laat onderzoeken of de door de aanbieder genomen maatregelen voldoen aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2019-01-01&g=2019-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2019-01-01&g=2019-01-01) en aan de nadere regels, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=9&z=2019-01-01&g=2019-01-01), en
+- a. een onafhankelijke deskundige laat onderzoeken of de door de aanbieder genomen maatregelen voldoen aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-07-15&g=2020-06-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2020-07-15&g=2020-06-18) en aan de nadere regels, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=9&z=2020-07-15&g=2020-06-18), en
 
 - b. de resultaten van dat onderzoek binnen een bij het besluit gestelde redelijke termijn verstrekt aan de bevoegde autoriteit.
 
@@ -419,7 +419,7 @@ Dit hoofdstuk is alleen van toepassing op aanbieders van een essentiële dienst 
 
 ##### Artikel 27. (bindende aanwijzing)
 
-De bevoegde autoriteit kan degene die niet voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2019-01-01&g=2019-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2019-01-01&g=2019-01-01) of aan de nadere regels, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=9&z=2019-01-01&g=2019-01-01), door middel van het geven van een aanwijzing verplichten om binnen een daarbij gestelde redelijke termijn de daarbij omschreven maatregelen te nemen.
+De bevoegde autoriteit kan degene die niet voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=7&z=2020-07-15&g=2020-06-18) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=8&z=2020-07-15&g=2020-06-18) of aan de nadere regels, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=2&artikel=9&z=2020-07-15&g=2020-06-18), door middel van het geven van een aanwijzing verplichten om binnen een daarbij gestelde redelijke termijn de daarbij omschreven maatregelen te nemen.
 
 ##### Artikel 28. (last onder bestuursdwang)
 
@@ -439,7 +439,7 @@ De bevoegde autoriteit is bevoegd tot oplegging van een last onder bestuursdwang
 
 2. De boete bedraagt ten hoogste:
 
-- a. in geval van overtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=12&z=2019-01-01&g=2019-01-01) of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20): 1 miljoen euro;
+- a. in geval van overtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=3&artikel=12&z=2020-07-15&g=2020-06-18) of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20): 1 miljoen euro;
 
 - b. in geval van een andere overtreding: 5 miljoen euro.
 
