@@ -427,9 +427,3 @@ Bij de verstrekking van gegevens als bedoeld in [artikel 44 van het EB VO BES](h
 Dit besluit wordt aangehaald als: Besluit eindexamens voortgezet onderwijs BES 2020.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 21a. Omhang
-
-Deze regeling berust op de [artikelen 2.58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58), [2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61) en [2.65 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.65).
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
