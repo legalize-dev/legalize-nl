@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-01-01&g=2020-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-06-20&g=2020-06-20), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-01-01&g=2020-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-06-20&g=2020-06-20), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -2082,7 +2082,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-01-01&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-01-01&g=2020-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-06-20&g=2020-06-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-06-20&g=2020-06-20) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
@@ -2102,7 +2102,7 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die niet actief is in de primaire landbouwproductie of de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-01-01&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-01-01&g=2020-01-01)
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2020-06-20&g=2020-06-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2020-06-20&g=2020-06-20)
 
 ### Paragraaf 1. Algemeen
 
@@ -2488,9 +2488,9 @@ https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/groene-economie/circulaire-ec
 
 De investering in het circulaire utiliteitsgebouw(deel) komt voor ten hoogste de volgende bedragen per gevalideerde vierkante meter bruto vloeroppervlakte (bvo) in aanmerking voor milieu-investeringsaftrek:
 
-€ 600 bij een gebouw(deel) dat niet voldoet aan punt 8.
+€ 600 bij een gebouw(deel) dat niet voldoet aan punt 7.
 
-€ 900 bij een gebouw(deel) dat voldoet aan punt 8.
+€ 900 bij een gebouw(deel) dat voldoet aan punt 7.
 
 Investeringen in een circulair utiliteitsgebouw(deel) zoals hierboven genoemd, kunnen uitsluitend in zijn geheel voor bedrijfsmiddel D 6101 gemeld worden. Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6126 van de milieu-investeringsaftrek.
 
@@ -2698,7 +2698,7 @@ De investering in het utiliteitsgebouw komt voor ten hoogste het volgende bedrag
 
 € 400 bij een gebouw(deel) met industriefunctie.
 
-Investeringen in een utiliteitsgebouw binnen het kalenderjaar van de eerste melding voor milieu-investeringsaftrek kunnen uitsluitend in zijn geheel voor een van de bedrijfsmiddelen D 6115 tot en met E 6126 worden gemeld. Vervolginvesteringen in dit bouwproject in nakomende jaren kunnen uitsluitend gemeld worden voor bedrijfsmiddel E 6130 van de betreffende Milieulijst indien voldaan wordt aan de eisen van dat bedrijfsmiddel. Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6126 van de milieu-investeringsaftrek.
+Investeringen in een utiliteitsgebouw binnen het kalenderjaar van de eerste melding voor milieu-investeringsaftrek kunnen uitsluitend in zijn geheel voor een van de bedrijfsmiddelen D 6115 tot en met E 6126 worden gemeld. Vervolginvesteringen in dit bouwproject in nakomende jaren komen niet in aanmerking voor milieu-investeringsaftrek. Duurzame energieopwekkingsinstallaties zijn geen onderdeel van een gebouw volgens bedrijfsmiddel G 6100 tot en met E 6126 van de milieu-investeringsaftrek.
 
 Toelichting: Een gebouw, waarbinnen meerdere functies gecombineerd worden, kan één MilieuPrestatieberekening voor Gebouwen (MPG) voor de combinatie van de gebouwfuncties hebben.
 
