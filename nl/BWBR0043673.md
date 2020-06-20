@@ -4,7 +4,7 @@ identifier: "BWBR0043673"
 country: "nl"
 rank: "kb"
 publication_date: "2020-06-20"
-last_updated: "2020-06-01"
+last_updated: "2020-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043673"
 soort: "KB"
@@ -50,7 +50,7 @@ Als ‘verboden plaats’ in de zin van [artikel 1 van de Wet bescherming staats
 
 ##### Artikel 2
 
-De krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043673&artikel=1&z=2020-06-20&g=2020-06-01) aangewezen verboden plaatsen worden als zodanig aangegeven op de deuren toegang gevende tot de in artikel 1 bedoelde ruimten, vermeldende:
+De krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043673&artikel=1&z=2020-06-20&g=2020-06-20) aangewezen verboden plaatsen worden als zodanig aangegeven op de deuren toegang gevende tot de in artikel 1 bedoelde ruimten, vermeldende:
 
 ‘Verboden toegang voor onbevoegden – Verboden plaats ingevolge de [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074)’.
 
