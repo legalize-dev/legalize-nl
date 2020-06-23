@@ -4,7 +4,7 @@ identifier: "BWBR0042339"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-12"
-last_updated: "2019-06-28"
+last_updated: "2020-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042339"
 soort: "ministeriele-regeling"
@@ -72,9 +72,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - **regionaal partnerschap:** een samenwerkingsverband
 
-- a. a. dat bestaat uit minimaal drie VSV’s en/of IGO’s, tenzij door uitzonderlijke geografische omstandigheden slechts twee VSV’s in de regio beschikbaar zijn; en
+- a. dat bestaat uit minimaal drie VSV’s of IGO’s, tenzij door uitzonderlijke geografische omstandigheden slechts twee VSV’s in de regio beschikbaar zijn; en
 
-- b. b. waarbij in ieder geval de gemeentelijke gezondheidsdienst (GGD) of andere aanbieders van jeugdgezondheidszorg betrokken zijn.
+- b. waar bij voorkeur de gemeentelijke gezondheidsdienst (GGD) of andere aanbieders van jeugdgezondheidszorg betrokken zijn;
 
 - **regionale ondersteuningsstructuur (ROS):** een regionale ondersteuning die valt onder de beleidsregel ‘regionale ondersteuning eerstelijnszorg en kwaliteitsontwikkeling’ ingevolge [artikel 57, eerste lid, aanhef en onder b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg) van de Nederlandse Zorgautoriteit (NZa);
 
@@ -100,9 +100,9 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 ##### Artikel 3. Activiteiten penvoerder regionaal partnerschap
 
-1. De activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=2&z=2019-06-28&g=2019-06-28), bestaan uit:
+1. De activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=2&z=2020-06-23&g=2020-06-23), bestaan uit:
 
-- a. het implementeren van aanpassingen tussen en aan zorginformatiesystemen die resulteren in zowel regionaal als landelijke digitale informatie-uitwisseling in de geboortezorgketen en het uitwisselen van deze gegevens met de zorggebruiker, en voldoen aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28);
+- a. het implementeren van aanpassingen tussen en aan zorginformatiesystemen die resulteren in zowel regionaal als landelijke digitale informatie-uitwisseling in de geboortezorgketen en het uitwisselen van deze gegevens met de zorggebruiker, en voldoen aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23);
 
 - b. het coördineren van de implementatie, bedoeld onder a, van de aanpassingen voor het regionaal partnerschap;
 
@@ -114,7 +114,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 2. De kosten van de activiteiten, bedoeld in het eerste lid, zijn uitsluitend subsidiabel voor zover:
 
-- a. de activiteiten waarvoor subsidie is verleend zijn uitgevoerd en de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28), zijn behaald;
+- a. de activiteiten waarvoor subsidie is verleend zijn uitgevoerd en de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23), zijn behaald;
 
 - b. de activiteiten resulteren in een werkwijze die de zorggebruiker informeert over de mogelijkheid tot digitale inzage in de eigen gegevens;
 
@@ -138,7 +138,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 ##### Artikel 4. Subsidiebedrag
 
-1. De subsidie bestaat uit de werkelijke kosten van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28), waarvoor subsidie wordt verleend, tot ten hoogste € 88.200 per bij het regionaal partnerschap aangesloten VSV of IGO, met dien verstande dat de subsidie voor de activiteiten, bedoeld in artikel 3, eerste lid, onder a, lager kan worden vastgesteld indien de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28), niet geheel worden behaald.
+1. De subsidie bestaat uit de werkelijke kosten van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23), waarvoor subsidie wordt verleend, tot ten hoogste € 88.200 per bij het regionaal partnerschap aangesloten VSV of IGO, met dien verstande dat de subsidie voor de activiteiten, bedoeld in artikel 3, eerste lid, onder a, lager kan worden vastgesteld indien de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23), niet geheel worden behaald.
 
 2. De subsidie is een subsidie als bedoeld in [artikel 1.5, onder d, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
@@ -162,7 +162,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 Een regionaal partnerschap:
 
-- a. levert informatie aan de hand van de checklist, bedoeld in [artikel 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=7&z=2019-06-28&g=2019-06-28), door middel van het door het programmabureau Babyconnect beschikbaar te stellen format, en data voor de tussentijdse voortgangsmetingen aan het programmabureau Babyconnect;
+- a. levert informatie aan de hand van de checklist, bedoeld in [artikel 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=7&z=2020-06-23&g=2020-06-23), door middel van het door het programmabureau Babyconnect beschikbaar te stellen format, en data voor de tussentijdse voortgangsmetingen aan het programmabureau Babyconnect;
 
 - b. deelt haar kennis met andere regionale partnerschappen en het programmabureau Babyconnect;
 
@@ -178,9 +178,13 @@ Een regionaal partnerschap:
 
 - a. 1 juli 2019 tot en met 30 september 2019;
 
-- b. 1 februari 2020 tot en met 31 maart 2020; of
+- b. 1 februari 2020 tot en met 31 maart 2020;
 
-- c. 1 november 2020 tot en met 31 december 2020.
+- c. 1 november 2020 tot en met 31 december 2020;
+
+- d. 1 februari 2021 tot en met 28 februari 2021;
+
+- e. 1 juni 2021 tot en met 30 juni 2021.
 
 2. Voor een aanvraag tot verlening van een subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -192,7 +196,7 @@ Een regionaal partnerschap:
 
 - c. de ingevulde checklist waaruit blijkt wat de aard en de omvang van de veranderopgave is van het regionaal partnerschap;
 
-- d. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28).
+- d. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23).
 
 4. Een samenwerkingsovereenkomst als bedoeld in het derde lid, onder b, bevat in ieder geval afspraken over:
 
@@ -204,11 +208,11 @@ Een regionaal partnerschap:
 
 ##### Artikel 8. Tussentijdse rapportage
 
-De penvoerder van een regionaal partnerschap brengt eens per 12 maanden inhoudelijk en financieel verslag uit over de voortgang van haar activiteiten aan de minister en gaat daarbij in op de voortgang van de vier uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28), het gebruikerspercentage van de mogelijkheid tot digitale inzage onder zorggebruikers en de wijze waarop voldaan wordt aan de subsidieverplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=6&z=2019-06-28&g=2019-06-28).
+De penvoerder van een regionaal partnerschap brengt eens per 12 maanden inhoudelijk en financieel verslag uit over de voortgang van haar activiteiten aan de minister en gaat daarbij in op de voortgang van de vier uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23), het gebruikerspercentage van de mogelijkheid tot digitale inzage onder zorggebruikers en de wijze waarop voldaan wordt aan de subsidieverplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=6&z=2020-06-23&g=2020-06-23).
 
 ##### Artikel 9. Besluit tot subsidieverlening, bevoorschotting en betaling
 
-1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28), wordt verleend overeenkomstig een door de minister goed te keuren activiteitenplan en begroting, en bedraagt ten hoogste € 88.200 per bij het regionaal partnerschap aangesloten VSV of IGO.
+1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23), wordt verleend overeenkomstig een door de minister goed te keuren activiteitenplan en begroting, en bedraagt ten hoogste € 88.200 per bij het regionaal partnerschap aangesloten VSV of IGO.
 
 2. De minister verleent bij het besluit tot subsidieverlening een voorschot van 70% van het bedrag van de verleende subsidie. De voorschotten worden gelijkmatig betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
@@ -218,21 +222,21 @@ De penvoerder van een regionaal partnerschap brengt eens per 12 maanden inhoudel
 
 2. In aanvulling op [artikel 7.8, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) legt de penvoerder ook rekening en verantwoording af aan de hand van:
 
-- a. documenten geverifieerd door de gebruikersgroepen, MedMij en Nictiz, waaruit blijkt dat het regionaal partnerschap ten aanzien van ten minste 70% van zijn zorggebruikers voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28);
+- a. documenten geverifieerd door de gebruikersgroepen, MedMij en Nictiz, waaruit blijkt dat het regionaal partnerschap ten aanzien van ten minste 70% van zijn zorggebruikers voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23);
 
 - b. een overeenkomst waaruit blijkt dat het regionaal partnerschap zijn gegevens kan ontsluiten via een dienstverlener zorgaanbieder die deelneemt aan het MedMij afsprakenstelsel;
 
-- c. een document waaruit blijkt dat de gegevens uit het netwerk van zorginformatiesystemen geschikt zijn voor het PGO, conform de eisen, benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28);
+- c. een document waaruit blijkt dat de gegevens uit het netwerk van zorginformatiesystemen geschikt zijn voor het PGO, conform de eisen, benoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23);
 
 - d. een document waaruit blijkt dat de aangesloten zorgverleners en gegevensdiensten zijn opgenomen in het zorgaanbiederadresboek van MedMij, zodat zorggebruikers de praktijken in hun PGO kunnen vinden en selecteren voor digitale informatie-uitwisseling.
 
 ##### Artikel 11. Besluit tot vaststelling
 
-1. Indien de activiteiten, bedoeld in [artikel 3, eerste lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28), waarvoor subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die zijn verbonden aan de verleende subsidie, wordt die subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage, of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+1. Indien de activiteiten, bedoeld in [artikel 3, eerste lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23), waarvoor subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die zijn verbonden aan de verleende subsidie, wordt die subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage, of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-2. Indien de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28), ten aanzien van ten minste 70% van de zorggebruikers zijn behaald en de activiteiten, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28), waarvoor subsidie is verleend geheel zijn verricht, wordt die subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage, of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+2. Indien de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23), ten aanzien van ten minste 70% van de zorggebruikers zijn behaald en de activiteiten, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23), waarvoor subsidie is verleend geheel zijn verricht, wordt die subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage, of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-3. Indien een regionaal partnerschap de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2019-06-28&g=2019-06-28), ten aanzien van minder dan 70% van zijn zorggebruikers heeft behaald, kan de subsidie lager worden vastgesteld. Op het bedrag van de subsidie voor de werkelijke kosten van de activiteiten, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28), kan als volgt een bedrag in mindering worden gebracht:
+3. Indien een regionaal partnerschap de uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2020-06-23&g=2020-06-23), ten aanzien van minder dan 70% van zijn zorggebruikers heeft behaald, kan de subsidie lager worden vastgesteld. Op het bedrag van de subsidie voor de werkelijke kosten van de activiteiten, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23), kan als volgt een bedrag in mindering worden gebracht:
 
 | mate van realisatie | uitkomstdoel 1 | uitkomstdoel 2 | uitkomstdoel 3 | uitkomstdoel 4 |
 | --- | --- | --- | --- | --- |
@@ -248,49 +252,49 @@ De penvoerder van een regionaal partnerschap brengt eens per 12 maanden inhoudel
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-2. Deze beleidsregel vervalt met ingang van 1 januari 2023.
+2. Deze beleidsregel vervalt met ingang van 1 juli 2023.
 
 ##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect.
 
-## Bijlage 1. Eisen te stellen aan een regionaal partnerschap, behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2019-06-28&g=2019-06-28)
+## Bijlage 1. Eisen te stellen aan een regionaal partnerschap, behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2020-06-23&g=2020-06-23)
 
 Een regionaal partnerschap en haar leden, moet voldoen aan:
 
 - 1. De uitgangspunten omtrent gegevensuitwisseling in ‘Zorgstandaard Integrale geboortezorg’1https://www.zorginstituutnederland.nl/publicaties/publicatie/2016/06/28/zorgstandaard-integrale-geboortezorg-versie-1.;
 
-- 2. Het Framework 2018–2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’2https://babyconnect.org/wp-content/uploads/2018/11/Framework-ECD-voor-de-geboortezorg-3.3.pdf. en de Roadmap 2019–2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’3https://babyconnect.org/roadmap/.;
+- 2. Het Framework 2018-2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’2https://babyconnect.org/wp-content/uploads/2018/11/Framework-ECD-voor-de-geboortezorg-3.3.pdf. en de Roadmap 2019-2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’3https://babyconnect.org/roadmap/.;
 
 - 3. De publieke en één of meerdere door de overheid erkende private authenticatiediensten op minimaal betrouwbaarheidsniveau substantieel. Indien ‘substantieel’ nog niet breed beschikbaar is zal tenminste ‘2-factor authenticatie’ worden toegepast;
 
 - 4. Standaarden ten aanzien van de digitale toegankelijkheid, zoals de Web Content Accessibility Guidelines (WCAG);
 
-- 5. De overeengekomen afspraken binnen de gebruikersgroepen van het programma Babyconnect, de Eenheid van Taal werkgroep, het functioneel ontwerp en de Innovatie- en beheercyclus.
-
-| **Toetsing** | • Een verklaring van de landelijke gebruikersgroepen dat de resultaten voldoen aan de door hen vastgestelde en gedocumenteerde eisen; • Een verklaring van het programmabureau Babyconnect dat de resultaten voldoen aan de bovengenoemde eisen punt 1 t/m 5. |
+| **Toetsing** | • Een verklaring van de landelijke gebruikersgroepen dat de resultaten voldoen aan de in deze bijlage omschreven eisen; • Een verklaring van het programmabureau Babyconnect dat de resultaten voldoen aan de bovengenoemde eisen punt 1 t/m 4. |
 | --- | --- |
 
-- 6. De uitkomstdoelen van het informatieberaad Zorg, en meer specifiek: 1 https://www.nictiz.nl/standaardisatie/informatiestandaarden/medicatieveiligheid.
+- 5. De uitkomstdoelen van het informatieberaad Zorg, en meer specifiek:
 
 | Uitkomstdoel 1 | Medicatieveiligheid |
 | --- | --- |
-| **Resultaten** | • Oplossingen worden op zodanige wijze geïmplementeerd, dat zodra de monodisciplinaire systemen voldoen aan de informatiestandaard medicatieproces 9.06 of hoger1 de medicatie informatie in de hele keten en met de zorggebruiker gedeeld kan worden; • De resultaten ten behoeve van uitkomstdoel 1 zijn met name van toepassing voor de medisch specialisten. Daarnaast is het in belang van de zorggebruiker dat ook andere geboortezorgprofessionals inzage hebben – na toestemming van de zorggebruiker – in het actuele medicatie-overzicht. |
-| **Toetsing** | • Toetsing van de implementatie van de informatiestandaard medicatieproces 9.06 of hoger, mits het betreffende zorginformatiesysteem voldoet aan de informatiestandard 9.06 of hoger; • Toetsing van de mogelijkheid voor de andere geboortezorgverleners om het actuele medicatie-overzicht te kunnen inzien, mits relevant en nodig. |
+| **Resultaten** | • Oplossingen worden op zodanige wijze geïmplementeerd, dat zodra de monodisciplinaire systemen, of via systeemintegrator, voldoen aan de informatiestandaard medicatieproces 9.06 of hoger1 de medicatie informatie in de hele keten en met de zorggebruiker gedeeld kan worden; • De resultaten ten behoeve van uitkomstdoel 1 zijn met name van toepassing voor de medisch specialisten. Daarnaast is het in belang van de zorggebruiker dat ook andere geboortezorgprofessionals inzage hebben – na toestemming van de zorggebruiker – in het actuele medicatie-overzicht. |
+| **Toetsing** | • Toetsing van het presenteren van relevante informatie volgens de informatiestandaard medicatieproces 9.06 of hoger, mits beschikbaar en het betreffende zorginformatiesysteem voldoet aan de informatiestandaard 9.06 of hoger; • Toetsing van de mogelijkheid voor de andere geboortezorgverleners om het actuele medicatie-overzicht te kunnen inzien, mits relevant en nodig. |
+
+1 https://www.nictiz.nl/standaardisatie/informatiestandaarden/medicatieveiligheid.
 
 | Uitkomstdoel 2 | Patiënt centraal |
 | --- | --- |
-| **Resultaten** | • Zorg- en gezondheidsgegevens van zorggebruikers, die relevant zijn om te delen, digitaal en gestandaardiseerd worden vastgelegd en beschikbaar gesteld voor zorggebruiker en de betrokken geboortezorgprofessionals; • De informatie die naar PGO’s wordt ontsloten, bestaat uit de volgende elementen: ○ de (relevante onderdelen van de) Basis Gegevensset Zorg (hierna: BGZ) ○ laboratoriumuitslagen, ○ alle andere vormen van verslagen en uitslagen, mits aangeleverd als PDF/A. relevante, betrouwbare voorlichtingsinformatie op het juiste moment; ○ relevante, betrouwbare voorlichtingsinformatie op het juiste moment en overige relevante informatie, nog verder te specificeren door de gebruikersgroepen. • Alle zorgverleners uit de geboortezorgketen in het regionaal partnerschap aan iedere zorggebruiker die dat wil veilig, betrouwbaar, digitaal en gestandaardiseerd toegang kunnen verlenen tot de eigen gezondheidsgegevens; • Vanuit de applicaties en via de geïmplementeerde oplossing, dienen de gegevens binnen maximaal een week nadat deze informatie geregistreerd is, beschikbaar te zijn; • Deze gegevens kunnen worden ontsloten naar de PGO van de zorggebruiker als zij daarvoor kiest; • Uiterlijk aan het einde van het programma kan elke zorggebruiker zelf aangeven welke zorgverleners toegang hebben tot haar gegevens, hiermee wordt de wettelijk vereiste gespecificeerde toestemming geïmplementeerd. Dit is afhankelijk van (en in samenwerking met) GTS/OTV en moet voldoen aan de wet. |
-| **Toetsing** | • De ontsluiting van de gegevens vanuit de geboorteketen naar een PGO voldoet aan het MedMij Afsprakenstelsel. Dit wordt getoetst aan de hand van de controle op de aanwezigheid van een verklaring van de Stichting MedMij dat de gegevens worden ontsloten middels een Dienstverlener Zorgaanbieder, die (kandidaat)deelnemer is in deze rol. Dit kunnen betrokken ICT leveranciers zijn als wel een systeemintegrator die deze rol vervult; • De aangesloten praktijken en zorgaanbieders zijn opgenomen in de Zorgaanbieder Adreslijst (ZAL) van MedMij, via hun leverancier, zodat zorggebruikers de praktijk in hun PGO kunnen vinden en selecteren voor gegevensuitwisseling; • Toetsing of er een verklaring is van gebruikersgroep 1 dat voldaan is aan de eisen zoals door haar zijn vastgesteld. |
+| **Resultaten** | • Zorg- en gezondheidsgegevens van zorggebruikers, die relevant zijn om te delen, digitaal en gestandaardiseerd worden vastgelegd en beschikbaar gesteld voor zorggebruiker en de betrokken geboortezorgprofessionals; • De informatie die naar PGO’s wordt ontsloten, bestaat uit de volgende elementen: ○ de (relevante onderdelen van de) Basis Gegevensset Zorg (hierna: BGZ) ○ laboratoriumuitslagen, ○ alle andere vormen van verslagen en uitslagen, mits aangeleverd als PDF/A. relevante, betrouwbare voorlichtingsinformatie op het juiste moment; ° relevante, betrouwbare voorlichtingsinformatie op het juiste moment en overige relevante informatie, nog verder te specificeren door de gebruikersgroepen. • Alle zorgverleners uit de geboortezorgketen in het regionaal partnerschap aan iedere zorggebruiker die dat wil veilig, betrouwbaar, digitaal en gestandaardiseerd toegang kunnen verlenen tot de eigen gezondheidsgegevens; • Vanuit de applicaties en via de geïmplementeerde oplossing, dienen de gegevens binnen maximaal een week nadat deze informatie geregistreerd is, beschikbaar te zijn; • Deze gegevens kunnen worden ontsloten naar de PGO van de zorggebruiker als zij daarvoor kiest; • Uiterlijk aan het einde van het programma kan elke zorggebruiker zelf aangeven welke zorgverleners toegang hebben tot haar gegevens, hiermee wordt de wettelijk vereiste gespecificeerde toestemming geïmplementeerd. Dit is afhankelijk van (en in samenwerking met) GTS/OTV en moet voldoen aan de wet. |
+| **Toetsing** | • De ontsluiting van de gegevens vanuit de geboorteketen naar een PGO voldoet aan het MedMij Afsprakenstelsel. Dit wordt getoetst aan de hand van de controle op de aanwezigheid van een verklaring van de Stichting MedMij dat de gegevens worden ontsloten middels een Dienstverlener Zorgaanbieder, die (kandidaat)deelnemer is in deze rol. Dit kunnen betrokken ICT leveranciers zijn als wel een systeemintegrator die deze rol vervult; • De aangesloten praktijken en zorgaanbieders zijn opgenomen in de Zorgaanbieder Adreslijst (ZAL) van MedMij, via hun leverancier, zodat zorggebruikers de praktijk in hun PGO kunnen vinden en selecteren voor gegevensuitwisseling; • Toetsing of er een verklaring is van gebruikersgroep 1 dat voldaan is aan de hierboven omschreven resultaten. |
 
 | Uitkomstdoel 3 | Digitale overdracht |
 | --- | --- |
-| **Resultaten** | • Het digitaal delen van informatie van een complete set aan informatie, dat wil zeggen alle informatie die in het kader van de geboortezorg gedeeld moet kunnen worden en op dat moment relevant is. Deze informatie moet interregionaal gedeeld kunnen worden volgens de PWD standaard versie 3.2 of hoger; • Om hier volledig in te kunnen zijn, is het regionaal partnerschap bereid om - zodra andere sectoren daarvoor gereed zijn, aansluiting te vinden bij aanpalende sectoren (zoals huisartsen, acute zorg, anesthesie, fysiotherapie, diëtiek, psychosociale zorgverlening, nuldelijns zorg etc.); • Met het uitvoeren van de activiteiten wordt het volgende mogelijk gemaakt binnen het regionaal partnerschap: ○ gecombineerde/ gestructureerde weergave van data conform de PWD informatiestandaard versie 3.2 of hoger, van echobeelden, metadata naar het register ten behoeve van andere geboortezorgverleners zodat deze informatie kan worden gedeeld; ○ de monodisciplinaire applicaties aansluiten op een veilig zorgnetwerk en platform met een register voor metadata; ○ er eOverdracht – in de vorm van relevante (geboorte)zibs – van het zorggebruiker dossier naar de jeugdgezondheidszorg kan plaatsvinden; ○ er een oplossing is voor controle op toestemming door de zorggebruiker (in OTV). • Binnen het regionale partnerschap zijn organisatorische en financiële afspraken gemaakt om beheer en bekostiging van het zorgnetwerk, de toegang, werking en kwaliteit daarvan te continueren. |
-| **Toetsing** | • Toetsing van het gebruik van de (relevante onderdelen van de) BGZ en de zib’s voor de geboortezorg; • Toetsing van de implementatie van de volgende informatiestandaarden: eOverdracht geboortezorg-jeugdgezondheidszorg, acute overdracht verloskundige - gynaecoloog, conform de informatiestandaard Perinataal Woordenboek & Dataset (PWD) versie 3.2 of hoger; • Toetsing dat er een verklaring is van gebruikersgroepen 2 en 3 dat voldaan is aan de door hen gestelde eisen. |
+| **Resultaten** | • Het digitaal delen van informatie van een complete set aan informatie, dat wil zeggen alle informatie die in het kader van de geboortezorg gedeeld moet kunnen worden en op dat moment relevant is. Deze informatie moet interregionaal gedeeld kunnen worden volgens de PWD standaard versie 3.2 of hoger; • Om hier volledig in te kunnen zijn, is het regionaal partnerschap bereid om – zodra andere sectoren daarvoor gereed zijn, aansluiting te vinden bij aanpalende sectoren (zoals huisartsen, acute zorg, anesthesie, fysiotherapie, diëtiek, psychosociale zorgverlening, nuldelijns zorg etc.); • Met het uitvoeren van de activiteiten wordt het volgende mogelijk gemaakt binnen het regionaal partnerschap: ° gecombineerde/ gestructureerde weergave van data conform de PWD informatiestandaard versie 3.2 of hoger, van echomeetresultaten metadata naar het register ten behoeve van andere geboortezorgverleners zodat deze informatie kan worden gedeeld; ○ de monodisciplinaire applicaties aansluiten op een veilig zorgnetwerk en platform met een register voor metadata; ○ er gegevensuitwisseling – in de vorm van relevante (geboorte)zibs – tussen de geboortezorg en de jeugdgezondheidszorg kan plaatsvinden; ○ er een oplossing is voor controle op toestemming door de zorggebruiker, als beschikbaar via OTV. • Binnen het regionale partnerschap zijn organisatorische en financiële afspraken gemaakt om beheer en bekostiging van het zorgnetwerk, de toegang, werking en kwaliteit daarvan te continueren. |
+| **Toetsing** | • Toetsing van het gebruik van de (relevante onderdelen van de) BGZ en de zib’s voor de geboortezorg; • Toetsing dat de gegevensuitwisseling in het regionaal partnerschap gebeurt volgens de volgende informatiestandaarden, geïmplementeerd danwel via systeemintegrator: acute overdracht verloskundige – gynaecoloog, conform de informatiestandaard Perinataal Woordenboek & Dataset (PWD) versie 3.2 of hoger; • Toetsing dat er een verklaring is van gebruikersgroepen 2 en 3 dat voldaan is aan de hierboven omschreven resultaten. |
 
 | Uitkomstdoel 4 | Eénmalig vastleggen, meervoudig gebruiken |
 | --- | --- |
-| **Resultaten** | • De beschikbare data uit het primaire proces beschikbaar gesteld is vanuit de betreffende applicaties of vanuit onderdelen van de geïmplementeerde oplossing zodat deze informatie gebruikt kan worden voor workflow management, capaciteitsplanning, kwaliteitsrapportages (tenminste aanlevering van de gegevens aan Perined) en financiële administratie; • Informatie en gegevens betreffende de zorggebruiker worden gestandaardiseerd aan de bron geregistreerd, met de (Geboorte) zibs als uitgangspunt; • Alle informatie-uitwisseling gebeurt aan de hand van de vigerende standaarden zoals vastgesteld in de geboortezorg op landelijk niveau en sector overstijgend via Registratie aan de Bron. |
-| **Toetsing** | • Toetsing of voldaan is aan de door AVG voorgeschreven ‘privacy by design’ en ‘privacy by default’; • Relevante en actuele informatie is beschikbaar voor zorgorganisaties voor kwaliteits- en workflow management en voor financiële administratie en financieel management. De gestandaardiseerde processen moeten in ieder geval een bijdrage leveren aan een betere kwaliteitsrapportage en waar nodig en mogelijk aansluiten bij landelijke afspraken; • Toetsing of er een verklaring is vanuit gebruikersgroepen 3 en 4 dat voldaan is aan de eisen die door deze zijn vastgesteld. |
+| **Resultaten** | • De beschikbare data uit het primaire proces beschikbaar gesteld is, volgens de vigerende standaarden en wetten, vanuit de betreffende applicaties of vanuit onderdelen van de geïmplementeerde oplossing. Deze informatie kan gebruikt worden voor workflow management, capaciteitsplanning, kwaliteitsrapportages (tenminste aanlevering van de gegevens aan Perined) en financiële administratie; • Informatie en gegevens betreffende de zorggebruiker worden gestandaardiseerd aan de bron geregistreerd, met de (Geboorte) zibs als uitgangspunt; • Alle informatie-uitwisseling gebeurt aan de hand van de vigerende standaarden zoals vastgesteld in de geboortezorg op landelijk niveau en sector overstijgend via Registratie aan de Bron. |
+| **Toetsing** | • Toetsing of voldaan is aan de door AVG voorgeschreven ‘privacy by design’ en ‘privacy by default’; • Relevante en actuele informatie is beschikbaar voor zorgorganisaties voor bijvoorbeeld kwaliteits- en workflow management en voor financiële administratie en financieel management. De gestandaardiseerde processen moeten in ieder geval een bijdrage leveren aan een betere kwaliteitsrapportage en waar nodig en mogelijk aansluiten bij landelijke afspraken; • Toetsing of er een verklaring is vanuit gebruikersgroepen 3 en 4 dat voldaan is aan de hierboven omschreven resultaten. |
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
