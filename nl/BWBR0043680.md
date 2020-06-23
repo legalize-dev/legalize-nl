@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2020-06-01"
+last_updated: "2020-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -52,8 +52,20 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2020-06-23&g=2020-06-23) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit belasting- en invorderingsrente.
+
+Op de voordracht van de Staatssecretaris van Financiën van 18 mei 2020, nr. 2020-0000088727;
+
+Gelet op [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) en [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 27 mei 2020, nr. W06.20.0146/III);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 16 juni 2020, nr. 2020-0000102269;
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
