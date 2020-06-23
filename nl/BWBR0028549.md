@@ -4,7 +4,7 @@ identifier: "BWBR0028549"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-01-01"
-last_updated: "2012-01-01"
+last_updated: "2020-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028549"
 soort: "wet-BES"
@@ -91,7 +91,9 @@ entry_into_force: "2010-10-10"
 
 - y. **Vluchtinformatiegebied San Juan:** gebied begrensd door de posities met de hierna genoemde coördinaten alsmede het luchtruim daarboven: 2330N6000W-20000N60000W-1800N6130W- 1800N6200W-1722N6300W- 1520N6300W- 1500N6315W- 1500N6500W- 1541N6704W- 1600N6800W-1900N6800W- 1930N6853W- 2045N6734W- 2245N6828N-2330N6814W;
 
-- z. **luchtverkeersdienstverlener:** bij of krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2012-01-01&g=2012-01-01) aangewezen rechtspersoon belast met het geven van luchtverkeersdienstverlening.
+- z. **luchtverkeersdienstverlener:** bij of krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2020-06-23&g=2020-06-23) aangewezen rechtspersoon belast met het geven van luchtverkeersdienstverlening;
+
+- aa. **NOTAM:** een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering er tijdig kennis van nemen.
 
 2. Deze wet is van toepassing op luchtvaartterreinen en het luchtverkeer, de luchtverkeersdienstverlening en het luchtvervoer binnen de delen van het Vluchtinformatiegebied Curaçao en het Vluchtinformatiegebied San Juan dat zich boven het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt dan wel die delen waarvoor de Minister de verantwoordelijkheid voor het verzorgen van luchtverkeersdienstverlening heeft aanvaard.
 
@@ -165,17 +167,17 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 6. Een vergunning kan onder beperkingen worden verleend.
 
-7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23) is van overeenkomstige toepassing.
 
 #### § 2. Particulier vervoer
 
 ##### Artikel 12
 
-1. Het is verboden met een luchtvaartuig particulier vervoer te verrichten, wanneer de houder of de gezagvoerder van het betrokken luchtvaartuig niet aannemelijk kan maken, dat het betreffende vervoer niet als beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01) kan worden aangemerkt.
+1. Het is verboden met een luchtvaartuig particulier vervoer te verrichten, wanneer de houder of de gezagvoerder van het betrokken luchtvaartuig niet aannemelijk kan maken, dat het betreffende vervoer niet als beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23) kan worden aangemerkt.
 
 2. Het is verboden particulier vervoer te verrichten met een luchtvaartuig met een toegelaten startmassa van meer dan 2000 kg.
 
-3. Door de Minister kan ontheffing worden verleend van het tweede lid, indien de aanvrager aantoont dat met het luchtvaartuig, waarvoor de ontheffing is gevraagd, geen beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01), zal worden verricht en dat het vervoer veilig kan plaatsvinden.
+3. Door de Minister kan ontheffing worden verleend van het tweede lid, indien de aanvrager aantoont dat met het luchtvaartuig, waarvoor de ontheffing is gevraagd, geen beroepsvervoer, eigen vervoer, luchtwerk, of de activiteit beoogd door [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23), zal worden verricht en dat het vervoer veilig kan plaatsvinden.
 
 4. De in het derde lid bedoelde ontheffing wordt telkens verleend voor ten hoogste vijf jaar.
 
@@ -183,7 +185,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 6. Een ontheffing kan onder beperkingen worden verleend.
 
-7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+7. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23) is van overeenkomstige toepassing.
 
 8. Door de Minister wordt de verleende ontheffing ingetrokken wanneer:
 
@@ -211,7 +213,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 7. Door de Minister kan van het vereiste ten aanzien van de nationaliteit, zoals bepaald in het tweede lid, worden afgeweken.
 
-8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23) is van overeenkomstige toepassing.
 
 #### § 4. Bijzondere activiteiten
 
@@ -231,7 +233,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 7. Door de Minister kan van het vereiste ten aanzien van de nationaliteit zoals bepaald in het tweede lid, worden afgeweken.
 
-8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+8. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23) is van overeenkomstige toepassing.
 
 #### § 5. Rondvluchten
 
@@ -247,7 +249,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 4. Een vergunning kan onder beperkingen worden verleend.
 
-5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23) is van overeenkomstige toepassing.
 
 ### Afdeling 5
 
@@ -257,7 +259,7 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 1. Een vergunning wordt geschorst:
 
-- a. wanneer niet wordt voldaan aan het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01).
+- a. wanneer niet wordt voldaan aan het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23).
 
 - b. wegens uitoefening van het vervoer of de betreffende activiteit in strijd met bij of krachtens deze wet gegeven regels;
 
@@ -301,9 +303,9 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 - b. bij herhaling of in ernstige mate van gebreken bij de uitvoering der vluchten is gebleken;
 
-- c. een van de redenen van intrekking als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2012-01-01&g=2012-01-01), van toepassing is.
+- c. een van de redenen van intrekking als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2020-06-23&g=2020-06-23), van toepassing is.
 
-3. Voor de publicatie van de verlenging is het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing.
+3. Voor de publicatie van de verlenging is het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=18&z=2020-06-23&g=2020-06-23), van overeenkomstige toepassing.
 
 4. Het bepaalde in dit artikel is tevens van toepassing op een ontheffing.
 
@@ -375,7 +377,9 @@ Het is verboden beroepsvervoer te verrichten indien degene die dat vervoer verri
 
 ##### Artikel 24
 
-Voor zover bij internationale overeenkomst niet anders is bepaald, kan in buitengewone omstandigheden door de Minister de uitoefening van de burgerlijke luchtvaart boven het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba of een gedeelte daarvan worden beperkt of verboden.
+1. Voor zover bij internationale overeenkomst niet anders is bepaald, kan in buitengewone omstandigheden door de Minister de uitoefening van de burgerlijke luchtvaart boven het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba of een gedeelte daarvan worden beperkt of verboden.
+
+2. Van de regelingen krachtens het eerste lid wordt mededeling gedaan door middel van een NOTAM.
 
 ##### Artikel 25
 
@@ -383,7 +387,7 @@ Het is verboden de luchtvaart uit te oefenen:
 
 - a. op zodanige wijze, dat de openbare orde of veiligheid wordt verstoord of in gevaar gebracht;
 
-- b. in strijd met door de Minister gegeven voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=23&z=2012-01-01&g=2012-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2012-01-01&g=2012-01-01).
+- b. in strijd met door de Minister gegeven voorschriften als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=23&z=2020-06-23&g=2020-06-23) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2020-06-23&g=2020-06-23).
 
 ##### Artikel 26
 
@@ -433,9 +437,9 @@ Het is verboden de luchtvaart uit te oefenen:
 
 - a. een vergroting van het luchtvaartterrein;
 
-- b. een wijziging in de ligging van banen, een vergroting van lengte of breedte van bestaande banen of een verharding van banen, indien zulks een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2012-01-01&g=2012-01-01), ten gevolge kan hebben;
+- b. een wijziging in de ligging van banen, een vergroting van lengte of breedte van bestaande banen of een verharding van banen, indien zulks een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2020-06-23&g=2020-06-23), ten gevolge kan hebben;
 
-- c. een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2012-01-01&g=2012-01-01), om andere dan de onder b genoemde redenen.
+- c. een wijziging van de grenzen van de geluidszone, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=31&z=2020-06-23&g=2020-06-23), om andere dan de onder b genoemde redenen.
 
 5. De Minister kan een verzoek tot aanwijzing of wijziging van een aanwijzing na overleg met het betrokken Bestuurscollege om redenen ontleend aan het algemeen belang afwijzen.
 
@@ -527,7 +531,7 @@ De exploitant van een voor het openbaar luchtverkeer aangewezen luchtvaartterrei
 
 - a. in strijd met de voorschriften en beperkingen bij de aanwijzing gesteld;
 
-- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2012-01-01&g=2012-01-01);
+- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2020-06-23&g=2020-06-23);
 
 - c. voor andere doeleinden, dan die, welke verband houden met de exploitatie van het luchtvaartterrein.
 
@@ -539,7 +543,7 @@ De exploitant van een voor het openbaar luchtverkeer aangewezen luchtvaartterrei
 
 - a. in strijd met de voorschriften en beperkingen bij de aanwijzing gesteld;
 
-- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2012-01-01&g=2012-01-01).
+- b. in strijd met de door de Minister genomen maatregel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=41&z=2020-06-23&g=2020-06-23).
 
 2. Het eerste lid geldt niet, indien en voor zover door de Minister ontheffing is verleend.
 
@@ -581,25 +585,25 @@ In bijzondere omstandigheden in geval van ernstige verstoring van de binnenlands
 
 ##### Artikel 50
 
-1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2012-01-01&g=2012-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2012-01-01&g=2012-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2012-01-01&g=2012-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2012-01-01&g=2012-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2012-01-01&g=2012-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2012-01-01&g=2012-01-01), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=37&z=2012-01-01&g=2012-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=38&z=2012-01-01&g=2012-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=39&z=2012-01-01&g=2012-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=40&z=2012-01-01&g=2012-01-01) of [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=3&artikel=43&z=2012-01-01&g=2012-01-01), wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2020-06-23&g=2020-06-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2020-06-23&g=2020-06-23), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=9&z=2020-06-23&g=2020-06-23), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2020-06-23&g=2020-06-23), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2020-06-23&g=2020-06-23), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2020-06-23&g=2020-06-23), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2020-06-23&g=2020-06-23), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IV&artikel=22&z=2020-06-23&g=2020-06-23), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2020-06-23&g=2020-06-23), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2020-06-23&g=2020-06-23), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2020-06-23&g=2020-06-23), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=37&z=2020-06-23&g=2020-06-23), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=38&z=2020-06-23&g=2020-06-23), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=39&z=2020-06-23&g=2020-06-23), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=2&artikel=40&z=2020-06-23&g=2020-06-23) of [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=3&artikel=43&z=2020-06-23&g=2020-06-23), wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-2. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2012-01-01&g=2012-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2012-01-01&g=2012-01-01), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+2. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2020-06-23&g=2020-06-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2020-06-23&g=2020-06-23), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2020-06-23&g=2020-06-23), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2020-06-23&g=2020-06-23), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2020-06-23&g=2020-06-23), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2020-06-23&g=2020-06-23), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-3. Met dezelfde straf wordt gestraft de gezagvoerder, die één van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [25, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2012-01-01&g=2012-01-01) of [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01), overtreedt.
+3. Met dezelfde straf wordt gestraft de gezagvoerder, die één van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2020-06-23&g=2020-06-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2020-06-23&g=2020-06-23), [25, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2020-06-23&g=2020-06-23) of [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2020-06-23&g=2020-06-23), overtreedt.
 
 4. Op overtreding van een voorschrift, gegeven bij of krachtens algemene maatregel van bestuur ingevolge deze wet, wordt bij die algemene maatregel van bestuur geen andere of hogere hoofdstraf gesteld, dan hetzij hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-5. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2012-01-01&g=2012-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2012-01-01&g=2012-01-01), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+5. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2020-06-23&g=2020-06-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2020-06-23&g=2020-06-23), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2020-06-23&g=2020-06-23), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2020-06-23&g=2020-06-23), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2020-06-23&g=2020-06-23), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2020-06-23&g=2020-06-23), de luchtvaart doet of laat uitoefenen, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
 ##### Artikel 51
 
-Overtreding van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2012-01-01&g=2012-01-01) of 53 wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de zesde categorie, hetzij met beide straffen. Voor zover dat niet opzettelijk is begaan wordt de overtreding gestraft met een gevangenisstraf van vier jaren en een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+Overtreding van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=24&z=2020-06-23&g=2020-06-23) of 53 wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van ten hoogste de zesde categorie, hetzij met beide straffen. Voor zover dat niet opzettelijk is begaan wordt de overtreding gestraft met een gevangenisstraf van vier jaren en een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
 ##### Artikel 57
 
-1. De feiten strafbaar gesteld bij [artikel 50, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2012-01-01&g=2012-01-01), zijn overtredingen.
+1. De feiten strafbaar gesteld bij [artikel 50, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2020-06-23&g=2020-06-23), zijn overtredingen.
 
-2. De feiten strafbaar gesteld bij de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2012-01-01&g=2012-01-01), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=51&z=2012-01-01&g=2012-01-01) zijn misdrijven.
+2. De feiten strafbaar gesteld bij de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=50&z=2020-06-23&g=2020-06-23), en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=1&artikel=51&z=2020-06-23&g=2020-06-23) zijn misdrijven.
 
 ##### Artikel 58
 
@@ -619,9 +623,9 @@ De Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod.
 
 ##### Artikel 59
 
-1. Bij overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2012-01-01&g=2012-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2012-01-01&g=2012-01-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01) kan het luchtvaartuig door de personen, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=2&artikel=62&z=2012-01-01&g=2012-01-01), worden aangehouden en in beslag genomen.
+1. Bij overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=2&z=2020-06-23&g=2020-06-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=II&artikel=3&z=2020-06-23&g=2020-06-23), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2020-06-23&g=2020-06-23), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2020-06-23&g=2020-06-23), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2020-06-23&g=2020-06-23) kan het luchtvaartuig door de personen, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=2&artikel=62&z=2020-06-23&g=2020-06-23), worden aangehouden en in beslag genomen.
 
-2. Indien na een aanhouding en inbeslagneming op grond van een overtreding van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2012-01-01&g=2012-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2012-01-01&g=2012-01-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2012-01-01&g=2012-01-01) de gestelde boete door de bekeurde binnen een door de Minister te bepalen termijn is voldaan, kan de afgifte van het luchtvaartuig aan de rechthebbende overeenkomstig het gestelde in het tweede lid geschieden.
+2. Indien na een aanhouding en inbeslagneming op grond van een overtreding van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=25&z=2020-06-23&g=2020-06-23), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=26&z=2020-06-23&g=2020-06-23), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=V&artikel=28&z=2020-06-23&g=2020-06-23) de gestelde boete door de bekeurde binnen een door de Minister te bepalen termijn is voldaan, kan de afgifte van het luchtvaartuig aan de rechthebbende overeenkomstig het gestelde in het tweede lid geschieden.
 
 ##### Artikel 61
 
@@ -643,7 +647,7 @@ Indien tijdens het plegen van een misdrijf nog geen jaar is verlopen, sedert een
 
 2. Bij ministeriële regeling kunnen personen worden aangewezen, die bevoegd zijn de opstijging van luchtvaartuigen te verbieden en te beletten.
 
-3. In de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=3&artikel=65&z=2012-01-01&g=2012-01-01) bedoelde gebouwen en inrichtingen, fabrieken, werkplaatsen en aanhorigheden daarvan, welke tevens woningen zijn, of alleen door een woning toegankelijk zijn, treden de in het eerste lid bedoelde ambtenaren tegen de wil van de bewoner niet binnen, dan op vertoon van een schriftelijke bijzondere machtiging van de officier van justitie of een hulpofficier van justitie, dan wel in tegenwoordigheid van een van dezen.
+3. In de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=IX&afdeling=3&artikel=65&z=2020-06-23&g=2020-06-23) bedoelde gebouwen en inrichtingen, fabrieken, werkplaatsen en aanhorigheden daarvan, welke tevens woningen zijn, of alleen door een woning toegankelijk zijn, treden de in het eerste lid bedoelde ambtenaren tegen de wil van de bewoner niet binnen, dan op vertoon van een schriftelijke bijzondere machtiging van de officier van justitie of een hulpofficier van justitie, dan wel in tegenwoordigheid van een van dezen.
 
 4. Van dit binnentreden wordt proces-verbaal opgemaakt, waarvan binnen tweemaal vier en twintig uur aan degene, in wiens woning is binnengetreden, een afschrift wordt uitgereikt.
 
@@ -727,13 +731,13 @@ Bij ministeriële regeling kunnen personen worden aangewezen, die bevoegd zijn d
 
 2. De ingevolge het Curacaosch Luchtvaartbesluit 1935 afgegeven bewijzen van inschrijving, van luchtwaardigheid, van bevoegdheid en van gelijkstelling blijven, voor zover zij hun geldigheid krachtens de bepalingen van dat besluit niet hebben verloren, hun geldigheid behouden totdat, bij algemene maatregel van bestuur een nadere regeling te dien aanzien zal zijn getroffen.
 
-3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij de Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kan [artikel 30 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=30&z=2012-01-01&g=2012-01-01), geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
+3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij de Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kan [artikel 30 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=VII&afdeling=1&artikel=30&z=2020-06-23&g=2020-06-23), geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
 
 4. Het voorgaande lid vindt overeenkomstige toepassing op beslissingen betreffende belemmerende werken en handelingen ingevolge het in het eerste lid bedoelde besluit genomen.
 
 5. De ingevolge het Reglement Luchtvaartexamens (PB 1995 no. 109) afgelegde examens blijven, voor zover zij hun geldigheid krachtens de bepalingen van dat reglement niet hebben verloren, hun geldigheid behouden totdat bij Ministeriële regeling een nadere regeling te dien aanzien zal zijn getroffen.
 
-6. Binnen twee jaar na de inwerkingtreding van deze wet worden de alsdan van kracht zijnde vergunningen door de bevoegde autoriteiten opnieuw vastgesteld met inachtneming van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01) van deze wet.
+6. Binnen twee jaar na de inwerkingtreding van deze wet worden de alsdan van kracht zijnde vergunningen door de bevoegde autoriteiten opnieuw vastgesteld met inachtneming van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23) van deze wet.
 
 ##### Artikel 69
 
@@ -751,7 +755,7 @@ Deze wet wordt aangehaald als: Luchtvaartwet BES.
 
 ##### Artikel 52
 
-1. Bij veroordeling wegens overtreding van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2012-01-01&g=2012-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2012-01-01&g=2012-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2012-01-01&g=2012-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2012-01-01&g=2012-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2012-01-01&g=2012-01-01), kan de schuldige de bevoegdheid om een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
+1. Bij veroordeling wegens overtreding van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=1&artikel=8&z=2020-06-23&g=2020-06-23), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=1&artikel=11&z=2020-06-23&g=2020-06-23), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=2&artikel=12&z=2020-06-23&g=2020-06-23), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=3&artikel=13&z=2020-06-23&g=2020-06-23), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=3&paragraaf=4&artikel=14&z=2020-06-23&g=2020-06-23), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&hoofdstuk=III&afdeling=4&artikel=16&z=2020-06-23&g=2020-06-23), kan de schuldige de bevoegdheid om een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
 
 2. Bij toepassing van het bepaalde in het eerste lid verliest een aan de veroordeelde afgegeven bewijs van bevoegdheid of van gelijkstelling zijn geldigheid voor de duur van de ontzegging, zodra de rechterlijke uitspraak, voor wat betreft deze bijkomende straf, voor ten uitvoerlegging vatbaar is geworden.
 
