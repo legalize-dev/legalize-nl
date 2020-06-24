@@ -4,7 +4,7 @@ identifier: "BWBR0039319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2020-04-01"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039319"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-04-01&g=2020-04-01);
+- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-06-24&g=2020-06-24);
 
-- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-04-01&g=2020-04-01);
+- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2020-06-24&g=2020-06-24);
 
 - –. **zorgcoördinator:** degene met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs.
 
@@ -143,6 +143,8 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 1. Onverminderd het tweede lid verdeelt de minister het beschikbare bedrag per doelgroep, in volgorde van ontvangst van de aanvragen voor subsidie met dien verstande dat aan aanvragers aan wie op basis van deze regeling reeds voor een eerste of tweede maal subsidie is verleend voor dezelfde opleiding, voorrang wordt verleend bij subsidieverstrekking.
 
 2. De aanvrager krijgt krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) twee weken de gelegenheid de aanvraag aan te vullen. Als de aanvraag binnen twee weken voldoende is aangevuld, geldt de dag waarop de aanvraag is ingediend, met betrekking tot de in het eerste lid genoemde verdeling, als datum van ontvangst.
+
+2a. In afwijking van het tweede lid stelt de minister een aanvrager die in 2020 op of voor 17 juni een onvolledige aanvraag doet, in de gelegenheid om de aanvraag aan te vullen tot en met uiterlijk 30 juni 2020. Als de aanvraag uiterlijk op 30 juni 2020 voldoende is aangevuld, geldt de dag waarop de aanvraag is ingediend, met betrekking tot de in het eerste lid genoemde verdeling, als datum van ontvangst.
 
 3. De verdeling van het beschikbare bedrag voor het studiejaar 2017–2018 over de verschillende doelgroepen geschiedt als volgt:
 
@@ -208,7 +210,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2020-04-01&g=2020-04-01).
+De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2020-06-24&g=2020-06-24).
 
 ##### Artikel 12. Betaling
 
@@ -225,6 +227,8 @@ Het subsidiebedrag wordt voordat de opleiding waar de subsidie betrekking op hee
 - b. het bevoegd gezag geen studieverlof heeft verleend.
 
 3. De minister kan op aanvraag van de leraar een betalingsregeling treffen voor het terugbetalen van de subsidie voor studiekosten die voorziet in betaling van het totale bedrag binnen 24 maanden. Het minimumbedrag dat maandelijks wordt afgelost, bedraagt € 100.
+
+4. In afwijking van het eerste lid kan de minister een subsidie voor studiekosten die voor het studiejaar 2019–2020 is verstrekt, terugvorderen indien de leraar in deze periode minder dan vijf studiepunten behaalt.
 
 ### Hoofdstuk 2. Subsidie voor studiekosten
 
@@ -260,11 +264,13 @@ De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
 
 ##### Artikel 16. Terugvordering collegegeld
 
-Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2020-04-01&g=2020-04-01).
+Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2020-06-24&g=2020-06-24).
 
 ##### Artikel 17. Subsidieverplichting
 
-De leraar behaalt per studiejaar ten minste vijftien studiepunten.
+1. De leraar behaalt per studiejaar ten minste vijftien studiepunten.
+
+2. In afwijking van het eerste lid behaalt de leraar in het studiejaar 2019–2020 ten minste vijf studiepunten.
 
 ##### Artikel 18. Vaststelling
 
@@ -272,11 +278,17 @@ De subsidie voor studiekosten wordt ambtshalve vastgesteld binnen 22 weken na af
 
 ##### Artikel 19. Steekproef
 
-Op verzoek van de Minister toont de leraar aan dat hij voldoet aan de subsidiecriteria en de subsidieverplichtingen door het overleggen van:
+1. Op verzoek van de Minister toont de leraar aan dat hij voldoet aan de subsidiecriteria en de subsidieverplichtingen door het overleggen van:
 
 - a. een document waaruit blijkt dat hij collegegeld heeft betaald; en
 
 - b. een bewijsstuk waaruit blijkt dat hij ten minste vijftien studiepunten heeft behaald, dan wel een verklaring waarin staat dat leeruitkomsten zijn behaald bij een onderwijsinstelling die deelneemt aan het experiment leeruitkomsten ter waarde van in totaal ten minste vijftien studiepunten.
+
+2. Ten aanzien van de subsidies die voor het studiejaar 2019–2020 zijn verstrekt toont de leraar, in afwijking van het eerste lid, op verzoek van de minister aan dat hij voldoet aan de subsidiecriteria en de subsidieverplichtingen door het overleggen van:
+
+- a. een document waaruit blijkt dat hij collegegeld heeft betaald; en
+
+- b. een bewijsstuk waaruit blijkt dat hij ten minste vijf studiepunten heeft behaald, dan wel een verklaring waarin staat dat leeruitkomsten zijn behaald bij een onderwijsinstelling die deelneemt aan het experiment leeruitkomsten ter waarde van in totaal ten minste vijf studiepunten.
 
 ### Hoofdstuk 3. Subsidie voor studieverlof
 
@@ -388,7 +400,7 @@ De [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/j
 
 ##### Artikel 29. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2020-04-01&g=2020-04-01), dat in werking treedt met ingang van 1 juli 2017.
+1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2020-06-24&g=2020-06-24), dat in werking treedt met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 april 2022.
 
