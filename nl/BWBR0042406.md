@@ -4,7 +4,7 @@ identifier: "BWBR0042406"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-24"
-last_updated: "2019-04-01"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042406"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De adviescommissie bestaat uit een voorzitter, tevens lid, en tenminste twee en ten hoogste vier andere leden.
+1. De adviescommissie bestaat uit een voorzitter, tevens lid, en tenminste twee en ten hoogste vijf andere leden.
 
 2. De voorzitter en de overige leden worden door de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking benoemd.
 
@@ -72,17 +72,19 @@ Besluit:
 
 1. Voor het tijdvak van 1 april 2019 tot en met 31 maart 2021 worden benoemd tot lid van de Adviescommissie SDGP:
 
-- a. De heer Paulus Verschuren te Rijswijk, tevens voorzitter;
+- a. De heer Paulus Verschuren te Rijswijk, tevens voorzitter,
 
-- b. Mevrouw Pieternel Boogaard te Haarlem;
+- b. Mevrouw Wilma Roozenboom te Broek in Waterland,
 
-- c. Mevrouw Wilma Roozenboom te Broek in Waterland;
+- c. Mevrouw Annelies Zoomers te Odijk,
 
-- d. Mevrouw Annelies Zoomers te Odijk;
+- d. De heer Mark Hillen te Amsterdam.
 
-- e. De heer Mark Hillen te Amsterdam.
+2. Voor het tijdvak van 1 mei 2020 tot en met 31 maart 2021 wordt de heer Albert Boogaard te Utrecht, benoemd tot lid van de Adviescommissie SDGP.
 
-2. De leden van de adviescommissie zijn te allen tijde herbenoembaar.
+3. Voor het tijdvak van 1 juni 2020 tot en met 31 maart 2021 wordt mevrouw Marleen Dekker te Oudekerk aan de Amstel, benoemd tot lid van de Adviescommissie SDGP.
+
+4. De leden van de adviescommissie zijn te allen tijde herbenoembaar.
 
 ##### Artikel 5
 
