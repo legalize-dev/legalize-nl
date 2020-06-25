@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2020-01-01"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -80,11 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - n. **managementafspraak:** afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,
 
-- o. **personele besluiten:** besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ten aanzien van personele aangelegenheden;
-
-- p. **ARAR:** [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
-
-- q. **BBRA:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+- o. **personeelsreglement:** verzameling van decentraal gemaakte collectieve afspraken en instructies ten behoeve van de ambtenaren die op basis van een arbeidsovereenkomst in dienst zijn bij de Staat der Nederlanden en werkzaam zijn bij OCW.
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -186,7 +182,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2020-06-25&g=2020-01-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2020-06-25&g=2020-06-25), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -224,7 +220,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2020-06-25&g=2020-01-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2020-06-25&g=2020-06-25),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -246,7 +242,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2020-06-25&g=2020-01-01), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2020-06-25&g=2020-01-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2020-06-25&g=2020-06-25).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -254,31 +250,19 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 14. Personele bevoegdheden
 
-1. De secretaris-generaal heeft bij uitsluiting van anderen mandaat ten aanzien van besluiten:
+1. De secretaris-generaal heeft bij uitsluiting van anderen mandaat ten aanzien van:
 
-- a. die voor alle ambtenaren van het Ministerie gelden;
+- a. het vaststellen van het personeelsreglement
 
-- b. inhoudende:
+- b. de toekenning van financiële tegemoetkomingen als onderdeel van het Van Werk naar Werkbeleid.
 
-- 1°. ontslag als bedoeld in [artikel 99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99);
+2. Onverminderd het eerste lid hebben de secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs mandaat ten aanzien van alle personele aangelegenheden betreffende onder hen ressorterende medewerkers tenzij bij wettelijk voorschrift anders is of wordt bepaald, met dien verstande dat ten aanzien van ontslag, waaronder de keuze van de ontslaggrond, de strafmaat bij straffen, ordemaatregelen en vaststellingsovereenkomsten, te voren een toetsing zal plaats vinden door een arbeidsjuridisch deskundige.
 
-- 2°. de toekenning van financiële tegemoetkomingen als onderdeel van sociaal flankerende maatregelen;
+3. De secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs kunnen ondermandaat verlenen aan functionarissen binnen hun organisatieonderdeel ten aanzien van personele aangelegenheden als bedoeld in het tweede lid.
 
-- c. personele besluiten als bedoeld in het tweede lid:
+4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-- 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een directeur-generaal of de inspecteur-generaal van het onderwijs mededeling heeft gedaan dat deze door hem zullen worden behandeld of
-
-- 2°. die door een directeur-generaal of de inspecteur-generaal van het onderwijs aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een andere directeur-generaal of inspecteur-generaal van het onderwijs moeten worden behandeld;
-
-- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2020-06-25&g=2020-01-01).
-
-2. Onverminderd het eerste lid hebben de secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs mandaat ten aanzien van personele besluiten betreffende onder hen ressorterende medewerkers tenzij bij wettelijk voorschrift anders is of wordt bepaald.
-
-3. De secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs kunnen ondermandaat verlenen aan functionarissen binnen hun organisatieonderdeel ten aanzien van besluiten als bedoeld in het tweede lid.
-
-4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden en besluiten die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
-
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2020-06-25&g=2020-01-01) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2020-06-25&g=2020-06-25) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -304,7 +288,21 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2020-06-25&g=2020-01-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2020-06-25&g=2020-06-25) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+
+**De Staat der Nederlanden,**
+
+**vertegenwoordigd door de Minister van Onderwijs, Cultuur en Wetenschap,**
+
+**namens deze,**
+
+**functie van de gevolmachtigde,**
+
+**handtekening van de gevolmachtigde,**
+
+**naam van de gevolmachtigde**
+
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2020-06-25&g=2020-06-25) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -314,11 +312,11 @@ naam van de gemandateerde.
 
 **naam van de gemandateerde.**
 
-Het derde lid is van overeenkomstige toepassing.
+Het vierde lid is van overeenkomstige toepassing.
 
-3. Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.
+4. Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.
 
-4. Indien het mandaat, bedoeld in het eerste lid, berust op een bevoegdheid van een andere bewindspersoon dan de Minister, dan wordt dit in de in het eerste lid bedoelde formule dienovereenkomstig tot uitdrukking gebracht. In het geval dat de in het eerste lid bedoelde gemandateerde ondertekent namens meerdere bewindspersonen, worden alle betrokken bewindspersonen in de eerder bedoelde formule opgenomen.
+5. Indien het mandaat, bedoeld in het eerste lid, berust op een bevoegdheid van een andere bewindspersoon dan de Minister, dan wordt dit in de in het eerste lid bedoelde formule dienovereenkomstig tot uitdrukking gebracht. In het geval dat de in het eerste lid bedoelde gemandateerde ondertekent namens meerdere bewindspersonen, worden alle betrokken bewindspersonen in de eerder bedoelde formule opgenomen.
 
 ##### Artikel 17. Intrekking
 
