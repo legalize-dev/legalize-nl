@@ -4,7 +4,7 @@ identifier: "BWBR0042607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-02-10"
-last_updated: "2019-10-04"
+last_updated: "2020-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042607"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - a. € 9.000.000; en
 
-- b. € 90 maal het aantal woningen als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=4&z=2019-10-04&g=2019-10-04).
+- b. € 90 maal het aantal woningen als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=4&z=2020-06-27&g=2020-06-27).
 
 2. Onze Minister kan in totaal ten hoogste € 87.000.000 aan specifieke uitkeringen verstrekken.
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. Een aanvraag bevat ten minste:
 
-- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel van deze regeling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2019-10-04&g=2019-10-04);
+- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel van deze regeling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2020-06-27&g=2020-06-27);
 
 - b. het beoogde aantal woningen waarvoor voorlichting over energiebesparing wordt gegeven of waar energiebesparende maatregelen worden getroffen;
 
@@ -92,15 +92,15 @@ In deze regeling wordt verstaan onder:
 
 Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
-- a. de activiteiten in de aanvraag niet vallen onder de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2019-10-04&g=2019-10-04);
+- a. de activiteiten in de aanvraag niet vallen onder de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2020-06-27&g=2020-06-27);
 
 - b. de activiteiten in de aanvraag niet tot doel hebben het energiegebruik in minimaal 1.000 woningen te verminderen;
 
-- c. de aanvraag minder dan 60 punten scoort bij de beoordeling op basis van de beoordelingscriteria, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2019-10-04&g=2019-10-04);
+- c. de aanvraag minder dan 60 punten scoort bij de beoordeling op basis van de beoordelingscriteria, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2020-06-27&g=2020-06-27);
 
 - d. niet aannemelijk is dat de activiteiten in de aanvraag voor 1 januari 2021 zijn afgerond; of
 
-- e. de aanvraag onvoldoende informatie bevat om te beoordelen op basis van de beoordelingscriteria, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2019-10-04&g=2019-10-04).
+- e. de aanvraag onvoldoende informatie bevat om te beoordelen op basis van de beoordelingscriteria, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2020-06-27&g=2020-06-27).
 
 ##### Artikel 6. Voorwaarden voor de uitkering
 
@@ -110,15 +110,15 @@ De gemeente informeert Onze Minister op verzoek over de voortgang van de activit
 
 1. De specifieke uitkeringen worden verstrekt op basis van rangschikking van de aanvragen.
 
-2. Onze Minister rangschikt de aanvragen door het toekennen van punten aan de hand van de weging van de beoordelingscriteria, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2019-10-04&g=2019-10-04).
+2. Onze Minister rangschikt de aanvragen door het toekennen van punten aan de hand van de weging van de beoordelingscriteria, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&bijlage=I&z=2020-06-27&g=2020-06-27).
 
-3. Onze Minister kan bij het beoordelen advies vragen van een externe adviescommissie als het totaal aan aanvragen het uitkeringsplafond, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=3&z=2019-10-04&g=2019-10-04), overschrijdt.
+3. Onze Minister kan bij het beoordelen advies vragen van een externe adviescommissie als het totaal aan aanvragen het uitkeringsplafond, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=3&z=2020-06-27&g=2020-06-27), overschrijdt.
 
 ##### Artikel 8. Bestemming niet-gebruikte middelen
 
-1. Onze Minister kan het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 januari 2021.
+1. Onze Minister kan het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 31 maart 2021.
 
-2. Onze Minister kan, in overleg met de ontvanger van de specifieke uitkering, afzien van terugvordering als het restant door de ontvanger kan worden besteed aan activiteiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2019-10-04&g=2019-10-04), na 1 januari 2021.
+2. Onze Minister kan, in overleg met de ontvanger van de specifieke uitkering, afzien van terugvordering als het restant door de ontvanger kan worden besteed aan activiteiten als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042607&artikel=2&z=2020-06-27&g=2020-06-27), na 31 maart 2021.
 
 ##### Artikel 9. Verantwoording en terugvordering
 
