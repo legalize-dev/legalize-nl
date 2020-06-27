@@ -4,7 +4,7 @@ identifier: "BWBR0008859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-20"
-last_updated: "2017-11-04"
+last_updated: "2020-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008859"
 soort: "ministeriele-regeling"
@@ -38,15 +38,15 @@ Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzak
 
 Gelet op het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen (Trb. 1981, 143);
 
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04);
+Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27);
 
-Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04);
+Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27);
 
 Besluit:
 
 ##### Artikel 1
 
-1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2017-11-04&g=2017-11-04) bij deze regeling.
+1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2020-06-27&g=2020-06-27) bij deze regeling.
 
 2. Vervallen.
 
@@ -464,7 +464,7 @@ Voor personeel en diens gezinsleden op wie het Verdrag nopens de voorrechten en 
 
 ### Toevoeging
 
-Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
+Personeel alsmede diens gezinsleden, allen met de Nederlandse nationaliteit, dat respectievelijk die voorafgaand aan de indiensttreding bij een internationale organisatie die met Nederland een zetelverdrag, een daarmee vergelijkbaar verdrag dan wel een aan een verdrag gelijkgestelde Nota-wisseling heeft, ten minste 12 maanden woonachtig was respectievelijk waren in een andere Europese lidstaat dan Nederland, krijgen de toevoeging ‘/VV’.
 
 ### Het model van het identiteitsbewijs geprivilegieerden
 
@@ -473,3 +473,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Coderingen
 
 Nederlanders in dienst van genoemde instellingen, met uitzondering van Nederlanders in dienst van de Europeesrechtelijke instellingen, worden onderscheiden door achter de bovengenoemde codering de aanduiding ‘/NL’ te plaatsen. Duurzaam in Nederland verblijvende vreemdelingen krijgen, met uitzondering van duurzaam in Nederland verblijvende vreemdelingen in dienst van de Europeesrechtelijke instellingen, als toevoeging ‘/DV’.
+
+Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
+
+### Het model van het identiteitsbewijs geprivilegieerden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
