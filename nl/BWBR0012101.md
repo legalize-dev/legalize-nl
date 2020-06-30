@@ -4,7 +4,7 @@ identifier: "BWBR0012101"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-08"
-last_updated: "2019-01-01"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012101"
 soort: "ministeriele-regeling"
@@ -68,7 +68,13 @@ In deze regeling wordt verstaan onder:
 
 - l. WIA-uitkering: een uitkering op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47) of [artikel 54 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54);
 
-- m. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in artikel 7a van de Algemene ouderdomswet waarop recht op ouderdomspensioen ontstaat.
+- m. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in [artikel 7a van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) waarop recht op ouderdomspensioen ontstaat;
+
+- n. pensioengevend inkomen: het voor de betrokkene op grond van hoofdstuk 7.1.1 van het pensioenreglement vastgestelde pensioengevend inkomen;
+
+- o. pensioenovereenkomst: de overeenkomst, bedoeld in [artikel 4 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4);
+
+- p. gerechtvaardigde aanspraak: de aanspraak, bedoeld in [artikel 1, onderdeel r, van het Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&artikel=1).
 
 ##### Artikel 2
 
@@ -82,9 +88,9 @@ De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de bere
 
 ##### Artikel 4
 
-1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2019-01-01).
+1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2020-06-30).
 
-2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2019-01-01), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2020-06-30&g=2019-01-01), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
+2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2020-06-30), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2020-06-30&g=2020-06-30), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
 
 ##### Artikel 5
 
@@ -98,7 +104,7 @@ De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de bere
 
 ##### Artikel 6
 
-1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2019-01-01).
+1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2020-06-30&g=2020-06-30).
 
 2. Indien de inkomsten niet vooraf kunnen worden vastgesteld, doet de betrokkene maandelijks, voorafgaand aan de salarisbetaling, opgave van de inkomsten die hij sinds de vorige opgave heeft genoten.
 
@@ -120,7 +126,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, 
 
 ##### Artikel 9
 
-Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2020-06-30&g=2019-01-01), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
+Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2020-06-30&g=2020-06-30), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
 
 ##### Artikel 10
 
@@ -188,7 +194,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 13a
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2020-06-30&g=2019-01-01) heeft de betrokkene, die op enig tijdstip in de periode van 1 januari 2013 tot de datum van inwerkingtreding van dit artikel recht heeft op een uitkering op grond van deze regeling, recht op een compensatie als bedoeld in het tweede lid.
+1. In afwijking van [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2020-06-30&g=2020-06-30), heeft de betrokkene die op enig tijdstip in de periode van 1 januari 2013 tot 26 juli 2016 recht had op een uitkering op grond van deze regeling en de leeftijd van 65 jaar bereikt voor 1 april 2017, vanaf die leeftijd recht op de compensatie, bedoeld in het tweede lid.
 
 2. De compensatie wordt berekend door het aantal maanden dat de AOW-gerechtigde leeftijd van de betrokkene later ligt dan de datum waarop deze de leeftijd van 65 jaar heeft bereikt te vermenigvuldigen met 70% van het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
@@ -196,7 +202,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 13b
 
-1. In afwijking van [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2020-06-30&g=2019-01-01), heeft de betrokkene die op enig tijdstip in de periode van 1 januari 2013 tot 26 juli 2016 recht had op een uitkering op grond van deze regeling en de leeftijd van 65 jaar bereikt op of na 1 april 2017 vanaf die leeftijd recht op een tegemoetkoming die bestaat uit:
+1. In afwijking van [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2020-06-30&g=2020-06-30), heeft de betrokkene die op enig tijdstip in de periode van 1 januari 2013 tot 26 juli 2016 recht had op een uitkering op grond van deze regeling en de leeftijd van 65 jaar bereikt op of na 1 april 2017 vanaf die leeftijd recht op een tegemoetkoming die bestaat uit:
 
 - a. een uitkering die netto een bedrag oplevert dat gelijk is aan het ouderdomspensioen, verhoogd met de vakantiebijslag, dat de betrokkene op grond van de [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) had ontvangen, indien die wet al op hem van toepassing was geweest;
 
@@ -206,7 +212,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De tegemoetkoming wordt met ingang van het bereiken van de leeftijd van 65 jaar maandelijks uitgekeerd en eindigt met ingang van de dag waarop de betrokkene de AOW-gerechtigde leeftijd heeft bereikt, waarbij geldt dat het op grond van het eerste lid, onderdeel b, berekende totaal in die periode wordt uitgekeerd. Indien de betrokkene overlijdt voordat hij de AOW-gerechtige leeftijd bereikt, eindigt de tegemoetkoming met ingang van de dag volgend op de dag van overlijden.
 
-3. De in het eerste lid bedoelde tegemoetkoming wordt verminderd met de compensatie die de betrokkene heeft ontvangen op grond van [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=13a&z=2020-06-30&g=2019-01-01).
+3. De in het eerste lid bedoelde tegemoetkoming wordt verminderd met de compensatie die de betrokkene heeft ontvangen op grond van [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=13a&z=2020-06-30&g=2020-06-30).
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
