@@ -4,7 +4,7 @@ identifier: "BWBR0024896"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024896"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **wet:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- b. **commissie:** de commissie beëdigde tolken en vertalers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=2&z=2020-01-01&g=2020-01-01);
+- b. **commissie:** de commissie beëdigde tolken en vertalers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=2&z=2020-07-01&g=2020-07-01);
 
 - c. **klachtencommissie:** de klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16).
 
@@ -66,13 +66,13 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie is belast met de volgende taken:
 
-- a. het adviseren over de aanwijzing van onafhankelijke deskundigen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-01-01&g=2020-01-01);
+- a. het adviseren over de aanwijzing van onafhankelijke deskundigen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-07-01&g=2020-07-01);
 
-- b. het adviseren over opleidingen als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-01-01&g=2020-01-01);
+- b. het adviseren over opleidingen als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-07-01&g=2020-07-01);
 
 - c. het adviseren over de competenties, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=3).
 
-3. De commissie bestaat uit maximaal vijf leden, waaronder de voorzitter.
+3. De commissie bestaat uit maximaal acht leden, waaronder de voorzitter.
 
 ##### Artikel 3
 
@@ -88,9 +88,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De leden van de commissie ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) en de daarop gebaseerde voor het ministerie van Justitie geldende bepalingen.
-
-2. De leden ontvangen een vergoeding voor reis- en verblijfkosten in het binnenland overeenkomstig de daarover gemaakte afspraken in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+Vervallen
 
 ### Hoofdstuk 3. De aanvraag tot inschrijving
 
@@ -104,7 +102,7 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 - a. de verklaring omtrent het gedrag, genoemd in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4);
 
-- b. het getuigschrift, genoemd in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-01-01&g=2020-01-01);
+- b. het getuigschrift, genoemd in [artikel 8, eerste lid, onderdeel a, en artikel 8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-07-01&g=2020-07-01);
 
 - c. een kopie van een geldig identiteitsbewijs;
 
@@ -112,7 +110,7 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 - e. een document waaruit blijkt dat verzoeker, indien relevant, in Nederland mag verblijven en werken.
 
-2. In plaats van het origineel van het getuigschrift, bedoeld in [artikel 8, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-01-01&g=2020-01-01), kan ook een gewaarmerkte kopie worden overgelegd.
+2. In plaats van het origineel van het getuigschrift, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-07-01&g=2020-07-01), en artikel 8, tweede lid, onderdeel a, kan ook een gewaarmerkte kopie worden overgelegd.
 
 ##### Artikel 7
 
@@ -138,11 +136,15 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 - 3°. een getuigschrift waaruit blijkt dat de graad Master is verleend;
 
-- b. hij kan anderszins aantonen te voldoen aan de wettelijke competenties.
+- b. hij anderszins kan aantonen te voldoen aan de wettelijke competenties, waaronder taalvaardigheid in bron- en doeltaal op niveau C1 van het Europees Referentiekader voor Talen.
 
-2. Onze Minister kan onafhankelijke deskundigen aanwijzen die taal- en cultuurtoetsen kunnen afnemen waarmee tolken en vertalers kunnen aantonen dat ze beschikken over de desbetreffende wettelijke competenties.
+2. Onverminderd het eerste lid wordt een tolk eveneens ingeschreven in het register indien:
 
-3. Een tolk of vertaler op wie het overgangsrecht van [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=37) van toepassing is, wordt in het register ingeschreven.
+- a. hij beschikt over een getuigschrift waaruit blijkt dat hij met goed gevolg een door Onze Minister aangewezen tolktoets heeft afgelegd in de bron- en doeltaal op tenminste niveau B2 van het Europees Referentiekader voor Talen:
+
+- b. hij anderszins kan aantonen te voldoen aan de wettelijke competenties, waarbij taalvaardigheid in bron- en doeltaal op niveau B2 van het Europees Referentiekader voor Talen wordt aangetoond.
+
+3. Onze Minister kan onafhankelijke deskundigen aanwijzen die toetsen kunnen afnemen waarmee tolken en vertalers kunnen aantonen dat ze beschikken over de desbetreffende wettelijke competenties.
 
 ##### Artikel 9
 
@@ -172,23 +174,25 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 2. Indien een tolk of vertaler schriftelijk aantoont over overige specifieke bekwaamheden te beschikken, kunnen deze bekwaamheden op diens verzoek in het register worden vermeld.
 
+3. Onverminderd het eerste lid, wordt bij de inschrijving in het register van een tolk vermeld of de inschrijving is op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=4&artikel=8&z=2020-07-01&g=2020-07-01).
+
 ### Hoofdstuk 5. Verlenging van de inschrijving
 
 ##### Artikel 11
 
 De inschrijving van een beëdigde tolk of vertaler wordt verlengd, indien schriftelijk is aangetoond:
 
-- a. dat hij ten minste tien professionele werkopdrachten als beëdigde tolk of vertaler heeft verricht; en
+- a. dat hij ten minste 20 uren aan professionele werkopdrachten als beëdigde tolk, dan wel 4000 woorden aan professionele werkopdrachten als beëdigde vertaler, heeft verricht; en
 
 - b. dat hij door middel van een door Onze Minister aangewezen opleiding zijn vakbekwaamheid heeft onderhouden.
 
 ##### Artikel 12
 
-Bij ministeriële regeling kan worden bepaald in welke gevallen een inschrijving kan worden verlengd hoewel niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-01-01&g=2020-01-01).
+Bij ministeriële regeling kan worden bepaald in welke gevallen een inschrijving kan worden verlengd hoewel niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 13
 
-Onze Minister kan een opleiding als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-01-01&g=2020-01-01), aanwijzen, indien deze ten minste voldoet aan de volgende criteria:
+Onze Minister kan een opleiding als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-07-01&g=2020-07-01), aanwijzen, indien deze ten minste voldoet aan de volgende criteria:
 
 - a. de opleiding is gericht op verhoging van de kwaliteit van de beroeps- en praktijkuitoefening op vakinhoudelijk gebied en de kwaliteit van de dienstverlening van de beëdigde tolk of vertaler; en
 
@@ -196,7 +200,7 @@ Onze Minister kan een opleiding als bedoeld in [artikel 11, onderdeel b](https:/
 
 ##### Artikel 14
 
-1. Bij een verzoek tot aanwijzing van een opleiding als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-01-01&g=2020-01-01), worden ten minste de namen van de docenten en hun ervaring opgegeven en wordt het studiemateriaal overgelegd.
+1. Bij een verzoek tot aanwijzing van een opleiding als bedoeld in [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=5&artikel=11&z=2020-07-01&g=2020-07-01), worden ten minste de namen van de docenten en hun ervaring opgegeven en wordt het studiemateriaal overgelegd.
 
 2. Onze Minister beslist binnen twee maanden na ontvangst op een verzoek tot aanwijzing van een opleiding.
 
@@ -208,7 +212,7 @@ Onze Minister kan een opleiding als bedoeld in [artikel 11, onderdeel b](https:/
 
 2. Er kunnen plaatsvervangende leden worden benoemd.
 
-3. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de klachtencommissie.
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=3&z=2020-07-01&g=2020-07-01) is van overeenkomstige toepassing op de klachtencommissie.
 
 ##### Artikel 16
 
