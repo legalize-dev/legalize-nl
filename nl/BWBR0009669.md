@@ -4,7 +4,7 @@ identifier: "BWBR0009669"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2017-10-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009669"
 soort: "AMvB"
@@ -74,13 +74,13 @@ In dit besluit wordt verstaan onder:
 
 - f. **%**: massaprocent;
 
-- g. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad.
+- g. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad;
+
+- h. **(zuur)desem:** een product dat ontstaat na fermentatie van een mengsel op basis van graan, water en van nature aanwezige micro-organismen, waarbij de micro-organismen in een actieve toestand aanwezig zijn of reactiveerbaar zijn.
 
 ##### Artikel 2
 
-1. Het is verboden de bij of krachtens dit besluit bedoelde waren te bereiden of te verhandelen of te gebruiken voor de bereiding van brood, die niet voldoen aan de eisen, bij dit besluit gesteld met betrekking tot hun samenstelling of hun hoedanigheid of eigenschappen.
-
-2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
+Het is verboden de bij of krachtens dit besluit bedoelde waren te bereiden, te verhandelen of te gebruiken voor de bereiding van brood anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
 #### § 2:. bereiding en samenstelling
 
@@ -122,11 +122,11 @@ In meel, bloem, andere vormen van graan en zaden van boekweit zijn niet aanwezig
 
 ##### Artikel 8
 
-De aanduiding **wit(te)brood** mag uitsluitend worden gebezigd voor brood waarvan tarwebloem het voornaamste meelbestanddeel is en waarin zemelen met het blote oog niet waarneembaar zijn.
+De aanduiding **wit(te)brood** mag uitsluitend en moet worden gebezigd voor brood waarvan bloem het voornaamste meelbestanddeel is en waarin zemelen met het blote oog niet waarneembaar zijn.
 
 ##### Artikel 9
 
-De aanduiding **bruinbrood of tarwebrood** mag uitsluitend worden gebezigd voor brood waarvan (volkoren)tarwemeel, al dan niet gemengd met gebroken tarwe en tarwevlokken, het voornaamste meelbestanddeel is en waarin zemelen met het blote oog waarneembaar zijn.
+De aanduiding **bruinbrood** mag uitsluitend en moet worden gebezigd voor brood waarvan (volkoren)meel, al dan niet gemengd met gebroken graankorrels en graanvlokken, het voornaamste meelbestanddeel is en waarin zemelen met het blote oog waarneembaar zijn.
 
 ##### Artikel 10
 
@@ -150,15 +150,17 @@ Vervallen
 
 ##### Artikel 15
 
-Het woord **heel** of het woord **half** mag onderdeel uitmaken van de aanduiding van:
+1. Het woord **heel** of het woord **half** mag onderdeel uitmaken van de aanduiding van:
 
 - a. roggebrood, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 520 en 560 gram onderscheidenlijk tussen 260 en 285 gram;
 
 - b. ander brood dan bedoeld onder a, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 480 en 530 gram onderscheidenlijk tussen 240 en 265 gram.
 
+2. Het woord **midden** of **middengroot** mag onderdeel uitmaken van de aanduiding van brood, anders dan bedoeld onder het eerste lid, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen de 360 en 400 gram. Indien het brood is gebakken in een bakblik, dan is de lengtemaat (buitenmaat) van het bakblik kleiner dan 27 centimeter.
+
 ##### Artikel 16
 
-Het woord **volkoren** mag onderdeel uitmaken van de aanduiding van een in dit besluit bedoelde waar, voorzover in de aldus aangeduide waar de van nature voorkomende zetmeelrijke kern, kiem en zemelen van de desbetreffende graansoort in hun natuurlijke verhouding, al dan niet na een bewerking te hebben ondergaan, aanwezig zijn.
+Het woord **volkoren** mag uitsluitend en moet onderdeel uitmaken van de aanduiding van een in dit besluit bedoelde waar, voor zover in de aldus aangeduide waar de voorkomende zetmeelrijke kern, kiem en zemelen van de desbetreffende graansoort(en) in hun natuurlijke verhouding, al dan niet na een bewerking te hebben ondergaan, aanwezig zijn.
 
 #### § 4:. vermeldingen
 
@@ -168,7 +170,7 @@ Vervallen
 
 ##### Artikel 18
 
-In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2017-10-01&g=2017-10-01).
+In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2020-07-01&g=2020-07-01).
 
 #### § 5:. slotbepalingen
 
@@ -198,11 +200,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-1. De hoeveelheid droge stof van brood met of zonder decoratie met een gewicht tussen 350 gram en 1000 gram ligt tussen de 240 en 265 gram onderscheidenlijk tussen de 480 en 530 gram.
+1. De hoeveelheid droge stof van brood met of zonder decoratie met een gewicht tussen 350 gram en 1.000 gram ligt tussen de 240 en 265 gram, tussen de 360 en 400 gram of tussen de 480 en 530 gram.
 
 2. Het eerste lid is niet van toepassing op brood met bijzondere kenmerkende bestanddelen in de kruim, roggebrood, roggetarwebrood, stokbrood, brood met een zeer laag glutengehalte en glutenvrij brood.
 
-#### § 3:. gereserveerde aanduidingen
+#### § 3. Gereserveerde en verplichte aanduidingen
 
 #### § 4:. vermeldingen
 
@@ -212,6 +214,46 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 19a
 
-Waren die voldoen aan het Warenwetbesluit Meel en brood zoals dat luidde op 30 september 2017 mogen worden bereid, aangeduid, verhandeld of gebruikt voor de bereiding van brood tot 1 oktober 2018.
+Waren die voldoen aan het Warenwetbesluit Meel en brood zoals dat luidde op 30 juni 2020 mogen worden bereid, aangeduid, verhandeld of gebruikt voor de bereiding van brood tot 1 juli 2022.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Indien in de aanduiding de naam van één graansoort wordt gebezigd moet het meelbestanddeel voor minimaal 98% afkomstig zijn van de betreffende graansoort.
+
+##### Artikel 7b
+
+Indien in de aanduiding de naam van twee of meer graansoorten wordt gebezigd moeten deze graansoorten:
+
+- a. gezamenlijk voor minimaal 98% aanwezig zijn in het meelbestanddeel;
+
+- b. afzonderlijk voor minimaal 5% aanwezig zijn in het meelbestanddeel; en
+
+- c. worden vermeld in de aanduiding, in afnemende volgorde van de hoeveelheid waarin zij in het brood aanwezig zijn.
+
+##### Artikel 7c
+
+De aanduiding **meergranen** mag uitsluitend worden gebezigd voor brood:
+
+- a. waarvan het meelbestanddeel uit minimaal 3 verschillende graansoorten bestaat;
+
+- b. waarbij de graansoort, waarvan de aanwezige hoeveelheid ervan in het brood het grootst is, maximaal 90% van het meelbestanddeel bedraagt; en
+
+- c. waarbij de hoeveelheid van de afzonderlijke graanbestanddelen, uitgedrukt als percentage in het brood, in de ingrediëntenlijst wordt vermeld.
+
+##### Artikel 7d
+
+1. De aanduiding **(zuur)desem** mag uitsluitend worden gebezigd indien:
+
+- a. (zuur)desem als enige rijsmiddel is gebruikt; en
+
+- b. maximaal 0,2% droge gist of maximaal 0,5% verse gist is toegevoegd aan het meelbestanddeel.
+
+2. Indien een brood met vruchten, noten, zaden en pitten (minimaal 30% van het totaalgewicht) wordt aangeduid met **(zuur)desem** mag de hoeveelheid droge gist, in afwijking van het eerste lid, onderdeel b, in totaal maximaal 0,5% droge gist of maximaal 1,2% verse gist van het meelbestanddeel bedragen.
+
+#### § 4:. vermeldingen
+
+#### § 5:. slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
