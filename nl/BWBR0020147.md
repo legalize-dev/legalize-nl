@@ -4,7 +4,7 @@ identifier: "BWBR0020147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2009-09-11"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020147"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-In uitzondering op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020147&artikel=1&z=2009-09-11&g=2009-09-11), gebruikt een bevoegd gezag voor de opgave van een geïndiceerde leerling als bedoeld in [artikel 28c van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28c), niet het formulier als bedoeld in het eerste lid, indien de minister van oordeel is dat een bevoegd gezag heeft aangetoond in staat te zijn de leerlinggegevens te leveren op grond van de in [artikel 178a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) bedoelde wijze.
+In uitzondering op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020147&artikel=1&z=2020-07-01&g=2020-07-01), gebruikt een bevoegd gezag voor de opgave van een geïndiceerde leerling als bedoeld in [artikel 28c van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28c), niet het formulier als bedoeld in het eerste lid, indien de minister van oordeel is dat een bevoegd gezag heeft aangetoond in staat te zijn de leerlinggegevens te leveren op de grond van de in [artikel 12 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=12) bedoelde wijze.
 
 ## Bijlage
 
