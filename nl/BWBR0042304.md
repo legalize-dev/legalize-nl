@@ -4,7 +4,7 @@ identifier: "BWBR0042304"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2019-02-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042304"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De volgende functionaris heeft voor de duur van het project de bevoegdheid om in
 
 ##### Artikel 2
 
-De volgende functionaris, heeft voor de duur van het project Duurzame zorg de bevoegdheid om in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten tot een bedrag van € 25.000,– incl. btw, voor zover deze betrekking hebben op het werkterrein van het project: de heer V. Stöcker programmamanager Duurzame zorg.
+De volgende functionaris, heeft voor de duur van het project Duurzame zorg de bevoegdheid om in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten voor zover deze betrekking hebben op het werkterrein van het project: de heer V. Stöcker programmamanager Duurzame zorg.
 
 ##### Artikel 3
 
