@@ -4,7 +4,7 @@ identifier: "BWBR0024005"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-06-13"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024005"
 soort: "ministeriele-regeling"
@@ -52,8 +52,6 @@ In deze regeling wordt verstaan onder:
 
 - afsluitend examen: het examen bedoeld in [artikel 7.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10);
 
-- basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b);
-
 - besluit: het [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152);
 
 - examencommissie: de examencommissie, bedoeld in [artikel 7.12, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12);
@@ -69,6 +67,8 @@ In deze regeling wordt verstaan onder:
 - minister: Minister van Onderwijs, Cultuur en Wetenschap;
 
 - persoonsgebonden nummer: burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), dan wel het door de minister uitgegeven onderwijsnummer, bedoeld in [artikel 7.31e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.31e);
+
+- register onderwijsdeelnemers: het register bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4);
 
 - studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende kalenderjaar;
 
@@ -102,31 +102,31 @@ In deze regeling wordt verstaan onder:
 
 - c. voor een top bekostigingsniveau: 1,5.
 
-3. De bekostigingsniveaus, bedoeld in [artikel 1.1. van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=1.1), behorend bij opleidingen of groepen van opleidingen, worden vastgesteld overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=13&z=2020-06-13&g=2020-06-13) bij deze regeling.
+3. De bekostigingsniveaus, bedoeld in [artikel 1.1. van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=1.1), behorend bij opleidingen of groepen van opleidingen, worden vastgesteld overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=13&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
 ##### Artikel 3. Onderwijsopslag
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2020-06-13&g=2020-06-13) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2020-07-01&g=2020-07-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2020-06-13&g=2020-06-13) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
 2. De onderwijsopslag van een hogeschool, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2020-06-13&g=2020-06-13) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2020-07-01&g=2020-07-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2020-06-13&g=2020-06-13) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
 #### Paragraaf 3. Onderzoek
 
 ##### Artikel 4. Bedragen onderzoek
 
-1. De bedragen, bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2020-06-13&g=2020-06-13) bij deze regeling.
+1. De bedragen, bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
-2. De verdeling, bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2020-06-13&g=2020-06-13) bij deze regeling.
+2. De verdeling, bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
-3. De bedragen, bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2020-06-13&g=2020-06-13) bij deze regeling.
+3. De bedragen, bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
 4. Het deel van het onderzoekdeel wo, bedoeld in [artikel 4.20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.20), is 14,19063%.
 
@@ -142,11 +142,11 @@ Het rentepercentage bedoeld in [artikel 4.27, tweede lid, van het besluit](https
 
 ##### Artikel 6. Bedragen en percentages academische ziekenhuizen
 
-1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2020-06-13&g=2020-06-13) bij deze regeling, onder de noemer bedragen.
+1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2020-07-01&g=2020-07-01) bij deze regeling, onder de noemer bedragen.
 
-2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2020-06-13&g=2020-06-13) bij deze regeling, onder de noemer percentages.
+2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2020-07-01&g=2020-07-01) bij deze regeling, onder de noemer percentages.
 
-3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2020-06-13&g=2020-06-13) bij deze regeling.
+3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2020-07-01&g=2020-07-01) bij deze regeling.
 
 ##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
@@ -195,7 +195,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 ##### Artikel 11. Vertegenwoordigers
 
-1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-06-13&g=2020-06-13), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
+1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-07-01&g=2020-07-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
 
 - a. de naam, het adres en de woonplaats, alsmede de geboortedatum;
 
@@ -205,7 +205,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 - d. de gewenste subsidieperiode in maanden.
 
-2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-06-13&g=2020-06-13), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-06-13&g=2020-06-13).
+2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-07-01&g=2020-07-01), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2020-07-01&g=2020-07-01).
 
 3. Indien is voldaan aan het bepaalde in het eerste lid en financiële ondersteuning wordt toegekend, maakt de minister deze beslissing aan de desbetreffende organisaties bekend en zendt van die bekendmaking een afschrift aan de vertegenwoordiger.
 
@@ -215,7 +215,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 ##### Artikel 12. Aanspraak
 
-1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2020-06-13&g=2020-06-13) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2020-07-01&g=2020-07-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
@@ -227,15 +227,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 ##### Artikel 14. Wijze van verstrekking
 
-1. Het instellingsbestuur verstrekt de gegevens, bedoeld in [artikel 7.52, tweede lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), tezamen met het persoonsgebonden nummer op elektronische wijze aan de minister.
-
-2. Het instellingsbestuur verstrekt de gegevens overeenkomstig de specificatie als opgenomen in bijlage 12.
-
-3. Indien een gemeente de gegevens, bedoeld in [artikel 7.52, tweede lid, onder a., en het vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), niet aan de minister verstrekt, verzoekt de minister het instellingsbestuur deze gegevens te verstrekken.
-
-4. Het bepaalde in het eerste lid is niet van toepassing betreffende de gegevens, bedoeld in [artikel 7.52, tweede lid, onder b., van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), indien deze al zijn opgenomen in het basisregister onderwijs. Indien deze gegevens nog niet zijn opgenomen in het basisregister onderwijs verzoekt de minister het instellingsbestuur deze gegevens te verstrekken.
-
-5. De verstrekking van gegevens, bedoeld in [artikel 7.52, tweede lid, onder i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) is niet van toepassing op de Open Universiteit. Het gegeven onderwijseenheid, bedoeld in artikel 7.52, tweede lid, onder e van de wet, omvat tevens het aantal studiepunten van de onderwijseenheid.
+Vervallen
 
 ##### Artikel 14a. Toelage raad van toezicht
 
@@ -245,15 +237,11 @@ Vervallen
 
 ##### Artikel 15. Tijdstip van melding
 
-1. Het instellingsbestuur draagt er zorg voor dat alle op de inschrijving betrekking hebbende gegevens of mutaties uiterlijk binnen 8 weken na het besluit inzake de inschrijving, bedoeld in [artikel 7.32, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.32), of wijziging van deze gegevens, aan de minister zijn gemeld, onverminderd het bepaalde in [artikel 4.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3).
-
-2. Het instellingsbestuur draagt er zorg voor dat alle op het afsluitende examen betrekking hebbende gegevens daarop uiterlijk binnen 8 weken nadat de examencommissie, conform [artikel 7.12, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12), heeft vastgesteld dat het examen met succes is afgerond aan Onze minister zijn gemeld, onverminderd het bepaalde in [artikel 4.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3).
+Vervallen
 
 ##### Artikel 16. Gebruik van gegevens uit het basisregister onderwijs door minister en Inspectie
 
-1. Uit het basisregister onderwijs verstrekt de minister voor iedere universiteit en hogeschool afzonderlijk aan de minister en de Inspectie de gegevens, bedoeld in [artikel 7.52, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de studenten.
-
-2. Bij de verstrekking, bedoeld in het eerste lid, vervangt de minister elk persoonsgebonden nummer door een ander nummer of een code op een zodanige wijze dat de student of extranei niet geïdentificeerd of identificeerbaar is.
+Vervallen
 
 ##### Artikel 17. Bekostiging sectoroverstijgende opleidingen ten laste van de begroting van het Ministerie van Economische Zaken
 
@@ -267,13 +255,13 @@ Vervallen
 
 ##### Artikel 19. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2020-06-13&g=2020-06-13), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2020-06-13&g=2020-06-13), en bijlage 12, onderdelen g, voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2020-06-13&g=2020-06-13), terug tot en met 1 januari 2008.
+1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2020-07-01&g=2020-07-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2020-07-01&g=2020-07-01), en bijlage 12, onderdelen g, voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2020-07-01&g=2020-07-01), terug tot en met 1 januari 2008.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2020-06-13&g=2020-06-13), werkt terug tot en met 1 januari 2007.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2020-07-01&g=2020-07-01), werkt terug tot en met 1 januari 2007.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2020-06-13&g=2020-06-13) treedt in werking met ingang van 1 september 2008.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2020-07-01&g=2020-07-01) treedt in werking met ingang van 1 september 2008.
 
-4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2020-06-13&g=2020-06-13), treedt in werking met ingang van 1 september 2008.
+4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2020-07-01&g=2020-07-01), treedt in werking met ingang van 1 september 2008.
 
 5. Bijlage 12, onderdelen g, voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
@@ -654,7 +642,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Historisch bestand hoger onderwijs
 
-1. Voor de toepassing van [artikel 4.3, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3) zijn de gegevens uit het basisregister onderwijs vastgelegd in het historisch bestand hoger onderwijs onder het kenmerk 620668988284 aan de hand van de door instellingen aan het basisregister onderwijs aangeleverde gegevens over de periode 1 september 1991 tot en met 30 september 2008 inzake getuigschriften, graden en inschrijvingen en daarmee gelijkgesteld met bekostigde inschrijvingen en bekostigde graden als bedoeld in het besluit.
+1. Voor de toepassing van [artikel 4.3, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3) zijn de gegevens uit het register onderwijsdeelnemers vastgelegd in het historisch bestand hoger onderwijs onder het kenmerk 620668988284 aan de hand van de door instellingen aan het register onderwijsdeelnemers aangeleverde gegevens over de periode 1 september 1991 tot en met 30 september 2008 inzake getuigschriften, graden en inschrijvingen en daarmee gelijkgesteld met bekostigde inschrijvingen en bekostigde graden als bedoeld in het besluit.
 
 2. Onverminderd het gestelde in [artikel 4.3 zevende lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3) zijn de gegevens, die op grond van artikel 4.3 zesde lid van het besluit zijn opgenomen in het historisch bestand hoger onderwijs, bedoeld in het eerste lid, niet meer te wijzigen na 16 april 2010.
 
@@ -760,7 +748,7 @@ Indien een inschrijving heeft plaatsgevonden in de maand oktober, heeft een inst
 
 #### Paragraaf 7. Persoonsgebonden nummer in het hoger onderwijs
 
-## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 1. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Universiteit | Universiteit | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -824,13 +812,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3c. Reikwijdte
 
-Paragraaf 2a bevat, met uitzondering van de [artikelen 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-06-13&g=2020-06-13) en [3i](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3i&z=2020-06-13&g=2020-06-13), beleidsregels met betrekking tot de wijze waarop de minister gebruik maakt van de bevoegdheid tot het toekennen van kwaliteitsbekostiging als bedoeld in [artikel 2.6, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.6) voor het tijdvak 2021 tot en met 2024.
+Paragraaf 2a bevat, met uitzondering van de [artikelen 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-07-01&g=2020-07-01) en [3i](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3i&z=2020-07-01&g=2020-07-01), beleidsregels met betrekking tot de wijze waarop de minister gebruik maakt van de bevoegdheid tot het toekennen van kwaliteitsbekostiging als bedoeld in [artikel 2.6, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.6) voor het tijdvak 2021 tot en met 2024.
 
 ##### Artikel 3d. Aanvraag- en beslistermijnen kwaliteitsbekostiging bij planbeoordeling
 
 1. Een aanvraag als bedoeld in [artikel 4.30, eerste lid, van het besluit](onbekend) wordt uiterlijk zes weken voor het afgesproken tijdstip van het bezoek van de commissie van deskundigen, bedoeld in [artikel 5.2, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.2), ingediend bij het accreditatieorgaan.
 
-2. Indien er geen sprake is van een commissie als bedoeld in het eerste lid wordt een aanvraag als bedoeld in [artikel 4.30, eerste lid, van het besluit](onbekend) uiterlijk acht weken voor het afgesproken tijdstip van bezoek van de commissie van deskundigen, bedoeld in [artikel 18a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8b&artikel=18a&z=2020-06-13&g=2020-06-13), ingediend bij het accreditatieorgaan.
+2. Indien er geen sprake is van een commissie als bedoeld in het eerste lid wordt een aanvraag als bedoeld in [artikel 4.30, eerste lid, van het besluit](onbekend) uiterlijk acht weken voor het afgesproken tijdstip van bezoek van de commissie van deskundigen, bedoeld in [artikel 18a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8b&artikel=18a&z=2020-07-01&g=2020-07-01), ingediend bij het accreditatieorgaan.
 
 3. De minister besluit binnen achtentwintig weken na de uiterste aanvraagdatum, bedoeld in het eerste lid.
 
@@ -842,7 +830,7 @@ Paragraaf 2a bevat, met uitzondering van de [artikelen 3h](https://wetten.overhe
 
 ##### Artikel 3e. Besluit kwaliteitsbekostiging bij planbeoordeling
 
-Een besluit tot toekenning van kwaliteitsbekostiging als bedoeld in [artikel 3d, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3d&z=2020-06-13&g=2020-06-13), betreft een gehele toekenning of een gehele weigering van de voor de desbetreffende universiteit of hogeschool op grond van [artikel 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-06-13&g=2020-06-13) berekende kwaliteitsbekostiging.
+Een besluit tot toekenning van kwaliteitsbekostiging als bedoeld in [artikel 3d, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3d&z=2020-07-01&g=2020-07-01), betreft een gehele toekenning of een gehele weigering van de voor de desbetreffende universiteit of hogeschool op grond van [artikel 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-07-01&g=2020-07-01) berekende kwaliteitsbekostiging.
 
 ##### Artikel 3f. Aanvraag en beslistermijnen kwaliteitsbekostiging bij planrealisatie
 
@@ -854,7 +842,7 @@ Een besluit tot toekenning van kwaliteitsbekostiging als bedoeld in [artikel 3d,
 
 ##### Artikel 3g. Besluit kwaliteitsbekostiging bij planrealisatie
 
-Een besluit tot toekenning van de kwaliteitsbekostiging als bedoeld in [artikel 3f, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3f&z=2020-06-13&g=2020-06-13), betreft een gehele toekenning of een gehele weigering van de voor de desbetreffende universiteit of hogeschool op grond van [artikel 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-06-13&g=2020-06-13) berekende kwaliteitsbekostiging.
+Een besluit tot toekenning van de kwaliteitsbekostiging als bedoeld in [artikel 3f, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3f&z=2020-07-01&g=2020-07-01), betreft een gehele toekenning of een gehele weigering van de voor de desbetreffende universiteit of hogeschool op grond van [artikel 3h](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3h&z=2020-07-01&g=2020-07-01) berekende kwaliteitsbekostiging.
 
 ##### Artikel 3h. Berekening, verdeling en betaling bedrag
 
@@ -888,7 +876,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 
 - b. in 2022 de minister te adviseren of voldaan is aan de maatstaven, bedoeld in [artikel 4.32, eerste lid, van het besluit](onbekend);
 
-- c. uiterlijk zes jaar na het besluit, bedoeld in [artikel 3d, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3d&z=2020-06-13&g=2020-06-13), de verwezenlijking te evalueren van de in de aanvraag in het vooruitzicht gestelde kwaliteit, bedoeld in [artikel 4.30, eerste lid, van het besluit](onbekend), van een universiteit of hogeschool en daarover de minister te adviseren;
+- c. uiterlijk zes jaar na het besluit, bedoeld in [artikel 3d, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2a&artikel=3d&z=2020-07-01&g=2020-07-01), de verwezenlijking te evalueren van de in de aanvraag in het vooruitzicht gestelde kwaliteit, bedoeld in [artikel 4.30, eerste lid, van het besluit](onbekend), van een universiteit of hogeschool en daarover de minister te adviseren;
 
 - d. een commissie van deskundigen in te stellen in het geval het:
 
@@ -906,7 +894,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 
 #### Paragraaf 9. Slotbepalingen
 
-## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -930,7 +918,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 25AV | Theologische Universiteit Kampen | 0,06699% |
 |   | Totaal | 100,00000% |
 
-## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -972,7 +960,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 31FR | NHL Stenden Hogeschool |   |   | € 1.096.568 | € 1.096.568 |
 |   | Totaal |   | € 12.811.565 | € 24.153.902 | € 36.965.467 |
 
-## Bijlage 4. behorend bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 4. behorend bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Hogeschool | Hogeschool | Percentage |
 | --- | --- | --- |
@@ -1014,7 +1002,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 31FR | NHL Stenden Hogeschool | 4,17225% |
 |   | Totaal | 100,00000% |
 
-## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Universiteit | Universiteit | Bedrag |
 | --- | --- | --- |
@@ -1038,7 +1026,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 25AV | Theologische Universiteit Kampen |   |
 |   | Totaal | € 211.343.650 |
 
-## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -1062,7 +1050,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 25AV | Theologische Universiteit Kampen | 0,01868% |
 |   | Totaal | 100,00000% |
 
-## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2020-06-13&g=2020-06-13) van de regeling
+## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2020-07-01&g=2020-07-01) van de regeling
 
 | Universiteit | Universiteit | Bedrag | Percentage |
 | --- | --- | --- | --- |
@@ -1076,7 +1064,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 21PM | Radboud Universiteit Nijmegen |   | 11,02775% |
 |   | Totaal |   | 100,00000% |
 
-## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2020-07-01&g=2020-07-01), van de regeling
 
 | universiteit | universiteit | 2000 | 2008 | 2009 | 2010 | 2011 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1122,7 +1110,7 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 21PL | Vrije Universiteit Amsterdam | € 3.977.960 | € 4.097.298 |
 | 21PM | Radboud Universiteit Nijmegen | € 8.914.476 | € 9.181.910 |
 
-## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2020-07-01&g=2020-07-01), van de regeling
 
 | Hogeschool | Hogeschool | Bedrag |
 | --- | --- | --- |
@@ -1164,75 +1152,11 @@ De bedragen van de kwaliteitsbekostiging, bedoeld in de [artikelen 4.30, eerste 
 | 31FR | NHL Stenden Hogeschool | € 285.846 |
 |   | Totaal | € 3.682.309 |
 
-## Bijlage 12. bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=14&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 12. bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=14&z=2020-07-01&g=2020-07-01), van de regeling
 
-| Naam | Formaat | Lengte | Definitie |
-| --- | --- | --- | --- |
-| Burgerservicenummer | Alfanumeriek | 9 | Het burgerservicenummer (BSN) is het nummer dat de natuurlijke persoon uniek identificeert in overheidsadministraties. Het burgerservicenummer moet 9 cijfers bevatten en voldoen aan de 11-proef. Eventuele voorloopnullen dienen altijd aangeleverd te worden. |
-| Onderwijsnummer | Alfanumeriek | 9 | Het uniek identificerende nummer dat aan een onderwijsontvanger wordt toegekend indien deze niet of niet verifieerbaar over een BSN beschikt. Het onderwijsnummer moet 9 cijfers bevatten en voldoen aan de 11 proef. Eventuele voorloopnullen dienen altijd aangeleverd te worden. |
-| BRIN | Alfanumeriek | 4 | Een unieke code voor een onderwijsinstelling. Het BRIN bestaat uit 2 cijfers gevolgd door 2 hoofdletters |
-| BrinVolgnummer | Alfanumeriek | 2 | Een volgnummer bij het BRIN-nummer dat een onderwijslocatie uniek identificeert. Het BRIN-volgnummer bestaat uit 2 cijfers. |
-| Inschrijvingvolgnummer | Alfanumeriek | 20 | Een door de instelling aan de inschrijving toegekend volgnummer voor de registratie van een inschrijving bij DUO. Het inschrijvingvolgnummer moet per BRIN uniek zijn. Het inschrijvingsvolgnummer bestaat uit cijfers, hoofdletters (A–Z), kleine letters (a–z) of een combinatie daarvan. |
-| Inschrijvingsvorm | Alfanumeriek, waardelijst | 1 | De hoedanigheid waarin de onderwijsvolger zich heeft aangemeld; Mogelijke waarden conform waardelijst Programma van Eisen |
-| Opleidingcode | Alfanumeriek | 5 | De code van de opleiding binnen het codestelsel |
-| Onderwijsvorm | Alfanumeriek, waardelijst | 2 | Uitputtende lijsten voor het hoger onderwijs voor de manier waarop de kennisoverdracht is ingericht wat betreft fysieke aanwezigheid op de onderwijslocatie en de duur daarvan; mogelijke waarden conform waardelijst Programma van Eisen |
-| Opleidingsfase | Alfanumeriek, waardelijst | 1 | Aanduiding van een deel van opleiding; mogelijke waarden conform waardelijst Programma van Eisen |
-| DatumInschrijving | Datum | 8 | De datum vanaf wanneer de betrokkene is ingeschreven |
-| DatumUitschrijving | Datum | 8 | De datum waarop de betrokkene is uitgeschreven ic de laatste datum waarop de inschrijving daadwerkelijk actief was. |
-| RedenUitschrijving | Alfanumeriek, waardelijst | 40 | Codering voor de reden van de uitschrijving; mogelijke waarden conform waardelijst Programma van Eisen |
-| EersteInschrijving | Boolean (J/N) | 1 | EersteInschrijving geeft aan of het om de opleiding van eerste inschrijving van de student gaat, te weten: 1. de opleiding waarvoor een persoon het collegegeld, bedoeld in artikel 7.43, eerste lid van de wet, is verschuldigd en waarvoor geen vermindering of vrijstelling van het betalen van collegegeld op grond van de wet is verkregen, tenzij er sprake is van een vermindering als bedoeld in artikel 7.48, derde en vierde lid, of, 2. opleiding waarvoor een persoon die het collegegeld, bedoeld in artikelen 7.43, tweede lid, of 7.44 van de wet is verschuldigd, zich als eerste heeft ingeschreven. |
-| Aantal studiepunten onderwijseenheid | Numeriek | 3.1 | Een getal, uitgedrukt in studiepunten (ECTS), dat de inspanning weergeeft die een onderwijseenheid aan de Open Universiteit vergt. |
-| Studentnummer | Alfanumeriek | 12 | Het studentnummer is het identificerende nummer waarmee de student in de administratie van de instelling bekend is. |
-| Indicatie Intensief Programma | Boolean | J/N | Geeft aan of er sprake is van deelname aan een intensief programma voor een opleiding of een programma binnen de opleiding. |
+Vervallen
 
-| Naam | Formaat | Lengte | Definitie |
-| --- | --- | --- | --- |
-| AanmeldNummer | Alfanumeriek | 18 | De unieke aanduiding van een aanmelding |
-| Geslachtsaanduiding | Alfanumeriek, waardelijst | 1 | De aanduiding van het geslacht van de natuurlijke persoon; mogelijke waarden conform waardelijst Programma van Eisen |
-| Geslachtsnaam | Alfanumeriek | 200 | De naamgegevens van de persoon met uitzondering van de voornamen. Indien de natuurlijke persoon geen vastgestelde geslachtsnaam heeft wordt de waarde - (liggend streepje) opgenomen. |
-| Geboortedatum | Datum | 8 | De datum waarop de natuurlijke persoon is geboren; indien de dag of de dag en maand niet bekend is bevat(ten) deze 00. |
-| Geboorteplaats | Alfanumeriek | 40 | De naam van de plaats |
-| Code geboorteland | Alfanumeriek | 4 | De code van het land cf de Landelijke tabel |
-| Voorvoegsel | Alfanumeriek | 10 | Het deel van de geslachtsnaam dat voorkomt in de voorvoegseltabel en door een spatie van de geslachtsnaam is gescheiden |
-| Voornamen | Alfanumeriek | 200 | De verzameling namen, die gescheiden door spaties, aan de geslachtsnaam voorafgaat. Indien de natuurlijke persoon geen vastgestelde voornamen heeft, wordt de waarde - (liggend streepje) opgenomen. Zolang LO3 nog gebruikt wordt kunnen voornamen ook leeg zijn. |
-| Of binnenlands adres of buitenlands adres | Of binnenlands adres of buitenlands adres | Of binnenlands adres of buitenlands adres | Of binnenlands adres of buitenlands adres |
-| **Binnenlands adres** | **Binnenlands adres** | **Binnenlands adres** | **Binnenlands adres** |
-| DatumBegin | Alfanumeriek (DD-MM-JJJJ) | 10 | Eerste dag waarop het adres geldig is. Indien de dag of de dag en maand niet bekend is bevat(ten) deze dan 00. |
-| Straatnaam | Alfanumeriek | 80 | De straatnaam zoals die officieel is vastgesteld door de gemeente |
-| Huisnummer | Alfanumeriek | 5 | De numerieke aanduiding zoals deze door het gemeentebestuur aan het object is toegekend |
-| Huisletter | Alfanumeriek | 1 | De alfabetische aanduiding zoals deze door het gemeentebestuur aan de locatie is toegekend ter aanvulling op het huisnummer |
-| HuisnummerToevoeging | Alfanumeriek | 5 | Die letters of tekens die noodzakelijk zijn om, naast het juiste huisnummer de brievenbus te vinden |
-| Postcode | Alfanumeriek | 6 | De door de PTT vastgestelde code behorende bij de straatnaam en het huisnummer |
-| AanduidingLocatie | Alfanumeriek | 35 | De nadere aanduiding van de locatie waar de persoon is ingeschreven of het adres indien daarbij geen officiële straatnaam hoort. |
-| Plaatsnaam | Alfanumeriek | 40 | De naam van de plaats cf de landelijke tabel (in LO4) |
-| HuisnummerAanduiding | Alfanumeriek | 2 | De aanduiding die wordt gebruikt voor adressen die niet zijn voorzien van de gebruikelijke straatnaam en huisnummering; mogelijke waarden conform waardelijst Programma van Eisen |
-| **Buitenlands adres** | **Buitenlands adres** | **Buitenlands adres** | **Buitenlands adres** |
-| DatumBegin | Alfanumeriek (DD-MM-JJJJ) | 10 | Eerste dag waarop het adres geldig is. Indien de datum waarvan de dag of de dag en maand niet bekend is dan bevat(ten) deze 00. |
-| AdresregelBuitenland1 | Alfanumeriek | 35 | De eerste regel van het buitenlands adres |
-| AdresregelBuitenland2 | Alfanumeriek | 35 | De tweede regel van het buitenlands adres |
-| AdresregelBuitenland3 | Alfanumeriek | 35 | De derde regel van het buitenlands adres |
-| LandCode | Alfanumeriek | 4 | De code van het land cf de landelijke tabel |
-| Nationaliteitscode | Alfanumeriek | 4 | Een code voor de nationaliteit van een natuurlijke persoon cf de landelijke tabel: nationaliteit |
-| DatumBegin | Alfanumeriek (DD-MM-JJJJ) | 10 | Eerste dag dat de nationaliteit geldig is. Indien van de datum de dag of de dag en maand niet bekend is dan bevat(ten) deze 00. |
-| VerblijfsdocumentCode | Alfanumeriek | 1 | Aanduiding van het type verblijfsdocument in de communicatie met HO-Instellingen en Studielink; mogelijke waarden conform waardelijst Programma van Eisen |
-| DatumBegin | Datum | 8 | De datum waarop het verblijfsdocument zijn geldigheid krijgt. |
-| DatumEinde | Datum | 8 | De datum waarop het verblijfsdocument zijn geldigheid verliest. |
-
-| Naam | Formaat | Lengte | Definitie |
-| --- | --- | --- | --- |
-| Burgerservicenummer | Alfanumeriek | 9 | Het burgerservicenummer (BSN) is het nummer dat de natuurlijke persoon uniek identificeert in overheidsadministraties. Het burgerservicenummer moet 9 cijfers bevatten en voldoen aan de 11 proef. Eventuele voorloopnullen dienen altijd aangeleverd te worden. |
-| Onderwijsnummer | Alfanumeriek | 9 | Het uniek identificerende nummer dat aan een onderwijsontvanger wordt toegekend indien deze niet of niet verifieerbaar over een BSN beschikt. Het onderwijsnummer moet 9 cijfers bevatten en voldoen aan de 11 proef. Eventuele voorloopnullen dienen altijd aangeleverd te worden. |
-| BRIN | Alfanumeriek | 4 | Een unieke code voor een onderwijsinstelling. Het BRIN bestaat uit 2 cijfers gevolgd door 2 hoofdletters |
-| BrinVolgnummer | Alfanumeriek | 2 | Een volgnummer bij het BRIN-nummer dat een onderwijslocatie uniek identificeert. Het BRIN-volgnummer bestaat uit 2 cijfers. |
-| Resultaatvolgnummer | Alfanumeriek | 20 | Een door de instelling aan het onderwijsresultaat toegekend volgnummer ten behoeve van de registratie van een onderwijsresultaat bij DUO. Het Resultaat-volgnummer moet per BRIN uniek zijn. Het resultaatvolgnummer bestaat uit cijfers, hoofdletters (A–Z), kleine letters (a–z) of een combinatie daarvan. |
-| Opleidingcode | Alfanumeriek, waardelijst | 5 | De code van de opleiding binnen het codestelsel |
-| Onderwijsvorm | Alfanumeriek, waardelijst | 2 | Uitputtende lijst voor het hoger onderwijs voor de manier waarop de kennisoverdracht is ingericht wat betreft fysieke aanwezigheid op de onderwijslocatie en de duur daarvan; mogelijke waarden conform waardelijst Programma van Eisen |
-| Opleidingsfase | Alfanumeriek, waardelijst | 1 | Aanduiding van een deel van opleiding; mogelijke waarden conform waardelijst Programma van Eisen |
-| DatumDiploma | Datum | 8 | De datum waarop het diploma behaald is. |
-| EersteGraad | Boolean (J/N) | 1 | eersteGraad geeft aan of het onderwijsresultaat voor bekostiging in aanmerking moet worden genomen. |
-| Studentnummer | Alfanumeriek | 12 | Het studentnummer is het identificerende nummer waarmee de student in de administratie van de instelling bekend is. |
-
-## Bijlage 13. bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2020-06-13&g=2020-06-13), van de regeling
+## Bijlage 13. bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), van de regeling
 
 ### A. Indeling register en bekostigingsniveaus, bedoeld in [artikel 1.1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=1.1), voor opleidingen van het hoger beroepsonderwijs
 
