@@ -4,7 +4,7 @@ identifier: "BWBR0043688"
 country: "nl"
 rank: "wet"
 publication_date: "2023-02-01"
-last_updated: "2020-06-23"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043688"
 soort: "wet"
@@ -63,19 +63,19 @@ Wijzigt de Luchtvaartwet BES.
 
 ##### Artikel 7. (overgangsbepaling wijzigingen [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472))
 
-Een uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-06-23&g=2020-06-23), [artikel 4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=4&z=2020-06-23&g=2020-06-23), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=5&z=2020-06-23&g=2020-06-23) voortvloeiende wijziging van een rentepercentage is uitsluitend van toepassing bij de renteberekening over het deel van de renteperiode vanaf het tijdstip waarop de betreffende wijziging in werking treedt of, ingeval [artikel 8, eerste lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=8&z=2020-06-23&g=2020-06-23), toepassing vindt, over het deel van de renteperiode vanaf de datum, bedoeld in artikel 8, eerste lid, onderdeel a, onderscheidenlijk onderdeel b.
+Een uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-07-01&g=2020-07-01), [artikel 4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=4&z=2020-07-01&g=2020-07-01), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=5&z=2020-07-01&g=2020-07-01) voortvloeiende wijziging van een rentepercentage is uitsluitend van toepassing bij de renteberekening over het deel van de renteperiode vanaf het tijdstip waarop de betreffende wijziging in werking treedt of, ingeval [artikel 8, eerste lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=8&z=2020-07-01&g=2020-07-01), toepassing vindt, over het deel van de renteperiode vanaf de datum, bedoeld in artikel 8, eerste lid, onderdeel a, onderscheidenlijk onderdeel b.
 
 ##### Artikel 8. (inwerkingtreding en vervallen)
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat:
 
-- a. de [artikelen 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-06-23&g=2020-06-23), [4, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=4&z=2020-06-23&g=2020-06-23), en [5, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=5&z=2020-06-23&g=2020-06-23), terugwerken tot en met 1 juni 2020;
+- a. de [artikelen 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-07-01&g=2020-07-01), [4, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=4&z=2020-07-01&g=2020-07-01), en [5, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=5&z=2020-07-01&g=2020-07-01), terugwerken tot en met 1 juni 2020;
 
-- b. [artikel 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-06-23&g=2020-06-23), terugwerkt tot en met 1 juli 2020.
+- b. [artikel 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=3&z=2020-07-01&g=2020-07-01), terugwerkt tot en met 1 juli 2020.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=1&z=2020-06-23&g=2020-06-23) werkt terug tot en met 16 maart 2020.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=1&z=2020-07-01&g=2020-07-01) werkt terug tot en met 16 maart 2020.
 
-3. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=1&z=2020-06-23&g=2020-06-23) vervalt op 1 september 2020. Het tijdstip waarop artikel 1 vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop de wet zou vervallen.
+3. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043688&artikel=1&z=2020-07-01&g=2020-07-01) vervalt op 1 september 2020. Het tijdstip waarop artikel 1 vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop de wet zou vervallen.
 
 4. De voordracht voor een krachtens het derde lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
