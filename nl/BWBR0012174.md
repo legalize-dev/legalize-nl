@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2014-12-13"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -86,11 +86,33 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. Kruidenpreparaten bevatten geen:
 
-- a. aristolochiazuren of derivaten hiervan; en
+- a. aconitine of derivaten hiervan;
 
-- b. yohimbe-alkaloïden of derivaten hiervan.
+- b. aristolochiazuren of derivaten hiervan;
 
-3. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten bedoeld in onderdeel II van de bijlage.
+- c. atropine of derivaten hiervan;
+
+- d. colchicine of derivaten hiervan;
+
+- e. hyoscyamine of derivaten hiervan;
+
+- f. m- en o-synefrine of derivaten hiervan;
+
+- g. olie uit Artemisia absinthium (absintalsem), onverminderd de bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2020-07-01&g=2020-07-01), en bijlage III, deel B, van [verordening (EG) 1334/2008](32008R1334) gestelde voorschriften inzake de toegelaten aanwezigheid van thujon in bepaalde samengestelde levensmiddelen;
+
+- h. pilocarpine of derivaten hiervan;
+
+- i. scopolamine of derivaten hiervan;
+
+- j. strychnine of derivaten hiervan; en
+
+- k. yohimbe-alkaloïden of derivaten hiervan.
+
+3. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten en schimmels bedoeld in onderdeel II van de bijlage.
+
+4. Kruidenpreparaten bevatten per dagelijks volgens de gebruiksaanwijzing te nuttigen hoeveelheid ten hoogste 27 mg p-synefrine.
+
+5. In afwijking van het derde lid mogen kruidenpreparaten olie bevatten die gewonnen is uit de zaden van Ricinus communis, voor zover het voorgeschreven gebruiks- en doseringsadvies, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2020-07-01&g=2020-07-01), niet leidt tot een hogere inname van deze olie dan 0,4 g per dag.
 
 ##### Artikel 5
 
@@ -106,15 +128,11 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. Bij kruidenpreparaten, niet zijnde eet- of drinkwaren, wordt een vermelding gebezigd inzake een lijst van ingrediënten, een gebruiks- en doseringsadvies en een vermelding van de naam of de handelsnaam en het adres of de vestigingsplaats van de fabrikant of persoon die verantwoordelijk is voor het in de handel brengen van de waar.
 
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over het in het eerste en tweede lid bedoelde gebruiks- en doseringsadvies.
+
 ##### Artikel 7
 
-1. Dit besluit treedt in werking met ingang van 1 februari 2001, met dien verstande dat artikel 4, eerste en derde lid, in werking treedt op 1 augustus 2001 voor die kruidenpreparaten, niet zijnde eet- of drinkwaren, die uitsluitend bestemd zijn om in aanraking te worden gebracht met de verschillende delen van het menselijk lichaamsoppervlak, en waarin geen andere planten aanwezig zijn dan die welke met cijfer 1 in de laatste kolom van de bijlage zijn aangegeven.
-
-2. In afwijking van het eerste lid treedt:
-
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2014-12-13&g=2014-12-13) in werking met ingang van 1 januari 2002;
-
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2014-12-13&g=2014-12-13), in werking met ingang van 1 januari 2003.
+Vervallen
 
 ##### Artikel 8
 
@@ -122,7 +140,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2014-12-13&g=2014-12-13).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2020-07-01&g=2020-07-01).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
