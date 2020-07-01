@@ -172,9 +172,3 @@ Het [Besluit inschrijving Rbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033581)
 Dit besluit wordt aangehaald als Besluit inschrijving Rbtv.
 
 Dit besluit treedt in werking op 1 juli 2020.
-
-##### Artikel 7a
-
-De inschrijfvoorwaarden voor tolken en vertalers worden elke vijf jaar geëvalueerd.
-
-Dit besluit treedt in werking op 1 juli 2020.
