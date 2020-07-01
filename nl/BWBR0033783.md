@@ -4,7 +4,7 @@ identifier: "BWBR0033783"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033783"
 soort: "pbo"
@@ -42,11 +42,9 @@ Stelt de volgende verordening vast:
 
 2. De vergoeding, bedoeld in het eerste lid bedraagt op jaarbasis voor:
 
-- –. de voorzitter van het bestuur € 72.100,–;
+- a. de voorzitter € 73.110,–; en
 
-- –. de plaatsvervangend voorzitter van het bestuur € 36.050,–; bij vervanging van de voorzitter voor een langere termijn dan één maand ontvangt de plaatsvervangend voorzitter voor de volledige vervangingsperiode naar rato de vergoeding toekomende aan de voorzitter in plaats van de vergoeding voor de plaatsvervangend voorzitter;
-
-- –. de overige leden van het bestuur € 8.650,–.
+- b. de overige leden van het bestuur € 18.278,– waarbij geldt dat in het geval de plaatsvervangend voorzitter de voorzitter voor meer dan één maand vervangt, de plaatsvervangend voorzitter voor de volledige vervangingsperiode naar rato de vergoeding ontvangt die toekomt aan de voorzitter in plaats van de vergoeding voor de plaatsvervangend voorzitter.
 
 3. Een lid van het bestuur heeft niet langer recht op een vaste vergoeding indien en voor zover het lid langer dan drie maanden niet betrokken is geweest bij de uitoefening van de taak van het bestuur, tenzij van het lid in de bedoelde periode geen betrokkenheid is verlangd.
 
@@ -80,7 +78,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ##### Artikel 5
 
-1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2020-01-01&g=2020-01-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2020-01-01&g=2020-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2020-01-01&g=2020-01-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
+1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2020-07-01&g=2020-07-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2020-07-01&g=2020-07-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2020-07-01&g=2020-07-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
 
 2. Het bestuur kan verlangen dat aan hem bewijsstukken worden overgelegd waaruit de juistheid van de ingediende declaratie blijkt.
 
@@ -98,26 +96,26 @@ De [Verordening op de kostenvergoedingen](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2a
 
-Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2020-01-01&g=2020-01-01) van toepassing is.
+Een lid van het bestuur heeft recht op een vergoeding van reistijdkosten voor het bijwonen van vergaderingen van het bestuur en andere bijeenkomsten waaraan hij op verzoek van het bestuur deelneemt, tenzij op dat lid één van de uitzonderingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2020-07-01&g=2020-07-01) van toepassing is.
 
 ##### Artikel 2b
 
-1. Het presentiegeld bedraagt € 285,– per dagdeel en ten hoogste € 570,– per dag.
+1. Het presentiegeld bedraagt € 289,– per dagdeel en ten hoogste € 578,– per dag.
 
 2. Een dagdeel omvat een tijdsperiode van vier uur.
 
-3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2020-01-01&g=2020-01-01) bedraagt € 0,77 per afgelegde kilometer boven een totale reisafstand van honderd kilometer met een maximum van vijfhonderd kilometer per reis.
+3. De vergoeding, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2a&z=2020-07-01&g=2020-07-01) bedraagt € 0,79 per afgelegde kilometer boven een totale reisafstand van honderd kilometer met een maximum van vijfhonderd kilometer per reis.
 
 4. Parkeer-, tol- en veergelden en vergoedingen voor reiskosten worden geacht te zijn begrepen in de vergoedingen bedoeld in het eerste en derde lid.
 
-5. In afwijking van het eerste lid bedraagt het presentiegeld voor deelname aan een telefonische vergadering of een vergadering via elektronische weg € 90,– per vergadering.
+5. In afwijking van het eerste lid bedraagt het presentiegeld voor deelname aan een telefonische vergadering of een vergadering via elektronische weg € 92,– per vergadering.
 
 ##### Artikel 5a
 
-1. De bedragen, genoemd in deze verordening, worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
+1. De bedragen, genoemd in deze verordening, worden met ingang van 1 januari 2021 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
 
 2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het Centraal Planbureau, bedoeld in [artikel 2, eerste lid van de Wet voorbereiding van de vaststelling van een Centraal Economisch Plan](https://wetten.overheid.nl/jci1.3:c:BWBR0002029&artikel=2), laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
 
-3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig met uitzondering van het tarief, genoemd in [artikel 2b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2020-01-01&g=2020-01-01), welk tarief naar boven wordt afgerond op gehele eurocenten nauwkeurig.
+3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig met uitzondering van het tarief, genoemd in [artikel 2b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2b&z=2020-07-01&g=2020-07-01), welk tarief naar boven wordt afgerond op gehele eurocenten nauwkeurig.
 
 4. Het bestuur maakt ieder jaar zo spoedig mogelijk na 1 april de bedragen bekend die voortvloeien uit de toepassing van het eerste tot en met het derde lid en vermeldt daarbij tevens de publicatie, bedoeld in het tweede lid, die aan de toepassing van deze leden ten grondslag is gelegd.
