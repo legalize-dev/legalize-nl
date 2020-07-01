@@ -4,7 +4,7 @@ identifier: "BWBR0015481"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015481"
 soort: "AMvB"
@@ -92,35 +92,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken € 43,89 per uur.
-
-2. In afwijking van het eerste lid behouden tolken die vóór 1 oktober 2000 reeds een hogere uurvergoeding voor hun werkzaamheden ontvingen, het recht op een hogere vergoeding.
-
-Deze vergoeding bedraagt:
-
-- a. voor tolken in Europese talen € 46,29 per uur;
-
-- b. voor tolken in veelbeheerste niet-Europese talen € 48,60 per uur;
-
-- c. voor tolken in overige niet-Europese talen € 54,- per uur.
-
-3. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken gebarentaal € 46,29 per uur.
-
-4. De tolken genoemd in het eerste tot en met derde lid, die werkzaamheden verrichten bij de gerechten, ontvangen een voorrijtarief van € 20,23. Een tolk kan per gerecht maximaal tweemaal per dag aanspraak maken op het voorrijtarief. Om voor de tweede maal voor dit tarief in aanmerking te komen dienen er twee uren tussen het einde van de eerste en de aanvang van de volgende dienst te zijn gelegen.
+Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken, waaronder tolken gebarentaal, ten minste € 43,89 per uur.
 
 ##### Artikel 5
 
-Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor vertalers voor vertalingen uit of in:
-
-- a. het Duits, Engels of Frans, € 0,79 per regel;
-
-- b. andere veelbeheerste Europese talen € 1,20 per regel;
-
-- c. overige Europese talen € 1,51 per regel;
-
-- d. veel beheerste niet-Europese talen € 1,51 per regel;
-
-- e. overige niet-Europese talen € 1,69 per regel.
+Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor vertalers ten minste € 0,079 per woord.
 
 ##### Artikel 6
 
@@ -132,7 +108,7 @@ Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de we
 
 ##### Artikel 7
 
-De tarieven, genoemd in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
+De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
 
 - a. zaterdag;
 
@@ -150,25 +126,21 @@ De tarieven, genoemd in de [artikelen 2 tot en met 6](https://wetten.overheid.nl
 
 - b. psychologen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 99,50 per uur;
 
-- c. vertalers € 40,45 per uur;
+- c. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 129,63 per uur;
 
-- d. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 129,63 per uur;
+- d. getuigen, met uitzondering van minderjarigen die geen inkomsten derven, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, € 6,81 per uur.
 
-- e. getuigen, met uitzondering van minderjarigen die geen inkomsten derven, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, € 6,81 per uur.
+2. De in het eerste lid bedoelde vergoeding komt voor de tijd, besteed aan de reis, niet toe aan geneeskundigen, psychologen en andere personen aan wie werkzaamheden zijn opgedragen van wetenschappelijke of bijzondere aard.
 
-2. De in het eerste lid bedoelde vergoeding komt voor de tijd, besteed aan de reis, niet toe aan:
+3. De in het eerste lid bedoelde vergoeding komt niet toe aan tolken en vertalers.
 
-- a. geneeskundigen, psychologen en andere personen aan wie werkzaamheden zijn opgedragen van wetenschappelijke of bijzondere aard;
-
-- b. tolken en vertalers.
-
-3. Indien vergoeding wordt toegekend voor een plaatsvervanger, wordt de voor tijdverzuim toe te kennen vergoeding daarop in mindering gebracht.
+4. Indien vergoeding wordt toegekend voor een plaatsvervanger, wordt de voor tijdverzuim toe te kennen vergoeding daarop in mindering gebracht.
 
 ##### Artikel 9
 
-1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
+1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=7&z=2020-07-01&g=2020-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-07-01&g=2020-07-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
 
-2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
+2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-07-01&g=2020-07-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
 
 ##### Artikel 10
 
@@ -184,15 +156,15 @@ De tarieven, genoemd in de [artikelen 2 tot en met 6](https://wetten.overheid.nl
 
 1. Het tarief voor vergoedingen wegens reis- en verblijfkosten als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. personen als bedoeld in [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01), € 3,02 per retourkilometer;
+- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-07-01&g=2020-07-01), € 3,02 per retourkilometer;
 
-- b. personen als bedoeld in [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01), € 1,54 per retourkilometer;
+- b. personen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2020-07-01&g=2020-07-01), ten minste € 0,77 per kilometer;
 
 - c. personen aan wie op grond van [artikel 3, derde lid, sub c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), geen vergoeding wegens tijdverzuim toekomt, het tarief, dat is overeengekomen voor de vergoeding van reis- en verblijfskosten in het binnenland in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn;
 
 - d. personen aan wie werkzaamheden zijn opgedragen die niet van wetenschappelijke of bijzondere aard zijn, aan getuigen, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, een tarief waarvan de hoogte gelijk is aan de reiskosten per openbaar middel van vervoer, laagste klasse dan wel een kilometervergoeding van € 0,28 per kilometer indien openbaar vervoer niet of niet voldoende mogelijk is, alsmede verblijfkosten tot ten hoogste € 37,85 per dag, met inbegrip van overnachting; het tarief voor de vergoeding van het gebruik van een eigen auto bedraagt ten hoogste € 0,28 per kilometer.
 
-2. Het aantal retourkilometers, bedoeld in het eerste lid, onder a en b, wordt berekend naar de kortste reisroute.
+2. Het aantal kilometers, bedoeld in het eerste lid, onder a en b, wordt berekend naar de kortste reisroute.
 
 3. Voor het gebruik van een bijzonder middel van vervoer in de gevallen, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=7), wordt een vergoeding verstrekt, berekend naar de werkelijke kosten.
 
@@ -228,7 +200,7 @@ Voor het uitbrengen van exploiten ingevolge bijzondere wetten is aan de deurwaar
 
 ##### Artikel 14
 
-1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2020-01-01&g=2020-01-01).
+1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2020-07-01&g=2020-07-01).
 
 2. Bij deze niet voorziene kosten komen de reis- en verblijfkosten van deze personen en de kosten wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten eveneens voor vergoeding in aanmerking.
 
@@ -270,17 +242,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-1. Bij ministeriële regeling kan bij wege van experiment, in het belang van het streven naar marktwerking op het gebied van de werkzaamheden van tolken en vertalers, voor een periode van maximaal drie jaren in dier voege worden afgeweken van de [artikelen 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01) dat de daarin genoemde tarieven als maximumtarieven gelden.
-
-2. Indien toepassing wordt gegeven aan het eerste lid, wordt in ieder geval bepaald:
-
-- a. in welke arrondissementen de experimenten plaatsvinden;
-
-- b. gedurende welke periode de experimenten plaatsvinden en vanaf welk moment deze periode aanvangt;
-
-- c. welke regels daarbij in acht worden genomen; en
-
-- d. de wijze waarop tot de vaststelling wordt gekomen of de experimenten zodanig geslaagd zijn, dat de voorschriften waarvan bij wege van deze experimenten is afgeweken, zouden moeten worden gewijzigd.
+Vervallen
 
 #### § 3. Vergoedingen voor reis- en verblijfkosten
 
