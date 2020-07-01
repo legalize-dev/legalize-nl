@@ -4,7 +4,7 @@ identifier: "BWBR0038374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2020-04-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038374"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2020-04-01&g=2020-04-01).
+De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 23a1, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-04-01&g=2020-04-01).
+Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-04-01&g=2020-04-01).
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 4. Intrekking
 
@@ -94,7 +94,7 @@ De landelijke normen en de correctiefactoren worden vanaf de beoordeling van de 
 
 ### Gebruikte gegevens
 
-De gegevens die worden gebruikt voor de berekening van de onderwijsresultaten zijn door de scholen voor voortgezet onderwijs aan DUO geleverd. DUO verwerkt de gegevens in het BasisRegister Onderwijs (BROn). De inspectie ontvangt, op vooraf afgesproken momenten, de geanonimiseerde gegevens van de individuele leerlingen uit BROn. DUO bewerkt deze gegevens tot zogenaamde 1 cijferbestanden.
+De gegevens die worden gebruikt voor de berekening van de onderwijsresultaten zijn door de scholen voor voortgezet onderwijs aan DUO geleverd. DUO verwerkt de gegevens in het register onderwijsdeelnemers. De inspectie ontvangt, op vooraf afgesproken momenten, de geanonimiseerde gegevens van de individuele leerlingen uit het register onderwijsdeelnemers. DUO bewerkt deze gegevens tot zogenaamde 1 cijferbestanden.
 
 ### 1. Onderwijspositie t.o.v. advies basisschool
 
