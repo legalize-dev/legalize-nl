@@ -205,23 +205,3 @@ Gemeenten met een woondeal krijgen 2 extra punten. De maximale score voor urgent
 De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), en [4, vierde lid, van het Besluit Woningimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
-
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2026-01-01&g=2026-01-01)
-
-Aan de hand van het tweede subcriterium wordt bepaald in hoeverre het project bijdraagt aan de betaalbaarheidsprogrammering in de regionale woningbouwopgave (indicator 1) en de nationale woningbouwopgave (indicator 2).
-
-### 2. Effectiviteit project
-
-Aan de hand van eerste subcriterium wordt bepaald in hoeverre het realistisch is dat het project start met de bouw binnen de gestelde termijnen van drie jaar (eerste woning) en 10 jaar (laatste woning). Daarbij wordt gekeken naar de hardheid van de plannen, zoals de huidige status van het proces, de nog te doorlopen planologische procedures en de mate van zekerheid dat het project bij een positief besluit doorgaat, tijdig van start gaat en voortvarend wordt gerealiseerd. Ook de mate waarin relevante stakeholders de inschrijving steunen wordt meegewogen in de beoordeling. Daarnaast wordt gekeken of de inzet van instrumenten als parallel plannen of een (regionale) versnellingstafel kunnen bijdragen aan de haalbaarheid van het project.
-
-### 3. Efficiëntie project
