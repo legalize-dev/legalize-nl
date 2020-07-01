@@ -4,7 +4,7 @@ identifier: "BWBR0047168"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-01-01"
-last_updated: "2020-04-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047168"
 soort: "beleidsregel"
@@ -600,6 +600,30 @@ Vervallen.
 
 ### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
 
+De Belastingdienst vindt het belangrijk dat belastingplichtigen die de aangifte met hulp willen indienen, deze hulp ook krijgen. Daarom is op initiatief van de Belastingdienst aan de betreffende belastingplichtigen toestemming verleend om de aangifte 2019 en 2020 later in te dienen en heeft de Belastingdienst de inlevertermijn voor deze aangiften eenzijdig verlengd. De betreffende belastingplichtigen zijn hierover schriftelijk geïnformeerd.
+
+Ik keur goed dat:
+
+Uit de wet volgt dat als een belastingaanslag met een te betalen bedrag wordt vastgesteld daarbij in beginsel belastingrente in rekening wordt gebracht (zie [artikel 30f e.v. AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f)). Belastingrente blijft achterwege als de aangifte vóór 1 mei is ingediend en de (voorlopige) aanslag wordt opgelegd overeenkomstig de ingediende aangifte. Als de aangifte later wordt ingediend, wordt belastingrente in rekening gebracht, ook als de inlevertermijn op verzoek is verlengd.
+
+### 13.2. Voorkomen van dubbele meldingen vanwege het feit dat niet alle lidstaten gebruikmaken van de mogelijkheid de termijnen voor het melden van constructies te verschuiven
+
+Ik keur onder de volgende voorwaarden goed dat de belastingrente die in rekening is gebracht aan de hiervoor bedoelde belastingplichtigen bij de (voorlopige) aanslag inkomstenbelasting/premie volksverzekeringen 2019 of 2020 ambtshalve wordt verminderd tot nihil.
+
+Voor deze goedkeuring gelden de volgende drie voorwaarden:
+
+De goedkeuring geldt ook als de belastingrente vóór de inwerkingtreding van dit besluit in rekening is gebracht. De goedkeuring is van overeenkomstige toepassing als de belastingrente in rekening is gebracht bij een (voorlopige) aanslag inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+
+De Belastingdienst heeft te maken met massale processen. Het is complex en kostbaar om af te wijken van de reguliere geautomatiseerde werkwijze. Uit oogpunt van uitvoerbaarheid is er daarom voor gekozen om de betreffende (voorlopige) aanslagen regulier op te leggen en de daarbij bij beschikking in rekening gebrachte belastingrente op een later moment in een aantal herstelacties ambtshalve te verminderen tot nihil, waarbij eventueel betaalde belastingrente wordt terugbetaald. De Belastingdienst zal de belastingplichtige hierover schriftelijk informeren.
+
+### 12. Uitstel publicatieplicht financiële gegevens ANBI’s
+
+Vervallen.
+
+### 13. [Wet implementatie EU-richtlijn grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 12 maart 2020 met dien verstande dat
+
 Met de [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034) is [Richtlijn (EU) 2018/822](32018L0822)6[Richtlijn (EU) 2018/822](32018L0822) van de Raad van 25 mei 2018 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU wat betreftverplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtigegrensoverschrijdende constructies (PbEU 2018, L 139). in de Nederlandse wetgeving geïmplementeerd. Op basis hiervan geldt vanaf 1 juli 2020 een meldingsplicht voor zulke constructies. Vanwege de belemmeringen die door de COVID-19-pandemie worden veroorzaakt en de genomen maatregelen om het virus te helpen indammen is op Europees niveau geoordeeld dat tijdige naleving van deze verplichting niet goed mogelijk is. Daarom wordt in [Richtlijn (EU) 2020/876](32020L0876)7[Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 tot wijziging van [Richtlijn 2011/16](32011L0016)/EU om te voorzien in de dringende behoefte aan uitstel van bepaalde termijnen voor de verstrekking en uitwisseling van inlichtingen op belastinggebied vanwege de COVID-19-pandemie (PbEU 2020, L 204). van de Raad van 24 juni 2020 lidstaten de mogelijkheid geboden over te gaan tot uitstel voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies. Met het oog hierop en om een meer uniforme uitvoering tussen de lidstaten te waarborgen, keur ik het volgende goed.
 
 Ik keur goed dat:
@@ -609,6 +633,69 @@ Vanwege bovenstaande goedkeuring zal het vanaf 1 januari 2021 mogelijk zijn om m
 ### 13.2. Voorkomen van dubbele meldingen vanwege het feit dat niet alle lidstaten gebruikmaken van de mogelijkheid de termijnen voor het melden van constructies te verschuiven
 
 Sommige lidstaten hebben geen gebruik gemaakt van de mogelijkheid die in [Richtlijn (EU) 2020/876](32020L0876) van de Raad van 24 juni 2020 wordt geboden om de termijnen voor het verstrekken en uitwisselen van inlichtingen over meldingsplichtige grensoverschrijdende constructies te verschuiven. Door de verschillende deadlines die lidstaten hanteren kunnen situaties ontstaan die niet eerder voorzien waren door de richtlijn en de wetgever.
+
+## Bijlage. Gepubliceerde lijst van de Wereld Douaneorganisatie; indelingen van medische voorzieningen in verband met uitbraak COVID-19
+
+| Categorie | Product namen | Korte informatie | GS indeling |
+| --- | --- | --- | --- |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Test kits | Diagnostische reagentia op basis van polymerasekettingreactie (PCR) nucleïnezuurtest. | 3822.00 |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Test kits | Diagnostische reagentia op basis van immunologische reacties | 3002.15 |
+| **I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests** | COVID-19 Diagnostische Test instrumenten en apparaten | Instrumenten gebruikt in klinische laboratoria voor in vitro diagnose | 9027.80 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Gezichts- en oogbescherming** | **Gezichts- en oogbescherming** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Textielmaskers, zonder vervangbare filters of mechanische delen, inclusief chirurgische maskers en wegwerpmaskers van niet-geweven textiel | □ Textielmaskers, zonder vervangbare filters of mechanische delen, inclusief chirurgische maskers en wegwerpmaskers van niet-geweven textiel | 6307.90 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Gasmaskers met mechanische delen of vervangbare filters ter bescherming tegen biologische agentia. Omvat eveneens dergelijke maskers met oogbescherming of gelaatsschermen. | □ Gasmaskers met mechanische delen of vervangbare filters ter bescherming tegen biologische agentia. Omvat eveneens dergelijke maskers met oogbescherming of gelaatsschermen. | 9020.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Beschermende brillen | □ Beschermende brillen | 9004.90 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Gelaatsschermen van kunststof (bedekken meer dan de ogen) | □ Gelaatsschermen van kunststof (bedekken meer dan de ogen) | 3926.20 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Handschoenen** | **Handschoenen** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen van kunststof | □ Handschoenen van kunststof | 3926.20 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Chirurgische handschoenen van rubber | □ Chirurgische handschoenen van rubber | 4015.11 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Andere handschoenen van rubber | □ Andere handschoenen van rubber | 4015.19 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen van brei- of haakwerk die geïmpregneerd zijn of bedekt zijn met kunststof of rubber | □ Handschoenen van brei- of haakwerk die geïmpregneerd zijn of bedekt zijn met kunststof of rubber | 6116.10 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Handschoenen, andere dan van brei- of haakwerk | □ Handschoenen, andere dan van brei- of haakwerk | 6216.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | **Andere** | **Andere** |   |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | □ Wegwerp haarnetjes | □ Wegwerp haarnetjes | 6505.00 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Beschermende kleding voor chirurgisch / medisch gebruik van vilt of gebonden textielvlies, ook indien geïmpregneerd, bekleed, bedekt of gelamineerd (textiel bedoeld bij post 56.02 of 56.03). Hieronder vallen ook gesponnen kledingstukken. | Beschermende kleding voor chirurgisch / medisch gebruik van vilt of gebonden textielvlies, ook indien geïmpregneerd, bekleed, bedekt of gelamineerd (textiel bedoeld bij post 56.02 of 56.03). Hieronder vallen ook gesponnen kledingstukken. | 6210.10 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Andere beschermende kleding van textiel, geïmpregneerd, bekleed, bedekt of gelamineerd met rubber (textiel van de posten 59.03, 59.06 of 59.07). De daadwerkelijke indeling hangt af van het type kledingstuk en of het kleding voor mannen of vrouwen betreft. Voorbeeld: een unisex geweven pak, geïmpregneerd met kunststof, wordt ingedeeld onder 6210.50 – andere kleding, voor dames of voor meisjes. | Andere beschermende kleding van textiel, geïmpregneerd, bekleed, bedekt of gelamineerd met rubber (textiel van de posten 59.03, 59.06 of 59.07). De daadwerkelijke indeling hangt af van het type kledingstuk en of het kleding voor mannen of vrouwen betreft. Voorbeeld: een unisex geweven pak, geïmpregneerd met kunststof, wordt ingedeeld onder 6210.50 – andere kleding, voor dames of voor meisjes. | 6210.20 6210.30 6210.40 6210.50 |
+| **II. Beschermende kledingstukken en soortgelijke artikelen** | Beschermende kledingstukken gemaakt van kunststof in vellen | Beschermende kledingstukken gemaakt van kunststof in vellen | 3926.20 |
+| **III. Thermometers** | Gevuld met vloeistof, met rechtstreekse aflezing | Omvat eveneens standaard ‘Mercury-in-glass’ klinische thermometer | 9025.11 |
+| **III. Thermometers** | Andere thermometers | Bijvoorbeeld digitale thermometers of infraroodthermometers voor op het voorhoofd. | 9025.19 |
+| **IV. Desinfecteermiddelen / Sterilisatieproducten** | Alcohol oplossing | Niet gedenatureerd, met een alcoholvolumegehalte van 80% vol of meer | 2207.10 |
+| **IV. Desinfecteermiddelen / Sterilisatieproducten** | Alcohol oplossing | Niet gedenatureerd, met een alcoholvolumegehalte van 75% vol | 2208.90 |
+|   | Desinfecterend middel voor de handen | Vloeibaar of in de vorm van een gel die over het algemeen wordt gebruikt om infectieuze stoffen op de handen, op alcoholbasis, te verminderen. | 3808.94 |
+|   | Andere desinfecterende bereidingen | Opgemaakt in vormen of verpakkingen voor de verkoop in het klein, zoals doekjes geïmpregneerd met alcohol of andere ontsmettingsmiddelen. | 3808.94 |
+|   | Medische, chirurgische of laboratoriumsterilisatoren | Werkend met stoom of kokend water | 8419.20 |
+|   | Waterstofperoxide **in bulk** | H2O2, ook indien gestold met ureum. | 2847.00 |
+|   | Waterstofperoxide gepresenteerd als medicijn | H2O2 opgemaakt voor intern of extern gebruik als geneesmiddel, ook als antisepticum voor de huid. Alleen hier bedoeld indien in afgemeten doses of in vormen of verpakkingen voor de detailhandel | 3004.90 |
+|   | Waterstofperoxide verwerkt in desinfecterende bereidingen voor oppervlakken reinigen | H2O2 opgemaakt als reinigingsoplossing voor oppervlakken of apparaten. | 3808.94 |
+|   | Andere chemische desinfecteermiddelen | Opgemaakt in verpakkingen voor kleinhandel in ontsmettingsmiddelen of als ontsmettingsmiddelen, die alcohol, benzalkoniumchlorideoplossing of peroxyzuren of andere ontsmettingsmiddelen bevatten. | 3808.94 |
+| **V. Andere medische apparaten** | Tomografen die werken met behulp van een machine voor het automatisch verwerken van gegevens (CT) -scanners | Gebruikt een roterende röntgenmachine om dunne plakjes van het lichaam af te beelden om ziekten zoals longontsteking te diagnosticeren. | 9022.12 |
+| **V. Andere medische apparaten** | Extracorporale membraanoxygenatie (ECMO) | Biedt langdurige cardiale en ademhalings-ondersteuning door bloed uit het lichaam van de persoon te verwijderen en de kooldioxide en zuurstofrijke rode bloedcellen kunstmatig te verwijderen. | 9018.90 |
+| **V. Andere medische apparaten** | Medische beademingsapparaten (beademingsapparatuur) | Zorgt voor mechanische ventilatie door ademlucht in en uit de longen te verplaatsen | 9019.20 |
+| **V. Andere medische apparaten** | Andere apparaten voor zuurstoftherapie, waaronder zuurstoftenten | Naast volledige zuurstoftherapieapparatuur omvat deze onderverdeling ook herkenbare delen van dergelijke systemen. | 9019.20 |
+| **V. Andere medische apparaten** | Patiëntbewakingsapparatuur – elektro-diagnostische apparatuur | Elektrische of elektronische apparatuur voor het waarnemen van een ziekte, aandoening of een of meer medische parameters in de tijd. Dit omvat apparaten zoals pulsoximeters of | 9018.19 |
+|   |   | controlestations aan het bed die worden gebruikt voor het continu bewaken van verschillende vitale functies. (Opmerking: dit omvat geen apparaten die specifieker elders worden omvat, bijv. elektrocardiografen (9018.11) of elektronische thermometers (9025.19).) |   |
+| **VI. Medische verbruiksartikelen** | Watten, gaas, verband en dergelijke artikelen (bijvoorbeeld zwachtels, pleisters, mosterdpleisters) | Geïmpregneerd of bedekt met farmaceutische stoffen of opgemaakt in vormen of verpakkingen voor de verkoop in het klein voor medisch gebruik | 3005.90 |
+| **VI. Medische verbruiksartikelen** | Spuiten, met of zonder naalden | Spuiten, met of zonder naalden | 9018.31 |
+| **VI. Medische verbruiksartikelen** | Buisvormige metalen naalden en hechtnaalden | Buisvormige metalen naalden en hechtnaalden | 9018.32 |
+| **VI. Medische verbruiksartikelen** | Naalden, katheters, canules en dergelijke | Naalden, katheters, canules en dergelijke | 9018.39 |
+| **VI. Medische verbruiksartikelen** | Intubatiekits | Intubatiekits | 9018.90 |
+| **VI. Medische verbruiksartikelen** | Papieren lakens | Papieren lakens | 4818.90 |
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+Dit onderdeel bevat een tegemoetkoming voor belastingplichtigen die met belastingrente worden geconfronteerd door de opgetreden vertraging bij de zogenoemde ‘hulp bij aangifte’ (HUBA). Vanwege de coronamaatregelen was de hulp bij de aangifte inkomstenbelasting/premie volksverzekeringen (hierna: de aangifte) 2019 en 2020 gedurende langere tijd niet of beperkt beschikbaar. Daarom is voor belastingplichtigen die gebruikmaken van deze hulp de inlevertermijn voor de aangifte 2019 en 2020 eenzijdig door de Belastingdienst verlengd. Belastingplichtigen die de aangifte binnen de verlengde inlevertermijn (met hulp) indienen, kunnen met belastingrente worden geconfronteerd. In dit onderdeel keur ik onder voorwaarden goed dat voor deze belastingplichtigen de belastingrente verminderd wordt.
+
+### ‘Hulp bij aangifte’
+
+Hulp bij het doen van de aangifte wordt aangeboden door de Belastingdienst, maar ook, met ondersteuning van de Belastingdienst, door verschillende maatschappelijke organisaties, zoals vak- en ouderenbonden, wijkcentra, belastingwinkels, sociaal werkers en formulieren-brigades. Deze organisaties houden door heel Nederland spreekuren in bijvoorbeeld bibliotheken.
+
+Door de uitzonderlijke omstandigheden van de coronacrisis is het bieden van hulp bij de aangifte 2019 en 2020 gedurende langere tijd niet of beperkt mogelijk geweest. Zo waren de kantoren van de Belastingdienst en de bibliotheken vanwege de zogenoemde lockdown enige tijd gesloten. Veel belastingplichtigen konden hierdoor pas (veel) later hulp krijgen en waren daardoor niet in staat om de aangifte vóór 1 mei met hulp in te dienen.
+
+### Belastingrente
+
+Belastingplichtigen die gebruikmaken van hulp bij aangifte en voor wie de inlevertermijn voor de aangifte 2019 of 2020 op initiatief van de Belastingdienst (dus niet op verzoek) is verlengd, kunnen met belastingrente worden geconfronteerd. Dit acht ik ongewenst. Daarom keur ik het volgende goed met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule).
+
+### 13.1. Uitstel termijnen [Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0043034)
 
 Het kan voor komen dat een lidstaat zonder uitstel verwacht dat een relevante belastingplichtige, gevestigd in die lidstaat, een melding doet binnen de aldaar geldende termijnen wanneer het een grensoverschrijdende constructie betreft waarbij (alleen) een intermediair is betrokken uit een lidstaat waar wél uitstel van de termijnen bestaat, bijvoorbeeld Nederland.
 
