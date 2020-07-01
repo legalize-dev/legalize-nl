@@ -4,7 +4,7 @@ identifier: "BWBR0031619"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2012-08-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031619"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Het onderwijskundig rapport, bedoeld in [artikel 42 van de Wet op het primair on
 
 ##### Artikel 3. Administratieve gegevens
 
-Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), worden uitsluitend verstaan:
+Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), worden uitsluitend verstaan:
 
 - a. naam, voornamen, voorletters, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens van de leerling;
 
@@ -86,7 +86,7 @@ Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://w
 
 ##### Artikel 4. Gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring
 
-1. Onder gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), worden uitsluitend verstaan, gegevens over:
+1. Onder gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), worden uitsluitend verstaan, gegevens over:
 
 - a. de feitelijke onderwijsloopbaan van de leerling waaronder de overstap tussen scholen, de bevorderingen, de verrichte stages en de reeds opgedane werkervaring;
 
@@ -100,7 +100,7 @@ Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://w
 
 ##### Artikel 5. Gegevens over de sociaal-emotionele ontwikkeling en het gedrag
 
-1. Onder gegevens over de sociaal-emotionele ontwikkeling van de leerling als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), worden uitsluitend verstaan, gegevens:
+1. Onder gegevens over de sociaal-emotionele ontwikkeling van de leerling als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), worden uitsluitend verstaan, gegevens:
 
 - a. uit een leerlingvolgsysteem of een vergelijkbare systematiek van beoordelen; en
 
@@ -112,7 +112,7 @@ Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://w
 
 ##### Artikel 6. Gegevens met betrekking tot de gegeven of geïndiceerde begeleiding
 
-Onder gegevens met betrekking tot de gegeven of geïndiceerde begeleiding als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), worden uitsluitend verstaan, gegevens over:
+Onder gegevens met betrekking tot de gegeven of geïndiceerde begeleiding als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), worden uitsluitend verstaan, gegevens over:
 
 - a. belemmeringen bij de leerling in relatie tot diens onderwijsdeelname en -prestaties;
 
@@ -126,13 +126,13 @@ Onder gegevens met betrekking tot de gegeven of geïndiceerde begeleiding als be
 
 ##### Artikel 7. Verzuimgegevens
 
-Onder gegevens omtrent de verzuimhistorie als bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), worden uitsluitend verstaan gegevens over relatief verzuim, voor zover dit verzuim heeft plaatsgevonden in het jaar voorafgaand aan het opstellen van het onderwijskundig rapport.
+Onder gegevens omtrent de verzuimhistorie als bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), worden uitsluitend verstaan gegevens over relatief verzuim, voor zover dit verzuim heeft plaatsgevonden in het jaar voorafgaand aan het opstellen van het onderwijskundig rapport.
 
 #### Paragraaf 3. Leer- en begeleidingsgegevens die met het persoonsgebonden nummer mogen worden uitgewisseld
 
 ##### Artikel 8. Specificatie van gegevens
 
-Onder leergegevens en direct met het leren samenhangende begeleidingsgegevens, bedoeld in [artikel 103b, zevende lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b) en de [artikelen 2.3.6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), en [2.5.5a, negende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), worden verstaan de gegevens, bedoeld in de [artikelen 2, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2012-08-01&g=2012-08-01), en [4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=4&z=2012-08-01&g=2012-08-01).
+Onder leergegevens en direct met het leren samenhangende begeleidingsgegevens, bedoeld in [artikel 103b, zevende lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b) en de [artikelen 2.3.6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), en [2.5.5a, negende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), worden verstaan de gegevens, bedoeld in de [artikelen 2, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), en [4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01).
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -143,5 +143,15 @@ Dit besluit wordt aangehaald als: Besluit uitwisseling leer- en begeleidingsgege
 ##### Artikel 10. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a. Bewaartermijn
+
+Het onderwijskundig rapport wordt bewaard tot vijf jaar na uitschrijving van de leerling.
+
+#### Paragraaf 3. Leer- en begeleidingsgegevens die met het persoonsgebonden nummer mogen worden uitgewisseld
+
+#### Paragraaf 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
