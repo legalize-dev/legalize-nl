@@ -4,7 +4,7 @@ identifier: "BWBV0006851"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-07-01"
-last_updated: "2019-10-14"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006851"
 soort: "verdrag"
@@ -146,9 +146,9 @@ Op verzoek informeert de aangezochte administratie de verzoekende administratie 
 
 ##### Artikel 6
 
-1. De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling, automatisch informatie ten behoeve van specifieke doeleinden verstrekken. De regeling zal vervat worden in een Memorandum van Overeenstemming uit hoofde van [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=X&artikel=16&z=2019-10-14&g=2019-10-14) en kan het type van de uitgewisselde informatie, de vorm, frequentie en timing van de verzending ervan en alle andere voorwaarden bevatten zoals door de douaneadministraties kan worden vastgelegd.
+1. De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling, automatisch informatie ten behoeve van specifieke doeleinden verstrekken. De regeling zal vervat worden in een Memorandum van Overeenstemming uit hoofde van [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=X&artikel=16&z=2020-07-01&g=2020-07-01) en kan het type van de uitgewisselde informatie, de vorm, frequentie en timing van de verzending ervan en alle andere voorwaarden bevatten zoals door de douaneadministraties kan worden vastgelegd.
 
-2. Automatisch zoals bedoeld in het eerste lid van dit artikel verwijst naar het gepland of volgens een scenario verzenden van informatie tussen de verdragsluitende partijen voor specifieke doeleinden zoals omschreven in een regeling die is vervat in een Memorandum van Overeenstemming uit hoofde van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=X&artikel=16&z=2019-10-14&g=2019-10-14).
+2. Automatisch zoals bedoeld in het eerste lid van dit artikel verwijst naar het gepland of volgens een scenario verzenden van informatie tussen de verdragsluitende partijen voor specifieke doeleinden zoals omschreven in een regeling die is vervat in een Memorandum van Overeenstemming uit hoofde van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=X&artikel=16&z=2020-07-01&g=2020-07-01).
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
@@ -270,7 +270,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 - d. Sint Maarten.
 
-3. Niettegenstaande het tweede lid van dit artikel is, wat het Koninkrijk der Nederlanden betreft, het [vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=II&artikel=2&z=2019-10-14&g=2019-10-14) uitsluitend van toepassing op zijn grondgebied in Europa.
+3. Niettegenstaande het tweede lid van dit artikel is, wat het Koninkrijk der Nederlanden betreft, het [vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=II&artikel=2&z=2020-07-01&g=2020-07-01) uitsluitend van toepassing op zijn grondgebied in Europa.
 
 ### HOOFDSTUK XII. BESLECHTING VAN GESCHILLEN
 
