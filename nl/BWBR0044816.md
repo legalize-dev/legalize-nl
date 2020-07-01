@@ -4,7 +4,7 @@ identifier: "BWBR0044816"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-02-12"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044816"
 soort: "AMvB"
@@ -129,6 +129,30 @@ Wijzigt het Verplaatsingskostenbesluit defensie.
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
 ##### Artikel 10.2
+
+Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 12. Overige wijzigingen
+
+### Hoofdstuk 13. Slotbepalingen
+
+##### Artikel 11.1
+
+Wijzigt het Algemeen militair ambtenarenreglement.
+
+##### Artikel 11.2
+
+Wijzigt het Besluit personenchauffeurs defensie.
+
+##### Artikel 11.3
+
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
+
+##### Artikel 11.4
+
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+
+##### Artikel 11.5
 
 Wijzigt het Inkomstenbesluit militairen.
 
