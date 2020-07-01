@@ -4,7 +4,7 @@ identifier: "BWBR0004188"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-04-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004188"
 soort: "wet"
@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bep
 
 - a. bevoegd gezag: het orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende school of cursus wordt bekostigd;
 
-- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2020-04-01&g=2020-04-01);
+- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2020-07-01&g=2020-07-01);
 
 - c. cursusjaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
@@ -120,7 +120,7 @@ Onze Minister gebruikt het burgerservicenummer of onderwijsnummer van de leerlin
 
 - b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie;
 
-- c. teneinde de gegevens van de leerling te vergelijken met de gegevens die over hem zijn opgenomen in het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b), voorzover dat noodzakelijk is voor de uitvoering van deze wet.
+- c. teneinde de gegevens van de leerling te vergelijken met de gegevens die over hem zijn opgenomen in het register onderwijsdeelnemers, bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4), voorzover dat noodzakelijk is voor de uitvoering van deze wet.
 
 ### Hoofdstuk III. Cursusgeld
 
@@ -168,7 +168,7 @@ Onze Minister kan voor bepaalde gevallen de wet buiten toepassing laten of daarv
 
 ##### Artikel 10. Vaststelling lesgeld cursusjaar 1987-1988
 
-Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2020-04-01&g=2020-04-01), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
+Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2020-07-01&g=2020-07-01), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
 
 ##### Artikel 11. Intrekking Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs
 
@@ -176,7 +176,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing voor zover het betreft lesgeld verschuldigd dan wel voldaan met betrekking tot het cursusjaar 1986-1987.
 
-3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2020-04-01&g=2020-04-01), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2020-04-01&g=2020-04-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2020-04-01&g=2020-04-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2020-07-01&g=2020-07-01), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2020-07-01&g=2020-07-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2020-07-01&g=2020-07-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 12. Intrekking School- en cursusgeldwet 1972
 
@@ -184,7 +184,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing met betrekking tot de heffing en invordering van school- en cursusgelden over schoolgeldjaren onderscheidenlijk cursusjaren voorafgaand aan het cursusjaar waarop deze wet voor het eerst van toepassing is.
 
-3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2020-04-01&g=2020-04-01), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2020-04-01&g=2020-04-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2020-07-01&g=2020-07-01), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2020-07-01&g=2020-07-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 13
 
@@ -222,9 +222,9 @@ Vervallen
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.
 
-2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2020-04-01&g=2020-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2020-04-01&g=2020-04-01) vervallen met ingang van 1 augustus 1988.
+2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2020-07-01&g=2020-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2020-07-01&g=2020-07-01) vervallen met ingang van 1 augustus 1988.
 
-3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2020-04-01&g=2020-04-01) vervalt met ingang van 1 januari 1990.
+3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2020-07-01&g=2020-07-01) vervalt met ingang van 1 januari 1990.
 
 ##### Artikel 22. Citeertitel
 
