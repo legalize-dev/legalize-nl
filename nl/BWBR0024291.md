@@ -4,7 +4,7 @@ identifier: "BWBR0024291"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-04-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024291"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt
 
 ##### Artikel 1:1
 
-Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), [1:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:35](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35), [1:37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), [2:1, aanhef en onder a tot en met h, j, k, m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1), [6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:2), [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:3), [7:1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:1), [7:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:6), [7:9, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:9), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:11), [11:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:13), en [11:14, eerste lid van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:14), de [artikelen 1:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=1:5), [2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:1), [2:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:2), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), en [3:3, aanhef en onder c, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), de [artikelen 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), en [artikel 5, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [artikel 21 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), de [artikelen 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=63), en [69 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69) en aan de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=27), en [31 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31).
+Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), [1:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:35](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35), [1:37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1), [6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:2), [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:3), [7:1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:1), [7:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:6), [7:9, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:9), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:11), [11:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:13), en [11:14, eerste lid van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:14), de [artikelen 1:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=1:5), [2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:1), [2:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:2), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), en [3:3, aanhef en onder c, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), de [artikelen 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), en [artikel 5, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [artikel 21 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), de [artikelen 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=63), en [69 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69) en aan de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=27), en [31 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31).
 
 ##### Artikel 1:2
 
@@ -99,13 +99,15 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - w. kentekenregister: het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
-- x. **motorrijtuig:** een motorrijtuig als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
+- x. **motorrijtuig:** een motorrijtuig als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
-- y. **personenvoertuig:** een personenauto als bedoeld in [artikel 3, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), alsmede een motorrijwiel als bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4) en de op laatstgenoemd artikel berustende bepalingen.
+- y. **personenvoertuig:** een personenauto als bedoeld in [artikel 3, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), alsmede een motorrijwiel als bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4) en de op laatstgenoemd artikel berustende bepalingen;
+
+- z. **IMO/FAL 1, 3 of 4:** formulier als bedoeld in aanhangsel 1 van de bijlage bij het op 9 april 1965 te Londen tot stand gekomen Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee, met Bijlage (Trb. 1966, 162), waarbij het nummer verwijst naar het specifieke formulier.
 
 ##### Artikel 1:3
 
-Douanekantoren zijn gevestigd in de plaatsen genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=I&z=2020-04-01&g=2020-04-01).
+Douanekantoren zijn gevestigd in de plaatsen genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=I&z=2020-07-01&g=2020-07-01).
 
 ### Afdeling 1.2. Aanwijzing inspecteur en ontvanger
 
@@ -221,7 +223,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 1:15
 
-1. Indien de aanvraag, bedoeld in [artikel 1:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-04-01&g=2020-04-01), betrekking heeft op teeltmateriaal als bedoeld in [artikel 1, aanhef, onderdeel f, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=1), wordt bij de aanvraag als bewijsstuk als bedoeld in [artikel 1:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-04-01&g=2020-04-01), overlegd:
+1. Indien de aanvraag, bedoeld in [artikel 1:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-07-01&g=2020-07-01), betrekking heeft op teeltmateriaal als bedoeld in [artikel 1, aanhef, onderdeel f, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=1), wordt bij de aanvraag als bewijsstuk als bedoeld in [artikel 1:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-07-01&g=2020-07-01), overlegd:
 
 - a. een officiële verklaring van de NAK, voor wat betreft teeltmateriaal van landbouwgewassen als bedoeld in [artikel 1, eerste lid, aanhef, onderdeel p, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1);
 
@@ -229,7 +231,7 @@ In deze afdeling wordt verstaan onder:
 
 - c. enig ander bewijsstuk dat kan dienen om de oorsprong van de in de aanvraag vermelde producten vast te stellen, dat door de Minister van Landbouw, Natuur en Voedselkwaliteit voor het desbetreffende teeltmateriaal is afgegeven.
 
-2. Een bewijsstuk als bedoeld in [artikel 1:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-04-01&g=2020-04-01), is voor een aanvraag als bedoeld in artikel 1:14, eerste lid, die betrekking heeft op groente en fruit als bedoeld in deel IX, van bijlage I, bij Verordening 1308/2013 het gewaarmerkt afschrift van het controlebewijs, bedoeld in [artikel 14, eerste lid, onderdeel b, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14).
+2. Een bewijsstuk als bedoeld in [artikel 1:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-07-01&g=2020-07-01), is voor een aanvraag als bedoeld in artikel 1:14, eerste lid, die betrekking heeft op groente en fruit als bedoeld in deel IX, van bijlage I, bij Verordening 1308/2013 het gewaarmerkt afschrift van het controlebewijs, bedoeld in [artikel 14, eerste lid, onderdeel b, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14).
 
 3. Indien de producten, vermeld in de aanvraag, tegelijkertijd kunnen worden aangemerkt als teeltmateriaal als bedoeld in het eerste lid, en als groente en fruit als bedoeld in het tweede lid, wordt het eerste of het tweede lid toegepast afhankelijk van de bestemming die aan die producten wordt gegeven.
 
@@ -299,61 +301,35 @@ De aangifte van gegevens inzake de douanewaarde, die in een formulier D.V.1 als 
 
 ##### Artikel 2:1
 
-1. Binnenkomende schepen en de daarmee vervoerde goederen worden langs in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2020-04-01&g=2020-04-01) opgenomen vaarwaters overgebracht naar een haven ressorterende onder een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2020-04-01&g=2020-04-01) opgenomen douanekantoor alwaar zij worden aangebracht.
+1. Binnenkomende schepen en de daarmee vervoerde goederen worden langs in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2020-07-01&g=2020-07-01) opgenomen vaarwaters overgebracht naar een haven ressorterende onder een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2020-07-01&g=2020-07-01) opgenomen douanekantoor alwaar zij worden aangebracht.
 
-2. Binnenkomende luchtvaartuigen en de daarmee vervoerde goederen worden zonder tussenlanding overgebracht naar een internationale luchthaven ressorterende onder een in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IV&z=2020-04-01&g=2020-04-01) opgenomen douanekantoor alwaar zij worden aangebracht.
+2. Binnenkomende luchtvaartuigen en de daarmee vervoerde goederen worden zonder tussenlanding overgebracht naar een internationale luchthaven ressorterende onder een in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IV&z=2020-07-01&g=2020-07-01) opgenomen douanekantoor alwaar zij worden aangebracht.
 
-3. Een binnengekomen schip dan wel een binnengekomen luchtvaartuig vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het eerste, onderscheidenlijk tweede lid, niet zonder toestemming van de inspecteur.
+3. In afwijking in zoverre van het eerste lid kan voor binnenkomende schepen een tijdelijke ligplaats worden gekozen op de plaatsen, genoemd in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=V&z=2020-07-01&g=2020-07-01). Op deze plaatsen vinden geen andere activiteiten plaats dan:
 
-4. In [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=V&z=2020-04-01&g=2020-04-01) zijn plaatsen opgenomen waar binnenkomende schepen en de daarmee vervoerde goederen eveneens kunnen worden aangebracht.
-
-5. Op plaatsen, bedoeld in het vierde lid, vinden geen andere activiteiten plaats dan:
-
-- a. het innemen van provisie en scheepsbehoeften ten behoeve van de bemanning van het schip; of
+- a. het innemen van scheepsvoorraden ten behoeve van de bemanning van het schip;
 
 - b. het innemen van brandstoffen of smeermiddelen bestemd voor de aandrijving of smering van het schip; of
 
-- c. het aan boord nemen van goederen voor reparatie of vervanging van onderdelen van het schip, mits deze reparatie of vervanging noodzakelijk is om het schip zijn reis voort te kunnen laten zetten alsmede de daadwerkelijke reparatie of vervanging van deze onderdelen.
+- c. het aan of van boord nemen van goederen voor reparatie of vervanging van onderdelen van het schip, mits deze reparatie of vervanging noodzakelijk is om het schip zijn reis voort te kunnen laten zetten alsmede de daadwerkelijke reparatie of vervanging van die onderdelen.
+
+4. Van de aankomst en van het vertrek van een schip op de plaatsen, genoemd in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=V&z=2020-07-01&g=2020-07-01), voor het verrichten van een activiteit, genoemd in het derde lid, wordt mededeling gedaan aan de inspecteur.
 
 ##### Artikel 2:2
 
-1. Het aanbrengen, bedoeld in artikel 139 van het Douanewetboek van de Unie, vindt op elektronische wijze plaats.
-
-2. In afwijking van het eerste lid wordt bij toepassing van [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), een binnenkomend schip aangebracht door het doen van een mededeling aan de inspecteur van de aankomst op een in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), bedoelde plaats.
+Vervallen
 
 ##### Artikel 2:3
 
-1. De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2020-04-01&g=2020-04-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2&z=2020-04-01&g=2020-04-01), [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-04-01&g=2020-04-01) en [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.2&artikel=2:5&z=2020-04-01&g=2020-04-01) zijn niet van toepassing op de volgende schepen en luchtvaartuigen:
+De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2020-07-01&g=2020-07-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-07-01&g=2020-07-01) en [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.2&artikel=2:5&z=2020-07-01&g=2020-07-01) zijn niet van toepassing op schepen en luchtvaartuigen indien:
 
-- a. oorlogsschepen en militaire luchtvaartuigen;
+- a. de laatste haven, onderscheidenlijk luchthaven, van vertrek voor aankomst in Nederland is gelegen in het douanegebied van de Unie;
 
-- b. pleziervaartuigen;
+- b. geen goederen aan boord zijn waarvoor bij het in het vrije verkeer brengen rechten bij invoer of andere belastingen zijn verschuldigd of waarvoor ingevolge een wettelijk voorschrift de vervulling van bepaalde formaliteiten is vereist;
 
-- c. vissersschepen welke van de visvangst komen en zijn voorzien van een aanduiding omtrent de haven waar zij thuishoren;
+- c. op de aan boord aanwezige goederen bij het binnenbrengen in het douanegebied van de Unie geen verboden of beperkingen van toepassing zijn of zouden zijn als bedoeld in [artikel 1:1, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1); en
 
-- d. sleepboten;
-
-- e. vaartuigen voor het verrichten van loodsdiensten;
-
-- f. reddingsboten;
-
-- g. schepen en luchtvaartuigen van de Nederlandse Kustwacht.
-
-2. Het eerste lid is niet van toepassing indien:
-
-- a. de laatste haven van vertrek van het schip dan wel luchtvaartuig gelegen is buiten het douanegebied van de Unie;
-
-- b. voor het schip, het luchtvaartuig of voor de aan boord aanwezige goederen bij het in het vrije verkeer brengen rechten bij invoer, accijns of omzetbelasting is verschuldigd;
-
-- c. op het schip, het luchtvaartuig of op de aan boord aanwezige goederen verboden of beperkingen van toepassing zijn of zouden zijn als bedoeld in [artikel 1:1, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
-
-- d. voor het verkrijgen van vrijstelling van rechten bij invoer of voor het plaatsen onder de desbetreffende douaneregeling voor het schip, het luchtvaartuig of voor de aan boord aanwezige goederen ingevolge wettelijke bepalingen de vervulling van bepaalde formaliteiten is vereist;
-
-- e. het schip dan wel luchtvaartuig niet in de Unie thuishoort; of
-
-- f. het schip dan wel luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd.
-
-3. De inspecteur kan toestaan dat, voor zover het de verplichting, bedoeld in [artikel 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2020-04-01&g=2020-04-01), betreft, wordt afgeweken van het bepaalde in het tweede lid.
+- d. het schip of luchtvaartuig in de Unie thuishoort.
 
 ##### Artikel 2:4
 
@@ -367,7 +343,7 @@ De aangifte van gegevens inzake de douanewaarde, die in een formulier D.V.1 als 
 
 ##### Artikel 2:5
 
-1. De aangifte tot tijdelijke opslag bevat de in bijlage 9 van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie genoemde vereiste gegevens.
+1. De aangifte tot tijdelijke opslag bevat de in bijlage 9, aanhangsel A, onderdeel 2, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie genoemde vereiste gegevens.
 
 2. Indien de aangifte tot tijdelijke opslag betrekking heeft op een of meerdere goederen, genoemd in bijlage V, deel B, van Richtlijn 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG 2000, L 169), wordt dit, gelijktijdig met het indienen van de aangifte tot tijdelijke opslag en door de indiener van die aangifte, expliciet medegedeeld aan de douane.
 
@@ -397,7 +373,7 @@ Vervallen
 
 ##### Artikel 2:11
 
-1. De formulieren enig document worden ingevuld overeenkomstig het bepaalde in de Toelichting enig document, zoals opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VI&z=2020-04-01&g=2020-04-01).
+1. De formulieren enig document worden ingevuld overeenkomstig het bepaalde in de Toelichting enig document, zoals opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VI&z=2020-07-01&g=2020-07-01).
 
 2. De bij de invulling van de formulieren enig document te gebruiken codes zijn de codes opgenomen in het codeboek Douane en beschikbaar via internetadres [www.douane.nl](http://www.douane.nl).
 
@@ -593,7 +569,7 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit is bevoegd te beslissen op 
 
 ##### Artikel 3:24
 
-1. Een belanghebbende aan wie de toestemming, bedoeld in [artikel 3:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.4&artikel=3:23&z=2020-04-01&g=2020-04-01), is verleend, geeft overeenkomstig een bij de Minister van Landbouw, Natuur en Voedselkwaliteit op te vragen maandstaat, uiterlijk vóór het eind van de kalendermaand volgend op de maand waarin de landbouwproducten ten uitvoer zijn aangegeven, alle in laatstbedoelde maand aangegeven landbouwproducten op bij de Minister van Landbouw, Natuur en Voedselkwaliteit.
+1. Een belanghebbende aan wie de toestemming, bedoeld in [artikel 3:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.4&artikel=3:23&z=2020-07-01&g=2020-07-01), is verleend, geeft overeenkomstig een bij de Minister van Landbouw, Natuur en Voedselkwaliteit op te vragen maandstaat, uiterlijk vóór het eind van de kalendermaand volgend op de maand waarin de landbouwproducten ten uitvoer zijn aangegeven, alle in laatstbedoelde maand aangegeven landbouwproducten op bij de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 2. De in het eerste lid bedoelde opgave van landbouwproducten zijn gespecificeerd naar GN-code en, indien van toepassing, de restitutiecode.
 
@@ -667,7 +643,7 @@ Vervallen
 
 ##### Artikel 4:1
 
-Het document, bedoeld in artikel 37, eerste lid, onderdeel a, subonderdeel ii, van [Verordening (EU) 2016/1012](32016R1012) van het Europees parlement en de Raad van 8 juni 2016 betreffende de zoötechnische en genealogische voorwaarden voor het fokken van, de handel in en de binnenkomst in de Unie van raszuivere fokdieren, hybride fokvarkens en levende producten daarvan en tot wijziging van Verordening (EU) nr. 652/2014, de [Richtlijnen 89/608/EEG](31989L0608) en [90/425/EEG](31990L0425) van de Raad en tot intrekking van bepaalde handelingen op het gebied van dierfokkerij (‘Fokkerijverordening’) (PbEU 2016, L 171), dat een zending raszuivere fokdieren vergezelt bij het in het vrije verkeer brengen, wordt opgemaakt volgens het in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VIII&z=2020-04-01&g=2020-04-01) opgenomen model.
+Het document, bedoeld in artikel 37, eerste lid, onderdeel a, subonderdeel ii, van [Verordening (EU) 2016/1012](32016R1012) van het Europees parlement en de Raad van 8 juni 2016 betreffende de zoötechnische en genealogische voorwaarden voor het fokken van, de handel in en de binnenkomst in de Unie van raszuivere fokdieren, hybride fokvarkens en levende producten daarvan en tot wijziging van Verordening (EU) nr. 652/2014, de [Richtlijnen 89/608/EEG](31989L0608) en [90/425/EEG](31990L0425) van de Raad en tot intrekking van bepaalde handelingen op het gebied van dierfokkerij (‘Fokkerijverordening’) (PbEU 2016, L 171), dat een zending raszuivere fokdieren vergezelt bij het in het vrije verkeer brengen, wordt opgemaakt volgens het in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VIII&z=2020-07-01&g=2020-07-01) opgenomen model.
 
 ##### Artikel 4:2
 
@@ -749,7 +725,7 @@ Vervallen
 
 ##### Artikel 4:18
 
-Het in kennis stellen van de inspecteur voorafgaand aan de wederuitvoer vindt plaats door inlevering van de generale verklaring (IMO/FAL 1 bij vertrek).
+Vervallen
 
 ### Hoofdstuk 5. Verboden en beperkingen
 
@@ -757,9 +733,9 @@ Het in kennis stellen van de inspecteur voorafgaand aan de wederuitvoer vindt pl
 
 ##### Artikel 5.1
 
-1. Het aangifteformulier, bedoeld in [artikel 3:2, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), wordt vastgesteld overeenkomstig het model in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IX&z=2020-04-01&g=2020-04-01).
+1. Het aangifteformulier, bedoeld in [artikel 3:2, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), wordt vastgesteld overeenkomstig het model in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IX&z=2020-07-01&g=2020-07-01).
 
-2. Met betrekking tot de in aanmerking te nemen wisselkoers, bedoeld in [artikel 3:2, derde lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), is [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.7&artikel=1:20&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+2. Met betrekking tot de in aanmerking te nemen wisselkoers, bedoeld in [artikel 3:2, derde lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), is [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.7&artikel=1:20&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing.
 
 3. De in aanmerking te nemen waarde van verhandelbare instrumenten aan toonder, bedoeld in [artikel 3:2, derde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), is de waarde die het desbetreffende instrument heeft op de meest gerede financiële markt waarop het verhandeld wordt of bij het ontbreken daarvan, de intrinsieke waarde.
 
@@ -809,33 +785,25 @@ Het is verboden te handelen in strijd met de artikelen 3, 4, 5,11, 13, 16, eerst
 
 ##### Artikel 6:1
 
-1. Als douanekantoor van uitgang voor goederen die over zee het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2020-04-01&g=2020-04-01).
+1. Als douanekantoor van uitgang voor goederen die over zee het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2020-07-01&g=2020-07-01).
 
-2. Als douanekantoor van uitgang voor goederen die door de lucht het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IV&z=2020-04-01&g=2020-04-01).
+2. Als douanekantoor van uitgang voor goederen die door de lucht het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IV&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 6:2
 
-1. Van een schip of luchtvaartuig dat het douanegebied van de Unie over zee of door de lucht zal verlaten, wordt aangifte ten uitklaring gedaan.
+1. Van een schip of een luchtvaartuig dat het douanegebied van de Unie over zee, onderscheidenlijk door de lucht, zal verlaten, wordt voor vertrek op elektronische wijze een aangifte ten uitklaring gedaan door het inzenden van de generale verklaring (IMO/FAL 1), onderscheidenlijk door het inzenden van de generale verklaring luchtvaart, bedoeld in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165), waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2020-07-01&g=2020-07-01), titel III, zijn opgenomen
 
-2. Van alle goederen geladen in een Nederlandse haven of luchthaven aan boord van het in het eerste lid bedoelde schip of luchtvaartuig, wordt eveneens aangifte ten uitklaring gedaan.
-
-3. De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan door het op elektronische wijze inzenden van de generale verklaring (IMO / FAL 1 bij vertrek), zoals voorzien in de bijlage bij de IMO Facilitatie Conventie 1965 van de Internationale Maritieme Organisatie (Trb. 1966, 162), respectievelijk de generale verklaring luchtvaart, zoals is voorzien in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen ICAO verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165) van de Internationale organisatie voor de burgerluchtvaart.
-
-4. De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan door het op elektronische wijze inzenden van het douanemanifest bij uitgang. In het douanemanifest bij uitgang worden de gegevens opgenomen volgens de in bijlage IXa opgenomen specificaties.
-
-5. De aangifte ten uitklaring, bedoeld in het eerste lid, wordt gedaan voor vertrek van het schip of luchtvaartuig. De aangifte ten uitklaring, bedoeld in het tweede lid, wordt gedaan binnen 3 kalenderdagen na vertrek van het schip of luchtvaartuig.
-
-6. De inspecteur kan toestaan dat wordt afgeweken van het bepaalde in het vijfde lid.
+2. Van alle goederen geladen in een Nederlandse haven of luchthaven aan boord van het schip of luchtvaartuig, bedoeld in het eerste lid, wordt uiterlijk op de werkdag volgend op de dag van vertrek uit de haven, onderscheidenlijk de luchthaven, een aangifte ten uitklaring gedaan bij het douanekantoor van uitgang door het op elektronische wijze inzenden van het douanemanifest bij uitgang waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2020-07-01&g=2020-07-01), titel II, zijn opgenomen.
 
 ##### Artikel 6:3
 
-1. Als vaarwaters waarlangs schepen en de daarin of daarop aanwezige goederen het douanegebied van de Unie rechtstreeks verlaten, worden aangewezen de vaarwaters, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2020-04-01&g=2020-04-01).
+1. Als vaarwaters waarlangs schepen en de daarin of daarop aanwezige goederen het douanegebied van de Unie rechtstreeks verlaten, worden aangewezen de vaarwaters, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2020-07-01&g=2020-07-01).
 
 2. In afwijking van het eerste lid wordt toegestaan dat goederen die over zee het douanegebied van de Unie zullen verlaten, worden overgeladen in een schip dat het douanegebied van de Unie zal verlaten.
 
 3. De toestemming, bedoeld in het tweede lid, wordt slechts verleend voor het overladen van:
 
-- a. provisie of scheepsbehoeften ten behoeve van de bemanning van het schip;
+- a. scheepsvoorraden ten behoeve van de bemanning van het schip;
 
 - b. brandstoffen of smeermiddelen bestemd voor de aandrijving of smering van het schip;
 
@@ -845,13 +813,19 @@ Het is verboden te handelen in strijd met de artikelen 3, 4, 5,11, 13, 16, eerst
 
 ##### Artikel 6:4
 
-1. De in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:3&z=2020-04-01&g=2020-04-01) bedoelde schepen en luchtvaartuigen, alsmede schepen die over zee van de ene in Nederland gelegen haven naar de andere gaan, hoeven bij het verlaten van het douanegebied van de Unie niet te worden aangebracht bij een douanekantoor van uitgang.
+Schepen en luchtvaartuigen hoeven niet te worden aangebracht bij een douanekantoor van uitgang indien:
 
-2. Het eerste lid is niet van toepassing op schepen en luchtvaartuigen als bedoeld in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:3&z=2020-04-01&g=2020-04-01) indien ter zake van de uitvoer, wederuitvoer, dan wel met het oog op de verkrijging van kwijtschelding of terugbetaling van rechten bij invoer aan het douanekantoor van uitgang formaliteiten moeten worden vervuld.
+- a. de eerste haven of luchthaven van bestemming is gelegen binnen het douanegebied van de Unie;
+
+- b. geen goederen aan boord zijn waarvoor bij de uitvoer, wederuitvoer, dan wel met het oog op de verkrijging van kwijtschelding of terugbetaling van rechten bij invoer of andere belastingen aan het douanekantoor van uitgang formaliteiten moeten worden vervuld;
+
+- c. op de aan boord aanwezige goederen geen verboden of beperkingen als bedoeld in [artikel 1:1, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1) bij het verlaten van het douanegebied van de Unie van toepassing zijn of zouden zijn; en
+
+- d. het schip of luchtvaartuig in de Unie thuishoort.
 
 ##### Artikel 6:5
 
-Een schip dan wel een luchtvaartuig dat het douanegebied van de Unie zal verlaten, vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het [eerste, onderscheidenlijk tweede lid, van artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), niet zonder toestemming van de inspecteur.
+Een schip dan wel een luchtvaartuig dat het douanegebied van de Unie zal verlaten, vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het [eerste, onderscheidenlijk tweede lid, van artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), niet zonder toestemming van de inspecteur.
 
 ### Hoofdstuk 6. Goederen die het douanegebied van de Gemeenschap verlaten
 
@@ -875,7 +849,7 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 1. Voor het brengen in het vrije verkeer met vrijstelling van rechten bij invoer als bedoeld in de artikelen 28, 34, 43, 44, 45, 51, 53, 57, 59, 61, 67, 68, 74 en 95 van Verordening 1186/2009, is een vergunning van de inspecteur vereist met dien verstande dat voor de vrijstellingen, bedoeld in de artikelen 67 en 68 van Verordening 1186/2009, een vergunning slechts is vereist indien de goederen in het vrije verkeer worden gebracht door een instelling of organisatie.
 
-2. Het eerste lid is niet van toepassing indien de goederen in het vrije verkeer worden gebracht door een openbare instelling of een instelling of organisatie, genoemd in [artikel 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-04-01&g=2020-04-01) of in de [bijlagen X tot en met XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2020-04-01&g=2020-04-01).
+2. Het eerste lid is niet van toepassing indien de goederen in het vrije verkeer worden gebracht door een openbare instelling of een instelling of organisatie, genoemd in [artikel 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-07-01&g=2020-07-01) of in de [bijlagen X tot en met XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 7:3
 
@@ -891,19 +865,19 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 ##### Artikel 7:4
 
-1. Als instellingen en organisaties als bedoeld in artikel 43, aanhef en onder b, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2020-04-01&g=2020-04-01).
+1. Als instellingen en organisaties als bedoeld in artikel 43, aanhef en onder b, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2020-07-01&g=2020-07-01).
 
-2. Als instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XI&z=2020-04-01&g=2020-04-01).
+2. Als instellingen als bedoeld in artikel 44, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XI&z=2020-07-01&g=2020-07-01).
 
-3. Als instellingen met zetel in de Unie als bedoeld in artikel 51, tweede lid, onderdeel a, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XII&z=2020-04-01&g=2020-04-01).
+3. Als instellingen met zetel in de Unie als bedoeld in artikel 51, tweede lid, onderdeel a, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XII&z=2020-07-01&g=2020-07-01).
 
-4. Als instellingen als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIII&z=2020-04-01&g=2020-04-01).
+4. Als instellingen als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening 1186/2009 worden aangewezen de instellingen, genoemd in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIII&z=2020-07-01&g=2020-07-01).
 
 5. Als instelling als bedoeld in artikel 55, aanhef en onder a, van Verordening 1186/2009 wordt aangewezen: Stichting Sanquin Bloedvoorziening.
 
 6. Als instellingen als bedoeld in artikel 57 van Verordening 1186/2009 worden aangewezen de ziekenhuizen, gezondheidsinstellingen en dergelijke instellingen welke zich uitsluitend of nagenoeg uitsluitend bezighouden met medisch onderzoek, medische diagnose of medische behandeling.
 
-7. Als geadresseerden als bedoeld in artikel 59 van Verordening 1186/2009 worden aangewezen de geadresseerden, genoemd in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIV&z=2020-04-01&g=2020-04-01).
+7. Als geadresseerden als bedoeld in artikel 59 van Verordening 1186/2009 worden aangewezen de geadresseerden, genoemd in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIV&z=2020-07-01&g=2020-07-01).
 
 8. Als instellingen met een liefdadig en filantropisch karakter als bedoeld in de artikelen 61, eerste lid, onderdeel a, en 74, eerste lid, van Verordening 1186/2009 worden aangewezen:
 
@@ -911,9 +885,9 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 - –. Stichting Leger des Heils Dienstverlening.
 
-9. Als instellingen en organisaties als bedoeld in de artikelen 67 en 68, eerste lid, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XV&z=2020-04-01&g=2020-04-01).
+9. Als instellingen en organisaties als bedoeld in de artikelen 67 en 68, eerste lid, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XV&z=2020-07-01&g=2020-07-01).
 
-10. Als organisaties als bedoeld in artikel 112 van Verordening 1186/2009 worden aangewezen de organisaties, genoemd in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVI&z=2020-04-01&g=2020-04-01).
+10. Als organisaties als bedoeld in artikel 112 van Verordening 1186/2009 worden aangewezen de organisaties, genoemd in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVI&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 7:5
 
@@ -929,7 +903,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ##### Artikel 7:8
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van diplomatieke en consulaire ambtenaren, met uitzondering van honoraire consuls, van in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-04-01&g=2020-04-01) genoemde diplomatieke en consulaire vertegenwoordigingen voor zover deze ambtenaren zijn geaccrediteerd of aangemeld bij Nederland.
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van diplomatieke en consulaire ambtenaren, met uitzondering van honoraire consuls, van in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-07-01&g=2020-07-01) genoemde diplomatieke en consulaire vertegenwoordigingen voor zover deze ambtenaren zijn geaccrediteerd of aangemeld bij Nederland.
 
 2. De vrijstelling, bedoeld in het eerste lid, is niet van toepassing indien de desbetreffende ambtenaar Nederlander is of duurzaam in Nederland verblijft dan wel indien deze vrijstelling is of zal worden verleend door een andere lidstaat van de Europese Unie.
 
@@ -941,7 +915,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ##### Artikel 7:9
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van leden van het administratief, technisch en bedienend personeel van in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-04-01&g=2020-04-01) genoemde diplomatieke en consulaire vertegenwoordigingen voor zover die personeelsleden zijn aangemeld bij Nederland.
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van leden van het administratief, technisch en bedienend personeel van in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-07-01&g=2020-07-01) genoemde diplomatieke en consulaire vertegenwoordigingen voor zover die personeelsleden zijn aangemeld bij Nederland.
 
 2. De vrijstelling, bedoeld in het eerste lid, is niet van toepassing indien het desbetreffende personeelslid Nederlander is, duurzaam in Nederland verblijft, of indien er op het moment van het in het vrije verkeer brengen sinds de aanvang van de tewerkstelling in Nederland meer dan 10 jaren zijn verstreken. Voorts is de vrijstelling niet van toepassing indien deze vrijstelling is of zal worden verleend door een andere lidstaat van de Europese Unie.
 
@@ -953,13 +927,13 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ##### Artikel 7:10
 
-1. Het verzoek tot het verlenen van een vrijstelling, bedoeld in [artikel 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-04-01&g=2020-04-01) en [artikel 7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-04-01&g=2020-04-01), wordt gedaan door het overleggen van de aangifte voor het brengen in het vrije verkeer. Deze aangifte wordt gedaan bij de inspecteur door het overleggen van een door het hoofd van de diplomatieke of consulaire vertegenwoordiging ondertekende aangifte Douane 39.
+1. Het verzoek tot het verlenen van een vrijstelling, bedoeld in [artikel 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-07-01&g=2020-07-01) en [artikel 7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-07-01&g=2020-07-01), wordt gedaan door het overleggen van de aangifte voor het brengen in het vrije verkeer. Deze aangifte wordt gedaan bij de inspecteur door het overleggen van een door het hoofd van de diplomatieke of consulaire vertegenwoordiging ondertekende aangifte Douane 39.
 
 2. De vrijstelling wordt slechts verleend indien alle douane-exemplaren van eerder gedane aangiften ten behoeve van eenzelfde belanghebbende, voorzien van een door hem en het hoofd van de diplomatieke of consulaire vertegenwoordiging voor gezien getekende ontvangstbevestiging, binnen drie dagen na het verstrijken van de geldigheidsduur van de volgens het eerste lid gedane aangifte door de inspecteur zijn terugontvangen.
 
 3. Voor een motorrijtuig waarvoor vrijstelling van rechten bij invoer is verleend, wordt in het kentekenregister de aantekening opgenomen ‘vrijstelling van rechten bij invoer en/of omzetbelasting en/of belasting van personenauto’s en motorrijwielen; vervalt bij vervreemding; vrijstelling niet overdraagbaar’. De motorrijtuigen mogen zonder een dergelijke aantekening niet worden gebruikt.
 
-4. Het is verboden om de overeenkomstig de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-04-01&g=2020-04-01) en [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-04-01&g=2020-04-01) met vrijstelling in het vrije verkeer gebrachte goederen:
+4. Het is verboden om de overeenkomstig de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-07-01&g=2020-07-01) en [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-07-01&g=2020-07-01) met vrijstelling in het vrije verkeer gebrachte goederen:
 
 - –. uit te lenen, te verpanden, te verhuren, onder bezwarende titel of om niet over te dragen, zonder dat daartoe toestemming is verkregen van de inspecteur die de vrijstelling heeft verleend; en
 
@@ -967,37 +941,37 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ##### Artikel 7:11
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor officieel gebruik – bouwen en herstellen daaronder begrepen – van een diplomatieke of beroepsconsulaire vertegenwoordiging in Nederland, genoemd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-04-01&g=2020-04-01).
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor officieel gebruik – bouwen en herstellen daaronder begrepen – van een diplomatieke of beroepsconsulaire vertegenwoordiging in Nederland, genoemd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-07-01&g=2020-07-01).
 
-2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-04-01&g=2020-04-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de diplomatieke of beroepsconsulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
+2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-07-01&g=2020-07-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de diplomatieke of beroepsconsulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
 
 ##### Artikel 7:12
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van kanselarijbenodigdheden die bestemd zijn voor het officiële gebruik van een honorair consulaire vertegenwoordiging in Nederland, genoemd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-04-01&g=2020-04-01).
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van kanselarijbenodigdheden die bestemd zijn voor het officiële gebruik van een honorair consulaire vertegenwoordiging in Nederland, genoemd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-07-01&g=2020-07-01).
 
-2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-04-01&g=2020-04-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de honorair consulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
+2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-07-01&g=2020-07-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de honorair consulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
 
 ##### Artikel 7:13
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het verrichten van de officiële werkzaamheden door een internationale organisatie in Nederland, genoemd in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-04-01&g=2020-04-01).
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het verrichten van de officiële werkzaamheden door een internationale organisatie in Nederland, genoemd in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2020-07-01&g=2020-07-01).
 
-2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-04-01&g=2020-04-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de internationale organisatie in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de internationale organisatie bestemd zijn.
+2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-07-01&g=2020-07-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de internationale organisatie in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de internationale organisatie bestemd zijn.
 
 ##### Artikel 7:14
 
-1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van functionarissen in dienst van een internationale organisatie, genoemd in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIX&z=2020-04-01&g=2020-04-01), indien met die organisaties is overeengekomen dat aan die functionarissen het recht op deze vrijstelling wordt verleend.
+1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van functionarissen in dienst van een internationale organisatie, genoemd in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIX&z=2020-07-01&g=2020-07-01), indien met die organisaties is overeengekomen dat aan die functionarissen het recht op deze vrijstelling wordt verleend.
 
 2. De vrijstelling, bedoeld in het eerste lid, is niet van toepassing indien de desbetreffende functionaris Nederlander is of duurzaam in Nederland verblijft.
 
 3. De vrijstelling, bedoeld in het eerste lid, is, voor zover het personenvoertuigen betreft, beperkt tot maximaal twee personenvoertuigen per functionaris, tenzij met de internationale organisatie is overeengekomen dat deze vrijstelling beperkt is tot één personenvoertuig per functionaris.
 
-4. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van administratief, technisch en bedienend personeel in dienst van een internationale organisatie genoemd in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIX&z=2020-04-01&g=2020-04-01), indien met die organisatie is overeengekomen dat aan dat personeel het recht op deze vrijstelling wordt verleend.
+4. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van administratief, technisch en bedienend personeel in dienst van een internationale organisatie genoemd in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIX&z=2020-07-01&g=2020-07-01), indien met die organisatie is overeengekomen dat aan dat personeel het recht op deze vrijstelling wordt verleend.
 
 5. De vrijstelling, bedoeld in het vierde lid, is niet van toepassing indien het personeelslid Nederlander is, duurzaam in Nederland verblijft, dan wel als er op het moment van het in het vrije verkeer brengen sinds de aanvang van de tewerkstelling in Nederland meer dan 10 jaren zijn verstreken.
 
 6. De vrijstelling, bedoeld in het vierde lid, is, voor zover het personenvoertuigen betreft, beperkt tot maximaal één personenvoertuig per persoon, tenzij met de organisatie is overeengekomen dat geen vrijstelling voor een personenvoertuig wordt verleend.
 
-7. [Artikel 7:10, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing, met dien verstande dat het hoofd van de internationale organisatie in een door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 verklaart dat de functionaris onderscheidenlijk de persoon die gebruik wenst te maken van de in het eerste of vierde lid bedoelde vrijstelling in dienst is bij die internationale organisatie, geen Nederlander is, niet duurzaam in Nederland verblijft, dan wel dat er op het moment van het in het vrije verkeer brengen sinds de aanvang van de tewerkstelling in Nederland minder dan 10 jaren zijn verstreken. Voorts vermeldt de verklaring de normale verblijfplaats van de functionaris onderscheidenlijk de persoon op het moment van aanwerving en de datum van tewerkstelling in Nederland.
+7. [Artikel 7:10, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2020-07-01&g=2020-07-01), is van overeenkomstige toepassing, met dien verstande dat het hoofd van de internationale organisatie in een door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 verklaart dat de functionaris onderscheidenlijk de persoon die gebruik wenst te maken van de in het eerste of vierde lid bedoelde vrijstelling in dienst is bij die internationale organisatie, geen Nederlander is, niet duurzaam in Nederland verblijft, dan wel dat er op het moment van het in het vrije verkeer brengen sinds de aanvang van de tewerkstelling in Nederland minder dan 10 jaren zijn verstreken. Voorts vermeldt de verklaring de normale verblijfplaats van de functionaris onderscheidenlijk de persoon op het moment van aanwerving en de datum van tewerkstelling in Nederland.
 
 8. Het is verboden om de met vrijstelling in het vrije verkeer gebrachte goederen:
 
@@ -1017,7 +991,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van:
 
-- a. provisie en scheepsbehoeften aan boord van binnenkomende schepen, geen woonschepen zijnde;
+- a. scheepsvoorraden aan boord van binnenkomende schepen, geen woonschepen zijnde;
 
 - b. provisie aanwezig in luchtvaartuigen in internationaal verkeer;
 
@@ -1031,13 +1005,13 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ##### Artikel 7:17
 
-Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door reizigers als bagage worden vervoerd, wordt, behoudens het bepaalde in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2020-04-01&g=2020-04-01), een forfaitaire accijns geheven overeenkomstig de voorwaarden en bepalingen die gelden voor het douanerecht. De accijns wordt berekend naar de bij die goederen vermelde tarieven.
+Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door reizigers als bagage worden vervoerd, wordt, behoudens het bepaalde in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2020-07-01&g=2020-07-01), een forfaitaire accijns geheven overeenkomstig de voorwaarden en bepalingen die gelden voor het douanerecht. De accijns wordt berekend naar de bij die goederen vermelde tarieven.
 
 | Omschrijving | Grondslag | Tarief |
 | --- | --- | --- |
 | a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=12): | liter | € 6,41 |
-| b. rooktabak | kleinhandelsprijs van soortgelijke producten | 58,81% |
-| c. sigaretten | kleinhandelsprijs van soortgelijke producten | 59,98% |
+| b. rooktabak | kleinhandelsprijs van soortgelijke producten | 73,45% |
+| c. sigaretten | kleinhandelsprijs van soortgelijke producten | 80,77% |
 
 ##### Artikel 7:18
 
@@ -1057,7 +1031,7 @@ Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dra
 
 ##### Artikel 7:19
 
-Op de omzetbelasting zijn de artikelen 28 tot en met 34 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) en [7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing voor zover de voor het vrije verkeer aangegeven goederen niet zijn bestemd voor de uitoefening van een activiteit die op grond van [artikel 11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) is vrijgesteld.
+Op de omzetbelasting zijn de artikelen 28 tot en met 34 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) en [7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing voor zover de voor het vrije verkeer aangegeven goederen niet zijn bestemd voor de uitoefening van een activiteit die op grond van [artikel 11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) is vrijgesteld.
 
 ##### Artikel 7:20
 
@@ -1065,25 +1039,25 @@ Vervallen
 
 ##### Artikel 7:21
 
-Op de omzetbelasting is artikel 42 van Verordening 1186/2009 alsmede [artikel 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage I, onderdeel B, van Verordening 1186/2009.
+Op de omzetbelasting is artikel 42 van Verordening 1186/2009 alsmede [artikel 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage I, onderdeel B, van Verordening 1186/2009.
 
 ##### Artikel 7:22
 
-Op de omzetbelasting is artikel 43 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage II, onderdeel B, van Verordening 1186/2009, mits de aan de aangifte voor het vrije verkeer ten grondslag liggende levering om niet geschiedt, of, indien zij onder bezwarende titel plaatsheeft, de goederen worden geleverd door een ander dan een ondernemer in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
+Op de omzetbelasting is artikel 43 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-07-01&g=2020-07-01), van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage II, onderdeel B, van Verordening 1186/2009, mits de aan de aangifte voor het vrije verkeer ten grondslag liggende levering om niet geschiedt, of, indien zij onder bezwarende titel plaatsheeft, de goederen worden geleverd door een ander dan een ondernemer in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 ##### Artikel 7:23
 
-Op de accijnzen en de omzetbelasting is artikel 53 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing met dien verstande dat voor dieren die voor laboratoriumgebruik zijn gefokt, de vrijstelling uitsluitend van toepassing is indien die dieren om niet aan laboratoria worden afgestaan.
+Op de accijnzen en de omzetbelasting is artikel 53 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing met dien verstande dat voor dieren die voor laboratoriumgebruik zijn gefokt, de vrijstelling uitsluitend van toepassing is indien die dieren om niet aan laboratoria worden afgestaan.
 
 ##### Artikel 7:24
 
-Op de omzetbelasting zijn de artikelen 67 en 68 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing met dien verstande dat:
+Op de omzetbelasting zijn de artikelen 67 en 68 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing met dien verstande dat:
 
 - a. de vrijstelling kan worden verleend voor alle goederen die speciaal zijn ontworpen voor onderwijs aan en tewerkstelling of verbetering van de maatschappelijke positie van geestelijk gehandicapten, blinden en andere lichamelijk gehandicapten;
 
 - b. geen vrijstelling wordt verleend indien de goederen door geestelijk gehandicapten, blinden en andere lichamelijk gehandicapten voor hun eigen gebruik worden ingevoerd;
 
-- c. geen vrijstelling wordt verleend indien de goederen met enige commerciële bijbedoeling van de gever of niet om niet aan een in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XV&z=2020-04-01&g=2020-04-01) aangewezen instelling of organisatie worden gezonden.
+- c. geen vrijstelling wordt verleend indien de goederen met enige commerciële bijbedoeling van de gever of niet om niet aan een in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XV&z=2020-07-01&g=2020-07-01) aangewezen instelling of organisatie worden gezonden.
 
 ##### Artikel 7:25
 
@@ -1091,7 +1065,7 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 ##### Artikel 7:26
 
-1. Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 203 tot en met 205 van het Douanewetboek van de Unie, de artikelen 158 tot en met 160 van de Gedelegeerde Verordening Douanewetboek van de Unie, de artikelen 253 tot en met 255 van de Uitvoeringsverordening Douanewetboek van de Unie alsmede [artikel 7:28](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.4&artikel=7:28&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing met dien verstande dat de bepalingen inzake het inlichtingenblad INF 3 slechts van toepassing zijn voor zover gelijktijdig aanspraak op vrijstelling van rechten bij invoer wordt gemaakt.
+1. Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 203 tot en met 205 van het Douanewetboek van de Unie, de artikelen 158 tot en met 160 van de Gedelegeerde Verordening Douanewetboek van de Unie, de artikelen 253 tot en met 255 van de Uitvoeringsverordening Douanewetboek van de Unie alsmede [artikel 7:28](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.4&artikel=7:28&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing met dien verstande dat de bepalingen inzake het inlichtingenblad INF 3 slechts van toepassing zijn voor zover gelijktijdig aanspraak op vrijstelling van rechten bij invoer wordt gemaakt.
 
 2. Vrijstelling van omzetbelasting voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat op de terugkerende goederen omzetbelasting drukt.
 
@@ -1101,13 +1075,13 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 ##### Artikel 7:27
 
-1. Op de accijnzen zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 95 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+1. Op de accijnzen zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 95 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing.
 
-2. Op de omzetbelasting zijn de artikelen 3 tot en met 20, 21, 24, 54 tot en met 56, 59 tot en met 65, 74 tot en met 103 en 105 tot en met 113 van Verordening 1186/2009, alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+2. Op de omzetbelasting zijn de artikelen 3 tot en met 20, 21, 24, 54 tot en met 56, 59 tot en met 65, 74 tot en met 103 en 105 tot en met 113 van Verordening 1186/2009, alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing.
 
 3. Op de omzetbelasting is artikel 23 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat onder ‘goederen met een te verwaarlozen waarde’ wordt verstaan goederen waarvan de intrinsieke waarde niet meer dan € 22 per zending bedraagt.
 
-4. Op de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 90 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+4. Op de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 90 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2020-07-01&g=2020-07-01) van overeenkomstige toepassing.
 
 5. Op de omzetbelasting is de gehele of gedeeltelijke vrijstelling van rechten bij invoer bij het in het vrije verkeer brengen van goederen, die overeenkomstig de douaneregeling passieve veredeling tijdelijk zijn uitgevoerd, van overeenkomstige toepassing.
 
@@ -1217,9 +1191,9 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 2. Overtreding van het verbod:
 
-- a. bedoeld in [artikel 1:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-04-01&g=2020-04-01); of
+- a. bedoeld in [artikel 1:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2020-07-01&g=2020-07-01); of
 
-- b. bedoeld in [artikel 1:16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:16&z=2020-04-01&g=2020-04-01);
+- b. bedoeld in [artikel 1:16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:16&z=2020-07-01&g=2020-07-01);
 
 vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 167.
 
@@ -1277,7 +1251,7 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 
 ##### Artikel 12:3
 
-1. Bij de inbewaringneming van goederen is, indien de belanghebbende bij die goederen niet bekend is, [Artikel 12:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=12&artikel=12:1&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing.
+1. Bij de inbewaringneming van goederen is, indien de belanghebbende bij die goederen niet bekend is, [Artikel 12:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=12&artikel=12:1&z=2020-07-01&g=2020-07-01), van overeenkomstige toepassing.
 
 2. De verkoop van de in bewaring genomen goederen vindt niet eerder plaats dan nadat aan het voornemen daartoe in de een of meerdere, door de inspecteur aan te wijzen, dag- of nieuwsbladen bekendheid is gegeven.
 
@@ -1625,6 +1599,8 @@ In artikel 6, eerste lid, van het Douanewetboek van de Unie (DWU) is bepaald dat
 
 In artikel 6, eerste lid, van het Douanewetboek van de Unie (DWU) is bepaald dat alle communicatie tussen de douane en marktdeelnemers elektronisch gebeurt. Dit geldt ook voor het indienen van een douaneaangifte voor het plaatsen van goederen onder een douaneregeling of tot wederuitvoer.
 
+In artikel 6, eerste lid, van het Douanewetboek van de Unie (DWU) is bepaald dat alle communicatie tussen de douane en marktdeelnemers elektronisch gebeurt. Dit geldt ook voor het indienen van een douaneaangifte voor het plaatsen van goederen onder een douaneregeling of tot wederuitvoer.
+
 Indien een douaneaangifte voor het plaatsen van goederen onder een douaneregeling schriftelijk wordt gedaan, is in artikel 15 van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie bepaald dat de in de bijlage 9, aanhangsels B1 tot en met B6 opgenomen formulieren worden gebruikt. Dit geldt alleen voor het indienen van een douaneaangifte voor de douaneregelingen:
 
 Het indienen van een schriftelijke aangifte mag worden gedaan tot het nationale systeem voor het indienen van aangiften is ontwikkeld of is opgewaardeerd op basis van Uitvoeringsbesluit (EU) 2016/578 van de Commissie van 11 april 2016 tot vaststelling van het werkprogramma voor voor de ontwikkeling en de uitrol van de elektronische systemen waarin het douanewetboek van de Unie voorziet (PbEU 2016, L 994).
@@ -1633,17 +1609,17 @@ De aangiften, bij het gebruik van de schriftelijke formulieren of via elektronis
 
 In aanhangsel C1 wordt aan de lidstaten overgelaten om bepaalde gegevenselementen al dan niet te vragen. Verder is aan de lidstaten de bevoegdheid gegeven om de Toelichting bij het Enig Document (aanhangsel C1 bij bijlage 9 van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie) aan te vullen. In deze bijlage is opgenomen of het gegevenselement moet worden opgenomen in de aangifte en wordt de toelichting aangevuld. De in de aangifte te gebruiken codes volgens Aanhangsel C2 bij bijlage 9 van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie en eventuele nationale codes zijn opgenomen in het Codeboek Douane beschikbaar via internetadres www.douane.nl, onderdeel ‘Douane voor bedrijven’.
 
-Formulieren die in een andere lidstaat door de douane zijn aanvaard, worden hier te lande geaccepteerd.
-
 Wanneer de aangifte voor een douaneregeling wordt gedaan met gebruik van geautomatiseerde systemen (AGS, Sagitta-Uitvoer en NCTS) zijn de onderstaande bepalingen betreffende de schriftelijke aangifte mutatis mutandis van toepassing.
 
 Wanneer de aangifte voor een douaneregeling wordt gedaan met gebruik van geautomatiseerde systemen (AGS en NCTS) zijn de onderstaande bepalingen betreffende de schriftelijke aangifte mutatis mutandis van toepassing.
 
 ### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
-De aldus te gebruiken formulieren en aanvullende formulieren bestaan uit de exemplaren die nodig zijn voor het vervullen van de formaliteiten voor een of meer douaneregelingen en worden gekozen uit een set van acht exemplaren:
+De formulieren en aanvullende formulieren worden gebruikt:
 
 ### **C. Gebruiksaanwijzing van het formulier**
+
+Verschillende combinaties van exemplaren zijn dus mogelijk, bijvoorbeeld:
 
 Bovendien moet in bepaalde gevallen het EU-karakter van de goederen op de plaats van bestemming worden aangetoond. In dergelijke gevallen kan het exemplaar nr. 4 als T2L document worden gebruikt.
 
@@ -1667,7 +1643,7 @@ Formulieren die in een andere lidstaat door de douane zijn aanvaard, worden hier
 
 Extra exemplaren van de formulieren Enig document worden gebruikt:
 
-De invulling van de vakken en deelvakken wordt beheerst door de EU-matrix van bijlage 9, aanhangsel C1, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie. In de nationale matrix, die hierna is opgenomen, is de EU-matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling, wederuitvoer, bewijs van de douanestatus van Uniegoederen van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met L.
+De invulling van de vakken en deelvakken wordt beheerst door de EU-matrix van bijlage 9, aanhangsel C1, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie. In de nationale matrix, die hierna is opgenomen, is de EU-matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling, wederuitvoer, bewijs van de douanestatus van Uniegoederen van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met J.
 
 De invulling van de vakken en deelvakken wordt beheerst door de EU-matrix van bijlage 9, aanhangsel C1, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie. In de nationale matrix, die hierna is opgenomen, is de EU-matrix verwerkt en zijn eveneens de nationaal verplicht gestelde vakken opgenomen. Deze nationale matrix bepaalt voor elke douaneregeling, wederuitvoer, bewijs van de douanestatus van Uniegoederen van de goederen en tijdelijke opslag of een vak of deelvak moet of mag worden gebruikt volgens de kolommen A tot en met J.
 
@@ -1771,7 +1747,7 @@ De in de vakken te vermelden EU- en nationale codes zijn opgenomen in het codebo
 
 De in de vakken te vermelden EU- en nationale codes zijn opgenomen in het codeboek Douane, beschikbaar via Internetadres http://www.douane.nl. Eventuele toelichtingen op het gebruik van de codes zijn door middel van een noot bij het betreffende vak opgenomen in deel D van Titel II.
 
-Dit vak behoeft niet te worden ingevuld indien het formulier uitsluitend wordt gebruikt bij douanevervoer.
+De aangiftesystemen genereren automatisch een aangiftenummer (MRN-nummer), bestaande uit:
 
 De aangiftesystemen genereren automatisch een aangiftenummer (MRN-nummer), bestaande uit:
 
@@ -1863,9 +1839,9 @@ In het tweede deelvak het gefactureerde bedrag vermelden voor alle aangegeven go
 
 In het eerste deelvak, door middel van de desbetreffende EU-codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Douane, onderdeel Aangiftebehandeling, tabel A22)
 
-(Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.)
-
 ### **Deel B. Formaliteiten tijdens het vervoer**
+
+Het tweede deelvak behoeft niet te worden ingevuld.
 
 Volgens de desbetreffende EU-code de wijze van vervoer vermelden die overeenstemt met het actieve vervoermiddel waarop of waarin de goederen het douanegebied van de Unie naar verwachting zullen verlaten (zie codeboek Douane, onderdeel Aangiftebehandeling, tabel A27).
 
@@ -1883,15 +1859,15 @@ Een nauwkeurige vermelding van de plaats, bestaande uit de postcode aangevuld me
 
 Indien de goederen die in dit vak worden omschreven een gedeelte vormen van de inhoud van één collo, dient te worden vermeld: deel van collo nr. .... (in te vullen het nummer van het collo of, als het geen nummer heeft, de identiteitsgegevens). Deze vermelding laat onverlet de verplichting om merk, nummer, aantal en soort van het collo te vermelden.
 
-Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden vermeld.
-
 ### **Deel B. Formaliteiten tijdens het vervoer**
+
+2. Voor halfzware olie en gasolie de aantekening ‘onvermengd’ of ‘voorzien van herkenningsmiddelen’ plaatsen, gevolgd door de desbetreffende nationale code voor bijzondere vermeldingen (zie codeboek Douane onderdeel Aangiftebehandeling tabel A12).
 
 3. Vervallen.
 
 4. In de gevallen waarin volgens artikel 5, vierde lid, van de Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU 2009, L 186), de samenstelling moet worden opgegeven, deze vermelden met toepassing van maatstafcodes en maatstafhoeveelheden. (zie codeboek Douane onderdeel Aangiftebehandeling tabel T08).
 
-Indien de samenstelling achterwege mag blijven op grond van een toestemming als bedoeld in [artikel 3:32](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.5&artikel=3:32&z=2020-04-01&g=2020-04-01), hier het toestemmingsnummer vermelden.
+Indien de samenstelling achterwege mag blijven op grond van een toestemming als bedoeld in [artikel 3:32](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.5&artikel=3:32&z=2020-07-01&g=2020-07-01), hier het toestemmingsnummer vermelden.
 
 (Voor een nadere toelichting op het gebruik van de codes, zie deel D van Titel II.)
 
@@ -1971,7 +1947,7 @@ De plaats en de datum vermelden waarop de aangifte werd opgesteld.
 
 Behoudens nog vast te stellen bijzondere bepalingen betreffende het gebruik van informatica, dient het voor het kantoor van uitvoer/verzending bestemde exemplaar (nr.1) de originele handtekening van de betrokkene te bevatten, gevolgd door diens naam en voornaam. Wanneer het een rechtspersoon betreft, dient de handtekening te worden gevolgd door de naam, voornaam en functie van degene die heeft ondertekend.
 
-(Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.)
+Het is mogelijk dat tussen het tijdstip waarop de goederen het kantoor van uitvoer en/of vertrek verlaten en het tijdstip waarop zij bij het kantoor van bestemming aankomen bepaalde gegevens dienen te worden vermeld op de exemplaren die de goederen vergezellen. Deze gegevens hebben betrekking op het vervoer en dienen, wanneer zich bepaalde gebeurtenissen voordoen tijdens het vervoer, op het document te worden ingevuld door de vervoerder die verantwoordelijk is voor het vervoermiddel waarop of waarin de goederen rechtstreeks zijn geladen. Wanneer deze gegevens met de hand worden aangebracht, moet dit op duidelijk leesbare wijze, met inkt en blokletters geschieden.
 
 Het is mogelijk dat tussen het tijdstip waarop de goederen het kantoor van uitvoer en/of vertrek verlaten en het tijdstip waarop zij bij het kantoor van bestemming aankomen bepaalde gegevens dienen te worden vermeld op de exemplaren die de goederen vergezellen. Deze gegevens hebben betrekking op het vervoer en dienen, wanneer zich bepaalde gebeurtenissen voordoen tijdens het vervoer, op het document te worden ingevuld door de vervoerder die verantwoordelijk is voor het vervoermiddel waarop of waarin de goederen rechtstreeks zijn geladen. Wanneer deze gegevens met de hand worden aangebracht, moet dit op duidelijk leesbare wijze, met inkt en blokletters geschieden.
 
@@ -1991,7 +1967,7 @@ In te vullen overeenkomstig de voorschriften inzake douanevervoer.
 
 Wanneer tijdens het vervoer van goederen die in of op een oplegger zijn geladen, de oplegger aan een ander trekkend voertuig wordt gekoppeld (en de goederen daarbij niet worden behandeld of overgeladen), wordt in dit vak het registratienummer van de nieuwe trekker vermeld. In dit geval is visering door de bevoegde autoriteiten niet vereist.
 
-– Andere voorvallen: Vak 56 invullen.
+De aangiftesystemen genereren een aangiftenummer (MRN-nummer), bestaande uit:
 
 De aangiftesystemen genereren een aangiftenummer (MRN-nummer), bestaande uit:
 
@@ -2073,9 +2049,9 @@ In dit vak wordt de koers vermeld waartegen de factuurvaluta in de valuta van de
 
 In het eerste deelvak, door middel van de desbetreffende EU-codes en indeling de gegevens vermelden waaruit blijkt om welk type contract het in dit geval gaat (zie codeboek Douane, onderdeel Aangiftebehandeling, tabel A22).
 
-Het tweede deelvak behoeft niet te worden ingevuld.
-
 ### **Deel D. Toelichting bij de te gebruiken Communautaire- en Nationale Codes op de formulieren van het enig document**
+
+(Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.)
 
 Door middel van de desbetreffende EU-code de vervoerwijze vermelden waartoe het actieve vervoermiddel behoort waarop of waarin de goederen het douanegebied van de Unie zijn binnengekomen (zie codeboek Douane onderdeel Aangiftebehandeling tabel A27).
 
@@ -2167,7 +2143,7 @@ In dit vak plaats en datum van de aangifte vermelden.
 
 Behoudens nog vast te stellen bijzondere bepalingen betreffende het gebruik van informatica, wordt op het door het kantoor van invoer bewaarde exemplaar (nr. 6) de originele handtekening van de betrokkene aangebracht, gevolgd door diens naam en voornaam. Wanneer het een rechtspersoon betreft, dient de handtekening te worden gevolgd door de naam, de voornaam en de functie van de ondertekenaar.
 
-De derde kolom (heffingsvoet) en de vierde kolom (bedrag) en zesde (totaalbedrag) behoeven niet te worden ingevuld. Voor zover deze kolommen wel worden ingevuld, zijn bij foutieve vermelding daaraan geen administratieve of strafrechtelijke gevolgen verbonden.
+Deze toelichting heeft uitsluitend betrekking op de bijzondere basisvereisten die gelden wanneer formulieren worden gebruikt. Wanneer de formaliteiten in verband met het douanevervoer door de uitwisseling van EDI berichten worden vervuld, geldt het bepaalde in deze bijlage behoudens andersluidende bepalingen in de bijlage 9, aanhangsel C2 of D2, van de Gedelegeerde Verordening Douanewetboek van de Unie.
 
 Deze toelichting heeft uitsluitend betrekking op de bijzondere basisvereisten die gelden wanneer formulieren worden gebruikt. Wanneer de formaliteiten in verband met het douanevervoer door de uitwisseling van EDI berichten worden vervuld, geldt het bepaalde in deze bijlage behoudens andersluidende bepalingen in de bijlage 9, aanhangsel C2 of D2, van de Gedelegeerde Verordening Douanewetboek van de Unie.
 
@@ -2443,17 +2419,15 @@ Omschrijving: In het vrije verkeer brengen van goederen met gelijktijdig wederve
 
 Voorafgaande regeling 41
 
-Verbijzondering regeling F43
-
 ### **Titel III. Toelichting op de aanvullende formulieren**
+
+Combinatie code 4041F43
 
 Omschrijving: In het vrije verkeer brengen en tot verbruik aangeven van goederen die ter beëindiging van de onder de regeling actieve veredeling terugbetaling geplaatste goederen met het oog op wederuitvoer in een douane-entrepot waren geplaatst waarbij geen rente op achterstallen.
 
 Voorafgaande regeling 21
 
 Verbijzondering regeling B02
-
-Combinatie code 6321B02
 
 ## Bijlage VII. Bij de Algemene Douaneregeling
 
@@ -2951,11 +2925,11 @@ Verklaring als bedoeld in [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BW
 
 Model van het aangifteformulier, bedoeld in [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=5&afdeling=5.1&artikel=5.1&z=2010-04-01&g=2010-04-01) van de Algemene douaneregeling
 
-Voorafgaande regeling 00
+Omschrijving: Invoer in het kader van de regeling tijdelijke invoer na douane-entrepot opslag. Het betreft hier tijdelijke invoer met gedeeltelijke vrijstelling. De wettelijke bepalingen inzake de omzetbelasting voorzien niet in een vrijstelling waardoor de omzetbelasting is verschuldigd.
 
 ### Titel I. Aankomstmelding
 
-Combinatie code 1100
+Verbijzondering regeling ---
 
 ## Bijlage VII. Bij de Algemene Douaneregeling
 
@@ -4015,17 +3989,17 @@ Vervallen
 
 Het achterwege laten van:
 
-- a. de kennisgeving, bedoeld in [artikel 2:0, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2020-04-01&g=2020-04-01);
+- a. de kennisgeving, bedoeld in [artikel 2:0, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2020-07-01&g=2020-07-01);
 
-- b. de kennisgeving, bedoeld in [artikel 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2020-04-01&g=2020-04-01);
+- b. de kennisgeving, bedoeld in [artikel 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2020-07-01&g=2020-07-01);
 
-- c. het tijdig indienen van de aangifte, bedoeld in [artikel 2:2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-04-01&g=2020-04-01);
+- c. het tijdig indienen van de aangifte, bedoeld in [artikel 2:2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-07-01&g=2020-07-01);
 
-- d. het onverwijld ter beschikking stellen van het overzicht, bedoeld in [artikel 2:2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-04-01&g=2020-04-01);
+- d. het onverwijld ter beschikking stellen van het overzicht, bedoeld in [artikel 2:2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2020-07-01&g=2020-07-01);
 
-- e. de mededeling, bedoeld in [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.2&artikel=2:5&z=2020-04-01&g=2020-04-01); of
+- e. de mededeling, bedoeld in [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.2&artikel=2:5&z=2020-07-01&g=2020-07-01); of
 
-- f. de aankomstmelding, bedoeld in [artikel 6:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1a&z=2020-04-01&g=2020-04-01);
+- f. de aankomstmelding, bedoeld in [artikel 6:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1a&z=2020-07-01&g=2020-07-01);
 
 vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 167.
 
@@ -4259,27 +4233,29 @@ Dit betekent dat belanghebbenden de sets kunnen laten drukken die overeenkomen m
 
 ### **C. Gebruiksaanwijzing van het formulier**
 
-De formulieren en aanvullende formulieren worden gebruikt:
+Wanneer de aangifte voor een douaneregeling wordt gedaan met gebruik van geautomatiseerde systemen (AGS en NCTS) zijn de onderstaande bepalingen betreffende de schriftelijke aangifte mutatis mutandis van toepassing.
 
-Verschillende combinaties van exemplaren zijn dus mogelijk, bijvoorbeeld:
+De aldus te gebruiken formulieren en aanvullende formulieren bestaan uit de exemplaren die nodig zijn voor het vervullen van de formaliteiten voor een of meer douaneregelingen en worden gekozen uit een set van acht exemplaren:
 
 ### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
 ### **C. Gebruiksaanwijzing van het formulier**
 
-Het tweede deelvak behoeft niet te worden ingevuld.
+(Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.)
 
 ### **Deel B. Formaliteiten tijdens het vervoer**
 
-2. Voor halfzware olie en gasolie de aantekening ‘onvermengd’ of ‘voorzien van herkenningsmiddelen’ plaatsen, gevolgd door de desbetreffende nationale code voor bijzondere vermeldingen (zie codeboek Douane onderdeel Aangiftebehandeling tabel A12).
+Indien containers worden gebruikt, dienen in dit vak bovendien de merktekens daarvan te worden vermeld.
 
 ### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, behandeling onder douanetoezicht, opslag in douane-entrepot, binnenbrengen van goederen in vrije zones die aan controles van het type ii zijn onderworpen en tijdelijke opslag**
 
-(Voor een nadere toelichting op het gebruik van de code, zie deel D van Titel II.)
+Het tweede deelvak behoeft niet te worden ingevuld.
 
 ### **Deel D. Toelichting bij de te gebruiken Communautaire- en Nationale Codes op de formulieren van het enig document**
 
-Combinatie code 4041F43
+Verbijzondering regeling F43
+
+Combinatie code 6321B02
 
 Omschrijving: Wederinvoer met gelijktijdige aangifte tot verbruik voor het vrije verkeer van goederen met vrijstelling van omzetbelasting die in een andere lidstaat worden geleverd na passieve veredeling, (eventueel met tussentijds entrepotopslag voorafgaande aan de wederinvoer) bij wijze van herstelling onder garantie, van terugkerende veredelingsproducten.
 
@@ -4289,21 +4265,19 @@ Verbijzondering regeling D51
 
 Combinatie code 5371D51
 
-Omschrijving: Invoer in het kader van de regeling tijdelijke invoer na douane-entrepot opslag. Het betreft hier tijdelijke invoer met gedeeltelijke vrijstelling. De wettelijke bepalingen inzake de omzetbelasting voorzien niet in een vrijstelling waardoor de omzetbelasting is verschuldigd.
-
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
-Verbijzondering regeling ---
+Voorafgaande regeling 00
+
+Combinatie code 1100
 
 Omschrijving: Voorafgaande uitvoer bij actieve verdeling. Er is geen voorafgaande regeling en verbijzondering van de regeling van toepassing.
 
-Voorafgaande regeling 51
-
-Het tweede element (an..3), bestaande uit cijfers of letters of een combinatie van cijfers en letters, geeft de aard van het document aan.
+Het eerste element (a1), dat uit drie verschillende letters bestaat, dient om een onderscheid te maken tussen de drie soorten aangiften.
 
 ### **Algemene aantekening:**
 
-Het derde element (an..25) bevat de identificatie van het document, hetzij het identificatienummer (bestaande uit het voorafgaand artikelnummer (an..4), indien van toepassing, en het nummer van het document (an..21)), hetzij een ander kenmerk.
+In tabel A28 komt onder meer de code ‘CLE’ voor die betekent ‘Datum en kenmerk van inschrijving van de goederen in de administratie’. De datum wordt als volgt gecodeerd: jjjjmmdd.
 
 ## Bijlage XII
 
@@ -4819,9 +4793,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2:0
 
-1. Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur voor de verwachte aankomsttijd bij de haven ressorterend onder het douanekantoor waar ze zullen worden aangebracht, het desbetreffende douanekantoor elektronisch kennis gegeven van de verwachte aankomsttijd.
-
-2. Bij luchtvaartuigen kan de inspecteur toestaan dat wordt afgeweken van het bepaalde in het eerste lid.
+Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur voor de verwachte aankomsttijd in de haven, onderscheidenlijk op de internationale luchthaven ressorterend onder het douanekantoor waar ze zullen worden aangebracht, het desbetreffende douanekantoor elektronisch kennis gegeven van de verwachte aankomsttijd.
 
 ### Afdeling 2.2. Summiere aangifte
 
@@ -4865,7 +4837,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6:1a
 
-1. Het aanbrengen bij het douanekantoor van uitgang, bedoeld in artikel 331, eerste lid, van de Uitvoeringsverordening Douanewetboek van de Unie, vindt plaats met een aankomstmelding. In de aankomstmelding worden de gegevens opgenomen volgens de in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2020-04-01&g=2020-04-01) opgenomen specificaties.
+1. Het aanbrengen bij het douanekantoor van uitgang, bedoeld in artikel 331, eerste lid, van de Uitvoeringsverordening Douanewetboek van de Unie, geschiedt op elektronische wijze met een aankomstmelding waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2020-07-01&g=2020-07-01), titel I, zijn opgenomen.
 
 2. De inspecteur kan toestaan dat wordt afgeweken van het bepaalde in het eerste lid.
 
@@ -5047,11 +5019,11 @@ Vlissingen
 
 ### Titel II. Bericht van lading
 
+Voorafgaande regeling 51
+
 Verbijzondering regeling B51
 
 Combinatie code 2151B51
-
-Omschrijving: Goederen die onder de regeling passieve veredeling worden uitgevoerd die zich op dat moment bevinden onder de regeling actieve veredeling. De goederen worden in het kader van herstelling onder de regeling passieve veredeling geplaatst.
 
 ## Bijlage IX
 
@@ -5059,23 +5031,23 @@ Model van het aangifteformulier als bedoeld in [artikel 5:1, eerste lid](https:/
 
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
-Voorbeelden:
+Het derde element (an..25) bevat de identificatie van het document, hetzij het identificatienummer (bestaande uit het voorafgaand artikelnummer (an..4), indien van toepassing, en het nummer van het document (an..21)), hetzij een ander kenmerk.
 
 ### Titel III. Generale verklaring
+
+Indien het voorafgaand document op basis van het Enig document is opgesteld, bestaat de afkorting van het document uit de voor vak 1, eerste deelvak, voorgeschreven codes. (IM, EX, CO en EU).
 
 De bijzondere vermeldingen op douanegebied worden gecodeerd door middel van een code van vijf cijfers. Deze code wordt na de betrokken vermelding ingevuld, tenzij de bindende EU-rechtshandelingen voorschrijven dat deze code de tekst vervangt.
 
 De codes voor bijzondere EU-vermeldingen zijn als volgt ingedeeld:
 
-De bindende EU-rechtshandelingen schrijven voor dat in andere vakken dan vak 44 bepaalde bijzondere vermeldingen moeten worden aangebracht. Deze worden evenwel volgens dezelfde regels gecodificeerd als de vermeldingen die specifiek in vak 44 moeten worden aangebracht. Wanneer in de bindende EU-rechtshandelingen niet is bepaald in welke vakken een vermelding dient voor te komen, dient deze eveneens in vak 44 te worden aangebracht.
-
 ### Titel III. Generale verklaring
+
+De codes voor bijzondere nationale vermeldingen zijn als volgt ingedeeld:
 
 a. De tot staving van de aangifte overgelegde documenten, certificaten en EU- of internationale vergunningen worden opgegeven door middel van een code bestaande uit 4 alfanumerieke tekens gevolgd door, hetzij een identificatienummer, hetzij een ander kenmerk. De lijst van documenten, certificaten en vergunningen en de overeenkomstige codes zijn in de TARIC-databank opgenomen. Deze lijst is beschikbaar via de Internet website van de douane: http://gebruikstarief.douane.nl.
 
 b. De tot staving van de aangifte overgelegde nationale documenten, certificaten en vergunningen worden vermeld in de vorm van een code bestaande uit een numeriek teken gevolgd door 3 alfanumerieke tekens (bijvoorbeeld 2123, 34d5…), eventueel gevolgd door, hetzij een identificatienummer, hetzij een ander kenmerk.
-
-Type belasting (middelcode)
 
 ## Bijlage XII
 
@@ -5203,7 +5175,7 @@ Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verorde
 
 - –. Wereld Esperanto-Vereniging (UEA), Rotterdam
 
-Vermelding van landen in de rubriek ‘niet geldig voor’:
+De in vak 29 vermelde codes gebruiken.
 
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
@@ -5235,9 +5207,13 @@ Vervallen
 
 Vervallen
 
+## Bijlage VII. Bij de Algemene Douaneregeling
+
+Vervallen
+
 ## Bijlage VIII
 
-Verklaring als bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=4&afdeling=4.1&artikel=4:1&z=2020-04-01&g=2020-04-01) van de Algemene douaneregeling
+Verklaring als bedoeld in [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=4&afdeling=4.1&artikel=4:1&z=2020-07-01&g=2020-07-01) van de Algemene douaneregeling
 
 Ondergetekende,
 
@@ -5264,15 +5240,13 @@ Levens-/registratienummer:
 
 ## Bijlage IX
 
-Model van het aangifteformulier als bedoeld in [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=5&afdeling=5.1&artikel=5.1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling
-
-## Bijlage IXa
+Model van het aangifteformulier als bedoeld in [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=5&afdeling=5.1&artikel=5.1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10:5
 
-De in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:1&z=2020-04-01&g=2020-04-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:2&z=2020-04-01&g=2020-04-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:3&z=2020-04-01&g=2020-04-01), en [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:4&z=2020-04-01&g=2020-04-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:1&z=2020-07-01&g=2020-07-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:2&z=2020-07-01&g=2020-07-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:3&z=2020-07-01&g=2020-07-01), en [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:4&z=2020-07-01&g=2020-07-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
@@ -5360,7 +5334,7 @@ Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande s
 
 ### **B. Te vermelden gegevens**
 
-### **A. Algemeen**
+### **Titel I. Algemene opmerkingen**
 
 ### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
@@ -5374,25 +5348,25 @@ Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande s
 
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
-De in dit vak te vermelden codes zijn alfanumeriek (an..31) Elke code bestaat uit drie verschillende elementen die van elkaar worden gescheiden door een (-).
+Omschrijving: Goederen die onder de regeling passieve veredeling worden uitgevoerd die zich op dat moment bevinden onder de regeling actieve veredeling. De goederen worden in het kader van herstelling onder de regeling passieve veredeling geplaatst.
 
 ## Bijlage IXa
 
 ### Titel I. Aankomstmelding
 
-Indien het voorafgaand document op basis van het Enig document is opgesteld, bestaat de afkorting van het document uit de voor vak 1, eerste deelvak, voorgeschreven codes. (IM, EX, CO en EU).
+Voorbeelden:
 
 ### Titel II. Douanemanifest bij uitgang
 
-De codes voor bijzondere nationale vermeldingen zijn als volgt ingedeeld:
+De bindende EU-rechtshandelingen schrijven voor dat in andere vakken dan vak 44 bepaalde bijzondere vermeldingen moeten worden aangebracht. Deze worden evenwel volgens dezelfde regels gecodificeerd als de vermeldingen die specifiek in vak 44 moeten worden aangebracht. Wanneer in de bindende EU-rechtshandelingen niet is bepaald in welke vakken een vermelding dient voor te komen, dient deze eveneens in vak 44 te worden aangebracht.
 
 ### Titel III. Generale verklaring
 
-De te vermelden code bestaat uit drie elementen en heeft de volgende structuur:
+Type belasting (middelcode)
 
 ## Bijlage XI
 
-De in vak 2 vermelde landencodes gebruiken.
+Vermelding van landen in de rubriek ‘niet geldig voor’:
 
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
@@ -5412,7 +5386,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Titel I. Aankomstmelding
 
-Het eerste element (a1), dat uit drie verschillende letters bestaat, dient om een onderscheid te maken tussen de drie soorten aangiften.
+De in dit vak te vermelden codes zijn alfanumeriek (an..31) Elke code bestaat uit drie verschillende elementen die van elkaar worden gescheiden door een (-).
 
 ## Bijlage XVII
 
@@ -6206,7 +6180,7 @@ Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande s
 
 ### Titel II. Bericht van lading
 
-In tabel A28 komt onder meer de code ‘CLE’ voor die betekent ‘Datum en kenmerk van inschrijving van de goederen in de administratie’. De datum wordt als volgt gecodeerd: jjjjmmdd.
+Het tweede element (an..3), bestaande uit cijfers of letters of een combinatie van cijfers en letters, geeft de aard van het document aan.
 
 ### **Algemene aantekening:**
 
@@ -6406,7 +6380,7 @@ Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.
 
 ### **B. Te vermelden gegevens**
 
-### **Deel A. Formaliteiten bij uitvoer/verzending, opslag in douane-entrepot met voorfinanciering met het oog op uitvoer, wederuitvoer, passieve veredeling, communautair douanevervoer en/of in verband met het bewijs van het communautair karakter van goederen**
+### **B. Te vermelden gegevens**
 
 ### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, behandeling onder douanetoezicht, opslag in douane-entrepot, binnenbrengen van goederen in vrije zones die aan controles van het type ii zijn onderworpen en tijdelijke opslag**
 
@@ -6578,9 +6552,9 @@ De plaatsen, bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci
 
 ### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, behandeling onder douanetoezicht, opslag in douane-entrepot, binnenbrengen van goederen in vrije zones die aan controles van het type ii zijn onderworpen en tijdelijke opslag**
 
-De in vak 29 vermelde codes gebruiken.
+De te vermelden code bestaat uit drie elementen en heeft de volgende structuur:
 
-B. De aanwijzingen in de titels I en II zijn eveneens van toepassing op de aanvullende formulieren.
+A. Aanvullende formulieren mogen slechts worden gebruikt wanneer de aangifte op meerdere artikelen betrekking heeft (zie vak 5) en moeten tezamen met een IM, EX, EU (of, eventueel, CO) formulier worden overgelegd.
 
 C. Wanneer aanvullende formulieren worden gebruikt:
 
@@ -6668,9 +6642,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Titel III. Toelichting op de aanvullende formulieren**
 
-Hierbij wordt echter het volgende opgemerkt:
+B. De aanwijzingen in de titels I en II zijn eveneens van toepassing op de aanvullende formulieren.
 
-C. Wanneer aanvullende formulieren worden gebruikt:
+Hierbij wordt echter het volgende opgemerkt:
 
 ### Titel I. Aankomstmelding
 
@@ -6712,11 +6686,11 @@ Een erkende importeur:
 
 ##### Artikel 3:13c
 
-Overeenkomstig artikel 9, vierde lid, van Gedelegeerde Verordening (EU) 2016/1237 kan de Minister van Landbouw, Natuur en Voedselkwaliteit op verzoek van de erkende importeur overgaan tot verlenging van de in [artikel 3:13b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2020-04-01&g=2020-04-01), genoemde termijn van 12 maanden met één of twee periodes van 6 maanden.
+Overeenkomstig artikel 9, vierde lid, van Gedelegeerde Verordening (EU) 2016/1237 kan de Minister van Landbouw, Natuur en Voedselkwaliteit op verzoek van de erkende importeur overgaan tot verlenging van de in [artikel 3:13b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2020-07-01&g=2020-07-01), genoemde termijn van 12 maanden met één of twee periodes van 6 maanden.
 
 ##### Artikel 3:13d
 
-Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in [artikel 3:13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2020-04-01&g=2020-04-01) stelt de Minister van Landbouw, Natuur en Voedselkwaliteit, in geval het een in een andere lidstaat gevestigde importeur betreft, de bevoegde autoriteit van die lidstaat hiervan in kennis.
+Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in [artikel 3:13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2020-07-01&g=2020-07-01) stelt de Minister van Landbouw, Natuur en Voedselkwaliteit, in geval het een in een andere lidstaat gevestigde importeur betreft, de bevoegde autoriteit van die lidstaat hiervan in kennis.
 
 ##### Artikel 3:13e
 
@@ -6730,7 +6704,7 @@ Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in [artikel 3:13b
 
 ##### Artikel 3:13f
 
-Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen aan het bepaalde in artikel 9 van Gedelegeerde Verordening (EU) 2016/1237 en de [artikelen 3:13a tot en met 3:13e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13a&z=2020-04-01&g=2020-04-01).
+Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen aan het bepaalde in artikel 9 van Gedelegeerde Verordening (EU) 2016/1237 en de [artikelen 3:13a tot en met 3:13e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13a&z=2020-07-01&g=2020-07-01).
 
 #### Paragraaf 1. Algemeen
 
@@ -6746,7 +6720,7 @@ Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen a
 
 1. Een aanvraag voor een invoercertificaat wordt ingediend bij de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-2. De Minister van Landbouw, Natuur en Voedselkwaliteit neemt een aanvraag als bedoeld in het eerste lid alleen in behandeling als de aanvrager beschikt over een ingevolge [artikel 3:16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=1&artikel=3:16a&z=2020-04-01&g=2020-04-01), toegekend recht tot invoer.
+2. De Minister van Landbouw, Natuur en Voedselkwaliteit neemt een aanvraag als bedoeld in het eerste lid alleen in behandeling als de aanvrager beschikt over een ingevolge [artikel 3:16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=1&artikel=3:16a&z=2020-07-01&g=2020-07-01), toegekend recht tot invoer.
 
 ##### Artikel 3:16c
 
@@ -6804,11 +6778,11 @@ Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen a
 
 ##### Artikel 3:16e
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit beslist op een aanvraag als bedoeld in [artikel 3:16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16d&z=2020-04-01&g=2020-04-01), en kan daarbij vaststellen vanaf welke datum de verwerker het recept mag toepassen.
+De Minister van Landbouw, Natuur en Voedselkwaliteit beslist op een aanvraag als bedoeld in [artikel 3:16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16d&z=2020-07-01&g=2020-07-01), en kan daarbij vaststellen vanaf welke datum de verwerker het recept mag toepassen.
 
 ##### Artikel 3:16f
 
-Een verwerker die een nog niet eerder aan de Minister van Landbouw, Natuur en Voedselkwaliteit verstrekt recept wil toepassen, of een eerder aan de Minister van Landbouw, Natuur en Voedselkwaliteit verstrekt recept wil wijzigen dient daartoe een nieuwe aanvraag in overeenkomstig [artikel 3:16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16d&z=2020-04-01&g=2020-04-01).
+Een verwerker die een nog niet eerder aan de Minister van Landbouw, Natuur en Voedselkwaliteit verstrekt recept wil toepassen, of een eerder aan de Minister van Landbouw, Natuur en Voedselkwaliteit verstrekt recept wil wijzigen dient daartoe een nieuwe aanvraag in overeenkomstig [artikel 3:16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16d&z=2020-07-01&g=2020-07-01).
 
 ##### Artikel 3:16g
 
@@ -6832,7 +6806,7 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit kan bij een verwerker of bi
 
 3. De Minister van Landbouw, Natuur en Voedselkwaliteit kan een nieuwe proefbereiding verplicht stellen om het rendement te berekenen.
 
-4. De Minister van Landbouw, Natuur en Voedselkwaliteit trekt een op grond van [artikel 3:16e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16e&z=2020-04-01&g=2020-04-01) verleende toestemming in als uit de proefbereiding blijkt dat het bereide product naar zijn oordeel niet is aan te merken als een A-product of als een B-product.
+4. De Minister van Landbouw, Natuur en Voedselkwaliteit trekt een op grond van [artikel 3:16e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16e&z=2020-07-01&g=2020-07-01) verleende toestemming in als uit de proefbereiding blijkt dat het bereide product naar zijn oordeel niet is aan te merken als een A-product of als een B-product.
 
 5. Een verwerker informeert de Minister van Landbouw, Natuur en Voedselkwaliteit voorafgaand aan de verwerking van grondstoffen tot A-producten of tot B-producten als de grondstoffen naar hun aard of kwaliteit duidelijk afwijken van de bij een proefbereiding verwerkte grondstoffen. In dat geval verricht een verwerker altijd een of meerdere nieuwe proefbereidingen als bedoeld in het eerste lid om het rendement alsnog te berekenen.
 
@@ -6888,7 +6862,7 @@ Een verwerker doet minimaal één maal per zes weken opgave aan de Minister van 
 
 ##### Artikel 3:16l
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit kan ontheffing verlenen van de [artikelen 3:16j](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=3&artikel=3:16j&z=2020-04-01&g=2020-04-01) en [3:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=3&artikel=3:16k&z=2020-04-01&g=2020-04-01) en aan die ontheffing voorwaarden verbinden.
+De Minister van Landbouw, Natuur en Voedselkwaliteit kan ontheffing verlenen van de [artikelen 3:16j](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=3&artikel=3:16j&z=2020-07-01&g=2020-07-01) en [3:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=3&artikel=3:16k&z=2020-07-01&g=2020-07-01) en aan die ontheffing voorwaarden verbinden.
 
 ##### Artikel 3:16m
 
@@ -6902,7 +6876,7 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit kan ontheffing verlenen van
 
 - 2°. om de identiteit en het gebruik van het relevante rundvlees vast te stellen,
 
-- b. meldt iedere relevante bedrijfseenheid uiterlijk binnen de in [artikel 3:16h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16h&z=2020-04-01&g=2020-04-01), bedoelde termijn op welke dagen er A-producten of er B-producten worden verwerkt aan de Nederlandse Voedsel- en Warenautoriteit;
+- b. meldt iedere relevante bedrijfseenheid uiterlijk binnen de in [artikel 3:16h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=2&artikel=3:16h&z=2020-07-01&g=2020-07-01), bedoelde termijn op welke dagen er A-producten of er B-producten worden verwerkt aan de Nederlandse Voedsel- en Warenautoriteit;
 
 - c. houdt iedere relevante bedrijfseenheid op verzoek van de Minister van Landbouw, Natuur en Voedselkwaliteit de verwerkte A-producten of de verwerkte B-producten beschikbaar voor onderzoek, en
 
@@ -6924,7 +6898,7 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit kan ontheffing verlenen van
 
 ##### Artikel 3:16o
 
-1. De Minister van Landbouw, Natuur en Voedselkwaliteit laat een monster onderzoeken als bedoeld in [artikel 3:16n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-04-01&g=2020-04-01).
+1. De Minister van Landbouw, Natuur en Voedselkwaliteit laat een monster onderzoeken als bedoeld in [artikel 3:16n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-07-01&g=2020-07-01).
 
 2. De Minister van Landbouw, Natuur en Voedselkwaliteit besluit in ieder geval dat een product niet voldoet aan de voorwaarden van deze afdeling indien een monster van een A-product:
 
@@ -6948,9 +6922,9 @@ De Minister van Landbouw, Natuur en Voedselkwaliteit kan ontheffing verlenen van
 
 ##### Artikel 3:16p
 
-1. Indien [artikel 3:16o, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16o&z=2020-04-01&g=2020-04-01), van toepassing is, kan een verwerker het alternatieve monster, bedoeld in [artikel 3:16n, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-04-01&g=2020-04-01), bij wijze van een tegenonderzoek door de Minister van Landbouw, Natuur en Voedselkwaliteit laten onderzoeken.
+1. Indien [artikel 3:16o, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16o&z=2020-07-01&g=2020-07-01), van toepassing is, kan een verwerker het alternatieve monster, bedoeld in [artikel 3:16n, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-07-01&g=2020-07-01), bij wijze van een tegenonderzoek door de Minister van Landbouw, Natuur en Voedselkwaliteit laten onderzoeken.
 
-2. Bij toepassing van het eerste lid laat de Minister van Landbouw, Natuur en Voedselkwaliteit de onderzoeksresultaten van een op grond van [artikel 3:16n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-04-01&g=2020-04-01), genomen monster buiten beschouwing en baseert hij een besluit als bedoeld in [artikel 3:16o, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16o&z=2020-04-01&g=2020-04-01), uitsluitend op de resultaten van het onderzoek van het alternatieve monster, bedoeld in artikel 3:16n, vierde lid.
+2. Bij toepassing van het eerste lid laat de Minister van Landbouw, Natuur en Voedselkwaliteit de onderzoeksresultaten van een op grond van [artikel 3:16n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16n&z=2020-07-01&g=2020-07-01), genomen monster buiten beschouwing en baseert hij een besluit als bedoeld in [artikel 3:16o, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2.1&paragraaf=4&artikel=3:16o&z=2020-07-01&g=2020-07-01), uitsluitend op de resultaten van het onderzoek van het alternatieve monster, bedoeld in artikel 3:16n, vierde lid.
 
 ##### Artikel 3:16q
 
@@ -7266,7 +7240,7 @@ Internationale luchthavens als bedoeld in [artikel 2:1, tweede lid](https://wett
 
 ### **Deel B. Formaliteiten tijdens het vervoer**
 
-### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, behandeling onder douanetoezicht, opslag in douane-entrepot, binnenbrengen van goederen in vrije zones die aan controles van het type ii zijn onderworpen en tijdelijke opslag**
+### **Deel B. Formaliteiten tijdens het vervoer**
 
 ### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
 
@@ -7278,11 +7252,11 @@ De in vak 29 vermelde codes gebruiken.
 
 Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om goederen, die geplaatst zijn onder de douaneregeling uitvoer, aan te brengen op het kantoor van uitgang. De ‘Aankomstmelding’ zoals bedoeld in [artikel 6:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1a&z=2020-04-01&g=2020-04-01), van de regeling en artikel 331 van de Uitvoeringsverordening Douanewetboek van de Unie.
 
-Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om goederen, die geplaatst zijn onder de douaneregeling uitvoer, aan te brengen op het kantoor van uitgang. De ‘Aankomstmelding’ zoals bedoeld in [artikel 6:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1a&z=2019-02-20&g=2019-02-20), van de regeling en artikel 331 van de Uitvoeringsverordening Douanewetboek van de Unie.
+Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om goederen, die geplaatst zijn onder de douaneregeling uitvoer, aan te brengen op het kantoor van uitgang. De ‘Aankomstmelding’ zoals bedoeld in [artikel 6:1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1a&z=2020-07-01&g=2020-07-01), van de regeling en artikel 331 van de Uitvoeringsverordening Douanewetboek van de Unie.
 
 Lijst van functionele gegevens die opgenomen moeten worden in het elektronische bericht ‘Bericht van lading’ (‘Douanemanifest bij uitgang’) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2020-04-01&g=2020-04-01), van de regeling.
 
-1 Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 5 een EORI-nummer is vermeld.
+Lijst van functionele gegevens die opgenomen moeten worden in het elektronische bericht ‘Bericht van lading’ (‘Douanemanifest bij uitgang’) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2020-07-01&g=2020-07-01), van de regeling.
 
 ### Titel I. Aankomstmelding
 
@@ -7304,6 +7278,38 @@ Lijst van functionele gegevens die opgenomen moeten worden in het elektronische 
 
 1 Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 5 een EORI-nummer is vermeld.
 
+## Bijlage XV
+
+Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Bartiméus Onderwijs, Zeist
+
+- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
+
+- –. Loket aangepast lezen, ’s-Gravenhage
+
+- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
+
+- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
+
+- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
+
+- –. Sensis Nijmegen, Nijmegen
+
+- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
+
+- –. Stichting Bralectah, Zwolle
+
+- –. Dedicon, Grave
+
+- –. Stichting Fokus Exploitatie, Groningen
+
+- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
+
+- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
+
+- –. Vereniging spierziekten Nederland, Baarn
+
 ## Bijlage XVI
 
 The American Battle Monuments Commission
@@ -7312,9 +7318,517 @@ The Commonwealth War Graves Commission
 
 Volksbund Deutsche Kriegsgräberfürsorge e.v. (uitsluitend voor zover betreft accijnzen en omzetbelasting
 
+Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om van uitgaande vaartuig het uitgaan aan te kondigen (‘vooraanmelding vertrek vervoermiddel’) door middel van een Generale verklaring (IMO/FAL 1 bij vertrek) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2018-07-01&g=2018-11-01), van de regeling.
+
+### **Algemene aantekening:**
+
+2 Deze gegevenselementen zijn optioneel.
+
+## Bijlage XX
+
+Vervallen
+
+## Bijlage XI
+
+## Bijlage XIV
+
+Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
+
+Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
+
+## Bijlage XV
+
+Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Bartiméus Onderwijs, Zeist
+
+- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
+
+- –. Loket aangepast lezen, ’s-Gravenhage
+
+- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
+
+- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
+
+- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
+
+- –. Sensis Nijmegen, Nijmegen
+
+- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
+
+- –. Stichting Bralectah, Zwolle
+
+- –. Dedicon, Grave
+
+- –. Stichting Fokus Exploitatie, Groningen
+
+- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
+
+- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
+
+- –. Vereniging spierziekten Nederland, Baarn
+
+## Bijlage XVI
+
+The American Battle Monuments Commission
+
+The Commonwealth War Graves Commission
+
+Volksbund Deutsche Kriegsgräberfürsorge e.v. (uitsluitend voor zover betreft accijnzen en omzetbelasting
+
+## Bijlage XII
+
+Gereserveerd
+
+## Bijlage XIII
+
+Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft
+
+## Bijlage XIV
+
+Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
+
+Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage XV
+
+Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Bartiméus Onderwijs, Zeist
+
+- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
+
+- –. Loket aangepast lezen, ’s-Gravenhage
+
+- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
+
+- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
+
+- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
+
+- –. Sensis Nijmegen, Nijmegen
+
+- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
+
+- –. Stichting Bralectah, Zwolle
+
+- –. Dedicon, Grave
+
+- –. Stichting Fokus Exploitatie, Groningen
+
+- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
+
+- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
+
+- –. Vereniging spierziekten Nederland, Baarn
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8:7
+
+1. Voor de berekening van de in rekening te brengen rente op achterstallen zoals bedoeld in artikel 114, tweede lid, van het Douanewetboek van de Unie wordt gebruik gemaakt van de volgende formule:
+
+2. In de formule wordt met A het aantal dagen aangegeven waarover rente op achterstallen is verschuldigd en met P de onderscheiden rentepercentages welke over de verschillende periodes zijn verschuldigd.
+
+### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
+
+### Hoofdstuk 10. Bestuurlijke boeten
+
+### Hoofdstuk 11. Strafrechtelijke bepalingen
+
+##### Artikel 11:1
+
+Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:2
+
+Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:3
+
+Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:4
+
+Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:5
+
+Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
+
+- a. goederen lost, laadt, overlaadt, inslaat of uitslaat;
+
+- b. goederen als bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2017-07-01&g=2017-07-01) verder landinwaarts brengt dan tot de eerste plaats waar zij tegen beschadiging door het zeewater zijn beveiligd; of
+
+- c. een binnengekomen schip dan wel een binnengekomen luchtvaartuig laat vertrekken van de haven of de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2017-07-01&g=2017-07-01), onderscheidenlijk tweede lid;
+
+maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:6
+
+Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
+
+##### Artikel 11:7
+
+Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
+
+### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
+
+##### Artikel 12:1
+
+1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
+
+2. Indien de goederen een spoedige, aanmerkelijke waardevermindering onderhevig zijn of indien de bewaring of het onderhoud ervan een gevaar oplevert dan wel hoge kosten met zich meebrengt, wordt, in afwijking van het eerste lid, van de inbeslagneming op door inspecteur te bepalen wijze, naar plaatselijk gebruik, in het openbaar mededeling gedaan.
+
+3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
+
+##### Artikel 12:2
+
+Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
+
+### Hoofdstuk 12a. Overgangsrecht
+
+### Hoofdstuk 11. Strafrechtelijke bepalingen
+
+## Bijlage V
+
+Plaatsen waar schepen en de daarmee vervoerde goederen eveneens kunnen worden aangebracht
+
+De plaatsen, bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2018-03-08&g=2018-03-08), van de Algemene douaneregeling, zijn:
+
+- –. Eemshaven rede en Oterdum rede;
+
+- –. Ankerplaatsen Den Helder A t/m Q (Adm. chart 1546);
+
+- –. IJmuiden deep draft area en recommended anchor area;
+
+- –. Ankerplaats Scheveningen;
+
+- –. Deepdraft 1 en 2;
+
+- –. Maas outer 3 – Maas West 4 en Maas Noord 5;
+
+- –. Wielingen-Noord bewesten de W8;
+
+- –. Wielingen-Zuid beoosten de W8;
+
+- –. Wielingen-Zuid bewesten het haventje van Nieuwe Sluis;
+
+- –. Rede van Vlissingen incl. oostelijk deel Springergeul, Merlemon, Everingen A t/m E;
+
+- –. Put van Terneuzen A t/m C.
+
+### **Toelichting Enig document**
+
+### **Titel I. Algemene opmerkingen**
+
+### **C. Gebruiksaanwijzing van het formulier**
+
+### **Titel II. Aanwijzingen voor het invullen van de vakken**
+
+### **Deel B. Formaliteiten tijdens het vervoer**
+
+### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, opslag in douane-entrepot en tijdelijke opslag**
+
+### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
+
+### Titel II. Douanemanifest bij uitgang
+
+1 Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 5 een EORI-nummer is vermeld.
+
+### Titel III. Generale verklaring
+
+Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om van uitgaande vaartuig het uitgaan aan te kondigen (‘vooraanmelding vertrek vervoermiddel’) door middel van een Generale verklaring (IMO/FAL 1 bij vertrek) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2020-04-01&g=2020-04-01), van de regeling.
+
+Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om van uitgaande vaartuig het uitgaan aan te kondigen (‘vooraanmelding vertrek vervoermiddel’) door middel van een Generale verklaring (IMO/FAL 1 bij vertrek) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2020-07-01&g=2020-07-01), van de regeling.
+
+1 Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 7 een EORI-nummer is vermeld.
+
+## Bijlage X
+
+Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Algemeen Pedagogisch studiecentrum, Amsterdam
+
+- –. Anne Frank Stichting, Amsterdam
+
+- –. Avans Hogeschool, locatie Breda, Breda
+
+- –. Avans Hogeschool, locatie Den Bosch, ’s-Hertogenbosch
+
+- –. Avans Hogeschool, locatie Tilburg, Tilburg
+
+- –. Conservatorium van Amsterdam, Amsterdam
+
+- –. De Amsterdamse Toneelschool en Kleinkunstacademie, Amsterdam
+
+- –. Fontys Hogescholen, Maastricht
+
+- –. Fontys Hogescholen, Venlo
+
+- –. Fontys Hogeschool, Eindhoven
+
+- –. Fontys Hogeschool, Sittard
+
+- –. Fryske Akademy, Leeuwarden
+
+- –. Gemeente Delft, Erfgoed Delft eo, Delft
+
+- –. Hendrick Hamel Foundation, Gorinchem
+
+- –. Het Nederlandse Rode Kruis, ’s-Gravenhage
+
+- –. Hogeschool Enschede, Enschede
+
+- –. Hogeschool Haarlem, Haarlem
+
+- –. Instituut voor de Lerarenopleiding, Amsterdam
+
+- –. Internationaal Agrarisch Centrum, Wageningen
+
+- –. Internationaal Instituut voor Sociale Geschiedenis, Amsterdam
+
+- –. KWF Kankerbestrijding, Amsterdam
+
+- –. Koninklijke Bibliotheek, Den Haag
+
+- –. Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden
+
+- –. Museum der Koninklijke Marechaussee, Buren
+
+- –. Nederlands Bijbelgenootschap, Haarlem
+
+- –. Nederlandsch Economisch Historisch Archief, Amsterdam
+
+- –. Nederlandse Hartstichting, ’s-Gravenhage
+
+- –. Nederlandse Stichting voor Leprabestrijding, Amsterdam
+
+- –. EYE Film Instituut, Amsterdam
+
+- –. Nederlandse Omroep Stichting, Hilversum
+
+- –. Rotary Administratie Nederland, Amsterdam
+
+- –. Secretariaat Rooms Katholiek Kerkgenootschap, Utrecht
+
+- –. Stichting Afasietherapie Amsterdam, Amsterdam
+
+- –. Stichting Afrika Studiecentrum, Leiden
+
+- –. Stichting Ammonietenhoeve/Oertijdmuseum, Boxtel
+
+- –. Stichting Nederlandse Ontwikkelingsorganisatie (SNV), ’s-Gravenhage
+
+- –. Stichting Gemeentemuseum Den Haag, Den Haag
+
+- –. Stichting Hanzehogeschool, Groningen
+
+- –. Stichting Indian Film Festival The Hague, Den Haag
+
+- –. Stichting Leerplan Ontwikkeling, Enschede
+
+- –. Stichting Maritiem Museum, Rotterdam
+
+- –. Stichting Museon (Museum voor het Onderwijs), Den Haag
+
+- –. Stichting Nationaal Museum van Wereldculturen, Leiden
+
+- –. Stichting Naturalis Biodiversity Center, Leiden
+
+- –. Stichting Natuur en Milieu, Utrecht
+
+- –. Stichting Nederlands Instituut voor Beeld en Geluid, Hilversum
+
+- –. Stichting Nuffic, Den Haag
+
+- –. Stichting Rijksmuseum van Oudheden, Leiden
+
+- –. Stichting tot Beheer Museum Boijmans van Beuningen, Rotterdam
+
+- –. Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie, Den Haag
+
+- –. Stichting vrienden van het Mauritshuis, ’s-Gravenhage
+
+- –. Stichting Vroege Vogels, Lelystad
+
+- –. Technische Universiteit Delft, Afdeling Bibliotheek, Delft
+
+- –. Theologische Universiteit, Kampen
+
+- –. Toneel Academie Maastricht, Maastricht
+
+- –. Universiteit Leiden, Leiden
+
+- –. Universiteit Nyenrode, Breukelen
+
+- –. Universiteitsbibliotheek Universiteit van Amsterdam, Amsterdam
+
+- –. Vereniging Koninklijk Instituut voor de Tropen, KIT bibliotheek, Amsterdam
+
+- –. Vereniging voor Christelijk wetenschappelijk onderwijs,Universiteitsbibliotheek Vrije Universiteit, Amsterdam
+
+- –. Vrienden van de Hartstichting, ’s-Gravenhage
+
+- –. Wereld Esperanto-Vereniging (UEA), Rotterdam
+
+## Bijlage X
+
+Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Algemeen Pedagogisch studiecentrum, Amsterdam
+
+- –. Anne Frank Stichting, Amsterdam
+
+- –. Avans Hogeschool, locatie Breda, Breda
+
+- –. Avans Hogeschool, locatie Den Bosch, ’s-Hertogenbosch
+
+- –. Avans Hogeschool, locatie Tilburg, Tilburg
+
+- –. Conservatorium van Amsterdam, Amsterdam
+
+- –. De Amsterdamse Toneelschool en Kleinkunstacademie, Amsterdam
+
+- –. Fontys Hogescholen, Maastricht
+
+- –. Fontys Hogescholen, Venlo
+
+- –. Fontys Hogeschool, Eindhoven
+
+- –. Fontys Hogeschool, Sittard
+
+- –. Fryske Akademy, Leeuwarden
+
+- –. Gemeente Delft, Erfgoed Delft eo, Delft
+
+- –. Hendrick Hamel Foundation, Gorinchem
+
+- –. Het Nederlandse Rode Kruis, ’s-Gravenhage
+
+- –. Hogeschool Enschede, Enschede
+
+- –. Hogeschool Haarlem, Haarlem
+
+- –. Instituut voor de Lerarenopleiding, Amsterdam
+
+- –. Internationaal Agrarisch Centrum, Wageningen
+
+- –. Internationaal Instituut voor Sociale Geschiedenis, Amsterdam
+
+- –. KWF Kankerbestrijding, Amsterdam
+
+- –. Koninklijke Bibliotheek, Den Haag
+
+- –. Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden
+
+- –. Museum der Koninklijke Marechaussee, Buren
+
+- –. Nederlands Bijbelgenootschap, Haarlem
+
+- –. Nederlandsch Economisch Historisch Archief, Amsterdam
+
+- –. Nederlandse Hartstichting, ’s-Gravenhage
+
+- –. Nederlandse Stichting voor Leprabestrijding, Amsterdam
+
+- –. EYE Film Instituut, Amsterdam
+
+- –. Nederlandse Omroep Stichting, Hilversum
+
+- –. Rotary Administratie Nederland, Amsterdam
+
+- –. Secretariaat Rooms Katholiek Kerkgenootschap, Utrecht
+
+- –. Stichting Afasietherapie Amsterdam, Amsterdam
+
+- –. Stichting Afrika Studiecentrum, Leiden
+
+- –. Stichting Ammonietenhoeve/Oertijdmuseum, Boxtel
+
+- –. Stichting Nederlandse Ontwikkelingsorganisatie (SNV), ’s-Gravenhage
+
+- –. Stichting Gemeentemuseum Den Haag, Den Haag
+
+- –. Stichting Hanzehogeschool, Groningen
+
+- –. Stichting Indian Film Festival The Hague, Den Haag
+
+- –. Stichting Leerplan Ontwikkeling, Enschede
+
+- –. Stichting Maritiem Museum, Rotterdam
+
+- –. Stichting Museon (Museum voor het Onderwijs), Den Haag
+
+- –. Stichting Nationaal Museum van Wereldculturen, Leiden
+
+- –. Stichting Naturalis Biodiversity Center, Leiden
+
+- –. Stichting Natuur en Milieu, Utrecht
+
+- –. Stichting Nederlands Instituut voor Beeld en Geluid, Hilversum
+
+- –. Stichting Nuffic, Den Haag
+
+- –. Stichting Rijksmuseum van Oudheden, Leiden
+
+- –. Stichting tot Beheer Museum Boijmans van Beuningen, Rotterdam
+
+- –. Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie, Den Haag
+
+- –. Stichting vrienden van het Mauritshuis, ’s-Gravenhage
+
+- –. Stichting Vroege Vogels, Lelystad
+
+- –. Technische Universiteit Delft, Afdeling Bibliotheek, Delft
+
+- –. Theologische Universiteit, Kampen
+
+- –. Toneel Academie Maastricht, Maastricht
+
+- –. Universiteit Leiden, Leiden
+
+- –. Universiteit Nyenrode, Breukelen
+
+- –. Universiteitsbibliotheek Universiteit van Amsterdam, Amsterdam
+
+- –. Vereniging Koninklijk Instituut voor de Tropen, KIT bibliotheek, Amsterdam
+
+- –. Vereniging voor Christelijk wetenschappelijk onderwijs,Universiteitsbibliotheek Vrije Universiteit, Amsterdam
+
+- –. Vrienden van de Hartstichting, ’s-Gravenhage
+
+- –. Wereld Esperanto-Vereniging (UEA), Rotterdam
+
+### **Algemene aantekening:**
+
+## Bijlage XII
+
+Gereserveerd
+
+## Bijlage XII
+
+Gereserveerd
+
+## Bijlage XIII
+
+Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
+
+- –. Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft
+
+## Bijlage XIV
+
+Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
+
+Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
+
 ## Bijlage XVII
 
-De diplomatieke of beroepsconsulaire dan wel honorair consulair vertegenwoordigingen in Nederland, bedoeld in de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-04-01&g=2020-04-01), [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-04-01&g=2020-04-01), [7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:11&z=2020-04-01&g=2020-04-01) en [7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:12&z=2020-04-01&g=2020-04-01) van de Algemene douaneregeling, zijn:
+De diplomatieke of beroepsconsulaire dan wel honorair consulair vertegenwoordigingen in Nederland, bedoeld in de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2020-07-01&g=2020-07-01), [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2020-07-01&g=2020-07-01), [7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:11&z=2020-07-01&g=2020-07-01) en [7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:12&z=2020-07-01&g=2020-07-01) van de Algemene douaneregeling, zijn:
 
 - –. Consulaat (honorair) van Afghanistan, Rotterdam
 
@@ -7906,419 +8420,9 @@ De diplomatieke of beroepsconsulaire dan wel honorair consulair vertegenwoordigi
 
 - –. Ambassade van de Zwitserse Bondsstaat, ’s-Gravenhage
 
-Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om van uitgaande vaartuig het uitgaan aan te kondigen (‘vooraanmelding vertrek vervoermiddel’) door middel van een Generale verklaring (IMO/FAL 1 bij vertrek) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2018-07-01&g=2018-11-01), van de regeling.
-
-### **Algemene aantekening:**
-
-2 Deze gegevenselementen zijn optioneel.
-
-## Bijlage XX
-
-Vervallen
-
-## Bijlage XI
-
-## Bijlage XIV
-
-Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
-
-Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
-
-## Bijlage XV
-
-Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Bartiméus Onderwijs, Zeist
-
-- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
-
-- –. Loket aangepast lezen, ’s-Gravenhage
-
-- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
-
-- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
-
-- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
-
-- –. Sensis Nijmegen, Nijmegen
-
-- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
-
-- –. Stichting Bralectah, Zwolle
-
-- –. Dedicon, Grave
-
-- –. Stichting Fokus Exploitatie, Groningen
-
-- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
-
-- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
-
-- –. Vereniging spierziekten Nederland, Baarn
-
-## Bijlage XVI
-
-The American Battle Monuments Commission
-
-The Commonwealth War Graves Commission
-
-Volksbund Deutsche Kriegsgräberfürsorge e.v. (uitsluitend voor zover betreft accijnzen en omzetbelasting
-
-## Bijlage XII
-
-Gereserveerd
-
-## Bijlage XIII
-
-Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft
-
-## Bijlage XIV
-
-Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
-
-Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage XV
-
-Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Bartiméus Onderwijs, Zeist
-
-- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
-
-- –. Loket aangepast lezen, ’s-Gravenhage
-
-- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
-
-- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
-
-- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
-
-- –. Sensis Nijmegen, Nijmegen
-
-- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
-
-- –. Stichting Bralectah, Zwolle
-
-- –. Dedicon, Grave
-
-- –. Stichting Fokus Exploitatie, Groningen
-
-- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
-
-- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
-
-- –. Vereniging spierziekten Nederland, Baarn
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8:7
-
-1. Voor de berekening van de in rekening te brengen rente op achterstallen zoals bedoeld in artikel 114, tweede lid, van het Douanewetboek van de Unie wordt gebruik gemaakt van de volgende formule:
-
-2. In de formule wordt met A het aantal dagen aangegeven waarover rente op achterstallen is verschuldigd en met P de onderscheiden rentepercentages welke over de verschillende periodes zijn verschuldigd.
-
-### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
-
-### Hoofdstuk 10. Bestuurlijke boeten
-
-### Hoofdstuk 11. Strafrechtelijke bepalingen
-
-##### Artikel 11:1
-
-Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:2
-
-Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:3
-
-Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:4
-
-Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:5
-
-Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
-
-- a. goederen lost, laadt, overlaadt, inslaat of uitslaat;
-
-- b. goederen als bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2017-07-01&g=2017-07-01) verder landinwaarts brengt dan tot de eerste plaats waar zij tegen beschadiging door het zeewater zijn beveiligd; of
-
-- c. een binnengekomen schip dan wel een binnengekomen luchtvaartuig laat vertrekken van de haven of de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2017-07-01&g=2017-07-01), onderscheidenlijk tweede lid;
-
-maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:6
-
-Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
-
-##### Artikel 11:7
-
-Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
-
-### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
-
-##### Artikel 12:1
-
-1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
-
-2. Indien de goederen een spoedige, aanmerkelijke waardevermindering onderhevig zijn of indien de bewaring of het onderhoud ervan een gevaar oplevert dan wel hoge kosten met zich meebrengt, wordt, in afwijking van het eerste lid, van de inbeslagneming op door inspecteur te bepalen wijze, naar plaatselijk gebruik, in het openbaar mededeling gedaan.
-
-3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
-
-##### Artikel 12:2
-
-Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
-
-### Hoofdstuk 12a. Overgangsrecht
-
-### Hoofdstuk 11. Strafrechtelijke bepalingen
-
-## Bijlage V
-
-Plaatsen waar schepen en de daarmee vervoerde goederen eveneens kunnen worden aangebracht
-
-De plaatsen, bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2018-03-08&g=2018-03-08), van de Algemene douaneregeling, zijn:
-
-- –. Eemshaven rede en Oterdum rede;
-
-- –. Ankerplaatsen Den Helder A t/m Q (Adm. chart 1546);
-
-- –. IJmuiden deep draft area en recommended anchor area;
-
-- –. Ankerplaats Scheveningen;
-
-- –. Deepdraft 1 en 2;
-
-- –. Maas outer 3 – Maas West 4 en Maas Noord 5;
-
-- –. Wielingen-Noord bewesten de W8;
-
-- –. Wielingen-Zuid beoosten de W8;
-
-- –. Wielingen-Zuid bewesten het haventje van Nieuwe Sluis;
-
-- –. Rede van Vlissingen incl. oostelijk deel Springergeul, Merlemon, Everingen A t/m E;
-
-- –. Put van Terneuzen A t/m C.
-
-### **Toelichting Enig document**
-
-### **Titel I. Algemene opmerkingen**
-
-### **C. Gebruiksaanwijzing van het formulier**
-
-### **Titel II. Aanwijzingen voor het invullen van de vakken**
-
-### **Deel B. Formaliteiten tijdens het vervoer**
-
-### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, opslag in douane-entrepot en tijdelijke opslag**
-
-### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
-
-### Titel II. Douanemanifest bij uitgang
-
-2 Deze gegevenselementen zijn optioneel.
-
-### Titel III. Generale verklaring
-
-Lijst van functionele gegevenselementen die opgenomen moeten worden in het elektronische bericht om van uitgaande vaartuig het uitgaan aan te kondigen (‘vooraanmelding vertrek vervoermiddel’) door middel van een Generale verklaring (IMO/FAL 1 bij vertrek) zoals bedoeld in [artikel 6:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:2&z=2020-04-01&g=2020-04-01), van de regeling.
-
-1 Deze gegevens hoeven niet te worden vermeld als bij gegevenselement 7 een EORI-nummer is vermeld.
-
-2 Deze gegevenselementen zijn optioneel.
-
-## Bijlage X
-
-Instellingen en organisaties als bedoeld in artikel 43, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Algemeen Pedagogisch studiecentrum, Amsterdam
-
-- –. Anne Frank Stichting, Amsterdam
-
-- –. Avans Hogeschool, locatie Breda, Breda
-
-- –. Avans Hogeschool, locatie Den Bosch, ’s-Hertogenbosch
-
-- –. Avans Hogeschool, locatie Tilburg, Tilburg
-
-- –. Conservatorium van Amsterdam, Amsterdam
-
-- –. De Amsterdamse Toneelschool en Kleinkunstacademie, Amsterdam
-
-- –. Fontys Hogescholen, Maastricht
-
-- –. Fontys Hogescholen, Venlo
-
-- –. Fontys Hogeschool, Eindhoven
-
-- –. Fontys Hogeschool, Sittard
-
-- –. Fryske Akademy, Leeuwarden
-
-- –. Gemeente Delft, Erfgoed Delft eo, Delft
-
-- –. Hendrick Hamel Foundation, Gorinchem
-
-- –. Het Nederlandse Rode Kruis, ’s-Gravenhage
-
-- –. Hogeschool Enschede, Enschede
-
-- –. Hogeschool Haarlem, Haarlem
-
-- –. Instituut voor de Lerarenopleiding, Amsterdam
-
-- –. Internationaal Agrarisch Centrum, Wageningen
-
-- –. Internationaal Instituut voor Sociale Geschiedenis, Amsterdam
-
-- –. KWF Kankerbestrijding, Amsterdam
-
-- –. Koninklijke Bibliotheek, Den Haag
-
-- –. Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden
-
-- –. Museum der Koninklijke Marechaussee, Buren
-
-- –. Nederlands Bijbelgenootschap, Haarlem
-
-- –. Nederlandsch Economisch Historisch Archief, Amsterdam
-
-- –. Nederlandse Hartstichting, ’s-Gravenhage
-
-- –. Nederlandse Stichting voor Leprabestrijding, Amsterdam
-
-- –. EYE Film Instituut, Amsterdam
-
-- –. Nederlandse Omroep Stichting, Hilversum
-
-- –. Rotary Administratie Nederland, Amsterdam
-
-- –. Secretariaat Rooms Katholiek Kerkgenootschap, Utrecht
-
-- –. Stichting Afasietherapie Amsterdam, Amsterdam
-
-- –. Stichting Afrika Studiecentrum, Leiden
-
-- –. Stichting Ammonietenhoeve/Oertijdmuseum, Boxtel
-
-- –. Stichting Nederlandse Ontwikkelingsorganisatie (SNV), ’s-Gravenhage
-
-- –. Stichting Gemeentemuseum Den Haag, Den Haag
-
-- –. Stichting Hanzehogeschool, Groningen
-
-- –. Stichting Indian Film Festival The Hague, Den Haag
-
-- –. Stichting Leerplan Ontwikkeling, Enschede
-
-- –. Stichting Maritiem Museum, Rotterdam
-
-- –. Stichting Museon (Museum voor het Onderwijs), Den Haag
-
-- –. Stichting Nationaal Museum van Wereldculturen, Leiden
-
-- –. Stichting Naturalis Biodiversity Center, Leiden
-
-- –. Stichting Natuur en Milieu, Utrecht
-
-- –. Stichting Nederlands Instituut voor Beeld en Geluid, Hilversum
-
-- –. Stichting Nuffic, Den Haag
-
-- –. Stichting Rijksmuseum van Oudheden, Leiden
-
-- –. Stichting tot Beheer Museum Boijmans van Beuningen, Rotterdam
-
-- –. Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie, Den Haag
-
-- –. Stichting vrienden van het Mauritshuis, ’s-Gravenhage
-
-- –. Stichting Vroege Vogels, Lelystad
-
-- –. Technische Universiteit Delft, Afdeling Bibliotheek, Delft
-
-- –. Theologische Universiteit, Kampen
-
-- –. Toneel Academie Maastricht, Maastricht
-
-- –. Universiteit Leiden, Leiden
-
-- –. Universiteit Nyenrode, Breukelen
-
-- –. Universiteitsbibliotheek Universiteit van Amsterdam, Amsterdam
-
-- –. Vereniging Koninklijk Instituut voor de Tropen, KIT bibliotheek, Amsterdam
-
-- –. Vereniging voor Christelijk wetenschappelijk onderwijs,Universiteitsbibliotheek Vrije Universiteit, Amsterdam
-
-- –. Vrienden van de Hartstichting, ’s-Gravenhage
-
-- –. Wereld Esperanto-Vereniging (UEA), Rotterdam
-
-## Bijlage XI
-
-### **Algemene aantekening:**
-
-## Bijlage XII
-
-Gereserveerd
-
-## Bijlage XIII
-
-Instellingen en organisaties als bedoeld in artikel 53, tweede lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Toegepast Natuurwetenschappelijk Onderzoek (TNO), Delft
-
-## Bijlage XIV
-
-Geadresseerden als bedoeld in artikel 59 van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324):
-
-Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
-
-## Bijlage XV
-
-Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderdeel b, en 68, eerste lid, onderdeel b, van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb EU 2009, L 324).
-
-- –. Bartiméus Onderwijs, Zeist
-
-- –. Blindenbibliotheek ‘Le Sage ten Broek’, Nijmegen
-
-- –. Loket aangepast lezen, ’s-Gravenhage
-
-- –. Nederlandse Schaakvereniging voor Visueel Gehandicapten, Bovensmilde
-
-- –. Nederlandse Stomavereniging Harry Bacon, Amsterdam
-
-- –. Sarcoidose Belangenvereniging Nederland, Nijkerk
-
-- –. Sensis Nijmegen, Nijmegen
-
-- –. Stichting Adriaan Moonen Licht en Liefde verzorgingshuis voor visueel gehandicapten, Maastricht
-
-- –. Stichting Bralectah, Zwolle
-
-- –. Dedicon, Grave
-
-- –. Stichting Fokus Exploitatie, Groningen
-
-- –. Stichting Koninklijk Nederlands Geleidehonden Fonds, Amstelveen
-
-- –. Landelijke Stichting voor Blinden en Slechtzienden, Utrecht
-
-- –. Vereniging spierziekten Nederland, Baarn
-
 ## Bijlage XVIII
 
-De internationale organisaties, bedoeld in [artikel 7:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:13&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling, zijn:
+De internationale organisaties, bedoeld in [artikel 7:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:13&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling, zijn:
 
 - a. United Nations:
 
@@ -8388,7 +8492,7 @@ De internationale organisaties, bedoeld in [artikel 7:13, eerste lid](https://we
 
 ## Bijlage XIX
 
-De internationale organisaties, bedoeld in [artikel 7:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:14&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling, zijn:
+De internationale organisaties, bedoeld in [artikel 7:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:14&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling, zijn:
 
 - a. United Nations:
 
@@ -8455,10 +8559,6 @@ De internationale organisaties, bedoeld in [artikel 7:14, eerste lid](https://we
 - s. de Nederlandse Taalunie, ‘s-Gravenhage
 
 - t. Benelux Bureau voor Intellectuele Eigendom (BBIE), ’s-Gravenhage
-
-## Bijlage XX
-
-Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -8694,7 +8794,7 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 
 ### **A. Algemeen**
 
-### **B. Te vermelden gegevens**
+### **A. Algemeen**
 
 ##### Artikel 7:16a
 
@@ -8728,7 +8828,7 @@ Deze afdeling is van overeenkomstige toepassing op buitenlandse strijdkrachten, 
 
 ##### Artikel 7:16b
 
-De [artikelen 7:16e tot en met 7:16h](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2020-04-01&g=2020-04-01) zijn niet van toepassing op:
+De [artikelen 7:16e tot en met 7:16h](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2020-07-01&g=2020-07-01) zijn niet van toepassing op:
 
 - a. militair personeel dat de Nederlandse nationaliteit heeft en behoort tot het personeel van de buitenlandse NAVO-strijdkrachten, maar in dienst is van de Nederlandse strijdkrachten alsmede op de gezinsleden van dat personeel;
 
@@ -8786,7 +8886,7 @@ Vrijstelling van rechten bij invoer wordt verleend voor de tijdelijke invoer van
 
 ##### Artikel 7:16g
 
-1. De [artikelen 7:16e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2020-04-01&g=2020-04-01) en [7:16f](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16f&z=2020-04-01&g=2020-04-01) zijn van overeenkomstige toepassing op het personeel van buitenlandse NAVO-strijdkrachten en gezinsleden daarvan voor zover die in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening zijn gestationeerd, maar in Nederland wonen of verblijven.
+1. De [artikelen 7:16e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2020-07-01&g=2020-07-01) en [7:16f](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16f&z=2020-07-01&g=2020-07-01) zijn van overeenkomstige toepassing op het personeel van buitenlandse NAVO-strijdkrachten en gezinsleden daarvan voor zover die in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening zijn gestationeerd, maar in Nederland wonen of verblijven.
 
 2. Het eerste lid is niet van toepassing op personeelsleden van buitenlandse NAVO-strijdkrachten en van hun civiele diensten met de Belgische of Duitse nationaliteit die in Nederland wonen, maar die in hun eigen land zijn gestationeerd.
 
@@ -8806,7 +8906,7 @@ In dat geval zijn die leden verplicht een kopie daarvan alsnog door hun commanda
 
 ##### Artikel 7:16h
 
-1. Voor de toepassing van de [artikelen 7:16d tot en met 7:16g](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16d&z=2020-04-01&g=2020-04-01) kan het formulier 302 worden gebruikt als douaneaangifte voor zover de invoer van goederen geschiedt door, namens of ten behoeve van de buitenlandse NAVO-strijdkrachten.
+1. Voor de toepassing van de [artikelen 7:16d tot en met 7:16g](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16d&z=2020-07-01&g=2020-07-01) kan het formulier 302 worden gebruikt als douaneaangifte voor zover de invoer van goederen geschiedt door, namens of ten behoeve van de buitenlandse NAVO-strijdkrachten.
 
 2. De commandant legt bij de inspecteur een lijst over met de namen, rang, functie en handtekening van de personen die, na de aankomst van de goederen op de plaats van bestemming, bevoegd zijn tot het ondertekenen van de verklaring van ontvangst op het formulier 302.
 
@@ -9004,9 +9104,43 @@ Amsterdam
 
 Groningen
 
+## Bijlage I
+
+Plaatsen van vestiging van douanekantoren als bedoeld in artikel 159, eerste lid, van het Douanewetboek van de Unie en [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2020-07-01&g=2020-07-01) van de Algemene douaneregeling.
+
+Maastricht-Aachen Airport
+
+Brunssum (Afnorth)
+
+Duiven
+
+Groningen Airport Eelde
+
+Eemshaven
+
+Eindhoven Airport
+
+Moerdijk
+
+De Lutte
+
+Rotterdam
+
+Rotterdam The Hague Airport
+
+Schiphol
+
+Venlo
+
+Vlissingen
+
+Amsterdam
+
+Groningen
+
 ## Bijlage II
 
-Vaarwaters voor binnenkomst ([artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01) Algemene douaneregeling) onderscheidenlijk voor uitgang ([artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:3&z=2020-04-01&g=2020-04-01) Algemene douaneregeling)
+Vaarwaters voor binnenkomst ([artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01) Algemene douaneregeling) onderscheidenlijk voor uitgang ([artikel 6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:3&z=2020-07-01&g=2020-07-01) Algemene douaneregeling)
 
 Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande schepen worden aangewezen de grootscheepse vaarwaters van de Noordzee vice versa:
 
@@ -9042,7 +9176,7 @@ Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande s
 
 ## Bijlage III
 
-Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling en douanekantoren van uitgang als bedoeld in [artikel 6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling
+Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling en douanekantoren van uitgang als bedoeld in [artikel 6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling
 
 - 1. In de volgende plaatsen zijn douanekantoren gevestigd voor het aanbrengen en aangeven van uit zee binnengebrachte goederen, onderscheidenlijk voor goederen die over zee zullen uitgaan:
 
@@ -9062,15 +9196,17 @@ Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.
 
 ## Bijlage IV
 
-Internationale luchthavens als bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling, douanekantoren als bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling, alsmede douanekantoren van uitgang als bedoeld in [artikel 6:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling
+Internationale luchthavens als bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling, douanekantoren als bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling, alsmede douanekantoren van uitgang als bedoeld in [artikel 6:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=6&artikel=6:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling
 
 - 1. In de volgende plaatsen zijn ten behoeve van de genoemde internationale luchthavens douanekantoren gevestigd voor het aanbrengen en aangeven op de van door de lucht binnengebrachte goederen, onderscheidenlijk voor goederen die door de lucht zullen uitgaan:
+
+- *. Amsterdam: – voor luchtvaartuigen met bestemming de internationale luchthaven van Den Helder Airport;
 
 - *. Duiven: – voor luchtvaartuigen met bestemming de internationale luchthavens van Hilversum, Lelystad Airport en Teuge;
 
 - *. De Lutte: – voor luchtvaartuigen met bestemming de internationale luchthaven van Enschede Airport Twente;
 
-- *. Groningen Airport Eelde: – voor luchtvaartuigen met bestemming de internationale luchthavens van Groningen Airport Eelde, Leeuwarden en Texel;
+- *. Groningen Airport Eelde: – voor luchtvaartuigen met bestemming de internationale luchthavens van Groningen Airport Eelde, Leeuwarden, Texel en Heliport Eemshaven;
 
 - *. Maastricht-Aachen Airport: – voor luchtvaartuigen met bestemming de internationale luchthaven van Maastricht-Aachen Airport;
 
@@ -9082,41 +9218,13 @@ Internationale luchthavens als bedoeld in [artikel 2:1, tweede lid](https://wett
 
 - *. Rotterdam The Hague Airport: – voor luchtvaartuigen met bestemming de internationale luchthaven van Rotterdam The Hague Airport.
 
-- *. Schiphol: – voor luchtvaartuigen met bestemming de internationale luchthavens van Den Helder Airport en Amsterdam Airport Schiphol.
+- *. Schiphol: – voor luchtvaartuigen met bestemming de internationale luchthaven Amsterdam Airport Schiphol.
 
 - 2. de aanwijzing van Gilze-Rijen, Woensdrecht en Volkel geldt slechts voor militaire luchtvaartuigen.
 
 - 3. de aanwijzing van Eindhoven en Leeuwarden geldt slechts voor militaire luchtvaartuigen alsmede burgerluchtvaartuigen waarvoor de Minister van Defensie toestemming heeft gegeven tot gebruik van de luchthaven.
 
-- 4. de aanwijzing van Hilversum, Zeeland Airport, Breda International Airport, Teuge en Texel geldt slechts voor goederen welke mondeling dan wel door enige andere handeling kunnen worden aangegeven. De totale waarde van de door een persoon meegevoerde goederen die mondeling kunnen worden aangegeven mag in dit geval niet hoger zijn dan € 1000.
-
-## Bijlage V
-
-Plaatsen waar schepen en de daarmee vervoerde goederen eveneens kunnen worden aangebracht
-
-De plaatsen, bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), van de Algemene douaneregeling, zijn:
-
-- –. Eemshaven rede en Oterdum rede;
-
-- –. Ankerplaatsen Den Helder A t/m Q (Adm. chart 1546);
-
-- –. IJmuiden deep draft area en recommended anchor area;
-
-- –. Ankerplaats Scheveningen;
-
-- –. Deepdraft 1 en 2;
-
-- –. Maas outer 3 – Maas West 4 en Maas Noord 5;
-
-- –. Wielingen-Noord bewesten de W8;
-
-- –. Wielingen-Zuid beoosten de W8;
-
-- –. Wielingen-Zuid bewesten het haventje van Nieuwe Sluis;
-
-- –. Rede van Vlissingen incl. oostelijk deel Springergeul, Merlemon, Everingen A t/m E;
-
-- –. Put van Terneuzen A t/m C.
+- 4. de aanwijzing van Hilversum, Zeeland Airport, Breda International Airport, Teuge, Texel en Heliport Eemshaven geldt slechts voor goederen welke mondeling dan wel door enige andere handeling kunnen worden aangegeven. De totale waarde van de door een persoon meegevoerde goederen die mondeling kunnen worden aangegeven mag in dit geval niet hoger zijn dan € 1000.
 
 ### **Toelichting Enig document**
 
@@ -9126,7 +9234,7 @@ De plaatsen, bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci
 
 ### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
-### **Deel A. Formaliteiten bij uitvoer/verzending, opslag in douane-entrepot met voorfinanciering met het oog op uitvoer, wederuitvoer, passieve veredeling, douanevervoer en/of in verband met het bewijs van het EU-karakter van goederen**
+### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
 ### **Deel B. Formaliteiten tijdens het vervoer**
 
@@ -9902,7 +10010,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2:2a
 
-1. Van de in een schip aanwezige provisie wordt bij binnenkomst en uiterlijk 2 uur na het daadwerkelijke tijdstip van aankomst langs elektronische weg een scheepsvoorradenaangifte (IMO/FAL 3) ingediend bij de inspecteur.
+1. Van de in een schip aanwezige scheepsvoorraden wordt bij binnenkomst en uiterlijk 2 uur na het daadwerkelijke tijdstip van aankomst langs elektronische weg een scheepsvoorradenaangifte (IMO/FAL 3) ingediend bij de inspecteur.
 
 2. De gezagvoerder moet desgevraagd onverwijld een overzicht van de in het schip aanwezige persoonlijke bezittingen van de bemanningsleden (IMO/FAL 4) ter beschikking stellen van de inspecteur.
 
@@ -9972,11 +10080,11 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 - a. goederen lost, laadt, overlaadt, inslaat of uitslaat;
 
-- b. goederen als bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2020-04-01&g=2020-04-01) verder landinwaarts brengt dan tot de eerste plaats waar zij tegen beschadiging door het zeewater zijn beveiligd;
+- b. goederen als bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:4&z=2020-07-01&g=2020-07-01) verder landinwaarts brengt dan tot de eerste plaats waar zij tegen beschadiging door het zeewater zijn beveiligd;
 
-- c. een binnengekomen schip dan wel een binnengekomen luchtvaartuig laat vertrekken van de haven of de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), onderscheidenlijk tweede lid; of
+- c. een binnengekomen schip dan wel een binnengekomen luchtvaartuig laat vertrekken van de haven of de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), onderscheidenlijk tweede lid; of
 
-- d. een schip of luchtvaartuig dat het douanegebied van de Unie zal verlaten vanuit de haven onderscheidenlijk de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-04-01&g=2020-04-01), onderscheidenlijk tweede lid;
+- d. een schip of luchtvaartuig dat het douanegebied van de Unie zal doen verlaten, doet vertrekken uit de haven, onderscheidenlijk van de internationale luchthaven, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), onderscheidenlijk tweede lid;
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
@@ -10006,9 +10114,35 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 
 ### Hoofdstuk 13. Slotbepalingen
 
-## Bijlage VI
+## Bijlage V
 
-### **Inleiding**
+Plaatsen waar schepen een tijdelijke ligplaats kunnen kiezen.
+
+De plaatsen, bedoeld in [artikel 2:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), van de Algemene douaneregeling, zijn:
+
+- –. Eemshaven rede en Oterdum rede;
+
+- –. Ankerplaatsen Den Helder A t/m Q (Adm. chart 1546);
+
+- –. IJmuiden deep draft area en recommended anchor area;
+
+- –. Ankerplaats Scheveningen;
+
+- –. Deepdraft 1 en 2;
+
+- –. Maas outer 3 – Maas West 4 en Maas Noord 5;
+
+- –. Wielingen-Noord bewesten de W8;
+
+- –. Wielingen-Zuid beoosten de W8;
+
+- –. Wielingen-Zuid bewesten het haventje van Nieuwe Sluis;
+
+- –. Rede van Vlissingen incl. oostelijk deel Springergeul, Merlemon, Everingen A t/m E;
+
+- –. Put van Terneuzen A t/m C.
+
+### **Toelichting Enig document**
 
 ### **Titel II. Aanwijzingen voor het invullen van de vakken**
 
@@ -10025,3 +10159,37 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 ### Titel III. Generale verklaring
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11:8
+
+Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aankomst of van het vertrek van een schip als bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2020-07-01&g=2020-07-01), maakt zich schuldig aan het plegen van een strafbaar feit.
+
+### Hoofdstuk 12. Algemene bepalingen van strafvordering
+
+##### Artikel 12:1
+
+1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
+
+2. Indien de goederen een spoedige, aanmerkelijke waardevermindering onderhevig zijn of indien de bewaring of het onderhoud ervan een gevaar oplevert dan wel hoge kosten met zich meebrengt, wordt, in afwijking van het eerste lid, van de inbeslagneming op door inspecteur te bepalen wijze, naar plaatselijk gebruik, in het openbaar mededeling gedaan.
+
+3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
+
+##### Artikel 12:2
+
+Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
+
+### Hoofdstuk 12a. Overgangsrecht
+
+### Hoofdstuk 13. Slotbepalingen
+
+## Bijlage VI
+
+### **Inleiding**
+
+### **C. Gebruiksaanwijzing van het formulier**
+
+### **Deel A. Formaliteiten bij uitvoer/verzending, wederuitvoer, opslag in douane-entrepot, vervaardiging onder douanetoezicht, douanecontrole van goederen waarop een uitvoerrestitutie van toepassing is, passieve veredeling, Uniedouanevervoer en/of in verband met het bewijs van de douanestatus van de Uniegoederen**
+
+### **Deel C. Formaliteiten bij in het vrije verkeer brengen, plaatsing onder de regeling actieve veredeling, tijdelijke invoer, opslag in douane-entrepot en tijdelijke opslag**
+
+### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
