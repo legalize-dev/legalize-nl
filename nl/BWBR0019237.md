@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -145,17 +145,19 @@ Vervallen
 
 ##### Artikel 7. Uitstel van betaling in verband met betalingsproblemen
 
-1. De Belastingdienst/Toeslagen stelt de belanghebbende in de gelegenheid een terugvordering te betalen in maandelijkse termijnen van € 40 mits hij voldoet aan door de Belastingdienst/Toeslagen nader te stellen voorwaarden.
+1. De Belastingdienst/Toeslagen stelt de belanghebbende in de gelegenheid een terugvordering te betalen in maandelijkse termijnen van € 20 mits hij voldoet aan door de Belastingdienst/Toeslagen nader te stellen voorwaarden.
 
-2. De Belastingdienst/Toeslagen kan ambtshalve een betaling in termijnen bewerkstelligen door middel van verrekening van de terugvordering met aan dezelfde belanghebbende periodiek uit te betalen bedragen. Indien een verrekening als bedoeld in de vorige volzin plaats vindt, wordt het totaal van de maandelijks aan de belanghebbende uit te betalen bedragen met ten hoogste € 40 verminderd.
+2. Op schriftelijk verzoek van de belanghebbende stelt de Belastingdienst/Toeslagen de belanghebbende in de gelegenheid een bestuurlijke boete te betalen in maandelijkse termijnen van € 20 mits hij voldoet aan door de Belastingdienst/Toeslagen nader te stellen voorwaarden.
 
-3. Een betaling van de terugvordering in maandelijkse termijnen eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de terugvordering geldende betalingstermijn 24 maanden zijn verstreken. Indien de omvang van de terugvordering betaling in 24 maandelijkse termijnen van € 40 niet toelaat, kan de Belastingdienst/Toeslagen, in afwijking van het eerste en tweede lid, een betaling in maandelijkse termijnen van meer dan € 40 verlangen.
+3. De Belastingdienst/Toeslagen kan ambtshalve een betaling in termijnen bewerkstelligen door middel van verrekening van de terugvordering met aan dezelfde belanghebbende periodiek uit te betalen bedragen. Indien een verrekening als bedoeld in de vorige volzin plaats vindt, wordt het totaal van de maandelijks aan de belanghebbende uit te betalen bedragen met ten hoogste € 20 verminderd.
 
-4. Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn de terugvordering overeenkomstig de voorgaande leden te betalen kan de Belastingdienst/Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van [artikel 13 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13), met dien verstande dat de Belastingdienst/Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) kan worden beschouwd.
+4. Een betaling van de terugvordering of bestuurlijke boete in maandelijkse termijnen eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de terugvordering of bestuurlijke boete geldende betalingstermijn 24 maanden zijn verstreken. Indien de omvang van de terugvordering of bestuurlijke boete betaling in 24 maandelijkse termijnen van € 20 niet toelaat, kan de Belastingdienst/Toeslagen, in afwijking van het eerste, tweede en derde lid, een betaling in maandelijkse termijnen van meer dan € 20 verlangen.
 
-5. Een betalingsregeling als bedoeld in het vierde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de Uitvoeringregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) beschikken voor de voldoening van de terugvordering, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.
+5. Op schriftelijk verzoek van de belanghebbende die aangeeft niet in staat te zijn een of meer terugvorderingen of bestuurlijke boetes overeenkomstig de voorgaande leden te betalen kan de Belastingdienst/Toeslagen, in afwijking in zoverre van de voorgaande leden, een betaling in termijnen toestaan gebaseerd op de betalingscapaciteit. De berekening van de betalingscapaciteit vindt plaats op de voet van [artikel 13 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13), met dien verstande dat de Belastingdienst/Toeslagen het netto-besteedbare inkomen van de belanghebbende vermeerdert met het netto-besteedbare inkomen van de persoon die ten tijde van de indiening van het verzoek als partner in de zin van [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) kan worden beschouwd.
 
-6. De voorgaande leden zijn niet van toepassing indien het ontstaan van de terugvordering is te wijten aan opzet of grove schuld van de belanghebbende of diens partner.
+6. Een betalingsregeling als bedoeld in het vijfde lid wordt niet toegestaan indien de belanghebbende of de in dat lid bedoelde partner over voldoende vermogen in de zin van [artikel 12 van de Uitvoeringregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) beschikken voor de voldoening van de terugvorderingen en de bestuurlijke boetes waarop het verzoek, bedoeld in het vijfde lid, betrekking heeft, met dien verstande dat bevoorrechte schulden op het vermogen in mindering worden gebracht.
+
+7. Indien de Belastingdienst/Toeslagen een betalingsregeling als bedoeld in het vijfde lid toestaat die zowel betrekking heeft op een of meer terugvorderingen als op een of meer bestuurlijke boetes, strekken de betalingen van de belanghebbende eerst ter voldoening van de terugvorderingen alvorens deze strekken ter voldoening van de bestuurlijke boetes.
 
 ##### Artikel 8. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
@@ -213,11 +215,9 @@ Vervallen
 
 2. Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.
 
-3. Het in het eerste lid bedoelde verzoek kan worden gedaan tot het tijdstip dat de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
-4. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
-
-5. Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de bezittingen, bedoeld in het eerste lid, onderdeel a, of de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.
+4. Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede en derde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de bezittingen, bedoeld in het eerste lid, onderdeel a, of de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -237,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2019-01-01&g=2020-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2020-07-01&g=2020-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -265,15 +265,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2019-01-01&g=2020-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2020-07-01&g=2020-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9ter. Overgangsrecht vermogenstoets restantbedrag persoonsgebonden budget
+##### Artikel 9ter. Overgangsrecht vermogenstoets herstelactie kindgebonden budget
 
-1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met het restant van een ontvangen persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6) en paragraaf 2 van de Wet maatschappelijke ondersteuning zoals deze op 31 december 2014 luidden, dat betrekking heeft op een subsidieperiode in het jaar voorafgaand aan het berekeningsjaar, en de met dat restant samenhangende verplichtingen.
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met een uitbetaling van kindgebonden budget met betrekking tot de berekeningsjaren 2013 tot en met 2017 door de Belastingdienst/Toeslagen in het kader van de herstelactie kindgebonden budget.
 
-2. Een verzoek als bedoeld in het eerste lid wordt uiterlijk 31 december 2018 gedaan.
+2. Een verzoek als bedoeld in het eerste lid met betrekking tot een uitbetaling als bedoeld in het eerste lid kan uitsluitend betrekking hebben op de aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, over het berekeningsjaar volgend op het kalenderjaar waarin die uitbetaling is ontvangen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -308,5 +308,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 3. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarop het verzoek ingevolge het tweede lid betrekking kan hebben.
 
 4. Voor de toepassing van dit artikel wordt onder een bezitting mede verstaan de afname van een schuld als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9b. Hardheidsregeling kinderopvangtoeslag
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
