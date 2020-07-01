@@ -4,7 +4,7 @@ identifier: "BWBR0043208"
 country: "nl"
 rank: "wet"
 publication_date: "2024-11-06"
-last_updated: "2020-04-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043208"
 soort: "wet"
@@ -181,13 +181,9 @@ Wijzigt de Algemene wet bestuursrecht.
 
 Wijzigt de Wet tijdelijk huisverbod.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Wet normering topinkomens.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIIIa
 
@@ -215,8 +211,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVIIIa
 
 Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.
@@ -229,13 +223,13 @@ Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen III, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=III&z=2020-04-01&g=2020-04-01), en [XIII, onderdelen A, onder 2, en G](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XIII&z=2020-04-01&g=2020-04-01), werken terug tot en met 1 januari 2018.
+2. De [artikelen III, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=III&z=2020-07-01&g=2020-07-01), en [XIII, onderdelen A, onder 2, en G](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XIII&z=2020-07-01&g=2020-07-01), werken terug tot en met 1 januari 2018.
 
-3. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=V&z=2020-04-01&g=2020-04-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VI&z=2020-04-01&g=2020-04-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VII&z=2020-04-01&g=2020-04-01), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXI&z=2020-04-01&g=2020-04-01) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXII&z=2020-04-01&g=2020-04-01) werken terug tot en met 1 september 2018.
+3. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=V&z=2020-07-01&g=2020-07-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VI&z=2020-07-01&g=2020-07-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=VII&z=2020-07-01&g=2020-07-01), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXI&z=2020-07-01&g=2020-07-01) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XXII&z=2020-07-01&g=2020-07-01) werken terug tot en met 1 september 2018.
 
-4. Indien [artikel XII, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2020-04-01&g=2020-04-01), na 1 januari 2020 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2020.
+4. Indien [artikel XII, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2020-07-01&g=2020-07-01), na 1 januari 2020 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2020.
 
-5. Ten aanzien van [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2020-04-01&g=2020-04-01), kan worden bepaald dat dit onderdeel terugwerkt tot en met de dag waarop de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie heeft plaatsgevonden.
+5. Ten aanzien van [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0043208&artikel=XII&z=2020-07-01&g=2020-07-01), kan worden bepaald dat dit onderdeel terugwerkt tot en met de dag waarop de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie heeft plaatsgevonden.
 
 ##### Artikel XL
 
