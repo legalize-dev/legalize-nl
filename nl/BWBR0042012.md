@@ -694,21 +694,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 Deze wet wordt aangehaald als: Wet register onderwijsdeelnemers.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 24a. Verstrekking aan pensioenuitvoerders
-
-1. Basisgegevens worden met het persoonsgebonden nummer desgevraagd aan een pensioenuitvoerder als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1), verstrekt voor zover deze gegevens noodzakelijk zijn voor het uitkeren van een wezenpensioen aan de onderwijsdeelnemer of aan de ouder of verzorger van de onderwijsdeelnemer.
-
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van het eerste lid en worden de te verstrekken gegevens vastgesteld.
-
-##### Artikel 24b. Verstrekking aan overheidsinstellingen in België
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 2.4. Bijzondere bepalingen over diplomagegevens
-
-### Hoofdstuk 3. Wijzigings- en samenloopbepalingen
-
-### Hoofdstuk 4. Sanctie-, overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
