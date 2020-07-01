@@ -4,7 +4,7 @@ identifier: "BWBR0032545"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-02"
-last_updated: "2017-10-27"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032545"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](https://w
 
 - g. dit het gevolg is van een verplichte bedrijfssluiting en waarvoor de werknemer geen loon of inkomsten wegens loonderving dan wel vakantiebonnen of daarmee overeenkomende aanspraken heeft ontvangen of verkregen;
 
-- h. waarover hij een uitkering heeft ontvangen op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1);
+- h. waarover hij een uitkering heeft ontvangen op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), of [artikel 4:2b van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b);
 
 - i. dit het gevolg is van werkstaking.
 
@@ -68,13 +68,13 @@ Vervallen
 
 ##### Artikel 3. Vaststelling uren gelijkgesteld aan arbeidsuren bij ziekte of arbeidsongeschiktheid
 
-1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2017-10-27&g=2017-10-27), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel f respectievelijk h, gelijkgesteld wordt, gelijk aan:
+1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel f respectievelijk h, gelijkgesteld wordt, gelijk aan:
 
-- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2017-10-27&g=2017-10-27), en hij een vast aantal arbeidsuren had; of
+- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), en hij een vast aantal arbeidsuren had; of
 
-- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2017-10-27&g=2017-10-27), en hij geen aantal vaste arbeidsuren had.
+- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), en hij geen aantal vaste arbeidsuren had.
 
-2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2017-10-27&g=2017-10-27), niet werkzaam was.
+2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01), niet werkzaam was.
 
 ##### Artikel 4. Berekening van het gemiddeld aantal arbeidsuren in geval van ploegendienst of arbeidsduurverkorting in de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -88,7 +88,7 @@ Vervallen
 
 2. Voor de toepassing van het eerste lid wordt de arbeidsduurverkorting geacht gelijkelijk te zijn verspreid over een periode van een kalenderjaar. Indien de werknemer in een kalenderweek meer uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid gelijkgesteld met arbeidsuren. Indien de werknemer in een kalenderweek minder uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid buiten beschouwing gelaten.
 
-3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2017-10-27&g=2017-10-27) zijn gelijkgesteld met arbeidsuren.
+3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2020-07-01&g=2020-07-01) zijn gelijkgesteld met arbeidsuren.
 
 ##### Artikel 5. Het buiten beschouwing laten van arbeidsuren bij een andere werkgever
 
