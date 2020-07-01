@@ -615,31 +615,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 Dit besluit wordt aangehaald als: Besluit experiment gesloten coffeeshopketen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a. (retourzending of vernietiging van hennep of hasjiesj)
-
-1. De coffeeshophouder zendt hennep of hasjiesj die hij niet voor de verkoop aan klanten aanhoudt, in de verzegelde verpakkingseenheid retour aan de aangewezen teler die de hennep of hasjiesj had geleverd. Op de retourzending is [artikel 24, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2022-06-14&g=2022-06-14), van overeenkomstige toepassing, met dien verstande dat de coffeeshophouder zorg draagt voor het vervoer naar de teler, bedoeld in het tweede lid, en desgevraagd inlichtingen moet kunnen verschaffen als bedoeld in het vijfde lid.
-
-2. De coffeeshophouder ontdoet zich van de hennep of hasjiesj die op grond van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=7&z=2022-06-14&g=2022-06-14), ten behoeve van de beoordeling door klanten onverzegeld in de coffeeshop aanwezig is maar niet langer voor dit doel wordt gebruikt, door retourzending aan de aangewezen teler of vernietiging daarvan waardoor de hennep of hasjiesj niet langer geschikt is voor consumptie. Ingeval van retourzending is de tweede volzin van het eerste lid van overeenkomstige toepassing.
-
-#### § 3. Aanvraag en selectie van telers
-
-#### § 4. Aanwijzing als teler
-
-#### § 5. Eisen aan aangewezen telers
-
-##### Artikel 26a. (verwerking van afval van hennep of hasjiesj)
-
-Onverminderd een krachtens [artikel 21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=4&artikel=21&z=2022-06-14&g=2022-06-14), aan de aanwijzing verbonden voorschrift, ontdoet de aangewezen teler zich van het afval van de hennep of hasjiesj door vernietiging daarvan op de locatie of locaties, bedoeld in [artikel 20, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=4&artikel=20&z=2022-06-14&g=2022-06-14).
-
-#### § 7. Intrekking van de aanwijzing als teler
-
-#### § 8. Voorbereiding van het experiment
-
-#### § 9. Afbouw van het experiment
-
-#### § 11. Toezicht en handhaving
-
-#### § 12. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
