@@ -4,7 +4,7 @@ identifier: "BWBR0032640"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2017-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032640"
 soort: "ministeriele-regeling"
@@ -47,7 +47,9 @@ Besluit:
 
 - c. de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid bij de toepassing van de regeling voor geruisloze terugkeer;
 
-- d. de belastingplichtige bij de toepassing van de persoonsgebonden aftrek ter zake van uitgaven voor onderhoudsverplichtingen als bedoeld in [artikel 6.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1).
+- d. de belastingplichtige bij de toepassing van de persoonsgebonden aftrek ter zake van uitgaven voor onderhoudsverplichtingen als bedoeld in [artikel 6.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1);
+
+- e. de betaaldienstverlener bij de uitvoering van de regels die van belang zijn voor voldoening aan de betalingsvordering, bedoeld in [hoofdstuk IA van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA).
 
 2. Ten behoeve van de toepassing van het eerste lid, onderdeel b, verstrekken de uitlener en de onderaannemer het burgerservicenummer van de werknemer aan de inlener, onderscheidenlijk de aannemer.
 
