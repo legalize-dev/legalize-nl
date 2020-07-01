@@ -4,7 +4,7 @@ identifier: "BWBR0002690"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2011-09-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002690"
 soort: "AMvB"
@@ -72,15 +72,15 @@ Het bedrag is tweemaal verschuldigd indien het verzoek tot wijziging van de gesl
 
 ##### Artikel 4
 
-Onze Minister is gemachtigd een verzoek af te wijzen indien hij meent dat het niet voor inwilliging in aanmerking komt.
+Wijziging van de geslachtsnaam op grond van [artikel 6 van het Besluit geslachtsnaamswijziging](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=6) is kosteloos, met dien verstande dat daartoe in geval van een verzoek op grond van artikel 6, onderdeel b, van dat besluit overlegging van een bewijs van toekenning van een uitkering van het Schadefonds Geweldsmisdrijven is vereist.
 
 ##### Artikel 5
 
-Vervallen
+Onze Minister is gemachtigd een verzoek af te wijzen indien hij meent dat het niet voor inwilliging in aanmerking komt.
 
 ##### Artikel 6
 
-Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2011-09-01&g=2011-09-01), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2011-09-01&g=2011-09-01) van dit besluit niet van toepassing zijn.
+Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2020-07-01&g=2020-07-01), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2020-07-01&g=2020-07-01) van dit besluit niet van toepassing zijn.
 
 ##### Artikel 7
 
