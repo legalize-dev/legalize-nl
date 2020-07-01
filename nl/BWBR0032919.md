@@ -4,7 +4,7 @@ identifier: "BWBR0032919"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2019-04-18"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032919"
 soort: "AMvB"
@@ -186,13 +186,13 @@ Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet]
 
 ##### Artikel 10
 
-1. Als richtsnoer, bedoeld in de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), en [artikel 1.16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16) wordt aangewezen: de Gids proportionaliteit, zoals gepubliceerd in Staatscourant, 2016, nr. 32830.
+1. Als richtsnoer, bedoeld in de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), en [artikel 1.16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16) wordt aangewezen: de Gids proportionaliteit, zoals gepubliceerd in Staatscourant 2020, nr. 30657.
 
 2. Als aanbestedende diensten en speciale-sectorbedrijven, bedoeld in de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), en [1.16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16) worden aangewezen: alle aanbestedende diensten en speciale-sectorbedrijven als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1).
 
 ##### Artikel 11
 
-1. Als richtsnoer bedoeld in [artikel 1.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22) wordt aangewezen het Aanbestedingsreglement Werken 2016, zoals gepubliceerd in Staatscourant 2016, nr. 32830.
+1. Als richtsnoer bedoeld in [artikel 1.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22) wordt aangewezen het Aanbestedingsreglement Werken 2016, zoals gepubliceerd in Staatscourant 2020, nr. 30657.
 
 2. Als aanbestedende diensten, bedoeld in [artikel 1.22, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22), worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1).
 
@@ -228,7 +228,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2019-04-18&g=2019-04-18), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
+1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2020-07-01&g=2020-07-01), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf biedt een passend alternatief toegangsmiddel aan in een geval waarin zij:
 
