@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2019-01-02"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -38,11 +38,39 @@ entry_into_force: "2022-01-22"
 
 #### § 1. Algemene bepalingen
 
-#### § 2. Taakverdeling
+#### § 1. Algemene bepalingen
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
+
+- a. aangelegenheden op het gebied van personeel, financiën, organisatie en bedrijfsvoering, voor zover niet vallend onder het werkterrein van een directeur, divisiehoofd, afdelingshoofd of teamleider;
+
+- b. aangelegenheden op het werkterrein van een directeur of divisiehoofd:
+
+- 1°. ten aanzien waarvan de inspecteur-generaal in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
+
+- 2°. die door een directeur of divisiehoofd aan de inspecteur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de inspecteur-generaal door een andere directeur of divisiehoofd moeten worden behandeld.
+
+2. Tot de in het eerste lid, onder a bedoelde aangelegenheden op het gebied van personeel behoren in elk geval:
+
+- a. het verlenen van langdurig verlof als bedoeld in paragraaf 4.6 van de CAO Rijk;
+
+- b. het opdragen van een andere functie;
+
+- c. het opdragen van tijdelijke andere werkzaamheden;
+
+- d. het toekennen van een hogere salarisschaal;
+
+- e. het toekennen van beloningen, anders dan genoemd in artikel 3, eerste tot en met het vijfde lid;
+
+- f. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen;
+
+- g. het treffen van orde maatregelen als bedoeld in hoofdstuk van 15, van de CAO Rijk;
+
+- h. het toekennen van een terugkeergarantie;
+
+- i. het afnemen van de eed en belofte van directeuren.
 
 ##### Artikel 3
 
@@ -126,15 +154,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de directieraad vastgestelde bedrag niet te boven gaat.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de directeur Strategie, het divisiehoofd Juridische zaken en de teamleider van het team Bezwaar en beroep van de divisie Juridische zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het voeren van (hoger) beroeps- en voorlopige voorzieningenprocedures.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de liaison agressie en geweld wordt machtiging verleend tot het vertegenwoordigen van de NVWA ter zitting bij de strafrechter, dan wel ter zitting bij de raadkamer ten behoeve van de behandeling van klaagschriften als bedoeld in [artikel 12, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
 #### § 3. Vervanging
 
@@ -201,17 +229,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van publicatie i
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-1. Aan de algemeen directeur van het CJIB wordt ondermandaat en machtiging verleend voor het opmaken en uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen tegen dwangbevelen en het treffen van betalingsregelingen.
-
-2. De algemeen directeur van het CJIB kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
-
-#### § 3. Vervanging
-
-#### § 4. Slotbepalingen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
