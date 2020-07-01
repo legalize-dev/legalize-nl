@@ -4,7 +4,7 @@ identifier: "BWBR0031971"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-04-04"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031971"
 soort: "AMvB"
@@ -70,11 +70,11 @@ De zorgautoriteit kan de beschikbaarheidbijdrage toekennen in de vorm van:
 
 - b. compensatie voor niet-economische diensten van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie;
 
-- c. de-minimissteun als bedoeld in [Verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L 379);
+- c. de-minimissteun als bedoeld in Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352);
 
-- d. de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen als bedoeld in Verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU L 114);
+- d. de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen als bedoeld in Verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen (PbEU 2012, L 114);
 
-- e. individuele steun als bedoeld in [Verordening (EG) nr. 800/2008](32008R0800) van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (PbEU L 214) niet zijnde ad-hoc steun, of
+- e. individuele steun als bedoeld in Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU, 2014, L 187) niet zijnde ad-hoc steun, of
 
 - f. steun anders dan bedoeld in de onderdelen a tot en met e.
 
@@ -106,14 +106,14 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Besluit beschikbaarheidbijdrage WMG.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2017-04-04&g=2017-04-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2017-04-04&g=2017-04-04) van het Besluit beschikbaarheidbijdrage WMG
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2020-07-01&g=2020-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2020-07-01&g=2020-07-01) van het Besluit beschikbaarheidbijdrage WMG
 
 ### Onderdeel A
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2017-04-04&g=2017-04-04), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2020-07-01&g=2020-07-01), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
 
 ### Onderdeel B
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2017-04-04&g=2017-04-04), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2020-07-01&g=2020-07-01), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
