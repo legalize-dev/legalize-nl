@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan [artikel 8, vierde en vijfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8).
+1. Dit besluit geeft uitvoering aan de [artikelen 8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), en 10h, elfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 2. Dit besluit verstaat onder:
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2020-01-01&g=2020-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2020-01-01&g=2020-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2020-07-01&g=2020-07-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2020-07-01&g=2020-07-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
 - a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
 
@@ -186,6 +186,30 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een intermediair als bedoeld in artikel 10h, eerste lid, van de wet of – bij afwezigheid van een intermediair dan wel ingeval naast de intermediair of intermediairs die zich ingevolge artikel 10h, vijfde lid, van de wet op de overeenkomstige toepassing van [artikel 53a, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a) of op een bepaling als bedoeld in artikel 8 bis ter, vijfde lid, van [Richtlijn 2011/16](32011L0016)/EU beroept, onderscheidenlijk beroepen, geen andere intermediair bij dezelfde meldingsplichtige grensoverschrijdende constructie is betrokken – een relevante belastingplichtige als bedoeld in artikel 10h, zesde lid, van de wet verstrekt de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, van de wet, op een door Onze Minister voorgeschreven wijze.
+
+2. De intermediair, bedoeld in het eerste lid, verstrekt over een meldingsplichtige grensoverschrijdende constructie de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, van de wet, uiterlijk binnen dertig dagen te rekenen vanaf:
+
+- a. de dag na de dag waarop de meldingsplichtige grensoverschrijdende constructie voor implementatie beschikbaar is gesteld;
+
+- b. de dag na de dag waarop de meldingsplichtige grensoverschrijdende constructie gereed is voor implementatie; of
+
+- c. het moment waarop de eerste stap van de implementatie van de meldingsplichtige grensoverschrijdende constructie is gezet;
+
+afhankelijk van wat het eerst plaatsvindt.
+
+3. De intermediair, bedoeld in het eerste lid, verstrekt het periodieke verslag, bedoeld in artikel 10h, derde lid, van de wet, uiterlijk binnen dertig dagen na het einde van het kwartaal waarop het periodieke verslag betrekking heeft.
+
+4. Onverminderd het tweede lid verstrekt de intermediair, bedoeld in het eerste lid, die, gelet op de betrokken feiten en omstandigheden en op basis van de beschikbare informatie en de deskundigheid die en het begrip dat nodig is om die diensten te verstrekken, weet of redelijkerwijs kon weten dat hij heeft toegezegd rechtstreeks of via andere personen hulp, bijstand of advies te verstrekken met betrekking tot het bedenken, aanbieden, opzetten, beschikbaar maken voor implementatie of beheren van de implementatie van een meldingsplichtige grensoverschrijdende constructie, de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, van de wet, uiterlijk binnen dertig dagen te rekenen vanaf de dag nadat hij, rechtstreeks of via andere personen, die hulp, die bijstand of dat advies heeft verstrekt.
+
+5. De relevante belastingplichtige, bedoeld in het eerste lid, verstrekt over een meldingsplichtige grensoverschrijdende constructie de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, van de wet, uiterlijk binnen dertig dagen te rekenen vanaf:
+
+- a. de dag na de dag waarop de meldingsplichtige grensoverschrijdende constructie voor implementatie ter beschikking van de relevante belastingplichtige is gesteld;
+
+- b. de dag na de dag waarop de meldingsplichtige grensoverschrijdende constructie gereed is voor implementatie door de relevante belastingplichtige; of
+
+- c. het moment waarop de eerste stap van de implementatie met betrekking tot de relevante belastingplichtige is gezet;
+
+afhankelijk van wat het eerst plaatsvindt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
