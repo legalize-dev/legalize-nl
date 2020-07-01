@@ -4,7 +4,7 @@ identifier: "BWBR0017313"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017313"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2013-06-20"
 ---
 # Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
-Gelet op [artikel 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voorzover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2019-01-01&g=2019-01-01) betreft, [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2019-01-01), betreft, en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6), en [12, eerste en derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12);
+Gelet op [artikel 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voorzover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2019-01-01&g=2020-07-01) betreft, [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2020-07-01), betreft, en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6), en [12, eerste en derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12);
 
 Besluit:
 
@@ -126,7 +126,7 @@ Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b,
 
 ##### Artikel 5
 
-De in [artikel 10.38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor de afgifte van afvalstoffen die behoren tot een categorie als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2019-01-01).
+De in [artikel 10.38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor de afgifte van afvalstoffen die behoren tot een categorie als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2020-07-01).
 
 ##### Artikel 6
 
@@ -198,7 +198,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2019-01-01) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
+Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2020-07-01) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 ## Bijlage, behorende bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2008-09-26&g=2008-09-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2008-09-26&g=2008-09-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2008-09-26&g=2008-09-26)
 
@@ -284,9 +284,9 @@ Uit hoofdstuk 20.01: gescheiden ingezamelde fracties (van stedelijk afval (huish
 
 ### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2013-01-01&g=2013-01-01)
 
-### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2019-01-01)
+### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2020-07-01)
 
-### C. Begeleidingsbrieven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2019-01-01&g=2019-01-01)
+### C. Begeleidingsbrieven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2019-01-01&g=2020-07-01)
 
 ¹ of het registratienummer bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
@@ -398,7 +398,7 @@ Uit hoofdstuk 20.03: overig stedelijk afval
 
 ### D. Categorieën van afvalstoffen waarvan het uitlooggedrag en de samenstelling algemeen bekend zijn
 
-### E. Formulieren als bedoeld in [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2019-01-01&g=2019-01-01)
+### E. Formulieren als bedoeld in [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2019-01-01&g=2020-07-01)
 
 SenterNovem
 
@@ -430,11 +430,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6i
 
-Deze regeling berust op de [artikelen 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voor zover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2019-01-01&g=2019-01-01) betreft, en [9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) voor zover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2019-01-01), betreft, en op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), [12c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), [12i](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i) en [12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j).
+Deze regeling berust op de [artikelen 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voor zover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2019-01-01&g=2020-07-01) betreft, en [9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) voor zover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2020-07-01), betreft, en op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), [12c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), [12i](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i) en [12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j).
 
-## Bijlage. behorende bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2019-01-01&g=2019-01-01), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6f&z=2019-01-01&g=2019-01-01) en [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2019-01-01&g=2019-01-01)
+## Bijlage. behorende bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2019-01-01&g=2020-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2020-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2019-01-01&g=2020-07-01), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6f&z=2019-01-01&g=2020-07-01) en [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2019-01-01&g=2020-07-01)
 
-### A. Aangewezen categorieën van bedrijfsafvalstoffen als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2019-01-01), zoals deze zijn omschreven in de afvalstoffenlijst, bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1)
+### A. Aangewezen categorieën van bedrijfsafvalstoffen als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2019-01-01&g=2020-07-01), zoals deze zijn omschreven in de afvalstoffenlijst, bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1)
 
 1 Zie de integrale tekst van de afvalstoffenlijst (Stcrt. 2002, 76).
 
