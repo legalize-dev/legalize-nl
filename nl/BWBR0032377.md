@@ -4,7 +4,7 @@ identifier: "BWBR0032377"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032377"
 soort: "ministeriele-regeling"
@@ -66,25 +66,27 @@ Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](https://wet
 
 - 5°. afgeven en verlengen van de verklaring van deskundigheid aangaande het gebruik van vloeibaar aardgas als brandstof.
 
+- d. het ontwikkelen, afnemen en actueel houden van examens strekkende tot de beoordeling van de theoretische kennis voor het beroep van transportbegeleider, waarbij een door het CBR in te stellen college van deskundigen adviseert over de inhoud van deze examens.
+
 ##### Artikel 2. Voorwaarden
 
-1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-01-01&g=2020-01-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
+1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-07-01&g=2020-07-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
 
-2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-01-01&g=2020-01-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
+2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-07-01&g=2020-07-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
 
 ##### Artikel 3. Wijziging van andere regelingen
 
 Wijzigt de Regeling vakbekwaamheid beroepspersonenvervoer, de Regeling wegvervoer goederen en het Erkenningsbesluit instantie Besluit inzamelen afvalstoffen.
 
-##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-01-01&g=2020-01-01)
+##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2020-07-01&g=2020-07-01)
 
 Wijzigt deze regeling.
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2020-01-01&g=2020-01-01), treedt in werking met ingang van 1 januari 2013.
+1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2020-07-01&g=2020-07-01), treedt in werking met ingang van 1 januari 2013.
 
-2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2020-01-01&g=2020-01-01) treedt in werking met ingang van 1 januari 2016.
+2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2020-07-01&g=2020-07-01) treedt in werking met ingang van 1 januari 2016.
 
 ##### Artikel 6. Citeertitel
 
