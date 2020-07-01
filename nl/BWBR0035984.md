@@ -4,7 +4,7 @@ identifier: "BWBR0035984"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2015-10-14"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035984"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ In deze regeling wordt verstaan onder de gemiddelde arbeidsduur: de gemiddelde a
 
 ##### Artikel 3. Provisie en stukloon
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=2&z=2015-10-14&g=2015-10-14) is van overeenkomstige toepassing voor de berekening van het loon, bedoeld in [artikel 2, tweede lid, van het Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2).
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=2&z=2020-07-01&g=2020-07-01) is van overeenkomstige toepassing voor de berekening van het loon, bedoeld in [artikel 2, derde lid, van het Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2).
 
-2. Indien op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=2&z=2015-10-14&g=2015-10-14) een periode korter dan twaalf maanden in aanmerking wordt genomen, wordt voor de berekening van het loon, bedoeld in het eerste lid, het getal, bedoeld in [artikel 2, tweede lid, van het Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2) naar rato aangepast.
+2. Indien op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=2&z=2020-07-01&g=2020-07-01) een periode korter dan twaalf maanden in aanmerking wordt genomen, wordt voor de berekening van het loon, bedoeld in het eerste lid, het getal, bedoeld in [artikel 2, derde lid, van het Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2) naar rato aangepast.
 
 ##### Artikel 4. Vaste looncomponenten
 
@@ -82,6 +82,6 @@ Deze regeling wordt aangehaald als: Regeling looncomponenten en arbeidsduur.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=4&z=2015-10-14&g=2015-10-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=5&z=2015-10-14&g=2015-10-14), die met ingang van 1 juli 2015 in werking treden.
+Deze regeling treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=4&z=2020-07-01&g=2020-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035984&artikel=5&z=2020-07-01&g=2020-07-01), die met ingang van 1 juli 2015 in werking treden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
