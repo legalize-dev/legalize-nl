@@ -4,7 +4,7 @@ identifier: "BWBR0023645"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-03-31"
-last_updated: "2015-06-07"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023645"
 soort: "zbo"
@@ -45,11 +45,11 @@ De kantoren van de Dienst zijn gevestigd in de gemeenten Amsterdam, Apeldoorn, A
 
 ##### Artikel 2
 
-1. De kantoren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2015-06-07&g=2015-06-07), zijn, met uitzondering van de kantoren te Apeldoorn, voor de aanbieding van stukken met een papieren vorm ter inschrijving in de openbare registers voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur, met dien verstande dat stukken ter inschrijving van feiten die betrekking hebben op luchtvaartuigen of op rechten waaraan die luchtvaartuigen zijn onderworpen, uitsluitend kunnen worden aangeboden aan het kantoor te Rotterdam.
+1. Voor aanbieding van stukken ter inschrijving in de openbare registers, zijn de kantoren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2020-07-01&g=2020-07-01), met uitzondering van de kantoren te Apeldoorn, op maandag tot en met vrijdag van 9.00 tot 15.00 uur voor het publiek opengesteld, met dien verstande dat stukken in papieren vorm ter inschrijving van feiten die betrekking hebben op luchtvaartuigen of op rechten waaraan die luchtvaartuigen zijn onderworpen, uitsluitend kunnen worden aangeboden aan het kantoor te Rotterdam.
 
-2. Het kantoor te Apeldoorn, Hofstraat 110, is uitsluitend voor de aanbieding van in depot te nemen tekeningen en andere stukken die deel uitmaken van een stuk dat ter inschrijving in de openbare registers zal worden aangeboden, voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
+2. Het kantoor te Apeldoorn, Laan van Westenenk 701, is uitsluitend voor de aanbieding van in depot te nemen tekeningen en andere stukken die deel uitmaken van een stuk dat ter inschrijving in de openbare registers zal worden aangeboden, voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
 
-3. De kantoren, bedoeld in het eerste lid, zijn, met uitzondering van de kantoren te Apeldoorn, voor de verstrekking van informatie voor het publiek op afspraak opengesteld op maandag tot en met vrijdag van 9.00 tot 17.00 uur.
+3. De kantoren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2020-07-01&g=2020-07-01), zijn, met uitzondering van de kantoren te Apeldoorn, voor de verstrekking van informatie voor het publiek op afspraak opengesteld op maandag tot en met vrijdag van 9.00 tot 17.00 uur.
 
 4. In afwijking van het eerste, tweede en derde lid, zijn de aldaar genoemde kantoren voor het publiek gesloten op de nieuwjaarsdag, de Hemelvaartsdag, de christelijke tweede Paas- en Pinksterdag, de beide Kerstdagen, de Koningsdag en de vijfde mei die in een lustrumjaar valt.
 
