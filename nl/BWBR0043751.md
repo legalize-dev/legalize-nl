@@ -123,9 +123,3 @@ Deze regeling treedt in werking op 1 juli 2020.
 Deze regeling wordt aangehaald als: Regeling pleegzorg BES.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=5&z=2024-01-01&g=2024-01-01) wordt het basisbedrag, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01), met ingang van 1 januari 2024 niet opnieuw vastgesteld.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
