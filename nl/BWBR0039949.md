@@ -4,7 +4,7 @@ identifier: "BWBR0039949"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2019-07-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039949"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Het [Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 20 maart 2
 
 Deze bekendmaking treedt in werking met ingang van 1 januari 2018, nadat artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) in werking is getreden.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039949&artikel=1&z=2019-07-01&g=2019-07-01) van de Bekendmaking van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 in verband met de aanwijzing van geregistreerde certificaten voor de kinderopvang inzake het met goed gevolg afgesloten onderricht dat in elk geval het verlenen van eerste hulp aan kinderen omvat
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039949&artikel=1&z=2020-07-01&g=2020-07-01) van de Bekendmaking van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 in verband met de aanwijzing van geregistreerde certificaten voor de kinderopvang inzake het met goed gevolg afgesloten onderricht dat in elk geval het verlenen van eerste hulp aan kinderen omvat
 
 De onderstaande certificaten van de daarbij genoemde instanties zijn door de Minister van Sociale Zaken en Werkgelegenheid aangewezen als geregistreerde certificaten als bedoeld in de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=8), [9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=9b), en [10d, eerste lid, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10d):
 
@@ -68,7 +68,7 @@ De onderstaande certificaten van de daarbij genoemde instanties zijn door de Min
 
 - f. Acute Zorgverlener Module Kind en Omgeving van NIKTA;
 
-- g. Eerstehulpverlener van NIKTA;
+- g. Eerstehulpverlener Medic & Fire First Aid ® Europe Course van NIKTA;
 
 - h. Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert;
 
@@ -80,6 +80,10 @@ De onderstaande certificaten van de daarbij genoemde instanties zijn door de Min
 
 - l. Eerste Hulp bij werken met kinderen van het Nederlands Instituut voor Bedrijfshulpverlening, en
 
-- m. Advanced Medical Responder: Eerste hulp Aan Kinderen (AMR3: EHAK IKK) van CIBOT.
+- m. Advanced Medical Responder: Eerste hulp Aan Kinderen (AMR3: EHAK IKK) van CIBOT;
+
+- n. Bedrijfshulpverlening Kind van CIBOT;
+
+- o. Eerste Hulp Bij Ongelukken onderwijs voor baby’s en kinderen van Livis.
 
 Deze bekendmaking zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
