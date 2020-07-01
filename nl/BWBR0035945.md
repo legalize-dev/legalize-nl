@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Vervallen
 
 - d. een digitale afgifte van een certificaat van oorsprong: € 13,85;
 
-- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 199,–;
+- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 220,–;
 
 - f. een afgifte van legalisatiedocumenten: € 11,35;
 
@@ -90,7 +90,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2020-01-01&g=2020-01-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2020-07-01&g=2020-07-01)
 
 - a. Uurtarieven begroting 2020 (in euro, exclusief BTW)
 
