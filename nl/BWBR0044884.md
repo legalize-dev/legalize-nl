@@ -4,7 +4,7 @@ identifier: "BWBR0044884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-04"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044884"
 soort: "ministeriele-regeling"
@@ -180,6 +180,36 @@ Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid 
 Wijzigt de Inkomstenregeling militairen.
 
 ### Hoofdstuk 7. Wijzigingen met ingang van 1 juli 2020
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 januari 2021
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 7.1
+
+Wijzigt de Inkomstenregeling burgerlijke ambtenaren defensie.
+
+##### Artikel 7.2
+
+Wijzigt de Inkomstenregeling militairen.
+
+##### Artikel 7.3
+
+Wijzigt de Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel.
+
+##### Artikel 7.4
+
+Wijzigt de Regeling Toelage Bijzondere Bijstands Eenheden.
+
+##### Artikel 7.5
+
+Wijzigt de Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+##### Artikel 7.6
+
+Wijzigt de Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO).
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 december 2020
 
