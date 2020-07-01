@@ -4,7 +4,7 @@ identifier: "BWBR0036594"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2020-01-01"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036594"
 soort: "AMvB"
@@ -82,7 +82,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 Inzetbaarheidskosten kunnen in mindering worden gebracht op de transitievergoeding, indien deze kosten:
 
-- a. zijn gemaakt voor activiteiten ter bevordering van de inzetbaarheid van de werknemer buiten de organisatie van de werkgever, tenzij de verworven kennis en vaardigheden zijn aangewend om een functie bij de werkgever uit te oefenen; en
+- a. zijn gemaakt voor activiteiten met als doel de inzetbaarheid van de werknemer binnen dan wel buiten de organisatie van de werkgever te bevorderen, tenzij:
+
+- 1°. de verworven kennis en vaardigheden in overwegende mate zijn aangewend om de functie die de werknemer bij aanvang van de activiteiten verrichtte uit te oefenen; of
+
+- 2°. zij verband houden met re-integratieverplichtingen als bedoeld in [artikel 658a, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=658a) dan wel herplaatsing als bedoeld in [artikel 669, eerste lid, van Boek 7 van het Burgerlijk Wetboek;](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) en
 
 - b. zijn gemaakt in de periode van vijf jaar voorafgaand aan de dag waarop de transitievergoeding is verschuldigd, tenzij werkgever en werknemer schriftelijk anders zijn overeengekomen.
 
@@ -100,11 +104,11 @@ Inzetbaarheidskosten kunnen in mindering worden gebracht op de transitievergoedi
 
 3. De kosten, bedoeld in het eerste lid, kunnen alleen in mindering worden gebracht op het deel van de transitievergoeding, dat is opgebouwd in de periode waarin de opleiding werd gevolgd.
 
-4. Op het in mindering brengen van de kosten, bedoeld in het eerste lid, zijn de [artikelen 2, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-01-01&g=2020-01-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=3&z=2020-01-01&g=2020-01-01) niet van toepassing.
+4. Op het in mindering brengen van de kosten, bedoeld in het eerste lid, zijn de [artikelen 2, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-07-01&g=2020-07-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=3&z=2020-07-01&g=2020-07-01) niet van toepassing.
 
 ##### Artikel 5. Aanvullende voorwaarde transitiekosten
 
-Transitiekosten bestaande uit de kosten voor de werkgever verbonden aan het in acht nemen van een langere dan de wettelijke of eerder overeengekomen opzegtermijn, kunnen, in afwijking van [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-01-01&g=2020-01-01), in mindering gebracht worden op de transitievergoeding, indien de werknemer gedurende deze termijn is vrijgesteld van het verrichten van arbeid.
+Transitiekosten bestaande uit de kosten voor de werkgever verbonden aan het in acht nemen van een langere dan de wettelijke of eerder overeengekomen opzegtermijn, kunnen, in afwijking van [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036594&artikel=2&z=2020-07-01&g=2020-07-01), in mindering gebracht worden op de transitievergoeding, indien de werknemer gedurende deze termijn is vrijgesteld van het verrichten van arbeid.
 
 ##### Artikel 6. Wijziging Besluit verrekening kosten met transitievergoeding
 
