@@ -4,7 +4,7 @@ identifier: "BWBR0024841"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-03-01"
-last_updated: "2020-03-17"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024841"
 soort: "AMvB"
@@ -74,7 +74,9 @@ In dit besluit wordt verstaan onder:
 
 - g. het register van psychotherapeuten;
 
-- h. het register van gezondheidszorgpsychologen.
+- h. het register van gezondheidszorgpsychologen;
+
+- i. het register van physician assistants.
 
 2. De inschrijving in een register als bedoeld in het eerste lid, wordt doorgehaald indien na de desbetreffende in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde datum een periode van vijf jaren is verstreken.
 
@@ -84,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2020-01-01&g=2020-03-17) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
+1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2020-07-01&g=2020-07-01) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld inzake de werkzaamheden die meetellen bij de berekening van het aantal uren waarbinnen werkzaamheden zijn verricht op het terrein van het desbetreffende beroep.
 
@@ -158,15 +160,15 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang, duur, en spreid
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2020-01-01&g=2020-03-17), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
+1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2020-07-01&g=2020-07-01), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
 
-2. Voor artsen voor wie een periode is vastgesteld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2020-01-01&g=2020-03-17) uitgegaan van een periode van vijf aansluitende jaren, die aanvangt op:
+2. Voor artsen voor wie een periode is vastgesteld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2020-07-01&g=2020-07-01) uitgegaan van een periode van vijf aansluitende jaren, die aanvangt op:
 
 - a. de aangetekende datum, of
 
 - b. 1 januari 2013.
 
-3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2020-01-01&g=2020-03-17), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
+3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2020-07-01&g=2020-07-01), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
 
 ##### Artikel 8
 
@@ -184,19 +186,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2022-07-01&g=2020-03-17), geldt voor beoefenaren van de in artikel 2, eerste lid, genoemde beroepen:
+1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2022-07-01&g=2020-07-01), geldt voor beoefenaren van de in artikel 2, eerste lid, genoemde beroepen:
 
 - a. van wie de periode, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) eindigt of zonder doorhaling van de inschrijving is geëindigd tussen 17 maart 2020 en de datum, bedoeld in het vierde lid, dat die periode wordt verlengd tot die datum.
 
-- b. wanneer zij voor het verstrijken van de periode, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) een aanvraag hebben ingediend tot aantekening van een datum als bedoeld in artikel 8, tweede lid, onder b of c, van de wet en op 17 maart 2020 op die aanvraag nog niet is beslist, dat de periode van vijf jaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2022-07-01&g=2020-03-17), wordt verlengd tot de datum, bedoeld in het vierde lid.
+- b. wanneer zij voor het verstrijken van de periode, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) een aanvraag hebben ingediend tot aantekening van een datum als bedoeld in artikel 8, tweede lid, onder b of c, van de wet en op 17 maart 2020 op die aanvraag nog niet is beslist, dat de periode van vijf jaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2022-07-01&g=2020-07-01), wordt verlengd tot de datum, bedoeld in het vierde lid.
 
-2. Voor beroepsbeoefenaren voor wie een periode is verlengd op grond van het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2022-07-01&g=2020-03-17) uitgegaan van een periode van vijf aansluitende jaren, die
+2. Voor beroepsbeoefenaren voor wie een periode is verlengd op grond van het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2022-07-01&g=2020-07-01) uitgegaan van een periode van vijf aansluitende jaren, die
 
 - a. aanvangt op de aangetekende datum, of
 
 - b. eindigt op de dag voorafgaande aan de datum, bedoeld in het vierde lid.
 
-3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2022-07-01&g=2020-03-17), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
+3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2022-07-01&g=2020-07-01), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
 
 4. De datum, bedoeld in het eerste en tweede lid, is de eerste dag van de zesde kalendermaand na de datum van inwerkingtreding van dit artikel.
 
