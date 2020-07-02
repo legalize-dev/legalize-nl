@@ -4,7 +4,7 @@ identifier: "BWBR0043534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2020-05-16"
+last_updated: "2020-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043534"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **resultaatverbeteringstoets:** toets, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-05-16&g=2020-05-16);
+- **resultaatverbeteringstoets:** toets, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-07-02&g=2020-07-02);
 
 - **schoolexamen:** examen, bedoeld in [artikel 32 van het EB VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=32), niet zijnde het centraal examen.
 
@@ -84,7 +84,7 @@ Besluit:
 
 - c. de beoordeling van het profielwerkstuk in het vmbo; en
 
-- d. de uitslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=5&z=2020-05-16&g=2020-05-16).
+- d. de uitslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=5&z=2020-07-02&g=2020-07-02).
 
 4. Het bevoegd gezag kan in afwijking van het tweede lid een kandidaat die ten gevolge van ziekte of een andere van zijn wil onafhankelijke omstandigheid het schoolexamen in een of meer vakken niet heeft kunnen afsluiten voor 5 juni 2020, in de gelegenheid stellen het schoolexamen in dat vak of in die vakken af te sluiten voor de dag waarop de resultaatverbeteringstoets voor de betreffende vakken wordt afgenomen.
 
@@ -102,7 +102,7 @@ Besluit:
 
 3. De directeur bepaalt het eindcijfer per vak op het cijfer van het schoolexamen, afgerond tot een geheel getal. Indien het eerste cijfer achter de komma een 4 of lager is, wordt naar beneden afgerond. Indien het eerste cijfer achter de komma een 5 of hoger is, wordt naar boven afgerond.
 
-4. Indien het eindcijfer in een eerder leerjaar is bepaald, blijft het alsdan behaalde cijfer van kracht, tenzij de kandidaat voor het betreffende vak heeft deelgenomen aan de resultaatverbeteringstoets en het daarvoor behaalde cijfer leidt tot een hoger eindcijfer als bedoeld in [artikel 10, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-05-16&g=2020-05-16).
+4. Indien het eindcijfer in een eerder leerjaar is bepaald, blijft het alsdan behaalde cijfer van kracht, tenzij de kandidaat voor het betreffende vak heeft deelgenomen aan de resultaatverbeteringstoets en het daarvoor behaalde cijfer leidt tot een hoger eindcijfer als bedoeld in [artikel 10, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-07-02&g=2020-07-02).
 
 5. In afwijking van het eerste en tweede lid, worden de kunstvakken en het vak lichamelijke opvoeding uit het gemeenschappelijk deel van elk profiel, beoordeeld met ‘voldoende’ of ‘goed’. Deze beoordeling gaat uit van de mogelijkheden van de leerling en geschiedt op de grondslag van het genoegzaam afsluiten van de desbetreffende vakken, zoals blijkend uit het examendossier.
 
@@ -110,7 +110,7 @@ Besluit:
 
 ##### Artikel 5. Vaststelling uitslag
 
-1. De directeur en de secretaris van het eindexamen stellen in geval van een eindexamen uiterlijk op 4 juni 2020 de uitslag vast met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16) en, voor zover van toepassing, [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=9&z=2020-05-16&g=2020-05-16).
+1. De directeur en de secretaris van het eindexamen stellen in geval van een eindexamen uiterlijk op 4 juni 2020 de uitslag vast met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02) en, voor zover van toepassing, [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=9&z=2020-07-02&g=2020-07-02).
 
 2. De uitslag luidt ‘geslaagd’ of ‘afgewezen’.
 
@@ -118,13 +118,13 @@ Besluit:
 
 4. De directeur vergewist zich ervan dat het eindexamen de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=24) of [25 van het EB VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=25) voorgeschreven vakken omvat, met dien verstande dat deze artikelen buiten toepassing blijven voor zover zij zien op de rekentoets.
 
-5. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van de mogelijkheid tot deelname aan de resultaatverbeteringstoets. De uitslag is definitief als [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-05-16&g=2020-05-16) geen toepassing vindt.
+5. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van de mogelijkheid tot deelname aan de resultaatverbeteringstoets. De uitslag is definitief als [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-07-02&g=2020-07-02) geen toepassing vindt.
 
 ##### Artikel 6. Vaststelling uitslag schooljaren 2020–2021 en 2021–2022 na gespreid examen en na examen in eerder leerjaar dan het laatste
 
-1. De eindcijfers die in het schooljaar 2019–2020 zijn behaald door de kandidaat die een gespreid eindexamen als bedoeld in [artikel 59 van het EB VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59) aflegt, of de kandidaat op wie [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-05-16&g=2020-05-16), van toepassing is, tellen mee als eindcijfers bij het vaststellen van de uitslag van het eindexamen door de directeur en secretaris in de schooljaren 2020–2021 en 2021–2022.
+1. De eindcijfers die in het schooljaar 2019–2020 zijn behaald door de kandidaat die een gespreid eindexamen als bedoeld in [artikel 59 van het EB VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59) aflegt, of de kandidaat op wie [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-07-02&g=2020-07-02), van toepassing is, tellen mee als eindcijfers bij het vaststellen van de uitslag van het eindexamen door de directeur en secretaris in de schooljaren 2020–2021 en 2021–2022.
 
-2. In het geval de leerling die in het schooljaar 2019–2020 het eindexamen, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-05-16&g=2020-05-16), heeft afgelegd in een of meer vakken niet wordt bevorderd tot het volgende leerjaar, komen de met dat eindexamen behaalde eindcijfers te vervallen.
+2. In het geval de leerling die in het schooljaar 2019–2020 het eindexamen, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-07-02&g=2020-07-02), heeft afgelegd in een of meer vakken niet wordt bevorderd tot het volgende leerjaar, komen de met dat eindexamen behaalde eindcijfers te vervallen.
 
 ##### Artikel 7. Uitslag eindexamen leerwegen vmbo
 
@@ -202,21 +202,21 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16), en de vakken van het profieldeel, en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02), en de vakken van het profieldeel, en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 7 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16).
+- b. ten minste het eindcijfer 7 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02).
 
 2. Een kandidaat is geslaagd voor het eindexamen havo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften:
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16), en de vakken van het profieldeel, en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02), en de vakken van het profieldeel, en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02).
 
 3. Een kandidaat is geslaagd voor het eindexamen vmbo theoretische leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften:
 
@@ -226,7 +226,7 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02).
 
 4. Een kandidaat is geslaagd voor het eindexamen vmbo basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften:
 
@@ -234,9 +234,9 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 - 1°. de eindcijfers voor het profielvak en de twee algemene vakken van het profieldeel, en
 
-- 2°. het eindcijfer berekend op grond van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16), en
+- 2°. het eindcijfer berekend op grond van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02), en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02).
 
 5. Een kandidaat is geslaagd voor het eindexamen vmbo gemengde leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften:
 
@@ -244,9 +244,9 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 - 1°. de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de algemene vakken van het profieldeel, en
 
-- 2°. het algemene vak uit het vrije deel of het eindcijfer berekend op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16), en
+- 2°. het algemene vak uit het vrije deel of het eindcijfer berekend op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02), en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie ‘voldoende’ voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02).
 
 ##### Artikel 10. Resultaatverbeteringstoets
 
@@ -256,7 +256,7 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 3. De kandidaat die het eindexamen van de basis- of kaderberoepsgerichte leerweg in het vmbo heeft afgelegd, heeft tevens het recht om voor het beroepsgerichte profielvak, waarin hij in het schooljaar 2019–2020 eindexamen heeft afgelegd, deel te nemen aan de resultaatverbeteringstoets.
 
-4. De kandidaat bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-05-16&g=2020-05-16), kan in het schooljaar 2019–2020 ook voor vakken die hij in een eerder schooljaar heeft afgesloten deelnemen aan de resultaatverbeteringstoets, met inachtneming van het vijfde, zesde en zevende lid.
+4. De kandidaat bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=3&z=2020-07-02&g=2020-07-02), kan in het schooljaar 2019–2020 ook voor vakken die hij in een eerder schooljaar heeft afgesloten deelnemen aan de resultaatverbeteringstoets, met inachtneming van het vijfde, zesde en zevende lid.
 
 5. De kandidaat die nog geen gebruik heeft gemaakt van zijn recht om opnieuw deel te nemen aan het centraal examen als bedoeld in [artikel 51 van het EB VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=51), kan in het schooljaar 2019–2020 deelnemen aan alle resultaatsverbeteringstoetsen, bedoeld in het tweede en derde lid, met dien verstande:
 
@@ -276,11 +276,13 @@ Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de
 
 10. Het cijfer voor de resultaatverbeteringstoets wordt uitgedrukt in een getal uit een schaal van cijfers lopende van 1 tot en met 10, met de daartussen liggende cijfers met één decimaal.
 
-11. Het rekenkundig gemiddelde van de cijfers behaald voor de resultaatverbeteringstoets en het schoolexamen, afgerond tot een geheel getal, geldt in afwijking van [artikel 4, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=4&z=2020-05-16&g=2020-05-16), als eindcijfer, tenzij dat rekenkundig gemiddelde lager is dan het eerder bepaalde eindcijfer voor het vak. Artikel 4, derde lid, tweede en derde volzin, is van overeenkomstige toepassing.
+11. Het rekenkundig gemiddelde van de cijfers behaald voor de resultaatverbeteringstoets en het schoolexamen, uitgedrukt in een cijfer uit een schaal van cijfers lopende van 1 tot en met 10 met de daartussen liggende cijfers met één decimaal, geldt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=4&z=2020-07-02&g=2020-07-02), als schoolexamencijfer voor het betreffende vak, tenzij dat cijfer lager is dan het eerder bepaalde cijfer van het schoolexamen voor het vak. Artikel 4, eerste lid, tweede en derde volzin, is van overeenkomstige toepassing.
 
-12. Na afloop van de resultaatverbeteringstoets in het laatste leerjaar wordt de uitslag definitief vastgesteld met overeenkomstige toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16).
+12. Het schoolexamencijfer, bedoeld in het elfde lid, afgerond tot een geheel getal, geldt in afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=4&z=2020-07-02&g=2020-07-02), als eindcijfer. Artikel 4, derde lid, tweede en derde volzin, is van overeenkomstige toepassing.
 
-13. De uitslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=5&z=2020-05-16&g=2020-05-16), wordt, met inachtneming van dit artikel uiterlijk op de laatste dag, voorafgaand aan de periode van de zomervakantie die voor de betreffende regio is vastgesteld in [artikel 6 van de Regeling vaststelling schoolvakanties 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=6), schriftelijk door de directeur aan de kandidaat bekendgemaakt.
+13. Na afloop van de resultaatverbeteringstoets in het laatste leerjaar wordt de uitslag definitief vastgesteld met overeenkomstige toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02).
+
+14. De uitslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=5&z=2020-07-02&g=2020-07-02), wordt, met inachtneming van dit artikel uiterlijk op de laatste dag, voorafgaand aan de periode van de zomervakantie die voor de betreffende regio is vastgesteld in [artikel 6 van de Regeling vaststelling schoolvakanties 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=6), schriftelijk door de directeur aan de kandidaat bekendgemaakt.
 
 14. Na afloop van de resultaatverbeteringstoets in het voorlaatste of direct daaraan voorafgaande leerjaar wordt het eindcijfer schriftelijk door de directeur aan de kandidaat bekendgemaakt.
 
@@ -336,11 +338,11 @@ In het geval onbillijkheden van overwegende aard kan het bevoegd gezag de kandid
 
 - 2°. deze tenminste de duur heeft gehad van 30 uren,
 
-- g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van [artikel 7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-05-16&g=2020-05-16),
+- g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van [artikel 7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=8&z=2020-07-02&g=2020-07-02),
 
 - h. de uitslag van het eindexamen, en
 
-- i. de in een eerder jaar behaalde cijfers voor het centraal examen, tenzij de kandidaat voor het betreffende vak heeft deelgenomen aan de resultaatverbeteringstoets en het daarvoor behaalde cijfer leidt tot een hoger eindcijfer als bedoeld in [artikel 10, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-05-16&g=2020-05-16).
+- i. de in een eerder jaar behaalde cijfers voor het centraal examen, tenzij de kandidaat voor het betreffende vak heeft deelgenomen aan de resultaatverbeteringstoets en het daarvoor behaalde cijfer leidt tot een hoger eindcijfer als bedoeld in [artikel 10, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=10&z=2020-07-02&g=2020-07-02).
 
 2. De directeur reikt op grond van de definitieve uitslag aan elke voor het eindexamen geslaagde kandidaat, daaronder mede begrepen de kandidaat die zijn eindexamen met gunstig gevolg heeft voltooid ten overstaan van het College voor toetsen en examens, een diploma uit, waarop het profiel of de profielen zijn vermeld die bij de uitslag zijn betrokken. Op het diploma vmbo is in elk geval de leerweg vermeld die bij de uitslag is betrokken.
 
@@ -382,7 +384,7 @@ In het geval onbillijkheden van overwegende aard kan het bevoegd gezag de kandid
 
 7. Indien de kandidaat in een bepaald jaar is geslaagd voor het eindexamen, draagt de directeur er op verzoek van de kandidaat zorg voor dat de behaalde cijfers voor de vakken waarin in datzelfde jaar deeleindexamen of deelstaatsexamen is afgelegd, worden vermeld op de cijferlijst.
 
-8. De directeur van een scholengemeenschap die in elk geval een school voor mavo omvat, reikt op verzoek van de kandidaat die met goed gevolg het examen vmbo in de gemengde leerweg aan die school heeft afgelegd en bovendien examen heeft afgelegd in een extra algemeen vak en met het meetellen van dat vak voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-05-16&g=2020-05-16) voor zover het betreft de uitslag van het eindexamen vmbo in de theoretische leerweg, het diploma vmbo van de theoretische leerweg uit.
+8. De directeur van een scholengemeenschap die in elk geval een school voor mavo omvat, reikt op verzoek van de kandidaat die met goed gevolg het examen vmbo in de gemengde leerweg aan die school heeft afgelegd en bovendien examen heeft afgelegd in een extra algemeen vak en met het meetellen van dat vak voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=7&z=2020-07-02&g=2020-07-02) voor zover het betreft de uitslag van het eindexamen vmbo in de theoretische leerweg, het diploma vmbo van de theoretische leerweg uit.
 
 ##### Artikel 17. Voorlopige cijferlijst
 
@@ -424,9 +426,9 @@ Bij de verstrekking van gegevens als bedoeld in [artikel 56 van het EB VO](https
 
 2. Dit besluit vervalt met ingang van 1 januari 2021, met uitzondering van:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=6&z=2020-05-16&g=2020-05-16), dat vervalt met ingang van 1 januari 2023;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=6&z=2020-07-02&g=2020-07-02), dat vervalt met ingang van 1 januari 2023;
 
-- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=20&z=2020-05-16&g=2020-05-16) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=21&z=2020-05-16&g=2020-05-16), die vervallen met ingang van 1 januari 2030.
+- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=20&z=2020-07-02&g=2020-07-02) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043534&artikel=21&z=2020-07-02&g=2020-07-02), die vervallen met ingang van 1 januari 2030.
 
 ##### Artikel 23. Citeertitel
 
