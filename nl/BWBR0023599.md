@@ -4,7 +4,7 @@ identifier: "BWBR0023599"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-18"
-last_updated: "2008-03-10"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023599"
 soort: "beleidsregel"
@@ -35,7 +35,7 @@ entry_into_force: "2025-01-18"
 ---
 # Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling
 
-In dit besluit zijn enkele standpunten opgenomen over de toepassing van het regime van de vrijgestelde beleggingsinstelling, alsmede enkele aanwijzingen voor de uitvoering door de Belastingdienst. Bovendien bevat dit besluit twee goedkeuringen.
+**Dit besluit bevat het beleid met betrekking tot de vrijgestelde beleggingsinstelling (VBI) van artikel 6a van de Wet op de vennootschapsbelasting 1969 en is meest recent gewijzigd bij besluit van 24 juni 2020, nr. 2020-4943, (Stcrt. 34995). Gewijzigd is daarbij het volgende. De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen is aangewezen als bevoegde inspecteur voor het afgeven van de beschikkingen. Vervallen is de goedkeuring dat kort gezegd de zogenoemde doorkijkregeling niet geldt voor belangen in buitenlandse beleggingslichamen die vallen onder het waarderingsvoorschrift van artikel 3.29a van de Wet IB 2001. Dit is inmiddels wettelijk geregeld in het tiende lid van artikel 4.14 van de Wet IB 2001.**
 
 ### 1. Inleiding
 
@@ -85,9 +85,9 @@ Het voldoen aan de beleggingseisen acht ik van groot belang. Toetsing dient dan 
 
 In veel gevallen waarin het VBI regime wordt aangevraagd is sprake van een voorafgaande splitsing van bestaande vennootschappen (met geen of niet uitsluitend beleggingsactiviteiten) en wordt verzocht om deze splitsing fiscaal vrijgesteld te mogen uitvoeren. Voor deze vrijstelling is onder andere vereist dat de splitsing niet in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing (zie o.a. [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)). Ik keur goed dat een splitsing die enkel gericht is op de verkrijging van de voordelen van het VBI regime niet wordt aangemerkt als een splitsing die gericht is op het ontgaan of uitstellen van belastingheffing (in de zin van onder andere [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)).
 
-### 5. Goedkeuring voor middellijke belangen in buitenlandse beleggingslichamen
+### 5. Centrale uitvoering door de Belastingdienst Grote Ondernemingen Noordoost/Kantoor Groningen
 
-De regeling van het aanmerkelijk belang in de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bepaalt onder andere dat een forfaitair voordeel in aanmerking wordt genomen bij belangen in vrijgestelde beleggingsinstellingen en buitenlandse beleggingslichamen ([artikel 4.13, eerste lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13)). Wat betreft buitenlandse beleggingslichamen geldt dit (onder omstandigheden) ook indien het belang wordt aangehouden via een in Nederland gevestigde vennootschap ([artikel 4.14, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14)). Deze zogenoemde doorkijkregeling geldt uitdrukkelijk niet voor belangen in vrijgestelde beleggingsinstellingen ([artikel 4.14, tiende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14)). Volgens de Memorie van toelichting zou anders ‘in enige mate sprake kunnen zijn van overkill’ (Tweede Kamer, vergaderjaar 2005–2006, 30 533, nr. 3, blz. 13). Verwezen wordt daarbij naar het waarderingsvoorschrift van [artikel 3.29a van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.29a), dat de Nederlandse vennootschap die het belang houdt in de vrijgestelde beleggingsinstelling verplicht tot waardering van dit belang op de waarde in het economische verkeer.
+Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen aan als bevoegde eenheid voor het afgeven van beschikkingen en de beoordeling of na het afgeven van een positieve beschikking aan de eisen wordt voldaan. Alle verzoeken dienen onverwijld aan deze eenheid te worden doorgeleid. Dat geldt ook voor reeds ingediende verzoeken. De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen draagt in overleg de bevoegdheid over aan de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam wanneer sprake is van vergunningplicht ingevolge de Wet op het financieel toezicht zonder vrijstelling of ontheffing, en daarmee vergelijkbare gevallen. De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen wijs ik hierbij ook aan als bevoegd, te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie paragraaf 4 van dit Besluit).
 
 Gezien deze parlementaire geschiedenis keur ik goed dat de doorkijkregeling van [artikel 4.14, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14) ook niet wordt toegepast op belangen in buitenlandse beleggingslichamen waarvoor het waarderingsvoorschrift van [artikel 3.29a van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.29a) ook geldt. Er zijn naar mijn mening geen relevante verschillen tussen samenloop van dit waarderingsvoorschrift en de doorkijkregeling bij de vrijgestelde beleggingsinstelling en bij de buitenlandse beleggingsinstelling.
 
@@ -96,5 +96,7 @@ Naar aanleiding van deze goedkeuring ben ik voornemens een dienovereenkomstig vo
 ### 6. Centrale uitvoering door de Belastingdienst Oost/kantoor Almelo
 
 Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij voorts de Belastingdienst Oost/kantoor Almelo aan als bevoegde eenheid voor het afgeven van beschikkingen en de beoordeling of na het afgeven van een positieve beschikking aan de eisen wordt voldaan. Alle verzoeken dienen onverwijld aan deze eenheid te worden doorgeleid. Dat geldt ook voor reeds ingediende verzoeken. Dit regiokantoor draagt in overleg de bevoegdheid over aan Belastingdienst/Amsterdam wanneer sprake is van vergunningplicht ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) zonder vrijstelling of ontheffing, en daarmee vergelijkbare gevallen. Belastingdienst Oost/kantoor Almelo wijs ik hierbij ook aan als bevoegd, te beslissen op splitsingsverzoeken (zie paragraaf 4 van dit Besluit) die (mede) zijn gericht op het verkrijgen van de VBI-status.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
