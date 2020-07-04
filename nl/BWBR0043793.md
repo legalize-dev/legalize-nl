@@ -121,9 +121,3 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling nadeelcompensatie verbod
 Deze regeling treedt in werking op in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
