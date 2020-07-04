@@ -125,9 +125,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Beleidsregel nadeelcompensatie verbod laagcalorisch gas grootste afnemers.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Uitbreiding grondslag
-
-Deze beleidsregel berust mede op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
