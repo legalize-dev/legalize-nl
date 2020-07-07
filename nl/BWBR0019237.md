@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -237,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2020-07-01&g=2020-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2020-07-07&g=2020-07-07), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -265,7 +265,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2020-07-01&g=2020-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2020-07-07&g=2020-07-07), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -313,6 +313,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9b. Hardheidsregeling kinderopvangtoeslag
 
-Dit onderdeel is nog niet inwerking getreden
+1. Van bijzondere omstandigheden als bedoeld in [artikel 49, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49) is in ieder geval sprake indien:
+
+- a. een derde fraudeert ten aanzien van de kinderopvangtoeslag zonder medeweten en betrokkenheid van de belanghebbende die de gevolgen ondervindt van die fraude; of
+
+- b. een door de belanghebbende redelijkerwijs niet meer te herstellen geringe formele tekortkoming heeft geleid tot aanzienlijke negatieve gevolgen voor het recht op kinderopvangtoeslag, terwijl aan alle materiële eisen voor de betreffende toeslag is voldaan, tenzij de belanghebbende na herhaalde verzoeken van de Belastingdienst/Toeslagen die geringe formele tekortkoming niet heeft hersteld, terwijl hij daartoe wel in de gelegenheid was.
+
+2. Van bijzondere omstandigheden als bedoeld in [artikel 49, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49) is op zichzelf in ieder geval geen sprake indien:
+
+- a. de belanghebbende te kwader trouw is;
+
+- b. de beschikking tot terugvordering het gevolg is van een afwijking tussen het daadwerkelijk afgenomen aantal uren kinderopvang en het aantal uren kinderopvang op basis waarvan het voorschot kinderopvangtoeslag is berekend in dat berekeningsjaar; of
+
+- c. de beschikking tot terugvordering het gevolg is van een afwijking van het daadwerkelijke over het berekeningsjaar vastgestelde toetsingsinkomen voor de kinderopvangtoeslag en het geschatte inkomen op basis waarvan het voorschot op kinderopvangtoeslag is berekend.
+
+3. De Belastingdienst/Toeslagen zal de belanghebbende, indien de omstandigheden daartoe noodzaken, de gelegenheid bieden om zijn zienswijze te geven ten aanzien van het door de Minister van Financiën, in overeenstemming met de ministers die het aangaat, voorgenomen beschikking tot vaststelling van de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49).
+
+4. Indien de belanghebbende tijdig een bezwaarschrift heeft ingediend tegen de beschikking van de Minister van Financiën, in overeenstemming met de ministers die het aangaat, tot vaststelling van de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), brengt een onafhankelijke bezwaarschriftenadviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) advies uit over dit bezwaarschrift.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
