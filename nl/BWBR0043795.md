@@ -4,7 +4,7 @@ identifier: "BWBR0043795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-08"
-last_updated: "2020-07-01"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043795"
 soort: "ministeriele-regeling"
@@ -160,7 +160,7 @@ Wijzigt de Scheepsafvalstoffenregeling Rijn- en binnenvaart.
 
 1. Deze regeling treedt in werking met ingang van de datum waarop de [Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0043601) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na de in de eerste volzin bedoelde datum, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met de in de eerste volzin bedoelde datum.
 
-2. In afwijking van het eerste lid, treden [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=6&z=2020-07-08&g=2020-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=7&z=2020-07-08&g=2020-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=9&z=2020-07-08&g=2020-07-01) in werking op een bij ministerieel besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid, treden [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=6&z=2020-07-08&g=2020-07-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=7&z=2020-07-08&g=2020-07-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043795&artikel=9&z=2020-07-08&g=2020-07-08) in werking op een bij ministerieel besluit te bepalen tijdstip.
 
 3. Een ministerieel besluit als bedoeld in het tweede lid wordt in de Staatscourant bekendgemaakt.
 
