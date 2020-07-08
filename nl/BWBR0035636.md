@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2020-01-01"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2020-07-08&g=2020-01-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2020-07-08&g=2020-07-08) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -198,16 +198,17 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-## Bijlage 2. Subsidiebedrag per opleidingsplaats per fte
+## Bijlage 1. Subsidiebedrag per opleidingsplaats per fte:
 
-| nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats |
+| nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar |
 | --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoo in ggz | 30.300 |
-| 2. | Klinisch psycholoog in ggz | 36.900 |
-| 3. | Psychiater in ggz | 49.900 |
-| 4. | Psychotherapeut in ggz | 49.900 |
-|   |   |   |
-|   | Prijspeil 2017 |   |
+| 1. | Gezondheidszorgpsycholoog in ggz | € 45.100,– |
+| 2. | Klinisch psycholoog in ggz | € 84.700,– |
+| 3. | Psychiater in ggz | € 85.500,– |
+| 4. | Psychotherapeut in ggz | € 57.300,– |
+| 5. | Klinisch Neuropsycholoog in ggz | € 88.900,– |
+| 6. | Verpleegkundig specialist ggz | € 83.600,– |
+|   | Prijspeil 2020 |   |
 
 **Ministerie van Volksgezondheid, Welzijn en Sport**
 
@@ -246,3 +247,7 @@ Directie MEVA
 ### IV. Ondertekening
 
 **Bevoegd conform KvK JA/NEE (Indien NEE:voeg volmacht toe)**
+
+##### Artikel 10a
+
+De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
