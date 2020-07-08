@@ -188,9 +188,3 @@ De syllabus voor de centrale examens vmbo 2021 die bij een eerdere Regeling syll
 ### havo
 
 Voor de centrale examens havo 2023 wordt een syllabus voor het volgende vak vastgesteld:
-
-## Bijlage 3. Preliminaire vaststelling syllabi 2023
-
-**(Bijlage als bedoeld in artikel 3)**
-
-### havo
