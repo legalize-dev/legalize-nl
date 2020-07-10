@@ -4,7 +4,7 @@ identifier: "BWBR0043022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2020-07-01"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043022"
 soort: "ministeriele-regeling"
@@ -88,29 +88,29 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Mandaat aan SG en DG’s
 
-1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2020-07-10&g=2020-07-01).
+1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2020-07-10&g=2020-07-10).
 
 2. De SG en DG’s hebben binnen het kader van de jaarplannen en binnen eventueel door de minister of namens de minister door de SG gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
 3. De ondertekening van uitgaande stukken zal luiden als volgt:
 
-De Minister van Financiën, resp. De Staatssecretaris van Financiën,
+De Minister van Financiën, resp. De Staatssecretaris van Financiën – Toeslagen en Douane, resp. De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst,
 
 namens deze,
 
-gevolgd door de aanduiding van de (onder)gemandateerde
+gevolgd door de naam en functie van de (onder)gemandateerde.
 
 ##### Artikel 5. Ondermandaat
 
 1. De SG en de DG’s kunnen ieder voor hun werkterrein ondermandaat verlenen.
 
-2. Directeuren kunnen het aan hen verleende ondermandaat doormandateren. Voor ondermandaat door een directeur is de goedkeuring door de SG of de DG vereist.
+2. Directeuren kunnen het aan hen verleende ondermandaat doormandateren.
 
 3. In een ondermandaat wordt de omvang ervan aangegeven.
 
 ##### Artikel 6. Mandaatregister
 
-1. Onderdeel van deze regeling vormt een mandaatregister. Het mandaatregister bevat handtekeningen en parafen van de in dit besluit gemandateerde en gevolmachtigde functionarissen.
+1. Onderdeel van deze regeling vormt een mandaatregister. Het mandaatregister bevat de namen van de in dit besluit gemandateerde, ondergemandateerde en gevolmachtigde functionarissen.
 
 2. De directeur Juridische Zaken draagt zorg voor het bijhouden en online publiceren van het mandaatregister. Het mandaatregister wordt gepubliceerd op de webpagina van het ministerie van Financiën, te vinden via www.rijksoverheid.nl.
 
@@ -120,7 +120,7 @@ gevolgd door de aanduiding van de (onder)gemandateerde
 
 1. De SG en DG’s zijn hoofdbudgethouder voor wat betreft hun taken en zijn uit dien hoofde bevoegd verplichtingen – met financiële consequenties – aan te gaan en uitgaven goed te keuren binnen hun budgetten.
 
-2. In afwijking van het eerste lid, gaat de directeur-generaal Belastingdienst verplichtingen ten aanzien waarvan het verscherpt toezicht geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2020-07-10&g=2020-07-01), slechts aan in overeenstemming met de hoofddirecteur Control en Financiën van het DGBD dan wel de hoofddirecteur Financieel-Economische Zaken.
+2. In afwijking van het eerste lid, gaat de directeur-generaal Belastingdienst verplichtingen ten aanzien waarvan het verscherpt toezicht geldt, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=1&z=2020-07-10&g=2020-07-10), slechts aan in overeenstemming met de hoofddirecteur Control en Financiën van het DGBD dan wel de hoofddirecteur Financieel-Economische Zaken.
 
 3. De hoofdbudgethouders zijn verantwoordelijk voor een adequaat financieel beheer.
 
@@ -128,7 +128,7 @@ gevolgd door de aanduiding van de (onder)gemandateerde
 
 1. Het mandaat van de DG met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de DG ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.
 
-2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2020-07-01) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
+2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2020-07-10) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
 
 ##### Artikel 9. Instemming van de hoofddirecteur FEZ
 
@@ -186,15 +186,15 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 ##### Artikel 13. Voorbehouden aan de pSG
 
-Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) is aan de pSG voorbehouden:
+Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) is aan de pSG voorbehouden:
 
 - a. het, na overleg met de bestuursraad, doen van voorstellen omtrent de vaststelling van de organisatie van het kernministerie vanaf het niveau van afdelingen (of daarmee vergelijkbare organisatieonderdelen) en lager, en hiermee samenhangend het besluiten tot reorganisaties;
 
 - b. het vaststellen van de formatie van het DGBD, voor zover het een uitbreiding van de totale formatie betreft;
 
-- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
+- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
 
-- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
+- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
 
 - e. het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de vorige twee onderdelen;
 
@@ -234,7 +234,7 @@ Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR004302
 
 Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van een DG, uitgezonderd het DGBD, ten aanzien van onder hen ressorterende medewerkers voorbehouden het nemen van beslissingen:
 
-- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2020-07-10&g=2020-07-01);
+- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2020-07-10&g=2020-07-10);
 
 - b. het afnemen van de eed of belofte;
 
@@ -266,9 +266,9 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - b. tot het vaststellen van de formatie, waarbij tot wijzigingen in formatie van functies met salarisschaal 16 en hoger na overleg met de bestuursraad besloten wordt;
 
-- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
+- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
 
-- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
+- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
 
 - e. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de CAO Rijk;
 
@@ -278,7 +278,7 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - h. tot beloning;
 
-- i. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-01) – beloning van ambtenaren in:
+- i. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2020-07-10&g=2020-07-10) – beloning van ambtenaren in:
 
 - i. overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies, of
 
@@ -302,7 +302,7 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 ##### Artikel 16. Voorbehouden aan de directeuren en hun plaatsvervangers
 
-1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen volmacht tot het nemen van besluiten en afdoen van stukken betreffende alle bedrijfsvoeringaangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020.
+1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen volmacht tot het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
 2. De in het eerste lid toegekende mandaten kunnen binnen het kader van hun taken ook worden uitgeoefend door de onder de directeuren ressorterende functionarissen die daartoe worden gemandateerd in het mandaatregister.
 
@@ -338,7 +338,7 @@ Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zij
 
 ##### Artikel 18. Personeelsbeslissingen
 
-Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2020-07-10&g=2020-07-01) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
+Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&bijlage=2&z=2020-07-10&g=2020-07-10) bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
 
 ##### Artikel 19. Overige bepalingen
 
@@ -368,7 +368,7 @@ Deze regeling wordt aangehaald als: Mandaatbesluit Ministerie van Financiën 202
 
 ## Bijlage 1. Verscherpt toezicht
 
-De toepasselijkheid van het verscherpt toezicht, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2020-07-01), wordt beoordeeld aan de hand van de hierna genoemde criteria.
+De toepasselijkheid van het verscherpt toezicht, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2020-07-10&g=2020-07-10), wordt beoordeeld aan de hand van de hierna genoemde criteria.
 
 Algemene criteria verscherpt toezicht
 
@@ -434,9 +434,9 @@ Wat valt niet onder het verscherpt toezicht?
 
 - ○. Ontvangsten (belastingontvangsten en apparaatsontvangsten).
 
-## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2020-07-01)
+## Bijlage 2. Personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2020-07-10)
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2020-07-01) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2020-07-10&g=2020-07-10) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
 
 - •. stopzetten of opschorten beloning bij ziekte;
 
