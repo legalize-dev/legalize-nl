@@ -4,7 +4,7 @@ identifier: "BWBR0043803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-10"
-last_updated: "2020-01-01"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043803"
 soort: "ministeriele-regeling"
@@ -48,15 +48,15 @@ Als personen, belast met het toezicht op de naleving van het bij of krachtens de
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Besluit houdende aanwijzing toezichthouders Kaderwet EZ-subsidies 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035074) wordt ingetrokken.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van artikel 1 terug tot en met 1 januari 2020.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Kaderwet EZK- en LNV-subsidies 2020.
 
 Gelet op [artikel 8, eerste lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=8);
 
