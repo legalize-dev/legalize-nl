@@ -4,7 +4,7 @@ identifier: "BWBR0043558"
 country: "nl"
 rank: "wet"
 publication_date: "2020-07-10"
-last_updated: "2020-05-21"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043558"
 soort: "wet"
@@ -65,7 +65,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel V
 
-1. De verplichting, bedoeld in [artikel 23b van de Wet ter voorkoming van witwassen en financiering van terrorisme](onbekend), is tot zes maanden na inwerkingtreding van [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0043558&artikel=I&z=2020-05-21&g=2020-05-21), niet van toepassing op een aanbieder als bedoeld in artikel 23b van de Wet ter voorkoming van witwassen en financieren van terrorisme die voor inwerkingtreding van artikel I, onderdeel P, een verzoek tot registratie heeft ingediend bij de Nederlandsche Bank N.V.
+1. De verplichting, bedoeld in [artikel 23b van de Wet ter voorkoming van witwassen en financiering van terrorisme](onbekend), is tot zes maanden na inwerkingtreding van [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0043558&artikel=I&z=2020-07-10&g=2020-07-10), niet van toepassing op een aanbieder als bedoeld in artikel 23b van de Wet ter voorkoming van witwassen en financieren van terrorisme die voor inwerkingtreding van artikel I, onderdeel P, een verzoek tot registratie heeft ingediend bij de Nederlandsche Bank N.V.
 
 2. [Artikel 23h van de Wet ter voorkoming van witwassen en financieren van terrorisme](onbekend) is gedurende deze zes maanden niet van toepassing op aanbieders als bedoeld in het eerste lid, met dien verstande dat door De Nederlandsche Bank N.V. pas tot registratie van de aanbieder wordt overgegaan, indien is voldaan aan artikel 23h, eerste, tweede of vierde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
