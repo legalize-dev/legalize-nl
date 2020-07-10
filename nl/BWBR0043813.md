@@ -4,7 +4,7 @@ identifier: "BWBR0043813"
 country: "nl"
 rank: "wet"
 publication_date: "2020-07-10"
-last_updated: "2020-01-31"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043813"
 soort: "wet"
@@ -42,19 +42,23 @@ entry_into_force: "2020-07-10"
 
 Wijzigt de Elektriciteitswet 1998.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Gaswet.
 
 ##### Artikel III
 
-Op ontheffingen die zijn verleend op basis van [artikel 18h van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=18h) zoals dit luidde voor het tijdstip van inwerkingtreding van [artikel II, onder K](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-01-31), blijven de bepalingen van toepassing zoals die golden ingevolge de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van artikel II, onder K.
+Op ontheffingen die zijn verleend op basis van [artikel 18h van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=18h) zoals dit luidde voor het tijdstip van inwerkingtreding van [artikel II, onder K](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-07-10), blijven de bepalingen van toepassing zoals die golden ingevolge de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van artikel II, onder K.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel I, onderdelen A, onder 1, subonderdeel a, B, E, onder 1, subonderdeel a, en onder 2, subonderdeel b, en onder 3, F, onder 1, G, H, I, onder 1 en onder 2, subonderdelen b, c en d, J, K tot en met N, O, onder 1, Q, onder 1, subonderdeel b, onder 2, subonderdeel b, en R](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=I&z=2020-07-10&g=2020-07-10), treedt in werking met ingang van 1 januari 2020 of, indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2019, met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+2. De [artikelen I, onderdelen A, onder 1, subonderdelen b tot en met d, onder 2 en 3, C, D, E, onder 1, subonderdelen b en c, en onder 2, subonderdeel a, F, onder 2, I, onder 2, subonderdeel a, Ja, O, onder 2, P, Q, onder 1, subonderdeel a, onder 2, subonderdeel a en onder 3, en S](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=I&z=2020-07-10&g=2020-07-10), en [II, onderdelen A, onder 1, subonderdelen b en c, B, C, L, en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-07-10), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+3. De [artikelen II, onderdelen A, onder 1, subonderdelen a en e, onder 2, D, onder 2 en onder 3, F, G, onder 2 en onder 3, H tot en met K, M, N, en R](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-07-10), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=III&z=2020-07-10&g=2020-07-10) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 januari 2020, treden zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werken zij terug tot en met 31 januari 2020.
+
+4. [Artikel II, onderdelen A, onder 1, subonderdeel d, D, onder 1, E, G, onder 1, O, P en Qa](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-07-10) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
