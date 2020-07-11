@@ -4,7 +4,7 @@ identifier: "BWBR0026570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2020-04-01"
+last_updated: "2020-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026570"
 soort: "ministeriele-regeling"
@@ -140,7 +140,7 @@ Besluit:
 
 - e. de volgende helikopterluchthavens: Amsterdam (Amsterdam Heliport), Emmercompascuum (Heli Holland BV), Rotterdam Maasvlakte (ten behoeve van het loodswezen) en Zierikzee (Prince Helicopters).
 
-2. In afwijking van het eerste lid, aanhef, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=12&z=2020-04-01&g=2020-04-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14a&z=2020-04-01&g=2020-04-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14b&z=2020-04-01&g=2020-04-01) van toepassing op alle luchthavens die onder één of meer van de onderdelen van het eerste lid vallen.
+2. In afwijking van het eerste lid, aanhef, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=12&z=2020-07-11&g=2020-07-11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14&z=2020-07-11&g=2020-07-11), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14a&z=2020-07-11&g=2020-07-11) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14b&z=2020-07-11&g=2020-07-11) van toepassing op alle luchthavens die onder één of meer van de onderdelen van het eerste lid vallen.
 
 ### Afdeling 2. Certificering
 
@@ -186,7 +186,7 @@ De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bev
 
 ##### Artikel 6
 
-1. Als sleutelfunctionaris als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=2&artikel=4&z=2020-04-01&g=2020-04-01), wordt in ieder geval aangemerkt een door de exploitant te benoemen havenmeester.
+1. Als sleutelfunctionaris als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=2&artikel=4&z=2020-07-11&g=2020-07-11), wordt in ieder geval aangemerkt een door de exploitant te benoemen havenmeester.
 
 2. De havenmeester wordt door de exploitant belast met het dagelijkse toezicht op de luchthaven en in het bijzonder met het toezicht op de orde en veiligheid in het luchtvaartgebied.
 
@@ -242,7 +242,7 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 ##### Artikel 11
 
-De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=10&z=2020-04-01&g=2020-04-01) niet uitgezonderde onderdelen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag gelden met dien verstande dat:
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=10&z=2020-07-11&g=2020-07-11) niet uitgezonderde onderdelen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag gelden met dien verstande dat:
 
 - a. de exploitant ervoor zorgt dat de gegevens, bedoeld in hoofdstuk 2 van deel I van bijlage 14, worden verstrekt aan de organisatie die verantwoordelijk is voor de uitgifte van luchtvaartpublicaties;
 
@@ -292,20 +292,31 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 - t. op banen als bedoeld in onderdeel r van artikel 11 van de onderhavige regeling binnen 3 minuten de volledige hoeveelheid blusmiddel, bedoeld in de kolommen 3, 5 of 7 van tabel 9-2, kan zijn opgebracht;
 
-- u. onder voldoende getraind en competent personeel als bedoeld in onderdeel 9.2.44, minimaal de in de onderstaande tabel opgenomen aantallen personeel wordt verstaan:
+- u. bij het bepalen van het minimum aantal personeel, bedoeld in onderdeel 9.2.45, de exploitant ten minste aandacht besteedt aan:
 
-| Luchthaven categorie | Airport Fire Officer | On Scene Commander | Bevelvoerder | Manschap | Certificaathouders | Totaal |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 |   |   |   |   | 2 | 2 |
-| 2 |   |   |   |   | 2 | 2 |
-| 3 zonder luchtverkeersleiding |   |   |   |   | 3 | 3 |
-| 3 met luchtverkeersleiding |   |   | 1 | 2 |   | 3 |
-| 4 |   |   | 1 | 3 |   | 4 |
-| 5 |   |   | 1 | 3 |   | 4 |
-| 6 |   | 1 | 1 | 5 |   | 7 |
-| 7 |   | 1 | 1 | 5 |   | 7 |
-| 8 en 9 met 1 uitrukpost |   | 1 | 1 | 9 |   | 11 |
-| 8, 9 en 10 met meer uitrukposten | 1 |   | 1 | 9 |   | 11 |
+- 1°. de typen luchtvaartuigen die van de luchthaven gebruik maken;
+
+- 2°. de standaardsituatie in het gebruik van de luchthaven dat als uitgangspunt wordt genomen;
+
+- 3°. de grootste risico’s die zich redelijkerwijs kunnen voordoen op de luchthaven;
+
+- 4°. het in werking stellen van het calamiteitenplan van de luchthaven;
+
+- 5°. de uitruk binnen de vereiste reactietijd;
+
+- 6°. het minimum aantal voertuigen en de benodigde hoeveelheid blusmiddel;
+
+- 7°. de selectie van rijroutes en communicatiemiddelen;
+
+- 8°. de optimale positie van materieel;
+
+- 9°. het bedienen van het commandocentrum;
+
+- 10°. het bestrijden van brand;
+
+- 11°. het assisteren bij de evacuatie van het luchtvaartuig;
+
+- 12°. de tijdsperiode waarbinnen assistentie van brandweerpersoneel van de veiligheidsregio kan worden verwacht;
 
 - v. in afwijking van onderdeel t is, indien het vliegtuig dat maatgevend is voor de luchthavencategorie niet wordt gebruikt voor het vervoer van personen:
 
@@ -344,7 +355,7 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 ##### Artikel 13
 
-Op het deel van een luchthaven, buiten het deel van de luchthaven dat wordt gebruikt voor en ten behoeve van de hoofdbaan, dat wordt gebruikt door een van de luchtvaartuigen als bedoeld in de [paragrafen 4 tot en met 12 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=4&z=2020-04-01&g=2020-04-01) van deze regeling, zijn de eisen die in deze paragrafen zijn opgenomen met betrekking tot een luchthaven en het gebruik hiervan door een dergelijk luchtvaartuig van overeenkomstige toepassing.
+Op het deel van een luchthaven, buiten het deel van de luchthaven dat wordt gebruikt voor en ten behoeve van de hoofdbaan, dat wordt gebruikt door een van de luchtvaartuigen als bedoeld in de [paragrafen 4 tot en met 12 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=4&z=2020-07-11&g=2020-07-11) van deze regeling, zijn de eisen die in deze paragrafen zijn opgenomen met betrekking tot een luchthaven en het gebruik hiervan door een dergelijk luchtvaartuig van overeenkomstige toepassing.
 
 ##### Artikel 14
 
@@ -408,7 +419,7 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 ##### Artikel 17
 
-De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=16&z=2020-04-01&g=2020-04-01) niet uitgezonderde onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag gelden met dien verstande dat:
+De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=16&z=2020-07-11&g=2020-07-11) niet uitgezonderde onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag gelden met dien verstande dat:
 
 - a. de voorschriften en aanbevelingen in hoofdstuk 2 van deel II van bijlage 14 alleen van toepassing zijn op de helikopterluchthaven Amsterdam (Amsterdam Heliport) en de exploitant ervoor zorg draagt dat de gegevens, bedoeld in hoofdstuk 2, worden verstrekt aan de organisatie die verantwoordelijk is voor de uitgifte van luchtvaartpublicaties;
 
@@ -430,7 +441,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 1. Een verhoogde helikopterluchthaven die gebruikt wordt door een helikopter die is ingedeeld in performance klasse 3, bedoeld in onderdeel III van bijlage 6 bij het verdrag, is zodanig gelegen dat in de directe omgeving van de luchthaven geschikte gronden aanwezig zijn voor het uitvoeren van een nood- of voorzorgslanding.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14&z=2020-04-01&g=2020-04-01) is, met uitzondering van helikopterluchthavens die verbonden zijn met een mijnbouwinstallatie als bedoeld in [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), van overeenkomstige toepassing.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14&z=2020-07-11&g=2020-07-11) is, met uitzondering van helikopterluchthavens die verbonden zijn met een mijnbouwinstallatie als bedoeld in [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Regels veilig gebruik overige burgerluchthavens en terreinen voor tijdelijk en uitzonderlijk gebruik
 
@@ -440,7 +451,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 1. Dit hoofdstuk is van toepassing op:
 
-- a. burgerluchthavens die niet onder de reikwijdte van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&z=2020-04-01&g=2020-04-01) vallen en die niet gecertificeerd zijn als bedoeld in artikel 6 van Verordening (EU) nr. 139/2014;
+- a. burgerluchthavens die niet onder de reikwijdte van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&z=2020-07-11&g=2020-07-11) vallen en die niet gecertificeerd zijn als bedoeld in artikel 6 van Verordening (EU) nr. 139/2014;
 
 - b. terreinen voor tijdelijk en uitzonderlijk gebruik;
 
@@ -484,11 +495,11 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 9. In het geval een openbare weg of spoorweg in de nabijheid van een luchthaven aanwezig is, dan geldt deze als een obstakel van 5 respectievelijk 5,5 meter boven die weg of spoorweg.
 
-10. Het eerste, zesde, zevende en negende lid zijn van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01).
+10. Het eerste, zesde, zevende en negende lid zijn van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11).
 
 ##### Artikel 21
 
-Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), is niet gelegen:
+Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), is niet gelegen:
 
 - a. in een gebied waar het uitoefenen van het burgerluchtverkeer tijdelijk of blijvend is verboden op grond van [artikel 5.10, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
 
@@ -538,7 +549,7 @@ Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://w
 
 ##### Artikel 23
 
-Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. de luchthaven en het gebruik hiervan voldoen aan de voorschriften en aanbevelingen uit de navolgende onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag: 3.1.1, 3.1.2, 3.1.3, 3.1.6, 3.1.8, 3.1.14, 3.1.16, 3.1.21, 3.1.22, 3.1.23, 3.1.24 en 5.2.2;
 
@@ -548,7 +559,7 @@ Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaal
 
 ##### Artikel 24
 
-Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een helikopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een helikopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. het terrein is verder gelegen dan 50 meter van aaneengesloten woonbebouwing;
 
@@ -562,7 +573,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 25
 
-1. Een luchthaven die gebruikt wordt door een mla en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een mla en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. voor het landen en opstijgen is een baan beschikbaar met een lengte van ten minste 200 meter en een breedte van ten minste 30 meter;
 
@@ -582,7 +593,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 26
 
-1. Een luchthaven die gebruikt wordt door een gemotoriseerd schermvliegtuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een gemotoriseerd schermvliegtuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. voor het landen en opstijgen is een baan beschikbaar met een lengte van ten minste 70 meter en een breedte van ten minste 25 meter;
 
@@ -600,7 +611,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 27
 
-1. Een luchthaven die gebruikt wordt door een vrije ballon en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een vrije ballon en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. de luchthaven is zodanig gelegen dat in de richting van de opstijging eventuele obstakels met een hoogteverschil van ten minste 15 meter overvaren kunnen worden;
 
@@ -612,17 +623,17 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 - e. een opstijging van een vrije ballon die door middel van een kabel tijdelijk is bevestigd aan het aardoppervlak wordt alleen gevoerd bij windsnelheden van minder dan 3 meter/seconden, de vrije ballon mag daarbij niet hoger stijgen dan 50 meter boven het aardoppervlak.
 
-2. [Artikel 20, eerste lid, onderdeel a, het derde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2020-04-01&g=2020-04-01) en [artikel 22, eerste lid, onderdeel c, onder 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-04-01&g=2020-04-01) zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+2. [Artikel 20, eerste lid, onderdeel a, het derde tot en met het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2020-07-11&g=2020-07-11) en [artikel 22, eerste lid, onderdeel c, onder 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-07-11&g=2020-07-11) zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
 
-3. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een vrije ballon.
+3. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een vrije ballon.
 
-4. [Artikel 20, eerste lid, onderdeel a en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2020-04-01&g=2020-04-01) zijn niet van toepassing op een terrein als bedoeld in het derde lid.
+4. [Artikel 20, eerste lid, onderdeel a en het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2020-07-11&g=2020-07-11) zijn niet van toepassing op een terrein als bedoeld in het derde lid.
 
 #### § 6. Vrije ballonnen
 
 ##### Artikel 28
 
-1. Een waterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een waterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. in het betreffende watergebied is een baan geprojecteerd met een lengte van ten minste 1000 meter;
 
@@ -634,7 +645,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 - e. de luchthaven is zodanig gelegen dat ter weerszijden van de baan geen obstakels steken door een denkbeeldig vlak dat met de lengte van de baan als basis, oploopt met een helling van 1:5 (hoogte:afstand) tot een afstand van 150 meter.
 
-2. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-04-01&g=2020-04-01), is niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+2. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-07-11&g=2020-07-11), is niet van toepassing op een luchthaven als bedoeld in het eerste lid.
 
 3. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een watervliegtuig.
 
@@ -642,7 +653,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 29
 
-1. Een luchthaven die gebruikt wordt door een zweefvliegtuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een zweefvliegtuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. de lengte van de luchthaven is ten minste gelijk aan de lengte van de lierkabel;
 
@@ -676,19 +687,19 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 30
 
-1. Het gebruik van een luchthaven door een zweefvliegtuig voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Het gebruik van een luchthaven door een zweefvliegtuig voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. gedurende het opstijgen en landen zijn er geen onbevoegde personen aanwezig op de lierbaan, de startplaats en de landingsplaats;
 
 - b. de lierkabel wordt binnen de grenzen van de luchthaven in een rechte lijn uitgebracht;
 
-- c. het opstijgen of doen opstijgen van een zweefvliegtuig door middel van een lier vindt alleen plaats indien de vallende lierkabel niet buiten de grens van de luchthaven of de veiligheidstrook, bedoeld in [artikel 29, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=8&artikel=29&z=2020-04-01&g=2020-04-01), kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
+- c. het opstijgen of doen opstijgen van een zweefvliegtuig door middel van een lier vindt alleen plaats indien de vallende lierkabel niet buiten de grens van de luchthaven of de veiligheidstrook, bedoeld in [artikel 29, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=8&artikel=29&z=2020-07-11&g=2020-07-11), kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
 
 - d. het afwerpen van de sleepkabel door een sleepvliegtuig vindt alleen plaats als de sleepkabel niet buiten de grens van de luchthaven kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
 
 - e. behoudens in geval van de koppeling van een zweefvliegtuig aan een sleepvliegtuig, is het gelijktijdig landen of starten van een zweefvliegtuig, een TMG of een sleepvliegtuig niet toegestaan.
 
-2. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-04-01&g=2020-04-01), is niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+2. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-07-11&g=2020-07-11), is niet van toepassing op een luchthaven als bedoeld in het eerste lid.
 
 3. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zweefvliegtuig met dien verstande dat:
 
@@ -708,7 +719,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 31
 
-1. Een luchthaven die gebruikt wordt door een landbouwluchtvaartuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een landbouwluchtvaartuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. voor het landen en opstijgen is een strook beschikbaar met een lengte die ten minste gelijk is aan de startlengte als vermeld in het vlieghandboek behorende bij het betreffende luchtvaartuig;
 
@@ -732,7 +743,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 32
 
-1. Een luchthaven die gebruikt wordt door een luchtschip dat op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting heeft van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter, en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een luchtschip dat op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting heeft van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter, en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. de luchthaven bevat een obstakelvrij grondvlak in de vorm van een cirkel met een straal van ten minste de lengte van het luchtschip;
 
@@ -748,11 +759,11 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 33
 
-1. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), zijn de eisen, bedoeld in [artikel 31, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=9&artikel=31&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand vliegtuig van maximaal 150 kilogram, met dien verstande dat de lengte van de strook, bedoeld in onderdeel a, niet minder is dan 100 meter en de breedte van de strook, bedoeld in onderdeel b, niet minder is dan 10 meter.
+1. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), zijn de eisen, bedoeld in [artikel 31, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=9&artikel=31&z=2020-07-11&g=2020-07-11), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand vliegtuig van maximaal 150 kilogram, met dien verstande dat de lengte van de strook, bedoeld in onderdeel a, niet minder is dan 100 meter en de breedte van de strook, bedoeld in onderdeel b, niet minder is dan 10 meter.
 
-2. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), is de eis, bedoeld in [artikel 32, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=10&artikel=32&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand luchtschip van maximaal 150 kilogram.
+2. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), is de eis, bedoeld in [artikel 32, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=10&artikel=32&z=2020-07-11&g=2020-07-11), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand luchtschip van maximaal 150 kilogram.
 
-3. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), zijn de eisen, bedoeld in [artikel 24, met uitzondering van onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=3&artikel=24&z=2020-04-01&g=2020-04-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemande helikopter van maximaal 150 kilogram.
+3. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), zijn de eisen, bedoeld in [artikel 24, met uitzondering van onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=3&artikel=24&z=2020-07-11&g=2020-07-11), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemande helikopter van maximaal 150 kilogram.
 
 4. Een luchthaven die gebruikt wordt door een RPA van maximaal 150 kilogram is zodanig gelegen dat:
 
@@ -760,7 +771,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 - b. in de nabije omgeving van de luchthaven geen obstakels aanwezig zijn die een belemmering vormen voor het veilige gebruik van de luchthaven.
 
-5. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-04-01&g=2020-04-01), is niet van toepassing op een luchthaven als bedoeld in het eerste tot en met het derde lid.
+5. [Artikel 22, eerste lid, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-07-11&g=2020-07-11), is niet van toepassing op een luchthaven als bedoeld in het eerste tot en met het derde lid.
 
 6. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een van de in deze leden bedoelde luchtvaartuigen.
 
@@ -768,7 +779,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 34
 
-1. Een luchthaven die gebruikt wordt door een gyrokopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een gyrokopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. voor het landen en opstijgen is een baan beschikbaar met een lengte die ten minste gelijk is aan de startlengte die vermeld is in het vlieghandboek van het betreffende luchtvaartuig, doch niet minder dan 200 meter en een breedte van ten minste 30 meter;
 
@@ -794,7 +805,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ##### Artikel 36
 
-1. De minister kan ontheffing verlenen van de voorschriften die op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&z=2020-04-01&g=2020-04-01) gelden voor een terrein voor tijdelijk en uitzonderlijk gebruik. Deze ontheffing wordt slechts verleend indien:
+1. De minister kan ontheffing verlenen van de voorschriften die op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&z=2020-07-11&g=2020-07-11) gelden voor een terrein voor tijdelijk en uitzonderlijk gebruik. Deze ontheffing wordt slechts verleend indien:
 
 - a. als gevolg van bijzondere omstandigheden de voorschriften in redelijkheid geen toepassing kunnen vinden, en
 
@@ -854,7 +865,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 30a
 
-1. Een luchthaven die gebruikt wordt door een zeilvliegtuig of schermzweeftoestel en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Een luchthaven die gebruikt wordt door een zeilvliegtuig of schermzweeftoestel en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. de luchthaven is vrij van obstakels en oneffenheden welke gevaar kunnen opleveren bij een afgebroken start of noodlanding;
 
@@ -874,11 +885,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - i. de luchthaven is zodanig gelegen dat ter weerszijden van de baan geen obstakels steken door een denkbeeldig vlak dat met de lengte van de baan als basis, oploopt met een helling van 1:2 (hoogte:afstand) en aansluit op het horizontale vlak, bedoeld in onderdeel g.
 
-2. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig.
+2. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig.
 
 ##### Artikel 30b
 
-1. Het gebruik van een luchthaven door een zeilvliegtuig of schermzweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-04-01&g=2020-04-01), aan de volgende eisen:
+1. Het gebruik van een luchthaven door een zeilvliegtuig of schermzweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2020-07-11&g=2020-07-11), aan de volgende eisen:
 
 - a. gedurende het opstijgen en landen zijn er geen onbevoegde personen en obstakels aanwezig op de lierbaan, de startplaats en de landingsplaats;
 
@@ -894,11 +905,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. de lierhoogte overschrijdt niet de ter plaatse geldende minimum vlieghoogte, tenzij een NOTAM is uitgegeven of een publicatie in de luchtvaartgids heeft plaatsgevonden inhoudende de vermelding van locatie, lierhoogte en telefoonnummer.
 
-2. [Artikel 22, eerste lid, onderdeel c, onder 1, 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-04-01&g=2020-04-01) zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+2. [Artikel 22, eerste lid, onderdeel c, onder 1, 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2020-07-11&g=2020-07-11) zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
 
-3. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig.
+3. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig.
 
-4. Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), wordt, voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig, niet gebruikt:
+4. Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), wordt, voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig, niet gebruikt:
 
 - a. binnen een afstand van 6 zeemijlen van de grens van de CTR van de luchthaven, Schiphol, Maastricht, Rotterdam, Eelde, De Kooij of Eindhoven, tenzij de ontheffinghouder zich ervan heeft vergewist dat zijn activiteit de veilige uitvoering van het luchtverkeer van en naar de betreffende luchthaven niet belemmert;
 
@@ -1002,7 +1013,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De gezagvoerder van een luchtvaartuig dat op een terrein een nood- of voorzorgslanding heeft gemaakt, meldt dit onverwijld aan de Minister.
 
-2. Het is verboden om met een luchtvaartuig op te stijgen vanaf een terrein als bedoeld in [artikel 19, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-04-01&g=2020-04-01), zonder voorafgaande toestemming van de Minister.
+2. Het is verboden om met een luchtvaartuig op te stijgen vanaf een terrein als bedoeld in [artikel 19, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2020-07-11&g=2020-07-11), zonder voorafgaande toestemming van de Minister.
 
 3. Handelen in strijd met dit artikel is een strafbaar feit.
 
