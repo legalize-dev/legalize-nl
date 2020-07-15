@@ -4,7 +4,7 @@ identifier: "BWBR0043738"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-05"
-last_updated: "2020-07-01"
+last_updated: "2020-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043738"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **coffeeshophouder:** houder van een coffeeshop die in een deelnemende gemeente door de burgemeester van die gemeente is toegestaan als bedoeld in [artikel 6a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6a);
 
-- **deelnemende gemeente:** gemeente als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), van dit besluit;
+- **deelnemende gemeente:** gemeente als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-15&g=2020-07-15), van dit besluit;
 
 - **experiment:** experiment als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=2);
 
@@ -90,17 +90,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. Tilburg, en
 
-- j. Dit onderdeel is nog niet in werking getreden.
+- j. Zaanstad.
 
 2. De gemeenten Breda, Heerlen en Maastricht worden voor de toepassing van het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) bepaalde tevens aangemerkt als grensgemeente.
 
 ##### Artikel 3. (toepasselijkheid eisen aan coffeeshophouders)
 
-Onverminderd het bepaalde in de [paragrafen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&z=2020-07-01&g=2020-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&z=2020-07-01&g=2020-07-01) voldoen alle coffeeshophouders voor de duur van de uitvoering van het experiment, aan:
+Onverminderd het bepaalde in de [paragrafen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&z=2020-07-15&g=2020-07-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&z=2020-07-15&g=2020-07-15) voldoen alle coffeeshophouders voor de duur van de uitvoering van het experiment, aan:
 
-- a. de [artikelen 4 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01), en
+- a. de [artikelen 4 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-15&g=2020-07-15) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15), en
 
-- b. de door de burgemeester van de deelnemende gemeente krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01) gestelde nadere regels.
+- b. de door de burgemeester van de deelnemende gemeente krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15) gestelde nadere regels.
 
 ##### Artikel 4. (verkoop van hennep of hasjiesj)
 
@@ -110,7 +110,7 @@ Onverminderd het bepaalde in de [paragrafen 8](https://wetten.overheid.nl/jci1.3
 
 3. Een coffeeshophouder laat jeugdigen tot en met 17 jaar niet toe in de coffeeshop en verkoopt aan deze categorie jeugdigen geen hennep of hasjiesj.
 
-4. Onverminderd het derde lid laat een coffeeshophouder wiens coffeeshop is gelegen in een grensgemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01), anderen dan die hun werkelijke woonplaats hebben in Nederland niet toe tot de coffeeshop en verkoopt aan anderen dan deze personen geen hennep of hasjiesj.
+4. Onverminderd het derde lid laat een coffeeshophouder wiens coffeeshop is gelegen in een grensgemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-15&g=2020-07-15), anderen dan die hun werkelijke woonplaats hebben in Nederland niet toe tot de coffeeshop en verkoopt aan anderen dan deze personen geen hennep of hasjiesj.
 
 ##### Artikel 5. (handelsvoorraad)
 
@@ -134,11 +134,11 @@ Onverminderd het bepaalde in de [paragrafen 8](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 7. (verpakking)
 
-1. Een coffeeshophouder verkoopt de hennep of hasjiesj uitsluitend zoals deze door aangewezen telers in een verzegelde verpakkingseenheid als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01), is afgeleverd en heeft de hennep of hasjiesj ook uitsluitend in die verzegelde verpakkingseenheid aanwezig.
+1. Een coffeeshophouder verkoopt de hennep of hasjiesj uitsluitend zoals deze door aangewezen telers in een verzegelde verpakkingseenheid als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15), is afgeleverd en heeft de hennep of hasjiesj ook uitsluitend in die verzegelde verpakkingseenheid aanwezig.
 
 2. In afwijking van het eerste lid mag van elke soort hennep of hasjiesj die in de coffeeshop wordt verkocht, ten behoeve van de beoordeling door klanten maximaal 20 gram onverzegeld aanwezig zijn.
 
-3. Onverminderd het eerste lid is het niet toegestaan wijzigingen aan te brengen aan de verpakkingseenheden of de informatie, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01), met dien verstande dat de coffeeshophouder wel zijn handelsnaam en eventueel zijn contactgegevens op de verpakking mag aanbrengen, met inachtneming van de bij ministeriële regeling gestelde regels.
+3. Onverminderd het eerste lid is het niet toegestaan wijzigingen aan te brengen aan de verpakkingseenheden of de informatie, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15), met dien verstande dat de coffeeshophouder wel zijn handelsnaam en eventueel zijn contactgegevens op de verpakking mag aanbrengen, met inachtneming van de bij ministeriële regeling gestelde regels.
 
 ##### Artikel 8. (alcohol)
 
@@ -148,7 +148,7 @@ In een coffeeshop wordt geen alcohol geschonken of verkocht en is alcohol ook an
 
 1. Een coffeeshophouder voert geen enkele vorm van affichering, anders dan een summiere aanduiding op de betreffende lokaliteit.
 
-2. Als affichering als bedoeld in het eerste lid geldt niet de vermelding van gegevens betreffende de coffeeshophouder op de verpakking van de hennep of hasjiesj, mits die voldoet aan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01) bij ministeriële regeling gestelde regels.
+2. Als affichering als bedoeld in het eerste lid geldt niet de vermelding van gegevens betreffende de coffeeshophouder op de verpakking van de hennep of hasjiesj, mits die voldoet aan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15) bij ministeriële regeling gestelde regels.
 
 ##### Artikel 10. (overlast)
 
@@ -156,9 +156,9 @@ Een coffeeshophouder treft adequate maatregelen ter voorkoming of beperking van 
 
 ##### Artikel 11. (administratie)
 
-1. Een coffeeshophouder voert een sluitende en transparante administratie waarmee in ieder geval wordt aangetoond dat wordt voldaan aan de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01), [artikel 5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01) en aan de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01) gestelde nadere regels.
+1. Een coffeeshophouder voert een sluitende en transparante administratie waarmee in ieder geval wordt aangetoond dat wordt voldaan aan de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-15&g=2020-07-15), [artikel 5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-15&g=2020-07-15), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-15&g=2020-07-15) en aan de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15) gestelde nadere regels.
 
-2. De administratie wordt onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01) beschikbaar gehouden ten behoeve van de uitoefening van het toezicht en de handhaving.
+2. De administratie wordt onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15) beschikbaar gehouden ten behoeve van de uitoefening van het toezicht en de handhaving.
 
 3. Bij ministeriële regeling wordt bepaald:
 
@@ -168,15 +168,15 @@ Een coffeeshophouder treft adequate maatregelen ter voorkoming of beperking van 
 
 ##### Artikel 12. (lokale regels)
 
-De burgemeester van een deelnemende gemeente kan met inachtneming van de [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01), in het kader en voor de duur van de uitvoering van het experiment ten aanzien van coffeeshophouders nadere regels stellen over:
+De burgemeester van een deelnemende gemeente kan met inachtneming van de [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=3&z=2020-07-15&g=2020-07-15), in het kader en voor de duur van de uitvoering van het experiment ten aanzien van coffeeshophouders nadere regels stellen over:
 
 - a. de locatie waar een coffeeshop is toegestaan;
 
-- b. de maximaal toegestane handelsvoorraad, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01);
+- b. de maximaal toegestane handelsvoorraad, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-15&g=2020-07-15);
 
-- c. de affichering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=9&z=2020-07-01&g=2020-07-01),
+- c. de affichering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=9&z=2020-07-15&g=2020-07-15),
 
-- d. het voorkomen of beperken van overlast als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=10&z=2020-07-01&g=2020-07-01);
+- d. het voorkomen of beperken van overlast als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=10&z=2020-07-15&g=2020-07-15);
 
 - e. de tijden gedurende welke een coffeeshop geopend mag zijn voor klanten;
 
@@ -186,7 +186,7 @@ De burgemeester van een deelnemende gemeente kan met inachtneming van de [artike
 
 - h. de opleiding van het personeel, en
 
-- i. het al dan niet toelaten tot de coffeeshop van anderen dan degenen die hun werkelijke woonplaats hebben in Nederland of verkopen van hennep of hasjiesj aan anderen dan deze personen, voor zover het betreft coffeeshops die gelegen zijn in een gemeente, die niet tevens is aangemerkt als grensgemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-01&g=2020-07-01).
+- i. het al dan niet toelaten tot de coffeeshop van anderen dan degenen die hun werkelijke woonplaats hebben in Nederland of verkopen van hennep of hasjiesj aan anderen dan deze personen, voor zover het betreft coffeeshops die gelegen zijn in een gemeente, die niet tevens is aangemerkt als grensgemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=2&z=2020-07-15&g=2020-07-15).
 
 #### § 3. Aanvraag en selectie van telers
 
@@ -202,13 +202,13 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 ##### Artikel 15. (indienen van een aanvraag)
 
-1. Degene die de aanvraag doet, dient deze in binnen het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=14&z=2020-07-01&g=2020-07-01), bedoelde tijdvak, met gebruikmaking van het door Onze Ministers beschikbaar gestelde aanvraagformulier en in overeenstemming met de daarbij behorende invulinstructies.
+1. Degene die de aanvraag doet, dient deze in binnen het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=14&z=2020-07-15&g=2020-07-15), bedoelde tijdvak, met gebruikmaking van het door Onze Ministers beschikbaar gestelde aanvraagformulier en in overeenstemming met de daarbij behorende invulinstructies.
 
 2. Het aanvraagformulier gaat vergezeld van:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), van de natuurlijke persoon of de rechtspersoon die de aanvraag doet. Voor het aanvragen van deze verklaring wordt gebruik gemaakt van het door Onze Ministers beschikbaar gestelde formulier,
 
-- b. het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=16&z=2020-07-01&g=2020-07-01) bedoelde ondernemingsplan van de aanvrager, en
+- b. het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=16&z=2020-07-15&g=2020-07-15) bedoelde ondernemingsplan van de aanvrager, en
 
 - c. de overige in het aanvraagformulier gevraagde gegevens en bescheiden.
 
@@ -218,7 +218,7 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 ##### Artikel 16. (ondernemingsplan)
 
-1. De aanvrager zet in zijn ondernemingsplan met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-01&g=2020-07-01) gemotiveerd uiteen:
+1. De aanvrager zet in zijn ondernemingsplan met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-15&g=2020-07-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-15&g=2020-07-15) gemotiveerd uiteen:
 
 - a. op welke wijze en onder welke condities de productie van de hennep of hasjiesj en de bestendige levering daarvan aan coffeeshophouders zal plaatsvinden, en
 
@@ -240,9 +240,9 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 - g. de wijze waarop en condities waaronder de algehele bedrijfsvoering zal plaatsvinden alsmede de aan de bedrijfsvoering verbonden risico’s en maatregelen om die risico’s te kunnen beheersen, waaronder de te treffen maatregelen ter beveiliging van de locatie, van de hennep of hasjiesj en van het afval van het plantmateriaal en andere maatregelen ter voorkoming van het risico op het weglekken van de hennep of hasjiesj;
 
-- h. de maatregelen die hij zal treffen om te kunnen voldoen aan de kwaliteitseisen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-01&g=2020-07-01), maatregelen ter voorkoming en bestrijding van ziekten en plagen en maatregelen ter borging van de hygiëne;
+- h. de maatregelen die hij zal treffen om te kunnen voldoen aan de kwaliteitseisen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-15&g=2020-07-15), maatregelen ter voorkoming en bestrijding van ziekten en plagen en maatregelen ter borging van de hygiëne;
 
-- i. de maatregelen die hij zal treffen om het gehalte THC en CBD van de hennep of hasjiesj te kunnen laten bepalen en te kunnen laten controleren of de hennep of hasjiesj voldoet aan de kwaliteitseisen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-01&g=2020-07-01);
+- i. de maatregelen die hij zal treffen om het gehalte THC en CBD van de hennep of hasjiesj te kunnen laten bepalen en te kunnen laten controleren of de hennep of hasjiesj voldoet aan de kwaliteitseisen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-15&g=2020-07-15);
 
 - j. de wijze waarop hij kan inspelen op de vraag van coffeeshophouders en de wijze waarop hij hen in staat kan stellen de hennep of hasjiesj te laten beoordelen;
 
@@ -278,13 +278,13 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 1. Een aanvraag om aanwijzing als teler wordt afgewezen indien:
 
-- a. de aanvraag niet voldoet aan [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=15&z=2020-07-01&g=2020-07-01);
+- a. de aanvraag niet voldoet aan [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=15&z=2020-07-15&g=2020-07-15);
 
-- b. de aanvraag niet is ingediend door een rechtspersoon als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=15&z=2020-07-01&g=2020-07-01), die zijn zetel heeft in Nederland en waarvan de daaraan verbonden onderneming is gevestigd in Nederland, of door een natuurlijke persoon als bedoeld in artikel 15, vierde lid, die als ingezetene is ingeschreven in de basisregistratie personen en wiens onderneming is gevestigd in Nederland;
+- b. de aanvraag niet is ingediend door een rechtspersoon als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=15&z=2020-07-15&g=2020-07-15), die zijn zetel heeft in Nederland en waarvan de daaraan verbonden onderneming is gevestigd in Nederland, of door een natuurlijke persoon als bedoeld in artikel 15, vierde lid, die als ingezetene is ingeschreven in de basisregistratie personen en wiens onderneming is gevestigd in Nederland;
 
 - c. de locatie of beoogde locatie voor de productie van hennep of hasjiesj waarop de aanvraag betrekking heeft, dan wel de locaties of beoogde locaties, niet is of zijn gelegen binnen het grondgebied van Nederland;
 
-- d. de aanvrager naar het oordeel van Onze Ministers met zijn ondernemingsplan niet aannemelijk heeft gemaakt dat hij op basis van een deugdelijk financieel plan en onder adequate voorgenomen maatregelen ter beveiliging in staat is om met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-01&g=2020-07-01) op de locatie of beoogde locatie dan wel locaties of beoogde locaties onder gecontroleerde omstandigheden te voorzien in de bestendige productie van hennep of hasjiesj en een bestendige levering daarvan aan coffeeshophouders, in een representatief aanbod, en om bij aanvang van de uitvoering van het experiment te voorzien in de productie en levering van tenminste de bij besluit van Onze Ministers te bepalen hoeveelheid hennep, met tenminste tien variaties hennep of hasjiesj;
+- d. de aanvrager naar het oordeel van Onze Ministers met zijn ondernemingsplan niet aannemelijk heeft gemaakt dat hij op basis van een deugdelijk financieel plan en onder adequate voorgenomen maatregelen ter beveiliging in staat is om met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-15&g=2020-07-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-15&g=2020-07-15) op de locatie of beoogde locatie dan wel locaties of beoogde locaties onder gecontroleerde omstandigheden te voorzien in de bestendige productie van hennep of hasjiesj en een bestendige levering daarvan aan coffeeshophouders, in een representatief aanbod, en om bij aanvang van de uitvoering van het experiment te voorzien in de productie en levering van tenminste de bij besluit van Onze Ministers te bepalen hoeveelheid hennep, met tenminste tien variaties hennep of hasjiesj;
 
 - e. de aanvrager in staat van faillissement of liquidatie verkeert;
 
@@ -304,7 +304,7 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 2. Onverminderd [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=5) kan een aanvraag om aanwijzing als teler worden afgewezen:
 
-- a. indien het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=17&z=2020-07-01&g=2020-07-01) bedoelde advies van de burgemeester hiertoe aanleiding geeft, of
+- a. indien het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=17&z=2020-07-15&g=2020-07-15) bedoelde advies van de burgemeester hiertoe aanleiding geeft, of
 
 - b. in het belang van de openbare orde en veiligheid anders dan naar aanleiding van het advies van de burgemeester als bedoeld in onderdeel a.
 
@@ -326,7 +326,7 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 2. De geldigheid van een besluit als bedoeld in het eerste lid vervalt in ieder geval op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) vervalt.
 
-3. Een afschrift van het besluit wordt verstrekt aan de burgemeester of burgemeesters, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=17&z=2020-07-01&g=2020-07-01), en aan de krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) aangewezen toezichthouders die worden belast met de uitoefening van het toezicht op de naleving van de aan de aangewezen telers gestelde eisen.
+3. Een afschrift van het besluit wordt verstrekt aan de burgemeester of burgemeesters, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=17&z=2020-07-15&g=2020-07-15), en aan de krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) aangewezen toezichthouders die worden belast met de uitoefening van het toezicht op de naleving van de aan de aangewezen telers gestelde eisen.
 
 4. De verleende aanwijzing komt uitsluitend toe aan de aangewezen teler en komt niet in aanmerking voor overdracht aan of overgang op een andere partij.
 
@@ -344,11 +344,11 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 - e. de handelingen op en het vervoer tussen de locaties, in het geval de aanwijzing betrekking heeft op meerdere locaties,
 
-- f. het laten controleren van de hennep of hasjiesj op de kwaliteit als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-01&g=2020-07-01),
+- f. het laten controleren van de hennep of hasjiesj op de kwaliteit als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-15&g=2020-07-15),
 
 - g. het laten beoordelen van de hennep of hasjiesj door coffeeshophouders,
 
-- h. het doen van mededelingen of het verschaffen van informatie als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=31&z=2020-07-01&g=2020-07-01), en
+- h. het doen van mededelingen of het verschaffen van informatie als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=31&z=2020-07-15&g=2020-07-15), en
 
 - i. geheimhouding ten aanzien van de aanwijzing en de daaraan verbonden voorschriften of ten aanzien van de toegestane activiteiten.
 
@@ -358,9 +358,9 @@ Voor deelname aan het experiment kunnen Onze Ministers ten hoogste tien telers a
 
 ##### Artikel 22. (toepasselijkheid eisen aan telers)
 
-Onverminderd het bepaalde in [paragrafen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&z=2020-07-01&g=2020-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&z=2020-07-01&g=2020-07-01), voldoet een aangewezen teler voor de duur van de voorbereiding, uitvoering en afbouw van het experiment aan:
+Onverminderd het bepaalde in [paragrafen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&z=2020-07-15&g=2020-07-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&z=2020-07-15&g=2020-07-15), voldoet een aangewezen teler voor de duur van de voorbereiding, uitvoering en afbouw van het experiment aan:
 
-- a. de [artikelen 23 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-01&g=2020-07-01) en
+- a. de [artikelen 23 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-15&g=2020-07-15) en
 
 - b. de aan de aanwijzing verbonden voorschriften.
 
@@ -386,7 +386,7 @@ Een aangewezen teler verricht de handelingen waarvoor de aanwijzing is verleend.
 
 2. De aangewezen teler treft alle maatregelen die redelijkerwijs noodzakelijk zijn voor een adequate inrichting en voor de beveiliging van de locatie en ruimten.
 
-3. Indien de teler in het kader van de aanwijzing beschikt over meerdere locaties voor de productie van de hennep of hasjiesj, kan op grond van [artikel 21, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=4&artikel=21&z=2020-07-01&g=2020-07-01), via een aan de aanwijzing verbonden voorschrift worden bepaald dat [artikel 24, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01), van overeenkomstige toepassing is op het vervoer tussen die verschillende locaties.
+3. Indien de teler in het kader van de aanwijzing beschikt over meerdere locaties voor de productie van de hennep of hasjiesj, kan op grond van [artikel 21, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=4&artikel=21&z=2020-07-15&g=2020-07-15), via een aan de aanwijzing verbonden voorschrift worden bepaald dat [artikel 24, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15), van overeenkomstige toepassing is op het vervoer tussen die verschillende locaties.
 
 ##### Artikel 26. (opslag en beveiliging van de hennep of hasjiesj)
 
@@ -398,7 +398,7 @@ Een aangewezen teler treft alle maatregelen die redelijkerwijs noodzakelijk zijn
 
 2. De verklaring, bedoeld in het eerste lid, mag op het tijdstip waarop de betrokkene voor het eerst in de onderneming te werk wordt gesteld niet ouder zijn dan zes maanden.
 
-3. Het eerste lid is niet van toepassing op de ingeschakelde vervoerder, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01).
+3. Het eerste lid is niet van toepassing op de ingeschakelde vervoerder, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15).
 
 ##### Artikel 28. (eisen in verband met de kwaliteit)
 
@@ -416,7 +416,7 @@ Een aangewezen teler treft alle maatregelen die redelijkerwijs noodzakelijk zijn
 
 2. Elke verpakkingseenheid is verzegeld met een onvervangbare verzegeling en overeenkomstig de bij ministeriële regeling gestelde regels voorzien van de volgende informatie:
 
-- a. de aan de hennep of hasjiesj gekoppelde unieke identificatiemarkering, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01),
+- a. de aan de hennep of hasjiesj gekoppelde unieke identificatiemarkering, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15),
 
 - b. de naam van de variëteit,
 
@@ -440,9 +440,9 @@ Een aangewezen teler treft alle maatregelen die redelijkerwijs noodzakelijk zijn
 
 2. Als affichering als bedoeld in het eerste lid geldt niet:
 
-- a. het contact tussen de teler, coffeeshophouder of vervoerder, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01), voor zover dat contact is gericht op de verkoop, aflevering of verstrekking van de hennep of hasjiesj overeenkomstig de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) daaraan gestelde eisen;
+- a. het contact tussen de teler, coffeeshophouder of vervoerder, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15), voor zover dat contact is gericht op de verkoop, aflevering of verstrekking van de hennep of hasjiesj overeenkomstig de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) daaraan gestelde eisen;
 
-- b. de vermelding van gegevens betreffende de teler op de verpakking van de hennep of hasjiesj of kenbaarheid van die gegevens via digitaal beschikbaar gestelde informatie, mits die voldoet aan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01) bij ministeriële regeling gestelde regels.
+- b. de vermelding van gegevens betreffende de teler op de verpakking van de hennep of hasjiesj of kenbaarheid van die gegevens via digitaal beschikbaar gestelde informatie, mits die voldoet aan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15) bij ministeriële regeling gestelde regels.
 
 ##### Artikel 31. (mededelings- en informatieplicht)
 
@@ -450,9 +450,9 @@ De aangewezen teler doet aan Onze Ministers uit eigen beweging onverwijld schrif
 
 ##### Artikel 32. (administratie)
 
-1. De aangewezen teler voert een sluitende en transparante administratie waarmee in ieder geval wordt aangetoond dat wordt voldaan aan de [artikelen 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=27&z=2020-07-01&g=2020-07-01), [28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-01&g=2020-07-01), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=31&z=2020-07-01&g=2020-07-01).
+1. De aangewezen teler voert een sluitende en transparante administratie waarmee in ieder geval wordt aangetoond dat wordt voldaan aan de [artikelen 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=27&z=2020-07-15&g=2020-07-15), [28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-15&g=2020-07-15), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=31&z=2020-07-15&g=2020-07-15).
 
-2. De bedrijfsadministratie wordt, onverminderd [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01), beschikbaar gehouden voor de uitoefening van het toezicht en de handhaving.
+2. De bedrijfsadministratie wordt, onverminderd [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15), beschikbaar gehouden voor de uitoefening van het toezicht en de handhaving.
 
 3. Bij ministeriële regeling wordt bepaald:
 
@@ -470,7 +470,7 @@ De aangewezen teler doet aan Onze Ministers uit eigen beweging onverwijld schrif
 
 3. De informatie waartoe de unieke identificatiemarkering toegang geeft is niet toegankelijk voor anderen dan de betreffende aangewezen teler, coffeeshophouder en de personen of bestuursorganen die krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) zijn belast met het toezicht op de naleving van de wet. Bij ministeriële regeling wordt bepaald voor wie van deze personen of bestuursorganen welke informatie toegankelijk is en op welke wijze.
 
-4. Onverminderd [artikel 29, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01), wordt bij ministeriële regeling bepaald wanneer en op welke wijze de aangewezen telers en de coffeeshophouders de unieke identificatiemarkering moeten voeren en welke gegevens daarbij moeten worden geregistreerd en op welke wijze.
+4. Onverminderd [artikel 29, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15), wordt bij ministeriële regeling bepaald wanneer en op welke wijze de aangewezen telers en de coffeeshophouders de unieke identificatiemarkering moeten voeren en welke gegevens daarbij moeten worden geregistreerd en op welke wijze.
 
 5. Bij ministeriële regeling kunnen uitvoeringstechnische of administratieve regels worden gesteld, waaronder regels over de afgifte van en de te gebruiken markering.
 
@@ -484,9 +484,9 @@ De aangewezen teler doet aan Onze Ministers uit eigen beweging onverwijld schrif
 
 - b. bij de aanvraag om aanwijzing onjuiste of onvolledige gegevens of bescheiden zijn verstrekt, of feiten of omstandigheden zijn verzwegen en kennis over de juiste en volledige gegevens of kennis van die feiten en omstandigheden tot een andere beslissing zou hebben geleid;
 
-- c. zich een situatie voordoet als bedoeld in [artikel 19, eerste lid, onderdelen e tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=19&z=2020-07-01&g=2020-07-01);
+- c. zich een situatie voordoet als bedoeld in [artikel 19, eerste lid, onderdelen e tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=19&z=2020-07-15&g=2020-07-15);
 
-- d. zich de situatie voordoet dat niet meer wordt voldaan aan de eisen, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=19&z=2020-07-01&g=2020-07-01), of
+- d. zich de situatie voordoet dat niet meer wordt voldaan aan de eisen, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=3&artikel=19&z=2020-07-15&g=2020-07-15), of
 
 - e. onverminderd onderdeel d, de aangewezen natuurlijke persoon of rechtspersoon of de gevoerde onderneming ophoudt te bestaan of is beëindigd of overgedragen of in het geval van overgang onder algemene titel.
 
@@ -494,7 +494,7 @@ De aangewezen teler doet aan Onze Ministers uit eigen beweging onverwijld schrif
 
 - a. de aangewezen teler niet voldoet aan het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) of aan een aan de aanwijzing verbonden voorschrift,
 
-- b. naar het oordeel van Onze Ministers niet of niet langer in staat is om met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-01&g=2020-07-01) onder gecontroleerde omstandigheden te voorzien in de bestendige productie van hennep of hasjiesj of een bestendige levering daarvan aan coffeeshophouders, of
+- b. naar het oordeel van Onze Ministers niet of niet langer in staat is om met inachtneming van de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&z=2020-07-15&g=2020-07-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&z=2020-07-15&g=2020-07-15) onder gecontroleerde omstandigheden te voorzien in de bestendige productie van hennep of hasjiesj of een bestendige levering daarvan aan coffeeshophouders, of
 
 - c. in het belang van de openbare orde of veiligheid.
 
@@ -506,7 +506,7 @@ De teler van wie de aanwijzing wordt ingetrokken ontdoet zich binnen de in het i
 
 ##### Artikel 36. (eisen aan aangewezen telers)
 
-In het kader en voor de duur van de voorbereiding van het experiment is het aangewezen telers, in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-01&g=2020-07-01) en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01), niet toegestaan om hennep of hasjiesj te verkopen, leveren of anderszins te verhandelen, tot aanvang van het in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-01&g=2020-07-01), bedoelde tijdstip.
+In het kader en voor de duur van de voorbereiding van het experiment is het aangewezen telers, in afwijking van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-15&g=2020-07-15) en [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15), niet toegestaan om hennep of hasjiesj te verkopen, leveren of anderszins te verhandelen, tot aanvang van het in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-15&g=2020-07-15), bedoelde tijdstip.
 
 ##### Artikel 37. (aanvang voorbereidingsfase voor coffeeshophouders)
 
@@ -516,17 +516,17 @@ In het kader en voor de duur van de voorbereiding van het experiment is het aang
 
 ##### Artikel 38. (eisen aan coffeeshophouders)
 
-1. Voor de duur van de fase van voorbereiding als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-01&g=2020-07-01), is het coffeeshophouders toegestaan om hennep of hasjiesj te kopen of af te nemen van aangewezen telers en enige andere daarmee in verband staande handeling als bedoeld in [artikel 3, onderdeel B, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) te verrichten.
+1. Voor de duur van de fase van voorbereiding als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-15&g=2020-07-15), is het coffeeshophouders toegestaan om hennep of hasjiesj te kopen of af te nemen van aangewezen telers en enige andere daarmee in verband staande handeling als bedoeld in [artikel 3, onderdeel B, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) te verrichten.
 
-2. De [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01) zijn in het kader en voor de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-01&g=2020-07-01), van toepassing op de coffeeshophouders. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=7&z=2020-07-01&g=2020-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=11&z=2020-07-01&g=2020-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01) zijn uitsluitend van toepassing ten aanzien van de hennep of hasjiesj die door de coffeeshophouders wordt afgenomen van aangewezen telers.
+2. De [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-15&g=2020-07-15), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-15&g=2020-07-15), en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-15&g=2020-07-15) zijn in het kader en voor de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-15&g=2020-07-15), van toepassing op de coffeeshophouders. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-15&g=2020-07-15), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=7&z=2020-07-15&g=2020-07-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=11&z=2020-07-15&g=2020-07-15) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15) zijn uitsluitend van toepassing ten aanzien van de hennep of hasjiesj die door de coffeeshophouders wordt afgenomen van aangewezen telers.
 
-3. Onverminderd het eerste en tweede lid, voldoen coffeeshophouders in het kader en voor de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-01&g=2020-07-01), aan de door de betrokken burgemeester krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=39&z=2020-07-01&g=2020-07-01) gestelde nadere regels.
+3. Onverminderd het eerste en tweede lid, voldoen coffeeshophouders in het kader en voor de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-15&g=2020-07-15), aan de door de betrokken burgemeester krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=39&z=2020-07-15&g=2020-07-15) gestelde nadere regels.
 
 ##### Artikel 39. (nadere regels burgemeester)
 
-De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=38&z=2020-07-01&g=2020-07-01), in het kader en voor de duur van de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-01&g=2020-07-01), ten aanzien van coffeeshophouders nadere regels stellen over de onderwerpen bedoeld in [artikel 12, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01), met dien verstande dat regels over:
+De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=38&z=2020-07-15&g=2020-07-15), in het kader en voor de duur van de duur van de fase van voorbereiding, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=8&artikel=37&z=2020-07-15&g=2020-07-15), ten aanzien van coffeeshophouders nadere regels stellen over de onderwerpen bedoeld in [artikel 12, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15), met dien verstande dat regels over:
 
-- a. de handelsvoorraad als bedoeld in [artikel 12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01), uitsluitend kunnen worden gesteld ten aanzien van de hennep of hasjiesj die wordt afgenomen van aangewezen telers,
+- a. de handelsvoorraad als bedoeld in [artikel 12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15), uitsluitend kunnen worden gesteld ten aanzien van de hennep of hasjiesj die wordt afgenomen van aangewezen telers,
 
 - b. het al dan niet toelaten tot de coffeeshops van anderen dan degenen die hun werkelijke woonplaats hebben in Nederland of het verkopen van hennep of hasjiesj aan anderen dan deze personen, uitsluitend kunnen worden gesteld door de burgemeester van een deelnemende gemeente die niet tevens is aangemerkt als grensgemeente.
 
@@ -542,23 +542,23 @@ De afbouw van het experiment kan eerder aanvangen dan het tijdstip waarop de uit
 
 ##### Artikel 41. (eisen aan telers)
 
-1. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-01&g=2020-07-01) is in het kader en voor de duur van de fase van afbouw van het experiment niet van toepassing.
+1. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=23&z=2020-07-15&g=2020-07-15) is in het kader en voor de duur van de fase van afbouw van het experiment niet van toepassing.
 
 2. De aangewezen telers ontdoen zich gedurende de fase van afbouw van het experiment aantoonbaar van de hennep of hasjiesj, en van het afval van het plantmateriaal, door verkoop van die hennep of hasjiesj aan de coffeeshophouders of door vernietiging van de hennep of hasjiesj en van het afval van het plantmateriaal. Onze Ministers kunnen ter zake aanwijzingen geven.
 
 ##### Artikel 42. (eisen aan coffeeshophouders)
 
-1. De [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01) zijn in het kader en voor de duur van de fase van afbouw, dan wel binnen de in de last tot staking, bedoeld in [artikel 40, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=40&z=2020-07-01&g=2020-07-01), genoemde periode, van toepassing op de coffeeshophouders. De artikelen 5, tweede lid, [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=7&z=2020-07-01&g=2020-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=11&z=2020-07-01&g=2020-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-01&g=2020-07-01) zijn uitsluitend van toepassing ten aanzien van de hennep of hasjiesj die door de coffeeshophouders wordt afgenomen van aangewezen telers.
+1. De [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=4&z=2020-07-15&g=2020-07-15), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=5&z=2020-07-15&g=2020-07-15), en [6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=6&z=2020-07-15&g=2020-07-15) zijn in het kader en voor de duur van de fase van afbouw, dan wel binnen de in de last tot staking, bedoeld in [artikel 40, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=40&z=2020-07-15&g=2020-07-15), genoemde periode, van toepassing op de coffeeshophouders. De artikelen 5, tweede lid, [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=7&z=2020-07-15&g=2020-07-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=11&z=2020-07-15&g=2020-07-15) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=6&artikel=33&z=2020-07-15&g=2020-07-15) zijn uitsluitend van toepassing ten aanzien van de hennep of hasjiesj die door de coffeeshophouders wordt afgenomen van aangewezen telers.
 
-2. Onverminderd het eerste lid, ontdoen de coffeeshophouders zich gedurende de fase van afbouw van het experiment dan wel binnen de in de last tot staking, bedoeld in [artikel 40, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=40&z=2020-07-01&g=2020-07-01), genoemde periode aantoonbaar van de aan hen door aangewezen telers geleverde hennep of hasjiesj door verkoop aan klanten of door vernietiging van de hennep of hasjiesj.
+2. Onverminderd het eerste lid, ontdoen de coffeeshophouders zich gedurende de fase van afbouw van het experiment dan wel binnen de in de last tot staking, bedoeld in [artikel 40, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=40&z=2020-07-15&g=2020-07-15), genoemde periode aantoonbaar van de aan hen door aangewezen telers geleverde hennep of hasjiesj door verkoop aan klanten of door vernietiging van de hennep of hasjiesj.
 
-3. Onverminderd het eerste en tweede lid voldoen coffeeshophouders in het kader en voor de duur van de fase van afbouw van het experiment, aan de door de betrokken burgemeester krachtens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=43&z=2020-07-01&g=2020-07-01) gestelde nadere regels.
+3. Onverminderd het eerste en tweede lid voldoen coffeeshophouders in het kader en voor de duur van de fase van afbouw van het experiment, aan de door de betrokken burgemeester krachtens [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=43&z=2020-07-15&g=2020-07-15) gestelde nadere regels.
 
 ##### Artikel 43. (nadere regels burgemeester)
 
-De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=42&z=2020-07-01&g=2020-07-01), in het kader en voor de duur van de duur van de fase van afbouw, ten aanzien van coffeeshophouders nadere regels stellen over de onderwerpen bedoeld in [artikel 12, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01), met dien verstande dat regels over:
+De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=42&z=2020-07-15&g=2020-07-15), in het kader en voor de duur van de duur van de fase van afbouw, ten aanzien van coffeeshophouders nadere regels stellen over de onderwerpen bedoeld in [artikel 12, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15), met dien verstande dat regels over:
 
-- a. de handelsvoorraad als bedoeld in [artikel 12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01), uitsluitend kunnen worden gesteld ten aanzien van de hennep of hasjiesj die wordt afgenomen van aangewezen telers,
+- a. de handelsvoorraad als bedoeld in [artikel 12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=2&artikel=12&z=2020-07-15&g=2020-07-15), uitsluitend kunnen worden gesteld ten aanzien van de hennep of hasjiesj die wordt afgenomen van aangewezen telers,
 
 - b. het al dan niet toelaten tot de coffeeshops van anderen dan personen die hun werkelijke woonplaats hebben in Nederland of het verkopen van hennep of hasjiesj aan anderen dan deze personen, uitsluitend kunnen worden gesteld door de burgemeester van een deelnemende gemeente die niet tevens is aangemerkt als grensgemeente.
 
@@ -580,9 +580,9 @@ De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 4
 
 ##### Artikel 45. (bestuurlijke boete)
 
-1. Bij overtreding van de [artikelen 22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=22&z=2020-07-01&g=2020-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-01&g=2020-07-01), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=25&z=2020-07-01&g=2020-07-01), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-01&g=2020-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-01&g=2020-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=7&artikel=35&z=2020-07-01&g=2020-07-01) of [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=41&z=2020-07-01&g=2020-07-01), kan aan de aangewezen teler een bestuurlijke boete worden opgelegd als bedoeld in [artikel 9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a).
+1. Bij overtreding van de [artikelen 22, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=22&z=2020-07-15&g=2020-07-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=24&z=2020-07-15&g=2020-07-15), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=25&z=2020-07-15&g=2020-07-15), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=28&z=2020-07-15&g=2020-07-15), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=5&artikel=29&z=2020-07-15&g=2020-07-15), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=7&artikel=35&z=2020-07-15&g=2020-07-15) of [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=41&z=2020-07-15&g=2020-07-15), kan aan de aangewezen teler een bestuurlijke boete worden opgelegd als bedoeld in [artikel 9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a).
 
-2. Bij overtreding van [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=42&z=2020-07-01&g=2020-07-01), kan aan de coffeeshophouder een bestuurlijke boete worden opgelegd al s bedoeld in [artikel 9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a).
+2. Bij overtreding van [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=9&artikel=42&z=2020-07-15&g=2020-07-15), kan aan de coffeeshophouder een bestuurlijke boete worden opgelegd al s bedoeld in [artikel 9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a).
 
 ##### Artikel 46. (uitwisseling van gegevens en persoonsgegevens in het kader van toezicht en handhaving)
 
@@ -600,7 +600,7 @@ De burgemeester van een deelnemende gemeente kan met inachtneming van [artikel 4
 
 - b. in het belang van de volksgezondheid, veiligheid en de openbare orde.
 
-3. Onverminderd het tweede lid, vindt de gegevensverstrekking bedoeld in het eerste lid, in ieder geval plaats in geval van niet-naleving van de bij of krachtens dit besluit gestelde eisen door een aangewezen teler of coffeeshophouder of in geval van een vermoeden dat die eisen niet worden nageleefd en in het geval toepassing wordt gegeven aan een bevoegdheid als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a) of [10, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=10) of [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=7&artikel=34&z=2020-07-01&g=2020-07-01) van dit besluit.
+3. Onverminderd het tweede lid, vindt de gegevensverstrekking bedoeld in het eerste lid, in ieder geval plaats in geval van niet-naleving van de bij of krachtens dit besluit gestelde eisen door een aangewezen teler of coffeeshophouder of in geval van een vermoeden dat die eisen niet worden nageleefd en in het geval toepassing wordt gegeven aan een bevoegdheid als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a) of [10, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=10) of [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&paragraaf=7&artikel=34&z=2020-07-15&g=2020-07-15) van dit besluit.
 
 4. Indien de bevoegdheid, bedoeld in het derde lid, wordt toegepast ten aanzien van een aangewezen teler wordt de burgemeester van de gemeente waar de hennep of hasjiesj wordt geproduceerd eveneens geïnformeerd.
 
