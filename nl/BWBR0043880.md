@@ -4,7 +4,7 @@ identifier: "BWBR0043880"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2020-06-18"
+last_updated: "2020-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043880"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2020-07-15"
 
 ### Hoofdstuk 1. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-### Hoofdstuk 2. Ministerie van Infrastructuur en Waterstaat
+### Hoofdstuk 1. Ministerie van Onderwijs, Cultuur en Wetenschap
 
 ### Hoofdstuk 3. Ministerie van Justitie en Veiligheid
 
@@ -56,7 +56,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.3. Tijdelijke inzet van raadsheren-plaatsvervangers en rechters-plaatsvervangers tot drieënzeventig jaar
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij een gebrek aan capaciteit aan rechterlijke ambtenaren met rechtspraak belast als gevolg van de maatregelen getroffen na de uitbraak van COVID-19 kunnen rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) alsmede raadsheren en raadsheren-plaatsvervangers bij het College van Beroep voor het bedrijfsleven en de Centrale Raad van beroep die op grond van [artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) worden ontslagen, vervolgens worden benoemd tot raadsheren-plaatsvervangers of rechters- plaatsvervangers.
+
+2. Het eerste lid is van overeenkomstige toepassing op rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) alsmede raadsheren en raadsheren-plaatsvervangers bij het College van Beroep voor het bedrijfsleven en de Centrale Raad van beroep
+
+- a. ten aanzien van wie binnen vierentwintig maanden na het ontslag op grond van [artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) door het gerechtsbestuur een aanbeveling wordt gedaan aan de Raad voor de rechtspraak tot benoeming tot raadsheer-plaatsvervanger of rechter-plaatsvervanger;
+
+- b. die binnen vierentwintig maanden voorafgaand aan de datum van inwerkingtreding van deze wet ontslagen zijn op grond van [artikel 46h, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) en inmiddels de leeftijd van zeventig jaar hebben bereikt of op grond van artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren, ontslagen zijn. De aanbeveling als bedoeld in het derde lid wordt gedaan binnen vierentwintig maanden na het ontslag.
+
+3. Het bestuur van het gerecht, het College van Beroep voor het bedrijfsleven of de Centrale Raad van beroep waar de rechterlijk ambtenaar als bedoeld in het eerste of tweede lid werkzaam is of laatstelijk werkzaam was doet een aanbeveling aan de Raad voor de rechtspraak voor de benoeming als bedoeld in het eerste en tweede lid.
+
+4. [Hoofdstuk 2 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2) is van overeenkomstige toepassing op de benoeming, plaatsing en beëdiging van rechterlijke ambtenaren overeenkomstig het eerste en tweede lid, met dien verstande dat ten aanzien van de benoemingen als bedoeld in het eerste lid kan worden afgezien van het vereiste van het bezit van een verklaring omtrent het gedrag, als bedoeld in [artikel 4a, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=4a).
+
+5. Raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet zijn benoemd, worden met ingang van de eerste dag van de maand volgende op die waarin zij de leeftijd van drieënzeventig jaren hebben bereikt, bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming ontslagen.
 
 ##### Artikel 3.4. Tijdelijke voorziening ten behoeve van de mondelinge behandeling in tuchtrechtelijke procedures
 
@@ -64,7 +76,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Indien in tuchtprocedures in verband met de uitbraak van COVID-19 sprake is van een capaciteitsgebrek, kan de voorzitter van een regionaal tuchtcollege of het centrale tuchtcollege als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), het veterinair tuchtcollege of het veterinair beroepscollege als bedoeld in de Wet dieren, het tuchtcollege loodsen als bedoeld in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) of het tuchtcollege voor de scheepvaart als bedoeld in de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) bepalen dat een zaak wordt behandeld en beslist door drie leden. Indien een zaak naar het oordeel van een van deze leden ongeschikt is voor behandeling en beslissing door drie leden, wordt deze voortgezet door vijf leden. Wanneer toepassing wordt gegeven aan het bepaalde in de eerste volzin, draagt de voorzitter van het tuchtcollege er zorg voor dat, indien de wet de behandeling van een zaak door een meerderheid van leden-beroepsgenoten dan wel andere leden voorschrijft, deze meerderheid ook tot uitdrukking komt in een samenstelling van drie leden.
 
-### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
+### Hoofdstuk 2. Ministerie van Infrastructuur en Waterstaat
 
 ### Hoofstuk 5. Slotbepalingen
 
@@ -145,11 +157,5 @@ Wanneer [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=
 ##### Artikel 5.5. Citeertitel
 
 Deze wet wordt aangehaald als: Tweede Verzamelspoedwet COVID-19.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
-
-### Hoofstuk 5. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
