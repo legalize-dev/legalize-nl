@@ -4,7 +4,7 @@ identifier: "BWBR0042755"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-19"
-last_updated: "2020-06-05"
+last_updated: "2020-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042755"
 soort: "wet"
@@ -61,7 +61,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Dit lid is nog niet in werking getreden.
 
-3. Voor zover nodig is in afwijking van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&z=2020-06-05&g=2020-06-05) van deze wet, is het bepaalde bij of krachtens de [artikelen 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=13) en [14, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14), en [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), zoals deze luidden voor inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2020-06-05&g=2020-06-05) van deze wet:
+3. Voor zover nodig is in afwijking van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=4&z=2020-07-15&g=2020-07-15) van deze wet, is het bepaalde bij of krachtens de [artikelen 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=12a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=13) en [14, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14), en [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), zoals deze luidden voor inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&hoofdstuk=6&artikel=29&z=2020-07-15&g=2020-07-15) van deze wet:
 
 - a. dit onderdeel is nog niet in werking getreden;
 
@@ -69,9 +69,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - c. dit onderdeel is nog niet in werking getreden;
 
-- d. van toepassing op medische hulpmiddelen als bedoeld in artikel 120, vijfde lid, van Verordening (EU) 2017/745, die voor 26 mei 2020 in de handel zijn gebracht, met dien verstande dat in [artikel 14 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14) voor «artikel 2, 3, 4, 5, 7, eerste lid, 9, eerste of derde lid, of 13» en in [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) voor «de Wet op de medische hulpmiddelen, de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, en 9, eerste en derde lid» telkens wordt gelezen «Verordening (EU) 2017/745»;
+- d. van toepassing op medische hulpmiddelen als bedoeld in artikel 120, vijfde lid, van Verordening (EU) 2017/745, die voor 26 mei 2021 in de handel zijn gebracht, met dien verstande dat in [artikel 14 van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=14) voor «artikel 2, 3, 4, 5, 7, eerste lid, 9, eerste of derde lid, of 13» en in [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) voor «de Wet op de medische hulpmiddelen, de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, en 9, eerste en derde lid» telkens wordt gelezen «Verordening (EU) 2017/745»;
 
-- e. van toepassing op medische hulpmiddelen voor in-vitrodiagnostiek als bedoeld in artikel 110, vijfde lid, van Verordening (EU) 2017/746, die voor 26 mei 2020 in de handel zijn gebracht, met dien verstande dat in artikel 14 van de Wet op de medische hulpmiddelen voor «artikel 2, 3, 4, 5, 7, eerste lid, 9, eerste of derde lid, of 13» en in [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) voor «de Wet op de medische hulpmiddelen, de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, en 9, eerste en derde lid» telkens wordt gelezen «Verordening (EU) 2017/746».
+- e. van toepassing op medische hulpmiddelen voor in-vitrodiagnostiek als bedoeld in artikel 110, vijfde lid, van Verordening (EU) 2017/746, die voor 26 mei 2021 in de handel zijn gebracht, met dien verstande dat in artikel 14 van de Wet op de medische hulpmiddelen voor «artikel 2, 3, 4, 5, 7, eerste lid, 9, eerste of derde lid, of 13» en in [artikel 1, aanhef en onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) voor «de Wet op de medische hulpmiddelen, de artikelen 2, 3, eerste lid, 4, 5, 7, eerste lid, en 9, eerste en derde lid» telkens wordt gelezen «Verordening (EU) 2017/746».
 
 ##### Artikel 24. Overgangsrecht
 
