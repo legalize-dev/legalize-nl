@@ -4,7 +4,7 @@ identifier: "BWBR0035866"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-17"
-last_updated: "2014-12-18"
+last_updated: "2020-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035866"
 soort: "AMvB"
@@ -80,7 +80,7 @@ Als bedreigde diersoorten als bedoeld in [artikel 10e, derde en vierde lid, van 
 
 ##### Artikel 6
 
-Om in aanmerking te komen voor een instellingsvergunning tot het fokken of afleveren van dieren met het oog op dierproeven als bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a), dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan het bepaalde bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=7&z=2014-12-18&g=2014-12-18), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=9&z=2014-12-18&g=2014-12-18), en [11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=11&z=2014-12-18&g=2014-12-18) alsmede, wat betreft het personeel, aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=8&z=2014-12-18&g=2014-12-18), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=9&z=2014-12-18&g=2014-12-18), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=10&z=2014-12-18&g=2014-12-18).
+Om in aanmerking te komen voor een instellingsvergunning tot het fokken of afleveren van dieren met het oog op dierproeven als bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a), dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan het bepaalde bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=7&z=2020-07-17&g=2020-07-17), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=9&z=2020-07-17&g=2020-07-17), en [11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=11&z=2020-07-17&g=2020-07-17) alsmede, wat betreft het personeel, aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=8&z=2020-07-17&g=2020-07-17), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=9&z=2020-07-17&g=2020-07-17), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=3&artikel=10&z=2020-07-17&g=2020-07-17).
 
 #### § 3. Verplichtingen voor fokker, leverancier en gebruiker
 
@@ -88,7 +88,7 @@ Om in aanmerking te komen voor een instellingsvergunning tot het fokken of aflev
 
 1. De fokker, de leverancier en de gebruiker zorgen ervoor dat:
 
-- a. alle dieren beschikken over huisvesting, een omgeving, voedsel, water en verzorging die passend zijn voor hun gezondheid en welzijn en welke ten minste voldoet aan de in bijlage III van de richtlijn gestelde eisen;
+- a. alle dieren beschikken over huisvesting, een omgeving, voedsel, water en verzorging die passend zijn voor hun gezondheid en welzijn en welke ten minste voldoet aan de in bijlage III van de richtlijn gestelde eisen met ingang van de in die bijlage bij die eisen genoemde data;
 
 - b. iedere beperking van de mogelijkheid van de dieren om aan hun fysiologische en ethologische behoeften te voldoen, tot een minimum wordt beperkt;
 
@@ -106,7 +106,7 @@ Om in aanmerking te komen voor een instellingsvergunning tot het fokken of aflev
 
 4. Het ontwerp, de bouw en de werking van de in het derde lid bedoelde installaties en voorzieningen zijn zodanig dat dierproeven zo doelmatig mogelijk kunnen worden uitgevoerd en dat met zo weinig mogelijk dieren en een minimum aan pijn, lijden, angst of blijvende schade naar betrouwbare resultaten wordt gestreefd.
 
-5. De in het derde lid bedoelde installaties en voorzieningen voldoen aan de in bijlage III bij de richtlijn aan installaties en voorzieningen gestelde voorschriften.
+5. De in het derde lid bedoelde installaties en voorzieningen en het ontwerp, de bouw en de werking daarvan, bedoeld in het vierde lid, voldoen aan de in bijlage III bij de richtlijn aan installaties en voorzieningen en het ontwerp, de bouw en de werking daarvan, bedoeld in het vierde lid, gestelde voorschriften.
 
 6. Van het eerste lid, aanhef en onderdeel a, kan worden afgeweken:
 
@@ -172,7 +172,7 @@ Het [Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003802) wordt 
 
 ##### Artikel 15
 
-De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=2&artikel=2&z=2014-12-18&g=2014-12-18), gestelde vereisten dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), opgeleid moet zijn in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, respectievelijk een door Onze Minister erkende cursus proefdierkunde heeft gevolgd, geldt niet ten aanzien van personen ten aanzien waarvan vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van [richtlijn 2010/63](32010L0063)/EU op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) een ontheffing van het verbod in artikel 9 van de wet is verleend, voor zover deze ontheffing betrekking heeft op deze vereisten.
+De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&paragraaf=2&artikel=2&z=2020-07-17&g=2020-07-17), gestelde vereisten dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), opgeleid moet zijn in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, respectievelijk een door Onze Minister erkende cursus proefdierkunde heeft gevolgd, geldt niet ten aanzien van personen ten aanzien waarvan vóór de inwerkingtreding van de wet tot wijziging van de Wet op de dierproeven in verband met implementatie van [richtlijn 2010/63](32010L0063)/EU op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) een ontheffing van het verbod in artikel 9 van de wet is verleend, voor zover deze ontheffing betrekking heeft op deze vereisten.
 
 ##### Artikel 16
 
