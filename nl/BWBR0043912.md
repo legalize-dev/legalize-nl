@@ -4,7 +4,7 @@ identifier: "BWBR0043912"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-22"
-last_updated: "2015-03-01"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043912"
 soort: "ministeriele-regeling"
@@ -37,7 +37,11 @@ entry_into_force: "2020-07-22"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit wordt verstaan onder:
+
+- a. **bestuur:** het bestuur van de Stichting Pensioenfonds ABP;
+
+- b. **De Staatssecretaris:** de Staatsecretaris van Defensie.
 
 ##### Artikel 2
 
@@ -77,39 +81,59 @@ De Staatssecretaris verleent aan het bestuur mandaat om namens hem besluiten te 
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Het bestuur legt een voorgenomen besluit, voor zover dit voortkomt uit de uitvoering van in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22) genoemde defensieregelingen voor aan de Staatssecretaris indien:
+
+- a. het bestuur gerede twijfels heeft over het in een individueel geval toepassen van een regeling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22) en
+
+- b. het naar het oordeel van het bestuur een geval betreft dat grote beleidsmatige of financiële gevolgen kan hebben voor het Ministerie van Defensie, dan wel kan leiden tot precedentwerking.
+
+- c. het door de Staatssecretaris nader aan te wijzen gevallen betreft die van belang zijn voor de beleidsvorming dan wel in het kader van kwaliteitstoetsing en -verbetering.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+De Staatssecretaris verleent mandaat aan het bestuur om te beslissen op bezwaarschriften aangaande ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22) genomen besluiten. Een en ander met dien verstande dat degene die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg. Het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=3&z=2020-07-22&g=2020-07-22) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+- a. De Staatssecretaris verleent aan het bestuur bevoegdheid in rechte op te treden indien tegen een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22) dan wel [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=4&z=2020-07-22&g=2020-07-22) genomen besluit beroep wordt ingesteld.
+
+- b. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, stelt het bestuur geen hoger beroep in dan na verkregen instemming van de Staatssecretaris met betrekking tot de gronden voor het hoger beroep. Het bestuur is in dat geval bevoegd om vooruitlopend hierop zo nodig voorlopig hoger beroep in te stellen.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+- a. Het bestuur kan het aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=4&z=2020-07-22&g=2020-07-22) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=5&z=2020-07-22&g=2020-07-22) ontleende mandaat geheel of gedeeltelijk ondermandateren.
+
+- b. De verlening van een ondermandaat door het bestuur geschiedt schriftelijk.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Het bestuur houdt een register bij betreffende verleende ondermandaten. Het register bevat de namen van de functionarissen van het fonds die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat. Het betreffende register en iedere wijziging daarvan wordt onverwijld door het bestuur aan de Staatssecretaris kenbaar gemaakt.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot:
+
+Namens de Staatssecretaris van Defensie
+
+de Stichting Pensioenfonds ABP,
+
+voor deze,
+
+... (handtekening en naam van de functionaris)
+
+... (de functie van de ondertekenaar)
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Mandaatbesluit uitvoering defensiespecifieke uitkeringsregelingen 2020.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Het [mandaatbesluit uitvoering defensiespecifieke uitkeringsregelingen 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042643) (Stcrt. 2019, 56272) wordt ingetrokken.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt wat betreft [artikel 2, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22), terug tot en met 1 maart 2015.
 
 Besluit:
 
