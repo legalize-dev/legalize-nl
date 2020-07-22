@@ -4,7 +4,7 @@ identifier: "BWBR0041989"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-07-22"
-last_updated: "2019-03-13"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041989"
 soort: "zbo"
@@ -57,7 +57,7 @@ In deze Beleidsregels wordt verstaan onder:
 
 - –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **Nadere aanwijzing:** Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2019
+- –. **Nadere aanwijzing:** [Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042285)
 
 - –. **NZa:** Nederlandse Zorgautoriteit;
 
@@ -66,6 +66,8 @@ In deze Beleidsregels wordt verstaan onder:
 - –. **regio:** een regio zoals genoemd in [artikel 1 van het Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, houdende de aanwijzing van de zorgkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0037424&artikel=1), Staatscourant 2015 nr. 47359, 24 december 2015;
 
 - –. **SVB:** Sociale Verzekeringsbank;
+
+- –. **Tweede nadere aanwijzing:** [Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042834);
 
 - –. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
@@ -105,9 +107,9 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 ##### Artikel 6
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2020-07-22&g=2020-07-22) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=5&z=2020-07-22&g=2020-07-22) resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 7
 
@@ -127,7 +129,7 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 ##### Artikel 8
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=7&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=2&artikel=7&z=2020-07-22&g=2020-07-22), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2018 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2018. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 9
 
@@ -145,7 +147,7 @@ Het Zorginstituut stelt het bedrag zoals bedoeld voor de SVB voor de uitvoering 
 
 ##### Artikel 12
 
-Uiterlijk op de eerste werkdag van mei 2020 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2019 voor de zorgkantoren, de Wlz-uitvoerders en de SVB nader vast op basis van de Nadere aanwijzing.
+Uiterlijk op de eerste werkdag van mei 2020 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2019 voor de zorgkantoren, de Wlz-uitvoerders en de SVB nader vast op basis van de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0042285) en de [Tweede nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0042834).
 
 ##### Artikel 13
 
@@ -155,41 +157,55 @@ Bij de nadere vaststelling verdeelt het Zorginstituut het bedrag voor de zorgkan
 
 - b. een bedrag van € 285,01 voor het voeren van bewuste-keuze gesprekken in 2019, vermenigvuldigd met het aantal bewuste-keuze gesprekken, wordt verdeeld op basis van het aantal budgethouders per regio zoals blijkt uit de vierde kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) 2019 zorgkantoren;
 
-- c. een bedrag van € 548,02 per budgethouder voor elke budgethouder bij wie in 2019 één of meer huisbezoeken zijn afgelegd, vermenigvuldigd met het in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041753) geschatte aantal van 13.500, wordt verdeeld naar rato van het aantal budgethouders per regio, zoals genoemd in onderdeel a van dit artikel;
+- c. een bedrag van € 548,02 per budgethouder voor elke budgethouder bij wie in 2019 één of meer huisbezoeken zijn afgelegd, vermenigvuldigd met het in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041753) geschatte aantal van 15.000, wordt verdeeld naar rato van het aantal budgethouders per regio, zoals genoemd in onderdeel a van dit artikel;
 
 - d. een bedrag van € 5,890 miljoen wordt verdeeld op basis van een gelijk bedrag per zorgkantoor;
 
-- e. een bedrag van € 2,945 miljoen voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern wordt verdeeld op basis van een gelijk bedrag per zorgkantoor.
+- e. een bedrag van € 2,945 miljoen voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern wordt verdeeld op basis van een gelijk bedrag per zorgkantoor;
+
+- f. een bedrag van € 3,000 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 kosten hebben gemaakt in het kader van de implementatie van het PGB portaal 2.0;
+
+- g. een bedrag van € 0,712 miljoen wordt toegekend aan één zorgkantoor dat in 2019 ontwikkelkostenkosten heeft gemaakt in het kader van het PGB portaal 2.0;
+
+- h. een bedrag van € 1,121 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 incassokosten hebben gemaakt in verband met vorderingen AWBZ;
+
+- i. een bedrag van € 0,656 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 kosten hebben gemaakt met betrekking tot ‘Te goeder trouw’.
 
 ##### Artikel 14
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2020-07-22&g=2020-07-22) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=13&z=2020-07-22&g=2020-07-22) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 15
 
 Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bij of krachtens die wet geregelde taken van de Wlz-uitvoerders bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt:
 
-- a. een bedrag van € 1,521 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2019 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- a. een bedrag van € 1,517 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2019 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- b. een bedrag van € 3,042 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen;
+- b. een bedrag van € 3,034 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen;
 
 - c. een bedrag van € 0,290 miljoen wordt verdeeld over de twee Wlz-uitvoerders die niet zijn aangewezen als zorgkantoor en ook geen deel uitmaken van een groter concern;
 
-- d. een voorwaardelijk bedrag van ten hoogste € 9,850 miljoen is uitsluitend bestemd voor onafhankelijke cliëntondersteuning. Dit bedrag wordt verdeeld op basis van de door de Wlz-uitvoerders opgegeven schatting aan Zorgverzekeraars Nederland;
+- d. een voorwaardelijk bedrag van ten hoogste € 10,456 miljoen is uitsluitend bestemd voor onafhankelijke cliëntondersteuning. Dit bedrag wordt verdeeld op basis van de door de Wlz-uitvoerders opgegeven schatting aan Zorgverzekeraars Nederland;
 
 - e. een bedrag van € 0,500 miljoen wordt verdeeld over twee Wlz-uitvoerders die zijn verzocht de werkwijze tijdens het inmiddels afgelopen experiment ‘Persoonsvolgende zorg’ voor de onafhankelijke cliëntondersteuning te continueren;
 
-- f. een bedrag van € 77,203 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen.
+- f. een bedrag van € 11,326 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland, over de Wlz-uitvoerders voor het programmaplan ‘Thuis in het verpleeghuis’ dat onderdeel uitmaakt van ‘Inkopen op kwaliteit’;
+
+- g. een bedrag van € 0,600 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland, over Wlz-uitvoerders die kosten hebben gemaakt voor de pilot ‘Ondersteuning van naasten’;
+
+- h. een bedrag van € 0,734 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over voor Wlz-uitvoerders die in 2019 kosten hebben gemaakt in het kader van de toegang tot de Wlz voor cliënten met een psychiatrische stoornis;
+
+- i. een bedrag van € 77,152 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
 ##### Artikel 16
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=15&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=3&artikel=15&z=2020-07-22&g=2020-07-22), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 17
 
-Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,8223197 als vergoeding in de beheerskosten.
+Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,7849068 als vergoeding in de beheerskosten.
 
 ##### Artikel 18
 
@@ -213,13 +229,21 @@ Bij de definitieve vaststelling verdeelt het Zorginstituut het bedrag voor de zo
 
 - d. een bedrag van € 5,890 miljoen wordt verdeeld op basis van een gelijk bedrag per zorgkantoor;
 
-- e. een bedrag van € 2,945 miljoen wordt voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor.
+- e. een bedrag van € 2,945 miljoen wordt voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor;
+
+- f. een bedrag van € 3,000 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 kosten hebben gemaakt in het kader van de implementatie van het PGB portaal 2.0;
+
+- g. een bedrag van € 0,712 miljoen wordt toegekend aan één zorgkantoor dat in 2019 ontwikkelkostenkosten heeft gemaakt in het kader van het PGB portaal 2.0;
+
+- h. een bedrag van € 1,121 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 incassokosten hebben gemaakt in verband met vorderingen [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+
+- i. een bedrag van € 0,656 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland over de zorgkantoren die in 2019 kosten hebben gemaakt met betrekking tot ‘Te goeder trouw’.
 
 ##### Artikel 21
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-03-13) resterende bedrag gelijkelijk over de acht zorgkantoren.
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2020-07-22&g=2020-07-22) resterende bedrag gelijkelijk over de acht zorgkantoren.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2019-03-13&g=2019-03-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=20&z=2020-07-22&g=2020-07-22) resterende bedrag op basis van het aantal inwoners per 1 januari 2019 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 22
 
@@ -227,25 +251,31 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt:
 
-- a. een bedrag van € 1,521 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2019 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- a. een bedrag van € 1,517 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden op 1 juli 2019 dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- b. een bedrag van € 3,042 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen;
+- b. een bedrag van € 3,034 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen;
 
 - c. een bedrag van € 0,290 miljoen wordt verdeeld over de twee Wlz-uitvoerders die niet zijn aangewezen als zorgkantoor en ook geen deel uitmaken van een groter concern;
 
-- d. een voorwaardelijk bedrag van ten hoogste € 9,850 miljoen is uitsluitend bestemd voor onafhankelijke cliëntondersteuning. Dit bedrag wordt verdeeld op basis van de werkelijke kosten inzake onafhankelijke cliëntondersteuning die de Wlz-uitvoerders voor het kalenderjaar 2019 hebben opgegeven in hun financiële verantwoording 2019 en die zijn gecontroleerd door de NZa.
+- d. een voorwaardelijk bedrag van ten hoogste € 10,456 miljoen is uitsluitend bestemd voor onafhankelijke cliëntondersteuning. Dit bedrag wordt verdeeld op basis van de werkelijke kosten inzake onafhankelijke cliëntondersteuning die de Wlz-uitvoerders voor het kalenderjaar 2019 hebben opgegeven in hun financiële verantwoording 2019 en die zijn gecontroleerd door de NZa.
 
 - e. een bedrag van € 0,500 miljoen wordt verdeeld over twee Wlz-uitvoerders die zijn verzocht de werkwijze tijdens het inmiddels afgelopen experiment ‘Persoonsvolgende zorg’ voor de onafhankelijke cliëntondersteuning te continueren;
 
-- f. een bedrag van € 77,203 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen.
+- f. een bedrag van € 11,326 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland, over de Wlz-uitvoerders voor het programmaplan ‘Thuis in het verpleeghuis’ dat onderdeel uitmaakt van ‘Inkopen op kwaliteit’;
+
+- g. een bedrag van € 0,600 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland, over Wlz-uitvoerders die kosten hebben gemaakt voor de pilot ‘Ondersteuning van naasten’;
+
+- h. een bedrag van € 0,734 miljoen wordt verdeeld op basis van een uitvraag van Zorgverzekeraars Nederland voor de Wlz-uitvoerders die in 2019 kosten hebben gemaakt in het kader van de toegang tot de Wlz voor cliënten met een psychiatrische stoornis;
+
+- i. een bedrag van € 77,152 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2019 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
 ##### Artikel 23
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=22&z=2019-03-13&g=2019-03-13), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041989&paragraaf=4&artikel=22&z=2020-07-22&g=2020-07-22), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2019 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2019. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 24
 
-Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,8223197 als vergoeding in de beheerskosten.
+Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,7849068 als vergoeding in de beheerskosten.
 
 ##### Artikel 25
 
