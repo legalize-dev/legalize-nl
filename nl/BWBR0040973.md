@@ -4,7 +4,7 @@ identifier: "BWBR0040973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-22"
-last_updated: "2018-05-01"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040973"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ De voorzitter heeft tot taak:
 
 1. Tot voorzitter wordt voor de periode van 1 mei 2018 tot 1 mei 2019 benoemd mevrouw drs. J.A.H. van Veen.
 
-2. De voorzitter kan éénmaal worden herbenoemd voor een tweede periode.
+2. Vervallen.
 
 ##### Artikel 4. Uitvoering werkzaamheden
 
