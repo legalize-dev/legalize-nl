@@ -4,7 +4,7 @@ identifier: "BWBR0043949"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-28"
-last_updated: "2017-01-01"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043949"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2017 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043949&artikel=1&z=2020-07-28&g=2017-01-01) genoemd van € 1,671 miljoen is volledig bestemd voor de taken bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
+Het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043949&artikel=1&z=2020-07-28&g=2020-07-28) genoemd van € 1,671 miljoen is volledig bestemd voor de taken bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
 
 ##### Artikel 3
 
