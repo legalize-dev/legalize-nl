@@ -4,7 +4,7 @@ identifier: "BWBR0041819"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2019-01-19"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041819"
 soort: "AMvB"
@@ -58,21 +58,21 @@ In dit besluit wordt verstaan onder:
 
 - **bestaande kwalificatie:** kwalificatie als bedoeld in [artikel 7.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.3) die is vastgesteld op grond van [artikel 7.2.4, tweede lid, onder a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4);
 
-- **bijlage:** bijlage bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19), van dit Besluit, bestaande uit een overzicht van kwalificaties waarop een geregionaliseerde kwalificatie kan worden gebaseerd;
+- **bijlage:** bijlage bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01), van dit Besluit, bestaande uit een overzicht van kwalificaties waarop een geregionaliseerde kwalificatie kan worden gebaseerd;
 
 - **cohort:** tijdvak lopend van het eerste jaar van een opleiding tot en met het laatste jaar, uitgaande van de studieduur als bedoeld in [artikel 7.2.4a, derde lid, onder b, c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4a);
 
 - **experiment:** tijdelijke mogelijkheid om een geregionaliseerde kwalificatie tot stand te brengen en op basis daarvan een geregionaliseerde beroepsopleiding te verzorgen;
 
-- **geregionaliseerde beroepsopleiding:** opleiding als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=4&z=2019-01-19&g=2019-01-19);
+- **geregionaliseerde beroepsopleiding:** opleiding als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=4&z=2020-08-01&g=2020-08-01);
 
-- **geregionaliseerde kwalificatie:** kwalificatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19);
+- **geregionaliseerde kwalificatie:** kwalificatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01);
 
 - **inspectie:** inspectie van het onderwijs, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800),
 
 - **instelling:** instelling als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of [artikel 1.4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1);
 
-- **landelijk deel:** het in [artikel 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19), bedoelde deel van een geregionaliseerde kwalificatie;
+- **landelijk deel:** het in [artikel 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01), bedoelde deel van een geregionaliseerde kwalificatie;
 
 - **niet-bekostigde instelling:** instelling als bedoeld in [artikel 1.4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1);
 
@@ -80,9 +80,9 @@ In dit besluit wordt verstaan onder:
 
 - **regio:** gebied waarin de instelling die goedkeuring voor een regionaal deel aanvraagt is gevestigd en waarin de bij de aanvraag betrokken werkgevers een vestiging hebben;
 
-- **regionaal deel:** het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=6&z=2019-01-19&g=2019-01-19), bedoelde deel van een geregionaliseerde kwalificatie;
+- **regionaal deel:** het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=6&z=2020-08-01&g=2020-08-01), bedoelde deel van een geregionaliseerde kwalificatie;
 
-- **regionaal keuzedeel:** keuzedeel als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=7&z=2019-01-19&g=2019-01-19);
+- **regionaal keuzedeel:** keuzedeel als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=7&z=2020-08-01&g=2020-08-01);
 
 - **SBB:** Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
 
@@ -148,7 +148,7 @@ In dit besluit wordt verstaan onder:
 
 2. De studielast van het regionale deel bedraagt maximaal 25% van de studielast van de desbetreffende geregionaliseerde beroepsopleiding.
 
-3. Het regionale deel van de kwalificatie kan alleen tot stand worden gebracht door een instelling die overeenkomstig [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2019-01-19&g=2019-01-19), een aanvraag voor vaststelling van het landelijke deel van de desbetreffende geregionaliseerde kwalificatie heeft ingediend.
+3. Het regionale deel van de kwalificatie kan alleen tot stand worden gebracht door een instelling die overeenkomstig [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2020-08-01&g=2020-08-01), een aanvraag voor vaststelling van het landelijke deel van de desbetreffende geregionaliseerde kwalificatie heeft ingediend.
 
 4. Het regionale deel valt niet samen met een of meer onderdelen van het landelijke deel van de geregionaliseerde kwalificatie.
 
@@ -164,7 +164,7 @@ In dit besluit wordt verstaan onder:
 
 1. De instelling heeft een samenwerkingsovereenkomst gesloten met de werkgevers die zijn betrokken bij de ontwikkeling van het regionale deel van de geregionaliseerde kwalificatie en, indien van toepassing, de regionale keuzedelen. Uit de samenwerkingsovereenkomst blijkt dat de betrokken werkgevers samen gedurende het experiment voldoende praktijkplaatsen voor de desbetreffende geregionaliseerde beroepsopleiding bieden en dat er in de regio voldoende arbeidsmarktperspectief is voor afgestudeerden van die opleiding.
 
-2. De instelling voorziet in een terugvaloptie, waardoor deelnemers tussentijds kunnen uitstromen naar een andere verwante opleiding.
+2. De instelling voorziet in een terugvaloptie, waardoor studenten tussentijds kunnen uitstromen naar een andere verwante opleiding.
 
 3. Aan de instelling die de aanvraag indient, mag binnen het opleidingsdomein van de kwalificatie waarop het landelijke deel is gebaseerd niet een waarschuwing van kracht zijn als bedoeld in [artikel 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3) en [6.2.3b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) of een besluit zijn genomen als bedoeld in [artikel 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), [6.1.5b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2) en [6.2.3b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b).
 
@@ -186,7 +186,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10. Modellen en toetsingskaders
 
-Ten behoeve van de melding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=9&z=2019-01-19&g=2019-01-19), het advies, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2019-01-19&g=2019-01-19), aanvragen als bedoeld in de artikelen 12, eerste lid, en [16, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), en het verstrekken van informatie als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2019-01-19&g=2019-01-19) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=17&z=2019-01-19&g=2019-01-19), worden bij ministeriële regeling modellen en toetsingskaders vastgesteld.
+Ten behoeve van de melding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=9&z=2020-08-01&g=2020-08-01), het advies, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2020-08-01&g=2020-08-01), aanvragen als bedoeld in de artikelen 12, eerste lid, en [16, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), en het verstrekken van informatie als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2020-08-01&g=2020-08-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=17&z=2020-08-01&g=2020-08-01), worden bij ministeriële regeling modellen en toetsingskaders vastgesteld.
 
 ##### Artikel 11. Informatieverplichting bevoegd gezag
 
@@ -202,9 +202,9 @@ Het bevoegd gezag verstrekt desgevraagd aan Onze Minister informatie over de ger
 
 ##### Artikel 13. Informatie landelijk deel
 
-De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2019-01-19&g=2019-01-19), bevat de volgende informatie:
+De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2020-08-01&g=2020-08-01), bevat de volgende informatie:
 
-- a. op welke in de bijlage of de ministeriële regeling, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19), opgenomen kwalificatie het landelijke deel is gebaseerd;
+- a. op welke in de bijlage of de ministeriële regeling, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01), opgenomen kwalificatie het landelijke deel is gebaseerd;
 
 - b. uit welke kerntaken het landelijke deel is samengesteld;
 
@@ -220,19 +220,19 @@ De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 14. Aanvraagtermijn landelijk deel
 
-1. Een aanvraag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2019-01-19&g=2019-01-19), kan uiterlijk op 15 september 2020 worden ingediend.
+1. Een aanvraag als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2020-08-01&g=2020-08-01), kan uiterlijk op 15 september 2020 worden ingediend.
 
 2. In afwijking van het eerste lid kan een aanvraag uiterlijk op 15 september 2019 worden ingediend indien de instellingen in het studiejaar 2020–2021 met de desbetreffende geregionaliseerde beroepsopleiding beogen te starten.
 
 ##### Artikel 15. Beoordeling en beschikking landelijk deel
 
-1. Op een aanvraag die is ingediend conform de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2019-01-19&g=2019-01-19), waarover de SBB heeft geadviseerd conform artikel 12, beslist Onze Minister behoudens het tweede lid positief indien het landelijke deel voldoet aan de vereisten van [artikel 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19). De minister kan alleen bij zwaarwegende redenen afwijken van het advies van de SBB.
+1. Op een aanvraag die is ingediend conform de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=12&z=2020-08-01&g=2020-08-01), waarover de SBB heeft geadviseerd conform artikel 12, beslist Onze Minister behoudens het tweede lid positief indien het landelijke deel voldoet aan de vereisten van [artikel 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01). De minister kan alleen bij zwaarwegende redenen afwijken van het advies van de SBB.
 
-2. Onze Minister stelt per kwalificatie zoals opgenomen in de bijlage of de ministeriële regeling, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19), ten hoogste 1 landelijk deel vast.
+2. Onze Minister stelt per kwalificatie zoals opgenomen in de bijlage of de ministeriële regeling, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01), ten hoogste 1 landelijk deel vast.
 
-3. In de beschikking tot vaststelling van het landelijke deel worden de prijsfactor van de betreffende geregionaliseerde kwalificatie en de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2019-01-19&g=2019-01-19) bedoelde gegevens opgenomen.
+3. In de beschikking tot vaststelling van het landelijke deel worden de prijsfactor van de betreffende geregionaliseerde kwalificatie en de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2020-08-01&g=2020-08-01) bedoelde gegevens opgenomen.
 
-4. Onze Minister beslist uiterlijk op 15 november 2020 op een aanvraag als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=14&z=2019-01-19&g=2019-01-19), en uiterlijk op 15 november 2019 op een aanvraag als bedoeld in artikel 14, tweede lid.
+4. Onze Minister beslist uiterlijk op 15 november 2020 op een aanvraag als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=14&z=2020-08-01&g=2020-08-01), en uiterlijk op 15 november 2019 op een aanvraag als bedoeld in artikel 14, tweede lid.
 
 ### Hoofdstuk 3. Aanvraag en beschikking goedkeuring regionaal deel geregionaliseerde kwalificatie en regionale keuzedelen en koppeling keuzedelen
 
@@ -250,19 +250,19 @@ De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 17. Informatie regionaal deel, regionale keuzedelen en koppeling keuzedelen
 
-1. Bij de aanvraag, bedoeld in [artikel 16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), geeft de instelling informatie over:
+1. Bij de aanvraag, bedoeld in [artikel 16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), geeft de instelling informatie over:
 
 - a. de naam en de code van de kwalificatie waarop het landelijke deel van de geregionaliseerde kwalificatie is gebaseerd;
 
 - b. de datum en het kenmerk van de beschikking waarbij het landelijke deel is vastgesteld;
 
-- c. de terugvaloptie voor de deelnemer die voortijdig uitstroomt uit de geregionaliseerde beroepsopleiding;
+- c. de terugvaloptie voor de student die voortijdig uitstroomt uit de geregionaliseerde beroepsopleiding;
 
 - d. een analyse van de kwalitatieve en kwantitatieve vraag van de regionale arbeidsmarkt naar gediplomeerden van de opleiding waarop de geregionaliseerde kwalificatie zich richt;
 
-- e. het verwachte aantal deelnemers voor deze opleiding gedurende het experiment;
+- e. het verwachte aantal studenten voor deze opleiding gedurende het experiment;
 
-- f. de wijze waarop de deelnemers zijn geraadpleegd;
+- f. de wijze waarop de studenten zijn geraadpleegd;
 
 - g. een overzicht van de relevante bedrijven in de regio;
 
@@ -272,7 +272,7 @@ De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1
 
 - j. een omschrijving van de regio;
 
-- k. een samenwerkingsovereenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=8&z=2019-01-19&g=2019-01-19);
+- k. een samenwerkingsovereenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=8&z=2020-08-01&g=2020-08-01);
 
 - l. de uitwerking in kerntaken en de studielast van het regionale deel van de geregionaliseerde kwalificatie;
 
@@ -280,11 +280,11 @@ De aanvraag, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1
 
 - n. de bestaande en, indien van toepassing, regionale keuzedelen die aan de geregionaliseerde kwalificatie zijn gekoppeld.
 
-2. Bij de aanvraag, bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), vermeldt de instelling de naam en de code van de geregionaliseerde kwalificatie, de daaraan gekoppelde keuzedelen en de bestaande keuzedelen waarvoor koppeling wordt gevraagd.
+2. Bij de aanvraag, bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), vermeldt de instelling de naam en de code van de geregionaliseerde kwalificatie, de daaraan gekoppelde keuzedelen en de bestaande keuzedelen waarvoor koppeling wordt gevraagd.
 
 ##### Artikel 18. Aanvraagtermijn regionaal deel, regionale keuzedelen en koppeling keuzedelen
 
-Een aanvraag als bedoeld in [artikel 16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), kan worden ingediend uiterlijk op 15 maart van het studiejaar voorafgaand aan het studiejaar waarin de instelling met de geregionaliseerde beroepsopleiding beoogt te starten, met dien verstande dat:
+Een aanvraag als bedoeld in [artikel 16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), kan worden ingediend uiterlijk op 15 maart van het studiejaar voorafgaand aan het studiejaar waarin de instelling met de geregionaliseerde beroepsopleiding beoogt te starten, met dien verstande dat:
 
 - a. een aanvraag voor het regionale deel van een vierjarige opleiding uiterlijk op 15 maart 2022 wordt ingediend;
 
@@ -296,7 +296,7 @@ Een aanvraag als bedoeld in [artikel 16, eerste of tweede lid](https://wetten.ov
 
 ##### Artikel 19. Beoordeling en beschikking regionaal deel, regionale keuzedelen en koppeling keuzedelen
 
-1. Op een aanvraag die is ingediend conform de [artikelen 16, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=17&z=2019-01-19&g=2019-01-19), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=18&z=2019-01-19&g=2019-01-19) beslist Onze Minister positief indien de instelling heeft aangetoond dat zij voldoet aan de vereisten van de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=4&z=2019-01-19&g=2019-01-19), de eisen die rechtstreeks voortvloeien uit de wet, de informatie, bedoeld in artikel 17 en – voor zover het een niet-bekostigde instelling betreft – tevens aan de voorwaarden gesteld in [artikel 1.4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1).
+1. Op een aanvraag die is ingediend conform de [artikelen 16, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=17&z=2020-08-01&g=2020-08-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=18&z=2020-08-01&g=2020-08-01) beslist Onze Minister positief indien de instelling heeft aangetoond dat zij voldoet aan de vereisten van de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=4&z=2020-08-01&g=2020-08-01), de eisen die rechtstreeks voortvloeien uit de wet, de informatie, bedoeld in artikel 17 en – voor zover het een niet-bekostigde instelling betreft – tevens aan de voorwaarden gesteld in [artikel 1.4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1).
 
 2. Indien Onze minister de aanvraag toewijst, wordt in de desbetreffende beschikking opgenomen:
 
@@ -308,15 +308,15 @@ Een aanvraag als bedoeld in [artikel 16, eerste of tweede lid](https://wetten.ov
 
 - d. de naam, code, leerweg en het niveau van de geregionaliseerde kwalificatie;
 
-- e. de naam en de codes van de bestaande en, indien van toepassing, regionale keuzedelen waaruit de deelnemer kan kiezen;
+- e. de naam en de codes van de bestaande en, indien van toepassing, regionale keuzedelen waaruit de student kan kiezen;
 
-- f. de vaststelling van het laatste studiejaar waarvoor deelnemers mogen worden ingeschreven voor het eerste jaar van de geregionaliseerde beroepsopleiding;
+- f. de vaststelling van het laatste studiejaar waarvoor studenten mogen worden ingeschreven voor het eerste jaar van de geregionaliseerde beroepsopleiding;
 
 - g. indien het een aanvraag van een bekostigde instelling betreft, de vaststelling dat de desbetreffende geregionaliseerde beroepsopleiding wordt bekostigd;
 
 - h. indien het een aanvraag van een niet-bekostigde instelling betreft, de vaststelling dat aan de geregionaliseerde beroepsopleiding een diploma is verbonden als bedoeld in [artikel 7.4.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6).
 
-3. Onze Minister wijst een aanvraag als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), in elk geval af indien het desbetreffende keuzedeel samenvalt met een of meer onderdelen van de geregionaliseerde kwalificatie.
+3. Onze Minister wijst een aanvraag als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), in elk geval af indien het desbetreffende keuzedeel samenvalt met een of meer onderdelen van de geregionaliseerde kwalificatie.
 
 4. Onze Minister beslist uiterlijk op 1 mei van het studiejaar voorafgaand aan het studiejaar waarin de instelling met de geregionaliseerde beroepsopleiding beoogt te starten.
 
@@ -324,13 +324,13 @@ Een aanvraag als bedoeld in [artikel 16, eerste of tweede lid](https://wetten.ov
 
 ##### Artikel 20. Opname in het Crebo
 
-1. Indien Onze Minister een beschikking neemt als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=19&z=2019-01-19&g=2019-01-19), registreert hij de naam van de instelling en de in [artikel 13, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2019-01-19&g=2019-01-19), en 19, tweede lid, onder d tot en met h, bedoelde gegevens in het Centraal register beroepsonderwijs.
+1. Indien Onze Minister een beschikking neemt als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=19&z=2020-08-01&g=2020-08-01), registreert hij de naam van de instelling en de in [artikel 13, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=2&artikel=13&z=2020-08-01&g=2020-08-01), en 19, tweede lid, onder d tot en met h, bedoelde gegevens in het Centraal register beroepsonderwijs.
 
-2. Indien Onze Minister een aanvraag als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2019-01-19&g=2019-01-19), toewijst, registreert hij de toegevoegde keuzedelen in het Centraal register beroepsonderwijs bij de desbetreffende geregionaliseerde kwalificatie.
+2. Indien Onze Minister een aanvraag als bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=3&artikel=16&z=2020-08-01&g=2020-08-01), toewijst, registreert hij de toegevoegde keuzedelen in het Centraal register beroepsonderwijs bij de desbetreffende geregionaliseerde kwalificatie.
 
 ##### Artikel 21. Tussentijdse beëindiging
 
-Indien ten aanzien van de geregionaliseerde beroepsopleiding een waarschuwing is gegeven als bedoeld in [artikel 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3) of [artikel 6.2.3b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) of indien is gebleken dat de instelling de voorschriften van dit besluit niet naar behoren naleeft, kan Onze Minister besluiten dat de instelling geen nieuwe cohorten deelnemers meer mag inschrijven aan de geregionaliseerde beroepsopleiding.
+Indien ten aanzien van de geregionaliseerde beroepsopleiding een waarschuwing is gegeven als bedoeld in [artikel 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3) of [artikel 6.2.3b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) of indien is gebleken dat de instelling de voorschriften van dit besluit niet naar behoren naleeft, kan Onze Minister besluiten dat de instelling geen nieuwe cohorten studenten meer mag inschrijven aan de geregionaliseerde beroepsopleiding.
 
 ### Hoofdstuk 6. Evaluatie en slotbepalingen
 
@@ -356,7 +356,7 @@ Indien ten aanzien van de geregionaliseerde beroepsopleiding een waarschuwing is
 
 Dit besluit wordt aangehaald als: Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo.
 
-## Bijlage. bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2019-01-19&g=2019-01-19), van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (overzicht van kwalificaties waarop een geregionaliseerde kwalificatie kan worden gebaseerd)
+## Bijlage. bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&hoofdstuk=1&artikel=5&z=2020-08-01&g=2020-08-01), van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (overzicht van kwalificaties waarop een geregionaliseerde kwalificatie kan worden gebaseerd)
 
 ### 1. Zorg en welzijn
 
