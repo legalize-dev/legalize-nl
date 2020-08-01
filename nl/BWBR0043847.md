@@ -81,31 +81,3 @@ Certificaten voor keuzedelen vanaf 1 augustus 2020:
 Deze keuzedelen zijn eerder door de minister van EZ vastgesteld als keuzedeel waaraan een certificaat is verbonden bij regeling van 29 september 2016, Staatscourant 2016, 50631.
 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
-
-Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2022
-
-### Toelichting bij bijlage 1
-
-Sommige onderdelen waaraan een certificaat is verbonden, zijn in de loop van de jaren tekstueel aangepast. Deze aanpassingen noopten niet tot het vaststellen van een nieuwe naam en code voor het onderdeel waaraan een certificaat is verbonden. Deze certificaten hebben dus dezelfde naam en code behouden en zijn voor wat betreft de civiele waarde gelijkwaardig aan de eerdere certificaten met dezelfde naam en code.
-
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=2&z=2022-08-01&g=2022-08-01)
-
-Certificaten voor keuzedelen vanaf 1 augustus 2020:
-
-### Toelichting bij bijlage 2
-
-Deze keuzedelen zijn eerder door de minister van EZ vastgesteld als keuzedeel waaraan een certificaat is verbonden bij regeling van 29 september 2016, Staatscourant 2016, 50631.
-
-Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
-
-### Toelichting bij bijlage 1
-
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043847&artikel=2&z=2025-08-01&g=2025-08-01)
-
-Certificaten voor keuzedelen vanaf 1 augustus 2022
-
-### Toelichting bij bijlage 2
-
-Deze keuzedelen zijn eerder door de minister van EZ vastgesteld als keuzedeel waaraan een certificaat is verbonden bij regeling van 29 september 2016, Staatscourant 2016, 50631.
-
-Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
