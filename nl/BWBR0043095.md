@@ -4,7 +4,7 @@ identifier: "BWBR0043095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-08-01"
-last_updated: "2020-01-25"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043095"
 soort: "ministeriele-regeling"
@@ -46,7 +46,9 @@ Op de volgende kwalificaties kan naast de kwalificaties genoemd in de [bijlage b
 
 - a. Expert IT systems and devices (25606);
 
-- b. Monteur werktuigkundige installaties (25350).
+- b. Monteur werktuigkundige installaties (25350);
+
+- c. Mbo-Verpleegkundige (25655).
 
 ##### Artikel 2. Inwerkingtreding
 
