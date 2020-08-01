@@ -383,17 +383,3 @@ Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendolin
 ### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-04-03&g=2020-08-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 28a. Toepassing [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
-
-Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) is niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs en het buitenschoolse praktijkgedeelte.
-
-##### Artikel 28b. Omhangbepaling
-
-Dit besluit berust mede op [artikel 2.86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
-
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01)
-
-### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
