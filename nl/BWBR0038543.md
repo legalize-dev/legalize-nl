@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2020-04-25"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-04-25&g=2020-04-25) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-08-01&g=2020-08-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-04-25&g=2020-04-25).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-08-01&g=2020-08-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-04-25&g=2020-04-25)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-08-01&g=2020-08-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -314,10 +314,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K0512 | Lean en creatief |
 | K0288 | Specifieke doelgroepen sport en bewegen |
 | K1065 | Plantkunde in het laboratorium |
+|   |   |
+| **Certificaten voor keuzedelen vanaf augustus 2020** | **Certificaten voor keuzedelen vanaf augustus 2020** |
+| K1058 | Hoogspanningstechniek |
+| K0200 | Interieur- en exterieurtextiel (geschikt voor niveau 2) |
+| K1159 | Kunstmatige inseminatie paard |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-04-25&g=2020-04-25)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-08-01&g=2020-08-01)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -345,8 +350,25 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2020** |
 | C0033 | Ondersteunen bij wonen en welbevinden | 25498 | Helpende Zorg en Welzijn |
 | C0034 | Skin & Care | 25404 | Schoonheidsspecialist |
-| C0035 | Basis hospitality | 25354 | Zelfstandig medewerker travel & hospitality |
+| C0035 | Basis hospitality | 25649 | Zelfstandig medewerker travel & hospitality |
 | C0036 | Functionele veiligheid in de machinebouw | 25310 | Technicus service en onderhoud werktuigbouw |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2020** |
+| C0037 | Beheersen voedselproductie | 25461 | Vakbekwaam medewerker voeding en technologie |
+| C0038 | Diagnose en modificatie mobiele werktuigen | 25247 | Technicus mobiele werktuigen |
+| C0039 | Individuele basiszorg verlenen | 25498 | Helpende Zorg en Welzijn |
+| C0040 | Individuele ondersteuning van de cliënt met (verstandelijke) beperking | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+| C0041 | Installeren en in bedrijf stellen van hybride warmtepompen | 25559 | Airco/warmtepompmonteur |
+| C0042 | Ondersteuning aan cliënten met (verstandelijke) beperking in hun omgeving | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+| C0043 | Ondersteuning in de fastservicebranche | 25178 | Medewerker fastservice |
+| C0044 | Ontwikkelen en collectioneren in de denimindustrie | 25526 | Junior stylist |
+| C0045 | Opstellen van een basisontwerp voor schepen en jachten | 25598 | Engineer maritieme techniek |
+| C0046 | Projectmanagement in de maritieme techniek | 25161 | Technisch Leidinggevende |
+| C0047 | Scheepsbouwkundig tekenen | 25598 | Engineer maritieme techniek |
+| C0048 | Taakgericht leidinggeven aan technici | 25161 | Technisch Leidinggevende |
+| C0049 | Verdieping repareren en onderhouden van schepen en jachten | 25597 | Allround medewerker maritieme techniek |
+| C0050 | Voedselveiligheid in de productieketen - basis | 25460 | Medewerker voeding en technologie |
+| C0051 | Voedselveiligheid in de productieketen - verdieping | 25461 | Vakbekwaam medewerker voeding en technologie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
