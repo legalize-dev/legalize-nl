@@ -4,7 +4,7 @@ identifier: "BWBR0029609"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2017-08-01"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029609"
 soort: "AMvB-BES"
@@ -78,7 +78,7 @@ Vervallen
 
 - e. **docent:** docent als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
-- f. **leerling:** leerling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) of deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
+- f. **leerling:** leerling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) of student, vavo-student of deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
 - g. **school:** school of instelling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395).
 
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 2.3. Reikwijdte leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
-In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=1&artikel=2.1&z=2017-08-01&g=2017-08-01) omvat de bekwaamheid tot het geven van onderwijs voor leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs niet de vakinhoudelijke bekwaamheid.
+In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=1&artikel=2.1&z=2020-08-01&g=2020-08-01) omvat de bekwaamheid tot het geven van onderwijs voor leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs niet de vakinhoudelijke bekwaamheid.
 
 ##### Artikel 2.4. Vakinhoudelijke bekwaamheid leraar of docent
 
@@ -118,7 +118,7 @@ Vakinhoudelijk bekwaam betekent dat de leraar of docent in ieder geval:
 
 ##### Artikel 2.5. Aanvullende vakinhoudelijke bekwaamheid leraar po
 
-Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
+Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2020-08-01&g=2020-08-01):
 
 - a. beheerst de leraar po de leerstof qua kennis en vaardigheden van het onderwijs waarvoor deze leraar bevoegd is, gericht op het behalen van de kerndoelen en de referentieniveaus Nederlandse taal en rekenen van het primair onderwijs en kent hij de theoretische achtergronden daarvan;
 
@@ -144,7 +144,7 @@ Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 2.6. Aanvullende vakinhoudelijke bekwaamheid leraar vo of docent
 
-1. Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
+1. Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2020-08-01&g=2020-08-01):
 
 - a. beheerst de leraar vo of docent de leerstof qua kennis en vaardigheden waarvoor hij verantwoordelijk is en kent de theoretische en praktische achtergronden van zijn vak;
 
@@ -182,7 +182,7 @@ Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 2.7. Aanvullende vakinhoudelijke bekwaamheid leraar vho
 
-Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2017-08-01&g=2017-08-01):
+Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=2&artikel=2.4&z=2020-08-01&g=2020-08-01):
 
 - a. beheerst de leraar vho qua kennis en vaardigheden de leerstof waarvoor hij verantwoordelijk is en kent de theoretische achtergronden van zijn vak;
 
@@ -260,7 +260,7 @@ De leraar of docent is vakdidactisch bekwaam wat betreft kennis, indien hij ten 
 
 ##### Artikel 2.10. Aanvullende vakdidactische bekwaamheid leraar vo en docent in het beroepsgericht onderwijs, kennis
 
-Voor het beroepsgerichte onderwijs houdt de kennis, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=2&artikel=2.9&z=2017-08-01&g=2017-08-01):
+Voor het beroepsgerichte onderwijs houdt de kennis, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=2&artikel=2.9&z=2020-08-01&g=2020-08-01):
 
 - a. onder a, onder andere in dat hij zich verdiept in de theoretische en praktische aspecten van leren op de werkplek;
 
@@ -320,7 +320,7 @@ De leraar is vakdidactisch bekwaam wat betreft kunde indien de leraar of docent 
 
 ##### Artikel 2.12. Aanvullende vakdidactische bekwaamheid leraar vo of docent, kunde
 
-In aanvulling op [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2017-08-01&g=2017-08-01) houdt de kunde in:
+In aanvulling op [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2020-08-01&g=2020-08-01) houdt de kunde in:
 
 - a. In aanvulling op onderdeel a, onder 2, voor het beroepsgerichte onderwijs: dat de leraar vo of docent onderwijs kan vormgeven gericht op de beroepspraktijk;
 
@@ -330,7 +330,7 @@ In aanvulling op [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&
 
 ##### Artikel 2.13. Aanvullende vakdidactische bekwaamheid leraar vho, kunde
 
-In aanvulling op [artikel 2.11, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2017-08-01&g=2017-08-01), houdt de kunde in dat de leraar vho leiding en begeleiding kan geven aan groepen leerlingen buiten de context van de klas of les.
+In aanvulling op [artikel 2.11, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2020-08-01&g=2020-08-01), houdt de kunde in dat de leraar vho leiding en begeleiding kan geven aan groepen leerlingen buiten de context van de klas of les.
 
 ##### Artikel 2.14. Pedagogische bekwaamheid leraar of docent
 
@@ -350,7 +350,7 @@ Pedagogische bekwaamheid betekent dat de leraar of docent:
 
 ##### Artikel 2.15. Aanvullende pedagogische bekwaamheid leraar vo of docent in het beroepsgericht onderwijs
 
-In aanvulling op [artikel 2.14, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=1&artikel=2.14&z=2017-08-01&g=2017-08-01), betekent pedagogische bekwaamheid van de leraar vo of docent in het beroepsgerichte onderwijs tevens dat het gaat om de begeleiding van de leerling bij zijn oriëntatie op beroepen en het ontwikkelen van beroepsidentiteit.
+In aanvulling op [artikel 2.14, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=1&artikel=2.14&z=2020-08-01&g=2020-08-01), betekent pedagogische bekwaamheid van de leraar vo of docent in het beroepsgerichte onderwijs tevens dat het gaat om de begeleiding van de leerling bij zijn oriëntatie op beroepen en het ontwikkelen van beroepsidentiteit.
 
 ##### Artikel 2.16. Pedagogische bekwaamheid leraar of docent, kennis
 
@@ -368,7 +368,7 @@ De leraar is pedagogisch bekwaam wat betreft kennis, indien hij ten minste:
 
 ##### Artikel 2.17. Aanvullende pedagogische bekwaamheid leraar VO of docent in het beroepsgerichte onderwijs, kennis
 
-In aanvulling op [artikel 2.16, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=2&artikel=2.16&z=2017-08-01&g=2017-08-01), houdt kennis voor het beroepsgerichte onderwijs in dat de leraar vo of docent zich verdiept in de theoretische en praktische aspecten van het leren functioneren in een beroep en de ontwikkeling van beroepsidentiteit.
+In aanvulling op [artikel 2.16, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=2&artikel=2.16&z=2020-08-01&g=2020-08-01), houdt kennis voor het beroepsgerichte onderwijs in dat de leraar vo of docent zich verdiept in de theoretische en praktische aspecten van het leren functioneren in een beroep en de ontwikkeling van beroepsidentiteit.
 
 ##### Artikel 2.18. Pedagogische bekwaamheid leraar of docent, kunde
 
@@ -398,9 +398,9 @@ De leraar of docent is pedagogisch bekwaam wat betreft kunde, indien hij ten min
 
 ##### Artikel 2.19. Aanvullende pedagogische bekwaamheid leraar vo, kunde
 
-1. In aanvulling op [artikel 2.18, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2017-08-01&g=2017-08-01), houdt kunde voor het beroepsgerichte onderwijs tevens in de begeleiding van de leerling bij het ontwikkelen van beroepsidentiteit.
+1. In aanvulling op [artikel 2.18, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2020-08-01&g=2020-08-01), houdt kunde voor het beroepsgerichte onderwijs tevens in de begeleiding van de leerling bij het ontwikkelen van beroepsidentiteit.
 
-2. In aanvulling op [artikel 2.18, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2017-08-01&g=2017-08-01), houdt kunde tevens in dat de leraar vo of docent zijn pedagogisch handelen kan afstemmen met:
+2. In aanvulling op [artikel 2.18, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=3&artikel=2.18&z=2020-08-01&g=2020-08-01), houdt kunde tevens in dat de leraar vo of docent zijn pedagogisch handelen kan afstemmen met:
 
 - 1°. anderen die vanuit hun professionele verantwoordelijkheid bij de leerling betrokken zijn, zoals begeleiders van het leren op de werkplek; en
 
@@ -674,7 +674,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - **beroepsgericht vak:** een profielvak als bedoeld in [artikel 18, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zesde lid, aanhef, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), of een beroepsgericht keuzevak als bedoeld in artikel 18, zevende lid, onderdeel a, of 29, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 18, derde lid, of 29, derde lid, van die wet.
 
-2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&z=2017-08-01&g=2017-08-01) van dit besluit, is [artikel 80, eerste lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan die school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
+2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&z=2020-08-01&g=2020-08-01) van dit besluit, is [artikel 80, eerste lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan die school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
 
 3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 214e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=214e) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
 
@@ -707,3 +707,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+## Titel 5. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
+
+### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
+
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
