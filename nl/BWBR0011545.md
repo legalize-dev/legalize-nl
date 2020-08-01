@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2020-01-01&g=2020-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2020-08-01&g=2020-08-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 3. Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -122,13 +122,13 @@ In afwijking van [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.n
 
 1. Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.14), voor wat betreft de aanvullende lening die voortvloeit uit de veronderstelde ouderlijke bijdrage van de weigerachtige of onvindbare ouder, bestaat in ieder geval, indien:
 
-- a. sprake is van een ernstig en structureel conflict tussen ouder en studerende,
+- a. sprake is van een ernstig en structureel conflict tussen ouder en student,
 
 - b. het gezag van de ouder is beëindigd op grond van [artikel 266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) of [267 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=267),
 
-- c. de studerende geen contact met de ouder heeft,
+- c. de student geen contact met de ouder heeft,
 
-- d. sprake is van voor de studerende niet inbare alimentatie als bedoeld in [titel 17 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=17), of
+- d. sprake is van voor de student niet inbare alimentatie als bedoeld in [titel 17 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=17), of
 
 - e. gegevens over de verblijfplaats van de ouder niet kunnen worden achterhaald.
 
@@ -140,7 +140,7 @@ In afwijking van [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.n
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en student als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. Onze Minister stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
@@ -148,25 +148,25 @@ In afwijking van [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.n
 
 ##### Artikel 8. Het gezag van de ouder beëindigd
 
-Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), dient een afschrift van de beschikking van de rechtbank te worden overlegd.
+Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), dient een afschrift van de beschikking van de rechtbank te worden overlegd.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
+Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), is sprake, indien de student vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
+Van voor de student niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de student voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-[Artikel 6, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), is van toepassing indien de studerende de verblijfplaats van de ouder niet kent en die verblijfplaats niet wordt achterhaald na onderzoek van Onze Minister gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland.
+[Artikel 6, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), is van toepassing indien de student de verblijfplaats van de ouder niet kent en die verblijfplaats niet wordt achterhaald na onderzoek van Onze Minister gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte te worden overlegd. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een student van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2020-08-01&g=2020-08-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de student in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte te worden overlegd. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
-2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de studerende in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
+2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de student in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
 
 ### Hoofdstuk 3a. Kwijtschelding aanvullende beurs
 
@@ -198,7 +198,7 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 2. Onze Minister past de bedragen, genoemd in de [artikelen 3.18,](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) met uitzondering van de maximale aanvullende beurs, [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), [6.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2a), [12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), en [12.16, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.16), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-3. Onze minister past het bedrag genoemd in [artikel 3.17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), per 1 januari van ieder kalenderjaar zodanig aan dat het gelijk is aan het in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) genoemde bedrag van de maximale aanvullende beurs voor een thuiswonende deelnemer vermeerderd met een twaalfde deel van het lesgeld, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
+3. Onze minister past het bedrag genoemd in [artikel 3.17, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), per 1 januari van ieder kalenderjaar zodanig aan dat het gelijk is aan het in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) genoemde bedrag van de maximale aanvullende beurs voor een thuiswonende mbo-student vermeerderd met een twaalfde deel van het lesgeld, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
 
 4. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
 
@@ -218,13 +218,13 @@ Vervallen
 
 3. In afwijking van het tweede lid kan een rechthebbende de voucher in meer dan één keer verzilveren als het vouchertegoed de kosten voor de toegang tot het onderwijs overstijgt.
 
-4. Het vouchertegoed wordt overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-01-01&g=2020-01-01), aangepast.
+4. Het vouchertegoed wordt overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-08-01&g=2020-08-01), aangepast.
 
 ##### Artikel 20. Aanvraag voucher
 
 1. De aanvraag voor de voucher wordt gedaan op een bij ministeriële regeling te bepalen wijze.
 
-2. Indien [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=19&z=2020-01-01&g=2020-01-01), toepassing vindt, kan de rechthebbende een nieuwe aanvraag indienen voor de resterende waarde van de voucher.
+2. Indien [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=19&z=2020-08-01&g=2020-08-01), toepassing vindt, kan de rechthebbende een nieuwe aanvraag indienen voor de resterende waarde van de voucher.
 
 ##### Artikel 21. Inschrijving opleiding
 
@@ -234,23 +234,23 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 1. Onze Minister kent het vouchertegoed toe, indien is voldaan aan de voorwaarden, bedoeld in [artikel 12.15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15).
 
-2. Het in te zetten vouchertegoed wordt op bij ministeriële regeling te bepalen wijze uitgekeerd aan een instelling voor hoger onderwijs die de opleiding aanbiedt die de student met gebruikmaking van de voucher wil volgen.
+2. Het in te zetten vouchertegoed wordt op bij ministeriële regeling te bepalen wijze uitgekeerd aan een instelling voor hoger onderwijs die de opleiding aanbiedt die de ho-student met gebruikmaking van de voucher wil volgen.
 
 ##### Artikel 23. Verrekening voucher met verschuldigde collegegeld
 
-De instelling voor hoger onderwijs brengt het vouchertegoed in mindering op het door de student te betalen bedrag voor de toegang tot het onderwijs.
+De instelling voor hoger onderwijs brengt het vouchertegoed in mindering op het door de ho-student te betalen bedrag voor de toegang tot het onderwijs.
 
-##### Artikel 24. Voortijdige beëindiging van de inschrijving en overlijden student
+##### Artikel 24. Voortijdige beëindiging van de inschrijving en overlijden ho-student
 
-1. Indien een instelling voor hoger onderwijs na voortijdige beëindiging van de inschrijving van de student, of na het overlijden van de student, de kosten voor de toegang tot het onderwijs geheel of ten dele aan de student terugbetaalt, wordt op die terugbetaling de ingezette voucher ingehouden. Het ingehouden bedrag van de voucher vervalt aan de instelling.
+1. Indien een instelling voor hoger onderwijs na voortijdige beëindiging van de inschrijving van de ho-student, of na het overlijden van de ho-student, de kosten voor de toegang tot het onderwijs geheel of ten dele aan de ho-student terugbetaalt, wordt op die terugbetaling de ingezette voucher ingehouden. Het ingehouden bedrag van de voucher vervalt aan de instelling.
 
-2. Bij de aanvraag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=20&z=2020-01-01&g=2020-01-01), verklaart de student dat hij indien [artikel 7.48, vierde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.48) van toepassing is, afstand doet van zijn aanspraak op de teruggave van dat deel van het wettelijk collegegeld dat is verrekend met de waarde van de voucher.
+2. Bij de aanvraag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=8&artikel=20&z=2020-08-01&g=2020-08-01), verklaart de ho-student dat hij indien [artikel 7.48, vierde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.48) van toepassing is, afstand doet van zijn aanspraak op de teruggave van dat deel van het wettelijk collegegeld dat is verrekend met de waarde van de voucher.
 
 ##### Artikel 25. Terugvordering vouchers bij ondoelmatige aanwending
 
-1. Indien de middelen verkregen door de inschrijving van een student met een voucher door de instelling voor hoger onderwijs ondoelmatig worden aangewend, kan het door de student ingezette vouchertegoed door Onze Minister worden teruggevorderd van de instelling. Van ondoelmatige aanwending is in ieder geval sprake indien de student met een voucher op enigerlei wijze wordt gecompenseerd.
+1. Indien de middelen verkregen door de inschrijving van een ho-student met een voucher door de instelling voor hoger onderwijs ondoelmatig worden aangewend, kan het door de ho-student ingezette vouchertegoed door Onze Minister worden teruggevorderd van de instelling. Van ondoelmatige aanwending is in ieder geval sprake indien de ho-student met een voucher op enigerlei wijze wordt gecompenseerd.
 
-2. Indien de situatie, bedoeld in het eerste lid, zich anders dan incidenteel voordoet, kan Onze Minister de vouchertegoeden die de instelling als gevolg van inschrijvingen door studenten met een voucher heeft ontvangen, terugvorderen van de instelling.
+2. Indien de situatie, bedoeld in het eerste lid, zich anders dan incidenteel voordoet, kan Onze Minister de vouchertegoeden die de instelling als gevolg van inschrijvingen door ho-studenten met een voucher heeft ontvangen, terugvorderen van de instelling.
 
 ##### Artikel 26. Toegang tot de registratie
 
@@ -274,7 +274,7 @@ Vervallen
 
 ### Hoofdstuk 8. Vouchers studievoorschot
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2020-01-01&g=2020-01-01)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2020-08-01&g=2020-08-01)
 
 Vervallen
 
@@ -288,7 +288,7 @@ Vervallen
 
 ##### Artikel 33. Afwijking van voormalig artikel 3b
 
-Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2020-01-01&g=2020-01-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
+Op een ho-student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2020-08-01&g=2020-08-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
 
 ##### Artikel 34. Overgangsbepaling artikel 14
 
@@ -446,7 +446,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 3a. Tegemoetkoming voor niet-economisch actieve EU-studerenden en hun familieleden
+##### Artikel 3a. Tegemoetkoming voor niet-economisch actieve EU-studenten en hun familieleden
 
 1. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) is van toepassing op een persoon die:
 
@@ -466,9 +466,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2) is eveneens van toepassing op familieleden van een persoon als bedoeld in het eerste lid.
 
-3. Voor deelnemers wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een gift ter hoogte van het bedrag van de basisbeurs voor een thuiswonende deelnemer, genoemd in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18). De tegemoetkoming wordt toegekend in één bedrag per studiejaar. Indien de aanspraak gedurende een studiejaar ontstaat bestaat de aanspraak uit een twaalfde van het bedrag per studiejaar maal het aantal resterende maanden van dat studiejaar. Indien de deelnemer in aanmerking komt voor het levenlanglerenkrediet wordt de tegemoetkoming toegekend in de vorm van levenlanglerenkrediet.
+3. Voor mbo-studenten wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een gift ter hoogte van het bedrag van de basisbeurs voor een thuiswonende mbo-student, genoemd in [artikel 3.18, overzicht 2, onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18). De tegemoetkoming wordt toegekend in één bedrag per studiejaar. Indien de aanspraak gedurende een studiejaar ontstaat bestaat de aanspraak uit een twaalfde van het bedrag per studiejaar maal het aantal resterende maanden van dat studiejaar. Indien de mbo-student in aanmerking komt voor het levenlanglerenkrediet wordt de tegemoetkoming toegekend in de vorm van levenlanglerenkrediet.
 
-4. Voor studenten wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een aanspraak op het collegegeldkrediet, bedoeld in [artikel 3.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16a), of het levenlanglerenkrediet van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+4. Voor ho-studenten wordt de tegemoetkoming op grond van het eerste en tweede lid verstrekt in de vorm van een aanspraak op het collegegeldkrediet, bedoeld in [artikel 3.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16a), of het levenlanglerenkrediet van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
 5. Op de tegemoetkoming is [artikel 3.21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.21) van overeenkomstige toepassing.
 
@@ -534,9 +534,9 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-01-01&g=2020-01-01)
+##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-08-01&g=2020-08-01)
 
-[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-01-01&g=2020-01-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
+[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2020-08-01&g=2020-08-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Hoofdstuk 10. Wijzigingen in andere besluiten
 
@@ -550,9 +550,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Omhangbepaling
 
-1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01) berust op [artikel 2.2, eerste lid, onderdeel c, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3&z=2020-08-01&g=2020-08-01) berust op [artikel 2.2, eerste lid, onderdeel c, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
 
-2. [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2020-01-01&g=2020-01-01) berust op [artikel 2.2, tweede lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+2. [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2020-08-01&g=2020-08-01) berust op [artikel 2.2, tweede lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -576,11 +576,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 18b. Volgorde van afboeken aflossingsbedragen
 
-Indien de berekende terugbetalingstermijn hoger is dan de op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2020-01-01&g=2020-01-01) berekende draagkracht, worden aflossingen eerst afgeboekt op de terugbetalingstermijn behorende bij de lening met de kortste resterende terugbetalingsperiode, of bij een gelijke resterende terugbetalingsperiode op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.
+Indien de berekende terugbetalingstermijn hoger is dan de op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2020-08-01&g=2020-08-01) berekende draagkracht, worden aflossingen eerst afgeboekt op de terugbetalingstermijn behorende bij de lening met de kortste resterende terugbetalingsperiode, of bij een gelijke resterende terugbetalingsperiode op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.
 
 ##### Artikel 18c. Aflossingsvrije periode
 
-1. Indien aan de debiteur een aflossingsvrije periode, bedoeld in de [artikelen 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), [10a.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5) of [artikel 4.7, tweede lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), wordt toegekend, wordt de draagkracht die is vastgesteld op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2020-01-01&g=2020-01-01) opnieuw bepaald, waarbij de draagkrachtberekening behorende bij de opgeschorte lening niet langer wordt gehanteerd.
+1. Indien aan de debiteur een aflossingsvrije periode, bedoeld in de [artikelen 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), [10a.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5) of [artikel 4.7, tweede lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), wordt toegekend, wordt de draagkracht die is vastgesteld op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2020-08-01&g=2020-08-01) opnieuw bepaald, waarbij de draagkrachtberekening behorende bij de opgeschorte lening niet langer wordt gehanteerd.
 
 2. Indien het eerste lid wordt toegepast, wordt de als gevolg daarvan resterende draagkracht benut voor de terugbetalingstermijn behorende bij de lening die is ontstaan door toekenning van het levenlanglerenkrediet.
 
@@ -618,26 +618,26 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Van een band met Nederland, als bedoeld in [artikel 2.14, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14), is sprake indien aan ten minste één van de volgende criteria is voldaan:
 
-- a. de student valt binnen de reikwijdte van artikel 45 of 49 van het Verdrag betreffende de werking van de Europese Unie, of is daarmee gelijkgesteld op grond van het recht van de Europese Unie, en hij of zijn ouder of partner werkt in Nederland, anders dan louter marginaal en bijkomstig;
+- a. de ho-student valt binnen de reikwijdte van artikel 45 of 49 van het Verdrag betreffende de werking van de Europese Unie, of is daarmee gelijkgesteld op grond van het recht van de Europese Unie, en hij of zijn ouder of partner werkt in Nederland, anders dan louter marginaal en bijkomstig;
 
-- b. de student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+- b. de ho-student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
 
-- c. de student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+- c. de ho-student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
 
-- d. de student heeft volledig Nederlands onderwijs dat is geregeld bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) gevolgd in Nederland.
+- d. de ho-student heeft volledig Nederlands onderwijs dat is geregeld bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) gevolgd in Nederland.
 
-2. Van een band met Nederland is voorts sprake indien de student voldoende vaardig is in de Nederlandse taal, wat in ieder geval kan worden aangetoond met een NT2-diploma, en aan ten minste één van de volgende criteria voldoet:
+2. Van een band met Nederland is voorts sprake indien de ho-student voldoende vaardig is in de Nederlandse taal, wat in ieder geval kan worden aangetoond met een NT2-diploma, en aan ten minste één van de volgende criteria voldoet:
 
-- a. de student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+- a. de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
 
-- b. de student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+- b. de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
 
-- c. een ouder of de partner van de student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+- c. een ouder of de partner van de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
 
-- d. een ouder of de partner van de student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+- d. een ouder of de partner van de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
 
-- e. de student heeft Nederlands onderwijs dat is geregeld bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) gevolgd in Nederland gedurende een aaneengesloten periode van ten minste 6 jaren.
+- e. de ho-student heeft Nederlands onderwijs dat is geregeld bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) gevolgd in Nederland gedurende een aaneengesloten periode van ten minste 6 jaren.
 
-3. De student kan op grond van een combinatie van de in het tweede lid genoemde criteria of op grond van andere omstandigheden aantonen dat er sprake is van een band met Nederland.
+3. De ho-student kan op grond van een combinatie van de in het tweede lid genoemde criteria of op grond van andere omstandigheden aantonen dat er sprake is van een band met Nederland.
 
 ### Hoofdstuk 3. Weigerachtige of onvindbare ouders
