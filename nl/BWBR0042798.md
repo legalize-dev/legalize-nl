@@ -4,7 +4,7 @@ identifier: "BWBR0042798"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-31"
-last_updated: "2019-11-27"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042798"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Voor subsidieverstrekking in het kader van Vouchers internationaal ondernemen geldt voor de periode vanaf 1 januari 2020 tot en met 31 december 2020 een subsidieplafond van € 3.450.000.
+Voor subsidieverstrekking in het kader van Vouchers internationaal ondernemen geldt voor de periode vanaf 1 januari 2020 tot en met 31 december 2020 een subsidieplafond van € 3.950.000.
 
 ##### Artikel 2
 
