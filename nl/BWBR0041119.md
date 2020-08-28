@@ -4,7 +4,7 @@ identifier: "BWBR0041119"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-08-28"
-last_updated: "2020-01-01"
+last_updated: "2020-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041119"
 soort: "ministeriele-regeling"
@@ -58,7 +58,9 @@ In deze regeling wordt verstaan onder:
 
 - f. **het CIZ:** het CIZ, genoemd in [artikel 7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1);
 
-- g. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- g. **Dopingautoriteit**: de Dopingautoriteit, genoemd in [artikel 4 van de Wet uitvoering antidopingbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&artikel=4);
+
+- h. **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ### Hoofdstuk 2. Bezoldiging, vergoeding en rechtspositie
 
@@ -74,13 +76,15 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 - d. het CAK;
 
-- e. het CIZ.
+- e. het CIZ;
+
+- f. de Dopingautoriteit.
 
 ##### Artikel 3. Bezoldiging, vakantie- en eindejaarsuitkering, pensioen
 
 1. De bezoldiging van de voorzitter bedraagt maximaal het salaris van een lid van de topmanagementgroep in groep A zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
 
-2. De bezoldiging van een lid bedraagt het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
+2. De bezoldiging van een lid bedraagt maximaal het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
 
 3. De bestuursleden hebben recht op een vakantie-uitkering van 8% van de door hen genoten bezoldiging. De vakantie-uitkering wordt eenmaal per jaar betaald over de periode van twaalf maanden, die is aangevangen met de maand juni van het voorafgaande kalenderjaar.
 
@@ -140,7 +144,7 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 ##### Artikel 11. Reikwijdte hoofdstuk 3
 
-1. Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op:
+Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op:
 
 - a. het College sanering;
 
@@ -148,9 +152,11 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 - c. de zorgautoriteit;
 
-- d. het CAK.
+- d. het CAK;
 
-2. Dit hoofdstuk is, met inachtneming van de tussen de Minister en het CIZ gemaakte afspraken over de concretisering van de juridische status van het CIZ tot 2020, waar mogelijk van overeenkomstige toepassing op het CIZ.
+- e. het CIZ;
+
+- f. de Dopingautoriteit.
 
 ##### Artikel 12. Budget
 
@@ -162,7 +168,7 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 ##### Artikel 13. Bevoorschotting budget
 
-De Minister houdt bij de bevoorschotting van het budget een zodanige frequentie en hoogte aan dat deze in voldoende mate aansluit op de in het vijfde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=15&z=2020-01-01&g=2020-01-01) bedoelde liquiditeitsbehoefte van het bestuursorgaan.
+De Minister houdt bij de bevoorschotting van het budget een zodanige frequentie en hoogte aan dat deze in voldoende mate aansluit op de in het vijfde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=15&z=2020-08-28&g=2020-08-28) bedoelde liquiditeitsbehoefte van het bestuursorgaan.
 
 ##### Artikel 14. Inrichting werkprogramma
 
@@ -208,7 +214,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 - e. de investeringsplannen voor het begrotingsjaar en de vier daaropvolgende jaren worden vermeld, waarbij per investering het afschrijvingsbedrag, de afschrijvingsmethode en de afschrijvingstermijn worden aangegeven;
 
-- f. de gronden worden vermeld waarop de meerjarenraming is gebaseerd, waaronder een meerjarig overzicht van de geraamde ontwikkeling van de personeelsformatie, welke zoveel mogelijk is uitgesplitst naar de doelen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=14&z=2020-01-01&g=2020-01-01);
+- f. de gronden worden vermeld waarop de meerjarenraming is gebaseerd, waaronder een meerjarig overzicht van de geraamde ontwikkeling van de personeelsformatie, welke zoveel mogelijk is uitgesplitst naar de doelen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=14&z=2020-08-28&g=2020-08-28);
 
 - g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 
@@ -232,7 +238,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 ##### Artikel 18. Egalisatiereserve
 
-1. De egalisatiereserve bedoeld in [artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) bedraagt ten hoogste vijf procent van het budget bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=12&z=2020-01-01&g=2020-01-01).
+1. De egalisatiereserve bedoeld in [artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) bedraagt ten hoogste vijf procent van het budget bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=12&z=2020-08-28&g=2020-08-28).
 
 2. Het totaal van de egalisatiereserve en de verplichte reserve bedraagt aan het einde van het begrotingsjaar niet minder dan nul.
 
@@ -244,7 +250,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 ##### Artikel 19. Toestemming verrichten van handelingen
 
-Het CAK, het CIZ, het Zorginstituut en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in [artikel 32, onderdelen a en d tot en met g, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32).
+Het CAK, het CIZ, de Dopingautoriteit, het Zorginstituut en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in [artikel 32, onderdelen a en d tot en met g, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32).
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -256,7 +262,7 @@ Het CAK, het CIZ, het Zorginstituut en de zorgautoriteit behoeven voorafgaande t
 
 3. [Artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030162&artikel=15), en [artikel 17a van de Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0030162&artikel=17a) zoals dat luidde onmiddellijk voor het tijdstip van intrekking, blijft voor het CAK van toepassing tot en met het begrotings- en verantwoordingsjaar 2020.
 
-4. De accountantscontrole bij het CAK geschiedt, in aanvulling op het achtste lid van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=17&z=2020-01-01&g=2020-01-01), met inachtneming van een specifiek voor het CAK door de Minister en de zorgautoriteit vastgesteld Protocol Accountantsonderzoek Bestuurlijke Verantwoording CAK.
+4. De accountantscontrole bij het CAK geschiedt, in aanvulling op het achtste lid van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=17&z=2020-08-28&g=2020-08-28), met inachtneming van een specifiek voor het CAK door de Minister en de zorgautoriteit vastgesteld Protocol Accountantsonderzoek Bestuurlijke Verantwoording CAK.
 
 5. In de jaarrekening van het CIZ wordt onderscheid gemaakt tussen de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in [artikel 3.2.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.3), de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.1) en het nemen van besluiten als bedoeld in [artikel 5.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=5.2.2), en de kosten verbonden aan de uitvoering van het [Besluit uitvoering kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0035261).
 
