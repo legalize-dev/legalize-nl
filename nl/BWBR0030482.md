@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2020-07-18"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -73,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken.
 
-2. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg, Geestelijke Gezondheidszorg en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Beschikbaarheid en Innovatie van Zorg, Dataproducten en een MT-staf.
+2. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische Zorg 2, Geestelijke Gezondheidszorg en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Beschikbaarheid en Innovatie van Zorg en een MT-staf.
 
 ##### Artikel 3. Directie Toezicht en Handhaving
 
@@ -95,7 +95,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2020-07-18&g=2020-07-18), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2020-07-18&g=2020-07-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2020-07-18&g=2020-07-18) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2020-07-18&g=2020-07-18) bij dit besluit.
+1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2020-08-29&g=2020-08-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2020-08-29&g=2020-08-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2020-08-29&g=2020-08-29) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2020-08-29&g=2020-08-29) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -235,7 +235,7 @@ In deze notitie wordt in het kort de inrichting en werkwijze van de werkorganisa
 
 ### 1. Inleiding
 
-De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg, Geestelijke Gezondheidszorg en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Beschikbaarheid en Innovatie van Zorg, Dataproducten en een MT-staf.
+De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische zorg 2, Geestelijke Gezondheidszorg en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Beschikbaarheid en Innovatie van Zorg en een MT-staf.
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
@@ -343,7 +343,7 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 Bij gebruik van een handtekeningenstempel in situaties van grote aantallen brieven of besluiten, geldt uiteraard dat instemming is vereist van degene wiens handtekening het betreft en die persoon bevoegd dient te zijn tot ondertekening.
 
-## Bijlage 2. Volmachten op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2020-07-18&g=2020-07-18)
+## Bijlage 2. Volmachten op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2020-08-29&g=2020-08-29)
 
 Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, of van hun unit bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de volgende maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen:
 
@@ -358,11 +358,11 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ##### Artikel 9a. Volmacht financiële verplichtingen
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-07-18&g=2020-07-18) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-08-29&g=2020-08-29) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-07-18&g=2020-07-18) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-08-29&g=2020-08-29) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-07-18&g=2020-07-18) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2020-08-29&g=2020-08-29) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
