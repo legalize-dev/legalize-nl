@@ -4,7 +4,7 @@ identifier: "BWBR0029863"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-08-29"
-last_updated: "2018-04-25"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029863"
 soort: "ministeriele-regeling"
@@ -62,8 +62,6 @@ Besluit:
 - –. Marnewaard;
 
 - –. Oirschot;
-
-- –. Oost-Vlieland;
 
 - –. Rijen;
 
