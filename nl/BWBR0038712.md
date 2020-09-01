@@ -4,7 +4,7 @@ identifier: "BWBR0038712"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038712"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 1. Helmen die op grond van [artikel 60 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60) worden gedragen, zijn voorzien van een goedkeuringsmerk:
 
-- a. overeenkomstig het merk dat in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&bijlage=I&z=2017-01-01&g=2017-01-01) behorende bij deze regeling als model 1 is weergegeven en dat op de helm is aangebracht naar aanleiding van goedkeuring op grond van de bepalingen van reglement 22, of
+- a. overeenkomstig het merk dat in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&bijlage=I&z=2017-01-01&g=2020-09-01) behorende bij deze regeling als model 1 is weergegeven en dat op de helm is aangebracht naar aanleiding van goedkeuring op grond van de bepalingen van reglement 22, of
 
 - b. overeenkomstig voorschriften of normen die door de Minister van Volksgezondheid, Welzijn en Sport zijn gelijkgesteld met het veiligheidsniveau van reglement 22.
 
@@ -70,6 +70,14 @@ Deze regeling treedt in werking met ingang van 1 januari 2017.
 
 Deze regeling wordt aangehaald als: Regeling aanduiding motor- en bromfietshelmen.
 
-## Bijlage I. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&artikel=2&z=2017-01-01&g=2017-01-01)
+## Bijlage I. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&artikel=2&z=2017-01-01&g=2020-09-01)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 60, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60).
+
+## Bijlage I. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&artikel=2&z=2020-12-19&g=2020-09-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
