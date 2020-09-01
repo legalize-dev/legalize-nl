@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2020-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de ambtenaren, bedoeld in [artikel 2, onderdeel a, en b, indien zij zijn belast met de opsporing van alle strafbare feiten, en onderdeel d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), gelden de volgende rangen:
+1. Voor de ambtenaren, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die zijn aangesteld voor de uitvoering van de politietaak of zijn belast met de opsporing van alle strafbare feiten, gelden de volgende rangen:
 
 - a. eerste hoofdcommissaris;
 
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 1. De volgende rangen zijn verbonden aan de volgende functies:
 
-- a. aspirant voor degene die op grond van [artikel 3, eerste, tweede of derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) is aangesteld als aspirant of op grond van [artikel 3a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3a) als ambtenaar in opleiding;
+- a. aspirant voor degene die op grond van de [artikelen 3, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3), [3bis, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3bis), of [3a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3a) is aangesteld als aspirant, vrijwilliger-aspirant, ambtenaar in opleiding onderscheidenlijk vrijwillige ambtenaar in opleiding;
 
 - b. surveillant van politie voor functies die zijn gewaardeerd op schaal 4 en 5;
 
@@ -98,27 +98,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2a
 
-Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=45), gelden voor de ambtenaren van politie, bedoeld in [artikel 2, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die zijn aangesteld voor de uitvoering van de politietaak, de volgende rangen:
-
-- a. aspirant voor degene die is aangesteld als vrijwillige ambtenaar in opleiding, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=1);
-
-- b. surveillant van politie voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met:
-
-- 1.
-
-- a. het surveilleren, het treffen van maatregelen ter handhaving van de openbare orde en het verlenen van hulp op openbare plaatsen,
-
-- b. het opsporen van overtredingen en misdrijven waarop als hoofdstraf maximaal een gevangenisstraf van ten hoogste vier jaren of een geldboete van de vierde categorie is gesteld,
-
-- c. het vaststellen van gedragingen als bedoeld in als bedoeld in de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581),
-
-- d. het houden van toezicht op en het verzorgen van ingeslotenen, zijnde degenen die rechtens van hun vrijheid zijn beroofd en daarnaast degenen die te behoeve van hulpverlening aan hem op het politiebureau zijn ondergebracht, en
-
-- e. het verrichten van werkzaamheden op de meldkamer en de receptie van het politiebureau en van administratieve werkzaamheden.
-
-- 2. De vrijwillige ambtenaar kan tevens, met instemming van het bevoegd gezag, worden ingezet bij specialistische werkzaamheden die niet behoren tot de werkzaamheden bedoeld in 1., voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring. Tot specialistische werkzaamheden wordt in ieder geval gerekend assistentie bij opsporingsonderzoeken naar ander misdrijven dan die bedoeld in 1, onder b.
-
-- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2020-01-01&g=2020-01-01), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met taken in onderdeel b., na instemming van de korpschef, zelfstandig dan wel in voorkomende gevallen onder begeleiding van een ambtenaar van politie aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), met eenzelfde rang of een hogere rang, de werkzaamheden uitoefenen die verband houden met de volledige politietaak voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring.
+Vervallen
 
 ##### Artikel 3
 
@@ -162,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2020-01-01&g=2020-01-01), behoudt de ambtenaar:
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2020-09-01&g=2020-09-01), behoudt de ambtenaar:
 
 - a. de rang zoals die gold direct voorafgaand aan het besluit tot verplaatsing op grond van [artikel 64 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), waarbij hij wordt verplaatst naar een functie waaraan een lagere rang is verbonden;
 
