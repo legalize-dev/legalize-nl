@@ -107,9 +107,3 @@ Deze regeling treedt in werking met ingang van 1 september 2020.
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking bij overstap naar het mbo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Omhang
-
-Deze regeling is mede gebaseerd op [artikel 8.31, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.31).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
