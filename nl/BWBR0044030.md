@@ -193,9 +193,3 @@ Deze beleidsregel treedt in werking met ingang van 1 september 2020.
 Deze beleidsregel wordt aangehaald als: Beleidsregel DAMU-licentie VO 2020.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 17a. Omhang
-
-Deze beleidsregel is mede gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
