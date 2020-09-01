@@ -4,7 +4,7 @@ identifier: "BWBR0007678"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007678"
 soort: "wet"
@@ -56,7 +56,7 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ##### Artikel 2
 
-Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
+Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-09-01&g=2020-09-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
@@ -82,7 +82,7 @@ In deze wet en in de daarop berustende regelingen wordt verstaan onder:
 
 - f. categorieën EURO 0, EURO I, EURO II, EURO III, EURO IV en EURO V: motorrijtuigen met een emissiegrenswaarde als bedoeld in de respectievelijke tabel van bijlage 0 bij de richtlijn;
 
-- g. categorie EURO VI en schoner: motorrijtuigen met een emissiegrenswaarde als bedoeld in bijlage I bij Verordening (EG) nr. 595/2009 van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie, tot wijziging van Verordening (EG) nr. 715/2007 en [Richtlijn 2007/46/EG](32007L0046) en tot intrekking van de [Richtlijnen 80/1269/EEG](31980L1269), [2005/55/EG](32005L0055) en [2005/78/EG](32005L0078) (PbEG 2009, L 188), of een lagere emissiegrenswaarde (PbEU 2009, L 188).
+- g. categorie EURO VI en schoner: motorrijtuigen met een emissiegrenswaarde als bedoeld in bijlage I bij verordening (EG) nr. [595/2009](32495L2009) van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en tot wijziging van Verordening (EG) nr. [715/2007](32615L2007) en [Richtlijn 2007/46/EG](32007L0046) en tot intrekking van de [Richtlijnen 80/1269/EEG](31980L1269), [2005/55/EG](32005L0055) en [2005/78/EG](32005L0078) (PbEU 2009, L 188) of een lagere emissiegrenswaarde.
 
 ### Afdeling 3. Voorwerp van de belasting
 
@@ -108,7 +108,7 @@ Als houder wordt aangemerkt:
 
 ##### Artikel 7
 
-1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2020-01-01&g=2020-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
+1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2020-09-01&g=2020-09-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
 
 - a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;
 
@@ -262,7 +262,7 @@ Vervallen
 
 1. Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.
 
-2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing.
+2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2020-09-01&g=2020-09-01), is van overeenkomstige toepassing.
 
 3. Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
@@ -322,7 +322,7 @@ Vervallen
 
 ##### Artikel 16
 
-Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2020-01-01&g=2020-01-01).
+Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2020-09-01&g=2020-09-01).
 
 ##### Artikel 17
 
@@ -336,13 +336,13 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2020-01-01&g=2020-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2020-09-01&g=2020-09-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ##### Artikel 20
 
-1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
+1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-09-01&g=2020-09-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
-2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2020-01-01&g=2020-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
+2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2020-09-01&g=2020-09-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2020-09-01&g=2020-09-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
 ##### Artikel 21
 
@@ -372,7 +372,7 @@ Bevat wijzigingen in deze regelgeving.
 
 ##### Artikel 26
 
-1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-01-01&g=2020-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2020-09-01&g=2020-09-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
