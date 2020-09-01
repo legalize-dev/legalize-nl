@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor opleidingen vergelijkbaar met opleidingen als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) en de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) gelden de volgende criteria:
 
-- a. de opleiding wordt verzorgd in of op de Amerikaanse Maagdeneilanden, Anguilla, Antigua en Barbuda, Aruba, Bahama’s, Barbados, Belize, Bermuda, de Britse Maagdeneilanden, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominicaanse Republiek, Grenada, Guadeloupe, Haïti, Jamaica, de Kaaimaneilanden, Montserrat, Navassa, Puerto Rico, Sint Bartholomeus, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadines, Sint Maarten, Trinidad en Tobago, de Turks- en Caicoseilanden, Venezuela of de Verenigde Staten van Amerika;
+- a. de opleiding wordt verzorgd in of op de Amerikaanse Maagdeneilanden, Anguilla, Antigua en Barbuda, Aruba, Bahama’s, Barbados, Belize, Bermuda, de Britse Maagdeneilanden, Canada, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominicaanse Republiek, Grenada, Guadeloupe, Haïti, Jamaica, de Kaaimaneilanden, Montserrat, Navassa, Puerto Rico, Sint Bartholomeus, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadines, Sint Maarten, Trinidad en Tobago, de Turks- en Caicoseilanden, Venezuela of de Verenigde Staten van Amerika;
 
 - b. de studielast van de opleiding levert een dagtaak op;
 
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-01-01&g=2020-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-09-01&g=2020-09-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
@@ -142,9 +142,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. Barbados;
 
-- b. Colombia;
+- b. Canada;
 
-- c. Puerto Rico;
+- c. Colombia;
+
+- d. Puerto Rico;
 
 - d. de Verenigde Staten van Amerika.
 
