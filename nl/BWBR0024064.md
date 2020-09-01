@@ -4,7 +4,7 @@ identifier: "BWBR0024064"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2020-06-25"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024064"
 soort: "AMvB"
@@ -88,9 +88,9 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 2. De ambtenaar maakt eenmaal per kalenderjaar de keuze of hij voor de reizen als bedoeld in het eerste lid aanspraak maakt op:
 
-- a. een tegemoetkoming voor openbaar vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2020-06-25&g=2020-06-25) of
+- a. een tegemoetkoming voor openbaar vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2020-09-01&g=2020-09-01) of
 
-- b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar vervoer als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-06-25&g=2020-06-25).
+- b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar vervoer als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-09-01&g=2020-09-01).
 
 3. Bij wijziging van plaats van tewerkstelling, werktijden of woonplaats wordt de ambtenaar in de gelegenheid gesteld zijn keuze tussentijds te herzien.
 
@@ -98,15 +98,15 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 4. Openbaar vervoer
 
-1. Voor reizen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-06-25&g=2020-06-25), wordt door het bevoegd gezag een vervoersbewijs of een combinatie van vervoersbewijzen verstrekt op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-06-25&g=2020-06-25).
+1. Voor reizen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-09-01&g=2020-09-01), wordt door het bevoegd gezag een vervoersbewijs of een combinatie van vervoersbewijzen verstrekt op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-09-01&g=2020-09-01).
 
-2. Het bevoegd gezag kan in plaats van het gestelde in het eerste lid een tegemoetkoming verstrekken welke gelijk is aan de gemaakte kosten van openbaar vervoer op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-06-25&g=2020-06-25).
+2. Het bevoegd gezag kan in plaats van het gestelde in het eerste lid een tegemoetkoming verstrekken welke gelijk is aan de gemaakte kosten van openbaar vervoer op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-09-01&g=2020-09-01).
 
 3. Indien de ambtenaar een vervoersbewijs wenst op basis van eerste klasse of indien de ambtenaar een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het eerste lid, komen de meerkosten hiervan voor rekening van de ambtenaar.
 
 ##### Artikel 5. Berekening en procedures bij reizen met openbaar vervoer
 
-1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2020-06-25&g=2020-06-25) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
+1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2020-09-01&g=2020-09-01) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
 
 2. De ambtenaar, bedoeld in het eerste lid, dient wijzigingen die van invloed zijn op het vervoersbewijs of de hoogte van de tegemoetkoming onverwijld en schriftelijk door te geven aan het bevoegd gezag.
 
@@ -128,15 +128,15 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 3. In afwijking van het eerste en tweede lid wordt aan de ambtenaar, die geleider is van een politiesurveillancehond of een politiespeurhond, die niet de beschikking heeft over een dienstvoertuig, en voor wie het noodzakelijk is dat hij in het kader van zijn dienstuitoefening met een politiesurveillancehond of een politiespeurhond met eigen vervoer reist, voor de afstand tussen de woning en de plaats van tewerkstelling of oefenterrein een tegemoetkoming van € 0,28 per afgelegde kilometer verstrekt.
 
-4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-06-25&g=2020-06-25), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
+4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-09-01&g=2020-09-01), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
 
-5. De tegemoetkoming voor reizen, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-06-25&g=2020-06-25), bedraagt ten hoogste het bedrag van de tegemoetkoming voor reizen, bedoeld in artikel 3, eerste lid, onderdeel a.
+5. De tegemoetkoming voor reizen, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-09-01&g=2020-09-01), bedraagt ten hoogste het bedrag van de tegemoetkoming voor reizen, bedoeld in artikel 3, eerste lid, onderdeel a.
 
 6. Bij ministeriële regeling kan in geval van een reorganisatie als bedoeld in [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b), van de beperking van het maximum aantal kilometers enkele reis, zoals bedoeld in het tweede lid, worden afgeweken ter voorkoming van negatieve financiële gevolgen voor de ambtenaar.
 
 ##### Artikel 7. Berekening en procedure eigen vervoer al of niet in combinatie met openbaar vervoer
 
-1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-06-25&g=2020-06-25), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
+1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-09-01&g=2020-09-01), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
 
 2. Bij de berekening van de vaste tegemoetkoming, bedoeld in het eerste lid, wordt bij een gemiddelde werkweek van vijf dagen uitgegaan van 206 werkdagen per kalenderjaar.
 
@@ -204,7 +204,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 12. Dienstreis met eigen vervoer
 
-1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=10&z=2020-06-25&g=2020-06-25) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=11&z=2020-06-25&g=2020-06-25) en indien door het bevoegd gezag aan de ambtenaar is verzocht voor het maken van de dienstreis gebruik te maken van een eigen vervoermiddel en de ambtenaar heeft hiermee ingestemd, ontvangt de ambtenaar per afgelegde kilometer een vergoeding van:
+1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=10&z=2020-09-01&g=2020-09-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=11&z=2020-09-01&g=2020-09-01) en indien door het bevoegd gezag aan de ambtenaar is verzocht voor het maken van de dienstreis gebruik te maken van een eigen vervoermiddel en de ambtenaar heeft hiermee ingestemd, ontvangt de ambtenaar per afgelegde kilometer een vergoeding van:
 
 - a. € 0,28 voor het gebruik van een eigen motorvoertuig;
 
@@ -240,7 +240,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 1. Indien een ambtenaar overeenkomstig [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62) wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 104,76 per dag, op basis van overgelegde bewijsstukken.
 
-2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2020-06-25&g=2020-06-25) van dit besluit.
+2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2020-09-01&g=2020-09-01) van dit besluit.
 
 3. De ambtenaar, bedoeld in het eerste lid, heeft maximaal eenmaal per week aanspraak op een tegemoetkoming in de reiskosten naar zijn oorspronkelijke woning. De tegemoetkoming is gelijk aan de kosten voor openbaar vervoer in de tweede vervoersklasse of, bij gebruik van eigen vervoer € 0,19 per kilometer.
 
@@ -322,13 +322,13 @@ Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt 
 
 - b. bij openbaar vervoer of een boot: de laagste vervoersklasse.
 
-3. [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2020-06-25&g=2020-06-25), is van overeenkomstige toepassing.
+3. [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2020-09-01&g=2020-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 22. Verblijfkosten
 
 1. De ambtenaar ontvangt een tegemoetkoming in de in verband met een dienstreis door hem gemaakte verblijfkosten voor maaltijd, logies en kleine uitgaven.
 
-2. Voor de berekening van de tegemoetkoming geldt de tarieflijst, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2020-06-25&g=2020-06-25) bij dit besluit, voor de verschillende gebieden waar wordt gereisd.
+2. Voor de berekening van de tegemoetkoming geldt de tarieflijst, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2020-09-01&g=2020-09-01) bij dit besluit, voor de verschillende gebieden waar wordt gereisd.
 
 3. De tegemoetkoming in de verblijfkosten bestaat uit:
 
@@ -350,7 +350,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 - a. voor een reisgedeelte per vliegtuig voor zover het betreft vliegreizen in de businessklasse;
 
-- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2020-06-25&g=2020-06-25) in zijn woonplaats verblijft.
+- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2020-09-01&g=2020-09-01) in zijn woonplaats verblijft.
 
 ##### Artikel 24. Vergoeding van overige reiskosten
 
@@ -366,11 +366,11 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 6. De in verband met een dienstreis gemaakte kosten voor interlokale en internationale telefoongesprekken en voor gebruik van internet voor dienstdoeleinden worden op basis van overgelegde bewijsstukken vergoed. Indien geen bewijsstukken worden overgelegd, moet de ambtenaar aannemelijk maken dat hij die kosten heeft gemaakt.
 
-7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2020-06-25&g=2020-06-25) bij dit besluit, worden gerekend.
+7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2020-09-01&g=2020-09-01) bij dit besluit, worden gerekend.
 
 ##### Artikel 25. Declaraties
 
-[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2020-06-25&g=2020-06-25) is van overeenkomstige toepassing.
+[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2020-09-01&g=2020-09-01) is van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Verhuizen
 
@@ -390,7 +390,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 27. Tegemoetkoming in verhuiskosten en pensionkosten mét verhuisplicht
 
-1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-06-25&g=2020-06-25).
+1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-09-01&g=2020-09-01).
 
 2. De ambtenaar, bedoeld in het eerste lid, die nog niet is verhuisd en die naar het oordeel van het bevoegd gezag niet dagelijks heen en weer kan reizen heeft aanspraak op een tegemoetkoming in de pensionkosten voor verblijf in een pension in of nabij het werkgebied, tenzij van overheidswege al dan niet tegen betaling in huisvesting wordt voorzien. De tegemoetkoming bedraagt voor de ambtenaar die gewoonlijk met gezinsleden samenwoont 90% en voor de overige ambtenaren 60% van de betaalde pensionkosten, voor zover deze kosten redelijk zijn.
 
@@ -400,7 +400,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 28. Tegemoetkoming in (verhuis)kosten zonder verhuisplicht
 
-1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-06-25&g=2020-06-25), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
+1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-09-01&g=2020-09-01), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
 
 2. De ambtenaar dient de hem op grond van het eerste lid toegekende tegemoetkoming in verhuiskosten terug te betalen, indien binnen drie jaren na de verhuizing één van de volgende omstandigheden zich voordoet:
 
@@ -434,19 +434,19 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 2. Voor het vaststellen van de tegemoetkoming, bedoeld in het eerste lid, onderdeel d, geldt:
 
-- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-06-25&g=2020-06-25), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
+- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-09-01&g=2020-09-01), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
 
 - b. de tegemoetkoming bedraagt maximaal € 5.445,00.
 
 3. Geen aanspraak op een tegemoetkoming als bedoeld in het eerste lid, onderdeel d, bestaat indien de ambtenaar geen eigen huishouding voert.
 
-4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-06-25&g=2020-06-25).
+4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-09-01&g=2020-09-01).
 
-5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-06-25&g=2020-06-25).
+5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2020-09-01&g=2020-09-01).
 
 ##### Artikel 30. Berekeningsbasis en berekeningstijdstip
 
-1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-06-25&g=2020-06-25), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
+1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2020-09-01&g=2020-09-01), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
 
 2. Het berekeningstijdstip voor de tegemoetkoming in de verhuiskosten is de datum waarop de ambtenaar verhuist óf, als de ambtenaar is verhuisd vóór de datum dat de functie feitelijk wordt vervuld, de datum van ingang van de functievervulling óf bij het overlijden dan wel ontslag van de ambtenaar de datum waarop laatstelijk bezoldiging werd genoten.
 
@@ -514,9 +514,9 @@ Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het 
 
 ##### Artikel 38
 
-1. De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2020-06-25&g=2020-06-25), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2020-06-25&g=2020-06-25), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2020-06-25&g=2020-06-25), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
+1. De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2020-09-01&g=2020-09-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2020-09-01&g=2020-09-01), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2020-09-01&g=2020-09-01), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
 
-2. De [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2020-06-25&g=2020-06-25), bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2020-06-25&g=2020-06-25), wordt per 1 april en 1 oktober van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de Schedules of Daily Subsistence Allowance Rates van de Verenigde Naties van 1 januari respectievelijk 1 juli van dat kalenderjaar.
+2. De [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2020-09-01&g=2020-09-01), bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2020-09-01&g=2020-09-01), wordt per 1 april en 1 oktober van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de Schedules of Daily Subsistence Allowance Rates van de Verenigde Naties van 1 januari respectievelijk 1 juli van dat kalenderjaar.
 
 ##### Artikel 39
 
@@ -1463,6 +1463,8 @@ Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
 Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
+Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
+
 China: Peking
 
 Finland: Helsinki
@@ -1481,15 +1483,15 @@ Oekraïne: Kiew
 
 Polen: Warschau
 
-Russische Federatie: Moskou, St. Petersburg
-
 ### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
+
+Verenigd Koninkrijk: Falklandeilanden
 
 Verenigde Staten: Chicago
 
 Zweden: Stockholm
 
-Zweden: Stockholm
+Angola: Luanda
 
 Angola: Luanda
 
@@ -1625,25 +1627,23 @@ Venezuela: Caracas
 
 Verenigde Arabische Emiraten: Abu Dhabi, Dubai
 
-Verenigde Staten: Hawaii, Miami
-
 ### **III Gebieden met tropische warmte in de maanden mei tot en met september**
+
+Viëtnam: Ho Chi Minhstad
 
 Zaïre: Kinshasa
 
 Zambia: Lusaka
 
-Zambia: Lusaka
+Algerije: Algiers
 
 Algerije: Algiers
 
-Egypte: Cairo
-
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Libië: Tripoli
+Libanon: Beiroet
 
-Tunesië: Tunis
+Libië: Tripoli
 
 Tunesië: Tunis
 
@@ -2372,15 +2372,15 @@ Canada: Edmonton, Montreal, Ottawa, Quebec, Toronto
 
 ### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
 
-Verenigd Koninkrijk: Falklandeilanden
+Russische Federatie: Moskou, St. Petersburg
 
 ### **III Gebieden met tropische warmte in de maanden mei tot en met september**
 
-Viëtnam: Ho Chi Minhstad
+Verenigde Staten: Hawaii, Miami
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Libanon: Beiroet
+Egypte: Cairo
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -2408,7 +2408,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-De tegemoetkoming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-06-25&g=2020-06-25) en de aanvulling op grond van de [artikelen 64, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), en [64a, vierde en vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64a), bedragen tezamen €0,28 cent per afgelegde meerkilometer.
+De tegemoetkoming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2020-09-01&g=2020-09-01) en de aanvulling op grond van de [artikelen 64, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), en [64a, vierde en vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64a), bedragen tezamen €0,28 cent per afgelegde meerkilometer.
 
 ### Hoofdstuk III. Dienstreizen
 
@@ -2422,7 +2422,7 @@ De tegemoetkoming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 38a
 
-Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
+[Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&z=2020-09-01&g=2020-09-01) is niet van toepassing op de vrijwillige ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel ss, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ## Bijlage I. , behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2012-10-25&g=2012-10-25), van het Besluit reis-, verblijf-, en verhuiskosten politie, zoals deze luidt met ingang van 1 oktober 2012
 
@@ -3887,15 +3887,15 @@ Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/j
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Peru: Lima
+Argentinië: Buenos Aires
 
-Uruguay: Montevideo
+Peru: Lima
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 31a. Tijdelijke tegemoetkoming dubbele woonlasten politiechef
 
-1. In aanvulling op [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=29), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=27&z=2020-06-25&g=2020-06-25), wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.
+1. In aanvulling op [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=29), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=27&z=2020-09-01&g=2020-09-01), wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.
 
 2. De tegemoetkoming bestaat uit het bedrag van de daadwerkelijk gemaakte kosten van de huisvesting en bedraagt het eerste jaar ten hoogste 18% en het tweede jaar ten hoogste 15% van de bezoldiging met een maximum van € 1.552,79 per maand.
 
@@ -3917,9 +3917,755 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-## Bijlage II. behorende bij het Besluit reis-, verblijf- en verhuiskosten politie
+## Bijlage I. behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2020-09-01&g=2020-09-01), van het Besluit reis-, verblijf-, en verhuiskosten politie per 1 april 2020
 
-### **I Gebieden met polaire koude en gebieden met tropische warmte**
+| **Land- of gebiedsdeel** | **Maximumbedrag logieskosten in euro** | **Bedrag overige kosten in euro** |
+| --- | --- | --- |
+| **Afghanistan** |   |   |
+| Kabul | 192 | 87 |
+| Overige | 56 | 31 |
+| **Albanië** |   |   |
+| Tirana | 102 | 48 |
+| Overige | 149 | 52 |
+| **Algerije** |   |   |
+| Algiers | 224 | 138 |
+| Overige | 180 | 80 |
+| **Angola** |   |   |
+| Luanda | 275 | 108 |
+| Overige | 117 | 48 |
+| **Anguilla** |   |   |
+| Alle steden | 390 | 169 |
+| **Antigua en Barbuda** |   |   |
+| Antigua | 234 | 150 |
+| Overige | 99 | 130 |
+| **Argentinië** |   |   |
+| Buenos Aires | 178 | 67 |
+| Overige | 116 | 45 |
+| **Armenië** |   |   |
+| Yerevan | 99 | 51 |
+| Overige | 74 | 42 |
+| **Aruba** |   |   |
+| Alle steden | 229 | 135 |
+| **Australië** |   |   |
+| Canberra, Melbourne en Sydney | 161 | 117 |
+| Overige | 158 | 102 |
+| **Azerbeidzjan** |   |   |
+| Bakoe | 229 | 119 |
+| Overige | 52 | 35 |
+| **Bahama's** |   |   |
+| Alle steden | 260 | 147 |
+| **Bahrein** |   |   |
+| Manama | 293 | 172 |
+| **Bangladesh** |   |   |
+| Dhaka | 202 | 124 |
+| Overige | 123 | 48 |
+| **Barbados** |   |   |
+| Alle steden | 277 | 156 |
+| **Belarus** |   |   |
+| Minsk | 122 | 103 |
+| Overige | 109 | 63 |
+| **België** |   |   |
+| Alle steden | 203 | 124 |
+| **Belize** |   |   |
+| Belize-Stad | 158 | 57 |
+| Overige | 336 | 103 |
+| **Benin** |   |   |
+| Cotonou | 199 | 99 |
+| Overige | 95 | 54 |
+| **Bermuda** |   |   |
+| Alle steden | 346 | 124 |
+| **Bhutan** |   |   |
+| Thimphu | 224 | 143 |
+| Overige | 154 | 55 |
+| **Bolivia** |   |   |
+| La Paz | 85 | 64 |
+| Overige | 78 | 46 |
+| **Bonaire** |   |   |
+| Alle steden | 162 | 103 |
+| **Bosnië en Herzegovina** |   |   |
+| Sarajevo | 94 | 57 |
+| Banja Luka | 54 | 58 |
+| Bihac | 60 | 42 |
+| Bjelasnica | 57 | 64 |
+| Jahorina | 71 | 37 |
+| Mostar | 51 | 62 |
+| Vlasic | 53 | 70 |
+| Overige | 50 | 41 |
+| **Botswana** |   |   |
+| Gaborone | 117 | 66 |
+| Overige | 169 | 61 |
+| **Brazilië** |   |   |
+| Brasilia | 72 | 50 |
+| Campinas | 64 | 41 |
+| Fortaleza | 58 | 43 |
+| Porto Allegre | 60 | 43 |
+| Recife | 71 | 43 |
+| Rio De Janeiro | 80 | 49 |
+| Sao Paulo | 81 | 44 |
+| Overige | 51 | 36 |
+| **Brunei** |   |   |
+| Alle steden | 106 | 50 |
+| **Bulgarije** |   |   |
+| Sofia | 172 | 68 |
+| Burgas, Plovdiv, Stara Zagora en Varna | 49 | 37 |
+| Overige | 39 | 32 |
+| **Burkina Faso** |   |   |
+| Ouagadougou | 226 | 107 |
+| Overige | 64 | 50 |
+| **Burundi** |   |   |
+| Bujumbura | 123 | 85 |
+| Overige | 114 | 61 |
+| **Cambodja** |   |   |
+| Phnom-Penh | 261 | 103 |
+| Overige | 185 | 59 |
+| **Canada** |   |   |
+| Ottawa | 191 | 122 |
+| Calgary | 136 | 103 |
+| Halifax | 148 | 95 |
+| Montreal | 175 | 112 |
+| Toronto | 205 | 115 |
+| Vancouver | 213 | 120 |
+| Overige | 121 | 99 |
+| **Centraal-Afrikaanse Republiek** |   |   |
+| Bangui | 181 | 90 |
+| Overige | 46 | 33 |
+| **Chili** |   |   |
+| Santiago | 196 | 106 |
+| Overige | 124 | 86 |
+| **China** |   |   |
+| Peking | 138 | 88 |
+| Changsha | 93 | 76 |
+| Chengdu | 148 | 64 |
+| Dalian | 115 | 71 |
+| Fuzhou | 105 | 76 |
+| Guangzhou | 126 | 74 |
+| Guiyang | 92 | 72 |
+| Haikou | 108 | 95 |
+| Hangzhou | 134 | 89 |
+| Jinan | 99 | 66 |
+| Kunming | 93 | 89 |
+| Lanzhou | 105 | 64 |
+| Lhasa | 103 | 66 |
+| Quingdao | 122 | 69 |
+| Sanya | 100 | 79 |
+| Shanghai | 165 | 82 |
+| Shenyang | 100 | 67 |
+| Shenzhen | 133 | 75 |
+| Suzhou | 129 | 58 |
+| Tianjin | 122 | 66 |
+| Wu Han | 105 | 73 |
+| Xi'An | 118 | 72 |
+| Xiamen | 108 | 78 |
+| Overige | 89 | 54 |
+| **China, Hong Kong** |   |   |
+| Hong Kong | 197 | 89 |
+| **China, Macau** |   |   |
+| Macau | 123 | 69 |
+| **Colombia** |   |   |
+| Bogotá | 97 | 30 |
+| Overige | 100 | 27 |
+| **Comoren** |   |   |
+| Moroni | 109 | 82 |
+| Overige | 65 | 51 |
+| **Congo-Brazaville** |   |   |
+| Brazzaville | 309 | 122 |
+| Overige | 244 | 91 |
+| **Congo-Kinshasa** |   |   |
+| Kinshasa | 243 | 131 |
+| Overige | 140 | 61 |
+| **Cookeilanden** |   |   |
+| Rarotonga | 175 | 107 |
+| Overige | 233 | 109 |
+| **Costa Rica** |   |   |
+| San José | 119 | 86 |
+| Overige | 156 | 76 |
+| **Cuba** |   |   |
+| Havana | 169 | 67 |
+| Overige | 222 | 60 |
+| **Curaçao** |   |   |
+| Alle steden | 176 | 117 |
+| **Cyprus** |   |   |
+| Nicosia | 95 | 87 |
+| Overige | 142 | 80 |
+| **Denemarken** |   |   |
+| Alle steden | 167 | 131 |
+| **Djibouti** |   |   |
+| Djibouti | 290 | 126 |
+| Overige | 67 | 38 |
+| **Dominica** |   |   |
+| Alle steden | 166 | 120 |
+| **Dominicaanse Republiek** |   |   |
+| Santo Domingo | 139 | 75 |
+| Overige | 299 | 64 |
+| **Duitsland** |   |   |
+| Berlijn | 146 | 105 |
+| Bonn | 118 | 108 |
+| Hamburg | 174 | 121 |
+| München | 169 | 92 |
+| Overige | 117 | 99 |
+| **Ecuador** |   |   |
+| Quito | 117 | 96 |
+| Overige | 326 | 80 |
+| **Egypte** |   |   |
+| Caïro | 151 | 101 |
+| Overige | 146 | 75 |
+| **El Salvador** |   |   |
+| San Salvador | 122 | 78 |
+| Overige | 64 | 55 |
+| **Equatoriaal-Guinea** |   |   |
+| Malabo | 338 | 115 |
+| Overige | 157 | 65 |
+| **Eritrea** |   |   |
+| Asmara | 76 | 105 |
+| Overige | 48 | 80 |
+| **Estland** |   |   |
+| Alle steden | 106 | 124 |
+| **Eswatini** |   |   |
+| Mbabane | 118 | 51 |
+| Overige | 98 | 43 |
+| **Ethiopië** |   |   |
+| Addis Abeba | 305 | 151 |
+| Overige | 162 | 43 |
+| **Fiji** |   |   |
+| Suva | 304 | 125 |
+| Overige | 344 | 96 |
+| **Filipijnen** |   |   |
+| Manila | 125 | 102 |
+| Overige | 137 | 46 |
+| **Finland** |   |   |
+| Helsinki | 190 | 112 |
+| Overige | 123 | 89 |
+| **Frankrijk** |   |   |
+| Parijs | 170 | 144 |
+| Overige | 148 | 121 |
+| **Gabon** |   |   |
+| Libreville | 403 | 174 |
+| Overige | 197 | 67 |
+| **Gambia** |   |   |
+| Banjul | 215 | 73 |
+| Overige | 46 | 24 |
+| **Georgië** |   |   |
+| Tbilisi | 222 | 87 |
+| Batumi | 140 | 53 |
+| Kobuleti | 134 | 61 |
+| Overige | 96 | 46 |
+| **Ghana** |   |   |
+| Accra | 229 | 114 |
+| Overige | 170 | 78 |
+| **Gibraltar** |   |   |
+| Alle steden | 242 | 87 |
+| **Grenada** |   |   |
+| Alle steden | 197 | 116 |
+| **Griekenland** |   |   |
+| Athene | 144 | 100 |
+| Thessaloniki | 78 | 57 |
+| Overige | 72 | 56 |
+| **Groot-Brittannië (en Noord-Ierland)** |   |   |
+| Londen | 241 | 119 |
+| Overige | 197 | 102 |
+| **Guam** |   |   |
+| Alle steden | 176 | 104 |
+| **Guatemala** |   |   |
+| Guatemala-Stad | 151 | 100 |
+| Overige | 233 | 73 |
+| **Guinee** |   |   |
+| Conakry | 240 | 104 |
+| Overige | 65 | 45 |
+| **Guinee-Bissau** |   |   |
+| Bissau | 143 | 74 |
+| Overige | 86 | 32 |
+| **Guyana** |   |   |
+| Georgetown | 230 | 130 |
+| Overige | 90 | 57 |
+| **Haïti** |   |   |
+| Port-au-Prince | 214 | 81 |
+| Overige | 149 | 68 |
+| **Honduras** |   |   |
+| Tegucigalpa | 122 | 66 |
+| Copán | 111 | 34 |
+| La Ceiba | 72 | 69 |
+| Roatan | 221 | 124 |
+| San Pedro Sula | 110 | 62 |
+| Overige | 60 | 34 |
+| **Hongarije** |   |   |
+| Boedapest | 164 | 89 |
+| Balaton | 128 | 58 |
+| Visegrad | 106 | 50 |
+| Overige | 90 | 41 |
+| **Ierland** |   |   |
+| Alle steden | 185 | 109 |
+| **IJsland** |   |   |
+| Alle steden | 215 | 116 |
+| **India** |   |   |
+| Delhi | 168 | 95 |
+| Agra | 105 | 57 |
+| Bangalore | 144 | 62 |
+| Calcutta | 125 | 62 |
+| Chandigarh | 95 | 59 |
+| Chennai | 99 | 58 |
+| Goa | 161 | 99 |
+| Hyderabad | 116 | 58 |
+| Jaipur | 118 | 64 |
+| Mumbai | 164 | 85 |
+| Pune | 128 | 66 |
+| Srinagar | 272 | 97 |
+| Overige | 97 | 55 |
+| **Indonesië** |   |   |
+| Jakarta | 332 | 107 |
+| Ambon | 64 | 45 |
+| Balik Papan | 49 | 49 |
+| Bandung | 82 | 46 |
+| Bogor | 68 | 53 |
+| Denpasar, Kuta en Sanur | 91 | 66 |
+| Jayapura | 72 | 39 |
+| Makassar | 66 | 52 |
+| Medan | 68 | 43 |
+| Menado | 58 | 42 |
+| Nusa Dua | 279 | 121 |
+| Senggigi | 104 | 59 |
+| Surabaya | 181 | 98 |
+| Yogyakarta | 72 | 42 |
+| Overige | 52 | 41 |
+| **Irak** |   |   |
+| Bagdad | 233 | 149 |
+| Overige | 236 | 80 |
+| **Iran** |   |   |
+| Tehran | 69 | 33 |
+| Overige | 56 | 24 |
+| **Israël** |   |   |
+| Tel Aviv | 244 | 115 |
+| Eilat | 195 | 81 |
+| Haifa | 181 | 98 |
+| Herzliya | 159 | 72 |
+| Jerusalem | 323 | 128 |
+| Tiberias | 146 | 110 |
+| Overige | 161 | 80 |
+| **Italië** |   |   |
+| Rome | 142 | 130 |
+| Bologna | 126 | 107 |
+| Florence | 136 | 91 |
+| Milaan | 138 | 122 |
+| Napels | 162 | 112 |
+| Palermo | 132 | 117 |
+| Triëst | 88 | 122 |
+| Turijn | 129 | 101 |
+| Venetië | 158 | 152 |
+| Overige | 89 | 64 |
+| **Ivoorkust** |   |   |
+| Abidjan | 200 | 123 |
+| Overige | 117 | 72 |
+| **Jamaica** |   |   |
+| Kingston | 208 | 94 |
+| Overige | 217 | 128 |
+| **Japan** |   |   |
+| Tokyo | 466 | 211 |
+| Fukuoka | 135 | 93 |
+| Kobe | 120 | 87 |
+| Kyoto | 160 | 106 |
+| Nagoya | 132 | 104 |
+| Osaka | 136 | 91 |
+| Yokohama | 156 | 128 |
+| Overige | 112 | 84 |
+| **Jemen** |   |   |
+| Sanaa | 175 | 91 |
+| Overige | 93 | 55 |
+| **Jordanië** |   |   |
+| Amman | 137 | 99 |
+| Overige | 155 | 62 |
+| **Kaaimaneilanden** |   |   |
+| Alle steden | 252 | 125 |
+| **Kaapverdië** |   |   |
+| Praia | 98 | 90 |
+| Overige | 137 | 74 |
+| **Kameroen** |   |   |
+| Yaounde | 166 | 130 |
+| Overige | 96 | 57 |
+| **Kazachstan** |   |   |
+| Nur-Sultan | 131 | 111 |
+| Aktau | 176 | 69 |
+| Aktobe | 64 | 47 |
+| Almaty | 337 | 115 |
+| Atyrau | 209 | 83 |
+| Schuchinsk-Burabay | 100 | 78 |
+| Shymkent | 194 | 66 |
+| Overige | 48 | 44 |
+| **Kenia** |   |   |
+| Nairobi | 256 | 111 |
+| Overige | 143 | 62 |
+| **Kirgistan** |   |   |
+| Bishkek | 119 | 56 |
+| Overige | 100 | 31 |
+| **Kiribati** |   |   |
+| Kiritimati (Christmaseiland) | 73 | 27 |
+| Overige | 76 | 41 |
+| **Koeweit** |   |   |
+| Koeweit-Stad | 384 | 166 |
+| **Kroatië** |   |   |
+| Zagreb | 148 | 142 |
+| Brijuni | 155 | 99 |
+| Dubrovnik | 186 | 96 |
+| Opatija | 156 | 108 |
+| Sibenik | 239 | 94 |
+| Split | 191 | 144 |
+| Zadar | 176 | 108 |
+| Overige | 95 | 68 |
+| **Laos** |   |   |
+| Vientiane | 116 | 95 |
+| Overige | 148 | 62 |
+| **Lesotho** |   |   |
+| Maseru | 135 | 86 |
+| Overige | 179 | 38 |
+| **Letland** |   |   |
+| Riga | 110 | 79 |
+| Overige | 130 | 74 |
+| **Libanon** |   |   |
+| Beiroet | 281 | 139 |
+| Overige | 165 | 85 |
+| **Liberia** |   |   |
+| Monrovia | 165 | 110 |
+| Overige | 113 | 58 |
+| **Libië** |   |   |
+| Tripoli | 224 | 84 |
+| Overige | 101 | 60 |
+| **Litouwen** |   |   |
+| Vilnius | 117 | 72 |
+| Overige | 79 | 48 |
+| **Luxemburg** |   |   |
+| Alle steden | 200 | 118 |
+| **Maagdeneilanden (Amerikaanse)** |   |   |
+| Alle steden | 349 | 137 |
+| **Maagdeneilanden (Britse)** |   |   |
+| Alle steden | 213 | 110 |
+| **Madagascar** |   |   |
+| Antananarivo | 230 | 91 |
+| Overige | 188 | 49 |
+| **Malawi** |   |   |
+| Lilongwe | 114 | 56 |
+| Overige | 155 | 56 |
+| **Malediven** |   |   |
+| Malé | 338 | 191 |
+| Overige | 274 | 53 |
+| **Maleisië** |   |   |
+| Kuala Lumpur | 102 | 87 |
+| Overige | 113 | 57 |
+| **Mali** |   |   |
+| Bamako | 173 | 111 |
+| Overige | 51 | 45 |
+| **Malta** |   |   |
+| Alle steden | 167 | 103 |
+| **Marokko** |   |   |
+| Rabat | 196 | 142 |
+| Overige | 293 | 95 |
+| **Marshall Eilanden** |   |   |
+| Majuro | 119 | 82 |
+| Overige | 117 | 97 |
+| **Mauritanië** |   |   |
+| Nouakchott | 133 | 85 |
+| Overige | 74 | 45 |
+| **Mauritius** |   |   |
+| Port Louis | 160 | 79 |
+| Overige | 90 | 55 |
+| **Mexico** |   |   |
+| Mexico-Stad | 213 | 110 |
+| Overige | 196 | 81 |
+| **Micronesië** |   |   |
+| Truk | 120 | 98 |
+| Overige | 148 | 83 |
+| **Moldavië** |   |   |
+| Chisinau | 142 | 59 |
+| Overige | 90 | 69 |
+| **Monaco** |   |   |
+| Alle steden | 202 | 92 |
+| **Mongolië** |   |   |
+| Ulaanbaatar | 129 | 51 |
+| Overige | 53 | 31 |
+| **Montenegro** |   |   |
+| Podgorica | 107 | 69 |
+| Bar, Becici, Budva, Kotor, SvetiStefan, Petrovac, Tivat, Herceg Novi, Ulcinj | 80 | 49 |
+| Kolasin | 63 | 39 |
+| Overige | 51 | 31 |
+| **Montserrat** |   |   |
+| Alle steden | 125 | 67 |
+| **Mozambique** |   |   |
+| Maputo | 173 | 102 |
+| Overige | 137 | 91 |
+| **Myanmar** |   |   |
+| Naypyitaw | 65 | 65 |
+| Overige | 197 | 44 |
+| **Namibië** |   |   |
+| Windhoek | 137 | 54 |
+| Overige | 201 | 44 |
+| **Nauru** |   |   |
+| Alle steden | 103 | 69 |
+| **Nepal** |   |   |
+| Kathmandu | 180 | 106 |
+| Overige | 68 | 23 |
+| **Nicaragua** |   |   |
+| Managua | 104 | 58 |
+| Overige | 102 | 43 |
+| **Nieuw-Caledonië** |   |   |
+| Alle steden | 177 | 92 |
+| **Nieuw-Zeeland** |   |   |
+| Auckland en Wellington | 150 | 108 |
+| Overige | 131 | 99 |
+| **Niger** |   |   |
+| Niamey | 158 | 101 |
+| Overige | 60 | 71 |
+| **Nigeria** |   |   |
+| Abuja | 172 | 105 |
+| Overige | 312 | 47 |
+| **Niue** |   |   |
+| Alle steden | 107 | 111 |
+| **Noord Macedonië** |   |   |
+| Skopje | 92 | 75 |
+| Ohrid en Struga | 43 | 38 |
+| Overige | 34 | 37 |
+| **Noord-Korea** |   |   |
+| Pyongyang | 157 | 59 |
+| Overige | 65 | 37 |
+| **Noorwegen** |   |   |
+| Alle steden | 137 | 173 |
+| **Oeganda** |   |   |
+| Kampala | 360 | 110 |
+| Overige | 210 | 52 |
+| **Oekraïne** |   |   |
+| Kiev | 201 | 95 |
+| Overige | 120 | 49 |
+| **Oezbekistan** |   |   |
+| Tashkent | 137 | 65 |
+| Overige | 79 | 26 |
+| **Oman** |   |   |
+| Muscat | 150 | 96 |
+| Overige | 110 | 86 |
+| **Oostenrijk** |   |   |
+| Alle steden | 110 | 134 |
+| **Oost-Timor** |   |   |
+| Dili | 119 | 86 |
+| Overige | 66 | 39 |
+| **Pakistan** |   |   |
+| Islamabad | 223 | 68 |
+| Overige | 149 | 37 |
+| **Palau** |   |   |
+| Alle steden | 172 | 97 |
+| **Panama** |   |   |
+| Panamá | 132 | 96 |
+| Overige | 130 | 68 |
+| **Papoea-Nieuw-Guinea** |   |   |
+| Port Moresby | 208 | 90 |
+| Overige | 174 | 68 |
+| **Paraguay** |   |   |
+| Asunción | 93 | 82 |
+| Overige | 104 | 48 |
+| **Peru** |   |   |
+| Lima | 171 | 93 |
+| Overige | 147 | 64 |
+| **Polen** |   |   |
+| Warsaw | 142 | 83 |
+| Overige | 135 | 67 |
+| **Portugal** |   |   |
+| Lissabon | 156 | 108 |
+| Overige | 181 | 85 |
+| **Puerto Rico** |   |   |
+| Alle steden | 269 | 117 |
+| **Qatar** |   |   |
+| Doha | 195 | 114 |
+| **Roemenië** |   |   |
+| Boekarest | 147 | 73 |
+| Brasov, Constanta, Mamaia en Timisoara | 110 | 65 |
+| Cluj en Sibiu | 87 | 58 |
+| Overige | 75 | 54 |
+| **Rusland** |   |   |
+| Moskou | 237 | 123 |
+| Astrachan | 81 | 61 |
+| Kaliningrad | 100 | 64 |
+| Moermansk | 100 | 45 |
+| Novosibirsk | 90 | 55 |
+| Samara | 84 | 68 |
+| Sochi | 125 | 47 |
+| St. Petersburg | 125 | 57 |
+| Tver | 74 | 65 |
+| Vladivostok | 113 | 53 |
+| Overige | 74 | 42 |
+| **Rwanda** |   |   |
+| Kigali | 187 | 81 |
+| Overige | 268 | 64 |
+| **Saba** |   |   |
+| Alle steden | 162 | 103 |
+| **Salomons Eilanden** |   |   |
+| Honiara | 287 | 130 |
+| Overige | 103 | 64 |
+| **Samoa** |   |   |
+| Apia, Upolu | 214 | 81 |
+| Overige | 143 | 59 |
+| **Sao Tomé en Principe** |   |   |
+| Sao Tomé | 139 | 82 |
+| Overige | 289 | 53 |
+| **Saoedi-Arabië** |   |   |
+| Riyad | 194 | 114 |
+| Overige | 473 | 130 |
+| **Senegal** |   |   |
+| Dakar | 173 | 111 |
+| Overige | 140 | 68 |
+| **Servië** |   |   |
+| Belgrado | 105 | 79 |
+| Overige | 86 | 48 |
+| **Seychellen** |   |   |
+| Victoria | 153 | 120 |
+| Overige | 186 | 119 |
+| **Sierra Leone** |   |   |
+| Freetown | 206 | 93 |
+| Overige | 50 | 35 |
+| **Singapore** |   |   |
+| Alle steden | 228 | 129 |
+| **Sint Eustatius** |   |   |
+| Alle steden | 162 | 103 |
+| **Sint Maarten** |   |   |
+| Alle steden | 162 | 103 |
+| **Slovenië** |   |   |
+| Alle steden | 140 | 86 |
+| **Slowakije** |   |   |
+| Bratislava | 123 | 78 |
+| Overige | 89 | 54 |
+| **Soedan** |   |   |
+| Khartoum | 179 | 71 |
+| Overige | 95 | 47 |
+| **Somalië** |   |   |
+| Mogadishu | 169 | 63 |
+| Overige | 164 | 44 |
+| **Spanje** |   |   |
+| Madrid | 146 | 110 |
+| Barcelona | 124 | 97 |
+| Las Palmas, Canarische Eilanden | 116 | 95 |
+| Overige | 104 | 82 |
+| **Sri Lanka** |   |   |
+| Colombo | 137 | 59 |
+| Overige | 86 | 28 |
+| **St. Lucia** |   |   |
+| Alle steden | 308 | 127 |
+| **St. Vincent / Grenada** |   |   |
+| Alle steden | 207 | 150 |
+| **St.Kitts / Nevis** |   |   |
+| Alle steden | 338 | 182 |
+| **Suriname** |   |   |
+| Paramaribo | 117 | 69 |
+| Overige | 77 | 40 |
+| **Syrië** |   |   |
+| Damascus | 234 | 126 |
+| Overige | 113 | 53 |
+| **Tadzjikistan** |   |   |
+| Dushanbe | 106 | 50 |
+| Overige | 101 | 25 |
+| **Tanzania** |   |   |
+| Dar es Salaam | 196 | 89 |
+| Overige | 257 | 69 |
+| **Thailand** |   |   |
+| Bangkok | 126 | 99 |
+| Overige | 150 | 65 |
+| **Togo** |   |   |
+| Lomé | 202 | 129 |
+| Overige | 63 | 43 |
+| **Tokelau Eilanden** |   |   |
+| Alle steden | 42 | 69 |
+| **Tonga** |   |   |
+| Nuku'Alofa | 135 | 61 |
+| Overige | 71 | 28 |
+| **Trinidad en Tobago** |   |   |
+| Trinidad | 180 | 125 |
+| Overige | 204 | 119 |
+| **Tsjaad** |   |   |
+| Ndjamena | 89 | 57 |
+| Overige | 139 | 73 |
+| **Tsjechië** |   |   |
+| Praag | 148 | 84 |
+| Brno | 118 | 61 |
+| Cesky Krumlov | 106 | 65 |
+| Karlovy Vary | 106 | 86 |
+| Ostrava | 93 | 33 |
+| Overige | 77 | 42 |
+| **Tunesië** |   |   |
+| Tunis | 114 | 76 |
+| Overige | 48 | 29 |
+| **Turkije** |   |   |
+| Ankara | 83 | 51 |
+| Antalya | 89 | 64 |
+| Istanbul | 124 | 89 |
+| Izmir | 89 | 52 |
+| Overige | 51 | 42 |
+| **Turkmenistan** |   |   |
+| Asjchabad | 129 | 97 |
+| Overige | 73 | 46 |
+| **Turks- en Caicos Eilanden** |   |   |
+| Grand Turk | 231 | 120 |
+| Overige | 356 | 133 |
+| **Tuvalu** |   |   |
+| Alle steden | 116 | 50 |
+| **Uruguay** |   |   |
+| Montevideo | 116 | 80 |
+| Colonia | 154 | 87 |
+| Punta Del Este | 307 | 84 |
+| Salto | 132 | 78 |
+| Overige | 86 | 67 |
+| **Vanuatu** |   |   |
+| Port Villa | 190 | 112 |
+| Overige | 170 | 70 |
+| **Venezuela** |   |   |
+| Caracas | 112 | 46 |
+| Overige | 112 | 63 |
+| **Verenigde Arabische Emiraten** |   |   |
+| Abu Dhabi | 188 | 147 |
+| Overige | 229 | 132 |
+| **Verenigde Staten van Amerika** |   |   |
+| Washington D.C. | 220 | 135 |
+| Boston | 230 | 130 |
+| Chicago | 204 | 106 |
+| Honolulu | 246 | 107 |
+| Los Angeles | 231 | 109 |
+| Miami | 193 | 105 |
+| New York | 428 | 177 |
+| Philadelphia | 193 | 109 |
+| San Francisco | 250 | 103 |
+| Overige | 193 | 100 |
+| **Vietnam** |   |   |
+| Hanoi | 106 | 52 |
+| Overige | 100 | 36 |
+| **Westbank en Gazastrook** |   |   |
+| Jericho | 114 | 76 |
+| Gazastrook | 93 | 60 |
+| Overige | 81 | 68 |
+| **Westelijke Sahara** |   |   |
+| Laayoune | 43 | 50 |
+| **Zambia** |   |   |
+| Lusaka | 342 | 135 |
+| Overige | 248 | 70 |
+| **Zimbabwe** |   |   |
+| Harare | 134 | 79 |
+| Overige | 128 | 62 |
+| **Zuid-Afrika** |   |   |
+| Pretoria | 105 | 41 |
+| Bloemfontein | 88 | 54 |
+| Kaapstad | 124 | 61 |
+| Durban | 118 | 59 |
+| East London | 132 | 60 |
+| Johannesburg | 169 | 77 |
+| Johannesburg-Sandton | 306 | 94 |
+| Magaliesburg/Muldersdrift | 140 | 48 |
+| Musina | 60 | 62 |
+| Polokwane | 73 | 43 |
+| Sun City | 189 | 52 |
+| Overige | 57 | 34 |
+| **Zuid-Korea** |   |   |
+| Seoul | 180 | 97 |
+| Overige | 181 | 96 |
+| **Zuid-Soedan** |   |   |
+| Juba | 80 | 36 |
+| Overige | 187 | 48 |
+| **Zweden** |   |   |
+| Stockholm | 224 | 101 |
+| Overige | 175 | 95 |
+| **Zwitserland** |   |   |
+| Alle steden | 220 | 124 |
+
+### Gebieden met polaire koude en gebieden met tropische warmte
 
 ### **II Gebieden met tropische warmte gedurende (vrijwel) het gehele jaar**
 
@@ -3927,7 +4673,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### **IV Gebieden met tropische warmte in de maanden september tot en met maart**
 
-Zuid Afrika: Kaapstad
+Uruguay: Montevideo
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -3944,3 +4690,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Zuid Afrika: Kaapstad
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 38b
+
+Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
