@@ -4,7 +4,7 @@ identifier: "BWBR0037958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-23"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037958"
 soort: "ministeriele-regeling"
@@ -64,15 +64,17 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Tabakswet (implementat
 
 - **verordening (EG) nr. 1272/2008:** [Verordening (EG) nr. 1272/2008](32008R1272) van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de [Richtlijnen 67/548/EEG](31967L0548) en [1999/45/EG](31999L0045) en tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907);
 
-- **verslavende werking:** het farmacologisch vermogen van een stof om verslaving te veroorzaken, een toestand die invloed heeft op het vermogen van een particulier om zijn gedrag te beheersen, meestal door het geven van een beloning of het verlichten van ontwenningsverschijnselen, of beide.
+- **verslavende werking:** het farmacologisch vermogen van een stof om verslaving te veroorzaken, een toestand die invloed heeft op het vermogen van een particulier om zijn gedrag te beheersen, meestal door het geven van een beloning of het verlichten van ontwenningsverschijnselen, of beide;
 
-2. Als tabaksproductenrichtlijn, bedoeld in [artikel 1, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1), wordt aangewezen [Richtlijn 2014/40](32014L0040)/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten en tot intrekking van [Richtlijn 2001/37/EG](32001L0037) (PbEU 2014, L 127).
+- **wet:** [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302).
 
-3. Als gedelegeerde verordening gegevensopslagcontracten als bedoeld in [artikel 1, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Gedelegeerde Verordening (EU) 2018/573 van de Commissie van 15 december 2017 betreffende de centrale elementen van de gegevensopslagcontracten die als onderdeel van een traceringssysteem voor tabaksproducten moeten worden gesloten (PbEU 2018, L 96).
+2. Als tabaksproductenrichtlijn, bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1), wordt aangewezen [Richtlijn 2014/40](32014L0040)/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten en tot intrekking van [Richtlijn 2001/37/EG](32001L0037) (PbEU 2014, L 127).
 
-4. Als uitvoeringsbesluit veiligheidskenmerk als bedoeld in [artikel 1, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Uitvoeringsbesluit (EU) 2018/576 van de Commissie van 15 december 2017 inzake de technische normen voor op tabaksproducten aangebrachte veiligheidskenmerken (PbEU 2018, L 96).
+3. Als gedelegeerde verordening gegevensopslagcontracten als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Gedelegeerde Verordening (EU) 2018/573 van de Commissie van 15 december 2017 betreffende de centrale elementen van de gegevensopslagcontracten die als onderdeel van een traceringssysteem voor tabaksproducten moeten worden gesloten (PbEU 2018, L 96).
 
-5. Als uitvoeringsverordening traceringssysteem als bedoeld in [artikel 1, eerste lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Uitvoeringsverordening (EU) 2018/574 van de Commissie van 15 december 2017 inzake de technische normen voor de instelling en werking van een traceringssysteem voor tabaksproducten (PbEU 2018, L 96).
+4. Als uitvoeringsbesluit veiligheidskenmerk als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Uitvoeringsbesluit (EU) 2018/576 van de Commissie van 15 december 2017 inzake de technische normen voor op tabaksproducten aangebrachte veiligheidskenmerken (PbEU 2018, L 96).
+
+5. Als uitvoeringsverordening traceringssysteem als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=1) wordt aangewezen Uitvoeringsverordening (EU) 2018/574 van de Commissie van 15 december 2017 inzake de technische normen voor de instelling en werking van een traceringssysteem voor tabaksproducten (PbEU 2018, L 96).
 
 #### § 2. Producteisen
 
@@ -123,7 +125,7 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.3
 
-1. Voor erkenning in de zin van [artikel 3c, tweede lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c), komen in aanmerking laboratoria waaraan accreditatie krachtens NEN-EN-ISO/IEC 17025:2018 Algemene eisen voor de competentie van beproevings- en kalibratielaboratoria, is verleend en die deel uitmaken van het Rijk.
+1. Voor erkenning in de zin van [artikel 3c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c), komen in aanmerking laboratoria waaraan accreditatie krachtens NEN-EN-ISO/IEC 17025:2018 Algemene eisen voor de competentie van beproevings- en kalibratielaboratoria, is verleend en die deel uitmaken van het Rijk.
 
 2. De Minister verleent een erkenning op aanvraag. Aan de erkenning kunnen voorschriften worden verbonden die gericht zijn op het waarborgen van de kwaliteit en de onafhankelijkheid van de verificaties van metingen en onderzoekingen.
 
@@ -133,9 +135,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.4
 
-1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2020-01-23&g=2020-01-23), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
+1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2020-09-01&g=2020-09-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
 
-2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2020-01-23&g=2020-01-23), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
+2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2020-09-01&g=2020-09-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
 
 ##### Artikel 2.5
 
@@ -151,7 +153,7 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.7
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2020-01-23&g=2020-01-23) is van overeenkomstige toepassing op het tabaksproduct zelf.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2020-09-01&g=2020-09-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
 
 ##### Artikel 2.8
 
@@ -183,7 +185,7 @@ De etikettering van een verpakkingseenheid of buitenverpakking van een tabakspro
 
 1. Een gezondheidswaarschuwing op een verpakkingseenheid en een buitenverpakking van tabaksproducten die in de handel worden gebracht voldoen aan artikel 8, eerste tot en met vierde lid, van de tabaksproductenrichtlijn.
 
-2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-01-23&g=2020-01-23), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2020-01-23&g=2020-01-23), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2020-01-23&g=2020-01-23) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2020-01-23&g=2020-01-23) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
+2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-09-01&g=2020-09-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2020-09-01&g=2020-09-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2020-09-01&g=2020-09-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2020-09-01&g=2020-09-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
 
 3. Een gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van een tabaksproduct wordt omgeven door een 1 mm brede zwarte rand, binnen de voor deze gezondheidswaarschuwing bestemde oppervlakte. Deze eis geldt niet voor de gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2).
 
@@ -323,9 +325,9 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.4
 
-1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-01-23&g=2020-01-23), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-01-23&g=2020-01-23) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-01-23&g=2020-01-23) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
+1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-09-01&g=2020-09-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-09-01&g=2020-09-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-09-01&g=2020-09-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
 
-2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-01-23&g=2020-01-23), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-01-23&g=2020-01-23) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-01-23&g=2020-01-23), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
+2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-09-01&g=2020-09-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-09-01&g=2020-09-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-09-01&g=2020-09-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
 
 ##### Artikel 4.5
 
@@ -399,7 +401,7 @@ Het leeftijdsverificatiesysteem, bedoeld in [artikel 5.6, eerste lid, van het be
 
 1. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van tabaksproducten die gericht zijn op consumenten in de Europese Economische Ruimte worden zodanig weergegeven dat de tekst van de grootste gezondheidswaarschuwing duidelijk zichtbaar is.
 
-2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2020-01-23&g=2020-01-23), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
+2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2020-09-01&g=2020-09-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
 
 3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een speciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
 
@@ -407,7 +409,7 @@ Het leeftijdsverificatiesysteem, bedoeld in [artikel 5.6, eerste lid, van het be
 
 ##### Artikel 7.1
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302) zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302) zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
 
 ##### Artikel 7.2
 
@@ -423,17 +425,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 7.3
 
-1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de bijlage van de Tabaks- en rookwarenwet in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2020-01-23&g=2020-01-23), van deze regeling.
+1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2020-09-01&g=2020-09-01), van deze regeling.
 
-2. Op sigaretten en shagtabak met een kenmerkend aroma waarvan het verkoopvolume in de gehele Europese Unie drie procent of meer van een bepaalde productcategorie vertegenwoordigt, is [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.5&z=2020-01-23&g=2020-01-23), tot 20 mei 2020 niet van toepassing.
-
-3. In afwijking van [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2020-01-23&g=2020-01-23), voldoen een verpakkingseenheid en een buitenverpakking met een gecombineerde gezondheidswaarschuwing tot 20 mei 2019 aan artikel 10, eerste lid, onder e, onder i en ii, van de tabaksproductenrichtlijn, in plaats van aan artikel 10, eerste lid, onder e, eerste volzin, van de tabaksproductenrichtlijn.
-
-4. Voor roken bestemde tabaksproducten die voldoen aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 30 juni 2018 en die zijn geproduceerd of in het vrije verkeer gebracht voor 1 juli 2018, mogen tot een jaar na laatstgenoemde datum in de handel worden gebracht.
-
-5. [Artikel 3.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.7a&z=2020-01-23&g=2020-01-23) is tot 1 juli 2019 niet van toepassing op sigaren niet zijnde cigarillo’s. Sigaren niet zijnde cigarillo’s die voldoen aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luiden op 30 juni 2019 en die zijn geproduceerd of in het vrije verkeer gebracht voor 1 juli 2019, mogen tot een jaar na laatstgenoemde datum in de handel worden gebracht.
-
-6. In afwijking van [artikel 4.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.6&z=2020-01-23&g=2020-01-23), worden geen kosten in rekening gebracht die samenhangen met de ontvangst, opslag, verwerking, analyse en publicatie van gegevens en bescheiden die ingevolge [artikel 7.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=7.1) voor 1 januari 2019 worden verstrekt.
+2. Door vernummering vervallen.
 
 ##### Artikel 7.4
 
@@ -471,7 +465,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevat geen vermeldingen of andere elementen die verwijzen naar een bepaald thema of waaruit blijkt dat er sprake is van een gelimiteerde editie.
 
-4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-01-23&g=2020-01-23), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
+4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-09-01&g=2020-09-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
 
 5. Een verpakkingseenheid van voor roken bestemde tabaksproducten met uitzondering van sigaren bevat uitsluitend die producten en, indien van toepassing onbedrukt foliepapier dat de producten omhult om de versheid te bewaren.
 
@@ -507,13 +501,13 @@ Reclame in of aan speciaalzaak wordt slechts aangebracht met inachtneming van de
 
 7. Bij de bepaling van het oppervlak van reclame in of aan een speciaalzaak wordt in aanmerking genomen de feitelijke uiting of uitingen, zoals bestaande uit woorden, afbeeldingen, specifieke merkgerelateerde kleuren of kleurenschema’s, afbeeldingen van het merk, het merklogo of de merknaam.
 
-8. De eisen van dit artikel gelden onverminderd het bepaalde bij en krachtens [artikel 2, vierde lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=2).
+8. De eisen van dit artikel gelden onverminderd het bepaalde bij en krachtens [artikel 2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=2).
 
 ##### Artikel 6.5
 
 1. Indien reclame aan de voorgevel is aangebracht, beslaat de reclame niet meer dan 2 m2.
 
-2. Indien het ingevolge bindende regels, anders dan de regels die gesteld zijn bij of krachtens de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302), verboden is aan de voorgevel van een speciaalzaak reclame voor tabaksproducten of aanverwante producten te voeren, is het toegestaan die reclame in de etalage, of bij afwezigheid van een etalage, achter de winkelruit aan te brengen, mits die reclame niet meer dan 2 m2 beslaat.
+2. Indien het ingevolge bindende regels, anders dan de regels die gesteld zijn bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302), verboden is aan de voorgevel van een speciaalzaak reclame voor tabaksproducten of aanverwante producten te voeren, is het toegestaan die reclame in de etalage, of bij afwezigheid van een etalage, achter de winkelruit aan te brengen, mits die reclame niet meer dan 2 m2 beslaat.
 
 3. Het is verboden reclame deels aan de voorgevel èn deels in de etalage, dan wel achter de winkelruit, aan te brengen.
 
@@ -533,7 +527,7 @@ Reclame in of aan speciaalzaak wordt slechts aangebracht met inachtneming van de
 
 - b. bevestigd op of aan dispensers van andere producten dan tabaksproducten of aanverwante producten, verrijdbare rekken met wenskaarten, manden met snoepgoed en speciaal voor de verkoop van tijdschriften ontworpen kasten.
 
-3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2020-01-23&g=2020-01-23) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
+3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2020-09-01&g=2020-09-01) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
 
 #### § 7. Slotbepalingen
 
@@ -599,7 +593,7 @@ Het middel waarmee tabaksproducten of aanverwante producten aan het zicht worden
 
 2. In afwijking van het eerste lid kunnen sigaren, pijp- en pruimtabak in een open verpakking worden getoond.
 
-3. De tabaksproducten en aanverwante producten staan met de gecombineerde gezondheidswaarschuwing naar voren gericht onder een hoek van 90° ten opzichte van de ondergrond, en de gecombineerde gezondheidswaarschuwing is in de juiste leesrichting zichtbaar.
+3. De tabaksproducten en aanverwante producten, met uitzondering van sigaren, alsmede pijp- en pruimtabak in een open verpakking, staan met de gecombineerde gezondheidswaarschuwing naar voren gericht onder een hoek van 90° ten opzichte van de ondergrond, en de gecombineerde gezondheidswaarschuwing is in de juiste leesrichting zichtbaar.
 
 #### § 7. Slotbepalingen
 
@@ -609,13 +603,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Aan de Directeur Health van de afdeling Sales & Client Management van Atos Nederland B.V. wordt mandaat verleend om namens de Minister besluiten te nemen als bedoeld in de artikelen 8, 9, 11, 13, 15, 17 en 19 van de uitvoeringsverordening traceringssysteem.
 
-2. Het tarief dat samenhangt met het verrichten van de werkzaamheden, bedoeld in [artikel 4d, eerste lid, aanhef en onderdeel a, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4d), bedraagt € 0,00111 per unieke identificatiemarkering.
+2. Het tarief dat samenhangt met het verrichten van de werkzaamheden, bedoeld in [artikel 4d, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4d), bedraagt € 0,00111 per unieke identificatiemarkering.
 
 3. Bij het aanbrengen van de unieke identificatiemarkering op de verpakkingseenheid van tabaksproducten, wordt voldaan aan de eisen, genoemd in artikel 15, eerste lid, tweede zin, van de tabaksproductenrichtlijn.
 
-4. Voor sigaretten en shagtabak die vóór 20 mei 2019 in de Unie zijn geproduceerd of ingevoerd geldt het in het bij of krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4b) en [4c van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4c) bepaalde vanaf 21 mei 2020.
+4. Voor sigaretten en shagtabak die vóór 20 mei 2019 in de Unie zijn geproduceerd of ingevoerd geldt het in het bij of krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4b) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4c) bepaalde vanaf 21 mei 2020.
 
-5. Voor andere tabaksproducten dan sigaretten en shagtabak geldt het bij of krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4b) en [4c van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4c) bepaalde vanaf 20 mei 2024. Indien andere tabaksproducten dan sigaretten en shagtabak vóór 20 mei 2024 in de Unie zijn geproduceerd of ingevoerd geldt het bij of krachtens de artikelen 4a, 4b en 4c van de Tabaks- en rookwarenwet bepaalde vanaf 21 mei 2026.
+5. Voor andere tabaksproducten dan sigaretten en shagtabak geldt het bij of krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4b) en [4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4c) bepaalde vanaf 20 mei 2024. Indien andere tabaksproducten dan sigaretten en shagtabak vóór 20 mei 2024 in de Unie zijn geproduceerd of ingevoerd geldt het bij of krachtens de artikelen 4a, 4b en 4c van de wet bepaalde vanaf 21 mei 2026.
 
 ##### Artikel 3.14. Veiligheidskenmerk
 
@@ -663,9 +657,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 9. Het veiligheidskenmerkzegel wordt zodanig bevestigd op de verpakkingseenheid van tabaksproducten, dat wordt voldaan aan de eisen, bedoeld in artikel 5, tweede lid, van het uitvoeringsbesluit veiligheidskenmerk.
 
-10. Voor sigaretten en shagtabak die vóór 20 mei 2019 zijn geproduceerd of ingevoerd in de Unie geldt het bij of krachtens de [artikelen 4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4h) en [4i van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4i) bepaalde vanaf 21 mei 2020.
+10. Voor sigaretten en shagtabak die vóór 20 mei 2019 zijn geproduceerd of ingevoerd in de Unie geldt het bij of krachtens de [artikelen 4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4h) en [4i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4i) bepaalde vanaf 21 mei 2020.
 
-11. Voor andere tabaksproducten dan sigaretten en shagtabak geldt het bij of krachtens de [artikelen 4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4h) en [4i van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4i) bepaalde vanaf 20 mei 2024. Voor andere tabaksproducten dan sigaretten en shagtabak die vóór 20 mei 2024 zijn geproduceerd of ingevoerd in de Unie geldt het bij of krachtens de artikelen 4h en 4i van de Tabaks- en rookwarenwet bepaalde vanaf 21 mei 2026.
+11. Voor andere tabaksproducten dan sigaretten en shagtabak geldt het bij of krachtens de [artikelen 4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4h) en [4i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4i) bepaalde vanaf 20 mei 2024. Voor andere tabaksproducten dan sigaretten en shagtabak die vóór 20 mei 2024 zijn geproduceerd of ingevoerd in de Unie geldt het bij of krachtens de artikelen 4h en 4i van de wet bepaalde vanaf 21 mei 2026.
 
 ##### Artikel 3.15. Bevoegde autoriteiten
 
