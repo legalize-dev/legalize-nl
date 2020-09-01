@@ -4,7 +4,7 @@ identifier: "BWBR0044050"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-04"
-last_updated: "2020-03-16"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044050"
 soort: "AMvB"
@@ -40,13 +40,9 @@ entry_into_force: "2020-09-04"
 
 Wijzigt het Reglement rijbewijzen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Tijdelijk besluit verlenging geldigheidsduur rijbewijs in bepaalde gevallen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -58,15 +54,23 @@ Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen 25ab](onbekend), [103b](onbekend), [156r, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156r), en [156ae van het Reglement rijbewijzen](onbekend) en [artikel 16a van het Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&artikel=16a) vervallen met ingang van 1 december 2020.
+
+2. [Artikel 68 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=68) vervalt met ingang van 1 april 2021.
+
+3. [Artikel 37a van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=37a) vervalt met ingang van 1 januari 2021.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit, met uitzondering van de [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01), treedt in werking met ingang van 1 september 2020. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2020.
+
+2. De [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
+
+3. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01) werken terug tot en met 16 maart 2020.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19.
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 3 juli 2020, nr. IenW/BSK-2020/110878, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
