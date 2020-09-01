@@ -4,7 +4,7 @@ identifier: "BWBR0038779"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-31"
-last_updated: "2020-06-17"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038779"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Samenstelling en benoeming voorzitter en leden Adviescollege
 
-1. Er is een Adviescollege levenslanggestraften. Het Adviescollege heeft een voorzitter, tevens lid, met een juridische achtergrond en vijf andere leden die afkomstig zijn uit de volgende disciplines: twee juristen, een psychiater, een psycholoog en een lid afkomstig uit de wetenschap dat bij voorkeur specifieke expertise heeft op het gebied van de positie en de belangen van slachtoffers en nabestaanden. Daarnaast kan de Minister voor elk van deze vier disciplines één plaatsvervangend lid benoemen. De voorzitter, de leden en plaatsvervangend leden die vanwege hun juridische, psychologische of psychiatrische expertise worden benoemd, beschikken daarnaast over een uitgebreide expertise in de strafrechtpraktijk en ten aanzien van de tenuitvoerlegging van straffen.
+1. Er is een Adviescollege levenslanggestraften. Het Adviescollege heeft een voorzitter, tevens lid, met een juridische achtergrond en vijf andere leden die afkomstig zijn uit de volgende disciplines: twee juristen, een psychiater, een psycholoog en een lid afkomstig uit de wetenschap dat bij voorkeur specifieke expertise heeft op het gebied van de positie en de belangen van slachtoffers en nabestaanden. Daarnaast kan de Minister voor elk van hen één plaatsvervangend lid benoemen. De voorzitter, de leden en plaatsvervangend leden die vanwege hun juridische, psychologische of psychiatrische expertise worden benoemd, beschikken daarnaast over een uitgebreide expertise in de strafrechtpraktijk en ten aanzien van de tenuitvoerlegging van straffen.
 
 2. De voorzitter en de overige leden van het Adviescollege worden bij ministerieel besluit door de Minister benoemd voor een periode van ten hoogste vier jaar. De benoeming wordt gepubliceerd in de Staatscourant. Herbenoeming is eenmaal mogelijk voor een aansluitende periode van ten hoogste vier jaren.
 
