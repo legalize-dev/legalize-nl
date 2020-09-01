@@ -4,7 +4,7 @@ identifier: "BWBR0010120"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-01"
-last_updated: "2015-01-01"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010120"
 soort: "AMvB"
@@ -51,7 +51,7 @@ Treedt in werking als de Veegwet SZW 1998 in werking treedt.
 
 ##### Artikel 1. Uitbreiding van de kring van studerenden
 
-Voor de toepassing van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4) als studerende wordt aangemerkt en die:
+1. Voor de toepassing van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4) als studerende wordt aangemerkt en die:
 
 - a. werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt;
 
@@ -62,6 +62,8 @@ Voor de toepassing van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapt
 - 2°. een andere studie of opleiding volgt dan genoemd onder 1°, met een studiebelasting van ten minste 1600 uur per jaar; of
 
 - 3°. in het examenjaar van een meerjarige studie of opleiding ten minste gemiddeld 162 klokuren per kwartaal lessen of stages volgt.
+
+2. In afwijking van het eerste lid wordt niet als studerende aangemerkt degene die een levenlanglerenkrediet ontvangt op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
 ##### Artikel 2. Inwerkingtreding
 
