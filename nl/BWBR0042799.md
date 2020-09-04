@@ -4,7 +4,7 @@ identifier: "BWBR0042799"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-04"
-last_updated: "2019-12-01"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042799"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Wijzigt het Reglement rijbewijzen.
 
 1. Dit besluit treedt in werking met ingang van 1 december 2019.
 
-2. De [artikelen 25aa](onbekend), [103a](onbekend), [145a](onbekend), [148a](onbekend) en [152a van het Reglement rijbewijzen](onbekend) vervallen één jaar na de inwerkingtreding van dit besluit, tenzij deze termijn bij koninklijk besluit eenmalig met één jaar is verlengd.
+2. De [artikelen 25aa](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=25aa), [103a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103a), [145a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145a), [148a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=148a) en [152a van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=152a) vervallen met ingang van 1 juni 2021.
 
 ##### Artikel III
 
