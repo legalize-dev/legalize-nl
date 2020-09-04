@@ -4,7 +4,7 @@ identifier: "BWBR0044050"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-04"
-last_updated: "2020-09-01"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044050"
 soort: "AMvB"
@@ -62,11 +62,11 @@ Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
 ##### Artikel VI
 
-1. Dit besluit, met uitzondering van de [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01), treedt in werking met ingang van 1 september 2020. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2020.
+1. Dit besluit, met uitzondering van de [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-04), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-04) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-04), treedt in werking met ingang van 1 september 2020. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2020.
 
-2. De [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
+2. De [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=I&z=2020-09-04&g=2020-09-04), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-04) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-04) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
 
-3. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-01) werken terug tot en met 16 maart 2020.
+3. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=III&z=2020-09-04&g=2020-09-04) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044050&artikel=IV&z=2020-09-04&g=2020-09-04) werken terug tot en met 16 maart 2020.
 
 ##### Artikel VII
 
