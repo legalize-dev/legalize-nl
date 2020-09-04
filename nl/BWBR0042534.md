@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2019-10-01"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2019-10-01&g=2019-10-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2020-09-04&g=2020-09-04).
 
 ##### Artikel 2. Instelling en taak
 
@@ -78,11 +78,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instelling
 
-De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2021.
+De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2022.
 
 ##### Artikel 5. Leden
 
-Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en met 31 december 2020 tot lid van de commissie benoemd:
+Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en met 31 december 2021 tot lid van de commissie benoemd:
 
 - a. De heer dr. C.B. Leerink, te Schalkhaar, tevens voorzitter;
 
@@ -116,9 +116,9 @@ Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en me
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2019-10-01&g=2019-10-01), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
+1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2020-09-04&g=2020-09-04), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2019-10-01&g=2019-10-01), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2020-09-04&g=2020-09-04), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding die aan de andere leden van de commissie is toegekend.
 
@@ -134,7 +134,7 @@ Met ingang van1 oktober 2019 worden voor de periode van 1 oktober 2019 tot en me
 
 ##### Artikel 11. Verantwoording
 
-De commissie biedt de minister bij voorkeur vóór 1 december 2020, doch uiterlijk 31 december 2020, een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister bij voorkeur vóór 1 december 2021, doch uiterlijk 31 december 2021, een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 12. Archiefbescheiden
 
@@ -144,7 +144,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2021.
+2. Dit besluit vervalt met ingang van 1 januari 2022.
 
 ##### Artikel 14. Citeertitel
 
