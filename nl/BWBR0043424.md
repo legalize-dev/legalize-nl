@@ -4,7 +4,7 @@ identifier: "BWBR0043424"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2020-09-04"
-last_updated: "2020-08-11"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043424"
 soort: "ministeriele-regeling-BES"
@@ -48,11 +48,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Aan het hoofd van de RCN-unit SZW wordt mandaat, volmacht en machtiging verleend voor het geven van beschikkingen en het verrichten van overige handelingen die verband houden met de tenuitvoerlegging van de [Beleidsregel tegemoetkoming getroffen ondernemers COVID-19 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043422).
+1. Aan het hoofd van de RCN-unit SZW wordt mandaat, volmacht en machtiging verleend voor het geven van beschikkingen en het verrichten van overige handelingen die verband houden met de tenuitvoerlegging van de [Beleidsregel tegemoetkoming getroffen ondernemers COVID-19 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043422).
+
+2. Aan het hoofd van de RCN-unit SZW wordt mandaat, volmacht en machtiging verleend voor het geven van beschikkingen en het verrichten van overige handelingen die verband houden met de tenuitvoerlegging van de [Regeling subsidie financiering vaste lasten getroffen ondernemingen Covid-19 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043994).
 
 ##### Artikel 3
 
-Aan het hoofd van de RCN-unit SZW wordt mandaat verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen beschikkingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043424&artikel=2&z=2020-04-25&g=2020-08-11), waaronder het nemen van beslissingen op bezwaarschriften en het voeren van beroep en hoger beroep.
+Aan het hoofd van de RCN-unit SZW wordt mandaat verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen beschikkingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043424&artikel=2&z=2020-09-04&g=2020-09-04), waaronder het nemen van beslissingen op bezwaarschriften en het voeren van beroep en hoger beroep.
 
 ##### Artikel 4
 
