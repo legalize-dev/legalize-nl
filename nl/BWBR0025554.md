@@ -4,7 +4,7 @@ identifier: "BWBR0025554"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2020-03-16"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025554"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2020-09-04&g=2020-03-16).
+Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2020-09-04&g=2020-09-04).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
@@ -92,7 +92,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 ##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-03-16) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-09-04) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -158,7 +158,7 @@ Vervallen
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-03-16) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-09-04) bedoeld, en:
 
 - a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel,
 
@@ -166,7 +166,7 @@ Vervallen
 
 - c. waarvan gerekend vanaf de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-03-16) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2020-09-04&g=2020-09-04) bedoeld.
 
 #### § 4. Afgifte keuringsbewijs
 
@@ -212,7 +212,7 @@ De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrappor
 
 ##### Artikel 24
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2020-09-04&g=2020-03-16) is een strafbaar feit.
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2020-09-04&g=2020-09-04) is een strafbaar feit.
 
 ##### Artikel 25
 
@@ -222,7 +222,7 @@ Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [
 
 ##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2020-09-04&g=2020-03-16) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2020-09-04&g=2020-09-04) van dit besluit.
 
 ##### Artikel 27
 
@@ -344,7 +344,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16a
 
-1. De geldigheidsduur van het keuringsbewijs, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=16&z=2020-09-04&g=2020-03-16), kan op aanvraag door de Dienst Wegverkeer worden verlengd met drie maanden indien vanwege de maatregelen ter bestrijding van COVID-19:
+1. De geldigheidsduur van het keuringsbewijs, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=16&z=2020-09-04&g=2020-09-04), kan op aanvraag door de Dienst Wegverkeer worden verlengd met drie maanden indien vanwege de maatregelen ter bestrijding van COVID-19:
 
 - a. de eigenaar of houder van het voertuig niet in de gelegenheid is het voertuig voor het einde van de geldigheidsduur te laten keuren vanwege de uitoefening van een cruciaal beroep of omdat de eigenaar of houder of het voertuig zich in het buitenland bevindt; en
 
