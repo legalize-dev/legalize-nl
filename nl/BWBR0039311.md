@@ -4,7 +4,7 @@ identifier: "BWBR0039311"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-24"
-last_updated: "2020-01-01"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039311"
 soort: "ministeriele-regeling"
@@ -38,13 +38,13 @@ entry_into_force: "2017-03-11"
 
 ##### Artikel 1
 
-De wisselkoersen van de Surinaamse gulden, bedoeld in [artikel 3, eerste lid, onderdeel a, onder 2˚ en 3˚, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) worden vastgesteld in de bij dit besluit behorende [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2021-07-01&g=2020-01-01).
+De wisselkoersen van de Surinaamse gulden, bedoeld in [artikel 3, eerste lid, onderdeel a, onder 2˚ en 3˚, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) worden vastgesteld in de bij dit besluit behorende [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2020-09-10&g=2020-09-10).
 
 ##### Artikel 2
 
-1. De consumentenprijsindexcijfers, bedoeld in [artikel 3, eerste lid, onderdeel b, onder 2˚ en 3˚](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), worden vastgesteld in de bij dit besluit behorende [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2021-07-01&g=2020-01-01).
+1. De consumentenprijsindexcijfers, bedoeld in [artikel 3, eerste lid, onderdeel b, onder 2˚ en 3˚, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), worden vastgesteld in de bij dit besluit behorende [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2020-09-10&g=2020-09-10).
 
-2. De breuk, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), is niet kleiner dan 1.
+2. De breuk, bedoeld in [artikel 3, eerste lid, onder b, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3), is niet kleiner dan 1.
 
 ##### Artikel 3
 
@@ -52,7 +52,7 @@ Vervallen
 
 ##### Artikel 4
 
-Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [bijlage behorende bij artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2021-07-01&g=2020-01-01) terugwerkt tot en met 1 januari 2008 en dat [de bijlage behorende bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2021-07-01&g=2020-01-01) terugwerkt tot en met 1 januari 2008.
+Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [bijlage behorende bij artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=I&z=2020-09-10&g=2020-09-10) terugwerkt tot en met 1 januari 2008 en dat [de bijlage behorende bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&bijlage=II&z=2020-09-10&g=2020-09-10) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 5
 
@@ -62,7 +62,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling wisselkoers en consume
 
 De koers bedraagt NLG 1,113=0,505
 
-## Bijlage I. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=1&z=2021-07-01&g=2020-01-01) Vaststelling wisselkoers surinaamse pensioenen
+## Bijlage I. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=1&z=2020-09-10&g=2020-09-10) Vaststelling wisselkoers surinaamse pensioenen
 
 De koers bedraagt NLG 1,113=0,505
 
@@ -70,23 +70,23 @@ Gelet op [artikel 3, vierde lid, van de Garantiewet Surinaamse pensioenen](https
 
 Besluit:
 
-## Bijlage II. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=2&z=2021-07-01&g=2020-01-01)
+## Bijlage II. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039311&artikel=2&z=2020-09-10&g=2020-09-10)
 
-Consumentenprijsindex Surinaamse pensioenen over de periode januari 2018 tot en met december 2018, waaronder de voor de teller van de in [artikel 3, eerste lid, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) bedoelde breuk gehanteerde consumentenprijsindex van de maand juli van het jaar daaraan voorafgaand.
+Consumentenprijsindex Surinaamse pensioenen over de periode januari 2019 tot en met december 2019, waaronder de voor de teller van de in [artikel 3, eerste lid, van de Garantiewet Surinaamse pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=3) bedoelde breuk gehanteerde consumentenprijsindex van de maand juli van het jaar daaraan voorafgaand.
 
-|   | 2017 | 2018 |
+|   | **2018** | **2019** |
 | --- | --- | --- |
-| **jan** | 277,3 | 281,3 |
-| **feb** | 279,3 | 282,7 |
-| **mrt** | 280,3 | 283,1 |
-| **apr** | 281,8 | 284,9 |
-| **mei** | 280,8 | 285,7 |
-| **jun** | 280,1 | 284,8 |
-| **jul** | 282,1 | 288,1 |
-| **aug** | 282,6 | 289 |
-| **sep** | 281,9 | 285,9 |
-| **okt** | 282,3 | 288,2 |
-| **nov** | 281,8 | 287,5 |
-| **dec** | 281,7 | 287,3 |
+| **jan** | 281,3 | 287,5 |
+| **feb** | 282,7 | 290 |
+| **mrt** | 283,1 | 291,1 |
+| **apr** | 284,9 | 293,1 |
+| **mei** | 285,7 | 292,7 |
+| **jun** | 284,8 | 292,4 |
+| **jul** | 288,1 | 295,3 |
+| **aug** | 289 | 296,6 |
+| **sep** | 285,9 | 294,8 |
+| **okt** | 288,2 | 296,1 |
+| **nov** | 287,5 | 294,9 |
+| **dec** | 287,3 | 295,1 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
