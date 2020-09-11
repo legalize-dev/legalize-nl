@@ -4,7 +4,7 @@ identifier: "BWBR0035647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-26"
-last_updated: "2020-01-01"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035647"
 soort: "ministeriele-regeling"
@@ -50,19 +50,21 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Mandaat
 
-Aan de volgende functionarissen worden de aan het hoofd van de Scheepvaartinspectie geattribueerde bevoegdheden, voor zover die behoren bij hun taken, in mandaat verleend:
+1. Aan de volgende functionarissen worden de aan het hoofd van de Scheepvaartinspectie geattribueerde bevoegdheden, voor zover die behoren bij hun taken, in mandaat verleend:
 
-- a. de directeur en afdelingshoofden ILT/Scheepvaart;
+- a. de directeur Omgeving en dienstverlening en de directeur Toezicht en opsporing, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend);
 
-- b. de inspecteurs ILT/Scheepvaart;
+- b. de afdelingshoofden van de afdeling Vergunningverlening ondersteuning en afhandeling, van de afdeling Vergunningverlening leefomgeving en scheepvaart en van de afdeling Toezicht veilige mobiliteit, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend);
 
-- c. de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- c. de teamleiders en de inspecteurs ILT van het team OA Scheepvaart van de afdeling Vergunningverlening ondersteuning en afhandeling, van het team Scheepvaart binnendienst en van het team Visserij en scheepsmetingen van de afdeling Vergunningverlening leefomgeving en scheepvaart en van het team Maritiem internationaal van de afdeling Toezicht veilige mobiliteit, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend), en
 
-- d. de daartoe door het hoofd van de Scheepvaartinspectie aangewezen functionarissen van het team Juridische Zaken/ILT.
+- d. de scheepvaartinspecteurs, werkzaam bij de Rijksdienst Caribisch Nederland in de openbare lichamen Bonaire, Sint- Eustatius en Saba.
+
+2. Aan de daartoe door het hoofd van de Scheepvaartinspectie aangewezen functionarissen van de afdeling Juridische zaken, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020 behorende bijlage](onbekend), wordt machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften, hoger beroepschriften en het voeren van procedures bij de rechter over op grond van dit besluit in mandaat genomen besluiten.
 
 ##### Artikel 3. Omvang mandaat
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2014-07-18&g=2020-01-01) is niet van toepassing op het vaststellen, wijzigen of intrekken van beleidsregels en het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet openbaarheid van bestuur.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2020-09-11&g=2020-09-11) is niet van toepassing op het vaststellen, wijzigen of intrekken van beleidsregels en het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet openbaarheid van bestuur.
 
 ##### Artikel 4. Volmacht en machtiging
 
@@ -82,7 +84,7 @@ Voor toepassing van dit besluit en de daarop rustende bepalingen wordt met de ve
 
 ##### Artikel 6. Wijze van ondertekening
 
-In geval van mandaat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2014-07-18&g=2020-01-01) luidt de ondertekening als volgt:
+In geval van mandaat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035647&artikel=2&z=2020-09-11&g=2020-09-11) luidt de ondertekening als volgt:
 
 HET HOOFD VAN DE SCHEEPVAARTINSPECTIE,
 
