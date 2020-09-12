@@ -4,7 +4,7 @@ identifier: "BWBR0044076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-12"
-last_updated: "2019-03-01"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044076"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Besluit:
 
 - b. die niet geplaatst zijn op een functie waaraan de categorie 13A4 of 13A5 is toegekend, maar wel aantoonbaar als nevenarbeid operationele luchtverkeersleidingtaken uitoefenen.
 
-2. Een TTLVL, ter hoogte van het bedrag (bruto per maand) in de van toepassing zijnde [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=A&z=2020-09-12&g=2019-03-01), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=B&z=2020-09-12&g=2019-03-01) of [C](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=C&z=2020-09-12&g=2019-03-01) behorend bij dit besluit, wordt toegekend aan assistent luchtverkeerleiders van het Commando luchtstrijdkrachten behorende tot de vakgroep 13A3 Onderofficieren Luchtverkeersleiding die de initiële opleiding tot assistent luchtverkeersleider succesvol hebben afgerond en
+2. Een TTLVL, ter hoogte van het bedrag (bruto per maand) in de van toepassing zijnde [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=A&z=2020-09-12&g=2020-09-12), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=B&z=2020-09-12&g=2020-09-12) of [C](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&bijlage=C&z=2020-09-12&g=2020-09-12) behorend bij dit besluit, wordt toegekend aan assistent luchtverkeerleiders van het Commando luchtstrijdkrachten behorende tot de vakgroep 13A3 Onderofficieren Luchtverkeersleiding die de initiële opleiding tot assistent luchtverkeersleider succesvol hebben afgerond en
 
 - a. geplaatst zijn op een functie waaraan de categorie 13A3 is toegekend;
 
@@ -71,7 +71,7 @@ Besluit:
 
 ##### Artikel 2. Toelage naar evenredigheid
 
-De TTLVL bedoeld in [artikel 1, eerste lid onder b, tweede lid onder b en derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&artikel=1&z=2020-09-12&g=2019-03-01), wordt naar evenredigheid van de opgedragen omvang van de nevenarbeid toegekend.
+De TTLVL bedoeld in [artikel 1, eerste lid onder b, tweede lid onder b en derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&artikel=1&z=2020-09-12&g=2020-09-12), wordt naar evenredigheid van de opgedragen omvang van de nevenarbeid toegekend.
 
 ##### Artikel 3. Inwerkingtreding
 
