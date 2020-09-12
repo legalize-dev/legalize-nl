@@ -4,7 +4,7 @@ identifier: "BWBR0044075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2018-01-01"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044075"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ entry_into_force: "2020-09-12"
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 3 van het Besluit benoeming en vergoeding voorzitter Adviescollege levenslanggestraften](https://wetten.overheid.nl/jci1.3:c:BWBR0039401&artikel=3) vervalt.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044075&artikel=1&z=2020-09-12&g=2020-09-12) werkt terug tot en met 1 januari 2018.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Vergoedingenbesluit Adviescollege levenslanggestraften.
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 11 van het Besluit Adviescollege levenslanggestraften](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=11);
 
