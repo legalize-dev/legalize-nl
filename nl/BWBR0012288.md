@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2020-08-06"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -6958,6 +6958,68 @@ Geen bijzonderheden.
 Vervallen
 
 ### 29.7. Vertrekmoratorium
+
+## Bijlage
+
+Vervallen
+
+### 30. Het asielbeleid ten aanzien van Venezuela
+
+### 30.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
+### 30.2. Artikel 1F Vluchtelingenverdrag
+
+Geen bijzonderheden.
+
+### 30.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+### 30.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+Geen bijzonderheden.
+
+### 30.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+De IND merkt de volgende groepen aan als risicogroep:
+
+### 30.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+
+### 30.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+### 30.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+### 30.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+### 30.5. Bescherming
+
+### 30.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+
+De IND neemt aan dat het niet mogelijk is bescherming te verkrijgen van de autoriteiten of internationale organisaties, tenzij sprake is van evidente, concrete en individualiseerbare aanknopingspunten op basis waarvan kan worden aangenomen dat het verkrijgen van bescherming mogelijk is.
+
+### 30.5.2. Binnenlands beschermingsalternatief in de zin van paragraaf C2/3.4 Vc
+
+De IND neemt aan dat er geen binnenlands beschermingsalternatief aanwezig is indien de vreemdeling in de negatieve belangstelling staat van de (centrale) autoriteiten, daaraan gelieerde gewapende groepen, colectivos of soortgelijke gewapende groepen, tenzij sprake is van evidente, concrete en individualiseerbare aanknopingspunten op basis waarvan kan worden aangenomen dat de vreemdeling zich elders in Venezuela kan vestigen.
+
+### 30.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+
+Voor Venezuela geldt in ieder geval dat:
+
+### 30.7. Vertrekmoratorium
+
+Geen bijzonderheden.
+
+### 30.8. Bijzonderheden
+
+Geen bijzonderheden.
 
 ## Bijlage
 
