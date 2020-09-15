@@ -4,7 +4,7 @@ identifier: "BWBR0031219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-15"
-last_updated: "2019-11-26"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031219"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ Komen het volgende overeen:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de ministers:** de Minister van Justitie van Curaçao, de Minister van Justitie van Sint Maarten en de Minister van Veiligheid en Justitie van Nederland;
+- a. **de ministers:** de Minister van Justitie, Veiligheid en Integratie van Aruba, de Minister van Justitie van Curaçao, de Minister van Justitie van Sint Maarten en de Minister van Justitie en Veiligheid van Nederland;
 
 - b. **ICT-voorziening:** de door het Plan Veiligheid Nederlandse Antillen en de beheerorganisatie opgeleverde, alsmede in de toekomst te verwerven centrale computer infrastructuur, programmatuur en decentrale voorzieningen;
 
-- c. **landen:** Curaçao, Sint Maarten en Nederland voor zover het Bonaire, Sint Eustatius en Saba betreft.
+- c. **landen:** Aruba, Curaçao, Sint Maarten en Nederland voor zover het Bonaire, Sint Eustatius en Saba betreft.
 
 ##### Artikel 2
 
@@ -124,13 +124,13 @@ De eigendom van de hardware en de software van de ICT-voorziening, inclusief de 
 
 ##### Artikel 7
 
-1. De beheerder stelt vóór 15 maart van het aan het begrotingsjaar voorafgaande jaar een ontwerpjaarplan met een daarbij behorende ontwerpbegroting op. De ontwerpbegroting gaat vergezeld van een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren. Hij zendt de ontwerpbegroting en het ontwerpjaarplan zonodig door tussenkomst van het bestuur van de rechtspersoon bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031219&artikel=4&z=2019-11-26&g=2019-11-26), ter vaststelling toe aan de ministers.
+1. De beheerder stelt vóór 15 maart van het aan het begrotingsjaar voorafgaande jaar een ontwerpjaarplan met een daarbij behorende ontwerpbegroting op. De ontwerpbegroting gaat vergezeld van een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren. Hij zendt de ontwerpbegroting en het ontwerpjaarplan zonodig door tussenkomst van het bestuur van de rechtspersoon bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031219&artikel=4&z=2020-09-15&g=2020-09-15), ter vaststelling toe aan de ministers.
 
 2. De ministers stellen het jaarplan van de beheerorganisatie vast met inachtneming van de in het eerste lid bedoelde begroting.
 
 ##### Artikel 8
 
-1. De beheerder dient jaarlijks zonodig door tussenkomst van het bestuur van de rechtspersoon bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031219&artikel=4&z=2019-11-26&g=2019-11-26), vóór 1 april bij de ministers een jaarverslag in over de beheerorganisatie. Het jaarverslag bevat een verantwoording over de activiteiten, de doelstellingen en de prestatieafspraken zoals neergelegd in het jaarplan. Het jaarverslag bevat tevens de jaarrekening met bijbehorende begroting en overige financiële gegevens van het daaraan voorafgaande jaar.
+1. De beheerder dient jaarlijks zonodig door tussenkomst van het bestuur van de rechtspersoon bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031219&artikel=4&z=2020-09-15&g=2020-09-15), vóór 1 april bij de ministers een jaarverslag in over de beheerorganisatie. Het jaarverslag bevat een verantwoording over de activiteiten, de doelstellingen en de prestatieafspraken zoals neergelegd in het jaarplan. Het jaarverslag bevat tevens de jaarrekening met bijbehorende begroting en overige financiële gegevens van het daaraan voorafgaande jaar.
 
 2. Het jaarverslag gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de beheerder in overeenstemming met de ministers aangewezen accountant.
 
@@ -152,7 +152,7 @@ Deze regeling treedt voor Curaçao en Nederland in werking met ingang van de eer
 
 ##### Artikel 12
 
-Deze onderlinge regeling wordt aangehaald als: Samenwerkingsregeling ICT rechtshandhavingketen Curaçao, Sint Maarten en Nederland.
+Deze onderlinge regeling wordt aangehaald als: Samenwerkingsregeling ICT rechtshandhavingketen Aruba, Curaçao, Sint Maarten en Nederland.
 
 ## Bijlage
 
