@@ -4,7 +4,7 @@ identifier: "BWBR0044083"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-09-16"
-last_updated: "2020-01-01"
+last_updated: "2020-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044083"
 soort: "zbo"
@@ -45,4 +45,8 @@ Wijzigt het Besluit Normbedragen Voorzieningen UWV 2020.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin dit besluit is geplaatst. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0044083&artikel=I&z=2020-09-16&g=2020-09-16) werkt terug tot en met 1 juli 2019, [artikel II onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044083&artikel=II&z=2020-09-16&g=2020-09-16) werkt terug tot en met 1 juli 2020 en artikel II onderdeel B werkt terug tot en met 1 januari 2020.
+
+Besluit:
+
+Dit besluit wordt met de toelichting en de aangepaste bijlage in de Staatscourant geplaatst.
