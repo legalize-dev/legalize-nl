@@ -4,7 +4,7 @@ identifier: "BWBR0043347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-23"
-last_updated: "2020-04-01"
+last_updated: "2020-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043347"
 soort: "ministeriele-regeling"
@@ -265,7 +265,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | Artikel 10, eerste lid, onderdeel c | Wind op primaire waterkering, ≥ 7,0 en < 7,5 m/s | € 0,037 per kWh | € 0 per kWh |
 | Artikel 10, eerste lid, onderdeel d | Wind op primaire waterkering, > 7,0 m/s | € 0,037 per kWh | € 0 per kWh |
 | [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=12) | Wind in meer | € 0,037 per kWh | € 0 per kWh |
-| [Artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=14) | Zon PV ≥ 15 kWp en < 1MWp aansluiting >3*80A | € 0,037 per kWh | € 0 per kWh |
+| [Artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=14) | Zon PV ≥ 15 kWp en < 1MWp aansluiting >3*80A | € 0,036 per kWh | € 0 per kWh |
 | Artikel 14, onderdeel b | Zon PV ≥ 1 MWp en aansluiting >3*80A | € 0,036 per kWh | € 0 per kWh |
 | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=16) | Osmose | € 0,041 per kWh | € 0 per kWh |
 | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=18) | Vrije stromingsenergie, valhoogte < 50 cm en golfenergie | € 0,041 per kWh | € 0 per kWh |
