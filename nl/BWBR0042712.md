@@ -4,7 +4,7 @@ identifier: "BWBR0042712"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-02"
-last_updated: "2019-10-31"
+last_updated: "2020-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042712"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 5
 
-1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4) en [3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=1&z=2019-10-31&g=2019-10-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=2&z=2019-10-31&g=2019-10-31).
+1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4) en [3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=1&z=2020-09-24&g=2020-09-24) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=2&z=2020-09-24&g=2020-09-24).
 
 2. Bij de indeling van verzekerden bij de klassen van het vereveningscriterium MHK laat het Zorginstituut de kosten van verpleging en verzorging buiten beschouwing.
 
@@ -82,7 +82,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 6
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=1&z=2019-10-31&g=2019-10-31), tabellen 1.2, 1.3, 1.4, 1.5 en 1.11, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=2&z=2019-10-31&g=2019-10-31), tabellen 2.2 en 2.3, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ’Geen FDG’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=1&z=2020-09-24&g=2020-09-24), tabellen 1.2, 1.3, 1.4, 1.5 en 1.11, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=2&z=2020-09-24&g=2020-09-24), tabellen 2.2 en 2.3, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ’Geen FDG’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
 
 ##### Artikel 7
 
@@ -94,9 +94,9 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoo
 
 ##### Artikel 8
 
-1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door per verzekerde van achttien jaar en ouder, met uitzondering van verzekerden, bedoeld in [artikel 24 van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24)t, de geraamde opbrengst van het verplicht eigen risico te bepalen en vervolgens de geraamde opbrengsten per zorgverzekeraar te sommeren.
+1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door per verzekerde van achttien jaar en ouder, met uitzondering van verzekerden als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), de geraamde opbrengst van het verplicht eigen risico te bepalen en vervolgens de geraamde opbrengsten per zorgverzekeraar te sommeren.
 
-2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder de klasse ‘Geen FKG’, als onder de klassen ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ‘Geen MVV’ en ‘Geen FDG’ vallen en niet worden ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, AVI, regio en MHK en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=4&z=2019-10-31&g=2019-10-31) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
+2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder de klasse ‘Geen FKG’, als onder de klassen ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ‘Geen MVV’ en ‘Geen FDG’ vallen en niet worden ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, AVI, regio en MHK en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=4&z=2020-09-24&g=2020-09-24) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
 
 3. De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 359,53 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.
 
@@ -172,9 +172,9 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoo
 
 ##### Artikel 11
 
-1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=12&z=2019-10-31&g=2019-10-31) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’ en ‘kosten van geneeskundige geestelijke gezondheidszorg’ de relevante deelbedragen.
+1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=12&z=2020-09-24&g=2020-09-24) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’ en ‘kosten van geneeskundige geestelijke gezondheidszorg’ de relevante deelbedragen.
 
-2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties en van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘variabele zorgkosten’ past het Zorginstituut de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=1&z=2019-10-31&g=2019-10-31) toe. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ past het Zorginstituut de gewichten in de tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=3&z=2019-10-31&g=2019-10-31) toe.
+2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties en van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘variabele zorgkosten’ past het Zorginstituut de gewichten in de tabellen van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=5&z=2020-09-24&g=2020-09-24) toe. Voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ past het Zorginstituut de gewichten in de tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=3&z=2020-09-24&g=2020-09-24) toe.
 
 3. De gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium worden voor de hiernavolgende criteria aan de hand van realisatiecijfers over de volgende jaren berekend:
 
@@ -210,15 +210,15 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoo
 
 - p. MVV: 2017, 2018 en 2019.
 
-4. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht van de klasse ‘Geen FKG’ zodanig dat het voor de klassen ‘Auto-immuunziekten o.b.v. add-on’, ‘Kanker o.b.v. add-on’, ‘Groeistoornissen o.b.v. add-on’, ‘Immunoglobuline o.b.v. add-on’, ‘COPD/Zware astma o.b.v. add-on’, ‘Extreem hoge kosten cluster 1’, ‘Extreem hoge kosten cluster 2’ en ‘Extreem hoge kosten cluster 3’ gesommeerde verschil tussen de vermenigvuldiging van het gerealiseerde aantal verzekerden met het gewicht in tabel 1.2 en de vermenigvuldiging van het bij toekenning van de vereveningsbijdrage verwachte aantal verzekerden met het gewicht in tabel 1.2, teniet wordt gedaan. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
+4. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht van de klasse ‘Geen FKG’ zodanig dat het voor de klassen ‘Auto-immuunziekten o.b.v. add-on’, ‘Kanker o.b.v. add-on’, ‘Groeistoornissen o.b.v. add-on’, ‘Immunoglobuline o.b.v. add-on’, ‘COPD/Zware astma o.b.v. add-on’, ‘Extreem hoge kosten cluster 1’, ‘Extreem hoge kosten cluster 2’ en ‘Extreem hoge kosten cluster 3’ gesommeerde verschil tussen de vermenigvuldiging van het gerealiseerde aantal verzekerden met het gewicht in tabel 5.2 en de vermenigvuldiging van het bij toekenning van de vereveningsbijdrage verwachte aantal verzekerden met het gewicht in tabel 5.2, teniet wordt gedaan. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
 
-5. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht voor elke klasse van de vereveningscriteria primaire DKG’s en secundaire DKG’s zodanig dat per klasse het resultaat van de vermenigvuldiging van het herberekende gewicht met het gerealiseerde aantal verzekerden gelijk is aan het resultaat van de vermenigvuldiging van het gewicht in tabel 1.3 respectievelijk tabel 1.4 met het bij toekenning van de vereveningsbijdragen verwachte aantal verzekerden. Het Zorginstituut rondt de herberekende gewichten af op twee decimalen.
+5. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht voor elke klasse van de vereveningscriteria primaire DKG’s en secundaire DKG’s zodanig dat per klasse het resultaat van de vermenigvuldiging van het herberekende gewicht met het gerealiseerde aantal verzekerden gelijk is aan het resultaat van de vermenigvuldiging van het gewicht in tabel 5.3 respectievelijk tabel 5.4 met het bij toekenning van de vereveningsbijdragen verwachte aantal verzekerden. Het Zorginstituut rondt de herberekende gewichten af op twee decimalen.
 
-6. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht voor de klasse ‘Geen MHK’ zodanig dat het voor de klassen ‘3 voorafgaande jaren variabele zorgkosten in top 4 procent’, ‘3 voorafgaande jaren variabele zorgkosten in top 1,5 procent’ en ‘3 voorafgaande jaren variabele zorgkosten in top 0,5 procent’ gesommeerde verschil tussen de vermenigvuldiging van het gerealiseerde aantal verzekerden met het gewicht in tabel 1.10 en de vermenigvuldiging van het bij toekenning van de vereveningsbijdrage verwachte aantal verzekerden met het gewicht in tabel 1.10, teniet wordt gedaan. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
+6. In afwijking van het tweede lid herberekent het Zorginstituut het gewicht voor de klasse ‘Geen MHK’ zodanig dat het voor de klassen ‘3 voorafgaande jaren variabele zorgkosten in top 4 procent’, ‘3 voorafgaande jaren variabele zorgkosten in top 1,5 procent’ en ‘3 voorafgaande jaren variabele zorgkosten in top 0,5 procent’ gesommeerde verschil tussen de vermenigvuldiging van het gerealiseerde aantal verzekerden met het gewicht in tabel 5.10 en de vermenigvuldiging van het bij toekenning van de vereveningsbijdrage verwachte aantal verzekerden met het gewicht in tabel 5.10, teniet wordt gedaan. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
 
 7. In afwijking van het tweede lid, herberekent het Zorginstituut het gewicht van de klasse ‘Geen DKG psychische aandoeningen’ zodanig dat voor het criterium DKG’s psychische aandoeningen de gesommeerde resultaten van de vermenigvuldiging van de gewichten met het gerealiseerde aantal verzekerden, nul bedragen. Het Zorginstituut rondt het herberekende gewicht af op twee decimalen.
 
-8. Het Zorginstituut gebruikt bij de herberekening, bedoeld in het eerste lid, de referentiebestanden, bedoeld in [artikel 9, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=9&z=2019-10-31&g=2019-10-31).
+8. Het Zorginstituut gebruikt bij de herberekening, bedoeld in het eerste lid, de referentiebestanden, bedoeld in [artikel 9, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=9&z=2020-09-24&g=2020-09-24).
 
 ##### Artikel 12
 
@@ -246,7 +246,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoo
 
 ##### Artikel 15
 
-1. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), per instelling voor medisch-specialistisch zorg voor 100 procent minus het door hem op basis van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=14&z=2019-10-31&g=2019-10-31), vastgestelde percentage, aan als kosten van het cluster ‘vaste zorgkosten’.
+1. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), per instelling voor medisch-specialistisch zorg voor 100 procent minus het door hem op basis van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=14&z=2020-09-24&g=2020-09-24), vastgestelde percentage, aan als kosten van het cluster ‘vaste zorgkosten’.
 
 2. Het Zorginstituut merkt de kosten van de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
@@ -268,17 +268,21 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoo
 
 - e. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals herberekend door hierbij het resultaat van onderdeel c op te tellen en vervolgens te verminderen met het resultaat van onderdeel d.
 
-2. Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in [artikel 3.20, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.20), de toepassing van hogekostencompensatie achterwege laten. Het Zorginstituut past dan in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2019-10-31&g=2019-10-31), voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ de gewichten in de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=2&z=2019-10-31&g=2019-10-31) toe.
+2. Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in [artikel 3.20, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.20), de toepassing van hogekostencompensatie achterwege laten. Het Zorginstituut past dan in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2020-09-24&g=2020-09-24), voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ de gewichten in de tabellen van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=7&z=2020-09-24&g=2020-09-24) toe.
 
 ##### Artikel 17
 
-1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=7&z=2019-10-31&g=2019-10-31), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
+1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=7&z=2020-09-24&g=2020-09-24), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
 
-2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=8&z=2019-10-31&g=2019-10-31), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal verzekerden van achttien jaar en ouder verminderd met het gerealiseerde aantal verzekerden, bedoeld in [artikel 24, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
+2. Het Zorginstituut berekent de opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), door per verzekerde van achttien jaar en ouder, met uitzondering van verzekerden als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), de opbrengst van het verplicht eigen risico te bepalen en vervolgens de opbrengsten per zorgverzekeraar te sommeren.
+
+3. Het Zorginstituut gaat voor de bepaling van de opbrengst per verzekerde, bedoeld in het tweede lid, voor verzekerden van achttien jaar of ouder die zowel onder de klasse ‘Geen FKG’, als onder de klassen ‘Geen primaire DKG’, ‘Geen secundaire DKG’, ‘Geen HKG’, ‘Geen MVV’ en ‘Geen FDG’ vallen en niet worden ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, uit van de gerealiseerde verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, AVI, regio en MHK en van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=6&z=2020-09-24&g=2020-09-24) genoemde gewichten. Hierbij wordt de in de bijlage 6 aangegeven klassenindeling van de criteria aangehouden.
+
+4. De opbrengst per verzekerde, bedoeld in het tweede lid, bedraagt € 359,91 voor verzekerden van achttien jaar en ouder waarop het derde lid, niet van toepassing is.
 
 ##### Artikel 18
 
-De [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=6&z=2019-10-31&g=2019-10-31) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=9&z=2019-10-31&g=2019-10-31) zijn van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar met dien verstande dat bij toepassing van hogekostencompensatie een verzekerde die in het buitenland woont, in afwijking van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=3&z=2019-10-31&g=2019-10-31), tabellen 3.2 en 3.3, wordt ingedeeld in ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’.
+De [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=6&z=2020-09-24&g=2020-09-24) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=9&z=2020-09-24&g=2020-09-24) zijn van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar met dien verstande dat bij toepassing van hogekostencompensatie een verzekerde die in het buitenland woont, in afwijking van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&bijlage=3&z=2020-09-24&g=2020-09-24), tabellen 3.2 en 3.3, wordt ingedeeld in ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -302,9 +306,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling risicoverevening 2020.
 
-## Bijlage 1. Normbedragen vereveningsmodel variabele zorgkosten (behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2019-10-31&g=2019-10-31) van de Regeling risicoverevening 2020)
+## Bijlage 1. Normbedragen vereveningsmodel variabele zorgkosten (behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24) van de Regeling risicoverevening 2020)
 
-De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgkosten’. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar [(artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31)) en vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2019-10-31&g=2019-10-31)).
+De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgkosten’. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar [(artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24)).
 
 |   |   | Variabele zorgkosten |
 | --- | --- | --- |
@@ -552,11 +556,11 @@ De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgko
 | Gesommeerde kosten V&V 3 voorafgaande jaren in top 0,25 procent | 30979.61 |
 | Kosten V&V voorafgaand jaar in top 0,25%; 0–17 jaar | 68284.87 |
 
-## Bijlage 2. Normbedragen vereveningsmodel geneeskundige GGZ (behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31), van de Regeling risicoverevening 2020)
+## Bijlage 2. Normbedragen vereveningsmodel geneeskundige GGZ (behorende bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24), van de Regeling risicoverevening 2020)
 
 De bijlage betreft de kosten van zorg behorende tot het cluster ‘geneeskundige geestelijke gezondheidszorg’.
 
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2019-10-31&g=2019-10-31)). De gewichten bevatten geen correctie voor hogekostencompensatie.
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=5&z=2020-09-24&g=2020-09-24)). De gewichten bevatten geen correctie voor hogekostencompensatie.
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
@@ -710,185 +714,169 @@ De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzeke
 
 * Voor verzekerden jonger dan 24 jaar: ten minste 1 van de 5 voorafgaande jaren.
 
-## Bijlage 3. Normbedragen vereveningsmodel geneeskundige GGZ bij toepassing van hogekostencompensatie (behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2019-10-31&g=2019-10-31), van de Regeling risicoverevening 2020)
+## Bijlage 3. Normbedragen vereveningsmodel geneeskundige GGZ bij toepassing van hogekostencompensatie (behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2020-09-24&g=2020-09-24), van de Regeling risicoverevening 2020)
 
 De bijlage betreft de kosten van zorg behorende tot het cluster ‘geneeskundige geestelijke gezondheidszorg’.
 
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2019-10-31&g=2019-10-31)). De gewichten bevatten een correctie voor hogekostencompensatie.
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2020-09-24&g=2020-09-24)). De gewichten bevatten een correctie voor hogekostencompensatie.
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
-| Mannen | 18–24 jaar | 340.50 |
-|   | 25–29 jaar | 332.54 |
-|   | 30–34 jaar | 319.44 |
-|   | 35–39 jaar | 312.07 |
-|   | 40–44 jaar | 294.23 |
-|   | 45–49 jaar | 271.03 |
-|   | 50–54 jaar | 266.25 |
-|   | 55–59 jaar | 249.80 |
-|   | 60–64 jaar | 249.80 |
-|   | 65–69 jaar | 243.16 |
-|   | 70–74 jaar | 252.07 |
-|   | 75–79 jaar | 252.07 |
-|   | 80–84 jaar | 243.76 |
-|   | 85–89 jaar | 243.76 |
-|   | 90+ jaar | 243.76 |
-| Vrouwen en onbepaald geslacht | 18–24 jaar | 422.17 |
-|   | 25–29 jaar | 387.21 |
-|   | 30–34 jaar | 348.43 |
-|   | 35–39 jaar | 333.49 |
-|   | 40–44 jaar | 313.22 |
-|   | 45–49 jaar | 286.06 |
-|   | 50–54 jaar | 275.31 |
-|   | 55–59 jaar | 249.80 |
-|   | 60–64 jaar | 249.80 |
-|   | 65–69 jaar | 243.16 |
-|   | 70–74 jaar | 252.07 |
-|   | 75–79 jaar | 252.07 |
-|   | 80–84 jaar | 243.76 |
-|   | 85–89 jaar | 243.76 |
-|   | 90+ jaar | 243.76 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| Mannen | 18-24 jaar | 340.29 |
+|   | 25-29 jaar | 332.44 |
+|   | 30-34 jaar | 319.49 |
+|   | 35-39 jaar | 312.07 |
+|   | 40-44 jaar | 294.16 |
+|   | 45-49 jaar | 270.98 |
+|   | 50-54 jaar | 266.24 |
+|   | 55-59 jaar | 249.86 |
+|   | 60-64 jaar | 249.86 |
+|   | 65-69 jaar | 243.17 |
+|   | 70-74 jaar | 252.18 |
+|   | 75-79 jaar | 252.18 |
+|   | 80-84 jaar | 243.85 |
+|   | 85-89 jaar | 243.85 |
+|   | 90+ jaar | 243.85 |
+| Vrouwen en onbepaald geslacht | 18-24 jaar | 422.09 |
+|   | 25-29 jaar | 387.22 |
+|   | 30-34 jaar | 348.39 |
+|   | 35-39 jaar | 333.50 |
+|   | 40-44 jaar | 313.26 |
+|   | 45-49 jaar | 286.02 |
+|   | 50-54 jaar | 275.19 |
+|   | 55-59 jaar | 249.86 |
+|   | 60-64 jaar | 249.86 |
+|   | 65-69 jaar | 243.17 |
+|   | 70-74 jaar | 252.18 |
+|   | 75-79 jaar | 252.18 |
+|   | 80-84 jaar | 243.85 |
+|   | 85-89 jaar | 243.85 |
+|   | 90+ jaar | 243.85 |
 
 |   | Kosten van geneeskundige GGZ |
 | --- | --- |
-| Geen FKG psychische aandoeningen | –29.58 |
-| ADHD | 163.47 |
-| Verslaving | 303.52 |
-| Angststoornissen | 890.33 |
-| Chronische stemmingsstoornissen | 274.05 |
-| Bipolaire stoornissen regulier | 780.31 |
-| Bipolaire stoornissen complex | 1701.38 |
-| Psychose | 1538.27 |
-| Chronische stemmingsstoornissen complex | 1926.91 |
-| Psychose depot | 3714.17 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| Geen FKG psychische aandoeningen | –29.55 |
+| ADHD | 163.09 |
+| Verslaving | 304.69 |
+| Angststoornissen | 891.76 |
+| Chronische stemmingsstoornissen | 273.19 |
+| Bipolaire stoornissen regulier | 777.36 |
+| Bipolaire stoornissen complex | 1693.66 |
+| Psychose | 1539.73 |
+| Chronische stemmingsstoornissen complex | 1921.70 |
+| Psychose depot | 3717.15 |
 
 |   | Kosten van geneeskundige GGZ |
 | --- | --- |
-| Geen DKG psychische aandoeningen | –122.12 |
-| 1 (gebruik basis GGZ in het voorgaande jaar) | 284.59 |
-| 2 | 476.33 |
-| 3 | 1012.57 |
-| 4 | 1851.77 |
-| 5 | 3972.33 |
-| 6 | 4938.10 |
-| 7 | 5203.31 |
-| 8 | 7521.85 |
-| 9 | 10876.88 |
-| 10 | 11643.87 |
-| 11 | 16790.39 |
-| 12 | 19936.97 |
-| 13 | 30497.27 |
-| 14 | 28055.01 |
-| 15 | 35354.68 |
-| 16 | 36620.29 |
-| 17 | 59772.98 |
-| 18 | 30550.44 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| Geen DKG psychische aandoeningen | –122.33 |
+| 1 (gebruik basis GGZ in het voorgaande jaar) | 283.74 |
+| 2 | 473.35 |
+| 3 | 1010.44 |
+| 4 | 1848.25 |
+| 5 | 3961.98 |
+| 6 | 4927.25 |
+| 7 | 5192.12 |
+| 8 | 7502.55 |
+| 9 | 10854.31 |
+| 10 | 11616.56 |
+| 11 | 16745.97 |
+| 12 | 19896.10 |
+| 13 | 30396.50 |
+| 14 | 27999.17 |
+| 15 | 35280.91 |
+| 16 | 36509.02 |
+| 17 | 59751.13 |
+| 18 | 30478.42 |
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
 |   | 70+ jaar | 0.00 |
-| Duurzaam en volledig arbeidsongeschikten (IVA) | 18–34 jaar | 289.61 |
-|   | 35–44 jaar | 23.42 |
-|   | 45–54 jaar | –23.09 |
-|   | 55–64 jaar | –6.64 |
-|   | 65–69 jaar | 0.00 |
-| Arbeidsongeschikten excl. IVA | 18–34 jaar | 353.03 |
-|   | 35–44 jaar | 386.82 |
-|   | 45–54 jaar | 143.26 |
-|   | 55–64 jaar | 51.67 |
-|   | 65–69 jaar | 0.00 |
-| Bijstandsgerechtigden | 18–34 jaar | 353.10 |
-|   | 35–44 jaar | 157.48 |
-|   | 45–54 jaar | 69.31 |
-|   | 55–64 jaar | 17.05 |
-|   | 65–69 jaar | 0.00 |
-| Studenten | 18–34 jaar | –54.90 |
-| Zelfstandigen | 18–34 jaar | –62.99 |
-|   | 35–44 jaar | –51.06 |
-|   | 45–54 jaar | –23.09 |
-|   | 55–64 jaar | –6.64 |
-|   | 65–69 jaar | 0.00 |
-| Hoogopgeleiden | 18–34 jaar | –62.02 |
-|   | 35–44 jaar | –40.13 |
-| Referentiegroep | 18–34 jaar | –4.74 |
-|   | 35–44 jaar | –18.66 |
-|   | 45–54 jaar | –12.54 |
-|   | 55–64 jaar | –6.64 |
-|   | 65–69 jaar | 0.00 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| Duurzaam en volledig arbeidsongeschikten (IVA) | 18-34 jaar | 295.08 |
+|   | 35-44 jaar | 25.23 |
+|   | 45-54 jaar | –23.08 |
+|   | 55-64 jaar | –6.69 |
+|   | 65-69 jaar | 0.00 |
+| Arbeidsongeschikten excl. IVA | 18-34 jaar | 354.07 |
+|   | 35-44 jaar | 387.93 |
+|   | 45-54 jaar | 143.09 |
+|   | 55-64 jaar | 51.60 |
+|   | 65-69 jaar | 0.00 |
+| Bijstandsgerechtigden | 18-34 jaar | 352.20 |
+|   | 35-44 jaar | 156.83 |
+|   | 45-54 jaar | 69.26 |
+|   | 55-64 jaar | 17.98 |
+|   | 65-69 jaar | 0.00 |
+| Studenten | 18-34 jaar | –54.85 |
+| Zelfstandigen | 18-34 jaar | –62.97 |
+|   | 35-44 jaar | –50.99 |
+|   | 45-54 jaar | –23.08 |
+|   | 55-64 jaar | –6.69 |
+|   | 65-69 jaar | 0.00 |
+| Hoogopgeleiden | 18-34 jaar | –62.03 |
+|   | 35-44 jaar | –40.18 |
+| Referentiegroep | 18-34 jaar | –4.78 |
+|   | 35-44 jaar | –18.71 |
+|   | 45-54 jaar | –12.52 |
+|   | 55-64 jaar | –6.69 |
+|   | 65-69 jaar | 0.00 |
 
 |   | Kosten van geneeskundige GGZ |
 | --- | --- |
-| 1 | 73.01 |
-| 2 | 15.25 |
-| 3 | –8.31 |
-| 4 | –10.33 |
-| 5 | –9.57 |
-| 6 | –12.05 |
-| 7 | –12.05 |
-| 8 | –12.05 |
-| 9 | –12.05 |
-| 10 | –12.05 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| 1 | 73.28 |
+| 2 | 15.15 |
+| 3 | –8.42 |
+| 4 | –10.45 |
+| 5 | –9.66 |
+| 6 | –12.02 |
+| 7 | –12.02 |
+| 8 | –12.02 |
+| 9 | –12.02 |
+| 10 | –12.02 |
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
-| 1 (zeer laag) | 18–69 jaar | 12.70 |
+| 1 (zeer laag) | 18–69 jaar | 12.44 |
 |   | 70+ jaar | 15.07 |
-| 2 (laag) | 18–69 jaar | –9.39 |
+| 2 (laag) | 18–69 jaar | – 9.42 |
 |   | 70+ jaar | 1.99 |
-| 3 (midden) | 18–69 jaar | –9.70 |
-|   | 70+ jaar | –8.02 |
-| 4 (hoog) | 18–69 jaar | 7.20 |
-|   | 70+ jaar | –6.64 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| 3 (midden) | 18–69 jaar | – 9.61 |
+|   | 70+ jaar | – 8.01 |
+| 4 (hoog) | 18–69 jaar | 7.31 |
+|   | 70+ jaar | – 6.66 |
 
 |   |   | Kosten van geneeskundige GGZ |
 | --- | --- | --- |
-| Wlz-instelling, blijvend | 18–69 jaar | –34.67 |
-|   | 70–79 jaar | –45.94 |
-|   | 80+ jaar | –37.63 |
-| Wlz-instelling, instromend | 18–69 jaar | 871.49 |
-|   | 70–79 jaar | 430.58 |
-|   | 80+ jaar | 122.06 |
-| Eenpersoonshuishouden | 18–69 jaar | 74.47 |
-|   | 70–79 jaar | 19.35 |
+| Wlz-instelling, blijvend | 18-69 jaar | -34.28 |
+|   | 70-79 jaar | –45.93 |
+|   | 80+ jaar | –37.60 |
+| Wlz-instelling, instromend | 18-69 jaar | 864.63 |
+|   | 70-79 jaar | 427.28 |
+|   | 80+ jaar | 121.88 |
+| Eenpersoonshuishouden | 18-69 jaar | 74.29 |
+|   | 70-79 jaar | 19.37 |
 |   | 80+ jaar | –2.35 |
-| Overig | 18–69 jaar | –12.27 |
-|   | 70–79 jaar | –8.97 |
-|   | 80+ jaar | 0.94 |
-
-* Gewichten inclusief correctie voor hogekostencompensatie.
+| Overig | 18-69 jaar | –12.24 |
+|   | 70-79 jaar | –8.95 |
+|   | 80+ jaar | 0.95 |
 
 |   | Kosten van geneeskundige GGZ |
 | --- | --- |
-| Geen GGZ-MHK | –57.45 |
-| Ten minste 1 van de 3 voorafgaande jaren kosten GGZ in top 98,5 procent met kosten GGZ >10 euro | 200.84 |
-| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 10 promille** | 1294.59 |
-| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 5 promille** | 2859.60 |
-| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 2,5 promille** | 4701.83 |
-| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 1 promille** | 9030.15 |
-| 5 voorafgaande jaren kosten GGZ in top 5 promille | 12714.41 |
-| 5 voorafgaande jaren kosten GGZ in top 2,5 promille | 22391.53 |
+| Geen GGZ-MHK | –57.41 |
+| Ten minste 1 van de 3 voorafgaande jaren kosten GGZ in top 98,5 procent met kosten GGZ >10 euro | 200.24 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 10 promille2 | 1292.58 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 5 promille 2 | 2853.63 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 2,5 promille 2 | 4703.82 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 1 promille 2 | 9075.17 |
+| 5 voorafgaande jaren kosten GGZ in top 5 promille | 12739.63 |
+| 5 voorafgaande jaren kosten GGZ in top 2,5 promille | 22393.06 |
 
-* Gewichten inclusief correctie voor hogekostencompensatie.
+2 Voor verzekerden jonger dan 24 jaar: ten minste 1 van de 5 voorafgaande jaren.
 
-** Voor verzekerden jonger dan 24 jaar: ten minste 1 van de 5 voorafgaande jaren.
-
-## Bijlage 4. Normbedragen vereveningsmodel voor de eigen betalingen ten gevolge van het verplicht eigen risico alleen volwassenen zonder FKG/primaire DKG/secundaire DKG/ HKG/FDG/MVV en niet ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger (behorende bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=8&z=2019-10-31&g=2019-10-31) van de Regeling risicoverevening 2020)
+## Bijlage 4. Normbedragen vereveningsmodel voor de eigen betalingen ten gevolge van het verplicht eigen risico alleen volwassenen zonder FKG/primaire DKG/secundaire DKG/ HKG/FDG/MVV en niet ingedeeld bij MHK-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger (behorende bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=8&z=2020-09-24&g=2020-09-24) van de Regeling risicoverevening 2020)
 
 De bijlage betreft de eigen betalingen ten gevolge van het verplicht eigen risico.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor een zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=8&z=2019-10-31&g=2019-10-31)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=17&z=2019-10-31&g=2019-10-31)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor een zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=2&artikel=8&z=2020-09-24&g=2020-09-24)).
 
 |   |   | Eigen betaling ten gevolge van verplicht eigen risico |
 | --- | --- | --- |
@@ -972,5 +960,506 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de spe
 | --- | --- |
 | Geen MHK | –31.51 |
 | Ten minste 1 van de 3 voorafgaande jaren variabele zorgkosten in top 30 procent | 60.75 |
+
+Deze regeling zal (met toelichting) in de Staatscourant worden geplaatst.
+
+## Bijlage 5. Normbedragen vereveningsmodel variabele zorgkosten (behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2020-09-24&g=2020-09-24), van de Regeling risicoverevening 2020)
+
+De bijlage betreft kosten van zorg behorende tot het cluster ‘variabele zorgkosten’. De gewichten vormen de basis voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=11&z=2020-09-24&g=2020-09-24)).
+
+|   |   | Variabele zorgkosten |
+| --- | --- | --- |
+| Mannen | 0 jaar, geboren in het vereveningsjaar | 9770.34 |
+|   | 0 jaar, geboren in het voorafgaande jaar | 2875.21 |
+|   | 1-4 jaar | 2192.67 |
+|   | 5-9 jaar | 2008.60 |
+|   | 10-14 jaar | 2019.91 |
+|   | 15-17 jaar | 2110.23 |
+|   | 18-24 jaar | 1876.73 |
+|   | 25-29 jaar | 1888.89 |
+|   | 30-34 jaar | 1885.19 |
+|   | 35-39 jaar | 1953.21 |
+|   | 40-44 jaar | 2016.55 |
+|   | 45-49 jaar | 2140.33 |
+|   | 50-54 jaar | 2307.00 |
+|   | 55-59 jaar | 2576.25 |
+|   | 60-64 jaar | 2822.88 |
+|   | 65-69 jaar | 3159.47 |
+|   | 70-74 jaar | 3657.16 |
+|   | 75-79 jaar | 4072.23 |
+|   | 80-84 jaar | 4623.43 |
+|   | 85-89 jaar | 5197.96 |
+|   | 90+ jaar | 6184.69 |
+| Vrouwen en onbepaald geslacht | 0 jaar, geboren in het vereveningsjaar | 8560.80 |
+|   | 0 jaar, geboren in het voorafgaande jaar | 2611.26 |
+|   | 1-4 jaar | 1925.72 |
+|   | 5-9 jaar | 1981.48 |
+|   | 10-14 jaar | 2048.58 |
+|   | 15-17 jaar | 2211.62 |
+|   | 18-24 jaar | 2130.38 |
+|   | 25-29 jaar | 2584.55 |
+|   | 30-34 jaar | 2728.41 |
+|   | 35-39 jaar | 2409.57 |
+|   | 40-44 jaar | 2184.24 |
+|   | 45-49 jaar | 2252.84 |
+|   | 50-54 jaar | 2339.10 |
+|   | 55-59 jaar | 2422.48 |
+|   | 60-64 jaar | 2580.82 |
+|   | 65-69 jaar | 2848.47 |
+|   | 70-74 jaar | 3183.64 |
+|   | 75-79 jaar | 3523.79 |
+|   | 80-84 jaar | 4075.45 |
+|   | 85-89 jaar | 4755.37 |
+|   | 90+ jaar | 5638.81 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen FKG | –308.38 |
+| Schildklieraandoeningen | 29.91 |
+| Glaucoom | 213.09 |
+| Depressie | 119.63 |
+| Psychose en verslaving | 397.20 |
+| Epilepsie | 571.45 |
+| Chronische antistolling | 799.73 |
+| Transplantaties | 1340.14 |
+| Parkinson | 2205.75 |
+| Hartaandoeningen | 1793.52 |
+| Chronische pijn exclusief opioïden | 899.13 |
+| Neuropatische pijn | 1561.73 |
+| Diabetes type II zonder hypertensie | 439.94 |
+| Diabetes type II met hypertensie | 845.71 |
+| Diabetes type I zonder hypertensie | 1720.62 |
+| Diabetes type I met hypertensie | 2075.10 |
+| Cystic fibrosis/pancreasenzymen | 3456.13 |
+| Groeistoornissen o.b.v. add-on | 2595.12 |
+| Aandoeningen van hersenen/ruggenmerg: overig | 3032.29 |
+| Aandoeningen van hersenen/ruggenmerg: multiple sclerose | 4539.06 |
+| HIV/AIDS | 4524.85 |
+| Psoriasis | 529.54 |
+| Ziekte van Crohn/Colitis Ulcerosa | 626.90 |
+| Reuma | 742.22 |
+| Auto-immuunziekten o.b.v. add-on | 5491.91 |
+| Nieraandoeningen | 7587.38 |
+| Acromegalie | 12314.35 |
+| Immunoglobuline o.b.v. add-on | 10551.21 |
+| Astma | 455.67 |
+| COPD/Zware astma | 1675.66 |
+| COPD/Zware astma o.b.v. add-on | 12200.74 |
+| Hormoongevoelige tumoren | 868.14 |
+| Kanker | 1563.27 |
+| Kanker o.b.v. add-on | 12198.60 |
+| Pulmonale arteriële hypertensie | 20578.20 |
+| Extreem hoge kosten cluster 1 | 124047.68 |
+| Extreem hoge kosten cluster 2 | 265523.19 |
+| Extreem hoge kosten cluster 3 | 384443.78 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen primaire DKG | –226.84 |
+| 1 | 632.15 |
+| 2 | 1329.50 |
+| 3 | 1355.85 |
+| 4 | 1718.70 |
+| 5 | 2769.97 |
+| 6 | 2288.30 |
+| 7 | 4907.99 |
+| 8 | 6204.28 |
+| 9 | 6691.00 |
+| 10 | 7867.61 |
+| 11 | 12275.83 |
+| 12 | 15320.46 |
+| 13 | 8111.82 |
+| 14 | 64858.83 |
+| 15 | 51088.86 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen secundaire DKG | –90.54 |
+| 1 | 935.03 |
+| 2 | 2415.72 |
+| 3 | 3887.92 |
+| 4 | 7417.11 |
+| 5 | 14475.04 |
+| 6 | 18827.11 |
+| 7 | 74687.63 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen HKG | –55.03 |
+| CPAP apparatuur | 285.49 |
+| Therapeutische elastische kousen | 450.91 |
+| Voorzieningen voor stomapatiënten | 1499.01 |
+| Vernevelaar met toebehoren | 1382.42 |
+| Middelen voor urine-opvang | 2059.43 |
+| Injectiespuiten met toebehoren (excl. diabetes) | 2260.37 |
+| Zuurstofapparaten met toebehoren | 4505.79 |
+| Voedingshulpmiddelen (excl. zuigelingen) | 7986.45 |
+| Slijmuitzuigapparatuur | 20702.89 |
+| Draagbare infuuspompen | 9271.88 |
+
+|   |   | Variabele zorgkosten |
+| --- | --- | --- |
+|   | 70+ jaar | 0.00 |
+| Duurzaam en volledig arbeidsongeschikten (IVA) | 0-17 jaar | 124.53 |
+|   | 18-34 jaar | 1294.43 |
+|   | 35-44 jaar | 884.95 |
+|   | 45-54 jaar | 1120.61 |
+|   | 55-64 jaar | 704.78 |
+|   | 65-69 jaar | 627.58 |
+| Arbeidsongeschikten excl. IVA | 0-17 jaar | 156.47 |
+|   | 18-34 jaar | 288.87 |
+|   | 35-44 jaar | 496.05 |
+|   | 45-54 jaar | 504.85 |
+|   | 55-64 jaar | 431.48 |
+|   | 65-69 jaar | 391.95 |
+| Bijstandsgerechtigden | 0-17 jaar | 148.38 |
+|   | 18-34 jaar | 324.93 |
+|   | 35-44 jaar | 325.15 |
+|   | 45-54 jaar | 379.84 |
+|   | 55-64 jaar | 330.38 |
+|   | 65-69 jaar | 405.22 |
+| Studenten | 0-17 jaar | –37.60 |
+|   | 18-34 jaar | –167.19 |
+| Zelfstandigen | 0-17 jaar | –74.29 |
+|   | 18-34 jaar | –78.02 |
+|   | 35-44 jaar | –124.42 |
+|   | 45-54 jaar | –184.70 |
+|   | 55-64 jaar | –216.45 |
+|   | 65-69 jaar | –75.24 |
+| Hoogopgeleiden | 0-17 jaar | –96.30 |
+|   | 18-34 jaar | –14.25 |
+|   | 35-44 jaar | –74.81 |
+| Referentiegroep | 0-17 jaar | –8.15 |
+|   | 18-34 jaar | 18.40 |
+|   | 35-44 jaar | –21.70 |
+|   | 45-54 jaar | –58.87 |
+|   | 55-64 jaar | –82.34 |
+|   | 65-69 jaar | –114.56 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| 1 | 82.87 |
+| 2 | 48.20 |
+| 3 | 20.00 |
+| 4 | 18.54 |
+| 5 | –14.32 |
+| 6 | –16.51 |
+| 7 | –22.54 |
+| 8 | –30.22 |
+| 9 | –39.52 |
+| 10 | –47.70 |
+
+|   |   | Variabele zorgkosten |
+| --- | --- | --- |
+| 1 (zeer laag) | 0-17 jaar | 62.21 |
+|   | 18-69 jaar | –2.04 |
+|   | 70+ jaar | –89.84 |
+| 2 (laag) | 0-17 jaar | 32.39 |
+|   | 18-69 jaar | 18.55 |
+|   | 70+ jaar | –54.98 |
+| 3 (midden) | 0-17 jaar | –15.18 |
+|   | 18-69 jaar | 19.14 |
+|   | 70+ jaar | 42.10 |
+| 4 (hoog) | 0-17 jaar | –48.02 |
+|   | 18-69 jaar | –30.12 |
+|   | 70+ jaar | 74.05 |
+
+|   |   | Variabele zorgkosten |
+| --- | --- | --- |
+|   | 0-17 jaar | 0.00 |
+| Wlz-instelling, blijvend | 18-69 jaar | –576.59 |
+|   | 70-79 jaar | –1918.24 |
+|   | 80+ jaar | –3284.64 |
+| Wlz-instelling, instromend | 18-69 jaar | 9117.66 |
+|   | 70-79 jaar | 12934.42 |
+|   | 80+ jaar | 10548.70 |
+| Eenpersoonshuishouden | 18-69 jaar | –30.21 |
+|   | 70-79 jaar | 169.65 |
+|   | 80+ jaar | 54.69 |
+| Overig | 18-69 jaar | 3.50 |
+|   | 70-79 jaar | –116.63 |
+|   | 80+ jaar | –150.09 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen MHK | –617.70 |
+| Ten minste 1 van de 3 voorafgaande jaren variabele zorgkosten in top 30 procent | 154.00 |
+| 2 voorafgaande jaren variabele zorgkosten in top 10 procent | 2560.76 |
+| 3 voorafgaande jaren variabele zorgkosten in top 15 procent | 2352.86 |
+| 3 voorafgaande jaren variabele zorgkosten in top 10 procent | 3717.88 |
+| 3 voorafgaande jaren variabele zorgkosten in top 7 procent | 5690.88 |
+| 3 voorafgaande jaren variabele zorgkosten in top 4 procent | 8753.54 |
+| 3 voorafgaande jaren variabele zorgkosten in top 1,5 procent | 18518.95 |
+| 3 voorafgaande jaren variabele zorgkosten in top 0,5 procent | 45430.35 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen FDG | –23.61 |
+| 1 | 639.53 |
+| 2 | 2034.93 |
+| 3 | 1534.43 |
+| 4 | 8738.75 |
+
+|   | Variabele zorgkosten |
+| --- | --- |
+| Geen MVV | –198.23 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 3,5 procent | 1258.63 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 3 procent | 1904.28 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 2,5 procent | 3346.89 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 2 procent | 5929.77 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 1,5 procent | 8826.55 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 1 procent | 12618.74 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 0,5 procent | 18174.27 |
+| Gesommeerde kosten V&V 3 voorafgaande jaren in top 0,25 procent | 30971.06 |
+| Kosten V&V voorafgaand jaar in top 0,25%; 0–17 jaar | 68565.56 |
+
+## Bijlage 6. Normbedragen vereveningsmodel voor de eigen betalingen ten gevolge van het verplicht eigen risico
+
+**Alleen volwassenen zonder FKG/primaire DKG/secundaire DKG/ HKG/FDG/MVV en niet ingedeeld bij MHK-klasse‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger (behorende bij artikel 17, tweede lid, van de Regeling risicoverevening 2020)**
+
+De bijlage betreft de eigen betalingen ten gevolge van het verplicht eigen risico.
+
+De gewichten vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=17&z=2020-09-24&g=2020-09-24)).
+
+|   |   | Eigen betaling ten gevolge van verplicht eigen risico |
+| --- | --- | --- |
+| Mannen | 18-24 jaar | 130.29 |
+|   | 25-29 jaar | 129.05 |
+|   | 30-34 jaar | 130.74 |
+|   | 35-39 jaar | 135.65 |
+|   | 40-44 jaar | 140.60 |
+|   | 45-49 jaar | 148.87 |
+|   | 50-54 jaar | 161.79 |
+|   | 55-59 jaar | 180.77 |
+|   | 60-64 jaar | 201.11 |
+|   | 65-69 jaar | 221.86 |
+|   | 70-74 jaar | 240.33 |
+|   | 75-79 jaar | 257.16 |
+|   | 80-84 jaar | 263.16 |
+|   | 85-89 jaar | 267.68 |
+|   | 90+ jaar | 259.17 |
+| Vrouwen en onbepaald geslacht | 18-24 jaar | 180.12 |
+|   | 25-29 jaar | 179.00 |
+|   | 30-34 jaar | 174.15 |
+|   | 35-39 jaar | 171.58 |
+|   | 40-44 jaar | 177.91 |
+|   | 45-49 jaar | 185.57 |
+|   | 50-54 jaar | 194.43 |
+|   | 55-59 jaar | 200.64 |
+|   | 60-64 jaar | 211.33 |
+|   | 65-69 jaar | 228.86 |
+|   | 70-74 jaar | 244.05 |
+|   | 75-79 jaar | 260.01 |
+|   | 80-84 jaar | 262.40 |
+|   | 85-89 jaar | 254.83 |
+|   | 90+ jaar | 229.46 |
+
+|   |   | Eigen betaling ten gevolge van verplicht eigen risico |
+| --- | --- | --- |
+|   | 70+ jaar | 0.00 |
+| Duurzaam en volledig arbeidsongeschikten (IVA) | 18-34 jaar | 92.25 |
+|   | 35-44 jaar | 75.82 |
+|   | 45-54 jaar | 61.46 |
+|   | 55-64 jaar | 47.09 |
+|   | 65-69 jaar | 28.96 |
+| Arbeidsongeschikten excl. IVA | 18-34 jaar | 54.48 |
+|   | 35-44 jaar | 64.16 |
+|   | 45-54 jaar | 51.46 |
+|   | 55-64 jaar | 35.09 |
+|   | 65-69 jaar | 18.70 |
+| Bijstandsgerechtigden | 18-34 jaar | 43.54 |
+|   | 35-44 jaar | 47.04 |
+|   | 45-54 jaar | 38.67 |
+|   | 55-64 jaar | 18.07 |
+|   | 65-69 jaar | –3.66 |
+| Studenten | 18-34 jaar | –8.20 |
+| Zelfstandigen | 18-34 jaar | –5.06 |
+|   | 35-44 jaar | –7.95 |
+|   | 45-54 jaar | –10.19 |
+|   | 55-64 jaar | –13.36 |
+|   | 65-69 jaar | –9.00 |
+| Hoogopgeleiden | 18-34 jaar | –8.74 |
+|   | 35-44 jaar | –12.43 |
+| Referentiegroep | 18-34 jaar | 0.46 |
+|   | 35-44 jaar | –0.24 |
+|   | 45-54 jaar | –2.76 |
+|   | 55-64 jaar | –2.06 |
+|   | 65-69 jaar | –1.59 |
+
+|   | Eigen betaling ten gevolge van verplicht eigen risico |
+| --- | --- |
+| 1 | 6.04 |
+| 2 | 4.01 |
+| 3 | 2.10 |
+| 4 | 0.72 |
+| 5 | 0.00 |
+| 6 | –1.96 |
+| 7 | –2.11 |
+| 8 | –2.72 |
+| 9 | –3.40 |
+| 10 | –2.90 |
+
+|   | Eigen betaling ten gevolge van verplicht eigen risico |
+| --- | --- |
+| Geen MHK | –31.54 |
+| Ten minste 1 van de 3 voorafgaande jaren variabele zorgkosten in top 30 procent | 60.84 |
+
+## Bijlage 7. Normbedragen vereveningsmodel geneeskundige GGZ (behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=16&z=2020-09-24&g=2020-09-24), van de Regeling risicoverevening 2020)
+
+De bijlage betreft de kosten van zorg behorende tot het cluster ‘geneeskundige geestelijke gezondheidszorg’.
+
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042712&hoofdstuk=3&artikel=16&z=2020-09-24&g=2020-09-24)). De gewichten bevatten geen correctie voor hogekostencompensatie.
+
+|   |   | Kosten van geneeskundige GGZ |
+| --- | --- | --- |
+| Mannen | 18-24 jaar | 340.87 |
+|   | 25-29 jaar | 332.43 |
+|   | 30-34 jaar | 322.27 |
+|   | 35-39 jaar | 311.60 |
+|   | 40-44 jaar | 293.98 |
+|   | 45-49 jaar | 268.76 |
+|   | 50-54 jaar | 265.83 |
+|   | 55-59 jaar | 250.92 |
+|   | 60-64 jaar | 250.92 |
+|   | 65-69 jaar | 244.05 |
+|   | 70-74 jaar | 253.69 |
+|   | 75-79 jaar | 253.69 |
+|   | 80-84 jaar | 244.13 |
+|   | 85-89 jaar | 244.13 |
+|   | 90+ jaar | 244.13 |
+| Vrouwen en onbepaald geslacht | 18-24 jaar | 424.00 |
+|   | 25-29 jaar | 385.30 |
+|   | 30-34 jaar | 345.08 |
+|   | 35-39 jaar | 331.89 |
+|   | 40-44 jaar | 311.85 |
+|   | 45-49 jaar | 282.92 |
+|   | 50-54 jaar | 273.13 |
+|   | 55-59 jaar | 250.92 |
+|   | 60-64 jaar | 250.92 |
+|   | 65-69 jaar | 244.05 |
+|   | 70-74 jaar | 253.69 |
+|   | 75-79 jaar | 253.69 |
+|   | 80-84 jaar | 244.13 |
+|   | 85-89 jaar | 244.13 |
+|   | 90+ jaar | 244.13 |
+
+|   | Kosten van geneeskundige GGZ |
+| --- | --- |
+| Geen FKG psychische aandoeningen | –29.35 |
+| ADHD | 158.61 |
+| Verslaving | 221.92 |
+| Angststoornissen | 908.89 |
+| Chronische stemmingsstoornissen | 264.44 |
+| Bipolaire stoornissen regulier | 743.36 |
+| Bipolaire stoornissen complex | 1660.58 |
+| Psychose | 1544.62 |
+| Chronische stemmingsstoornissen complex | 1856.69 |
+| Psychose depot | 3882.29 |
+
+|   | Kosten van geneeskundige GGZ |
+| --- | --- |
+| Geen DKG psychische aandoeningen | –122.77 |
+| 1 (gebruik basis GGZ in het voorgaande jaar) | 274.04 |
+| 2 | 436.05 |
+| 3 | 981.25 |
+| 4 | 1809.93 |
+| 5 | 3892.15 |
+| 6 | 4773.35 |
+| 7 | 5063.46 |
+| 8 | 7534.11 |
+| 9 | 11091.00 |
+| 10 | 11796.23 |
+| 11 | 17716.71 |
+| 12 | 20890.28 |
+| 13 | 35279.49 |
+| 14 | 30100.74 |
+| 15 | 37506.18 |
+| 16 | 37561.15 |
+| 17 | 74175.22 |
+| 18 | 30592.86 |
+
+|   |   | Kosten van geneeskundige GGZ |
+| --- | --- | --- |
+|   | 70+ jaar | 0.00 |
+| Duurzaam en volledig arbeidsongeschikten (IVA) | 18-34 jaar | 454.04 |
+|   | 35-44 jaar | 12.63 |
+|   | 45-54 jaar | –21.79 |
+|   | 55-64 jaar | -6.88 |
+|   | 65-69 jaar | 0.00 |
+| Arbeidsongeschikten excl. IVA | 18-34 jaar | 407.58 |
+|   | 35-44 jaar | 405.64 |
+|   | 45-54 jaar | 139.92 |
+|   | 55-64 jaar | 52.84 |
+|   | 65-69 jaar | 0.00 |
+| Bijstandsgerechtigden | 18-34 jaar | 361.27 |
+|   | 35-44 jaar | 157.20 |
+|   | 45-54 jaar | 67.36 |
+|   | 55-64 jaar | 18.86 |
+|   | 65-69 jaar | 0.00 |
+| Studenten | 18-34 jaar | –58.66 |
+| Zelfstandigen | 18-34 jaar | -65.15 |
+|   | 35-44 jaar | –49.93 |
+|   | 45-54 jaar | –21.79 |
+|   | 55-64 jaar | –6.88 |
+|   | 65-69 jaar | 0.00 |
+| Hoogopgeleiden | 18-34 jaar | –64.42 |
+|   | 35-44 jaar | –42.25 |
+| Referentiegroep | 18-34 jaar | –7.11 |
+|   | 35-44 jaar | –19.54 |
+|   | 45-54 jaar | –12.34 |
+|   | 55-64 jaar | –6.88 |
+|   | 65-69 jaar | 0.00 |
+
+|   | Kosten van geneeskundige GGZ |
+| --- | --- |
+| 1 | 79.86 |
+| 2 | 16.27 |
+| 3 | –10.88 |
+| 4 | –12.39 |
+| 5 | –11.02 |
+| 6 | –12.42 |
+| 7 | –12.42 |
+| 8 | –12.42 |
+| 9 | –12.42 |
+| 10 | –12.42 |
+
+|   |   | Kosten van geneeskundige GGZ |
+| --- | --- | --- |
+| 1 (zeer laag) | 18-69 jaar | 9.51 |
+|   | 70+ jaar | 14.08 |
+| 2 (laag) | 18-69 jaar | –9.92 |
+|   | 70+ jaar | 2.33 |
+| 3 (midden) | 18-69 jaar | –9.92 |
+|   | 70+ jaar | –7.82 |
+| 4 (hoog) | 18-69 jaar | 9.98 |
+|   | 70+ jaar | –6.19 |
+
+|   |   | Kosten van geneeskundige GGZ |
+| --- | --- | --- |
+| Wlz-instelling, blijvend | 18-69 jaar | –31.25 |
+|   | 70-79 jaar | –45.46 |
+|   | 80+ jaar | –35.90 |
+| Wlz-instelling, instromend | 18-69 jaar | 707.25 |
+|   | 70-79 jaar | 373.11 |
+|   | 80+ jaar | 111.46 |
+| Eenpersoonshuishouden | 18-69 jaar | 72.14 |
+|   | 70-79 jaar | 21.52 |
+|   | 80+ jaar | –1.56 |
+| Overig | 18-69 jaar | –11.82 |
+|   | 70-79 jaar | –9.28 |
+|   | 80+ jaar | 0.67 |
+
+|   | Kosten van geneeskundige GGZ |
+| --- | --- |
+| Geen GGZ-MHK | –57.77 |
+| Ten minste 1 van de 3 voorafgaande jaren kosten GGZ in top 98,5 procent met kosten GGZ >10 euro | 193.95 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 10 promille1 | 1283.33 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 5 promille1 | 2815.05 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 2,5 promille1 | 4745.70 |
+| Ten minste 2 van de 5 voorafgaande jaren kosten GGZ in top 1 promille1 | 10008.47 |
+| 5 voorafgaande jaren kosten GGZ in top 5 promille | 13023.78 |
+| 5 voorafgaande jaren kosten GGZ in top 2,5 promille | 23759.75 |
+
+1 Voor verzekerden jonger dan 24 jaar: ten minste 1 van de 5 voorafgaande jaren.
 
 Deze regeling zal (met toelichting) in de Staatscourant worden geplaatst.
