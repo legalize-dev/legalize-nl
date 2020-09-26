@@ -4,7 +4,7 @@ identifier: "BWBR0041897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-26"
-last_updated: "2019-01-01"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041897"
 soort: "ministeriele-regeling"
@@ -44,29 +44,27 @@ Besluit:
 
 1. Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat.
 
-2. Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat wordt voorts ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden betreffende:
+2. Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat wordt voorts ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden betreffende:
 
-- 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste of tijdelijke aanstellingen;
+- a. het aanbieden van een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde of bepaalde tijd en het beëindigen van een arbeidsovereenkomst, waaronder begrepen het met wederzijds goedvinden beëindigen van de arbeidsovereenkomst en het opzeggen van een arbeidsovereenkomst om een dringende reden in de zin van [artikel 7:677, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677);
 
-- 2°. het bevorderen naar een hogere salarisschaal;
+- b. het toekennen van een hogere salarisschaal;
 
-- 3°. het verlenen van buitengewoon verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=34);
+- c. het verlenen van kortdurend en langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk;
 
-- 4°. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=57);
+- d. het opdragen van een andere functie;
 
-- 5°. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=58);
+- e. het opdragen van tijdelijke andere werkzaamheden;
 
-- 6°. het toekennen van een terugkeergarantie, al dan niet op grond van sociaal flankerend beleid;
+- f. het toekennen van een terugkeergarantie, al dan niet op grond van sociaal flankerend beleid;
 
-- 7°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
+- g. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
 
-- 8°. het toekennen van schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
+- h. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
-- 9°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81);
+- i. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
-- 10°. het schorsen op grond van [artikel 91 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=91);
-
-- 11°. het verminderen van bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=92).
+- j. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
 ##### Artikel 2
 
