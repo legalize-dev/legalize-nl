@@ -4,7 +4,7 @@ identifier: "BWBR0042721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2020-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042721"
 soort: "ministeriele-regeling"
@@ -60,7 +60,9 @@ Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens w
 
 - h. voor het door middel van internet ontvangen van een digitaal gewaarmerkt Uittreksel Handelsregister Kamer van Koophandel®: € 7,50 per uittreksel;
 
-- i. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (KVK Handelsregister inschrijving basis en KVK Handelsregister vestiging basis), indien het raadplegen geschiedt via een internetapplicatie die bedoeld is voor mobiele kanalen: dertig maal kosteloze inzage per mobiele telefoon of tablet en € 2,29 per daaropvolgende inzage per mobiele telefoon of tablet.
+- i. voor het door middel van internet ontvangen van een digitaal gewaarmerkt KVK uittreksel UBO-register: € 2,50;
+
+- j. voor het door middel van internet raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (KVK Handelsregister inschrijving basis en KVK Handelsregister vestiging basis), indien het raadplegen geschiedt via een internetapplicatie die bedoeld is voor mobiele kanalen: dertig maal kosteloze inzage per mobiele telefoon of tablet en € 2,29 per daaropvolgende inzage per mobiele telefoon of tablet.
 
 ##### Artikel 2
 
@@ -82,7 +84,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 1. In dit artikel wordt onder KVK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [13, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
-2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2020-07-01&g=2020-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2020-07-01&g=2020-07-01), de volgende tarieven berekend:
+2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2020-09-27&g=2020-09-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2020-09-27&g=2020-09-27), de volgende tarieven berekend:
 
 - a. voor digitaal gewaarmerkte Uittreksels Handelsregister Kamer van Koophandel® in bulk:
 
@@ -166,17 +168,19 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - −. KVK-nummer (met of zonder naam, adres en woonplaats): € 0,04 per verstrekt KVK-nummer;
 
-- k. voor KVK Handelsregister dataservices:
+- k. voor KVK Dataservice:
 
-- −. per aansluiting: € 1.000,− eenmalig, alsmede
+- –. per aansluiting: € 1.000,– eenmalig, alsmede
 
-- −. voor KVK Handelsregister inschrijving: € 2,30 per gegevenslevering;
+- –. voor KVK Handelsregister inschrijving: € 2,30 per gegevenslevering;
 
-- −. voor KVK Handelsregister vestiging: € 1,75 per gegevenslevering;
+- –. voor KVK Handelsregister vestiging: € 1,75 per gegevenslevering;
 
-- −. voor KVK bevoegdheden (RDW): € 1,30 per gegevenslevering;
+- –. voor KVK uittreksel UBO-register: € 2,50 per gegevenslevering;
 
-- −. voor Jaarrekening: € 3,05 per jaarrekening;
+- –. voor KVK bevoegdheden (RDW): € 1,30 per gegevenslevering;
+
+- –. voor Jaarrekening: € 3,05 per jaarrekening;
 
 - l. voor Application Programming Interface Search (KVK Handelsregister search), verstrekt via internet: € 5,− per maand per aansluiting en € 0,008 per aanvraag;
 
