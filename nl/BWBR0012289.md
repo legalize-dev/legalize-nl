@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2020-07-01"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -6089,55 +6089,55 @@ De IND trekt het verblijfsrecht van de VK-onderdaan en zijn familielid in, indie
 
 Indien na de verlening zich tijdens de overgangsperiode nieuwe omstandigheden voordoen op grond waarvan het verblijfsrecht kan worden ingetrokken, zijn de bepalingen van Hoofdstuk VI van [richtlijn 2004/38/EG](32004L0038) van toepassing. In geval van openbare orde is de pleegdatum leidend. Indien het misdrijf is gepleegd vóór of op 31 december 2020 geldt het openbare orde criterium als bedoeld in paragraaf B10/2.3 Vc. Indien het misdrijf ná 31 december 2020 is gepleegd geldt het openbare orde criterium als bedoeld in paragraaf B1/6 Vc.
 
-### 2.2. Samenhang beslissing aanvraag TWV en verblijfsvergunning
+### 4. Aanvraagprocedure terugtrekkingsakkoord Grensarbeiders
 
 Het [artikel 3.32 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.32) stelt buiten twijfel dat geen verblijfsvergunning wordt verleend voor het verrichten van arbeid, hetzij in loondienst, hetzij als zelfstandige, die geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen, omdat daarmee a priori geen wezenlijk Nederlands belang is gediend.
 
-Dit artikel ziet niet op gemeenschapsonderdanen.
+De IND beschouwt een VK-onderdaan als grensarbeider als hij :
 
 Voor onderdanen van landen waarmee Europa-overeenkomsten zijn gesloten en die stellen dergelijke arbeid als zelfstandige te verrichten zij verwezen naar B11.
 
-Een vreemdeling, die naar Nederland komt om arbeid in loondienst te verrichten, vraagt een verblijfsvergunning voor bepaalde tijd voor het verrichten van arbeid in loondienst aan bij de IND. In de periode, gelegen tussen verlening van een TWV en de beslissing op de aanvraag om verlening van een verblijfsvergunning, is het de vreemdeling toegestaan de arbeid te verrichten waarvoor de TWV is afgegeven. Zolang geen beslissing op de aanvraag om verlening van een verblijfsvergunning is genomen, mag hij derhalve niet uit Nederland worden verwijderd. Hij verblijft dan immers rechtmatig in Nederland in de zin van [artikel 8, aanhef en onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+Voor het aantonen van het recht op voortzetting van grensarbeid na 31 december 2020 is een document ‘Grensarbeider’ als bedoeld in artikel 26 van het terugtrekkingsakkoord vereist.
 
-De verantwoordelijkheid voor de verlening van een verblijfsvergunning op grond van het bepaalde bij en krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) berust bij de Minister.
+De IND beoordeelt, na ontvangst van de aanvraag, aan de hand van de voorwaarden genoemd in artikel 24, 25 en 26 van het terugtrekkingsakkoord of er aanspraak bestaat op een document ‘Grensarbeider’.
 
 ### 2.3. Geldigheidsduur: relatie met de TWV
 
-In de behoefte aan arbeidskrachten dient zoveel mogelijk te worden voorzien door inschakeling van het in Nederland aanwezige of redelijkerwijs te verwachten aanbod, of van het arbeidsaanbod uit de EU-lidstaten of de lidstaten van de EER, voor zover daarop het vrije verkeer van werknemers van toepassing is (zie B10). Dit is het zogenaamde prioriteitgenietend aanbod op de Nederlandse arbeidsmarkt.
+De VK-onderdaan heeft in die gevallen het recht om Nederland in en uit te reizen overeenkomstig artikel 14 van het terugtrekkingsakkoord.
 
-Op grond van de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) is een werkgever:
+Van reële en daadwerkelijke arbeid is sprake indien wordt voldaan aan de voorwaarden zoals genoemd en uitgewerkt in het onderdeel ‘reële en daadwerkelijke arbeid’ van paragraaf B10/2.2 Vc.
 
-### 4.2.2. Gezinshereniging en -vorming
+### 4.3. Contra-indicaties
 
-Het werkgeversbegrip verwijst niet naar een juridische verhouding, gebaseerd op een arbeidsovereenkomst of aanstelling, maar naar de feitelijke situatie, waarbij een vreemdeling feitelijk arbeid verricht in opdracht van of voor een ander. Als gevolg van het brede werkgeversbegrip kunnen zich situaties voordoen dat een vreemdeling voor hetzelfde werk meerdere werkgevers heeft (uitzendarbeid, aanneming van werk). Indien één van de werkgevers al beschikt over een TWV voor het betreffende werk, behoeven andere werkgevers geen TWV aan te vragen.
-
-### 2.5. Voorschrift
-
-Op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) wordt getoetst of aan de voorwaarden voor verlening van een verblijfsvergunning is voldaan.
+De IND verleent geen document ‘Grensarbeider’ als bedoeld in paragraaf B13/4.5 Vc als bij de VK-onderdaan sprake is van een van de volgende contra-indicaties, genoemd in artikel 20 van het terugtrekkingsakkoord:
 
 ### 2.5. Voorschrift
 
-De procedures die op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) moeten worden gevolgd hangen zeer nauw met elkaar samen en de beslissingen op de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd en de aanvraag om verlening van een TWV beïnvloeden elkaar (zie B5/2). Daarom is een nauwe samenwerking tussen de diensten die deze regelingen uitvoeren van belang.
+**Gevaar voor de openbare orde en de openbare veiligheid**
 
-Een toelating krachtens artikel 10, tweede lid, Vw (oud) wordt ingevolge [artikel 115, vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=115) aangemerkt als een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20).
+### 2.5. Voorschrift
 
-In [artikel 3.31 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31) worden de verblijfsvoorwaarden voor het verrichten van arbeid in loondienst gegeven. Het gaat om de volgende voorwaarden:
+Ten aanzien van na 31 december 2020 gepleegde misdrijven, geldt op grond van artikel 20, tweede lid van het terugtrekkingsakkoord de nationale openbare orde bepaling zoals bedoeld in [artikel 12, lid 1, onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12). De IND verleent evenmin een document ‘Grensarbeider’ indien er concrete aanwijzingen zijn dat de VK-onderdaan overeenkomstig artikel 27 van de [richtlijn 2004/38/EG](32004L0038) een gevaar vormt voor de nationale veiligheid.
+
+De IND verleent voorts geen document als er een procedure aanhangig is om te beoordelen of de betrokken vreemdeling een gevaar vormt voor de openbare orde of de openbare veiligheid, ongeacht de pleegdatum.
+
+Ad b.
 
 ### 2.1. Procedure bij het IND-loket voor kennis- en arbeidsmigratie
 
 Teneinde de doelmatigheid en de snelheid van de afhandeling te bevorderen als ook een goede afstemming van de werkprocessen bij de IND en UWV WERKbedrijf te waarborgen (zie B5/1.1), verloopt de aanvraagprocedure van de verblijfsvergunning via het centrale loket voor kennis- en arbeidsmigratie bij de IND en wordt ook de aanvraagprocedure voor de TWV door UWV WERKbedrijf centraal afgehandeld.
 
-De procedure ziet er als volgt uit:
+De VK-onderdaan moet een aanvraag indienen om in aanmerking te komen voor een document als bedoeld in deze paragraaf.
 
 ### 3.2. Vreemdelingen met aantekening document ‘arbeid vrij toegestaan’
 
-### 4.1.1. Verlening van een verblijfsvergunning
+### 4.5. Document, arbeidsmarktaantekening en geldigheidsduur
 
-Indien de vreemdeling, conform het bepaalde in B1/1.1.1 zelf de aanvraag om een mvv indient bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land van herkomst of bestendig verblijf, wordt deze aanvraag ter afhandeling doorgezonden naar het IND-loket kennis- en arbeidsmigratie.
+De IND verstrekt aan de VK-onderdaan een document ‘Grensarbeider’ als aan de voorwaarden van paragraaf B 13/4 Vc wordt voldaan.
 
 ### 4.3. Internationale luchtvaart, wegtransport en binnenscheepvaart
 
-De volgorde waarin op die aanvragen vervolgens dient te worden beslist, is als volgt: Als eerste wordt op de aanvraag om een TWV beslist door UWV WERKbedrijf. Pas daarna wordt op het verzoek om advies met het oog op afgifte van een mvv dan wel de aanvraag om een mvv beslist.
+De IND verstrekt het document voor de duur van 5 jaar. Het document heeft een declaratoir karakter, er kunnen alleen rechten aan (blijven) worden ontleend als wordt voldaan aan de voorwaarden van paragraaf B13/4 Vc.
 
 Indien duidelijk is dat de mvv moet worden geweigerd, ongeacht of er al dan niet een TWV zou moeten worden verleend, wordt de mvv meteen geweigerd en wordt niet gewacht op de beslissing op de aanvraag om verlening van een TWV. Hierbij dient met name te worden gedacht aan gevallen waarin de mvv dan wel de verblijfsvergunning moet worden geweigerd op grond van bijvoorbeeld gevaar voor de openbare orde (zie B5/7.6). UWV WERKbedrijf zal hierover direct worden geïnformeerd in verband met de Wav- procedure.
 
@@ -10269,29 +10269,29 @@ De IND trekt het verblijfsrecht van de VK-onderdaan en zijn familielid in, indie
 
 ### 2.2. Samenhang beslissing aanvraag TWV en verblijfsvergunning
 
-### 2.5. Voorschrift
+### 4.2. Voorwaarden voor voortzetting van het recht om na de overgangsperiode op grond van het terugtrekkingsakkoord een economische activiteit als grensarbeider in Nederland uit te oefenen
 
 ### 2.6. Arbeidsmarktaantekening
 
-De Minister van SZW heeft een eigen verantwoordelijkheid voor het beleid met betrekking tot de toelating tot de Nederlandse arbeidsmarkt op grond van de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149). Hij heeft de uitvoering van de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) gedelegeerd aan UWV WERKbedrijf.
+Om in aanmerking te komen voor een document ‘Grensarbeider’ moet de VK-onderdaan rechtmatig verblijf hebben in het land waar hij woonachtig is.Tevens moet er sprake van zijn dat de VK-onderdaan vóór 1 januari 2021 als grensarbeider in Nederland:
 
 ### 3. Buitenlandse werknemers TWV niet vereist
 
 ### 2.4. Beperking
 
-De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) voorziet in een aantal uitzonderingen op deze verbodsbepaling (zie B5/3.1).
+Ad a.
 
-Op grond van de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) wordt getoetst of er gronden zijn om aan de werkgever waarvoor de vreemdeling arbeid wil gaan verrichten een TWV verlenen.
+Op grond van artikel 20, eerste lid van het terugtrekkingsakkoord gelden, voor misdrijven gepleegd tot en met 31 december 2020 de bepalingen van hoofdstuk 6 van [richtlijn 2004/38/EG](32004L0038). Dit houdt in dat op deze misdrijven het openbare orde criterium van paragraaf B10/2.3 Vc van toepassing is.
 
-[Artikel 3 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3) bepaalt dat het verbod voor een werkgever om een vreemdeling zonder TWV arbeid te laten verrichten niet geldt voor:
+De bepalingen van B10/2.3 Vc onder het kopje Rechtsmisbruik en fraude zijn hier van toepassing.
 
-### 3.1. Vrijgestelde categorieën vreemdelingen
+### 4.4. Aanvraagprocedure
 
-De werkgever kan ten behoeve van een vreemdeling die in Nederland verblijf beoogt voor het verrichten van arbeid in loondienst, een verzoek om advies met het oog op afgifte van een mvv voor het verrichten van arbeid in loondienst indienen bij het IND-loket kennis- en arbeidsmigratie door middel van het daarvoor bestemde formulier. In dit formulier zijn de documenten en gegevens opgenomen die overgelegd moeten worden ten behoeve van het advies. Dit formulier wordt door hoofd IND vastgesteld en wordt alleen via de website van de IND ter beschikking gesteld. Dit aanvraagformulier dient volledig ingevuld en voorzien van alle gevraagde gegevens en bescheiden te worden geretourneerd naar de IND.
+Het document ‘grensarbeider’ wordt kosteloos verstrekt en kan vanaf begin oktober 2020 via de website van de IND worden aangevraagd (zie www.ind.nl).
 
 Ten aanzien van de procedure met betrekking tot de afhandeling van dit verzoek is het bepaalde in B1/1.1.1 en B1/1.1.2 van toepassing.
 
-De werkgever dient een aanvraag om verlening van een TWV in bij UWV WERKbedrijf.
+Op het document wordt vermeld: ‘Frontier worker, article 50 TEU’. De arbeidsmarktaantekening op het document luidt: ‘Arbeid vrij toegestaan, TWV niet vereist’.
 
 ### 3.2.1. Verblijf voor onbepaalde tijd
 
@@ -14469,7 +14469,7 @@ De toelatingsprocedure met betrekking tot de kennismigranten behelst een versnel
 
 ### 1.1. Indiening aanvraag
 
-### 4.5.3. Voorschriften
+### 4.1. Definitie grensarbeider
 
 ### 4.6. Gastdocent, wetenschappelijk onderzoeker, EU-actieprogramma
 
