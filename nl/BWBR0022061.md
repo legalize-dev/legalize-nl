@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2020-08-01"
+last_updated: "2020-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2019-08-01&g=2020-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2020-09-30&g=2020-09-30) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2019-08-01&g=2020-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2020-09-30&g=2020-09-30) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -3276,6 +3276,10 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 ### De kern
 
+### 2.57. Maritiem en techniek
+
+### De kern
+
 ### De vier modulen
 
 ### Profielmodulen
@@ -3297,10 +3301,6 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 ### 2.62. Dienstverlening en producten
 
 ### 2.63. informatietechnologie
-
-### 2.61. groen
-
-### De kern
 
 ### De vier profielmodulen
 
@@ -4370,9 +4370,9 @@ De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte 
 
 De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
 
-¹ Is keuzeonderwerp c.q. keuze exameneenheid.
+1Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer
 
-De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Techniek Breed vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+2Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
 
 ¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
 
@@ -6620,7 +6620,41 @@ Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in comb
 
 indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2019-08-01&g=2020-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2020-09-30&g=2020-09-30) van de Regeling examenprogramma’s voortgezet onderwijs
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+De vaardigheden worden niet in het centrale examen getoetst.
+
+De kandidaat is in staat zijn eigen loopbaanontwikkeling vorm te geven. Hij doet dat met een oriëntatie op een toekomstige opleiding en (loop)baan door middel van reflectie op het eigen handelen en reflectie op ervaringen.
+
+- 1. De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op
+
+systematische wijze om te gaan met ‘loopbaancompetenties’:
+
+- 1. Wat kan ik het best en hoe weet ik dat? [Kwaliteitenreflectie]
+
+- 2. Waar ga en sta ik voor en waarom dan? [Motievenreflectie]
+
+- 3. Waar ben ik het meest op mijn plek en waarom daar? [Werkexploratie]
+
+- 4. Hoe bereik ik mijn doel en waarom zo? [Loopbaansturing]
+
+- 5. Wie kan mij helpen mijn doel te bereiken en waarom die mensen? [Netwerken]
+
+- 2. De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen door middel van een ‘loopbaandossier’.
+
+In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten:
+
+- I. de beoogde doelen
+
+- II. de resultaten
+
+- III. de evaluatie en een conclusie
+
+- IV. welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
