@@ -4,7 +4,7 @@ identifier: "BWBV0006383"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-10-01"
-last_updated: "2012-11-12"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006383"
 soort: "verdrag"
@@ -92,7 +92,7 @@ Komen hierbij het volgende overeen:
 
 1. Onder „tussenhandel” wordt verstaan het optreden als agent voor derden, bijvoorbeeld bij de onderhandeling over contracten, aan- of verkopen, in ruil voor een vergoeding of commissie.
 
-2. Onder „sigaret” wordt verstaan een rol gesneden tabak om te roken, omhuld met sigarettenpapier. Dit sluit specifiek regionale producten uit, zoals bidi’s, ang hoon, of andere soortgelijke producten die in papier of bladeren gewikkeld kunnen worden. Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=8&z=2012-11-12&g=2012-11-12) omvat „sigaret” mede fijn gesneden „met de hand gerolde” tabak voor het vervaardigen van een sigaret.
+2. Onder „sigaret” wordt verstaan een rol gesneden tabak om te roken, omhuld met sigarettenpapier. Dit sluit specifiek regionale producten uit, zoals bidi’s, ang hoon, of andere soortgelijke producten die in papier of bladeren gewikkeld kunnen worden. Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=8&z=2020-10-01&g=2020-10-01) omvat „sigaret” mede fijn gesneden „met de hand gerolde” tabak voor het vervaardigen van een sigaret.
 
 3. Onder „confiscatie” met inbegrip van, indien van toepassing, verbeurdverklaring wordt verstaan permanente inbeslagneming van voorwerpen op bevel van een rechter of andere bevoegde autoriteit.
 
@@ -126,7 +126,7 @@ Komen hierbij het volgende overeen:
 
 13. Onder „tabaksproducten” wordt verstaan producten die geheel of ten dele zijn vervaardigd uit tabaksblad als grondstof en worden vervaardigd om te worden gerookt, gepruimd, gekauwd of gesnoven.
 
-14. Onder „volgen en traceren” wordt verstaan het systematisch monitoren en reconstrueren van de route of beweging van artikelen door de toeleveringsketen door bevoegde instanties en andere personen die namens hen optreden, zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=8&z=2012-11-12&g=2012-11-12).
+14. Onder „volgen en traceren” wordt verstaan het systematisch monitoren en reconstrueren van de route of beweging van artikelen door de toeleveringsketen door bevoegde instanties en andere personen die namens hen optreden, zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=8&z=2020-10-01&g=2020-10-01).
 
 ##### Artikel 2. Verhouding tussen dit protocol en andere overeenkomsten en juridische instrumenten
 
@@ -154,7 +154,7 @@ Het doel van dit Protocol is alle vormen van illegale handel in tabaksproducten 
 
 - c. effectieve maatregelen aannemen voor het vergemakkelijken of verkrijgen van technische bijstand en financiële ondersteuning, capaciteitsopbouw en internationale samenwerking, teneinde de doelen van dit Protocol te verwezenlijken en de beschikbaarheid voor en veilige uitwisseling met de bevoegde autoriteiten van informatie die op grond van dit Protocol uitgewisseld dient te worden, te waarborgen;
 
-- d. in overeenstemming met hun onderscheiden nationale rechtsstelsels en bestuurlijke stelsels nauw met elkaar samenwerken teneinde de doeltreffendheid te bevorderen van handhavingsmaatregelen ter bestrijding van de strafbare feiten met inbegrip van strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) van dit Protocol;
+- d. in overeenstemming met hun onderscheiden nationale rechtsstelsels en bestuurlijke stelsels nauw met elkaar samenwerken teneinde de doeltreffendheid te bevorderen van handhavingsmaatregelen ter bestrijding van de strafbare feiten met inbegrip van strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol;
 
 - e. zo nodig samenwerken en communiceren met relevante regionale en internationale intergouvernementele organisaties voor de veilige3)Veilige uitwisseling van informatie tussen twee Partijen is bestand tegen onderschepping en manipulatie (vervalsing).Met andere woorden, die informatie die uitgewisseld wordt tussen de twee Partijen kan niet gelezen of gewijzigd worden door een derde. uitwisseling van informatie die onder dit Protocol valt teneinde de effectieve uitvoering van dit Protocol te bevorderen; en
 
@@ -238,7 +238,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 2. Zorgvuldigheid in de zin van het eerste lid omvat, naargelang van het geval, in overeenstemming met het nationale recht en de doelen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) onder andere vereisten voor het identificeren van klanten, zoals het verkrijgen en bijwerken van informatie met betrekking tot het volgende:
 
-- a. vaststellen of de natuurlijke of rechtspersoon een vergunning heeft in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12);
+- a. vaststellen of de natuurlijke of rechtspersoon een vergunning heeft in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01);
 
 - b. indien de klant een natuurlijke persoon is, informatie met betrekking tot zijn of haar identiteit, met inbegrip van de volledige naam, handelsnaam, bedrijfsregistratienummer (indien aanwezig), relevante fiscale registratienummers (indien aanwezig) en verificatie van zijn of haar officiële identificatie;
 
@@ -330,13 +330,13 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 1. Elke Partij eist zo nodig dat alle natuurlijke en rechtspersonen die deelnemen aan de toeleveringsketen van tabak, tabaksproducten en productieapparatuur een volledige en nauwkeurige administratie bijhouden van alle relevante transacties. Aan de hand van deze administratie dient het gebruik van materialen bij de productie van de tabaksproducten volledig verantwoord te kunnen worden.
 
-2. Elke Partij eist waar nodig dat personen die een vergunning hebben in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12), op verzoek de volgende informatie verschaffen aan de bevoegde autoriteiten:
+2. Elke Partij eist waar nodig dat personen die een vergunning hebben in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01), op verzoek de volgende informatie verschaffen aan de bevoegde autoriteiten:
 
 - a. algemene informatie over marktvolumes, trends, voorspellingen en andere relevante informatie; en
 
 - b. de hoeveelheden tabaksproducten en productieapparatuur in het bezit, in bewaring of in beheer van de vergunninghouder, die bewaard worden in opslag, in belasting- en douane-entrepots op grond van de doorvoer- of overladingsregeling of schorsing van rechten vanaf de datum van het verzoek.
 
-3. Elke Partij eist met betrekking tot tabaksproducten en productieapparatuur die op het grondgebied van de Partij verkocht of geproduceerd zijn voor de export, of waarop verkeer met schorsing van rechten in doorvoer of overslag van toepassing is op het grondgebied van de Partij, naargelang van het geval, dat personen met een vergunning in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12) op het moment waarop deze producten of apparatuur het grondgebied verlaten op verzoek de volgende informatie verschaffen aan de bevoegde autoriteit in het land van vertrek (elektronisch, indien de infrastructuur bestaat):
+3. Elke Partij eist met betrekking tot tabaksproducten en productieapparatuur die op het grondgebied van de Partij verkocht of geproduceerd zijn voor de export, of waarop verkeer met schorsing van rechten in doorvoer of overslag van toepassing is op het grondgebied van de Partij, naargelang van het geval, dat personen met een vergunning in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01) op het moment waarop deze producten of apparatuur het grondgebied verlaten op verzoek de volgende informatie verschaffen aan de bevoegde autoriteit in het land van vertrek (elektronisch, indien de infrastructuur bestaat):
 
 - a. de datum van verzending vanaf het laatste punt waar de producten fysiek gecontroleerd zijn;
 
@@ -368,7 +368,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 ##### Artikel 10. Veiligheid en voorzorgsmaatregelen
 
-1. Elke Partij eist, indien mogelijk en in overeenstemming met haar nationale recht en de doelstellingen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706), dat alle natuurlijke en rechtspersonen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12) de nodige maatregelen nemen om te voorkomen dat tabaksproducten verdwijnen naar illegale handelskanalen, onder andere door:
+1. Elke Partij eist, indien mogelijk en in overeenstemming met haar nationale recht en de doelstellingen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706), dat alle natuurlijke en rechtspersonen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01) de nodige maatregelen nemen om te voorkomen dat tabaksproducten verdwijnen naar illegale handelskanalen, onder andere door:
 
 - a. aan de bevoegde autoriteiten melding te maken van:
 
@@ -378,9 +378,9 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 - b. uitsluitend tabaksproducten of productieapparatuur te leveren in hoeveelheden die verenigbaar zijn met de vraag naar dergelijke producten op de beoogde markt voor detailhandel of voor gebruik.
 
-2. Waar mogelijk bepaalt elke Partij in overeenstemming met haar nationale recht en de doelen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) dat transacties door natuurlijke of rechtspersonen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12), uitsluitend betaald mogen worden in de valuta en voor hetzelfde bedrag als op de factuur, en uitsluitend mogen geschieden via wettige betaalwijzen van financiële instellingen, die zich bevinden op het grondgebied van de beoogde markt, en niet afgewikkeld mogen worden via een alternatief systeem voor financiële transacties.
+2. Waar mogelijk bepaalt elke Partij in overeenstemming met haar nationale recht en de doelen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) dat transacties door natuurlijke of rechtspersonen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01), uitsluitend betaald mogen worden in de valuta en voor hetzelfde bedrag als op de factuur, en uitsluitend mogen geschieden via wettige betaalwijzen van financiële instellingen, die zich bevinden op het grondgebied van de beoogde markt, en niet afgewikkeld mogen worden via een alternatief systeem voor financiële transacties.
 
-3. Een Partij kan eisen dat betalingen door natuurlijke of rechtspersonen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12) voor materialen die gebruikt worden voor het produceren van tabaksproducten onder haar rechtsmacht uitsluitend toegestaan zijn in de valuta en voor hetzelfde bedrag als op de factuur en uitsluitend mogelijk zijn via wettige betaalwijzen van financiële instellingen, die zich bevinden op het grondgebied van de beoogde markt, en niet afgewikkeld mogen worden via een alternatief systeem voor financiële transacties.
+3. Een Partij kan eisen dat betalingen door natuurlijke of rechtspersonen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01) voor materialen die gebruikt worden voor het produceren van tabaksproducten onder haar rechtsmacht uitsluitend toegestaan zijn in de valuta en voor hetzelfde bedrag als op de factuur en uitsluitend mogelijk zijn via wettige betaalwijzen van financiële instellingen, die zich bevinden op het grondgebied van de beoogde markt, en niet afgewikkeld mogen worden via een alternatief systeem voor financiële transacties.
 
 4. Elke Partij ziet erop toe dat op elke schending van de vereisten van dit artikel gepaste strafrechtelijke, civielrechtelijke of bestuurlijke procedures en effectieve, proportionele en afschrikkende sancties van toepassing zijn met inbegrip van, naargelang van het geval, opschorting of annulering van de vergunning.
 
@@ -426,11 +426,11 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 - d. in de loop van de toeleveringsketen vermengen van tabaksproducten met niet-tabaksproducten met het oogmerk tabaksproducten te verstoppen of te verhullen;
 
-- e. combineren van tabaksproducten met niet-tabaksproducten in strijd met [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=12&z=2012-11-12&g=2012-11-12), van dit Protocol;
+- e. combineren van tabaksproducten met niet-tabaksproducten in strijd met [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=12&z=2020-10-01&g=2020-10-01), van dit Protocol;
 
 - f. gebruik van internet, telecommunicatie of andere op nieuwe technologieën gebaseerde verkoopwijzen van tabaksproducten in strijd met dit Protocol;
 
-- g. het verkrijgen van tabak, tabaksproducten of productieapparatuur door een persoon met een vergunning in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2012-11-12&g=2012-11-12) van een persoon die zou moeten beschikken over een vergunning in overeenstemming met artikel 6, maar hier niet over beschikt;
+- g. het verkrijgen van tabak, tabaksproducten of productieapparatuur door een persoon met een vergunning in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01) van een persoon die zou moeten beschikken over een vergunning in overeenstemming met artikel 6, maar hier niet over beschikt;
 
 - h. het hinderen van een overheidsfunctionaris of een bevoegde functionaris bij het uitvoeren van taken met betrekking tot het voorkomen, afschrikken, opsporen, onderzoeken of beëindigen van de illegale handel in tabak, tabaksproducten of productieapparatuur;
 
@@ -456,17 +456,17 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 ##### Artikel 15. Aansprakelijkheid van rechtspersonen
 
-1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar rechtsbeginselen teneinde de aansprakelijkheid van rechtspersonen vast te stellen voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) van dit Protocol.
+1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar rechtsbeginselen teneinde de aansprakelijkheid van rechtspersonen vast te stellen voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
 2. Met inachtneming van de rechtsbeginselen van elke Partij, kan deze aansprakelijkheid van rechtspersonen strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
 
-3. Deze aansprakelijkheid laat onverlet de aansprakelijkheid van natuurlijke personen die hebben deelgenomen aan gedragingen in strijd met de wet of die strafbare feiten hebben gepleegd, vastgesteld in overeenstemming met de nationale wet- en regelgeving en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) van dit Protocol.
+3. Deze aansprakelijkheid laat onverlet de aansprakelijkheid van natuurlijke personen die hebben deelgenomen aan gedragingen in strijd met de wet of die strafbare feiten hebben gepleegd, vastgesteld in overeenstemming met de nationale wet- en regelgeving en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
 ##### Artikel 16. Vervolging en sancties
 
-1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar nationale recht om te verzekeren dat op natuurlijke en rechtspersonen die aansprakelijk worden gesteld voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12), effectieve, proportionele en afschrikkende strafrechtelijke of andere sancties, met inbegrip van geldelijke sancties, worden toegepast.
+1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar nationale recht om te verzekeren dat op natuurlijke en rechtspersonen die aansprakelijk worden gesteld voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01), effectieve, proportionele en afschrikkende strafrechtelijke of andere sancties, met inbegrip van geldelijke sancties, worden toegepast.
 
-2. Elke Partij tracht te verzekeren dat de discretionaire rechterlijke bevoegdheden uit hoofde van haar nationale recht met betrekking tot de vervolging van personen voor de gedragingen die in strijd zijn met de wet, met inbegrip van feiten die strafbaar zijn gesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12), uitgeoefend worden om de effectiviteit van wetshandhavingsmaatregelen met betrekking tot dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, te optimaliseren, met inachtneming van de noodzaak het plegen van dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, te ontmoedigen.
+2. Elke Partij tracht te verzekeren dat de discretionaire rechterlijke bevoegdheden uit hoofde van haar nationale recht met betrekking tot de vervolging van personen voor de gedragingen die in strijd zijn met de wet, met inbegrip van feiten die strafbaar zijn gesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01), uitgeoefend worden om de effectiviteit van wetshandhavingsmaatregelen met betrekking tot dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, te optimaliseren, met inachtneming van de noodzaak het plegen van dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, te ontmoedigen.
 
 3. Niets in dit Protocol tast het beginsel aan dat de beschrijving van de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, vastgesteld in overeenstemming met dit Protocol, en van de toepasselijke verdediging in rechte of andere juridische beginselen die van toepassing zijn op de rechtmatigheid van gedragingen, voorbehouden is aan het nationale recht van een Partij en dat dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, vervolgd en bestraft zullen worden in overeenstemming met dat recht.
 
@@ -482,7 +482,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 1. Elke Partij neemt, indien toegestaan volgens de basisbeginselen van haar nationale rechtssysteem, binnen de mogelijkheden en op grond van de voorwaarden voorgeschreven door het nationale recht, de nodige maatregelen teneinde de gepaste inzet van gecontroleerde aflevering en, waar dit nodig geacht wordt, van andere speciale opsporingstechnieken, zoals elektronische of andere vormen van toezicht en undercoveroperaties, door haar bevoegde autoriteiten op haar grondgebied mogelijk te maken om de illegale handel in tabak, tabaksproducten of productieapparatuur effectief te bestrijden.
 
-2. Ten behoeve van het onderzoeken van de strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) worden de Partijen aangemoedigd zo nodig passende bilaterale of multilaterale overeenkomsten of regelingen te treffen voor het gebruik van de technieken bedoeld in het eerste lid in het kader van samenwerking op internationaal niveau.
+2. Ten behoeve van het onderzoeken van de strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) worden de Partijen aangemoedigd zo nodig passende bilaterale of multilaterale overeenkomsten of regelingen te treffen voor het gebruik van de technieken bedoeld in het eerste lid in het kader van samenwerking op internationaal niveau.
 
 3. Bij het ontbreken van een overeenkomst of regeling zoals vervat in het tweede lid, worden de beslissingen om die speciale opsporingstechnieken te gebruiken op internationaal niveau per geval genomen, waarbij zo nodig rekening wordt gehouden met financiële regelingen en akkoorden ten aanzien van de uitoefening van de rechtsmacht door de betrokken Partijen.
 
@@ -524,7 +524,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 ##### Artikel 22. Informatie-uitwisseling: vertrouwelijkheid en bescherming van informatie
 
-1. Elke Partij wijst de bevoegde nationale autoriteiten aan waaraan de gegevens bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=20&z=2012-11-12&g=2012-11-12), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=21&z=2012-11-12&g=2012-11-12) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=24&z=2012-11-12&g=2012-11-12) verstrekt worden en stelt de Partijen daarvan op de hoogte via het Secretariaat van het Verdrag.
+1. Elke Partij wijst de bevoegde nationale autoriteiten aan waaraan de gegevens bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=20&z=2020-10-01&g=2020-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=21&z=2020-10-01&g=2020-10-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=24&z=2020-10-01&g=2020-10-01) verstrekt worden en stelt de Partijen daarvan op de hoogte via het Secretariaat van het Verdrag.
 
 2. De uitwisseling van informatie op grond van dit Protocol is onderworpen aan het binnenlandse recht met betrekking tot vertrouwelijkheid en privacy. De Partijen beschermen, zoals wederzijds overeengekomen, alle uitgewisselde vertrouwelijke informatie.
 
@@ -550,23 +550,23 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 ##### Artikel 26. Rechtsmacht
 
-1. Elke Partij neemt de maatregelen aan die nodig kunnen zijn om haar rechtsmacht te vestigen met betrekking tot de in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) vastgestelde strafbare feiten indien:
+1. Elke Partij neemt de maatregelen aan die nodig kunnen zijn om haar rechtsmacht te vestigen met betrekking tot de in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) vastgestelde strafbare feiten indien:
 
 - a. het strafbare feit wordt gepleegd op het grondgebied van die Partij; of
 
 - b. het strafbare feit wordt gepleegd aan boord van een schip dat vaart onder de vlag van die Partij of aan boord van een luchtvaartuig dat krachtens het recht van die Partij is ingeschreven op het tijdstip waarop het strafbare feit wordt gepleegd.
 
-2. Met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=25&z=2012-11-12&g=2012-11-12) kan een Partij haar rechtsmacht ook vestigen met betrekking tot dergelijke strafbare feiten, indien:
+2. Met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=25&z=2020-10-01&g=2020-10-01) kan een Partij haar rechtsmacht ook vestigen met betrekking tot dergelijke strafbare feiten, indien:
 
 - a. het strafbare feit wordt gepleegd tegen die Partij;
 
 - b. het strafbare feit wordt gepleegd door een onderdaan van die Partij of een staatloze die zijn of haar normale verblijfplaats op haar grondgebied heeft; of
 
-- c. het strafbare feit één van de strafbare feiten is die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) en gepleegd werd buiten haar grondgebied met het oog op het plegen van een feit dat in overeenstemming met artikel 14 is strafbaar is gesteld op haar grondgebied.
+- c. het strafbare feit één van de strafbare feiten is die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) en gepleegd werd buiten haar grondgebied met het oog op het plegen van een feit dat in overeenstemming met artikel 14 is strafbaar is gesteld op haar grondgebied.
 
-3. Voor de toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=30&z=2012-11-12&g=2012-11-12) neemt elke Partij de maatregelen aan die nodig zijn om haar rechtsmacht te vestigen over de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) indien de mogelijke pleger zich op haar grondgebied bevindt en deze Partij deze persoon niet uitlevert louter op grond van het feit dat hij of zij haar onderdaan is.
+3. Voor de toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=30&z=2020-10-01&g=2020-10-01) neemt elke Partij de maatregelen aan die nodig zijn om haar rechtsmacht te vestigen over de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) indien de mogelijke pleger zich op haar grondgebied bevindt en deze Partij deze persoon niet uitlevert louter op grond van het feit dat hij of zij haar onderdaan is.
 
-4. Elke Partij kan tevens de maatregelen aannemen die nodig zijn om haar rechtsmacht over de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) te vestigen indien de mogelijke pleger zich op haar grondgebied bevindt en de Partij hem of haar niet uitlevert.
+4. Elke Partij kan tevens de maatregelen aannemen die nodig zijn om haar rechtsmacht over de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) te vestigen indien de mogelijke pleger zich op haar grondgebied bevindt en de Partij hem of haar niet uitlevert.
 
 5. Indien een Partij die op grond van het eerste of tweede lid rechtsmacht uitoefent ervan in kennis is gesteld of op andere wijze heeft vernomen dat één of meer andere Partijen een onderzoek, vervolging of gerechtelijke procedure hebben ingesteld ter zake van hetzelfde feit, treden de bevoegde autoriteiten van die Partijen met elkaar in overleg teneinde hun maatregelen te coördineren.
 
@@ -576,11 +576,11 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 1. Elke Partij neemt, in overeenstemming met haar onderscheiden nationale rechts- en bestuurlijke stelsel, effectieve maatregelen aan teneinde:
 
-- a. waar nodig, communicatiekanalen te verbeteren en in te stellen tussen de bevoegde autoriteiten, instanties en diensten om de veilige en snelle uitwisseling van informatie met betrekking tot alle aspecten van de strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) te vergemakkelijken;
+- a. waar nodig, communicatiekanalen te verbeteren en in te stellen tussen de bevoegde autoriteiten, instanties en diensten om de veilige en snelle uitwisseling van informatie met betrekking tot alle aspecten van de strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) te vergemakkelijken;
 
 - b. te zorgen voor effectieve samenwerking tussen de bevoegde autoriteiten, instanties, douanediensten, politie en andere wetshandhavingsinstanties;
 
-- c. samen te werken met andere Partijen bij het inwinnen van inlichtingen omtrent specifieke zaken aangaande strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) met betrekking tot:
+- c. samen te werken met andere Partijen bij het inwinnen van inlichtingen omtrent specifieke zaken aangaande strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) met betrekking tot:
 
 - i. de identiteit, verblijfplaats en activiteiten van personen die worden verdacht van betrokkenheid bij die strafbare feiten of de verblijfplaats van andere betrokkenen;
 
@@ -594,7 +594,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 - f. relevante informatie uit te wisselen met andere Partijen over specifieke middelen en methoden, die door natuurlijke of rechtspersonen gebruikt worden bij het plegen van dergelijke feiten, waar van toepassing met inbegrip van routes en vervoermiddelen en het gebruik van valse identiteiten, gewijzigde of valse documenten of andere middelen om hun activiteiten te verhelen; en
 
-- g. relevante informatie uit te wisselen en indien van toepassing bestuurlijke en andere maatregelen te coördineren die zijn genomen ten behoeve van de vroegtijdige ontdekking van de strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12).
+- g. relevante informatie uit te wisselen en indien van toepassing bestuurlijke en andere maatregelen te coördineren die zijn genomen ten behoeve van de vroegtijdige ontdekking van de strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01).
 
 2. Teneinde uitvoering te geven aan dit Protocol, overwegen de Partijen bilaterale of multilaterale overeenkomsten of regelingen aan te gaan inzake rechtstreekse samenwerking tussen hun wetshandhavingsinstanties en, indien dergelijke overeenkomsten of regelingen reeds bestaan, deze dienovereenkomstig aan te passen. Bij ontbreken van dergelijke overeenkomsten of regelingen tussen de betrokken Partijen, kunnen de Partijen overwegen dit Protocol te beschouwen als de grondslag voor wederzijdse samenwerking op het gebied van wetshandhaving ten aanzien van de strafbare feiten die onder dit Protocol vallen. Naargelang van het geval maken de Partijen volledig gebruik van overeenkomsten of regelingen, met inbegrip van internationale of regionale organisaties, ter versterking van de samenwerking tussen hun wetshandhavingsinstanties.
 
@@ -610,15 +610,15 @@ De Partijen voorzien elkaar in overeenstemming met hun onderscheiden nationale r
 
 - c. goederen waarvan bekend is dat zij het voorwerp zijn van de illegale handel in tabak, tabaksproducten en productieapparatuur, evenals details van de beschrijving, de verpakking, het transport en de opslag en methoden die gebruikt worden voor deze goederen;
 
-- d. natuurlijke of rechtspersonen waarvan bekend is dat zij een strafbaar feit gepleegd hebben of hebben deelgenomen aan een strafbaar feit vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12); en
+- d. natuurlijke of rechtspersonen waarvan bekend is dat zij een strafbaar feit gepleegd hebben of hebben deelgenomen aan een strafbaar feit vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01); en
 
 - e. alle andere gegevens die de aangewezen instanties van nut kunnen zijn bij de risicobeoordeling voor controle- en andere handhavingsdoeleinden.
 
 ##### Artikel 29. Wederzijdse rechtshulp
 
-1. De Partijen verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij het onderzoek, de vervolging en de gerechtelijke procedures met betrekking tot de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) van dit Protocol.
+1. De Partijen verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij het onderzoek, de vervolging en de gerechtelijke procedures met betrekking tot de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
-2. De wederzijdse rechtshulp wordt verleend in de ruimst mogelijke mate krachtens de relevante wetten, verdragen, overeenkomsten en regelingen van de aangezochte Partij met betrekking tot onderzoek, vervolging en gerechtelijke procedures ten aanzien van de strafbare feiten waarvoor rechtspersonen aansprakelijk kunnen worden gesteld overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=15&z=2012-11-12&g=2012-11-12) van dit Protocol in de verzoekende Partij.
+2. De wederzijdse rechtshulp wordt verleend in de ruimst mogelijke mate krachtens de relevante wetten, verdragen, overeenkomsten en regelingen van de aangezochte Partij met betrekking tot onderzoek, vervolging en gerechtelijke procedures ten aanzien van de strafbare feiten waarvoor rechtspersonen aansprakelijk kunnen worden gesteld overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=15&z=2020-10-01&g=2020-10-01) van dit Protocol in de verzoekende Partij.
 
 3. De wederzijdse rechtshulp die dient te worden verleend overeenkomstig dit artikel kan worden verzocht voor elk van de volgende doeleinden:
 
@@ -716,7 +716,7 @@ In urgente gevallen en indien overeengekomen door de Partijen kunnen verzoeken m
 
 ##### Artikel 30. Uitlevering
 
-1. Dit artikel is van toepassing op de strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2012-11-12&g=2012-11-12) van dit Protocol indien:
+1. Dit artikel is van toepassing op de strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol indien:
 
 - a. de persoon die het voorwerp is van het verzoek om uitlevering zich bevindt op het grondgebied van de aangezochte Partij;
 
@@ -778,11 +778,11 @@ In urgente gevallen en indien overeengekomen door de Partijen kunnen verzoeken m
 
 - c. naargelang van het geval informatie over geleverde, ontvangen, of gevraagde financiële en technische hulp voor activiteiten met betrekking tot het uitbannen van de illegale handel in tabaksproducten; en
 
-- d. de informatie omschreven in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=20&z=2012-11-12&g=2012-11-12).
+- d. de informatie omschreven in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=20&z=2020-10-01&g=2020-10-01).
 
 In de gevallen waarin relevante gegevens reeds verzameld zijn als onderdeel van het verslagleggingsmechanisme van de Conferentie van de Partijen, worden deze activiteiten niet herhaald door de Vergadering van de Partijen.
 
-4. Overeenkomstig de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=VII&artikel=33&z=2012-11-12&g=2012-11-12) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=VII&artikel=36&z=2012-11-12&g=2012-11-12) overweegt de Vergadering van de Partijen het treffen van regelingen om ontwikkelingslanden die Partij zijn en Partijen met een overgangseconomie op verzoek te helpen bij de nakoming van hun verplichtingen uit hoofde van dit artikel.
+4. Overeenkomstig de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=VII&artikel=33&z=2020-10-01&g=2020-10-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=VII&artikel=36&z=2020-10-01&g=2020-10-01) overweegt de Vergadering van de Partijen het treffen van regelingen om ontwikkelingslanden die Partij zijn en Partijen met een overgangseconomie op verzoek te helpen bij de nakoming van hun verplichtingen uit hoofde van dit artikel.
 
 5. De verslaglegging van informatie uit hoofde van deze artikelen is onderworpen aan het nationale recht met betrekking tot vertrouwelijkheid en privacy. De Partijen zorgen op een door hen onderling overeengekomen wijze voor de bescherming van vertrouwelijke informatie waarvan verslag wordt gedaan en die wordt uitgewisseld.
 
@@ -838,7 +838,7 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 3. Naargelang van het geval bevorderen de Partijen het gebruik van bilaterale, regionale, subregionale en andere multilaterale kanalen om te voorzien in financiering ter versterking van de capaciteit van ontwikkelingslanden die Partij zijn en Partijen met een overgangseconomie, teneinde te voldoen aan de doelen van dit Protocol.
 
-4. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=18&z=2012-11-12&g=2012-11-12) worden de Partijen aangemoedigd om, met inachtneming van hun nationale recht en beleid, in voorkomende gevallen de in beslag genomen opbrengsten uit de illegale handel in tabak, tabaksproducten en productieapparatuur te gebruiken ter verwezenlijking van de doelen vervat in dit Protocol.
+4. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=18&z=2020-10-01&g=2020-10-01) worden de Partijen aangemoedigd om, met inachtneming van hun nationale recht en beleid, in voorkomende gevallen de in beslag genomen opbrengsten uit de illegale handel in tabak, tabaksproducten en productieapparatuur te gebruiken ter verwezenlijking van de doelen vervat in dit Protocol.
 
 5. Partijen die vertegenwoordigd zijn in relevante regionale en internationale intergouvernementele organisaties, en financiële en ontwikkelingsorganisaties, moedigen deze organisaties aan financiële hulp te bieden aan ontwikkelingslanden die Partij zijn en aan Partijen met een overgangseconomie, teneinde hen te helpen bij het nakomen van hun verplichtingen uit hoofde van dit Protocol, zonder beperking van de rechten tot participatie binnen deze organisaties.
 
@@ -878,7 +878,7 @@ Op de beslechting van geschillen tussen Partijen met betrekking tot de interpret
 
 2. Bijlagen worden beperkt tot lijsten, formulieren en andere beschrijvingen die betrekking hebben op procedurele, wetenschappelijke, technische of administratieve aangelegenheden.
 
-3. Bijlagen bij dit Protocol en de wijzigingen daarvan worden voorgesteld, aangenomen en van kracht in overeenstemming met de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IX&artikel=38&z=2012-11-12&g=2012-11-12) vervatte procedure.
+3. Bijlagen bij dit Protocol en de wijzigingen daarvan worden voorgesteld, aangenomen en van kracht in overeenstemming met de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IX&artikel=38&z=2020-10-01&g=2020-10-01) vervatte procedure.
 
 ## DEEL X. SLOTBEPALINGEN
 
