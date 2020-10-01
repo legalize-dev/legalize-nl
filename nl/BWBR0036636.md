@@ -4,7 +4,7 @@ identifier: "BWBR0036636"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036636"
 soort: "AMvB"
@@ -50,37 +50,35 @@ Hebben goedgevonden en verstaan:
 
 1. De raad voor de kinderbescherming is gevestigd te Den Haag.
 
-2. De raad staat onder leiding van de algemeen directeur, die wordt bijgestaan door een directeur. De algemeen directeur en deze directeur vormen gezamenlijk de landelijke directie.
+2. De raad staat onder leiding van een algemeen directeur, die wordt bijgestaan door vijf directieleden. Zij vormen gezamenlijk de landelijke directie.
 
-3. De algemeen directeur wordt, waar nodig, vervangen door de in het tweede lid bedoelde directeur.
+3. De algemeen directeur wordt, waar nodig, vervangen door een van de in het tweede lid bedoelde directieleden. De vervanging wordt in onderling overleg bepaald.
 
 ##### Artikel 2
 
-1. De raad heeft een landelijke staforganisatie en is werkzaam in tien regio’s, waarbinnen een of meer locaties de wettelijke taken van de raad uitvoeren.
+1. De raad heeft een landelijke staforganisatie en is werkzaam in tien gebieden, waarbinnen meerdere locaties de wettelijke taken van de raad uitvoeren. De landelijke staforganisatie heeft tot taak de landelijke directie en de gebieden te ondersteunen bij de uitvoering van hun wettelijke taken.
 
-De landelijke staforganisatie heeft tot taak de landelijke directie en de regio’s te ondersteunen in de uitvoering van hun werkzaamheden.
+2. De gebieden en locaties, bedoeld in het eerste lid, zijn:
 
-2. De regio’s en de locaties, bedoeld in het eerste lid, zijn de volgende:
+- a. Noord-Nederland met de locaties Leeuwarden en Groningen;
 
-- a. regio Noord Nederland met de locaties Groningen en Leeuwarden;
+- b. Oost-Nederland met de locaties Zwolle, Almelo en Arnhem;
 
-- b. regio Overijssel met de locaties Zwolle en Almelo;
+- c. Midden-Nederland met de locaties Lelystad en Utrecht;
 
-- c. regio Gelderland met de locatie Arnhem;
+- d. Amsterdam met de locatie Amsterdam;
 
-- d. regio Midden Nederland met de locaties Utrecht en Lelystad;
+- e. Noord-Holland met de locaties Alkmaar en Haarlem;
 
-- e. regio Noord Holland met de locaties Alkmaar en Haarlem;
+- f. ’s-Gravenhage met de locatie ’s-Gravenhage;
 
-- f. regio Amsterdam met de locatie Amsterdam;
+- g. Rotterdam met de locatie Rotterdam;
 
-- g. regio Haaglanden met de locatie Den Haag;
+- h. Zeeland-West-Brabant met de locaties Middelburg en Breda;
 
-- h. regio Rotterdam-Dordrecht met de locaties Rotterdam en Dordrecht;
+- i. Oost-Brabant met de locaties ’s-Hertogenbosch en Eindhoven, en
 
-- i. regio Zuidwest Nederland met de locaties Breda en Middelburg;
-
-- j. regio Zuidoost Nederland met de locaties ’s-Hertogenbosch, Eindhoven en Maastricht.
+- j. Limburg met de locatie Maastricht.
 
 ##### Artikel 3
 
@@ -96,7 +94,7 @@ Wijzigt het Besluit externe klachtencommissie raad voor de kinderbescherming.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2015-07-01&g=2015-07-01) dat met ingang van 1 juli 2015 in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2020-10-01&g=2020-10-01) dat met ingang van 1 juli 2015 in werking treedt.
 
 ##### Artikel 7
 
