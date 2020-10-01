@@ -4,7 +4,7 @@ identifier: "BWBR0032503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032503"
 soort: "ministeriele-regeling"
@@ -86,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 4. Bij de berekening van de financieringslast wordt ervan uitgegaan dat de debetrente en aflossing maandelijks achteraf worden betaald.
 
-5. De toegestane financieringslast wordt door de aanbieder van hypothecair krediet vastgesteld aan de hand van het toetsinkomen van de consument en het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2020-01-01&g=2020-01-01) toepasselijke financieringslastpercentage.
+5. De toegestane financieringslast wordt door de aanbieder van hypothecair krediet vastgesteld aan de hand van het toetsinkomen van de consument en het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2020-10-01&g=2020-10-01) toepasselijke financieringslastpercentage.
 
 6. Indien een hypothecair krediet bedoeld is voor meerdere consumenten, kan rekening worden gehouden met het gezamenlijke toetsinkomen en wordt het financieringslastpercentage gehanteerd dat behoort bij het hoogste toetsinkomen, vermeerderd met 80 procent van het lagere toetsinkomen.
 
-7. Indien het hypothecair krediet bedoeld is voor meerdere consumenten waarvan één consument de AOW-leeftijd heeft bereikt en de andere consument niet, wordt voor de vaststelling van het financieringspercentage, bedoeld in het zesde lid, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2020-01-01&g=2020-01-01) opgenomen tabel gehanteerd die van toepassing is op de consument met het hoogste toetsinkomen.
+7. Indien het hypothecair krediet bedoeld is voor meerdere consumenten waarvan één consument de AOW-leeftijd heeft bereikt en de andere consument niet, wordt voor de vaststelling van het financieringspercentage, bedoeld in het zesde lid, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2020-10-01&g=2020-10-01) opgenomen tabel gehanteerd die van toepassing is op de consument met het hoogste toetsinkomen.
 
 8. Indien het hypothecair krediet bedoeld is voor een consument die alleenstaand is en een toetsinkomen heeft dat hoger is dan € 21.500 en lager is dan € 31.000, kan de aanbieder van hypothecair krediet bij het financieringslastpercentage ten hoogste drie procentpunten optellen, met dien verstande dat het aldus berekende financieringslastpercentage niet hoger mag zijn dan het financieringslastpercentage dat behoort bij een toetsinkomen van € 31.000.
 
@@ -108,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - b. met een annuïtair aflossingschema; en
 
-- c. waarvan de hoogte gelijk is aan het op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=3&artikel=5&z=2020-01-01&g=2020-01-01), bepaalde percentage van de waarde van de woning.
+- c. waarvan de hoogte gelijk is aan het op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=3&artikel=5&z=2020-10-01&g=2020-10-01), bepaalde percentage van de waarde van de woning.
 
 De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
@@ -122,7 +122,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 ##### Artikel 4
 
-1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), afwijken indien:
+1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-10-01&g=2020-10-01), afwijken indien:
 
 - a. het toetsinkomen, de financieringslast en de toegestane financieringslast zijn bepaald op grond van deze paragraaf;
 
@@ -132,7 +132,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 - d. de aanbieder aantoonbaar heeft beoordeeld dat het aannemelijk is dat de aanleiding voor de afwijking een bestendige situatie is.
 
-2. Een aanbieder van hypothecair krediet kan tevens van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), afwijken bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet.
+2. Een aanbieder van hypothecair krediet kan tevens van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-10-01&g=2020-10-01), afwijken bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet.
 
 3. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet of het verhogen van een bestaand hypothecair krediet voor het treffen van energiebesparende voorzieningen in een woning het deel van het hypothecair krediet dat daarvoor is aangewend tot een bedrag van ten hoogste € 9.000 buiten beschouwing laten bij het vaststellen van de financieringslast. Tevens kan een bedrag van ten hoogste € 9.000 buiten beschouwing worden gelaten, indien het een aankoop van een woning betreft met een geldig energielabel van ten minste (A++) afgegeven voor 1 januari 2015 of een woning met een energie-index of een energieprestatiecoëfficiënt van ten hoogste 0,6. Dit lid is enkel van toepassing op hypothecair kredieten die worden verstrekt aan consumenten met een toetsinkomen van ten minste € 33.000.
 
@@ -160,11 +160,15 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 - b. indien voor noodzakelijke woningverbetering het risico op een restschuld van de consument wordt ondervangen door een gemeentelijke regeling voor noodzakelijke woningverbetering;
 
-- c. indien voorzieningen worden getroffen voor noodzakelijke woningverbetering die leiden tot een daling van de verhouding tussen de hoogte van het totale hypothecaire krediet en de waarde van de woning;
+- c. indien sprake is van een aanvraag voor een hypothecair krediet van maximaal € 25.000 voor het treffen van noodzakelijke voorzieningen om de woning aardgasvrij te maken of energiebesparende voorzieningen in het kader van een wijkgerichte aanpak en het risico op een restschuld van de consument wordt ondervangen door het Nationaal Warmtefonds;
 
-- d. bij het betalen van achterstallige betalingen door de consument aan de Vereniging van Eigenaren, voor zover de betalingsachterstand bij de aankoop van de woning een negatieve invloed heeft gehad op de waarde van de woning; of
+- d. indien sprake is van een aanvraag voor een hypothecair krediet van maximaal € 25.000 voor het treffen van noodzakelijke voorzieningen om de woning aardgasvrij te maken of energiebesparende voorzieningen in een woning en die voorzieningen worden getroffen gelijktijdig met de voorzieningen die worden getroffen door een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) omdat de woning in eigendom van de consument een bouwkundig geheel vormt met woningen in eigendom van de toegelaten instelling en het risico op een restschuld van de consument wordt ondervangen door het Nationaal Warmtefonds;
 
-- e. indien de financieringslast van een hypothecair krediet substantieel lager ligt dan de toegestane financieringslast, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
+- e. indien voorzieningen worden getroffen voor noodzakelijke woningverbetering die leiden tot een daling van de verhouding tussen de hoogte van het totale hypothecaire krediet en de waarde van de woning;
+
+- f. bij het betalen van achterstallige betalingen door de consument aan de Vereniging van Eigenaren, voor zover de betalingsachterstand bij de aankoop van de woning een negatieve invloed heeft gehad op de waarde van de woning; of
+
+- g. indien de financieringslast van een hypothecair krediet substantieel lager ligt dan de toegestane financieringslast, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2020-10-01&g=2020-10-01).
 
 5. Bij toepassing van het vierde lid, onderdeel c, mogen de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet worden meegefinancierd indien de verhouding tussen de hoogte van het totale hypothecair krediet en de waarde van de woning daalt.
 
