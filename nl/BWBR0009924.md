@@ -4,7 +4,7 @@ identifier: "BWBR0009924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2020-01-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009924"
 soort: "ministeriele-regeling"
@@ -88,19 +88,19 @@ In dit besluit wordt verstaan onder:
 
 - a. de heer drs. B.F.M. Kuijf, tevens voorzitter;
 
-- b. de heer dr. M. van de Berg, met als plaatsvervangend lid de heer prof. dr. ing. J.A. M. van Oers;
+- b. mevrouw dr. B.A.G. Dijkstra, met als plaatsvervangend lid mevrouw dr. J.E.L. van der Nagel;
 
-- c. de heer drs. W. Best met als plaatsvervangend lid de heer dr J.A.H.C. Lammers;
+- c. de heer drs. W. Best, met als plaatsvervangend lid de heer dr. J.H.C.M Lammers;
 
-- d. de heer drs. W. Foppen, met als plaatsvervangend lid mevrouw dr. W. A.J.M. de Wildt;
+- d. mevrouw dr. E. Vedel, met als plaatsvervangend lid mevrouw M.J. Verschuure;
 
-- e. de heer prof. dr. D.J. Korf, met als plaatsvervangend lid de heer dr. T. Nabben;
+- e. de heer prof. dr. D.J. Korf, met als plaatsvervangend lid de heer dr. A.L.W.M. Nabben;
 
-- f. de heer R. Litsenburg;
+- f. de heer R.T.H. Litsenburg Bcn;
 
 - g. de heer dr. E.J.M. Pennings, met als plaatsvervangend lid mevrouw dr. A. van Riel;
 
-- h. mevrouw drs. W.M. de Zwart, met als plaatsvervangend lid de heer mr. drs. D. Kumpe.
+- h. Mevrouw mr. dr. M.E.C. Gispen, met als plaatsvervangend lid de heer mr. drs. D. Kumpe.
 
 #### § 4. Werkwijze
 
@@ -133,5 +133,11 @@ De voorzitter van de begeleidingscommissie ontvangt voor zijn werkzaamheden een 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden over haar werkzaamheden over aan het archief van de Directie Voeding, Gezondheidsbescherming en Preventie van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
 Van dit besluit wordt mededeling gedaan in de Staatscourant.
+
+Van dit besluit wordt mededeling gedaan in de Staatscourant.
+
+##### Artikel 10
+
+Deze regeling wordt aangehaald als: Instellingsregeling begeleidingscommissie DIMS.
 
 Van dit besluit wordt mededeling gedaan in de Staatscourant.
