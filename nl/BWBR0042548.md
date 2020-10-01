@@ -4,7 +4,7 @@ identifier: "BWBR0042548"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-12-14"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042548"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&artikel=3&z=2019-12-14&g=2019-12-14) van dit besluit en de daarop berustende bepalingen hebben betrekking op voorschriften met betrekking tot levensmiddelen die bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) zijn gesteld.
+De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&artikel=3&z=2020-10-01&g=2020-10-01) van dit besluit en de daarop berustende bepalingen hebben betrekking op voorschriften met betrekking tot levensmiddelen die bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) zijn gesteld.
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ De [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&ar
 
 ##### Artikel 4
 
-Het is verboden te handelen in strijd met de voorschriften die gesteld zijn bij of krachtens de artikelen 15, eerste tot en met vijfde lid, 45, vierde lid, 47, vijfde lid, 49, vierde lid, 50, eerste, derde en vierde lid, 56, eerste en vierde lid, 57, eerste lid, 58, 66, derde lid, tweede alinea, 69, eerste lid, 71, 126, eerste en derde lid, en 128, eerste lid, van verordening (EU) 2017/625.
+Het is verboden te handelen in strijd met de voorschriften die gesteld zijn bij of krachtens de artikelen 15, eerste tot en met vijfde lid, 45, vierde lid, 47, vijfde lid, 48, onderdelen b tot en met f, 49, vierde lid, 50, eerste, derde en vierde lid, 51, eerste lid, onderdelen a tot en met d, 53, eerste lid, onderdelen a, d en e, 56, eerste en vierde lid, 57, eerste lid, 58, 66, derde lid, tweede alinea, 69, eerste lid, 71, 77, eerste en tweede lid, 126, eerste en derde lid, en 128, eerste lid, van verordening (EU) 2017/625.
 
 ##### Artikel 5
 
