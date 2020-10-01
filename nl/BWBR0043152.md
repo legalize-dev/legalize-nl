@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2020-02-12"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -220,7 +220,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-02-12&g=2020-02-12) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-11-11&g=2020-10-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
@@ -285,5 +285,57 @@ Aan de clustermanagers en teamleiders wordt volmacht en machtiging verleend tot 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 maart 2019.
 
 3. Deze regeling kan worden aangehaald als Organisatie-, Mandaat- en Volmachtsbesluit DSU 2019.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+De teamleider NOW is verantwoordelijk voor:
+
+- a. het leiding geven aan het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13);
+
+- b. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met in begrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal dan wel de directeur;
+
+- c. het op orde hebben van de processen en de administratieve organisatie;
+
+- d. het formuleren en uitvoeren van jaarplannen voor het eigen team binnen de door de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeur vastgestelde uitgangspunten;
+
+- e. het rapporteren en verantwoorden aan de directeur over de uitvoering van de jaarplannen betreffende het eigen team.
+
+#### § 4. Bevoegdheden
+
+##### Artikel 12a
+
+1. De teamleider NOW is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13), tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur.
+
+2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 5.000,- per overeenkomst voor:
+
+- a. overeenkomsten die gebaseerd zijn op een raamovereenkomst;
+
+- b. overeenkomsten voor het opleiden van medewerkers van het team;
+
+- c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
+
+- d. overeenkomsten met betrekking tot onderzoek.
+
+3. Alle voorgenomen verplichtingen dienen voorafgaand getoetst te worden door de controller van het team.
+
+4. Aan de teamleider NOW wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+
+- a. de taken van het eigen team;
+
+- b. de personeelsaangelegenheden van het eigen team voor zover het betreft;
+
+- i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
+
+- ii. het houden van personeelsgesprekken.
+
+- iii. verlof van medewerkers.
+
+5. De teamleider NOW wordt gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van het eigen team, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
+
+6. Bij afwezigheid of verhindering van de teamleider NOW besluit teamleider NOW na voorafgaande instemming van de directeur, voor de duur van de afwezigheid of verhindering, welk afdelingshoofd, clustermanager, teamleider of medewerker zijn taken en bevoegdheden waarneemt.
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
