@@ -4,7 +4,7 @@ identifier: "BWBR0024682"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2018-04-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024682"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Besluit:
 
 - **autoriseringspersoneel:** personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;
 
-- **BvL-acceptatiekeuring:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&artikel=1);
+- **BvL-acceptatiekeuring:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
 
-- **BvL-verlengingsinspectie:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&artikel=1);
+- **BvL-verlengingsinspectie:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
 
 - **CAMO-erkenning:** erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart G;
 
@@ -58,7 +58,7 @@ Besluit:
 
 - **ernstig defect of gebrek:** defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;
 
-- **houder van een erkenning:** natuurlijk of rechtspersoon, erkend door de Minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;
+- **houder van een erkenning:** natuurlijk of rechtspersoon, erkend door de minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;
 
 - **kwaliteitssysteem:** stelsel van vastgelegde bedrijfskundige procedures, regels en voorzieningen dat betrekking heeft op het productieproces en ten doel heeft te verzekeren dat de resultaten van het productieproces aan de vooraf gestelde eisen voldoen;
 
@@ -88,7 +88,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=2&artikel=2&z=2018-04-01&g=2018-04-01) is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=2&artikel=2&z=2020-10-01&g=2020-10-01) is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 2. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -210,25 +210,25 @@ Vervallen
 
 ##### Artikel 30
 
-1. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), af nadat de aanvrager heeft aangetoond:
+1. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond:
 
 - a. dat hij in Nederland is gevestigd; en
 
-- b. dat hij aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2018-04-01&g=2018-04-01) voldoet; of
+- b. dat hij aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2020-10-01&g=2020-10-01) voldoet; of
 
-- c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), is opgenomen.
+- c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), is opgenomen.
 
-2. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), af nadat de aanvrager heeft aangetoond, dat:
+2. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond, dat:
 
 - a. hij in Nederland is gevestigd;
 
 - b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EU) nr. 1321/2014 en
 
-- c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882) worden vermeld.
+- c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en [Hoofdstuk 5 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5) worden vermeld.
 
-3. De minister geeft een aanvullende onderhoudserkenning als bedoeld in [artikel 29a, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.
+3. De minister geeft een aanvullende onderhoudserkenning als bedoeld in [artikel 29a, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.
 
-4. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), af nadat de aanvrager heeft aangetoond, dat:
+4. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond, dat:
 
 - a. hij in Nederland is gevestigd en
 
@@ -236,19 +236,19 @@ Vervallen
 
 - 1°. de overeenkomstig van toepassing zijnde voorwaarden van Part 21, subpart J, van verordening (EU) nr. 748/2012; en
 
-- 2°. de aanvullende of afwijkende voorwaarden opgenomen in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2018-04-01&g=2018-04-01).
+- 2°. de aanvullende of afwijkende voorwaarden opgenomen in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2020-10-01&g=2020-10-01).
 
-5. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), af nadat de aanvrager heeft aangetoond dat:
+5. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond dat:
 
 - a. hij een vestiging in Nederland heeft;
 
-- b. hij aan de criteria voor gekwalificeerde instanties, opgenomen in Bijlage V van de basisverordening voldoet en
+- b. hij aan de criteria voor gekwalificeerde instanties, opgenomen in Bijlage VI van de basisverordening voldoet en
 
 - c. zijn handboek een door de minister goedgekeurde keuringsmethodiek bevat voor de keuring van RPA’s tot 150 kg.
 
 ##### Artikel 31
 
-1. Bij de aanvraag voor een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), verstrekt de aanvrager de volgende gegevens:
+1. Bij de aanvraag voor een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), verstrekt de aanvrager de volgende gegevens:
 
 - a. een korte levensbeschrijving van de aanvrager, het hoofd van de kwaliteitsafdeling, de gemachtigden, alsmede overige leden van het personeel die met betrekking tot de erkenning van het bedrijf een belangrijke functie vervullen, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;
 
@@ -256,7 +256,7 @@ Vervallen
 
 - c. een opgave van de potentiële afnemers van de resultaten van het productieproces ten behoeve waarvan een erkenning wordt aangevraagd;
 
-- d. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2018-04-01&g=2018-04-01);
+- d. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2020-10-01&g=2020-10-01);
 
 - e. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en het certificaat van vrijgave voor gebruik;
 
@@ -264,7 +264,7 @@ Vervallen
 
 - g. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.
 
-2. Bij de aanvraag voor een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), verstrekt de aanvrager de volgende gegevens:
+2. Bij de aanvraag voor een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), verstrekt de aanvrager de volgende gegevens:
 
 - a. een korte levensbeschrijving van de aanvrager, het hoofd van de kwaliteitsafdeling, de gemachtigden, alsmede overige leden van het personeel die met betrekking tot de erkenning van het bedrijf een belangrijke functie vervullen, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;
 
@@ -304,7 +304,7 @@ Vervallen
 
 1. Een aanvraag tot wijziging wordt door de minister goedgekeurd nadat is aangetoond, dat het bedrijf ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.
 
-2. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2018-04-01&g=2018-04-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2018-04-01&g=2018-04-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+2. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2020-10-01&g=2020-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2020-10-01&g=2020-10-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 3. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -326,9 +326,9 @@ Vervallen
 
 ##### Artikel 38
 
-1. Het handboek van de aanvrager van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2018-04-01&g=2018-04-01).
+1. Het handboek van de aanvrager van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2020-10-01&g=2020-10-01).
 
-2. Het handboek van de aanvrager van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), bevat de informatie die is voorgeschreven in onderdeel 21.A.243 van Part 21 bij verordening (EU) nr. 748/2012, met in achtneming van de van toepassing zijnde aanvullingen en afwijkingen als bedoeld in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2018-04-01&g=2018-04-01).
+2. Het handboek van de aanvrager van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bevat de informatie die is voorgeschreven in onderdeel 21.A.243 van Part 21 bij verordening (EU) nr. 748/2012, met in achtneming van de van toepassing zijnde aanvullingen en afwijkingen als bedoeld in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2020-10-01&g=2020-10-01).
 
 3. In door de minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.
 
@@ -336,7 +336,7 @@ Vervallen
 
 ##### Artikel 39
 
-1. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), bewaart de volgende gegevens ten minste gedurende de aangegeven termijn:
+1. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de volgende gegevens ten minste gedurende de aangegeven termijn:
 
 - a. de gegevens met betrekking tot onderhoud van onderdelen of producten: tien jaren na het beëindigen van de werkzaamheden;
 
@@ -344,11 +344,11 @@ Vervallen
 
 - c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.
 
-2. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), die in het bezit is van een MOA of MOA-F, bewaart de gegevens, bedoeld in Part M, subpart F, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
+2. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), die in het bezit is van een MOA of MOA-F, bewaart de gegevens, bedoeld in Part M, subpart F, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
 
-3. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), bewaart de gegevens, bedoeld in Part M, subpart G, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
+3. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de gegevens, bedoeld in Part M, subpart G, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
 
-4. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), bewaart de verklaring van goedkeuring, de ontwerpgegevens en de technische onderbouwing ten minste tot 2 jaar na het uit dienst nemen van het goedgekeurde ontwerp.
+4. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de verklaring van goedkeuring, de ontwerpgegevens en de technische onderbouwing ten minste tot 2 jaar na het uit dienst nemen van het goedgekeurde ontwerp.
 
 ##### Artikel 40
 
@@ -368,7 +368,7 @@ Indien naar het oordeel van de minister een verbetering van het kwaliteitssystee
 
 1. De aanvrager wordt erkend nadat deze naar het oordeel van de minister genoegzaam heeft aangetoond, dat hij:
 
-- a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2018-04-01&g=2018-04-01) voldoet;
+- a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2020-10-01&g=2020-10-01) voldoet;
 
 - b. in Nederland is gevestigd.
 
@@ -382,7 +382,7 @@ Bij de aanvraag verstrekt de aanvrager de volgende gegevens:
 
 - b. in het geval van een eenmansorganisatie, een afschrift van de overeenkomst met de uitvoerder van de kwaliteitsborgingsfunctie;
 
-- c. een exemplaar van het handboek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=16&z=2018-04-01&g=2018-04-01) van de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2018-04-01&g=2018-04-01);
+- c. een exemplaar van het handboek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=16&z=2020-10-01&g=2020-10-01) van de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2020-10-01&g=2020-10-01);
 
 - d. een exemplaar van te gebruiken modellen van het geluidsmeetrapport;
 
@@ -418,7 +418,7 @@ Vervallen
 
 - g. de ingebruikname van een nieuwe geluidsmeetlocatie.
 
-3. De houder van een erkenning, zijnde een eenmansorganisatie, deelt de minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 43, aanhef en onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2018-04-01&g=2018-04-01).
+3. De houder van een erkenning, zijnde een eenmansorganisatie, deelt de minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 43, aanhef en onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2020-10-01&g=2020-10-01).
 
 4. De minister kan voorwaarden stellen waaronder de in het derde lid bedoelde wijzigingen worden geaccepteerd.
 
@@ -428,7 +428,7 @@ Vervallen
 
 2. De erkenning als eenmansorganisatie wordt gewijzigd, nadat door tussenkomst van de uitvoerder van de kwaliteitsborgingsfunctie is aangetoond, dat de houder ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als geluidsmeetorganisatie gestelde voorwaarden zal blijven voldoen.
 
-3. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2018-04-01&g=2018-04-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2018-04-01&g=2018-04-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+3. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2020-10-01&g=2020-10-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2020-10-01&g=2020-10-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 4. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -450,7 +450,7 @@ Vervallen
 
 ##### Artikel 50
 
-1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2018-04-01&g=2018-04-01).
+1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2020-10-01&g=2020-10-01).
 
 2. De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.
 
@@ -674,7 +674,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 4, eerste lid, onderdeel b, van de basisverordening en de daarbij behorende verklaringen.
+1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 2, eerste lid, onderdeel b, onder i, van de basisverordening en de daarbij behorende verklaringen.
 
 2. De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.
 
@@ -702,17 +702,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. een erkenning tot het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een speciaal-BvL voor een RPA.
 
-De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts mogelijk voor zover het een luchtvaartuig betreft als bedoeld in de onderdelen a, b en d van bijlage II bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten.
+De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts mogelijk voor zover het een luchtvaartuig betreft als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten.
 
 2. De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid, onderdelen a en b, de bevoegdheid verlenen tot het aanvullend erkennen voor:
 
-- a. het uitvoeren van een BvL-verlengingsinspectie aan een luchtvaartuig als bedoeld in de onderdelen a, b en d van bijlage II bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, en dat is ingeschreven in het Nederlands register voor burgerluchtvaartuigen; en
+- a. het uitvoeren van een BvL-verlengingsinspectie aan een luchtvaartuig als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, en dat is ingeschreven in het Nederlands register voor burgerluchtvaartuigen; en
 
 - b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.
 
 ##### Artikel 36a
 
-1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2018-04-01&g=2018-04-01), intrekken, indien:
+1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), intrekken, indien:
 
 - a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
 
@@ -800,7 +800,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Deze regeling is gebaseerd op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [3.25 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.25) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20).
+Deze regeling is gebaseerd op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20).
 
 ### Hoofdstuk 2. Europese erkenningen
 
@@ -842,7 +842,7 @@ De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden
 
 De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
 
-## Bijlage E. bedoeld in[artikel 30, onderdeel c, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2018-04-01&g=2018-04-01), en[artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=38&z=2018-04-01&g=2018-04-01), van de Regeling erkenningen luchtwaardigheid 2008
+## Bijlage E. bedoeld in [artikel 30, vierde lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2020-10-01&g=2020-10-01), en[artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=38&z=2020-10-01&g=2020-10-01), van de Regeling erkenningen luchtwaardigheid 2008
 
 De minister geeft een nationale ontwerperkenning af overeenkomstig verordening Bijlage I (Part 21) van verordening (EU) nr. 748/2012, en bijbehorend AMC en GM materiaal, met dien verstande dat:
 
