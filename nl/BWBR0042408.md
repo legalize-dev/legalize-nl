@@ -4,7 +4,7 @@ identifier: "BWBR0042408"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2019-09-06"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042408"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** Minister van Economische Zaken en Klimaat;
+- –. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - –. **gemeenten:** gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum en Midden-Groningen;
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - e. Loppersum 7,584 miljoen, waarvan:
 
-- 1°. 0,15 miljoen voor de uitvoering van het project Procesgeld Dorpenronde gemeente Loppersum;
+- 1°. 0,127 miljoen voor de uitvoering van het project Procesgeld Dorpenronde gemeente Loppersum;
 
 - 2°. 0,63 miljoen voor de uitvoering van het project Programma Jeugd Onderwijs en Leefbaarheid;
 
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 - 10°. 0,825 miljoen voor de uitvoering van het project Centrumplan Loppersum;
 
-- 11°. 0,16 miljoen voor de uitvoering van het project Demowoning duurzaamheid, Middelstum;
+- 11°. 0,183 miljoen voor de uitvoering van het project Demowoning duurzaamheid, Middelstum;
 
 - 12°. 0,25 miljoen voor de uitvoering van het project Dorpsinitiatieven gemeente Loppersum;
 
@@ -184,7 +184,7 @@ De gemeenten en de provincie Groningen besteden de specifieke uitkering uitsluit
 
 1. De gemeenten en de provincie Groningen leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042408&artikel=2&z=2019-09-06&g=2019-09-06), niet volledig of onrechtmatig is besteed, wordt de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042408&artikel=2&z=2020-10-01&g=2020-10-01), niet volledig of onrechtmatig is besteed, wordt de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 ##### Artikel 5
 
