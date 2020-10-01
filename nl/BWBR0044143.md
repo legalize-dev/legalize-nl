@@ -4,7 +4,7 @@ identifier: "BWBR0044143"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-09-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044143"
 soort: "AMvB"
@@ -43,8 +43,6 @@ Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 ##### Artikel II
 
 Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -92,16 +90,54 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 6g van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6g), zoals dat luidde op de dag vóór de datum van inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), blijft van toepassing op de rechterlijk ambtenaar met rechtspraak belast die vóór die datum een toeslag als bedoeld in artikel 6g van het Besluit rechtspositie rechterlijke ambtenaren genoot en op de raadsheer of senior rechter die vóór deze datum een schriftelijke bevestiging heeft ontvangen van het gerechtsbestuur dat hij is of zal worden voorgedragen voor benoeming tot raadsheer of senior rechter bij een ander gerecht, dan wel tot wijziging van de vaststelling van het gerecht waar het ambt wordt vervuld zal worden overgegaan, met dien verstande dat de in dat artikel bedoelde toeslag wordt vastgesteld op een percentage van de uitkomst van de berekening ingevolge het tweede lid van dat artikel, overeenkomstig de navolgende reeks:
+
+- a. gedurende het eerste jaar na de datum van inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01): 80%;
+
+- b. gedurende het tweede jaar na de datum van inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01): 60%;
+
+- c. gedurende het derde jaar na de datum van inwerkingtreding [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01): 40%;
+
+- d. gedurende het vierde jaar na de datum van inwerkingtreding [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01): 20%;
+
+- e. met ingang van het vijfde jaar na de datum van inwerkingtreding [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01): 0%.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d), zoals dat luidde op de dag vóór de datum van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), blijft van toepassing op de rechterlijk ambtenaar die in 2020 reeds van de regeling als bedoeld in artikel 8d gebruikmaakt.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 33n](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33n) zoals dat luidde voor inwerkingtreding van [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), blijft van toepassing op reeds lopende aanspraken op gedeeltelijke doorbetaling van bezoldiging tijdens ouderschapsverlof.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2. In afwijking van het eerste lid treden de [artikelen I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=II&z=2020-10-01&g=2020-10-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=VI&z=2020-10-01&g=2020-10-01) in werking met ingang van 1 oktober 2020.
+
+3. [Artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), werkt terug tot en met 1 januari 2018.
+
+4. De [artikelen I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=IV&z=2020-10-01&g=2020-10-01) werken terug tot en met 1 juli 2018.
+
+5. [Artikel I, onderdelen A en I](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), werkt terug tot en met 1 januari 2019.
+
+6. De [artikelen I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=V&z=2020-10-01&g=2020-10-01) werken terug tot en met 1 juli 2019.
+
+7. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=III&z=2020-10-01&g=2020-10-01) werkt terug tot en met 1 september 2019.
+
+8. [Artikel I, onderdelen B, J en N](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), werkt terug tot en met 1 januari 2020.
+
+9. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0044143&artikel=I&z=2020-10-01&g=2020-10-01), werkt terug tot en met 1 juli 2020.
+
+Op de voordracht van Onze Minister voor Rechtsbescherming van 10 juli 2020, nr. 2970128, directie Wetgeving en Juridische Zaken;
+
+Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=9), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=19b) en [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54), de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73) en [artikel VI van de Wet van 2 december 2015 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met een herziening van de opleiding van rechters en officieren van justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0037519&artikel=VI);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 22 juli 2020, No.W16.20.0249/II);
+
+Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 22 september 2020, nr. 3021395, directie Wetgeving en Juridische Zaken.
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
