@@ -4,7 +4,7 @@ identifier: "BWBR0044136"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-10-01"
-last_updated: "2020-09-28"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044136"
 soort: "zbo"
@@ -156,7 +156,7 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 4. Indien de adviescommissie de in het tweede lid van dit artikel bedoelde aspecten van voldoende belang acht, brengt zij een positief advies uit over de aanvraag.
 
-5. Als het subsidieplafond ontoereikend is om alle aanvragen, waarover een positief advies is uitgebracht te honoreren, ook na toepassing van [artikel 7 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=7&z=2020-10-01&g=2020-09-28), plaatst de adviescommissie de overige aanvragen in een rangorde op basis van de in het tweede lid van dit artikel bedoelde aspecten.
+5. Als het subsidieplafond ontoereikend is om alle aanvragen, waarover een positief advies is uitgebracht te honoreren, ook na toepassing van [artikel 7 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=7&z=2020-10-01&g=2020-10-01), plaatst de adviescommissie de overige aanvragen in een rangorde op basis van de in het tweede lid van dit artikel bedoelde aspecten.
 
 ##### Artikel 7. Hoogte subsidiebedrag
 
@@ -178,11 +178,11 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen.
 
-2. Het bestuur verdeelt de beschikbare subsidies volgens de rangorde als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=6&z=2020-10-01&g=2020-09-28), waarbij aanvragen worden toegewezen, totdat het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=9&z=2020-10-01&g=2020-09-28) bedoelde subsidieplafond is bereikt.
+2. Het bestuur verdeelt de beschikbare subsidies volgens de rangorde als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=6&z=2020-10-01&g=2020-10-01), waarbij aanvragen worden toegewezen, totdat het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=9&z=2020-10-01&g=2020-10-01) bedoelde subsidieplafond is bereikt.
 
 3. De resterende aanvragen worden afgewezen.
 
-4. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=5&z=2020-10-01&g=2020-09-28) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
+4. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=5&z=2020-10-01&g=2020-10-01) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
 
 ##### Artikel 9. Subsidieplafond
 
