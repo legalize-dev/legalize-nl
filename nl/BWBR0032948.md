@@ -4,7 +4,7 @@ identifier: "BWBR0032948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2013-08-23"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032948"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ In deze regeling wordt verstaan onder:
 
 - **AFM:** vlieghandboek betreffende een luchtvaartuig (Aircraft Flight Manual);
 
-- **bevoegd onderhoudstechnicus:** houder van een geldig bewijs van bevoegdheid krachtens deel 66 van [Verordening (EG) nr. 2042/2003](32003R2042) van de Commissie van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315);
+- **bevoegd onderhoudstechnicus:** houder van een geldig bewijs van bevoegdheid krachtens bijlage III (Part 66) bij Verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU 2014 L 362);
 
 - **vaardigheidstoets:** demonstratie van vaardigheid ten behoeve van de afgifte van de Yak-52 typebevoegdverklaring;
 
 - **vlieginstructeur Yak-52:** houder van een Yak-52 typebevoegdverklaring in combinatie met een bevoegdverklaring Flight Instructor als bedoeld in Bijlage I, subdeel J, sectie 2, bij Verordening (EU) nr. 1178/2011 dan wel met een bevoegdverklaring Class Rating Instructor als bedoeld in Bijlage I, subdeel J, sectie 5, bij Verordening (EU) nr. 1178/2011;
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- **minister:** Minister van Infrastructuur en Waterstaat;
 
 - **Yak-52 typebevoegdverklaring:** bevoegdverklaring voor het type luchtvaartuig, Yak-52;
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een specificatie van het luchtvaartuig;
 
-- b. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model als opgenomen in [bijlage 1 bij de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&bijlage=1) waaruit op grond van een onderzoek door een bevoegd onderhoudstechnicus, blijkt dat:
+- b. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model zoals door de minister elektronisch beschikbaar is gesteld en waaruit op grond van een onderzoek door een bevoegd onderhoudstechnicus, blijkt dat:
 
 - i. het toestel overeenkomt met het basisontwerp Yak-52 nr. IENM-ILT-2012/21952, of
 
@@ -86,7 +86,9 @@ In deze regeling wordt verstaan onder:
 
 - e. een onderhoudshandboek in de Nederlandse of Engelse taal.
 
-3. Het model van het speciaal-BvL is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=1&z=2013-08-23&g=2013-08-23) bij deze regeling.
+3. Het model van het speciaal-BvL is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=1&z=2020-10-01&g=2020-10-01) bij deze regeling.
+
+4. [Hoofdstuk 4, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=1), [hoofdstuk 5, artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=34), en de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=3) en [4, van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&paragraaf=4) zijn overeenkomstig van toepassing.
 
 ##### Artikel 3
 
@@ -98,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een verklaring van de in onderdeel a bedoelde bevoegde onderhoudstechnicus waaruit blijkt dat wordt voldaan aan de van toepassing zijnde luchtwaardigheidsaanwijzingen en door de minister uitgebrachte bijzondere luchtwaardigheidsaanwijzingen, en
 
-- c. een verklaring van een bevoegd onderhoudstechnicus waaruit blijkt dat het luchtvaartuig is onderhouden conform het onderhoudshandboek, bedoeld in [artikel 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2013-08-23&g=2013-08-23).
+- c. een verklaring van een bevoegd onderhoudstechnicus waaruit blijkt dat het luchtvaartuig is onderhouden conform het onderhoudshandboek, bedoeld in [artikel 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2020-10-01&g=2020-10-01).
 
 #### § 3. Vluchtuitvoering
 
@@ -114,11 +116,7 @@ In deze regeling wordt verstaan onder:
 
 - d. verhuur of rondvluchten;
 
-- e. IFR-vluchten;
-
-- f. nachtvluchten, en
-
-- g. vluchten boven of binnen een afstand van 100 meter van aaneengesloten bebouwing, industrie- en havengebieden daaronder begrepen, dan wel boven mensenmenigten, tenzij benodigd voor start en landing.
+- e. vluchten boven of binnen een afstand van 100 meter van aaneengesloten bebouwing, industrie- en havengebieden daaronder begrepen, dan wel boven mensenmenigten, tenzij benodigd voor start en landing.
 
 2. De minister kan aanvullende gebruiksbeperkingen stellen die worden opgenomen op het speciaal-BvL of in een bijlage bij het speciaal-BvL.
 
@@ -136,11 +134,11 @@ In deze regeling wordt verstaan onder:
 
 - a. voorafgaand aan de opleiding bedoeld in onderdeel b, ten minste 200 uren vliegervaring heeft waarvan 70 uren in de hoedanigheid van gezagvoerder op vliegtuigen, en
 
-- b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond voor de Yak-52 typebevoegdverklaring conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=2&z=2013-08-23&g=2013-08-23) bij deze regeling.
+- b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond voor de Yak-52 typebevoegdverklaring conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&bijlage=2&z=2020-10-01&g=2020-10-01) bij deze regeling.
 
 ##### Artikel 6
 
-1. De opleiding bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-08-23&g=2013-08-23), wordt afgesloten met een vaardigheidstoets afgenomen door een vlieginstructeur Yak-52 die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.
+1. De opleiding bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2020-10-01&g=2020-10-01), wordt afgesloten met een vaardigheidstoets afgenomen door een vlieginstructeur Yak-52 die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.
 
 2. Het toetsen van theoretische kennis teneinde het type veilig te kunnen vliegen maakt onderdeel uit van de vaardigheidstoets.
 
@@ -170,23 +168,7 @@ Voor het behouden van de Yak-52 typebevoegdverklaring is vereist dat ten minste 
 
 ##### Artikel 10
 
-In afwijking van de bepalingen in deze regeling geldt voor de Yak-52 vliegtuigen die de registratie RA-1771K, RA-3411K, RA-2075K, RA-3480K, RA-3326K, RA-3513K en RA-3085K voeren, tot uiterlijk 1 juni 2013 dat:
-
-- a. de configuratie van het luchtvaartuig het oorspronkelijk ontwerp is en blijft en dat eventuele afwijkingen daarvan zijn uitgevoerd volgens de van toepassing zijnde regelgeving van de staat van registratie;
-
-- b. bij elk luchtvaartuig een AMP is overeenkomstig artikel M.A. 302 van Part M;
-
-- c. het AMP is gebaseerd op de schriftelijke aanwijzingen van de fabrikant van het luchtvaartuig;
-
-- d. het luchtvaartuig wordt onderhouden conform het AMP;
-
-- e. er bij elk luchtvaartuig een AFM is conform de configuratie van dat luchtvaartuig in de Nederlandse of Engelse taal;
-
-- f. de technische administratie is vertaald in de Nederlandse of Engelse taal;
-
-- g. de luchtwaardigheidsaanwijzingen voorgesteld door de fabrikant, S.C. AEROSTAR S.A. te Bacao, Roemenië, en de door de minister uitgebrachte bijzondere luchtwaardigheidsaanwijzingen worden opgevolgd, en
-
-- h. de bestuurder van een Yak-52 vliegtuig in het bezit is van een PPL (A) SEP.
+Vervallen
 
 #### § 6. Wijziging van de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882)
 
@@ -229,7 +211,32 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 |   |   |   |   |
 | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** |
 
-## Bijlage 2. bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2013-08-23&g=2013-08-23), van de Regeling Yakovlev-52 vliegtuigen
+## Bijlage 1. bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=2&artikel=2&z=2020-10-01&g=2020-10-01), van de Regeling Yakovlev-52 vliegtuigen
+
+| **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** | **SPECIAL CERTIFICATE OF AIRWORTHINESS** |
+| --- | --- | --- | --- |
+|   |   |   |   |
+|   |   | Human Environment and Transport Inspectorate Civil Aviation Authority Netherlands Correspondence address: P.O. Box 575, 2130 AN Hoofddorp, The Netherlands | **Registration number: ...** **ICAO aircraft designator: ...** |
+| **1. Nat. & registration marks:** | **1. Nat. & registration marks:** | **2. Manufacturer and manufacturer's designation of aircraft:** .............................. | **3. Aircraft serial number:** ... |
+|   |   | **2. Manufacturer and manufacturer's designation of aircraft:** .............................. | **3. Aircraft serial number:** ... |
+| **P H - ...** | **P H - ...** | **2. Manufacturer and manufacturer's designation of aircraft:** .............................. | **3. Aircraft serial number:** ... |
+| **4. Categories:** .................. | **4. Categories:** .................. | **4. Categories:** .................. | **4. Categories:** .................. |
+| 5. This Special Certificate of Airworthiness is issued pursuant to the Netherlands Act on Aviation for aircraft excluded from the European Regulation (EC) No 216/2008 and which also do not comply with the airworthiness requirements of ICAO. The abovementioned aircraft is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. | 5. This Special Certificate of Airworthiness is issued pursuant to the Netherlands Act on Aviation for aircraft excluded from the European Regulation (EC) No 216/2008 and which also do not comply with the airworthiness requirements of ICAO. The abovementioned aircraft is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. | 5. This Special Certificate of Airworthiness is issued pursuant to the Netherlands Act on Aviation for aircraft excluded from the European Regulation (EC) No 216/2008 and which also do not comply with the airworthiness requirements of ICAO. The abovementioned aircraft is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. | 5. This Special Certificate of Airworthiness is issued pursuant to the Netherlands Act on Aviation for aircraft excluded from the European Regulation (EC) No 216/2008 and which also do not comply with the airworthiness requirements of ICAO. The abovementioned aircraft is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. |
+|   |   |   |   |
+| **Date of issue:** .................... | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, |
+|   | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, | **Signature:** The State Secretary for Infrastructure and the Environment, On behalf, |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+| **Limitations / Remarks:** |   |   |   |
+| 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. | 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked. |
+|   |   |   |   |
+|   |   |   |   |
+| **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** | **This certificate shall be carried on board during all flights Document Number: .....** |
+
+### Opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
 ### Opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
@@ -246,6 +253,26 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 ### 2. Toegestane afwijkingen bij de vaardigheidstoets
 
 ### 3. Inhoud van de opleiding en de vaardigheidstoets
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=9), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=12), en [13 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=13), [artikel 7, eerste lid, van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7), de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9), en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10), en [artikel 19, derde lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
+
+#### § 2. Speciaal-BvL
+
+#### § 3. Vluchtuitvoering
+
+#### § 4. Bewijs van bevoegdheid en bevoegdverklaring
+
+#### § 5. Overgangsbepaling
+
+#### § 6. Wijziging van de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882)
+
+#### § 7. Slotbepalingen
+
+## Bijlage 2. bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032948&paragraaf=4&artikel=5&z=2020-10-01&g=2020-10-01), van de Regeling Yakovlev-52 vliegtuigen
 
 ### C. Schema opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
