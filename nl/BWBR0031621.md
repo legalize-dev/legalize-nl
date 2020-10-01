@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-01-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -54,8 +54,6 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1);
-
 - **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
 
 - **groep:** een eenheid die bestaat uit een aantal door een gastouder op te vangen kinderen;
@@ -66,7 +64,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **meldcode:** meldcode huiselijk geweld en kindermishandeling;
 
-- **melding:** melding aan het AMHK van huiselijk geweld of kindermishandeling of van een vermoeden daarvan;
+- **melding:** melding aan Veilig Thuis van huiselijk geweld of kindermishandeling of van een vermoeden daarvan;
+
+- **Veilig Thuis:** Veilig Thuis-organisatie als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1);
 
 - **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder.
 
@@ -130,7 +130,7 @@ Vervallen
 
 - a. het in kaart brengen van de signalen van huiselijk geweld of kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van Veilig Thuis of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de ouders en, indien mogelijk, het kind;
 
@@ -160,7 +160,7 @@ Vervallen
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2019-01-01&g=2019-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2020-10-01&g=2020-10-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -200,13 +200,13 @@ Vervallen
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2019-01-01&g=2019-01-01).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2020-10-01&g=2020-10-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
 ##### Artikel 17. Overgangsrecht
 
-Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2019-01-01&g=2019-01-01), bedoelde deskundigheidseis.
+Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2020-10-01&g=2020-10-01), bedoelde deskundigheidseis.
 
 ##### Artikel 18. Citeertitel
 
