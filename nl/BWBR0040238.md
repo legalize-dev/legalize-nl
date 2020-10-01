@@ -4,7 +4,7 @@ identifier: "BWBR0040238"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2018-12-15"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040238"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **elektronisch uitwisselingssysteem:** een elektronisch uitwisselingssysteem als bedoeld in de [Wet aanvullende bepalingen verwerking persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) in de zorg;
 
-- **logging:** de stelselmatige geautomatiseerde registratie van gegevens bedoeld in [artikel 35, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) en [artikel 15e van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15e) alsmede de bestanden waarin die registratie is opgeslagen;
+- **logging:** de stelselmatige geautomatiseerde registratie van gegevens bedoeld in [artikel 15e van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15e) alsmede de bestanden waarin die registratie is opgeslagen;
 
 - **NEN:** een door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
 
@@ -63,8 +63,6 @@ In dit besluit wordt verstaan onder:
 - **NEN 7512:** nadere invulling van NEN 7510 betreffende de veiligheid van gegevensuitwisseling tussen partijen in de zorg;
 
 - **NEN 7513:** nadere invulling van NEN 7510 betreffende het vastleggen van acties op elektronische patiëntdossiers;
-
-- **wet:** [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
 
 - **zorgaanbieder:** zorgaanbieder als bedoeld in de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864);
 
@@ -98,7 +96,7 @@ Bij het vastleggen van beleid, procedures en verantwoordelijkheden als bedoeld i
 
 1. De zorgaanbieder als verantwoordelijke voor een zorginformatiesysteem en de verantwoordelijke voor een elektronisch uitwisselingssysteem dragen er zorg voor dat de logging van het systeem voldoet aan het bepaalde in NEN 7513.
 
-2. Vertegenwoordigende organisaties van zorgaanbieders en patiënten stellen, in overleg met het College bescherming persoonsgegevens, overeenkomstig het bepaalde in NEN 7513 de bewaartermijn voor logging vast en maken die bewaartermijn bekend in de Staatscourant binnen 6 maanden na de inwerkingtreding van dit besluit. Indien niet binnen deze termijn een bewaartermijn bekend is gemaakt, stelt Onze Minister van Volksgezondheid, Welzijn en Sport een bewaartermijn vast en maakt die bekend in de Staatscourant.
+2. Vertegenwoordigende organisaties van zorgaanbieders en patiënten stellen, in overleg met de Autoriteit persoonsgegevens, overeenkomstig het bepaalde in NEN 7513 de bewaartermijn voor logging vast en maken die bewaartermijn bekend in de Staatscourant binnen 6 maanden na de inwerkingtreding van dit besluit. Indien niet binnen deze termijn een bewaartermijn bekend is gemaakt, stelt Onze Minister van Volksgezondheid, Welzijn en Sport een bewaartermijn vast en maakt die bekend in de Staatscourant.
 
 ##### Artikel 6
 
@@ -114,7 +112,7 @@ Wijzigt het Besluit gebruik burgerservicenummer in de zorg.
 
 ##### Artikel 9
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2018-12-15&g=2018-12-15) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2018-12-15&g=2018-12-15), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+1. Dit besluit treedt in werking met ingang van 1 januari 2018, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=8&z=2020-10-01&g=2020-10-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040238&paragraaf=1&artikel=9&z=2020-10-01&g=2020-10-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 2. Met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, berust het [Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902) op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17) en [17a van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=17a) en de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=17) en [21, vierde lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=21).
 
