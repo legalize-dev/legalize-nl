@@ -4,7 +4,7 @@ identifier: "BWBR0007499"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "1996-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007499"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit wordt verstaan onder de wet: de [Wet op het bevolkingsonderzoek](
 
 1. Onderzoek bij een persoon in het kader van een bevolkingsonderzoek als bedoeld in artikel 3, derde lid, van de wet mag slechts worden verricht:
 
-- a. indien de te onderzoeken persoon meerderjarig is en onderdeel **c** niet van toepassing is: met de schriftelijke toestemming van de betrokkene;
+- a. indien de te onderzoeken persoon de leeftijd van zestien jaar heeft bereikt en onderdeel **c** niet van toepassing is: met de schriftelijke toestemming van de betrokkene;
 
-- b. indien de te onderzoeken persoon minderjarig is doch de leeftijd van twaalf jaar heeft bereikt en onderdeel **c** niet van toepassing is: met de schriftelijke toestemming van de betrokkene alsmede de schriftelijke toestemming van de ouders die het ouderlijk gezag uitoefenen of van zijn voogd;
+- b. indien de te onderzoeken persoon minderjarig is en de leeftijd van twaalf maar nog niet die van zestien jaar heeft bereikt en onderdeel **c** niet van toepassing is: met de schriftelijke toestemming van de betrokkene alsmede de schriftelijke toestemming van de ouders die het ouderlijk gezag uitoefenen of van zijn voogd;
 
 - c. indien de te onderzoeken persoon twaalf jaar of ouder is en niet in staat is tot een redelijke waardering van zijn belangen ter zake: met de schriftelijke toestemming van de ouders die het ouderlijk gezag uitoefenen of van de voogd dan wel, indien hij meerderjarig is, van de wettelijke vertegenwoordiger of van de echtgenoot of andere levensgezel van de betrokkene;
 
