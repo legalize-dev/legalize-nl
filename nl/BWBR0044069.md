@@ -4,7 +4,7 @@ identifier: "BWBR0044069"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-01-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044069"
 soort: "AMvB"
@@ -40,49 +40,33 @@ entry_into_force: "2020-10-01"
 
 Wijzigt het Besluit actieve implantaten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit basisregistratie personen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt het Besluit bevolkingsonderzoek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt het Besluit elektronische gegevensverwerking door zorgaanbieders.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt het Besluit Jeugdwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
 Wijzigt het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt het Besluit kwaliteit kinderopvang.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -92,63 +76,45 @@ Wijzigt het Besluit langdurige zorg.
 
 Wijzigt het Besluit medische hulpmiddelen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
 Wijzigt het Besluit politiegegevens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt het Besluit verplichte meldcode huiselijk geweld en kindermishandeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
 Wijzigt het Eisenbesluit lichaamsmateriaal 2006.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt het Registratiebesluit BIG.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
 Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt het Besluit van 7 november 2019, houdende wijziging van het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015 aangaande de opvang van slachtoffers van eergerelateerd en huiselijk geweld zonder verblijfsvergunning en wijziging van enkele besluiten in verband met technische aanpassingen eigen bijdrage zorg en maatschappelijke ondersteuning (Stb. 2019, 418).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
 Wijzigt het Wijzigingsbesluit Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 (verlaging vermogensinkomensbijtelling, verkorting overgangstermijnen voor de hoge en lage eigen bijdrage, de termijn waarover het CAK een eigen bijdrage mag opleggen, introduceren van een abonnementstarief voor maatwerkvoorzieningen en een grondslag voor uitzonderen eenmalige letselschadevergoedingen van het vermogen dat meetelt voor de vermogensinkomensbijtelling).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op 1 oktober 2020 en werkt ten aanzien van [artikel IX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044069&artikel=IX&z=2020-10-01&g=2020-10-01), terug tot en met 1 januari 2019.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit VWS 2020.
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 25 juni 2020, kenmerk 1670268-203893-WJZ, gedaan in overeenstemming met Onze Minister voor Rechtsbescherming;
 
