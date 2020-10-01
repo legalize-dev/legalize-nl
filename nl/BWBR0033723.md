@@ -4,7 +4,7 @@ identifier: "BWBR0033723"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2019-01-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033723"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **meldcode:** meldcode huiselijk geweld en kindermishandeling;
 
-- b. **melding:** melding aan het AMHK van huiselijk geweld of kindermishandeling of van een vermoeden daarvan;
+- b. **melding:** melding aan Veilig Thuis van huiselijk geweld of kindermishandeling of van een vermoeden daarvan;
 
 - c. **verwijsindex risicojongeren:** verwijsindex risico-jongeren als bedoeld in [artikel 7.1.2.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.2.1);
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **kindcheck:** gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van die minderjarigen;
 
-- g. **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1).
+- g. **Veilig Thuis:** Veilig Thuis-organisatie als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1).
 
 ##### Artikel 2
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - a. het in kaart brengen van de signalen van huiselijk geweld of kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van Veilig Thuis of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de cliënt;
 
