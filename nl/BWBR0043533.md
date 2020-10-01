@@ -4,7 +4,7 @@ identifier: "BWBR0043533"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-07-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043533"
 soort: "ministeriele-regeling-BES"
@@ -238,7 +238,7 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 4. De minister betaalt de kostprijs verlagende subsidies en de kindplaatssubsidies per kwartaal in de vorm van een voorschot.
 
-5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-07-01&g=2020-07-01) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
+5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-07-01&g=2020-10-01) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
 
 6. De looptijd van de subsidie wordt bepaald bij verleningsbeschikking maar eindigt in ieder geval op 31 december 2021.
 
@@ -282,7 +282,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - a. de subsidieaanvraag niet voldoet aan de krachtens deze regeling gestelde voorwaarden;
 
-- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2020-07-01&g=2020-07-01), reeds door eerder ingediende aanvragen zijn uitgeput.
+- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2020-07-01&g=2020-10-01), reeds door eerder ingediende aanvragen zijn uitgeput.
 
 ##### Artikel 18. Intrekking subsidie
 
