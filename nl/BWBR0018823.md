@@ -4,7 +4,7 @@ identifier: "BWBR0018823"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2019-12-14"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018823"
 soort: "AMvB"
@@ -100,15 +100,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de artikelen 3, 4, eerste, tweede, en derde lid, 5, eerste lid, tweede lid, laatste alinea, en vierde lid, en 6, tweede lid, en derde lid, onder a, b, en c, van [verordening (EG) 852/2004](32004R0852).
+1. Het is verboden te handelen in strijd met de artikelen 3, 4, eerste, tweede en derde lid, 5, eerste lid, tweede lid, laatste alinea, en vierde lid, 6, tweede lid en derde lid, onderdelen a, b, en c, van [verordening (EG) 852/2004](32004R0852) en de krachtens artikel 4, vierde lid, van [verordening (EG) 852/2004](32004R0852) vastgestelde bepalingen.
 
 2. Het is verboden te handelen in strijd met de artikelen 3, 4, eerste tot en met vierde lid, 5, 6, eerste, derde, en vierde lid, 7, eerste lid, en 8, eerste lid, van [verordening (EG) 853/2004](32004R0853).
 
 3. Het is verboden te handelen in strijd met de artikelen 3, 4, 5, eerste, tweede en vierde lid, 6, eerste lid, 7, en 9, van [verordening (EG) 2073/2005](32005R2073).
 
-4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2019-12-14&g=2019-12-14), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2019-12-14&g=2019-12-14) vastgestelde regels.
+4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2020-10-01&g=2020-10-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2020-10-01&g=2020-10-01) vastgestelde regels.
 
-5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2019-12-14&g=2019-12-14).
+5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2020-10-01&g=2020-10-01).
 
 ##### Artikel 3
 
@@ -154,13 +154,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14).
+1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2020-10-01&g=2020-10-01).
 
 2. De exploitant van een levensmiddelenbedrijf, die gebruik maakt van de hygiënecode, bedoeld in het eerste lid:
 
-- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
+- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2020-10-01&g=2020-10-01), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
 
-- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
+- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2020-10-01&g=2020-10-01), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het gebruik van:
 
@@ -194,7 +194,7 @@ geschiedt op zindelijke wijze en zodanig dat:
 
 - 2°. onder 1° bedoelde organismen zich niet zodanig kunnen vermeerderen of zodanige toxinen kunnen vormen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn of worden.
 
-2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2019-12-14&g=2019-12-14), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2019-12-14&g=2019-12-14), van overeenkomstige toepassing.
+2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2020-10-01&g=2020-10-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2020-10-01&g=2020-10-01), van overeenkomstige toepassing.
 
 #### § 5. Rauwe melk
 
@@ -238,7 +238,7 @@ De Nederlandse Voedsel- en Warenautoriteit is bevoegd de toestemming te verlenen
 
 ##### Artikel 10
 
-Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2019-12-14&g=2019-12-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen [(EG) 852/2004](32004R0852) of [853/2004](32004R0853) gestelde voorschriften.
+Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2020-10-01&g=2020-10-01), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen [(EG) 852/2004](32004R0852) of [853/2004](32004R0853) gestelde voorschriften.
 
 ##### Artikel 11
 
@@ -278,7 +278,7 @@ Wijzigt het Warenwetbesluit Uitvoer van waren.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2006.
 
-2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2019-12-14&g=2019-12-14) vervalt met ingang van 1 januari 2010.
+2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2020-10-01&g=2020-10-01) vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 20
 
