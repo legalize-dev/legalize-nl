@@ -4,7 +4,7 @@ identifier: "BWBR0037958"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-09-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037958"
 soort: "ministeriele-regeling"
@@ -135,9 +135,9 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.4
 
-1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2020-09-01&g=2020-09-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
+1. Verificatie van de metingen bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.1&z=2020-10-01&g=2020-10-01), vindt per merk en type sigaret eens in de drie jaar plaats. De kosten die samenhangen met de verificatie worden ten laste gebracht van de degene ten behoeve van wie deze werkzaamheden worden verricht. De kosten bedragen € 2.582,47 per merk en type sigaret.
 
-2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2020-09-01&g=2020-09-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
+2. Verificatie van de metingen bedoeld in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.2&z=2020-10-01&g=2020-10-01), vindt per merk en type shagtabak eens in de drie jaar plaats. De kosten die samenhangen met de verificatie van de metingen bedoeld in artikel 2.2, derde lid, worden ten laste gebracht van degene van wie de werkzaamheden worden verricht. De kosten bedragen € 2.978,63 per merk en type shagtabak.
 
 ##### Artikel 2.5
 
@@ -153,7 +153,7 @@ Hierbij wordt gebruik gemaakt van de in **NEN-ISO 15592-3:2009 ‘Fine-cut tobac
 
 ##### Artikel 2.7
 
-[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2020-09-01&g=2020-09-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
+[Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.1&z=2020-10-01&g=2020-10-01) is van overeenkomstige toepassing op het tabaksproduct zelf.
 
 ##### Artikel 2.8
 
@@ -185,7 +185,7 @@ De etikettering van een verpakkingseenheid of buitenverpakking van een tabakspro
 
 1. Een gezondheidswaarschuwing op een verpakkingseenheid en een buitenverpakking van tabaksproducten die in de handel worden gebracht voldoen aan artikel 8, eerste tot en met vierde lid, van de tabaksproductenrichtlijn.
 
-2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-09-01&g=2020-09-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2020-09-01&g=2020-09-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2020-09-01&g=2020-09-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2020-09-01&g=2020-09-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
+2. De afmetingen van een gezondheidswaarschuwing als bedoeld in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-10-01&g=2020-10-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.4&z=2020-10-01&g=2020-10-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.6&z=2020-10-01&g=2020-10-01) en [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.8&z=2020-10-01&g=2020-10-01) worden berekend in verhouding tot de betreffende oppervlakte wanneer de verpakkingseenheid of de buitenverpakking van een tabaksproduct gesloten is.
 
 3. Een gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van een tabaksproduct wordt omgeven door een 1 mm brede zwarte rand, binnen de voor deze gezondheidswaarschuwing bestemde oppervlakte. Deze eis geldt niet voor de gezondheidswaarschuwing op een verpakkingseenheid of buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2).
 
@@ -226,6 +226,126 @@ Of bel de stoplijn 0800-1995 (gratis).
 1. Een verpakkingseenheid van sigaretten of shagtabak voldoet aan artikel 14 van de tabaksproductenrichtlijn.
 
 2. Een verpakkingseenheid of een buitenverpakking van sigaretten of shagtabak bevat geen bestanddelen die geur- of smaakstoffen bevatten of die met technische elementen de geur, de smaak of de intensiteit van de rook van de betreffende sigaret of het betreffende shagtabak kunnen wijzigen.
+
+3. Een verpakkingseenheid of buitenverpakking van sigaretten of shagtabak:
+
+- a. bevat, behoudens het bepaalde in het vierde lid, geen andere producten dan sigaretten of shagtabak;
+
+- b. is van aaneengesloten materiaal;
+
+- c. bevat geen doorzichtige onderdelen of geluidseffecten; en
+
+- d. heeft aan de binnenkant de kleur Pantone 448C of wit met een matte en gladde afwerking.
+
+4. Naast het bepaalde in het derde lid, kan een verpakkingseenheid of buitenverpakking van:
+
+- a. sigaretten aan de binnenkant foliepapier bevatten dat de producten omhult om de versheid te bewaren, mits dit foliepapier:
+
+- 1°. onbedrukt is;
+
+- 2°. een matte en gladde afwerking heeft, tenzij textuurvormen een noodzakelijk gevolg zijn van het geautomatiseerde productieproces, op voorwaarde dat deze op gelijke afstand van elkaar zijn gelegen, dezelfde grootte hebben en geen afbeelding, model, motief of symbool vormen dat doet denken aan iets anders; en
+
+- 3°. hetzij volledig wit hetzij aan de buitenkant zilverkleurig en aan de binnenkant wit is;
+
+- b. shagtabak als onderdeel van de binnenverpakking foliepapier bevatten dat de verpakking luchtdicht afsluit, mits dit foliepapier:
+
+- 1°. onbedrukt is;
+
+- 2°. een matte en gladde afwerking heeft, tenzij textuurvormen een noodzakelijk gevolg zijn van het geautomatiseerde productieproces, op voorwaarde dat deze op gelijke afstand van elkaar zijn gelegen, dezelfde grootte hebben en geen afbeelding, model, motief of symbool vormen dat doet denken aan iets anders; en
+
+- 3°. hetzij volledig wit, hetzij aan de buitenkant zilverkleurig en aan de binnenkant wit, hetzij, in het geval van een verpakking met deksel, volledig zilverkleurig is;
+
+- c. sigaretten of shagtabak een omhulsel van onbedrukt, ongekleurd en doorzichtig cellofaan met een gladde afwerking bevatten, dat een cellofaanstrip kan bevatten, mits de cellofaanstrip:
+
+- 1°. ten hoogste drie millimeter breed is;
+
+- 2°. in dezelfde leesrichting loopt als de waarschuwende tekst van de gecombineerde gezondheidswaarschuwing; en
+
+- 3°. doorzichtig of zwart is, waarvan ten hoogste een gedeelte van vijftien millimeter lang in contrast daarmee doorzichtig of zwart kan zijn;
+
+- d. shagtabak een plakstrip bevatten om de verpakking hersluitbaar te maken, mits deze plakstrip onbedrukt, ongekleurd en doorzichtig is en een gladde afwerking heeft.
+
+5. Het deel van de verpakkingseenheid en buitenverpakking van sigaretten of shagtabak dat niet in beslag wordt genomen door de gezondheidswaarschuwing heeft aan de buitenkant de kleur Pantone 448C met een matte en gladde afwerking.
+
+6. Naast het bepaalde in het vijfde lid, kan het deel van de verpakkingseenheid en buitenverpakking van sigaretten of shagtabak dat niet in beslag wordt genomen door de gezondheidswaarschuwing:
+
+- a. aan de buitenkant de merknaam en merkvariant bevatten, mits de tekst:
+
+- 1°. ten hoogste eenmaal voorkomt op de voorkant, bovenkant en onderkant van de verpakkingseenheid of buitenverpakking;
+
+- 2°. is weergegeven in het standaard lettertype Helvetica, zonder opmaakvarianten;
+
+- 3°. is weergegeven in de kleur Pantone Cool Gray 2C met een matte en gladde afwerking;
+
+- 4°. uitsluitend de letters van het alfabet, getallen of het ampersandteken bevat;
+
+- 5°. hooguit hoofdletters bevat voor de eerste letter van elk woord;
+
+- 6°. is weergegeven in een maximale tekengrootte 14 voor de merknaam en in een maximale tekengrootte 10 voor de merkvariant;
+
+- 7°. van de merkvariant direct onder de merknaam staat opgenomen en samen met de merknaam gecentreerd staat en in dezelfde leesrichting loopt als de waarschuwende tekst van de gecombineerde gezondheidswaarschuwing;
+
+- 8°. van de merknaam niet langer dan een regel is, waarbij tussen de woorden, getallen en ampersandtekens telkens hooguit een spatie wordt gebruikt;
+
+- 9°. van de merkvariant niet langer dan een regel is, waarbij tussen de woorden, getallen en ampersandtekens telkens hooguit een spatie wordt gebruikt;
+
+- b. aan de buitenkant ten hoogste eenmaal een weergave van het aantal sigaretten dat in de verpakking zit dan wel het gewicht van een pakje shag in gram bevatten, mits de tekst:
+
+- 1°. is weergegeven in het standaard letterype Helvetica, zonder opmaakvarianten;
+
+- 2°. is weergegeven in de kleur Pantone Cool Gray 2C met een matte en gladde afwerking;
+
+- 3°. op de verpakkingseenheid is weergegeven in een maximale tekengrootte 10;
+
+- 4°. op de buitenverpakking is weergegeven in een maximale tekengrootte 14;
+
+- 5°. in dezelfde leesrichting loopt als de waarschuwende tekst van de gecombineerde gezondheidswaarschuwing;
+
+- 6°. het aantal sigaretten aanduidt met cijfers, dat kan worden gevolgd door hooguit een spatie en het woord ‘sigaretten’, waarvan de eerste letter een hoofdletter kan zijn;
+
+- 7°. het aantal gram shag aanduidt met cijfers, gevolgd door de letter g en het ℮-teken als bedoeld in [artikel 3 van het Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&artikel=3), waarbij tussen de cijfers, de letter g en het ℮-teken telkens hooguit een spatie wordt gebruikt;
+
+- c. aan de buiten- of binnenkant de naam, het adres, het e-mailadres en het telefoonnummer van de producent bevatten, mits de tekst:
+
+- 1°. ten hoogste eenmaal voorkomt en, indien opgenomen aan de buitenkant, niet op de voorkant van de verpakkingseenheid of de buitenverpakking staat;
+
+- 2°. is weergegeven in het standaard lettertype Helvetica, zonder opmaakvarianten;
+
+- 3°. indien opgenomen aan de buitenkant is weergegeven in de kleur Pantone Cool Gray 2C met een matte en gladde afwerking;
+
+- 4°. indien opgenomen aan de binnenkant is weergegeven in de kleur Pantone Cool Gray 2C, Pantone 448C of zwart met een matte en gladde afwerking;
+
+- 5°. is weergegeven in een maximale tekengrootte 10;
+
+- 6°. uitsluitend de letters van het alfabet, getallen en het ampersandteken bevat of, ingeval sprake is van een e-mail adres, een @-teken, waarbij tussen de woorden, getallen en tekens telkens hooguit een spatie wordt gebruikt;
+
+- 7°. hooguit hoofdletters bevat voor de eerste letter van elk woord;
+
+- d. aan de buitenkant een zo onopvallend mogelijk kalibratieteken bevatten;
+
+- e. aan de buitenkant ten hoogste een barcode bevatten, mits de barcode:
+
+- 1°. niet voorkomt op de voorkant van de verpakkingseenheid of de buitenverpakking;
+
+- 2°. is weergegeven in de kleuren zwart en wit of Pantone 448C en wit met een matte en gladde afwerking; en
+
+- 3°. geen afbeelding, patroon, beeld of symbool vormt dat herkenbaar is als iets anders dan een barcode.
+
+7. In het geval van een buidelvormige verpakking voor shagtabak, kunnen de merknaam en de merkvariant als bedoeld in het zesde lid, onderdeel a, onder 1°, in afwijking van dat onderdeel ten hoogste eenmaal op de voorkant en achterkant van de verpakking en de binnenkant van de flap worden opgenomen.
+
+8. In het geval van een cilindervormige verpakking voor shagtabak kunnen de merknaam en merkvariant, producentgegevens en barcode bedoeld in het zesde lid, onderdelen a, c en e, in afwijking van het zesde lid, onderdeel a, onder 1°, onderdeel c, onder 1° en onderdeel e, onder 1°, ten hoogste eenmaal worden opgenomen op:
+
+- a. de deksel van de verpakking;
+
+- b. de onderkant van de verpakking; en
+
+- c. op het gebogen oppervlak van de verpakking, mits de merknaam en merkvariant aan die zijde worden opgenomen die tegenovergesteld is aan de zijde waar de naam, het adres, het e-mailadres en telefoonnummer van de producent, of de barcode staan opgenomen.
+
+9. In het geval van een verpakking voor shagtabak met deksel kunnen de merknaam en merkvariant, de inhoudsindicatie, de producentgegevens, het kalibratieteken en de barcode als bedoeld in het zesde lid, onderdelen a tot en met e, op de deksel en onderkant met een sticker worden aangebracht, mits deze niet kan worden verwijderd.
+
+10. Indien een buitenverpakking meerdere verpakkingseenheden bevat, kan, in aanvulling op het zesde lid, onderdeel b, de weergave van het gewicht van de shag in gram of het aantal sigaretten dat in een enkele verpakkingseenheid zit, gevolgd worden met de vermelding van het symbool x en vervolgens het aantal verpakkingseenheden in cijfers, waarbij tussen de getallen, letters en tekens telkens hooguit een spatie wordt gebruikt.
+
+11. Dit artikel geldt onverminderd de eisen die bij of krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4a) en [4h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=4h) worden gesteld aan het plaatsen van een unieke identificatiecode en veiligheidskenmerk op een verpakkingseenheid.
 
 ##### Artikel 3.8
 
@@ -325,9 +445,9 @@ Een buitenverpakking en een verpakkingseenheid van voor roken bestemde kruidenpr
 
 ##### Artikel 4.4
 
-1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-09-01&g=2020-09-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-09-01&g=2020-09-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-09-01&g=2020-09-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
+1. Als sjabloon voor de indiening van de gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-10-01&g=2020-10-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-10-01&g=2020-10-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-10-01&g=2020-10-01) wordt aangewezen het sjabloon vastgesteld krachtens artikel 5, vijfde lid, van de tabaksproductenrichtlijn.
 
-2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-09-01&g=2020-09-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-09-01&g=2020-09-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-09-01&g=2020-09-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
+2. De gegevens en bescheiden, bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.1&z=2020-10-01&g=2020-10-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.2&z=2020-10-01&g=2020-10-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=4&artikel=4.3&z=2020-10-01&g=2020-10-01), worden door de producenten en importeurs verstrekt op elektronische wijze door middel van het common entry gate. De gegevens en bescheiden, bedoeld in artikel 4.2, worden verstrekt in de Nederlandse of Engelse taal.
 
 ##### Artikel 4.5
 
@@ -401,7 +521,7 @@ Het leeftijdsverificatiesysteem, bedoeld in [artikel 5.6, eerste lid, van het be
 
 1. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van tabaksproducten die gericht zijn op consumenten in de Europese Economische Ruimte worden zodanig weergegeven dat de tekst van de grootste gezondheidswaarschuwing duidelijk zichtbaar is.
 
-2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2020-09-01&g=2020-09-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
+2. Afbeeldingen van een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten voldoen aan [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.5&z=2020-10-01&g=2020-10-01), met uitzondering van afbeeldingen van een verpakkingseenheid en een buitenverpakking van sigaren als bedoeld in [artikel 3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=3.2). Deze afbeeldingen voldoen aan artikel 11, eerste lid, derde paragraaf, eerste volzin, van de tabaksproductenrichtlijn.
 
 3. De verplichting in het tweede lid, eerste volzin, geldt niet voor afbeeldingen die bestemd zijn om duurzaam te worden weergegeven in een speciaalzaak of op een tabaksautomaat, voor zover het gaat om de verplichting om jaarlijks te rouleren met groepen gecombineerde gezondheidswaarschuwingen, zoals bepaald in artikel 10, tweede lid, eerste volzin, van de tabaksproductenrichtlijn.
 
@@ -425,9 +545,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 7.3
 
-1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2020-09-01&g=2020-09-01), van deze regeling.
+1. Laboratoria die zijn aangewezen op grond van [artikel 2.3, eerste lid, van het Besluit uitvoering Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&artikel=2.3), zoals het luidde onmiddellijk voor inwerkingtreding van het Besluit van 4 mei 2016, houdende wijziging van het Besluit uitvoering Tabakswet en de [bijlage van de Tabaks- en rookwarenwet](onbekend) in verband met de implementatie van [Richtlijn 2014/40](32014L0040)/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten (Stb. 2016, 175), gelden als aangewezen op grond van [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=2&artikel=2.3&z=2020-10-01&g=2020-10-01), van deze regeling.
 
-2. Door vernummering vervallen.
+2. Een verpakkingseenheid of buitenverpakking van sigaretten of shagtabak die voldoet aan het [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160) en de Tabaks- en rookwarenregeling zoals die luidden op 30 september 2020 en die is geproduceerd of in het vrije verkeer is gebracht voor 1 oktober 2020, mag tot 1 oktober 2021 in de handel worden gebracht.
 
 ##### Artikel 7.4
 
@@ -465,11 +585,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevat geen vermeldingen of andere elementen die verwijzen naar een bepaald thema of waaruit blijkt dat er sprake is van een gelimiteerde editie.
 
-4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-09-01&g=2020-09-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
+4. Onverminderd het bepaalde in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=3&artikel=3.3&z=2020-10-01&g=2020-10-01), is de binnenzijde van een verpakkingseenheid en van een buitenverpakking van voor roken bestemde tabaksproducten onbedrukt.
 
 5. Een verpakkingseenheid van voor roken bestemde tabaksproducten met uitzondering van sigaren bevat uitsluitend die producten en, indien van toepassing onbedrukt foliepapier dat de producten omhult om de versheid te bewaren.
 
 6. Een verpakkingseenheid van sigaren bevat uitsluitend sigaren en, indien van toepassing, onbedrukt vloeipapier, foliepapier, cellofaan, metalen tubes en kartonnen stootrandjes.
+
+7. Dit artikel is niet van toepassing op sigaretten en shagtabak.
 
 #### § 3a. Volg- en traceersysteem en veiligheidskenmerk
 
@@ -527,7 +649,7 @@ Reclame in of aan speciaalzaak wordt slechts aangebracht met inachtneming van de
 
 - b. bevestigd op of aan dispensers van andere producten dan tabaksproducten of aanverwante producten, verrijdbare rekken met wenskaarten, manden met snoepgoed en speciaal voor de verkoop van tijdschriften ontworpen kasten.
 
-3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2020-09-01&g=2020-09-01) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
+3. Behoudens het bepaalde in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037958&paragraaf=6&artikel=6.5&z=2020-10-01&g=2020-10-01) wordt reclame in een speciaalzaak niet zodanig geplaatst dat zij ook buiten de zaak zichtbaar is.
 
 #### § 7. Slotbepalingen
 
