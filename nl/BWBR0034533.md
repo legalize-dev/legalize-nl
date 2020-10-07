@@ -4,7 +4,7 @@ identifier: "BWBR0034533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-07"
-last_updated: "2014-01-01"
+last_updated: "2020-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034533"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de ambtenaren van politie, bedoeld in [artikel 47, eerste lid, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47), werkzaam bij het Nationaal Vreemdelingen Informatie Knooppunt, wordt machtiging verleend met betrekking tot het uitoefenen van de bevoegdheid bedoeld in [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107) om aan andere bestuursorganen de gegevens en inlichtingen te vragen die de Minister van Veiligheid en Justitie behoeft voor de uitvoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
+Aan de ambtenaren van politie, bedoeld in [artikel 47, eerste lid, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47), werkzaam bij het Nationaal Vreemdelingen Informatie Knooppunt, wordt machtiging verleend met betrekking tot het uitoefenen van de bevoegdheid bedoeld in [artikel 107, zevende lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107) om aan andere bestuursorganen de gegevens en inlichtingen te vragen die de Minister van Veiligheid en Justitie behoeft voor de uitvoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
 
 ##### Artikel 2
 
