@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2020-07-01"
+last_updated: "2020-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-07-01&g=2020-07-01).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-07-01&g=2020-07-01).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-07-01&g=2020-07-01), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -122,13 +122,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-07-01&g=2020-07-01).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-07-01&g=2020-07-01).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07).
 
 ##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-07-01&g=2020-07-01), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -166,15 +166,15 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 3.1.1. Bedrag huisvestingskosten school voor voortgezet onderwijs in scholengemeenschap met een instelling en voorbereidend beroepsonderwijs van AOC’s
 
-1. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 570,– per leerling ingeschreven bij een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1).
+1. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 590,– per leerling ingeschreven bij een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1).
 
-2. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 570,– per leerling ingeschreven voor het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
+2. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 590,– per leerling ingeschreven voor het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
 
 3. De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
 ##### Artikel 3.1.2. Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2019 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 63.167,79. De vaste formatie wordt als volgt vastgesteld:
+1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2020 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 65.436,88. De vaste formatie wordt als volgt vastgesteld:
 
 - a. één formatieplaats per agrarisch opleidingscentrum; en
 
@@ -182,11 +182,11 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond.
 
-2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2019:
+2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2020:
 
-- a. voor de leerling voorbereidend beroepsonderwijs € 7.377,06, bestaande uit een component voor personele kosten ad € 6.228,14 en een component voor materiële kosten ad € 1.148,92;
+- a. voor de leerling voorbereidend beroepsonderwijs € 7,620,90, bestaande uit een component voor personele kosten ad € 6.451,87 en een component voor materiële kosten ad € 1.169,03;
 
-- b. Het ondersteuningsbedrag per leerling bedraagt € 4.640,88, bestaande uit een component voor personele kosten ad € 4.459,39 en een component voor materiële kosten ad € 181,49.
+- b. Het ondersteuningsbedrag per leerling bedraagt € 4.868,91, bestaande uit een component voor personele kosten ad € 4.682,81 en een component voor materiële kosten ad € 186,10.
 
 ##### Artikel 3.1.3. Bekostiging gehandicapten
 
@@ -206,7 +206,7 @@ Vervallen
 
 ### Hoofdstuk 4. Voorschriften bekostiging educatie
 
-#### § 1. Voorschriften educatie
+#### § 2. Overgangsvoorschriften bekostiging
 
 ##### Artikel 4.1.1. Voorwaarde toekennen rijksbijdrage educatie aan gemeente
 
@@ -264,7 +264,7 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-07-01&g=2020-07-01) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2020-07-01&g=2020-07-01) in verband met invoering leerlinggebonden financiering MBO
+##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2020-10-07&g=2020-10-07) in verband met invoering leerlinggebonden financiering MBO
 
 Wijzigt deze regeling.
 
@@ -310,7 +310,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.1.2a
 
-1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2020 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 63.407,83. De vaste formatie wordt als volgt vastgesteld:
+1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2021 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 65.563,70. De vaste formatie wordt als volgt vastgesteld:
 
 - a. één formatieplaats per agrarisch opleidingscentrum; en
 
@@ -318,13 +318,35 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;
 
-2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2020:
+2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2021:
 
-- a. voor de leerling voorbereidend beroepsonderwijs € 7.400,73, bestaande uit een component voor personele kosten ad € 6.251,81 en een component voor materiële kosten ad € 1.148,92;
+- a. voor de leerling voorbereidend beroepsonderwijs € 7.633,40, bestaande uit een component voor personele kosten ad € 6.464,37 en een component voor materiële kosten ad € 1.169,03;
 
-- b. Het ondersteuningsbedrag per leerling bedraagt € 4.640,88, bestaande uit een component voor personele kosten ad € 4.459,39 en een component voor materiële kosten ad € 181,49.
+- b. Het ondersteuningsbedrag per leerling bedraagt € 4.868,91, bestaande uit een component voor personele kosten ad € 4.682,81 en een component voor materiële kosten ad € 186,10.
 
 #### § 2. Overgangsvoorschriften bekostiging
+
+### Hoofdstuk 4. Voorschriften bekostiging educatie
+
+#### § 1. Voorschriften educatie
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.2. Reikwijdte
+
+Deze regeling berust mede op de [artikelen 2.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), en [2.4.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1).
+
+### Hoofdstuk 2. Voorschriften beroepsopleidingen instituten voor doven en hogeschool Haarlem
+
+#### § 1. Voorschriften beroepsopleidingen Instituten voor doven
+
+#### § 2. Voorschriften beroepsopleidingen verbonden aan hogeschool Haarlem dan wel diens rechtsopvolgers
+
+### Hoofdstuk 3. Voorschriften bekostiging beroepsonderwijs
+
+#### § 1. Voorschriften bekostiging
 
 ### Hoofdstuk 4. Voorschriften bekostiging educatie
 
