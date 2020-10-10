@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2020-10-01"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2019-07-01&g=2020-10-01), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2020-10-10&g=2020-10-10), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
@@ -142,13 +142,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 - f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
-8. Van het afleggen van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in [artikel 3.9, derde lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zijn vrijgesteld:
+8. Van het afleggen van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in de [artikelen 2.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en [3.9, derde lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zijn vrijgesteld:
 
 - a. de verzoeker die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt;
 
 - b. de verzoeker die zich voor 1 januari 2015 bij de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap heeft aangemeld voor de naturalisatietoets of een onderdeel van die toets en van wie DUO voor 1 februari 2015 het verschuldigde examengeld heeft ontvangen;
 
-- c. de verzoeker die gedurende een periode van twaalf maanden voorafgaande aan het verzoek tot vrijstelling in tenminste zes maanden minimaal 48 uur per maand werkzaamheden in loondienst heeft verricht.
+- c. de verzoeker die in een periode van twaalf maanden voorafgaande aan het verzoek tot vrijstelling:
+
+- 1°. in ten minste zes maanden minimaal 48 uur per maand werkzaamheden in loondienst heeft verricht;
+
+- 2°. winst uit een onderneming, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8), had die ten minste gelijk was aan (L / 40) * 48 * 6, waarbij L staat voor het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), met inbegrip van de vakantiebijslag, bedoeld in [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15); of
+
+- 3°. in ten minste zes maanden bijstand ontving op grond van [artikel 2, eerste of tweede lid, van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2).
 
 9. Van het afleggen van het onderdeel van het inburgeringsexamen genaamd het participatieverklaringstraject, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), is vrijgesteld de verzoeker die niet op grond van de Wet inburgering inburgeringsplichtig is.
 
