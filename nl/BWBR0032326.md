@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2020-07-16"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -142,15 +142,21 @@ Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt
 
 - d. als er adequaat toezicht is gehouden.
 
-12. Als werkgever in de zin van het elfde lid wordt mede begrepen degene bij wie vrijwilligers werkzaam zijn.
+12. Indien de werkgever aantoont dat hij na de overtreding adequate maatregelen heeft genomen, kan dit leiden tot een boetematiging van 12,5%. Maatregelen zijn adequaat als zij:
 
-13. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
+- a. zijn gericht op het voorkomen van dezelfde of soortgelijke overtredingen; en
 
-14. Indien rechtspersonen langer dan zes aaneengesloten maanden op dezelfde bouwlocatie werkzaamheden verrichten, wordt die bouwlocatie beschouwd als nevenvestiging als bedoeld in het dertiende.
+- b. zo snel mogelijk na de overtreding zijn genomen.
 
-15. Het dertiende en veertiende lid zijn niet van toepassing op ernstige overtredingen, als bedoeld in [artikel 9.10a, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a).
+13. Als werkgever in de zin van het elfde of twaalfde lid wordt mede begrepen degene bij wie vrijwilligers werkzaam zijn.
 
-16. In aanvulling op of in afwijking van de leden drie tot en met vijf en zeven tot en met elf, kan het bedrag van de boete worden verhoogd of verlaagd totdat deze evenredig is en daarmee passend en geboden.
+14. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
+
+15. Indien rechtspersonen langer dan zes aaneengesloten maanden op dezelfde bouwlocatie werkzaamheden verrichten, wordt die bouwlocatie beschouwd als nevenvestiging als bedoeld in het veertiende.
+
+16. Het veertiende en vijftiende lid zijn niet van toepassing op ernstige overtredingen, als bedoeld in [artikel 9.10a, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a).
+
+17. In aanvulling op of in afwijking van de leden drie tot en met vijf en zeven tot en met twaalf, kan het bedrag van de boete worden verhoogd of verlaagd totdat deze evenredig is en daarmee passend en geboden.
 
 ##### Artikel 2
 
