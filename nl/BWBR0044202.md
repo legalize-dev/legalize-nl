@@ -4,7 +4,7 @@ identifier: "BWBR0044202"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-13"
-last_updated: "2020-09-15"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044202"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044202&artikel=2&z=2020-10-13&g=2020-09-15).
+- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044202&artikel=2&z=2020-10-13&g=2020-10-13).
 
 ##### Artikel 2. Instelling en taak
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 6. De werkgroep wordt ingesteld per 15 september 2020.
 
-7. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044202&artikel=2&z=2020-10-13&g=2020-09-15) door de Minister van Financiën aan de Minister van Onderwijs, Cultuur en Wetenschap is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
+7. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044202&artikel=2&z=2020-10-13&g=2020-10-13) door de Minister van Financiën aan de Minister van Onderwijs, Cultuur en Wetenschap is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
 ##### Artikel 4. Werkwijze
 
