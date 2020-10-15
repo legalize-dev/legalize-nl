@@ -4,7 +4,7 @@ identifier: "BWBR0017794"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-15"
-last_updated: "2017-04-03"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017794"
 soort: "KB"
@@ -43,9 +43,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2017-04-03&g=2017-04-03).
+1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2020-10-15&g=2020-10-15).
 
-2. Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2017-04-03&g=2017-04-03) bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2017-04-03&g=2017-04-03) genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=20).
+2. Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2020-10-15&g=2020-10-15) bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2020-10-15&g=2020-10-15) genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=20).
 
 ##### Artikel 2
 
@@ -65,13 +65,13 @@ De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wo
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2017-04-03&g=2017-04-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2017-04-03&g=2017-04-03), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2020-10-15&g=2020-10-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2020-10-15&g=2020-10-15), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2017-04-03&g=2017-04-03), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2020-10-15&g=2020-10-15), van het Besluit aanwijzing hoofdspoorwegen
 
 In deze bijlage wordt verstaan onder:
 
@@ -195,7 +195,7 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 18. Hoofddorp–Rotterdam West, inclusief de daarbij horende aansluitingen.
 
-## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2017-04-03&g=2017-04-03) van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2020-10-15&g=2020-10-15) van het Besluit aanwijzing hoofdspoorwegen
 
 - a. De volgende spoorwegen zijn hoofdspoorwegen:
 
@@ -263,8 +263,6 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 27. Almelo Bedrijvenpark Twente;
 
-- 28. Arnhem, gemeentelijke stamlijn;
-
-- 29. Oss-Elzenburg.
+- 28. Oss-Elzenburg.
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
