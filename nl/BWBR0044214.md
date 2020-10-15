@@ -4,7 +4,7 @@ identifier: "BWBR0044214"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-30"
-last_updated: "2018-10-01"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044214"
 soort: "wet"
@@ -46,8 +46,6 @@ Wijzigt de Wet op het financieel toezicht.
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet toezicht trustkantoren 2018.
@@ -58,31 +56,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Faillissementswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Va
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Degene die op het tijdstip van inwerkingtreding van de [artikelen I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=I&z=2020-10-15&g=2020-10-15), [II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=II&z=2020-10-15&g=2020-10-15), en [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=III&z=2020-10-15&g=2020-10-15), reeds uiteindelijk belanghebbende is in de zin van [artikel 3:9a van de Wet op het financieel toezicht](onbekend), [23h, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23h), of [10, vierde lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=10), wordt vermoed te voldoen aan de in die artikelen opgenomen geschiktheids- en betrouwbaarheidseisen, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een beoordeling.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen I, onderdelen I, J, S en II, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=I&z=2020-10-15&g=2020-10-15), [II, onderdelen A en F tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=II&z=2020-10-15&g=2020-10-15), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=III&z=2020-10-15&g=2020-10-15), en werkt ten aanzien van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=I&z=2020-10-15&g=2020-10-15), terug tot en met 1 oktober 2018.
+
+2. De [artikelen I, onderdelen I, J, S en II, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=I&z=2020-10-15&g=2020-10-15), [II, onderdelen F, G, H en J](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=II&z=2020-10-15&g=2020-10-15), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=III&z=2020-10-15&g=2020-10-15) treden in werking met ingang van de eerste dag van de zevende kalendermaand na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+3. [Artikel II, onderdelen A en I](https://wetten.overheid.nl/jci1.3:c:BWBR0044214&artikel=II&z=2020-10-15&g=2020-10-15), treedt in werking met ingang van 30 juni 2021.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Herstelwet financiële markten 2020.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
