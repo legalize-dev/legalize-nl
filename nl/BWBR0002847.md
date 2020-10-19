@@ -4,7 +4,7 @@ identifier: "BWBR0002847"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-30"
-last_updated: "2013-12-04"
+last_updated: "2020-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002847"
 soort: "AMvB"
@@ -116,6 +116,6 @@ Vervallen
 
 ##### Artikel 3
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2013-12-04&g=2013-12-04) genoemde landen betreft verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2021-05-12&g=2020-10-19) genoemde landen betreft verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
