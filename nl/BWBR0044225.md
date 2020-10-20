@@ -4,7 +4,7 @@ identifier: "BWBR0044225"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-20"
-last_updated: "2020-10-03"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044225"
 soort: "KB"
@@ -58,7 +58,7 @@ Besluit ook gepubliceerd in Stcrt. 2020/66439.
 
 ##### Artikel 2
 
-De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044225&artikel=1&z=2020-10-20&g=2020-10-03).
+De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044225&artikel=1&z=2020-10-20&g=2020-10-20).
 
 ##### Artikel 3
 
