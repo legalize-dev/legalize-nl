@@ -4,7 +4,7 @@ identifier: "BWBR0042151"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-20"
-last_updated: "2019-04-26"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042151"
 soort: "AMvB"
@@ -76,15 +76,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1
 
-In het jaar 2016 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=1&z=2019-04-26&g=2019-04-26) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2016 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=1&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
 ##### Artikel 2
 
-In het jaar 2016 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=2&z=2019-04-26&g=2019-04-26) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
+In het jaar 2016 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=2&z=2020-10-20&g=2020-10-20) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 ##### Artikel 3
 
-In het jaar 2016 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=3&z=2019-04-26&g=2019-04-26) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
+In het jaar 2016 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=3&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
 #### § 4. Wijziging van het [Besluit decentralisatie- en integratie-uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0027383)
 
@@ -120,17 +120,17 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=1&z=2019-04-26&g=2019-04-26) werken terug tot en met 1 januari 2016.
+2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=1&z=2020-10-20&g=2020-10-20) werken terug tot en met 1 januari 2016.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=3&artikel=4&z=2019-04-26&g=2019-04-26) werkt terug tot en met 1 januari 2015.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=3&artikel=4&z=2020-10-20&g=2020-10-20) werkt terug tot en met 1 januari 2015.
 
-4. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=4&artikel=5&z=2019-04-26&g=2019-04-26) werkt terug tot en met 1 januari 2014.
+4. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=4&artikel=5&z=2020-10-20&g=2020-10-20) werkt terug tot en met 1 januari 2014.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=1&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=1&z=2020-10-20&g=2020-10-20) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
 
 | **Gemeente** | **Uitkering 2016** |
 | --- | --- |
@@ -1179,6 +1179,53 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | Eindhoven | € 37.500 |
 | Rotterdam | € 37.500 |
 | **Totaal** | **€ 75.000** |
+
+| **Gemeente** | **Uitkering 2016** |
+| --- | --- |
+| Alkmaar | € 3.347.644 |
+| Almelo | € 3.089.248 |
+| Almere | € 8.329.528 |
+| Amersfoort | € 5.706.346 |
+| Amsterdam | € 64.087.347 |
+| Apeldoorn | € 4.226.203 |
+| Arnhem | € 8.441.892 |
+| Assen | € 4.709.030 |
+| Bergen op Zoom | € 2.938.020 |
+| Breda | € 6.246.855 |
+| Delft | € 2.469.151 |
+| Den Helder | € 1.860.887 |
+| Deventer | € 3.938.351 |
+| Doetinchem | € 3.876.818 |
+| Dordrecht | € 6.095.480 |
+| Ede | € 2.228.745 |
+| Eindhoven | € 11.190.840 |
+| Emmen | € 3.254.937 |
+| Enschede | € 9.296.567 |
+| Gouda | € 2.040.097 |
+| Groningen | € 18.228.418 |
+| Haarlem | € 7.773.466 |
+| Heerlen | € 6.042.534 |
+| Helmond | € 3.121.334 |
+| Hilversum | € 2.507.655 |
+| Hoorn | € 2.351.333 |
+| Leeuwarden | € 14.805.406 |
+| Leiden | € 7.774.743 |
+| Maastricht | € 6.659.979 |
+| Nijmegen | € 10.184.744 |
+| Nissewaard | € 2.552.589 |
+| Oss | € 3.976.992 |
+| Purmerend | € 1.490.187 |
+| Rotterdam | € 43.147.241 |
+| 's-Gravenhage | € 30.491.065 |
+| 's-Hertogenbosch | € 4.613.873 |
+| Tilburg | € 8.186.387 |
+| Utrecht | € 23.916.051 |
+| Venlo | € 8.236.040 |
+| Vlaardingen | € 2.377.466 |
+| Vlissingen | € 6.680.942 |
+| Zaanstad | € 2.606.026 |
+| Zwolle | € 9.958.890 |
+| **Totaal** | **€ 385.057.347** |
 
 | **Gemeente** | **Uitkering 2016** |
 | --- | --- |
@@ -3350,7 +3397,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | Zwolle | € 1.000.000 |
 | **Totaal** | **€ 141.223.363** |
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=2&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=1&artikel=2&z=2020-10-20&g=2020-10-20) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
 
 | **Provincie** | **Uitkering 2016** |
 | --- | --- |
@@ -3694,7 +3741,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | Zeeland | € 542.830 |
 | **Totaal** | **€ 6.894.900** |
 
-## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=2&artikel=3&z=2019-04-26&g=2019-04-26) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
+## Bijlage 3. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=2&artikel=3&z=2020-10-20&g=2020-10-20) van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
 
 | **Gemeente** | **Uitkering 2016** |
 | --- | --- |
@@ -4533,5 +4580,399 @@ Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integ
 | Zwijndrecht | € 172.362 |
 | Zwolle | € 349.818 |
 | **Totaal** | **€ 40.757.995** |
+
+| **Gemeente** | **Uitkering 2016** |
+| --- | --- |
+| Aa en Hunze | € 1.898.860 |
+| Aalburg | € 776.556 |
+| Aalsmeer | € 1.664.366 |
+| Aalten | € 2.172.901 |
+| Achtkarspelen | € 2.238.328 |
+| Alblasserdam | € 1.452.930 |
+| Albrandswaard | € 1.114.703 |
+| Alkmaar | € 7.240.099 |
+| Almelo | € 6.259.064 |
+| Almere | € 8.492.375 |
+| Alphen aan den Rijn | € 6.565.189 |
+| Alphen-Chaam | € 565.839 |
+| Ameland | € 243.582 |
+| Amersfoort | € 7.987.819 |
+| Amstelveen | € 5.316.318 |
+| Amsterdam | € 44.578.466 |
+| Apeldoorn | € 12.185.228 |
+| Appingedam | € 1.401.930 |
+| Arnhem | € 10.409.620 |
+| Assen | € 5.256.305 |
+| Asten | € 1.023.736 |
+| Baarle-Nassau | € 574.699 |
+| Baarn | € 1.975.508 |
+| Barendrecht | € 2.110.234 |
+| Barneveld | € 2.785.990 |
+| Bedum | € 790.983 |
+| Beek | € 1.365.772 |
+| Beemster | € 523.168 |
+| Beesel | € 1.051.980 |
+| Bellingwedde | € 897.239 |
+| Berg en Dal | € 3.077.132 |
+| Bergeijk | € 1.106.130 |
+| Bergen L | € 1.090.352 |
+| Bergen NH | € 2.150.906 |
+| Bergen op Zoom | € 5.382.534 |
+| Berkelland | € 3.521.660 |
+| Bernheze | € 1.781.776 |
+| Best | € 1.760.744 |
+| Beuningen | € 1.472.736 |
+| Beverwijk | € 2.915.585 |
+| Binnenmaas | € 1.796.534 |
+| Bladel | € 1.280.965 |
+| Blaricum | € 477.016 |
+| Bloemendaal | € 1.027.384 |
+| Bodegraven-Reeuwijk | € 1.802.362 |
+| Boekel | € 589.686 |
+| Borger-Odoorn | € 2.026.112 |
+| Borne | € 1.574.682 |
+| Borsele | € 1.392.526 |
+| Boxmeer | € 2.034.593 |
+| Boxtel | € 2.111.651 |
+| Breda | € 12.183.115 |
+| Brielle | € 1.016.845 |
+| Bronckhorst | € 2.845.280 |
+| Brummen | € 1.697.322 |
+| Brunssum | € 3.064.721 |
+| Bunnik | € 799.025 |
+| Bunschoten | € 932.119 |
+| Buren | € 1.381.407 |
+| Capelle aan den IJssel | € 4.762.181 |
+| Castricum | € 2.145.671 |
+| Coevorden | € 2.915.398 |
+| Cranendonck | € 1.447.001 |
+| Cromstrijen | € 849.426 |
+| Cuijk | € 1.830.857 |
+| Culemborg | € 1.579.226 |
+| Dalfsen | € 1.706.772 |
+| Dantumadiel | € 1.641.376 |
+| De Bilt | € 2.729.570 |
+| De Fryske Marren | € 3.588.711 |
+| De Marne | € 912.551 |
+| De Ronde Venen | € 2.156.778 |
+| De Wolden | € 1.756.781 |
+| Delft | € 6.076.249 |
+| Delfzijl | € 2.649.872 |
+| Den Helder | € 4.992.002 |
+| Deurne | € 2.358.295 |
+| Deventer | € 7.070.466 |
+| Diemen | € 1.443.837 |
+| Dinkelland | € 1.619.270 |
+| Doesburg | € 1.036.759 |
+| Doetinchem | € 4.669.120 |
+| Dongen | € 1.788.843 |
+| Dongeradeel | € 2.089.248 |
+| Dordrecht | € 9.096.326 |
+| Drechterland | € 1.003.739 |
+| Drimmelen | € 1.831.683 |
+| Dronten | € 2.313.719 |
+| Druten | € 1.285.698 |
+| Duiven | € 1.558.604 |
+| Echt-Susteren | € 2.820.756 |
+| Edam-Volendam | € 1.895.579 |
+| Ede | € 6.910.827 |
+| Eemnes | € 447.868 |
+| Eemsmond | € 1.517.990 |
+| Eersel | € 1.272.354 |
+| Eijsden-Margraten | € 1.669.325 |
+| Eindhoven | € 16.608.616 |
+| Elburg | € 1.480.457 |
+| Emmen | € 9.966.411 |
+| Enkhuizen | € 1.320.767 |
+| Enschede | € 11.874.633 |
+| Epe | € 2.634.625 |
+| Ermelo | € 2.228.084 |
+| Etten-Leur | € 2.891.603 |
+| Ferwerderadiel | € 591.861 |
+| Franekeradeel | € 1.706.549 |
+| Geertruidenberg | € 1.538.251 |
+| Geldermalsen | € 1.488.319 |
+| Geldrop-Mierlo | € 2.879.495 |
+| Gemert-Bakel | € 1.928.223 |
+| Gennep | € 1.642.193 |
+| Giessenlanden | € 763.836 |
+| Gilze en Rijen | € 1.741.915 |
+| Goeree-Overflakkee | € 3.356.780 |
+| Goes | € 3.352.840 |
+| Goirle | € 1.656.529 |
+| Gooise Meren | € 3.186.439 |
+| Gorinchem | € 2.637.695 |
+| Gouda | € 4.856.961 |
+| Grave | € 977.443 |
+| Groningen | € 11.317.693 |
+| Grootegast | € 858.163 |
+| Gulpen-Wittem | € 1.190.106 |
+| Haaksbergen | € 1.744.378 |
+| Haaren | € 945.431 |
+| Haarlem | € 9.976.805 |
+| Haarlemmerliede en Spaarnwoude | € 298.292 |
+| Haarlemmermeer | € 7.123.875 |
+| Halderberge | € 2.378.553 |
+| Hardenberg | € 3.936.955 |
+| Harderwijk | € 3.040.059 |
+| Hardinxveld-Giessendam | € 1.160.691 |
+| Haren | € 1.410.545 |
+| Harlingen | € 1.466.201 |
+| Hattem | € 797.849 |
+| Heemskerk | € 3.005.661 |
+| Heemstede | € 1.868.193 |
+| Heerde | € 1.381.479 |
+| Heerenveen | € 4.007.239 |
+| Heerhugowaard | € 3.181.683 |
+| Heerlen | € 10.097.718 |
+| Heeze-Leende | € 1.178.041 |
+| Heiloo | € 1.513.932 |
+| Hellendoorn | € 2.603.208 |
+| Hellevoetsluis | € 2.474.793 |
+| Helmond | € 6.197.899 |
+| Hendrik-Ido-Ambacht | € 1.505.013 |
+| Hengelo | € 6.240.667 |
+| Het Bildt | € 846.575 |
+| Heumen | € 1.033.574 |
+| Heusden | € 2.808.824 |
+| Hillegom | € 1.438.268 |
+| Hilvarenbeek | € 908.210 |
+| Hilversum | € 5.989.824 |
+| Hof van Twente | € 2.672.097 |
+| Hollands Kroon | € 2.836.298 |
+| Hoogeveen | € 5.010.497 |
+| Hoogezand-Sappemeer | € 3.623.614 |
+| Hoorn | € 4.651.157 |
+| Horst aan de Maas | € 2.748.695 |
+| Houten | € 1.907.701 |
+| Huizen | € 2.588.879 |
+| Hulst | € 2.236.825 |
+| IJsselstein | € 1.829.203 |
+| Kaag en Braassem | € 1.410.439 |
+| Kampen | € 3.431.038 |
+| Kapelle | € 773.941 |
+| Katwijk | € 4.095.329 |
+| Kerkrade | € 5.174.596 |
+| Koggenland | € 1.143.579 |
+| Kollumerland en Nieuwkruisland | € 996.621 |
+| Korendijk | € 665.801 |
+| Krimpen aan den IJssel | € 2.099.006 |
+| Krimpenerwaard | € 3.335.945 |
+| Laarbeek | € 1.458.386 |
+| Landerd | € 944.682 |
+| Landgraaf | € 3.717.107 |
+| Landsmeer | € 635.565 |
+| Langedijk | € 1.400.363 |
+| Lansingerland | € 2.080.042 |
+| Laren | € 674.221 |
+| Leek | € 1.618.930 |
+| Leerdam | € 1.623.593 |
+| Leeuwarden | € 8.367.064 |
+| Leeuwarderadeel | € 802.749 |
+| Leiden | € 6.615.042 |
+| Leiderdorp | € 1.791.106 |
+| Leidschendam-Voorburg | € 5.600.482 |
+| Lelystad | € 4.533.521 |
+| Leudal | € 2.457.526 |
+| Leusden | € 1.538.566 |
+| Lingewaal | € 625.894 |
+| Lingewaard | € 2.931.771 |
+| Lisse | € 1.540.132 |
+| Littenseradiel | € 637.063 |
+| Lochem | € 2.529.569 |
+| Loon op Zand | € 1.747.734 |
+| Lopik | € 658.658 |
+| Loppersum | € 809.631 |
+| Losser | € 1.788.407 |
+| Maasdriel | € 1.381.467 |
+| Maasgouw | € 2.120.646 |
+| Maassluis | € 2.498.401 |
+| Maastricht | € 10.580.913 |
+| Marum | € 639.858 |
+| Medemblik | € 2.669.669 |
+| Meerssen | € 1.501.876 |
+| Menameradiel | € 893.087 |
+| Menterwolde | € 986.136 |
+| Meppel | € 2.463.654 |
+| Middelburg | € 3.749.850 |
+| Midden-Drenthe | € 2.474.053 |
+| Midden-Delfland | € 792.711 |
+| Mill en Sint Hubert | € 789.099 |
+| Moerdijk | € 2.599.349 |
+| Molenwaard | € 1.336.062 |
+| Montferland | € 2.856.906 |
+| Montfoort | € 640.145 |
+| Mook en Middelaar | € 509.589 |
+| Neder-Betuwe | € 1.453.369 |
+| Nederweert | € 1.197.912 |
+| Neerijnen | € 617.168 |
+| Nieuwegein | € 3.927.415 |
+| Nieuwkoop | € 1.618.374 |
+| Nijkerk | € 2.354.727 |
+| Nijmegen | € 11.384.964 |
+| Nissewaard | € 6.221.562 |
+| Noord-Beveland | € 549.683 |
+| Noordenveld | € 2.512.384 |
+| Noordoostpolder | € 2.777.267 |
+| Noordwijk | € 1.812.196 |
+| Noordwijkerhout | € 1.071.381 |
+| Nuenen c.a. | € 1.355.527 |
+| Nunspeet | € 1.807.396 |
+| Nuth | € 1.304.092 |
+| Oegstgeest | € 1.108.918 |
+| Oirschot | € 1.062.535 |
+| Oisterwijk | € 1.812.842 |
+| Oldambt | € 4.304.800 |
+| Oldebroek | € 1.478.214 |
+| Oldenzaal | € 2.515.252 |
+| Olst-Wijhe | € 1.241.257 |
+| Ommen | € 1.165.046 |
+| Onderbanken | € 668.604 |
+| Oost Gelre | € 2.040.869 |
+| Oosterhout | € 4.047.530 |
+| Ooststellingwerf | € 2.192.814 |
+| Oostzaan | € 551.990 |
+| Opmeer | € 654.359 |
+| Opsterland | € 2.165.062 |
+| Oss | € 6.588.891 |
+| Oud-Beijerland | € 1.507.252 |
+| Oude IJsselstreek | € 3.409.842 |
+| Ouder-Amstel | € 716.917 |
+| Oudewater | € 560.186 |
+| Overbetuwe | € 2.632.235 |
+| Papendrecht | € 2.181.124 |
+| Peel en Maas | € 2.935.189 |
+| Pekela | € 1.325.913 |
+| Pijnacker-Nootdorp | € 2.133.890 |
+| Purmerend | € 6.256.582 |
+| Putten | € 1.641.840 |
+| Raalte | € 2.540.723 |
+| Reimerswaal | € 1.429.965 |
+| Renkum | € 2.612.569 |
+| Renswoude | € 203.561 |
+| Reusel-De Mierden | € 780.315 |
+| Rheden | € 4.239.969 |
+| Rhenen | € 1.313.940 |
+| Ridderkerk | € 3.951.299 |
+| Rijnwaarden | € 799.766 |
+| Rijssen-Holten | € 2.413.106 |
+| Rijswijk | € 4.615.561 |
+| Roerdalen | € 1.643.834 |
+| Roermond | € 4.844.834 |
+| Roosendaal | € 6.085.158 |
+| Rotterdam | € 47.470.505 |
+| Rozendaal | € 67.356 |
+| Rucphen | € 1.941.285 |
+| Schagen | € 3.021.050 |
+| Scherpenzeel | € 556.373 |
+| Schiedam | € 5.864.803 |
+| Schiermonnikoog | € 91.917 |
+| Schijndel | € 1.677.792 |
+| Schinnen | € 1.023.241 |
+| Schouwen-Duiveland | € 2.612.483 |
+| 's-Gravenhage | € 33.596.838 |
+| 's-Hertogenbosch | € 9.900.236 |
+| Simpelveld | € 1.016.887 |
+| Sint-Anthonis | € 806.221 |
+| Sint-Michielsgestel | € 1.884.021 |
+| Sint-Oedenrode | € 1.079.591 |
+| Sittard-Geleen | € 8.949.633 |
+| Sliedrecht | € 2.145.259 |
+| Slochteren | € 991.391 |
+| Sluis | € 2.048.038 |
+| Smallingerland | € 4.646.756 |
+| Soest | € 3.014.013 |
+| Someren | € 1.208.488 |
+| Son en Breugel | € 1.116.532 |
+| Stadskanaal | € 3.739.565 |
+| Staphorst | € 746.467 |
+| Stede Broec | € 1.327.294 |
+| Steenbergen | € 1.800.340 |
+| Steenwijkerland | € 3.434.160 |
+| Stein | € 2.183.853 |
+| Stichtse Vecht | € 3.373.172 |
+| Strijen | € 600.113 |
+| Súdwest-Fryslân | € 6.287.819 |
+| Ten Boer | € 414.492 |
+| Terneuzen | € 4.788.298 |
+| Terschelling | € 277.342 |
+| Texel | € 933.589 |
+| Teylingen | € 1.862.248 |
+| Tholen | € 1.854.824 |
+| Tiel | € 2.772.120 |
+| Tilburg | € 15.178.582 |
+| Tubbergen | € 1.247.746 |
+| Twenterand | € 2.356.269 |
+| Tynaarlo | € 2.307.184 |
+| Tytsjerksteradiel | € 2.437.375 |
+| Uden | € 2.858.852 |
+| Uitgeest | € 573.725 |
+| Uithoorn | € 1.769.558 |
+| Urk | € 601.485 |
+| Utrecht | € 14.859.368 |
+| Utrechtse Heuvelrug | € 3.288.694 |
+| Vaals | € 958.186 |
+| Valkenburg aan de Geul | € 1.584.574 |
+| Valkenswaard | € 2.597.750 |
+| Veendam | € 2.730.768 |
+| Veenendaal | € 4.183.785 |
+| Veere | € 1.333.077 |
+| Veghel | € 2.354.806 |
+| Veldhoven | € 3.152.280 |
+| Velsen | € 4.900.348 |
+| Venlo | € 8.786.408 |
+| Venray | € 3.154.335 |
+| Vianen | € 1.203.363 |
+| Vlaardingen | € 6.279.765 |
+| Vlagtwedde | € 1.819.880 |
+| Vlieland | € 78.963 |
+| Vlissingen | € 3.996.808 |
+| Voerendaal | € 986.091 |
+| Voorschoten | € 1.446.528 |
+| Voorst | € 1.827.034 |
+| Vught | € 1.743.927 |
+| Waalre | € 1.043.322 |
+| Waalwijk | € 3.583.221 |
+| Waddinxveen | € 1.690.497 |
+| Wageningen | € 1.889.537 |
+| Wassenaar | € 1.334.216 |
+| Waterland | € 1.034.072 |
+| Weert | € 4.032.021 |
+| Weesp | € 1.206.152 |
+| Werkendam | € 1.623.002 |
+| West Maas en Waal | € 1.237.645 |
+| Westerveld | € 1.584.952 |
+| Westervoort | € 1.005.979 |
+| Westland | € 6.451.532 |
+| Weststellingwerf | € 2.249.628 |
+| Westvoorne | € 906.136 |
+| Wierden | € 1.392.672 |
+| Wijchen | € 2.633.395 |
+| Wijdemeren | € 1.409.160 |
+| Wijk bij Duurstede | € 1.191.918 |
+| Winsum | € 933.519 |
+| Winterswijk | € 2.461.886 |
+| Woensdrecht | € 1.578.329 |
+| Woerden | € 2.783.018 |
+| Wormerland | € 1.054.531 |
+| Woudenberg | € 725.662 |
+| Woudrichem | € 895.367 |
+| Zaanstad | € 10.552.944 |
+| Zaltbommel | € 1.546.965 |
+| Zandvoort | € 1.509.988 |
+| Zederik | € 797.099 |
+| Zeewolde | € 873.713 |
+| Zeist | € 4.499.279 |
+| Zevenaar | € 2.672.420 |
+| Zoetermeer | € 7.632.569 |
+| Zoeterwoude | € 576.806 |
+| Zuidhorn | € 1.108.391 |
+| Zuidplas | € 2.040.645 |
+| Zundert | € 1.704.784 |
+| Zutphen | € 3.837.122 |
+| Zwartewaterland | € 1.179.022 |
+| Zwijndrecht | € 3.647.216 |
+| Zwolle | € 7.487.902 |
+| **Totaal** | **€ 1.161.394.996** |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
