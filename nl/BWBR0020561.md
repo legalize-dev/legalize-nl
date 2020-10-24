@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2020 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2020 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
 | naam gemeente | aantal behandeleenheden | maximum aantal behandelplaatsen | maximale uitkering 2020 |
 | --- | --- | --- | --- |
@@ -75,7 +75,9 @@ In deze regeling wordt verstaan onder:
 | Tilburg | 1 | 23 | € 625.602 |
 | Utrecht | 1 | 44 | € 968.889 |
 
-2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
+2. Onder kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
+
+3. Een behandeleenheid bestaat uit ten minste 20 behandelplaatsen.
 
 ##### Artikel 3
 
@@ -163,7 +165,13 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2020-01-01&g=2020-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2020-10-24&g=2020-10-24), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+
+2. De specifieke uitkering wordt vastgesteld op een bedrag voor:
+
+- a. 20 behandelplaatsen per behandeleenheid, of
+
+- b. het feitelijk bezette aantal behandelplaatsen per behandeleenheid, in geval van 21 of meer behandelplaatsen, tot ten hoogste het in de verleningsbeschikking genoemde aantal behandelplaatsen en bedrag.
 
 ##### Artikel 12
 
