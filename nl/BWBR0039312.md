@@ -4,7 +4,7 @@ identifier: "BWBR0039312"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-27"
-last_updated: "2017-03-11"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039312"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 ##### Artikel 1
 
-De organisaties op de lijst, bedoeld in [artikel 14, vierde lid van de Rijkswet op het Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zijn:
+De organisaties op de lijst, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), zijn:
 
-- 1. Al Qa’ida en organisaties die gelieerd zijn aan al Qa’ida
+- 1. Al Qa’ida en organisaties die gelieerd zijn aan al Qa’ida;
 
-- 2. Islamitische Staat in Irak en al-Sham (ISIS) en organisaties die gelieerd zijn aan ISIS
+- 2. Islamitische Staat in Irak en al-Sham (ISIS) en organisaties die gelieerd zijn aan ISIS;
 
-- 3. Hay'at Tahrir al-Sham
+- 3. Hay'at Tahrir al-Sham (HTS) en organisaties die gelieerd zijn aan HTS.
 
 ##### Artikel 2
 
