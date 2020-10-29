@@ -4,7 +4,7 @@ identifier: "BWBR0042746"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-29"
-last_updated: "2020-01-01"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042746"
 soort: "AMvB"
@@ -58,8 +58,6 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 Wijzigt het Besluit toezicht accountantsorganisaties.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
@@ -90,7 +88,7 @@ Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 ##### Artikel XI
 
-Dit besluit treedt in werking met ingang van 1 januari 2020, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042746&artikel=III&z=2020-01-01&g=2020-01-01) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van 1 januari 2020, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0042746&artikel=III&z=2020-10-29&g=2020-10-29) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XII
 
