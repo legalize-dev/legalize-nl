@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2020-06-04"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Voor subsidieverstrekking op grond van deze regeling is voor 2019 een bedrag van € 16.342.750,– beschikbaar.
 
-3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 8.934.000 beschikbaar.
+3. Voor subsidieverstrekking op grond van deze regeling is voor 2020 een bedrag van € 14.141.000 beschikbaar.
 
 4. De hoogte van het subsidieplafond voor de kalenderjaren 2018, 2019 en 2020 wordt jaarlijks bekendgemaakt in de Staatscourant.
 
@@ -140,7 +140,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een door alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen getekende verklaring, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-06-04&g=2020-06-04).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2020-10-29&g=2020-10-29).
 
 ##### Artikel 8. Subsidieaanvraag
 
