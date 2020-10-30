@@ -4,7 +4,7 @@ identifier: "BWBR0043799"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-12"
-last_updated: "2020-07-10"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043799"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het ver
 
 - a. de uitvoeringsactiviteiten waarvoor de specifieke uitkering is verleend, niet of niet volledig hebben plaatsgevonden;
 
-- b. niet is voldaan aan de verplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043799&artikel=6&z=2020-07-10&g=2020-07-10).
+- b. niet is voldaan aan de verplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043799&artikel=6&z=2020-12-12&g=2020-10-30).
 
 2. De minister stelt de specifieke uitkering ambtshalve vast, uiterlijk op 31 december van het jaar volgend op het jaar waarin de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is ontvangen.
 
