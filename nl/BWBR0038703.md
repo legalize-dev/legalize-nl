@@ -4,7 +4,7 @@ identifier: "BWBR0038703"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-10-31"
-last_updated: "2016-11-11"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038703"
 soort: "zbo"
@@ -50,6 +50,10 @@ Deze beleidsregels hebben uitsluitend betrekking op de verlening van vergunninge
 
 ### Artikel 5. De vergunning
 
+### Artikel 5a. Inschakelen van derden
+
+De vergunninghouder kan de organisatie van het kansspel en de uitvoering van het kansspel (of een deel daarvan) uitbesteden aan een derde. De vergunninghouder moet daarvoor een schriftelijke machtiging verstrekken aan die derde of een schriftelijke overeenkomst sluiten met die derde. Daarin wordt in elk geval opgenomen welke onderdelen worden uitbesteed. De vergunninghouder blijft verantwoordelijk voor de organisatie en de uitvoering van het kansspel en voor de naleving van de vergunningvoorschriften.
+
 ### Artikel 6. Weigeren van de vergunning
 
 De vergunning kan in ieder geval worden geweigerd indien de vergunninghouder kansspelen als bedoeld in de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469), anders dan de aan hem vergunde kansspelen, aanbiedt zonder daartoe een vergunning verleend te hebben gekregen.
@@ -60,13 +64,17 @@ De vergunning kan worden ingetrokken als:
 
 ### Artikel 8. Annulering van de vergunning
 
-Als het kansspel wordt geannuleerd, is de vergunninghouder verplicht dit te melden aan de Kansspelautoriteit en de Belastingdienst, en de lotprijs terug te betalen aan de deelnemers.
+### Artikel 10. Citeertitel
 
-### Artikel 9. Toezicht en controle
+Deze beleidsregels worden aangehaald als: Beleidsregels incidentele artikel 3 loterijvergunningen.
 
 ### Artikel 10. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels incidentele artikel 3 loterijvergunningen.
+
+Als het kansspel wordt geannuleerd, is de vergunninghouder verplicht dit te melden aan de Kansspelautoriteit en de Belastingdienst, en de lotprijs terug te betalen aan de deelnemers.
+
+### Artikel 9. Toezicht en controle
 
 ### Artikel 11. Inwerkingtreding
 
