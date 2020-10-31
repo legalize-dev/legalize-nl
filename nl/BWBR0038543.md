@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2020-08-01"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-08-01&g=2020-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2020-10-31&g=2020-10-31) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-08-01&g=2020-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2020-10-31&g=2020-10-31).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-08-01&g=2020-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2020-10-31&g=2020-10-31)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -319,10 +319,20 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1058 | Hoogspanningstechniek |
 | K0200 | Interieur- en exterieurtextiel (geschikt voor niveau 2) |
 | K1159 | Kunstmatige inseminatie paard |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2020** | **Certificaten voor keuzedelen vanaf oktober 2020** |
+| K0977 | Basis meet- en regeltechniek |
+| K1155 | Didactische ondersteuning basisonderwijs |
+| K0895 | Duurzaam bouwen voor bouwplaatspersoneel |
+| K0447 | Montage houten elementen op de bouwplaats |
+| K0695 | Schoonmetselwerk |
+| K1181 | Verdieping diervoeders |
+| K0709 | Wandtegels Lijmen |
+| K1167 | Werken met kinderen in de gastouderopvang |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-08-01&g=2020-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2020-10-31&g=2020-10-31)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -369,6 +379,10 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0049 | Verdieping repareren en onderhouden van schepen en jachten | 25597 | Allround medewerker maritieme techniek |
 | C0050 | Voedselveiligheid in de productieketen - basis | 25460 | Medewerker voeding en technologie |
 | C0051 | Voedselveiligheid in de productieketen - verdieping | 25461 | Vakbekwaam medewerker voeding en technologie |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2020** |
+| C0052 | Creëren van een optimale woon- en leefomgeving voor de zorgvrager | 25656 | Verzorgende-IG |
+| C0053 | Individuele zorg verlenen | 25656 | Verzorgende-IG |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
