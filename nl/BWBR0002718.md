@@ -4,7 +4,7 @@ identifier: "BWBR0002718"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2020-04-01"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002718"
 soort: "wet"
@@ -68,7 +68,7 @@ Deze wet verstaat onder:
 
 2. Onze Minister maakt zijn beslissing op een aanvraag als bedoeld in het eerste lid binnen negen maanden na ontvangst daarvan aan de aanvrager bekend.
 
-3. Onze Minister beslist niet tot de bekostiging, bedoeld in het eerste lid, indien redelijkerwijs te verwachten is dat daardoor het leerlingenaantal van scholen van dezelfde richting in het voedingsgebied zodanig zal dalen dat hun voortbestaan wordt bedreigd.
+3. Onze Minister beslist niet tot de bekostiging, bedoeld in het eerste lid, indien redelijkerwijs te verwachten is dat daardoor het leerlingenaantal van andere scholen in het voedingsgebied zodanig zal dalen dat hun voortbestaan wordt bedreigd.
 
 4. Onze Minister draagt er zorg voor dat krachtens dit artikel genomen beslissingen waar mogelijk in overeenstemming zijn met het beginsel van een evenwichtig geheel van onderwijsvoorzieningen.
 
@@ -78,7 +78,7 @@ Deze wet verstaat onder:
 
 - a. op een met redenen omkleed verzoek van het bevoegd gezag;
 
-- b. door Onze Minister indien niet meer wordt voldaan aan de regelen en voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2020-04-01&g=2020-04-01);
+- b. door Onze Minister indien niet meer wordt voldaan aan de regelen en voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=4&z=2020-11-01&g=2020-11-01);
 
 - c. door Onze Minister indien het experiment niet tot de daarmee beoogde doeleinden blijkt te leiden;
 
@@ -86,15 +86,15 @@ Deze wet verstaat onder:
 
 ##### Artikel 3
 
-1. Indien toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01), wordt verlangd voor een gemeentelijke , voor een bijzondere school of voor een openbare school in het openbaar lichaam Bonaire, Sint Eustatius of Saba, dient het bevoegd gezag bij Onze Minister een verzoek in onder bijvoeging van een experimenteerplan en een begroting van uitgaven.
+1. Indien toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01), wordt verlangd voor een gemeentelijke , voor een bijzondere school of voor een openbare school in het openbaar lichaam Bonaire, Sint Eustatius of Saba, dient het bevoegd gezag bij Onze Minister een verzoek in onder bijvoeging van een experimenteerplan en een begroting van uitgaven.
 
 2. Het experimenteerplan geeft een duidelijke omschrijving van de doeleinden en de achtergronden van het experiment, van de werkmethode, de wetenschappelijke begeleiding, de evaluatie en de rapportering.
 
 ##### Artikel 4
 
-1. Op een school bekostigd ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01), zijn de door Onze Minister bij zijn beslissing aangewezen regelen en voorwaarden, gegeven bij of krachtens een der onderwijswetten, van toepassing. Voor zover niet krachtens de vorige volzin geregeld, bepaalt Onze Minister bij zijn beslissing welke regelen en voorwaarden voor de bekostiging zullen gelden, alsmede de wijze van bekostiging.
+1. Op een school bekostigd ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01), zijn de door Onze Minister bij zijn beslissing aangewezen regelen en voorwaarden, gegeven bij of krachtens een der onderwijswetten, van toepassing. Voor zover niet krachtens de vorige volzin geregeld, bepaalt Onze Minister bij zijn beslissing welke regelen en voorwaarden voor de bekostiging zullen gelden, alsmede de wijze van bekostiging.
 
-2. Indien de bekostiging van een experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01), uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment.
+2. Indien de bekostiging van een experiment wordt beëindigd aan een school die onmiddellijk voorafgaand aan de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01), uit de openbare kas werd bekostigd, wordt wederom vergoeding toegekend volgens dezelfde regelen en voorwaarden als voor het schooltype gelden, waartoe de school behoorde voor de aanvang van het experiment.
 
 3. Indien de bekostiging wordt beëindigd van een experiment waarop het tweede lid niet van toepassing is, zijn voor het uit de openbare kas bekostigde personeel dat ten gevolge daarvan wordt ontslagen, de regelingen, geldend bij ontslag van personeel van een vergelijkbare, in een der onderwijswetten geregelde schoolsoort van overeenkomstige toepassing. In geval van twijfel welke de vergelijkbare schoolsoort is, beslist Onze Minister.
 
@@ -116,11 +116,11 @@ Deze wet verstaat onder:
 
 ##### Artikel 5
 
-De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van de beschikking op een verzoek om verlenging van de bekostigingstermijn, alsmede omtrent beëindiging van de bekostiging op grond van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 6
 
-Onze Minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, diploma’s of verklaringen van een school die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01) uit de openbare kas wordt bekostigd.
+Onze Minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, diploma’s of verklaringen van een school die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01) uit de openbare kas wordt bekostigd.
 
 ##### Artikel 7
 
@@ -138,7 +138,7 @@ Ten aanzien van educatie en beroepsonderwijs waarop deze wet van toepassing is o
 
 ##### Artikel 7c
 
-1. Indien aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-04-01&g=2020-04-01), toepassing wordt gegeven voor een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of voor een instelling voor speciaal en voortgezet speciaal onderwijs, zijn op die school onderscheidenlijk instelling de bepalingen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) van toepassing, voor zover die betreffen de bekostiging door de gemeente.
+1. Indien aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2&z=2020-11-01&g=2020-11-01), toepassing wordt gegeven voor een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of voor een instelling voor speciaal en voortgezet speciaal onderwijs, zijn op die school onderscheidenlijk instelling de bepalingen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) van toepassing, voor zover die betreffen de bekostiging door de gemeente.
 
 2. Voor de toepassing van het eerste lid bepaalt Onze Minister of de experimentele school of instelling wordt gelijkgesteld met een schoolsoort als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) dan wel of deze door de gemeente als een eigensoortige school voor speciaal onderwijs of voor voortgezet speciaal onderwijs, dan wel een eigensoortige school of instelling voor speciaal en voortgezet speciaal onderwijs dient te worden beschouwd.
 
