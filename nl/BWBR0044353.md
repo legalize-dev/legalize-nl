@@ -4,7 +4,7 @@ identifier: "BWBR0044353"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-20"
-last_updated: "2019-08-01"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044353"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Voor de duur van het programma Maatschappelijke Diensttijd heeft mr. J.H. de Jag
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de duur van het programma Maatschappelijke Diensttijd worden, bij afwezigheid of verhindering van de programmadirecteur, de bevoegdheden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-01), uitgeoefend door drs. M.C. Siebelt, procesmanager van het programma Maatschappelijke Diensttijd.
 
 ##### Artikel 3
 
@@ -51,9 +51,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 4
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op de [artikelen 16a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=16a), [artikel 17 van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=17) en [artikel 10 van de Volmachtregeling personele aangelegenheden VWS 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&artikel=10);
-
-Besluit:
-
-Dit besluit zal in de Staatscourant worden geplaatst.
