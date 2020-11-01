@@ -377,27 +377,3 @@ Deze regeling treedt in werking met ingang van 1 november 2020.
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning vo CN 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 18a. Aanvraag aanvullende bekostiging voor leerlingengroei nieuwe school tweede en volgende schooljaar
-
-1. Een bevoegd gezag van een nieuwe school kan vanaf het tweede schooljaar tot en met het schooljaar waarin de school volgroeid is op grond van [artikel 156 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=156) een aanvraag indienen voor aanvullende bekostiging vanwege leerlingengroei. De aanvraag wordt ingediend in het kalenderjaar waarin de leerlingengroei zich voordoet.
-
-2. De leerlingengroei wordt vastgesteld door het verschil te berekenen tussen het aantal geprognosticeerde leerlingen in het lopende schooljaar en het aantal leerlingen op 1 oktober van het kalenderjaar t-1.
-
-3. De aanvullende bekostiging wordt vastgesteld door de leerlingengroei te vermenigvuldigen met het bedrag per leerling, bedoeld in [artikel 8, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8). De uitkomst wordt vervolgens vermenigvuldigd met 5/12de.
-
-4. De aanvullende bekostiging wordt in december van het lopende schooljaar gewijzigd vastgesteld op basis van de voorlopige telling van het werkelijk aantal leerlingen op 1 oktober en uiterlijk in de maand december van het daaropvolgende schooljaar nader gewijzigd vastgesteld op basis van het door de accountant goedgekeurde aantal leerlingen dat op 1 oktober in het voorafgaande schooljaar staat ingeschreven bij de school.
-
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Aanvragen tot bekostiging 2022
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 2. Startbekostiging en aanvullende bekostiging nieuwe scholen voortgezet onderwijs
-
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
