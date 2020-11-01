@@ -4,7 +4,7 @@ identifier: "BWBR0044109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-26"
-last_updated: "2020-09-16"
+last_updated: "2020-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044109"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2020-11-01"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+Conform [artikel 4, eerste lid, van het Besluit woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4) wordt het tweede aanvraagtijdvak van de woningbouwimpuls vastgesteld voor de periode van 26 oktober 2020 tot en met 23 november 2020.
 
 ##### Artikel 2
 
