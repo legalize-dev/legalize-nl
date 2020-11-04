@@ -4,7 +4,7 @@ identifier: "BWBR0017434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-03"
-last_updated: "2004-11-13"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017434"
 soort: "ministeriele-regeling"
@@ -55,8 +55,32 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Besluit Rode lijsten flora en fauna.
 
-## Bijlage
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017434&artikel=1&z=2020-11-04&g=2020-11-04) van het Besluit Rode lijsten flora en fauna
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+| **Verdwenen uit Nederland** |   |
+| --- | --- |
+| Kleine hoefijzerneus | **Rhinolophus hipposideros hipposideros** |
+| Vale vleermuis | **Myotis myotis** |
+| Tuimelaar | **Tursiops truncatus** |
+| **Ernstig bedreigd** |   |
+| Eikelmuis | **Eliomys quercinus** |
+| Hamster | **Cricetus cricetus** |
+| **Bedreigd** |   |
+| Hazelmuis | **Muscardinus avellanarius** |
+| Zwarte rat | **Rattus rattus** |
+| **Kwetsbaar** |   |
+| Bunzing | **Mustela putorius** |
+| Hermelijn | **Mustela erminea aestiva** |
+| Laatvlieger | **Eptesicus serotinus serotinus** |
+| Noordse woelmuis | **Alexandromys oeconomus arenicola** |
+| Veldspitsmuis | **Crocidura leucodon leucodon** |
+| **Gevoelig** |   |
+| Bechsteins vleermuis | **Myotis bechsteinii** |
+| Bosvleermuis | **Nyctalys leisleri** |
+| Haas | **Lepus europaeus europaeus** |
+| Ingekorven vleermuis | **Myotis emarginatus emarginatus** |
+| Konijn | **Oryctolagus cunniculus** |
+| Tweekleurige vleermuis | **Vespertilio murinus murinus** |
+| Wezel | **Mustela nivalis vulgaris** |
 
 Dit besluit zal, met uitzondering van de bijlage, met de toelichting in de Staatscourant worden geplaatst. De bijlage zal ter inzage worden gelegd in de bibliotheek van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
