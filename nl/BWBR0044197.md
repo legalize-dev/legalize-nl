@@ -4,7 +4,7 @@ identifier: "BWBR0044197"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-11-09"
-last_updated: "2020-07-01"
+last_updated: "2020-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044197"
 soort: "AMvB"
@@ -46,8 +46,6 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaa
 
 Hebben goedgevonden en verstaan:
 
-Werkt terug tot en met het tijdstip waarop de Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen in werking treedt.
-
 ##### Artikel 1. (definities en reikwijdte)
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
@@ -78,9 +76,9 @@ Werkt terug tot en met het tijdstip waarop de Implementatiewet wijziging EU-kade
 
 1. De producent beschikt over de financiële of financiële en organisatorische middelen die nodig zijn om aan de verplichtingen te voldoen die voortvloeien uit de uitgebreide producentenverantwoordelijkheid.
 
-2. De producent draagt in ieder geval de kosten voor het nakomen van de verplichtingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-07-01).
+2. De producent draagt in ieder geval de kosten voor het nakomen van de verplichtingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-11-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-11-09).
 
-3. De producent zorgt voor een adequaat mechanisme voor zelfbeheer, dat is gericht op het waarborgen van de continuïteit van de financiële of financiële en organisatorische middelen, bedoeld in het eerste lid, en de kwaliteit van het verslag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-07-01).
+3. De producent zorgt voor een adequaat mechanisme voor zelfbeheer, dat is gericht op het waarborgen van de continuïteit van de financiële of financiële en organisatorische middelen, bedoeld in het eerste lid, en de kwaliteit van het verslag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-11-09).
 
 ##### Artikel 4. (melding)
 
@@ -94,23 +92,23 @@ Werkt terug tot en met het tijdstip waarop de Implementatiewet wijziging EU-kade
 
 - c. een omschrijving van de stoffen, mengsels of producten die de producent op de markt brengt en waar de regeling voor uitgebreide producentenverantwoordelijkheid betrekking op heeft;
 
-- d. een omschrijving van de wijze waarop de verplichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01), worden nagekomen;
+- d. een omschrijving van de wijze waarop de verplichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09), worden nagekomen;
 
-- e. een omschrijving van het innamesysteem, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01);
+- e. een omschrijving van het innamesysteem, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09);
 
-- f. een overzicht van de financiële of financiële en organisatorische middelen, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=3&z=2020-11-09&g=2020-07-01);
+- f. een overzicht van de financiële of financiële en organisatorische middelen, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=3&z=2020-11-09&g=2020-11-09);
 
-- g. een omschrijving van het mechanisme van zelfbeheer, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=3&z=2020-11-09&g=2020-07-01), en
+- g. een omschrijving van het mechanisme van zelfbeheer, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=3&z=2020-11-09&g=2020-11-09), en
 
-- h. een vermelding van de wijze waarop de producent invulling geeft aan de informatieverplichting, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01).
+- h. een vermelding van de wijze waarop de producent invulling geeft aan de informatieverplichting, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09).
 
-3. Wanneer gezamenlijk uitvoering wordt gegeven aan de uitgebreide producentenverantwoordelijkheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-07-01), wordt de melding aangevuld met:
+3. Wanneer gezamenlijk uitvoering wordt gegeven aan de uitgebreide producentenverantwoordelijkheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-11-09), wordt de melding aangevuld met:
 
 - a. een vermelding van de producenten namens wie de melding wordt gedaan;
 
-- b. de hoogte en de wijze van het berekenen van de financiële bijdragen aan de producentenorganisatie, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-07-01), en
+- b. de hoogte en de wijze van het berekenen van de financiële bijdragen aan de producentenorganisatie, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-11-09), en
 
-- c. de wijze van differentiatie van de financiële bijdragen aan de producentenorganisatie, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-07-01).
+- c. de wijze van differentiatie van de financiële bijdragen aan de producentenorganisatie, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-11-09).
 
 4. Als de gegevens, bedoeld in het tweede lid onder a en c, en derde lid, onder a, significant wijzigen doet de producent binnen zes weken melding van deze wijziging aan Onze Minister.
 
@@ -118,23 +116,23 @@ Werkt terug tot en met het tijdstip waarop de Implementatiewet wijziging EU-kade
 
 1. De producent brengt elk jaar op een in de regeling voor uitgebreide producentenverantwoordelijkheid te bepalen tijdstip over een daarin te bepalen termijn verslag uit aan Onze Minister met daarin:
 
-- a. gegevens over het nakomen van de verplichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01), vergezeld van een document waarmee de verificatie van deze gegevens mogelijk is;
+- a. gegevens over het nakomen van de verplichtingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09), vergezeld van een document waarmee de verificatie van deze gegevens mogelijk is;
 
-- b. gegevens over de uitvoering van het innamesysteem, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01), en
+- b. gegevens over de uitvoering van het innamesysteem, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09), en
 
-- c. gegevens over de uitvoering van de informatieplicht, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01).
+- c. gegevens over de uitvoering van de informatieplicht, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09).
 
-2. Wanneer gezamenlijk uitvoering wordt gegeven aan de uitgebreide producentenverantwoordelijkheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-07-01), wordt het verslag aangevuld met een vermelding van de producenten namens wie het verslag wordt ingediend.
+2. Wanneer gezamenlijk uitvoering wordt gegeven aan de uitgebreide producentenverantwoordelijkheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=6&z=2020-11-09&g=2020-11-09), wordt het verslag aangevuld met een vermelding van de producenten namens wie het verslag wordt ingediend.
 
 3. De producent zorgt ervoor dat de informatie over het behalen van de in de regeling voor uitgebreide producentenverantwoordelijkheid vastgestelde doelstellingen in ieder geval digitaal openbaar worden gemaakt.
 
 ##### Artikel 6. (producentenorganisatie)
 
-1. Producenten kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in [artikel 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01).
+1. Producenten kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in [artikel 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09).
 
-2. Als uitvoering wordt gegeven aan het eerste lid, berusten de verplichtingen, bedoeld in dat lid, op de producentenorganisatie die namens de producenten een melding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-07-01) doet.
+2. Als uitvoering wordt gegeven aan het eerste lid, berusten de verplichtingen, bedoeld in dat lid, op de producentenorganisatie die namens de producenten een melding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-11-09) doet.
 
-3. Met de financiële bijdragen van de producenten aan de producentenorganisatie worden in ieder geval de kosten gedekt die nodig zijn ter uitvoering van de verplichtingen die voortvloeien uit de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-07-01), rekening houdend met de inkomsten uit het hergebruik, de verkoop van secundaire grondstoffen van hun producten en niet-opgeëist statiegeld.
+3. Met de financiële bijdragen van de producenten aan de producentenorganisatie worden in ieder geval de kosten gedekt die nodig zijn ter uitvoering van de verplichtingen die voortvloeien uit de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4&z=2020-11-09&g=2020-11-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-11-09), rekening houdend met de inkomsten uit het hergebruik, de verkoop van secundaire grondstoffen van hun producten en niet-opgeëist statiegeld.
 
 4. De financiële bijdragen van de producenten aan de producentenorganisatie worden voor afzonderlijke stoffen, mengsels of producten of groepen van soortgelijke stoffen, mengsels of producten indien mogelijk gedifferentieerd, waarbij rekening wordt gehouden met de gehele levenscyclus, duurzaamheid, repareerbaarheid, herbruikbaarheid en recyclebaarheid van de stoffen, mengsels of producten en met de aanwezigheid van gevaarlijke stoffen daarin.
 
@@ -150,7 +148,7 @@ Werkt terug tot en met het tijdstip waarop de Implementatiewet wijziging EU-kade
 
 ##### Artikel 7. (overgangsrecht)
 
-Dit besluit is tot 1 januari 2023 niet van toepassing op een regeling, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=1&z=2020-11-09&g=2020-07-01), die voor 4 juli 2018 is vastgesteld.
+Dit besluit is tot 1 januari 2023 niet van toepassing op een regeling, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=1&z=2020-11-09&g=2020-11-09), die voor 4 juli 2018 is vastgesteld.
 
 ##### Artikel 8. (inwerkingtreding)
 
