@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2020-10-01"
+last_updated: "2020-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -76,7 +76,9 @@ Besluit:
 
 - l. **teamleider:** een functionaris die leiding geeft aan een team binnen de afdelingen UV of UEC, het LO-plein of binnen het cluster Betalen van het FDC;
 
-- m. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt.
+- m. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
+
+- n. **teamleider NOW:** de teamleider NOW stuurt het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13).
 
 #### § 2. Organisatie
 
@@ -116,7 +118,7 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - c. het op orde hebben van de processen en de administratieve organisatie;
 
-- d. het formuleren en uitvoeren van jaarplannen voor de eigen afdeling binnen de dor de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeur vastgestelde uitgangspunten;
+- d. het formuleren en uitvoeren van jaarplannen voor de eigen afdeling binnen de door de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeur vastgestelde uitgangspunten;
 
 - e. het rapporteren en verantwoorden aan de directeur over de uitvoering van de jaarplannen betreffende de eigen afdeling.
 
@@ -220,7 +222,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-11-11&g=2020-10-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-11-11&g=2020-11-11) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
