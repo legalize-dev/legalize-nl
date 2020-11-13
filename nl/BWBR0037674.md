@@ -4,7 +4,7 @@ identifier: "BWBR0037674"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2020-07-17"
+last_updated: "2020-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037674"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Besluit:
 
 ##### Artikel 2.1. Keuzedelen
 
-1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-07-17&g=2020-07-17), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2020-07-17&g=2020-07-17), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2020-07-17&g=2020-07-17), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2020-07-17&g=2020-07-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2020-07-17&g=2020-07-17), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2020-07-17&g=2020-07-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2020-07-17&g=2020-07-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2020-07-17&g=2020-07-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2020-07-17&g=2020-07-17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=19&z=2020-07-17&g=2020-07-17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=21&z=2020-07-17&g=2020-07-17), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=23&z=2020-07-17&g=2020-07-17), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=25&z=2020-07-17&g=2020-07-17), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=27&z=2020-07-17&g=2020-07-17), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=29&z=2020-07-17&g=2020-07-17), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=31&z=2020-07-17&g=2020-07-17), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=33&z=2020-07-17&g=2020-07-17), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=35&z=2020-07-17&g=2020-07-17) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=37&z=2020-07-17&g=2020-07-17) behorende bij deze regeling.
+1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-11-13&g=2020-11-13), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2020-11-13&g=2020-11-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2020-11-13&g=2020-11-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2020-11-13&g=2020-11-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2020-11-13&g=2020-11-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2020-11-13&g=2020-11-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2020-11-13&g=2020-11-13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2020-11-13&g=2020-11-13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2020-11-13&g=2020-11-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=19&z=2020-11-13&g=2020-11-13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=21&z=2020-11-13&g=2020-11-13), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=23&z=2020-11-13&g=2020-11-13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=25&z=2020-11-13&g=2020-11-13), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=27&z=2020-11-13&g=2020-11-13), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=29&z=2020-11-13&g=2020-11-13), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=31&z=2020-11-13&g=2020-11-13), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=33&z=2020-11-13&g=2020-11-13), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=35&z=2020-11-13&g=2020-11-13) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=37&z=2020-11-13&g=2020-11-13) behorende bij deze regeling.
 
-2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2020-07-17&g=2020-07-17), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2020-07-17&g=2020-07-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2020-07-17&g=2020-07-17), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2020-07-17&g=2020-07-17), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2020-07-17&g=2020-07-17), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2020-07-17&g=2020-07-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2020-07-17&g=2020-07-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2020-07-17&g=2020-07-17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=18&z=2020-07-17&g=2020-07-17), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=20&z=2020-07-17&g=2020-07-17), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=22&z=2020-07-17&g=2020-07-17), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=24&z=2020-07-17&g=2020-07-17), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=26&z=2020-07-17&g=2020-07-17), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=28&z=2020-07-17&g=2020-07-17), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=30&z=2020-07-17&g=2020-07-17), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=32&z=2020-07-17&g=2020-07-17), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=34&z=2020-07-17&g=2020-07-17),[36](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=36&z=2020-07-17&g=2020-07-17) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=38&z=2020-07-17&g=2020-07-17) behorende bij deze regeling.
+2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2020-11-13&g=2020-11-13), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2020-11-13&g=2020-11-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2020-11-13&g=2020-11-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2020-11-13&g=2020-11-13), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2020-11-13&g=2020-11-13), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2020-11-13&g=2020-11-13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2020-11-13&g=2020-11-13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2020-11-13&g=2020-11-13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=18&z=2020-11-13&g=2020-11-13), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=20&z=2020-11-13&g=2020-11-13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=22&z=2020-11-13&g=2020-11-13), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=24&z=2020-11-13&g=2020-11-13), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=26&z=2020-11-13&g=2020-11-13), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=28&z=2020-11-13&g=2020-11-13), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=30&z=2020-11-13&g=2020-11-13), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=32&z=2020-11-13&g=2020-11-13), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=34&z=2020-11-13&g=2020-11-13), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=36&z=2020-11-13&g=2020-11-13), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=38&z=2020-11-13&g=2020-11-13) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=39&z=2020-11-13&g=2020-11-13) behorende bij deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -76,17 +76,27 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-## Bijlage 3
+## Bijlage 1
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-03-01&g=2016-03-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
-## Bijlage 4
+## Bijlage 2
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-04-12&g=2016-04-12) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+
+## Bijlage 3
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+## Bijlage 4
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-07-19&g=2016-07-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 5. Aanvulling keuzedelen 2016 OCW en aanvulling keuzedelen 2016 betreffende kwalificaties op het gebied van landbouw, natuurlijke omgeving en voedsel (EZ) – juli 2016
 
@@ -96,7 +106,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-07-19&g=2016-07-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-10-12&g=2016-10-12) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 7. Aanvulling keuzedelen 2016 OCW en aanvulling keuzedelen 2016 betreffende kwalificaties op het gebied van landbouw, natuurlijke omgeving en voedsel (EZ) – oktober 2016
 
@@ -106,7 +116,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-10-12&g=2016-10-12) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-01-21&g=2017-01-21) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 9. Aanvulling keuzedelen OCW en aanvulling keuzedelen betreffende kwalificaties op het gebied van landbouw, natuurlijke omgeving en voedsel (EZ)
 
@@ -116,7 +126,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-01-21&g=2017-01-21) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-05-19&g=2017-05-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 11. Aanvulling keuzedelen OCW en aanvulling keuzedelen betreffende kwalificaties op het gebied van landbouw, natuurlijke omgeving en voedsel (EZ) – januari 2017
 
@@ -126,7 +136,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-05-19&g=2017-05-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-07-19&g=2017-07-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 13
 
@@ -136,7 +146,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-07-19&g=2017-07-19) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-10-26&g=2017-10-26) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 15. Aanvulling keuzedelen OCW en aanvulling keuzedelen betreffende kwalificaties op het gebied van landbouw, natuurlijke omgeving en voedsel (EZ) – september 2017
 
@@ -146,7 +156,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2017-10-26&g=2017-10-26) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-01-04&g=2018-04-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 17. Aanvulling keuzedelen OCW - december 2017
 
@@ -156,7 +166,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-01-04&g=2018-04-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-04-13&g=2018-07-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 19. Aanvulling keuzedelen OCW – maart 2018
 
@@ -166,7 +176,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-04-13&g=2018-07-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-07-25&g=2018-10-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 21. Aanvulling keuzedelen OCW - 13 juli 2018
 
@@ -176,7 +186,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-07-25&g=2018-10-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-10-31&g=2019-01-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 23. Aanvulling keuzedelen OCW – .. oktober 2018
 
@@ -186,7 +196,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2018-10-31&g=2019-01-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-01-29&g=2019-04-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 25. Aanvulling keuzedelen - .. januari 2019
 
@@ -196,7 +206,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-01-29&g=2019-04-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-05-08&g=2019-05-08) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 27. Aanvulling keuzedelen – april 2019
 
@@ -206,7 +216,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-05-08&g=2019-05-08) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-08-23&g=2019-08-23) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 29. Aanvulling keuzedelen – augustus 2019
 
@@ -216,7 +226,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-08-23&g=2019-08-23) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-10-29&g=2019-10-29) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 31. Aanvulling keuzedelen – oktober 2019
 
@@ -226,7 +236,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2019-10-29&g=2019-10-29) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-01-24&g=2020-01-24) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 33. Aanvulling nieuwe en gewijzigde keuzedelen alsmede vervallen keuzedelen – januari 2020
 
@@ -236,7 +246,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-01-24&g=2020-01-24) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-05-13&g=2020-05-13) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
 ## Bijlage 35. Aanvulling nieuwe en gewijzigde keuzedelen alsmede vervallen keuzedelen – april 2020
 
@@ -246,7 +256,17 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-05-13&g=2020-05-13) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-07-17&g=2020-07-17) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+
+##### Artikel 2.2. Vaststelling keuzedelen vanaf 1 augustus 2020
+
+Keuzedelen die op of na 1 augustus 2020 worden vastgesteld of gewijzigd, worden opgenomen in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=40&z=2020-11-13&g=2020-11-13) bij deze Regeling.
+
+##### Artikel 2.3. Vervallen keuzedelen vanaf 1 augustus 2020
+
+Keuzedelen die op of na 1 augustus 2020 vervallen, worden opgenomen in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=41&z=2020-11-13&g=2020-11-13) bij deze Regeling.
+
+#### Paragraaf 3. Slotbepalingen
 
 ## Bijlage 37. Aanvulling nieuwe en gewijzigde keuzedelen alsmede vervallen keuzedelen
 
@@ -256,4 +276,43 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-07-17&g=2020-07-17) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+## Bijlage 39
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+## Bijlage 40. Vastgestelde keuzedelen vanaf 1 augustus 2020
+
+Deze bijlage behoort bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.2&z=2020-11-13&g=2020-11-13) van de Regeling vaststelling keuzedelen.
+
+| Naam keuzedeel | Code | Aantal sbu | Nieuw of bestaand | Vorige versie | Toelichting |
+| --- | --- | --- | --- | --- | --- |
+| Datacenter Facility Engineering | K1184 | 240 | Nieuw |   |   |
+| Doorstroom vanuit niveau 2 | K1185 | 240 | Nieuw |   |   |
+| Duiken | K1186 | 240 | Nieuw |   |   |
+| Grondverzetmachines gereedmaken | K1187 | 240 | Nieuw |   |   |
+| Instructeur (e-)mountainbiken | K1188 | 240 | Nieuw |   |   |
+| Positieve Gezondheid in de praktijk | K1189 | 240 | Nieuw |   |   |
+| Introductie QRM industrieel produceren | K1190 | 240 | Bestaand | Introductie QRM industrieel produceren met hout | Het keuzedeel is tekstueel aangepast zodat het minder specifiek voor één branche is beschreven. |
+| Matten en roosters plaatsen | K1191 | 240 | Nieuw |   |   |
+| Medisch handelen tijdens crisissituaties | K1192 | 240 | Nieuw |   |   |
+| Papiaments A1/A2 in het beroepsonderwijs | K1193 | 240 | Nieuw |   |   |
+| Papiaments A2/B1 in het beroepsonderwijs | K1194 | 240 | Nieuw |   |   |
+| Papiaments B1/B2 in het beroepsonderwijs | K1195 | 240 | Nieuw |   |   |
+| Scheepsreparatie en -modificatie | K1196 | 480 | Nieuw |   |   |
+| Storingsdiagnose en reparatie aan grondverzetmachines | K1197 | 240 | Nieuw |   |   |
+| Storingsdiagnose en reparatie aan wegenbouwmachines | K1198 | 240 | Nieuw |   |   |
+| Vaktechnisch Engels voor de machinist railvervoer | K1199 | 240 | Nieuw |   |   |
+| Verdieping kraamzorg | K1200 | 480 | Nieuw |   |   |
+| Wegenbouwmachines gereedmaken | K1201 | 240 | Nieuw |   |   |
+| [Wet Natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) | K1202 | 240 | Nieuw |   |   |
+
+## Bijlage 41. Vervallen keuzedelen vanaf 1 augustus 2020
+
+Deze bijlage behoort bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.3&z=2020-11-13&g=2020-11-13) van de Regeling vaststelling keuzedelen.
+
+| Naam keuzedeel | Code | Aantal SBU | Einddatum | Toelichting |
+| --- | --- | --- | --- | --- |
+| Introductie QRM industrieel produceren met hout | K0259 | 240 | 01/08/2021 | Wordt vervangen door Introductie QRM industrieel produceren |
+| Nautische oriëntatie | K0563 | 480 | 01/08/2021 | Dit keuzedeel wordt uitgefaseerd omdat de kwalificatie waarvoor het keuzedeel was ontwikkeld ook is uitgefaseerd. |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-11-13&g=2020-11-13) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
