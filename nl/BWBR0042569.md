@@ -4,7 +4,7 @@ identifier: "BWBR0042569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-14"
-last_updated: "2020-01-01"
+last_updated: "2020-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042569"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 ##### Artikel 3. Subsidiabele kosten
 
-1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de kosten die direct verbonden zijn met de uitvoering van de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-01-01&g=2020-01-01).
+1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de kosten die direct verbonden zijn met de uitvoering van de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-11-14&g=2020-11-14).
 
 2. Kosten voor de exploitatie van voorzieningen die zijn gerealiseerd met de projecten komen niet in aanmerking voor subsidie.
 
@@ -68,7 +68,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 ##### Artikel 4. Subsidieplafond
 
-1. Het subsidieplafond voor de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-01-01&g=2020-01-01), bedraagt, inclusief eventueel verschuldigde BTW, voor 2020 € 2.387.000,–.
+1. Het subsidieplafond voor de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-11-14&g=2020-11-14), bedraagt, inclusief eventueel verschuldigde BTW, voor 2020 € 2.987.000,–.
 
 2. De Minister stelt de subsidieplafonds voor de jaren 2021 tot en met 2023 jaarlijks vast en maakt die bekend in de Staatscourant voor aanvang van het tijdvak waarvoor ze worden vastgesteld.
 
@@ -78,7 +78,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 2. Onverminderd [artikel 10, vierde lid, van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) bevat de aanvraag:
 
-- a. het rapport, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-01-01&g=2020-01-01), waarin de projecten waarvoor de subsidie wordt aangevraagd, zijn opgenomen;
+- a. het rapport, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-11-14&g=2020-11-14), waarin de projecten waarvoor de subsidie wordt aangevraagd, zijn opgenomen;
 
 - b. indien aanwezig, als bijlage offertes van middelen die nodig zijn om de projecten uit te voeren, voorzien van een paraaf van een daartoe bevoegde bestuurder van het openbaar lichaam, en
 
@@ -88,7 +88,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 1. In de beschikking tot subsidieverlening worden in ieder geval vermeld:
 
-- a. de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-01-01&g=2020-01-01), waarvoor een subsidie wordt aangevraagd;
+- a. de projecten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=2&z=2020-11-14&g=2020-11-14), waarvoor een subsidie wordt aangevraagd;
 
 - b. de wijze waarop het subsidiebedrag wordt bepaald en het bedrag waarvoor de subsidie ten hoogste kan worden verleend.
 
@@ -142,7 +142,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 - d. de verlening anderszins onjuist was en het openbaar lichaam dit wist of behoorde te weten, of
 
-- e. met toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=6&z=2020-01-01&g=2020-01-01), een beroep wordt gedaan op de voorwaarde dat voldoende gelden ter beschikking worden gesteld.
+- e. met toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=6&z=2020-11-14&g=2020-11-14), een beroep wordt gedaan op de voorwaarde dat voldoende gelden ter beschikking worden gesteld.
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
@@ -178,7 +178,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 1. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling binnen 6 weken na bekendmaking van de beschikking tot vaststelling betaald.
 
-2. De verplichting tot betaling van het subsidiebedrag of een voorschot wordt opgeschort met ingang van de dag waarop de minister aan het openbaar lichaam schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 10, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=10&z=2020-01-01&g=2020-01-01), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden 13 weken zijn verstreken.
+2. De verplichting tot betaling van het subsidiebedrag of een voorschot wordt opgeschort met ingang van de dag waarop de minister aan het openbaar lichaam schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 10, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=10&z=2020-11-14&g=2020-11-14), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden 13 weken zijn verstreken.
 
 ##### Artikel 13. Onverschuldigde betaling
 
@@ -188,7 +188,7 @@ De minister kan op aanvraag per kalenderjaar een subsidie verstrekken aan het op
 
 3. De minister kan het terug te vorderen bedrag verrekenen met een aan het openbaar lichaam voor dezelfde activiteiten verstrekte subsidie voor een ander tijdvak.
 
-4. Terugvordering van een bedrag of een voorschot vindt niet plaats voor zover na de dag waarop de subsidie is vastgesteld, dan wel de handeling, bedoeld in [artikel 10, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=10&z=2020-01-01&g=2020-01-01), heeft plaatsgevonden, vijf jaren zijn verstreken.
+4. Terugvordering van een bedrag of een voorschot vindt niet plaats voor zover na de dag waarop de subsidie is vastgesteld, dan wel de handeling, bedoeld in [artikel 10, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042569&artikel=10&z=2020-11-14&g=2020-11-14), heeft plaatsgevonden, vijf jaren zijn verstreken.
 
 ##### Artikel 14. Evaluatie
 
