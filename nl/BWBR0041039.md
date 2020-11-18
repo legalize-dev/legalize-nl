@@ -4,7 +4,7 @@ identifier: "BWBR0041039"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-11-18"
-last_updated: "2018-06-23"
+last_updated: "2020-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041039"
 soort: "zbo"
@@ -79,11 +79,15 @@ De aanvrager zorgt ervoor – voorzover dat in zijn vermogen ligt – dat het UW
 
 - c. controle door personen, die daarmee door of namens het UWV zijn belast en die zich met een daartoe strekkende machtiging kunnen legitimeren, mogelijk te maken; daartoe dient hij op zijn woonadres bereikbaar te zijn, of er zorg voor te dragen dat de met controle belaste personen kunnen vernemen waar hij verblijft of bereikbaar is;
 
-- d. op met het UWV afgesproken dagen c.q. uren thuis te zijn en de door of namens het UWV aangewezen personen gelegenheid te geven tot controle.
+- d. op met het UWV afgesproken dagen c.q. uren thuis te zijn en de door of namens het UWV aangewezen personen gelegenheid te geven tot controle;
+
+- e. gedurende een bepaalde periode telefonisch bereikbaar te zijn, of op bepaalde tijdstippen telefonisch contact met het UWV op te nemen.
 
 2. De aanvrager en de uitkeringsgerechtigde bewaren de in het eerste lid, onderdeel b, bedoelde stukken tot het einde van het kalenderjaar volgend op het kalenderjaar waarop de stukken betrekking hebben.
 
 3. De aanvrager en de uitkeringsgerechtigde die in Nederland wonen, zijn verplicht een vragenformulier van het UWV volledig ingevuld en ondertekend binnen één maand na datum dagtekening van het schriftelijke verzoek daartoe terug te sturen. De termijn kan in verband met vakantie op verzoek worden verlengd met de duur van de vakantie.
+
+4. De aanvrager en de uitkeringsgerechtigde melden een wijziging van het telefoonnummer uiterlijk op de tweede dag na de wijziging aan het UWV als zij een aanwijzing hebben gekregen om telefonisch bereikbaar te zijn.
 
 ##### Artikel 5
 
