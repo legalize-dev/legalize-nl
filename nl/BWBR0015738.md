@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2020-11-01"
+last_updated: "2020-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -136,11 +136,13 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - o. de eenmalige tegemoetkoming, bedoeld in [artikel 2 van de Beleidsregel tegemoetkoming Q-koorts](https://wetten.overheid.nl/jci1.3:c:BWBR0041372&artikel=2);
 
-- p. de eenmalige compensatie toegekend in het kader van de CAF 11-zaak;
+- p. de compensatie, toegekend op grond van het Besluit Compensatieregeling CAF 11 of het [Besluit Compensatieregeling CAF 11 en vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059), de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), de bijzondere tegemoetkoming, bedoeld in [artikel 49a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a), de compensatie, bedoeld in [artikel 49b, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49b) of de O/GS-tegemoetkoming, bedoeld in [49c van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c), of de noodvoorziening, bedoeld in het Besluit noodvoorziening kinderopvangtoeslag;
 
 - q. het voorschot, bedoeld in de Regeling tegemoetkoming werknemers met CSE;
 
-- r. een uitkering als bedoeld in de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden.
+- r. een uitkering als bedoeld in de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden;
+
+- s. de eenmalige aanvullende financiële bijdrage van de Stichting Zorg na Werk in Coronazorg.
 
 #### § 4. Toetsing lijfrenten
 
@@ -162,7 +164,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2021-04-14&g=2020-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2021-04-14&g=2020-11-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2021-04-14&g=2020-11-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2021-04-14&g=2020-11-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2020-11-19&g=2020-11-19), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2020-11-19&g=2020-11-19), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2020-11-19&g=2020-11-19) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2020-11-19&g=2020-11-19) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -667,7 +669,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2021-04-14&g=2020-11-01) van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2020-11-19&g=2020-11-19) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
 | --- | --- | --- | --- |
@@ -939,7 +941,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2021-04-14&g=2020-11-01), van de Regeling Participatiewet, IOAW en IOAZ
+## Bijlage II. behorende bij [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=7&artikel=15&z=2020-11-19&g=2020-11-19), van de Regeling Participatiewet, IOAW en IOAZ
 
 Vervallen
 
