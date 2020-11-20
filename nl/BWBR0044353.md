@@ -4,7 +4,7 @@ identifier: "BWBR0044353"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-20"
-last_updated: "2020-11-01"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044353"
 soort: "ministeriele-regeling"
@@ -42,12 +42,18 @@ Voor de duur van het programma Maatschappelijke Diensttijd heeft mr. J.H. de Jag
 
 ##### Artikel 2
 
-Voor de duur van het programma Maatschappelijke Diensttijd worden, bij afwezigheid of verhindering van de programmadirecteur, de bevoegdheden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-01), uitgeoefend door drs. M.C. Siebelt, procesmanager van het programma Maatschappelijke Diensttijd.
+Voor de duur van het programma Maatschappelijke Diensttijd worden, bij afwezigheid of verhindering van de programmadirecteur, de bevoegdheden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-20), uitgeoefend door drs. M.C. Siebelt, procesmanager van het programma Maatschappelijke Diensttijd.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Het [besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 2 februari 2018, houdende het verlenen van ondermandaat en ondervolmacht aan de kwartiermaker programma Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0040633), wordt ingetrokken.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-20) terug tot en met 1 augustus 2019 en ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=2&z=2020-11-20&g=2020-11-20) terug tot en met 1 november 2020.
+
+Gelet op de [artikelen 16a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=16a), [artikel 17 van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=17) en [artikel 10 van de Volmachtregeling personele aangelegenheden VWS 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&artikel=10);
+
+Besluit:
+
+Dit besluit zal in de Staatscourant worden geplaatst.
