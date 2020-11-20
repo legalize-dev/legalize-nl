@@ -4,7 +4,7 @@ identifier: "BWBR0038194"
 country: "nl"
 rank: "kb"
 publication_date: "2026-02-13"
-last_updated: "2016-07-01"
+last_updated: "2020-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038194"
 soort: "KB"
@@ -56,6 +56,8 @@ Met betrekking tot ceremoniële en traditionele aangelegenheden omvat de Koninkl
 
 - –. het Wapen van de Verbindingsdienst;
 
+- –. het Wapen van de Informatiemanoeuvre;
+
 - –. het Dienstvak van de Logistiek;
 
 - –. het Dienstvak van de Militair Juridische Dienst;
@@ -68,7 +70,7 @@ Met betrekking tot ceremoniële en traditionele aangelegenheden omvat de Koninkl
 
 ##### Artikel 2
 
-1. De Wapens der Infanterie, der Cavalerie, der Artillerie, der Genie, het Wapen van de Verbindingsdienst en het Dienstvak van de Logistiek omvatten elk een of meer regimenten of korpsen.
+1. De Wapens der Infanterie, der Cavalerie, der Artillerie, der Genie, het Wapen van de Verbindingsdienst, het Wapen van de Informatiemanoeuvre en het Dienstvak van de Logistiek omvatten elk een of meer regimenten of korpsen.
 
 2. De regimenten en korpsen zijn traditionele verbanden; aan de door deze verbanden gedragen traditie hebben alle tot het betrokken regiment of korps behorende eenheden deel, zowel bataljons en afdelingen als eenheden van lager niveau, ongeacht het bevelressort waartoe deze eenheden behoren.
 
@@ -76,19 +78,13 @@ Met betrekking tot ceremoniële en traditionele aangelegenheden omvat de Koninkl
 
 ##### Artikel 3
 
-1. Bij het Wapen der Cavalerie worden het Regiment Huzaren van Sytzama en het Regiment Huzaren Prins van Oranje heropgericht.
-
-2. Ten aanzien van de in het eerste lid genoemde regimenten en het Regiment Huzaren Prins Alexander wordt ongedaan gemaakt.
-
-- a. de oplegging van de standaard;
-
-- b. het bewaren van de tradities van de regimenten door het Regiment Huzaren van Boreel.
+Vervallen
 
 ##### Artikel 4
 
 Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
-- a. naar de volgorde, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038194&artikel=1&z=2016-07-01&g=2016-07-01);
+- a. naar de volgorde, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038194&artikel=1&z=2020-11-20&g=2020-11-20);
 
 - b. binnen het Wapen der Infanterie:
 
@@ -96,7 +92,7 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
 - –. Garderegiment Fuseliers Prinses Irene;
 
-- –. Regiment Infanterie Johan Willem Friso;
+- –. Regiment Infanterie Prins Johan Willem Friso;
 
 - –. Regiment Infanterie Oranje Gelderland;
 
@@ -114,11 +110,7 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
 - –. Regiment Huzaren van Boreel;
 
-- –. Regiment Huzaren Van Sytzama;
-
-- –. Regiment Huzaren Prins Alexander;
-
-- –. Regiment Huzaren Prins van Oranje;
+- –. Regiment Huzaren Prinses Catharina-Amalia;
 
 - d. binnen het Wapen der Artillerie:
 
@@ -128,7 +120,13 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
 - –. Korps Luchtdoelartillerie;
 
-- e. binnen het Dienstvak van de Logistiek:
+- e. binnen het Wapen van de Informatiemanoeuvre:
+
+- –. Korps Inlichtingen en Veiligheid Prinses Alexia;
+
+- –. Korps Communicatie en Engagement Prinses Ariane;
+
+- f. binnen het Dienstvak van de Logistiek:
 
 - –. Korps Militaire Administratie;
 
@@ -140,19 +138,19 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 
 ##### Artikel 5
 
-1. De oprichting, opheffing, samenvoeging, opdeling, naamswijziging en genealogie van een wapen, dienstvak of regiment wordt bij Koninklijk Besluit vastgesteld met inachtneming van het volgende:
+1. De oprichting, opheffing, samenvoeging, opdeling, naamswijziging en genealogie van een wapen, dienstvak, regiment of korps wordt bij Koninklijk Besluit vastgesteld met inachtneming van het volgende:
 
 - a. de Wapens der Infanterie, der Cavalerie, der Artillerie en der Genie zijn de voortzetting van gelijkgenaamde wapens uit vroegere perioden;
 
-- b. het Dienstvak van de Logistiek en het Dienstvak van de Lichamelijke Oefening en Sport zijn de voortzetting van de gelijksoortige diensten of organisaties uit vroegere perioden.
+- b. het Dienstvak van de Logistiek is de voortzetting van de gelijksoortige diensten of organisaties uit vroegere perioden.
 
-2. Onderstaande thans bestaande regimenten en korpsen in de eerste kolom zijn de voortzetting van de in de tweede kolom vermelde overeenkomstige regimenten, korpsen en eenheden dan wel van de rechtstreekse voorlopers daarvan; de in de derde kolom vermelde datum geldt als de oprichtingsdatum van het regiment c.q. korps;
+2. Onderstaande thans bestaande dienstvakken, regimenten en korpsen in de eerste kolom zijn de voortzetting van de in de tweede kolom vermelde overeenkomstige regimenten, korpsen en eenheden dan wel van de rechtstreekse voorlopers daarvan; de in de derde kolom vermelde datum geldt als de oprichtingsdatum van het dienstvak, regiment c.q. korps;
 
 | Garderegiment Grenadiers en Jagers | Regiment Grenadiers | 7 juli 1829 |
 | --- | --- | --- |
 |   | Regiment Jagers |   |
 | Garderegiment Fuseliers Prinses Irene | Koninklijke Nederlandse Brigade Prinses Irene | 11 januari 1941 |
-| Regiment Infanterie Johan Willem Friso | 1ste en 9de Regiment Infanterie | 28 oktober 1813 |
+| Regiment Infanterie Prins Johan Willem Friso | 1ste en 9de Regiment Infanterie | 28 oktober 1813 |
 | Regiment Infanterie Oranje Gelderland | 5de en 8ste Regiment Infanterie | 28 oktober 1813 |
 |   | Troepenmacht in Suriname |   |
 | Regiment Limburgse Jagers | 2de, 6de en 11de Regiment Infanterie | 23 november 1813 |
@@ -164,11 +162,9 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 |   | het Korps Insulinde |   |
 | Regiment Stoottroepen Prins Bernhard | Commando Limburg (Stoottroepen) en Commando Brabant (Stoottroepen) van de Binnenlandse Strijdkrachten | 21 september 1944 |
 | Regiment Huzaren van Boreel | 4de Regiment Huzaren | 25 november 1813 |
+| Regiment Huzaren Prinses Catharina-Amalia | 1ste , 2e en 3e Regiment Huzaren | 9 januari 1814 |
 |   | 1ste en 2de Eskadron Pantserwagens |   |
-| Regiment Huzaren van Sytzama | 1ste Regiment Huzaren | 9 januari 1814 |
-| Regiment Huzaren Prins Alexander | 3de Regiment Huzaren | 13 februari 1814 |
 |   | 1ste en 2de Regiment Huzaren Motorrijder |   |
-| Regiment Huzaren Prins van Oranje | 2de Regiment Huzaren | 4 april 1815 |
 | Korps Veldartillerie | de regimenten veldartillerie en de regimenten motorartillerie | 11 januari 1677 |
 | Korps Rijdende Artillerie | Korps Rijdende Artillerie | 21 februari 1793 |
 | Korps Luchtdoelartillerie | 1ste en 2de Regiment Luchtdoelartillerie | 1 maart 1917 |
@@ -176,6 +172,8 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 | Regiment Genietroepen | 1ste en 3de Regiment Genietroepen | 15 mei 1748 |
 |   | Korps Pontonniers en Torpedisten |   |
 | Regiment Verbindingstroepen | 2de Regiment Genietroepen | 18 februari 1874 |
+| Korps Inlichtingen en Veiligheid Prinses Alexia | 101 MID compagnie | 1 maart 1954 |
+| Korps Communicatie en Engagement Prinses Ariane | – | 20 november 2020 |
 | Korps Militaire Administratie | Korps Militaire Intendanten | 8 juli 1795 |
 | Regiment Geneeskundige Troepen | Bataljon Geneeskundige Troepen | 7 april 1869 |
 | Regiment Bevoorradings- en Transporttroepen | Compagnie Administratietroepen | 30 maart 1905 |
@@ -184,6 +182,7 @@ Voor ceremoniële aangelegenheden geldt de volgende rangschikking:
 | Dienstvak van de Militair Juridische Dienst | – | 1 mei 1949 |
 | Dienstvak van de Technische Staf | – | 1 november 1954 |
 | Dienstvak van de Militair Psychologische en Sociologische Dienst | – | 1 juli 1973 |
+| Dienstvak van de Lichamelijke Oefening en Sport | LO&Sport organisatie KL | 29 december 1975 |
 
 3. De tradities van onderstaande voormalige regimenten, korpsen of dienstvakken worden niet voortgezet:
 
