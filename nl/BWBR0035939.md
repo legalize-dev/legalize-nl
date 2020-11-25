@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Vervallen
 
 Met ingang van 1 januari 2020 worden de bedragen, genoemd in [artikel 3.9, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 18.288,73 onderscheidenlijk € 23.170,86.
 
-##### Artikel 6. Vordering wegens eigen inkomsten studerende
+##### Artikel 6. Vordering wegens eigen inkomsten mbo-student
 
 1. Met ingang van 1 januari 2020 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), vastgesteld op € 15.003,05.
 
