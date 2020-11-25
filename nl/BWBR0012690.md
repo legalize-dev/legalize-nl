@@ -4,7 +4,7 @@ identifier: "BWBR0012690"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012690"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 3. Indien het betreft een aanvraag door een minderjarige zonder wettelijke vertegenwoordiger of door een gehuwde jonger dan 18 jaren, wordt bij de aanvraag een afschrift uit de basisregistratie personen meegezonden.
 
-4. Indien het betreft een aanvraag door een deelnemer vavo of een scholier, van wie de tegemoetkoming op grond van afwezigheid, bedoeld in [artikel 4.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12), geheel uit lening bestaat, en die opnieuw aanspraak maakt op tegemoetkoming in de vorm van een gift, wordt bij de aanvraag een verklaring meegezonden waarin het bestuur van de onderwijsinstelling meedeelt met ingang van welke datum de deelnemer vavo of de scholier weer aan het onderwijs is gaan deelnemen.
+4. Indien het betreft een aanvraag door een vavo-student of een scholier, van wie de tegemoetkoming op grond van afwezigheid, bedoeld in [artikel 4.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12), geheel uit lening bestaat, en die opnieuw aanspraak maakt op tegemoetkoming in de vorm van een gift, wordt bij de aanvraag een verklaring meegezonden waarin het bestuur van de onderwijsinstelling meedeelt met ingang van welke datum de vavo-student of de scholier weer aan het onderwijs is gaan deelnemen.
 
 ##### Artikel 2.3
 
@@ -75,7 +75,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 ##### Artikel 2.4
 
-[Artikel 4.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12) is van overeenkomstige toepassing op een deelnemer vavo die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.
+[Artikel 4.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.12) is van overeenkomstige toepassing op een vavo-student die zonder geldige reden niet heeft deelgenomen aan het onderwijs in een of meer vakken.
 
 ### Hoofdstuk 2a. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b)
 
@@ -85,7 +85,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 2. Eerst wordt het teveel uitbetaalde bedrag zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de beschikking, bedoeld in het eerste lid, aan de aanvrager zouden moeten worden gedaan.
 
-3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2020-01-01&g=2020-01-01). Wanneer die betalingen met ingang van 1 januari 2020 hoger zijn dan € 64,42, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt, zolang het teveel uitbetaalde bedrag nog niet volledig is verrekend met de nabetalingen, bedoeld in het tweede lid, verrekend met de betalingen, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=4&z=2020-11-25&g=2020-11-25). Wanneer die betalingen met ingang van 1 januari 2020 hoger zijn dan € 64,42, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over de reeds op het tijdstip van afgifte van die beschikking verstreken betalingsperiode betaalbaar zouden worden gesteld indien geen sprake zou zijn van verrekening als bedoeld in het tweede lid.
 
@@ -103,7 +103,7 @@ Gegevens die nodig zijn voor de vaststelling van de aanspraak op tegemoetkoming 
 
 ##### Artikel 3.3
 
-Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2020-01-01&g=2020-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), van het besluit.
+Aanpassing van het bedrag, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&hoofdstuk=3&artikel=3.1&z=2020-11-25&g=2020-11-25), geschiedt met de procentuele wijziging, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&artikel=5), van het besluit.
 
 ### Hoofdstuk 3. Terugbetaling en verrekening
 
