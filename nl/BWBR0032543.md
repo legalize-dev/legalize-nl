@@ -4,7 +4,7 @@ identifier: "BWBR0032543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2018-01-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032543"
 soort: "ministeriele-regeling"
@@ -52,21 +52,21 @@ In deze regeling wordt verstaan onder:
 
 1. De eindtermen voor de opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs, als bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden als volgt vastgesteld:
 
-- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling;
+- a. de eindtermen voor de opleiding Nederlandse taal gericht op alfabetisering, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling;
 
-- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling;
+- b. de eindtermen voor de opleiding Nederlandse taal gericht op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=2&z=2020-11-25&g=2020-11-25) bij deze regeling;
 
-- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2018-01-01&g=2018-01-01) bij deze regeling;
+- c. de eindtermen voor de opleiding Rekenen gericht op alfabetisering, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling;
 
-- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2018-01-01&g=2018-01-01) bij deze regeling.
+- d. de eindtermen voor de opleiding Rekenen gerichte op het ingangsniveau beroepsonderwijs, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=4&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2018-01-01&g=2018-01-01) bij deze regeling.
+2. De eindtermen voor de opleidingen Nederlands als tweede taal I en II, die opleiden voor het diploma Nederlands als tweede taal, bedoeld in het Staatsexamenbesluit Nederlands als tweede taal, als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=5&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2018-01-01&g=2018-01-01) bij deze regeling.
+3. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op beheersing van een basisniveau Nederlandse taal, bedoeld in [artikel 7.3.1, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=6&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-4. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2018-01-01&g=2018-01-01) bij deze regeling.
+4. De eindtermen voor de opleiding Nederlands als tweede taal, gericht op alfabetisering, als bedoeld in [artikel 7.3.1, eerste lid, onder e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden vastgesteld zoals opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=7&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-5. De eindtermen voor de opleiding digitale vaardigheden, bedoeld in [artikel 1 van de Regeling digitale vaardigheden educatie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=8&z=2018-01-01&g=2018-01-01) bij deze regeling.
+5. De eindtermen voor de opleiding digitale vaardigheden, bedoeld in [artikel 1 van de Regeling digitale vaardigheden educatie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=8&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 3. Intrekken regeling
 
@@ -78,9 +78,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 4. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01), in werking met ingang van 1 januari 2013.
+1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25), in werking met ingang van 1 januari 2013.
 
-2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01), treedt in werking met ingang van 1 augustus 2013.
+2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25), treedt in werking met ingang van 1 augustus 2013.
 
 ##### Artikel 5. Citeertitel
 
@@ -252,7 +252,7 @@ Kan een afspraak uit de notulen met eigen woorden schriftelijk doorgeven aan een
 
 **Opleiding**
 
-Kan voor medecursisten een eenvoudige samenvatting maken van informatie uit lesboeken.
+Kan voor mededeelnemers een eenvoudige samenvatting maken van informatie uit lesboeken.
 
 Kan een eenvoudige samenvatting in eigen woorden maken van een korte tekst.
 
@@ -386,9 +386,9 @@ Kan tijdens een voorlichting over arbeidsvoorwaarden gedetailleerde notities mak
 
 **Opleiding**
 
-Kan tijdens een college gedetailleerde notities maken voor medecursisten.
+Kan tijdens een college gedetailleerde notities maken voor mededeelnemers.
 
-Kan tijdens een spreekbeurt van een medecursist gedetailleerde notities maken voor anderen.
+Kan tijdens een spreekbeurt van een mededeelnemer gedetailleerde notities maken voor anderen.
 
 ## Bijlage 6
 
@@ -590,7 +590,7 @@ Om vorderingen in een taalleerproces te kunnen meten of beoordelen zijn ijkpunte
 
 Voor de ontwikkeling van het Raamwerk Alfabetisering NT2 is gebruik gemaakt van bestaande referentiekaders zoals het Raamwerk NT2 en de Blokkendoos, maar ook van alfabetiseringstheorieën en onderzoek dat op dit terrein is gedaan. Een uitgebreide verantwoording van de totstandkoming van het Raamwerk Alfabetisering vindt u in Stockmann (2004).
 
-In het Raamwerk Alfabetisering worden drie niveaus beschreven: Alfa A, Alfa B en Alfa C. Het niveau Alfa C loopt parallel met niveau A1 van het Raamwerk NT2. Er worden dus twee niveaus onder A1 onderscheiden. Op elk niveau worden technische vaardigheden en functionele vaardigheden beschreven. Na het behalen van de niveaustap Alfa A beheerst men het alfabetisch principe. Na Alfa B kan men effectiever lezen en schrijven doordat clusters en morfemen als geheel gelezen en geschreven kunnen worden. Na C is het lezen en schrijven zodanig geautomatiseerd dat het in de verdere taalverwerving geen stagnaties meer veroorzaakt. Het Raamwerk Alfabetisering loopt door tot niveau Alfa C omdat het alfabetiseringniveau op niveau Alfa B nog niet is voltooid. Als we dus de fout zouden maken te denken dat de alfacursisten na Alfa B met de geletterde cursisten mee kunnen in een groep op weg naar A1, dan lopen we het risico dat het leerproces zal stagneren omdat de alfacursist het proces van lezen en schrijven nog onvoldoende geautomatiseerd heeft.
+In het Raamwerk Alfabetisering worden drie niveaus beschreven: Alfa A, Alfa B en Alfa C. Het niveau Alfa C loopt parallel met niveau A1 van het Raamwerk NT2. Er worden dus twee niveaus onder A1 onderscheiden. Op elk niveau worden technische vaardigheden en functionele vaardigheden beschreven. Na het behalen van de niveaustap Alfa A beheerst men het alfabetisch principe. Na Alfa B kan men effectiever lezen en schrijven doordat clusters en morfemen als geheel gelezen en geschreven kunnen worden. Na C is het lezen en schrijven zodanig geautomatiseerd dat het in de verdere taalverwerving geen stagnaties meer veroorzaakt. Het Raamwerk Alfabetisering loopt door tot niveau Alfa C omdat het alfabetiseringniveau op niveau Alfa B nog niet is voltooid. Als we dus de fout zouden maken te denken dat de alfadeelnemers na Alfa B met de geletterde deelnemers mee kunnen in een groep op weg naar A1, dan lopen we het risico dat het leerproces zal stagneren omdat de alfadeelnemer het proces van lezen en schrijven nog onvoldoende geautomatiseerd heeft.
 
 Achtereenvolgens wordt een globaal overzicht van de beschreven niveaus gegeven, daarna het Raamwerk technische vaardigheden en ten slotte het Raamwerk functionele vaardigheden.
 
@@ -622,7 +622,7 @@ De onderstaande tabel geeft inzicht in globale kenmerken van de vaardigheden op 
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage 8. behorend bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2018-01-01&g=2018-01-01)
+## Bijlage 8. behorend bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2020-11-25&g=2020-11-25)
 
 Eindtermen digitale vaardigheden
 
