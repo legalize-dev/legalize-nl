@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2020-01-31"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -70,7 +70,11 @@ In deze regeling wordt verstaan onder:
 
 - i. periodelasten: lasten die in aanmerking worden genomen in de periode waarover deze lasten zijn verschuldigd;
 
-- j. volledige doordecentralisatie: overdracht van gelden en het overlaten van alle taken ten aanzien van het verzorgen van onderwijshuisvesting door de gemeente aan een bevoegd gezag in het primair of voortgezet onderwijs.
+- j. volledige doordecentralisatie: overdracht van gelden en het overlaten van alle taken ten aanzien van het verzorgen van onderwijshuisvesting door de gemeente aan een bevoegd gezag in het primair of voortgezet onderwijs;
+
+- k. **mbo-student:** student als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+
+- l. **ho-student:** student als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2. Boek 2 BW
 
@@ -80,7 +84,7 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-01-31&g=2020-01-31) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-11-25&g=2020-11-25) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
@@ -124,19 +128,19 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1c. In afwijking van hoofdstuk 212 Materiële vaste activa, paragraaf 4, alinea 451, van de richtlijnen is het voor onderwijsinstellingen voor de boekjaren 2018, 2019 en 2020 toegestaan de jaarlijkse toevoegingen aan de voorziening groot onderhoud te bepalen op basis van het voorgenomen groot onderhoud gedurende de gehele planperiode van het groot onderhoud op het niveau van het onderwijspand gedeeld door het aantal jaren waaruit deze planperiode bestaat, voor zover deze methode reeds in 2017 werd toegepast en indien is gewaarborgd dat de voorziening groot onderhoud gedurende de planperiode niet op enig moment negatief wordt. De onderwijsinstelling die gebruik maakt van deze tijdelijke regeling vermeldt dit in haar jaarrekening.
 
-2. Onderwijsinstellingen nemen met gebruikmaking van de in bijlage 4 opgenomen tabel in het bestuursverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
+2. Onderwijsinstellingen nemen met gebruikmaking van de in bijlage 4 opgenomen tabel in het bestuursverslag op aan hoeveel ho-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
 
-- a. studenten in overmachtssituaties, zoals ziekte, functiebeperking, familieomstandigheden mantelzorg of niet studeerbare opleidingen;
+- a. ho-studenten in overmachtssituaties, zoals ziekte, functiebeperking, familieomstandigheden mantelzorg of niet studeerbare opleidingen;
 
-- b. studenten die optreden als bestuurslid van door de instelling erkende studie- of studentenverenigingen of in de studentenmedezeggenschap, en
+- b. ho-studenten die optreden als bestuurslid van door de instelling erkende studie- of studentenverenigingen of in de studentenmedezeggenschap, en
 
-- c. overige, zoals het leveren van uitzonderlijke prestaties op het gebied van sport of cultuur, financiële steun aan niet-EER-studenten en uitgaande beurzen.
+- c. overige, zoals het leveren van uitzonderlijke prestaties op het gebied van sport of cultuur, financiële steun aan ho-studenten uit niet-EER-landen en uitgaande beurzen.
 
-Tevens geven de onderwijsinstellingen per categorie aan hoeveel studenten een vergoeding hebben aangevraagd, hebben ontvangen, hoeveel in totaal per categorie is uitgekeerd en wat de gemiddelde hoogte en duur was van de vergoeding.
+Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een vergoeding hebben aangevraagd, hebben ontvangen, hoeveel in totaal per categorie is uitgekeerd en wat de gemiddelde hoogte en duur was van de vergoeding.
 
 3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het bestuursverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders. Hogescholen verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking, opgenomen in de brief van de Vereniging Hogescholen van 3 november 2016 met kenmerk 16.4347.avw (te raadplegen via www.onderwijsinspectie.nl). Universiteiten verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking verantwoording declaraties bestuurders, opgenomen in de brief van de Vereniging van Universiteiten van 7 september 2016 met kenmerk VSNU 16/214 U (te raadplegen via www.onderwijsinspectie.nl).
 
-4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2020-01-31&g=2020-01-31) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerling-, deelnemers-, of studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
+4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2020-11-25&g=2020-11-25) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerlingen-, mbo-studenten-, vavo-studenten- of ho-studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
 
 5. Een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 onder b van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), verantwoordt zich in het bestuursverslag over het gevoerde beleid zoals aangegeven in de notities:
 
@@ -156,7 +160,7 @@ Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het v
 
 - a. in schriftelijke vorm de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392); en
 
-- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2020-01-31&g=2020-01-31), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-01-31&g=2020-01-31).
+- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2020-11-25&g=2020-11-25), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-11-25&g=2020-11-25).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -166,7 +170,7 @@ Deze regeling treedt in werking per 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
-## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2020-01-31&g=2020-01-31), van de regeling
+## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2020-11-25&g=2020-11-25), van de regeling
 
 **Overzicht van gegevens voor de rapportage ingevolge de Wet normering topinkomens (WNT).**
 
@@ -210,19 +214,19 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 **Overzicht uitkeringen Profileringsfonds**
 
-| Omschrijving | Aantallen studenten | Totaal van de toekenningen | Gemiddelde hoogte van de toekenningen | Gemiddelde duur van de toekenningen |
+| Omschrijving | Aantallen ho-studenten | Totaal van de toekenningen | Gemiddelde hoogte van de toekenningen | Gemiddelde duur van de toekenningen |
 | --- | --- | --- | --- | --- |
-| Studenten in overmachtssituaties Ziekte, functiebeperking, familieomstandigheden, mantelzorg of niet-studeerbare opleidingen | Aanvragen .................... Toewijzingen .................... | € | € |   |
+| Ho-studenten in overmachtssituaties Ziekte, functiebeperking, familieomstandigheden, mantelzorg of niet-studeerbare opleidingen | Aanvragen .................... Toewijzingen .................... | € | € |   |
 | Bestuurders van studie- of studenten- verenigingen of MR | Aanvragen .................... Toewijzingen .................... | € | € |   |
-| Overige categorieën Prestaties op het gebied van sport of cultuur, fin. steun aan niet-EER studenten, uitgaande beurzen e.a. | Aanvragen .................... Toewijzingen .................... | € | € |   |
+| Overige categorieën Prestaties op het gebied van sport of cultuur, fin. steun aan niet-EER ho-studenten, uitgaande beurzen e.a. | Aanvragen .................... Toewijzingen .................... | € | € |   |
 
-## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-01-31&g=2020-01-31), van de regeling
+## Bijlage 2. , behorende bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-11-25&g=2020-11-25), van de regeling
 
 Vervallen
 
 ### 1. Sectoren PO en VO
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2021-02-20&g=2020-01-31)
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2021-02-20&g=2020-11-25)
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -230,7 +234,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-01-31&g=2020-01-31)
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2020-11-25&g=2020-11-25)
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -242,11 +246,11 @@ Deze gelden voor alle instellingen die de jaarverslaggeving opstellen op grond v
 
 **A1.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag worden de navolgende kengetallen opgenomen over het verslagjaar en de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de kengetallen in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. De kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
-### Aantallen leerlingen/deelnemers/studenten
+### Aantallen leerlingen/mbo-studenten/vavo-studenten/ho-studenten
 
-De opgave betreft de stand van het ongewogen aantal leerlingen/deelnemers/studenten op de laatste teldatum. De prognoses voor de jaren volgend op het verslagjaar zijn in lijn met de opgave ultimo verslagjaar.
+De opgave betreft de stand van het ongewogen aantal leerlingen/mbo-studenten/vavo-studenten/ho-studenten op de laatste teldatum. De prognoses voor de jaren volgend op het verslagjaar zijn in lijn met de opgave ultimo verslagjaar.
 
-De opgave betreft de stand van het ongewogen aantal leerlingen/deelnemers/studenten op de laatste teldatum. De prognoses voor de jaren volgend op het verslagjaar zijn in lijn met de opgave ultimo verslagjaar.
+Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
 ### Personele bezetting in FTE
 
@@ -262,7 +266,7 @@ Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materi�
 
 De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies, college-, cursus- en/of examengelden, Baten in opdracht van derden en Overige baten.
 
-De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies, college-, cursus- en/of examengelden, Baten in opdracht van derden en Overige baten.
+De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
 
 Het Saldo Baten en lasten uit de gewone bedrijfsvoering, Saldo baten en lasten uit de financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
 
@@ -344,13 +348,13 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 **A1.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag worden de navolgende kengetallen opgenomen over het verslagjaar en de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de kengetallen in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. De kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
-### Aantallen leerlingen/deelnemers/studenten
+### Aantallen leerlingen/mbo-studenten/vavo-studenten/ho-studenten
 
 Deze kengetallen worden voorzien van een toelichting waarin het bestuur aangeeft welke belangrijke ontwikkelingen zij verwacht.
 
 ### Personele bezetting in FTE
 
-Voor deze opgave geldt dat wordt aangesloten bij de voor de betreffende sector gebruikelijke weergave van formatiegegevens. Een nadere uitsplitsing of onderverdeling in categorieën wordt niet verlangd. Het betreft personeel met een vast of tijdelijk dienstverband.
+**A2.** In het onderdeel Continuïteitsparagraaf van het bestuursverslag wordt een **meerjarenbegroting**opgenomen op het niveau dat overeenkomt met het niveau waarop de jaarrekening wordt opgesteld, met de navolgende posten. Deze meerjarenbegroting is gebaseerd op de standaardindeling van de Regeling jaarverslaggeving onderwijs en omvat de cijfers van het verslagjaar en voorts de vijf jaren volgend op het verslagjaar, aangeduid met T+1, T+2, T+3, T+4 en T+5. Het opnemen van de meerjarenbegroting in de jaren T+4 en T+5 is verplicht als sprake is van majeure investeringen. Dit geldt ook als sprake is van volledige doordecentralisatie van de huisvesting in de sectoren primair en voortgezet onderwijs. Onder majeure investering wordt verstaan elke investering die een aanzienlijke invloed heeft op de bedrijfsvoering dan wel de vermogenspositie van de betrokken instelling.’ Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten van de instelling gelijk is of groter dan 15%. Indien intern meerdere scenario’s zijn uitgewerkt, is in elk geval het meest waarschijnlijke scenario in de continuïteitsparagraaf opgenomen.
 
 ### Balans
 
@@ -402,7 +406,7 @@ Deze gelden voor alle instellingen die de jaarverslaggeving opstellen op grond v
 
 ### Staat / Raming van Baten en Lasten
 
-### B. Overige rapportages
+### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
 
 ### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
 
@@ -422,7 +426,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 4a
 
-Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2021-02-20&g=2020-01-31), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
+Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2021-02-20&g=2020-11-25), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
 
 ### Aantallen leerlingen/deelnemers/studenten
 
@@ -467,7 +471,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ## Bijlage 4. Model G
 
-Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2021-02-20&g=2020-01-31) van de Regeling jaarverslaggeving onderwijs.
+Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2021-02-20&g=2020-11-25) van de Regeling jaarverslaggeving onderwijs.
 
 ****Model G. Verantwoording subsidies****
 
