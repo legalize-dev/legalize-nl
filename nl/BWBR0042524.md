@@ -4,7 +4,7 @@ identifier: "BWBR0042524"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-25"
-last_updated: "2019-09-04"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042524"
 soort: "ministeriele-regeling"
@@ -52,21 +52,21 @@ Besluit:
 
 ##### Artikel 2. Melding ontwikkeling landelijk deel
 
-Het bevoegd gezag van een instelling die voornemens is samen met een of meer andere instellingen een landelijk deel te ontwikkelen, maakt bij de melding, bedoeld in[artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=9) gebruik van het model, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=1&z=2019-09-04&g=2019-09-04) bij deze regeling.
+Het bevoegd gezag van een instelling die voornemens is samen met een of meer andere instellingen een landelijk deel te ontwikkelen, maakt bij de melding, bedoeld in[artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=9) gebruik van het model, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 3. Aanvraag vaststellen landelijk deel
 
-Het bevoegd gezag maakt bij het indienen van de aanvraag, op grond van [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=12), voor het vaststellen van het landelijk deel van een geregionaliseerde kwalificatie, gebruik van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=2&z=2019-09-04&g=2019-09-04) bij deze regeling.
+Het bevoegd gezag maakt bij het indienen van de aanvraag, op grond van [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=12), voor het vaststellen van het landelijk deel van een geregionaliseerde kwalificatie, gebruik van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=2&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 4. Aanvraag goedkeuren regionaal deel, regionale keuzedelen en koppeling keuzedelen
 
-Het bevoegd gezag maakt bij de aanvragen, bedoeld in [artikel 16, eerste, tweede en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=16) gebruik van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=3&z=2019-09-04&g=2019-09-04) bij deze regeling.
+Het bevoegd gezag maakt bij de aanvragen, bedoeld in [artikel 16, eerste, tweede en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=16) gebruik van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 5. Vaststelling van modellen en toetsingskader landelijk deel, regionaal deel en regionaal keuzedeel
 
-1. De modellen voor een landelijk deel, regionaal deel en regionaal keuzedeel worden vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=4&z=2019-09-04&g=2019-09-04) behorende bij deze regeling.
+1. De modellen voor een landelijk deel, regionaal deel en regionaal keuzedeel worden vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=4&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
-2. Het toetsingskader voor de geregionaliseerde kwalificaties wordt vastgesteld op de wijze bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=5&z=2019-09-04&g=2019-09-04) behorende bij deze regeling.
+2. Het toetsingskader voor de geregionaliseerde kwalificaties wordt vastgesteld op de wijze bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=5&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -78,12 +78,12 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 
 Deze regeling wordt aangehaald als: Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo.
 
-## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=2&z=2019-09-04&g=2019-09-04)
+## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=2&z=2020-11-25&g=2020-11-25)
 
 | **Melding ontwikkeling landelijk deel** Het bevoegd gezag van .... (naam en code instelling) ... meldt hierbij dat de instelling voornemens is om samen met onderstaande instelling(en) een landelijk deel te ontwikkelen op basis van de kwalificatie .... (naam en Crebo-code bestaande kwalificatie) .... |
 | --- |
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=3&z=2019-09-04&g=2019-09-04)
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=3&z=2020-11-25&g=2020-11-25)
 
 | **Aanvraag vaststellen landelijk deel** **Datum verzending (uiterste datum indiening aanvraag of ten minste 1 dag daarvoor; zie artikel 14):** .... |
 | --- |
@@ -96,7 +96,7 @@ Deze regeling wordt aangehaald als: Regeling modellen en toetsingskader geregion
 |   |
 | **Dit is het verzoek aan minister om het landelijke deel vast te stellen.** • Besluit experiment 5 |
 
-## Bijlage 3. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=4&z=2019-09-04&g=2019-09-04)
+## Bijlage 3. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=4&z=2020-11-25&g=2020-11-25)
 
 | **Aanvraag goedkeuring regionaal deel (en regionale keuzedelen) en koppeling keuzedelen** |
 | --- |
@@ -104,13 +104,13 @@ Deze regeling wordt aangehaald als: Regeling modellen en toetsingskader geregion
 |   |
 | **Aanvragende instelling:** ...(naam en code instelling)... Het betreft een aanvraag als bedoeld in artikel: ... [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=16), een aanvraag voor goedkeuring van een regionaal deel en mogelijk een of meer regionale keuzedelen en voor koppeling van keuzedelen aan een eigen al toegewezen landelijk deel; ... 16, tweede lid, een aanvraag voor goedkeuring van een regionaal deel en mogelijk een of meer regionale keuzedelen en voor koppeling van keuzedelen aan een ander al vastgesteld landelijk deel; ... 16, vijfde lid, een nieuwe aanvraag voor koppeling van een of meer bestaande keuzedelen aan een al goedgekeurd regionaal deel. |
 |   |
-| **Informatie over het regionaal deel, de regionale keuzedelen en de koppeling:** a. de naam en de code van de kwalificatie waarop het landelijke deel van de geregionaliseerde kwalificatie is gebaseerd; b. de datum en het kenmerk van de beschikking waarbij het landelijke deel is vastgesteld; c. de terugvaloptie voor de deelnemer die voortijdig uitstroomt uit de geregionaliseerde beroepsopleiding; d. een analyse van de kwalitatieve en kwantitatieve vraag van de regionale arbeidsmarkt naar gediplomeerden van de opleiding waarop de geregionaliseerde kwalificatie zich richt; e. het verwachte aantal deelnemers voor deze opleiding gedurende het experiment; f. de wijze waarop de deelnemers zijn geraadpleegd; g. een overzicht van de relevante bedrijven in de regio; h. een overzicht van de bedrijven, bedoeld onder g, waarmee wordt samengewerkt en een beschrijving van de rol van deze bedrijven; i. een beschrijving van de wijze waarop de docenten zijn betrokken bij het vormgeven van de geregionaliseerde kwalificatie; j. een omschrijving van de regio; k. een samenwerkingsovereenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=8); l. de uitwerking in kerntaken en de studielast van het regionale deel van de geregionaliseerde kwalificatie; m. indien van toepassing: de naam, de uitwerking en de studielast van de regionale keuzedelen; n. de bestaande en, indien van toepassing, regionale keuzedelen die aan de geregionaliseerde kwalificatie zijn gekoppeld. |
+| **Informatie over het regionaal deel, de regionale keuzedelen en de koppeling:** a. de naam en de code van de kwalificatie waarop het landelijke deel van de geregionaliseerde kwalificatie is gebaseerd; b. de datum en het kenmerk van de beschikking waarbij het landelijke deel is vastgesteld; c. de terugvaloptie voor de student die voortijdig uitstroomt uit de geregionaliseerde beroepsopleiding; d. een analyse van de kwalitatieve en kwantitatieve vraag van de regionale arbeidsmarkt naar gediplomeerden van de opleiding waarop de geregionaliseerde kwalificatie zich richt; e. het verwachte aantal studenten voor deze opleiding gedurende het experiment; f. de wijze waarop de studenten zijn geraadpleegd; g. een overzicht van de relevante bedrijven in de regio; h. een overzicht van de bedrijven, bedoeld onder g, waarmee wordt samengewerkt en een beschrijving van de rol van deze bedrijven; i. een beschrijving van de wijze waarop de docenten zijn betrokken bij het vormgeven van de geregionaliseerde kwalificatie; j. een omschrijving van de regio; k. een samenwerkingsovereenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=8); l. de uitwerking in kerntaken en de studielast van het regionale deel van de geregionaliseerde kwalificatie; m. indien van toepassing: de naam, de uitwerking en de studielast van de regionale keuzedelen; n. de bestaande en, indien van toepassing, regionale keuzedelen die aan de geregionaliseerde kwalificatie zijn gekoppeld. |
 |   |
 | **Let op:** Voor bekostigde instellingen is dit ook direct het verzoek om de desbetreffende geregionaliseerde beroepsopleiding voor bekostiging in aanmerking te brengen. |
 |   |
 | **MAAR** Voor erkende instellingen moet hierna via de reguliere procedure nog het **verzoek om aan de met goed gevolg afgelegde examens van de desbetreffende geregionaliseerde beroepsopleiding een diploma te verbinden als bedoeld in artikel 7.4.6 WEB worden ingediend.** |
 
-## Bijlage 4. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=5&z=2019-09-04&g=2019-09-04)
+## Bijlage 4. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=5&z=2020-11-25&g=2020-11-25)
 
 Bijlage model geregionaliseerde kwalificatie mbo
 
@@ -148,7 +148,7 @@ De geregionaliseerd kwalificatie mag alleen aangeboden worden door de onderwijsi
 
 De geregionaliseerde kwalificatie voor het middelbaar beroepsonderwijs geeft weer wat de beginnend beroepsbeoefenaar moet kennen en kunnen aan het einde van de mbo-opleiding. De geregionaliseerde kwalificatie mbo bestaat uit:
 
-De geregionaliseerde kwalificatie mbo bevat een verwijzing naar het (regionale) keuzedeel (D). Het (regionale) keuzedeel vergroot de arbeidsmarktkansen van de mbo-student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het (regionale) keuzedeel is dan ook geen onderdeel van de kwalificatie-eis, maar wordt wel op het diploma vermeld.
+De geregionaliseerde kwalificatie mbo bevat een verwijzing naar het (regionale) keuzedeel (D). Het (regionale) keuzedeel vergroot de arbeidsmarktkansen van de student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het (regionale) keuzedeel is dan ook geen onderdeel van de kwalificatie-eis, maar wordt wel op het diploma vermeld.
 
 ### Taal en rekenen
 
@@ -194,7 +194,7 @@ Van deze geregionaliseerde kwalificatie maakt het generieke examenonderdeel loop
 
 ### Engels (alleen voor niveau 4)
 
-Van elke geregionaliseerde kwalificatie op mbo niveau 4 maakt het generieke examenonderdeel Engels deel uit. Op grond van [artikel 17a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=17a) zijn de referentieniveaus en de kwalificatie-eisen voor dit generieke onderdeel opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=2&z=2019-09-04&g=2019-09-04) bij dit besluit. Deze bijlage is te vinden op www.s-bb.nl/generieke-eisen en vormt een integraal onderdeel van de geregionaliseerde kwalificatie.
+Van elke geregionaliseerde kwalificatie op mbo niveau 4 maakt het generieke examenonderdeel Engels deel uit. Op grond van [artikel 17a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=17a) zijn de referentieniveaus en de kwalificatie-eisen voor dit generieke onderdeel opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=2&z=2020-11-25&g=2020-11-25) bij dit besluit. Deze bijlage is te vinden op www.s-bb.nl/generieke-eisen en vormt een integraal onderdeel van de geregionaliseerde kwalificatie.
 
 Het betreft de volgende referentieniveaus:
 
@@ -202,13 +202,13 @@ Het betreft de volgende referentieniveaus:
 
 ### (Regionaal) keuzedeel
 
-Aan elke geregionaliseerde kwalificatie mbo zijn ten minste twee (regionale) keuzedelen verbonden. Bij deze geregionaliseerde kwalificatie kunnen dat ook specifiek regionale keuzedelen zijn. Uit het aanbod van keuzedelen moet de mbo -student ten minste één keuze maken.
+Aan elke geregionaliseerde kwalificatie mbo zijn ten minste twee (regionale) keuzedelen verbonden. Bij deze geregionaliseerde kwalificatie kunnen dat ook specifiek regionale keuzedelen zijn. Uit het aanbod van keuzedelen moet de student ten minste één keuze maken.
 
-Het keuzedeel vergroot de arbeidsmarktkansen van de mbo -student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het keuzedeel is dan ook geen onderdeel van de kwalificatie-eis.
+Het keuzedeel vergroot de arbeidsmarktkansen van de student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het keuzedeel is dan ook geen onderdeel van de kwalificatie-eis.
 
 De beschikbare (regionale) keuzedelen voor deze geregionaliseerde kwalificatie mbo zijn te vinden op kwalificaties.s-bb.nl. Op deze website staat ook een overzicht met alle keuzedelen gekoppeld aan kwalificaties.
 
-## Bijlage 5. behorende bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=5&z=2019-09-04&g=2019-09-04)
+## Bijlage 5. behorende bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&paragraaf=2&artikel=5&z=2020-11-25&g=2020-11-25)
 
 ### Toetsingskader Kwalificaties met regionale specialisatie in het mbo
 
