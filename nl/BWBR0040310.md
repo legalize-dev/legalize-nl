@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2019-08-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -68,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - a. objectieve redenen in verband met de toekomstige beroepsuitoefening of de organisatie en de inrichting van het onderwijs het stellen van een aanvullende eis voor toelating tot deze beroepsopleiding rechtvaardigen;
 
-- b. de grond geen betrekking heeft op eigenschappen van de deelnemer die:
+- b. de grond geen betrekking heeft op eigenschappen van de student die:
 
 - 1°. in voldoende mate zijn aan te leren gedurende de beroepsopleiding;
 
-- 2°. in voldoende mate zijn te ondervangen doordat de deelnemer gedurende de beroepspraktijkvorming onder begeleiding staat;
+- 2°. in voldoende mate zijn te ondervangen doordat de student gedurende de beroepspraktijkvorming onder begeleiding staat;
 
 - 3°. al zijn getoetst in het voortgezet onderwijs; en
 
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2019-08-01&g=2019-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2020-11-25&g=2020-11-25), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
