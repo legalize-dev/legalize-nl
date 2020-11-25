@@ -4,7 +4,7 @@ identifier: "BWBR0018144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2005-04-22"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018144"
 soort: "ministeriele-regeling"
@@ -56,23 +56,25 @@ In deze regeling wordt verstaan onder:
 
 - e. instelling: een instelling als bedoeld in [artikel 1.1.1., onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en een instituut als bedoeld in [artikel 12.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8) en een hogeschool als bedoeld in [artikel 12.3.9 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.9),
 
-- f. een leerling: leerling als bedoeld in [artikel 27 van de Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=27),
+- f. leerling: leerling als bedoeld in [artikel 27 van de Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=27),
 
-- g. een deelnemer: deelnemer als bedoeld in [artikel 8.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.1), en
+- g. **student:** student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
 
-- h. subsidieontvanger: LAKS - de vereniging Landelijk Aktie Komitee Scholieren, gevestigd te Amsterdam, JOB - de vereniging Jongerenorganisatie Beroepsonderwijs, gevestigd te Amsterdam, en Combo - de Stichting Combinatie Onderwijsorganisatie, een uitvoeringsorganisatie, gevestigd te Amsterdam.
+- h. **vavo-student:** vavo-student als bedoeld in de Wet educatie en beroepsonderwijs, en.
+
+- i. subsidieontvanger: LAKS - de vereniging Landelijk Aktie Komitee Scholieren, gevestigd te Amsterdam, JOB - de vereniging Jongerenorganisatie Beroepsonderwijs, gevestigd te Amsterdam, en Combo - de Stichting Combinatie Onderwijsorganisatie, een uitvoeringsorganisatie, gevestigd te Amsterdam.
 
 ##### Artikel 2. Doel van de subsidie voor LAKS en JOB
 
 1. De minister verstrekt LAKS en JOB subsidie per boekjaar voor het ontwikkelen en in stand houden van herkenbare belangenorganisaties voor het voortgezet onderwijs onderscheidenlijk de BVE-sector die tot taak heeft:
 
-- a. het vertegenwoordigen van de belangen en het versterken van de positie van de leerlingen onderscheidenlijk de deelnemers, en
+- a. het vertegenwoordigen van de belangen en het versterken van de positie van de leerlingen onderscheidenlijk de studenten of vavo-studenten, en
 
 - b. het verbeteren van het leefklimaat op de scholen en instellingen.
 
 2. De taak bedoeld in het eerste lid omvat in ieder geval:
 
-- a. het bevorderen en ondersteunen van medezeggenschap en participatie van leerlingen onderscheidenlijk deelnemers op school- en instellingsniveau,
+- a. het bevorderen en ondersteunen van medezeggenschap en participatie van leerlingen onderscheidenlijk studenten of vavo-studenten op school- en instellingsniveau,
 
 - b. het zijn van gesprekspartner van de minister of staatssecretaris,
 
@@ -86,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - a. het verzorgen van de beheerstaken van deze organisaties, en
 
-- b. het verlenen van diensten aan leerlingen van het voortgezet onderwijs en deelnemers aan het beroepsonderwijs en zo mogelijk tevens de educatie.
+- b. het verlenen van diensten aan leerlingen, studenten en zo mogelijk tevens vavo-studenten.
 
 2. De taak bedoeld in het eerste lid omvat in ieder geval:
 
@@ -98,9 +100,9 @@ In deze regeling wordt verstaan onder:
 
 - d. het gevraagd en ongevraagd advies geven aan LAKS en JOB,
 
-- e. het verzorgen van informatie voor leerlingen en deelnemers,
+- e. het verzorgen van informatie voor leerlingen, studenten en vavo-studenten,
 
-- f. het verzamelen van gegevens over scholen en instellingen met betrekking tot de positie van leerlingen onderscheidenlijk deelnemers,
+- f. het verzamelen van gegevens over scholen en instellingen met betrekking tot de positie van leerlingen onderscheidenlijk studenten of vavo-studenten,
 
 - g. het verzorgen van een klachtenlijn, en
 
@@ -124,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 - d. per activiteit de daarvoor benodigde personele en materiële middelen.
 
-4. Uit het activiteitenplan van LAKS en JOB blijkt dat de activiteiten in ieder geval zijn gericht op het versterken van de positie van de leerling onderscheidenlijk de deelnemer.
+4. Uit het activiteitenplan van LAKS en JOB blijkt dat de activiteiten in ieder geval zijn gericht op het versterken van de positie van de leerling onderscheidenlijk de student of de vavo-student.
 
 5. De minister kan nadere eisen stellen aan de wijze waarop de onderdelen van de subsidieaanvraag, bedoeld in het eerste lid, worden uitgewerkt.
 
@@ -160,7 +162,7 @@ Subsidie wordt telkens verleend voor een boekjaar.
 
 ##### Artikel 7. Niet vervullen begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2005-04-22&g=2005-04-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2005-04-22&g=2005-04-22) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
+In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2020-11-25&g=2020-11-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2020-11-25&g=2020-11-25) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
 
 ##### Artikel 8. Voorschotten
 
