@@ -4,7 +4,7 @@ identifier: "BWBR0025843"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-01"
-last_updated: "2014-09-11"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025843"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ De rechtspersoon dient een aanvraag als bedoeld in [artikel 2.1.3, vierde lid, v
 
 ##### Artikel 6. Effectrapportage splitsing
 
-De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2014-09-11&g=2014-09-11), bevat een weergave van:
+De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2020-11-25&g=2020-11-25), bevat een weergave van:
 
 - a. de motieven voor de splitsing,
 
@@ -94,7 +94,7 @@ De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.ov
 
 - f. de kosten en baten van de splitsing,
 
-- g. de personele en financiële gevolgen van de splitsing, waaronder begrepen de gevolgen voor de dienstverlening aan deelnemers,
+- g. de personele en financiële gevolgen van de splitsing, waaronder begrepen de gevolgen voor de dienstverlening aan studenten of vavo-studenten,
 
 - h. de uitkomsten van het draagvlakonderzoek dat verricht is onder zowel interne als externe stakeholders,
 
