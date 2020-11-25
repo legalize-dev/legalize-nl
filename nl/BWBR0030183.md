@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-09-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.1. Formulieren en verzending
 
-Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de studerende verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
+Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de student verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
 
 ##### Artikel 3.2. Aanvraagprocedure
 
@@ -104,11 +104,11 @@ Vervallen
 
 1. Indien uit een beschikking tot herziening als bedoeld in [artikel 5.1, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=5.1) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393).
 
-2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die van het tijdstip van afgifte van de in het eerste lid bedoelde beschikking af aan de studerende zouden moeten worden gedaan.
+2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die van het tijdstip van afgifte van de in het eerste lid bedoelde beschikking af aan de student zouden moeten worden gedaan.
 
 3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029604&artikel=3). Wanneer die maandbetalingen met ingang van 1 januari 2020 hoger zijn dan USD 260,51, geschiedt de verrekening met dat bedrag.
 
-4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.
+4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de student betaalbaar zouden worden gesteld.
 
 5. Indien er niet langer betalingen op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-09-01&g=2020-09-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-11-25&g=2020-11-25), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
@@ -136,7 +136,7 @@ Deze regeling wordt aangehaald als: Regeling studiefinanciering BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studerenden aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
+##### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studenten aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
 
 1. Uitbetaling van de studiefinanciering BES vindt plaats in twee termijnen, indien het een opleiding in een van de volgende landen betreft:
 
@@ -150,11 +150,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. de Verenigde Staten van Amerika.
 
-2. De uitbetaling, bedoeld in het eerste lid, aan een deelnemer vindt plaats in de maanden augustus en december.
+2. De uitbetaling, bedoeld in het eerste lid, aan een mbo-student vindt plaats in de maanden augustus en december.
 
-3. De uitbetaling, bedoeld in het eerste lid, aan een student vindt plaats in de maanden september en december.
+3. De uitbetaling, bedoeld in het eerste lid, aan een ho-student vindt plaats in de maanden september en december.
 
-4. In afwijking van het eerste lid, vindt de uitbetaling van de studiefinanciering BES op aanvraag van de studerende plaats per kalendermaand.
+4. In afwijking van het eerste lid, vindt de uitbetaling van de studiefinanciering BES op aanvraag van de student plaats per kalendermaand.
 
 ### Hoofdstuk 3b. Verwerking en beveiliging gegevens voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a)
 
@@ -210,7 +210,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3b.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
 
-1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+1. Indien de Minister heeft besloten dat een student een uitreiziger is als bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
 
 2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, [bedoeld in artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), of de markering, bedoeld in het eerste lid, van toepassing is.
 
