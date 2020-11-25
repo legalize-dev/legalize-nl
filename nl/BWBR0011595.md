@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-09-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2.1. Formulieren
 
-Gegevens die nodig zijn voor de toekenning van studiefinanciering, worden door de studerende, diens partner of diens ouders, verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
+Gegevens die nodig zijn voor de toekenning van studiefinanciering, worden door de student, diens partner of diens ouders, verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
 
 ##### Artikel 2.2. De studentenchipkaart
 
@@ -71,21 +71,21 @@ Vervallen
 
 ##### Artikel 2.4. Volledige opleiding buiten Nederland: aanvraag reisrecht
 
-De studerende, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7), die als reisvoorziening een reisrecht wenst te ontvangen, dient daartoe een aanvraag in bij de Minister uiterlijk 8 weken voor de datum waarop het reisrecht moet ingaan.
+De student, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7), die als reisvoorziening een reisrecht wenst te ontvangen, dient daartoe een aanvraag in bij de Minister uiterlijk 8 weken voor de datum waarop het reisrecht moet ingaan.
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2020-09-01&g=2020-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De student, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2020-11-25&g=2020-11-25), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
-2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
+2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de student blijft ingeschreven, verklaard:
 
-- a. in welke maanden de studerende een of meer onderdelen van de opleiding in het buitenland volgt,
+- a. in welke maanden de student een of meer onderdelen van de opleiding in het buitenland volgt,
 
 - b. dat deze onderdelen meetellen voor het Nederlands diploma, en
 
-- c. dat de studerende gedurende deze periode ingeschreven blijft aan de Nederlandse onderwijsinstelling.
+- c. dat de student gedurende deze periode ingeschreven blijft aan de Nederlandse onderwijsinstelling.
 
-3. Met ingang van de eerste dag van de periode, waarover de aanvraag is toegekend, heeft de studerende geen reisrecht meer.
+3. Met ingang van de eerste dag van de periode, waarover de aanvraag is toegekend, heeft de student geen reisrecht meer.
 
 ### Hoofdstuk 2a. Toekenning en betaling levenlanglerenkrediet
 
@@ -101,9 +101,9 @@ Vervallen
 
 ##### Artikel 4.1. Verkrijging reisrecht
 
-1. Om met het reisrecht te kunnen reizen moet het reisproduct door de studerende bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen.
+1. Om met het reisrecht te kunnen reizen moet het reisproduct door de student bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen.
 
-2. Op aanvraag van de studerende kan tijdelijk met het reisrecht worden gereisd door middel van een studentenreisproduct dat op een andere aan de studerende toebehorende, door de RSR geverifieerde, persoonlijke ov-chipkaart, dan wel op een anonieme ov-chipkaart is geladen.
+2. Op aanvraag van de student kan tijdelijk met het reisrecht worden gereisd door middel van een studentenreisproduct dat op een andere aan de student toebehorende, door de RSR geverifieerde, persoonlijke ov-chipkaart, dan wel op een anonieme ov-chipkaart is geladen.
 
 ##### Artikel 4.2. Beëindiging reisrecht
 
@@ -113,7 +113,7 @@ Vervallen
 
 3. De Minister kan, indien de met een reisproduct geladen ov-chipkaart technische gebreken heeft of indien de automaten van de vervoersbedrijven niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een webtool of een aangetekende brief.
 
-4. In geval van uitloting van een student, is hij verplicht het reisproduct op de ov-chipkaart stop te zetten binnen 5 werkdagen nadat aan de student schriftelijk mededeling is gedaan van uitloting in de procedure, bedoeld in [hoofdstuk 7, titel 3, paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a).
+4. In geval van uitloting van een ho-student, is hij verplicht het reisproduct op de ov-chipkaart stop te zetten binnen 5 werkdagen nadat aan de ho-student schriftelijk mededeling is gedaan van uitloting in de procedure, bedoeld in [hoofdstuk 7, titel 3, paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a).
 
 ##### Artikel 4.3. Keuze in soorten reisrecht
 
@@ -123,11 +123,11 @@ Vervallen
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via www.duo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2020-09-01&g=2020-09-01).
+2. Indien een student als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via www.duo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2020-11-25&g=2020-11-25).
 
 ##### Artikel 4.4. Wisselen van soort reisrecht
 
-1. Een studerende die recht heeft op een reisvoorziening kan tweemaal per kalenderjaar wisselen van keuze voor een soort reisrecht, met dien verstande dat de nieuwe soort reisrecht niet kan aanvangen:
+1. Een student die recht heeft op een reisvoorziening kan tweemaal per kalenderjaar wisselen van keuze voor een soort reisrecht, met dien verstande dat de nieuwe soort reisrecht niet kan aanvangen:
 
 - a. in de maanden mei tot en met augustus, en
 
@@ -137,27 +137,27 @@ Vervallen
 
 3. In afwijking van het tweede lid wordt op de aanvraag om te wisselen met ingang van een periode die gelegen is na het ingaan van een eerder toegekend reisrecht besloten uiterlijk op de tiende werkdag nadat het eerder toegekende reisrecht is ingegaan.
 
-4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na tien werkdagen bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen. In het geval het oorspronkelijke reisproduct niet al door de student op de ov-chipkaart is geladen, bedraagt de termijn waarna het reisproduct op een persoonlijke ov-chipkaart kan worden geladen, in afwijking van de eerste volzin, 20 werkdagen.
+4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na tien werkdagen bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen. In het geval het oorspronkelijke reisproduct niet al door de ho-student op de ov-chipkaart is geladen, bedraagt de termijn waarna het reisproduct op een persoonlijke ov-chipkaart kan worden geladen, in afwijking van de eerste volzin, 20 werkdagen.
 
 5. Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag op een persoonlijke ov-chipkaart worden geladen bij een daartoe bestemde automaat van de vervoersbedrijven.
 
 ##### Artikel 4.5. Reisproduct strikt persoonlijk
 
-De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
+De student die beschikking heeft over een reisproduct heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
 
 ##### Artikel 4.6. Voorziening in geld
 
-1. Een studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, kan over de periode in het buitenland op aanvraag in plaats van een reisrecht in aanmerking komen voor een voorziening in geld.
+1. Een student die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, kan over de periode in het buitenland op aanvraag in plaats van een reisrecht in aanmerking komen voor een voorziening in geld.
 
-2. De studerende komt in aanmerking voor een voorziening in geld, als bedoeld in het eerste lid, indien:
+2. De student komt in aanmerking voor een voorziening in geld, als bedoeld in het eerste lid, indien:
 
 - a. het onderdeel dat buiten Nederland wordt gevolgd, meetelt voor het Nederlandse diploma, en
 
-- b. de studerende ingeschreven blijft aan de Nederlandse onderwijsinstelling.
+- b. de student ingeschreven blijft aan de Nederlandse onderwijsinstelling.
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2020-09-01&g=2020-09-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de student voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de student eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2020-11-25&g=2020-11-25).
 
 5. Dit artikel berust op [artikel 3.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7).
 
@@ -219,15 +219,15 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 1. Indien uit een beschikking tot herziening als bedoeld in [artikel 7.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.
 
-2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de in het eerste lid bedoelde beschikking aan de studerende zouden moeten worden gedaan.
+2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de in het eerste lid bedoelde beschikking aan de student zouden moeten worden gedaan.
 
 3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=13). Wanneer die maandbetalingen met ingang van 1 januari 2020 hoger zijn dan € 171,16, geschiedt de verrekening met dat bedrag.
 
-4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.
+4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de student betaalbaar zouden worden gesteld.
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2020-09-01&g=2020-09-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2020-11-25&g=2020-11-25) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -237,7 +237,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2020-09-01&g=2020-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2020-11-25&g=2020-11-25), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 6a. Kopopleidingen
 
@@ -253,15 +253,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-09-01&g=2020-09-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-11-25&g=2020-11-25)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-09-01&g=2020-09-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-11-25&g=2020-11-25), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-09-01&g=2020-09-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2020-11-25&g=2020-11-25), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2020-09-01&g=2020-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2020-09-01&g=2020-09-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2020-11-25&g=2020-11-25) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2020-11-25&g=2020-11-25)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -295,13 +295,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 3.3. Studiefinanciering volledige opleiding in het buitenland: beroepsonderwijs
 
-1. Voor studiefinanciering kan een deelnemer als bedoeld in [artikel 2.13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.13a) in aanmerking komen die onderwijs volgt aan een opleiding die voldoet aan de volgende criteria:
+1. Voor studiefinanciering kan een mbo-student als bedoeld in [artikel 2.13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.13a) in aanmerking komen die onderwijs volgt aan een opleiding die voldoet aan de volgende criteria:
 
 - a. de opleiding wordt verzorgd aan een instelling in het Gewest Brussel voorzover het betreft Nederlandstalige opleidingen, in Vlaanderen, de Bondsrepubliek Duitsland, Zweden, Frankrijk, Spanje of het Verenigd Koninkrijk en
 
 - b. de opleiding wordt voltijds verzorgd op een wijze die vergelijkbaar is met de beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder a, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
-2. In afwijking van het eerste lid, onderdeel a kan een deelnemer voor studiefinanciering in aanmerking komen die onderwijs volgt aan een instelling in een lidstaat van de Europese Economische Ruimte aan een opleiding die niet vergelijkbaar is met enige beroepsopleiding in de landelijke kwalificatiestructuur als bedoeld in [artikel 7.2.4 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4).
+2. In afwijking van het eerste lid, onderdeel a kan een mbo-student voor studiefinanciering in aanmerking komen die onderwijs volgt aan een instelling in een lidstaat van de Europese Economische Ruimte aan een opleiding die niet vergelijkbaar is met enige beroepsopleiding in de landelijke kwalificatiestructuur als bedoeld in [artikel 7.2.4 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4).
 
 ##### Artikel 3.4. Beroepsonderwijs in het buitenland: opleiding niveau 1 of 2 dan wel niveau 3 of 4
 
@@ -668,7 +668,7 @@ Voor de debiteur, bedoeld in [artikel 10a.2, eerste lid, onderdeel b](https://we
 
 ##### Artikel 2a.2. Levenlanglerenkrediet voor experiment vraagfinanciering
 
-In aanvulling op de opleidingen, genoemd in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.4) en [2.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12) komt een student tevens in aanmerking voor levenlanglerenkrediet, indien hij is ingeschreven voor het volgen van een module als bedoeld in het [Besluit experiment vraagfinanciering hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0037862).
+In aanvulling op de opleidingen, genoemd in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.4) en [2.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12) komt een ho-student tevens in aanmerking voor levenlanglerenkrediet, indien hij is ingeschreven voor het volgen van een module als bedoeld in het [Besluit experiment vraagfinanciering hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0037862).
 
 ### Hoofdstuk 4. Reisvoorziening
 
@@ -802,15 +802,15 @@ In aanvulling op de opleidingen, genoemd in de [artikelen 2.4](https://wetten.ov
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
 
-##### Artikel 2a.3. Hoogte en berekening van het levenlanglerenkrediet voor studenten aan een onderwijseenheid
+##### Artikel 2a.3. Hoogte en berekening van het levenlanglerenkrediet voor ho-studenten aan een onderwijseenheid
 
-1. Voor een student die is ingeschreven voor het volgen van een onderwijseenheid als bedoeld in [artikel 2.12, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12), wordt onder de voorwaarden, genoemd in dit artikel, afgeweken van de maximale hoogte van het levenlanglerenkrediet per maand, genoemd in [artikel 3.16d, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16d).
+1. Voor een ho-student die is ingeschreven voor het volgen van een onderwijseenheid als bedoeld in [artikel 2.12, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12), wordt onder de voorwaarden, genoemd in dit artikel, afgeweken van de maximale hoogte van het levenlanglerenkrediet per maand, genoemd in [artikel 3.16d, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16d).
 
-2. Bij de berekening van de hoogte van het levenlanglerenkrediet dat een student per maand toegekend krijgt, is het aantal studiepunten van de onderwijseenheid waarvoor de student het levenlanglerenkrediet aanvraagt bepalend.
+2. Bij de berekening van de hoogte van het levenlanglerenkrediet dat een ho-student per maand toegekend krijgt, is het aantal studiepunten van de onderwijseenheid waarvoor de ho-student het levenlanglerenkrediet aanvraagt bepalend.
 
-3. Het aantal studiepunten behorende bij de onderwijseenheid waarvoor de student het levenlanglerenkrediet aanvraagt, wordt gedeeld door vijf. Het getal dat daaruit komt wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het levenlanglerenkrediet voor de desbetreffende onderwijseenheid wordt uitbetaald.
+3. Het aantal studiepunten behorende bij de onderwijseenheid waarvoor de ho-student het levenlanglerenkrediet aanvraagt, wordt gedeeld door vijf. Het getal dat daaruit komt wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het levenlanglerenkrediet voor de desbetreffende onderwijseenheid wordt uitbetaald.
 
-4. De hoogte van het bedrag dat per maand wordt uitbetaald aan een student wordt berekend door het aangevraagde bedrag aan levenlanglerenkrediet voor een onderwijseenheid te delen door het aantal maanden als berekend in het derde lid.
+4. De hoogte van het bedrag dat per maand wordt uitbetaald aan een ho-student wordt berekend door het aangevraagde bedrag aan levenlanglerenkrediet voor een onderwijseenheid te delen door het aantal maanden als berekend in het derde lid.
 
 ### Hoofdstuk 3. Aanwijzing opleidingen in het buitenland
 
@@ -952,7 +952,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 4a.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
 
-1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+1. Indien de Minister heeft besloten dat een student een uitreiziger is als bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
 
 2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), of de markering, bedoeld in het eerste lid, van toepassing is.
 
@@ -1267,7 +1267,7 @@ De terugbetalingsperiode van de lening hoger onderwijs en de lening beroepsonder
 
 1. De terugbetalingsperiode van de lening die is ontstaan door toekenning van het levenlanglerenkrediet wordt van rechtswege geschorst indien:
 
-- a. de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.1&z=2020-09-01&g=2020-09-01), geniet, of
+- a. de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.1&z=2020-11-25&g=2020-11-25), geniet, of
 
 - b. de debiteur opnieuw levenlanglerenkrediet aangaat en geen lening beroepsonderwijs of lening hoger onderwijs heeft.
 
@@ -1279,7 +1279,7 @@ De terugbetalingsperiode van de lening hoger onderwijs en de lening beroepsonder
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2020-09-01&g=2020-09-01)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2020-11-25&g=2020-11-25)
 
 | hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
