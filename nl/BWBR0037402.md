@@ -4,7 +4,7 @@ identifier: "BWBR0037402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2018-08-24"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037402"
 soort: "beleidsregel"
@@ -102,9 +102,9 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 
 2. Er kan in ieder geval aanleiding zijn voor een onderzoek naar de naleving van de zorgplicht doelmatigheid bij een beroepsopleiding indien blijkt dat:
 
-- a. door twee of meer instellingen in hetzelfde verzorgingsgebied eenzelfde beroepsopleiding wordt aangeboden en bij tenminste één van de instellingen voor de betreffende beroepsopleiding, 18 of minder deelnemers zijn ingeschreven,
+- a. door twee of meer instellingen in hetzelfde verzorgingsgebied eenzelfde beroepsopleiding wordt aangeboden en bij tenminste één van de instellingen voor de betreffende beroepsopleiding, 18 of minder studenten zijn ingeschreven,
 
-- b. er landelijk minder dan 50 deelnemers zijn ingeschreven voor de betreffende beroepsopleiding en deze deelnemers verdeeld zijn over twee of meer instellingen, of
+- b. er landelijk minder dan 50 studenten zijn ingeschreven voor de betreffende beroepsopleiding en deze studenten verdeeld zijn over twee of meer instellingen, of
 
 - c. er binnen de regio overleg heeft plaatsgevonden tussen twee of meer instellingen over het doelmatig aanbieden van een opleiding en dit overleg niet geleid heeft tot een voor partijen aanvaardbare situatie.
 
@@ -122,11 +122,11 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 - d. heeft het bevoegd gezag in voldoende mate bezien, indien het een beroepsopleiding betreft die mede op de landelijke arbeidsmarkt is gericht, wat de verwachte behoefte aan gediplomeerden op de landelijke arbeidsmarkt is, en is op basis hiervan het aanbieden van de betreffende beroepsopleiding te rechtvaardigen;
 
-- e. heeft het bevoegd gezag bij het inschrijven van deelnemers in voldoende mate met andere aanbieders van eenzelfde beroepsopleiding afstemming bereikt met het oog op het arbeidsmarktperspectief van de betreffende beroepsopleiding;
+- e. heeft het bevoegd gezag bij het inschrijven van studenten in voldoende mate met andere aanbieders van eenzelfde beroepsopleiding afstemming bereikt met het oog op het arbeidsmarktperspectief van de betreffende beroepsopleiding;
 
 - f. heeft het bevoegd gezag zich voldoende rekenschap gegeven van de bijdrage van de betreffende beroepsopleiding aan doorstroom naar een hoger opleidingsniveau of naar het hoger beroepsonderwijs;
 
-- g. heeft het bevoegd gezag onderzocht of de benodigde beroepspraktijkvormingsplaatsen in voldoende mate beschikbaar zijn voor het aantal deelnemers van de betreffende beroepsopleiding, en
+- g. heeft het bevoegd gezag onderzocht of de benodigde beroepspraktijkvormingsplaatsen in voldoende mate beschikbaar zijn voor het aantal studenten van de betreffende beroepsopleiding, en
 
 - h. borgt het bevoegd gezag de toegankelijkheid van onderwijs voor kansarme groepen in de arbeidsmarktregio met het verzorgen van de betreffende beroepsopleiding.
 
@@ -134,9 +134,9 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan wordt aan de zorgplicht doelmatigheid:
 
-- a. wordt door twee of meer instellingen in hetzelfde verzorgingsgebied eenzelfde beroepsopleiding aangeboden en zijn bij geen van de instellingen voor de betreffende beroepsopleiding, 18 of minder deelnemers ingeschreven,
+- a. wordt door twee of meer instellingen in hetzelfde verzorgingsgebied eenzelfde beroepsopleiding aangeboden en zijn bij geen van de instellingen voor de betreffende beroepsopleiding, 18 of minder studenten ingeschreven,
 
-- b. zijn er landelijk minder dan 50 deelnemers ingeschreven voor de betreffende beroepsopleiding en zijn deze deelnemers niet verdeeld zijn over twee of meer instellingen;
+- b. zijn er landelijk minder dan 50 studenten ingeschreven voor de betreffende beroepsopleiding en zijn deze studenten niet verdeeld zijn over twee of meer instellingen;
 
 - c. heeft het bevoegd gezag zich voldoende rekenschap gegeven van het aantal vergelijkbare bekostigde beroepsopleidingen in hetzelfde verzorgingsgebied;
 
@@ -144,7 +144,7 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 - e. heeft het bevoegd gezag zich voldoende rekenschap gegeven, indien het een beroepsopleiding betreft die mede op de landelijke arbeidsmarkt is gericht, van het aantal vergelijkbare bekostigde opleidingen op landelijk niveau;
 
-- f. heeft het bevoegd gezag aan de hand van een realistische onderbouwing de verwachte ontwikkeling van de deelnemersaantallen voor de betreffende beroepsopleiding in kaart gebracht. En heeft het bevoegd gezag zich voldoende rekenschap gegeven van de gevolgen die het opstarten van de nieuwe beroepsopleiding heeft op de deelnemersaantallen van vergelijkbare bekostigde beroepsopleidingen in dezelfde arbeidsmarktregio;
+- f. heeft het bevoegd gezag aan de hand van een realistische onderbouwing de verwachte ontwikkeling van de studentenaantallen voor de betreffende beroepsopleiding in kaart gebracht. En heeft het bevoegd gezag zich voldoende rekenschap gegeven van de gevolgen die het opstarten van de nieuwe beroepsopleiding heeft op de studentenaantallen van vergelijkbare bekostigde beroepsopleidingen in dezelfde arbeidsmarktregio;
 
 - g. heeft het bevoegd gezag in voldoende mate de samenwerking gezocht met het bedrijfsleven om te komen tot een doelmatige organisatie van de betreffende beroepsopleiding en andere vergelijkbare beroepsopleidingen in de regio, en;
 
@@ -156,7 +156,7 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 - a. de verwachte gevolgen van het besluit op de kwaliteit van het opleidingenaanbod in het betreffende verzorgingsgebied van de betrokken instellingen;
 
-- b. de verwachte gevolgen van het besluit voor de keuzevrijheid van deelnemers, en
+- b. de verwachte gevolgen van het besluit voor de keuzevrijheid van studenten, en
 
 - c. de verwachte gevolgen van het besluit voor de toegankelijkheid van onderwijs voor kansarme groepen.
 
@@ -196,7 +196,7 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 
 ##### Artikel 9. Aanleiding voor een onderzoek door de adviescommissie macrodoelmatigheid mbo
 
-1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2018-08-24&g=2018-08-24), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal deelnemers dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 deelnemers per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
+1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2020-11-25&g=2020-11-25), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal studenten dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 studenten per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
 
 2. De minister vraagt advies aan de adviescommissie macrodoelmatigheid mbo. Daartoe stuurt hij de onder hem rustende ter zake doende gegevens naar de adviescommissie.
 
@@ -218,7 +218,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. er is sprake van een beroepsopleiding voor een beroepsgroep met een constante landelijke omvang die beperkt is;
 
-- b. er sprake is van een vervangingsvraag waarbij het aantal gediplomeerde deelnemers dat de desbetreffende beroepsopleiding jaarlijks verlaat onder deze vervangingsvraag ligt;
+- b. er sprake is van een vervangingsvraag waarbij het aantal gediplomeerde studenten dat de desbetreffende beroepsopleiding jaarlijks verlaat onder deze vervangingsvraag ligt;
 
 - c. de te leren kennis en vaardigheden onderscheiden zich van andere (verwante) kwalificaties doordat het merendeel van de inhoud van de betreffende beroepsopleiding niet overlapt met die van beroepsopleidingen gericht op andere kwalificaties;
 
