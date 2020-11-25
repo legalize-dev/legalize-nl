@@ -4,7 +4,7 @@ identifier: "BWBR0031616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2019-08-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031616"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- b. **examenkandidaat:** deelnemer of examendeelnemer;
+- b. **examenkandidaat:** student of extraneus;
 
 - c. **waardepapier:** beveiligde papiersoort die wordt gebruikt voor diploma’s en resultatenlijsten;
 
@@ -50,19 +50,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Modeldiploma
 
-1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2019-08-01&g=2019-08-01) bij deze regeling.
+1. Het model voor diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2019-08-01&g=2019-08-01) bij deze regeling.
+2. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 3. Modelresultatenlijsten
 
-1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2019-08-01&g=2019-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2019-08-01&g=2019-08-01) bij deze regeling.
+1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2020-11-25&g=2020-11-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2019-08-01&g=2019-08-01) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2019-08-01&g=2019-08-01) bij deze regeling.
+2. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens de [bijlagen 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2a&z=2020-11-25&g=2020-11-25) en [3A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3a&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 4. Regels voor het invullen van diploma’s en resultatenlijsten
 
-Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2019-08-01&g=2019-08-01) bij deze regeling.
+Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 5. Veiligheidseisen papier waardedocumenten
 
@@ -104,7 +104,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 1. behorende bij ‘[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01)’
+## Bijlage 1. behorende bij ‘[artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25)’
 
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
@@ -118,7 +118,7 @@ Inwerkingtreding voorheen door Stcrt. 2012/10761 gesteld op 1 augustus 2012.
 
 ### Modeldiploma voor beroepsopleidingen waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
-## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01)
+## Bijlage 2. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25)
 
 ### Modelresultatenlijst voor de mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016
 
@@ -194,7 +194,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het diploma te plaats
 
 ### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
 
-De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01).
+De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25).
 
 De kwalificatie, het kwalificatiedossier, de Crebo-code voor zowel de kwalificatie als het kwalificatiedossier, het niveau van de kwalificatie, de naam en code van een keuzedeel of keuzedelen, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2018-08-01&g=2018-08-01).
 
@@ -252,15 +252,15 @@ Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroep
 
 ##### Artikel 3a. Modelcertificaat
 
-1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2019-08-01&g=2019-08-01) bij deze regeling.
+1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2019-08-01&g=2019-08-01) bij deze regeling.
+2. Het model voor certificaten verbonden aan een keuzedeel wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=7&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2019-08-01&g=2019-08-01) bij deze regeling.
+3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
 ##### Artikel 6a. Vervallen van artikelen
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2019-08-01&g=2019-08-01) bij deze regeling vervallen met ingang van 1 augustus 2022.
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25) en de [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling vervallen met ingang van 1 augustus 2022.
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
@@ -268,11 +268,11 @@ Deze regeling berust op [artikel 7.4.6, derde lid, van de Wet educatie en beroep
 
 ## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2016-08-01&g=2016-08-01) van de Regeling modeldiploma mbo
 
-## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2019-08-01&g=2019-08-01)
+## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2020-11-25&g=2020-11-25)
 
 ## Bijlage 1a. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2018-08-01&g=2018-08-01)
 
-## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01)
+## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25)
 
 ## Bijlage 2a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2018-08-01&g=2018-08-01)
 
@@ -356,7 +356,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het certificaat te pl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+## Bijlage 3. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
 
 **Modelresultatenlijst voor mbo-niveau 4, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart voor 1 augustus 2016**
 
@@ -368,7 +368,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Kwalificatie
 
-Voor iedere kwalificatie die een examenkandidaat (deelnemer of examendeelnemer) behaalt, wordt een apart diploma uitgegeven.
+Voor iedere kwalificatie die een examenkandidaat (student of extraneus) behaalt, wordt een apart diploma uitgegeven.
 
 ### Extra Informatie
 
@@ -394,17 +394,17 @@ De tabel ‘Examen van overige onderdelen’ ziet er als volgt uit:
 
 De tekstpassage over de behaalde wettelijke beroepsvereisten wordt op het diploma vermeld direct voor de regel met de plaats en datum. Op de resultatenlijst worden deze vermeld direct na de tabel ‘Examenonderdelen behorend bij kwalificatie’ en (indien van toepassing) voor de tabel ‘Examen van extra onderdelen’. Tenzij anders is bepaald in een andere (wettelijke) regeling dan de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) luidt de te vermelden tekstpassage als volgt: ‘De kandidaat heeft voldaan aan de wettelijke beroepsvereisten vermeld in…’. Achter ‘vermeld in’ moet worden vermeld de (wettelijke) regeling waarin de wettelijke beroepsvereisten is bepaald.
 
-## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+## Bijlage 6. behorende bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
 
-## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+## Bijlage 7. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
 
 ### Modelcertificaat verbonden aan een keuzedeel
 
-## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+## Bijlage 8. behorende bij [artikel 3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3a&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
 
 ### Regels bij het invullen van de modelcertificaten
 
-De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2019-08-01&g=2019-08-01).
+De kwalificatie, het kwalificatiedossier, het niveau, de Crebo-code, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, de naam van het keuzedeel, eventuele wettelijke beroepsvereisten en de ondertekening moeten, indien van toepassing, worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2020-11-25&g=2020-11-25).
 
 ### Onderdeel
 
@@ -420,9 +420,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Modelresultatenlijst voor mbo-niveaus 1 tot en met 3, behorende bij een diploma dat wordt uitgereikt voor een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016
 
-## Bijlage 3a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2019-08-01&g=2019-08-01), van de Regeling modeldiploma mbo
+## Bijlage 3a. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2020-11-25&g=2020-11-25), van de Regeling modeldiploma mbo
 
-## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2019-08-01&g=2019-08-01) van de regeling modeldiploma mbo
+## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2020-11-25&g=2020-11-25) van de regeling modeldiploma mbo
 
 ### Regels voor het invullen van het modeldiploma
 
@@ -450,6 +450,6 @@ Op het diploma wordt achter de zinsnede ‘De ondergetekenden verklaren dat’ d
 
 De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten.
 
-## Bijlage 5. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2019-08-01&g=2019-08-01) de Regeling modeldiploma mbo
+## Bijlage 5. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2020-11-25&g=2020-11-25) de Regeling modeldiploma mbo
 
 ### Examenresultaat keuzedeel
