@@ -4,7 +4,7 @@ identifier: "BWBR0031787"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-11-25"
-last_updated: "2012-07-01"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031787"
 soort: "beleidsregel"
@@ -52,7 +52,7 @@ Bij het begrip ‘specifieke aard van het beroep’ bedoeld in [artikel 11, onde
 
 ##### Artikel 2. Andere gewichtige omstandigheden
 
-Op grond van [artikel 11, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=11), en [artikel 14 van de Leerplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=14) zijn in bepaalde situaties bijzondere vormen van verlof toegestaan voor maximaal tien dagen per schooljaar. Het gaat hier om zogenaamde ‘andere gewichtige omstandigheden’. Dit zijn omstandigheden die niet eerder in de limitatieve opsomming van artikel 11 van de Leerplichtwet zijn genoemd en die veelal buiten de wil of invloedsfeer van de ouders of leerling zijn gelegen. Het hoofd van de school of instelling kan verlof verlenen voor afwezigheid als gevolg van een dergelijke andere gewichtige omstandigheid.
+Op grond van [artikel 11, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=11), en [artikel 14 van de Leerplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=14) zijn in bepaalde situaties bijzondere vormen van verlof toegestaan voor maximaal tien dagen per schooljaar. Het gaat hier om zogenaamde ‘andere gewichtige omstandigheden’. Dit zijn omstandigheden die niet eerder in de limitatieve opsomming van artikel 11 van de Leerplichtwet zijn genoemd en die veelal buiten de wil of invloedsfeer van de ouders of jongere zijn gelegen. Het hoofd van de school of instelling kan verlof verlenen voor afwezigheid als gevolg van een dergelijke andere gewichtige omstandigheid.
 
 In de hierna te noemen gevallen kan, zolang het totaal aan een jongere te verlenen verlof het aantal van 10 verlofdagen in een schooljaar niet te boven gaat, verlof worden gegeven voor de hierna genoemde periode:
 
