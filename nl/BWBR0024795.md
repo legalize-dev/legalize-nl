@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2020-10-07"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-11-25&g=2020-11-25).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-11-25&g=2020-11-25).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-10-07&g=2020-10-07), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2020-11-25&g=2020-11-25), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -98,13 +98,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - i. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in [hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7), met dien verstande dat bij de toepassing van:
 
-- 1. [artikel 7.2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8) het bevoegd gezag van een instituut tevens met het oog op de handicap van de deelnemer nadere regels kan vaststellen ten aanzien van de beroepspraktijkvorming;
+- 1. [artikel 7.2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8) het bevoegd gezag van een instituut tevens met het oog op de handicap van de student nadere regels kan vaststellen ten aanzien van de beroepspraktijkvorming;
 
-- 2. het [eerste lid van artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.2) het bevoegd gezag van een instituut er tevens zorg voor draagt dat bij het afleggen van het examen rekening wordt gehouden met de aard van de handicap van de deelnemer;
+- 2. het [eerste lid van artikel 7.4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.2) het bevoegd gezag van een instituut er tevens zorg voor draagt dat bij het afleggen van het examen rekening wordt gehouden met de aard van de handicap van de student;
 
-- j. de rechtsbescherming van de deelnemer, bedoeld in [titel 5 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5);
+- j. de rechtsbescherming van de student, bedoeld in [titel 5 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5);
 
-- k. de inschrijving, de vooropleidingseisen en de voorschriften inzake voortijdig schoolverlaten van [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=8), met dien verstande dat bij de toepassing van [artikel 8.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3) tevens de wederzijdse rechten en verplichtingen van het instituut en de deelnemer die voortvloeien uit de specifieke handicap van de deelnemer, worden opgenomen;
+- k. de inschrijving, de vooropleidingseisen en de voorschriften inzake voortijdig schoolverlaten van [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=8), met dien verstande dat bij de toepassing van [artikel 8.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3) tevens de wederzijdse rechten en verplichtingen van het instituut en de student die voortvloeien uit de specifieke handicap van de student, worden opgenomen;
 
 - l. de opneming in het Centraal register;
 
@@ -122,13 +122,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-11-25&g=2020-11-25).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-11-25&g=2020-11-25).
 
 ##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-11-25&g=2020-11-25), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -150,7 +150,7 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - j. het onderwijs en de examens betreffende het beroepsonderwijs, bedoeld in [hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7);
 
-- k. de rechtsbescherming van de deelnemer, bedoeld in [titel 5 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5);
+- k. de rechtsbescherming van de student, bedoeld in [titel 5 van hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5);
 
 - l. de inschrijving en vooropleidingseisen van [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=8),
 
@@ -196,13 +196,13 @@ Vervallen
 
 ##### Artikel 3.2.1. Vervangende gegevens VOA
 
-1. Het deel van de rijksbijdrage voor voorbereidende en ondersteunende activiteiten als bedoeld in [artikel 7.2.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), wordt op grond van [artikel 6.1.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=6.1.1), berekend door het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten, zoals dat voor dat kalenderjaar is vastgesteld op grond van [artikel 2.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.1) te verdelen naar rato van het aantal deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar per instelling aan de opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) is ingeschreven en dat daadwerkelijk die opleiding volgt, waarbij:
+1. Het deel van de rijksbijdrage voor voorbereidende en ondersteunende activiteiten als bedoeld in [artikel 7.2.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), wordt op grond van [artikel 6.1.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=6.1.1), berekend door het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten, zoals dat voor dat kalenderjaar is vastgesteld op grond van [artikel 2.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.1) te verdelen naar rato van het aantal studenten dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar per instelling aan de opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) is ingeschreven en dat daadwerkelijk die opleiding volgt, waarbij:
 
-- a. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), met de factor 1 wordt vermenigvuldigd;
+- a. het aantal studenten aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), met de factor 1 wordt vermenigvuldigd;
 
-- b. het aantal deelnemers aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) met de factor 0,4 wordt vermenigvuldigd.
+- b. het aantal studenten aan de opleiding, bedoeld in [artikel 7.2.2, eerste lid onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) met de factor 0,4 wordt vermenigvuldigd.
 
-2. Bij de toepassing van het eerste lid worden de deeltijds deelnemers, bedoeld in [artikel 2.1.2. van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2), in de beroepsopleidende leerweg buiten beschouwing gelaten.
+2. Bij de toepassing van het eerste lid worden de deeltijds studenten, bedoeld in [artikel 2.1.2. van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.1.2), in de beroepsopleidende leerweg buiten beschouwing gelaten.
 
 ### Hoofdstuk 4. Voorschriften bekostiging educatie
 
@@ -264,7 +264,7 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-10-07&g=2020-10-07) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2020-10-07&g=2020-10-07) in verband met invoering leerlinggebonden financiering MBO
+##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2020-11-25&g=2020-11-25) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2020-11-25&g=2020-11-25) in verband met invoering leerlinggebonden financiering MBO
 
 Wijzigt deze regeling.
 
@@ -296,7 +296,7 @@ Voor diploma’s van de opleidingen
 
 - c. Helpende (Sociaal-agogisch werk) (Crebonummer 91352) en
 
-- d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.4).
+- d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door extraneï, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.4).
 
 #### § 2. Overgangsvoorschriften bekostiging
 
