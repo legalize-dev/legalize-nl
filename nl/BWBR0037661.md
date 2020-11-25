@@ -4,7 +4,7 @@ identifier: "BWBR0037661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2016-07-19"
+last_updated: "2020-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037661"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 ##### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
 
-1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
+1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
-2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
+2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
-3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
+3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
-4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
+4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -92,7 +92,7 @@ Naast het model kwalificatiedossier is er een separaat model keuzedeel dat afgel
 
 ### 2.1. Voorblad
 
-De naamgeving is kort, weloverwogen en herkenbaar voor onderwijs, bedrijfsleven en deelnemer. De naam is ook uniek in de kwalificatiestructuur. Het kwalificatiedossier bevat de kwalificaties die op basis van verwantschap in de beroepengroep gebundeld zijn.
+De naamgeving is kort, weloverwogen en herkenbaar voor onderwijs, bedrijfsleven en student. De naam is ook uniek in de kwalificatiestructuur. Het kwalificatiedossier bevat de kwalificaties die op basis van verwantschap in de beroepengroep gebundeld zijn.
 
 Dat betekent het volgende:
 
@@ -586,7 +586,7 @@ De kwaliteit van de kwalificatiestructuur, de afzonderlijke kwalificatiedossiers
 
 **De kwalificatiestructuur is **uitvoerbaar** voor onderwijs, bpv en examinering.**
 
-**De kwalificatiestructuur is **herkenbaar** voor bedrijfsleven, onderwijsinstellingen en deelnemers.**
+**De kwalificatiestructuur is **herkenbaar** voor bedrijfsleven, onderwijsinstellingen en studenten.**
 
 **De kwalificatiestructuur vormt een **transparant** en overzichtelijk geheel.**
 
@@ -656,7 +656,7 @@ In dit hoofdstuk wordt beschreven waaraan keuzedelen moeten voldoen gegeven de r
 
 ### 5.2. Karakteristieken van het keuzedeel
 
-Een keuzedeel levert voor de deelnemer een verrijking ten opzichte van de kwalificatie. Het kan verbreden of verdiepen of gericht zijn op doorstroom naar de vervolgopleiding.
+Een keuzedeel levert voor de student een verrijking ten opzichte van de kwalificatie. Het kan verbreden of verdiepen of gericht zijn op doorstroom naar de vervolgopleiding.
 
 ### 5.3. Inhoud keuzedeel
 
@@ -736,9 +736,9 @@ Een kwalificatiedossier bevat de kwalificatie-eisen voor een beroep of groep van
 
 Het toetsproces van de Toetsingskamer kent twee formele toetsmomenten: de Ingangstoets en de Eindtoets. Deze twee toetsmomenten zijn van toepassing op de afzonderlijke kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur.
 
-Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) in de Staatscourant geplaatst.
+Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2020-11-25&g=2020-11-25) in de Staatscourant geplaatst.
 
-De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) worden eveneens geplaatst op de websites:
+De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2020-11-25&g=2020-11-25) worden eveneens geplaatst op de websites:
 
 • www.s-bb.nl/kwalificatiedossiers; en
 
