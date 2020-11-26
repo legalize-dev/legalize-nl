@@ -4,7 +4,7 @@ identifier: "BWBR0015516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-26"
-last_updated: "2009-07-01"
+last_updated: "2020-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015516"
 soort: "ministeriele-regeling"
@@ -96,5 +96,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit tarieven in 
 ## Bijlage 3
 
 ## Bijlage 4
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
