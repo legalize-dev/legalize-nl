@@ -4,7 +4,7 @@ identifier: "BWBR0031719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-26"
-last_updated: "2016-12-10"
+last_updated: "2020-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031719"
 soort: "ministeriele-regeling"
@@ -54,21 +54,25 @@ De Stichting Normering Arbeid wordt aangewezen als bewerker in de zin van [artik
 
 ##### Artikel 3
 
-De inhoud van het verslag, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15), bevat in ieder geval de volgende elementen:
+1. Het verslag, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15), bevat in ieder geval de volgende elementen:
 
-- a. datum verslag;
+- a. de dagtekening van het verslag;
 
-- b. periode van onderzoek;
+- b. de periode waar het onderzoek betrekking op heeft;
 
-- c. onderneming die overtreding heeft begaan;
+- c. de onderneming waar het onderzoek betrekking op heeft;
 
-- d. overtreden wettelijke bepaling;
+- d. de wettelijke bepaling of bepalingen waar het onderzoek betrekking op heeft;
 
-- e. aanleiding onderzoek;
+- e. de aanleiding van het onderzoek; en
 
-- f. bevindingen;
+- f. de bevindingen van het onderzoek.
 
-- g. reactie onderneming die overtreding heeft begaan.
+2. Indien niet-naleving is geconstateerd bevat het verslag ook de reactie van de onderzochte onderneming op de bevindingen van het onderzoek, mits deze reactie door Onze Minister is ontvangen binnen vier weken nadat aan de onderneming een afschrift van de bevindingen is verstrekt.
+
+3. Het afschrift wordt gelijktijdig ter informatie verstrekt aan de betrokken arbeidskracht of werkzoekende, aan de ondernemingsraad of personeelsvertegenwoordiging of aan de daarvoor in aanmerking komende organisatie van werknemers, indien deze partij de melding van de niet-naleving heeft gedaan die de aanleiding was voor het onderzoek.
+
+4. Verstrekkingen gebeuren schriftelijk of elektronisch.
 
 ##### Artikel 4
 
