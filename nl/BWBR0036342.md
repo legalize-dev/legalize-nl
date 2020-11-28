@@ -4,7 +4,7 @@ identifier: "BWBR0036342"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-28"
-last_updated: "2015-02-26"
+last_updated: "2020-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036342"
 soort: "ministeriele-regeling"
@@ -68,6 +68,9 @@ Als luchthaven als bedoeld in [artikel 52, vijfde lid, van de Wet wapens en muni
 | Luchthaven Area Development Twente | Enschede | EHTW |
 | Luchthaven Volkel | Uden/Volkel | EHVK |
 | Luchthaven Woensdrecht | Woensdrecht | EHWO |
+| Luchthaven Oostwold | Oostwold | EHOW |
+| Luchthaven Middenmeer | Middenmeer |   |
+| Luchthaven Stadskanaal | Vledderveen | EHST |
 
 ##### Artikel 2
 
