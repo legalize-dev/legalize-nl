@@ -4,7 +4,7 @@ identifier: "BWBR0044318"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-12-08"
-last_updated: "2020-11-10"
+last_updated: "2020-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044318"
 soort: "ministeriele-regeling"
@@ -78,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 2. De minister stelt de specifieke uitkering vast nadat het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
-3. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044318&artikel=2&z=2020-11-10&g=2020-11-10), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+3. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044318&artikel=2&z=2020-11-10&g=2020-11-30), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 ##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044318&artikel=2&z=2020-11-10&g=2020-11-10) van de regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020, nr. 2020-0000602571, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen
+## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044318&artikel=2&z=2020-11-10&g=2020-11-30) van de regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020, nr. 2020-0000602571, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen
 
 De specifiek uitkering bedraagt voor de gemeente:
 
