@@ -4,7 +4,7 @@ identifier: "BWBR0034775"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2019-11-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034775"
 soort: "AMvB"
@@ -152,9 +152,11 @@ In dit besluit wordt verstaan onder:
 
 6. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft, die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178), [225, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227b), [323a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=323a), [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=364) en [420bis tot en met 420ter van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis) en de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) en [69a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69a), voor zover het feit valt onder de omschrijving van de artikelen 3, 4 en 5 van de richtlijn (EU) 2017/1371 van het Europees parlement en de Raad van 5 juli 2017 betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt (PbEU 2017, L 198).
 
-7. In de gevallen, bedoeld in tweede en het vierde lid, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats heeft gekregen.
+7. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft, die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 420bis tot en met 420ter van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), voor zover het feit valt onder de omschrijving van de artikelen 3 en 4 van richtlijn (EU) 2018/1673 van het Europees Parlement en de Raad van 23 oktober 2018 inzake de strafrechtelijke bestrijding van het witwassen van geld (PbEU 2018, L 284).
 
-8. De bijlage van dit besluit vermeldt de verdragen of besluiten van volkenrechtelijke organisaties die tot het vestigen van rechtsmacht als bedoeld in het eerste tot en met zesde lid verplichten.
+8. In de gevallen, bedoeld in tweede en het vierde lid, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats heeft gekregen.
+
+9. De bijlage van dit besluit vermeldt de verdragen of besluiten van volkenrechtelijke organisaties die tot het vestigen van rechtsmacht als bedoeld in het eerste tot en met vijfde lid verplichten.
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -168,25 +170,25 @@ Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extrater
 
 ## Bijlage. bij het Besluit internationale verplichtingen extraterritoriale rechtsmacht
 
-### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2019-11-01&g=2019-11-01)
+### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2019-11-01&g=2019-11-01)
+### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
+### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
+### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
 
-### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
+### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2020-12-01&g=2020-12-01)
 
 ### [Artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2019-11-01&g=2019-11-01)
 
