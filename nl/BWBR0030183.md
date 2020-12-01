@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-11-25"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-11-25&g=2020-11-25), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2020-12-01&g=2020-12-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
@@ -148,7 +148,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. Puerto Rico;
 
-- d. de Verenigde Staten van Amerika.
+- e. de Verenigde Staten van Amerika.
 
 2. De uitbetaling, bedoeld in het eerste lid, aan een mbo-student vindt plaats in de maanden augustus en december.
 
