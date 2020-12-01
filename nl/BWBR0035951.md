@@ -4,7 +4,7 @@ identifier: "BWBR0035951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035951"
 soort: "ministeriele-regeling"
@@ -52,11 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **ADL-assistentie:** gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
 
-- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-01-01&g=2020-01-01);
+- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01);
 
 - –. **ADL-eenheid:** ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
 
 - –. **ADL-woning:** woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen;
+
+- –. **Covid-19:** de ziekte veroorzaakt door coronavirus-SARS-CoV-2;
 
 - –. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
@@ -88,17 +90,19 @@ In deze regeling wordt verstaan onder:
 
 - a. de ADL-woning maakt deel uit van een cluster van ten minste vijftien en ten hoogste vierentwintig ADL-woningen en een ADL-eenheid;
 
-- b. het ADL-cluster heeft niet meer 4-kamerwoningen dan 3-kamerwoningen;
+- b. de loopafstand tussen de ADL-woningen en de ADL-eenheid is niet groter dan 150 meter en de loopafstand tussen de twee verst uit elkaar gelegen ADL-woningen is niet meer dan 200 meter;
 
-- c. de loopafstand tussen de ADL-woningen en de ADL-eenheid is niet groter dan 150 meter en de loopafstand tussen de twee verst uit elkaar gelegen ADL-woningen is niet meer dan 200 meter;
+- c. het ADL-cluster maakt deel uit van een wooncomplex van ten minste vijftig woningen;
 
-- d. het ADL-cluster maakt deel uit van een wooncomplex van ten minste vijftig woningen;
+- d. de ADL-woningen zijn in de totale woonbebouwing geïntegreerd, grenzen zo weinig mogelijk aan elkaar en zijn van buitenaf niet of nagenoeg niet als ADL-woning herkenbaar;
 
-- e. de ADL-woningen zijn in de totale woonbebouwing geïntegreerd, grenzen zo weinig mogelijk aan elkaar en zijn van buitenaf niet of nagenoeg niet als ADL-woning herkenbaar;
-
-- f. de ADL-woningen, de ADL-eenheid en het ADL-cluster voldoen aan het op 14 december 2006 door het toenmalige College voor zorgverzekeringen vastgestelde Programma van eisen en besteksbepalingen voor ADL-clusterprojecten.
+- e. de ADL-woning en de ADL-eenheid zijn rolstoeldoorgankelijk voor een rolstoel van 0,85 meter breed, 1,2 meter lang en 2,3 meter hoog met een draaicirkel van 1,8 meter.
 
 2. Indien voor de bouw van de ADL-woning een subsidie is verstrekt op grond van de [Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161), voldoet de ADL-woning in afwijking van het eerste lid aan de eisen die aan die subsidie verbonden waren.
+
+3. Voor subsidie komen in aanmerking de kosten van ADL-assistentie in en om een ADL-woning die voldoet aan de eisen, genoemd in het eerste lid, die in de periode van 1 maart 2020 tot en met 31 december 2020 als gevolg van Covid-19 niet is geleverd.
+
+4. Voor subsidie komen in aanmerking de extra gemaakte personele en materiële kosten bedoeld in artikel 6 van versie 4 van de Beleidsregel SARS-CoV-2 virus - BR/REG-20158c, die is gepubliceerd via https://puc.overheid.nl/nza/doc/PUC_308852_22/4/ voor ADL-assistentie in en om een ADL-woning die voldoet aan de eisen in het eerste lid, als gevolg van Covid-19 in de periode van 1 maart tot en met 31 december 2020.
 
 ##### Artikel 1.4
 
@@ -112,29 +116,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.5
 
-De subsidie wordt per kalenderjaar verstrekt.
+De subsidie, bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01), wordt per kalenderjaar verstrekt.
 
 ##### Artikel 1.6
 
-1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2020 € 104.724.000.
+1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2021 € 106.745.000.
 
-2. Het bedrag van de subsidie die voor het jaar 2020 ten hoogste wordt verleend aan een subsidieontvanger wordt berekend overeenkomstig de formule
+2. Het bedrag van de subsidie die voor het jaar 2021 ten hoogste wordt verleend aan een subsidieontvanger wordt berekend overeenkomstig de formule
 
-(A / B) x € 104.724.000
+(A / B) x € 106.745.000
 
 waarbij wordt verstaan onder:
 
 A: de som van:
 
-- 1°. het totaal aantal uren ADL-assistentie vermeld in de beschikking tot verlening van de subsidie op grond van deze regeling voor het jaar 2019 en
+- 1°. het totaal aantal uren ADL-assistentie vermeld in de beschikking tot verlening van de subsidie op grond van deze regeling voor het jaar 2020 en
 
-- 2°. een raming van het aantal in 2020 te verlenen uren ADL-assistentie in en om een ADL-woning waarop de beschikking, bedoeld onder 1°, niet van toepassing is en waarmee het aantal ADL-woningen waar de subsidieontvanger ADL-assistentie aanbiedt is toegenomen;
+- 2°. een raming van het aantal in 2021 te verlenen uren ADL-assistentie in en om een ADL-woning waarop de beschikking, bedoeld onder 1°, niet van toepassing is en waarmee het aantal ADL-woningen waar de subsidieontvanger ADL-assistentie aanbiedt is toegenomen;
 
 B: de som van A voor alle subsidieontvangers.
 
 3. De raming, bedoeld in het tweede lid, onderdeel A, onder 2°, wordt gebaseerd op het aantal ADL-woningen en een berekening van de behoefte aan ADL-assistentie in en om die woningen.
 
-4. De subsidie die aan een subsidieontvanger voor het jaar 2020 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2020-01-01&g=2020-01-01).
+4. De subsidie die aan een subsidieontvanger voor het jaar 2021 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2020-12-01&g=2020-12-01).
+
+5. Dit artikel is niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -150,9 +156,9 @@ B: de som van A voor alle subsidieontvangers.
 
 De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
-- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-01-01&g=2020-01-01), en
+- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-12-01&g=2020-12-01), en
 
-- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-01-01&g=2020-01-01).
+- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-12-01&g=2020-12-01).
 
 ##### Artikel 2.3
 
@@ -164,7 +170,7 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
-- a. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-01-01&g=2020-01-01).
+- a. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2020-12-01&g=2020-12-01).
 
 - b. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;
 
@@ -240,7 +246,9 @@ De subsidieontvanger zorgt ervoor dat:
 
 - b. het aantal verleende uren ADL-assistentie per verzekerde gedurende de periode dat deze verzekerde beschikt over het oordeel van het CIZ en woonachtig is in een ADL-woning van de subsidieontvanger;
 
-- c. de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen.
+- c. de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen;
+
+- d. het totaal aantal niet-verleende uren ADL-assistentie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01).
 
 2. De administratie wordt op overzichtelijke, controleerbare en doelmatige wijze ingericht.
 
@@ -294,17 +302,13 @@ Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen a
 
 ##### Artikel 5.4
 
-1. De aanvraag tot vaststelling gaat vergezeld van:
-
-- a. een assurancerapport van een accountant dat is opgesteld overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol;
-
-- b. een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger, opgesteld door een accountant overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.
+1. De aanvraag tot vaststelling gaat vergezeld van een assurancerapport van een accountant dat is opgesteld overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.
 
 2. Op verzoek van het Zorginstituut legt de subsidieontvanger in aanvulling op de aanvraag tot vaststelling van de subsidie een jaarrekening over.
 
 ##### Artikel 5.5
 
-De subsidie ten behoeve van het jaar 2020 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 67,08 tot ten hoogste het maximum bedrag van de verleende subsidie.
+De subsidie ten behoeve van het jaar 2021 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 68,37 tot ten hoogste het maximum bedrag van de verleende subsidie.
 
 ##### Artikel 5.6
 
@@ -323,5 +327,71 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 ##### Artikel 6.3
 
 Deze regeling wordt aangehaald als: Subsidieregeling ADL-assistentie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 1.7
+
+1. De [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&z=2020-12-01&g=2020-12-01) zijn, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.5&z=2020-12-01&g=2020-12-01), niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01).
+
+2. [Hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5a&z=2020-12-01&g=2020-12-01) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01).
+
+### Hoofdstuk 2. Aanvraag
+
+### Hoofdstuk 3. Verlening
+
+### Hoofdstuk 4. Bevoorschotting en verplichtingen
+
+### Hoofdstuk 5. Vaststelling
+
+### Hoofdstuk 5a. Subsidies in verband met Covid-19
+
+##### Artikel 5a.1
+
+1. Het subsidieplafond voor het verstrekken van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01), bedraagt € 15.000.000.
+
+2. Het subsidieplafond voor het verstrekken van de subsidie, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01), bedraagt € 3.700.000.
+
+3. De bedragen, bedoeld in het eerste en tweede lid, worden evenredig verdeeld over alle subsidieaanvragers die in aanmerking komen voor subsidie.
+
+##### Artikel 5a.2
+
+1. De subsidie voor kosten van niet-geleverde uren ADL-assistentie bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01) wordt, voor zover dit getal positief is, berekend overeenkomstig de volgende formule:
+
+(A x (366/29)) - B) x € 67,08
+
+waarbij wordt verstaan onder:
+
+A: het aantal geleverde uren ADL-assistentie in februari 2020;
+
+B: het totaal aantal in 2020 door de subsidieaanvrager geleverde uren ADL-assistentie.
+
+2. De subsidie ten behoeve van extra gemaakte personele en materiële kosten als gevolg van Covid-19 bedraagt het totaal aan extra gemaakte personele en materiële kosten als bedoeld in artikel 6 van versie 4 van de Beleidsregel SARS-CoV-2 virus - BR/REG-20158c, die is gepubliceerd via https://puc.overheid.nl/nza/doc/PUC_308852_22/4/.
+
+##### Artikel 5a.3
+
+1. De subsidie wordt op aanvraag verstrekt.
+
+2. De aanvraag van de subsidie wordt uiterlijk 1 juli 2021 ontvangen.
+
+3. Een aanvraag na de datum, bedoeld in het tweede lid, wordt afgewezen.
+
+4. De aanvrager doet in de aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01), opgave van:
+
+- a. het totaal aantal geleverde uren ADL-assistentie in 2020;
+
+- b. het totaal aantal geleverde uren ADL-assistentie in februari 2020.
+
+5. De aanvrager doet in de aanvraag van de subsidie, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2020-12-01&g=2020-12-01), opgave van de gemaakte personele en materiële kosten, bedoeld in artikel 1.3 vierde lid.
+
+6. Voor een aanvraag van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.
+
+7. Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
+
+8. De aanvraag gaat vergezeld van een assurancerapport van een accountant die is opgesteld overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.
+
+9. De subsidie wordt vastgesteld zonder voorafgaande beschikking tot subsidieverlening.
+
+### Hoofdstuk 6. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
