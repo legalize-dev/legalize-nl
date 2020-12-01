@@ -4,7 +4,7 @@ identifier: "BWBR0036630"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-12-01"
-last_updated: "2020-06-04"
+last_updated: "2020-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036630"
 soort: "beleidsregel"
@@ -55,6 +55,8 @@ In deze beleidsregels wordt verstaan onder:
 3. In het geval van activiteiten die onder de reikwijdte van de [artikelen C5, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C) en [Ha4, onderdelen b, c en d, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Ha), vallen kunnen de in de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487) genoemde maximale bedragen worden vergoed in de vorm van niet terugvorderbare forfaitaire bedragen, zoals ingeval van beperkte steun voor het opbouwen van economische activiteiten en geldelijke stimulansen voor terugkeerders. Het bieden van financiële ondersteuning is vooralsnog alleen voorbehouden aan de Internationale Organisatie voor Migratie die voor de Nederlandse overheid ook de Herintegratieregeling Terugkeer uitvoert en de Dienst Terugkeer & Vertrek die verantwoordelijk is voor de regie en de uitvoering van het terugkeerbeleid.
 
 4. Bijstandsmaatregelen na terugkeer naar een derde land, zoals bijstand op het gebied van opleiding en werk, korte termijnmaatregelen om de herintegratie op gang te brengen, en hulp na terugkeer zoals respectievelijk beschreven in [bijlage C van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C), mogen niet langer duren dan twaalf maanden na de datum van terugkeer van de onderdaan van het derde land.
+
+5. De termijn, bedoeld in het vierde lid, wordt verlengd met de periode dat de bijstandsmaatregelen als gevolg van beperkende voorschriften die gelden in het kader van de COVID-19 pandemie niet of niet volledig kunnen worden uitgevoerd, met een maximum van twaalf maanden.
 
 ##### Artikel 3. Reiskosten en verblijfskosten buitenland
 
