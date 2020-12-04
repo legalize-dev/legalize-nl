@@ -4,7 +4,7 @@ identifier: "BWBR0021777"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-16"
-last_updated: "2020-09-27"
+last_updated: "2020-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021777"
 soort: "wet"
@@ -123,9 +123,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. Onze Minister: Onze Minister van Economische Zaken en Klimaat;
 
-- b. onderneming: een onderneming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-09-27&g=2020-09-27);
+- b. onderneming: een onderneming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-12-04&g=2020-12-04);
 
-- c. rechtspersoon: een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27);
+- c. rechtspersoon: een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04);
 
 - d. publiekrechtelijke rechtspersoon: een publiekrechtelijke rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1);
 
@@ -135,7 +135,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - g. authentiek gegeven: een in een basisregister opgenomen gegeven dat bij of krachtens wet als authentiek wordt aangemerkt;
 
-- h. handelsregister: het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-09-27&g=2020-09-27);
+- h. handelsregister: het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-12-04&g=2020-12-04);
 
 - i. Kamer: de Kamer van Koophandel, genoemd in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
 
@@ -223,7 +223,7 @@ In het handelsregister worden de volgende ondernemingen ingeschreven:
 
 ##### Artikel 7
 
-Indien aan een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27) een onderneming toebehoort die als zodanig overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-09-27&g=2020-09-27) moet worden ingeschreven, geldt de inschrijving van de onderneming tevens als inschrijving van de rechtspersoon.
+Indien aan een rechtspersoon als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04) een onderneming toebehoort die als zodanig overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-12-04&g=2020-12-04) moet worden ingeschreven, geldt de inschrijving van de onderneming tevens als inschrijving van de rechtspersoon.
 
 ##### Artikel 8
 
@@ -249,7 +249,7 @@ In het handelsregister worden over een onderneming opgenomen:
 
 ##### Artikel 10
 
-1. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een rechtspersoon is, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-09-27&g=2020-09-27) genoemde gegevens opgenomen.
+1. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een rechtspersoon is, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-12-04&g=2020-12-04) genoemde gegevens opgenomen.
 
 2. In het handelsregister worden over degene aan wie een onderneming toebehoort, indien deze een natuurlijke persoon is, opgenomen:
 
@@ -349,11 +349,11 @@ In het handelsregister worden over een activiteit van een rechtspersoon waaraan 
 
 ##### Artikel 15
 
-De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27) genoemde gegevens zijn authentieke gegevens.
+De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04) genoemde gegevens zijn authentieke gegevens.
 
 ##### Artikel 16
 
-1. In het handelsregister worden gegevens opgenomen die noodzakelijk zijn voor een goede vastlegging en verstrekking van de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27) bedoelde gegevens en gegevens omtrent de herkomst van die gegevens.
+1. In het handelsregister worden gegevens opgenomen die noodzakelijk zijn voor een goede vastlegging en verstrekking van de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04) bedoelde gegevens en gegevens omtrent de herkomst van die gegevens.
 
 2. In het handelsregister wordt indien een authentiek gegeven in onderzoek is, een aantekening opgenomen dat het gegeven in onderzoek is.
 
@@ -361,17 +361,17 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 1. In het handelsregister wordt de door een publiekrechtelijke rechtspersoon verleende volmacht tot het verrichten van privaatrechtelijke rechtshandelingen opgenomen.
 
-2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2020-09-27&g=2020-09-27) is niet van toepassing op de in het eerste lid bedoelde gegevens.
+2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.3&artikel=25&z=2020-12-04&g=2020-12-04) is niet van toepassing op de in het eerste lid bedoelde gegevens.
 
 ##### Artikel 17
 
 1. Bij algemene maatregel van bestuur kan worden bepaald:
 
-- a. dat andere gegevens dan de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27) genoemde gegevens in het handelsregister worden opgenomen of dat bescheiden bij het handelsregister worden gedeponeerd voor zover dit van belang is voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-09-27&g=2020-09-27) genoemde doelen en er geen gewichtige redenen zijn die zich daartegen verzetten;
+- a. dat andere gegevens dan de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04) genoemde gegevens in het handelsregister worden opgenomen of dat bescheiden bij het handelsregister worden gedeponeerd voor zover dit van belang is voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-12-04&g=2020-12-04) genoemde doelen en er geen gewichtige redenen zijn die zich daartegen verzetten;
 
 - b. dat in het handelsregister opgenomen gegevens worden overgenomen uit een ander basisregister;
 
-- c. dat voor de in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), bedoelde rechtspersonen bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-09-27&g=2020-09-27), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-09-27&g=2020-09-27) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2020-09-27&g=2020-09-27) bedoelde gegevens niet behoeven te worden ingeschreven.
+- c. dat voor de in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), bedoelde rechtspersonen bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-12-04&g=2020-12-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-12-04&g=2020-12-04) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2020-12-04&g=2020-12-04) bedoelde gegevens niet behoeven te worden ingeschreven.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -379,7 +379,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 18
 
-1. Tot het doen van opgave ter inschrijving in het handelsregister is verplicht degene aan wie een onderneming toebehoort, of, indien het de inschrijving betreft van een rechtspersoon als bedoeld in [artikel 6, eerste lid, onderdeel a en b, het tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), ieder der bestuurders van de rechtspersoon.
+1. Tot het doen van opgave ter inschrijving in het handelsregister is verplicht degene aan wie een onderneming toebehoort, of, indien het de inschrijving betreft van een rechtspersoon als bedoeld in [artikel 6, eerste lid, onderdeel a en b, het tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), ieder der bestuurders van de rechtspersoon.
 
 2. Indien het eerste lid niet van toepassing is, is tot het doen van opgave ter inschrijving in het handelsregister verplicht degene die belast is met de dagelijkse leiding van een onderneming of rechtspersoon.
 
@@ -393,7 +393,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 19
 
-1. De daartoe verplichte personen doen, met inachtneming van het bij algemene maatregel van bestuur bepaalde, de opgaven die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27), [15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2020-09-27&g=2020-09-27), genoemde en de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-09-27&g=2020-09-27), bedoelde gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.
+1. De daartoe verplichte personen doen, met inachtneming van het bij algemene maatregel van bestuur bepaalde, de opgaven die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04), [15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2020-12-04&g=2020-12-04), genoemde en de in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-12-04&g=2020-12-04), bedoelde gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.
 
 2. Het eerste lid is van overeenkomstige toepassing op het deponeren van bescheiden.
 
@@ -431,13 +431,13 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 21
 
-1. De in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-09-27&g=2020-09-27), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2020-09-27&g=2020-09-27), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-09-27&g=2020-09-27), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-09-27&g=2020-09-27), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2020-09-27&g=2020-09-27), [15a, tweede lid, met uitzondering van de onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-09-27&g=2020-09-27), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2020-09-27&g=2020-09-27), genoemde gegevens, de in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-09-27&g=2020-09-27), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden, met uitzondering van de bescheiden, bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), kunnen door een ieder worden ingezien.
+1. De in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04), [10, met uitzondering van het tweede lid, onderdeel a en het derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-12-04&g=2020-12-04), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2020-12-04&g=2020-12-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2020-12-04&g=2020-12-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-12-04&g=2020-12-04), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2020-12-04&g=2020-12-04), [15a, tweede lid, met uitzondering van de onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-12-04&g=2020-12-04), en [16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16a&z=2020-12-04&g=2020-12-04), genoemde gegevens, de in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-12-04&g=2020-12-04), bedoelde gegevens, en de krachtens wettelijk voorschrift gedeponeerde bescheiden, met uitzondering van de bescheiden, bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), kunnen door een ieder worden ingezien.
 
 2. Een handtekening kan niet in elektronische vorm worden ingezien.
 
 ##### Artikel 22
 
-1. De Kamer verstrekt op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van of uittreksel uit de gegevens en bescheiden, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2020-09-27&g=2020-09-27).
+1. De Kamer verstrekt op elektronisch verzoek, indien gewenst in elektronische vorm, een afschrift van of uittreksel uit de gegevens en bescheiden, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2020-12-04&g=2020-12-04).
 
 2. De Kamer verstrekt op elektronisch verzoek gegevens van algemene, feitelijke aard omtrent de samenstelling van ondernemingen en rechtspersonen uit het handelsregister ter bevordering van de economische belangen van handel, industrie, ambacht en dienstverlening. Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen worden deze gegevens niet gerangschikt naar natuurlijke personen.
 
@@ -447,7 +447,7 @@ De in [artikel 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2020-09-27&g=2020-09-27), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2020-09-27&g=2020-09-27) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2020-09-27&g=2020-09-27).
+Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven voor daarbij aangewezen gegevens of bescheiden of categorieën van gegevens of bescheiden, beperkingen worden vastgesteld ten aanzien van het bepaalde in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=21&z=2020-12-04&g=2020-12-04), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2020-12-04&g=2020-12-04) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2020-12-04&g=2020-12-04).
 
 #### § 4.2. Publicatie inschrijvingen
 
@@ -463,11 +463,11 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 ##### Artikel 25
 
-1. Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering en, voor zover van toepassing, de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-09-27&g=2020-09-27) bedoelde mededeling niet hebben plaatsgevonden.
+1. Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering en, voor zover van toepassing, de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-12-04&g=2020-12-04) bedoelde mededeling niet hebben plaatsgevonden.
 
-2. Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-09-27&g=2020-09-27) kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op deze termijn niet van toepassing.
+2. Indien de derde aantoont dat hij onmogelijk kennis heeft kunnen nemen van een mededeling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-12-04&g=2020-12-04) kan hij zich erop beroepen dat hij van het bekendgemaakte feit onkundig was, mits dit beroep betrekking heeft op hetgeen heeft plaatsgevonden binnen vijftien dagen nadat de mededeling was geschied. De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op deze termijn niet van toepassing.
 
-3. Degene aan wie een onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving of van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-09-27&g=2020-09-27) bedoelde mededeling tegenwerpen. Met de inschrijving wordt de deponering van bescheiden gelijkgesteld.
+3. Degene aan wie een onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving of van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.2&artikel=24&z=2020-12-04&g=2020-12-04) bedoelde mededeling tegenwerpen. Met de inschrijving wordt de deponering van bescheiden gelijkgesteld.
 
 4. Dit artikel is niet van toepassing ten aanzien van:
 
@@ -477,7 +477,7 @@ Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke le
 
 - c. de bij algemene maatregel van bestuur aangewezen gegevens;
 
-- d. de gegevens, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), en de bescheiden, bedoeld in artikel 15a, derde lid.
+- d. de gegevens, bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), en de bescheiden, bedoeld in artikel 15a, derde lid.
 
 ##### Artikel 26
 
@@ -489,11 +489,11 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 1. De volgende in het handelsregister ingeschreven ondernemingen of rechtspersonen zorgen ervoor dat op alle van die onderneming of die rechtspersoon uitgaande brieven, orders, facturen, offertes en andere aankondigingen, met uitzondering van reclames, is vermeld onder welk nummer deze in het handelsregister is ingeschreven:
 
-- a. de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-09-27&g=2020-09-27) en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), genoemde ondernemingen en rechtspersonen;
+- a. de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-12-04&g=2020-12-04) en [6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), genoemde ondernemingen en rechtspersonen;
 
-- b. de in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), genoemde rechtspersonen, tenzij stukken uitgaan van een rechtspersoon waaraan geen onderneming toebehoort.
+- b. de in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), genoemde rechtspersonen, tenzij stukken uitgaan van een rechtspersoon waaraan geen onderneming toebehoort.
 
-2. Het in het eerste lid bedoelde nummer is het nummer, bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-09-27&g=2020-09-27), of in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-09-27&g=2020-09-27).
+2. Het in het eerste lid bedoelde nummer is het nummer, bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2020-12-04&g=2020-12-04), of in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2020-12-04&g=2020-12-04).
 
 3. Bij ministeriële regeling kan vrijstelling worden verleend van het in het eerste lid bepaalde. Een vrijstelling kan niet worden verleend:
 
@@ -507,11 +507,11 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 ##### Artikel 28
 
-1. De in [artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-09-27&g=2020-09-27), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-09-27&g=2020-09-27), bedoelde gegevens kunnen worden ingezien door een bestuursorgaan in het kader van de uitoefening van zijn wettelijke taak of bevoegdheid of een rechtspersoon met een overheidstaak als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) in het kader van de uitoefening van zijn wettelijke bevoegdheid.
+1. De in [artikel 10, tweede lid, onderdeel a, en derde lid, onderdeel e, onder 1°, eerste gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2020-12-04&g=2020-12-04), en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-12-04&g=2020-12-04), bedoelde gegevens kunnen worden ingezien door een bestuursorgaan in het kader van de uitoefening van zijn wettelijke taak of bevoegdheid of een rechtspersoon met een overheidstaak als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) in het kader van de uitoefening van zijn wettelijke bevoegdheid.
 
-2. De in [artikel 15a, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), genoemde gegevens en de in artikel 15a, derde lid, genoemde bescheiden kunnen door de Financiële inlichtingen eenheid of een bij algemene maatregel van bestuur aangewezen bevoegde autoriteit worden ingezien.
+2. De in [artikel 15a, tweede lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), genoemde gegevens en de in artikel 15a, derde lid, genoemde bescheiden kunnen door de Financiële inlichtingen eenheid of een bij algemene maatregel van bestuur aangewezen bevoegde autoriteit worden ingezien.
 
-3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2020-09-27&g=2020-09-27) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste of tweede lid.
+3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2020-12-04&g=2020-12-04) is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste of tweede lid.
 
 4. Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) of rechtspersoon met een overheidstaak als bedoeld in [artikel 1, onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=1) worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door:
 
@@ -533,13 +533,13 @@ De Kamer draagt zorg voor mededeling aan het Bureau voor officiële publicaties 
 
 - i. vervallen;
 
-- j. vervallen;
+- j. Onze verantwoordelijke Minister als bedoeld in de [Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449), indien deze op grond van [artikel 4, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4) gebruik maakt van gegevens uit het handelsregister;
 
 - k. Onze Minister van Sociale Zaken en Werkgelegenheid en de colleges van burgemeester en wethouders voor hun taak, bedoeld in [artikel 1.47a van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47a).
 
 5. Bij het verstrekken van gegevens en bescheiden omtrent de uiteindelijk belanghebbenden worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen, indien het verzoek daartoe wordt gedaan door de Financiële inlichtingen eenheid of een krachtens het tweede lid aangewezen bevoegde autoriteit, voor zover de Financiële inlichtingen eenheid of die bevoegde autoriteit handelt in het kader van de uitoefening van haar wettelijke taak of bevoegdheid.
 
-6. De Kamer verstrekt de gegevens en bescheiden omtrent een uiteindelijk belanghebbende aan de Financiële inlichtingen eenheid of aan een krachtens het tweede lid aangewezen bevoegde autoriteit op een zodanige wijze dat de vennootschap of andere juridische entiteit, bedoeld in [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), geen weet heeft van de verstrekking.
+6. De Kamer verstrekt de gegevens en bescheiden omtrent een uiteindelijk belanghebbende aan de Financiële inlichtingen eenheid of aan een krachtens het tweede lid aangewezen bevoegde autoriteit op een zodanige wijze dat de vennootschap of andere juridische entiteit, bedoeld in [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), geen weet heeft van de verstrekking.
 
 ##### Artikel 29
 
@@ -555,7 +555,7 @@ Vervallen
 
 - a. in het handelsregister is opgenomen dat een gegeven in onderzoek is;
 
-- b. het bestuursorgaan een melding doet als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-09-27&g=2020-09-27);
+- b. het bestuursorgaan een melding doet als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-12-04&g=2020-12-04);
 
 - c. bij wettelijk voorschrift anders is bepaald;
 
@@ -565,7 +565,7 @@ Vervallen
 
 ##### Artikel 31
 
-Een onderneming of rechtspersoon aan wie door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) een gegeven wordt gevraagd, waarop [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2020-09-27&g=2020-09-27), van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon.
+Een onderneming of rechtspersoon aan wie door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) een gegeven wordt gevraagd, waarop [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2020-12-04&g=2020-12-04), van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon.
 
 ### Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
 
@@ -575,11 +575,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 33
 
-Indien de melding betrekking heeft op een gegeven dat ingevolge [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-09-27&g=2020-09-27), uit een ander register is overgenomen, zendt de Kamer deze melding aan de beheerder van het register waaruit dit gegeven afkomstig is.
+Indien de melding betrekking heeft op een gegeven dat ingevolge [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=17&z=2020-12-04&g=2020-12-04), uit een ander register is overgenomen, zendt de Kamer deze melding aan de beheerder van het register waaruit dit gegeven afkomstig is.
 
 ##### Artikel 34
 
-1. Indien een melding als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-09-27&g=2020-09-27), niet is doorgezonden naar de beheerder van een ander register, tekent de Kamer binnen een bij ministeriële regeling vastgestelde termijn aan dat het gegeven in onderzoek is, tenzij de Kamer binnen deze termijn beslist over de wijziging van dat gegeven.
+1. Indien een melding als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-12-04&g=2020-12-04), niet is doorgezonden naar de beheerder van een ander register, tekent de Kamer binnen een bij ministeriële regeling vastgestelde termijn aan dat het gegeven in onderzoek is, tenzij de Kamer binnen deze termijn beslist over de wijziging van dat gegeven.
 
 2. Indien een gegeven in onderzoek is, beslist de Kamer over wijziging van dat gegeven.
 
@@ -589,39 +589,39 @@ Indien de melding betrekking heeft op een gegeven dat ingevolge [artikel 17, ond
 
 ##### Artikel 35
 
-De beslissing, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27), geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+De beslissing, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04), geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 ##### Artikel 36
 
-1. Indien tegen een beslissing, bedoeld in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27), bezwaar wordt gemaakt of beroep wordt ingesteld, tekent, voor zover dit nog niet het geval is, de Kamer in het handelsregister aan dat een gegeven in onderzoek is.
+1. Indien tegen een beslissing, bedoeld in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04), bezwaar wordt gemaakt of beroep wordt ingesteld, tekent, voor zover dit nog niet het geval is, de Kamer in het handelsregister aan dat een gegeven in onderzoek is.
 
 2. Nadat op het bezwaar of beroep onherroepelijk is beslist, schrijft de Kamer indien nodig een wijziging in het handelsregister in en verwijdert de Kamer de aantekening dat een gegeven in onderzoek is.
 
 ##### Artikel 37
 
-Op een melding als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-09-27&g=2020-09-27), zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-09-27&g=2020-09-27), [34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2020-09-27&g=2020-09-27) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2020-09-27&g=2020-09-27) van overeenkomstige toepassing.
+Op een melding als bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-12-04&g=2020-12-04), zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-12-04&g=2020-12-04), [34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2020-12-04&g=2020-12-04) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2020-12-04&g=2020-12-04) van overeenkomstige toepassing.
 
 ##### Artikel 38
 
-1. Indien de Kamer gerede twijfel heeft over de juistheid van authentieke gegevens, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-09-27&g=2020-09-27) van overeenkomstige toepassing.
+1. Indien de Kamer gerede twijfel heeft over de juistheid van authentieke gegevens, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-12-04&g=2020-12-04) van overeenkomstige toepassing.
 
 2. Bij algemene maatregel van bestuur kunnen niet-authentieke gegevens worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.
 
-3. Op een verzoek als bedoeld in de artikelen 16 en 17 van de Algemene verordening gegevensbescherming, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-09-27&g=2020-09-27) van overeenkomstige toepassing.
+3. Op een verzoek als bedoeld in de artikelen 16 en 17 van de Algemene verordening gegevensbescherming, zijn de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-12-04&g=2020-12-04) van overeenkomstige toepassing.
 
 ##### Artikel 39
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot:
 
-- a. de melding, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-09-27&g=2020-09-27);
+- a. de melding, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-12-04&g=2020-12-04);
 
-- b. de doorzending van de melding, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-09-27&g=2020-09-27);
+- b. de doorzending van de melding, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-12-04&g=2020-12-04);
 
-- c. het plaatsen van de aantekening in onderzoek, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27);
+- c. het plaatsen van de aantekening in onderzoek, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04);
 
-- d. het besluit over de melding, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27);
+- d. het besluit over de melding, bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04);
 
-- e. de gegevens die over de terugmelding en het onderzoek in het register worden opgenomen ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-09-27&g=2020-09-27);
+- e. de gegevens die over de terugmelding en het onderzoek in het register worden opgenomen ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=16&z=2020-12-04&g=2020-12-04);
 
 - f. de criteria om een inschrijving te weigeren.
 
@@ -651,13 +651,13 @@ De Kamer treft maatregelen die ertoe strekken te waarborgen dat het handelsregis
 
 1. De Kamer stelt een protocol op, dat betrekking heeft op:
 
-- a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2020-09-27&g=2020-09-27);
+- a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2020-12-04&g=2020-12-04);
 
-- b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=40&z=2020-09-27&g=2020-09-27);
+- b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=40&z=2020-12-04&g=2020-12-04);
 
-- c. de controle, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-09-27&g=2020-09-27);
+- c. de controle, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-12-04&g=2020-12-04);
 
-- d. de procedure voor de behandeling van klachten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.3&artikel=48&z=2020-09-27&g=2020-09-27).
+- d. de procedure voor de behandeling van klachten, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.3&artikel=48&z=2020-12-04&g=2020-12-04).
 
 2. Het protocol behoeft de goedkeuring van Onze Minister. Onze Minister handelt daarbij in overeenstemming met Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid voor het deel van het handelsregister dat betrekking heeft op de gegevens en bescheiden omtrent uiteindelijk belanghebbenden.
 
@@ -707,7 +707,7 @@ De Kamer draagt zorg voor een procedure voor de behandeling van klachten over de
 
 2. Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld voor het bepalen van de hoogte van de inschrijfvergoeding waarbij rechtsvorm van de onderneming of rechtspersoon en de wijze waarop opgave wordt gedaan in aanmerking kunnen worden genomen.
 
-3. Zelfstandige onderdelen van een kerkgenootschap en lichamen waarin zij zijn verenigd zijn de inschrijfvergoeding, bedoeld in het eerste lid, niet verschuldigd bij een opgave ter inschrijving ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27).
+3. Zelfstandige onderdelen van een kerkgenootschap en lichamen waarin zij zijn verenigd zijn de inschrijfvergoeding, bedoeld in het eerste lid, niet verschuldigd bij een opgave ter inschrijving ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04).
 
 4. De inschrijfvergoeding is verschuldigd zonder dat deze bij beschikking is vastgesteld.
 
@@ -755,7 +755,7 @@ De [Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893) ve
 
 2. Indien op het tijdstip van inwerkingtreding van deze wet in het handelsregister gegevens staan ingeschreven die niet op grond van een wettelijk voorschrift behoeven te worden ingeschreven, haalt de Kamer die gegevens binnen drie maanden na het eerder genoemde tijdstip door.
 
-3. In afwijking van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=20&z=2020-09-27&g=2020-09-27), doen vennootschappen en andere juridische entiteiten die op het tijdstip van inwerkingtreding van de [Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten](onbekend) zijn ingeschreven in het handelsregister, de eerste opgave van gegevens en deponering van bescheiden als bedoeld in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), binnen 18 maanden na dat tijdstip.
+3. In afwijking van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=20&z=2020-12-04&g=2020-12-04), doen vennootschappen en andere juridische entiteiten die op het tijdstip van inwerkingtreding van de [Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten](onbekend) zijn ingeschreven in het handelsregister, de eerste opgave van gegevens en deponering van bescheiden als bedoeld in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), binnen 18 maanden na dat tijdstip.
 
 ##### Artikel 58
 
@@ -763,17 +763,17 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze betrokken Ministe
 
 ##### Artikel 59
 
-1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2020-09-27&g=2020-09-27) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
+1. In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.2&artikel=30&z=2020-12-04&g=2020-12-04) kunnen gedurende zes jaar na de inwerkingtreding van artikel 30 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 30 genoemde verplichting uitsluitend geldt.
 
-2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-09-27&g=2020-09-27) kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.
+2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=32&z=2020-12-04&g=2020-12-04) kunnen gedurende zes jaar na de inwerkingtreding van artikel 32 bij ministeriële regeling, in overeenstemming met Onze betrokken Ministers, bestuursorganen worden aangewezen voor wie de in artikel 32 genoemde verplichting uitsluitend geldt.
 
 ##### Artikel 60
 
-In afwijking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-09-27&g=2020-09-27) geschiedt de controle, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-09-27&g=2020-09-27), gedurende zes jaar na de inwerkingtreding van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-09-27&g=2020-09-27), eens per twee jaar.
+In afwijking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-12-04&g=2020-12-04) geschiedt de controle, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-12-04&g=2020-12-04), gedurende zes jaar na de inwerkingtreding van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=7&artikel=41&z=2020-12-04&g=2020-12-04), eens per twee jaar.
 
 ##### Artikel 61
 
-Bij algemene maatregel van bestuur kan gedurende vier jaar na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-09-27&g=2020-09-27), met het oog op een goede invoering van deze wet regels stellen waarbij zo nodig kan worden afgeweken van het bepaalde bij en krachtens deze wet.
+Bij algemene maatregel van bestuur kan gedurende vier jaar na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-12-04&g=2020-12-04), met het oog op een goede invoering van deze wet regels stellen waarbij zo nodig kan worden afgeweken van het bepaalde bij en krachtens deze wet.
 
 ##### Artikel 62
 
@@ -897,7 +897,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15a
 
-1. In het handelsregister wordt opgenomen wie de uiteindelijk belanghebbende is of de uiteindelijk belanghebbenden zijn van vennootschappen of andere juridische entiteiten als bedoeld in [artikel 10a, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10a) die overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-09-27&g=2020-09-27) of [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27), zijn ingeschreven in het handelsregister, met uitzondering van verenigingen van eigenaars en overige privaatrechtelijke rechtspersonen als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-09-27&g=2020-09-27).
+1. In het handelsregister wordt opgenomen wie de uiteindelijk belanghebbende is of de uiteindelijk belanghebbenden zijn van vennootschappen of andere juridische entiteiten als bedoeld in [artikel 10a, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10a) die overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2020-12-04&g=2020-12-04) of [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04), zijn ingeschreven in het handelsregister, met uitzondering van verenigingen van eigenaars en overige privaatrechtelijke rechtspersonen als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2020-12-04&g=2020-12-04).
 
 2. In het handelsregister wordt over een uiteindelijk belanghebbende opgenomen:
 
@@ -931,13 +931,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 38a
 
-1. Een krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2020-09-27&g=2020-09-27), aangewezen bevoegde autoriteit doet melding aan de Kamer van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft
+1. Een krachtens [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2020-12-04&g=2020-12-04), aangewezen bevoegde autoriteit doet melding aan de Kamer van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft
 
 gekregen uit het handelsregister en de informatie over die uiteindelijk belanghebbende waarover zij uit anderen hoofde beschikt.
 
 2. Het eerste lid is niet van toepassing indien nakoming van de in dat lid neergelegde verplichting de uitoefening van de wettelijke taak of bevoegdheid van de betreffende bevoegde autoriteit onnodig zou doorkruisen.
 
-3. Op een melding als bedoeld in het eerste lid is het bepaalde bij of krachtens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-09-27&g=2020-09-27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-09-27&g=2020-09-27), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2020-09-27&g=2020-09-27) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2020-09-27&g=2020-09-27) van toepassing.
+3. Op een melding als bedoeld in het eerste lid is het bepaalde bij of krachtens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=33&z=2020-12-04&g=2020-12-04), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=34&z=2020-12-04&g=2020-12-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=35&z=2020-12-04&g=2020-12-04) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=6&artikel=36&z=2020-12-04&g=2020-12-04) van toepassing.
 
 ### Hoofdstuk 8. Toezicht en handhaving
 
@@ -945,11 +945,11 @@ gekregen uit het handelsregister en de informatie over die uiteindelijk belanghe
 
 ##### Artikel 47a
 
-Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2020-09-27&g=2020-09-27), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2020-09-27&g=2020-09-27), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), bedoelde gegevens te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
+Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2020-12-04&g=2020-12-04), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2020-12-04&g=2020-12-04), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), bedoelde gegevens te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
 
 ##### Artikel 47b
 
-1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2020-09-27&g=2020-09-27), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2020-09-27&g=2020-09-27), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-09-27&g=2020-09-27), bedoelde gegevens en bescheiden te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
+1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=8&paragraaf=8.2&artikel=47&z=2020-12-04&g=2020-12-04), indien er sprake is van het handelen in strijd met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=3&artikel=19&z=2020-12-04&g=2020-12-04), voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in [artikel 15a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&hoofdstuk=2&paragraaf=2.2&artikel=15a&z=2020-12-04&g=2020-12-04), bedoelde gegevens en bescheiden te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
