@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2020-08-01"
+last_updated: "2020-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-08-01&g=2020-08-01).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-08-01&g=2020-08-01).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-08-01&g=2020-08-01).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-08-01&g=2020-08-01).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2020-12-05&g=2020-12-05).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht de inspectie een aanvullend onderzoek op de wijze als beschreven in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2020-08-01&g=2020-08-01).
+Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten als bedoeld in [artikel 34.6 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht de inspectie een aanvullend onderzoek op de wijze als beschreven in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2020-12-05&g=2020-12-05).
 
 ##### Artikel 3. Intrekking
 
@@ -80,7 +80,7 @@ De gegevens, die de inspectie gebruikt bij de beoordeling van de leerresultaten,
 
 De behaalde leerresultaten leveren de scholen aan DUO. DUO verwerkt de gegevens in het Basis Register Onderwijs (BRON). De inspectie ontvangt de geanonimiseerde gegevens van de individuele leerlingen uit BRON.
 
-Tevens ontvangt de inspectie jaarlijks de geanonimiseerde schoolweging met peildatum 1 oktober van het CBS. CBS berekent voor elke leerling, die op 1 oktober op e school zit, de verwachte onderwijsscore op basis van het opleidingsniveau van de ouders, het land van herkomst, de verblijfsduur in Nederland en gegevens over het al dan niet in de schuldsanering zitten. De schoolweging is het gemiddelde van de verwachte onderwijsscores van alle leerlingen op de school, waarbij is gekozen voor een schaal die in de praktijk loopt van ongeveer 20 tot 40: hoe hoger de schoolweging, des te meer leerlingen met een lage verwachte onderwijsscore.
+Tevens ontvangt de inspectie jaarlijks de geanonimiseerde schoolweging van het CBS. CBS berekent voor elke leerling, die op 1 oktober op e school zit, de verwachte onderwijsscore op basis van het opleidingsniveau van de ouders, het land van herkomst, de verblijfsduur in Nederland en gegevens over het al dan niet in de schuldsanering zitten. De schoolweging is het gemiddelde van de verwachte onderwijsscores van alle leerlingen op de school, waarbij is gekozen voor een schaal die in de praktijk loopt van ongeveer 20 tot 40: hoe hoger de schoolweging, des te meer leerlingen met een lage verwachte onderwijsscore.
 
 Voor een beperkt aantal scholen is het noodzakelijk dat de inspectie een extra berekening uitvoert op de door CBS geleverde schoolweging. Dit geldt voor scholen met twee of meer vestigingen die door de inspectie als afzonderlijke objecten van toezicht worden gezien. De inspectie publiceert jaarlijks de lijst met de schoolweging van alle scholen, die zij bij haar beoordeling hanteert, op de inspectiewebsite.
 
@@ -88,9 +88,9 @@ Voor een beperkt aantal scholen is het noodzakelijk dat de inspectie een extra b
 
 De beoordeling van de leerresultaten is gebaseerd op twee indicatoren die de behaalde referentieniveaus betreffen:
 
-Bij de beoordeling kijkt de inspectie naar de behaalde referentieniveaus op de eindtoets in de laatste drie schooljaren. De leerresultaten van leerlingen die voldoen aan de ontheffingsgronden, zoals bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), laat de inspectie hierbij buiten beschouwing.
+Bij de beoordeling kijkt de inspectie naar de behaalde referentieniveaus op de eindtoets in de laatste drie schooljarenVoor zover de periode van drie schooljaren de schooljaren 2018–2019 tot en met 2020–2021 of 2019–2020 tot en met 2021–2022 betreft, worden overeenkomstig artikel 1.2., tweede lid, van de Tweede Verzamelspoedwet COVID-19 de leerresultaten gemeten over de drie meest recente schooljaren waarin centrale eindtoetsen of andere eindtoetsen als bedoeld in artikel 9b van de Wet op het primair onderwijs wet zijn afgenomen.. De leerresultaten van leerlingen die voldoen aan de ontheffingsgronden, zoals bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), laat de inspectie hierbij buiten beschouwing.
 
-Voor alle leerlingen die in de laatste drie schooljaren een eindtoets hebben gemaakt, beschikt de school over de behaalde referentieniveaus (1F of 1S/2F) voor lezen, taalverzorging en rekenen. De inspectie kijkt vervolgens welk percentage van de behaalde referentieniveaus in de afgelopen drie schooljaren op of boven 1F ligt en welk percentage op of boven 1S/2F ligt. Er worden dus twee percentages berekend, die zowel de referentieniveaus voor de drie vakgebieden als de drie schooljaren omvatten. In de toelichting bij deze regeling is een voorbeeld van de berekeningswijze opgenomen.
+Voor alle leerlingen die in de laatste drie schooljaren een eindtoets hebben gemaakt, beschikt de school over de behaalde referentieniveaus (1F of 1S/2F) voor lezen, taalverzorging en rekenenVoor zover de periode van drie schooljaren de schooljaren 2018–2019 tot en met 2020–2021 of 2019–2020 tot en met 2021–2022 betreft, worden overeenkomstig artikel 1.2., tweede lid, van de Tweede Verzamelspoedwet COVID-19 de leerresultaten gemeten over de drie meest recente schooljaren waarin centrale eindtoetsen of andere eindtoetsen als bedoeld in artikel 9b van de Wet op het primair onderwijs wet zijn afgenomen.. De inspectie kijkt vervolgens welk percentage van de behaalde referentieniveaus in deze drie schooljaren op of boven 1F ligt en welk percentage op of boven 1S/2F ligt. Er worden dus twee percentages berekend, die zowel de referentieniveaus voor de drie vakgebieden als de drie schooljaren omvatten. In de toelichting bij deze regeling is een voorbeeld van de berekeningswijze opgenomen.
 
 De signaleringswaarden voor beide indicatoren staan in Tabel 1. Als het behaalde percentage referentieniveaus onder de signaleringswaarde van één of beide indicatoren ligt, duidt dit op mogelijke kwaliteitsrisico’s. De signaleringswaarde voor de eerste indicator (% >1F) is voor alle scholen gelijk, omdat van alle scholen verwacht mag worden dat zij er naar streven hun leerlingen minimaal op het fundamenteel niveau te laten uitstromen. De signaleringswaarde voor het percentage behaalde streefniveaus 1S/2F is afhankelijk van de schoolweging.
 
