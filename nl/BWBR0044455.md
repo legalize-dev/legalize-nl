@@ -4,7 +4,7 @@ identifier: "BWBR0044455"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2015-01-01"
+last_updated: "2020-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044455"
 soort: "wet"
@@ -278,10 +278,10 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0044455&artikel=II&z=2020-12-05&g=2020-12-05), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerkt tot en met 1 januari 2015.
 
 ##### Artikel XXII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2021.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
