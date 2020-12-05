@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2020-01-01"
+last_updated: "2020-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met h, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van de aangelegenheden die hun cluster betreffen.
+Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met j, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van de aangelegenheden die hun cluster betreffen.
 
 ##### Artikel 2
 
-De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met h, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun cluster ressorterende ambtenaren.
+De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met j, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun cluster ressorterende ambtenaren.
 
 ##### Artikel 3
 
