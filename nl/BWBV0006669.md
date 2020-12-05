@@ -4,7 +4,7 @@ identifier: "BWBV0006669"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-12-05"
-last_updated: "2017-02-03"
+last_updated: "2020-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006669"
 soort: "verdrag"
@@ -44,7 +44,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Reikwijdte en doel
 
-1. Deze Overeenkomst is van toepassing op gerubriceerde informatie van EUROGENDFOR, zoals omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2017-02-03&g=2017-02-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=3&z=2017-02-03&g=2017-02-03), ongeacht of die informatie haar oorsprong heeft binnen EUROGENDFOR of ontvangen is van de Partijen in het belang van EUROGENDFOR.
+1. Deze Overeenkomst is van toepassing op gerubriceerde informatie van EUROGENDFOR, zoals omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2020-12-05&g=2020-12-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=3&z=2020-12-05&g=2020-12-05), ongeacht of die informatie haar oorsprong heeft binnen EUROGENDFOR of ontvangen is van de Partijen in het belang van EUROGENDFOR.
 
 2. Het doel van deze Overeenkomst is het beschermen van gerubriceerde informatie van EUROGENDFOR teneinde de vertrouwelijkheid, integriteit en beschikbaarheid van die informatie te waarborgen.
 
@@ -54,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 In deze Overeenkomst gelden de volgende definities:
 
-- a. Onder „gerubriceerde informatie” wordt verstaan in enigerlei vorm te genereren of communiceren informatie of materiaal waarvan de niet-geautoriseerde openbaarmaking de belangen van de Partijen of EUROGENDFOR zou kunnen schaden en dat als zodanig is aangeduid middels een rubricering zoals in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=4&z=2017-02-03&g=2017-02-03) omschreven;
+- a. Onder „gerubriceerde informatie” wordt verstaan in enigerlei vorm te genereren of communiceren informatie of materiaal waarvan de niet-geautoriseerde openbaarmaking de belangen van de Partijen of EUROGENDFOR zou kunnen schaden en dat als zodanig is aangeduid middels een rubricering zoals in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=4&z=2020-12-05&g=2020-12-05) omschreven;
 
 - b. Onder „rubricering” wordt verstaan een markering waarmee het beschermingsniveau wordt aangeduid dat aan gerubriceerde informatie dient te worden toegekend;
 
@@ -62,7 +62,7 @@ In deze Overeenkomst gelden de volgende definities:
 
 ##### Artikel 3. Rubriceringen
 
-Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2017-02-03&g=2017-02-03) en met betrekking tot [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=1&z=2017-02-03&g=2017-02-03), gebruiken de Partijen de volgende rubriceringen voor informatie die binnen EUROGENDFOR is gegenereerd dan wel uitgewisseld:
+Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2020-12-05&g=2020-12-05) en met betrekking tot [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=1&z=2020-12-05&g=2020-12-05), gebruiken de Partijen de volgende rubriceringen voor informatie die binnen EUROGENDFOR is gegenereerd dan wel uitgewisseld:
 
 - a. EUROGENDFOR TOP SECRET (EGF-TS): betekent dat ongeautoriseerde openbaarmaking zou leiden tot uitzonderlijk ernstige schade aan EUROGENDFOR of aan één of meerdere Partijen;
 
@@ -101,7 +101,7 @@ De Partijen verplichten zich ertoe:
 
 - a. Conform hun eigen nationale wetten en regelgeving alle relevante maatregelen te nemen om de bescherming van de gerubriceerde informatie die binnen de reikwijdte van deze Overeenkomst wordt verstuurd, ontvangen, geproduceerd of ontwikkeld, te waarborgen.
 
-- b. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=4&z=2017-02-03&g=2017-02-03) omschreven equivalentie van rubriceringsniveaus toe te passen om ervoor te zorgen dat aan alle gerubriceerde informatie van EUROGENDFOR hetzelfde beschermingsniveau wordt toegekend als aan hun eigen informatie met het equivalente rubriceringsniveau zoals aangegeven in artikel 4.
+- b. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=4&z=2020-12-05&g=2020-12-05) omschreven equivalentie van rubriceringsniveaus toe te passen om ervoor te zorgen dat aan alle gerubriceerde informatie van EUROGENDFOR hetzelfde beschermingsniveau wordt toegekend als aan hun eigen informatie met het equivalente rubriceringsniveau zoals aangegeven in artikel 4.
 
 - c. Gerubriceerde informatie van EUROGENDFOR niet te gebruiken voor andere doeleinden dan vastgelegd in het oprichtingsverdrag van EUROGENDFOR.
 
@@ -163,7 +163,7 @@ Deze Overeenkomst staat open voor toetreding door nieuwe Staten die Partij worde
 
 1. Deze Overeenkomst kan worden gewijzigd na schriftelijk verzoek daartoe door een van de Partijen.
 
-2. Na onderhandeling en instemming van alle Partijen treden de daaruit voortvloeiende wijzigingen in werking conform het gestelde in [artikel 15, lid (1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=15&z=2017-02-03&g=2017-02-03).
+2. Na onderhandeling en instemming van alle Partijen treden de daaruit voortvloeiende wijzigingen in werking conform het gestelde in [artikel 15, lid (1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=15&z=2020-12-05&g=2020-12-05).
 
 3. De depositaris stelt alle Partijen op de hoogte van de datum van inwerkingtreding van een dergelijke wijziging.
 
