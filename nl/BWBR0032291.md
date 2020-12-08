@@ -4,7 +4,7 @@ identifier: "BWBR0032291"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-08"
-last_updated: "2013-01-01"
+last_updated: "2020-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032291"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Coöperatie AmbulanceZorg Rotterdam Rijnmond U.A. is voor regio Rotterdam-Rijnmond de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4).
+Veiligheidsregio Rotterdam Rijnmond is voor de regio Rotterdam-Rijnmond de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4).
 
 ##### Artikel 2
 
