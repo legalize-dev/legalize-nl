@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2019-12-14"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+- a. het COKZ: de stichting Controle Orgaan Kwaliteits Zaken;
 
 - b. IG-NVWA: de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De directeur van het COKZ dient jaarlijks voor 1 oktober na overleg met de Directeur Handhaven van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2019-12-14&g=2019-12-14) voor het eerstkomende volle kalenderjaar.
+1. De directeur van het COKZ dient jaarlijks voor 1 oktober na overleg met de Directeur Handhaven van de Nederlandse Voedsel- en Warenautoriteit een werkprogramma in bij de IG-NVWA, waarin zijn opgenomen de activiteiten van het COKZ met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2020-12-09&g=2020-12-09) voor het eerstkomende volle kalenderjaar.
 
 2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-NVWA.
 
@@ -86,7 +86,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-1. De IG-NVWA is toegestaan ter zake van het verlenen van erkenningen, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853), ondermandaat te verlenen aan de directeur van het COKZ, wat betreft inrichtingen waar handelingen worden verricht waarvoor bijlage III, sectie XI of X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat.
+1. De IG-NVWA is toegestaan ter zake van het verlenen van erkenningen, bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853), ondermandaat te verlenen aan de directeur van het COKZ, wat betreft inrichtingen waar handelingen worden verricht waarvoor bijlage III, sectie IX of X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat.
 
 2. De in het eerste lid bedoelde besluiten worden als volgt ondertekend:
 
@@ -94,6 +94,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 namens deze,
 
-de directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel,’.
+de directeur van de stichting Controle Orgaan Kwaliteits Zaken,’.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
