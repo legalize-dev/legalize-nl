@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2019-12-14"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - i. KvK-nummer: het nummer waaronder een bedrijf geregistreerd is bij de Kamer van Koophandel;
 
-- j. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel2Postbus 250, 3830 AG Leusden, of http://www.COKZ.nl..
+- j. het COKZ: de stichting Controle Orgaan Kwaliteits Zaken.
 
 ##### Artikel 2
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2020-12-09&g=2020-12-09) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
 
 - a. de Stichting Nationale en Internationale Wegvervoer Organisatie;
 
@@ -108,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - f. voor zover het een agrarische onderneming betreft, het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14) bedoelde informatie reeds in het bezit is van de NVWA.
+2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2020-12-09&g=2020-12-09) bedoelde informatie reeds in het bezit is van de NVWA.
 
 ##### Artikel 4
 
@@ -144,6 +144,6 @@ Deze regeling berust op [artikel 3, tweede lid, van het Warenwetbesluit hygiëne
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2019-12-14&g=2019-12-14).
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2020-12-09&g=2020-12-09).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
