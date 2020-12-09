@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2016-09-14"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **NVWA**: de Nederlandse Voedsel- en Warenautoriteit;
 
-- d. **het COKZ**: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+- d. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
 
 - e. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
 
