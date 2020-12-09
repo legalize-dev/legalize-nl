@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2020-10-13"
+last_updated: "2020-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -237,6 +237,14 @@ Indien de overeenkomst geen omschrijving bevat van de wijze waarop uitvoering wo
 18 De ODB luidt: Het ontbreken van trainingen voor het uitvoeren van noodhandelingen bij winningsindustrieën met behulp van boringen.
 
 19 De ZO luidt: Het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden.
+
+19a De ZO luidt: Het in ernstige mate niet treffen van maatregelen of voorzieningen op de arbeidsplaats ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2.
+
+19b De ODB luidt: Het niet nemen van hygiënische voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
+
+19c De ODB luidt: Het niet geven van voorlichting of onderricht aan werknemers over de bestrijding van SARS-CoV-2 op de arbeidsplaats.
+
+19d De ODB luidt: Het niet houden van toezicht op de naleving van de noodzakelijke maatregelen of voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
 
 20 De ZO luiden: Het werken in gebouwen, waarvan wanden, vloeren, plafonds of installaties in zodanige staat verkeren, dat ernstig gevaar bestaat voor instorten, verschuiven, omvallen of kantelen. ([artikel 3.3, lid 1, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.3))
 
@@ -698,31 +706,31 @@ Het gebruiken van ladders of trappen, zonder maatregelen om de stabiliteit te wa
 
 Ladders en trappen gebruiken zonder dat: a. wegglijden van de ladder- of trapvoet door een voorziening is voorkomen; b. toegangsladders bij overigens ontbrekende veilige houvast niet ten minste 1 meter uitsteken boven het toegangsniveau; c. de onderdelen van meerdelige (schuif)ladders ten opzichte van elkaar geborgd zijn; d.verrolbare ladders en trappen zijn vastgezet voor het betreden (lid 2). Het (laten) gebruiken van ladders en trappen waarbij niet ten minste een hand aan de ladder kan worden gehouden. (lid 3)
 
-139 De ZO luidt: De ondersteuningen van een steiger zijn niet beveiligd tegen wegglijden, hetzij door bevestiging aan het steunvlak, hetzij door een antislipinrichting of een andere, even doeltreffende oplossing.
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 140 De ZO luidt: De steunpunten van de steiger zijn niet op een stabiele, stevige ondergrond van voldoende omvang geplaatst, waardoor de stabiliteit niet wordt gewaarborgd.
 
-141 De ZO luidt: Niet verzekerde stabiliteit van steigers door onvoldoende verankering en/of schoren.
+### Werknemersverplichtingen
 
 142 De ZO luiden: Het niet zodanig monteren van de vloeren van steigers dat hun onderdelen bij normaal gebruik niet kunnen bewegen.
 
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+### Verschillende typen overtredingen
 
 143 De ZO luidt: Het werken aan één enkele lijn, waarbij geen sprake is van een afzonderlijk verankerde veiligheidslijn die als reservelijn fungeert en is uitgerust met een beweegbaar valbeveiligingsmechanisme dat de werknemer in zijn beweging volgt.
 
-### Werknemersverplichtingen
+### Zware Overtredingen (ZO)
 
 Werknemers zijn niet op de hoogte van de reddingsprocedures voor het werken aan lijnen.
 
-### Verschillende typen overtredingen
+145 De ODB luidt: Het verrichten van arbeid door werknemers vanuit een werkbak die of een werkplatform dat is gekoppeld aan een hijswerktuig op plaatsen die niet moeilijk bereikbaar zijn en/of waarbij andere meer geëigende arbeidsmiddelen en/of werkmethoden beschikbaar zijn om die plaatsen veilig te bereiken. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
 146a De ODB luidt: De werkzaamheden zijn aangevangen zonder dat een schriftelijk werkplan is opgesteld, dat door een veiligheidskundige als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) is getoetst, waarin is geoordeeld en vastgelegd dat, rekening houdend met de aard en de inrichting van het bouwwerk waar de werkzaamheden zullen worden verricht en de gegeven omgevingsfactoren, geen andere veilige werkwijze mogelijk is ([artikel 7.23d, lid 3, onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-### Zware Overtredingen (ZO)
+146b De ODB luidt: De werkzaamheden zijn aangevangen zonder dat een schriftelijk werkplan is opgesteld, waarin door de veiligheidskundige als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) is geoordeeld en vastgelegd dat op de locatie waar de werkzaamheden zullen plaatsvinden, de werkzaamheden overeenkomstig het werkplan veilig kunnen worden verricht ([artikel 7.23d, lid 3, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
 147 De ODB luidt: Het niet of niet tijdig aan de toezichthouder melden van de werkzaamheden, waarbij gebruik wordt gemaakt van een werkbak of werkplatform aan een hijswerktuig ([artikel 7.23d, lid 4, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-148 De ODB luiden: Het vervoeren van werknemers met behulp van een werkbak die of werkplatform dat is bevestigd aan een hijswerktuig welke niet is voorzien van een technische voorziening die de werklast begrenst op 50% of minder van de maximale werklast waarbij de belasting van de volbelaste werkbak en het bijbehorend hijsgereedschap méér bedraagt dan 25% van de maximaal toelaatbare werklast van het hijswerktuig in zijn meest ongunstige stand ([artikel 7.23d, lid 7, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
+### Overtreding waarvoor Direct een Boete volgt (ODB)
 
 Het vervoeren van werknemers met behulp van een werkbak of werkplatform die is bevestigd aan een hijswerktuig welke is voorzien van een technische voorziening die de werklast begrenst op 50% of minder van de maximale werklast waarbij deze technische voorziening niet is ingeschakeld ([artikel 7.23d, lid 7, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
@@ -730,137 +738,129 @@ Het vervoeren van werknemers met behulp van een werkbak of werkplatform die is b
 
 150 De ODB luiden: De werkbak of het werkplatform op hoogte wordt verlaten door de personen die zich daar bevinden ([artikel 7.23d, lid 9, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-### Overtreding waarvoor Direct een Boete volgt (ODB)
+### Overige Overtredingen (OO)
 
 151 De ODB luiden: Rijden met een niet kraanbaan gebonden mobiel hijswerktuig waaraan een bemande werkbak of een bemand werkplatform is bevestigd ([artikel 7.23d, lid 10, onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-Rijden over een kraanbaan met hogere snelheid dan 2,5 km/uur van een hijswerktuig waaraan een bemande werkbak of een bemand werkplatform is bevestigd ([artikel 7.23d, lid 10, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
-
-De snelheid waarmee de last verticaal wordt verplaatst en/of de hoeksnelheid waarmee de giek wordt gedraaid en/of de snelheid waarmee de vlucht wordt gewijzigd is hoger dan 25% van de snelheid van het hijswerktuig dan waarvoor deze is ontworpen ([artikel 7.23d, lid 10, onder c, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
-
-### Overige Overtredingen (OO)
-
-152 De ODB luiden: Ontbreken van doeltreffend(e) communicatie(middel(en)) bij vervoer en verblijf van werknemers in een werkbak of werkplatform aan een hijswerktuig ([artikel 7.23d, lid 11, onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
-
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+139 De ZO luidt: De ondersteuningen van een steiger zijn niet beveiligd tegen wegglijden, hetzij door bevestiging aan het steunvlak, hetzij door een antislipinrichting of een andere, even doeltreffende oplossing.
+
+141 De ZO luidt: Niet verzekerde stabiliteit van steigers door onvoldoende verankering en/of schoren.
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 Tussen de onderdelen van de vloeren en de verticale inrichtingen van de collectieve valbeveiligingen komen gevaarlijke openingen voor.
 
-144 De ODB luiden: Het onvoldoende adequaat en specifiek opgeleid zijn van werknemers voor het werken aan lijnen, en
-
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
-
-145 De ODB luidt: Het verrichten van arbeid door werknemers vanuit een werkbak die of een werkplatform dat is gekoppeld aan een hijswerktuig op plaatsen die niet moeilijk bereikbaar zijn en/of waarbij andere meer geëigende arbeidsmiddelen en/of werkmethoden beschikbaar zijn om die plaatsen veilig te bereiken. ([artikel 7.18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.18), juncto [artikel 7.23d, lid 2, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
-
 ### Werknemersverplichtingen
 
-146b De ODB luidt: De werkzaamheden zijn aangevangen zonder dat een schriftelijk werkplan is opgesteld, waarin door de veiligheidskundige als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) is geoordeeld en vastgelegd dat op de locatie waar de werkzaamheden zullen plaatsvinden, de werkzaamheden overeenkomstig het werkplan veilig kunnen worden verricht ([artikel 7.23d, lid 3, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
+144 De ODB luiden: Het onvoldoende adequaat en specifiek opgeleid zijn van werknemers voor het werken aan lijnen, en
 
 ### Verschillende typen overtredingen
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+148 De ODB luiden: Het vervoeren van werknemers met behulp van een werkbak die of werkplatform dat is bevestigd aan een hijswerktuig welke niet is voorzien van een technische voorziening die de werklast begrenst op 50% of minder van de maximale werklast waarbij de belasting van de volbelaste werkbak en het bijbehorend hijsgereedschap méér bedraagt dan 25% van de maximaal toelaatbare werklast van het hijswerktuig in zijn meest ongunstige stand ([artikel 7.23d, lid 7, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
+
+### Verschillende typen overtredingen
 
 De werkbak of het werkplatform op hoogte wordt betreden door de personen die zich buiten de werkbak of het werkplatform bevinden ([artikel 7.23d, lid 9, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-### Verschillende typen overtredingen
+Rijden over een kraanbaan met hogere snelheid dan 2,5 km/uur van een hijswerktuig waaraan een bemande werkbak of een bemand werkplatform is bevestigd ([artikel 7.23d, lid 10, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 Het vervoeren van werknemers met behulp van een werkbak of werkplatform die is bevestigd aan een hijswerktuig bij een windsnelheid van meer dan 7 m/s ([artikel 7.23d, lid 10, onder d, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
-Het vervoeren van werknemers met behulp van een werkbak die of werkplatform dat is bevestigd aan een hijs- of hefwerktuig zonder dat doeltreffende voorzieningen zijn getroffen om die werknemers bij gevaar te kunnen evacueren ([artikel 7.23d, lid 11, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
-
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
-
-154 De ZO luidt: Het laden en lossen van schepen zonder dat luiken die niet afdoende tegen verplaatsing kunnen worden geborgd, verwijderd zijn.
-
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 ### Werknemersverplichtingen
+
+De snelheid waarmee de last verticaal wordt verplaatst en/of de hoeksnelheid waarmee de giek wordt gedraaid en/of de snelheid waarmee de vlucht wordt gewijzigd is hoger dan 25% van de snelheid van het hijswerktuig dan waarvoor deze is ontworpen ([artikel 7.23d, lid 10, onder c, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
+
+### Werknemersverplichtingen
+
+Het vervoeren van werknemers met behulp van een werkbak die of werkplatform dat is bevestigd aan een hijs- of hefwerktuig zonder dat doeltreffende voorzieningen zijn getroffen om die werknemers bij gevaar te kunnen evacueren ([artikel 7.23d, lid 11, onder b, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
 153 De ZO luidt: Het hijsen of heffen van luiken van schepen zonder dat deze daartoe geschikte bevestigingen hebben voor het vastmaken van hijsgereedschap.
 
-### Werknemersverplichtingen
-
-156 De ZO luidt: Het opnieuw gebruiken van voor eenmalig gebruik bestemde bind- of hijsmiddelen.
-
-157 De ZO luidt: Het niet aanwezig zijn van middelen zodat werknemers bij het aanbrengen of verwijderen van sjorringen van containers aan ernstig gevaar worden blootgesteld.
-
-158 De ODB luidt: Het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen.
+154 De ZO luidt: Het laden en lossen van schepen zonder dat luiken die niet afdoende tegen verplaatsing kunnen worden geborgd, verwijderd zijn.
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-160 De ZO luiden: Het werken op een overbelaste steiger. (lid 2), en
+156 De ZO luidt: Het opnieuw gebruiken van voor eenmalig gebruik bestemde bind- of hijsmiddelen.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
+
+152 De ODB luiden: Ontbreken van doeltreffend(e) communicatie(middel(en)) bij vervoer en verblijf van werknemers in een werkbak of werkplatform aan een hijswerktuig ([artikel 7.23d, lid 11, onder a, Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.23d)).
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 155 De ZO luidt: Het plaatsen of verwijderen van luiken op schepen terwijl in het ruim onder de luikopening wordt gewerkt.
 
-### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
-
-159 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in [artikel 7.6 Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=7.6), door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
-
 ### Werknemersverplichtingen
 
-161 Het verrichten van trekkerarbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers zonder toezicht.
+158 De ODB luidt: Het niet door een certificerende instelling laten onderzoeken en beproeven van hijs- of hefwerktuigen en hijs- of hefgereedschappen aan boord van schepen, die gebruikt worden bij het laden en lossen.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
+157 De ZO luidt: Het niet aanwezig zijn van middelen zodat werknemers bij het aanbrengen of verwijderen van sjorringen van containers aan ernstig gevaar worden blootgesteld.
 
 ### Verplichtingen voor de bedrijfsarts en verplichtingen voor de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14)
 
-163 De ZO luidt: Het onvoldoende er voor zorgen dat werknemers aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers.
+160 De ZO luiden: Het werken op een overbelaste steiger. (lid 2), en
 
-Het gaat hierbij om feiten met betrekking tot:
+Het werken op verrijdbare steigers die niet zijn beveiligd tegen ongewilde verplaatsing. (lid 3)
 
-In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
+161 Het verrichten van trekkerarbeid, het werken met wilde, giftige of andere dieren die gevaar opleveren, het industrieel slachten of werken onder tempodwang door jeugdige werknemers zonder toezicht.
 
 ### Werknemersverplichtingen
 
-In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
+163 De ZO luidt: Het onvoldoende er voor zorgen dat werknemers aan hen beschikbaar gestelde persoonlijke beschermingsmiddelen (juist) gebruiken, waardoor ernstig gevaar bestaat voor de veiligheid of gezondheid van betreffende werknemers.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+159 De ODB luidt: Het bedienen van een torenkraan, mobiele kraan of mobiele hei-installatie als bedoeld in [artikel 7.6 Arboregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=7.6), door een persoon die niet in het bezit is van een certificaat van bekwaamheid.
+
+### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
 162 De ZO luidt: Het niet ter beschikking stellen van doeltreffende persoonlijke beschermingsmiddelen aan werknemers bij werkzaamheden, waardoor ernstig gevaar bestaat voor veiligheid of gezondheid van betrokken werknemers.
 
 ### Toelichting Tarieflijst bestuurlijke boete Arbeidsomstandighedenwetgeving
 
-Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
-
-### Verplichtingen voor de bedrijfsarts en verplichtingen voor de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14)
-
-In deze bijlage zijn alle artikelen, artikelleden of onderdelen van artikelleden ten aanzien waarvan een bedrijfsarts of een bedrijfsarts en deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) verplicht zijn tot naleving gemarkeerd door middel van een dubbele asterisk (**) respectievelijk een driedubbele asterisk (***).
+In deze bijlage is in tabelvorm opgenomen voor welk artikel of welk artikellid een bestuurlijke boete kan worden gegeven, welke categorie boetenormbedrag daaraan gekoppeld is en om welk type overtreding het gaat. De bevoegdheid tot beboeting voor het niet naleven van bepaalde verplichtingen volgt daarbij uit de wetgeving zelf, de informatie in de bijlage heeft uitsluitend een verduidelijkende of informatieve waarde.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
+
+### Werknemersverplichtingen
+
+In deze bijlage zijn alle overtredingen waar ook een werknemer verplichtingen heeft tot naleving van de betreffende bepaling of tot het gebruik van persoonlijke beschermingsmiddelen, gemarkeerd door middel van een asterisk (*).
+
+Het gaat hierbij om feiten met betrekking tot:
+
+In deze bijlage zijn alle artikelen, artikelleden of onderdelen van artikelleden ten aanzien waarvan een bedrijfsarts of een bedrijfsarts en deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) verplicht zijn tot naleving gemarkeerd door middel van een dubbele asterisk (**) respectievelijk een driedubbele asterisk (***).
 
 ### Verschillende typen overtredingen
 
 In de bijlage zijn de verschillende typen overtredingen aangegeven.
 
-Het gaat hierbij om feiten met betrekking tot:
-
-De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
-
-### Overige Overtredingen (OO)
-
-Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
-
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
 
-### Zware Overtredingen (ZO)
+### Verplichtingen voor de bedrijfsarts en verplichtingen voor de bedrijfsarts en de deskundige personen, bedoeld in [artikel 14, eerste lid, van de Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14)
 
 Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
-### Overige Overtredingen (OO)
+### Zware Overtredingen (ZO)
 
-Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+De ZO betreffen werkzaamheden en situaties die doorgaans ernstig gevaar (kunnen) opleveren voor personen.
 
 Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -868,7 +868,19 @@ Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden
 
 ### Overtreding waarvoor Direct een Boete volgt (ODB)
 
+Er is uitsluitend sprake van een ZO als voldaan wordt aan de omschrijving in de voetnoten. Zie als voorbeeld [artikel 3.2 van het Arbeidsomstandigenhedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.2), waarbij als ZO is aangemerkt ‘het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden’. Een overtreding van artikel 3.2 Arbeidsomstandigenhedenbesluit die niet voldoet aan de hiervoor genoemde omschrijving wordt niet als zware overtreding aangemerkt maar als een overige overtreding (OO).
+
+Indien de feiten zoals geformuleerd ook daadwerkelijk door een inspecteur worden geconstateerd, dan is er sprake van ‘heterdaad’. Behalve het geven van een bevel tot stillegging bij gevaar, zegt de inspecteur direct een boete aan.
+
+Treft de inspecteur situaties aan die naar zijn redelijke oordeel potentieel zouden kunnen leiden tot ernstig gevaar, terwijl er op het moment van constateren niet wordt gewerkt, dan is deze bevoegd om op basis van [artikel 28 Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) te bevelen dat werkzaamheden niet mogen worden aangevangen zolang het potentiële gevaar aanwezig is. In dergelijke situaties wordt echter geen boete aangezegd. De werkzaamheden die als ZO staan gemarkeerd zijn niet limitatief voor de situaties die in potentie tot ernstig gevaar kunnen leiden.
+
+### Overtreding waarvoor Direct een Boete volgt (ODB)
+
 Er bestaat een aantal overtredingen in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) en de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587) dat niet tot de categorie ZO kan worden gerekend, maar waarvoor bij niet-naleving toch een directe sanctie moet worden opgelegd en in een aantal gevallen ook (direct) maatregelen moeten worden getroffen. Het gaat om belangrijke overtredingen waarvoor naar huidige inzichten het eerst geven van een waarschuwing of het eerst stellen van een eis als inadequaat is te beschouwen.
+
+Deze beleidsregel zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+Indien een dergelijke werkzaamheid of situatie wordt geconstateerd, dan zal in de meeste gevallen, naast het opstellen van een boeterapport, ook worden overgegaan tot stillegging van werk vanwege gevaar op grond van [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28). De formuleringen in de voetnoten in de lijst zijn over het algemeen in een directe actieve vorm gesteld, zoals: ‘het werken op ..., het gebruiken van ... en het blootstellen aan ....’.
 
 Het gaat hierbij om feiten met betrekking tot:
 
