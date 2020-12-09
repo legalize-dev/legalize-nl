@@ -167,9 +167,3 @@ De [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen](http
 Deze regeling wordt aangehaald als: Regeling subsidie expertisecentra onderwijszorg CN.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Omhang
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
