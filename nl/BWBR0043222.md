@@ -4,7 +4,7 @@ identifier: "BWBR0043222"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-10"
-last_updated: "2020-01-01"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043222"
 soort: "ministeriele-regeling"
@@ -48,13 +48,15 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 2
 
-1. Aan de directeur van 3W, de shared service organisatie van het Ministerie van Buitenlandse Zaken, (hierna: 3W) wordt mandaat verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitvoering van het [Voorzieningenstelsel Uitzendingen Binnenlandse zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0024265) (VUBZK) en de [Regeling vergoedingen bij uitzending deskundigen voor korte duur naar het Caribisch deel van het Koninkrijk 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033883) (KU) ten aanzien van degene, op wie één van bovengenoemde regelingen van toepassing is of van toepassing is verklaard.
+1. Aan de directeur van 3W, de shared service organisatie van het Ministerie van Buitenlandse Zaken, (hierna: 3W) wordt mandaat verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitvoering van het [Voorzieningenstelsel Uitzendingen Binnenlandse zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0024265) (VUBZK), het [Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0031747) (VBRA) en de [Regeling vergoedingen bij uitzending deskundigen voor korte duur naar het Caribisch deel van het Koninkrijk 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033883) (KU) ten aanzien van degene, op wie één van bovengenoemde regelingen van toepassing is of van toepassing is verklaard.
 
-2. Aan de directeur van 3W wordt tevens mandaat verleend voor het behandelen van geschillen met werknemers over aangelegenheden als bedoeld in het eerste lid.
+2. Aan de directeur van 3W wordt tevens mandaat verleend voor het behandelen van geschillen met dan wel bezwaarschriften van werknemers over aangelegenheden als bedoeld in het eerste lid.
 
-3. Aan de plaatsvervangend Secretaris-generaal van het Ministerie van Buitenlandse Zaken wordt mandaat verleend voor het nemen van beslissingen ten aanzien van geschillen over besluiten als bedoeld in het eerste lid.
+3. Aan de plaatsvervangend Secretaris-generaal van het Ministerie van Buitenlandse Zaken wordt mandaat verleend voor het nemen van beslissingen ten aanzien van geschillen over dan wel op bezwaarschriften gericht tegen besluiten als bedoeld in het eerste lid.
 
-4. De directeur van 3W kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat verlenen aan de onder hem ressorterende functionarissen.
+4. Aan de directeur van 3W wordt mandaat verleend voor het instellen van hoger beroep ten aanzien van aangelegenheden als bedoeld in het eerste lid.
+
+5. De directeur van 3W kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat verlenen aan de onder hem ressorterende functionarissen.
 
 ##### Artikel 3
 
