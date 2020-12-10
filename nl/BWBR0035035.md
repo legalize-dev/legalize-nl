@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2020-05-16"
+last_updated: "2020-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -64,13 +64,13 @@ Besluit:
 
 - d. handvuurwapens en aanverwante uitrusting, uitsluitend bedoeld voor gebruik in internationaal geleide patrouilles ten behoeve van de beveiliging in het Sangha River Tri–national Protected Area alsmede voor gebruik door gewapende wildopzichters van het Chinko Project of het nationaal park Bamingui-Bangoran ter bestrijding van stropen, smokkel van ivoor en wapens, en ter bestrijding van andere activiteiten die in strijd zijn met de nationale wetten of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, militaire voertuigen zonder wapens en militaire voertuigen met daarop gemonteerde wapens met een kaliber van 14,5 mm of minder aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, componenten en voertuigen uitsluitend bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, militaire voertuigen zonder wapens en militaire voertuigen met daarop gemonteerde wapens met een kaliber van 14,5 mm of minder, alsmede reserveonderdelen daarvoor, raketgestuwde granaten en specifiek voor die wapens ontworpen munitie aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, componenten en voertuigen uitsluitend bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
 - a. niet-dodelijke militaire uitrusting of aanverwante technische bijstand die uitsluitend bestemd is voor humanitaire of beschermende doeleinden;
 
-- b. wapens of andere aanverwante dodelijke uitrusting aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, waaronder tevens begrepen de civiele rechtshandhavende onderheidsinstanties, die uitsluitend bestemd zijn ter ondersteuning van, of voor gebruik in de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek;
+- b. andere wapens dan bedoeld in het tweede lid, onder e, of aanverwante dodelijke uitrusting aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, waaronder tevens begrepen de civiele rechtshandhavende onderheidsinstanties, die uitsluitend bestemd zijn ter ondersteuning van, of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek;
 
 - c. wapens en aanverwant materieel, en aanverwante technische of financiële bijstand, met inbegrip van personeel.
 
