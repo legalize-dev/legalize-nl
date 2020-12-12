@@ -4,7 +4,7 @@ identifier: "BWBR0021973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2018-07-01"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021973"
 soort: "ministeriele-regeling"
@@ -82,6 +82,8 @@ In deze regeling wordt verstaan onder:
 
 5. De direct toezichthouder draagt er, in overeenstemming met de werkgever, zorg voor dat de opsporingsambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een opsporingsambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet of niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door de direct toezichthouder ingenomen.
 
+6. Indien buitengewone omstandigheden dit noodzakelijk maken kan de Minister van Justitie en Veiligheid besluiten dat, in afwijking van het eerste lid, de opsporingsambtenaar voor de duur van een kalenderjaar geoefend is in het gebruik van de in het eerste lid bedoelde bevoegdheden en geweldsmiddelen, indien hij de toets geweldsbeheersing en de toets aanhoudings- en zelfverdedigingsvaardigheden in het tweede daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd.
+
 ##### Artikel 3
 
 1. De werkgever draagt zorg voor de training en de toetsing van de opsporingsambtenaar.
@@ -92,13 +94,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-07-01&g=2018-07-01) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-07-01&g=2018-07-01) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
+Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2020-12-12&g=2020-12-12) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2020-12-12&g=2020-12-12) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
 
 ##### Artikel 5
 
-1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-07-01&g=2018-07-01) bedoelde toetsen.
+1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2020-12-12&g=2020-12-12) bedoelde toetsen.
 
-2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Justitie en Veiligheid een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2018-07-01&g=2018-07-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Justitie en Veiligheid een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2020-12-12&g=2020-12-12) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
