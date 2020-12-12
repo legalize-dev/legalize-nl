@@ -4,7 +4,7 @@ identifier: "BWBR0041974"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-12"
-last_updated: "2019-03-07"
+last_updated: "2020-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041974"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ BESLUIT:
 
 ##### Artikel 1
 
-De Autoriteit Consument en Markt is belast met het toezicht op de naleving van uitvoeringsverordening (EU) nr. 869/2014 van de Europese Commissie van 11 augustus 2014 inzake nieuwe spoorvervoersdiensten voor passagiers (PbEU 2014, L 239) en uitvoeringsverordening (EU) 2018/1795 van de Europese Commissie van 20 november 2018 tot vaststelling van de procedure en criteria voor de analyse van de impact op het economisch evenwicht overeenkomstig artikel 11 van [Richtlijn 2012/34](32012L0034)/EU van het Europees Parlement en de Raad (PbEU 2018, L 294).
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van uitvoeringsverordening (EU) 2018/1795 van de Europese Commissie van 20 november 2018 tot vaststelling van de procedure en criteria voor de analyse van de impact op het economisch evenwicht overeenkomstig artikel 11 van [Richtlijn 2012/34](32012L0034)/EU van het Europees Parlement en de Raad (PbEU 2018, L 294).
 
 ##### Artikel 2
 
-Met ingang van 12 december 2020 en onder toepassing van artikel 15, tweede volzin, van uitvoeringsverordening (EU) 2018/1795 van de Europese Commissie van 20 november 2018 tot vaststelling van de procedure en criteria voor de analyse van de impact op het economisch evenwicht overeenkomstig artikel 11 van [Richtlijn 2012/34](32012L0034)/EU van het Europees Parlement en de Raad (PbEU 2018, L 294) vervalt in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041974&artikel=1&z=2019-03-07&g=2019-03-07) ‘uitvoeringsverordening (EU) nr. 869/2014 van de Europese Commissie van 11 augustus 2014 inzake nieuwe spoorvervoersdiensten voor passagiers (PbEU 2014, L 239) en’.
+Met ingang van 12 december 2020 en onder toepassing van artikel 15, tweede volzin, van uitvoeringsverordening (EU) 2018/1795 van de Europese Commissie van 20 november 2018 tot vaststelling van de procedure en criteria voor de analyse van de impact op het economisch evenwicht overeenkomstig artikel 11 van [Richtlijn 2012/34](32012L0034)/EU van het Europees Parlement en de Raad (PbEU 2018, L 294) vervalt in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041974&artikel=1&z=2020-12-12&g=2020-12-12) ‘uitvoeringsverordening (EU) nr. 869/2014 van de Europese Commissie van 11 augustus 2014 inzake nieuwe spoorvervoersdiensten voor passagiers (PbEU 2014, L 239) en’.
 
 ##### Artikel 3
 
@@ -54,6 +54,6 @@ Deze regeling wordt aangehaald als: Regeling toezicht uitvoeringsverordening nie
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en is wat betreft [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041974&artikel=1&z=2019-03-07&g=2019-03-07) voor het eerst van toepassing op de dienstregeling die met ingang van 12 december 2020 ingaat.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en is wat betreft [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041974&artikel=1&z=2020-12-12&g=2020-12-12) voor het eerst van toepassing op de dienstregeling die met ingang van 12 december 2020 ingaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
