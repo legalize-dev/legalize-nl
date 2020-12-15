@@ -4,7 +4,7 @@ identifier: "BWBR0025605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2016-12-22"
+last_updated: "2020-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025605"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog, psychotherapeut of physician assistant. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15).
 
 4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
@@ -167,6 +167,8 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 - a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=3) en [4, tweede lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van psychotherapeuten bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
 - b. [artikel 5, tweede en derde lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit psychotherapeut.
+
+9. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van physician assistant wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 5 van het Besluit opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van physician assistant, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
 ##### Artikel 8
 
@@ -303,5 +305,39 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 7a
 
 1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van een van de in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemde beroepen, worden aangewezen de werkzaamheden die worden verricht ten behoeve van een beroepsgerelateerde promotie ter verkrijging van de graad Doctor.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6f
+
+1. Voor het beroep van physician assistant gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het onderzoeken en beoordelen van een patiënt en het op basis van de verkregen gegevens stellen van een diagnose en het opstellen van een behandelplan;
+
+- b. het uitvoeren van het behandelplan en het daartoe verrichten van gangbare medische handelingen;
+
+- c. het stellen van indicaties en het herkennen van complicaties van medische handelingen en verrichtingen en het daarop anticiperen;
+
+- d. het verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers;
+
+- e. het geven van advies, voorlichting en het verlenen van preventieve zorg.
+
+2. Het in het eerste lid, onderdeel a, b en c genoemde kerncompetenties en kernvaardigheden zijn zodanig ingericht dat de physician assistant in staat is bij beperkt complexe zorgvragen een probleemanalyse te maken, een differentiaal diagnose op te stellen, een diagnostisch plan op te stellen en uit te voeren en op basis van de verkregen gegevens een diagnose te stellen binnen eigen deskundigheidsgebied. Ook is de physician assistant in staat tot het verrichten van handelingen waartoe de physician assistant op grond van [artikel 36 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) bevoegd is. En is de physician assistant in staat tot het verlenen van spoedeisende hulp, het bewaken van vitale lichaamsfuncties en waar nodig het treffen van maatregelen ter herstel daarvan.
+
+3. Het in het eerste lid, onderdeel d, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de physician assistant in staat is om op grond van de resultaten van onderzoek en bevindingen, bij problemen en risico’s bij de patiënt te verwijzen naar, consulteren van en met artsen en andere gezondheidszorgmedewerkers en paramedici samen te werken.
+
+4. Het in het eerste lid, onderdeel e, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de physician assistant in staat is een plan voor begeleiding op te stellen gericht op advies, voorlichting en verlenen van preventieve zorg.
+
+5. De kerncompetenties en kernvaardigheden, genoemd in het eerste lid, richten zich op vraagstukken rondom gezondheid en ziekte, bedoeld in [artikel 5 van het opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5).
+
+6. Bij de uitvoering van de in het eerste lid genoemde kerncompetenties en kernvaardigheden:
+
+- a. integreert de physician assistant zijn medisch kennis en vaardigheden op het gebied van het leveren van communicatie, samenwerken, organiseren en het leveren van curatieve en preventieve zorg.
+
+- b. betrekt de physician assistant in zijn rol als medisch deskundige waar mogelijk het beschikbare wetenschappelijke bewijs en overlegt met collega (samenwerkende arts) teneinde evidence based behandeling te bieden;
+
+- c. handelt de physician assistant conform de geldende medische en ethische standaarden, richtlijnen en binnen de grenzen van de eigen deskundigheid; en
+
+- d. betrekt de physician assistant de persoonlijke omstandigheden en voorkeuren van de cliënt en houdt de physician assistant rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
