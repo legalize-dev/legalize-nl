@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2020-09-01"
+last_updated: "2020-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -54,61 +54,69 @@ Hebben goedgevonden en verstaan:
 
 - b. **wet:** de[Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510);
 
-- c. **sectievoorzitter:** de voorzitter van een sectie, als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=11);
+- c. **ondervoorzitter:** de ondervoorzitter, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- d. **bestuur:** het bestuur van de Raad, bestaande uit de voorzitter, de sectievoorzitters en de voorzitter van de rechtspraakkamer van de Raad;
+- d. **leden:** de leden,bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- e. **preadviescommissie:** commissie belast met de voorbereiding van de adviezen van de Raad;
+- e. **buitengewone leden:** de buitengewone leden, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- f. **beroepscommissie:** commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
+- f. **voorzitter van de Raad:** de voorzitter van de Raad, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=4);
 
-- g. **vergadering:** plenaire vergadering van de Raad, vergadering van het bestuur, vergadering van een sectie, de vergadering van een preadviescommissie, de vergadering van de rechtspraakkamer en de vergadering van een beroepscommissie.
+- g. **voorzitter van de Afdeling rechtspraak:** de voorzitter van de Afdeling rechtspraak, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=27);
+
+- h. **beroepscommissie:** commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
+
+- i. **vergadering:** een bijeenkomst van leden of buitengewone leden van de Afdeling rechtspraak ten behoeve van werkzaamheden in het kader van de taakuitoefening door de Raad, op uitnodiging van of namens de voorzitter van de Afdeling rechtspraak;
+
+- j. **arbeidsduur:** een arbeidsduur welke gemiddeld zesendertig werkuren per week omvat;
+
+- k. **arbeidsduurfactor:** de breuk, waarvan de teller bestaat uit de voor het lid vastgestelde arbeidsduur en de noemer bestaat uit het getal 36.
 
 2. Dit besluit berust op [artikel 8 van de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&artikel=8).
 
 ##### Artikel 2
 
-1. De algemeen voorzitter van de Raad ontvangt een vaste vergoeding van € 57.399 per jaar.
+1. De vergoeding per maand aan de voorzitter van de Raad is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 zijn ingedeeld. Indien de voorzitter is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
 
-2. De sectievoorzitters en de voorzitter van de rechtspraakkamer ontvangen een vaste vergoeding van € 34.439 per jaar.
+2. De vergoeding per maand aan de voorzitter van de Afdeling rechtspraak is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 zijn ingedeeld. Indien de voorzitter van de Afdeling rechtspraak is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
+
+3. De vergoeding per maand aan de ondervoorzitter is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 is ingedeeld. Indien de ondervoorzitter is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
 
 ##### Artikel 3
 
-1. De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
-
-2. De algemeen voorzitter, de sectievoorzitter, de voorzitter van een beroepscommissie en de voorzitter van een rechtspraakkamer, ontvangen een vergoeding per vergadering van 130% van de hoogte van de vergoeding, bedoeld in het eerste lid.
+De vergoeding voor de leden die niet op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=2&z=2020-12-17&g=2020-12-17) een vergoeding ontvangen is gelijk aan het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld. Indien het lid is aangesteld voor een minder dan volledige arbeidsduur, ontvangt hij een vergoeding overeenkomstig de eerste volzin, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
 
 ##### Artikel 4
 
-1. De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens van een arbeidsovereenkomst met de Staat werkzaam zijn.
+1. De buitengewone leden ontvangen voor het deelnemen aan een vergadering 3% van het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld.
 
-2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
+2. De buitengewone leden die deel uitmaken van een beroepscommissie ontvangen per zitting 4,5% van het salaris behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld.
 
-3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-12-17&g=2020-09-01).
+3. Bij de afdoening van beroepszaken in een uitsluitend schriftelijke procedure wordt voor de afdoening van 15 beroepszaken een vergoeding toegekend van gelijke hoogte als de vergoeding voor één zitting als bedoeld in het tweede lid.
+
+4. Bij de behandeling van verzoeken tot schorsing wordt voor de behandeling van 20 schorsingsverzoeken een vergoeding toegekend van gelijke hoogte als de vergoeding voor één zitting, bedoeld in het tweede lid.
+
+5. Het buitengewoon lid dat als voorzitter van een beroepscommissie optreedt, ontvangt per zitting een vergoeding van 125% van het in het tweede lid bedoelde bedrag.
 
 ##### Artikel 5
 
-De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad.
+Vervallen
 
 ##### Artikel 6
 
-1. De voorzitter, de leden en de plaatsvervangende leden van een beroepscommissie, ontvangen een vergoeding per zitting. De vergoeding is van gelijke hoogte als de vergoeding die ingevolge [artikel 38, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38) wordt toegekend.
-
-2. Bij de afdoening van beroepszaken in een uitsluitend schriftelijke procedure wordt voor de afdoening van 15 beroepszaken een vergoeding toegekend van gelijke hoogte als de vergoeding voor één zitting als bedoeld in het eerste lid.
-
-3. Bij de behandeling van verzoeken tot schorsing wordt voor de behandeling van 20 schorsingsverzoeken een vergoeding toegekend van gelijke hoogte, als de vergoeding voor één zitting als bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 7
 
-De leden en de plaatsvervangende leden van de Raad hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+De leden en de buitengewone leden hebben recht op vergoeding wegens reis- en verblijfkosten in het binnenland en buitenland overeenkomstig hetgeen is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 8
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-12-17&g=2020-09-01), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2020-12-17&g=2020-09-01), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2020-12-17&g=2020-12-17) is van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=16).
 
 ##### Artikel 9
 
-De in dit besluit genoemde bedragen kunnen worden gewijzigd bij ministeriële regeling.
+Vervallen
 
 ##### Artikel 10
 
