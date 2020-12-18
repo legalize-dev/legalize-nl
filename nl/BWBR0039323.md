@@ -4,7 +4,7 @@ identifier: "BWBR0039323"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-12-18"
-last_updated: "2020-10-13"
+last_updated: "2020-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039323"
 soort: "zbo"
@@ -104,21 +104,21 @@ Het Zorginstituut verdeelt het bedrag dat in [artikel 2 van de Aanwijzing](https
 
 ##### Artikel 5
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-10-13&g=2020-10-13) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-12-18&g=2020-12-18) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
-- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-10-13&g=2020-10-13) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
+- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-12-18&g=2020-12-18) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
 
 - c. bij de berekening in onderdeel a en b wordt een regiofactor van 0,5 toegepast.
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-10-13&g=2020-10-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2016 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2016 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 6
 
-1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-10-13&g=2020-10-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=5&z=2020-10-13&g=2020-10-13) herberekent het Zorginstituut per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=4&z=2020-12-18&g=2020-12-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=2&artikel=5&z=2020-12-18&g=2020-12-18) herberekent het Zorginstituut per regio.
 
 2. Ter verkrijging van het voorlopige beheerskostenbudget Wlz per zorgkantoor sommeert het Zorginstituut het herberekende bedrag per regio voor de regio’s waarvoor het zorgkantoor is aangewezen.
 
@@ -132,7 +132,7 @@ Het Zorginstituut stelt uiterlijk op de eerste werkdag van mei 2018 het beheersk
 
 ##### Artikel 8
 
-Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-10-13&g=2020-10-13) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430) en [Tweede nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
+Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-12-18&g=2020-12-18) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430) en [Tweede nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
 - a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017, zoals blijkend uit de tweede kwartaalstaat Wlz 2017 zorgkantoren, waarvoor het zorgkantoor is aangewezen;
 
@@ -152,21 +152,21 @@ Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.ov
 
 ##### Artikel 9
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-10-13&g=2020-10-13) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-12-18&g=2020-12-18) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
-- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-10-13&g=2020-10-13) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
+- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-12-18&g=2020-12-18) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
 
 - c. bij de berekening in onderdeel a en b wordt een regiofactor van 0,5 toegepast.
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-10-13&g=2020-10-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 10
 
-1. De resultaten van de berekeningen volgens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-10-13&g=2020-10-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=9&z=2020-10-13&g=2020-10-13) herberekent het Zorginstituut per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=8&z=2020-12-18&g=2020-12-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=9&z=2020-12-18&g=2020-12-18) herberekent het Zorginstituut per regio.
 
 2. Ter verkrijging van het nader vastgestelde beheerskostenbudget Wlz per zorgkantoor sommeert het Zorginstituut het herberekende bedrag per regio voor de regio’s waarvoor het zorgkantoor is aangewezen.
 
@@ -176,7 +176,7 @@ Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.ov
 
 ##### Artikel 11
 
-Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 2017 definitief vast. Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-10-13&g=2020-10-13) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430), de [Tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) en de [Derde nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0043949) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
+Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 2017 definitief vast. Het Zorginstituut verdeelt het bedrag dat in de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=3&artikel=7&z=2020-12-18&g=2020-12-18) genoemde [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0039430), de [Tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0040233) en de [Derde nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0043949) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
 - a. een bedrag van 201,14 euro per budgethouder voor de uitvoeringskosten van het persoonsgebonden budget, vermenigvuldigd met het aantal budgethouders per regio op 30 juni 2017 waarvoor het zorgkantoor is aangewezen;
 
@@ -192,25 +192,27 @@ Uiterlijk in 2020 stelt het Zorginstituut het beheerskostenbudget over het jaar 
 
 - g. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Zorg in Natura met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
 
-- h. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018.
+- h. een bedrag van 357,84 euro op basis van de werkelijke aantallen personen met Modulair Pakket Thuis met Meerzorg per 31 december 2017, zoals blijkend uit de tweede kwartaalstaat 2018;
+
+- i. een bedrag van 1,849 miljoen euro tot dekking van de kosten die zijn gemaakt met betrekking tot Te goeder trouw en terugvorderen, zoals verantwoord in het financieel verslag Wlz-uitvoerder 2017.
 
 ##### Artikel 12
 
-1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-10-13&g=2020-10-13) resterende bedrag als volgt:
+1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-12-18&g=2020-12-18) resterende bedrag als volgt:
 
 - a. Het vaste bedrag wordt berekend door dit bedrag te delen door de som van het totaal aantal regio’s en het totaal aantal zorgkantoren, waarbij het aantal regio’s wordt vermenigvuldigd met de regiofactor.
 
-- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-10-13&g=2020-10-13) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
+- b. Het aantal regio’s waarvoor het zorgkantoor is aangewezen in het in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=1&artikel=1&z=2020-12-18&g=2020-12-18) genoemde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037424) wordt vermenigvuldigd met de regiofactor. De uitkomst van deze vermenigvuldiging wordt met 1 verhoogd en vervolgens met het vaste bedrag, berekend in onderdeel a vermenigvuldigd en aan het budget van het zorgkantoor toegevoegd.
 
 - c. bij de berekening in onderdeel a en b wordt een regiofactor van 0,5 toegepast.
 
 - d. voor de berekening van het zorgkantoor DSW wordt de regio Westland Schieland Delfland vermenigvuldigd met 2.
 
-2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-10-13&g=2020-10-13) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
+2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-12-18&g=2020-12-18) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 13
 
-1. De resultaten van de berekeningen volgens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-10-13&g=2020-10-13) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=12&z=2020-10-13&g=2020-10-13) herberekent het Zorginstituut per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=11&z=2020-12-18&g=2020-12-18) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039323&paragraaf=4&artikel=12&z=2020-12-18&g=2020-12-18) herberekent het Zorginstituut per regio.
 
 2. De definitieve vaststelling geschiedt met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
 
