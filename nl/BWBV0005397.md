@@ -4,7 +4,7 @@ identifier: "BWBV0005397"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-12-19"
-last_updated: "2007-06-14"
+last_updated: "2020-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005397"
 soort: "verdrag"
@@ -130,17 +130,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. Indien een Lid niet onmiddellijk in staat is alle in dit Verdrag voorziene maatregelen te implementeren vanwege wezenlijke, bijzondere problemen ten gevolge van onvoldoende ontwikkelde infrastructuur of instellingen, kan het Lid, in overeenstemming met een in overleg opgesteld plan, een deel of alle van de volgende bepalingen geleidelijk implementeren:
 
-- a. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2007-06-14&g=2007-06-14);
+- a. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19);
 
-- b. [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2007-06-14&g=2007-06-14), voor zover het van toepassing is op vaartuigen die gedurende langer dan drie dagen op zee blijven;
+- b. [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19), voor zover het van toepassing is op vaartuigen die gedurende langer dan drie dagen op zee blijven;
 
-- c. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=15&z=2007-06-14&g=2007-06-14);
+- c. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=15&z=2020-12-19&g=2020-12-19);
 
-- d. [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=20&z=2007-06-14&g=2007-06-14);
+- d. [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=20&z=2020-12-19&g=2020-12-19);
 
-- e. [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=33&z=2007-06-14&g=2007-06-14); en
+- e. [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=33&z=2020-12-19&g=2020-12-19); en
 
-- f. [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=38&z=2007-06-14&g=2007-06-14).
+- f. [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=38&z=2020-12-19&g=2020-12-19).
 
 2. Het eerste lid is niet van toepassing op vissersvaartuigen:
 
@@ -150,7 +150,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. die normaliter meer dan 200 zeemijlen uit de kustlijn van de vlaggenstaat of buiten de buitengrens van zijn continentaal plat varen, naargelang welke afstand van de kustlijn het grootst is; of
 
-- d. die aan havenstaatcontroles als voorzien in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=43&z=2007-06-14&g=2007-06-14) van dit Verdrag worden onderworpen, behalve wanneer havenstaatcontrole plaatsvindt na een situatie van overmacht, en evenmin op vissers die op dergelijke vaartuigen werken.
+- d. die aan havenstaatcontroles als voorzien in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=43&z=2020-12-19&g=2020-12-19) van dit Verdrag worden onderworpen, behalve wanneer havenstaatcontrole plaatsvindt na een situatie van overmacht, en evenmin op vissers die op dergelijke vaartuigen werken.
 
 3. Elk Lid dat gebruikmaakt van de in het eerste lid geboden mogelijkheid:
 
@@ -166,7 +166,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Voor de toepassing van dit Verdrag kan de bevoegde autoriteit na overleg beslissen de lengte over alles (LOA) in plaats van de lengte (L) te hanteren als basis voor de meting in overeenstemming met de gelijkwaardigheid bij meting, vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2007-06-14&g=2007-06-14). Voor de toepassing van de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2007-06-14&g=2007-06-14) bij dit Verdrag genoemde paragrafen kan de bevoegde autoriteit na overleg beslissen als basis voor de meting de brutotonnage met inachtneming van de gelijkwaardigheid bij meting vervat in Bijlage III te hanteren in plaats van de lengte (L) of de lengte over alles (LOA).
+1. Voor de toepassing van dit Verdrag kan de bevoegde autoriteit na overleg beslissen de lengte over alles (LOA) in plaats van de lengte (L) te hanteren als basis voor de meting in overeenstemming met de gelijkwaardigheid bij meting, vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19). Voor de toepassing van de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) bij dit Verdrag genoemde paragrafen kan de bevoegde autoriteit na overleg beslissen als basis voor de meting de brutotonnage met inachtneming van de gelijkwaardigheid bij meting vervat in Bijlage III te hanteren in plaats van de lengte (L) of de lengte over alles (LOA).
 
 2. In de op grond van [artikel 22 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) ingediende rapporten vermeldt het Lid de redenen voor de ingevolge dit artikel genomen beslissing en eventuele uit het overleg voortvloeiende opmerkingen.
 
@@ -252,7 +252,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan inzake:
 
 ##### Artikel 12
 
-In aanvulling op de vereisten vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2007-06-14&g=2007-06-14) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=11&z=2007-06-14&g=2007-06-14) geldt voor vissersvaartuigen met een lengte van 24 meter of meer of vissersvaartuigen die gewoonlijk langer dan drie dagen op zee blijven het volgende:
+In aanvulling op de vereisten vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=11&z=2020-12-19&g=2020-12-19) geldt voor vissersvaartuigen met een lengte van 24 meter of meer of vissersvaartuigen die gewoonlijk langer dan drie dagen op zee blijven het volgende:
 
 - 1. In de geneeskundige verklaring van een visser wordt ten minste vermeld dat:
 
@@ -276,7 +276,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die scheepsbeheerder
 
 ##### Artikel 14
 
-1. In aanvulling op de vereisten vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=13&z=2007-06-14&g=2007-06-14) moet de bevoegde autoriteit:
+1. In aanvulling op de vereisten vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=13&z=2020-12-19&g=2020-12-19) moet de bevoegde autoriteit:
 
 - a. voor vaartuigen met een lengte van 24 meter of meer een minimum bemanningssterkte vaststellen voor de veilige navigatie van het vaartuig en daarbij het vereiste aantal vissers met hun kwalificaties vermelden;
 
@@ -302,7 +302,7 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan:
 
 - a. die vereisen dat vissers die werken op vaartuigen die onder zijn vlag varen de bescherming genieten van een overeenkomst tot het verrichten van werk door vissers die voor hen begrijpelijk is en strookt met de bepalingen van dit Verdrag; en
 
-- b. die omschrijven welke bijzonderheden minimaal in de overeenkomsten tot het verrichten van werk door vissers moeten worden opgenomen in overeenstemming met de bepalingen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2007-06-14&g=2007-06-14).
+- b. die omschrijven welke bijzonderheden minimaal in de overeenkomsten tot het verrichten van werk door vissers moeten worden opgenomen in overeenstemming met de bepalingen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19).
 
 ##### Artikel 17
 
@@ -320,7 +320,7 @@ De overeenkomst tot het verrichten van werk door vissers, waarvan een afschrift 
 
 ##### Artikel 19
 
-De artikelen 16 tot en met 18 en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2007-06-14&g=2007-06-14) zijn niet van toepassing op een scheepsbeheerder van een vissersvaartuig die zijn vaartuig zelf en alleen vaart.
+De artikelen 16 tot en met 18 en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) zijn niet van toepassing op een scheepsbeheerder van een vissersvaartuig die zijn vaartuig zelf en alleen vaart.
 
 ##### Artikel 20
 
@@ -402,9 +402,9 @@ Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven da
 
 ##### Artikel 28
 
-1. De wet- en regelgeving of andere door het Lid in overeenstemming met de artikelen 25 tot en met 27 aan te nemen maatregelen moeten volledig uitvoering geven aan [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2007-06-14&g=2007-06-14) betreffende de accommodatie op vissersvaartuigen. Bijlage III kan worden gewijzigd op de wijze voorzien in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2007-06-14&g=2007-06-14).
+1. De wet- en regelgeving of andere door het Lid in overeenstemming met de artikelen 25 tot en met 27 aan te nemen maatregelen moeten volledig uitvoering geven aan [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) betreffende de accommodatie op vissersvaartuigen. Bijlage III kan worden gewijzigd op de wijze voorzien in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
 
-2. Een Lid dat niet in de gelegenheid is de bepalingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2007-06-14&g=2007-06-14) te implementeren, kan na overleg in zijn wet- en regelgeving of andere maatregelen bepalingen opnemen die in wezenlijke mate gelijkwaardig zijn aan de bepalingen vervat in Bijlage III, met uitzondering van de bepalingen die betrekking hebben op [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=V&artikel=27&z=2007-06-14&g=2007-06-14).
+2. Een Lid dat niet in de gelegenheid is de bepalingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) te implementeren, kan na overleg in zijn wet- en regelgeving of andere maatregelen bepalingen opnemen die in wezenlijke mate gelijkwaardig zijn aan de bepalingen vervat in Bijlage III, met uitzondering van de bepalingen die betrekking hebben op [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=V&artikel=27&z=2020-12-19&g=2020-12-19).
 
 ## DEEL VI. MEDISCHE ZORG, BESCHERMING VAN DE GEZONDHEID EN SOCIALE ZEKERHEID
 
@@ -492,7 +492,7 @@ De Leden werken door middel van bilaterale of multilaterale overeenkomsten of an
 
 ##### Artikel 37
 
-Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=34&z=2007-06-14&g=2007-06-14), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=35&z=2007-06-14&g=2007-06-14) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=36&z=2007-06-14&g=2007-06-14), mogen Leden, door middel van bilaterale en multilaterale overeenkomsten en door middel van bepalingen, aangenomen in het kader van regionale organisaties voor economische integratie, andere regels aannemen inzake de socialezekerheidswetgeving die op vissers van toepassing is.
+Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=34&z=2020-12-19&g=2020-12-19), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=35&z=2020-12-19&g=2020-12-19) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=36&z=2020-12-19&g=2020-12-19), mogen Leden, door middel van bilaterale en multilaterale overeenkomsten en door middel van bepalingen, aangenomen in het kader van regionale organisaties voor economische integratie, andere regels aannemen inzake de socialezekerheidswetgeving die op vissers van toepassing is.
 
 ##### Artikel 38. Bescherming in geval van werkgerelateerd(e) ziekte, letsel of overlijden
 
@@ -536,7 +536,7 @@ een geldig document aan boord hebben afgegeven door de bevoegde autoriteit waari
 
 ##### Artikel 42
 
-1. De bevoegde autoriteit moet een toereikend aantal gekwalificeerde inspecteurs aanwijzen ter nakoming van haar verantwoordelijkheden uit hoofde van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=41&z=2007-06-14&g=2007-06-14).
+1. De bevoegde autoriteit moet een toereikend aantal gekwalificeerde inspecteurs aanwijzen ter nakoming van haar verantwoordelijkheden uit hoofde van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=41&z=2020-12-19&g=2020-12-19).
 
 2. Bij het opzetten van een effectief inspectiesysteem voor leef- en werkomstandigheden aan boord van vissersvaartuigen kan een Lid, indien van toepassing, openbare instellingen of andere door hem als bevoegd en onafhankelijk erkende organisaties machtigen inspecties uit te voeren en documenten af te geven. In alle gevallen blijft het Lid volledig verantwoordelijk voor de inspectie en afgifte van de desbetreffende documenten inzake de leef- en werkomstandigheden van de vissers op vissersvaartuigen die onder zijn vlag varen.
 
@@ -556,11 +556,11 @@ een geldig document aan boord hebben afgegeven door de bevoegde autoriteit waari
 
 Elk Lid past dit Verdrag op zodanige wijze toe dat gewaarborgd wordt dat de vissersvaartuigen die onder de vlag varen van een Staat die dit Verdrag niet heeft bekrachtigd geen gunstiger behandeling ontvangen dan de vissersvaartuigen die onder de vlag varen van een Lid dat het wel heeft bekrachtigd.
 
-## DEEL VIII. WIJZIGING VAN DE [BIJLAGEN I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2007-06-14&g=2007-06-14), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2007-06-14&g=2007-06-14) EN [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2007-06-14&g=2007-06-14)
+## DEEL VIII. WIJZIGING VAN DE [BIJLAGEN I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) EN [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19)
 
 ##### Artikel 45
 
-1. De Conferentie van de Internationale Arbeidsorganisatie kan de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2007-06-14&g=2007-06-14), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2007-06-14&g=2007-06-14) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2007-06-14&g=2007-06-14) in overeenstemming met de desbetreffende bepalingen van dit Verdrag wijzigen. De Raad van Beheer van het Internationaal Arbeidsbureau kan een punt op de agenda van de Conferentie zetten betreffende voorstellen voor wijzigingen die door een tripartiete vergadering van deskundigen zijn vastgesteld. Voor de beslissing de voorstellen aan te nemen is een meerderheid vereist van twee derde van de stemmen die door de bij de Conferentie aanwezige afgevaardigden zijn uitgebracht, met inbegrip van ten minste de helft van de Leden die dit Verdrag hebben bekrachtigd.
+1. De Conferentie van de Internationale Arbeidsorganisatie kan de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) in overeenstemming met de desbetreffende bepalingen van dit Verdrag wijzigen. De Raad van Beheer van het Internationaal Arbeidsbureau kan een punt op de agenda van de Conferentie zetten betreffende voorstellen voor wijzigingen die door een tripartiete vergadering van deskundigen zijn vastgesteld. Voor de beslissing de voorstellen aan te nemen is een meerderheid vereist van twee derde van de stemmen die door de bij de Conferentie aanwezige afgevaardigden zijn uitgebracht, met inbegrip van ten minste de helft van de Leden die dit Verdrag hebben bekrachtigd.
 
 2. Een in overeenstemming met het eerste lid van dit artikel aangenomen wijziging treedt in werking zes maanden na de datum van de aanneming ervan voor elk Lid dat dit Verdrag heeft bekrachtigd, tenzij dit Lid de Directeur-Generaal van het Internationaal Arbeidsbureau er schriftelijk van in kennis heeft gesteld dat deze voor dat Lid niet in werking treedt of pas op een latere datum na schriftelijke kennisgeving.
 
@@ -600,13 +600,13 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 ##### Artikel 52
 
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen, tevens rekening houdend met de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2007-06-14&g=2007-06-14).
+De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen, tevens rekening houdend met de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
 
 ##### Artikel 53
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
-- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IX&artikel=49&z=2007-06-14&g=2007-06-14) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;
+- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IX&artikel=49&z=2020-12-19&g=2020-12-19) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;
 
 - b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking treedt, dit Verdrag niet langer openstaat voor bekrachtiging door de Leden.
 
