@@ -4,7 +4,7 @@ identifier: "BWBR0045646"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2020-03-23"
+last_updated: "2020-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045646"
 soort: "beleidsregel-BES"
@@ -194,15 +194,15 @@ Dit onderdeel is vervallen met ingang van 1 oktober 2021.
 
 ### 6b.2. Covid-19-testkits
 
-Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+**Als van deze goedkeuring gebruik wordt gemaakt, geldt het volgende. Voor de dienst van het vaccineren met voornoemde COVID-19 vaccins is geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
-### 6b.4. Covid-19-zelftestkits met ontheffing
+### 6b.2. Covid-19-testkits
 
-Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+**Ik keur goed dat geen abb wordt geheven ter zake van de invoer van COVID-19-in-vitrodiagnostiek en de dienst bestaande uit het afnemen en/of uitvoeren van de test met deze testkits.**
 
-Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+**Het begrip COVID-19-in-vitrodiagnostiek moet worden uitgelegd als testkits die geschikt zijn voor en gebruikt worden bij de detectie van het SARS-CoV-2-virus. Daarbij moet het gaan om testkits die op het moment van levering voldoen aan hetgeen is voorgeschreven in de op dat moment actuele versie van de LCI-richtlijn COVID-19 van het RIVM1[https://lci.rivm.nl/richtlijnen/covid-19](onbekend). en meer in het bijzonder in de bij die richtlijn behorende bijlage ‘Aanvullende informatie diagnostiek COVID-192[https://lci.rivm.nl/covid-19/bijlage/aanvullend](onbekend)..**
 
-Onderdeel 6 vervalt met ingang van 1 oktober 2021.
+**Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Voor de invoer en levering van COVID-19-in-vitrodiagnostiek en de dienst van het testen met deze testkits geldt een abb-tarief van nihil, tenzij er ter zake een vrijstelling van toepassing is.**
 
 Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
 
@@ -210,13 +210,13 @@ Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien ver
 
 Onderdeel 6 vervalt met ingang van 1 oktober 2021.
 
-Onderdeel 4 vervalt met ingang van 1 januari 2022.
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
 Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
 
 ### 9. Citeertitel
 
-Onderdeel 2.2 vervalt met ingang van 1 januari 2024.
+Goedkeuring 1 in onderdeel 3 vervalt met ingang van 1 oktober 2021, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 30 september 2021 zijn opgelegd.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -272,7 +272,31 @@ Vooruitlopend op wetgeving keur ik met terugwerkende kracht tot en met 1 januari
 
 ### 8. Inwerkingtreding en vervaldatum
 
+Dit besluit treedt in werking met ingang 1 oktober 2021 en werkt terug tot en met 12 maart 2020, met dien verstande dat
+
+Onderdeel 6 vervalt met ingang van 1 oktober 2021.
+
+### 9. Citeertitel
+
+Onderdeel 2.4 vervalt met ingang van 1 februari 2022.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+**Ik keur goed dat geen abb wordt geheven ter zake de dienst bestaande uit het vaccineren met COVID-19 vaccins. Hieronder vallen alleen de vaccins die door het Europees Geneesmiddelenbureau (EMA) zijn goedgekeurd als COVID-19-vaccins.**
+
+### 6b.3. Covid-19-testkits – uitbreiding
+
+### 6b.4. Covid-19-zelftestkits met ontheffing
+
+### 7. Ingetrokken regeling
+
+### 8. Inwerkingtreding en vervaldatum
+
+Onderdeel 4 vervalt met ingang van 1 januari 2022.
+
 Goedkeuring 2 in onderdeel 3 vervalt met ingang van 1 februari 2022, met dien verstande dat het onderdeel van toepassing blijft ten aanzien van verzuimboeten die uiterlijk op 31 januari 2022 zijn opgelegd.
+
+Onderdeel 2.2 vervalt met ingang van 1 januari 2024.
 
 Onderdeel 2.5 vervalt met ingang van 1 oktober 2027.
 
