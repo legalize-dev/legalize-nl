@@ -4,7 +4,7 @@ identifier: "BWBR0043213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2020-03-01"
+last_updated: "2020-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043213"
 soort: "ministeriele-regeling"
@@ -46,6 +46,8 @@ Treedt in werking op het tijdstip waarop de wet van 14 maart 2018 tot wijziging 
 
 In deze regeling wordt verstaan onder:
 
+- **allotment 9C:** allotment 9C als bedoeld in [artikel 1 van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7](onbekend);
+
 - **commerciële radio-omroep:** radio-omroep als bedoeld in [artikel 1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) door een commerciële media-instelling;
 
 - **commerciële media-instelling:** commerciële media-instelling als bedoeld in [artikel 1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
@@ -64,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepassingsbereik
 
-Deze regeling is van toepassing op frequentieruimte in de FM-band die bestemd is voor commerciële radio-omroep.
+Deze regeling is van toepassing op frequentieruimte die bestemd is voor commerciële radio-omroep.
 
 ##### Artikel 3. Als één aanmerken van twee of meer rechtspersonen
 
@@ -94,6 +96,12 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 14 maart 2018 
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep.
+Deze regeling wordt aangehaald als: Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Maximum allotment 9C
+
+In allotment 9C bedraagt de maximale hoeveelheid frequentieruimte per rechtspersoon: vier vergunningen voor het gebruik van 1/12e deel van de capaciteit van de multiplex.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
