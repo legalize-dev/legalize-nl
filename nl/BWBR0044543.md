@@ -4,7 +4,7 @@ identifier: "BWBR0044543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2020-01-01"
+last_updated: "2020-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044543"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Aan de directeuren-generaal, de directeuren, de chefs de poste en het hoofd van 
 
 ##### Artikel 3
 
-Mandaat, volmacht en machtiging als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044543&artikel=1&z=2020-12-24&g=2020-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0044543&artikel=2&z=2020-12-24&g=2020-01-01) worden uitgeoefend met inachtneming van de [Regeling mandaat, volmacht en machtiging BZ 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044511).
+Mandaat, volmacht en machtiging als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044543&artikel=1&z=2020-12-24&g=2020-12-24) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0044543&artikel=2&z=2020-12-24&g=2020-12-24) worden uitgeoefend met inachtneming van de [Regeling mandaat, volmacht en machtiging BZ 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044511).
 
 ##### Artikel 4
 
