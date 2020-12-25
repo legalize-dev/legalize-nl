@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2020-12-05"
+last_updated: "2020-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -42,7 +42,21 @@ Besluit:
 
 ##### Artikel 1
 
-Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met j, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van de aangelegenheden die hun cluster betreffen.
+Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onder b tot en met h, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) ten aanzien van:
+
+- a). de aangelegenheden die hun cluster betreffen;
+
+- b). de volgende aangelegenheden die mede hun cluster betreffen:
+
+- 1°. het nemen van besluiten op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en daarmee samenhangende beslissingen;
+
+- 2°. het nemen van besluiten op verzoeken als bedoeld in de artikelen 15 tot en met 22 van de Algemene verordening gegevensbescherming en daarmee samenhangende beslissingen;
+
+- 3°. klachtprocedures in de zin van artikel 77 van de Algemene verordening gegevensbescherming;
+
+- 4°. bemiddelingsprocedures in de zin van [artikel 36 van de Uitvoeringswet algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=36);
+
+- 5°. het doen van kennisgevingen als bedoeld in [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12) en daarmee samenhangende beslissingen.
 
 ##### Artikel 2
 
