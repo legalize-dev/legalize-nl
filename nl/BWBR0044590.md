@@ -1,0 +1,207 @@
+---
+title: "Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren"
+identifier: "BWBR0044590"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-29"
+last_updated: "2020-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044590"
+soort: "ministeriele-regeling"
+stam_id: "15779193"
+version_id: "27351342"
+internal_id: "C38630231"
+label_id: "15716934"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044590/2020-12-29/0"
+intitule_bron: "Stcrt.2020-68088"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-18"
+intitule_published: "2020-12-28"
+intitule_in_force: "2020-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-68088"
+original_signed_date: "2020-12-18"
+original_published_date: "2020-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-68088"
+entry_into_force_date: "2020-12-29"
+jci_1_3: "jci1.3:c:BWBR0044590&z=2020-12-29&g=2020-12-29"
+jci_1_0: "1.0:c:BWBR0044590&g=2020-12-29"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling Aanwijzingen externe contacten rijksambtenaren"
+signed_date: "2020-12-18"
+entry_into_force: "2020-12-29"
+---
+# Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren
+
+Handelende in overeenstemming met het gevoelen van de ministerraad,
+
+BESLUIT:
+
+##### Artikel 1
+
+Vastgesteld worden de als bijlage bij deze regeling gevoegde Aanwijzingen voor de externe contacten van rijksambtenaren.
+
+##### Artikel 2
+
+De [regeling van de Minister-President, Minister van Algemene Zaken, van 19 mei 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0031968), Stcrt. 104, wordt ingetrokken.
+
+##### Artikel 3
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+## Aanwijzingen inzake externe contacten van rijksambtenaren
+
+### § 1. Algemene bepalingen
+
+### Aanwijzing 1
+
+Deze aanwijzingen worden in acht genomen door de ministers en staatssecretarissen en de onder hun gezagsbereik werkzame personen.
+
+Toelichting:
+
+Deze aanwijzingen zijn in verband met het beperkte gezagsbereik van de ministers uitsluitend van toepassing op personen die werkzaam zijn onder (volledige) ministeriële verantwoordelijkheid. De aanwijzingen gelden dus, gelet op de bijzondere positie in het staatsbestel van de desbetreffende ambtsdragers, organen en colleges, niet voor rechters, ambtenaren die werkzaam zijn bij de Staten-Generaal, ambtenaren die werkzaam zijn bij andere Hoge Colleges van Staat, bij adviescolleges als bedoeld in de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159) en bij decentrale overheden en zelfstandige bestuursorganen. Dat betekent dat wanneer de Kamer een bestuurder of een medewerker van een zelfstandig bestuursorgaan wil horen, tussenkomst van de betrokken minister niet vereist is. Wel is het wenselijk dat de betrokken minister door de Kamer tegelijk met de uitgenodigde persoon in kennis wordt gesteld van het verzoek van de Kamer. Ministers hebben namelijk weliswaar een beperkte maar toch ook enige ministeriële verantwoordelijkheid ten opzichte van zelfstandig bestuursorganen.1Kamerstukken I 2014/15, C, U, p. 4.
+
+### Aanwijzing 2
+
+In deze aanwijzingen wordt verstaan onder:
+
+Toelichting:
+
+Onderdeel d: Aan het begrip ’ambtenaren’ wordt in deze aanwijzingen een ruime betekenis toegekend. Het gaat hierbij om alle personen die vallen onder het gezagsbereik van een minister. Daarbij gaat het niet alleen om ambtenaren die werkzaam zijn voor de ministers en de staatssecretarissen of voor een van de onder hen ressorterende ambten, instellingen of diensten. Onder het gezagsbereik van een minister of staatssecretaris vallen bij voorbeeld ook militaire ambtenaren, regeringscommissarissen, medewerkers van de planbureaus, medewerkers van de belastingdienst en leden van het openbaar ministerie. Deze aanwijzingen gelden voorts ook voor de interim-manager of de ’ingehuurde’ externe adviseur die ingevolge een privaatrechtelijke overeenkomst (detacheringsovereenkomst, overeenkomst inzake uitzendarbeid e.d.) in ondergeschiktheid voor een minister werkzaam is - als ware hij een in de desbetreffende functie benoemde ambtenaar. In voorkomende gevallen kan het zinvol zijn om expliciet in de desbetreffende overeenkomst zijn gebondenheid aan deze aanwijzingen op te nemen.
+
+### § 2. Functionele contacten met de Staten-Generaal en individuele Kamerleden
+
+### Aanwijzing 3
+
+Toelichting:
+
+Lid 1: De minister is degene die in het Nederlandse staatsbestel aan de Staten-Generaal inlichtingen verstrekt en verantwoording aflegt over het gevoerde beleid (vgl. de [artikelen 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=42), en [68 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=68)). Dit laat de mogelijkheid onverlet dat er rechtstreekse contacten zijn tussen de beide kamers der Staten-Generaal en ambtenaren. Ten aanzien van het optreden van een ambtenaar geldt in eventuele contacten met de Staten-Generaal, dat waar deze plaatsvinden in het kader van de functievervulling door de ambtenaar, de betrokkene handelt onder volledige ministeriële verantwoordelijkheid: de verantwoordelijkheid voor deze contacten berust bij de minister onder wie de ambtenaren ressorteren. Dat brengt mee dat de ambtenaar de toestemming van de betrokken minister behoeft voor contacten met de Staten-Generaal in het kader van zijn functievervulling. [Artikel 42 van het Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=42) sluit daarbij aan voor het geval een Kamercommissie ambtenaren wil horen.
+
+Verzoeken vanwege een van beide kamers der Staten-Generaal om schriftelijke of mondelinge contacten met ambtenaren worden welwillend en zakelijk beoordeeld.2Kamerstukken II 2007/08, 30 184, nr. 21, p. 2; Kamerstukken II 2006/07, 29 283 nr. 46, p. 3 onder d. Dit betekent dat verzoeken in beginsel worden gehonoreerd, tenzij het redelijk vermoeden bestaat dat het contact niet uitsluitend is gericht op het verkrijgen van feitelijke informatie als bedoeld in Aanwijzing 4. Bovendien geldt bij inwilliging van het verzoek voor de ambtenaar de wettelijke geheimhoudingsplicht als bedoeld in Aanwijzing 4. Indien de minister een verzoek om contact weigert, kan hij in het kader van de ministeriële verantwoordelijkheid de informatie zelf verstrekken.
+
+Deze aanwijzing ziet op alle ’vanwege’ de kamers gedane verzoeken: dus op een verzoek van de voorzitter van een van beide kamers of van een voorzitter of griffier van een Kamercommissie, namens die commissie. Gedacht kan worden aan contact in de vorm van een technische briefing, een hoorzitting, een rondetafelgesprek of een werkbezoek van Kamerleden aan ambtelijke diensten.
+
+Werkbezoeken van Kamerleden aan ambtelijke diensten kunnen plaatsvinden op uitnodiging van de minister of op verzoek van Kamerleden zelf. Verzoeken van Kamerleden worden op eenzelfde manier welwillend en zakelijk beoordeeld als andere verzoeken tot contact. Van het werkbezoek wordt verslag gedaan door het diensthoofd aan de minister.3Kamerstukken II 2006/07, 29 283, nr. 46, p. 3 onder e.
+
+Lid 2: Op een verzoek vanwege de Tweede Kamer is het Protocol van afspraken over onderzoeken Tweede Kamer van toepassing.4Protocol van afspraken over onderzoeken Tweede Kamer, **Stcrt**. 21 februari 2002, nr. 37, p. 10, onder d. Daarin is vastgelegd dat voor het verstrekken van mondelinge inlichtingen door ambtenaren aan medewerkers van de Tweede Kamer geldt dat de minister daarvoor de omstandigheden en voorwaarden bepaalt (plaats, registratie, notulen, aard van de informatieverschaffing e.d.). Indien de minister een verzoek om contact inwilligt, kan hij er voor kiezen de ambtenaren die hij heeft aangewezen te vergezellen.
+
+Contacten van Kamerleden met ambtenaren in hun hoedanigheid van lid van een ondernemingsraad kan door de minister worden geweigerd omdat een ondernemingsraad geldt als een intern orgaan met een specifieke functie.5Brief van de Minister van Sociale Zaken en Werkgelegenheid aan de Voorzitter van de Tweede Kamer van 15 juni 2011 over beoogde gesprekken met leden van de Ondernemingsraad van de Arbeidsinspectie (2011Z12760).
+
+### Aanwijzing 4
+
+De ambtenaren beperken zich tijdens het contact met de Staten-Generaal tot het verstrekken van feitelijke informatie.
+
+Toelichting:
+
+Ambtenaren onthouden zich in het contact met de Staten-Generaal van het uitdragen van persoonlijke beleidsopvattingen; zij leggen ook geen verantwoording af over het gevoerde beleid. Ambtenaren dienen zich in de contacten met de Staten-Generaal ook aan hun wettelijke geheimhoudingsplicht te houden. In algemene zin kan worden gewezen op de voor de ambtenaar geldende verplichting tot geheimhouding van gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden (zie [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) en [artikel 9 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=9), voor burgerlijk defensiepersoneel gelezen in samenhang met [artikel 12o, derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o)). Een en ander laat onverlet dat in specifieke gevallen bovendien bijzondere bepalingen gelden ten aanzien van de geheimhouding (zie bijvoorbeeld de [artikel 67 van Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)) of openbaarmaking van gegevens (zie ook aanwijzing 7 m.b.t. het horen in een parlementaire enquête).
+
+### Aanwijzing 5
+
+Toelichting:
+
+Lid 1: Verzoeken van Kamerleden om feitelijke informatie, niet zijnde vragen uit hoofde van artikel 134 [Reglement van Orde Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=134) of [artikel 140 Reglement van Orde Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=140), kunnen telefonisch of per email worden gesteld aan de daartoe door de minister aangewezen parlementair contactpersoon. Deze behandelt de verzoeken welwillend en zakelijk. De parlementair contactpersoon verstrekt de feitelijke informatie direct aan het Kamerlid, dan wel vraagt de informatie op bij de ter zake deskundige ambtenaar en geeft de informatie dan alsnog.6Kamerstukken II 2010/11, 32 500 III, nr. 10. Indien een verzoek bij een andere ambtenaar dan de parlementair contactpersoon binnenkomt, geleidt deze het verzoek door naar de parlementair contactpersoon.
+
+Indien de parlementair contactpersoon twijfelt of de opgevraagde feitelijke informatie relevant zou kunnen zijn voor de uitoefening van de taken van de Kamer als geheel, legt hij het verzoek voor aan de desbetreffende minister. De minister bepaalt vervolgens of de informatie wordt verstrekt aan het individuele Kamerlid of aan de Kamer als geheel, bijvoorbeeld in de vorm van een Kamerbrief waarin ook aanvullende context bij de informatie kan worden gegeven.
+
+Voor planbureaus geldt dat de verslaglegging van hun bevindingen in de vorm van rapporten in de regel openbaar wordt gemaakt op de eigen website van het desbetreffende planbureau. Voor de Rijksinspecties geldt dat het verstrekken van inlichtingen over werkwijze, onderzoek en bevindingen of eventueel te treffen maatregelen weliswaar onder de ministeriële verantwoordelijkheid valt, maar in de praktijk geschiedt de verstrekking daarvan door de Inspecteur-Generaal van de desbetreffende Rijksinspectie. Verwezen wordt naar de op planbureaus en Rijksinspecties betrekking hebbende aanwijzingen.7Aanwijzingen voor de Planbureaus, **Stcrt**. 21 februari 2012, nr. 3200; Aanwijzingen inzake de Rijksinspecties, **Stcrt**. 30 september 2015, nr. 3151041.
+
+Met een verzoek van een Kamerlid wordt in deze aanwijzingen overigens ook gedoeld op een namens een Kamerlid gedaan verzoek, bij voorbeeld gedaan door een fractiemedewerker of de persoonlijk medewerker van het Kamerlid.
+
+Lid 2: Het is in het belang van een goede en democratische besluitvorming dat Kamerleden toegang hebben tot de door hen verlangde openbare informatie. Openbare informatie wordt dan ook zonder meer door de parlementair contactpersoon verstrekt wanneer een Kamerlid daarom vraagt.8Kamerstukken II 2007/08, 30 184, nr. 21, p. 2. De parlementair contactpersoon kan er overigens voor kiezen de minister over het verzoek te informeren, bijvoorbeeld omdat hij meent dat het een signaal is van een voor de minister relevante politieke ontwikkeling.
+
+In het geval een Kamerlid vraagt om niet-openbare feitelijke informatie geldt de procedure omschreven in de toelichting op lid 1 van deze aanwijzing. Verzoeken om niet-openbare informatie van niet-feitelijke aard worden altijd doorgeleid naar de desbetreffende minister. Deze treedt dan persoonlijk in contact met het vragenstellende Kamerlid. De minister of een daardoor aangewezen persoon verschaft dan de gevraagde informatie of adviseert het Kamerlid om een vraag te stellen uit hoofde van [artikel 134 Reglement van Orde Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023&artikel=134) of [artikel 140 Reglement van Orde Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=140)9Kamerstukken II 2010/11, 32 500 III, nr. 10.
+
+### Aanwijzing 6
+
+Ambtenaren nemen slechts op aanwijzing van de betrokken minister contact op met een Kamerlid.
+
+Toelichting:
+
+Het initiatief voor het contact met Kamerleden dient - behoudens aanwijzing van de minister - niet bij ambtenaren te liggen.
+
+### Aanwijzing 7
+
+De aanwijzingen 3 tot en met 6 gelden niet indien de ambtenaar op grond van de [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825) als getuige of deskundige is gedagvaard.
+
+Toelichting:
+
+Ingevolge de [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825) (Wpe 2008) dient de ambtenaar ook zonder toestemming van de betrokken minister mee te werken aan het verhoor door de enquêtecommissie. Wanneer schriftelijke inlichtingen en documenten worden gevorderd op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=5) en [6 van de Wpe 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=6) is voor medewerking door de ambtenaar tussenkomst van de minister vereist op grond van [artikel 16, tweede lid, Wpe 2008.](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=16) Voor het geval de door de enquêtecommissie verlangde openbaarmaking door de ambtenaar in strijd met het belang van de Staat wordt geacht, schrijft [artikel 19, tweede lid, Wpe 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=19) voor dat het beroep op verschoning wordt bevestigd door de minister wie het aangaat. Tevens formuleert [artikel 20, eerste lid, Wpe 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=20), een uitzondering voor informatie over besluiten genomen in de ministerraad en de gronden waarop die besluiten berusten. Overigens zijn de uitzonderingen op het verstrekken van schriftelijke inlichtingen en documenten bij een parlementaire ondervraging niet van toepassing. Dit instrument ziet immers alleen op het vergaren van mondelinge inlichtingen en niet op de toepassing van andere bevoegdheden.10Kamerstukken II 2015/16, 34 400, nr. 2, p. 4. De overige uitzonderingen op het verstrekken van inlichtingen die de Wpe 2008 noemt, zijn wel van toepassing op de parlementaire ondervraging.
+
+### Aanwijzing 8
+
+Voor het verlenen van bijstand aan leden van de Tweede Kamer bij het formuleren van amendementen of initiatiefwetsvoorstellen zijn, in afwijking van aanwijzing 3, de [aanwijzingen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&aanwijzing=7.20) en [7.23 van de Aanwijzingen voor de regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&aanwijzing=7.23) van toepassing.
+
+Toelichting:
+
+De genoemde [aanwijzingen voor de regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0005730) gaan er vanuit dat dergelijke juridische en wetgevingstechnische bijstand in beginsel zoveel mogelijk wordt verleend. Deze bijstand kan rechtstreeks aan ambtenaren worden verzocht. Dezen informeren hun minister. Voor het verlenen van bijstand bij een initiatiefvoorstel behoeft een ambtenaar volgens genoemde aanwijzingen toestemming van zijn minister. In het Draaiboek voor de regelgeving wordt bij genoemde aanwijzingen aangesloten (zie daarin de punten 69, 131 en 132).
+
+### § 3. Functionele contacten met derden
+
+### Aanwijzing 9
+
+De in deze paragraaf opgenomen aanwijzingen gelden voor andere functionele contacten dan die met de Staten-Generaal of met Kamerleden.
+
+### Aanwijzing 10
+
+Toelichting:
+
+Eerste lid: Ambtenaren zijn bij de uitoefening van hun functie altijd werkzaam voor de betrokken minister. Ambtenaren handelen of spreken niet voor zichzelf, maar met het oog op het door de minister vastgestelde beleid of, zodra daarvan sprake is, het door de ministerraad vastgestelde algemene regeringsbeleid. Voor dit handelen of spreken is niet altijd een directe instructie nodig, zolang ambtenaren zich bewust zijn van de staatsrechtelijke en rechtspositionele kaders waarbinnen zij dienen te opereren. In een onderhandelingssituatie zal een ambtenaar binnen deze kaders in het algemeen meer ruimte voor initiatief hebben dan bij gebonden uitvoering van wet- en regelgeving.11Kamerstukken II, 2010/11, 32 500 V en VII, nr. 145, p. 3.
+
+Tweede lid: van een ambtenaar kan worden verlangd dat hij zich in contacten met derden gedraagt zoals het een goed ambtenaar betaamt, zoals dat is vastgelegd in [artikel 6, eerste lid van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=6). Ambtenaren in de zin van de Ambtenarenwet 2017 vallen onder het private arbeidsrecht, waardoor dergelijke eisen langs die weg voor hen gelden. In [artikel 3 Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) is een aantal bijzondere categorieën ambtenaren genoemd waarmee een overheidswerkgever geen arbeidsovereenkomst sluit. Deze categorieën vallen niet onder het private arbeidsrecht. Voor hen wordt dit hier expliciet bepaald.
+
+### Aanwijzing 11
+
+Toelichting:
+
+Voor het openbaarmaken van documenten aan derden is de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de daarop gebaseerde regelingen het wettelijk kader. Elk ministerie heeft een eigen voorziening voor het behartigen van de communicatiefunctie. In de regel wenden de media zich in eerste instantie tot de afdeling voorlichting van het ministerie. In alle andere gevallen is het echter aangewezen de afdeling voorlichting op de hoogte te stellen van door de media gedane verzoeken.
+
+### § 4. Externe contacten van ambtenaren en de vrijheid van meningsuiting
+
+### Aanwijzing 12
+
+Voor het openbaren van gedachten en gevoelens gelden voor ambtenaren de beperkingen die zijn neergelegd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=9) en [10, eerste lid van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10), dan wel [artikel 12a, eerste en derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a).
+
+Toelichting:
+
+[Artikel 10, eerste lid, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) bepaalt voor wat betreft de vrijheid van meningsuiting dat de ambtenaar zich dient te onthouden van het openbaren van gedachten of gevoelens, indien door de uitoefening van dit recht ’de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd’. Deze norm geldt voor de openbaring van persoonlijke opvattingen van de ambtenaar. Uitlatingen die de ambtenaar overeenkomstig de opdracht van diens bevoegd gezag of overheidswerkgever doet, vallen niet onder deze norm. Het zal niet altijd duidelijk zijn of de ambtenaar zijn uitlatingen heeft gedaan binnen diens functievervulling, dan wel daarbuiten. Indien de ambtenaar hierover zelf onduidelijkheid laat bestaan, kan dit een factor zijn die meeweegt bij de beoordeling of de norm is overschreden (zie ook aanwijzing 14 en de toelichting daarbij). [Artikel 9 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=9) luidt: ‘De ambtenaar en de gewezen ambtenaar zijn verplicht tot geheimhouding van hetgeen hen in verband met hun functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.’ De normen uit de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=9) en [10 Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) zijn via [artikel 12o, derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o) van overeenkomstige toepassing op burgerlijk defensiepersoneel. Voor militaire ambtenaren geldt [artikel 12a, eerste en derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a), welke artikelleden overeenkomstig de artikelen 9 en 10 van de Ambtenarenwet 2017 zijn geformuleerd. De ambtenaar die deze wettelijke normen overtreedt, maakt zich schuldig aan plichtsverzuim. Het moge duidelijk zijn dat deze aanwijzing alleen van toepassing is op personen voor wie de artikelen 9 en 10 van de Ambtenarenwet 2017 (voor burgerlijk defensiepersoneel in samenhang gelezen met artikel 12o, derde lid, van de Wet ambtenaren defensie) of artikel 12a van de Wet ambtenaren defensie geldt.
+
+Ten aanzien van de interimmanagers of uitzendkrachten die op detacheringsovereenkomst of overeenkomst inzake uitzendarbeid werkzaam zijn, is deze bepaling derhalve niet rechtstreeks van toepassing. In voorkomende gevallen dient de daarin neergelegde norm evenwel ook voor deze personen naar analogie te gelden. Om dit te waarborgen is het aan te bevelen hiertoe een verzoek te doen aan het betreffende bureau. Het [tweede lid van artikel 10 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) en van [artikel 12a van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a) betreft het lidmaatschap van een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627), of een vakvereniging. Ten aanzien van het lidmaatschap daarvan kunnen de ambtenaar geen beperkingen worden opgelegd.
+
+### Aanwijzing 13
+
+In voorkomende gevallen toetst het bevoegd gezag of de overheidswerkgever achteraf of door de uitlatingen van de ambtenaar diens functievervulling of de goede functionering van de openbare dienst, voor zover deze in verband staan met diens functievervulling, niet meer in redelijkheid zal zijn verzekerd.
+
+Toelichting:
+
+De normen, neergelegd in [artikel 10, eerste lid, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) (voor burgerlijk defensiepersoneel in samenhang gelezen met [artikel 12o, derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o)) en in [artikel 12a, eerste lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a), richten zich tot de ambtenaar. [Artikel 7 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=7) verbiedt te allen tijde preventieve toetsing van een uiting. Het gaat derhalve steeds om toetsing achteraf van reeds gedane uitingen. Dit neemt niet weg dat de ambtenaar zelf, zo hij daartoe behoefte voelt, voorgenomen uitingen aan zijn bevoegd gezag of zijn overheidswerkgever kan voorleggen. Het bevoegd gezag of de overheidswerkgever is verantwoordelijk voor de handhaving van de normen.
+
+### Aanwijzing 14
+
+Factoren die een rol kunnen spelen bij de beoordeling door het bevoegd gezag of de overheidswerkgever of de normen, neergelegd in [artikel 10, eerste lid, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) en [artikel 12a, eerste lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a), zijn overschreden, zijn:
+
+Toelichting:
+
+Voor de vrijheid van meningsuiting van een ambtenaar gelden de beperkingen die ook gelden voor iedere andere burger. Bovendien geldt, gelet op de bijzondere rechtsverhouding tussen ambtenaar en overheid, dat hij of zij zich gedraagt zoals een goed ambtenaar betaamt bij de vervulling van de bij of krachtens de wet op hem of haar rustende en uit zijn of haar functie voortvloeiende verplichtingen, zoals bepaald in [artikel 6, eerste lid, Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=6). Of de normen van [artikel 10, eerste lid, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=10) (voor burgerlijk defensiepersoneel in samenhang gelezen met [artikel 12o, derde lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o)) en [artikel 12a, eerste lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12a) zijn overschreden, dient te worden beoordeeld aan de hand van verschillende factoren, die in samenhang met elkaar tot die conclusie kunnen leiden. De onder a tot en met f genoemde factoren kunnen bij die beoordeling als leidraad worden gehanteerd. Voor wat betreft de onder a) genoemde factor geldt dat hoe verder het beleidsterrein van de ambtenaar verwijderd ligt van het beleidsterrein waarover hij zich heeft uitgelaten, hoe minder snel kan worden aangenomen dat voornoemde normen zijn overschreden.. Naarmate het terrein van de betrokken ambtenaar dichter bij het terrein ligt, waarover hij zich uitlaat, kan de maatschappelijke impact van die uitspraken groter zijn en zal hij daarmee zijn eigen functioneren of de goede functionering van de openbare dienst kunnen schaden. De factor, genoemd onder d, betreft onder andere de bewoordingen waarin de uiting is gedaan, het middel waarmee de uitlating is gedaan, of in hoeverre de betrokken ambtenaar duidelijk heeft gemaakt in welke hoedanigheid hij de uitingen heeft gedaan (zie ook de toelichting bij aanwijzing 12). De onder f) genoemde factor brengt met zich dat niet elke belemmering of elke complicatie met betrekking tot de goede functionering leidt tot overtreding van de norm. De belemmering of complicatie van de goede functionering moet naar objectieve maatstaven gemeten een zekere ernst en bestendigheid hebben: de problemen met betrekking tot de functievervulling en de functionering van de openbare dienst moeten uit de gedragingen van de betrokkene zelf voortvloeien; zij mogen niet primair te wijten zijn aan eventuele subjectieve negatieve reacties van derden.
+
+### Aanwijzing 15
+
+Het bevoegd gezag of de overheidswerkgever toetst in voorkomende gevallen of de ambtenaar zijn geheimhoudingsplicht niet heeft geschonden.
+
+Toelichting:
+
+Wanneer geheimhouding uit de aard der zaak volgt, valt niet in algemene termen aan te geven. Dit zal van geval tot geval dienen te worden bezien. Gewezen zij op de samenhang met de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Wob) in die zin dat voor hetgeen op grond van de Wob openbaar is uiteraard geen geheimhoudingsplicht geldt. Ten aanzien van de interimmanager die op detacheringsovereenkomst of overeenkomst inzake uitzendarbeid werkzaam is, geldt [artikel 2:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5). Deze bepaling legt een geheimhoudingsplicht op aan een ieder die betrokken is bij de uitvoering van de taak van een bestuursorgaan. In [artikel 272 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272) is het opzettelijk schenden van een geheimhoudingsplicht strafbaar gesteld.
+
+### § 5. Disciplinaire maatregelen
+
+### Aanwijzing 16
+
+De overheidswerkgever kan ordemaatregelen nemen en straffen opleggen overeenkomstig hetgeen daarover is overeengekomen in de laatste afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Het bevoegd gezag kan de nodige disciplinaire maatregelen nemen. Daarbij wordt gelet op de ernst van de normovertreding en de persoon van de dader. Alvorens daartoe over te gaan, wordt advies ingewonnen van de Adviescommissie Grondrechten en functie-uitoefening Ambtenaren.
+
+Toelichting:
+
+Op grond van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren in de zin van [artikel 1 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) kan de overheidswerkgever ordemaatregelen nemen en straffen opleggen. Voor burgerlijk defensiepersoneel en militairen, die niet onder de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) vallen, geldt dat het bevoegd gezag disciplinaire maatregelen kan nemen, bijvoorbeeld op grond van de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=99) en [100 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=100). Voor militaire ambtenaren zij verwezen naar de specifieke, voor militairen geldende wettelijke bepalingen. Alvorens de overheidswerkgever of het bevoegd gezag overgaat tot het opleggen van een straf voor de manier waarop een ambtenaar in het openbaar zijn mening heeft gegeven, een betoging of vergadering heeft bijgewoond of lid is van een bepaalde vereniging, wordt advies gevraagd aan de Adviescommissie grondrechten en functie-uitoefening ambtenaren (Agfa).
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
