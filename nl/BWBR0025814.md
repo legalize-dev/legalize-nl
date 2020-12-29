@@ -4,7 +4,7 @@ identifier: "BWBR0025814"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2020-09-01"
+last_updated: "2020-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025814"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, onder i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker;
+- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, onder i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker, en de vrijwillige ambtenaar;
 
 - b. **bevoegd gezag:** het gezag, bedoeld in [artikel 1, onder l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
@@ -212,7 +212,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 
-## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2020-12-29&g=2020-09-01), van de Regeling studiefaciliteiten politie
+## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2020-12-29&g=2020-12-29), van de Regeling studiefaciliteiten politie
 
 ### Verklaring
 
