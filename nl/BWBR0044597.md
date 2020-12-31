@@ -1,0 +1,1451 @@
+---
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)"
+identifier: "BWBR0044597"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2020-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044597"
+soort: "ministeriele-regeling"
+stam_id: "15780253"
+version_id: "30124122"
+internal_id: "C43162651"
+label_id: "15718014"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044597/2026-01-01/0"
+intitule_bron: "Stcrt.2020-66579"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-21"
+intitule_published: "2020-12-29"
+intitule_in_force: "2020-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17335"
+original_signed_date: "2024-05-28"
+original_published_date: "2024-05-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-17335"
+entry_into_force_date: "2024-05-28"
+jci_1_3: "jci1.3:c:BWBR0044597&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0044597&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling zonering onbemande luchtvaartuigen"
+signed_date: "2024-05-28"
+entry_into_force: "2024-05-28"
+---
+# Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)
+
+Handelende in overeenstemming met de Staatssecretaris van Defensie,
+
+Gelet op [artikel 9 van het Besluit vluchtuitvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=9);
+
+BESLUIT:
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- a). **basisverordening:** Verordening (EU) nr. 2018/1139 van het Europees Parlement en de Raad van 4 juli 2018 inzake gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Agentschap van de Europese Unie voor de veiligheid van de luchtvaart, en tot wijziging van de [Verordeningen (EG) nr. 2111/2005](32005R2111), [(EG) nr. 1008/2008](32008R1008), (EU) [nr. 996/2010](32010R0996), (EU) [nr. 376/2014](32014R0376) en de Richtlijnen [2014/30](31930R2014)/EU en [2014/53](31953R2014)/EU van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen [(EG) nr. 552/2004](32004R0552) en [(EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad en [Verordening (EEG) nr. 3922/91](31991R3922) van de Raad;
+
+- b). **onbemand luchtvaartuig:** onbemand luchtvaartuig als bedoeld in artikel 3 van de basisverordening;
+
+- c). **open categorie:** ‘open’ categorie als bedoeld in artikel 3 van uitvoeringsverordening (EU) nr. 2019/947;
+
+- d). **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+
+- e). **zone:** geografische UAS-zone als bedoeld in artikel 2 van uitvoeringsverordening (EU) nr. 2019/947.
+
+##### Artikel 2. Laagvliegroutes en -gebieden voor civiele en militaire luchtvaartuigen
+
+1. Het is verboden in de open categorie een vlucht uit te voeren hoger dan 30 meter boven het dichtstbijzijnde punt van het aardoppervlak in de volgende geografische zones waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen:
+
+- a. Laagvliegroute 10 (vliegrichting Zuid-Noord) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°04'30.00"N 006°44'00.00"E; 52°14'40.00"N 006°39'30.00"E; 52°17'30.00"N 006°38'30.00"E; 52°25'00.00"N 006°36'30.00"E; 52°36'40.00"N 006°33'00.00"E; 53°03'00.00"N 007°13'30.00"E; terug naar beginpunt;
+
+- b. GLV I (Noord-Drenthe) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°03'45.00"N 006°43'30.35"E; 52°59'14.96"N 006°39'00.31"E; 53°01'00.20"N 006°38'00.54"E; 53°03'45.00"N 006°40'30.40"E; 53°03'45.00"N 006°43'30.35"E; terug naar beginpunt;
+
+- c. GLV II (Midden-Drenthe) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°46'00.11"N 006°39'59.22"E; 52°45'59.86"N 006°20'12.82"E; 52°53'01.08"N 006°22'50.90"E; 52°59'14.56"N 006°30'00.41"E; 52°58'14.58"N 006°32'53.64"E; 52°58'01.59"N 006°34'17.35"E; 52°58'15.07"N 006°38'17.05"E; 52°58'32.97"N 006°39'30.41"E; 52°58'02.98"N 006°48'33.99"E; 52°46'00.11"N 006°39'59.22"E; terug naar beginpunt;
+
+- d. GLV III (West-Drenthe) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°54'00.00"N 006°21'00.00"E; 52°46'00.00"N 006°14'00.00"E; 52°47'00.00"N 006°13'00.00"E; 52°53'00.00"N 006°13'00.00"E; 52°54'00.00"N 006°21'00.00"E; terug naar beginpunt;
+
+- e. GLV IV (Ginkelse Heide) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°04'15.32"N 005°44'30.12"E; 52°01'30.31"N 005°44'45.28"E; 52°01'50.52"N 005°43'00.03"E; 52°04'30.26"N 005°41'30.16"E; 52°04'15.32"N 005°44'30.12"E; terug naar beginpunt;
+
+- f. GLV V (Oirschot) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°28'17.71"N 005°23'24.59"E; 51°27'49.49"N 005°22'45.43"E; 51°28'08.87"N 005°20'42.34"E; 51°27'55.93"N 005°18'44.14"E; 51°29'32.96"N 005°18'43.34"E; 51°29'30.65"N 005°21'14.63"E; 51°29'29.75"N 005°21'31.83"E; 51°29'09.05"N 005°23'08.00"E; 51°28'57.63"N 005°23'17.45"E; 51°28'17.71"N 005°23'24.59"E; terug naar beginpunt;
+
+- g. GLV VI (Salland) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°18'00.40"N 006°28'00.03"E; 52°16'59.97"N 006°16'59.97"E; 52°23'00.54"N 006°15'00.44"E; 52°19'59.93"N 006°30'00.44"E; 52°18'00.40"N 006°28'00.03"E; terug naar beginpunt;
+
+- h. GLV VII (Veluwe/Randmeren) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°30'00.44"N 005°58'00.03"E; 52°26'52.81"N 005°59'09.33"E; 52°24'25.42"N 006°00'56.49"E; 52°22'55.39"N 005°56'31.60"E; 52°06'00.35"N 005°53'00.54"E; 52°08'00.54"N 005°40'00.07"E; 52°13'00.03"N 005°34'00.16"E; 52°13'59.79"N 005°38'00.54"E; 52°25'00.07"N 005°40'59.84"E; 52°34'59.93"N 005°49'59.93"E; 52°30'00.44"N 005°58'00.03"E; terug naar beginpunt;
+
+- i. GLV VIII (De Peel) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°16'59.97"N 006°02'30.07"E; 51°16'59.97"N 005°48'00.40"E; 51°25'59.84"N 005°48'00.40"E; 51°25'59.84"N 006°02'30.07"E; 51°24'00.31"N 006°06'29.79"E; 51°22'00.12"N 006°06'29.79"E; 51°19'59.93"N 006°04'00.16"E; 51°18'00.40"N 006°06'00.35"E; 51°16'59.97"N 006°02'30.07"E; terug naar beginpunt;
+
+- j. GLV IX (Maas/Waal) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°44'22.91"N 005°11'32.97"E; 51°44'29.07"N 005°11'03.87"E; 51°44'32.32"N 005°10'36.45"E; 51°44'31.98"N 005°09'53.09"E; 51°44'20.51"N 005°08'27.76"E; 51°44'06.48"N 005°07'09.98"E; 51°43'53.30"N 005°06'18.79"E; 51°43'26.90"N 005°05'15.36"E; 51°43'15.48"N 005°05'01.07"E; 51°42'51.42"N 005°04'31.87"E; 51°42'39.65"N 005°04'00.40"E; 51°42'34.52"N 005°03'43.79"E; 51°42'29.17"N 005°03'18.78"E; 51°42'25.96"N 005°02'45.38"E; 51°42'24.78"N 005°02'18.63"E; 51°42'25.32"N 005°01'54.85"E; 51°42'26.92"N 005°01'23.03"E; 51°42'31.52"N 005°00'40.71"E; 51°42'33.88"N 005°00'26.55"E; 51°42'36.01"N 004°59'50.01"E; 51°42'40.40"N 004°59'15.73"E; 51°42'32.60"N 004°58'71.75"E; 51°42'23.18"N 004°57'33.44"E; 51°42'24.04"N 004°56'56.37"E; 51°42'31.14"N 004°55'53.44"E; 51°42'44.78"N 004°54'58.17"E; 51°42'49.94"N 004°54'24.60"E; 51°42'55.27"N 004°54'06.77"E; 51°43'01.04"N 004°53'54.53"E; terug naar beginpunt;
+
+- k. GLV X (Voorne-Putten/Hoeksewaard) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°53'19.26"N 004°01'49.06"E; 51°54'22.26"N 004°03'07.37"E; 51°55'27.71"N 004°04'23.35"E; 51°55'37.17"N 004°04'48.75"E; 51°55'46.29"N 004°08'37.98"E; 51°55'31.90"N 004°08'53.24"E; 51°54'59.87"N 004°09'56.00"E; cirkelboog naar links (straal 1 NM, met middelpunt 51°54'00.00"N 004°10'00.00"E) naar 51°54'09.20"N 004°11'35.72"E; 51°54'04.85"N 004°12'09.30"E; 51°53'27.73"N 004°12'57.32"E; 51°53'06.75"N 004°13'37.72"E; 51°52'20.54"N 004°14'13.03"E; 51°51'52.79"N 004°15'33.83"E; 51°51'47.93"N 004°16'07.17"E; 51°51'49.01"N 004°17'03.38"E; cirkelboog naar links (straal 1 NM, met middelpunt 51°51'00.00"N 004°20'00.00"E) naar 51°50'27.52"N 004°23'06.25"E; 51°50'29.90"N 004°24'52.34"E; 51°49'50.70"N 004°26'59.47"E; 51°49'47.76"N 004°28'12.64"E; 51°49'59.03"N 004°29'45.30"E; 51°49'56.43"N 004°30'17.23"E; 51°49'39.95"N 004°31'14.01"E; 51°49'50.53"N 004°32'43.85"E; 51°49'48.10"N 004°33'02.21"E; 51°48'40.47"N 004°34'00.12"E; 51°48'19.31"N 004°34'56.63"E; 51°48'22.18"N 004°35'21.77"E; 51°48'01.19"N 004°36'57.25"E; 51°47'48.97"N 004°37'11.66"E; 51°46'46.80"N 004°37'34.83"E; 51°45'33.09"N 004°37'27.20"E; 51°45'02.05"N 004°37'46.13"E; 51°44'10.03"N 004°37'40.48"E; 51°43'21.47"N 004°37'07.14"E; 51°43'01.35"N 004°36'24.77"E; 51°42'15.92"N 004°33'28.48"E; 51°42'02.22"N 004°31'52.15"E; 51°42'53.38"N 004°28'08.69"E; 51°42'59.10"N 004°26'08.06"E; 51°43'18.61"N 004°24'35.68"E; 51°44'24.77"N 004°21'21.34"E; 51°45'09.68"N 004°18'48.48"E; 51°45'40.90"N 004°15'57.56"E; 51°45'57.55"N 004°14'55.69"E; 51°48'14.80"N 004°10'58.67"E; 51°49'08.44"N 004°09'49.27"E; cirkelboog naar links (straal 1 NM, met middelpunt 51°50'00.00"N 004°09'00.00"E) naar 51°49'11.53"N 004°08'03.14"E; 51°49'40.39"N 004°05'41.22"E; 51°53'19.26"N 004°01'49.06"E; terug naar beginpunt;
+
+- l. GLV XI (Wieringermeerpolder) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°45'30.54"N 004°57'25.53"E; 52°52'20.33"N 004°56'16.54"E; 52°52'49.12"N 004°56'05.55"E; 52°52'57.69"N 004°55'56.32"E; 52°53'04.94"N 004°56'06.43"E; 52°53'12.85"N 004°55'59.18"E; 52°53'02.74"N 004°55'38.31"E; 52°53'02.08"N 004°55'23.80"E; 52°53'02.74"N 004°55'07.98"E; 52°53'11.31"N 004°54'57.88"E; 52°53'20.10"N 004°54'47.11"E; 52°53'25.15"N 004°54'35.02"E; 52°53'35.92"N 004°54'27.77"E; 52°53'45.15"N 004°54'41.40"E; 52°53'48.88"N 004°54'54.36"E; 52°53'56.13"N 004°55'06.66"E; 52°54'16.13"N 004°56'19.39"E; 52°55'00.07"N 004°57'16.96"E; 52°55'17.43"N 004°57'26.19"E; 52°55'28.86"N 004°57'29.93"E; 52°55'46.87"N 004°58'00.91"E; 52°55'50.61"N 004°58'11.67"E; 52°55'52.59"N 004°58'33.87"E; 52°55'54.13"N 004°58'47.71"E; 52°55'55.66"N 004°59'14.30"E; 52°56'05.55"N 004°59'53.19"E; 52°56'07.75"N 005°00'08.35"E; 52°56'08.63"N 005°00'19.12"E; 52°56'04.23"N 005°00'32.74"E; 52°56'02.04"N 005°00'44.38"E; 52°56'05.55"N 005°01'12.29"E; 52°56'13.46"N 005°01'34.04"E; 52°56'15.66"N 005°01'51.18"E; terug naar beginpunt;
+
+- m. GLV XII (Noordzee) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°35'00.00"N 004°40'00.00"E; 53°35'00.00"N 005°00'00.00"E; 53°22'46.98"N 005°00'00.00"E; cirkelboog naar links (straal 8 NM, met middelpunt 53°15'00.00"N 004°57'00.00"E) naar 53°15'00.00"N 004°43'40.92"E; 53°15'00.00"N 004°37'01.38"E; 53°06'10.00"N 004°30'56.00"E; 53°05'00.00"N 004°21'00.00"E; 53°05'00.00"N 004°10'00.00"E; 53°12'14.60"N 004°10'00.00"E; cirkelboog naar links (straal 5 NM, met middelpunt 53°17'00.28"N 004°12'30.13"E) naar 53°14'27.45"N 004°19'39.78"E; 53°35'00.00"N 004°40'00.00"E; terug naar beginpunt;
+
+- n. Oefengebied externe blusinstallatie helikopters, Lek West de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°00'08.23"N 005°07'13.20"E; 52°00'00.22"N 005°06'59.75"E; 51°59'48.56"N 005°07'29.02"E; 51°59'33.27"N 005°07'50.38"E; 51°58'44.47"N 005°08'38.63"E; 51°58'27.96"N 005°08'45.75"E; 51°58'15.34"N 005°09'12.25"E; 51°58'10.48"N 005°09'36.37"E; 51°58'05.02"N 005°10'27.39"E; 51°57'55.31"N 005°10'52.71"E; 51°57'38.07"N 005°11'29.88"E; 51°57'30.54"N 005°12'13.00"E; 51°57'32.24"N 005°12'41.87"E; 51°57'38.31"N 005°12'54.92"E; 51°57'45.35"N 005°12'51.75"E; 51°57'37.83"N 005°12'28.02"E; 51°57'41.71"N 005°11'49.26"E; 51°57'52.64"N 005°11'20.39"E; 51°58'06.23"N 005°10'55.08"E; 51°58'12.67"N 005°10'35.70"E; 51°58'16.06"N 005°10'09.20"E; 51°58'19.95"N 005°09'19.37"E; 51°58'30.39"N 005°08'59.99"E; 51°58'43.50"N 005°08'48.91"E; 51°59'06.08"N 005°08'42.98"E; 51°59'22.59"N 005°08'44.56"E; 51°59'39.58"N 005°08'29.93"E; 51°59'49.53"N 005°08'11.34"E; 52°00'08.23"N 005°07'13.20"E; terug naar beginpunt;
+
+- o. Oefengebied externe blusinstallatie helikopters, Lek Oost de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°10'57.70"N 005°19'29.95"E; 52°10'55.23"N 005°19'26.08"E; 52°10'53.33"N 005°19'35.01"E; 52°10'54.69"N 005°19'48.62"E; 52°10'55.23"N 005°19'53.68"E; 52°10'57.94"N 005°19'59.06"E; 52°10'58.23"N 005°20'04.84"E; 52°10'55.81"N 005°20'13.62"E; 52°10'41.31"N 005°20'25.25"E; 52°10'42.48"N 005°20'28.25"E; 52°10'57.53"N 005°20'16.54"E; 52°10'59.45"N 005°20'10.22"E; 52°11'00.42"N 005°20'00.48"E; 52°10'56.54"N 005°19'48.07"E; 52°10'55.52"N 005°19'36.04"E; 52°10'57.70"N 005°19'29.95"E; terug naar beginpunt;
+
+- p. Oefengebied externe blusinstallatie helikopters, Bergse Maas: Bergse Maas 1 de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°43'11.09"N 004°58'20.24"E; 51°43'16.96"N 004°57'41.09"E; 51°43'19.39"N 004°57'07.08"E; 51°43'17.94"N 004°56'21.59"E; 51°43'06.87"N 004°54'57.59"E; 51°43'14.54"N 004°54'55.37"E; 51°43'24.73"N 004°56'12.89"E; 51°43'26.68"N 004°56'50.07"E; 51°43'24.97"N 004°57'33.58"E; 51°43'17.33"N 004°58'24.60"E; 51°43'11.09"N 004°58'20.24"E; terug naar beginpunt;
+
+- q. Oefengebied externe blusinstallatie helikopters, Bergse Maas: Bergse Maas 2 de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°42'36.28"N 005°02'39.54"E; 51°42'36.18"N 005°01'47.89"E; 51°42'40.06"N 005°00'56.08"E; 51°42'48.32"N 004°59'59.52"E; 51°42'54.87"N 005°00'02.29"E; 51°42'46.86"N 005°00'52.12"E; 51°42'42.73"N 005°01'46.30"E; 51°42'42.79"N 005°02'38.99"E; 51°42'36.28"N 005°02'39.54"E; terug naar beginpunt;
+
+- r. Oefengebied externe blusinstallatie helikopters, Bergse Maas: Bergse Maas 3 de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°43'22.31"N 005°04'51.88"E; 51°43'43.23"N 005°05'33.33"E; 51°43'57.63"N 005°06'13.27"E; 51°43'52.94"N 005°06'18.33"E; 51°43'37.72"N 005°05'36.49"E; 51°43'18.18"N 005°04'57.41"E; 51°43'22.31"N 005°04'51.88"E; terug naar beginpunt;
+
+- s. Route VO de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°27'00.00"N 004°20'12.00"E (Woensdrecht); 51°37'16.00"N 004°30'47.00"E (Standdaarbuiten); 51°41'35.00"N 004°56'53.00"E (Waspik); 51°49'38.00"N 005°40'56.00"E (Hernen); 51°50'58.00"N 005°33'38.00"E (Altforst); 51°50'53.00"N 005°15'25.00"E (Waardenburg); 51°52'11.00"N 005°03'04.00"E (Kedichem); 51°51'50.00"N 004°56'17.00"E (Hoornaar); 51°45'53.00"N 004°38'56.00"E (Dordrecht); 51°42'55.00"N 004°37'31.00"E (Moerdijk); 51°42'34.00"N 004°25'23.00"E (as Hollands Diep); 51°39'24.00"N 004°20'35.00"E (as Volkerak); 51°27'00.00"N 004°20'12.00"E (Woensdrecht); terug naar beginpunt;
+
+- t. Low Flying area Deventer de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°14'46.88"N 006°08'35.91"E; 52°14'58.54"N 006°09'32.41"E; 52°13'37.07"N 006°11'31.40"E; 52°12'00.46"N 006°11'45.46"E; 52°10'15.82"N 006°13'34.60"E; 52°08'51.63"N 006°12'12.01"E; 52°08'33.33"N 006°11'02.78"E; 52°09'18.35"N 006°08'28.92"E; 52°10'24.04"N 006°08'29.24"E; 52°11'30.33"N 006°07'44.30"E; 52°13'06.34"N 006°08'48.85"E; 52°14'46.88"N 006°08'35.91"E; terug naar beginpunt;
+
+- u. Low Flying area Flevopolder de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°20'30.00"N 005°19'44.00"E; 52°21'09.00"N 005°21'15.00"E; 52°19'29.00"N 005°23'05.00"E; 52°18'54.00"N 005°21'34.00"E; 52°20'30.00"N 005°19'44.00"E; terug naar beginpunt;
+
+- v. Low Flying area Gouda de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°00'24.35"N 004°43'14.93"E; 51°59'27.33"N 004°44'59.19"E; 51°58'18.66"N 004°46'05.55"E; 51°57'09.38"N 004°46'48.45"E; 51°55'49.47"N 004°46'46.23"E; 51°55'07.78"N 004°46'56.21"E; 51°55'04.65"N 004°46'01.10"E; 51°53'56.12"N 004°43'16.23"E; 51°53'30.32"N 004°40'18.54"E; 51°53'29.99"N 004°37'17.33"E; 51°54'25.17"N 004°33'44.51"E; 51°56'10.13"N 004°38'02.24"E; 51°57'14.22"N 004°38'56.42"E; 51°58'09.01"N 004°37'55.79"E; 51°58'44.81"N 004°40'11.69"E; 51°59'31.83"N 004°40'55.49"E; 52°00'24.35"N 004°43'14.93"E; terug naar beginpunt;
+
+- w. Low Flying area Groningen de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°21'56.81"N 006°16'38.16"E; 53°22'58.77"N 006°17'06.49"E; 53°23'30.60"N 006°18'14.80"E; 53°24'59.93"N 006°22'42.02"E; 53°26'23.52"N 006°34'33.07"E; 53°27'35.65"N 006°39'53.02"E; 53°27'59.38"N 006°44'35.08"E; 53°27'17.08"N 006°47'46.42"E; 53°27'47.16"N 006°48'49.74"E; 53°26'23.85"N 006°52'56.20"E; 53°26'35.01"N 006°53'57.53"E; 53°23'56.00"N 006°56'58.00"E; 53°20'44.65"N 006°59'13.25"E; 53°20'04.24"N 006°55'51.67"E; 53°19'33.99"N 006°51'51.29"E; 53°20'08.11"N 006°44'10.40"E; 53°17'48.11"N 006°32'32.21"E; 53°20'09.92"N 006°31'08.78"E; 53°21'48.52"N 006°23'48.62"E; 53°21'42.54"N 006°19'37.61"E; 53°22'00.27"N 006°17'34.15"E; 53°21'56.81"N 006°16'38.16"E; terug naar beginpunt.
+
+2. In afwijking van het eerste lid is het verboden een vlucht in subcategorie A3 als bedoeld in Bijlage deel A van uitvoeringsverordening (EU) nr. 2019/947 uit te voeren in geografische zones waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen.
+
+##### Artikel 3. Ongecontroleerde luchthavens en helihavens
+
+1. Het is verboden een vlucht in de open categorie uit te voeren in de volgende geografische zones:
+
+- a. Arnhemse Heide als middelpunt van een cirkel met een straal van 1200 meter: 52°02'49"N 005°54'18"E;
+
+- b. ASK Oldebroek als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°23'29"N 005°55'06"E;
+
+- c. Assen als middelpunt van een cirkel met een straal van 1200 meter: 52°59'32"N 006°31'57"E;
+
+- d. Beekhuizerzand als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°20'12"N 005°40'59"E;
+
+- e. Eder- en Ginkelse Heide als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°03'37"N 005°54'42"E;
+
+- f. Ermelose Heide als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°17'28"N 005°40'51"E;
+
+- g. Garderense Veld als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°14'36"N 005°43' 41"E;
+
+- h. Leusderheide als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°07'21" N 005°21'29"E;
+
+- i. Marnewaard als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°21'50"N 006°15'44"E;
+
+- j. Oirschot als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°28'31"N 005°21'55"E;
+
+- k. Oost Vlieland als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°17'48"N 005°05'08"E;
+
+- l. Rijen als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°35'07"N 004°53'33"E;
+
+- m. Stroese Zans als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°11'45"N 005°42'13"E;
+
+- n. Vlasakkers als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°35'07"N 004°53'33"E;
+
+- o. Vliehorst als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°14'24"N 004°55'15"E;
+
+- p. Waalsdorpervlakte als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°06'44"N 004°19'40"E;
+
+- q. Amsterdam/VU Medisch Centrum als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°20'04"N 004°51'33"E;
+
+- r. Beverwijk/Rode Kruis Ziekenhuis als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°28'45"N 004°39'06"E;
+
+- s. Den Haag/Haga Ziekenhuis, Locatie Leyweg als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°03'21"N 004°15'45"E;
+
+- t. Den Haag/MC Haaglanden, Locatie Westeinde als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°04'26"N 004°18'01"E;
+
+- u. Dordrecht/Albert Schweitzer Ziekenhuis, Locatie Amstelwijck als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°46'35"N 004°39'04"E;
+
+- v. Enschede/Medisch Spectrum Twente als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°12'56"N 006°53'29"E;
+
+- w. Goes/Adrz als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°29'05"N 003°54'38"E;
+
+- x. Groningen/Universitair Medisch Centrum als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°13'18"N 006°34'34"E;
+
+- y. Leeuwarden/Medisch Centrum Leeuwarden, Locatie Zuid als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°11'19"N 005°48'10"E;
+
+- z. Leiden/Leids Universitair Medisch Centrum als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°09'59"N 004°28'41"E;
+
+- aa. Maastricht/Maastricht Universitair Medisch Centrum als middelpunt van een cirkel met een straal van‘ 1200 meter: 50°50'04"N 005°42'45"E;
+
+- bb. Nijmegen/UMC St. Radboud als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°49'24"N 005°51'47"E;
+
+- cc. Rotterdam/Erasmus Medisch Centrum als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°54'36"N 004°28'15"E;
+
+- dd. Sneek/Antonius Ziekenhuis als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°02'05"N 005°38'24"E;
+
+- ee. Terneuzen/Ziekenhuis Zeeuws-Vlaanderen, Locatie De Honte als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°18'30"N 003°51'45"E;
+
+- ff. Tilburg/St. Elisabeth Ziekenhuis als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°32'20"N 005°06'17"E;
+
+- gg. Utrecht/Universitair Medisch Centrum Utrecht als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°05'12"N 005°10'53"E;
+
+- hh. Zwolle/Isala Klinieken, Locatie Sophia als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°30'49"N 006°07'21"E;
+
+- ii. EHTP als middelpunt van een cirkel met een straal van‘ 1200 meter: 51°57'33.7"N 004°05'23.7"E;
+
+- jj. EHAD als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°27'06"N 005°40'38"E;
+
+- kk. EHVD als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°17'48.72"N 005°05'08.25"E;
+
+- ll. EHTS als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°23’ 2.9”N 005°16’41”E;
+
+- mm. EHSO als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°28’23.34"N 006°11'40.96”E;
+
+- nn. EHHA als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°24'48"N004°48'15"O;
+
+- oo. EHHE als middelpunt van een cirkel met een straal van‘ 1200 meter: 53°27'39"N 6°48'52"E;
+
+- pp. EHYP als middelpunt van een cirkel met een straal van‘ 1200 meter: 52°28'11.6"N 004°35'36.1"E;
+
+- qq. EHAL als middelpunt van een cirkel met een straal van‘ 3000 meter: 53°27'06"N 005°40'38"E;
+
+- rr. EHBD als middelpunt van een cirkel met een straal van‘ 3000 meter: 51°15'16"N 005°36'03"E;
+
+- ss. EHDR als middelpunt van een cirkel met een straal van‘ 3000 meter: 53°07'05"N 006°07'45"E;
+
+- tt. EHHO als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°43'51"N 006°30'58"E;
+
+- uu. EHHV als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°11'31"N 005°08'49"E;
+
+- vv. EHMZ als middelpunt van een cirkel met een straal van‘ 3000 meter: 51°30'44"N 003°43'52"E;
+
+- ww. EHOW als middelpunt van een cirkel met een straal van‘ 3000 meter: 53°12'31"N 007°01'58"E;
+
+- xx. EHSE als middelpunt van een cirkel met een straal van‘ 3000 meter: 51°33'17"N 004°33'09"E;
+
+- yy. EHST als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°59'55"N 007°01'22"E
+
+- zz. EHTE als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°14'41"N 006°02'48"E;
+
+- aaa. EHTL als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°03'26"N 005°55'28"E;
+
+- bbb. EHTW als middelpunt van een cirkel met een straal van‘ 3000 meter: 52°16'33"N 006°53'21"E;
+
+- ccc. EHTX als middelpunt van een cirkel met een straal van‘ 3000 meter: 53°06'55"N 004°50'01"E.
+
+##### Artikel 4. Havens
+
+1. Het is verboden een vlucht in de open categorie uit te voeren in de volgende geografische zones:
+
+- a. Westpoort de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52° 25' 57,932" N 4° 44' 14,674" E; 52° 25' 44,614" N 4° 45' 55,916" E; 52° 25' 47,301" N 4° 46' 5,077" E; 52° 25' 9,811" N 4° 50' 54,539" E; 52° 24' 46,757" N 4° 52' 9,259" E; 52° 23' 57,453" N 4° 53' 20,113" E; 52° 23' 35,843" N 4° 52' 38,014" E; 52° 23' 34,312" N 4° 52' 11,066" E; 52° 23' 29,511" N 4° 51' 49,850" E; 52° 23' 37,418" N 4° 51' 33,997" E; 52° 23' 27,990" N 4° 51' 40,003" E; 52° 23' 15,314" N 4° 51' 40,518" E; 52° 23' 15,265" N 4° 50' 49,021" E; 52° 23' 1,529" N 4° 50' 49,695" E; 52° 23' 0,434" N 4° 49' 46,532" E; 52° 23' 10,232" N 4° 49' 45,654" E; 52° 23' 10,547" N 4° 49' 5,964" E; 52° 23' 15,665" N 4° 49' 1,436" E; 52° 23' 16,072" N 4° 46' 16,913" E; 52° 23' 13,054" N 4° 45' 24,485" E; 52° 23' 45,064" N 4° 45' 20,457" E; 52° 23' 58,872" N 4° 43' 33,692" E; 52° 25' 57,932" N 4° 44' 14,674" E; terug naar begin punt;
+
+- b. Eemshaven de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°27´50.79"N 006°49´56.11"E; 53°27´38.05"N 006°50´47.05"E; 53°27´24.22"N 006°50´50.87"E; 53°27´03.99"N 006°51´57.80"E; 53°26´26.78"N 006°53´33.53"E; 53°24´34.35"N 006°52´34.61"E; 53°24´38.89"N 006°51´51.28"E; 53°25´05.61"N 006°50´59.75"E; 53°25´55.83"N 006°51´50.48"E; 53°26´14.46"N 006°51´04.54"E; 53°26´38.85"N 006°47´52.31"E; 53°26´38.07"N 006°47´04.63"E; 53°27´18.02"N 006°47´49.47"E; 53°27´49.45"N 006°48´49.88"E; 53°27´36.47"N 006°49´45.21"E; 53°27´50.79"N 006°49´56.11"E; terug naar beginpunt;
+
+- c. Delfzijl de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°20´01.14"N 006°55´47.70"E; 53°20´06.08"N 006°56´06.76"E; 53°19´45.76"N 006°56´44.72"E; 53°18´53.39"N 007°01´03.20"E; 53°17´17.53"N 006°59´37.75"E; 53°17´46.33"N 006°57´14.63"E; 53°18´17.18"N 006°57´11.63"E; 53°18´49.85"N 006°56´32.00"E; 53°18´51.90"N 006°56´08.74"E; 53°18´41.87"N 006°55´33.40"E; 53°18´47.37"N 006°53´52.40"E; 53°19´13.12"N 006°54´59.52"E; 53°19´11.24"N 006°55´10.26"E; 53°18´58.74"N 006°55´07.84"E; 53°18´55.91"N 006°56´04.43"E; 53°19´10.15"N 006°56´19.09"E; 53°19´27.73"N 006°55´45.84"E; 53°19´45.69"N 006°55´31.39"E; 53°19´48.65"N 006°55´44.45"E; 53°20´01.14"N 006°55´47.70"E; terug naar beginpunt;
+
+- d. Fivelpoort de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°18´22.04"N 006°51´17.27"E; 53°18´23.68"N 006°51´29.76"E; 53°18´18.57"N 006°51´29.72"E; 53°18´22.59"N 006°52´19.20"E; 53°18´10.04"N 006°52´16.28"E; 53°18´04.19"N 006°51´17.01"E; 53°18´08.00"N 006°51´12.34"E; 53°18´22.04"N 006°51´17.27"E; terug naar beginpunt;
+
+- e. Rotterdam de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°54’25.68209400”N 004°32’23.96169960”E; 51°54’29.53329120”N 004°32’53.21664240”E; 51°54’29.16656280”N 004°33’35.63277840”E; 51°54’24.37266960”N 004°34’14.33449560”E; 51°54’18.56103480”N 004°34’18.36492960”E; 51°54’05.60149200”N 004°34’13.50874200”E; 51°53’59.67934080”N 004°34’11.07079680”E; 51°54’01.87811280”N 004°33’48.83645880”E; 51°54’08.21140200”N 004°33’28.65718440”E; 51°54’08.63397360”N 004°33’19.68468120”E; 51°54’05.49910440”N 004°32’55.46145840”E; 51°53’56.88622680”N 004°32’45.76556760”E; 51°54’04.85925480”N 004°32’39.01635960”E; 51°53’52.01378880”N 004°31’48.61914600”E; 51°53’50.34657120”N 004°31’49.91965680”E; 51°53’42.80489160”N 004°31’49.01082240”E; 51°53’42.86527440”N 004°31’45.31361880”E; 51°53’55.16404080”N 004°30’50.88510360”E; 51°54’07.73925480”N 004°30’37.30568040”E; 51°54’26.80620840”N 004°30’35.48198160”E; 51°54’40.03758360”N 004°30’33.77182320”E; 51°54’44.81501400”N 004°30’12.26321640”E; 51°54’31.18424400”N 004°29’50.75483640”E; 51°53’56.24747520”N 004°29’56.33271960”E; 51°53’43.70726040”N 004°29’46.08791520”E; 51°53’31.33404600”N 004°28’36.18131160”E; 51°53’34.08755640”N 004°28’17.08370400”E; 51°53’39.40458360”N 004°28’06.29262840”E; 51°53’39.62259240”N 004°27’57.55324680”E; terug naar beginpunt;
+
+- f. Dordrecht/Zwijdrecht de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°48’18.83669040”N 004°35’38.14449360”E; 51°48’30.28207320”N 004°35’57.94143360”E; 51°48’34.54585200”N 004°36’09.86621040”E; 51°48’45.85467240”N 004°36’32.66966520”E; 51°48’45.79235640”N 004°36’46.67080320”E; 51°48’41.92490160”N 004°37’11.23669560”E; 51°48’37.85400720”N 004°37’28.55516160”E; 51°48’33.24638880”N 004°37’34.88258640”E; 51°48’20.56398120”N 004°37’38.59593600”E; 51°48’20.01046680”N 004°37’48.85365720”E; 51°48’22.26489840”N 004°38’02.06394360”E; 51°48’30.47518800”N 004°38’25.92461760”E; 51°48’36.28574640”N 004°38’38.07773880”E; 51°48’42.85803960”N 004°38’48.21926280”E; 51°48’39.19144320”N 004°38’56.52911760”E; 51°48’34.12708560”N 004°39’04.36143240”E; 51°48’23.94327600”N 004°39’11.27666160”E; 51°47’52.93785480”N 004°39’09.03197520”E; 51°47’23.96378760”N 004°39’09.50365800”E; 51°47’02.60214000”N 004°39’13.09924800”E; 51°46’59.08367280”N 004°38’55.66792920”E; 51°47’01.17751560”N 004°37’31.18793880”E; 51°47’23.88719760”N 004°37’20.55968400”E; 51°47’56.63822640”N 004°37’05.25893520”E; 51°48’01.05924240”N 004°36’54.18656640”E; 51°48’13.33584000”N 004°36’12.73451760”E; 51°48’18.83669040”N 004°35’38.14449360”E; terug naar beginpunt;
+
+- g. Dordrecht/Papendrecht de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°51’18.02023560”N 004°38’31.90662960”E; 51°51’20.21291280”N 004°39’00.14724360”E; 51°51’28.76367600”N 004°39’54.56193840”E; 51°51’27.32164200”N 004°40’12.10240560”E; 51°51’20.43625320”N 004°40’26.47553520”E; 51°51’10.23453720”N 004°40’30.64057320”E; 51°50’54.26360160”N 004°40’28.89138000”E; 51°50’42.67917600”N 004°40’09.56057880”E; 51°50’25.57237200”N 004°40’24.84222240”E; 51°50’06.67879440”N 004°40’26.64207120”E; 51°49’51.45814200”N 004°40’20.88042960”E; 51°49’36.58234080”N 004°40’20.86615560”E; 51°49’25.03471440”N 004°40’33.05204760”E; 51°49’21.14054040”N 004°40’55.36823520”E; 51°49’25.87968840”N 004°41’36.55411440”E; 51°49’28.47064080”N 004°41’55.51914480”E; 51°49’28.57002600”N 004°42’12.52199520”E; 51°49’55.53714360”N 004°42’40.12482600”E; 51°49’58.23868080”N 004°42’51.83946360”E; 51°49’56.59129200”N 004°43’29.13000240”E; 51°49’51.83758200”N 004°44’05.71439400”E; 51°49’48.01809720”N 004°44’15.52330680”E; 51°49’35.38042680”N 004°44’27.95902080”E; 51°49’35.37597000”N 004°44’55.46721120”E; 51°49’35.05310400”N 004°45’21.72948480”E; 51°49’32.79380160”N 004°46’03.02260800”E; 51°49’12.90729360”N 004°46’22.54891440”E; 51°48’46.93055400”N 004°46’03.65279520”E; 51°48’54.05484600”N 004°45’33.80374800”E; 51°48’48.20235480”N 004°45’11.63512440”E; 51°48’36.84413880”N 004°45’03.04534080”E; 51°48’42.52426920”N 004°44’24.96633360”E; 51°48’41.15873160”N 004°44’02.23677240”E; 51°48’46.66002840”N 004°43’20.90722080”E; 51°48’51.13159920”N 004°42’49.84052760”E; 51°48’52.66714680”N 004°42’20.56656240”E; 51°49’04.32212880”N 004°41’33.38534760”E; 51°49’08.64728400”N 004°41’05.06488200”E; 51°49’08.49690120”N 004°40’40.06382520”E; 51°49’09.17762160”N 004°40’24.55093560”E; 51°49’12.62834040”N 004°40’05.99331360”E; 51°49’22.24652160”N 004°39’42.58481760”E; 51°49’33.33406800”N 004°39’31.40326080”E; 51°49’54.35147640”N 004°39’22.30998840”E; terug naar beginpunt;
+
+- h. Buitenhaven Vlissingen de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51° 26' 40.48940006" N 003° 35' 45.69262964" E; 51° 27' 15.66856591" N 003° 35' 38.15794146" E; 51° 27' 17.19173074" N 003° 36' 11.21787167" E; 51° 26' 28.74079898" N 003° 36' 23.49990527" E; 51° 26' 40.48940006" N 003° 35' 45.69262964" E; terug naar beginpunt;
+
+- i. Sloegebied (Vlissingen-Oost) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51° 27' 02.09310363" N 003° 44' 49.37949611" E; 51° 26' 42.66946075" N 003° 44' 49.30352728" E; 51° 26' 21.82211845" N 003° 44' 30.67890168" E; 51° 25' 53.00216641" N 003° 43' 56.38553793" E; 51° 25' 38.03184438" N 003° 43' 02.98971035" E; 51° 26' 50.11622332" N 003° 40' 52.83874591" E; 51° 26' 48.74364859" N 003° 40' 31.46677727" E; 51° 26' 52.73986465" N 003° 40' 04.58238512" E; 51° 27' 49.47948738" N 003° 39' 06.22654197" E; 51° 28' 07.45288349" N 003° 39' 33.94859599" E; 51° 28' 57.98708130" N 003° 41' 58.46440129" E; 51° 28' 49.12063910" N 003° 43' 09.01163574" E; 51° 27' 02.09310363" N 003° 44' 49.37949611" E; terug naar beginpunt;
+
+- j. Zeesteiger Zeeland Refinery (Vlissingen-Oost) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51° 24' 31.34397735" N 003° 43' 50.08557221" E; 51° 24' 43.82973390" N 003° 43' 22.46160011" E; 51° 24' 58.93969960" N 003° 43' 48.63451755" E; 51° 24' 54.89664058" N 003° 43' 59.44747137" E; 51° 24' 31.34397735" N 003° 43' 50.08557221" E; terug naar beginpunt;
+
+- k. Gebied Braakmanhaven (Terneuzen) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51° 19' 44.18125695" N 003° 47' 27.26568051" E; 51° 19' 55.26936666" N 003° 46' 20.04158700" E; 51° 20' 10.10344926" N 003° 45' 43.53757506" E; 51° 19' 56.48554721" N 003° 45' 22.98590063" E; 51° 20' 02.92274609" N 003° 44' 51.69359560" E; 51° 20' 20.57171182" N 003° 44' 53.43289554" E; 51° 20' 22.72843589" N 003° 44' 06.72426733" E; 51° 20' 53.77364993" N 003° 43' 55.39464422" E; 51° 20' 55.22163257" N 003° 45' 19.91442612" E; 51° 21' 08.03259568" N 003° 45' 26.62549326" E; 51° 21' 04.75199842" N 003° 47' 21.84530794" E; 51° 20' 40.89672866" N 003° 48' 03.76245641" E; 51° 20' 06.47436243" N 003° 48' 13.91968997" E; 51° 19' 44.18125695" N 003° 47' 27.26568051" E; terug naar beginpunt;
+
+- l. Kanaalhavens (Terneuzen) de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51° 17' 38.77397411" N 003° 50' 12.06116761" E; 51° 17' 01.03348230" N 003° 50' 26.47444237" E; 51° 17' 16.91139362" N 003° 50' 48.60817049" E; 51° 16' 57.91984602" N 003° 51' 06.54752967" E; 51° 16' 39.74457258" N 003° 51' 54.67327254" E; 51° 15' 59.63425316" N 003° 52' 32.24205734" E; 51° 15' 56.34216357" N 003° 51' 30.56730325" E; 51° 15' 24.60336199" N 003° 51' 07.75466861" E; 51° 15' 19.05432795" N 003° 50' 27.55859645" E; 51° 15' 30.97697605" N 003° 49' 53.52030902" E; 51° 14' 18.31786698" N 003° 48' 40.97324999" E; 51° 12' 55.17050036" N 003° 48' 17.91122628" E; 51° 12' 56.11587599" N 003° 47' 52.80553901" E; 51° 13' 23.77222034" N 003° 47' 52.64189374" E; 51° 13' 24.25674244" N 003° 48' 15.02611931" E; 51° 13' 55.59281468" N 003° 48' 25.93696532" E; 51° 14' 06.65110743" N 003° 48' 29.43362145" E; 51° 14' 07.53215047" N 003° 48' 23.30566231" E; 51° 13' 57.76892509" N 003° 48' 15.64948327" E; 51° 14' 05.26743338" N 003° 47' 40.18927344" E; 51° 14' 37.76830738" N 003° 47' 54.96413745" E; 51° 14' 41.08671400" N 003° 48' 54.07485711" E; 51° 15' 21.42794635" N 003° 49' 33.48184756" E; 51° 16' 43.68976199" N 003° 50' 22.53658855" E; 51° 18' 37.76106277" N 003° 49' 43.60784502" E; 51° 19' 57.16049965" N 003° 49' 14.75694590" E; 51° 20' 02.34584174" N 003° 49' 35.11815558" E; 51° 20' 00.76091358" N 003° 49' 36.04290436" E; 51° 19' 56.61827109" N 003° 49' 29.97468135" E; terug naar beginpunt;
+
+- m. Moerdijk de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°41'19.50"N 004°31'33.93"E; 51°41'25.68"N 004°32'39.43"E; 51°41'41.90"N 004°34'11.97"E; 51°41'50.97"N 004°35'24.52"E; 51°41'54.22"N 004°35'42.67"E; 51°42'5.48"N 004°36'13.9"E; 51°42'17.2"N 004°36'38.83"E; 51°42'24.73"N 004°36'56.1"E; 51°42'18.82"N 004°37'10.94"E; 51°42'9.22"N 004°37'21.99"E; 51°41'55.42"N 004°37'23.8"E; 51°41'52.13"N 004°37'33.32"E; 51°41'45.54"N 004°37'35.94"E; 51°41'38.62"N 004°37'32.71"E; 51°41'28.14"N 004°37'24.68"E; 51°41'19.78"N 004°37'39.54"E; 51°41'12.98"N 004°37'50.17"E; 51°41'22.19"N 004°38'3.89"E; 51°41'26.38"N 004°38'10.13"E; 51°41'28.34"N 004°38'13.6"E; 51°41'31.69"N 004°38'18.5"E; 51°41'34.34"N 004°38'21.100"E; 51°41'37.87"N 004°38'15.87"E; 51°41'40.2"N 004°38'12.13"E; 51°41'46.45"N 004°38'21.70"E; 51°41'41.40"N 004°38'31.54"E; 51°41'42.28"N 004°38'38.39"E; 51°41'39.7"N 004°38'46.37"E; 51°41'44.25"N 004°39'11.38"E; 51°41'15.7"N 004°39'36.30"E; 51°41'10.85"N 004°39'39.91"E; 51°41'8.20"N 004°39'42.17"E; 51°41'12.29"N 004°39'54.58"E; 51°41'4.35"N 004°40'1.36"E; 51°40'55.30"N 004°39'31.21"E; 51°40'54.11"N 004°39'27.87"E; 51°40'47.68"N 004°39'22.24"E; 51°40'47.32"N 004°39'8.77"E; 51°40'43.37"N 004°38'25.97"E; 51°40'41.44"N 004°38'6.42"E; 51°40'51.69"N 004°37'40.9"E; 51°40'34.41"N 004°37'18.62"E; 51°40'7.35"N 004°36'59.40"E; 51°40'0.81"N 004°36'45.11"E; 51°39'52.100"N 004°36'41.38"E; 51°39'43.53"N 004°36'16.28"E; 51°39'42.92"N 004°36'4.64"E; 51°38'57.41"N 004°34'27.24"E; 51°39'5.20"N 004°33'2.50"E; 51°39'13.63"N 004°32'55.67"E; 51°39'32.58"N 004°32'55.44"E; 51°39'54.27"N 004°32'50.82"E; 51°40'25.62"N 004°32'11.15"E; terug naar beginpunt;
+
+##### Artikel 5. Industriegebieden en locaties
+
+Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2020-12-31&g=2020-12-31).
+
+##### Artikel 6. Vitale infrastructuur en beveiligde gebieden
+
+- 1). Het is verboden een vlucht in de open categorie uit te voeren in de geografische zones van een beveiligd gebied of een locatie met vitale processen.
+
+- 2). Het verbod geldt voor de volgende cirkelvormige geografische zones met een straal van 500 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 52°20'31''N 06°41'10''E;
+
+- b. 52°07'56''N 04°38'02''E;
+
+- c. 52°08'03''N 04°37'53''E;
+
+- d. 51°57'38''N 05°55'35''E;
+
+- e. 52°19'17''N 04°45'10''E;
+
+- f. 51°49'08''N 04°42'41''E;
+
+- g. 51°24'24''N 05°57'35''E;
+
+- h. 51°45'06''N 05°44'04''E;
+
+- i. 52°41'29''N 04°50'16''E;
+
+- j. 51°51'53''N 04°22'47''E;
+
+- k. 51°54'37''N 04°34'19''E;
+
+- l. 53°11'34''N 05°49'51''E;
+
+- m. 52°29'32''N 05°28'13''E;
+
+- n. 51°29'25''N 03°38'10''E;
+
+- o. 52°03'19''N 05°06'44''E;
+
+- p. 52°11'43''N 05°00'31''E;
+
+- q. 51°10'04''N 06°02'27''E;
+
+- r. 51°55'32''N 04°26'03''E;
+
+- s. 51°57'10''N 04°26'34''E;
+
+- t. 52°06'35''N 04°18'10''E;
+
+- u. 52°06'43''N 05°18'04''E;
+
+- v. 51°00'05''N 05°51'05''E;
+
+- w. 52°53'09''N 07°01'41''E;
+
+- x. 53°02'25''N 06°23'39''E;
+
+- y. 53°01'08''N 06°25'32''E;
+
+- z. 51°39'46''N 05°15'30''E;
+
+- aa. 52°25'57''N 04°46'20''E;
+
+- bb. 52°07'09''N 06°13'20''E;
+
+- cc. 52°29'48''N 06°06'52''E;
+
+- dd. 51°33'21''N 04°46'55''E;
+
+- ee. 51°51'42''N 04°17'42''E;
+
+- ff. 51°50'08''N 05°53'21''E;
+
+- gg. 52°24'12''N 05°19'37''E;
+
+- hh. 52°35'43''N 06°23'26''E;
+
+- ii. 53°00'49''N 06°34'14''E;
+
+- jj. 52°39'15''N 04°47'27''E;
+
+- kk. 52°24'11''N 05°16'08''E;
+
+- ll. 52°04'46''N 04°19'18''E;
+
+- mm. 51°45'07''N 05°44'04''E;
+
+- nn. 52°59'31''N 06°32'18''E;
+
+- oo. 52°03'20''N 05°06'52''E;
+
+- pp. 53°00'19''N 06°35'57''E;
+
+- qq. 51°56'40''N 04°24'15''E;
+
+- rr. 52°19'17''N 04°45'10''E;
+
+- ss. 50°59'58''N 05°50'28''E;
+
+- tt. 52°06'43''N 05°18'04''E;
+
+- uu. 52°53'11''N 07°01'48''E;
+
+- vv. 51°32'38''N 05°04'16''E;
+
+- ww. 52°26'00''N 04°49'39''E;
+
+- xx. 52°02'05''N 04°30'03''E;
+
+- yy. 52°29'16''N 06°07'53''E;
+
+- zz. 52°06'59''N 06°13'22''E;
+
+- aaa. 51°25'52''N 03°43'03''E;
+
+- bbb. 51°26'24''N 03°42'49''E;
+
+- ccc. 51°53'59''N 05°41'13''E;
+
+- ddd. 51°59'27''N 04°22'54''E;
+
+- eee. 52°47'02''N 04°40'26''E;
+
+- fff. 52°20'07''N 06°41'31''E;
+
+- ggg. 52°20'18''N 06°41'27''E;
+
+- hhh. 51°25'51''N 04°20'51''E;
+
+- iii. 52°12'43.77"N 5°42'29.99"E;
+
+- jjj. 52°57'27''N 04°48'04''E;
+
+- kkk. 53°21'42''N 06°15'42''E;
+
+- lll. 52°07'26''N 05°15'32''E;
+
+- mmm. 52°21'42''N 05°27'23''E;
+
+- nnn. 51°48'26.50"N 3°53'35.56"E;
+
+- ooo. 52°55'8.99"N 4°44'36.93"E;
+
+- ppp. 52°15'27''N 05°16'52''E;
+
+- qqq. 53°20'9.14"N 6°51'33.49"E;
+
+- rrr. 52°15'37''N 06°16'13''E;
+
+- sss. 52°57'05''N 04°47'25''E;
+
+- ttt. 52°56'47''N 04°47'23''E;
+
+- uuu. 52°38'32''N 06°43'21''E;
+
+- vvv. 53°01'49''N 06°25'02''E;
+
+- www. 52°45'40''N 06°24'44''E;
+
+- xxx. 51°29'46''N 04°55'37''E;
+
+- yyy. 52°38'14''N 06°15'34''E;
+
+- zzz. 50°56'24''N 05°59'10''E;
+
+- aaaa. 53°17'04''N 06°12'58''E;
+
+- bbbb. 52°05'50''N 04°19'31''E;
+
+- cccc. 52°06'34''N 04°19'28''E;
+
+- dddd. 52°04'49''N 05°08'50''E;
+
+- eeee. 53°15'27''N 05°37'12''E;
+
+- ffff. 51°31'32''N 04°34'08''E;
+
+- gggg. 51°37'02''N 04°56'32''E;
+
+- hhhh. 52°57'27''N 04°48'04''E;
+
+- iiii. 52°57'42''N 04°43'57''E;
+
+- jjjj. 52°22'22''N 04°55'04''E;
+
+- kkkk. 51°54'34''N 04°31'38''E;
+
+- llll. 52°02'45''N 05°19'37''E;
+
+- mmmm. 52°55'25''N 04°47'17''E;
+
+- nnnn. 52°07'36''N 05°19'06''E;
+
+- oooo. 53°21'42''N 06°15'42''E;
+
+- pppp. 52°08'52''N 05°21'11''E;
+
+- qqqq. 52°06'08''N 04°18'45''E;
+
+- rrrr. 52°07'29''N 05°45'48''E;
+
+- ssss. 52°24'15''N 05°53'52''E;
+
+- tttt. 51°32'04''N 05°51'16''E;
+
+- uuuu. 52°04'45''N 04°18'57''E;
+
+- vvvv. 52°01'38''N 05°52'18''E;
+
+- wwww. 52°18'09''N 05°39'19''E;
+
+- xxxx. 52°26'36''N 05°59'49''E;
+
+- yyyy. 51°39'33''N 05°15'34''E;
+
+- zzzz. 51°28'38''N 05°22'30''E;
+
+- aaaaa. 52°04'39''N 06°40'16''E;
+
+- bbbbb. 51°31'44''N 04°28'42''E;
+
+- ccccc. 52°03'49.1"N 4°29'08.5"E;
+
+- ddddd. 52°03'50.7"N 4°29'18.4"E;
+
+- eeeee. 52°14'13.5"N 5°56'57.1"E;
+
+- fffff. 52°14'07.2"N 5°56'32.8"E;
+
+- ggggg. 52°12'15.3"N 5°55'36.9"E;
+
+- hhhhh. 52°05'58.2"N 4°15'47.5"E;
+
+- iiiii. 51°48'05.4"N 4°38'19.3"E;
+
+- jjjjj. 52°29'55.2"N 5°25'13.7"E;
+
+- kkkkk. 51°40'30.1"N 4°36'25.2"E;
+
+- lllll. 52°03'47.5"N 4°29'17.8"E.
+
+- 3). Het verbod bedoeld in het eerste lid geldt voor de volgende cirkelvormige geografische zones met een straal van 400 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 52°07'31.1"N 5°19'15.4"E.
+
+- 4). Het verbod bedoeld in het eerste lid geldt voor de volgende cirkelvormige geografische zones met een straal van 200 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 51°56'32.1"N 6°04'24.9"E.
+
+- 5). Het verbod bedoeld in het eerste lid geldt voor de volgende cirkelvormige geografische zones met een straal van 150 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 52° 13’ 0.07033"N 4° 25’ 40.26296"E.
+
+- 6). Het verbod bedoeld in het eerste lid geldt voor de volgende cirkelvormige geografische zones met een straal van 100 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 52°39'18.5"N 6°44'42.3"E;
+
+- b. 53°19'38.8"N 6°54'50.3"E;
+
+- c. 52°13'48.5"N 5°56'58.8"E;
+
+- d. 52°23'01.0"N 4°39'51.4"E.
+
+##### Artikel 7. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 31 december 2020.
+
+##### Artikel 8. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling zonering onbemande luchtvaartuigen.
+
+## Bijlage 1. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2020-12-31&g=2020-12-31) van de Regeling zonering onbemande luchtvaartuigen
+
+Het verbod bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=5&z=2020-12-31&g=2020-12-31) geldt voor de volgende cirkelvormige geografische zones met een straal van 500 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- 1. 51°50'22''N 04°58'33''E;
+
+- 2. 51°56'48''N 05°45'47''E;
+
+- 3. 51°07'15''N 05°53'13''E;
+
+- 4. 52°42'15''N 05°08'40''E;
+
+- 5. 51°39'16''N 04°23'02''E;
+
+- 6. 51°54'48''N 05°27'20''E;
+
+- 7. 51°25'53''N 05°26'17''E;
+
+- 8. 52°22'52''N 04°41'45''E;
+
+- 9. 52°17'54''N 04°46'23''E;
+
+- 10. 52°12'22''N 04°29'16''E;
+
+- 11. 52°14'44''N 06°47'31''E;
+
+- 12. 52°23'09''N 04°56'22''E;
+
+- 13. 51°41'55''N 05°10'52''E;
+
+- 14. 51°30'22''N 04°16'10''E;
+
+- 15. 51°46'58''N 05°33'21''E;
+
+- 16. 51°45'50''N 05°31'56''E;
+
+- 17. 53°10'13''N 06°42'57''E;
+
+- 18. 52°55'10''N 07°02'41''E;
+
+- 19. 53°10'45''N 06°10'36''E;
+
+- 20. 52°13'56''N 06°50'37''E;
+
+- 21. 51°58'19''N 05°32'26''E;
+
+- 22. 52°04'18''N 05°03'13''E;
+
+- 23. 52°58'08''N 05°53'24''E;
+
+- 24. 52°15'57''N 05°34'31''E;
+
+- 25. 50°51'14''N 06°02'11''E;
+
+- 26. 51°37'38''N 04°38'20''E;
+
+- 27. 51°29'14''N 03°53'08''E;
+
+- 28. 52°58'25''N 05°53'11''E;
+
+- 29. 51°14'35''N 05°39'22''E;
+
+- 30. 51°48'42''N 04°38'46''E;
+
+- 31. 52°32'22''N 05°43'01''E;
+
+- 32. 51°50'50''N 05°48'31''E;
+
+- 33. 51°23'28''N 06°08'32''E;
+
+- 34. 52°16'03''N 04°38'50''E;
+
+- 35. 53°09'54''N 06°43'26''E;
+
+- 36. 51°51'20''N 04°17'24''E;
+
+- 37. 51°36'31''N 04°46'06''E;
+
+- 38. 50°57'12''N 05°47'52''E;
+
+- 39. 51°14'33''N 05°39'19''E;
+
+- 40. 50°59'02''N 05°47'34''E;
+
+- 41. 50°58'01''N 05°48'08''E;
+
+- 42. 50°59'21''N 05°46'42''E;
+
+- 43. 50°59'10''N 05°47'17''E;
+
+- 44. 50°57'20''N 05°47'22''E;
+
+- 45. 50°59'18''N 05°47'06''E;
+
+- 46. 50°59'20''N 05°47'12''E;
+
+- 47. 50°58'32''N 05°49'17''E;
+
+- 48. 50°58'03''N 05°49'31''E;
+
+- 49. 50°59'50''N 05°51'03''E;
+
+- 50. 51°10'10''N 06°02'59''E;
+
+- 51. 50°59'02''N 05°47'34''E;
+
+- 52. 50°57'20''N 05°47'22''E;
+
+- 53. 51°50'39''N 04°59'11''E;
+
+- 54. 53°12'53''N 06°29'53''E;
+
+- 55. 51°30'15''N 04°15'24''E;
+
+- 56. 51°38'39''N 04°23'18''E;
+
+- 57. 51°35'15''N 05°01'34''E;
+
+- 58. 50°54'34''N 05°56'29''E;
+
+- 59. 51°51'14''N 04°17'37''E;
+
+- 60. 53°01'17''N 05°41'12''E;
+
+- 61. 52°10'04''N 05°36'22''E;
+
+- 62. 51°21'33''N 05°16'25''E;
+
+- 63. 51°52'25''N 06°17'30''E;
+
+- 64. 52°13'14''N 06°51'39''E;
+
+- 65. 52°11'44''N 04°36'45''E;
+
+- 66. 51°26'04''N 04°51'51''E;
+
+- 67. 52°17'37''N 04°34'36''E;
+
+- 68. 51°41'42''N 05°03'14''E;
+
+- 69. 52°00'57''N 04°20'22''E;
+
+- 70. 51°57'54''N 04°09'12''E;
+
+- 71. 50°51'07''N 05°59'38''E;
+
+- 72. 51°29'34''N 03°38'46''E;
+
+- 73. 52°01'44''N 05°05'21''E;
+
+- 74. 51°28'04''N 05°45'11''E;
+
+- 75. 52°34'30''N 05°51'57''E;
+
+- 76. 52°47'12''N 04°40'42''E;
+
+- 77. 53°04'54''N 06°56'11''E;
+
+- 78. 52°16'42''N 05°01'24''E;
+
+- 79. 51°39'08''N 05°38'48''E;
+
+- 80. 52°25'44''N 04°48'29''E;
+
+- 81. 50°51'03''N 05°59'56''E;
+
+- 82. 50°46'05''N 05°42'50''E;
+
+- 83. 53°10'59''N 05°25'30''E;
+
+- 84. 52°56'29''N 04°47'01''E;
+
+- 85. 53°14'23''N 06°33'45''E;
+
+- 86. 51°39'33''N 05°39'52''E;
+
+- 87. 51°49'28''N 04°40'46''E;
+
+- 88. 51°36'57''N 05°31'12''E;
+
+- 89. 51°35'42''N 05°01'01''E;
+
+- 90. 53°05'32''N 05°49'17''E;
+
+- 91. 52°35'33''N 04°43'45''E;
+
+- 92. 53°10'17''N 06°56'00''E;
+
+- 93. 53°03'27''N 05°53'41''E;
+
+- 94. 53°16'30''N 06°18'39''E;
+
+- 95. 52°00'15''N 05°34'38''E;
+
+- 96. 51°54'07''N 06°30'13''E;
+
+- 97. 51°23'54''N 06°05'41''E;
+
+- 98. 52°10'24''N 05°21'12''E;
+
+- 99. 52°08'06''N 04°32'05''E;
+
+- 100. 52°24'42''N 05°14'44''E;
+
+- 101. 51°39'50''N 04°50'23''E;
+
+- 102. 52°44'06''N 06°29'29''E;
+
+- 103. 51°54'24''N 04°34'25''E;
+
+- 104. 51°30'12''N 05°27'33''E;
+
+- 105. 51°33'19''N 04°27'52''E;
+
+- 106. 51°33'07''N 04°27'36''E;
+
+- 107. 51°35'08''N 05°02'54''E;
+
+- 108. 53°10'02''N 06°43'45''E;
+
+- 109. 51°41'55''N 05°10'34''E;
+
+- 110. 51°32'24''N 06°05'02''E;
+
+- 111. 50°52'47''N 05°43'05''E;
+
+- 112. 52°41'57''N 06°10'51''E;
+
+- 113. 53°08'08''N 07°03'26''E;
+
+- 114. 51°51'20''N 04°17'24''E;
+
+- 115. 52°12'05''N 04°26'20''E;
+
+- 116. 52°03'42''N 05°36'21''E;
+
+- 117. 53°06'44''N 06°53'38''E;
+
+- 118. 52°15'31''N 06°40'47''E;
+
+- 119. 52°18'39''N 04°48'45''E;
+
+- 120. 51°41'20''N 05°11'25''E;
+
+- 121. 51°50'48''N 05°49'08''E;
+
+- 122. 51°54'34''N 05°28'13''E;
+
+- 123. 51°59'42''N 06°35'23''E;
+
+- 124. 52°28'26''N 04°37'14''E;
+
+- 125. 52°03'08''N 06°06'34''E;
+
+- 126. 51°28'07''N 05°24'40''E;
+
+- 127. 51°14'11''N 06°03'28''E;
+
+- 128. 51°30'04''N 04°44'54''E;
+
+- 129. 50°53'12''N 05°42'41''E;
+
+- 130. 52°21'27''N 05°30'18''E;
+
+- 131. 51°52'30''N 06°15'58''E;
+
+- 132. 51°47'49''N 05°16'37''E;
+
+- 133. 51°30'20''N 05°44'25''E;
+
+- 134. 51°29'52''N 04°15'51''E;
+
+- 135. 51°30'03''N 04°15'04''E;
+
+- 136. 51°26'55''N 05°48'06''E;
+
+- 137. 50°53'13''N 05°42'50''E;
+
+- 138. 50°50'49''N 05°59'53''E;
+
+- 139. 51°58'12''N 05°56'08''E;
+
+- 140. 52°53'03''N 05°59'15''E;
+
+- 141. 52°22'58''N 06°36'44''E;
+
+- 142. 51°51'08''N 04°44'09''E;
+
+- 143. 52°52'25''N 04°46'16''E;
+
+- 144. 52°29'13''N 04°41'52''E;
+
+- 145. 52°45'24''N 05°03'01''E;
+
+- 146. 53°16'59''N 06°18'17''E;
+
+- 147. 53°05'24''N 06°25'51''E;
+
+- 148. 51°51'20''N 04°17'24''E;
+
+- 149. 51°30'49''N 04°58'04''E;
+
+- 150. 51°46'58''N 05°39'39''E;
+
+- 151. 51°57'51''N 06°05'04''E;
+
+- 152. 51°54'56''N 05°26'15''E;
+
+- 153. 51°51'19''N 04°18'03''E;
+
+- 154. 51°58'06''N 05°56'39''E;
+
+- 155. 52°14'25''N 06°10'26''E;
+
+- 156. 51°09'26''N 06°03'49''E;
+
+- 157. 52°29'53''N 06°21'23''E;
+
+- 158. 53°12'04''N 06°33'03''E;
+
+- 159. 51°49'29''N 05°49'02''E;
+
+- 160. 51°14'11''N 05°35'52''E;
+
+- 161. 51°53'18''N 05°05'10''E;
+
+- 162. 51°45'04''N 05°51'04''E;
+
+- 163. 51°42'12''N 05°16'58''E;
+
+- 164. 51°39'48''N 04°50'17''E;
+
+- 165. 52°22'07''N 06°36'51''E;
+
+- 166. 53°10'20''N 06°42'59''E;
+
+- 167. 51°42'42''N 05°15'44''E;
+
+- 168. 51°52'57''N 05°24'39''E;
+
+- 169. 52°13'08''N 06°50'28''E;
+
+- 170. 51°31'59''N 05°05'01''E;
+
+- 171. 51°33'11''N 05°59'09''E;
+
+- 172. 52°09'18''N 06°11'35''E;
+
+- 173. 52°41'39''N 05°45'02''E;
+
+- 174. 51°55'57''N 05°35'17''E;
+
+- 175. 51°27'58''N 05°40'06''E;
+
+- 176. 51°30'20''N 05°26'52''E;
+
+- 177. 53°06'50''N 06°03'26''E;
+
+- 178. 52°14'04''N 05°28'47''E;
+
+- 179. 51°22'45''N 06°12'54''E;
+
+- 180. 51°51'59''N 04°59'22''E;
+
+- 181. 52°14'15''N 04°50'36''E;
+
+- 182. 51°30'31''N 04°15'13''E;
+
+- 183. 51°47'45''N 05°15'39''E;
+
+- 184. 52°12'42''N 04°52'51''E;
+
+- 185. 52°08'31''N 04°38'35''E;
+
+- 186. 51°35'34''N 05°03'08''E;
+
+- 187. 51°58'18''N 05°56'22''E;
+
+- 188. 52°21'49''N 06°37'02''E;
+
+- 189. 51°35'24''N 05°03'18''E;
+
+- 190. 51°09'54''N 05°57'23''E;
+
+- 191. 51°38'20''N 05°56'33''E;
+
+- 192. 51°41'41''N 05°03'15''E;
+
+- 193. 53°05'53''N 06°53'27''E;
+
+- 194. 53°00'12''N 06°34'22''E;
+
+- 195. 51°23'46''N 06°07'55''E;
+
+- 196. 51°57'48''N 06°00'30''E;
+
+- 197. 51°57'54''N 04°09'12''E;
+
+- 198. 51°46'40''N 05°32'52''E;
+
+- 199. 51°36'36''N 04°45'53''E;
+
+- 200. 51°45'34''N 04°11'19''E;
+
+- 201. 52°01'43''N 05°38'47''E;
+
+- 202. 52°39'02''N 04°42'59''E;
+
+- 203. 52°35'59''N 04°45'00''E;
+
+- 204. 52°36'26''N 04°45'37''E;
+
+- 205. 52°28'26''N 04°37'14''E;
+
+- 206. 52°29'55''N 05°26'43''E;
+
+- 207. 52°13'58''N 05°28'55''E;
+
+- 208. 52°46'29''N 06°54'25''E;
+
+- 209. 51°21'45''N 04°01'13''E;
+
+- 210. 52°21'04''N 04°50'10''E;
+
+- 211. 53°10'25''N 06°44'08''E;
+
+- 212. 51°14'29''N 05°39'02''E;
+
+- 213. 52°16'03''N 05°34'53''E;
+
+- 214. 51°46'56''N 05°33'02''E;
+
+- 215. 51°51'46''N 04°28'16''E;
+
+- 216. 50°52'48''N 05°42'28''E;
+
+- 217. 52°04'57''N 05°27'04''E;
+
+- 218. 51°46'58''N 04°26'23''E;
+
+- 219. 51°42'04''N 04°12'37''E;
+
+- 220. 52°03'16''N 05°06'23''E;
+
+- 221. 51°12'09''N 05°59'37''E;
+
+- 222. 52°14'56''N 06°48'00''E;
+
+- 223. 51°57'36''N 05°39'07''E;
+
+- 224. 52°31'10''N 06°04'26''E;
+
+- 225. 51°41'29''N 04°50'27''E;
+
+- 226. 52°28'16''N 04°38'04''E;
+
+- 227. 52°12'04''N 06°01'56''E;
+
+- 228. 52°05'35''N 06°02'51''E;
+
+- 229. 51°23'19''N 05°43'27''E;
+
+- 230. 51°35'52''N 05°01'27''E;
+
+- 231. 52°19'13''N 06°39'26''E;
+
+- 232. 51°34'47''N 05°03'36''E;
+
+- 233. 51°35'03''N 05°02'14''E;
+
+- 234. 50°53'13''N 05°42'50''E;
+
+- 235. 51°56'29''N 05°45'40''E;
+
+- 236. 52°13'25''N 06°04'59''E;
+
+- 237. 52°13'24''N 06°05'02''E;
+
+- 238. 52°13'24''N 05°08'38''E;
+
+- 239. 52°02'39''N 05°33'40''E;
+
+- 240. 53°11'49''N 05°46'37''E.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2024-06-01&g=2024-06-01), van de Regeling zonering onbemande luchtvaartuigen
+
+Het verbod, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&artikel=6&z=2024-06-01&g=2024-06-01), geldt voor de volgende geografische zones:
+
+- 1. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°56'58.0 9"N 04°43'47.50"E; 52°57'10.19"N 04°43'56.61"E; 52°57'05.68"N 04°44'13.03"E; 52°56'53.58"N 04°44'03.92"E; terug naar beginpunt.
+
+- 2. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°03'07.13"N 04°47'11.86"E; 53°03'08.74"N 04°47'18.04"E; 53°03'04.42"N 04°47'21.13"E; 53°03'02.81"N 04°47'14.96"E; terug naar beginpunt.
+
+- 3. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°45'10.87"N 05°13'46.38"E; 52°45'14.84"N 05°15'29.43"E; 52°44'51.91"N 05°16'20.91"E; 52°44'44.34"N 05°16'21.14"E; 52°44'42.79"N 05°16'11.84"E; 52°44'41.59"N 05°15'35.03"E; 52°44'49.41"N 05°15'14.90"E; 52°44'43.35"N 05°14'55.46"E; 52°44'37.81"N 05°14'43.41"E; 52°44'37.16"N 05°14'38.13"E; 52°44'44.58"N 05°14'11.23"E; terug naar beginpunt.
+
+- 4. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°40'03.64"N 05°02'18.98"E; 52°40'01.42"N 05°02'13.17"E; 52°40'00.42"N 05°02'05.07"E; 52°40'06.32"N 05°02'03.25"E; 52°40'09.01"N 05°02'04.74"E; 52°40'11.47"N 05°02'07.01"E; 52°40'12.41"N 05°02'13.67"E; terug naar beginpunt.
+
+- 5. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°25'55.78"N 04°38'52.31"E; 52°25'54.58"N 04°38'59.05"E; 52°25'45.74"N 04°38'54.85"E; 52°25'46.94"N 04°38'48.10"E; terug naar beginpunt.
+
+- 6. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°15'11.17"N 05°12'24.61"E; 52°15'09.46"N 05°12'10.84"E; 52°15'18.57"N 05°12'08.64"E; 52°15'31.44"N 05°12'12.00"E; 52°15'39.51"N 05°12'16.10"E; 52°15'45.52"N 05°12'20.59"E; 52°15'44.70"N 05°12'20.98"E; 52°15'37.72"N 05°12'31.90"E; 52°15'31.79"N 05°12'30.42"E; 52°15'24.04"N 05°12'22.21"E; terug naar beginpunt.
+
+- 7. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°17'2.67"N 05°14'23.59"E; 52°17'3.18"N 05°14'29.66"E; 52°17'0.61"N 05°14'30.30"E; 52°17'0.15"N 05°14'24.14"E; terug naar beginpunt.
+
+- 8. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°19'38.04"N 04°39'26.71"E; 52°19'42.73"N 04°39'33.45"E; 52°19'38.64"N 04°39'41.02"E; 52°19'33.96"N 04°39'34.28"E; terug naar beginpunt.
+
+- 9. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°23'40.75"N 04°35'26.84"E; 52°23'39.43"N 04°35'35.35"E; 52°23'39.63"N 04°35'43.19"E; 52°23'36.25"N 04°35'53.28"E; 52°23'34.35"N 04°35'53.32"E; 52°23'31.36"N 04°35'43.55"E; 52°23'31.30"N 04°35'34.48"E; 52°23'32.72"N 04°35'31.85"E; 52°23'38.33"N 04°35'26.71"E; terug naar beginpunt.
+
+- 10. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°30'00.46"N 04°36'47.42"E; 52°30'13.99"N 04°37'06.46"E; 52°30'12.05"N 04°37'21.64"E; 52°29'59.43"N 04°37'16.39"E; terug naar beginpunt.
+
+- 11. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°30'59.09"N 04°35'44.73"E; 52°30'59.57"N 04°36'24.37"E; 52°30'05.95"N 04°36'22.51"E; 52°30'05.80"N 04°35'44.64"E; terug naar beginpunt.
+
+- 12. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°33'17.62"N 04°36'25.09"E; 52°33'17.56"N 04°37'35.53"E; 52°32'14.63"N 04°37'35.37"E; 52°32'14.69"N 04°36'24.96"E; terug naar beginpunt.
+
+- 13. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°40'47.79"N 04°40'21.08"E; 52°40'52.31"N 04°41'06.29"E; 52°40'38.59"N 04°41'10.00"E; 52°40'34.07"N 04°40'24.79"E; terug naar beginpunt.
+
+- 14. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°41'36.84"N 04°43'35.93"E; 52°41'37.16"N 04°43'35.81"E; 52°41'37.67"N 04°43'34.93"E; 52°41'37.71"N 04°43'35.01"E; 52°41'37.89"N 04°43'34.69"E; 52°41'38.12"N 04°43'34.31"E; 52°41'38.77"N 04°43'36.22"E; 52°41'37.10"N 04°43'37.40"E; 52°41'35.56"N 04°43'38.54"E; 52°41'35.53"N 04°43'38.46"E; 52°41'35.40"N 04°43'38.07"E; 52°41'35.69"N 04°43'37.63"E; 52°41'36.17"N 04°43'36.96"E; 52°41'36.56"N 04°43'36.37"E; terug naar beginpunt.
+
+- 15. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°38'10.79"N 04°48'6.82"E; 52°38'10.81"N 04°48'6.83"E; 52°38'11.14"N 04°48'6.88"E; 52°38'11.88"N 04°48'8.22"E; 52°38'11.37"N 04°48'8.93"E; 52°38'10.60"N 04°48'7.45"E; terug naar beginpunt.
+
+- 16. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°08'50.38"N 04°51'38.75"E; 53°08'50.99"N 04°51'37.30"E; 53°08'51.86"N 04°51'38.32"E; 53°08'51.24"N 04°51'39.82"E; 53°08'51.23"N 04°51'39.82"E; terug naar beginpunt.
+
+- 17. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 53°10'26.93"N 04°51'47.86"E; 53°10'27.15"N 04°51'48.00"E; 53°10'27.10"N 04°51'48.20"E; 53°10'26.88"N 04°51'48.06"E; terug naar beginpunt.
+
+- 18. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°24'14.82"N 04°35'26.81"E; 52°24'14.77"N 04°35'26.75"E; 52°24'14.78"N 04°35'26.73"E; 52°24'14.78"N 04°35'26.73"E; 52°24'14.78"N 04°35'26.72"E; 52°24'14.78"N 04°35'26.71"E; 52°24'14.79"N 04°35'26.71"E; 52°24'14.79"N 04°35'26.71"E; 52°24'14.79"N 04°35'26.70"E; 52°24'14.79"N 04°35'26.70"E; 52°24'14.79"N 04°35'26.69"E; 52°24'14.81"N 04°35'26.66"E; 52°24'14.86"N 04°35'26.72"E; terug naar beginpunt.
+
+- 19. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°28'55.64"N 04°38'6.12"E; 52°28'55.29"N 04°38'9.26"E; 52°28'53.8"N 04°38'08.82"E; 52°28'54.14"N 04°38'5.68"E; terug naar beginpunt.
+
+- 20. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°48'20.44"N 04°44'16.68"E; 51°48'18.49"N 04°44'10.70"E; 51°48'20.91"N 04°43'45.35"E; 51°48'26.22"N 04°43'17.60"E; 51°48'28.60"N 04°43'10.45"E; 51°48'33.02"N 04°43'07.63"E; 51°48'36.23"N 04°43'09.53"E; 51°48'45.72"N 04°43'24.63"E; 51°48'56.02"N 04°43'32.83"E; 51°48'57.90"N 04°43'37.99"E; 51°48'55.09"N 04°44'08.81"E; 51°48'48.99"N 04°44'21.74"E; 51°48'39.61"N 04°44'27.98"E; 51°48'33.91"N 04°44'27.71"E; 51°48'28.57"N 04°44'24.76"E; terug naar beginpunt.
+
+- 21. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°49'57.04"N 04°25'36.57"E; 51°49'47.52"N 04°25'24.11"E; 51°49'42.94"N 04°25'08.61"E; 51°49'43.09"N 04°24'58.31"E; 51°49'50.63"N 04°23'58.03"E; 51°49'49.35"N 04°23'43.37"E; 51°49'51.57"N 04°23'38.03"E; 51°49'59.09"N 04°23'30.49"E; 51°50'17.39"N 04°23'27.92"E; 51°50'21.27"N 04°23'30.90"E; 51°50'22.79"N 04°23'39.41"E; 51°50'24.84"N 04°24'46.32"E; 51°50'27.31"N 04°25'17.22"E; 51°50'22.13"N 04°25'30.93"E; 51°50'17.28"N 04°25'37.08"E; 51°50'12.72"N 04°25'39.91"E; 51°50'04.39"N 04°25'40.70"E; terug naar beginpunt.
+
+- 22. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°17'40.58"N 03°45'22.43"E; 51°17'35.65"N 03°45'20.73"E; 51°17'33.56"N 03°45'16.60"E; 51°17'32.43"N 03°45'07.57"E; 51°17'38.94"N 03°44'27.80"E; 51°17'38.08"N 03°44'23.07"E; 51°17'39.21"N 03°44'18.43"E; 51°17'44.29"N 03°44'15.41"E; 51°18'06.72"N 03°43'47.43"E; 51°18'20.38"N 03°43'40.94"E; 51°18'31.41"N 03°43'29.08"E; 51°18'34.64"N 03°43'30.89"E; 51°18'44.82"N 03°43'46.76"E; 51°18'45.67"N 03°43'52.05"E; 51°18'43.92"N 03°43'58.60"E; 51°18'34.52"N 03°44'07.70"E; 51°18'14.78"N 03°44'33.23"E; 51°18'06.82"N 03°45'00.61"E; 51°18'03.70"N 03°45'06.41"E; terug naar beginpunt.
+
+- 23. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°54'34.27"N 04°32'26.95"E; 51°54'24.04"N 04°32'33.81"E; 51°54'21.29"N 04°32'32.83"E; 51°54'19.34"N 04°32'29.54"E; 51°54'12.30"N 04°31'58.96"E; 51°54'16.72"N 04°31'33.59"E; 51°54'21.04"N 04°31'29.13"E; 51°54'27.31"N 04°31'32.11"E; 51°54'29.54"N 04°31'35.63"E; 51°54'29.34"N 04°31'43.97"E; 51°54'32.38"N 04°31'48.81"E; 51°54'33.33"N 04°32'06.76"E; 51°54'36.37"N 04°32'19.87"E; terug naar beginpunt.
+
+- 24. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°31'34.66"N 04°17'31.04"E; 51°31'33.20"N 04°17'17.65"E; 51°31'34.79"N 04°17'11.76"E; 51°31'38.67"N 04°17'09.44"E; 51°31'45.50"N 04°17'15.18"E; 51°31'47.20"N 04°17'20.99"E; 51°31'45.73"N 04°17'31.64"E; 51°31'39.05"N 04°17'35.28"E; terug naar beginpunt.
+
+- 25. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°25'55.39"N 04°21'49.15"E; 51°25'52.70"N 04°21'32.28"E; 51°25'56.08"N 04°21'26.71"E; 51°26'05.26"N 04°21'26.27"E; 51°26'08.64"N 04°21'31.20"E; 51°26'09.67"N 04°21'46.51"E; 51°26'05.61"N 04°21'53.83"E; 51°26'00.41"N 04°21'55.25"E; 51°25'57.44"N 04°21'53.71"E; terug naar beginpunt.
+
+- 26. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°23'49.95"N 04°19'34.24"E; 51°23'48.86"N 04°19'24.86"E; 51°23'51.33"N 04°19'17.61"E; 51°23'59.03"N 04°19'15.85"E; 51°24'01.11"N 04°19'18.89"E; 51°24'03.24"N 04°19'27.24"E; 51°24'02.92"N 04°19'35.80"E; 51°23'58.18"N 04°19'41.78"E; 51°23'54.17"N 04°19'41.66"E; terug naar beginpunt.
+
+- 27. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°49'36.40"N 03°57'36.99"E; 51°49'35.57"N 03°57'31.31"E; 51°49'37.68"N 03°57'21.97"E; 51°49'42.90"N 03°57'17.92"E; 51°49'50.19"N 03°57'24.08"E; 51°49'51.81"N 03°57'32.79"E; 51°49'50.10"N 03°57'42.07"E; 51°49'44.13"N 03°57'48.06"E; 51°49'39.92"N 03°57'45.14"E; terug naar beginpunt.
+
+- 28. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°41'28.27"N 03°42'39.44"E; 51°41'20.53"N 03°42'26.08"E; 51°41'21.47"N 03°42'18.87"E; 51°41'27.33"N 03°42'12.34"E; 51°41'30.56"N 03°42'14.16"E; 51°41'38.08"N 03°42'27.34"E; 51°41'37.52"N 03°42'33.72"E; 51°41'32.50"N 03°42'40.64"E; terug naar beginpunt.
+
+- 29. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°14'47.78"N 04°03'35.05"E; 51°14'46.25"N 04°03'31.28"E; 51°14'47.46"N 04°03'18.93"E; 51°14'51.44"N 04°03'14.52"E; 51°14'59.14"N 04°03'16.78"E; 51°15'01.70"N 04°03'21.15"E; 51°15'02.86"N 04°03'30.44"E; 51°15'02.09"N 04°03'34.76"E; 51°14'59.82"N 04°03'37.93"E; 51°14'51.24"N 04°03'38.02"E; terug naar beginpunt.
+
+- 30. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°45'05.33"N 04°13'28.52"E; 51°45'04.11"N 04°13'22.38"E; 51°45'06.93"N 04°13'14.63"E; 51°45'10.74"N 04°13'12.66"E; 51°45'14.61"N 04°13'16.38"E; 51°45'24.18"N 04°13'25.04"E; 51°45'18.53"N 04°13'41.77"E; 51°45'09.23"N 04°13'32.38"E; terug naar beginpunt.
+
+- 31. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°45'49.85"N 04°46'29.97"E; 51°45'48.94"N 04°46'31.68"E; 51°45'53.96"N 04°46'38.69"E; 51°45'55.42"N 04°46'44.10"E; 51°45'54.85"N 04°46'50.10"E; 51°45'52.13"N 04°46'54.84"E; 51°45'42.38"N 04°46'59.49"E; 51°45'36.17"N 04°47'05.36"E; 51°45'30.61"N 04°47'06.46"E; 51°45'22.08"N 04°47'04.51"E; 51°45'15.90"N 04°47'00.28"E; 51°45'10.01"N 04°46'55.16"E; 51°45'06.35"N 04°46'48.98"E; 51°44'38.98"N 04°47'10.42"E; 51°44'39.63"N 04°47'24.34"E; 51°44'38.41"N 04°47'32.40"E; 51°44'34.25"N 04°47'39.68"E; 51°44'28.91"N 04°47'42.46"E; 51°44'19.80"N 04°47'40.25"E; 51°44'15.01"N 04°47'36.96"E; 51°44'11.26"N 04°47'31.43"E; 51°44'05.39"N 04°47'16.49"E; 51°43'40.85"N 04°46'52.13"E; 51°43'51.49"N 04°47'44.77"E; 51°43'54.41"N 04°48'19.92"E; 51°44'01.06"N 04°48'45.66"E; 51°44'01.27"N 04°49'01.61"E; 51°43'51.90"N 04°49'38.56"E; 51°43'53.84"N 04°49'53.17"E; 51°43'49.71"N 04°50'03.83"E; 51°43'44.10"N 04°50'06.84"E; 51°43'35.57"N 04°50'06.11"E; 51°43'20.70"N 04°49'50.92"E; 51°43'06.48"N 04°49'19.36"E; 51°43'03.33"N 04°49'07.43"E; 51°43'04.60"N 04°48'55.15"E; 51°43'08.11"N 04°48'47.91"E; 51°43'14.03"N 04°48'41.12"E; 51°43'17.68"N 04°48'27.08"E; 51°43'09.90"N 04°47'50.12"E; 51°43'09.38"N 04°47'33.25"E; 51°43'11.88"N 04°47'20.11"E; 51°43'24.11"N 04°46'45.73"E; 51°43'28.92"N 04°45'55.70"E; 51°43'31.14"N 04°45'51.95"E; 51°43'34.32"N 04°45'51.25"E; 51°43'42.69"N 04°45'34.09"E; 51°43'46.95"N 04°45'30.04"E; 51°43'52.42"N 04°45'28.31"E; 51°43'58.51"N 04°45'30.34"E; 51°44'02.53"N 04°45'34.52"E; 51°44'18.96"N 04°46'00.89"E; 51°44'25.72"N 04°46'26.95"E; 51°44'32.22"N 04°46'41.83"E; 51°44'34.67"N 04°46'51.49"E; 51°44'59.02"N 04°46'32.54"E; 51°44'58.25"N 04°46'21.31"E; 51°44'59.62"N 04°46'08.64"E; 51°45'01.57"N 04°46'02.98"E; 51°45'05.82"N 04°45'57.85"E; 51°45'20.14"N 04°45'50.94"E; 51°45'31.82"N 04°45'51.95"E; 51°45'44.28"N 04°46'05.03"E; 51°45'50.14"N 04°46'03.92"E; 51°45'52.99"N 04°46'05.67"E; 51°45'56.70"N 04°46'11.97"E; 51°45'56.97"N 04°46'19.40"E; 51°45'54.16"N 04°46'26.64"E; terug naar beginpunt.
+
+- 32. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°17'16.90"N 05°35'00.64"E; 51°17'19.67"N 05°34'58.53"E; 51°17'22.92"N 05°34'57.87"E; 51°17'23.94"N 05°35'01.68"E; 51°17'21.43"N 05°35'04.10"E; 51°17'20.05"N 05°35'08.27"E; 51°17'19.30"N 05°35'08.76"E; terug naar beginpunt.
+
+- 33. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°36'48.06"N 05°14'36.87"E; 51°36'49.74"N 05°14'34.01"E; 51°36'51.39"N 05°14'33.69"E; 51°36'54.63"N 05°14'39.06"E; 51°36'54.79"N 05°14'40.31"E; 51°36'50.70"N 05°14'41.36"E; terug naar beginpunt.
+
+- 34. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°30'58.72"N 05°33'49.76"E; 51°30'58.52"N 05°33'46.95"E; 51°31'00.12"N 05°33'41.54"E; 51°31'04.61"N 05°33'46.15"E; 51°31'40.00"N 05°33'48.77"E; 51°31'02.58"N 05°33'51.44"E; 51°30'59.50"N 05°33'51.01"E; terug naar beginpunt.
+
+- 35. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°46'55.99"N 05°24'14.49"E; 51°46'59.03"N 05°24'12.20"E; 51°47'01.28"N 05°24'13.64"E; 51°47'02.04"N 05°24'17.36"E; 51°46'58.16"N 05°24'19.57"E; 51°46'56.33"N 05°24'17.55"E; terug naar beginpunt.
+
+- 36. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°41'48.69"N 05°29'58.99"E; 51°41'48.73"N 05°30'01.76"E; 51°41'48.23"N 05°30'02.60"E; 51°41'46.20"N 05°30'00.31"E; 51°41'44.89"N 05°29'57.01"E; 51°41'42.92"N 05°29'54.77"E; 51°41'43.15"N 05°29'52.20"E; 51°41'44.21"N 05°29'51.41"E; 51°41'46.09"N 05°29'53.00"E; 51°41'48.79"N 05°29'53.81"E; 51°41'49.25"N 05°29'55.43"E; terug naar beginpunt.
+
+- 37. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°16'53.79"N 05°18'11.19"E; 51°16'56.66"N 05°18'09.31"E; 51°16'57.53"N 05°18'13.70"E; 51°16'55.51"N 05°18'14.78"E; 51°16'54.24"N 05°18'13.43"E; terug naar beginpunt.
+
+- 38. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°47'54.81"N 05°31'56.50"E; 51°47'55.21"N 05°31'52.92"E; 51°47'57.14"N 05°31'48.24"E; 51°47'58.33"N 05°31'48.72"E; 51°47'59.37"N 05°31'51.82"E; 51°48'01.28"N 05°31'54.20"E; 51°48'01.13"N 05°31'55.32"E; 51°47'58.50"N 05°31'58.98"E; terug naar beginpunt.
+
+- 39. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°31'57.62"N 05°15'20.32"E; 51°31'58.49"N 05°15'16.44"E; 51°32'00.16"N 05°15'15.02"E; 51°32'01.01"N 05°15'15.50"E; 51°31'59.13"N 05°15'21.23"E; terug naar beginpunt.
+
+- 40. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°36'02.69"N 05°24'40.49"E; 51°36'04.41"N 05°24'39.19"E; 51°36'06.84"N 05°24'40.66"E; 51°36'07.52"N 05°24'42.82"E; 51°36'07.19"N 05°24'44.95"E; 51°36'03.99"N 05°24'45.84"E; terug naar beginpunt.
+
+- 41. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°19'54.10"N 05°41'42.37"E; 51°19'54.32"N 05°41'38.19"E; 51°19'57.56"N 05°41'39.72"E; 51°19'57.23"N 05°41'42.63"E; 51°19'55.96"N 05°41'44.15"E; terug naar beginpunt.
+
+- 42. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°31'42.42"N 05°25'55.72"E; 51°31'40.39"N 05°25'58.61"E; 51°31'39.69"N 05°25'57.96"E; 51°31'38.61"N 05°25'54.10"E; 51°31'39.81"N 05°25'49.88"E; 51°31'42.02"N 05°25'47.60"E; 51°31'43.32"N 05°25'54.53"E; terug naar beginpunt.
+
+- 43. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°36'35.24"N 05°34'52.91"E; 51°36'35.60"N 05°34'49.14"E; 51°36'37.56"N 05°34'47.02"E; 51°36'43.40"N 05°34'47.02"E; 51°36'45.27"N 05°34'49.05"E; 51°36'45.92"N 05°34'50.84"E; 51°36'44.74"N 05°34'53.83"E; 51°36'41.33"N 05°34'54.81"E; terug naar beginpunt.
+
+- 44. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'00.25"N 05°18'49.22"E; 51°26'01.51"N 05°18'44.13"E; 51°26'03.53"N 05°18'45.75"E; 51°26'07.29"N 05°18'46.83"E; 51°26'06.20"N 05°18'53.55"E; 51°26'05.00"N 05°18'55.70"E; terug naar beginpunt.
+
+- 45. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°35'42.17"N 05°57'21.77"E; 51°35'39.68"N 05°57'17.68"E; 51°35'39.36"N 05°57'12.45"E; 51°35'42.15"N 05°57'11.95"E; 51°35'42.31"N 05°57'15.87"E; 51°35'43.36"N 05°57'20.83"E; terug naar beginpunt.
+
+- 46. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'11.79"N 05°45'46.33"E; 51°26'12.19"N 05°45'38.74"E; 51°26'13.64"N 05°45'38.73"E; 51°26'12.99"N 05°45'46.23"E; terug naar beginpunt.
+
+- 47. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°41'09.86"N 05°11'08.78"E; 51°41'09.86"N 05°11'13.28"E; 51°41'07.02"N 05°11'13.63"E; 51°41'07.33"N 05°11'04.77"E; 51°41'09.68"N 05°11'02.97"E; 51°41'10.36"N 05°11'05.37"E; terug naar beginpunt.
+
+- 48. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°28'59.28"N 05°41'18.72"E; 51°29'00.76"N 05°41'14.91"E; 51°29'02.48"N 05°41'13.17"E; 51°29'03.71"N 05°41'10.62"E; 51°29'08.73"N 05°41'07.84"E; 51°29'09.77"N 05°41'09.15"E; 51°29'10.05"N 05°41'11.43"E; 51°29'05.76"N 05°41'14.36"E; 51°29'02.39"N 05°41'18.63"E; 51°28'59.96"N 05°41'20.51"E; terug naar beginpunt.
+
+- 49. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°43'21.18"N 05°24'56.56"E; 51°43'21.05"N 05°24'58.36"E; 51°43'19.47"N 05°24'59.01"E; 51°43'18.04"N 05°24'51.69"E; 51°43'15.69"N 05°24'47.85"E; 51°43'16.79"N 05°24'42.70"E; 51°43'16.59"N 05°24'37.75"E; 51°43'17.20"N 05°24'37.84"E; 51°43'18.65"N 05°24'42.47"E; 51°43'21.50"N 05°24'45.31"E; 51°43'21.19"N 05°24'49.74"E; 51°43'21.86"N 05°24'53.40"E; terug naar beginpunt.
+
+- 50. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°24'59.40"N 05°28'50.99"E; 51°24'59.18"N 05°28'55.33"E; 51°24'57.90"N 05°28'55.65"E; 51°24'56.00"N 05°28'54.49"E; 51°24'53.09"N 05°28'54.55"E; 51°24'50.83"N 05°28'53.66"E; 51°24'49.08"N 05°28'54.24"E; 51°24'47.52"N 05°28'55.90"E; 51°24'46.96"N 05°28'55.51"E; 51°24'48.25"N 05°28'50.84"E; 51°24'48.42"N 05°28'43.13"E; 51°24'59.73"N 05°28'45.56"E; terug naar beginpunt.
+
+- 51. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°27'16.86"N 05°24'49.89"E; 51°27'16.20"N 05°24'50.54"E; 51°27'15.36"N 05°24'48.93"E; 51°27'16.53"N 05°24'45.50"E; 51°27'16.88"N 05°24'42.13"E; 51°27'19.18"N 05°24'41.08"E; 51°27'20.71"N 05°24'43.70"E; terug naar beginpunt.
+
+- 52. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°28'51.10"N 04°18'42.27"E; 51°28'49.97"N 04°18'43.47"E; 51°28'47.37"N 04°18'39.41"E; 51°28'46.25"N 04°18'34.80"E; 51°28'47.12"N 04°18'31.85"E; 51°28'49.34"N 04°18'33.83"E; 51°28'50.80"N 04°18'36.54"E; terug naar beginpunt.
+
+- 53. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°35'36.73"N 04°51'44.50"E; 51°35'36.98"N 04°51'42.41"E; 51°35'39.49"N 04°51'41.88"E; 51°35'41.77"N 04°51'42.40"E; 51°35'42.46"N 04°51'45.35"E; 51°35'42.41"N 04°51'48.58"E; 51°35'40.25"N 04°51'48.84"E; 51°35'37.58"N 04°51'47.72"E; terug naar beginpunt.
+
+- 54. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°42'47.98"N 05°01'12.55"E; 51°42'48.25"N 05°01'11.51"E; 51°42'49.04"N 05°01'11.91"E; 51°42'48.78"N 05°01'13.14"E; terug naar beginpunt.
+
+- 55. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°44'30.48"N 05°5'47.30"E; 51°44'32.00"N 05°5'46.37"E; 51°44'33.72"N 05°5'49.16"E; 51°44'35.62"N 05°5'53.98"E; 51°44'35.75"N 05°5'55.56"E; 51°44'34.77"N 05°5'55.95"E; 51°44'32.47"N 05°5'52.70"E; terug naar beginpunt.
+
+- 56. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°31'39.69"N 04°57'2.33"E; 51°31'40.7"N 04°56'59.73"E; 51°31'41.82"N 04°57'0.62"E; 51°31'41.22"N 04°57'2.51"E; 51°31'40.2"N 04°57'03.05"E; terug naar beginpunt.
+
+- 57. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°37'51.52"N 04°50'13.97"E; 51°37'49.73"N 04°50'17.99"E; 51°37'48.41"N 04°50'17.81"E; 51°37'44.00"N 04°50'11.49"E; 51°37'48.41"N 04°50'03.70"E; 51°37'51.31"N 04°50'09.81"E; terug naar beginpunt.
+
+- 58. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°32'27.96"N 04°51'44.65"E; 51°32'29.24"N 04°51'42.38"E; 51°32'32.60"N 04°51'47.80"E; 51°32'32.89"N 04°51'49.27"E; 51°32'32.16"N 04°51'50.13"E; terug naar beginpunt.
+
+- 59. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°30'37.31"N 04°28'18.69"E; 51°30'37.21"N 04°28'14.31"E; 51°30'36.48"N 04°28'10.89"E; 51°30'39.06"N 04°28'08.76"E; 51°30'41.79"N 04°28'16.26"E; 51°30'39.47"N 04°28'20.03"E; terug naar beginpunt.
+
+- 60. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°30'10.41"N 04°33'01.90"E; 51°30'11.29"N 04°32'58.46"E; 51°30'12.46"N 04°32'57.43"E; 51°30'15.16"N 04°32'57.24"E; 51°30'15.71"N 04°32'57.85"E; 51°30'15.53"N 04°33'00.04"E; 51°30'14.09"N 04°33'03.35"E; terug naar beginpunt.
+
+- 61. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°33'38.55"N 04°33'31.51"E; 51°33'37.64"N 04°33'22.70"E; 51°33'38.04"N 04°33'20.82"E; 51°33'39.42"N 04°33'19.14"E; 51°33'40.84"N 04°33'19.52"E; 51°33'41.83"N 04°33'22.63"E; 51°33'43.18"N 04°33'24.69"E; 51°33'43.55"N 04°33'26.96"E; 51°33'42.15"N 04°33'29.54"E; 51°33'41.17"N 04°33'33.82"E; 51°33'39.54"N 04°33'34.46"E; terug naar beginpunt.
+
+- 62. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°40'28.32"N 05°04'10.09"E; 51°40'30.41"N 05°04'09.40"E; 51°40'30.84"N 05°04'10.11"E; 51°40'30.30"N 05°04'12.30"E; 51°40'29.60"N 05°04'12.58"E; terug naar beginpunt.
+
+- 63. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°31'50.22"N 04°21'54.34"E; 51°31'49.85"N 04°21'56.19"E; 51°31'48.61"N 04°21'55.92"E; 51°31'47.51"N 04°21'52.18"E; 51°31'47.79"N 04°21'48.49"E; 51°31'49.01"N 04°21'46.98"E; 51°31'51.13"N 04°21'48.88"E; terug naar beginpunt.
+
+- 64. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°33'15.57"N 05°00'31.16"E; 51°33'15.37"N 05°00'33.81"E; 51°33'12.65"N 05°00'37.29"E; 51°33'12.10"N 05°00'37.19"E; 51°33'11.37"N 05°00'31.85"E; 51°33'08.54"N 05°00'20.98"E; 51°33'10.06"N 05°00'19.99"E; 51°33'12.12"N 05°00'22.42"E; 51°33'15.12"N 05°00'23.22"E; 51°33'16.32"N 05°00'25.83"E; terug naar beginpunt.
+
+- 65. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°39'33.20"N 04°36'43.04"E; 51°39'34.32"N 04°36'37.41"E; 51°39'36.88"N 04°36'36.74"E; 51°39'38.03"N 04°36'39.05"E; 51°39'37.99"N 04°36'41.78"E; 51°39'36.57"N 04°36'45.30"E; 51°39'33.83"N 04°36'44.45"E; terug naar beginpunt.
+
+- 66. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°38'45.78"N 05°03'23.65"E; 51°38'45.93"N 05°03'22.72"E; 51°38'46.83"N 05°03'22.14"E; 51°38'47.80"N 05°03'24.53"E; 51°38'46.48"N 05°03'25.62"E; terug naar beginpunt.
+
+- 67. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°40'29.94"N 05°48'00.01"E; 51°40'30.60"N 05°47'57.89"E; 51°40'31.74"N 05°47'58.70"E; 51°40'31.07"N 05°48'01.00"E; terug naar beginpunt.
+
+- 68. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°28'04.75"N 05°31'08.51"E; 51°28'05.47"N 05°31'07.55"E; 51°28'05.98"N 05°31'07.89"E; 51°28'05.50"N 05°31'09.04"E; terug naar beginpunt.
+
+- 69. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°21'58.64"N 05°27'52.61"E; 51°21'58.93"N 05°27'51.79"E; 51°21'59.53"N 05°27'52.22"E; 51°21'59.27"N 05°27'53.15"E; terug naar beginpunt.
+
+- 70. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'19.27"N 05°24'26.60"E; 51°26'19.73"N 05°24'25.92"E; 51°26'20.20"N 05°24'26.83"E; 51°26'19.73"N 05°24'27.41"E; terug naar beginpunt.
+
+- 71. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°25'19.96"N 05°25'36.48"E; 51°25'20.64"N 05°25'35.75"E; 51°25'21.08"N 05°25'36.16"E; 51°25'20.69"N 05°25'37.11"E; terug naar beginpunt.
+
+- 72. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°11'33.13"N 05°53'00.79"E; 51°11'12.15"N 05°53'15.74"E; 51°11'15.20"N 05°53'35.10"E; 51°11'11.67"N 05°53'58.21"E; 51°10'59.51"N 05°54'15.54"E; 51°11'15.03"N 05°54'47.08"E; 51°11'29.95"N 05°54'45.58"E; 51°11'51.14"N 05°54'22.20"E; 51°12'12.19"N 05°54'03.78"E; 51°12'02.49"N 05°53'42.44"E; 51°11'46.31"N 05°53'42.40"E; terug naar beginpunt.
+
+- 73. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°02′40.32″N 04°12'15.34″E; 52°02'36.98″N 04°12'02.04″E; 52°02'30.96″N 04°11'52.11″E; 52°02'20.78″N 04°11'26.55″E; 52°02'23.69″N 04°11'21.17″E; 52°02'21.41″N 04°11'16.87″E; 52°02'32.61″N 04°10'57.24″E; 52°03'30.97″N 04°12'16.31″E; 52°03'26.40″N 04°12'30.46″E; 52°03'25.99″N 04°12'30.87″E; 52°03'23.47″N 04°12'23.88″E; 52°03'08.13″N 04°12'37.67″E; 52°03'12.67″N 04°12'44.20″E; 52°03'01.35″N 04°12'56.23″E; 52°02'54.19″N 04°13'01.41″E; 52°02'49.59″N 04°12'55.31″E; terug naar beginpunt.
+
+- 74. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°07'06.59″N 04°17'18.18″E; 52°07'40.02″N 04°18'13.30″E; 52°010'0.85″N 04°21'08.59″E; 52°11'46.22″N 04°23'05.44″E; 52°11'41.18″N 04°23'26.24″E; 52°11'49.90″N 04°23'36.69″E; 52°11'56.78″N 04°23'53.98″E; 52°11'51.95″N 04°24'19.06″E; 52°11'20.17″N 04°24'47.02″E; 52°11'16.56″N 04°24'59.15″E; 52°11'09.65″N 04°25'00.87″E; 52°09'29.92″N 04°22'53.47″E; 52°09'08.54″N 04°23'11.86″E; 52°08'59.86″N 04°23'11.46″E; 52°08'47.70″N 04°22'46.45″E; 52°08'24.75″N 04°23'11.07″E; 52°08'10.90″N 04°22'59.04″E; 52°08'15.96″N 04°22'45.65″E; 52°07'24.72″N 04°21'28.37″E; 52°07'15.54″N 04°21'40.10″E; 52°06'17.58″N 04°19'59.15″E; 52°06'13.03″N 04°20'04.55″E; 52°05'56.46″N 04°19'22.88″E; 52°06'01.62″N 04°19'17.06″E; 52°06'19.09″N 04°19'45.76″E; 52°06'29.04″N 04°19'33.51″E; 52°05'58.99″N 04°18'12.44″E; 52°06'02.16″N 04°18'06.83″E; 52°06'06.81″N 04°18'04.70″E; 52°06'30.36″N 04°18'30.32″E; 52°06'46.78″N 04°17'34.84″E; 52°06'49.17″N 04°17'36.32″E; 52°06'52.09″N 04°17'24.70″E; 52°06'56.09″N 04°17'26.29″E; 52°07'3.041″N 04°17'18.73″E; terug naar beginpunt.
+
+- 75. De zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 52°12'41.21"N 05°02'05.38"E; 52°13'20.72"N 05°02'49.03"E; 52°13'07.09"N 05°03'33.28"E; 52°12'40.75"N 05°03'09.61"E; 52°12'07.77"N 05°03'15.21"E; 52°12'05.91"N 05°02'30.20"E; terug naar beginpunt.
+
+- 76. De volgende zones met een straal van 150 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 53°09'17"N 06°24'33"E;
+
+- b. 53°09'05"N 06°40'25"E;
+
+- c. 53°07'53"N 06°37'17"E;
+
+- d. 53°06'26"N 06°42'29"E;
+
+- e. 52°57'48"N 07°08'10"E;
+
+- f. 53°07'53"N 06°37'10"E;
+
+- g. 53°27'37"N 05°48'56"E;
+
+- h. 51°58'17"N 05°33'28"E;
+
+- i. 52°23'16"N 07°02'18"E;
+
+- j. 52°08'25"N 05°59'17"E;
+
+- k. 51°57'27"N 05°55'33"E;
+
+- l. 53°28'59"N 06°08'55"E;
+
+- m. 52°55'06"N 05°41'25"E;
+
+- n. 52°14'36"N 06°10'14"E;
+
+- o. 52°07'55"N 05°13'11"E;
+
+- p. 51°57'32"N 06°38'56"E;
+
+- q. 52°16'02"N 06°08'56"E;
+
+- r. 51°59'21"N 05°18'29"E;
+
+- s. 51°56'50"N 05°13'56"E;
+
+- t. 51°55'24"N 06°36'11"E;
+
+- u. 52°08'26"N 05°21'59"E;
+
+- v. 52°13'31"N 05°55'37"E;
+
+- w. 52°09'31"N 05°24'56"E;
+
+- x. 52°28'26"N 06°25'10"E;
+
+- y. 52°03'31"N 05°11'29"E;
+
+- z. 52°27'10"N 06°01'02"E;
+
+- aa. 52°21'47"N 06°09'55"E;
+
+- bb. 52°25'10"N 05°43'42"E;
+
+- cc. 52°06'41"N 05°12'36"E;
+
+- dd. 52°18'21"N 06°08'38"E;
+
+- ee. 51°52'54"N 06°30'11"E;
+
+- ff. 52°05'05"N 05°01'14"E;
+
+- gg. 52°03'35"N 05°18'21"E;
+
+- hh. 52°02'31"N 05°19'51"E;
+
+- ii. 52°03'16"N 05°41'20"E;
+
+- jj. 52°06'07"N 06°02'25"E;
+
+- kk. 52°05'31"N 06°36'24"E;
+
+- ll. 52°02'19"N 06°05'20"E;
+
+- mm. 52°15'35"N 05°20'12"E;
+
+- nn. 52°29'53"N 06°04'16"E;
+
+- oo. 52°22'38"N 05°58'00"E;
+
+- pp. 52°17'47"N 06°22'52"E;
+
+- qq. 52°19'10"N 05°28'05"E;
+
+- rr. 52°13'55"N 06°34'08"E;
+
+- ss. 52°07'55"N 05°08'17"E;
+
+- tt. 52°46'17"N 06°11'37"E;
+
+- uu. 52°28'40"N 06°32'16"E;
+
+- vv. 52°19'47"N 05°39'25"E;
+
+- ww. 52°04'06"N 04°57'17"E;
+
+- xx. 52°09'02"N 06°24'49"E;
+
+- yy. 52°14'25"N 05°12'10"E;
+
+- zz. 52°00'34"N 05°26'28"E;
+
+- aaa. 52°12'12"N 05°08'34"E;
+
+- bbb. 52°06'12"N 05°02'27"E;
+
+- ccc. 52°27'09"N 06°47'38"E;
+
+- ddd. 51°47'35"N 05°54'06"E;
+
+- eee. 53°13'02"N 06°00'05"E;
+
+- fff. 52°09'55"N 06°33'13"E;
+
+- ggg. 52°00'55"N 05°04'24"E;
+
+- hhh. 52°21'37"N 06°26'12"E;
+
+- iii. 52°54'07"N 06°03'11"E;
+
+- jjj. 51°58'45"N 05°51'05"E;
+
+- kkk. 52°00'30"N 05°58'35"E;
+
+- lll. 52°40'40"N 06°00'60"E;
+
+- mmm. 52°31'05"N 06°12'08"E;
+
+- nnn. 52°00'28"N 05°07'53"E;
+
+- ooo. 52°15'04"N 06°04'59"E;
+
+- ppp. 53°22'13"N 05°13'09"E;
+
+- qqq. 52°57'11"N 06°18'35"E;
+
+- rrr. 52°23'48"N 05°51'17"E;
+
+- sss. 51°47'18"N 05°17'53"E;
+
+- ttt. 53°17'49"N 05°03'28"E;
+
+- uuu. 52°01'27"N 05°32'45"E;
+
+- vvv. 52°07'15"N 06°20'47"E;
+
+- www. 51°54'58"N 05°22'12"E;
+
+- xxx. 52°05'54"N 05°14'48"E;
+
+- yyy. 51°50'45"N 05°13'56"E;
+
+- zzz. 51°58'06"N 05°42'34"E;
+
+- aaaa. 52°04'39"N 05°27'24"E;
+
+- bbbb. 52°20'02"N 06°52'21"E;
+
+- cccc. 52°21'36"N 06°33'58"E;
+
+- dddd. 52°33'41"N 06°24'02"E;
+
+- eeee. 52°14'57"N 06°52'35"E;
+
+- ffff. 51°54'01"N 06°14'16"E;
+
+- gggg. 52°02'43"N 06°21'07"E;
+
+- hhhh. 52°14'16"N 06°32'25"E;
+
+- iiii. 51°48'36"N 05°51'27"E;
+
+- jjjj. 52°23'22"N 06°33'38"E;
+
+- kkkk. 52°07'17"N 05°53'09"E;
+
+- llll. 52°13'50"N 05°26'08"E;
+
+- mmmm. 53°27'06"N 05°37'42"E;
+
+- nnnn. 52°17'29"N 06°27'13"E;
+
+- oooo. 52°22'02"N 05°32'36"E;
+
+- pppp. 52°17'14"N 06°47'39"E;
+
+- qqqq. 52°14'36"N 05°36'38"E;
+
+- rrrr. 52°19'07"N 05°28'08"E;
+
+- ssss. 51°52'23"N 05°36'18"E;
+
+- tttt. 52°08'36"N 05°18'10"E;
+
+- uuuu. 51°56'46"N 05°48'05"E;
+
+- vvvv. 51°56'47"N 05°47'28"E;
+
+- wwww. 52°41'39"N 04°43'37"E;
+
+- xxxx. 52°48'41"N 04°45'14"E;
+
+- yyyy. 52°49'07"N 04°44'28"E;
+
+- zzzz. 52°55'57"N 04°47'17"E;
+
+- aaaaa. 52°50'28"N 04°51'39"E;
+
+- bbbbb. 52°41'04"N 04°55'14"E;
+
+- ccccc. 51°51'39"N 04°40'36"E;
+
+- ddddd. 52°08'25"N 04°39'14"E;
+
+- eeeee. 52°07'38"N 04°35'07"E;
+
+- fffff. 52°08'09"N 04°31'39"E;
+
+- ggggg. 51°49'16"N 04°39'42"E;
+
+- hhhhh. 51°50'52"N 04°58'38"E;
+
+- iiiii. 52°01'44"N 04°41'08"E;
+
+- jjjjj. 51°49'30"N 04°48'21"E;
+
+- kkkkk. 52°07'13"N 04°47'17"E;
+
+- lllll. 52°05'40"N 04°51'46"E;
+
+- mmmmm. 51°57'27"N 05°02'12"E;
+
+- nnnnn. 51°52'55"N 04°40'07"E;
+
+- ooooo. 51°56'06"N 04°56'08"E;
+
+- ppppp. 51°52'52"N 04°35'36"E;
+
+- qqqqq. 51°56'13"N 04°48'40"E;
+
+- rrrrr. 51°53'40"N 04°38'32"E;
+
+- sssss. 51°11'15"N 05°55'37"E;
+
+- ttttt. 52°12'04"N 05°02'17"E;
+
+- uuuuu. 51°33'36.87"N 04°33'05.87"E.
+
+- 77. De volgende zones met een straal van 350 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 51°48′37″N 05°03′40″E;
+
+- b. 51°48′28″N 05°03′40″E;
+
+- c. 51°48′08″N 05°03′40″E;
+
+- d. 51°47′53″N 05°03′40″E;
+
+- e. 51°47′36″N 05°03′17″E;
+
+- f. 52°01'46"N 05°06'41"E.
+
+- 78. De volgende zones met een straal van 500 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 52°18'14"N 05°00'15"E;
+
+- b. 52°20'48"N 04°35'50"E;
+
+- c. 52°01'25"N 05°06'39"E;
+
+- d. 52°20'35"N 04°34'29"E;
+
+- e. 52°20'43"N 04°34'45"E;
+
+- f. 52°20'59"N 04°34'32"E.
+
+- 79. De volgende zone met een straal van 800 meter, waarbij het coördinaat als middelpunt wordt gehanteerd:
+
+- a. 51°55′26″N 04°46′23″E.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
