@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2018-09-11"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -56,7 +56,9 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) nr. 2015/340:** verordening (EU) 2015/340 van de Commissie van 20 februari 2015 tot vaststelling van technische eisen en administratieve procedures met betrekking tot vergunningen en certificaten van luchtverkeersleiders overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad, tot wijziging van Uitvoeringsverordening (EU) nr. 923/2012 van de Commissie en tot intrekking van Verordening (EU) nr. 805/2011 van de Commissie (PbEU L 63);
 
-- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362).
+- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
+
+- **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
 
 #### § 2. Uitvoering
 
@@ -100,13 +102,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. artikel 48 en 49, eerste lid, van de basisverordening juncto artikel 3, eerste lid, en bijlage IV, paragraaf ATCO.MED.A.020, van verordening (EU) nr. 2015/340;
 
-- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012.
+- e. paragrafen SERA.2005, SERA.3135, SERA.3205, SERA.3210, SERA.3215, SERA.3220, SERA.3230, SERA.3301, SERA.3401, SERA.4005, SERA.4010, SERA.4015, SERA.4020, SERA.5005, onderdelen a tot en met d, f, h en i, SERA.5015, SERA.5020, SERA.5025, onderdelen b en c, SERA.6001, SERA.8020, SERA.8025, SERA.8030, SERA.8035, SERA.11005, onderdelen a bis en a ter, SERA.13001 en de punten 2 tot en met 6 van Aanhangsel 2 bij de bijlage bij verordening (EU) nr. 923/2012;
+
+- f. de artikelen 5, eerste lid, 7, 8, 9, eerste lid, 10, 14, vijfde, zesde, zevende en achtste lid, en de paragrafen UAS.OPEN.050, UAS.OPEN.060, met uitzondering van het tweede lid, onder a, UAS.SPEC.050 en UAS.SPEC.060, met uitzonderling van het eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
 
 ##### Artikel 3.2. (aanwijzing misdrijven)
 
-1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 29, eerste lid, juncto bijlage V, onderdeel 6.1, onder c, voor zover dit het bewijs van luchtwaardigheid betreft, van de basisverordening, juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014.
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 29, eerste lid, juncto bijlage V, onderdeel 6.1, onder c, voor zover dit het bewijs van luchtwaardigheid betreft, van de basisverordening, juncto bijlage I, paragraaf M.A.201, onderdeel a, onder 3, voor zover het vluchtuitvoering betreft, van verordening (EU) nr. 1321/2014 en de paragrafen UAS.OPEN.060, tweede lid, onder a, en UAS.SPEC.060, eerste lid, onder a, van uitvoeringsverordening (EU) nr. 2019/947.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
 
