@@ -4,7 +4,7 @@ identifier: "BWBR0020111"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-12-31"
-last_updated: "2015-07-01"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020111"
 soort: "AMvB"
@@ -68,6 +68,8 @@ Hebben goedgevonden en verstaan:
 
 **RPAS:** RPA, het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type ontwerp gespecificeerde componenten;
 
+**uitvoeringsverordening (EU) nr. 2019/947:** uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+
 **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;
 
 **vrije ballon:** luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht om ten minste één persoon te vervoeren;
@@ -78,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een AOC, niet zijnde een ROC af indien wordt voldaan aan:
+1. Onze Minister van Infrastructuur en Waterstaat geeft op aanvraag een AOC, niet zijnde een ROC af indien wordt voldaan aan:
 
 - a. voor vluchten met een vliegtuig: bijlage III bij EG-verordening 3922/91;
 
@@ -86,7 +88,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een ROC af indien wordt voldaan aan de bij ministeriële regeling te stellen eisen.
 
-3. Onze Minister van Infrastructuur en Milieu maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
+3. Onze Minister van Infrastructuur en Waterstaat maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
 
 4. Bij ministeriële regeling kunnen ten aanzien van de gegevens, die bij een aanvraag om afgifte of wijziging dan wel het instandhouden van een AOC dienen te worden verstrekt, regels worden gesteld.
 
@@ -94,13 +96,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Vervallen
+Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba is de basisverordening, voor zover het Hoofdstuk III, Afdeling III betreft.
 
 ##### Artikel 4
 
-1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-07-01&g=2015-07-01), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
+1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2020-12-31&g=2020-12-31), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
 
-2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-07-01&g=2015-07-01), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
+2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2020-12-31&g=2020-12-31), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 5
 
@@ -128,11 +130,11 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 ##### Artikel 8
 
-Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2015-07-01&g=2015-07-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2015-07-01&g=2015-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2015-07-01&g=2015-07-01), is een strafbaar feit.
+Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2020-12-31&g=2020-12-31), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2020-12-31&g=2020-12-31), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2020-12-31&g=2020-12-31), is een strafbaar feit.
 
 ##### Artikel 9
 
-Wijzigt de Regeling Toezicht Luchtvaart.
+Bij ministeriële regeling kunnen bepaalde geografische zones worden afgebakend of aangewezen, als bedoeld in artikel 15, eerste en tweede lid, van uitvoeringsverordening (EU) nr. 2019/947.
 
 ##### Artikel 10
 
