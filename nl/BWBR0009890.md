@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2019-02-16"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -58,35 +58,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.2
 
-1. Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in de [Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492).
-
-2. Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10).
-
-3. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het [Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139) regels zijn gesteld.
-
-4. Dit besluit geldt voorts niet met betrekking tot een stof als bedoeld in [artikel 1, onderdeel a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), die kwik bevat.
-
-5. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan op grond van een ander wettelijk voorschrift krachtens [artikel 9.2.2.1, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) regels zijn gesteld.
+Vervallen
 
 #### § 2. Handelingen met kwikhoudende producten
 
 ##### Artikel 2.1
 
-1. Het is verboden om een kwikhoudend product te vervaardigen of in Nederland in te voeren.
-
-2. Het verbod geldt niet met betrekking tot een kwikhoudend product dat:
-
-- 1°. zich bevindt in tijdelijke opslag als bedoeld in artikel 5, zeventiende lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) of dat is geplaatst onder een douaneregeling inhoudende de bijzondere regeling douanevervoer, douane-entrepot of tijdelijke invoer, bedoeld in artikel 210 van die verordening;
-
-- 2°. ten minste 100 jaar oud is, of
-
-- 3°. afkomstig is uit een lid-staat van de Europese Unie of uit een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en niet bestemd is voor het in Nederland in de handel brengen.
-
-3. Het verbod geldt evenmin met betrekking tot een kwikhoudend meettoestel dat op 3 oktober 2007 ten minste 50 jaar oud was en bedoeld is voor verkoop aan het grote publiek.
-
-4. Een wijziging van de [douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008032) geldt voor de toepassing van dit besluit met ingang van de dag waarop die wijziging van kracht wordt.
-
-5. De uitzonderingen, genoemd in het tweede en derde lid, gelden niet voor kwikhoudende koortsthermometers.
+Vervallen
 
 ##### Artikel 2.2
 
@@ -100,47 +78,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.3
 
-1. Het is verboden om een kwikhoudend product voor handels- of productiedoeleinden voorhanden te hebben of toe te passen; dit verbod geldt met ingang van 1 januari 2003.
-
-2. Het verbod geldt niet indien degene die het kwikhoudend product voorhanden heeft, kan aantonen dat het product vóór 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), gelden niet met betrekking tot de volgende kwikhoudende producten:
-
-- a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
-
-- b. een monstername-apparaat ter bepaling van deeltjes in vloeistoffen;
-
-- c. een kalibratie-instrument bestemd voor lage stroming gasmeters;
-
-- d. een kuvet, bestemd voor de bepaling van het chemisch zuurstof-verbruik;
-
-- e. een McLeod compressie manometer, bestemd voor het meten van absolute drukken kleiner dan 20 kPa;
-
-- f. een dompelpomp-motorinstallatie;
-
-- g. een rollaskop, bestemd voor het rolnaadlassen;
-
-- h. een sleepringlichaam;
-
-- i. een semiconductor testsysteem, alsmede een kwikrelais waarvan de maximale hoeveelheid kwik per component minder dan 0,15 gram bedraagt en dat uitsluitend bestemd is voor toepassing in semiconductor testsystemen;
-
-- j. een kwikthermometer die uitsluitend bestemd is voor het uitvoeren van specifieke analytische testen volgens gestandaardiseerde normen;
-
-- k. een apparaat om platina-weerstandsthermometers te kalibreren met behulp van het tripelpunt van kwik;
-
-- l. een product voor gebruik in de scheepvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, rechtstreeks met de scheepvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Infrastructuur en Milieu noodzakelijk is en scheepsuitrusting waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is;
-
-- m. een product voor gebruik in de luchtvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, alsmede rechtstreeks met de luchtvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is;
-
-- n. apparatuur in gebruik bij de krijgsmacht, waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, dan wel apparatuur ten behoeve van de operationele taken van de krijgsmacht, waarin de toepassing van kwik naar het oordeel van Onze Minister van Defensie noodzakelijk is;
-
-- o. een fotografische film, een fotografische plaat en fotografisch papier, voorzover de film, de plaat of het papier niet meer dan 0,3 mg kwik per kg product bevatten.
+Vervallen
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+Vervallen
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
 
@@ -196,11 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.5a
 
-1. Met ingang van 31 december 2018 is [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=1&artikel=1.2&z=2019-02-16&g=2019-02-16), niet van toepassing op kwikhoudende producten genoemd in bijlage II, Deel A, punt 3 tot en met 6, van de kwikverordening.
-
-2. Met ingang van 31 december 2018 zijn de verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), niet van toepassing op kwikhoudende producten bedoeld in bijlage II, deel A, punt 3 tot en met 6, van de kwikverordening.
-
-3. De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2019-02-16&g=2019-02-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2019-02-16&g=2019-02-16), zijn niet van toepassing indien toestemming is gekregen om een nieuw kwikhoudend product te produceren of in de handel te brengen, door middel van een besluit van de Europese Commissie op grond van artikel 8, zesde lid, van de kwikverordening.
+Vervallen
 
 ##### Artikel 2.7
 
@@ -228,7 +170,7 @@ Het is verboden met tandheelkundig amalgaam, met inbegrip van het afval daarvan,
 
 2. De ingevolge artikel 12 en 14 van de kwikverordening te verstrekken documenten en gegevens worden gezonden aan het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Infrastructuur en Waterstaat.
 
-3. Burgemeester en wethouders zijn, in plaats van Onze Minister, met de bestuursrechtelijke handhaving van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2b&artikel=2.8&z=2019-02-16&g=2019-02-16) belast, voor zover het handelen betreft als bedoeld in artikel 10, vierde en zesde lid, van de kwikverordening.
+3. Burgemeester en wethouders zijn, in plaats van Onze Minister, met de bestuursrechtelijke handhaving van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2b&artikel=2.8&z=2020-12-31&g=2020-12-31) belast, voor zover het handelen betreft als bedoeld in artikel 10, vierde en zesde lid, van de kwikverordening.
 
 #### § 3. Slotbepalingen
 
