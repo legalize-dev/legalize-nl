@@ -4,7 +4,7 @@ identifier: "BWBR0043533"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2020-12-01"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043533"
 soort: "ministeriele-regeling-BES"
@@ -116,7 +116,9 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 ##### Artikel 7. Subsidieplafond Saba kostprijs verlagende subsidie
 
-Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Saba voor de periode van 1 juli 2020 tot en met 31 december 2021 een bedrag van $ 0 beschikbaar.
+1. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Saba voor de periode van 1 juli 2020 tot en met 31 december 2020 een bedrag van $ 0 beschikbaar.
+
+2. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Saba voor de periode van 1 januari 2021 tot en met 31 december 2021 een bedrag van $ 350.000 beschikbaar.
 
 ##### Artikel 8. Wijze van verdeling beschikbare middelen kostprijs verlagende subsidie
 
@@ -164,15 +166,17 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 1. Alleen kinderopvangorganisaties die in het bezit zijn van een exploitatievergunning, dan wel in afwachting zijn van een beslissing omtrent de aanvraag van een exploitatievergunning en in 2019 aantoonbaar kinderen hebben opgevangen komen in aanmerking voor een kostprijs verlagende subsidie.
 
-2. Indien de exploitatievergunning op 1 december 2020 niet is verleend, stopt de subsidieverlening of zoveel eerder indien het openbaar lichaam een negatief advies op het besluit heeft genomen.
+2. Indien de exploitatievergunning op 1 februari 2021 niet is verleend, stopt de subsidieverlening of zoveel eerder indien het openbaar lichaam een negatief advies op het besluit heeft genomen.
 
 3. De kinderopvangorganisatie komt alleen in aanmerking voor een kostprijs verlagende subsidie voor kinderen die zijn ingeschreven als ingezetenen bij het openbaar lichaam waar de opvang plaats vindt.
 
 4. De kinderopvangorganisatie komt alleen in aanmerking voor een kostprijs verlagende subsidie als er sprake is van een schriftelijke overeenkomst betreffende de kinderopvang, tussen de kinderopvangorganisatie en de ouder.
 
-5. De kinderopvangorganisatie komt alleen in aanmerking voor een kostprijs verlagende subsidie als er sprake is van een door het openbaar lichaam goedgekeurd transitieplan of indien het transitieplan binnen drie maanden na verlening van de subsidie is goedgekeurd door het openbaar lichaam.
+5. De kinderopvangorganisatie komt alleen in aanmerking voor een kostprijs verlagende subsidie als er sprake is van een door het openbaar lichaam goedgekeurd transitieplan of indien het transitieplan uiterlijk 1 mei 2021 is goedgekeurd door het openbaar lichaam.
 
-6. De minister kan indien niet wordt voldaan aan de voorwaarde, bedoeld in het tweede lid, op advies van het openbaar lichaam een uitzondering maken in het belang van het kind.
+6. De kinderopvangorganisatie komt alleen in aanmerking voor een kostprijs verlagende subsidie als er sprake is van kinderopvang.
+
+7. De minister kan indien niet wordt voldaan aan de voorwaarde, bedoeld in het derde lid, op advies van het openbaar lichaam een uitzondering maken in het belang van het kind.
 
 ##### Artikel 11. Verplichtingen kostprijs verlagende subsidie
 
@@ -184,33 +188,37 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 ##### Artikel 12. Hoogte kostprijs verlagende subsidie
 
-1. De hoogte van de kostprijs verlagende subsidie per dagdeel per kind voor de dagopvang bedraagt $ 5 op Bonaire en $ 2 op Sint Eustatius.
+1. De hoogte van de kostprijs verlagende subsidie per dagdeel per kind voor de dagopvang bedraagt $ 5 op Bonaire, $ 2 op Sint Eustatius en $ 3,90 op Saba.
 
-2. De hoogte van de kostprijs verlagende subsidie per dagdeel per kind voor de buitenschoolse opvang bedraagt $ 7,50 op Bonaire en $ 10 op Sint Eustatius.
+2. De hoogte van de kostprijs verlagende subsidie per dagdeel per kind voor de buitenschoolse opvang bedraagt $ 7,50 op Bonaire, $ 10 op Sint Eustatius en $ 11,25 op Saba.
 
 3. De hoogte van de kostprijs verlagende subsidie voor de gastouderopvang per dagdeel per kind voor de dagopvang bedraagt $ 2,50 op Bonaire.
 
 4. De hoogte van de kostprijs verlagende subsidie voor de gastouderopvang per dagdeel per kind voor de buitenschoolse opvang bedraagt $ 5,00 op Bonaire.
 
-5. De subsidie bedraagt voor een kinderopvangorganisatie per locatie per kwartaal maximaal de hoogte van de kostprijs verlagende subsidie vermenigvuldigd met het maximale aantal kinderen dat volgens de exploitatievergunning wordt opgevangen. Het maximale aantal dagdelen per kind is twee per dag en 40 per maand voor de dagopvang en maximaal één per dag en 20 per maand voor de buitenschoolse opvang.
+5. De subsidie bedraagt voor een kinderopvangorganisatie per locatie per kwartaal maximaal de hoogte van de kostprijs verlagende subsidie vermenigvuldigd met het maximale aantal kinderen dat volgens de exploitatievergunning wordt opgevangen. Het maximale aantal dagdelen per kind is twee dagdelen per dag en 40 dagdelen per maand voor de dagopvang en maximaal één dagdeel per dag en 20 dagdelen per maand voor de buitenschoolse opvang, met uitzondering van schoolvakanties waarbij buitenschoolse opvang maximaal twee dagdelen per dag is.
 
 ##### Artikel 13. Hoogte ouderbijdrage
 
-1. De hoogte van de minimale ouderbijdrage bedraagt $ 150 en de maximale ouderbijdrage bedraagt $ 200 van de ouders voor de dagopvang op Bonaire.
+1. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de dagopvang op Bonaire.
 
-2. De hoogte van de minimale ouderbijdrage bedraagt $ 100 en de maximale ouderbijdrage bedraagt $ 200 van de ouders voor de buitenschoolse opvang op Bonaire.
+2. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang op Bonaire.
 
-3. De hoogte van de minimale ouderbijdrage bedraagt $ 150 en de maximale ouderbijdrage bedraagt $ 175 van de ouders voor de dagopvang bij gastouderopvang op Bonaire.
+3. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 175 van de ouders voor de dagopvang bij gastouderopvang op Bonaire.
 
-4. De hoogte van de minimale ouderbijdrage bedraagt $ 100 en de maximale ouderbijdrage bedraagt $ 200 van de ouders voor de buitenschoolse opvang bij gastouderopvang op Bonaire.
+4. De hoogte van de minimale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 en de maximale ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in artikel 12, vijfde lid, bedraagt $ 200 van de ouders voor de buitenschoolse opvang bij gastouderopvang op Bonaire.
 
-5. De hoogte van de minimale ouderbijdrage bedraagt $ 150 van de ouders voor de dagopvang op Sint Eustatius.
+5. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 150 van de ouders voor de dagopvang op Sint Eustatius.
 
-6. De hoogte van de minimale ouderbijdrage bedraagt $ 75 van de ouders voor de buitenschoolse opvang op Sint Eustatius.
+6. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 75 van de ouders voor de buitenschoolse opvang op Sint Eustatius.
 
-7. Indien de ouderbijdrage die de kinderopvangorganisatie in rekening bij de ouder heeft gebracht voor 1 juli 2020, lager is dan de ouderbijdrage zoals opgenomen in het eerste tot en met zesde, kan de minister op advies van het openbaar lichaam afwijken van de bedragen genoemd in deze leden.
+7. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 100 van de ouders voor de dagopvang op Saba.
 
-8. Indien de kinderopvangorganisatie er voor kiest een hogere ouderbijdrage in rekening te brengen bij de ouder dan de maximale bedragen bedoeld in dit artikel, zal de subsidie worden gekort met het bedrag dat ligt boven de maximale ouderbijdrage.
+8. De hoogte van de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2020-12-31&g=2020-12-31), bedraagt $ 50 van de ouders voor de buitenschoolse opvang op Saba.
+
+9. Indien de ouderbijdrage die de kinderopvangorganisatie in rekening bij de ouder heeft gebracht voor 1 juli 2020, lager is dan de ouderbijdrage zoals opgenomen in het eerste tot en met het achtste lid, kan de minister op advies van het openbaar lichaam afwijken van de bedragen genoemd in deze leden.
+
+10. Indien de kinderopvangorganisatie er voor kiest een hogere ouderbijdrage in rekening te brengen bij de ouder dan de maximale bedragen bedoeld in dit artikel, zal de subsidie worden gekort met het bedrag dat ligt boven de maximale ouderbijdrage.
 
 ##### Artikel 14. Kindplaatssubsidie
 
@@ -238,9 +246,11 @@ Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeli
 
 4. De minister betaalt de kostprijs verlagende subsidies en de kindplaatssubsidies per kwartaal in de vorm van een voorschot.
 
-5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-07-01&g=2020-12-01) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
+5. Na afloop van ieder kwartaal wordt het volgende voorschot opnieuw bepaald op basis van de informatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-12-31&g=2020-12-31) en vindt zo nodig verrekening plaats met betrekking tot het voorgaande kwartaal.
 
-6. De looptijd van de subsidie wordt bepaald bij verleningsbeschikking maar eindigt in ieder geval op 31 december 2021.
+5. De kinderopvangorganisatie kan bij de minister een aanvraag doen tot een eenmalig voorschot met een maximale hoogte van 35% van het bedrag vastgesteld aan de hand van de informatie, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=16&z=2020-12-31&g=2020-12-31). Dit voorschot wordt in het laatste kwartaal voorafgaand aan de vaststelling verrekend.
+
+7. De looptijd van de subsidie wordt bepaald bij verleningsbeschikking maar eindigt in ieder geval op 31 december 2021.
 
 ##### Artikel 16. Informatieverplichtingen
 
@@ -282,7 +292,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - a. de subsidieaanvraag niet voldoet aan de krachtens deze regeling gestelde voorwaarden;
 
-- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2020-07-01&g=2020-12-01), reeds door eerder ingediende aanvragen zijn uitgeput.
+- b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2020-12-31&g=2020-12-31), reeds door eerder ingediende aanvragen zijn uitgeput.
 
 ##### Artikel 18. Intrekking subsidie
 
