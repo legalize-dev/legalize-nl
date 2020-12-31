@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2019-11-07"
+last_updated: "2020-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -46,15 +46,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport.
+- **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
+
+- **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 20139, L 152).
 
 ##### Artikel 2
 
-Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig die wordt uitgevoerd in het verband van een modelluchtvaartuigclub of -vereniging, als bedoeld in artikel 2, onder 10, van uitvoeringsverordening (EU) nr. 2019/947 de volgende regels:
 
 - a. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
 
-- b. de bestuurder houdt tijdens de gehele vlucht goed zicht op het modelluchtvaartuig;
+- b. de bestuurder houdt tijdens de gehele vlucht goed zicht op het modelluchtvaartuig behalve wanneer de bestuurder wordt bijgestaan door een waarnemer die zich naast hem bevindt en zonder hulp visueel contact houdt met het modelluchtvaartuig en zo de bestuurder helpt om de vlucht veilig uit te voeren;
 
 - c. een hoogtemeter hoeft niet te worden gebruikt;
 
