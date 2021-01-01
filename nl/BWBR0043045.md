@@ -4,7 +4,7 @@ identifier: "BWBR0043045"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2020-01-01"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043045"
 soort: "wet"
@@ -58,8 +58,6 @@ Wijzigt het Wetboek van Strafrecht.
 ##### Artikel IV
 
 Wijzigt de Penitentiaire beginselenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
