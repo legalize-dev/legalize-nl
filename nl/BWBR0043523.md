@@ -4,7 +4,7 @@ identifier: "BWBR0043523"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-07-12"
-last_updated: "2020-07-08"
+last_updated: "2021-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043523"
 soort: "beleidsregel"
@@ -60,7 +60,7 @@ In deze beleidsregel wordt verstaan onder:
 
 Het doel van het experiment is om bij de deelnemende scholen te onderzoeken:
 
-- a. welke impact de mogelijkheid om bij een tekort in de formatie van een school af te wijken van de wettelijke voorschriften genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08), onder de aldaar genoemde voorwaarden, heeft op de omgang met de personeelstekorten, kwaliteit, kansengelijkheid, werkdruk, continuïteit en de organisatie van het onderwijs van de deelnemende scholen; en
+- a. welke impact de mogelijkheid om bij een tekort in de formatie van een school af te wijken van de wettelijke voorschriften genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01), onder de aldaar genoemde voorwaarden, heeft op de omgang met de personeelstekorten, kwaliteit, kansengelijkheid, werkdruk, continuïteit en de organisatie van het onderwijs van de deelnemende scholen; en
 
 - b. of de uitkomsten van het experiment voldoende grond bieden voor het aanpassen van wet- en regelgeving.
 
@@ -92,27 +92,27 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - b. een beschrijving van de uitvoering van het noodplan in de betreffende stad waarin in ieder geval het volgende is opgenomen:
 
-- 1°. Een overzicht van de wijze waarop het bevoegd gezag voornemens is gebruik te maken van de mogelijkheid om onder voorwaarden af te wijken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08); en
+- 1°. Een overzicht van de wijze waarop het bevoegd gezag voornemens is gebruik te maken van de mogelijkheid om onder voorwaarden af te wijken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01); en
 
-- 2°. De wijze waarop onbevoegde docenten worden begeleid bij het geven van onderwijsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08).
+- 2°. De wijze waarop onbevoegde docenten worden begeleid bij het geven van onderwijsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01).
 
 ##### Artikel 5. Selectie en beslistermijn
 
-1. Voor toelating tot het experiment beoordeelt de minister of de aanvraag voldoet aan de voorschriften uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2020-07-08).
+1. Voor toelating tot het experiment beoordeelt de minister of de aanvraag voldoet aan de voorschriften uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2021-01-01).
 
-2. De minister besluit uiterlijk op 30 september 2020 op de aanvragen, bedoeld in [artikel 4, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2020-07-08), tot deelname aan het experiment. In de daaropvolgende jaren besluit de minister uiterlijk op 15 mei.
+2. De minister besluit uiterlijk op 30 september 2020 op de aanvragen, bedoeld in [artikel 4, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2021-01-01), tot deelname aan het experiment. In de daaropvolgende jaren besluit de minister uiterlijk op 15 mei.
 
 ##### Artikel 6. Looptijd van het experiment
 
 1. Het experiment begint op 1 augustus van een schooljaar en eindigt op 31 juli 2024.
 
-2. Bevoegde gezagsorganen en scholen die deelnamen aan het experiment voldoen vanaf de start van het schooljaar 2024–2025 weer aan de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08).
+2. Bevoegde gezagsorganen en scholen die deelnamen aan het experiment voldoen vanaf de start van het schooljaar 2024–2025 weer aan de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01).
 
 3. In afwijking van het eerste lid begint het experiment op 1 oktober 2020 voor een bevoegd gezag dat in 2020 een aanvraag heeft ingediend in de periode van 8 juni 2020 tot en met 13 september 2020.
 
 ##### Artikel 7. Melding gebruik en beëindiging van het gebruik van het noodplan
 
-1. Een school van een bevoegd gezag dat deelneemt aan het experiment kan pas gebruik maken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08) geboden mogelijkheden, nadat de school melding heeft gemaakt bij het onderzoeksbureau van het besluit dat zij voornemens is om de acties uit het plan, bedoeld in [artikel 4, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2020-07-08), daadwerkelijk ten uitvoer te brengen.
+1. Een school van een bevoegd gezag dat deelneemt aan het experiment kan pas gebruik maken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01) geboden mogelijkheden, nadat de school melding heeft gemaakt bij het onderzoeksbureau van het besluit dat zij voornemens is om de acties uit het plan, bedoeld in [artikel 4, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2020-07-08&g=2021-01-01), daadwerkelijk ten uitvoer te brengen.
 
 2. De melding bedoeld in het eerste lid, bevat in ieder geval:
 
@@ -120,13 +120,13 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - b. de dagtekening;
 
-- c. een bewijs van instemming van de medezeggenschapsraad op het plan op schoolniveau als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=8&z=2020-07-08&g=2020-07-08);
+- c. een bewijs van instemming van de medezeggenschapsraad op het plan op schoolniveau als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=8&z=2020-07-08&g=2021-01-01);
 
-- d. een omschrijving van de wijze waarop gebruik wordt gemaakt van de mogelijkheid om onder voorwaarden af te wijken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08); en
+- d. een omschrijving van de wijze waarop gebruik wordt gemaakt van de mogelijkheid om onder voorwaarden af te wijken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01); en
 
-- e. de verwachte duur van de afwijking van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08) in de vorm van een verwachte startdatum en een verwachte einddatum, waarbij de einddatum niet later ligt dan op 31 juli volgend op de melding.
+- e. de verwachte duur van de afwijking van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01) in de vorm van een verwachte startdatum en een verwachte einddatum, waarbij de einddatum niet later ligt dan op 31 juli volgend op de melding.
 
-3. De mogelijkheid gebruik te maken van de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08) geboden mogelijkheden verloopt op 31 juli van het schooljaar waarin de melding is gedaan. Tijdens de looptijd van het experiment kan een nieuwe melding worden gedaan, waardoor opnieuw gebruik kan worden gemaakt van de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08) geboden mogelijkheden.
+3. De mogelijkheid gebruik te maken van de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01) geboden mogelijkheden verloopt op 31 juli van het schooljaar waarin de melding is gedaan. Tijdens de looptijd van het experiment kan een nieuwe melding worden gedaan, waardoor opnieuw gebruik kan worden gemaakt van de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01) geboden mogelijkheden.
 
 4. Bevoegde gezagsorganen en scholen die deelnemen aan het experiment streven ernaar om zo snel als mogelijk terug te keren naar een situatie waarbij afwijken van de wet niet meer noodzakelijk is en zij maken er dan ook melding van op het moment dat zij terugkeren naar deze situatie.
 
@@ -140,13 +140,13 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - c. de situatie die aanleiding is voor het afmelden;
 
-- d. een omschrijving van de wijze waarop werd afgeweken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08); en
+- d. een omschrijving van de wijze waarop werd afgeweken van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01); en
 
-- e. de startdatum en einddatum van de afwijking van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2020-07-08).
+- e. de startdatum en einddatum van de afwijking van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2020-07-08&g=2021-01-01).
 
 ##### Artikel 8. Plan op schoolniveau
 
-1. Voordat een school een eerste melding doet als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2020-07-08&g=2020-07-08), stelt de school een plan op schoolniveau op en legt dit ter instemming voor aan de medezeggenschapsraad, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3). Indien het plan op schoolniveau inhoudelijk wordt gewijzigd is opnieuw instemming van de medezeggenschapsraad nodig.
+1. Voordat een school een eerste melding doet als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2020-07-08&g=2021-01-01), stelt de school een plan op schoolniveau op en legt dit ter instemming voor aan de medezeggenschapsraad, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3). Indien het plan op schoolniveau inhoudelijk wordt gewijzigd is opnieuw instemming van de medezeggenschapsraad nodig.
 
 2. In het plan, bedoeld in het eerste lid, wordt opgenomen:
 
@@ -160,7 +160,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 2. Bij het onderzoek zal in ieder geval inzichtelijk worden gemaakt op welke wijze en in welke mate scholen gebruik hebben gemaakt van de geboden afwijkingsmogelijkheden, waarbij in ieder geval aandacht wordt besteed aan de frequentie van de afwijkingen, het type afwijkingen en de impact daarvan op de omgang met de personeelstekorten, kwaliteit, kansengelijkheid, werkdruk, continuïteit en de organisatie van het onderwijs van de deelnemende scholen.
 
-3. De minister schakelt een onderzoeksbureau in ten behoeve van de meldingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2020-07-08&g=2020-07-08) en het onderzoek bedoeld in de eerste twee leden.
+3. De minister schakelt een onderzoeksbureau in ten behoeve van de meldingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2020-07-08&g=2021-01-01) en het onderzoek bedoeld in de eerste twee leden.
 
 ##### Artikel 10. Inwerkingtreding
 
